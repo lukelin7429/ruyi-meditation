@@ -15192,3 +15192,2441 @@ page_range(
         "principle of honest, unexpanded elision.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 13.1 — Nakhasikhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    13, 1, "Nakhasikhā", "A Fingernail",
+    meta_title="SN 13.1 — A Fingernail | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nakhasikhāsutta — opening Abhisamayasaṃyutta, the "
+        "Buddha picks up a speck of dirt on his own fingernail to "
+        "show how little suffering remains for a stream-enterer "
+        "compared to what's already ended. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A physical gesture turned into a question, "
+                 "answered by the mendicants, then applied directly "
+                 "to a stream-enterer's remaining suffering"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; opens a short saṃyutta built entirely "
+                       "from one recurring comparison"),
+    ],
+    why=(
+        "Opening Abhisamayasaṃyutta &mdash; the saṃyutta named for "
+        "abhisamaya, comprehension or breakthrough &mdash; the "
+        "Buddha doesn't reach for a verbal image alone; he physically "
+        "picks up a speck of dirt on his own fingernail and holds it "
+        "up against the whole earth. The mendicants immediately agree "
+        "the earth is incomparably more. That comparison becomes the "
+        "template for the entire saṃyutta: for a noble disciple "
+        "accomplished in view, someone who has genuinely comprehended "
+        "the teaching, the suffering already ended dwarfs what "
+        "little remains, since such a person has at most seven more "
+        "lives before their suffering ends completely. This is the "
+        "only discourse in the set built on something the Buddha "
+        "actually does with his own hand, rather than a hypothetical "
+        "scene described in words."),
+    guide=[
+        ("A gesture, not just an image", [
+            "Where the other ten discourses in this saṃyutta ask the "
+            "mendicants to imagine a pond, a river, an ocean, or a "
+            "mountain, this discourse opens with something "
+            "physically present and visible in the moment: an actual "
+            "speck of dirt on the Buddha's actual fingernail, giving "
+            "the whole saṃyutta's opening comparison a tangible, "
+            "immediate quality none of the others quite share."]),
+        ("A term that names the whole collection", [
+            "\"Abhisametāvino,\" one who has comprehended, is the "
+            "word this entire saṃyutta takes its name from; a noble "
+            "disciple accomplished in view is defined here precisely "
+            "as someone for whom this comparison &mdash; almost all "
+            "suffering over, only a trace left &mdash; already holds "
+            "true."]),
+        ("A specific number naming what remains", [
+            "The tiny remainder isn't left vague; it's given a "
+            "precise upper bound, \"at most seven more lives\" "
+            "(sattakkhattuṁparamatā), the standard technical "
+            "description of a stream-enterer's remaining rebirths "
+            "before final liberation."]),
+        ("A threefold negative for emphasis", [
+            "The comparison isn't simply \"much less\"; it's stated "
+            "three times over &mdash; not a hundredth, not a "
+            "thousandth, not a hundred-thousandth part &mdash; a "
+            "formula that recurs unchanged throughout every "
+            "discourse in this saṃyutta."]),
+        ("The first of eleven variations on one comparison", [
+            "Every discourse that follows in this short saṃyutta "
+            "runs the identical logical structure through a "
+            "different image &mdash; a lotus pond, a river "
+            "confluence, the ocean, a mountain &mdash; making this "
+            "opening discourse less a standalone teaching than the "
+            "template the other ten will vary."]),
+    ],
+    terms=[
+        ("parittaṁ nakhasikhāyaṁ paṁsuṁ āropetvā",
+         "&ldquo;picking up a little bit of dirt on his "
+         "fingernail&rdquo; &mdash; the physical gesture opening "
+         "this discourse, unique among the eleven in this saṃyutta."),
+        ("mahāpathavī",
+         "&ldquo;the great earth&rdquo; &mdash; what the speck of "
+         "dirt is measured against."),
+        ("ariyasāvakassa diṭṭhisampannassa puggalassa "
+         "abhisametāvino",
+         "&ldquo;a noble disciple accomplished in view, an "
+         "individual with comprehension&rdquo; &mdash; the term "
+         "giving this whole saṃyutta its name."),
+        ("sattakkhattuṁparamatā",
+         "&ldquo;at most seven more lives&rdquo; &mdash; the "
+         "precise technical bound on a stream-enterer's remaining "
+         "rebirths."),
+        ("evaṁ mahatthiyo kho&hellip; dhammābhisamayo; evaṁ "
+         "mahatthiyo dhammacakkhupaṭilābho",
+         "&ldquo;that's how very beneficial it is to comprehend the "
+         "teaching and gain the vision of the teaching&rdquo; "
+         "&mdash; the closing refrain repeated through this "
+         "saṃyutta."),
+    ],
+    text_intro=(
+        "The discourse in full, opening Abhisamayasaṃyutta. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn13.1:1.1-1.5"),
+        ("p", "&sect;2", "sn13.1:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha physically do at the start of this discourse?",
+         "opts": [
+             "Picks up a speck of dirt on his own fingernail",
+             "Draws a diagram in the sand",
+             "Holds up a bowl of water",
+             "Points to a distant mountain"],
+         "correct": 0,
+         "expl": "The only discourse in this saṃyutta built on an actual physical gesture."},
+        {"q": "What does the mendicants' answer confirm about the dirt compared to the earth?",
+         "opts": [
+             "The earth is incomparably more — not nearly a hundredth, thousandth, or hundred-thousandth part",
+             "The dirt and the earth are roughly equal",
+             "The dirt is actually larger in a meaningful sense",
+             "The comparison cannot be made"],
+         "correct": 0,
+         "expl": "The threefold negative formula recurring throughout this saṃyutta."},
+        {"q": "What does \"abhisametāvino\" mean, and why does it matter here?",
+         "opts": [
+             "\"One who has comprehended\" — the term this entire saṃyutta is named for",
+             "\"One who has never studied\" — a description this discourse rejects",
+             "A proper name for a specific mendicant",
+             "A term unrelated to this saṃyutta's title"],
+         "correct": 0,
+         "expl": "Defining the noble disciple this comparison is applied to."},
+        {"q": "What precise number bounds a stream-enterer's remaining rebirths, according to this discourse?",
+         "opts": [
+             "At most seven more lives",
+             "Exactly one more life",
+             "An unlimited number of lives",
+             "The discourse gives no specific number"],
+         "correct": 0,
+         "expl": "Sattakkhattuṁparamatā, the standard technical description of this attainment."},
+        {"q": "How is the comparison between suffering ended and suffering remaining stated?",
+         "opts": [
+             "With a threefold negative — not a hundredth, not a thousandth, not a hundred-thousandth part",
+             "With a single simple statement of \"much less\"",
+             "As a precise percentage",
+             "The comparison is left entirely implicit"],
+         "correct": 0,
+         "expl": "A formula recurring unchanged throughout this saṃyutta."},
+        {"q": "How does this discourse relate to the other ten in this saṃyutta?",
+         "opts": [
+             "It establishes the template the other ten vary with different images",
+             "It has no structural relationship to the discourses that follow",
+             "It contradicts the teaching given in later discourses",
+             "It is the only discourse using a mathematical comparison"],
+         "correct": 0,
+         "expl": "A pond, a river, an ocean, a mountain — the same structure, restated eleven ways."},
+        {"q": "What is unique about this discourse's opening image compared to the other ten?",
+         "opts": [
+             "It uses something physically present and visible, not a hypothetical described scene",
+             "It uses no image at all",
+             "It is the only one addressed to a single named mendicant",
+             "It is the only one that doesn't involve a comparison"],
+         "correct": 0,
+         "expl": "An actual gesture, not an imagined pond, river, or mountain."},
+        {"q": "What does the closing refrain call \"very beneficial\"?",
+         "opts": [
+             "Comprehending the teaching and gaining the vision of the teaching",
+             "Accumulating wealth",
+             "Traveling to distant lands",
+             "Memorizing scripture without understanding it"],
+         "correct": 0,
+         "expl": "The recurring closing formula shared across this saṃyutta's discourses."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears, though the mendicants respond to his question."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with every discourse in this saṃyutta."},
+    ],
+    marginalia=[
+        ("A gesture, not just a picture", [
+            "dirt on an actual fingernail &mdash;",
+            "present, not merely imagined",
+        ]),
+        ("A word naming the whole collection", [
+            "abhisametāvino, one who has comprehended &mdash;",
+            "the saṃyutta's own name, defined here",
+        ]),
+        ("A number given to what remains", [
+            "at most seven more lives &mdash;",
+            "not vague, but precisely bounded",
+        ]),
+        ("A template, not a standalone teaching", [
+            "the same shape, ten more times &mdash;",
+            "pond, river, ocean, mountain to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn13.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.93-213.html">SN 12.93&ndash;213 &middot; Sets of Eleven on Training, Etc.</a> '
+        "&mdash; the page closing Nidānasaṃyutta, immediately before "
+        "this discourse.",
+        '<a href="sn-13.2.html">SN 13.2 &middot; A Lotus Pond</a> '
+        "&mdash; the next discourse, the same comparison restated "
+        "with water instead of earth.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 13.2 — Pokkharaṇīsutta
+# --------------------------------------------------------------------------- #
+page(
+    13, 2, "Pokkharaṇī", "A Lotus Pond",
+    meta_title="SN 13.2 — A Lotus Pond | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pokkharaṇīsutta — a lotus pond fifty leagues in every "
+        "direction against a single drop of water on the tip of a "
+        "blade of grass, restating SN 13.1's comparison in water "
+        "rather than earth. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same structure as SN 13.1 &mdash; a comparison "
+                 "posed, confirmed by the mendicants, then applied "
+                 "&mdash; using a described rather than a physically "
+                 "present image"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; the same teaching as SN 13.1, in a "
+                       "different image"),
+    ],
+    why=(
+        "This discourse carries SN 13.1's exact comparison &mdash; "
+        "the suffering already ended dwarfing what remains for a "
+        "stream-enterer &mdash; into a second image, and shifts from "
+        "the tangible dirt-on-a-fingernail to a described scene: a "
+        "vast lotus pond, fifty leagues long, fifty wide, and fifty "
+        "deep, filled right to the brim, against a single drop of "
+        "water someone picks up on the tip of a blade of grass. Read "
+        "beside SN 13.1, this discourse begins the pattern the rest "
+        "of this saṃyutta will follow: the same underlying "
+        "comparison, restated through a fresh, increasingly vivid "
+        "picture each time, without adding any new doctrinal content "
+        "to what SN 13.1 already established."),
+    guide=[
+        ("A described scene, not a present object", [
+            "Unlike SN 13.1's actual fingernail, this discourse's "
+            "pond exists only as a description the mendicants are "
+            "asked to picture, the first instance of the imagined "
+            "rather than physically demonstrated comparisons that "
+            "will structure the rest of this saṃyutta."]),
+        ("Scale given in three dimensions at once", [
+            "The pond's size isn't left to the imagination in a "
+            "single measurement; it's given length, width, and depth "
+            "each as fifty leagues, a deliberately layered way of "
+            "establishing scale that SN 13.1's simple \"great "
+            "earth\" didn't need."]),
+        ("A specific, almost proverbial detail", [
+            "\"Full to the brim so a crow could drink from it\" "
+            "(kākapeyyā) is a stock phrase in the Pali canon for a "
+            "body of water filled exactly to its rim, adding a "
+            "concrete, almost folkloric texture to what could "
+            "otherwise be an abstract measurement."]),
+        ("A single drop, drawn deliberately rather than found", [
+            "Where SN 13.1's dirt was simply picked up, this "
+            "discourse's drop of water is drawn out specifically on "
+            "the tip of a blade of grass, a small but deliberate "
+            "change in how the tiny quantity is obtained."]),
+        ("The same conclusion, unchanged", [
+            "Every element of the closing application &mdash; the "
+            "noble disciple accomplished in view, the threefold "
+            "negative comparison, the seven-lives bound, the "
+            "benefit of comprehending the teaching &mdash; is "
+            "repeated here exactly as SN 13.1 gave it, confirming "
+            "that the point itself doesn't change from discourse to "
+            "discourse, only the image carrying it."]),
+    ],
+    terms=[
+        ("pokkharaṇī paññāsayojanāni āyāmena paññāsayojanāni "
+         "vitthārena paññāsayojanāni ubbedhena",
+         "&ldquo;a lotus pond fifty leagues long, fifty leagues "
+         "wide, and fifty leagues deep&rdquo; &mdash; scale given in "
+         "three dimensions at once."),
+        ("puṇṇā udakassa samatittikā kākapeyyā",
+         "&ldquo;full to the brim so a crow could drink from "
+         "it&rdquo; &mdash; a stock Pali phrase for water filled "
+         "exactly to the rim."),
+        ("kusaggena udakaṁ uddhareyya",
+         "&ldquo;pick up some water on the tip of a blade of "
+         "grass&rdquo; &mdash; the deliberately drawn tiny quantity, "
+         "distinct from SN 13.1's simply picked-up dirt."),
+        ("ariyasāvakassa diṭṭhisampannassa puggalassa "
+         "abhisametāvino",
+         "&ldquo;a noble disciple accomplished in view, an "
+         "individual with comprehension&rdquo; &mdash; the same "
+         "defining term as SN 13.1."),
+        ("evaṁ mahatthiyo kho&hellip; dhammābhisamayo; evaṁ "
+         "mahatthiyo dhammacakkhupaṭilābho",
+         "&ldquo;that's how very beneficial it is to comprehend the "
+         "teaching and gain the vision of the teaching&rdquo; "
+         "&mdash; the same closing refrain as SN 13.1, unchanged."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn13.2:1.1-1.5"),
+        ("p", "&sect;2", "sn13.2:2.1-2.3"),
+        ("p", "&sect;3", "sn13.2:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What image does this discourse use, unlike SN 13.1's physically present dirt?",
+         "opts": [
+             "A described scene — a vast lotus pond the mendicants are asked to picture",
+             "Another physical object held up by the Buddha",
+             "No image at all",
+             "A dream reported by a mendicant"],
+         "correct": 0,
+         "expl": "The first of this saṃyutta's imagined, rather than physically demonstrated, comparisons."},
+        {"q": "How is the pond's scale established?",
+         "opts": [
+             "Length, width, and depth, each given as fifty leagues",
+             "A single vague statement that it is \"very large\"",
+             "By comparing it to a named mountain",
+             "The discourse gives no measurements at all"],
+         "correct": 0,
+         "expl": "A deliberately layered way of establishing scale in three dimensions at once."},
+        {"q": "What does \"kākapeyyā\" (so a crow could drink from it) describe?",
+         "opts": [
+             "The pond being filled exactly to the brim",
+             "A crow drinking from the pond during the discourse",
+             "The pond being nearly empty",
+             "A specific species of bird native to Sāvatthī"],
+         "correct": 0,
+         "expl": "A stock Pali phrase for water filled precisely to its rim."},
+        {"q": "How is the tiny quantity of water obtained, in contrast to SN 13.1's dirt?",
+         "opts": [
+             "Drawn deliberately on the tip of a blade of grass",
+             "Found already sitting on a leaf",
+             "Poured from a small cup",
+             "Left unspecified"],
+         "correct": 0,
+         "expl": "A small but deliberate variation from SN 13.1's simply picked-up dirt."},
+        {"q": "How does this discourse's closing application compare to SN 13.1's?",
+         "opts": [
+             "Identical — the same noble disciple, the same threefold comparison, the same seven-lives bound",
+             "Substantially different, introducing new doctrinal content",
+             "Reversed in meaning",
+             "Entirely omitted in this discourse"],
+         "correct": 0,
+         "expl": "Confirming the point stays constant while only the image changes."},
+        {"q": "What pattern does this discourse begin that structures the rest of this saṃyutta?",
+         "opts": [
+             "The same comparison restated through a fresh, increasingly vivid image each time",
+             "A pattern of increasingly different doctrinal claims",
+             "A pattern of dialogues with named interlocutors",
+             "A pattern of similes drawn from monastic life"],
+         "correct": 0,
+         "expl": "No new content added, only a new picture carrying the same point."},
+        {"q": "What term names the noble disciple this comparison applies to?",
+         "opts": [
+             "Ariyasāvakassa diṭṭhisampannassa puggalassa abhisametāvino",
+             "Dhammakathiko",
+             "Khīṇāsavo",
+             "Paññāvimutto"],
+         "correct": 0,
+         "expl": "The same defining phrase as SN 13.1."},
+        {"q": "What formula closes the comparison between suffering ended and suffering remaining?",
+         "opts": [
+             "Not a hundredth, not a thousandth, not a hundred-thousandth part",
+             "A precise percentage stated numerically",
+             "A single word, \"immeasurable\"",
+             "No formula is given"],
+         "correct": 0,
+         "expl": "The same threefold negative used throughout this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with every discourse in this saṃyutta."},
+    ],
+    marginalia=[
+        ("A scene pictured, not present", [
+            "no fingernail this time &mdash;",
+            "a pond held only in the mind's eye",
+        ]),
+        ("Scale given three ways at once", [
+            "length, width, depth, each fifty leagues &mdash;",
+            "layered where the earth needed no layering",
+        ]),
+        ("A drop drawn deliberately", [
+            "the tip of a blade of grass &mdash;",
+            "not simply found, but sought out",
+        ]),
+        ("The same point, unchanged underneath", [
+            "seven lives, threefold negation &mdash;",
+            "only the picture is new",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn13.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-13.1.html">SN 13.1 &middot; A Fingernail</a> '
+        "&mdash; the discourse immediately before this one, opening "
+        "this saṃyutta with the identical comparison.",
+        '<a href="sn-13.3.html">SN 13.3 &middot; Where the Waters Join Together</a> '
+        "&mdash; the next discourse, opening the first of four "
+        "forward-and-reverse simile pairs in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 13.3 — Sambhejjaudakasutta
+# --------------------------------------------------------------------------- #
+page(
+    13, 3, "Sambhejjaudaka", "Where the Waters Join Together",
+    meta_title="SN 13.3 — Where the Waters Join Together | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sambhejjaudakasutta — the confluence of five named "
+        "great rivers against two or three drops drawn out, opening "
+        "this saṃyutta's first forward-and-reverse pair of similes. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same comparison structure as SN 13.1 and SN "
+                 "13.2, now naming five specific rivers and closing "
+                 "with the formula elided for the first time in this "
+                 "saṃyutta"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; opens a pairing structure this "
+                       "saṃyutta will repeat three more times"),
+    ],
+    why=(
+        "This discourse names five actual rivers &mdash; the "
+        "Ganges, Yamunā, Aciravatī, Sarabhū, and Mahī &mdash; a "
+        "stock grouping of major waterways appearing elsewhere in "
+        "the early texts, and pictures the place where they converge "
+        "into one confluence. Two or three drops drawn from that "
+        "confluence, compared to the confluence itself, restates the "
+        "same tiny-against-vast comparison already given twice; what "
+        "makes this discourse worth reading closely is that it opens "
+        "the first of four matched pairs running through the rest of "
+        "this saṃyutta, each pair applying the identical image once "
+        "in a \"drawn out\" direction and once in a \"dried up\" "
+        "direction. SN 13.4 immediately supplies this discourse's "
+        "reverse half."),
+    guide=[
+        ("Five named rivers, not a generic body of water", [
+            "Unlike SN 13.2's unnamed lotus pond, this discourse "
+            "names five actual rivers &mdash; the Ganges among them "
+            "&mdash; a specific, recognizable grouping used "
+            "elsewhere in the canon for \"the great rivers,\" giving "
+            "this image a geographic concreteness the earlier two "
+            "discourses didn't reach for."]),
+        ("A confluence, not a single body of water", [
+            "Rather than one vast pond or ocean, the point of "
+            "comparison here is specifically where multiple rivers "
+            "converge and merge, a moment of joining rather than a "
+            "static container, subtly different from SN 13.1 and SN "
+            "13.2's single fixed images."]),
+        ("The first half of a matched pair", [
+            "This discourse asks which is more, the drops drawn out "
+            "or the water in the confluence; its immediate successor, "
+            "SN 13.4, asks the same question in reverse, comparing "
+            "the confluence once it has dried up to the same two or "
+            "three drops left behind &mdash; two angles on one image, "
+            "not two separate teachings."]),
+        ("A closing formula given for the first time in shorthand", [
+            "Where SN 13.1 and SN 13.2 spelled out the full "
+            "application in every clause, this discourse elides it "
+            "with a peyyāla ellipsis after \"the suffering that's "
+            "over and done with is more,\" trusting the reader's "
+            "memory of the two preceding discourses to supply the "
+            "rest."]),
+        ("A rhythm the rest of this saṃyutta will follow", [
+            "From this discourse onward, most of what remains in "
+            "this saṃyutta follows the same lighter touch &mdash; a "
+            "quick comparison, a brief confirmation, and an elided "
+            "closing formula &mdash; a noticeably faster pace than "
+            "the two fully spelled-out discourses that opened it."]),
+    ],
+    terms=[
+        ("gaṅgā yamunā aciravatī sarabhū mahī",
+         "&ldquo;the Ganges, Yamunā, Aciravatī, Sarabhū, and "
+         "Mahī&rdquo; &mdash; the five named rivers, a stock grouping "
+         "used elsewhere in the canon."),
+        ("yatthimā mahānadiyo saṁsandanti samenti",
+         "&ldquo;where the great rivers join together and "
+         "converge&rdquo; &mdash; a moment of joining, distinct from "
+         "the fixed single images of SN 13.1 and SN 13.2."),
+        ("dve vā tīṇi vā udakaphusitāni uddhareyya",
+         "&ldquo;draw two or three drops of water&rdquo; &mdash; "
+         "the tiny quantity drawn out, matched by SN 13.4's tiny "
+         "quantity left behind."),
+        ("etadeva, bhante, bahutaraṁ yadidaṁ sambhejjaudakaṁ",
+         "&ldquo;sir, the water in the confluence is certainly "
+         "more&rdquo; &mdash; the mendicants' confirmation, in the "
+         "same brief form used through most of this saṃyutta."),
+        ("evameva kho, bhikkhave&hellip;pe&hellip; "
+         "dhammacakkhupaṭilābho",
+         "&ldquo;in the same way, mendicants&hellip; the vision of "
+         "the teaching&rdquo; &mdash; the closing application, "
+         "elided here for the first time in this saṃyutta."),
+    ],
+    text_intro=(
+        "The discourse in full. The closing application is elided in "
+        "the source exactly as bilara-data preserves it, trusting "
+        "the reader's familiarity with SN 13.1&ndash;2. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn13.3:1.1-1.5"),
+        ("p", "&sect;2", "sn13.3:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What five rivers does this discourse name?",
+         "opts": [
+             "The Ganges, Yamunā, Aciravatī, Sarabhū, and Mahī",
+             "The Nile, Tigris, Euphrates, Indus, and Jordan",
+             "Five unnamed rivers left unspecified",
+             "A single river mentioned five times"],
+         "correct": 0,
+         "expl": "A stock grouping of major waterways used elsewhere in the early texts."},
+        {"q": "What specific moment does this discourse's image focus on?",
+         "opts": [
+             "Where the rivers converge and join together into one confluence",
+             "The rivers at their individual sources",
+             "The rivers frozen in winter",
+             "The rivers viewed from a mountain summit"],
+         "correct": 0,
+         "expl": "A moment of joining, distinct from the fixed single bodies of water in SN 13.1 and SN 13.2."},
+        {"q": "What does this discourse open, continued immediately in SN 13.4?",
+         "opts": [
+             "The first of four matched forward-and-reverse simile pairs in this saṃyutta",
+             "An entirely unrelated new teaching",
+             "A pair of discourses addressed to different audiences",
+             "A debate between two mendicants"],
+         "correct": 0,
+         "expl": "Two angles on the same image, not two separate teachings."},
+        {"q": "How does this discourse's closing formula compare to SN 13.1 and SN 13.2's?",
+         "opts": [
+             "Elided with a peyyāla ellipsis, unlike the two earlier fully spelled-out discourses",
+             "Expanded with additional new content",
+             "Completely omitted, with no closing application at all",
+             "Identical in every word to the earlier two"],
+         "correct": 0,
+         "expl": "The first use of elision for this saṃyutta's closing application."},
+        {"q": "What pace does most of the rest of this saṃyutta follow, starting with this discourse?",
+         "opts": [
+             "A faster, lighter pace with brief comparisons and elided closing formulas",
+             "An even more detailed and expanded pace than SN 13.1–2",
+             "A pace with no discernible pattern",
+             "The exact same fully spelled-out pace throughout"],
+         "correct": 0,
+         "expl": "A noticeably quicker rhythm than the two discourses that opened this saṃyutta."},
+        {"q": "What tiny quantity does this discourse compare to the confluence?",
+         "opts": [
+             "Two or three drops of water drawn out",
+             "A single teaspoon of water",
+             "An entire bucket of water",
+             "No specific quantity is given"],
+         "correct": 0,
+         "expl": "The same tiny quantity SN 13.4 will compare in reverse."},
+        {"q": "What does the mendicants' response confirm?",
+         "opts": [
+             "That the water in the confluence is certainly more than the drops drawn out",
+             "That the two quantities are roughly equal",
+             "That the drops drawn out are actually greater",
+             "The mendicants give no response in this discourse"],
+         "correct": 0,
+         "expl": "The same brief confirmation pattern used through most of this saṃyutta."},
+        {"q": "How does this discourse's geographic specificity compare to SN 13.1 and SN 13.2?",
+         "opts": [
+             "More specific — naming actual rivers rather than a generic earth or unnamed pond",
+             "Less specific — using no identifiable geography at all",
+             "Identical in specificity to the earlier two discourses",
+             "This discourse names no location of any kind"],
+         "correct": 0,
+         "expl": "A concreteness the earlier two discourses didn't reach for."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with every discourse in this saṃyutta."},
+    ],
+    marginalia=[
+        ("Named rivers, not a generic pond", [
+            "the Ganges among five &mdash;",
+            "a concreteness new to this saṃyutta",
+        ]),
+        ("A joining, not a fixed container", [
+            "where the waters merge together &mdash;",
+            "a moment, not a static image",
+        ]),
+        ("Half of a pair, not a whole", [
+            "drops drawn out this time &mdash;",
+            "SN 13.4 answers with the reverse",
+        ]),
+        ("A formula trusted, not repeated", [
+            "elided for the first time here &mdash;",
+            "the reader carries the rest forward",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn13.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-13.2.html">SN 13.2 &middot; A Lotus Pond</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-13.4.html">SN 13.4 &middot; Where the Waters Join Together (2nd)</a> '
+        "&mdash; the next discourse, giving this same image's "
+        "reverse, dried-up half.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 13.4 — Dutiyasambhejjaudakasutta
+# --------------------------------------------------------------------------- #
+page(
+    13, 4, "Dutiyasambhejjaudaka", "Where the Waters Join Together (2nd)",
+    meta_title="SN 13.4 — Where the Waters Join Together (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasambhejjaudakasutta — SN 13.3's river confluence "
+        "reversed, now dried up and evaporated except for two or "
+        "three drops left behind. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 13.3's same image, reversed from drawing water "
+                 "out to water drying up and leaving a remainder"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; a small but genuine shift in framing "
+                       "from SN 13.3"),
+    ],
+    why=(
+        "Where SN 13.3 asked which is more, a few drops actively "
+        "drawn from the river confluence or the confluence itself, "
+        "this discourse imagines the confluence drying up and "
+        "evaporating entirely, leaving only two or three drops "
+        "behind, and asks which is more: the water that dried up, or "
+        "the drops that remain. The numeric answer is identical "
+        "either way, but the logic of the image has shifted in a way "
+        "worth noticing, since it's this reversed framing, not SN "
+        "13.3's, that actually matches how the closing application "
+        "describes a stream-enterer's suffering &mdash; not sampled "
+        "or drawn from, but used up and exhausted, with only a "
+        "remainder left."),
+    guide=[
+        ("The same water, a different fate", [
+            "SN 13.3's confluence had water drawn out of it by "
+            "someone acting deliberately; this discourse's identical "
+            "confluence simply dries up and evaporates on its own, "
+            "changing an act of sampling into a process of "
+            "exhaustion."]),
+        ("A comparison between a loss and a remainder, not a whole and a part", [
+            "SN 13.3 compared the confluence itself to the drops "
+            "taken from it; this discourse instead compares the "
+            "water that has already dried up to the water still "
+            "left, a comparison between what's gone and what "
+            "remains, rather than between a whole and a sample drawn "
+            "from it."]),
+        ("The framing that actually matches the closing application", [
+            "The stream-enterer's suffering is described as "
+            "\"parikkhīṇaṁ pariyādiṇṇaṁ,\" ended and finished, "
+            "compared to what's left &mdash; language of exhaustion "
+            "and remainder, which this discourse's dried-up "
+            "confluence models far more directly than SN 13.3's "
+            "act of drawing water out."]),
+        ("A pairing that rewards being read together", [
+            "Neither discourse is fully self-sufficient on its own "
+            "terms; SN 13.3 establishes the image's scale, and this "
+            "discourse supplies the framing &mdash; loss against "
+            "remainder &mdash; that the doctrinal point actually "
+            "depends on, making the two discourses a single "
+            "argument told in two movements rather than one "
+            "teaching repeated twice."]),
+        ("A pattern confirmed three more times in this saṃyutta", [
+            "This same shift &mdash; from \"tiny sample against vast "
+            "whole\" to \"vast exhausted against tiny remainder\" "
+            "&mdash; recurs in each of the three further matched "
+            "pairs still to come in this saṃyutta, for the earth, "
+            "the ocean, and the Himalayas in turn."]),
+    ],
+    terms=[
+        ("taṁ udakaṁ parikkhayaṁ pariyādānaṁ gaccheyya",
+         "&ldquo;that water dried up and evaporated&rdquo; &mdash; "
+         "the confluence's fate reversed from SN 13.3's deliberate "
+         "drawing out."),
+        ("ṭhapetvā dve vā tīṇi vā udakaphusitāni",
+         "&ldquo;except for two or three drops&rdquo; &mdash; the "
+         "same tiny quantity as SN 13.3, now framed as a remainder "
+         "rather than a sample."),
+        ("etadeva, bhante, bahutaraṁ sambhejjaudakaṁ yadidaṁ "
+         "parikkhīṇaṁ pariyādiṇṇaṁ",
+         "&ldquo;sir, the water in the confluence that has dried up "
+         "and evaporated is certainly more&rdquo; &mdash; a "
+         "comparison between loss and remainder, not whole and "
+         "sample."),
+        ("dukkhaṁ&hellip; parikkhīṇaṁ pariyādiṇṇaṁ",
+         "&ldquo;suffering&hellip; ended and finished&rdquo; "
+         "&mdash; the closing application's own language of "
+         "exhaustion, matched directly by this discourse's image "
+         "rather than SN 13.3's."),
+        ("evameva kho, bhikkhave&hellip;pe&hellip; "
+         "dhammacakkhupaṭilābho",
+         "&ldquo;in the same way, mendicants&hellip; the vision of "
+         "the teaching&rdquo; &mdash; the same elided closing "
+         "application as SN 13.3."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn13.4:1.1-1.5"),
+        ("p", "&sect;2", "sn13.4:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What happens to the river confluence in this discourse, unlike SN 13.3?",
+         "opts": [
+             "It dries up and evaporates on its own, rather than having water drawn from it",
+             "It floods and overflows",
+             "It freezes solid",
+             "Nothing changes; the image is identical to SN 13.3"],
+         "correct": 0,
+         "expl": "A shift from deliberate sampling to natural exhaustion."},
+        {"q": "What comparison does this discourse make, unlike SN 13.3's whole-versus-sample comparison?",
+         "opts": [
+             "A comparison between what has dried up and what remains",
+             "A comparison between two entirely different rivers",
+             "No comparison is made in this discourse",
+             "A comparison between past and future rainfall"],
+         "correct": 0,
+         "expl": "A comparison between loss and remainder, not whole and part."},
+        {"q": "Why does this discourse's framing match the closing application more directly than SN 13.3's?",
+         "opts": [
+             "Because the stream-enterer's suffering is described as ended and exhausted, not sampled",
+             "It doesn't match any more directly; the two are equally distant from the application",
+             "Because SN 13.3's framing is doctrinally incorrect",
+             "Because this discourse omits the closing application entirely"],
+         "correct": 0,
+         "expl": "\"Parikkhīṇaṁ pariyādiṇṇaṁ\" — ended and finished — matches exhaustion, not sampling."},
+        {"q": "How should SN 13.3 and this discourse be read, according to this reading guide?",
+         "opts": [
+             "Together, as a single argument told in two movements, not as one teaching repeated twice",
+             "As entirely unrelated, independent teachings",
+             "As contradicting each other",
+             "As identical in every respect, with no meaningful difference"],
+         "correct": 0,
+         "expl": "SN 13.3 sets the scale; this discourse supplies the framing the point depends on."},
+        {"q": "How many more times does this same forward-to-reverse shift recur in this saṃyutta?",
+         "opts": [
+             "Three more times, for the earth, the ocean, and the Himalayas",
+             "It never recurs again after this pair",
+             "Once more, for the ocean only",
+             "Five more times"],
+         "correct": 0,
+         "expl": "A pattern repeated across the remaining pairs in this short saṃyutta."},
+        {"q": "What tiny quantity remains after the confluence dries up?",
+         "opts": [
+             "Two or three drops",
+             "A single drop",
+             "No water remains at all",
+             "An unspecified but large quantity"],
+         "correct": 0,
+         "expl": "The identical quantity used in SN 13.3, now reframed as a remainder."},
+        {"q": "What does the mendicants' response confirm in this discourse?",
+         "opts": [
+             "That the water that dried up is certainly more than the drops left behind",
+             "That the drops left behind are actually greater",
+             "That the two quantities are equal",
+             "The mendicants give no response"],
+         "correct": 0,
+         "expl": "The same brief confirmation pattern used through most of this saṃyutta."},
+        {"q": "How is this discourse's closing formula given, compared to SN 13.1 and SN 13.2?",
+         "opts": [
+             "Elided, matching SN 13.3's shorthand rather than the two earlier fully spelled-out discourses",
+             "Expanded with entirely new content",
+             "Omitted with no closing application at all",
+             "Given in a different order than every other discourse"],
+         "correct": 0,
+         "expl": "The same brief, elided form established starting with SN 13.3."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with every discourse in this saṃyutta."},
+    ],
+    marginalia=[
+        ("The same water, a different ending", [
+            "not drawn out, but dried away &mdash;",
+            "sampling becomes exhaustion",
+        ]),
+        ("Loss compared to remainder", [
+            "not whole against part &mdash;",
+            "what's gone against what's left",
+        ]),
+        ("A framing that fits the point", [
+            "\"ended and finished\" &mdash; the same words used later",
+            "exhaustion, not extraction",
+        ]),
+        ("One argument, told twice", [
+            "SN 13.3 sets the scale &mdash;",
+            "this discourse supplies the shape",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn13.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-13.3.html">SN 13.3 &middot; Where the Waters Join Together</a> '
+        "&mdash; the discourse immediately before this one, this "
+        "same image's forward half.",
+        '<a href="sn-13.5.html">SN 13.5 &middot; The Earth</a> '
+        "&mdash; the next discourse, opening a second "
+        "forward-and-reverse pair with clay balls placed on the "
+        "great earth.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 13.5 — Pathavīsutta
+# --------------------------------------------------------------------------- #
+page(
+    13, 5, "Pathavī", "The Earth",
+    meta_title="SN 13.5 — The Earth | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pathavīsutta — seven clay balls the size of jujube "
+        "seeds placed on the great earth, opening this saṃyutta's "
+        "second forward-and-reverse pair of similes. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same brief comparison structure as SN 13.3, "
+                 "now with a precise count and a named seed-size for "
+                 "the tiny quantity"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; opens this saṃyutta's second matched "
+                       "pair, returning to the earth of SN 13.1"),
+    ],
+    why=(
+        "This discourse returns to SN 13.1's great earth, but "
+        "changes both the tiny quantity and how it's obtained: "
+        "rather than a speck of dirt simply picked up, this discourse "
+        "asks the mendicants to picture seven clay balls, each the "
+        "size of a jujube seed, deliberately placed on the ground. "
+        "The number seven recurs meaningfully throughout this "
+        "saṃyutta's closing application, which bounds a stream-"
+        "enterer's remaining rebirths at exactly seven; here it "
+        "appears already built into the image itself, before the "
+        "application even states it. Like SN 13.3, this discourse "
+        "opens a matched pair, with SN 13.6 immediately supplying "
+        "the reverse, eroded-earth half."),
+    guide=[
+        ("The same earth, a different way of measuring against it", [
+            "SN 13.1 measured the earth against a speck of dirt "
+            "already present on the Buddha's own fingernail; this "
+            "discourse instead measures it against seven clay balls "
+            "someone deliberately places on the ground, a small but "
+            "real shift from a found quantity to a constructed one."]),
+        ("A number that quietly anticipates the application", [
+            "Seven clay balls, matched against the closing "
+            "application's \"at most seven more lives,\" gives this "
+            "discourse's image a numeric echo SN 13.1's simple speck "
+            "of dirt didn't carry, though the text itself doesn't "
+            "call attention to the coincidence."]),
+        ("A precise measure of size, not just number", [
+            "The clay balls aren't just counted; they're given a "
+            "specific size, \"the size of jujube seeds\" "
+            "(kolaṭṭhimattiyo), grounding the comparison in a "
+            "concrete, everyday reference point familiar to the "
+            "discourse's original audience."]),
+        ("The first half of this saṃyutta's second matched pair", [
+            "Exactly as SN 13.3 opened a pair completed by SN 13.4, "
+            "this discourse opens a second pair, with SN 13.6 "
+            "immediately following to supply the earth's reverse, "
+            "eroded half."]),
+        ("A closing formula elided, matching the pace set by SN 13.3", [
+            "Like SN 13.3 and SN 13.4, this discourse gives its "
+            "closing application in elided, shorthand form, "
+            "confirming that the fuller, fully spelled-out style of "
+            "SN 13.1 and SN 13.2 was reserved for this saṃyutta's "
+            "opening only."]),
+    ],
+    terms=[
+        ("satta kolaṭṭhimattiyo guḷikā",
+         "&ldquo;seven clay balls the size of jujube seeds&rdquo; "
+         "&mdash; the tiny, deliberately placed quantity, distinct "
+         "from SN 13.1's simply picked-up dirt."),
+        ("mahāpathavī",
+         "&ldquo;the great earth&rdquo; &mdash; the same "
+         "comparandum as SN 13.1, now measured against a different "
+         "tiny quantity."),
+        ("upanikkhipeyya",
+         "&ldquo;place&rdquo; or &ldquo;set down&rdquo; &mdash; a "
+         "deliberate act, distinct from SN 13.1's dirt simply picked "
+         "up as already present."),
+        ("etadeva, bhante, bahutaraṁ, yadidaṁ mahāpathavī",
+         "&ldquo;sir, the great earth is certainly more&rdquo; "
+         "&mdash; the mendicants' brief confirmation, in the same "
+         "form used through most of this saṃyutta."),
+        ("evameva kho, bhikkhave&hellip;pe&hellip; "
+         "dhammacakkhupaṭilābho",
+         "&ldquo;in the same way, mendicants&hellip; the vision of "
+         "the teaching&rdquo; &mdash; the elided closing application, "
+         "matching SN 13.3 and SN 13.4's pace."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn13.5:1.1-1.4"),
+        ("p", "&sect;2", "sn13.5:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse measure against the great earth, unlike SN 13.1's simply picked-up dirt?",
+         "opts": [
+             "Seven clay balls, each the size of a jujube seed, deliberately placed on the ground",
+             "A single grain of sand",
+             "A handful of dirt scattered by wind",
+             "No specific quantity is given"],
+         "correct": 0,
+         "expl": "A shift from a found quantity to a constructed one."},
+        {"q": "What number appears in this discourse's image, echoing the saṃyutta's closing application?",
+         "opts": [
+             "Seven, matching the \"at most seven more lives\" bound",
+             "Three, matching the threefold negative formula",
+             "One hundred, matching a round measurement",
+             "No number appears in this discourse"],
+         "correct": 0,
+         "expl": "A numeric echo the text doesn't explicitly call attention to."},
+        {"q": "How is the clay balls' size specified?",
+         "opts": [
+             "The size of jujube seeds",
+             "The size of mountains",
+             "No size is given, only a count",
+             "The size of a human hand"],
+         "correct": 0,
+         "expl": "A concrete, everyday reference point for the discourse's original audience."},
+        {"q": "What does this discourse open, continued in SN 13.6?",
+         "opts": [
+             "This saṃyutta's second matched forward-and-reverse pair",
+             "An entirely unrelated new teaching",
+             "A pair of discourses addressed to different audiences",
+             "The saṃyutta's final pair"],
+         "correct": 0,
+         "expl": "Following the same pairing pattern established by SN 13.3 and SN 13.4."},
+        {"q": "How is this discourse's closing formula given?",
+         "opts": [
+             "Elided, matching the pace set by SN 13.3 and SN 13.4",
+             "Fully spelled out, matching SN 13.1 and SN 13.2",
+             "Omitted entirely",
+             "Given in an entirely new form not used elsewhere"],
+         "correct": 0,
+         "expl": "The shorthand style established once this saṃyutta moved past its opening two discourses."},
+        {"q": "What comparandum does this discourse share with SN 13.1?",
+         "opts": [
+             "The great earth",
+             "The ocean",
+             "A lotus pond",
+             "The Himalayas"],
+         "correct": 0,
+         "expl": "The same vast object, measured against a differently obtained tiny quantity."},
+        {"q": "What does the mendicants' response confirm?",
+         "opts": [
+             "That the great earth is certainly more than the seven clay balls",
+             "That the clay balls are actually greater",
+             "That the two quantities are equal",
+             "The mendicants give no response"],
+         "correct": 0,
+         "expl": "The same brief confirmation pattern used through most of this saṃyutta."},
+        {"q": "What verb describes how the clay balls come to be on the earth?",
+         "opts": [
+             "Upanikkhipeyya, \"place\" or \"set down\" — a deliberate act",
+             "A verb meaning \"blown by wind\"",
+             "A verb meaning \"grown naturally\"",
+             "No verb of placement is used"],
+         "correct": 0,
+         "expl": "Distinct from SN 13.1's dirt, which was simply already present."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with every discourse in this saṃyutta."},
+    ],
+    marginalia=[
+        ("The same earth, a new measure", [
+            "not dirt found, but clay placed &mdash;",
+            "seven balls set down deliberately",
+        ]),
+        ("A number that echoes ahead", [
+            "seven, before the application says it &mdash;",
+            "built into the image itself",
+        ]),
+        ("A size drawn from daily life", [
+            "the jujube seed, a familiar measure &mdash;",
+            "grounding the comparison in the concrete",
+        ]),
+        ("A second pair, opened here", [
+            "the earth eroded answers next &mdash;",
+            "SN 13.6 completes the shape",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn13.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-13.4.html">SN 13.4 &middot; Where the Waters Join Together (2nd)</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-13.6.html">SN 13.6 &middot; The Earth (2nd)</a> '
+        "&mdash; the next discourse, giving this same image's "
+        "reverse, eroded half.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 13.6 — Dutiyapathavīsutta
+# --------------------------------------------------------------------------- #
+page(
+    13, 6, "Dutiyapathavī", "The Earth (2nd)",
+    meta_title="SN 13.6 — The Earth (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyapathavīsutta — SN 13.5's great earth reversed, "
+        "now worn away and eroded except for seven clay balls left "
+        "behind. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 13.5's same image, reversed from placing clay "
+                 "balls to the earth eroding away and leaving them "
+                 "behind"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; completing this saṃyutta's second "
+                       "matched pair"),
+    ],
+    why=(
+        "This discourse completes the pair SN 13.5 opened, exactly "
+        "as SN 13.4 completed SN 13.3's. Rather than someone placing "
+        "seven clay balls on the earth, this discourse imagines the "
+        "great earth itself worn away and eroded until only seven "
+        "clay balls the size of jujube seeds are left. The shift "
+        "from SN 13.5 is the same one already seen between SN 13.3 "
+        "and SN 13.4: a comparison between a whole and a placed "
+        "sample becomes a comparison between a vast loss and a tiny "
+        "remainder, the framing that actually matches how this "
+        "saṃyutta describes a stream-enterer's suffering as "
+        "\"ended and finished,\" not simply outweighed."),
+    guide=[
+        ("Placement reversed into erosion", [
+            "SN 13.5's clay balls were deliberately set down on an "
+            "intact earth; this discourse's identical clay balls are "
+            "instead what's left after the earth itself has worn "
+            "away, turning an act of addition into a process of "
+            "loss."]),
+        ("Loss and remainder, not whole and sample", [
+            "As with SN 13.4, this discourse's comparison isn't "
+            "between the earth and something placed on it, but "
+            "between the earth that's gone and the small amount "
+            "still remaining, the framing this saṃyutta's closing "
+            "application actually depends on."]),
+        ("The same seven, a different role", [
+            "Seven clay balls appear in both this discourse and SN "
+            "13.5, but where SN 13.5's seven were added to a whole "
+            "earth, this discourse's seven are what survives after "
+            "the whole earth is gone, the same number playing two "
+            "different structural roles across the pair."]),
+        ("A second confirmed instance of this saṃyutta's pairing logic", [
+            "Together with SN 13.3 and SN 13.4, this pair confirms "
+            "the pattern is deliberate rather than incidental: every "
+            "matched pair in this saṃyutta moves from a sample taken "
+            "or placed to a remainder left behind, never the "
+            "reverse order."]),
+        ("Two more matched pairs still to come", [
+            "This discourse completes this saṃyutta's second pair; "
+            "the ocean and the Himalayas will each receive the same "
+            "forward-then-reverse treatment in the four discourses "
+            "that follow."]),
+    ],
+    terms=[
+        ("mahāpathavī parikkhayaṁ pariyādānaṁ gaccheyya",
+         "&ldquo;the great earth was worn away and eroded&rdquo; "
+         "&mdash; the earth's fate reversed from SN 13.5's "
+         "deliberate placement."),
+        ("ṭhapetvā satta kolaṭṭhimattiyo guḷikā",
+         "&ldquo;except for seven clay balls the size of jujube "
+         "seeds&rdquo; &mdash; the same seven balls as SN 13.5, now "
+         "framed as a remainder rather than an addition."),
+        ("etadeva, bhante, bahutaraṁ, mahāpathaviyā, yadidaṁ "
+         "parikkhīṇaṁ pariyādiṇṇaṁ",
+         "&ldquo;sir, the great earth that has been worn away and "
+         "eroded is certainly more&rdquo; &mdash; a comparison "
+         "between loss and remainder, not whole and sample."),
+        ("dukkhaṁ&hellip; parikkhīṇaṁ pariyādiṇṇaṁ",
+         "&ldquo;suffering&hellip; ended and finished&rdquo; "
+         "&mdash; the closing application's own language, matched "
+         "directly by this discourse's eroded-earth image."),
+        ("evameva kho, bhikkhave&hellip;pe&hellip; "
+         "dhammacakkhupaṭilābho",
+         "&ldquo;in the same way, mendicants&hellip; the vision of "
+         "the teaching&rdquo; &mdash; the same elided closing "
+         "application as SN 13.5."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn13.6:1.1-1.4"),
+        ("p", "&sect;2", "sn13.6:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What happens to the earth in this discourse, unlike SN 13.5?",
+         "opts": [
+             "It is worn away and eroded, rather than having clay balls placed on it",
+             "It grows larger",
+             "It splits into two pieces",
+             "Nothing changes; the image is identical to SN 13.5"],
+         "correct": 0,
+         "expl": "A shift from deliberate placement to natural erosion."},
+        {"q": "What comparison does this discourse make?",
+         "opts": [
+             "Between the earth that has eroded away and the seven clay balls left behind",
+             "Between two entirely different mountains",
+             "No comparison is made",
+             "Between the past and the future"],
+         "correct": 0,
+         "expl": "A comparison between loss and remainder, not whole and sample."},
+        {"q": "What role do the seven clay balls play here, differing from SN 13.5?",
+         "opts": [
+             "They are what remains after the earth erodes, not something added to it",
+             "They play the exact same role as in SN 13.5",
+             "They are no longer part of the comparison",
+             "They increase in number in this discourse"],
+         "correct": 0,
+         "expl": "The same number, playing a different structural role across the pair."},
+        {"q": "What does this pair, together with SN 13.3 and SN 13.4, confirm about this saṃyutta's structure?",
+         "opts": [
+             "That every matched pair moves from sample-taken-or-placed to remainder-left-behind, in that order",
+             "That the pairs follow no consistent pattern",
+             "That the reverse discourse always comes before the forward one",
+             "That only one pair exists in this saṃyutta"],
+         "correct": 0,
+         "expl": "A deliberate, consistent pairing logic, not incidental repetition."},
+        {"q": "How many more matched pairs remain after this one in this saṃyutta?",
+         "opts": [
+             "Two more, for the ocean and the Himalayas",
+             "None; this is the final pair",
+             "Four more",
+             "One more, for the ocean only"],
+         "correct": 0,
+         "expl": "The same forward-then-reverse treatment still to come twice more."},
+        {"q": "What tiny quantity remains after the earth erodes?",
+         "opts": [
+             "Seven clay balls the size of jujube seeds",
+             "A single grain of sand",
+             "No clay balls remain",
+             "An unspecified but large quantity"],
+         "correct": 0,
+         "expl": "The identical quantity used in SN 13.5, now reframed as a remainder."},
+        {"q": "What does the mendicants' response confirm in this discourse?",
+         "opts": [
+             "That the eroded earth is certainly more than the seven clay balls left",
+             "That the clay balls left are actually greater",
+             "That the two quantities are equal",
+             "The mendicants give no response"],
+         "correct": 0,
+         "expl": "The same brief confirmation pattern used through most of this saṃyutta."},
+        {"q": "What language does the closing application share with this discourse's image?",
+         "opts": [
+             "\"Ended and finished\" (parikkhīṇaṁ pariyādiṇṇaṁ), matching exhaustion rather than sampling",
+             "Language about placement and construction",
+             "No shared language exists between the image and the application",
+             "Language specific to farming"],
+         "correct": 0,
+         "expl": "The framing this saṃyutta's doctrinal point actually depends on."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with every discourse in this saṃyutta."},
+    ],
+    marginalia=[
+        ("The same clay, a different fate", [
+            "not placed, but left behind &mdash;",
+            "the earth itself worn away",
+        ]),
+        ("Loss compared to remainder again", [
+            "the same shift as SN 13.3 to SN 13.4 &mdash;",
+            "erosion, not addition",
+        ]),
+        ("Seven balls, two different jobs", [
+            "added to a whole earth once &mdash;",
+            "surviving its disappearance now",
+        ]),
+        ("A pattern confirmed a second time", [
+            "sample first, remainder after &mdash;",
+            "the same order, every pair",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn13.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-13.5.html">SN 13.5 &middot; The Earth</a> '
+        "&mdash; the discourse immediately before this one, this "
+        "same image's forward half.",
+        '<a href="sn-13.7.html">SN 13.7 &middot; The Ocean</a> '
+        "&mdash; the next discourse, opening this saṃyutta's third "
+        "matched pair with the ocean itself.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 13.7 — Samuddasutta
+# --------------------------------------------------------------------------- #
+page(
+    13, 7, "Samudda", "The Ocean",
+    meta_title="SN 13.7 — The Ocean | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samuddasutta — two or three drops drawn from the ocean "
+        "itself, opening this saṃyutta's third forward-and-reverse "
+        "pair of similes with its largest single body of water. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same brief comparison as SN 13.3, now applied "
+                 "to the ocean itself rather than a river confluence"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; opens this saṃyutta's third matched "
+                       "pair, scaling up from SN 13.3's confluence"),
+    ],
+    why=(
+        "This discourse repeats SN 13.3's exact image &mdash; two or "
+        "three drops of water drawn out, compared to the whole body "
+        "they're taken from &mdash; but scales the water itself up "
+        "from a river confluence to the ocean, the largest single "
+        "body of water this saṃyutta's images will reach for. Nothing "
+        "about the underlying comparison changes; what changes is "
+        "the vastness of what the tiny quantity is being measured "
+        "against, continuing this saṃyutta's pattern of returning to "
+        "the same handful of images at increasing scale. Like SN "
+        "13.3 and SN 13.5, this discourse opens a pair, completed "
+        "immediately by SN 13.8."),
+    guide=[
+        ("The same drops, a larger sea", [
+            "This discourse's two or three drops are drawn out "
+            "exactly as in SN 13.3, but from the ocean rather than a "
+            "river confluence, escalating the comparison's scale "
+            "without changing its structure at all."]),
+        ("The largest body of water this saṃyutta reaches for", [
+            "Of the pond, the confluence, and the ocean used across "
+            "this saṃyutta's water-based similes, the ocean is by "
+            "far the largest, making this discourse's comparison the "
+            "most extreme version of the drops-drawn-out image "
+            "before this saṃyutta moves on to mountains."]),
+        ("A confirmation that the specific image doesn't carry the doctrine", [
+            "Because this discourse's structure and application are "
+            "identical to SN 13.3's, with only the body of water "
+            "changed, it confirms that no particular image (a "
+            "confluence, an ocean) is itself doctrinally significant "
+            "&mdash; each is simply a vehicle for the same underlying "
+            "comparison."]),
+        ("A third matched pair, opened here", [
+            "Exactly as SN 13.3 and SN 13.5 opened their respective "
+            "pairs, this discourse opens a third, with SN 13.8 "
+            "supplying the ocean's reverse, dried-up half "
+            "immediately after."]),
+        ("A pace now fully established", [
+            "By this point in the saṃyutta, the brief comparison, "
+            "the short confirmation, and the elided closing "
+            "application have become the norm, with SN 13.1 and SN "
+            "13.2's fuller treatment now clearly an exception "
+            "reserved for the opening only."]),
+    ],
+    terms=[
+        ("mahāsamuddato dve vā tīṇi vā udakaphusitāni uddhareyya",
+         "&ldquo;draw two or three drops of water from the "
+         "ocean&rdquo; &mdash; the same tiny quantity as SN 13.3, "
+         "now drawn from the largest body of water in this "
+         "saṃyutta's images."),
+        ("mahāsamudde udakaṁ",
+         "&ldquo;the water in the ocean&rdquo; &mdash; the vast "
+         "comparandum, larger than SN 13.2's pond or SN 13.3's "
+         "confluence."),
+        ("etadeva, bhante, bahutaraṁ, yadidaṁ mahāsamudde udakaṁ",
+         "&ldquo;sir, the water in the ocean is certainly more&rdquo; "
+         "&mdash; the mendicants' brief confirmation, in the same "
+         "form used through most of this saṃyutta."),
+        ("neva satimaṁ kalaṁ upenti na sahassimaṁ kalaṁ upenti "
+         "na satasahassimaṁ kalaṁ upenti",
+         "&ldquo;not nearly a hundredth, a thousandth, or a "
+         "hundred-thousandth part&rdquo; &mdash; the threefold "
+         "negative recurring at its most extreme scale so far."),
+        ("evameva kho, bhikkhave&hellip;pe&hellip; "
+         "dhammacakkhupaṭilābho",
+         "&ldquo;in the same way, mendicants&hellip; the vision of "
+         "the teaching&rdquo; &mdash; the elided closing application, "
+         "unchanged from SN 13.3 and SN 13.5."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn13.7:1.1-1.4"),
+        ("p", "&sect;2", "sn13.7:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What body of water does this discourse use, scaling up from SN 13.3's river confluence?",
+         "opts": [
+             "The ocean",
+             "A small pond",
+             "A single well",
+             "A mountain stream"],
+         "correct": 0,
+         "expl": "The largest single body of water this saṃyutta's images reach for."},
+        {"q": "How does this discourse's structure compare to SN 13.3's?",
+         "opts": [
+             "Identical — the same drops-drawn-out comparison, with only the body of water changed",
+             "Substantially different, introducing new doctrinal content",
+             "Reversed in meaning",
+             "This discourse uses no water image at all"],
+         "correct": 0,
+         "expl": "The same comparison, escalated in scale rather than changed in kind."},
+        {"q": "What does the identical structure between this discourse and SN 13.3 confirm?",
+         "opts": [
+             "That no particular image is itself doctrinally significant; each is a vehicle for the same point",
+             "That SN 13.3's teaching was incorrect and is corrected here",
+             "That the ocean is doctrinally superior to a river confluence",
+             "That the two discourses contradict each other"],
+         "correct": 0,
+         "expl": "The image varies; the underlying comparison does not."},
+        {"q": "What does this discourse open, completed by SN 13.8?",
+         "opts": [
+             "This saṃyutta's third matched forward-and-reverse pair",
+             "An entirely new, unrelated teaching",
+             "The saṃyutta's final and only pair",
+             "A dialogue with a named interlocutor"],
+         "correct": 0,
+         "expl": "Following the same pairing pattern as SN 13.3–4 and SN 13.5–6."},
+        {"q": "How is this discourse's closing formula given?",
+         "opts": [
+             "Elided, continuing the shorthand pace established after SN 13.1–2",
+             "Fully spelled out in every clause",
+             "Omitted entirely",
+             "Given in a form unique to this discourse alone"],
+         "correct": 0,
+         "expl": "The norm for most of this saṃyutta by this point."},
+        {"q": "What tiny quantity is drawn from the ocean?",
+         "opts": [
+             "Two or three drops of water",
+             "A single teaspoon",
+             "An entire bucketful",
+             "No specific quantity is given"],
+         "correct": 0,
+         "expl": "The same quantity used in SN 13.3's river confluence."},
+        {"q": "What does the mendicants' response confirm?",
+         "opts": [
+             "That the water in the ocean is certainly more than the drops drawn out",
+             "That the drops drawn out are actually greater",
+             "That the two quantities are equal",
+             "The mendicants give no response"],
+         "correct": 0,
+         "expl": "The same brief confirmation pattern used through most of this saṃyutta."},
+        {"q": "What comes after this discourse's pairing with SN 13.8?",
+         "opts": [
+             "A final matched pair, for the Himalayas",
+             "The end of this saṃyutta entirely",
+             "A return to the earth image",
+             "A dialogue between two mendicants"],
+         "correct": 0,
+         "expl": "One more pair before this saṃyutta's closing discourse."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with every discourse in this saṃyutta."},
+    ],
+    marginalia=[
+        ("The same drops, a vaster sea", [
+            "not a confluence now, but the ocean &mdash;",
+            "the largest water this saṃyutta reaches for",
+        ]),
+        ("One structure, many vessels", [
+            "pond, river, ocean — the point unchanged &mdash;",
+            "no single image carries the doctrine",
+        ]),
+        ("A third pair, opened here", [
+            "the ocean dried up answers next &mdash;",
+            "SN 13.8 completes the shape",
+        ]),
+        ("A pace fully settled by now", [
+            "brief question, brief answer, elided close &mdash;",
+            "the opening's fullness left behind",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn13.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-13.6.html">SN 13.6 &middot; The Earth (2nd)</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-13.8.html">SN 13.8 &middot; The Ocean (2nd)</a> '
+        "&mdash; the next discourse, giving this same image's "
+        "reverse, dried-up half.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 13.8 — Dutiyasamuddasutta
+# --------------------------------------------------------------------------- #
+page(
+    13, 8, "Dutiyasamudda", "The Ocean (2nd)",
+    meta_title="SN 13.8 — The Ocean (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasamuddasutta — SN 13.7's ocean reversed, now "
+        "dried up and evaporated except for two or three drops left "
+        "behind. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 13.7's same image, reversed from drawing water "
+                 "out to the ocean drying up and leaving a remainder"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; completing this saṃyutta's third "
+                       "matched pair"),
+    ],
+    why=(
+        "This discourse completes the pair SN 13.7 opened, imagining "
+        "the ocean itself &mdash; the largest body of water in this "
+        "saṃyutta's images &mdash; dried up and evaporated until only "
+        "two or three drops remain. The shift from SN 13.7 follows "
+        "exactly the pattern already seen twice: a comparison between "
+        "a whole and a sample becomes a comparison between an "
+        "exhausted vastness and a tiny remainder, the framing this "
+        "saṃyutta's application actually depends on. By this point in "
+        "the sequence, the pattern is fully established, and this "
+        "discourse's main interest lies less in anything new than in "
+        "how consistently the pairing logic holds even at this "
+        "extreme a scale."),
+    guide=[
+        ("The largest body of water in this saṃyutta, exhausted", [
+            "Where SN 13.4 dried up a river confluence and SN 13.6 "
+            "eroded the earth, this discourse dries up the ocean "
+            "itself, the most extreme single application yet of the "
+            "\"vast thing exhausted, tiny thing remaining\" "
+            "structure this saṃyutta keeps returning to."]),
+        ("The same two-drop remainder, in its largest possible contrast", [
+            "Two or three drops recur here exactly as in SN 13.3, "
+            "SN 13.4, and SN 13.7, but set against the ocean's "
+            "complete exhaustion rather than a river confluence's, "
+            "giving the identical tiny quantity its most extreme "
+            "possible contrast in this saṃyutta."]),
+        ("A third confirmed instance of the same structural shift", [
+            "Following SN 13.3 to SN 13.4 and SN 13.5 to SN 13.6, "
+            "this pair confirms for a third time that this "
+            "saṃyutta's matched pairs move consistently from a "
+            "sample drawn or placed to a remainder left behind, "
+            "never the reverse order."]),
+        ("One pair still to come", [
+            "With the confluence, the earth, and now the ocean each "
+            "given their forward-and-reverse treatment, only the "
+            "Himalayas remain for the final matched pair in SN 13.9 "
+            "and SN 13.10."]),
+        ("A closing formula about to change", [
+            "This discourse's own closing application stays elided, "
+            "matching the established pace, but the very next "
+            "discourse in the mountain pair, SN 13.10, returns to "
+            "the fully spelled-out form last seen in SN 13.1 and SN "
+            "13.2, signaling this saṃyutta's approach to its close."]),
+    ],
+    terms=[
+        ("mahāsamuddo parikkhayaṁ pariyādānaṁ gaccheyya",
+         "&ldquo;the water in the ocean dried up and "
+         "evaporated&rdquo; &mdash; the ocean's fate reversed from "
+         "SN 13.7's deliberate drawing out."),
+        ("ṭhapetvā dve vā tīṇi vā udakaphusitāni",
+         "&ldquo;except for two or three drops&rdquo; &mdash; the "
+         "same tiny quantity as SN 13.7, now framed as a remainder "
+         "rather than a sample."),
+        ("etadeva, bhante, bahutaraṁ mahāsamudde udakaṁ, yadidaṁ "
+         "parikkhīṇaṁ pariyādiṇṇaṁ",
+         "&ldquo;sir, the water in the ocean that has dried up and "
+         "evaporated is certainly more&rdquo; &mdash; a comparison "
+         "between loss and remainder, at this saṃyutta's largest "
+         "scale."),
+        ("dukkhaṁ&hellip; parikkhīṇaṁ pariyādiṇṇaṁ",
+         "&ldquo;suffering&hellip; ended and finished&rdquo; "
+         "&mdash; the closing application's own language, matched "
+         "here at its most extreme contrast."),
+        ("evameva kho, bhikkhave&hellip;pe&hellip; "
+         "dhammacakkhupaṭilābho",
+         "&ldquo;in the same way, mendicants&hellip; the vision of "
+         "the teaching&rdquo; &mdash; the same elided closing "
+         "application as SN 13.7."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn13.8:1.1-1.4"),
+        ("p", "&sect;2", "sn13.8:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What happens to the ocean in this discourse, unlike SN 13.7?",
+         "opts": [
+             "It dries up and evaporates on its own, rather than having water drawn from it",
+             "It floods over its shores",
+             "It freezes solid",
+             "Nothing changes; the image is identical to SN 13.7"],
+         "correct": 0,
+         "expl": "A shift from deliberate sampling to natural exhaustion, at this saṃyutta's largest scale."},
+        {"q": "How does this pair (SN 13.7–8) compare in scale to SN 13.3–4 and SN 13.5–6?",
+         "opts": [
+             "The most extreme so far — the largest body of water given the same forward-and-reverse treatment",
+             "The smallest scale used in this saṃyutta",
+             "Exactly the same scale as the earlier pairs, with no escalation",
+             "This pair uses no comparison of scale at all"],
+         "correct": 0,
+         "expl": "The ocean's complete exhaustion is the most extreme application of the pattern yet."},
+        {"q": "What does this pair confirm, being the third instance of the same structural shift?",
+         "opts": [
+             "That this saṃyutta's matched pairs consistently move from sample to remainder, never the reverse",
+             "That the pattern breaks down at larger scales",
+             "That only water-based images follow this pattern",
+             "That this is the final matched pair in the saṃyutta"],
+         "correct": 0,
+         "expl": "A confirmed, deliberate structural choice, not incidental repetition."},
+        {"q": "What matched pair remains after this one?",
+         "opts": [
+             "The Himalayas, in SN 13.9 and SN 13.10",
+             "None; this is the final pair",
+             "A second ocean pair",
+             "A pair involving the sky"],
+         "correct": 0,
+         "expl": "One more pair before this saṃyutta's closing discourse."},
+        {"q": "What changes in the very next discourse after this one, SN 13.9's partner SN 13.10?",
+         "opts": [
+             "The closing formula returns to the fully spelled-out form last seen in SN 13.1–2",
+             "The saṃyutta abruptly ends",
+             "A new interlocutor is introduced for the first time",
+             "The threefold negative formula is dropped entirely"],
+         "correct": 0,
+         "expl": "A signal that this saṃyutta is approaching its close."},
+        {"q": "What tiny quantity remains after the ocean dries up?",
+         "opts": [
+             "Two or three drops",
+             "A single drop",
+             "No water remains at all",
+             "An unspecified but large quantity"],
+         "correct": 0,
+         "expl": "The identical quantity used in SN 13.7, now reframed as a remainder."},
+        {"q": "What does the mendicants' response confirm in this discourse?",
+         "opts": [
+             "That the dried-up ocean is certainly more than the drops left behind",
+             "That the drops left behind are actually greater",
+             "That the two quantities are equal",
+             "The mendicants give no response"],
+         "correct": 0,
+         "expl": "The same brief confirmation pattern used through most of this saṃyutta."},
+        {"q": "How is this discourse's closing formula given?",
+         "opts": [
+             "Elided, matching the established pace of this saṃyutta's middle discourses",
+             "Fully spelled out in every clause",
+             "Omitted entirely",
+             "Given in a form unique to this discourse"],
+         "correct": 0,
+         "expl": "The norm for most of this saṃyutta, about to shift in the discourses that follow."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with every discourse in this saṃyutta."},
+    ],
+    marginalia=[
+        ("The vastest water, exhausted", [
+            "the ocean itself dried away &mdash;",
+            "the most extreme scale so far",
+        ]),
+        ("The same two drops, a larger fall", [
+            "measured now against an emptied sea &mdash;",
+            "the sharpest contrast this saṃyutta reaches",
+        ]),
+        ("A third confirmation of the shape", [
+            "sample, then remainder, again &mdash;",
+            "the pattern holding at any scale",
+        ]),
+        ("One pair left before the close", [
+            "the Himalayas still to come &mdash;",
+            "and a return to fuller telling",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn13.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-13.7.html">SN 13.7 &middot; The Ocean</a> '
+        "&mdash; the discourse immediately before this one, this "
+        "same image's forward half.",
+        '<a href="sn-13.9.html">SN 13.9 &middot; A Mountain</a> '
+        "&mdash; the next discourse, opening this saṃyutta's fourth "
+        "and final matched pair with the Himalayas."],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 13.9 — Pabbatasutta
+# --------------------------------------------------------------------------- #
+page(
+    13, 9, "Pabbata", "A Mountain",
+    meta_title="SN 13.9 — A Mountain | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pabbatasutta — seven pebbles the size of mustard seeds "
+        "placed on the Himalayas, opening this saṃyutta's fourth and "
+        "final matched pair of similes. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same comparison structure as SN 13.5, now "
+                 "moving from earth to mountain and from clay to "
+                 "stone"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; opens this saṃyutta's fourth and "
+                       "final matched pair"),
+    ],
+    why=(
+        "This discourse moves this saṃyutta's earth-based comparison "
+        "from SN 13.5's clay balls on the great earth to seven "
+        "pebbles, each the size of a mustard seed &mdash; "
+        "proverbially one of the smallest measures in Pali similes "
+        "&mdash; placed on the Himalayas, named here as \"the king of "
+        "mountains.\" The mustard seed is a stock image for "
+        "smallness across the early Buddhist and broader Indian "
+        "literary tradition, giving this discourse's tiny quantity a "
+        "cultural resonance beyond just its literal size. Like SN "
+        "13.3, SN 13.5, and SN 13.7 before it, this discourse opens a "
+        "pair, with SN 13.10 supplying the mountain's reverse, eroded "
+        "half."),
+    guide=[
+        ("From earth to mountain, from clay to stone", [
+            "SN 13.5 and SN 13.6 measured clay balls against the "
+            "great earth in general; this discourse and its "
+            "companion instead measure stone pebbles against a "
+            "specific named mountain range, a step up in both the "
+            "vastness of the comparandum and the specificity of the "
+            "geography."]),
+        ("The Himalayas as \"the king of mountains\"", [
+            "\"Himavā pabbatarājā\" &mdash; the Himalayas, king of "
+            "mountains &mdash; is a standing epithet in the early "
+            "texts, giving this discourse's vast comparandum a title "
+            "as well as a name, distinct from SN 13.1's simple "
+            "\"great earth.\""]),
+        ("A proverbially small measure", [
+            "\"Sāsapamattiyo,\" the size of mustard seeds, is a "
+            "stock measure of smallness recurring across Pali "
+            "literature well beyond this discourse, giving the tiny "
+            "quantity here a cultural weight the earlier discourses' "
+            "jujube seeds and blades of grass didn't carry to quite "
+            "the same degree."]),
+        ("The fourth and final matched pair", [
+            "Following the confluence, the earth, and the ocean, "
+            "this discourse opens the last of this saṃyutta's four "
+            "matched pairs, with SN 13.10 completing it before this "
+            "saṃyutta's closing discourse, SN 13.11, departs from "
+            "the pattern entirely."]),
+        ("A closing formula still elided, for now", [
+            "This discourse keeps the shorthand closing application "
+            "established since SN 13.3, though its immediate "
+            "successor, SN 13.10, will return this saṃyutta to the "
+            "fully spelled-out form last used in SN 13.1 and SN "
+            "13.2."]),
+    ],
+    terms=[
+        ("satta sāsapamattiyo pāsāṇasakkharā",
+         "&ldquo;seven pebbles the size of mustard seeds&rdquo; "
+         "&mdash; a proverbially small measure recurring across Pali "
+         "literature."),
+        ("himavato pabbatarājassa",
+         "&ldquo;the Himalayas, the king of mountains&rdquo; "
+         "&mdash; a standing epithet, giving this discourse's "
+         "comparandum both a name and a title."),
+        ("upanikkhipeyya",
+         "&ldquo;place&rdquo; &mdash; the same deliberate act as SN "
+         "13.5's clay balls, now placed on stone rather than earth."),
+        ("etadeva, bhante, bahutaraṁ yadidaṁ himavā pabbatarājā",
+         "&ldquo;sir, the Himalayas, the king of mountains, is "
+         "certainly more&rdquo; &mdash; the mendicants' brief "
+         "confirmation, unchanged in form."),
+        ("evameva kho&hellip;pe&hellip; dhammacakkhupaṭilābho",
+         "&ldquo;in the same way&hellip; the vision of the "
+         "teaching&rdquo; &mdash; the elided closing application, "
+         "matching this saṃyutta's established middle pace."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn13.9:1.1-1.4"),
+        ("p", "&sect;2", "sn13.9:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What mountain does this discourse name, and what title does it give it?",
+         "opts": [
+             "The Himalayas, called \"the king of mountains\"",
+             "Sineru, called \"the axis of the world\"",
+             "An unnamed generic mountain",
+             "No mountain is named in this discourse"],
+         "correct": 0,
+         "expl": "A standing epithet distinct from SN 13.1's simple \"great earth.\""},
+        {"q": "What size are the pebbles placed on the mountain?",
+         "opts": [
+             "The size of mustard seeds",
+             "The size of boulders",
+             "The size of jujube seeds, matching SN 13.5",
+             "No size is given"],
+         "correct": 0,
+         "expl": "A proverbially small measure distinct from SN 13.5's jujube-seed clay balls."},
+        {"q": "Why does the mustard seed carry extra weight beyond its literal size?",
+         "opts": [
+             "It's a stock image for smallness recurring across Pali literature",
+             "It has no special significance beyond this single discourse",
+             "It refers to a specific named individual",
+             "It is a measure used only in this saṃyutta"],
+         "correct": 0,
+         "expl": "A cultural resonance beyond the earlier discourses' comparable images."},
+        {"q": "What pair does this discourse open?",
+         "opts": [
+             "This saṃyutta's fourth and final matched forward-and-reverse pair",
+             "The first pair in this saṃyutta",
+             "An unrelated new teaching with no pairing",
+             "A pair completed by SN 13.1, not SN 13.10"],
+         "correct": 0,
+         "expl": "Completed immediately by SN 13.10, the last such pair in this saṃyutta."},
+        {"q": "What happens in the discourse immediately following this pair's completion?",
+         "opts": [
+             "SN 13.11 departs from the pairing pattern entirely, closing the saṃyutta",
+             "The saṃyutta simply continues with more mountain pairs",
+             "A dialogue with a named brahmin begins",
+             "The pattern repeats exactly with a fifth pair"],
+         "correct": 0,
+         "expl": "This saṃyutta's true closing discourse breaks from the established structure."},
+        {"q": "How does this discourse's earth-based comparison differ from SN 13.5's?",
+         "opts": [
+             "It moves from the general earth to a specific named mountain, and from clay to stone",
+             "It is identical in every respect to SN 13.5",
+             "It uses no physical comparandum at all",
+             "It compares two different bodies of water"],
+         "correct": 0,
+         "expl": "A step up in both vastness and geographic specificity."},
+        {"q": "How is this discourse's closing formula given?",
+         "opts": [
+             "Elided, matching this saṃyutta's established middle pace",
+             "Fully spelled out, anticipating SN 13.10",
+             "Omitted entirely",
+             "Given in an entirely new form"],
+         "correct": 0,
+         "expl": "The shorthand style established since SN 13.3, about to shift in SN 13.10."},
+        {"q": "What does the mendicants' response confirm?",
+         "opts": [
+             "That the Himalayas is certainly more than the seven pebbles",
+             "That the pebbles are actually greater",
+             "That the two quantities are equal",
+             "The mendicants give no response"],
+         "correct": 0,
+         "expl": "The same brief confirmation pattern used through most of this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with every discourse in this saṃyutta."},
+    ],
+    marginalia=[
+        ("From earth to a named peak", [
+            "the Himalayas, king of mountains &mdash;",
+            "a title, not just a vast expanse",
+        ]),
+        ("A seed proverbial for smallness", [
+            "the mustard seed, known beyond this page &mdash;",
+            "weight carried from wider literature",
+        ]),
+        ("The last pair, opened here", [
+            "the mountain eroded answers next &mdash;",
+            "SN 13.10 completes the shape",
+        ]),
+        ("A pace about to shift again", [
+            "still elided, for one discourse more &mdash;",
+            "fullness returning at the close",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn13.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-13.8.html">SN 13.8 &middot; The Ocean (2nd)</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-13.10.html">SN 13.10 &middot; A Mountain (2nd)</a> '
+        "&mdash; the next discourse, giving this same image's "
+        "reverse, eroded half.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 13.10 — Dutiyapabbatasutta
+# --------------------------------------------------------------------------- #
+page(
+    13, 10, "Dutiyapabbata", "A Mountain (2nd)",
+    meta_title="SN 13.10 — A Mountain (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyapabbatasutta — SN 13.9's Himalayas reversed and "
+        "given full voice again, worn away except for seven pebbles, "
+        "closing this saṃyutta's four matched pairs on its fullest, "
+        "most complete telling. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 13.9's same image reversed, with the closing "
+                 "application returning to the fully spelled-out "
+                 "form last used in SN 13.1 and SN 13.2"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; the fullest telling since this "
+                       "saṃyutta's opening, closing its four matched "
+                       "pairs"),
+    ],
+    why=(
+        "This discourse completes the pair SN 13.9 opened, imagining "
+        "the Himalayas themselves worn away and eroded until only "
+        "seven pebbles the size of mustard seeds remain, following "
+        "the same sample-to-remainder shift already confirmed three "
+        "times over for the river confluence, the earth, and the "
+        "ocean. What sets this discourse apart from its three "
+        "predecessor-pairs is its closing application: rather than "
+        "the brief, elided formula used since SN 13.3, this "
+        "discourse spells out the full application one final time, "
+        "in language matching SN 13.1 and SN 13.2 almost word for "
+        "word, closing this saṃyutta's sequence of matched pairs on "
+        "its fullest, most deliberate telling."),
+    guide=[
+        ("The fourth and final reverse image", [
+            "Following the confluence, the earth, and the ocean, "
+            "this discourse gives the Himalayas the same treatment: "
+            "worn away and eroded until only the same seven "
+            "mustard-seed pebbles from SN 13.9 remain, this "
+            "saṃyutta's last application of its sample-to-remainder "
+            "structure."]),
+        ("A return to full articulation", [
+            "Where SN 13.4, SN 13.6, and SN 13.8 each closed their "
+            "own pairs with the elided formula, this discourse breaks "
+            "the pattern and spells out the complete application "
+            "&mdash; the noble disciple accomplished in view, the "
+            "threefold negative, the seven-lives bound, the benefit "
+            "of comprehension &mdash; matching SN 13.1 and SN 13.2's "
+            "fullness almost exactly."]),
+        ("A deliberate frame around the saṃyutta's middle", [
+            "By returning to the fully spelled-out form here, this "
+            "discourse creates a frame: the saṃyutta opens with two "
+            "fully articulated discourses, moves through four pairs "
+            "told in brief, and closes this sequence of pairs with "
+            "one more discourse given in full, before SN 13.11 "
+            "departs from the pattern entirely with a different "
+            "application."]),
+        ("The same seven pebbles, closing the same role", [
+            "Exactly as SN 13.6 turned SN 13.5's placed clay balls "
+            "into a remainder and SN 13.8 did the same for SN 13.7's "
+            "ocean drops, this discourse turns SN 13.9's placed "
+            "pebbles into what survives the Himalayas' erosion, "
+            "completing the pattern for a fourth and final time."]),
+        ("The last matched pair before this saṃyutta's true finale", [
+            "With all four pairs now complete &mdash; the "
+            "confluence, the earth, the ocean, the mountain &mdash; "
+            "only SN 13.11 remains, closing this saṃyutta not with "
+            "another variation on suffering ended versus remaining, "
+            "but with a different comparison entirely."]),
+    ],
+    terms=[
+        ("himavā pabbatarājā parikkhayaṁ pariyādānaṁ gaccheyya",
+         "&ldquo;the Himalayas, the king of mountains, was worn "
+         "away and eroded&rdquo; &mdash; the mountain's fate "
+         "reversed from SN 13.9's deliberate placement."),
+        ("ṭhapetvā satta sāsapamattiyo pāsāṇasakkharā",
+         "&ldquo;except for seven pebbles the size of mustard "
+         "seeds&rdquo; &mdash; the same seven pebbles as SN 13.9, "
+         "now framed as a remainder."),
+        ("ariyasāvakassa diṭṭhisampannassa puggalassa "
+         "abhisametāvino",
+         "&ldquo;a noble disciple accomplished in view, an "
+         "individual with comprehension&rdquo; &mdash; the full "
+         "defining term, restated here as in SN 13.1 and SN 13.2."),
+        ("sattakkhattuṁparamatā",
+         "&ldquo;at most seven more lives&rdquo; &mdash; the "
+         "precise technical bound, spelled out again after several "
+         "discourses of elision."),
+        ("evaṁ mahatthiyo kho&hellip; dhammābhisamayo; evaṁ "
+         "mahatthiyo dhammacakkhupaṭilābho",
+         "&ldquo;that's how very beneficial it is to comprehend the "
+         "teaching and gain the vision of the teaching&rdquo; "
+         "&mdash; the full closing refrain, matching SN 13.1 and SN "
+         "13.2 almost word for word."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn13.10:1.1-1.4"),
+        ("p", "&sect;2", "sn13.10:2.1-2.3"),
+        ("p", "&sect;3", "sn13.10:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What happens to the Himalayas in this discourse, unlike SN 13.9?",
+         "opts": [
+             "They are worn away and eroded, rather than having pebbles placed on them",
+             "They grow taller",
+             "They are renamed",
+             "Nothing changes; the image is identical to SN 13.9"],
+         "correct": 0,
+         "expl": "A shift from deliberate placement to natural erosion, completing this saṃyutta's fourth pair."},
+        {"q": "How does this discourse's closing application compare to SN 13.4, SN 13.6, and SN 13.8's?",
+         "opts": [
+             "It returns to the fully spelled-out form, breaking from the elided pattern those three used",
+             "It is identical in brevity to those three",
+             "It omits the closing application entirely",
+             "It introduces an entirely new application unrelated to suffering"],
+         "correct": 0,
+         "expl": "Matching SN 13.1 and SN 13.2's fullness almost word for word."},
+        {"q": "What frame does this discourse's return to full articulation create?",
+         "opts": [
+             "The saṃyutta opens fully, moves through brief pairs, and closes this sequence fully again before SN 13.11",
+             "No discernible frame is created",
+             "A frame suggesting this discourse is misplaced in the sequence",
+             "A frame identical to the Aṅguttara Nikāya's structure"],
+         "correct": 0,
+         "expl": "A deliberate structural bookend around this saṃyutta's middle."},
+        {"q": "What role do the seven pebbles play in this discourse, differing from SN 13.9?",
+         "opts": [
+             "They are what remains after the Himalayas erode, not something added to them",
+             "They play the exact same role as in SN 13.9",
+             "They are no longer part of the comparison",
+             "They increase in number in this discourse"],
+         "correct": 0,
+         "expl": "The same number, playing the remainder role established across all four pairs."},
+        {"q": "What comes after this discourse, completing all four matched pairs?",
+         "opts": [
+             "SN 13.11, which departs from the pairing pattern with a different comparison entirely",
+             "A fifth matched pair",
+             "The immediate repetition of SN 13.1",
+             "Nothing; this discourse is the saṃyutta's actual final discourse"],
+         "correct": 0,
+         "expl": "This saṃyutta's true closing discourse breaks the established structure."},
+        {"q": "What precise number bounds a stream-enterer's remaining rebirths, restated here in full?",
+         "opts": [
+             "At most seven more lives",
+             "Exactly one more life",
+             "An unlimited number",
+             "No number is given in this discourse"],
+         "correct": 0,
+         "expl": "Spelled out again after several discourses of elision."},
+        {"q": "What does the mendicants' response confirm in this discourse?",
+         "opts": [
+             "That the eroded Himalayas is certainly more than the seven pebbles left",
+             "That the pebbles left are actually greater",
+             "That the two quantities are equal",
+             "The mendicants give no response"],
+         "correct": 0,
+         "expl": "The same brief confirmation pattern used through most of this saṃyutta."},
+        {"q": "How many matched pairs does this discourse complete, counting itself and SN 13.9?",
+         "opts": [
+             "The fourth and final matched pair in this saṃyutta",
+             "The first matched pair",
+             "The second matched pair",
+             "This discourse is not part of any matched pair"],
+         "correct": 0,
+         "expl": "Following the confluence, the earth, and the ocean pairs."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with every discourse in this saṃyutta."},
+    ],
+    marginalia=[
+        ("The last mountain, worn away", [
+            "the fourth pair completed here &mdash;",
+            "sample answered by remainder once more",
+        ]),
+        ("Fullness returning at the close", [
+            "spelled out again, as at the start &mdash;",
+            "not the brief form used in between",
+        ]),
+        ("A frame around the saṃyutta's middle", [
+            "full, then brief, then full again &mdash;",
+            "before the finale departs entirely",
+        ]),
+        ("Four pairs, one structure confirmed", [
+            "confluence, earth, ocean, mountain &mdash;",
+            "the same shift, four times over",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn13.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-13.9.html">SN 13.9 &middot; A Mountain</a> '
+        "&mdash; the discourse immediately before this one, this "
+        "same image's forward half.",
+        '<a href="sn-13.11.html">SN 13.11 &middot; A Mountain (3rd)</a> '
+        "&mdash; the next discourse, closing this saṃyutta with a "
+        "different comparison and its own translated colophon.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 13.11 — Tatiyapabbatasutta
+# --------------------------------------------------------------------------- #
+page(
+    13, 11, "Tatiyapabbata", "A Mountain (3rd)",
+    meta_title="SN 13.11 — A Mountain (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyapabbatasutta — closing Abhisamayasaṃyutta, seven "
+        "pebbles against Sineru, the cosmic axis-mountain, applied "
+        "for the first time to achievement rather than suffering, "
+        "closing on this saṃyutta's own translated colophon. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same comparison structure as the ten "
+                 "discourses before it, but applied for the first "
+                 "time to achievement rather than suffering, closing "
+                 "with this saṃyutta's own colophon"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; the same familiar image, put to a "
+                       "genuinely new use at the very end"),
+    ],
+    why=(
+        "Closing Abhisamayasaṃyutta, this discourse escalates one "
+        "final time: not the Himalayas but Sineru, the cosmic "
+        "mountain at the center of the world in early Buddhist "
+        "cosmology, against seven pebbles the size of mung beans. But "
+        "where every discourse before it applied this saṃyutta's "
+        "comparison to a stream-enterer's suffering, ended versus "
+        "remaining, this discourse breaks the pattern at the very "
+        "last moment: it compares instead the achievement of a "
+        "noble disciple accomplished in view to the achievement of "
+        "ascetics, brahmins, and wanderers of other religions. The "
+        "same overwhelming disproportion, now measuring insight "
+        "itself rather than suffering eliminated, closes the "
+        "saṃyutta on its only translated colophon: \"The Linked "
+        "Discourses on comprehension are complete.\""),
+    guide=[
+        ("The largest mountain in Buddhist cosmology, not just the largest on earth", [
+            "Sineru (Meru in Sanskrit) isn't simply a bigger "
+            "mountain than the Himalayas; in early Buddhist "
+            "cosmology it's the axis mountain at the center of the "
+            "world system itself, a genuine escalation in kind, not "
+            "just in scale, from SN 13.9 and SN 13.10's Himalayas."]),
+        ("A third size-measure for smallness", [
+            "\"Muggamattiyo,\" the size of mung beans, is the third "
+            "distinct small seed-measure this saṃyutta has used, "
+            "after SN 13.5's jujube seeds and SN 13.9's mustard "
+            "seeds, each discourse reaching for its own precise, "
+            "everyday point of comparison."]),
+        ("A pattern broken at the very last moment", [
+            "Every one of the ten discourses before this one closed "
+            "on the same application &mdash; suffering ended versus "
+            "suffering remaining; this discourse alone closes "
+            "instead on achievement, comparing a noble disciple's "
+            "attainment to that of ascetics, brahmins, and wanderers "
+            "of other religions, a genuinely different claim rather "
+            "than one more repetition."]),
+        ("The comparison's target shifts from a fact to a person", [
+            "Where the other ten discourses measured an amount of "
+            "suffering against another amount of suffering, this "
+            "discourse measures one kind of achievement against "
+            "another, redirecting the whole saṃyutta's rhetorical "
+            "structure toward a claim about spiritual attainment "
+            "itself in its final moment."]),
+        ("The saṃyutta's own translated close", [
+            "\"The Linked Discourses on comprehension are "
+            "complete\" is the one line of this saṃyutta's closing "
+            "material given in English, following an untranslated "
+            "uddāna listing all eleven discourse titles &mdash; the "
+            "formal end of Abhisamayasaṃyutta, quoted here exactly "
+            "as the source gives it."]),
+    ],
+    terms=[
+        ("sinerussa pabbatarājassa",
+         "&ldquo;Sineru, the king of mountains&rdquo; &mdash; the "
+         "cosmic axis-mountain of early Buddhist cosmology, a "
+         "escalation in kind from the Himalayas."),
+        ("satta muggamattiyo pāsāṇasakkharā",
+         "&ldquo;seven pebbles the size of mung beans&rdquo; "
+         "&mdash; the third distinct small seed-measure used across "
+         "this saṃyutta."),
+        ("ariyasāvakassa diṭṭhisampannassa puggalassa adhigamaṁ "
+         "upanidhāya aññatitthiyasamaṇabrāhmaṇaparibbājakānaṁ "
+         "adhigamo",
+         "&ldquo;compared with the achievements of a noble disciple "
+         "accomplished in view, the achievements of the ascetics, "
+         "brahmins, and wanderers of other religions&rdquo; "
+         "&mdash; the pattern-breaking closing application, "
+         "measuring attainment rather than suffering."),
+        ("evaṁ mahādhigamo&hellip; diṭṭhisampanno puggalo, evaṁ "
+         "mahābhiñño",
+         "&ldquo;so great is the achievement of the individual "
+         "accomplished in view, so great is their direct "
+         "knowledge&rdquo; &mdash; this discourse's own closing "
+         "line, distinct from the other ten discourses' shared "
+         "refrain."),
+        ("abhisamayasaṁyuttaṁ samattaṁ",
+         "&ldquo;the Linked Discourses on comprehension are "
+         "complete&rdquo; &mdash; the single translated line closing "
+         "this entire saṃyutta."),
+    ],
+    text_intro=(
+        "The discourse in full, closing Abhisamayasaṃyutta. The "
+        "chapter's closing verse of discourse titles is not "
+        "translated in the source and is not quoted here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn13.11:1.1-1.4"),
+        ("p", "&sect;2", "sn13.11:2.1-2.3"),
+        ("p", "&sect;3", "sn13.11:3.1-3.2"),
+        ("p", "&sect;4", "sn13.11:3.4-3.4"),
+    ],
+    quiz=[
+        {"q": "What mountain does this discourse use, escalating beyond SN 13.9 and SN 13.10's Himalayas?",
+         "opts": [
+             "Sineru, the cosmic axis-mountain of early Buddhist cosmology",
+             "A second, unnamed range of the Himalayas",
+             "No mountain at all; this discourse uses an ocean image",
+             "A mountain located specifically in Sāvatthī"],
+         "correct": 0,
+         "expl": "An escalation in kind, not just scale, from an earthly range to the cosmological center."},
+        {"q": "What size measure does this discourse use for its tiny quantity?",
+         "opts": [
+             "The size of mung beans",
+             "The size of jujube seeds, matching SN 13.5",
+             "The size of mustard seeds, matching SN 13.9",
+             "No specific size is given"],
+         "correct": 0,
+         "expl": "The third distinct small seed-measure used across this saṃyutta."},
+        {"q": "How does this discourse's closing application differ from all ten before it?",
+         "opts": [
+             "It compares achievement rather than suffering ended versus remaining",
+             "It is identical to all ten previous discourses",
+             "It omits any closing application entirely",
+             "It compares two different mountains directly"],
+         "correct": 0,
+         "expl": "A genuinely different claim, not one more repetition of the suffering comparison."},
+        {"q": "What does this discourse compare the noble disciple's achievement to?",
+         "opts": [
+             "The achievement of ascetics, brahmins, and wanderers of other religions",
+             "The achievement of other Buddhist mendicants",
+             "The achievement of the Buddha himself",
+             "No comparison of achievement is made"],
+         "correct": 0,
+         "expl": "A redirection of this saṃyutta's rhetorical structure in its final moment."},
+        {"q": "What single sentence survives translation in this discourse's closing material?",
+         "opts": [
+             "\"The Linked Discourses on comprehension are complete\"",
+             "A full English rendering of the eleven-title uddāna",
+             "No sentence in the closing material is translated",
+             "A summary of all eleven discourses in one paragraph"],
+         "correct": 0,
+         "expl": "The formal, translated end of Abhisamayasaṃyutta."},
+        {"q": "Is the chapter's uddāna listing all eleven discourse titles translated in the source?",
+         "opts": [
+             "No — it is untranslated and not quoted in this reading guide",
+             "Yes, and it is quoted in full in the text section",
+             "Only half of the titles are translated",
+             "The uddāna does not exist for this saṃyutta"],
+         "correct": 0,
+         "expl": "Following the same convention used for untranslated closing material elsewhere in this collection."},
+        {"q": "What have the other two small seed-measures been, across this saṃyutta's earlier discourses?",
+         "opts": [
+             "Jujube seeds (SN 13.5–6) and mustard seeds (SN 13.9–10)",
+             "Rice grains and wheat grains",
+             "Only mustard seeds, repeated throughout",
+             "No other seed-measures appear anywhere in this saṃyutta"],
+         "correct": 0,
+         "expl": "Each pair in this saṃyutta reaching for its own precise point of comparison."},
+        {"q": "What does the mendicants' response confirm about Sineru compared to the seven pebbles?",
+         "opts": [
+             "That Sineru is certainly more than the seven pebbles",
+             "That the pebbles are actually greater",
+             "That the two are roughly equal",
+             "The mendicants give no response in this discourse"],
+         "correct": 0,
+         "expl": "The same brief confirmation pattern used through most of this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with every discourse in this saṃyutta."},
+    ],
+    marginalia=[
+        ("Beyond earth's tallest range", [
+            "Sineru, the cosmos's own axis &mdash;",
+            "escalation in kind, not just size",
+        ]),
+        ("A third seed, a third measure", [
+            "jujube, mustard, now mung bean &mdash;",
+            "each pair its own precise smallness",
+        ]),
+        ("The pattern broken at the end", [
+            "not suffering this time, but attainment &mdash;",
+            "a genuinely new claim, not a repeat",
+        ]),
+        ("One line that survives the close", [
+            "\"the Linked Discourses on comprehension are complete\" &mdash;",
+            "eleven discourses, closed on a single sentence",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn13.11/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-13.10.html">SN 13.10 &middot; A Mountain (2nd)</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-13.1.html">SN 13.1 &middot; A Fingernail</a> '
+        "&mdash; the discourse opening this saṃyutta, the same "
+        "comparison structure in its very first form.",
+    ],
+)
