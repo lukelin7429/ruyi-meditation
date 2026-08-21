@@ -19752,3 +19752,2661 @@ page(
         "&mdash; the next discourse, opening this saṃyutta's second "
         "vagga."],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.11 — Sattadhātusutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 11, "Sattadhātu", "Seven Elements",
+    meta_title="SN 14.11 — Seven Elements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sattadhātusutta — opening Dutiyavagga, seven elements "
+        "spanning light, beauty, the four formless dimensions, and "
+        "the cessation of perception and feeling, each discerned by "
+        "contrast and reached by one of three kinds of attainment. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and an unnamed mendicant, in "
+                     "two rounds of question and answer"),
+        ("Form", "A list of seven elements, followed by two "
+                 "questions the mendicant asks and the Buddha "
+                 "answers in turn"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "assumes familiarity with the four formless "
+                       "attainments and the cessation of perception "
+                       "and feeling"),
+    ],
+    why=(
+        "Opening this vagga, this discourse leaves behind the "
+        "mechanical chains of Nānattavagga entirely and turns to "
+        "seven elements naming a graduated sequence of meditative "
+        "states: light, beauty, the four formless dimensions "
+        "(infinite space, infinite consciousness, nothingness, "
+        "neither perception nor non-perception), and finally the "
+        "cessation of perception and feeling, the attainment "
+        "traditionally reserved for non-returners and arahants. A "
+        "mendicant asks two questions the Buddha answers in turn: "
+        "due to what does each element appear, and how is each to "
+        "be attained. The first answer discerns each element by "
+        "contrast with what it isn't; the second sorts all seven "
+        "into three kinds of attainment, the finest-grained "
+        "classification of this sequence given anywhere in this "
+        "collection."),
+    guide=[
+        ("A different structure, a different verb", [
+            "Where Nānattavagga's chains used paṭicca uppajjati, "
+            "&ldquo;arises dependent on,&rdquo; this discourse's "
+            "first answer uses paṭicca paññāyati, &ldquo;appears,&rdquo; "
+            "or &ldquo;is discerned, dependent on&rdquo; &mdash; "
+            "contrast making something knowable, not causation "
+            "producing it."]),
+        ("Seven elements, each known by its opposite", [
+            "Light appears by contrast with darkness, beauty with "
+            "ugliness, infinite space with form, and so on up the "
+            "sequence &mdash; each element in this list becomes "
+            "discernible only against the specific state it leaves "
+            "behind."]),
+        ("A seventh element that folds back on itself", [
+            "Six elements are each discerned against something "
+            "clearly distinct from itself; the seventh, cessation of "
+            "perception and feeling, is said to appear dependent on "
+            "cessation itself &mdash; a genuinely puzzling "
+            "self-reference this reading guide doesn't resolve, "
+            "since the source offers no further gloss."]),
+        ("Three kinds of attainment, not seven equal ones", [
+            "The second answer doesn't treat all seven elements "
+            "alike: five (light through nothingness) are attainments "
+            "with perception, one (neither perception nor "
+            "non-perception) is an attainment with residual "
+            "conditioned phenomena, and the last (cessation) is its "
+            "own kind of attainment entirely."]),
+        ("A recognizable ladder, named rather than described", [
+            "Readers familiar with the four formless jhānas and the "
+            "cessation attainment discussed at length elsewhere in "
+            "the canon will recognize this discourse's list "
+            "immediately; what's distinctive here is the compact, "
+            "purely technical treatment, naming the stages without "
+            "walking through how to reach them."]),
+    ],
+    terms=[
+        ("sattadhātuyo",
+         "&ldquo;the seven elements&rdquo; &mdash; this discourse's "
+         "title term, spanning light through the cessation of "
+         "perception and feeling."),
+        ("ābhādhātu, subhadhātu",
+         "&ldquo;the element of light, the element of beauty&rdquo; "
+         "&mdash; the first two elements, each discerned by contrast "
+         "with darkness and ugliness respectively."),
+        ("ākāsānañcāyatanadhātu, viññāṇañcāyatanadhātu, "
+         "ākiñcaññāyatanadhātu, nevasaññānāsaññāyatanadhātu",
+         "the four formless dimensions &mdash; infinite space, "
+         "infinite consciousness, nothingness, and neither "
+         "perception nor non-perception &mdash; forming the middle "
+         "of this discourse's sequence."),
+        ("saññāvedayitanirodhadhātu",
+         "&ldquo;the element of the cessation of perception and "
+         "feeling&rdquo; &mdash; the seventh and final element, "
+         "traditionally an attainment available only to non-returners "
+         "and arahants."),
+        ("saññāsamāpatti, saṅkhārāvasesasamāpatti, nirodhasamāpatti",
+         "&ldquo;attainment with perception, attainment with "
+         "residual conditioned phenomena, attainment of "
+         "cessation&rdquo; &mdash; the threefold classification "
+         "this discourse sorts all seven elements into."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.11:1.1-1.5"),
+        ("p", "&sect;2", "sn14.11:2.1-2.2"),
+        ("p", "&sect;3", "sn14.11:3.1-3.7"),
+        ("p", "&sect;4", "sn14.11:4.1-4.1"),
+        ("p", "&sect;5", "sn14.11:5.1-5.3"),
+    ],
+    quiz=[
+        {"q": "What structure does this discourse use, unlike Nānattavagga's chains?",
+         "opts": [
+             "A list of seven elements, followed by two separate questions and answers",
+             "A single unbroken causal chain, exactly like Nānattavagga",
+             "A dialogue with a visiting brahmin",
+             "A narrative describing a specific meditation session"],
+         "correct": 0,
+         "expl": "A list, then two distinct rounds of question and answer."},
+        {"q": "What verb does this discourse's first answer use, distinct from Nānattavagga's paṭicca uppajjati?",
+         "opts": [
+             "Paṭicca paññāyati, \"appears\" or \"is discerned, dependent on\"",
+             "The exact same verb, paṭicca uppajjati, unchanged",
+             "Paṭicca nirujjhati, \"ceases dependent on\"",
+             "No causal or dependency verb is used at all"],
+         "correct": 0,
+         "expl": "Contrast making something knowable, a different relationship than causal arising."},
+        {"q": "How does light appear, according to this discourse?",
+         "opts": [
+             "Dependent on darkness, by contrast",
+             "Dependent on beauty",
+             "Independently, with no stated dependency",
+             "Dependent on the element of cessation"],
+         "correct": 0,
+         "expl": "Each element in this list is discerned against a contrasting state."},
+        {"q": "What is unusual about how the seventh element, cessation of perception and feeling, is said to appear?",
+         "opts": [
+             "It is said to appear dependent on cessation itself, a self-referential claim the discourse doesn't further explain",
+             "It is said to appear dependent on darkness, like the first element",
+             "The discourse states it appears independently of any condition",
+             "The discourse omits any statement about how it appears"],
+         "correct": 0,
+         "expl": "A genuine textual puzzle this reading guide flags rather than resolves."},
+        {"q": "Into how many kinds of attainment does the second answer sort the seven elements?",
+         "opts": [
+             "Three — attainment with perception, attainment with residual conditioned phenomena, and attainment of cessation",
+             "Seven, one kind per element",
+             "Two, simply formless and non-formless",
+             "One single kind, undifferentiated"],
+         "correct": 0,
+         "expl": "Five elements share one category, and the last two each get their own."},
+        {"q": "Which elements are grouped together as \"attainment with perception\"?",
+         "opts": [
+             "Light, beauty, and the first three formless dimensions",
+             "Only the element of cessation",
+             "All seven elements equally",
+             "Only the four formless dimensions"],
+         "correct": 0,
+         "expl": "Five of the seven share this first category."},
+        {"q": "What is the element of neither perception nor non-perception classified as?",
+         "opts": [
+             "An attainment with residual conditioned phenomena, its own separate category",
+             "An attainment with perception, grouped with the first five",
+             "An attainment of cessation, grouped with the seventh",
+             "It is not classified at all"],
+         "correct": 0,
+         "expl": "A middle category between ordinary perception-attainments and full cessation."},
+        {"q": "Who asks the questions the Buddha answers in this discourse?",
+         "opts": [
+             "An unnamed mendicant, from the assembly",
+             "Venerable Ānanda, by name",
+             "A visiting brahmin",
+             "No question is asked; the Buddha speaks unprompted"],
+         "correct": 0,
+         "expl": "One of the mendicants present, not individually identified."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Paṭhamaṁ, \"the first\"",
+             "Dutiyaṁ, \"the second\"",
+             "Ekādasamaṁ, \"the eleventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The first discourse of this new vagga, restarting the internal numbering."},
+    ],
+    marginalia=[
+        ("A different verb marks a different logic", [
+            "paññāyati, &ldquo;appears,&rdquo; not &ldquo;arises&rdquo; &mdash;",
+            "contrast, not causation, this time",
+        ]),
+        ("Known only against what it isn't", [
+            "light by darkness, beauty by ugliness &mdash;",
+            "each element discerned by its opposite",
+        ]),
+        ("One element that circles back on itself", [
+            "cessation, dependent on cessation &mdash;",
+            "a puzzle the source leaves unexplained",
+        ]),
+        ("Seven states, three kinds of reaching them", [
+            "with perception, with residue, or fully ceased &mdash;",
+            "the finest-grained grouping in this whole collection",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.11/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.10.html">SN 14.10 &middot; No Diversity of Gains</a> '
+        "&mdash; the discourse closing Nānattavagga, immediately "
+        "before this one.",
+        '<a href="sn-14.12.html">SN 14.12 &middot; With a Cause</a> '
+        "&mdash; the next discourse, returning to a chain structure "
+        "but applied to ethical thought rather than sense "
+        "experience.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.12 — Sanidānasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 12, "Sanidāna", "With a Cause",
+    meta_title="SN 14.12 — With a Cause | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sanidānasutta — the five-step chain from Nānattavagga "
+        "returns, now applied to three unwholesome and three "
+        "wholesome thoughts, framed by a burning-grass simile told "
+        "twice, once for each outcome. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "Two matching five-step chains, one unwholesome "
+                 "and one wholesome, each framed by a burning-grass "
+                 "simile"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "longer than most discourses in this "
+                       "saṃyutta, with two similes worth reading "
+                       "slowly"),
+    ],
+    why=(
+        "This discourse takes the five-step chain first built in "
+        "Nānattavagga &mdash; element, perception, thought, desire, "
+        "passion, search &mdash; and applies it to something with "
+        "direct ethical stakes: sensual, malicious, and cruel "
+        "thoughts on one side, renunciation, good will, and "
+        "harmlessness on the other. Each of the six begins from its "
+        "own named element and runs the identical chain to a search "
+        "that ends in either bad conduct or good conduct, by body, "
+        "speech, and mind. Bracketing both halves is the same "
+        "simile, told twice with the outcome reversed: a burning "
+        "torch dropped in dry grass either destroys what lives there "
+        "or is quickly put out, depending only on how fast it's "
+        "dealt with."),
+    guide=[
+        ("The chain returns, now carrying ethical weight", [
+            "The same element-perception-thought-desire-passion-search "
+            "structure from Nānattavagga reappears here unchanged in "
+            "form, but its content is no longer neutral sense "
+            "experience &mdash; it's sensuality, malice, and "
+            "cruelty, or their opposites."]),
+        ("Six chains, not one, sharing a single shape", [
+            "Sensual, malicious, and cruel thoughts each run the "
+            "chain once; renunciation, good will, and harmlessness "
+            "each run it a second time in the same order, giving six "
+            "parallel chains total within one discourse."]),
+        ("A chain that ends in conduct, not just search", [
+            "Unlike Nānattavagga's chains, which stopped at search "
+            "or gain, this discourse's chains continue one step "
+            "further, to how a person actually behaves by body, "
+            "speech, and mind once the search is underway."]),
+        ("One simile, two outcomes", [
+            "The burning torch dropped in dry grass appears twice, "
+            "identically staged but oppositely resolved &mdash; put "
+            "out quickly or left to spread &mdash; making vivid what "
+            "the abstract chain describes: how fast a thought is "
+            "caught determines what it grows into."]),
+        ("&ldquo;For a reason, not without reason&rdquo;", [
+            "The discourse's opening and closing frame insists that "
+            "even troubling or wholesome thoughts don't simply "
+            "appear from nowhere; each has a specific, traceable "
+            "element behind it, the same insistence on causal "
+            "grounding that runs through this entire saṃyutta."]),
+    ],
+    terms=[
+        ("sanidānaṁ … no anidānaṁ",
+         "&ldquo;for a reason … not without reason&rdquo; &mdash; "
+         "the discourse's title phrase, framing both halves of its "
+         "teaching."),
+        ("kāmadhātu, byāpādadhātu, vihiṁsādhātu",
+         "&ldquo;the element of sensuality, of malice, of "
+         "cruelty&rdquo; &mdash; the three unwholesome elements "
+         "opening the first half of this discourse's chain."),
+        ("nekkhammadhātu, abyāpādadhātu, avihiṁsādhātu",
+         "&ldquo;the element of renunciation, of good will, of "
+         "harmlessness&rdquo; &mdash; the three wholesome elements "
+         "opening the second half, each the direct negation of the "
+         "first three."),
+        ("micchā paṭipajjati / sammā paṭipajjati",
+         "&ldquo;behaves badly&rdquo; / &ldquo;behaves well&rdquo; "
+         "&mdash; by body, speech, and mind, the point each of the "
+         "six chains finally arrives at."),
+        ("ādittaṁ tiṇukkaṁ",
+         "&ldquo;a burning torch&rdquo; &mdash; the image anchoring "
+         "this discourse's simile, told twice with opposite "
+         "outcomes."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the middle links in the malicious and cruel chains, and "
+        "in the good will and harmlessness chains. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.12:1.1-1.2"),
+        ("p", "&sect;2", "sn14.12:2.1-2.3"),
+        ("p", "&sect;3", "sn14.12:3.1-3.2"),
+        ("p", "&sect;4", "sn14.12:4.1-4.2"),
+        ("p", "&sect;5", "sn14.12:5.1-5.3"),
+        ("p", "&sect;6", "sn14.12:6.1-6.1"),
+        ("p", "&sect;7", "sn14.12:7.1-7.7"),
+        ("p", "&sect;8", "sn14.12:8.1-8.6"),
+        ("p", "&sect;9", "sn14.12:9.1-9.6"),
+        ("p", "&sect;10", "sn14.12:10.1-10.3"),
+    ],
+    quiz=[
+        {"q": "What chain structure does this discourse reuse from Nānattavagga?",
+         "opts": [
+             "The element-perception-thought-desire-passion-search chain",
+             "An entirely new eight-step chain not seen before",
+             "No chain structure; this discourse is purely narrative",
+             "Only the two-step elements-to-contacts chain from SN 14.2"],
+         "correct": 0,
+         "expl": "The same five-step chain, now applied to ethical content."},
+        {"q": "What three unwholesome elements open the chain's first half?",
+         "opts": [
+             "Sensuality, malice, and cruelty",
+             "Light, beauty, and space",
+             "Renunciation, good will, and harmlessness",
+             "Only sensuality; malice and cruelty aren't discussed"],
+         "correct": 0,
+         "expl": "Kāma, byāpāda, and vihiṁsā, each running the chain in turn."},
+        {"q": "How far does this discourse's chain extend, beyond what Nānattavagga's chains reached?",
+         "opts": [
+             "To actual conduct by body, speech, and mind, following the search",
+             "It stops at search, exactly like SN 14.7-8",
+             "It stops at the element itself, going no further",
+             "It extends only to feeling, not to conduct"],
+         "correct": 0,
+         "expl": "Search here leads on to how a person actually behaves."},
+        {"q": "What simile appears twice in this discourse, once for each outcome?",
+         "opts": [
+             "A burning torch dropped in dry grass, either extinguished quickly or left to spread",
+             "A tree cut down at the root",
+             "A river flowing toward the sea",
+             "A pot being fired in a kiln"],
+         "correct": 0,
+         "expl": "The same staged scene, resolved oppositely depending on the outcome being illustrated."},
+        {"q": "What does the phrase \"sanidānaṁ … no anidānaṁ\" mean, and where does it appear?",
+         "opts": [
+             "\"For a reason, not without reason\" — framing both halves of the discourse",
+             "\"Without cause, spontaneously\" — describing only the wholesome thoughts",
+             "A technical term found nowhere else in this discourse",
+             "The name of the simile's central character"],
+         "correct": 0,
+         "expl": "The title phrase, insisting even troubling thoughts have a traceable source."},
+        {"q": "What three wholesome elements open the chain's second half?",
+         "opts": [
+             "Renunciation, good will, and harmlessness",
+             "Sensuality, malice, and cruelty repeated unchanged",
+             "Light, beauty, and the four formless dimensions",
+             "Only renunciation; the other two aren't discussed"],
+         "correct": 0,
+         "expl": "Nekkhamma, abyāpāda, and avihiṁsā, each the direct negation of an unwholesome counterpart."},
+        {"q": "According to the discourse, what determines whether the burning torch causes ruin or not?",
+         "opts": [
+             "How quickly it is extinguished with hands and feet",
+             "Where exactly the torch is dropped",
+             "The size of the torch itself",
+             "The simile gives no explanation for the difference"],
+         "correct": 0,
+         "expl": "Speed of response is the deciding factor in both tellings."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant, who asks a question",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dutiyaṁ, \"the second\"",
+             "Paṭhamaṁ, \"the first\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The second discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("A familiar chain, unfamiliar stakes", [
+            "the same five steps as Nānattavagga &mdash;",
+            "now carrying sensuality, malice, cruelty",
+        ]),
+        ("Search that ends in actual conduct", [
+            "not stopping at wanting, but at doing &mdash;",
+            "body, speech, and mind, badly or well",
+        ]),
+        ("One torch, two endings", [
+            "quenched quickly, or left to spread &mdash;",
+            "the same scene, opposite outcomes",
+        ]),
+        ("Nothing arises causelessly", [
+            "sanidānaṁ, no anidānaṁ &mdash;",
+            "even a cruel thought has a traceable source",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.12/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.11.html">SN 14.11 &middot; Seven Elements</a> '
+        "&mdash; the discourse immediately before this one, opening "
+        "this vagga.",
+        '<a href="sn-14.13.html">SN 14.13 &middot; In the Brick Hall</a> '
+        "&mdash; the next discourse, moving to a specific narrative "
+        "setting.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 14.13 — Giñjakāvasathasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 13, "Giñjakāvasatha", "In the Brick Hall",
+    meta_title="SN 14.13 — In the Brick Hall | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Giñjakāvasathasutta — this saṃyutta's first discourse "
+        "set outside Sāvatthī, Venerable Kaccāna asks about a false "
+        "claim to Buddhahood, and the Buddha answers with a "
+        "threefold grading of element, person, and rebirth. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Ñātika, in the brick house &mdash; the first "
+                    "discourse in this entire saṃyutta not set at "
+                    "Sāvatthī"),
+        ("Speakers", "The Buddha and Venerable Kaccāna"),
+        ("Form", "A brief general statement, a pointed question from "
+                 "Kaccāna, and an extended threefold answer"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "assumes SN 14.11's distinct paññāyati "
+                       "phrasing as background"),
+    ],
+    why=(
+        "For the first time in this entire saṃyutta, the setting "
+        "shifts away from Sāvatthī: the Buddha is staying at Ñātika, "
+        "in a brick house. There he states, in general, that an "
+        "element gives rise to perception, view, and thought. "
+        "Venerable Kaccāna presses him on something specific and "
+        "troubling: the view, held by some, that people who are not "
+        "actually fully awakened are in fact fully awakened Buddhas "
+        "&mdash; using the same paṭicca paññāyati, &ldquo;appears, "
+        "dependent on,&rdquo; phrasing SN 14.11 used for its "
+        "seven elements. The Buddha's answer names ignorance as a "
+        "mighty element, then generalizes into a threefold grading "
+        "&mdash; inferior, middling, and superior &mdash; where a "
+        "person's whole cluster of perception, view, thought, "
+        "intention, speech, and even their rebirth all match the "
+        "grade of the element behind them."),
+    guide=[
+        ("A setting that breaks a long pattern", [
+            "Every discourse from SN 14.1 through 14.12 was set at "
+            "Sāvatthī; this one alone moves to Ñātika's brick house, "
+            "a small but real signal that this vagga isn't simply "
+            "repeating Nānattavagga's formula-only structure."]),
+        ("Kaccāna names a real, troubling problem", [
+            "Rather than an abstract example, Kaccāna asks about "
+            "people who falsely believe themselves to be fully "
+            "awakened Buddhas when they are not &mdash; a pointed "
+            "question about religious overclaiming, not a "
+            "hypothetical."]),
+        ("The same rare verb as SN 14.11, briefly", [
+            "Kaccāna's question uses paṭicca paññāyati, "
+            "&ldquo;appears, dependent on,&rdquo; the same "
+            "distinctive phrasing SN 14.11 used and no other "
+            "discourse in this vagga has used since &mdash; though "
+            "the Buddha's actual answer shifts back to paṭicca "
+            "uppajjati, &ldquo;arises dependent on.&rdquo;"]),
+        ("Ignorance named as a \"mighty\" element", [
+            "Before generalizing, the Buddha gives Kaccāna's "
+            "specific question a specific answer: the false "
+            "conviction of unearned Buddhahood traces to "
+            "avijjādhātu, the element of ignorance, called mighty "
+            "for producing something this consequential."]),
+        ("A whole cluster graded together, not one item at a time", [
+            "The threefold answer that follows doesn't just grade "
+            "perception or view alone; it grades eight distinct "
+            "things at once &mdash; perception, view, thought, "
+            "intention, aim, wish, the person themselves, and their "
+            "speech &mdash; plus a ninth, their rebirth, all matching "
+            "the same inferior, middling, or superior element."]),
+    ],
+    terms=[
+        ("dhātuṁ paṭicca uppajjati saññā, diṭṭhi, vitakko",
+         "&ldquo;an element gives rise to a perception, a view, and "
+         "a thought&rdquo; &mdash; the discourse's opening general "
+         "claim, prompting Kaccāna's specific question."),
+        ("avijjādhātu",
+         "&ldquo;the element of ignorance&rdquo; &mdash; named "
+         "&ldquo;mighty&rdquo; as the source of the false conviction "
+         "Kaccāna asks about."),
+        ("hīna, majjhima, paṇīta",
+         "&ldquo;inferior, middling, superior&rdquo; &mdash; the "
+         "threefold grading applied to elements and everything that "
+         "follows from them."),
+        ("hīnā … upapatti",
+         "&ldquo;inferior … rebirth&rdquo; &mdash; the discourse's "
+         "closing claim for each grade, extending the classification "
+         "all the way to where a person is reborn."),
+        ("asammāsambuddhesu sammāsambuddhā",
+         "&ldquo;among those not fully awakened, [the view that "
+         "they are] fully awakened&rdquo; &mdash; Kaccāna's specific "
+         "example, a false claim to Buddhahood."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.13:1.1-1.5"),
+        ("p", "&sect;2", "sn14.13:2.1-2.4"),
+        ("p", "&sect;3", "sn14.13:3.1-3.4"),
+        ("p", "&sect;4", "sn14.13:4.1-4.3"),
+        ("p", "&sect;5", "sn14.13:5.1-5.3"),
+    ],
+    quiz=[
+        {"q": "What is distinctive about this discourse's setting?",
+         "opts": [
+             "It is the first discourse in this entire saṃyutta not set at Sāvatthī",
+             "It is set in a foreign country never mentioned elsewhere",
+             "No setting is given at all",
+             "It is set at Rājagaha, like most discourses in this collection"],
+         "correct": 0,
+         "expl": "Ñātika's brick house, breaking a pattern held since SN 14.1."},
+        {"q": "What specific view does Venerable Kaccāna ask the Buddha about?",
+         "opts": [
+             "That people who are not fully awakened are believed to be fully awakened Buddhas",
+             "That the four formless dimensions don't actually exist",
+             "That elements never give rise to perception",
+             "That rebirth doesn't depend on any element at all"],
+         "correct": 0,
+         "expl": "A specific, pointed example of religious overclaiming."},
+        {"q": "What verb does Kaccāna's question share with SN 14.11, distinct from most of this vagga?",
+         "opts": [
+             "Paṭicca paññāyati, \"appears, dependent on\"",
+             "Paṭicca uppajjati, used identically throughout",
+             "Paṭicca nirujjhati, \"ceases dependent on\"",
+             "No dependency verb appears in Kaccāna's question"],
+         "correct": 0,
+         "expl": "The same rare phrasing SN 14.11 used for its seven elements."},
+        {"q": "What element does the Buddha name as the source of the false conviction Kaccāna asks about?",
+         "opts": [
+             "Avijjādhātu, the element of ignorance, called \"mighty\"",
+             "Kāmadhātu, the element of sensuality",
+             "Ābhādhātu, the element of light",
+             "The Buddha declines to name any specific element"],
+         "correct": 0,
+         "expl": "Ignorance, singled out for producing something this consequential."},
+        {"q": "How many things does the threefold grading apply to at once, according to this discourse?",
+         "opts": [
+             "Eight, plus rebirth as a ninth — perception, view, thought, intention, aim, wish, the person, and speech",
+             "Only one — perception alone",
+             "Two — perception and view only",
+             "Three, matching only the grading itself"],
+         "correct": 0,
+         "expl": "A whole cluster of qualities graded together, not one at a time."},
+        {"q": "What determines whether someone's rebirth is inferior, middling, or superior, according to this discourse?",
+         "opts": [
+             "The same grade as the element behind their perception, view, and conduct",
+             "Random chance, unconnected to any element",
+             "Only their spoken words, independent of their thoughts",
+             "The discourse doesn't address rebirth at all"],
+         "correct": 0,
+         "expl": "Rebirth matches the grade of the element that produced everything else."},
+        {"q": "What phrase describes what one does with the inferior, middling, or superior, according to each section?",
+         "opts": [
+             "One explains, teaches, asserts, establishes, clarifies, analyzes, and reveals it",
+             "One conceals and denies it entirely",
+             "One only experiences it privately, without ever expressing it",
+             "No such description is given"],
+         "correct": 0,
+         "expl": "A person doesn't just have a grade; they actively communicate and embody it."},
+        {"q": "Who asks the pointed question this discourse turns on?",
+         "opts": [
+             "Venerable Kaccāna",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "Named specifically, unlike the unnamed questioner of SN 14.11."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "At Ñātika, in the brick house",
+             "At Sāvatthī, Jeta's Grove",
+             "Near Rājagaha",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting that breaks this saṃyutta's long Sāvatthī pattern."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Tatiyaṁ, \"the third\"",
+             "Dutiyaṁ, \"the second\"",
+             "Catutthaṁ, \"the fourth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The third discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("A pattern broken for the first time", [
+            "not Sāvatthī, but Ñātika's brick house &mdash;",
+            "twelve discourses of one setting, now interrupted",
+        ]),
+        ("A question about a real problem", [
+            "unearned claims to full awakening &mdash;",
+            "Kaccāna names it directly, not hypothetically",
+        ]),
+        ("A verb borrowed briefly from SN 14.11", [
+            "paññāyati, &ldquo;appears&rdquo; &mdash;",
+            "then dropped back to uppajjati, &ldquo;arises&rdquo;",
+        ]),
+        ("A whole life graded, not one trait", [
+            "perception, view, speech, even rebirth &mdash;",
+            "all matching one element's single grade",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.13/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.12.html">SN 14.12 &middot; With a Cause</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-14.14.html">SN 14.14 &middot; Inferior Convictions</a> '
+        "&mdash; the next discourse, extending this same grading "
+        "into the well-known teaching that like-minded beings "
+        "converge with one another.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.14 — Hīnādhimuttikasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 14, "Hīnādhimuttika", "Inferior Convictions",
+    meta_title="SN 14.14 — Inferior Convictions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Hīnādhimuttikasutta — this saṃyutta's best-known "
+        "teaching, that beings of matching conviction converge with "
+        "one another, stated as true across past, present, and "
+        "future alike. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "One claim, restated across four time frames "
+                 "&mdash; a general statement, the past, the "
+                 "future, and the present again"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "among the simplest and most widely quoted "
+                       "discourses in this saṃyutta"),
+    ],
+    why=(
+        "Building directly on SN 14.13's threefold grading, this "
+        "discourse states what may be this saṃyutta's most quoted "
+        "single claim: sentient beings join together and converge "
+        "simply because of an element &mdash; those of inferior "
+        "conviction with others of inferior conviction, those of "
+        "good conviction with others of good conviction. What makes "
+        "the discourse distinctive isn't the claim's content, "
+        "already implicit in SN 14.13's grading, but its scope: the "
+        "Buddha states it once for the present, then insists it "
+        "held equally in the past and will hold equally in the "
+        "future, before restating it a final time for the present "
+        "&mdash; a claim about how beings sort themselves that the "
+        "discourse frames as true at every point in time, not just "
+        "here and now."),
+    guide=[
+        ("A direct continuation of SN 14.13's grading", [
+            "Where the previous discourse graded perception, view, "
+            "and rebirth by their element, this one draws out a "
+            "social consequence: beings of matching grade don't just "
+            "resemble each other, they actually converge and "
+            "associate together."]),
+        ("Only two categories, not three", [
+            "Unlike SN 14.13's hīna/majjhima/paṇīta threefold "
+            "grading, this discourse names only two &mdash; "
+            "hīnādhimuttikā and kalyāṇādhimuttikā, inferior "
+            "conviction and good conviction &mdash; a simpler, "
+            "starker division."]),
+        ("Four time frames, not one", [
+            "The claim is stated for the present, then for the past, "
+            "then for the future, then restated for the present once "
+            "more &mdash; a structure emphasizing that this isn't a "
+            "passing observation but something the discourse treats "
+            "as constant across all time."]),
+        ("Elided repetition carrying real weight", [
+            "The past and future sections are given in full Pali but "
+            "left untranslated for their repeated middle clauses, "
+            "trusting the reader to carry forward the present "
+            "tense's wording &mdash; brevity standing in for what "
+            "would otherwise be near-total repetition."]),
+        ("A teaching recognizable outside the canon", [
+            "The core claim &mdash; that like-minded people converge "
+            "with one another &mdash; will be immediately familiar "
+            "to readers from ordinary experience and from proverbs "
+            "in many languages, though this discourse roots it "
+            "specifically in dhātu, element, rather than treating it "
+            "as simple social observation."]),
+    ],
+    terms=[
+        ("sattā saṁsandanti samenti",
+         "&ldquo;sentient beings join together and converge&rdquo; "
+         "&mdash; this discourse's central, repeated claim."),
+        ("hīnādhimuttikā",
+         "&ldquo;those of inferior conviction&rdquo; &mdash; one of "
+         "the two categories this discourse's beings sort "
+         "themselves into."),
+        ("kalyāṇādhimuttikā",
+         "&ldquo;those of good conviction&rdquo; &mdash; the second "
+         "category, converging only with others of the same kind."),
+        ("dhātusova",
+         "&ldquo;simply because of an element&rdquo; &mdash; the "
+         "discourse's insistence that this convergence has one "
+         "specific cause, not a vague social tendency."),
+        ("atītampi … anāgatampi … etarahipi",
+         "&ldquo;in the past too … in the future too … at present "
+         "too&rdquo; &mdash; the three-time-frame structure "
+         "universalizing this discourse's claim."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the past and future sections' repeated clauses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.14:1.1-1.4"),
+        ("p", "&sect;2", "sn14.14:2.1-2.3"),
+        ("p", "&sect;3", "sn14.14:3.1-3.3"),
+        ("p", "&sect;4", "sn14.14:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "What is this discourse's central claim?",
+         "opts": [
+             "Sentient beings join together and converge because of an element",
+             "Sentient beings never associate with one another",
+             "Only inferior beings ever converge with anyone",
+             "Convergence between beings has no traceable cause"],
+         "correct": 0,
+         "expl": "The discourse's repeated core statement, restated across four time frames."},
+        {"q": "How many categories of conviction does this discourse name, compared to SN 14.13's threefold grading?",
+         "opts": [
+             "Two — inferior conviction and good conviction",
+             "Three, identical to SN 14.13",
+             "Four, one for each time frame",
+             "One single, undivided category"],
+         "correct": 0,
+         "expl": "A simpler, two-way division rather than SN 14.13's hīna/majjhima/paṇīta."},
+        {"q": "Across how many time frames is this discourse's claim stated?",
+         "opts": [
+             "Four — a general present statement, the past, the future, and the present again",
+             "Only one, the present moment alone",
+             "Two, past and future only, omitting the present",
+             "Three, omitting the future"],
+         "correct": 0,
+         "expl": "Present, past, future, and present once more, emphasizing constancy across time."},
+        {"q": "What happens to the past and future sections' repeated clauses in the source?",
+         "opts": [
+             "They are given in Pali but left untranslated, trusting the present tense's wording",
+             "They are fully translated in complete detail",
+             "They are omitted from the Pali source entirely",
+             "They contradict the present tense's claim"],
+         "correct": 0,
+         "expl": "Brevity standing in for near-total repetition of the present-tense wording."},
+        {"q": "What single cause does this discourse attribute convergence to?",
+         "opts": [
+             "An element (dhātu), stated explicitly rather than left as a vague tendency",
+             "Random chance",
+             "Deliberate choice alone, with no underlying cause",
+             "No cause is given; the discourse only describes the pattern"],
+         "correct": 0,
+         "expl": "Dhātusova, \"simply because of an element,\" grounds the claim specifically."},
+        {"q": "How does this discourse relate to SN 14.13, the discourse immediately before it?",
+         "opts": [
+             "It draws out a social consequence of SN 14.13's threefold grading of perception, view, and rebirth",
+             "It directly contradicts SN 14.13's claims",
+             "It has no thematic connection to SN 14.13",
+             "It repeats SN 14.13 word for word"],
+         "correct": 0,
+         "expl": "A natural extension: beings of matching grade don't just resemble each other, they converge."},
+        {"q": "What familiar idea does this discourse's core claim resemble, though it grounds the claim differently?",
+         "opts": [
+             "The common observation, echoed in proverbs across many languages, that like-minded people gather together",
+             "The idea that opposites necessarily attract",
+             "A claim found nowhere outside this specific discourse",
+             "A purely mathematical principle unrelated to social behavior"],
+         "correct": 0,
+         "expl": "A widely recognizable pattern, here rooted specifically in dhātu rather than left as folk wisdom."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "Back to Sāvatthī, after SN 14.13's one-discourse departure."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Catutthaṁ, \"the fourth\"",
+             "Tatiyaṁ, \"the third\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fourth discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("A claim that needs no argument", [
+            "beings join with their own kind &mdash;",
+            "grounded here in element, not habit",
+        ]),
+        ("Two camps, not three", [
+            "inferior conviction, good conviction &mdash;",
+            "simpler than SN 14.13's threefold grade",
+        ]),
+        ("Stated true at every point in time", [
+            "past, future, present, present again &mdash;",
+            "not an observation, but a constant",
+        ]),
+        ("A proverb, given a technical root", [
+            "like drawn to like, in every language &mdash;",
+            "here traced specifically to dhātu",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.14/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.13.html">SN 14.13 &middot; In the Brick Hall</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the threefold grading this discourse builds a social "
+        "consequence from.",
+        '<a href="sn-14.15.html">SN 14.15 &middot; Walking Together</a> '
+        "&mdash; the next discourse, extending this same "
+        "converging-together theme into a specific narrative scene.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 14.15 — Caṅkamasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 15, "Caṅkama", "Walking Together",
+    meta_title="SN 14.15 — Walking Together | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Caṅkamasutta — eight great elders, each walking with "
+        "mendicants who share their own distinct quality, giving "
+        "concrete, named proof for the previous discourse's abstract "
+        "claim, Devadatta included. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, on the Vulture's Peak Mountain"),
+        ("Speakers", "The Buddha, questioning the assembled "
+                     "mendicants"),
+        ("Form", "A roll call of eight named elders each walking "
+                 "with their own group, followed by the abstract "
+                 "teaching from SN 14.14"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "straightforward, but names eight major "
+                       "figures worth knowing individually"),
+    ],
+    why=(
+        "SN 14.14 stated, abstractly, that beings of matching "
+        "conviction converge with one another. This discourse makes "
+        "that claim concrete and, in one case, genuinely "
+        "uncomfortable. Walking near the Buddha are eight groups, "
+        "each gathered around a named elder, and each group shares "
+        "its leader's particular quality: Sāriputta's group has "
+        "great wisdom, Moggallāna's great psychic power, Mahākassapa's "
+        "advocates austerity, Anuruddha's has clairvoyance, Puṇṇa's "
+        "are Dhamma speakers, Upāli's are experts in monastic law, "
+        "Ānanda's are very learned &mdash; and Devadatta's group has "
+        "corrupt wishes. The discourse offers no comment on this "
+        "final entry; it simply lists it alongside the other seven, "
+        "then closes with the same three-time-frame formula SN "
+        "14.14 already gave."),
+    guide=[
+        ("A second departure from Sāvatthī", [
+            "Like SN 14.13, this discourse moves away from Sāvatthī "
+            "&mdash; here to Rājagaha's Vulture's Peak, a setting "
+            "associated with several major discourses elsewhere in "
+            "the canon."]),
+        ("Proof by roster, not by argument", [
+            "Rather than reasoning toward SN 14.14's claim, this "
+            "discourse simply points: the Buddha has the mendicants "
+            "look, one by one, at eight real groups already sorted "
+            "by quality, letting them see the pattern directly."]),
+        ("Seven admirable qualities, evenly distributed", [
+            "Wisdom, psychic power, ascetic rigor, clairvoyance, "
+            "skill in teaching, expertise in monastic law, and "
+            "learning &mdash; seven distinct excellences, each "
+            "concentrated in its own group rather than spread evenly "
+            "across the whole assembly."]),
+        ("Devadatta named without comment", [
+            "The eighth entry, pāpicchā, corrupt wishes, is stated "
+            "in exactly the same flat form as the other seven, with "
+            "no editorial aside marking it as different in kind "
+            "&mdash; this reading guide notes the discomfort without "
+            "asserting what the discourse itself doesn't say about "
+            "later events."]),
+        ("The abstract teaching, now doubly earned", [
+            "Having just watched the pattern play out among named, "
+            "known figures, the reader meets SN 14.14's formula "
+            "again in this discourse's closing section, this time "
+            "landing as a conclusion already demonstrated rather "
+            "than an assertion still to be tested."]),
+    ],
+    terms=[
+        ("caṅkamati",
+         "&ldquo;walks back and forth,&rdquo; specifically walking "
+         "meditation &mdash; this discourse's title activity, "
+         "practiced by all eight groups near the Buddha."),
+        ("mahāpaññā, mahiddhikā",
+         "&ldquo;great wisdom, great psychic power&rdquo; &mdash; "
+         "the qualities of Sāriputta's and Moggallāna's groups, the "
+         "first two named."),
+        ("dhutavādā, dibbacakkhukā, dhammakathikā, vinayadharā, "
+         "bahussutā",
+         "&ldquo;austerity-advocates, clairvoyant, Dhamma speakers, "
+         "experts in monastic law, very learned&rdquo; &mdash; the "
+         "five further qualities matched to Mahākassapa's, "
+         "Anuruddha's, Puṇṇa's, Upāli's, and Ānanda's groups."),
+        ("pāpicchā",
+         "&ldquo;corrupt wishes&rdquo; &mdash; the quality matched "
+         "to Devadatta's group, the discourse's eighth and final, "
+         "uncommented-on entry."),
+        ("dhātusova sattā saṁsandanti samenti",
+         "&ldquo;sentient beings join together and converge because "
+         "of an element&rdquo; &mdash; SN 14.14's formula, repeated "
+         "here as this discourse's closing conclusion."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of repeated clauses in the past- and future-tense sections. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.15:1.1-1.9"),
+        ("p", "&sect;2", "sn14.15:2.1-2.25"),
+        ("p", "&sect;3", "sn14.15:3.1-3.6"),
+        ("p", "&sect;4", "sn14.15:4.1-4.3"),
+        ("p", "&sect;5", "sn14.15:5.1-5.3"),
+    ],
+    quiz=[
+        {"q": "What does this discourse do with SN 14.14's abstract claim?",
+         "opts": [
+             "It illustrates the claim concretely, with eight named elders and their groups",
+             "It directly contradicts the claim made in SN 14.14",
+             "It ignores SN 14.14 entirely and introduces an unrelated topic",
+             "It restates the claim without any illustration at all"],
+         "correct": 0,
+         "expl": "A roll call of real, named groups demonstrating the pattern directly."},
+        {"q": "What quality is shared by the mendicants walking with Venerable Sāriputta?",
+         "opts": [
+             "Great wisdom",
+             "Great psychic power",
+             "Corrupt wishes",
+             "Expertise in monastic law"],
+         "correct": 0,
+         "expl": "Mahāpaññā, matching Sāriputta's own renown for wisdom."},
+        {"q": "What quality does the discourse attribute to Devadatta's group?",
+         "opts": [
+             "Corrupt wishes",
+             "Great learning",
+             "Clairvoyance",
+             "Skill as Dhamma speakers"],
+         "correct": 0,
+         "expl": "Pāpicchā, stated in the same flat form as the other seven qualities."},
+        {"q": "How does the discourse comment on Devadatta's inclusion in this list?",
+         "opts": [
+             "It offers no editorial comment, listing his group in exactly the same form as the other seven",
+             "It explicitly explains his later betrayal of the Buddha",
+             "It singles him out with a lengthy warning",
+             "It omits him from the list entirely"],
+         "correct": 0,
+         "expl": "A flat, uncommented entry, consistent in form with the other seven."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Rājagaha, on the Vulture's Peak Mountain",
+             "Sāvatthī, Jeta's Grove",
+             "Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The second departure from Sāvatthī within this vagga, after SN 14.13."},
+        {"q": "How many groups, each led by a named elder, does the Buddha point out?",
+         "opts": [
+             "Eight",
+             "Three",
+             "Twelve",
+             "Five"],
+         "correct": 0,
+         "expl": "Sāriputta, Moggallāna, Mahākassapa, Anuruddha, Puṇṇa, Upāli, Ānanda, and Devadatta."},
+        {"q": "What quality is matched to Venerable Upāli's group?",
+         "opts": [
+             "Expertise in monastic law",
+             "Great psychic power",
+             "Ascetic practice",
+             "Corrupt wishes"],
+         "correct": 0,
+         "expl": "Vinayadharā, matching Upāli's traditional role as the foremost expert in monastic discipline."},
+        {"q": "What formula closes this discourse, after the roll call of eight groups?",
+         "opts": [
+             "The same three-time-frame convergence formula given in SN 14.14",
+             "A completely new formula never seen before in this vagga",
+             "No closing formula; the discourse ends with the roll call itself",
+             "A formula about the four formless dimensions"],
+         "correct": 0,
+         "expl": "SN 14.14's claim, now demonstrated before being restated."},
+        {"q": "Who does the Buddha ask to confirm each group's identity?",
+         "opts": [
+             "The assembled mendicants, who answer \"Yes, sir\" each time",
+             "Venerable Sāriputta alone",
+             "Devadatta himself",
+             "No one; the Buddha simply states each fact"],
+         "correct": 0,
+         "expl": "A repeated question-and-confirmation pattern across all eight groups."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Pañcamaṁ, \"the fifth\"",
+             "Catutthaṁ, \"the fourth\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fifth discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("An abstract claim, made concrete", [
+            "eight groups, eight named leaders &mdash;",
+            "the pattern shown, not just asserted",
+        ]),
+        ("Seven admirable qualities in a row", [
+            "wisdom, power, rigor, sight, speech, law, learning &mdash;",
+            "each concentrated in its own circle",
+        ]),
+        ("One name that breaks the pattern", [
+            "Devadatta, and corrupt wishes &mdash;",
+            "stated flatly, with no comment added",
+        ]),
+        ("A teaching earned before it's restated", [
+            "the same formula as SN 14.14 &mdash;",
+            "now landing as demonstrated fact",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.15/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.14.html">SN 14.14 &middot; Inferior Convictions</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the abstract claim this discourse illustrates.",
+        '<a href="sn-14.16.html">SN 14.16 &middot; With Verses</a> '
+        "&mdash; the next discourse, extending the same theme with "
+        "vivid similes and closing in actual verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.16 — Sagāthāsutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 16, "Sagāthā", "With Verses",
+    meta_title="SN 14.16 — With Verses | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sagāthāsutta — dung, urine, and blood mirror inferior "
+        "convergence, milk, ghee, and honey mirror good convergence, "
+        "and the teaching closes in actual verse, a rare form this "
+        "far into Dhātusaṃyutta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, closing in verse addressed "
+                     "to the assembled mendicants"),
+        ("Form", "Two full three-time-frame statements, each "
+                 "bracketing a five-item simile, followed by three "
+                 "verses of applied ethical advice"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the longest and most structurally varied "
+                       "discourse in this vagga so far"),
+    ],
+    why=(
+        "This discourse gives SN 14.14's convergence teaching its "
+        "most vivid and most complete treatment yet. The inferior "
+        "half is illustrated by a genuinely visceral simile &mdash; "
+        "dung with dung, urine with urine, spit, pus, and blood, "
+        "each joining only with its own kind &mdash; while the good "
+        "half gets the opposite treatment: milk with milk, oil, "
+        "ghee, honey, and molasses. Each simile is bracketed by the "
+        "full three-time-frame formula, given once before the simile "
+        "and once again after it. Then, unusually for this saṃyutta, "
+        "the discourse closes not in prose but in three verses of "
+        "applied advice &mdash; warning against relying on a lazy "
+        "companion, and recommending the company of the secluded, "
+        "energetic, and wise instead."),
+    guide=[
+        ("The three-time-frame formula, doubled", [
+            "Unlike SN 14.14 and SN 14.15, which state the "
+            "past-present-future formula once per category, this "
+            "discourse states it twice for each half &mdash; once "
+            "before its simile, once again after &mdash; bracketing "
+            "the vivid image on both sides."]),
+        ("Two similes, deliberately visceral and deliberately fine", [
+            "Dung, urine, spit, pus, and blood cluster with their "
+            "own kind on one side; milk, oil, ghee, honey, and "
+            "molasses cluster with theirs on the other &mdash; the "
+            "discourse doesn't soften the first list to make a "
+            "comfortable point."]),
+        ("A title that echoes this collection's very first book", [
+            "Sagāthāsutta, &ldquo;with verses,&rdquo; shares its "
+            "name with Sagāthāvagga, the Saṃyutta Nikāya's entire "
+            "first book &mdash; a small echo, though this single "
+            "discourse is prose throughout except for its three "
+            "closing verses."]),
+        ("Verses that shift from description to instruction", [
+            "Everything before the verses describes how beings sort "
+            "themselves; the verses themselves give direct advice "
+            "&mdash; avoid a lazy companion, because relying on one "
+            "drags even a person living well down with them."]),
+        ("A closing image of drowning", [
+            "The verses' central picture &mdash; clambering onto a "
+            "small log in the middle of a great ocean, only to sink "
+            "&mdash; makes vivid what abstract convergence theory "
+            "implies: the wrong company can pull down someone who "
+            "was otherwise doing well."]),
+    ],
+    terms=[
+        ("sagāthā",
+         "&ldquo;with verses&rdquo; &mdash; this discourse's title, "
+         "sharing its name with Sagāthāvagga, the entire first book "
+         "of the Saṃyutta Nikāya."),
+        ("gūtho gūthena saṁsandati",
+         "&ldquo;dung joins together with dung&rdquo; &mdash; the "
+         "first and most visceral of five paired substances "
+         "illustrating inferior convergence."),
+        ("khīraṁ khīrena saṁsandati",
+         "&ldquo;milk joins together with milk&rdquo; &mdash; the "
+         "first of five paired substances illustrating good "
+         "convergence, mirroring the dung simile's structure "
+         "exactly."),
+        ("saṁsaggā vanatho jāto",
+         "&ldquo;socializing creates a snarl&rdquo; &mdash; the "
+         "closing verses' opening line, warning that the wrong "
+         "company entangles rather than helps."),
+        ("kusīta, hīnavīriya",
+         "&ldquo;lazy, lacking energy&rdquo; &mdash; the companion "
+         "the closing verses instruct the reader to avoid, "
+         "contrasted with the secluded and energetic ones "
+         "recommended instead."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of repeated clauses in the past- and future-tense sections. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.16:1.1-1.5"),
+        ("p", "&sect;2", "sn14.16:2.1-2.2"),
+        ("p", "&sect;3", "sn14.16:3.1-3.2"),
+        ("p", "&sect;4", "sn14.16:4.1-4.11"),
+        ("p", "&sect;5", "sn14.16:5.1-5.4"),
+        ("p", "&sect;6", "sn14.16:6.1-6.3"),
+        ("p", "&sect;7", "sn14.16:7.1-7.11"),
+        ("p", "&sect;8", "sn14.16:8.1-8.2"),
+        ("p", "&sect;9", "sn14.16:9.1-9.4"),
+        ("p", "&sect;10", "sn14.16:10.1-10.4"),
+        ("p", "&sect;11", "sn14.16:11.1-11.4"),
+    ],
+    quiz=[
+        {"q": "How many times does the three-time-frame formula appear for each half of this discourse?",
+         "opts": [
+             "Twice — once before its simile, once again after",
+             "Once only, exactly like SN 14.14 and SN 14.15",
+             "Three times, once per time frame stated separately",
+             "It doesn't appear at all in this discourse"],
+         "correct": 0,
+         "expl": "Bracketing each simile on both sides, a new structural variation."},
+        {"q": "What five substances illustrate inferior convergence?",
+         "opts": [
+             "Dung, urine, spit, pus, and blood",
+             "Milk, oil, ghee, honey, and molasses",
+             "Water, fire, earth, air, and space",
+             "No specific substances are named"],
+         "correct": 0,
+         "expl": "A deliberately visceral simile, each joining only with its own kind."},
+        {"q": "What five substances illustrate good convergence?",
+         "opts": [
+             "Milk, oil, ghee, honey, and molasses",
+             "Dung, urine, spit, pus, and blood, repeated unchanged",
+             "Gold, silver, gems, pearls, and coral",
+             "No specific substances are named"],
+         "correct": 0,
+         "expl": "The positive mirror of the earlier visceral simile."},
+        {"q": "What does this discourse's title, Sagāthāsutta, share its name with?",
+         "opts": [
+             "Sagāthāvagga, the entire first book of the Saṃyutta Nikāya",
+             "Nānattavagga, the first vagga of this saṃyutta",
+             "Another discourse elsewhere in Dutiyavagga",
+             "No other title in the canon shares this name"],
+         "correct": 0,
+         "expl": "A small structural echo, though this discourse is mostly prose."},
+        {"q": "How does this discourse end, unusually for this saṃyutta?",
+         "opts": [
+             "In three verses of applied ethical advice",
+             "With a question left unanswered",
+             "With a simple numbering tag and nothing more",
+             "With another prose restatement of the convergence formula"],
+         "correct": 0,
+         "expl": "A genuine verse close, rare this far into Dhātusaṃyutta."},
+        {"q": "What image do the closing verses use to warn against relying on a lazy companion?",
+         "opts": [
+             "Clambering onto a small log in the middle of a great ocean, only to sink",
+             "A tree cut down at the root",
+             "A burning torch dropped in dry grass",
+             "A bird flying against the wind"],
+         "correct": 0,
+         "expl": "A vivid drowning image, illustrating how the wrong company can pull someone down."},
+        {"q": "What do the closing verses recommend instead of a lazy companion?",
+         "opts": [
+             "The company of the secluded, determined, and always energetic",
+             "Complete solitude, avoiding all companionship",
+             "The company of the wealthy and well-connected",
+             "No specific recommendation is given"],
+         "correct": 0,
+         "expl": "Pavivittehi ariyehi, secluded noble ones, recommended by name."},
+        {"q": "What does the opening line of the closing verses claim about socializing?",
+         "opts": [
+             "That it creates a snarl, and being aloof cuts through it",
+             "That it always leads to enlightenment",
+             "That it has no effect on a person's practice",
+             "That it should be pursued without limit"],
+         "correct": 0,
+         "expl": "Saṁsaggā vanatho jāto, the verses' opening claim."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "Back to Sāvatthī, after SN 14.15's Rājagaha setting."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The sixth discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("A formula stated twice, not once", [
+            "before the simile, and after &mdash;",
+            "bracketing the image on both sides",
+        ]),
+        ("Visceral on one side, fine on the other", [
+            "dung, urine, blood &mdash; then milk, ghee, honey &mdash;",
+            "the same structure, opposite substances",
+        ]),
+        ("A title borrowed from the very first book", [
+            "sagāthā, &ldquo;with verses&rdquo; &mdash;",
+            "Sagāthāvagga's name, echoed once more",
+        ]),
+        ("Description gives way to instruction", [
+            "a small log, a great ocean, sinking &mdash;",
+            "the point turned directly into advice",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.16/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.15.html">SN 14.15 &middot; Walking Together</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-14.17.html">SN 14.17 &middot; Faithless</a> '
+        "&mdash; the next discourse, applying this same convergence "
+        "pattern to a specific quality, faithlessness."],
+)
+# --------------------------------------------------------------------------- #
+# SN 14.17 — Assaddhasaṁsandanasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 17, "Assaddhasaṁsandana", "Faithless",
+    meta_title="SN 14.17 — Faithless | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Assaddhasaṁsandanasutta — the convergence formula "
+        "applied to a full septet of qualities, seven flaws "
+        "clustering with their own kind, mirrored by their seven "
+        "positive counterparts. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The three-time-frame convergence formula, applied "
+                 "first to seven flaws, then to their seven "
+                 "opposites"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "introduces a seven-item list this vagga's "
+                       "remaining discourses build on directly"),
+    ],
+    why=(
+        "Where SN 14.14 and 14.16 sorted beings into just two "
+        "camps, this discourse expands the same convergence formula "
+        "into a full septet: the faithless, the unconscientious, the "
+        "imprudent, the unlearned, the lazy, the unmindful, and the "
+        "witless each converge with their own kind, followed "
+        "immediately by their seven positive mirrors &mdash; the "
+        "faithful, the conscientious, the prudent, the learned, the "
+        "energetic, the mindful, and the wise. This same seven-item "
+        "pairing recurs elsewhere in the canon as a standard list of "
+        "flaws and virtues; here it becomes the foundation for a run "
+        "of five discourses (SN 14.18&ndash;22) that each work "
+        "systematic variations on it."),
+    guide=[
+        ("From a pair to a full septet", [
+            "SN 14.14 and 14.16 worked with two categories, inferior "
+            "and good; this discourse replaces that binary with "
+            "seven named qualities on each side, giving the "
+            "convergence teaching far more resolution."]),
+        ("Seven flaws in a fixed order", [
+            "Faithless, unconscientious, imprudent, unlearned, lazy, "
+            "unmindful, witless &mdash; the order given here becomes "
+            "the reference sequence the next several discourses "
+            "reuse and recombine."]),
+        ("A list recognizable from elsewhere in the canon", [
+            "This same seven-item pairing of flaws and virtues "
+            "appears as a standard list in other parts of the early "
+            "texts; this reading guide notes the resemblance without "
+            "asserting a specific cross-reference this site doesn't "
+            "yet confirm."]),
+        ("Full spelling, then compressed repetition", [
+            "The present-tense list is given in full for both "
+            "flaws and virtues; the past- and future-tense "
+            "restatements that follow are heavily elided, trusting "
+            "the reader to carry the full list forward from what's "
+            "already been given."]),
+        ("A foundation, not a conclusion", [
+            "Unlike SN 14.14's formula, which stood on its own, this "
+            "discourse's septet is explicitly built to be "
+            "recombined &mdash; the very next discourse takes these "
+            "same seven qualities and reorganizes them into fixed "
+            "three-item chains."]),
+    ],
+    terms=[
+        ("assaddhā … duppaññā",
+         "&ldquo;the faithless … the witless&rdquo; &mdash; the "
+         "full seven-item list of flaws this discourse establishes, "
+         "in the fixed order later discourses reuse."),
+        ("saddhā … paññavanto",
+         "&ldquo;the faithful … the wise&rdquo; &mdash; the seven "
+         "positive counterparts, mirroring the flaws item for "
+         "item."),
+        ("ahirika",
+         "&ldquo;unconscientious,&rdquo; literally &ldquo;without "
+         "shame&rdquo; &mdash; the second flaw in the list, lacking "
+         "an inner sense of moral restraint."),
+        ("anottappa",
+         "&ldquo;imprudent,&rdquo; literally &ldquo;without "
+         "apprehension&rdquo; &mdash; the third flaw, lacking a "
+         "healthy fear of consequences."),
+        ("muṭṭhassati",
+         "&ldquo;unmindful,&rdquo; literally &ldquo;of confused "
+         "mindfulness&rdquo; &mdash; the sixth flaw, immediately "
+         "before witlessness closes the list."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the past- and future-tense sections' repeated clauses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.17:1.1-1.9"),
+        ("p", "&sect;2", "sn14.17:2.1-2.8"),
+        ("p", "&sect;3", "sn14.17:3.1-3.8"),
+        ("p", "&sect;4", "sn14.17:4.1-4.8"),
+        ("p", "&sect;5", "sn14.17:5.1-5.13"),
+    ],
+    quiz=[
+        {"q": "How many named qualities does this discourse sort beings into, on each side?",
+         "opts": [
+             "Seven",
+             "Two, exactly matching SN 14.14",
+             "Three",
+             "Five"],
+         "correct": 0,
+         "expl": "A full septet, replacing the earlier binary of inferior and good."},
+        {"q": "What are the seven flaws, in the order this discourse gives them?",
+         "opts": [
+             "Faithless, unconscientious, imprudent, unlearned, lazy, unmindful, witless",
+             "Faithless, wise, learned, energetic, mindful, prudent, conscientious",
+             "Only three flaws are named: faithless, lazy, and witless",
+             "The discourse gives no fixed order"],
+         "correct": 0,
+         "expl": "The reference sequence later discourses in this vagga reuse and recombine."},
+        {"q": "What role does this discourse's septet play for the discourses that follow it?",
+         "opts": [
+             "A foundation the next several discourses recombine into fixed three-item chains",
+             "It has no bearing on any later discourse",
+             "It is immediately contradicted by SN 14.18",
+             "It is repeated verbatim with no variation in every later discourse"],
+         "correct": 0,
+         "expl": "SN 14.18 onward systematically reorganizes these same seven qualities."},
+        {"q": "What happens to the full list in this discourse's past- and future-tense sections?",
+         "opts": [
+             "It is heavily elided, trusting the reader to carry the present-tense list forward",
+             "It is repeated in full a second and third time",
+             "It is entirely replaced with a different, unrelated list",
+             "The past and future tenses are omitted from this discourse entirely"],
+         "correct": 0,
+         "expl": "Standard economy for this saṃyutta, spelling out the base list only once."},
+        {"q": "What does ahirika mean, and where does it fall in the list?",
+         "opts": [
+             "\"Unconscientious,\" literally \"without shame\" — the second flaw",
+             "\"Witless\" — the final flaw in the list",
+             "\"Lazy\" — the fifth flaw in the list",
+             "A term not found anywhere in this discourse"],
+         "correct": 0,
+         "expl": "Lacking an inner sense of moral restraint, immediately after faithlessness."},
+        {"q": "What quality closes the negative list, and what closes the positive list?",
+         "opts": [
+             "Witlessness closes the negative list; wisdom closes the positive list",
+             "Faithlessness closes both lists",
+             "Laziness closes the negative list; energy closes the positive list",
+             "Neither list has a fixed final item"],
+         "correct": 0,
+         "expl": "Duppaññā and paññavanto, the fixed final items in each septet."},
+        {"q": "Does this discourse assert a specific match to a list found elsewhere in the canon?",
+         "opts": [
+             "No — it notes the resemblance to a standard list elsewhere without asserting a specific cross-reference",
+             "Yes, it names the exact matching discourse from another collection",
+             "The discourse claims this list appears nowhere else",
+             "This question doesn't apply to this discourse"],
+         "correct": 0,
+         "expl": "A cautious, honest note rather than an unverified specific claim."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Sattamaṁ, \"the seventh\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The seventh discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("From two camps to seven", [
+            "faithless, lazy, witless, and more &mdash;",
+            "a whole septet replacing one binary",
+        ]),
+        ("A fixed order worth remembering", [
+            "faithless first, witless last &mdash;",
+            "the sequence the next discourses will reuse",
+        ]),
+        ("A list with echoes elsewhere", [
+            "not unique to this discourse alone &mdash;",
+            "a resemblance noted, not overclaimed",
+        ]),
+        ("Given once in full, then trusted forward", [
+            "spelled out only in the present tense &mdash;",
+            "past and future lean on what's already said",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.17/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.16.html">SN 14.16 &middot; With Verses</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-14.18.html">SN 14.18 &middot; Beginning With the Faithless</a> '
+        "&mdash; the next discourse, reorganizing this same septet "
+        "into fixed three-item chains.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.18 — Assaddhamūlakasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 18, "Assaddhamūlaka", "Beginning With the Faithless",
+    meta_title="SN 14.18 — Beginning With the Faithless | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Assaddhamūlakasutta — SN 14.17's septet reorganized "
+        "into five three-item chains, each fixed at faithless and "
+        "witless with one middle quality cycling through, closing "
+        "with an explicit instruction to the reciter. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "Five three-item chains, each bookended by the "
+                 "same fixed pair with one middle quality varying"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; the most combinatorially dense "
+                       "discourse in this vagga, worth reading "
+                       "against SN 14.17 side by side"),
+    ],
+    why=(
+        "This discourse takes SN 14.17's seven-item septet and "
+        "recombines it into a tighter structure: five separate "
+        "three-item chains, each one fixed at both ends &mdash; "
+        "faithless first, witless last &mdash; with one of the five "
+        "remaining qualities filling the middle slot in turn. The "
+        "first chain, spelled out in full, pairs faithless with "
+        "unconscientious and witless; the following four swap in "
+        "imprudent, unlearned, lazy, and unmindful respectively, "
+        "each mirrored by the matching positive chain. After giving "
+        "the second chain in full, the source pauses to instruct "
+        "the reciter directly &mdash; &ldquo;the following should be "
+        "told in full like the first section&rdquo; &mdash; before "
+        "compressing the remaining three chains into brief, elided "
+        "form."),
+    guide=[
+        ("Seven qualities, five three-item chains", [
+            "Rather than repeating the whole septet each time, this "
+            "discourse fixes faithless and witless at both ends and "
+            "lets only the middle position vary across the five "
+            "remaining qualities, generating five distinct chains "
+            "from one base list."]),
+        ("Two chains given in full, three compressed", [
+            "The first chain (faithless, unconscientious, witless) "
+            "and the second (faithless, imprudent, witless) are both "
+            "spelled out completely; the third, fourth, and fifth "
+            "are each given in heavily elided form, trusting the "
+            "pattern already established."]),
+        ("An instruction to the reciter, translated and quoted", [
+            "Between the second and third chains, the source inserts "
+            "an explicit editorial note &mdash; &ldquo;the following "
+            "should be told in full like the first section&rdquo; "
+            "&mdash; a rare case of a recitation instruction "
+            "surviving translation rather than being left as a bare "
+            "&hellip;pe&hellip; elision marker."]),
+        ("Faithless and witless as fixed bookends", [
+            "Across all five chains, only faithless (assaddhā) opens "
+            "and only witless (duppaññā) closes; the discourse never "
+            "varies these two positions, giving every chain the "
+            "same overall shape despite the shifting middle term."]),
+        ("A combinatorial exercise, not new content", [
+            "Every quality named in this discourse already appeared "
+            "in SN 14.17; nothing new is introduced here except the "
+            "specific way of recombining what came before into "
+            "smaller, fixed-end units."]),
+    ],
+    terms=[
+        ("assaddhamūlaka",
+         "&ldquo;rooted in,&rdquo; or &ldquo;beginning with, the "
+         "faithless&rdquo; &mdash; this discourse's title, naming "
+         "its method of fixing faithless as every chain's starting "
+         "point."),
+        ("assaddhā … ahirikā … duppaññā",
+         "&ldquo;faithless … unconscientious … witless&rdquo; "
+         "&mdash; the first, fully spelled chain, establishing the "
+         "fixed-ends-varying-middle pattern."),
+        ("paṭhamavāro viya vitthāretabbo",
+         "&ldquo;the following should be told in full like the "
+         "first section&rdquo; &mdash; a rare, explicitly translated "
+         "instruction to the reciter, embedded directly in the "
+         "source."),
+        ("saddhā … hirimanā … paññavanto",
+         "&ldquo;faithful … conscientious … wise&rdquo; &mdash; the "
+         "positive mirror of the first chain, following the same "
+         "fixed-ends structure."),
+        ("kusītā, muṭṭhassatino",
+         "&ldquo;lazy, unmindful&rdquo; &mdash; two of the middle "
+         "terms cycled through in this discourse's fourth and fifth "
+         "chains."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the third, fourth, and fifth chains' repeated clauses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.18:1.1-1.10"),
+        ("p", "&sect;2", "sn14.18:2.1-2.6"),
+        ("p", "&sect;3", "sn14.18:3.1-3.8"),
+        ("p", "&sect;4", "sn14.18:4.1-4.5"),
+        ("p", "&sect;5", "sn14.18:5.1-5.6"),
+        ("p", "&sect;6", "sn14.18:6.1-6.6"),
+    ],
+    quiz=[
+        {"q": "What structure does this discourse build from SN 14.17's seven-item septet?",
+         "opts": [
+             "Five three-item chains, each fixed at faithless and witless with one middle term varying",
+             "A single unbroken list identical to SN 14.17",
+             "Two chains only, ignoring the remaining five qualities",
+             "A structure with no relationship to SN 14.17"],
+         "correct": 0,
+         "expl": "Fixed ends, one of five remaining qualities cycling through the middle."},
+        {"q": "What are the fixed first and last terms in every chain this discourse builds?",
+         "opts": [
+             "Faithless first, witless last",
+             "Wise first, faithless last",
+             "The fixed terms change from chain to chain",
+             "No terms are fixed; every position varies"],
+         "correct": 0,
+         "expl": "Assaddhā and duppaññā, unchanged across all five chains."},
+        {"q": "How many of the five chains are given in fully spelled-out form, rather than elided?",
+         "opts": [
+             "Two — the first and second",
+             "All five, spelled out completely",
+             "None; every chain is elided",
+             "Only the fifth chain is given in full"],
+         "correct": 0,
+         "expl": "The first two establish the pattern; the remaining three compress it."},
+        {"q": "What unusual feature appears between the second and third chains?",
+         "opts": [
+             "An explicit, translated instruction to the reciter: \"the following should be told in full like the first section\"",
+             "A completely new, unrelated topic",
+             "A question from a named mendicant",
+             "Nothing unusual; the text proceeds without interruption"],
+         "correct": 0,
+         "expl": "A rare recitation instruction surviving translation, rather than a bare elision marker."},
+        {"q": "Is any quality introduced in this discourse that didn't already appear in SN 14.17?",
+         "opts": [
+             "No — every quality named here already appeared in the earlier discourse's septet",
+             "Yes, several entirely new qualities are introduced",
+             "Only the positive qualities are new; the flaws are all repeated",
+             "Only the negative qualities are new"],
+         "correct": 0,
+         "expl": "A combinatorial exercise recombining, not expanding, the existing list."},
+        {"q": "What middle term does the first fully-spelled chain use?",
+         "opts": [
+             "Ahirikā, unconscientious",
+             "Kusītā, lazy",
+             "Muṭṭhassatino, unmindful",
+             "Appassutā, unlearned"],
+         "correct": 0,
+         "expl": "The first chain: faithless, unconscientious, witless."},
+        {"q": "What middle term does the second fully-spelled chain use?",
+         "opts": [
+             "Anottappino, imprudent",
+             "Ahirikā, unconscientious, repeating the first chain",
+             "Appassutā, unlearned",
+             "Bahussutā, learned"],
+         "correct": 0,
+         "expl": "The second chain: faithless, imprudent, witless."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly, with an embedded recitation note."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "Navamaṁ, \"the ninth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eighth discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("Seven qualities, refit into five chains", [
+            "faithless first, witless last, always &mdash;",
+            "only the middle position shifts",
+        ]),
+        ("Two chains in full, three compressed", [
+            "the pattern shown twice, then trusted &mdash;",
+            "elision doing the rest of the work",
+        ]),
+        ("A note meant for the reciter, kept intact", [
+            "\"tell it like the first section\" &mdash;",
+            "an instruction, translated rather than erased",
+        ]),
+        ("Nothing new, only rearranged", [
+            "every quality already named in SN 14.17 &mdash;",
+            "this discourse's whole content is recombination",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.18/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.17.html">SN 14.17 &middot; Faithless</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the full septet this discourse recombines.",
+        '<a href="sn-14.19.html">SN 14.19 &middot; Beginning With the Shameless</a> '
+        "&mdash; the next discourse, continuing this same "
+        "combinatorial method with a different fixed starting "
+        "quality.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 14.19 — Ahirikamūlakasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 19, "Ahirikamūlaka", "Beginning With the Shameless",
+    meta_title="SN 14.19 — Beginning With the Shameless | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ahirikamūlakasutta — the combinatorial descent "
+        "continues, now four chains fixed at unconscientious and "
+        "witless, skipping the faithless pairing SN 14.18 already "
+        "covered. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "Four compact three-item chains, each fixed at "
+                 "unconscientious and witless with one middle "
+                 "quality cycling through"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; best read as a direct continuation "
+                       "of SN 14.18's combinatorial pattern"),
+    ],
+    why=(
+        "SN 14.18 fixed faithless and witless as bookends and cycled "
+        "five different middle qualities between them. This "
+        "discourse moves the fixed opening term one step along the "
+        "septet, to unconscientious, and cycles through only four "
+        "middles &mdash; imprudent, unlearned, lazy, and unmindful "
+        "&mdash; because the fifth possible middle, faithless, "
+        "already appeared paired with unconscientious in SN 14.18's "
+        "very first chain. Nothing here needs to repeat that "
+        "specific combination, so the count shrinks from five "
+        "chains to four, continuing what turns out to be a "
+        "systematic, exhaustive count through every possible "
+        "pairing of this septet's middle terms."),
+    guide=[
+        ("One step along the septet, one fewer chain", [
+            "Where SN 14.18 fixed faithless first, this discourse "
+            "fixes unconscientious first &mdash; the second item in "
+            "SN 14.17's original order &mdash; and needs one fewer "
+            "middle term because the faithless-unconscientious pair "
+            "is already accounted for."]),
+        ("Four chains, each compressed into very little space", [
+            "Unlike SN 14.18's first two chains, spelled out at "
+            "length, every chain in this discourse fits into a "
+            "single dense segment, the negative and positive halves "
+            "run together with minimal elision markers."]),
+        ("A pattern becoming visible across discourses", [
+            "Read alongside SN 14.18's five chains, this discourse's "
+            "four suggest a shrinking count discourse by discourse "
+            "&mdash; a pattern this reading guide will confirm "
+            "directly once SN 14.22's closing verse is reached."]),
+        ("The same fixed final term throughout", [
+            "Witless still closes every chain here, exactly as in "
+            "SN 14.18; only the opening term and the available "
+            "middles have shifted."]),
+        ("No new vocabulary, only new combinations", [
+            "As with SN 14.18, every quality named in this discourse "
+            "already appeared in SN 14.17's original septet; the "
+            "content here is entirely a matter of which pairs get "
+            "combined."]),
+    ],
+    terms=[
+        ("ahirikamūlaka",
+         "&ldquo;rooted in,&rdquo; or &ldquo;beginning with, the "
+         "shameless&rdquo; &mdash; this discourse's title, naming "
+         "unconscientious as every chain's fixed starting point."),
+        ("ahirikā … anottappino … duppaññā",
+         "&ldquo;unconscientious … imprudent … witless&rdquo; "
+         "&mdash; the first of this discourse's four chains."),
+        ("hirimanā … ottappino … paññavanto",
+         "&ldquo;conscientious … prudent … wise&rdquo; &mdash; the "
+         "positive mirror of the first chain."),
+        ("appassutā, kusītā, muṭṭhassatino",
+         "&ldquo;unlearned, lazy, unmindful&rdquo; &mdash; the "
+         "remaining three middle terms cycled through this "
+         "discourse's second, third, and fourth chains."),
+        ("navamaṁ",
+         "&ldquo;the ninth&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own dense "
+        "elision within each chain. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.19:1.1-1.3"),
+        ("p", "&sect;2", "sn14.19:2.1-2.1"),
+        ("p", "&sect;3", "sn14.19:3.1-3.1"),
+        ("p", "&sect;4", "sn14.19:4.1-4.1"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse fix as every chain's opening, unlike SN 14.18?",
+         "opts": [
+             "Unconscientious (ahirikā), the septet's second item",
+             "Faithless (assaddhā), identical to SN 14.18",
+             "Witless (duppaññā), used as an opening term here",
+             "No fixed opening term is used"],
+         "correct": 0,
+         "expl": "One step along SN 14.17's original sequence from SN 14.18's faithless."},
+        {"q": "How many chains does this discourse build, compared to SN 14.18's five?",
+         "opts": [
+             "Four",
+             "Five, identical to SN 14.18",
+             "Six, one more than SN 14.18",
+             "Only one"],
+         "correct": 0,
+         "expl": "One fewer, since the faithless-unconscientious pairing was already covered."},
+        {"q": "Why doesn't this discourse include a chain pairing unconscientious with faithless?",
+         "opts": [
+             "That pairing already appeared as SN 14.18's first chain",
+             "Faithless is not part of the original septet",
+             "The discourse simply forgot to include it",
+             "Unconscientious cannot logically pair with faithless"],
+         "correct": 0,
+         "expl": "Avoiding repetition of a combination already given."},
+        {"q": "What term closes every chain in this discourse, matching SN 14.18?",
+         "opts": [
+             "Witless (duppaññā)",
+             "Faithless (assaddhā)",
+             "Wise (paññavanto), used to close the negative chains",
+             "Each chain closes with a different term"],
+         "correct": 0,
+         "expl": "The same fixed final term carried over from SN 14.18."},
+        {"q": "Is any new quality introduced in this discourse, beyond SN 14.17's original septet?",
+         "opts": [
+             "No — every term here already appeared in SN 14.17",
+             "Yes, several new qualities appear for the first time",
+             "Only the positive qualities are new",
+             "This discourse replaces the entire septet with new terms"],
+         "correct": 0,
+         "expl": "A recombination exercise, not an expansion of vocabulary."},
+        {"q": "What middle term does this discourse's first chain use?",
+         "opts": [
+             "Anottappino, imprudent",
+             "Appassutā, unlearned",
+             "Kusītā, lazy",
+             "Assaddhā, faithless"],
+         "correct": 0,
+         "expl": "Unconscientious, imprudent, witless — the first of four chains."},
+        {"q": "How compact is each chain's presentation compared to SN 14.18's first two chains?",
+         "opts": [
+             "Considerably more compressed, with each chain fitting a single dense segment",
+             "Identically spelled out at the same length",
+             "Even longer and more elaborated than SN 14.18",
+             "This discourse contains no chains at all"],
+         "correct": 0,
+         "expl": "Minimal elision markers packing negative and positive halves together."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Navamaṁ, \"the ninth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The ninth discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("One term along, one chain fewer", [
+            "unconscientious now opens, not faithless &mdash;",
+            "and one pairing is already spoken for",
+        ]),
+        ("Four chains, each folded tight", [
+            "negative and positive run together &mdash;",
+            "barely a marker between them",
+        ]),
+        ("A shrinking count, still unexplained", [
+            "five chains, then four &mdash;",
+            "the pattern not yet named outright",
+        ]),
+        ("The same closing term, carried forward", [
+            "witless ends every chain still &mdash;",
+            "only the opening and the middles move",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.19/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.18.html">SN 14.18 &middot; Beginning With the Faithless</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the first, five-chain stage of this descending pattern.",
+        '<a href="sn-14.20.html">SN 14.20 &middot; Beginning With Imprudence</a> '
+        "&mdash; the next discourse, continuing the descent to "
+        "three chains.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.20 — Anottappamūlakasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 20, "Anottappamūlaka", "Beginning With Imprudence",
+    meta_title="SN 14.20 — Beginning With Imprudence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anottappamūlakasutta — the descent continues to three "
+        "chains, fixed at imprudent and witless, each spelled out a "
+        "little more fully than the previous discourse. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "Three three-item chains, each fixed at imprudent "
+                 "and witless with one middle quality cycling "
+                 "through"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; the third stage of a combinatorial "
+                       "descent running through this vagga's final "
+                       "five discourses"),
+    ],
+    why=(
+        "The descent continues: this discourse fixes imprudent and "
+        "witless as bookends, the third fixed opening term in a row "
+        "after faithless (SN 14.18) and unconscientious (SN 14.19), "
+        "and cycles through only three remaining middles &mdash; "
+        "unlearned, lazy, and unmindful. Two possible pairings "
+        "(imprudent with faithless, imprudent with unconscientious) "
+        "are skipped because they already appeared, in reverse "
+        "position, in the two discourses before this one. Compared "
+        "to SN 14.19's tightly compressed single-segment chains, "
+        "this discourse's three chains are each given a little more "
+        "room, spread across several segments apiece rather than "
+        "compressed into one."),
+    guide=[
+        ("Three chains, one step further along", [
+            "Imprudent replaces unconscientious as the fixed "
+            "opening term, continuing the same one-step-at-a-time "
+            "progression through SN 14.17's original septet."]),
+        ("Two pairings skipped, not one", [
+            "By this point, two of imprudent's possible partners "
+            "&mdash; faithless and unconscientious &mdash; have "
+            "already appeared paired with it in the two preceding "
+            "discourses, leaving only three remaining middles for "
+            "this discourse to work through."]),
+        ("A slightly looser compression than SN 14.19", [
+            "Where SN 14.19 packed each entire chain into a single "
+            "segment, this discourse gives each chain several "
+            "segments &mdash; negative first term, negative middle, "
+            "witless, then the positive mirror &mdash; though still "
+            "far more compressed than SN 14.18's fully spelled-out "
+            "first chains."]),
+        ("The descent's pattern growing harder to miss", [
+            "Five chains, then four, now three &mdash; by this "
+            "point the shrinking count across consecutive discourses "
+            "is difficult to read as coincidence, though this "
+            "reading guide holds off naming its exact shape until "
+            "SN 14.22 confirms it directly."]),
+        ("Consistent bookends throughout", [
+            "As in every discourse since SN 14.18, witless still "
+            "closes every chain; only the opening term and the set "
+            "of available middles keep shrinking."]),
+    ],
+    terms=[
+        ("anottappamūlaka",
+         "&ldquo;rooted in,&rdquo; or &ldquo;beginning with, "
+         "imprudence&rdquo; &mdash; this discourse's title, naming "
+         "imprudent as every chain's fixed starting point."),
+        ("anottappino … appassutā … duppaññā",
+         "&ldquo;imprudent … unlearned … witless&rdquo; &mdash; the "
+         "first of this discourse's three chains."),
+        ("ottappino … bahussutā … paññavanto",
+         "&ldquo;prudent … learned … wise&rdquo; &mdash; the "
+         "positive mirror of the first chain."),
+        ("kusītā, muṭṭhassatino",
+         "&ldquo;lazy, unmindful&rdquo; &mdash; the two remaining "
+         "middle terms cycled through this discourse's second and "
+         "third chains."),
+        ("dasamaṁ",
+         "&ldquo;the tenth&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "within each chain. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.20:1.1-1.7"),
+        ("p", "&sect;2", "sn14.20:2.1-2.5"),
+        ("p", "&sect;3", "sn14.20:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse fix as every chain's opening?",
+         "opts": [
+             "Imprudent (anottappino)",
+             "Unconscientious (ahirikā), identical to SN 14.19",
+             "Faithless (assaddhā), identical to SN 14.18",
+             "No fixed opening term is used"],
+         "correct": 0,
+         "expl": "The third fixed opening term in this descending sequence."},
+        {"q": "How many chains does this discourse build?",
+         "opts": [
+             "Three",
+             "Four, identical to SN 14.19",
+             "Five, identical to SN 14.18",
+             "Six"],
+         "correct": 0,
+         "expl": "One fewer than SN 14.19's four, continuing the descent."},
+        {"q": "Why are only three middles available for this discourse's chains?",
+         "opts": [
+             "Two possible pairings with imprudent already appeared in the two preceding discourses",
+             "Only three qualities exist in the entire septet",
+             "The discourse arbitrarily limits itself without explanation",
+             "Imprudent cannot logically pair with more than three terms"],
+         "correct": 0,
+         "expl": "Faithless and unconscientious were already paired with imprudent earlier."},
+        {"q": "How does this discourse's compression compare to SN 14.19's?",
+         "opts": [
+             "Slightly looser — each chain spans several segments rather than one",
+             "Identical in every respect",
+             "Even more compressed, with the whole discourse in a single segment",
+             "This discourse contains no elision at all"],
+         "correct": 0,
+         "expl": "More room per chain than SN 14.19's tightly packed single-segment chains."},
+        {"q": "What has stayed constant across SN 14.18, 14.19, and this discourse?",
+         "opts": [
+             "Witless (duppaññā) closes every chain",
+             "The opening term has stayed the same throughout",
+             "The number of chains has stayed the same throughout",
+             "Nothing has remained constant across these discourses"],
+         "correct": 0,
+         "expl": "The one fixed element unchanged across this whole descending sequence."},
+        {"q": "What middle term does this discourse's first chain use?",
+         "opts": [
+             "Appassutā, unlearned",
+             "Kusītā, lazy",
+             "Muṭṭhassatino, unmindful",
+             "Ahirikā, unconscientious"],
+         "correct": 0,
+         "expl": "Imprudent, unlearned, witless — the first of three chains."},
+        {"q": "What pattern does this reading guide hold off naming precisely until later?",
+         "opts": [
+             "The exact combinatorial shape of the shrinking chain-count across SN 14.18-22",
+             "The meaning of the word \"dhātu\" itself",
+             "The identity of the speaker in these discourses",
+             "The setting where these discourses take place"],
+         "correct": 0,
+         "expl": "Confirmed directly once SN 14.22's closing verse is reached."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dasamaṁ, \"the tenth\"",
+             "Navamaṁ, \"the ninth\"",
+             "Ekādasamaṁ, \"the eleventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The tenth discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("A third opening term in a row", [
+            "faithless, then shameless, now imprudent &mdash;",
+            "one step further along the septet",
+        ]),
+        ("Fewer middles left to pair", [
+            "two combinations already spoken for &mdash;",
+            "only three chains remain to be built",
+        ]),
+        ("A little more room than the last discourse", [
+            "each chain spread across several segments &mdash;",
+            "still compressed, but less tightly folded",
+        ]),
+        ("A pattern still withheld, not yet confirmed", [
+            "five, four, three &mdash; hard to miss now",
+            "its exact shape waits two discourses more",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.20/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.19.html">SN 14.19 &middot; Beginning With the Shameless</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-14.21.html">SN 14.21 &middot; Beginning With the Unlearned</a> '
+        "&mdash; the next discourse, continuing the descent to two "
+        "chains.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.21 — Appassutamūlakasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 21, "Appassutamūlaka", "Beginning With the Unlearned",
+    meta_title="SN 14.21 — Beginning With the Unlearned | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Appassutamūlakasutta — the descent narrows to two "
+        "chains, fixed at unlearned and witless, one step from this "
+        "combinatorial sequence's final, single-chain discourse. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "Two three-item chains, each fixed at unlearned "
+                 "and witless with one middle quality cycling "
+                 "through"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; the fourth stage of this vagga's "
+                       "combinatorial descent, one discourse from "
+                       "its conclusion"),
+    ],
+    why=(
+        "The descent narrows further: this discourse fixes unlearned "
+        "and witless as bookends, and cycles through only two "
+        "remaining middles &mdash; lazy and unmindful. Three "
+        "possible pairings with unlearned (with faithless, with "
+        "unconscientious, with imprudent) have already appeared in "
+        "the three discourses before this one, leaving just two "
+        "genuinely new combinations left to state. With this "
+        "discourse's two chains given, the entire septet's pairwise "
+        "combinations are nearly exhausted; only one pairing "
+        "remains for the vagga's closing discourse to supply."),
+    guide=[
+        ("Two chains, the descent's fourth step", [
+            "Unlearned replaces imprudent as the fixed opening "
+            "term, continuing the same systematic progression "
+            "through SN 14.17's septet, now down to just two "
+            "chains."]),
+        ("Three pairings already spoken for", [
+            "By this point, unlearned's combinations with faithless, "
+            "unconscientious, and imprudent have all already "
+            "appeared in the three preceding discourses, leaving "
+            "only lazy and unmindful as genuinely new middles."]),
+        ("Nearly the full set of pairs, almost exhausted", [
+            "Counting every chain given so far across SN "
+            "14.18&ndash;21 &mdash; five, four, three, and now two "
+            "&mdash; this vagga has built fourteen of the fifteen "
+            "total pairwise combinations available among the "
+            "septet's six non-witless qualities."]),
+        ("One combination left for the vagga to close on", [
+            "Only the pairing of lazy with unmindful hasn't yet "
+            "appeared; the vagga's final discourse exists "
+            "specifically to supply this one remaining chain."]),
+        ("The same fixed final term, unbroken since SN 14.18", [
+            "Witless has closed every chain across four consecutive "
+            "discourses now, the one element of this whole sequence "
+            "that has never varied."]),
+    ],
+    terms=[
+        ("appassutamūlaka",
+         "&ldquo;rooted in,&rdquo; or &ldquo;beginning with, the "
+         "unlearned&rdquo; &mdash; this discourse's title, naming "
+         "unlearned as every chain's fixed starting point."),
+        ("appassutā … kusītā … duppaññā",
+         "&ldquo;unlearned … lazy … witless&rdquo; &mdash; the "
+         "first of this discourse's two chains."),
+        ("bahussutā … āraddhavīriyā … paññavanto",
+         "&ldquo;learned … energetic … wise&rdquo; &mdash; the "
+         "positive mirror of the first chain."),
+        ("muṭṭhassatino",
+         "&ldquo;unmindful&rdquo; &mdash; the second and final "
+         "middle term this discourse cycles through."),
+        ("ekādasamaṁ",
+         "&ldquo;the eleventh&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "within each chain. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.21:1.1-1.7"),
+        ("p", "&sect;2", "sn14.21:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse fix as every chain's opening?",
+         "opts": [
+             "Unlearned (appassutā)",
+             "Imprudent (anottappino), identical to SN 14.20",
+             "Lazy (kusītā), used here as an opening term",
+             "No fixed opening term is used"],
+         "correct": 0,
+         "expl": "The fourth fixed opening term in this descending sequence."},
+        {"q": "How many chains does this discourse build?",
+         "opts": [
+             "Two",
+             "Three, identical to SN 14.20",
+             "One, identical to what SN 14.22 will give",
+             "Four"],
+         "correct": 0,
+         "expl": "One fewer than SN 14.20's three, continuing the descent."},
+        {"q": "How many of the septet's total pairwise combinations have been given by the end of this discourse?",
+         "opts": [
+             "Fourteen of fifteen total combinations",
+             "All fifteen combinations, completing the set",
+             "Only five, matching SN 14.18 alone",
+             "This discourse doesn't complete any combinations"],
+         "correct": 0,
+         "expl": "Five, four, three, and now two chains across four discourses, with one pairing still to come."},
+        {"q": "Which single pairing remains for the vagga's final discourse to supply?",
+         "opts": [
+             "Lazy paired with unmindful",
+             "Faithless paired with witless",
+             "Unlearned paired with imprudent",
+             "No pairing remains; this discourse completes the set"],
+         "correct": 0,
+         "expl": "The one combination not yet given by any discourse so far."},
+        {"q": "What has remained unbroken across all four discourses from SN 14.18 through this one?",
+         "opts": [
+             "Witless (duppaññā) closing every single chain",
+             "The number of chains staying constant",
+             "The opening term staying the same throughout",
+             "Nothing has stayed consistent across these discourses"],
+         "correct": 0,
+         "expl": "The one fixed element that has never varied across this whole sequence."},
+        {"q": "What middle term does this discourse's first chain use?",
+         "opts": [
+             "Kusītā, lazy",
+             "Muṭṭhassatino, unmindful",
+             "Anottappino, imprudent",
+             "Ahirikā, unconscientious"],
+         "correct": 0,
+         "expl": "Unlearned, lazy, witless — the first of two chains."},
+        {"q": "Why does this discourse have only two chains rather than three?",
+         "opts": [
+             "Three of unlearned's possible pairings already appeared in the three preceding discourses",
+             "The septet itself only contains two qualities",
+             "The discourse arbitrarily stops after two without explanation",
+             "Unlearned cannot pair with more than two other terms"],
+         "correct": 0,
+         "expl": "Faithless, unconscientious, and imprudent were already paired with unlearned earlier."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Ekādasamaṁ, \"the eleventh\"",
+             "Dasamaṁ, \"the tenth\"",
+             "Dvādasamaṁ, \"the twelfth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eleventh discourse of Dutiyavagga, one before its close."},
+    ],
+    marginalia=[
+        ("Down to two, from an original five", [
+            "unlearned opens now, not imprudent &mdash;",
+            "the fourth term in a shrinking sequence",
+        ]),
+        ("Fourteen combinations given, one left", [
+            "the septet's pairs nearly exhausted &mdash;",
+            "only one still unspoken",
+        ]),
+        ("A single gap, saved for the close", [
+            "lazy and unmindful, still unpaired &mdash;",
+            "the vagga's very last discourse waits for it",
+        ]),
+        ("One element, unbroken across four discourses", [
+            "witless, closing every chain since SN 14.18 &mdash;",
+            "the one constant in a shifting sequence",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.21/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.20.html">SN 14.20 &middot; Beginning With Imprudence</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-14.22.html">SN 14.22 &middot; Beginning With the Lazy</a> '
+        "&mdash; the next discourse, closing both this descending "
+        "sequence and Dutiyavagga itself.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.22 — Kusītamūlakasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 22, "Kusītamūlaka", "Beginning With the Lazy",
+    meta_title="SN 14.22 — Beginning With the Lazy | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kusītamūlakasutta — closing Dutiyavagga with the "
+        "descending sequence's final, single chain, confirmed by "
+        "the vagga's own closing verse to total fifteen combinations "
+        "across five discourses. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A single three-item chain, closing both this "
+                 "descending sequence and the vagga itself, followed "
+                 "by a reciter's instruction and the vagga's closing "
+                 "verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "short in itself, but closes a pattern spanning "
+                       "the previous four discourses"),
+    ],
+    why=(
+        "This discourse supplies the one pairing left unstated after "
+        "SN 14.18&ndash;21: lazy paired with unmindful, both closing "
+        "on witless as always. With this single chain given, "
+        "Dutiyavagga's descending sequence is complete, and the "
+        "vagga's own closing verse confirms the shape this reading "
+        "guide has been tracing discourse by discourse: five chains "
+        "rooted in the faithless, four rooted in the shameless, "
+        "three rooted in imprudence, two rooted in the unlearned, "
+        "and one rooted in the lazy &mdash; fifteen chains in total, "
+        "exhausting every pairwise combination available among the "
+        "septet's six non-witless qualities. A second reciter's "
+        "instruction closes the discourse itself, before the vagga's "
+        "own summary verse takes over."),
+    guide=[
+        ("The final, single chain", [
+            "Lazy and unmindful, the one combination not yet given, "
+            "closes the negative side; energetic and mindful close "
+            "the positive side &mdash; both still bookended by "
+            "witless and wise, exactly as in every discourse since "
+            "SN 14.18."]),
+        ("A second reciter's instruction", [
+            "After the chain itself, the source adds "
+            "&ldquo;tell all in full for the past, future, and "
+            "present&rdquo; &mdash; confirming that SN 14.19&ndash;22's "
+            "compressed, present-tense-only chains were always meant "
+            "to be mentally expanded across all three time frames, "
+            "as SN 14.14 and 14.17 modeled explicitly."]),
+        ("The vagga's closing verse confirms the count directly", [
+            "Untranslated in the source but readable in Pali, this "
+            "vagga's uddāna literally states the descending count "
+            "this reading guide has tracked: pañca "
+            "(&ldquo;five&rdquo;) for assaddhamūlaka, cattāro "
+            "(&ldquo;four&rdquo;) for ahirikamūlaka, tīṇi "
+            "(&ldquo;three&rdquo;) for anottappamūlaka, duve "
+            "(&ldquo;two&rdquo;) for appassutena, ekakaṁ "
+            "(&ldquo;one&rdquo;) for kusītaṁ &mdash; the source's own "
+            "arithmetic, not an inference this reading guide is "
+            "making on its own."]),
+        ("Twenty-two discourses, confirmed by the same verse", [
+            "The closing verse also states bāvīsati vuttā suttā, "
+            "&ldquo;twenty-two discourses spoken,&rdquo; matching "
+            "this vagga's SN 14.11&ndash;22 span exactly and closing "
+            "with dutiyo vaggo pavuccati, &ldquo;the second chapter "
+            "is told.&rdquo;"]),
+        ("A vagga that moved from narrative to pure combinatorics", [
+            "Looking back across Dutiyavagga as a whole, it opened "
+            "with SN 14.11's technical meditation-attainment list "
+            "and SN 14.15's vivid, named roll call, then closed with "
+            "five discourses of increasingly abstract, purely "
+            "combinatorial recombination &mdash; a real shift in "
+            "register within a single vagga."]),
+    ],
+    terms=[
+        ("kusītamūlaka",
+         "&ldquo;rooted in,&rdquo; or &ldquo;beginning with, the "
+         "lazy&rdquo; &mdash; this discourse's title, naming lazy as "
+         "the fixed opening term of the sequence's final chain."),
+        ("kusītā … muṭṭhassatino … duppaññā",
+         "&ldquo;lazy … unmindful … witless&rdquo; &mdash; this "
+         "vagga's fifteenth and final chain, completing the "
+         "combinatorial set."),
+        ("sabbattha atītānāgatapaccuppannaṁ kātabbaṁ",
+         "&ldquo;tell all in full for the past, future, and "
+         "present&rdquo; &mdash; the reciter's instruction closing "
+         "this discourse, confirming the three-time-frame expansion "
+         "applies throughout SN 14.19&ndash;22."),
+        ("assaddhamūlakā pañca … kusītaṁ ekakaṁ vuttaṁ",
+         "&ldquo;five rooted in the faithless … the lazy one spoken "
+         "as one&rdquo; &mdash; the vagga's own closing verse, "
+         "stating the 5-4-3-2-1 count in the source's own words."),
+        ("bāvīsati vuttā suttā",
+         "&ldquo;twenty-two discourses spoken&rdquo; &mdash; the "
+         "closing verse's confirmation of this vagga's total span, "
+         "SN 14.11 through 14.22."),
+    ],
+    text_intro=(
+        "The discourse in full, including its closing reciter's "
+        "instruction. The vagga's closing verse of discourse counts "
+        "and titles is not translated in the source and is not "
+        "quoted here. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.22:1.1-1.7"),
+        ("p", "&sect;2", "sn14.22:1.9-1.9"),
+    ],
+    quiz=[
+        {"q": "What is the one remaining pairing this discourse's chain supplies?",
+         "opts": [
+             "Lazy paired with unmindful",
+             "Faithless paired with unconscientious",
+             "Unlearned paired with imprudent",
+             "Witless paired with wise"],
+         "correct": 0,
+         "expl": "The last combination not given across SN 14.18-21."},
+        {"q": "What does the vagga's own closing verse state directly, confirmed in Pali?",
+         "opts": [
+             "The exact descending count — five, four, three, two, one chains across the five discourses",
+             "A completely different count than what the discourses actually show",
+             "No count is given in the closing verse",
+             "Only the total number of discourses, without any breakdown"],
+         "correct": 0,
+         "expl": "Pañca, cattāro, tīṇi, duve, ekakaṁ — the source's own arithmetic."},
+        {"q": "What reciter's instruction closes this discourse?",
+         "opts": [
+             "\"Tell all in full for the past, future, and present\"",
+             "\"This discourse should be recited backward\"",
+             "\"Omit all further discourses in this saṃyutta\"",
+             "No reciter's instruction appears in this discourse"],
+         "correct": 0,
+         "expl": "Confirming SN 14.19-22's compressed chains were meant to be expanded across all three time frames."},
+        {"q": "How many total discourses does the vagga's closing verse confirm for Dutiyavagga?",
+         "opts": [
+             "Twenty-two",
+             "Ten",
+             "Fifteen, matching only the chain count",
+             "The verse gives no total count"],
+         "correct": 0,
+         "expl": "Bāvīsati vuttā suttā, matching SN 14.11 through 14.22 exactly."},
+        {"q": "How many total pairwise combinations does the SN 14.18-22 sequence exhaust?",
+         "opts": [
+             "Fifteen, every combination among the septet's six non-witless qualities",
+             "Seven, matching the septet's total size",
+             "Twenty-two, matching the vagga's total discourse count",
+             "Only five, matching SN 14.18 alone"],
+         "correct": 0,
+         "expl": "Five plus four plus three plus two plus one, systematically covering every pair."},
+        {"q": "How does this discourse describe Dutiyavagga's overall shift in register?",
+         "opts": [
+             "From narrative and technical material toward pure, abstract combinatorics",
+             "The vagga maintains one unchanging register throughout",
+             "From verse back into prose exclusively",
+             "This discourse makes no observation about the vagga's overall shape"],
+         "correct": 0,
+         "expl": "SN 14.11's technical list and SN 14.15's named roll call giving way to SN 14.18-22's pure recombination."},
+        {"q": "Is the vagga's closing verse of discourse titles translated in the source?",
+         "opts": [
+             "No — it is untranslated, though readable in Pali and not quoted in the text section",
+             "Yes, and it is quoted in full",
+             "Only half of it is translated",
+             "No closing verse exists for this vagga"],
+         "correct": 0,
+         "expl": "Following the same convention used for untranslated closing material elsewhere in this collection."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dvādasamaṁ, \"the twelfth\"",
+             "Ekādasamaṁ, \"the eleventh\"",
+             "Terasamaṁ, \"the thirteenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The twelfth and closing discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("The last combination, finally given", [
+            "lazy paired with unmindful &mdash;",
+            "the fifteenth chain, and the last",
+        ]),
+        ("The source does its own arithmetic", [
+            "five, four, three, two, one, in Pali &mdash;",
+            "not an inference, but a stated count",
+        ]),
+        ("Twenty-two discourses, confirmed exactly", [
+            "the closing verse names its own total &mdash;",
+            "matching SN 14.11 through 14.22",
+        ]),
+        ("A vagga that changes shape as it goes", [
+            "meditation states, then named elders &mdash;",
+            "then pure, abstract recombination",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.22/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.21.html">SN 14.21 &middot; Beginning With the Unlearned</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-14.23.html">SN 14.23 &middot; Lacking Immersion</a> '
+        "&mdash; the next discourse, opening Kammapathavagga, this "
+        "saṃyutta's third vagga.",
+    ],
+)
