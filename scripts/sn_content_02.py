@@ -17630,3 +17630,2125 @@ page(
         "comparison structure in its very first form.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.1 — Dhātunānattasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 1, "Dhātunānatta", "Diversity of Elements",
+    meta_title="SN 14.1 — Diversity of Elements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dhātunānattasutta — opening Dhātusaṃyutta, the Buddha "
+        "defines the diversity of elements as eighteen elements in "
+        "six triads, one per sense door, the base the rest of this "
+        "vagga builds outward from. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A bare definition, not a dialogue — the Buddha "
+                 "poses his own question and answers it with a "
+                 "single enumerated list"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but assumes the six sense doors "
+                       "already familiar from elsewhere in the "
+                       "canon"),
+    ],
+    why=(
+        "Opening Dhātusaṃyutta &mdash; the saṃyutta named for dhātu, "
+        "element &mdash; this discourse doesn't narrate a scene or "
+        "answer a visitor's question. It offers a definition: the "
+        "diversity of elements is eighteen elements arranged as six "
+        "triads, one triad per sense door, each triad naming the "
+        "sense organ, the object it meets, and the consciousness "
+        "that arises when the two come together. No teaching is "
+        "drawn out of this list here; the list itself is the entire "
+        "content. It becomes the base every later discourse in this "
+        "vagga builds outward from &mdash; first toward contact, "
+        "then feeling, then, from a second list introduced partway "
+        "through, toward perception, thought, desire, and further "
+        "still."),
+    guide=[
+        ("A definition, not a teaching", [
+            "The Buddha asks his own question &mdash; what is the "
+            "diversity of elements? &mdash; and answers it directly, "
+            "with no story, no visitor, and no ethical conclusion "
+            "drawn from the list."]),
+        ("Eighteen elements, never counted aloud", [
+            "Six sense doors, each contributing three elements "
+            "&mdash; organ, object, and the consciousness born from "
+            "their meeting &mdash; total eighteen, though the "
+            "discourse itself never states that number; it simply "
+            "lists all six triads in a row."]),
+        ("Two elements named &ldquo;mind&rdquo;", [
+            "The sixth triad distinguishes manodhātu, the mind "
+            "element itself, from manoviññāṇadhātu, the "
+            "consciousness that arises when mind meets an idea "
+            "&mdash; a distinction worth holding onto, since later "
+            "Abhidhamma literature builds substantially on it."]),
+        ("A tag, not a benediction", [
+            "The discourse closes with a single word, "
+            "paṭhamaṁ, &ldquo;the first&rdquo; &mdash; a cataloguing "
+            "tag, not the closing refrain that marked every "
+            "discourse of the saṃyutta just finished."]),
+        ("The base the whole vagga extends", [
+            "As later discourses in this vagga will show, this "
+            "eighteen-element list is the starting point of a chain "
+            "&mdash; contact, feeling, and beyond &mdash; each link "
+            "added one discourse at a time."]),
+    ],
+    terms=[
+        ("dhātunānattaṁ",
+         "&ldquo;diversity of elements&rdquo; &mdash; the technical "
+         "term this saṃyutta is named for, and the base concept "
+         "every discourse in this vagga returns to."),
+        ("cakkhudhātu, rūpadhātu, cakkhuviññāṇadhātu",
+         "&ldquo;the eye element, sight element, and eye "
+         "consciousness element&rdquo; &mdash; the first of six "
+         "triads, representative of the pattern repeated for every "
+         "sense door."),
+        ("manodhātu",
+         "&ldquo;the mind element&rdquo; &mdash; the sixth sense "
+         "door itself, distinct from the consciousness it gives "
+         "rise to."),
+        ("manoviññāṇadhātu",
+         "&ldquo;the mind consciousness element&rdquo; &mdash; the "
+         "awareness that arises when the mind element meets an "
+         "idea, named separately from the mind element itself."),
+        ("paṭhamaṁ",
+         "&ldquo;the first&rdquo; &mdash; the closing cataloguing "
+         "tag marking this as the vagga's opening discourse."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.1:1.1-1.5"),
+        ("p", "&sect;2", "sn14.1:2.1-2.3"),
+    ],
+    quiz=[
+        {"q": "What does this discourse define, rather than narrate?",
+         "opts": [
+             "The diversity of elements, as eighteen elements in six triads",
+             "The four noble truths",
+             "A specific meditation technique",
+             "The biography of a named mendicant"],
+         "correct": 0,
+         "expl": "A bare definition opens this saṃyutta, not a story."},
+        {"q": "How many triads make up the diversity of elements given here?",
+         "opts": [
+             "Six, one per sense door",
+             "Four, one per element only",
+             "Twelve, two per sense door",
+             "Three, covering only sight, sound, and thought"],
+         "correct": 0,
+         "expl": "Eye, ear, nose, tongue, body, and mind, each contributing one triad."},
+        {"q": "What three elements make up each triad?",
+         "opts": [
+             "The sense organ, its object, and the consciousness that arises from their meeting",
+             "The organ, a feeling, and a perception",
+             "Two organs and one object",
+             "A memory, a desire, and an action"],
+         "correct": 0,
+         "expl": "The eye-sight-eye-consciousness pattern repeated across six doors."},
+        {"q": "How does this discourse distinguish manodhātu from manoviññāṇadhātu?",
+         "opts": [
+             "The mind element itself is separate from the mind consciousness that arises from it",
+             "They are simply two names for the identical thing",
+             "Manodhātu refers only to physical sensation",
+             "The discourse does not mention manoviññāṇadhātu at all"],
+         "correct": 0,
+         "expl": "The sixth triad's own two-part naming, worth holding onto for later material."},
+        {"q": "Does this discourse ever state the total number eighteen aloud?",
+         "opts": [
+             "No — it lists all six triads without ever naming the sum",
+             "Yes, it opens by announcing eighteen elements",
+             "It states the number sixteen instead",
+             "It refers to an unspecified, open-ended number"],
+         "correct": 0,
+         "expl": "The count is implicit in six triads of three, not spoken as a figure."},
+        {"q": "What closes this discourse?",
+         "opts": [
+             "A single cataloguing tag, paṭhamaṁ, \"the first\"",
+             "A long dedication of merit",
+             "A refrain praising comprehension, as in the previous saṃyutta",
+             "A question left unanswered"],
+         "correct": 0,
+         "expl": "No benediction here, only a bare numbering tag."},
+        {"q": "What role does this discourse's element list play for the rest of this vagga?",
+         "opts": [
+             "It is the base that later discourses build outward from, toward contact and beyond",
+             "It is never referenced again in this vagga",
+             "It is immediately contradicted by the following discourse",
+             "It applies only to meditation practice, not to any later teaching"],
+         "correct": 0,
+         "expl": "A foundation, not an isolated definition."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What saṃyutta does this discourse open?",
+         "opts": [
+             "Dhātusaṃyutta, named for dhātu, element",
+             "Abhisamayasaṃyutta, the one just closed",
+             "Kammapathasaṃyutta",
+             "A saṃyutta with no name given"],
+         "correct": 0,
+         "expl": "The fourteenth saṃyutta of the Nidānavagga, opening here."},
+    ],
+    marginalia=[
+        ("A list where a story might be", [
+            "no visitor, no dialogue &mdash;",
+            "just eighteen elements, six triads",
+        ]),
+        ("Two elements share one name", [
+            "manodhātu, manoviññāṇadhātu &mdash;",
+            "mind itself, and mind's own awareness",
+        ]),
+        ("A number never spoken", [
+            "eighteen, though the text never says it &mdash;",
+            "six doors, three elements each",
+        ]),
+        ("A tag closes it, not a blessing", [
+            "paṭhamaṁ, &ldquo;the first&rdquo; &mdash;",
+            "no refrain, unlike the saṃyutta just finished",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-13.11.html">SN 13.11 &middot; A Mountain (3rd)</a> '
+        "&mdash; the discourse closing Abhisamayasaṃyutta, "
+        "immediately before this one.",
+        '<a href="sn-14.2.html">SN 14.2 &middot; Diversity of Contacts</a> '
+        "&mdash; the next discourse, extending this element list "
+        "toward contact.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.2 — Phassanānattasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 2, "Phassanānatta", "Diversity of Contacts",
+    meta_title="SN 14.2 — Diversity of Contacts | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Phassanānattasutta — the eighteen-element list from SN "
+        "14.1 extended one link forward: diversity of elements gives "
+        "rise to diversity of contacts. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A short causal statement, restating SN 14.1's "
+                 "element list and adding one further link"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but assumes SN 14.1's element list as "
+                       "background"),
+    ],
+    why=(
+        "Where SN 14.1 offered only a definition, this discourse "
+        "puts it to work: diversity of elements &mdash; the same "
+        "eighteen elements in six triads just given &mdash; gives "
+        "rise to diversity of contacts. Each sense door's element "
+        "triad produces its own distinct contact, so that eye "
+        "contact, ear contact, and the rest are not interchangeable "
+        "instances of one generic thing but genuinely different "
+        "events, each rooted in its own element. The discourse "
+        "restates the element list in full before drawing this "
+        "single causal link, establishing the pattern &mdash; "
+        "define, then chain forward &mdash; that the next several "
+        "discourses in this vagga will extend, one link at a time."),
+    guide=[
+        ("One link added, nothing else changed", [
+            "The element list from SN 14.1 reappears here word for "
+            "word; the only addition is a single causal clause "
+            "connecting it to contact."]),
+        ("Six contacts, not one contact repeated", [
+            "Eye contact, ear contact, nose contact, tongue contact, "
+            "body contact, and mind contact are each named "
+            "separately, following the same six-door structure as "
+            "the element list itself."]),
+        ("A forward direction only", [
+            "This discourse states only that elements give rise to "
+            "contacts; it says nothing about whether the reverse "
+            "holds, leaving that question for the very next "
+            "discourse in this vagga."]),
+        ("A recurring closing verb", [
+            "&ldquo;paṭicca uppajjati,&rdquo; &ldquo;gives rise "
+            "to,&rdquo; is the causal phrase this entire vagga will "
+            "repeat with each new link added to the chain."]),
+        ("A pattern for what follows", [
+            "This is the first of five discourses (SN 14.2&ndash;5, "
+            "the internal set later named in this vagga's own "
+            "closing verse) that all extend the same "
+            "eighteen-element base toward contact and feeling."]),
+    ],
+    terms=[
+        ("dhātunānattaṁ paṭicca uppajjati phassanānattaṁ",
+         "&ldquo;diversity of elements gives rise to diversity of "
+         "contacts&rdquo; &mdash; this discourse's single causal "
+         "claim, and the template for every later link added in "
+         "this vagga."),
+        ("phassanānattaṁ",
+         "&ldquo;diversity of contacts&rdquo; &mdash; the new term "
+         "introduced here, one step beyond SN 14.1's element list."),
+        ("cakkhusamphasso",
+         "&ldquo;eye contact&rdquo; &mdash; the first of six "
+         "contacts named, arising specifically from the eye "
+         "element."),
+        ("manosamphasso",
+         "&ldquo;mind contact&rdquo; &mdash; the sixth and final "
+         "contact in the list, arising from the mind element."),
+        ("paṭicca uppajjati",
+         "&ldquo;gives rise to,&rdquo; literally &ldquo;arises "
+         "dependent on&rdquo; &mdash; the recurring causal verb "
+         "phrase chaining every link in this vagga together."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.2:1.1-1.5"),
+        ("p", "&sect;2", "sn14.2:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What single causal claim does this discourse add to SN 14.1's element list?",
+         "opts": [
+             "Diversity of elements gives rise to diversity of contacts",
+             "Diversity of contacts gives rise to diversity of elements",
+             "Elements and contacts arise independently of each other",
+             "Contact eliminates the diversity of elements"],
+         "correct": 0,
+         "expl": "The vagga's chain gains its first link here."},
+        {"q": "How many distinct contacts does this discourse name?",
+         "opts": [
+             "Six, one for each sense door",
+             "One generic contact covering all senses",
+             "Three, covering only the physical senses",
+             "Eighteen, matching the element count exactly"],
+         "correct": 0,
+         "expl": "Eye, ear, nose, tongue, body, and mind contact, each named separately."},
+        {"q": "Does this discourse address whether contact gives rise back to elements?",
+         "opts": [
+             "No — it states only the forward direction, leaving the reverse for the next discourse",
+             "Yes, it explicitly denies any reverse causation",
+             "Yes, it explicitly affirms the reverse direction too",
+             "The question of direction never arises in this discourse"],
+         "correct": 0,
+         "expl": "SN 14.3 is where the explicit denial of reverse causation appears."},
+        {"q": "What happens to SN 14.1's element list in this discourse?",
+         "opts": [
+             "It is restated in full before the new causal link is added",
+             "It is dropped entirely and replaced with a new list",
+             "It is shortened to only three elements",
+             "It is referenced but never actually repeated"],
+         "correct": 0,
+         "expl": "The base list reappears word for word before the extension."},
+        {"q": "What Pali phrase recurs as the causal connector across this vagga?",
+         "opts": [
+             "Paṭicca uppajjati, \"gives rise to\"",
+             "Anicca vata saṅkhārā, \"impermanent are conditions\"",
+             "Idappaccayatā, \"specific conditionality\"",
+             "Yathābhūtaṁ, \"as it really is\""],
+         "correct": 0,
+         "expl": "The template verb phrase this whole vagga chains with."},
+        {"q": "Which contact arises from the eye element, according to this discourse?",
+         "opts": [
+             "Cakkhusamphasso, eye contact",
+             "Manosamphasso, mind contact",
+             "Sotasamphasso, ear contact",
+             "No contact is attributed to the eye element"],
+         "correct": 0,
+         "expl": "The first of six contacts in the list, matching the eye element from SN 14.1."},
+        {"q": "How does this discourse relate to the four that immediately follow it in this vagga?",
+         "opts": [
+             "It begins a pattern of extending the same element base one link further each time",
+             "It has no connection to the discourses that follow",
+             "It directly contradicts the teaching given in SN 14.4",
+             "It is the only discourse in the vagga using a causal chain"],
+         "correct": 0,
+         "expl": "SN 14.3–5 extend and vary this same forward-chaining pattern."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What number does this discourse's closing tag give it within the vagga?",
+         "opts": [
+             "Dutiyaṁ, \"the second\"",
+             "Paṭhamaṁ, \"the first\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "Following directly after SN 14.1's \"the first.\""},
+    ],
+    marginalia=[
+        ("The same list, one clause longer", [
+            "eighteen elements, restated whole &mdash;",
+            "then a single causal link appended",
+        ]),
+        ("Six contacts, not one", [
+            "eye, ear, nose, tongue, body, mind &mdash;",
+            "each contact rooted in its own element",
+        ]),
+        ("Forward only, for now", [
+            "elements give rise to contacts &mdash;",
+            "the reverse question waits one discourse",
+        ]),
+        ("A phrase that will chain the whole vagga", [
+            "paṭicca uppajjati, &ldquo;gives rise to&rdquo; &mdash;",
+            "the verb linking every step still to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.1.html">SN 14.1 &middot; Diversity of Elements</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the base list this discourse extends.",
+        '<a href="sn-14.3.html">SN 14.3 &middot; Not Diversity of Contacts</a> '
+        "&mdash; the next discourse, adding the explicit denial of "
+        "reverse causation.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 14.3 — Nophassanānattasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 3, "Nophassanānatta", "Not Diversity of Contacts",
+    meta_title="SN 14.3 — Not Diversity of Contacts | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nophassanānattasutta — SN 14.2's forward link restated, "
+        "now with the reverse direction explicitly denied: contacts "
+        "don't give rise back to elements. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 14.2's causal statement restated, with an "
+                 "explicit negative clause added for the reverse "
+                 "direction"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but assumes SN 14.1&ndash;2 as "
+                       "background"),
+    ],
+    why=(
+        "SN 14.2 stated only that diversity of elements gives rise "
+        "to diversity of contacts. This discourse asks the question "
+        "left open there: does the reverse also hold? The answer is "
+        "no, stated explicitly and directly &mdash; contacts don't "
+        "give rise back to elements. The relationship this vagga is "
+        "building is not a cycle where each link produces the one "
+        "before it in turn, but a one-way dependency: elements come "
+        "first, and everything downstream depends on them without "
+        "feeding back. This small addition, a single negative "
+        "clause, sharpens what &ldquo;gives rise to&rdquo; means "
+        "throughout the whole chain still to be built."),
+    guide=[
+        ("The same claim, with one addition", [
+            "Every element of SN 14.2's forward statement reappears "
+            "here unchanged; the only new content is the explicit "
+            "denial that contact produces elements in return."]),
+        ("A one-way dependency, not a cycle", [
+            "By ruling out the reverse direction, this discourse "
+            "establishes that the chain this vagga builds runs only "
+            "forward &mdash; elements condition contacts, not the "
+            "other way around."]),
+        ("Six negatives matching six positives", [
+            "Just as six contacts were named arising from six "
+            "elements in SN 14.2, six explicit denials here match "
+            "them one for one, eye contact not producing the eye "
+            "element, and so through all six doors."]),
+        ("A short discourse doing precise work", [
+            "Nothing here is narratively rich, but the discourse is "
+            "doing exact philosophical work: closing off a "
+            "misreading of SN 14.2 before it can take hold."]),
+        ("The pattern this vagga will repeat", [
+            "Pairing a forward-only discourse with one that adds "
+            "explicit reverse denial recurs at least once more in "
+            "this vagga, at the jump from SN 14.4 to SN 14.5."]),
+    ],
+    terms=[
+        ("no phassanānattaṁ paṭicca uppajjati dhātunānattaṁ",
+         "&ldquo;diversity of contacts doesn't give rise to "
+         "diversity of elements&rdquo; &mdash; this discourse's one "
+         "new clause, closing off the reverse direction."),
+        ("no cakkhusamphassaṁ paṭicca uppajjati cakkhudhātu",
+         "&ldquo;eye contact doesn't give rise to the eye "
+         "element&rdquo; &mdash; the first of six paired denials, "
+         "one per sense door."),
+        ("peyyāla",
+         "the formal term for the elision marker (&hellip;pe&hellip;) "
+         "the source itself uses to skip the four repetitive middle "
+         "doors between eye and mind."),
+        ("dhātunānattaṁ",
+         "&ldquo;diversity of elements&rdquo; &mdash; the term whose "
+         "reverse-direction dependency this discourse rules out."),
+        ("phassanānattaṁ",
+         "&ldquo;diversity of contacts&rdquo; &mdash; confirmed here "
+         "as downstream from elements only, never upstream."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the four middle sense doors between eye and mind. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.3:1.1-1.6"),
+        ("p", "&sect;2", "sn14.3:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse add to SN 14.2's forward causal claim?",
+         "opts": [
+             "An explicit denial that contact gives rise back to elements",
+             "A new fourth term added to the chain",
+             "A retraction of the entire forward claim",
+             "Nothing; it is word-for-word identical to SN 14.2"],
+         "correct": 0,
+         "expl": "The one addition is the explicit reverse denial."},
+        {"q": "What kind of relationship does this discourse establish between elements and contacts?",
+         "opts": [
+             "A one-way dependency, running only from elements to contacts",
+             "A full cycle, each producing the other",
+             "No relationship at all between the two",
+             "A relationship that varies depending on which sense door is involved"],
+         "correct": 0,
+         "expl": "Elements condition contacts, never the reverse."},
+        {"q": "How many paired denials appear, matching the six contacts from SN 14.2?",
+         "opts": [
+             "Six, one per sense door",
+             "One general denial covering all six at once",
+             "Three, covering only the physical senses",
+             "Twelve, two per sense door"],
+         "correct": 0,
+         "expl": "Eye through mind, each denied in turn following the same six-door structure."},
+        {"q": "What formal term describes the elision marker used for the four middle sense doors?",
+         "opts": [
+             "Peyyāla",
+             "Uddāna",
+             "Nikāya",
+             "Abhidhamma"],
+         "correct": 0,
+         "expl": "The standard term for this kind of textual elision in the source."},
+        {"q": "Why does this discourse's added denial matter for reading the rest of this vagga?",
+         "opts": [
+             "It clarifies that \"gives rise to\" throughout this vagga means one-way, not cyclical, causation",
+             "It has no bearing on later discourses in this vagga",
+             "It reverses the direction established in SN 14.2",
+             "It introduces an entirely unrelated new topic"],
+         "correct": 0,
+         "expl": "A small clarification with consequences for how every later link should be read."},
+        {"q": "Does eye contact give rise to the eye element, according to this discourse?",
+         "opts": [
+             "No — the discourse explicitly denies this",
+             "Yes, explicitly affirmed",
+             "The discourse leaves this question open",
+             "Eye contact is not discussed in this discourse"],
+         "correct": 0,
+         "expl": "One of the six explicit paired denials."},
+        {"q": "Which earlier discourse in this vagga does this one directly extend?",
+         "opts": [
+             "SN 14.2, by adding the explicit reverse denial",
+             "SN 14.1, by repeating its bare definition unchanged",
+             "SN 14.6, which has not yet been given",
+             "No earlier discourse in this vagga; it stands alone"],
+         "correct": 0,
+         "expl": "The forward claim from SN 14.2, now sharpened with a denial."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Tatiyaṁ, \"the third\"",
+             "Paṭhamaṁ, \"the first\"",
+             "Dutiyaṁ, \"the second\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The third discourse of this vagga, following SN 14.1 and 14.2."},
+    ],
+    marginalia=[
+        ("One clause closes a loop that never existed", [
+            "contact doesn't give rise to elements &mdash;",
+            "the chain runs one way only",
+        ]),
+        ("Six denials matching six contacts", [
+            "eye, ear, nose, tongue, body, mind &mdash;",
+            "each reverse path explicitly refused",
+        ]),
+        ("A short discourse, precise work", [
+            "nothing narratively rich here &mdash;",
+            "just a misreading closed before it forms",
+        ]),
+        ("A pairing pattern begins", [
+            "forward claim, then explicit denial &mdash;",
+            "SN 14.4 and 14.5 will do this again",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.2.html">SN 14.2 &middot; Diversity of Contacts</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the forward claim this discourse denies in reverse.",
+        '<a href="sn-14.4.html">SN 14.4 &middot; Diversity of Feelings</a> '
+        "&mdash; the next discourse, extending the chain one link "
+        "further, to feeling.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.4 — Vedanānānattasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 4, "Vedanānānatta", "Diversity of Feelings",
+    meta_title="SN 14.4 — Diversity of Feelings | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vedanānānattasutta — the chain extended a third step: "
+        "elements to contacts to feelings, each door producing its "
+        "own distinct feeling. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A three-step forward causal chain, extending SN "
+                 "14.2's two-step version by one further link"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but assumes SN 14.1&ndash;2 as "
+                       "background"),
+    ],
+    why=(
+        "The chain now runs three links deep: diversity of elements "
+        "gives rise to diversity of contacts, and diversity of "
+        "contacts gives rise to diversity of feelings. Each sense "
+        "door produces not only its own contact but its own "
+        "feeling &mdash; the feeling born of eye contact is a "
+        "different event from the feeling born of ear contact, "
+        "rooted all the way back in a different element. This "
+        "discourse doesn't yet ask whether the reverse direction "
+        "holds, following SN 14.2's earlier pattern of stating the "
+        "forward claim plainly first and leaving explicit denial "
+        "for the discourse that follows."),
+    guide=[
+        ("A third link, same forward-only pattern", [
+            "As SN 14.2 first stated the elements-to-contacts link "
+            "without addressing reverse causation, this discourse "
+            "adds feeling to the chain the same way, forward only, "
+            "leaving denial for later."]),
+        ("Six feelings, not six sensations", [
+            "The feeling born of eye contact, ear contact, and so on "
+            "through all six doors are each named as vedanā, "
+            "feeling in the specific technical sense of pleasant, "
+            "painful, or neutral affective tone, not raw sensory "
+            "data."]),
+        ("A chain growing by exact repetition", [
+            "Every element already established in SN 14.1&ndash;2 "
+            "reappears unchanged here; the only genuinely new "
+            "content across three discourses so far is the single "
+            "clause adding feeling."]),
+        ("The pattern about to repeat once more", [
+            "Just as SN 14.3 followed SN 14.2 with explicit reverse "
+            "denial, this discourse's three-step forward chain will "
+            "receive the same treatment in the very next "
+            "discourse."]),
+        ("Feeling as the chain's visible growing edge", [
+            "Of the three links so far &mdash; elements, contacts, "
+            "feelings &mdash; feeling is the one a meditator can "
+            "most directly notice arising, making this discourse a "
+            "natural point where the abstract chain meets lived "
+            "experience."]),
+    ],
+    terms=[
+        ("phassanānattaṁ paṭicca uppajjati vedanānānattaṁ",
+         "&ldquo;diversity of contacts gives rise to diversity of "
+         "feelings&rdquo; &mdash; this discourse's new clause, the "
+         "chain's third link."),
+        ("vedanānānattaṁ",
+         "&ldquo;diversity of feelings&rdquo; &mdash; feeling in the "
+         "specific technical sense of pleasant, painful, or "
+         "neutral affective tone."),
+        ("cakkhusamphassajā vedanā",
+         "&ldquo;the feeling born of eye contact&rdquo; &mdash; the "
+         "first of six feelings named, each rooted in its own "
+         "sense door."),
+        ("manosamphassajā vedanā",
+         "&ldquo;the feeling born of mind contact&rdquo; &mdash; the "
+         "sixth and final feeling in the list."),
+        ("catutthaṁ",
+         "&ldquo;the fourth&rdquo; &mdash; the closing numbering tag "
+         "marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the four middle sense doors between eye and mind. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.4:1.1-1.5"),
+        ("p", "&sect;2", "sn14.4:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What third link does this discourse add to the chain?",
+         "opts": [
+             "Diversity of feelings, arising from diversity of contacts",
+             "Diversity of perceptions, arising from diversity of elements",
+             "Diversity of desires, arising directly from elements",
+             "No new link is added; the discourse restates SN 14.2 unchanged"],
+         "correct": 0,
+         "expl": "Elements to contacts to feelings, the chain's third step."},
+        {"q": "In what technical sense is \"feeling\" used here?",
+         "opts": [
+             "Pleasant, painful, or neutral affective tone, not raw sensory data",
+             "An emotion like anger or joy",
+             "A physical sensation such as heat or pressure",
+             "A synonym for perception"],
+         "correct": 0,
+         "expl": "Vedanā names affective tone specifically, in the technical sense used throughout the canon."},
+        {"q": "Does this discourse address whether feeling gives rise back to contact?",
+         "opts": [
+             "No — it states the forward direction only, following SN 14.2's earlier pattern",
+             "Yes, it explicitly denies the reverse",
+             "Yes, it explicitly affirms the reverse",
+             "The discourse doesn't mention contact at all"],
+         "correct": 0,
+         "expl": "The explicit reverse denial is left for the discourse immediately following."},
+        {"q": "How many feelings does this discourse name, matching the six sense doors?",
+         "opts": [
+             "Six, one per sense door",
+             "One generic feeling covering all senses",
+             "Three, covering only physical contact",
+             "Two, pleasant and unpleasant only"],
+         "correct": 0,
+         "expl": "Eye through mind, each producing its own distinct feeling."},
+        {"q": "What happens to the content already established in SN 14.1–2 within this discourse?",
+         "opts": [
+             "It reappears unchanged, with only the new feeling clause added",
+             "It is entirely dropped and replaced",
+             "It is contradicted by this discourse's new claim",
+             "It is shortened to a single sentence"],
+         "correct": 0,
+         "expl": "Exact repetition of the established base, extended by one clause."},
+        {"q": "What pattern does this discourse set up for the very next discourse in this vagga?",
+         "opts": [
+             "The same forward-only chain will receive an explicit reverse denial, as SN 14.3 did for SN 14.2",
+             "The next discourse will abandon this chain entirely",
+             "The next discourse will shorten the chain back to two links",
+             "No relationship exists between this discourse and the next"],
+         "correct": 0,
+         "expl": "SN 14.5 repeats the forward-then-denial pairing pattern at this new length."},
+        {"q": "Which feeling arises from eye contact, according to this discourse?",
+         "opts": [
+             "Cakkhusamphassajā vedanā, the feeling born of eye contact",
+             "Manosamphassajā vedanā, the feeling born of mind contact",
+             "No feeling is attributed to eye contact specifically",
+             "Sotasamphassajā vedanā, the feeling born of ear contact"],
+         "correct": 0,
+         "expl": "The first of six feelings, rooted in the eye door."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Catutthaṁ, \"the fourth\"",
+             "Tatiyaṁ, \"the third\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fourth discourse of this vagga."},
+    ],
+    marginalia=[
+        ("A third link joins the chain", [
+            "elements, then contacts, now feelings &mdash;",
+            "each door producing its own affective tone",
+        ]),
+        ("Feeling in the precise sense", [
+            "pleasant, painful, or neither &mdash;",
+            "not emotion, not raw sensation",
+        ]),
+        ("Forward stated, denial still to come", [
+            "the same pattern as SN 14.2 &mdash;",
+            "reverse causation addressed one discourse later",
+        ]),
+        ("Where the chain meets what can be noticed", [
+            "of the three links given so far &mdash;",
+            "feeling is the one felt directly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.3.html">SN 14.3 &middot; Not Diversity of Contacts</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-14.5.html">SN 14.5 &middot; Diversity of Feelings (2nd)</a> '
+        "&mdash; the next discourse, adding explicit reverse denial "
+        "to this same three-step chain.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 14.5 — Dutiyavedanānānattasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 5, "Dutiyavedanānānatta", "Diversity of Feelings (2nd)",
+    meta_title="SN 14.5 — Diversity of Feelings (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyavedanānānattasutta — closing this vagga's first "
+        "five-discourse set, the full three-step chain now stated "
+        "with every reverse direction explicitly denied. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The complete three-step forward chain from SN "
+                 "14.4, now paired with explicit reverse denial at "
+                 "every step"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but assumes SN 14.1&ndash;4 as "
+                       "background"),
+    ],
+    why=(
+        "This discourse closes the first five-discourse set of this "
+        "vagga by combining everything given so far into one "
+        "statement: elements give rise to contacts, contacts give "
+        "rise to feelings, and neither reverses &mdash; feelings "
+        "don't give rise back to contacts, and contacts don't give "
+        "rise back to elements. Nothing here is new content; every "
+        "clause has already appeared across SN 14.1&ndash;4. What's "
+        "new is the combination, drawing the full chain and its "
+        "full set of denials into a single discourse before the "
+        "vagga turns, in its next discourse, to a second base list "
+        "and a new chain built from it."),
+    guide=[
+        ("A closing summary, not a new claim", [
+            "Every clause in this discourse &mdash; the forward "
+            "chain and both reverse denials &mdash; has already "
+            "appeared separately across the four discourses before "
+            "it; this one simply states them together."]),
+        ("A double denial, not a single one", [
+            "Where SN 14.3 denied only contact producing elements, "
+            "this discourse adds a second denial &mdash; feeling "
+            "doesn't produce contact &mdash; completing the "
+            "one-way structure across all three links."]),
+        ("The internal set completed", [
+            "This is the fifth and closing discourse of what this "
+            "vagga's own closing verse later names the "
+            "&ldquo;ajjhattapañcaka,&rdquo; the internal five, built "
+            "entirely from the eighteen-element list first given in "
+            "SN 14.1."]),
+        ("A hinge before the vagga turns outward", [
+            "Having exhausted what can be drawn from the internal, "
+            "eighteen-element base, the very next discourse "
+            "introduces a second, external list, and the chain "
+            "begins again from there."]),
+        ("Six-fold repetition compressed", [
+            "As in every discourse so far, the full statement "
+            "actually repeats six times, once per sense door; the "
+            "source elides four of the six here, trusting the "
+            "pattern already established by the discourses before "
+            "it."]),
+    ],
+    terms=[
+        ("no vedanānānattaṁ paṭicca uppajjati phassanānattaṁ",
+         "&ldquo;diversity of feelings doesn't give rise to "
+         "diversity of contacts&rdquo; &mdash; the new denial added "
+         "here, completing the chain's one-way structure."),
+        ("ajjhattapañcaka",
+         "&ldquo;the internal five&rdquo; &mdash; this vagga's own "
+         "closing verse later names SN 14.1&ndash;5 by this term, "
+         "confirming this discourse as its close."),
+        ("dhātunānattaṁ, phassanānattaṁ, vedanānānattaṁ",
+         "&ldquo;diversity of elements, of contacts, of "
+         "feelings&rdquo; &mdash; the three terms this discourse "
+         "chains together in full, forward and denied in reverse."),
+        ("no phassanānattaṁ paṭicca uppajjati dhātunānattaṁ",
+         "&ldquo;diversity of contacts doesn't give rise to "
+         "diversity of elements&rdquo; &mdash; the denial first "
+         "given alone in SN 14.3, now repeated as part of the "
+         "complete statement."),
+        ("pañcamaṁ",
+         "&ldquo;the fifth&rdquo; &mdash; the closing numbering tag, "
+         "marking this discourse as the internal set's close."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the four middle sense doors between eye and mind. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.5:1.1-1.5"),
+        ("p", "&sect;2", "sn14.5:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse combine that earlier discourses in this vagga gave separately?",
+         "opts": [
+             "The full three-step forward chain together with both reverse denials",
+             "An entirely new fourth link not seen before",
+             "A retraction of the whole chain built so far",
+             "A comparison between this vagga and the previous saṃyutta"],
+         "correct": 0,
+         "expl": "Nothing new in content — everything here has already appeared separately."},
+        {"q": "What new denial appears here that SN 14.3 alone did not state?",
+         "opts": [
+             "That feeling doesn't give rise back to contact",
+             "That contact doesn't give rise back to elements",
+             "That elements don't give rise to contact at all",
+             "That feeling doesn't arise at all"],
+         "correct": 0,
+         "expl": "SN 14.3 denied only contact-to-elements; this discourse adds feeling-to-contact."},
+        {"q": "What does this vagga's own closing verse later call SN 14.1–5 as a group?",
+         "opts": [
+             "Ajjhattapañcaka, \"the internal five\"",
+             "Bāhirapañcaka, \"the external five\"",
+             "Mahāpañcaka, \"the great five\"",
+             "The closing verse gives this group no name"],
+         "correct": 0,
+         "expl": "Confirmed by the vagga's own uddāna, closing SN 14.10."},
+        {"q": "What happens in the discourse immediately following this one?",
+         "opts": [
+             "The vagga turns to a second, external base list and begins the chain again",
+             "The vagga repeats this exact discourse a second time",
+             "The vagga ends entirely",
+             "The chain reverses direction permanently"],
+         "correct": 0,
+         "expl": "SN 14.6 introduces the external six-element list."},
+        {"q": "Is every clause in this discourse genuinely new content?",
+         "opts": [
+             "No — every clause already appeared separately across SN 14.1–4",
+             "Yes, every clause here is entirely new",
+             "Half is new, half is repeated",
+             "The discourse contains no clauses drawn from earlier discourses"],
+         "correct": 0,
+         "expl": "A closing summary combining, not introducing, content."},
+        {"q": "How many times does the full statement actually repeat, once per sense door?",
+         "opts": [
+             "Six times, though four are elided in the source text",
+             "Only once, covering all senses generically",
+             "Eighteen times, once per element",
+             "Twice, covering only sight and mind"],
+         "correct": 0,
+         "expl": "The standard six-door repetition, with the middle four elided as elsewhere in this vagga."},
+        {"q": "What base list is this entire discourse built from?",
+         "opts": [
+             "The eighteen-element list first given in SN 14.1",
+             "A new list introduced for the first time here",
+             "The external six-element list from SN 14.6",
+             "No specific base list; the discourse stands alone"],
+         "correct": 0,
+         "expl": "The internal, eighteen-element base carried through all five discourses."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Pañcamaṁ, \"the fifth\"",
+             "Catutthaṁ, \"the fourth\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fifth and closing discourse of the internal set."},
+    ],
+    marginalia=[
+        ("Everything said before, said together", [
+            "the forward chain, both denials at once &mdash;",
+            "no new claim, only a full statement",
+        ]),
+        ("Two denials complete the shape", [
+            "feeling doesn't produce contact &mdash;",
+            "contact doesn't produce elements",
+        ]),
+        ("A name given only in the closing verse", [
+            "ajjhattapañcaka, &ldquo;the internal five&rdquo; &mdash;",
+            "five discourses, one base list, now closed",
+        ]),
+        ("A hinge to what comes next", [
+            "the internal list exhausted &mdash;",
+            "an external list waits at SN 14.6",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.4.html">SN 14.4 &middot; Diversity of Feelings</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-14.6.html">SN 14.6 &middot; External Diversity of Elements</a> '
+        "&mdash; the next discourse, opening this vagga's second, "
+        "external base list.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.6 — Bāhiradhātunānattasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 6, "Bāhiradhātunānatta", "External Diversity of Elements",
+    meta_title="SN 14.6 — External Diversity of Elements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bāhiradhātunānattasutta — a second base definition, "
+        "mirroring SN 14.1 but built from the six external sense "
+        "objects alone, opening this vagga's second five-discourse "
+        "set. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A bare definition mirroring SN 14.1's structure "
+                 "exactly, but with a shorter, six-item list"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but marks a structural turn worth "
+                       "noticing after SN 14.1&ndash;5"),
+    ],
+    why=(
+        "Five discourses into this vagga, the chain built from SN "
+        "14.1's eighteen-element list has run its course. This "
+        "discourse opens a second five-discourse set with a new "
+        "base definition, mirroring SN 14.1's form exactly &mdash; "
+        "the same rhetorical self-question, the same bare answering "
+        "list &mdash; but built from only six elements this time: "
+        "the sight, sound, smell, taste, touch, and idea elements "
+        "alone, without their paired organs or consciousnesses. This "
+        "external list becomes the base for a longer chain "
+        "&mdash; through perception, thought, desire, passion, "
+        "search, and even further &mdash; over the five discourses "
+        "that follow."),
+    guide=[
+        ("A second definition, same form as the first", [
+            "This discourse repeats SN 14.1's exact structure "
+            "&mdash; a self-posed question answered by a bare list "
+            "&mdash; making the two openings a matched pair, one for "
+            "each half of this vagga."]),
+        ("Six elements, not eighteen", [
+            "Where SN 14.1 named eighteen elements in six triads, "
+            "this discourse names only the six object-elements "
+            "themselves &mdash; sight, sound, smell, taste, touch, "
+            "and idea &mdash; dropping the organ and consciousness "
+            "terms entirely."]),
+        ("What &ldquo;external&rdquo; picks out", [
+            "The title's bāhira, external, distinguishes these six "
+            "object-elements from the sense organs and the "
+            "consciousness that meets them, which belong to the "
+            "person rather than to what is met."]),
+        ("A shorter list, a longer chain ahead", [
+            "Though this base list is shorter than SN 14.1's, the "
+            "chain it supports over the next four discourses grows "
+            "considerably longer, eventually reaching gain, the "
+            "furthest link in this entire vagga."]),
+        ("The vagga's structure now fully visible", [
+            "With this discourse, the pattern named in this vagga's "
+            "own closing verse becomes clear: five discourses on an "
+            "internal base, five more on an external one, matching "
+            "halves built the same way."]),
+    ],
+    terms=[
+        ("bāhiradhātunānattaṁ",
+         "&ldquo;external diversity of elements&rdquo; &mdash; this "
+         "discourse's title term, naming the six object-elements as "
+         "distinct from the organs and consciousnesses of SN 14.1's "
+         "list."),
+        ("rūpadhātu",
+         "&ldquo;the sight element&rdquo; &mdash; the first of six "
+         "external elements named, without its paired eye or eye "
+         "consciousness."),
+        ("dhammadhātu",
+         "&ldquo;the idea element&rdquo; &mdash; the sixth and final "
+         "external element, corresponding to mental objects rather "
+         "than sense-door consciousness."),
+        ("bāhira",
+         "&ldquo;external&rdquo; &mdash; distinguishing what is met "
+         "by the senses from the senses and their consciousness, "
+         "which belong to the perceiving person."),
+        ("chaṭṭhaṁ",
+         "&ldquo;the sixth&rdquo; &mdash; the closing numbering tag, "
+         "marking this discourse as opening the vagga's second "
+         "half."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.6:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What structural role does this discourse play in the vagga?",
+         "opts": [
+             "It opens a second five-discourse set, mirroring SN 14.1's opening definition",
+             "It closes the vagga entirely",
+             "It repeats SN 14.5's content without change",
+             "It has no structural relationship to the rest of the vagga"],
+         "correct": 0,
+         "expl": "A matched second opening, built the same way as SN 14.1."},
+        {"q": "How does this discourse's list differ from SN 14.1's eighteen-element list?",
+         "opts": [
+             "It names only the six object-elements, without organs or consciousnesses",
+             "It has exactly the same eighteen items",
+             "It names only three elements",
+             "It adds twelve additional elements beyond SN 14.1's list"],
+         "correct": 0,
+         "expl": "Six external elements only, dropping the organ and consciousness terms."},
+        {"q": "What does bāhira, \"external,\" distinguish in this discourse's title?",
+         "opts": [
+             "The six object-elements, as distinct from the sense organs and consciousness",
+             "A location outside Sāvatthī",
+             "A group of visiting mendicants from another region",
+             "A comparison with a rival teacher's doctrine"],
+         "correct": 0,
+         "expl": "External marks what is met by the senses, not the senses themselves."},
+        {"q": "What element opens this discourse's list?",
+         "opts": [
+             "Rūpadhātu, the sight element",
+             "Manodhātu, the mind element",
+             "Cakkhudhātu, the eye element",
+             "Vedanādhātu, a feeling element"],
+         "correct": 0,
+         "expl": "Sight, sound, smell, taste, touch, idea — in that order."},
+        {"q": "What kind of chain does this new base list support over the next four discourses?",
+         "opts": [
+             "A longer chain reaching through perception, thought, desire, passion, and search",
+             "No further chain; this discourse stands alone",
+             "A chain identical in length to SN 14.1's five discourses",
+             "A chain that only repeats this same definition four more times"],
+         "correct": 0,
+         "expl": "The external base supports a longer chain than the internal one did."},
+        {"q": "What structural pattern does this vagga's own closing verse eventually name?",
+         "opts": [
+             "Two matched halves, an internal five and an external five",
+             "Ten unrelated, independent discourses",
+             "A single unbroken forty-discourse chain",
+             "Three separate sets of unequal length"],
+         "correct": 0,
+         "expl": "Ajjhattapañcaka and bāhirapañcaka, confirmed in SN 14.10's closing verse."},
+        {"q": "How many items does this discourse's element list contain?",
+         "opts": [
+             "Six",
+             "Eighteen",
+             "Three",
+             "Twelve"],
+         "correct": 0,
+         "expl": "One per sense door, without the organ or consciousness terms this time."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The sixth discourse, opening the vagga's second half."},
+    ],
+    marginalia=[
+        ("The same opening, a second time", [
+            "one question, one bare list, again &mdash;",
+            "mirroring SN 14.1's exact form",
+        ]),
+        ("Eighteen become six", [
+            "no organs, no consciousness this time &mdash;",
+            "just sight, sound, smell, taste, touch, idea",
+        ]),
+        ("A word that marks what's met, not who meets it", [
+            "bāhira, &ldquo;external&rdquo; &mdash;",
+            "the object, not the sense that reaches it",
+        ]),
+        ("A shorter base, a longer road ahead", [
+            "six elements now, not eighteen &mdash;",
+            "but four more discourses still to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.5.html">SN 14.5 &middot; Diversity of Feelings (2nd)</a> '
+        "&mdash; the discourse immediately before this one, closing "
+        "the vagga's first, internal set.",
+        '<a href="sn-14.7.html">SN 14.7 &middot; Diversity of Perceptions</a> '
+        "&mdash; the next discourse, extending this external list "
+        "into a new chain.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 14.7 — Saññānānattasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 7, "Saññānānatta", "Diversity of Perceptions",
+    meta_title="SN 14.7 — Diversity of Perceptions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saññānānattasutta — SN 14.6's external element list "
+        "extended into a five-step forward chain: elements, "
+        "perceptions, thoughts, desires, passions, searches. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A five-step forward causal chain, considerably "
+                 "longer than any single step given in this vagga's "
+                 "first half"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the longest chain given in this vagga so "
+                       "far, worth reading slowly"),
+    ],
+    why=(
+        "Where the internal set (SN 14.1&ndash;5) built a chain at "
+        "most three links long, this discourse builds one five "
+        "links long in a single step: external diversity of "
+        "elements gives rise to diversity of perceptions, which "
+        "gives rise to diversity of thoughts, then desires, then "
+        "passions, then searches. Each link is drawn out in full for "
+        "the sight element alone before the source elides the "
+        "middle four doors and restates the whole chain once more "
+        "for the idea element. The progression traces something "
+        "recognizable from ordinary experience: perceiving "
+        "something distinct leads to thinking about it, wanting it, "
+        "burning for it, and finally going out to search for it."),
+    guide=[
+        ("Five links where the internal set gave at most three", [
+            "This discourse compresses a much longer chain into one "
+            "discourse rather than building it gradually across "
+            "several, as the internal set did across SN "
+            "14.1&ndash;5."]),
+        ("A chain tracing craving's escalation", [
+            "Perception leads to thought, thought to desire, desire "
+            "to passion, and passion to search &mdash; each step "
+            "genuinely escalates in intensity, from noticing "
+            "something to burning to go and get it."]),
+        ("Only two doors spelled out in full", [
+            "The source draws out the complete five-step chain for "
+            "the sight element, elides the four middle doors with "
+            "&hellip;pe&hellip;, and gives the full chain once more "
+            "for the idea element, the same economy used since SN "
+            "14.3."]),
+        ("Forward only, matching SN 14.2's earlier pattern", [
+            "As with the chain's first appearance, this discourse "
+            "states only the forward direction; explicit reverse "
+            "denial, following the same rhythm as the internal set, "
+            "arrives in the discourse immediately after this one."]),
+        ("Search, not yet gain", [
+            "This discourse's chain stops at pariyesanā, search; "
+            "the vagga's very next pair of discourses will extend "
+            "the chain one step further still, to lābha, gain."]),
+    ],
+    terms=[
+        ("dhātunānattaṁ paṭicca uppajjati saññānānattaṁ",
+         "&ldquo;diversity of elements gives rise to diversity of "
+         "perceptions&rdquo; &mdash; the chain's first new link, "
+         "built from the external element list of SN 14.6."),
+        ("saṅkappanānattaṁ",
+         "&ldquo;diversity of thoughts&rdquo; &mdash; the second "
+         "link, thought arising from perception."),
+        ("chandanānattaṁ",
+         "&ldquo;diversity of desires&rdquo; &mdash; the third "
+         "link, desire arising from thought."),
+        ("pariḷāhanānattaṁ",
+         "&ldquo;diversity of passions&rdquo; &mdash; literally "
+         "&ldquo;burning,&rdquo; the fourth link, marking an "
+         "intensification beyond mere desire."),
+        ("pariyesanānānattaṁ",
+         "&ldquo;diversity of searches&rdquo; &mdash; the fifth and "
+         "final link in this discourse's chain, the point where "
+         "internal craving turns into outward-directed action."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the four middle sense doors between sight and idea. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.7:1.1-1.5"),
+        ("p", "&sect;2", "sn14.7:2.1-2.1"),
+        ("p", "&sect;3", "sn14.7:3.1-3.2"),
+        ("p", "&sect;4", "sn14.7:4.1-4.1"),
+    ],
+    quiz=[
+        {"q": "How many links does this discourse's chain contain, from elements to searches?",
+         "opts": [
+             "Five",
+             "Two",
+             "Three, matching the internal set's longest chain",
+             "Eight"],
+         "correct": 0,
+         "expl": "Elements, perceptions, thoughts, desires, passions, searches — five links from the first term."},
+        {"q": "What progression does this chain trace?",
+         "opts": [
+             "An escalation from perceiving something to burning to search for it",
+             "A gradual calming from craving toward peace",
+             "A cycle that returns to its own starting point",
+             "A comparison between two unrelated teachings"],
+         "correct": 0,
+         "expl": "Perception to thought to desire to passion to search, each step more intense."},
+        {"q": "What base list does this discourse's chain build from?",
+         "opts": [
+             "The external six-element list first given in SN 14.6",
+             "The internal eighteen-element list from SN 14.1",
+             "An entirely new list not seen elsewhere in this vagga",
+             "No base list; the chain begins from perception directly"],
+         "correct": 0,
+         "expl": "The external base introduced in SN 14.6, now extended."},
+        {"q": "Which two sense doors receive the chain spelled out in full, rather than elided?",
+         "opts": [
+             "Sight and idea",
+             "Ear and nose",
+             "Only sight, with all others fully elided",
+             "All six doors are spelled out in full"],
+         "correct": 0,
+         "expl": "The first and sixth doors bracket the elided middle four, as elsewhere in this vagga."},
+        {"q": "Does this discourse address the reverse direction of the chain?",
+         "opts": [
+             "No — it states the forward direction only, leaving denial for the next discourse",
+             "Yes, it explicitly denies the reverse at every step",
+             "Yes, it explicitly affirms the reverse",
+             "The question of direction doesn't arise in this chain"],
+         "correct": 0,
+         "expl": "Following the same forward-then-denial rhythm as SN 14.2 and SN 14.3."},
+        {"q": "What does pariḷāha, the fourth link, literally mean?",
+         "opts": [
+             "Burning, marking an intensification beyond mere desire",
+             "Searching, the chain's final step",
+             "Perceiving, the chain's first step",
+             "Calming, a reduction in intensity"],
+         "correct": 0,
+         "expl": "A term marking heightened intensity, distinct from ordinary desire."},
+        {"q": "Where does this discourse's chain stop, and what happens to it in later discourses?",
+         "opts": [
+             "It stops at search; later discourses extend it one further step, to gain",
+             "It stops at gain, the furthest point in this vagga",
+             "It stops at elements, going no further at all",
+             "The chain is never extended further in this vagga"],
+         "correct": 0,
+         "expl": "Lābha, gain, is the vagga's final link, reached in SN 14.9–10."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Sattamaṁ, \"the seventh\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The seventh discourse of this vagga."},
+    ],
+    marginalia=[
+        ("A chain five links long, in one step", [
+            "not built gradually, as the internal set was &mdash;",
+            "the full escalation given at once",
+        ]),
+        ("From noticing to burning to searching", [
+            "perception, thought, desire, passion, search &mdash;",
+            "each step more intense than the last",
+        ]),
+        ("Two doors spelled out, four elided", [
+            "sight in full, idea in full &mdash;",
+            "the middle four trusted to the pattern",
+        ]),
+        ("One more link still waiting", [
+            "this chain stops at search &mdash;",
+            "gain arrives two discourses later",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.6.html">SN 14.6 &middot; External Diversity of Elements</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the base list this chain extends.",
+        '<a href="sn-14.8.html">SN 14.8 &middot; No Diversity of Searches</a> '
+        "&mdash; the next discourse, adding explicit reverse denial "
+        "to this same five-step chain.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.8 — Nopariyesanānānattasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 8, "Nopariyesanānānatta", "No Diversity of Searches",
+    meta_title="SN 14.8 — No Diversity of Searches | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nopariyesanānānattasutta — SN 14.7's five-step chain "
+        "restated with every reverse direction explicitly denied, "
+        "from search back down to elements. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 14.7's five-step chain restated, with an "
+                 "explicit negative clause added for each reverse "
+                 "step"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "assumes SN 14.7's five-step chain as "
+                       "background"),
+    ],
+    why=(
+        "This discourse takes SN 14.7's five-step chain &mdash; "
+        "elements to perceptions to thoughts to desires to passions "
+        "to searches &mdash; and closes off its reverse direction "
+        "entirely: searches don't give rise to passions, passions "
+        "don't give rise to desires, desires don't give rise to "
+        "thoughts, thoughts don't give rise to perceptions, and "
+        "perceptions don't give rise to elements. Five denials "
+        "matching five forward links, extending the same "
+        "forward-then-denial rhythm this vagga first established "
+        "with SN 14.2 and SN 14.3, now at considerably greater "
+        "length. The chain running from elements to searching is "
+        "confirmed, once again, to run only one way."),
+    guide=[
+        ("Five denials matching five forward links", [
+            "Each step of SN 14.7's chain receives its own explicit "
+            "reverse denial here, in reverse order from search back "
+            "down to elements, mirroring the forward chain's "
+            "structure exactly."]),
+        ("The same rhythm, now at greater length", [
+            "SN 14.2 and SN 14.3 established this pairing &mdash; "
+            "forward claim, then explicit denial &mdash; at a "
+            "two-step chain; this discourse applies the identical "
+            "rhythm to a chain five steps long."]),
+        ("Reading the denial in the reverse order it lists", [
+            "The source states its denials starting from the "
+            "chain's far end, searches not producing passions, "
+            "working backward link by link to perceptions not "
+            "producing elements, rather than repeating the forward "
+            "order with &ldquo;not&rdquo; inserted."]),
+        ("A closed system, confirmed twice over", [
+            "Between the internal set's SN 14.3/14.5 and this "
+            "discourse, every chain given so far in this vagga has "
+            "now been shown to run one way only, never looping back "
+            "on itself."]),
+        ("The vagga's longest denial list so far", [
+            "Five paired denials, doubled again across the six "
+            "sense doors though only two are spelled out in full, "
+            "make this discourse's structure the most elaborate "
+            "given in this vagga up to this point."]),
+    ],
+    terms=[
+        ("no pariyesanānānattaṁ paṭicca uppajjati pariḷāhanānattaṁ",
+         "&ldquo;diversity of searches doesn't give rise to "
+         "diversity of passions&rdquo; &mdash; the first denial, "
+         "starting from the chain's far end."),
+        ("no saññānānattaṁ paṭicca uppajjati dhātunānattaṁ",
+         "&ldquo;diversity of perceptions doesn't give rise to "
+         "diversity of elements&rdquo; &mdash; the final denial, "
+         "closing the reverse direction all the way back to the "
+         "base."),
+        ("saṅkappanānattaṁ, chandanānattaṁ",
+         "&ldquo;diversity of thoughts, diversity of desires&rdquo; "
+         "&mdash; the two middle links, each also denied in reverse "
+         "within this discourse."),
+        ("no",
+         "&ldquo;not&rdquo; &mdash; the simple negating particle "
+         "carrying the entire weight of this discourse's structural "
+         "claim, repeated five times."),
+        ("aṭṭhamaṁ",
+         "&ldquo;the eighth&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the four middle sense doors between sight and idea. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.8:1.1-1.6"),
+        ("p", "&sect;2", "sn14.8:2.1-2.2"),
+        ("p", "&sect;3", "sn14.8:3.1-3.3"),
+        ("p", "&sect;4", "sn14.8:4.1-4.2"),
+    ],
+    quiz=[
+        {"q": "What does this discourse do with SN 14.7's five-step chain?",
+         "opts": [
+             "Restates it with an explicit reverse denial added at every step",
+             "Shortens it to only two steps",
+             "Reverses the entire chain's direction",
+             "Replaces it with an unrelated new chain"],
+         "correct": 0,
+         "expl": "Five forward links, now matched with five denials."},
+        {"q": "In what order does this discourse list its denials?",
+         "opts": [
+             "Starting from the chain's far end and working back toward elements",
+             "Starting from elements and working forward",
+             "In no particular order",
+             "Only the first and last links are denied"],
+         "correct": 0,
+         "expl": "Search-to-passion first, perception-to-elements last, the reverse of the forward order."},
+        {"q": "How many explicit denials does this discourse add?",
+         "opts": [
+             "Five, matching the five forward links of SN 14.7",
+             "One general denial covering the whole chain",
+             "Three, covering only the first half of the chain",
+             "Eight, one per sense door"],
+         "correct": 0,
+         "expl": "Search, passion, desire, thought, and perception, each denied against its predecessor."},
+        {"q": "What earlier pair of discourses established the forward-then-denial rhythm this discourse extends?",
+         "opts": [
+             "SN 14.2 and SN 14.3",
+             "SN 14.6 and SN 14.7",
+             "SN 14.1 and SN 14.5",
+             "No earlier discourse establishes this rhythm"],
+         "correct": 0,
+         "expl": "The two-step version of the same pairing, now applied at five steps."},
+        {"q": "What does this discourse confirm about the chain running from elements to searches?",
+         "opts": [
+             "That it runs only one way, never looping back on itself",
+             "That it runs equally well in both directions",
+             "That it only applies to the sight door",
+             "That it has no direction at all"],
+         "correct": 0,
+         "expl": "A closed, one-way system, confirmed at this greater length."},
+        {"q": "How many sense doors receive this discourse's chain and denials spelled out in full?",
+         "opts": [
+             "Two — sight and idea, with the middle four elided",
+             "All six, in complete detail",
+             "None; the whole discourse is elided",
+             "Only sight, with idea also elided"],
+         "correct": 0,
+         "expl": "The same economy used since SN 14.3, first and last door in full."},
+        {"q": "What does the simple particle \"no\" accomplish in this discourse?",
+         "opts": [
+             "It carries the entire weight of the reverse-direction denial, repeated five times",
+             "It functions as an affirmative marker",
+             "It has no grammatical function here",
+             "It only appears once, in the discourse's final line"],
+         "correct": 0,
+         "expl": "A small word doing structurally significant work across the whole discourse."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "Navamaṁ, \"the ninth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eighth discourse of this vagga."},
+    ],
+    marginalia=[
+        ("Five links, five denials to match", [
+            "search, passion, desire, thought, perception &mdash;",
+            "each one refused a path back to elements",
+        ]),
+        ("Read backward from where the chain ends", [
+            "search-to-passion denied first &mdash;",
+            "perception-to-elements denied last",
+        ]),
+        ("The same rhythm, stretched further", [
+            "SN 14.2 and 14.3 did this at two steps &mdash;",
+            "here the identical pattern spans five",
+        ]),
+        ("A small word carrying real weight", [
+            "no, &ldquo;not&rdquo; &mdash; five times over",
+            "closing the loop that never was one",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.7.html">SN 14.7 &middot; Diversity of Perceptions</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the forward chain this discourse denies in reverse.",
+        '<a href="sn-14.9.html">SN 14.9 &middot; Diversity of Gains</a> '
+        "&mdash; the next discourse, extending the chain one final "
+        "link further, to gain.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 14.9 — Bāhiraphassanānattasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 9, "Bāhiraphassanānatta", "Diversity of Gains",
+    meta_title="SN 14.9 — Diversity of Gains | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bāhiraphassanānattasutta — this vagga's longest chain, "
+        "eight links from elements to gain, though its Pali title "
+        "and Sujato's English title point at different ends of the "
+        "same chain. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "An eight-step forward causal chain, the longest "
+                 "given anywhere in this vagga"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the vagga's longest chain, worth reading "
+                       "slowly and comparing to SN 14.7"),
+    ],
+    why=(
+        "This discourse extends SN 14.7's five-step chain three "
+        "links further: after elements, perceptions, and thoughts, "
+        "it inserts contact and feeling &mdash; borrowed from the "
+        "internal set of SN 14.2&ndash;5 but now applied to the "
+        "external base &mdash; before continuing on to desire, "
+        "passion, search, and finally gain, the furthest point "
+        "reached anywhere in this vagga. Worth noticing: this "
+        "discourse's Pali title, Bāhiraphassanānattasutta, names "
+        "contact, a link buried in the middle of the chain, while "
+        "Sujato's English title, &ldquo;Diversity of Gains,&rdquo; "
+        "names the chain's final destination instead &mdash; two "
+        "titles pointing at different ends of the same eight-link "
+        "structure."),
+    guide=[
+        ("Eight links, the vagga's longest chain", [
+            "Elements, perceptions, thoughts, contacts, feelings, "
+            "desires, passions, searches, and gain &mdash; nine "
+            "terms, eight links, folding together everything built "
+            "separately across the internal and external sets so "
+            "far."]),
+        ("Contact and feeling return, transplanted", [
+            "The contact and feeling links first established for "
+            "the internal, eighteen-element base in SN 14.2 and SN "
+            "14.4 reappear here, now inserted partway through the "
+            "external chain rather than standing alone."]),
+        ("Two titles, two different links", [
+            "The Pali title names phassa, contact, a middle link; "
+            "the English title Sujato gives instead highlights "
+            "lābha, gain, the chain's endpoint &mdash; both "
+            "accurate descriptions of the same discourse, pointing "
+            "at different places in it."]),
+        ("Gain as the chain's furthest reach", [
+            "Lābha, gain, is a new term not seen in any earlier "
+            "discourse of this vagga, marking the point where "
+            "searching succeeds and something is actually "
+            "obtained."]),
+        ("A single step from being complete", [
+            "This discourse states the chain's forward direction "
+            "only; the reverse denial for this same eight-step "
+            "chain, and the vagga's formal close, both arrive in "
+            "the very next discourse."]),
+    ],
+    terms=[
+        ("lābhanānattaṁ",
+         "&ldquo;diversity of gains&rdquo; &mdash; the new, final "
+         "term in this discourse's chain, marking successful "
+         "acquisition after searching."),
+        ("phassanānattaṁ, vedanānānattaṁ",
+         "&ldquo;diversity of contacts, diversity of feelings&rdquo; "
+         "&mdash; the two links borrowed from the internal set and "
+         "inserted into this external chain."),
+        ("bāhiraphassanānatta",
+         "this discourse's Pali title, &ldquo;external diversity of "
+         "contact&rdquo; &mdash; naming a middle link, not the "
+         "chain's endpoint the English title highlights instead."),
+        ("saṅkappanānattaṁ paṭicca uppajjati phassanānattaṁ",
+         "&ldquo;diversity of thoughts gives rise to diversity of "
+         "contacts&rdquo; &mdash; the specific joint where the "
+         "internal and external chains are spliced together."),
+        ("navamaṁ",
+         "&ldquo;the ninth&rdquo; &mdash; the closing numbering tag, "
+         "marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the four middle sense doors between sight and idea. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.9:1.1-1.5"),
+        ("p", "&sect;2", "sn14.9:2.1-2.1"),
+        ("p", "&sect;3", "sn14.9:3.1-3.2"),
+        ("p", "&sect;4", "sn14.9:4.1-4.1"),
+    ],
+    quiz=[
+        {"q": "How many links does this discourse's chain contain, the longest given in this vagga?",
+         "opts": [
+             "Eight",
+             "Five, identical to SN 14.7",
+             "Three, matching the shortest chain in this vagga",
+             "Twelve"],
+         "correct": 0,
+         "expl": "Elements to perceptions to thoughts to contacts to feelings to desires to passions to searches to gain."},
+        {"q": "What two links does this discourse insert that SN 14.7's chain did not include?",
+         "opts": [
+             "Contact and feeling, borrowed from the internal set",
+             "Gain and search, both new to this discourse",
+             "Elements and perceptions",
+             "No new links are inserted; the chain is identical to SN 14.7"],
+         "correct": 0,
+         "expl": "Phassa and vedanā, first established in SN 14.2 and SN 14.4, now transplanted here."},
+        {"q": "What does this discourse's Pali title name, compared to Sujato's English title?",
+         "opts": [
+             "The Pali title names contact, a middle link; the English title names gain, the endpoint",
+             "Both titles name exactly the same link",
+             "The Pali title names gain; the English title names contact",
+             "Neither title corresponds to any link in the chain"],
+         "correct": 0,
+         "expl": "Bāhiraphassanānattasutta versus \"Diversity of Gains\" — two accurate but different-angled titles."},
+        {"q": "What new term appears in this discourse that hasn't been seen earlier in this vagga?",
+         "opts": [
+             "Lābha, gain, marking successful acquisition after searching",
+             "Dhātu, element, introduced for the first time here",
+             "Vedanā, feeling, introduced for the first time here",
+             "Phassa, contact, introduced for the first time here"],
+         "correct": 0,
+         "expl": "Contact and feeling reappear from earlier discourses; gain is genuinely new."},
+        {"q": "Does this discourse state the chain's reverse direction?",
+         "opts": [
+             "No — only the forward direction; reverse denial comes in the next discourse",
+             "Yes, fully denied in reverse here",
+             "Yes, fully affirmed in reverse here",
+             "The question of direction is irrelevant to this discourse"],
+         "correct": 0,
+         "expl": "The forward-then-denial pairing pattern continues, denial arriving in SN 14.10."},
+        {"q": "Where in the chain are contact and feeling inserted?",
+         "opts": [
+             "Between thoughts and desires",
+             "Before elements, at the very start of the chain",
+             "After gain, at the very end of the chain",
+             "They are not inserted; this discourse omits them entirely"],
+         "correct": 0,
+         "expl": "The specific splice point joining the internal and external chains together."},
+        {"q": "How many sense doors receive this discourse's full chain, without elision?",
+         "opts": [
+             "Two — sight and idea, with the middle four elided",
+             "All six, spelled out completely",
+             "None; the whole chain is elided throughout",
+             "Only idea, with sight also elided"],
+         "correct": 0,
+         "expl": "The same economy used consistently since SN 14.3."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Navamaṁ, \"the ninth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The ninth discourse of this vagga, one before its close."},
+    ],
+    marginalia=[
+        ("Eight links, the longest chain here", [
+            "elements all the way to gain &mdash;",
+            "internal and external links spliced together",
+        ]),
+        ("Two titles, two ends of one chain", [
+            "the Pali names contact, mid-chain &mdash;",
+            "the English names gain, the destination",
+        ]),
+        ("A term new to this whole vagga", [
+            "lābha, &ldquo;gain&rdquo; &mdash;",
+            "the point where searching finally succeeds",
+        ]),
+        ("One discourse from complete", [
+            "forward stated, denial still owed &mdash;",
+            "and the vagga's own close, one page away",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.8.html">SN 14.8 &middot; No Diversity of Searches</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-14.10.html">SN 14.10 &middot; No Diversity of Gains</a> '
+        "&mdash; the next discourse, adding reverse denial to this "
+        "same eight-step chain and closing this vagga."],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.10 — Dutiyabāhiraphassanānattasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 10, "Dutiyabāhiraphassanānatta", "No Diversity of Gains",
+    meta_title="SN 14.10 — No Diversity of Gains | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyabāhiraphassanānattasutta — closing Nānattavagga, "
+        "SN 14.9's eight-link chain fully denied in reverse, with "
+        "the chapter's own closing verse naming its two halves "
+        "\"the internal five\" and \"the external five.\" From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 14.9's eight-step chain restated with full "
+                 "reverse denial, closing the vagga's second "
+                 "five-discourse set"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the most elaborate single discourse in this "
+                       "vagga, closing everything built across the "
+                       "nine before it"),
+    ],
+    why=(
+        "This discourse closes Nānattavagga by doing for the "
+        "external, eight-link chain what SN 14.5 did for the "
+        "internal, three-link one: stating the full forward chain "
+        "together with every reverse denial, elements through gain "
+        "and back again. Following the discourse itself is a "
+        "closing verse (uddāna) that names the vagga's own "
+        "structure directly &mdash; ajjhattapañcaka, the internal "
+        "five, for SN 14.1&ndash;5, and bāhirapañcaka, the external "
+        "five, for SN 14.6&ndash;10 &mdash; confirming in the "
+        "source's own words the two-part shape this reading guide "
+        "has been tracing across all ten discourses."),
+    guide=[
+        ("Eight forward links, eight reverse denials", [
+            "Every link of SN 14.9's chain reappears here, now "
+            "matched with an explicit denial running the opposite "
+            "direction, from gain not producing search all the way "
+            "back to perception not producing elements."]),
+        ("The vagga's most elaborate single discourse", [
+            "Sixteen distinct causal claims &mdash; eight forward, "
+            "eight reverse &mdash; doubled again in principle across "
+            "six sense doors though only two are spelled out in "
+            "full, make this the most structurally dense discourse "
+            "in Nānattavagga."]),
+        ("The closing verse names the vagga's own shape", [
+            "The untranslated uddāna following this discourse "
+            "literally names ajjhattapañcaka and bāhirapañcaka "
+            "&mdash; the internal five and the external five "
+            "&mdash; confirming that the vagga's own tradition saw "
+            "exactly the two-part structure this reading guide has "
+            "traced discourse by discourse."]),
+        ("A closed system confirmed at every scale", [
+            "The two-link chain of SN 14.2&ndash;3, the three-link "
+            "chain of SN 14.4&ndash;5, the five-link chain of SN "
+            "14.7&ndash;8, and now the eight-link chain of SN "
+            "14.9&ndash;10 have all, without exception, been shown "
+            "to run one way only."]),
+        ("A hinge into the next saṃyutta", [
+            "This is the closing discourse of Nānattavagga, the "
+            "first of four vaggas in Dhātusaṃyutta; the vagga "
+            "immediately following moves from this repeating-formula "
+            "structure toward discourses addressed to specific "
+            "individuals and settings."]),
+    ],
+    terms=[
+        ("no lābhanānattaṁ paṭicca uppajjati pariyesanānānattaṁ",
+         "&ldquo;diversity of gains doesn't give rise to diversity "
+         "of searches&rdquo; &mdash; the first of eight denials, "
+         "starting from the chain's far end."),
+        ("ajjhattapañcaka",
+         "&ldquo;the internal five&rdquo; &mdash; the closing "
+         "verse's own name for SN 14.1&ndash;5, built from the "
+         "eighteen-element list."),
+        ("bāhirapañcaka",
+         "&ldquo;the external five&rdquo; &mdash; the closing "
+         "verse's own name for SN 14.6&ndash;10, built from the "
+         "six-element list."),
+        ("nānattavaggo paṭhamo",
+         "&ldquo;the first chapter on diversity&rdquo; &mdash; the "
+         "untranslated line formally closing this vagga, immediately "
+         "before the uddāna verse itself."),
+        ("dasamaṁ",
+         "&ldquo;the tenth&rdquo; &mdash; the closing numbering tag "
+         "marking this discourse as the vagga's last."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the four middle sense doors between sight and idea. "
+        "The chapter's closing verse of discourse titles "
+        "(ajjhattapañcaka, bāhirapañcaka) is not translated in the "
+        "source and is not quoted here. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.10:1.1-1.18"),
+        ("p", "&sect;2", "sn14.10:2.1-2.14"),
+        ("p", "&sect;3", "sn14.10:3.1-3.4"),
+        ("p", "&sect;4", "sn14.10:4.1-4.9"),
+    ],
+    quiz=[
+        {"q": "What does this discourse do with SN 14.9's eight-step chain?",
+         "opts": [
+             "Restates it with a full reverse denial matching every forward link",
+             "Shortens it back down to two steps",
+             "Replaces gain with an entirely new final term",
+             "Leaves the chain exactly as SN 14.9 gave it, unchanged"],
+         "correct": 0,
+         "expl": "Eight forward links, now matched with eight explicit denials."},
+        {"q": "What two terms does the vagga's own closing verse use to name its two halves?",
+         "opts": [
+             "Ajjhattapañcaka and bāhirapañcaka — the internal five and the external five",
+             "Paṭhamavagga and dutiyavagga — the first and second chapters",
+             "Nānattavagga and ekattavagga — diversity and unity",
+             "The closing verse gives no names to either half"],
+         "correct": 0,
+         "expl": "Confirmed directly in the untranslated uddāna following this discourse."},
+        {"q": "Is the closing verse (uddāna) translated in the source and quoted in this reading guide?",
+         "opts": [
+             "No — it is untranslated in the source and not quoted here",
+             "Yes, and it is quoted in full in the text section",
+             "Only half of it is translated",
+             "The closing verse does not exist for this vagga"],
+         "correct": 0,
+         "expl": "Following the same convention used for untranslated closing material elsewhere in this collection."},
+        {"q": "How many discourses make up ajjhattapañcaka, the internal five?",
+         "opts": [
+             "SN 14.1 through 14.5",
+             "SN 14.6 through 14.10",
+             "SN 14.1 through 14.10, all ten discourses",
+             "Only SN 14.1, standing alone"],
+         "correct": 0,
+         "expl": "Built from the eighteen-element internal list first given in SN 14.1."},
+        {"q": "What formally closes the vagga, immediately before the closing verse itself?",
+         "opts": [
+             "The untranslated line \"nānattavaggo paṭhamo,\" \"the first chapter on diversity\"",
+             "A dedication of merit spoken by the Buddha",
+             "A question left deliberately unanswered",
+             "Nothing; the vagga simply ends after the last discourse"],
+         "correct": 0,
+         "expl": "A formal cataloguing line, distinct from the uddāna verse that follows it."},
+        {"q": "Across every chain given in this vagga — two, three, five, and eight links long — what has consistently held true?",
+         "opts": [
+             "Each chain runs one way only, with reverse causation always explicitly denied",
+             "Every chain eventually loops back to its own starting point",
+             "Only the longest chain includes reverse denial",
+             "Reverse causation is affirmed in half the discourses"],
+         "correct": 0,
+         "expl": "A closed, one-directional system confirmed at every scale this vagga tests."},
+        {"q": "What structural shift does the vagga immediately following Nānattavagga introduce?",
+         "opts": [
+             "A move from repeating-formula discourses toward ones addressed to specific individuals and settings",
+             "An identical repeating-formula structure, unchanged from this vagga",
+             "A return to verse rather than prose",
+             "This is the final vagga of the entire saṃyutta"],
+         "correct": 0,
+         "expl": "Nānattavagga is only the first of four vaggas making up Dhātusaṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with every discourse in this vagga."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dasamaṁ, \"the tenth\"",
+             "Navamaṁ, \"the ninth\"",
+             "Ekādasamaṁ, \"the eleventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The tenth and final discourse of Nānattavagga."},
+    ],
+    marginalia=[
+        ("Eight links, eight denials, complete", [
+            "gain back to search, back to elements &mdash;",
+            "the longest closed loop denied in this vagga",
+        ]),
+        ("A name given by the chapter itself", [
+            "ajjhattapañcaka, bāhirapañcaka &mdash;",
+            "the internal five, the external five",
+        ]),
+        ("A verse present but not translated", [
+            "the closing uddāna, left untranslated &mdash;",
+            "described here, not quoted as text",
+        ]),
+        ("Ten discourses, one shape confirmed", [
+            "two-, three-, five-, eight-link chains &mdash;",
+            "every one of them running one way only",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.9.html">SN 14.9 &middot; Diversity of Gains</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the forward chain this discourse denies in reverse.",
+        '<a href="sn-14.11.html">SN 14.11 &middot; Seven Elements</a> '
+        "&mdash; the next discourse, opening this saṃyutta's second "
+        "vagga."],
+)
