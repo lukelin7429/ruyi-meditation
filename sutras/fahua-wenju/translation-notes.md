@@ -98,3 +98,18 @@ Confirmed from the source text: the rest of the disciple roll call (憍梵波提
 | 通序 / 別序 | the general prologue / the specific prologue | the specific prologue's five parts frame the six auspicious signs |
 | 六瑞 | the six auspicious signs | entering samādhi, the rain of the four flowers, the sixfold earthquake, the assembly's joy, the emission of light, the light illuminating other worlds |
 | 四眾 | the fourfold assembly | typology of hearers by capacity, developed in the "distinct prologue" discussion |
+
+## Fascicle 3 — Mañjuśrī's answer, and the opening of "Skillful Means"
+
+Confirmed from the source text: the close of 序品 (Mañjuśrī's four-part answer by conjecture, recalling the ancient buddha Candrasūryapradīpa/Varaprabha, and Mañjuśrī's own four counter-doubts); then the opening and bulk of 方便品 ("Skillful Means") — the three exegeses of the chapter title (方=法/便=用, 方=門, 方=祕/便=妙), Zhiyi's survey and rejection of other masters' five-period schemes, the fourfold provisional/real distinction, the Buddha's praise of the buddhas' "twin wisdoms" (權實二智) first stated then praised as beyond words, the fourfold interpretation of the ten suchnesses, the verse section, and the assembly's rising doubt that builds to Śāriputra's three requests that the Buddha speak.
+
+| Chinese | English | Notes |
+|---|---|---|
+| 日月燈明佛 | Candrasūryapradīpa Buddha | also glossed "Varaprabha" for the eponymous bodhisattva-disciple in the same story |
+| 惟忖答 / 略曾見答 / 廣曾見答 / 分明判答 | the answer by conjecture / the answer citing a brief prior sighting / the answer citing a broad prior sighting / the answer that judges and makes plain | Mañjuśrī's fourfold answer structure |
+| 方便品 | "Skillful Means" | chapter title; threefold etymological gloss (法/用, 門, 祕/妙) given in full since it is original to this passage |
+| 權 / 實 | the provisional / the real | recurs constantly through this and later fascicles |
+| 權實二智 | the twin wisdoms of the provisional and the real | |
+| 開三顯一 / 開近顯遠 | opening the three to reveal the one / opening the near to reveal the distant | |
+| 塔婆 | stūpa | glossed by Zhiyi as "square mound" |
+| 正法華 | the Zhengfahua | an earlier (Dharmarakṣa) translation of the Lotus Sūtra, cited for a variant chapter title 善權品 |
