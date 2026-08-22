@@ -113,3 +113,15 @@ Confirmed from the source text: the close of 序品 (Mañjuśrī's four-part ans
 | 開三顯一 / 開近顯遠 | opening the three to reveal the one / opening the near to reveal the distant | |
 | 塔婆 | stūpa | glossed by Zhiyi as "square mound" |
 | 正法華 | the Zhengfahua | an earlier (Dharmarakṣa) translation of the Lotus Sūtra, cited for a variant chapter title 善權品 |
+
+## Fascicle 4 — The withdrawal of the five thousand, and the verse section
+
+Confirmed from the source text: the Buddha's answer to Śāriputra's three requests; the withdrawal of the five thousand arrogant monks, nuns, laymen, and laywomen who cannot bear to hear the teaching; the prose exposition of the five turbidities (五濁) and why the buddhas' words are never false; and the entire 121-line verse (偈) section of 方便品 — buddhas in general, the past/future/present buddha "gates," the five vehicles, offerings and the formula "Namo," and finally the extended verse groundwork Zhiyi lays for the burning-house parable still to come in 譬喻品, including a survey of three masters' competing schemes for that parable and detailed etymologies of the six destinies.
+
+| Chinese | English | Notes |
+|---|---|---|
+| 五濁 | the five turbidities | of the kalpa / of views / of afflictions / of beings / of lifespan |
+| 增上慢 | overweening pride | the fault of the five thousand who withdraw |
+| 正因 / 了因 / 緣因 [佛性] | the correct cause / the revealing cause / the conditioning cause [of buddha-nature] | |
+| 泥犁 | niraya | transliteration for hell/the hells |
+| 南無 | Namo | kept transliterated, as elsewhere on this site |
