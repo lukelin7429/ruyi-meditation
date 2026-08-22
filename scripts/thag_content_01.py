@@ -26504,3 +26504,2093 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.11 — Mah&amacr;cunda
+# --------------------------------------------------------------------------- #
+page(
+    2, 11, "Mah&amacr;cunda", "Mah&amacr;cunda",
+    meta_title="Thag 2.11 — Mahācunda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Mahācunda's verse opening Chapter Two, a causal chain from "
+        "eagerness to learn through to happiness, with a fallback "
+        "instruction. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twos &middot; Chapter Two &middot; Poem 1 of 10",
+    glance=[
+        ("Setting", "No narrative setting; two four-line verses, "
+                    "without a translated attribution, opening "
+                    "Chapter Two"),
+        ("Speaker", "Mah&amacr;cunda, teaching in general rather than "
+                    "declaring his own attainment"),
+        ("Form", "Two four-line verses &mdash; a causal chain, then "
+                 "practical instruction with a built-in fallback"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a tight, almost syllogistic chain of clauses"),
+    ],
+    why=(
+        "Mahācunda opens Chapter Two with a five-step causal chain "
+        "&mdash; eagerness to learn, growing learning, growing "
+        "wisdom, knowing the goal, and happiness &mdash; then gives "
+        "practical instruction: seek remote lodgings, and if that "
+        "doesn't bring enjoyment, fall back on living in the "
+        "Saṅgha instead."),
+    guide=[
+        ("A causal chain, link by link", [
+            "The first verse builds a five-term chain with no gaps: "
+            "eagerness to learn (sussūsā) makes learning grow; "
+            "learning makes wisdom grow; wisdom lets you know the "
+            "goal; knowing the goal brings happiness. Each clause "
+            "hands off directly to the next, an almost syllogistic "
+            "structure unlike the imagistic verses common elsewhere "
+            "in this collection."]),
+        ("Instruction with a built-in fallback", [
+            "The second verse gives direct advice &mdash; frequent "
+            "remote lodgings, practice release from the fetters "
+            "&mdash; but doesn't stop there: it explicitly plans for "
+            "failure. &lsquo;If you don't find enjoyment there, live "
+            "in the Saṅgha, self-protected and mindful&rsquo; is a "
+            "named fallback option, rather than presenting solitary "
+            "practice as the only path."]),
+        ("A didactic opener, not a personal declaration", [
+            "Chapter One opened with Uttara's own first-person "
+            "declaration of impermanence and release (Thag 2.1). "
+            "This chapter opens differently: Mahācunda's verse "
+            "teaches in general terms, without a first-person claim "
+            "of his own attainment anywhere in either verse."]),
+        ("A common name, without a confirmed identity here", [
+            "&lsquo;Mahācunda&rsquo; is a fairly common name in early "
+            "Buddhist texts. Nothing in this poem or in bilara-data's "
+            "comments identifies which Mahācunda this is, and this "
+            "site does not yet have a page confirming any particular "
+            "identification &mdash; this guide leaves the question "
+            "open rather than asserting a match."]),
+    ],
+    terms=[
+        ("suss&umacr;s&amacr;",
+         "&ldquo;eagerness to learn&rdquo; &mdash; the chain's "
+         "starting point, opening the first verse."),
+        ("pa&ntilde;&ntilde;&amacr;",
+         "&ldquo;wisdom&rdquo; &mdash; the chain's middle term, grown "
+         "from learning and leading to knowing the goal."),
+        ("pant&amacr;ni sen&amacr;sanani",
+         "&ldquo;remote lodgings&rdquo; &mdash; the first practical "
+         "instruction of the second verse."),
+        ("sa&#7745;yojanavippamokkha&#7745;",
+         "&ldquo;release from the fetters&rdquo; &mdash; what the "
+         "second verse says to practice for, alongside remote "
+         "lodgings."),
+        ("rakkhitatto satim&amacr;",
+         "&ldquo;self-protected and mindful&rdquo; &mdash; the "
+         "manner in which the poem's fallback option, living in the "
+         "Saṅgha, should be undertaken."),
+    ],
+    text_intro=(
+        "The text in full: two verses, without a translated "
+        "attribution. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.11:1.1-1.4"),
+        ("p", "&sect;2", "thag2.11:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does the first verse's five-term chain begin with?",
+         "opts": [
+             "Eagerness to learn",
+             "A rainy-season retreat",
+             "A place name",
+             "A monastic rule"],
+         "correct": 0,
+         "expl": "Sussūsā, the chain's starting point."},
+        {"q": "According to the chain, what does learning lead to?",
+         "opts": [
+             "Nothing further",
+             "Wisdom growing",
+             "A loss of confidence",
+             "A journey"],
+         "correct": 1,
+         "expl": "Each term hands off directly to the next."},
+        {"q": "What does the second verse instruct first?",
+         "opts": [
+             "Giving a public sermon",
+             "Building a hut of palm leaves",
+             "Frequenting remote lodgings and practicing release from the fetters",
+             "Fasting completely"],
+         "correct": 2,
+         "expl": "Direct, practical advice opens the second verse."},
+        {"q": "What fallback does the poem name if remote lodgings don't bring enjoyment?",
+         "opts": [
+             "Returning to lay life",
+             "No fallback is given — solitary practice is the only path",
+             "Living in the Saṅgha, self-protected and mindful",
+             "Seeking out a rain god"],
+         "correct": 2,
+         "expl": "An explicit alternative, not just one prescribed path."},
+        {"q": "How does this poem's opening compare to Thag 2.1, the previous chapter's own opener?",
+         "opts": [
+             "They are identical in content",
+             "Thag 2.1 is a first-person declaration of attainment; this poem teaches in general terms without such a claim",
+             "This poem is a first-person declaration and Thag 2.1 is general instruction",
+             "Neither poem makes any claim at all"],
+         "correct": 1,
+         "expl": "Two different ways of opening a chapter."},
+        {"q": "Does this guide confirm which historical Mahācunda spoke this verse?",
+         "opts": [
+             "Yes, with full confidence",
+             "The poem itself states this explicitly",
+             "It confirms this is the Buddha's own cousin",
+             "No — the name is fairly common, and nothing here confirms a specific identity"],
+         "correct": 3,
+         "expl": "An honest gap, left open rather than asserted."},
+        {"q": "What does 'saṁyojanavippamokkhaṁ' mean?",
+         "opts": [
+             "A type of hut",
+             "A rainy season",
+             "A monastic robe",
+             "Release from the fetters"],
+         "correct": 3,
+         "expl": "What the second verse says to practice for."},
+        {"q": "What kind of structure does the first verse use?",
+         "opts": [
+             "A narrative with named events",
+             "A dialogue between two speakers",
+             "An almost syllogistic chain, each clause leading directly to the next",
+             "A single unexplained image"],
+         "correct": 2,
+         "expl": "A tightly linked five-term chain, distinct from the imagistic style common elsewhere."},
+        {"q": "What does knowing the goal bring, according to the chain's final link?",
+         "opts": [
+             "Happiness",
+             "Confusion",
+             "Wealth",
+             "Fame"],
+         "correct": 0,
+         "expl": "Ñāto attho sukhāvaho — the chain's closing term."},
+        {"q": "Where does this poem fall in the Book of the Twos?",
+         "opts": [
+             "The collection's final poem",
+             "The opening poem of Chapter Two",
+             "The closing poem of Chapter One",
+             "It is not part of the Book of the Twos"],
+         "correct": 1,
+         "expl": "Opening the book's second chapter, following Chapter One's ten poems."},
+    ],
+    marginalia=[
+        ("A chain, link by link", [
+            "eagerness to learning,",
+            "learning to wisdom, wisdom to the goal"
+        ]),
+        ("Instruction, with a fallback", [
+            "seek remote lodgings —",
+            "or live in the Saṅgha instead"
+        ]),
+        ("A didactic opener", [
+            "not a personal claim,",
+            "unlike Chapter One's own start"
+        ]),
+        ("A common name, left open", [
+            "no comment confirms",
+            "which Mahācunda this is"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-2.10.html">Thag 2.10 &mdash; Vasabha</a> '
+        "&mdash; the poem immediately before this one, closing "
+        "Chapter One.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.12 — Jotid&amacr;sa
+# --------------------------------------------------------------------------- #
+page(
+    2, 12, "Jotid&amacr;sa", "Jotid&amacr;sa",
+    meta_title="Thag 2.12 — Jotidāsa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jotidāsa's verse on harsh deeds returning in kind, and being "
+        "heir to whatever one does. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twos &middot; Chapter Two &middot; Poem 2 of 10",
+    glance=[
+        ("Setting", "No narrative setting; an extended six-line first "
+                    "verse followed by a four-line second verse"),
+        ("Speaker", "Jotid&amacr;sa, teaching on the consequences of "
+                    "harsh action"),
+        ("Form", "A six-line verse, longer than this book's usual "
+                 "four-line unit, followed by a standard four-line "
+                 "verse"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "one obscure word, flagged as uncertain even "
+                       "by the translator"),
+    ],
+    why=(
+        "Jotidāsa describes people who act harshly &mdash; attacking, "
+        "binding, hurting others in every way &mdash; and states that "
+        "they are treated the same way in return, since their deeds "
+        "don't vanish; the second verse generalizes this into a "
+        "direct claim that everyone is heir to whatever deed, good "
+        "or bad, they perform."),
+    guide=[
+        ("A longer first verse, six lines instead of four", [
+            "This poem's first verse runs to six lines rather than "
+            "this book's usual four &mdash; itemizing harsh acts "
+            "(attacking, binding with rope, hurting people &lsquo;in "
+            "all kinds of ways&rsquo;) before stating the "
+            "consequence: those who act this way &lsquo;are treated "
+            "in the same way&rsquo;, since &lsquo;their deeds don't "
+            "vanish&rsquo;. Chapter Two's poems vary more in length "
+            "than Chapter One's did; this is the first instance."]),
+        ("A flagged translation uncertainty", [
+            "Sujato's own comment on this poem's opening word, "
+            "veṭhamissena, states plainly that &lsquo;the reading and "
+            "derivation... are unclear&rsquo;, working out only a "
+            "probable sense &mdash; some kind of strong twisted "
+            "material used for binding, i.e. rope. This is a rare "
+            "moment where the translator's uncertainty is stated "
+            "directly rather than resolved silently."]),
+        ("Heir to one's own deeds", [
+            "The second verse generalizes from the first verse's "
+            "specific harsh acts to a universal claim: whatever deed "
+            "a person does, good or bad, they are &lsquo;heir to each "
+            "and every deed they do&rsquo;. This site's own MN 135, "
+            "&lsquo;The Shorter Analysis of Deeds&rsquo;, develops "
+            "the same principle at length &mdash; &lsquo;sentient "
+            "beings are the owners of their deeds and heir to their "
+            "deeds&rsquo; &mdash; unpacked there into seven paired "
+            "examples."]),
+    ],
+    terms=[
+        ("ve&#7789;hamissena",
+         "an obscure term, likely referring to twisted rope used for "
+         "binding &mdash; its exact reading and derivation are "
+         "flagged as unclear even in Sujato's own comment."),
+        ("pharus&umacr;pakkam&amacr;",
+         "&ldquo;hurting in harsh ways&rdquo; &mdash; part of the "
+         "first verse's inventory of harsh actions."),
+        ("kammaṁ na panassati",
+         "&ldquo;deeds don't vanish&rdquo; &mdash; the first verse's "
+         "closing claim about consequence."),
+        ("kaly&amacr;&#7751;a&#7745; ... p&amacr;paka&#7745;",
+         "&ldquo;good... bad&rdquo; &mdash; the two categories of "
+         "deed the second verse says everyone is heir to."),
+        ("d&amacr;y&amacr;do",
+         "&ldquo;heir&rdquo; &mdash; the term describing one's "
+         "relationship to one's own deeds, echoed in this site's own "
+         "MN 135."),
+    ],
+    text_intro=(
+        "The text in full: a six-line verse followed by a four-line "
+        "verse. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.12:1.1-1.6"),
+        ("p", "&sect;2", "thag2.12:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does the first verse describe people doing to others?",
+         "opts": [
+             "Praising them",
+             "Teaching them the Dhamma",
+             "Ignoring them entirely",
+             "Attacking, binding, and hurting them in various ways"],
+         "correct": 3,
+         "expl": "An inventory of harsh acts opens the poem."},
+        {"q": "What does the verse say happens to those who act this harshly?",
+         "opts": [
+             "Nothing happens to them",
+             "They are treated in the same way, since their deeds don't vanish",
+             "They are rewarded",
+             "They are forgiven immediately"],
+         "correct": 1,
+         "expl": "Consequence tracks the deed."},
+        {"q": "How long is this poem's first verse, compared to the book's usual unit?",
+         "opts": [
+             "Four lines, the standard length",
+             "Two lines, shorter than usual",
+             "Six lines, longer than the usual four",
+             "Twenty lines"],
+         "correct": 2,
+         "expl": "The first instance in Chapter Two of a poem varying from the standard length."},
+        {"q": "What does Sujato's own comment say about the word 'veṭhamissena'?",
+         "opts": [
+             "That it is a common, well-understood term",
+             "That it refers to a type of hut",
+             "The comment gives no information at all",
+             "That its reading and derivation are unclear"],
+         "correct": 3,
+         "expl": "A rare moment of stated translation uncertainty."},
+        {"q": "What does the second verse claim about deeds, good or bad?",
+         "opts": [
+             "That only bad deeds have consequences",
+             "That deeds have no lasting effect",
+             "That a person is heir to each and every deed they do",
+             "That deeds only matter for monks"],
+         "correct": 2,
+         "expl": "A universal claim, generalizing from the first verse's specific acts."},
+        {"q": "What does this site's own MN 135 develop at greater length?",
+         "opts": [
+             "An unrelated topic",
+             "The same principle of being owner and heir of one's own deeds",
+             "A story about a rain god",
+             "A story about a monkey"],
+         "correct": 1,
+         "expl": "Unpacked there into seven paired examples."},
+        {"q": "What does 'dāyādo' mean?",
+         "opts": [
+             "Heir",
+             "A type of hut",
+             "A rainy season",
+             "A monastic robe"],
+         "correct": 0,
+         "expl": "Describing one's relationship to one's own deeds."},
+        {"q": "Does this poem's second verse limit its claim to only harsh or violent deeds?",
+         "opts": [
+             "No — it generalizes to any deed, good or bad",
+             "Yes, only violent deeds are covered",
+             "Yes, only good deeds are covered",
+             "The verse makes no general claim at all"],
+         "correct": 0,
+         "expl": "A broader principle than the first verse's specific examples."},
+        {"q": "What is 'pharusūpakkamā' part of?",
+         "opts": [
+             "A description of a rain-roofed house",
+             "A list of monastic rules",
+             "A place name",
+             "The first verse's inventory of harsh actions"],
+         "correct": 3,
+         "expl": "One term among several describing harsh treatment of others."},
+        {"q": "Where does this poem fall in Chapter Two?",
+         "opts": [
+             "The chapter's opening poem",
+             "The chapter's second poem",
+             "The chapter's closing poem",
+             "It is not part of Chapter Two"],
+         "correct": 1,
+         "expl": "Following Mahācunda's opening poem."},
+    ],
+    marginalia=[
+        ("Harsh acts, itemized", [
+            "attacking, binding —",
+            "'their deeds don't vanish'"
+        ]),
+        ("A word even the translator flags", [
+            "veṭhamissena —",
+            "reading and derivation unclear"
+        ]),
+        ("Heir to every deed", [
+            "good or bad,",
+            "the same principle as MN 135"
+        ]),
+        ("A longer first verse", [
+            "six lines, not four —",
+            "Chapter Two's first such variation"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-135.html">MN 135 &mdash; The '
+        "Shorter Analysis of Deeds</a> &mdash; the same owner-and-heir "
+        "principle, developed at length.",
+        '<a href="thag-2.11.html">Thag 2.11 &mdash; Mah&amacr;cunda</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.13 — Hera&ntilde;&ntilde;ak&amacr;ni
+# --------------------------------------------------------------------------- #
+page(
+    2, 13, "Hera&ntilde;&ntilde;ak&amacr;ni", "Hera&ntilde;&ntilde;ak&amacr;ni",
+    meta_title="Thag 2.13 — Heraññakāni | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Heraññakāni's verse on life wasting away like water in tiny "
+        "streams, and the fool blind to bad deeds' bitter result. "
+        "From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twos &middot; Chapter Two &middot; Poem 3 of 10",
+    glance=[
+        ("Setting", "No narrative setting; two four-line verses, "
+                    "without a translated attribution"),
+        ("Speaker", "Hera&ntilde;&ntilde;ak&amacr;ni, on impermanence "
+                    "and consequence"),
+        ("Form", "Two four-line verses &mdash; an impermanence "
+                 "simile, then a warning about unrealized "
+                 "consequence"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a plain warning, without narrative"),
+    ],
+    why=(
+        "Heraññakāni pictures life wasting away like water in tiny "
+        "streams, days and nights rushing by, then warns that a fool "
+        "doing bad deeds doesn't realize it now &mdash; the result "
+        "will be bitter later."),
+    guide=[
+        ("Life, wasting away like a tiny stream", [
+            "The first verse states that days and nights &lsquo;rush "
+            "by&rsquo; and life is &lsquo;cut short&rsquo;, then "
+            "supplies its central image: mortal life wastes away "
+            "&lsquo;like the water in tiny streams&rsquo; &mdash; not "
+            "a great river in flood, but a small, easily-depleted "
+            "watercourse, emphasizing how quickly and quietly a "
+            "lifespan can run dry."]),
+        ("Bad deeds, and a delayed reckoning", [
+            "The second verse turns from impermanence to "
+            "consequence: a fool doing bad deeds &lsquo;doesn't "
+            "realize&rsquo; what's coming, since the bitterness and "
+            "bad result only arrive &lsquo;later on&rsquo;. The "
+            "danger named here isn't the deed itself but the gap "
+            "between doing it and recognizing its cost."]),
+        ("A second poem on consequence, back to back", [
+            "This is the second poem in a row to focus on the "
+            "workings of kamma: Thag 2.12 (Jotidāsa) stated that "
+            "deeds &lsquo;don't vanish&rsquo; and that everyone is "
+            "heir to what they do; this poem adds the further point "
+            "that the fool caught in the act often can't see this "
+            "at all, only discovering the cost once it's already "
+            "&lsquo;later on&rsquo;."]),
+        ("A name possibly tied to a trade", [
+            "Heraññakāni's name relates to herañña, &lsquo;gold&rsquo; "
+            "or &lsquo;treasury&rsquo;, and may point to a family "
+            "occupation such as money-changing or goldsmithing "
+            "&mdash; though the poem itself says nothing about his "
+            "background, and this guide treats the etymology as "
+            "background information only, not a claim the text makes "
+            "about him."]),
+    ],
+    terms=[
+        ("ahoratt&amacr;",
+         "&ldquo;days and nights&rdquo; &mdash; what the first verse "
+         "says &lsquo;rush by&rsquo;, opening the poem."),
+        ("kunnad&imacr;na&#7745;va odaka&#7745;",
+         "&ldquo;like the water in tiny streams&rdquo; &mdash; the "
+         "central simile for how mortal life wastes away."),
+        ("b&amacr;lo",
+         "&ldquo;fool&rdquo; &mdash; who the second verse says fails "
+         "to realize the consequence of bad deeds while doing them."),
+        ("ka&#7789;uka&#7745;",
+         "&ldquo;bitter&rdquo; &mdash; what the second verse says "
+         "the result will be, once it finally arrives."),
+        ("vip&amacr;ko",
+         "&ldquo;result&rdquo; &mdash; the standard term for the "
+         "ripening of an action, named directly in the poem's "
+         "closing line."),
+    ],
+    text_intro=(
+        "The text in full: two verses, without a translated "
+        "attribution. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.13:1.1-1.4"),
+        ("p", "&sect;2", "thag2.13:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does the first verse compare mortal life to?",
+         "opts": [
+             "A great river in flood",
+             "An ocean that never empties",
+             "Nothing — no comparison is given",
+             "Water in tiny streams, easily depleted"],
+         "correct": 3,
+         "expl": "A small, quietly-depleted watercourse, not a dramatic flood."},
+        {"q": "What does the second verse say a fool doesn't realize?",
+         "opts": [
+             "The location of good teachers",
+             "How to meditate",
+             "The time of day",
+             "The consequence of the bad deeds they're doing"],
+         "correct": 3,
+         "expl": "Blindness to consequence while the deed is being done."},
+        {"q": "When does the poem say the bitter result actually arrives?",
+         "opts": [
+             "Immediately",
+             "Never",
+             "Later on",
+             "Before the deed is done"],
+         "correct": 2,
+         "expl": "A delayed reckoning, not an instant one."},
+        {"q": "How does this poem relate to Thag 2.12, the poem immediately before it?",
+         "opts": [
+             "No relation at all",
+             "This poem contradicts Thag 2.12 entirely",
+             "Both concern kamma — 2.12 on deeds not vanishing, this poem on the fool's blindness to the coming cost",
+             "They are about entirely unrelated topics"],
+         "correct": 2,
+         "expl": "Two consecutive poems on the workings of kamma, from different angles."},
+        {"q": "What does the guide say about Heraññakāni's name?",
+         "opts": [
+             "It confidently states he was a goldsmith",
+             "It notes a possible link to gold or treasury as background only, not a claim the poem itself makes",
+             "It states the name has no meaning",
+             "It claims the name proves a family relationship to another elder"],
+         "correct": 1,
+         "expl": "Etymology offered cautiously, not asserted as textual fact."},
+        {"q": "What does 'vipāko' mean?",
+         "opts": [
+             "Result",
+             "A type of hut",
+             "A rainy season",
+             "A monastic robe"],
+         "correct": 0,
+         "expl": "The standard term for the ripening of an action."},
+        {"q": "What does the first verse say about days and nights?",
+         "opts": [
+             "That they rush by",
+             "That they never change",
+             "Nothing is said about them",
+             "That they are the same as each other"],
+         "correct": 0,
+         "expl": "The poem's opening observation about time's passage."},
+        {"q": "What does 'kaṭukaṁ' mean?",
+         "opts": [
+             "Bitter",
+             "Sweet",
+             "A type of hut",
+             "A monastic robe"],
+         "correct": 0,
+         "expl": "Describing the delayed result of bad deeds."},
+        {"q": "Does this poem include an extended narrative?",
+         "opts": [
+             "Yes, a lengthy story",
+             "No — just two plain verses, without narrative",
+             "Yes, a dialogue between two speakers",
+             "Yes, a detailed autobiography"],
+         "correct": 1,
+         "expl": "A direct warning, stated without story."},
+        {"q": "Where does this poem fall in Chapter Two?",
+         "opts": [
+             "The chapter's opening poem",
+             "The chapter's third poem",
+             "The chapter's closing poem",
+             "It is not part of Chapter Two"],
+         "correct": 1,
+         "expl": "Following Mahācunda and Jotidāsa."},
+    ],
+    marginalia=[
+        ("Life, like a tiny stream", [
+            "days and nights rush by,",
+            "wasting away quietly"
+        ]),
+        ("A fool, blind to the cost", [
+            "doing bad deeds",
+            "without realizing"
+        ]),
+        ("Bitter, but later", [
+            "the result arrives",
+            "only after the fact"
+        ]),
+        ("A name, maybe a trade", [
+            "gold or treasury —",
+            "background, not textual claim"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.13/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-2.12.html">Thag 2.12 &mdash; Jotid&amacr;sa</a> '
+        "&mdash; the poem immediately before this one, a second "
+        "consecutive poem on the workings of kamma.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.14 — Somamitta
+# --------------------------------------------------------------------------- #
+page(
+    2, 14, "Somamitta", "Somamitta",
+    meta_title="Thag 2.14 — Somamitta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Somamitta's verse comparing reliance on a lazy person to "
+        "clambering onto a little log in a great sea. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Twos &middot; Chapter Two &middot; Poem 4 of 10",
+    glance=[
+        ("Setting", "No narrative setting; an extended six-line first "
+                    "verse followed by a four-line second verse"),
+        ("Speaker", "Somamitta, warning against reliance on lazy "
+                    "companions"),
+        ("Form", "A six-line verse building an extended simile, "
+                 "followed by a four-line instruction"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a vivid extended simile, plainly applied"),
+    ],
+    why=(
+        "Somamitta pictures someone lost in a great sea who clambers "
+        "onto a little log and sinks anyway, then applies the image "
+        "directly: a person who otherwise lives well sinks too, by "
+        "relying on a lazy companion &mdash; so seek out the noble "
+        "ones instead, secluded, energetic, and practicing "
+        "absorption."),
+    guide=[
+        ("A sinking log, in a great sea", [
+            "The first verse spends its opening lines on pure image: "
+            "lost in the middle of a great sea, clambering onto a "
+            "little log offers no real safety &mdash; &lsquo;you'll "
+            "sink&rsquo; regardless. Only in the second half of the "
+            "verse does the poem name what the log stands for: "
+            "relying on a lazy person, which drags down even someone "
+            "who &lsquo;lives well&rsquo; on their own."]),
+        ("A second poem with an extended first verse", [
+            "Like Thag 2.12 (Jotidāsa) two poems earlier, this poem's "
+            "first verse runs to six lines rather than the book's "
+            "usual four &mdash; the second such variation in this "
+            "chapter, both times using the extra length to build out "
+            "an image before applying it."]),
+        ("Direct instruction: who to dwell with instead", [
+            "The second verse gives the positive counterpart: dwell "
+            "with the noble ones, &lsquo;secluded and "
+            "determined&rsquo;, &lsquo;always energetic&rsquo;, "
+            "&lsquo;astute&rsquo;, and practicing absorption (jhāyī) "
+            "&mdash; a specific, named alternative rather than just a "
+            "warning to avoid bad company."]),
+        ("Good company, elsewhere on this site", [
+            "This site's own SN 3.18, &lsquo;Good Friends&rsquo;, "
+            "records the Buddha correcting Ānanda's suggestion that "
+            "good friendship is only &lsquo;half the spiritual "
+            "life&rsquo; &mdash; insisting instead that it is the "
+            "whole of it. This poem's sea-and-log simile makes a "
+            "matching point from the opposite direction: the cost of "
+            "bad company, rather than the value of good."]),
+    ],
+    terms=[
+        ("mahaṇṇave",
+         "&ldquo;in a great sea&rdquo; &mdash; the setting for this "
+         "poem's opening simile."),
+        ("kus&imacr;ta&#7745;",
+         "&ldquo;a lazy person&rdquo; &mdash; what the little log "
+         "stands for, once the simile is applied."),
+        ("pariv&imacr;jjeyya",
+         "&ldquo;should avoid&rdquo; &mdash; the direct instruction "
+         "closing the first verse."),
+        ("&amacr;raddhav&imacr;riyehi",
+         "&ldquo;always energetic&rdquo; &mdash; one of several "
+         "qualities named for the noble companions to seek out "
+         "instead."),
+        ("jh&amacr;yibhi",
+         "&ldquo;who practice absorption&rdquo; &mdash; the closing "
+         "quality named for the companions this poem recommends."),
+    ],
+    text_intro=(
+        "The text in full: a six-line verse followed by a four-line "
+        "verse. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.14:1.1-1.6"),
+        ("p", "&sect;2", "thag2.14:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What happens if you clamber onto a little log lost in a great sea, according to the first verse?",
+         "opts": [
+             "You are rescued immediately",
+             "The log grows larger",
+             "Nothing happens",
+             "You'll sink anyway"],
+         "correct": 3,
+         "expl": "No real safety in a small log against a great sea."},
+        {"q": "What does the little log stand for, once the simile is applied?",
+         "opts": [
+             "A monastic robe",
+             "A place of worship",
+             "A type of food",
+             "Relying on a lazy person"],
+         "correct": 3,
+         "expl": "Even someone who otherwise lives well sinks by relying on laziness."},
+        {"q": "How long is this poem's first verse?",
+         "opts": [
+             "Four lines, the standard length",
+             "Two lines",
+             "Six lines, extended beyond the usual four",
+             "Twenty lines"],
+         "correct": 2,
+         "expl": "The second such extension in this chapter, after Thag 2.12."},
+        {"q": "What qualities does the second verse name for the companions this poem recommends?",
+         "opts": [
+             "Wealth and status",
+             "Fame and popularity",
+             "No qualities are named",
+             "Secluded, determined, energetic, astute, and practicing absorption"],
+         "correct": 3,
+         "expl": "A specific, positive alternative rather than only a warning."},
+        {"q": "What does this site's own SN 3.18 record the Buddha insisting about good friendship?",
+         "opts": [
+             "That it is unimportant",
+             "That it is half the spiritual life",
+             "That it is the whole of the spiritual life, not merely half",
+             "That it has nothing to do with practice"],
+         "correct": 2,
+         "expl": "A correction of Ānanda's own earlier suggestion."},
+        {"q": "What does 'kusītaṁ' mean?",
+         "opts": [
+             "A lazy person",
+             "A great sea",
+             "A type of hut",
+             "A rainy season"],
+         "correct": 0,
+         "expl": "What this poem's simile warns against relying on."},
+        {"q": "Which earlier poem in this chapter also has an extended six-line first verse?",
+         "opts": [
+             "Thag 2.11",
+             "Thag 2.12",
+             "Thag 2.13",
+             "None of them"],
+         "correct": 1,
+         "expl": "Jotidāsa's poem, two positions earlier in the chapter."},
+        {"q": "What does 'jhāyibhi' mean?",
+         "opts": [
+             "Those who practice absorption",
+             "Those who are wealthy",
+             "Those who travel widely",
+             "Those who are elderly"],
+         "correct": 0,
+         "expl": "The closing quality named for the recommended companions."},
+        {"q": "Does the poem only warn against bad company, or does it also name a positive alternative?",
+         "opts": [
+             "Only a warning, with no alternative given",
+             "It names both — avoid the lazy, and dwell with the noble ones instead",
+             "It only names an alternative, with no warning",
+             "Neither warning nor alternative is given"],
+         "correct": 1,
+         "expl": "A complete instruction, not just a caution."},
+        {"q": "Where does this poem fall in Chapter Two?",
+         "opts": [
+             "The chapter's opening poem",
+             "The chapter's fourth poem",
+             "The chapter's closing poem",
+             "It is not part of Chapter Two"],
+         "correct": 1,
+         "expl": "Following Mahācunda, Jotidāsa, and Heraññakāni."},
+    ],
+    marginalia=[
+        ("A log, in a great sea", [
+            "no real safety —",
+            "you'll sink regardless"
+        ]),
+        ("Laziness, named directly", [
+            "even a good life",
+            "sinks by relying on it"
+        ]),
+        ("Who to seek instead", [
+            "secluded, energetic,",
+            "practicing absorption"
+        ]),
+        ("Good company, elsewhere confirmed", [
+            "SN 3.18 —",
+            "'the whole of the spiritual life'"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.14/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../samyutta-nikaya/sn-3.18.html">SN 3.18 &mdash; '
+        "Good Friends</a> &mdash; the value of good company, from the "
+        "opposite direction of this poem's warning.",
+        '<a href="thag-2.13.html">Thag 2.13 &mdash; '
+        "Hera&ntilde;&ntilde;ak&amacr;ni</a> &mdash; the poem "
+        "immediately before this one, in the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.15 — Sabbamitta
+# --------------------------------------------------------------------------- #
+page(
+    2, 15, "Sabbamitta", "Sabbamitta",
+    meta_title="Thag 2.15 — Sabbamitta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sabbamitta's verse on people endlessly hurting people, "
+        "closing with an instruction to abandon them &mdash; from a "
+        "speaker whose own name means 'friend to all'. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Twos &middot; Chapter Two &middot; Poem 5 of 10",
+    glance=[
+        ("Setting", "No narrative setting; two four-line verses, "
+                    "without a translated attribution"),
+        ("Speaker", "Sabbamitta, whose name means &lsquo;friend to "
+                    "all&rsquo;, describing people hurting people"),
+        ("Form", "Two four-line verses &mdash; a bleak repeating "
+                 "pattern, then a direct imperative"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a stark, almost misanthropic tone, sharpened "
+                       "by its speaker's own name"),
+    ],
+    why=(
+        "Sabbamitta describes people bound to, dependent on, and "
+        "endlessly hurting one another, then asks what's the point of "
+        "people at all, closing with a direct instruction: go, "
+        "abandon them, having been hurt by so many &mdash; a striking "
+        "verse from a speaker whose own name means &lsquo;friend to "
+        "all&rsquo;."),
+    guide=[
+        ("A repeating pattern, four ways in four lines", [
+            "The first verse states the same relationship four "
+            "times, each with a different verb: people are attached "
+            "to people, depend on people, are hurt by people, and "
+            "hurt people. The repetition itself does the work, "
+            "building a closed loop with no exit named."]),
+        ("A question, then a direct imperative", [
+            "The second verse asks &lsquo;what's the point of "
+            "people&rsquo; at all, then answers with instruction "
+            "rather than resignation: &lsquo;go, abandon these "
+            "people, who've hurt so many people&rsquo;. Unlike Thag "
+            "1.109 (Saṅgharakkhita) in the Book of the Ones, which "
+            "this project has previously noted ends on an unresolved "
+            "critical description, this poem does supply a closing "
+            "instruction &mdash; bleak in content, but not left open."]),
+        ("A name that cuts against the poem's own content", [
+            "Sabbamitta's name means &lsquo;friend to all&rsquo; "
+            "&mdash; sabba, &lsquo;all&rsquo;, plus mitta, "
+            "&lsquo;friend&rsquo; &mdash; standing in stark, "
+            "unmissable irony against a verse that concludes by "
+            "instructing the reader to abandon people entirely. "
+            "Nothing in the poem or in bilara-data explains this "
+            "tension; it is simply there for the reader to notice."]),
+    ],
+    terms=[
+        ("jano",
+         "&ldquo;people&rdquo; or &ldquo;a person&rdquo; &mdash; "
+         "repeated as both subject and object throughout the first "
+         "verse's closed loop."),
+        ("he&#7789;h&imacr;yati",
+         "&ldquo;is hurt&rdquo; &mdash; one of the four relationships "
+         "named in the first verse's repeating pattern."),
+        ("attho",
+         "&ldquo;point&rdquo; or &ldquo;benefit&rdquo; &mdash; what "
+         "the second verse questions regarding people at all."),
+        ("oh&amacr;ya",
+         "&ldquo;abandon&rdquo; &mdash; the direct imperative closing "
+         "the poem."),
+        ("mitta",
+         "&ldquo;friend&rdquo; &mdash; the second half of "
+         "Sabbamitta's own name, standing in irony against the "
+         "poem's content."),
+    ],
+    text_intro=(
+        "The text in full: two verses, without a translated "
+        "attribution. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.15:1.1-1.4"),
+        ("p", "&sect;2", "thag2.15:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How many times does the first verse restate the relationship between people, each with a different verb?",
+         "opts": [
+             "Once",
+             "Twice",
+             "Four times",
+             "Ten times"],
+         "correct": 2,
+         "expl": "Attached to, dependent on, hurt by, and hurting — a closed loop."},
+        {"q": "What question does the second verse ask?",
+         "opts": [
+             "What time is it?",
+             "Where is the nearest hut?",
+             "What is the meaning of a specific dream?",
+             "What's the point of people at all?"],
+         "correct": 3,
+         "expl": "A pointed rhetorical question opens the second verse."},
+        {"q": "What instruction closes the poem?",
+         "opts": [
+             "Stay and reconcile with everyone",
+             "Build a hut and wait",
+             "No instruction is given",
+             "Go, abandon these people, who've hurt so many people"],
+         "correct": 3,
+         "expl": "A direct imperative, not a resigned shrug."},
+        {"q": "How does this poem's ending compare to Thag 1.109 (Saṅgharakkhita), previously noted in this project?",
+         "opts": [
+             "They are identical in every way",
+             "This poem ends without resolution and Thag 1.109 does not",
+             "Thag 1.109 ends without resolution; this poem supplies a direct closing instruction",
+             "Neither poem has any ending at all"],
+         "correct": 2,
+         "expl": "A bleak content, but with a stated instruction rather than an open question."},
+        {"q": "What does Sabbamitta's own name mean?",
+         "opts": [
+             "'Enemy of all'",
+             "'The silent one'",
+             "'Of the Ganges bank'",
+             "'Friend to all'"],
+         "correct": 3,
+         "expl": "Standing in irony against the poem's own content."},
+        {"q": "Does anything in the poem or in bilara-data explain this irony?",
+         "opts": [
+             "Yes, in detail",
+             "No — this guide notes it as something simply present for the reader to notice",
+             "The poem denies its own name",
+             "A comment explains it fully"],
+         "correct": 1,
+         "expl": "An observation left unresolved by the source material itself."},
+        {"q": "What does 'jano' mean?",
+         "opts": [
+             "People or a person",
+             "A rain god",
+             "A type of hut",
+             "A monastic robe"],
+         "correct": 0,
+         "expl": "Repeated as both subject and object across the first verse."},
+        {"q": "What does 'ohāya' mean?",
+         "opts": [
+             "Abandon",
+             "Welcome",
+             "Praise",
+             "Forgive"],
+         "correct": 0,
+         "expl": "The direct imperative closing the poem."},
+        {"q": "What is the overall tone of this poem?",
+         "opts": [
+             "Joyful and celebratory",
+             "Stark, almost misanthropic",
+             "Purely doctrinal, without emotional register",
+             "Playful and lighthearted"],
+         "correct": 1,
+         "expl": "A bleak repeating pattern, sharpened further by the speaker's own name."},
+        {"q": "Where does this poem fall in Chapter Two?",
+         "opts": [
+             "The chapter's opening poem",
+             "The chapter's fifth poem",
+             "The chapter's closing poem",
+             "It is not part of Chapter Two"],
+         "correct": 1,
+         "expl": "Following Mahācunda, Jotidāsa, Heraññakāni, and Somamitta."},
+    ],
+    marginalia=[
+        ("A closed loop, four ways", [
+            "attached, dependent,",
+            "hurt, and hurting"
+        ]),
+        ("What's the point of people?", [
+            "a question, then",
+            "a direct instruction"
+        ]),
+        ("Go, abandon them", [
+            "who've hurt so many —",
+            "not left open, like Thag 1.109"
+        ]),
+        ("A name that cuts against itself", [
+            "'friend to all',",
+            "urging abandonment"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.15/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.109.html">Thag 1.109 &mdash; '
+        "Saṅgharakkhita</a> &mdash; another critically-toned verse, "
+        "there left without a closing resolution.",
+        '<a href="thag-2.14.html">Thag 2.14 &mdash; Somamitta</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.16 — Mah&amacr;k&amacr;&#7735;a
+# --------------------------------------------------------------------------- #
+page(
+    2, 16, "Mah&amacr;k&amacr;&#7735;a", "Mah&amacr;k&amacr;&#7735;a",
+    meta_title="Thag 2.16 — Mahākāḷa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Mahākāḷa's verse describing bones broken and arranged at a "
+        "charnel ground, and a wish never to build up attachment "
+        "again. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twos &middot; Chapter Two &middot; Poem 6 of 10",
+    glance=[
+        ("Setting", "No narrative frame stated; a charnel-ground-"
+                    "style contemplative image, without a translated "
+                    "attribution"),
+        ("Speaker", "Mah&amacr;k&amacr;&#7735;a, describing a scene "
+                    "of dismembered bones and reflecting on "
+                    "attachment"),
+        ("Form", "A five-line verse, longer than this book's usual "
+                 "four-line unit, followed by a standard four-line "
+                 "verse"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a visceral image, presented plainly and "
+                       "without elaboration"),
+    ],
+    why=(
+        "Mahākāḷa describes a large, dark, crow-shaped woman breaking "
+        "apart thigh-bones, arm-bones, and a skull, arranging them and "
+        "sitting nearby &mdash; then reflects that an ignorant person "
+        "who builds up attachments returns to suffering again and "
+        "again, closing with a personal wish never to &lsquo;lie with "
+        "a broken skull&rsquo; again."),
+    guide=[
+        ("A charnel-ground image, stated plainly", [
+            "The first verse describes a scene in the register of "
+            "asubha, &lsquo;foulness&rsquo;, contemplation common to "
+            "early Buddhist meditation practice: bones broken apart "
+            "one by one and arranged nearby. The poem doesn't specify "
+            "whether this is witnessed directly, recalled, or "
+            "envisioned &mdash; this guide states only what the text "
+            "itself describes, without adding narrative detail the "
+            "poem doesn't supply."]),
+        ("A five-line verse, a third structural variation", [
+            "This poem's first verse runs to five lines, a further "
+            "variation from the book's standard four-line unit "
+            "&mdash; distinct from the six-line extensions already "
+            "seen at Thag 2.12 and Thag 2.14. Chapter Two's poems "
+            "vary in length more freely than Chapter One's did."]),
+        ("Attachment, and a personal wish never to return", [
+            "The second verse turns from image to reflection: an "
+            "ignorant person who &lsquo;builds up attachments&rsquo; "
+            "(upadhi) &lsquo;returns to suffering again and "
+            "again&rsquo;. The poem closes on a first-person wish "
+            "&mdash; &lsquo;may I never again lie with a broken "
+            "skull&rsquo; &mdash; which this guide reads as an "
+            "aspiration never to undergo this fate again through "
+            "continued rebirth, though the poem itself doesn't spell "
+            "out the connection explicitly."]),
+        ("A shared root between the speaker's name and the vision", [
+            "Mahākāḷa's own name means &lsquo;Great Dark One&rsquo;, "
+            "and the figure his verse describes is called "
+            "&lsquo;Kāḷī&rsquo;, &lsquo;the dark woman&rsquo; &mdash; "
+            "the same root, masculine and feminine. Nothing in the "
+            "text or in bilara-data comments on this shared root; "
+            "this guide notes it only as an observable textual fact, "
+            "not a claim about deliberate wordplay."]),
+    ],
+    terms=[
+        ("dha&#7749;kar&umacr;p&amacr;",
+         "&ldquo;crow-shaped&rdquo; &mdash; describing the dark "
+         "woman's appearance in the poem's opening line."),
+        ("bhetv&amacr;",
+         "&ldquo;having broken&rdquo; &mdash; the repeated verb "
+         "describing bones broken apart, one by one, across the "
+         "first verse."),
+        ("upadhi&#7745;",
+         "&ldquo;attachment&rdquo; or accumulation &mdash; what the "
+         "second verse says an ignorant person builds up, leading to "
+         "repeated suffering."),
+        ("manda",
+         "&ldquo;dullard&rdquo; &mdash; who the second verse says "
+         "returns to suffering again and again."),
+        ("bhinnasiro",
+         "&ldquo;with a broken skull&rdquo; &mdash; the closing image "
+         "of the poem's personal, first-person wish."),
+    ],
+    text_intro=(
+        "The text in full: a five-line verse followed by a four-line "
+        "verse. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.16:1.1-1.5"),
+        ("p", "&sect;2", "thag2.16:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does the first verse describe the dark woman's appearance?",
+         "opts": [
+             "Crow-shaped",
+             "Wearing golden robes",
+             "Riding a horse",
+             "Nothing is said about her appearance"],
+         "correct": 0,
+         "expl": "Dhaṅkarūpā, opening the poem's central image."},
+        {"q": "What does she do to the bones in the first verse?",
+         "opts": [
+             "Nothing — she only watches them",
+             "Buries them",
+             "Breaks them apart, one by one, and arranges them",
+             "Burns them"],
+         "correct": 2,
+         "expl": "A repeated action across thigh-bones, arm-bones, and a skull."},
+        {"q": "How long is this poem's first verse, compared to the book's usual unit?",
+         "opts": [
+             "Four lines, the standard length",
+             "Two lines",
+             "Five lines, a further variation beyond the book's usual four",
+             "Twenty lines"],
+         "correct": 2,
+         "expl": "A third structural variation in this chapter, distinct from the six-line extensions seen earlier."},
+        {"q": "What does the second verse say happens to an ignorant person who builds up attachments?",
+         "opts": [
+             "They gain great wealth",
+             "Nothing happens to them",
+             "They immediately attain awakening",
+             "They return to suffering again and again"],
+         "correct": 3,
+         "expl": "Upadhi, 'attachment', named directly as the cause."},
+        {"q": "What does the poem's closing line wish for?",
+         "opts": [
+             "Wealth in a future life",
+             "A long lifespan",
+             "Fame after death",
+             "Never to lie with a broken skull again"],
+         "correct": 3,
+         "expl": "A first-person, personal aspiration closing the poem."},
+        {"q": "What shared root does the guide note between the speaker's name and the poem's dark figure?",
+         "opts": [
+             "No shared root exists",
+             "They share a root meaning 'gold'",
+             "They share a root meaning 'friend'",
+             "Mahākāḷa ('Great Dark One') and Kāḷī ('the dark woman') share the same root"],
+         "correct": 3,
+         "expl": "Noted as an observable fact, not a claim about intentional wordplay."},
+        {"q": "Does this guide claim the poem describes a witnessed, remembered, or envisioned scene?",
+         "opts": [
+             "It confidently asserts the scene was witnessed directly",
+             "It claims the scene is purely symbolic and never physical",
+             "It states only what the text describes, without specifying which",
+             "It asserts the scene was a dream reported elsewhere"],
+         "correct": 2,
+         "expl": "The poem itself doesn't specify, and this guide doesn't add detail it doesn't supply."},
+        {"q": "What does 'upadhiṁ' mean?",
+         "opts": [
+             "Attachment or accumulation",
+             "A rainy season",
+             "A type of hut",
+             "A monastic robe"],
+         "correct": 0,
+         "expl": "What the second verse says an ignorant person builds up."},
+        {"q": "What register does this poem's imagery belong to?",
+         "opts": [
+             "A joyful celebration",
+             "Asubha, 'foulness' contemplation, common in early Buddhist meditation practice",
+             "A courtroom scene",
+             "A wedding description"],
+         "correct": 1,
+         "expl": "A charnel-ground-style image, presented without elaboration."},
+        {"q": "Where does this poem fall in Chapter Two?",
+         "opts": [
+             "The chapter's opening poem",
+             "The chapter's sixth poem",
+             "The chapter's closing poem",
+             "It is not part of Chapter Two"],
+         "correct": 1,
+         "expl": "Following Mahācunda, Jotidāsa, Heraññakāni, Somamitta, and Sabbamitta."},
+    ],
+    marginalia=[
+        ("A crow-shaped figure, dark", [
+            "breaking bones,",
+            "arranging them nearby"
+        ]),
+        ("Attachment, and returning suffering", [
+            "the dullard comes back",
+            "again and again"
+        ]),
+        ("A personal wish, closing", [
+            "never again",
+            "to lie with a broken skull"
+        ]),
+        ("A name that shares its root with the vision", [
+            "Mahākāḷa, and Kāḷī —",
+            "noted, not explained"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.16/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-2.15.html">Thag 2.15 &mdash; Sabbamitta</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.17 — Tissa (3rd)
+# --------------------------------------------------------------------------- #
+page(
+    2, 17, "Tissa", "Tissa (3rd)",
+    meta_title="Thag 2.17 — Tissa (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Tissa's verse on gains breeding enemies, and wandering "
+        "mindful with few possessions instead. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Book of the Twos &middot; Chapter Two &middot; Poem 7 of 10",
+    glance=[
+        ("Setting", "No narrative setting; two four-line verses, "
+                    "without a translated attribution"),
+        ("Speaker", "Tissa, on the social danger of receiving gains"),
+        ("Form", "Two four-line verses &mdash; an observation, then a "
+                 "prescribed response"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a plain social observation, followed by "
+                       "direct advice"),
+    ],
+    why=(
+        "Tissa observes that a shaven mendicant wrapped in the outer "
+        "robe gets many enemies precisely when they receive food, "
+        "drink, clothes, and bedding &mdash; then, knowing this "
+        "danger and great fear in honors, recommends wandering "
+        "mindful with few possessions instead."),
+    guide=[
+        ("Gains breeding enmity, an unexpected link", [
+            "The first verse states a social observation that runs "
+            "against intuition: it isn't poverty or failure that "
+            "brings a mendicant &lsquo;many enemies&rsquo;, but the "
+            "opposite &mdash; being &lsquo;a receiver of food and "
+            "drink, clothes and bedding&rsquo;. Gains themselves "
+            "become the source of rivalry and hostility from "
+            "others."]),
+        ("A third poem in this book on the danger of gains and honor", [
+            "This is the third poem in the Book of the Twos to take "
+            "up the danger of receiving honor or material gain: Thag "
+            "2.2 (Bhāradvāja the Alms-Gatherer) named honor itself a "
+            "swamp threatening the receiver's own mind; Thag 2.5 "
+            "(Ajina) observed that honor tracks the wrong criteria, "
+            "provision rather than character; this poem adds a third "
+            "angle &mdash; gains provoking outright enmity from "
+            "others, a social consequence rather than an internal or "
+            "distributive one."]),
+        ("A prescribed response: few possessions, undamaged", [
+            "The second verse answers with direct practical advice: "
+            "knowing this danger, a mendicant should wander "
+            "&lsquo;mindful, with few possessions, not "
+            "festering&rsquo; &mdash; anavassuto, a term suggesting "
+            "not being overflowed or corrupted by craving for more."]),
+        ("A third Tissa in this collection", [
+            "This is the third monk named Tissa in the Theragātha so "
+            "far, after Tissa (1st) at Thag 1.39 and Tissa (2nd) at "
+            "Thag 1.97, both in the Book of the Ones."]),
+    ],
+    terms=[
+        ("sapatte",
+         "&ldquo;enemies&rdquo; &mdash; what the first verse says a "
+         "mendicant acquires through receiving gains."),
+        ("l&amacr;bh&imacr;",
+         "&ldquo;a receiver&rdquo; &mdash; describing the mendicant "
+         "who gets food, drink, clothes, and bedding."),
+        ("sakk&amacr;resu mahabbhaya&#7745;",
+         "&ldquo;this great fear in honors&rdquo; &mdash; the second "
+         "verse's naming of the danger just observed."),
+        ("appal&amacr;bho",
+         "&ldquo;with few possessions&rdquo; &mdash; part of the "
+         "recommended response to the danger of gains."),
+        ("anavassuto",
+         "&ldquo;not festering&rdquo; or not overflowing with craving "
+         "&mdash; describing the manner in which a mindful mendicant "
+         "should wander."),
+    ],
+    text_intro=(
+        "The text in full: two verses, without a translated "
+        "attribution. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.17:1.1-1.4"),
+        ("p", "&sect;2", "thag2.17:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does the first verse say brings a mendicant many enemies?",
+         "opts": [
+             "Poverty and failure",
+             "Breaking a monastic rule",
+             "Nothing brings enemies, according to the verse",
+             "Receiving food, drink, clothes, and bedding"],
+         "correct": 3,
+         "expl": "A counterintuitive link — gains, not lack, provoke enmity."},
+        {"q": "What does the second verse call this situation?",
+         "opts": [
+             "A minor inconvenience",
+             "A cause for celebration",
+             "A great fear in honors",
+             "Nothing is named"],
+         "correct": 2,
+         "expl": "Sakkāresu mahabbhayaṁ, naming the danger directly."},
+        {"q": "What response does the second verse recommend?",
+         "opts": [
+             "Seeking out even more gains",
+             "Wandering mindful, with few possessions, not festering",
+             "Retiring from monastic life entirely",
+             "Arguing with those who are jealous"],
+         "correct": 1,
+         "expl": "A direct, practical prescription."},
+        {"q": "How does this poem relate to Thag 2.2 and Thag 2.5, earlier in the book?",
+         "opts": [
+             "It repeats them word for word",
+             "It is the third poem on gains/honor's danger, adding the angle of enmity from others",
+             "It contradicts both of the earlier poems",
+             "It shares no theme with either poem"],
+         "correct": 1,
+         "expl": "A third distinct angle on a recurring theme in this book."},
+        {"q": "What angle does Thag 2.2 take on honor's danger, by contrast?",
+         "opts": [
+             "The exact same angle as this poem",
+             "Honor as entirely harmless",
+             "Honor as a swamp threatening the receiver's own mind",
+             "Honor as a monastic rule violation"],
+         "correct": 2,
+         "expl": "An internal danger, distinct from this poem's social one."},
+        {"q": "What does 'anavassuto' mean?",
+         "opts": [
+             "Extremely wealthy",
+             "A type of hut",
+             "A rainy season",
+             "Not festering, not overflowing with craving"],
+         "correct": 3,
+         "expl": "Describing the manner in which a mindful mendicant should wander."},
+        {"q": "How many monks named Tissa have appeared in the Theragātha so far?",
+         "opts": [
+             "Just this one",
+             "Two",
+             "Three, including two in the Book of the Ones",
+             "Ten"],
+         "correct": 2,
+         "expl": "Tissa (1st) at Thag 1.39, Tissa (2nd) at Thag 1.97, and this one, Tissa (3rd)."},
+        {"q": "What does 'sapatte' mean?",
+         "opts": [
+             "Enemies",
+             "Friends",
+             "A type of robe",
+             "A rainy season"],
+         "correct": 0,
+         "expl": "What the first verse says gains bring."},
+        {"q": "What does 'lābhī' describe?",
+         "opts": [
+             "A receiver of gains",
+             "A place name",
+             "A monastic rule",
+             "A type of meditation"],
+         "correct": 0,
+         "expl": "The mendicant who gets food, drink, clothes, and bedding."},
+        {"q": "Where does this poem fall in Chapter Two?",
+         "opts": [
+             "The chapter's opening poem",
+             "The chapter's seventh poem",
+             "The chapter's closing poem",
+             "It is not part of Chapter Two"],
+         "correct": 1,
+         "expl": "Following Mahācunda, Jotidāsa, Heraññakāni, Somamitta, Sabbamitta, and Mahākāḷa."},
+    ],
+    marginalia=[
+        ("Gains, not lack, bring enemies", [
+            "food and drink,",
+            "clothes and bedding"
+        ]),
+        ("A third poem on this danger", [
+            "swamp, misallocation,",
+            "now enmity"
+        ]),
+        ("Few possessions, undamaged", [
+            "wandering mindful,",
+            "not festering"
+        ]),
+        ("A third Tissa", [
+            "1.39, 1.97,",
+            "now this one"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.17/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-2.2.html">Thag 2.2 &mdash; Bh&amacr;radv&amacr;ja '
+        "the Alms-Gatherer</a> &mdash; the first of this book's three "
+        "poems on the danger of gains and honor.",
+        '<a href="thag-2.16.html">Thag 2.16 &mdash; '
+        "Mah&amacr;k&amacr;&#7735;a</a> &mdash; the poem immediately "
+        "before this one, in the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.18 — Kimbila (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    2, 18, "Kimbila", "Kimbila (2nd)",
+    meta_title="Thag 2.18 — Kimbila (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Kimbila's verse on the Sakyan friends in the Park of the "
+        "East-Raftered Hall, confirmed by comment as the Anuruddha, "
+        "Kimbila, and Nandiya of MN 31 and MN 128. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Twos &middot; Chapter Two &middot; Poem 8 of 10",
+    glance=[
+        ("Setting", "The Park of the East-Raftered Hall (Pācīnavaṁsa)"),
+        ("Speaker", "Kimbila, describing himself and his Sakyan "
+                    "friends practicing together"),
+        ("Form", "Two four-line verses, without a translated "
+                 "attribution"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a settled, contented description of shared "
+                       "practice"),
+    ],
+    why=(
+        "Kimbila describes himself and his Sakyan friends in the "
+        "Park of the East-Raftered Hall, having given up great wealth "
+        "for the scraps in their bowls, energetic and resolute, "
+        "delighting in the Dhamma rather than mundane pleasures "
+        "&mdash; a scene Sujato's own comment directly identifies "
+        "with the famous grove of MN 31 and MN 128."),
+    guide=[
+        ("A named place, and friends practicing together", [
+            "Unlike most poems in this book, this one opens with a "
+            "specific location: the Pācīnavaṁsadāya, &lsquo;Park of "
+            "the East-Raftered Hall&rsquo;, where &lsquo;the Sakyan "
+            "friends&rsquo;, having given up great wealth, are "
+            "&lsquo;happy with the scraps in their bowls&rsquo; "
+            "&mdash; a scene of shared, communal contentment rather "
+            "than a solitary meditator's report."]),
+        ("Confirmed by comment: the grove of MN 31 and MN 128", [
+            "Sujato's own comment on this poem's opening line states "
+            "directly that this is a reference to MN 31 and MN 128, "
+            "&lsquo;where Anuruddha, Kimbila, and Nandiya were "
+            "practicing together in this grove&rsquo; &mdash; this "
+            "site's own MN 128, &lsquo;Corruptions&rsquo;, is already "
+            "translated, and this comment supplies a direct, "
+            "explicit confirmation rather than a same-name guess."]),
+        ("A numbering quirk, worth flagging", [
+            "This poem is labeled Kimbila (2nd), while the Book of "
+            "the Ones already carries a Kimbila (1st) at Thag 1.118 "
+            "&mdash; whose guide, written without any comment to "
+            "draw on, could only note the same-name connection to MN "
+            "31/128 cautiously, as unconfirmed. The stronger, comment-"
+            "confirmed link to that famous grove attaches to this "
+            "poem, Kimbila (2nd), not to the (1st) &mdash; a reminder "
+            "that bilara-data's own ordinal numbering doesn't track "
+            "which poem carries the better-supported identification."]),
+        ("Energetic delight in the Dhamma, not mundane pleasures", [
+            "The second verse describes the friends as &lsquo;"
+            "energetic, resolute&rsquo;, &lsquo;always staunchly "
+            "vigorous&rsquo;, having given up mundane delights to "
+            "&lsquo;enjoy the delights of the Dhamma&rsquo; instead "
+            "&mdash; a settled, positive picture of communal renunciate "
+            "life, without the danger-of-honor or danger-of-gains "
+            "themes surrounding it elsewhere in this chapter."]),
+    ],
+    terms=[
+        ("P&amacr;c&imacr;nava&#7745;sad&amacr;ya",
+         "&ldquo;Park of the East-Raftered Hall&rdquo; &mdash; the "
+         "named location opening this poem, identified by comment "
+         "with the grove of MN 31 and MN 128."),
+        ("sakyaputt&amacr;",
+         "&ldquo;Sakyan friends&rdquo; &mdash; describing Kimbila and "
+         "his companions, sharing the Buddha's own clan name."),
+        ("u&ntilde;ch&amacr;patt&amacr;gate",
+         "&ldquo;the scraps that come into the bowl&rdquo; &mdash; "
+         "what the friends are said to be happy with, having given "
+         "up great wealth."),
+        ("dhammaratiy&amacr;",
+         "&ldquo;the delight of the Dhamma&rdquo; &mdash; what the "
+         "friends are said to enjoy, in place of mundane delights."),
+        ("lokiya&#7745; rati&#7745;",
+         "&ldquo;mundane delights&rdquo; &mdash; what has been given "
+         "up in favor of the Dhamma's own delight."),
+    ],
+    text_intro=(
+        "The text in full: two verses, without a translated "
+        "attribution. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.18:1.1-1.4"),
+        ("p", "&sect;2", "thag2.18:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What specific location does this poem name?",
+         "opts": [
+             "No location is named",
+             "A city marketplace",
+             "The Park of the East-Raftered Hall",
+             "A royal palace"],
+         "correct": 2,
+         "expl": "A named setting, unusual for this book's poems."},
+        {"q": "What does Sujato's own comment say about this location?",
+         "opts": [
+             "Nothing — no comment exists for this poem",
+             "It denies any connection to other suttas",
+             "It identifies it as a location in a different country",
+             "It identifies it as the grove of MN 31 and MN 128, where Anuruddha, Kimbila, and Nandiya practiced together"],
+         "correct": 3,
+         "expl": "A direct, explicit confirmation rather than a same-name guess."},
+        {"q": "How does this poem's confirmed connection compare to Kimbila (1st) at Thag 1.118?",
+         "opts": [
+             "Both poems have equally strong comment confirmation",
+             "Thag 1.118's guide, without a comment to draw on, could only note the same-name link cautiously as unconfirmed",
+             "Neither poem has any connection to MN 31/128",
+             "Thag 1.118 has stronger confirmation than this poem"],
+         "correct": 1,
+         "expl": "The comment-confirmed link attaches to the (2nd), not the (1st)."},
+        {"q": "What does this poem say the friends gave up?",
+         "opts": [
+             "Nothing was given up",
+             "Their monastic robes",
+             "Great wealth, for the scraps in their bowls",
+             "Their friendship with each other"],
+         "correct": 2,
+         "expl": "A contrast between renounced wealth and contented simplicity."},
+        {"q": "What do the friends delight in, according to the second verse?",
+         "opts": [
+             "Mundane pleasures",
+             "Wealth and status",
+             "Nothing is named",
+             "The delights of the Dhamma"],
+         "correct": 3,
+         "expl": "Dhammaratiyā, replacing lokiyaṁ ratiṁ."},
+        {"q": "What does this project's own MN 128 discourse cover?",
+         "opts": [
+             "An unrelated topic",
+             "'Corruptions', already translated on this site",
+             "A story about a rain god",
+             "A story about a monkey"],
+         "correct": 1,
+         "expl": "Already live, and directly linked by Sujato's comment on this poem."},
+        {"q": "What does 'sakyaputtā' mean?",
+         "opts": [
+             "Sakyan friends",
+             "A type of hut",
+             "A rainy season",
+             "A monastic rule"],
+         "correct": 0,
+         "expl": "Describing Kimbila and his companions."},
+        {"q": "What tone does this poem carry, compared to several other poems in this chapter?",
+         "opts": [
+             "A warning about danger, like Thag 2.2 or Thag 2.17",
+             "A bleak, misanthropic tone, like Thag 2.15",
+             "A visceral, unsettling image, like Thag 2.16",
+             "A settled, positive picture of communal renunciate contentment"],
+         "correct": 3,
+         "expl": "A different register from several neighboring poems."},
+        {"q": "What does 'uñchāpattāgate' describe?",
+         "opts": [
+             "The scraps that come into the alms bowl",
+             "A type of monastic building",
+             "A rainy season",
+             "A place name"],
+         "correct": 0,
+         "expl": "What the friends are content with, having given up wealth."},
+        {"q": "Where does this poem fall in Chapter Two?",
+         "opts": [
+             "The chapter's opening poem",
+             "The chapter's eighth poem",
+             "The chapter's closing poem",
+             "It is not part of Chapter Two"],
+         "correct": 1,
+         "expl": "Following Mahācunda, Jotidāsa, Heraññakāni, Somamitta, Sabbamitta, Mahākāḷa, and Tissa (3rd)."},
+    ],
+    marginalia=[
+        ("A named grove, this time", [
+            "the East-Raftered Hall —",
+            "unusual specificity"
+        ]),
+        ("Confirmed, not guessed", [
+            "Sujato's own comment:",
+            "MN 31 and MN 128"
+        ]),
+        ("A numbering quirk", [
+            "the stronger link",
+            "attaches to the (2nd), not the (1st)"
+        ]),
+        ("Delight in the Dhamma", [
+            "wealth given up,",
+            "scraps enough"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.18/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-128.html">MN 128 &mdash; '
+        "Corruptions</a> &mdash; the grove this poem's own comment "
+        "confirms, where Anuruddha, Kimbila, and Nandiya practiced "
+        "together.",
+        '<a href="../majjhima-nikaya/mn-031.html">MN 31 &mdash; The '
+        "Shorter Discourse at Gosi&#7749;ga</a> &mdash; the other "
+        "sutta set in this same grove.",
+        '<a href="thag-1.118.html">Thag 1.118 &mdash; Kimbila '
+        "(1st)</a> &mdash; the earlier monk of the same name, whose "
+        "guide could only note this connection cautiously, without a "
+        "confirming comment.",
+        '<a href="thag-2.17.html">Thag 2.17 &mdash; Tissa (3rd)</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.19 — Nanda
+# --------------------------------------------------------------------------- #
+page(
+    2, 19, "Nanda", "Nanda",
+    meta_title="Thag 2.19 — Nanda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Nanda's verse of transformation, from addiction to "
+        "ornamentation to freeing his mind from attachment to "
+        "continued existence. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twos &middot; Chapter Two &middot; Poem 9 of 10",
+    glance=[
+        ("Setting", "No narrative setting; two four-line verses, "
+                    "without a translated attribution"),
+        ("Speaker", "Nanda, contrasting his former vanity with his "
+                    "later practice"),
+        ("Form", "Two four-line verses &mdash; a confession, then a "
+                 "turn to transformation"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a personal confession, then release"),
+    ],
+    why=(
+        "Nanda confesses that, focusing on the wrong things, he was "
+        "addicted to ornamentation, vain, fickle, and racked by "
+        "desire for sensual pleasures &mdash; then describes how, "
+        "with the help of the Buddha, &lsquo;the Kinsman of the "
+        "Sun&rsquo;, he practiced rationally and extracted attachment "
+        "to continued existence from his mind."),
+    guide=[
+        ("A confession of vanity, named plainly", [
+            "The first verse states, without evasion, exactly what "
+            "was wrong: &lsquo;focusing on the wrong things&rsquo; "
+            "(ayoniso manasikārā), Nanda was &lsquo;addicted to "
+            "ornamentation&rsquo;, &lsquo;vain, fickle&rsquo;, and "
+            "&lsquo;racked by desire for pleasures of the "
+            "senses&rsquo; &mdash; a first-person confession rather "
+            "than a third-person portrait."]),
+        ("A precise mirrored turn: ayoniso to yoniso", [
+            "The second verse pivots on the exact reversal of the "
+            "first verse's diagnosis: &lsquo;focusing on the wrong "
+            "things&rsquo; (ayoniso manasikārā) becomes &lsquo;"
+            "practiced rationally&rsquo; (yoniso paṭipajjitvā) "
+            "&mdash; the same root word, negated then affirmed, "
+            "marking the turn from the problem to its cure."]),
+        ("A well-known figure, and a strong thematic match", [
+            "&lsquo;Addicted to ornamentation&rsquo; and vanity are "
+            "the defining traits of the Buddha's half-brother Nanda "
+            "in the canon's best-known Nanda story. This site's own "
+            "Ud 3.2, &lsquo;With Nanda&rsquo;, tells that story in "
+            "narrative form: a homesick, vanity-struck Nanda whom the "
+            "Buddha wins over not by argument but by an unconventional "
+            "wager. No comment directly links this specific poem to "
+            "that specific narrative, but Nanda is a distinctive, "
+            "singularly famous figure in this exact role &mdash; "
+            "unlike a common name such as Kassapa or Tissa, where "
+            "same-name alone would carry far less weight."]),
+        ("Skilled in means, matching the wager's own method", [
+            "The second verse credits the Buddha's own skill "
+            "(upāyakusalena) for the change, calling him &lsquo;the "
+            "Kinsman of the Sun&rsquo; &mdash; a description that "
+            "fits Ud 3.2's own account of an unconventional, tailored "
+            "approach (a bargain on Nanda's own terms) rather than "
+            "direct doctrinal instruction."]),
+    ],
+    terms=[
+        ("ayoniso manas&imacr;k&amacr;r&amacr;",
+         "&ldquo;focusing on the wrong things&rdquo; &mdash; the "
+         "diagnosis opening the first verse, reversed exactly in the "
+         "second."),
+        ("ma&#7751;&#7693;ana&#7745;",
+         "&ldquo;ornamentation&rdquo; &mdash; what Nanda confesses to "
+         "having been addicted to."),
+        ("k&amacr;mar&amacr;gena a&#7789;&#7789;ito",
+         "&ldquo;racked by desire for pleasures of the senses&rdquo; "
+         "&mdash; closing the first verse's confession."),
+        ("up&amacr;yakusalena",
+         "&ldquo;skilled in means&rdquo; &mdash; describing the "
+         "Buddha's own approach, credited for the turn described in "
+         "the second verse."),
+        ("yoniso pa&#7789;ipajjitv&amacr;",
+         "&ldquo;practiced rationally&rdquo; &mdash; the exact "
+         "reversal of the first verse's ayoniso manasikārā."),
+    ],
+    text_intro=(
+        "The text in full: two verses, without a translated "
+        "attribution. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.19:1.1-1.4"),
+        ("p", "&sect;2", "thag2.19:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does the first verse confess Nanda was addicted to?",
+         "opts": [
+             "Ornamentation",
+             "Food",
+             "Wealth",
+             "Fame among monks"],
+         "correct": 0,
+         "expl": "A direct, first-person confession opens the poem."},
+        {"q": "What three qualities does the first verse list alongside this addiction?",
+         "opts": [
+             "Wisdom, patience, and generosity",
+             "Vain, fickle, and racked by sensual desire",
+             "Silent, humble, and diligent",
+             "None are listed"],
+         "correct": 1,
+         "expl": "A blunt self-description of the problem."},
+        {"q": "What phrase does the second verse use that exactly reverses the first verse's diagnosis?",
+         "opts": [
+             "No reversal occurs in the poem",
+             "A completely unrelated new phrase",
+             "Yoniso paṭipajjitvā, 'practiced rationally', reversing ayoniso manasikārā",
+             "The same phrase repeated unchanged"],
+         "correct": 2,
+         "expl": "Same root, negated then affirmed — marking the turn."},
+        {"q": "What does this site's own Ud 3.2 tell in narrative form?",
+         "opts": [
+             "An unrelated story",
+             "The canon's best-known Nanda story — a homesick, vanity-struck monk won over by an unconventional wager",
+             "A story about a rain god",
+             "A story about a monkey"],
+         "correct": 1,
+         "expl": "A strong thematic match to this poem's own confession."},
+        {"q": "How does this guide characterize the strength of the connection between this poem and Ud 3.2?",
+         "opts": [
+             "It asserts the connection is confirmed by a direct comment",
+             "It denies any possible connection",
+             "It claims the two texts are word-for-word identical",
+             "It notes no comment directly links them, but treats Nanda as distinctive enough to carry more weight than a common-name guess"],
+         "correct": 3,
+         "expl": "A calibrated level of confidence, between 'confirmed' and 'pure coincidence'."},
+        {"q": "What does 'upāyakusalena' mean?",
+         "opts": [
+             "A type of hut",
+             "A rainy season",
+             "Skilled in means",
+             "A monastic robe"],
+         "correct": 2,
+         "expl": "Describing the Buddha's own approach, credited for the change."},
+        {"q": "What epithet for the Buddha appears in the second verse?",
+         "opts": [
+             "The Great Hero",
+             "The Charioteer",
+             "No epithet is used",
+             "The Kinsman of the Sun"],
+         "correct": 3,
+         "expl": "Buddhenādiccabandhunā."},
+        {"q": "What does the second verse say was extracted from Nanda's mind?",
+         "opts": [
+             "Wisdom",
+             "Memory",
+             "Attachment to continued existence",
+             "Fear"],
+         "correct": 2,
+         "expl": "Bhave cittaṁ udabbahin — the poem's closing claim."},
+        {"q": "What does 'maṇḍanaṁ' mean?",
+         "opts": [
+             "Ornamentation",
+             "A rainy season",
+             "A type of hut",
+             "A monastic rule"],
+         "correct": 0,
+         "expl": "What the first verse confesses addiction to."},
+        {"q": "Where does this poem fall in Chapter Two?",
+         "opts": [
+             "The chapter's opening poem",
+             "The chapter's ninth poem",
+             "The chapter's closing poem",
+             "It is not part of Chapter Two"],
+         "correct": 1,
+         "expl": "Following eight earlier poems, with one poem left to close the chapter."},
+    ],
+    marginalia=[
+        ("Addicted to ornamentation", [
+            "vain, fickle,",
+            "racked by desire"
+        ]),
+        ("The same root, reversed", [
+            "ayoniso to yoniso —",
+            "the wrong things, corrected"
+        ]),
+        ("A famous story, elsewhere on this site", [
+            "Ud 3.2 —",
+            "the same vanity, the same name"
+        ]),
+        ("Skilled in means", [
+            "not direct instruction,",
+            "but a tailored approach"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.19/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../udana/ud-3.2.html">Ud 3.2 &mdash; With '
+        "Nanda</a> &mdash; the canon's best-known Nanda story, told "
+        "in full narrative form.",
+        '<a href="thag-2.18.html">Thag 2.18 &mdash; Kimbila '
+        "(2nd)</a> &mdash; the poem immediately before this one, in "
+        "the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.20 — Sirima
+# --------------------------------------------------------------------------- #
+page(
+    2, 20, "Sirima", "Sirima",
+    meta_title="Thag 2.20 — Sirima | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sirima's verse closing Chapter Two, on praise and blame "
+        "being void without immersion, plus the chapter's own "
+        "untranslated colophon. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twos &middot; Chapter Two &middot; Poem 10 of 10",
+    glance=[
+        ("Setting", "No narrative setting; two four-line verses "
+                    "closing Chapter Two, followed in the Pali by an "
+                    "untranslated chapter colophon and mnemonic "
+                    "verse"),
+        ("Speaker", "Sirima, on the true weight of praise and blame"),
+        ("Form", "Two mirrored four-line verses, without a translated "
+                 "attribution, followed by the chapter's own "
+                 "untranslated structural close"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a clean, symmetrical pair of verses, plus a "
+                       "chapter's own structural close"),
+    ],
+    why=(
+        "Sirima closes Chapter Two with a mirrored pair of verses: "
+        "if others praise someone with no immersion, they praise in "
+        "vain; if others criticize someone who does have immersion, "
+        "they criticize in vain &mdash; in both cases the actual "
+        "presence or absence of immersion is what matters, not the "
+        "opinion offered."),
+    guide=[
+        ("A mirrored pair: praise, then blame", [
+            "The two verses run in exact parallel structure &mdash; "
+            "the first verse states that praise given to someone "
+            "&lsquo;with no immersion&rsquo; is void, since &lsquo;"
+            "one has no immersion&rsquo; regardless of what others "
+            "say; the second verse reverses every term, applying the "
+            "identical logic to criticism aimed at someone who "
+            "&lsquo;does have immersion&rsquo;."]),
+        ("Immersion as the only relevant fact", [
+            "Both verses converge on the same point from opposite "
+            "directions: external opinion, whether praise or blame, "
+            "is &lsquo;moghaṁ&rsquo;, &lsquo;in vain&rsquo; or "
+            "&lsquo;futile&rsquo;, because it doesn't change the "
+            "actual presence or absence of samādhi. The self's own "
+            "state is the only fact that matters."]),
+        ("A different angle again on external judgment", [
+            "This is the fourth poem in the Book of the Twos so far "
+            "to take up how external opinion or gain relates to "
+            "actual attainment (after Thag 2.2, 2.5, and 2.17 on "
+            "honor and gains) &mdash; but where those poems warned "
+            "against honor as a danger or a misallocated resource, "
+            "this poem takes a more detached view: praise and blame "
+            "alike are simply void, neither harmful nor beneficial, "
+            "when measured against what's actually true."]),
+        ("A chapter's own closing line, left untranslated", [
+            "Immediately after this poem, the Pali carries vaggo "
+            "dutiyo, &lsquo;the second chapter is finished&rsquo; "
+            "&mdash; followed by this chapter's own uddāna, naming "
+            "all ten monks in sequence: Cunda (an abbreviation of "
+            "Mahācunda), Jotidāsa, Heraññakāni, Somamitta, Sabbamitta, "
+            "Kāḷa (an abbreviation of Mahākāḷa), Tissa, Kimila "
+            "(Kimbila), Nanda, and Sirimā &mdash; closing with the "
+            "exact same collective epithet already seen closing "
+            "Chapter One: &lsquo;dasa therā mahiddhikā&rsquo;, "
+            "&lsquo;these ten senior monks of great power&rsquo;, "
+            "word for word identical to Chapter One's own closing "
+            "line. This mnemonic is absent from Sujato's translation "
+            "and not included in this page's text."]),
+    ],
+    terms=[
+        ("asam&amacr;hito",
+         "&ldquo;with no immersion&rdquo; &mdash; the condition of "
+         "the person praised in vain in the first verse."),
+        ("susam&amacr;hito",
+         "&ldquo;with immersion&rdquo; &mdash; the reversed condition "
+         "of the person criticized in vain in the second verse."),
+        ("mogha&#7745;",
+         "&ldquo;in vain&rdquo; or &ldquo;futile&rdquo; &mdash; the "
+         "shared verdict both verses reach about external opinion."),
+        ("sam&amacr;dhi",
+         "&ldquo;immersion&rdquo; &mdash; the actual fact both verses "
+         "treat as the only thing that matters, regardless of what "
+         "others say."),
+        ("vaggo",
+         "&ldquo;chapter&rdquo; &mdash; the structural unit this poem "
+         "closes, marked in the untranslated Pali colophon &lsquo;"
+         "vaggo dutiyo&rsquo;, &lsquo;the second chapter is "
+         "finished&rsquo;."),
+    ],
+    text_intro=(
+        "The text in full: two mirrored verses, without a translated "
+        "attribution. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.20:1.1-1.4"),
+        ("p", "&sect;2", "thag2.20:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does the first verse say about praising someone with no immersion?",
+         "opts": [
+             "It is always accurate",
+             "It immediately grants them immersion",
+             "It is done in vain, since the person still has no immersion",
+             "The verse says nothing about this"],
+         "correct": 2,
+         "expl": "External opinion doesn't change the actual fact."},
+        {"q": "How does the second verse relate to the first?",
+         "opts": [
+             "It repeats the first verse unchanged",
+             "It contradicts the first verse's logic",
+             "It reverses every term — criticism of someone who does have immersion is equally void",
+             "It introduces an unrelated topic"],
+         "correct": 2,
+         "expl": "An exact mirrored structure."},
+        {"q": "What single fact do both verses treat as the only thing that actually matters?",
+         "opts": [
+             "Wealth",
+             "Popularity",
+             "The actual presence or absence of immersion",
+             "Physical appearance"],
+         "correct": 2,
+         "expl": "Praise and blame alike are void against this one fact."},
+        {"q": "How does this poem's approach to honor and opinion differ from Thag 2.2, 2.5, and 2.17?",
+         "opts": [
+             "It is identical to all three",
+             "This poem argues honor is always beneficial",
+             "This poem denies that honor exists at all",
+             "Those poems warn of honor as a danger or misallocated resource; this poem treats praise and blame as simply void, neither harmful nor beneficial"],
+         "correct": 3,
+         "expl": "A more detached final angle on a recurring book theme."},
+        {"q": "What Pali phrase, left untranslated by Sujato, immediately follows this poem?",
+         "opts": [
+             "A love poem",
+             "A list of monastic rules",
+             "Vaggo dutiyo, 'the second chapter is finished'",
+             "A prophecy about a future Buddha"],
+         "correct": 2,
+         "expl": "The same kind of structural colophon that closed each chapter of the Book of the Ones."},
+        {"q": "What does the chapter's closing uddāna say, compared to Chapter One's own closing line?",
+         "opts": [
+             "It is completely different in wording",
+             "It gives no epithet at all",
+             "It names only five monks instead of ten",
+             "It closes with the exact same collective epithet, 'dasa therā mahiddhikā', word for word"],
+         "correct": 3,
+         "expl": "An identical formulaic closing line, confirmed across two consecutive chapters."},
+        {"q": "What does 'moghaṁ' mean?",
+         "opts": [
+             "In vain or futile",
+             "Extremely valuable",
+             "A type of hut",
+             "A monastic robe"],
+         "correct": 0,
+         "expl": "The shared verdict both verses reach about external opinion."},
+        {"q": "Is the chapter's mnemonic verse included in this page's text?",
+         "opts": [
+             "Yes, translated in full",
+             "No — it is absent from Sujato's translation and not included here",
+             "Yes, but only partially",
+             "It is included as an image only"],
+         "correct": 1,
+         "expl": "Consistent with how this site handles untranslated structural material."},
+        {"q": "What does 'susamāhito' mean?",
+         "opts": [
+             "With immersion",
+             "Without immersion",
+             "A type of hut",
+             "A rainy season"],
+         "correct": 0,
+         "expl": "The condition of the person criticized in vain, in the second verse."},
+        {"q": "How many poems make up Chapter Two of the Book of the Twos?",
+         "opts": [
+             "Five",
+             "Ten",
+             "Twenty",
+             "Forty-nine"],
+         "correct": 1,
+         "expl": "Mahācunda through Sirima, named in sequence in the untranslated uddāna."},
+    ],
+    marginalia=[
+        ("Praise, given in vain", [
+            "no immersion —",
+            "the words don't change the fact"
+        ]),
+        ("Blame, equally void", [
+            "immersion present —",
+            "criticism changes nothing"
+        ]),
+        ("A more detached final angle", [
+            "not danger, not misallocation —",
+            "simply beside the point"
+        ]),
+        ("The same collective epithet, again", [
+            "'ten senior monks of great power' —",
+            "word for word, twice now"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.20/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-2.10.html">Thag 2.10 &mdash; Vasabha</a> '
+        "&mdash; Chapter One's own closing poem, whose uddāna shares "
+        "this poem's exact collective epithet.",
+        '<a href="thag-2.19.html">Thag 2.19 &mdash; Nanda</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
