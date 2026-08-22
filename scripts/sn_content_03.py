@@ -7333,3 +7333,2297 @@ page(
         "now contrasts with.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 22.33 — Natumhākasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 33, "Natumhāka", "It's Not Yours",
+    vagga="Natumhākavagga",
+    meta_title="SN 22.33 — It's Not Yours | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Natumhākasutta &mdash; give up what isn't yours, "
+        "illustrated by the famous simile of the grass, sticks, and "
+        "leaves in Jeta's Grove. Opens Natumhākavagga. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                    "monastery"),
+        ("Speakers", "The Buddha, in dialogue with the assembled "
+                     "mendicants"),
+        ("Form", "A direct instruction, then a famous simile drawn "
+                 "from the immediate physical surroundings, then the "
+                 "same instruction restated"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the simile does most of the explanatory work, "
+                       "making the argument unusually vivid"),
+    ],
+    why=(
+        "This discourse opens Natumhākavagga and supplies one of the "
+        "book's most immediate and physically grounded similes. "
+        "Rather than reasoning abstractly about why the aggregates "
+        "aren't self, the Buddha points to something literally lying "
+        "on the ground around the assembly: the grass, sticks, "
+        "branches, and leaves scattered through Jeta's Grove itself. "
+        "If someone carried them off, burned them, or did whatever "
+        "they liked with them, would the mendicants think, "
+        "&ldquo;this person is doing this to us&rdquo;? Of course "
+        "not &mdash; because that material is neither self nor "
+        "belonging to self. The discourse then applies the identical "
+        "logic to the five aggregates: give them up, precisely "
+        "because they stand in the same relation to a person as "
+        "Jeta's Grove's fallen leaves do."
+    ),
+    guide=[
+        ("An instruction stated before its justification", [
+            "The discourse opens with the bare instruction: give up "
+            "what isn't yours, and doing so will be for your welfare "
+            "and happiness. This is stated for each aggregate in turn "
+            "before any explanation is offered &mdash; the listener "
+            "is told what to do first, and only then shown why.",
+        ]),
+        ("A simile drawn from the immediate surroundings", [
+            "Rather than reaching for an abstract comparison, the "
+            "Buddha points directly at the physical setting: suppose "
+            "someone carried off, burned, or otherwise did as they "
+            "pleased with the grass, sticks, branches, and leaves "
+            "scattered through Jeta's Grove &mdash; the very place "
+            "where this teaching is being given. Would the "
+            "mendicants think &ldquo;this person is carrying us off, "
+            "burning us&rdquo;? The question is rhetorical, and the "
+            "mendicants' own answer supplies the reasoning: no, "
+            "because that material is &ldquo;neither self nor "
+            "belonging to self.&rdquo;",
+        ]),
+        ("The same logic applied directly to the aggregates", [
+            "The discourse closes by mapping the simile back onto its "
+            "target with no remaining gap: &ldquo;in the same way, "
+            "mendicants, form isn't yours: give it up.&rdquo; The "
+            "aggregates are placed in precisely the same category as "
+            "the fallen leaves &mdash; something present, usable, and "
+            "even valuable in its own way, but not something whose "
+            "handling by outside forces constitutes an assault on a "
+            "self.",
+        ]),
+        ("A vagga named for its opening instruction, not its simile", [
+            "Despite the vividness of the Jeta's Grove image, "
+            "Natumhākavagga takes its name from the discourse's "
+            "plainer opening phrase &mdash; &ldquo;it's not "
+            "yours&rdquo; &mdash; rather than from the simile itself. "
+            "This pattern (vagga named after a discourse's core claim "
+            "rather than its most memorable illustration) recurs "
+            "elsewhere in this saṃyutta, and is worth noting alongside "
+            "Bhāravagga's own naming after SN 22.22's central image.",
+        ]),
+    ],
+    terms=[
+        ("na tumhākaṁ",
+         "&ldquo;it's not yours&rdquo; &mdash; the discourse's title "
+         "phrase and the vagga's own name, applied to each aggregate "
+         "in turn."),
+        ("pajahatha",
+         "&ldquo;give up&rdquo; &mdash; the discourse's central "
+         "imperative verb, addressed directly to the mendicants."),
+        ("hitāya sukhāya",
+         "&ldquo;for welfare and happiness&rdquo; &mdash; the "
+         "promised result of giving up what isn't one's own, repeated "
+         "after every instruction."),
+        ("tiṇakaṭṭhasākhāpalāsa",
+         "&ldquo;grass, sticks, branches, and leaves&rdquo; &mdash; "
+         "the specific physical material the simile points to, drawn "
+         "from the immediate setting of Jeta's Grove itself."),
+        ("na attā na attaniya",
+         "&ldquo;neither self nor belonging to self&rdquo; &mdash; "
+         "the mendicants' own explanation for why the grove's fallen "
+         "material provokes no sense of personal assault, mapped "
+         "directly onto the aggregates."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions in each half "
+        "(feeling, perception, and choices, each following the same "
+        "instruction and simile spelled out in full for form and "
+        "consciousness) are given exactly as bilara-data preserves "
+        "them. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.33:1.1-1.6"),
+        ("p", "&sect;2", "sn22.33:1.12-1.13"),
+        ("p", "&sect;3", "sn22.33:2.1-2.6"),
+        ("p", "&sect;4", "sn22.33:2.7-2.8"),
+        ("p", "&sect;5", "sn22.33:2.13-2.14"),
+    ],
+    quiz=[
+        {"q": "What instruction opens this discourse?",
+         "opts": [
+             "Give up what's not yours, for your welfare and happiness",
+             "Never leave the monastery grounds",
+             "Give away all your possessions to laypeople",
+             "Study every discourse the Buddha has given"],
+         "correct": 0,
+         "expl": "Stated for each aggregate before any explanation is offered."},
+        {"q": "What physical objects does the Buddha's simile point to?",
+         "opts": [
+             "The grass, sticks, branches, and leaves scattered through Jeta's Grove itself",
+             "The monastic robes worn by the mendicants",
+             "A specific relic kept in the monastery",
+             "Coins and other valuables"],
+         "correct": 0,
+         "expl": "Drawn directly from the immediate physical surroundings of the teaching itself."},
+        {"q": "Why do the mendicants say they wouldn't feel assaulted if someone burned or carried off that material?",
+         "opts": [
+             "Because it is neither self nor belonging to self",
+             "Because it has no monetary value",
+             "Because the material technically belongs to someone else already",
+             "Because mendicants are forbidden from having opinions on the matter"],
+         "correct": 0,
+         "expl": "Na attā na attaniya — the mendicants' own reasoning, then mapped directly onto the aggregates."},
+        {"q": "How does the discourse close its argument?",
+         "opts": [
+             "By mapping the simile directly onto the aggregates: \"in the same way, form isn't yours: give it up\"",
+             "By denying that the simile applies to the aggregates at all",
+             "By introducing an entirely new, unrelated argument",
+             "By leaving the connection between simile and aggregates unstated"],
+         "correct": 0,
+         "expl": "No remaining gap between the illustration and its target."},
+        {"q": "What does Natumhākavagga take its name from?",
+         "opts": [
+             "This discourse's plainer opening phrase, \"it's not yours,\" rather than its vivid simile",
+             "The exact wording of the simile itself",
+             "A different discourse entirely, later in the vagga",
+             "The name of a specific mendicant mentioned in the text"],
+         "correct": 0,
+         "expl": "A naming pattern (core claim over memorable illustration) seen elsewhere in this saṃyutta."},
+        {"q": "How many aggregates does this discourse's instruction apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Devadaha",
+             "Rājagaha, Vulture's Peak",
+             "Kapilavatthu"],
+         "correct": 0,
+         "expl": "The specific setting is essential to the simile's immediacy — the grove itself is the example."},
+        {"q": "What promised result follows from giving up what isn't yours?",
+         "opts": [
+             "Welfare and happiness",
+             "Immediate rebirth as a deity",
+             "Physical strength and long life",
+             "Public recognition and honor"],
+         "correct": 0,
+         "expl": "Hitāya sukhāya, repeated after every instance of the instruction."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.34, a shorter companion restating the same instruction without the simile",
+             "A return to SN 22.22",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "A shorter paired discourse, mirroring the vagga's opening instruction."},
+        {"q": "Is the simile in this discourse an abstract comparison or drawn from the immediate setting?",
+         "opts": [
+             "Drawn directly from the immediate physical setting — the grove where the teaching is actually being given",
+             "A purely abstract, hypothetical comparison with no connection to the setting",
+             "A comparison to a distant, unnamed location",
+             "A comparison to events from a past life"],
+         "correct": 0,
+         "expl": "Its immediacy is part of what makes the simile unusually vivid and persuasive."},
+    ],
+    marginalia=[
+        ("An instruction given before its reason", [
+            "give up what's not yours &mdash;",
+            "the explanation follows only afterward",
+        ]),
+        ("A simile drawn from the ground underfoot", [
+            "grass, sticks, leaves of this very grove &mdash;",
+            "not an abstract, distant comparison",
+        ]),
+        ("Neither self nor belonging to self", [
+            "the mendicants' own reasoning &mdash;",
+            "mapped directly onto the five aggregates",
+        ]),
+        ("A vagga named for its claim, not its image", [
+            "\"it's not yours,\" not \"the grove's leaves\" &mdash;",
+            "the same pattern as Bhāravagga's own naming",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.33/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.32.html">SN 22.32 &middot; Brittle</a> '
+        "&mdash; the previous discourse, closing Bhāravagga.",
+        '<a href="sn-22.34.html">SN 22.34 &middot; It&rsquo;s Not '
+        "Yours (2nd)</a> &mdash; the next discourse, the same "
+        "instruction restated without the simile.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.34 — Dutiyanatumhākasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 34, "Dutiyanatumhāka", "It's Not Yours (2nd)",
+    vagga="Natumhākavagga",
+    meta_title="SN 22.34 — It's Not Yours (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyanatumhākasutta &mdash; SN 22.33's instruction "
+        "restated without its famous simile, closing on the bare "
+        "imperative alone. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The identical instruction from SN 22.33, stripped "
+                 "of its Jeta's Grove simile and closing with the "
+                 "bare imperative restated once more"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and direct, best read as SN 22.33's "
+                       "companion"),
+    ],
+    why=(
+        "This discourse gives the identical instruction as SN 22.33 "
+        "&mdash; give up what isn't yours, for your welfare and "
+        "happiness, applied to each aggregate in turn &mdash; but "
+        "omits the grass-and-leaves simile entirely. Where SN 22.33 "
+        "spent roughly half its length illustrating why the "
+        "aggregates aren't self, this discourse simply states the "
+        "instruction, states it again for each aggregate, and closes "
+        "by repeating the bare imperative once more without any "
+        "supporting image at all. The comparison between the two "
+        "discourses shows how the same content could be delivered "
+        "either with or without its illustrative apparatus."
+    ),
+    guide=[
+        ("The identical instruction, no simile attached", [
+            "Every clause of this discourse's instruction matches SN "
+            "22.33 exactly &mdash; give up what isn't yours, for your "
+            "welfare and happiness, applied in turn to form, feeling, "
+            "perception, choices, and consciousness. What is missing "
+            "is the entire second half of SN 22.33: no grove, no "
+            "grass and sticks, no rhetorical question to the "
+            "assembled mendicants.",
+        ]),
+        ("A closing repetition standing in for the simile", [
+            "In place of SN 22.33's illustrative closing section, "
+            "this discourse simply repeats its own opening "
+            "instruction once more: &ldquo;give up what's not yours. "
+            "Giving it up will be for your welfare and "
+            "happiness.&rdquo; The repetition itself, rather than an "
+            "image, provides the discourse's sense of closure.",
+        ]),
+        ("What the comparison with SN 22.33 reveals", [
+            "Reading these two discourses side by side shows that the "
+            "instruction to give up the aggregates did not, in this "
+            "tradition, require the Jeta's Grove simile to stand on "
+            "its own &mdash; the bare imperative was evidently "
+            "considered a complete teaching in itself, with the "
+            "simile functioning as an optional, vivid elaboration "
+            "rather than a logically necessary component.",
+        ]),
+        ("A short companion opening the vagga's second half of its opening pair", [
+            "As the second of Natumhākavagga's own two &ldquo;it's not "
+            "yours&rdquo; discourses, this brief companion sets the "
+            "pattern the vagga's remaining pairs (SN 22.35-36's "
+            "mendicant narrative, SN 22.37-38's Ānanda dialogue) will "
+            "also follow &mdash; a fuller first discourse followed by "
+            "a shorter or differently elaborated second.",
+        ]),
+    ],
+    terms=[
+        ("na tumhākaṁ",
+         "&ldquo;it's not yours&rdquo; &mdash; the same title phrase "
+         "as SN 22.33, unchanged here despite the missing simile."),
+        ("pajahatha",
+         "&ldquo;give up&rdquo; &mdash; the discourse's central "
+         "imperative verb, identical to SN 22.33's."),
+        ("hitāya sukhāya",
+         "&ldquo;for welfare and happiness&rdquo; &mdash; the "
+         "promised result, repeated at both the instruction's first "
+         "statement and its closing repetition."),
+        ("peyyāla",
+         "the technical term for the kind of source-level compression "
+         "seen in SN 22.6 and SN 22.13 earlier in this book, though "
+         "this discourse is not itself elided &mdash; it is simply "
+         "shorter by design, lacking a simile rather than eliding one."),
+        ("tiṇakaṭṭhasākhāpalāsa",
+         "&ldquo;grass, sticks, branches, and leaves&rdquo; &mdash; "
+         "SN 22.33's simile material, entirely absent from this "
+         "discourse's shorter form."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions (feeling, "
+        "perception, and choices, each following the same instruction "
+        "spelled out in full for form and consciousness) are given "
+        "exactly as bilara-data preserves them. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.34:1.1-1.6"),
+        ("p", "&sect;2", "sn22.34:1.10-1.13"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's instruction compare to SN 22.33's?",
+         "opts": [
+             "Identical in every clause, applied to each aggregate in turn",
+             "Entirely different, using a new set of terms",
+             "A direct contradiction of SN 22.33",
+             "Shorter because it applies to only three of the five aggregates"],
+         "correct": 0,
+         "expl": "Every clause matches SN 22.33 exactly."},
+        {"q": "What is missing from this discourse that SN 22.33 included?",
+         "opts": [
+             "The Jeta's Grove simile of grass, sticks, branches, and leaves",
+             "The instruction to give up the aggregates",
+             "The mention of the aggregate \"form\"",
+             "The setting at Sāvatthī"],
+         "correct": 0,
+         "expl": "The entire illustrative second half of SN 22.33 is absent here."},
+        {"q": "What does this discourse use in place of the simile to provide closure?",
+         "opts": [
+             "A repetition of its own opening instruction",
+             "A new, different simile",
+             "A question left unanswered",
+             "A narrative about a mendicant's later attainment"],
+         "correct": 0,
+         "expl": "The instruction repeated once more stands in for illustrative content."},
+        {"q": "What does comparing SN 22.33 and this discourse reveal about the simile's role?",
+         "opts": [
+             "The simile functioned as an optional, vivid elaboration rather than a logically necessary component",
+             "The simile was considered essential and this discourse is therefore incomplete",
+             "The two discourses are considered contradictory by the tradition",
+             "The simile only applies to some aggregates, not all five"],
+         "correct": 0,
+         "expl": "The bare imperative was evidently a complete teaching on its own."},
+        {"q": "What pattern does this pair (SN 22.33-34) set for the rest of the vagga?",
+         "opts": [
+             "A fuller first discourse followed by a shorter or differently elaborated second, repeated in later pairs",
+             "No pattern — each subsequent pair is entirely unrelated in structure",
+             "A pattern of increasingly longer discourses with no shortening",
+             "A pattern where the second discourse always contradicts the first"],
+         "correct": 0,
+         "expl": "SN 22.35-36 and SN 22.37-38 follow a similar fuller-then-varied structure."},
+        {"q": "How many aggregates does this discourse's instruction apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as SN 22.33, without the grove-specific simile detail."},
+        {"q": "What promised result follows from giving up what isn't yours in this discourse?",
+         "opts": [
+             "Welfare and happiness",
+             "Immediate ordination as a senior monk",
+             "Physical invulnerability",
+             "Public praise from laypeople"],
+         "correct": 0,
+         "expl": "Hitāya sukhāya, identical to SN 22.33's wording."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.35, a narrative about a mendicant requesting a brief teaching",
+             "A return to SN 22.22",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "Opening the vagga's second pair, a narrative structure distinct from this discourse's bare instruction."},
+        {"q": "Is this discourse itself an elided peyyāla stub, or a complete discourse that is simply shorter by design?",
+         "opts": [
+             "A complete discourse, shorter by design rather than an elided compression of a longer original",
+             "An elided peyyāla stub identical in kind to SN 22.6 or SN 22.13",
+             "An incomplete fragment missing from the source entirely",
+             "A later scribal addition not part of the original collection"],
+         "correct": 0,
+         "expl": "Unlike SN 22.6 or SN 22.13, this discourse is not eliding a fuller statement given elsewhere in identical form."},
+    ],
+    marginalia=[
+        ("The identical instruction, the simile removed", [
+            "every clause matches SN 22.33 &mdash;",
+            "the grove, the grass, the leaves all absent",
+        ]),
+        ("Repetition standing in for illustration", [
+            "the instruction stated twice &mdash;",
+            "no image needed to close the discourse",
+        ]),
+        ("An optional elaboration, not a requirement", [
+            "the bare imperative sufficed on its own &mdash;",
+            "the simile was vivid, not logically necessary",
+        ]),
+        ("Setting the vagga's pairing pattern", [
+            "fuller discourse, then a shorter companion &mdash;",
+            "repeated again in the pairs that follow",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.34/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.33.html">SN 22.33 &middot; It&rsquo;s Not '
+        "Yours</a> &mdash; the previous discourse, the same "
+        "instruction with the Jeta's Grove simile attached.",
+        '<a href="sn-22.35.html">SN 22.35 &middot; A Mendicant</a> '
+        "&mdash; the next discourse, a narrative about a mendicant's "
+        "request for a teaching in brief.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.35 — Bhikkhusutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 35, "Bhikkhu", "A Mendicant",
+    vagga="Natumhākavagga",
+    meta_title="SN 22.35 — A Mendicant | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhikkhusutta &mdash; an unnamed mendicant requests a "
+        "brief teaching, explains its detailed meaning correctly, "
+        "and attains arahantship soon after. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "An unnamed mendicant questions the Buddha and "
+                     "then explains the teaching back to him"),
+        ("Form", "The classic \"teaching in brief\" narrative: a "
+                 "compact statement, a request for its detailed "
+                 "meaning, a correct answer confirmed, and a report "
+                 "of the mendicant's subsequent attainment"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a compact formula (\"reckoned by\") carrying "
+                       "unusually dense implications"),
+    ],
+    why=(
+        "This discourse follows one of the canon's most recognizable "
+        "narrative templates: an unnamed mendicant asks the Buddha "
+        "for a teaching &ldquo;in brief,&rdquo; intending to go off "
+        "and practice alone in solitude. The Buddha gives a "
+        "deliberately compressed formula &mdash; &ldquo;you're "
+        "reckoned by what you have an underlying tendency for; "
+        "you're not reckoned by what you have no underlying tendency "
+        "for&rdquo; &mdash; and then, remarkably, asks the mendicant "
+        "to explain its detailed meaning back to him before the "
+        "mendicant has even left. The mendicant does so correctly, "
+        "receives confirmation, departs to practice alone, and "
+        "&ldquo;soon&rdquo; attains full liberation. The discourse "
+        "thus enacts, in miniature, the entire arc from teaching to "
+        "realization within a single narrative."
+    ),
+    guide=[
+        ("A request framed around solitary practice", [
+            "The mendicant's request is specific: teach me in brief, "
+            "so that, having heard it, I can go live alone, "
+            "withdrawn, diligent, keen, and resolute. This framing "
+            "&mdash; brevity in service of solitary application, "
+            "rather than brevity for its own sake &mdash; recurs "
+            "throughout this genre of discourse and signals that what "
+            "follows is meant to be a complete, self-sufficient "
+            "meditation instruction rather than merely a summary.",
+        ]),
+        ("A formula built on a single technical term", [
+            "The Buddha's brief teaching turns entirely on one word: "
+            "anusaya, &ldquo;underlying tendency&rdquo; (the same "
+            "term for the latent dispositions toward greed, "
+            "aversion, and views that persist beneath the surface of "
+            "ordinary awareness). You are &ldquo;reckoned by&rdquo; "
+            "&mdash; identified with, categorized under &mdash; "
+            "whatever you have this latent tendency toward, and not "
+            "reckoned by whatever you have no such tendency toward.",
+        ]),
+        ("The mendicant tested on his own understanding, immediately", [
+            "Unusually, the Buddha does not simply confirm "
+            "understanding after the mendicant departs and returns "
+            "&mdash; he asks the mendicant to demonstrate "
+            "comprehension on the spot: &ldquo;but how do you see "
+            "the detailed meaning of my brief statement?&rdquo; The "
+            "mendicant answers by applying the formula to each of the "
+            "five aggregates in turn, and the Buddha repeats the "
+            "mendicant's own answer back verbatim as confirmation "
+            "&mdash; a structure that gives the listener's own "
+            "articulation equal standing with the Buddha's original "
+            "statement.",
+        ]),
+        ("A narrative arc compressed into one short discourse", [
+            "The discourse closes by narrating what happened next: "
+            "the mendicant bowed, departed, and &ldquo;soon&rdquo; "
+            "realized the supreme goal of the spiritual life, closing "
+            "with the same four-part arahant declaration used "
+            "throughout this book. Few discourses in this vagga carry "
+            "a listener from initial request through confirmed "
+            "understanding to full liberation within a single, "
+            "self-contained narrative arc this compact.",
+        ]),
+    ],
+    terms=[
+        ("saṅkhittena",
+         "&ldquo;in brief&rdquo; &mdash; the mendicant's explicit "
+         "request, framing the entire discourse as an instance of "
+         "this recurring genre."),
+        ("anusaya",
+         "&ldquo;underlying tendency&rdquo; &mdash; the single "
+         "technical term the Buddha's brief formula turns on, naming "
+         "latent dispositions beneath ordinary awareness."),
+        ("saṅkhaṁ gacchati",
+         "&ldquo;is reckoned by&rdquo; &mdash; the formula's key "
+         "verb, meaning to be identified with or categorized under "
+         "something."),
+        ("eko vūpakaṭṭho appamatto ātāpī pahitatto",
+         "&ldquo;alone, withdrawn, diligent, keen, and resolute&rdquo; "
+         "&mdash; the standard description of solitary meditative "
+         "effort, naming what the mendicant intends to do once "
+         "taught."),
+        ("khīṇā jāti&hellip;nāparaṁ itthattāya",
+         "&ldquo;rebirth is ended&hellip;nothing further for this "
+         "place&rdquo; &mdash; the standard arahant declaration, "
+         "closing the narrative with the mendicant's own attainment."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions in each of "
+        "the discourse's two parallel expositions (feeling, "
+        "perception, and choices, each following the same formula "
+        "spelled out in full for form and consciousness) are given "
+        "exactly as bilara-data preserves them. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.35:1.1-1.7"),
+        ("p", "&sect;2", "sn22.35:2.1-2.2"),
+        ("p", "&sect;3", "sn22.35:2.7-2.7"),
+        ("p", "&sect;4", "sn22.35:2.12-2.12"),
+        ("p", "&sect;5", "sn22.35:3.1-3.3"),
+        ("p", "&sect;6", "sn22.35:4.1-4.1"),
+        ("p", "&sect;7", "sn22.35:5.1-5.3"),
+    ],
+    quiz=[
+        {"q": "What does the mendicant ask the Buddha for at the discourse's start?",
+         "opts": [
+             "A teaching in brief, so he can go practice alone in solitude",
+             "Permission to travel to a distant land",
+             "A formal debate with another teacher",
+             "A detailed multi-year course of study"],
+         "correct": 0,
+         "expl": "Brevity framed explicitly in service of solitary application, not summary for its own sake."},
+        {"q": "What single technical term does the Buddha's brief formula turn on?",
+         "opts": [
+             "Anusaya, \"underlying tendency\"",
+             "Nirodha, \"cessation\"",
+             "Assāda, \"gratification\"",
+             "Pariññā, \"complete understanding\""],
+         "correct": 0,
+         "expl": "The latent dispositions that persist beneath ordinary awareness."},
+        {"q": "What does the Buddha ask the mendicant to do immediately after giving the brief formula?",
+         "opts": [
+             "Explain its detailed meaning back to him on the spot",
+             "Leave immediately without further discussion",
+             "Repeat the formula word for word without explanation",
+             "Debate the formula's validity with other mendicants"],
+         "correct": 0,
+         "expl": "An unusual immediate test of comprehension, rather than confirmation after later practice."},
+        {"q": "How does the mendicant apply the formula in his answer?",
+         "opts": [
+             "To each of the five aggregates in turn — reckoned by an underlying tendency for it, not reckoned without one",
+             "Only to the aggregate of consciousness",
+             "By rejecting the formula as unclear",
+             "By asking the Buddha to clarify further before answering"],
+         "correct": 0,
+         "expl": "A direct application of anusaya across form, feeling, perception, choices, and consciousness."},
+        {"q": "How does the Buddha respond to the mendicant's explanation?",
+         "opts": [
+             "By repeating the mendicant's own answer back verbatim as confirmation",
+             "By correcting several errors in the explanation",
+             "By giving an entirely different, unrelated answer",
+             "By remaining silent and giving no response"],
+         "correct": 0,
+         "expl": "Giving the mendicant's own articulation equal standing with the Buddha's original statement."},
+        {"q": "What happens to the mendicant after he departs to practice alone?",
+         "opts": [
+             "He soon realizes the supreme goal of the spiritual life and becomes an arahant",
+             "He returns to ask further questions without attaining anything",
+             "He abandons the practice shortly afterward",
+             "He teaches the formula to other mendicants instead of practicing it himself"],
+         "correct": 0,
+         "expl": "The full arahant declaration closes the discourse's narrative arc."},
+        {"q": "What description names the mendicant's intended manner of practice?",
+         "opts": [
+             "Alone, withdrawn, diligent, keen, and resolute",
+             "Surrounded by a large community of supporters",
+             "Traveling constantly between different regions",
+             "Engaged primarily in scholarly debate"],
+         "correct": 0,
+         "expl": "The standard formula for solitary meditative effort."},
+        {"q": "How many aggregates does the formula apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "The default setting for most of this vagga's discourses."},
+        {"q": "How does this discourse's structure compare to SN 22.3's earlier exegetical dialogue?",
+         "opts": [
+             "A similar pattern — a brief statement given, then unpacked in detail — but this time ending with a report of the questioner's own attainment",
+             "Entirely unrelated in structure",
+             "A direct contradiction of SN 22.3's method",
+             "Identical in every detail, including the questioner's identity"],
+         "correct": 0,
+         "expl": "Both follow the request-and-gloss pattern, but this discourse adds a narrative of subsequent liberation."},
+    ],
+    marginalia=[
+        ("Brevity requested for a specific purpose", [
+            "not summary for its own sake &mdash;",
+            "meant for immediate solitary application",
+        ]),
+        ("One technical term carrying the whole formula", [
+            "anusaya, underlying tendency &mdash;",
+            "reckoned by what lingers beneath awareness",
+        ]),
+        ("Tested on the spot, not after practice", [
+            "explain it back immediately &mdash;",
+            "confirmation before the mendicant even leaves",
+        ]),
+        ("A complete arc in one short discourse", [
+            "request, formula, confirmation, attainment &mdash;",
+            "teaching to liberation within a single narrative",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.35/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.34.html">SN 22.34 &middot; It&rsquo;s Not '
+        "Yours (2nd)</a> &mdash; the previous discourse, closing the "
+        "vagga's opening pair.",
+        '<a href="sn-22.36.html">SN 22.36 &middot; A Mendicant '
+        "(2nd)</a> &mdash; the next discourse, the same narrative "
+        "with a two-step version of the formula.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.36 — Dutiyabhikkhusutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 36, "Dutiyabhikkhu", "A Mendicant (2nd)",
+    vagga="Natumhākavagga",
+    meta_title="SN 22.36 — A Mendicant (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyabhikkhusutta &mdash; SN 22.35's narrative repeated "
+        "with a two-step version of the formula, adding \"measured "
+        "against\" between tendency and being reckoned. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "An unnamed mendicant questions the Buddha and "
+                     "then explains the teaching back to him"),
+        ("Form", "The identical narrative template as SN 22.35, with "
+                 "a formula extended by one additional intermediate "
+                 "step"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "best read directly after SN 22.35, whose "
+                       "formula it extends by one link"),
+    ],
+    why=(
+        "This discourse repeats SN 22.35's narrative almost exactly "
+        "&mdash; a mendicant requests a teaching in brief in order to "
+        "practice alone, explains its meaning correctly, and attains "
+        "arahantship &mdash; but the formula itself gains one "
+        "additional step. Where SN 22.35 said simply &ldquo;you're "
+        "reckoned by what you have an underlying tendency for,&rdquo; "
+        "this discourse inserts an intermediate link: &ldquo;you're "
+        "measured against what you have an underlying tendency for, "
+        "and you're reckoned by what you're measured against.&rdquo; "
+        "The destination is identical; the path to it now has one "
+        "more visible step."
+    ),
+    guide=[
+        ("The same narrative, told again in full", [
+            "Every element of SN 22.35's story recurs here: an "
+            "unnamed mendicant's request for a brief teaching meant "
+            "for solitary practice, the Buddha's compact formula, the "
+            "mendicant's correct explanation, the Buddha's "
+            "confirmation, and the mendicant's departure and "
+            "subsequent attainment. The narrative frame is repeated "
+            "in full rather than elided, even though its content is "
+            "so close to SN 22.35's.",
+        ]),
+        ("One additional link inserted into the formula", [
+            "SN 22.35's formula moved directly from underlying "
+            "tendency to being reckoned. This discourse inserts an "
+            "intermediate term: &ldquo;you're measured against "
+            "(saṅkhaṁ gacchati is now paired with a second verb) "
+            "what you have an underlying tendency for, and you're "
+            "reckoned by what you're measured against.&rdquo; The "
+            "chain now has two links rather than one, though both "
+            "discourses arrive at the identical outcome.",
+        ]),
+        ("Why the extra step might matter", [
+            "The additional intermediate term makes explicit "
+            "something SN 22.35 left implicit: that being "
+            "&ldquo;reckoned by&rdquo; something is not a direct, "
+            "unmediated consequence of having an underlying tendency "
+            "toward it, but passes through an intervening state of "
+            "being &ldquo;measured against&rdquo; it first. Whether "
+            "this represents a genuinely distinct doctrinal nuance or "
+            "simply an alternative way of unpacking the same "
+            "relationship, the text does not say &mdash; but the "
+            "deliberate insertion of a new term is worth noticing "
+            "rather than passing over.",
+        ]),
+        ("A pair demonstrating variation within a fixed template", [
+            "Read together, SN 22.35 and this discourse show the "
+            "&ldquo;brief teaching&rdquo; narrative template "
+            "accommodating small but deliberate variation in its "
+            "doctrinal content while keeping its narrative frame "
+            "completely fixed &mdash; the same pattern already seen "
+            "in this vagga's SN 22.33-34 pair, where the narrative "
+            "frame stayed fixed while the illustrative material "
+            "varied instead.",
+        ]),
+    ],
+    terms=[
+        ("anusaya",
+         "&ldquo;underlying tendency&rdquo; &mdash; the same starting "
+         "term as SN 22.35, unchanged in this discourse's extended "
+         "formula."),
+        ("saṅkhaṁ gacchati",
+         "&ldquo;measured against&rdquo; &mdash; the new intermediate "
+         "term this discourse inserts between underlying tendency and "
+         "being reckoned."),
+        ("tena saṅkhyaṁ gacchati",
+         "&ldquo;reckoned by what you're measured against&rdquo; "
+         "&mdash; the formula's final step, now explicitly derived "
+         "from the intermediate \"measured against\" rather than "
+         "directly from the underlying tendency."),
+        ("saṅkhittena",
+         "&ldquo;in brief&rdquo; &mdash; the mendicant's request, "
+         "identical in wording to SN 22.35's."),
+        ("arahataṁ ahosi",
+         "&ldquo;became one of the perfected&rdquo; &mdash; the "
+         "discourse's closing description of the mendicant's "
+         "attainment, phrased slightly differently from SN 22.35's "
+         "fuller declaration but naming the identical outcome."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions in each of "
+        "the discourse's two parallel expositions (feeling, "
+        "perception, and choices, each following the same extended "
+        "formula spelled out in full for form and consciousness) are "
+        "given exactly as bilara-data preserves them. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.36:1.1-1.8"),
+        ("p", "&sect;2", "sn22.36:2.1-2.3"),
+        ("p", "&sect;3", "sn22.36:2.9-2.10"),
+        ("p", "&sect;4", "sn22.36:3.1-3.4"),
+        ("p", "&sect;5", "sn22.36:3.18-3.18"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's narrative compare to SN 22.35's?",
+         "opts": [
+             "Nearly identical — the same request, formula pattern, confirmation, and attainment",
+             "Entirely different, with a new questioner and setting",
+             "A direct contradiction of SN 22.35's narrative",
+             "Much shorter, omitting the mendicant's subsequent attainment"],
+         "correct": 0,
+         "expl": "The full narrative frame is repeated, even though the formula's content differs slightly."},
+        {"q": "What new intermediate term does this discourse insert into the formula?",
+         "opts": [
+             "\"Measured against\" — between having an underlying tendency and being reckoned",
+             "\"Completely understood\" — replacing \"reckoned\" entirely",
+             "\"Given up\" — replacing \"underlying tendency\" entirely",
+             "No new term is inserted; the formula is identical to SN 22.35's"],
+         "correct": 0,
+         "expl": "A two-step chain in place of SN 22.35's direct, single-step formula."},
+        {"q": "Do the two versions of the formula (SN 22.35's and this discourse's) arrive at different conclusions?",
+         "opts": [
+             "No — both arrive at the identical outcome, despite the extra intermediate step",
+             "Yes — this discourse concludes the opposite of SN 22.35",
+             "Yes — this discourse applies only to some aggregates",
+             "The discourse leaves the conclusion entirely open"],
+         "correct": 0,
+         "expl": "The destination is unchanged; only the visible path to it gains one more step."},
+        {"q": "What does the additional intermediate term make explicit, that SN 22.35 left implicit?",
+         "opts": [
+             "That being \"reckoned by\" something passes through an intervening state of being \"measured against\" it",
+             "That the formula applies to only one aggregate",
+             "That underlying tendency has no relationship to being reckoned at all",
+             "That the mendicant's attainment was accidental"],
+         "correct": 0,
+         "expl": "A deliberate insertion worth noticing, whether or not it represents a genuinely distinct doctrinal nuance."},
+        {"q": "What other pair in this vagga shows a similar pattern of narrative frame fixed, content varied?",
+         "opts": [
+             "SN 22.33-34, where the narrative frame stayed fixed while the illustrative material varied",
+             "SN 22.26-28, which uses an entirely different structure",
+             "SN 22.22, which has no companion pair at all",
+             "No other discourse in the vagga shows this pattern"],
+         "correct": 0,
+         "expl": "A recurring pattern of fixed template accommodating small doctrinal variation."},
+        {"q": "How many aggregates does this discourse's extended formula apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as SN 22.35."},
+        {"q": "What does the mendicant ask the Buddha for at the discourse's start?",
+         "opts": [
+             "A teaching in brief, so he can go practice alone in solitude",
+             "Formal permission to found a new monastery",
+             "Assistance translating a text into a foreign language",
+             "A debate with a rival teacher"],
+         "correct": 0,
+         "expl": "Identical in wording to SN 22.35's opening request."},
+        {"q": "How does the Buddha respond to the mendicant's explanation of the extended formula?",
+         "opts": [
+             "By repeating the mendicant's own answer back as confirmation, as in SN 22.35",
+             "By correcting the mendicant's explanation extensively",
+             "By declining to comment on the explanation",
+             "By giving an entirely different, unrelated teaching instead"],
+         "correct": 0,
+         "expl": "The same confirmation pattern as SN 22.35, adapted to the extended formula."},
+        {"q": "What happens to the mendicant after departing to practice alone?",
+         "opts": [
+             "He becomes one of the perfected (an arahant)",
+             "He returns without having attained anything",
+             "He abandons monastic life entirely",
+             "He is not mentioned again in the discourse"],
+         "correct": 0,
+         "expl": "The identical outcome to SN 22.35, closing the vagga's second matched pair."},
+    ],
+    marginalia=[
+        ("The same story, told again in full", [
+            "not elided this time &mdash;",
+            "request, formula, confirmation, attainment repeated",
+        ]),
+        ("One new link in the chain", [
+            "measured against, inserted &mdash;",
+            "between tendency and being reckoned",
+        ]),
+        ("The same destination, one more visible step", [
+            "outcome unchanged &mdash;",
+            "the path to it now spelled out further",
+        ]),
+        ("A fixed template, small deliberate variation", [
+            "echoing SN 22.33-34's own pattern &mdash;",
+            "narrative constant, formula content adjusted",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.36/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.35.html">SN 22.35 &middot; A Mendicant</a> '
+        "&mdash; the previous discourse, the same narrative with the "
+        "formula's simpler, single-step version.",
+        '<a href="sn-22.37.html">SN 22.37 &middot; With Ānanda</a> '
+        "&mdash; the next discourse, the Buddha rehearsing an answer "
+        "with Ānanda directly.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.37 — Ānandasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 37, "Ānanda", "With Ānanda",
+    vagga="Natumhākavagga",
+    meta_title="SN 22.37 — With Ānanda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ānandasutta &mdash; the Buddha rehearses with Ānanda how "
+        "to answer a hypothetical question about the aggregates' "
+        "arising, vanishing, and change while persisting. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, coaching Venerable Ānanda through a "
+                     "hypothetical question and its answer"),
+        ("Form", "A rehearsal dialogue: the Buddha poses a "
+                 "hypothetical question, Ānanda answers, and the "
+                 "Buddha confirms the answer word for word"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a compact rehearsal, best read alongside SN "
+                       "22.2's similar training scene earlier in the "
+                       "book"),
+    ],
+    why=(
+        "This discourse recalls SN 22.2's rehearsal scene from "
+        "earlier in the book, but scaled down to a single exchange "
+        "between the Buddha and Ānanda alone. The Buddha poses a "
+        "hypothetical: suppose someone asked you, Ānanda, what "
+        "things show evident arising, evident vanishing, and evident "
+        "change while persisting &mdash; how would you answer? "
+        "Ānanda gives his answer &mdash; the five aggregates, each "
+        "shown in turn to display all three characteristics &mdash; "
+        "and the Buddha confirms it by repeating the same words back "
+        "as instruction: &ldquo;that's how you should answer such a "
+        "question.&rdquo; The discourse functions as a compact "
+        "training exercise in real time, with the Buddha's own "
+        "closest attendant as its subject."
+    ),
+    guide=[
+        ("A hypothetical question, posed as practice", [
+            "Rather than asking Ānanda a direct doctrinal question, "
+            "the Buddha frames his question as a rehearsal for a "
+            "future encounter: &ldquo;suppose they were to ask "
+            "you&hellip;how would you answer?&rdquo; This framing "
+            "treats the exchange explicitly as preparation for "
+            "Ānanda's own future teaching role, echoing SN 22.2's "
+            "similar concern with equipping mendicants to answer "
+            "outsiders' questions accurately.",
+        ]),
+        ("Three characteristics named together for each aggregate", [
+            "Ānanda's answer names, for each of the five aggregates "
+            "in turn, three simultaneously evident features: its "
+            "arising is evident, its vanishing is evident, and its "
+            "change while persisting is evident. This threefold "
+            "description &mdash; arising, vanishing, and change while "
+            "persisting &mdash; captures impermanence not as a single "
+            "abstract property but as three concretely observable "
+            "facets of the same ongoing process.",
+        ]),
+        ("Confirmation by exact repetition", [
+            "The Buddha's response to Ānanda's answer is not a "
+            "paraphrase or elaboration but a word-for-word repetition "
+            "of what Ānanda has just said, closing with an explicit "
+            "instruction: &ldquo;that's how you should answer such a "
+            "question.&rdquo; This exact-repetition pattern, seen "
+            "already in SN 22.35's confirmation of the unnamed "
+            "mendicant's answer, appears again here between the "
+            "Buddha and his closest personal attendant.",
+        ]),
+        ("A shorter companion piece to SN 22.38", [
+            "This discourse presents its three characteristics "
+            "(arising, vanishing, change while persisting) in a "
+            "single present-tense statement, without dividing them "
+            "across past, future, and present as SN 22.38 immediately "
+            "after it will do. Read together, the two discourses show "
+            "the same core observation given first in its simplest "
+            "form and then in its fully time-differentiated version.",
+        ]),
+    ],
+    terms=[
+        ("uppādo paññāyati",
+         "&ldquo;arising is evident&rdquo; &mdash; the first of "
+         "three characteristics this discourse names for each "
+         "aggregate."),
+        ("vayo paññāyati",
+         "&ldquo;vanishing is evident&rdquo; &mdash; the second "
+         "characteristic, paired with arising as an equally observable "
+         "feature."),
+        ("ṭhitassa aññathattaṁ paññāyati",
+         "&ldquo;change while persisting is evident&rdquo; &mdash; "
+         "the third characteristic, naming impermanence's presence "
+         "even during an aggregate's apparent continuation."),
+        ("sace maṁ evaṁ puccheyyuṁ",
+         "&ldquo;suppose they were to ask you&rdquo; &mdash; the "
+         "Buddha's framing device, treating the exchange as rehearsal "
+         "for a future real encounter."),
+        ("evameva kho, ānanda, byākareyyāsi",
+         "&ldquo;that's how you should answer such a question&rdquo; "
+         "&mdash; the Buddha's closing confirmation, an explicit "
+         "instruction rather than mere approval."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions in each "
+        "exchange (feeling, perception, and choices, each following "
+        "the same threefold description spelled out in full for form "
+        "and consciousness) are given exactly as bilara-data "
+        "preserves them. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.37:2.1-2.6"),
+        ("p", "&sect;2", "sn22.37:2.7-2.12"),
+        ("p", "&sect;3", "sn22.37:3.1-3.7"),
+        ("p", "&sect;4", "sn22.37:3.8-3.8"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha frame his question to Ānanda?",
+         "opts": [
+             "As a hypothetical rehearsal: \"suppose they were to ask you... how would you answer?\"",
+             "As a direct accusation of wrongdoing",
+             "As an unrelated question about monastic robes",
+             "As a request to translate a text"],
+         "correct": 0,
+         "expl": "Explicitly framed as preparation for a future real encounter."},
+        {"q": "What three characteristics does Ānanda's answer name for each aggregate?",
+         "opts": [
+             "Arising is evident, vanishing is evident, and change while persisting is evident",
+             "Pleasant, painful, and neutral",
+             "Past, future, and present",
+             "Physical, mental, and spiritual"],
+         "correct": 0,
+         "expl": "Impermanence captured as three concretely observable facets of one process."},
+        {"q": "How does the Buddha respond to Ānanda's answer?",
+         "opts": [
+             "By repeating it word for word as confirmation, with an explicit instruction to answer this way",
+             "By correcting several errors in the answer",
+             "By giving an entirely different answer instead",
+             "By declining to comment"],
+         "correct": 0,
+         "expl": "The same exact-repetition confirmation pattern seen in SN 22.35."},
+        {"q": "How does this discourse's structure recall SN 22.2 earlier in the book?",
+         "opts": [
+             "Both concern rehearsing an answer in preparation for future questioning by others",
+             "Both are set at Devadaha rather than Sāvatthī",
+             "Both involve Sāriputta rather than Ānanda",
+             "There is no meaningful connection between the two discourses"],
+         "correct": 0,
+         "expl": "A shared concern with equipping a listener to answer outsiders accurately."},
+        {"q": "How does this discourse's three characteristics differ from SN 22.38's treatment?",
+         "opts": [
+             "This discourse gives them in a single present-tense statement, while SN 22.38 divides them across past, future, and present",
+             "This discourse uses entirely different characteristics from SN 22.38",
+             "SN 22.38 uses only one characteristic instead of three",
+             "There is no relationship between the two discourses"],
+         "correct": 0,
+         "expl": "The simpler form here, the fully time-differentiated version next."},
+        {"q": "How many aggregates does Ānanda's answer apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "The default setting for most of this vagga's discourses."},
+        {"q": "Who is being coached in this discourse?",
+         "opts": [
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "The householder Hāliddikāni",
+             "Venerable Sāriputta"],
+         "correct": 0,
+         "expl": "The Buddha's own closest personal attendant, distinct from SN 22.35-36's unnamed mendicant."},
+        {"q": "What does \"change while persisting is evident\" describe?",
+         "opts": [
+             "Impermanence's presence even during an aggregate's apparent continuation",
+             "An aggregate's complete disappearance",
+             "An aggregate that has not yet arisen",
+             "A permanent, unchanging quality of the aggregate"],
+         "correct": 0,
+         "expl": "A third facet of impermanence distinct from simple arising and vanishing."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.38, extending the same characteristics across past, future, and present",
+             "A return to SN 22.22",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "A fuller, time-differentiated companion to this discourse."},
+    ],
+    marginalia=[
+        ("A question framed as rehearsal", [
+            "\"suppose they were to ask you\" &mdash;",
+            "preparation for a future real encounter",
+        ]),
+        ("Three facets of one impermanence", [
+            "arising, vanishing, change while persisting &mdash;",
+            "not one abstract property but three observable ones",
+        ]),
+        ("Confirmation by exact repetition", [
+            "the same words handed back &mdash;",
+            "an instruction, not just approval",
+        ]),
+        ("The simpler half of a two-discourse pair", [
+            "present tense only &mdash;",
+            "SN 22.38 will add past and future",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.37/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.36.html">SN 22.36 &middot; A Mendicant '
+        "(2nd)</a> &mdash; the previous discourse, closing the "
+        "vagga's second matched pair.",
+        '<a href="sn-22.38.html">SN 22.38 &middot; With Ānanda '
+        "(2nd)</a> &mdash; the next discourse, the same rehearsal "
+        "extended across past, future, and present.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.38 — Dutiyaānandasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 38, "Dutiyaānanda", "With Ānanda (2nd)",
+    vagga="Natumhākavagga",
+    meta_title="SN 22.38 — With Ānanda (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaānandasutta &mdash; SN 22.37's rehearsal extended "
+        "across past, future, and present, describing the aggregates "
+        "at every stage of their existence. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, coaching Venerable Ānanda through a "
+                     "more elaborate hypothetical question"),
+        ("Form", "The same rehearsal structure as SN 22.37, now "
+                 "divided across three explicit time frames: past, "
+                 "future, and present"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "more elaborate than SN 22.37, worth reading "
+                       "as its direct continuation"),
+    ],
+    why=(
+        "This discourse takes SN 22.37's single present-tense "
+        "observation and unfolds it across all three times. The "
+        "Buddha's hypothetical question grows correspondingly more "
+        "elaborate: what things showed evident arising, vanishing, "
+        "and change while persisting; what things will show these; "
+        "and what things show them now? Ānanda's answer supplies "
+        "three parallel descriptions &mdash; whatever form has "
+        "passed, ceased, and perished showed these three "
+        "characteristics; whatever form is not yet born will show "
+        "them; and whatever form has been born and appeared shows "
+        "them currently. The three-times structure makes explicit "
+        "what SN 22.37 left as a single snapshot: that impermanence "
+        "characterizes the aggregates not only now but at every point "
+        "along their entire existence, actual or potential."
+    ),
+    guide=[
+        ("A question tripled across three time frames", [
+            "Where SN 22.37 asked a single question, this discourse "
+            "asks essentially the same question three times over, "
+            "once for each time frame: what showed these "
+            "characteristics in the past, what will show them in the "
+            "future, and what shows them now. The Buddha poses all "
+            "three variations together before Ānanda answers, giving "
+            "the hypothetical exchange a more elaborate, formally "
+            "structured shape than SN 22.37's single exchange.",
+        ]),
+        ("The past described through what has already ended", [
+            "Ānanda's answer for the past time frame is phrased "
+            "distinctively: whatever form &ldquo;has passed, ceased, "
+            "and perished&rdquo; showed evident arising, vanishing, "
+            "and change while persisting. The past is characterized "
+            "not by what it once was in the present moment of its "
+            "occurrence, but specifically by its having already come "
+            "to an end &mdash; impermanence applied retrospectively.",
+        ]),
+        ("The future described through what has not yet appeared", [
+            "The future time frame is described correspondingly: "
+            "whatever form &ldquo;is not yet born, and has not yet "
+            "appeared&rdquo; will show the same three characteristics "
+            "once it does arise. This is a striking claim in its own "
+            "right &mdash; that impermanence can be predicated in "
+            "advance of something that does not yet exist, simply on "
+            "the grounds that whatever eventually arises will be "
+            "subject to the same three-part pattern.",
+        ]),
+        ("The present described through what has already appeared", [
+            "The present time frame completes the set: whatever form "
+            "&ldquo;has been born, and has appeared&rdquo; shows "
+            "these three characteristics now, in the ordinary sense "
+            "already familiar from SN 22.37. Taken together, all "
+            "three time frames close the same argumentative gap the "
+            "earlier vagga discourse SN 22.9 opened &mdash; that "
+            "impermanence holds &ldquo;in the three times,&rdquo; not "
+            "merely in whichever moment happens to be observed "
+            "directly.",
+        ]),
+    ],
+    terms=[
+        ("atītaṁ addhānaṁ",
+         "&ldquo;the past&rdquo; &mdash; the first of the three time "
+         "frames this discourse's question and answer are divided "
+         "across."),
+        ("anāgataṁ addhānaṁ",
+         "&ldquo;the future&rdquo; &mdash; the second time frame, "
+         "describing what has not yet come to be."),
+        ("paccuppannaṁ addhānaṁ",
+         "&ldquo;the present&rdquo; &mdash; the third time frame, "
+         "matching SN 22.37's original single-time observation."),
+        ("atītaṁ niruddhaṁ vipariṇataṁ",
+         "&ldquo;has passed, ceased, and perished&rdquo; &mdash; the "
+         "distinctive phrasing describing form's past occurrence, "
+         "characterized by its having already ended."),
+        ("anuppannaṁ apātubhūtaṁ",
+         "&ldquo;not yet born, and has not yet appeared&rdquo; "
+         "&mdash; the phrasing describing form's future occurrence, "
+         "predicating impermanence of something not yet existing."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions in each of the "
+        "three time-frame expositions (feeling, perception, and "
+        "choices, each following the same pattern spelled out in full "
+        "for form and consciousness) are given exactly as bilara-data "
+        "preserves them. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.38:2.1-2.5"),
+        ("p", "&sect;2", "sn22.38:2.11-2.20"),
+        ("p", "&sect;3", "sn22.38:3.1-3.10"),
+        ("p", "&sect;4", "sn22.38:4.1-4.9"),
+        ("p", "&sect;5", "sn22.38:5.1-5.9"),
+        ("p", "&sect;6", "sn22.38:6.1-6.8"),
+        ("p", "&sect;7", "sn22.38:7.1-7.9"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's question differ from SN 22.37's?",
+         "opts": [
+             "It asks the same question three times, once each for the past, future, and present",
+             "It asks an entirely different, unrelated question",
+             "It asks only about the future, omitting past and present",
+             "It is identical in every respect to SN 22.37's question"],
+         "correct": 0,
+         "expl": "A more elaborate, formally structured shape than SN 22.37's single exchange."},
+        {"q": "How is form's past occurrence described in Ānanda's answer?",
+         "opts": [
+             "As having \"passed, ceased, and perished\"",
+             "As having \"never truly existed\"",
+             "As \"identical to its present form\"",
+             "As \"unknowable and undescribable\""],
+         "correct": 0,
+         "expl": "Characterized by its having already come to an end, applied retrospectively."},
+        {"q": "How is form's future occurrence described?",
+         "opts": [
+             "As \"not yet born, and has not yet appeared\"",
+             "As \"already fully formed but hidden\"",
+             "As \"impossible to ever arise\"",
+             "As \"identical to consciousness\""],
+         "correct": 0,
+         "expl": "A striking claim — predicating impermanence of something that does not yet exist."},
+        {"q": "What claim does describing the future this way make?",
+         "opts": [
+             "That whatever eventually arises will be subject to the same three-part impermanence pattern",
+             "That the future does not actually exist in any sense",
+             "That impermanence applies only to the present, never the future",
+             "That the future is entirely unpredictable and cannot be described at all"],
+         "correct": 0,
+         "expl": "Impermanence predicated in advance of something not yet existing."},
+        {"q": "How does this discourse relate to SN 22.9's earlier \"three times\" argument in this book?",
+         "opts": [
+             "Both establish that impermanence holds across past, future, and present, not just in observed moments",
+             "This discourse directly contradicts SN 22.9's conclusions",
+             "The two discourses concern entirely unrelated topics",
+             "SN 22.9 concerns only the future, unlike this discourse"],
+         "correct": 0,
+         "expl": "Closing the same argumentative gap SN 22.9 opened in Aniccavagga."},
+        {"q": "How many aggregates does this discourse's three-times structure apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as SN 22.37."},
+        {"q": "Who is being coached in this discourse?",
+         "opts": [
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "The householder Hāliddikāni",
+             "Venerable Sāriputta"],
+         "correct": 0,
+         "expl": "The same rehearsal partner as SN 22.37."},
+        {"q": "How does the Buddha respond to Ānanda's three-part answer?",
+         "opts": [
+             "By repeating it in full, confirming each of the three time frames in turn",
+             "By correcting the past and future sections only",
+             "By rejecting the future section as invalid",
+             "By giving no response at all"],
+         "correct": 0,
+         "expl": "The same confirmation pattern as SN 22.37, extended across all three time frames."},
+        {"q": "What relationship does this discourse have to SN 22.37?",
+         "opts": [
+             "A fuller, time-differentiated companion, unfolding SN 22.37's single observation across past, future, and present",
+             "A direct contradiction of SN 22.37's claims",
+             "An entirely unrelated discourse placed nearby by coincidence",
+             "A shorter summary of SN 22.37 with content removed"],
+         "correct": 0,
+         "expl": "SN 22.37 gives the simpler, single-time version; this discourse expands it fully."},
+    ],
+    marginalia=[
+        ("One question becomes three", [
+            "past, future, present, asked in turn &mdash;",
+            "a more elaborate rehearsal than SN 22.37's single exchange",
+        ]),
+        ("The past described by its ending", [
+            "passed, ceased, perished &mdash;",
+            "impermanence applied retrospectively",
+        ]),
+        ("The future described before it exists", [
+            "not yet born, not yet appeared &mdash;",
+            "impermanence predicated in advance",
+        ]),
+        ("Closing the gap SN 22.9 opened", [
+            "impermanence in all three times &mdash;",
+            "not just in whichever moment is observed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.38/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.37.html">SN 22.37 &middot; With Ānanda</a> '
+        "&mdash; the previous discourse, the same rehearsal in its "
+        "simpler, single-time form.",
+        '<a href="sn-22.39.html">SN 22.39 &middot; In Line With the '
+        "Teaching</a> &mdash; the next discourse, opening the vagga's "
+        "closing quartet on disillusionment and the three marks.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.39 — Anudhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 39, "Anudhamma", "In Line With the Teaching",
+    vagga="Natumhākavagga",
+    meta_title="SN 22.39 — In Line With the Teaching | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anudhammasutta &mdash; the full chain from disillusionment "
+        "to complete understanding to freedom, closing on the fullest "
+        "description of liberation in the vagga. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A single chain of three steps, opening the vagga's "
+                 "closing quartet"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "opens a quartet whose remaining three "
+                       "discourses vary this one's opening step"),
+    ],
+    why=(
+        "This discourse opens the vagga's closing quartet by naming "
+        "what &ldquo;practicing in line with the teaching&rdquo; "
+        "(dhammānudhammapaṭipanna) actually consists of: living full "
+        "of disillusionment for the five aggregates. Disillusionment "
+        "leads to complete understanding; complete understanding "
+        "leads to freedom from the aggregates; and that freedom is, "
+        "in turn, freedom from rebirth, old age, and death, and from "
+        "the entire list of afflictions that follow from them "
+        "&mdash; sorrow, lamentation, pain, sadness, and distress. "
+        "The chain closes with the Buddha's own direct declaration: "
+        "&ldquo;they're freed from suffering, I say.&rdquo; This "
+        "discourse's full statement of the chain is what the three "
+        "discourses immediately after it will each vary by a single "
+        "opening term."
+    ),
+    guide=[
+        ("A definition of \"practicing in line with the teaching\"", [
+            "The discourse opens by naming its own subject precisely: "
+            "when a mendicant is practicing in line with the teaching "
+            "(anudhamma), this &mdash; what follows &mdash; is what "
+            "that consists of. The definition is not left implicit; "
+            "the discourse states outright that it is defining the "
+            "term named in its own title.",
+        ]),
+        ("A three-step chain from disillusionment to freedom", [
+            "The chain itself has three explicit steps: living full "
+            "of disillusionment (nibbidābahula) for the five "
+            "aggregates; from this, completely understanding "
+            "(parijānāti) them; and from complete understanding, "
+            "being freed (vimuccati) from them. Each step depends "
+            "strictly on the one before it, in the same dependency "
+            "structure seen in SN 22.12's earlier liberation chain.",
+        ]),
+        ("The fullest description of freedom in this vagga", [
+            "Where many discourses in this book close on the compact "
+            "phrase &ldquo;freed from suffering,&rdquo; this "
+            "discourse spells out what that freedom specifically "
+            "includes: freedom from rebirth, old age, and death, and "
+            "from sorrow, lamentation, pain, sadness, and distress "
+            "&mdash; the fullest single description of the aggregates "
+            "of dukkha found together anywhere in Natumhākavagga, "
+            "before compressing it all into the final summary "
+            "&ldquo;they're freed from suffering, I say.&rdquo;",
+        ]),
+        ("A template the vagga's closing quartet will vary", [
+            "This discourse's opening step &mdash; living full of "
+            "disillusionment &mdash; is what the three discourses "
+            "immediately after it will each replace with a different "
+            "meditation practice: observing impermanence (SN 22.40), "
+            "observing suffering (SN 22.41), and observing not-self "
+            "(SN 22.42), each still leading to the identical closing "
+            "declaration.",
+        ]),
+    ],
+    terms=[
+        ("anudhamma",
+         "&ldquo;in line with the teaching&rdquo; &mdash; the "
+         "discourse's title term and the practice it defines, naming "
+         "correct conduct relative to the Dhamma as a whole."),
+        ("nibbidābahula",
+         "&ldquo;full of disillusionment&rdquo; &mdash; the chain's "
+         "opening step, describing a sustained disposition rather "
+         "than a single momentary insight."),
+        ("parijānāti",
+         "&ldquo;completely understands&rdquo; &mdash; the chain's "
+         "second step, the same pariññā defined earlier in this vagga "
+         "and in SN 22.23 within Bhāravagga."),
+        ("vimuccati",
+         "&ldquo;is freed&rdquo; &mdash; the chain's third and final "
+         "step, the same verb used in SN 22.12's earlier liberation "
+         "chain."),
+        ("dukkhasmā parimuccati, vadāmi",
+         "&ldquo;they're freed from suffering, I say&rdquo; &mdash; "
+         "the discourse's closing declaration, marked with the "
+         "Buddha's explicit personal voice, as in SN 22.29 earlier "
+         "in this book."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.39:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What does this discourse define \"practicing in line with the teaching\" as consisting of?",
+         "opts": [
+             "Living full of disillusionment for the five aggregates, leading through complete understanding to freedom",
+             "Reciting scripture daily without variation",
+             "Following a strict schedule of physical exercise",
+             "Avoiding all contact with other mendicants"],
+         "correct": 0,
+         "expl": "A three-step chain the discourse names and defines explicitly."},
+        {"q": "What is the chain's first step?",
+         "opts": [
+             "Living full of disillusionment (nibbidābahula) for the aggregates",
+             "Immediate freedom, with no preceding steps",
+             "Physical austerity practices",
+             "Formal debate with outsiders"],
+         "correct": 0,
+         "expl": "A sustained disposition, not a single momentary insight."},
+        {"q": "What does disillusionment lead to in this chain?",
+         "opts": [
+             "Complete understanding (parijānāti) of the aggregates",
+             "Immediate physical illness",
+             "A return to ordinary lay life",
+             "Increased attachment to the aggregates"],
+         "correct": 0,
+         "expl": "The chain's second step, depending strictly on the first."},
+        {"q": "What does the discourse specify freedom from the aggregates ultimately includes?",
+         "opts": [
+             "Freedom from rebirth, old age, death, sorrow, lamentation, pain, sadness, and distress",
+             "Freedom only from physical pain, with no mention of rebirth",
+             "Freedom from monastic obligations specifically",
+             "Freedom from all forms of speech"],
+         "correct": 0,
+         "expl": "The fullest single description of dukkha's components found together in this vagga."},
+        {"q": "How does this discourse's closing declaration compare to SN 22.29's earlier in the book?",
+         "opts": [
+             "Both are marked with the Buddha's explicit personal voice, \"I say\" (vadāmi)",
+             "This discourse contains no closing declaration at all",
+             "SN 22.29 uses an entirely different closing formula",
+             "The two discourses close with contradictory claims"],
+         "correct": 0,
+         "expl": "A shared marker of direct personal authority in both discourses."},
+        {"q": "What role does this discourse play for the three discourses immediately after it?",
+         "opts": [
+             "It supplies the template each of them will vary by replacing the opening step with a different meditation practice",
+             "It has no relationship to the discourses that follow",
+             "It directly contradicts what SN 22.40-42 will teach",
+             "It is a summary written after SN 22.40-42, not their template"],
+         "correct": 0,
+         "expl": "SN 22.40-42 each substitute a different observation for \"disillusionment\" while keeping the rest of the chain."},
+        {"q": "How many aggregates does this discourse's chain apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Named together as a group throughout the chain."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "What is the chain's third and final step?",
+         "opts": [
+             "Being freed (vimuccati) from the aggregates",
+             "Returning to disillusionment once more",
+             "Teaching the chain to others exclusively",
+             "A fourth, unnamed step not disclosed in the text"],
+         "correct": 0,
+         "expl": "The same verb used in SN 22.12's earlier liberation chain."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.40, replacing disillusionment with meditating observing impermanence",
+             "A return to SN 22.22",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "The second term of the vagga's closing quartet."},
+    ],
+    marginalia=[
+        ("A term named and then defined outright", [
+            "\"in line with the teaching\" &mdash;",
+            "the discourse states plainly what it consists of",
+        ]),
+        ("Three steps, each depending on the last", [
+            "disillusionment, understanding, freedom &mdash;",
+            "the same dependency structure as SN 22.12",
+        ]),
+        ("The fullest single list of suffering in the vagga", [
+            "rebirth, old age, death, sorrow &mdash;",
+            "before compressing back into one closing phrase",
+        ]),
+        ("A template for three more variations", [
+            "one opening step, soon to be swapped three times &mdash;",
+            "SN 22.40-42 will each vary it once",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.39/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.38.html">SN 22.38 &middot; With Ānanda '
+        "(2nd)</a> &mdash; the previous discourse, closing the "
+        "vagga's Ānanda rehearsal pair.",
+        '<a href="sn-22.40.html">SN 22.40 &middot; In Line With the '
+        "Teaching (2nd)</a> &mdash; the next discourse, replacing "
+        "disillusionment with observing impermanence directly.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.40 — Dutiyaanudhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 40, "Dutiyaanudhamma", "In Line With the Teaching (2nd)",
+    vagga="Natumhākavagga",
+    meta_title="SN 22.40 — In Line With the Teaching (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaanudhammasutta &mdash; SN 22.39's chain elided down "
+        "to a single swapped opening step: meditating observing "
+        "impermanence in place of disillusionment. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 22.39's chain, elided by the source down to its "
+                 "swapped opening step and closing declaration"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and elided, best read alongside SN "
+                       "22.39's full statement"),
+    ],
+    why=(
+        "This discourse takes SN 22.39's three-step chain and "
+        "replaces its opening term with a specific meditation "
+        "practice: rather than &ldquo;living full of "
+        "disillusionment,&rdquo; mendicants should meditate observing "
+        "impermanence (aniccānupassī) in the five aggregates. The "
+        "source elides everything in between, marking the gap with a "
+        "bare ellipsis before jumping straight to the closing "
+        "declaration &mdash; &ldquo;they're freed from suffering, I "
+        "say&rdquo; &mdash; trusting the reader to supply the "
+        "intervening complete-understanding-then-freedom steps from "
+        "SN 22.39 immediately before it."
+    ),
+    guide=[
+        ("A meditation practice in place of a disposition", [
+            "SN 22.39's opening step named a general disposition "
+            "&mdash; being full of disillusionment. This discourse "
+            "instead names a specific meditative activity: observing "
+            "impermanence (aniccānupassī) directly in each aggregate. "
+            "The shift is from a broad attitude to a named "
+            "contemplative practice, though both are presented as "
+            "leading to the identical outcome.",
+        ]),
+        ("A genuine elision, not a shortcut taken here", [
+            "As with SN 22.6 and SN 22.13 earlier in this book, the "
+            "gap between this discourse's opening clause and its "
+            "closing declaration is a real feature of the source "
+            "material, marked with an ellipsis in bilara-data itself "
+            "rather than a compression introduced by this reading "
+            "guide. The intervening complete-understanding-then-"
+            "freedom steps are trusted to the reader's memory of SN "
+            "22.39.",
+        ]),
+        ("The first of three variations on SN 22.39's template", [
+            "This discourse is the first of the three variations SN "
+            "22.39's own guide anticipated: observing impermanence "
+            "here, observing suffering in SN 22.41 next, and "
+            "observing not-self in SN 22.42 closing the vagga. All "
+            "three keep SN 22.39's closing declaration completely "
+            "unchanged, varying only the specific practice named at "
+            "the chain's opening.",
+        ]),
+        ("Anudhamma's meaning sharpened by this variation", [
+            "Read alongside SN 22.39, this discourse and its two "
+            "companions suggest that &ldquo;practicing in line with "
+            "the teaching&rdquo; is not a single fixed technique but "
+            "a family of related practices &mdash; disillusionment, "
+            "or any one of the three marks observed directly in "
+            "meditation &mdash; each equally capable of leading "
+            "through complete understanding to the identical freedom.",
+        ]),
+    ],
+    terms=[
+        ("aniccānupassī",
+         "&ldquo;observing impermanence&rdquo; &mdash; the "
+         "meditation practice this discourse substitutes for SN "
+         "22.39's \"full of disillusionment.\""),
+        ("peyyāla",
+         "the technical term for this discourse's genuine source-"
+         "level elision, the same kind of compression seen in SN "
+         "22.6 and SN 22.13 earlier in the book."),
+        ("dukkhasmā parimuccati, vadāmi",
+         "&ldquo;they're freed from suffering, I say&rdquo; &mdash; "
+         "the closing declaration, unchanged from SN 22.39."),
+        ("anudhamma",
+         "&ldquo;in line with the teaching&rdquo; &mdash; the vagga's "
+         "closing quartet's shared subject, here shown to accommodate "
+         "more than one specific practice."),
+        ("tilakkhaṇa",
+         "the &ldquo;three marks&rdquo; &mdash; impermanence, the "
+         "first of the three this quartet will observe directly in "
+         "turn."),
+    ],
+    text_intro=(
+        "The discourse in full &mdash; genuinely this short in the "
+        "source, its ellipsis given exactly as bilara-data preserves "
+        "it rather than expanded from SN 22.39. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.40:1.2-1.3"),
+    ],
+    quiz=[
+        {"q": "What practice does this discourse substitute for SN 22.39's \"full of disillusionment\"?",
+         "opts": [
+             "Meditating observing impermanence (aniccānupassī) in the aggregates",
+             "Reciting the discourse from memory daily",
+             "Formal debate with other mendicants",
+             "Physical austerity practices"],
+         "correct": 0,
+         "expl": "A shift from a general disposition to a specific named meditative practice."},
+        {"q": "How does the source handle the chain's remaining steps (complete understanding, freedom)?",
+         "opts": [
+             "With a genuine ellipsis, trusting the reader's memory of SN 22.39's full statement",
+             "By spelling them out again in full",
+             "By omitting them with no indication anything is missing",
+             "By replacing them with an entirely different chain"],
+         "correct": 0,
+         "expl": "The same kind of source-level elision seen in SN 22.6 and SN 22.13."},
+        {"q": "What closing declaration does this discourse retain unchanged from SN 22.39?",
+         "opts": [
+             "\"They're freed from suffering, I say\"",
+             "\"They shall teach for eighty years without rest\"",
+             "\"The aggregates cease to exist entirely\"",
+             "An entirely different, new declaration"],
+         "correct": 0,
+         "expl": "Identical wording, closing the shortened chain."},
+        {"q": "What position does this discourse hold in the vagga's closing quartet?",
+         "opts": [
+             "The first of three variations, following SN 22.39's template",
+             "The quartet's final term",
+             "It does not belong to the quartet",
+             "The quartet's opening term, before SN 22.39"],
+         "correct": 0,
+         "expl": "SN 22.39 gives the full template; this discourse is the first of three variations on it."},
+        {"q": "What does the existence of this variation suggest about \"practicing in line with the teaching\"?",
+         "opts": [
+             "That it is a family of related practices rather than a single fixed technique",
+             "That only disillusionment counts as genuine practice",
+             "That observing impermanence is invalid as a practice",
+             "That the three marks cannot be meditated on directly"],
+         "correct": 0,
+         "expl": "Disillusionment or any of the three marks observed directly, each leading to the same freedom."},
+        {"q": "How many aggregates does this discourse's practice apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Named together as a group, as in SN 22.39."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as SN 22.39."},
+        {"q": "Does this reading guide reconstruct the elided content and present it as this discourse's own text?",
+         "opts": [
+             "No — it quotes the ellipsis exactly as the source gives it",
+             "Yes — the full chain is reconstructed and presented as original",
+             "The elided content is replaced with unrelated material",
+             "The discourse is skipped entirely"],
+         "correct": 0,
+         "expl": "Consistent with this project's practice on other short peyyāla stubs in this book."},
+        {"q": "What term names the second of the three marks this quartet will observe, coming next in SN 22.41?",
+         "opts": [
+             "Suffering (dukkha)",
+             "Consciousness",
+             "Craving",
+             "Grasping"],
+         "correct": 0,
+         "expl": "SN 22.41 follows this discourse, substituting observing suffering for observing impermanence."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.41, substituting observing suffering for observing impermanence",
+             "A return to SN 22.22",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "The third term of the vagga's closing quartet."},
+    ],
+    marginalia=[
+        ("A named practice in place of a general disposition", [
+            "observing impermanence directly &mdash;",
+            "not just \"full of disillusionment\"",
+        ]),
+        ("A genuine elision, not this guide's shortcut", [
+            "the source itself marks the gap &mdash;",
+            "trusting the reader's memory of SN 22.39",
+        ]),
+        ("The same closing declaration, unchanged", [
+            "freed from suffering, I say &mdash;",
+            "identical wording across the whole quartet",
+        ]),
+        ("The first of three variations", [
+            "impermanence here, suffering and not-self to follow &mdash;",
+            "one template, three practices",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.40/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.39.html">SN 22.39 &middot; In Line With the '
+        "Teaching</a> &mdash; the previous discourse, whose full "
+        "chain this one elides by cross-reference.",
+        '<a href="sn-22.41.html">SN 22.41 &middot; In Line With the '
+        "Teaching (3rd)</a> &mdash; the next discourse, substituting "
+        "observing suffering for observing impermanence.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.41 — Tatiyaanudhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 41, "Tatiyaanudhamma", "In Line With the Teaching (3rd)",
+    vagga="Natumhākavagga",
+    meta_title="SN 22.41 — In Line With the Teaching (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyaanudhammasutta &mdash; the quartet's third term, "
+        "substituting observing suffering for observing impermanence "
+        "as the practice \"in line with the teaching.\" From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 22.39's chain, elided identically to SN 22.40 "
+                 "but with a different swapped opening step"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and elided, the third of the quartet's "
+                       "matched variations"),
+    ],
+    why=(
+        "This discourse continues the quartet SN 22.39 opened, "
+        "substituting a second specific meditation practice for "
+        "disillusionment: mendicants should meditate observing "
+        "suffering (dukkhānupassī) in the five aggregates. As in SN "
+        "22.40, the source elides everything between this opening "
+        "clause and the closing declaration, trusting the reader to "
+        "supply SN 22.39's intervening steps. The progression from "
+        "impermanence (SN 22.40) to suffering (this discourse) "
+        "follows the traditional order of the three marks, the same "
+        "sequence already seen in this book's Aniccavagga."
+    ),
+    guide=[
+        ("The quartet's second substituted practice", [
+            "Following the pattern SN 22.40 established, this "
+            "discourse swaps in a new opening term while leaving "
+            "everything else in SN 22.39's template unchanged: "
+            "mendicants should meditate observing suffering "
+            "(dukkhānupassī) directly in each aggregate, rather than "
+            "being generally &ldquo;full of disillusionment&rdquo; or "
+            "observing impermanence as SN 22.40 specified.",
+        ]),
+        ("The traditional order of the three marks preserved", [
+            "This quartet's sequence &mdash; impermanence (SN 22.40), "
+            "suffering (this discourse), not-self (SN 22.42 to "
+            "follow) &mdash; matches the traditional ordering of the "
+            "three marks (tilakkhaṇa) already established earlier in "
+            "this book, most notably in Aniccavagga's own SN 22.15-17 "
+            "telescoping trio. The order is not arbitrary; it follows "
+            "the standard logical sequence in which impermanence "
+            "grounds suffering, which in turn grounds not-self.",
+        ]),
+        ("The identical elision pattern as SN 22.40", [
+            "As with SN 22.40, this discourse's source material "
+            "marks a genuine gap with an ellipsis between its opening "
+            "clause and closing declaration, rather than spelling out "
+            "the intervening complete-understanding-then-freedom "
+            "steps a second time. The elision is preserved exactly as "
+            "bilara-data gives it.",
+        ]),
+        ("One variation remaining before the quartet closes", [
+            "With impermanence and suffering both now given as "
+            "alternative opening practices, only not-self remains for "
+            "SN 22.42 to complete the set &mdash; closing both this "
+            "quartet and Natumhākavagga itself on the third and final "
+            "mark.",
+        ]),
+    ],
+    terms=[
+        ("dukkhānupassī",
+         "&ldquo;observing suffering&rdquo; &mdash; the meditation "
+         "practice this discourse substitutes for SN 22.40's "
+         "\"observing impermanence.\""),
+        ("tilakkhaṇa",
+         "the &ldquo;three marks&rdquo; &mdash; here in their "
+         "traditional order, impermanence already given (SN 22.40), "
+         "suffering given here, not-self still to come (SN 22.42)."),
+        ("peyyāla",
+         "the technical term for this discourse's genuine source-"
+         "level elision, identical in kind to SN 22.40's."),
+        ("dukkhasmā parimuccati, vadāmi",
+         "&ldquo;they're freed from suffering, I say&rdquo; &mdash; "
+         "the closing declaration, unchanged from SN 22.39 and SN "
+         "22.40."),
+        ("anudhamma",
+         "&ldquo;in line with the teaching&rdquo; &mdash; the "
+         "quartet's shared subject, here accommodating its second "
+         "substituted practice."),
+    ],
+    text_intro=(
+        "The discourse in full &mdash; genuinely this short in the "
+        "source, its ellipsis given exactly as bilara-data preserves "
+        "it rather than expanded from SN 22.39. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.41:1.2-1.3"),
+    ],
+    quiz=[
+        {"q": "What practice does this discourse substitute for SN 22.39's opening step?",
+         "opts": [
+             "Meditating observing suffering (dukkhānupassī) in the aggregates",
+             "Observing impermanence, identical to SN 22.40",
+             "Formal recitation of monastic rules",
+             "Physical labor and manual work"],
+         "correct": 0,
+         "expl": "The quartet's second substituted practice, following observing impermanence."},
+        {"q": "What order do the three marks follow across SN 22.40-42?",
+         "opts": [
+             "The traditional order: impermanence, then suffering, then not-self",
+             "A random, unordered sequence",
+             "Not-self first, then suffering, then impermanence",
+             "Suffering first, then not-self, then impermanence"],
+         "correct": 0,
+         "expl": "The same traditional sequence already established in this book's Aniccavagga."},
+        {"q": "Why does this traditional order matter, according to this reading guide?",
+         "opts": [
+             "Impermanence grounds suffering, which in turn grounds not-self, in a standard logical sequence",
+             "The order is entirely arbitrary and carries no significance",
+             "Not-self must always come before impermanence for logical reasons",
+             "The order reflects the sequence in which the discourses were physically written"],
+         "correct": 0,
+         "expl": "The same logical dependency already seen in SN 22.15-17's telescoping trio."},
+        {"q": "How does the source handle the chain's remaining steps in this discourse?",
+         "opts": [
+             "With a genuine ellipsis, trusting the reader's memory of SN 22.39's full statement",
+             "By spelling them out again in full",
+             "By replacing them with an entirely new set of steps",
+             "By omitting them with no indication anything is missing"],
+         "correct": 0,
+         "expl": "The identical elision pattern as SN 22.40."},
+        {"q": "What closing declaration does this discourse retain, unchanged from SN 22.39 and SN 22.40?",
+         "opts": [
+             "\"They're freed from suffering, I say\"",
+             "\"The path is now complete for all beings\"",
+             "\"Suffering shall never end\"",
+             "An entirely different, new declaration"],
+         "correct": 0,
+         "expl": "Identical wording across all four discourses in the quartet."},
+        {"q": "How many aggregates does this discourse's practice apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Named together as a group, as in SN 22.39 and SN 22.40."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the rest of the quartet."},
+        {"q": "What position does this discourse hold in the vagga's closing quartet?",
+         "opts": [
+             "The third term, between impermanence (SN 22.40) and not-self (SN 22.42)",
+             "The quartet's opening term",
+             "The quartet's final term",
+             "It does not belong to the quartet"],
+         "correct": 0,
+         "expl": "The middle position among the three variation discourses."},
+        {"q": "What discourse comes immediately after this one, closing the quartet and the vagga?",
+         "opts": [
+             "SN 22.42, substituting observing not-self for observing suffering",
+             "A return to SN 22.22",
+             "A discourse from a different saṃyutta",
+             "SN 22.43, opening the next vagga"],
+         "correct": 0,
+         "expl": "The quartet's final term, completing the three marks."},
+        {"q": "Does this reading guide reconstruct the elided content and present it as this discourse's own text?",
+         "opts": [
+             "No — it quotes the ellipsis exactly as the source gives it",
+             "Yes — the full chain is reconstructed and presented as original",
+             "The elided content is replaced with unrelated material",
+             "The discourse is skipped entirely"],
+         "correct": 0,
+         "expl": "Consistent with this project's practice on other short peyyāla stubs in this book."},
+    ],
+    marginalia=[
+        ("The quartet's second substituted practice", [
+            "observing suffering directly &mdash;",
+            "following observing impermanence in SN 22.40",
+        ]),
+        ("The traditional order of the three marks", [
+            "impermanence grounds suffering &mdash;",
+            "not arbitrary, but a standard logical sequence",
+        ]),
+        ("The same elision as SN 22.40", [
+            "the source marks a genuine gap &mdash;",
+            "trusting the reader's memory of SN 22.39",
+        ]),
+        ("One variation remaining", [
+            "not-self left for SN 22.42 &mdash;",
+            "closing the quartet and the vagga together",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.41/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.40.html">SN 22.40 &middot; In Line With the '
+        "Teaching (2nd)</a> &mdash; the previous discourse, "
+        "substituting observing impermanence.",
+        '<a href="sn-22.42.html">SN 22.42 &middot; In Line With the '
+        "Teaching (4th)</a> &mdash; the next discourse, closing the "
+        "quartet and the vagga with observing not-self.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.42 — Catutthaanudhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 42, "Catutthaanudhamma", "In Line With the Teaching (4th)",
+    vagga="Natumhākavagga",
+    meta_title="SN 22.42 — In Line With the Teaching (4th) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Catutthaanudhammasutta &mdash; the quartet's closing "
+        "term, observing not-self, ending both the quartet and "
+        "Natumhākavagga itself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 22.39's chain, elided identically to SN 22.40-41 "
+                 "but with the quartet's third and final swapped "
+                 "opening step"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and elided, closing both the quartet "
+                       "and the vagga"),
+    ],
+    why=(
+        "This discourse closes both the quartet SN 22.39 opened and "
+        "Natumhākavagga itself, completing the three marks with the "
+        "last of the quartet's substituted practices: meditating "
+        "observing not-self (anattānupassī) in the five aggregates. "
+        "As in SN 22.40 and SN 22.41, everything between this opening "
+        "clause and the closing declaration is elided by the source, "
+        "trusting the reader's memory of SN 22.39's full template. "
+        "With impermanence, suffering, and now not-self all given as "
+        "equally valid opening practices leading to the identical "
+        "freedom, the quartet closes having demonstrated that "
+        "&ldquo;practicing in line with the teaching&rdquo; admits "
+        "more than one door into the same result."
+    ),
+    guide=[
+        ("The quartet's third and final substituted practice", [
+            "Completing the sequence SN 22.40 and SN 22.41 began, "
+            "this discourse names the last of the three marks: "
+            "mendicants should meditate observing not-self "
+            "(anattānupassī) directly in each aggregate. With this "
+            "substitution, the quartet has now given all three marks "
+            "&mdash; impermanence, suffering, not-self &mdash; each "
+            "as an independently sufficient opening practice within "
+            "the identical chain.",
+        ]),
+        ("A closing that completes rather than merely continues", [
+            "Unlike SN 22.40 and SN 22.41, which each opened a new "
+            "variation mid-sequence, this discourse closes the "
+            "sequence &mdash; there is no fourth mark waiting to be "
+            "substituted in a further discourse. The quartet's "
+            "structure (one full statement, then three progressively "
+            "shorter variations) is now complete.",
+        ]),
+        ("Natumhākavagga's own close, without a dramatic flourish", [
+            "This discourse also closes the vagga itself, and does so "
+            "with the same understated brevity that closed Bhāravagga "
+            "in SN 22.32 &mdash; no closing verse, no narrative, no "
+            "colophon naming the vagga's completion. The vagga simply "
+            "ends on its shortest and most compressed page, the "
+            "fourth in a row of near-identical short discourses.",
+        ]),
+        ("What the whole quartet demonstrates together", [
+            "Read as a set, SN 22.39-42 make a claim about practice "
+            "worth stating explicitly: &ldquo;practicing in line with "
+            "the teaching&rdquo; is not tied to any single technique "
+            "&mdash; disillusionment in general, or any one of the "
+            "three specific marks observed directly in meditation, "
+            "each leads through the identical chain of complete "
+            "understanding to the identical freedom from suffering. "
+            "The quartet's repetitive structure is itself the "
+            "argument for this pluralism, not merely its illustration.",
+        ]),
+    ],
+    terms=[
+        ("anattānupassī",
+         "&ldquo;observing not-self&rdquo; &mdash; the meditation "
+         "practice this discourse substitutes for SN 22.41's "
+         "\"observing suffering,\" completing the three marks."),
+        ("tilakkhaṇa",
+         "the &ldquo;three marks&rdquo; &mdash; impermanence, "
+         "suffering, and now not-self, all three given across this "
+         "quartet as independently sufficient starting points."),
+        ("peyyāla",
+         "the technical term for this discourse's genuine source-"
+         "level elision, identical in kind to SN 22.40 and SN 22.41's."),
+        ("dukkhasmā parimuccati, vadāmi",
+         "&ldquo;they're freed from suffering, I say&rdquo; &mdash; "
+         "the closing declaration, unchanged across all four "
+         "discourses of the quartet."),
+        ("anudhamma",
+         "&ldquo;in line with the teaching&rdquo; &mdash; the "
+         "quartet's shared subject, now shown across four discourses "
+         "to accommodate multiple equally valid practices."),
+    ],
+    text_intro=(
+        "The discourse in full &mdash; genuinely this short in the "
+        "source, its ellipsis given exactly as bilara-data preserves "
+        "it rather than expanded from SN 22.39. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.42:1.2-1.3"),
+    ],
+    quiz=[
+        {"q": "What practice does this discourse substitute for SN 22.41's \"observing suffering\"?",
+         "opts": [
+             "Meditating observing not-self (anattānupassī) in the aggregates",
+             "Observing impermanence, identical to SN 22.40",
+             "A return to \"full of disillusionment,\" identical to SN 22.39",
+             "Formal debate with outsiders"],
+         "correct": 0,
+         "expl": "The quartet's third and final substituted practice, completing the three marks."},
+        {"q": "How does this discourse's role differ from SN 22.40 and SN 22.41's?",
+         "opts": [
+             "It closes the sequence, rather than opening a new mid-sequence variation",
+             "It opens an entirely new, separate quartet",
+             "It contradicts the conclusions of SN 22.40 and SN 22.41",
+             "It has no relationship to the previous two discourses"],
+         "correct": 0,
+         "expl": "There is no fourth mark waiting to be substituted in a further discourse."},
+        {"q": "How does this discourse close Natumhākavagga?",
+         "opts": [
+             "With understated brevity, no closing verse or narrative, similar to Bhāravagga's own close in SN 22.32",
+             "With an elaborate closing verse naming the vagga's completion",
+             "With a lengthy narrative describing the vagga's overall meaning",
+             "With a formal colophon explicitly naming the vagga as finished"],
+         "correct": 0,
+         "expl": "The vagga simply ends on its shortest and most compressed page."},
+        {"q": "What claim does the whole SN 22.39-42 quartet make about practice, taken together?",
+         "opts": [
+             "That \"practicing in line with the teaching\" is not tied to a single technique — several practices lead to the identical freedom",
+             "That only observing not-self counts as genuine practice",
+             "That the four practices are mutually exclusive and cannot be combined",
+             "That disillusionment is invalid as a practice compared to the three marks"],
+         "correct": 0,
+         "expl": "The quartet's repetitive structure is itself the argument for this pluralism."},
+        {"q": "How does the source handle the chain's remaining steps in this discourse?",
+         "opts": [
+             "With a genuine ellipsis, trusting the reader's memory of SN 22.39's full statement",
+             "By spelling them out again in full",
+             "By replacing them with an entirely different chain",
+             "By omitting them with no indication anything is missing"],
+         "correct": 0,
+         "expl": "The identical elision pattern as SN 22.40 and SN 22.41."},
+        {"q": "What closing declaration does this discourse retain, unchanged across the whole quartet?",
+         "opts": [
+             "\"They're freed from suffering, I say\"",
+             "\"The vagga is now complete and closed\"",
+             "\"Not-self is the only valid teaching\"",
+             "An entirely different, new declaration"],
+         "correct": 0,
+         "expl": "Identical wording across all four discourses in the quartet."},
+        {"q": "How many aggregates does this discourse's practice apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Named together as a group, as throughout the quartet."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the rest of the quartet."},
+        {"q": "What position does this discourse hold in the vagga's closing quartet?",
+         "opts": [
+             "The fourth and final term, completing impermanence, suffering, and not-self",
+             "The quartet's opening term",
+             "The quartet's second term",
+             "It does not belong to the quartet"],
+         "correct": 0,
+         "expl": "Closing the sequence SN 22.39 opened."},
+        {"q": "What comes immediately after this discourse, moving beyond Natumhākavagga?",
+         "opts": [
+             "SN 22.43, opening Attadīpavagga, the vagga's fifth chapter",
+             "A return to SN 22.33",
+             "The end of the entire Khandhavagga",
+             "A discourse from an entirely different saṃyutta"],
+         "correct": 0,
+         "expl": "The book's own systematic coverage continues into its next chapter."},
+    ],
+    marginalia=[
+        ("The quartet's third and final substitution", [
+            "observing not-self directly &mdash;",
+            "completing impermanence and suffering",
+        ]),
+        ("A close, not another mid-sequence swap", [
+            "no fourth mark remains &mdash;",
+            "the sequence's structure now finished",
+        ]),
+        ("The vagga's quietest ending", [
+            "no verse, no colophon &mdash;",
+            "closing on its shortest, most compressed page",
+        ]),
+        ("Multiple doors onto one freedom", [
+            "disillusionment, or any one mark &mdash;",
+            "the quartet's repetition is itself the argument",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.42/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.41.html">SN 22.41 &middot; In Line With the '
+        "Teaching (3rd)</a> &mdash; the previous discourse, "
+        "substituting observing suffering.",
+        '<a href="sn-22.39.html">SN 22.39 &middot; In Line With the '
+        "Teaching</a> &mdash; the quartet's opening discourse, whose "
+        "full chain this closing variation completes.",
+    ],
+)
