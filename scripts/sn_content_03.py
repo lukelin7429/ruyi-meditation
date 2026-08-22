@@ -37,7 +37,15 @@ INDEX_HEADING = "III. Khandhavagga — The Book of the Aggregates"
 # SN 22.2 -- the same one-time fix Book I and Book II's own HEAD pages
 # (SN 1.1, SN 12.1, SN 12.2) evidently received when each book began.
 HEAD = ("sn-22.1.html", "SN 22.1 &middot; Nakula&rsquo;s Father")
-TAIL = ("sn-22.59.html", "SN 22.59 &middot; The Characteristic of Not-Self")
+TAIL = ("sn-22.87.html", "SN 22.87 &middot; With Vakkali")
+# TAIL moved here from sn-22.59.html once Upayavagga (SN 22.53-62) was
+# generated and reached past SN 22.59 -- that pre-existing page now sits
+# mid-sequence between this module's SN 22.58 and SN 22.60, not in PAGES,
+# so sn_build.py's auto-chain skips straight over it: 22.58's next and
+# 22.60's prev must be manually re-patched to route through 22.59 after
+# every single sn_build.py run, identically to Book II's sn-12.14/15/16
+# fragility. SN 22.87 (Theravagga, vagga 8) is the next already-published
+# page beyond this module's current reach.
 INDEX_EXTRA = [
     ("sn-22.1", "Nakulapitā", "Nakula's Father"),
     ("sn-22.59", "Anattalakkhaṇa", "The Characteristic of Not-Self"),
@@ -12017,5 +12025,2184 @@ page(
         "Island</a> &mdash; the vagga's opening discourse, whose "
         "namesake instruction this closing pair's own colophon now "
         "confirms as Mūlapaṇṇāsaka's final chapter.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.53 — Upayasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 53, "Upaya", "Involvement",
+    vagga="Upayavagga",
+    meta_title="SN 22.53 — Involvement | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Upayasutta &mdash; consciousness's involvement with the "
+        "other four aggregates as its ground, and freedom as the "
+        "cutting off of that support. Opens Upayavagga. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A direct teaching on consciousness's dependency on "
+                 "the other four aggregates, closing with the "
+                 "extended liberation sequence from SN 22.45"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "introduces a distinctive vocabulary of "
+                       "\"involvement,\" \"support,\" and "
+                       "\"establishment\" for consciousness "
+                       "specifically"),
+    ],
+    why=(
+        "This discourse opens Upayavagga with a claim that singles "
+        "out consciousness among the five aggregates for special "
+        "treatment: if you get involved (upayo), you're not free; if "
+        "you're not involved, you're free. As long as consciousness "
+        "continues, it gets involved with form, feeling, perception, "
+        "or choices &mdash; supported by them, established on them "
+        "&mdash; and with a sprinkle of relishing, it grows, "
+        "increases, and matures. The discourse then makes a striking "
+        "impossibility claim: it is not possible to describe "
+        "consciousness's coming and going, its passing away and "
+        "reappearing, apart from these other four aggregates. "
+        "Consciousness, on this account, is never a free-floating, "
+        "independent phenomenon &mdash; it is always involved with "
+        "something."
+    ),
+    guide=[
+        ("A claim naming both freedom and its absence in one stroke", [
+            "The discourse opens with a stark, symmetrical claim: "
+            "involvement (upaya) means the absence of freedom, and "
+            "freedom means the absence of involvement. This framing "
+            "sets up the entire discourse's structure around a "
+            "single axis &mdash; whether or not consciousness is "
+            "involved with, supported by, and established on one of "
+            "the other four aggregates.",
+        ]),
+        ("Consciousness as never self-standing", [
+            "The discourse describes consciousness's relationship to "
+            "form, feeling, perception, and choices with three "
+            "distinct verbs used together: it gets involved with "
+            "(upayo hoti), is supported by (upanissayo), and is "
+            "established on (patiṭṭhitaṁ) each of these four. With a "
+            "&ldquo;sprinkle of relishing&rdquo; (nandūpasecana), "
+            "this involvement grows, increases, and matures &mdash; "
+            "an image suggesting cultivation rather than a passive, "
+            "static state.",
+        ]),
+        ("An impossibility claim, stated as a hypothetical rejection", [
+            "The discourse's middle section takes the form of an "
+            "anticipated objection and its refutation: suppose you "
+            "were to say that, apart from form, feeling, perception, "
+            "and choices, you could describe consciousness's coming "
+            "and going, its passing away and reappearing, its growth "
+            "and maturity &mdash; that is not possible. Consciousness "
+            "cannot be tracked or described independently of the "
+            "other four aggregates it depends on.",
+        ]),
+        ("Freedom as the cutting off of support, not the destruction of consciousness", [
+            "The discourse's resolution is precise: when greed for "
+            "each of the aggregate elements is given up, "
+            "consciousness's support is cut off, and it does not "
+            "become established. This is not a claim that "
+            "consciousness itself is destroyed, but that it no longer "
+            "has anything to grow on. The discourse then runs the "
+            "same extended liberation sequence already seen in SN "
+            "22.45 &mdash; freed, stable, content, not anxious, "
+            "personally extinguished &mdash; closing with the "
+            "standard arahant declaration.",
+        ]),
+    ],
+    terms=[
+        ("upaya",
+         "&ldquo;involvement&rdquo; &mdash; the vagga's own name and "
+         "this discourse's central term, naming consciousness's "
+         "dependent entanglement with the other aggregates."),
+        ("upanissayo, patiṭṭhitaṁ",
+         "&ldquo;supported by, established on&rdquo; &mdash; the two "
+         "further terms describing consciousness's relationship to "
+         "form, feeling, perception, and choices."),
+        ("nandūpasecana",
+         "&ldquo;a sprinkle of relishing&rdquo; &mdash; the image "
+         "describing how consciousness's involvement grows, increases, "
+         "and matures, anticipating SN 22.54's agricultural simile."),
+        ("āgatiṁ gatiṁ cutiṁ upapattiṁ vuddhiṁ virūḷhiṁ vepullaṁ",
+         "&ldquo;coming and going, passing away and reappearing, "
+         "growth, increase, and maturity&rdquo; &mdash; the full list "
+         "of what cannot be described about consciousness apart from "
+         "the other four aggregates."),
+        ("paccattaññeva parinibbāyati",
+         "&ldquo;personally becomes extinguished&rdquo; &mdash; the "
+         "same closing step from SN 22.45's extended liberation "
+         "sequence, reused here."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions (feeling and "
+        "perception, each following the same pattern spelled out in "
+        "full for form, choices, and consciousness) are given exactly "
+        "as bilara-data preserves them. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.53:1.1-1.3"),
+        ("p", "&sect;2", "sn22.53:1.6-1.6"),
+        ("p", "&sect;3", "sn22.53:2.1-2.2"),
+        ("p", "&sect;4", "sn22.53:3.1-3.2"),
+        ("p", "&sect;5", "sn22.53:3.6-3.10"),
+    ],
+    quiz=[
+        {"q": "What symmetrical claim opens this discourse?",
+         "opts": [
+             "If you get involved, you're not free; if you're not involved, you're free",
+             "If you meditate, you're free; if you don't, you're not free",
+             "If you study scripture, you're free; if you don't, you're not free",
+             "Freedom and involvement are entirely unrelated"],
+         "correct": 0,
+         "expl": "Setting up the discourse's entire structure around a single axis."},
+        {"q": "What three verbs describe consciousness's relationship to the other four aggregates?",
+         "opts": [
+             "Gets involved with, is supported by, and is established on",
+             "Destroys, replaces, and absorbs",
+             "Ignores, avoids, and rejects",
+             "Creates, sustains, and multiplies"],
+         "correct": 0,
+         "expl": "Upayo hoti, upanissayo, patiṭṭhitaṁ — three distinct relationships to each aggregate."},
+        {"q": "What image describes how consciousness's involvement grows?",
+         "opts": [
+             "\"A sprinkle of relishing\" (nandūpasecana)",
+             "A raging fire consuming everything",
+             "A flood washing everything away",
+             "A stone sinking into deep water"],
+         "correct": 0,
+         "expl": "Anticipating SN 22.54's fuller agricultural simile."},
+        {"q": "What impossibility claim does the discourse make about consciousness?",
+         "opts": [
+             "It cannot be described independently of form, feeling, perception, and choices",
+             "It cannot exist at all under any circumstances",
+             "It is identical to form and cannot be distinguished from it",
+             "It can be fully described without reference to any other aggregate"],
+         "correct": 0,
+         "expl": "Consciousness's coming and going cannot be tracked apart from what it depends on."},
+        {"q": "What does giving up greed for each aggregate element accomplish, according to this discourse?",
+         "opts": [
+             "Consciousness's support is cut off, and it does not become established",
+             "Consciousness is instantly destroyed",
+             "Consciousness transfers entirely into a different aggregate",
+             "Nothing changes for consciousness at all"],
+         "correct": 0,
+         "expl": "Not destruction, but the removal of what consciousness would otherwise grow on."},
+        {"q": "What extended liberation sequence does this discourse reuse from SN 22.45?",
+         "opts": [
+             "Freed, stable, content, not anxious, personally extinguished",
+             "An entirely new sequence not seen before",
+             "A sequence concerning only physical health",
+             "A sequence describing rebirth in a heavenly realm"],
+         "correct": 0,
+         "expl": "The same five-step sequence, applied here to consciousness's freedom specifically."},
+        {"q": "How many aggregates does this discourse's argument involve?",
+         "opts": [
+             "All five, with consciousness singled out for special treatment relative to the other four",
+             "Only consciousness, with no reference to the other aggregates",
+             "Only form and consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Consciousness's dependency on form, feeling, perception, and choices is the discourse's central subject."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī",
+             "Rājagaha",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "The default setting for most of this vagga's discourses."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.54, an extended agricultural simile illustrating this discourse's teaching",
+             "A return to SN 22.43",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "The plants-and-water simile directly maps onto this discourse's abstract claim."},
+        {"q": "What position does this discourse hold in Upayavagga?",
+         "opts": [
+             "The opening discourse, giving the vagga its name",
+             "The vagga's closing discourse",
+             "The vagga's middle discourse",
+             "It does not belong to this vagga"],
+         "correct": 0,
+         "expl": "Upayavagga, \"the involvement chapter,\" is named directly after this discourse's central term."},
+    ],
+    marginalia=[
+        ("A symmetrical opening claim", [
+            "involved means not free &mdash;",
+            "not involved means free, stated as one axis",
+        ]),
+        ("Consciousness never standing alone", [
+            "involved, supported, established &mdash;",
+            "always dependent on one of the other four",
+        ]),
+        ("An impossibility claim, not merely a difficulty", [
+            "cannot be described apart from the others &mdash;",
+            "not just hard to track, but not possible at all",
+        ]),
+        ("Freedom as cutting off support, not destruction", [
+            "consciousness itself unharmed &mdash;",
+            "simply left with nothing to grow on",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.53/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.52.html">SN 22.52 &middot; The End of '
+        "Relishing (2nd)</a> &mdash; the previous discourse, closing "
+        "Mūlapaṇṇāsaka.",
+        '<a href="sn-22.54.html">SN 22.54 &middot; Seeds of '
+        "Plants</a> &mdash; the next discourse, an agricultural "
+        "simile illustrating consciousness's dependent growth.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.54 — Bījasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 54, "Bīja", "Seeds of Plants",
+    vagga="Upayavagga",
+    meta_title="SN 22.54 — Seeds of Plants | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bījasutta &mdash; five kinds of plants needing earth and "
+        "water to grow, mapped directly onto consciousness's need for "
+        "the aggregates and relishing to mature. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, teaching through a question-and-"
+                     "answer exchange with the assembled mendicants"),
+        ("Form", "An extended agricultural simile mapped point by "
+                 "point onto SN 22.53's teaching on consciousness"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the simile itself is vivid and concrete, "
+                       "making an otherwise abstract teaching easier "
+                       "to hold onto"),
+    ],
+    why=(
+        "This discourse takes SN 22.53's abstract teaching on "
+        "consciousness's involvement and gives it a concrete, "
+        "agricultural image. The Buddha names five kinds of plants "
+        "&mdash; propagated from roots, trunks, cuttings, joints, or "
+        "regular seeds &mdash; and asks whether they would grow if "
+        "intact, unspoiled, fertile, and well-kept, but lacking earth "
+        "and water. The mendicants answer no. Would they grow if "
+        "earth and water were present? Yes. The Buddha then maps each "
+        "element of the simile directly onto the earlier teaching: "
+        "the four grounds for consciousness (form, feeling, "
+        "perception, choices) are like the earth; relishing and greed "
+        "are like the water; and consciousness with its fuel is like "
+        "the five plants themselves."
+    ),
+    guide=[
+        ("A question posed before its answer is given", [
+            "As in several other discourses in this book (SN 22.49's "
+            "dialogue with Soṇa, SN 22.35's mendicant narrative), the "
+            "Buddha secures the mendicants' own confirmed "
+            "understanding through direct questioning before drawing "
+            "the conclusion himself: would these plants grow without "
+            "earth or water? No. Would they grow with earth and "
+            "water present? Yes. Only after this exchange does the "
+            "Buddha supply the mapping onto consciousness.",
+        ]),
+        ("A precise three-part mapping", [
+            "The simile's mapping is exact and explicit, not left for "
+            "the listener to infer: the four grounds for "
+            "consciousness (form, feeling, perception, and choices) "
+            "should be seen like the earth element; relishing and "
+            "greed should be seen like the water element; "
+            "consciousness together with its fuel should be seen like "
+            "the five kinds of plants. Each term in the simile "
+            "corresponds to a specific term in SN 22.53's abstract "
+            "teaching, with nothing left unmapped.",
+        ]),
+        ("The five kinds of plants, standing for a single process", [
+            "The discourse names five distinct modes of plant "
+            "propagation (root, trunk, cutting, joint, and seed) as "
+            "the counterpart to &ldquo;consciousness with its "
+            "fuel&rdquo; &mdash; not five different kinds of "
+            "consciousness, but five different starting conditions "
+            "that nonetheless all follow the identical growth pattern "
+            "once earth and water (the aggregates and relishing) are "
+            "present. The diversity of starting points does not "
+            "change the underlying mechanism.",
+        ]),
+        ("The same teaching, the same closing sequence", [
+            "After completing the simile, the discourse returns to "
+            "SN 22.53's exact wording &mdash; consciousness getting "
+            "involved with, supported by, and established on each "
+            "aggregate; the impossibility of describing it "
+            "independently; and the identical resolution through "
+            "giving up greed, cutting off support, and the full "
+            "extended liberation sequence ending in personal "
+            "extinguishment. The simile illustrates without replacing "
+            "any part of the original teaching.",
+        ]),
+    ],
+    terms=[
+        ("mūlabīja, khandhabīja, phaḷubīja, aggabīja, bījabīja",
+         "&ldquo;plants propagated from roots, trunks, cuttings, "
+         "joints, and regular seeds&rdquo; &mdash; the five kinds of "
+         "plant propagation named at the discourse's opening."),
+        ("pathavīdhātu",
+         "&ldquo;the earth element&rdquo; &mdash; what the four "
+         "grounds for consciousness (form, feeling, perception, and "
+         "choices) should be seen as resembling."),
+        ("āpodhātu",
+         "&ldquo;the water element&rdquo; &mdash; what relishing and "
+         "greed should be seen as resembling."),
+        ("viññāṇaṁ sāhāraṁ",
+         "&ldquo;consciousness with its fuel&rdquo; &mdash; what the "
+         "five kinds of plants should be seen as resembling, "
+         "completing the three-part mapping."),
+        ("vuddhiṁ virūḷhiṁ vepullaṁ āpajjeyyuṁ",
+         "&ldquo;would reach growth, increase, and maturity&rdquo; "
+         "&mdash; the question posed of the plants, and by direct "
+         "extension of consciousness itself."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions in the second half "
+        "(feeling and perception, each following the same pattern "
+        "spelled out in full for form, choices, and consciousness) "
+        "are given exactly as bilara-data preserves them. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.54:1.2-1.4"),
+        ("p", "&sect;2", "sn22.54:1.5-1.10"),
+        ("p", "&sect;3", "sn22.54:1.11-1.13"),
+        ("p", "&sect;4", "sn22.54:2.1-2.1"),
+        ("p", "&sect;5", "sn22.54:2.4-2.4"),
+        ("p", "&sect;6", "sn22.54:3.1-3.2"),
+        ("p", "&sect;7", "sn22.54:4.1-4.2"),
+        ("p", "&sect;8", "sn22.54:4.6-4.10"),
+    ],
+    quiz=[
+        {"q": "What five kinds of plants does this discourse name?",
+         "opts": [
+             "Those propagated from roots, trunks, cuttings, joints, or regular seeds",
+             "Five specific named tree species",
+             "Five plants found only in Jeta's Grove",
+             "Five plants used in traditional medicine"],
+         "correct": 0,
+         "expl": "Five distinct modes of plant propagation, opening the discourse's simile."},
+        {"q": "What do the mendicants confirm about these plants without earth or water?",
+         "opts": [
+             "They would not reach growth, increase, and maturity",
+             "They would grow even faster without earth or water",
+             "They would grow normally regardless",
+             "The question is left unanswered by the mendicants"],
+         "correct": 0,
+         "expl": "Confirmed through direct questioning before the Buddha supplies the mapping."},
+        {"q": "What does the Buddha map onto \"the earth element\" in this simile?",
+         "opts": [
+             "The four grounds for consciousness: form, feeling, perception, and choices",
+             "Physical soil found in monasteries",
+             "The Buddha's own teaching authority",
+             "Monastic discipline and rules"],
+         "correct": 0,
+         "expl": "An exact, explicit mapping, not left for the listener to infer."},
+        {"q": "What does the Buddha map onto \"the water element\"?",
+         "opts": [
+             "Relishing and greed",
+             "Physical rainfall",
+             "The Buddha's compassion",
+             "Meditative concentration"],
+         "correct": 0,
+         "expl": "The second term in the discourse's precise three-part mapping."},
+        {"q": "What does the Buddha map onto \"the five kinds of plants\"?",
+         "opts": [
+             "Consciousness with its fuel",
+             "The five aggregates as a whole",
+             "The five faculties",
+             "Five different types of mendicants"],
+         "correct": 0,
+         "expl": "The third and final term completing the simile's mapping."},
+        {"q": "What does the diversity of the five plant-propagation methods represent?",
+         "opts": [
+             "Five different starting conditions that nonetheless follow the identical growth pattern once earth and water are present",
+             "Five entirely separate and unrelated teachings",
+             "Five different kinds of consciousness with distinct natures",
+             "A denial that consciousness has any single underlying mechanism"],
+         "correct": 0,
+         "expl": "The diversity of starting points does not change the underlying mechanism."},
+        {"q": "How does this discourse's closing section relate to SN 22.53's?",
+         "opts": [
+             "It returns to SN 22.53's exact wording and resolution, using the simile to illustrate rather than replace the original teaching",
+             "It contradicts SN 22.53's conclusions",
+             "It introduces an entirely new, unrelated resolution",
+             "It omits any closing resolution at all"],
+         "correct": 0,
+         "expl": "Giving up greed, cutting off support, and the full extended liberation sequence, unchanged."},
+        {"q": "How many aggregates does this discourse's teaching involve?",
+         "opts": [
+             "All five, with consciousness singled out relative to the other four, as in SN 22.53",
+             "Only consciousness, with no reference to other aggregates",
+             "Only form and feeling",
+             "Only the aggregate of choices"],
+         "correct": 0,
+         "expl": "The identical structure to SN 22.53, now illustrated with the plant simile."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī",
+             "Rājagaha",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "Continuing the same setting as SN 22.53."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.55, an inspired saying resolving \"it might not be, and it might not be mine\"",
+             "A return to SN 22.43",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "A shift to a spontaneous heartfelt utterance and its detailed explanation."},
+    ],
+    marginalia=[
+        ("Confirmed by question before it is explained", [
+            "would the plants grow without earth or water? no &mdash;",
+            "the mapping supplied only after this exchange",
+        ]),
+        ("A precise, exhaustive mapping", [
+            "aggregates as earth, relishing as water &mdash;",
+            "nothing in the simile left unmapped",
+        ]),
+        ("Five starting points, one underlying mechanism", [
+            "root, trunk, cutting, joint, or seed &mdash;",
+            "diversity of origin, identical growth pattern",
+        ]),
+        ("Illustration, not replacement", [
+            "SN 22.53's exact resolution returns &mdash;",
+            "the simile adds a picture, changes no content",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.54/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.53.html">SN 22.53 &middot; Involvement</a> '
+        "&mdash; the previous discourse, whose abstract teaching this "
+        "one illustrates with a concrete simile.",
+        '<a href="sn-22.55.html">SN 22.55 &middot; An Inspired '
+        "Saying</a> &mdash; the next discourse, a spontaneous "
+        "utterance and its detailed unpacking.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.55 — Udānasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 55, "Udāna", "An Inspired Saying",
+    vagga="Upayavagga",
+    meta_title="SN 22.55 — An Inspired Saying | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Udānasutta &mdash; the Buddha's spontaneous heartfelt "
+        "resolution about non-being, unpacked into a five-part "
+        "characterization of the aggregates and the difference "
+        "between real and unreal worry. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, spontaneously, then in dialogue "
+                     "with a questioning mendicant"),
+        ("Form", "A heartfelt utterance (udāna), followed by a "
+                 "mendicant's question and the Buddha's extended "
+                 "explanation in two further rounds of dialogue"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "one of the vagga's longest and most "
+                       "psychologically intricate discourses"),
+    ],
+    why=(
+        "This discourse opens with something unusual in form: not an "
+        "instruction addressed to an audience, but an udāna &mdash; "
+        "a spontaneous, heartfelt utterance the Buddha expresses "
+        "unprompted: &ldquo;it might not be, and it might not be "
+        "mine. It will not be, and it will not be mine.&rdquo; A "
+        "mendicant who makes this resolution, the Buddha adds, can "
+        "cut off the lower fetters. When a puzzled mendicant asks how "
+        "this works, the discourse unfolds into one of the vagga's "
+        "richest analyses: a five-part characterization of the "
+        "aggregates (impermanent, suffering, not-self, conditioned, "
+        "and liable to vanish) beyond the more familiar three marks, "
+        "and a careful distinction between worrying about a genuine "
+        "worry and worrying about something that was never a worry "
+        "at all."
+    ),
+    guide=[
+        ("A resolution about non-being, stated as an unprompted utterance", [
+            "The discourse's opening &ldquo;it might not be, and it "
+            "might not be mine; it will not be, and it will not be "
+            "mine&rdquo; is presented as an udāna &mdash; a category "
+            "of spontaneous, emotionally charged expression distinct "
+            "from ordinary instructive teaching. The Buddha does not "
+            "explain it immediately; he simply states that a "
+            "mendicant who resolves this way can cut off the lower "
+            "fetters, prompting a mendicant to ask how.",
+        ]),
+        ("A five-part characterization beyond the familiar three marks", [
+            "The Buddha's answer expands the usual three marks "
+            "(impermanent, suffering, not-self) into five: an "
+            "unlearned ordinary person fails to truly understand each "
+            "aggregate as impermanent, as suffering, as not-self, as "
+            "conditioned (saṅkhata), and as liable to vanish "
+            "(vibhavissati). This last pair &mdash; conditioned, and "
+            "liable to vanish &mdash; is not part of the standard "
+            "tilakkhaṇa formula used throughout most of this book, "
+            "making this discourse's analysis unusually thorough.",
+        ]),
+        ("A resolution grounded in the vanishing of the aggregates", [
+            "The discourse traces the resolution &ldquo;it might not "
+            "be, and it might not be mine&rdquo; directly to this "
+            "five-part understanding: it is specifically because of "
+            "the vanishing (nirodha) of form, feeling, perception, "
+            "choices, and consciousness that a mendicant who makes "
+            "this resolution can cut off the lower fetters. Seeing "
+            "the aggregates' vanishing clearly is what makes the "
+            "resolution about one's own possible non-being something "
+            "other than idle or dangerous speculation.",
+        ]),
+        ("Worrying about a genuine worry, and worrying about nothing at all", [
+            "The discourse's final movement introduces a subtle "
+            "distinction: an unlearned ordinary person worries about "
+            "&ldquo;things that aren't a worry&rdquo; (aṭṭhāne "
+            "paritassati) &mdash; specifically, worrying about "
+            "whether they might not be, and might not have what is "
+            "theirs. A learned noble disciple does not worry this "
+            "way, not because they have found reassurance that they "
+            "will continue, but because they no longer hold the "
+            "underlying assumption (a fixed self persisting or not "
+            "persisting) that would make such a worry meaningful in "
+            "the first place. The discourse then closes with the "
+            "same involvement-and-freedom teaching from SN 22.53, "
+            "grounding this psychological analysis in the same "
+            "framework as the two discourses before it.",
+        ]),
+    ],
+    terms=[
+        ("udāna",
+         "&ldquo;inspired saying&rdquo; or &ldquo;heartfelt "
+         "sentiment&rdquo; &mdash; a spontaneous, emotionally charged "
+         "utterance distinct from ordinary instructive teaching."),
+        ("no c'assa, no ca me siyā; na bhavissati, na me bhavissati",
+         "&ldquo;it might not be, and it might not be mine; it will "
+         "not be, and it will not be mine&rdquo; &mdash; the "
+         "discourse's opening resolution, quoted directly."),
+        ("saṅkhata",
+         "&ldquo;conditioned&rdquo; &mdash; the fourth of this "
+         "discourse's five characterizations, beyond the standard "
+         "three marks used elsewhere in the book."),
+        ("vibhavissati",
+         "&ldquo;will vanish&rdquo; &mdash; the fifth "
+         "characterization, completing this discourse's unusually "
+         "thorough five-part analysis."),
+        ("aṭṭhāne paritassati",
+         "&ldquo;worries about things that aren't a worry&rdquo; "
+         "&mdash; the discourse's closing psychological diagnosis of "
+         "the unlearned ordinary person's anxiety about non-being."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions across its several "
+        "sections (feeling, perception, and choices, each following "
+        "the same patterns spelled out in full for form and "
+        "consciousness) are given exactly as bilara-data preserves "
+        "them. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.55:1.2-1.7"),
+        ("p", "&sect;2", "sn22.55:2.1-2.2"),
+        ("p", "&sect;3", "sn22.55:2.6-2.6"),
+        ("p", "&sect;4", "sn22.55:3.1-3.1"),
+        ("p", "&sect;5", "sn22.55:6.1-6.6"),
+        ("p", "&sect;6", "sn22.55:7.1-7.2"),
+        ("p", "&sect;7", "sn22.55:7.6-7.6"),
+        ("p", "&sect;8", "sn22.55:8.1-8.2"),
+        ("p", "&sect;9", "sn22.55:8.6-8.9"),
+        ("p", "&sect;10", "sn22.55:9.1-9.3"),
+        ("p", "&sect;11", "sn22.55:10.1-10.4"),
+        ("p", "&sect;12", "sn22.55:11.1-11.3"),
+        ("p", "&sect;13", "sn22.55:13.6-13.9"),
+    ],
+    quiz=[
+        {"q": "What form does this discourse's opening statement take?",
+         "opts": [
+             "An udāna — a spontaneous, heartfelt utterance, not an instruction addressed to an audience",
+             "A formal sermon prepared in advance",
+             "A direct answer to a mendicant's specific question",
+             "A verse quoted from an earlier text"],
+         "correct": 0,
+         "expl": "The Buddha expresses it unprompted before any question is asked."},
+        {"q": "What resolution does the Buddha's opening utterance state?",
+         "opts": [
+             "\"It might not be, and it might not be mine. It will not be, and it will not be mine\"",
+             "\"I shall live forever and never perish\"",
+             "\"All beings shall be reborn as gods\"",
+             "\"The aggregates are eternal and unchanging\""],
+         "correct": 0,
+         "expl": "A resolution about the possible non-existence of self and what belongs to it."},
+        {"q": "What five characterizations of the aggregates does the Buddha's explanation give, beyond the standard three marks?",
+         "opts": [
+             "Impermanent, suffering, not-self, conditioned, and liable to vanish",
+             "Only impermanent and suffering, omitting not-self entirely",
+             "Pleasant, painful, neutral, physical, and mental",
+             "Past, present, future, internal, and external"],
+         "correct": 0,
+         "expl": "\"Conditioned\" and \"liable to vanish\" go beyond the familiar tilakkhaṇa formula used elsewhere in the book."},
+        {"q": "What does the discourse trace the resolution \"it might not be\" directly to?",
+         "opts": [
+             "The vanishing (nirodha) of the five aggregates",
+             "A promise made by another teacher",
+             "Physical illness experienced by the mendicant",
+             "A vow taken at ordination"],
+         "correct": 0,
+         "expl": "Seeing the aggregates' vanishing clearly grounds the resolution in genuine understanding, not idle speculation."},
+        {"q": "What distinction does the discourse draw about worry near its close?",
+         "opts": [
+             "Worrying about a thing that isn't actually a worry, versus not holding the underlying assumption that would make it one",
+             "Worrying about the past versus worrying about the future",
+             "Worrying too much versus not worrying enough",
+             "Worrying about oneself versus worrying about others"],
+         "correct": 0,
+         "expl": "The learned noble disciple doesn't worry because they no longer hold the assumption that makes such worry meaningful."},
+        {"q": "How does this discourse's closing section connect to SN 22.53 and SN 22.54?",
+         "opts": [
+             "It returns to the identical involvement-and-freedom teaching, grounding the psychological analysis in the same framework",
+             "It directly contradicts the teaching of SN 22.53-54",
+             "It has no relationship to the two previous discourses",
+             "It introduces an entirely separate, unrelated framework"],
+         "correct": 0,
+         "expl": "The same consciousness-involvement teaching closes out this discourse's distinct psychological analysis."},
+        {"q": "What fourfold self-identification formula does this discourse also use?",
+         "opts": [
+             "The same formula from SN 22.7 — regarding an aggregate as self, self as having it, it in self, or self in it",
+             "An entirely new formula not seen elsewhere in the book",
+             "A formula concerning only physical illness",
+             "The discourse does not use any self-identification formula"],
+         "correct": 0,
+         "expl": "Reused as part of describing the unlearned ordinary person's condition."},
+        {"q": "How many aggregates does this discourse's analysis apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern throughout."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī",
+             "Rājagaha",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.56, giving precise per-aggregate definitions within a \"four rounds\" framework",
+             "A return to SN 22.43",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "One of the vagga's most doctrinally dense and comprehensive discourses."},
+    ],
+    marginalia=[
+        ("A spontaneous utterance, not a prepared teaching", [
+            "udāna, unprompted &mdash;",
+            "a mendicant's question draws out the explanation",
+        ]),
+        ("Five characterizations, not the usual three", [
+            "conditioned, liable to vanish, added &mdash;",
+            "an unusually thorough analysis",
+        ]),
+        ("A resolution grounded in genuine seeing", [
+            "not idle speculation about non-being &mdash;",
+            "traced directly to the aggregates' actual vanishing",
+        ]),
+        ("Worry dissolved, not merely reassured away", [
+            "no longer holding the assumption behind it &mdash;",
+            "not comforted, but seeing there was nothing to worry about",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.55/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.54.html">SN 22.54 &middot; Seeds of '
+        "Plants</a> &mdash; the previous discourse, the agricultural "
+        "simile this discourse's closing section returns to.",
+        '<a href="sn-22.56.html">SN 22.56 &middot; Rounds of the '
+        "Grasping Aggregates</a> &mdash; the next discourse, precise "
+        "definitions of each aggregate within a four-round framework.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.56 — Upādānaparivattasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 56, "Upādānaparivatta", "Rounds of the Grasping Aggregates",
+    vagga="Upayavagga",
+    meta_title="SN 22.56 — Rounds of the Grasping Aggregates | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Upādānaparivattasutta &mdash; the \"four rounds\" the "
+        "Buddha says he needed before announcing his awakening, "
+        "giving each aggregate its own precise definition, origin, "
+        "and cessation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A precise technical definition of each aggregate, "
+                 "its origin, cessation, and the path to cessation, "
+                 "run through all five in turn"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "one of the most technically precise "
+                       "discourses in the book, worth reading slowly "
+                       "for its exact definitions"),
+    ],
+    why=(
+        "This discourse makes the same withheld-until-understood claim "
+        "SN 22.26 made earlier in the book, but frames the required "
+        "understanding differently: as long as the Buddha did not "
+        "truly understand the five grasping aggregates in "
+        "&ldquo;four rounds&rdquo; (catuparivaṭṭa), he did not "
+        "announce his awakening. The four rounds are directly "
+        "knowing each aggregate itself, its origin, its cessation, "
+        "and the practice leading to its cessation &mdash; the same "
+        "shape as the four noble truths, now applied individually to "
+        "each of the five aggregates. What makes this discourse "
+        "unusually valuable is the precision of what follows: each "
+        "aggregate receives its own exact definition and its own "
+        "specific originating condition, not a generic formula "
+        "repeated identically five times."
+    ),
+    guide=[
+        ("Four rounds, in the shape of the four noble truths", [
+            "The discourse's structural announcement echoes SN "
+            "22.26's withheld-until-understood claim, but specifies "
+            "the required understanding as four rounds per "
+            "aggregate: directly knowing the aggregate itself, its "
+            "origin, its cessation, and the practice leading to its "
+            "cessation. This is the four noble truths' own shape "
+            "&mdash; a thing, its arising, its ending, and the path "
+            "&mdash; applied at a more granular level, once for each "
+            "of the five aggregates rather than once for suffering as "
+            "a whole.",
+        ]),
+        ("Form: the four principal states and what derives from them", [
+            "Form is defined precisely as the four principal states "
+            "(mahābhūta &mdash; earth, water, fire, and air) and form "
+            "derived from them. Its origin is nutriment (āhāra, "
+            "rendered here as &ldquo;fuel&rdquo;); when fuel ceases, "
+            "form ceases. This is a distinctive originating condition "
+            "&mdash; not craving in general, but the specific "
+            "physical process of nutriment.",
+        ]),
+        ("Feeling, perception, and choices: six classes, one shared origin", [
+            "Feeling, perception, and choices are each defined by six "
+            "classes corresponding to the six sense doors (eye "
+            "through mind), and each is said to originate from "
+            "contact (phassa); when contact ceases, each of the three "
+            "ceases. Three different aggregates, defined by different "
+            "content, share the identical originating and ceasing "
+            "condition &mdash; a precision not spelled out this way "
+            "elsewhere in the book.",
+        ]),
+        ("Consciousness: originating from name and form", [
+            "Consciousness, likewise defined by six classes "
+            "corresponding to the six sense doors, is given a "
+            "distinctive originating condition of its own: name and "
+            "form (nāmarūpa); when name and form cease, consciousness "
+            "ceases. This directly recalls the mutual-conditioning "
+            "relationship between consciousness and name-and-form "
+            "explored at length in Book II's Nidānavagga, now stated "
+            "in this discourse as a simple, direct dependency.",
+        ]),
+        ("The identical path named for every aggregate", [
+            "Despite the different originating conditions for each "
+            "aggregate, the practice leading to each one's cessation "
+            "is stated identically every time: the noble eightfold "
+            "path, spelled out in full &mdash; right view, right "
+            "purpose, right speech, right action, right livelihood, "
+            "right effort, right mindfulness, and right immersion. "
+            "The causes differ aggregate by aggregate; the remedy "
+            "does not.",
+        ]),
+    ],
+    terms=[
+        ("catuparivaṭṭa",
+         "&ldquo;four rounds&rdquo; &mdash; the discourse's title "
+         "concept, understanding each aggregate itself plus its "
+         "origin, cessation, and path to cessation."),
+        ("mahābhūta",
+         "&ldquo;the four principal states&rdquo; &mdash; earth, "
+         "water, fire, and air, defining the aggregate of form "
+         "together with what derives from them."),
+        ("āhārasamudayā rūpasamudayo",
+         "&ldquo;form originates from fuel&rdquo; &mdash; form's "
+         "specific originating condition, nutriment, distinct from "
+         "the originating conditions given for the other aggregates."),
+        ("phassasamudayā",
+         "&ldquo;originates from contact&rdquo; &mdash; the shared "
+         "originating condition given identically for feeling, "
+         "perception, and choices."),
+        ("nāmarūpasamudayā viññāṇasamudayo",
+         "&ldquo;consciousness originates from name and form&rdquo; "
+         "&mdash; consciousness's distinctive originating condition, "
+         "recalling Book II's exploration of this mutual dependency."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions across the four-"
+        "round definitions (perception and choices, each following "
+        "the same pattern spelled out in full for form, feeling, and "
+        "consciousness) are given exactly as bilara-data preserves "
+        "them. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.56:1.2-1.6"),
+        ("p", "&sect;2", "sn22.56:2.1-2.2"),
+        ("p", "&sect;3", "sn22.56:2.6-2.6"),
+        ("p", "&sect;4", "sn22.56:3.1-3.7"),
+        ("p", "&sect;5", "sn22.56:4.1-4.2"),
+        ("p", "&sect;6", "sn22.56:5.1-5.3"),
+        ("p", "&sect;7", "sn22.56:6.1-6.7"),
+        ("p", "&sect;8", "sn22.56:9.1-9.7"),
+        ("p", "&sect;9", "sn22.56:10.1-10.7"),
+        ("p", "&sect;10", "sn22.56:13.1-13.8"),
+        ("p", "&sect;11", "sn22.56:14.1-14.2"),
+        ("p", "&sect;12", "sn22.56:15.1-15.3"),
+    ],
+    quiz=[
+        {"q": "What are the \"four rounds\" this discourse says the Buddha needed to understand before announcing his awakening?",
+         "opts": [
+             "Directly knowing each aggregate itself, its origin, its cessation, and the practice leading to its cessation",
+             "The four noble truths applied only once, to suffering as a whole",
+             "Four separate meditative absorptions",
+             "Four different named disciples' individual understandings"],
+         "correct": 0,
+         "expl": "The four noble truths' own shape, applied per aggregate rather than to suffering generally."},
+        {"q": "How is form defined in this discourse?",
+         "opts": [
+             "The four principal states (earth, water, fire, air) and form derived from them",
+             "Only the physical body, excluding all external objects",
+             "A single indivisible substance with no further analysis",
+             "Whatever is visible to the naked eye alone"],
+         "correct": 0,
+         "expl": "Mahābhūta and derived form, a precise technical definition."},
+        {"q": "What is form's specific originating condition, according to this discourse?",
+         "opts": [
+             "Fuel (āhāra, nutriment)",
+             "Craving in general, identical to the other aggregates",
+             "Contact, the same as feeling and perception",
+             "Name and form, the same as consciousness"],
+         "correct": 0,
+         "expl": "A distinctive originating condition, not a generic formula repeated identically."},
+        {"q": "What shared originating condition do feeling, perception, and choices have?",
+         "opts": [
+             "Contact (phassa)",
+             "Fuel, identical to form's origin",
+             "Name and form, identical to consciousness's origin",
+             "Each has an entirely separate, unrelated origin"],
+         "correct": 0,
+         "expl": "Three different aggregates sharing the identical originating and ceasing condition."},
+        {"q": "What is consciousness's specific originating condition?",
+         "opts": [
+             "Name and form (nāmarūpa)",
+             "Fuel, identical to form's origin",
+             "Contact, identical to feeling's origin",
+             "Consciousness has no originating condition at all"],
+         "correct": 0,
+         "expl": "Recalling the mutual-conditioning relationship explored at length in Book II's Nidānavagga."},
+        {"q": "What practice is named identically for the cessation of every aggregate?",
+         "opts": [
+             "The noble eightfold path",
+             "A different, unique practice for each aggregate",
+             "Physical austerity specific to each aggregate",
+             "No practice is named; cessation happens automatically"],
+         "correct": 0,
+         "expl": "The causes differ aggregate by aggregate; the remedy is stated identically each time."},
+        {"q": "How does this discourse's structure compare to SN 22.26 earlier in the book?",
+         "opts": [
+             "Both make a withheld-until-understood claim about the Buddha's awakening, but this discourse specifies a different, more granular required understanding",
+             "This discourse directly contradicts SN 22.26's claims",
+             "The two discourses share no relationship at all",
+             "SN 22.26 concerns only consciousness, unlike this discourse"],
+         "correct": 0,
+         "expl": "Four rounds per aggregate, rather than SN 22.26's gratification/drawback/escape triad."},
+        {"q": "How many classes does the discourse give for feeling, perception, and consciousness?",
+         "opts": [
+             "Six classes each, corresponding to the six sense doors",
+             "Five classes each, corresponding to the five aggregates",
+             "Three classes each",
+             "A single undifferentiated class for each"],
+         "correct": 0,
+         "expl": "Eye through mind, giving each of these aggregates a sixfold internal structure."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī",
+             "Rājagaha",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.57, extending this discourse's framework to seven cases and three ways of examining",
+             "A return to SN 22.43",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "Building further on this discourse's four-round definitions."},
+    ],
+    marginalia=[
+        ("Four noble truths, applied per aggregate", [
+            "not suffering as a whole, but each of the five &mdash;",
+            "directly known, origin, cessation, path",
+        ]),
+        ("Different origins, not one generic cause", [
+            "fuel for form, contact for feeling &mdash;",
+            "name-and-form specifically for consciousness",
+        ]),
+        ("A recurring debt to Book II's own chain", [
+            "consciousness and name-and-form &mdash;",
+            "the same mutual dependency, stated directly here",
+        ]),
+        ("One remedy, however the causes differ", [
+            "the noble eightfold path, every time &mdash;",
+            "identical regardless of which aggregate is addressed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.56/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.55.html">SN 22.55 &middot; An Inspired '
+        "Saying</a> &mdash; the previous discourse, a spontaneous "
+        "utterance and its detailed psychological analysis.",
+        '<a href="sn-22.57.html">SN 22.57 &middot; Seven Cases</a> '
+        "&mdash; the next discourse, extending this discourse's "
+        "framework with gratification, drawback, and escape.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.57 — Sattaṭṭhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 57, "Sattaṭṭhāna", "Seven Cases",
+    vagga="Upayavagga",
+    meta_title="SN 22.57 — Seven Cases | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sattaṭṭhānasutta &mdash; SN 22.56's four rounds extended "
+        "with gratification, drawback, and escape into seven cases "
+        "per aggregate, plus three ways of examining. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A comprehensive technical definition combining "
+                 "SN 22.56's four rounds with SN 22.26's gratification/"
+                 "drawback/escape triad, plus a further threefold "
+                 "method of analysis"),
+        ("Length", "~8 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; "
+                       "the most comprehensive and technically dense "
+                       "discourse in this vagga"),
+    ],
+    why=(
+        "This discourse takes SN 22.56's four rounds &mdash; "
+        "understanding each aggregate itself, its origin, its "
+        "cessation, and the path to its cessation &mdash; and adds "
+        "three further items already familiar from SN 22.26-28's "
+        "gratification/drawback/escape trio, producing what the "
+        "discourse calls &ldquo;seven cases.&rdquo; A mendicant "
+        "skilled in these seven cases per aggregate, the discourse "
+        "adds, must also examine &ldquo;in three ways&rdquo; &mdash; "
+        "by the elements, the sense fields, and dependent origination "
+        "&mdash; before being called &ldquo;consummate, accomplished, "
+        "a supreme person.&rdquo; This discourse functions as a kind "
+        "of encyclopedic synthesis, gathering together several major "
+        "analytical frameworks this book has developed separately "
+        "into a single, unified curriculum."
+    ),
+    guide=[
+        ("Seven cases: four rounds plus three more", [
+            "The discourse's title concept is precisely additive: to "
+            "SN 22.56's four rounds (the aggregate, its origin, its "
+            "cessation, the path to cessation), this discourse adds "
+            "three more &mdash; the aggregate's gratification, "
+            "drawback, and escape, the same triad SN 22.26-28 "
+            "explored at length earlier in the book. Seven items in "
+            "total, all applied to each of the five aggregates in "
+            "turn.",
+        ]),
+        ("The same precise per-aggregate definitions as SN 22.56", [
+            "This discourse reuses SN 22.56's exact technical "
+            "definitions: form as the four principal states and "
+            "derived form, originating from fuel; feeling, "
+            "perception, and choices as six classes each, originating "
+            "from contact; consciousness as six classes, originating "
+            "from name and form; and the noble eightfold path named "
+            "identically as the practice leading to each aggregate's "
+            "cessation.",
+        ]),
+        ("Gratification, drawback, and escape, appended to each definition", [
+            "After the four-round definition for each aggregate, the "
+            "discourse adds the familiar gratification/drawback/"
+            "escape formula from SN 22.26: the pleasure and happiness "
+            "arising from the aggregate is its gratification; its "
+            "impermanence, suffering, and perishability is its "
+            "drawback; removing desire and greed for it is its "
+            "escape. Two established frameworks are stitched together "
+            "into one continuous analysis for each of the five "
+            "aggregates.",
+        ]),
+        ("A third dimension: three ways of examining", [
+            "Beyond the seven cases, the discourse adds one further "
+            "requirement: examining &ldquo;by way of the elements, "
+            "sense fields, and dependent origination&rdquo; &mdash; "
+            "three additional analytical lenses this discourse names "
+            "but does not itself elaborate in detail, pointing beyond "
+            "Khandhavagga's own subject matter toward material this "
+            "site's later books (Saḷāyatanavagga on the sense fields, "
+            "and the already-completed Nidānavagga on dependent "
+            "origination) address at length. A mendicant meeting all "
+            "of this &mdash; seven cases per aggregate and three ways "
+            "of examining &mdash; earns the discourse's highest title: "
+            "consummate, accomplished, a supreme person.",
+        ]),
+    ],
+    terms=[
+        ("sattaṭṭhāna",
+         "&ldquo;seven cases&rdquo; &mdash; the discourse's title "
+         "concept, combining SN 22.56's four rounds with SN 22.26's "
+         "gratification/drawback/escape triad."),
+        ("tividhūpaparikkhī",
+         "&ldquo;examines in three ways&rdquo; &mdash; the further "
+         "requirement beyond the seven cases, naming elements, sense "
+         "fields, and dependent origination."),
+        ("dhātuso āyatanaso paṭiccasamuppādaso",
+         "&ldquo;by way of the elements, sense fields, and dependent "
+         "origination&rdquo; &mdash; the three named analytical "
+         "lenses, pointing beyond this book's own primary subject "
+         "matter."),
+        ("ukkaṁsagato puggalo",
+         "&ldquo;a supreme person&rdquo; &mdash; part of the "
+         "discourse's highest title for a mendicant who has mastered "
+         "all seven cases and all three ways of examining."),
+        ("assādo, ādīnavo, nissaraṇaṁ",
+         "&ldquo;gratification, drawback, escape&rdquo; &mdash; the "
+         "three items this discourse appends to SN 22.56's four "
+         "rounds for each aggregate."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions across the seven-"
+        "case definitions (perception and choices, each following the "
+        "same pattern spelled out in full for form, feeling, and "
+        "consciousness) are given exactly as bilara-data preserves "
+        "them. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.57:1.2-1.5"),
+        ("p", "&sect;2", "sn22.57:1.9-1.10"),
+        ("p", "&sect;3", "sn22.57:2.1-2.7"),
+        ("p", "&sect;4", "sn22.57:3.1-3.5"),
+        ("p", "&sect;5", "sn22.57:4.1-4.3"),
+        ("p", "&sect;6", "sn22.57:5.1-5.4"),
+        ("p", "&sect;7", "sn22.57:6.1-6.9"),
+        ("p", "&sect;8", "sn22.57:7.1-7.5"),
+        ("p", "&sect;9", "sn22.57:14.1-14.8"),
+        ("p", "&sect;10", "sn22.57:15.1-15.5"),
+        ("p", "&sect;11", "sn22.57:16.1-16.3"),
+        ("p", "&sect;12", "sn22.57:17.1-17.5"),
+        ("p", "&sect;13", "sn22.57:18.1-18.4"),
+    ],
+    quiz=[
+        {"q": "What are the \"seven cases\" this discourse defines for each aggregate?",
+         "opts": [
+             "SN 22.56's four rounds (aggregate, origin, cessation, path) plus gratification, drawback, and escape",
+             "Seven entirely different terms not seen elsewhere in the book",
+             "The seven factors of awakening",
+             "Seven separate named disciples' individual insights"],
+         "correct": 0,
+         "expl": "A precisely additive combination of two frameworks already developed separately earlier in the book."},
+        {"q": "What additional requirement does the discourse name beyond the seven cases?",
+         "opts": [
+             "Examining by way of the elements, sense fields, and dependent origination",
+             "Memorizing an additional set of verses",
+             "Traveling to three different monasteries",
+             "Debating three different rival teachers"],
+         "correct": 0,
+         "expl": "Three further analytical lenses this discourse names but does not itself elaborate in detail."},
+        {"q": "What title does the discourse give to a mendicant who masters both the seven cases and the three ways of examining?",
+         "opts": [
+             "Consummate, accomplished, a supreme person",
+             "A beginner still requiring further training",
+             "An ordinary, unremarkable practitioner",
+             "The discourse gives no special title at all"],
+         "correct": 0,
+         "expl": "The discourse's highest designation, reserved for this comprehensive mastery."},
+        {"q": "How does form's definition in this discourse compare to SN 22.56's?",
+         "opts": [
+             "Identical — the four principal states and derived form, originating from fuel",
+             "Entirely different from SN 22.56's definition",
+             "This discourse omits any definition of form",
+             "Form is defined only by its gratification, not its origin"],
+         "correct": 0,
+         "expl": "This discourse reuses SN 22.56's exact technical definitions before adding the further triad."},
+        {"q": "What three items does this discourse append to each aggregate's four-round definition?",
+         "opts": [
+             "Gratification, drawback, and escape",
+             "Past, future, and present",
+             "Internal, external, and both",
+             "Coarse, fine, and neither"],
+         "correct": 0,
+         "expl": "The same triad SN 22.26-28 explored at length earlier in Bhāravagga."},
+        {"q": "What does this discourse function as, according to this reading guide?",
+         "opts": [
+             "An encyclopedic synthesis gathering several major analytical frameworks into one unified curriculum",
+             "A rejection of everything taught earlier in the book",
+             "An isolated discourse with no relationship to any other material",
+             "A simplified summary requiring no prior background"],
+         "correct": 0,
+         "expl": "Combining SN 22.56's four rounds, SN 22.26-28's gratification/drawback/escape, and a further threefold examination."},
+        {"q": "What does this discourse's mention of \"dependent origination\" as an analytical lens point toward?",
+         "opts": [
+             "Material this site's Nidānavagga (Book II) already addresses at length",
+             "An entirely new teaching never discussed anywhere else",
+             "A rejection of dependent origination as invalid",
+             "A concept unrelated to anything in the Saṃyutta Nikāya"],
+         "correct": 0,
+         "expl": "Pointing beyond Khandhavagga's own primary subject matter toward material developed elsewhere."},
+        {"q": "How many aggregates does this discourse's seven-case analysis apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Perception and choices are elided but follow the same pattern spelled out for the other three."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī",
+             "Rājagaha",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.58, distinguishing the fully awakened Buddha from a mendicant freed by wisdom",
+             "A return to SN 22.43",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "A shift from comprehensive technical synthesis to a question of what distinguishes the Buddha uniquely."},
+    ],
+    marginalia=[
+        ("Two frameworks stitched into one", [
+            "SN 22.56's four rounds &mdash;",
+            "plus SN 22.26-28's gratification, drawback, escape",
+        ]),
+        ("A fifth title, a sixth, a seventh — literally", [
+            "seven items per aggregate &mdash;",
+            "the most comprehensive definition in the book",
+        ]),
+        ("Three lenses pointing beyond this book", [
+            "elements, sense fields, dependent origination &mdash;",
+            "gesturing toward material developed elsewhere",
+        ]),
+        ("An encyclopedic synthesis, not new content", [
+            "nothing here is unfamiliar &mdash;",
+            "everything gathered together for the first time",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.57/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.56.html">SN 22.56 &middot; Rounds of the '
+        "Grasping Aggregates</a> &mdash; the previous discourse, "
+        "whose four-round definitions this one extends.",
+        '<a href="sn-22.58.html">SN 22.58 &middot; The Fully '
+        "Awakened Buddha</a> &mdash; the next discourse, "
+        "distinguishing the Buddha from an equally liberated "
+        "disciple.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.58 — Sammāsambuddhasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 58, "Sammāsambuddha", "The Fully Awakened Buddha",
+    vagga="Upayavagga",
+    meta_title="SN 22.58 — The Fully Awakened Buddha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sammāsambuddhasutta &mdash; the Buddha and an arahant "
+        "freed by wisdom share the identical liberation; the "
+        "difference is that the Buddha discovered the path himself. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, prompted by the mendicants' request "
+                     "for clarification"),
+        ("Form", "A pointed question the mendicants themselves ask, "
+                 "answered with a precise, carefully worded "
+                 "distinction"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a short discourse addressing a question of "
+                       "unusual doctrinal significance"),
+    ],
+    why=(
+        "This discourse addresses a question with real doctrinal "
+        "weight, positioned deliberately right before SN 22.59's "
+        "famous second sermon: if a fully awakened Buddha and a "
+        "mendicant &ldquo;freed by wisdom&rdquo; (paññāvimutta) are "
+        "both freed by not grasping, due to disillusionment, "
+        "dispassion, and cessation regarding each of the five "
+        "aggregates &mdash; in other words, if their liberation is "
+        "identical &mdash; what actually distinguishes them? The "
+        "mendicants themselves ask this question, deferring to the "
+        "Buddha's own authority to answer it (&ldquo;our teachings "
+        "are rooted in the Buddha&rdquo;), and his answer is precise: "
+        "the difference is not in the liberation attained, but in who "
+        "found the path first."
+    ),
+    guide=[
+        ("A description repeated identically for the Buddha and the disciple", [
+            "The discourse's opening move is to state, in exactly "
+            "parallel language, that a fully awakened Buddha and a "
+            "mendicant freed by wisdom are both freed by not "
+            "grasping, due to disillusionment, dispassion, and "
+            "cessation regarding form (and each remaining aggregate). "
+            "Both are given their respective titles &mdash; "
+            "&ldquo;fully awakened Buddha&rdquo; and &ldquo;freed by "
+            "wisdom&rdquo; &mdash; on the basis of the identical "
+            "underlying attainment.",
+        ]),
+        ("The mendicants defer the question back to the Buddha himself", [
+            "Rather than answering their own question, the mendicants "
+            "explicitly ask the Buddha to clarify it, with a formula "
+            "acknowledging his unique authority: &ldquo;our teachings "
+            "are rooted in the Buddha. He is our guide and our "
+            "refuge.&rdquo; This deference is itself part of the "
+            "discourse's answer &mdash; a demonstration, in the very "
+            "act of asking, of exactly the kind of relationship "
+            "between the Buddha and his disciples the answer will "
+            "go on to describe.",
+        ]),
+        ("Three verbs of discovery, applied only to the Buddha", [
+            "The Buddha's answer uses three distinct verbs to "
+            "describe what he alone did: he gave rise to the unarisen "
+            "path, gave birth to the unborn path, and explained the "
+            "unexplained path. He is called the knower of the path, "
+            "the discoverer of the path, the expert on the path "
+            "&mdash; a threefold repetition emphasizing pioneering "
+            "discovery rather than mere personal attainment.",
+        ]),
+        ("Disciples follow a path already laid out", [
+            "The discourse's closing contrast is compact and precise: "
+            "disciples now live following the path, and "
+            "&ldquo;acquire it later.&rdquo; This is the entire "
+            "difference the discourse identifies &mdash; not a "
+            "difference in the depth, completeness, or quality of "
+            "liberation itself, which is stated as identical, but "
+            "purely a difference in temporal and causal priority: who "
+            "found the way, and who walked a way already found.",
+        ]),
+    ],
+    terms=[
+        ("paññāvimutta",
+         "&ldquo;freed by wisdom&rdquo; &mdash; the title given to a "
+         "liberated mendicant, whose attainment this discourse "
+         "describes as identical to the Buddha's own."),
+        ("buddhamūlakā no, bhante, dhammā",
+         "&ldquo;our teachings are rooted in the Buddha&rdquo; "
+         "&mdash; the mendicants' formula of deference, itself "
+         "demonstrating the relationship the discourse's answer will "
+         "describe."),
+        ("anuppannassa maggassa uppādetā",
+         "&ldquo;gave rise to the unarisen path&rdquo; &mdash; the "
+         "first of three verbs describing the Buddha's unique "
+         "achievement of discovery."),
+        ("maggaññū, maggavidū, maggakovido",
+         "&ldquo;knower of the path, discoverer of the path, expert "
+         "on the path&rdquo; &mdash; the threefold title marking the "
+         "Buddha's pioneering role."),
+        ("pacchā samannāgatā",
+         "&ldquo;acquire it later&rdquo; &mdash; the discourse's "
+         "closing description of disciples, who follow a path already "
+         "laid out rather than discovering it themselves."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions (feeling, "
+        "perception, and choices, each following the same pattern "
+        "spelled out in full for form and consciousness) are given "
+        "exactly as bilara-data preserves them. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.58:1.2-1.3"),
+        ("p", "&sect;2", "sn22.58:3.1-3.4"),
+        ("p", "&sect;3", "sn22.58:4.1-4.5"),
+        ("p", "&sect;4", "sn22.58:5.1-5.3"),
+    ],
+    quiz=[
+        {"q": "What description does this discourse apply identically to both the Buddha and a mendicant freed by wisdom?",
+         "opts": [
+             "Freed by not grasping, due to disillusionment, dispassion, and cessation regarding each aggregate",
+             "Having taught for exactly the same number of years",
+             "Having the identical physical appearance",
+             "Having an identical number of disciples"],
+         "correct": 0,
+         "expl": "Both are freed by the identical process, on the discourse's own account."},
+        {"q": "How do the mendicants respond when asked this question themselves?",
+         "opts": [
+             "They defer to the Buddha's authority, asking him to clarify the meaning himself",
+             "They immediately answer the question without hesitation",
+             "They refuse to engage with the question at all",
+             "They argue among themselves about the correct answer"],
+         "correct": 0,
+         "expl": "\"Our teachings are rooted in the Buddha. He is our guide and our refuge.\""},
+        {"q": "What three verbs describe what the Buddha alone did, according to his own answer?",
+         "opts": [
+             "Gave rise to the unarisen path, gave birth to the unborn path, and explained the unexplained path",
+             "Destroyed the old path, built a new path, and hid the path from others",
+             "Discovered the path, then immediately forgot it",
+             "Inherited the path from a previous teacher"],
+         "correct": 0,
+         "expl": "Emphasizing pioneering discovery rather than mere personal attainment."},
+        {"q": "What does the discourse say about disciples' relationship to the path?",
+         "opts": [
+             "They now live following the path, and acquire it later",
+             "They discover an entirely separate, different path",
+             "They can never actually attain the path at all",
+             "They must wait for a future Buddha to teach them"],
+         "correct": 0,
+         "expl": "A difference in temporal and causal priority, not in the depth of liberation itself."},
+        {"q": "According to this discourse, is there any difference in the quality or completeness of the liberation attained?",
+         "opts": [
+             "No — the discourse explicitly states both attainments are identical; the difference is who found the path first",
+             "Yes — the Buddha's liberation is described as deeper and more complete",
+             "Yes — the disciple's liberation is described as temporary",
+             "The discourse does not address this question"],
+         "correct": 0,
+         "expl": "The sole distinguishing factor named is pioneering discovery versus following an already-found path."},
+        {"q": "Why is this discourse's placement immediately before SN 22.59 significant?",
+         "opts": [
+             "It addresses the Buddha's unique role right before the famous sermon where disciples attain the identical liberation he discovered",
+             "It has no meaningful connection to SN 22.59",
+             "It directly contradicts what SN 22.59 will teach",
+             "SN 22.59 is unrelated to any question about the Buddha's uniqueness"],
+         "correct": 0,
+         "expl": "A thematic bridge to the second sermon, where the first five ascetics attain arahantship."},
+        {"q": "What title is given to a liberated mendicant, distinct from \"fully awakened Buddha\"?",
+         "opts": [
+             "Freed by wisdom (paññāvimutta)",
+             "Knower of the path",
+             "Discoverer of the path",
+             "Expert on the path"],
+         "correct": 0,
+         "expl": "The three path-related titles are reserved specifically for the Buddha in this discourse."},
+        {"q": "How many aggregates does this discourse's opening description apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī",
+             "Rājagaha",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.59, the Buddha's second sermon, already published as a pre-existing page on this site",
+             "A return to SN 22.43",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "The Anattalakkhaṇa Sutta, one of the most famous discourses in the entire canon."},
+    ],
+    marginalia=[
+        ("Identical wording for two different titles", [
+            "fully awakened Buddha, freed by wisdom &mdash;",
+            "the same liberation, stated in parallel language",
+        ]),
+        ("A question deferred back to its only proper authority", [
+            "our teachings are rooted in the Buddha &mdash;",
+            "the deference itself demonstrates the answer",
+        ]),
+        ("Three verbs, all about discovery", [
+            "gave rise to, gave birth to, explained &mdash;",
+            "pioneering, not merely personal attainment",
+        ]),
+        ("The whole difference: who found it first", [
+            "disciples follow, acquiring it later &mdash;",
+            "no difference in the liberation itself",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.58/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.57.html">SN 22.57 &middot; Seven Cases</a> '
+        "&mdash; the previous discourse, the vagga's most "
+        "comprehensive technical synthesis.",
+        '<a href="sn-22.59.html">SN 22.59 &middot; The Characteristic '
+        "of Not-Self</a> &mdash; the next discourse, the Buddha's "
+        "second sermon, where the first five ascetics attain the "
+        "identical liberation this discourse describes.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.60 — Mahālisutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 60, "Mahāli", "With Mahāli",
+    vagga="Upayavagga",
+    meta_title="SN 22.60 — With Mahāli | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mahālisutta &mdash; the Buddha directly refutes Pūraṇa "
+        "Kassapa's fatalistic doctrine, showing the aggregates' mixed "
+        "pleasure and pain as the actual cause of corruption and "
+        "purification. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, the Great Wood, the hall with the "
+                    "peaked roof"),
+        ("Speakers", "Mahāli the Licchavi questions the Buddha "
+                     "directly about a rival teacher's doctrine"),
+        ("Form", "A direct refutation of a named rival teacher's "
+                 "claim, followed by the Buddha's own positive "
+                 "account of causation"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "engages directly with a rival philosophical "
+                       "position named elsewhere in the canon"),
+    ],
+    why=(
+        "This discourse steps outside the vagga's usual Sāvatthī "
+        "setting to record a direct philosophical confrontation. "
+        "Mahāli, a Licchavi nobleman (distinct from any of this "
+        "book's mendicant speakers), reports to the Buddha a claim "
+        "made by Pūraṇa Kassapa &mdash; one of the six rival "
+        "teachers whose fatalistic and amoral doctrines are catalogued "
+        "elsewhere in the canon, notably in DN 2 &mdash; that there is "
+        "no cause or reason for either the corruption or the "
+        "purification of sentient beings; both simply happen without "
+        "cause. The Buddha's response is a flat rejection followed by "
+        "a precise, positive account: there is a cause, and it lies "
+        "in the double-sided nature of the aggregates themselves, "
+        "which are neither purely pleasurable nor purely painful."
+    ),
+    guide=[
+        ("A rival teacher's doctrine, reported and rejected", [
+            "Mahāli reports Pūraṇa Kassapa's claim exactly: sentient "
+            "beings are corrupted without cause or reason, and "
+            "purified without cause or reason. This is a form of "
+            "fatalism that denies any causal explanation for moral or "
+            "spiritual development in either direction. The Buddha's "
+            "answer is direct and unequivocal: there is a cause and "
+            "reason for both corruption and purification.",
+        ]),
+        ("Corruption explained by the aggregates' pleasurable side", [
+            "The Buddha's account of corruption turns on a "
+            "conditional: if form were exclusively painful, soaked "
+            "and steeped in pain with no admixture of pleasure, "
+            "sentient beings would not be aroused by it. But because "
+            "form is genuinely pleasurable &mdash; steeped in pleasure "
+            "and not only pain &mdash; sentient beings are aroused by "
+            "it, become caught up in it, and so become corrupted. The "
+            "cause of corruption is not an arbitrary flaw but the "
+            "aggregates' real, undeniable pleasurable quality.",
+        ]),
+        ("Purification explained by the aggregates' painful side", [
+            "The mirror-image account of purification uses the "
+            "identical conditional structure with the opposite "
+            "quality: if form were perfectly pleasurable, steeped in "
+            "pleasure with no admixture of pain, sentient beings would "
+            "never grow disillusioned with it. But because form is "
+            "genuinely painful &mdash; steeped in pain and not only "
+            "pleasure &mdash; sentient beings do grow disillusioned, "
+            "desire fades, and they are purified. Corruption and "
+            "purification are thus explained by two real, opposite "
+            "facets of the very same aggregates, not by chance.",
+        ]),
+        ("A rare confrontation with a named rival system", [
+            "Unlike most discourses in this book, which address "
+            "mendicants or individual householders without reference "
+            "to competing philosophical schools, this discourse names "
+            "a specific rival teacher and doctrine directly. This "
+            "gives the discourse's teaching a pointed, argumentative "
+            "edge &mdash; not simply presenting the Buddhist position "
+            "in isolation, but showing exactly what alternative "
+            "position it is meant to refute, and why the aggregates' "
+            "own mixed character supplies the refutation.",
+        ]),
+    ],
+    terms=[
+        ("ahetu appaccayā",
+         "&ldquo;without cause or reason&rdquo; &mdash; Pūraṇa "
+         "Kassapa's claim about both corruption and purification, "
+         "directly rejected by the Buddha."),
+        ("saṅkiliṭṭhā",
+         "&ldquo;corrupted&rdquo; &mdash; the condition the Buddha "
+         "traces to sentient beings being aroused by the aggregates' "
+         "genuine pleasurable quality."),
+        ("vodāyanti",
+         "&ldquo;purified&rdquo; &mdash; the condition traced to "
+         "disillusionment arising from the aggregates' genuine "
+         "painful quality."),
+        ("sukhanissitañceva na dukkhanissitañ ca",
+         "&ldquo;steeped in pleasure and not steeped in pain&rdquo; "
+         "&mdash; part of the conditional structure explaining why "
+         "sentient beings are aroused rather than repelled."),
+        ("Pūraṇa Kassapa",
+         "one of the six rival teachers whose fatalistic and amoral "
+         "doctrines are catalogued elsewhere in the canon, notably in "
+         "DN 2, here directly named and refuted."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions in each section "
+        "(feeling, perception, and choices, each following the same "
+        "pattern spelled out in full for form and consciousness) are "
+        "given exactly as bilara-data preserves them. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.60:2.1-2.6"),
+        ("p", "&sect;2", "sn22.60:3.1-3.4"),
+        ("p", "&sect;3", "sn22.60:5.1-5.5"),
+        ("p", "&sect;4", "sn22.60:8.1-8.5"),
+        ("p", "&sect;5", "sn22.60:9.3-9.7"),
+        ("p", "&sect;6", "sn22.60:10.4-10.8"),
+    ],
+    quiz=[
+        {"q": "What claim does Mahāli report from Pūraṇa Kassapa?",
+         "opts": [
+             "There is no cause or reason for the corruption or purification of sentient beings",
+             "All sentient beings are corrupted permanently with no possibility of purification",
+             "Only monks can ever be purified, never laypeople",
+             "Corruption and purification are the same thing"],
+         "correct": 0,
+         "expl": "A fatalistic doctrine the Buddha directly rejects."},
+        {"q": "How does the Buddha explain the cause of corruption?",
+         "opts": [
+             "The aggregates' genuine pleasurable quality arouses sentient beings, who become caught up in them",
+             "Corruption has no explanation and simply occurs randomly",
+             "Corruption is caused entirely by external demons",
+             "Corruption is caused by insufficient monastic discipline alone"],
+         "correct": 0,
+         "expl": "A conditional argument: if the aggregates had no pleasurable quality at all, no arousal would occur."},
+        {"q": "How does the Buddha explain the cause of purification?",
+         "opts": [
+             "The aggregates' genuine painful quality produces disillusionment and fading desire",
+             "Purification occurs by pure chance with no cause",
+             "Purification requires denying that the aggregates have any painful quality",
+             "Purification is caused entirely by another person's intervention"],
+         "correct": 0,
+         "expl": "The mirror-image conditional: if the aggregates were purely pleasurable, no disillusionment would occur."},
+        {"q": "Who is Pūraṇa Kassapa, according to this reading guide?",
+         "opts": [
+             "One of the six rival teachers whose fatalistic and amoral doctrines are catalogued in DN 2",
+             "A senior disciple of the Buddha",
+             "A householder who later became an arahant",
+             "A king who ruled during the Buddha's lifetime"],
+         "correct": 0,
+         "expl": "A named rival philosophical figure, directly engaged and refuted in this discourse."},
+        {"q": "What is distinctive about this discourse compared to most others in the vagga?",
+         "opts": [
+             "It directly names and refutes a specific rival teacher's doctrine, rather than addressing mendicants or householders in isolation",
+             "It contains no teaching content at all",
+             "It is set in the same location as every other discourse in the vagga",
+             "It denies that the aggregates have any causal role in corruption or purification"],
+         "correct": 0,
+         "expl": "A pointed, argumentative edge distinguishing this discourse from the vagga's other material."},
+        {"q": "What does the discourse claim about the aggregates' basic nature?",
+         "opts": [
+             "They are genuinely both pleasurable and painful, not exclusively one or the other",
+             "They are exclusively pleasurable with no painful aspect",
+             "They are exclusively painful with no pleasurable aspect",
+             "They have no discernible qualities at all"],
+         "correct": 0,
+         "expl": "This mixed, double-sided character is what explains both corruption and purification."},
+        {"q": "Who questions the Buddha in this discourse?",
+         "opts": [
+             "Mahāli the Licchavi",
+             "The householder Soṇa",
+             "Venerable Ānanda",
+             "An unnamed mendicant"],
+         "correct": 0,
+         "expl": "A Licchavi nobleman, distinct from the mendicant and householder questioners elsewhere in this book."},
+        {"q": "How many aggregates does this discourse's argument apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set, distinct from most of the vagga's other discourses?",
+         "opts": [
+             "Vesālī, the Great Wood, the hall with the peaked roof",
+             "Sāvatthī, Jeta's Grove",
+             "Rājagaha, the Bamboo Grove",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "A shift away from the vagga's usual Sāvatthī setting."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.61, a short direct teaching on the aggregates \"burning\"",
+             "A return to SN 22.43",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "A return to the vagga's shorter, more compressed discourse style."},
+    ],
+    marginalia=[
+        ("A rival doctrine, named and rejected outright", [
+            "no cause for corruption or purification &mdash;",
+            "the Buddha's flat answer: there is a cause",
+        ]),
+        ("Pleasure explains the pull toward corruption", [
+            "if form had no pleasure at all &mdash;",
+            "no arousal, no corruption, would occur",
+        ]),
+        ("Pain explains the turn toward purification", [
+            "if form had no pain at all &mdash;",
+            "no disillusionment, no purification, would occur",
+        ]),
+        ("A rare direct engagement with a named rival system", [
+            "not just presented in isolation &mdash;",
+            "the alternative it refutes is named outright",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.60/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.59.html">SN 22.59 &middot; The Characteristic '
+        "of Not-Self</a> &mdash; the previous discourse, the Buddha's "
+        "famous second sermon.",
+        '<a href="sn-22.61.html">SN 22.61 &middot; Burning</a> '
+        "&mdash; the next discourse, a short teaching on the "
+        "aggregates as burning.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.61 — Ādittasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 61, "Āditta", "Burning",
+    vagga="Upayavagga",
+    meta_title="SN 22.61 — Burning | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ādittasutta &mdash; a short, direct teaching naming the "
+        "aggregates as burning, closing with the standard "
+        "disillusionment-to-freedom chain. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A single unargued claim, followed by the standard "
+                 "four-step liberation chain"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and direct, echoing SN 22.12's own "
+                       "opening formula from Aniccavagga"),
+    ],
+    why=(
+        "After SN 22.60's extended engagement with a rival "
+        "philosophical position, this discourse returns to the "
+        "vagga's shorter, more compressed register: the five "
+        "aggregates are burning (āditta), and seeing this, a learned "
+        "noble disciple grows disillusioned, desire fades, freedom "
+        "follows, and the standard arahant declaration closes it out. "
+        "This is the identical four-step chain used in SN 22.12 at "
+        "the very opening of Aniccavagga, here triggered by a "
+        "different single-word characterization &mdash; not "
+        "impermanent, suffering, or not-self, but specifically "
+        "&ldquo;burning.&rdquo;"
+    ),
+    guide=[
+        ("A single vivid word, unexplained", [
+            "The discourse's entire premise is one word applied to "
+            "all five aggregates: they are burning. No further "
+            "elaboration is given &mdash; no explanation of what is "
+            "burning them, no fuel named, no fire described in "
+            "detail. The image is left to do its own work, its "
+            "urgency conveyed by its brevity rather than by "
+            "elaboration.",
+        ]),
+        ("A word that could connect to the canon's most famous fire sermon", [
+            "&ldquo;Burning&rdquo; (āditta) is the same key term "
+            "used in the celebrated Fire Sermon (Ādittapariyāya "
+            "Sutta), delivered to a thousand former fire-worshipping "
+            "ascetics, where each sense faculty and its associated "
+            "consciousness, contact, and feeling are said to be "
+            "burning with greed, hatred, and delusion. This "
+            "discourse's brief use of the identical term, applied "
+            "here directly to the five aggregates rather than the six "
+            "sense bases, suggests a shared underlying image used at "
+            "more than one scale across the canon.",
+        ]),
+        ("The identical chain from SN 22.12, reused without variation", [
+            "Once the aggregates are named as burning, the discourse "
+            "runs the exact four-step chain already seen at the very "
+            "start of Aniccavagga: disillusionment, fading desire, "
+            "freedom, and the knowledge of freedom, closing with the "
+            "full four-part arahant declaration. Nothing in this "
+            "closing sequence differs from SN 22.12's wording.",
+        ]),
+        ("A brief discourse before the vagga's own close", [
+            "With this discourse, Upayavagga has now covered ground "
+            "from the abstract (SN 22.53's involvement teaching) "
+            "through the concrete (SN 22.54's plant simile) to the "
+            "psychologically intricate (SN 22.55), the technically "
+            "comprehensive (SN 22.56-57), the doctrinally pointed "
+            "(SN 22.58, SN 22.60), and now back to the plainest "
+            "possible single-word teaching, before SN 22.62 closes "
+            "the vagga with a final reflection on language itself.",
+        ]),
+    ],
+    terms=[
+        ("āditta",
+         "&ldquo;burning&rdquo; &mdash; this discourse's sole "
+         "characterization of the five aggregates, and the same key "
+         "term used in the canon's celebrated Fire Sermon."),
+        ("nibbindati",
+         "&ldquo;grows disillusioned&rdquo; &mdash; the chain's "
+         "opening link, identical in wording to SN 22.12."),
+        ("vimuccati",
+         "&ldquo;is freed&rdquo; &mdash; the chain's third link, "
+         "unchanged from SN 22.12."),
+        ("vimuttasmiṁ vimuttamiti ñāṇaṁ",
+         "&ldquo;when freed, they know they're freed&rdquo; &mdash; "
+         "the chain's fourth link, identical to SN 22.12's wording."),
+        ("khīṇā jāti&hellip;nāparaṁ itthattāya",
+         "&ldquo;rebirth is ended&hellip;nothing further for this "
+         "place&rdquo; &mdash; the closing arahant declaration, "
+         "reused without variation."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.61:1.2-1.5"),
+    ],
+    quiz=[
+        {"q": "What single word does this discourse apply to all five aggregates?",
+         "opts": [
+             "\"Burning\" (āditta)",
+             "\"Brittle\" (pabhaṅgu)",
+             "\"Gloom\" (agha)",
+             "\"Involved\" (upaya)"],
+         "correct": 0,
+         "expl": "Left unexplained and unelaborated, its urgency conveyed by brevity alone."},
+        {"q": "What famous canonical discourse uses the identical key term \"burning\"?",
+         "opts": [
+             "The Fire Sermon (Ādittapariyāya Sutta), delivered to former fire-worshipping ascetics",
+             "The Buddha's second sermon, SN 22.59",
+             "The Buddha's first sermon on the four noble truths",
+             "The Mahāparinibbāna Sutta, DN 16"],
+         "correct": 0,
+         "expl": "Applied there to the six sense bases rather than directly to the five aggregates."},
+        {"q": "What chain follows the claim that the aggregates are burning?",
+         "opts": [
+             "The identical four-step chain from SN 22.12: disillusionment, fading desire, freedom, knowledge of freedom",
+             "An entirely new chain not seen elsewhere in the book",
+             "A chain concerning only physical fire safety",
+             "No chain at all; the discourse ends with the single claim"],
+         "correct": 0,
+         "expl": "Reused without variation from Aniccavagga's opening discourse."},
+        {"q": "How does this discourse's brevity compare to SN 22.60 immediately before it?",
+         "opts": [
+             "A return to a shorter, more compressed register after SN 22.60's extended philosophical engagement",
+             "Even longer and more elaborate than SN 22.60",
+             "Identical in length and structure to SN 22.60",
+             "This discourse has no relationship to SN 22.60 at all"],
+         "correct": 0,
+         "expl": "Part of the vagga's varied pacing between longer and shorter discourses."},
+        {"q": "What closing declaration does this discourse use?",
+         "opts": [
+             "The standard four-part arahant declaration",
+             "A denial that liberation is achievable",
+             "An entirely new, unique declaration",
+             "No closing declaration at all"],
+         "correct": 0,
+         "expl": "Identical wording to the declaration closing SN 22.12."},
+        {"q": "How many aggregates does this discourse's claim apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Named together as a group, with no elision needed given the discourse's brevity."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī",
+             "Rājagaha",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "A return to the vagga's usual setting after SN 22.60's Vesālī dialogue."},
+        {"q": "Who speaks in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Mahāli the Licchavi",
+             "The householder Soṇa",
+             "Venerable Ānanda"],
+         "correct": 0,
+         "expl": "A direct teaching, consistent with most of the vagga's discourses."},
+        {"q": "What position does this discourse hold in Upayavagga?",
+         "opts": [
+             "The penultimate discourse, before the vagga's closing reflection on language",
+             "The vagga's opening discourse",
+             "The vagga's exact midpoint",
+             "It does not belong to this vagga"],
+         "correct": 0,
+         "expl": "SN 22.62 will close the vagga with a different, final reflection."},
+        {"q": "What discourse comes immediately after this one, closing the vagga?",
+         "opts": [
+             "SN 22.62, on the scope of definition, labeling, and description",
+             "A return to SN 22.43",
+             "A discourse from a different saṃyutta",
+             "SN 22.63, opening the next vagga"],
+         "correct": 0,
+         "expl": "The vagga's final discourse, closing on a reflection about linguistic convention."},
+    ],
+    marginalia=[
+        ("One word, left to do all the work", [
+            "burning, unexplained &mdash;",
+            "urgency conveyed by brevity, not elaboration",
+        ]),
+        ("A term echoing the canon's own Fire Sermon", [
+            "the same key word, different scale &mdash;",
+            "applied here to the aggregates directly",
+        ]),
+        ("SN 22.12's chain, reused exactly", [
+            "disillusion, fade, free, know &mdash;",
+            "no variation from Aniccavagga's opening",
+        ]),
+        ("A brief pause between longer discourses", [
+            "philosophical debate, then this single claim &mdash;",
+            "the vagga's varied pacing continues",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.61/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.60.html">SN 22.60 &middot; With Mahāli</a> '
+        "&mdash; the previous discourse, the Buddha's direct "
+        "refutation of Pūraṇa Kassapa.",
+        '<a href="sn-22.62.html">SN 22.62 &middot; The Scope of '
+        "Definition</a> &mdash; the next discourse, closing the "
+        "vagga with a reflection on linguistic convention.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.62 — Niruttipathasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 62, "Niruttipatha", "The Scope of Definition",
+    vagga="Upayavagga",
+    meta_title="SN 22.62 — The Scope of Definition | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Niruttipathasutta &mdash; the three tenses \"was, is, "
+        "will be\" as an uncorrupted linguistic bedrock not even "
+        "radical skeptics dared reject, closing Upayavagga. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A precise definition of three linguistic categories "
+                 "applied to each aggregate's temporal status, "
+                 "closing with an observation about even radical "
+                 "skeptics' restraint"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "closes the vagga with an unusual reflection "
+                       "on language itself rather than on meditation "
+                       "or liberation directly"),
+    ],
+    why=(
+        "This discourse closes Upayavagga with an unusual subject: "
+        "not meditation practice or liberation directly, but the "
+        "correctness of ordinary tensed language. The Buddha names "
+        "three &ldquo;scopes of definition, labeling, and "
+        "description&rdquo; &mdash; was, is, and will be &mdash; and "
+        "applies each strictly according to an aggregate's actual "
+        "temporal status: an aggregate that has passed, ceased, and "
+        "perished is correctly called &ldquo;was,&rdquo; never "
+        "&ldquo;is&rdquo; or &ldquo;will be&rdquo;; one not yet born "
+        "is correctly called &ldquo;will be&rdquo;; one currently "
+        "arisen is correctly called &ldquo;is.&rdquo; The discourse's "
+        "closing observation is what gives it its real force: even "
+        "the most radical skeptics and nihilists, who rejected cause, "
+        "action, and meaning itself, never dared criticize these "
+        "three basic linguistic categories &mdash; out of fear of "
+        "being blamed and attacked for doing so."
+    ),
+    guide=[
+        ("Three tenses, strictly and exclusively assigned", [
+            "The discourse's central claim is precise: each of the "
+            "three temporal categories &mdash; was, is, will be "
+            "&mdash; applies to an aggregate's status exclusively, "
+            "never interchangeably. Something that has passed, "
+            "ceased, and perished is correctly designated &ldquo;was&rdquo; "
+            "and specifically &ldquo;not &lsquo;is&rsquo; or "
+            "&lsquo;will be&rsquo;&rdquo; &mdash; the discourse "
+            "explicitly rules out the other two tenses for each case, "
+            "not merely naming the correct one.",
+        ]),
+        ("A structure recalling SN 22.38's three-times rehearsal", [
+            "This discourse's threefold temporal structure recalls SN "
+            "22.38's rehearsal with Ānanda earlier in the book, which "
+            "likewise divided the aggregates' arising, vanishing, and "
+            "persisting-change across past, future, and present. "
+            "Where that discourse addressed the aggregates' "
+            "impermanent nature directly, this discourse addresses "
+            "something one level more abstract: the correctness of "
+            "the language used to describe that nature.",
+        ]),
+        ("These categories declared uncorrupted since the beginning", [
+            "The discourse makes a striking claim about these three "
+            "linguistic categories themselves: they are "
+            "&ldquo;uncorrupted, as they have been since the "
+            "beginning&rdquo; and will not be corrupted going forward. "
+            "This is not a claim about the aggregates' impermanence "
+            "but about the stability of the linguistic convention used "
+            "to correctly describe that impermanence &mdash; a subtle "
+            "distinction between what changes (the aggregates) and "
+            "what does not (the rules for correctly talking about "
+            "them).",
+        ]),
+        ("Even radical skeptics respected this linguistic bedrock", [
+            "The discourse's closing observation names, without "
+            "identifying them individually, &ldquo;loud and bold "
+            "advocates of the doctrines of no-cause, inaction, and "
+            "nihilism&rdquo; &mdash; recalling SN 22.60's named "
+            "engagement with Pūraṇa Kassapa's fatalistic school "
+            "&mdash; and states that even they never dared to "
+            "criticize or reject these three basic categories, out of "
+            "fear of being blamed, attacked, provoked, and faulted. "
+            "Even the most radical philosophical rejection of cause "
+            "and meaning stopped short of denying that something "
+            "which has ended is correctly called &ldquo;was.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("adhivacanapatha, niruttipatha, paññattipatha",
+         "&ldquo;scope of definition, labeling, and description&rdquo; "
+         "&mdash; the discourse's title concept, the three linguistic "
+         "categories this discourse examines."),
+        ("atītaṁ niruddhaṁ vigataṁ",
+         "&ldquo;has passed, ceased, and perished&rdquo; &mdash; the "
+         "condition correctly designated &ldquo;was,&rdquo; and "
+         "explicitly not &ldquo;is&rdquo; or &ldquo;will be.&rdquo;"),
+        ("asaṅkiṇṇā, na saṅkīyanti, na saṅkīyissanti",
+         "&ldquo;uncorrupted&hellip;not being corrupted now, nor will "
+         "they be&rdquo; &mdash; the discourse's claim about the "
+         "stability of these categories themselves, distinct from the "
+         "aggregates' own impermanence."),
+        ("ahetuvādā akiriyavādā natthikavādā",
+         "&ldquo;advocates of the doctrines of no-cause, inaction, "
+         "and nihilism&rdquo; &mdash; recalling SN 22.60's named "
+         "engagement with Pūraṇa Kassapa's rival school."),
+        ("nindābhayā gārayhabhayā upārambhabhayā",
+         "&ldquo;for fear of being blamed, attacked, provoked, and "
+         "faulted&rdquo; &mdash; the discourse's explanation for why "
+         "even radical skeptics respected this linguistic bedrock."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions (feeling, "
+        "perception, and choices, each following the same pattern "
+        "spelled out in full for form and consciousness) are given "
+        "exactly as bilara-data preserves them. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.62:1.2-1.5"),
+        ("p", "&sect;2", "sn22.62:4.1-4.2"),
+        ("p", "&sect;3", "sn22.62:5.1-5.2"),
+        ("p", "&sect;4", "sn22.62:8.1-8.2"),
+        ("p", "&sect;5", "sn22.62:9.1-9.2"),
+        ("p", "&sect;6", "sn22.62:12.1-12.2"),
+        ("p", "&sect;7", "sn22.62:13.1-13.4"),
+    ],
+    quiz=[
+        {"q": "What three linguistic categories does this discourse examine?",
+         "opts": [
+             "\"Was,\" \"is,\" and \"will be\"",
+             "\"Good,\" \"bad,\" and \"neutral\"",
+             "\"Mine,\" \"not mine,\" and \"unknown\"",
+             "\"Near,\" \"far,\" and \"in between\""],
+         "correct": 0,
+         "expl": "Applied strictly and exclusively to each aggregate's actual temporal status."},
+        {"q": "How is an aggregate that \"has passed, ceased, and perished\" correctly designated?",
+         "opts": [
+             "\"Was\" — and explicitly not \"is\" or \"will be\"",
+             "\"Is\" — since it existed at some point",
+             "\"Will be\" — since it may recur",
+             "None of the three tenses apply to it"],
+         "correct": 0,
+         "expl": "The discourse explicitly rules out the other two tenses for each case."},
+        {"q": "What claim does the discourse make about these three categories themselves, distinct from the aggregates?",
+         "opts": [
+             "They are uncorrupted, as they have been since the beginning, and will not be corrupted",
+             "They change constantly along with the aggregates",
+             "They are entirely arbitrary and could be replaced by any other terms",
+             "They apply only to advanced meditators, not ordinary language users"],
+         "correct": 0,
+         "expl": "A subtle distinction between what changes (the aggregates) and what does not (the linguistic convention)."},
+        {"q": "What does the discourse claim about radical skeptics and nihilists regarding these three categories?",
+         "opts": [
+             "Even they never dared to criticize or reject them, out of fear of being blamed and attacked",
+             "They rejected all three categories outright",
+             "They accepted only \"is\" and rejected \"was\" and \"will be\"",
+             "The discourse makes no claim about skeptics at all"],
+         "correct": 0,
+         "expl": "Even the most radical rejection of cause and meaning stopped short of denying these basic categories."},
+        {"q": "What earlier discourse's structure does this discourse's threefold temporal division recall?",
+         "opts": [
+             "SN 22.38's rehearsal with Ānanda, dividing arising, vanishing, and change across past, future, and present",
+             "SN 22.22's burden imagery",
+             "SN 22.33's Jeta's Grove simile",
+             "SN 22.7's fourfold self-identification formula"],
+         "correct": 0,
+         "expl": "This discourse addresses the correctness of language, one level more abstract than SN 22.38's direct claim."},
+        {"q": "What rival doctrines does the discourse's closing observation recall from SN 22.60?",
+         "opts": [
+             "The doctrines of no-cause, inaction, and nihilism, recalling Pūraṇa Kassapa's fatalistic school",
+             "A doctrine about the correct time to eat meals",
+             "A doctrine specific to lay Buddhist practice",
+             "No connection to any earlier discourse is made"],
+         "correct": 0,
+         "expl": "The same category of rival teaching directly named and refuted in SN 22.60."},
+        {"q": "How many aggregates does this discourse's threefold analysis apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī",
+             "Rājagaha",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "A return to the vagga's usual setting after SN 22.60's Vesālī dialogue."},
+        {"q": "What is unusual about this discourse's subject compared to most others in the vagga?",
+         "opts": [
+             "It concerns the correctness of ordinary tensed language rather than meditation practice or liberation directly",
+             "It is the only discourse in the vagga concerning the five aggregates",
+             "It is the only discourse addressed to a named individual",
+             "It contains no reference to any aggregate at all"],
+         "correct": 0,
+         "expl": "A reflection on linguistic convention, distinct from the vagga's other, more directly soteriological discourses."},
+        {"q": "What comes immediately after this discourse, closing Upayavagga?",
+         "opts": [
+             "SN 22.63, opening the next vagga",
+             "A return to SN 22.53",
+             "The end of the entire Khandhasaṃyutta",
+             "A discourse from an entirely different saṃyutta"],
+         "correct": 0,
+         "expl": "The book's own systematic coverage continues into its next chapter."},
+    ],
+    marginalia=[
+        ("Three tenses, each strictly ruling out the other two", [
+            "was, is, will be &mdash;",
+            "not merely named but the alternatives excluded",
+        ]),
+        ("Stable convention, changing content", [
+            "the aggregates shift constantly &mdash;",
+            "the rules for describing them correctly do not",
+        ]),
+        ("A bedrock even radical skeptics respected", [
+            "no-cause, inaction, nihilism &mdash;",
+            "none dared reject these three basic categories",
+        ]),
+        ("Language itself, closing a vagga about consciousness", [
+            "an unusual subject to end on &mdash;",
+            "correctness of speech, not meditation directly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.62/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.61.html">SN 22.61 &middot; Burning</a> '
+        "&mdash; the previous discourse, a short direct teaching on "
+        "the aggregates.",
+        '<a href="sn-22.60.html">SN 22.60 &middot; With Mahāli</a> '
+        "&mdash; earlier in the vagga, the Buddha's direct refutation "
+        "of the same rival doctrines this closing discourse recalls.",
     ],
 )
