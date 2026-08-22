@@ -14206,3 +14206,2264 @@ page(
         "of the same rival doctrines this closing discourse recalls.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 22.63 — Upādiyamānasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 63, "Upādiyamāna", "When You Grasp",
+    vagga="Arahantavagga",
+    meta_title="SN 22.63 — When You Grasp | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Upādiyamānasutta &mdash; grasping the aggregates binds "
+        "one to Māra, not grasping frees one from him, opening "
+        "Arahantavagga with the first of eight matched \"brief "
+        "teaching\" narratives. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                    "monastery"),
+        ("Speakers", "An unnamed mendicant requests a teaching in "
+                     "brief, then explains it back to the Buddha"),
+        ("Form", "The same \"teaching in brief\" narrative template "
+                 "used in SN 22.35-36, this time framed around Māra "
+                 "rather than underlying tendency"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "opens a set of eight discourses sharing an "
+                       "identical narrative shell"),
+    ],
+    why=(
+        "This discourse opens Arahantavagga with the first of eight "
+        "consecutive discourses (SN 22.63-70) that share an identical "
+        "narrative template already seen in SN 22.35-36: an unnamed "
+        "mendicant requests a teaching in brief, intending to "
+        "practice alone; the Buddha supplies a compact formula; the "
+        "mendicant explains its meaning back correctly; and the "
+        "mendicant departs to attain arahantship &mdash; naming the "
+        "entire vagga after this recurring outcome, &ldquo;the "
+        "perfected ones&rdquo; (arahanta). This first discourse frames "
+        "its formula around Māra, the personification of death and "
+        "temptation in the canon: grasping any aggregate binds you to "
+        "Māra; not grasping frees you from him."
+    ),
+    guide=[
+        ("A narrative template this vagga will repeat eight times", [
+            "This discourse's shape &mdash; request for brevity, "
+            "compact formula, correct explanation, confirmation, and "
+            "the mendicant's subsequent attainment &mdash; is "
+            "identical to SN 22.35-36's earlier appearance of this "
+            "template. What varies each time this template recurs is "
+            "the single term at its center; the frame itself stays "
+            "completely fixed across all eight instances in this "
+            "vagga.",
+        ]),
+        ("Grasping framed as personal bondage to Māra", [
+            "The Buddha's brief formula names Māra directly: "
+            "&ldquo;when you grasp (upādiyamāna), mendicant, you're "
+            "bound by Māra. Not grasping, you're free from the "
+            "Wicked One.&rdquo; This is a more personified, mythic "
+            "framing than the abstract vocabulary of most discourses "
+            "in this book &mdash; grasping does not simply produce "
+            "suffering as an impersonal consequence, it places one "
+            "under the dominion of a specific adversarial figure.",
+        ]),
+        ("The mendicant's own confirmed application to each aggregate", [
+            "As in SN 22.35, the mendicant does not merely receive "
+            "the formula passively but is asked to demonstrate "
+            "understanding by applying it himself: grasping form "
+            "binds one to Māra, and likewise for feeling, perception, "
+            "choices, and consciousness. The Buddha then repeats the "
+            "mendicant's own words back as confirmation, giving the "
+            "listener's articulation equal standing with the original "
+            "teaching.",
+        ]),
+        ("A vagga named for its recurring outcome", [
+            "Arahantavagga takes its name not from any single "
+            "discourse's central image (as Bhāravagga did from "
+            "&ldquo;the burden,&rdquo; or Natumhākavagga from "
+            "&ldquo;it's not yours&rdquo;) but from the outcome "
+            "shared by nearly every discourse in it: an unnamed "
+            "mendicant becomes one of the perfected. Eight nearly "
+            "identical narratives, each ending the same way, make "
+            "this outcome itself the vagga's defining feature.",
+        ]),
+    ],
+    terms=[
+        ("upādiyamāna",
+         "&ldquo;when you grasp&rdquo; &mdash; this discourse's "
+         "title term and central verb, the first of eight terms this "
+         "vagga's matched narratives will each substitute."),
+        ("Māra",
+         "the personification of death and temptation, the canon's "
+         "adversarial figure invoked directly in this formula's "
+         "framing, rather than the more abstract vocabulary used "
+         "elsewhere in this book."),
+        ("pāpimant",
+         "&ldquo;the Wicked One&rdquo; &mdash; an epithet for Māra, "
+         "used in the formula's second half describing freedom from "
+         "his dominion."),
+        ("saṅkhittena",
+         "&ldquo;in brief&rdquo; &mdash; the mendicant's request, "
+         "identical in wording to SN 22.35's opening request."),
+        ("arahataṁ ahosi",
+         "&ldquo;became one of the perfected&rdquo; &mdash; the "
+         "outcome shared by this discourse and the seven that follow "
+         "it in this vagga, giving the vagga its own name."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions in each of the "
+        "discourse's two parallel expositions (feeling, perception, "
+        "and choices, each following the same formula spelled out in "
+        "full for form and consciousness) are given exactly as "
+        "bilara-data preserves them. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.63:1.1-1.7"),
+        ("p", "&sect;2", "sn22.63:2.1-2.2"),
+        ("p", "&sect;3", "sn22.63:2.8-2.10"),
+        ("p", "&sect;4", "sn22.63:3.1-3.2"),
+        ("p", "&sect;5", "sn22.63:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What brief formula does the Buddha give in this discourse?",
+         "opts": [
+             "When you grasp, you're bound by Māra; not grasping, you're free from him",
+             "When you meditate, you're bound by Māra",
+             "When you teach others, you're free from Māra",
+             "Māra has no relationship to the aggregates at all"],
+         "correct": 0,
+         "expl": "A more personified, mythic framing than most of this book's abstract vocabulary."},
+        {"q": "What narrative template does this discourse share with SN 22.35-36?",
+         "opts": [
+             "A request for brevity, a compact formula, correct explanation, confirmation, and subsequent attainment",
+             "A dialogue between two named senior disciples",
+             "A narrative involving a specific physical location's simile",
+             "A dispute with a rival philosophical teacher"],
+         "correct": 0,
+         "expl": "The same fixed shell, varying only in its central term."},
+        {"q": "How many discourses in a row does this narrative template recur across in this vagga?",
+         "opts": [
+             "Eight, from SN 22.63 through SN 22.70",
+             "Only this one discourse",
+             "All ten discourses in the vagga without exception",
+             "Three discourses only"],
+         "correct": 0,
+         "expl": "SN 22.71-72 close the vagga with a different, named-disciple structure instead."},
+        {"q": "What does Arahantavagga take its name from?",
+         "opts": [
+             "The outcome shared by nearly every discourse in it — an unnamed mendicant becomes one of the perfected",
+             "A single discourse's central physical image",
+             "The name of a specific location",
+             "A rival teacher's doctrine being refuted"],
+         "correct": 0,
+         "expl": "Distinct from vaggas named for a central image, like Bhāravagga's burden."},
+        {"q": "How does the Buddha respond to the mendicant's explanation?",
+         "opts": [
+             "By repeating the mendicant's own words back as confirmation",
+             "By correcting several errors in the explanation",
+             "By giving an entirely different, unrelated answer",
+             "By declining to respond at all"],
+         "correct": 0,
+         "expl": "The same confirmation pattern already seen in SN 22.35."},
+        {"q": "What happens to the mendicant after departing to practice alone?",
+         "opts": [
+             "He soon becomes one of the perfected (an arahant)",
+             "He returns without attaining anything",
+             "He abandons monastic practice entirely",
+             "He is not mentioned again in the discourse"],
+         "correct": 0,
+         "expl": "The recurring outcome that gives this vagga its name."},
+        {"q": "How many aggregates does the formula apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Vesālī, the Great Wood",
+             "Rājagaha, the Bamboo Grove",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "The default setting for this vagga's discourses."},
+        {"q": "What does the mendicant request at the discourse's start?",
+         "opts": [
+             "A teaching in brief, so he can go practice alone in solitude",
+             "Permission to travel abroad",
+             "A formal debate with another teacher",
+             "A detailed multi-year course of study"],
+         "correct": 0,
+         "expl": "Identical framing to SN 22.35's opening request."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.64, the identical narrative template with \"conceiving\" replacing \"grasping\"",
+             "A return to SN 22.53",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "The second of eight matched narratives, differing only in its central term."},
+    ],
+    marginalia=[
+        ("A fixed narrative shell, opening a set of eight", [
+            "request, formula, confirmation, attainment &mdash;",
+            "SN 22.64-70 will each vary only one term",
+        ]),
+        ("Māra named directly, not left abstract", [
+            "bound to a specific adversarial figure &mdash;",
+            "more mythic than most of this book's vocabulary",
+        ]),
+        ("A vagga named for its outcome, not an image", [
+            "\"the perfected ones\" &mdash;",
+            "nearly every discourse ends the same way",
+        ]),
+        ("The listener's own words, given equal standing", [
+            "confirmed by exact repetition &mdash;",
+            "the same pattern as SN 22.35",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.63/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.62.html">SN 22.62 &middot; The Scope of '
+        "Definition</a> &mdash; the previous discourse, closing "
+        "Upayavagga.",
+        '<a href="sn-22.64.html">SN 22.64 &middot; Conceiving</a> '
+        "&mdash; the next discourse, the identical template with a "
+        "different central term.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.64 — Maññamānasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 64, "Maññamāna", "Conceiving",
+    vagga="Arahantavagga",
+    meta_title="SN 22.64 — Conceiving | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Maññamānasutta &mdash; SN 22.63's Māra formula restated "
+        "with \"conceiving\" in place of \"grasping.\" From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "An unnamed mendicant requests a teaching in "
+                     "brief, then explains it back to the Buddha"),
+        ("Form", "The identical narrative template as SN 22.63, with "
+                 "\"conceiving\" substituted for \"grasping\""),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "identical structure to SN 22.63, best read as "
+                       "its companion"),
+    ],
+    why=(
+        "This discourse restates SN 22.63's Māra formula with a "
+        "single term changed: &ldquo;when you conceive "
+        "(maññamāna), mendicant, you're bound by Māra. Not "
+        "conceiving, you're free from the Wicked One.&rdquo; "
+        "&ldquo;Conceiving&rdquo; (maññati) is the same verb "
+        "underlying the self-referential thoughts SN 22.47 analyzed "
+        "at length earlier in the book &mdash; &lsquo;I am&rsquo;, "
+        "&lsquo;I will be&rsquo;, and the rest &mdash; now compressed "
+        "into a single formula and bound directly to Māra's dominion "
+        "rather than unpacked into its nine variants."
+    ),
+    guide=[
+        ("A term already analyzed at length earlier in the book", [
+            "&ldquo;Conceiving&rdquo; recalls SN 22.47's detailed "
+            "psychological analysis of the conceit &ldquo;I "
+            "am&rdquo; and its nine future-oriented variants. This "
+            "discourse does not repeat that analysis; it simply names "
+            "the underlying mental act &mdash; maññati, to conceive "
+            "or construe &mdash; and binds it directly to Māra's "
+            "dominion, trusting the listener's familiarity with what "
+            "conceiving actually involves.",
+        ]),
+        ("The identical narrative frame, unchanged", [
+            "Every other element of the discourse matches SN 22.63 "
+            "exactly: the mendicant's request for a teaching in "
+            "brief, the Buddha's compact formula, the mendicant's "
+            "confirmed explanation applying it to each aggregate, and "
+            "his subsequent attainment of arahantship. Only the "
+            "single central verb has changed.",
+        ]),
+        ("Grasping and conceiving as two related but distinct acts", [
+            "Read alongside SN 22.63, this discourse suggests "
+            "grasping (upādiyati) and conceiving (maññati) are "
+            "treated as two related but distinct mental acts, each "
+            "independently sufficient to bind one to Māra. Neither "
+            "discourse claims the other is redundant or covers the "
+            "same ground exactly; the vagga simply presents both as "
+            "equally valid formulas for the identical underlying "
+            "concern.",
+        ]),
+        ("The second of eight matched discourses", [
+            "This is the second term in the vagga's set of eight "
+            "identically structured discourses (SN 22.63-70), each "
+            "substituting a different central concept into the same "
+            "fixed narrative shell &mdash; a demonstration, repeated "
+            "eight times, that several distinct diagnostic terms can "
+            "each serve as the single teaching a mendicant needs to "
+            "attain full liberation.",
+        ]),
+    ],
+    terms=[
+        ("maññamāna",
+         "&ldquo;when you conceive&rdquo; &mdash; this discourse's "
+         "title term, the underlying mental act SN 22.47 analyzed at "
+         "length into its nine self-referential variants."),
+        ("maññati",
+         "&ldquo;conceives, construes&rdquo; &mdash; the verb "
+         "connecting this discourse directly back to SN 22.47's "
+         "detailed psychological analysis."),
+        ("Māra",
+         "the personification of death and temptation, invoked here "
+         "identically to SN 22.63's formula."),
+        ("saṅkhittena",
+         "&ldquo;in brief&rdquo; &mdash; the mendicant's request, "
+         "unchanged from SN 22.63."),
+        ("arahataṁ ahosi",
+         "&ldquo;became one of the perfected&rdquo; &mdash; the "
+         "identical outcome closing this discourse, as in SN 22.63."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions (feeling, "
+        "perception, and choices, each following the same formula "
+        "spelled out in full for form and consciousness) are given "
+        "exactly as bilara-data preserves them. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.64:1.2-1.6"),
+        ("p", "&sect;2", "sn22.64:2.1-2.3"),
+        ("p", "&sect;3", "sn22.64:2.7-2.9"),
+        ("p", "&sect;4", "sn22.64:3.1-3.5"),
+        ("p", "&sect;5", "sn22.64:3.8-3.11"),
+    ],
+    quiz=[
+        {"q": "What single term does this discourse substitute for SN 22.63's \"grasping\"?",
+         "opts": [
+             "Conceiving (maññamāna)",
+             "Suffering",
+             "Not-self",
+             "Impermanence"],
+         "correct": 0,
+         "expl": "Every other element of the discourse matches SN 22.63 exactly."},
+        {"q": "What earlier discourse's analysis does \"conceiving\" recall?",
+         "opts": [
+             "SN 22.47's detailed analysis of the conceit \"I am\" and its nine variants",
+             "SN 22.22's burden imagery",
+             "SN 22.33's Jeta's Grove simile",
+             "SN 22.56's four-round definitions"],
+         "correct": 0,
+         "expl": "This discourse compresses that analysis into a single formula bound to Māra's dominion."},
+        {"q": "What relationship does this discourse suggest between grasping and conceiving?",
+         "opts": [
+             "Two related but distinct mental acts, each independently sufficient to bind one to Māra",
+             "Identical concepts with no meaningful difference at all",
+             "Grasping causes conceiving in a strict one-directional chain",
+             "Conceiving is explicitly denied to have any relationship to Māra"],
+         "correct": 0,
+         "expl": "Neither discourse claims the other is redundant; both are presented as equally valid formulas."},
+        {"q": "What position does this discourse hold in the vagga's set of eight matched discourses?",
+         "opts": [
+             "The second term, following \"grasping\" in SN 22.63",
+             "The first term, opening the set",
+             "The final term, closing the set",
+             "It does not belong to this matched set"],
+         "correct": 0,
+         "expl": "SN 22.63-70 form a set of eight, each substituting a different central term."},
+        {"q": "What outcome closes this discourse?",
+         "opts": [
+             "The mendicant becomes one of the perfected (an arahant)",
+             "The mendicant returns without attaining anything",
+             "The mendicant abandons monastic practice",
+             "No outcome is mentioned"],
+         "correct": 0,
+         "expl": "Identical to SN 22.63's closing outcome."},
+        {"q": "How does the Buddha respond to the mendicant's explanation?",
+         "opts": [
+             "By repeating the mendicant's own words back as confirmation",
+             "By correcting several errors in the explanation",
+             "By giving an entirely different answer",
+             "By declining to respond"],
+         "correct": 0,
+         "expl": "The same confirmation pattern as SN 22.63."},
+        {"q": "How many aggregates does the formula apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī",
+             "Rājagaha",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "Continuing the same setting as SN 22.63."},
+        {"q": "What does the mendicant request at the discourse's start?",
+         "opts": [
+             "A teaching in brief, so he can go practice alone in solitude",
+             "Permission to travel abroad",
+             "A formal debate with another teacher",
+             "A detailed multi-year course of study"],
+         "correct": 0,
+         "expl": "Identical framing to SN 22.63's opening request."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.65, the identical narrative template with \"taking pleasure\" replacing \"conceiving\"",
+             "A return to SN 22.53",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "The third of eight matched narratives in this vagga."},
+    ],
+    marginalia=[
+        ("One term substituted, everything else unchanged", [
+            "conceiving stands where grasping stood &mdash;",
+            "the same request, formula, and confirmation",
+        ]),
+        ("A term already analyzed in depth", [
+            "SN 22.47's nine self-referential thoughts &mdash;",
+            "compressed here into a single Māra formula",
+        ]),
+        ("Two distinct acts, each sufficient on its own", [
+            "grasping and conceiving, not identical &mdash;",
+            "neither claimed to be redundant with the other",
+        ]),
+        ("The second of eight matched discourses", [
+            "one template, eight substituted terms &mdash;",
+            "six more to follow in this same vagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.64/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.63.html">SN 22.63 &middot; When You '
+        "Grasp</a> &mdash; the previous discourse, the identical "
+        "template with \"grasping\" as its central term.",
+        '<a href="sn-22.65.html">SN 22.65 &middot; When You Take '
+        "Pleasure</a> &mdash; the next discourse, the identical "
+        "template with a new central term.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.65 — Abhinandamānasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 65, "Abhinandamāna", "When You Take Pleasure",
+    vagga="Arahantavagga",
+    meta_title="SN 22.65 — When You Take Pleasure | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Abhinandamānasutta &mdash; SN 22.63-64's Māra formula "
+        "restated a third time with \"taking pleasure\" as its "
+        "central term. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "An unnamed mendicant requests a teaching in "
+                     "brief, then explains it back to the Buddha"),
+        ("Form", "The identical narrative template as SN 22.63-64, "
+                 "with \"taking pleasure\" substituted as the central "
+                 "term"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "identical structure to SN 22.63-64, the "
+                       "third of eight matched discourses"),
+    ],
+    why=(
+        "This discourse continues the vagga's matched set with a "
+        "third substitution: &ldquo;when you take pleasure "
+        "(abhinandamāna), mendicant, you're bound by Māra. Not "
+        "taking pleasure, you're free from the Wicked One.&rdquo; "
+        "&ldquo;Taking pleasure&rdquo; recalls SN 22.29's earlier "
+        "chained equation (taking pleasure in an aggregate is taking "
+        "pleasure in suffering itself) and SN 22.28's universal claim "
+        "about why sentient beings are aroused by the aggregates' "
+        "gratification. Here the same underlying concept is bound "
+        "directly to Māra's dominion, continuing this vagga's "
+        "practice of naming several distinct but related mental acts "
+        "as each independently sufficient grounds for bondage or "
+        "freedom."
+    ),
+    guide=[
+        ("A term already explored from two earlier angles", [
+            "&ldquo;Taking pleasure&rdquo; (abhinandati) is the exact "
+            "verb SN 22.29 used to identify pleasure in an aggregate "
+            "with pleasure in suffering itself, and the same "
+            "underlying concept SN 22.28's universal conditional "
+            "argument invoked to explain why sentient beings are "
+            "aroused by the aggregates at all. This discourse "
+            "compresses both of those earlier treatments into the "
+            "vagga's recurring Māra formula.",
+        ]),
+        ("The identical frame, the third substitution in a row", [
+            "As in SN 22.63 and SN 22.64, every other element of the "
+            "narrative is unchanged: the request for brevity, the "
+            "compact formula, the mendicant's confirmed explanation "
+            "across all five aggregates, and his subsequent "
+            "attainment. Three consecutive discourses have now used "
+            "this exact shell with three different central terms.",
+        ]),
+        ("A cluster of three related mental acts", [
+            "Grasping (SN 22.63), conceiving (SN 22.64), and taking "
+            "pleasure (this discourse) together form a loose cluster "
+            "of related but distinct ways a mendicant might remain "
+            "bound to the aggregates &mdash; through active holding, "
+            "through mental construction, and through affective "
+            "enjoyment respectively. The vagga does not rank them or "
+            "claim one is more fundamental than the others; each is "
+            "presented as its own complete teaching.",
+        ]),
+        ("A shift in register signaled by what comes next", [
+            "This is the last of the vagga's matched discourses to "
+            "use the Māra framing specifically; SN 22.66 immediately "
+            "after it will shift to a simpler formula built directly "
+            "around impermanence, opening a second cluster of four "
+            "discourses (SN 22.66-69) that dispenses with the Māra "
+            "imagery entirely in favor of the more familiar "
+            "vocabulary used throughout most of this book.",
+        ]),
+    ],
+    terms=[
+        ("abhinandamāna",
+         "&ldquo;when you take pleasure&rdquo; &mdash; this "
+         "discourse's title term, the same verb SN 22.29 used to "
+         "identify pleasure in an aggregate with pleasure in "
+         "suffering itself."),
+        ("Māra",
+         "the personification of death and temptation, invoked here "
+         "identically to SN 22.63-64's formula."),
+        ("assāda",
+         "&ldquo;gratification&rdquo; &mdash; the noun form "
+         "connected to this discourse's verb, central to SN 22.26-28's "
+         "earlier gratification/drawback/escape triad."),
+        ("saṅkhittena",
+         "&ldquo;in brief&rdquo; &mdash; the mendicant's request, "
+         "unchanged from SN 22.63-64."),
+        ("arahataṁ ahosi",
+         "&ldquo;became one of the perfected&rdquo; &mdash; the "
+         "identical outcome closing this discourse, as in SN 22.63-64."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions (feeling, "
+        "perception, and choices, each following the same formula "
+        "spelled out in full for form and consciousness) are given "
+        "exactly as bilara-data preserves them. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.65:1.2-1.6"),
+        ("p", "&sect;2", "sn22.65:2.1-2.3"),
+        ("p", "&sect;3", "sn22.65:2.7-2.9"),
+        ("p", "&sect;4", "sn22.65:3.1-3.5"),
+        ("p", "&sect;5", "sn22.65:3.8-3.11"),
+    ],
+    quiz=[
+        {"q": "What single term does this discourse substitute as the vagga's third variation?",
+         "opts": [
+             "Taking pleasure (abhinandamāna)",
+             "Impermanence",
+             "Suffering",
+             "Not belonging to self"],
+         "correct": 0,
+         "expl": "The third of eight terms substituted into the vagga's fixed narrative shell."},
+        {"q": "Which two earlier discourses does \"taking pleasure\" recall?",
+         "opts": [
+             "SN 22.29's chained equation and SN 22.28's universal conditional argument",
+             "SN 22.22's burden imagery and SN 22.33's grove simile",
+             "SN 22.56's four-round definitions and SN 22.57's seven cases",
+             "SN 22.43's \"be your own island\" and SN 22.44's sakkāya framing"],
+         "correct": 0,
+         "expl": "Both concern taking pleasure in the aggregates, now compressed into the vagga's Māra formula."},
+        {"q": "What three related mental acts have now been named across SN 22.63-65?",
+         "opts": [
+             "Grasping, conceiving, and taking pleasure",
+             "Impermanence, suffering, and not-self",
+             "Elements, sense fields, and dependent origination",
+             "Gratification, drawback, and escape"],
+         "correct": 0,
+         "expl": "A cluster of related but distinct ways a mendicant might remain bound, none ranked above the others."},
+        {"q": "What shift does the discourse immediately after this one introduce?",
+         "opts": [
+             "A move away from the Māra framing toward a simpler formula built around impermanence",
+             "A return to narrative dialogue with a named questioner",
+             "An entirely unrelated topic with no connection to the aggregates",
+             "A denial that liberation is achievable through this method"],
+         "correct": 0,
+         "expl": "SN 22.66 opens a second cluster of four discourses using different, more familiar vocabulary."},
+        {"q": "How does the Buddha respond to the mendicant's explanation?",
+         "opts": [
+             "By repeating the mendicant's own words back as confirmation",
+             "By correcting several errors in the explanation",
+             "By giving an entirely different answer",
+             "By declining to respond"],
+         "correct": 0,
+         "expl": "The same confirmation pattern as SN 22.63-64."},
+        {"q": "What outcome closes this discourse?",
+         "opts": [
+             "The mendicant becomes one of the perfected (an arahant)",
+             "The mendicant returns without attaining anything",
+             "The mendicant abandons monastic practice",
+             "No outcome is mentioned"],
+         "correct": 0,
+         "expl": "Identical to SN 22.63-64's closing outcome."},
+        {"q": "How many aggregates does the formula apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī",
+             "Rājagaha",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "Continuing the same setting as SN 22.63-64."},
+        {"q": "What does the mendicant request at the discourse's start?",
+         "opts": [
+             "A teaching in brief, so he can go practice alone in solitude",
+             "Permission to travel abroad",
+             "A formal debate with another teacher",
+             "A detailed multi-year course of study"],
+         "correct": 0,
+         "expl": "Identical framing to SN 22.63-64's opening request."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.66, opening a new cluster built around impermanence rather than the Māra formula",
+             "A return to SN 22.53",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "The last Māra-framed discourse before the vagga's vocabulary shifts."},
+    ],
+    marginalia=[
+        ("The last of the Māra-framed trio", [
+            "grasping, conceiving, taking pleasure &mdash;",
+            "three related acts, none ranked above the others",
+        ]),
+        ("Two earlier treatments, compressed into one formula", [
+            "SN 22.28-29's gratification and pleasure &mdash;",
+            "now bound directly to Māra's dominion",
+        ]),
+        ("A vocabulary shift signaled just ahead", [
+            "the Māra framing ends here &mdash;",
+            "SN 22.66 opens a plainer cluster of four",
+        ]),
+        ("The same shell, a third time over", [
+            "request, formula, confirmation, attainment &mdash;",
+            "identical structure, one more substituted term",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.65/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.64.html">SN 22.64 &middot; Conceiving</a> '
+        "&mdash; the previous discourse, the second of the vagga's "
+        "Māra-framed set.",
+        '<a href="sn-22.66.html">SN 22.66 &middot; Impermanence</a> '
+        "&mdash; the next discourse, opening a new cluster built "
+        "around a simpler formula.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.66 — Aniccasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 66, "Anicca", "Impermanence",
+    vagga="Arahantavagga",
+    meta_title="SN 22.66 — Impermanence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aniccasutta &mdash; the vagga's matched narrative "
+        "template continues with a simpler formula: give up desire "
+        "for whatever is impermanent. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "An unnamed mendicant requests a teaching in "
+                     "brief, then explains it back to the Buddha"),
+        ("Form", "The same narrative template as SN 22.63-65, now "
+                 "built around a simpler \"give up desire for X\" "
+                 "formula rather than the Māra framing"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "opens a new cluster of four discourses within "
+                       "the same overall narrative template"),
+    ],
+    why=(
+        "This discourse keeps the vagga's fixed narrative shell but "
+        "drops the Māra imagery used in SN 22.63-65 for a simpler, "
+        "more direct instruction: &ldquo;give up desire for "
+        "whatever's impermanent.&rdquo; This opens a new cluster of "
+        "four consecutive discourses (SN 22.66-69) that will each "
+        "substitute a different characterization of the aggregates "
+        "&mdash; impermanence here, suffering, not-self, and "
+        "&ldquo;not belonging to self&rdquo; in turn &mdash; into "
+        "this same simplified formula, echoing the three marks "
+        "already explored at length in Aniccavagga but now delivered "
+        "through this vagga's request-and-confirm narrative structure."
+    ),
+    guide=[
+        ("A simpler formula opening a second cluster", [
+            "Where SN 22.63-65 built their formula around Māra's "
+            "dominion, this discourse strips the instruction down to "
+            "its plainest form: give up desire for whatever's "
+            "impermanent. No adversarial figure is named; the "
+            "instruction addresses the aggregates' nature directly.",
+        ]),
+        ("An echo of Aniccavagga's own opening move", [
+            "This formula's content directly recalls SN 22.12's "
+            "opening claim in Aniccavagga &mdash; the aggregates are "
+            "impermanent &mdash; but delivered here through the "
+            "narrative frame of a mendicant's request and confirmed "
+            "explanation, rather than as a direct teaching addressed "
+            "to the assembly. The same doctrinal content is given a "
+            "second, differently structured presentation.",
+        ]),
+        ("The mendicant's own reasoning, stated as a personal resolution", [
+            "In his confirmed explanation, the mendicant states each "
+            "aggregate's impermanence and his own resulting "
+            "resolution in the first person: &ldquo;form is "
+            "impermanent; I should give up desire for it.&rdquo; This "
+            "first-person framing, rather than a third-person "
+            "description of what a learned noble disciple does, gives "
+            "this cluster's discourses a more personally applied "
+            "character than SN 22.12's original third-person "
+            "statement.",
+        ]),
+        ("Opening a quartet that will run through impermanence, suffering, not-self, and one further term", [
+            "This discourse begins a set of four (SN 22.66-69) that "
+            "will substitute impermanence, then suffering, then "
+            "not-self, then &ldquo;not belonging to self&rdquo; "
+            "&mdash; a related but distinct fourth term not "
+            "identical to not-self itself &mdash; each fitted into "
+            "the identical &ldquo;give up desire for X&rdquo; "
+            "formula.",
+        ]),
+    ],
+    terms=[
+        ("anicca",
+         "&ldquo;impermanent&rdquo; &mdash; this discourse's title "
+         "term, opening a new cluster of four within the vagga's "
+         "matched narrative set."),
+        ("chandaṁ pajahatha",
+         "&ldquo;give up desire&rdquo; &mdash; the simplified formula "
+         "replacing SN 22.63-65's Māra framing."),
+        ("pajahitabbo me chando",
+         "&ldquo;I should give up desire for it&rdquo; &mdash; the "
+         "mendicant's first-person resolution, stated for each "
+         "aggregate in turn."),
+        ("saṅkhittena",
+         "&ldquo;in brief&rdquo; &mdash; the mendicant's request, "
+         "unchanged from SN 22.63-65."),
+        ("arahataṁ ahosi",
+         "&ldquo;became one of the perfected&rdquo; &mdash; the "
+         "identical outcome closing this discourse, as in SN 22.63-65."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions (feeling, "
+        "perception, and choices, each following the same formula "
+        "spelled out in full for form and consciousness) are given "
+        "exactly as bilara-data preserves them. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.66:1.2-1.5"),
+        ("p", "&sect;2", "sn22.66:2.1-2.2"),
+        ("p", "&sect;3", "sn22.66:2.6-2.7"),
+        ("p", "&sect;4", "sn22.66:3.1-3.3"),
+        ("p", "&sect;5", "sn22.66:3.7-3.9"),
+    ],
+    quiz=[
+        {"q": "What simplified formula opens this discourse, replacing SN 22.63-65's Māra framing?",
+         "opts": [
+             "\"Give up desire for whatever's impermanent\"",
+             "\"When you grasp, you're bound by Māra\"",
+             "\"When you conceive, you're bound by Māra\"",
+             "An entirely new formula about physical austerity"],
+         "correct": 0,
+         "expl": "No adversarial figure named; the instruction addresses the aggregates' nature directly."},
+        {"q": "What earlier discourse's opening claim does this formula's content recall?",
+         "opts": [
+             "SN 22.12's opening claim in Aniccavagga that the aggregates are impermanent",
+             "SN 22.22's burden imagery",
+             "SN 22.56's four-round definitions",
+             "SN 22.47's analysis of the conceit \"I am\""],
+         "correct": 0,
+         "expl": "The same doctrinal content delivered through a different narrative structure this time."},
+        {"q": "How does the mendicant frame his explanation, distinct from SN 22.12's original wording?",
+         "opts": [
+             "In the first person, as a personal resolution: \"I should give up desire for it\"",
+             "In the third person only, describing what \"a learned noble disciple\" does",
+             "As a question left unanswered",
+             "As a direct quotation from a different discourse"],
+         "correct": 0,
+         "expl": "A more personally applied character than SN 22.12's third-person statement."},
+        {"q": "What quartet of terms does this discourse open, running through SN 22.66-69?",
+         "opts": [
+             "Impermanence, suffering, not-self, and \"not belonging to self\"",
+             "Grasping, conceiving, taking pleasure, and impermanence",
+             "The four rounds from SN 22.56",
+             "The four elements: earth, water, fire, and air"],
+         "correct": 0,
+         "expl": "Each fitted into the identical \"give up desire for X\" formula."},
+        {"q": "How does the Buddha respond to the mendicant's explanation?",
+         "opts": [
+             "By repeating the mendicant's own words back as confirmation",
+             "By correcting several errors in the explanation",
+             "By giving an entirely different answer",
+             "By declining to respond"],
+         "correct": 0,
+         "expl": "The same confirmation pattern as SN 22.63-65."},
+        {"q": "What outcome closes this discourse?",
+         "opts": [
+             "The mendicant becomes one of the perfected (an arahant)",
+             "The mendicant returns without attaining anything",
+             "The mendicant abandons monastic practice",
+             "No outcome is mentioned"],
+         "correct": 0,
+         "expl": "Identical to SN 22.63-65's closing outcome."},
+        {"q": "How many aggregates does the formula apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī",
+             "Rājagaha",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's earlier discourses."},
+        {"q": "What does the mendicant request at the discourse's start?",
+         "opts": [
+             "A teaching in brief, so he can go practice alone in solitude",
+             "Permission to travel abroad",
+             "A formal debate with another teacher",
+             "A detailed multi-year course of study"],
+         "correct": 0,
+         "expl": "Identical framing to SN 22.63-65's opening request."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.67, the identical formula with \"suffering\" replacing \"impermanent\"",
+             "A return to SN 22.53",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "The second term of this quartet."},
+    ],
+    marginalia=[
+        ("A simpler formula, no adversarial figure named", [
+            "give up desire for the impermanent &mdash;",
+            "the Māra framing dropped from this point on",
+        ]),
+        ("Aniccavagga's claim, revisited in narrative form", [
+            "the same content as SN 22.12 &mdash;",
+            "now delivered through request and confirmation",
+        ]),
+        ("A resolution stated in the first person", [
+            "\"I should give up desire\" &mdash;",
+            "more personally applied than the original wording",
+        ]),
+        ("Opening a quartet of four related terms", [
+            "impermanence, suffering, not-self, not belonging &mdash;",
+            "one fixed formula, four substitutions to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.66/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.65.html">SN 22.65 &middot; When You Take '
+        "Pleasure</a> &mdash; the previous discourse, the last of "
+        "the vagga's Māra-framed set.",
+        '<a href="sn-22.67.html">SN 22.67 &middot; Suffering</a> '
+        "&mdash; the next discourse, the identical formula applied "
+        "to suffering.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.67 — Dukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 67, "Dukkha", "Suffering",
+    vagga="Arahantavagga",
+    meta_title="SN 22.67 — Suffering | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dukkhasutta &mdash; SN 22.66's \"give up desire\" "
+        "formula restated with suffering in place of impermanence. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "An unnamed mendicant requests a teaching in "
+                     "brief, then explains it back to the Buddha"),
+        ("Form", "The identical narrative template as SN 22.66, with "
+                 "\"suffering\" substituted for \"impermanent\""),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the second term of this vagga's four-part "
+                       "quartet"),
+    ],
+    why=(
+        "This discourse continues the quartet SN 22.66 opened, "
+        "substituting suffering for impermanence in the identical "
+        "formula: give up desire for whatever's suffering. The "
+        "mendicant's confirmed explanation follows suit &mdash; form "
+        "is suffering, I should give up desire for it &mdash; run "
+        "through each aggregate in turn, closing with the same "
+        "arahantship outcome shared by every discourse in this vagga "
+        "so far."
+    ),
+    guide=[
+        ("The second term of the quartet, everything else unchanged", [
+            "As with every discourse from SN 22.63 onward, only the "
+            "central term changes: suffering (dukkha) now stands "
+            "where impermanence stood in SN 22.66. The request, the "
+            "confirmation pattern, and the closing attainment all "
+            "remain exactly as before.",
+        ]),
+        ("A direct claim, not derived from impermanence", [
+            "As in SN 22.13's earlier direct statement in Aniccavagga, "
+            "this discourse states that the aggregates are suffering "
+            "without first deriving that claim from their "
+            "impermanence &mdash; a direct assertion granted on its "
+            "own terms, matching the pattern of this vagga's quartet "
+            "presenting each mark independently rather than building "
+            "a logical chain between them.",
+        ]),
+        ("The mendicant's resolution stated for suffering specifically", [
+            "The mendicant's confirmed explanation states, for each "
+            "aggregate: it is suffering, and I should give up desire "
+            "for it. This first-person resolution format, established "
+            "in SN 22.66, continues here without variation, giving "
+            "each discourse in the quartet the same personally applied "
+            "character.",
+        ]),
+        ("Two terms down, two remaining", [
+            "With impermanence (SN 22.66) and suffering (this "
+            "discourse) both now given, the quartet has two terms "
+            "remaining: not-self in SN 22.68, and &ldquo;not "
+            "belonging to self&rdquo; in SN 22.69, before the vagga "
+            "moves to its eighth and final matched-template discourse.",
+        ]),
+    ],
+    terms=[
+        ("dukkha",
+         "&ldquo;suffering&rdquo; &mdash; the term substituted for "
+         "anicca (impermanent) in this discourse, the second term of "
+         "the quartet."),
+        ("chandaṁ pajahatha",
+         "&ldquo;give up desire&rdquo; &mdash; the same formula from "
+         "SN 22.66, unchanged in wording."),
+        ("pajahitabbo me chando",
+         "&ldquo;I should give up desire for it&rdquo; &mdash; the "
+         "mendicant's first-person resolution, now applied to "
+         "suffering specifically."),
+        ("saṅkhittena",
+         "&ldquo;in brief&rdquo; &mdash; the mendicant's request, "
+         "unchanged from earlier discourses in this vagga."),
+        ("arahataṁ ahosi",
+         "&ldquo;became one of the perfected&rdquo; &mdash; the "
+         "identical outcome closing this discourse."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions (feeling, "
+        "perception, and choices, each following the same formula "
+        "spelled out in full for form and consciousness) are given "
+        "exactly as bilara-data preserves them. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.67:1.2-1.5"),
+        ("p", "&sect;2", "sn22.67:2.1-2.2"),
+        ("p", "&sect;3", "sn22.67:2.6-2.7"),
+        ("p", "&sect;4", "sn22.67:3.1-3.3"),
+        ("p", "&sect;5", "sn22.67:3.7-3.9"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse substitute for SN 22.66's \"impermanent\"?",
+         "opts": [
+             "Suffering (dukkha)",
+             "Not-self",
+             "Not belonging to self",
+             "Grasping"],
+         "correct": 0,
+         "expl": "The second term of the quartet opened by SN 22.66."},
+        {"q": "Does this discourse derive suffering from impermanence, or state it directly?",
+         "opts": [
+             "States it directly, as a direct assertion granted on its own terms",
+             "Derives it through an extended logical chain",
+             "Denies that the aggregates are suffering at all",
+             "Only applies the claim to consciousness"],
+         "correct": 0,
+         "expl": "Matching the pattern of SN 22.13's earlier direct statement in Aniccavagga."},
+        {"q": "How does the mendicant's resolution read for this discourse?",
+         "opts": [
+             "\"It is suffering, and I should give up desire for it\"",
+             "\"It is impermanent, and I should observe it directly\"",
+             "\"It is not-self, and I should reject it entirely\"",
+             "The discourse gives no resolution at all"],
+         "correct": 0,
+         "expl": "The same first-person resolution format established in SN 22.66."},
+        {"q": "What two terms remain in the quartet after this discourse?",
+         "opts": [
+             "Not-self (SN 22.68) and \"not belonging to self\" (SN 22.69)",
+             "Grasping and conceiving",
+             "Elements and sense fields",
+             "No further terms remain; this discourse closes the quartet"],
+         "correct": 0,
+         "expl": "Completing the set of four before the vagga's eighth matched discourse."},
+        {"q": "How does the Buddha respond to the mendicant's explanation?",
+         "opts": [
+             "By repeating the mendicant's own words back as confirmation",
+             "By correcting several errors in the explanation",
+             "By giving an entirely different answer",
+             "By declining to respond"],
+         "correct": 0,
+         "expl": "The same confirmation pattern used throughout this vagga."},
+        {"q": "What outcome closes this discourse?",
+         "opts": [
+             "The mendicant becomes one of the perfected (an arahant)",
+             "The mendicant returns without attaining anything",
+             "The mendicant abandons monastic practice",
+             "No outcome is mentioned"],
+         "correct": 0,
+         "expl": "Identical to every other discourse in this matched set."},
+        {"q": "How many aggregates does the formula apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī",
+             "Rājagaha",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's earlier discourses."},
+        {"q": "What does the mendicant request at the discourse's start?",
+         "opts": [
+             "A teaching in brief, so he can go practice alone in solitude",
+             "Permission to travel abroad",
+             "A formal debate with another teacher",
+             "A detailed multi-year course of study"],
+         "correct": 0,
+         "expl": "Identical framing to earlier discourses in this vagga."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.68, the identical formula applied to not-self",
+             "A return to SN 22.53",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "The third term of the quartet."},
+    ],
+    marginalia=[
+        ("The quartet's second term", [
+            "suffering stands where impermanence stood &mdash;",
+            "everything else in the narrative unchanged",
+        ]),
+        ("A direct claim, not a derived one", [
+            "granted on its own terms &mdash;",
+            "matching SN 22.13's earlier direct statement",
+        ]),
+        ("The same first-person resolution format", [
+            "\"I should give up desire\" &mdash;",
+            "unchanged from SN 22.66",
+        ]),
+        ("Halfway through the quartet", [
+            "impermanence and suffering given &mdash;",
+            "not-self and not-belonging remain",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.67/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.66.html">SN 22.66 &middot; Impermanence</a> '
+        "&mdash; the previous discourse, the quartet's first term.",
+        '<a href="sn-22.68.html">SN 22.68 &middot; Not-Self</a> '
+        "&mdash; the next discourse, the identical formula applied "
+        "to not-self.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.68 — Anattasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 68, "Anatta", "Not-Self",
+    vagga="Arahantavagga",
+    meta_title="SN 22.68 — Not-Self | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anattasutta &mdash; the quartet's third term, restating "
+        "\"give up desire\" for whatever is not-self. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "An unnamed mendicant requests a teaching in "
+                     "brief, then explains it back to the Buddha"),
+        ("Form", "The identical narrative template as SN 22.66-67, "
+                 "with \"not-self\" substituted as the central term"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the third term of this vagga's four-part "
+                       "quartet"),
+    ],
+    why=(
+        "This discourse completes the traditional three marks within "
+        "the quartet SN 22.66 opened: give up desire for whatever is "
+        "not-self. With impermanence, suffering, and now not-self all "
+        "given the identical treatment &mdash; a direct claim, "
+        "followed by the mendicant's first-person resolution to give "
+        "up desire &mdash; this discourse closes the loop on the "
+        "standard tilakkhaṇa before SN 22.69 adds one further, related "
+        "term not part of the traditional three."
+    ),
+    guide=[
+        ("The third mark, given the same treatment as the first two", [
+            "As with impermanence and suffering before it, not-self "
+            "is stated here as a direct, unqualified claim: form is "
+            "not-self. No argument connects it back to the previous "
+            "two marks within this discourse itself &mdash; each "
+            "discourse in the quartet presents its term "
+            "independently, exactly as SN 22.12-14's original direct-"
+            "statement triplet did in Aniccavagga.",
+        ]),
+        ("Completing the traditional three marks within this vagga's narrative frame", [
+            "With this discourse, the quartet has now delivered "
+            "impermanence, suffering, and not-self &mdash; the full "
+            "traditional tilakkhaṇa &mdash; each through the "
+            "identical request-and-confirm narrative structure this "
+            "vagga uses throughout. The three marks, previously "
+            "explored at length as direct teachings in Aniccavagga, "
+            "now also exist in this narrative-embedded form.",
+        ]),
+        ("A resolution stated identically for the third time", [
+            "The mendicant's confirmed explanation again takes the "
+            "same first-person shape: form is not-self, and I should "
+            "give up desire for it. The consistency of this phrasing "
+            "across all three discourses in the quartet so far "
+            "emphasizes that the underlying practice &mdash; giving "
+            "up desire &mdash; remains constant regardless of which "
+            "mark motivates it.",
+        ]),
+        ("One term remaining before the quartet closes", [
+            "SN 22.69 will complete the quartet with a fourth, related "
+            "but distinct term &mdash; &ldquo;not belonging to "
+            "self&rdquo; (anattaniya) &mdash; before the vagga moves "
+            "to its eighth and final matched-template discourse in SN "
+            "22.70.",
+        ]),
+    ],
+    terms=[
+        ("anattā",
+         "&ldquo;not-self&rdquo; &mdash; the term substituted here, "
+         "completing the traditional three marks within this vagga's "
+         "quartet."),
+        ("chandaṁ pajahatha",
+         "&ldquo;give up desire&rdquo; &mdash; the same formula from "
+         "SN 22.66-67, unchanged in wording."),
+        ("pajahitabbo me chando",
+         "&ldquo;I should give up desire for it&rdquo; &mdash; the "
+         "mendicant's first-person resolution, now applied to "
+         "not-self."),
+        ("tilakkhaṇa",
+         "the &ldquo;three marks&rdquo; &mdash; impermanence, "
+         "suffering, and not-self, now completed within this quartet's "
+         "narrative form."),
+        ("arahataṁ ahosi",
+         "&ldquo;became one of the perfected&rdquo; &mdash; the "
+         "identical outcome closing this discourse."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions (feeling, "
+        "perception, and choices, each following the same formula "
+        "spelled out in full for form and consciousness) are given "
+        "exactly as bilara-data preserves them. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.68:1.2-1.5"),
+        ("p", "&sect;2", "sn22.68:2.1-2.2"),
+        ("p", "&sect;3", "sn22.68:2.6-2.7"),
+        ("p", "&sect;4", "sn22.68:3.1-3.3"),
+        ("p", "&sect;5", "sn22.68:3.7-3.9"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse substitute, completing the traditional three marks?",
+         "opts": [
+             "Not-self (anattā)",
+             "\"Not belonging to self\"",
+             "Grasping",
+             "Conceiving"],
+         "correct": 0,
+         "expl": "Impermanence, suffering, and now not-self — the full tilakkhaṇa within this quartet."},
+        {"q": "Does this discourse argue for not-self from impermanence and suffering, or state it directly?",
+         "opts": [
+             "States it directly, as an independent claim, matching SN 22.12-14's original direct-statement pattern",
+             "Derives it through an extended logical chain within this discourse",
+             "Denies that the aggregates are not-self",
+             "Only applies the claim to form, not the other aggregates"],
+         "correct": 0,
+         "expl": "Each discourse in the quartet presents its term independently."},
+        {"q": "What does completing the three marks within this vagga's narrative frame accomplish?",
+         "opts": [
+             "The three marks, previously explored as direct teachings in Aniccavagga, now also exist in narrative-embedded form",
+             "It contradicts everything taught in Aniccavagga",
+             "It replaces Aniccavagga's teaching entirely",
+             "It has no relationship to Aniccavagga's material"],
+         "correct": 0,
+         "expl": "The same doctrinal content given a second, differently structured presentation."},
+        {"q": "How does the mendicant's resolution read in this discourse?",
+         "opts": [
+             "\"It is not-self, and I should give up desire for it\"",
+             "\"It is impermanent, and I should observe it directly\"",
+             "\"It is suffering, and I should reject it entirely\"",
+             "The discourse gives no resolution at all"],
+         "correct": 0,
+         "expl": "The same first-person resolution format continued from SN 22.66-67."},
+        {"q": "What term remains for SN 22.69 to complete the quartet?",
+         "opts": [
+             "\"Not belonging to self\" (anattaniya), a related but distinct fourth term",
+             "A repeat of impermanence",
+             "Grasping, repeating SN 22.63",
+             "No further term remains; this discourse closes the quartet"],
+         "correct": 0,
+         "expl": "A fourth term not part of the traditional three marks."},
+        {"q": "How does the Buddha respond to the mendicant's explanation?",
+         "opts": [
+             "By repeating the mendicant's own words back as confirmation",
+             "By correcting several errors in the explanation",
+             "By giving an entirely different answer",
+             "By declining to respond"],
+         "correct": 0,
+         "expl": "The same confirmation pattern used throughout this vagga."},
+        {"q": "What outcome closes this discourse?",
+         "opts": [
+             "The mendicant becomes one of the perfected (an arahant)",
+             "The mendicant returns without attaining anything",
+             "The mendicant abandons monastic practice",
+             "No outcome is mentioned"],
+         "correct": 0,
+         "expl": "Identical to every other discourse in this matched set."},
+        {"q": "How many aggregates does the formula apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī",
+             "Rājagaha",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's earlier discourses."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.69, the identical formula applied to \"not belonging to self\"",
+             "A return to SN 22.53",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "The fourth and final term of the quartet."},
+    ],
+    marginalia=[
+        ("The three marks completed within this quartet", [
+            "impermanence, suffering, now not-self &mdash;",
+            "the full tilakkhaṇa in narrative form",
+        ]),
+        ("A direct claim, unargued as always in this quartet", [
+            "each term stands on its own &mdash;",
+            "matching SN 22.12-14's original pattern",
+        ]),
+        ("The same resolution, a third time over", [
+            "\"I should give up desire\" &mdash;",
+            "the practice constant regardless of the mark",
+        ]),
+        ("One term remaining before the quartet closes", [
+            "not belonging to self, next &mdash;",
+            "a fourth term beyond the traditional three",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.68/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.67.html">SN 22.67 &middot; Suffering</a> '
+        "&mdash; the previous discourse, the quartet's second term.",
+        '<a href="sn-22.69.html">SN 22.69 &middot; Not Belonging to '
+        "Self</a> &mdash; the next discourse, the quartet's fourth "
+        "and final term.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.69 — Anattaniyasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 69, "Anattaniya", "Not Belonging to Self",
+    vagga="Arahantavagga",
+    meta_title="SN 22.69 — Not Belonging to Self | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anattaniyasutta &mdash; the quartet's fourth and final "
+        "term, a variant of not-self naming what does not belong to "
+        "a self rather than what is not a self. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "An unnamed mendicant requests a teaching in "
+                     "brief, then explains it back to the Buddha"),
+        ("Form", "The identical narrative template as SN 22.66-68, "
+                 "with \"not belonging to self\" as the fourth and "
+                 "final substituted term"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes the quartet with a subtle variant term "
+                       "worth distinguishing carefully from SN 22.68's "
+                       "not-self"),
+    ],
+    why=(
+        "This discourse closes the quartet SN 22.66 opened with a "
+        "term related to, but distinct from, SN 22.68's not-self: "
+        "anattaniya, &ldquo;not belonging to self,&rdquo; rather than "
+        "anattā, &ldquo;not-self&rdquo; outright. The difference is "
+        "subtle but real &mdash; anattā denies that an aggregate is a "
+        "self, while anattaniya denies that it belongs to, or is the "
+        "possession of, a self. Both claims deny a person's ownership "
+        "of the aggregates, but from two slightly different angles: "
+        "one denying identity, the other denying possession. This "
+        "discourse closes the vagga's quartet, and with it, all "
+        "eight consecutive matched-template discourses that opened "
+        "Arahantavagga."
+    ),
+    guide=[
+        ("A subtle fourth variant, not a repeat of the third", [
+            "Where SN 22.68 claimed each aggregate is not-self "
+            "(anattā), this discourse claims each aggregate "
+            "&ldquo;doesn't belong to self&rdquo; (anattaniya) "
+            "&mdash; a related but genuinely distinct claim. Anattā "
+            "denies that the aggregate is identical with or "
+            "constitutes a self; anattaniya denies that the aggregate "
+            "is something a self possesses or owns.",
+        ]),
+        ("Two ways of denying ownership of the aggregates", [
+            "Together, SN 22.68 and this discourse cover two related "
+            "angles on the same underlying concern: whether an "
+            "aggregate could be identical with a self, and whether it "
+            "could belong to one. Both angles were already present, "
+            "compressed together, in the fourfold self-identification "
+            "formula from SN 22.7 (self as X, self as having X, X in "
+            "self, self in X) &mdash; this quartet's separate "
+            "treatment of not-self and not-belonging-to-self draws out "
+            "two of those four configurations as independent, "
+            "stand-alone teachings.",
+        ]),
+        ("The same resolution format, closing out the quartet", [
+            "As in the three discourses before it, the mendicant's "
+            "confirmed explanation follows the identical first-person "
+            "pattern: form doesn't belong to self, and I should give "
+            "up desire for it. With this discourse, the quartet's "
+            "consistent structure &mdash; one fixed formula, four "
+            "substituted terms &mdash; reaches its close.",
+        ]),
+        ("The final discourse before this vagga's shift to a fresh Māra term", [
+            "With this discourse, the vagga has now run through seven "
+            "consecutive matched-template discourses across two "
+            "clusters &mdash; three Māra-framed (SN 22.63-65) and four "
+            "built around the marks (SN 22.66-69). SN 22.70 will close "
+            "out the entire eight-discourse matched set with one final "
+            "term, &ldquo;shaped by arousal,&rdquo; before the vagga's "
+            "closing pair introduces named individual disciples for "
+            "the first time.",
+        ]),
+    ],
+    terms=[
+        ("anattaniya",
+         "&ldquo;not belonging to self&rdquo; &mdash; this "
+         "discourse's title term, distinct from anattā (not-self) "
+         "itself, denying possession rather than identity."),
+        ("anattā",
+         "&ldquo;not-self&rdquo; &mdash; SN 22.68's term, denying "
+         "that an aggregate is identical with or constitutes a self."),
+        ("chandaṁ pajahatha",
+         "&ldquo;give up desire&rdquo; &mdash; the same formula from "
+         "SN 22.66-68, unchanged in wording."),
+        ("pajahitabbo me chando",
+         "&ldquo;I should give up desire for it&rdquo; &mdash; the "
+         "mendicant's first-person resolution, closing the quartet."),
+        ("arahataṁ ahosi",
+         "&ldquo;became one of the perfected&rdquo; &mdash; the "
+         "identical outcome closing this discourse."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions (feeling, "
+        "perception, and choices, each following the same formula "
+        "spelled out in full for form and consciousness) are given "
+        "exactly as bilara-data preserves them. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.69:1.2-1.5"),
+        ("p", "&sect;2", "sn22.69:2.1-2.2"),
+        ("p", "&sect;3", "sn22.69:2.6-2.7"),
+        ("p", "&sect;4", "sn22.69:3.1-3.3"),
+        ("p", "&sect;5", "sn22.69:3.7-3.9"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse substitute, closing the quartet?",
+         "opts": [
+             "\"Not belonging to self\" (anattaniya)",
+             "\"Not-self\" (anattā), identical to SN 22.68",
+             "Grasping, repeating SN 22.63",
+             "Conceiving, repeating SN 22.64"],
+         "correct": 0,
+         "expl": "A related but genuinely distinct fourth term, not a repeat of SN 22.68's not-self."},
+        {"q": "What is the difference between anattā and anattaniya, according to this reading guide?",
+         "opts": [
+             "Anattā denies identity with a self; anattaniya denies belonging to or being possessed by a self",
+             "The two terms are entirely identical with no meaningful difference",
+             "Anattā applies only to form; anattaniya applies only to consciousness",
+             "Anattaniya is a later scribal addition not present in the earliest texts"],
+         "correct": 0,
+         "expl": "Two related but distinct denials, from slightly different angles."},
+        {"q": "What earlier formula already contained both angles this quartet's third and fourth terms draw out?",
+         "opts": [
+             "SN 22.7's fourfold self-identification formula (self as X, self having X, X in self, self in X)",
+             "SN 22.56's four-round definitions",
+             "SN 22.22's burden imagery",
+             "SN 22.48's elevenfold scope formula"],
+         "correct": 0,
+         "expl": "This quartet draws out two of those four configurations as independent, stand-alone teachings."},
+        {"q": "How does the mendicant's resolution read in this discourse?",
+         "opts": [
+             "\"It doesn't belong to self, and I should give up desire for it\"",
+             "\"It is not-self, and I should observe it directly\"",
+             "\"It is impermanent, and I should reject it entirely\"",
+             "The discourse gives no resolution at all"],
+         "correct": 0,
+         "expl": "The same first-person resolution format used throughout the quartet."},
+        {"q": "How many consecutive matched-template discourses has this vagga now run through, including this one?",
+         "opts": [
+             "Seven, across two clusters (three Māra-framed, four built around the marks)",
+             "Only this single discourse",
+             "All ten discourses in the vagga",
+             "Three discourses only"],
+         "correct": 0,
+         "expl": "SN 22.63-65 (Māra-framed) plus SN 22.66-69 (marks-based), with SN 22.70 still to come."},
+        {"q": "What discourse will close out the entire eight-discourse matched set?",
+         "opts": [
+             "SN 22.70, with \"shaped by arousal\" as its central term",
+             "SN 22.71, with a named individual disciple",
+             "This discourse is itself the final one in the set",
+             "SN 22.63, looping back to the beginning"],
+         "correct": 0,
+         "expl": "SN 22.71-72 will then introduce named disciples for the first time in this vagga."},
+        {"q": "How does the Buddha respond to the mendicant's explanation?",
+         "opts": [
+             "By repeating the mendicant's own words back as confirmation",
+             "By correcting several errors in the explanation",
+             "By giving an entirely different answer",
+             "By declining to respond"],
+         "correct": 0,
+         "expl": "The same confirmation pattern used throughout this vagga."},
+        {"q": "How many aggregates does the formula apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī",
+             "Rājagaha",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's earlier discourses."},
+        {"q": "What outcome closes this discourse?",
+         "opts": [
+             "The mendicant becomes one of the perfected (an arahant)",
+             "The mendicant returns without attaining anything",
+             "The mendicant abandons monastic practice",
+             "No outcome is mentioned"],
+         "correct": 0,
+         "expl": "Identical to every other discourse in this matched set."},
+    ],
+    marginalia=[
+        ("A subtle fourth angle, not a repeat of the third", [
+            "not belonging to self, distinct from not-self &mdash;",
+            "denying possession, not merely identity",
+        ]),
+        ("Two configurations drawn from one older formula", [
+            "SN 22.7's fourfold identity-view formula &mdash;",
+            "here separated into independent teachings",
+        ]),
+        ("The quartet's consistent structure, now complete", [
+            "one formula, four substituted terms &mdash;",
+            "impermanence, suffering, not-self, not-belonging",
+        ]),
+        ("One matched discourse remaining before named disciples appear", [
+            "SN 22.70 closes the set of eight &mdash;",
+            "SN 22.71-72 will shift to Rādha and Surādha",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.69/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.68.html">SN 22.68 &middot; Not-Self</a> '
+        "&mdash; the previous discourse, the quartet's third term.",
+        '<a href="sn-22.70.html">SN 22.70 &middot; Definitely '
+        "Arousing</a> &mdash; the next discourse, closing the entire "
+        "eight-discourse matched set.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.70 — Rajanīyasaṇṭhitasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 70, "Rajanīyasaṇṭhita", "Definitely Arousing",
+    vagga="Arahantavagga",
+    meta_title="SN 22.70 — Definitely Arousing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Rajanīyasaṇṭhitasutta &mdash; the eighth and final term "
+        "of the vagga's matched narrative set, naming the aggregates "
+        "as \"shaped by arousal.\" From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "An unnamed mendicant requests a teaching in "
+                     "brief, then explains it back to the Buddha"),
+        ("Form", "The identical narrative template as SN 22.63-69, "
+                 "with \"shaped by arousal\" as the eighth and final "
+                 "substituted term"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes an eight-discourse matched set with a "
+                       "term whose translation is itself worth "
+                       "unpacking"),
+    ],
+    why=(
+        "This discourse closes the eight-discourse matched set that "
+        "has run continuously since SN 22.63, with a final term whose "
+        "Pali is more precise than its English rendering suggests: "
+        "rajanīyasaṇṭhita, literally &ldquo;established as "
+        "arousing&rdquo; or &ldquo;settled in what incites "
+        "passion&rdquo; &mdash; rendered here as &ldquo;shaped by "
+        "arousal.&rdquo; Give up desire for whatever is "
+        "rajanīyasaṇṭhita, the Buddha instructs, closing out the "
+        "longest single run of identically structured discourses "
+        "found anywhere in Khandhavagga so far."
+    ),
+    guide=[
+        ("A term whose Pali repays a closer look", [
+            "&ldquo;Shaped by arousal&rdquo; translates rajanīyasaṇṭhita, "
+            "a compound joining rajanīya (that which is enticing, or "
+            "capable of arousing passion) with saṇṭhita (established, "
+            "settled, situated). The aggregates are not merely "
+            "described as arousing in some passing sense; they are "
+            "characterized as settled into, constituted by, that "
+            "arousing quality.",
+        ]),
+        ("A term connecting back to SN 22.60's earlier discussion", [
+            "This characterization recalls SN 22.60's argument "
+            "against Pūraṇa Kassapa's fatalism, where the Buddha "
+            "argued that the aggregates' genuine pleasurable, arousing "
+            "quality is precisely what explains why sentient beings "
+            "become caught up in them. This discourse's brief formula "
+            "compresses that fuller argument into a single "
+            "descriptive term and a direct instruction to give up "
+            "desire for it.",
+        ]),
+        ("The eighth and final term, closing the longest matched set in the book", [
+            "With this discourse, the vagga has now completed eight "
+            "consecutive discourses (SN 22.63-70) sharing the "
+            "identical request-and-confirm narrative template, each "
+            "substituting one term: grasping, conceiving, taking "
+            "pleasure, impermanence, suffering, not-self, not "
+            "belonging to self, and now shaped by arousal. This is "
+            "the longest unbroken run of a single narrative shell "
+            "found anywhere in Khandhavagga to this point.",
+        ]),
+        ("A shift to named individuals in the discourses that follow", [
+            "After eight discourses featuring an unnamed mendicant, "
+            "SN 22.71 and SN 22.72 will close the vagga with named "
+            "individual disciples &mdash; Rādha and Surādha &mdash; "
+            "whose questions and answers depart from this fixed "
+            "template's exact wording, even while pursuing closely "
+            "related concerns.",
+        ]),
+    ],
+    terms=[
+        ("rajanīyasaṇṭhita",
+         "&ldquo;shaped by arousal&rdquo; &mdash; literally "
+         "&ldquo;established as arousing,&rdquo; this discourse's "
+         "title term and the eighth and final substitution in the "
+         "vagga's matched set."),
+        ("rajanīya",
+         "&ldquo;that which is enticing, capable of arousing "
+         "passion&rdquo; &mdash; the first half of this discourse's "
+         "compound title term."),
+        ("saṇṭhita",
+         "&ldquo;established, settled, situated&rdquo; &mdash; the "
+         "second half, describing the aggregates as constituted by, "
+         "not merely passingly touched by, this arousing quality."),
+        ("chandaṁ pajahatha",
+         "&ldquo;give up desire&rdquo; &mdash; the same formula from "
+         "SN 22.66-69, closing this final term into the same "
+         "instruction."),
+        ("arahataṁ ahosi",
+         "&ldquo;became one of the perfected&rdquo; &mdash; the "
+         "identical outcome closing this discourse, and the whole "
+         "eight-discourse matched set."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions (feeling, "
+        "perception, and choices, each following the same formula "
+        "spelled out in full for form and consciousness) are given "
+        "exactly as bilara-data preserves them. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.70:1.2-1.5"),
+        ("p", "&sect;2", "sn22.70:2.1-2.2"),
+        ("p", "&sect;3", "sn22.70:2.6-2.7"),
+        ("p", "&sect;4", "sn22.70:3.1-3.3"),
+        ("p", "&sect;5", "sn22.70:3.7-3.9"),
+    ],
+    quiz=[
+        {"q": "What does the Pali term rajanīyasaṇṭhita literally mean?",
+         "opts": [
+             "\"Established as arousing\" or \"settled in what incites passion\"",
+             "\"Bound by Māra\"",
+             "\"Not belonging to self\"",
+             "\"Free from all conditions\""],
+         "correct": 0,
+         "expl": "The aggregates are characterized as constituted by, not merely touched by, an arousing quality."},
+        {"q": "What earlier discourse's argument does this term recall?",
+         "opts": [
+             "SN 22.60's argument against Pūraṇa Kassapa's fatalism",
+             "SN 22.22's burden imagery",
+             "SN 22.56's four-round definitions",
+             "SN 22.47's analysis of the conceit \"I am\""],
+         "correct": 0,
+         "expl": "The aggregates' genuine arousing quality is what explains why sentient beings become caught up in them."},
+        {"q": "How many consecutive discourses has this vagga now run through sharing the identical narrative template?",
+         "opts": [
+             "Eight, from SN 22.63 through this discourse",
+             "Only this single discourse",
+             "All ten discourses in the vagga",
+             "Three discourses only"],
+         "correct": 0,
+         "expl": "The longest unbroken run of a single narrative shell found anywhere in Khandhavagga to this point."},
+        {"q": "What eight terms have been substituted across SN 22.63-70?",
+         "opts": [
+             "Grasping, conceiving, taking pleasure, impermanence, suffering, not-self, not belonging to self, and shaped by arousal",
+             "The four rounds and the three ways of examining",
+             "The five aggregates named individually",
+             "Eight different named disciples' questions"],
+         "correct": 0,
+         "expl": "A complete list of the vagga's matched set of substituted terms."},
+        {"q": "What shift does the discourse immediately after this one introduce?",
+         "opts": [
+             "Named individual disciples — Rādha and Surādha — replacing the unnamed mendicant",
+             "A return to the Māra framing from earlier in the vagga",
+             "A shift to an entirely different saṃyutta",
+             "A repeat of this exact discourse with no changes"],
+         "correct": 0,
+         "expl": "SN 22.71-72 close the vagga with a different structure entirely."},
+        {"q": "How does the Buddha respond to the mendicant's explanation?",
+         "opts": [
+             "By repeating the mendicant's own words back as confirmation",
+             "By correcting several errors in the explanation",
+             "By giving an entirely different answer",
+             "By declining to respond"],
+         "correct": 0,
+         "expl": "The same confirmation pattern used throughout this vagga's matched set."},
+        {"q": "What outcome closes this discourse?",
+         "opts": [
+             "The mendicant becomes one of the perfected (an arahant)",
+             "The mendicant returns without attaining anything",
+             "The mendicant abandons monastic practice",
+             "No outcome is mentioned"],
+         "correct": 0,
+         "expl": "Identical to every other discourse in this matched set."},
+        {"q": "How many aggregates does the formula apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī",
+             "Rājagaha",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's earlier discourses."},
+        {"q": "What does the mendicant request at the discourse's start?",
+         "opts": [
+             "A teaching in brief, so he can go practice alone in solitude",
+             "Permission to travel abroad",
+             "A formal debate with another teacher",
+             "A detailed multi-year course of study"],
+         "correct": 0,
+         "expl": "Identical framing to every discourse in this matched set."},
+    ],
+    marginalia=[
+        ("A compound term worth unpacking closely", [
+            "established as arousing, not merely touched by it &mdash;",
+            "rajanīya plus saṇṭhita",
+        ]),
+        ("An earlier argument compressed into one term", [
+            "SN 22.60's case against fatalism &mdash;",
+            "now folded into a single brief formula",
+        ]),
+        ("The longest matched run in the book so far", [
+            "eight discourses, one fixed shell &mdash;",
+            "closing here before named disciples appear",
+        ]),
+        ("Rādha and Surādha, waiting just ahead", [
+            "the unnamed mendicant's run ends here &mdash;",
+            "two named individuals close the vagga instead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.70/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.69.html">SN 22.69 &middot; Not Belonging to '
+        "Self</a> &mdash; the previous discourse, the quartet's "
+        "fourth and final term.",
+        '<a href="sn-22.71.html">SN 22.71 &middot; With Rādha</a> '
+        "&mdash; the next discourse, closing the vagga with a named "
+        "individual disciple for the first time.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.71 — Rādhasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 71, "Rādha", "With Rādha",
+    vagga="Arahantavagga",
+    meta_title="SN 22.71 — With Rādha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Rādhasutta &mdash; Venerable Rādha asks how to end "
+        "I-making and mine-making, answered with the elevenfold scope "
+        "formula and the negated \"not mine\" formula. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha questions the Buddha directly"),
+        ("Form", "A named disciple's direct question, answered with "
+                 "the combined elevenfold-scope and negated-formula "
+                 "teaching already established earlier in the book"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "introduces a named disciple whose own "
+                       "saṃyutta follows immediately after this book"),
+    ],
+    why=(
+        "This discourse breaks from the eight-discourse matched "
+        "template that has run since SN 22.63, introducing a named "
+        "individual disciple for the first time in this vagga: "
+        "Venerable Rādha, whose question is more precisely and "
+        "technically phrased than the unnamed mendicant's recurring "
+        "&ldquo;teach me in brief&rdquo; request. Rādha asks "
+        "specifically how one knows and sees so that there is no "
+        "&ldquo;I-making, mine-making, or underlying tendency to "
+        "conceit&rdquo; regarding &ldquo;this conscious body and "
+        "externally for all signs.&rdquo; This discourse also matters "
+        "structurally: Rādha is significant enough a figure that the "
+        "next full saṃyutta in this collection, SN 23, is built "
+        "entirely around him."
+    ),
+    guide=[
+        ("A more technical question than the recurring \"teach me in brief\"", [
+            "Unlike the eight preceding discourses' identical opening "
+            "request, Rādha's question is specific and technically "
+            "precise from the outset: how does one know and see so "
+            "that there is no ahaṅkāra (I-making), mamaṅkāra "
+            "(mine-making), or underlying tendency to conceit "
+            "(mānānusaya) for &ldquo;this conscious body&rdquo; "
+            "(saviññāṇaka kāya) and externally for all signs "
+            "(nimitta)? This vocabulary of I-making and mine-making "
+            "recurs in a small number of discourses across the "
+            "canon associated specifically with Rādha as questioner.",
+        ]),
+        ("An answer combining two already-established formulas", [
+            "The Buddha's answer joins two teachings already given "
+            "separately elsewhere in this book: SN 22.48's elevenfold "
+            "scope (past, future, or present; internal or external; "
+            "solid or subtle; inferior or superior; far or near, "
+            "covering &ldquo;all&rdquo; of an aggregate) and the "
+            "negated three-clause formula from SN 22.8 and SN 22.15 "
+            "(&ldquo;this is not mine, I am not this, this is not my "
+            "self&rdquo;). Combined, they answer Rādha's precise "
+            "question with an equally precise instruction.",
+        ]),
+        ("A questioner who will anchor an entire saṃyutta of his own", [
+            "Rādha's significance extends beyond this single "
+            "discourse: SN 23, the saṃyutta immediately following the "
+            "completion of Khandhavagga's own coverage, is titled "
+            "Rādhasaṃyutta and built entirely around him as the "
+            "recurring questioner across its own set of discourses. "
+            "This discourse, appearing here within Khandhavagga, is "
+            "an early appearance of a figure who will receive far "
+            "more sustained attention later in the collection.",
+        ]),
+        ("The vagga's penultimate discourse, setting up its final pair", [
+            "SN 22.72 immediately after this discourse will feature a "
+            "second, related individual &mdash; Venerable Surādha "
+            "&mdash; whose question pushes the same concern further, "
+            "closing Arahantavagga with a pair of named-disciple "
+            "discourses after eight discourses built around an "
+            "unnamed mendicant.",
+        ]),
+    ],
+    terms=[
+        ("ahaṅkāra",
+         "&ldquo;I-making&rdquo; &mdash; the first of three "
+         "conditions Rādha asks how to end, part of this discourse's "
+         "distinctive technical vocabulary."),
+        ("mamaṅkāra",
+         "&ldquo;mine-making&rdquo; &mdash; the second condition, "
+         "paired with I-making throughout this discourse."),
+        ("mānānusaya",
+         "&ldquo;underlying tendency to conceit&rdquo; &mdash; the "
+         "third condition, connecting back to SN 22.35-36's earlier "
+         "use of anusaya (underlying tendency)."),
+        ("saviññāṇaka kāya",
+         "&ldquo;this conscious body&rdquo; &mdash; the specific "
+         "object of Rādha's concern, alongside &ldquo;all external "
+         "signs&rdquo; (nimitta)."),
+        ("n'etaṁ mama, nesohamasmi, na meso attā",
+         "&ldquo;this is not mine, I am not this, this is not my "
+         "self&rdquo; &mdash; the negated formula from SN 22.8 and "
+         "SN 22.15, combined here with the elevenfold scope formula."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions (feeling, "
+        "perception, and choices, each following the same pattern "
+        "spelled out in full for form and consciousness) are given "
+        "exactly as bilara-data preserves them. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.71:1.1-1.4"),
+        ("p", "&sect;2", "sn22.71:1.8-1.10"),
+    ],
+    quiz=[
+        {"q": "What does Rādha's question depart from, compared to the eight discourses before this one?",
+         "opts": [
+             "It is specific and technically precise from the outset, rather than the recurring \"teach me in brief\" request",
+             "It is identical in every wording to the preceding eight discourses",
+             "It concerns an entirely different topic unrelated to the aggregates",
+             "It is asked by an unnamed mendicant, as in the previous discourses"],
+         "correct": 0,
+         "expl": "Rādha asks specifically about I-making, mine-making, and underlying tendency to conceit."},
+        {"q": "What three conditions does Rādha ask how to end?",
+         "opts": [
+             "I-making, mine-making, and underlying tendency to conceit",
+             "Grasping, conceiving, and taking pleasure",
+             "Impermanence, suffering, and not-self",
+             "Elements, sense fields, and dependent origination"],
+         "correct": 0,
+         "expl": "Ahaṅkāra, mamaṅkāra, and mānānusaya — distinctive vocabulary for this discourse."},
+        {"q": "What two established formulas does the Buddha's answer combine?",
+         "opts": [
+             "SN 22.48's elevenfold scope and the negated \"not mine\" formula from SN 22.8/22.15",
+             "SN 22.56's four rounds and SN 22.57's seven cases",
+             "The Māra formula from SN 22.63 and the impermanence formula from SN 22.66",
+             "SN 22.60's argument against fatalism and SN 22.62's tenses"],
+         "correct": 0,
+         "expl": "A precise, technical combination answering Rādha's equally precise question."},
+        {"q": "What later part of the collection is built entirely around Rādha as questioner?",
+         "opts": [
+             "SN 23, titled Rādhasaṃyutta, immediately following Khandhavagga's own coverage",
+             "SN 12, the Nidānavagga already completed in Book II",
+             "SN 1, the opening saṃyutta of the entire collection",
+             "No later material features Rādha again"],
+         "correct": 0,
+         "expl": "This discourse is an early appearance of a figure receiving far more sustained attention later."},
+        {"q": "What position does this discourse hold in Arahantavagga?",
+         "opts": [
+             "The penultimate discourse, setting up the vagga's final pair",
+             "The vagga's opening discourse",
+             "The exact midpoint of the vagga",
+             "It does not belong to this vagga"],
+         "correct": 0,
+         "expl": "SN 22.72 will close the vagga with a related, second named individual."},
+        {"q": "How does this discourse's structure compare to SN 22.63-70?",
+         "opts": [
+             "It breaks from their identical matched template, introducing a named disciple and a more technical question",
+             "It follows the identical matched template exactly",
+             "It directly contradicts everything taught in SN 22.63-70",
+             "It has no relationship to the preceding eight discourses"],
+         "correct": 0,
+         "expl": "The first named-disciple discourse in this vagga after eight consecutive matched-template discourses."},
+        {"q": "How many aggregates does the Buddha's answer apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī",
+             "Rājagaha",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "What does the discourse claim happens to Rādha after receiving this teaching?",
+         "opts": [
+             "He becomes one of the perfected (an arahant)",
+             "He returns to lay life",
+             "He travels to teach in a distant land",
+             "No outcome is mentioned for Rādha"],
+         "correct": 0,
+         "expl": "The same outcome shared by nearly every discourse in this vagga."},
+        {"q": "What discourse comes immediately after this one, closing the vagga?",
+         "opts": [
+             "SN 22.72, featuring Venerable Surādha with a related, extended question",
+             "A return to SN 22.63",
+             "A discourse from a different saṃyutta",
+             "SN 22.73, opening the next vagga"],
+         "correct": 0,
+         "expl": "The vagga's closing pair of named-disciple discourses."},
+    ],
+    marginalia=[
+        ("A named disciple, a more technical question", [
+            "not the recurring \"teach me in brief\" &mdash;",
+            "I-making, mine-making, precisely named",
+        ]),
+        ("Two established formulas, joined together", [
+            "SN 22.48's scope, SN 22.8's negation &mdash;",
+            "a precise answer to a precise question",
+        ]),
+        ("A figure who will anchor an entire saṃyutta", [
+            "SN 23, Rādhasaṃyutta, waits ahead &mdash;",
+            "this is an early appearance of that same disciple",
+        ]),
+        ("The vagga's shift toward its closing pair", [
+            "eight matched discourses now behind &mdash;",
+            "Surādha follows, extending the same concern",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.71/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.70.html">SN 22.70 &middot; Definitely '
+        "Arousing</a> &mdash; the previous discourse, closing the "
+        "vagga's eight-discourse matched set.",
+        '<a href="sn-22.72.html">SN 22.72 &middot; With '
+        "Surādha</a> &mdash; the next discourse, closing "
+        "Arahantavagga with a related, extended question.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.72 — Surādhasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 72, "Surādha", "With Surādha",
+    vagga="Arahantavagga",
+    meta_title="SN 22.72 — With Surādha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Surādhasutta &mdash; Venerable Surādha extends Rādha's "
+        "question toward full liberation, closing Arahantavagga with "
+        "\"going beyond discrimination\" and being well freed. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Surādha questions the Buddha directly"),
+        ("Form", "A named disciple's extended question, closing the "
+                 "vagga with the same combined formula used for Rādha "
+                 "but pushed toward full liberation"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "closes the vagga with an escalated version of "
+                       "SN 22.71's already technical question"),
+    ],
+    why=(
+        "This discourse closes Arahantavagga with a companion to SN "
+        "22.71, this time featuring Venerable Surādha &mdash; likely "
+        "a close associate or relation of Rādha given the shared name "
+        "and immediate adjacency, though this reading guide does not "
+        "assert the exact nature of their relationship. Surādha's "
+        "question extends Rādha's concern about I-making and "
+        "mine-making one step further, adding a further "
+        "aspiration: that the heart become &ldquo;peaceful and well "
+        "freed,&rdquo; &ldquo;going beyond discrimination.&rdquo; The "
+        "Buddha's answer reuses the identical combined formula given "
+        "to Rādha, but now explicitly framed as producing freedom by "
+        "not grasping (anupādāya vimutta), closing the vagga on the "
+        "same &ldquo;well freed&rdquo; language that closed SN 22.4, "
+        "SN 22.51, and SN 22.52 earlier in the book."
+    ),
+    guide=[
+        ("An escalated version of Rādha's question", [
+            "Surādha's question repeats Rādha's concern about "
+            "I-making, mine-making, and conceit toward the "
+            "&ldquo;conscious body&rdquo; and external signs, but adds "
+            "a further clause: how does one know and see so that the "
+            "heart, &ldquo;going beyond discrimination (vidhā), is "
+            "peaceful and well freed&rdquo;? This addition connects "
+            "back to SN 22.49's earlier discussion of the comparing "
+            "conceits (&ldquo;I'm better, equal, worse&rdquo;), since "
+            "vidhā names exactly this kind of measuring or "
+            "discriminating judgment.",
+        ]),
+        ("The identical combined formula, now framed as producing freedom", [
+            "The Buddha's answer to Surādha reuses SN 22.71's exact "
+            "combination of the elevenfold scope formula and the "
+            "negated &ldquo;not mine&rdquo; formula, but explicitly "
+            "names the result this time: one is &ldquo;freed by not "
+            "grasping&rdquo; (anupādāya vimutto) having truly seen "
+            "each aggregate this way. Where SN 22.71's answer stopped "
+            "at ending I-making and mine-making, this discourse "
+            "extends the identical seeing all the way to explicit "
+            "liberation.",
+        ]),
+        ("Closing on the same \"well freed\" language used earlier in the book", [
+            "The discourse's closing description &mdash; peaceful and "
+            "well freed (suvimutta) &mdash; echoes the identical term "
+            "used to close SN 22.4 in Nakulapituvagga and SN 22.51-52 "
+            "at the close of Attadīpavagga. Arahantavagga's own "
+            "closing pair reaches back across the whole book for its "
+            "final word, tying this vagga's ending to the same "
+            "vocabulary that closed two earlier vaggas.",
+        ]),
+        ("A vagga that closes on two individuals rather than an abstraction", [
+            "Where Bhāravagga closed on the brief, understated "
+            "Pabhaṅgusutta and Natumhākavagga closed on an elided "
+            "peyyāla quartet, Arahantavagga closes on two named, "
+            "personally engaged questioners &mdash; Rādha and Surādha "
+            "&mdash; each explicitly declared to become one of the "
+            "perfected. This gives the vagga's ending a more "
+            "individually grounded character than several of the "
+            "book's other vagga closings.",
+        ]),
+    ],
+    terms=[
+        ("vidhāsamatikkanta",
+         "&ldquo;going beyond discrimination&rdquo; &mdash; Surādha's "
+         "distinctive added phrase, connecting back to SN 22.49's "
+         "earlier discussion of the comparing conceits."),
+        ("anupādāya vimutto",
+         "&ldquo;freed by not grasping&rdquo; &mdash; the explicit "
+         "outcome this discourse names, extending SN 22.71's answer "
+         "toward full liberation."),
+        ("santa",
+         "&ldquo;peaceful&rdquo; &mdash; part of Surādha's closing "
+         "aspiration, paired with &ldquo;well freed.&rdquo;"),
+        ("suvimutta",
+         "&ldquo;well freed&rdquo; &mdash; the closing term shared "
+         "with SN 22.4 and SN 22.51-52 earlier in the book, tying "
+         "this vagga's ending to that recurring vocabulary."),
+        ("n'etaṁ mama, nesohamasmi, na meso attā",
+         "&ldquo;this is not mine, I am not this, this is not my "
+         "self&rdquo; &mdash; the same negated formula reused from SN "
+         "22.71, unchanged in wording."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions (feeling, "
+        "perception, and choices, each following the same pattern "
+        "spelled out in full for form and consciousness) are given "
+        "exactly as bilara-data preserves them. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.72:1.1-1.4"),
+        ("p", "&sect;2", "sn22.72:1.12-1.13"),
+    ],
+    quiz=[
+        {"q": "What does Surādha's question add beyond Rādha's earlier concern?",
+         "opts": [
+             "That the heart become peaceful and well freed, going beyond discrimination",
+             "A request to travel to a different monastery",
+             "A denial that I-making and mine-making are real problems",
+             "A request for a formal debate with a rival teacher"],
+         "correct": 0,
+         "expl": "An escalation of SN 22.71's already technical question toward full liberation."},
+        {"q": "What does \"going beyond discrimination\" (vidhāsamatikkanta) connect back to?",
+         "opts": [
+             "SN 22.49's earlier discussion of the comparing conceits — \"I'm better, equal, worse\"",
+             "SN 22.56's four-round definitions",
+             "SN 22.22's burden imagery",
+             "SN 22.60's argument against fatalism"],
+         "correct": 0,
+         "expl": "Vidhā names exactly this kind of measuring or discriminating judgment."},
+        {"q": "How does the Buddha's answer to Surādha differ from his answer to Rādha in SN 22.71?",
+         "opts": [
+             "It explicitly names the result as being \"freed by not grasping,\" extending the identical seeing toward explicit liberation",
+             "It uses an entirely different formula unrelated to SN 22.71's",
+             "It denies that Rādha's question was ever properly answered",
+             "It applies only to form, unlike SN 22.71's broader scope"],
+         "correct": 0,
+         "expl": "SN 22.71 stopped at ending I-making and mine-making; this discourse extends to explicit freedom."},
+        {"q": "What closing term does this discourse share with SN 22.4 and SN 22.51-52?",
+         "opts": [
+             "\"Well freed\" (suvimutta)",
+             "\"Bound by Māra\"",
+             "\"Shaped by arousal\"",
+             "\"Not belonging to self\""],
+         "correct": 0,
+         "expl": "Tying this vagga's ending to the same vocabulary that closed two earlier vaggas."},
+        {"q": "How does Arahantavagga's closing compare to Bhāravagga's and Natumhākavagga's?",
+         "opts": [
+             "It closes on two named, personally engaged questioners rather than a brief statement or an elided quartet",
+             "It closes identically to both of those vaggas",
+             "It has no closing discourse at all",
+             "It closes with a formal colophon and nothing else"],
+         "correct": 0,
+         "expl": "A more individually grounded character than several of the book's other vagga closings."},
+        {"q": "What two established formulas does the Buddha's answer to Surādha combine, as in SN 22.71?",
+         "opts": [
+             "SN 22.48's elevenfold scope and the negated \"not mine\" formula",
+             "SN 22.56's four rounds and SN 22.57's seven cases",
+             "The Māra formula and the impermanence formula",
+             "SN 22.26's gratification/drawback/escape triad"],
+         "correct": 0,
+         "expl": "The identical combination reused from SN 22.71, now framed as producing explicit liberation."},
+        {"q": "How many aggregates does the Buddha's answer apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī",
+             "Rājagaha",
+             "Devadaha"],
+         "correct": 0,
+         "expl": "Continuing the same setting as SN 22.71."},
+        {"q": "What outcome closes this discourse?",
+         "opts": [
+             "Venerable Surādha becomes one of the perfected (an arahant)",
+             "Surādha returns to lay life",
+             "Surādha travels to teach in a distant land",
+             "No outcome is mentioned for Surādha"],
+         "correct": 0,
+         "expl": "The same outcome shared by nearly every discourse in this vagga."},
+        {"q": "What comes immediately after this discourse, moving beyond Arahantavagga?",
+         "opts": [
+             "SN 22.73, opening the next vagga",
+             "A return to SN 22.63",
+             "The end of the entire Khandhasaṃyutta",
+             "A discourse from an entirely different saṃyutta"],
+         "correct": 0,
+         "expl": "The book's own systematic coverage continues into its next chapter."},
+    ],
+    marginalia=[
+        ("Rādha's question, pushed one step further", [
+            "peaceful, well freed, beyond discrimination &mdash;",
+            "an escalation of SN 22.71's already technical question",
+        ]),
+        ("The identical formula, now framed as freedom itself", [
+            "freed by not grasping &mdash;",
+            "the same seeing, explicitly named as liberation",
+        ]),
+        ("A closing word reaching back across the book", [
+            "\"well freed,\" echoing SN 22.4 and SN 22.51-52 &mdash;",
+            "tying this vagga's end to earlier vocabulary",
+        ]),
+        ("A vagga closing on two people, not an abstraction", [
+            "Rādha and Surādha, both named &mdash;",
+            "a more individually grounded ending than most vaggas",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.72/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.71.html">SN 22.71 &middot; With Rādha</a> '
+        "&mdash; the previous discourse, the vagga's first "
+        "named-disciple question.",
+        '<a href="sn-22.63.html">SN 22.63 &middot; When You '
+        "Grasp</a> &mdash; the vagga's opening discourse, whose "
+        "matched-template narrative this closing pair departs from.",
+    ],
+)
