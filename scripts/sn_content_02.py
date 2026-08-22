@@ -39741,3 +39741,2125 @@ page_range(
         "family bonds, and a single historical case.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 18.1 — Cakkhusutta
+# --------------------------------------------------------------------------- #
+page(
+    18, 1, "Cakkhu", "The Eye, Etc.",
+    meta_title="SN 18.1 — The Eye, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Cakkhusutta — Rāhula asks his father for a brief "
+        "teaching, and receives the impermanent-suffering-not-self "
+        "analysis applied to the six sense faculties. Opens "
+        "Rāhulasaṃyutta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove"),
+        ("Speakers", "Venerable Rāhula and the Buddha, his father"),
+        ("Form", "A requested brief teaching, given as a structured "
+                 "question-and-answer analysis"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; opens a saṃyutta built entirely "
+                       "around one recurring analytical template"),
+    ],
+    why=(
+        "This discourse opens Rāhulasaṃyutta, a collection of "
+        "teachings the Buddha gives directly to his own son, "
+        "Venerable Rāhula. Rāhula's request sets the pattern for the "
+        "whole saṃyutta: teach me Dhamma in brief, so that I can "
+        "live alone, withdrawn, diligent, keen, and resolute. The "
+        "Buddha's answer establishes the template every discourse in "
+        "this collection will reuse &mdash; is the eye permanent or "
+        "impermanent? If impermanent, is it suffering or happiness? "
+        "If impermanent and suffering, is it fit to be regarded as "
+        "mine, as me, as my self? &mdash; run through all six sense "
+        "faculties, then extended in later discourses to sense "
+        "objects, consciousness, contact, feeling, and beyond."),
+    guide=[
+        ("A father teaching his own son, named as such", [
+            "Unlike most discourses in the wider canon, this "
+            "saṃyutta's frame is explicitly familial &mdash; Rāhula "
+            "is remembered in the tradition as the Buddha's son from "
+            "before his renunciation, and the discourse doesn't "
+            "obscure or set aside that relationship even as it "
+            "delivers formal doctrinal instruction."]),
+        ("A request that specifies its own intended use", [
+            "Rāhula doesn't merely ask for teaching in general; he "
+            "specifies exactly what he intends to do with it &mdash; "
+            "live alone, withdrawn, diligent, keen, and resolute "
+            "&mdash; framing the request as preparation for solitary "
+            "practice rather than idle curiosity."]),
+        ("The three-question template introduced here in full", [
+            "Impermanent, therefore suffering, therefore not fit to "
+            "be regarded as self: this three-step interrogation, "
+            "applied here to the six sense faculties, becomes the "
+            "fixed analytical instrument every subsequent discourse "
+            "in this saṃyutta reuses on a different subject."]),
+        ("Six faculties treated as a single set, not isolated cases", [
+            "Eye, ear, nose, tongue, body, and mind are run through "
+            "the identical three questions in strict sequence, "
+            "establishing that this analysis is meant to apply "
+            "comprehensively across every channel of experience, not "
+            "selectively to whichever faculty seems most relevant."]),
+        ("An explicit note marking this as a template for what follows", [
+            "The source closes with its own editorial instruction: "
+            "the ten discourses of this series should be told in "
+            "full the same way, confirming that SN 18.2 through 18.10 "
+            "are meant to be understood as this discourse's structure "
+            "reapplied, not as independently composed teachings."]),
+    ],
+    terms=[
+        ("saṅkhittena dhammaṁ desetu",
+         "&ldquo;please teach me Dhamma in brief&rdquo; &mdash; "
+         "Rāhula's opening request, specifying both the form "
+         "(brevity) and his intended use for the teaching."),
+        ("cakkhu … sotaṁ … ghānaṁ … jivhā … kāyo … mano",
+         "&ldquo;the eye … the ear … the nose … the tongue … the "
+         "body … the mind&rdquo; &mdash; the six internal sense "
+         "faculties this discourse runs through in sequence."),
+        ("aniccaṁ … dukkhaṁ … anattā",
+         "&ldquo;impermanent … suffering … not-self&rdquo; &mdash; "
+         "the three-step analytical chain this discourse establishes "
+         "as this saṃyutta's recurring template."),
+        ("nibbindati … virajjati … vimuccati",
+         "&ldquo;grows disillusioned … desire fades away … is "
+         "freed&rdquo; &mdash; the discourse's closing sequence from "
+         "insight to liberation, reused throughout this saṃyutta."),
+        ("(etena peyyālena dasa suttantā kātabbā)",
+         "&ldquo;the ten discourses of this series should be told "
+         "in full the same way&rdquo; &mdash; the source's own "
+         "editorial note marking this discourse as the template for "
+         "SN 18.2 through 18.10."),
+    ],
+    text_intro=(
+        "The discourse in full. The source's closing editorial note "
+        "&mdash; instructing that the remaining nine discourses of "
+        "this series follow the same pattern &mdash; is described "
+        "above rather than quoted verbatim. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn18.1:1.1-1.4"),
+        ("p", "&sect;2", "sn18.1:2.1-2.8"),
+        ("p", "&sect;3", "sn18.1:3.1-3.15"),
+        ("p", "&sect;4", "sn18.1:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "What does Rāhula ask the Buddha for at the start of this discourse?",
+         "opts": [
+             "A brief teaching, so he can live alone, withdrawn, diligent, keen, and resolute",
+             "Permission to leave the monastic order",
+             "A detailed explanation of dependent origination",
+             "No specific request is made"],
+         "correct": 0,
+         "expl": "A request that specifies both its form and its intended practical use."},
+        {"q": "Who is Rāhula, in relation to the Buddha?",
+         "opts": [
+             "His son from before his renunciation",
+             "An unrelated senior mendicant",
+             "A visiting brahmin",
+             "The Buddha's brother"],
+         "correct": 0,
+         "expl": "An explicitly familial frame this saṃyutta doesn't set aside even in formal doctrinal instruction."},
+        {"q": "What three-question template does the Buddha apply to the eye and the other faculties?",
+         "opts": [
+             "Is it permanent or impermanent? If impermanent, is it suffering or happiness? If so, is it fit to be regarded as self?",
+             "Is it visible or invisible? Is it large or small? Is it near or far?",
+             "Was it created or uncreated? Is it moral or immoral?",
+             "No specific questions are used in this discourse"],
+         "correct": 0,
+         "expl": "The fixed analytical template this entire saṃyutta reuses on different subjects."},
+        {"q": "Which six faculties does this discourse run through?",
+         "opts": [
+             "Eye, ear, nose, tongue, body, and mind",
+             "Only the eye and the mind, with the others omitted",
+             "Sight, sound, smell, taste, touch, and idea",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "The six internal sense faculties, treated comprehensively rather than selectively."},
+        {"q": "What does the discourse's closing sequence describe?",
+         "opts": [
+             "A progression from disillusionment to the fading of desire to liberation",
+             "A description of Rāhula's ordination ceremony",
+             "A debate between the Buddha and a rival teacher",
+             "No closing sequence is given"],
+         "correct": 0,
+         "expl": "Nibbindati, virajjati, vimuccati — reused throughout this saṃyutta's discourses."},
+        {"q": "What does the source's closing editorial note instruct?",
+         "opts": [
+             "That the ten discourses of this series should be told in full the same way",
+             "That this discourse should never be repeated in any form",
+             "That only five of the ten discourses are authentic",
+             "No editorial note appears in the source"],
+         "correct": 0,
+         "expl": "Confirming SN 18.2-10 are meant as this discourse's structure reapplied to new subjects."},
+        {"q": "What does Rāhula intend to do once he has heard this teaching?",
+         "opts": [
+             "Live alone, withdrawn, diligent, keen, and resolute",
+             "Return immediately to lay life",
+             "Debate other ascetics publicly",
+             "Teach it to a large audience right away"],
+         "correct": 0,
+         "expl": "The specific practical purpose Rāhula states for his request."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "A setting given in full detail, unlike most other discourses in this saṃyutta's later, terser entries."},
+        {"q": "Who initiates the exchange in this discourse?",
+         "opts": [
+             "Rāhula, who approaches the Buddha and makes his request",
+             "The Buddha, who calls Rāhula over unprompted",
+             "An unnamed third mendicant",
+             "No one initiates; the discourse begins mid-conversation"],
+         "correct": 0,
+         "expl": "A pattern this saṃyutta's Dutiyavagga later varies, having the Buddha initiate instead."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Paṭhamaṁ, \"the first\"",
+             "Dutiyaṁ, \"the second\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The first discourse of Paṭhamavagga, and of the entire saṃyutta."},
+    ],
+    marginalia=[
+        ("A son's request, not set aside for formality", [
+            "Rāhula, the Buddha's own child, asking directly &mdash;",
+            "family named plainly within formal instruction",
+        ]),
+        ("A request that names its own purpose", [
+            "not curiosity, but preparation for solitude &mdash;",
+            "brevity requested for a specific, stated use",
+        ]),
+        ("Three questions, about to run through everything", [
+            "impermanent, therefore suffering, therefore not self &mdash;",
+            "the saṃyutta's entire instrument, given here first",
+        ]),
+        ("A note admitting its own repetition openly", [
+            "\"the same way,\" the source says outright &mdash;",
+            "nine more discourses, this structure simply reapplied",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn18.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.38-43.html">SN 17.38&ndash;43 &middot; '
+        "Father, Etc.</a> &mdash; the previous saṃyutta's closing "
+        "discourse.",
+        '<a href="sn-18.2.html">SN 18.2 &middot; Sights, Etc.</a> '
+        "&mdash; the next discourse, applying this same template to "
+        "the six sense objects.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 18.2 — Rūpasutta
+# --------------------------------------------------------------------------- #
+page(
+    18, 2, "Rūpa", "Sights, Etc.",
+    meta_title="SN 18.2 — Sights, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Rūpasutta — the same impermanent-suffering-not-"
+        "self template from SN 18.1, now applied to the six sense "
+        "objects: sights, sounds, smells, tastes, touches, and "
+        "ideas. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rāhula and the Buddha"),
+        ("Form", "SN 18.1's template reapplied to a new subject, "
+                 "heavily elided"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the first of nine discourses reusing "
+                       "SN 18.1's structure exactly"),
+    ],
+    why=(
+        "As promised by SN 18.1's own closing note, this discourse "
+        "reapplies the identical three-question template to a new "
+        "subject: the six sense objects &mdash; sights, sounds, "
+        "smells, tastes, touches, and ideas &mdash; rather than the "
+        "six internal faculties. Bilara-data preserves the bulk of "
+        "this discourse in heavily elided form, trusting the reader "
+        "to supply SN 18.1's full sentence structure around each "
+        "bare-named object."),
+    guide=[
+        ("Moving from the internal faculties to their objects", [
+            "Where SN 18.1 examined the eye, ear, nose, tongue, body, "
+            "and mind themselves, this discourse turns to what those "
+            "faculties perceive &mdash; sights, sounds, smells, "
+            "tastes, touches, and ideas &mdash; completing the "
+            "internal-external pairing basic to this analytical "
+            "framework."]),
+        ("Heavy elision as the norm for this series", [
+            "Unlike SN 18.1's fuller treatment, this discourse gives "
+            "only enough of each step to signal the pattern, "
+            "collapsing the elaborate impermanent-suffering-not-self "
+            "sequence into single elided lines for five of its six "
+            "subjects."]),
+        ("Dhamma as the sixth and final term", [
+            "The list of six objects closes with dhammā, "
+            "&ldquo;ideas&rdquo; or mental objects &mdash; the "
+            "object corresponding to the mind, completing the "
+            "six-fold pairing of faculty and object begun in the "
+            "discourse before this one."]),
+        ("A template proven portable across categories", [
+            "That the identical three-question structure can be "
+            "applied without modification to something as different "
+            "from a sense faculty as a sense object demonstrates the "
+            "analytical framework's generality &mdash; it examines "
+            "how something is known to be impermanent and "
+            "unsatisfactory, not what kind of thing is being "
+            "examined."]),
+        ("The second of ten, following the source's own count", [
+            "Positioned as the second discourse in a series the "
+            "source itself numbers, this discourse confirms the "
+            "editorial promise made at the end of SN 18.1 is being "
+            "carried out exactly as stated."]),
+    ],
+    terms=[
+        ("rūpā … saddā … gandhā … rasā … phoṭṭhabbā … dhammā",
+         "&ldquo;sights … sounds … smells … tastes … touches … "
+         "ideas&rdquo; &mdash; the six sense objects, corresponding "
+         "respectively to the six faculties examined in SN 18.1."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; signaling that the reader "
+         "should supply SN 18.1's fuller sentence structure around "
+         "each bare-named object in this discourse."),
+        ("aniccā",
+         "&ldquo;impermanent&rdquo; &mdash; the first term of the "
+         "template, applied here to each of the six sense objects in "
+         "turn."),
+        ("nibbindati",
+         "&ldquo;grows disillusioned&rdquo; &mdash; the same closing "
+         "term from SN 18.1, reused unchanged for this new subject."),
+        ("dutiyaṁ",
+         "&ldquo;the second&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, heavily elided "
+        "around SN 18.1's fuller sentence structure. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn18.2:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "What new subject does this discourse apply SN 18.1's template to?",
+         "opts": [
+             "The six sense objects: sights, sounds, smells, tastes, touches, and ideas",
+             "The five aggregates",
+             "The four noble truths",
+             "No new subject is introduced; the wording is identical to SN 18.1"],
+         "correct": 0,
+         "expl": "Completing the internal-external pairing of faculty and object."},
+        {"q": "How does the source preserve most of this discourse?",
+         "opts": [
+             "In heavily elided form, trusting the reader to supply SN 18.1's fuller structure",
+             "As a fully independent, completely spelled-out discourse",
+             "As a dialogue between two named individuals",
+             "As a set of verses with no prose framing"],
+         "correct": 0,
+         "expl": "Collapsing the elaborate sequence into single elided lines for most of its six subjects."},
+        {"q": "What is the sixth and final item in this discourse's list of sense objects?",
+         "opts": [
+             "Dhammā, \"ideas\" or mental objects, corresponding to the mind",
+             "Rūpā, \"sights,\" repeated a second time",
+             "Nibbāna, \"liberation\"",
+             "No sixth item is given"],
+         "correct": 0,
+         "expl": "Completing the six-fold pairing of faculty and object begun in SN 18.1."},
+        {"q": "What does this discourse demonstrate about the three-question template from SN 18.1?",
+         "opts": [
+             "That it can be applied without modification to a category as different as sense objects, showing its generality",
+             "That it only works for internal faculties, not external objects",
+             "That it must be significantly altered for each new subject",
+             "That it applies only to a single specific sense"],
+         "correct": 0,
+         "expl": "The template examines how something is known to be impermanent, not what kind of thing is examined."},
+        {"q": "What position does this discourse hold in the source's own numbered series?",
+         "opts": [
+             "The second discourse, following the editorial promise made at the end of SN 18.1",
+             "The final discourse of the entire saṃyutta",
+             "The first discourse of Dutiyavagga",
+             "It does not belong to any numbered series"],
+         "correct": 0,
+         "expl": "Confirming the source's own stated plan is being carried out exactly."},
+        {"q": "What analytical steps does this discourse apply to each of the six sense objects?",
+         "opts": [
+             "Impermanent, therefore suffering, therefore not fit to be regarded as self",
+             "Visible, therefore colorful, therefore attractive",
+             "Created, therefore temporary, therefore worthless",
+             "No analytical steps are applied"],
+         "correct": 0,
+         "expl": "The same three-question chain established in SN 18.1, unchanged in substance."},
+        {"q": "What outcome does this discourse describe for a learned noble disciple who sees this clearly?",
+         "opts": [
+             "Disillusionment, the fading of desire, and liberation",
+             "Immediate ordination as a mendicant",
+             "A vow of permanent silence",
+             "No outcome is described"],
+         "correct": 0,
+         "expl": "The same closing sequence reused from SN 18.1."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout most of this saṃyutta, given only briefly here compared to SN 18.1's fuller framing."},
+        {"q": "Who are the two participants in this discourse?",
+         "opts": [
+             "Venerable Rāhula and the Buddha",
+             "Venerable Ānanda and the Buddha",
+             "Two unnamed mendicants",
+             "Rāhula and an unnamed brahmin"],
+         "correct": 0,
+         "expl": "The same father-and-son pair established in SN 18.1, continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dutiyaṁ, \"the second\"",
+             "Paṭhamaṁ, \"the first\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The second discourse in this series."},
+    ],
+    marginalia=[
+        ("From what perceives, to what is perceived", [
+            "eye, ear, mind, now met by their objects &mdash;",
+            "the pairing this framework was built to complete",
+        ]),
+        ("A structure proven to travel", [
+            "the same three questions, a wholly different subject &mdash;",
+            "generality shown rather than merely claimed",
+        ]),
+        ("Elision as confirmation, not shortcut alone", [
+            "barely more than the list itself &mdash;",
+            "trusting a structure already fully given once",
+        ]),
+        ("A promise being kept, one discourse at a time", [
+            "\"the same way,\" said once, now delivered &mdash;",
+            "the source doing exactly what it said it would",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn18.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-18.1.html">SN 18.1 &middot; The Eye, Etc.</a> '
+        "&mdash; the discourse whose template this one reapplies.",
+        '<a href="sn-18.3.html">SN 18.3 &middot; Consciousness</a> '
+        "&mdash; the next discourse, continuing the same series.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 18.3 — Viññāṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    18, 3, "Viññāṇa", "Consciousness",
+    meta_title="SN 18.3 — Consciousness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Viññāṇasutta — SN 18.1's template applied to the "
+        "six kinds of consciousness: eye, ear, nose, tongue, body, "
+        "and mind consciousness. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rāhula and the Buddha"),
+        ("Form", "The template continuing to a third subject "
+                 "category, equally elided"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the third subject in this saṃyutta's "
+                       "systematic sweep through experience"),
+    ],
+    why=(
+        "This discourse continues the series begun in SN 18.1, "
+        "applying the identical three-question template to a third "
+        "category: the six kinds of consciousness that arise "
+        "specifically from each sense faculty &mdash; eye "
+        "consciousness, ear consciousness, and so on through mind "
+        "consciousness. Where SN 18.1 examined the faculties "
+        "themselves and SN 18.2 their objects, this discourse turns "
+        "to the awareness that arises when faculty and object meet."),
+    guide=[
+        ("A third term in a basic threefold analysis", [
+            "Faculty, object, and consciousness form a standard "
+            "triad in this tradition's analysis of experience; having "
+            "examined the first two in SN 18.1 and 18.2, this "
+            "discourse completes the triad by turning to the "
+            "awareness these first two combine to produce."]),
+        ("Six kinds of consciousness, not one general awareness", [
+            "Rather than treat consciousness as a single undivided "
+            "faculty, this discourse names six distinct kinds, each "
+            "tied to a specific sense door &mdash; consciousness "
+            "itself is analyzed as plural and conditioned, not as a "
+            "unified, independent knower."]),
+        ("The same elision, confirming a stable pattern", [
+            "As in SN 18.2, only the first and last items in the "
+            "list receive full phrasing, with the middle four "
+            "compressed to bare names &mdash; a stable editorial "
+            "pattern now established across two consecutive "
+            "discourses."]),
+        ("Consciousness treated no differently than faculty or object", [
+            "Despite consciousness often being singled out elsewhere "
+            "in the canon as a more subtle or elusive category, this "
+            "discourse subjects it to exactly the same "
+            "impermanent-suffering-not-self analysis as the coarser "
+            "faculties and objects examined before it."]),
+        ("Three discourses into a systematic sweep", [
+            "Faculty, object, consciousness: this discourse's "
+            "position as the third in the series confirms the "
+            "saṃyutta is working through a deliberate, ordered set "
+            "of categories rather than an arbitrary list."]),
+    ],
+    terms=[
+        ("cakkhuviññāṇaṁ … sotaviññāṇaṁ … ghānaviññāṇaṁ … "
+         "jivhāviññāṇaṁ … kāyaviññāṇaṁ … manoviññāṇaṁ",
+         "&ldquo;eye consciousness … ear consciousness … nose "
+         "consciousness … tongue consciousness … body consciousness "
+         "… mind consciousness&rdquo; &mdash; the six kinds this "
+         "discourse examines, each tied to a specific sense door."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; the same compression "
+         "pattern used in SN 18.2, applied here to a new subject."),
+        ("aniccaṁ",
+         "&ldquo;impermanent&rdquo; &mdash; the template's first "
+         "term, applied here to each of the six kinds of "
+         "consciousness."),
+        ("nibbindati",
+         "&ldquo;grows disillusioned&rdquo; &mdash; the same closing "
+         "term reused from the two discourses before this one."),
+        ("tatiyaṁ",
+         "&ldquo;the third&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "18.1's fuller sentence structure. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn18.3:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "What six categories does this discourse examine?",
+         "opts": [
+             "The six kinds of consciousness, each tied to a specific sense faculty",
+             "The six sense faculties themselves",
+             "The six sense objects",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "Awareness arising specifically from each sense door, distinct from the faculties and objects examined in SN 18.1-2."},
+        {"q": "How does this discourse complete a standard analytical triad in this tradition?",
+         "opts": [
+             "By examining consciousness, following faculty in SN 18.1 and object in SN 18.2",
+             "By introducing an entirely unrelated fourth category",
+             "By repeating SN 18.1's faculty analysis a second time",
+             "There is no discernible relationship between this discourse and the two before it"],
+         "correct": 0,
+         "expl": "Faculty, object, and consciousness — a standard threefold analysis of experience, now completed."},
+        {"q": "How does this discourse treat consciousness, compared to how it might be singled out elsewhere in the canon?",
+         "opts": [
+             "It applies the identical analysis used for coarser faculties and objects, without special exemption",
+             "It treats consciousness as permanent and beyond analysis",
+             "It refuses to analyze consciousness at all",
+             "It claims consciousness is unrelated to suffering"],
+         "correct": 0,
+         "expl": "Subjecting even consciousness to the same impermanent-suffering-not-self analysis."},
+        {"q": "What editorial pattern does this discourse share with SN 18.2?",
+         "opts": [
+             "Only the first and last items receive full phrasing, with the middle four compressed to bare names",
+             "Every single item is spelled out in complete detail",
+             "The entire discourse is left completely untranslated",
+             "No editorial compression is used in either discourse"],
+         "correct": 0,
+         "expl": "A stable elision pattern now established across two consecutive discourses."},
+        {"q": "What does this discourse imply about consciousness by naming six distinct kinds rather than one general awareness?",
+         "opts": [
+             "That consciousness is plural and conditioned, not a unified, independent knower",
+             "That consciousness does not actually exist",
+             "That only one of the six kinds is real",
+             "That consciousness is identical to the sense faculties themselves"],
+         "correct": 0,
+         "expl": "Each kind tied to a specific sense door, rather than treated as a single undivided faculty."},
+        {"q": "What position does this discourse hold in the saṃyutta's systematic sweep?",
+         "opts": [
+             "The third discourse, following faculty and object in an ordered progression",
+             "The first discourse of the entire saṃyutta",
+             "The final discourse, closing the whole collection",
+             "It stands entirely outside the systematic sequence"],
+         "correct": 0,
+         "expl": "Confirming a deliberate, ordered set of categories rather than an arbitrary list."},
+        {"q": "What analytical steps does this discourse apply to each kind of consciousness?",
+         "opts": [
+             "Impermanent, therefore suffering, therefore not fit to be regarded as self",
+             "Visible, therefore colorful, therefore attractive",
+             "Learned, therefore memorized, therefore recited",
+             "No analytical steps are applied"],
+         "correct": 0,
+         "expl": "The same unchanged template from SN 18.1."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout most of this saṃyutta."},
+        {"q": "Who are the two participants in this discourse?",
+         "opts": [
+             "Venerable Rāhula and the Buddha",
+             "Venerable Ānanda and the Buddha",
+             "Two unnamed mendicants",
+             "Rāhula and an unnamed brahmin"],
+         "correct": 0,
+         "expl": "The same father-and-son pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Tatiyaṁ, \"the third\"",
+             "Dutiyaṁ, \"the second\"",
+             "Catutthaṁ, \"the fourth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The third discourse in this series."},
+    ],
+    marginalia=[
+        ("Completing a basic threefold analysis", [
+            "faculty, object, now what arises between them &mdash;",
+            "consciousness taking its place in the sequence",
+        ]),
+        ("Six kinds, not one general awareness", [
+            "eye-consciousness distinct from mind-consciousness &mdash;",
+            "knowing itself treated as plural, conditioned",
+        ]),
+        ("No special exemption for the subtler category", [
+            "consciousness gets the same three questions &mdash;",
+            "nothing set aside from the analysis's reach",
+        ]),
+        ("A pattern holding steady across discourses", [
+            "elided the same way, a second time now &mdash;",
+            "confirmation, not coincidence, in the compression",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn18.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-18.2.html">SN 18.2 &middot; Sights, Etc.</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-18.4.html">SN 18.4 &middot; Contact</a> '
+        "&mdash; the next discourse, continuing the same series.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 18.4 — Samphassasutta
+# --------------------------------------------------------------------------- #
+page(
+    18, 4, "Samphassa", "Contact",
+    meta_title="SN 18.4 — Contact | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Samphassasutta — SN 18.1's template applied to the "
+        "six kinds of contact, where faculty, object, and "
+        "consciousness meet. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rāhula and the Buddha"),
+        ("Form", "The template extended to a fourth category, "
+                 "building on the first three"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; extending the sweep to the meeting "
+                       "point of the first three categories"),
+    ],
+    why=(
+        "Having examined faculty, object, and consciousness "
+        "separately across the three discourses before it, this "
+        "discourse turns to what the tradition names when all three "
+        "meet: samphassa, contact. Eye contact, ear contact, and so "
+        "on through mind contact are each subjected to the same "
+        "impermanent-suffering-not-self analysis, extending the "
+        "systematic sweep one step further into the conditions the "
+        "earlier three discourses' categories combine to produce."),
+    guide=[
+        ("The meeting point of three prior categories", [
+            "Contact isn't a fourth independent category alongside "
+            "faculty, object, and consciousness; it names what "
+            "happens when the three converge &mdash; this discourse "
+            "examines the product of the relationships already "
+            "established by SN 18.1 through 18.3."]),
+        ("A conditioned phenomenon, analyzed as such", [
+            "Because contact depends on faculty, object, and "
+            "consciousness all being present together, subjecting it "
+            "to the same impermanence analysis reinforces that "
+            "nothing in this chain &mdash; including their "
+            "combination &mdash; escapes the same basic "
+            "instability."]),
+        ("Six kinds of contact, mirroring the six kinds of consciousness", [
+            "Eye contact, ear contact, nose contact, tongue contact, "
+            "body contact, and mind contact directly parallel SN "
+            "18.3's six kinds of consciousness, confirming this "
+            "saṃyutta's sweep proceeds systematically rather than "
+            "skipping between unrelated categories."]),
+        ("The identical elision pattern, now a confirmed convention", [
+            "As in the two discourses before it, only the first and "
+            "last items receive fuller treatment, with the middle "
+            "four compressed &mdash; by this third repetition, the "
+            "pattern reads as established convention rather than "
+            "coincidence."]),
+        ("A step deeper into how experience is actually assembled", [
+            "Moving from faculty to object to consciousness to "
+            "contact traces an increasingly specific account of how "
+            "experience is constructed moment to moment, setting up "
+            "the discourse immediately following this one to examine "
+            "what contact itself gives rise to."]),
+    ],
+    terms=[
+        ("cakkhusamphasso … sotasamphasso … ghānasamphasso … "
+         "jivhāsamphasso … kāyasamphasso … manosamphasso",
+         "&ldquo;eye contact … ear contact … nose contact … tongue "
+         "contact … body contact … mind contact&rdquo; &mdash; the "
+         "six kinds this discourse examines."),
+        ("samphassa",
+         "&ldquo;contact&rdquo; &mdash; the meeting of faculty, "
+         "object, and consciousness, not an independent fourth "
+         "category."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; the same compression "
+         "convention now established across three consecutive "
+         "discourses."),
+        ("aniccaṁ",
+         "&ldquo;impermanent&rdquo; &mdash; the template's first "
+         "term, applied here to each of the six kinds of contact."),
+        ("catutthaṁ",
+         "&ldquo;the fourth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "18.1's fuller sentence structure. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn18.4:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "What does this discourse examine, in relation to the three categories from SN 18.1-3?",
+         "opts": [
+             "Contact — what arises when faculty, object, and consciousness meet",
+             "An entirely unrelated fourth category with no connection to the first three",
+             "A repeat of SN 18.1's faculty analysis",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "The meeting point the earlier three categories combine to produce."},
+        {"q": "Why is contact analyzed as a conditioned phenomenon rather than an independent one?",
+         "opts": [
+             "Because it depends on faculty, object, and consciousness all being present together",
+             "Because it exists prior to and independent of the other three categories",
+             "Because it is identical in every respect to consciousness alone",
+             "Contact is not described as conditioned in this discourse"],
+         "correct": 0,
+         "expl": "Reinforcing that even their combination doesn't escape the same basic instability."},
+        {"q": "How many kinds of contact does this discourse name, and what do they mirror?",
+         "opts": [
+             "Six kinds, directly paralleling SN 18.3's six kinds of consciousness",
+             "Only two kinds, unrelated to any earlier discourse",
+             "Twelve kinds, doubling every earlier category",
+             "A single, undivided kind of contact"],
+         "correct": 0,
+         "expl": "Confirming this saṃyutta's sweep proceeds systematically through related categories."},
+        {"q": "What editorial pattern does this discourse continue from SN 18.2-3?",
+         "opts": [
+             "Only the first and last items receive fuller treatment, with the middle four compressed",
+             "Every item is spelled out in complete, unabbreviated detail",
+             "The entire discourse is left untranslated",
+             "No compression pattern is used"],
+         "correct": 0,
+         "expl": "By this third repetition, the pattern reads as an established convention."},
+        {"q": "What does moving from faculty to object to consciousness to contact trace?",
+         "opts": [
+             "An increasingly specific account of how experience is constructed moment to moment",
+             "A random, unrelated sequence of unconnected topics",
+             "A single repeated idea restated four times with no development",
+             "A chronological account of Rāhula's own life"],
+         "correct": 0,
+         "expl": "Setting up the next discourse to examine what contact itself gives rise to."},
+        {"q": "What analytical steps does this discourse apply to each kind of contact?",
+         "opts": [
+             "Impermanent, therefore suffering, therefore not fit to be regarded as self",
+             "Pleasant, therefore desirable, therefore worth pursuing",
+             "Sudden, therefore surprising, therefore memorable",
+             "No analytical steps are applied"],
+         "correct": 0,
+         "expl": "The same unchanged template from SN 18.1."},
+        {"q": "What outcome does this discourse describe for one who sees this clearly?",
+         "opts": [
+             "Disillusionment, the fading of desire, and liberation",
+             "A formal debate with a rival ascetic",
+             "Return to lay life",
+             "No outcome is described"],
+         "correct": 0,
+         "expl": "The same closing sequence reused throughout this saṃyutta."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout most of this saṃyutta."},
+        {"q": "Who are the two participants in this discourse?",
+         "opts": [
+             "Venerable Rāhula and the Buddha",
+             "Venerable Ānanda and the Buddha",
+             "Two unnamed mendicants",
+             "Rāhula and an unnamed brahmin"],
+         "correct": 0,
+         "expl": "The same father-and-son pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Catutthaṁ, \"the fourth\"",
+             "Tatiyaṁ, \"the third\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fourth discourse in this series."},
+    ],
+    marginalia=[
+        ("Not a fourth thing, but a meeting point", [
+            "faculty, object, consciousness, now converging &mdash;",
+            "contact named for what their combination produces",
+        ]),
+        ("Even the meeting itself doesn't escape", [
+            "conditioned, therefore analyzed the same way &mdash;",
+            "no combination exempt from the same instability",
+        ]),
+        ("Six kinds, mirroring what came before", [
+            "eye contact echoing eye consciousness &mdash;",
+            "the sweep proceeding through related categories",
+        ]),
+        ("One step deeper into how experience assembles", [
+            "faculty, object, awareness, now their meeting &mdash;",
+            "a chain being traced link by link",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn18.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-18.3.html">SN 18.3 &middot; Consciousness</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-18.5.html">SN 18.5 &middot; Feeling</a> '
+        "&mdash; the next discourse, examining what contact gives "
+        "rise to.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 18.5 — Vedanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    18, 5, "Vedanā", "Feeling",
+    meta_title="SN 18.5 — Feeling | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Vedanāsutta — SN 18.1's template applied to the "
+        "six kinds of feeling born of contact, the direct outcome "
+        "of the category examined in SN 18.4. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rāhula and the Buddha"),
+        ("Form", "The template extended to what contact itself "
+                 "produces"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the fifth subject, marking the "
+                       "sweep's midpoint"),
+    ],
+    why=(
+        "Continuing directly from SN 18.4's examination of contact, "
+        "this discourse turns to what contact itself produces: "
+        "feeling. The six kinds of feeling &mdash; born of eye "
+        "contact, ear contact, and so on through mind contact "
+        "&mdash; receive the same impermanent-suffering-not-self "
+        "analysis, extending the chain one further link from the "
+        "conditions examined so far to their direct felt "
+        "consequence."),
+    guide=[
+        ("A direct causal link to the discourse before it", [
+            "Where contact in SN 18.4 was described as the meeting "
+            "of faculty, object, and consciousness, feeling in this "
+            "discourse is named explicitly as vedanā born of that "
+            "same contact, making the connection between the two "
+            "discourses causal rather than merely sequential."]),
+        ("Feeling itself analyzed, not just its objects", [
+            "This discourse doesn't ask whether feelings are "
+            "pleasant or painful; it asks whether feeling itself "
+            "&mdash; as a category of experience &mdash; is "
+            "permanent, subjecting the very capacity to feel to the "
+            "same scrutiny applied to faculties, objects, "
+            "consciousness, and contact before it."]),
+        ("Six kinds again, completing another parallel set", [
+            "Feeling born of eye contact through feeling born of "
+            "mind contact mirrors the six-fold structure of every "
+            "discourse since SN 18.3, confirming the systematic "
+            "sweep continues to track the same six sense doors "
+            "through each new category."]),
+        ("The chain's midpoint in a longer developing sequence", [
+            "As the fifth discourse in a series of ten, this "
+            "discourse marks the sweep's approximate midpoint, "
+            "having moved from the coarsest categories (faculty, "
+            "object) through progressively more refined ones "
+            "(consciousness, contact, and now feeling)."]),
+        ("A category the wider tradition treats as pivotal", [
+            "Feeling occupies a well-known pivotal position elsewhere "
+            "in this tradition's analysis of conditioned arising, "
+            "often marking the point where craving can take hold; "
+            "analyzing it here as impermanent lays groundwork "
+            "relevant well beyond this single discourse."]),
+    ],
+    terms=[
+        ("cakkhusamphassajā vedanā",
+         "&ldquo;feeling born of eye contact&rdquo; &mdash; the "
+         "first of six kinds this discourse examines, each named for "
+         "the contact that produces it."),
+        ("vedanā",
+         "&ldquo;feeling&rdquo; &mdash; the general category "
+         "examined, encompassing pleasant, painful, and neutral "
+         "feeling alike."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; the same compression "
+         "convention continuing from the discourses before this "
+         "one."),
+        ("aniccaṁ",
+         "&ldquo;impermanent&rdquo; &mdash; the template's first "
+         "term, applied here to each of the six kinds of feeling."),
+        ("pañcamaṁ",
+         "&ldquo;the fifth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "18.1's fuller sentence structure. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn18.5:1.1-1.11"),
+    ],
+    quiz=[
+        {"q": "What does this discourse examine, in direct relation to SN 18.4's contact?",
+         "opts": [
+             "Feeling — named explicitly as born of the same contact examined in the previous discourse",
+             "An entirely unrelated category with no connection to contact",
+             "A repeat of SN 18.1's faculty analysis",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "A causal link, not merely a sequential one, between the two discourses."},
+        {"q": "What specifically does this discourse ask about feeling?",
+         "opts": [
+             "Whether feeling itself, as a category of experience, is permanent",
+             "Whether a particular feeling is pleasant or painful",
+             "Whether Rāhula personally feels happy or sad",
+             "No question about feeling is actually asked"],
+         "correct": 0,
+         "expl": "Subjecting the very capacity to feel to the same scrutiny applied to earlier categories."},
+        {"q": "How many kinds of feeling does this discourse name?",
+         "opts": [
+             "Six, mirroring the six-fold structure used since SN 18.3",
+             "Only two — pleasant and painful",
+             "Three — pleasant, painful, and neutral",
+             "A single, undivided kind of feeling"],
+         "correct": 0,
+         "expl": "Continuing to track the same six sense doors through each new category."},
+        {"q": "What position does this discourse hold in the ten-discourse series?",
+         "opts": [
+             "The fifth, marking the sweep's approximate midpoint",
+             "The first discourse of the entire series",
+             "The final discourse, closing the series",
+             "It does not belong to this series"],
+         "correct": 0,
+         "expl": "Having moved from coarser categories to progressively more refined ones."},
+        {"q": "Why might feeling be especially significant to analyze, according to this reading guide?",
+         "opts": [
+             "It occupies a pivotal position elsewhere in this tradition's analysis of conditioned arising, often marking where craving takes hold",
+             "Feeling has no particular significance beyond this single discourse",
+             "Feeling is considered entirely separate from the process of craving",
+             "This discourse claims feeling cannot be analyzed at all"],
+         "correct": 0,
+         "expl": "Laying groundwork relevant well beyond this single discourse's immediate context."},
+        {"q": "What analytical steps does this discourse apply to each kind of feeling?",
+         "opts": [
+             "Impermanent, therefore suffering, therefore not fit to be regarded as self",
+             "Pleasant, therefore desirable, therefore worth pursuing",
+             "Sudden, therefore surprising, therefore memorable",
+             "No analytical steps are applied"],
+         "correct": 0,
+         "expl": "The same unchanged template from SN 18.1."},
+        {"q": "What outcome does this discourse describe for one who sees this clearly?",
+         "opts": [
+             "Disillusionment, the fading of desire, and liberation",
+             "A formal debate with a rival ascetic",
+             "Return to lay life",
+             "No outcome is described"],
+         "correct": 0,
+         "expl": "The same closing sequence reused throughout this saṃyutta."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout most of this saṃyutta."},
+        {"q": "Who are the two participants in this discourse?",
+         "opts": [
+             "Venerable Rāhula and the Buddha",
+             "Venerable Ānanda and the Buddha",
+             "Two unnamed mendicants",
+             "Rāhula and an unnamed brahmin"],
+         "correct": 0,
+         "expl": "The same father-and-son pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Pañcamaṁ, \"the fifth\"",
+             "Catutthaṁ, \"the fourth\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fifth discourse in this series."},
+    ],
+    marginalia=[
+        ("What contact produces, named and examined", [
+            "not just the meeting, but its direct result &mdash;",
+            "feeling traced straight back to its condition",
+        ]),
+        ("The capacity to feel, not just what's felt", [
+            "not pleasant or painful, but feeling itself &mdash;",
+            "the category questioned, not the content",
+        ]),
+        ("Midpoint of a ten-discourse sweep", [
+            "faculty, object, consciousness, contact, now this &mdash;",
+            "five down, five still to come",
+        ]),
+        ("A category with weight beyond this one discourse", [
+            "often where craving is said to take hold &mdash;",
+            "groundwork reaching past this single teaching",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn18.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-18.4.html">SN 18.4 &middot; Contact</a> '
+        "&mdash; the discourse whose direct outcome this one "
+        "examines.",
+        '<a href="sn-18.6.html">SN 18.6 &middot; Perceptions</a> '
+        "&mdash; the next discourse, continuing the same series.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 18.6 — Saññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    18, 6, "Saññā", "Perceptions",
+    meta_title="SN 18.6 — Perceptions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Saññāsutta — SN 18.1's template applied to the six "
+        "kinds of perception, one of sights, sounds, smells, "
+        "tastes, touches, and ideas. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rāhula and the Buddha"),
+        ("Form", "The template extended to perception, tied to "
+                 "sense objects rather than sense doors directly"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the sixth subject, returning to the "
+                       "object-based naming pattern of SN 18.2"),
+    ],
+    why=(
+        "This discourse turns to perception, saññā, the mental "
+        "process of recognizing and labeling what is encountered. "
+        "Unlike SN 18.3-5, which named their six kinds after sense "
+        "doors (eye consciousness, eye contact, and so on), this "
+        "discourse instead names its six kinds after sense objects, "
+        "directly echoing SN 18.2's own list: perception of sights, "
+        "perception of sounds, and so on through perception of "
+        "ideas."),
+    guide=[
+        ("A shift back to object-based naming", [
+            "Where the three discourses immediately before this one "
+            "named their six categories after sense doors, this "
+            "discourse returns to naming them after sense objects "
+            "&mdash; perception of sights, not eye-perception "
+            "&mdash; directly echoing SN 18.2's own list rather than "
+            "SN 18.3-5's."]),
+        ("Perception as recognition, not raw sensation", [
+            "Saññā names the specific mental act of recognizing and "
+            "labeling &mdash; identifying a sight as blue, a sound "
+            "as a voice &mdash; distinct from the bare contact or "
+            "feeling examined in the discourses immediately before "
+            "this one, adding a further layer to the sweep's "
+            "account of experience."]),
+        ("The same six objects, examined from a new angle", [
+            "Sights, sounds, smells, tastes, touches, and ideas "
+            "reappear here exactly as in SN 18.2, but now the "
+            "question isn't whether these objects themselves are "
+            "impermanent; it's whether the mind's perception of them "
+            "is."]),
+        ("A subtler target than the objects it perceives", [
+            "By shifting the target from the object to the "
+            "perception of the object, this discourse moves one "
+            "step further into subjective process, continuing this "
+            "saṃyutta's progression from coarser to increasingly "
+            "internal categories of analysis."]),
+        ("Continuing an unbroken six-discourse rhythm", [
+            "Faculty, object, consciousness, contact, feeling, and "
+            "now perception: six discourses in strict succession, "
+            "each applying the identical three-question template to "
+            "a progressively more refined layer of how experience is "
+            "constructed."]),
+    ],
+    terms=[
+        ("rūpasaññā … saddasaññā … gandhasaññā … rasasaññā … "
+         "phoṭṭhabbasaññā … dhammasaññā",
+         "&ldquo;perception of sights … sounds … smells … tastes … "
+         "touches … ideas&rdquo; &mdash; the six kinds this "
+         "discourse examines, named after objects rather than "
+         "faculties."),
+        ("saññā",
+         "&ldquo;perception&rdquo; &mdash; the mental act of "
+         "recognizing and labeling what is encountered, distinct "
+         "from bare contact or feeling."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; the same compression "
+         "convention continuing from the discourses before this "
+         "one."),
+        ("aniccā",
+         "&ldquo;impermanent&rdquo; &mdash; the template's first "
+         "term, applied here to each of the six kinds of "
+         "perception."),
+        ("chaṭṭhaṁ",
+         "&ldquo;the sixth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "18.1's fuller sentence structure. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn18.6:1.1-1.11"),
+    ],
+    quiz=[
+        {"q": "What does this discourse examine?",
+         "opts": [
+             "Perception (saññā) — the mental act of recognizing and labeling what is encountered",
+             "The six sense faculties themselves",
+             "The six kinds of consciousness",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "Distinct from bare contact or feeling, examined in the two discourses immediately before this one."},
+        {"q": "How does this discourse name its six categories, compared to SN 18.3-5?",
+         "opts": [
+             "After sense objects, directly echoing SN 18.2's list, rather than after sense doors",
+             "After a completely new set of six unrelated terms",
+             "It uses the identical naming pattern as SN 18.3-5",
+             "This discourse names only two categories, not six"],
+         "correct": 0,
+         "expl": "A shift back to object-based naming, distinct from the door-based naming of the discourses before it."},
+        {"q": "What specifically does saññā name, distinct from raw sensation?",
+         "opts": [
+             "The specific mental act of recognizing and labeling something, such as identifying a sight as blue",
+             "The physical sense organ itself",
+             "An emotional reaction to an object",
+             "A vow taken by a mendicant"],
+         "correct": 0,
+         "expl": "Recognition and labeling, adding a further layer to the account of how experience is constructed."},
+        {"q": "What six objects does this discourse's perception-list include?",
+         "opts": [
+             "Sights, sounds, smells, tastes, touches, and ideas",
+             "Eye, ear, nose, tongue, body, and mind",
+             "Earth, water, fire, air, space, and consciousness",
+             "Form, feeling, perception, choices, and consciousness"],
+         "correct": 0,
+         "expl": "The same six objects from SN 18.2, now examined from the angle of perceiving them rather than the objects themselves."},
+        {"q": "What does shifting the target from object to perception-of-object accomplish?",
+         "opts": [
+             "Moving one step further into subjective mental process, continuing the sweep toward more internal categories",
+             "Returning the analysis entirely back to where it started",
+             "Abandoning the three-question template altogether",
+             "Nothing meaningful changes by this shift"],
+         "correct": 0,
+         "expl": "Progressing from coarser to increasingly internal categories of analysis."},
+        {"q": "What position does this discourse hold in the unbroken sequence of six discourses starting with SN 18.1?",
+         "opts": [
+             "The sixth in strict succession, each applying the same template to a progressively refined layer",
+             "The first discourse of an entirely separate series",
+             "It stands outside any sequence",
+             "The final discourse of the whole saṃyutta"],
+         "correct": 0,
+         "expl": "Faculty, object, consciousness, contact, feeling, and now perception."},
+        {"q": "What analytical steps does this discourse apply to each kind of perception?",
+         "opts": [
+             "Impermanent, therefore suffering, therefore not fit to be regarded as self",
+             "Vivid, therefore memorable, therefore trustworthy",
+             "Sudden, therefore surprising, therefore significant",
+             "No analytical steps are applied"],
+         "correct": 0,
+         "expl": "The same unchanged template from SN 18.1."},
+        {"q": "What outcome does this discourse describe for one who sees this clearly?",
+         "opts": [
+             "Disillusionment, the fading of desire, and liberation",
+             "A formal debate with a rival ascetic",
+             "Return to lay life",
+             "No outcome is described"],
+         "correct": 0,
+         "expl": "The same closing sequence reused throughout this saṃyutta."},
+        {"q": "Who are the two participants in this discourse?",
+         "opts": [
+             "Venerable Rāhula and the Buddha",
+             "Venerable Ānanda and the Buddha",
+             "Two unnamed mendicants",
+             "Rāhula and an unnamed brahmin"],
+         "correct": 0,
+         "expl": "The same father-and-son pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The sixth discourse in this series."},
+    ],
+    marginalia=[
+        ("A return to naming by object, not door", [
+            "perception of sights, not eye-perception &mdash;",
+            "echoing SN 18.2's list, not 18.3-5's",
+        ]),
+        ("Recognition, not just contact or feeling", [
+            "labeling a sight as blue, a sound as a voice &mdash;",
+            "a further layer added to how experience forms",
+        ]),
+        ("The same six objects, a different question asked", [
+            "not whether sights are impermanent, but perceiving them &mdash;",
+            "the angle shifted, the objects unchanged",
+        ]),
+        ("Six discourses, unbroken, each one step further in", [
+            "faculty, object, consciousness, contact, feeling, now this &mdash;",
+            "a steady progression toward the more internal",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn18.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-18.5.html">SN 18.5 &middot; Feeling</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-18.7.html">SN 18.7 &middot; Intention</a> '
+        "&mdash; the next discourse, continuing the same series.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 18.7 — Sañcetanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    18, 7, "Sañcetanā", "Intention",
+    meta_title="SN 18.7 — Intention | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Sañcetanāsutta — SN 18.1's template applied to the "
+        "six kinds of intention regarding sights, sounds, smells, "
+        "tastes, touches, and ideas. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rāhula and the Buddha"),
+        ("Form", "The template extended to intention, the karmically "
+                 "active response to sense objects"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the seventh subject, moving from "
+                       "recognition to karmically significant "
+                       "response"),
+    ],
+    why=(
+        "This discourse turns to sañcetanā, intention or volition, "
+        "examined here as intention regarding each of the six sense "
+        "objects &mdash; intention regarding sights, sounds, smells, "
+        "tastes, touches, and ideas. Where perception in SN 18.6 "
+        "names how something is recognized, intention names the "
+        "mind's active response to what's encountered, a category "
+        "the wider tradition treats as directly bound up with "
+        "karma."),
+    guide=[
+        ("A move from recognition to karmically active response", [
+            "Perception in the discourse before this one identifies "
+            "and labels; intention goes further, naming the mind's "
+            "willed response to what has been recognized &mdash; a "
+            "shift from passive registration to active, "
+            "karma-generating volition."]),
+        ("Sañcetanā's well-known canonical weight", [
+            "This term carries particular significance elsewhere in "
+            "the canon, where intention itself is identified with "
+            "karma; applying the impermanence analysis to intention "
+            "here extends this saṃyutta's reach into territory with "
+            "direct ethical consequence, not merely descriptive "
+            "psychology."]),
+        ("The object-based naming pattern continuing", [
+            "As in SN 18.2 and SN 18.6, this discourse names its six "
+            "kinds after sense objects rather than sense doors, "
+            "maintaining the alternating pattern this saṃyutta has "
+            "used since its object-focused second discourse."]),
+        ("A further step into what generates future experience", [
+            "If contact and feeling describe what happens to "
+            "someone, and perception describes how it's recognized, "
+            "intention describes what one does in response &mdash; "
+            "the point where this chain of analysis touches directly "
+            "on the production of future karmic consequence."]),
+        ("Seventh in an unbroken sequence, three discourses remaining", [
+            "With three more categories still to come in this vagga "
+            "&mdash; craving, elements, and the aggregates &mdash; "
+            "this discourse marks the sweep's approach toward its "
+            "close, having moved steadily from the most external "
+            "categories to the most karmically consequential."]),
+    ],
+    terms=[
+        ("rūpasañcetanā … saddasañcetanā … gandhasañcetanā … "
+         "rasasañcetanā … phoṭṭhabbasañcetanā … dhammasañcetanā",
+         "&ldquo;intention regarding sights … sounds … smells … "
+         "tastes … touches … ideas&rdquo; &mdash; the six kinds this "
+         "discourse examines."),
+        ("sañcetanā",
+         "&ldquo;intention, volition&rdquo; &mdash; a term carrying "
+         "direct karmic weight elsewhere in the canon, where "
+         "intention itself is identified with karma."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; the same compression "
+         "convention continuing from the discourses before this "
+         "one."),
+        ("aniccā",
+         "&ldquo;impermanent&rdquo; &mdash; the template's first "
+         "term, applied here to each of the six kinds of intention."),
+        ("sattamaṁ",
+         "&ldquo;the seventh&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "18.1's fuller sentence structure. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn18.7:1.1-1.11"),
+    ],
+    quiz=[
+        {"q": "What does this discourse examine?",
+         "opts": [
+             "Intention (sañcetanā) — the mind's active, willed response to sense objects",
+             "Bare sensory contact alone",
+             "The six sense faculties themselves",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "A shift from passive recognition to active, karma-generating volition."},
+        {"q": "How does intention differ from perception, examined in the discourse before this one?",
+         "opts": [
+             "Perception identifies and labels; intention names the mind's willed response to what's recognized",
+             "The two terms are entirely synonymous with no meaningful difference",
+             "Intention occurs before contact, while perception occurs after",
+             "Perception is karmically significant while intention is not"],
+         "correct": 0,
+         "expl": "A shift from passive registration to active response."},
+        {"q": "What significance does sañcetanā carry elsewhere in the wider canon?",
+         "opts": [
+             "It is identified directly with karma",
+             "It is considered entirely irrelevant to ethical conduct",
+             "It refers only to formal monastic vows",
+             "It has no significance beyond this single discourse"],
+         "correct": 0,
+         "expl": "Extending this saṃyutta's reach into territory with direct ethical consequence."},
+        {"q": "How does this discourse name its six categories?",
+         "opts": [
+             "After sense objects, continuing the pattern from SN 18.2 and 18.6",
+             "After sense faculties, continuing the pattern from SN 18.3-5",
+             "After an entirely new and unrelated set of terms",
+             "This discourse names only a single category"],
+         "correct": 0,
+         "expl": "Maintaining the alternating naming pattern this saṃyutta has used since SN 18.2."},
+        {"q": "What does examining intention add to the chain traced from contact through perception?",
+         "opts": [
+             "The point where analysis touches directly on the production of future karmic consequence",
+             "Nothing further; intention is identical to feeling",
+             "A retreat back to the coarsest category, the sense faculties",
+             "An unrelated tangent with no connection to the earlier categories"],
+         "correct": 0,
+         "expl": "What one does in response, not merely what happens or how it's recognized."},
+        {"q": "How many categories remain after this discourse in the ten-discourse series?",
+         "opts": [
+             "Three — craving, elements, and the aggregates",
+             "None; this is the final discourse of the series",
+             "Seven, with this discourse being only the third",
+             "This discourse does not belong to any numbered series"],
+         "correct": 0,
+         "expl": "Marking the sweep's approach toward its close."},
+        {"q": "What analytical steps does this discourse apply to each kind of intention?",
+         "opts": [
+             "Impermanent, therefore suffering, therefore not fit to be regarded as self",
+             "Moral, therefore praiseworthy, therefore worth cultivating",
+             "Sudden, therefore uncontrollable, therefore dangerous",
+             "No analytical steps are applied"],
+         "correct": 0,
+         "expl": "The same unchanged template from SN 18.1."},
+        {"q": "What outcome does this discourse describe for one who sees this clearly?",
+         "opts": [
+             "Disillusionment, the fading of desire, and liberation",
+             "A formal debate with a rival ascetic",
+             "Return to lay life",
+             "No outcome is described"],
+         "correct": 0,
+         "expl": "The same closing sequence reused throughout this saṃyutta."},
+        {"q": "Who are the two participants in this discourse?",
+         "opts": [
+             "Venerable Rāhula and the Buddha",
+             "Venerable Ānanda and the Buddha",
+             "Two unnamed mendicants",
+             "Rāhula and an unnamed brahmin"],
+         "correct": 0,
+         "expl": "The same father-and-son pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Sattamaṁ, \"the seventh\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The seventh discourse in this series."},
+    ],
+    marginalia=[
+        ("From recognizing, to responding", [
+            "not just labeling a sight, but willing toward it &mdash;",
+            "passive registration giving way to active response",
+        ]),
+        ("A term carrying weight beyond this page", [
+            "intention identified with karma elsewhere &mdash;",
+            "ethical consequence, not just descriptive process",
+        ]),
+        ("A pattern held steady across the vagga", [
+            "named by object again, as in 18.2 and 18.6 &mdash;",
+            "the alternation itself a deliberate structure",
+        ]),
+        ("Approaching the sweep's close, three categories left", [
+            "craving, elements, aggregates, still ahead &mdash;",
+            "seven down, the sequence nearing its end",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn18.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-18.6.html">SN 18.6 &middot; Perceptions</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-18.8.html">SN 18.8 &middot; Craving</a> '
+        "&mdash; the next discourse, continuing the same series.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 18.8 — Taṇhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    18, 8, "Taṇhā", "Craving",
+    meta_title="SN 18.8 — Craving | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Taṇhāsutta — SN 18.1's template applied to the six "
+        "kinds of craving for sights, sounds, smells, tastes, "
+        "touches, and ideas. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rāhula and the Buddha"),
+        ("Form", "The template extended to craving, closing this "
+                 "vagga's object-based-experience sweep"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the eighth subject, reaching the "
+                       "traditional engine of continued rebirth"),
+    ],
+    why=(
+        "This discourse turns to taṇhā, craving, examined as "
+        "craving for each of the six sense objects &mdash; craving "
+        "for sights, sounds, smells, tastes, touches, and ideas. "
+        "Craving occupies a well-known central position in this "
+        "tradition's account of what drives continued rebirth; "
+        "subjecting it to the same impermanent-suffering-not-self "
+        "analysis used throughout this saṃyutta closes the arc that "
+        "began with bare sense contact and now arrives at the "
+        "specific force the tradition names as suffering's proximate "
+        "cause."),
+    guide=[
+        ("Arriving at a term with special doctrinal weight", [
+            "Where intention in the discourse before this one names "
+            "a general karmic response, craving names something more "
+            "specific and consequential: the particular force the "
+            "second noble truth identifies as suffering's origin, "
+            "making this discourse's analysis carry unusually direct "
+            "significance."]),
+        ("A natural sequel to intention's karmic emphasis", [
+            "If sañcetanā describes the mind's willed response, "
+            "taṇhā describes the specific craving quality that "
+            "response can take &mdash; not every intention is "
+            "craving, but craving is a paradigm case of the karmic "
+            "activity intention names."]),
+        ("The same object-based naming, completing its final appearance", [
+            "Craving for sights through craving for ideas repeats "
+            "the exact six-object structure used in SN 18.2, 18.6, "
+            "and now this discourse, marking the final appearance of "
+            "this particular naming pattern before the vagga turns "
+            "to its two remaining, differently structured "
+            "categories."]),
+        ("A demonstration that even the cause of suffering isn't exempt", [
+            "If craving itself is impermanent, suffering, and not "
+            "fit to be regarded as self, then even the force the "
+            "tradition names as suffering's cause is subject to the "
+            "same disillusionment-to-liberation sequence applied to "
+            "everything examined before it &mdash; nothing in the "
+            "chain, including its own driving force, is placed "
+            "beyond the reach of this analysis."]),
+        ("Two categories remaining before the vagga's close", [
+            "Only elements and the aggregates remain after this "
+            "discourse, both of which shift to a different "
+            "analytical shape than the six-sense-door and "
+            "six-sense-object pattern used across the seven "
+            "discourses so far."]),
+    ],
+    terms=[
+        ("rūpataṇhā … saddataṇhā … gandhataṇhā … rasataṇhā … "
+         "phoṭṭhabbataṇhā … dhammataṇhā",
+         "&ldquo;craving for sights … sounds … smells … tastes … "
+         "touches … ideas&rdquo; &mdash; the six kinds this "
+         "discourse examines."),
+        ("taṇhā",
+         "&ldquo;craving&rdquo; &mdash; identified elsewhere in the "
+         "canon, most notably the second noble truth, as suffering's "
+         "proximate cause."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; the same compression "
+         "convention continuing from the discourses before this "
+         "one."),
+        ("aniccā",
+         "&ldquo;impermanent&rdquo; &mdash; the template's first "
+         "term, applied here even to craving itself."),
+        ("aṭṭhamaṁ",
+         "&ldquo;the eighth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "18.1's fuller sentence structure. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn18.8:1.1-1.11"),
+    ],
+    quiz=[
+        {"q": "What does this discourse examine?",
+         "opts": [
+             "Craving (taṇhā) for each of the six sense objects",
+             "The six sense faculties themselves",
+             "The six kinds of consciousness",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "The specific force the tradition names as suffering's proximate cause."},
+        {"q": "What special doctrinal significance does craving carry, according to this reading guide?",
+         "opts": [
+             "It is identified in the second noble truth as suffering's origin",
+             "It has no particular significance beyond this discourse",
+             "It is considered entirely unrelated to suffering",
+             "It refers only to physical hunger and thirst"],
+         "correct": 0,
+         "expl": "Making this discourse's analysis carry unusually direct significance."},
+        {"q": "How does craving relate to intention, examined in the discourse before this one?",
+         "opts": [
+             "Craving is a paradigm case of the karmic activity intention names, though not every intention is craving",
+             "The two terms are entirely unrelated to one another",
+             "Craving occurs only before intention, never after it",
+             "Intention and craving are said to be identical in every respect"],
+         "correct": 0,
+         "expl": "A natural sequel to intention's more general karmic emphasis."},
+        {"q": "What naming pattern does this discourse complete its final appearance of?",
+         "opts": [
+             "The object-based naming pattern used in SN 18.2 and 18.6",
+             "The sense-door naming pattern used in SN 18.3-5",
+             "An entirely new naming pattern never used before",
+             "No particular naming pattern is used"],
+         "correct": 0,
+         "expl": "Before the vagga turns to its two remaining, differently structured categories."},
+        {"q": "What does subjecting craving to the same impermanence analysis demonstrate?",
+         "opts": [
+             "That even the force identified as suffering's cause isn't exempt from the same disillusionment-to-liberation sequence",
+             "That craving is somehow exempt from impermanence, unlike everything else examined",
+             "That craving cannot actually be analyzed using this template",
+             "That craving is unrelated to any of the categories examined earlier"],
+         "correct": 0,
+         "expl": "Nothing in the chain, including its own driving force, is placed beyond this analysis's reach."},
+        {"q": "How many categories remain in this vagga's series after this discourse?",
+         "opts": [
+             "Two — elements and the aggregates",
+             "None; this is the series' final discourse",
+             "Five, with this discourse being only the third",
+             "This discourse does not belong to any series"],
+         "correct": 0,
+         "expl": "Both shifting to a different analytical shape than the pattern used across the seven discourses so far."},
+        {"q": "What analytical steps does this discourse apply to each kind of craving?",
+         "opts": [
+             "Impermanent, therefore suffering, therefore not fit to be regarded as self",
+             "Powerful, therefore irresistible, therefore inevitable",
+             "Sudden, therefore uncontrollable, therefore dangerous",
+             "No analytical steps are applied"],
+         "correct": 0,
+         "expl": "The same unchanged template from SN 18.1."},
+        {"q": "What outcome does this discourse describe for one who sees this clearly?",
+         "opts": [
+             "Disillusionment, the fading of desire, and liberation",
+             "A formal debate with a rival ascetic",
+             "Return to lay life",
+             "No outcome is described"],
+         "correct": 0,
+         "expl": "The same closing sequence reused throughout this saṃyutta."},
+        {"q": "Who are the two participants in this discourse?",
+         "opts": [
+             "Venerable Rāhula and the Buddha",
+             "Venerable Ānanda and the Buddha",
+             "Two unnamed mendicants",
+             "Rāhula and an unnamed brahmin"],
+         "correct": 0,
+         "expl": "The same father-and-son pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "Navamaṁ, \"the ninth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eighth discourse in this series."},
+    ],
+    marginalia=[
+        ("Arriving at the tradition's named engine of suffering", [
+            "not just a response, but the second noble truth's own cause &mdash;",
+            "the analysis reaching its most consequential subject yet",
+        ]),
+        ("Even the cause itself doesn't escape the test", [
+            "craving too is impermanent, not exempt &mdash;",
+            "nothing placed beyond the reach of this analysis",
+        ]),
+        ("A naming pattern closing out its run", [
+            "sights, sounds, smells, one more time &mdash;",
+            "the last appearance before a different shape begins",
+        ]),
+        ("Two categories left before this vagga closes", [
+            "elements, then the aggregates, still ahead &mdash;",
+            "the sweep nearing the end of its first ten",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn18.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-18.7.html">SN 18.7 &middot; Intention</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-18.9.html">SN 18.9 &middot; Elements</a> '
+        "&mdash; the next discourse, shifting to a new analytical "
+        "shape.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 18.9 — Dhātusutta
+# --------------------------------------------------------------------------- #
+page(
+    18, 9, "Dhātu", "Elements",
+    meta_title="SN 18.9 — Elements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Dhātusutta — SN 18.1's template applied to the six "
+        "elements: earth, water, fire, air, space, and "
+        "consciousness. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rāhula and the Buddha"),
+        ("Form", "The template applied to a physical-and-cognitive "
+                 "framework, distinct from the sense-based "
+                 "categories before it"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; a shift to the six-element framework "
+                       "used elsewhere in this SN project's own "
+                       "Dhātusaṃyutta"),
+    ],
+    why=(
+        "After eight discourses built entirely around the six sense "
+        "doors and their objects, this discourse shifts to a "
+        "different organizing framework: the six elements &mdash; "
+        "earth, water, fire, air, space, and consciousness. Each "
+        "receives the same impermanent-suffering-not-self analysis "
+        "already applied throughout this saṃyutta, but the subject "
+        "matter itself steps outside the sense-experience framework "
+        "used in every discourse since SN 18.1."),
+    guide=[
+        ("A framework break from the preceding eight discourses", [
+            "Every discourse from SN 18.1 through 18.8 organized "
+            "itself around the six sense doors, in one variation or "
+            "another; this discourse instead uses the six-element "
+            "scheme, a physical-and-cognitive framework describing "
+            "the basic constituents of experience rather than its "
+            "sensory channels."]),
+        ("Six elements, ending in consciousness once again", [
+            "Earth, water, fire, and air name the four traditional "
+            "physical elements; space and consciousness extend the "
+            "list beyond pure physicality, with consciousness "
+            "closing the set just as it closed several of the "
+            "sense-based lists earlier in this vagga."]),
+        ("A framework this project has met before, in a different saṃyutta", [
+            "This exact six-element scheme forms the entire subject "
+            "of Dhātusaṃyutta (SN 14), examined there across a full "
+            "39 discourses; here it appears compressed into a single "
+            "discourse, applying only this saṃyutta's specific "
+            "three-question template rather than SN 14's broader "
+            "gratification-drawback-escape analysis."]),
+        ("Consciousness treated as an element, not merely a faculty", [
+            "Naming consciousness itself as one of the six elements, "
+            "alongside earth and water, reflects a broader "
+            "classification than the six-fold sense-consciousness "
+            "list used in SN 18.3 &mdash; here consciousness is "
+            "treated as a basic constituent of existence generally, "
+            "not tied to any specific sense door."]),
+        ("The penultimate discourse before this vagga's close", [
+            "With only the aggregates remaining after this "
+            "discourse, the vagga's systematic sweep is nearly "
+            "complete, having moved from sense experience through "
+            "physical and cognitive elements toward its final "
+            "category."]),
+    ],
+    terms=[
+        ("pathavīdhātu … āpodhātu … tejodhātu … vāyodhātu … "
+         "ākāsadhātu … viññāṇadhātu",
+         "&ldquo;the earth element … water element … fire element … "
+         "air element … space element … consciousness element&rdquo; "
+         "&mdash; the six elements this discourse examines."),
+        ("dhātu",
+         "&ldquo;element&rdquo; &mdash; a basic constituent of "
+         "experience, the organizing category of this discourse and "
+         "of the separate Dhātusaṃyutta (SN 14) elsewhere in this "
+         "collection."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; the same compression "
+         "convention continuing from the discourses before this "
+         "one."),
+        ("aniccā",
+         "&ldquo;impermanent&rdquo; &mdash; the template's first "
+         "term, applied here to each of the six elements."),
+        ("navamaṁ",
+         "&ldquo;the ninth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "18.1's fuller sentence structure. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn18.9:1.1-1.11"),
+    ],
+    quiz=[
+        {"q": "What framework does this discourse shift to, after eight discourses built around the sense doors?",
+         "opts": [
+             "The six elements: earth, water, fire, air, space, and consciousness",
+             "A continuation of the exact same sense-door framework",
+             "An entirely unrelated discussion of monastic discipline",
+             "The four noble truths directly"],
+         "correct": 0,
+         "expl": "A physical-and-cognitive framework describing basic constituents of experience, not sensory channels."},
+        {"q": "Which element closes this discourse's list of six?",
+         "opts": [
+             "Consciousness (viññāṇadhātu)",
+             "Earth (pathavīdhātu)",
+             "Space (ākāsadhātu)",
+             "No specific element closes the list"],
+         "correct": 0,
+         "expl": "Just as consciousness closed several of the sense-based lists earlier in this vagga."},
+        {"q": "Where else in this collection does the same six-element framework appear as an entire saṃyutta's subject?",
+         "opts": [
+             "Dhātusaṃyutta (SN 14), examined there across 39 discourses",
+             "Nowhere else; this is the framework's only appearance",
+             "Rāhulasaṃyutta's own earlier discourses",
+             "It appears only in the Aṅguttara Nikāya, never in the Saṃyutta Nikāya"],
+         "correct": 0,
+         "expl": "Compressed here into a single discourse, unlike SN 14's much fuller treatment."},
+        {"q": "How does this discourse's treatment of consciousness differ from SN 18.3's?",
+         "opts": [
+             "Consciousness is treated as a basic constituent of existence generally, not tied to any specific sense door",
+             "Consciousness is not mentioned at all in this discourse",
+             "The two discourses treat consciousness in exactly the same way with no distinction",
+             "This discourse denies that consciousness exists"],
+         "correct": 0,
+         "expl": "A broader classification than the six-fold sense-consciousness list used earlier."},
+        {"q": "What position does this discourse hold in the vagga's ten-discourse sequence?",
+         "opts": [
+             "The penultimate discourse, with only the aggregates remaining",
+             "The first discourse of the entire vagga",
+             "The final discourse, closing the vagga",
+             "It does not belong to this vagga's sequence"],
+         "correct": 0,
+         "expl": "The systematic sweep nearing completion, having moved from sense experience to elements."},
+        {"q": "What analytical steps does this discourse apply to each element?",
+         "opts": [
+             "Impermanent, therefore suffering, therefore not fit to be regarded as self",
+             "Solid, therefore stable, therefore reliable",
+             "Ancient, therefore venerable, therefore beyond question",
+             "No analytical steps are applied"],
+         "correct": 0,
+         "expl": "The same unchanged template from SN 18.1, applied here to a new framework."},
+        {"q": "What outcome does this discourse describe for one who sees this clearly?",
+         "opts": [
+             "Disillusionment, the fading of desire, and liberation",
+             "A formal debate with a rival ascetic",
+             "Return to lay life",
+             "No outcome is described"],
+         "correct": 0,
+         "expl": "The same closing sequence reused throughout this saṃyutta."},
+        {"q": "Who are the two participants in this discourse?",
+         "opts": [
+             "Venerable Rāhula and the Buddha",
+             "Venerable Ānanda and the Buddha",
+             "Two unnamed mendicants",
+             "Rāhula and an unnamed brahmin"],
+         "correct": 0,
+         "expl": "The same father-and-son pair continuing throughout this saṃyutta."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout most of this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Navamaṁ, \"the ninth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The ninth discourse in this series."},
+    ],
+    marginalia=[
+        ("A framework break after eight discourses of one shape", [
+            "no longer sense doors, but basic constituents &mdash;",
+            "a different scheme, the same analytical instrument",
+        ]),
+        ("A saṃyutta's whole subject, compressed to one page", [
+            "what SN 14 spends 39 discourses on &mdash;",
+            "here reduced to a single applied instance",
+        ]),
+        ("Consciousness reframed as constituent, not channel", [
+            "not tied to eye or ear this time &mdash;",
+            "a basic element of existence generally",
+        ]),
+        ("One category left before this vagga's close", [
+            "the aggregates alone still remain &mdash;",
+            "the sweep nearly complete after this discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn18.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-18.8.html">SN 18.8 &middot; Craving</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-18.10.html">SN 18.10 &middot; The Aggregates</a> '
+        "&mdash; the vagga's closing discourse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 18.10 — Khandhasutta
+# --------------------------------------------------------------------------- #
+page(
+    18, 10, "Khandha", "The Aggregates",
+    meta_title="SN 18.10 — The Aggregates | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Khandhasutta — SN 18.1's template applied to the "
+        "five aggregates, closing Paṭhamavagga with the tradition's "
+        "master framework for analyzing a person. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rāhula and the Buddha"),
+        ("Form", "The template applied to the five aggregates, "
+                 "closing this vagga's ten-discourse sweep"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; closing the vagga with the "
+                       "tradition's most fundamental analytical "
+                       "framework"),
+    ],
+    why=(
+        "This discourse closes Paṭhamavagga with what is arguably "
+        "the tradition's single most fundamental analytical "
+        "framework: the five aggregates &mdash; form, feeling, "
+        "perception, choices, and consciousness &mdash; the "
+        "categories under which a person's entire experience is "
+        "traditionally classified. Applying the same three-question "
+        "template used throughout this vagga to this master "
+        "framework brings the ten-discourse sweep to its natural "
+        "conclusion, having moved from sense doors and objects "
+        "through elements to the most comprehensive category "
+        "available."),
+    guide=[
+        ("A framework more fundamental than any used before it", [
+            "Where the earlier nine discourses examined sense doors, "
+            "objects, and elements &mdash; all specific channels or "
+            "constituents of experience &mdash; the five aggregates "
+            "constitute the tradition's broadest classification of a "
+            "person as such, making this discourse's placement at "
+            "the vagga's close a deliberate culmination rather than "
+            "just another entry in the list."]),
+        ("Form, feeling, perception, choices, consciousness", [
+            "This five-fold list overlaps partially with earlier "
+            "discourses' categories &mdash; feeling and consciousness "
+            "reappear from SN 18.5 and 18.3 &mdash; but reframes them "
+            "within the aggregates' more totalizing structure, rather "
+            "than tied to any specific sense door."]),
+        ("The template's fullest restatement since SN 18.1", [
+            "Unlike the heavily elided middle discourses of this "
+            "series, this discourse's closing sequence &mdash; "
+            "disillusionment, the fading of desire, freedom, and the "
+            "final declaration of liberation &mdash; is given in "
+            "full, matching SN 18.1's own complete treatment and "
+            "bookending the vagga with its fullest statements."]),
+        ("A vagga's close marked by its own uddāna", [
+            "Following this discourse, the source includes an "
+            "untranslated uddāna verse listing all ten discourse "
+            "titles of Paṭhamavagga &mdash; eye, sights, "
+            "consciousness, contact, feeling, perception, intention, "
+            "craving, element, and aggregate &mdash; confirming the "
+            "deliberate, ordered structure this reading guide has "
+            "traced discourse by discourse."]),
+        ("Setting up an entire second vagga of repetition", [
+            "Everything examined across these ten discourses will "
+            "be revisited, in varying degrees of compression, across "
+            "Dutiyavagga's four discourses &mdash; this closing "
+            "discourse doesn't end the pattern but completes its "
+            "first full statement."]),
+    ],
+    terms=[
+        ("rūpaṁ … vedanā … saññā … saṅkhārā … viññāṇaṁ",
+         "&ldquo;form … feeling … perception … choices … "
+         "consciousness&rdquo; &mdash; the five aggregates, the "
+         "tradition's broadest classification of a person's "
+         "experience."),
+        ("khandha",
+         "&ldquo;aggregate&rdquo; &mdash; this discourse's title "
+         "term, naming the five-fold framework under which a "
+         "person's entire experience is traditionally classified."),
+        ("nibbindati … virajjati … vimuccati",
+         "&ldquo;grows disillusioned … desire fades away … is "
+         "freed&rdquo; &mdash; the full closing sequence, restated "
+         "here in complete form matching SN 18.1's own treatment."),
+        ("khīṇā jāti, vusitaṁ brahmacariyaṁ",
+         "&ldquo;rebirth is ended, the spiritual journey has been "
+         "completed&rdquo; &mdash; the final declaration of "
+         "liberation, closing this vagga's fullest restatement of "
+         "the template."),
+        ("paṭhamo vaggo",
+         "&ldquo;the first chapter [is finished]&rdquo; &mdash; "
+         "marking Paṭhamavagga's close, immediately preceding its "
+         "own uddāna verse."),
+    ],
+    text_intro=(
+        "The discourse in full, restating SN 18.1's complete closing "
+        "sequence. The vagga's closing uddāna verse of discourse "
+        "titles is not translated in the source and is not quoted "
+        "here; see the reading guide above. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn18.10:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "What framework does this discourse close the vagga with?",
+         "opts": [
+             "The five aggregates: form, feeling, perception, choices, and consciousness",
+             "A sixth, entirely new set of sense objects",
+             "The four noble truths directly",
+             "The six elements, repeated a second time"],
+         "correct": 0,
+         "expl": "The tradition's broadest classification of a person's entire experience."},
+        {"q": "How does the aggregates framework differ from the categories examined in the nine discourses before it?",
+         "opts": [
+             "It constitutes the broadest classification of a person as such, rather than a specific channel or constituent",
+             "It is narrower and more specific than every earlier category",
+             "It has no relationship whatsoever to any earlier discourse",
+             "It is identical in every respect to the six sense doors"],
+         "correct": 0,
+         "expl": "Making this discourse's placement at the vagga's close a deliberate culmination."},
+        {"q": "Which two aggregates overlap with categories examined in earlier discourses of this vagga?",
+         "opts": [
+             "Feeling and consciousness, reappearing from SN 18.5 and 18.3",
+             "Form and choices, appearing for the first time",
+             "None of the five aggregates overlap with any earlier category",
+             "All five aggregates are entirely new terms"],
+         "correct": 0,
+         "expl": "Reframed within the aggregates' more totalizing structure rather than tied to a specific sense door."},
+        {"q": "How does this discourse's closing sequence compare to the heavily elided middle discourses of this series?",
+         "opts": [
+             "It is given in full, matching SN 18.1's own complete treatment",
+             "It is even more heavily compressed than any discourse before it",
+             "It omits the closing sequence entirely",
+             "There is no difference in treatment"],
+         "correct": 0,
+         "expl": "Bookending the vagga with its fullest statements of the template."},
+        {"q": "What follows this discourse in the source?",
+         "opts": [
+             "An untranslated uddāna verse listing all ten discourse titles of Paṭhamavagga",
+             "Immediate transition into an entirely different saṃyutta",
+             "A fully translated closing verse quoted in this reading guide's text section",
+             "Nothing follows; the source ends abruptly"],
+         "correct": 0,
+         "expl": "Confirming the deliberate, ordered structure traced discourse by discourse."},
+        {"q": "What happens to this vagga's ten categories in Dutiyavagga, the saṃyutta's second chapter?",
+         "opts": [
+             "They are revisited, in varying degrees of compression, across four further discourses",
+             "They are entirely abandoned and never mentioned again",
+             "They are replaced by an unrelated new set of ten categories",
+             "Dutiyavagga does not exist in this saṃyutta"],
+         "correct": 0,
+         "expl": "This closing discourse completes the template's first full statement, not the pattern as a whole."},
+        {"q": "What analytical steps does this discourse apply to each of the five aggregates?",
+         "opts": [
+             "Impermanent, therefore suffering, therefore not fit to be regarded as self",
+             "Visible, therefore describable, therefore nameable",
+             "Ancient, therefore authoritative, therefore unquestionable",
+             "No analytical steps are applied"],
+         "correct": 0,
+         "expl": "The same unchanged template from SN 18.1, applied here to its most comprehensive subject."},
+        {"q": "Who are the two participants in this discourse?",
+         "opts": [
+             "Venerable Rāhula and the Buddha",
+             "Venerable Ānanda and the Buddha",
+             "Two unnamed mendicants",
+             "Rāhula and an unnamed brahmin"],
+         "correct": 0,
+         "expl": "The same father-and-son pair concluding this vagga."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout most of this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dasamaṁ, \"the tenth\"",
+             "Navamaṁ, \"the ninth\"",
+             "Ekādasamaṁ, \"the eleventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The tenth and final discourse of Paṭhamavagga."},
+    ],
+    marginalia=[
+        ("The broadest category, saved for last", [
+            "not a channel or constituent, but the whole person &mdash;",
+            "a deliberate culmination, not just another entry",
+        ]),
+        ("Categories returning under a new, wider frame", [
+            "feeling and consciousness, seen once more &mdash;",
+            "reframed within something more totalizing",
+        ]),
+        ("The full sequence, restated at full length", [
+            "disillusionment through to liberation, spelled out again &mdash;",
+            "bookending the vagga with its fullest statement",
+        ]),
+        ("A first full pass, not the pattern's actual end", [
+            "ten categories, about to be revisited once more &mdash;",
+            "Dutiyavagga still ahead, compressing this same sweep",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn18.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-18.9.html">SN 18.9 &middot; Elements</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-18.11.html">SN 18.11 &middot; The Eye, Etc.</a> '
+        "&mdash; the next discourse, opening Dutiyavagga by "
+        "revisiting this exact category and title.",
+    ],
+)
