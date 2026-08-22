@@ -49819,3 +49819,2661 @@ page(
         "sustained across twelve varied images.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 21.1 — Kolitasutta
+# --------------------------------------------------------------------------- #
+page(
+    21, 1, "Kolita", "With Kolita",
+    meta_title="SN 21.1 — With Kolita | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Kolitasutta — Moggallāna describes to the "
+        "mendicants how the Buddha, appearing to him by psychic "
+        "power, corrected a subtle lapse in his second absorption. "
+        "Opens Bhikkhusaṃyutta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove"),
+        ("Speakers", "Venerable Mahāmoggallāna, addressing the "
+                     "assembled mendicants, recounting the Buddha's "
+                     "words to him"),
+        ("Form", "A first-person report of a specific meditative "
+                 "lapse and its correction, not a discourse "
+                 "delivered by the Buddha directly"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; opens a saṃyutta built around named "
+                       "individual mendicants rather than a "
+                       "recurring doctrinal category"),
+    ],
+    why=(
+        "This discourse opens Bhikkhusaṃyutta with Venerable "
+        "Mahāmoggallāna, addressed here by his clan name Kolita, "
+        "recounting a specific episode to the assembled mendicants. "
+        "In private retreat, he wondered what &ldquo;noble "
+        "silence&rdquo; actually meant, worked out that it referred "
+        "to the second absorption, and entered it &mdash; only for "
+        "perception and thought to intrude while he was there. The "
+        "Buddha, appearing to him by psychic power, corrected him "
+        "directly: don't neglect noble silence, settle your mind in "
+        "it, unify it there."),
+    guide=[
+        ("A saṃyutta organized around named individuals, not a shared topic", [
+            "Unlike most saṃyuttas built around a recurring category "
+            "&mdash; elements, danger, a single teaching template "
+            "&mdash; this collection's twelve discourses are unified "
+            "only by concerning specific, named senior disciples, "
+            "each discourse a distinct vignette rather than another "
+            "application of one repeated doctrine."]),
+        ("A report given by the disciple, not a teaching from the Buddha", [
+            "This discourse isn't the Buddha addressing the "
+            "mendicants directly; it's Moggallāna recounting his own "
+            "experience to them, making the Buddha's corrective "
+            "words something the audience receives secondhand, "
+            "filtered through Moggallāna's own retelling."]),
+        ("A subtle lapse within an already advanced attainment", [
+            "The failure Moggallāna describes isn't a beginner's "
+            "difficulty; it occurs after he has already correctly "
+            "identified and entered the second absorption, showing "
+            "that even a genuinely accomplished meditative state can "
+            "still admit a returning distraction requiring further "
+            "correction."]),
+        ("The Buddha's intervention as a direct, repeated instruction", [
+            "Rather than an extended teaching, the Buddha's "
+            "correction is compact and direct &mdash; don't neglect, "
+            "settle, unify &mdash; three closely related imperatives "
+            "addressing the identical lapse from three angles, "
+            "delivered by psychic power rather than an in-person "
+            "visit."]),
+        ("A closing claim asserting exceptional standing without false modesty", [
+            "Moggallāna concludes by directly claiming the title of a "
+            "disciple who attained great direct knowledge with the "
+            "Teacher's help &mdash; an unusually explicit "
+            "self-assessment, stated as simple accurate description "
+            "rather than boastful exaggeration."]),
+    ],
+    terms=[
+        ("kolita",
+         "&ldquo;Kolita&rdquo; &mdash; Venerable Mahāmoggallāna's "
+         "clan name, used as this discourse's title."),
+        ("ariyo tuṇhībhāvo",
+         "&ldquo;noble silence&rdquo; &mdash; the term Moggallāna "
+         "sets out to understand, ultimately identified with the "
+         "second absorption."),
+        ("dutiyaṁ jhānaṁ",
+         "&ldquo;the second absorption&rdquo; &mdash; the specific "
+         "meditative state Moggallāna identifies as noble silence, "
+         "marked by internal clarity without placing or sustaining "
+         "the mind on an object."),
+        ("vitakkasahagatā saññāmanasikārā",
+         "&ldquo;perception and focus accompanied by placing the "
+         "mind&rdquo; &mdash; the specific intrusion that beset "
+         "Moggallāna even while established in the second "
+         "absorption."),
+        ("mahābhiññataṁ patto",
+         "&ldquo;attained to great direct knowledge&rdquo; &mdash; "
+         "the title Moggallāna claims directly for himself at this "
+         "discourse's close, with the Teacher's help explicitly "
+         "credited."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn21.1:1.1-1.5"),
+        ("p", "&sect;2", "sn21.1:2.1-2.9"),
+        ("p", "&sect;3", "sn21.1:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "Who is the speaker addressing the mendicants in this discourse?",
+         "opts": [
+             "Venerable Mahāmoggallāna, recounting his own experience",
+             "The Buddha, delivering a teaching directly",
+             "Venerable Sāriputta",
+             "An unnamed junior mendicant"],
+         "correct": 0,
+         "expl": "A first-person report, not a discourse the Buddha delivers directly."},
+        {"q": "What question did Moggallāna set out to answer in private retreat?",
+         "opts": [
+             "What \"noble silence\" actually means",
+             "How to attain full awakening in a single sitting",
+             "Whether animals can attain liberation",
+             "No specific question is described"],
+         "correct": 0,
+         "expl": "A question he worked out for himself before entering the state he identified."},
+        {"q": "What did Moggallāna conclude noble silence refers to?",
+         "opts": [
+             "The second absorption",
+             "The state of complete unconsciousness",
+             "Ordinary physical silence during meditation",
+             "No specific state is identified"],
+         "correct": 0,
+         "expl": "Marked by internal clarity without placing or sustaining the mind on an object."},
+        {"q": "What lapse occurred even after Moggallāna correctly entered this state?",
+         "opts": [
+             "Perception and focus accompanied by placing the mind intruded upon him",
+             "He fell completely asleep",
+             "He lost all memory of the teaching",
+             "No lapse is described"],
+         "correct": 0,
+         "expl": "A subtle distraction returning even within an already advanced attainment."},
+        {"q": "How did the Buddha correct Moggallāna?",
+         "opts": [
+             "By appearing to him with psychic power and giving three closely related direct instructions",
+             "By sending a written message through another mendicant",
+             "By ignoring the lapse entirely",
+             "By publicly criticizing him before the assembly"],
+         "correct": 0,
+         "expl": "A compact, direct correction — don't neglect, settle, unify — delivered without an in-person visit."},
+        {"q": "How does this saṃyutta's overall organization differ from most others in this collection?",
+         "opts": [
+             "It is unified by concerning specific named senior disciples, not a single recurring doctrinal category",
+             "It focuses exclusively on the six sense faculties",
+             "It is organized entirely around similes",
+             "It has no discernible organizing principle at all"],
+         "correct": 0,
+         "expl": "Twelve distinct vignettes about named individuals, rather than repeated applications of one template."},
+        {"q": "What title does Moggallāna claim for himself at the discourse's close?",
+         "opts": [
+             "A disciple who attained great direct knowledge with the Teacher's help",
+             "The most senior mendicant in the entire Saṅgha",
+             "One who has never made any meditative error",
+             "No title is claimed"],
+         "correct": 0,
+         "expl": "An explicit self-assessment, stated as accurate description rather than boastful exaggeration."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, in Jeta's Grove",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Vesālī, at the Great Wood",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with several discourses in this saṃyutta."},
+        {"q": "Who does Moggallāna address at the start of this discourse?",
+         "opts": [
+             "The assembled mendicants",
+             "The Buddha directly",
+             "A single unnamed layperson",
+             "No one; the discourse is a private reflection"],
+         "correct": 0,
+         "expl": "A public recounting to his fellow mendicants of a private experience."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Paṭhamaṁ, \"the first\"",
+             "Dutiyaṁ, \"the second\"",
+             "Dvādasamaṁ, \"the twelfth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The first discourse of this saṃyutta's single vagga, Bhikkhuvagga."},
+    ],
+    marginalia=[
+        ("A report, not a teaching delivered directly", [
+            "Moggallāna's own account, given to his peers &mdash;",
+            "the Buddha's words received secondhand, through retelling",
+        ]),
+        ("A lapse arriving after the state was already reached", [
+            "not a beginner's struggle, but a returning distraction &mdash;",
+            "even genuine attainment still needing further correction",
+        ]),
+        ("Three imperatives, aimed at one identical lapse", [
+            "don't neglect, settle, unify &mdash;",
+            "the same correction stated from three angles",
+        ]),
+        ("A claim stated plainly, not modestly deflected", [
+            "\"it's me,\" said outright, credit given to the Teacher &mdash;",
+            "accurate description, not boastful exaggeration",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn21.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-20.12.html">SN 20.12 &middot; A Jackal (2nd)</a> '
+        "&mdash; the previous saṃyutta's closing discourse.",
+        '<a href="sn-21.2.html">SN 21.2 &middot; With Upatissa</a> '
+        "&mdash; the next discourse, a companion vignette about "
+        "Moggallāna's closest colleague, Sāriputta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 21.2 — Upatissasutta
+# --------------------------------------------------------------------------- #
+page(
+    21, 2, "Upatissa", "With Upatissa",
+    meta_title="SN 21.2 — With Upatissa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Upatissasutta — Sāriputta declares nothing in the "
+        "world could bring him grief, and when Ānanda presses him "
+        "on the Buddha's own death, explains why even that wouldn't "
+        "shake him. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Sāriputta, addressing the "
+                     "mendicants, with Venerable Ānanda's pointed "
+                     "follow-up question"),
+        ("Form", "A bold declaration tested immediately by the "
+                 "most extreme case its listener can think of"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; a companion vignette to SN 21.1, "
+                       "featuring Sāriputta rather than Moggallāna"),
+    ],
+    why=(
+        "This discourse features Sāriputta, addressed by his clan "
+        "name Upatissa, declaring to the mendicants that he found "
+        "nothing in the world whose decay or loss would cause him "
+        "grief. Ānanda immediately presses him with the most extreme "
+        "possible test: even if the Teacher himself were to pass "
+        "away? Sāriputta's answer distinguishes two things carefully "
+        "&mdash; he genuinely wouldn't grieve, but he would still "
+        "reflect on how mighty and powerful a teacher had vanished, "
+        "and how much good his continued presence would have done "
+        "the world."),
+    guide=[
+        ("A bold claim immediately tested at its most extreme point", [
+            "Ānanda doesn't accept Sāriputta's general declaration at "
+            "face value; he immediately raises the single hardest "
+            "possible case &mdash; the Buddha's own death &mdash; "
+            "refusing to let the claim stand untested against its "
+            "most demanding instance."]),
+        ("A careful distinction between grief and reflection", [
+            "Sāriputta's answer doesn't simply repeat his original "
+            "claim; it draws a precise line between sokaparidevadukkha, "
+            "grief and lamentation, which he genuinely wouldn't "
+            "experience, and a sober, appreciative reflection on what "
+            "the world would lose, which he would still have."]),
+        ("Freedom from grief explained by a specific prior achievement", [
+            "Ānanda doesn't simply accept Sāriputta's distinction; he "
+            "explains why it holds, tracing Sāriputta's freedom from "
+            "grief specifically to his long-ago eradication of "
+            "I-making, mine-making, and the underlying tendency to "
+            "conceit &mdash; naming a specific cause rather than "
+            "treating the freedom as a given personality trait."]),
+        ("A second voice completing the analysis, not merely confirming it", [
+            "Unlike SN 21.1, where the Buddha's correction closes the "
+            "discourse, this discourse gives its final, most "
+            "important explanatory statement to Ānanda rather than "
+            "to Sāriputta himself or to the Buddha, an unusual "
+            "structural choice for the analysis's concluding word."]),
+        ("A companion piece to SN 21.1 in structure and pairing", [
+            "Following directly after Moggallāna's discourse, this "
+            "discourse's focus on Sāriputta continues this "
+            "saṃyutta's practice of pairing the Buddha's two chief "
+            "disciples in adjacent discourses, a pattern the "
+            "saṃyutta's third discourse will make explicit."]),
+    ],
+    terms=[
+        ("upatissa",
+         "&ldquo;Upatissa&rdquo; &mdash; Venerable Sāriputta's clan "
+         "name, used as this discourse's title."),
+        ("sokaparidevadukkhadomanassupāyāsā",
+         "&ldquo;sorrow, lamentation, pain, sadness, and "
+         "distress&rdquo; &mdash; the specific compound of grief "
+         "Sāriputta claims nothing in the world could produce in "
+         "him."),
+        ("mahesakkho … mahiddhiko mahānubhāvo",
+         "&ldquo;illustrious … mighty and powerful&rdquo; &mdash; "
+         "the sober, appreciative reflection Sāriputta says he would "
+         "still have, distinguished carefully from grief itself."),
+        ("ahaṅkāramamaṅkāramānānusayā susamūhatā",
+         "&ldquo;totally eradicated I-making, mine-making, and the "
+         "underlying tendency to conceit&rdquo; &mdash; Ānanda's "
+         "specific explanation for why Sāriputta's claim holds even "
+         "in the most extreme case."),
+        ("dutiyaṁ",
+         "&ldquo;the second&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn21.2:1.1-1.5"),
+        ("p", "&sect;2", "sn21.2:2.1-2.4"),
+        ("p", "&sect;3", "sn21.2:3.1-3.7"),
+    ],
+    quiz=[
+        {"q": "What does Sāriputta declare to the mendicants at the start of this discourse?",
+         "opts": [
+             "That nothing in the world's decay or loss would cause him grief",
+             "That he has achieved complete omniscience",
+             "That he intends to leave the monastic order",
+             "No declaration is made"],
+         "correct": 0,
+         "expl": "A bold general claim, immediately tested by Ānanda."},
+        {"q": "What test does Ānanda immediately raise?",
+         "opts": [
+             "Whether Sāriputta would grieve even if the Buddha himself were to pass away",
+             "Whether Sāriputta would grieve the loss of his own robe",
+             "No test is raised; Ānanda simply agrees",
+             "Whether Sāriputta fears physical pain"],
+         "correct": 0,
+         "expl": "The single hardest possible case, not a milder hypothetical."},
+        {"q": "What distinction does Sāriputta draw in his answer?",
+         "opts": [
+             "Between genuine grief, which he wouldn't feel, and a sober reflection on what the world would lose, which he would still have",
+             "Between physical pain and emotional pain",
+             "He makes no distinction and simply repeats his original claim",
+             "Between grief for the Buddha and grief for other people"],
+         "correct": 0,
+         "expl": "A precise line between two related but distinct responses."},
+        {"q": "What specific cause does Ānanda identify for Sāriputta's freedom from grief?",
+         "opts": [
+             "His long-ago eradication of I-making, mine-making, and the underlying tendency to conceit",
+             "His advanced age and long monastic experience",
+             "A special blessing given only to him by the Buddha",
+             "No cause is identified; it remains unexplained"],
+         "correct": 0,
+         "expl": "Naming a specific cause rather than treating the freedom as an innate personality trait."},
+        {"q": "Who delivers this discourse's final, most important explanatory statement?",
+         "opts": [
+             "Venerable Ānanda, rather than Sāriputta or the Buddha",
+             "The Buddha, closing the discourse directly",
+             "Sāriputta himself, in a final summary",
+             "No concluding statement is given"],
+         "correct": 0,
+         "expl": "An unusual structural choice, unlike SN 21.1 where the Buddha's words close the discourse."},
+        {"q": "How does this discourse relate to SN 21.1?",
+         "opts": [
+             "It continues this saṃyutta's practice of pairing the Buddha's two chief disciples in adjacent discourses",
+             "It directly contradicts SN 21.1's claims",
+             "It has no relationship to SN 21.1 at all",
+             "It repeats SN 21.1's content exactly"],
+         "correct": 0,
+         "expl": "Sāriputta following Moggallāna, a pattern the saṃyutta's third discourse makes explicit."},
+        {"q": "What does Sāriputta say he would still think, even without feeling grief?",
+         "opts": [
+             "That an illustrious, mighty, and powerful Teacher had vanished, and how much good his continued presence would have done",
+             "That the Buddha's death was of no significance at all",
+             "That he himself should immediately become the new teacher",
+             "Nothing at all; he claims total indifference"],
+         "correct": 0,
+         "expl": "A sober, appreciative reflection carefully distinguished from grief itself."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Vesālī, at the Great Wood",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with several discourses in this saṃyutta."},
+        {"q": "Who initiates the exchange in this discourse?",
+         "opts": [
+             "Sāriputta, addressing the assembled mendicants directly",
+             "The Buddha, questioning Sāriputta",
+             "Ānanda, opening with his own declaration",
+             "No one initiates; the discourse begins mid-conversation"],
+         "correct": 0,
+         "expl": "Sāriputta's own declaration, which Ānanda then presses further."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dutiyaṁ, \"the second\"",
+             "Paṭhamaṁ, \"the first\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The second discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("A claim tested at its hardest possible case", [
+            "not a mild hypothetical, but the Buddha's own death &mdash;",
+            "Ānanda refusing to let the declaration go unchallenged",
+        ]),
+        ("Reflection kept separate from grief itself", [
+            "appreciating the loss, without being shaken by it &mdash;",
+            "a precise line drawn between two related responses",
+        ]),
+        ("A cause named, not left as simple temperament", [
+            "I-making and mine-making, eradicated long ago &mdash;",
+            "the freedom traced to a specific prior achievement",
+        ]),
+        ("The final word given to a third voice", [
+            "not Sāriputta, not the Buddha, but Ānanda &mdash;",
+            "an unusual place for the discourse's key explanation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn21.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-21.1.html">SN 21.1 &middot; With Kolita</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-21.3.html">SN 21.3 &middot; A Mound of Salt</a> '
+        "&mdash; the next discourse, featuring both Sāriputta and "
+        "Moggallāna together directly.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 21.3 — Ghaṭasutta
+# --------------------------------------------------------------------------- #
+page(
+    21, 3, "Ghaṭa", "A Mound of Salt",
+    meta_title="SN 21.3 — A Mound of Salt | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Ghaṭasutta — Sāriputta and Moggallāna compare notes "
+        "on a Dhamma conversation conducted entirely by "
+        "clairvoyance and clairaudience, each modestly ranking "
+        "himself beneath the other. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, the Bamboo Grove"),
+        ("Speakers", "Venerables Sāriputta and Moggallāna, in "
+                     "direct conversation with each other"),
+        ("Form", "A dialogue between two senior disciples, "
+                 "featuring a psychic conversation described within "
+                 "it"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; the saṃyutta's first discourse "
+                       "featuring its two chief disciples speaking "
+                       "directly to each other"),
+    ],
+    why=(
+        "This discourse brings Sāriputta and Moggallāna into direct "
+        "conversation for the first time in this saṃyutta. Sāriputta "
+        "notices Moggallāna's unusually clear complexion and asks "
+        "what kind of meditation produced it. Moggallāna reveals "
+        "something remarkable: he had a Dhamma conversation with the "
+        "Buddha, who was physically far away at Sāvatthī, conducted "
+        "entirely through mutually cleared clairvoyance and "
+        "clairaudience, on the topic of what makes someone genuinely "
+        "energetic. The discourse closes with each disciple ranking "
+        "himself modestly beneath the other."),
+    guide=[
+        ("Physical distance made irrelevant to the conversation described", [
+            "The discourse doesn't describe Moggallāna traveling to "
+            "the Buddha or the Buddha traveling to him; the "
+            "conversation happens through mutually cleared "
+            "clairvoyance and clairaudience alone, removing ordinary "
+            "physical distance from the account entirely."]),
+        ("Energy defined through a vivid, uncompromising formula", [
+            "The Buddha's answer to Moggallāna's question about "
+            "being energetic isn't abstract; it's a specific, "
+            "startling declaration &mdash; let only skin, sinews, and "
+            "bones remain, let flesh and blood waste away, I won't "
+            "stop until I've achieved what's humanly possible "
+            "&mdash; giving the term concrete, almost visceral "
+            "content."]),
+        ("Two similes of self-effacement, each precisely calibrated", [
+            "Sāriputta compares himself to gravel next to the "
+            "Himalayas when praising Moggallāna, and Moggallāna "
+            "compares himself to a few grains of salt next to a "
+            "mound of salt when praising Sāriputta &mdash; two "
+            "distinct images of vast disproportion, each chosen "
+            "rather than a single interchangeable comparison."]),
+        ("Praise supported by citing the Buddha's own words, not personal opinion", [
+            "Moggallāna doesn't simply state that Sāriputta is wise; "
+            "he backs the claim by quoting a verse in which the "
+            "Buddha himself has already commended Sāriputta, "
+            "grounding the compliment in external authority rather "
+            "than personal assessment alone."]),
+        ("This discourse's own title drawn from the closing simile, not the main narrative", [
+            "Despite the psychic conversation about energy occupying "
+            "most of the discourse's content, the title Ghaṭa, "
+            "&ldquo;a mound of salt,&rdquo; is drawn from the closing "
+            "exchange of similes rather than from the central "
+            "narrative event."]),
+    ],
+    terms=[
+        ("dibbacakkhu … dibbā sotadhātu",
+         "&ldquo;clairvoyance … clairaudience&rdquo; &mdash; the "
+         "specific psychic faculties both the Buddha and Moggallāna "
+         "cleared toward each other, enabling their conversation "
+         "across distance."),
+        ("āraddhavīriyo",
+         "&ldquo;energetic&rdquo; &mdash; the term Moggallāna's "
+         "conversation with the Buddha sets out to define, answered "
+         "with a vivid, uncompromising formula."),
+        ("kāmaṁ taco ca nhāru ca aṭṭhi ca avasissatu",
+         "&ldquo;gladly, let only skin, sinews, and bones "
+         "remain&rdquo; &mdash; the Buddha's concrete definition of "
+         "genuine energy, quoted within Moggallāna's account."),
+        ("himavato pabbatarājassa parittā pāsāṇasakkharā",
+         "&ldquo;a few pieces of gravel next to the Himalayas&rdquo; "
+         "&mdash; Sāriputta's simile for his own standing compared "
+         "to Moggallāna."),
+        ("mahatiyā loṇaghaṭāya parittā loṇasakkharā",
+         "&ldquo;a few grains of salt next to a mound of salt&rdquo; "
+         "&mdash; Moggallāna's simile for his own standing compared "
+         "to Sāriputta, giving this discourse its title."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn21.3:1.1-1.5"),
+        ("p", "&sect;2", "sn21.3:2.1-2.14"),
+        ("p", "&sect;3", "sn21.3:3.1-3.8"),
+        ("p", "&sect;4", "sn21.3:4.1-4.3"),
+        ("p", "&sect;5", "sn21.3:5.1-5.3"),
+        ("p", "&sect;6", "sn21.3:6.1-6.4"),
+        ("p", "&sect;7", "sn21.3:7.1"),
+    ],
+    quiz=[
+        {"q": "What does Sāriputta notice about Moggallāna at the start of this discourse?",
+         "opts": [
+             "His unusually clear complexion and bright faculties",
+             "A visible injury",
+             "That he was fasting",
+             "Nothing in particular is noticed"],
+         "correct": 0,
+         "expl": "Prompting Sāriputta's question about what kind of meditation produced it."},
+        {"q": "How did Moggallāna's Dhamma conversation with the Buddha take place, despite the physical distance between them?",
+         "opts": [
+             "Through mutually cleared clairvoyance and clairaudience, with neither traveling to the other",
+             "Moggallāna traveled to Sāvatthī using ordinary walking",
+             "The Buddha traveled to Rājagaha in person",
+             "The conversation is described as impossible and never actually happened"],
+         "correct": 0,
+         "expl": "Removing ordinary physical distance from the account entirely."},
+        {"q": "What question did Moggallāna ask the Buddha during this conversation?",
+         "opts": [
+             "How an energetic person is defined",
+             "How to attain the highest meditative state",
+             "Whether animals can be reborn as humans",
+             "No specific question is asked"],
+         "correct": 0,
+         "expl": "Answered with a vivid, uncompromising formula rather than an abstract definition."},
+        {"q": "What memorable formula does the Buddha use to define being energetic?",
+         "opts": [
+             "Let only skin, sinews, and bones remain, and flesh and blood waste away, rather than stop trying",
+             "A gentle instruction to rest whenever tired",
+             "A recommendation to eat more nutritious food",
+             "No specific formula is given"],
+         "correct": 0,
+         "expl": "Giving the term concrete, almost visceral content."},
+        {"q": "What simile does Sāriputta use to describe his own standing compared to Moggallāna?",
+         "opts": [
+             "A few pieces of gravel next to the Himalayas",
+             "A few grains of salt next to a mound of salt",
+             "A candle next to the sun",
+             "No simile is used"],
+         "correct": 0,
+         "expl": "A distinct image of vast disproportion, chosen specifically for this comparison."},
+        {"q": "How does Moggallāna support his praise of Sāriputta's wisdom?",
+         "opts": [
+             "By quoting a verse in which the Buddha himself has already commended Sāriputta",
+             "By citing his own personal opinion alone",
+             "By comparing Sāriputta unfavorably to other disciples",
+             "No support is given for the praise"],
+         "correct": 0,
+         "expl": "Grounding the compliment in external authority rather than personal assessment alone."},
+        {"q": "Where does this discourse's title, \"A Mound of Salt,\" come from?",
+         "opts": [
+             "The closing exchange of similes, not the central narrative about the psychic conversation",
+             "The location where the Buddha and Moggallāna spoke",
+             "A specific meal shared by the two disciples",
+             "No relationship exists between the title and the content"],
+         "correct": 0,
+         "expl": "Drawn from Moggallāna's closing simile rather than the main narrative event."},
+        {"q": "Where does the conversation between Sāriputta and Moggallāna take place?",
+         "opts": [
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Vesālī, at the Great Wood",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "While the psychic conversation described within it involves the Buddha at Sāvatthī."},
+        {"q": "Who are the two speakers in direct conversation in this discourse?",
+         "opts": [
+             "Venerables Sāriputta and Moggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Venerable Lakkhaṇa and Moggallāna",
+             "Two unnamed junior mendicants"],
+         "correct": 0,
+         "expl": "The saṃyutta's first discourse featuring its two chief disciples speaking directly to each other."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Tatiyaṁ, \"the third\"",
+             "Dutiyaṁ, \"the second\"",
+             "Catutthaṁ, \"the fourth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The third discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("Distance made irrelevant to the conversation itself", [
+            "no travel, no visit, only cleared faculties &mdash;",
+            "an exchange conducted entirely without physical presence",
+        ]),
+        ("Energy given a vivid, almost startling definition", [
+            "skin, sinews, bones, nothing softened about it &mdash;",
+            "an abstract virtue made concrete and visceral",
+        ]),
+        ("Two similes, each precisely chosen", [
+            "gravel against mountains, salt against a mound &mdash;",
+            "disproportion expressed differently by each speaker",
+        ]),
+        ("Praise anchored in the Buddha's own words", [
+            "not personal opinion, but a quoted commendation &mdash;",
+            "the compliment given external, citable authority",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn21.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-21.2.html">SN 21.2 &middot; With Upatissa</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-21.4.html">SN 21.4 &middot; A Junior '
+        "Mendicant</a> &mdash; the next discourse, defending an "
+        "unnamed junior monk's misunderstood conduct.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 21.4 — Navasutta
+# --------------------------------------------------------------------------- #
+page(
+    21, 4, "Nava", "A Junior Mendicant",
+    meta_title="SN 21.4 — A Junior Mendicant | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Navasutta — mendicants complain that a junior monk "
+        "won't help sew robes, but the Buddha reveals he's actually "
+        "absorbed in the four jhānas and has already reached the "
+        "path's culmination. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Several mendicants, an unnamed junior monk, "
+                     "and the Buddha"),
+        ("Form", "A misunderstood absence explained through the "
+                 "Buddha's direct knowledge of the monk's actual "
+                 "inner state"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; a case of appearance and reality "
+                       "diverging sharply, resolved only by the "
+                       "Buddha's own insight"),
+    ],
+    why=(
+        "This discourse concerns a junior monk who, after his meal, "
+        "withdraws into silence and doesn't help the other "
+        "mendicants sew robes. When questioned, he simply says he's "
+        "doing his own work. The other mendicants complain to the "
+        "Buddha, who &mdash; knowing the monk's actual state of mind "
+        "&mdash; corrects them directly: don't complain about him. "
+        "This monk easily and effortlessly attains all four "
+        "absorptions and has already realized the supreme culmination "
+        "of the spiritual path in this very life."),
+    guide=[
+        ("An accusation resolved by knowledge unavailable to the accusers", [
+            "The mendicants' complaint is entirely reasonable given "
+            "what they can observe &mdash; a monk appearing idle "
+            "while others work; the Buddha's correction depends "
+            "entirely on knowledge of the monk's inner state that the "
+            "complaining mendicants have no way of accessing "
+            "themselves."]),
+        ("The monk's own defense left minimal and unexplained", [
+            "When directly questioned, the monk offers only a brief, "
+            "almost dismissive answer &mdash; I am doing my own work "
+            "&mdash; without elaborating or defending himself further, "
+            "leaving the Buddha's subsequent revelation to supply all "
+            "the missing context."]),
+        ("A vindication delivered to the group, not privately to the monk", [
+            "The Buddha's explanation of the monk's actual attainment "
+            "is addressed to the assembled mendicants, correcting "
+            "their misjudgment publicly, rather than being a private "
+            "reassurance offered only to the monk himself."]),
+        ("A stark contrast between apparent laziness and genuine attainment", [
+            "The gap between how the monk's conduct looks (passive, "
+            "unhelpful, self-absorbed) and what it actually reflects "
+            "(effortless mastery of all four absorptions, the "
+            "supreme culmination of the path) is deliberately "
+            "extreme, making the point about appearances as sharp as "
+            "possible."]),
+        ("A closing verse repeating language used elsewhere in this saṃyutta", [
+            "The verse's closing image &mdash; bearing the final "
+            "body, having vanquished Māra with his legions &mdash; "
+            "recurs nearly verbatim in several other discourses in "
+            "this collection, functioning as this saṃyutta's "
+            "standard way of declaring someone's full attainment."]),
+    ],
+    terms=[
+        ("appossukko tuṇhībhūto saṅkasāyati",
+         "&ldquo;adhered to passivity and silence&rdquo; &mdash; "
+         "the outward behavior that prompted the other mendicants' "
+         "complaint."),
+        ("veyyāvaccaṁ … cīvarakārasamaye",
+         "&ldquo;help out … when it was time to sew robes&rdquo; "
+         "&mdash; the specific communal duty the junior monk was "
+         "seen neglecting."),
+        ("ahampi kho, bhante, sakaṁ kiccaṁ karomi",
+         "&ldquo;sir, I am doing my own work&rdquo; &mdash; the "
+         "monk's brief, unelaborated response when questioned "
+         "directly."),
+        ("catunnaṁ jhānānaṁ … nikāmalābhī akicchalābhī akasiralābhī",
+         "&ldquo;gets the four absorptions … when he wants, without "
+         "trouble or difficulty&rdquo; &mdash; the Buddha's "
+         "revelation of the monk's actual, hidden attainment."),
+        ("dhāreti antimaṁ dehaṁ, jetvā māraṁ savāhinin",
+         "&ldquo;bears his final body, having vanquished Māra with "
+         "his legions&rdquo; &mdash; the closing declaration "
+         "repeated nearly verbatim across several discourses in this "
+         "saṃyutta."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn21.4:1.1-1.3"),
+        ("p", "&sect;2", "sn21.4:2.1-2.7"),
+        ("p", "&sect;3", "sn21.4:3.1-3.3"),
+        ("p", "&sect;4", "sn21.4:4.1-4.2"),
+        ("p", "&sect;5", "sn21.4:5.1-5.4"),
+        ("p", "&sect;6", "sn21.4:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What behavior does the junior monk exhibit that prompts complaint?",
+         "opts": [
+             "Withdrawing into passivity and silence, and not helping sew robes",
+             "Speaking too loudly during meals",
+             "Leaving the monastery without permission",
+             "No specific behavior is described"],
+         "correct": 0,
+         "expl": "An entirely reasonable observation given what the mendicants could actually see."},
+        {"q": "How does the monk respond when the Buddha questions him directly?",
+         "opts": [
+             "With a brief, minimal answer: \"I am doing my own work\"",
+             "With an elaborate, detailed defense of his conduct",
+             "By refusing to answer at all",
+             "By immediately apologizing and promising to change"],
+         "correct": 0,
+         "expl": "Leaving the Buddha's subsequent revelation to supply all the missing context."},
+        {"q": "What does the Buddha reveal about this monk's actual inner state?",
+         "opts": [
+             "He easily attains all four absorptions and has realized the supreme culmination of the path",
+             "He is secretly planning to leave the monastic order",
+             "He is suffering from a serious illness",
+             "Nothing is revealed; the Buddha simply excuses the behavior"],
+         "correct": 0,
+         "expl": "Knowledge entirely unavailable to the complaining mendicants themselves."},
+        {"q": "To whom does the Buddha address his explanation of the monk's true attainment?",
+         "opts": [
+             "The assembled mendicants, correcting their misjudgment publicly",
+             "Only the monk himself, privately",
+             "No one; the explanation is never actually given",
+             "Only Venerable Ānanda"],
+         "correct": 0,
+         "expl": "A public correction of the group's misjudgment, not a private reassurance."},
+        {"q": "What is deliberately extreme about the contrast this discourse presents?",
+         "opts": [
+             "The gap between apparent laziness and genuine, effortless mastery of the four absorptions",
+             "The difference in age between the junior monk and the other mendicants",
+             "The physical distance between the monastery and the village",
+             "No particular contrast is emphasized"],
+         "correct": 0,
+         "expl": "Making the point about the unreliability of outward appearances as sharp as possible."},
+        {"q": "What closing image does this discourse share with several others in this saṃyutta?",
+         "opts": [
+             "\"Bears his final body, having vanquished Māra with his legions\"",
+             "A comparison to a mound of salt",
+             "The image of a mangy jackal",
+             "No image is repeated elsewhere"],
+         "correct": 0,
+         "expl": "Functioning as this saṃyutta's standard way of declaring someone's full attainment."},
+        {"q": "Why couldn't the other mendicants have known the truth about this monk on their own?",
+         "opts": [
+             "His actual attainment was an inner state not visible from his outward behavior alone",
+             "They were physically prevented from seeing him at all",
+             "He had explicitly lied to them about his condition",
+             "The text does not suggest any reason for their misunderstanding"],
+         "correct": 0,
+         "expl": "The Buddha's correction depends on knowledge only he could access."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Vesālī, at the Great Wood",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with several discourses in this saṃyutta."},
+        {"q": "Who reports the junior monk's behavior to the Buddha?",
+         "opts": [
+             "Several mendicants",
+             "The junior monk himself",
+             "No one; the Buddha addresses it unprompted",
+             "A layperson who witnessed the behavior"],
+         "correct": 0,
+         "expl": "A concrete complaint prompting the Buddha's corrective response."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Catutthaṁ, \"the fourth\"",
+             "Tatiyaṁ, \"the third\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fourth discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("A reasonable complaint, based on limited information", [
+            "idle-looking, unhelpful, judged from the outside &mdash;",
+            "an accusation the accusers had no way of checking",
+        ]),
+        ("A defense offered without elaboration", [
+            "\"I am doing my own work,\" nothing further said &mdash;",
+            "leaving the real explanation to come from elsewhere",
+        ]),
+        ("Vindication delivered publicly, not privately", [
+            "corrected in front of the whole group &mdash;",
+            "the misjudgment answered where it was made",
+        ]),
+        ("Appearance and attainment pulled as far apart as possible", [
+            "looking lazy, being fully accomplished &mdash;",
+            "the gap made deliberately stark",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn21.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-21.3.html">SN 21.3 &middot; A Mound of Salt</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-21.5.html">SN 21.5 &middot; With Sujāta</a> '
+        "&mdash; the next discourse, another case of the Buddha "
+        "confirming a mendicant's hidden attainment.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 21.5 — Sujātasutta
+# --------------------------------------------------------------------------- #
+page(
+    21, 5, "Sujāta", "With Sujāta",
+    meta_title="SN 21.5 — With Sujāta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Sujātasutta — the Buddha sees a strikingly "
+        "beautiful mendicant approaching and declares he shines in "
+        "two ways at once: outward beauty and inward attainment. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants as Sujāta approaches"),
+        ("Form", "A brief scene of recognition, without dialogue "
+                 "or narrative complication"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; a rare instance in this saṃyutta "
+                       "where outward appearance and inward "
+                       "attainment align rather than diverge"),
+    ],
+    why=(
+        "This discourse describes a simple scene: the Buddha sees "
+        "Venerable Sujāta approaching from a distance and remarks to "
+        "the mendicants that this gentleman shines in both ways at "
+        "once &mdash; he's attractive, good-looking, of surpassing "
+        "beauty, and he has also realized the supreme end of the "
+        "spiritual path in this very life. Unlike SN 21.4's junior "
+        "monk, whose outward appearance actively misled onlookers, "
+        "Sujāta's physical beauty and his genuine attainment are "
+        "both immediately visible and both entirely true."),
+    guide=[
+        ("Alignment, not divergence, between the visible and the real", [
+            "This discourse forms a deliberate contrast with SN "
+            "21.4's junior monk: where that monk's appearance "
+            "actively concealed his real attainment, Sujāta's "
+            "outward beauty and inward achievement are both plainly "
+            "visible and both genuinely accurate, showing this "
+            "saṃyutta doesn't treat appearance as inherently "
+            "unreliable in every case."]),
+        ("Two distinct qualities named as equally worth remarking on", [
+            "The Buddha doesn't treat Sujāta's physical beauty as "
+            "irrelevant or as a mere prelude to the more important "
+            "spiritual point; he names both qualities together, "
+            "ubhayeneva, &ldquo;in both ways,&rdquo; as genuinely "
+            "worth commenting on side by side."]),
+        ("A discourse built on observation, not conversation", [
+            "Unlike most discourses in this saṃyutta, which involve "
+            "dialogue, correction, or explanation, this discourse is "
+            "purely a moment of observation and declaration &mdash; "
+            "no one questions the Buddha, and Sujāta himself doesn't "
+            "speak."]),
+        ("A verse locating the actual source of the shining", [
+            "The closing verse doesn't attribute Sujāta's radiance to "
+            "his physical features at all; it specifies an upright "
+            "heart, being unfettered and detached, and being "
+            "quenched by not grasping as what genuinely constitutes "
+            "his shining, subtly redirecting the emphasis even while "
+            "the prose praised both qualities together."]),
+        ("The same closing declaration used across this saṃyutta", [
+            "This discourse closes with the identical formula used "
+            "in SN 21.4 and several other discourses &mdash; bearing "
+            "the final body, having vanquished Māra with his legions "
+            "&mdash; confirming this phrase functions as this "
+            "saṃyutta's standard closing declaration of complete "
+            "attainment."]),
+    ],
+    terms=[
+        ("sujāta",
+         "&ldquo;Sujāta&rdquo; &mdash; the mendicant whose approach "
+         "prompts this discourse, named directly rather than by "
+         "clan name as with Kolita and Upatissa."),
+        ("ubhayenevāyaṁ … sobhati",
+         "&ldquo;this gentleman shines in both ways&rdquo; &mdash; "
+         "the Buddha's opening observation, naming physical beauty "
+         "and spiritual attainment together."),
+        ("paramāya vaṇṇapokkharatāya samannāgato",
+         "&ldquo;of surpassing beauty&rdquo; &mdash; the specific "
+         "description of Sujāta's physical appearance."),
+        ("vippayutto visaṁyutto anupādāya nibbuto",
+         "&ldquo;unfettered, detached, quenched by not "
+         "grasping&rdquo; &mdash; the closing verse's actual "
+         "location of Sujāta's radiance, redirecting emphasis from "
+         "appearance to inner freedom."),
+        ("dhāreti antimaṁ dehaṁ, jetvā māraṁ savāhinin",
+         "&ldquo;bears his final body, having vanquished Māra with "
+         "his legions&rdquo; &mdash; the same closing declaration "
+         "used in SN 21.4 and elsewhere in this saṃyutta."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn21.5:1.1-1.8"),
+        ("p", "&sect;2", "sn21.5:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha say about Sujāta when he sees him approaching?",
+         "opts": [
+             "That he shines in both ways — physical beauty and spiritual attainment",
+             "That his appearance is entirely misleading",
+             "That he has not yet achieved anything of note",
+             "Nothing is said; the Buddha remains silent"],
+         "correct": 0,
+         "expl": "Naming both qualities together, worth remarking on side by side."},
+        {"q": "How does this discourse contrast with SN 21.4's junior monk?",
+         "opts": [
+             "Sujāta's appearance and genuine attainment align, unlike the junior monk's misleading appearance",
+             "The two discourses describe exactly the same situation",
+             "Sujāta's appearance is shown to be equally misleading",
+             "There is no meaningful contrast between the two discourses"],
+         "correct": 0,
+         "expl": "Showing this saṃyutta doesn't treat appearance as inherently unreliable in every case."},
+        {"q": "Does the Buddha treat Sujāta's physical beauty as irrelevant compared to his spiritual attainment?",
+         "opts": [
+             "No — he names both qualities together as genuinely worth commenting on",
+             "Yes, he dismisses the physical beauty entirely",
+             "Yes, he criticizes Sujāta for his appearance",
+             "The discourse does not mention physical appearance at all"],
+         "correct": 0,
+         "expl": "Both qualities named side by side, not one dismissed in favor of the other."},
+        {"q": "What form does this discourse take, compared to most others in this saṃyutta?",
+         "opts": [
+             "Pure observation and declaration, with no dialogue or conversation",
+             "An extended debate between two disciples",
+             "A first-person report from the subject himself",
+             "A formal legal proceeding"],
+         "correct": 0,
+         "expl": "No one questions the Buddha, and Sujāta himself doesn't speak."},
+        {"q": "What does the closing verse identify as the actual source of Sujāta's shining?",
+         "opts": [
+             "An upright heart, being unfettered and detached, quenched by not grasping",
+             "His physical beauty alone",
+             "His skill in formal debate",
+             "No source is identified in the verse"],
+         "correct": 0,
+         "expl": "Subtly redirecting emphasis from appearance to inner freedom, even after both were praised together."},
+        {"q": "What closing declaration does this discourse share with SN 21.4?",
+         "opts": [
+             "\"Bears his final body, having vanquished Māra with his legions\"",
+             "A comparison to a mound of salt",
+             "The image of geese fearing a lion",
+             "No declaration is repeated"],
+         "correct": 0,
+         "expl": "Confirming this phrase as this saṃyutta's standard closing declaration of complete attainment."},
+        {"q": "How is Sujāta identified in this discourse's title, compared to Kolita and Upatissa in SN 21.1-2?",
+         "opts": [
+             "By his given name directly, rather than by a clan name",
+             "By an entirely anonymous description",
+             "By his monastic rank alone",
+             "No name is given at all"],
+         "correct": 0,
+         "expl": "A direct personal name, unlike the clan-name titles of the saṃyutta's first two discourses."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Vesālī, at the Great Wood",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with several discourses in this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "Sujāta himself",
+             "Venerable Ānanda"],
+         "correct": 0,
+         "expl": "No interlocutor appears; Sujāta himself never speaks in this discourse."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Pañcamaṁ, \"the fifth\"",
+             "Catutthaṁ, \"the fourth\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fifth discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("Appearance and reality finally in agreement", [
+            "not concealment this time, but plain accuracy &mdash;",
+            "beauty and attainment both genuinely true at once",
+        ]),
+        ("Two qualities named side by side, neither dismissed", [
+            "\"shines in both ways,\" said without qualification &mdash;",
+            "physical beauty treated as worth noting too",
+        ]),
+        ("A scene with no dialogue at all", [
+            "no question asked, no explanation needed &mdash;",
+            "observation alone carrying the whole discourse",
+        ]),
+        ("A verse quietly relocating where the shining comes from", [
+            "not the face, but an unfettered heart &mdash;",
+            "emphasis shifted after both were praised together",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn21.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-21.4.html">SN 21.4 &middot; A Junior '
+        "Mendicant</a> &mdash; the discourse immediately before "
+        "this one.",
+        '<a href="sn-21.6.html">SN 21.6 &middot; With Bhaddiya the '
+        "Dwarf</a> &mdash; the next discourse, reversing this "
+        "discourse's pairing of beauty and attainment entirely.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 21.6 — Lakuṇḍakabhaddiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    21, 6, "Lakuṇḍakabhaddiya", "With Bhaddiya the Dwarf",
+    meta_title="SN 21.6 — With Bhaddiya the Dwarf | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Lakuṇḍakabhaddiyasutta — the Buddha points out a "
+        "monk despised for his ugliness and deformity, then reveals "
+        "his extraordinary attainment, closing with a verse on wisdom "
+        "outweighing physical stature. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants as Bhaddiya approaches"),
+        ("Form", "The exact reverse pairing of SN 21.5, unattractive "
+                 "appearance alongside genuine attainment"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; the deliberate reverse image of the "
+                       "discourse immediately before it"),
+    ],
+    why=(
+        "This discourse deliberately reverses SN 21.5's pairing: "
+        "rather than beauty and attainment appearing together, the "
+        "Buddha points to Venerable Bhaddiya the Dwarf &mdash; "
+        "described bluntly as ugly, unsightly, deformed, and "
+        "despised by the other mendicants &mdash; and declares that "
+        "this same monk is very mighty and powerful, with almost no "
+        "attainment left for him to reach. The closing verse "
+        "compares this to how all creatures, regardless of relative "
+        "size, fear the lion, and how a small but wise person is the "
+        "truly great one, not a large fool."),
+    guide=[
+        ("A deliberate structural mirror of the discourse before it", [
+            "Placed immediately after SN 21.5's beautiful and "
+            "accomplished Sujāta, this discourse pairs the opposite "
+            "physical description with the identical spiritual "
+            "conclusion, making the point that physical appearance "
+            "carries no predictive value in either direction, "
+            "attractive or unattractive."]),
+        ("The despised status named as fact, not softened", [
+            "The description of Bhaddiya isn't limited to physical "
+            "unattractiveness; it specifically adds paribhūtarūpaṁ, "
+            "&ldquo;despised,&rdquo; naming the social contempt other "
+            "mendicants actually direct at him, not merely an "
+            "unflattering appearance in the abstract."]),
+        ("Animals of varying size unified by a single shared fear", [
+            "The verse's opening list &mdash; geese, herons, "
+            "peacocks, elephants, spotted deer &mdash; spans a wide "
+            "range of sizes and kinds, yet all are said to fear the "
+            "lion equally, establishing that raw physical scale "
+            "doesn't determine actual standing before something "
+            "genuinely formidable."]),
+        ("A comparison extended directly from animals to humans", [
+            "The verse doesn't leave the lion simile as a standalone "
+            "observation about animals; it explicitly draws the "
+            "parallel to humans in its very next line, naming a "
+            "wise small person as truly great regardless of "
+            "physical stature."]),
+        ("This saṃyutta's clearest statement of its recurring theme", [
+            "Read together, SN 21.4 through 21.6 form this "
+            "saṃyutta's most concentrated sequence on the "
+            "unreliability of outward appearance &mdash; misleading "
+            "laziness, aligned beauty, and now despised ugliness, "
+            "each tested against genuine inner attainment in turn."]),
+    ],
+    terms=[
+        ("dubbaṇṇaṁ duddasikaṁ okoṭimakaṁ",
+         "&ldquo;ugly, unsightly, deformed&rdquo; &mdash; the "
+         "blunt physical description this discourse opens with, "
+         "naming Bhaddiya's appearance without euphemism."),
+        ("bhikkhūnaṁ paribhūtarūpaṁ",
+         "&ldquo;despised by the mendicants&rdquo; &mdash; the "
+         "specific social contempt named, not merely an unflattering "
+         "appearance in the abstract."),
+        ("mahiddhiko mahānubhāvo",
+         "&ldquo;very mighty and powerful&rdquo; &mdash; the "
+         "Buddha's declaration about Bhaddiya's actual attainment, "
+         "directly contradicting how he's treated by his peers."),
+        ("sīhassa bhāyanti",
+         "&ldquo;fear the lion&rdquo; &mdash; the shared response "
+         "of animals of vastly different sizes, establishing that "
+         "scale doesn't determine standing before genuine power."),
+        ("daharo cepi paññavā",
+         "&ldquo;if a little person is wise&rdquo; &mdash; the "
+         "verse's direct extension of the lion simile from animals "
+         "to humans, naming wisdom rather than stature as what "
+         "makes someone truly great."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn21.6:1.1-1.10"),
+        ("p", "&sect;2", "sn21.6:2.1-2.4"),
+        ("p", "&sect;3", "sn21.6:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse describe Venerable Bhaddiya's physical appearance?",
+         "opts": [
+             "Ugly, unsightly, deformed, and despised by the other mendicants",
+             "Attractive and of surpassing beauty",
+             "Ordinary and unremarkable",
+             "No physical description is given"],
+         "correct": 0,
+         "expl": "A blunt description, including specific social contempt, not merely an unflattering physical trait."},
+        {"q": "How does this discourse relate structurally to SN 21.5?",
+         "opts": [
+             "It deliberately reverses the physical description while reaching the identical spiritual conclusion",
+             "It repeats SN 21.5 exactly with no variation",
+             "It contradicts SN 21.5's claim about spiritual attainment",
+             "It has no relationship to SN 21.5"],
+         "correct": 0,
+         "expl": "Showing that appearance, whether attractive or unattractive, carries no predictive value about attainment."},
+        {"q": "What does the Buddha declare about Bhaddiya despite his appearance?",
+         "opts": [
+             "That he is very mighty and powerful, with almost no attainment left to reach",
+             "That his appearance accurately reflects his lack of progress",
+             "That he should be pitied for his condition",
+             "Nothing further is said about him"],
+         "correct": 0,
+         "expl": "Directly contradicting how he's treated by his peers."},
+        {"q": "What do the animals named in the closing verse have in common, despite their different sizes?",
+         "opts": [
+             "They all fear the lion, regardless of their own relative size",
+             "They are all predators themselves",
+             "They are all incapable of fear",
+             "No animals are named in this discourse"],
+         "correct": 0,
+         "expl": "Establishing that raw physical scale doesn't determine standing before something genuinely formidable."},
+        {"q": "How does the verse extend this animal comparison to humans?",
+         "opts": [
+             "By declaring that a wise small person is truly great, not a large fool",
+             "By claiming humans are entirely exempt from any such comparison",
+             "By stating that only physical size matters for humans",
+             "No extension to humans is made"],
+         "correct": 0,
+         "expl": "Naming wisdom rather than stature as what makes someone genuinely great."},
+        {"q": "What sequence do SN 21.4 through 21.6 form together, according to this reading guide?",
+         "opts": [
+             "This saṃyutta's most concentrated sequence testing outward appearance against genuine inner attainment",
+             "An unrelated set of three isolated discourses",
+             "A sequence entirely about monastic robes",
+             "A direct contradiction of each other's claims"],
+         "correct": 0,
+         "expl": "Misleading laziness, aligned beauty, and despised ugliness, each tested in turn."},
+        {"q": "What specific term names the social contempt Bhaddiya faces from other mendicants?",
+         "opts": [
+             "Paribhūtarūpaṁ, \"despised\"",
+             "Sammuti, \"convention\"",
+             "Pasāda, \"confidence\"",
+             "No specific term is used"],
+         "correct": 0,
+         "expl": "Naming actual social contempt, not merely describing an unflattering appearance in the abstract."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Vesālī, at the Great Wood",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with several discourses in this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "Bhaddiya himself",
+             "Venerable Ānanda"],
+         "correct": 0,
+         "expl": "No interlocutor appears; Bhaddiya himself never speaks in this discourse."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The sixth discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("The exact reverse of the discourse just before it", [
+            "not beauty this time, but open contempt &mdash;",
+            "the same conclusion reached from the opposite direction",
+        ]),
+        ("Contempt named directly, not left implied", [
+            "\"despised by the mendicants,\" stated outright &mdash;",
+            "actual social treatment, not merely unflattering looks",
+        ]),
+        ("Every size, the same fear before the lion", [
+            "geese, elephants, deer, all equally afraid &mdash;",
+            "scale proving irrelevant before real power",
+        ]),
+        ("A pattern completing itself across three discourses", [
+            "misleading, aligned, then reversed appearance &mdash;",
+            "the theme tested from every angle in turn",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn21.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-21.5.html">SN 21.5 &middot; With Sujāta</a> '
+        "&mdash; the discourse this one deliberately reverses.",
+        '<a href="sn-21.7.html">SN 21.7 &middot; With Visākha, '
+        "Pañcāli&rsquo;s Son</a> &mdash; the next discourse, "
+        "turning to a mendicant praised for his skill in teaching.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 21.7 — Visākhasutta
+# --------------------------------------------------------------------------- #
+page(
+    21, 7, "Visākha", "With Visākha, Pañcāli's Son",
+    meta_title="SN 21.7 — With Visākha, Pañcāli's Son | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Visākhasutta — the Buddha praises a mendicant's "
+        "polished, clear, and independent Dhamma talk, then closes "
+        "with a verse on the seers' banner of well-spoken words. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, the Great Wood"),
+        ("Speakers", "The Buddha, asking who was speaking, and "
+                     "directly commending Visākha"),
+        ("Form", "A teaching praised after the fact, rather than "
+                 "delivered or corrected in the moment"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; a rare instance in this saṃyutta of "
+                       "unqualified praise with no correction "
+                       "attached"),
+    ],
+    why=(
+        "This discourse describes Venerable Visākha, Pañcāli's son, "
+        "teaching the mendicants in the assembly hall with words the "
+        "text specifically calls polished, clear, articulate, "
+        "comprehensive, and independent. The Buddha, coming out of "
+        "retreat, asks who was speaking, and upon learning it was "
+        "Visākha, offers direct, repeated praise: good, good, "
+        "Visākha. Unlike several other discourses in this saṃyutta, "
+        "this one contains no correction, no misjudgment to resolve, "
+        "and no hidden state to reveal &mdash; only straightforward "
+        "commendation."),
+    guide=[
+        ("A teaching evaluated after the fact, not witnessed directly", [
+            "The Buddha doesn't hear Visākha's teaching from the "
+            "start; he arrives after the talk is already underway "
+            "and must ask who has been speaking, structuring the "
+            "discourse around recognition and confirmation rather "
+            "than direct observation from the beginning."]),
+        ("Five specific qualities named for the teaching itself", [
+            "The description of Visākha's speech doesn't simply say "
+            "it was good; it specifies five distinct qualities "
+            "&mdash; polished, clear, articulate, comprehensive, and "
+            "independent &mdash; giving a concrete standard for what "
+            "makes a Dhamma talk effective."]),
+        ("Praise given without qualification or accompanying correction", [
+            "Unlike SN 21.9's Tissa, who receives both encouragement "
+            "and a pointed correction, or SN 21.10's Senior, whose "
+            "practice is affirmed but also refined, this discourse "
+            "gives Visākha unmixed approval, with nothing held back "
+            "or added as a caveat."]),
+        ("A verse locating the source of authority in speech itself, not the speaker's status", [
+            "The closing verse doesn't praise Visākha's personal "
+            "standing or credentials; it observes that even a wise "
+            "person mixed among fools goes unrecognized until they "
+            "actually speak, locating genuine authority in the "
+            "content and quality of what's said rather than in any "
+            "prior reputation."]),
+        ("An image of the seers' banner closing the discourse", [
+            "The verse's final image &mdash; well-spoken words as the "
+            "banner of the seers, since the teaching itself is that "
+            "banner &mdash; gives this discourse a distinctive closing "
+            "figure not repeated elsewhere in this saṃyutta, "
+            "specifically honoring the act of skillful teaching."]),
+    ],
+    terms=[
+        ("visākho pañcālaputto",
+         "&ldquo;Visākha, Pañcāli's son&rdquo; &mdash; this "
+         "discourse's subject, identified by both his own name and "
+         "his father's."),
+        ("poriyā vācāya vissaṭṭhāya anelagalāya",
+         "&ldquo;polished, clear, articulate&rdquo; &mdash; three "
+         "of the five specific qualities the text uses to describe "
+         "Visākha's Dhamma talk."),
+        ("atthassa viññāpaniyā pariyāpannāya anissitāya",
+         "&ldquo;expressing the meaning, comprehensive, and "
+         "independent&rdquo; &mdash; the remaining two of the five "
+         "qualities completing the description."),
+        ("sādhu sādhu, visākha",
+         "&ldquo;good, good, Visākha!&rdquo; &mdash; the Buddha's "
+         "direct, repeated commendation, offered without any "
+         "accompanying correction."),
+        ("subhāsitadhajā isayo",
+         "&ldquo;well-spoken words are the seers' banner&rdquo; "
+         "&mdash; the verse's closing image, honoring the act of "
+         "skillful teaching specifically."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn21.7:1.1-1.3"),
+        ("p", "&sect;2", "sn21.7:2.1-2.4"),
+        ("p", "&sect;3", "sn21.7:3.1-3.3"),
+        ("p", "&sect;4", "sn21.7:4.1-4.2"),
+        ("p", "&sect;5", "sn21.7:5.1-5.4"),
+        ("p", "&sect;6", "sn21.7:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha do upon coming out of retreat in this discourse?",
+         "opts": [
+             "He asks who has been teaching the mendicants, having arrived after the talk was already underway",
+             "He immediately begins teaching himself",
+             "He silently observes without asking any question",
+             "He reprimands the mendicants for talking"],
+         "correct": 0,
+         "expl": "Structuring the discourse around recognition and confirmation rather than direct observation from the start."},
+        {"q": "What five qualities does the text specifically attribute to Visākha's teaching?",
+         "opts": [
+             "Polished, clear, articulate, comprehensive, and independent",
+             "Loud, forceful, dramatic, emotional, and lengthy",
+             "Brief, vague, general, informal, and casual",
+             "No specific qualities are named"],
+         "correct": 0,
+         "expl": "A concrete standard for what makes a Dhamma talk effective, not a vague general compliment."},
+        {"q": "How does the Buddha's response to Visākha compare to his responses in other discourses in this saṃyutta?",
+         "opts": [
+             "It is unmixed praise, with no correction or caveat attached",
+             "It includes a pointed correction alongside the praise",
+             "It is entirely critical with no praise at all",
+             "The Buddha makes no response of any kind"],
+         "correct": 0,
+         "expl": "Unlike Tissa in SN 21.9 or the Senior in SN 21.10, who receive both approval and refinement."},
+        {"q": "What does the closing verse say about a wise person mixed among fools?",
+         "opts": [
+             "They go unrecognized until they actually speak",
+             "They are always immediately recognized by their appearance",
+             "They should avoid speaking in public at all",
+             "No such observation is made"],
+         "correct": 0,
+         "expl": "Locating genuine authority in the content and quality of speech rather than prior reputation."},
+        {"q": "What image closes this discourse's verse?",
+         "opts": [
+             "Well-spoken words as the seers' banner",
+             "A comparison to a mound of salt",
+             "The image of a mangy jackal",
+             "No image closes the verse"],
+         "correct": 0,
+         "expl": "A distinctive closing figure specifically honoring the act of skillful teaching."},
+        {"q": "How is Visākha identified in this discourse's title?",
+         "opts": [
+             "By both his own name and his father's — Visākha, Pañcāli's son",
+             "By a clan name alone",
+             "By an anonymous description only",
+             "No name is given at all"],
+         "correct": 0,
+         "expl": "A fuller identification than the clan-name titles of Kolita or Upatissa."},
+        {"q": "What was Visākha doing when the Buddha arrived at the assembly hall?",
+         "opts": [
+             "Educating, encouraging, firing up, and inspiring the mendicants with a Dhamma talk",
+             "Sitting in silent meditation",
+             "Sewing robes with the other mendicants",
+             "Nothing in particular; he was resting"],
+         "correct": 0,
+         "expl": "An active teaching already underway before the Buddha's arrival."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Vesālī, at the Great Wood, in the hall with the peaked roof",
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "A setting distinct from the Sāvatthī-based framing common elsewhere in this saṃyutta."},
+        {"q": "Who confirms to the Buddha that it was Visākha teaching?",
+         "opts": [
+             "The mendicants present in the assembly hall",
+             "Visākha himself, unprompted",
+             "No one confirms it; the Buddha already knew",
+             "Venerable Ānanda alone"],
+         "correct": 0,
+         "expl": "A direct answer to the Buddha's question about who had been speaking."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Sattamaṁ, \"the seventh\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The seventh discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("Recognition arriving after the fact", [
+            "the Buddha asking who spoke, not witnessing it firsthand &mdash;",
+            "confirmation replacing direct observation from the start",
+        ]),
+        ("Five named qualities, not a vague compliment", [
+            "polished, clear, articulate, comprehensive, independent &mdash;",
+            "a concrete standard given for effective teaching",
+        ]),
+        ("Praise with nothing held back or added", [
+            "\"good, good,\" said twice, no correction attached &mdash;",
+            "rare unmixed approval in this saṃyutta",
+        ]),
+        ("Authority located in speech itself, not standing", [
+            "unrecognized until the words are actually spoken &mdash;",
+            "quality of teaching mattering more than reputation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn21.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-21.6.html">SN 21.6 &middot; With Bhaddiya the '
+        "Dwarf</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-21.8.html">SN 21.8 &middot; With Nanda</a> '
+        "&mdash; the next discourse, turning to a corrective "
+        "instruction for the Buddha's own cousin.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 21.8 — Nandasutta
+# --------------------------------------------------------------------------- #
+page(
+    21, 8, "Nanda", "With Nanda",
+    meta_title="SN 21.8 — With Nanda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Nandasutta — the Buddha corrects his own cousin "
+        "Nanda for dressing too finely, and later reports that Nanda "
+        "took the correction to heart. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing his cousin Venerable "
+                     "Nanda directly"),
+        ("Form", "A direct correction of a specific, visible "
+                 "practice, followed by confirmation the correction "
+                 "was heeded"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; the first discourse in this "
+                       "saṃyutta naming a family relationship to "
+                       "the Buddha directly"),
+    ],
+    why=(
+        "This discourse describes Venerable Nanda, the Buddha's own "
+        "cousin on his mother's side, arriving dressed in nicely "
+        "pressed and ironed robes, wearing eyeshadow, and carrying a "
+        "polished bowl. The Buddha tells him directly that this "
+        "isn't appropriate for someone who went forth out of faith; "
+        "what's appropriate instead is living in the wilderness, "
+        "eating only almsfood, wearing rag robes, and living without "
+        "concern for sensual pleasures. The discourse closes by "
+        "confirming that Nanda later did exactly that."),
+    guide=[
+        ("A family relationship named directly, without special treatment implied", [
+            "This is the first discourse in the saṃyutta to identify "
+            "its subject's specific blood relationship to the "
+            "Buddha; rather than softening the correction because of "
+            "that relationship, the discourse shows the correction "
+            "delivered with the same directness used for any other "
+            "mendicant."]),
+        ("Specific, visible details named rather than a general accusation", [
+            "The Buddha doesn't tell Nanda he's being vain or "
+            "improper in general terms; he names three precise "
+            "details &mdash; the pressed and ironed robes, the "
+            "eyeshadow, the glazed bowl &mdash; each a concrete, "
+            "checkable fact rather than a vague impression."]),
+        ("An alternative offered in equally concrete terms", [
+            "Just as the criticism is specific, so is the "
+            "alternative: wilderness dwelling, almsfood only, rag "
+            "robes, no concern for sensual pleasures &mdash; four "
+            "matching concrete practices replacing the four specific "
+            "behaviors named as inappropriate."]),
+        ("A correction confirmed as actually followed, not left open", [
+            "Unlike several other discourses in this saṃyutta that "
+            "end with a teaching or declaration, this discourse "
+            "explicitly reports the outcome afterward: some time "
+            "later, Nanda did in fact live exactly as instructed, "
+            "closing the account with confirmed follow-through rather "
+            "than leaving the correction's effect unstated."]),
+        ("A closing verse expressing anticipation rather than declaration", [
+            "Where several other discourses in this saṃyutta close "
+            "with a verse declaring someone's already-achieved "
+            "attainment, this discourse's verse is phrased as a "
+            "question &mdash; when will I see Nanda living this way? "
+            "&mdash; anticipating a future change rather than "
+            "confirming a present accomplishment."]),
+    ],
+    terms=[
+        ("bhagavato mātucchāputto",
+         "&ldquo;the Buddha's cousin on his mother's side&rdquo; "
+         "&mdash; the first explicit family relationship named "
+         "directly in this saṃyutta."),
+        ("ākoṭitapaccākoṭitāni cīvarāni … akkhīni añjetvā … acchaṁ "
+         "pattaṁ",
+         "&ldquo;nicely pressed and ironed robes … applied "
+         "eyeshadow … a glazed bowl&rdquo; &mdash; the three "
+         "specific, visible details the Buddha names rather than a "
+         "general accusation of vanity."),
+        ("āraññiko … piṇḍapātiko … paṁsukūliko … kāmesu anapekkho",
+         "&ldquo;in the wilderness … almsfood only … rag robes … "
+         "unconcerned for sensual pleasures&rdquo; &mdash; the four "
+         "concrete alternative practices offered in place of the "
+         "criticized behaviors."),
+        ("kadāhaṁ nandaṁ passeyyaṁ",
+         "&ldquo;when will I see Nanda&rdquo; &mdash; the closing "
+         "verse's anticipatory phrasing, distinct from this "
+         "saṃyutta's more common declarations of already-achieved "
+         "attainment."),
+        ("aparena samayena … vihāsi",
+         "&ldquo;some time later … lived [this way]&rdquo; &mdash; "
+         "the discourse's explicit confirmation that Nanda actually "
+         "followed the Buddha's correction."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn21.8:1.1-1.6"),
+        ("p", "&sect;2", "sn21.8:2.1-2.4"),
+        ("p", "&sect;3", "sn21.8:3.1"),
+    ],
+    quiz=[
+        {"q": "What relationship does this discourse name between the Buddha and its subject?",
+         "opts": [
+             "Nanda is the Buddha's cousin on his mother's side",
+             "Nanda is the Buddha's biological brother",
+             "No family relationship is mentioned",
+             "Nanda is described as an unrelated stranger"],
+         "correct": 0,
+         "expl": "The first discourse in this saṃyutta to identify its subject's specific blood relationship to the Buddha."},
+        {"q": "What specific details does the Buddha name in his correction of Nanda?",
+         "opts": [
+             "Nicely pressed and ironed robes, eyeshadow, and a glazed bowl",
+             "A vague accusation of general vanity with no specifics",
+             "Nanda's manner of speaking to other mendicants",
+             "No specific details are given"],
+         "correct": 0,
+         "expl": "Three precise, checkable facts rather than a vague impression."},
+        {"q": "What alternative practice does the Buddha recommend to Nanda?",
+         "opts": [
+             "Living in the wilderness, eating only almsfood, wearing rag robes, and being unconcerned with sensual pleasures",
+             "Returning immediately to lay life",
+             "Taking a vow of complete silence",
+             "No alternative is offered"],
+         "correct": 0,
+         "expl": "Four matching concrete practices, replacing the four specific criticized behaviors."},
+        {"q": "How does this discourse confirm the outcome of the Buddha's correction?",
+         "opts": [
+             "It explicitly reports that some time later, Nanda did in fact live exactly as instructed",
+             "It leaves the outcome entirely unstated",
+             "It reports that Nanda ignored the correction completely",
+             "It states that Nanda left the monastic order instead"],
+         "correct": 0,
+         "expl": "Confirmed follow-through, unlike discourses that end without reporting the outcome."},
+        {"q": "How does this discourse's closing verse differ from several others in this saṃyutta?",
+         "opts": [
+             "It is phrased as a question anticipating future change, rather than declaring an already-achieved attainment",
+             "It is identical in form to every other closing verse in the saṃyutta",
+             "It contains no verse at all",
+             "It declares an attainment that has already occurred"],
+         "correct": 0,
+         "expl": "Anticipation rather than confirmation, distinct from this saṃyutta's more common declarations."},
+        {"q": "Does the Buddha soften his correction because Nanda is his relative?",
+         "opts": [
+             "No — the correction is delivered with the same directness used for any other mendicant",
+             "Yes, he avoids naming any specific fault",
+             "Yes, he delivers the correction only in private, unlike other discourses",
+             "The discourse does not address this question"],
+         "correct": 0,
+         "expl": "No special treatment implied by the family relationship."},
+        {"q": "What was Nanda wearing on his eyes, according to this discourse?",
+         "opts": [
+             "Eyeshadow",
+             "A blindfold",
+             "Nothing unusual is mentioned about his eyes",
+             "Protective goggles"],
+         "correct": 0,
+         "expl": "One of the three specific, visible details the Buddha names in his correction."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Vesālī, at the Great Wood",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with several discourses in this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse's main correction?",
+         "opts": [
+             "The Buddha, addressing Nanda directly",
+             "Venerable Sāriputta",
+             "Nanda himself, defending his conduct",
+             "Venerable Ānanda"],
+         "correct": 0,
+         "expl": "A direct address, with Nanda's own response not recorded in the discourse itself."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "Navamaṁ, \"the ninth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eighth discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("A relationship named, but no special leniency granted", [
+            "his own cousin, corrected just as directly &mdash;",
+            "family standing carrying no exemption from criticism",
+        ]),
+        ("Specific facts, not a vague charge of vanity", [
+            "pressed robes, eyeshadow, a glazed bowl, named exactly &mdash;",
+            "criticism anchored to checkable detail",
+        ]),
+        ("An alternative matched point for point", [
+            "wilderness, almsfood, rag robes, no concern for pleasure &mdash;",
+            "four practices answering four specific faults",
+        ]),
+        ("Follow-through actually confirmed, not left open", [
+            "\"some time later, he did,\" stated plainly &mdash;",
+            "the correction's effect reported, not merely hoped for",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn21.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-21.7.html">SN 21.7 &middot; With Visākha, '
+        "Pañcāli&rsquo;s Son</a> &mdash; the discourse immediately "
+        "before this one.",
+        '<a href="sn-21.9.html">SN 21.9 &middot; With Tissa</a> '
+        "&mdash; the next discourse, another named relative "
+        "receiving direct correction.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 21.9 — Tissasutta
+# --------------------------------------------------------------------------- #
+page(
+    21, 9, "Tissa", "With Tissa",
+    meta_title="SN 21.9 — With Tissa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Tissasutta — the Buddha's cousin Tissa is found in "
+        "tears after being mocked, and the Buddha identifies the "
+        "actual cause: he criticizes others but can't accept "
+        "criticism himself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and Venerable Tissa, his cousin"),
+        ("Form", "A visibly distressed mendicant's complaint met "
+                 "with a diagnosis of his own contributing behavior"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; a second discourse concerning a "
+                       "named relative, this time responding to "
+                       "visible emotional distress"),
+    ],
+    why=(
+        "This discourse finds Venerable Tissa, the Buddha's cousin "
+        "on his father's side, sitting miserable and in tears. When "
+        "the Buddha asks why, Tissa explains that the mendicants "
+        "have been sneering and jeering at him. Rather than simply "
+        "sympathizing, the Buddha identifies the actual root of the "
+        "problem: Tissa admonishes others but doesn't accept "
+        "admonition himself &mdash; and the appropriate response is "
+        "to do both, not merely the first."),
+    guide=[
+        ("Visible distress named before any diagnosis is offered", [
+            "Unlike most discourses in this saṃyutta, which open "
+            "with an action or a statement, this discourse opens "
+            "with Tissa's physical and emotional state described "
+            "directly &mdash; miserable, sad, in tears &mdash; before "
+            "any explanation for it is given."]),
+        ("A complaint accepted as accurate but reframed as incomplete", [
+            "The Buddha doesn't dispute that Tissa was mocked; he "
+            "accepts the complaint as true while adding a further "
+            "layer Tissa hadn't mentioned &mdash; that Tissa himself "
+            "criticizes others while being unable to accept "
+            "criticism in return, making him at least partly "
+            "responsible for the dynamic he's now suffering from."]),
+        ("A specific double standard named precisely", [
+            "The failing isn't described vaguely as bad temperament; "
+            "it's named exactly as vattā no ca vacanakkhamo, "
+            "&ldquo;one who admonishes but doesn't accept "
+            "admonition,&rdquo; a precise asymmetry between what "
+            "Tissa expects from others and what he's willing to "
+            "receive himself."]),
+        ("A remedy stated as balanced practice, not simple restraint", [
+            "The Buddha's proposed correction isn't that Tissa "
+            "should stop admonishing others altogether; it's that he "
+            "should be someone who both admonishes and accepts "
+            "admonition, retaining the legitimate practice while "
+            "adding the missing half."]),
+        ("A verse addressing anger directly, closing on removal of specific faults", [
+            "The closing verse speaks to anger by name, not merely "
+            "as background psychology, and states plainly that the "
+            "spiritual life is lived specifically to remove anger, "
+            "conceit, and denigration &mdash; naming Tissa's actual "
+            "underlying faults rather than a general aspiration."]),
+    ],
+    terms=[
+        ("bhagavato pitucchāputto",
+         "&ldquo;the Buddha's cousin on his father's side&rdquo; "
+         "&mdash; Tissa's specific family relationship, distinct "
+         "from Nanda's in the discourse before this one."),
+        ("dukkhī dummano assūni pavattayamāno",
+         "&ldquo;miserable and sad, with tears flowing&rdquo; "
+         "&mdash; Tissa's visible state, described before any "
+         "explanation is given for it."),
+        ("vācāyasannitodakena sañjambharimakaṁsu",
+         "&ldquo;beset me on all sides with sneering and "
+         "jeering&rdquo; &mdash; Tissa's own account of what the "
+         "other mendicants did to him."),
+        ("vattā no ca vacanakkhamo",
+         "&ldquo;admonishes others but doesn't accept admonition "
+         "himself&rdquo; &mdash; the precise double standard the "
+         "Buddha identifies as the actual root of Tissa's distress."),
+        ("kodhamānamakkhavinayattha",
+         "&ldquo;in order to remove anger, conceit, and "
+         "denigration&rdquo; &mdash; the verse's direct naming of "
+         "the specific faults the spiritual life is meant to address."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn21.9:1.1-1.8"),
+        ("p", "&sect;2", "sn21.9:2.1-2.2"),
+        ("p", "&sect;3", "sn21.9:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What condition is Tissa found in at the start of this discourse?",
+         "opts": [
+             "Miserable and sad, with tears flowing, described before any explanation is given",
+             "Cheerful and confident",
+             "Physically injured",
+             "Absorbed in deep meditation"],
+         "correct": 0,
+         "expl": "Visible distress named directly, unlike most discourses in this saṃyutta that open with an action or statement."},
+        {"q": "What does Tissa say caused his distress?",
+         "opts": [
+             "The mendicants sneering and jeering at him on all sides",
+             "A physical injury he sustained",
+             "Losing an important debate",
+             "No cause is given"],
+         "correct": 0,
+         "expl": "Tissa's own account, which the Buddha accepts as accurate."},
+        {"q": "Does the Buddha dispute that Tissa was mocked?",
+         "opts": [
+             "No — he accepts it as true while adding a further explanation Tissa hadn't mentioned",
+             "Yes, he claims the mocking never happened",
+             "Yes, he blames the other mendicants entirely with no further comment",
+             "The Buddha refuses to discuss the matter at all"],
+         "correct": 0,
+         "expl": "Reframing the complaint as incomplete rather than disputing its accuracy."},
+        {"q": "What specific failing does the Buddha identify in Tissa?",
+         "opts": [
+             "He admonishes others but doesn't accept admonition himself",
+             "He never speaks to any other mendicant",
+             "He refuses to eat almsfood",
+             "No specific failing is identified"],
+         "correct": 0,
+         "expl": "A precise asymmetry between what Tissa expects from others and what he's willing to receive."},
+        {"q": "What remedy does the Buddha propose?",
+         "opts": [
+             "That Tissa should both admonish others and accept admonition himself, not simply stop admonishing",
+             "That Tissa should never speak to anyone about their conduct again",
+             "That Tissa should leave the monastic community",
+             "No remedy is proposed"],
+         "correct": 0,
+         "expl": "Retaining the legitimate practice while adding the missing half, not simple restraint."},
+        {"q": "What does the closing verse name as the specific faults the spiritual life is meant to remove?",
+         "opts": [
+             "Anger, conceit, and denigration",
+             "Hunger, thirst, and fatigue",
+             "Wealth, status, and pleasure",
+             "No specific faults are named"],
+         "correct": 0,
+         "expl": "Naming Tissa's actual underlying faults directly, rather than a vague general aspiration."},
+        {"q": "How is Tissa related to the Buddha?",
+         "opts": [
+             "He is the Buddha's cousin on his father's side",
+             "He is the Buddha's cousin on his mother's side, like Nanda",
+             "He is unrelated to the Buddha",
+             "He is the Buddha's biological brother"],
+         "correct": 0,
+         "expl": "Distinct from Nanda's specific family relationship in the discourse immediately before this one."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Vesālī, at the Great Wood",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with several discourses in this saṃyutta."},
+        {"q": "Who initiates the conversation in this discourse?",
+         "opts": [
+             "The Buddha, asking Tissa why he is sitting in distress",
+             "Tissa, approaching the Buddha with an unprompted accusation",
+             "Another mendicant, reporting Tissa's behavior",
+             "No one initiates; the discourse begins mid-conversation"],
+         "correct": 0,
+         "expl": "The Buddha's direct question in response to Tissa's visible state."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Navamaṁ, \"the ninth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The ninth discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("Distress shown before any cause is explained", [
+            "tears, misery, sadness, named first &mdash;",
+            "the state itself given before its explanation",
+        ]),
+        ("A complaint accepted, then completed", [
+            "not disputed, but given a missing half &mdash;",
+            "the mockery real, and Tissa's own role revealed too",
+        ]),
+        ("A double standard named with precision", [
+            "admonishing others, unable to accept it himself &mdash;",
+            "the exact asymmetry, not a vague character flaw",
+        ]),
+        ("A remedy that keeps the practice, adds the missing part", [
+            "not \"stop correcting others,\" but \"do both\" &mdash;",
+            "balance restored, not simple restraint imposed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn21.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-21.8.html">SN 21.8 &middot; With Nanda</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-21.10.html">SN 21.10 &middot; Senior In Name '
+        "Only</a> &mdash; the next discourse, correcting a "
+        "different misunderstanding about a genuine practice.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 21.10 — Theranāmakasutta
+# --------------------------------------------------------------------------- #
+page(
+    21, 10, "Theranāmaka", "Senior In Name Only",
+    meta_title="SN 21.10 — Senior In Name Only | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Theranāmakasutta — a mendicant named Senior lives "
+        "and praises physical solitude, and the Buddha explains what "
+        "living alone actually means: releasing past, future, and "
+        "present craving. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, the Bamboo Grove"),
+        ("Speakers", "Several mendicants, the monk named "
+                     "Theranāmaka (\"Senior in name\"), and the "
+                     "Buddha"),
+        ("Form", "A genuine but incomplete practice affirmed, then "
+                 "redefined at a deeper level"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; one of this collection's most "
+                       "philosophically substantial discourses, "
+                       "redefining a familiar term entirely"),
+    ],
+    why=(
+        "This discourse concerns a mendicant whose actual name "
+        "happens to be Thera, &ldquo;Senior,&rdquo; who lives alone "
+        "and praises living alone &mdash; entering villages for alms "
+        "alone, returning alone, sitting in private alone, walking "
+        "mindfully alone. When the Buddha questions him, he doesn't "
+        "reject this practice as false; he confirms it as one kind "
+        "of living alone, then offers a fuller definition: living "
+        "alone is truly fulfilled when what's past is given up, "
+        "what's future is relinquished, and craving for present "
+        "existence is eliminated."),
+    guide=[
+        ("A name that becomes the discourse's own title", [
+            "Theranāmaka, &ldquo;named Senior,&rdquo; is both this "
+            "monk's actual personal name and this discourse's title "
+            "&mdash; a coincidence the discourse doesn't comment on "
+            "directly but which frames the entire exchange, since "
+            "the monk's literal name happens to describe exactly the "
+            "solitary status he claims for himself."]),
+        ("Physical solitude affirmed rather than dismissed as false", [
+            "Unlike a discourse that might simply declare the monk's "
+            "practice mistaken, the Buddha explicitly validates it: "
+            "attheso ekavihāro, &ldquo;that is a kind of living "
+            "alone,&rdquo; neso natthīti vadāmi, &ldquo;I don't deny "
+            "it,&rdquo; treating the physical practice as genuinely "
+            "real rather than illusory."]),
+        ("A second, deeper sense introduced as completion, not correction", [
+            "Rather than replacing the monk's understanding, the "
+            "Buddha frames his fuller teaching as how living alone is "
+            "&ldquo;fulfilled in detail,&rdquo; vitthārena paripuṇṇo, "
+            "positioning the deeper meaning as completing rather than "
+            "invalidating what the monk had already grasped."]),
+        ("Solitude redefined through time, not through location or company", [
+            "The fuller definition of living alone has nothing to do "
+            "with physical isolation at all; it concerns three "
+            "temporal relationships &mdash; the past given up, the "
+            "future relinquished, present craving eliminated &mdash; "
+            "relocating the entire concept from external circumstance "
+            "to internal orientation."]),
+        ("A closing verse naming the truly solitary person without any reference to physical isolation", [
+            "The verse's description of the one who genuinely lives "
+            "alone &mdash; the champion, the all-knower, unsullied, "
+            "freed in the ending of craving &mdash; never mentions "
+            "being physically apart from others at all, confirming "
+            "the deeper definition has entirely superseded the "
+            "physical one by the discourse's end."]),
+    ],
+    terms=[
+        ("ekavihārī … ekavihārassa vaṇṇavādī",
+         "&ldquo;lives alone … praises living alone&rdquo; &mdash; "
+         "the specific practice and its associated advocacy this "
+         "discourse examines."),
+        ("attheso ekavihāro, neso natthīti vadāmi",
+         "&ldquo;that is a kind of living alone, I don't deny "
+         "it&rdquo; &mdash; the Buddha's explicit affirmation of the "
+         "physical practice as genuinely real."),
+        ("ekavihāro vitthārena paripuṇṇo",
+         "&ldquo;living alone fulfilled in detail&rdquo; &mdash; "
+         "the framing device presenting the deeper teaching as "
+         "completion rather than correction."),
+        ("yaṁ atītaṁ taṁ pahīnaṁ, yaṁ anāgataṁ taṁ paṭinissaṭṭhaṁ",
+         "&ldquo;what's in the past is given up, what's in the "
+         "future is relinquished&rdquo; &mdash; the temporal "
+         "definition replacing physical isolation as the true "
+         "measure of solitude."),
+        ("chandarāgo suppaṭivinīto",
+         "&ldquo;desire and greed [for present incarnations] is "
+         "eliminated&rdquo; &mdash; the third element of the "
+         "temporal definition, addressing the present rather than "
+         "the past or future."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn21.10:1.1-1.5"),
+        ("p", "&sect;2", "sn21.10:2.1-2.11"),
+        ("p", "&sect;3", "sn21.10:3.1-3.7"),
+        ("p", "&sect;4", "sn21.10:4.1-4.2"),
+        ("p", "&sect;5", "sn21.10:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What coincidence frames this entire discourse?",
+         "opts": [
+             "The monk's actual personal name, Thera (\"Senior\"), matches the solitary status he claims for himself",
+             "The monk shares a name with the Buddha's own cousin",
+             "The monk's name means \"the one who never speaks\"",
+             "No such coincidence exists in this discourse"],
+         "correct": 0,
+         "expl": "A literal name that happens to describe exactly the practice under discussion."},
+        {"q": "How does the Buddha initially respond to the monk's practice of physical solitude?",
+         "opts": [
+             "He explicitly affirms it as a genuine kind of living alone, not something illusory or false",
+             "He immediately dismisses it as entirely mistaken",
+             "He refuses to comment on it at all",
+             "He claims the monk is lying about his practice"],
+         "correct": 0,
+         "expl": "\"That is a kind of living alone, I don't deny it\" — genuine validation, not rejection."},
+        {"q": "How does the Buddha frame his fuller teaching about living alone?",
+         "opts": [
+             "As how living alone is \"fulfilled in detail,\" completing rather than replacing the monk's understanding",
+             "As a direct contradiction of everything the monk believed",
+             "As an entirely unrelated, separate topic",
+             "As proof that the monk's practice was worthless"],
+         "correct": 0,
+         "expl": "Positioning the deeper meaning as completion, not correction."},
+        {"q": "What three elements make up the Buddha's fuller definition of living alone?",
+         "opts": [
+             "The past given up, the future relinquished, and present craving eliminated",
+             "Physical distance, silence, and fasting",
+             "Wearing rag robes, eating only almsfood, and avoiding villages",
+             "No specific elements are given"],
+         "correct": 0,
+         "expl": "A temporal redefinition, relocating solitude from external circumstance to internal orientation."},
+        {"q": "Does the Buddha's fuller definition of living alone involve physical isolation from others?",
+         "opts": [
+             "No — it concerns temporal relationships to past, future, and present, not location or company",
+             "Yes, it requires even stricter physical isolation than before",
+             "Yes, it requires total silence at all times",
+             "The discourse does not clarify this point"],
+         "correct": 0,
+         "expl": "Relocating the entire concept away from external circumstance entirely."},
+        {"q": "What does the closing verse's description of the truly solitary person emphasize?",
+         "opts": [
+             "Being unsullied and freed in the ending of craving, with no mention of physical isolation",
+             "Living in a remote location far from any other person",
+             "Never speaking to anyone under any circumstances",
+             "Wearing specific monastic robes"],
+         "correct": 0,
+         "expl": "Confirming the deeper definition has entirely superseded the physical one by the discourse's end."},
+        {"q": "What practical actions did the monk describe when explaining his solitary practice?",
+         "opts": [
+             "Entering the village for alms alone, returning alone, sitting in private alone, and walking mindfully alone",
+             "Refusing to eat any almsfood at all",
+             "Living in a completely different country from other mendicants",
+             "No specific actions are described"],
+         "correct": 0,
+         "expl": "Concrete physical practices the Buddha explicitly validates before introducing the deeper teaching."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Sāvatthī",
+             "Near Vesālī, at the Great Wood",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "A setting distinct from the Sāvatthī-based framing common in several nearby discourses."},
+        {"q": "Who reports the monk's behavior to the Buddha?",
+         "opts": [
+             "Several mendicants",
+             "The monk himself, unprompted",
+             "No one reports it; the Buddha addresses it unprompted",
+             "A layperson who witnessed his conduct"],
+         "correct": 0,
+         "expl": "A situation brought to the Buddha's attention, matching the pattern of several disciplinary discourses."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dasamaṁ, \"the tenth\"",
+             "Navamaṁ, \"the ninth\"",
+             "Ekādasamaṁ, \"the eleventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The tenth discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("A name that already describes the claim being made", [
+            "\"Senior,\" both a title and this monk's actual name &mdash;",
+            "coincidence framing the whole exchange without comment",
+        ]),
+        ("Validation, not dismissal, as the starting point", [
+            "\"I don't deny it,\" the Buddha says outright &mdash;",
+            "genuine practice affirmed before anything is added",
+        ]),
+        ("Completion offered, not correction imposed", [
+            "\"fulfilled in detail,\" not \"actually wrong\" &mdash;",
+            "a deeper layer built on top of what was already true",
+        ]),
+        ("Solitude relocated from place to time", [
+            "past given up, future released, present craving ended &mdash;",
+            "no longer about where one is, but what one still holds",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn21.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-21.9.html">SN 21.9 &middot; With Tissa</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-21.11.html">SN 21.11 &middot; With '
+        "Mahākappina</a> &mdash; the next discourse, returning to "
+        "unqualified praise of a striking-looking mendicant.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 21.11 — Mahākappinasutta
+# --------------------------------------------------------------------------- #
+page(
+    21, 11, "Mahākappina", "With Mahākappina",
+    meta_title="SN 21.11 — With Mahākappina | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Mahākappinasutta — the Buddha points out a "
+        "distinctive-looking monk of immense attainment, closing "
+        "with a verse ranking the Buddha's own radiance above sun, "
+        "moon, and warrior alike. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants as Mahākappina approaches"),
+        ("Form", "A recognition scene closing with a verse of "
+                 "escalating comparison"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; the saṃyutta's second discourse "
+                       "structured around a mendicant's approach "
+                       "from a distance, matching SN 21.5-6"),
+    ],
+    why=(
+        "This discourse follows the same structure as SN 21.5-6: the "
+        "Buddha sees Venerable Mahākappina approaching from a "
+        "distance, describes his distinctive appearance &mdash; "
+        "white, thin, with a pointed nose &mdash; and declares that "
+        "this mendicant is mighty and powerful, having already "
+        "attained almost every possible meditative accomplishment. "
+        "The closing verse doesn't stop at praising Mahākappina; it "
+        "builds through a hierarchy of what shines &mdash; "
+        "aristocrats, the sun, the moon, brahmins in absorption "
+        "&mdash; before placing the Buddha's own radiance above them "
+        "all."),
+    guide=[
+        ("A third instance of the approach-and-recognition structure", [
+            "SN 21.5's Sujāta and SN 21.6's Bhaddiya both open with "
+            "the Buddha seeing a mendicant approaching from a "
+            "distance and immediately declaring his attainment to "
+            "the assembled mendicants; this discourse repeats that "
+            "structure a third time, confirming it as one of this "
+            "saṃyutta's recurring patterns rather than a one-time "
+            "device."]),
+        ("A physical description that is distinctive without being unflattering", [
+            "Unlike Bhaddiya's bluntly unflattering description in SN "
+            "21.6 or Sujāta's straightforwardly beautiful one in SN "
+            "21.5, Mahākappina's description &mdash; white, thin, "
+            "pointy-nosed &mdash; is simply distinctive, neither "
+            "praised nor criticized in itself, shifting the "
+            "physical detail toward neutral identification rather "
+            "than either extreme."]),
+        ("An attainment claim stated in its most totalizing form", [
+            "Rather than naming specific meditative states as in SN "
+            "21.4's four absorptions, this discourse's claim about "
+            "Mahākappina is close to unlimited: it's not easy to "
+            "find an attainment he hasn't already attained, a "
+            "sweeping formulation used sparingly across this "
+            "saṃyutta."]),
+        ("A verse escalating through a deliberate hierarchy of what shines", [
+            "The closing verse doesn't jump straight to praising the "
+            "Buddha; it moves through aristocrats ranked by clan, "
+            "then to knowledge and conduct as a higher standard, then "
+            "through the sun, moon, armored warrior, and meditating "
+            "brahmin, before finally placing the Buddha's constant "
+            "radiance above every other example named."]),
+        ("A discourse ostensibly about Mahākappina that closes on the Buddha instead", [
+            "Despite opening with Mahākappina's approach and "
+            "attainment, this discourse's actual closing focus shifts "
+            "entirely to the Buddha's own surpassing radiance, using "
+            "the disciple's introduction as an occasion for a verse "
+            "ultimately concerned with someone else."]),
+    ],
+    terms=[
+        ("odātakaṁ tanukaṁ tuṅganāsikaṁ",
+         "&ldquo;white, thin, with a pointy nose&rdquo; &mdash; "
+         "Mahākappina's distinctive but neutrally described "
+         "appearance, neither praised nor criticized."),
+        ("na ca sā samāpatti sulabharūpā yā tena bhikkhunā "
+         "asamāpannapubbā",
+         "&ldquo;it's not easy to find an attainment that he has "
+         "not already attained&rdquo; &mdash; the discourse's "
+         "sweeping, near-total claim about Mahākappina's meditative "
+         "accomplishment."),
+        ("vijjācaraṇasampanno",
+         "&ldquo;accomplished in knowledge and conduct&rdquo; "
+         "&mdash; the verse's proposed higher standard, surpassing "
+         "clan-based aristocratic ranking."),
+        ("divā tapati ādicco, rattimābhāti candimā",
+         "&ldquo;the sun blazes by day, the moon radiates by "
+         "night&rdquo; &mdash; the verse's escalating list of "
+         "examples of shining, building toward its final comparison."),
+        ("sabbamahorattiṁ, buddho tapati tejasā",
+         "&ldquo;all day and all night, the Buddha blazes with "
+         "glory&rdquo; &mdash; the verse's final, surpassing claim, "
+         "closing the hierarchy of shining examples."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn21.11:1.1-1.9"),
+        ("p", "&sect;2", "sn21.11:2.1-2.2"),
+        ("p", "&sect;3", "sn21.11:3.1-3.4"),
+        ("p", "&sect;4", "sn21.11:4.1-4.6"),
+    ],
+    quiz=[
+        {"q": "What structure does this discourse share with SN 21.5-6?",
+         "opts": [
+             "The Buddha seeing a mendicant approaching from a distance and immediately declaring his attainment",
+             "A monk being reported for misconduct to the Buddha",
+             "Two disciples comparing themselves to each other",
+             "No structural similarity exists"],
+         "correct": 0,
+         "expl": "A recurring pattern in this saṃyutta, now appearing a third time."},
+        {"q": "How is Mahākappina's physical appearance described?",
+         "opts": [
+             "White, thin, with a pointy nose — distinctive but neither praised nor criticized",
+             "Strikingly beautiful, like Sujāta",
+             "Ugly and despised, like Bhaddiya",
+             "No physical description is given"],
+         "correct": 0,
+         "expl": "Shifting toward neutral identification rather than either extreme of SN 21.5 or 21.6."},
+        {"q": "How sweeping is the claim this discourse makes about Mahākappina's attainment?",
+         "opts": [
+             "It's not easy to find an attainment he hasn't already attained — a near-total claim",
+             "He has attained only the first of the four absorptions",
+             "He has attained nothing of particular note",
+             "No claim about his attainment is made"],
+         "correct": 0,
+         "expl": "A sweeping formulation used sparingly across this saṃyutta, more totalizing than SN 21.4's specific four absorptions."},
+        {"q": "What hierarchy does the closing verse build through before its final comparison?",
+         "opts": [
+             "Aristocrats ranked by clan, then knowledge and conduct, then the sun, moon, warrior, and meditating brahmin",
+             "A list of different animal species",
+             "A ranking of different monastic ranks",
+             "No hierarchy is built; the verse names only one comparison"],
+         "correct": 0,
+         "expl": "A deliberate escalation through several examples before reaching its final claim."},
+        {"q": "What does the verse ultimately claim about the Buddha?",
+         "opts": [
+             "That he blazes with glory all day and all night, surpassing every other example of shining named",
+             "That he is equal in radiance to the sun alone",
+             "That he shines only during meditation",
+             "No claim about the Buddha is made in the verse"],
+         "correct": 0,
+         "expl": "The final and surpassing term in the verse's escalating hierarchy."},
+        {"q": "What does this discourse's actual closing focus shift to, despite opening with Mahākappina?",
+         "opts": [
+             "The Buddha's own surpassing radiance",
+             "A detailed biography of Mahākappina's past life",
+             "A debate between Mahākappina and another disciple",
+             "The discourse remains focused on Mahākappina throughout"],
+         "correct": 0,
+         "expl": "Using the disciple's introduction as an occasion for a verse ultimately concerned with someone else."},
+        {"q": "What standard does the verse propose as higher than aristocratic clan ranking?",
+         "opts": [
+             "Being accomplished in knowledge and conduct",
+             "Physical strength and combat skill",
+             "Wealth and material possessions",
+             "No alternative standard is proposed"],
+         "correct": 0,
+         "expl": "Vijjācaraṇasampanno, surpassing birth-based status as the verse's proposed higher standard."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Vesālī, at the Great Wood",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with several discourses in this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "Mahākappina himself",
+             "Venerable Ānanda"],
+         "correct": 0,
+         "expl": "No interlocutor appears; Mahākappina himself never speaks in this discourse."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Ekādasamaṁ, \"the eleventh\"",
+             "Dasamaṁ, \"the tenth\"",
+             "Dvādasamaṁ, \"the twelfth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eleventh discourse of this saṃyutta, one before its close."},
+    ],
+    marginalia=[
+        ("A third approach, a familiar pattern confirmed", [
+            "seen from a distance, praised before he even arrives &mdash;",
+            "the same structure as Sujāta and Bhaddiya, once more",
+        ]),
+        ("A description that neither flatters nor condemns", [
+            "white, thin, a pointed nose, simply noted &mdash;",
+            "distinctiveness without praise or criticism attached",
+        ]),
+        ("A claim reaching toward totality", [
+            "\"not easy to find an attainment he hasn't reached\" &mdash;",
+            "a sweeping formulation, more total than most",
+        ]),
+        ("A hierarchy climbing toward its final, surpassing term", [
+            "aristocrats, then knowledge, then sun and moon &mdash;",
+            "each example outdone by the one that follows it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn21.11/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-21.10.html">SN 21.10 &middot; Senior In Name '
+        "Only</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-21.12.html">SN 21.12 &middot; Companions</a> '
+        "&mdash; the saṃyutta's closing discourse, and the last "
+        "discourse of the entire Book of Causality.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 21.12 — Sahāyakasutta (closes SN21, Bhikkhusaṃyutta, and all of
+# Nidānavagga, Book II of the Saṃyutta Nikāya)
+# --------------------------------------------------------------------------- #
+page(
+    21, 12, "Sahāyaka", "Companions",
+    meta_title="SN 21.12 — Companions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Sahāyakasutta — two lifelong companion mendicants, "
+        "trained by Mahākappina, approach together, closing "
+        "Bhikkhusaṃyutta and the entire Book of Causality. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants as two companion monks approach"),
+        ("Form", "The recognition-scene structure closing this "
+                 "saṃyutta, applied to a pair rather than an "
+                 "individual"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; closing not only this saṃyutta but "
+                       "the entire Book of Causality (Nidānavagga, "
+                       "SN 12&ndash;21)"),
+    ],
+    why=(
+        "This discourse closes Bhikkhusaṃyutta with two mendicants "
+        "instead of one: lifelong companions, protégés of Venerable "
+        "Mahākappina, seen approaching together. The Buddha declares "
+        "them very mighty and powerful, with almost no attainment "
+        "left to reach, having realized the supreme end of the "
+        "spiritual path together. The closing verse celebrates their "
+        "companionship itself as brought together by the true "
+        "teaching, well trained by Kappina, bearing their final "
+        "bodies together, having vanquished Māra together. This "
+        "discourse's own colophon marks something larger than this "
+        "saṃyutta's end: the completion of the entire Book of "
+        "Causality, Nidānavagga, spanning SN 12 through 21."),
+    guide=[
+        ("A pair, not an individual, closing the recognition-scene sequence", [
+            "SN 21.5, 21.6, and 21.11 each featured a single mendicant "
+            "approaching and being recognized; this discourse "
+            "completes that structural sequence by applying the "
+            "identical pattern to two companions together, a "
+            "natural culmination given the saṃyutta's closing "
+            "interest in relationships between disciples."]),
+        ("Companionship itself named as a specific achievement", [
+            "The verse doesn't treat the two mendicants' friendship as "
+            "incidental background to their individual attainments; "
+            "it explicitly credits the true teaching with bringing "
+            "them together and staying together for a long time, "
+            "naming the companionship as something the Dhamma itself "
+            "produced and sustained."]),
+        ("A shared teacher named directly in the closing verse", [
+            "Mahākappina, the subject of the discourse immediately "
+            "before this one, is named again here as the one who "
+            "trained both companions well &mdash; connecting this "
+            "closing discourse back to SN 21.11 rather than treating "
+            "the two as unrelated."]),
+        ("Two levels of completion marked in a single colophon sequence", [
+            "Where most saṃyutta-closing discourses in this "
+            "collection mark only their own saṃyutta's end, this "
+            "discourse's closing material states two distinct "
+            "completions in sequence: the Linked Discourses on monks "
+            "are complete, and then, separately, the Book of "
+            "Causality is finished &mdash; confirming SN 21 closes "
+            "not only Bhikkhusaṃyutta but the entire Nidānavagga "
+            "spanning SN 12 through 21."]),
+        ("A fitting close to a saṃyutta built around named relationships", [
+            "Having moved through Moggallāna and Sāriputta's "
+            "partnership, the Buddha's own cousins, a beautiful "
+            "mendicant and an ugly one, a gifted teacher, and a "
+            "misunderstood solitary practitioner, this saṃyutta "
+            "closes on companionship itself as its final subject "
+            "&mdash; an apt ending for a collection organized around "
+            "specific people and their relationships to each other "
+            "and to the Buddha."]),
+    ],
+    terms=[
+        ("sahāyakā bhikkhū āyasmato mahākappinassa saddhivihārikā",
+         "&ldquo;companion mendicants, protégés of Venerable "
+         "Mahākappina&rdquo; &mdash; this discourse's subjects, "
+         "named both by their relationship to each other and to "
+         "their shared teacher."),
+        ("cirasaṁvāsā",
+         "&ldquo;together for a long time&rdquo; &mdash; the "
+         "verse's description of the companions' enduring "
+         "relationship, credited to the true teaching itself."),
+        ("kappinena sudantā",
+         "&ldquo;well trained by Kappina&rdquo; &mdash; the verse's "
+         "direct naming of Mahākappina as the shared teacher "
+         "connecting this discourse back to SN 21.11."),
+        ("bhikkhusaṁyuttaṁ samattaṁ",
+         "&ldquo;the Linked Discourses on monks are complete&rdquo; "
+         "&mdash; this saṃyutta's own closing colophon."),
+        ("nidānavaggo samatto",
+         "&ldquo;the Book of Causality is finished&rdquo; &mdash; "
+         "the second, larger colophon marking the completion of all "
+         "of Book II, spanning SN 12 through 21."),
+    ],
+    text_intro=(
+        "The discourse in full, followed by this saṃyutta's own "
+        "colophon and the closing colophon marking the completion "
+        "of the entire Book of Causality (Nidānavagga). The closing "
+        "uddāna verse of discourse titles is not translated in the "
+        "source and is not quoted here; see the reading guide above. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn21.12:1.1-1.9"),
+        ("p", "&sect;2", "sn21.12:2.1-2.2"),
+        ("p", "&sect;3", "sn21.12:3.1-3.4"),
+        ("p", "&sect;4", "sn21.12:4.1-4.4"),
+        ("p", "&sect;5 &middot; Colophon", "sn21.12:5.7"),
+        ("p", "&sect;6 &middot; Colophon", "sn21.12:6.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse differ from SN 21.5, 21.6, and 21.11 in its central subject?",
+         "opts": [
+             "It applies the recognition-scene structure to two companions together, rather than a single mendicant",
+             "It features no approaching mendicant at all",
+             "It focuses on a dispute rather than a recognition",
+             "It is identical to SN 21.11 in every respect"],
+         "correct": 0,
+         "expl": "Completing the structural sequence by extending it to a pair."},
+        {"q": "What does the closing verse credit for bringing the two companions together?",
+         "opts": [
+             "The true teaching itself, proclaimed by the Buddha",
+             "A chance meeting with no particular significance",
+             "Their shared family background",
+             "Nothing in particular is credited"],
+         "correct": 0,
+         "expl": "Naming their companionship as something the Dhamma itself produced and sustained, not incidental background."},
+        {"q": "Who is named as the shared teacher of these two companions?",
+         "opts": [
+             "Mahākappina, the subject of the discourse immediately before this one",
+             "Sāriputta",
+             "Moggallāna",
+             "No teacher is named"],
+         "correct": 0,
+         "expl": "Connecting this closing discourse directly back to SN 21.11."},
+        {"q": "How many distinct levels of completion does this discourse's closing material mark?",
+         "opts": [
+             "Two — the saṃyutta's own end, and separately, the entire Book of Causality's completion",
+             "Only one — the saṃyutta's own end",
+             "Three, including a reference to the next book",
+             "No completion is marked at all"],
+         "correct": 0,
+         "expl": "Confirming SN 21 closes not only Bhikkhusaṃyutta but all of Nidānavagga, SN 12 through 21."},
+        {"q": "What is the significance of the phrase \"the Book of Causality is finished\"?",
+         "opts": [
+             "It marks the completion of the entire Nidānavagga, spanning SN 12 through SN 21",
+             "It refers only to this single discourse's own content",
+             "It marks the start of a new book, not the end of one",
+             "It has no particular significance beyond this discourse"],
+         "correct": 0,
+         "expl": "A far larger scope of completion than the saṃyutta-level colophon alone."},
+        {"q": "What broader pattern does this reading guide suggest this saṃyutta closes on?",
+         "opts": [
+             "Companionship itself, fitting a collection organized around named relationships throughout",
+             "A return to abstract doctrinal categories with no personal focus",
+             "A direct contradiction of everything discussed earlier in the saṃyutta",
+             "No particular pattern connects this discourse to the rest of the saṃyutta"],
+         "correct": 0,
+         "expl": "An apt ending for a saṃyutta built around specific people and their relationships throughout."},
+        {"q": "What does the Buddha declare about the two companion mendicants' attainment?",
+         "opts": [
+             "That they are very mighty and powerful, having realized the supreme end of the spiritual path together",
+             "That they have achieved nothing of particular note",
+             "That only one of the two has attained anything significant",
+             "No declaration about their attainment is made"],
+         "correct": 0,
+         "expl": "The same sweeping formula used for individual mendicants elsewhere in this saṃyutta, now applied jointly."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Vesālī, at the Great Wood",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with several discourses in this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "The two companion mendicants themselves",
+             "Venerable Mahākappina",
+             "Venerable Ānanda"],
+         "correct": 0,
+         "expl": "No interlocutor appears; the two companions themselves never speak in this discourse."},
+        {"q": "What position does this discourse hold in the overall structure of Book II?",
+         "opts": [
+             "The final discourse of the entire Nidānavagga (Book of Causality), spanning SN 12 through 21",
+             "The first discourse of an entirely new book",
+             "The sixth discourse, at the vagga's midpoint",
+             "It does not belong to Book II at all"],
+         "correct": 0,
+         "expl": "Marked by two colophons in sequence: this saṃyutta's own close, and the whole book's completion."},
+    ],
+    marginalia=[
+        ("Two approaching together, not one alone", [
+            "companions, recognized and praised as a pair &mdash;",
+            "the sequence's structure extended to a friendship",
+        ]),
+        ("A friendship credited to the teaching itself", [
+            "not chance, but the Dhamma bringing them together &mdash;",
+            "companionship named as something genuinely produced",
+        ]),
+        ("A teacher's name returning from the discourse just before", [
+            "Kappina again, training both of them well &mdash;",
+            "this closing discourse tied directly to the one before it",
+        ]),
+        ("Two endings, stated one after the other", [
+            "this saṃyutta finished, then the whole book finished &mdash;",
+            "completion marked at two different scales at once",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn21.12/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-21.11.html">SN 21.11 &middot; With '
+        "Mahākappina</a> &mdash; the discourse whose subject "
+        "trained the two companions named here.",
+        '<a href="sn-21.1.html">SN 21.1 &middot; With Kolita</a> '
+        "&mdash; this saṃyutta's opening discourse, whose named "
+        "individual disciples this closing discourse's pair of "
+        "companions brings full circle.",
+    ],
+)
