@@ -33101,3 +33101,2144 @@ page(
         "a systematic, abstract foundation for.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.1 — Dāruṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 1, "Dāruṇa", "Grim",
+    meta_title="SN 17.1 — Grim | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dāruṇasutta — opening Lābhasakkārasaṃyutta, possessions, "
+        "honor, and popularity are named grim, bitter, and harsh, an "
+        "obstacle to reaching the supreme sanctuary from the yoke. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                    "monastery"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A bare declaration and a training instruction, the "
+                 "refrain this entire saṃyutta will repeat"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "opens a saṃyutta built entirely around one "
+                       "recurring warning and a parade of vivid "
+                       "images"),
+    ],
+    why=(
+        "Opening Lābhasakkārasaṃyutta &mdash; the saṃyutta on "
+        "possessions, honor, and popularity &mdash; this discourse "
+        "states the claim the entire collection will illustrate "
+        "again and again with new images: lābhasakkārasiloko, "
+        "possessions and honor and popularity together, are grim, "
+        "bitter, and harsh, an obstacle to reaching the supreme "
+        "sanctuary from the yoke. No simile accompanies the claim "
+        "here; it's given flatly, followed immediately by the "
+        "training this whole saṃyutta will repeat: give up whatever "
+        "possessions, honor, and popularity arise, and don't let "
+        "them occupy the mind."),
+    guide=[
+        ("A refrain stated before any image illustrates it", [
+            "Unlike most of the discourses that follow, this one "
+            "offers no simile at all &mdash; just the bare claim and "
+            "the training response, establishing the wording every "
+            "later discourse's vivid images will be attached to."]),
+        ("Three things named together, not one", [
+            "Lābha (possessions or material gain), sakkāra (honor or "
+            "being treated with ceremony), and siloka (popularity or "
+            "renown) are treated as a single compound danger "
+            "throughout this saṃyutta, not three separate temptations "
+            "to consider one at a time."]),
+        ("A specific, named obstacle", [
+            "The claim isn't that these things are simply "
+            "undesirable in a general sense; they're named "
+            "specifically as antarāyiko anuttarassa yogakkhemassa "
+            "adhigamāya, an obstacle to reaching the supreme "
+            "sanctuary from the yoke &mdash; blocking the highest "
+            "goal specifically, not merely causing minor harm."]),
+        ("A training that names the danger as arising, not as fixed", [
+            "The instruction isn't to avoid possessions, honor, and "
+            "popularity entirely, an impossible standard for anyone "
+            "living among other people; it's to give up whatever "
+            "arises and not let it occupy the mind &mdash; a "
+            "response to something that will keep happening, not a "
+            "one-time renunciation."]),
+        ("A foundation for a saṃyutta of escalating images", [
+            "Every discourse that follows in this vagga will restate "
+            "this exact opening claim before attaching a new, "
+            "increasingly vivid image to it &mdash; a hook, a "
+            "turtle's cord, a dung beetle, lightning, a poisoned "
+            "arrow, a mangy jackal, gale-force winds."]),
+    ],
+    terms=[
+        ("lābhasakkārasiloko",
+         "&ldquo;possessions, honor, and popularity&rdquo; &mdash; "
+         "this saṃyutta's compound namesake term, treated as one "
+         "combined danger throughout."),
+        ("dāruṇo … kaṭuko pharuso",
+         "&ldquo;grim&hellip;bitter and harsh&rdquo; &mdash; this "
+         "discourse's title description, opening and anchoring the "
+         "whole saṃyutta's central warning."),
+        ("antarāyiko anuttarassa yogakkhemassa adhigamāya",
+         "&ldquo;an obstacle to reaching the supreme sanctuary from "
+         "the yoke&rdquo; &mdash; the specific highest goal this "
+         "danger is said to block."),
+        ("uppannaṁ lābhasakkārasilokaṁ pajahissāma",
+         "&ldquo;we will give up arisen possessions, honor, and "
+         "popularity&rdquo; &mdash; the training instruction closing "
+         "this discourse, repeated throughout this saṃyutta."),
+        ("cittaṁ pariyādāya ṭhassati",
+         "&ldquo;will occupy the mind&rdquo; &mdash; the specific "
+         "danger being trained against, not the mere arising of gain "
+         "or honor but its capacity to take over."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.1:1.1-1.6"),
+        ("p", "&sect;2", "sn17.1:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What three things does this discourse's title term, lābhasakkārasiloko, combine?",
+         "opts": [
+             "Possessions, honor, and popularity",
+             "Wealth, family, and health",
+             "Meditation, study, and teaching",
+             "Only a single thing: material possessions alone"],
+         "correct": 0,
+         "expl": "Treated as one combined danger throughout this saṃyutta, not three separate temptations."},
+        {"q": "What does this discourse say possessions, honor, and popularity obstruct?",
+         "opts": [
+             "Reaching the supreme sanctuary from the yoke",
+             "Only minor everyday comforts",
+             "Nothing in particular; the danger is left unspecified",
+             "Only monastic reputation, not spiritual attainment"],
+         "correct": 0,
+         "expl": "A specific highest goal, not a vague general harm."},
+        {"q": "What training instruction closes this discourse?",
+         "opts": [
+             "Give up whatever possessions, honor, and popularity arise, and don't let them occupy the mind",
+             "Actively seek out possessions, honor, and popularity to test one's resolve",
+             "Avoid all contact with other people permanently",
+             "No training instruction is given"],
+         "correct": 0,
+         "expl": "A response to something recurring, not a single one-time renunciation."},
+        {"q": "Does this discourse include a simile illustrating its claim?",
+         "opts": [
+             "No — it states the claim and training directly, without any accompanying image",
+             "Yes, an elaborate multi-part simile",
+             "Yes, but only a brief one-line comparison",
+             "The discourse consists entirely of similes with no direct statement"],
+         "correct": 0,
+         "expl": "Establishing the wording later discourses will attach vivid images to."},
+        {"q": "What role does this discourse play for the rest of the vagga?",
+         "opts": [
+             "A foundation, restated before each new discourse attaches a fresh image to the same claim",
+             "An isolated teaching with no connection to what follows",
+             "A conclusion summarizing everything that comes after it",
+             "A direct contradiction of the discourses that follow"],
+         "correct": 0,
+         "expl": "The exact opening claim repeated and then illustrated anew, discourse by discourse."},
+        {"q": "How does the training instruction frame the danger — as avoidable entirely, or as recurring?",
+         "opts": [
+             "As something that will keep arising, requiring an ongoing response rather than one-time avoidance",
+             "As something that can be permanently eliminated through a single decision",
+             "As something only relevant to laypeople, not mendicants",
+             "The discourse doesn't address whether the danger recurs"],
+         "correct": 0,
+         "expl": "\"Give up whatever arises,\" not \"ensure nothing ever arises.\""},
+        {"q": "What does sakkāra specifically refer to, within the combined term?",
+         "opts": [
+             "Honor, or being treated with ceremony and respect",
+             "Physical wealth alone",
+             "A specific meditative attainment",
+             "A type of monastic robe"],
+         "correct": 0,
+         "expl": "One of three components — possessions, honor, and popularity — combined into a single term."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Near Rājagaha",
+             "At Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "Given in full here, matching the fuller setting formula used at other saṃyutta openings."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Paṭhamaṁ, \"the first\"",
+             "Dutiyaṁ, \"the second\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The first discourse of this new saṃyutta."},
+    ],
+    marginalia=[
+        ("Three dangers named as one", [
+            "possessions, honor, popularity &mdash;",
+            "treated together, not one at a time",
+        ]),
+        ("A specific goal named as blocked", [
+            "not vague harm, but the supreme sanctuary itself &mdash;",
+            "the highest aim, specifically obstructed",
+        ]),
+        ("A response to what keeps recurring", [
+            "not a single renunciation, but an ongoing training &mdash;",
+            "give up what arises, again and again",
+        ]),
+        ("A claim stated before any image arrives", [
+            "no simile here, just the bare wording &mdash;",
+            "hooks, turtles, lightning still to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-16.13.html">SN 16.13 &middot; The Counterfeit of the True Teaching</a> '
+        "&mdash; the discourse closing Kassapasaṃyutta, immediately "
+        "before this one.",
+        '<a href="sn-17.2.html">SN 17.2 &middot; A Hook</a> '
+        "&mdash; the next discourse, the first of many images "
+        "attached to this same opening claim.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.2 — Baḷisasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 2, "Baḷisa", "A Hook",
+    meta_title="SN 17.2 — A Hook | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Baḷisasutta — a fish that swallows a baited hook is at "
+        "the angler's mercy; a mendicant who enjoys arisen "
+        "possessions, honor, and popularity has swallowed Māra's "
+        "hook. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 17.1's opening claim, now illustrated by a "
+                 "simile with an explicit term-by-term decoding"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "establishes the pattern of simile plus "
+                       "decoding this vagga will repeat"),
+    ],
+    why=(
+        "This discourse gives SN 17.1's bare claim its first image: "
+        "an angler casts a baited hook into a deep lake, a fish sees "
+        "the bait and swallows it, and from that moment the fish's "
+        "fate belongs entirely to the angler. The Buddha then decodes "
+        "the simile term by term &mdash; the angler is Māra, the "
+        "hook is possessions, honor, and popularity &mdash; and "
+        "applies the whole picture directly: any mendicant who "
+        "enjoys and likes arisen possessions, honor, and popularity "
+        "has, in effect, swallowed Māra's hook, and can now be done "
+        "with as Māra wishes."),
+    guide=[
+        ("A simile followed by explicit decoding", [
+            "Unlike SN 17.1's bare statement, this discourse tells a "
+            "complete short scene and then explicitly assigns "
+            "meaning to each element &mdash; angler, hook &mdash; a "
+            "two-step structure (image, then decoding) this vagga "
+            "will repeat with new images throughout."]),
+        ("The danger located in enjoyment, not in receiving", [
+            "The fish's fate isn't sealed by the hook being present "
+            "in the water; it's sealed by the fish swallowing it. "
+            "Likewise, the discourse specifies assādeti nikāmeti, "
+            "\"enjoys and likes,\" as the decisive act &mdash; not "
+            "merely encountering gain and honor, but delighting in "
+            "them."]),
+        ("Māra named directly as the agent behind the danger", [
+            "This discourse doesn't leave the source of the danger "
+            "impersonal; it identifies the angler specifically as "
+            "Māra the Wicked, giving the abstract danger of "
+            "possessions and honor a deliberate, personified "
+            "adversary."]),
+        ("A complete loss of control as the outcome", [
+            "The fish that swallows the hook becomes yathākāmakaraṇīyo, "
+            "\"to be dealt with as [the angler] wishes\" &mdash; the "
+            "discourse's point isn't simply that harm follows, but "
+            "that agency itself transfers entirely to the one who "
+            "set the trap."]),
+        ("The refrain returning to close the discourse", [
+            "After the simile and its decoding, SN 17.1's exact "
+            "closing formula returns unchanged &mdash; the same "
+            "claim, the same training instruction &mdash; confirming "
+            "that the image serves the refrain, not the other way "
+            "around."]),
+    ],
+    terms=[
+        ("bāḷisiko",
+         "&ldquo;an angler&rdquo; &mdash; the human figure in this "
+         "discourse's opening image, later decoded as Māra."),
+        ("āmisagataṁ baḷisaṁ",
+         "&ldquo;a baited hook&rdquo; &mdash; this discourse's title "
+         "image, decoded as possessions, honor, and popularity."),
+        ("assādeti nikāmeti",
+         "&ldquo;enjoys and likes&rdquo; &mdash; the specific "
+         "mental act this discourse identifies as the actual danger, "
+         "not mere contact with gain or honor."),
+        ("gilabaḷiso",
+         "&ldquo;one who has swallowed the hook&rdquo; &mdash; the "
+         "discourse's term for a mendicant who has fallen for this "
+         "danger."),
+        ("yathākāmakaraṇīyo",
+         "&ldquo;to be dealt with as [Māra] wishes&rdquo; &mdash; "
+         "the complete loss of agency this discourse names as the "
+         "outcome."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.2:1.1-1.5"),
+        ("p", "&sect;2", "sn17.2:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What image does this discourse use to illustrate SN 17.1's claim?",
+         "opts": [
+             "An angler casting a baited hook into a deep lake, which a fish swallows",
+             "A bird flying into gale-force winds",
+             "A dung beetle stuffed with dung",
+             "A jackal suffering from mange"],
+         "correct": 0,
+         "expl": "This vagga's first fully developed simile."},
+        {"q": "How does the discourse decode the angler and the hook?",
+         "opts": [
+             "The angler is Māra; the hook is possessions, honor, and popularity",
+             "The angler is the Buddha; the hook is wisdom",
+             "The angler is a rival teacher; the hook is false doctrine",
+             "No decoding is given; the simile is left unexplained"],
+         "correct": 0,
+         "expl": "An explicit, term-by-term assignment of meaning."},
+        {"q": "What specific act does this discourse identify as the actual danger?",
+         "opts": [
+             "Enjoying and liking arisen possessions, honor, and popularity",
+             "Simply being aware that gain and honor exist",
+             "Refusing all forms of material support",
+             "Discussing possessions and honor with other mendicants"],
+         "correct": 0,
+         "expl": "Assādeti nikāmeti — delighting in gain and honor, not merely encountering them."},
+        {"q": "What happens to the fish once it swallows the hook?",
+         "opts": [
+             "Its fate belongs entirely to the angler, who can do as he wishes with it",
+             "It easily escapes with no lasting consequence",
+             "It becomes stronger and more resistant to future hooks",
+             "The discourse doesn't describe what happens next"],
+         "correct": 0,
+         "expl": "Yathākāmakaraṇīyo, a complete transfer of agency to the one who set the trap."},
+        {"q": "Who is identified as the angler in this discourse's decoding?",
+         "opts": [
+             "Māra the Wicked",
+             "A rival ascetic teacher",
+             "An unnamed fisherman with no further significance",
+             "The discourse names no specific figure"],
+         "correct": 0,
+         "expl": "A personified, deliberate adversary behind the abstract danger."},
+        {"q": "What structural pattern does this discourse establish for the rest of the vagga?",
+         "opts": [
+             "A complete image followed by explicit term-by-term decoding",
+             "A pure abstract statement with no images at all",
+             "A dialogue format with a questioning mendicant",
+             "No repeatable pattern is established"],
+         "correct": 0,
+         "expl": "Image, then decoding — repeated with new images throughout this vagga."},
+        {"q": "What happens to SN 17.1's refrain at the end of this discourse?",
+         "opts": [
+             "It returns unchanged, closing the discourse exactly as it closed SN 17.1",
+             "It is significantly altered to fit the new image",
+             "It is entirely omitted from this discourse",
+             "It is replaced with a completely different teaching"],
+         "correct": 0,
+         "expl": "The same claim and training instruction, confirming the image serves the refrain."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dutiyaṁ, \"the second\"",
+             "Paṭhamaṁ, \"the first\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The second discourse of this vagga."},
+        {"q": "What word does the discourse use for a mendicant who has fallen for this danger?",
+         "opts": [
+             "Gilabaḷiso, \"one who has swallowed the hook\"",
+             "Sappuriso, \"a true person\"",
+             "Arahant, \"a worthy one\"",
+             "No specific term is used for such a mendicant"],
+         "correct": 0,
+         "expl": "A term directly built from the hook image itself."},
+    ],
+    marginalia=[
+        ("A story, then its meaning spelled out", [
+            "angler, hook, a fish that swallows &mdash;",
+            "then each part assigned its name",
+        ]),
+        ("The danger in delight, not in mere contact", [
+            "not the hook's presence, but the bite &mdash;",
+            "enjoyment is what actually seals the fate",
+        ]),
+        ("A deliberate adversary, not an abstraction", [
+            "Māra himself holds the line &mdash;",
+            "the danger given a name and an intention",
+        ]),
+        ("Agency traded away entirely", [
+            "\"to be dealt with as he wishes\" &mdash;",
+            "not just harm, but control itself lost",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.1.html">SN 17.1 &middot; Grim</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the bare claim this discourse illustrates.",
+        '<a href="sn-17.3.html">SN 17.3 &middot; A Turtle</a> '
+        "&mdash; the next discourse, extending the same warning with "
+        "a longer narrative and a further layer of decoding.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 17.3 — Kummasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 3, "Kumma", "A Turtle",
+    meta_title="SN 17.3 — A Turtle | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kummasutta — a wounded turtle survives the harpoon "
+        "itself, but the trailing cord that follows it home reveals "
+        "the real danger: lingering greed and relishing. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, narrating a fable about two "
+                     "turtles"),
+        ("Form", "An extended narrative fable with dialogue, "
+                 "followed by a three-term decoding"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; the most narratively developed "
+                       "discourse in this vagga so far, worth "
+                       "reading for its dialogue alone"),
+    ],
+    why=(
+        "This discourse tells a small, complete story. In a family "
+        "of turtles that had lived in one lake for generations, one "
+        "turtle ignores a warning and goes to a forbidden place, "
+        "where a hunter pierces her with a harpoon. She survives and "
+        "returns &mdash; not obviously hurt, she insists, except for "
+        "one thing: a cord keeps trailing behind her. The other "
+        "turtle's response is devastating: that cord is exactly what "
+        "doomed her father and grandfather before her, and she is no "
+        "longer welcome among her own kind. The decoding that "
+        "follows adds a term beyond SN 17.2's hunter and harpoon: "
+        "the cord itself is nandīrāga, greed and relishing &mdash; "
+        "the lingering attachment that turns a survivable wound into "
+        "a fatal, generational pattern."),
+    guide=[
+        ("A story with real dialogue, not a single-scene image", [
+            "Unlike SN 17.2's compact hook simile, this discourse "
+            "gives its two turtles actual back-and-forth speech "
+            "&mdash; a warning ignored, a wound reported, a "
+            "devastating verdict delivered &mdash; making the danger "
+            "feel like a real event with real consequences rather "
+            "than an abstract illustration."]),
+        ("Surviving the wound isn't the same as escaping the danger", [
+            "The turtle insists she's &ldquo;not hurt or injured,"
+            "&rdquo; and in the narrowest sense she's telling the "
+            "truth; the other turtle's point is that the cord still "
+            "attached to her is itself the injury, regardless of how "
+            "she feels."]),
+        ("A third term added to this vagga's decoding vocabulary", [
+            "Where SN 17.2 decoded only angler and hook, this "
+            "discourse adds a third element: the cord, decoded as "
+            "nandīrāga, greed and relishing &mdash; the specific "
+            "attachment that keeps someone tethered to the danger "
+            "even after the initial encounter."]),
+        ("A pattern framed as generational, not merely personal", [
+            "The other turtle doesn't just warn about this specific "
+            "cord; he names it as the same thing that destroyed her "
+            "father and grandfather &mdash; treating the danger as a "
+            "recurring family pattern rather than a one-time "
+            "accident."]),
+        ("Expulsion, not merely warning, as the story's ending", [
+            "The fable doesn't end with advice; it ends with "
+            "rejection &mdash; &ldquo;go now, you are no longer one "
+            "of us&rdquo; &mdash; giving this discourse's warning "
+            "real social and emotional weight beyond the abstract "
+            "danger it illustrates."]),
+    ],
+    terms=[
+        ("luddo",
+         "&ldquo;a hunter&rdquo; &mdash; the figure who wounds the "
+         "turtle, decoded as Māra, matching SN 17.2's angler."),
+        ("papatā",
+         "&ldquo;a harpoon&rdquo; &mdash; the weapon that pierces "
+         "the turtle, decoded as possessions, honor, and popularity, "
+         "matching SN 17.2's hook."),
+        ("suttakaṁ",
+         "&ldquo;a cord&rdquo; &mdash; the trailing line the wounded "
+         "turtle can't shake off, this discourse's title image and "
+         "its new addition to the decoding."),
+        ("nandīrāga",
+         "&ldquo;greed and relishing&rdquo; &mdash; what the cord is "
+         "decoded as, the lingering attachment that turns a survived "
+         "wound into lasting danger."),
+        ("na dāni tvaṁ amhākaṁ",
+         "&ldquo;you are no longer one of us&rdquo; &mdash; the "
+         "story's stark closing verdict, rejection rather than mere "
+         "warning."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.3:1.1-1.17"),
+        ("p", "&sect;2", "sn17.3:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What happens to the turtle who ignores the warning?",
+         "opts": [
+             "A hunter pierces her with a harpoon, but she survives and returns",
+             "She is immediately killed on the spot",
+             "She successfully evades the hunter entirely",
+             "She convinces the hunter to let her go unharmed"],
+         "correct": 0,
+         "expl": "Survival, but with a lasting attachment — the trailing cord."},
+        {"q": "What does the returning turtle claim about her condition?",
+         "opts": [
+             "That she's not hurt or injured, except for a cord trailing behind her",
+             "That she's completely unharmed with no remaining trace of the encounter",
+             "That she's severely wounded and near death",
+             "She refuses to describe her condition at all"],
+         "correct": 0,
+         "expl": "A claim the other turtle immediately contradicts."},
+        {"q": "How does the other turtle respond to this claim?",
+         "opts": [
+             "He insists she is indeed hurt and injured, because of the cord itself",
+             "He agrees completely that she's unharmed",
+             "He ignores the matter entirely",
+             "He praises her for surviving the encounter"],
+         "correct": 0,
+         "expl": "The cord itself is treated as the real injury, regardless of how she feels."},
+        {"q": "What third term does this discourse's decoding add, beyond SN 17.2's hunter and harpoon?",
+         "opts": [
+             "The cord, decoded as nandīrāga, greed and relishing",
+             "A net, decoded as ignorance",
+             "A boat, decoded as the monastic community",
+             "No third term is added"],
+         "correct": 0,
+         "expl": "The lingering attachment that keeps someone tethered even after the initial wound."},
+        {"q": "How does the other turtle frame this specific cord?",
+         "opts": [
+             "As the same thing that destroyed her father and grandfather — a generational pattern",
+             "As a completely new and unprecedented danger",
+             "As something trivial and not worth mentioning",
+             "As a sign of good fortune"],
+         "correct": 0,
+         "expl": "Treating the danger as recurring across generations, not a one-time accident."},
+        {"q": "How does the fable end for the wounded turtle?",
+         "opts": [
+             "She is told she is no longer one of them and told to leave",
+             "She is welcomed back with celebration",
+             "She is given medical treatment and fully recovers",
+             "The fable ends without any resolution"],
+         "correct": 0,
+         "expl": "Rejection, not merely advice, closing the story with real weight."},
+        {"q": "Who is decoded as the hunter in this discourse?",
+         "opts": [
+             "Māra the Wicked",
+             "A rival ascetic teacher",
+             "An ordinary human with no further significance",
+             "No decoding is given for the hunter"],
+         "correct": 0,
+         "expl": "Matching SN 17.2's decoding of the angler."},
+        {"q": "How does this discourse's form compare to SN 17.2's?",
+         "opts": [
+             "It includes actual back-and-forth dialogue between characters, unlike SN 17.2's compact single scene",
+             "It is identical in form to SN 17.2",
+             "It contains no narrative element at all",
+             "It is much shorter than SN 17.2"],
+         "correct": 0,
+         "expl": "A more developed story, with real reported speech."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Tatiyaṁ, \"the third\"",
+             "Dutiyaṁ, \"the second\"",
+             "Catutthaṁ, \"the fourth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The third discourse of this vagga."},
+    ],
+    marginalia=[
+        ("A wound survived, a cord that isn't", [
+            "\"not hurt,\" she says, but something still trails &mdash;",
+            "the encounter's real damage, still attached",
+        ]),
+        ("Injury redefined by what remains, not what's felt", [
+            "she feels fine; the cord says otherwise &mdash;",
+            "the other turtle trusts the evidence, not the claim",
+        ]),
+        ("A third term joins hunter and harpoon", [
+            "the cord itself: greed, and relishing it &mdash;",
+            "what keeps the danger attached after the strike",
+        ]),
+        ("A family pattern, not a single accident", [
+            "father, grandfather, the same cord before her &mdash;",
+            "and now expulsion, not just a warning",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.2.html">SN 17.2 &middot; A Hook</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the first two terms this discourse's decoding builds on.",
+        '<a href="sn-17.4.html">SN 17.4 &middot; A Fleecy Sheep</a> '
+        "&mdash; the next discourse, a much briefer image of getting "
+        "caught at every turn.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.4 — Dīghalomikasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 4, "Dīghalomika", "A Fleecy Sheep",
+    meta_title="SN 17.4 — A Fleecy Sheep | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dīghalomikasutta — a long-fleeced sheep entering a "
+        "briar patch gets caught and snagged at every turn, just "
+        "like a mendicant overcome by gain heading out for alms. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A single compact image applied directly, with no "
+                 "separate term-by-term decoding"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the briefest discourse in this vagga "
+                       "so far, needing no separate decoding"),
+    ],
+    why=(
+        "After SN 17.3's extended fable, this discourse returns to "
+        "brevity: a fleecy sheep enters a briar patch and gets "
+        "caught, snagged, and trapped at every single turn, coming "
+        "to ruin. The application follows immediately, with no "
+        "separate decoding step &mdash; a mendicant whose mind is "
+        "overcome by possessions, honor, and popularity heads out "
+        "for alms and, in exactly the same way, gets caught, "
+        "snagged, and trapped at every turn. Where SN 17.2 and 17.3 "
+        "needed a hunter, a hook, a cord each individually assigned "
+        "meaning, this discourse's parallel is direct enough that "
+        "the mapping barely needs spelling out."),
+    guide=[
+        ("No separate decoding required", [
+            "Unlike SN 17.2 and 17.3, this discourse moves straight "
+            "from image to application without pausing to assign "
+            "meaning to individual elements &mdash; the sheep's "
+            "long, tangling wool and the briar patch map onto the "
+            "mendicant's situation clearly enough on their own."]),
+        ("Repeated entanglement, not a single decisive moment", [
+            "The sheep doesn't get caught once; the phrase "
+            "&ldquo;at every turn&rdquo; (tatra tatra) repeats three "
+            "times &mdash; sajjeyya, gayheyya, bajjheyya, snagged, "
+            "caught, trapped &mdash; emphasizing repeated, "
+            "compounding entanglement rather than one clean snare."]),
+        ("The exact same repeated phrase applied to the mendicant", [
+            "The discourse doesn't merely gesture at a resemblance; "
+            "it repeats the identical three-verb sequence, tatra "
+            "tatra sajjati, gayhati, bajjhati, word for word, for "
+            "the mendicant heading into the village for alms."]),
+        ("Ordinary almsgoing as the setting for the danger", [
+            "The danger isn't placed in some unusual or extreme "
+            "situation; it's placed in the most routine act a "
+            "mendicant performs daily &mdash; simply going out for "
+            "food &mdash; suggesting the entanglement this vagga "
+            "warns about is an everyday risk, not a rare one."]),
+        ("A vagga alternating length and intensity", [
+            "Following SN 17.3's extended narrative with this "
+            "compact image establishes a rhythm this vagga will "
+            "continue &mdash; longer, dialogue-driven discourses "
+            "alternating with brief, single-image ones."]),
+    ],
+    terms=[
+        ("dīghalomikā eḷakā",
+         "&ldquo;a fleecy sheep,&rdquo; literally a "
+         "&ldquo;long-wool sheep&rdquo; &mdash; this discourse's "
+         "title image, whose wool makes entanglement in a briar "
+         "patch especially easy."),
+        ("kaṇṭakagahanaṁ",
+         "&ldquo;a briar patch&rdquo; &mdash; the thicket the sheep "
+         "enters, standing in for the everyday situations a "
+         "mendicant might walk into."),
+        ("sajjeyya, gayheyya, bajjheyya",
+         "&ldquo;get caught, snagged, and trapped&rdquo; &mdash; the "
+         "threefold verb sequence repeated identically for both the "
+         "sheep and the mendicant."),
+        ("tatra tatra",
+         "&ldquo;at every turn&rdquo; &mdash; the phrase marking "
+         "repeated, compounding entanglement rather than a single "
+         "decisive snare."),
+        ("lābhasakkārasilokena abhibhūto pariyādiṇṇacitto",
+         "&ldquo;whose mind is overcome and overwhelmed by "
+         "possessions, honor, and popularity&rdquo; &mdash; the "
+         "standard description of the vulnerable mendicant this "
+         "vagga returns to repeatedly."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.4:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What image does this discourse use?",
+         "opts": [
+             "A fleecy sheep entering a briar patch and getting caught at every turn",
+             "A fish swallowing a baited hook",
+             "A turtle pierced by a harpoon",
+             "A bird flung about by gale-force winds"],
+         "correct": 0,
+         "expl": "A brief, direct image following SN 17.3's extended fable."},
+        {"q": "How does this discourse's structure differ from SN 17.2 and 17.3?",
+         "opts": [
+             "It moves directly from image to application, without a separate term-by-term decoding step",
+             "It is even longer and more elaborate than SN 17.3",
+             "It contains no image or application at all",
+             "It uses a dialogue format between two characters"],
+         "correct": 0,
+         "expl": "The mapping is clear enough on its own, without individually assigned meanings."},
+        {"q": "What threefold sequence describes the sheep's entanglement?",
+         "opts": [
+             "Getting caught, snagged, and trapped",
+             "Getting lost, confused, and frightened",
+             "Getting injured, healed, and injured again",
+             "No specific sequence is given"],
+         "correct": 0,
+         "expl": "Sajjeyya, gayheyya, bajjheyya, repeated identically for the mendicant."},
+        {"q": "How many times does this entanglement happen to the sheep, according to the text?",
+         "opts": [
+             "Repeatedly, \"at every turn,\" not just once",
+             "Only a single time, decisively",
+             "The text doesn't specify how many times",
+             "The sheep never actually gets caught"],
+         "correct": 0,
+         "expl": "Tatra tatra, emphasizing compounding rather than singular entanglement."},
+        {"q": "In what ordinary situation does this discourse place the mendicant's danger?",
+         "opts": [
+             "The routine daily act of going out for alms",
+             "An unusual, rare emergency situation",
+             "A formal monastic ceremony",
+             "A dangerous wilderness journey"],
+         "correct": 0,
+         "expl": "Suggesting the entanglement is an everyday risk, not a rare occurrence."},
+        {"q": "What rhythm does this discourse establish, following SN 17.3?",
+         "opts": [
+             "Alternating longer, narrative discourses with brief, single-image ones",
+             "Steadily increasing length with each discourse",
+             "Steadily decreasing complexity with each discourse",
+             "No particular rhythm is established"],
+         "correct": 0,
+         "expl": "A pattern this vagga will continue across its remaining discourses."},
+        {"q": "What does the sheep's long wool specifically contribute to this discourse's image?",
+         "opts": [
+             "It makes entanglement in the briar patch especially easy",
+             "It has no particular relevance to the image",
+             "It protects the sheep from being caught at all",
+             "It represents a mendicant's accumulated possessions directly"],
+         "correct": 0,
+         "expl": "A physical detail making the comparison vivid and specific."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Catutthaṁ, \"the fourth\"",
+             "Tatiyaṁ, \"the third\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fourth discourse of this vagga."},
+    ],
+    marginalia=[
+        ("An image needing no further explanation", [
+            "no hunter, no hook, no separate decoding &mdash;",
+            "the parallel clear enough on its own",
+        ]),
+        ("Caught again and again, not once", [
+            "\"at every turn,\" the phrase insists &mdash;",
+            "compounding entanglement, not a single snare",
+        ]),
+        ("The exact same words for sheep and mendicant", [
+            "caught, snagged, trapped, repeated identically &mdash;",
+            "no gap between the image and its target",
+        ]),
+        ("Danger placed in the most ordinary act", [
+            "just walking out for alms, nothing unusual &mdash;",
+            "the risk built into daily routine itself",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.3.html">SN 17.3 &middot; A Turtle</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-17.5.html">SN 17.5 &middot; A Dung Beetle</a> '
+        "&mdash; the next discourse, a pointedly earthy image of "
+        "pride born from material success.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 17.5 — Mīḷhakasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 5, "Mīḷhaka", "A Dung Beetle",
+    meta_title="SN 17.5 — A Dung Beetle | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mīḷhakasutta — a dung beetle stuffed with dung looks "
+        "down on other beetles, just as a well-supplied mendicant "
+        "boasts of his abundance and looks down on those with less. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A deliberately unglamorous image, applied to a "
+                 "specific social behavior: boasting and contempt"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the most pointedly unflattering image in "
+                       "this vagga, aimed at a specific social "
+                       "failing"),
+    ],
+    why=(
+        "This discourse doesn't shy away from an unglamorous image: "
+        "a dung beetle, full of dung, with a huge pile of dung "
+        "before her, looks down on other beetles simply because of "
+        "how much dung she has. The application is precise rather "
+        "than general: a mendicant who eats well, gets invited back "
+        "for more meals, and receives plenty of robes, almsfood, "
+        "lodging, and medicine returns to the monastery and boasts "
+        "about it openly &mdash; explicitly comparing himself "
+        "favorably to mendicants he calls low in merit and "
+        "insignificant. The discourse names the consequence directly: "
+        "this will be for his own lasting harm and suffering."),
+    guide=[
+        ("An image chosen for its lack of dignity, not despite it", [
+            "Where SN 17.1-4 used a fish, a turtle, and a sheep, none "
+            "of them especially unflattering, this discourse "
+            "deliberately reaches for something crude &mdash; the "
+            "point of dung heaped upon dung is precisely that it "
+            "isn't impressive by any real standard, only by the "
+            "beetle's own distorted comparison."]),
+        ("Contempt for others as the specific behavior named", [
+            "This discourse isn't warning generally against enjoying "
+            "gain; it names something more specific and social: "
+            "atimaññati, looking down on others, treating one's own "
+            "abundance as proof of superiority over &ldquo;other "
+            "good-hearted mendicants.&rdquo;"]),
+        ("The boast quoted at length, not merely summarized", [
+            "Rather than briefly stating that the mendicant brags, "
+            "the discourse gives his actual boastful words in full "
+            "&mdash; ate as much as he liked, invited back tomorrow, "
+            "plenty of almsfood, calling other mendicants low in "
+            "merit and insignificant &mdash; letting the reader hear "
+            "exactly how the contempt sounds."]),
+        ("A direct address naming the consequence", [
+            "The discourse doesn't leave the outcome implicit; it "
+            "states plainly, calling the mendicant moghapurisa, a "
+            "futile person, that this pattern of behavior will be "
+            "for his own lasting harm and suffering, not merely a "
+            "social awkwardness."]),
+        ("A comedic image carrying a serious warning", [
+            "The dung beetle's absurd self-satisfaction is almost "
+            "funny on its own terms, and this discourse seems to "
+            "intend that &mdash; using humor to make the mendicant's "
+            "parallel behavior look as ridiculous as it actually "
+            "is, rather than treating the failing solemnly "
+            "throughout."]),
+    ],
+    terms=[
+        ("mīḷhakā gūthādī",
+         "&ldquo;a dung-eating beetle&rdquo; &mdash; this "
+         "discourse's title image, chosen for its deliberate lack of "
+         "dignity."),
+        ("atimaññati",
+         "&ldquo;looks down on&rdquo; &mdash; the specific social "
+         "behavior this discourse warns against, contempt born from "
+         "a distorted sense of one's own abundance."),
+        ("appapuññā appesakkhā",
+         "&ldquo;little merit or significance&rdquo; &mdash; the "
+         "dismissive language the boasting mendicant uses against "
+         "other mendicants."),
+        ("moghapurisa",
+         "&ldquo;a futile person&rdquo; &mdash; the discourse's term "
+         "for the mendicant whose behavior it condemns."),
+        ("dīgharattaṁ ahitāya dukkhāya",
+         "&ldquo;for their lasting harm and suffering&rdquo; &mdash; "
+         "the consequence stated directly, not left implicit."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.5:1.1-1.13"),
+    ],
+    quiz=[
+        {"q": "What image does this discourse use?",
+         "opts": [
+             "A dung beetle, full of dung, looking down on other beetles because of a huge dung pile before her",
+             "A fish swallowing a baited hook",
+             "A sheep caught in a briar patch",
+             "A bird flung about by gale-force winds"],
+         "correct": 0,
+         "expl": "A deliberately unglamorous image, chosen for its lack of dignity."},
+        {"q": "What specific behavior does this discourse's application name?",
+         "opts": [
+             "Looking down on other mendicants because of one's own material abundance",
+             "Refusing to accept any material support at all",
+             "Excessive fasting and self-denial",
+             "Avoiding almsgoing altogether"],
+         "correct": 0,
+         "expl": "Atimaññati, a specific social contempt, not a general warning."},
+        {"q": "How does the discourse present the boasting mendicant's actual words?",
+         "opts": [
+             "Quoted at length, letting the reader hear the boast directly",
+             "Only briefly summarized in a single sentence",
+             "The mendicant's words are never quoted at all",
+             "Only the Buddha's reaction is given, not the boast itself"],
+         "correct": 0,
+         "expl": "A detailed quotation of the actual boastful speech."},
+        {"q": "What terms does the boasting mendicant use for other mendicants?",
+         "opts": [
+             "\"Little merit or significance\"",
+             "\"Wise and accomplished\"",
+             "\"Deserving of greater respect\"",
+             "No specific terms are used"],
+         "correct": 0,
+         "expl": "Appapuññā appesakkhā, dismissive language directed at those with less material success."},
+        {"q": "What consequence does this discourse state for this behavior?",
+         "opts": [
+             "Lasting harm and suffering for the mendicant himself",
+             "No consequence at all; the behavior is left unaddressed",
+             "Immediate expulsion from the monastic order",
+             "A temporary social awkwardness with no lasting effect"],
+         "correct": 0,
+         "expl": "Dīgharattaṁ ahitāya dukkhāya, stated directly and plainly."},
+        {"q": "How does this discourse's image compare in tone to SN 17.1-4's images?",
+         "opts": [
+             "Deliberately less dignified, almost comedic, unlike the more neutral fish, turtle, or sheep",
+             "Identical in tone and dignity to the earlier images",
+             "More solemn and elevated than any earlier image",
+             "This discourse contains no image at all"],
+         "correct": 0,
+         "expl": "A crude image chosen specifically to make the parallel behavior look ridiculous."},
+        {"q": "What does the mendicant receive before returning to boast, according to this discourse?",
+         "opts": [
+             "Plenty of food, an invitation back, and abundant robes, almsfood, lodging, and medicine",
+             "Nothing at all; the boast is entirely fabricated",
+             "Only a small, meager amount of almsfood",
+             "A formal reprimand from senior mendicants"],
+         "correct": 0,
+         "expl": "Genuine material success, which becomes the occasion for contempt toward others."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Pañcamaṁ, \"the fifth\"",
+             "Catutthaṁ, \"the fourth\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fifth discourse of this vagga."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+    ],
+    marginalia=[
+        ("An image with no dignity, on purpose", [
+            "dung heaped on dung, and pride in it &mdash;",
+            "not impressive by any real measure",
+        ]),
+        ("Contempt, not just enjoyment, named as the failing", [
+            "not simply liking one's own success &mdash;",
+            "but looking down on others because of it",
+        ]),
+        ("A boast quoted in its own words", [
+            "\"little merit, little significance,\" he calls them &mdash;",
+            "heard directly, not softened in the telling",
+        ]),
+        ("Harm stated plainly, not left to infer", [
+            "\"lasting harm and suffering,\" said outright &mdash;",
+            "for the boaster himself, not merely those he mocks",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.4.html">SN 17.4 &middot; A Fleecy Sheep</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-17.6.html">SN 17.6 &middot; A Bolt of Lightning</a> '
+        "&mdash; the next discourse, a much briefer and starker "
+        "image aimed at trainees specifically.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.6 — Asanisutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 6, "Asani", "A Bolt of Lightning",
+    meta_title="SN 17.6 — A Bolt of Lightning | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Asanisutta — let forked lightning fall on whom? Let "
+        "possessions, honor, and popularity come to a trainee who "
+        "hasn't yet achieved their heart's desire. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A single striking rhetorical equation, without "
+                 "narrative or elaboration"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the shortest and starkest discourse "
+                       "in this vagga so far"),
+    ],
+    why=(
+        "After SN 17.5's earthy comic image, this discourse turns "
+        "abrupt and stark: &ldquo;Let forked lightning fall on "
+        "whom?&rdquo; the Buddha asks, then answers his own "
+        "rhetorical question &mdash; let possessions, honor, and "
+        "popularity come to a trainee (sekha, someone still working "
+        "toward awakening) who hasn't yet achieved their heart's "
+        "desire. No fable, no boastful speech, no extended "
+        "application; the entire discourse is built around a single "
+        "equation, decoded in one line: forked lightning is a term "
+        "for possessions, honor, and popularity."),
+    guide=[
+        ("A rhetorical question standing in for a fable", [
+            "Where every discourse before it used a scene or a "
+            "character, this one uses a question with an implied, "
+            "shocking answer &mdash; the Buddha effectively wishing "
+            "something as catastrophic as a lightning strike "
+            "specifically onto a particular kind of person."]),
+        ("A specific target: the trainee, not everyone", [
+            "The danger isn't aimed at mendicants generally; it's "
+            "aimed specifically at a sekha, someone still in "
+            "training, who hasn't yet achieved appattamānasa, the "
+            "goal their heart is set on &mdash; someone advanced "
+            "enough to be close, but not yet secure."]),
+        ("Lightning chosen for its suddenness and violence", [
+            "Unlike the gradual entanglement of SN 17.4's sheep or "
+            "the slow corruption of SN 17.5's boasting mendicant, "
+            "lightning strikes without warning and without "
+            "gradation &mdash; a single instant, total and "
+            "unrecoverable."]),
+        ("Minimal decoding, matching minimal narrative", [
+            "The entire decoding is a single sentence: "
+            "asanivicakkanti, &ldquo;forked lightning,&rdquo; is a "
+            "term for possessions, honor, and popularity &mdash; no "
+            "further elaboration follows, trusting the shock of the "
+            "initial image to carry the point."]),
+        ("A pair with SN 17.7's nearly identical structure", [
+            "This discourse's compact question-and-answer shape is "
+            "repeated almost exactly in the discourse immediately "
+            "following it, with a different violent image "
+            "substituted for lightning."]),
+    ],
+    terms=[
+        ("asanivicakkaṁ",
+         "&ldquo;forked lightning&rdquo; &mdash; this discourse's "
+         "title image, decoded directly as possessions, honor, and "
+         "popularity."),
+        ("sekha",
+         "&ldquo;a trainee&rdquo; &mdash; someone still practicing "
+         "toward awakening, the specific target of this discourse's "
+         "warning."),
+        ("appattamānasa",
+         "&ldquo;who has not achieved their heart's desire&rdquo; "
+         "&mdash; describing a trainee not yet secure in the goal "
+         "they're working toward."),
+        ("kaṁ … āgacchatu",
+         "&ldquo;let it fall on whom?&rdquo; &mdash; the rhetorical "
+         "question structuring this entire discourse."),
+        ("asanivicakkanti … adhivacanaṁ",
+         "&ldquo;'forked lightning' is a term for&hellip;&rdquo; "
+         "&mdash; the discourse's single-line decoding, with no "
+         "further elaboration."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.6:1.1-1.3"),
+        ("p", "&sect;2", "sn17.6:2.1-2.3"),
+    ],
+    quiz=[
+        {"q": "What rhetorical question opens this discourse?",
+         "opts": [
+             "\"Let forked lightning fall on whom?\"",
+             "\"What do you think, mendicants?\"",
+             "\"Is it possible to give a simile?\"",
+             "No question opens this discourse"],
+         "correct": 0,
+         "expl": "An abrupt, striking structure distinct from every discourse before it in this vagga."},
+        {"q": "Who specifically does this discourse say possessions, honor, and popularity should come to?",
+         "opts": [
+             "A trainee who hasn't yet achieved their heart's desire",
+             "Every mendicant equally, without distinction",
+             "Only fully awakened arahants",
+             "Laypeople exclusively, not mendicants"],
+         "correct": 0,
+         "expl": "A specific target — sekha, someone still in training, not yet secure in the goal."},
+        {"q": "What is decoded as \"forked lightning\" in this discourse?",
+         "opts": [
+             "Possessions, honor, and popularity",
+             "Ignorance and delusion",
+             "A rival teacher's doctrine",
+             "No decoding is given"],
+         "correct": 0,
+         "expl": "A single-line decoding, with no further elaboration following it."},
+        {"q": "How does this discourse's structure compare to the discourses before it in this vagga?",
+         "opts": [
+             "Far more compact, with no fable, boastful speech, or extended application",
+             "Identical in length and structure to SN 17.5",
+             "Even longer and more elaborate than SN 17.3's turtle fable",
+             "This discourse contains no structure at all"],
+         "correct": 0,
+         "expl": "The shortest and starkest discourse in the vagga so far."},
+        {"q": "Why might lightning specifically be chosen as this discourse's image?",
+         "opts": [
+             "For its suddenness and violence, unlike the gradual entanglement or corruption in earlier discourses",
+             "Because lightning is described as gentle and harmless",
+             "Because it has no particular symbolic weight",
+             "Because it relates directly to a specific historical weather event"],
+         "correct": 0,
+         "expl": "A single, sudden, total strike, unlike gradual snaring or slow corruption."},
+        {"q": "What does sekha specifically mean in this context?",
+         "opts": [
+             "Someone still practicing toward awakening, not yet fully secure",
+             "A fully awakened arahant with nothing left to attain",
+             "A layperson with no monastic training",
+             "A visiting teacher from another tradition"],
+         "correct": 0,
+         "expl": "Someone advanced enough to be close to the goal, but still vulnerable."},
+        {"q": "What discourse immediately follows this one, sharing a nearly identical structure?",
+         "opts": [
+             "SN 17.7, using a poisoned arrow instead of lightning",
+             "SN 17.10, the vagga's closing discourse",
+             "This is the vagga's final discourse; nothing follows it",
+             "SN 17.1, returning to the vagga's opening"],
+         "correct": 0,
+         "expl": "A nearly identical compact question-and-answer shape, with a new violent image."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The sixth discourse of this vagga."},
+    ],
+    marginalia=[
+        ("A question standing in for a story", [
+            "\"let it fall on whom?\" &mdash;",
+            "no fable needed, just the implication itself",
+        ]),
+        ("Aimed at those closest, not everyone equally", [
+            "a trainee not yet secure in the goal &mdash;",
+            "the vulnerability of almost, not yet",
+        ]),
+        ("Suddenness chosen over gradual harm", [
+            "not entanglement, not slow corruption &mdash;",
+            "one strike, total, without warning",
+        ]),
+        ("A single line closing what a single line opened", [
+            "the whole decoding: lightning means this &mdash;",
+            "nothing further needed to make the point land",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.5.html">SN 17.5 &middot; A Dung Beetle</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-17.7.html">SN 17.7 &middot; A Poisoned Arrow</a> '
+        "&mdash; the next discourse, repeating this same compact "
+        "structure with a different violent image.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 17.7 — Diddhasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 7, "Diddha", "A Poisoned Arrow",
+    meta_title="SN 17.7 — A Poisoned Arrow | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Diddhasutta — let whom be pierced by a poisoned arrow? "
+        "Let possessions, honor, and popularity come to a trainee "
+        "who hasn't yet achieved their heart's desire. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A single striking rhetorical equation, nearly "
+                 "identical in shape to the discourse before it"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; a near-repeat of SN 17.6 with the "
+                       "image swapped"),
+    ],
+    why=(
+        "This discourse repeats SN 17.6's exact question-and-answer "
+        "shape almost word for word, substituting a poisoned arrow "
+        "for forked lightning: &ldquo;Let whom be pierced by a "
+        "poisoned arrow?&rdquo; the Buddha asks, then answers &mdash; "
+        "let possessions, honor, and popularity come to a trainee "
+        "who hasn't yet achieved their heart's desire. The decoding "
+        "is again a single line: &lsquo;arrow&rsquo; is a term for "
+        "possessions, honor, and popularity. Read alongside SN 17.6, "
+        "the pairing makes a point through repetition itself &mdash; "
+        "the danger is serious enough to be stated twice, in nearly "
+        "identical terms, with only the weapon changed."),
+    guide=[
+        ("A deliberate near-repeat, not a new structure", [
+            "This discourse doesn't introduce a new form; it reuses "
+            "SN 17.6's rhetorical question almost verbatim, changing "
+            "only the specific violent image &mdash; lightning "
+            "becomes a poisoned arrow, and the decoding sentence "
+            "keeps the same shape."]),
+        ("Why an arrow, alongside lightning", [
+            "Where lightning strikes from outside without warning, "
+            "an arrow implies a shooter and a wound that festers "
+            "&mdash; diddhagatena visallena, &ldquo;by a poisoned "
+            "arrow,&rdquo; suggesting harm that doesn't end at the "
+            "moment of impact but continues to spread."]),
+        ("Still aimed specifically at the trainee", [
+            "As in SN 17.6, the target named is sekha, a trainee "
+            "who has not yet achieved their heart's desire &mdash; "
+            "the danger is framed as most acute for someone close "
+            "to the goal but not yet secure in it, not for "
+            "everyone equally."]),
+        ("Repetition as its own kind of emphasis", [
+            "Two discourses in a row built on the identical "
+            "rhetorical shape isn't redundancy for its own sake; "
+            "placed back to back, they let the warning land twice "
+            "in quick succession, reinforcing rather than "
+            "repeating."]),
+        ("A pivot point before the vagga's remaining discourses", [
+            "After two of the vagga's most compact discourses, the "
+            "collection returns to longer narrative forms in the "
+            "three discourses that follow, closing the vagga on a "
+            "different register entirely."]),
+    ],
+    terms=[
+        ("diddhagatena visallena sallena",
+         "&ldquo;by a poisoned arrow&rdquo; &mdash; this discourse's "
+         "title image, decoded directly as possessions, honor, and "
+         "popularity."),
+        ("sallanti … adhivacanaṁ",
+         "&ldquo;'arrow' is a term for&hellip;&rdquo; &mdash; the "
+         "discourse's single-line decoding, mirroring SN 17.6's "
+         "structure exactly."),
+        ("sekha",
+         "&ldquo;a trainee&rdquo; &mdash; someone still practicing "
+         "toward awakening, the specific target named in both this "
+         "discourse and the one before it."),
+        ("appattamānasa",
+         "&ldquo;who has not achieved their heart's desire&rdquo; "
+         "&mdash; describing a trainee not yet secure in the goal "
+         "they're working toward."),
+        ("kaṁ … vijjhatu",
+         "&ldquo;let whom be pierced?&rdquo; &mdash; the rhetorical "
+         "question structuring this entire discourse, echoing SN "
+         "17.6's &ldquo;let it fall on whom?&rdquo;"),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.7:1.1-1.3"),
+        ("p", "&sect;2", "sn17.7:2.1-2.3"),
+    ],
+    quiz=[
+        {"q": "What rhetorical question opens this discourse?",
+         "opts": [
+             "\"Let whom be pierced by a poisoned arrow?\"",
+             "\"What do you think, mendicants?\"",
+             "\"Is it possible to give a simile?\"",
+             "No question opens this discourse"],
+         "correct": 0,
+         "expl": "Nearly identical in shape to SN 17.6's opening question."},
+        {"q": "How does this discourse's structure relate to SN 17.6?",
+         "opts": [
+             "It repeats the same rhetorical question-and-answer shape almost verbatim, with a different image",
+             "It has no relationship to SN 17.6 at all",
+             "It directly contradicts what SN 17.6 states",
+             "It is far longer and more elaborate than SN 17.6"],
+         "correct": 0,
+         "expl": "A deliberate near-repeat, changing only the specific violent image."},
+        {"q": "What is decoded as the \"poisoned arrow\" in this discourse?",
+         "opts": [
+             "Possessions, honor, and popularity",
+             "Ignorance and delusion",
+             "A rival teacher's doctrine",
+             "No decoding is given"],
+         "correct": 0,
+         "expl": "The same decoding pattern as SN 17.6, just with a new image."},
+        {"q": "Who specifically does this discourse say possessions, honor, and popularity should come to?",
+         "opts": [
+             "A trainee who hasn't yet achieved their heart's desire",
+             "Every mendicant equally, without distinction",
+             "Only fully awakened arahants",
+             "Laypeople exclusively, not mendicants"],
+         "correct": 0,
+         "expl": "The same specific target as SN 17.6 — sekha, someone still in training."},
+        {"q": "What might an arrow suggest that lightning does not?",
+         "opts": [
+             "A wound that festers and continues to spread rather than ending at the moment of impact",
+             "An entirely harmless and painless event",
+             "Something that only affects animals, not people",
+             "Nothing different at all; the two images are functionally identical in every respect"],
+         "correct": 0,
+         "expl": "An arrow implies ongoing harm, unlike lightning's single instant."},
+        {"q": "What does this discourse's placement right after SN 17.6 suggest?",
+         "opts": [
+             "Repetition used as emphasis, letting the warning land twice in quick succession",
+             "That SN 17.6 was a scribal error later corrected here",
+             "That this discourse should be read as contradicting SN 17.6",
+             "No particular significance to the placement"],
+         "correct": 0,
+         "expl": "Two discourses built on an identical shape, reinforcing rather than merely repeating."},
+        {"q": "What form do the three discourses following this one take?",
+         "opts": [
+             "A return to longer narrative forms, closing the vagga on a different register",
+             "Three more compact rhetorical questions identical to this one",
+             "This is the vagga's final discourse; nothing follows it",
+             "A return to the vagga's opening discourse"],
+         "correct": 0,
+         "expl": "The vagga shifts back to extended narrative for its closing discourses."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Sattamaṁ, \"the seventh\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The seventh discourse of this vagga."},
+    ],
+    marginalia=[
+        ("The same question, a different weapon", [
+            "lightning, then an arrow &mdash;",
+            "the danger named twice, almost the same words",
+        ]),
+        ("A wound that keeps spreading", [
+            "not a single strike, but something poisoned &mdash;",
+            "harm that continues past the moment of impact",
+        ]),
+        ("Still aimed at the one closest to the goal", [
+            "the trainee, not yet arrived &mdash;",
+            "danger sharpest just before the finish",
+        ]),
+        ("Repetition doing the work of emphasis", [
+            "twice in a row, nearly the same shape &mdash;",
+            "not redundant, but reinforced",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.6.html">SN 17.6 &middot; A Bolt of Lightning</a> '
+        "&mdash; the discourse this one nearly repeats.",
+        '<a href="sn-17.8.html">SN 17.8 &middot; A Jackal</a> &mdash; '
+        "the next discourse, returning to extended narrative form.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.8 — Siṅgālasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 8, "Siṅgāla", "A Jackal",
+    meta_title="SN 17.8 — A Jackal | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Siṅgālasutta — an old jackal with mange finds no "
+        "peace anywhere he goes, just as a mendicant overwhelmed by "
+        "possessions, honor, and popularity meets tragedy and "
+        "disaster wherever he turns. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A vivid animal image built on the Buddha's own "
+                 "question to the mendicants, then applied in "
+                 "parallel structure"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; a return to extended narrative after "
+                       "two compact discourses"),
+    ],
+    why=(
+        "The Buddha opens by asking the mendicants directly: did "
+        "you hear an old jackal howling at the crack of dawn? He "
+        "then describes that jackal's condition &mdash; suffering "
+        "from mange, finding no peace in his den, at the root of a "
+        "tree, or out in the open, meeting tragedy and disaster "
+        "wherever he goes, stands, sits, or lies down. The parallel "
+        "lands with exact repetition: a mendicant overcome and "
+        "overwhelmed by possessions, honor, and popularity finds no "
+        "peace in an empty hut, at the root of a tree, or out in "
+        "the open either, meeting the same tragedy and disaster in "
+        "every posture and every place."),
+    guide=[
+        ("A question addressed directly to the listeners", [
+            "Unlike the rhetorical questions of SN 17.6-7, this "
+            "discourse opens with the Buddha asking the mendicants "
+            "about something they may have actually heard that "
+            "very morning, grounding the teaching in a shared, "
+            "immediate experience before turning to the simile."]),
+        ("Mange as the specific affliction, not injury or age alone", [
+            "The jackal's condition is named precisely as ukkaṇḍaka, "
+            "mange, a chronic irritant rather than a single wound "
+            "&mdash; restlessness that follows the animal everywhere "
+            "rather than a pain that might eventually heal."]),
+        ("Exact repetition across every place and posture", [
+            "The discourse lists the same four postures and three "
+            "places twice, once for the jackal and once for the "
+            "mendicant, using near-identical phrasing so the "
+            "parallel cannot be missed &mdash; the affliction "
+            "follows into every den, every tree-root, every open "
+            "space."]),
+        ("Overcome and overwhelmed as the diagnostic phrase", [
+            "abhibhūto pariyādiṇṇacitto, &ldquo;overcome and "
+            "overwhelmed,&rdquo; is the discourse's term for the "
+            "mendicant's condition &mdash; the same compound used "
+            "for how possessions, honor, and popularity take hold "
+            "of a mind that hasn't yet been able to resist them."]),
+        ("Restlessness itself as the tragedy, not just its cause", [
+            "The discourse doesn't describe a single catastrophic "
+            "event befalling the mendicant; the inability to settle "
+            "anywhere, comparable to the diseased jackal's ceaseless "
+            "wandering, is itself named as meeting tragedy and "
+            "disaster."]),
+    ],
+    terms=[
+        ("jarasiṅgāla",
+         "&ldquo;an old jackal&rdquo; &mdash; this discourse's title "
+         "image, heard howling at dawn before the Buddha turns it "
+         "into a teaching."),
+        ("ukkaṇḍakena … rogajātena",
+         "&ldquo;the disease called mange&rdquo; &mdash; the "
+         "specific chronic affliction named, rather than injury or "
+         "age."),
+        ("abhibhūto pariyādiṇṇacitto",
+         "&ldquo;overcome and overwhelmed&rdquo; &mdash; the "
+         "discourse's diagnostic phrase for a mind taken over by "
+         "possessions, honor, and popularity."),
+        ("anayabyasanaṁ āpajjati",
+         "&ldquo;meets with tragedy and disaster&rdquo; &mdash; the "
+         "outcome named for both the diseased jackal and the "
+         "afflicted mendicant, in identical phrasing."),
+        ("suññāgāragato",
+         "&ldquo;in an empty hut&rdquo; &mdash; one of the three "
+         "places named where the afflicted mendicant, like the "
+         "jackal, can find no peace."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.8:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha ask the mendicants at the start of this discourse?",
+         "opts": [
+             "Whether they heard an old jackal howling at the crack of dawn",
+             "Whether they have ever seen a dung beetle",
+             "Whether they know what forked lightning sounds like",
+             "No question is asked; the discourse opens with a statement"],
+         "correct": 0,
+         "expl": "A direct question grounding the teaching in a shared, immediate experience."},
+        {"q": "What specific affliction does the old jackal suffer from?",
+         "opts": [
+             "Mange, a chronic irritant rather than a single wound",
+             "A broken leg from a recent injury",
+             "Blindness from old age",
+             "No affliction is named"],
+         "correct": 0,
+         "expl": "Ukkaṇḍaka, mange, named precisely rather than left vague."},
+        {"q": "Where does the diseased jackal fail to find peace?",
+         "opts": [
+             "In his den, at the root of a tree, or out in the open",
+             "Only in his den, nowhere else is mentioned",
+             "Only near water sources",
+             "The jackal is said to be perfectly content everywhere"],
+         "correct": 0,
+         "expl": "Three specific places, mirrored exactly in the mendicant's case."},
+        {"q": "What phrase describes the mendicant's mental condition?",
+         "opts": [
+             "\"Overcome and overwhelmed\" by possessions, honor, and popularity",
+             "\"Calm and untroubled\" despite receiving many gifts",
+             "\"Indifferent and unaffected\" by any external circumstance",
+             "No description of his mental state is given"],
+         "correct": 0,
+         "expl": "Abhibhūto pariyādiṇṇacitto, the same diagnostic phrase used elsewhere in this collection."},
+        {"q": "How closely does the mendicant's situation mirror the jackal's?",
+         "opts": [
+             "Nearly word for word, with the same postures, places, and outcome repeated",
+             "Only loosely, with no specific parallel details",
+             "The two situations are said to be entirely unrelated",
+             "The mendicant's situation is described as the opposite of the jackal's"],
+         "correct": 0,
+         "expl": "Exact repetition of postures and places, making the parallel unmistakable."},
+        {"q": "What is said to happen to the afflicted mendicant in every posture and place?",
+         "opts": [
+             "He meets with tragedy and disaster",
+             "He achieves greater and greater peace",
+             "He is praised by his fellow mendicants",
+             "Nothing in particular is said to happen"],
+         "correct": 0,
+         "expl": "Anayabyasanaṁ āpajjati, the same outcome named for the jackal."},
+        {"q": "What does this discourse suggest the real tragedy is?",
+         "opts": [
+             "The restlessness and inability to settle itself, not merely one catastrophic event",
+             "Only the eventual loss of robes and belongings",
+             "Being expelled from the monastic order",
+             "A single specific external disaster, described in detail"],
+         "correct": 0,
+         "expl": "Ceaseless wandering and restlessness, comparable to the diseased jackal's condition."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor besides the mendicants' brief affirmative reply appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "Navamaṁ, \"the ninth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eighth discourse of this vagga."},
+    ],
+    marginalia=[
+        ("A question grounded in something actually heard", [
+            "an old jackal, howling before dawn &mdash;",
+            "not a fable, but a shared morning sound",
+        ]),
+        ("An itch that follows into every place", [
+            "den, tree-root, open ground &mdash;",
+            "no posture and no place brings relief",
+        ]),
+        ("The same words, twice, for jackal and mendicant", [
+            "overcome, overwhelmed, unable to settle &mdash;",
+            "the parallel too exact to miss",
+        ]),
+        ("Restlessness itself as the disaster", [
+            "not one catastrophe, but constant unease &mdash;",
+            "tragedy in the inability to be still",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.7.html">SN 17.7 &middot; A Poisoned Arrow</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-17.9.html">SN 17.9 &middot; Gale-force Winds</a> '
+        "&mdash; the next discourse, following a mendicant's fall "
+        "in full narrative detail.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.9 — Verambhasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 9, "Verambha", "Gale-force Winds",
+    meta_title="SN 17.9 — Gale-force Winds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Verambhasutta — a bird flung about by high-altitude "
+        "gale-force winds, its limbs scattered in every direction, "
+        "as a mendicant overwhelmed by possessions, honor, and "
+        "popularity disavows the training after being overcome by "
+        "lust. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The vagga's most narratively explicit discourse, "
+                 "tracing a complete fall from almsround to "
+                 "disrobing"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; the most explicit and consequential "
+                       "narrative in this vagga"),
+    ],
+    why=(
+        "High in the atmosphere, gale-force winds blow; any bird "
+        "that flies there is flung about, its feet going one way, "
+        "its wings another, its head another, its body another. "
+        "The application traces a complete sequence rather than a "
+        "single moment: a mendicant overcome by possessions, honor, "
+        "and popularity goes on almsround without guarding body, "
+        "speech, or mind; sees a woman scantily clad; lust infects "
+        "his mind; he disavows the training and returns to a lesser "
+        "life; and others take his robe, bowl, sitting cloth, and "
+        "needle case, just like the bird's limbs scattered by the "
+        "gale."),
+    guide=[
+        ("The vagga's fullest narrative sequence", [
+            "Rather than a single image applied once, this "
+            "discourse traces a chain of specific steps &mdash; "
+            "unguarded almsround, a chance sight, arising lust, "
+            "disavowal of training, loss of belongings &mdash; "
+            "making it the most narratively developed discourse in "
+            "the vagga so far."]),
+        ("Guarding named as what was absent, not merely bad luck", [
+            "The fall isn't presented as unavoidable misfortune; "
+            "the discourse specifies exactly what was missing "
+            "&mdash; an unguarded body, unguarded speech, an "
+            "unguarded mind, unestablished mindfulness, unrestrained "
+            "senses &mdash; naming the absence of restraint as the "
+            "actual point of failure."]),
+        ("A single sight as the turning point", [
+            "The narrative doesn't describe prolonged temptation; "
+            "one unguarded moment on an ordinary almsround, seeing "
+            "a woman in revealing dress, is enough to let lust "
+            "infect an already-overwhelmed mind."]),
+        ("Consequences named in concrete, physical terms", [
+            "The outcome isn't described abstractly as spiritual "
+            "loss alone; the discourse specifies that others "
+            "physically take his robe, bowl, sitting cloth, and "
+            "needle case, mirroring the bird's limbs scattered in "
+            "every direction."]),
+        ("Gale-force winds as total, directionless dispersal", [
+            "Unlike the entanglement of a hook or the confinement of "
+            "a briar patch, gale-force winds don't just catch or "
+            "restrain; they scatter, sending feet, wings, head, and "
+            "body each a different way, an image of complete "
+            "disintegration rather than mere capture."]),
+    ],
+    terms=[
+        ("verambhā … vātā",
+         "&ldquo;gale-force winds&rdquo; &mdash; this discourse's "
+         "title image, blowing high in the atmosphere."),
+        ("verambhavātakkhittassa",
+         "&ldquo;flung about by gale-force winds&rdquo; &mdash; the "
+         "bird's fate, its limbs scattered in four different "
+         "directions."),
+        ("arakkhiteneva kāyena … asaṁvutehi indriyehi",
+         "&ldquo;without guarding body … without restraining the "
+         "sense faculties&rdquo; &mdash; the discourse's precise "
+         "diagnosis of what was absent before the fall."),
+        ("rāgo cittaṁ anuddhaṁseti",
+         "&ldquo;lust infects his mind&rdquo; &mdash; the turning "
+         "point, triggered by a single unguarded sight."),
+        ("sikkhaṁ paccakkhāya hīnāyāvattati",
+         "&ldquo;disavows the training and returns to a lesser "
+         "life&rdquo; &mdash; the technical term for formally "
+         "leaving the monastic life."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.9:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "What happens to a bird that flies where the gale-force winds blow?",
+         "opts": [
+             "It is flung about, its feet, wings, head, and body each scattered a different way",
+             "It is gently carried to a safe resting place",
+             "It is unaffected, since birds are naturally suited to high winds",
+             "No bird is mentioned in this discourse"],
+         "correct": 0,
+         "expl": "An image of total, directionless dispersal, not mere restraint or capture."},
+        {"q": "What specifically triggers the mendicant's downfall in this discourse?",
+         "opts": [
+             "Seeing a woman scantily clad while on an unguarded almsround",
+             "A direct verbal challenge from a rival ascetic",
+             "A formal accusation brought before the monastic community",
+             "Nothing external; the discourse describes no specific trigger"],
+         "correct": 0,
+         "expl": "A single unguarded sight becomes the turning point."},
+        {"q": "What does the discourse specify was absent before the fall?",
+         "opts": [
+             "Guarding of body, speech, and mind, established mindfulness, and restrained senses",
+             "Sufficient food and material supplies",
+             "A formal teacher or mentor figure",
+             "Nothing is specified; the fall is presented as unexplained misfortune"],
+         "correct": 0,
+         "expl": "The absence of restraint is named precisely, not left as vague bad luck."},
+        {"q": "What does the mendicant do after lust infects his mind?",
+         "opts": [
+             "He disavows the training and returns to a lesser life",
+             "He immediately confesses to the Buddha and is forgiven",
+             "He meditates on impermanence and overcomes the lust",
+             "Nothing further happens; the discourse ends at this point"],
+         "correct": 0,
+         "expl": "Sikkhaṁ paccakkhāya hīnāyāvattati, the technical term for formally leaving monastic life."},
+        {"q": "What happens to his belongings after he disrobes?",
+         "opts": [
+             "Others take his robe, bowl, sitting cloth, and needle case",
+             "He is allowed to keep everything as a parting gift",
+             "His belongings are ceremonially burned",
+             "No mention is made of his belongings afterward"],
+         "correct": 0,
+         "expl": "A concrete, physical mirroring of the bird's limbs scattered by the gale."},
+        {"q": "How does this discourse's narrative compare to the other discourses in this vagga so far?",
+         "opts": [
+             "It is the most narratively developed, tracing a full chain of specific steps",
+             "It is the shortest and most compact discourse in the vagga",
+             "It contains no narrative at all, only a rhetorical question",
+             "It is identical in structure to SN 17.6 and SN 17.7"],
+         "correct": 0,
+         "expl": "The fullest sequence of specific events in the vagga so far."},
+        {"q": "How does the gale-force wind image differ from the hook or briar-patch images used earlier in this vagga?",
+         "opts": [
+             "It suggests total, directionless scattering rather than entanglement or confinement",
+             "It is functionally identical to the hook image with no meaningful difference",
+             "It suggests gentle, harmless movement rather than any danger",
+             "This discourse contains no comparison to earlier images"],
+         "correct": 0,
+         "expl": "Complete disintegration in every direction, rather than being caught or restrained in one place."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Navamaṁ, \"the ninth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The ninth discourse of this vagga."},
+    ],
+    marginalia=[
+        ("Not caught, but scattered entirely", [
+            "feet one way, wings another &mdash;",
+            "no single point of capture, only dispersal",
+        ]),
+        ("Naming exactly what was left unguarded", [
+            "body, speech, mind, senses &mdash;",
+            "the fall traced to a specific absence",
+        ]),
+        ("One sight, on an ordinary morning", [
+            "no prolonged siege, just an unguarded moment &mdash;",
+            "enough, once the mind was already overwhelmed",
+        ]),
+        ("Loss made physical, not left abstract", [
+            "robe, bowl, sitting cloth, needle case &mdash;",
+            "taken, piece by piece, like scattered limbs",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.8.html">SN 17.8 &middot; A Jackal</a> &mdash; '
+        "the discourse immediately before this one.",
+        '<a href="sn-17.10.html">SN 17.10 &middot; With Verses</a> '
+        "&mdash; the vagga's closing discourse, offering a positive "
+        "counter-model in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.10 — Sagāthakasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 10, "Sagāthaka", "With Verses",
+    meta_title="SN 17.10 — With Verses | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Sagāthakasutta — those overcome by honor, by lack "
+        "of honor, or by both are reborn in hell, but one whose "
+        "immersion doesn't waver either way is called a true "
+        "person. The vagga's closing discourse. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, closing with verse"),
+        ("Form", "Three parallel prose cases followed by two verses "
+                 "&mdash; the vagga's only discourse to close in "
+                 "verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; the vagga's summary discourse, "
+                       "naming a positive counter-model for the "
+                       "first time"),
+    ],
+    why=(
+        "This closing discourse widens the danger in a way none "
+        "before it has: someone overcome by honor is reborn in "
+        "hell; someone overcome by lack of honor is reborn in hell; "
+        "someone overcome by both together is reborn in hell "
+        "&mdash; the danger runs in both directions, not only "
+        "toward those who receive too much. Then, for the first "
+        "time in this vagga, the Buddha names what doesn't fail: in "
+        "verse, whoever's immersion doesn't waver whether honored "
+        "or not, who abides in the immeasurables, meditates "
+        "persistently with subtle view, and rejoices in the ending "
+        "of grasping, is called a true person, a sappurisa."),
+    guide=[
+        ("Honor's absence named as dangerous too", [
+            "Every discourse before this one in the vagga warned "
+            "against being overcome by receiving too much; this one "
+            "adds a second case entirely absent elsewhere &mdash; "
+            "being overcome by asakkāra, lack of honor, is named as "
+            "equally capable of leading to hell."]),
+        ("A third case: overcome by both at once", [
+            "The discourse doesn't stop at two symmetrical dangers; "
+            "it adds a third person overcome by both honor and its "
+            "absence together, closing off the possibility that "
+            "simply avoiding one extreme is enough on its own."]),
+        ("Verse arriving only at the vagga's close", [
+            "Every discourse from SN 17.1 through 17.9 is pure prose; "
+            "this one alone shifts into verse for its final "
+            "statement, a formal signal that this discourse is "
+            "meant to summarize and close the collection, not "
+            "merely add one more case."]),
+        ("A positive model named for the first time", [
+            "Where the preceding nine discourses describe only "
+            "failure &mdash; contempt, entanglement, disrobing, "
+            "loss &mdash; this discourse alone describes what "
+            "success looks like: immersion that doesn't waver "
+            "either way, framed in the same terms as the danger it "
+            "answers."]),
+        ("Sappurisa as the vagga's final word", [
+            "The verses close not with a warning but with a title "
+            "&mdash; sappurisa, &ldquo;a true person&rdquo; &mdash; "
+            "granted to whoever's practice holds steady regardless "
+            "of whether honor comes or doesn't, ending the vagga on "
+            "a note of what's actually possible rather than only "
+            "what's at risk."]),
+    ],
+    terms=[
+        ("sakkārena … asakkārena … tadubhayena",
+         "&ldquo;by honor … by lack of honor … by both "
+         "together&rdquo; &mdash; the three parallel cases this "
+         "discourse names, each ending in the same hell rebirth."),
+        ("appamāṇavihārino",
+         "&ldquo;abiding in the immeasurables&rdquo; &mdash; "
+         "boundless goodwill, compassion, joy, and equanimity, "
+         "named as part of the steady practitioner's condition."),
+        ("samādhi na vikampati",
+         "&ldquo;their immersion doesn't waver&rdquo; &mdash; the "
+         "verse's description of what stays stable whether one is "
+         "honored or not."),
+        ("upādānakkhayārāma",
+         "&ldquo;rejoicing in the ending of grasping&rdquo; &mdash; "
+         "the practitioner's actual orientation, contrasted with "
+         "grasping after honor or resenting its absence."),
+        ("sappurisa",
+         "&ldquo;a true person&rdquo; &mdash; the title given in "
+         "the closing verse to whoever's practice remains stable "
+         "either way, the vagga's final word."),
+    ],
+    text_intro=(
+        "The discourse in full, including its closing verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.10:1.1-1.7"),
+        ("p", "&sect;2", "sn17.10:2.1-2.2"),
+        ("p", "&sect;3", "sn17.10:3.1-3.4"),
+        ("p", "&sect;4", "sn17.10:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What three cases does this discourse name, each ending in rebirth in hell?",
+         "opts": [
+             "Overcome by honor; overcome by lack of honor; overcome by both together",
+             "Overcome by hunger, thirst, and fatigue",
+             "Overcome by fear, anger, and pride",
+             "Only one case is named, not three"],
+         "correct": 0,
+         "expl": "A danger running in both directions, not only toward excess."},
+        {"q": "What does this discourse add that the previous nine discourses in the vagga did not?",
+         "opts": [
+             "That being overcome by lack of honor is equally dangerous as being overcome by honor itself",
+             "A fourth vagga of the same collection",
+             "A claim that possessions and honor are entirely harmless",
+             "Nothing new; it simply repeats SN 17.9's content"],
+         "correct": 0,
+         "expl": "Honor's absence, not just its presence, is newly named as a danger."},
+        {"q": "What form does this discourse take that no earlier discourse in the vagga uses?",
+         "opts": [
+             "Verse, arriving only at the very close of the discourse",
+             "A rhetorical question with no narrative at all",
+             "A dialogue between two named individuals",
+             "This discourse uses the exact same form as all the others"],
+         "correct": 0,
+         "expl": "Every discourse from SN 17.1 through 17.9 is prose; this one alone closes in verse."},
+        {"q": "According to the closing verse, what stays steady in a true person?",
+         "opts": [
+             "Their immersion, whether they are honored or not honored, or both",
+             "Their opinion of other mendicants",
+             "The amount of almsfood they receive each day",
+             "Nothing is said to stay steady"],
+         "correct": 0,
+         "expl": "Samādhi na vikampati, immersion that doesn't waver either way."},
+        {"q": "What title does the closing verse grant to this steady practitioner?",
+         "opts": [
+             "Sappurisa, \"a true person\"",
+             "Arahant, \"one who is worthy\"",
+             "Sekha, \"a trainee\"",
+             "No title is granted"],
+         "correct": 0,
+         "expl": "The vagga's final word, naming what success actually looks like."},
+        {"q": "What is this true person said to rejoice in, according to the verse?",
+         "opts": [
+             "The ending of grasping",
+             "The accumulation of further possessions",
+             "Praise from senior mendicants",
+             "Nothing in particular is mentioned"],
+         "correct": 0,
+         "expl": "Upādānakkhayārāma, rejoicing in the ending of grasping, not in gain itself."},
+        {"q": "How does this discourse's structure compare to the nine before it in the vagga?",
+         "opts": [
+             "It alone names a positive counter-model, where the earlier nine describe only failure",
+             "It is identical in every respect to SN 17.1",
+             "It contains no application at all, only a fable",
+             "It is far shorter than any discourse before it"],
+         "correct": 0,
+         "expl": "The first discourse in the vagga to describe what success looks like, not only danger."},
+        {"q": "What practice is the steady practitioner said to engage in persistently, per the verse?",
+         "opts": [
+             "Meditation with subtle view and discernment",
+             "Almsround in a different village each day",
+             "Formal debate with rival ascetics",
+             "No specific practice is mentioned"],
+         "correct": 0,
+         "expl": "Jhāyinaṁ sātatikaṁ, sukhumaṁ diṭṭhivipassakaṁ — persistent meditation with subtle discernment."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What position does this discourse occupy in its vagga?",
+         "opts": [
+             "The tenth and final discourse, closing the vagga",
+             "The first discourse of the vagga",
+             "The fifth discourse, at the vagga's midpoint",
+             "It does not belong to this vagga"],
+         "correct": 0,
+         "expl": "Dasamaṁ, \"the tenth,\" marked at its close, followed by the vagga's end and uddāna."},
+    ],
+    marginalia=[
+        ("Danger running in both directions", [
+            "honored, or not honored, or both &mdash;",
+            "no side of it is actually safe ground",
+        ]),
+        ("Prose giving way to verse, once, at the close", [
+            "nine discourses of plain prose, then this &mdash;",
+            "a formal signal the collection is ending",
+        ]),
+        ("What stays steady, named at last", [
+            "immersion that doesn't waver either way &mdash;",
+            "not avoidance, but something unmoved",
+        ]),
+        ("A title, not just a warning, as the final word", [
+            "sappurisa, a true person &mdash;",
+            "the vagga closes on what's possible",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.9.html">SN 17.9 &middot; Gale-force Winds</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-17.11.html">SN 17.11 &middot; A Gold Cup</a> '
+        "&mdash; the next discourse, opening the vagga that "
+        "follows.",
+    ],
+)
