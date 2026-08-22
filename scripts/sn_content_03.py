@@ -37,7 +37,12 @@ INDEX_HEADING = "III. Khandhavagga — The Book of the Aggregates"
 # SN 22.2 -- the same one-time fix Book I and Book II's own HEAD pages
 # (SN 1.1, SN 12.1, SN 12.2) evidently received when each book began.
 HEAD = ("sn-22.1.html", "SN 22.1 &middot; Nakula&rsquo;s Father")
-TAIL = ("sn-22.87.html", "SN 22.87 &middot; With Vakkali")
+TAIL = ("sn-35.28.html", "SN 35.28 &middot; Burning")
+# TAIL moved here from sn-22.87.html once Theravagga (SN 22.83-92) was
+# generated and reached past SN 22.87 -- confirmed by directory scan that
+# no other pre-existing page exists anywhere else in Book III's remaining
+# range (SN 22.93-159, SN 23-34), so sn-35.28.html (Book IV's own first
+# page) is TAIL's final destination for the rest of this module's life.
 # TAIL moved here from sn-22.59.html once Upayavagga (SN 22.53-62) was
 # generated and reached past SN 22.59 -- that pre-existing page now sits
 # mid-sequence between this module's SN 22.58 and SN 22.60, not in PAGES,
@@ -18834,5 +18839,2170 @@ page(
         "Gratification</a> &mdash; the vagga's opening discourse, "
         "whose compressed triad this closing dialogue now folds "
         "into a full systematic synthesis.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.83 — Ānandasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 83, "Ānanda", "With Ānanda",
+    vagga="Theravagga",
+    meta_title="SN 22.83 — With Ānanda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ānandasutta &mdash; Ānanda recalls the advice that first "
+        "helped him as a newly ordained monk: \"I am\" occurs only "
+        "because of grasping, illustrated by a vanity mirror. Opens "
+        "Theravagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Ānanda, addressing a gathering of "
+                     "mendicants, recounting teaching he received "
+                     "from Venerable Puṇṇa Mantāṇiputta"),
+        ("Form", "A first-person recollection, nested within Ānanda's "
+                 "own address to the assembly"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a memorable simile carrying most of the "
+                       "discourse's teaching weight"),
+    ],
+    why=(
+        "This discourse opens Theravagga (&ldquo;the senior "
+        "mendicants chapter&rdquo;) with something structurally "
+        "distinctive: Ānanda himself as the speaker, addressing a "
+        "gathering of mendicants not with his own original teaching "
+        "but with a recollection of advice given to him by Venerable "
+        "Puṇṇa Mantāṇiputta when Ānanda was newly ordained. The "
+        "advice traces the thought &ldquo;I am&rdquo; to a single "
+        "condition &mdash; grasping the aggregates &mdash; and "
+        "illustrates it with an image of vanity: someone young and "
+        "fond of adornments checking their reflection in a mirror "
+        "looks because of grasping, not without it."
+    ),
+    guide=[
+        ("A vagga opening with a disciple's voice, not the Buddha's own", [
+            "Every discourse in this vagga so far in the collection "
+            "has featured the Buddha teaching directly. This "
+            "discourse instead opens with Ānanda addressing the "
+            "mendicants himself, framing what follows explicitly as "
+            "something he received from another senior disciple "
+            "&mdash; a rare instance of the teaching being passed "
+            "sideways between disciples rather than down from the "
+            "Buddha, then preserved and recounted within the "
+            "collection.",
+        ]),
+        ("A single condition for the thought \"I am\"", [
+            "Puṇṇa's advice to the newly ordained Ānanda is precise: "
+            "the thought &ldquo;I am&rdquo; occurs because of "
+            "grasping, not without grasping &mdash; specifically, "
+            "grasping form, feeling, perception, choices, and "
+            "consciousness. No other source for this thought is "
+            "named or left open; it depends entirely on this one "
+            "condition.",
+        ]),
+        ("A mirror, checked out of vanity", [
+            "The illustrating simile is deliberately ordinary: a "
+            "young person fond of adornments checks their own "
+            "reflection in a clean mirror or bowl of clear water. "
+            "They look, Puṇṇa says, because of grasping, not without "
+            "grasping &mdash; the very act of checking one's "
+            "appearance presupposes an investment in how one appears, "
+            "mapping directly onto how the thought &ldquo;I am&rdquo; "
+            "presupposes grasping the aggregates.",
+        ]),
+        ("Ānanda's own testimony to the teaching's effect", [
+            "The discourse closes with Ānanda's direct personal "
+            "report: &ldquo;when I heard this teaching from Venerable "
+            "Puṇṇa Mantāṇiputta, I comprehended the teaching.&rdquo; "
+            "This first-person confirmation, from one of the "
+            "collection's most central figures, gives this brief "
+            "discourse an unusual biographical weight &mdash; a "
+            "specific moment in Ānanda's own development, preserved "
+            "and passed on by Ānanda himself.",
+        ]),
+    ],
+    terms=[
+        ("asmīti hoti upādāya, no anupādāya",
+         "&ldquo;'I am' occurs because of grasping, not without "
+         "grasping&rdquo; &mdash; Puṇṇa's central formula, naming a "
+         "single necessary condition for the thought."),
+        ("Puṇṇa Mantāṇiputta",
+         "Puṇṇa, son of Mantāṇī &mdash; the senior disciple whose "
+         "advice to the newly ordained Ānanda this discourse "
+         "preserves, praised elsewhere in the canon for his skill in "
+         "teaching."),
+        ("ādāsa",
+         "&ldquo;mirror&rdquo; &mdash; the central image of the "
+         "discourse's illustrating simile."),
+        ("maṇḍanajātika",
+         "&ldquo;fond of adornments&rdquo; &mdash; the description "
+         "of the person in the simile, whose vanity motivates "
+         "checking their own reflection."),
+        ("aññāsiṁ dhammaṁ",
+         "&ldquo;I comprehended the teaching&rdquo; &mdash; Ānanda's "
+         "own closing testimony to the effect this specific teaching "
+         "had on him."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions (feeling, "
+        "perception, and choices, spelled out in full for form and "
+        "consciousness) are given exactly as bilara-data preserves "
+        "them. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.83:2.1-2.9"),
+        ("p", "&sect;2", "sn22.83:3.1-3.6"),
+        ("p", "&sect;3", "sn22.83:4.1-4.4"),
+        ("p", "&sect;4", "sn22.83:4.12-4.14"),
+    ],
+    quiz=[
+        {"q": "Who is the speaker addressing the mendicants in this discourse?",
+         "opts": [
+             "Venerable Ānanda, recounting advice he received from Venerable Puṇṇa Mantāṇiputta",
+             "The Buddha, teaching directly",
+             "Venerable Sāriputta",
+             "An unnamed mendicant"],
+         "correct": 0,
+         "expl": "A rare instance in this vagga of a disciple's voice opening the discourse, not the Buddha's own."},
+        {"q": "What single condition does Puṇṇa's advice trace the thought \"I am\" to?",
+         "opts": [
+             "Grasping the five aggregates",
+             "A specific ritual practice",
+             "Formal ordination itself",
+             "Physical illness"],
+         "correct": 0,
+         "expl": "No other source is named or left open; the thought depends entirely on this one condition."},
+        {"q": "What simile illustrates this teaching?",
+         "opts": [
+             "A young, vanity-fond person checking their reflection in a mirror",
+             "A lion emerging from its den",
+             "Plants needing earth and water to grow",
+             "A firebrand burning at both ends"],
+         "correct": 0,
+         "expl": "Looking because of grasping (vanity), not without it, mapping onto how \"I am\" presupposes grasping."},
+        {"q": "How does Ānanda close this discourse?",
+         "opts": [
+             "With his own personal testimony that hearing this teaching led him to comprehend it",
+             "With a warning against trusting other disciples' teachings",
+             "With a denial that he understood the teaching",
+             "With a request for the Buddha to confirm the teaching"],
+         "correct": 0,
+         "expl": "A specific biographical moment in Ānanda's own development, preserved by Ānanda himself."},
+        {"q": "When did Ānanda receive this advice from Puṇṇa, according to the discourse?",
+         "opts": [
+             "When Ānanda was newly ordained",
+             "Shortly before the Buddha's death",
+             "During Ānanda's own final illness",
+             "The discourse does not specify a time"],
+         "correct": 0,
+         "expl": "Puṇṇa was \"very helpful\" to Ānanda specifically at this early stage of his monastic life."},
+        {"q": "How many aggregates does this teaching apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Kosambī",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the opening setting for this vagga."},
+        {"q": "What does this discourse's structure suggest about how teaching circulated in the early community?",
+         "opts": [
+             "That teaching passed sideways between disciples, not only down from the Buddha, and was preserved this way",
+             "That only the Buddha's own words were ever preserved",
+             "That senior disciples never taught newly ordained monks",
+             "That this teaching originated with Ānanda himself"],
+         "correct": 0,
+         "expl": "A rare glimpse of disciple-to-disciple instruction within the collection's usual Buddha-centered structure."},
+        {"q": "What position does this discourse hold in Theravagga?",
+         "opts": [
+             "The opening discourse, giving the vagga its own character through named senior disciples",
+             "The vagga's closing discourse",
+             "The exact midpoint of the vagga",
+             "It does not belong to this vagga"],
+         "correct": 0,
+         "expl": "Setting the pattern for a vagga organized around specific named individuals throughout."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.84, with Tissa, the Buddha's cousin, who is discouraged and doubting",
+             "A return to SN 22.73",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "Continuing the vagga's pattern of named individual encounters."},
+    ],
+    marginalia=[
+        ("A disciple's voice opening the vagga", [
+            "not the Buddha teaching directly &mdash;",
+            "Ānanda recounting what he himself once received",
+        ]),
+        ("One condition, no other source named", [
+            "\"I am\" only because of grasping &mdash;",
+            "no alternative explanation left open",
+        ]),
+        ("Vanity as the illustrating image", [
+            "checking one's reflection in a mirror &mdash;",
+            "grasping presupposed by the very act of looking",
+        ]),
+        ("A specific moment in Ānanda's own development", [
+            "\"I comprehended the teaching\" &mdash;",
+            "preserved and passed on by Ānanda himself",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.83/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.82.html">SN 22.82 &middot; A Full Moon '
+        "Night</a> &mdash; the previous discourse, closing "
+        "Khajjanīyavagga.",
+        '<a href="sn-22.84.html">SN 22.84 &middot; With Tissa</a> '
+        "&mdash; the next discourse, the Buddha's own cousin, "
+        "discouraged and doubting.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.84 — Tissasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 84, "Tissa", "With Tissa",
+    vagga="Theravagga",
+    meta_title="SN 22.84 — With Tissa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tissasutta &mdash; the Buddha personally summons his "
+        "discouraged cousin and closes with an unusually elaborate "
+        "allegory of a forked road leading to a cliff or to parkland. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, summoning and then directly "
+                     "counseling Venerable Tissa, his cousin"),
+        ("Form", "A pastoral care narrative &mdash; discouragement "
+                 "reported, the Buddha's summons, questioning, then a "
+                 "fully decoded allegory"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the closing allegory is elaborate but fully "
+                       "decoded within the discourse itself"),
+    ],
+    why=(
+        "This discourse gives a vivid picture of pastoral care within "
+        "the early community: Venerable Tissa, the Buddha's cousin, "
+        "reports to fellow mendicants that his body feels drugged, "
+        "he's disoriented, teachings won't come to mind, he's "
+        "dissatisfied with the spiritual life, and he has doubts about "
+        "the teaching itself. Word reaches the Buddha, who personally "
+        "summons Tissa, confirms the standard teaching through "
+        "questioning, and then &mdash; uniquely among the discourses "
+        "in this book &mdash; supplies an extended allegory of a "
+        "forked road, decoded piece by piece, before closing with "
+        "unusually warm personal encouragement."
+    ),
+    guide=[
+        ("A discouraged monk, reported and personally summoned", [
+            "Tissa's own description of his condition is unusually "
+            "candid and specific for this collection: his body feels "
+            "drugged, he's disoriented, teachings don't spring to "
+            "mind, dullness and drowsiness fill his mind, he leads the "
+            "spiritual life dissatisfied, and he has doubts about the "
+            "teachings. Rather than being addressed by whichever "
+            "mendicants happen to be present, word of this reaches the "
+            "Buddha directly, who sends a monk to summon Tissa by "
+            "name.",
+        ]),
+        ("The standard teaching, confirmed through direct questioning", [
+            "The Buddha's method with Tissa follows the familiar "
+            "Socratic pattern: confirming, aggregate by aggregate, "
+            "that not being rid of greed for an aggregate means its "
+            "decay gives rise to sorrow, while being rid of that greed "
+            "means it doesn't &mdash; before moving to the standard "
+            "impermanence-based conclusion. What is unusual is the "
+            "Buddha's warm affirmation after each confirmed answer: "
+            "&ldquo;good, good, Tissa!&rdquo;",
+        ]),
+        ("A forked road, fully decoded", [
+            "The discourse's centerpiece is an extended allegory found "
+            "nowhere else quite this way in this book: two travelers, "
+            "one skilled in a path and one not, the skilled one "
+            "describing a journey past a fork, through a dense forest, "
+            "across low-lying marshes, past a steep cliff, to level "
+            "cleared parkland. The Buddha then decodes every element "
+            "explicitly: the fork is doubt, the wrong left path is the "
+            "wrong eightfold path, the forest is ignorance, the "
+            "marshes are sensual pleasure, the cliff is anger and "
+            "distress, and the parkland is extinguishment itself.",
+        ]),
+        ("Closing on unusually direct, personal warmth", [
+            "The discourse ends with words rarely matched in tone "
+            "elsewhere in this collection: &ldquo;rejoice, Tissa, "
+            "rejoice! I am here with advice, with support, with "
+            "instruction.&rdquo; Rather than closing with the standard "
+            "arahant declaration or a colophon, this discourse closes "
+            "on the Buddha's own direct personal reassurance to a "
+            "specific, named, struggling relative.",
+        ]),
+    ],
+    terms=[
+        ("madhurakajāta",
+         "&ldquo;feels like it's drugged&rdquo; &mdash; Tissa's own "
+         "candid description of his physical and mental state, "
+         "unusually specific for this collection."),
+        ("dvedhāpathaṁ",
+         "&ldquo;a fork in the road&rdquo; &mdash; decoded explicitly "
+         "as doubt (vicikicchā) in the allegory's closing explanation."),
+        ("gambhīraṁ papātaṁ",
+         "&ldquo;a large, steep cliff&rdquo; &mdash; decoded as anger "
+         "and distress (kodhūpāyāsa)."),
+        ("samatikkantaṁ bhūmibhāgaṁ",
+         "&ldquo;level, cleared parkland&rdquo; &mdash; decoded "
+         "directly as extinguishment (nibbāna) itself, the allegory's "
+         "final destination."),
+        ("abhiramassu, tissa, abhiramassu",
+         "&ldquo;rejoice, Tissa, rejoice!&rdquo; &mdash; the "
+         "discourse's closing personal encouragement."),
+    ],
+    text_intro=(
+        "The discourse in full, including the complete allegory and "
+        "its decoding. Elided repetitions (feeling, perception, and "
+        "choices, spelled out in full for form and consciousness) are "
+        "given exactly as bilara-data preserves them. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.84:1.2-1.3"),
+        ("p", "&sect;2", "sn22.84:3.6-3.7"),
+        ("p", "&sect;3", "sn22.84:3.9-3.11"),
+        ("p", "&sect;4", "sn22.84:4.1-4.3"),
+        ("p", "&sect;5", "sn22.84:6.4-6.6"),
+        ("p", "&sect;6", "sn22.84:7.1-7.3"),
+        ("p", "&sect;7", "sn22.84:8.5-8.14"),
+        ("p", "&sect;8", "sn22.84:9.1-9.15"),
+        ("p", "&sect;9", "sn22.84:10.1-10.15"),
+    ],
+    quiz=[
+        {"q": "What does Tissa report about his own condition to fellow mendicants?",
+         "opts": [
+             "His body feels drugged, he's disoriented, teachings won't come to mind, and he has doubts about the teaching",
+             "He has fully attained arahantship and wants to announce it",
+             "He wants to disrobe and return to lay life immediately",
+             "He has a specific physical injury needing medical treatment"],
+         "correct": 0,
+         "expl": "An unusually candid, specific description of discouragement for this collection."},
+        {"q": "How does word of Tissa's condition reach the Buddha?",
+         "opts": [
+             "Several mendicants report it to him directly, and he personally summons Tissa by name",
+             "Tissa reports it to the Buddha himself first",
+             "The Buddha discovers it through psychic power alone",
+             "It is never reported to the Buddha in this discourse"],
+         "correct": 0,
+         "expl": "A direct personal summons, distinct from a general teaching to the assembly."},
+        {"q": "What does the Buddha say after each of Tissa's confirmed answers?",
+         "opts": [
+             "\"Good, good, Tissa!\" — an unusual warmth of affirmation",
+             "Nothing — the Buddha remains silent throughout",
+             "A stern correction each time",
+             "A denial that Tissa understands correctly"],
+         "correct": 0,
+         "expl": "A notably warm tone distinguishing this discourse from more neutral Socratic exchanges elsewhere."},
+        {"q": "What does the allegory's fork in the road represent?",
+         "opts": [
+             "Doubt",
+             "Certainty",
+             "Physical illness",
+             "Old age"],
+         "correct": 0,
+         "expl": "Decoded explicitly within the discourse itself."},
+        {"q": "What does the allegory's level, cleared parkland represent?",
+         "opts": [
+             "Extinguishment (nibbāna) itself",
+             "A temporary rest stop before further travel",
+             "A dangerous trap",
+             "The wrong path's true destination"],
+         "correct": 0,
+         "expl": "The allegory's final destination, reached via the right-hand path."},
+        {"q": "What does the steep cliff in the allegory represent?",
+         "opts": [
+             "Anger and distress",
+             "Physical death",
+             "Monastic discipline",
+             "Wisdom"],
+         "correct": 0,
+         "expl": "One of several obstacles named along the wrong, left-hand path."},
+        {"q": "How does the discourse close?",
+         "opts": [
+             "With unusually direct personal warmth: \"rejoice, Tissa, rejoice! I am here with advice, with support\"",
+             "With the standard four-part arahant declaration",
+             "With a formal colophon naming the discourse's completion",
+             "With a stern final warning"],
+         "correct": 0,
+         "expl": "Personal reassurance to a specific, named, struggling relative, rather than a standard closing formula."},
+        {"q": "How many aggregates does the Buddha's initial questioning apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Kosambī",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as SN 22.83."},
+        {"q": "What is Tissa's relationship to the Buddha?",
+         "opts": [
+             "His cousin on his father's side",
+             "His son",
+             "An unrelated senior disciple",
+             "His former teacher before awakening"],
+         "correct": 0,
+         "expl": "A family relationship adding to the discourse's personal, pastoral character."},
+    ],
+    marginalia=[
+        ("Candid discouragement, unusually specific", [
+            "drugged, disoriented, doubting &mdash;",
+            "a personal summons follows directly",
+        ]),
+        ("Warmth after every confirmed answer", [
+            "\"good, good, Tissa!\" &mdash;",
+            "an affirming tone distinct from neutral questioning",
+        ]),
+        ("A forked road, decoded piece by piece", [
+            "fork, forest, marsh, cliff, parkland &mdash;",
+            "every element named explicitly within the discourse",
+        ]),
+        ("A closing rare in its direct personal tone", [
+            "\"rejoice, Tissa, rejoice!\" &mdash;",
+            "not a formula, but reassurance to a named relative",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.84/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.83.html">SN 22.83 &middot; With Ānanda</a> '
+        "&mdash; the previous discourse, opening this vagga of named "
+        "senior disciples.",
+        '<a href="sn-22.85.html">SN 22.85 &middot; With Yamaka</a> '
+        "&mdash; the next discourse, one of the canon's classic "
+        "demonstrations that the Realized One cannot be found.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.85 — Yamakasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 85, "Yamaka", "With Yamaka",
+    vagga="Theravagga",
+    meta_title="SN 22.85 — With Yamaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Yamakasutta &mdash; Sāriputta corrects a monk's "
+        "annihilationist misreading by showing the Realized One "
+        "cannot be found even in life, closing with the famous "
+        "\"murderer\" simile. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                    "monastery"),
+        ("Speakers", "Venerable Sāriputta corrects Venerable Yamaka's "
+                     "misconception, after other mendicants fail to "
+                     "dissuade him"),
+        ("Form", "An escalating dialogue &mdash; peer correction, "
+                 "failed persuasion, Sāriputta's intervention, an "
+                 "exhaustive dialectic, and an extended simile"),
+        ("Length", "~8 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; "
+                       "one of the canon's most rigorous and famous "
+                       "philosophical demonstrations"),
+    ],
+    why=(
+        "This discourse addresses, head-on, a specific misreading of "
+        "the Buddha's teaching: the mendicant Yamaka has concluded "
+        "that an arahant, once the body breaks up, is simply "
+        "&ldquo;annihilated and destroyed&hellip;and doesn't exist "
+        "after death.&rdquo; Ordinary peer correction fails "
+        "completely &mdash; Yamaka obstinately insists on his view "
+        "even after being told he is misrepresenting the Buddha. "
+        "Sāriputta is called in specifically, and what follows is one "
+        "of the canon's most rigorous demonstrations: that a "
+        "&ldquo;Realized One&rdquo; cannot be found or identified even "
+        "in this very life, which makes the entire question of "
+        "existing or not existing after death malformed from the "
+        "start. The discourse closes with the famous simile of a "
+        "murderer who serves a wealthy man for years before striking."
+    ),
+    guide=[
+        ("Peer correction fails; a senior disciple is called in", [
+            "Several mendicants hear Yamaka's view, confront him "
+            "directly, and tell him plainly: &ldquo;don't say that, "
+            "Yamaka! Don't misrepresent the Buddha&hellip;the Buddha "
+            "would not say that.&rdquo; Yamaka simply refuses to be "
+            "moved. Only once ordinary correction has demonstrably "
+            "failed do the mendicants turn to Sāriputta specifically, "
+            "asking him to intervene &ldquo;out of sympathy.&rdquo;",
+        ]),
+        ("An exhaustive dialectic: the Realized One cannot be found", [
+            "Sāriputta's method goes far beyond the standard fourfold "
+            "self-identification formula used elsewhere in this book. "
+            "After confirming the aggregates' impermanence, he asks "
+            "whether the label &ldquo;realized one&rdquo; applies to "
+            "an aggregate, then whether it applies in relation to an "
+            "aggregate, apart from an aggregate, to one who has that "
+            "aggregate, and to one who is without it &mdash; five "
+            "distinct configurations run across all five aggregates. "
+            "Yamaka answers no to every single one. The conclusion "
+            "follows directly: since a Realized One cannot be found "
+            "as a genuine fact even now, in this very life, the "
+            "question of whether that Realized One exists or doesn't "
+            "exist after death was never well-formed to begin with.",
+        ]),
+        ("The famous murderer simile", [
+            "Once Yamaka has given up his misconception, Sāriputta "
+            "offers a further simile to sharpen the point: a person "
+            "wanting to kill a wealthy, well-guarded householder "
+            "cannot simply attack by force, so instead befriends him, "
+            "serves him faithfully for years, earns his complete "
+            "trust &mdash; and only then, catching him alone, kills "
+            "him with a knife. Sāriputta asks: wasn't that person "
+            "already a killer from the very moment they first offered "
+            "to serve, even though the householder didn't know it? "
+            "The aggregates function the same way for an unlearned "
+            "person &mdash; a &ldquo;killer&rdquo; not recognized as "
+            "such, attracting trust and attachment while quietly "
+            "carrying suffering the whole time.",
+        ]),
+        ("Sixty terms and sixty minds, closing in freedom", [
+            "The discourse's closing movement runs the full "
+            "vocabulary of this book's aggregates literature at once "
+            "&mdash; self-identification, impermanence, suffering, "
+            "not-self, conditioned, and now killer, each stated first "
+            "for the unlearned person and then negated for the "
+            "learned noble disciple &mdash; before Yamaka's own final "
+            "words: after hearing this teaching, &ldquo;my mind is "
+            "freed from the defilements by not grasping.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("vinipātitañceva vinaṭṭhañca",
+         "&ldquo;annihilated and destroyed&rdquo; &mdash; Yamaka's "
+         "original mistaken description of an arahant's fate after "
+         "death, the misconception this entire discourse corrects."),
+        ("rūpasmiṁ tathāgato ti samanupassasi",
+         "&ldquo;do you consider that the label 'realized one' "
+         "applies to form?&rdquo; &mdash; the opening question of "
+         "Sāriputta's exhaustive fivefold dialectic."),
+        ("na h'idaṁ, āvuso, tathāgato saccato thetato upalabbhati",
+         "&ldquo;a Realized One is not found by you as a genuine "
+         "fact&rdquo; &mdash; Sāriputta's conclusion, closing the "
+         "dialectic before the question of after-death existence can "
+         "even be coherently posed."),
+        ("vadhaka",
+         "&ldquo;killer&rdquo; &mdash; the term applied to each "
+         "aggregate in the discourse's closing simile, alongside "
+         "impermanent, suffering, not-self, and conditioned."),
+        ("anupādāya āsavehi cittaṁ vimuttaṁ",
+         "&ldquo;my mind is freed from the defilements by not "
+         "grasping&rdquo; &mdash; Yamaka's own closing testimony, "
+         "confirming his complete change of understanding."),
+    ],
+    text_intro=(
+        "The discourse in full, including the complete murderer "
+        "simile. Elided repetitions across the dialectic (feeling, "
+        "perception, and choices, spelled out in full for form and "
+        "consciousness where the source does so) are given exactly as "
+        "bilara-data preserves them. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.85:1.2-1.3"),
+        ("p", "&sect;2", "sn22.85:4.1-4.3"),
+        ("p", "&sect;3", "sn22.85:8.1-8.4"),
+        ("p", "&sect;4", "sn22.85:9.1-9.6"),
+        ("p", "&sect;5", "sn22.85:11.4-11.5"),
+        ("p", "&sect;6", "sn22.85:12.1-12.2"),
+        ("p", "&sect;7", "sn22.85:14.3-14.19"),
+        ("p", "&sect;8", "sn22.85:15.1-15.13"),
+        ("p", "&sect;9", "sn22.85:20.1-20.5"),
+        ("p", "&sect;10", "sn22.85:27.1-27.5"),
+        ("p", "&sect;11", "sn22.85:28.6-28.8"),
+    ],
+    quiz=[
+        {"q": "What misconception does Yamaka hold at the start of this discourse?",
+         "opts": [
+             "That an arahant is annihilated and destroyed at death, and doesn't exist after death",
+             "That an arahant continues to exist forever unchanged",
+             "That no one can ever become an arahant",
+             "That the aggregates are permanent"],
+         "correct": 0,
+         "expl": "The specific misreading this entire discourse is built to correct."},
+        {"q": "What happens when ordinary mendicants first try to correct Yamaka?",
+         "opts": [
+             "He obstinately refuses to be moved, even after being told he's misrepresenting the Buddha",
+             "He immediately agrees and changes his view",
+             "He argues that the mendicants themselves are wrong about the Buddha's teaching",
+             "He leaves the community entirely"],
+         "correct": 0,
+         "expl": "Only after this failure do the mendicants turn to Sāriputta specifically."},
+        {"q": "What five configurations does Sāriputta's dialectic run across each aggregate?",
+         "opts": [
+             "Applies to it, in relation to it, apart from it, to one who has it, and to one who is without it",
+             "Past, future, present, internal, and external",
+             "Impermanent, suffering, not-self, conditioned, and empty",
+             "Only whether the label applies directly, nothing further"],
+         "correct": 0,
+         "expl": "A far more exhaustive dialectic than the standard fourfold self-identification formula used elsewhere."},
+        {"q": "What conclusion does Sāriputta draw from Yamaka's answers?",
+         "opts": [
+             "Since a Realized One cannot be found as a genuine fact even now, the question of after-death existence was never well-formed",
+             "Since the Realized One cannot be found, he must not exist at all, confirming Yamaka's original view",
+             "The dialectic proves nothing conclusive",
+             "The Realized One exists in some fifth, undescribed way"],
+         "correct": 0,
+         "expl": "The question dissolves rather than being answered with one of the four positions."},
+        {"q": "What does the murderer simile illustrate?",
+         "opts": [
+             "That the aggregates function like a killer earning trust over years before striking, unrecognized as such by the unlearned",
+             "That literal murder is justified under certain circumstances",
+             "That trust between people is always well-placed",
+             "That wealthy people are especially vulnerable to attack"],
+         "correct": 0,
+         "expl": "A person can be a killer from the moment they first offer to serve, even before the victim recognizes it."},
+        {"q": "What new term does the discourse add to the standard list of impermanent, suffering, not-self, and conditioned?",
+         "opts": [
+             "\"Killer\" (vadhaka)",
+             "\"Empty\"",
+             "\"Deceptive\"",
+             "\"Untrustworthy\""],
+         "correct": 0,
+         "expl": "Directly connecting the philosophical dialectic to the simile that follows it."},
+        {"q": "What does Yamaka say at the discourse's close?",
+         "opts": [
+             "That his mind is freed from the defilements by not grasping",
+             "That he still holds his original misconception",
+             "That he needs further time to consider the teaching",
+             "That he will leave the monastic life"],
+         "correct": 0,
+         "expl": "A complete reversal from his opening misconception, confirmed in his own words."},
+        {"q": "Who first identifies Yamaka's misconception and confronts him about it?",
+         "opts": [
+             "Several ordinary mendicants who heard the rumor",
+             "The Buddha himself, directly",
+             "Venerable Sāriputta, from the very start",
+             "Yamaka confesses it unprompted"],
+         "correct": 0,
+         "expl": "Sāriputta is only brought in after this initial peer correction fails."},
+        {"q": "How many aggregates does Sāriputta's dialectic apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Each configuration is run across all five aggregates in turn."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Kosambī, Ghosita's Monastery",
+             "Rājagaha, the Bamboo Grove",
+             "Vesālī, the Great Wood"],
+         "correct": 0,
+         "expl": "Sāriputta is described as staying here at the discourse's opening."},
+    ],
+    marginalia=[
+        ("Ordinary correction, tried and failed first", [
+            "\"don't misrepresent the Buddha\" &mdash;",
+            "obstinacy answered only by bringing in Sāriputta",
+        ]),
+        ("A dialectic far beyond the usual fourfold formula", [
+            "applies to, in relation to, apart from, has, without &mdash;",
+            "five configurations, all five aggregates, all negative",
+        ]),
+        ("The question dissolved, not answered", [
+            "not found now, so the after-death question collapses &mdash;",
+            "none of the four positions ever needed",
+        ]),
+        ("A killer unrecognized until it strikes", [
+            "years of trusted service, then the knife &mdash;",
+            "the aggregates functioning the same way, unseen",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.85/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.84.html">SN 22.84 &middot; With Tissa</a> '
+        "&mdash; the previous discourse, the Buddha's own pastoral "
+        "care for a discouraged relative.",
+        '<a href="sn-22.86.html">SN 22.86 &middot; With '
+        "Anurādha</a> &mdash; the next discourse, the same "
+        "exhaustive dialectic applied to the famous tetralemma on "
+        "the Realized One after death.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.86 — Anurādhasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 86, "Anurādha", "With Anurādha",
+    vagga="Theravagga",
+    meta_title="SN 22.86 — With Anurādha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anurādhasutta &mdash; wanderers mock a monk for denying "
+        "the classic tetralemma on the Buddha after death; the "
+        "Buddha confirms his instinct and gives the canon's most "
+        "famous summary line. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, the Great Wood, the hall with the "
+                    "peaked roof"),
+        ("Speakers", "Wanderers of other religions question "
+                     "Venerable Anurādha, who then seeks the Buddha's "
+                     "confirmation"),
+        ("Form", "A challenge from outsiders, a monk's uncertain "
+                 "defense, and the Buddha's dialectic confirming and "
+                 "explaining the correct answer"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the philosophical stakes are high, though "
+                       "the discourse's own logic is precise and "
+                       "traceable"),
+    ],
+    why=(
+        "This discourse gives one of the canon's clearest treatments "
+        "of the famous tetralemma on the Tathāgata after death: "
+        "wanderers of other religions confront Venerable Anurādha "
+        "with the claim that a Realized One must be described, after "
+        "death, in one of exactly four ways &mdash; still exists, no "
+        "longer exists, both, or neither. Anurādha correctly senses "
+        "that the Buddha's teaching goes beyond these four options "
+        "entirely, says so, and is mocked as &ldquo;junior&rdquo; and "
+        "&ldquo;foolish&rdquo; for it. Anxious that he may have "
+        "misrepresented the Buddha without realizing it, he seeks "
+        "confirmation directly, and receives it &mdash; along with "
+        "one of the most quoted single sentences in the entire "
+        "canon."
+    ),
+    guide=[
+        ("A confident challenge, and a correct but unconfirmed instinct", [
+            "The wanderers present the tetralemma as though it were "
+            "simply how any account of a &ldquo;supreme "
+            "person&hellip;who has reached the highest point&rdquo; "
+            "must go: exists, doesn't exist, both, or neither, after "
+            "death. Anurādha's response is exactly right in "
+            "substance &mdash; the Buddha describes such a person "
+            "&ldquo;other than these four ways&rdquo; &mdash; but he "
+            "has not yet verified this against the Buddha's own "
+            "words, and the wanderers seize on his hesitation to "
+            "dismiss him as junior and foolish before walking away.",
+        ]),
+        ("Anurādha's own honest anxiety about misrepresentation", [
+            "Rather than simply feeling vindicated or resentful, "
+            "Anurādha's private reflection is notably scrupulous: if "
+            "the wanderers return and press further, how should he "
+            "answer &ldquo;so as to repeat what the Buddha has said, "
+            "and not misrepresent him with an untruth&rdquo;? This "
+            "same concern for accuracy, rather than for winning the "
+            "argument, sends him directly to the Buddha for "
+            "confirmation.",
+        ]),
+        ("The identical exhaustive dialectic from SN 22.85", [
+            "The Buddha's method with Anurādha is word-for-word the "
+            "same demonstration Sāriputta used with Yamaka "
+            "immediately before this discourse: is the label "
+            "&ldquo;realized one&rdquo; found in an aggregate, in "
+            "relation to it, apart from it, in one who has it, or in "
+            "one who is without it? Anurādha answers no across every "
+            "configuration and all five aggregates, arriving at the "
+            "identical conclusion &mdash; a Realized One is not found "
+            "as a genuine fact even now, so the four-part question "
+            "about after-death existence never had a coherent target "
+            "to answer.",
+        ]),
+        ("The canon's most quoted single summary line", [
+            "The discourse closes with the Buddha's own compact "
+            "self-description, among the most frequently cited "
+            "sentences in the entire early Buddhist canon: "
+            "&ldquo;in the past, as today, what I describe is "
+            "suffering and the cessation of suffering.&rdquo; Every "
+            "metaphysical question the tetralemma poses is set aside "
+            "in favor of this single, consistently maintained scope "
+            "&mdash; not a claim about what exists beyond death, but "
+            "an unwavering focus on suffering and its ending.",
+        ]),
+    ],
+    terms=[
+        ("hoti tathāgato paraṁ maraṇā&hellip;",
+         "&ldquo;after death, a realized one still exists&hellip;or "
+         "neither still exists nor no longer exists&rdquo; &mdash; "
+         "the four positions of the classic tetralemma the wanderers "
+         "present as exhaustive."),
+        ("aññatreva imehi catūhi ṭhānehi",
+         "&ldquo;other than these four ways&rdquo; &mdash; "
+         "Anurādha's correct but as-yet-unconfirmed answer, "
+         "dismissed by the wanderers before it can be examined."),
+        ("na h'idaṁ, anurādha, tathāgato saccato thetato upalabbhati",
+         "&ldquo;a realized one is not found by you as a genuine "
+         "fact&rdquo; &mdash; the Buddha's identical conclusion to "
+         "Sāriputta's in SN 22.85, applied here to the tetralemma "
+         "specifically."),
+        ("dukkhañceva paññapemi dukkhassa ca nirodhaṁ",
+         "&ldquo;what I describe is suffering and the cessation of "
+         "suffering&rdquo; &mdash; the discourse's famous closing "
+         "line, among the most quoted single sentences in the early "
+         "canon."),
+        ("bāla",
+         "&ldquo;foolish&rdquo; &mdash; part of the wanderers' "
+         "dismissive rebuke of Anurādha, later shown to have been "
+         "premature."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions across the "
+        "dialectic (feeling, perception, and choices, spelled out in "
+        "full for form and consciousness where the source does so) "
+        "are given exactly as bilara-data preserves them. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.86:1.5-1.6"),
+        ("p", "&sect;2", "sn22.86:2.2-2.3"),
+        ("p", "&sect;3", "sn22.86:2.5-2.6"),
+        ("p", "&sect;4", "sn22.86:3.1-3.3"),
+        ("p", "&sect;5", "sn22.86:7.1-7.9"),
+        ("p", "&sect;6", "sn22.86:8.1-8.4"),
+        ("p", "&sect;7", "sn22.86:9.1-9.5"),
+        ("p", "&sect;8", "sn22.86:12.1-12.4"),
+        ("p", "&sect;9", "sn22.86:13.1-13.2"),
+    ],
+    quiz=[
+        {"q": "What four positions do the wanderers present as exhaustive, describing a realized one after death?",
+         "opts": [
+             "Still exists, no longer exists, both still exists and no longer exists, or neither",
+             "Only two positions: exists or doesn't exist",
+             "A single, unified position with no alternatives",
+             "The wanderers present no specific positions at all"],
+         "correct": 0,
+         "expl": "The classic tetralemma, presented as the only possible ways to describe such a person."},
+        {"q": "How does Anurādha initially respond?",
+         "opts": [
+             "Correctly stating that the Buddha describes such a person \"other than these four ways,\" though not yet verified",
+             "Agreeing fully with the wanderers' four-part framework",
+             "Refusing to answer the question at all",
+             "Immediately citing the Buddha's exact words from memory"],
+         "correct": 0,
+         "expl": "Correct in substance, but the wanderers mock him before it can be examined further."},
+        {"q": "What is Anurādha's private concern after the wanderers leave?",
+         "opts": [
+             "How to answer accurately, so as not to misrepresent the Buddha with an untruth",
+             "How to get revenge on the wanderers for mocking him",
+             "Whether he should abandon monastic life",
+             "How to avoid the wanderers entirely in the future"],
+         "correct": 0,
+         "expl": "A scrupulous concern for accuracy, not for winning the argument, sends him to the Buddha."},
+        {"q": "What dialectic does the Buddha use with Anurādha, identical to SN 22.85?",
+         "opts": [
+             "Whether the label \"realized one\" applies to, in relation to, apart from, has, or is without each aggregate",
+             "The standard fourfold self-identification formula alone",
+             "The gratification/drawback/escape triad",
+             "An entirely new dialectic not seen elsewhere"],
+         "correct": 0,
+         "expl": "The same exhaustive demonstration Sāriputta used with Yamaka immediately before this discourse."},
+        {"q": "What conclusion does this dialectic reach?",
+         "opts": [
+             "A Realized One is not found as a genuine fact even now, so the tetralemma's question never had a coherent target",
+             "One of the four tetralemma positions is confirmed as correct",
+             "The dialectic reaches no conclusion at all",
+             "The wanderers' original framing is confirmed as accurate"],
+         "correct": 0,
+         "expl": "The question dissolves rather than being answered by selecting one of the four options."},
+        {"q": "What famous closing line does the Buddha give?",
+         "opts": [
+             "\"In the past, as today, what I describe is suffering and the cessation of suffering\"",
+             "\"The Realized One exists eternally beyond all description\"",
+             "\"No one can ever understand these questions\"",
+             "\"The wanderers were correct all along\""],
+         "correct": 0,
+         "expl": "Among the most quoted single sentences in the early Buddhist canon."},
+        {"q": "How did the wanderers treat Anurādha after his initial answer?",
+         "opts": [
+             "They mocked him as \"junior\" and \"foolish\" before he could explain further",
+             "They immediately accepted his answer as correct",
+             "They asked him to elaborate in detail",
+             "They reported him to the Buddha themselves"],
+         "correct": 0,
+         "expl": "A dismissive rebuke that turns out, by the discourse's end, to have been premature."},
+        {"q": "How many aggregates does the Buddha's dialectic apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Each configuration is run across all five aggregates in turn."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Vesālī, the Great Wood, the hall with the peaked roof",
+             "Sāvatthī, Jeta's Grove",
+             "Kosambī, Ghosita's Monastery",
+             "Rājagaha, the Bamboo Grove"],
+         "correct": 0,
+         "expl": "A shift from the vagga's Sāvatthī-Kosambī rotation to Vesālī."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.87, With Vakkali, already published as a pre-existing page on this site",
+             "A return to SN 22.73",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "One of the vagga's existing pre-published pages, sitting mid-sequence."},
+    ],
+    marginalia=[
+        ("A correct instinct, mocked before it could be confirmed", [
+            "\"other than these four ways\" &mdash;",
+            "dismissed as junior and foolish, prematurely",
+        ]),
+        ("Accuracy sought, not vindication", [
+            "how to answer without misrepresenting the Buddha &mdash;",
+            "concern for truth over winning the argument",
+        ]),
+        ("The identical dialectic as SN 22.85", [
+            "not found now, so the question dissolves &mdash;",
+            "the same demonstration, a different questioner",
+        ]),
+        ("The canon's most quoted closing line", [
+            "suffering, and its cessation, nothing beyond &mdash;",
+            "every metaphysical question set firmly aside",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.86/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.85.html">SN 22.85 &middot; With Yamaka</a> '
+        "&mdash; the previous discourse, the identical dialectic "
+        "applied to a different mistaken conclusion.",
+        '<a href="sn-22.87.html">SN 22.87 &middot; With Vakkali</a> '
+        "&mdash; the next discourse, already published on this site.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.88 — Assajisutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 88, "Assaji", "With Assaji",
+    vagga="Theravagga",
+    meta_title="SN 22.88 — With Assaji | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Assajisutta &mdash; the Buddha personally visits a "
+        "gravely ill monk distressed at losing his meditative "
+        "immersion, closing with the tender image of an oil lamp "
+        "running out of fuel. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, the Bamboo Grove, a monastery built "
+                    "by a Kassapa"),
+        ("Speakers", "The Buddha, visiting and gently questioning the "
+                     "gravely ill Venerable Assaji"),
+        ("Form", "A bedside pastoral visit, careful diagnostic "
+                 "questioning, teaching, and a closing simile"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "emotionally direct, its teaching on facing "
+                       "death repays careful, unhurried reading"),
+    ],
+    why=(
+        "This discourse is one of the most tender pastoral scenes in "
+        "this book: Venerable Assaji, gravely ill, asks his carers to "
+        "convey his respects to the Buddha and request a visit "
+        "&ldquo;out of sympathy.&rdquo; The Buddha comes in person, "
+        "tells Assaji not to trouble himself getting up, and asks "
+        "careful, specific questions &mdash; not just how the pain "
+        "is, but whether there is any remorse, and if so, whether it "
+        "concerns his ethical conduct. What emerges is that Assaji's "
+        "distress is not about dying but about having lost, through "
+        "illness, the meditative immersion he once had &mdash; a "
+        "distress the Buddha gently reframes before teaching him how "
+        "to meet the body's ending directly."
+    ),
+    guide=[
+        ("A visit requested \"out of sympathy,\" granted in person", [
+            "Assaji's carers are instructed to bow on his behalf and "
+            "specifically ask the Buddha to come &ldquo;out of "
+            "sympathy&rdquo; (anukampa) &mdash; not a summons but a "
+            "request. The Buddha consents in silence and comes "
+            "himself that same afternoon, telling Assaji explicitly "
+            "not to get up: &ldquo;there are some seats spread out, I "
+            "will sit there.&rdquo;",
+        ]),
+        ("A precise diagnostic question, separating pain from remorse", [
+            "The Buddha's questioning is notably careful: first "
+            "about the physical pain itself (growing, not fading), "
+            "then specifically about remorse and regret, and then, "
+            "separately again, whether that remorse concerns his "
+            "ethical conduct. Assaji confirms he has no reason to "
+            "blame himself ethically &mdash; so the Buddha asks "
+            "directly: then why the remorse at all?",
+        ]),
+        ("The real distress: losing what once came easily", [
+            "Assaji's answer is unusually candid: before his illness "
+            "he meditated having &ldquo;completely stilled the "
+            "physical process,&rdquo; but now he can't get immersion, "
+            "and worries, &ldquo;may I not decline!&rdquo; The "
+            "Buddha's response gently reframes rather than dismisses "
+            "this worry, naming a whole category of ascetics and "
+            "brahmins &ldquo;for whom samādhi is the essence,&rdquo; "
+            "equating immersion itself with the ascetic life &mdash; "
+            "implicitly identifying this equation as the actual "
+            "source of Assaji's suffering, distinct from illness "
+            "itself.",
+        ]),
+        ("Facing feeling and death directly, closing with a lamp running dry", [
+            "The teaching that follows moves beyond the standard "
+            "chain into something more immediately practical for "
+            "someone facing death: feeling any pleasant, painful, or "
+            "neutral feeling as impermanent, unattached, unrelished, "
+            "&ldquo;felt detached&rdquo;; feeling the end of the body "
+            "and of life draw close, and understanding clearly that "
+            "this is happening. The discourse closes with one of the "
+            "collection's gentlest images: an oil lamp, depending on "
+            "oil and a wick, is extinguished simply because it is no "
+            "longer fed, once its fuel runs out &mdash; and in the "
+            "same way, when body and life end, everything felt, no "
+            "longer relished, &ldquo;becomes cool right here.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("anukampaṁ upādāya",
+         "&ldquo;out of sympathy&rdquo; &mdash; the specific request "
+         "Assaji's carers are instructed to make of the Buddha, "
+         "rather than a summons."),
+        ("kukkuccaṁ",
+         "&ldquo;remorse, regret&rdquo; &mdash; the specific quality "
+         "the Buddha asks about, distinct from and investigated "
+         "separately from physical pain."),
+        ("samādhisārakā",
+         "&ldquo;for whom samādhi is the essence&rdquo; &mdash; the "
+         "category of practitioners the Buddha names, gently "
+         "identifying an equation of immersion with the ascetic life "
+         "as Assaji's true source of distress."),
+        ("vedanaṁ visaṁyuttova vediyati",
+         "&ldquo;feels it detached&rdquo; &mdash; the discourse's "
+         "practical instruction for meeting any feeling, pleasant, "
+         "painful, or neutral, without relishing it."),
+        ("anāhārā nibbāyeyya",
+         "&ldquo;would be extinguished due to not being fed&rdquo; "
+         "&mdash; the oil lamp simile's central image, closing the "
+         "discourse."),
+    ],
+    text_intro=(
+        "The discourse in full, including the complete oil lamp "
+        "simile. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.88:2.5-2.8"),
+        ("p", "&sect;2", "sn22.88:3.1-3.6"),
+        ("p", "&sect;3", "sn22.88:3.7-3.11"),
+        ("p", "&sect;4", "sn22.88:4.8-4.10"),
+        ("p", "&sect;5", "sn22.88:4.11-4.15"),
+        ("p", "&sect;6", "sn22.88:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What do Assaji's carers ask the Buddha to do?",
+         "opts": [
+             "Come visit him \"out of sympathy\"",
+             "Send a written blessing instead of visiting",
+             "Perform a healing ritual",
+             "Arrange for Assaji to be moved to a different monastery"],
+         "correct": 0,
+         "expl": "A request, not a summons, which the Buddha consents to and fulfills in person."},
+        {"q": "What does the Buddha tell Assaji upon arriving?",
+         "opts": [
+             "Not to trouble himself getting up",
+             "To immediately recite a specific formula",
+             "That he cannot stay long",
+             "To describe his symptoms in full medical detail"],
+         "correct": 0,
+         "expl": "A small, direct gesture of care at the start of the visit."},
+        {"q": "What two things does the Buddha ask about separately?",
+         "opts": [
+             "The physical pain, and then specifically whether there is remorse about ethical conduct",
+             "Only the physical pain, nothing else",
+             "Only Assaji's meditative attainments",
+             "Assaji's opinion of his fellow monks"],
+         "correct": 0,
+         "expl": "A careful diagnostic separation between physical suffering and moral self-blame."},
+        {"q": "What is the actual source of Assaji's remorse, once clarified?",
+         "opts": [
+             "Losing, through illness, the meditative immersion he once had easily",
+             "A specific ethical violation he committed",
+             "Fear of physical pain alone",
+             "Doubt about the Buddha's teaching itself"],
+         "correct": 0,
+         "expl": "Not about dying, but about no longer being able to attain the immersion he once could."},
+        {"q": "How does the Buddha respond to this specific distress?",
+         "opts": [
+             "By naming a category of practitioners who equate immersion itself with the essence of the ascetic life, gently reframing the issue",
+             "By dismissing the concern as unimportant",
+             "By promising Assaji's immersion will return",
+             "By scolding Assaji for his attachment"],
+         "correct": 0,
+         "expl": "Implicitly identifying this equation, not illness itself, as the true source of suffering."},
+        {"q": "What practical instruction does the teaching give for facing feeling directly?",
+         "opts": [
+             "Feeling any pleasant, painful, or neutral feeling as impermanent, unattached, and \"felt detached\"",
+             "Suppressing all feeling entirely",
+             "Seeking out painful feelings deliberately",
+             "Avoiding all discussion of feeling"],
+         "correct": 0,
+         "expl": "A practice immediately applicable to someone facing serious illness or death."},
+        {"q": "What image closes the discourse?",
+         "opts": [
+             "An oil lamp extinguished simply because its oil and wick have run out, not being fed",
+             "A river flowing to the sea",
+             "A tree bearing fruit",
+             "A mountain unmoved by wind"],
+         "correct": 0,
+         "expl": "One of the collection's gentlest images for what happens when body and life end."},
+        {"q": "What does the discourse claim happens to what is felt, once relishing ends?",
+         "opts": [
+             "It \"becomes cool right here\"",
+             "It intensifies dramatically",
+             "It transfers to a new body",
+             "It is actively destroyed by force"],
+         "correct": 0,
+         "expl": "A quiet, unforced image of cessation, matching the lamp simile's gentleness."},
+        {"q": "How many aggregates does the discourse's teaching apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only feeling",
+             "Only consciousness"],
+         "correct": 0,
+         "expl": "The standard teaching runs through all five before the discourse's more specific instruction on feeling."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Rājagaha, the Bamboo Grove, a monastery built by a Kassapa",
+             "Sāvatthī, Jeta's Grove",
+             "Kosambī, Ghosita's Monastery",
+             "Vesālī, the Great Wood"],
+         "correct": 0,
+         "expl": "A specific, named location distinct from the vagga's other settings."},
+    ],
+    marginalia=[
+        ("A request for sympathy, answered in person", [
+            "not summoned, but asked &mdash;",
+            "the Buddha comes himself that same afternoon",
+        ]),
+        ("Pain and remorse investigated separately", [
+            "two distinct questions, not conflated &mdash;",
+            "isolating the actual source of distress",
+        ]),
+        ("Not fear of death, but fear of losing an attainment", [
+            "immersion once easy, now gone &mdash;",
+            "gently named, not dismissed",
+        ]),
+        ("A lamp going out for lack of fuel, not by force", [
+            "oil and wick simply used up &mdash;",
+            "everything felt becoming cool right here",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.88/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.87.html">SN 22.87 &middot; With Vakkali</a> '
+        "&mdash; the previous discourse, already published on this "
+        "site.",
+        '<a href="sn-22.89.html">SN 22.89 &middot; With Khemaka</a> '
+        "&mdash; the next discourse, one of the canon's most subtle "
+        "analyses of the residual conceit \"I am.\"",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.89 — Khemakasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 89, "Khemaka", "With Khemaka",
+    vagga="Theravagga",
+    meta_title="SN 22.89 — With Khemaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Khemakasutta &mdash; one of the canon's most precise "
+        "analyses of the residual conceit \"I am\" that lingers after "
+        "identity view is gone, with the famous lotus-scent and "
+        "laundered-cloth similes. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kosambī, Ghosita's Monastery, and the Jujube "
+                    "Tree Monastery"),
+        ("Speakers", "Senior mendicants question the ill Venerable "
+                     "Khemaka through a relayed messenger, then in "
+                     "person"),
+        ("Form", "A relayed dialogue escalating in precision, closing "
+                 "in two similes and a mass awakening"),
+        ("Length", "~7 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; "
+                       "one of the most philosophically precise "
+                       "discourses in the entire aggregates "
+                       "literature"),
+    ],
+    why=(
+        "This discourse gives the canon's clearest account of a "
+        "genuine puzzle in the spiritual path: how can a disciple "
+        "have given up identity view &mdash; no longer regarding any "
+        "aggregate as self or as belonging to self &mdash; and yet "
+        "not be a fully liberated arahant? Venerable Khemaka, "
+        "gravely ill, is questioned through a relay of messages by "
+        "senior mendicants at Kosambī, and his answer distinguishes, "
+        "with striking precision, between intellectually rejecting "
+        "self-view and the far subtler, lingering conceit &ldquo;I "
+        "am&rdquo; that a noble disciple can carry for some time even "
+        "after the five lower fetters are gone. Two justly famous "
+        "similes &mdash; a lotus's scent, and a freshly laundered "
+        "cloth &mdash; carry the discourse's central distinction, "
+        "which closes with sixty senior mendicants and Khemaka "
+        "himself all attaining full liberation."
+    ),
+    guide=[
+        ("A relayed conversation, growing testier by the exchange", [
+            "Too ill to travel, Khemaka is questioned through "
+            "Venerable Dāsaka, who carries each question and answer "
+            "back and forth between Khemaka's dwelling and the senior "
+            "mendicants. After several rounds, Khemaka's patience "
+            "visibly runs out: &ldquo;enough, Reverend Dāsaka! What's "
+            "the point in running back and forth? Bring my staff, "
+            "I'll go to see the senior mendicants myself&rdquo; "
+            "&mdash; a small, human touch of irritation from a "
+            "gravely ill man determined to be understood correctly.",
+        ]),
+        ("Not self, not belonging to self &mdash; and yet not an arahant", [
+            "Khemaka's first clear answer already unsettles a simple "
+            "equation: he does not regard anything among the five "
+            "grasping aggregates as self or as belonging to self "
+            "&mdash; which the seniors reasonably take to mean he "
+            "must be a perfected one. Khemaka corrects them directly: "
+            "&ldquo;I am not a perfected one&hellip;for when it comes "
+            "to the five grasping aggregates I'm not rid of the "
+            "conceit 'I am'. But I don't regard anything as 'I am "
+            "this'.&rdquo;",
+        ]),
+        ("A scent belonging to the whole flower, not any one part", [
+            "Pressed on what exactly he means by &ldquo;I am&rdquo; "
+            "&mdash; is it form, or apart from form, and likewise for "
+            "each aggregate &mdash; Khemaka answers with neither, for "
+            "any aggregate. He then offers the discourse's first "
+            "simile: would it be right to say the scent of a lotus "
+            "belongs to its petals, its stalk, or its pistil "
+            "specifically? No &mdash; it would be right to say the "
+            "scent belongs to the flower as a whole. The lingering "
+            "&ldquo;I am&rdquo; conceit relates to the five "
+            "aggregates the same way &mdash; not locatable in any "
+            "single one, yet not separate from all of them together.",
+        ]),
+        ("A cloth washed clean, still faintly scented until stored away", [
+            "Khemaka's second simile addresses how this lingering "
+            "residue is finally eradicated: a dirty cloth, thoroughly "
+            "kneaded with salt, lye, and cow dung and rinsed clean, "
+            "may look and be genuinely clean, yet still carry a "
+            "faint lingering scent of what cleaned it &mdash; until "
+            "it is stored in a fragrant casket, and that trace, too, "
+            "finally disappears. A noble disciple who has given up "
+            "the five lower fetters, Khemaka says, similarly retains "
+            "a lingering residue of the conceit, desire, and "
+            "underlying tendency &ldquo;I am&rdquo;, eradicated only "
+            "through continued meditation observing the rise and fall "
+            "of the five grasping aggregates over time. The discourse "
+            "closes with the senior mendicants' own gratitude, and "
+            "the striking detail that while Khemaka was explaining "
+            "this, sixty senior mendicants and Khemaka himself were "
+            "all freed from the defilements by not grasping.",
+        ]),
+    ],
+    terms=[
+        ("asmimāna",
+         "&ldquo;the conceit 'I am'&rdquo; &mdash; the discourse's "
+         "central subject, distinguished sharply from the "
+         "self-identification (sakkāyadiṭṭhi) already given up."),
+        ("na kho panāhaṁ&hellip;asmī'ti pi na samanupassāmi",
+         "&ldquo;I don't regard anything as 'I am this'&rdquo; "
+         "&mdash; Khemaka's precise formula distinguishing the "
+         "lingering conceit from any specific self-identification."),
+        ("gandho, na cassa vaṇṭagato&hellip;pupphagato tveva",
+         "&ldquo;the scent belongs to the flower&rdquo; &mdash; the "
+         "discourse's first simile, locating &ldquo;I am&rdquo; in "
+         "the aggregates as a whole rather than in any single one."),
+        ("gandhajātaṁ anuvāyeyya",
+         "&ldquo;a lingering scent&hellip;not yet eradicated&rdquo; "
+         "&mdash; the residue that remains in the laundered cloth "
+         "simile even after genuine cleanliness is achieved."),
+        ("udayabbayānupassī",
+         "&ldquo;meditating observing rise and fall&rdquo; &mdash; "
+         "the specific ongoing practice that finally eradicates the "
+         "lingering residue, described in both similes' explanations."),
+    ],
+    text_intro=(
+        "The discourse in full, including both similes. Elided "
+        "repetitions across the relayed dialogue (feeling, "
+        "perception, and choices, spelled out in full for form and "
+        "consciousness where the source does so) are given exactly as "
+        "bilara-data preserves them. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.89:8.10-8.12"),
+        ("p", "&sect;2", "sn22.89:9.9-9.9"),
+        ("p", "&sect;3", "sn22.89:9.10-9.15"),
+        ("p", "&sect;4", "sn22.89:10.1-10.6"),
+        ("p", "&sect;5", "sn22.89:11.1-11.8"),
+        ("p", "&sect;6", "sn22.89:12.1-12.13"),
+        ("p", "&sect;7", "sn22.89:14.1-14.3"),
+    ],
+    quiz=[
+        {"q": "What causes Khemaka to abandon the relayed messenger and visit the senior mendicants himself?",
+         "opts": [
+             "Growing impatience with running questions back and forth through Dāsaka",
+             "A sudden full recovery from his illness",
+             "A direct order from the Buddha",
+             "The senior mendicants' refusal to send any more questions"],
+         "correct": 0,
+         "expl": "\"Enough, Reverend Dāsaka! What's the point in running back and forth?\""},
+        {"q": "What distinction does Khemaka draw between having given up self-view and being a full arahant?",
+         "opts": [
+             "He no longer regards any aggregate as self or belonging to self, yet still has a lingering, unrid conceit \"I am\"",
+             "There is no meaningful distinction between the two",
+             "He claims to already be a full arahant",
+             "He denies having given up self-view at all"],
+         "correct": 0,
+         "expl": "A precise distinction between intellectual self-identification and a subtler lingering conceit."},
+        {"q": "What does the lotus-scent simile illustrate?",
+         "opts": [
+             "The \"I am\" conceit belongs to the aggregates as a whole, not to any single aggregate specifically",
+             "Each aggregate has its own distinct form of the conceit",
+             "The conceit has no relationship to the aggregates at all",
+             "Only the aggregate of consciousness carries the conceit"],
+         "correct": 0,
+         "expl": "Just as a lotus's scent belongs to the whole flower, not to any one part."},
+        {"q": "What does the laundered-cloth simile illustrate?",
+         "opts": [
+             "A cloth can be genuinely clean yet still carry a lingering scent until stored away, just as the conceit lingers after self-view is given up",
+             "Cloth cannot ever be truly cleaned",
+             "The cleaning process itself causes the conceit",
+             "Only some cloths retain any lingering scent"],
+         "correct": 0,
+         "expl": "The residue is eradicated gradually, through continued meditation observing the aggregates' rise and fall."},
+        {"q": "What practice does Khemaka name as finally eradicating this lingering residue?",
+         "opts": [
+             "Meditating observing rise and fall in the five grasping aggregates over time",
+             "A single decisive insight, achieved instantly",
+             "Physical austerity practices",
+             "Formal debate with other senior mendicants"],
+         "correct": 0,
+         "expl": "Described in both similes' explanations as an ongoing, gradual process."},
+        {"q": "What happens at the discourse's close?",
+         "opts": [
+             "Sixty senior mendicants and Khemaka himself are freed from the defilements by not grasping",
+             "The senior mendicants reject Khemaka's explanation",
+             "Khemaka dies from his illness",
+             "No further outcome is mentioned"],
+         "correct": 0,
+         "expl": "A striking mass liberation occurring while the teaching itself was being given."},
+        {"q": "How is Khemaka questioned for most of the discourse?",
+         "opts": [
+             "Through a relayed messenger, Venerable Dāsaka, carrying questions and answers back and forth",
+             "Directly, face to face, from the very beginning",
+             "Only in writing",
+             "By the Buddha himself, in person"],
+         "correct": 0,
+         "expl": "Due to his grave illness, until he finally decides to go see the seniors himself."},
+        {"q": "What term names the lingering quality Khemaka has not yet eradicated?",
+         "opts": [
+             "Asmimāna, \"the conceit 'I am'\"",
+             "Sakkāyadiṭṭhi, \"identity view\"",
+             "Vicikicchā, \"doubt\"",
+             "Silabbataparāmāsa, \"attachment to precepts and observances\""],
+         "correct": 0,
+         "expl": "Sharply distinguished from the self-view already given up."},
+        {"q": "How many aggregates does Khemaka's analysis apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "The questioning runs across all five before either simile is introduced."},
+        {"q": "Where is this discourse primarily set?",
+         "opts": [
+             "Kosambī, at Ghosita's Monastery and the Jujube Tree Monastery",
+             "Sāvatthī, Jeta's Grove",
+             "Rājagaha, the Bamboo Grove",
+             "Vesālī, the Great Wood"],
+         "correct": 0,
+         "expl": "Two nearby locations connected by the relayed messages between Khemaka and the seniors."},
+    ],
+    marginalia=[
+        ("Patience running out, then a decision to go in person", [
+            "\"bring my staff\" &mdash;",
+            "a small, human moment from a gravely ill monk",
+        ]),
+        ("Self-view gone, yet not an arahant", [
+            "no aggregate regarded as self &mdash;",
+            "the lingering conceit \"I am\" still unrid",
+        ]),
+        ("A scent belonging to the whole, not any part", [
+            "not petals, not stalk, not pistil &mdash;",
+            "the flower as a whole, and the aggregates likewise",
+        ]),
+        ("A cloth clean, yet still faintly scented", [
+            "genuinely clean, not yet fully free of trace &mdash;",
+            "eradicated gradually, not all at once",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.89/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.88.html">SN 22.88 &middot; With Assaji</a> '
+        "&mdash; the previous discourse, another bedside pastoral "
+        "visit to a gravely ill senior mendicant.",
+        '<a href="sn-22.90.html">SN 22.90 &middot; With Channa</a> '
+        "&mdash; the next discourse, an unusually honest first-"
+        "person account of doubt even after intellectual acceptance "
+        "of the teaching.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.90 — Channasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 90, "Channa", "With Channa",
+    vagga="Theravagga",
+    meta_title="SN 22.90 — With Channa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Channasutta &mdash; a monk's honest first-person account "
+        "of anxious doubt despite intellectual agreement, resolved by "
+        "Ānanda quoting the famous Kaccānagotta teaching on the "
+        "middle way. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Varanasi, the deer park at Isipatana, then "
+                    "Kosambī, Ghosita's Monastery"),
+        ("Speakers", "Venerable Channa seeks teaching, first from "
+                     "senior mendicants, then specifically from "
+                     "Venerable Ānanda"),
+        ("Form", "A first-person account of unresolved anxiety, a "
+                 "search for the right teacher, and Ānanda's "
+                 "quotation of an earlier teaching he heard directly "
+                 "from the Buddha"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "psychologically candid, and its resolution "
+                       "draws on material already established in "
+                       "Book II"),
+    ],
+    why=(
+        "This discourse gives one of the collection's most "
+        "psychologically honest first-person accounts of spiritual "
+        "difficulty. Venerable Channa asks senior mendicants for "
+        "instruction and receives the standard teaching &mdash; the "
+        "aggregates are impermanent and not-self &mdash; and reports, "
+        "remarkably candidly, that he already thinks this way "
+        "intellectually, and yet his mind will not &ldquo;leap forth, "
+        "gain confidence, settle down, and become decided&rdquo; "
+        "about the stilling of all activities. Anxiety keeps drawing "
+        "him back to the thought, &ldquo;so who then is my "
+        "self?&rdquo; Rather than staying with the senior mendicants, "
+        "he seeks out Ānanda specifically, trusting him, and receives "
+        "not a new teaching but Ānanda's own direct quotation of what "
+        "he heard the Buddha teach another monk, Kaccānagotta &mdash; "
+        "material already familiar to readers of this site's own "
+        "Book II."
+    ),
+    guide=[
+        ("Intellectual agreement without settled confidence", [
+            "Channa's own description of his condition is exact and "
+            "self-aware: &ldquo;I too think in this way&hellip;and "
+            "yet my mind does not leap forth, gain confidence, settle "
+            "down, and become decided about the stilling of all "
+            "activities.&rdquo; This is not doubt about whether the "
+            "teaching is true, but a gap between accepting a "
+            "teaching intellectually and the mind actually settling "
+            "into it &mdash; a distinction worth sitting with in its "
+            "own right.",
+        ]),
+        ("Anxiety circling back to a single unanswerable question", [
+            "Channa names precisely what happens instead: "
+            "&ldquo;because of anxiety, grasping arises and keeps "
+            "turning back to the thought: 'so who then is my "
+            "self?'&rdquo; He recognizes this reaction itself as "
+            "diagnostic &mdash; &ldquo;that doesn't happen for someone "
+            "who sees the teaching&rdquo; &mdash; and so goes looking "
+            "specifically for someone who can help him actually see "
+            "it, not merely restate it.",
+        ]),
+        ("Seeking out a specific teacher, by trust rather than seniority", [
+            "Channa's choice of Ānanda is explicit and personal: "
+            "Ānanda is &ldquo;praised by the Buddha and esteemed by "
+            "his sensible spiritual companions&rdquo;, and, crucially, "
+            "&ldquo;I have so much trust in Venerable Ānanda.&rdquo; "
+            "Ānanda's welcome is warm and immediately encouraging: "
+            "&ldquo;I'm already delighted with Venerable "
+            "Channa&hellip;you are capable of understanding the "
+            "teaching&rdquo; &mdash; and Channa is at once "
+            "&ldquo;filled with lofty rapture and joy.&rdquo;",
+        ]),
+        ("Ānanda's answer: a teaching heard directly from the Buddha", [
+            "Rather than composing a new response, Ānanda offers "
+            "something with its own specific authority: &ldquo;I "
+            "heard and learned in the presence of the Buddha his "
+            "advice to the mendicant Kaccānagotta&rdquo; &mdash; the "
+            "teaching also preserved independently as this site's own "
+            "SN 12.15 in Book II. Its core move is to short-circuit "
+            "the existence/non-existence anxiety directly: the world "
+            "mostly relies on this duality, but seeing the world's "
+            "origin rightly rules out the concept of "
+            "non-existence, and seeing its cessation rightly rules "
+            "out the concept of existence. What arises is just "
+            "suffering arising; what ceases is just suffering "
+            "ceasing &mdash; a knowledge independent of others, "
+            "avoiding both extremes through the middle way of "
+            "dependent origination.",
+        ]),
+    ],
+    terms=[
+        ("na ceva pakkhandati na ca pasīdati na santiṭṭhati na adhimuccati",
+         "&ldquo;does not leap forth, gain confidence, settle down, "
+         "and become decided&rdquo; &mdash; Channa's precise "
+         "description of intellectual agreement without settled "
+         "confidence."),
+        ("atha ca pana me ko nu khvāhaṁ attā ti",
+         "&ldquo;so who then is my self?&rdquo; &mdash; the anxious "
+         "thought Channa's mind keeps circling back to, which he "
+         "recognizes as itself diagnostic of not yet seeing the "
+         "teaching."),
+        ("Kaccānagotta",
+         "the mendicant to whom the Buddha originally gave the "
+         "teaching Ānanda now quotes, also preserved independently as "
+         "SN 12.15 in this site's Book II (Nidānavagga)."),
+        ("atthitā, natthitā",
+         "&ldquo;existence, non-existence&rdquo; &mdash; the duality "
+         "the Kaccānagotta teaching identifies as what &ldquo;this "
+         "world mostly relies on,&rdquo; and what right understanding "
+         "of the world's origin and cessation dissolves."),
+        ("majjhena tathāgato dhammaṁ deseti",
+         "&ldquo;the Realized One teaches by the middle way&rdquo; "
+         "&mdash; the teaching's culminating move, avoiding both the "
+         "extreme of \"all exists\" and \"all does not exist\" "
+         "through dependent origination."),
+    ],
+    text_intro=(
+        "The discourse in full, including Ānanda's complete quotation "
+        "of the Kaccānagotta teaching. Elided repetitions in the "
+        "opening exchange are given exactly as bilara-data preserves "
+        "them. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.90:2.2-2.13"),
+        ("p", "&sect;2", "sn22.90:3.12-3.17"),
+        ("p", "&sect;3", "sn22.90:4.2-4.4"),
+        ("p", "&sect;4", "sn22.90:8.1-8.5"),
+        ("p", "&sect;5", "sn22.90:9.1-9.9"),
+        ("p", "&sect;6", "sn22.90:9.10-9.17"),
+        ("p", "&sect;7", "sn22.90:10.1-10.2"),
+    ],
+    quiz=[
+        {"q": "What does Channa report about his relationship to the standard teaching?",
+         "opts": [
+             "He already thinks this way intellectually, yet his mind won't settle into confidence about it",
+             "He fundamentally disagrees with the teaching",
+             "He has never heard the teaching before",
+             "He claims to already be fully awakened"],
+         "correct": 0,
+         "expl": "A gap between intellectual acceptance and settled confidence, described with unusual candor."},
+        {"q": "What anxious thought does Channa's mind keep returning to?",
+         "opts": [
+             "\"So who then is my self?\"",
+             "\"When will I attain awakening?\"",
+             "\"Is the Buddha truly awakened?\"",
+             "\"Should I disrobe and return to lay life?\""],
+         "correct": 0,
+         "expl": "Recognized by Channa himself as diagnostic of not yet seeing the teaching."},
+        {"q": "Why does Channa specifically seek out Ānanda?",
+         "opts": [
+             "Because of his own deep personal trust in Ānanda, alongside Ānanda's reputation",
+             "Because Ānanda is the most senior monk available",
+             "Because no one else was willing to teach him",
+             "Because the Buddha specifically directed him to Ānanda"],
+         "correct": 0,
+         "expl": "A personal choice based on trust, not merely institutional seniority."},
+        {"q": "How does Ānanda respond to Channa's request?",
+         "opts": [
+             "With immediate warmth and encouragement, expressing delight and confidence in Channa's capability",
+             "With a stern rebuke",
+             "By declining to teach him",
+             "By sending him to a different teacher"],
+         "correct": 0,
+         "expl": "Channa is immediately filled with \"lofty rapture and joy\" at this welcome."},
+        {"q": "What does Ānanda offer as his answer, rather than composing a new teaching?",
+         "opts": [
+             "A direct quotation of what he heard the Buddha teach the mendicant Kaccānagotta",
+             "His own original interpretation, unconnected to the Buddha's words",
+             "A denial that any answer is possible",
+             "A redirection back to the senior mendicants"],
+         "correct": 0,
+         "expl": "Also preserved independently as SN 12.15 in this site's Book II."},
+        {"q": "What does the Kaccānagotta teaching identify as the duality \"this world mostly relies on\"?",
+         "opts": [
+             "Existence and non-existence",
+             "Pleasure and pain",
+             "Past and future",
+             "Self and other"],
+         "correct": 0,
+         "expl": "The specific duality this teaching is built to dissolve."},
+        {"q": "How does the teaching dissolve this duality?",
+         "opts": [
+             "Seeing the world's origin rightly rules out non-existence; seeing its cessation rightly rules out existence",
+             "By simply asserting that both existence and non-existence are true",
+             "By denying that the world has any origin or cessation",
+             "By avoiding the question entirely without further explanation"],
+         "correct": 0,
+         "expl": "A precise application of dependent origination to the existence/non-existence anxiety."},
+        {"q": "What does the teaching identify as \"right view\"?",
+         "opts": [
+             "Knowing, independent of others, that what arises is just suffering arising and what ceases is just suffering ceasing",
+             "Accepting a fixed position on whether the self exists",
+             "Deferring entirely to the authority of senior teachers",
+             "Rejecting all forms of causal explanation"],
+         "correct": 0,
+         "expl": "A knowledge that doesn't depend on taking a position within the existence/non-existence framework."},
+        {"q": "What does Channa report at the discourse's close?",
+         "opts": [
+             "That having heard this teaching from Ānanda, he has comprehended it",
+             "That he still doesn't understand the teaching",
+             "That he plans to seek out yet another teacher",
+             "That he rejects Ānanda's explanation"],
+         "correct": 0,
+         "expl": "A resolution of the anxiety described at the discourse's opening."},
+        {"q": "Where does this discourse's action take place?",
+         "opts": [
+             "Beginning at Varanasi's deer park, then continuing at Kosambī",
+             "Entirely within Sāvatthī",
+             "Entirely within Rājagaha",
+             "Entirely within Vesālī"],
+         "correct": 0,
+         "expl": "Channa travels specifically to find Ānanda at Kosambī."},
+    ],
+    marginalia=[
+        ("Agreeing intellectually, yet not settled", [
+            "\"I too think in this way\" &mdash;",
+            "confidence not yet following understanding",
+        ]),
+        ("An anxious question recognized as diagnostic", [
+            "\"so who then is my self?\" &mdash;",
+            "Channa names the reaction itself as the problem",
+        ]),
+        ("A teacher sought by trust, not by rank alone", [
+            "Ānanda specifically, out of personal confidence &mdash;",
+            "welcomed with immediate warmth in return",
+        ]),
+        ("A quotation, not a new composition", [
+            "heard directly from the Buddha, for Kaccānagotta &mdash;",
+            "the same teaching preserved independently in Book II",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.90/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.89.html">SN 22.89 &middot; With Khemaka</a> '
+        "&mdash; the previous discourse, another precise analysis of "
+        "subtle residual difficulty on the path.",
+        '<a href="sn-22.91.html">SN 22.91 &middot; Rāhula</a> '
+        "&mdash; the next discourse, the Buddha's own son asking a "
+        "question already asked by Rādha in Arahantavagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.91 — Paṭhamarāhulasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 91, "Paṭhamarāhula", "Rāhula",
+    vagga="Theravagga",
+    meta_title="SN 22.91 — Rāhula | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamarāhulasutta &mdash; the Buddha's own son asks the "
+        "identical question Rādha asked in Arahantavagga, word for "
+        "word, and receives the identical answer. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rāhula questions the Buddha directly"),
+        ("Form", "The identical question-and-answer already given to "
+                 "Rādha in SN 22.71, restated word for word with a "
+                 "different questioner"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "identical in content to SN 22.71, its "
+                       "significance lying in who is asking"),
+    ],
+    why=(
+        "This discourse repeats SN 22.71's question and answer "
+        "essentially word for word &mdash; how does one know and see "
+        "so there's no I-making, mine-making, or underlying tendency "
+        "to conceit for this conscious body and externally for all "
+        "signs, answered with the same elevenfold scope and negated "
+        "formula &mdash; but the questioner is different, and that "
+        "difference carries real weight: Rāhula is the Buddha's own "
+        "son. Watching the identical teaching given to a stranger's "
+        "question (Rādha's, several vaggas earlier) and now to the "
+        "Buddha's own child, phrased identically, makes a quiet but "
+        "pointed statement about how this teaching applies without "
+        "exception to anyone who asks it, family relation included."
+    ),
+    guide=[
+        ("The same question, word for word, from a very different asker", [
+            "Rāhula's question to the Buddha is not merely similar to "
+            "Rādha's in SN 22.71 &mdash; it is the identical question, "
+            "in the identical wording: how does one know and see so "
+            "there's no I-making, mine-making, or underlying tendency "
+            "to conceit for this conscious body and externally for all "
+            "signs? What has changed is only who is asking: not "
+            "another mendicant, but the Buddha's own son.",
+        ]),
+        ("An answer given without any special treatment", [
+            "The Buddha's answer to Rāhula is likewise identical to "
+            "his answer to Rādha: the elevenfold scope formula (past, "
+            "future, or present; internal or external; and so on) "
+            "combined with the negated &ldquo;this is not mine, I am "
+            "not this, this is not my self&rdquo; formula, applied to "
+            "each of the five aggregates. No allowance, elaboration, "
+            "or special address marks this as a father speaking to "
+            "his son rather than a teacher speaking to any disciple "
+            "who asks the same question.",
+        ]),
+        ("A quiet demonstration of the teaching's universality", [
+            "Set beside SN 22.71, this discourse's exact repetition "
+            "makes an implicit point worth stating plainly: the "
+            "teaching does not bend for family relationship. The same "
+            "elevenfold scope, the same negated formula, the same "
+            "precise wording is offered to the Buddha's own child as "
+            "to any other questioner &mdash; the relationship between "
+            "teacher and disciple here takes precedence over the "
+            "relationship between father and son.",
+        ]),
+        ("Opening a matched pair that mirrors SN 22.71-72 exactly", [
+            "This discourse and SN 22.92 immediately after it "
+            "reproduce the Rādha/Surādha pairing from Arahantavagga's "
+            "own close with striking precision: the same first "
+            "question, then the same escalated second question about "
+            "going beyond discrimination to a peaceful, well-freed "
+            "heart. Theravagga closes its own run of named senior "
+            "disciples on this deliberate structural echo.",
+        ]),
+    ],
+    terms=[
+        ("Rāhula",
+         "the Buddha's own son, ordained as a novice at a young age "
+         "and a recurring figure across the canon; here asking the "
+         "identical question Rādha asked in SN 22.71."),
+        ("ahaṅkāra, mamaṅkāra, mānānusaya",
+         "&ldquo;I-making, mine-making, underlying tendency to "
+         "conceit&rdquo; &mdash; the identical three conditions named "
+         "in SN 22.71's question, repeated here word for word."),
+        ("saviññāṇaka kāya",
+         "&ldquo;this conscious body&rdquo; &mdash; the same object "
+         "of concern named in SN 22.71."),
+        ("atītānāgatapaccuppannaṁ&hellip;yaṁ dūre santike vā",
+         "the elevenfold scope formula, identical in wording to SN "
+         "22.71 and SN 22.48's earlier technical definition."),
+        ("n'etaṁ mama, nesohamasmi, na meso attā",
+         "&ldquo;this is not mine, I am not this, this is not my "
+         "self&rdquo; &mdash; the negated formula, unchanged from SN "
+         "22.71."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions (feeling, "
+        "perception, and choices, spelled out in full for form and "
+        "consciousness) are given exactly as bilara-data preserves "
+        "them. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.91:1.2-1.3"),
+        ("p", "&sect;2", "sn22.91:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does Rāhula's question compare to Rādha's in SN 22.71?",
+         "opts": [
+             "Identical, word for word",
+             "Similar in theme but worded quite differently",
+             "Related only loosely",
+             "Completely different in both wording and content"],
+         "correct": 0,
+         "expl": "The same question about I-making, mine-making, and underlying tendency to conceit."},
+        {"q": "What relationship does Rāhula have to the Buddha?",
+         "opts": [
+             "He is the Buddha's own son",
+             "He is an unrelated senior disciple",
+             "He is a wandering ascetic from another tradition",
+             "He is the Buddha's cousin"],
+         "correct": 0,
+         "expl": "A detail that gives this exact repetition of SN 22.71's question its particular significance."},
+        {"q": "How does the Buddha's answer to Rāhula compare to his answer to Rādha?",
+         "opts": [
+             "Identical, with no special treatment or elaboration for his own son",
+             "Longer and more detailed, given the family relationship",
+             "Shorter, assuming Rāhula already understood the material",
+             "Entirely different in content"],
+         "correct": 0,
+         "expl": "The same elevenfold scope and negated formula, applied without exception."},
+        {"q": "What point does this exact repetition make, according to this reading guide?",
+         "opts": [
+             "That the teaching does not bend for family relationship — teacher and disciple takes precedence over father and son",
+             "That the Buddha favored his son over other disciples",
+             "That Rāhula received an easier version of the teaching",
+             "That this discourse contradicts SN 22.71's teaching"],
+         "correct": 0,
+         "expl": "A quiet but pointed demonstration of the teaching's universality."},
+        {"q": "What pair from Arahantavagga does this discourse and its companion, SN 22.92, mirror?",
+         "opts": [
+             "SN 22.71-72, the Rādha/Surādha pairing",
+             "SN 22.63-70, the eight matched-template discourses",
+             "SN 22.55, the inspired saying",
+             "SN 22.60, the argument against fatalism"],
+         "correct": 0,
+         "expl": "The same first question, then the same escalated second question, in the same order."},
+        {"q": "What elevenfold formula does the Buddha's answer use?",
+         "opts": [
+             "Past, future, or present; internal or external; solid or subtle; inferior or superior; far or near",
+             "The four rounds from SN 22.56",
+             "The seven cases from SN 22.57",
+             "The three ways of examining from SN 22.57"],
+         "correct": 0,
+         "expl": "Identical to SN 22.48's technical definition and SN 22.71's answer to Rādha."},
+        {"q": "How many aggregates does the Buddha's answer apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Kosambī",
+             "Vesālī",
+             "Rājagaha"],
+         "correct": 0,
+         "expl": "The default setting for much of this vagga's discourses."},
+        {"q": "What negated formula closes the Buddha's answer?",
+         "opts": [
+             "\"This is not mine, I am not this, this is not my self\"",
+             "\"This is mine, I am this, this is my self\"",
+             "\"This is neither mine nor not mine\"",
+             "\"This cannot be described at all\""],
+         "correct": 0,
+         "expl": "Unchanged from SN 22.71's answer to Rādha."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.92, the same escalated second question Surādha asked, now posed by Rāhula",
+             "A return to SN 22.73",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "Closing the vagga on the identical structural pattern as Arahantavagga's own close."},
+    ],
+    marginalia=[
+        ("The identical question, a very different asker", [
+            "word for word matching SN 22.71 &mdash;",
+            "now posed by the Buddha's own son",
+        ]),
+        ("No special treatment in the answer given", [
+            "the same elevenfold scope, the same negation &mdash;",
+            "teacher and disciple, not father and son",
+        ]),
+        ("A quiet demonstration of universality", [
+            "the teaching does not bend for family &mdash;",
+            "offered identically to any questioner",
+        ]),
+        ("A deliberate structural echo of Arahantavagga's close", [
+            "Rādha and Surādha, now Rāhula twice &mdash;",
+            "the same pairing pattern reused precisely",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.91/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.71.html">SN 22.71 &middot; With Rādha</a> '
+        "&mdash; the earlier discourse in Arahantavagga, whose exact "
+        "wording this discourse repeats.",
+        '<a href="sn-22.90.html">SN 22.90 &middot; With Channa</a> '
+        "&mdash; the previous discourse, an honest first-person "
+        "account of unresolved doubt.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.92 — Dutiyarāhulasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 92, "Dutiyarāhula", "Rāhula (2nd)",
+    vagga="Theravagga",
+    meta_title="SN 22.92 — Rāhula (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyarāhulasutta &mdash; closing Theravagga on the same "
+        "escalated question Surādha asked, now posed by the Buddha's "
+        "own son, ending in \"peaceful and well freed.\" From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rāhula questions the Buddha directly"),
+        ("Form", "The identical escalated question and answer already "
+                 "given to Surādha in SN 22.72, restated word for "
+                 "word"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "identical in content to SN 22.72, closing "
+                       "this vagga on a note of full liberation"),
+    ],
+    why=(
+        "This discourse closes Theravagga exactly as SN 22.72 closed "
+        "Arahantavagga: the same escalated question &mdash; how does "
+        "one know and see so the heart is rid of I-making and "
+        "mine-making, and going beyond discrimination, is peaceful "
+        "and well freed &mdash; posed now by Rāhula rather than "
+        "Surādha, and answered with the identical combined formula, "
+        "this time explicitly named as producing freedom by not "
+        "grasping. Completing the deliberate pairing SN 22.91 opened, "
+        "this discourse gives Theravagga its own closing note in the "
+        "same &ldquo;well freed&rdquo; vocabulary that has closed "
+        "several vaggas across this book."
+    ),
+    guide=[
+        ("The identical escalation from SN 22.72, now asked by Rāhula", [
+            "As SN 22.91 repeated Rādha's first question word for "
+            "word, this discourse repeats Surādha's escalated second "
+            "question in SN 22.72 with the same precision: not merely "
+            "ending I-making and mine-making, but the heart "
+            "&ldquo;going beyond discrimination&rdquo; (vidhā) to "
+            "become peaceful and well freed &mdash; the same "
+            "connection back to SN 22.49's comparing conceits already "
+            "noted in the guide to SN 22.72.",
+        ]),
+        ("The same formula, explicitly named as liberation itself", [
+            "As in SN 22.72, the Buddha's answer to Rāhula reuses the "
+            "elevenfold scope and negated formula but names the "
+            "result directly: one who truly sees each aggregate this "
+            "way &ldquo;is freed by not grasping&rdquo; (anupādāya "
+            "vimutto). The identical seeing that ended I-making and "
+            "mine-making in SN 22.91 is here extended explicitly all "
+            "the way to liberation.",
+        ]),
+        ("Completing the mirrored pairing with Arahantavagga's close", [
+            "With this discourse, Theravagga's closing pair "
+            "(SN 22.91-92) has reproduced Arahantavagga's own closing "
+            "pair (SN 22.71-72) with total precision: identical first "
+            "question, identical escalated second question, identical "
+            "answers, only the named questioner changed. This is the "
+            "most exact structural echo between two vaggas found "
+            "anywhere in Book III so far.",
+        ]),
+        ("Closing on the vocabulary that has closed several vaggas before it", [
+            "Theravagga ends on &ldquo;peaceful and well freed&rdquo; "
+            "&mdash; the same suvimutta language already used to "
+            "close SN 22.4 in Nakulapituvagga, SN 22.51-52 at the end "
+            "of Attadīpavagga, and now here. A vagga built almost "
+            "entirely around named senior disciples facing illness, "
+            "doubt, discouragement, and philosophical confusion closes "
+            "not on any of those difficulties but on this same "
+            "recurring note of freedom.",
+        ]),
+    ],
+    terms=[
+        ("vidhāsamatikkanta",
+         "&ldquo;going beyond discrimination&rdquo; &mdash; Rāhula's "
+         "added phrase, identical to Surādha's in SN 22.72, connecting "
+         "back to SN 22.49's comparing conceits."),
+        ("anupādāya vimutto",
+         "&ldquo;freed by not grasping&rdquo; &mdash; the explicit "
+         "outcome named in the Buddha's answer, unchanged from SN "
+         "22.72."),
+        ("santa",
+         "&ldquo;peaceful&rdquo; &mdash; part of the closing "
+         "aspiration, identical to SN 22.72's wording."),
+        ("suvimutta",
+         "&ldquo;well freed&rdquo; &mdash; the closing term shared "
+         "with SN 22.4, SN 22.51-52, and SN 22.72, closing this vagga "
+         "on the same recurring vocabulary."),
+        ("n'etaṁ mama, nesohamasmi, na meso attā",
+         "&ldquo;this is not mine, I am not this, this is not my "
+         "self&rdquo; &mdash; the same negated formula reused from SN "
+         "22.72 and SN 22.91."),
+    ],
+    text_intro=(
+        "The discourse in full. Elided repetitions (feeling, "
+        "perception, and choices, spelled out in full for form and "
+        "consciousness) are given exactly as bilara-data preserves "
+        "them. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.92:1.2-1.3"),
+        ("p", "&sect;2", "sn22.92:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What does Rāhula's question in this discourse add beyond SN 22.91's?",
+         "opts": [
+             "That the heart become peaceful and well freed, going beyond discrimination",
+             "A request to leave monastic life",
+             "A denial that liberation is achievable",
+             "A request to travel to a different location"],
+         "correct": 0,
+         "expl": "The identical escalation Surādha added in SN 22.72."},
+        {"q": "How does the Buddha's answer here differ from his answer in SN 22.91?",
+         "opts": [
+             "It explicitly names the result as being \"freed by not grasping\"",
+             "It uses an entirely different formula",
+             "It applies only to form, not the other aggregates",
+             "It denies that freedom is possible"],
+         "correct": 0,
+         "expl": "Extending the identical seeing all the way to explicit liberation, as in SN 22.72."},
+        {"q": "What earlier vagga's closing pair does this discourse and SN 22.91 reproduce?",
+         "opts": [
+             "SN 22.71-72, the Rādha/Surādha pairing that closed Arahantavagga",
+             "SN 22.63-70, the eight matched-template discourses",
+             "SN 22.33-34, the \"it's not yours\" pair",
+             "SN 22.26-28, the gratification/drawback/escape trio"],
+         "correct": 0,
+         "expl": "The most exact structural echo between two vaggas found anywhere in Book III so far."},
+        {"q": "What closing term does this discourse share with SN 22.4 and SN 22.51-52?",
+         "opts": [
+             "\"Well freed\" (suvimutta)",
+             "\"Bound by Māra\"",
+             "\"Shaped by arousal\"",
+             "\"Not belonging to self\""],
+         "correct": 0,
+         "expl": "The same recurring vocabulary closing several vaggas across this book."},
+        {"q": "What does this discourse's close suggest about Theravagga as a whole?",
+         "opts": [
+             "A vagga built around illness, doubt, and confusion closes not on those difficulties but on freedom",
+             "The vagga ends in unresolved failure for its named disciples",
+             "The vagga rejects the possibility of liberation",
+             "The vagga has no coherent closing theme"],
+         "correct": 0,
+         "expl": "Despite the vagga's many accounts of struggle, its closing note is one of resolution."},
+        {"q": "What term names the discrimination the heart goes beyond?",
+         "opts": [
+             "Vidhā",
+             "Anusaya",
+             "Sakkāya",
+             "Māna alone, without the vidhā qualifier"],
+         "correct": 0,
+         "expl": "Connecting back to SN 22.49's earlier discussion of the comparing conceits."},
+        {"q": "How many aggregates does the Buddha's answer apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Kosambī",
+             "Vesālī",
+             "Rājagaha"],
+         "correct": 0,
+         "expl": "Continuing the same setting as SN 22.91."},
+        {"q": "Who questions the Buddha in this discourse?",
+         "opts": [
+             "Venerable Rāhula",
+             "Venerable Surādha",
+             "Venerable Khemaka",
+             "Venerable Channa"],
+         "correct": 0,
+         "expl": "The Buddha's own son, continuing from SN 22.91."},
+        {"q": "What comes immediately after this discourse, moving beyond Theravagga?",
+         "opts": [
+             "SN 22.93, opening the next vagga",
+             "A return to SN 22.83",
+             "The end of the entire Khandhasaṃyutta",
+             "A discourse from an entirely different saṃyutta"],
+         "correct": 0,
+         "expl": "The book's own systematic coverage continues into its next chapter."},
+    ],
+    marginalia=[
+        ("The identical escalation from SN 22.72, reused exactly", [
+            "peaceful, well freed, beyond discrimination &mdash;",
+            "Rāhula's question matching Surādha's precisely",
+        ]),
+        ("Freedom named explicitly, not merely implied", [
+            "freed by not grasping &mdash;",
+            "the identical seeing, taken all the way to liberation",
+        ]),
+        ("The most exact echo between two vaggas in Book III", [
+            "SN 22.71-72 reproduced precisely &mdash;",
+            "only the named questioner has changed",
+        ]),
+        ("A vagga of struggle, closing on freedom", [
+            "illness, doubt, confusion, throughout &mdash;",
+            "\"well freed\" as the note it ends on instead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.92/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.91.html">SN 22.91 &middot; Rāhula</a> '
+        "&mdash; the previous discourse, the simpler first question "
+        "in this closing pair.",
+        '<a href="sn-22.72.html">SN 22.72 &middot; With '
+        "Surādha</a> &mdash; the earlier discourse in Arahantavagga, "
+        "whose exact question and answer this discourse repeats.",
     ],
 )
