@@ -2507,3 +2507,2293 @@ page(
         "doctrinally.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 22.12 — Aniccasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 12, "Anicca", "Impermanence",
+    vagga="Aniccavagga",
+    meta_title="SN 22.12 — Impermanence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aniccasutta &mdash; the shortest complete statement of "
+        "the path from seeing impermanence to full liberation, "
+        "opening Aniccavagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A single sentence naming the aggregates as "
+                 "impermanent, followed by the canon's standard "
+                 "four-step liberation formula in full"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and direct, though its final formula "
+                       "repays slow reading"),
+    ],
+    why=(
+        "This discourse opens Aniccavagga with what may be the "
+        "shortest complete map from a single observation to full "
+        "liberation found anywhere in the collection. Five aggregates "
+        "are impermanent; seeing this, disillusionment arises; "
+        "disillusionment fades desire; fading desire frees the mind; "
+        "and freedom is known as freedom, closing with the arahant's "
+        "own declaration &mdash; rebirth ended, the spiritual journey "
+        "completed, nothing further to be done. No narrative frames "
+        "it, no questioner interrupts it, and no argument defends its "
+        "first premise. It is presented as something to be simply "
+        "seen, and the discourse's entire structure is the sequence "
+        "of what seeing it sets in motion."
+    ),
+    guide=[
+        ("One premise, stated once", [
+            "The discourse's sole factual claim is compact: form, "
+            "feeling, perception, choices, and consciousness are "
+            "impermanent. Unlike SN 22.9's opening discourse in the "
+            "previous vagga, there is no argument here from past and "
+            "future to present, no a fortiori structure &mdash; the "
+            "claim is simply stated, addressed directly to a present "
+            "audience already assumed capable of seeing it for "
+            "themselves.",
+        ]),
+        ("The four-step chain from seeing to freedom", [
+            "What follows is the canon's standard liberation "
+            "sequence, given here in one of its clearest, least "
+            "adorned forms: seeing impermanence, a learned noble "
+            "disciple grows disillusioned (nibbindati); being "
+            "disillusioned, desire fades away (virajjati); when "
+            "desire fades, they are freed (vimuccati); and once "
+            "freed, they know they are freed (vimuttasmiṁ "
+            "vimuttamiti ñāṇaṁ hoti). Each step in the chain "
+            "depends strictly on the one before it, with no step "
+            "skipped or reordered.",
+        ]),
+        ("The arahant's own words, quoted directly", [
+            "The discourse closes by quoting, rather than merely "
+            "describing, what the freed person understands about "
+            "themselves: &ldquo;rebirth is ended, the spiritual "
+            "journey has been completed, what had to be done has "
+            "been done, there is nothing further for this "
+            "place.&rdquo; This four-part declaration (khīṇā jāti, "
+            "vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ "
+            "itthattāyāti pajānāti) recurs throughout the canon as "
+            "the standard marker of arahantship, and its appearance "
+            "here, attached to nothing more than seeing the "
+            "aggregates' impermanence, states plainly how much this "
+            "single observation is held to accomplish.",
+        ]),
+        ("A pattern the whole vagga will now vary", [
+            "This discourse's shape &mdash; premise, disillusionment, "
+            "freedom, declaration &mdash; is the template the rest of "
+            "Aniccavagga works variations on: the same chain repeated "
+            "for suffering and not-self directly (SN 22.13-14), then "
+            "compressed and progressively shortened (SN 22.15-17), "
+            "then extended to each aggregate's cause (SN 22.18-20), "
+            "before the vagga closes with Ānanda's direct question "
+            "about what all of this &ldquo;cessation&rdquo; actually "
+            "refers to (SN 22.21).",
+        ]),
+    ],
+    terms=[
+        ("nibbindati",
+         "&ldquo;grows disillusioned&rdquo; &mdash; the first "
+         "consequence of seeing impermanence, the chain's opening "
+         "link."),
+        ("virajjati",
+         "&ldquo;desire fades away&rdquo; &mdash; the second link, "
+         "following directly from disillusionment."),
+        ("vimuccati",
+         "&ldquo;is freed&rdquo; &mdash; the third link, the "
+         "liberation itself, following from desire's fading."),
+        ("vimuttasmiṁ vimuttamiti ñāṇaṁ",
+         "&ldquo;when freed, they know they're freed&rdquo; &mdash; "
+         "the fourth link, a reflexive knowledge of one's own freedom, "
+         "distinct from the freedom itself."),
+        ("khīṇā jāti&hellip;nāparaṁ itthattāya",
+         "&ldquo;rebirth is ended&hellip;nothing further for this "
+         "place&rdquo; &mdash; the standard four-part arahant "
+         "declaration, quoted directly rather than merely referenced."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.12:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What single claim opens this discourse?",
+         "opts": [
+             "Form, feeling, perception, choices, and consciousness are impermanent",
+             "The mind is eternal and unchanging",
+             "Only form among the aggregates is impermanent",
+             "Impermanence applies only to physical objects, not to the mind"],
+         "correct": 0,
+         "expl": "Stated once, directly, without argument or narrative framing."},
+        {"q": "What is the first step in the chain that follows from seeing this impermanence?",
+         "opts": [
+             "A learned noble disciple grows disillusioned",
+             "They immediately die",
+             "They begin arguing with others",
+             "They seek out a teacher"],
+         "correct": 0,
+         "expl": "Nibbindati, disillusionment, the chain's opening link."},
+        {"q": "What follows disillusionment in the chain?",
+         "opts": [
+             "Desire fades away",
+             "A new, stronger desire arises",
+             "The disciple forgets the teaching",
+             "Physical illness"],
+         "correct": 0,
+         "expl": "Virajjati, the second link, following strictly from the first."},
+        {"q": "What follows the fading of desire?",
+         "opts": [
+             "They are freed",
+             "They become a teacher",
+             "They are reborn immediately",
+             "They lose all memory"],
+         "correct": 0,
+         "expl": "Vimuccati, the third link — liberation itself."},
+        {"q": "What is the fourth and final step in the chain?",
+         "opts": [
+             "When freed, they know they are freed",
+             "They forget they were ever bound",
+             "They begin the chain over again",
+             "They teach the chain to others immediately"],
+         "correct": 0,
+         "expl": "A reflexive knowledge of one's own freedom, distinct from the freedom itself."},
+        {"q": "What four-part declaration closes the discourse?",
+         "opts": [
+             "\"Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is nothing further for this place\"",
+             "\"I have seen the truth and shall now teach it to all\"",
+             "\"The aggregates have been destroyed forever\"",
+             "\"I shall return in a future life to help others\""],
+         "correct": 0,
+         "expl": "The canon's standard arahant declaration, quoted directly."},
+        {"q": "How does this discourse's structure differ from SN 22.9's opening argument in the previous vagga?",
+         "opts": [
+             "It states the impermanence claim directly with no a fortiori argument from past and future",
+             "It is much longer and more elaborate than SN 22.9",
+             "It rejects SN 22.9's conclusion entirely",
+             "It only concerns future aggregates, not present ones"],
+         "correct": 0,
+         "expl": "A simpler, more direct presentation than the previous vagga's argued case."},
+        {"q": "How many aggregates does this discourse's chain apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "All five are named together in the opening claim."},
+        {"q": "What role does this discourse play in the vagga's overall structure?",
+         "opts": [
+             "It sets the template pattern that SN 22.13-21 will vary and extend",
+             "It is an isolated discourse with no relation to what follows",
+             "It contradicts the discourses that follow it",
+             "It is the vagga's closing discourse, not its opening one"],
+         "correct": 0,
+         "expl": "The rest of Aniccavagga works variations on this discourse's shape."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Steep Mountain, near Kuraraghara",
+             "Rājagaha"],
+         "correct": 0,
+         "expl": "The default setting continuing from Nakulapituvagga."},
+    ],
+    marginalia=[
+        ("One premise, no argument attached", [
+            "impermanence simply stated &mdash;",
+            "assumed visible to the present audience",
+        ]),
+        ("Four links, each depending on the last", [
+            "disillusion, fade, free, know &mdash;",
+            "no step skipped or reordered",
+        ]),
+        ("The arahant's own words, quoted directly", [
+            "not described but spoken &mdash;",
+            "the standard declaration in full",
+        ]),
+        ("A template the vagga will now vary", [
+            "this shape repeated, shortened, extended &mdash;",
+            "nine more discourses building on it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.12/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.11.html">SN 22.11 &middot; Not-Self in the '
+        "Three Times</a> &mdash; the previous discourse, closing "
+        "Nakulapituvagga.",
+        '<a href="sn-22.13.html">SN 22.13 &middot; Suffering</a> '
+        "&mdash; the next discourse, the identical chain applied to "
+        "suffering instead of impermanence.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.13 — Dukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 13, "Dukkha", "Suffering",
+    vagga="Aniccavagga",
+    meta_title="SN 22.13 — Suffering | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dukkhasutta &mdash; SN 22.12's liberation chain restated "
+        "for suffering, elided almost entirely in the source. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 22.12's structure restated with \"suffering\" "
+                 "substituted for \"impermanent,\" reduced in the "
+                 "source to its two changed lines"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the shortest discourse in the vagga so far, "
+                       "read alongside SN 22.12"),
+    ],
+    why=(
+        "Where SN 22.12 spelled out its four-step liberation chain "
+        "in full, this discourse is compressed by the source itself "
+        "to almost nothing: the aggregates are named as suffering "
+        "rather than impermanent, and everything else &mdash; "
+        "disillusionment, fading desire, freedom, the arahant's "
+        "declaration &mdash; is elided with a bare ellipsis, trusting "
+        "the reader's memory of the discourse immediately before it. "
+        "This brevity is itself informative: whoever compiled this "
+        "material judged the chain from &ldquo;seeing X&rdquo; to "
+        "&ldquo;freed, knowing they are freed&rdquo; robust enough to "
+        "survive substituting a different starting premise without "
+        "needing to be rewritten each time."
+    ),
+    guide=[
+        ("The premise changes; nothing else needs to be said", [
+            "The discourse's only substantive content is its opening "
+            "claim: the five aggregates are suffering. Everything "
+            "that follows in SN 22.12 &mdash; disillusionment, "
+            "fading desire, freedom, and the arahant's four-part "
+            "declaration &mdash; is represented here only by a bare "
+            "&ldquo;seeing this &hellip;&rdquo; and a closing "
+            "ellipsis pointing back to &ldquo;there is nothing "
+            "further for this place.&rdquo;",
+        ]),
+        ("A genuine feature of the source, not a shortcut taken here", [
+            "As with SN 22.6 earlier in this book, this elision is "
+            "preserved exactly as bilara-data gives it rather than "
+            "expanded with invented prose. The pattern recurs "
+            "throughout this vagga: SN 22.12 states the full chain "
+            "once, and the discourses that share its shape lean on "
+            "that full statement rather than repeating it.",
+        ]),
+        ("Suffering as a premise on its own terms", [
+            "Even compressed this far, the discourse still makes a "
+            "distinct claim worth pausing on: the aggregates "
+            "themselves &mdash; not merely one's relationship to "
+            "them, as in SN 22.7-8's grasping-based analysis &mdash; "
+            "are directly named as suffering (dukkha), the second of "
+            "the three marks, standing on its own rather than "
+            "derived from impermanence the way the traditional "
+            "sequence (what is impermanent is suffering) would "
+            "suggest.",
+        ]),
+        ("The second of three direct statements", [
+            "This discourse is the middle term of Aniccavagga's "
+            "opening triplet &mdash; impermanence in SN 22.12, "
+            "suffering here, not-self in SN 22.14 immediately after "
+            "&mdash; each stating one mark of the three directly and "
+            "without argument, in contrast to the more elaborate "
+            "reasoning SN 22.15-20 will build later in the same "
+            "vagga.",
+        ]),
+    ],
+    terms=[
+        ("dukkha",
+         "&ldquo;suffering&rdquo; &mdash; the term substituted for "
+         "anicca (impermanent) in this discourse's opening claim, "
+         "otherwise identical to SN 22.12."),
+        ("peyyāla",
+         "the technical term for an elided passage like this "
+         "discourse's, where the source points back to a fuller "
+         "statement rather than repeating it."),
+        ("nibbindati",
+         "&ldquo;grows disillusioned&rdquo; &mdash; the first link "
+         "of the chain, present here only by cross-reference to SN "
+         "22.12."),
+        ("vimuccati",
+         "&ldquo;is freed&rdquo; &mdash; the third link, likewise "
+         "elided but assumed by the discourse's closing ellipsis."),
+        ("nāparaṁ itthattāya",
+         "&ldquo;nothing further for this place&rdquo; &mdash; the "
+         "closing phrase of the arahant declaration, the only part "
+         "of it directly quoted even in this compressed form."),
+    ],
+    text_intro=(
+        "The discourse in full &mdash; genuinely this short in the "
+        "source, its ellipses given exactly as bilara-data preserves "
+        "them rather than expanded from SN 22.12. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.13:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What is this discourse's only substantive change from SN 22.12?",
+         "opts": [
+             "\"Suffering\" replaces \"impermanent\" as the claim made about the aggregates",
+             "It adds an entirely new liberation chain",
+             "It names only one aggregate instead of all five",
+             "It denies SN 22.12's conclusion"],
+         "correct": 0,
+         "expl": "Everything else is elided by cross-reference to the previous discourse."},
+        {"q": "How does the source handle the rest of the discourse's content?",
+         "opts": [
+             "With a bare ellipsis pointing back to SN 22.12's full statement",
+             "By spelling out the entire chain again in full",
+             "By replacing it with unrelated content",
+             "By omitting any indication that content is missing"],
+         "correct": 0,
+         "expl": "A genuine peyyāla feature of the source material."},
+        {"q": "What does this discourse's brevity suggest about the underlying liberation chain?",
+         "opts": [
+             "It was considered robust enough to survive substituting a different opening premise without rewriting",
+             "It was considered unimportant and rarely used",
+             "It only applies to impermanence, not to other premises",
+             "It was added later and considered less authoritative"],
+         "correct": 0,
+         "expl": "The chain's structure stays fixed while its starting premise varies."},
+        {"q": "How does this discourse's claim differ from SN 22.7-8's earlier analysis of grasping?",
+         "opts": [
+             "It names the aggregates themselves as suffering, rather than analyzing one's grasping relationship to them",
+             "It denies that grasping has anything to do with suffering",
+             "It only concerns consciousness, unlike SN 22.7-8",
+             "It reaches the opposite conclusion from SN 22.7-8"],
+         "correct": 0,
+         "expl": "A direct claim about the aggregates' nature, distinct from the grasping-based diagnosis earlier in the book."},
+        {"q": "What position does this discourse hold in Aniccavagga's opening triplet?",
+         "opts": [
+             "The middle term, between impermanence (SN 22.12) and not-self (SN 22.14)",
+             "The triplet's final term",
+             "The triplet's opening term",
+             "It does not belong to any triplet"],
+         "correct": 0,
+         "expl": "Impermanence, suffering, not-self — each stated directly in turn."},
+        {"q": "How does this discourse's directness compare to SN 22.15-20 later in the vagga?",
+         "opts": [
+             "It states its mark directly without argument, unlike the more elaborate reasoning built up later",
+             "It is far more elaborate and argued than SN 22.15-20",
+             "It uses the exact same reasoning as SN 22.18-20",
+             "There is no meaningful difference between them"],
+         "correct": 0,
+         "expl": "SN 22.12-14 state; SN 22.15-20 build progressively more elaborate arguments."},
+        {"q": "Does this project's reading guide reconstruct the elided content and present it as this discourse's own text?",
+         "opts": [
+             "No — it quotes the ellipsis exactly as the source gives it",
+             "Yes — the full chain is reconstructed and presented as original",
+             "The elided content is replaced with unrelated material",
+             "The discourse is skipped entirely"],
+         "correct": 0,
+         "expl": "Consistent with this project's practice on other short peyyāla stubs."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as SN 22.12."},
+        {"q": "How many aggregates does this discourse's claim apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Named together as a group, as in SN 22.12."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.14, completing the triplet with not-self",
+             "SN 22.1, looping back to the book's opening",
+             "A discourse from a different saṃyutta",
+             "The vagga's closing uddāna"],
+         "correct": 0,
+         "expl": "Not-self is the third term of the opening triplet."},
+    ],
+    marginalia=[
+        ("One word changed, everything else pointed back", [
+            "suffering stands where impermanence stood &mdash;",
+            "the chain itself left unrepeated",
+        ]),
+        ("Brevity as a structural signal", [
+            "the shortest page so far &mdash;",
+            "a chain considered robust enough not to restate",
+        ]),
+        ("The aggregates themselves, not merely grasping at them", [
+            "a direct claim, not a relational one &mdash;",
+            "distinct from SN 22.7-8's earlier diagnosis",
+        ]),
+        ("The middle term of three direct statements", [
+            "impermanence, suffering, not-self &mdash;",
+            "argument arrives only later in the vagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.13/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.12.html">SN 22.12 &middot; Impermanence</a> '
+        "&mdash; the previous discourse, whose full chain this one "
+        "elides by cross-reference.",
+        '<a href="sn-22.14.html">SN 22.14 &middot; Not-Self</a> '
+        "&mdash; the next discourse, completing the opening triplet.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.14 — Anattasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 14, "Anatta", "Not-Self",
+    vagga="Aniccavagga",
+    meta_title="SN 22.14 — Not-Self | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anattasutta &mdash; the third term of Aniccavagga's "
+        "opening triplet, completing impermanence, suffering, and "
+        "not-self stated directly in turn. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 22.12's full chain restated in full, with "
+                 "\"not-self\" substituted for \"impermanent\""),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and direct, completing the triplet's "
+                       "third and final mark"),
+    ],
+    why=(
+        "This discourse completes Aniccavagga's opening triplet, "
+        "and unlike SN 22.13 immediately before it, its source gives "
+        "the full chain a second time rather than eliding it &mdash; "
+        "form, feeling, perception, choices, and consciousness are "
+        "not-self; seeing this, disillusionment; disillusionment, "
+        "fading desire; fading desire, freedom; freedom, the "
+        "knowledge of freedom; and the complete arahant declaration "
+        "closing it out. With all three marks now stated directly, "
+        "the vagga's next six discourses (SN 22.15-20) will show how "
+        "the three marks logically depend on one another and extend "
+        "the same reasoning to each aggregate's cause, before SN "
+        "22.21 closes the vagga with Ānanda's direct question about "
+        "what all of it ultimately points toward."
+    ),
+    guide=[
+        ("Not-self, stated as directly as the two marks before it", [
+            "The discourse opens exactly as SN 22.12 did, with a "
+            "single unargued claim: form, feeling, perception, "
+            "choices, and consciousness are not-self (anattā). No "
+            "reasoning connects this claim back to impermanence or "
+            "suffering here &mdash; each of the triplet's three "
+            "discourses stands as its own direct assertion, though "
+            "SN 22.15 immediately after this vagga's next three will "
+            "supply the logical connection the direct statements "
+            "leave implicit.",
+        ]),
+        ("The full chain restated, not elided", [
+            "Unlike SN 22.13's compressed treatment of suffering, "
+            "this discourse's source spells the entire four-step "
+            "chain out again in full: disillusionment, fading "
+            "desire, freedom, and the knowledge of freedom, closing "
+            "with the complete arahant declaration quoted word for "
+            "word as in SN 22.12. There is no consistent rule "
+            "governing which discourses in this vagga get the full "
+            "restatement and which get elided; both patterns appear "
+            "side by side.",
+        ]),
+        ("Three marks, three identical outcomes", [
+            "Read together, SN 22.12, SN 22.13, and SN 22.14 make an "
+            "implicit claim worth noticing on its own: whichever of "
+            "the three marks a disciple sees clearly in the "
+            "aggregates &mdash; impermanence, suffering, or not-self "
+            "&mdash; the same four-step chain and the same final "
+            "liberation follow. The three marks are not three "
+            "separate paths requiring three separate trainings; "
+            "seeing any one of them clearly is presented as "
+            "sufficient.",
+        ]),
+        ("What the triplet sets up for the rest of the vagga", [
+            "With all three marks now on the table as independent "
+            "direct claims, the vagga turns next to showing how they "
+            "relate to one another logically (SN 22.15-17, deriving "
+            "not-self from suffering and suffering from impermanence) "
+            "and then to each aggregate's cause (SN 22.18-20, arguing "
+            "that what arises from an impermanent, suffering, or "
+            "not-self cause cannot itself be otherwise) &mdash; moving "
+            "from assertion to argument across the vagga's middle "
+            "stretch.",
+        ]),
+    ],
+    terms=[
+        ("anattā",
+         "&ldquo;not-self&rdquo; &mdash; the third mark, stated here "
+         "directly as the discourse's opening claim, without argument "
+         "connecting it to the two marks before it."),
+        ("nibbindati",
+         "&ldquo;grows disillusioned&rdquo; &mdash; the chain's "
+         "opening link, spelled out again here in full rather than "
+         "elided as in SN 22.13."),
+        ("vimuccati",
+         "&ldquo;is freed&rdquo; &mdash; the third link, restated in "
+         "full."),
+        ("vimuttasmiṁ vimuttamiti ñāṇaṁ",
+         "&ldquo;when freed, they know they're freed&rdquo; &mdash; "
+         "the fourth link, restated in full, identical in wording to "
+         "SN 22.12."),
+        ("khīṇā jāti&hellip;nāparaṁ itthattāya",
+         "&ldquo;rebirth is ended&hellip;nothing further for this "
+         "place&rdquo; &mdash; the arahant declaration, quoted "
+         "directly a second time, word for word as in SN 22.12."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.14:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What claim opens this discourse?",
+         "opts": [
+             "Form, feeling, perception, choices, and consciousness are not-self",
+             "Only the mind is not-self; the body is a genuine self",
+             "Not-self applies only to consciousness among the aggregates",
+             "The aggregates possess a hidden, unchanging self"],
+         "correct": 0,
+         "expl": "Stated directly, without argument connecting it to impermanence or suffering."},
+        {"q": "How does this discourse's treatment of the chain compare to SN 22.13's?",
+         "opts": [
+             "It restates the full four-step chain, unlike SN 22.13's elided version",
+             "It elides the chain even more than SN 22.13 did",
+             "It uses a completely different chain from SN 22.12-13",
+             "It omits the arahant declaration entirely"],
+         "correct": 0,
+         "expl": "No consistent rule governs which discourses in this vagga get full restatement versus elision."},
+        {"q": "What does the triplet formed by SN 22.12, 22.13, and 22.14 implicitly suggest?",
+         "opts": [
+             "Seeing any one of the three marks clearly leads to the same liberation, not three separate trainings",
+             "Only impermanence leads to liberation; suffering and not-self do not",
+             "All three marks must be seen simultaneously or none is effective",
+             "The three marks contradict one another"],
+         "correct": 0,
+         "expl": "The same four-step chain and same outcome follow regardless of which mark is seen."},
+        {"q": "What do the six discourses immediately after this triplet (SN 22.15-20) do?",
+         "opts": [
+             "Show how the three marks logically relate to one another and extend the reasoning to each aggregate's cause",
+             "Repeat this triplet's exact content without variation",
+             "Reject the triplet's conclusions entirely",
+             "Introduce an entirely unrelated topic"],
+         "correct": 0,
+         "expl": "Moving from direct assertion to explicit argument across the vagga's middle stretch."},
+        {"q": "What four-part declaration closes this discourse?",
+         "opts": [
+             "\"Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is nothing further for this place\"",
+             "\"I have overcome all suffering forever\"",
+             "\"The self has been found at last\"",
+             "\"I shall teach this to all beings without exception\""],
+         "correct": 0,
+         "expl": "Identical in wording to SN 22.12's closing declaration."},
+        {"q": "How many aggregates does this discourse's opening claim apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Named together as a group, as in SN 22.12 and SN 22.13."},
+        {"q": "What position does this discourse hold in Aniccavagga's opening triplet?",
+         "opts": [
+             "The third and final term, completing impermanence and suffering",
+             "The triplet's opening term",
+             "The triplet's middle term",
+             "It does not belong to the triplet"],
+         "correct": 0,
+         "expl": "Not-self closes the direct-statement triplet that opens the vagga."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as SN 22.12 and SN 22.13."},
+        {"q": "What comes immediately after this discourse, closing this triplet?",
+         "opts": [
+             "SN 22.15, deriving the three marks' logical connection to one another",
+             "A return to SN 22.1",
+             "A discourse from a different saṃyutta",
+             "The vagga's closing uddāna"],
+         "correct": 0,
+         "expl": "SN 22.15 begins the vagga's next sub-group, spelling out the marks' logical chain."},
+        {"q": "Who speaks in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "Venerable Sāriputta",
+             "The householder Hāliddikāni"],
+         "correct": 0,
+         "expl": "A direct teaching, consistent with SN 22.12 and SN 22.13."},
+    ],
+    marginalia=[
+        ("The third mark, as directly stated as the first two", [
+            "not-self, unargued &mdash;",
+            "no connection to impermanence or suffering drawn yet",
+        ]),
+        ("Restated in full, not elided this time", [
+            "no consistent pattern &mdash;",
+            "full and compressed forms sit side by side",
+        ]),
+        ("Three marks, one outcome each", [
+            "any one seen clearly suffices &mdash;",
+            "not three separate trainings",
+        ]),
+        ("Where the vagga turns from statement to argument", [
+            "assertion complete &mdash;",
+            "the logical connections come next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.14/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.13.html">SN 22.13 &middot; Suffering</a> '
+        "&mdash; the previous discourse, the middle term of this "
+        "triplet.",
+        '<a href="sn-22.15.html">SN 22.15 &middot; That Which is '
+        "Impermanent</a> &mdash; the next discourse, deriving the "
+        "three marks' logical connection to one another.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.15 — Yadaniccasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 15, "Yadanicca", "That Which is Impermanent",
+    vagga="Aniccavagga",
+    meta_title="SN 22.15 — That Which is Impermanent | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Yadaniccasutta &mdash; the logical chain linking "
+        "impermanence to suffering to not-self to the classic "
+        "\"not mine, not I, not myself\" contemplation, spelled out "
+        "in full. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A four-step logical chain (impermanent, therefore "
+                 "suffering, therefore not-self, therefore to be seen "
+                 "as not mine) run once in full for each aggregate"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "opens the vagga's most explicitly logical "
+                       "sub-section"),
+    ],
+    why=(
+        "Where SN 22.12-14 stated each of the three marks as an "
+        "independent, unargued claim, this discourse is where the "
+        "vagga finally spells out how they connect: form is "
+        "impermanent; what's impermanent is suffering; what's "
+        "suffering is not-self; and what's not-self should be seen "
+        "with right understanding as &ldquo;this is not mine, I am "
+        "not this, this is not my self.&rdquo; The chain runs in one "
+        "direction only &mdash; from impermanence toward the "
+        "negation of self &mdash; and it is this exact four-link "
+        "sequence that SN 22.16 and SN 22.17 will each shorten by "
+        "one step, entering the chain progressively further along."
+    ),
+    guide=[
+        ("The logical chain, spelled out for the first time", [
+            "This is the first discourse in the book to state "
+            "outright the reasoning that SN 22.12-14 left implicit: "
+            "impermanence entails suffering, suffering entails "
+            "not-self, and not-self entails a specific way of seeing "
+            "&mdash; &ldquo;this is not mine, I am not this, this is "
+            "not my self,&rdquo; the exact negated formula SN 22.8's "
+            "learned noble disciple used earlier in the book. Each "
+            "link depends on the one before it, run through once in "
+            "full for form and then for each remaining aggregate.",
+        ]),
+        ("Why the chain moves in only one direction", [
+            "The chain argues impermanent &rarr; suffering &rarr; "
+            "not-self &rarr; not-mine, never the reverse. This "
+            "direction matters: it is not claimed that everything "
+            "not-self is therefore suffering, or that everything "
+            "suffering is therefore impermanent (both claims would "
+            "be false &mdash; nibbāna is sometimes discussed "
+            "elsewhere as not-self without being suffering). The "
+            "argument works specifically because form, feeling, "
+            "perception, choices, and consciousness are already known "
+            "to be impermanent, and the chain traces only what "
+            "follows from that starting point.",
+        ]),
+        ("An instruction, not merely a description", [
+            "The chain's final link is phrased as a prescription "
+            "rather than an observation: what is not-self "
+            "&ldquo;should be truly seen with right understanding "
+            "like this&rdquo; (yathābhūtaṁ sammappaññāya daṭṭhabbaṁ) "
+            "&mdash; naming a specific practice (seeing) rather than "
+            "simply stating a further fact. The three marks are "
+            "presented here as building toward something to be done, "
+            "not only something to be known.",
+        ]),
+        ("Opening a matched trio of decreasing length", [
+            "This discourse states all four links in full for every "
+            "aggregate. SN 22.16 immediately after it will begin one "
+            "link further along the chain, at suffering rather than "
+            "impermanence, and SN 22.17 will begin at not-self "
+            "itself &mdash; the same destination reached from three "
+            "different, progressively shorter starting points, worth "
+            "reading as a matched set rather than as three unrelated "
+            "discourses.",
+        ]),
+    ],
+    terms=[
+        ("yad aniccaṁ taṁ dukkhaṁ",
+         "&ldquo;what is impermanent is suffering&rdquo; &mdash; the "
+         "chain's first link, the canonical formula already invoked "
+         "by name in the previous vagga's reading guides."),
+        ("yaṁ dukkhaṁ tadanattā",
+         "&ldquo;what is suffering is not-self&rdquo; &mdash; the "
+         "chain's second link, completing the traditional three-mark "
+         "sequence."),
+        ("yathābhūtaṁ sammappaññāya daṭṭhabbaṁ",
+         "&ldquo;should be truly seen with right understanding&rdquo; "
+         "&mdash; the chain's final, prescriptive link, naming a "
+         "practice rather than stating a further fact."),
+        ("n'etaṁ mama, nesohamasmi, na meso attā",
+         "&ldquo;this is not mine, I am not this, this is not my "
+         "self&rdquo; &mdash; the exact content of that seeing, "
+         "identical to SN 22.8's negated formula earlier in the book."),
+        ("tilakkhaṇa",
+         "the &ldquo;three marks&rdquo; &mdash; impermanence, "
+         "suffering, and not-self, whose logical interdependence this "
+         "discourse states explicitly for the first time in the book."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions (feeling, "
+        "perception, and choices, each following the same four-link "
+        "chain spelled out in full for form and consciousness) are "
+        "given exactly as bilara-data preserves them. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.15:1.1-1.5"),
+        ("p", "&sect;2", "sn22.15:1.12-1.17"),
+    ],
+    quiz=[
+        {"q": "What four-step chain does this discourse spell out for the first time?",
+         "opts": [
+             "Impermanent leads to suffering, suffering leads to not-self, not-self leads to seeing \"this is not mine\"",
+             "Not-self leads to suffering, suffering leads to impermanence",
+             "A chain with no logical connection between its steps",
+             "Impermanence leads directly to freedom, skipping the other marks"],
+         "correct": 0,
+         "expl": "The reasoning SN 22.12-14 left implicit as three separate direct claims."},
+        {"q": "In which direction does this discourse's chain run?",
+         "opts": [
+             "From impermanence toward the negation of self only, not in reverse",
+             "In both directions equally",
+             "From not-self back to impermanence only",
+             "The direction is left unspecified"],
+         "correct": 0,
+         "expl": "The argument works specifically starting from the known impermanence of the aggregates."},
+        {"q": "What is the chain's final link phrased as?",
+         "opts": [
+             "A prescription to see something in a specific way, not merely a further fact",
+             "A question left unanswered",
+             "A denial of everything stated before it",
+             "An unrelated new topic"],
+         "correct": 0,
+         "expl": "Yathābhūtaṁ sammappaññāya daṭṭhabbaṁ — naming a practice, not just adding information."},
+        {"q": "What exact formula does the chain's final link specify?",
+         "opts": [
+             "\"This is not mine, I am not this, this is not my self\"",
+             "\"This is mine, I am this, this is my self\"",
+             "\"This is neither mine nor not mine\"",
+             "\"This cannot be described in words\""],
+         "correct": 0,
+         "expl": "Identical to SN 22.8's negated formula from earlier in the book."},
+        {"q": "How does this discourse relate to SN 22.16 and SN 22.17 immediately after it?",
+         "opts": [
+             "They form a matched trio, each starting the chain one link further along and progressively shorter",
+             "They are unrelated discourses with no connection to this one",
+             "They directly contradict this discourse's conclusions",
+             "They repeat this discourse's exact wording without variation"],
+         "correct": 0,
+         "expl": "SN 22.16 begins at suffering; SN 22.17 begins at not-self itself."},
+        {"q": "Why does the discourse not claim the chain also runs in reverse?",
+         "opts": [
+             "Because not everything not-self is suffering, and not everything suffering is impermanent — the reverse claims would be false",
+             "Because reverse claims were never considered by the tradition",
+             "Because the discourse explicitly states the reverse is also true",
+             "There is no reason given; the direction is arbitrary"],
+         "correct": 0,
+         "expl": "The chain works specifically because the aggregates are already known to be impermanent."},
+        {"q": "How many aggregates does this discourse's chain apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "What formula from earlier in the book does this discourse's final link recall?",
+         "opts": [
+             "SN 22.8's negated \"this is not mine\" formula",
+             "SN 22.2's three-round interrogation",
+             "SN 22.3's bastion-and-abode imagery",
+             "SN 22.5's twelve-link chain"],
+         "correct": 0,
+         "expl": "The identical negated formula, now reached through explicit logical argument rather than direct instruction."},
+        {"q": "What comes immediately after this discourse?",
+         "opts": [
+             "SN 22.16, beginning the same chain one link further along, at suffering",
+             "A return to SN 22.12",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "The second term of this three-discourse matched set."},
+    ],
+    marginalia=[
+        ("The chain finally made explicit", [
+            "impermanent to suffering to not-self &mdash;",
+            "reasoning left implicit in the triplet before it",
+        ]),
+        ("One direction only", [
+            "not everything not-self is suffering &mdash;",
+            "the argument starts specifically from impermanence",
+        ]),
+        ("A prescription, not just a further fact", [
+            "should be truly seen &mdash;",
+            "naming a practice, not only a conclusion",
+        ]),
+        ("The first of three, longest to shortest", [
+            "all four links stated in full &mdash;",
+            "SN 22.16-17 will each shorten the entry point",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.15/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.14.html">SN 22.14 &middot; Not-Self</a> '
+        "&mdash; the previous discourse, closing the vagga's opening "
+        "triplet of direct statements.",
+        '<a href="sn-22.16.html">SN 22.16 &middot; That Which is '
+        "Suffering</a> &mdash; the next discourse, the same chain "
+        "beginning one link further along.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.16 — Yaṁdukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 16, "Yaṁdukkha", "That Which is Suffering",
+    vagga="Aniccavagga",
+    meta_title="SN 22.16 — That Which is Suffering | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Yaṁdukkhasutta &mdash; SN 22.15's chain restarted one "
+        "link along, beginning from suffering rather than "
+        "impermanence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 22.15's chain, now entered at its second link "
+                 "&mdash; \"suffering\" as the starting premise "
+                 "rather than \"impermanent\""),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "shorter than SN 22.15, best read as its "
+                       "continuation"),
+    ],
+    why=(
+        "This discourse is the second term of the vagga's telescoping "
+        "trio, and its relationship to SN 22.15 is precise: rather "
+        "than beginning &ldquo;form is impermanent,&rdquo; it begins "
+        "one link further into the same chain, at &ldquo;form is "
+        "suffering.&rdquo; What is suffering is not-self, and what "
+        "is not-self should be seen as not mine &mdash; the same two "
+        "remaining links from SN 22.15, now presented as a "
+        "self-contained three-link argument rather than referring "
+        "back to impermanence at all. Suffering, not impermanence, is "
+        "treated here as a premise that can simply be granted on its "
+        "own terms."
+    ),
+    guide=[
+        ("The same chain, entered one step later", [
+            "SN 22.15 opened with impermanence and worked through "
+            "three further links to reach &ldquo;not mine.&rdquo; "
+            "This discourse opens instead with suffering directly "
+            "&mdash; form is suffering &mdash; and needs only two "
+            "further links, suffering to not-self and not-self to "
+            "the negated formula, to reach the identical destination.",
+        ]),
+        ("Suffering standing as its own starting point", [
+            "By opening with suffering rather than deriving it from "
+            "impermanence, this discourse treats the aggregates' "
+            "suffering as something a listener can grant directly, "
+            "without first needing to be walked through why "
+            "impermanent things are suffering. This mirrors the "
+            "earlier triplet's own structure (SN 22.12-14), where "
+            "each mark was likewise stated as an independent, "
+            "unargued claim rather than derived from the others.",
+        ]),
+        ("A telescoping structure, not a repetition", [
+            "Read next to SN 22.15, this discourse's shorter form is "
+            "not simply padding removed from a longer original; it "
+            "represents a genuinely different entry point into the "
+            "same underlying argument, useful to a listener who "
+            "already accepts that the aggregates are suffering "
+            "without needing the impermanence premise spelled out "
+            "first. The two discourses complement rather than "
+            "duplicate one another.",
+        ]),
+        ("One link remaining before the trio closes", [
+            "With impermanence-as-starting-point (SN 22.15) and "
+            "suffering-as-starting-point (SN 22.16) both now given, "
+            "only the shortest possible entry &mdash; not-self "
+            "itself, with no prior link to establish at all &mdash; "
+            "remains for SN 22.17 to complete the set.",
+        ]),
+    ],
+    terms=[
+        ("yaṁ dukkhaṁ tadanattā",
+         "&ldquo;what is suffering is not-self&rdquo; &mdash; this "
+         "discourse's opening logical step, the same second link SN "
+         "22.15 used, now serving as the chain's starting point."),
+        ("yathābhūtaṁ sammappaññāya daṭṭhabbaṁ",
+         "&ldquo;should be truly seen with right understanding&rdquo; "
+         "&mdash; the chain's closing prescriptive link, unchanged "
+         "from SN 22.15."),
+        ("n'etaṁ mama, nesohamasmi, na meso attā",
+         "&ldquo;this is not mine, I am not this, this is not my "
+         "self&rdquo; &mdash; the destination both this discourse and "
+         "SN 22.15 arrive at, reached by two links here instead of "
+         "three."),
+        ("dukkha",
+         "&ldquo;suffering&rdquo; &mdash; here treated as a starting "
+         "premise granted directly, rather than derived from "
+         "impermanence as SN 22.15's fuller chain did."),
+        ("tilakkhaṇa",
+         "the &ldquo;three marks&rdquo; &mdash; this discourse using "
+         "only the second and third of the three, having skipped the "
+         "first entirely."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions (feeling, "
+        "perception, and choices, each following the same three-link "
+        "chain spelled out in full for form and consciousness) are "
+        "given exactly as bilara-data preserves them. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.16:1.1-1.4"),
+        ("p", "&sect;2", "sn22.16:1.8-1.10"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's opening differ from SN 22.15's?",
+         "opts": [
+             "It begins with \"form is suffering\" directly, skipping the impermanence premise",
+             "It begins with an entirely unrelated claim",
+             "It denies that form is suffering",
+             "It repeats SN 22.15's opening word for word"],
+         "correct": 0,
+         "expl": "The same chain, entered one link further along."},
+        {"q": "How many links does this discourse's chain contain, compared to SN 22.15's four?",
+         "opts": [
+             "Two — suffering to not-self, and not-self to the negated formula",
+             "Five, one more than SN 22.15",
+             "Zero — the discourse contains no chain at all",
+             "The same four links as SN 22.15, unchanged"],
+         "correct": 0,
+         "expl": "A shorter chain reaching the same destination as SN 22.15."},
+        {"q": "What does this discourse's structure suggest about suffering as a premise?",
+         "opts": [
+             "That it can be granted directly, without first deriving it from impermanence",
+             "That suffering cannot be discussed without impermanence",
+             "That suffering is less important than impermanence",
+             "That suffering only applies to some aggregates, not all five"],
+         "correct": 0,
+         "expl": "Mirroring how SN 22.12-14 each stated their mark as an independent, unargued claim."},
+        {"q": "What formula does this discourse's chain still arrive at, identical to SN 22.15's?",
+         "opts": [
+             "\"This is not mine, I am not this, this is not my self\"",
+             "\"This is mine, I am this, this is my self\"",
+             "\"This is beyond all description\"",
+             "\"This is both self and not-self\""],
+         "correct": 0,
+         "expl": "The same destination, reached by a shorter route."},
+        {"q": "How does this discourse relate to SN 22.17 immediately after it?",
+         "opts": [
+             "SN 22.17 will shorten the chain even further, beginning directly from not-self",
+             "SN 22.17 will lengthen the chain instead",
+             "SN 22.17 contradicts this discourse's conclusions",
+             "SN 22.17 is entirely unrelated to this discourse"],
+         "correct": 0,
+         "expl": "The third and shortest term of the vagga's telescoping trio."},
+        {"q": "Is this discourse's shorter form best understood as padding removed, or as a distinct entry point?",
+         "opts": [
+             "A distinct entry point, useful to a listener who already grants that the aggregates are suffering",
+             "Simply padding removed with no independent purpose",
+             "A scribal error that shortened the original text",
+             "An entirely unrelated discourse mistakenly placed here"],
+         "correct": 0,
+         "expl": "The two discourses complement rather than duplicate one another."},
+        {"q": "How many aggregates does this discourse's chain apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "What position does this discourse hold in the vagga's telescoping trio?",
+         "opts": [
+             "The second term, between SN 22.15 (impermanence) and SN 22.17 (not-self)",
+             "The trio's opening term",
+             "The trio's final term",
+             "It does not belong to the trio"],
+         "correct": 0,
+         "expl": "Each of the three discourses enters the same underlying chain at a progressively later point."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.17, the shortest entry point, beginning directly from not-self",
+             "A return to SN 22.12",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "Completing the trio's progression from longest to shortest."},
+    ],
+    marginalia=[
+        ("Entering the chain one step later", [
+            "suffering as the starting point &mdash;",
+            "impermanence's derivation simply skipped",
+        ]),
+        ("A shorter route to the same destination", [
+            "two links instead of four &mdash;",
+            "\"not mine, not I, not self\" reached either way",
+        ]),
+        ("A distinct entry point, not mere repetition", [
+            "useful to one who already grants suffering &mdash;",
+            "complementing SN 22.15, not duplicating it",
+        ]),
+        ("The middle term of a telescoping trio", [
+            "longer chain, shorter chain, shortest chain &mdash;",
+            "one link remaining for SN 22.17 to close",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.16/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.15.html">SN 22.15 &middot; That Which is '
+        "Impermanent</a> &mdash; the previous discourse, the same "
+        "chain entered one link earlier.",
+        '<a href="sn-22.17.html">SN 22.17 &middot; That Which is '
+        "Not-Self</a> &mdash; the next discourse, the shortest entry "
+        "point, closing the trio.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.17 — Yadanattāsutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 17, "Yadanattā", "That Which is Not-Self",
+    vagga="Aniccavagga",
+    meta_title="SN 22.17 — That Which is Not-Self | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Yadanattāsutta &mdash; the shortest entry point into the "
+        "chain, beginning and ending with not-self alone, closing the "
+        "vagga's telescoping trio. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The shortest possible entry into SN 22.15's chain "
+                 "&mdash; a single link, not-self directly to the "
+                 "negated formula"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the shortest and simplest of the trio, best "
+                       "read as its conclusion"),
+    ],
+    why=(
+        "This discourse closes the telescoping trio SN 22.15 opened: "
+        "where that discourse needed four links and SN 22.16 needed "
+        "two, this one needs only a single step &mdash; form is "
+        "not-self, and what's not-self should be seen with right "
+        "understanding as not mine, not I, not myself. Nothing "
+        "precedes the not-self claim here; it is granted outright, "
+        "exactly as impermanence was granted outright in SN 22.15 "
+        "and suffering in SN 22.16. Read as a set, the three "
+        "discourses demonstrate that whichever of the three marks a "
+        "listener is prepared to grant as a starting point, the same "
+        "single destination &mdash; seeing the aggregates as not "
+        "mine &mdash; is reachable from it."
+    ),
+    guide=[
+        ("The shortest possible chain", [
+            "This discourse's argument has only one step: form is "
+            "not-self, and what's not-self should be truly seen with "
+            "right understanding as &ldquo;this is not mine, I am "
+            "not this, this is not my self.&rdquo; No claim about "
+            "impermanence or suffering appears at all &mdash; the "
+            "chain simply starts at its own final premise and moves "
+            "directly to the prescribed way of seeing.",
+        ]),
+        ("Completing the trio's progression", [
+            "Set beside SN 22.15 (four links, starting from "
+            "impermanence) and SN 22.16 (two links, starting from "
+            "suffering), this discourse completes a deliberate "
+            "progression: the same destination, reached by "
+            "successively shorter routes, each entering the "
+            "underlying chain one link further along than the last. "
+            "The three together function as a kind of demonstration "
+            "that the argument's strength does not depend on which "
+            "of the three marks a listener starts from.",
+        ]),
+        ("A destination reachable from any starting point", [
+            "Taken as a set with SN 22.15 and SN 22.16, this trio "
+            "makes an implicit claim about the three marks' "
+            "relationship worth stating plainly: impermanence, "
+            "suffering, and not-self are presented as different "
+            "doors onto the identical room, not as three separate "
+            "insights each requiring its own independent training. "
+            "Whichever mark is clearest to a given listener at a "
+            "given moment, that same listener can be led from it to "
+            "the same &ldquo;not mine&rdquo; understanding.",
+        ]),
+        ("What follows: extending the argument to each cause", [
+            "With this trio complete, the vagga turns next to a "
+            "different kind of extension in SN 22.18-20: rather than "
+            "shortening the chain further, those three discourses "
+            "lengthen the argument outward, from each aggregate "
+            "itself to the cause that produces it, arguing that an "
+            "effect produced by an impermanent, suffering, or "
+            "not-self cause cannot itself be otherwise.",
+        ]),
+    ],
+    terms=[
+        ("anattā",
+         "&ldquo;not-self&rdquo; &mdash; granted here outright as "
+         "the discourse's sole starting premise, with no prior "
+         "impermanence or suffering claim leading into it."),
+        ("yathābhūtaṁ sammappaññāya daṭṭhabbaṁ",
+         "&ldquo;should be truly seen with right understanding&rdquo; "
+         "&mdash; the single remaining link, unchanged in wording "
+         "from SN 22.15 and SN 22.16."),
+        ("n'etaṁ mama, nesohamasmi, na meso attā",
+         "&ldquo;this is not mine, I am not this, this is not my "
+         "self&rdquo; &mdash; the shared destination of all three "
+         "discourses in this trio, reached here in a single step."),
+        ("tilakkhaṇa",
+         "the &ldquo;three marks&rdquo; &mdash; this discourse using "
+         "only the third, having granted it directly rather than "
+         "deriving it from the first two."),
+        ("hetu paccaya",
+         "&ldquo;cause and reason&rdquo; &mdash; the vocabulary the "
+         "next three discourses (SN 22.18-20) will introduce, "
+         "extending this trio's reasoning to what produces each "
+         "aggregate rather than the aggregate alone."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions (feeling, "
+        "perception, and choices, each following the same single-link "
+        "chain spelled out in full for form and consciousness) are "
+        "given exactly as bilara-data preserves them. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.17:1.1-1.3"),
+        ("p", "&sect;2", "sn22.17:1.7-1.8"),
+    ],
+    quiz=[
+        {"q": "How many logical links does this discourse's chain contain?",
+         "opts": [
+             "One — not-self directly to the negated formula",
+             "Four, the same as SN 22.15",
+             "Two, the same as SN 22.16",
+             "Zero — no chain is given at all"],
+         "correct": 0,
+         "expl": "The shortest entry point in the trio, with no impermanence or suffering premise stated."},
+        {"q": "How does this discourse complete the trio formed with SN 22.15 and SN 22.16?",
+         "opts": [
+             "As the shortest of three progressively shorter routes to the same destination",
+             "As a contradiction of the previous two discourses",
+             "As an unrelated discourse placed here by coincidence",
+             "As a longer, more elaborate version than the previous two"],
+         "correct": 0,
+         "expl": "Four links, then two links, then one link, all reaching the identical negated formula."},
+        {"q": "What does the trio as a whole suggest about the three marks' relationship?",
+         "opts": [
+             "They function as different entry points onto the same understanding, not three separate independent trainings",
+             "Only not-self is a valid starting point for this teaching",
+             "The three marks contradict one another",
+             "Impermanence must always be established before the other two marks can be taught"],
+         "correct": 0,
+         "expl": "Whichever mark is clearest to a listener, the same destination is reachable from it."},
+        {"q": "What formula does this discourse's single link lead to?",
+         "opts": [
+             "\"This is not mine, I am not this, this is not my self\"",
+             "\"This is mine, I am this, this is my self\"",
+             "\"Self and not-self are the same thing\"",
+             "\"Nothing can be truly known\""],
+         "correct": 0,
+         "expl": "The identical destination reached by SN 22.15 and SN 22.16 through longer routes."},
+        {"q": "What do the three discourses immediately after this trio (SN 22.18-20) do differently?",
+         "opts": [
+             "They extend the argument outward to each aggregate's cause, rather than shortening the chain further",
+             "They repeat this trio's exact content without change",
+             "They reject the trio's conclusions entirely",
+             "They introduce a completely unrelated topic"],
+         "correct": 0,
+         "expl": "A shift from shortening the entry point to lengthening the argument's scope."},
+        {"q": "How many aggregates does this discourse's chain apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "What position does this discourse hold in the vagga's telescoping trio?",
+         "opts": [
+             "The third and final term, the shortest of the three",
+             "The trio's opening term",
+             "The trio's middle term",
+             "It does not belong to the trio"],
+         "correct": 0,
+         "expl": "SN 22.15 (four links), SN 22.16 (two links), and this discourse (one link) form the complete set."},
+        {"q": "Does this discourse claim that impermanence or suffering are false?",
+         "opts": [
+             "No — it simply does not state them, granting not-self directly instead",
+             "Yes — it explicitly denies both",
+             "It claims only impermanence is false",
+             "It claims only suffering is false"],
+         "correct": 0,
+         "expl": "The absence of a premise is not the same as denying it; the discourse simply enters the argument later."},
+        {"q": "What comes immediately after this discourse, closing the trio?",
+         "opts": [
+             "SN 22.18, extending the argument to each aggregate's cause",
+             "A return to SN 22.12",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "The vagga's next sub-group begins with SN 22.18."},
+    ],
+    marginalia=[
+        ("The shortest entry point of the three", [
+            "not-self granted outright &mdash;",
+            "no prior link stated at all",
+        ]),
+        ("Four links, two links, one link", [
+            "the same destination each time &mdash;",
+            "a deliberate progression, not repetition",
+        ]),
+        ("Different doors onto the same room", [
+            "impermanence, suffering, or not-self &mdash;",
+            "any one sufficient as a starting point",
+        ]),
+        ("Where the vagga turns from shortening to extending", [
+            "trio complete &mdash;",
+            "SN 22.18-20 will lengthen the argument outward instead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.17/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.16.html">SN 22.16 &middot; That Which is '
+        "Suffering</a> &mdash; the previous discourse, the same "
+        "chain entered one link earlier.",
+        '<a href="sn-22.18.html">SN 22.18 &middot; Impermanence With '
+        "Its Cause</a> &mdash; the next discourse, extending the "
+        "argument to what produces each aggregate.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.18 — Hetusutta (Impermanence)
+# --------------------------------------------------------------------------- #
+page(
+    22, 18, "Anicca Hetu", "Impermanence With Its Cause",
+    vagga="Aniccavagga",
+    meta_title="SN 22.18 — Impermanence With Its Cause | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Hetusutta &mdash; extending impermanence past the "
+        "aggregates themselves to their cause, arguing an "
+        "impermanent-produced effect cannot itself be permanent. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A short causal argument: the aggregates are "
+                 "impermanent, their cause is also impermanent, "
+                 "therefore what they produce cannot be permanent"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "introduces a new argument form not used "
+                       "earlier in this vagga"),
+    ],
+    why=(
+        "The five preceding discourses in this vagga (SN 22.12-17) "
+        "all concerned the aggregates directly &mdash; whether they "
+        "are impermanent, suffering, or not-self, and how those "
+        "claims connect. This discourse opens a new line of argument "
+        "entirely: it reaches behind the aggregates to their cause. "
+        "Form is impermanent, and the cause and reason that gives "
+        "rise to form is also impermanent &mdash; so, the discourse "
+        "asks, since form is produced by something impermanent, how "
+        "could form itself be permanent? An effect cannot outrank "
+        "its own cause in stability; something arising from "
+        "impermanent conditions inherits that impermanence by the "
+        "very fact of its arising."
+    ),
+    guide=[
+        ("A new kind of argument for an old conclusion", [
+            "The discourse reaches the same conclusion as SN "
+            "22.12-17 &mdash; the aggregates are impermanent &mdash; "
+            "but by an entirely different route. Rather than simply "
+            "observing that form changes, it points to what produces "
+            "form in the first place and observes that this cause is "
+            "impermanent too, then asks a rhetorical question rather "
+            "than making a further assertion: since form is produced "
+            "by what is impermanent, how could it be permanent?",
+        ]),
+        ("An argument from what a thing depends on", [
+            "The reasoning here works by a kind of inheritance: "
+            "whatever arises dependent on impermanent conditions "
+            "cannot itself escape those conditions' instability, "
+            "because its very existence is conditioned by something "
+            "already unstable. This connects the vagga's material "
+            "back to the broader framework of dependent origination "
+            "(paṭicca-samuppāda) explored at length in Book II, now "
+            "applied specifically to the causal relationship between "
+            "an aggregate and whatever gives rise to it.",
+        ]),
+        ("A rhetorical question, not a further claim", [
+            "The discourse's closing move for each aggregate is "
+            "phrased as a question rather than a flat statement "
+            "&mdash; &ldquo;how could it be permanent?&rdquo; "
+            "&mdash; inviting the listener to complete the inference "
+            "themselves rather than being handed the conclusion "
+            "outright. This is a small but distinctive shift in "
+            "register from the direct assertions of SN 22.12-17.",
+        ]),
+        ("Opening a matched trio parallel to the one before it", [
+            "This discourse begins a second telescoping-style trio, "
+            "structurally parallel to SN 22.15-17 but applying the "
+            "cause-based argument to each of the three marks in turn: "
+            "impermanence here, suffering in SN 22.19, and not-self "
+            "in SN 22.20. Each of the three shares this discourse's "
+            "exact rhetorical-question structure, differing only in "
+            "which mark and which corresponding opposite (permanent, "
+            "happiness, self) is being ruled out.",
+        ]),
+    ],
+    terms=[
+        ("hetu paccaya",
+         "&ldquo;cause and reason&rdquo; &mdash; the phrase naming "
+         "what produces each aggregate, the discourse's new focus "
+         "beyond the aggregate itself."),
+        ("uppanna",
+         "&ldquo;produced&rdquo; or &ldquo;arisen&rdquo; &mdash; the "
+         "relationship between an aggregate and its impermanent "
+         "cause, central to the discourse's inheritance argument."),
+        ("kuto niccaṁ bhavissati",
+         "&ldquo;how could it be permanent?&rdquo; &mdash; the "
+         "discourse's closing rhetorical question, inviting the "
+         "listener to complete the inference rather than stating the "
+         "conclusion outright."),
+        ("paṭicca-samuppāda",
+         "&ldquo;dependent origination&rdquo; &mdash; the broader "
+         "framework from Book II this discourse's causal reasoning "
+         "connects back to, now applied to a single aggregate's "
+         "relationship to its cause."),
+        ("anicca",
+         "&ldquo;impermanent&rdquo; &mdash; here applied twice over, "
+         "to both an aggregate and, distinctly, to whatever produces "
+         "that aggregate."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions (feeling, "
+        "perception, and choices, each following the same causal "
+        "argument spelled out in full for form and consciousness) "
+        "are given exactly as bilara-data preserves them. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.18:1.1-1.4"),
+        ("p", "&sect;2", "sn22.18:1.12-1.16"),
+    ],
+    quiz=[
+        {"q": "What new element does this discourse introduce, not present in SN 22.12-17?",
+         "opts": [
+             "An argument about the cause that produces each aggregate, not just the aggregate itself",
+             "A claim that the aggregates are permanent after all",
+             "A rejection of the three marks entirely",
+             "A narrative involving a named questioner"],
+         "correct": 0,
+         "expl": "The discourse reaches behind the aggregates to what produces them."},
+        {"q": "What does this discourse claim about the cause that produces form?",
+         "opts": [
+             "It is also impermanent",
+             "It is permanent and unchanging",
+             "It does not exist",
+             "It is identical to form itself"],
+         "correct": 0,
+         "expl": "The cause shares the same impermanence as its effect."},
+        {"q": "How is the discourse's conclusion phrased?",
+         "opts": [
+             "As a rhetorical question: \"how could it be permanent?\"",
+             "As a flat, direct assertion with no question",
+             "As a denial that any conclusion can be drawn",
+             "As a question the Buddha refuses to answer"],
+         "correct": 0,
+         "expl": "Inviting the listener to complete the inference themselves."},
+        {"q": "What broader framework does this discourse's causal reasoning connect back to?",
+         "opts": [
+             "Dependent origination (paṭicca-samuppāda) from Book II",
+             "The Vinaya rules for monastic conduct",
+             "The geography of ancient India",
+             "The biography of the Buddha's early life"],
+         "correct": 0,
+         "expl": "Now applied specifically to an aggregate's relationship to its cause."},
+        {"q": "What relationship does this discourse claim between an effect and an impermanent cause?",
+         "opts": [
+             "The effect inherits the cause's instability, since its existence depends on that unstable condition",
+             "The effect is entirely independent of its cause's nature",
+             "The effect must be more stable than its cause",
+             "There is no meaningful relationship between the two"],
+         "correct": 0,
+         "expl": "An argument from inheritance, not mere coincidence."},
+        {"q": "How does this discourse's structure compare to SN 22.15-17?",
+         "opts": [
+             "It opens a new, parallel trio applying cause-based reasoning to each of the three marks",
+             "It is identical in structure to SN 22.15-17",
+             "It rejects everything argued in SN 22.15-17",
+             "It has no relationship to SN 22.15-17 at all"],
+         "correct": 0,
+         "expl": "SN 22.18-20 mirror SN 22.15-17's structure while introducing the cause-based argument."},
+        {"q": "How many aggregates does this discourse's argument apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.19, applying the identical cause-based argument to suffering",
+             "A return to SN 22.12",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "The second term of the parallel cause-based trio."},
+        {"q": "Does this discourse claim the aggregates' cause is a permanent, unchanging first cause?",
+         "opts": [
+             "No — the cause itself is explicitly said to be impermanent",
+             "Yes — it claims the cause is eternal",
+             "The discourse is silent on the cause's nature",
+             "It claims the cause is identical to nibbāna"],
+         "correct": 0,
+         "expl": "The argument depends precisely on the cause sharing the effect's impermanence."},
+    ],
+    marginalia=[
+        ("Reaching behind the aggregate to its cause", [
+            "not just form itself &mdash;",
+            "what produces form, examined too",
+        ]),
+        ("A question, not a further assertion", [
+            "how could it be permanent? &mdash;",
+            "the listener completes the inference",
+        ]),
+        ("Instability inherited from an unstable source", [
+            "an effect cannot outrank its cause &mdash;",
+            "connecting back to dependent origination",
+        ]),
+        ("A second trio, parallel to the first", [
+            "cause-based reasoning, three marks &mdash;",
+            "SN 22.19-20 will complete the set",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.18/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.17.html">SN 22.17 &middot; That Which is '
+        "Not-Self</a> &mdash; the previous discourse, closing the "
+        "vagga's first telescoping trio.",
+        '<a href="sn-22.19.html">SN 22.19 &middot; Suffering With '
+        "Its Cause</a> &mdash; the next discourse, the identical "
+        "cause-based argument applied to suffering.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.19 — Dutiyahetusutta (Suffering)
+# --------------------------------------------------------------------------- #
+page(
+    22, 19, "Dukkha Hetu", "Suffering With Its Cause",
+    vagga="Aniccavagga",
+    meta_title="SN 22.19 — Suffering With Its Cause | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyahetusutta &mdash; SN 22.18's cause-based argument "
+        "restated for suffering, asking how what arises from "
+        "suffering could be happiness. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 22.18's cause-based argument restated, "
+                 "substituting suffering for impermanence and "
+                 "happiness for permanence"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "identical reasoning to SN 22.18, read as its "
+                       "direct continuation"),
+    ],
+    why=(
+        "This discourse carries SN 22.18's cause-based argument over "
+        "to the second mark, with a small but telling shift in "
+        "vocabulary: where SN 22.18 asked how something produced by "
+        "an impermanent cause could be permanent, this discourse "
+        "asks how something produced by a suffering cause could be "
+        "happiness (sukha). The paired opposite changes &mdash; not "
+        "impermanent/permanent, but suffering/happiness &mdash; "
+        "showing that the underlying argument form (an effect cannot "
+        "outrank its cause) is flexible enough to pair suffering "
+        "against its own natural opposite rather than reusing "
+        "permanence a second time."
+    ),
+    guide=[
+        ("The same inheritance argument, a new pairing", [
+            "As in SN 22.18, form is named as sharing a quality "
+            "&mdash; here, suffering &mdash; with the cause that "
+            "produces it, and the discourse asks a closing rhetorical "
+            "question: since form is produced by what is suffering, "
+            "how could it be happiness? The argument's shape is "
+            "identical to SN 22.18's; only the mark and its opposite "
+            "have changed.",
+        ]),
+        ("Why happiness, not permanence, is the ruled-out opposite", [
+            "This discourse's choice of sukha (happiness) rather "
+            "than reusing SN 22.18's nicca (permanence) as the ruled-"
+            "out term shows the argument tracking each mark's own "
+            "natural contrary rather than mechanically repeating a "
+            "single opposite across all three discourses. Suffering's "
+            "proper opposite is happiness, just as impermanence's "
+            "proper opposite was permanence, and not-self's proper "
+            "opposite (in SN 22.20 next) will be self.",
+        ]),
+        ("Suffering inherited, not merely coincidental", [
+            "The claim is not that an aggregate produced by a "
+            "suffering cause merely happens also to be suffering, but "
+            "that it could not be otherwise &mdash; the same "
+            "inheritance logic from SN 22.18, now applied to this "
+            "mark. Whatever depends for its existence on something "
+            "already unsatisfactory cannot on its own escape into "
+            "genuine happiness.",
+        ]),
+        ("The trio's middle term", [
+            "This discourse occupies the same position in its trio "
+            "(SN 22.18-20) that SN 22.13 occupied in the earlier "
+            "direct-statement triplet (SN 22.12-14) &mdash; the "
+            "second of three parallel discourses, applying an "
+            "established argument form to suffering after "
+            "impermanence and before not-self.",
+        ]),
+    ],
+    terms=[
+        ("hetu paccaya",
+         "&ldquo;cause and reason&rdquo; &mdash; the same phrase "
+         "from SN 22.18, here naming what produces the aggregate as "
+         "itself suffering."),
+        ("sukha",
+         "&ldquo;happiness&rdquo; &mdash; the ruled-out opposite in "
+         "this discourse, replacing SN 22.18's &ldquo;permanent&rdquo; "
+         "as suffering's own natural contrary."),
+        ("kuto sukhaṁ bhavissati",
+         "&ldquo;how could it be happiness?&rdquo; &mdash; this "
+         "discourse's closing rhetorical question, parallel in form "
+         "to SN 22.18's &ldquo;how could it be permanent?&rdquo;"),
+        ("dukkha",
+         "&ldquo;suffering&rdquo; &mdash; applied twice over, to both "
+         "an aggregate and, distinctly, to whatever produces that "
+         "aggregate."),
+        ("uppanna",
+         "&ldquo;produced&rdquo; or &ldquo;arisen&rdquo; &mdash; the "
+         "same inheritance relationship from SN 22.18, unchanged in "
+         "this discourse's argument."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions (feeling, "
+        "perception, and choices, each following the same causal "
+        "argument spelled out in full for form and consciousness) "
+        "are given exactly as bilara-data preserves them. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.19:1.1-1.4"),
+        ("p", "&sect;2", "sn22.19:1.8-1.12"),
+    ],
+    quiz=[
+        {"q": "What ruled-out opposite does this discourse use, replacing SN 22.18's \"permanent\"?",
+         "opts": [
+             "Happiness (sukha)",
+             "Self",
+             "Consciousness",
+             "Freedom"],
+         "correct": 0,
+         "expl": "Suffering's own natural contrary, rather than a repeated use of permanence."},
+        {"q": "What does this discourse claim about the cause that produces form?",
+         "opts": [
+             "It is also suffering",
+             "It is happiness",
+             "It does not exist",
+             "It is unrelated to form's own nature"],
+         "correct": 0,
+         "expl": "The cause shares the same quality of suffering as its effect."},
+        {"q": "How is the discourse's conclusion phrased?",
+         "opts": [
+             "As a rhetorical question: \"how could it be happiness?\"",
+             "As a flat, direct assertion with no question",
+             "As a denial that any conclusion can be drawn",
+             "As an unrelated new claim"],
+         "correct": 0,
+         "expl": "Parallel in form to SN 22.18's closing question."},
+        {"q": "What does this discourse's choice of opposite (happiness, not permanence) demonstrate?",
+         "opts": [
+             "The argument tracks each mark's own natural contrary rather than mechanically repeating one opposite",
+             "The argument is inconsistent and poorly constructed",
+             "Happiness and permanence are considered identical in this reasoning",
+             "The discourse rejects SN 22.18's argument entirely"],
+         "correct": 0,
+         "expl": "Suffering's proper opposite is happiness, just as impermanence's proper opposite was permanence."},
+        {"q": "What position does this discourse hold in its trio, SN 22.18-20?",
+         "opts": [
+             "The middle term, between impermanence (SN 22.18) and not-self (SN 22.20)",
+             "The trio's opening term",
+             "The trio's final term",
+             "It does not belong to the trio"],
+         "correct": 0,
+         "expl": "Occupying the same position SN 22.13 held in the earlier direct-statement triplet."},
+        {"q": "What underlying logic does this discourse share with SN 22.18?",
+         "opts": [
+             "An effect cannot outrank its cause — what arises from an unsatisfactory cause cannot itself be genuinely happy",
+             "An entirely different, unrelated logic",
+             "A denial that causes and effects are related at all",
+             "A claim that happiness and suffering are identical"],
+         "correct": 0,
+         "expl": "The same inheritance argument, now applied to suffering."},
+        {"q": "How many aggregates does this discourse's argument apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.20, applying the identical cause-based argument to not-self",
+             "A return to SN 22.12",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "The final term of the parallel cause-based trio."},
+        {"q": "Does this discourse claim that suffering itself is the cause of happiness?",
+         "opts": [
+             "No — it argues the opposite, that a suffering cause cannot produce genuine happiness",
+             "Yes — that is the discourse's central claim",
+             "The discourse takes no position on this question",
+             "It claims suffering and happiness alternate randomly"],
+         "correct": 0,
+         "expl": "The argument rules out happiness as a possible outcome of a suffering cause."},
+    ],
+    marginalia=[
+        ("The same argument, a new natural opposite", [
+            "happiness ruled out, not permanence &mdash;",
+            "each mark paired against its own contrary",
+        ]),
+        ("Suffering inherited, not coincidental", [
+            "an unsatisfactory cause &mdash;",
+            "cannot produce a genuinely happy effect",
+        ]),
+        ("The trio's middle term again", [
+            "impermanence, suffering, not-self &mdash;",
+            "the same position SN 22.13 held earlier",
+        ]),
+        ("One term remaining before the trio closes", [
+            "cause-based reasoning, two marks down &mdash;",
+            "not-self left for SN 22.20",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.19/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.18.html">SN 22.18 &middot; Impermanence With '
+        "Its Cause</a> &mdash; the previous discourse, the same "
+        "argument applied to impermanence.",
+        '<a href="sn-22.20.html">SN 22.20 &middot; Not-Self With Its '
+        "Cause</a> &mdash; the next discourse, closing the trio with "
+        "not-self.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.20 — Tatiyahetusutta (Not-Self)
+# --------------------------------------------------------------------------- #
+page(
+    22, 20, "Anatta Hetu", "Not-Self With Its Cause",
+    vagga="Aniccavagga",
+    meta_title="SN 22.20 — Not-Self With Its Cause | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyahetusutta &mdash; the cause-based trio's closing "
+        "term, asking how what arises from a not-self cause could "
+        "itself be self. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 22.18-19's cause-based argument completed, "
+                 "substituting not-self for impermanence and "
+                 "suffering, and self for their opposites"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "identical reasoning to SN 22.18-19, closing "
+                       "the cause-based trio"),
+    ],
+    why=(
+        "This discourse closes the cause-based trio SN 22.18 opened, "
+        "and its conclusion is arguably the sharpest of the three: "
+        "since form is produced by what is not-self, how could it be "
+        "self? Where SN 22.18 ruled out permanence and SN 22.19 ruled "
+        "out happiness, this discourse rules out self itself &mdash; "
+        "directly foreclosing the very possibility SN 22.7-8 examined "
+        "earlier in the book, that an aggregate might be identified "
+        "with under any of the fourfold or threefold formulas. If "
+        "even an aggregate's cause is not-self, nothing about the "
+        "aggregate's own arising could smuggle a genuine self back in."
+    ),
+    guide=[
+        ("The trio's final substitution", [
+            "As in SN 22.18-19, form is named as sharing a quality "
+            "&mdash; here, not-self &mdash; with the cause that "
+            "produces it, closing with the rhetorical question: since "
+            "form is produced by what is not-self, how could it be "
+            "self? The argument's shape is identical across all three "
+            "discourses; only the mark and its ruled-out opposite "
+            "change.",
+        ]),
+        ("Foreclosing self at the level of causation itself", [
+            "This discourse's conclusion connects directly back to "
+            "SN 22.7-8's earlier analysis of identity view: those "
+            "discourses examined the various ways a person might "
+            "regard an aggregate as self, self as having it, or as "
+            "mine. This discourse forecloses the possibility one "
+            "level earlier, at the aggregate's own causation &mdash; "
+            "if what produces form is itself not a self, form's own "
+            "arising offers no opening for a genuine self to be "
+            "found in it.",
+        ]),
+        ("Completing a matched pair of trios", [
+            "With this discourse, the vagga has now built two "
+            "parallel three-discourse sets on an identical underlying "
+            "template: SN 22.15-17 telescoped a single logical chain "
+            "into progressively shorter entry points, while SN "
+            "22.18-20 held the argument's length constant and instead "
+            "varied which of the three marks, paired against its own "
+            "proper opposite, was being ruled out at the level of "
+            "cause.",
+        ]),
+        ("One discourse remaining to close the vagga", [
+            "With impermanence, suffering, and not-self now argued "
+            "both directly (SN 22.12-14), through logical derivation "
+            "(SN 22.15-17), and through causation (SN 22.18-20), the "
+            "vagga has one discourse left: SN 22.21, where Ānanda "
+            "asks the Buddha directly what all of this &ldquo;cessation&rdquo; "
+            "the preceding twenty discourses have been building "
+            "toward actually refers to.",
+        ]),
+    ],
+    terms=[
+        ("hetu paccaya",
+         "&ldquo;cause and reason&rdquo; &mdash; the same phrase "
+         "from SN 22.18-19, here naming what produces the aggregate "
+         "as itself not-self."),
+        ("attā",
+         "&ldquo;self&rdquo; &mdash; the ruled-out opposite in this "
+         "discourse, completing the trio's sequence of permanent, "
+         "happiness, and now self."),
+        ("kuto attā bhavissati",
+         "&ldquo;how could it be self?&rdquo; &mdash; this "
+         "discourse's closing rhetorical question, the sharpest of "
+         "the trio's three parallel conclusions."),
+        ("anattā",
+         "&ldquo;not-self&rdquo; &mdash; applied twice over, to both "
+         "an aggregate and, distinctly, to whatever produces that "
+         "aggregate."),
+        ("sakkāyadiṭṭhi",
+         "&ldquo;identity view&rdquo; &mdash; the broader doctrine "
+         "SN 22.7-8 examined earlier in the book, which this "
+         "discourse's causal argument forecloses one level further "
+         "back, at the aggregate's own arising."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions (feeling, "
+        "perception, and choices, each following the same causal "
+        "argument spelled out in full for form and consciousness) "
+        "are given exactly as bilara-data preserves them. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.20:1.1-1.4"),
+        ("p", "&sect;2", "sn22.20:1.8-1.12"),
+    ],
+    quiz=[
+        {"q": "What ruled-out opposite does this discourse use, completing the trio's sequence?",
+         "opts": [
+             "Self (attā)",
+             "Happiness",
+             "Permanence",
+             "Consciousness"],
+         "correct": 0,
+         "expl": "Completing the sequence permanent (SN 22.18), happiness (SN 22.19), self (this discourse)."},
+        {"q": "What does this discourse claim about the cause that produces form?",
+         "opts": [
+             "It is also not-self",
+             "It is a genuine, permanent self",
+             "It does not exist",
+             "It is unrelated to form's own nature"],
+         "correct": 0,
+         "expl": "The cause shares the same not-self quality as its effect."},
+        {"q": "How is the discourse's conclusion phrased?",
+         "opts": [
+             "As a rhetorical question: \"how could it be self?\"",
+             "As a flat, direct assertion with no question",
+             "As a denial that any conclusion can be drawn",
+             "As an unrelated new claim"],
+         "correct": 0,
+         "expl": "Parallel in form to SN 22.18 and SN 22.19's closing questions."},
+        {"q": "How does this discourse's conclusion connect back to SN 22.7-8 earlier in the book?",
+         "opts": [
+             "It forecloses self one level further back, at the aggregate's own causation, rather than merely at the aggregate itself",
+             "It directly contradicts SN 22.7-8's conclusions",
+             "It has no meaningful connection to SN 22.7-8",
+             "It repeats SN 22.7-8's exact wording"],
+         "correct": 0,
+         "expl": "If what produces form is itself not a self, form's own arising offers no opening for a genuine self."},
+        {"q": "What position does this discourse hold in its trio, SN 22.18-20?",
+         "opts": [
+             "The third and final term, closing the cause-based trio",
+             "The trio's opening term",
+             "The trio's middle term",
+             "It does not belong to the trio"],
+         "correct": 0,
+         "expl": "Completing impermanence (SN 22.18) and suffering (SN 22.19) with not-self."},
+        {"q": "How do SN 22.15-17 and SN 22.18-20 differ as a pair of matched trios?",
+         "opts": [
+             "SN 22.15-17 shortens the chain's entry point; SN 22.18-20 holds the chain's length constant and varies the ruled-out opposite",
+             "Both trios use exactly the same argument with no variation",
+             "SN 22.18-20 shortens the chain; SN 22.15-17 varies the opposite",
+             "The two trios are entirely unrelated to one another"],
+         "correct": 0,
+         "expl": "Two different structural devices applied to the same three marks."},
+        {"q": "How many aggregates does this discourse's argument apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "What discourse comes immediately after this one, closing the vagga?",
+         "opts": [
+             "SN 22.21, Ānanda's direct question about what \"cessation\" refers to",
+             "A return to SN 22.12",
+             "A discourse from a different saṃyutta",
+             "SN 22.22, opening the next vagga"],
+         "correct": 0,
+         "expl": "The vagga's own closing discourse, immediately before Bhāravagga begins at SN 22.22."},
+        {"q": "What has the vagga now argued impermanence, suffering, and not-self through, across its twenty discourses so far?",
+         "opts": [
+             "Direct statement, logical derivation, and causation, in three successive stages",
+             "Only direct statement, repeated twenty times without variation",
+             "Only narrative dialogue, with no direct teaching",
+             "A single unified argument with no internal structure"],
+         "correct": 0,
+         "expl": "SN 22.12-14 (direct), SN 22.15-17 (derivation), SN 22.18-20 (causation)."},
+    ],
+    marginalia=[
+        ("The sharpest of the three ruled-out opposites", [
+            "self itself denied &mdash;",
+            "not merely permanence or happiness",
+        ]),
+        ("Foreclosing self at the level of causation", [
+            "not just the aggregate itself &mdash;",
+            "what produces it, ruled out too",
+        ]),
+        ("Two trios, two different devices", [
+            "shortening the chain, or varying the opposite &mdash;",
+            "the same three marks, argued two ways",
+        ]),
+        ("Twenty discourses, three argument forms", [
+            "stated, derived, and now caused &mdash;",
+            "one discourse left to name what it all points to",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.20/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.19.html">SN 22.19 &middot; Suffering With '
+        "Its Cause</a> &mdash; the previous discourse, the same "
+        "argument applied to suffering.",
+        '<a href="sn-22.21.html">SN 22.21 &middot; With Ānanda</a> '
+        "&mdash; the next discourse, closing the vagga with a direct "
+        "question about what \"cessation\" refers to.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.21 — Ānandasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 21, "Ānanda", "With Ānanda",
+    vagga="Aniccavagga",
+    meta_title="SN 22.21 — With Ānanda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ānandasutta &mdash; Ānanda asks directly what "
+        "\"cessation\" refers to, and the Buddha names it precisely "
+        "as the ending of the five aggregates, closing Aniccavagga. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Ānanda questions the Buddha directly"),
+        ("Form", "A short question-and-answer dialogue, closing the "
+                 "vagga by naming precisely what the preceding twenty "
+                 "discourses' arguments were all building toward"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a plain question with a precisely worded "
+                       "answer, best read as the vagga's summation"),
+    ],
+    why=(
+        "After twenty discourses arguing that the five aggregates "
+        "are impermanent, suffering, and not-self &mdash; directly, "
+        "by logical derivation, and through their causes &mdash; "
+        "this closing discourse steps back and asks the plainest "
+        "possible question. Ānanda goes to the Buddha and asks: "
+        "people speak of &ldquo;cessation&rdquo; (nirodha) &mdash; "
+        "the cessation of what things does this refer to? The "
+        "Buddha's answer names the aggregates precisely, and adds a "
+        "five-term description of their nature &mdash; impermanent, "
+        "conditioned, dependently originated, liable to end, vanish, "
+        "fade away, and cease &mdash; that reads as a compact summary "
+        "of everything Aniccavagga has spent the preceding twenty "
+        "discourses establishing."
+    ),
+    guide=[
+        ("A question about vocabulary, not about doctrine", [
+            "Ānanda's question is disarmingly direct: &ldquo;they "
+            "speak of &lsquo;cessation.&rsquo; The cessation of what "
+            "things does this refer to?&rdquo; He is not asking "
+            "whether cessation is real, or how to attain it, or what "
+            "it feels like &mdash; he is asking what the word itself "
+            "picks out, treating &ldquo;cessation&rdquo; as a term "
+            "already in wide circulation that nonetheless needs its "
+            "referent pinned down precisely.",
+        ]),
+        ("An answer naming the aggregates directly", [
+            "The Buddha's answer is exact rather than general: form "
+            "is impermanent, conditioned, dependently originated, "
+            "liable to end, vanish, fade away, and cease &mdash; and "
+            "its cessation is what &ldquo;cessation&rdquo; refers to. "
+            "The same five-term description and the same closing "
+            "identification repeat for feeling, perception, choices, "
+            "and consciousness. Cessation, in other words, is not a "
+            "separate metaphysical event happening somewhere else; it "
+            "is simply what happens to these five things, described "
+            "with maximal precision.",
+        ]),
+        ("A five-term description doing the work of twenty discourses", [
+            "The five terms applied to each aggregate &mdash; "
+            "impermanent, conditioned, dependently originated, liable "
+            "to end, vanish, fade away, and cease &mdash; gather up "
+            "in a single compact phrase what SN 22.12-20 spent twenty "
+            "discourses establishing from multiple angles: "
+            "impermanence stated directly, derived logically, and "
+            "traced to its cause. &ldquo;Conditioned&rdquo; "
+            "(saṅkhata) and &ldquo;dependently originated&rdquo; "
+            "(paṭiccasamuppanna) specifically recall SN 22.18-20's "
+            "causal argument, naming the aggregates' dependent status "
+            "explicitly rather than leaving it implicit.",
+        ]),
+        ("A fitting close to the vagga's own name", [
+            "Aniccavagga &mdash; the &ldquo;impermanence chapter&rdquo; "
+            "&mdash; closes with a discourse that defines, with "
+            "unusual precision, the single word toward which all its "
+            "argument had been pointing: not merely that the "
+            "aggregates change, but that their ending is exactly what "
+            "the entire tradition means when it speaks of "
+            "&ldquo;cessation.&rdquo; The vagga that opened with SN "
+            "22.12's compact four-step chain from seeing impermanence "
+            "to full freedom closes by naming, with equal compactness, "
+            "the precise target that freedom consists in reaching.",
+        ]),
+    ],
+    terms=[
+        ("nirodha",
+         "&ldquo;cessation&rdquo; &mdash; the term Ānanda asks the "
+         "Buddha to define precisely, and the word this discourse's "
+         "entire dialogue turns on."),
+        ("saṅkhata",
+         "&ldquo;conditioned&rdquo; &mdash; one of the five "
+         "descriptive terms the Buddha applies to each aggregate, "
+         "naming its dependent, constructed nature."),
+        ("paṭiccasamuppanna",
+         "&ldquo;dependently originated&rdquo; &mdash; a second "
+         "descriptive term, directly recalling SN 22.18-20's "
+         "cause-based argument earlier in this vagga."),
+        ("khayadhamma&hellip;vayadhamma&hellip;virāgadhamma&hellip;nirodhadhamma",
+         "&ldquo;liable to end&hellip;vanish&hellip;fade "
+         "away&hellip;cease&rdquo; &mdash; the remaining terms in the "
+         "five-part description, each naming a distinct facet of the "
+         "same underlying impermanence."),
+        ("tassa nirodho",
+         "&ldquo;its cessation&rdquo; &mdash; the Buddha's precise "
+         "answer to Ānanda's question, identifying &ldquo;cessation&rdquo; "
+         "directly with each aggregate's own ending."),
+    ],
+    text_intro=(
+        "The discourse in full. Two elided repetitions (feeling and "
+        "choices, each following the same five-term description "
+        "spelled out in full for form and consciousness) are given "
+        "exactly as bilara-data preserves them. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.21:1.1-1.6"),
+        ("p", "&sect;2", "sn22.21:1.12-1.14"),
+    ],
+    quiz=[
+        {"q": "What question does Ānanda ask the Buddha at the start of this discourse?",
+         "opts": [
+             "People speak of \"cessation\" — the cessation of what things does this refer to?",
+             "How long does it take to attain liberation?",
+             "Why do the aggregates exist at all?",
+             "What happens to an arahant after death?"],
+         "correct": 0,
+         "expl": "A question about the precise referent of a term already in circulation."},
+        {"q": "What does the Buddha's answer identify \"cessation\" with?",
+         "opts": [
+             "The cessation of the five aggregates specifically",
+             "The cessation of the physical universe",
+             "A future event unrelated to the aggregates",
+             "The cessation of the Buddha's own teaching"],
+         "correct": 0,
+         "expl": "Nirodha is identified directly with each aggregate's own ending."},
+        {"q": "What five-term description does the Buddha apply to each aggregate?",
+         "opts": [
+             "Impermanent, conditioned, dependently originated, liable to end, vanish, fade away, and cease",
+             "Eternal, unconditioned, self-caused, stable, and unchanging",
+             "Pleasant, painful, neutral, physical, and mental",
+             "Visible, invisible, tangible, intangible, and conceptual"],
+         "correct": 0,
+         "expl": "A compact summary gathering up the vagga's preceding twenty discourses' arguments."},
+        {"q": "Which two terms in this description specifically recall SN 22.18-20's earlier cause-based argument?",
+         "opts": [
+             "\"Conditioned\" and \"dependently originated\"",
+             "\"Liable to end\" and \"vanish\"",
+             "\"Fade away\" and \"cease\"",
+             "None of the terms relate to SN 22.18-20"],
+         "correct": 0,
+         "expl": "Saṅkhata and paṭiccasamuppanna name the aggregates' dependent status explicitly."},
+        {"q": "How does this discourse's question differ from questions about whether cessation is real or how to attain it?",
+         "opts": [
+             "It is a question about vocabulary — what the term \"cessation\" itself picks out",
+             "It denies that cessation exists at all",
+             "It asks for a detailed meditation technique",
+             "It challenges the Buddha's authority to define the term"],
+         "correct": 0,
+         "expl": "Ānanda treats \"cessation\" as an existing term needing its referent pinned down precisely."},
+        {"q": "What role does this discourse play in closing Aniccavagga?",
+         "opts": [
+             "It names precisely the single target all twenty preceding discourses' arguments were pointing toward",
+             "It contradicts everything argued in the preceding twenty discourses",
+             "It introduces an entirely new, unrelated topic",
+             "It has no summarizing function within the vagga"],
+         "correct": 0,
+         "expl": "A fitting close to a vagga whose very name, Aniccavagga, means \"the impermanence chapter.\""},
+        {"q": "How many aggregates does the Buddha's answer apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Feeling and choices are elided but follow the same pattern spelled out for form and consciousness."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "Who questions the Buddha in this discourse?",
+         "opts": [
+             "Venerable Ānanda",
+             "Venerable Sāriputta",
+             "The householder Hāliddikāni",
+             "Venerable Mahākaccāna"],
+         "correct": 0,
+         "expl": "A shift from the impersonal direct teachings of SN 22.12-20 to a named questioner."},
+        {"q": "What comes immediately after this discourse, moving beyond Aniccavagga?",
+         "opts": [
+             "SN 22.22, opening Bhāravagga, the vagga's third chapter",
+             "A return to SN 22.1",
+             "The end of the entire Khandhavagga",
+             "A discourse from an entirely different saṃyutta"],
+         "correct": 0,
+         "expl": "The book's own systematic coverage continues into its next chapter."},
+    ],
+    marginalia=[
+        ("A question about a word, not a doctrine", [
+            "what does \"cessation\" refer to? &mdash;",
+            "pinning down a term already in wide use",
+        ]),
+        ("Cessation identified directly with the aggregates", [
+            "not a separate event elsewhere &mdash;",
+            "simply what happens to these five things",
+        ]),
+        ("Five terms gathering up twenty discourses' worth of argument", [
+            "conditioned, dependently originated &mdash;",
+            "recalling the cause-based trio directly",
+        ]),
+        ("The vagga's own name, precisely defined at its close", [
+            "Aniccavagga, the impermanence chapter &mdash;",
+            "closing by naming impermanence's exact target",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.21/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.20.html">SN 22.20 &middot; Not-Self With Its '
+        "Cause</a> &mdash; the previous discourse, closing the "
+        "cause-based trio.",
+        '<a href="sn-22.12.html">SN 22.12 &middot; Impermanence</a> '
+        "&mdash; the vagga's opening discourse, whose compact chain "
+        "this closing dialogue now names with equal precision.",
+    ],
+)
