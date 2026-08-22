@@ -33820,7 +33820,7 @@ page(
         ("susikh&amacr;",
          "&ldquo;fair-crested&rdquo; &mdash; describing the peacocks, "
          "and echoing the speaker's own name."),
-        ("sukallar&363;po",
+        ("sukallar&#363;po",
          "&ldquo;happy in mind, uplifted in appearance&rdquo; "
          "&mdash; describing one practicing absorption."),
         ("sunikkamo",
@@ -33963,10 +33963,10 @@ page(
 
 
 # --------------------------------------------------------------------------- #
-# Thag 2.47 — An&363;pama
+# Thag 2.47 — An&#363;pama
 # --------------------------------------------------------------------------- #
 page(
-    2, 47, "An&363;pama", "An&363;pama",
+    2, 47, "An&#363;pama", "An&#363;pama",
     meta_title="Thag 2.47 — Anūpama | Ru-Yi Meditation Center",
     meta_desc=(
         "A reading guide, full English text, and self-check quiz for "
@@ -33978,7 +33978,7 @@ page(
     glance=[
         ("Setting", "A direct address to the speaker's own mind, "
                     "without a translated attribution"),
-        ("Speaker", "An&363;pama, scolding his own conceited mind"),
+        ("Speaker", "An&#363;pama, scolding his own conceited mind"),
         ("Form", "Two four-line verses &mdash; a description of the "
                  "mind's self-destruction, then a direct rebuke"),
         ("Length", "under 1 minute to read"),
@@ -34026,7 +34026,7 @@ page(
             "word; the kinship is one of genre and spirit, not a "
             "textual parallel."]),
         ("A name that may sit ironically beside its own verse", [
-            "An&363;pama means &lsquo;incomparable, without "
+            "An&#363;pama means &lsquo;incomparable, without "
             "simile&rsquo; (an- + upamā). No surviving comment "
             "remarks on this, but a poem built entirely from simile "
             "&mdash; the mind as something that impales itself on a "
@@ -34040,7 +34040,7 @@ page(
         ("nandam&amacr;n&amacr;gata&#7745; citta&#7745;",
          "&ldquo;the mind, come under the sway of delight&rdquo; "
          "&mdash; the poem's opening description."),
-        ("s&363;lam&amacr;ropam&amacr;naka&#7745;",
+        ("s&#363;lam&amacr;ropam&amacr;naka&#7745;",
          "&ldquo;impaling itself upon a stake&rdquo; &mdash; the "
          "poem's central, violent image."),
         ("kali&#7749;gara&#7745;",
@@ -34258,7 +34258,7 @@ page(
         ("ariyasacc&amacr;ni",
          "&ldquo;the noble truths&rdquo; &mdash; what the speaker "
          "did not see, in his blind past."),
-        ("andhabh&363;to puthujjano",
+        ("andhabh&#363;to puthujjano",
          "&ldquo;a blind, unenlightened person&rdquo; &mdash; the "
          "poem's stark self-description of that past."),
         ("vina&#7735;&imacr;kat&amacr;",
@@ -34381,7 +34381,7 @@ page(
         '<a href="%s/thag2.48/en/sujato" target="_blank" rel="noopener">'
         "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
         "alongside, segment by segment." % SC,
-        '<a href="thag-2.47.html">Thag 2.47 &mdash; An&363;pama</a> '
+        '<a href="thag-2.47.html">Thag 2.47 &mdash; An&#363;pama</a> '
         "&mdash; the poem immediately before this one, in the same "
         "chapter.",
         '<a href="thag-2.41.html">Thag 2.41 &mdash; Kassapa the '
@@ -34647,6 +34647,1699 @@ page(
         "&mdash; the Book of the Ones' own closing poem, whose "
         "book-level uddāna is a verse of praise rather than this "
         "book's plain tally.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 3.1 — Aṅgaṇikabhāradvāja
+# --------------------------------------------------------------------------- #
+page(
+    3, 1, "A&#7749;ga&#7751;ikabh&amacr;radv&amacr;ja", "A&#7749;ga&#7751;ikabh&amacr;radv&amacr;ja",
+    meta_title="Thag 3.1 — Aṅgaṇikabhāradvāja | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Aṅgaṇikabhāradvāja's verse opening the Book of the Threes, "
+        "a fire-worshipping brahmin's conversion recalled in his own "
+        "words, its central line confirmed by comment to recur in "
+        "two already-translated Therīgāthā poems. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Threes &middot; Chapter One &middot; Poem 1 of 16",
+    glance=[
+        ("Setting", "A retrospective declaration, without a "
+                    "translated attribution, opening the Book of the "
+                    "Threes"),
+        ("Speaker", "A&#7749;ga&#7751;ikabh&amacr;radv&amacr;ja, a "
+                    "brahmin recalling his own conversion"),
+        ("Form", "Three four-line verses &mdash; a failed practice, "
+                 "then its correction, then a redefinition of what "
+                 "it means to be a brahmin"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, a clear narrative arc"),
+    ],
+    why=(
+        "A brahmin who once served the sacred fire, not knowing the "
+        "path to purity, recalls attaining the three knowledges and "
+        "declares: &lsquo;I used to be brahmin only by kin, but now "
+        "I really am a brahmin!&rsquo; &mdash; a redefinition of the "
+        "word itself, opening this book and this collection's third "
+        "book-length structure."),
+    guide=[
+        ("A new book, a new numbering", [
+            "This poem opens the Book of the Threes (Tikanipāta), "
+            "this collection's third structural division after the "
+            "Book of the Ones (120 poems) and the Book of the Twos "
+            "(49 poems). Every poem in this book is credited with "
+            "exactly three verses &mdash; hence its name &mdash; and, "
+            "unlike the Book of the Twos, this entire book turns out "
+            "to hold only one chapter of sixteen poems, not several "
+            "chapters of ten. That structure had to be checked fresh, "
+            "not assumed from the Book of the Twos' five-chapter "
+            "pattern."]),
+        ("Fire, then its correction", [
+            "The first verse describes &lsquo;seeking purity the "
+            "wrong way&rsquo;, serving the sacred fire in a grove, "
+            "not knowing the path to purity, and practicing "
+            "&lsquo;endless mortification&rsquo;. The second verse "
+            "turns: &lsquo;I've gained this happiness by means of "
+            "happiness&rsquo; &mdash; not by further austerity, but "
+            "by a different kind of practice altogether, culminating "
+            "in the three knowledges and the Buddha's instructions "
+            "fulfilled."]),
+        ("A word, redefined", [
+            "The third verse closes on wordplay: &lsquo;I used to be "
+            "brahmin only by kin, but now I really am a "
+            "brahmin!&rsquo; Sujato's comment identifies "
+            "brahmabandhu as a disparaging phrase &mdash; "
+            "&lsquo;brahmin only by kin (but not by practice)&rsquo; "
+            "&mdash; and traces it to Vedic literature itself, "
+            "confirming this is a deliberate redefinition of what "
+            "counts as a true brahmin, not merely a claim of caste."]),
+        ("The same line, in two already-translated poems", [
+            "Sujato's comment further points to this exact line, "
+            "&lsquo;I used to be brahmin only by kin&rsquo;, "
+            "appearing word for word in two poems this site has "
+            "already translated: "
+            "<a href=\"../therigatha/thig-12.1.html\">Thig 12.1 "
+            "(Puṇṇikā)</a> and "
+            "<a href=\"../therigatha/thig-13.2.html\">Thig 13.2 "
+            "(Rohinī)</a>. All three poems &mdash; two in the "
+            "Therīgāthā, this one opening the Theragātha's third "
+            "book &mdash; reach for the identical phrase to mark the "
+            "same turn from birth-caste to earned identity."]),
+        ("A name that may match an already-translated conversion", [
+            "This site's own <a href=\"../samyutta-nikaya/sn-7.8.html\">SN "
+            "7.8 (With Bhāradvāja the Fire-Worshiper)</a> tells of a "
+            "fire-sacrifice brahmin to whom the Buddha redefines the "
+            "three knowledges in Buddhist terms &mdash; matching this "
+            "poem's fire-serving opening and its own claim to have "
+            "&lsquo;attained the three knowledges&rsquo;. No comment "
+            "on this specific poem confirms the identification, but "
+            "the convergence of theme, vocabulary, and clan name "
+            "(Bhāradvāja) is close enough that this reading guide "
+            "treats the two as very plausibly depicting the same "
+            "conversion, from two different angles."]),
+    ],
+    terms=[
+        ("suddhimaggaṁ",
+         "&ldquo;the path to purity&rdquo; &mdash; what the speaker "
+         "did not know, in his fire-serving past."),
+        ("amaraṁ tapaṁ",
+         "&ldquo;endless mortification&rdquo; &mdash; the failed "
+         "practice described in the opening verse."),
+        ("tisso vijjā",
+         "&ldquo;the three knowledges&rdquo; &mdash; what the second "
+         "verse says has been attained."),
+        ("brahmabandhu",
+         "&ldquo;brahmin only by kin&rdquo; &mdash; a disparaging "
+         "phrase, per Sujato's comment, for one who is brahmin by "
+         "birth but not by practice."),
+        ("vedag&#363;",
+         "&ldquo;a knowledge master&rdquo; &mdash; one of several "
+         "titles the poem claims in its closing lines."),
+    ],
+    text_intro=(
+        "The text in full: three verses, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag3.1:1.1-1.4"),
+        ("p", "&sect;2", "thag3.1:2.1-2.4"),
+        ("p", "&sect;3", "thag3.1:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What does the first verse describe?",
+         "opts": [
+             "Serving the sacred fire, not knowing the path to purity",
+             "A journey to a distant city",
+             "A dispute with another brahmin",
+             "A dream"],
+         "correct": 0,
+         "expl": "Seeking purity the wrong way, through endless mortification."},
+        {"q": "How many verses does every poem in the Book of the Threes carry, by the book's own name?",
+         "opts": [
+             "One",
+             "Two",
+             "Three",
+             "Four"],
+         "correct": 2,
+         "expl": "Tikanipāta — the Book of the Threes."},
+        {"q": "How does the Book of the Threes' chapter structure compare to the Book of the Twos'?",
+         "opts": [
+             "It holds all sixteen poems in a single chapter",
+             "It has five chapters, like the Book of the Twos",
+             "It has no chapters at all",
+             "It has twenty chapters"],
+         "correct": 0,
+         "expl": "A structure checked fresh, not assumed from the Book of the Twos."},
+        {"q": "What does the third verse claim about being a brahmin?",
+         "opts": [
+             "That birth alone makes one a true brahmin",
+             "That no one can become a true brahmin",
+             "Nothing is said about being a brahmin",
+             "That the speaker used to be brahmin only by kin, but now really is one"],
+         "correct": 3,
+         "expl": "A redefinition of the word itself, per Sujato's comment."},
+        {"q": "What does Sujato's comment say about 'brahmabandhu'?",
+         "opts": [
+             "It is a term of high respect",
+             "It has no particular connotation",
+             "It is a disparaging phrase — brahmin by kin, not by practice",
+             "It refers to a place name"],
+         "correct": 2,
+         "expl": "Traced to Vedic literature as well as this poem."},
+        {"q": "Where does this exact opening line of the third verse also appear, according to the comment?",
+         "opts": [
+             "Nowhere else in the canon",
+             "Thig 12.1 and Thig 13.2, both already translated on this site",
+             "Only in the Dhammapada",
+             "In a different poem in this same book"],
+         "correct": 1,
+         "expl": "Word for word identical in all three poems."},
+        {"q": "What already-translated poem on this site may depict the same conversion from a different angle?",
+         "opts": [
+             "Dhammapada 93",
+             "SN 7.8, With Bhāradvāja the Fire-Worshiper",
+             "Ud 3.2",
+             "No such poem exists on this site"],
+         "correct": 1,
+         "expl": "Matching this poem's fire theme and its claim to the three knowledges."},
+        {"q": "What does 'tisso vijjā' mean?",
+         "opts": [
+             "A type of hut",
+             "The three knowledges",
+             "A rainy season",
+             "A monastic robe"],
+         "correct": 1,
+         "expl": "What the second verse says has been attained."},
+        {"q": "What titles does the poem claim in its closing lines?",
+         "opts": [
+             "King and general",
+             "Farmer and merchant",
+             "No titles are claimed",
+             "Master of the three knowledges, bathed initiate, scholar, knowledge master"],
+         "correct": 3,
+         "expl": "Tevijjo, nhātako, sottiyo, vedagū."},
+        {"q": "Where does this poem fall in this collection's overall structure?",
+         "opts": [
+             "Closing the Book of the Ones",
+             "Opening the Book of the Twos",
+             "Opening the Book of the Threes",
+             "Closing the entire collection"],
+         "correct": 2,
+         "expl": "This collection's third book-length division, following the Book of the Twos."},
+    ],
+    marginalia=[
+        ("Fire, once served", [
+            "not knowing the path to purity —",
+            "endless mortification, wasted"
+        ]),
+        ("A word, taken back", [
+            "brahmin by kin only, before —",
+            "now really one, by practice"
+        ]),
+        ("The same line, twice elsewhere", [
+            "two Therīgāthā poems say it too —",
+            "the same turn, the same words"
+        ]),
+        ("A new book begins", [
+            "three verses to a poem, this time —",
+            "sixteen poems, one chapter only"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag3.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../therigatha/thig-12.1.html">Thig 12.1 &mdash; '
+        "Pu&#7751;&#7751;ik&amacr;</a> and "
+        '<a href="../therigatha/thig-13.2.html">Thig 13.2 &mdash; '
+        "Rohin&imacr;</a> &mdash; sharing this poem's exact "
+        "&lsquo;brahmin only by kin&rsquo; line, per Sujato's own "
+        "comment.",
+        '<a href="../samyutta-nikaya/sn-7.8.html">SN 7.8 &mdash; With '
+        "Bh&amacr;radv&amacr;ja the Fire-Worshiper</a> &mdash; "
+        "possibly the same conversion, told from the Buddha's side "
+        "of the exchange.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 3.2 — Paccaya
+# --------------------------------------------------------------------------- #
+page(
+    3, 2, "Paccaya", "Paccaya",
+    meta_title="Thag 3.2 — Paccaya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Paccaya's verse, an extreme vow taken five days after going "
+        "forth — no food, no drink, no sleep, no leaving his "
+        "dwelling — until the dart of craving is plucked. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Threes &middot; Chapter One &middot; Poem 2 of 16",
+    glance=[
+        ("Setting", "A dwelling, five days after going forth, without "
+                    "a translated attribution"),
+        ("Speaker", "Paccaya, recalling a vow he made to himself"),
+        ("Form", "Three four-line verses &mdash; an unfulfilled "
+                 "trainee's resolve, its extreme terms, then success"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, an intense, specific vow"),
+    ],
+    why=(
+        "Five days after going forth, still a trainee with his "
+        "heart's desire unfulfilled, Paccaya enters his dwelling and "
+        "resolves: no eating, no drinking, no leaving, not even "
+        "lying down &mdash; not until the dart of craving is "
+        "plucked. The third verse reports the outcome: the three "
+        "knowledges attained."),
+    guide=[
+        ("A vow, in absolute terms", [
+            "The second verse lists the vow's terms one after "
+            "another, each more absolute than the last: &lsquo;I "
+            "won't eat; I won't drink; I won't leave my dwelling; "
+            "nor will I lie down on my side&rsquo; &mdash; a refusal "
+            "of food, drink, movement, and rest all at once, held "
+            "until &lsquo;the dart of craving is plucked&rsquo;."]),
+        ("Five days, one of this collection's shortest timeframes", [
+            "The first verse specifies exactly how long Paccaya had "
+            "been a monk when he made this vow: five days. Where "
+            "this collection has occasionally marked out unusually "
+            "large spans &mdash; Thag 1.96's eighty koti years, Thag "
+            "2.49's thirty-one eons &mdash; this is one of the "
+            "shortest concrete timeframes this reading guide has "
+            "found so far, naming not a distant past but a single "
+            "recent, countable stretch of days."]),
+        ("Success, reported plainly", [
+            "The third verse turns from vow to outcome without "
+            "elaborating on the ordeal itself: &lsquo;see my energy "
+            "and vigor as I meditate like this!&rsquo;, followed "
+            "immediately by the three knowledges attained and the "
+            "Buddha's instructions fulfilled. The poem does not say "
+            "how many days the vow itself lasted, only that it "
+            "succeeded."]),
+    ],
+    terms=[
+        ("sekho appattamānaso",
+         "&ldquo;a trainee, my heart's desire unfulfilled&rdquo; "
+         "&mdash; Paccaya's own description of his state five days "
+         "after going forth."),
+        ("cetaso paṇidhī",
+         "&ldquo;resolved in my heart&rdquo; &mdash; the vow made "
+         "upon entering his dwelling."),
+        ("taṇhāsalle",
+         "&ldquo;the dart of craving&rdquo; &mdash; what the vow is "
+         "held until removed."),
+        ("vīriyaparakkamaṁ",
+         "&ldquo;energy and vigor&rdquo; &mdash; what the third verse "
+         "invites the reader to witness."),
+        ("tisso vijjā anuppattā",
+         "&ldquo;I've attained the three knowledges&rdquo; &mdash; "
+         "the vow's outcome, in the same formula as Thag 3.1's "
+         "closing verse."),
+    ],
+    text_intro=(
+        "The text in full: three verses, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag3.2:1.1-1.4"),
+        ("p", "&sect;2", "thag3.2:2.1-2.4"),
+        ("p", "&sect;3", "thag3.2:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How long had Paccaya been a monk when he made his vow?",
+         "opts": [
+             "Five days",
+             "Five years",
+             "Five months",
+             "No timeframe is given"],
+         "correct": 0,
+         "expl": "One of this collection's shortest concrete timeframes found so far."},
+        {"q": "What four things does the vow refuse, all at once?",
+         "opts": [
+             "Eating, drinking, leaving his dwelling, and lying down",
+             "Speech, company, travel, and reading",
+             "Almsround, teaching, chanting, and bathing",
+             "Nothing specific is refused"],
+         "correct": 0,
+         "expl": "Held until the dart of craving is plucked."},
+        {"q": "What is the vow held until?",
+         "opts": [
+             "A fixed number of days has passed",
+             "A teacher gives permission",
+             "The dart of craving is plucked",
+             "The rainy season ends"],
+         "correct": 2,
+         "expl": "Taṇhāsalle anūhate."},
+        {"q": "What does the third verse report?",
+         "opts": [
+             "That the vow was abandoned",
+             "That Paccaya returned to lay life",
+             "Nothing — the poem ends with the vow itself",
+             "That the three knowledges were attained"],
+         "correct": 3,
+         "expl": "Success, reported without elaborating on the ordeal."},
+        {"q": "How does Paccaya describe his own state before the vow?",
+         "opts": [
+             "Fully awakened already",
+             "A trainee, his heart's desire unfulfilled",
+             "Wealthy and content",
+             "Indifferent to practice"],
+         "correct": 1,
+         "expl": "Sekho appattamānaso — still striving."},
+        {"q": "What does 'taṇhāsalle' mean?",
+         "opts": [
+             "A type of hut",
+             "A rainy season",
+             "The dart of craving",
+             "A monastic robe"],
+         "correct": 2,
+         "expl": "What the vow is held until removed."},
+        {"q": "How does this poem's closing formula compare to Thag 3.1's?",
+         "opts": [
+             "Completely different vocabulary",
+             "The same 'three knowledges attained, instructions fulfilled' formula",
+             "This poem has no closing formula",
+             "Thag 3.1 has no closing formula"],
+         "correct": 1,
+         "expl": "Tisso vijjā anuppattā, kataṁ buddhassa sāsanaṁ."},
+        {"q": "What does the second verse's list of refusals build toward?",
+         "opts": [
+             "A gradual, moderate practice",
+             "An escalating, absolute set of terms",
+             "A negotiation with a teacher",
+             "A request for more time"],
+         "correct": 1,
+         "expl": "No eating, no drinking, no leaving, no lying down — each more total than the last."},
+        {"q": "Where does the poem say Paccaya made this vow?",
+         "opts": [
+             "In a marketplace",
+             "In front of the assembled Saṅgha",
+             "No location is given",
+             "Upon entering his own dwelling"],
+         "correct": 3,
+         "expl": "Vihāraṁ me paviṭṭhassa, cetaso paṇidhī ahu."},
+        {"q": "Where does this poem fall in the Book of the Threes?",
+         "opts": [
+             "The book's opening poem",
+             "The book's closing poem",
+             "It is not part of the Book of the Threes",
+             "The book's second poem"],
+         "correct": 3,
+         "expl": "Following Aṅgaṇikabhāradvāja's opening poem."},
+    ],
+    marginalia=[
+        ("Five days a monk", [
+            "heart's desire still unmet —",
+            "a vow made upon entering"
+        ]),
+        ("No food, no drink, no rest", [
+            "each term more absolute —",
+            "until the dart is plucked"
+        ]),
+        ("Success, reported plainly", [
+            "see my energy and vigor —",
+            "the ordeal itself left unsaid"
+        ]),
+        ("A short span, in a book of long ones", [
+            "five days, not eons —",
+            "this book's own scale of time"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag3.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-3.1.html">Thag 3.1 &mdash; '
+        "A&#7749;ga&#7751;ikabh&amacr;radv&amacr;ja</a> &mdash; the "
+        "poem immediately before this one, opening the same book.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 3.3 — Bākula
+# --------------------------------------------------------------------------- #
+page(
+    3, 3, "B&amacr;kula", "B&amacr;kula",
+    meta_title="Thag 3.3 — Bākula | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Bākula's verse, general teaching on procrastination and "
+        "keeping one's word, closing on the bliss of extinguishment "
+        "— possibly the same monk remembered elsewhere on this site "
+        "for a lifetime free of illness. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Book of the Threes &middot; Chapter One &middot; Poem 3 of 16",
+    glance=[
+        ("Setting", "General teaching, not autobiography, without a "
+                    "translated attribution"),
+        ("Speaker", "B&amacr;kula, teaching on procrastination, "
+                    "honesty, and extinguishment"),
+        ("Form", "Three four-line verses &mdash; a warning about "
+                 "delay, a rule about speech, and a declaration of "
+                 "nibbāna's bliss"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain, gnomic instruction"),
+    ],
+    why=(
+        "Bākula teaches, not testifies: whoever puts off what "
+        "should be done now loses the causes for happiness and is "
+        "later tormented by regret; one should only say what one "
+        "will do; and extinguishment, as the Buddha taught it, is "
+        "sorrowless, stainless, secure, where suffering ceases."),
+    guide=[
+        ("A teaching, not a personal report", [
+            "Like Thag 2.42 (Dhammapāla) and a handful of poems in "
+            "the Book of the Ones, this poem does not report the "
+            "speaker's own attainment directly. Instead it opens "
+            "with a general observation about procrastination "
+            "&mdash; &lsquo;whoever wishes to do afterwards what they "
+            "should have done before has lost the causes for "
+            "happiness&rsquo; &mdash; before turning to a rule about "
+            "speech and, only in its third verse, to Bākula's own "
+            "voice praising extinguishment."]),
+        ("Say only what you will do", [
+            "The second verse states a simple discipline of honesty: "
+            "&lsquo;you should only say what you would do; you "
+            "shouldn't say what you wouldn't do&rsquo;, adding that "
+            "the wise will recognize &lsquo;one who talks without "
+            "doing&rsquo; &mdash; a warning less about outright lying "
+            "than about the gap between word and follow-through."]),
+        ("A name that may match a famous, unillness'd life", [
+            "This site's own <a href=\"../majjhima-nikaya/mn-124.html\">MN "
+            "124 (With Bakkula)</a> tells of a ninety-year-old monk "
+            "questioned about a lifetime of extreme austerity, "
+            "including eighty years without a single illness, ending "
+            "in a death announced in advance. No comment on this "
+            "specific poem confirms the identification, but "
+            "&lsquo;Bākula&rsquo; is distinctive enough &mdash; unlike "
+            "common names such as Kassapa or Tissa &mdash; that this "
+            "reading guide treats the two as plausibly the same "
+            "monk, in the same cautious spirit as its treatment of "
+            "Nanda and Mogharāja elsewhere in this collection."]),
+    ],
+    terms=[
+        ("karaṇīyāni",
+         "&ldquo;what should be done&rdquo; &mdash; the tasks the "
+         "opening verse warns against putting off."),
+        ("manutappati",
+         "&ldquo;tormented by regrets&rdquo; &mdash; the "
+         "consequence of habitual delay."),
+        ("akarontaṁ bhāsamānaṁ",
+         "&ldquo;one who talks without doing&rdquo; &mdash; who the "
+         "wise are said to recognize."),
+        ("nibbānaṁ",
+         "&ldquo;extinguishment&rdquo; &mdash; declared, in the "
+         "closing verse, sorrowless, stainless, and secure."),
+        ("yattha dukkhaṁ nirujjhati",
+         "&ldquo;where suffering all ceases&rdquo; &mdash; the "
+         "poem's final description of nibbāna."),
+    ],
+    text_intro=(
+        "The text in full: three verses, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag3.3:1.1-1.4"),
+        ("p", "&sect;2", "thag3.3:2.1-2.4"),
+        ("p", "&sect;3", "thag3.3:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What does this poem do, unlike most declarations in this collection?",
+         "opts": [
+             "It teaches generally at first, rather than reporting the speaker's own attainment",
+             "It addresses a king",
+             "It describes a battle",
+             "It is written entirely in the third person"],
+         "correct": 0,
+         "expl": "Joining Thag 2.42 and a handful of Book of the Ones poems in this teaching genre."},
+        {"q": "What does the first verse warn about?",
+         "opts": [
+             "Speaking too loudly",
+             "Putting off what should be done now",
+             "Eating too much",
+             "Traveling alone"],
+         "correct": 1,
+         "expl": "Loses the causes for happiness, tormented afterward by regret."},
+        {"q": "What rule does the second verse state about speech?",
+         "opts": [
+             "Never speak at all",
+             "Speak only in verse",
+             "Only say what you would do; don't say what you wouldn't",
+             "No rule about speech is given"],
+         "correct": 2,
+         "expl": "A discipline about the gap between word and follow-through."},
+        {"q": "How does the third verse describe extinguishment?",
+         "opts": [
+             "Painful and difficult to reach",
+             "Temporary and unstable",
+             "Nothing is said about it",
+             "Sorrowless, stainless, secure, where suffering ceases"],
+         "correct": 3,
+         "expl": "As taught by the fully awakened Buddha."},
+        {"q": "What already-translated poem on this site may feature the same Bākula?",
+         "opts": [
+             "MN 124, With Bakkula",
+             "SN 7.8",
+             "Ud 3.2",
+             "No such poem exists on this site"],
+         "correct": 0,
+         "expl": "A ninety-year-old monk remembered for eighty years without illness."},
+        {"q": "Is the identification with MN 124's Bakkula confirmed by a comment on this poem?",
+         "opts": [
+             "Yes, explicitly",
+             "No — it rests on the name's distinctiveness, not a comment",
+             "It is confirmed by the poem's own text",
+             "The comment explicitly denies it"],
+         "correct": 1,
+         "expl": "Treated with the same caution as this collection's other signature-name cases."},
+        {"q": "What does 'akarontaṁ bhāsamānaṁ' mean?",
+         "opts": [
+             "One who talks without doing",
+             "A skilled charioteer",
+             "A wise teacher",
+             "A generous donor"],
+         "correct": 0,
+         "expl": "Who the wise are said to recognize."},
+        {"q": "What is said to be lost by habitual delay?",
+         "opts": [
+             "Wealth",
+             "The causes for happiness",
+             "Physical strength",
+             "Nothing is said to be lost"],
+         "correct": 1,
+         "expl": "Sukhā so dhaṁsate ṭhānā."},
+        {"q": "Whose teaching does the poem credit for its description of extinguishment?",
+         "opts": [
+             "A forest hermit",
+             "An unnamed sage",
+             "The fully awakened Buddha",
+             "No source is credited"],
+         "correct": 2,
+         "expl": "Sammāsambuddhadesitaṁ."},
+        {"q": "Where does this poem fall in the Book of the Threes?",
+         "opts": [
+             "The book's opening poem",
+             "The book's closing poem",
+             "It is not part of the Book of the Threes",
+             "The book's third poem"],
+         "correct": 3,
+         "expl": "Following Aṅgaṇikabhāradvāja and Paccaya."},
+    ],
+    marginalia=[
+        ("Later, and too late", [
+            "what should have been done before —",
+            "regret is the only harvest"
+        ]),
+        ("Say only what you'll do", [
+            "the wise notice the gap —",
+            "between the word and the deed"
+        ]),
+        ("Sorrowless, stainless, secure", [
+            "extinguishment, so blissful —",
+            "where suffering all ceases"
+        ]),
+        ("A name, matched cautiously", [
+            "eighty years without illness, elsewhere on this site —",
+            "no comment confirms it, but the name is rare"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag3.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-3.2.html">Thag 3.2 &mdash; Paccaya</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "book.",
+        '<a href="../majjhima-nikaya/mn-124.html">MN 124 &mdash; With '
+        "Bakkula</a> &mdash; possibly the same monk, remembered for "
+        "a lifetime free of illness.",
+        '<a href="thag-2.42.html">Thag 2.42 &mdash; '
+        "Dhammap&amacr;la</a> &mdash; this collection's other "
+        "teaching-genre poem in the Book of the Twos.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 3.4 — Dhaniya
+# --------------------------------------------------------------------------- #
+page(
+    3, 4, "Dhaniya", "Dhaniya",
+    meta_title="Thag 3.4 — Dhaniya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Dhaniya's verse, its opening couplet repeated at the start "
+        "of all three verses, teaching contentment with the "
+        "Saṅgha's robes, food, and lodging — possibly the same "
+        "wealthy rancher converted in an already-translated Sutta "
+        "Nipāta poem. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Threes &middot; Chapter One &middot; Poem 4 of 16",
+    glance=[
+        ("Setting", "General teaching, not autobiography, without a "
+                    "translated attribution"),
+        ("Speaker", "Dhaniya, teaching contentment with monastic "
+                    "simplicity"),
+        ("Form", "Three four-line verses, each opening with the same "
+                 "repeated couplet"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain, repetitive teaching"),
+    ],
+    why=(
+        "Dhaniya teaches contentment three times over, each verse "
+        "opening with the identical couplet &mdash; &lsquo;if you "
+        "wish to live in happiness, longing for the ascetic "
+        "life&rsquo; &mdash; before naming a different discipline "
+        "each time: not looking down on the Saṅgha's robes and food, "
+        "making do with its lodgings, and being content with "
+        "whatever is offered."),
+    guide=[
+        ("The same couplet, three times over", [
+            "Every verse in this poem opens with the exact same two "
+            "lines: &lsquo;sukhañce jīvituṁ icche, sāmaññasmiṁ "
+            "apekkhavā&rsquo;, &lsquo;if you wish to live in "
+            "happiness, longing for the ascetic life&rsquo;. This "
+            "collection has found many poems that share an opening "
+            "with another poem, but this is its first instance of a "
+            "single poem repeating its own opening couplet as a "
+            "refrain across all three of its own verses, each time "
+            "completing the thought differently."]),
+        ("Three completions of one refrain", [
+            "The first verse completes the refrain with a warning "
+            "not to look down on the Saṅgha's robes, food, and "
+            "drink. The second completes it with an image: stay in "
+            "the Saṅgha's lodgings &lsquo;like a snake making use of "
+            "a mouse's hole&rsquo; &mdash; taking modest shelter as "
+            "it comes, not demanding more. The third names the "
+            "underlying quality directly: contentment with whatever "
+            "is offered."]),
+        ("A name that may match a converted rancher", [
+            "This site's own <a href=\"../sutta-nipata/snp-1.2.html\">Snp "
+            "1.2 (The Wealthy Rancher)</a> tells of the cattle-rancher "
+            "Dhaniya, boasting of his comforts on the riverbank, who "
+            "converts on the spot after the Buddha answers each of "
+            "his boasts with a spiritual counterpart. No comment on "
+            "this specific poem confirms the identification, but if "
+            "this is the same Dhaniya, a poem urging contentment with "
+            "the Saṅgha's meager robes, food, and lodging reads as a "
+            "fitting sequel &mdash; a former man of comfortable "
+            "means, now teaching others not to measure monastic life "
+            "by what it lacks."]),
+    ],
+    terms=[
+        ("sāmaññasmiṁ apekkhavā",
+         "&ldquo;longing for the ascetic life&rdquo; &mdash; the "
+         "second half of the refrain repeated at the start of all "
+         "three verses."),
+        ("saṅghikaṁ nātimaññeyya",
+         "&ldquo;don't look down on the Saṅgha's [robes]&rdquo; "
+         "&mdash; the first verse's completion of the refrain."),
+        ("ahi mūsikasobbhaṁva",
+         "&ldquo;like a snake making use of a mouse's hole&rdquo; "
+         "&mdash; the image for taking modest lodging as it comes."),
+        ("itarītarena tusseyya",
+         "&ldquo;be content with whatever is offered&rdquo; &mdash; "
+         "the quality named directly in the third verse."),
+        ("ekadhammañca bhāvaye",
+         "&ldquo;develop this one quality&rdquo; &mdash; closing the "
+         "poem's third completion of its own refrain."),
+    ],
+    text_intro=(
+        "The text in full: three verses, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag3.4:1.1-1.4"),
+        ("p", "&sect;2", "thag3.4:2.1-2.4"),
+        ("p", "&sect;3", "thag3.4:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What is unusual about how this poem's three verses each open?",
+         "opts": [
+             "Each verse opens completely differently",
+             "Only two of the three verses share an opening",
+             "All three verses open with the exact same couplet",
+             "The poem has no repeated lines at all"],
+         "correct": 2,
+         "expl": "This collection's first instance of a poem repeating its own opening as an internal refrain."},
+        {"q": "What does the first verse's refrain complete with?",
+         "opts": [
+             "A warning not to look down on the Saṅgha's robes, food, and drink",
+             "A description of a battle",
+             "A list of monastic rules for laypeople",
+             "Nothing — the refrain is left unfinished"],
+         "correct": 0,
+         "expl": "Saṅghikaṁ nātimaññeyya."},
+        {"q": "What image does the second verse use for taking lodging as it comes?",
+         "opts": [
+             "A bird building a nest",
+             "A river finding its course",
+             "No image is used",
+             "A snake making use of a mouse's hole"],
+         "correct": 3,
+         "expl": "Modest shelter, not demanding more."},
+        {"q": "What quality does the third verse name directly?",
+         "opts": [
+             "Ambition",
+             "Contentment with whatever is offered",
+             "Competitiveness",
+             "No quality is named"],
+         "correct": 1,
+         "expl": "Itarītarena tusseyya, ekadhammañca bhāvaye."},
+        {"q": "What already-translated poem on this site may feature the same Dhaniya?",
+         "opts": [
+             "Snp 1.2, The Wealthy Rancher",
+             "MN 124",
+             "Ud 3.2",
+             "No such poem exists on this site"],
+         "correct": 0,
+         "expl": "A cattle-rancher converted on the spot by the Buddha's answers."},
+        {"q": "How does this poem read, if it is the same Dhaniya as Snp 1.2's rancher?",
+         "opts": [
+             "As a contradiction of his earlier boasting",
+             "As a fitting sequel — a man of former comfort now teaching contentment with little",
+             "As unrelated in every respect",
+             "As a return to his old life of comfort"],
+         "correct": 1,
+         "expl": "This reading guide's own cautious reading, not confirmed by a comment."},
+        {"q": "What does 'sāmaññasmiṁ apekkhavā' mean?",
+         "opts": [
+             "Longing for the ascetic life",
+             "Fearing the ascetic life",
+             "Rejecting the ascetic life",
+             "A place name"],
+         "correct": 0,
+         "expl": "The second half of the poem's three-times-repeated refrain."},
+        {"q": "Is the identification with Snp 1.2's Dhaniya confirmed by a comment on this poem?",
+         "opts": [
+             "Yes, explicitly",
+             "No comment survives for this poem confirming it",
+             "It is confirmed by the poem's own text",
+             "The comment explicitly denies it"],
+         "correct": 1,
+         "expl": "Offered cautiously, in the same spirit as this collection's other signature-name cases."},
+        {"q": "What does 'itarītarena tusseyya' mean?",
+         "opts": [
+             "Demand better food",
+             "Refuse all offerings",
+             "Be content with whatever is offered",
+             "A rainy season"],
+         "correct": 2,
+         "expl": "The quality named in the third verse's completion of the refrain."},
+        {"q": "Where does this poem fall in the Book of the Threes?",
+         "opts": [
+             "The book's opening poem",
+             "The book's closing poem",
+             "It is not part of the Book of the Threes",
+             "The book's fourth poem"],
+         "correct": 3,
+         "expl": "Following Aṅgaṇikabhāradvāja, Paccaya, and Bākula."},
+    ],
+    marginalia=[
+        ("A refrain, three times", [
+            "if you wish to live in happiness —",
+            "the same line, completed three ways"
+        ]),
+        ("A snake, a mouse's hole", [
+            "modest shelter taken as it comes —",
+            "not demanding more than offered"
+        ]),
+        ("A rancher's boast, once", [
+            "now teaching contentment with little —",
+            "no comment confirms it, but the fit is close"
+        ]),
+        ("One quality, named plainly", [
+            "content with whatever is offered —",
+            "no ornament added to the point"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag3.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-3.3.html">Thag 3.3 &mdash; B&amacr;kula</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "book.",
+        '<a href="../sutta-nipata/snp-1.2.html">Snp 1.2 &mdash; The '
+        "Wealthy Rancher</a> &mdash; possibly the same Dhaniya, "
+        "before his conversion.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 3.5 — Mātaṅgaputta
+# --------------------------------------------------------------------------- #
+page(
+    3, 5, "M&amacr;ta&#7749;gaputta", "M&amacr;ta&#7749;gaputta",
+    meta_title="Thag 3.5 — Mātaṅgaputta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Mātaṅgaputta's verse, contrasting the young who make excuses "
+        "about weather with one who treats heat and cold as no more "
+        "than blades of grass, closing on pushing through undergrowth "
+        "to foster seclusion. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Threes &middot; Chapter One &middot; Poem 5 of 16",
+    glance=[
+        ("Setting", "A contrast between excuse-making and endurance, "
+                    "without a translated attribution"),
+        ("Speaker", "M&amacr;ta&#7749;gaputta, first describing others, "
+                    "then turning to his own resolve"),
+        ("Form", "Three four-line verses &mdash; a complaint quoted, "
+                 "its opposite described, then a first-person turn"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, a vivid closing image"),
+    ],
+    why=(
+        "&lsquo;It's too cold, too hot, too late,&rsquo; the young "
+        "say, letting opportunities pass them by &mdash; but one who "
+        "treats heat and cold as no more than blades of grass does "
+        "his duties and never loses his happiness. Mātaṅgaputta "
+        "closes by turning to his own resolve: pushing aside grasses "
+        "and vines with his own chest to foster seclusion."),
+    guide=[
+        ("A complaint, quoted first", [
+            "The poem opens by quoting an excuse rather than making "
+            "one: &lsquo;“it's too cold, too hot, too late,” "
+            "they say&rsquo;, before naming the cost directly &mdash; "
+            "&lsquo;when the young neglect their work like this, "
+            "opportunities pass them by&rsquo;. The second verse "
+            "answers with its opposite: one who treats heat and cold "
+            "as no more than blades of grass does his duties, and "
+            "&lsquo;his happiness never fails&rsquo;."]),
+        ("A textual note worth flagging: one line without a separate translation", [
+            "The third verse's Pali runs to four lines, but "
+            "Sujato's translation folds the meaning of its final "
+            "line, vivekamanubrūhayaṁ (&lsquo;and cultivate "
+            "seclusion&rsquo;), into the English rendering of the "
+            "line before it, leaving no separate translated key for "
+            "the fourth line on its own. The text below follows the "
+            "translation's own boundaries rather than the Pali "
+            "line count."]),
+        ("Pushing through, to find solitude", [
+            "The poem's closing image is physical rather than "
+            "abstract: &lsquo;with my chest I'll thrust aside the "
+            "grasses, vines, and creepers&rsquo;, forcing a path "
+            "through undergrowth by main force in order to "
+            "&lsquo;foster seclusion&rsquo;. Solitude here is not "
+            "found waiting, but made by shoving through what stands "
+            "in its way."]),
+    ],
+    terms=[
+        ("atisītaṁ atiuṇhaṁ",
+         "&ldquo;too cold, too hot&rdquo; &mdash; the quoted excuse "
+         "opening the poem."),
+        ("khaṇā accenti",
+         "&ldquo;opportunities pass them by&rdquo; &mdash; the cost "
+         "of habitual excuse-making."),
+        ("tiṇā bhiyyo na maññati",
+         "&ldquo;considers [heat and cold] as no more than blades of "
+         "grass&rdquo; &mdash; the contrasting attitude of the "
+         "second verse."),
+        ("urasā panudissāmi",
+         "&ldquo;with my chest I'll thrust aside&rdquo; &mdash; the "
+         "physical image opening the poem's closing verse."),
+        ("vivekamanubrūhayaṁ",
+         "&ldquo;cultivate seclusion&rdquo; &mdash; the poem's final "
+         "Pali line, its meaning folded into the translated line "
+         "before it rather than given a separate English key."),
+    ],
+    text_intro=(
+        "The text in full: three verses, with no separate attribution "
+        "line in this chapter; the third verse's translation runs "
+        "only to its third line, per the note above. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag3.5:1.1-1.4"),
+        ("p", "&sect;2", "thag3.5:2.1-2.4"),
+        ("p", "&sect;3", "thag3.5:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What excuse does the poem quote at its opening?",
+         "opts": [
+             "'It's too cold, too hot, too late'",
+             "'I have no teacher'",
+             "'I am too old'",
+             "No excuse is quoted"],
+         "correct": 0,
+         "expl": "Attributed to 'the young' who let opportunities pass them by."},
+        {"q": "What does the second verse say about one who treats heat and cold as mere grass?",
+         "opts": [
+             "His happiness never fails",
+             "He becomes ill frequently",
+             "He is mocked by others",
+             "Nothing is said about happiness"],
+         "correct": 0,
+         "expl": "Karaṁ purisakiccāni, so sukhā na vihāyati."},
+        {"q": "What textual detail does this poem's third verse carry, unusual among this chapter's poems?",
+         "opts": [
+             "An extra fourth verse",
+             "A missing first verse",
+             "A fourth Pali line whose meaning is folded into the translation of the line before it, with no separate English key",
+             "No textual detail is noted"],
+         "correct": 2,
+         "expl": "The text below follows the translation's own boundaries, ending at the third line."},
+        {"q": "What physical image closes the poem?",
+         "opts": [
+             "Sailing across a great sea",
+             "Climbing a mountain",
+             "No image is given",
+             "Pushing aside grasses, vines, and creepers with one's chest"],
+         "correct": 3,
+         "expl": "Forcing a path through undergrowth to foster seclusion."},
+        {"q": "What does 'vivekamanubrūhayaṁ' mean?",
+         "opts": [
+             "Cultivate seclusion",
+             "Abandon the path",
+             "A rainy season",
+             "A monastic robe"],
+         "correct": 0,
+         "expl": "The poem's final Pali line, without its own separate translated key."},
+        {"q": "What is said to pass by the young who make excuses about weather?",
+         "opts": [
+             "Their possessions",
+             "Their opportunities",
+             "Their friends",
+             "Nothing is said to pass by"],
+         "correct": 1,
+         "expl": "Khaṇā accenti māṇave."},
+        {"q": "What does 'urasā panudissāmi' mean?",
+         "opts": [
+             "I will remain still",
+             "I will call for help",
+             "A place name",
+             "With my chest I'll thrust aside"],
+         "correct": 3,
+         "expl": "The physical action opening the poem's closing verse."},
+        {"q": "How does the poem present solitude in its closing image?",
+         "opts": [
+             "As something found by waiting patiently",
+             "As something made by physically forcing a path through what blocks it",
+             "As something impossible to attain",
+             "As something granted by a teacher"],
+         "correct": 1,
+         "expl": "Solitude made by main force, not found waiting."},
+        {"q": "What duties does the second verse's steady person perform?",
+         "opts": [
+             "Royal duties",
+             "No duties are mentioned",
+             "His duties as a man, regardless of heat or cold",
+             "Only ceremonial duties"],
+         "correct": 2,
+         "expl": "Karaṁ purisakiccāni."},
+        {"q": "Where does this poem fall in the Book of the Threes?",
+         "opts": [
+             "The book's opening poem",
+             "The book's closing poem",
+             "It is not part of the Book of the Threes",
+             "The book's fifth poem"],
+         "correct": 3,
+         "expl": "Following Aṅgaṇikabhāradvāja, Paccaya, Bākula, and Dhaniya."},
+    ],
+    marginalia=[
+        ("An excuse, quoted", [
+            "too cold, too hot, too late —",
+            "opportunities pass the young by"
+        ]),
+        ("Heat and cold, mere grass", [
+            "duties done regardless —",
+            "happiness that never fails"
+        ]),
+        ("A line, folded into another", [
+            "no separate English key —",
+            "the translation's own boundary"
+        ]),
+        ("Pushing through, by main force", [
+            "grasses, vines, and creepers thrust aside —",
+            "seclusion made, not found waiting"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag3.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-3.4.html">Thag 3.4 &mdash; Dhaniya</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "book.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 3.6 — Khujjasobhita
+# --------------------------------------------------------------------------- #
+page(
+    3, 6, "Khujjasobhita", "Khujjasobhita",
+    meta_title="Thag 3.6 — Khujjasobhita | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Khujjasobhita's verse, the same three lines spoken twice at "
+        "the same monastery door — once with respect, once with "
+        "mockery — before a third voice answers with a declaration "
+        "of victory through the spiritual life. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Threes &middot; Chapter One &middot; Poem 6 of 16",
+    glance=[
+        ("Setting", "A doorway in Pāṭaliputta, without a translated "
+                    "attribution"),
+        ("Speaker", "Two unnamed voices describing the same old monk, "
+                    "then a third voice replying"),
+        ("Form", "Three four-line verses &mdash; a respectful "
+                 "description, an unkind repetition of it, then a "
+                 "reply"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, an ambiguous multi-voice "
+                       "structure"),
+    ],
+    why=(
+        "The same three lines describe an old monk standing at the "
+        "door of a house in Pāṭaliputta &mdash; once respectfully, "
+        "among &lsquo;brilliant speakers, very learned&rsquo;, and "
+        "once unkindly, &lsquo;trembling in the gale&rsquo; &mdash; "
+        "before a third verse answers, crediting happiness to a "
+        "spiritual life &lsquo;fought and won&rsquo; like a battle."),
+    guide=[
+        ("The same lines, twice, with one word changed", [
+            "The first and second verses share their first three "
+            "lines word for word: &lsquo;one of those monks who live "
+            "in Pāṭaliputta &mdash; such brilliant speakers, and very "
+            "learned &mdash; stands at the door&rsquo;. Only the "
+            "closing line differs &mdash; the first names "
+            "Khujjasobhita respectfully, the second calls him &lsquo;an "
+            "old man, trembling in the gale&rsquo;. Whether this is "
+            "one voice correcting itself, or two different voices "
+            "describing the same figure with opposite intent, the "
+            "poem does not say."]),
+        ("A reply, in the language of battle", [
+            "The third verse answers, but not by refuting the "
+            "mockery directly: &lsquo;by war well fought, by "
+            "sacrifice well made, by victory in battle; by leading "
+            "the spiritual life: that's how one prospers in "
+            "happiness&rsquo;. The martial vocabulary reframes "
+            "physical frailty as irrelevant beside a different kind "
+            "of victory, without ever denying the description of an "
+            "old, trembling man."]),
+        ("Voices this reading guide does not assign", [
+            "This collection has met unassigned dialogue before "
+            "&mdash; Thag 1.56's exchange over a hut, whose speakers "
+            "the poem itself never distinguishes. This poem is a "
+            "starker case still: three near-identical verses, at "
+            "least two apparently opposed in tone, with no narrative "
+            "frame naming who speaks first, who mocks, or who "
+            "answers. This reading guide follows the same principle "
+            "as with Thag 1.56 &mdash; describing the structure "
+            "honestly rather than inventing a cast to resolve it."]),
+    ],
+    terms=[
+        ("cittakathī bahussutā",
+         "&ldquo;brilliant speakers, and very learned&rdquo; &mdash; "
+         "how the monks of Pāṭaliputta are described in the shared "
+         "opening lines."),
+        ("m&amacr;luterito",
+         "&ldquo;trembling in the gale&rdquo; &mdash; the unkind "
+         "closing line of the second verse."),
+        ("suyuddhena suyi&#7789;&#7789;hena",
+         "&ldquo;by war well fought, by sacrifice well made&rdquo; "
+         "&mdash; the martial language opening the third verse's "
+         "reply."),
+        ("sa&#7749;g&amacr;mavijayena",
+         "&ldquo;by victory in battle&rdquo; &mdash; continuing the "
+         "same martial image."),
+        ("brahmacariy&amacr;nuci&#7751;&#7751;ena",
+         "&ldquo;by leading the spiritual life&rdquo; &mdash; the "
+         "reply's actual subject, framed as a battle won."),
+    ],
+    text_intro=(
+        "The text in full: three verses, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag3.6:1.1-1.4"),
+        ("p", "&sect;2", "thag3.6:2.1-2.4"),
+        ("p", "&sect;3", "thag3.6:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What do the first and second verses share?",
+         "opts": [
+             "Nothing — they are completely different",
+             "Only their final word",
+             "Their first three lines, word for word, with only the closing line changed",
+             "The entire four lines, identically"],
+         "correct": 2,
+         "expl": "One respectful, one unkind, in the closing line alone."},
+        {"q": "How does the second verse's closing line describe the old monk?",
+         "opts": [
+             "As wealthy and comfortable",
+             "As young and vigorous",
+             "As trembling in the gale",
+             "No description is given"],
+         "correct": 2,
+         "expl": "Contrasting the first verse's respectful naming."},
+        {"q": "What vocabulary does the third verse's reply use?",
+         "opts": [
+             "Agricultural imagery",
+             "Martial language — war, sacrifice, and victory in battle",
+             "Nautical imagery",
+             "No particular imagery is used"],
+         "correct": 1,
+         "expl": "Reframing physical frailty beside a different kind of victory."},
+        {"q": "Does the third verse directly refute the description of an old, trembling man?",
+         "opts": [
+             "Yes, explicitly",
+             "It denies the man exists at all",
+             "It agrees the man has failed",
+             "No — it answers without denying that description"],
+         "correct": 3,
+         "expl": "The reframing happens without contradiction."},
+        {"q": "Does this poem assign its three verses to named, distinguished speakers?",
+         "opts": [
+             "Yes, each verse names its speaker",
+             "Only the first verse is assigned",
+             "No — the poem gives no narrative frame identifying who speaks",
+             "Only the third verse is assigned"],
+         "correct": 2,
+         "expl": "An ambiguity this reading guide describes rather than resolves."},
+        {"q": "What earlier poem in this collection features a similarly unassigned dialogue?",
+         "opts": [
+             "Thag 1.56, an exchange over a hut",
+             "Thag 2.31 Migasira",
+             "Thag 1.1 Subhūti",
+             "No earlier poem features unassigned dialogue"],
+         "correct": 0,
+         "expl": "This reading guide follows the same principle in both cases."},
+        {"q": "Where is the old monk said to be standing?",
+         "opts": [
+             "In a marketplace",
+             "At the door of a house in Pāṭaliputta",
+             "On a riverbank",
+             "No location is given"],
+         "correct": 1,
+         "expl": "Dvāre tiṭṭhati — at the door."},
+        {"q": "What does 'cittakathī bahussutā' mean?",
+         "opts": [
+             "Brilliant speakers, and very learned",
+             "Poor and uneducated",
+             "Silent and reclusive",
+             "A monastic robe"],
+         "correct": 0,
+         "expl": "Describing the monks of Pāṭaliputta in the shared opening lines."},
+        {"q": "What does the third verse credit for prospering in happiness?",
+         "opts": [
+             "Wealth and status",
+             "Royal favor",
+             "Nothing is credited",
+             "Leading the spiritual life, framed as a battle won"],
+         "correct": 3,
+         "expl": "Brahmacariyānuciṇṇena, evāyaṁ sukhamedhati."},
+        {"q": "Where does this poem fall in the Book of the Threes?",
+         "opts": [
+             "The book's opening poem",
+             "The book's closing poem",
+             "It is not part of the Book of the Threes",
+             "The book's sixth poem"],
+         "correct": 3,
+         "expl": "Following Aṅgaṇikabhāradvāja, Paccaya, Bākula, Dhaniya, and Mātaṅgaputta."},
+    ],
+    marginalia=[
+        ("The same lines, twice", [
+            "brilliant speakers, very learned —",
+            "then, trembling in the gale"
+        ]),
+        ("A door in Pāṭaliputta", [
+            "an old man stands there —",
+            "described two ways at once"
+        ]),
+        ("A reply, in war's language", [
+            "sacrifice well made, battle won —",
+            "not a denial, a reframing"
+        ]),
+        ("Voices left unnamed", [
+            "who mocks, who answers —",
+            "the poem does not say"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag3.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-3.5.html">Thag 3.5 &mdash; '
+        "M&amacr;ta&#7749;gaputta</a> &mdash; the poem immediately "
+        "before this one, in the same book.",
+        '<a href="thag-1.56.html">Thag 1.56 &mdash; Kuṭivihārin</a> '
+        "&mdash; this collection's earlier unassigned dialogue, over "
+        "a hut, in the Book of the Ones.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 3.7 — Vāraṇa
+# --------------------------------------------------------------------------- #
+page(
+    3, 7, "V&amacr;ra&#7751;a", "V&amacr;ra&#7751;a",
+    meta_title="Thag 3.7 — Vāraṇa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Vāraṇa's verse on harming and loving creatures, whose third "
+        "verse Sujato's own comment identifies as a grammatically "
+        "distinct quotation, already translated on this site as a "
+        "godling's line in the Saṁyutta Nikāya. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Threes &middot; Chapter One &middot; Poem 7 of 16",
+    glance=[
+        ("Setting", "General teaching, not autobiography, without a "
+                    "translated attribution"),
+        ("Speaker", "V&amacr;ra&#7751;a, teaching on harm, love, and "
+                    "training"),
+        ("Form", "Three four-line verses &mdash; a warning about "
+                 "harming creatures, its opposite, and a quoted "
+                 "training verse"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, a notable textual seam"),
+    ],
+    why=(
+        "Vāraṇa teaches that anyone who harms other creatures falls "
+        "from both this world and the next, while one with a mind of "
+        "love brims with merit &mdash; then closes with a third "
+        "verse that Sujato's own comment identifies as grammatically "
+        "distinct from the first two, and traceable to an "
+        "already-translated poem elsewhere on this site."),
+    guide=[
+        ("Harm and love, in direct contrast", [
+            "The first two verses set up a plain contrast: whoever "
+            "harms other creatures &lsquo;will fall both from this "
+            "world and the next&rsquo;, while whoever holds "
+            "&lsquo;a mind of love, sympathetic for all "
+            "creatures&rsquo; &lsquo;brims with much merit&rsquo;. "
+            "Both verses speak in the third person about a "
+            "hypothetical &lsquo;anyone&rsquo;."]),
+        ("A seam in the grammar, caught by the comment", [
+            "The third verse shifts: &lsquo;you should all train to "
+            "learn well-spoken words&rsquo;. Sujato's comment notes "
+            "that sikkhetha is second person plural &mdash; "
+            "addressing &lsquo;you all&rsquo; directly &mdash; where "
+            "the previous two verses spoke about a third party. The "
+            "ancient commentary itself already tried to smooth this "
+            "over, reading the verb as third person singular to match "
+            "the surrounding verses &mdash; which Sujato takes as a "
+            "sign that the commentators themselves noticed the same "
+            "seam this reading guide is pointing out."]),
+        ("A quotation, findable elsewhere on this site", [
+            "The comment further notes that this same verse exists "
+            "independently at "
+            "<a href=\"../samyutta-nikaya/sn-2.1.html\">SN 2.1 (With "
+            "Kassapa)</a>, already translated on this site, where it "
+            "appears in the Devaputtasaṁyutta as part of an exchange "
+            "between the Buddha and a godling also named Kassapa "
+            "&mdash; and there too, it reads as a quotation rather "
+            "than as the discourse's own original composition. Taken "
+            "together, the grammar, the commentary's own smoothing, "
+            "and this independent appearance all point the same "
+            "way: verse 3 most likely began life apart from verses 1 "
+            "and 2, later joined to them under Vāraṇa's name."]),
+    ],
+    terms=[
+        ("parapāṇāni hiṁsati",
+         "&ldquo;harms other creatures&rdquo; &mdash; the offense "
+         "named in the first verse."),
+        ("mettena cittena",
+         "&ldquo;with a mind of love&rdquo; &mdash; the contrasting "
+         "quality of the second verse."),
+        ("subh&amacr;sitassa sikkhetha",
+         "&ldquo;you should all train to learn well-spoken "
+         "words&rdquo; &mdash; the second-person-plural opening of "
+         "the third, quoted verse."),
+        ("saman&#363;pāsanassa",
+         "&ldquo;to attend closely to ascetics&rdquo; &mdash; one of "
+         "the trainings named in the closing verse."),
+        ("cittav&#363;pasamassa",
+         "&ldquo;to calm the mind&rdquo; &mdash; the final training "
+         "named, closing the poem."),
+    ],
+    text_intro=(
+        "The text in full: three verses, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag3.7:1.1-1.4"),
+        ("p", "&sect;2", "thag3.7:2.1-2.4"),
+        ("p", "&sect;3", "thag3.7:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What does the first verse say happens to one who harms other creatures?",
+         "opts": [
+             "Nothing in particular",
+             "They fall from both this world and the next",
+             "They are reborn immediately as an animal",
+             "They are forgiven automatically"],
+         "correct": 1,
+         "expl": "Asmā lokā paramhā ca, ubhayā dhaṁsate naro."},
+        {"q": "What does the second verse say about one with a mind of love?",
+         "opts": [
+             "They brim with much merit",
+             "They become weak and passive",
+             "They are mocked by others",
+             "Nothing is said about them"],
+         "correct": 0,
+         "expl": "Sabbapāṇānukampati — sympathetic for all creatures."},
+        {"q": "What grammatical detail does Sujato's comment note about the third verse?",
+         "opts": [
+             "It is written in a lost dialect",
+             "It contains no verbs at all",
+             "Its verb is second person plural, addressing 'you all', unlike the third-person verses before it",
+             "No grammatical detail is noted"],
+         "correct": 2,
+         "expl": "A seam the ancient commentary itself already tried to smooth over."},
+        {"q": "How did the ancient commentary treat this grammatical shift?",
+         "opts": [
+             "It ignored it entirely",
+             "It read the verb as third person singular, to match the surrounding verses",
+             "It declared the verse spurious",
+             "It rewrote the entire poem"],
+         "correct": 1,
+         "expl": "Which Sujato reads as a sign the seam was already noticed anciently."},
+        {"q": "Where does this same third verse also appear, already translated on this site?",
+         "opts": [
+             "Dhammapada 93",
+             "Ud 3.2",
+             "No such poem exists on this site",
+             "SN 2.1, With Kassapa"],
+         "correct": 3,
+         "expl": "Part of an exchange between the Buddha and a godling in the Devaputtasaṁyutta."},
+        {"q": "What does the comment's evidence suggest about verse 3's origin?",
+         "opts": [
+             "It was composed specifically for this poem",
+             "It is definitely spurious and should be removed",
+             "It most likely began separately and was later joined to verses 1 and 2",
+             "No conclusion is suggested"],
+         "correct": 2,
+         "expl": "Grammar, commentary, and independent appearance all point the same way."},
+        {"q": "What four things does the closing verse urge training in?",
+         "opts": [
+             "Wealth, fame, comfort, and rest",
+             "Well-spoken words, attending to ascetics, sitting alone, and calming the mind",
+             "Farming, trade, travel, and building",
+             "Nothing specific is named"],
+         "correct": 1,
+         "expl": "Subhāsitassa, samaṇūpāsanassa, ekāsanassa, cittavūpasamassa."},
+        {"q": "What does 'mettena cittena' mean?",
+         "opts": [
+             "With a mind of love",
+             "With an angry mind",
+             "With a confused mind",
+             "A monastic robe"],
+         "correct": 0,
+         "expl": "The quality contrasted with harming other creatures."},
+        {"q": "What godling appears in SN 2.1, alongside this verse?",
+         "opts": [
+             "Kassapa",
+             "Ānanda",
+             "Vaḍḍha",
+             "No godling appears"],
+         "correct": 0,
+         "expl": "The same name as several unrelated Kassapas already noted elsewhere in this collection."},
+        {"q": "Where does this poem fall in the Book of the Threes?",
+         "opts": [
+             "The book's opening poem",
+             "The book's closing poem",
+             "It is not part of the Book of the Threes",
+             "The book's seventh poem"],
+         "correct": 3,
+         "expl": "Following Aṅgaṇikabhāradvāja, Paccaya, Bākula, Dhaniya, Mātaṅgaputta, and Khujjasobhita."},
+    ],
+    marginalia=[
+        ("Harm, and its fall", [
+            "from this world and the next —",
+            "a plain warning, stated flatly"
+        ]),
+        ("A mind of love, brimming", [
+            "sympathetic for all creatures —",
+            "merit gathered without effort named"
+        ]),
+        ("A seam, in the grammar", [
+            "'you all' where 'anyone' stood before —",
+            "the commentary already noticed"
+        ]),
+        ("A verse, found elsewhere too", [
+            "the same words in a godling's mouth —",
+            "quoted, not composed for this poem"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag3.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-3.6.html">Thag 3.6 &mdash; Khujjasobhita</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "book.",
+        '<a href="../samyutta-nikaya/sn-2.1.html">SN 2.1 &mdash; With '
+        "Kassapa</a> &mdash; where this poem's third verse also "
+        "appears, per Sujato's own comment.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 3.8 — Vassika
+# --------------------------------------------------------------------------- #
+page(
+    3, 8, "Vassika", "Vassika",
+    meta_title="Thag 3.8 — Vassika | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Vassika's verse, the only poem in this collection so far "
+        "devoted entirely to a speaker's family rather than his own "
+        "attainment — corrected out of love, then reborn together in "
+        "the Third Heaven. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Threes &middot; Chapter One &middot; Poem 8 of 16",
+    glance=[
+        ("Setting", "A family's fate, recalled by the one who "
+                    "corrected them, without a translated attribution"),
+        ("Speaker", "Vassika, the only one of faith and wisdom in his "
+                    "family"),
+        ("Form", "Three four-line verses &mdash; a family's lack of "
+                 "faith, its correction, and the family's rebirth in "
+                 "heaven"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, an unusual subject"),
+    ],
+    why=(
+        "Vassika was the only one in his family with faith and "
+        "wisdom; out of sympathy he corrected his relatives, who "
+        "performed a service for the monks, passed away, and were "
+        "reborn together in the Third Heaven, enjoying every "
+        "pleasure they desire &mdash; a poem that never once reports "
+        "the speaker's own attainment."),
+    guide=[
+        ("A poem about someone else's fate", [
+            "Every poem in this collection so far has, at minimum, "
+            "gestured toward the speaker's own path, even the "
+            "teaching-genre poems that speak in general terms. This "
+            "one is different: from its first line to its last, it "
+            "describes what happened to Vassika's family, not to "
+            "Vassika himself. No claim of his own liberation appears "
+            "anywhere in the poem."]),
+        ("Correction, framed as love", [
+            "The second verse is careful about the tone of the "
+            "correction: &lsquo;I corrected my family out of "
+            "sympathy, telling them off out of love for my family "
+            "and relatives&rsquo;. The scolding is not presented as "
+            "harsh discipline but as an act of care, one that leads "
+            "directly to the family performing &lsquo;a service for "
+            "the monks&rsquo;."]),
+        ("A family, reunited in heaven", [
+            "The third verse reports the outcome without ambiguity: "
+            "the family passed away and was reborn together "
+            "&lsquo;in the Third Heaven&rsquo;, where "
+            "&lsquo;my brothers and mother enjoy all the pleasures "
+            "they desire&rsquo;. The poem closes on their contentment, "
+            "not on any further comment from Vassika about his own "
+            "practice or state."]),
+    ],
+    terms=[
+        ("saddho medhāvī",
+         "&ldquo;faith and wisdom&rdquo; &mdash; the two qualities "
+         "Vassika alone held in his family."),
+        ("niggayha anukampāya",
+         "&ldquo;corrected out of sympathy&rdquo; &mdash; how the "
+         "poem frames the scolding that follows."),
+        ("ñātibandhavapemena",
+         "&ldquo;out of love for my family and relatives&rdquo; "
+         "&mdash; the stated motive for the correction."),
+        ("kāraṁ katvāna bhikkhusu",
+         "&ldquo;performed a service for the monks&rdquo; &mdash; "
+         "what the corrected family went on to do."),
+        ("tidivaṁ",
+         "&ldquo;the Third Heaven&rdquo; &mdash; where the family was "
+         "reborn, enjoying every pleasure they desire."),
+    ],
+    text_intro=(
+        "The text in full: three verses, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag3.8:1.1-1.4"),
+        ("p", "&sect;2", "thag3.8:2.1-2.4"),
+        ("p", "&sect;3", "thag3.8:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What makes this poem unusual compared to every other poem in this collection so far?",
+         "opts": [
+             "It never once reports the speaker's own attainment, focusing entirely on his family",
+             "It is the shortest poem in the collection",
+             "It is written by a woman",
+             "It contains no Pali original"],
+         "correct": 0,
+         "expl": "From first line to last, the subject is the family's fate."},
+        {"q": "What two qualities did Vassika alone hold in his family, according to the first verse?",
+         "opts": [
+             "Wealth and status",
+             "Faith and wisdom",
+             "Strength and courage",
+             "None are named"],
+         "correct": 1,
+         "expl": "Saddho medhāvī — the only one of his relatives with either."},
+        {"q": "How does the second verse frame Vassika's correction of his family?",
+         "opts": [
+             "As harsh, punitive discipline",
+             "As a reluctant duty",
+             "As an act of sympathy and love",
+             "As something he regretted"],
+         "correct": 2,
+         "expl": "Niggayha anukampāya, ñātibandhavapemena."},
+        {"q": "What did the corrected family go on to do?",
+         "opts": [
+             "They rejected the teaching entirely",
+             "They left the household",
+             "Nothing is said about their actions",
+             "They performed a service for the monks"],
+         "correct": 3,
+         "expl": "Kāraṁ katvāna bhikkhusu."},
+        {"q": "Where was the family reborn, according to the third verse?",
+         "opts": [
+             "In the animal realm",
+             "In the Third Heaven",
+             "As ghosts",
+             "The poem does not say"],
+         "correct": 1,
+         "expl": "Pattā te tidivaṁ sukhaṁ."},
+        {"q": "Who specifically is named as enjoying pleasures in that heaven?",
+         "opts": [
+             "Vassika's brothers and mother",
+             "Vassika's teacher",
+             "The entire village",
+             "No one specific is named"],
+         "correct": 0,
+         "expl": "Bhātaro mayhaṁ mātā ca, modanti kāmakāmino."},
+        {"q": "Does this poem make any claim about Vassika's own liberation?",
+         "opts": [
+             "Yes, in the closing line",
+             "No — no such claim appears anywhere in the poem",
+             "Yes, in the opening line",
+             "It is stated ambiguously"],
+         "correct": 1,
+         "expl": "The poem's entire attention stays on the family's fate."},
+        {"q": "What does 'tidivaṁ' mean?",
+         "opts": [
+             "A type of hut",
+             "A rainy season",
+             "The Third Heaven",
+             "A monastic robe"],
+         "correct": 2,
+         "expl": "Where the family was reborn together."},
+        {"q": "What does 'niggayha anukampāya' mean?",
+         "opts": [
+             "Corrected out of sympathy",
+             "Ignored out of indifference",
+             "Praised without reservation",
+             "A place name"],
+         "correct": 0,
+         "expl": "How the poem frames Vassika's scolding of his relatives."},
+        {"q": "Where does this poem fall in the Book of the Threes?",
+         "opts": [
+             "The book's opening poem",
+             "The book's closing poem",
+             "It is not part of the Book of the Threes",
+             "The book's eighth poem"],
+         "correct": 3,
+         "expl": "Following Aṅgaṇikabhāradvāja, Paccaya, Bākula, Dhaniya, Mātaṅgaputta, Khujjasobhita, and Vāraṇa."},
+    ],
+    marginalia=[
+        ("The only one, in his family", [
+            "faith and wisdom his alone —",
+            "before the correction that followed"
+        ]),
+        ("Scolding, out of love", [
+            "not harsh discipline —",
+            "sympathy for kin, plainly stated"
+        ]),
+        ("A family, reunited above", [
+            "the Third Heaven, every pleasure —",
+            "brothers and mother, together"
+        ]),
+        ("A poem about someone else", [
+            "no claim of his own path —",
+            "the whole attention elsewhere"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag3.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-3.7.html">Thag 3.7 &mdash; '
+        "V&amacr;ra&#7751;a</a> &mdash; the poem immediately before "
+        "this one, in the same book.",
         '<a href="./">Theragatha</a> &mdash; back to the collection '
         "index.",
     ],
