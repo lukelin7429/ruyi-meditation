@@ -21006,3 +21006,1970 @@ page(
         "whose exact question and answer this discourse repeats.",
     ],
 )
+
+page(22, 93, "Nadī", "A River",
+    vagga="Pupphavagga",
+    meta_title="SN 22.93 · A River — Riverside Plants That Break Off",
+    meta_desc="A mountain river sweeping someone along, who grabs at riverside "
+        "plants that give way — the peril of treating any aggregate as a "
+        "solid handhold. Saṃyutta Nikāya 22.93, with Pāli.",
+    glance=[
+        ("Setting", "Not specified"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A single extended simile, mapped onto all five aggregates"),
+        ("Length", "Short — one image, developed once and then applied"),
+        ("Northern parallel", "No known direct parallel; the image is distinctive to this discourse"),
+        ("Difficulty", "Approachable — a vivid, self-explanatory picture"),
+    ],
+    why=("Opens Pupphavagga with a new image for an old warning: reaching for "
+        "an aggregate as though it could hold you steady is like grabbing "
+        "riverside plants while being swept downstream — the very thing you "
+        "clutch gives way, and its giving way is what brings the ruin."),
+    guide=[
+        ("The image", [
+            "Someone is swept along by a swift mountain river. Passing "
+            "riverside vegetation — sugarcane, kusa grass, reeds, vetiver, "
+            "or overhanging trees — they grab at it, hoping for a hold.",
+            "But the plant \"falls apart,\" and \"they come to ruin because of "
+            "that.\" The vegetation was never a foothold; it was itself being "
+            "carried by the same current, rooted no more firmly than the "
+            "person clutching it.",
+        ]),
+        ("The mapping onto the five aggregates", [
+            "An unlearned person regards any of the five aggregates — form, "
+            "feeling, perception, choices, consciousness — as self. That "
+            "aggregate then \"falls apart,\" and they \"come to ruin because "
+            "of that\" — the identical two-part sequence as the river image. "
+            "The source text spells this out fully for form and "
+            "consciousness, with feeling, perception, and choices elided "
+            "between them, the same compression pattern found elsewhere in "
+            "this book.",
+            "The parallel is exact: what is grabbed at is itself moving with "
+            "the current, not standing apart from it. An aggregate offers no "
+            "more stability than a reed does to someone being swept "
+            "downstream.",
+        ]),
+        ("Why the giving-way causes ruin, not just disappointment", [
+            "The danger in both cases is not merely losing a handhold — it "
+            "is having staked one's footing on it. A person not clutching "
+            "the reed is simply carried along; a person who has grabbed it "
+            "and feels it break loses balance at the very moment they most "
+            "needed steadiness.",
+            "The same is true of self-view: it is not simply that the "
+            "aggregate changes, but that change arriving exactly where "
+            "stability was expected is what constitutes the ruin.",
+        ]),
+        ("A new vagga, a familiar structure", [
+            "Pupphavagga (\"Flowers\") opens with this river simile and will "
+            "close, in SN 22.102, with the perception of impermanence "
+            "compared to autumn sunlight dispelling darkness — bracketing "
+            "the vagga between an image of peril and an image of clarity.",
+        ]),
+    ],
+    terms=[
+        ("nadī", "river — here specifically a mountain river with a swift current"),
+        ("kusa", "kusa grass — one of the riverside plants named, later used ceremonially in Vedic and Buddhist ritual"),
+        ("usīra", "vetiver, a fragrant fibrous-rooted grass — another named riverside plant"),
+        ("anaya vyasanaṁ āpajjeyya", "\"come to ruin\" — the consequence when the grabbed-at support gives way"),
+        ("anicca", "impermanent — the underlying quality that makes every aggregate this kind of unreliable support"),
+    ],
+    text_intro=("The full river simile, given once and then applied to each of the "
+        "five aggregates in turn. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.93:1.1-1.6"),
+        ("p", "§2", "sn22.93:1.7-1.12"),
+        ("p", "§3", "sn22.93:1.13-1.24"),
+    ],
+    quiz=[
+        {"q": "What is the person in the simile doing?",
+         "opts": [
+             "Being swept along by a swift mountain river",
+             "Standing safely on the riverbank",
+             "Swimming deliberately across the river",
+             "Building a boat to cross the river"],
+         "correct": 0,
+         "expl": "The current is already carrying them; the danger comes from what they reach for."},
+        {"q": "What happens to the riverside vegetation they grab?",
+         "opts": [
+             "It falls apart, and they come to ruin because of that",
+             "It holds firm and saves them",
+             "It grows longer to reach them",
+             "It was never actually there"],
+         "correct": 0,
+         "expl": "The very thing grabbed at gives way — that is the whole point of the image."},
+        {"q": "Which riverside plants are named in the simile?",
+         "opts": [
+             "Sugarcane, kusa grass, reeds, vetiver, and overhanging trees",
+             "Only lotus flowers",
+             "Only bamboo",
+             "Only water lilies"],
+         "correct": 0,
+         "expl": "A specific list of vegetation someone swept downstream might grab at."},
+        {"q": "How many aggregates does the discourse map this image onto?",
+         "opts": [
+             "All five — form, feeling, perception, choices, consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "The same two-part sequence — grabbing, then ruin — is repeated for each aggregate."},
+        {"q": "What causes the \"ruin\" in each case?",
+         "opts": [
+             "The very support grabbed at gives way, unbalancing the one who trusted it",
+             "The river itself directly attacks the person",
+             "A separate accident unrelated to the grabbing",
+             "The person's own decision to let go voluntarily"],
+         "correct": 0,
+         "expl": "The ruin comes specifically from having staked one's footing on something that then breaks."},
+        {"q": "What does the riverside vegetation have in common with the river's current?",
+         "opts": [
+             "It is itself moving with the same instability, not standing apart from it",
+             "It is completely separate from the river's motion",
+             "It is more stable than the riverbank itself",
+             "It has no relationship to the water at all"],
+         "correct": 0,
+         "expl": "The plant offers no more real stability than being carried by the current directly."},
+        {"q": "Which vagga does this discourse open?",
+         "opts": [
+             "Pupphavagga (\"Flowers\")",
+             "Theravagga",
+             "Khajjanīyavagga",
+             "Arahantavagga"],
+         "correct": 0,
+         "expl": "SN 22.93 opens Book III's tenth vagga, running through SN 22.102."},
+        {"q": "What quality underlies why every aggregate fails as a handhold?",
+         "opts": [
+             "Impermanence (anicca)",
+             "Permanence",
+             "Solidity",
+             "Independence from causes"],
+         "correct": 0,
+         "expl": "An aggregate cannot hold steady because it is itself always changing."},
+        {"q": "How does this discourse's structure compare to earlier similes in Khandhavagga?",
+         "opts": [
+             "A single image given once, then applied identically across all five aggregates",
+             "Five entirely different images, one per aggregate",
+             "No image at all, only direct statement",
+             "A dialogue format with questions and answers"],
+         "correct": 0,
+         "expl": "Matching the pattern already used for the foam-lump simile that follows in SN 22.95."},
+        {"q": "What is a fitting description of what this discourse warns against?",
+         "opts": [
+             "Treating something itself in motion as though it could offer fixed support",
+             "Refusing to engage with the world at all",
+             "Avoiding rivers specifically",
+             "Distrusting all similes and teachings"],
+         "correct": 0,
+         "expl": "The warning is general — any aggregate, grabbed at as self, gives way the same way the reed does."},
+    ],
+    marginalia=[
+        ("A new image opening a new vagga", [
+            "riverside plants, grabbed at mid-current &mdash;",
+            "themselves as unstable as the water itself",
+        ]),
+        ("The grab causes the ruin, not the river alone", [
+            "trusting what cannot hold &mdash;",
+            "the very moment stability was most needed",
+        ]),
+        ("Applied to all five aggregates alike", [
+            "form, feeling, perception, choices, consciousness &mdash;",
+            "each one a reed that gives way the same",
+        ]),
+        ("Pupphavagga's opening note", [
+            "peril first, clarity to come &mdash;",
+            "this vagga will close on autumn sunlight instead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.93/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.92.html">SN 22.92 &middot; Rāhula (2nd)</a> '
+        "&mdash; the previous discourse, closing Theravagga.",
+        '<a href="sn-22.95.html">SN 22.95 &middot; A Lump of Foam</a> '
+        "&mdash; this vagga's own most famous image, extending the same "
+        "instability theme across a set of five similes.",
+    ],
+)
+
+page(22, 94, "Puppha", "Flowers",
+    vagga="Pupphavagga",
+    meta_title="SN 22.94 · Flowers — I Do Not Dispute With the World",
+    meta_desc="\"I do not dispute with the world; it is the world that "
+        "disputes with me\" — and the closing lotus simile: born in the "
+        "water, growing through it, standing unsullied above it. Saṃyutta "
+        "Nikāya 22.94, this vagga's namesake, with Pāli.",
+    glance=[
+        ("Setting", "Not specified"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "Direct declaration, an existence/non-existence formula, and a closing simile"),
+        ("Length", "Short — a few tightly-built sections"),
+        ("Northern parallel", "No known direct parallel; the opening line and the closing simile are both widely quoted independently"),
+        ("Difficulty", "Deceptively simple — the opening line is often misread out of context"),
+    ],
+    why=("The vagga's own namesake discourse, and one of the most quoted "
+        "lines in the whole Canon: \"I do not dispute with the world; it is "
+        "the world that disputes with me.\" Closes with the lotus image — "
+        "born in the water, growing through it, rising above it unsullied "
+        "— giving Pupphavagga its name and giving the Buddha's own "
+        "relationship to the world its most enduring picture."),
+    guide=[
+        ("Agreement, not novelty", [
+            "The Buddha opens by declining any dispute with ordinary, "
+            "careful observation: \"what the astute deem as not existing, I "
+            "too say does not exist\" — namely a permanent, eternal, "
+            "imperishable aggregate — \"and what the astute deem as "
+            "existing, I too say exists\" — namely an impermanent, "
+            "suffering, perishable aggregate.",
+            "This is not a claim to have invented a new metaphysics. It is "
+            "a claim that the teaching, examined honestly, only makes "
+            "explicit what careful observation would itself confirm.",
+        ]),
+        ("What the Realized One does that others do not", [
+            "The Buddha \"understands and comprehends\" each aggregate as "
+            "\"a worldly phenomenon in the world,\" and explains it fully — "
+            "the difference is not in what exists, but in seeing it clearly "
+            "and naming it accurately, rather than being swept along by it "
+            "unknowingly.",
+            "The rhetorical close of this section — \"what can I do about a "
+            "foolish ordinary person, blind and sightless, who does not "
+            "know or see?\" — is unusually direct for this collection, "
+            "naming the limits of teaching itself: understanding cannot be "
+            "handed over ready-made to someone unwilling to look.",
+        ]),
+        ("The lotus simile", [
+            "\"Though it sprouted and grew in the water, it would rise up "
+            "above the water and stand with no water clinging to it.\" The "
+            "lotus is not opposed to the water it grows in — it depends on "
+            "it entirely — yet stands clear of it once risen.",
+            "\"In the same way, though I was born and grew up in the world, "
+            "I live having mastered the world, unsullied by the world.\" "
+            "The image describes full immersion in ordinary conditions "
+            "together with complete freedom from being defined by them — "
+            "not withdrawal from the world, but an unstained relationship "
+            "to it.",
+        ]),
+        ("Why this gives the vagga its name", [
+            "Pupphavagga (\"Flowers\") is named for this single image, "
+            "though only this one discourse among the vagga's ten actually "
+            "develops it — the same naming convention seen throughout "
+            "Khandhavagga, where a vagga takes its title from one "
+            "particularly memorable simile among several unrelated "
+            "discourses.",
+        ]),
+    ],
+    terms=[
+        ("loka", "the world — what the Buddha declines to dispute with, and what the lotus grows up out of and beyond"),
+        ("paṇḍita", "the astute, the wise — those whose own careful observation the teaching is said to agree with"),
+        ("paññāpeti", "to explain, to make known — what the Realized One does with each aggregate once understood"),
+        ("upalitta", "sullied, smeared, stuck to — what the lotus, and the awakened one, are said not to be"),
+        ("uppanna", "arisen, sprouted, born — describing both the lotus in the water and the Buddha within the world"),
+    ],
+    text_intro=("The full discourse: the opening declaration of non-dispute, the "
+        "existence/non-existence formula, the rhetorical close, and the "
+        "closing lotus simile. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.94:1.1-1.5"),
+        ("p", "§2", "sn22.94:2.1-2.7"),
+        ("p", "§3", "sn22.94:3.1-3.5"),
+        ("p", "§4", "sn22.94:4.1-4.2"),
+        ("p", "§5", "sn22.94:5.1-5.3"),
+        ("p", "§6", "sn22.94:6.1"),
+        ("p", "§7", "sn22.94:6.2-6.6"),
+        ("p", "§8", "sn22.94:7.1"),
+        ("p", "§9", "sn22.94:8.1-8.2"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha say about disputing with the world?",
+         "opts": [
+             "\"I do not dispute with the world; it is the world that disputes with me\"",
+             "\"The world and I have always agreed on everything\"",
+             "\"I dispute constantly with careful observers\"",
+             "\"The world has no opinion worth considering\""],
+         "correct": 0,
+         "expl": "One of the most quoted single lines in the whole Pali Canon."},
+        {"q": "What does the Buddha say does not exist, agreeing with the astute?",
+         "opts": [
+             "A permanent, eternal, imperishable aggregate",
+             "Impermanent phenomena",
+             "The world itself",
+             "Suffering"],
+         "correct": 0,
+         "expl": "The Buddha aligns his teaching with what careful observers would themselves conclude."},
+        {"q": "What rhetorical question closes the opening section?",
+         "opts": [
+             "\"What can I do about a foolish ordinary person, blind and sightless, who does not know or see?\"",
+             "\"Why does no one listen to me?\"",
+             "\"What is the point of teaching at all?\"",
+             "\"Who among you understands this already?\""],
+         "correct": 0,
+         "expl": "An unusually direct statement about the limits of what teaching alone can accomplish."},
+        {"q": "What does the closing simile compare to a lotus?",
+         "opts": [
+             "The Buddha's own relationship to the world",
+             "The nature of the five aggregates",
+             "The process of meditation itself",
+             "The structure of the sangha"],
+         "correct": 0,
+         "expl": "Born and grown in water, yet rising above it unsullied — describing the Buddha, not the aggregates directly."},
+        {"q": "According to the simile, where does the lotus grow?",
+         "opts": [
+             "In the water, sprouting and growing there before rising above it",
+             "On dry land, never touching water",
+             "Floating freely with no roots at all",
+             "Underground, never seeing water"],
+         "correct": 0,
+         "expl": "The lotus depends entirely on the water it grows in — it does not stand apart from it."},
+        {"q": "What happens to the lotus once it rises above the water?",
+         "opts": [
+             "It stands with no water clinging to it",
+             "It immediately wilts and dies",
+             "It sinks back down again",
+             "It becomes a different plant entirely"],
+         "correct": 0,
+         "expl": "Full immersion in its origin, together with complete freedom from being defined by it."},
+        {"q": "What does the Buddha say about his own birth and growth?",
+         "opts": [
+             "\"Though I was born and grew up in the world, I live having mastered the world, unsullied by the world\"",
+             "\"I was never part of the world at all\"",
+             "\"The world has nothing to do with my awakening\"",
+             "\"I reject everything the world offers\""],
+         "correct": 0,
+         "expl": "The lotus image describes immersion together with freedom, not withdrawal or rejection."},
+        {"q": "Why is this discourse the namesake of Pupphavagga?",
+         "opts": [
+             "Its closing lotus image gives the vagga its title, \"Flowers\"",
+             "It is the only discourse in the vagga about plants",
+             "It discusses ten different kinds of flowers",
+             "It is the longest discourse in the vagga"],
+         "correct": 0,
+         "expl": "Only this discourse develops the flower image, though it names the whole ten-discourse vagga."},
+        {"q": "What is the Buddha said to do with each aggregate that ordinary people do not?",
+         "opts": [
+             "Understand and comprehend it fully, explaining it as a worldly phenomenon in the world",
+             "Deny that it exists at all",
+             "Transform it into something else entirely",
+             "Refuse to discuss it"],
+         "correct": 0,
+         "expl": "The difference lies in clear seeing and accurate naming, not in a different set of phenomena."},
+        {"q": "What overall relationship to ordinary life does this discourse describe?",
+         "opts": [
+             "Full immersion in the world together with complete freedom from being defined by it",
+             "Total withdrawal from all worldly contact",
+             "Constant conflict with ordinary people's views",
+             "Indifference to whether the teaching is understood"],
+         "correct": 0,
+         "expl": "Neither escape from the world nor identification with it, but an unstained relationship within it."},
+    ],
+    marginalia=[
+        ("The line quoted more than almost any other", [
+            "\"I do not dispute with the world\" &mdash;",
+            "agreement with careful observation, not novelty",
+        ]),
+        ("A rare moment of direct rhetorical force", [
+            "\"blind and sightless, who does not know or see\" &mdash;",
+            "naming the limit of what teaching alone can do",
+        ]),
+        ("Born in water, standing clear of it", [
+            "the lotus rises unsullied &mdash;",
+            "immersion and freedom held together, not opposed",
+        ]),
+        ("Giving Pupphavagga its name", [
+            "one image among ten unrelated discourses &mdash;",
+            "the vagga's title drawn from its single most memorable line",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.94/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.93.html">SN 22.93 &middot; A River</a> '
+        "&mdash; the previous discourse, opening this vagga with a very "
+        "different image of instability.",
+        '<a href="sn-22.95.html">SN 22.95 &middot; A Lump of Foam</a> '
+        "&mdash; the next discourse, this vagga's own most famous set of "
+        "similes for the five aggregates.",
+    ],
+)
+
+page(22, 95, "Pheṇapiṇḍūpama", "A Lump of Foam",
+    vagga="Pupphavagga",
+    meta_title="SN 22.95 · A Lump of Foam — Five Similes for the Five Aggregates",
+    meta_desc="Form like foam, feeling like a bubble, perception like a "
+        "mirage, choices like a banana trunk, consciousness like an "
+        "illusion — the Phenapiṇḍūpamasutta, Saṃyutta Nikāya 22.95, with "
+        "Pāli and closing verses.",
+    glance=[
+        ("Setting", "Ayodhyā, on the bank of the Ganges river"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "Five similes, one per aggregate, followed by closing verses"),
+        ("Length", "Medium — five parallel prose sections plus a verse summary"),
+        ("Northern parallel", "A close Sanskrit parallel exists in the Saṃyukta Āgama, and the discourse is widely cited"),
+        ("Difficulty", "Approachable — the images are vivid and self-explanatory, though the verses reward slower reading"),
+    ],
+    why=("Perhaps the single most famous discourse for describing what each "
+        "of the five aggregates is actually like: form a lump of foam, "
+        "feeling a water bubble, perception a mirage, choices a hollow "
+        "banana trunk, consciousness a magician's illusion. Set on the "
+        "bank of the Ganges, with the moving river itself supplying the "
+        "first and last images."),
+    guide=[
+        ("Five images, one method", [
+            "Each simile follows an identical structure: something that "
+            "looks substantial from a distance turns out, on close and "
+            "rational examination, to be \"completely vacuous, hollow, and "
+            "insubstantial\" — and the corresponding aggregate is said to "
+            "be the same, examined the same way.",
+            "Form is like a lump of foam carried on the Ganges — bulky in "
+            "appearance, empty on inspection. Feeling is like a bubble that "
+            "forms and pops right away in autumn rain — momentary by "
+            "nature. Perception is like a shimmering noon mirage in the "
+            "hot season — convincing at a distance, nothing up close.",
+        ]),
+        ("Choices and consciousness", [
+            "Choices are like a banana trunk: someone searching for "
+            "heartwood cuts one down, unrolls its coiled sheaths layer by "
+            "layer, and finds no sapwood, let alone heartwood — only more "
+            "layers, all the way through.",
+            "Consciousness is like a magic trick performed at a crossroads "
+            "— convincing in the moment of display, with nothing behind "
+            "it once examined. This closes the set of five, moving from "
+            "the visibly composite (foam, a bubble) to the actively "
+            "deceptive (a mirage, an illusion).",
+        ]),
+        ("The verses: two images, one for the living, one after death", [
+            "The prose closes into verse, restating all five similes in a "
+            "single compressed stanza, then turns to what happens \"when "
+            "vitality, warmth, and consciousness leave this body\" — it "
+            "\"lies dumped there, food for others, insentient,\" called "
+            "\"this illusion, this lament of fools,\" since \"no core is "
+            "found here.\"",
+            "The verses end with practical urgency rather than bare "
+            "description: examine the aggregates \"by day or by night,\" "
+            "give up all fetters, and \"live as though their head was on "
+            "fire, aspiring to the state that does not pass\" — turning "
+            "the five similes from description into a spur to practice.",
+        ]),
+        ("Setting and structural role", [
+            "The Ganges setting is not incidental: three of the five "
+            "images (foam, a bubble, and the river itself as backdrop) are "
+            "drawn directly from the water the Buddha and the mendicants "
+            "are standing beside, grounding an abstract analysis in what "
+            "was immediately visible.",
+            "This is Pupphavagga's own most quoted discourse, and among "
+            "the most quoted in the whole of Khandhavagga — the five "
+            "similes are frequently cited independently of their source "
+            "discourse.",
+        ]),
+    ],
+    terms=[
+        ("pheṇapiṇḍa", "a lump of foam — the image for form, carried along the Ganges"),
+        ("bubbuḷa", "a water bubble — the image for feeling, forming and popping at once"),
+        ("marīci", "a mirage — the image for perception, convincing only from a distance"),
+        ("kadalikkhandha", "a banana trunk — the image for choices, layer upon layer with no heartwood inside"),
+        ("māyā", "a magic trick, an illusion — the image for consciousness, performed at a crossroads"),
+    ],
+    text_intro=("The full discourse: all five similes in prose, the disillusionment "
+        "and freedom that follow from seeing them clearly, and the closing "
+        "verses. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.95:1.1-1.2"),
+        ("p", "§2", "sn22.95:2.1-2.2"),
+        ("p", "§3", "sn22.95:3.1-3.2"),
+        ("p", "§4", "sn22.95:4.1-4.2"),
+        ("p", "§5", "sn22.95:5.1-5.2"),
+        ("p", "§6", "sn22.95:6.1-6.2"),
+        ("p", "§7", "sn22.95:7.1-7.3"),
+        ("p", "§8", "sn22.95:8.1-8.2"),
+        ("p", "§9", "sn22.95:9.1-9.6"),
+        ("p", "§10", "sn22.95:10.1-10.4"),
+        ("p", "§11", "sn22.95:11.1-11.4"),
+        ("p", "§12", "sn22.95:12.1-12.4"),
+        ("p", "§13", "sn22.95:13.1-13.4"),
+        ("p", "§14", "sn22.95:14.1-14.4"),
+        ("p", "§15", "sn22.95:15.1-15.4"),
+    ],
+    quiz=[
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Ayodhyā, on the bank of the Ganges river",
+             "Sāvatthī, in Jeta's Grove",
+             "Rājagaha, on the Vulture's Peak",
+             "Vesālī, in the Great Wood"],
+         "correct": 0,
+         "expl": "The river setting directly supplies several of the discourse's own images."},
+        {"q": "What is form compared to?",
+         "opts": [
+             "A lump of foam",
+             "A bubble",
+             "A mirage",
+             "A magic trick"],
+         "correct": 0,
+         "expl": "Bulky in appearance, carried on the Ganges, empty on inspection."},
+        {"q": "What is feeling compared to?",
+         "opts": [
+             "A bubble on the water that pops right away",
+             "A lump of foam",
+             "A banana trunk",
+             "An illusion at a crossroads"],
+         "correct": 0,
+         "expl": "Forming and popping at once in autumn rain — momentary by nature."},
+        {"q": "What is perception compared to?",
+         "opts": [
+             "A shimmering mirage at noon in the hot season",
+             "A magic trick",
+             "A river current",
+             "A banana trunk"],
+         "correct": 0,
+         "expl": "Convincing from a distance, nothing there up close."},
+        {"q": "What does a person searching a banana trunk for heartwood find?",
+         "opts": [
+             "Not even sapwood, let alone heartwood — only coiled sheaths all the way through",
+             "Solid heartwood at the center",
+             "Nothing at all, not even sheaths",
+             "A different tree entirely"],
+         "correct": 0,
+         "expl": "The image for choices — layer upon layer with no solid core inside."},
+        {"q": "What is consciousness compared to?",
+         "opts": [
+             "A magic trick performed at a crossroads",
+             "A lump of foam",
+             "A water bubble",
+             "A banana trunk"],
+         "correct": 0,
+         "expl": "Convincing in the moment of display, nothing behind it once examined."},
+        {"q": "What do the closing verses say happens when vitality, warmth, and consciousness leave the body?",
+         "opts": [
+             "It lies dumped there, food for others, insentient",
+             "It transforms into a permanent essence",
+             "Nothing changes at all",
+             "It becomes a new kind of aggregate"],
+         "correct": 0,
+         "expl": "Called \"this illusion, this lament of fools,\" since no core is found there."},
+        {"q": "What practical instruction closes the verses?",
+         "opts": [
+             "Live as though your head was on fire, aspiring to the state that does not pass",
+             "Wait patiently without any urgency",
+             "Avoid examining the aggregates directly",
+             "Focus only on form, ignoring the other aggregates"],
+         "correct": 0,
+         "expl": "Turning the five similes from description into a spur to urgent practice."},
+        {"q": "What single quality do all five similes share?",
+         "opts": [
+             "Something that looks substantial from a distance proves vacuous, hollow, and insubstantial on close examination",
+             "Something that is solid and permanent throughout",
+             "Something unrelated to the five aggregates",
+             "Something that only applies to advanced meditators"],
+         "correct": 0,
+         "expl": "The identical structure repeated across all five images."},
+        {"q": "How does this discourse's structure compare to SN 22.93's river simile?",
+         "opts": [
+             "Five distinct images, one per aggregate, rather than one image applied identically across all five",
+             "The exact same single image repeated five times",
+             "No similes at all, only direct statement",
+             "A dialogue format with questions and answers"],
+         "correct": 0,
+         "expl": "SN 22.93 uses one image for all five aggregates; SN 22.95 gives each aggregate its own distinct image."},
+    ],
+    marginalia=[
+        ("Five images, on the bank of the Ganges itself", [
+            "foam, a bubble, a mirage, a banana trunk, an illusion &mdash;",
+            "each aggregate given its own exact likeness",
+        ]),
+        ("No heartwood, however far the sheaths unroll", [
+            "layer after layer, and nothing solid inside &mdash;",
+            "choices examined the way a woodcutter examines a trunk",
+        ]),
+        ("What is left when vitality departs", [
+            "\"food for others, insentient\" &mdash;",
+            "no core found here, called an illusion, a lament of fools",
+        ]),
+        ("Urgency as the verses' final note", [
+            "\"as though their head was on fire\" &mdash;",
+            "aspiring to the state that does not pass",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.95/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.94.html">SN 22.94 &middot; Flowers</a> '
+        "&mdash; the previous discourse, this vagga's own namesake.",
+        '<a href="sn-22.96.html">SN 22.96 &middot; A Lump of Cow Dung</a> '
+        "&mdash; the next discourse, another concrete object turned into a "
+        "teaching on impermanence.",
+    ],
+)
+
+page(22, 96, "Gomayapiṇḍa", "A Lump of Cow Dung",
+    vagga="Pupphavagga",
+    meta_title="SN 22.96 · A Lump of Cow Dung — Not Even This Much",
+    meta_desc="A lump of cow dung, and a wheel-turning monarch's 84,000 of "
+        "everything, reduced to one used possession at a time — Saṃyutta "
+        "Nikāya 22.96, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "An unnamed mendicant questioning the Buddha; the Buddha's answer"),
+        ("Form", "A question-and-answer opening, a physical gesture, then an extended first-person royal narrative"),
+        ("Length", "Long for this vagga — the royal catalogue is the most detailed of its kind in Khandhavagga"),
+        ("Northern parallel", "The wheel-turning monarch catalogue recurs elsewhere in the Canon in similar form"),
+        ("Difficulty", "Approachable — the royal list is vivid, though its repetitive structure rewards a second read"),
+    ],
+    why=("The Buddha picks up an actual lump of cow dung to make a point no "
+        "abstraction could make as sharply: \"there's not even this much\" "
+        "permanence anywhere in existence. Then, in a rare extended "
+        "first-person narrative, recounts his own past life as a "
+        "wheel-turning monarch with 84,000 of everything — of which he "
+        "ever actually used only one."),
+    guide=[
+        ("The question and the gesture", [
+            "A mendicant asks whether any aggregate at all is permanent, "
+            "everlasting, eternal, imperishable — and the Buddha answers "
+            "no, aggregate by aggregate, before physically picking up a "
+            "lump of cow dung to make the same point in an even smaller "
+            "measure.",
+            "\"There's not even this much of any incarnation\" that is "
+            "permanent — the gesture converts an abstract denial into "
+            "something the mendicants could see held in the Buddha's own "
+            "hand.",
+        ]),
+        ("Why the absence of permanence is good news", [
+            "\"If there were, this living of the spiritual life for the "
+            "complete ending of suffering would not be found. But since "
+            "there isn't, this living of the spiritual life for the "
+            "complete ending of suffering is found.\"",
+            "This reverses an intuition: permanence is not treated as "
+            "something to mourn the absence of, but as the very thing "
+            "whose absence makes liberation possible at all. A truly fixed "
+            "aggregate would make the spiritual path pointless.",
+        ]),
+        ("The wheel-turning monarch's catalogue", [
+            "The Buddha recounts a past life as an anointed king with "
+            "84,000 each of cities, palaces, chambers, couches, elephants, "
+            "horses, chariots, jewels, women, vassals, and milk cows, plus "
+            "8,400,000,000 cloths and 84,000 daily food offerings — one of "
+            "the most elaborate catalogues of royal abundance anywhere in "
+            "the Canon.",
+            "Each category names a single foremost item: the capital "
+            "Kusāvatī among 84,000 cities, the Palace of Principle among "
+            "84,000 palaces, the bull elephant Sabbath, the horse "
+            "Thundercloud, the chariot Triumph, Queen Subhaddā among "
+            "84,000 women.",
+        ]),
+        ("One used, all the rest merely possessed", [
+            "The catalogue's second half repeats the same list, but each "
+            "time naming only the single item actually used: one city "
+            "stayed in, one palace dwelt in, one elephant ridden, one meal "
+            "eaten — \"at most a cup of rice with suitable sauce.\"",
+            "The discourse closes not with the abundance but with its "
+            "passing: \"all those conditioned phenomena have passed, "
+            "ceased, and perished\" — a king's own vast possessions "
+            "reduced, in the end, to the same impermanence as a lump of "
+            "cow dung.",
+        ]),
+    ],
+    terms=[
+        ("gomaya", "cow dung — the small, unglamorous object the Buddha picks up to make his point"),
+        ("cakkavattī", "a wheel-turning monarch, a universal ruler — the past-life identity the Buddha recounts here"),
+        ("Kusāvatī", "the capital city, foremost among the monarch's 84,000 cities"),
+        ("saṅkhāra", "conditioned phenomena — what the entire catalogue of royal possessions is finally said to be, all impermanent"),
+        ("nibbindati virajjati vimuccati", "grows disillusioned, desire fades, one is freed — the closing formula this catalogue is meant to prompt"),
+    ],
+    text_intro=("The opening question and gesture, followed by the wheel-turning "
+        "monarch's full catalogue of possessions, both possessed and used. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.96:1.1-1.7"),
+        ("p", "§2", "sn22.96:1.8-1.12"),
+        ("p", "§3", "sn22.96:2.1-2.4"),
+        ("p", "§4", "sn22.96:3.1-3.14"),
+        ("p", "§5", "sn22.96:4.1-4.15"),
+    ],
+    quiz=[
+        {"q": "What object does the Buddha physically pick up in this discourse?",
+         "opts": [
+             "A lump of cow dung",
+             "A handful of leaves",
+             "A grain of rice",
+             "A piece of cloth"],
+         "correct": 0,
+         "expl": "Used to make the point about permanence in the smallest possible physical measure."},
+        {"q": "What does the Buddha say about the absence of anything permanent?",
+         "opts": [
+             "It is what makes the spiritual life for the ending of suffering possible at all",
+             "It makes the spiritual life pointless",
+             "It has no bearing on the spiritual life",
+             "It is a problem to be overcome through practice"],
+         "correct": 0,
+         "expl": "A truly permanent aggregate would make liberation from it impossible."},
+        {"q": "What was the Buddha's past-life identity in this discourse's narrative?",
+         "opts": [
+             "An anointed aristocratic wheel-turning king",
+             "A humble farmer",
+             "A wandering ascetic",
+             "A merchant"],
+         "correct": 0,
+         "expl": "Recounting one of his own past lives, in a rare extended first-person narrative."},
+        {"q": "How many cities, palaces, and similar possessions did this king have?",
+         "opts": [
+             "84,000 of each",
+             "100 of each",
+             "1,000 of each",
+             "10 of each"],
+         "correct": 0,
+         "expl": "A number repeated across every category in the catalogue."},
+        {"q": "What was the foremost among the king's 84,000 cities?",
+         "opts": [
+             "The capital Kusāvatī",
+             "Sāvatthī",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Each category names one foremost example among its 84,000."},
+        {"q": "Of the 84,000 cities, how many did the king actually stay in?",
+         "opts": [
+             "Only one, the capital Kusāvatī",
+             "All 84,000, in rotation",
+             "Half of them",
+             "None at all"],
+         "correct": 0,
+         "expl": "The catalogue's second half shows only one item from each category was ever actually used."},
+        {"q": "What food did the king actually eat, of his 84,000 daily servings?",
+         "opts": [
+             "At most a cup of rice with suitable sauce",
+             "All 84,000 servings in a single day",
+             "Nothing at all",
+             "Only fruit"],
+         "correct": 0,
+         "expl": "A striking contrast between the scale of possession and the scale of actual use."},
+        {"q": "How does the discourse describe all those royal possessions in the end?",
+         "opts": [
+             "All those conditioned phenomena have passed, ceased, and perished",
+             "They remain permanently in the Buddha's possession",
+             "They were transferred to another king",
+             "They never actually existed"],
+         "correct": 0,
+         "expl": "The catalogue's abundance is finally subject to the same impermanence as the lump of cow dung."},
+        {"q": "What is the relationship between the cow dung image and the royal catalogue?",
+         "opts": [
+             "Both illustrate the same point about impermanence, at opposite scales of magnitude",
+             "They make contradictory points",
+             "The royal catalogue disproves the cow dung's lesson",
+             "They are entirely unrelated topics"],
+         "correct": 0,
+         "expl": "A tiny lump of dung and a king's vast fortune are shown to share the identical fate."},
+        {"q": "What does the discourse conclude is \"quite enough\" reason for disillusionment?",
+         "opts": [
+             "How impermanent, unstable, and unreliable all conditions are",
+             "The size of the king's fortune alone",
+             "The number of cities the king had",
+             "The name of the king's chief queen"],
+         "correct": 0,
+         "expl": "The closing line draws the explicit moral from the entire catalogue."},
+    ],
+    marginalia=[
+        ("A gesture, not just an argument", [
+            "\"not even this much\" &mdash;",
+            "permanence denied in the smallest physical measure",
+        ]),
+        ("Absence of the fixed as the condition for freedom", [
+            "if there were, the path would be pointless &mdash;",
+            "since there isn't, the path is found",
+        ]),
+        ("84,000 of everything, one of each ever used", [
+            "the capital, the palace, the elephant, the meal &mdash;",
+            "vast possession collapsed into a single cup of rice",
+        ]),
+        ("A king's fortune, a lump of dung, the same fate", [
+            "passed, ceased, and perished alike &mdash;",
+            "scale offers no exemption from impermanence",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.96/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.95.html">SN 22.95 &middot; A Lump of Foam</a> '
+        "&mdash; the previous discourse, this vagga's own set of five "
+        "similes for the aggregates.",
+        '<a href="sn-22.97.html">SN 22.97 &middot; A Fingernail</a> '
+        "&mdash; the next discourse, making the identical point with an "
+        "even smaller measure.",
+    ],
+)
+
+page(22, 97, "Nakhasikha", "A Fingernail",
+    vagga="Pupphavagga",
+    meta_title="SN 22.97 · A Fingernail — Not Even This Much of Any Aggregate",
+    meta_desc="A little dirt on the Buddha's fingernail, the smallest "
+        "measure yet for the same denial of permanence, closing with the "
+        "standard threefold-truly-see formula. Saṃyutta Nikāya 22.97, with "
+        "Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "An unnamed mendicant questioning the Buddha; the Buddha's answer"),
+        ("Form", "The same question-and-gesture opening as SN 22.96, at a smaller scale, then the standard closing formula"),
+        ("Length", "Short — the gesture itself is the entire content beyond the closing formula"),
+        ("Northern parallel", "No known direct parallel; paired closely with SN 22.96 within the Pali collection itself"),
+        ("Difficulty", "Approachable — deliberately the simplest possible version of the point"),
+    ],
+    why=("The companion discourse to SN 22.96, now with a fingernail's worth "
+        "of dirt instead of a lump of dung — the smallest measure the "
+        "Buddha uses anywhere in this vagga to deny that any aggregate "
+        "holds even a trace of permanence."),
+    guide=[
+        ("Repeating the opening, shrinking the measure", [
+            "The same mendicant's question and the Buddha's same denial "
+            "open this discourse exactly as in SN 22.96 — but where that "
+            "discourse used a lump of cow dung, this one uses \"a little "
+            "bit of dirt on his fingernail,\" the smallest physical "
+            "quantity used anywhere in Khandhavagga for this point.",
+            "The shrinking measure is itself the argument: however small a "
+            "unit one names, permanence is denied at exactly that scale "
+            "too — there is no minimum size at which the rule might stop "
+            "applying.",
+        ]),
+        ("Applied across all five aggregates explicitly", [
+            "Unlike SN 22.96, which develops mainly the wheel-turning "
+            "monarch narrative, this discourse repeats the fingernail "
+            "denial for feeling, perception, choices, and consciousness in "
+            "turn — the smallest measure applied systematically to each "
+            "aggregate rather than left to a single example.",
+        ]),
+        ("Closing into the standard formula", [
+            "The discourse ends with Khandhavagga's most familiar closing "
+            "sequence: is form permanent or impermanent? Impermanent. And "
+            "so for each aggregate — leading to \"they truly see... they "
+            "understand: there is nothing further for this place.\"",
+            "This closing formula, compressed here with ellipses in the "
+            "source text itself, is the same one that closes dozens of "
+            "discourses across this book, confirming this as one of "
+            "Khandhavagga's many variations on its single core teaching.",
+        ]),
+        ("Why the pairing with SN 22.96 matters", [
+            "Reading SN 22.96 and SN 22.97 together shows the collection's "
+            "own method: the same insight is restated at different scales "
+            "and with different objects — cow dung, then a fingernail's "
+            "worth of dirt — so that no single image can be mistaken for "
+            "the point itself, only for one illustration of it.",
+        ]),
+    ],
+    terms=[
+        ("nakhasikhā", "fingernail's tip — the tiny quantity of dirt named in the simile"),
+        ("paṁsu", "dirt, dust — what sits on the fingernail in the image"),
+        ("sāsanaṁ", "teaching, dispensation — implicit in the closing formula's confirmation that the path is properly followed"),
+        ("evaṁ passaṁ", "seeing in this way — the opening of the closing disillusionment formula"),
+        ("nāparaṁ itthattāyā", "\"there is nothing further for this place\" — the formula's final declaration of completed liberation"),
+    ],
+    text_intro=("The opening question, the fingernail gesture repeated across all "
+        "five aggregates, and the closing standard formula. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.97:1.1-1.7"),
+        ("p", "§2", "sn22.97:1.8-1.12"),
+        ("p", "§3", "sn22.97:2.1-2.4"),
+        ("p", "§4", "sn22.97:3.1-5.3"),
+        ("p", "§5", "sn22.97:6.1-6.11"),
+    ],
+    quiz=[
+        {"q": "What object does the Buddha use in this discourse to make his point?",
+         "opts": [
+             "A little bit of dirt on his fingernail",
+             "A lump of cow dung",
+             "A handful of sand",
+             "A single leaf"],
+         "correct": 0,
+         "expl": "The smallest physical measure used anywhere in Khandhavagga for this argument."},
+        {"q": "How does this discourse relate to SN 22.96?",
+         "opts": [
+             "It is a companion discourse making the same point with an even smaller measure",
+             "It directly contradicts SN 22.96's teaching",
+             "It has no thematic connection to SN 22.96",
+             "It replaces SN 22.96's teaching entirely"],
+         "correct": 0,
+         "expl": "Both discourses share the same opening question-and-gesture structure."},
+        {"q": "Is the fingernail denial applied to all five aggregates, or only form?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Unlike SN 22.96's focus on the royal narrative, this discourse applies the measure systematically to each aggregate."},
+        {"q": "What does the shrinking measure across SN 22.96 and 22.97 demonstrate?",
+         "opts": [
+             "There is no minimum size at which the denial of permanence stops applying",
+             "Smaller objects are more permanent than larger ones",
+             "The teaching only applies to large quantities",
+             "The two discourses measure completely different things"],
+         "correct": 0,
+         "expl": "However small a unit is named, permanence is denied at exactly that scale too."},
+        {"q": "What closing formula does this discourse end with?",
+         "opts": [
+             "The standard truly-see formula ending in \"there is nothing further for this place\"",
+             "The elevenfold scope formula",
+             "The fourfold self-identification formula",
+             "A unique formula found nowhere else in the book"],
+         "correct": 0,
+         "expl": "One of Khandhavagga's most familiar recurring closing sequences."},
+        {"q": "What question does the Buddha ask about each aggregate near the close?",
+         "opts": [
+             "Whether it is permanent or impermanent",
+             "Whether it is large or small",
+             "Whether it belongs to oneself or another",
+             "Whether it can be seen or not"],
+         "correct": 0,
+         "expl": "Leading directly into the standard disillusionment and liberation sequence."},
+        {"q": "Why does the collection restate the same core insight with different objects like dung and fingernail dirt?",
+         "opts": [
+             "So no single image is mistaken for the point itself, only for one illustration of it",
+             "To make the teaching more difficult to understand",
+             "Because the objects themselves carry independent doctrinal significance",
+             "To pad out the length of the collection"],
+         "correct": 0,
+         "expl": "Reading the paired discourses together reveals the collection's method of variation on a single core teaching."},
+        {"q": "What would the presence of even a trace of permanence in an aggregate mean, according to this teaching?",
+         "opts": [
+             "The spiritual life for the complete ending of suffering would not be found",
+             "The spiritual life would be easier to complete",
+             "It would have no effect on the spiritual life",
+             "It would only affect advanced practitioners"],
+         "correct": 0,
+         "expl": "Echoing SN 22.96's own reasoning about why absence of permanence makes the path possible."},
+        {"q": "How is the mendicant's opening question in this discourse structured?",
+         "opts": [
+             "Identical to SN 22.96's opening question, asking whether any aggregate is permanent",
+             "A completely different question about the nature of consciousness",
+             "A question about how to attain a permanent self",
+             "A question about the age of the universe"],
+         "correct": 0,
+         "expl": "The two discourses share the same question-and-answer opening structure."},
+        {"q": "What is the overall relationship between form and content in this pair of discourses?",
+         "opts": [
+             "The physical smallness of the chosen object mirrors and reinforces the point being made about absence of permanence",
+             "The object chosen has no relationship to the content of the teaching",
+             "Larger objects are used to teach more important points",
+             "The objects are chosen at random with no significance"],
+         "correct": 0,
+         "expl": "A fingernail's worth of dirt is deliberately smaller even than the already-modest lump of dung in SN 22.96."},
+    ],
+    marginalia=[
+        ("Smaller still than a lump of dung", [
+            "a fingernail's worth of dirt &mdash;",
+            "no measure small enough to hold an exception",
+        ]),
+        ("The denial applied to all five in turn", [
+            "form, feeling, perception, choices, consciousness &mdash;",
+            "the same \"not even this much\" repeated across each",
+        ]),
+        ("The familiar closing formula returns", [
+            "impermanent, therefore not fit to call self &mdash;",
+            "\"nothing further for this place,\" stated once more",
+        ]),
+        ("A paired teaching, not a repeated one", [
+            "cow dung, then fingernail dirt &mdash;",
+            "the same insight, restated so no single image can stand in for it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.97/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.96.html">SN 22.96 &middot; A Lump of Cow Dung</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "companion.",
+        '<a href="sn-22.98.html">SN 22.98 &middot; Plain Version</a> '
+        "&mdash; the next discourse, stripping the same question down to "
+        "its barest form.",
+    ],
+)
+
+page(22, 98, "Suddhika", "Plain Version",
+    vagga="Pupphavagga",
+    meta_title="SN 22.98 · Plain Version — The Question Alone, No Gesture",
+    meta_desc="The bare question-and-answer shared by SN 22.96 and 22.97, "
+        "given here with no object, no gesture, and no narrative — the "
+        "\"plain version\" of the same denial. Saṃyutta Nikāya 22.98, with "
+        "Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "An unnamed mendicant questioning the Buddha; the Buddha's answer"),
+        ("Form", "The bare question-and-answer alone, with no simile, gesture, or narrative attached"),
+        ("Length", "The shortest discourse in this vagga"),
+        ("Northern parallel", "No known direct parallel; its brevity is a feature of the Pali collection's own organizing method"),
+        ("Difficulty", "Very approachable — there is nothing beyond the question and answer themselves"),
+    ],
+    why=("Titled \"Plain Version\" (Suddhika) in the source text itself — "
+        "this discourse takes the identical question-and-answer shared "
+        "with SN 22.96 and SN 22.97, but strips away the lump of dung, "
+        "the fingernail dirt, and the closing formula alike, leaving only "
+        "the bare denial on its own."),
+    guide=[
+        ("What \"plain\" means here", [
+            "The Pali title Suddhika, rendered \"Plain Version,\" marks "
+            "this discourse as a deliberately unadorned restatement — the "
+            "same mendicant's question about permanence, and the same "
+            "denial, without any accompanying object, gesture, or "
+            "narrative frame.",
+            "Where SN 22.96 supplies a lump of cow dung and a "
+            "wheel-turning monarch's story, and SN 22.97 supplies a "
+            "fingernail's worth of dirt, SN 22.98 supplies nothing beyond "
+            "the question and the answer.",
+        ]),
+        ("A method visible across the triad", [
+            "Reading SN 22.96, 22.97, and 22.98 together makes explicit "
+            "what the collection's editors were doing: presenting one "
+            "core teaching first with an elaborate illustration, then a "
+            "minimal one, then none at all — moving from image to bare "
+            "statement.",
+            "This stripped-down placement is itself instructive: once an "
+            "insight has been shown through images at two different "
+            "scales, the collection trusts it to stand without any image "
+            "at all.",
+        ]),
+        ("The content of the bare question", [
+            "\"Is there any form at all that's permanent, everlasting, "
+            "eternal, imperishable, and will last forever and ever?\" — "
+            "asked and answered identically for feeling, perception, "
+            "choices, and consciousness — the same fivefold negation "
+            "found throughout this short run of discourses.",
+        ]),
+        ("Its place in Pupphavagga", [
+            "This is the exact numerical and thematic midpoint of the "
+            "vagga's ten discourses — after the two similes of "
+            "instability (river, foam-lump-and-companions) and before the "
+            "two leash similes and the closing Adze and Impermanence "
+            "discourses, this bare restatement functions as a brief pause "
+            "between two more elaborately imaged pairs.",
+        ]),
+    ],
+    terms=[
+        ("suddhika", "plain, bare, unmixed — the title marking this discourse's stripped-down form"),
+        ("nicca", "permanent — the quality denied of every aggregate"),
+        ("dhuva", "everlasting, stable — paired with nicca in the fourfold denial formula"),
+        ("sassata", "eternal — a further term in the same formula"),
+        ("avipariṇāmadhamma", "not subject to change — the final qualifier in the fourfold denial"),
+    ],
+    text_intro=("The complete bare question-and-answer, with no accompanying simile "
+        "or gesture. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.98:1.1-1.7"),
+        ("p", "§2", "sn22.98:1.8-1.12"),
+    ],
+    quiz=[
+        {"q": "What does the Pali title Suddhika mean?",
+         "opts": [
+             "Plain, bare, unmixed",
+             "Golden, adorned",
+             "Ancient, traditional",
+             "Hidden, secret"],
+         "correct": 0,
+         "expl": "Marking this discourse's deliberately stripped-down form."},
+        {"q": "What does this discourse include that SN 22.96 and 22.97 do not share?",
+         "opts": [
+             "Nothing — it strips away every object, gesture, and narrative frame the other two include",
+             "An entirely new simile not found elsewhere",
+             "A lengthy royal narrative",
+             "A closing verse section"],
+         "correct": 0,
+         "expl": "The bare question-and-answer alone, with no illustration attached."},
+        {"q": "What question is asked about each of the five aggregates?",
+         "opts": [
+             "Whether it is permanent, everlasting, eternal, imperishable, and lasting forever",
+             "Whether it can be seen with the eye",
+             "Whether it belongs to a particular person",
+             "Whether it arises before or after consciousness"],
+         "correct": 0,
+         "expl": "The same fivefold negation found throughout this run of discourses."},
+        {"q": "What pattern do SN 22.96, 22.97, and 22.98 form when read together?",
+         "opts": [
+             "A movement from an elaborate illustration, to a minimal one, to none at all",
+             "Three completely unrelated teachings",
+             "A single discourse artificially split into three",
+             "A step-by-step meditation instruction manual"],
+         "correct": 0,
+         "expl": "Moving from image to bare statement across the three discourses."},
+        {"q": "Where in Pupphavagga does this discourse fall?",
+         "opts": [
+             "The numerical and thematic midpoint of the vagga's ten discourses",
+             "The very first discourse of the vagga",
+             "The final discourse of the vagga",
+             "Outside the vagga's numbering entirely"],
+         "correct": 0,
+         "expl": "A brief pause between two more elaborately imaged pairs of discourses."},
+        {"q": "What is denied of form in this discourse?",
+         "opts": [
+             "That it is permanent, everlasting, eternal, imperishable, and will last forever and ever",
+             "That it exists at all",
+             "That it can be perceived",
+             "That it changes over time"],
+         "correct": 0,
+         "expl": "The identical denial applied to all five aggregates in turn."},
+        {"q": "Why might the collection place a bare, imageless discourse here?",
+         "opts": [
+             "To show the insight can stand without any image, once already illustrated at two scales",
+             "Because no suitable image could be found",
+             "By accident, with no editorial intention",
+             "To confuse readers before the closing discourses"],
+         "correct": 0,
+         "expl": "Trusting the teaching to stand on its own after two illustrated versions."},
+        {"q": "How does this discourse's length compare to others in Pupphavagga?",
+         "opts": [
+             "It is the shortest discourse in the vagga",
+             "It is the longest discourse in the vagga",
+             "It is exactly the same length as SN 22.96",
+             "It is longer than SN 22.95's five similes"],
+         "correct": 0,
+         "expl": "Consisting of only the bare question and answer, nothing more."},
+        {"q": "Which aggregates receive this same denial?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form and feeling",
+             "Only consciousness",
+             "Only choices"],
+         "correct": 0,
+         "expl": "The fivefold pattern repeated exactly as in SN 22.96 and 22.97."},
+        {"q": "What comes immediately after this discourse in the vagga?",
+         "opts": [
+             "SN 22.99, the first of two leash similes",
+             "SN 22.102, the vagga's closing discourse",
+             "A return to SN 22.93",
+             "The start of the next saṃyutta"],
+         "correct": 0,
+         "expl": "Continuing Pupphavagga's own sequence toward its close."},
+    ],
+    marginalia=[
+        ("Stripped down to the question alone", [
+            "no dung, no fingernail, no story &mdash;",
+            "the bare denial, trusted to stand by itself",
+        ]),
+        ("Three discourses, one method made visible", [
+            "elaborate, minimal, then none at all &mdash;",
+            "image giving way to plain statement",
+        ]),
+        ("The vagga's own quiet midpoint", [
+            "between two pairs of imaged discourses &mdash;",
+            "a brief pause before the leash similes begin",
+        ]),
+        ("The fivefold denial, once more", [
+            "not permanent, everlasting, eternal, imperishable &mdash;",
+            "form, feeling, perception, choices, consciousness alike",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.98/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.97.html">SN 22.97 &middot; A Fingernail</a> '
+        "&mdash; the previous discourse, the same question with the "
+        "smallest possible illustration.",
+        '<a href="sn-22.99.html">SN 22.99 &middot; A Leash</a> '
+        "&mdash; the next discourse, returning to simile with the image of "
+        "a tethered hound.",
+    ],
+)
+
+page(22, 99, "Gaddula", "A Leash",
+    vagga="Pupphavagga",
+    meta_title="SN 22.99 · A Leash — Running and Circling Around the Post",
+    meta_desc="A hound tethered to a post, running and circling endlessly "
+        "around it — the image for an unlearned person's endless circling "
+        "around the five aggregates. Saṃyutta Nikāya 22.99, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "An opening statement on beginningless transmigration, then a single simile applied to unlearned and learned alike"),
+        ("Length", "Medium — the transmigration statement and the simile are each fully developed"),
+        ("Northern parallel", "A Sanskrit parallel to the beginningless-transmigration statement is well attested elsewhere in the Canon"),
+        ("Difficulty", "Approachable — the image is vivid, though the opening cosmological statement rewards careful reading"),
+    ],
+    why=("Introduces the leash image that structures both this discourse "
+        "and its companion, SN 22.100: a hound tethered to a post runs and "
+        "circles endlessly around it, never getting anywhere — the exact "
+        "shape of an unlearned person's relationship to the five "
+        "aggregates, taken as self."),
+    guide=[
+        ("Beginningless transmigration", [
+            "The discourse opens on a cosmic scale: \"this transmigration "
+            "has no known beginning... no first point is found of "
+            "sentient beings roaming and transmigrating, shrouded by "
+            "ignorance and fettered by craving.\"",
+            "Even events of vast cosmic duration — the ocean drying up, "
+            "Mount Sineru burning away, the great earth itself being "
+            "destroyed — do not mark an end to suffering for beings still "
+            "shrouded by ignorance and craving. Scale of time offers no "
+            "escape on its own.",
+        ]),
+        ("The leash and the post", [
+            "\"A hound on a leash was tethered to a strong post or pillar. "
+            "It would just keep running and circling around that post or "
+            "pillar.\" The image is one of motion without progress — real "
+            "activity, real effort, but confined entirely to the radius "
+            "the leash allows.",
+            "An unlearned ordinary person, unskilled in the noble ones' "
+            "teaching, regards each aggregate through the fourfold "
+            "self-identification formula — as self, self as having it, it "
+            "in self, or self in it — and so \"keeps running and circling "
+            "around form, feeling, perception, choices, and "
+            "consciousness.\"",
+        ]),
+        ("Not freed, precisely because of the circling", [
+            "\"Doing so, they're not freed from form, feeling, perception, "
+            "choices, and consciousness. They're not freed from rebirth, "
+            "old age, and death.\" The circling is not incidental to their "
+            "bondage — it is the bondage, restated as motion rather than "
+            "as a static state.",
+        ]),
+        ("The learned disciple's freedom", [
+            "A learned noble disciple, by contrast, does not regard any "
+            "aggregate through that fourfold formula, and so \"doesn't "
+            "keep running and circling\" around the aggregates at all — "
+            "the same image applied in reverse, describing freedom as the "
+            "absence of the circling rather than as a different kind of "
+            "motion.",
+        ]),
+    ],
+    terms=[
+        ("gaddula", "a leash, a tether — the rope binding the hound to the post"),
+        ("thūṇa", "a strong post or pillar — what the leash is tied to"),
+        ("anamataggo", "without a known beginning — describing saṃsāra, transmigration itself"),
+        ("Sineru", "Mount Sineru (Sumeru), the mythic king of mountains at the center of the cosmos"),
+        ("dhāvati saṁdhāvati", "to run and circle, to keep running and circling — the exact verb pair describing the hound's motion"),
+    ],
+    text_intro=("The opening statement on beginningless transmigration, followed by "
+        "the leash simile applied first to the unlearned, then to the "
+        "learned noble disciple. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.99:1.1-1.9"),
+        ("p", "§2", "sn22.99:2.1-2.10"),
+        ("p", "§3", "sn22.99:3.1-3.9"),
+    ],
+    quiz=[
+        {"q": "What does the discourse say about the beginning of transmigration?",
+         "opts": [
+             "It has no known beginning; no first point is found",
+             "It began exactly when the universe was created",
+             "It began with the Buddha's own birth",
+             "It has a clearly documented starting point"],
+         "correct": 0,
+         "expl": "Opening on a cosmic scale before turning to the leash image."},
+        {"q": "What three cosmic events does the discourse name as eventually occurring?",
+         "opts": [
+             "The ocean drying up, Mount Sineru burning away, and the great earth being destroyed",
+             "The sun exploding, the moon vanishing, and the stars going dark",
+             "Three great floods across the world",
+             "Three great kings rising and falling"],
+         "correct": 0,
+         "expl": "Even vast cosmic destruction does not by itself end suffering for beings shrouded by ignorance."},
+        {"q": "What is the hound in the simile tethered to?",
+         "opts": [
+             "A strong post or pillar",
+             "A tree",
+             "A boat",
+             "Another hound"],
+         "correct": 0,
+         "expl": "The leash and post together define the exact radius of its motion."},
+        {"q": "What does the hound do, tethered to the post?",
+         "opts": [
+             "It just keeps running and circling around the post or pillar",
+             "It breaks free immediately",
+             "It sits perfectly still",
+             "It digs a hole to escape"],
+         "correct": 0,
+         "expl": "Real motion and effort, but confined entirely within the leash's radius."},
+        {"q": "What does the unlearned ordinary person do to each aggregate, according to the fourfold formula?",
+         "opts": [
+             "Regards it as self, self as having it, it in self, or self in it",
+             "Rejects it entirely as unreal",
+             "Ignores it completely",
+             "Transforms it into something else"],
+         "correct": 0,
+         "expl": "The same fourfold self-identification formula used throughout Khandhavagga."},
+        {"q": "What is the consequence of this circling around the aggregates?",
+         "opts": [
+             "Not being freed from the aggregates, or from rebirth, old age, and death",
+             "Immediate freedom from suffering",
+             "No consequence at all",
+             "Becoming a wheel-turning monarch"],
+         "correct": 0,
+         "expl": "The circling itself constitutes the bondage, not merely a symptom of it."},
+        {"q": "How does a learned noble disciple relate to the aggregates, by contrast?",
+         "opts": [
+             "They don't regard any aggregate through the fourfold formula, and so don't keep circling around them",
+             "They circle even more vigorously than the unlearned person",
+             "They avoid the aggregates entirely, refusing all contact",
+             "They transform the aggregates into a permanent self"],
+         "correct": 0,
+         "expl": "Freedom is described as the absence of the circling, using the same image in reverse."},
+        {"q": "What powers the beginningless transmigration, according to the opening statement?",
+         "opts": [
+             "Ignorance and craving",
+             "Cosmic cycles alone, with no inner cause",
+             "The gods' will",
+             "Pure chance"],
+         "correct": 0,
+         "expl": "Beings roam \"shrouded by ignorance and fettered by craving.\""},
+        {"q": "What title does this discourse share with SN 22.100?",
+         "opts": [
+             "Both are titled \"A Leash,\" as a pair using the same central image differently",
+             "They share no thematic connection",
+             "SN 22.100 is an unrelated discourse about a different topic",
+             "Both are titled \"Plain Version\""],
+         "correct": 0,
+         "expl": "SN 22.100 develops a related but distinct variation on the same tethered-hound image."},
+        {"q": "What does the leash image ultimately illustrate?",
+         "opts": [
+             "Motion and effort confined to bondage, versus freedom as the absence of that circling",
+             "The physical training of hounds in ancient India",
+             "The impossibility of any spiritual progress whatsoever",
+             "The superiority of learned people over unlearned ones in general knowledge"],
+         "correct": 0,
+         "expl": "A precise image for how self-view keeps activity bound to a fixed radius."},
+    ],
+    marginalia=[
+        ("Even cosmic destruction does not end it alone", [
+            "the ocean dried, the mountain burned away &mdash;",
+            "and still, no end of suffering without seeing clearly",
+        ]),
+        ("Running, circling, never leaving the post", [
+            "real motion, entirely confined &mdash;",
+            "the exact shape of self-view's endless activity",
+        ]),
+        ("The fourfold formula, driving the circling", [
+            "as self, self as having it, it in self, self in it &mdash;",
+            "form, feeling, perception, choices, consciousness alike",
+        ]),
+        ("Freedom described as the circling's absence", [
+            "no formula applied, no circling begun &mdash;",
+            "the same image, read now in reverse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.99/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.98.html">SN 22.98 &middot; Plain Version</a> '
+        "&mdash; the previous discourse, the bare question this simile now "
+        "illustrates.",
+        '<a href="sn-22.100.html">SN 22.100 &middot; A Leash (2nd)</a> '
+        "&mdash; the next discourse, developing the same tethered-hound "
+        "image in a different direction.",
+    ],
+)
+
+page(22, 100, "Dutiyagaddula", "A Leash (2nd)",
+    vagga="Pupphavagga",
+    meta_title="SN 22.100 · A Leash (2nd) — Staying Right Beside the Post",
+    meta_desc="The hound now stays beside the post at all times; the "
+        "painting named Conduct; and the mind more diverse than any "
+        "animal realm — Saṃyutta Nikāya 22.100, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A second leash simile, then two further similes — a painting, and an artist creating a human figure"),
+        ("Length", "Long for this vagga — three distinct images are developed in sequence"),
+        ("Northern parallel", "No known direct parallel; the painting simile is distinctive to this discourse"),
+        ("Difficulty", "Moderate — three separate images are packed into one discourse and reward tracking each in turn"),
+    ],
+    why=("Companion to SN 22.99, but the hound no longer runs — now it "
+        "simply stays beside the post whatever it does, walking, "
+        "standing, sitting, or lying down. From there the discourse turns "
+        "to a painting named \"Conduct\" and to an artist's ordinary "
+        "materials, both illustrating how thoroughly the mind, once "
+        "corrupted, elaborates its own future."),
+    guide=[
+        ("The hound that no longer circles, only stays close", [
+            "Where SN 22.99's hound ran and circled, this discourse's "
+            "hound \"stays right beside that post or pillar\" whether "
+            "\"walking, standing, sitting, or lying down\" — a subtler "
+            "image of confinement, since the hound need not move at all "
+            "to remain bound.",
+            "This maps onto regarding an aggregate as \"mine... I am "
+            "this... this is my self\": in every posture, the unlearned "
+            "person \"walks right beside,\" \"stands right beside,\" \"lies "
+            "down right beside\" the five grasping aggregates — bondage as "
+            "constant proximity, not just as circular motion.",
+        ]),
+        ("Checking the mind regularly", [
+            "The discourse pivots to direct instruction: \"you should "
+            "regularly check your own mind: 'For a long time this mind "
+            "has been corrupted by greed, hate, and delusion.'\"",
+            "\"Sentient beings are corrupted because the mind is "
+            "corrupted. Sentient beings are purified because the mind is "
+            "purified\" — a compact statement making the mind, not "
+            "external circumstance, the deciding factor in both bondage "
+            "and freedom.",
+        ]),
+        ("The painting named \"Conduct,\" and the animal realm", [
+            "The Buddha asks whether the mendicants have seen a painting "
+            "named \"Conduct\" (Caraṇa) — evidently well known at the "
+            "time — and observes: \"that painting was devised by the "
+            "mind, but the mind is even more diverse than that.\"",
+            "The same point is repeated for the animal realm itself: \"I "
+            "don't see any other order of beings as elaborate as the "
+            "animal realm... [it was] devised by the mind, but the mind "
+            "is even more diverse than that\" — the visible variety of "
+            "art and of animal life both offered as measures, and both "
+            "found to fall short, of the mind's own inventive range.",
+        ]),
+        ("The artist and the five aggregates", [
+            "A final simile: an artist with dye, red lac, turmeric, "
+            "indigo, and rose madder creates the full figure of a woman "
+            "or man on a polished plank, wall, or canvas.",
+            "\"In the same way, when an unlearned ordinary person "
+            "generates a future life, all they generate is form, feeling, "
+            "perception, choices, and consciousness\" — a future rebirth "
+            "painted, aggregate by aggregate, by an unexamined mind, "
+            "closing into the same permanent/impermanent question and "
+            "standard formula found throughout this vagga.",
+        ]),
+    ],
+    terms=[
+        ("gaddula", "a leash, a tether — shared with SN 22.99, now illustrating constant proximity rather than circling"),
+        ("caraṇa", "conduct, behavior — also the name of the painting referenced in this discourse"),
+        ("citta", "mind — the single deciding factor named for both corruption and purification"),
+        ("saṅkilesa/vodāna", "corruption / purification — the paired conditions of the mind this discourse contrasts"),
+        ("lākhā/haliddi/nīla/mañjeṭṭha", "red lac, turmeric, indigo, and rose madder — the four dyes named in the artist's simile"),
+    ],
+    text_intro=("The second leash simile, the instruction to regularly check the "
+        "mind, the painting and animal-realm similes, and the artist's "
+        "portrait simile closing into the standard formula. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.100:1.1-1.13"),
+        ("p", "§2", "sn22.100:1.14-1.17"),
+        ("p", "§3", "sn22.100:2.1-2.7"),
+        ("p", "§4", "sn22.100:3.1-3.6"),
+        ("p", "§5", "sn22.100:4.1-4.3"),
+        ("p", "§6", "sn22.100:4.4-4.12"),
+    ],
+    quiz=[
+        {"q": "How does the hound in this discourse differ from the hound in SN 22.99?",
+         "opts": [
+             "It stays right beside the post in every posture, rather than running and circling",
+             "It has broken free of the leash entirely",
+             "It is a different animal altogether",
+             "It runs even faster than before"],
+         "correct": 0,
+         "expl": "A subtler image of confinement — bondage without needing to move at all."},
+        {"q": "In what postures does the hound stay beside the post?",
+         "opts": [
+             "Walking, standing, sitting, or lying down",
+             "Only while sleeping",
+             "Only while running",
+             "Only while eating"],
+         "correct": 0,
+         "expl": "In every posture, proximity to the post remains constant."},
+        {"q": "What instruction does the Buddha give about checking the mind?",
+         "opts": [
+             "Regularly check that it has long been corrupted by greed, hate, and delusion",
+             "Never examine the mind directly",
+             "Check the mind only once in a lifetime",
+             "Ask another person to check your mind for you"],
+         "correct": 0,
+         "expl": "A direct, practical instruction distinct from the leash image itself."},
+        {"q": "What determines whether sentient beings are corrupted or purified?",
+         "opts": [
+             "Whether the mind itself is corrupted or purified",
+             "Whether they live in the animal realm or not",
+             "Whether they have seen the painting named Conduct",
+             "Whether they own an artist's dyes"],
+         "correct": 0,
+         "expl": "A compact statement making the mind the deciding factor in both bondage and freedom."},
+        {"q": "What is the name of the painting the Buddha references?",
+         "opts": [
+             "\"Conduct\" (Caraṇa)",
+             "\"Liberation\"",
+             "\"The Leash\"",
+             "\"The Five Aggregates\""],
+         "correct": 0,
+         "expl": "Apparently a painting well known to the mendicants at the time."},
+        {"q": "What does the Buddha say about the mind compared to the painting?",
+         "opts": [
+             "The painting was devised by the mind, but the mind is even more diverse than that",
+             "The mind is far simpler than the painting",
+             "The painting has nothing to do with the mind",
+             "The mind can never produce anything as elaborate as a painting"],
+         "correct": 0,
+         "expl": "The same comparison is then repeated for the animal realm's own variety."},
+        {"q": "What other order of beings is compared to the mind's diversity?",
+         "opts": [
+             "The animal realm",
+             "The human realm",
+             "The heavenly realm",
+             "The realm of ghosts"],
+         "correct": 0,
+         "expl": "\"I don't see any other order of beings as elaborate as the animal realm\" — yet even that falls short of the mind's own range."},
+        {"q": "What does the artist create in the closing simile?",
+         "opts": [
+             "The full figure of a woman or man, using dye, lac, turmeric, indigo, and rose madder",
+             "A landscape with no human figures",
+             "An abstract pattern with no recognizable form",
+             "A statue rather than a painting"],
+         "correct": 0,
+         "expl": "Complete in its major and minor limbs, on a polished plank, wall, or canvas."},
+        {"q": "What does the artist simile say an unlearned person generates for a future life?",
+         "opts": [
+             "Form, feeling, perception, choices, and consciousness",
+             "Only a new physical body, with no mental factors",
+             "A permanent, unchanging self",
+             "Nothing at all"],
+         "correct": 0,
+         "expl": "A future rebirth painted, aggregate by aggregate, by an unexamined mind."},
+        {"q": "How does this discourse close?",
+         "opts": [
+             "With the standard permanent/impermanent question and formula found throughout Khandhavagga",
+             "With an entirely unique closing not found elsewhere",
+             "Without any closing formula at all",
+             "With a set of verses, unlike the rest of the discourse"],
+         "correct": 0,
+         "expl": "The three similes all lead into the collection's familiar closing sequence."},
+    ],
+    marginalia=[
+        ("Bondage without needing to move", [
+            "walking, standing, sitting, lying down &mdash;",
+            "always right beside the very same post",
+        ]),
+        ("The mind alone as the deciding factor", [
+            "corrupted mind, corrupted being &mdash;",
+            "purified mind, purified being, nothing else needed",
+        ]),
+        ("A painting, an entire animal realm, and still short of the mind", [
+            "\"the mind is even more diverse than that\" &mdash;",
+            "repeated for both measures, both found wanting",
+        ]),
+        ("A future life, painted aggregate by aggregate", [
+            "dye, lac, turmeric, indigo, rose madder &mdash;",
+            "a whole figure, form to consciousness, from an unexamined mind",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.100/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.99.html">SN 22.99 &middot; A Leash</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "companion.",
+        '<a href="sn-22.101.html">SN 22.101 &middot; The Adze</a> '
+        "&mdash; the next discourse, turning from bondage to the gradual "
+        "shape of development itself.",
+    ],
+)
+
+page(22, 101, "Vāsijaṭa", "The Adze",
+    vagga="Pupphavagga",
+    meta_title="SN 22.101 · The Adze — Worn Away Without Being Seen to Wear",
+    meta_desc="A hen's unincubated eggs, a mason's worn adze handle, and a "
+        "ship's ropes rotting in the rain — three similes for gradual, "
+        "unwilled development. Saṃyutta Nikāya 22.101, with Pāli.",
+    glance=[
+        ("Setting", "Not specified"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A direct statement, then three similes in sequence — a hen and her eggs, a worn adze handle, and a ship's rotting ropes"),
+        ("Length", "Long for this vagga — three fully developed similes"),
+        ("Northern parallel", "The adze-handle simile has a well-known Chinese Āgama parallel with closely matching imagery"),
+        ("Difficulty", "Moderate — three images build cumulatively toward one point about undramatic, gradual practice"),
+    ],
+    why=("A discourse about wishing versus doing: a mendicant can wish all "
+        "they like for freedom from defilements, but wishing accomplishes "
+        "nothing without the development itself — illustrated by a hen "
+        "who cannot wish her eggs to hatch without first sitting on them, "
+        "and by a mason's adze handle worn smooth by an accumulation of "
+        "grip no single day's use could ever register."),
+    guide=[
+        ("Knowing and seeing, not merely wishing", [
+            "\"The ending of defilements is for one who knows and sees, "
+            "not for one who does not know or see\" — specifically, "
+            "knowing each aggregate's own origin and ending, not merely "
+            "the aggregate's bare existence.",
+            "A mendicant not committed to development might wish "
+            "\"if only my mind were freed from the defilements by not "
+            "grasping\" — but wishing alone does not free the mind. "
+            "\"It's because they're undeveloped,\" specifically in the "
+            "seven sets of qualities that make up the path.",
+        ]),
+        ("The hen and her unincubated eggs", [
+            "A hen with eight, ten, or twelve eggs, who has not \"properly "
+            "sat on them to keep them warm and incubated,\" might wish for "
+            "her chicks to hatch safely — but wishing cannot substitute "
+            "for the incubation itself.",
+            "The same structure is then given in reverse: a hen who has "
+            "properly incubated her eggs need not even wish for them to "
+            "hatch — the outcome follows from the doing, independent of "
+            "any wish attached to it.",
+        ]),
+        ("The adze handle worn smooth", [
+            "\"A mason or their apprentice sees the marks of his fingers "
+            "and thumb on the handle of his adze\" — but has no way of "
+            "knowing exactly how much wore away today, how much "
+            "yesterday, how much before that. \"They just know what has "
+            "been worn away.\"",
+            "Applied directly to practice: a committed mendicant likewise "
+            "cannot track exactly how much of the defilements wore away "
+            "on any given day — only that, over time, wearing away has "
+            "in fact occurred. Development is real and cumulative even "
+            "when its increments are invisible.",
+        ]),
+        ("The ship's ropes, weathered and rotted", [
+            "A final image: a seafaring ship's ropes, soaked for six "
+            "months in water, then hauled up and weathered by wind and "
+            "sun through the dry season, finally soaked again by monsoon "
+            "rain — at which point they \"readily collapse and rot away.\"",
+            "\"In the same way, when a mendicant is committed to "
+            "development their fetters readily collapse and rot away\" — "
+            "the final collapse looks sudden, but it is the outcome of "
+            "an accumulated, largely invisible process of wear, exactly "
+            "like the adze handle and the hatching eggs before it.",
+        ]),
+    ],
+    terms=[
+        ("vāsijaṭa", "an adze handle — worn smooth by a mason's grip over unremembered days"),
+        ("bhāvanānuyoga", "commitment to development — the missing factor when a mendicant's wish alone fails to free the mind"),
+        ("sattannaṁ bodhipakkhiyānaṁ dhammānaṁ", "the seven sets of qualities that lead to awakening — mindfulness, right effort, psychic power bases, faculties, powers, awakening factors, the eightfold path"),
+        ("kukkuṭiyā aṇḍāni", "a hen's eggs — the image for outcomes that depend on sustained conditions, not on wishing"),
+        ("rajju", "a rope — as in the ship's ropes, weathered and finally rotted through accumulated exposure"),
+    ],
+    text_intro=("The opening statement on knowing versus wishing, followed by the "
+        "three similes: the hen and her eggs (given twice, undeveloped and "
+        "developed), the adze handle, and the ship's ropes. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.101:1.1-1.9"),
+        ("p", "§2", "sn22.101:2.1-2.6"),
+        ("p", "§3", "sn22.101:3.1-3.14"),
+        ("p", "§4", "sn22.101:4.1-4.6"),
+        ("p", "§5", "sn22.101:5.1-5.14"),
+        ("p", "§6", "sn22.101:6.1-6.8"),
+    ],
+    quiz=[
+        {"q": "For whom is the ending of defilements possible, according to the opening statement?",
+         "opts": [
+             "One who knows and sees, not one who does not know or see",
+             "Anyone who wishes for it sincerely enough",
+             "Only those born into a particular family",
+             "Anyone who avoids all similes and images"],
+         "correct": 0,
+         "expl": "Specifically knowing each aggregate's own origin and ending."},
+        {"q": "What happens when an undeveloped mendicant wishes for freedom by not grasping?",
+         "opts": [
+             "The mind is not freed from defilements, because they are undeveloped",
+             "The mind is freed immediately upon wishing",
+             "The wish itself becomes a defilement",
+             "Nothing at all changes about the wish or the mind"],
+         "correct": 0,
+         "expl": "Wishing alone cannot substitute for actual development in the path factors."},
+        {"q": "What has the hen with unincubated eggs failed to do?",
+         "opts": [
+             "Properly sit on them to keep them warm and incubated",
+             "Lay the eggs in the first place",
+             "Count how many eggs she has",
+             "Build a proper nest"],
+         "correct": 0,
+         "expl": "Wishing for the chicks to hatch cannot substitute for the incubation itself."},
+        {"q": "What can a mason observe on the handle of an adze?",
+         "opts": [
+             "The marks of fingers and thumb, worn away, though not how much wore away on any single day",
+             "The exact number of times the handle has been used",
+             "Nothing at all — the handle shows no signs of wear",
+             "A precise daily record of wear"],
+         "correct": 0,
+         "expl": "Only the cumulative result is visible, not the day-by-day increments."},
+        {"q": "What does the adze-handle image illustrate about a committed mendicant's practice?",
+         "opts": [
+             "Defilements wear away cumulatively and really, even when the daily increments are invisible",
+             "Practice has no cumulative effect at all",
+             "Only dramatic, visible changes count as real progress",
+             "The defilements never actually diminish through practice"],
+         "correct": 0,
+         "expl": "Development is real even when its increments cannot be tracked day by day."},
+        {"q": "What happens to a ship's ropes over the described sequence of exposure?",
+         "opts": [
+             "They readily collapse and rot away, after months of water, then weathering, then rain again",
+             "They become stronger with each season",
+             "They remain completely unchanged",
+             "They are replaced before any wear occurs"],
+         "correct": 0,
+         "expl": "An accumulated process of wear that finally shows itself as a sudden collapse."},
+        {"q": "What does the ship's-ropes image say about a committed mendicant's fetters?",
+         "opts": [
+             "They readily collapse and rot away, following the same pattern as the ropes",
+             "They become tighter with continued practice",
+             "They are unaffected by any amount of practice",
+             "They collapse instantly with no prior process at all"],
+         "correct": 0,
+         "expl": "The final collapse is the visible endpoint of a largely invisible cumulative process."},
+        {"q": "What quality is missing in a mendicant whose wish for freedom goes unfulfilled?",
+         "opts": [
+             "Commitment to development in the seven sets of awakening qualities",
+             "Sufficient sincerity in the wish itself",
+             "A favorable birth or social position",
+             "Access to a particular teacher"],
+         "correct": 0,
+         "expl": "Named explicitly as underdevelopment in the seven sets making up the path."},
+        {"q": "What do all three similes in this discourse share in common?",
+         "opts": [
+             "Each shows an outcome that depends on sustained, often invisible process rather than on wishing alone",
+             "Each describes a dramatic, sudden transformation with no preceding cause",
+             "Each is about physical objects with no bearing on mental development",
+             "Each contradicts the other two similes"],
+         "correct": 0,
+         "expl": "The eggs, the adze handle, and the ship's ropes all illustrate gradual, cumulative, largely invisible development."},
+        {"q": "What is the discourse's overall relationship between wishing and freedom?",
+         "opts": [
+             "Wishing alone accomplishes nothing; committed development accomplishes freedom whether or not it is wished for",
+             "Wishing alone is sufficient for freedom",
+             "Wishing and development are entirely unrelated",
+             "Development without any wish for freedom is impossible"],
+         "correct": 0,
+         "expl": "A hen who has properly incubated her eggs need not even wish for them to hatch."},
+    ],
+    marginalia=[
+        ("Knowing each aggregate's origin and ending", [
+            "not bare existence, but arising and ceasing &mdash;",
+            "this alone is said to end the defilements",
+        ]),
+        ("A hen cannot wish eggs into hatching", [
+            "only sitting on them, day after day &mdash;",
+            "the wish is beside the point either way",
+        ]),
+        ("An adze handle, worn by an unremembered grip", [
+            "no record of today's amount, or yesterday's &mdash;",
+            "only the cumulative wearing away, made visible at last",
+        ]),
+        ("Ropes rotted through by an accumulated season", [
+            "sun, wind, and monsoon rain in turn &mdash;",
+            "the fetters' collapse, gradual until it looks sudden",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.101/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.100.html">SN 22.100 &middot; A Leash (2nd)</a> '
+        "&mdash; the previous discourse, on bondage as constant proximity "
+        "to the aggregates.",
+        '<a href="sn-22.102.html">SN 22.102 &middot; The Perception of '
+        "Impermanence</a> &mdash; the next and closing discourse of this "
+        "vagga, on what develops when the perception of impermanence "
+        "itself is what is cultivated.",
+    ],
+)
+
+page(22, 102, "Aniccasaññā", "The Perception of Impermanence",
+    vagga="Pupphavagga",
+    meta_title="SN 22.102 · The Perception of Impermanence — Autumn Sunlight Dispelling Darkness",
+    meta_desc="Nine similes for how the perception of impermanence "
+        "eradicates all conceit of \"I am,\" closing Pupphavagga on the "
+        "image of a clear autumn sun. Saṃyutta Nikāya 22.102, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "Nine parallel similes sharing a single refrain, followed by a direct explanation of the practice itself"),
+        ("Length", "Long — the most elaborate single-refrain structure in this vagga"),
+        ("Northern parallel", "Several of the individual similes recur elsewhere in the Canon, though not typically gathered together in this exact set"),
+        ("Difficulty", "Approachable — each simile is simple on its own; the cumulative effect across nine repetitions is the discourse's real point"),
+    ],
+    why=("Closes Pupphavagga with nine similes, each ending in the same "
+        "refrain, all illustrating what the perception of impermanence, "
+        "developed and cultivated, actually accomplishes — eradicating "
+        "\"all conceit 'I am.'\" The vagga that opened on a river sweeping "
+        "someone toward ruin closes on the clear light of an autumn sun."),
+    guide=[
+        ("What the perception of impermanence eliminates", [
+            "The opening statement names four things eliminated together: "
+            "\"all desire for sensual pleasures, for rebirth in the realm "
+            "of luminous form, and for rebirth in a future life,\" all "
+            "ignorance, and \"all conceit 'I am'\" — the most complete "
+            "single statement of this practice's scope found in "
+            "Khandhavagga.",
+            "Note the precision of \"conceit 'I am'\" (asmimāna) rather "
+            "than full self-view (sakkāyadiṭṭhi) — the same distinction "
+            "drawn earlier in this book at SN 22.47 and SN 22.89, naming "
+            "the subtlest residue of self-identification, not merely its "
+            "coarsest form.",
+        ]),
+        ("Nine similes, one refrain", [
+            "A farmer's plough shears through every root network in its "
+            "path. A reed-cutter shakes and flails cut reeds until "
+            "nothing loose remains attached. A cut mango stalk brings "
+            "every attached mango down with it. A bungalow's rafters all "
+            "lean, slope, and meet at a single peak.",
+            "Spikenard is said the best of fragrant roots; red sandalwood "
+            "the best of fragrant heartwood; jasmine the best of fragrant "
+            "flowers; a wheel-turning monarch the foremost of all lesser "
+            "kings; the moon's radiance worth more than a sixteenth part "
+            "of all the stars combined — each image ends with the same "
+            "line, that the perception of impermanence \"eradicates all "
+            "conceit 'I am.'\"",
+        ]),
+        ("Why nine different images for one refrain", [
+            "The similes vary widely in kind: agricultural tools, plant "
+            "structures, architecture, and superlative rankings among "
+            "fragrances, kings, and celestial light — deliberately "
+            "unlike each other, so that the constancy of the shared "
+            "refrain, not the content of any single image, becomes the "
+            "point.",
+            "Some images show impermanence acting as a decisive cutting "
+            "force (plough, reed-cutter, mango stalk); others show a "
+            "governing or culminating position (the rafters' peak, the "
+            "monarch, the moon) — together suggesting that the "
+            "perception of impermanence is both what cuts through "
+            "delusion and what stands foremost once delusion is cut.",
+        ]),
+        ("The closing image: autumn sunlight", [
+            "The ninth and final simile, given the fullest treatment: "
+            "\"in the autumn, the heavens are sunny and cloudless. And as "
+            "the sun is rising to the firmament, having dispelled all the "
+            "darkness of space, it shines and glows and radiates.\"",
+            "The discourse then explains directly what this whole set of "
+            "images has been pointing toward: the perception of "
+            "impermanence is developed by seeing each aggregate's own "
+            "origin and its own ending — the identical formula used in "
+            "SN 22.101 immediately before it, now given as the answer to "
+            "\"how is the perception of impermanence developed?\" This "
+            "closes Pupphavagga on a note of clarity rather than of "
+            "peril, completing the arc begun with SN 22.93's river.",
+        ]),
+    ],
+    terms=[
+        ("aniccasaññā", "perception of impermanence — the single practice this discourse's nine similes all illustrate"),
+        ("asmimāna", "the conceit \"I am\" — the specific residue this perception is said to eradicate, distinguished from full self-view"),
+        ("nāḷikera/tagara/vassikā", "spikenard, red sandalwood, jasmine — the fragrant root, heartwood, and flower each named as foremost in their kind"),
+        ("cakkavattī", "a wheel-turning monarch — foremost among lesser kings, one of the nine superlative images"),
+        ("sarada", "autumn — the season of the discourse's closing image, a clear sky and a bright, unobstructed sun"),
+    ],
+    text_intro=("The opening statement, all nine similes with their shared refrain, "
+        "and the closing direct explanation of how the perception of "
+        "impermanence is itself developed. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.102:1.1-1.2"),
+        ("p", "§2", "sn22.102:2.1-2.2"),
+        ("p", "§3", "sn22.102:3.1-3.2"),
+        ("p", "§4", "sn22.102:4.1-4.2"),
+        ("p", "§5", "sn22.102:5.1-5.2"),
+        ("p", "§6", "sn22.102:6.1-6.2"),
+        ("p", "§7", "sn22.102:7.1-7.2"),
+        ("p", "§8", "sn22.102:8.1-8.2"),
+        ("p", "§9", "sn22.102:9.1-9.2"),
+        ("p", "§10", "sn22.102:10.1-10.2"),
+        ("p", "§11", "sn22.102:11.1-11.2"),
+        ("p", "§12", "sn22.102:12.1-12.7"),
+    ],
+    quiz=[
+        {"q": "What four things does the opening statement say the perception of impermanence eliminates?",
+         "opts": [
+             "Desire for sensual pleasures, for rebirth as luminous form, for future rebirth, all ignorance, and all conceit \"I am\"",
+             "Only physical illness",
+             "Only the fear of death",
+             "Only doubt about the teacher"],
+         "correct": 0,
+         "expl": "The most complete single statement of this practice's scope in Khandhavagga."},
+        {"q": "What specific residue does this discourse say is eradicated, distinct from full self-view?",
+         "opts": [
+             "The conceit \"I am\" (asmimāna)",
+             "Physical pain",
+             "External possessions",
+             "Doubt about karma"],
+         "correct": 0,
+         "expl": "The same precise distinction drawn earlier at SN 22.47 and SN 22.89."},
+        {"q": "What does the farmer's plough do in the first simile?",
+         "opts": [
+             "Shears through all the root networks in its path",
+             "Plants new seeds without disturbing roots",
+             "Avoids all roots carefully",
+             "Digs only a shallow furrow"],
+         "correct": 0,
+         "expl": "A decisive cutting image, the first of nine similes sharing one refrain."},
+        {"q": "What is said to be the best of all fragrant roots?",
+         "opts": [
+             "Spikenard",
+             "Red sandalwood",
+             "Jasmine",
+             "Vetiver"],
+         "correct": 0,
+         "expl": "One of three fragrance superlatives — root, heartwood, and flower — among the nine similes."},
+        {"q": "What is said to be foremost among all lesser kings?",
+         "opts": [
+             "A wheel-turning monarch",
+             "The king of a single small city",
+             "A merchant prince",
+             "A tribal chieftain"],
+         "correct": 0,
+         "expl": "All lesser kings are described as vassals of the wheel-turning monarch."},
+        {"q": "How is the moon's radiance described relative to the stars?",
+         "opts": [
+             "Not worth a sixteenth part of it combined, so the moon's radiance is said the best",
+             "Equal to the combined light of all the stars",
+             "Less bright than any single star",
+             "Unrelated to starlight entirely"],
+         "correct": 0,
+         "expl": "One of the nine similes ending in the same shared refrain."},
+        {"q": "What image closes the set of nine similes?",
+         "opts": [
+             "A clear autumn sky, with the rising sun dispelling all darkness and shining, glowing, and radiating",
+             "A stormy sky with thunder and lightning",
+             "A moonless night",
+             "A winter sky with heavy snow"],
+         "correct": 0,
+         "expl": "Given fuller treatment than the other eight, closing the set on an image of clarity."},
+        {"q": "How, according to the discourse's direct explanation, is the perception of impermanence developed?",
+         "opts": [
+             "By seeing each aggregate's own origin and its own ending",
+             "By avoiding all contact with the five aggregates",
+             "By memorizing all nine similes without further practice",
+             "By focusing exclusively on the fragrance similes"],
+         "correct": 0,
+         "expl": "The same formula used immediately before in SN 22.101, now applied explicitly to this practice."},
+        {"q": "How does this discourse's closing relate to SN 22.93, which opens the vagga?",
+         "opts": [
+             "It completes an arc from an image of peril (the river) to an image of clarity (autumn sunlight)",
+             "It directly contradicts SN 22.93's teaching",
+             "It has no thematic relationship to SN 22.93",
+             "It repeats SN 22.93's river image exactly"],
+         "correct": 0,
+         "expl": "Pupphavagga opens on danger and closes on clarity, framing the whole vagga."},
+        {"q": "Why does the discourse use nine deliberately varied images for one refrain?",
+         "opts": [
+             "So the constancy of the shared refrain, not any single image's content, becomes the point",
+             "Because no single image was considered sufficient on its own",
+             "To make the discourse artificially longer",
+             "Because each image applies to a different aggregate"],
+         "correct": 0,
+         "expl": "Agricultural tools, plant structures, architecture, and superlative rankings are all deliberately unlike each other."},
+    ],
+    marginalia=[
+        ("Not self-view alone, but its subtlest residue", [
+            "asmimāna, the conceit \"I am\" &mdash;",
+            "eradicated, not merely weakened",
+        ]),
+        ("Nine unlike images, one shared refrain", [
+            "plough, reed, mango stalk, rafters, monarch, moon &mdash;",
+            "the constancy of the ending is itself the teaching",
+        ]),
+        ("Cutting through, and standing foremost", [
+            "the plough shears roots; the moon outshines every star &mdash;",
+            "impermanence perceived as both blade and summit",
+        ]),
+        ("The vagga's arc, river to sunlight", [
+            "SN 22.93 opened on peril &mdash;",
+            "SN 22.102 closes on an autumn sky, cloudless and clear",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.102/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.101.html">SN 22.101 &middot; The Adze</a> '
+        "&mdash; the previous discourse, whose closing formula for "
+        "developing the perception of impermanence this discourse repeats.",
+        '<a href="sn-22.93.html">SN 22.93 &middot; A River</a> '
+        "&mdash; this vagga's own opening discourse, whose image of peril "
+        "this closing discourse's clarity completes.",
+    ],
+)
