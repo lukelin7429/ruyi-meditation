@@ -35242,3 +35242,658 @@ page(
         "follows.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.11 — Suvaṇṇapātisutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 11, "Suvaṇṇapāti", "A Gold Cup",
+    meta_title="SN 17.11 — A Gold Cup | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Suvaṇṇapātisutta — the Buddha once knew someone "
+        "who wouldn't lie even for a gold cup filled with silver "
+        "powder, then later saw that same person lie once overcome "
+        "by possessions, honor, and popularity. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, opening the vagga's second "
+                     "chapter"),
+        ("Form", "A first-person report of the Buddha's own changed "
+                 "assessment of one individual over time"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; opens Dutiyavagga with a new form: "
+                       "personal testimony rather than fable"),
+    ],
+    why=(
+        "This discourse opens the vagga's second chapter with "
+        "something new: not a fable or a rhetorical question, but "
+        "the Buddha's own first-person report. He once comprehended "
+        "someone's mind and understood: this person wouldn't tell a "
+        "deliberate lie even for a gold cup filled with silver "
+        "powder. Some time later, he saw that same person tell a "
+        "deliberate lie, because their mind had become overcome and "
+        "overwhelmed by possessions, honor, and popularity. The "
+        "point isn't a hypothetical danger but a specific, "
+        "remembered case of someone's integrity actually failing."),
+    guide=[
+        ("A new form opening a new chapter", [
+            "Every discourse in Paṭhamavagga used an image, a "
+            "rhetorical question, or a scene; this discourse instead "
+            "gives the Buddha's own direct testimony about a "
+            "specific person whose mind he says he comprehended "
+            "directly, a mode of report not used earlier in this "
+            "saṃyutta."]),
+        ("A named threshold of integrity, not a vague trust", [
+            "The measure of this person's honesty isn't left "
+            "general; it's pinned to an exact, almost absurdly "
+            "specific test &mdash; a gold cup filled with silver "
+            "powder &mdash; making the eventual failure concrete "
+            "rather than abstract."]),
+        ("Change over time as the actual point", [
+            "The discourse's structure depends on two moments held "
+            "together: what the Buddha once understood about this "
+            "person, and what he later saw happen; the danger named "
+            "throughout this saṃyutta is shown here as something "
+            "that can erode a specific person's integrity across "
+            "time, not just as a permanent character flaw."]),
+        ("The identical diagnosis used throughout this saṃyutta", [
+            "abhibhūtaṁ pariyādiṇṇacittaṁ, &ldquo;overcome and "
+            "overwhelmed,&rdquo; is the same compound used for the "
+            "diseased jackal's afflicted counterpart in SN 17.8 and "
+            "the unguarded mendicant in SN 17.9, applied here to a "
+            "single act of deliberate lying."]),
+        ("The first of a matched pair", [
+            "This discourse's gold cup and silver powder are "
+            "mirrored exactly, with the metals reversed, in the "
+            "discourse immediately following it &mdash; two nearly "
+            "identical cases establishing a pattern that the "
+            "vagga's later merged discourse will then escalate "
+            "much further."]),
+    ],
+    terms=[
+        ("cetasā ceto paricca pajānāmi",
+         "&ldquo;I comprehend the mind&rdquo; &mdash; the Buddha's "
+         "claim to direct knowledge of another person's mental "
+         "state, the basis for his initial assessment."),
+        ("suvaṇṇapātiyāpi rūpiyacuṇṇaparipūrāya",
+         "&ldquo;even a gold cup filled with silver powder&rdquo; "
+         "&mdash; this discourse's title image, the specific "
+         "threshold this person was once thought incorruptible "
+         "against."),
+        ("sampajānamusā bhāseyya",
+         "&ldquo;would tell a deliberate lie&rdquo; &mdash; the "
+         "exact failure in question, emphasizing that it is "
+         "knowing and intentional, not accidental."),
+        ("abhibhūtaṁ pariyādiṇṇacittaṁ",
+         "&ldquo;overcome and overwhelmed&rdquo; &mdash; the same "
+         "diagnostic compound used elsewhere in this saṃyutta, "
+         "applied here to the cause of the eventual lie."),
+        ("aparena samayena",
+         "&ldquo;some time later&rdquo; &mdash; marking the gap "
+         "between the Buddha's original assessment and the later, "
+         "contrary observation."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.11:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What new form does this discourse introduce to open the vagga's second chapter?",
+         "opts": [
+             "The Buddha's own first-person report about a specific individual, rather than a fable or rhetorical question",
+             "A dialogue between two named mendicants",
+             "A set of verses with no prose framing at all",
+             "This discourse uses the exact same form as SN 17.1"],
+         "correct": 0,
+         "expl": "Direct testimony about a remembered case, a mode not used earlier in this saṃyutta."},
+        {"q": "What had the Buddha once understood about this individual?",
+         "opts": [
+             "That they would not tell a deliberate lie even for a gold cup filled with silver powder",
+             "That they had already achieved full awakening",
+             "That they intended to disrobe soon",
+             "Nothing specific is said about this individual beforehand"],
+         "correct": 0,
+         "expl": "A specific, almost absurdly precise threshold of integrity."},
+        {"q": "What did the Buddha later see this same person do?",
+         "opts": [
+             "Tell a deliberate lie, because their mind was overcome and overwhelmed by possessions, honor, and popularity",
+             "Achieve a breakthrough in meditation",
+             "Correct their earlier mistake and apologize publicly",
+             "Nothing further is reported about this person"],
+         "correct": 0,
+         "expl": "A specific, remembered failure, not a hypothetical danger."},
+        {"q": "What phrase describes the cause of this person's eventual lie?",
+         "opts": [
+             "\"Overcome and overwhelmed\" by possessions, honor, and popularity",
+             "\"Confused and forgetful\" due to old age",
+             "\"Pressured and threatened\" by a rival ascetic",
+             "No cause is given for the lie"],
+         "correct": 0,
+         "expl": "The same diagnostic compound used elsewhere in this saṃyutta."},
+        {"q": "What does the structure of this discourse depend on?",
+         "opts": [
+             "Two moments held together — an earlier assessment and a later, contrary observation",
+             "A single moment described only once",
+             "A prediction about a future event that hasn't yet occurred",
+             "A comparison between two different individuals"],
+         "correct": 0,
+         "expl": "Change over time is the discourse's actual point."},
+        {"q": "How does this discourse relate to the one immediately following it?",
+         "opts": [
+             "It is mirrored almost exactly, with gold and silver reversed",
+             "It contradicts the following discourse directly",
+             "It has no relationship to the following discourse",
+             "It is identical in every word to the following discourse"],
+         "correct": 0,
+         "expl": "A matched pair, later escalated further in the vagga's merged discourse."},
+        {"q": "What claim does the Buddha make about his knowledge of this person's mind?",
+         "opts": [
+             "That he directly comprehended it (cetasā ceto paricca pajānāmi)",
+             "That he learned about it secondhand from another mendicant",
+             "That he guessed based on the person's outward behavior alone",
+             "No claim about the source of his knowledge is made"],
+         "correct": 0,
+         "expl": "Direct comprehension, not inference or hearsay."},
+        {"q": "What emphasis does \"deliberate\" (sampajāna) add to the description of the lie?",
+         "opts": [
+             "That the lie was knowing and intentional, not accidental",
+             "That the lie was told under extreme duress",
+             "That the lie was actually harmless in its effects",
+             "No particular emphasis; the word is decorative only"],
+         "correct": 0,
+         "expl": "A precise, knowing act, not a slip or misunderstanding."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Paṭhamaṁ, \"the first\"",
+             "Dutiyaṁ, \"the second\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The first discourse of Dutiyavagga, this saṃyutta's second chapter."},
+    ],
+    marginalia=[
+        ("Testimony, not fable, opening a new chapter", [
+            "\"I comprehend the mind,\" the Buddha says &mdash;",
+            "a remembered case, not an invented scene",
+        ]),
+        ("A threshold precise enough to measure failure against", [
+            "a gold cup, filled with silver powder &mdash;",
+            "not vague trust, but a named, exact test",
+        ]),
+        ("What changed, not just what happened", [
+            "once thought incorruptible, then seen to lie &mdash;",
+            "integrity shown eroding, not simply absent",
+        ]),
+        ("A pair about to become a list", [
+            "gold and silver, soon reversed &mdash;",
+            "two cases before the escalation begins",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.11/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.10.html">SN 17.10 &middot; With Verses</a> '
+        "&mdash; Paṭhamavagga's closing discourse.",
+        '<a href="sn-17.12.html">SN 17.12 &middot; A Silver Pot</a> '
+        "&mdash; the next discourse, mirroring this one with the "
+        "metals reversed.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.12 — Rūpiyapātisutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 12, "Rūpiyapāti", "A Silver Pot",
+    meta_title="SN 17.12 — A Silver Pot | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Rūpiyapātisutta — mirroring the discourse before "
+        "it with the metals reversed: a silver pot filled with gold "
+        "powder, and the same eventual failure once possessions, "
+        "honor, and popularity take hold. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "An exact structural mirror of the discourse "
+                 "immediately before it, with gold and silver "
+                 "reversed"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; a deliberate near-repeat, read "
+                       "alongside SN 17.11 rather than in isolation"),
+    ],
+    why=(
+        "This discourse repeats SN 17.11's exact structure, "
+        "reversing only the two precious metals: where the Buddha "
+        "once knew someone wouldn't lie even for a gold cup filled "
+        "with silver powder, here he knew someone wouldn't lie even "
+        "for a silver pot filled with gold powder. The outcome is "
+        "identical in wording &mdash; some time later, he sees that "
+        "same person tell a deliberate lie, overcome and overwhelmed "
+        "by possessions, honor, and popularity. Read as a pair, "
+        "these two discourses establish a template that the vagga's "
+        "next discourse, a single merged text covering eight further "
+        "discourse numbers, will take and escalate considerably "
+        "further."),
+    guide=[
+        ("A mirror, not a variation", [
+            "This discourse changes nothing about SN 17.11's "
+            "structure or outcome; the only substitution is which "
+            "metal fills which vessel, gold cup with silver powder "
+            "becoming silver pot with gold powder, underscoring that "
+            "the specific object never mattered to the point being "
+            "made."]),
+        ("Two cases functioning as one lesson", [
+            "Rather than introduce a new idea, this discourse "
+            "confirms that SN 17.11 wasn't describing an isolated "
+            "incident; the same failure recurring with a different "
+            "person and a swapped object suggests a general pattern, "
+            "not a single anecdote."]),
+        ("Setting up an escalation still to come", [
+            "Placed as the second of a pair, this discourse's real "
+            "function is architectural: it establishes the fixed "
+            "template &mdash; comprehend the mind, note the "
+            "threshold, observe the later failure &mdash; that the "
+            "vagga's next discourse will reuse while multiplying the "
+            "thresholds named from two to eight."]),
+        ("The identical diagnosis, repeated exactly", [
+            "abhibhūtaṁ pariyādiṇṇacittaṁ, &ldquo;overcome and "
+            "overwhelmed,&rdquo; recurs here in the same wording as "
+            "SN 17.11, reinforcing that this specific compound is "
+            "this saṃyutta's standing diagnosis for the condition "
+            "that precedes every failure it describes."]),
+        ("Why repetition itself is the content here", [
+            "Reading SN 17.11 and 17.12 side by side rather than in "
+            "isolation reveals that the pairing, not either "
+            "discourse alone, carries the point: precious metal and "
+            "specific vessel are interchangeable details around an "
+            "unchanging structure."]),
+    ],
+    terms=[
+        ("rūpiyapātiyāpi suvaṇṇacuṇṇaparipūrāya",
+         "&ldquo;even a silver pot filled with gold powder&rdquo; "
+         "&mdash; this discourse's title image, the metals reversed "
+         "from SN 17.11's."),
+        ("cetasā ceto paricca pajānāmi",
+         "&ldquo;I comprehend the mind&rdquo; &mdash; the identical "
+         "claim to direct knowledge repeated from SN 17.11."),
+        ("sampajānamusā bhāseyya",
+         "&ldquo;would tell a deliberate lie&rdquo; &mdash; the same "
+         "exact failure named in the discourse immediately before "
+         "this one."),
+        ("abhibhūtaṁ pariyādiṇṇacittaṁ",
+         "&ldquo;overcome and overwhelmed&rdquo; &mdash; the "
+         "standing diagnostic compound, repeated word for word from "
+         "SN 17.11."),
+        ("dutiyaṁ",
+         "&ldquo;the second&rdquo; &mdash; this discourse's closing "
+         "numbering tag, marking it as the second of Dutiyavagga's "
+         "ten."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.12:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What is reversed between this discourse and SN 17.11?",
+         "opts": [
+             "The two precious metals — gold cup with silver powder becomes silver pot with gold powder",
+             "The outcome — this discourse ends in success rather than failure",
+             "The speaker — a different individual delivers this teaching",
+             "Nothing at all; the two discourses are entirely unrelated"],
+         "correct": 0,
+         "expl": "An exact structural mirror, with only the metals swapped."},
+        {"q": "What does the eventual outcome of this discourse have in common with SN 17.11?",
+         "opts": [
+             "It is worded identically — a deliberate lie, caused by being overcome and overwhelmed",
+             "It has an entirely different outcome",
+             "No outcome is described in this discourse",
+             "The outcome here is positive, unlike SN 17.11"],
+         "correct": 0,
+         "expl": "The same failure, in the same words, confirming a general pattern rather than one anecdote."},
+        {"q": "What does this discourse's real function turn out to be, read alongside SN 17.11?",
+         "opts": [
+             "Architectural — establishing a fixed template the vagga's next discourse will escalate further",
+             "To introduce an entirely new idea unrelated to SN 17.11",
+             "To contradict what SN 17.11 claimed",
+             "To conclude the entire saṃyutta"],
+         "correct": 0,
+         "expl": "A template of comprehend-note-observe that gets multiplied from two thresholds to eight."},
+        {"q": "What diagnostic phrase recurs here exactly as in SN 17.11?",
+         "opts": [
+             "\"Overcome and overwhelmed\" by possessions, honor, and popularity",
+             "\"Confused and forgetful\" due to advancing age",
+             "\"Angry and resentful\" toward fellow mendicants",
+             "No diagnostic phrase is repeated"],
+         "correct": 0,
+         "expl": "The same standing diagnosis used throughout this saṃyutta."},
+        {"q": "What does the pairing of SN 17.11 and 17.12 suggest, according to this reading guide?",
+         "opts": [
+             "That the specific object and metal never mattered to the underlying point",
+             "That the two discourses describe unrelated historical events",
+             "That one of the two discourses must be a later scribal addition",
+             "That gold is inherently more dangerous than silver"],
+         "correct": 0,
+         "expl": "Interchangeable details around an unchanging structure."},
+        {"q": "How does this discourse's length compare to SN 17.11's?",
+         "opts": [
+             "Essentially identical in length and structure",
+             "Far longer, with substantial additional narrative",
+             "Far shorter, cut down to a single sentence",
+             "This discourse has no text at all"],
+         "correct": 0,
+         "expl": "A near word-for-word repeat with only the metals reversed."},
+        {"q": "What comes immediately after this discourse in the vagga?",
+         "opts": [
+             "A single merged discourse covering eight further discourse numbers, escalating the same template",
+             "The vagga's final discourse, with no further content",
+             "A return to Paṭhamavagga's opening discourse",
+             "An unrelated saṃyutta entirely"],
+         "correct": 0,
+         "expl": "The template established by this pair gets multiplied considerably further."},
+        {"q": "What claim does the Buddha make about the source of his original assessment?",
+         "opts": [
+             "That he directly comprehended the person's mind",
+             "That another mendicant informed him",
+             "That he inferred it from the person's public reputation",
+             "No claim about the source is made"],
+         "correct": 0,
+         "expl": "Cetasā ceto paricca pajānāmi, repeated from SN 17.11."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dutiyaṁ, \"the second\"",
+             "Paṭhamaṁ, \"the first\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The second discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("A mirror, metal for metal", [
+            "gold cup with silver, now silver pot with gold &mdash;",
+            "the vessel changes, the point does not",
+        ]),
+        ("One failure, twice, in nearly the same words", [
+            "not an isolated incident, but a pattern &mdash;",
+            "two people, one recurring collapse",
+        ]),
+        ("A template being quietly built", [
+            "comprehend, note the threshold, observe the fall &mdash;",
+            "a structure about to be multiplied further",
+        ]),
+        ("Repetition as the actual lesson", [
+            "the object was never what mattered &mdash;",
+            "what recurs is what deserves attention",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.12/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.11.html">SN 17.11 &middot; A Gold Cup</a> '
+        "&mdash; the discourse this one mirrors exactly.",
+        '<a href="sn-17.13-20.html">SN 17.13&ndash;20 &middot; A Gold '
+        "Ingot, Etc.</a> &mdash; the next discourse, escalating this "
+        "same template through eight further thresholds.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.13-20 — Suvaṇṇanikkhasuttādiaṭṭhaka (merged peyyāla block)
+# --------------------------------------------------------------------------- #
+page_range(
+    17, 13, 20, "Suvaṇṇanikkhasuttādiaṭṭhaka", "A Gold Ingot, Etc.",
+    meta_title="SN 17.13–20 — A Gold Ingot, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 17.13 through "
+        "17.20 — eight discourse numbers preserved in the source as "
+        "a single escalating list, running from a gold ingot to the "
+        "whole earth full of gold to life itself and finally to the "
+        "finest lady in the land. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, closing Dutiyavagga"),
+        ("Form", "Eight discourse numbers compressed by bilara-data "
+                 "into a single escalating list within one "
+                 "continuous passage"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; the vagga's largest escalation, "
+                       "shifting from wealth to life to desire"),
+    ],
+    why=(
+        "SN 17.11 and 17.12 each named a single lavish threshold "
+        "&mdash; a gold cup, a silver pot &mdash; that a certain "
+        "person was once thought too honest to lie for. This merged "
+        "discourse takes that same template and runs it through "
+        "eight further thresholds in a single ascending list: a "
+        "gold ingot, a hundred gold ingots, a mountain of gold, a "
+        "hundred mountains of gold, the whole earth full of gold, "
+        "any kind of material reward at all, life itself, and "
+        "finally the finest lady in the land. Bilara-data preserves "
+        "all eight as one unbroken passage rather than eight "
+        "separately written discourses, and this reading guide "
+        "keeps them together exactly as the source does."),
+    guide=[
+        ("One passage, eight discourse numbers", [
+            "Unlike SN 12.5-9's five stub lines, each independently "
+            "elided, this block presents its eight thresholds as "
+            "items in a single ascending list within one continuous "
+            "sentence, sharing one opening and one closing rather "
+            "than repeating the frame eight times."]),
+        ("An escalation that changes category, not just scale", [
+            "The first five items only intensify the same currency "
+            "&mdash; more gold, then still more gold, then the "
+            "whole earth of it &mdash; but the list's final three "
+            "items abandon gold entirely, moving to any material "
+            "reward whatsoever, then to life itself, then to a "
+            "woman, widening what counts as a bribable interest far "
+            "beyond simple wealth."]),
+        ("Life and desire named as the outer edge", [
+            "Placing jīvitahetu, &ldquo;for the sake of life,&rdquo; "
+            "second to last suggests that even the instinct for "
+            "self-preservation is being tested as a category of "
+            "temptation here, with the finest lady in the land "
+            "named last of all as the single most extreme lure the "
+            "list can name."]),
+        ("The same failure, regardless of which threshold is named", [
+            "Whichever of the eight thresholds is supplied, the "
+            "passage closes on the identical observation used in SN "
+            "17.11 and 17.12: some time later, this same person is "
+            "seen telling a deliberate lie, overcome and overwhelmed "
+            "by possessions, honor, and popularity."]),
+        ("Closing Dutiyavagga's ten discourses and its own uddāna", [
+            "This block marks itself as Dasamaṁ, the vagga's tenth "
+            "discourse-position, and is followed immediately by "
+            "Dutiyo vaggo, marking the chapter's end, and by its own "
+            "untranslated uddāna listing all ten titles in "
+            "mnemonic verse &mdash; neither translated in the "
+            "source nor quoted here."]),
+    ],
+    terms=[
+        ("suvaṇṇanikkha",
+         "&ldquo;a gold ingot&rdquo; &mdash; the list's first and "
+         "smallest threshold, giving the block its name."),
+        ("siṅgīnikkha",
+         "&ldquo;a mountain of gold&rdquo; &mdash; the third "
+         "threshold, already well beyond a single ingot or even a "
+         "hundred."),
+        ("āmisakiñcikkhahetu",
+         "&ldquo;for any kind of material reward&rdquo; &mdash; the "
+         "sixth threshold, generalizing beyond gold specifically to "
+         "material gain of any kind."),
+        ("jīvitahetu",
+         "&ldquo;for the sake of life&rdquo; &mdash; the seventh "
+         "threshold, shifting the list from wealth to survival "
+         "itself."),
+        ("janapadakalyāṇī",
+         "&ldquo;the finest lady in the land&rdquo; &mdash; the "
+         "eighth and final threshold, the list's most extreme named "
+         "lure."),
+    ],
+    text_intro=(
+        "The full passage covering all eight discourse numbers, "
+        "exactly as preserved in the source as one continuous list. "
+        "The chapter's own closing verse and the untranslated uddāna "
+        "naming Dutiyavagga's ten titles are not quoted here; see "
+        "the reading guide above. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.13-20:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "How does this passage present its eight discourse numbers?",
+         "opts": [
+             "As items in a single ascending list within one continuous passage, not as eight separate discourses",
+             "As eight fully independent discourses of equal length",
+             "As a dialogue between eight different speakers",
+             "As eight separate verses with no shared frame"],
+         "correct": 0,
+         "expl": "One shared opening and closing wrapped around an ascending list of thresholds."},
+        {"q": "What is the list's first, smallest named threshold?",
+         "opts": [
+             "A single gold ingot",
+             "The whole earth full of gold",
+             "A hundred mountains of gold",
+             "The finest lady in the land"],
+         "correct": 0,
+         "expl": "Suvaṇṇanikkha, giving the whole block its name."},
+        {"q": "How does the list change category partway through, rather than only changing scale?",
+         "opts": [
+             "It shifts from gold specifically to any material reward, then to life itself, then to a woman",
+             "It shifts from gold to silver and back to gold again",
+             "It never changes category; every item is a quantity of gold",
+             "It shifts from material objects to purely abstract concepts"],
+         "correct": 0,
+         "expl": "The final three items abandon gold entirely, widening what counts as a bribable interest."},
+        {"q": "What is named second-to-last in the list, just before the final item?",
+         "opts": [
+             "Life itself (jīvitahetu)",
+             "A single gold ingot",
+             "A hundred gold ingots",
+             "Nothing is named second-to-last"],
+         "correct": 0,
+         "expl": "Suggesting even self-preservation is tested as a category of temptation here."},
+        {"q": "What is the list's final and most extreme named threshold?",
+         "opts": [
+             "The finest lady in the land",
+             "The whole earth full of gold",
+             "A mountain of gold",
+             "A hundred gold ingots"],
+         "correct": 0,
+         "expl": "Janapadakalyāṇī, closing the list on its most extreme named lure."},
+        {"q": "Regardless of which threshold is supplied, how does the passage conclude each time?",
+         "opts": [
+             "With the same observation used in SN 17.11-12 — the person is later seen lying, overcome and overwhelmed",
+             "With a different, unique consequence for each threshold",
+             "With the person successfully resisting every single time",
+             "The passage does not conclude at all"],
+         "correct": 0,
+         "expl": "An identical closing observation, regardless of which of the eight thresholds applies."},
+        {"q": "How does this block's structure differ from SN 12.5-9's five stub lines discussed elsewhere in this collection?",
+         "opts": [
+             "This block shares one opening and closing around a list, rather than repeating a full frame for each item",
+             "The two are structured in exactly the same way",
+             "SN 12.5-9 is a single continuous list while this block is eight separate discourses",
+             "This block contains no list of any kind"],
+         "correct": 0,
+         "expl": "A genuinely unified passage, not eight independently elided stub lines."},
+        {"q": "What numbering position does this block mark itself as, within Dutiyavagga?",
+         "opts": [
+             "Dasamaṁ, \"the tenth,\" the vagga's final discourse-position",
+             "Paṭhamaṁ, \"the first\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "No numbering position is marked"],
+         "correct": 0,
+         "expl": "Marking the completion of Dutiyavagga's ten discourses."},
+        {"q": "Is the closing uddāna naming this vagga's ten titles translated in the source or quoted in this reading guide's text section?",
+         "opts": [
+             "No — it is untranslated in the source and not quoted here",
+             "Yes, it is fully translated and quoted in the text section",
+             "Only partially translated, and quoted in full regardless",
+             "The source contains no uddāna for this vagga"],
+         "correct": 0,
+         "expl": "Following the same convention used for untranslated closing material elsewhere in this saṃyutta."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+    ],
+    marginalia=[
+        ("A list that keeps climbing", [
+            "one ingot, then a hundred, then a mountain &mdash;",
+            "scale alone, before the category itself shifts",
+        ]),
+        ("Wealth giving way to survival, then desire", [
+            "any reward, then life, then a woman &mdash;",
+            "the lure widening past gold entirely",
+        ]),
+        ("One outcome, however high the bid", [
+            "whatever the named threshold, the same fall &mdash;",
+            "the amount was never the deciding factor",
+        ]),
+        ("A chapter's close, marked and then left untranslated", [
+            "Dasamaṁ, Dutiyo vaggo, an uddāna &mdash;",
+            "the source pauses to mark its own structure",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.13-20/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.12.html">SN 17.12 &middot; A Silver Pot</a> '
+        "&mdash; the discourse whose template this block escalates.",
+        '<a href="sn-17.21.html">SN 17.21 &middot; A Female</a> '
+        "&mdash; the next discourse, opening this saṃyutta's third "
+        "chapter.",
+    ],
+)
