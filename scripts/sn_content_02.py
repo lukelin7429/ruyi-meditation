@@ -41863,3 +41863,893 @@ page(
         "revisiting this exact category and title.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 18.11 — Cakkhusutta (Dutiyavagga)
+# --------------------------------------------------------------------------- #
+page(
+    18, 11, "Cakkhu", "The Eye, Etc.",
+    meta_title="SN 18.11 — The Eye, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the second Cakkhusutta — the same teaching as SN 18.1, "
+        "reused word for word to open Dutiyavagga, but now given by "
+        "the Buddha unprompted rather than requested by Rāhula. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, initiating the teaching himself"),
+        ("Form", "SN 18.1's content reused nearly word for word, "
+                 "with one changed detail in how it begins"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; identical title and content to SN "
+                       "18.1, distinguished by a single structural "
+                       "change"),
+    ],
+    why=(
+        "This discourse opens Dutiyavagga by returning to exactly "
+        "where Paṭhamavagga began: the same title, Cakkhusutta, and "
+        "the same content, the three-question template applied to "
+        "the six sense faculties. The one change is in how the "
+        "exchange begins &mdash; where SN 18.1 opened with Rāhula "
+        "approaching the Buddha and requesting a brief teaching, "
+        "this discourse has the Buddha initiate the teaching himself, "
+        "unprompted, addressing Rāhula directly without any preceding "
+        "request."),
+    guide=[
+        ("A genuine title collision, not a naming accident", [
+            "Both this discourse and SN 18.1 carry the identical "
+            "Pali title, Cakkhusutta, and the identical English "
+            "title in Sujato's translation &mdash; this isn't a "
+            "coincidental resemblance between two different "
+            "discourses but the same discourse structurally repeated "
+            "under its own name."]),
+        ("The single change: who initiates the teaching", [
+            "SN 18.1 begins with Rāhula's specific request &mdash; "
+            "teach me briefly, so I can practice alone &mdash; while "
+            "this discourse has the Buddha speak first, without any "
+            "request preceding it; every other line, including the "
+            "closing sequence, matches SN 18.1 exactly."]),
+        ("What this change might signal about the two vaggas", [
+            "Paṭhamavagga frames its teachings as responses to "
+            "Rāhula's own initiative; Dutiyavagga instead frames its "
+            "opening teaching as the Buddha's own initiative, a "
+            "subtle shift in framing that recurs as this vagga's "
+            "distinguishing feature even as the doctrinal content "
+            "itself stays unchanged."]),
+        ("Full restatement, not the compression used from here on", [
+            "Despite repeating SN 18.1's content, this discourse is "
+            "given in full rather than elided &mdash; the merged "
+            "discourse immediately following it will compress the "
+            "remaining nine categories far more heavily, but this "
+            "opening discourse of Dutiyavagga restates its single "
+            "category completely."]),
+        ("A deliberate full repeat before a very different compression", [
+            "Reading this discourse against SN 18.1 confirms the "
+            "content itself hasn't changed at all; reading it against "
+            "SN 18.12-20 immediately afterward reveals how much more "
+            "aggressively compressed the remaining categories will "
+            "be by comparison."]),
+    ],
+    terms=[
+        ("cakkhu … sotaṁ … ghānaṁ … jivhā … kāyo … mano",
+         "&ldquo;the eye … the ear … the nose … the tongue … the "
+         "body … the mind&rdquo; &mdash; the same six sense "
+         "faculties examined in SN 18.1, unchanged here."),
+        ("bhagavā … āyasmantaṁ rāhulaṁ … etadavoca",
+         "&ldquo;the Buddha … said to Venerable Rāhula&rdquo; "
+         "&mdash; the discourse's one structural change, marking "
+         "the Buddha as the one who initiates the exchange."),
+        ("aniccaṁ … dukkhaṁ … anattā",
+         "&ldquo;impermanent … suffering … not-self&rdquo; &mdash; "
+         "the identical three-step template from SN 18.1, unchanged "
+         "in substance."),
+        ("nibbindati … virajjati … vimuccati",
+         "&ldquo;grows disillusioned … desire fades away … is "
+         "freed&rdquo; &mdash; the same closing sequence, restated "
+         "here in full."),
+        ("paṭhamaṁ",
+         "&ldquo;the first&rdquo; &mdash; this discourse's closing "
+         "numbering tag, opening Dutiyavagga's own count."),
+    ],
+    text_intro=(
+        "The discourse in full. The source's closing editorial note "
+        "&mdash; instructing that the remaining nine discourses of "
+        "this series follow the same pattern &mdash; is described "
+        "above rather than quoted verbatim. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn18.11:1.1-1.25"),
+    ],
+    quiz=[
+        {"q": "What is this discourse's title, compared to SN 18.1's?",
+         "opts": [
+             "Identical — both are titled Cakkhusutta, \"The Eye, Etc.\", in both Pali and English",
+             "Similar but distinguishable, with a \"(2nd)\" marker in the source",
+             "Completely different, with no relationship to SN 18.1's title",
+             "This discourse has no title at all"],
+         "correct": 0,
+         "expl": "A genuine title collision in the source itself, not a naming coincidence to disambiguate."},
+        {"q": "What is the single change between this discourse and SN 18.1?",
+         "opts": [
+             "Who initiates the exchange — the Buddha speaks first here, rather than Rāhula requesting the teaching",
+             "The six faculties examined are entirely different",
+             "The closing sequence is omitted here",
+             "This discourse reaches the opposite conclusion"],
+         "correct": 0,
+         "expl": "Every other line, including the closing sequence, matches SN 18.1 exactly."},
+        {"q": "How does SN 18.1 begin, in contrast to this discourse?",
+         "opts": [
+             "With Rāhula approaching the Buddha and requesting a brief teaching",
+             "With the Buddha addressing a large crowd of mendicants",
+             "With an unnamed visitor asking a question",
+             "The two discourses begin in exactly the same way"],
+         "correct": 0,
+         "expl": "This discourse instead has the Buddha initiate the teaching unprompted."},
+        {"q": "What might this framing difference signal about Paṭhamavagga and Dutiyavagga?",
+         "opts": [
+             "A shift from framing teachings as Rāhula's initiative to framing them as the Buddha's own initiative",
+             "That the two vaggas teach completely contradictory doctrines",
+             "That Dutiyavagga was composed by an entirely different author",
+             "Nothing meaningful can be inferred from this difference"],
+         "correct": 0,
+         "expl": "A subtle shift in framing recurring as this vagga's distinguishing feature, even as content stays unchanged."},
+        {"q": "How is this discourse treated compared to the merged discourse immediately following it?",
+         "opts": [
+             "It is given in full, while the following discourse compresses its nine categories far more heavily",
+             "Both discourses are compressed to the same minimal degree",
+             "This discourse is more heavily elided than the one following it",
+             "Neither discourse contains any elision at all"],
+         "correct": 0,
+         "expl": "A full restatement before a much more aggressive compression begins."},
+        {"q": "What six faculties does this discourse examine?",
+         "opts": [
+             "Eye, ear, nose, tongue, body, and mind",
+             "Sights, sounds, smells, tastes, touches, and ideas",
+             "The five aggregates",
+             "The six elements"],
+         "correct": 0,
+         "expl": "The identical six internal sense faculties from SN 18.1."},
+        {"q": "What analytical steps does this discourse apply to each faculty?",
+         "opts": [
+             "Impermanent, therefore suffering, therefore not fit to be regarded as self",
+             "Visible, therefore describable, therefore nameable",
+             "Ancient, therefore authoritative, therefore unquestionable",
+             "No analytical steps are applied"],
+         "correct": 0,
+         "expl": "The same unchanged template from SN 18.1."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta."},
+        {"q": "Who are the two participants in this discourse?",
+         "opts": [
+             "Venerable Rāhula and the Buddha",
+             "Venerable Ānanda and the Buddha",
+             "Two unnamed mendicants",
+             "Rāhula and an unnamed brahmin"],
+         "correct": 0,
+         "expl": "The same father-and-son pair from throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Paṭhamaṁ, \"the first\"",
+             "Ekādasamaṁ, \"the eleventh\"",
+             "Dutiyaṁ, \"the second\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "Opening Dutiyavagga's own count, distinct from its position as the eleventh discourse overall."},
+    ],
+    marginalia=[
+        ("The same name, on purpose, not by accident", [
+            "Cakkhusutta again, word for word &mdash;",
+            "a genuine repeat, not a coincidental echo",
+        ]),
+        ("One line changed, everything else held constant", [
+            "the Buddha speaks first, this time &mdash;",
+            "no request needed before the teaching begins",
+        ]),
+        ("A subtle shift in who initiates", [
+            "Rāhula asked there; here, taught unprompted &mdash;",
+            "framing changed, substance entirely unchanged",
+        ]),
+        ("Full restatement before heavy compression begins", [
+            "one category spelled out completely &mdash;",
+            "nine more about to be compressed far further",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn18.11/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-18.10.html">SN 18.10 &middot; The Aggregates</a> '
+        "&mdash; Paṭhamavagga's closing discourse.",
+        '<a href="sn-18.12-20.html">SN 18.12&ndash;20 &middot; The '
+        "Nine Discourses on Sights, Etc.</a> &mdash; the next "
+        "discourse, compressing the remaining nine categories into "
+        "a single merged block.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 18.12-20 — Rūpādisuttanavaka (merged peyyāla block)
+# --------------------------------------------------------------------------- #
+page_range(
+    18, 12, 20, "Rūpādisuttanavaka", "The Nine Discourses on Sights, Etc.",
+    meta_title="SN 18.12–20 — The Nine Discourses on Sights, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 18.12 "
+        "through 18.20 — nine categories from Paṭhamavagga "
+        "revisited in a single heavily compressed block, from "
+        "sights through the five aggregates. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and Venerable Rāhula"),
+        ("Form", "Nine discourse numbers compressed into a single "
+                 "block, one section per category"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; nine categories, each reduced to its "
+                       "barest possible statement"),
+    ],
+    why=(
+        "Having reopened this vagga with the eye faculty restated in "
+        "full, this merged discourse now runs through the remaining "
+        "nine categories from Paṭhamavagga &mdash; sights, "
+        "consciousness, contact, feeling, perception, intention, "
+        "craving, elements, and the aggregates &mdash; each reduced "
+        "to a single terse section. Bilara-data preserves all nine "
+        "as one continuous block rather than nine separate files, "
+        "trusting the reader to supply SN 18.1 and 18.10's fuller "
+        "sentence structures around each bare list."),
+    guide=[
+        ("Nine categories, one file, nine clearly marked sections", [
+            "Unlike SN 18.13-20's individual titles suggesting nine "
+            "separate discourses, bilara-data stores this entire "
+            "range as a single file with nine internal sections, "
+            "each corresponding to exactly one of Paṭhamavagga's "
+            "original nine categories after the eye."]),
+        ("The most heavily compressed material in this saṃyutta", [
+            "Where even SN 18.2 through 18.9 gave each category its "
+            "own discourse number and full text, if elided sentence "
+            "structure, this block reduces every category to little "
+            "more than its own name, relying entirely on the reader "
+            "already having encountered the fuller versions in "
+            "Paṭhamavagga."]),
+        ("A structure that exactly mirrors Paṭhamavagga's order", [
+            "Sights, consciousness, contact, feeling, perception, "
+            "intention, craving, elements, aggregates: this "
+            "sequence reproduces Paṭhamavagga's own category order "
+            "exactly, confirming Dutiyavagga isn't reorganizing the "
+            "material but simply restating it at a different level "
+            "of compression."]),
+        ("The aggregates section alone given somewhat fuller treatment", [
+            "The ninth and final section, on the aggregates, "
+            "includes slightly more of the closing formula than the "
+            "eight sections before it, echoing how SN 18.10 also "
+            "received fuller treatment than the discourses "
+            "immediately preceding it in Paṭhamavagga."]),
+        ("Setting up the vagga's shift to a new question in its final two discourses", [
+            "After this compressed sweep through all ten of "
+            "Paṭhamavagga's original categories, the two discourses "
+            "closing this vagga move to a different kind of question "
+            "entirely, asking not whether each category is "
+            "impermanent but how one sees so as to be free of "
+            "conceit regarding all of them at once."]),
+    ],
+    terms=[
+        ("rūpā … saddā … gandhā … rasā … phoṭṭhabbā … dhammā",
+         "&ldquo;sights … sounds … smells … tastes … touches … "
+         "ideas&rdquo; &mdash; the first of this block's nine "
+         "sections, mirroring SN 18.2 exactly."),
+        ("cakkhuviññāṇaṁ … peyyāla series",
+         "the block's remaining sections proceed through "
+         "consciousness, contact, feeling, perception, intention, "
+         "craving, and the elements, each mirroring its "
+         "corresponding discourse from SN 18.3 through 18.9."),
+        ("rūpaṁ … vedanā … saññā … saṅkhārā … viññāṇaṁ",
+         "&ldquo;form … feeling … perception … choices … "
+         "consciousness&rdquo; &mdash; the ninth and final section, "
+         "mirroring SN 18.10's five aggregates."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; used throughout this "
+         "block far more extensively than in any single discourse "
+         "before it."),
+        ("aniccā",
+         "&ldquo;impermanent&rdquo; &mdash; the template's first "
+         "term, implied throughout even where not spelled out in "
+         "full for every section."),
+    ],
+    text_intro=(
+        "The full passage covering all nine categories, exactly as "
+        "compressed in the source. Each section implies "
+        "Paṭhamavagga's fuller sentence structure, not reproduced "
+        "here since the source itself doesn't reproduce it. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &middot; Sights, Etc.", "sn18.12-20:1.1-1.9"),
+        ("p", "&sect;2 &middot; Consciousness", "sn18.12-20:2.1-2.6"),
+        ("p", "&sect;3 &middot; Contact", "sn18.12-20:3.1-3.6"),
+        ("p", "&sect;4 &middot; Feeling", "sn18.12-20:4.1-4.6"),
+        ("p", "&sect;5 &middot; Perceptions", "sn18.12-20:5.1-5.6"),
+        ("p", "&sect;6 &middot; Intention", "sn18.12-20:6.1-6.6"),
+        ("p", "&sect;7 &middot; Craving", "sn18.12-20:7.1-7.6"),
+        ("p", "&sect;8 &middot; Elements", "sn18.12-20:8.1-8.6"),
+        ("p", "&sect;9 &middot; The Aggregates", "sn18.12-20:9.1-9.8"),
+    ],
+    quiz=[
+        {"q": "How does bilara-data preserve the nine discourse numbers SN 18.12-20?",
+         "opts": [
+             "As a single file with nine internal sections, one per category",
+             "As nine fully independent, completely spelled-out files",
+             "As a single sentence with no internal divisions at all",
+             "This range does not exist in bilara-data"],
+         "correct": 0,
+         "expl": "One file, nine clearly marked sections, each corresponding to one of Paṭhamavagga's categories."},
+        {"q": "How compressed is this block compared to SN 18.2 through 18.9?",
+         "opts": [
+             "More heavily compressed — each category reduced to little more than its own name",
+             "Less compressed, with fuller sentence structure than the earlier discourses",
+             "Identical in compression level to the earlier discourses",
+             "This block contains no compression at all"],
+         "correct": 0,
+         "expl": "Relying entirely on the reader already having encountered the fuller versions in Paṭhamavagga."},
+        {"q": "What order do this block's nine sections follow?",
+         "opts": [
+             "The exact same order as Paṭhamavagga's own nine categories after the eye",
+             "A completely randomized, unpredictable order",
+             "The reverse of Paṭhamavagga's order",
+             "Only three of Paṭhamavagga's nine categories are included here"],
+         "correct": 0,
+         "expl": "Confirming Dutiyavagga restates the material rather than reorganizing it."},
+        {"q": "Which section of this block receives somewhat fuller treatment than the others?",
+         "opts": [
+             "The ninth and final section, on the aggregates",
+             "The first section, on sights",
+             "No section receives any different treatment from the others",
+             "The section on craving"],
+         "correct": 0,
+         "expl": "Echoing how SN 18.10 also received fuller treatment in Paṭhamavagga."},
+        {"q": "What happens in the two discourses closing this vagga, after this compressed block?",
+         "opts": [
+             "The vagga shifts to a different question — how to see all these categories together so as to be free of conceit",
+             "The exact same nine categories are compressed even further",
+             "The vagga ends immediately with no further discourses",
+             "An entirely unrelated saṃyutta begins"],
+         "correct": 0,
+         "expl": "Not whether each category is impermanent, but how to see beyond conceit regarding all of them at once."},
+        {"q": "What does this block's structure confirm about Dutiyavagga's relationship to Paṭhamavagga?",
+         "opts": [
+             "That it restates the same material at a different level of compression, not a reorganization",
+             "That it introduces entirely new categories never seen before",
+             "That it contradicts everything taught in Paṭhamavagga",
+             "That the two vaggas are entirely unrelated"],
+         "correct": 0,
+         "expl": "The same category order, compressed rather than restructured."},
+        {"q": "What are the nine categories this block runs through?",
+         "opts": [
+             "Sights, consciousness, contact, feeling, perception, intention, craving, elements, and the aggregates",
+             "Only the six sense faculties, repeated nine times",
+             "Nine entirely new categories never mentioned before",
+             "The four noble truths and five hindrances"],
+         "correct": 0,
+         "expl": "Mirroring SN 18.2 through 18.10's nine categories exactly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta."},
+        {"q": "Who are the two participants across this block?",
+         "opts": [
+             "Venerable Rāhula and the Buddha",
+             "Venerable Ānanda and the Buddha",
+             "Two unnamed mendicants",
+             "Rāhula and an unnamed brahmin"],
+         "correct": 0,
+         "expl": "The same father-and-son pair continuing throughout this saṃyutta."},
+        {"q": "What discourse immediately precedes this merged block?",
+         "opts": [
+             "SN 18.11, which restated the eye category in full",
+             "SN 18.1, this saṃyutta's very first discourse",
+             "SN 18.22, the saṃyutta's closing discourse",
+             "This block has no discourse immediately before it"],
+         "correct": 0,
+         "expl": "Completing the eye-through-aggregates sweep that SN 18.11 began restating."},
+    ],
+    marginalia=[
+        ("Nine categories, folded into one file", [
+            "sections marked, but barely more than names &mdash;",
+            "trusting Paṭhamavagga to supply the rest",
+        ]),
+        ("The same order, simply compressed further", [
+            "sights through aggregates, unchanged sequence &mdash;",
+            "restatement, not reorganization",
+        ]),
+        ("One section given slightly more room", [
+            "the aggregates, again treated a little fuller &mdash;",
+            "an echo of how SN 18.10 stood apart too",
+        ]),
+        ("A different question waiting just past this block", [
+            "not \"is it impermanent\" much longer &mdash;",
+            "\"how does one see beyond conceit,\" next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn18.12-20/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-18.11.html">SN 18.11 &middot; The Eye, Etc.</a> '
+        "&mdash; the discourse immediately before this block.",
+        '<a href="sn-18.21.html">SN 18.21 &middot; Tendency</a> '
+        "&mdash; the next discourse, shifting to a new comprehensive "
+        "question.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 18.21 — Anusayasutta
+# --------------------------------------------------------------------------- #
+page(
+    18, 21, "Anusaya", "Tendency",
+    meta_title="SN 18.21 — Tendency | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Anusayasutta — Rāhula asks how to see so that "
+        "there's no I-making, mine-making, or underlying tendency "
+        "to conceit, and the Buddha answers with the comprehensive "
+        "aggregate formula. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rāhula and the Buddha"),
+        ("Form", "A question posed by Rāhula, answered with a "
+                 "comprehensive formula distinct from this vagga's "
+                 "earlier template"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; a new question and a new formula, "
+                       "after ten discourses built on one repeated "
+                       "template"),
+    ],
+    why=(
+        "After ten discourses (and the merged block reprising nine "
+        "of them) built entirely on the impermanent-suffering-"
+        "not-self template, this discourse introduces a different "
+        "question. Rāhula asks: how does one know and see so that "
+        "there's no I-making, mine-making, or underlying tendency to "
+        "conceit for this conscious body and externally for all "
+        "signs? The Buddha's answer uses a different, more "
+        "comprehensive formula &mdash; examining any form at all, "
+        "past, future, or present, internal or external, coarse or "
+        "subtle, inferior or superior, far or near, as not mine, not "
+        "I, not my self &mdash; applied to each of the five "
+        "aggregates."),
+    guide=[
+        ("A question, not a category, driving this discourse", [
+            "Every earlier discourse in this saṃyutta opened with "
+            "the Buddha's own question about a specific category; "
+            "this discourse instead opens with Rāhula posing his own "
+            "question, shifting the initiative and the discourse's "
+            "underlying concern toward a psychological state rather "
+            "than a doctrinal category."]),
+        ("I-making, mine-making, and underlying tendency named as the target", [
+            "Ahaṅkāra, mamaṅkāra, and mānānusaya &mdash; I-making, "
+            "mine-making, and the underlying tendency to conceit "
+            "&mdash; name something more specific than mere craving "
+            "or attachment: the habitual construction of a sense of "
+            "self and its lingering residue even after gross "
+            "attachment has been addressed."]),
+        ("A comprehensive formula distinct from this vagga's earlier template", [
+            "Rather than the impermanent-suffering-not-self sequence "
+            "used throughout the ten discourses before it, this "
+            "discourse uses a formula examining every possible "
+            "instance of form &mdash; past, future, present, "
+            "internal, external, coarse, subtle, inferior, superior, "
+            "far, near &mdash; a more exhaustive sweep than the "
+            "earlier template's three questions."]),
+        ("The five aggregates as the vehicle for this new formula", [
+            "Form, feeling, perception, choices, and consciousness "
+            "recur here from SN 18.10 and the merged block's ninth "
+            "section, but now serve as the framework for this "
+            "different, more comprehensive analytical formula rather "
+            "than the earlier permanence-based questions."]),
+        ("Setting up the vagga's actual closing discourse", [
+            "This discourse's question and formula recur almost "
+            "unchanged in the discourse immediately following it, "
+            "which asks a closely related question about a heart "
+            "already rid of conceit rather than one still working "
+            "toward that freedom."]),
+    ],
+    terms=[
+        ("ahaṅkāramamaṅkāramānānusayā",
+         "&ldquo;I-making, mine-making, and the underlying tendency "
+         "to conceit&rdquo; &mdash; the specific target this "
+         "discourse's question names, more particular than general "
+         "craving or attachment."),
+        ("saviññāṇake kāye",
+         "&ldquo;this conscious body&rdquo; &mdash; the internal "
+         "reference point named alongside all external signs in "
+         "Rāhula's question."),
+        ("atītānāgatapaccuppannaṁ … dūre santike vā",
+         "&ldquo;past, future, or present … far or near&rdquo; "
+         "&mdash; the comprehensive set of qualifiers this "
+         "discourse's formula applies to every instance of each "
+         "aggregate."),
+        ("netaṁ mama, nesohamasmi, na meso attā",
+         "&ldquo;this is not mine, I am not this, this is not my "
+         "self&rdquo; &mdash; the formula's conclusion, phrased in "
+         "the negative rather than as a question."),
+        ("ekādasamaṁ",
+         "&ldquo;the eleventh&rdquo; &mdash; this discourse's "
+         "closing numbering tag, its position across the whole "
+         "saṃyutta."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn18.21:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What question does Rāhula ask at the start of this discourse?",
+         "opts": [
+             "How does one know and see so that there's no I-making, mine-making, or underlying tendency to conceit?",
+             "How many discourses remain in this saṃyutta?",
+             "Whether the eye is permanent or impermanent",
+             "No question is asked in this discourse"],
+         "correct": 0,
+         "expl": "A shift toward a psychological state rather than a doctrinal category."},
+        {"q": "How does this discourse's opening differ from the ten discourses before it?",
+         "opts": [
+             "Rāhula poses his own question, rather than the Buddha opening with a question about a category",
+             "The Buddha refuses to answer any question at all",
+             "This is the first discourse featuring any dialogue whatsoever",
+             "There is no difference in how this discourse opens"],
+         "correct": 0,
+         "expl": "Shifting the initiative toward a different underlying concern."},
+        {"q": "What does \"I-making, mine-making, and underlying tendency to conceit\" name, more specifically than general craving?",
+         "opts": [
+             "The habitual construction of a sense of self and its lingering residue even after gross attachment is addressed",
+             "A physical illness affecting monastics",
+             "A formal monastic rule regarding property",
+             "Nothing more specific than general craving"],
+         "correct": 0,
+         "expl": "A more particular target than simple attachment or craving."},
+        {"q": "What formula does the Buddha use to answer, distinct from this vagga's earlier template?",
+         "opts": [
+             "Examining every instance of each aggregate — past, future, present, internal, external, coarse, subtle, inferior, superior, far, near — as not mine, not I, not my self",
+             "The exact same impermanent-suffering-not-self three-question sequence used throughout the vagga",
+             "A formula involving only the six sense faculties",
+             "No formula is given in response to the question"],
+         "correct": 0,
+         "expl": "A more exhaustive sweep than the earlier template's three questions."},
+        {"q": "What serves as the vehicle for this new, more comprehensive formula?",
+         "opts": [
+             "The five aggregates — form, feeling, perception, choices, and consciousness",
+             "The six sense faculties",
+             "The six elements",
+             "An entirely new, previously unseen category"],
+         "correct": 0,
+         "expl": "Recurring here from SN 18.10 and the merged block, now serving a different analytical formula."},
+        {"q": "How does this discourse relate to the one immediately following it?",
+         "opts": [
+             "Its question and formula recur almost unchanged, applied to a heart already rid of conceit rather than still working toward it",
+             "The following discourse contradicts everything stated here",
+             "The following discourse addresses an entirely unrelated topic",
+             "There is no relationship between the two discourses"],
+         "correct": 0,
+         "expl": "Setting up the vagga's actual closing discourse."},
+        {"q": "How is the formula's conclusion phrased in this discourse?",
+         "opts": [
+             "As a negative statement: \"this is not mine, I am not this, this is not my self\"",
+             "As a question, exactly as in the earlier template",
+             "As an affirmative claim of ownership",
+             "No conclusion is given"],
+         "correct": 0,
+         "expl": "Distinct in phrasing from the earlier template's questioning form."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta."},
+        {"q": "Who are the two participants in this discourse?",
+         "opts": [
+             "Venerable Rāhula and the Buddha",
+             "Venerable Ānanda and the Buddha",
+             "Two unnamed mendicants",
+             "Rāhula and an unnamed brahmin"],
+         "correct": 0,
+         "expl": "The same father-and-son pair from throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Ekādasamaṁ, \"the eleventh\"",
+             "Dasamaṁ, \"the tenth\"",
+             "Dvādasamaṁ, \"the twelfth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eleventh discourse-position across the whole saṃyutta."},
+    ],
+    marginalia=[
+        ("Rāhula asking, not just being asked", [
+            "his own question, after ten discourses of the reverse &mdash;",
+            "the initiative shifting for the first time",
+        ]),
+        ("A residue named more precisely than craving", [
+            "I-making, mine-making, an underlying tendency &mdash;",
+            "something left over even past gross attachment",
+        ]),
+        ("A wider net than the earlier three questions", [
+            "past, future, present, near, far, all of it &mdash;",
+            "no instance of the aggregates left unexamined",
+        ]),
+        ("A formula about to be reused almost exactly", [
+            "the same sweep, one discourse away from repeating &mdash;",
+            "this question's near-twin still to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn18.21/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-18.12-20.html">SN 18.12&ndash;20 &middot; The '
+        "Nine Discourses on Sights, Etc.</a> &mdash; the discourse "
+        "immediately before this one.",
+        '<a href="sn-18.22.html">SN 18.22 &middot; Rid of '
+        "Conceit</a> &mdash; the saṃyutta's closing discourse, "
+        "reusing this same formula.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 18.22 — Apagatasutta (closes the saṃyutta)
+# --------------------------------------------------------------------------- #
+page(
+    18, 22, "Apagata", "Rid of Conceit",
+    meta_title="SN 18.22 — Rid of Conceit | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Apagatasutta — Rāhula asks how the heart becomes "
+        "rid of I-making, mine-making, and conceit, peaceful and "
+        "well freed, closing Rāhulasaṃyutta. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rāhula and the Buddha"),
+        ("Form", "SN 18.21's question and formula reused, now "
+                 "applied to a heart already free"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; the saṃyutta's closing discourse, "
+                       "ending on realized freedom rather than the "
+                       "path toward it"),
+    ],
+    why=(
+        "This discourse closes Rāhulasaṃyutta by reusing SN 18.21's "
+        "question and formula almost exactly, but shifted from "
+        "process to accomplishment. Where SN 18.21 asked how to see "
+        "so that there's no I-making, mine-making, or underlying "
+        "tendency to conceit, this discourse asks how the heart "
+        "becomes rid of I-making, mine-making, and conceit "
+        "altogether, going beyond discrimination, peaceful and well "
+        "freed. The Buddha's answer applies the identical "
+        "comprehensive aggregate formula, but concludes not merely "
+        "with the negative judgment &lsquo;not mine, not I, not my "
+        "self&rsquo; but with the declaration that one is freed by "
+        "not grasping."),
+    guide=[
+        ("A closing question shifted from ongoing practice to realized freedom", [
+            "SN 18.21's question describes an ongoing orientation, "
+            "how does one see so that there's no tendency to "
+            "conceit; this discourse's question describes something "
+            "already accomplished, a heart rid of conceit, "
+            "peaceful and well freed &mdash; the difference between "
+            "practicing toward freedom and having arrived at it."]),
+        ("The identical aggregate formula, now concluding differently", [
+            "Every element of SN 18.21's comprehensive sweep through "
+            "the five aggregates recurs here unchanged, but the "
+            "conclusion shifts from a bare negative judgment to "
+            "anupādā vimutto hoti, &ldquo;freed by not grasping&rdquo; "
+            "&mdash; naming the actual liberation the earlier "
+            "discourse's insight makes possible."]),
+        ("A title naming accomplishment, not aspiration", [
+            "Apagata, &ldquo;rid of, departed from,&rdquo; names a "
+            "completed state rather than a method or aspiration, "
+            "fitting this discourse's role as the saṃyutta's actual "
+            "close rather than merely its twelfth entry."]),
+        ("The saṃyutta's own colophon, translated in full", [
+            "Following this discourse, the source includes an "
+            "untranslated uddāna verse listing all twelve discourse "
+            "titles of Dutiyavagga, but the saṃyutta's own closing "
+            "line &mdash; the Linked Discourses with Rāhula are "
+            "complete &mdash; is rendered in full, following the "
+            "same convention seen at the close of other completed "
+            "saṃyuttas in this collection."]),
+        ("A fitting close to a saṃyutta built around a father's teaching", [
+            "Having opened with Rāhula's own request for a brief "
+            "teaching to support solitary practice, this saṃyutta "
+            "closes with a description of exactly the freedom that "
+            "practice was meant to lead toward &mdash; the arc from "
+            "SN 18.1's request to this discourse's accomplishment "
+            "spans the entire collection."]),
+    ],
+    terms=[
+        ("ahaṅkāramamaṅkāramānāpagataṁ",
+         "&ldquo;rid of I-making, mine-making, and conceit&rdquo; "
+         "&mdash; this discourse's title term, naming an "
+         "accomplished state rather than an ongoing method."),
+        ("vidhā samatikkantaṁ",
+         "&ldquo;going beyond discrimination&rdquo; &mdash; an "
+         "additional qualifier not present in SN 18.21's question, "
+         "marking this discourse's more advanced concern."),
+        ("anupādā vimutto hoti",
+         "&ldquo;freed by not grasping&rdquo; &mdash; this "
+         "discourse's concluding declaration, replacing SN 18.21's "
+         "bare negative judgment with an explicit statement of "
+         "liberation."),
+        ("santaṁ suvimuttaṁ",
+         "&ldquo;peaceful and well freed&rdquo; &mdash; describing "
+         "the heart's condition once rid of I-making, mine-making, "
+         "and conceit."),
+        ("rāhulasaṁyuttaṁ samattaṁ",
+         "&ldquo;the Linked Discourses with Rāhula are complete&rdquo; "
+         "&mdash; the saṃyutta's own closing colophon, translated in "
+         "full by the source."),
+    ],
+    text_intro=(
+        "The discourse in full, followed by the saṃyutta's own "
+        "closing colophon. The vagga's closing uddāna verse of "
+        "discourse titles is not translated in the source and is "
+        "not quoted here; see the reading guide above. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn18.22:1.1-1.4"),
+        ("p", "&sect;2", "sn18.22:2.1-2.5"),
+        ("p", "&sect;3 &middot; Colophon", "sn18.22:3.7"),
+    ],
+    quiz=[
+        {"q": "What question does Rāhula ask at the start of this discourse?",
+         "opts": [
+             "How the heart becomes rid of I-making, mine-making, and conceit, peaceful and well freed",
+             "How to request ordination as a mendicant",
+             "Whether the eye is permanent or impermanent",
+             "No question is asked in this discourse"],
+         "correct": 0,
+         "expl": "Describing an accomplished state rather than an ongoing practice."},
+        {"q": "How does this discourse's question differ from SN 18.21's?",
+         "opts": [
+             "It describes something already accomplished — a heart rid of conceit — rather than an ongoing orientation toward that goal",
+             "The two questions are worded identically with no difference",
+             "This discourse asks about a completely unrelated topic",
+             "This discourse contains no question at all"],
+         "correct": 0,
+         "expl": "The difference between practicing toward freedom and having arrived at it."},
+        {"q": "How does this discourse's formula conclude, compared to SN 18.21's?",
+         "opts": [
+             "With an explicit declaration of liberation — \"freed by not grasping\" — rather than a bare negative judgment",
+             "With an identical bare negative judgment and nothing more",
+             "With no conclusion given at all",
+             "With a direct contradiction of SN 18.21's conclusion"],
+         "correct": 0,
+         "expl": "Naming the actual liberation the earlier discourse's insight makes possible."},
+        {"q": "What does the title Apagata, \"rid of,\" name?",
+         "opts": [
+             "A completed, accomplished state rather than a method or aspiration",
+             "A specific meditation technique",
+             "A physical location near Sāvatthī",
+             "An ongoing, never-completed process"],
+         "correct": 0,
+         "expl": "Fitting this discourse's role as the saṃyutta's actual close."},
+        {"q": "How is the saṃyutta's own closing colophon treated?",
+         "opts": [
+             "It is translated in full — \"the Linked Discourses with Rāhula are complete\"",
+             "It is left entirely untranslated, like the vagga's uddāna verse",
+             "No colophon exists for this saṃyutta",
+             "It is translated only partially"],
+         "correct": 0,
+         "expl": "Following the same convention seen at the close of other completed saṃyuttas."},
+        {"q": "What arc does this discourse complete, read alongside SN 18.1?",
+         "opts": [
+             "From Rāhula's initial request for a brief teaching to support solitary practice, to a description of the freedom that practice was meant to lead toward",
+             "No meaningful arc connects this discourse to SN 18.1",
+             "This discourse directly contradicts SN 18.1's teaching",
+             "SN 18.1 and this discourse address entirely unrelated topics"],
+         "correct": 0,
+         "expl": "The arc from request to accomplishment spans the entire collection."},
+        {"q": "What additional qualifier appears in this discourse's question but not in SN 18.21's?",
+         "opts": [
+             "Vidhā samatikkantaṁ, \"going beyond discrimination\"",
+             "Sekhaṁ appattamānasaṁ, \"a trainee who hasn't achieved their goal\"",
+             "Abhibhūtaṁ pariyādiṇṇacittaṁ, \"overcome and overwhelmed\"",
+             "No additional qualifier appears in this discourse"],
+         "correct": 0,
+         "expl": "Marking this discourse's more advanced concern than SN 18.21's."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta."},
+        {"q": "Who are the two participants in this discourse?",
+         "opts": [
+             "Venerable Rāhula and the Buddha",
+             "Venerable Ānanda and the Buddha",
+             "Two unnamed mendicants",
+             "Rāhula and an unnamed brahmin"],
+         "correct": 0,
+         "expl": "The same father-and-son pair concluding this saṃyutta."},
+        {"q": "What position does this discourse hold in the saṃyutta?",
+         "opts": [
+             "The twelfth and final discourse of Dutiyavagga, closing Rāhulasaṃyutta entirely",
+             "The first discourse of an entirely new saṃyutta",
+             "The fifth discourse, at the vagga's midpoint",
+             "It does not belong to this saṃyutta"],
+         "correct": 0,
+         "expl": "Dvādasamaṁ, marked at its close, followed by the vagga's end and the saṃyutta's own colophon."},
+    ],
+    marginalia=[
+        ("From orientation to arrival", [
+            "not \"how does one see,\" but \"how is one already free\" &mdash;",
+            "the same ground, described from its far side",
+        ]),
+        ("The identical sweep, a different ending", [
+            "same aggregates, same qualifiers, one new word &mdash;",
+            "\"freed by not grasping,\" stated outright",
+        ]),
+        ("A title naming what's finished, not what's sought", [
+            "\"rid of,\" not \"how to be rid of\" &mdash;",
+            "accomplishment, fitting a saṃyutta's actual close",
+        ]),
+        ("A father's teaching, completing its own arc", [
+            "a son's request, then this description of freedom &mdash;",
+            "the whole saṃyutta spanning ask to arrival",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn18.22/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-18.21.html">SN 18.21 &middot; Tendency</a> '
+        "&mdash; the discourse whose question and formula this one "
+        "completes.",
+        '<a href="sn-18.1.html">SN 18.1 &middot; The Eye, Etc.</a> '
+        "&mdash; this saṃyutta's opening discourse, whose request "
+        "for a brief teaching this closing discourse's description "
+        "of realized freedom answers in full.",
+    ],
+)
