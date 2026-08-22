@@ -35897,3 +35897,2132 @@ page_range(
         "chapter.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.21 — Mātugāmasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 21, "Mātugāma", "A Female",
+    meta_title="SN 17.21 — A Female | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Mātugāmasutta — even alone with a woman, she might "
+        "not occupy your mind, but possessions, honor, and "
+        "popularity would still occupy it. Opens Tatiyavagga. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, opening the vagga's third "
+                     "chapter"),
+        ("Form", "A single compact comparative claim, without "
+                 "narrative"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; a deliberately provocative comparison "
+                       "opening the vagga"),
+    ],
+    why=(
+        "This discourse opens Tatiyavagga with a striking "
+        "comparison: even alone with a woman, she might not occupy "
+        "your mind &mdash; but possessions, honor, and popularity "
+        "would still occupy it. The claim doesn't deny that sexual "
+        "temptation is real; it ranks a second danger as potentially "
+        "more consuming than the first, precisely because it can "
+        "take hold even in the absence of any external object at "
+        "all."),
+    guide=[
+        ("A comparison, not a denial of the first danger", [
+            "The discourse doesn't claim that being alone with a "
+            "woman poses no risk; SN 17.9's narrative already showed "
+            "exactly that risk in full. What this discourse adds is "
+            "a ranking &mdash; naming a second danger as capable of "
+            "taking hold even more completely."]),
+        ("Danger without a specific external trigger", [
+            "Where SN 17.9's fall required an actual encounter, this "
+            "discourse's danger needs no such occasion; possessions, "
+            "honor, and popularity can occupy the mind independent "
+            "of any specific person or moment being present at "
+            "all."]),
+        ("Opening a new chapter with its sharpest comparison yet", [
+            "Placed first in Tatiyavagga, this discourse sets a "
+            "provocative tone for the chapter, using a comparison "
+            "calculated to unsettle any assumption that sexual "
+            "temptation is necessarily the mind's most persistent "
+            "danger."]),
+        ("A claim that will itself be escalated", [
+            "The discourse immediately following this one repeats "
+            "the identical structure with an even more extreme "
+            "figure substituted, escalating the comparison exactly "
+            "as SN 17.11-12's gold and silver pair was escalated by "
+            "the merged discourse that followed."]),
+        ("Occupying the mind as the discourse's real concern", [
+            "cittaṁ pariyādāya tiṭṭhati, &ldquo;occupies the "
+            "mind,&rdquo; is the discourse's precise technical "
+            "concern &mdash; not merely whether a temptation is "
+            "present, but whether it takes over one's attention "
+            "entirely."]),
+    ],
+    terms=[
+        ("mātugāma",
+         "&ldquo;a woman&rdquo; (literally &ldquo;womenfolk&rdquo;) "
+         "&mdash; this discourse's named point of comparison."),
+        ("cittaṁ pariyādāya tiṭṭhati",
+         "&ldquo;occupies the mind&rdquo; &mdash; the discourse's "
+         "precise concern, naming complete mental preoccupation "
+         "rather than mere presence of temptation."),
+        ("eko ekassa",
+         "&ldquo;alone with&rdquo; (literally &ldquo;one with "
+         "one&rdquo;) &mdash; specifying total privacy, the "
+         "condition under which the comparison is made."),
+        ("dāruṇo … kaṭuko pharuso",
+         "&ldquo;grim … bitter, harsh&rdquo; &mdash; the recurring "
+         "vocabulary this saṃyutta applies to possessions, honor, "
+         "and popularity throughout."),
+        ("paṭhamaṁ",
+         "&ldquo;the first&rdquo; &mdash; this discourse's closing "
+         "numbering tag, opening Tatiyavagga's own count."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.21:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What comparison does this discourse make?",
+         "opts": [
+             "Even alone with a woman, she might not occupy your mind, but possessions, honor, and popularity would still occupy it",
+             "Possessions and honor are entirely harmless compared to sexual temptation",
+             "A woman's presence is said to be more dangerous than any other temptation",
+             "No comparison is made in this discourse"],
+         "correct": 0,
+         "expl": "A ranking of two dangers, not a denial of either."},
+        {"q": "Does this discourse deny that sexual temptation, as described in SN 17.9, is a real danger?",
+         "opts": [
+             "No — it doesn't deny that danger, it ranks a second danger as potentially even more consuming",
+             "Yes, it directly contradicts SN 17.9's warning",
+             "The discourse never mentions sexual temptation at all",
+             "It claims SN 17.9's warning was a later addition to the text"],
+         "correct": 0,
+         "expl": "A comparison built on top of, not against, the earlier warning."},
+        {"q": "What condition does this discourse specify for its comparison?",
+         "opts": [
+             "Being alone with a woman, total privacy",
+             "Being in a crowded public place",
+             "Being newly ordained as a mendicant",
+             "No specific condition is given"],
+         "correct": 0,
+         "expl": "Eko ekassa, \"alone with,\" specifying complete privacy."},
+        {"q": "What technical phrase does the discourse use for its real concern?",
+         "opts": [
+             "\"Occupies the mind\" (cittaṁ pariyādāya tiṭṭhati)",
+             "\"Causes physical harm\"",
+             "\"Leads to social embarrassment\"",
+             "No specific technical phrase is used"],
+         "correct": 0,
+         "expl": "Complete mental preoccupation, not merely the presence of temptation."},
+        {"q": "How does this discourse's danger differ from SN 17.9's, in terms of what triggers it?",
+         "opts": [
+             "It needs no specific external encounter or occasion at all",
+             "It requires an even more specific, elaborate set of circumstances",
+             "It can only occur during formal almsround",
+             "There is no difference; the two dangers require identical triggers"],
+         "correct": 0,
+         "expl": "Possessions, honor, and popularity can occupy the mind independent of any specific occasion."},
+        {"q": "What role does this discourse play in opening Tatiyavagga?",
+         "opts": [
+             "It sets a provocative tone with the chapter's sharpest comparison so far",
+             "It closes the chapter rather than opening it",
+             "It has no particular significance to the chapter's structure",
+             "It repeats Paṭhamavagga's opening discourse exactly"],
+         "correct": 0,
+         "expl": "A comparison calculated to unsettle assumptions about which danger is most persistent."},
+        {"q": "What happens to this discourse's comparison in the discourse immediately following it?",
+         "opts": [
+             "It is repeated with an even more extreme figure substituted",
+             "It is directly retracted and reversed",
+             "Nothing follows this discourse; it is the vagga's last",
+             "The following discourse addresses an entirely unrelated topic"],
+         "correct": 0,
+         "expl": "An escalation mirroring the earlier gold-and-silver pairing pattern."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears in this discourse."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Paṭhamaṁ, \"the first\"",
+             "Dutiyaṁ, \"the second\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The first discourse of Tatiyavagga."},
+    ],
+    marginalia=[
+        ("A comparison meant to unsettle", [
+            "not what you'd expect to be named more consuming &mdash;",
+            "ranked above even that private temptation",
+        ]),
+        ("No object required to take hold", [
+            "no encounter, no specific moment &mdash;",
+            "present even where nothing else is",
+        ]),
+        ("Occupying the mind, named precisely", [
+            "not mere presence, but total takeover &mdash;",
+            "the discourse's exact technical concern",
+        ]),
+        ("A claim about to be escalated further", [
+            "already provocative, then pushed further still &mdash;",
+            "the very next discourse raises the stakes",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.21/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.13-20.html">SN 17.13&ndash;20 &middot; A Gold '
+        "Ingot, Etc.</a> &mdash; Dutiyavagga's closing discourse.",
+        '<a href="sn-17.22.html">SN 17.22 &middot; The Finest Lady '
+        "in the Land</a> &mdash; the next discourse, escalating this "
+        "same comparison.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.22 — Kalyāṇīsutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 22, "Kalyāṇī", "The Finest Lady in the Land",
+    meta_title="SN 17.22 — The Finest Lady in the Land | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Kalyāṇīsutta — escalating SN 17.21's comparison to "
+        "its most extreme figure: even alone with the finest lady "
+        "in the land, possessions, honor, and popularity would "
+        "still occupy the mind more completely. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "An exact structural repeat of the discourse "
+                 "immediately before it, with one figure escalated"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; SN 17.21's comparison taken to its "
+                       "most extreme figure"),
+    ],
+    why=(
+        "This discourse repeats SN 17.21's structure exactly, "
+        "substituting janapadakalyāṇī, &ldquo;the finest lady in "
+        "the land,&rdquo; for the more general mātugāma of the "
+        "discourse before it &mdash; the same figure that closed "
+        "the merged discourse SN 17.13-20 as its most extreme "
+        "temptation. Even alone with her, the discourse claims, she "
+        "might not occupy your mind, but possessions, honor, and "
+        "popularity would still occupy it. Escalating the object of "
+        "comparison to its most extreme form only sharpens the same "
+        "point: this second danger can outmatch even the most "
+        "extreme version of the first."),
+    guide=[
+        ("The most extreme figure this saṃyutta names", [
+            "Janapadakalyāṇī was already used as the culminating, "
+            "most extreme item in the merged discourse SN 17.13-20's "
+            "ascending list; reusing her here as the point of "
+            "comparison ensures the claim can't be dismissed as "
+            "understating the first danger's real pull."]),
+        ("An escalation that changes the object, not the structure", [
+            "Every other element of SN 17.21 recurs here unchanged "
+            "&mdash; the setting, the claim about occupying the "
+            "mind, the closing refrain &mdash; confirming that the "
+            "comparison's force lies specifically in which figure "
+            "is named, not in any other variable."]),
+        ("A deliberate echo across the vagga boundary", [
+            "By reusing the exact figure that closed Dutiyavagga's "
+            "escalating list, this discourse ties Tatiyavagga's "
+            "opening pair back to the chapter before it, showing the "
+            "collection's structure is aware of its own earlier "
+            "material rather than introducing figures at random."]),
+        ("A comparison built to withstand its strongest objection", [
+            "If someone doubted SN 17.21's claim by arguing that an "
+            "ordinary woman is easy enough to resist, this discourse "
+            "removes that objection by naming the specific figure "
+            "the collection itself treats as maximally desirable."]),
+        ("Two discourses functioning as a matched escalation", [
+            "As with SN 17.11 and 17.12's gold cup and silver pot, "
+            "this pair's real content lies in reading both together "
+            "&mdash; the claim first stated generally, then pushed "
+            "to its most extreme test case."]),
+    ],
+    terms=[
+        ("janapadakalyāṇī",
+         "&ldquo;the finest lady in the land&rdquo; &mdash; the "
+         "same figure that closed the merged discourse SN 17.13-20's "
+         "ascending list as its most extreme item."),
+        ("cittaṁ pariyādāya tiṭṭhati",
+         "&ldquo;occupies the mind&rdquo; &mdash; the identical "
+         "technical phrase repeated from SN 17.21."),
+        ("eko ekassa",
+         "&ldquo;alone with&rdquo; &mdash; specifying total "
+         "privacy, unchanged from the discourse before this one."),
+        ("dutiyaṁ",
+         "&ldquo;the second&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+        ("dāruṇo",
+         "&ldquo;grim&rdquo; &mdash; the recurring characterization "
+         "applied here, as throughout this saṃyutta, to possessions, "
+         "honor, and popularity."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.22:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What figure does this discourse substitute for SN 17.21's more general \"woman\"?",
+         "opts": [
+             "Janapadakalyāṇī, \"the finest lady in the land\"",
+             "A specific named historical queen",
+             "A goddess from Buddhist cosmology",
+             "No substitution is made; the wording is identical"],
+         "correct": 0,
+         "expl": "The most extreme, culminating figure the collection has already used elsewhere."},
+        {"q": "Where else in this saṃyutta does this same figure appear as a culminating item?",
+         "opts": [
+             "As the final, most extreme item in the merged discourse SN 17.13-20's ascending list",
+             "Nowhere else; this is the figure's only appearance",
+             "As the opening image of SN 17.1",
+             "As a named exemplar in SN 17.23"],
+         "correct": 0,
+         "expl": "A deliberate echo tying Tatiyavagga back to Dutiyavagga's closing discourse."},
+        {"q": "What does escalating the point of comparison to its most extreme figure accomplish?",
+         "opts": [
+             "It removes the objection that an easily-resisted figure was chosen to understate the first danger",
+             "It weakens the comparison by making it less believable",
+             "It shifts the discourse's focus away from possessions, honor, and popularity entirely",
+             "It has no particular rhetorical effect"],
+         "correct": 0,
+         "expl": "A comparison built to withstand its strongest possible objection."},
+        {"q": "What elements of SN 17.21 recur here unchanged?",
+         "opts": [
+             "The setting, the claim about occupying the mind, and the closing refrain",
+             "Nothing recurs; every element is different",
+             "Only the setting recurs, with a wholly different claim",
+             "Only the closing refrain recurs"],
+         "correct": 0,
+         "expl": "Every variable except the named figure stays exactly the same."},
+        {"q": "How should this discourse and SN 17.21 best be read, according to this reading guide?",
+         "opts": [
+             "Together, as a matched escalation, similar to the gold cup and silver pot pairing",
+             "In complete isolation from one another",
+             "As direct contradictions of each other",
+             "As unrelated discourses from different collections"],
+         "correct": 0,
+         "expl": "A claim first stated generally, then pushed to its most extreme test case."},
+        {"q": "What does this discourse claim about possessions, honor, and popularity compared to this most extreme figure?",
+         "opts": [
+             "That they would still occupy the mind even where she might not",
+             "That she would occupy the mind more completely than they could",
+             "That neither would occupy the mind at all",
+             "No comparison between the two is actually made"],
+         "correct": 0,
+         "expl": "The same ranking as SN 17.21, now tested against the strongest possible case."},
+        {"q": "What does this discourse's structural relationship to Dutiyavagga suggest about the collection's construction?",
+         "opts": [
+             "That the collection is internally aware of its own earlier material, not introducing figures at random",
+             "That Dutiyavagga and Tatiyavagga were composed by entirely unrelated authors",
+             "That this discourse was a later scribal insertion unrelated to the rest",
+             "Nothing in particular can be inferred from this relationship"],
+         "correct": 0,
+         "expl": "A deliberate cross-chapter echo, not coincidence."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dutiyaṁ, \"the second\"",
+             "Paṭhamaṁ, \"the first\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The second discourse of Tatiyavagga."},
+    ],
+    marginalia=[
+        ("The strongest case, chosen on purpose", [
+            "not an easy figure to dismiss &mdash;",
+            "the very one already named most extreme",
+        ]),
+        ("A collection that remembers its own material", [
+            "the same figure, reused across chapters &mdash;",
+            "structure aware of what came before it",
+        ]),
+        ("Escalation without changing the claim itself", [
+            "everything the same, only the figure raised &mdash;",
+            "testing the comparison at its hardest point",
+        ]),
+        ("A pair, not two isolated statements", [
+            "general first, then pushed to the extreme &mdash;",
+            "read together, not each on its own",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.22/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.21.html">SN 17.21 &middot; A Female</a> '
+        "&mdash; the discourse this one escalates.",
+        '<a href="sn-17.23.html">SN 17.23 &middot; An Only Son</a> '
+        "&mdash; the next discourse, naming specific exemplars for "
+        "lay and monastic ideals.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.23 — Ekaputtakasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 23, "Ekaputtaka", "An Only Son",
+    meta_title="SN 17.23 — An Only Son | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Ekaputtakasutta — a faithful laywoman's advice to "
+        "her only son, naming Citta and Hatthaka as the standard "
+        "for lay disciples, Sāriputta and Moggallāna for monks, and "
+        "warning above all against possessions, honor, and "
+        "popularity reaching a trainee too soon. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, quoting a faithful laywoman's "
+                     "words to her son"),
+        ("Form", "A quoted parental appeal naming specific named "
+                 "exemplars, for lay life and for monastic life "
+                 "alike"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; the vagga's first discourse to name "
+                       "specific historical exemplars"),
+    ],
+    why=(
+        "This discourse quotes, in full, how a faithful laywoman "
+        "would rightly appeal to her only, beloved son: be like the "
+        "householder Citta and Hatthaka of Āḷavī, the Buddha's own "
+        "named standard for male lay disciples. But if you go forth "
+        "into homelessness, she continues, be like Sāriputta and "
+        "Moggallāna, the standard for monk disciples. And above all, "
+        "my darling, may you not come into possessions, honor, and "
+        "popularity while you're still a trainee who hasn't achieved "
+        "your heart's desire &mdash; because for a trainee, the "
+        "discourse states plainly, that would be an obstacle."),
+    guide=[
+        ("Named exemplars, not abstract virtues", [
+            "Rather than urging generic qualities like diligence or "
+            "faith, the appeal names specific individuals by name "
+            "&mdash; Citta and Hatthaka for lay life, Sāriputta and "
+            "Moggallāna for monastic life &mdash; giving the son "
+            "concrete models rather than abstractions to live up "
+            "to."]),
+        ("Two standards for two possible paths", [
+            "The appeal doesn't assume which path the son will "
+            "take; it offers a standard for each possibility in "
+            "turn, lay life or homelessness, treating both as "
+            "genuinely open outcomes worth naming a model for."]),
+        ("The warning placed after both standards, not before", [
+            "Only after naming both exemplars does the appeal turn "
+            "to its warning about possessions, honor, and "
+            "popularity &mdash; positioning that danger as a threat "
+            "to reaching either standard, not a separate, "
+            "unrelated concern."]),
+        ("A concern specific to the not-yet-arrived", [
+            "The warning targets sekha appattamānasa, a trainee who "
+            "hasn't yet achieved their heart's desire, exactly the "
+            "language used earlier in this saṃyutta's lightning and "
+            "arrow discourses &mdash; danger named as sharpest for "
+            "someone still on the way, not yet secure."]),
+        ("A mother's voice carrying the saṃyutta's own teaching", [
+            "The discourse doesn't have the Buddha state the warning "
+            "directly to the assembly; instead he quotes a "
+            "laywoman's private words to her son, letting an "
+            "ordinary parental appeal carry the same lesson found "
+            "throughout this collection."]),
+    ],
+    terms=[
+        ("saddhā upāsikā",
+         "&ldquo;a faithful laywoman&rdquo; &mdash; the speaker "
+         "whose private appeal the Buddha quotes in full."),
+        ("citto ca gahapati hatthako ca āḷavako",
+         "&ldquo;the householder Citta and Hatthaka of Āḷavī&rdquo; "
+         "&mdash; the Buddha's own named standard for male lay "
+         "disciples."),
+        ("sāriputtamoggallānā",
+         "&ldquo;Sāriputta and Moggallāna&rdquo; &mdash; the "
+         "Buddha's two chief disciples, named as the standard for "
+         "monk disciples."),
+        ("tulā … pamāṇaṁ",
+         "&ldquo;a standard and a measure&rdquo; &mdash; the "
+         "discourse's own term for what these named exemplars "
+         "represent."),
+        ("sekhaṁ appattamānasaṁ",
+         "&ldquo;a trainee who hasn't achieved their heart's "
+         "desire&rdquo; &mdash; the specific target of the mother's "
+         "warning, the same phrase used in SN 17.6-7's lightning "
+         "and arrow."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.23:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "Who does the faithful laywoman name as the standard for male lay disciples?",
+         "opts": [
+             "The householder Citta and Hatthaka of Āḷavī",
+             "Sāriputta and Moggallāna",
+             "Khemā and Uppalavaṇṇā",
+             "No specific names are given"],
+         "correct": 0,
+         "expl": "Named, concrete exemplars rather than abstract virtues."},
+        {"q": "Who does she name as the standard should her son go forth into homelessness?",
+         "opts": [
+             "Sāriputta and Moggallāna",
+             "The householder Citta and Hatthaka of Āḷavī",
+             "Khujjuttarā and Veḷukaṇṭakī",
+             "No standard is offered for monastic life"],
+         "correct": 0,
+         "expl": "The Buddha's own two chief disciples, named as the monastic standard."},
+        {"q": "What warning does the appeal add after naming both standards?",
+         "opts": [
+             "That he should not let possessions, honor, and popularity reach him while still a trainee",
+             "That he should avoid all contact with other mendicants",
+             "That he should never accept alms from strangers",
+             "No further warning is added"],
+         "correct": 0,
+         "expl": "Positioned as a threat to reaching either standard, lay or monastic."},
+        {"q": "According to the discourse, what would possessions, honor, and popularity be for a trainee who hasn't achieved their heart's desire?",
+         "opts": [
+             "An obstacle",
+             "A helpful accelerant toward the goal",
+             "Entirely irrelevant to their progress",
+             "A guaranteed sign of future success"],
+         "correct": 0,
+         "expl": "Antarāyāya, \"an obstacle,\" stated plainly."},
+        {"q": "Whose voice does the Buddha use to deliver this teaching?",
+         "opts": [
+             "A faithful laywoman's, quoted appealing to her only son",
+             "His own voice, addressed directly to the assembly",
+             "Venerable Ānanda's, recounting a story",
+             "An unnamed brahmin's"],
+         "correct": 0,
+         "expl": "An ordinary parental appeal carrying the saṃyutta's recurring lesson."},
+        {"q": "Does the appeal assume which path — lay life or homelessness — the son will actually take?",
+         "opts": [
+             "No — it offers a standard for each possible path in turn",
+             "Yes, it assumes he will remain a layperson",
+             "Yes, it assumes he will definitely go forth",
+             "The appeal doesn't address either path at all"],
+         "correct": 0,
+         "expl": "Both outcomes treated as genuinely open, each given its own named model."},
+        {"q": "What term does the discourse use for what Citta, Hatthaka, Sāriputta, and Moggallāna represent?",
+         "opts": [
+             "\"A standard and a measure\" (tulā, pamāṇaṁ)",
+             "\"Untouchable ideals no one could reach\"",
+             "\"Ordinary mendicants of no particular distinction\"",
+             "No specific term is used for their role"],
+         "correct": 0,
+         "expl": "Concrete, named benchmarks, not vague aspirations."},
+        {"q": "How does this discourse's warning connect to earlier discourses in this saṃyutta?",
+         "opts": [
+             "It uses the identical phrase for a trainee (sekha appattamānasa) found in SN 17.6-7",
+             "It contradicts everything stated in SN 17.6-7",
+             "It introduces an entirely new and unrelated technical vocabulary",
+             "There is no connection to any earlier discourse"],
+         "correct": 0,
+         "expl": "The same specific danger named for the same specific kind of person throughout this saṃyutta."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Tatiyaṁ, \"the third\"",
+             "Dutiyaṁ, \"the second\"",
+             "Catutthaṁ, \"the fourth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The third discourse of Tatiyavagga."},
+    ],
+    marginalia=[
+        ("Names, not abstractions, as the model", [
+            "Citta, Hatthaka, Sāriputta, Moggallāna &mdash;",
+            "concrete lives held up, not vague ideals",
+        ]),
+        ("A standard offered for either path", [
+            "one model for staying, one for going forth &mdash;",
+            "both outcomes taken seriously in advance",
+        ]),
+        ("The warning saved for last, not first", [
+            "after both standards, then the caution &mdash;",
+            "danger framed as a threat to reaching either",
+        ]),
+        ("An ordinary mother's voice, carrying the lesson", [
+            "not a formal address to the assembly &mdash;",
+            "a private appeal doing the saṃyutta's own work",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.23/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.22.html">SN 17.22 &middot; The Finest Lady '
+        "in the Land</a> &mdash; the discourse immediately before "
+        "this one.",
+        '<a href="sn-17.24.html">SN 17.24 &middot; An Only '
+        "Daughter</a> &mdash; the next discourse, mirroring this "
+        "one for a daughter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.24 — Ekadhītusutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 24, "Ekadhītu", "An Only Daughter",
+    meta_title="SN 17.24 — An Only Daughter | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Ekadhītusutta — mirroring SN 17.23 for a daughter: "
+        "Khujjuttarā and Veḷukaṇṭakī as the standard for laywomen, "
+        "Khemā and Uppalavaṇṇā for nuns. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, quoting a faithful laywoman's "
+                     "words to her daughter"),
+        ("Form", "An exact structural mirror of the discourse "
+                 "immediately before it, naming female exemplars"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; SN 17.23's structure mirrored for a "
+                       "daughter"),
+    ],
+    why=(
+        "This discourse repeats SN 17.23's structure exactly for a "
+        "daughter: a faithful laywoman appeals to her only, beloved "
+        "daughter to be like the laywomen Khujjuttarā and "
+        "Veḷukaṇṭakī, Nanda's mother, the Buddha's own named "
+        "standard for female lay disciples. But if she goes forth "
+        "into homelessness, be like the nuns Khemā and Uppalavaṇṇā, "
+        "the standard for nun disciples. And the same warning closes "
+        "it: may she not come into possessions, honor, and "
+        "popularity while still a trainee who hasn't achieved her "
+        "heart's desire, since that would be an obstacle for her as "
+        "well."),
+    guide=[
+        ("A complete, deliberate mirror, not a footnote", [
+            "This discourse isn't a brief addendum to SN 17.23; it "
+            "restates the full appeal at equal length, with female "
+            "exemplars named for both possible paths, treating the "
+            "daughter's situation as warranting the identical "
+            "thoroughness as the son's."]),
+        ("Four more named exemplars, doubling the total", [
+            "Between this discourse and SN 17.23, the saṃyutta now "
+            "names eight specific historical individuals as living "
+            "standards &mdash; two lay men, two monks, two "
+            "laywomen, two nuns &mdash; covering the range of "
+            "possible practitioners the tradition recognizes."]),
+        ("The same danger, named identically for a woman", [
+            "The warning about possessions, honor, and popularity "
+            "obstructing a trainee is repeated for the daughter in "
+            "exactly the same terms used for the son, without "
+            "modification, treating the danger as equally applicable "
+            "regardless of the practitioner's gender."]),
+        ("A pair completing what the previous discourse began", [
+            "Read together, SN 17.23 and this discourse form a "
+            "matched pair covering both a son's and a daughter's "
+            "possible paths, similar in function to the earlier "
+            "gold-cup-and-silver-pot and mātugāma-and-kalyāṇī pairs "
+            "elsewhere in this vagga."]),
+        ("Historical specificity as its own kind of teaching", [
+            "By naming real individuals from the early community "
+            "rather than idealized or invented figures, both this "
+            "discourse and SN 17.23 root their standard in "
+            "recognizable people the audience would have already "
+            "known by reputation."]),
+    ],
+    terms=[
+        ("khujjuttarā ca upāsikā veḷukaṇḍakiyā ca nandamātā",
+         "&ldquo;the laywomen Khujjuttarā and Veḷukaṇṭakī, Nanda's "
+         "mother&rdquo; &mdash; the Buddha's own named standard for "
+         "female lay disciples."),
+        ("khemā ca bhikkhunī uppalavaṇṇā ca",
+         "&ldquo;the nuns Khemā and Uppalavaṇṇā&rdquo; &mdash; "
+         "named as the standard for nun disciples, mirroring "
+         "Sāriputta and Moggallāna's role in SN 17.23."),
+        ("tulā … pamāṇaṁ",
+         "&ldquo;a standard and a measure&rdquo; &mdash; the same "
+         "term used in SN 17.23 for what these named exemplars "
+         "represent."),
+        ("sekhaṁ appattamānasaṁ",
+         "&ldquo;a trainee who hasn't achieved their heart's "
+         "desire&rdquo; &mdash; the identical warning repeated "
+         "without modification from the discourse before this one."),
+        ("catutthaṁ",
+         "&ldquo;the fourth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.24:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "Who does the faithful laywoman name as the standard for female lay disciples?",
+         "opts": [
+             "The laywomen Khujjuttarā and Veḷukaṇṭakī, Nanda's mother",
+             "The nuns Khemā and Uppalavaṇṇā",
+             "The householder Citta and Hatthaka of Āḷavī",
+             "No specific names are given"],
+         "correct": 0,
+         "expl": "Named, concrete exemplars, mirroring SN 17.23's structure exactly."},
+        {"q": "Who does she name as the standard should her daughter go forth into homelessness?",
+         "opts": [
+             "The nuns Khemā and Uppalavaṇṇā",
+             "Sāriputta and Moggallāna",
+             "The laywomen Khujjuttarā and Veḷukaṇṭakī",
+             "No standard is offered for monastic life"],
+         "correct": 0,
+         "expl": "Female monastic exemplars, mirroring Sāriputta and Moggallāna's role for the son."},
+        {"q": "How many specific historical individuals have now been named as standards across SN 17.23 and this discourse combined?",
+             "opts": [
+             "Eight — two lay men, two monks, two laywomen, two nuns",
+             "Two, with no overlap in category",
+             "Sixteen, including additional unnamed figures",
+             "None; all references are to anonymous, unnamed figures"],
+         "correct": 0,
+         "expl": "A complete set of four categories of practitioner, each with two named exemplars."},
+        {"q": "How does the warning about possessions, honor, and popularity in this discourse compare to SN 17.23's?",
+         "opts": [
+             "It is repeated in exactly the same terms, without modification for gender",
+             "It is entirely absent from this discourse",
+             "It is reversed to state the opposite claim",
+             "It is significantly weakened compared to SN 17.23"],
+         "correct": 0,
+         "expl": "The identical danger, treated as equally applicable regardless of the practitioner's gender."},
+        {"q": "What kind of figures does this discourse name as exemplars, rather than idealized or invented characters?",
+         "opts": [
+             "Real, historical individuals from the early community, recognizable by reputation",
+             "Purely mythological or legendary beings",
+             "Anonymous composite figures with no historical basis",
+             "Figures invented specifically for this discourse alone"],
+         "correct": 0,
+         "expl": "Historical specificity rooting the standard in people the audience already knew."},
+        {"q": "How does this discourse function alongside SN 17.23?",
+         "opts": [
+             "As a matched pair, completing coverage of both a son's and a daughter's possible paths",
+             "As a direct contradiction of SN 17.23's claims",
+             "As an entirely unrelated discourse on a different topic",
+             "As a shortened summary rather than a full restatement"],
+         "correct": 0,
+         "expl": "Similar in function to the other matched pairs found elsewhere in this vagga."},
+        {"q": "What would possessions, honor, and popularity be for a trainee daughter who hasn't achieved her heart's desire, according to this discourse?",
+         "opts": [
+             "An obstacle",
+             "A guaranteed sign of spiritual progress",
+             "Entirely irrelevant to her practice",
+             "A helpful accelerant toward awakening"],
+         "correct": 0,
+         "expl": "Antarāyāya, \"an obstacle,\" stated identically to SN 17.23's wording for the son."},
+        {"q": "Whose voice does the Buddha use to deliver this teaching?",
+         "opts": [
+             "A faithful laywoman's, quoted appealing to her only daughter",
+             "His own voice, addressed directly to the assembly",
+             "Venerable Ānanda's, recounting a story",
+             "An unnamed brahmin's"],
+         "correct": 0,
+         "expl": "An ordinary parental appeal, mirroring SN 17.23's form exactly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Catutthaṁ, \"the fourth\"",
+             "Tatiyaṁ, \"the third\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fourth discourse of Tatiyavagga."},
+    ],
+    marginalia=[
+        ("A full mirror, not an afterthought", [
+            "the same length, the same care &mdash;",
+            "a daughter's path taken just as seriously",
+        ]),
+        ("Eight names now standing as one set of standards", [
+            "two men, two monks, two women, two nuns &mdash;",
+            "every kind of practitioner given a model",
+        ]),
+        ("One warning, unmodified either way", [
+            "the same danger, the same wording &mdash;",
+            "no lesser caution offered for a daughter",
+        ]),
+        ("Real people, not invented ideals", [
+            "names the audience would already know &mdash;",
+            "a standard rooted in actual reputation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.24/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.23.html">SN 17.23 &middot; An Only Son</a> '
+        "&mdash; the discourse this one mirrors exactly.",
+        '<a href="sn-17.25.html">SN 17.25 &middot; Ascetics and '
+        "Brahmins</a> &mdash; the next discourse, opening a set of "
+        "three closely related analytical discourses.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.25 — Samaṇabrāhmaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 25, "Samaṇabrāhmaṇa", "Ascetics and Brahmins",
+    meta_title="SN 17.25 — Ascetics and Brahmins | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Samaṇabrāhmaṇasutta — true ascetics and brahmins "
+        "are defined by whether they truly understand the "
+        "gratification, drawback, and escape of possessions, honor, "
+        "and popularity. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, opening a set of three "
+                     "closely related analytical discourses"),
+        ("Form", "A single analytical criterion, stated first "
+                 "negatively, then positively"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; the vagga's first purely analytical "
+                       "discourse, without image or narrative"),
+    ],
+    why=(
+        "After four discourses built on comparison and quoted "
+        "appeal, this discourse shifts to pure analysis: the Buddha "
+        "states that any ascetics or brahmins who don't truly "
+        "understand the gratification, drawback, and escape when it "
+        "comes to possessions, honor, and popularity aren't, in his "
+        "assessment, true ascetics or brahmins at all &mdash; they "
+        "haven't realized the actual goal of the ascetic or "
+        "brahmanical life. Those who do understand this threefold "
+        "analysis, by contrast, he does recognize as genuine."),
+    guide=[
+        ("A criterion, not a lineage or credential", [
+            "The discourse doesn't measure genuine ascetic or "
+            "brahmanical status by ordination, birth, or external "
+            "practice; it measures it entirely by whether someone "
+            "has truly understood a specific threefold analysis of "
+            "one particular danger."]),
+        ("Assāda, ādīnava, nissaraṇa as the operative framework", [
+            "Gratification, drawback, and escape is a recurring "
+            "analytical triad found applied to many phenomena "
+            "elsewhere in the canon; this discourse applies it "
+            "specifically and only to possessions, honor, and "
+            "popularity, the singular concern of this entire "
+            "saṃyutta."]),
+        ("A claim stated in both directions", [
+            "The discourse doesn't merely disqualify those who lack "
+            "this understanding; it states with equal weight, in "
+            "parallel language, that those who do possess it are "
+            "genuinely recognized, giving the criterion a clear "
+            "positive as well as negative side."]),
+        ("Opening a set of three, not a standalone claim", [
+            "This discourse's analytical criterion recurs, "
+            "compressed further each time, in the two discourses "
+            "immediately following it, establishing this as the "
+            "first and fullest statement of a pattern the source "
+            "itself treats as a small, deliberate set."]),
+        ("Realizing the goal with one's own insight", [
+            "sayaṁ abhiññā sacchikatvā, &ldquo;realized with their "
+            "own insight,&rdquo; specifies that the discourse's "
+            "standard requires direct personal realization, not "
+            "secondhand doctrinal knowledge repeated without "
+            "genuine understanding."]),
+    ],
+    terms=[
+        ("assādañca ādīnavañca nissaraṇañca",
+         "&ldquo;gratification, drawback, and escape&rdquo; &mdash; "
+         "the threefold analytical framework this discourse applies "
+         "specifically to possessions, honor, and popularity."),
+        ("yathābhūtaṁ",
+         "&ldquo;truly, as it really is&rdquo; &mdash; qualifying "
+         "the kind of understanding required, ruling out partial or "
+         "merely theoretical knowledge."),
+        ("samaṇasammatā … brāhmaṇasammatā",
+         "&ldquo;recognized as ascetics … recognized as "
+         "brahmins&rdquo; &mdash; the discourse's own term for "
+         "genuine status, granted or withheld based on this "
+         "criterion alone."),
+        ("sāmaññatthaṁ … brahmaññatthaṁ",
+         "&ldquo;the goal of life as an ascetic … as a "
+         "brahmin&rdquo; &mdash; the actual aim this discourse says "
+         "is realized or missed depending on this understanding."),
+        ("sayaṁ abhiññā sacchikatvā",
+         "&ldquo;realized with their own insight&rdquo; &mdash; "
+         "specifying direct personal realization as the required "
+         "standard, not secondhand knowledge."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.25:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "By what criterion does this discourse measure whether someone is a true ascetic or brahmin?",
+         "opts": [
+             "Whether they truly understand the gratification, drawback, and escape of possessions, honor, and popularity",
+             "Whether they were formally ordained by a recognized teacher",
+             "Whether they come from a traditionally brahmanical family",
+             "Whether they have memorized a specific set of scriptures"],
+         "correct": 0,
+         "expl": "A criterion of understanding, not lineage, birth, or external credential."},
+        {"q": "What three-part analytical framework does this discourse apply?",
+         "opts": [
+             "Gratification, drawback, and escape (assāda, ādīnava, nissaraṇa)",
+             "Origin, cessation, and the path",
+             "Birth, aging, and death",
+             "Faith, effort, and wisdom"],
+         "correct": 0,
+         "expl": "A recurring analytical triad, applied here specifically to possessions, honor, and popularity."},
+        {"q": "Does this discourse state its criterion only in the negative direction?",
+         "opts": [
+             "No — it states with equal weight that those who do understand are genuinely recognized",
+             "Yes, only disqualification is discussed, with no positive counterpart",
+             "The discourse makes no claims about positive recognition at all",
+             "It states the criterion only as a hypothetical question"],
+         "correct": 0,
+         "expl": "A claim given clear positive as well as negative form."},
+        {"q": "What does sayaṁ abhiññā sacchikatvā specify about the required understanding?",
+         "opts": [
+             "That it must be realized with one's own direct insight, not secondhand knowledge",
+             "That it must be taught directly by the Buddha personally",
+             "That it applies only to fully ordained monks",
+             "That it can be acquired purely through memorized recitation"],
+         "correct": 0,
+         "expl": "Direct personal realization, ruling out merely theoretical or repeated knowledge."},
+        {"q": "How does this discourse's form differ from the four discourses immediately before it in the vagga?",
+         "opts": [
+             "It shifts to pure analysis, without image, comparison, or quoted appeal",
+             "It is identical in form to all four preceding discourses",
+             "It introduces a narrative for the first time in the vagga",
+             "It consists entirely of verse"],
+         "correct": 0,
+         "expl": "The vagga's first purely analytical discourse."},
+        {"q": "What does this discourse's position in the vagga suggest about the two discourses immediately following it?",
+         "opts": [
+             "That it opens a small, deliberate set of three closely related analytical discourses",
+             "That it has no relationship to the following two discourses",
+             "That it directly contradicts what follows it",
+             "That this is the vagga's final discourse"],
+         "correct": 0,
+         "expl": "The first and fullest statement of a pattern the source repeats and compresses further."},
+        {"q": "What phrase specifies the quality of understanding required, ruling out partial knowledge?",
+         "opts": [
+             "Yathābhūtaṁ, \"truly, as it really is\"",
+             "Kadāci, \"sometimes\"",
+             "Appamattaka, \"a small amount\"",
+             "No such qualifying phrase is used"],
+         "correct": 0,
+         "expl": "Ruling out merely theoretical or incomplete understanding."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed ascetic",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears; this is a direct doctrinal statement."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Pañcamaṁ, \"the fifth\"",
+             "Catutthaṁ, \"the fourth\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fifth discourse of Tatiyavagga."},
+    ],
+    marginalia=[
+        ("A shift from image to pure analysis", [
+            "no fable, no comparison, no appeal &mdash;",
+            "just a criterion, stated directly",
+        ]),
+        ("Status measured by understanding alone", [
+            "not birth, not ordination, not lineage &mdash;",
+            "genuine standing earned through insight",
+        ]),
+        ("A claim that cuts both ways", [
+            "disqualified without it, recognized with it &mdash;",
+            "the criterion given equal weight either direction",
+        ]),
+        ("The first of three, not a lone statement", [
+            "this same test, about to recur twice more &mdash;",
+            "compressed further with each repetition",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.25/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.24.html">SN 17.24 &middot; An Only '
+        "Daughter</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-17.26.html">SN 17.26 &middot; Ascetics and '
+        "Brahmins (2nd)</a> &mdash; the next discourse, widening "
+        "this same criterion to a fivefold framework.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 17.26 — Dutiyasamaṇabrāhmaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 26, "Dutiyasamaṇabrāhmaṇa", "Ascetics and Brahmins (2nd)",
+    meta_title="SN 17.26 — Ascetics and Brahmins (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Dutiyasamaṇabrāhmaṇasutta — widening SN 17.25's "
+        "threefold criterion to five terms: origin, disappearance, "
+        "gratification, drawback, and escape. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, the second of three closely "
+                     "related analytical discourses"),
+        ("Form", "SN 17.25's criterion repeated with two additional "
+                 "terms, otherwise heavily elided"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; a widened but heavily compressed "
+                       "restatement of SN 17.25"),
+    ],
+    why=(
+        "This discourse takes SN 17.25's threefold criterion and "
+        "widens it to five terms: origin, disappearance, "
+        "gratification, drawback, and escape, when it comes to "
+        "possessions, honor, and popularity. Bilara-data preserves "
+        "the bulk of this discourse in heavily elided form, trusting "
+        "the reader to supply the parallel structure already stated "
+        "in full in the discourse just before it &mdash; the same "
+        "editorial compression seen throughout this collection "
+        "wherever a template is repeated with only its terms "
+        "changed."),
+    guide=[
+        ("Two terms added to an established framework", [
+            "Samudaya and atthaṅgama, origin and disappearance, are "
+            "added here to SN 17.25's gratification, drawback, and "
+            "escape, producing a fivefold analysis rather than a "
+            "threefold one, applied to the identical subject."]),
+        ("Elision trusting the reader to supply what came before", [
+            "Rather than restate the full sentence structure a "
+            "second time, the source gives only enough of each half "
+            "&mdash; the negative case, then the positive &mdash; to "
+            "signal that SN 17.25's complete phrasing should be "
+            "understood around the two new terms."]),
+        ("A widened framework, not a different concern", [
+            "Despite the added terms, the discourse's underlying "
+            "claim is unchanged from SN 17.25: genuine ascetic or "
+            "brahmanical status depends on true understanding of "
+            "possessions, honor, and popularity, now assessed "
+            "against a fuller analytical grid."]),
+        ("The middle term in a deliberate set of three", [
+            "Positioned between SN 17.25's threefold version and SN "
+            "17.27's four-part version built around explicit "
+            "cessation and path language, this discourse shows the "
+            "same underlying concern being tested against "
+            "successively different, related analytical vocabularies."]),
+        ("Compression as evidence of a settled doctrine", [
+            "That the source feels free to elide this discourse so "
+            "heavily suggests the fivefold origin-disappearance-"
+            "gratification-drawback-escape framework was familiar "
+            "enough to its original audience not to require full "
+            "restatement each time it was applied to a new "
+            "phenomenon."]),
+    ],
+    terms=[
+        ("samudayañca atthaṅgamañca",
+         "&ldquo;origin and disappearance&rdquo; &mdash; the two "
+         "terms this discourse adds to SN 17.25's threefold "
+         "criterion."),
+        ("assādañca ādīnavañca nissaraṇañca",
+         "&ldquo;gratification, drawback, and escape&rdquo; &mdash; "
+         "the three terms carried over unchanged from SN 17.25."),
+        ("yathābhūtaṁ",
+         "&ldquo;truly, as it really is&rdquo; &mdash; the same "
+         "qualifying standard used in SN 17.25, ruling out partial "
+         "understanding."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; signaling that the "
+         "reader should supply SN 17.25's full sentence structure "
+         "around this discourse's five named terms."),
+        ("chaṭṭhaṁ",
+         "&ldquo;the sixth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, heavily elided "
+        "around SN 17.25's fuller sentence structure. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.26:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What two terms does this discourse add to SN 17.25's threefold criterion?",
+         "opts": [
+             "Origin and disappearance (samudaya, atthaṅgama)",
+             "Birth and death",
+             "Faith and wisdom",
+             "No terms are added; the criterion is unchanged"],
+         "correct": 0,
+         "expl": "Widening the threefold framework to five terms applied to the same subject."},
+        {"q": "How does the source preserve most of this discourse?",
+         "opts": [
+             "In heavily elided form, trusting the reader to supply SN 17.25's fuller structure",
+             "As a completely independent, fully spelled-out discourse",
+             "As a dialogue between two named individuals",
+             "As a set of verses with no prose at all"],
+         "correct": 0,
+         "expl": "The same editorial compression seen throughout this collection when a template repeats."},
+        {"q": "Does this discourse's underlying claim differ from SN 17.25's?",
+         "opts": [
+             "No — the claim is unchanged, only the analytical framework is widened",
+             "Yes, it reaches the opposite conclusion",
+             "Yes, it applies to an entirely different subject",
+             "This discourse makes no claim at all"],
+         "correct": 0,
+         "expl": "Genuine ascetic or brahmanical status still depends on truly understanding possessions, honor, and popularity."},
+        {"q": "What position does this discourse occupy among the three related analytical discourses?",
+         "opts": [
+             "The middle discourse, between SN 17.25's threefold version and SN 17.27's four-part version",
+             "The first of the three",
+             "The last of the three",
+             "It is unrelated to SN 17.25 and SN 17.27"],
+         "correct": 0,
+         "expl": "Testing the same concern against a successively different analytical vocabulary."},
+        {"q": "What does the heavy elision in this discourse suggest about its framework's familiarity to the original audience?",
+         "opts": [
+             "That the framework was familiar enough not to require full restatement each time",
+             "That the framework was entirely unknown and needed extensive explanation",
+             "That the compression indicates the text is incomplete or corrupted",
+             "Nothing can be inferred from the elision"],
+         "correct": 0,
+         "expl": "A settled doctrine trusted to be supplied by the reader rather than spelled out again."},
+        {"q": "What three terms are carried over unchanged from SN 17.25?",
+         "opts": [
+             "Gratification, drawback, and escape (assāda, ādīnava, nissaraṇa)",
+             "Faith, effort, and mindfulness",
+             "Birth, aging, and death",
+             "No terms are carried over from SN 17.25"],
+         "correct": 0,
+         "expl": "The original threefold criterion, now supplemented rather than replaced."},
+        {"q": "What subject does this fivefold framework get applied to?",
+         "opts": [
+             "Possessions, honor, and popularity",
+             "The four noble truths generally",
+             "The five aggregates",
+             "Correct monastic conduct"],
+         "correct": 0,
+         "expl": "The single recurring concern of this entire saṃyutta."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed ascetic",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The sixth discourse of Tatiyavagga."},
+    ],
+    marginalia=[
+        ("A framework widened, not replaced", [
+            "gratification, drawback, escape, now joined by two more &mdash;",
+            "the same concern, a fuller analytical grid",
+        ]),
+        ("Elision as a sign of familiarity", [
+            "trusted to be filled in by the reader &mdash;",
+            "a doctrine settled enough not to need repeating",
+        ]),
+        ("The middle of a deliberate set of three", [
+            "threefold, then fivefold, then fourfold ahead &mdash;",
+            "the same test, run through related vocabularies",
+        ]),
+        ("Compression that assumes, not omits, understanding", [
+            "brief on the page, not thin in substance &mdash;",
+            "the fuller structure simply left unstated",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.26/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.25.html">SN 17.25 &middot; Ascetics and '
+        "Brahmins</a> &mdash; the discourse whose structure this one "
+        "widens.",
+        '<a href="sn-17.27.html">SN 17.27 &middot; Ascetics and '
+        "Brahmins (3rd)</a> &mdash; the next discourse, recasting "
+        "this same concern in four-part cessation-and-path terms.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.27 — Tatiyasamaṇabrāhmaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 27, "Tatiyasamaṇabrāhmaṇa", "Ascetics and Brahmins (3rd)",
+    meta_title="SN 17.27 — Ascetics and Brahmins (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Tatiyasamaṇabrāhmaṇasutta — recasting the same "
+        "criterion in four-part terms: possessions, honor, and "
+        "popularity themselves, their origin, their cessation, and "
+        "the path to their cessation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, closing this set of three "
+                     "analytical discourses"),
+        ("Form", "SN 17.25's criterion recast in the four-part "
+                 "structure of the four noble truths"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; the most structurally significant of "
+                       "the three analytical discourses"),
+    ],
+    why=(
+        "This discourse closes the set of three by recasting the "
+        "same underlying criterion in an unmistakable form: true "
+        "ascetics and brahmins are those who truly understand "
+        "possessions, honor, and popularity themselves, their "
+        "origin, their cessation, and the path that leads to their "
+        "cessation. That four-part structure &mdash; a phenomenon, "
+        "its origin, its cessation, and the path to its cessation "
+        "&mdash; is the same shape as the four noble truths "
+        "themselves, applied here specifically to the single danger "
+        "this entire saṃyutta has been built around."),
+    guide=[
+        ("The four noble truths' shape, made explicit", [
+            "Where SN 17.25 and 17.26 used the gratification-"
+            "drawback-escape and origin-disappearance vocabularies, "
+            "this discourse switches to the precise four-part "
+            "structure &mdash; the thing itself, its origin, its "
+            "cessation, the path to its cessation &mdash; that "
+            "defines the four noble truths, applied here to one "
+            "specific danger."]),
+        ("A saṃyutta-long concern given its most authoritative frame", [
+            "By the time this third variation arrives, the reader "
+            "has already seen possessions, honor, and popularity "
+            "cut through skin to marrow, scatter a bird in gale-"
+            "force winds, and corrupt trainees and arahants alike; "
+            "casting the same concern in four-noble-truths language "
+            "gives it the collection's most structurally weighty "
+            "frame."]),
+        ("Elision at its heaviest in this set of three", [
+            "This discourse is compressed even further than SN "
+            "17.26, giving barely more than the four-part list itself "
+            "before folding into the familiar peyyāla elision, "
+            "trusting the reader to supply everything else from the "
+            "two discourses just before it."]),
+        ("Closing a triad that widens without ever changing its target", [
+            "Threefold, then fivefold, then this four-part "
+            "recasting: three discourses in a row test whether "
+            "someone understands possessions, honor, and popularity, "
+            "never shifting to any other subject, only shifting "
+            "which established analytical vocabulary is used to "
+            "test that understanding."]),
+        ("A deliberate echo of the tradition's central diagnostic pattern", [
+            "Applying the four noble truths' own structure to "
+            "something as seemingly minor as gain and reputation "
+            "suggests this saṃyutta regards the danger as serious "
+            "enough to deserve the tradition's most fundamental "
+            "diagnostic shape, not merely an ad hoc warning."]),
+    ],
+    terms=[
+        ("lābhasakkārasilokaṁ … nappajānanti",
+         "&ldquo;they don't understand possessions, honor, and "
+         "popularity&rdquo; &mdash; the phenomenon itself, the first "
+         "of this discourse's four terms."),
+        ("lābhasakkārasilokasamudayaṁ",
+         "&ldquo;the origin of possessions, honor, and "
+         "popularity&rdquo; &mdash; the second term, echoing the "
+         "four noble truths' second truth."),
+        ("lābhasakkārasilokanirodhaṁ",
+         "&ldquo;the cessation of possessions, honor, and "
+         "popularity&rdquo; &mdash; the third term, echoing the "
+         "third noble truth."),
+        ("lābhasakkārasilokanirodhagāminiṁ paṭipadaṁ",
+         "&ldquo;the practice that leads to the cessation of "
+         "possessions, honor, and popularity&rdquo; &mdash; the "
+         "fourth term, echoing the fourth noble truth, the path."),
+        ("sattamaṁ",
+         "&ldquo;the seventh&rdquo; &mdash; this discourse's closing "
+         "numbering tag, ending the set of three."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, its four-part "
+        "structure stated in full before folding into elision. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.27:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What four-part structure does this discourse apply to possessions, honor, and popularity?",
+         "opts": [
+             "The phenomenon itself, its origin, its cessation, and the path to its cessation",
+             "Birth, aging, sickness, and death",
+             "Generosity, ethics, meditation, and wisdom",
+             "No specific structure is applied"],
+         "correct": 0,
+         "expl": "The same shape as the four noble truths, applied to this specific danger."},
+        {"q": "What broader doctrinal framework does this four-part structure echo?",
+         "opts": [
+             "The four noble truths",
+             "The eightfold path",
+             "The five aggregates",
+             "The twelve links of dependent origination"],
+         "correct": 0,
+         "expl": "A phenomenon, its origin, its cessation, and the path to its cessation — the noble truths' own shape."},
+        {"q": "How does this discourse's analytical vocabulary compare to SN 17.25 and 17.26?",
+         "opts": [
+             "It switches to the precise four-noble-truths structure, distinct from the earlier gratification-drawback-escape and origin-disappearance frameworks",
+             "It repeats SN 17.25's vocabulary without any change",
+             "It abandons analysis of possessions, honor, and popularity entirely",
+             "It introduces a framework unrelated to anything in the two earlier discourses"],
+         "correct": 0,
+         "expl": "A third, structurally distinct vocabulary applied to the same unchanging subject."},
+        {"q": "How does the level of elision in this discourse compare to SN 17.26?",
+         "opts": [
+             "It is compressed even further, giving barely more than the four-part list before folding into elision",
+             "It is fully spelled out with no elision at all",
+             "It is identical in length to SN 17.25",
+             "This discourse contains no elision of any kind"],
+         "correct": 0,
+         "expl": "The heaviest compression in this set of three related discourses."},
+        {"q": "What does applying the four noble truths' structure to possessions, honor, and popularity suggest about how seriously this saṃyutta treats the danger?",
+         "opts": [
+             "That the danger is regarded as serious enough to deserve the tradition's most fundamental diagnostic shape",
+             "That the danger is considered a minor, ad hoc concern not worth systematic analysis",
+             "That the danger is unrelated to any core Buddhist teaching",
+             "Nothing can be inferred about how seriously the danger is treated"],
+         "correct": 0,
+         "expl": "A deliberate echo of the tradition's central diagnostic pattern, not an incidental parallel."},
+        {"q": "Does this discourse shift its target subject away from possessions, honor, and popularity?",
+         "opts": [
+             "No — across all three related discourses, the target never changes, only the analytical vocabulary does",
+             "Yes, this discourse addresses an entirely different topic",
+             "Yes, it shifts to a general discussion of ethics",
+             "The subject is left unspecified in this discourse"],
+         "correct": 0,
+         "expl": "Three discourses, one unchanging target, three different established vocabularies testing it."},
+        {"q": "What position does this discourse hold in the set of three related analytical discourses?",
+         "opts": [
+             "The third and closing discourse of the set",
+             "The first discourse of the set",
+             "The middle discourse of the set",
+             "It does not belong to this set"],
+         "correct": 0,
+         "expl": "Sattamaṁ, \"the seventh,\" closing the triad begun at SN 17.25."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed ascetic",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Sattamaṁ, \"the seventh\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The seventh discourse of Tatiyavagga."},
+    ],
+    marginalia=[
+        ("The noble truths' own shape, reused here", [
+            "the thing, its origin, its end, the path &mdash;",
+            "applied to gain, honor, and reputation",
+        ]),
+        ("A third vocabulary, the same unmoving target", [
+            "threefold, fivefold, now fourfold &mdash;",
+            "the concern itself never actually shifts",
+        ]),
+        ("Elision at its heaviest point yet", [
+            "barely more than the list itself, then silence &mdash;",
+            "trusting everything else already established",
+        ]),
+        ("A minor danger, given a major frame", [
+            "the tradition's central diagnostic pattern &mdash;",
+            "borrowed here for something easy to underestimate",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.27/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.26.html">SN 17.26 &middot; Ascetics and '
+        "Brahmins (2nd)</a> &mdash; the discourse immediately before "
+        "this one.",
+        '<a href="sn-17.28.html">SN 17.28 &middot; Skin</a> &mdash; '
+        "the next discourse, returning to visceral imagery after "
+        "this set of three analytical discourses.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.28 — Chavisutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 28, "Chavi", "Skin",
+    meta_title="SN 17.28 — Skin | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Chavisutta — possessions, honor, and popularity "
+        "cut through skin, flesh, sinew, and bone, down to the "
+        "marrow itself, and keep pressing. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, returning to visceral "
+                     "imagery after three analytical discourses"),
+        ("Form", "A single unbroken image of penetrating harm, "
+                 "without simile or comparison"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; the vagga's most physically graphic "
+                       "image so far"),
+    ],
+    why=(
+        "After three discourses of pure analysis, this discourse "
+        "returns to the body with the vagga's most graphic image "
+        "yet: possessions, honor, and popularity cut through the "
+        "outer skin, then the inner skin, then the flesh, then the "
+        "sinews, then the bone, until they reach the marrow itself "
+        "and keep pressing. Unlike most of this saṃyutta's images, "
+        "this one is stated as a direct claim rather than introduced "
+        "through a simile &mdash; the danger itself is described as "
+        "doing the cutting, not merely compared to something that "
+        "cuts."),
+    guide=[
+        ("A direct claim, not a simile this time", [
+            "Most images in this saṃyutta compare possessions, "
+            "honor, and popularity to something else &mdash; a "
+            "hook, a jackal, gale-force winds; this discourse instead "
+            "states directly that they themselves cut through skin "
+            "and flesh, collapsing the distance between image and "
+            "claim that a simile would normally preserve."]),
+        ("A sequence that only deepens, never widens", [
+            "The list of what gets cut moves in one direction only "
+            "&mdash; outer skin, inner skin, flesh, sinew, bone, "
+            "marrow &mdash; each layer named in order, giving the "
+            "image a controlled, escalating structure rather than a "
+            "loose list of injuries."]),
+        ("Reaching the marrow and continuing to press", [
+            "The discourse doesn't stop once the deepest layer is "
+            "reached; āhacca tiṭṭhati, &ldquo;keeps pressing,&rdquo; "
+            "specifies that even having penetrated to the marrow, "
+            "the harm doesn't relent or withdraw."]),
+        ("The shortest form of an image the next discourse expands", [
+            "This discourse states the cutting image with no "
+            "narrative frame at all; the discourse immediately "
+            "following it supplies an explicit simile &mdash; a "
+            "rope tightened around the shin &mdash; that gives this "
+            "same sequence a concrete scenario to unfold within."]),
+        ("Physical language for a non-physical danger", [
+            "Possessions, honor, and popularity are not literally "
+            "capable of cutting flesh; the discourse's choice to "
+            "describe them exactly as if they were signals how "
+            "seriously this saṃyutta wants the danger's effects to "
+            "be felt, not merely acknowledged."]),
+    ],
+    terms=[
+        ("chaviṁ chindati",
+         "&ldquo;cuts through the outer skin&rdquo; &mdash; the "
+         "first and shallowest layer named in this discourse's "
+         "sequence."),
+        ("cammaṁ … maṁsaṁ … nhāruṁ … aṭṭhiṁ",
+         "&ldquo;the inner skin … the flesh … the sinews … the "
+         "bone&rdquo; &mdash; the successive layers the image "
+         "penetrates, named in strict order."),
+        ("aṭṭhimiñjaṁ āhacca tiṭṭhati",
+         "&ldquo;reaches the marrow and keeps pressing&rdquo; "
+         "&mdash; the image's endpoint, specifying that the harm "
+         "continues even once it has penetrated fully."),
+        ("dāruṇo",
+         "&ldquo;grim&rdquo; &mdash; the discourse's opening "
+         "characterization, before the cutting image is stated."),
+        ("aṭṭhamaṁ",
+         "&ldquo;the eighth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.28:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim possessions, honor, and popularity do?",
+         "opts": [
+             "Cut through skin, flesh, sinew, and bone, down to the marrow, and keep pressing",
+             "Gently warm the body without causing any harm",
+             "Strengthen the body against future injury",
+             "Nothing physical is claimed in this discourse"],
+         "correct": 0,
+         "expl": "The vagga's most physically graphic image, stated as direct claim."},
+        {"q": "How does this discourse's image differ from most others in this saṃyutta?",
+         "opts": [
+             "It is stated as a direct claim rather than introduced through a simile",
+             "It is the only image involving an animal",
+             "It is the only discourse in the entire saṃyutta to use any image at all",
+             "It makes no comparison of any kind, image or otherwise"],
+         "correct": 0,
+         "expl": "Collapsing the distance between image and claim that a simile would normally preserve."},
+        {"q": "In what order does the cutting proceed?",
+         "opts": [
+             "Outer skin, inner skin, flesh, sinew, bone, then marrow",
+             "Bone first, then working outward to the skin",
+             "All layers are said to be cut simultaneously",
+             "No specific order is given"],
+         "correct": 0,
+         "expl": "A controlled, escalating structure naming each layer in order."},
+        {"q": "What happens once the cutting reaches the marrow, according to this discourse?",
+         "opts": [
+             "It keeps pressing, rather than relenting or withdrawing",
+             "It immediately stops and reverses",
+             "The marrow is said to be entirely unaffected",
+             "Nothing further is stated about the marrow"],
+         "correct": 0,
+         "expl": "Āhacca tiṭṭhati, specifying continued harm even after full penetration."},
+        {"q": "How does the discourse immediately following this one relate to it?",
+         "opts": [
+             "It supplies an explicit simile — a rope tightened around the shin — for this same cutting sequence",
+             "It contradicts this discourse's claim entirely",
+             "It has no relationship to this discourse",
+             "It repeats this discourse word for word with no addition"],
+         "correct": 0,
+         "expl": "Expanding the bare claim into a concrete scenario."},
+        {"q": "Why might this discourse describe a non-physical danger in such physical terms?",
+         "opts": [
+             "To make the danger's effects felt as seriously as possible, not merely acknowledged intellectually",
+             "Because the discourse is describing an actual physical injury, not a metaphor",
+             "Because the translator introduced this imagery independently of the source",
+             "There is no particular reason for the physical language"],
+         "correct": 0,
+         "expl": "Signaling how seriously this saṃyutta wants the danger to register."},
+        {"q": "What discourse form immediately precedes this one in the vagga?",
+         "opts": [
+             "A set of three purely analytical discourses, without image or narrative",
+             "An identical cutting image, repeated once already",
+             "A dialogue between the Buddha and Ānanda",
+             "This is the vagga's opening discourse; nothing precedes it"],
+         "correct": 0,
+         "expl": "A shift back to visceral imagery after SN 17.25-27's analytical discourses."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "Navamaṁ, \"the ninth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eighth discourse of Tatiyavagga."},
+    ],
+    marginalia=[
+        ("A claim, not a comparison", [
+            "no \"like,\" no \"as if\" &mdash;",
+            "the danger itself doing the cutting",
+        ]),
+        ("Layer after layer, named in strict order", [
+            "skin, flesh, sinew, bone, then marrow &mdash;",
+            "an escalation with nothing skipped",
+        ]),
+        ("No relief once the deepest point is reached", [
+            "\"keeps pressing,\" even at the marrow &mdash;",
+            "harm that doesn't relent once arrived",
+        ]),
+        ("Physical language for something with no body at all", [
+            "gain and reputation, cutting like a blade &mdash;",
+            "meant to be felt, not just understood",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.28/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.27.html">SN 17.27 &middot; Ascetics and '
+        "Brahmins (3rd)</a> &mdash; the discourse immediately before "
+        "this one.",
+        '<a href="sn-17.29.html">SN 17.29 &middot; A Rope</a> '
+        "&mdash; the next discourse, giving this same image its "
+        "explicit simile.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.29 — Rajjusutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 29, "Rajju", "A Rope",
+    meta_title="SN 17.29 — A Rope | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Rajjusutta — a strong man twisting a horse-hair "
+        "rope around your shin, cutting through skin, flesh, and "
+        "bone to the marrow, giving SN 17.28's bare claim its "
+        "explicit simile. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 17.28's cutting claim restated, now framed by "
+                 "an explicit simile"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; SN 17.28's image given its concrete "
+                       "scenario"),
+    ],
+    why=(
+        "This discourse takes SN 17.28's bare claim &mdash; that "
+        "possessions, honor, and popularity cut through skin, "
+        "flesh, sinew, and bone to the marrow &mdash; and gives it a "
+        "concrete scenario: suppose a strong man twisted a strong "
+        "horse-hair rope around your shin and tightened it. That "
+        "rope, the discourse says, would cut through exactly the "
+        "same sequence of layers, in exactly the same order, "
+        "reaching the marrow and pressing on. Only after establishing "
+        "this simile does the discourse restate the original claim, "
+        "now anchored to something physically imaginable."),
+    guide=[
+        ("A simile supplied after the fact, not before", [
+            "Unlike most similes in this collection, which introduce "
+            "the comparison before applying it, this discourse "
+            "opens with the same bare claim as SN 17.28 and only "
+            "then supplies the rope scenario, reversing the usual "
+            "order of image and application."]),
+        ("The same sequence, repeated identically for image and application", [
+            "The rope's cutting sequence &mdash; outer skin, inner "
+            "skin, flesh, sinew, bone, marrow &mdash; is stated in "
+            "exactly the same words used for the claim itself, "
+            "making the parallel between simile and reality as "
+            "exact as the language allows."]),
+        ("A specific material chosen for the rope", [
+            "Vāḷarajju, a rope made specifically of horse hair, is "
+            "named rather than a generic cord &mdash; a material "
+            "coarse and abrasive enough to plausibly saw through "
+            "flesh when pulled taut, rather than simply binding."]),
+        ("Tightening as the operative action", [
+            "The image doesn't describe a single cut but a rope "
+            "being progressively tightened, ghaṁseyya, suggesting "
+            "sustained pressure over time rather than a single sharp "
+            "wound &mdash; matching this saṃyutta's recurring "
+            "interest in gradual rather than instantaneous harm."]),
+        ("Completing a pair that moves from claim to concrete image", [
+            "Read together, SN 17.28 and this discourse move from "
+            "bare assertion to fully realized scenario, mirroring "
+            "the pattern already seen in this vagga's other matched "
+            "pairs, where a first statement is followed by a second "
+            "that grounds or extends it."]),
+    ],
+    terms=[
+        ("balavā puriso",
+         "&ldquo;a strong man&rdquo; &mdash; the agent introduced "
+         "in this discourse's simile, absent from SN 17.28's bare "
+         "claim."),
+        ("daḷhāya vāḷarajjuyā",
+         "&ldquo;a strong horse-hair rope&rdquo; &mdash; the "
+         "specific material named, chosen for its capacity to "
+         "abrade rather than merely bind."),
+        ("jaṅghaṁ veṭhetvā ghaṁseyya",
+         "&ldquo;twist it around your shin and tighten it&rdquo; "
+         "&mdash; the action described, emphasizing sustained "
+         "pressure over a single cut."),
+        ("evameva kho",
+         "&ldquo;in the same way&rdquo; &mdash; the discourse's "
+         "explicit marker connecting the rope simile back to the "
+         "original claim about possessions, honor, and popularity."),
+        ("navamaṁ",
+         "&ldquo;the ninth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.29:1.1-1.2"),
+        ("p", "&sect;2", "sn17.29:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What scenario does this discourse add to SN 17.28's bare claim?",
+         "opts": [
+             "A strong man twisting a horse-hair rope around your shin and tightening it",
+             "A jackal circling a village at night",
+             "A bird caught in gale-force winds",
+             "No new scenario is added; the wording is identical"],
+         "correct": 0,
+         "expl": "A concrete, physically imaginable image supplied for SN 17.28's claim."},
+        {"q": "In what order does the discourse present the claim and the simile?",
+         "opts": [
+             "The bare claim first, then the simile — reversing the usual order in this collection",
+             "The simile first, then the claim, as is typical elsewhere",
+             "Only the simile is given; no claim is restated",
+             "Only the claim is given; no simile appears"],
+         "correct": 0,
+         "expl": "An unusual sequence compared to most other similes in this saṃyutta."},
+        {"q": "What specific material is the rope made of?",
+         "opts": [
+             "Horse hair (vāḷarajju)",
+             "Plain cotton thread",
+             "Braided leather",
+             "No specific material is named"],
+         "correct": 0,
+         "expl": "Chosen for its capacity to abrade rather than merely bind."},
+        {"q": "What action does the simile describe, rather than a single decisive cut?",
+         "opts": [
+             "Progressive tightening, suggesting sustained pressure over time",
+             "A single instantaneous slash",
+             "The rope simply resting in place with no motion",
+             "The rope being removed immediately after being applied"],
+         "correct": 0,
+         "expl": "Ghaṁseyya, tightening, matching this saṃyutta's interest in gradual rather than instantaneous harm."},
+        {"q": "How closely does the rope's cutting sequence match SN 17.28's original claim?",
+         "opts": [
+             "Nearly word for word — the same layers, in the same order",
+             "Only loosely, with several differences in sequence",
+             "The two sequences are said to be entirely unrelated",
+             "The rope is said to cause no harm at all"],
+         "correct": 0,
+         "expl": "An exact parallel between simile and reality, down to the wording."},
+        {"q": "What phrase explicitly connects the rope simile back to possessions, honor, and popularity?",
+         "opts": [
+             "Evameva kho, \"in the same way\"",
+             "Na ceva, \"not at all\"",
+             "Aparena samayena, \"some time later\"",
+             "No explicit connecting phrase is used"],
+         "correct": 0,
+         "expl": "A clear marker linking the concrete image back to the original claim."},
+        {"q": "How does this discourse relate to SN 17.28, read as a pair?",
+         "opts": [
+             "It moves from bare assertion to fully realized scenario, mirroring this vagga's other matched pairs",
+             "It directly contradicts SN 17.28's claim",
+             "It addresses an entirely unrelated topic",
+             "It is identical in every respect, with no addition at all"],
+         "correct": 0,
+         "expl": "A pattern already seen in this vagga's other pairs, where a second discourse grounds or extends the first."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Navamaṁ, \"the ninth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The ninth discourse of Tatiyavagga."},
+    ],
+    marginalia=[
+        ("A claim, now given a body to imagine", [
+            "a rope, a shin, a tightening grip &mdash;",
+            "the bare assertion made physically vivid",
+        ]),
+        ("Tightening, not a single cutting stroke", [
+            "sustained pressure, not one sharp wound &mdash;",
+            "harm accumulating rather than arriving at once",
+        ]),
+        ("The same sequence, almost the same words", [
+            "skin, flesh, sinew, bone, marrow, again &mdash;",
+            "simile and claim matched as closely as language allows",
+        ]),
+        ("A pair completing itself", [
+            "assertion, then scenario &mdash;",
+            "the second discourse grounding the first",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.29/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.28.html">SN 17.28 &middot; Skin</a> &mdash; '
+        "the discourse whose claim this one grounds in simile.",
+        '<a href="sn-17.30.html">SN 17.30 &middot; A Mendicant With '
+        "Defilements Ended</a> &mdash; the vagga's closing "
+        "discourse, in dialogue with Venerable Ānanda.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.30 — Bhikkhusutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 30, "Bhikkhu", "A Mendicant With Defilements Ended",
+    meta_title="SN 17.30 — A Mendicant With Defilements Ended | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Bhikkhusutta — Venerable Ānanda asks what "
+        "possessions, honor, and popularity could possibly obstruct "
+        "for an arahant, and the Buddha answers with a careful "
+        "distinction. Closes Tatiyavagga. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and Venerable Ānanda, in dialogue"),
+        ("Form", "A direct claim, a follow-up question, and a "
+                 "careful clarifying answer"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; the vagga's doctrinally most refined "
+                       "discourse, closing on a distinction rather "
+                       "than a warning alone"),
+    ],
+    why=(
+        "This discourse closes Tatiyavagga with its most surprising "
+        "claim yet: possessions, honor, and popularity are an "
+        "obstacle even for a mendicant who is perfected, with "
+        "defilements ended &mdash; an arahant. Venerable Ānanda "
+        "presses the Buddha on this directly: what could they "
+        "possibly obstruct for someone already fully liberated? The "
+        "Buddha's answer draws a precise line: he doesn't say "
+        "possessions, honor, and popularity threaten an arahant's "
+        "unshakable freedom of heart, which cannot be shaken by "
+        "anything; he does say they can obstruct that same "
+        "arahant's achievement of blissful meditative dwelling in "
+        "this life, if they are diligent, keen, and resolute."),
+    guide=[
+        ("A claim that seems to contradict everything said about liberation", [
+            "Every other discourse in this saṃyutta discusses danger "
+            "for trainees, mendicants, or laypeople still capable of "
+            "failure; opening with the same danger applying to "
+            "someone with defilements ended forces the reader to ask "
+            "what, exactly, could still be at risk for such a "
+            "person."]),
+        ("Ānanda's question doing necessary work", [
+            "Rather than let the Buddha's opening claim stand "
+            "unexplained, the discourse has Ānanda ask directly what "
+            "possessions, honor, and popularity obstruct for an "
+            "arahant &mdash; a question the reader would otherwise "
+            "be left to guess at."]),
+        ("A line drawn between liberation and its expression", [
+            "The Buddha's answer distinguishes akuppā cetovimutti, "
+            "the arahant's unshakable freedom of heart, which "
+            "nothing can obstruct, from diṭṭhadhammasukhavihāra, "
+            "blissful meditative dwelling in this present life, "
+            "which can still be interfered with even after "
+            "liberation is secure."]),
+        ("A condition attached even to this narrower danger", [
+            "The obstruction applies specifically to an arahant who "
+            "is appamatta, ātāpī, pahitatta &mdash; diligent, keen, "
+            "and resolute &mdash; suggesting the danger interferes "
+            "with the ongoing quality and depth of practice rather "
+            "than with liberation's security, which the discourse "
+            "treats as entirely unaffected."]),
+        ("A fitting close to the whole vagga's arc", [
+            "Having tested trainees, mendicants, laypeople, and even "
+            "hypothetical ascetics and brahmins, this closing "
+            "discourse extends the same concern to its final and "
+            "most difficult case &mdash; showing the danger's reach "
+            "as remarkably thorough, while also showing precisely "
+            "where that reach actually stops."]),
+    ],
+    terms=[
+        ("arahaṁ khīṇāsavo",
+         "&ldquo;perfected, with defilements ended&rdquo; &mdash; "
+         "the discourse's term for a fully liberated arahant, the "
+         "subject of its opening claim."),
+        ("akuppā cetovimutti",
+         "&ldquo;unshakable freedom of heart&rdquo; &mdash; the "
+         "arahant's liberation itself, which the Buddha explicitly "
+         "says possessions, honor, and popularity cannot obstruct."),
+        ("diṭṭhadhammasukhavihāra",
+         "&ldquo;blissful meditative dwelling in this life&rdquo; "
+         "&mdash; the specific attainment the Buddha says can still "
+         "be obstructed, even for an arahant."),
+        ("appamattassa ātāpino pahitattassa",
+         "&ldquo;diligent, keen, and resolute&rdquo; &mdash; the "
+         "condition attached to the arahant for whom this "
+         "obstruction applies."),
+        ("uppannaṁ … pajahissāma",
+         "&ldquo;we will give up [what has] arisen&rdquo; &mdash; "
+         "the discourse's closing training instruction, addressed "
+         "to Ānanda and, through him, to the assembly."),
+    ],
+    text_intro=(
+        "The discourse in full, including the closing training "
+        "instruction. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.30:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What surprising claim opens this discourse?",
+         "opts": [
+             "That possessions, honor, and popularity are an obstacle even for an arahant with defilements ended",
+             "That arahants are entirely immune to every possible danger",
+             "That only trainees, never arahants, need be concerned about this danger",
+             "That possessions and honor are harmless once one is ordained"],
+         "correct": 0,
+         "expl": "A claim that seems to contradict what liberation should mean, prompting Ānanda's question."},
+        {"q": "What question does Venerable Ānanda ask in response?",
+         "opts": [
+             "What could possessions, honor, and popularity possibly obstruct for an arahant?",
+             "How can a layperson achieve liberation more quickly?",
+             "Why do mendicants accept material support at all?",
+             "No question is asked; Ānanda does not appear in this discourse"],
+         "correct": 0,
+         "expl": "A necessary question the Buddha's opening claim otherwise leaves unexplained."},
+        {"q": "What does the Buddha say possessions, honor, and popularity do NOT obstruct?",
+         "opts": [
+             "The arahant's unshakable freedom of heart (akuppā cetovimutti)",
+             "The arahant's ability to walk on almsround",
+             "The arahant's capacity to teach the Dhamma",
+             "Nothing is excluded; everything is said to be obstructed"],
+         "correct": 0,
+         "expl": "Liberation itself, which the Buddha says cannot be shaken by anything."},
+        {"q": "What does the Buddha say they CAN obstruct, even for an arahant?",
+         "opts": [
+             "The achievement of blissful meditative dwelling in this life (diṭṭhadhammasukhavihāra)",
+             "The arahant's basic physical survival",
+             "The validity of the arahant's past attainment",
+             "Nothing at all; the Buddha retracts his opening claim entirely"],
+         "correct": 0,
+         "expl": "A narrower, specific attainment distinct from liberation's security."},
+        {"q": "What condition does the Buddha attach to the arahant for whom this obstruction applies?",
+         "opts": [
+             "Being diligent, keen, and resolute (appamatta, ātāpī, pahitatta)",
+             "Being newly ordained within the past year",
+             "Having taken a vow of complete silence",
+             "No condition is attached; it applies universally and unconditionally"],
+         "correct": 0,
+         "expl": "The danger interferes with ongoing practice quality, not with liberation's security."},
+        {"q": "What distinction does the Buddha's answer ultimately draw?",
+         "opts": [
+             "Between liberation itself, which is secure, and its ongoing meditative expression, which can still be interfered with",
+             "Between monks and nuns, who are said to be affected differently",
+             "Between lay disciples and ordained mendicants only",
+             "No real distinction is drawn; the answer simply repeats the opening claim"],
+         "correct": 0,
+         "expl": "A careful line between what's fixed and what remains vulnerable even after awakening."},
+        {"q": "How does this discourse function as a close to Tatiyavagga?",
+         "opts": [
+             "It extends the vagga's recurring concern to its final and most difficult case, an arahant",
+             "It abruptly changes the subject with no connection to the rest of the vagga",
+             "It retracts every warning given earlier in the vagga",
+             "It is unrelated to the vagga's overall arc"],
+         "correct": 0,
+         "expl": "Testing the danger's reach against liberation itself, while showing precisely where that reach stops."},
+        {"q": "What closing instruction does the Buddha give at the end of this discourse?",
+         "opts": [
+             "To give up arisen possessions, honor, and popularity, and not let them occupy the mind",
+             "To avoid all human contact permanently",
+             "To seek out possessions, honor, and popularity deliberately in order to test one's resolve",
+             "No closing instruction is given"],
+         "correct": 0,
+         "expl": "A direct training instruction addressed to Ānanda and the assembly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What position does this discourse hold in its vagga?",
+         "opts": [
+             "The tenth and final discourse, closing Tatiyavagga",
+             "The first discourse of the vagga",
+             "The fifth discourse, at the vagga's midpoint",
+             "It does not belong to this vagga"],
+         "correct": 0,
+         "expl": "Dasamaṁ, \"the tenth,\" marked at its close, followed by the vagga's end and uddāna."},
+    ],
+    marginalia=[
+        ("A claim that seems to undercut liberation itself", [
+            "danger, named even for one already free &mdash;",
+            "a question the text doesn't let stand unanswered",
+        ]),
+        ("A line drawn with real precision", [
+            "unshakable freedom, untouched &mdash;",
+            "but meditative depth, still reachable by harm",
+        ]),
+        ("Diligence as the condition, not the exemption", [
+            "diligent, keen, resolute &mdash; and still at risk",
+            "not carelessness, but ongoing depth, what's obstructed",
+        ]),
+        ("The vagga's hardest case, saved for last", [
+            "trainees, laypeople, ascetics, now an arahant &mdash;",
+            "the danger's reach tested against its outer limit",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.30/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.29.html">SN 17.29 &middot; A Rope</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-17.31.html">SN 17.31 &middot; Schism</a> '
+        "&mdash; the next discourse, opening this saṃyutta's fourth "
+        "and final chapter.",
+    ],
+)
