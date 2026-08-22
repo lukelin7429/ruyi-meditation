@@ -38026,3 +38026,1718 @@ page(
         "and final chapter.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.31 — Bhindisutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 31, "Bhindi", "Schism",
+    meta_title="SN 17.31 — Schism | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Bhindisutta — Devadatta split the Saṅgha because "
+        "his mind was overcome and overwhelmed by possessions, "
+        "honor, and popularity. Opens Catutthavagga, the "
+        "saṃyutta's final chapter. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, opening the saṃyutta's "
+                     "fourth and final chapter"),
+        ("Form", "A single sentence naming a specific historical "
+                 "individual and event"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; the saṃyutta's turn from anonymous "
+                       "illustration to named historical case"),
+    ],
+    why=(
+        "Every discourse before this one in the saṃyutta illustrates "
+        "its danger through an anonymous &ldquo;certain mendicant&rdquo; "
+        "or a hypothetical scenario. This discourse breaks that "
+        "pattern entirely: Devadatta, the Buddha's own cousin and a "
+        "named historical figure within the early community, split "
+        "the Saṅgha because his mind was overcome and overwhelmed by "
+        "possessions, honor, and popularity. Catutthavagga's opening "
+        "discourse turns the collection's abstract warnings into "
+        "documented consequence, naming the single most consequential "
+        "failure the tradition attributes to this exact danger."),
+    guide=[
+        ("A named individual replacing anonymous illustration", [
+            "Every fable and comparison so far in this saṃyutta "
+            "featured an unnamed mendicant, ascetic, or layperson; "
+            "this discourse instead names Devadatta specifically, "
+            "converting the collection's warnings from hypothetical "
+            "risk to attested historical outcome."]),
+        ("Schism as the specific, gravest consequence named", [
+            "Saṅghabheda, splitting the monastic community, is "
+            "treated in the wider canon as among the gravest possible "
+            "offenses; naming it as the direct result of this "
+            "saṃyutta's central danger signals how seriously the "
+            "collection wants that danger taken."]),
+        ("Opening a chapter built entirely around one case", [
+            "Rather than a single reference, this discourse opens a "
+            "sustained sequence: five of Catutthavagga's next several "
+            "discourses continue examining Devadatta specifically, "
+            "making him this closing chapter's central case study."]),
+        ("The identical diagnostic language, now attached to history", [
+            "abhibhūto pariyādiṇṇacitto, &ldquo;overcome and "
+            "overwhelmed,&rdquo; recurs here exactly as used "
+            "throughout this saṃyutta &mdash; the same compound, now "
+            "applied to an outcome the tradition remembers as "
+            "actually having happened."]),
+        ("A deliberate structural choice for the saṃyutta's close", [
+            "Placing this named case at the start of the final "
+            "chapter, rather than earlier or scattered throughout, "
+            "lets the collection build toward its most concrete "
+            "example only after establishing the full range of "
+            "anonymous illustrations first."]),
+    ],
+    terms=[
+        ("devadatto",
+         "&ldquo;Devadatta&rdquo; &mdash; a member of the early "
+         "Saṅgha traditionally identified as the Buddha's cousin, "
+         "named here as this saṃyutta's central historical case."),
+        ("saṅghaṁ bhindi",
+         "&ldquo;split the Saṅgha&rdquo; &mdash; the specific, grave "
+         "consequence this discourse attributes to Devadatta's "
+         "affliction."),
+        ("abhibhūto pariyādiṇṇacitto",
+         "&ldquo;overcome and overwhelmed&rdquo; &mdash; the "
+         "standing diagnostic compound used throughout this "
+         "saṃyutta, applied here to an attested historical event."),
+        ("dāruṇo",
+         "&ldquo;grim&rdquo; &mdash; the recurring characterization "
+         "opening this discourse, as throughout the collection."),
+        ("paṭhamaṁ",
+         "&ldquo;the first&rdquo; &mdash; this discourse's closing "
+         "numbering tag, opening Catutthavagga's own count."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.31:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim caused Devadatta to split the Saṅgha?",
+         "opts": [
+             "His mind was overcome and overwhelmed by possessions, honor, and popularity",
+             "A doctrinal disagreement over meditation technique",
+             "A personal dispute with Venerable Ānanda",
+             "No cause is given for the schism"],
+         "correct": 0,
+         "expl": "The same diagnostic condition named throughout this saṃyutta, now attached to a specific historical event."},
+        {"q": "How does this discourse's approach differ from every discourse before it in this saṃyutta?",
+         "opts": [
+             "It names a specific historical individual rather than an anonymous illustration",
+             "It is the first discourse to use any image or comparison at all",
+             "It is the only discourse delivered outside of Sāvatthī",
+             "It contradicts every earlier discourse's claims"],
+         "correct": 0,
+         "expl": "Converting the collection's warnings from hypothetical risk to documented historical outcome."},
+        {"q": "Who is named as the historical figure in this discourse?",
+         "opts": [
+             "Devadatta, traditionally identified as the Buddha's cousin",
+             "Venerable Sāriputta",
+             "Prince Ajātasattu",
+             "No individual is actually named"],
+         "correct": 0,
+         "expl": "A named member of the early community, not an anonymous mendicant."},
+        {"q": "What specific consequence does this discourse attribute to Devadatta's condition?",
+         "opts": [
+             "Splitting the Saṅgha (saṅghabheda), among the gravest offenses recognized in the wider canon",
+             "A minor disagreement quickly resolved",
+             "Losing a debate with a rival ascetic",
+             "No specific consequence is named"],
+         "correct": 0,
+         "expl": "One of the tradition's gravest possible offenses, named as the direct outcome of this danger."},
+        {"q": "What role does this discourse play in opening Catutthavagga?",
+         "opts": [
+             "It opens a sustained sequence examining Devadatta specifically across several following discourses",
+             "It is an isolated reference never returned to again",
+             "It closes the chapter rather than opening it",
+             "It has no particular structural significance"],
+         "correct": 0,
+         "expl": "Devadatta becomes this closing chapter's central case study."},
+        {"q": "What diagnostic phrase recurs here from earlier in this saṃyutta?",
+         "opts": [
+             "\"Overcome and overwhelmed\" (abhibhūto pariyādiṇṇacitto)",
+             "\"Confused and forgetful\"",
+             "\"Angry and resentful\"",
+             "No diagnostic phrase is repeated"],
+         "correct": 0,
+         "expl": "The same standing diagnosis, now applied to an attested historical case."},
+        {"q": "Why might this discourse's named case be placed at the start of the final chapter rather than scattered earlier?",
+         "opts": [
+             "To let the collection build toward its most concrete example only after establishing anonymous illustrations first",
+             "Because the compilers had no earlier opportunity to include it",
+             "Because Devadatta's story has no connection to the saṃyutta's overall theme",
+             "There is no discernible reason for this placement"],
+         "correct": 0,
+         "expl": "A deliberate structural choice for how the saṃyutta approaches its close."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Paṭhamaṁ, \"the first\"",
+             "Dutiyaṁ, \"the second\"",
+             "Terasamaṁ, \"the thirteenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The first discourse of Catutthavagga."},
+    ],
+    marginalia=[
+        ("A name, where every discourse before gave none", [
+            "not \"a certain mendicant,\" but Devadatta himself &mdash;",
+            "warning turned into documented consequence",
+        ]),
+        ("The gravest offense the tradition recognizes", [
+            "not a minor lapse, but schism itself &mdash;",
+            "the danger's most serious attested outcome",
+        ]),
+        ("One case, about to be examined at length", [
+            "not a passing reference, but a chapter's spine &mdash;",
+            "several discourses still to come on this same figure",
+        ]),
+        ("The same diagnosis, now attached to history", [
+            "\"overcome and overwhelmed,\" said of someone real &mdash;",
+            "abstraction given an actual name and outcome",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.31/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.30.html">SN 17.30 &middot; A Mendicant With '
+        "Defilements Ended</a> &mdash; Tatiyavagga's closing "
+        "discourse.",
+        '<a href="sn-17.32.html">SN 17.32 &middot; Skillful Root</a> '
+        "&mdash; the next discourse, escalating this same case "
+        "study.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.32 — Kusalamūlasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 32, "Kusalamūla", "Skillful Root",
+    meta_title="SN 17.32 — Skillful Root | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Kusalamūlasutta — Devadatta cut off his skillful "
+        "root because his mind was overcome and overwhelmed by "
+        "possessions, honor, and popularity. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, continuing the Devadatta "
+                     "case study"),
+        ("Form", "An exact structural repeat of SN 17.31, escalating "
+                 "the named consequence"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; the first of a three-discourse "
+                       "escalation naming what Devadatta actually "
+                       "lost"),
+    ],
+    why=(
+        "This discourse repeats SN 17.31's exact structure, "
+        "escalating what Devadatta lost from an external act "
+        "&mdash; splitting the Saṅgha &mdash; to an internal one: "
+        "he cut off his kusalamūla, his skillful root, because his "
+        "mind was overcome and overwhelmed by possessions, honor, "
+        "and popularity. Where schism describes damage done to the "
+        "community, this discourse names damage done to Devadatta "
+        "himself, at the deepest level the tradition has vocabulary "
+        "for."),
+    guide=[
+        ("Moving from external harm to internal severance", [
+            "SN 17.31 described Devadatta's effect on others, the "
+            "Saṅgha itself; this discourse turns to what happened "
+            "inside Devadatta, naming a wound to his own spiritual "
+            "foundation rather than to the community he damaged."]),
+        ("Kusalamūla as a foundational technical term", [
+            "The skillful roots &mdash; traditionally non-greed, "
+            "non-hatred, and non-delusion &mdash; are the basic "
+            "wholesome foundation the entire path is built upon; "
+            "naming their severance describes a failure at the "
+            "most fundamental level the tradition recognizes."]),
+        ("Samucchedamagamā as total, not partial, loss", [
+            "The verb describes something cut off completely and "
+            "definitively, not merely diminished or weakened "
+            "&mdash; this discourse doesn't describe Devadatta as "
+            "struggling with the skillful root but as having severed "
+            "it outright."]),
+        ("The first of a three-part escalating sequence", [
+            "This discourse's claim about the skillful root recurs, "
+            "with the specific term varied, in each of the two "
+            "discourses immediately following it, forming a "
+            "deliberate triad examining what exactly was destroyed."]),
+        ("The identical diagnostic cause, unchanged from SN 17.31", [
+            "Despite the escalated consequence, the stated cause "
+            "remains exactly the same &mdash; overcome and "
+            "overwhelmed by possessions, honor, and popularity "
+            "&mdash; confirming this triad traces one danger to "
+            "increasingly severe internal effects."]),
+    ],
+    terms=[
+        ("kusalamūlaṁ",
+         "&ldquo;skillful root&rdquo; &mdash; traditionally "
+         "non-greed, non-hatred, and non-delusion, the foundational "
+         "wholesome basis the entire path depends upon."),
+        ("samucchedamagamā",
+         "&ldquo;went to utter severance&rdquo; &mdash; describing "
+         "total, definitive loss rather than partial weakening."),
+        ("abhibhūtassa pariyādiṇṇacittassa",
+         "&ldquo;overcome and overwhelmed&rdquo; &mdash; the "
+         "identical diagnostic condition named in SN 17.31, unchanged "
+         "despite the escalated consequence described here."),
+        ("devadattassa",
+         "&ldquo;Devadatta's&rdquo; &mdash; the same named "
+         "individual examined across this entire sequence of "
+         "discourses."),
+        ("dutiyaṁ",
+         "&ldquo;the second&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.32:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What did Devadatta lose, according to this discourse?",
+         "opts": [
+             "His skillful root (kusalamūla)",
+             "His physical health",
+             "His position within the royal court",
+             "Nothing is described as lost in this discourse"],
+         "correct": 0,
+         "expl": "A wound to Devadatta's own spiritual foundation, escalated from SN 17.31's external schism."},
+        {"q": "How does this discourse's focus differ from SN 17.31's?",
+         "opts": [
+             "It turns from external harm done to the Saṅgha to internal damage done to Devadatta himself",
+             "It focuses on an entirely different historical figure",
+             "It denies that Devadatta caused any schism at all",
+             "There is no difference; the two discourses are identical in every respect"],
+         "correct": 0,
+         "expl": "A shift from consequence for the community to consequence for the individual."},
+        {"q": "What do the traditional skillful roots consist of?",
+         "opts": [
+             "Non-greed, non-hatred, and non-delusion",
+             "Generosity, ethics, and patience",
+             "Faith, effort, and mindfulness",
+             "The skillful roots are not defined in Buddhist tradition"],
+         "correct": 0,
+         "expl": "The foundational wholesome basis the entire path is built upon."},
+        {"q": "What does samucchedamagamā describe about this loss?",
+         "opts": [
+             "Total, definitive severance, not partial weakening",
+             "A temporary and easily reversible setback",
+             "A loss that occurred gradually over many years",
+             "No specific degree of loss is indicated"],
+         "correct": 0,
+         "expl": "Complete severance, not a struggle or diminishment."},
+        {"q": "What position does this discourse hold in a larger pattern within Catutthavagga?",
+         "opts": [
+             "The first of a three-part escalating sequence naming what exactly was destroyed",
+             "An isolated discourse unrelated to any pattern",
+             "The final discourse of the entire saṃyutta",
+             "A direct repeat of SN 17.25's threefold analytical criterion"],
+         "correct": 0,
+         "expl": "Followed by two more discourses varying the specific term for what was lost."},
+        {"q": "Does the stated cause of Devadatta's loss change from SN 17.31 to this discourse?",
+         "opts": [
+             "No — it remains exactly the same, overcome and overwhelmed by possessions, honor, and popularity",
+             "Yes, an entirely new cause is introduced",
+             "Yes, the cause is reversed to the opposite claim",
+             "No cause is given in either discourse"],
+         "correct": 0,
+         "expl": "The same danger, traced to an increasingly severe internal consequence."},
+        {"q": "Who is examined across this entire sequence of discourses in Catutthavagga?",
+         "opts": [
+             "Devadatta",
+             "Venerable Sāriputta",
+             "Prince Ajātasattu",
+             "An anonymous mendicant"],
+         "correct": 0,
+         "expl": "The named historical figure introduced in SN 17.31."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dutiyaṁ, \"the second\"",
+             "Paṭhamaṁ, \"the first\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The second discourse of Catutthavagga."},
+    ],
+    marginalia=[
+        ("From damage to others, to damage within", [
+            "not just the Saṅgha split, but something inside him cut &mdash;",
+            "harm turned inward, at the deepest level named",
+        ]),
+        ("A foundation, not a branch, severed", [
+            "non-greed, non-hatred, non-delusion &mdash;",
+            "the basis the whole path depends on",
+        ]),
+        ("Cut off, not merely weakened", [
+            "samucchedamagamā, total severance &mdash;",
+            "no partial struggle, but a definitive loss",
+        ]),
+        ("The first term in a set of three", [
+            "root, then quality, then bright quality next &mdash;",
+            "the same fall, named three different ways",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.32/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.31.html">SN 17.31 &middot; Schism</a> '
+        "&mdash; the discourse this one escalates.",
+        '<a href="sn-17.33.html">SN 17.33 &middot; Skillful '
+        "Quality</a> &mdash; the next discourse, continuing this "
+        "same three-part sequence.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.33 — Kusaladhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 33, "Kusaladhamma", "Skillful Quality",
+    meta_title="SN 17.33 — Skillful Quality | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Kusaladhammasutta — Devadatta cut off his skillful "
+        "quality because his mind was overcome and overwhelmed by "
+        "possessions, honor, and popularity. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, continuing the Devadatta "
+                     "case study"),
+        ("Form", "The middle discourse of a three-part sequence, "
+                 "widening SN 17.32's term"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; the middle term of a deliberate "
+                       "three-part escalation"),
+    ],
+    why=(
+        "This discourse continues the sequence begun in SN 17.32, "
+        "widening the specific loss named from kusalamūla, the "
+        "skillful root itself, to kusalo dhammo, skillful quality "
+        "more broadly &mdash; a wider category than any single root, "
+        "encompassing the range of wholesome states that root "
+        "supports. As in the discourse before it, this loss is "
+        "described as total: Devadatta cut off his skillful quality "
+        "because his mind was overcome and overwhelmed by "
+        "possessions, honor, and popularity."),
+    guide=[
+        ("A term widened, not merely repeated", [
+            "Dhamma here names a broader category than mūla; where "
+            "SN 17.32 named the foundational root itself, this "
+            "discourse names the wider range of wholesome qualities "
+            "that root gives rise to, describing a wider scope of "
+            "loss."]),
+        ("A root implies its fruits, and both are said to be lost", [
+            "If the earlier discourse described the foundation being "
+            "cut, this discourse's claim follows naturally: with the "
+            "root itself severed, the qualities that root would "
+            "otherwise support are described as lost along with it."]),
+        ("Identical structure carrying the escalation's real weight", [
+            "Every other element of this discourse &mdash; the "
+            "setting, the diagnostic cause, the closing refrain "
+            "&mdash; repeats SN 17.32 unchanged; the escalation's "
+            "entire force rests on the single substituted term."]),
+        ("The middle position in a deliberate triad", [
+            "Positioned between kusalamūla and the discourse "
+            "immediately following it's sukko dhammo, this "
+            "discourse's placement confirms the sequence moves "
+            "through a considered progression rather than three "
+            "arbitrary synonyms."]),
+        ("A widening scope without a widening cause", [
+            "As throughout this sequence, the cause named remains "
+            "unchanged &mdash; overcome and overwhelmed by "
+            "possessions, honor, and popularity &mdash; while only "
+            "the scope of what that cause destroys keeps expanding."]),
+    ],
+    terms=[
+        ("kusalo dhammo",
+         "&ldquo;skillful quality&rdquo; &mdash; a wider category "
+         "than kusalamūla, naming the range of wholesome states the "
+         "skillful root supports."),
+        ("samucchedamagamā",
+         "&ldquo;went to utter severance&rdquo; &mdash; the same "
+         "term for total loss repeated exactly from SN 17.32."),
+        ("abhibhūtassa pariyādiṇṇacittassa",
+         "&ldquo;overcome and overwhelmed&rdquo; &mdash; the "
+         "unchanged diagnostic cause, identical across this entire "
+         "sequence of discourses."),
+        ("devadattassa",
+         "&ldquo;Devadatta's&rdquo; &mdash; the same named "
+         "individual continuing to be examined."),
+        ("tatiyaṁ",
+         "&ldquo;the third&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.33:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse use for what Devadatta lost, in place of SN 17.32's \"skillful root\"?",
+         "opts": [
+             "Kusalo dhammo, \"skillful quality\"",
+             "Sukko dhammo, \"bright quality\"",
+             "Saṅghabheda, \"schism\"",
+             "No new term is introduced; the wording is identical"],
+         "correct": 0,
+         "expl": "A wider category than any single root, naming the range of wholesome states it supports."},
+        {"q": "How does the scope of \"skillful quality\" compare to \"skillful root\"?",
+         "opts": [
+             "It is wider, encompassing the range of wholesome states the root gives rise to",
+             "It is narrower, referring to a single specific mental state",
+             "The two terms refer to identical, interchangeable concepts with no scope difference",
+             "Skillful quality has no relationship to skillful root at all"],
+         "correct": 0,
+         "expl": "A widened category following naturally from the root's severance."},
+        {"q": "What elements of this discourse remain unchanged from SN 17.32?",
+         "opts": [
+             "The setting, the diagnostic cause, and the closing refrain",
+             "Every element is different; nothing carries over",
+             "Only the setting is repeated, with an entirely new cause",
+             "Only the closing refrain is repeated"],
+         "correct": 0,
+         "expl": "The escalation's entire force rests on the single substituted term."},
+        {"q": "What position does this discourse hold in the three-part sequence?",
+         "opts": [
+             "The middle discourse, between kusalamūla and sukko dhammo",
+             "The first discourse of the sequence",
+             "The final discourse of the sequence",
+             "It does not belong to this sequence"],
+         "correct": 0,
+         "expl": "Confirming a considered progression rather than three arbitrary synonyms."},
+        {"q": "Does the cause named for Devadatta's loss change in this discourse?",
+         "opts": [
+             "No — it remains overcome and overwhelmed by possessions, honor, and popularity, unchanged throughout the sequence",
+             "Yes, an entirely different cause is given",
+             "Yes, the cause is reversed to its opposite",
+             "No cause is given in this discourse"],
+         "correct": 0,
+         "expl": "Only the scope of what is destroyed expands; the cause itself stays constant."},
+        {"q": "What verb describes the manner of this loss?",
+         "opts": [
+             "Samucchedamagamā, \"went to utter severance\"",
+             "Kamena, \"gradually, over time\"",
+             "Ekadā, \"on one occasion only\"",
+             "No verb describing the manner of loss is used"],
+         "correct": 0,
+         "expl": "Total severance, the same term used in SN 17.32."},
+        {"q": "Who continues to be examined as the historical case in this discourse?",
+         "opts": [
+             "Devadatta",
+             "Prince Ajātasattu",
+             "Venerable Sāriputta",
+             "An anonymous mendicant"],
+         "correct": 0,
+         "expl": "The same named individual as SN 17.31 and 17.32."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Tatiyaṁ, \"the third\"",
+             "Dutiyaṁ, \"the second\"",
+             "Catutthaṁ, \"the fourth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The third discourse of Catutthavagga."},
+    ],
+    marginalia=[
+        ("A category widened, not just restated", [
+            "root gives way to quality, the broader term &mdash;",
+            "the scope of loss expanding, not repeating",
+        ]),
+        ("What a severed root can no longer support", [
+            "if the foundation goes, the fruits follow &mdash;",
+            "loss described as spreading outward from the root",
+        ]),
+        ("One word changed, everything else held constant", [
+            "same setting, same cause, same refrain &mdash;",
+            "the escalation carried by a single substitution",
+        ]),
+        ("The middle of three, not a lone repetition", [
+            "root, quality, then bright quality ahead &mdash;",
+            "a deliberate progression, not idle variation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.33/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.32.html">SN 17.32 &middot; Skillful Root</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-17.34.html">SN 17.34 &middot; Bright '
+        "Quality</a> &mdash; the next discourse, closing this "
+        "three-part sequence.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.34 — Sukkadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 34, "Sukkadhamma", "Bright Quality",
+    meta_title="SN 17.34 — Bright Quality | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Sukkadhammasutta — Devadatta cut off his bright "
+        "quality because his mind was overcome and overwhelmed by "
+        "possessions, honor, and popularity, closing a three-part "
+        "sequence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, closing the three-part "
+                     "sequence on Devadatta's internal loss"),
+        ("Form", "The closing term of SN 17.32-33's escalating "
+                 "sequence"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; closing a three-part sequence with "
+                       "its most evocative term"),
+    ],
+    why=(
+        "This discourse closes the sequence begun in SN 17.32 with "
+        "its most evocative term yet: Devadatta cut off his sukko "
+        "dhammo, his bright quality, because his mind was overcome "
+        "and overwhelmed by possessions, honor, and popularity. "
+        "Where kusalamūla and kusaladhamma name loss in technical, "
+        "analytical vocabulary, sukka, brightness, carries a more "
+        "immediately felt image &mdash; something luminous, "
+        "extinguished rather than merely severed."),
+    guide=[
+        ("A more evocative term closing a technical sequence", [
+            "Sukka, &ldquo;bright, pure, luminous,&rdquo; carries "
+            "connotations the more analytical kusalamūla and "
+            "kusaladhamma don't &mdash; closing the sequence with an "
+            "image of light going out rather than a purely doctrinal "
+            "category being severed."]),
+        ("Brightness as a recurring canonical pairing", [
+            "Kaṇha and sukka, dark and bright, appear as a "
+            "traditional pair describing unwholesome and wholesome "
+            "action elsewhere in the canon; invoking sukka alone "
+            "here implies its opposite by contrast, without needing "
+            "to name kaṇha explicitly."]),
+        ("Three terms, one deepening image of total loss", [
+            "Root, then quality, then brightness: each substitution "
+            "in this three-part sequence moves further from strict "
+            "doctrinal classification toward something more directly "
+            "evocative, ending the progression on its most vivid "
+            "note rather than its most technical one."]),
+        ("Closing without changing the underlying cause", [
+            "As throughout this three-discourse sequence, the stated "
+            "cause never varies &mdash; overcome and overwhelmed by "
+            "possessions, honor, and popularity &mdash; confirming "
+            "that all three discourses trace one unchanging cause to "
+            "three different framings of an identical total loss."]),
+        ("A closed triad preparing a change in register", [
+            "Having now examined Devadatta's condition through "
+            "schism and three internal losses, the discourse "
+            "immediately following this one shifts register "
+            "entirely, moving from terse statement to full narrative "
+            "and verse."]),
+    ],
+    terms=[
+        ("sukko dhammo",
+         "&ldquo;bright quality&rdquo; &mdash; this sequence's final "
+         "and most evocative term, closing the three-part "
+         "progression."),
+        ("kaṇha … sukka",
+         "&ldquo;dark … bright&rdquo; &mdash; a traditional "
+         "canonical pairing for unwholesome and wholesome action, "
+         "implied here by sukka's use alone."),
+        ("samucchedamagamā",
+         "&ldquo;went to utter severance&rdquo; &mdash; the same "
+         "term for total loss repeated across all three discourses "
+         "in this sequence."),
+        ("abhibhūtassa pariyādiṇṇacittassa",
+         "&ldquo;overcome and overwhelmed&rdquo; &mdash; the "
+         "unchanged diagnostic cause, identical across the entire "
+         "sequence."),
+        ("catutthaṁ",
+         "&ldquo;the fourth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.34:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse use for what Devadatta lost, closing the three-part sequence?",
+         "opts": [
+             "Sukko dhammo, \"bright quality\"",
+             "Kusalamūla, \"skillful root\"",
+             "Kusalo dhammo, \"skillful quality\"",
+             "No new term is introduced"],
+         "correct": 0,
+         "expl": "The sequence's most evocative closing term, an image of light rather than a technical category."},
+        {"q": "How does \"bright quality\" differ in character from the previous two terms in this sequence?",
+         "opts": [
+             "It is more evocative and immediately felt, an image of luminosity rather than a purely doctrinal category",
+             "It is a purely technical term with no additional connotation",
+             "It contradicts what the previous two terms claimed",
+             "It has no meaningful difference from the previous terms"],
+         "correct": 0,
+         "expl": "Closing the sequence with a vivid image rather than a strictly analytical classification."},
+        {"q": "What traditional canonical pairing does \"bright\" (sukka) belong to?",
+         "opts": [
+             "Kaṇha and sukka, \"dark\" and \"bright,\" for unwholesome and wholesome action",
+             "It belongs to no traditional pairing",
+             "A pairing describing hot and cold sensations",
+             "A pairing specific to descriptions of weather"],
+         "correct": 0,
+         "expl": "Implying its unwholesome opposite by contrast, without naming it explicitly."},
+        {"q": "How does this discourse's term relate to the progression of SN 17.32 and 17.33?",
+         "opts": [
+             "It moves the sequence further from strict doctrinal classification toward something more directly evocative",
+             "It reverses the direction of the previous two discourses entirely",
+             "It repeats SN 17.32's term exactly with no change",
+             "There is no discernible progression across the three discourses"],
+         "correct": 0,
+         "expl": "Root, then quality, then brightness — ending on the most vivid note, not the most technical."},
+        {"q": "Does the cause named for Devadatta's loss change across this three-discourse sequence?",
+         "opts": [
+             "No — it remains overcome and overwhelmed by possessions, honor, and popularity throughout",
+             "Yes, each discourse names a different cause",
+             "Yes, the cause reverses direction in this final discourse",
+             "No cause is given in any of the three discourses"],
+         "correct": 0,
+         "expl": "One unchanging cause, given three different framings of an identical total loss."},
+        {"q": "What happens in the discourse immediately following this one?",
+         "opts": [
+             "The register shifts entirely, moving from terse statement to full narrative and verse",
+             "The exact same three-part sequence begins again from scratch",
+             "This is the saṃyutta's final discourse; nothing follows it",
+             "The discourse returns to an entirely anonymous illustration"],
+         "correct": 0,
+         "expl": "A closed triad giving way to a markedly different narrative register."},
+        {"q": "Who continues to be examined as the historical case in this discourse?",
+         "opts": [
+             "Devadatta",
+             "Prince Ajātasattu",
+             "Venerable Sāriputta",
+             "An anonymous mendicant"],
+         "correct": 0,
+         "expl": "The same named individual across all four discourses so far in this chapter."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Catutthaṁ, \"the fourth\"",
+             "Tatiyaṁ, \"the third\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fourth discourse of Catutthavagga."},
+    ],
+    marginalia=[
+        ("A sequence closing on its most vivid image", [
+            "root, quality, then something bright, extinguished &mdash;",
+            "technical language giving way to something felt",
+        ]),
+        ("Light implying its own absence", [
+            "bright, without needing to name its dark counterpart &mdash;",
+            "one word enough to carry both sides of the pair",
+        ]),
+        ("One cause, three framings of the same total loss", [
+            "overcome, overwhelmed, unchanged throughout &mdash;",
+            "only the image of what's destroyed keeps shifting",
+        ]),
+        ("A closed triad, about to give way to narrative", [
+            "three terse discourses, then something longer next &mdash;",
+            "register about to shift toward story and verse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.34/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.33.html">SN 17.33 &middot; Skillful '
+        "Quality</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-17.35.html">SN 17.35 &middot; Shortly After He '
+        "Left</a> &mdash; the next discourse, shifting to full "
+        "narrative and closing verse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 17.35 — Acirapakkantasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 35, "Acirapakkanta", "Shortly After He Left",
+    meta_title="SN 17.35 — Shortly After He Left | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Acirapakkantasutta — possessions, honor, and "
+        "popularity came to Devadatta for his own ruin, illustrated "
+        "by a banana plant, bamboo, a reed, and a mule, each "
+        "destroyed by its own fruit. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, Vulture's Peak Mountain, shortly "
+                     "after Devadatta had left"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A direct claim followed by four natural-world "
+                 "similes and a closing verse"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; the richest image set in this "
+                       "saṃyutta, with a fully translated closing "
+                       "verse"),
+    ],
+    why=(
+        "For the first time in this sequence, the setting shifts "
+        "away from Sāvatthī: this discourse is delivered at "
+        "Rājagaha, on Vulture's Peak Mountain, explicitly dated to "
+        "shortly after Devadatta had left. The Buddha states that "
+        "possessions, honor, and popularity came to Devadatta for "
+        "his own ruin and downfall, then illustrates the claim with "
+        "four natural images in succession &mdash; a banana plant, "
+        "bamboo, and a reed, each destroyed by its own fruit, and a "
+        "mule, which becomes pregnant to its own destruction &mdash; "
+        "before closing with a verse that names the same pattern "
+        "directly: honor destroys a reprobate, as pregnancy destroys "
+        "a mule."),
+    guide=[
+        ("A setting that marks a specific moment in time", [
+            "Every discourse in this saṃyutta before this one gives "
+            "either Sāvatthī or no location at all as a bare setting; "
+            "this discourse instead specifies Rājagaha's Vulture's "
+            "Peak and a precise temporal marker, shortly after "
+            "Devadatta had left, anchoring the teaching to an actual "
+            "moment in the narrative surrounding him."]),
+        ("Fruiting that destroys the plant that bears it", [
+            "Banana, bamboo, and reed are traditionally understood "
+            "to die once they fruit or flower; naming three such "
+            "plants in succession builds a cumulative image of a "
+            "natural process where producing the very thing meant to "
+            "propagate life instead ends it."]),
+        ("A mule's pregnancy as the image's most striking turn", [
+            "Mules, as hybrid offspring, are traditionally held to "
+            "be infertile; a mule becoming pregnant would represent "
+            "an unnatural conception fatal to the mother, giving the "
+            "list's final image the sharpest edge of self-destruction "
+            "through what should be creative, not destructive."]),
+        ("A closing verse actually translated, not elided", [
+            "Where this saṃyutta usually leaves its closing verses "
+            "and uddānas untranslated in the source, this discourse's "
+            "verse is rendered in full &mdash; naming honor's "
+            "destructive power directly and applying kāpurisa, "
+            "&ldquo;a reprobate&rdquo; or base person, explicitly to "
+            "the kind of person the whole set of images has been "
+            "describing."]),
+        ("Ruin named as the discourse's own word for the outcome", [
+            "attavadhāya … parābhavāya, &ldquo;for his own ruin and "
+            "downfall,&rdquo; frames the entire discourse's outcome "
+            "before a single simile is given, so that each subsequent "
+            "image only illustrates a conclusion already stated "
+            "directly."]),
+    ],
+    terms=[
+        ("attavadhāya … parābhavāya",
+         "&ldquo;for his own ruin … for his own downfall&rdquo; "
+         "&mdash; the discourse's direct framing of the outcome, "
+         "stated before any of its similes."),
+        ("kadalī … veḷu … naḷo",
+         "&ldquo;banana plant … bamboo … reed&rdquo; &mdash; three "
+         "plants traditionally understood to die once they fruit, "
+         "named in succession."),
+        ("assatarī",
+         "&ldquo;a mule&rdquo; &mdash; a hybrid animal traditionally "
+         "held to be infertile, whose pregnancy in this simile would "
+         "be fatal rather than life-giving."),
+        ("kāpurisa",
+         "&ldquo;a reprobate, a base person&rdquo; &mdash; the term "
+         "the closing verse applies directly to the kind of person "
+         "these images describe."),
+        ("acirapakkante devadatte",
+         "&ldquo;shortly after Devadatta had left&rdquo; &mdash; the "
+         "discourse's precise temporal setting, unusual within this "
+         "saṃyutta's usual undated framing."),
+    ],
+    text_intro=(
+        "The discourse in full, including its closing verse, "
+        "actually translated rather than elided. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.35:1.1-1.3"),
+        ("p", "&sect;2", "sn17.35:2.1-2.2"),
+        ("p", "&sect;3", "sn17.35:3.1-3.2"),
+        ("p", "&sect;4", "sn17.35:4.1-4.2"),
+        ("p", "&sect;5", "sn17.35:5.1-5.4"),
+        ("p", "&sect;6 &middot; Verse", "sn17.35:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "Where and when is this discourse set?",
+         "opts": [
+             "At Rājagaha's Vulture's Peak Mountain, shortly after Devadatta had left",
+             "At Sāvatthī, with no specific time given",
+             "At Isipatana's deer park near Varanasi",
+             "No setting or time is given for this discourse"],
+         "correct": 0,
+         "expl": "A precise setting and temporal marker unusual within this saṃyutta's usual undated framing."},
+        {"q": "What claim does the Buddha state before giving any similes?",
+         "opts": [
+             "That possessions, honor, and popularity came to Devadatta for his own ruin and downfall",
+             "That Devadatta had already achieved full awakening",
+             "That the Saṅgha schism had been fully healed",
+             "No direct claim is stated before the similes"],
+         "correct": 0,
+         "expl": "The discourse's conclusion given directly, before each simile illustrates it further."},
+        {"q": "What do the banana plant, bamboo, and reed have in common in this discourse's similes?",
+         "opts": [
+             "Each is traditionally understood to be destroyed by its own fruit",
+             "Each is said to be entirely indestructible",
+             "Each is used as a symbol of long life and prosperity",
+             "They share no particular characteristic relevant to the discourse"],
+         "correct": 0,
+         "expl": "A natural process where fruiting itself, meant to propagate life, instead ends it."},
+        {"q": "What makes the mule simile the list's sharpest image, according to this reading guide?",
+         "opts": [
+             "Mules are traditionally infertile, so pregnancy would be an unnatural conception fatal to the mother",
+             "Mules are traditionally considered the strongest and most durable of all animals",
+             "The mule simile is identical in meaning to the plant similes with no additional sharpness",
+             "Mules have no traditional association with fertility at all"],
+         "correct": 0,
+         "expl": "Self-destruction through something that should be creative rather than destructive."},
+        {"q": "What is unusual about this discourse's closing verse compared to most others in this saṃyutta?",
+         "opts": [
+             "It is actually translated in full rather than left untranslated in the source",
+             "It contains no verse of any kind",
+             "It is written in a completely different language from the rest of the discourse",
+             "It directly contradicts the discourse's prose content"],
+         "correct": 0,
+         "expl": "Naming honor's destructive power directly, rather than being elided as usual."},
+        {"q": "What term does the closing verse apply to the kind of person these images describe?",
+         "opts": [
+             "Kāpurisa, \"a reprobate, a base person\"",
+             "Sappurisa, \"a true person\"",
+             "Ariya, \"a noble one\"",
+             "No specific term is applied to any person in the verse"],
+         "correct": 0,
+         "expl": "Naming directly the kind of person honor is said to destroy."},
+        {"q": "According to the closing verse, what destroys a reprobate?",
+         "opts": [
+             "Honor (sakkāra)",
+             "Poverty and material lack",
+             "Old age and physical decline",
+             "Nothing is named as destroying anyone in the verse"],
+         "correct": 0,
+         "expl": "Sakkāro kāpurisaṁ hanti, paralleling the plant and mule images directly."},
+        {"q": "How does the discourse's structure order its claim and its illustrations?",
+         "opts": [
+             "The claim is stated first, then illustrated by four successive similes",
+             "The similes are given first, with no claim ever stated directly",
+             "Only the claim is given, with no similes at all",
+             "The order alternates unpredictably between claim and simile"],
+         "correct": 0,
+         "expl": "Each subsequent image illustrates a conclusion already stated directly."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "Devadatta himself",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears; Devadatta is discussed but does not speak."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Pañcamaṁ, \"the fifth\"",
+             "Catutthaṁ, \"the fourth\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fifth discourse of Catutthavagga."},
+    ],
+    marginalia=[
+        ("A place and a moment, named precisely", [
+            "Vulture's Peak, shortly after he left &mdash;",
+            "not a timeless setting, but an actual occasion",
+        ]),
+        ("Fruit that kills the plant that bears it", [
+            "banana, bamboo, reed, one after another &mdash;",
+            "life's own process turned destructive",
+        ]),
+        ("A pregnancy that could only end badly", [
+            "a mule, conceiving against its own nature &mdash;",
+            "creation itself becoming the means of ruin",
+        ]),
+        ("A verse the source doesn't hide this time", [
+            "translated in full, not left elided &mdash;",
+            "\"honor destroys a reprobate,\" stated outright",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.35/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.34.html">SN 17.34 &middot; Bright '
+        "Quality</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-17.36.html">SN 17.36 &middot; Five Hundred '
+        "Carts</a> &mdash; the next discourse, naming a specific "
+        "historical instance of Devadatta's lavish patronage.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.36 — Pañcarathasatasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 36, "Pañcarathasata", "Five Hundred Carts",
+    meta_title="SN 17.36 — Five Hundred Carts | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Pañcarathasatasutta — Prince Ajātasattu's lavish "
+        "daily patronage of Devadatta, and the Buddha's warning not "
+        "to envy it, illustrated by a wild dog's lanced boil. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, the Bamboo Grove"),
+        ("Speakers", "Several mendicants report to the Buddha, who "
+                     "then responds"),
+        ("Form", "A reported observation, a direct warning against "
+                 "envy, and a simile"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; the most historically specific "
+                       "discourse in the Devadatta sequence"),
+    ],
+    why=(
+        "Several mendicants report to the Buddha something they've "
+        "evidently observed with some astonishment: Prince "
+        "Ajātasattu is going with five hundred carts at daybreak and "
+        "dusk to attend on Devadatta, presenting him with five "
+        "hundred servings of food twice daily. Rather than confirm "
+        "any admiration this lavish patronage might invite, the "
+        "Buddha responds directly: don't envy Devadatta's "
+        "possessions, honor, and popularity. As long as this "
+        "continues, he says, Devadatta can expect only decline, not "
+        "growth, in skillful qualities &mdash; like lancing a boil "
+        "on a wild dog's nose, which only makes the dog wilder, not "
+        "calmer."),
+    guide=[
+        ("A report that implies envy without stating it", [
+            "The mendicants' account of Ajātasattu's patronage is "
+            "given without explicit comment, but the Buddha's "
+            "immediate response &mdash; don't envy this &mdash; makes "
+            "clear that the report itself was liable to provoke "
+            "exactly that reaction in anyone who heard it."]),
+        ("A specific, named, historically remembered patron", [
+            "Ajātasattu, the crown prince who would later become "
+            "king and who the wider tradition remembers as complicit "
+            "in Devadatta's later plots, grounds this discourse in "
+            "concrete, rememberable historical detail rather than "
+            "any generic wealthy donor."]),
+        ("Quantified extravagance as its own kind of evidence", [
+            "Five hundred carts and five hundred servings of food, "
+            "specified exactly and repeated twice daily, presents "
+            "a scale of patronage precise enough that its excess "
+            "doesn't need further comment to register."]),
+        ("Decline named as the actual outcome of apparent success", [
+            "Rather than treat this patronage as evidence of "
+            "Devadatta's flourishing, the Buddha inverts the "
+            "expected reading entirely: hāniyeva … pāṭikaṅkhā, "
+            "&ldquo;decline is to be expected,&rdquo; not growth, "
+            "for as long as the patronage continues."]),
+        ("A simile of aggravation, not mere continuation", [
+            "The lanced boil doesn't simply fail to help the wild "
+            "dog; it actively makes the dog wilder, an image "
+            "specifying that this kind of excessive attention "
+            "doesn't just fail to counteract Devadatta's condition "
+            "but actively worsens it."]),
+    ],
+    terms=[
+        ("ajātasattukumāro",
+         "&ldquo;Prince Ajātasattu&rdquo; &mdash; the crown prince "
+         "named here, later remembered by the tradition as "
+         "complicit in Devadatta's plots against the Buddha."),
+        ("pañcahi rathasatehi",
+         "&ldquo;with five hundred carts&rdquo; &mdash; the exact, "
+         "quantified scale of patronage reported, twice daily."),
+        ("mā … pihayittha",
+         "&ldquo;don't envy&rdquo; &mdash; the Buddha's direct "
+         "opening instruction, responding to what the mendicants' "
+         "report implicitly invited."),
+        ("hāniyeva … pāṭikaṅkhā",
+         "&ldquo;decline is to be expected&rdquo; &mdash; the "
+         "discourse's inversion of the expected reading of "
+         "Devadatta's apparent good fortune."),
+        ("caṇḍassa kukkurassa nāsāya pittaṁ",
+         "&ldquo;a boil on a wild dog's nose&rdquo; &mdash; the "
+         "simile's image, where lancing the boil worsens rather "
+         "than relieves the affliction."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.36:1.1-1.6"),
+        ("p", "&sect;2", "sn17.36:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What do several mendicants report to the Buddha in this discourse?",
+         "opts": [
+             "That Prince Ajātasattu visits Devadatta twice daily with five hundred carts and five hundred servings of food",
+             "That Devadatta has renounced all possessions and honor",
+             "That Ajātasattu has stopped supporting Devadatta entirely",
+             "That the Saṅgha schism has been resolved"],
+         "correct": 0,
+         "expl": "A specific, quantified account of lavish daily patronage."},
+        {"q": "How does the Buddha respond to this report?",
+         "opts": [
+             "By instructing the mendicants directly not to envy Devadatta's possessions, honor, and popularity",
+             "By praising Ajātasattu's generosity without reservation",
+             "By expressing no particular reaction at all",
+             "By instructing the mendicants to seek similar patronage themselves"],
+         "correct": 0,
+         "expl": "A direct response to what the report implicitly invited — envy."},
+        {"q": "Who is Ajātasattu, according to the wider tradition this reading guide references?",
+         "opts": [
+             "The crown prince, later remembered as complicit in Devadatta's plots against the Buddha",
+             "A senior mendicant with no political role",
+             "A rival ascetic teacher",
+             "A minor, otherwise unknown merchant"],
+         "correct": 0,
+         "expl": "A specific, historically remembered figure, not a generic donor."},
+        {"q": "What does the Buddha say Devadatta can expect as long as this patronage continues?",
+         "opts": [
+             "Decline, not growth, in skillful qualities",
+             "Rapid growth in skillful qualities",
+             "No change of any kind in his spiritual condition",
+             "Immediate and complete awakening"],
+         "correct": 0,
+         "expl": "An inversion of the expected reading of apparent good fortune."},
+        {"q": "What simile does the Buddha use to illustrate this outcome?",
+         "opts": [
+             "Lancing a boil on a wild dog's nose, which makes the dog wilder rather than calmer",
+             "Watering a healthy plant, which helps it grow further",
+             "Feeding a tame animal, which makes it more docile",
+             "No simile is used in this discourse"],
+         "correct": 0,
+         "expl": "An image of active aggravation, not mere failure to help."},
+        {"q": "What does the lanced-boil simile specify about excessive patronage's effect?",
+         "opts": [
+             "That it actively worsens the underlying condition, not merely fails to counteract it",
+             "That it has no effect on the underlying condition whatsoever",
+             "That it always eventually leads to a cure",
+             "That it only affects animals, not people"],
+         "correct": 0,
+         "expl": "Active aggravation, not simple ineffectiveness."},
+        {"q": "How is the exact scale of Ajātasattu's patronage described?",
+         "opts": [
+             "Five hundred carts and five hundred servings of food, twice daily",
+             "An unspecified but modest daily gift",
+             "A single large donation made only once",
+             "No specific quantity is given"],
+         "correct": 0,
+         "expl": "A precisely quantified scale of excess, needing no further comment to register."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Rājagaha, in the Bamboo Grove",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "Continuing the shift away from Sāvatthī begun in SN 17.35."},
+        {"q": "Who initiates the exchange in this discourse?",
+         "opts": [
+             "Several mendicants, who report what they observed to the Buddha",
+             "The Buddha, who raises the topic unprompted",
+             "Devadatta himself, appearing in person",
+             "Prince Ajātasattu, addressing the Buddha directly"],
+         "correct": 0,
+         "expl": "A reported observation prompting the Buddha's response, not a teaching begun unprompted."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The sixth discourse of Catutthavagga."},
+    ],
+    marginalia=[
+        ("A report that carries its own temptation", [
+            "five hundred carts, twice a day &mdash;",
+            "envy implicit before a word is said against it",
+        ]),
+        ("A name the tradition remembers for what came later", [
+            "Ajātasattu, not yet king, already present &mdash;",
+            "historical detail grounding the warning",
+        ]),
+        ("Apparent fortune read as its opposite", [
+            "not growth, but decline, expected instead &mdash;",
+            "the obvious reading turned inside out",
+        ]),
+        ("An affliction made worse by attention", [
+            "a lanced boil, and a wilder dog &mdash;",
+            "excess doesn't soothe; it aggravates further",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.36/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.35.html">SN 17.35 &middot; Shortly After He '
+        "Left</a> &mdash; the discourse immediately before this one.",
+        '<a href="sn-17.37.html">SN 17.37 &middot; Mother</a> '
+        "&mdash; the next discourse, returning to the saṃyutta's "
+        "anonymous pattern.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.37 — Mātusutta
+# --------------------------------------------------------------------------- #
+page(
+    17, 37, "Mātu", "Mother",
+    meta_title="SN 17.37 — Mother | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Mātusutta — the Buddha once knew someone who "
+        "wouldn't lie even for the sake of their mother, then saw "
+        "them lie once overcome by possessions, honor, and "
+        "popularity. Returns to the saṃyutta's anonymous pattern. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, returning to the anonymous "
+                     "testimony pattern"),
+        ("Form", "SN 17.11-12's comprehend-the-mind template, now "
+                 "applied to the closest possible family bond"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; opening a final escalation through "
+                       "family bonds that closes the entire "
+                       "saṃyutta"),
+    ],
+    why=(
+        "After six discourses examining Devadatta by name, this "
+        "discourse returns to the anonymous testimony pattern first "
+        "seen in SN 17.11-12: the Buddha once comprehended someone's "
+        "mind and understood that they wouldn't tell a deliberate "
+        "lie even for the sake of their own mother. Some time later, "
+        "he saw that same person lie, because their mind had become "
+        "overcome and overwhelmed by possessions, honor, and "
+        "popularity. Mother, the closest bond the discourse could "
+        "name, opens a final escalating list that the saṃyutta's "
+        "last discourse will carry through five more family "
+        "relationships before closing the entire collection."),
+    guide=[
+        ("A deliberate return after the Devadatta sequence", [
+            "Rather than continue examining Devadatta specifically, "
+            "this discourse pulls back to the collection's earlier, "
+            "anonymous mode, signaling that the saṃyutta's final "
+            "movement will close on a general pattern rather than a "
+            "single historical case."]),
+        ("The closest bond the tradition could name", [
+            "Of every possible threshold this saṃyutta could choose "
+            "&mdash; gold, silver, a woman &mdash; a mother "
+            "represents the closest, most instinctively protected "
+            "relationship available, making the eventual lie this "
+            "discourse describes especially difficult to imagine in "
+            "advance."]),
+        ("The exact template reused from SN 17.11-12", [
+            "Cetasā ceto paricca pajānāmi, the same claim to direct "
+            "comprehension, and the same later observation of a "
+            "deliberate lie caused by being overcome and overwhelmed, "
+            "recur here in essentially identical wording to the "
+            "gold-cup-and-silver-pot pair much earlier in this "
+            "saṃyutta."]),
+        ("Opening rather than completing an escalation", [
+            "Unlike SN 17.11-12, which formed a complete pair on "
+            "their own, this discourse's mother-threshold is only "
+            "the first item in a list the saṃyutta's final discourse "
+            "extends through father, brother, sister, son, daughter, "
+            "and spouse, one continuous escalation rather than two "
+            "isolated cases."]),
+        ("A structural echo binding the saṃyutta's opening and closing movements", [
+            "By reusing SN 17.11-12's exact template here, near the "
+            "very end, the collection deliberately recalls its own "
+            "earlier structure, suggesting the whole saṃyutta was "
+            "composed with an awareness of how its parts would "
+            "eventually need to close."]),
+    ],
+    terms=[
+        ("mātu",
+         "&ldquo;mother&rdquo; &mdash; this discourse's title and "
+         "the first, closest threshold in the escalating list of "
+         "family bonds it opens."),
+        ("cetasā ceto paricca pajānāmi",
+         "&ldquo;I comprehend the mind&rdquo; &mdash; the identical "
+         "claim to direct knowledge reused from SN 17.11-12."),
+        ("sampajānamusā bhāseyya",
+         "&ldquo;would tell a deliberate lie&rdquo; &mdash; the "
+         "exact failure named, in the same wording used throughout "
+         "this saṃyutta's family-threshold discourses."),
+        ("abhibhūtaṁ pariyādiṇṇacittaṁ",
+         "&ldquo;overcome and overwhelmed&rdquo; &mdash; the "
+         "standing diagnostic compound, unchanged from its use "
+         "throughout this collection."),
+        ("sattamaṁ",
+         "&ldquo;the seventh&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse in full, including its closing training "
+        "instruction. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.37:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What had the Buddha once understood about this individual?",
+         "opts": [
+             "That they would not tell a deliberate lie even for the sake of their own mother",
+             "That they had already achieved full awakening",
+             "That they intended to leave the monastic life",
+             "Nothing specific is said about this individual beforehand"],
+         "correct": 0,
+         "expl": "The closest possible family bond, chosen as the threshold this discourse names."},
+        {"q": "What does this discourse's return to an anonymous pattern signal after six discourses on Devadatta?",
+             "opts": [
+             "That the saṃyutta's final movement will close on a general pattern rather than continuing the single historical case",
+             "That the Devadatta material was a later, unrelated insertion",
+             "That Devadatta's story has been entirely retracted",
+             "Nothing in particular is signaled by this shift"],
+         "correct": 0,
+         "expl": "A deliberate pullback to the collection's earlier, anonymous mode."},
+        {"q": "What template does this discourse reuse from earlier in the saṃyutta?",
+         "opts": [
+             "SN 17.11-12's comprehend-the-mind template, applied here to a mother rather than gold or silver",
+             "SN 17.6-7's rhetorical-question template",
+             "SN 17.3's fable of a turtle",
+             "No earlier template is reused in this discourse"],
+         "correct": 0,
+         "expl": "The same claim to direct comprehension, and the same eventual failure, essentially word for word."},
+        {"q": "What does this discourse's position suggest about the escalation it belongs to?",
+         "opts": [
+             "It opens rather than completes an escalation, extended through six more family relationships in the next discourse",
+             "It is a complete, self-contained pair with no further discourse extending it",
+             "It closes the escalation begun much earlier in the saṃyutta",
+             "It has no relationship to any escalating sequence"],
+         "correct": 0,
+         "expl": "The first item in a list the saṃyutta's final discourse carries much further."},
+        {"q": "What does reusing SN 17.11-12's template this late in the saṃyutta suggest about the collection's composition?",
+         "opts": [
+             "That the whole saṃyutta was composed with awareness of how its parts would eventually need to close",
+             "That this discourse was composed entirely independently with no awareness of earlier material",
+             "That SN 17.11-12 must have been added after this discourse was already written",
+             "Nothing can be inferred about the collection's composition"],
+         "correct": 0,
+         "expl": "A structural echo binding the saṃyutta's opening and closing movements together."},
+        {"q": "What eventually happened to the person this discourse describes?",
+         "opts": [
+             "The Buddha later saw them tell a deliberate lie, overcome and overwhelmed by possessions, honor, and popularity",
+             "They successfully resisted every temptation for the rest of their life",
+             "They were expelled from the monastic community",
+             "Nothing further is reported about this person"],
+         "correct": 0,
+         "expl": "The same eventual failure described throughout this saṃyutta's family-threshold discourses."},
+        {"q": "Why might a mother specifically be chosen as this discourse's threshold?",
+         "opts": [
+             "As the closest, most instinctively protected relationship available, making the eventual lie especially striking",
+             "Because mothers are considered the least trustworthy relationship in the tradition",
+             "Because no other family relationship carries any significance in this context",
+             "The choice of mother has no particular significance"],
+         "correct": 0,
+         "expl": "The closest bond the tradition could name, chosen to make the failure as striking as possible."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "A return to the setting used throughout most of this collection, after SN 17.35-36's shift to Rājagaha."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Sattamaṁ, \"the seventh\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The seventh discourse of Catutthavagga."},
+    ],
+    marginalia=[
+        ("A deliberate step back from one man's story", [
+            "after six discourses naming Devadatta &mdash;",
+            "the close returning to something more general",
+        ]),
+        ("The closest bond, chosen for the sharpest failure", [
+            "not gold, not silver, but a mother &mdash;",
+            "the instinctive protection, shown eroding too",
+        ]),
+        ("A template returning almost word for word", [
+            "\"I comprehend the mind,\" said once again &mdash;",
+            "the same claim, the same eventual collapse",
+        ]),
+        ("A list beginning, not finishing, here", [
+            "mother first, six more relationships still ahead &mdash;",
+            "the saṃyutta's actual ending not yet reached",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.37/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.36.html">SN 17.36 &middot; Five Hundred '
+        "Carts</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-17.38-43.html">SN 17.38&ndash;43 &middot; '
+        "Father, Etc.</a> &mdash; the saṃyutta's final discourse, "
+        "completing this escalation and closing the whole "
+        "collection.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 17.38-43 — Pitusuttādichakka (merged peyyāla block, closes the saṃyutta)
+# --------------------------------------------------------------------------- #
+page_range(
+    17, 38, 43, "Pitusuttādichakka", "Father, Etc.",
+    meta_title="SN 17.38–43 — Father, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 17.38 "
+        "through 17.43 — father, brother, sister, son, daughter, "
+        "and spouse, completing SN 17.37's escalation and closing "
+        "the entire Lābhasakkārasaṃyutta. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, closing the entire "
+                     "saṃyutta"),
+        ("Form", "Six discourse numbers compressed into a single "
+                 "escalating list, closing with the saṃyutta's own "
+                 "colophon"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; the saṃyutta's closing block, "
+                       "ending with its own translated colophon"),
+    ],
+    why=(
+        "This merged discourse completes the family-threshold "
+        "escalation SN 17.37 began, running through six further "
+        "relationships in a single continuous list: father, brother, "
+        "sister, son, daughter, and finally spouse. Bilara-data "
+        "preserves five of the six as bare elided names, explicitly "
+        "instructing the reader to supply SN 17.37's full sentence "
+        "in each case, before restating the observation and closing "
+        "refrain in full. And where every earlier discourse in this "
+        "saṃyutta closed with an untranslated uddāna, this block ends "
+        "with a colophon actually rendered into English: the Linked "
+        "Discourses on possessions, honor, and popularity are "
+        "complete."),
+    guide=[
+        ("An explicit editorial instruction, not silent elision", [
+            "Where the merged discourse SN 17.13-20 elided its list "
+            "silently, this block's source includes an explicit "
+            "parenthetical note, &ldquo;tell in full as in SN "
+            "17.37,&rdquo; naming exactly which earlier discourse "
+            "should be consulted to fill in what's compressed here."]),
+        ("A list completing exactly what SN 17.37 began", [
+            "Mother opened the list in the discourse immediately "
+            "before this one; this block continues with father, "
+            "brother, sister, son, and daughter before closing on "
+            "spouse, covering the closest family relationships the "
+            "tradition recognizes without repeating any of them."]),
+        ("Spouse closing the list at its most complicated bond", [
+            "Pajāpati, here translated as wife but literally naming "
+            "one who bears offspring, closes the list on a "
+            "relationship combining both the intimacy of marriage "
+            "and, potentially, all of the earlier bonds' protective "
+            "instincts at once."]),
+        ("The saṃyutta's colophon, translated where others were not", [
+            "Lābhasakkārasaṁyuttaṁ samattaṁ, &ldquo;the Linked "
+            "Discourses on possessions, honor, and popularity are "
+            "complete,&rdquo; is rendered in full by the source, "
+            "following the same convention seen at the close of "
+            "other completed saṃyuttas in this collection, even "
+            "while the accompanying uddāna verse remains "
+            "untranslated."]),
+        ("Thirteen discourse-positions closing one saṃyutta", [
+            "This block marks itself Terasamaṁ, &ldquo;the "
+            "thirteenth,&rdquo; the final discourse-position in "
+            "Catutthavagga's count of thirteen, followed immediately "
+            "by Catuttho vaggo marking the fourth chapter's close and "
+            "then the saṃyutta's own completion &mdash; three levels "
+            "of ending marked in succession."]),
+    ],
+    terms=[
+        ("pitu … bhātu … bhaginiyā … puttassa … dhītuyā … pajāpatiyā",
+         "&ldquo;father … brother … sister … son … daughter … "
+         "spouse&rdquo; &mdash; the six family relationships this "
+         "block runs through in sequence, completing SN 17.37's "
+         "mother."),
+        ("(vitthāretabbaṁ)",
+         "&ldquo;to be told in full&rdquo; &mdash; the source's own "
+         "explicit editorial instruction, naming SN 17.37 as the "
+         "discourse to consult for the full sentence structure."),
+        ("terasamaṁ",
+         "&ldquo;the thirteenth&rdquo; &mdash; this block's own "
+         "marker, the final discourse-position in Catutthavagga's "
+         "count."),
+        ("catuttho vaggo",
+         "&ldquo;the fourth chapter [is finished]&rdquo; &mdash; "
+         "marking Catutthavagga's close, immediately preceding the "
+         "saṃyutta's own colophon."),
+        ("lābhasakkārasaṁyuttaṁ samattaṁ",
+         "&ldquo;the Linked Discourses on possessions, honor, and "
+         "popularity are complete&rdquo; &mdash; the saṃyutta's own "
+         "closing colophon, translated in full by the source."),
+    ],
+    text_intro=(
+        "The full passage covering all six discourse numbers, "
+        "exactly as preserved in the source, followed by the "
+        "saṃyutta's own closing colophon. The chapter's own closing "
+        "verse and the untranslated uddāna naming Catutthavagga's "
+        "thirteen titles are not quoted here; see the reading guide "
+        "above. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn17.38-43:1.1-1.15"),
+        ("p", "&sect;2 &middot; Colophon", "sn17.38-43:2.5"),
+    ],
+    quiz=[
+        {"q": "What six relationships does this block run through, completing SN 17.37's list?",
+         "opts": [
+             "Father, brother, sister, son, daughter, and spouse",
+             "Teacher, student, king, minister, farmer, and merchant",
+             "Only father and spouse, with the rest omitted",
+             "No specific relationships are named"],
+         "correct": 0,
+         "expl": "Completing the family-threshold escalation SN 17.37 began with mother."},
+        {"q": "How does the source instruct the reader to fill in most of this block's compressed items?",
+         "opts": [
+             "With an explicit parenthetical note naming SN 17.37 as the discourse to consult",
+             "By providing no instruction at all, leaving the meaning ambiguous",
+             "By fully spelling out each of the six relationships in complete detail",
+             "By referring the reader to an entirely different saṃyutta"],
+         "correct": 0,
+         "expl": "An explicit editorial instruction, unlike the silent elision used in SN 17.13-20."},
+        {"q": "What relationship closes this list, and what does its underlying term literally suggest?",
+         "opts": [
+             "Spouse (pajāpati), literally naming one who bears offspring",
+             "Father, literally naming the family's founder",
+             "Teacher, literally naming a source of guidance",
+             "The list does not close on any particular relationship"],
+         "correct": 0,
+         "expl": "A relationship combining marital intimacy with, potentially, earlier bonds' protective instincts."},
+        {"q": "How is this saṃyutta's closing colophon treated, compared to most closing material elsewhere in this collection?",
+         "opts": [
+             "It is translated in full, unlike the untranslated uddāna verses that usually close a vagga",
+             "It is left entirely untranslated, like every other closing verse in this saṃyutta",
+             "No colophon exists for this saṃyutta at all",
+             "It is translated only partially, with key terms omitted"],
+         "correct": 0,
+         "expl": "Rendered in full, following the convention seen at the close of other completed saṃyuttas."},
+        {"q": "What does the colophon state?",
+         "opts": [
+             "That the Linked Discourses on possessions, honor, and popularity are complete",
+             "That a new saṃyutta is about to begin immediately",
+             "That the text is incomplete and further discourses are missing",
+             "Nothing about the collection's completion status"],
+         "correct": 0,
+         "expl": "Marking the definitive close of the entire Lābhasakkārasaṃyutta."},
+        {"q": "What numbering position does this block mark itself as?",
+         "opts": [
+             "Terasamaṁ, \"the thirteenth,\" the final discourse-position in Catutthavagga",
+             "Paṭhamaṁ, \"the first\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering position is marked"],
+         "correct": 0,
+         "expl": "The last of thirteen discourse-positions counted across Catutthavagga."},
+        {"q": "How many levels of ending does this block mark in succession?",
+         "opts": [
+             "Three — the discourse-position, the chapter's close, and the saṃyutta's own completion",
+             "Only one — the discourse-position alone",
+             "Two — the discourse-position and an unrelated event",
+             "No ending is marked at all"],
+         "correct": 0,
+         "expl": "Terasamaṁ, then Catuttho vaggo, then the saṃyutta's own colophon, marked in succession."},
+        {"q": "Is the uddāna verse naming Catutthavagga's thirteen titles translated in the source?",
+         "opts": [
+             "No — it remains untranslated, following the same convention as other vaggas in this saṃyutta",
+             "Yes, it is fully translated and quoted in this reading guide's text section",
+             "Only half of the verse is translated",
+             "No uddāna exists for this vagga"],
+         "correct": 0,
+         "expl": "Untranslated, unlike the saṃyutta's own colophon which is rendered in full."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "A return to the setting used throughout most of this saṃyutta."},
+        {"q": "What discourse immediately precedes this closing block?",
+         "opts": [
+             "SN 17.37, which opened the family-threshold escalation with mother",
+             "SN 17.31, the Devadatta sequence's opening discourse",
+             "SN 17.1, this saṃyutta's very first discourse",
+             "This block has no discourse immediately before it"],
+         "correct": 0,
+         "expl": "Completing the exact escalation SN 17.37 began."},
+    ],
+    marginalia=[
+        ("An instruction left in plain sight", [
+            "\"tell in full as in SN 17.37\" &mdash;",
+            "the source naming its own shortcut openly",
+        ]),
+        ("A list running through every close family bond", [
+            "father, brother, sister, son, daughter, spouse &mdash;",
+            "nothing left out, nothing repeated",
+        ]),
+        ("An ending actually spoken, not just implied", [
+            "\"the Linked Discourses … are complete\" &mdash;",
+            "the collection naming its own finish outright",
+        ]),
+        ("Three endings, arriving one after another", [
+            "the thirteenth, the chapter's close, the whole saṃyutta &mdash;",
+            "conclusion marked at every level at once",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn17.38-43/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-17.37.html">SN 17.37 &middot; Mother</a> '
+        "&mdash; the discourse whose escalation this block "
+        "completes.",
+        '<a href="sn-17.1.html">SN 17.1 &middot; Grim</a> &mdash; '
+        "this saṃyutta's opening discourse, whose central warning "
+        "this closing block has now traced through possessions, "
+        "family bonds, and a single historical case.",
+    ],
+)
