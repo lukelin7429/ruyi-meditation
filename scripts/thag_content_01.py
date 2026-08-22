@@ -30644,3 +30644,2017 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.31 — Migasira
+# --------------------------------------------------------------------------- #
+page(
+    2, 31, "Migasira", "Migasira",
+    meta_title="Thag 2.31 — Migasira | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Migasira's verse opening Chapter Four, freedom arriving as "
+        "the supreme one looks on, unshakable with the ending of all "
+        "fetters. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twos &middot; Chapter Four &middot; Poem 1 of 10",
+    glance=[
+        ("Setting", "No narrative setting; two four-line verses, "
+                    "without a translated attribution, opening "
+                    "Chapter Four"),
+        ("Speaker", "Migasira, describing his own release"),
+        ("Form", "Two four-line verses &mdash; going forth and "
+                 "rising, then a witnessed freeing of the mind"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a compact declaration with one striking "
+                       "detail"),
+    ],
+    why=(
+        "Migasira describes going forth in the Buddha's teaching and "
+        "rising up, escaping the sensual realm while letting go "
+        "&mdash; then adds an unusual detail: his mind was freed "
+        "&lsquo;as the supreme one looked on&rsquo;, a freedom he "
+        "calls unshakable with the ending of all fetters."),
+    guide=[
+        ("Rising up, while letting go", [
+            "The first verse pairs two actions that might seem to "
+            "pull in different directions: &lsquo;letting go&rsquo; "
+            "and &lsquo;rising up&rsquo; happen in the same breath, "
+            "escaping &lsquo;the sensual realm&rsquo; not through "
+            "effortful climbing but through release itself."]),
+        ("Freedom, witnessed", [
+            "The second verse adds a detail rare in this book: "
+            "Migasira's mind was freed &lsquo;as the supreme "
+            "one&rsquo; (brahmā) &lsquo;looked on&rsquo;. Most "
+            "declarations in this collection report attainment "
+            "without naming any witness; here the moment of release "
+            "is explicitly seen by another, unnamed beyond the "
+            "epithet itself."]),
+        ("Unshakable, and the reason given", [
+            "The poem closes by naming why this freedom can be "
+            "called &lsquo;unshakable&rsquo;: not a feeling or a "
+            "hope, but a direct consequence &mdash; &lsquo;with the "
+            "ending of all fetters&rsquo;. The certainty is grounded "
+            "in what has been removed, not asserted on its own."]),
+    ],
+    terms=[
+        ("sammāsambuddhas&amacr;sane",
+         "&ldquo;in the teaching of the Buddha&rdquo; &mdash; where "
+         "Migasira went forth, opening the poem."),
+        ("k&amacr;madh&amacr;tu&#7745;",
+         "&ldquo;the sensual realm&rdquo; &mdash; what is escaped in "
+         "the same motion as rising up."),
+        ("brahmuno pekkham&amacr;nassa",
+         "&ldquo;as the supreme one looked on&rdquo; &mdash; the "
+         "poem's distinctive detail, a witnessed moment of release."),
+        ("akupp&amacr;",
+         "&ldquo;unshakable&rdquo; &mdash; describing the freedom "
+         "declared in the poem's closing line."),
+        ("sabbasa&#7745;yojanakkhay&amacr;",
+         "&ldquo;with the ending of all fetters&rdquo; &mdash; the "
+         "stated ground for that unshakability."),
+    ],
+    text_intro=(
+        "The text in full: two verses, without a translated "
+        "attribution. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.31:1.1-1.4"),
+        ("p", "&sect;2", "thag2.31:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What two actions does the first verse pair together?",
+         "opts": [
+             "Letting go and rising up",
+             "Fighting and fleeing",
+             "Building and destroying",
+             "No actions are paired"],
+         "correct": 0,
+         "expl": "Release itself, not effortful climbing, is what carries him up."},
+        {"q": "What is escaped, according to the first verse?",
+         "opts": [
+             "A monastic rule",
+             "The sensual realm",
+             "A rainy season",
+             "A specific city"],
+         "correct": 1,
+         "expl": "Kāmadhātuṁ, named directly."},
+        {"q": "What unusual detail does the second verse add to this declaration?",
+         "opts": [
+             "The freedom happened in complete secrecy",
+             "The freedom took many years to arrive",
+             "The freedom happened while the supreme one looked on",
+             "No unusual detail is added"],
+         "correct": 2,
+         "expl": "A witnessed release, rarer than this book's usual unwitnessed declarations."},
+        {"q": "What does the poem give as the ground for calling this freedom 'unshakable'?",
+         "opts": [
+             "A personal feeling of confidence",
+             "The ending of all fetters",
+             "A promise made to a teacher",
+             "No ground is given"],
+         "correct": 1,
+         "expl": "Certainty grounded in what has been removed, not merely asserted."},
+        {"q": "What does 'kāmadhātuṁ' mean?",
+         "opts": [
+             "A type of hut",
+             "A rainy season",
+             "The sensual realm",
+             "A monastic robe"],
+         "correct": 2,
+         "expl": "What is escaped in the poem's opening verse."},
+        {"q": "How does most of this book typically report attainment, by contrast with this poem?",
+         "opts": [
+             "Always with a named human witness present",
+             "Always in the presence of a king",
+             "Never as a first-person report",
+             "Usually without naming any witness to the moment"],
+         "correct": 3,
+         "expl": "This poem's witnessed detail is the exception, not the rule."},
+        {"q": "What does 'akuppā' mean?",
+         "opts": [
+             "Fragile",
+             "Temporary",
+             "A place name",
+             "Unshakable"],
+         "correct": 3,
+         "expl": "Describing the freedom declared at the poem's close."},
+        {"q": "What does 'sammāsambuddhasāsane' mean?",
+         "opts": [
+             "A type of hut",
+             "A rainy season",
+             "A monastic robe",
+             "In the teaching of the Buddha"],
+         "correct": 3,
+         "expl": "Where Migasira went forth."},
+        {"q": "What is the overall structure of this poem?",
+         "opts": [
+             "Going forth and rising, then a witnessed freeing of the mind with its stated ground",
+             "A dialogue between two named speakers",
+             "A warning about danger",
+             "A description of a king's court"],
+         "correct": 0,
+         "expl": "A compact two-part declaration."},
+        {"q": "Where does this poem fall in the Book of the Twos?",
+         "opts": [
+             "The collection's final poem",
+             "The opening poem of Chapter Four",
+             "The closing poem of Chapter Three",
+             "It is not part of the Book of the Twos"],
+         "correct": 1,
+         "expl": "Opening the book's fourth chapter, following Chapter Three's ten poems."},
+    ],
+    marginalia=[
+        ("Rising, by letting go", [
+            "escaping the sensual realm —",
+            "release itself does the lifting"
+        ]),
+        ("Freedom, witnessed", [
+            "the supreme one looked on —",
+            "rarer than this book's usual silence"
+        ]),
+        ("Unshakable, and why", [
+            "not a feeling asserted —",
+            "grounded in fetters ended"
+        ]),
+        ("A chapter begins", [
+            "no frame, no preamble —",
+            "just this compact declaration"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.31/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-2.30.html">Thag 2.30 &mdash; '
+        "Ka&#7751;hadinna</a> &mdash; the poem immediately before "
+        "this one, closing Chapter Three.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.32 — Sivaka
+# --------------------------------------------------------------------------- #
+page(
+    2, 32, "Sivaka", "Sivaka",
+    meta_title="Thag 2.32 — Sivaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sivaka's verse confronting the house-builder, closely "
+        "echoing the Dhammapada's celebrated verses 153-154. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Twos &middot; Chapter Four &middot; Poem 2 of 10",
+    glance=[
+        ("Setting", "No narrative setting; a four-line verse "
+                    "followed by an extended six-line verse, without "
+                    "a translated attribution"),
+        ("Speaker", "Sivaka, confronting the house-builder directly"),
+        ("Form", "A four-line verse naming the search, then a "
+                 "six-line verse of direct address and triumph"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a vivid architectural confrontation, echoing "
+                       "one of the tradition's most famous images"),
+    ],
+    why=(
+        "Sivaka searches for the &lsquo;house-builder&rsquo; who "
+        "keeps constructing impermanent houses, life after painful "
+        "life &mdash; then confronts it directly: &lsquo;I've seen "
+        "you, house-builder! You won't build a house again&rsquo;, "
+        "its rafters broken, its ridgepole shattered, closing on a "
+        "mind without boundaries that will dissipate in this very "
+        "life."),
+    guide=[
+        ("Houses, impermanent, again and again", [
+            "The first verse states the search plainly: houses are "
+            "impermanent, rebuilt &lsquo;on and on, life after "
+            "life&rsquo;, and Sivaka has been searching for the "
+            "&lsquo;house-builder&rsquo; responsible &mdash; birth "
+            "itself, painful, recurring."]),
+        ("A direct confrontation, and a shattered structure", [
+            "The extended second verse turns from search to "
+            "confrontation: &lsquo;I've seen you, house-builder! You "
+            "won't build a house again&rsquo;, followed by a "
+            "structural inventory of the demolition &mdash; rafters "
+            "all broken, ridgepole shattered &mdash; closing on a "
+            "mind &lsquo;without boundaries&rsquo; that &lsquo;in "
+            "this very life... will dissipate&rsquo;."]),
+        ("Echoing the Dhammapada's most celebrated verses, in part", [
+            "This site's own Dhammapada page for verses 153&ndash;154 "
+            "describes them as traditionally recited as the "
+            "Buddha's own exultant cry on the night of his "
+            "awakening: &lsquo;I've seen you, house-builder! You "
+            "won't build a house again! Your rafters are all "
+            "broken&rsquo;. This poem shares that core declaration "
+            "closely, but diverges afterward &mdash; where Dhp 154 "
+            "closes on &lsquo;the mind, set on demolition, has "
+            "reached the end of cravings&rsquo;, this poem instead "
+            "pictures a &lsquo;ridgepole shattered&rsquo; and a mind "
+            "&lsquo;without boundaries&rsquo; that will "
+            "&lsquo;dissipate&rsquo;, different words for a related "
+            "but not identical closing image."]),
+        ("A second, different point of contact with the same verses", [
+            "This project has already noted one connection to Dhp "
+            "153&ndash;154, at Thag 1.78 (Meṇḍasira), which shares "
+            "that pair's opening two lines before diverging "
+            "completely. This poem instead shares the pair's central "
+            "triumphant declaration &mdash; &lsquo;I've seen you, "
+            "house-builder!&rsquo; &mdash; a different portion of the "
+            "same famous passage, touched by this project's work a "
+            "second time from a different angle."]),
+    ],
+    terms=[
+        ("gahak&amacr;raka",
+         "&ldquo;house-builder&rdquo; &mdash; this poem's central "
+         "figure, ultimately a name for craving itself."),
+        ("dukkh&amacr; j&amacr;ti punappuna&#7745;",
+         "&ldquo;painful is birth again and again&rdquo; &mdash; the "
+         "consequence of the house-builder's repeated work."),
+        ("ph&amacr;suk&amacr;",
+         "&ldquo;rafters&rdquo; &mdash; part of the structural "
+         "inventory of the house-builder's demolished work."),
+        ("th&umacr;&#7751;ik&amacr;",
+         "&ldquo;ridgepole&rdquo; &mdash; the second structural "
+         "element named as shattered."),
+        ("vimariyādikata&#7745; citta&#7745;",
+         "&ldquo;mind without boundaries&rdquo; &mdash; this poem's "
+         "own closing image, distinct from the Dhammapada's "
+         "&lsquo;mind set on demolition&rsquo;."),
+    ],
+    text_intro=(
+        "The text in full: a four-line verse followed by a six-line "
+        "verse. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.32:1.1-1.4"),
+        ("p", "&sect;2", "thag2.32:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What does the first verse say about houses?",
+         "opts": [
+             "They are permanent and secure",
+             "They are never mentioned",
+             "They are impermanent, rebuilt on and on, life after life",
+             "They belong to a specific king"],
+         "correct": 2,
+         "expl": "The search Sivaka has been conducting, opening the poem."},
+        {"q": "What does the second verse's opening line declare?",
+         "opts": [
+             "A request for teaching",
+             "A warning about a storm",
+             "A description of a palace",
+             "'I've seen you, house-builder! You won't build a house again'"],
+         "correct": 3,
+         "expl": "A direct, triumphant confrontation."},
+        {"q": "What structural elements does the second verse say are broken?",
+         "opts": [
+             "Rafters and ridgepole",
+             "Windows and doors",
+             "A roof and a floor only",
+             "Nothing is described as broken"],
+         "correct": 0,
+         "expl": "A structural inventory of the house-builder's demolished work."},
+        {"q": "How does this poem's closing image compare to Dhammapada 154's?",
+         "opts": [
+             "They are word for word identical throughout",
+             "This poem has no closing image at all",
+             "This poem closes on 'mind without boundaries... will dissipate'; Dhp 154 closes on 'mind set on demolition... reached the end of cravings'",
+             "Dhp 154 doesn't mention the mind at all"],
+         "correct": 2,
+         "expl": "Related but distinct phrasing for the poem's final turn."},
+        {"q": "How does this site's own Dhammapada page describe verses 153-154?",
+         "opts": [
+             "As an obscure, rarely cited passage",
+             "As a later, spurious addition",
+             "As untranslatable",
+             "As traditionally recited as the Buddha's own exultant cry on the night of his awakening"],
+         "correct": 3,
+         "expl": "Among the Dhammapada's most celebrated verses."},
+        {"q": "Which portion of Dhp 153-154 does this poem share, compared to Thag 1.78's earlier connection?",
+         "opts": [
+             "The exact same portion, word for word",
+             "Neither poem shares any portion of Dhp 153-154",
+             "Thag 1.78 shares the opening two lines; this poem shares the central 'I've seen you, house-builder!' declaration",
+             "This poem shares the opening and Thag 1.78 shares the ending"],
+         "correct": 2,
+         "expl": "Two different points of contact with the same famous passage."},
+        {"q": "What does 'gahakāraka' ultimately name, according to the tradition?",
+         "opts": [
+             "A literal builder",
+             "A specific king",
+             "A monastic rule",
+             "Craving itself"],
+         "correct": 3,
+         "expl": "The house as repeatedly constructed body and identity; the house-builder as the force behind it."},
+        {"q": "What does 'phāsukā' mean?",
+         "opts": [
+             "Rafters",
+             "A type of hut",
+             "A rainy season",
+             "A monastic robe"],
+         "correct": 0,
+         "expl": "Part of the demolished structure's inventory."},
+        {"q": "How long is this poem's second verse, compared to the book's usual four-line unit?",
+         "opts": [
+             "Four lines, the standard length",
+             "Six lines, extended beyond the usual four",
+             "Two lines",
+             "Twenty lines"],
+         "correct": 1,
+         "expl": "An extension in the second verse, unlike several Chapter Two poems whose extensions fell in the first verse."},
+        {"q": "Where does this poem fall in Chapter Four?",
+         "opts": [
+             "The chapter's opening poem",
+             "The chapter's second poem",
+             "The chapter's closing poem",
+             "It is not part of Chapter Four"],
+         "correct": 1,
+         "expl": "Following Migasira, the chapter's opener."},
+    ],
+    marginalia=[
+        ("Houses, rebuilt again and again", [
+            "the house-builder,",
+            "searched for through painful birth"
+        ]),
+        ("'I've seen you, house-builder!'", [
+            "rafters broken,",
+            "ridgepole shattered"
+        ]),
+        ("The same triumph, a different close", [
+            "Dhp 154 ends on craving's end;",
+            "this poem ends on 'dissipation'"
+        ]),
+        ("A second point of contact", [
+            "Thag 1.78 shared the opening;",
+            "this poem shares the declaration itself"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.32/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../dhammapada/dhp-11.html">Dhammapada Chapter 11 '
+        "&mdash; Old Age</a> &mdash; verses 153&ndash;154, the "
+        "&lsquo;house-builder&rsquo; passage this poem closely "
+        "echoes.",
+        '<a href="thag-1.78.html">Thag 1.78 &mdash; '
+        "Me&#7751;&#7693;asira</a> &mdash; this project's earlier, "
+        "different point of contact with the same Dhammapada pair.",
+        '<a href="thag-2.31.html">Thag 2.31 &mdash; Migasira</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.33 — Upav&amacr;&#7751;a
+# --------------------------------------------------------------------------- #
+page(
+    2, 33, "Upav&amacr;&#7751;a", "Upav&amacr;&#7751;a",
+    meta_title="Thag 2.33 — Upavāṇa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Upavāṇa's verse asking a brahmin for hot water to bring to "
+        "the Buddha, afflicted by winds. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Book of the Twos &middot; Chapter Four &middot; Poem 3 of 10",
+    glance=[
+        ("Setting", "A request made to a brahmin, on behalf of an "
+                    "ailing Buddha"),
+        ("Speaker", "Upav&amacr;&#7751;a, caring for the Buddha's "
+                    "physical illness"),
+        ("Form", "Two four-line verses &mdash; a request, then its "
+                 "reason"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a plain, practical request, richly titled"),
+    ],
+    why=(
+        "Upavāṇa asks a brahmin directly for hot water &mdash; the "
+        "Buddha, &lsquo;the perfected one, the Holy One in the "
+        "world&rsquo;, is &lsquo;afflicted by winds&rsquo; &mdash; "
+        "then explains why he wishes to bring it himself: to serve "
+        "the one esteemed, honored, and venerated by the estimable, "
+        "the honorable, and the venerable."),
+    guide=[
+        ("A stack of titles, for a practical need", [
+            "The first verse piles up formal epithets for the "
+            "Buddha &mdash; &lsquo;the perfected one&rsquo;, "
+            "&lsquo;the Holy One in the world&rsquo;, &lsquo;the "
+            "sage&rsquo; &mdash; before naming something entirely "
+            "physical and ordinary: he is &lsquo;afflicted by "
+            "winds&rsquo;, and needs hot water."]),
+        ("Reverence, doubled and doubled again", [
+            "The second verse explains the request's motive with a "
+            "cascading structure: &lsquo;esteemed by the "
+            "estimable&rsquo;, &lsquo;honored by the honorable&rsquo;, "
+            "&lsquo;venerated by the venerable&rsquo; &mdash; the same "
+            "grammatical pattern repeated three times, building "
+            "reverence through repetition rather than escalation."]),
+        ("Upavāṇa, the Buddha's attendant elsewhere on this site", [
+            "This site's own DN 16, the account of the Buddha's "
+            "final days, describes Venerable Upavāṇa as &lsquo;the "
+            "Buddha's attendant for a long time, close to him, "
+            "living in his presence&rsquo; &mdash; standing before "
+            "him fanning him until asked to move aside so gathered "
+            "deities could see the Realized One in his final hour. "
+            "That passage doesn't narrate this poem's specific "
+            "scene, but it independently confirms Upavāṇa's "
+            "established role as the Buddha's own physical "
+            "caregiver, matching this poem's content closely."]),
+    ],
+    terms=[
+        ("araha&#7745; sugato",
+         "&ldquo;the perfected one, the Holy One&rdquo; &mdash; the "
+         "opening pair of epithets for the Buddha."),
+        ("v&amacr;tehābādhiko",
+         "&ldquo;afflicted by winds&rdquo; &mdash; the Buddha's "
+         "physical condition, stated plainly amid the formal titles."),
+        ("u&#7751;hodaka&#7745;",
+         "&ldquo;hot water&rdquo; &mdash; the practical request "
+         "opening the poem."),
+        ("p&umacr;jito p&umacr;janeyy&amacr;na&#7745;",
+         "&ldquo;esteemed by the estimable&rdquo; &mdash; the first "
+         "of three parallel phrases explaining the request's motive."),
+        ("apacito paceyy&amacr;na&#7745;",
+         "&ldquo;venerated by the venerable&rdquo; &mdash; the third "
+         "and final phrase in that repeated pattern."),
+    ],
+    text_intro=(
+        "The text in full: two verses, without a translated "
+        "attribution. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.33:1.1-1.4"),
+        ("p", "&sect;2", "thag2.33:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does the first verse say the Buddha is afflicted by?",
+         "opts": [
+             "Winds",
+             "A fever from infection",
+             "A broken bone",
+             "Nothing is named"],
+         "correct": 0,
+         "expl": "A physical, ordinary condition, named amid formal titles."},
+        {"q": "What does Upavāṇa ask the brahmin for?",
+         "opts": [
+             "Medicine",
+             "A new robe",
+             "Hot water",
+             "Money"],
+         "correct": 2,
+         "expl": "A practical, immediate request opening the poem."},
+        {"q": "What structure does the second verse's explanation use?",
+         "opts": [
+             "A single unrepeated statement",
+             "Three parallel phrases of increasing intensity building through repetition",
+             "A question left unanswered",
+             "A narrative with named events"],
+         "correct": 1,
+         "expl": "Esteemed by the estimable, honored by the honorable, venerated by the venerable."},
+        {"q": "What does this site's own DN 16 say about Upavāṇa?",
+         "opts": [
+             "Nothing — he is not mentioned there",
+             "That he was the Buddha's attendant for a long time, close to him, living in his presence",
+             "That he was a rival teacher",
+             "That he never met the Buddha"],
+         "correct": 1,
+         "expl": "An independent confirmation of his established caregiving role."},
+        {"q": "Does DN 16 narrate this poem's specific hot-water scene?",
+         "opts": [
+             "Yes, in the exact same words",
+             "DN 16 denies Upavāṇa ever attended the Buddha",
+             "DN 16 is the only source for this scene",
+             "No — it confirms his general role, not this specific episode"],
+         "correct": 3,
+         "expl": "A supporting context, not a direct textual match."},
+        {"q": "What does 'vātehābādhiko' mean?",
+         "opts": [
+             "In perfect health",
+             "A type of hut",
+             "Afflicted by winds",
+             "A monastic robe"],
+         "correct": 2,
+         "expl": "The Buddha's stated condition in this poem."},
+        {"q": "What happens to Upavāṇa in DN 16's account of the Buddha's final hour?",
+         "opts": [
+             "He delivers the Buddha's final teaching himself",
+             "He is not present at all",
+             "He becomes the next Buddha",
+             "He is asked to move aside so gathered deities can see the Buddha"],
+         "correct": 3,
+         "expl": "A vivid detail from that site's own account."},
+        {"q": "What does 'uṇhodakaṁ' mean?",
+         "opts": [
+             "Cold water",
+             "A type of robe",
+             "A rainy season",
+             "Hot water"],
+         "correct": 3,
+         "expl": "What Upavāṇa requests from the brahmin."},
+        {"q": "What kind of titles open this poem's first verse?",
+         "opts": [
+             "Formal epithets for the Buddha",
+             "Titles for Upavāṇa himself",
+             "Titles for the brahmin addressed",
+             "No titles appear in the poem"],
+         "correct": 0,
+         "expl": "The perfected one, the Holy One, the sage."},
+        {"q": "Where does this poem fall in Chapter Four?",
+         "opts": [
+             "The chapter's opening poem",
+             "The chapter's third poem",
+             "The chapter's closing poem",
+             "It is not part of Chapter Four"],
+         "correct": 1,
+         "expl": "Following Migasira and Sivaka."},
+    ],
+    marginalia=[
+        ("Formal titles, then a plain need", [
+            "the Holy One,",
+            "afflicted by winds"
+        ]),
+        ("A request, and its reason", [
+            "hot water sought,",
+            "for the one esteemed by the estimable"
+        ]),
+        ("Reverence, tripled", [
+            "esteemed, honored, venerated —",
+            "the same pattern, three times"
+        ]),
+        ("An attendant, confirmed elsewhere", [
+            "DN 16's own account —",
+            "close to the Buddha, to the very end"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.33/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../digha-nikaya/dn-16.html">DN 16 &mdash; The Great '
+        "Discourse on the Buddha's Extinguishment</a> &mdash; "
+        "confirming Upav&amacr;&#7751;a's role as the Buddha's own "
+        "attendant.",
+        '<a href="thag-2.32.html">Thag 2.32 &mdash; Sivaka</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.34 — Isidinna
+# --------------------------------------------------------------------------- #
+page(
+    2, 34, "Isidinna", "Isidinna",
+    meta_title="Thag 2.34 — Isidinna | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Isidinna's verse on lay disciples who recite that pleasures "
+        "are impermanent while remaining obsessed with jewelry and "
+        "family. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twos &middot; Chapter Four &middot; Poem 4 of 10",
+    glance=[
+        ("Setting", "No narrative setting; two four-line verses, "
+                    "without a translated attribution"),
+        ("Speaker", "Isidinna, observing a gap between recitation and "
+                    "conduct"),
+        ("Form", "Two four-line verses &mdash; an observation, then "
+                 "its blunt diagnosis"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a pointed, socially observant critique"),
+    ],
+    why=(
+        "Isidinna has seen lay disciples who have memorized the "
+        "discourses, saying &lsquo;sensual pleasures are "
+        "impermanent&rsquo; &mdash; yet remain obsessed with jeweled "
+        "earrings, and concerned for their partners and children "
+        "&mdash; and diagnoses the gap bluntly: they don't have the "
+        "power to cut their own lust."),
+    guide=[
+        ("Correct words, observed alongside contrary conduct", [
+            "The first verse doesn't accuse anyone of ignorance in "
+            "the abstract; it describes a specific, observed group: "
+            "lay disciples who &lsquo;have memorized discourses&rsquo; "
+            "and can recite the correct formula, &lsquo;sensual "
+            "pleasures are impermanent&rsquo;, while &lsquo;obsessed "
+            "with jeweled earrings&rsquo; and worried for their "
+            "families."]),
+        ("Reciting is not the same as knowing", [
+            "The second verse draws the sharp conclusion: &lsquo;to "
+            "be honest, they don't know Dhamma&rsquo;, even though "
+            "they can repeat the same words as the first verse "
+            "&mdash; the poem's own repetition of &lsquo;sensual "
+            "pleasures are impermanent&rsquo; underlining that "
+            "correct recitation and actual understanding are being "
+            "treated as two separate things."]),
+        ("A diagnosis, not simply a complaint", [
+            "The poem doesn't stop at pointing out the gap; it "
+            "names a specific cause: &lsquo;they don't have the "
+            "power to cut their lust&rsquo;, and clinging to family "
+            "and wealth follows directly from that missing power "
+            "&mdash; a causal account rather than a moral scolding."]),
+    ],
+    terms=[
+        ("dhammadhar&amacr; up&amacr;sak&amacr;",
+         "&ldquo;lay disciples who have memorized discourses&rdquo; "
+         "&mdash; the group this poem observes."),
+        ("s&amacr;rattaratt&amacr;",
+         "&ldquo;obsessed&rdquo; &mdash; describing their actual "
+         "attachment to jeweled earrings."),
+        ("addh&amacr; na j&amacr;nanti",
+         "&ldquo;to be honest, they don't know&rdquo; &mdash; the "
+         "poem's blunt diagnosis, opening the second verse."),
+        ("r&amacr;ga&#7745; chettu&#7745;",
+         "&ldquo;to cut their lust&rdquo; &mdash; the power the "
+         "second verse says these disciples lack."),
+        ("sit&amacr; puttad&amacr;ra&#7745; dhana&ntilde;ca",
+         "&ldquo;cling to children, wives, and wealth&rdquo; &mdash; "
+         "the poem's closing consequence of that missing power."),
+    ],
+    text_intro=(
+        "The text in full: two verses, without a translated "
+        "attribution. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.34:1.1-1.4"),
+        ("p", "&sect;2", "thag2.34:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What group does the first verse describe observing?",
+         "opts": [
+             "Lay disciples who have memorized discourses",
+             "A group of kings",
+             "Wandering ascetics from a rival tradition",
+             "No group is described"],
+         "correct": 0,
+         "expl": "A specific, observed group, not an abstract accusation."},
+        {"q": "What do these lay disciples say, according to the first verse?",
+         "opts": [
+             "That wealth brings happiness",
+             "Nothing is quoted",
+             "That sensual pleasures are impermanent",
+             "That the Buddha's teaching is false"],
+         "correct": 2,
+         "expl": "The correct formula, recited but not, the poem argues, understood."},
+        {"q": "What are these lay disciples said to be obsessed with, despite their recitation?",
+         "opts": [
+             "Nothing — they show no attachment at all",
+             "Only their own reputation",
+             "Jeweled earrings, and concern for partners and children",
+             "A specific monastic rule"],
+         "correct": 2,
+         "expl": "A gap between correct words and actual attachment."},
+        {"q": "What blunt diagnosis opens the second verse?",
+         "opts": [
+             "That they are secretly wise",
+             "To be honest, they don't know Dhamma",
+             "That they will soon attain awakening",
+             "No diagnosis is given"],
+         "correct": 1,
+         "expl": "Correct recitation treated as distinct from actual understanding."},
+        {"q": "What specific cause does the poem name for their continued clinging?",
+         "opts": [
+             "They were never taught properly",
+             "They are forbidden from practicing",
+             "No cause is given",
+             "They don't have the power to cut their lust"],
+         "correct": 3,
+         "expl": "A causal account, not simply a moral complaint."},
+        {"q": "What does 'sārattarattā' mean?",
+         "opts": [
+             "Indifferent",
+             "A type of hut",
+             "A monastic robe",
+             "Obsessed"],
+         "correct": 3,
+         "expl": "Describing their actual attachment to jeweled earrings."},
+        {"q": "What does the poem's closing line say they cling to?",
+         "opts": [
+             "Nothing at all",
+             "Only monastic robes",
+             "Children, wives, and wealth",
+             "A specific teaching"],
+         "correct": 2,
+         "expl": "The direct consequence of lacking the power to cut lust."},
+        {"q": "What does 'addhā na jānanti' mean?",
+         "opts": [
+             "They know everything",
+             "A type of hut",
+             "A rainy season",
+             "To be honest, they don't know"],
+         "correct": 3,
+         "expl": "The poem's blunt diagnostic phrase."},
+        {"q": "Does the poem's own text repeat the phrase 'sensual pleasures are impermanent'?",
+         "opts": [
+             "Yes, in both verses, underlining the gap between reciting and knowing",
+             "No, it appears only once",
+             "The phrase never appears at all",
+             "It appears only in the second verse"],
+         "correct": 0,
+         "expl": "A deliberate repetition marking the contrast the poem draws."},
+        {"q": "Where does this poem fall in Chapter Four?",
+         "opts": [
+             "The chapter's opening poem",
+             "The chapter's fourth poem",
+             "The chapter's closing poem",
+             "It is not part of Chapter Four"],
+         "correct": 1,
+         "expl": "Following Migasira, Sivaka, and Upavāṇa."},
+    ],
+    marginalia=[
+        ("Words, correctly recited", [
+            "'sensual pleasures are impermanent' —",
+            "memorized, spoken"
+        ]),
+        ("Conduct, observed alongside", [
+            "obsessed with earrings,",
+            "worried for family"
+        ]),
+        ("To be honest, they don't know", [
+            "the same words repeated,",
+            "but not understood"
+        ]),
+        ("A cause named, not just a complaint", [
+            "lacking the power",
+            "to cut their own lust"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.34/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-2.33.html">Thag 2.33 &mdash; '
+        "Upav&amacr;&#7751;a</a> &mdash; the poem immediately before "
+        "this one, in the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.35 — Sambulakacc&amacr;na
+# --------------------------------------------------------------------------- #
+page(
+    2, 35, "Sambulakacc&amacr;na", "Sambulakacc&amacr;na",
+    meta_title="Thag 2.35 — Sambulakaccāna | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sambulakaccāna's verse of fearless solitary dwelling in a "
+        "storm-battered cave, restated twice over. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Twos &middot; Chapter Four &middot; Poem 5 of 10",
+    glance=[
+        ("Setting", "A frightful hole or cave, during heavy rain"),
+        ("Speaker", "Sambulakacc&amacr;na, describing his own "
+                    "fearlessness"),
+        ("Form", "Two four-line verses &mdash; a scene and its claim, "
+                 "then the same claim restated more plainly"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a vivid weather scene, restated for emphasis"),
+    ],
+    why=(
+        "Sambulakaccāna describes staying alone in a &lsquo;frightful "
+        "hole&rsquo; while the heavens rain and pour, with no fear, no "
+        "dread, no goosebumps &mdash; then restates the same claim a "
+        "second time as simply his &lsquo;normal state&rsquo;."),
+    guide=[
+        ("A storm, and a solitary shelter", [
+            "The first verse sets a vivid scene: the heavens raining "
+            "and pouring, Sambulakaccāna alone in a &lsquo;frightful "
+            "hole&rsquo; (bherave bile) &mdash; a cave or hollow "
+            "explicitly named as frightening, not a comfortable "
+            "retreat."]),
+        ("No fear, stated three ways", [
+            "The claim of fearlessness is itself layered: "
+            "&lsquo;no fear&rsquo;, &lsquo;no dread&rsquo;, &lsquo;no "
+            "goosebumps&rsquo; &mdash; three distinct words for the "
+            "absence of alarm, stacked rather than left to a single "
+            "term."]),
+        ("The same claim, restated as ordinary", [
+            "The second verse doesn't add new content; it restates "
+            "the same fearlessness almost word for word, but "
+            "reframes it as &lsquo;dhammatā mamesā&rsquo;, &lsquo;this "
+            "is my normal state&rsquo; &mdash; not a single triumphant "
+            "moment but a settled, ongoing condition, closely echoing "
+            "the near-repeated structure already seen at Thag 2.23 "
+            "(Sobhita)."]),
+    ],
+    terms=[
+        ("bherave bile",
+         "&ldquo;in a frightful hole&rdquo; &mdash; the poem's "
+         "central setting, named as frightening rather than "
+         "comfortable."),
+        ("bhaya&#7745;",
+         "&ldquo;fear&rdquo; &mdash; the first of three terms denied "
+         "in both verses."),
+        ("chambhitatta&#7745;",
+         "&ldquo;dread&rdquo; &mdash; the second term in that same "
+         "triad."),
+        ("lomaha&#7745;so",
+         "&ldquo;goosebumps&rdquo; &mdash; the third, most physical "
+         "term in the triad."),
+        ("dhammat&amacr; mames&amacr;",
+         "&ldquo;this is my normal state&rdquo; &mdash; the second "
+         "verse's reframing of the same fearlessness as ordinary "
+         "rather than exceptional."),
+    ],
+    text_intro=(
+        "The text in full: two verses, without a translated "
+        "attribution. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.35:1.1-1.4"),
+        ("p", "&sect;2", "thag2.35:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What is happening in the weather, in the first verse?",
+         "opts": [
+             "The heavens rain and pour",
+             "A clear, cloudless sky",
+             "A gentle breeze only",
+             "Nothing is said about weather"],
+         "correct": 0,
+         "expl": "A vivid storm scene opens the poem."},
+        {"q": "How does the poem describe Sambulakaccāna's shelter?",
+         "opts": [
+             "A frightful hole",
+             "A luxurious monastery",
+             "A royal palace",
+             "No shelter is mentioned"],
+         "correct": 0,
+         "expl": "Named explicitly as frightening, not comfortable."},
+        {"q": "How many distinct terms for fearlessness are stacked in the first verse?",
+         "opts": [
+             "One",
+             "Three — no fear, no dread, no goosebumps",
+             "Ten",
+             "None — no such claim is made"],
+         "correct": 1,
+         "expl": "A layered denial rather than a single word."},
+        {"q": "What does the second verse do with this claim?",
+         "opts": [
+             "Contradicts it entirely",
+             "Restates it almost word for word, reframing it as his normal state",
+             "Ignores it and introduces a new topic",
+             "Denies the claim was ever made"],
+         "correct": 1,
+         "expl": "A settled, ongoing condition rather than a single triumphant moment."},
+        {"q": "Which earlier poem in this book uses a similar near-repeated two-verse structure?",
+         "opts": [
+             "Thag 2.1 (Uttara)",
+             "Thag 2.15 (Sabbamitta)",
+             "Thag 2.23 (Sobhita)",
+             "No earlier poem uses this structure"],
+         "correct": 2,
+         "expl": "The same claim restated with only small changes."},
+        {"q": "What does 'dhammatā mamesā' mean?",
+         "opts": [
+             "This is impossible for me",
+             "A type of hut",
+             "This is my normal state",
+             "A rainy season"],
+         "correct": 2,
+         "expl": "Reframing fearlessness as ordinary rather than exceptional."},
+        {"q": "What does 'chambhitattaṁ' mean?",
+         "opts": [
+             "Joy",
+             "A type of hut",
+             "A monastic robe",
+             "Dread"],
+         "correct": 3,
+         "expl": "The second of three terms denied in this poem."},
+        {"q": "What does 'lomahaṁso' mean?",
+         "opts": [
+             "A type of storm",
+             "A monastic rule",
+             "A place name",
+             "Goosebumps"],
+         "correct": 3,
+         "expl": "The third, most physical term in the fearlessness triad."},
+        {"q": "Is Sambulakaccāna's fearlessness in this poem framed as accompanied by other people?",
+         "opts": [
+             "Yes, several companions are named",
+             "The poem does not mention solitude",
+             "No — he describes staying alone",
+             "Yes, an entire community is present"],
+         "correct": 2,
+         "expl": "Ekako, 'alone', named directly in both verses."},
+        {"q": "Where does this poem fall in Chapter Four?",
+         "opts": [
+             "The chapter's opening poem",
+             "The chapter's closing poem",
+             "It is not part of Chapter Four",
+             "The chapter's fifth poem"],
+         "correct": 3,
+         "expl": "Following Migasira, Sivaka, Upavāṇa, and Isidinna."},
+    ],
+    marginalia=[
+        ("Rain, pouring", [
+            "alone, in a frightful hole —",
+            "a storm scene, vivid"
+        ]),
+        ("No fear, three ways", [
+            "no fear, no dread,",
+            "no goosebumps"
+        ]),
+        ("The same claim, made ordinary", [
+            "not a single triumph —",
+            "'this is my normal state'"
+        ]),
+        ("A structure echoed elsewhere", [
+            "restated almost word for word,",
+            "like Thag 2.23 before it"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.35/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-2.23.html">Thag 2.23 &mdash; Sobhita</a> '
+        "&mdash; an earlier poem in this book sharing a similar "
+        "near-repeated two-verse structure.",
+        '<a href="thag-2.34.html">Thag 2.34 &mdash; Isidinna</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.36 — Nitaka
+# --------------------------------------------------------------------------- #
+page(
+    2, 36, "Nitaka", "Nitaka",
+    meta_title="Thag 2.36 — Nitaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Nitaka's verse asking whose mind is like a rock, then "
+        "answering with his own, word for word. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Twos &middot; Chapter Four &middot; Poem 6 of 10",
+    glance=[
+        ("Setting", "No narrative setting; two extended six-line "
+                    "verses, without a translated attribution"),
+        ("Speaker", "Nitaka, posing a question and then answering it "
+                    "himself"),
+        ("Form", "A six-line question, then a six-line answer in "
+                 "nearly identical wording"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a riddle immediately answered by its own "
+                       "asker"),
+    ],
+    why=(
+        "Nitaka asks, at length, whose mind is like a rock &mdash; "
+        "steady, never trembling, free of desire for desirable "
+        "things, undisturbed by what's annoying &mdash; then answers "
+        "his own question in nearly identical words: &lsquo;my mind "
+        "is like a rock&rsquo;."),
+    guide=[
+        ("A question, built up across six lines", [
+            "The first verse poses a riddle rather than a "
+            "declaration: &lsquo;whose mind is like a rock, steady, "
+            "never trembling... free of desire for desirable "
+            "things, not getting annoyed when things are "
+            "annoying?&rsquo;, closing with a further question about "
+            "where suffering could possibly reach such a mind."]),
+        ("The same words, answered", [
+            "The second verse doesn't introduce a different figure "
+            "or argument; it repeats the first verse's wording "
+            "almost exactly, changing only the pronoun from "
+            "third-person question (&lsquo;whose&rsquo;) to "
+            "first-person answer (&lsquo;my mind is like a "
+            "rock&rsquo;) &mdash; the riddle and its solution built "
+            "from the same materials."]),
+        ("A structure distinct from this book's usual pattern", [
+            "Both verses run to six lines rather than this book's "
+            "usual four, and the question-then-answer shape itself "
+            "is new among the poems read so far in the Book of the "
+            "Twos &mdash; not a report of attainment or an image "
+            "applied to a listener, but a riddle the speaker poses "
+            "and immediately resolves in his own name."]),
+    ],
+    terms=[
+        ("sel&umacr;pama&#7745; citta&#7745;",
+         "&ldquo;mind like a rock&rdquo; &mdash; the central "
+         "simile, repeated word for word in both verses."),
+        ("na anupakampati",
+         "&ldquo;never trembling&rdquo; &mdash; describing the "
+         "rock-mind's steadiness."),
+        ("virattaṁ rajan&imacr;yesu",
+         "&ldquo;free of desire for desirable things&rdquo; &mdash; "
+         "one of two qualities named for this steady mind."),
+        ("kuppan&imacr;ye na kuppati",
+         "&ldquo;not getting annoyed when things are annoying&rdquo; "
+         "&mdash; the second paired quality."),
+        ("bh&amacr;vita&#7745; citta&#7745;",
+         "&ldquo;a mind that is developed&rdquo; &mdash; named in "
+         "both the question and its answer as the reason suffering "
+         "cannot reach it."),
+    ],
+    text_intro=(
+        "The text in full: two six-line verses, without a translated "
+        "attribution. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.36:1.1-1.6"),
+        ("p", "&sect;2", "thag2.36:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What does the first verse ask?",
+         "opts": [
+             "Whose mind is like a rock, steady and undisturbed",
+             "Where the nearest hut is",
+             "What time of year it is",
+             "No question is asked"],
+         "correct": 0,
+         "expl": "A riddle rather than a declaration opens the poem."},
+        {"q": "How does the second verse relate to the first?",
+         "opts": [
+             "It introduces a completely different topic",
+             "It repeats the first verse's wording almost exactly, shifting from question to first-person answer",
+             "It contradicts the first verse",
+             "It is much shorter than the first verse"],
+         "correct": 1,
+         "expl": "The riddle and its solution built from the same materials."},
+        {"q": "What two qualities does the poem name for this steady mind?",
+         "opts": [
+             "Wealth and status",
+             "Free of desire for desirable things, and not getting annoyed by what's annoying",
+             "Speed and strength",
+             "No qualities are named"],
+         "correct": 1,
+         "expl": "Paired qualities repeated in both verses."},
+        {"q": "How long is each of this poem's two verses?",
+         "opts": [
+             "Four lines, the standard length",
+             "Two lines each",
+             "Twenty lines each",
+             "Six lines each, extended beyond the usual four"],
+         "correct": 3,
+         "expl": "Both verses extended, unlike poems with only one extended stanza."},
+        {"q": "What structural pattern does this poem use, unusual for this book so far?",
+         "opts": [
+             "A dialogue between two named speakers",
+             "A narrative with dated events",
+             "A question posed and then answered by the same speaker",
+             "A warning addressed to a rival"],
+         "correct": 2,
+         "expl": "New among the Book of the Twos poems read so far."},
+        {"q": "What does 'selūpamaṁ cittaṁ' mean?",
+         "opts": [
+             "A type of hut",
+             "A rainy season",
+             "A monastic robe",
+             "Mind like a rock"],
+         "correct": 3,
+         "expl": "The central simile, repeated word for word."},
+        {"q": "What does the closing line of each verse ask or claim?",
+         "opts": [
+             "How much wealth has been accumulated",
+             "How many years remain in this life",
+             "Where suffering could possibly reach such a developed mind",
+             "Nothing about suffering is mentioned"],
+         "correct": 2,
+         "expl": "The same rhetorical question, posed then answered."},
+        {"q": "What does 'kuppanīye na kuppati' mean?",
+         "opts": [
+             "Not getting annoyed when things are annoying",
+             "Always getting angry",
+             "A type of weather",
+             "A monastic rule"],
+         "correct": 0,
+         "expl": "One of the two paired qualities of the rock-like mind."},
+        {"q": "Does the second verse introduce any new figure or argument?",
+         "opts": [
+             "Yes, an entirely new argument",
+             "Yes, a new king is introduced",
+             "No — it answers using the same materials as the question",
+             "Yes, a debate with another monk begins"],
+         "correct": 2,
+         "expl": "Riddle and answer built from identical wording."},
+        {"q": "Where does this poem fall in Chapter Four?",
+         "opts": [
+             "The chapter's opening poem",
+             "The chapter's sixth poem",
+             "The chapter's closing poem",
+             "It is not part of Chapter Four"],
+         "correct": 1,
+         "expl": "Following Migasira, Sivaka, Upavāṇa, Isidinna, and Sambulakaccāna."},
+    ],
+    marginalia=[
+        ("A question, at length", [
+            "whose mind is like a rock,",
+            "steady, never trembling?"
+        ]),
+        ("The same words, answered", [
+            "'my mind is like a rock' —",
+            "question becomes claim"
+        ]),
+        ("Two verses, both extended", [
+            "six lines each,",
+            "not the usual four"
+        ]),
+        ("A riddle, self-resolved", [
+            "posed and answered",
+            "by the same speaker"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.36/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-2.35.html">Thag 2.35 &mdash; '
+        "Sambulakacc&amacr;na</a> &mdash; the poem immediately before "
+        "this one, in the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.37 — So&#7751;apo&#7789;iriya
+# --------------------------------------------------------------------------- #
+page(
+    2, 37, "So&#7751;apo&#7789;iriya", "So&#7751;apo&#7789;iriya",
+    meta_title="Thag 2.37 — Soṇapoṭiriya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Soṇapoṭiriya's verse on the night as a time for waking, "
+        "then a soldier's declared preference for death over defeat. "
+        "From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twos &middot; Chapter Four &middot; Poem 7 of 10",
+    glance=[
+        ("Setting", "No narrative setting; two separately quoted "
+                    "four-line verses in sharply different registers"),
+        ("Speaker", "Two quoted statements, whose relationship to "
+                    "each other the poem itself doesn't specify"),
+        ("Form", "A reflective verse on night and waking, then a "
+                 "battlefield declaration"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "two verses in strikingly different registers, "
+                       "left unexplained by the text"),
+    ],
+    why=(
+        "The first verse states that night, garlanded with stars, "
+        "isn't only for sleeping but for waking, for those who "
+        "know; the second verse turns abruptly to a soldier's "
+        "declaration &mdash; better to die trampled in battle than "
+        "to live on in defeat &mdash; and the poem itself never "
+        "explains how the two connect."),
+    guide=[
+        ("Night, reframed as a time for waking", [
+            "The first verse addresses the night itself, &lsquo;with "
+            "her garland of stars&rsquo;, insisting it &lsquo;is not "
+            "only for sleeping&rsquo; but, &lsquo;for those who "
+            "know&rsquo;, a time meant &lsquo;for waking&rsquo; "
+            "&mdash; a reflective, almost lyrical register."]),
+        ("A sudden shift to the battlefield", [
+            "The second verse changes register entirely, without "
+            "transition: falling from an elephant's back, trampled "
+            "by the tuskers behind it, is called preferable to "
+            "&lsquo;live on in defeat&rsquo;. Both bilara-data's "
+            "Pali and Sujato's translation mark each verse with its "
+            "own quotation marks, suggesting two separate quoted "
+            "statements rather than one continuous voice."]),
+        ("A relationship the poem doesn't spell out", [
+            "Nothing in the text states whether the same speaker "
+            "utters both verses, whether one quotes the other, or "
+            "whether they represent two different voices entirely "
+            "&mdash; a warrior's ethic of dying rather than losing, "
+            "set alongside a monk's ethic of using the night for "
+            "waking rather than sleep. This guide states the "
+            "juxtaposition as a fact of the text, without resolving "
+            "it into a single reading the poem itself doesn't "
+            "supply."]),
+    ],
+    terms=[
+        ("nakkhattam&amacr;lin&imacr;",
+         "&ldquo;garlanded with stars&rdquo; &mdash; the poetic "
+         "epithet for night opening the first verse."),
+        ("vij&amacr;nat&amacr;",
+         "&ldquo;for those who know&rdquo; &mdash; who the first "
+         "verse says night is really meant for waking."),
+        ("hatthikkhandh&amacr;vapatita&#7745;",
+         "&ldquo;fallen from an elephant's back&rdquo; &mdash; the "
+         "opening image of the second verse's battlefield scene."),
+        ("ku&ntilde;jaro",
+         "&ldquo;tusker&rdquo; &mdash; the elephant said to trample "
+         "the fallen rider."),
+        ("par&amacr;jito",
+         "&ldquo;defeated&rdquo; &mdash; the state the second verse "
+         "says is worse than death itself."),
+    ],
+    text_intro=(
+        "The text in full: two separately quoted verses. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.37:1.1-1.4"),
+        ("p", "&sect;2", "thag2.37:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does the first verse say about night?",
+         "opts": [
+             "It is only for sleeping",
+             "It is not only for sleeping — for those who know, it's for waking",
+             "It never ends",
+             "Nothing is said about night"],
+         "correct": 1,
+         "expl": "A reflective, lyrical register opens the poem."},
+        {"q": "What scene does the second verse describe?",
+         "opts": [
+             "A peaceful garden",
+             "Falling from an elephant's back, trampled by the tuskers behind",
+             "A quiet meal",
+             "A wedding celebration"],
+         "correct": 1,
+         "expl": "A sudden shift to a battlefield register."},
+        {"q": "What does the second verse say is preferable to living on in defeat?",
+         "opts": [
+             "Dying in battle",
+             "Becoming a monk",
+             "Fleeing the battlefield",
+             "Nothing is preferred"],
+         "correct": 0,
+         "expl": "A soldier's stated ethic of death over defeat."},
+        {"q": "Does the poem explain how the two verses relate to each other?",
+         "opts": [
+             "Yes, in explicit detail",
+             "Yes, the second verse is stated to be a dream",
+             "The poem denies any connection was intended",
+             "No — this guide states the juxtaposition as a fact of the text, without resolving it"],
+         "correct": 3,
+         "expl": "An honest gap the text itself leaves open."},
+        {"q": "How are the two verses marked in the Pali and translation?",
+         "opts": [
+             "As a single continuous quotation",
+             "Neither verse is marked as a quotation",
+             "Only the second verse is quoted",
+             "As two separately quoted statements, each with its own quotation marks"],
+         "correct": 3,
+         "expl": "Suggesting two distinct quoted statements rather than one voice."},
+        {"q": "What does 'nakkhattamālinī' mean?",
+         "opts": [
+             "A type of hut",
+             "A rainy season",
+             "Garlanded with stars",
+             "A monastic robe"],
+         "correct": 2,
+         "expl": "The poetic epithet for night opening the first verse."},
+        {"q": "What does 'parājito' mean?",
+         "opts": [
+             "Defeated",
+             "Victorious",
+             "A type of weapon",
+             "A place name"],
+         "correct": 0,
+         "expl": "The state the second verse says is worse than death."},
+        {"q": "What kind of animal is said to trample the fallen rider in the second verse?",
+         "opts": [
+             "A horse",
+             "A tiger",
+             "No animal is mentioned",
+             "An elephant (tusker)"],
+         "correct": 3,
+         "expl": "Kuñjaro, following behind the one who has fallen."},
+        {"q": "What is this poem's overall register, taken as a whole?",
+         "opts": [
+             "Consistently lyrical throughout",
+             "Consistently martial throughout",
+             "Two strikingly different registers, reflective then martial, left unreconciled",
+             "Purely doctrinal, without imagery of any kind"],
+         "correct": 2,
+         "expl": "A juxtaposition the poem itself doesn't explain."},
+        {"q": "Where does this poem fall in Chapter Four?",
+         "opts": [
+             "The chapter's opening poem",
+             "The chapter's closing poem",
+             "The chapter's seventh poem",
+             "It is not part of Chapter Four"],
+         "correct": 2,
+         "expl": "Following Migasira through Nitaka."},
+    ],
+    marginalia=[
+        ("Night, reframed", [
+            "not only for sleeping —",
+            "for those who know, for waking"
+        ]),
+        ("A sudden shift", [
+            "an elephant's back,",
+            "trampled by the tuskers behind"
+        ]),
+        ("Death, preferred to defeat", [
+            "a soldier's ethic,",
+            "stated without apology"
+        ]),
+        ("Two voices, unreconciled", [
+            "the text doesn't say how they connect —",
+            "left open, honestly"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.37/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-2.36.html">Thag 2.36 &mdash; Nitaka</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.38 — Nisabha
+# --------------------------------------------------------------------------- #
+page(
+    2, 38, "Nisabha", "Nisabha",
+    meta_title="Thag 2.38 — Nisabha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Nisabha's verse of equanimity toward both death and life, "
+        "awaiting his time aware and mindful. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Book of the Twos &middot; Chapter Four &middot; Poem 8 of 10",
+    glance=[
+        ("Setting", "No narrative setting; two four-line verses, "
+                    "without a translated attribution"),
+        ("Speaker", "Nisabha, on giving up sensual pleasures and "
+                    "waiting for death without longing"),
+        ("Form", "Two four-line verses &mdash; a general instruction, "
+                 "then a personal statement of equanimity"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a calm, symmetrical statement of equanimity"),
+    ],
+    why=(
+        "Nisabha instructs that one who has given up the five "
+        "sensual pleasures out of faith should make an end to "
+        "suffering &mdash; then turns personal, declaring he longs "
+        "for neither death nor life, only awaiting his time, aware "
+        "and mindful."),
+    guide=[
+        ("An instruction, addressed generally", [
+            "The first verse speaks in the third person about "
+            "&lsquo;one who's given up the five sensual "
+            "titillations... and who's left the home life out of "
+            "faith&rsquo;, closing with an instruction rather than a "
+            "personal report: &lsquo;let them make an end to "
+            "suffering&rsquo;."]),
+        ("Neither death nor life, longed for", [
+            "The second verse turns to Nisabha's own voice and "
+            "states a precise symmetry: &lsquo;I don't long for "
+            "death; I don't long for life&rsquo; &mdash; the same "
+            "structure repeated with only the object changed, "
+            "refusing to prefer either extreme."]),
+        ("Waiting, not seeking", [
+            "The poem closes not on a claim of already having died "
+            "or already having transcended life, but on an ongoing "
+            "posture: &lsquo;I await my time, aware and "
+            "mindful&rsquo; &mdash; equanimity practiced as a "
+            "present, continuing stance rather than a settled past "
+            "event."]),
+    ],
+    terms=[
+        ("pa&ntilde;ca k&amacr;magu&#7751;e",
+         "&ldquo;the five sensual titillations&rdquo; &mdash; what "
+         "is given up in the first verse's instruction."),
+        ("saddh&amacr;ya",
+         "&ldquo;out of faith&rdquo; &mdash; the stated motive for "
+         "leaving the home life."),
+        ("n&amacr;bhinandāmi mara&#7751;a&#7745;",
+         "&ldquo;I don't long for death&rdquo; &mdash; the first half "
+         "of the second verse's symmetrical statement."),
+        ("n&amacr;bhinandāmi j&imacr;vita&#7745;",
+         "&ldquo;I don't long for life&rdquo; &mdash; the matching "
+         "second half, identical structure, opposite object."),
+        ("sampaj&amacr;no patissato",
+         "&ldquo;aware and mindful&rdquo; &mdash; the manner of "
+         "Nisabha's ongoing wait, closing the poem."),
+    ],
+    text_intro=(
+        "The text in full: two verses, without a translated "
+        "attribution. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.38:1.1-1.4"),
+        ("p", "&sect;2", "thag2.38:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does the first verse instruct someone who has given up sensual pleasures to do?",
+         "opts": [
+             "Make an end to suffering",
+             "Seek greater wealth",
+             "Return to lay life",
+             "Nothing is instructed"],
+         "correct": 0,
+         "expl": "A third-person instruction closes the first verse."},
+        {"q": "What motive does the first verse name for leaving the home life?",
+         "opts": [
+             "Out of faith",
+             "Out of fear",
+             "By royal command",
+             "No motive is named"],
+         "correct": 0,
+         "expl": "Saddhāya, stated directly."},
+        {"q": "What symmetrical statement opens the second verse?",
+         "opts": [
+             "I long for both death and life equally",
+             "I fear death above all things",
+             "I don't long for death; I don't long for life",
+             "No statement about death or life appears"],
+         "correct": 2,
+         "expl": "The same structure, repeated with only the object changed."},
+        {"q": "What does the poem's closing line describe?",
+         "opts": [
+             "A completed, past event",
+             "An ongoing posture — awaiting his time, aware and mindful",
+             "A request for a specific date of death",
+             "Nothing about waiting"],
+         "correct": 1,
+         "expl": "Equanimity practiced as a present, continuing stance."},
+        {"q": "What does 'pañca kāmaguṇe' mean?",
+         "opts": [
+             "A type of hut",
+             "A rainy season",
+             "The five sensual titillations",
+             "A monastic robe"],
+         "correct": 2,
+         "expl": "What is given up in the first verse's instruction."},
+        {"q": "What does 'sampajāno patissato' mean?",
+         "opts": [
+             "Confused and forgetful",
+             "A place name",
+             "A type of hut",
+             "Aware and mindful"],
+         "correct": 3,
+         "expl": "The manner of Nisabha's ongoing wait."},
+        {"q": "Does the first verse speak in the first person or third person?",
+         "opts": [
+             "First person",
+             "Second person, addressed to a named listener",
+             "Third person, about a general figure",
+             "No person is specified"],
+         "correct": 2,
+         "expl": "General instruction, before the second verse turns personal."},
+        {"q": "What does 'saddhāya' mean?",
+         "opts": [
+             "Out of anger",
+             "A rainy season",
+             "A type of hut",
+             "Out of faith"],
+         "correct": 3,
+         "expl": "The stated motive for leaving the home life."},
+        {"q": "How does the poem's structure move?",
+         "opts": [
+             "From a personal report to a general instruction",
+             "From a general instruction to a personal statement of equanimity",
+             "It has no discernible structure",
+             "It is a dialogue between two speakers"],
+         "correct": 1,
+         "expl": "Third person, then first person, in that order."},
+        {"q": "Where does this poem fall in Chapter Four?",
+         "opts": [
+             "The chapter's opening poem",
+             "The chapter's closing poem",
+             "It is not part of Chapter Four",
+             "The chapter's eighth poem"],
+         "correct": 3,
+         "expl": "Following Migasira through Soṇapoṭiriya."},
+    ],
+    marginalia=[
+        ("An instruction, general", [
+            "given up sensual pleasures —",
+            "let them end suffering"
+        ]),
+        ("Neither death nor life", [
+            "the same structure,",
+            "repeated with the object reversed"
+        ]),
+        ("Waiting, not claiming", [
+            "aware and mindful —",
+            "an ongoing posture, not a past event"
+        ]),
+        ("Third person, then first", [
+            "instruction, then",
+            "personal equanimity"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.38/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-2.37.html">Thag 2.37 &mdash; '
+        "So&#7751;apo&#7789;iriya</a> &mdash; the poem immediately "
+        "before this one, in the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.39 — Usabha (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    2, 39, "Usabha", "Usabha (2nd)",
+    meta_title="Thag 2.39 — Usabha (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Usabha's verse of alms-round vanity astride an elephant, "
+        "then shame turning to peace and the ending of defilements. "
+        "From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twos &middot; Chapter Four &middot; Poem 9 of 10",
+    glance=[
+        ("Setting", "A village alms-round, arriving on an elephant's "
+                    "neck"),
+        ("Speaker", "Usabha, recounting his own vanity and its turn"),
+        ("Form", "Two four-line verses &mdash; an ostentatious scene, "
+                 "then shame turning to peace"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a vivid, almost comic scene turning suddenly "
+                       "serious"),
+    ],
+    why=(
+        "Usabha recalls arranging his robe the color of young mango "
+        "sprouts and entering the village for alms while sitting on "
+        "an elephant's neck &mdash; then, dismounting, being struck "
+        "with a sense of urgency, burning with shame before finding "
+        "peace and attaining the ending of defilements."),
+    guide=[
+        ("An ostentatious entrance, described without judgment yet", [
+            "The first verse pictures a striking scene: robe "
+            "carefully arranged, &lsquo;the color of young mango "
+            "sprouts&rsquo;, entering the village for alms while "
+            "&lsquo;sitting on an elephant's neck&rsquo; &mdash; an "
+            "image of display rather than the humble alms-round "
+            "posture usual elsewhere in this collection, narrated "
+            "matter-of-factly, without yet signaling that anything "
+            "is wrong."]),
+        ("Dismounting into shame, then peace", [
+            "The second verse supplies the turn: stepping down from "
+            "the elephant, Usabha is &lsquo;struck with a sense of "
+            "urgency&rsquo; (saṁvega), &lsquo;burned with "
+            "shame&rsquo;, and only then &lsquo;found peace&rsquo; "
+            "and attained the ending of defilements &mdash; the "
+            "vanity of the first verse becoming the very trigger for "
+            "insight in the second."]),
+        ("A second Usabha, closing two chapters apart", [
+            "Usabha (1st), at Thag 1.110, closed Chapter Twelve of "
+            "the Book of the Ones with a wordplay on naga "
+            "(&lsquo;tree&rsquo; or &lsquo;mountain&rsquo;) and a "
+            "growth image moving from criticism to affirmation "
+            "across that chapter. This second Usabha shares only the "
+            "name and the general shape of a turn toward insight; "
+            "the elephant, the mango-colored robe, and the specific "
+            "trigger of shame are unique to this poem."]),
+    ],
+    terms=[
+        ("ambapallavasa&#7749;k&amacr;sa&#7745;",
+         "&ldquo;the color of young mango sprouts&rdquo; &mdash; "
+         "describing the carefully arranged robe opening the poem."),
+        ("hatthigiv&amacr;ya&#7745;",
+         "&ldquo;on an elephant's neck&rdquo; &mdash; the "
+         "conspicuous seat for an ordinary alms round."),
+        ("sa&#7745;vega&#7745; alabhi&#7745;",
+         "&ldquo;I was struck with a sense of urgency&rdquo; &mdash; "
+         "the turning point, arriving only after dismounting."),
+        ("ditto",
+         "&ldquo;burned&rdquo; or ablaze &mdash; describing the "
+         "shame Usabha says he felt in that moment."),
+        ("&amacr;savakkhayo",
+         "&ldquo;the ending of defilements&rdquo; &mdash; the "
+         "attainment reached once shame gave way to peace."),
+    ],
+    text_intro=(
+        "The text in full: two verses, without a translated "
+        "attribution. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.39:1.1-1.4"),
+        ("p", "&sect;2", "thag2.39:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What color is Usabha's robe described as, in the first verse?",
+         "opts": [
+             "The color of young mango sprouts",
+             "Plain white",
+             "Deep red",
+             "No color is described"],
+         "correct": 0,
+         "expl": "A carefully arranged, conspicuous detail."},
+        {"q": "How does Usabha enter the village for alms, in the first verse?",
+         "opts": [
+             "On foot, humbly",
+             "Sitting on an elephant's neck",
+             "Carried on a litter by servants",
+             "No means of entry is described"],
+         "correct": 1,
+         "expl": "A striking, ostentatious image, narrated without yet signaling wrongdoing."},
+        {"q": "What happens when Usabha dismounts from the elephant?",
+         "opts": [
+             "Nothing changes",
+             "He is struck with a sense of urgency and burns with shame",
+             "He immediately returns to lay life",
+             "He falls asleep"],
+         "correct": 1,
+         "expl": "The turning point of the poem."},
+        {"q": "What does Usabha attain after the shame passes?",
+         "opts": [
+             "Greater wealth",
+             "A new elephant",
+             "Peace, and the ending of defilements",
+             "Nothing further is described"],
+         "correct": 2,
+         "expl": "Vanity becoming, in the end, the trigger for insight."},
+        {"q": "Where does Usabha (1st) appear in this collection?",
+         "opts": [
+             "Nowhere else",
+             "At Thag 1.110, closing Chapter Twelve of the Book of the Ones",
+             "At Thag 2.1, opening Chapter One of the Book of the Twos",
+             "At the very end of the entire Theragātha"],
+         "correct": 1,
+         "expl": "An earlier monk of the same name, in a different book."},
+        {"q": "What do this poem and Usabha (1st) at Thag 1.110 share, according to this guide?",
+         "opts": [
+             "The exact same elephant and robe imagery",
+             "Nothing at all",
+             "Only the name and the general shape of a turn toward insight",
+             "An identical closing line"],
+         "correct": 2,
+         "expl": "Distinct specific content, a shared name and broad arc."},
+        {"q": "What does 'saṁvegaṁ alabhiṁ' mean?",
+         "opts": [
+             "I felt nothing at all",
+             "I fell asleep",
+             "I was struck with a sense of urgency",
+             "A place name"],
+         "correct": 2,
+         "expl": "The turning point, arriving only after dismounting."},
+        {"q": "What does 'hatthigivāyaṁ' mean?",
+         "opts": [
+             "In a small hut",
+             "By a riverbank",
+             "In a royal palace",
+             "On an elephant's neck"],
+         "correct": 3,
+         "expl": "The conspicuous seat for an ordinary alms round."},
+        {"q": "How is the first verse's scene narrated?",
+         "opts": [
+             "With immediate criticism and warning",
+             "As a dream, not a real event",
+             "As someone else's story, not Usabha's own",
+             "Matter-of-factly, without yet signaling that anything is wrong"],
+         "correct": 3,
+         "expl": "The judgment, if any, arrives only with the second verse's turn."},
+        {"q": "Where does this poem fall in Chapter Four?",
+         "opts": [
+             "The chapter's ninth poem",
+             "The chapter's opening poem",
+             "The chapter's closing poem",
+             "It is not part of Chapter Four"],
+         "correct": 0,
+         "expl": "Following Migasira through Nisabha, with one poem left to close the chapter."},
+    ],
+    marginalia=[
+        ("Mango-colored robe, arranged", [
+            "sitting on an elephant's neck —",
+            "an alms round, on display"
+        ]),
+        ("Dismounting into shame", [
+            "a sense of urgency, struck —",
+            "the turn arrives"
+        ]),
+        ("Peace, then defilements ended", [
+            "vanity itself",
+            "becomes the trigger"
+        ]),
+        ("A second Usabha", [
+            "only the name shared —",
+            "the elephant is this poem's own"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.39/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.110.html">Thag 1.110 &mdash; Usabha (1st)</a> '
+        "&mdash; the earlier monk of the same name, closing Chapter "
+        "Twelve of the Book of the Ones.",
+        '<a href="thag-2.38.html">Thag 2.38 &mdash; Nisabha</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 2.40 — Kappa&#7789;akura
+# --------------------------------------------------------------------------- #
+page(
+    2, 40, "Kappa&#7789;akura", "Kappa&#7789;akura",
+    meta_title="Thag 2.40 — Kappaṭakura | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Kappaṭakura's verse closing Chapter Four, a playful threat "
+        "to a nodding-off monk nicknamed 'Rag', plus the chapter's "
+        "own untranslated colophon. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twos &middot; Chapter Four &middot; Poem 10 of 10",
+    glance=[
+        ("Setting", "In the midst of the Sa&#7749;gha, addressed to a "
+                    "monk nodding off, closing Chapter Four"),
+        ("Speaker", "Kappa&#7789;akura, threatening and teaching a "
+                    "drowsy companion"),
+        ("Form", "Two four-line verses &mdash; a teaching poured out, "
+                 "then a playful threat &mdash; followed by the "
+                 "chapter's own untranslated structural close"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "wordplay and mock threat, closing the "
+                       "chapter on a lighter note"),
+    ],
+    why=(
+        "Kappaṭakura opens by punning on his own nickname &mdash; "
+        "&lsquo;Rag&rsquo; &mdash; then describes sufficient teaching "
+        "poured into &lsquo;the vase of freedom from death&rsquo; and "
+        "a path laid out for absorption, before turning to threaten a "
+        "companion, also called &lsquo;Rag&rsquo;, caught nodding off "
+        "in the middle of the Saṅgha &mdash; closing Chapter Four, "
+        "whose own uddāna departs from both earlier closing patterns "
+        "in this book."),
+    guide=[
+        ("A name, punned on at the very start", [
+            "The poem opens by playing on its own speaker's "
+            "nickname: &lsquo;this chap, &lsquo;Rag-rice&rsquo;, he "
+            "sure is a rag!&rsquo; &mdash; Kappaṭakura's name itself "
+            "built from kappaṭa, &lsquo;rag&rsquo;, turned into a "
+            "joke before the verse moves on to anything else."]),
+        ("Teaching poured, a path laid out", [
+            "The rest of the first verse shifts into a different "
+            "register: sufficient teaching has been &lsquo;poured "
+            "into the vase of freedom from death&rsquo;, and "
+            "&lsquo;the path to build up absorptions has been laid "
+            "out&rsquo; &mdash; formal, doctrinal language sitting "
+            "right beside the opening's wordplay."]),
+        ("A threat, playfully delivered", [
+            "The second verse addresses &lsquo;Rag&rsquo; directly "
+            "&mdash; whether the same person addressing himself, or "
+            "a second monk who shares the nickname, the poem doesn't "
+            "specify &mdash; warning &lsquo;don't nod off&rsquo;, "
+            "threatening a smack on the ear, and naming the offense "
+            "bluntly: &lsquo;nodding off in the midst of the "
+            "Saṅgha&rsquo;."]),
+        ("A chapter's own closing line, left untranslated", [
+            "Immediately after this poem, the Pali carries vaggo "
+            "catuttho, &lsquo;the fourth chapter is finished&rsquo;, "
+            "followed by this chapter's own uddāna, naming all ten "
+            "monks in sequence: Migasira, Sivaka, Upav&amacr;&#7751;a "
+            "(here called &lsquo;pa&#7751;&#7693;ito&rsquo;, the "
+            "wise), Isidinna, Kacc&amacr;na (an abbreviation of "
+            "Sambulakacc&amacr;na), Nitaka (here called "
+            "&lsquo;mah&amacr;vas&imacr;&rsquo;, of great mastery), "
+            "Po&#7789;iriyaputto (an abbreviation of "
+            "So&#7751;apo&#7789;iriya), Nisabha, Usabha, and "
+            "Kappa&#7789;akura &mdash; closing with neither Chapter "
+            "One and Two's collective &lsquo;dasa therā "
+            "mahiddhikā&rsquo; nor Chapter Three's single epithet for "
+            "the last name alone, but two individual epithets "
+            "scattered mid-list and no epithet at all on the closing "
+            "names. A third distinct closing pattern in four "
+            "chapters, confirming that each chapter's uddāna truly "
+            "does need separate checking."]),
+    ],
+    terms=[
+        ("kappa&#7789;o",
+         "&ldquo;rag&rdquo; &mdash; the root of the speaker's own "
+         "nickname, punned on in the poem's opening line."),
+        ("amataghaṭik&amacr;ya&#7745;",
+         "&ldquo;into the vase of freedom from death&rdquo; &mdash; "
+         "the image for where sufficient teaching has been poured."),
+        ("jh&amacr;n&amacr;ni ocetu&#7745;",
+         "&ldquo;to build up absorptions&rdquo; &mdash; the "
+         "practice the first verse says a path has been laid out "
+         "for."),
+        ("pac&amacr;lesi",
+         "&ldquo;nod off&rdquo; &mdash; the offense the second verse "
+         "warns against."),
+        ("vaggo",
+         "&ldquo;chapter&rdquo; &mdash; the structural unit this poem "
+         "closes, marked in the untranslated Pali colophon &lsquo;"
+         "vaggo catuttho&rsquo;, &lsquo;the fourth chapter is "
+         "finished&rsquo;."),
+    ],
+    text_intro=(
+        "The text in full: two verses, without a translated "
+        "attribution. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag2.40:1.1-1.4"),
+        ("p", "&sect;2", "thag2.40:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does the poem's opening line play on?",
+         "opts": [
+             "The speaker's own nickname, 'Rag'",
+             "A king's title",
+             "A place name",
+             "No wordplay appears"],
+         "correct": 0,
+         "expl": "Kappaṭakura built from kappaṭa, 'rag'."},
+        {"q": "What image does the first verse use for teaching received?",
+         "opts": [
+             "Carved into stone",
+             "Whispered in secret",
+             "Poured into the vase of freedom from death",
+             "No image is used"],
+         "correct": 2,
+         "expl": "Formal, doctrinal language beside the opening's wordplay."},
+        {"q": "What does the second verse warn 'Rag' against?",
+         "opts": [
+             "Leaving the monastery",
+             "Speaking too loudly",
+             "Eating too much",
+             "Nodding off in the midst of the Saṅgha"],
+         "correct": 3,
+         "expl": "A named offense, threatened with a playful smack."},
+        {"q": "What Pali phrase, left untranslated by Sujato, immediately follows this poem?",
+         "opts": [
+             "A love poem",
+             "Vaggo catuttho, 'the fourth chapter is finished'",
+             "A list of monastic rules",
+             "A prophecy about a future Buddha"],
+         "correct": 1,
+         "expl": "The same kind of structural colophon closing each chapter so far."},
+        {"q": "How does this chapter's closing uddāna differ from Chapter One, Two, and Three's?",
+         "opts": [
+             "It is completely identical to all three",
+             "It uses neither a collective epithet nor a single epithet on the last name, but two epithets scattered mid-list and none at the close",
+             "It gives no epithet of any kind, unlike all three others",
+             "It names only five monks instead of ten"],
+         "correct": 1,
+         "expl": "A third distinct pattern in four chapters."},
+        {"q": "What epithet does this chapter's uddāna give Upavāṇa?",
+         "opts": [
+             "'Mahāmuni', great sage",
+             "'Isi', the sage",
+             "'Paṇḍito', the wise",
+             "No epithet is given"],
+         "correct": 2,
+         "expl": "One of two epithets placed mid-list rather than at the close."},
+        {"q": "What does 'jhānāni ocetuṁ' mean?",
+         "opts": [
+             "To abandon meditation",
+             "A type of hut",
+             "A rainy season",
+             "To build up absorptions"],
+         "correct": 3,
+         "expl": "The practice a path has been laid out for."},
+        {"q": "Is the chapter's mnemonic verse included in this page's text?",
+         "opts": [
+             "No — it is absent from Sujato's translation and not included here",
+             "Yes, translated in full",
+             "Yes, but only partially",
+             "It is included as an image only"],
+         "correct": 0,
+         "expl": "Consistent with how this site handles untranslated structural material."},
+        {"q": "What does 'kappaṭo' mean?",
+         "opts": [
+             "Gold",
+             "A monastic robe of high value",
+             "A rainy season",
+             "Rag"],
+         "correct": 3,
+         "expl": "The root of the speaker's own punned nickname."},
+        {"q": "How many poems make up Chapter Four of the Book of the Twos?",
+         "opts": [
+             "Five",
+             "Ten",
+             "Twenty",
+             "Forty-nine"],
+         "correct": 1,
+         "expl": "Migasira through Kappaṭakura, named in sequence in the untranslated uddāna."},
+    ],
+    marginalia=[
+        ("A nickname, punned on", [
+            "'this chap, Rag —",
+            "he sure is a rag!'"
+        ]),
+        ("Teaching, poured out", [
+            "the vase of freedom from death,",
+            "a path for absorption laid out"
+        ]),
+        ("A threat, playfully made", [
+            "don't nod off —",
+            "or I'll smack your ear"
+        ]),
+        ("A third closing pattern", [
+            "not collective, not single —",
+            "epithets scattered, none at the end"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag2.40/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-2.30.html">Thag 2.30 &mdash; '
+        "Ka&#7751;hadinna</a> &mdash; Chapter Three's own closing "
+        "poem, whose uddāna uses a single epithet where this "
+        "chapter's uses two, placed differently.",
+        '<a href="thag-2.39.html">Thag 2.39 &mdash; Usabha (2nd)</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
