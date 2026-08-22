@@ -42753,3 +42753,2122 @@ page(
         "of realized freedom answers in full.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.1 — Aṭṭhisutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 1, "Aṭṭhi", "A Skeleton",
+    meta_title="SN 19.1 — A Skeleton | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Aṭṭhisutta — Venerable Mahāmoggallāna smiles while "
+        "descending Vulture's Peak, having seen a screaming skeleton "
+        "torn at by birds, and the Buddha confirms the vision and "
+        "reveals its karmic cause. Opens Lakkhaṇasaṃyutta. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, the Bamboo Grove, and Vulture's Peak "
+                     "Mountain"),
+        ("Speakers", "Venerable Lakkhaṇa, Venerable Mahāmoggallāna, "
+                     "and the Buddha"),
+        ("Form", "A frame narrative given in full: a smile, a "
+                 "deferred question, an answered vision, and the "
+                 "Buddha's confirmation with its karmic backstory"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; opens a saṃyutta built on one of the "
+                       "canon's most vivid recurring images: "
+                       "grotesque beings as visible karma"),
+    ],
+    why=(
+        "This discourse opens Lakkhaṇasaṃyutta with its full frame "
+        "narrative: Venerable Mahāmoggallāna smiles at a certain "
+        "spot while descending Vulture's Peak Mountain. His "
+        "companion, Venerable Lakkhaṇa, asks why, but Moggallāna "
+        "defers the question until they're in the Buddha's presence. "
+        "Once there, Moggallāna describes what he saw: a skeleton "
+        "flying through the air, screeching in pain as vultures, "
+        "crows, and hawks chase and peck at it. The Buddha confirms "
+        "the vision is real, explains he had seen this same being "
+        "before but stayed silent because people wouldn't have "
+        "believed him, and reveals its cause: the being was once a "
+        "cattle butcher in Rājagaha, now experiencing the residual "
+        "result of that deed after already serving many hundreds of "
+        "thousands of years in hell."),
+    guide=[
+        ("A frame narrative this whole saṃyutta will reuse", [
+            "The specific sequence &mdash; Moggallāna's smile, "
+            "Lakkhaṇa's question, the deferral until they reach the "
+            "Buddha, the description of the vision, and the Buddha's "
+            "confirmation &mdash; is given here in full and then "
+            "elided in every discourse that follows, exactly as the "
+            "source's own closing note instructs."]),
+        ("A smile deferred, not a question refused", [
+            "Moggallāna doesn't decline to answer Lakkhaṇa's "
+            "question; he specifies that this is the wrong time and "
+            "the wrong place, redirecting it to be asked again in "
+            "the Buddha's presence &mdash; a small but deliberate "
+            "detail establishing the pattern of the Buddha, not "
+            "Moggallāna alone, confirming what's seen."]),
+        ("Confirmation as the Buddha's essential role throughout", [
+            "The Buddha doesn't merely permit Moggallāna to describe "
+            "what he saw; he actively corroborates it, stating "
+            "explicitly that he too had seen this same being, and "
+            "explains his own past silence: speaking of it earlier "
+            "would have led to disbelief, which itself would have "
+            "been harmful to those who disbelieved."]),
+        ("A precise, proportionate account of karmic consequence", [
+            "The being's current form isn't presented as arbitrary "
+            "punishment; it's named as the residual result "
+            "(vipākāvasesa) remaining after the primary "
+            "consequence &mdash; many hundreds of thousands of years "
+            "in hell &mdash; has already been served, distinguishing "
+            "this apparition from hell itself."]),
+        ("A butcher's trade, not a dramatic crime, as the cause", [
+            "The specific wrongdoing named is an ordinary "
+            "occupation, cattle butchery, rather than a singular "
+            "dramatic act &mdash; suggesting the saṃyutta's interest "
+            "lies in habitual livelihood and its cumulative "
+            "consequence, not isolated moments of extreme "
+            "wrongdoing."]),
+    ],
+    terms=[
+        ("āyasmā lakkhaṇo",
+         "&ldquo;Venerable Lakkhaṇa&rdquo; &mdash; Moggallāna's "
+         "companion throughout this saṃyutta, whose questions "
+         "prompt each vision's telling; the saṃyutta itself is "
+         "named after him."),
+        ("sitaṁ pātvākāsi",
+         "&ldquo;smiled&rdquo; &mdash; the wordless gesture that "
+         "opens each vision's telling, prompting Lakkhaṇa's "
+         "recurring question."),
+        ("aṭṭhikasaṅkhalikaṁ vehāsaṁ gacchantiṁ",
+         "&ldquo;a skeleton flying through the air&rdquo; &mdash; "
+         "this discourse's title image, the first of many grotesque "
+         "apparitions in this saṃyutta."),
+        ("goghātako",
+         "&ldquo;a cattle butcher&rdquo; &mdash; the ordinary "
+         "occupation named as this being's karmic cause."),
+        ("vipākāvasesena",
+         "&ldquo;by the residual result [of that deed]&rdquo; "
+         "&mdash; specifying that this apparition follows, rather "
+         "than replaces, a primary period of suffering already "
+         "served in hell."),
+    ],
+    text_intro=(
+        "The discourse in full, giving this saṃyutta's complete "
+        "frame narrative before it is elided in every discourse "
+        "that follows. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.1:1.1-1.11"),
+        ("p", "&sect;2", "sn19.1:2.1-2.3"),
+        ("p", "&sect;3", "sn19.1:3.1-3.8"),
+        ("p", "&sect;4", "sn19.1:4.1-4.8"),
+    ],
+    quiz=[
+        {"q": "What does Moggallāna do that prompts Lakkhaṇa's question?",
+         "opts": [
+             "He smiles at a certain spot while descending Vulture's Peak Mountain",
+             "He suddenly stops walking without explanation",
+             "He speaks aloud to no one visible",
+             "He asks the Buddha a direct question"],
+         "correct": 0,
+         "expl": "A wordless gesture opening this saṃyutta's recurring pattern."},
+        {"q": "How does Moggallāna respond when Lakkhaṇa first asks why he smiled?",
+         "opts": [
+             "He defers the question, saying it's the wrong time, and to ask again in the Buddha's presence",
+             "He refuses to ever answer the question",
+             "He answers immediately in full detail",
+             "He asks Lakkhaṇa to guess the answer"],
+         "correct": 0,
+         "expl": "Establishing the pattern of the Buddha confirming what's seen, not Moggallāna alone."},
+        {"q": "What does Moggallāna describe seeing?",
+         "opts": [
+             "A skeleton flying through the air, screeching in pain as birds peck at it",
+             "A radiant being surrounded by light",
+             "An empty patch of sky with nothing visible",
+             "A group of mendicants meditating peacefully"],
+         "correct": 0,
+         "expl": "The saṃyutta's title image, the first of many grotesque apparitions."},
+        {"q": "Why does the Buddha say he hadn't spoken of this being before, despite having seen it himself?",
+         "opts": [
+             "Because if he had, others wouldn't have believed him, which would have caused them harm",
+             "Because he had completely forgotten about it until now",
+             "Because it was forbidden by monastic rules to discuss such visions",
+             "Because he himself doubted what he had seen"],
+         "correct": 0,
+         "expl": "Disbelief itself named as the harm the Buddha's earlier silence prevented."},
+        {"q": "What was this being's occupation in a past life?",
+         "opts": [
+             "A cattle butcher in Rājagaha",
+             "A corrupt village official",
+             "A wealthy merchant",
+             "A wandering ascetic"],
+         "correct": 0,
+         "expl": "An ordinary livelihood, not a singular dramatic crime, named as the karmic cause."},
+        {"q": "What does vipākāvasesena specify about this being's current condition?",
+         "opts": [
+             "That it is a residual result following a primary period of many hundreds of thousands of years already served in hell",
+             "That the being has not yet experienced any consequence for the past deed",
+             "That the being's suffering is now permanently over",
+             "That this is the first and only consequence of the deed"],
+         "correct": 0,
+         "expl": "Distinguishing this apparition from hell itself, as what remains after hell."},
+        {"q": "What editorial note closes this discourse in the source?",
+         "opts": [
+             "An instruction that all the discourses in this series should be told in full the same way",
+             "A statement that this is the only discourse of its kind",
+             "A warning not to discuss this vision with laypeople",
+             "No editorial note appears in the source"],
+         "correct": 0,
+         "expl": "Establishing this discourse's frame narrative as the template every later discourse elides."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Near Rājagaha, moving between the Bamboo Grove, Vulture's Peak, and back to the Buddha",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "A setting distinct from the Sāvatthī-based framing common elsewhere in this collection."},
+        {"q": "After whom is this saṃyutta named?",
+         "opts": [
+             "Venerable Lakkhaṇa, Moggallāna's companion throughout the collection",
+             "Venerable Mahāmoggallāna himself",
+             "The Buddha directly",
+             "None of the participants; it is named after its central image"],
+         "correct": 0,
+         "expl": "Confirmed by the saṃyutta's own closing colophon at SN 19.21."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Paṭhamaṁ, \"the first\"",
+             "Dutiyaṁ, \"the second\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The first discourse of Paṭhamavagga, and of the entire saṃyutta."},
+    ],
+    marginalia=[
+        ("A smile that opens an entire saṃyutta", [
+            "wordless, at first, prompting a question &mdash;",
+            "the gesture repeated as this collection's own signature",
+        ]),
+        ("Confirmation, not just permission, from the Buddha", [
+            "\"I too saw that being,\" he says outright &mdash;",
+            "corroboration, not merely allowing the account to stand",
+        ]),
+        ("Silence explained, not left unaccounted for", [
+            "disbelief itself named as the harm avoided &mdash;",
+            "a reason given for years of not having spoken",
+        ]),
+        ("An ordinary trade, not a singular crime", [
+            "a cattle butcher, not a notorious villain &mdash;",
+            "habitual livelihood carrying its own cumulative weight",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-18.22.html">SN 18.22 &middot; Rid of '
+        "Conceit</a> &mdash; the previous saṃyutta's closing "
+        "discourse.",
+        '<a href="sn-19.2.html">SN 19.2 &middot; A Piece of Meat</a> '
+        "&mdash; the next discourse, reusing this discourse's frame "
+        "narrative in elided form.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.2 — Pesisutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 2, "Pesi", "A Piece of Meat",
+    meta_title="SN 19.2 — A Piece of Meat | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Pesisutta — Moggallāna sees a scrap of meat flying "
+        "through the air, torn at by birds, once again the residual "
+        "karma of a cattle butcher. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna, "
+                     "with the frame narrative elided"),
+        ("Form", "SN 19.1's full frame reused in heavily elided "
+                 "form, with only the vision and its cause given"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the first fully elided discourse in "
+                       "this series"),
+    ],
+    why=(
+        "As promised by SN 19.1's own closing note, this discourse "
+        "reuses the complete frame narrative in heavily elided form, "
+        "giving only the vision itself and its karmic cause: a scrap "
+        "of meat flying through the air, chased and pecked at by "
+        "vultures, crows, and hawks, screeching in pain. The cause "
+        "named is identical to SN 19.1's: this being, too, was once "
+        "a cattle butcher in Rājagaha."),
+    guide=[
+        ("An immediate repeat of the same cause, not a new one", [
+            "Unlike most pairs of discourses in this saṃyutta, which "
+            "vary both the apparition and its cause, this discourse "
+            "repeats SN 19.1's exact occupation &mdash; cattle "
+            "butcher &mdash; suggesting a single livelihood can "
+            "produce more than one distinct karmic manifestation."]),
+        ("A milder image than a full skeleton", [
+            "Where SN 19.1's vision was an entire skeleton, this "
+            "discourse's is only a scrap of meat &mdash; still torn "
+            "at by the same birds, still screeching, but a smaller "
+            "and perhaps even more disturbing fragment of a body."]),
+        ("The elision pattern established immediately", [
+            "This discourse confirms, on its very first application, "
+            "that the source intends the frame narrative to "
+            "disappear entirely from this point forward, leaving "
+            "only the vision's content and its explanation as each "
+            "discourse's genuinely new material."]),
+        ("A pair suggesting cattle butchery's varied consequences", [
+            "Reading SN 19.1 and this discourse together suggests "
+            "that a single trade doesn't produce a single fixed "
+            "outcome; the same occupation can result in different "
+            "apparitions, implying the specific manifestation "
+            "depends on more than occupation alone."]),
+        ("Setting a rhythm of rapid, varied apparitions", [
+            "From this discourse onward, the saṃyutta moves quickly "
+            "from one grotesque image to the next, establishing a "
+            "rhythm this reading guide will trace discourse by "
+            "discourse rather than treating the remaining pages as "
+            "mere repetition."]),
+    ],
+    terms=[
+        ("maṁsapesiṁ vehāsaṁ gacchantiṁ",
+         "&ldquo;a scrap of meat flying through the air&rdquo; "
+         "&mdash; this discourse's title image, smaller in scale "
+         "than SN 19.1's full skeleton."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; used here for the first "
+         "time in this saṃyutta, collapsing the entire frame "
+         "narrative given in full in SN 19.1."),
+        ("goghātako",
+         "&ldquo;a cattle butcher&rdquo; &mdash; the identical "
+         "occupation named as SN 19.1's cause, repeated here for a "
+         "different apparition."),
+        ("aṭṭassaraṁ karoti",
+         "&ldquo;screeched in pain&rdquo; &mdash; the recurring "
+         "description of the apparition's distress, unchanged from "
+         "SN 19.1."),
+        ("dutiyaṁ",
+         "&ldquo;the second&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "19.1's fuller frame narrative. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.2:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does Moggallāna see in this discourse?",
+         "opts": [
+             "A scrap of meat flying through the air, chased and pecked at by birds",
+             "A full skeleton, identical to SN 19.1",
+             "A radiant, peaceful being",
+             "Nothing unusual at all"],
+         "correct": 0,
+         "expl": "A smaller fragment than SN 19.1's full skeleton, still tormented by the same birds."},
+        {"q": "What cause does this discourse name for this apparition?",
+         "opts": [
+             "The identical occupation from SN 19.1 — a cattle butcher in Rājagaha",
+             "An entirely new and different occupation",
+             "No cause is given for this apparition",
+             "The same specific individual as SN 19.1, without any occupation named"],
+         "correct": 0,
+         "expl": "Suggesting a single livelihood can produce more than one distinct karmic manifestation."},
+        {"q": "How does this discourse treat SN 19.1's frame narrative?",
+         "opts": [
+             "It elides it heavily, giving only the vision and its cause",
+             "It repeats the entire frame narrative in full, unchanged",
+             "It omits the frame narrative and the vision both",
+             "It expands the frame narrative even further than SN 19.1"],
+         "correct": 0,
+         "expl": "Confirming the source's own stated plan to compress the recurring frame from this point on."},
+        {"q": "What does reading SN 19.1 and this discourse together suggest?",
+         "opts": [
+             "That a single trade doesn't necessarily produce one single fixed karmic outcome",
+             "That cattle butchery is the only occupation ever mentioned in this saṃyutta",
+             "That the two discourses describe exactly the same apparition",
+             "That this discourse contradicts SN 19.1's claims"],
+         "correct": 0,
+         "expl": "Implying the specific manifestation depends on more than occupation alone."},
+        {"q": "What rhythm does this discourse help establish for the rest of the saṃyutta?",
+         "opts": [
+             "Rapid movement from one grotesque image to the next, each briefly elided",
+             "A slowing pace, with each discourse longer than the last",
+             "A return to full narrative treatment for every subsequent discourse",
+             "No particular rhythm; each discourse is entirely unrelated to the others"],
+         "correct": 0,
+         "expl": "A pace this reading guide traces discourse by discourse rather than treating as mere repetition."},
+        {"q": "What description of the apparition's distress recurs from SN 19.1?",
+         "opts": [
+             "Aṭṭassaraṁ karoti, \"screeched in pain\"",
+             "Sukhena vihāsi, \"dwelt at ease\"",
+             "Hasamāno, \"laughing\"",
+             "No description of distress is given"],
+         "correct": 0,
+         "expl": "Unchanged from SN 19.1's description."},
+        {"q": "Who are the two speakers in this discourse, once the frame is stripped away?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair established in SN 19.1, continuing throughout this saṃyutta."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta."},
+        {"q": "What birds chase and peck at the apparition in this discourse?",
+         "opts": [
+             "Vultures, crows, and hawks",
+             "Owls and eagles",
+             "Sparrows and doves",
+             "No specific birds are named"],
+         "correct": 0,
+         "expl": "The same three birds named in SN 19.1, unchanged here."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dutiyaṁ, \"the second\"",
+             "Paṭhamaṁ, \"the first\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The second discourse of this series."},
+    ],
+    marginalia=[
+        ("A smaller fragment, the same tormentors", [
+            "not a whole skeleton, just a scrap of meat &mdash;",
+            "still chased, still pecked at, still screaming",
+        ]),
+        ("The same trade, a different result", [
+            "cattle butcher again, but a new apparition &mdash;",
+            "one livelihood, apparently more than one outcome",
+        ]),
+        ("Elision arriving exactly as promised", [
+            "the frame gone, only the vision left &mdash;",
+            "the source keeping its own stated plan",
+        ]),
+        ("A rhythm beginning to take shape", [
+            "quick, varied images from here forward &mdash;",
+            "each one worth its own brief attention",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.1.html">SN 19.1 &middot; A Skeleton</a> '
+        "&mdash; the discourse whose frame narrative this one "
+        "reuses.",
+        '<a href="sn-19.3.html">SN 19.3 &middot; A Piece of '
+        "Flesh</a> &mdash; the next discourse, continuing the same "
+        "series.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.3 — Piṇḍasutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 3, "Piṇḍa", "A Piece of Flesh",
+    meta_title="SN 19.3 — A Piece of Flesh | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Piṇḍasutta — Moggallāna sees a piece of flesh "
+        "flying through the air, torn at by birds, the residual "
+        "karma of a bird hunter. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "The same elided template, with a new apparition "
+                 "and cause"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the third apparition, introducing a "
+                       "new occupation to this saṃyutta's list"),
+    ],
+    why=(
+        "This discourse continues the series with a piece of flesh "
+        "flying through the air, chased and torn at by the same "
+        "three birds named throughout this saṃyutta. Unlike the two "
+        "discourses before it, this one introduces a genuinely new "
+        "cause: the being was once a bird hunter (sākuṇika) in "
+        "Rājagaha, the first hunting occupation named in this "
+        "series distinct from butchery."),
+    guide=[
+        ("A first departure from the cattle-butcher cause", [
+            "After two consecutive discourses naming cattle "
+            "butchery as the cause, this discourse introduces bird "
+            "hunting, confirming the saṃyutta's list of past "
+            "occupations will vary rather than repeat a single trade "
+            "throughout."]),
+        ("An irony in the specific pairing chosen", [
+            "The being who hunted birds is now himself pursued and "
+            "torn at by birds &mdash; whether or not this specific "
+            "reversal is meant to be noticed, the correspondence "
+            "between past harm done to birds and present harm "
+            "suffered from birds is difficult to read past."]),
+        ("A slightly smaller image than the two before it", [
+            "Piṇḍa, &ldquo;a lump&rdquo; or piece, describes "
+            "something even less defined than pesi's scrap in the "
+            "discourse before this one &mdash; the images in this "
+            "opening run of discourses trend toward increasingly "
+            "fragmentary remains before shifting to intact but "
+            "afflicted bodies."]),
+        ("Consistency in what doesn't change across these discourses", [
+            "The birds doing the chasing, the screeching in pain, "
+            "and the Rājagaha setting remain constant across all "
+            "three discourses so far, isolating the varying cause "
+            "and the varying image as the only elements genuinely "
+            "changing from one discourse to the next."]),
+        ("Building toward a fuller catalog of livelihoods", [
+            "Cattle butcher, cattle butcher again, now bird hunter: "
+            "this discourse's new occupation begins what becomes, "
+            "across the rest of Paṭhamavagga, a fuller catalog of "
+            "specific trades the saṃyutta associates with this kind "
+            "of karmic consequence."]),
+    ],
+    terms=[
+        ("maṁsapiṇḍaṁ vehāsaṁ gacchantaṁ",
+         "&ldquo;a piece of flesh flying through the air&rdquo; "
+         "&mdash; this discourse's title image, less defined than "
+         "SN 19.2's scrap of meat."),
+        ("sākuṇiko",
+         "&ldquo;a bird hunter&rdquo; &mdash; the new occupation "
+         "this discourse introduces, distinct from the cattle "
+         "butchery named in the two discourses before it."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; the same compression "
+         "convention continuing from SN 19.2."),
+        ("aṭṭassaraṁ karoti",
+         "&ldquo;screeched in pain&rdquo; &mdash; the recurring "
+         "description, unchanged across all three discourses so "
+         "far."),
+        ("tatiyaṁ",
+         "&ldquo;the third&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "19.1's fuller frame narrative. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.3:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What new occupation does this discourse introduce as a karmic cause?",
+         "opts": [
+             "A bird hunter (sākuṇika)",
+             "A repeat of the cattle-butcher cause from the two discourses before it",
+             "A corrupt village official",
+             "No occupation is named in this discourse"],
+         "correct": 0,
+         "expl": "The first hunting occupation named in this series, distinct from butchery."},
+        {"q": "What irony does this reading guide note about this discourse's specific pairing?",
+         "opts": [
+             "A being who hunted birds is now himself pursued and torn at by birds",
+             "A being who never harmed any creature is now attacked without cause",
+             "The being's past occupation has no relation to its present torment",
+             "No irony is present in this pairing"],
+         "correct": 0,
+         "expl": "The correspondence between past harm to birds and present harm from birds."},
+        {"q": "How does this discourse's image compare in scale to the two before it?",
+         "opts": [
+             "Even less defined — piṇḍa, \"a lump,\" describes something less distinct than SN 19.2's scrap",
+             "Far larger and more intact than any earlier image",
+             "Identical in every respect to SN 19.1's skeleton",
+             "This discourse contains no image at all"],
+         "correct": 0,
+         "expl": "Part of a trend toward increasingly fragmentary remains in this opening run."},
+        {"q": "What elements remain constant across SN 19.1 through this discourse?",
+         "opts": [
+             "The birds doing the chasing, the screeching in pain, and the Rājagaha setting",
+             "Every single detail is different in each discourse",
+             "Only the occupation named remains constant",
+             "Nothing at all remains constant"],
+         "correct": 0,
+         "expl": "Isolating the varying cause and image as the only genuinely changing elements."},
+        {"q": "What does this discourse begin, according to this reading guide?",
+         "opts": [
+             "A fuller catalog of specific trades associated with this kind of karmic consequence",
+             "An entirely separate saṃyutta unrelated to the first two discourses",
+             "A retraction of everything claimed in SN 19.1-2",
+             "Nothing new; it simply repeats the earlier pattern exactly"],
+         "correct": 0,
+         "expl": "Continuing across the rest of Paṭhamavagga with further varied occupations."},
+        {"q": "What birds chase and tear at the apparition in this discourse?",
+         "opts": [
+             "Vultures, crows, and hawks",
+             "Owls and eagles",
+             "Sparrows and doves",
+             "No specific birds are named"],
+         "correct": 0,
+         "expl": "The same three birds named throughout this saṃyutta."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair from SN 19.1, continuing throughout this saṃyutta."},
+        {"q": "What description of the apparition's condition recurs unchanged from SN 19.1-2?",
+         "opts": [
+             "Aṭṭassaraṁ karoti, \"screeched in pain\"",
+             "Sukhena vihāsi, \"dwelt at ease\"",
+             "Hasamāno, \"laughing\"",
+             "No description is given"],
+         "correct": 0,
+         "expl": "Unchanged across all three discourses so far."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Tatiyaṁ, \"the third\"",
+             "Dutiyaṁ, \"the second\"",
+             "Catutthaṁ, \"the fourth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The third discourse of this series."},
+    ],
+    marginalia=[
+        ("A new trade entering the catalog", [
+            "no longer a butcher, but a hunter of birds &mdash;",
+            "the list of occupations beginning to widen",
+        ]),
+        ("Harm returning in its own likeness", [
+            "birds hunted, now birds doing the tearing &mdash;",
+            "a correspondence hard to read past",
+        ]),
+        ("A fragment smaller than the one before it", [
+            "not even a scrap now, just a lump &mdash;",
+            "the images trending toward less and less form",
+        ]),
+        ("What stays fixed while the details shift", [
+            "same birds, same cry, same city named &mdash;",
+            "only the occupation and image actually vary",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.2.html">SN 19.2 &middot; A Piece of Meat</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-19.4.html">SN 19.4 &middot; A Flayed Man</a> '
+        "&mdash; the next discourse, continuing the same series.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.4 — Nicchavisutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 4, "Nicchavi", "A Flayed Man",
+    meta_title="SN 19.4 — A Flayed Man | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Nicchavisutta — Moggallāna sees a flayed man flying "
+        "through the air, torn at by birds, the residual karma of a "
+        "sheep butcher. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "The same elided template, shifting from "
+                 "fragmentary remains to an intact but skinless "
+                 "body"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the fourth apparition, marking a "
+                       "shift in the kind of image used"),
+    ],
+    why=(
+        "This discourse shifts from the fragmentary remains of the "
+        "three discourses before it to a whole but skinless body: a "
+        "flayed man flying through the air, still chased and pecked "
+        "at by the same birds. The cause named is sheep butchery "
+        "(orabbhika), continuing this saṃyutta's pattern of naming "
+        "distinct occupations connected to the killing of animals."),
+    guide=[
+        ("A shift from fragment to whole body", [
+            "Where the three discourses before this one described "
+            "unattached scraps and pieces, this discourse returns to "
+            "a complete human form &mdash; intact in shape but "
+            "stripped of skin, a different register of vulnerability "
+            "than dismemberment."]),
+        ("Flaying as a specific, targeted affliction", [
+            "Nicchavi, &ldquo;without skin, flayed,&rdquo; names a "
+            "condition that exposes the entire body's surface to "
+            "harm at once, rather than the isolated tearing "
+            "described for the fragmentary apparitions before it."]),
+        ("A third distinct occupation in four discourses", [
+            "Cattle butcher, cattle butcher, bird hunter, and now "
+            "sheep butcher: this discourse's cause maintains the "
+            "pattern of naming animal-killing trades while ensuring "
+            "no single occupation dominates the catalog being "
+            "built."]),
+        ("The birds' role remaining constant despite the changed image", [
+            "Even as the specific form of the apparition changes "
+            "from fragment to flayed whole body, the same vultures, "
+            "crows, and hawks continue their pursuit, confirming "
+            "their role as a fixed element of this saṃyutta's "
+            "visual vocabulary regardless of what specific body they "
+            "attack."]),
+        ("A register shift that will itself vary again", [
+            "This discourse's whole-but-flayed body doesn't become "
+            "the new fixed pattern; the discourses following it "
+            "introduce yet more varied forms, confirming this "
+            "saṃyutta favors a genuinely diverse gallery of images "
+            "over settling into any single visual type."]),
+    ],
+    terms=[
+        ("nicchaviṁ purisaṁ vehāsaṁ gacchantaṁ",
+         "&ldquo;a flayed man flying through the air&rdquo; &mdash; "
+         "this discourse's title image, an intact but skinless "
+         "body."),
+        ("orabbhiko",
+         "&ldquo;a sheep butcher&rdquo; &mdash; the third distinct "
+         "occupation named in this series, continuing the "
+         "animal-killing pattern."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; the same compression "
+         "convention continuing from the discourses before this "
+         "one."),
+        ("aṭṭassaraṁ karoti",
+         "&ldquo;screamed in pain&rdquo; &mdash; the recurring "
+         "description, unchanged across this series."),
+        ("catutthaṁ",
+         "&ldquo;the fourth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "19.1's fuller frame narrative. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.4:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's apparition consist of?",
+         "opts": [
+             "A flayed man — a whole body, intact in shape but stripped of skin",
+             "A fragmentary scrap of flesh, like the discourses before it",
+             "A radiant, unharmed being",
+             "No specific apparition is described"],
+         "correct": 0,
+         "expl": "A shift from fragmentary remains to a whole but afflicted body."},
+        {"q": "What occupation does this discourse name as the cause?",
+         "opts": [
+             "A sheep butcher (orabbhika)",
+             "A repeat of the cattle-butcher cause",
+             "A bird hunter, identical to SN 19.3",
+             "No occupation is named"],
+         "correct": 0,
+         "expl": "The third distinct occupation named in this series so far."},
+        {"q": "How does flaying differ from the fragmentary torment described in earlier discourses?",
+         "opts": [
+             "It exposes the entire body's surface to harm at once, rather than isolated tearing",
+             "It affects only a single limb, leaving the rest of the body untouched",
+             "It causes no visible harm at all",
+             "There is no meaningful difference between the two kinds of affliction"],
+         "correct": 0,
+         "expl": "A different register of vulnerability than the dismemberment described earlier."},
+        {"q": "What remains constant across this discourse and the three before it, despite the changed image?",
+         "opts": [
+             "The same vultures, crows, and hawks continue their pursuit",
+             "The exact same apparition is repeated in every discourse",
+             "Nothing at all remains constant between the discourses",
+             "The setting shifts to a new city each time"],
+         "correct": 0,
+         "expl": "Confirming the birds' fixed role in this saṃyutta's visual vocabulary."},
+        {"q": "Does this discourse's whole-but-flayed image become the new fixed pattern for the rest of the saṃyutta?",
+         "opts": [
+             "No — the discourses following it introduce yet more varied forms",
+             "Yes, every subsequent discourse repeats this exact image",
+             "This is the saṃyutta's final discourse; nothing follows it",
+             "The image type never changes again after this point"],
+         "correct": 0,
+         "expl": "Confirming this saṃyutta favors a genuinely diverse gallery of images."},
+        {"q": "How many distinct occupations have now been named across SN 19.1 through this discourse?",
+         "opts": [
+             "Three — cattle butcher, bird hunter, and sheep butcher",
+             "Only one occupation, repeated throughout",
+             "Four entirely unrelated occupations",
+             "No occupations have been named at all"],
+         "correct": 0,
+         "expl": "Cattle butcher named twice, then bird hunter, then sheep butcher here."},
+        {"q": "What birds chase and tear at the apparition in this discourse?",
+         "opts": [
+             "Vultures, crows, and hawks",
+             "Owls and eagles",
+             "Sparrows and doves",
+             "No specific birds are named"],
+         "correct": 0,
+         "expl": "The same three birds named throughout this saṃyutta."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Catutthaṁ, \"the fourth\"",
+             "Tatiyaṁ, \"the third\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fourth discourse of this series."},
+    ],
+    marginalia=[
+        ("From fragment back to a whole body", [
+            "no longer torn pieces, but an intact form &mdash;",
+            "vulnerability shifted from dismemberment to exposure",
+        ]),
+        ("Every surface at once, not one isolated wound", [
+            "skin gone entirely, not merely torn at &mdash;",
+            "harm reaching the whole body simultaneously",
+        ]),
+        ("A third trade, still within the same domain", [
+            "cattle, birds, now sheep &mdash;",
+            "animal-killing occupations building their own catalog",
+        ]),
+        ("Birds constant, even as the body changes shape", [
+            "still the same three pursuers &mdash;",
+            "a fixed element regardless of what they attack",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.3.html">SN 19.3 &middot; A Piece of '
+        "Flesh</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-19.5.html">SN 19.5 &middot; Sword Hairs</a> '
+        "&mdash; the next discourse, introducing a new kind of "
+        "ongoing torment.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.5 — Asilomasutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 5, "Asiloma", "Sword Hairs",
+    meta_title="SN 19.5 — Sword Hairs | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Asilomasutta — Moggallāna sees a man whose body "
+        "hairs are swords, rising and falling on his own body, the "
+        "residual karma of a pig butcher. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Rājagaha"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "The same elided template, introducing a "
+                 "self-inflicted rather than externally caused "
+                 "torment"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the first of a run of four "
+                       "discourses built on the same "
+                       "weapon-as-body-hair image"),
+    ],
+    why=(
+        "This discourse introduces a new kind of affliction, "
+        "distinct from external birds tearing at a body: a man whose "
+        "own body hairs are swords, rising up and falling back onto "
+        "his own flesh. The torment here comes from the body itself "
+        "rather than an outside attacker. The cause named is pig "
+        "butchery (sūkarika), continuing the saṃyutta's catalog of "
+        "animal-killing trades."),
+    guide=[
+        ("A shift from external attacker to self-inflicted harm", [
+            "Every apparition so far involved birds attacking from "
+            "outside the body; this discourse instead describes "
+            "harm generated by the body itself, its own hairs "
+            "transformed into weapons that wound their own owner "
+            "without any external agent."]),
+        ("Weapons growing from within, not wielded from without", [
+            "The image doesn't describe someone attacking this man "
+            "with swords; the swords are described as his own body "
+            "hairs, making the harm inseparable from his own physical "
+            "form rather than something done to him by another."]),
+        ("The first of a deliberate four-discourse sequence", [
+            "This discourse opens a run of four consecutive "
+            "discourses (SN 19.5-8) built on the identical "
+            "structure &mdash; body hairs transformed into a "
+            "different weapon each time &mdash; before the "
+            "sequence breaks with SN 19.9's more elaborate variant."]),
+        ("A continued but shifting animal-killing catalog", [
+            "Pig butchery joins cattle butchery, bird hunting, and "
+            "sheep butchery as the fourth distinct animal-killing "
+            "occupation named across five discourses, confirming "
+            "this remains the saṃyutta's dominant category of cause "
+            "in its opening run."]),
+        ("Rising and falling as a description of repetition, not a single event", [
+            "Uppatitvā uppatitvā, &ldquo;rising up again and "
+            "again,&rdquo; specifies that this isn't a single "
+            "piercing but a repeated, cyclical torment, the swords "
+            "striking and returning rather than striking once."]),
+    ],
+    terms=[
+        ("asilomaṁ purisaṁ vehāsaṁ gacchantaṁ",
+         "&ldquo;a man whose body hairs were swords, flying through "
+         "the air&rdquo; &mdash; this discourse's title image, the "
+         "first of a four-discourse sequence."),
+        ("uppatitvā uppatitvā tasseva kāye nipatanti",
+         "&ldquo;kept rising up and falling on his own body&rdquo; "
+         "&mdash; specifying repeated, cyclical self-inflicted harm "
+         "rather than a single wound."),
+        ("sūkariko",
+         "&ldquo;a pig butcher&rdquo; &mdash; the fourth distinct "
+         "animal-killing occupation named in this series."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; the same compression "
+         "convention continuing from the discourses before this "
+         "one."),
+        ("pañcamaṁ",
+         "&ldquo;the fifth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "19.1's fuller frame narrative. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.5:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's apparition consist of?",
+         "opts": [
+             "A man whose body hairs are swords, rising up and falling on his own body",
+             "Birds attacking a fragmentary piece of flesh",
+             "A radiant, unharmed being",
+             "No specific apparition is described"],
+         "correct": 0,
+         "expl": "A new kind of image, distinct from the external bird-attacks in earlier discourses."},
+        {"q": "How does this discourse's torment differ from the four discourses before it?",
+         "opts": [
+             "It is self-inflicted, generated by the body itself, rather than caused by an external attacker",
+             "It involves no harm of any kind",
+             "It is identical in every respect to the earlier discourses",
+             "It is inflicted by a different set of birds"],
+         "correct": 0,
+         "expl": "Harm inseparable from the man's own physical form, not done to him by another."},
+        {"q": "What occupation does this discourse name as the cause?",
+         "opts": [
+             "A pig butcher (sūkarika)",
+             "A repeat of the cattle-butcher cause",
+             "A bird hunter",
+             "No occupation is named"],
+         "correct": 0,
+         "expl": "The fourth distinct animal-killing occupation named in this series."},
+        {"q": "What does \"rising up and falling\" specify about this torment?",
+         "opts": [
+             "That it is repeated and cyclical, not a single piercing event",
+             "That it happened only once and then stopped permanently",
+             "That the swords eventually disappeared entirely",
+             "That the torment is entirely painless"],
+         "correct": 0,
+         "expl": "Uppatitvā uppatitvā, describing ongoing repetition rather than a single wound."},
+        {"q": "What position does this discourse hold in a larger structural pattern within this vagga?",
+         "opts": [
+             "The first of a four-discourse sequence built on the identical body-hairs-as-weapon structure",
+             "An isolated discourse with no relationship to any pattern",
+             "The final discourse of the entire saṃyutta",
+             "A direct repeat of SN 19.1's full frame narrative"],
+         "correct": 0,
+         "expl": "A structure continuing through SN 19.6-8 before breaking with SN 19.9's more elaborate variant."},
+        {"q": "How many distinct animal-killing occupations have now been named across this saṃyutta's opening five discourses?",
+         "opts": [
+             "Four — cattle butcher, bird hunter, sheep butcher, and pig butcher",
+             "Only one occupation, repeated throughout",
+             "Five entirely unrelated occupations",
+             "No occupations have been named at all"],
+         "correct": 0,
+         "expl": "Confirming this remains the saṃyutta's dominant category of cause in its opening run."},
+        {"q": "Does an external attacker appear in this discourse's apparition?",
+         "opts": [
+             "No — the harm comes entirely from the man's own body",
+             "Yes, the same three birds from earlier discourses appear again",
+             "Yes, a group of unnamed assailants attacks him",
+             "The discourse does not specify whether an attacker is present"],
+         "correct": 0,
+         "expl": "A shift from external attacker to self-generated affliction."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Pañcamaṁ, \"the fifth\"",
+             "Catutthaṁ, \"the fourth\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fifth discourse of this series."},
+    ],
+    marginalia=[
+        ("Harm with no attacker at all", [
+            "no birds this time, only his own body &mdash;",
+            "the wound generated from within, not from outside",
+        ]),
+        ("Swords that are the man's own hair", [
+            "not wielded against him, but grown from him &mdash;",
+            "the weapon inseparable from its victim",
+        ]),
+        ("A fourth trade, the same domain continuing", [
+            "cattle, birds, sheep, now pigs &mdash;",
+            "animal-killing still the dominant cause named",
+        ]),
+        ("A cycle, not a single strike", [
+            "rising, falling, rising again &mdash;",
+            "repetition itself part of what makes this a torment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.4.html">SN 19.4 &middot; A Flayed Man</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-19.6.html">SN 19.6 &middot; Spear Hairs</a> '
+        "&mdash; the next discourse, continuing this same "
+        "structure with a different weapon.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 19.6 — Sattisutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 6, "Satti", "Spear Hairs",
+    meta_title="SN 19.6 — Spear Hairs | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Sattisutta — Moggallāna sees a man whose body hairs "
+        "are spears, rising and falling on his own body, the "
+        "residual karma of a deer hunter. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Rājagaha"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "The second of four discourses built on the same "
+                 "body-hairs-as-weapon structure"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; identical structure to SN 19.5, one "
+                       "weapon and one occupation changed"),
+    ],
+    why=(
+        "This discourse repeats SN 19.5's exact structure, "
+        "substituting spears for swords: a man whose body hairs are "
+        "spears, rising up and falling back onto his own body. The "
+        "cause named is deer hunting (māgavika), a fifth distinct "
+        "occupation and the second hunting trade named in this "
+        "saṃyutta after SN 19.3's bird hunter."),
+    guide=[
+        ("A near-exact repeat, with only the weapon and trade changed", [
+            "Every other element of this discourse &mdash; the "
+            "self-generated nature of the harm, the repeated "
+            "rising-and-falling action, the screaming &mdash; matches "
+            "SN 19.5 precisely, confirming this saṃyutta is "
+            "building a deliberate four-part sequence rather than "
+            "four unrelated images."]),
+        ("Spears as marginally more piercing than swords", [
+            "Where a sword cuts along an edge, a spear concentrates "
+            "harm at a single point &mdash; a subtle escalation in "
+            "the specific quality of pain implied, even though the "
+            "underlying structure and consequence remain identical "
+            "to the discourse before it."]),
+        ("A second hunting trade, not a second butchery", [
+            "Deer hunting joins bird hunting as this saṃyutta's "
+            "second explicitly named hunting occupation, distinct "
+            "from the cattle, sheep, and pig butchery named "
+            "elsewhere &mdash; hunting wild game and butchering "
+            "domesticated animals are treated as separate but "
+            "parallel categories of harm."]),
+        ("The middle of a four-part sequence, not its edges", [
+            "As the second discourse in this four-part run, this "
+            "discourse's role is largely structural &mdash; "
+            "confirming the pattern established by SN 19.5 will "
+            "continue rather than proving to be an isolated "
+            "instance."]),
+        ("A catalog of weapons building alongside the catalog of trades", [
+            "Sword, then spear: this saṃyutta is simultaneously "
+            "building two parallel lists across this four-discourse "
+            "run, one of weapons transformed into body hair and one "
+            "of occupations that produce this specific consequence."]),
+    ],
+    terms=[
+        ("sattilomaṁ purisaṁ vehāsaṁ gacchantaṁ",
+         "&ldquo;a man whose body hairs were spears, flying through "
+         "the air&rdquo; &mdash; this discourse's title image, "
+         "repeating SN 19.5's structure with a new weapon."),
+        ("māgaviko",
+         "&ldquo;a deer hunter&rdquo; &mdash; the fifth distinct "
+         "occupation named in this series, and the second hunting "
+         "trade after SN 19.3's bird hunter."),
+        ("uppatitvā uppatitvā",
+         "&ldquo;rising up again and again&rdquo; &mdash; the same "
+         "repeated, cyclical action described in SN 19.5, unchanged "
+         "here."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; the same compression "
+         "convention continuing from the discourses before this "
+         "one."),
+        ("chaṭṭhaṁ",
+         "&ldquo;the sixth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "19.1's fuller frame narrative. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.6:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What weapon does this discourse substitute for SN 19.5's swords?",
+         "opts": [
+             "Spears",
+             "Arrows",
+             "Needles",
+             "No weapon is mentioned in this discourse"],
+         "correct": 0,
+         "expl": "The same self-inflicted body-hairs-as-weapon structure, with a new weapon substituted."},
+        {"q": "What occupation does this discourse name as the cause?",
+         "opts": [
+             "A deer hunter (māgavika)",
+             "A pig butcher, identical to SN 19.5",
+             "A corrupt village official",
+             "No occupation is named"],
+         "correct": 0,
+         "expl": "The second hunting trade named in this saṃyutta, after SN 19.3's bird hunter."},
+        {"q": "What elements of this discourse match SN 19.5 exactly?",
+         "opts": [
+             "The self-generated harm, the repeated rising-and-falling action, and the screaming",
+             "Nothing at all matches between the two discourses",
+             "Only the setting matches; everything else is different",
+             "The two discourses describe entirely unrelated apparitions"],
+         "correct": 0,
+         "expl": "Confirming a deliberate four-part sequence rather than unrelated images."},
+        {"q": "How does hunting differ from butchery in this saṃyutta's catalog of occupations?",
+         "opts": [
+             "Hunting wild game and butchering domesticated animals are treated as separate but parallel categories",
+             "The two categories are treated as entirely identical with no distinction",
+             "Only butchery is ever named as a cause in this saṃyutta",
+             "Only hunting is ever named as a cause in this saṃyutta"],
+         "correct": 0,
+         "expl": "Deer hunting joining bird hunting as this saṃyutta's second explicitly named hunting occupation."},
+        {"q": "What position does this discourse hold in the four-part sequence begun at SN 19.5?",
+         "opts": [
+             "The second of four, confirming the pattern will continue rather than remain an isolated instance",
+             "The first of the sequence",
+             "The final discourse of the sequence",
+             "It does not belong to this sequence"],
+         "correct": 0,
+         "expl": "A largely structural role, confirming the established pattern."},
+        {"q": "What two parallel catalogs is this saṃyutta building across this four-discourse run?",
+         "opts": [
+             "A catalog of weapons transformed into body hair, and a catalog of occupations causing this consequence",
+             "A catalog of birds and a catalog of cities",
+             "Only one catalog; there is no second parallel list",
+             "No catalog of any kind is being built"],
+         "correct": 0,
+         "expl": "Sword and spear for the weapons, deer hunter and pig butcher for the occupations, so far."},
+        {"q": "What does the shift from sword to spear subtly suggest, according to this reading guide?",
+         "opts": [
+             "A marginal escalation in the specific quality of pain, since a spear concentrates harm at a single point",
+             "That the discourse describes an entirely different kind of torment altogether",
+             "That the harm has become less severe than in SN 19.5",
+             "No meaningful difference between the two weapons"],
+         "correct": 0,
+         "expl": "A subtle variation even as the underlying structure and consequence remain identical."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The sixth discourse of this series."},
+    ],
+    marginalia=[
+        ("One weapon swapped for another, precisely", [
+            "swords become spears, nothing else shifts &mdash;",
+            "a sequence confirming itself, one repeat at a time",
+        ]),
+        ("A point instead of an edge", [
+            "concentrated rather than sweeping harm &mdash;",
+            "a subtle escalation within an identical structure",
+        ]),
+        ("A second hunter, not a second butcher", [
+            "deer joining birds in this saṃyutta's hunting trades &mdash;",
+            "wild game kept distinct from domesticated animals",
+        ]),
+        ("Two lists, growing together", [
+            "weapons on one side, occupations on the other &mdash;",
+            "both catalogs advancing with each new discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.5.html">SN 19.5 &middot; Sword Hairs</a> '
+        "&mdash; the discourse this one repeats with a new weapon.",
+        '<a href="sn-19.7.html">SN 19.7 &middot; Arrow Hairs</a> '
+        "&mdash; the next discourse, continuing the same sequence.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.7 — Usulomasutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 7, "Usuloma", "Arrow Hairs",
+    meta_title="SN 19.7 — Arrow Hairs | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Usulomasutta — Moggallāna sees a man whose body "
+        "hairs are arrows, rising and falling on his own body, the "
+        "residual karma of a punisher or torturer. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "The third of four discourses built on the same "
+                 "body-hairs-as-weapon structure"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the first discourse in this "
+                       "sequence to name a non-hunting, non-"
+                       "butchery cause"),
+    ],
+    why=(
+        "This discourse continues the sword-spear sequence with "
+        "arrows: a man whose body hairs are arrows, rising and "
+        "falling on his own body. The cause named marks a genuine "
+        "break from the pattern so far &mdash; kāraṇika, "
+        "&ldquo;a punisher,&rdquo; the first occupation in this "
+        "saṃyutta not directly tied to hunting or butchering "
+        "animals."),
+    guide=[
+        ("The same weapon-and-body structure, a different domain of harm", [
+            "Arrows replace spears in the identical self-inflicted "
+            "pattern, but this discourse's cause shifts entirely "
+            "away from animal killing to human punishment, widening "
+            "what this saṃyutta treats as producing this specific "
+            "consequence."]),
+        ("Kāraṇika as an officially sanctioned role, not a private wrong", [
+            "A punisher or torturer (often understood as someone "
+            "carrying out judicially sanctioned punishment) "
+            "represents harm inflicted under some form of social or "
+            "legal authority, distinct from the private, individual "
+            "acts of killing named in the discourses before it."]),
+        ("A structural link to the arrows striking his own body", [
+            "The specific correspondence between inflicting "
+            "punishment with implements and being struck by arrows "
+            "growing from his own body carries a directness "
+            "comparable to SN 19.3's bird hunter now hunted by "
+            "birds, even though the weapon here is his own hair "
+            "rather than an external attacker."]),
+        ("Widening the saṃyutta's moral scope beyond animal harm", [
+            "Every cause named in SN 19.1 through 19.6 involved "
+            "killing animals; this discourse's punisher introduces "
+            "harm done to other people as a comparably weighty "
+            "cause, confirming the saṃyutta's interest extends "
+            "beyond animal slaughter specifically."]),
+        ("The third of four, approaching the sequence's most elaborate variant", [
+            "With one more discourse remaining in this run before "
+            "SN 19.9 breaks the pattern with a significantly more "
+            "detailed variant, this discourse marks the sequence's "
+            "approach toward its close."]),
+    ],
+    terms=[
+        ("usulomaṁ purisaṁ vehāsaṁ gacchantaṁ",
+         "&ldquo;a man whose body hairs were arrows, flying through "
+         "the air&rdquo; &mdash; this discourse's title image, "
+         "continuing the sword-spear-arrow sequence."),
+        ("kāraṇiko",
+         "&ldquo;a punisher&rdquo; &mdash; the first occupation in "
+         "this series not tied to hunting or butchering animals, "
+         "marking a genuine widening of this saṃyutta's causes."),
+        ("uppatitvā uppatitvā",
+         "&ldquo;rising up again and again&rdquo; &mdash; the same "
+         "repeated action described in SN 19.5-6, unchanged here."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; the same compression "
+         "convention continuing from the discourses before this "
+         "one."),
+        ("sattamaṁ",
+         "&ldquo;the seventh&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "19.1's fuller frame narrative. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.7:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What weapon does this discourse use, continuing the sequence from SN 19.5-6?",
+         "opts": [
+             "Arrows",
+             "Needles",
+             "A return to swords",
+             "No weapon is mentioned"],
+         "correct": 0,
+         "expl": "Sword, spear, and now arrow, continuing the same self-inflicted body-hairs pattern."},
+        {"q": "What occupation does this discourse name as the cause?",
+         "opts": [
+             "A punisher (kāraṇika), the first cause not tied to hunting or butchering animals",
+             "A cattle butcher, repeating an earlier cause",
+             "A deer hunter, identical to SN 19.6",
+             "No occupation is named"],
+         "correct": 0,
+         "expl": "A genuine break from the animal-killing pattern established in the discourses before it."},
+        {"q": "How does a punisher's role differ from the private acts of killing named earlier in this saṃyutta?",
+         "opts": [
+             "It represents harm inflicted under some form of social or legal authority, not a private, individual act",
+             "There is no meaningful difference between the two",
+             "A punisher never actually causes any harm",
+             "Punishment is described as identical to hunting"],
+         "correct": 0,
+         "expl": "Distinguishing officially sanctioned harm from the individual killing named in earlier discourses."},
+        {"q": "What correspondence does this reading guide note between the punisher's past deed and his present torment?",
+         "opts": [
+             "A directness comparable to SN 19.3's bird hunter now hunted by birds, though the weapon here is his own hair",
+             "No correspondence exists between the two",
+             "The torment is entirely unrelated to the named cause",
+             "The correspondence is identical in every detail to SN 19.3's"],
+         "correct": 0,
+         "expl": "A parallel structure of harm returning in a related form, even without an external attacker."},
+        {"q": "What does this discourse's cause suggest about the saṃyutta's moral scope?",
+         "opts": [
+             "That it extends beyond animal slaughter to harm done to other people",
+             "That it is concerned exclusively with animal killing",
+             "That it has no interest in moral causation at all",
+             "That only religious wrongdoing is ever named as a cause"],
+         "correct": 0,
+         "expl": "Widening what this saṃyutta treats as producing this specific consequence."},
+        {"q": "What position does this discourse hold in the four-part sequence begun at SN 19.5?",
+         "opts": [
+             "The third of four, approaching the sequence's more elaborate closing variant",
+             "The first of the sequence",
+             "The final discourse of the sequence",
+             "It does not belong to this sequence"],
+         "correct": 0,
+         "expl": "One more discourse remains before SN 19.9 breaks the established pattern."},
+        {"q": "What action does the weapon perform in this discourse, matching SN 19.5-6?",
+         "opts": [
+             "Rising up again and again, then falling on his own body",
+             "Striking once and then disappearing permanently",
+             "Remaining motionless at all times",
+             "No specific action is described"],
+         "correct": 0,
+         "expl": "The same repeated, cyclical torment described throughout this four-part sequence."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Sattamaṁ, \"the seventh\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The seventh discourse of this series."},
+    ],
+    marginalia=[
+        ("A third weapon, the same body producing it", [
+            "sword, spear, now arrow &mdash;",
+            "the sequence's pattern holding steady",
+        ]),
+        ("A cause outside the killing of animals", [
+            "not a butcher or hunter this time, but a punisher &mdash;",
+            "the catalog widening past a single domain of harm",
+        ]),
+        ("Authority, not private wrongdoing, named as the cause", [
+            "sanctioned punishment, not an individual crime &mdash;",
+            "a different kind of harm brought into the same reckoning",
+        ]),
+        ("One discourse from a break in the pattern", [
+            "three of four now given &mdash;",
+            "a more elaborate variant waiting just ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.6.html">SN 19.6 &middot; Spear Hairs</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-19.8.html">SN 19.8 &middot; Needle Hairs</a> '
+        "&mdash; the next discourse, closing this four-part "
+        "sequence.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.8 — Sūcilomasutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 8, "Sūciloma", "Needle Hairs",
+    meta_title="SN 19.8 — Needle Hairs | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Sūcilomasutta — Moggallāna sees a man whose body "
+        "hairs are needles, rising and falling on his own body, the "
+        "residual karma of an equerry. Closes a four-part sequence. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "The fourth and closing discourse of the "
+                 "body-hairs-as-weapon sequence"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the smallest weapon in the "
+                       "sequence, closing it before a more "
+                       "elaborate variant follows"),
+    ],
+    why=(
+        "This discourse closes the four-part sequence begun at SN "
+        "19.5 with its smallest weapon: needles, rising and falling "
+        "on a man's own body. The cause named is sūta, "
+        "&ldquo;an equerry,&rdquo; someone responsible for horses "
+        "and chariots &mdash; a specific court or household role "
+        "distinct from the punisher named in the discourse before "
+        "it and from any occupation named earlier in this saṃyutta."),
+    guide=[
+        ("The sequence's smallest weapon, closing rather than escalating", [
+            "Sword, spear, arrow, and now needle: rather than "
+            "escalating toward something larger or more obviously "
+            "dangerous, the sequence closes with its smallest and "
+            "most numerous implement, a shift in scale that doesn't "
+            "correspond to any obvious increase or decrease in the "
+            "described suffering."]),
+        ("An occupation named for its function, not its wrongdoing", [
+            "Unlike punisher, hunter, or butcher, equerry names a "
+            "role defined by its ordinary function &mdash; caring "
+            "for horses and chariots &mdash; without inherently "
+            "implying harm, making this cause's connection to "
+            "wrongdoing less immediately obvious than any named "
+            "before it."]),
+        ("A closing discourse that will itself be revisited and expanded", [
+            "The discourse immediately following this one reuses "
+            "this exact same title, Sūcilomasutta, but under a "
+            "Pali name explicitly marking it as the second version "
+            "&mdash; Dutiyasūcilomasutta &mdash; and elaborates the "
+            "needle image considerably further."]),
+        ("Four discourses, four weapons, four thresholds of cause", [
+            "Read together, SN 19.5 through this discourse form the "
+            "saṃyutta's most tightly unified sequence so far, "
+            "moving through pig butchery, deer hunting, punishment, "
+            "and now an ordinary court role, without ever repeating "
+            "a single cause across the four."]),
+        ("Setting up a pointed contrast with what follows immediately", [
+            "This discourse's equerry, seemingly among the least "
+            "obviously culpable causes named so far, sits directly "
+            "before a discourse naming sūcaka, an informant, whose "
+            "wrongdoing (spreading damaging words) shares an "
+            "etymological root with the needle image itself."]),
+    ],
+    terms=[
+        ("sūcilomaṁ purisaṁ vehāsaṁ gacchantaṁ",
+         "&ldquo;a man whose body hairs were needles, flying "
+         "through the air&rdquo; &mdash; this discourse's title "
+         "image, the smallest weapon in the four-discourse "
+         "sequence."),
+        ("sūto",
+         "&ldquo;an equerry&rdquo; &mdash; someone responsible for "
+         "horses and chariots, an ordinary functional role rather "
+         "than an occupation defined by inherent wrongdoing."),
+        ("uppatitvā uppatitvā",
+         "&ldquo;rising up again and again&rdquo; &mdash; the same "
+         "repeated action described throughout this four-part "
+         "sequence."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; the same compression "
+         "convention continuing from the discourses before this "
+         "one."),
+        ("aṭṭhamaṁ",
+         "&ldquo;the eighth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "19.1's fuller frame narrative. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.8:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What weapon closes the four-part sequence begun at SN 19.5?",
+         "opts": [
+             "Needles — the smallest implement in the sequence",
+             "A return to swords",
+             "A much larger weapon than any before it",
+             "No weapon is mentioned in this discourse"],
+         "correct": 0,
+         "expl": "Closing rather than escalating the sequence's weapons."},
+        {"q": "What occupation does this discourse name as the cause?",
+         "opts": [
+             "An equerry (sūta), someone responsible for horses and chariots",
+             "A punisher, identical to SN 19.7",
+             "A cattle butcher",
+             "No occupation is named"],
+         "correct": 0,
+         "expl": "A role defined by ordinary function rather than inherent wrongdoing."},
+        {"q": "How does an equerry's role differ from the causes named in the three discourses before it?",
+         "opts": [
+             "It is defined by its ordinary function rather than any obvious connection to wrongdoing",
+             "It is identical in every respect to a punisher's role",
+             "It involves the same animal-killing as earlier discourses",
+             "There is no meaningful difference between any of the causes named so far"],
+         "correct": 0,
+         "expl": "Making this cause's connection to wrongdoing less immediately obvious than any named before it."},
+        {"q": "What happens to this discourse's exact title in the discourse immediately following it?",
+         "opts": [
+             "The same title is reused, marked explicitly as a second version, with the needle image elaborated further",
+             "The title is never used again in this saṃyutta",
+             "The following discourse contradicts this discourse's content entirely",
+             "No relationship exists between this discourse and the one following it"],
+         "correct": 0,
+         "expl": "Dutiyasūcilomasutta, explicitly building on and expanding this discourse's image."},
+        {"q": "How many distinct causes do SN 19.5 through this discourse name across their four-discourse sequence?",
+         "opts": [
+             "Four distinct causes, never repeating a single one across the sequence",
+             "Only one cause, repeated in all four discourses",
+             "Two causes, alternating throughout",
+             "No causes are named in this sequence"],
+         "correct": 0,
+         "expl": "Pig butchery, deer hunting, punishment, and now an ordinary court role."},
+        {"q": "What contrast does this reading guide draw between this discourse and the one following it?",
+         "opts": [
+             "An equerry's seemingly minor role sits directly before an informant, whose wrongdoing shares an etymological root with the needle image",
+             "The two discourses describe identical causes with no contrast at all",
+             "This discourse describes a far worse cause than the one following it",
+             "No relationship exists between the two discourses"],
+         "correct": 0,
+         "expl": "A pointed juxtaposition between the sequence's closing discourse and its immediate expansion."},
+        {"q": "What action does the weapon perform in this discourse, matching SN 19.5-7?",
+         "opts": [
+             "Rising up again and again, then falling on his own body",
+             "Striking once and then disappearing permanently",
+             "Remaining motionless at all times",
+             "No specific action is described"],
+         "correct": 0,
+         "expl": "The same repeated, cyclical torment described throughout this four-part sequence."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "Navamaṁ, \"the ninth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eighth discourse of this series."},
+    ],
+    marginalia=[
+        ("The smallest weapon closing the sequence", [
+            "sword, spear, arrow, now needle &mdash;",
+            "scale narrowing, not escalating, at the close",
+        ]),
+        ("A role named for function, not fault", [
+            "caring for horses and chariots, nothing more sinister &mdash;",
+            "wrongdoing here less obvious than any before it",
+        ]),
+        ("A title about to be claimed a second time", [
+            "the same name, soon marked \"second\" &mdash;",
+            "this image about to be taken much further",
+        ]),
+        ("Four causes, never once repeating", [
+            "butcher, hunter, punisher, equerry &mdash;",
+            "a sequence built without reusing a single trade",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.7.html">SN 19.7 &middot; Arrow Hairs</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-19.9.html">SN 19.9 &middot; Needle Hairs '
+        "(2nd)</a> &mdash; the next discourse, reusing and "
+        "elaborating this exact title.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.9 — Dutiyasūcilomasutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 9, "Dutiyasūciloma", "Needle Hairs (2nd)",
+    meta_title="SN 19.9 — Needle Hairs (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Dutiyasūcilomasutta — needles boring through a "
+        "man's entire body head to foot, the most elaborate torment "
+        "in this saṃyutta so far, the residual karma of an "
+        "informant. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "SN 19.8's needle image reused and elaborated into "
+                 "this saṃyutta's most detailed torment so far"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; the most elaborately described "
+                       "torment in the saṃyutta so far"),
+    ],
+    why=(
+        "This discourse reuses SN 19.8's needle image under an "
+        "explicitly marked title &mdash; Dutiyasūcilomasutta, "
+        "&ldquo;the second Needle Hairs&rdquo; &mdash; but "
+        "elaborates it considerably: the needles bore into his head "
+        "and out his mouth, into his mouth and out his chest, into "
+        "his chest and out his belly, into his belly and out his "
+        "thighs, into his thighs and out his calves, and into his "
+        "calves and out his feet. The cause named is sūcaka, "
+        "&ldquo;an informant,&rdquo; someone who spreads damaging "
+        "reports or slander &mdash; a term sharing its root with "
+        "sūci, needle, the image itself."),
+    guide=[
+        ("A named sequel, not a coincidental repeat", [
+            "The Pali title itself marks this discourse as "
+            "explicitly second, Dutiyasūciloma, distinguishing it "
+            "from a mere reuse of an existing name and confirming "
+            "the source itself recognizes these two discourses as a "
+            "deliberate pair."]),
+        ("An itinerary through the entire body, not a single wound", [
+            "Rather than describing needles simply rising and "
+            "falling as in SN 19.5-8, this discourse traces a "
+            "specific path &mdash; head, mouth, chest, belly, "
+            "thighs, calves, feet &mdash; giving the torment a "
+            "traceable, itemized geography absent from any earlier "
+            "discourse in this saṃyutta."]),
+        ("A wordplay linking image and cause directly", [
+            "Sūcaka, an informant, and sūci, a needle, share an "
+            "obvious root; this discourse's choice of cause for its "
+            "needle-based torment isn't incidental but plays "
+            "directly on the linguistic connection between piercing "
+            "speech and piercing implements."]),
+        ("Piercing speech given a piercing consequence", [
+            "An informant's characteristic wrongdoing is verbal "
+            "&mdash; passing on damaging words &mdash; and this "
+            "discourse's elaborate itinerary of needles piercing "
+            "clean through the body gives that verbal harm an "
+            "unusually direct and literal physical correspondence."]),
+        ("The most elaborate torment so far, marking a genuine escalation", [
+            "Compared to every discourse before it in this saṃyutta, "
+            "this discourse's step-by-step itinerary represents a "
+            "clear escalation in descriptive detail, suggesting the "
+            "saṃyutta reserves its most elaborate imagery for causes "
+            "it wants to underline rather than distributing detail "
+            "evenly across every discourse."]),
+    ],
+    terms=[
+        ("dutiyasūcilomasutta",
+         "&ldquo;the second Needle Hairs discourse&rdquo; &mdash; "
+         "this discourse's own title, explicitly marking it as a "
+         "deliberate sequel to SN 19.8."),
+        ("sīse pavisitvā mukhato nikkhamanti",
+         "&ldquo;bored into his head and out his mouth&rdquo; "
+         "&mdash; the first leg of this discourse's itemized "
+         "itinerary of piercing."),
+        ("sūcako",
+         "&ldquo;an informant&rdquo; &mdash; sharing its root with "
+         "sūci, needle, linking this discourse's cause directly to "
+         "its central image."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; used here only for the "
+         "frame narrative, not for the detailed itinerary itself, "
+         "which is given in full."),
+        ("navamaṁ",
+         "&ldquo;the ninth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, with its detailed "
+        "itinerary of piercing given in full even as the "
+        "surrounding frame narrative remains elided. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.9:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's title relate to SN 19.8's?",
+         "opts": [
+             "It explicitly marks itself as the second Needle Hairs discourse (Dutiyasūciloma), a deliberate sequel",
+             "It uses an entirely unrelated title with no connection to SN 19.8",
+             "It is identical to SN 19.8's title with no distinguishing marker at all",
+             "This discourse has no title of its own"],
+         "correct": 0,
+         "expl": "Confirming the source itself recognizes these two discourses as a deliberate pair."},
+        {"q": "How does this discourse elaborate on SN 19.5-8's simple rising-and-falling image?",
+         "opts": [
+             "It traces a specific itinerary of the needles boring through the entire body, head to feet",
+             "It removes the needle image entirely",
+             "It repeats the exact same rising-and-falling description unchanged",
+             "It describes the needles disappearing instantly"],
+         "correct": 0,
+         "expl": "An itemized, traceable geography of piercing absent from any earlier discourse in this saṃyutta."},
+        {"q": "What cause does this discourse name, and what does it share with the central image?",
+         "opts": [
+             "An informant (sūcaka), sharing its root with sūci, needle",
+             "A cattle butcher, unrelated to the needle image",
+             "A punisher, identical to SN 19.7",
+             "No cause is named in this discourse"],
+         "correct": 0,
+         "expl": "A deliberate wordplay linking piercing speech to piercing implements."},
+        {"q": "What characteristic wrongdoing does an informant's role typically involve?",
+         "opts": [
+             "Passing on damaging words or reports about others",
+             "Physically harming animals directly",
+             "Mismanaging a household's finances",
+             "Refusing to pay required taxes"],
+         "correct": 0,
+         "expl": "Verbal harm given an unusually direct and literal physical correspondence in this discourse's image."},
+        {"q": "How does this discourse's level of descriptive detail compare to the discourses before it in this saṃyutta?",
+         "opts": [
+             "It represents a clear escalation, the most elaborate torment described so far",
+             "It is far less detailed than any earlier discourse",
+             "It is identical in detail to every discourse before it",
+             "No description of any torment is given"],
+         "correct": 0,
+         "expl": "Suggesting the saṃyutta reserves elaborate imagery for causes it wants to underline."},
+        {"q": "What body part does the itinerary begin and end with?",
+         "opts": [
+             "Beginning at the head, ending at the feet",
+             "Beginning at the feet, ending at the head",
+             "Beginning and ending at the chest",
+             "No specific starting or ending point is given"],
+         "correct": 0,
+         "expl": "A traceable path: head, mouth, chest, belly, thighs, calves, feet."},
+        {"q": "Is the frame narrative elided in this discourse, as in SN 19.2-8?",
+         "opts": [
+             "Yes — only the detailed itinerary of piercing is given in full, not the surrounding frame",
+             "No — the entire frame narrative is restated in full, unlike any other discourse in this series",
+             "Both the frame and the itinerary are elided equally",
+             "Neither the frame nor the itinerary appears in this discourse"],
+         "correct": 0,
+         "expl": "The elaboration applies specifically to the central image, not the frame."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Navamaṁ, \"the ninth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The ninth discourse of this series, one before Paṭhamavagga's close."},
+    ],
+    marginalia=[
+        ("A sequel, marked as such by its own name", [
+            "\"the second Needle Hairs,\" the title says outright &mdash;",
+            "not a coincidence, but a deliberate return",
+        ]),
+        ("A path traced through the entire body", [
+            "head, mouth, chest, belly, thighs, calves, feet &mdash;",
+            "torment given a specific, itemized geography",
+        ]),
+        ("A pun carrying real moral weight", [
+            "sūcaka and sūci, informant and needle &mdash;",
+            "piercing speech answered with a piercing consequence",
+        ]),
+        ("Detail reserved, not distributed evenly", [
+            "the most elaborate image so far, for this cause specifically &mdash;",
+            "emphasis placed where the source wants it noticed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.8.html">SN 19.8 &middot; Needle Hairs</a> '
+        "&mdash; the discourse whose image this one elaborates.",
+        '<a href="sn-19.10.html">SN 19.10 &middot; Pot Balls</a> '
+        "&mdash; Paṭhamavagga's closing discourse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.10 — Kumbhaṇḍasutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 10, "Kumbhaṇḍa", "Pot Balls",
+    meta_title="SN 19.10 — Pot Balls | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Kumbhaṇḍasutta — Moggallāna sees a man with "
+        "testicles the size of pots, forced to carry them at every "
+        "turn, the residual karma of a corrupt village headman. "
+        "Closes Paṭhamavagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "The vagga's closing discourse, returning to "
+                 "external bird-attack after the four-discourse "
+                 "self-inflicted sequence"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; closing Paṭhamavagga with its own "
+                       "uddāna confirming the vagga's full list of "
+                       "ten causes"),
+    ],
+    why=(
+        "This discourse closes Paṭhamavagga with an image unlike any "
+        "before it: a man with testicles as large as pots, forced to "
+        "lift them onto his shoulder when walking and sit directly "
+        "on them when seated, all while the same vultures, crows, "
+        "and hawks chase and peck at him. The cause named is "
+        "gāmakūṭaka, &ldquo;a corrupt village headman,&rdquo; "
+        "someone who abused a position of local civic authority "
+        "&mdash; the tenth and final distinct occupation this vagga "
+        "names."),
+    guide=[
+        ("A return to external attack after four discourses of self-harm", [
+            "Unlike SN 19.5 through 19.9's body-generated weapons, "
+            "this discourse's torment combines an unwieldy physical "
+            "burden with the return of the external birds absent "
+            "from the sequence just before it, closing the vagga on "
+            "a hybrid of both kinds of affliction it has used so "
+            "far."]),
+        ("Burden as its own distinct kind of suffering", [
+            "Where earlier discourses described piercing or cutting, "
+            "this discourse's affliction is one of encumbrance "
+            "&mdash; an unmanageable weight that must be carried and "
+            "sat upon, a different quality of suffering than any "
+            "wound described before it."]),
+        ("A final occupation naming civic corruption, not killing or speech", [
+            "Corrupt village headman closes a run that has already "
+            "named animal-killing trades, hunting, judicial "
+            "punishment, an ordinary court role, and slanderous "
+            "speech &mdash; this final cause adds abuse of local "
+            "civic office as one more distinct category of wrong "
+            "this vagga associates with grotesque consequence."]),
+        ("A complete catalog confirmed by the vagga's own uddāna", [
+            "The mnemonic verse closing this vagga lists all ten "
+            "titles in order &mdash; skeleton, meat, flesh, both "
+            "cattle-killers, flayed man and sheep-killer, sword and "
+            "pig-killer, spear and deer-hunter, arrow and punisher, "
+            "needle and equerry, the one who mends and is an "
+            "informant, and the one who carried testicles, a corrupt "
+            "headman &mdash; confirming this reading guide's "
+            "tracking of each discourse's pairing matches the "
+            "source's own summary."]),
+        ("Ten discourses, ten causes, no repetition beyond the opening pair", [
+            "Looking back across the whole vagga, only SN 19.1 and "
+            "19.2 share an identical cause; every other discourse "
+            "names something distinct, confirming this vagga was "
+            "built to demonstrate genuine variety rather than "
+            "reusing a small set of causes across ten iterations."]),
+    ],
+    terms=[
+        ("kumbhaṇḍaṁ purisaṁ vehāsaṁ gacchantaṁ",
+         "&ldquo;a man with testicles as large as pots, flying "
+         "through the air&rdquo; &mdash; this discourse's title "
+         "image, combining burden with external attack."),
+        ("gāmakūṭako",
+         "&ldquo;a corrupt village headman&rdquo; &mdash; the "
+         "tenth and final distinct occupation named in Paṭhamavagga, "
+         "naming abuse of local civic authority."),
+        ("khandhe āropetvā",
+         "&ldquo;lifted onto his shoulder&rdquo; &mdash; describing "
+         "the specific physical burden this affliction imposes with "
+         "every movement."),
+        ("paṭhamo vaggo",
+         "&ldquo;the first chapter [is finished]&rdquo; &mdash; "
+         "marking Paṭhamavagga's close, immediately preceding its "
+         "own uddāna verse."),
+        ("tassuddānaṁ",
+         "&ldquo;its summary&rdquo; &mdash; the mnemonic verse "
+         "listing all ten of this vagga's discourse titles in "
+         "order, confirming the full catalog of causes named."),
+    ],
+    text_intro=(
+        "The discourse in full. The vagga's closing uddāna verse of "
+        "discourse titles is not translated in the source and is not "
+        "quoted here; see the reading guide above for its contents. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.10:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's apparition consist of?",
+         "opts": [
+             "A man with testicles as large as pots, forced to carry them while also being chased by birds",
+             "A man whose body hairs are needles",
+             "A skeleton alone, with no other detail",
+             "No specific apparition is described"],
+         "correct": 0,
+         "expl": "Combining an unwieldy physical burden with the return of external bird-attack."},
+        {"q": "How does this discourse's affliction differ in kind from SN 19.5-9's self-inflicted weapons?",
+         "opts": [
+             "It is a burden of encumbrance rather than piercing or cutting",
+             "It is identical in every respect to the earlier discourses",
+             "It involves no suffering of any kind",
+             "It only affects the man's speech, not his body"],
+         "correct": 0,
+         "expl": "A different quality of suffering than any wound described before it."},
+        {"q": "What occupation does this discourse name as the cause?",
+         "opts": [
+             "A corrupt village headman (gāmakūṭaka)",
+             "An informant, identical to SN 19.9",
+             "A cattle butcher",
+             "No occupation is named"],
+         "correct": 0,
+         "expl": "Abuse of local civic authority, the tenth and final distinct occupation in this vagga."},
+        {"q": "What does the vagga's closing uddāna verse do?",
+         "opts": [
+             "Lists all ten discourse titles in order, confirming the vagga's complete catalog of causes",
+             "Introduces an entirely new discourse not yet covered",
+             "Retracts several of the causes named earlier in the vagga",
+             "Nothing; no uddāna exists for this vagga"],
+         "correct": 0,
+         "expl": "Confirming this reading guide's tracking of each discourse's pairing matches the source's own summary."},
+        {"q": "How many discourses in this vagga share an identical cause with another discourse?",
+         "opts": [
+             "Only SN 19.1 and 19.2, both naming cattle butchery",
+             "All ten discourses share the exact same cause",
+             "No two discourses in the vagga share any cause",
+             "Every discourse after the third repeats an earlier cause"],
+         "correct": 0,
+         "expl": "Confirming this vagga was built to demonstrate genuine variety rather than reusing a small set of causes."},
+        {"q": "What two kinds of affliction does this closing discourse combine?",
+         "opts": [
+             "Physical burden and external bird-attack",
+             "Self-inflicted weapons and verbal wrongdoing",
+             "Fire and drowning",
+             "No affliction is described in this discourse"],
+         "correct": 0,
+         "expl": "A hybrid of both kinds of torment the vagga has used so far."},
+        {"q": "What specific actions does the burden require of this being?",
+         "opts": [
+             "Lifting it onto his shoulder while walking, and sitting directly on it when seated",
+             "Carrying it only while asleep",
+             "No specific actions are described",
+             "Throwing it away permanently at the story's end"],
+         "correct": 0,
+         "expl": "An unmanageable weight affecting his every movement."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair concluding this vagga."},
+        {"q": "What position does this discourse hold in Paṭhamavagga?",
+         "opts": [
+             "The tenth and final discourse, closing the vagga",
+             "The first discourse of the vagga",
+             "The fifth discourse, at the vagga's midpoint",
+             "It does not belong to this vagga"],
+         "correct": 0,
+         "expl": "Dasamaṁ, marked at its close, followed by the vagga's end and its own uddāna."},
+    ],
+    marginalia=[
+        ("Two kinds of harm combined at the close", [
+            "a burden to carry, and birds still circling &mdash;",
+            "both registers of affliction meeting in one image",
+        ]),
+        ("Suffering by weight, not by wound", [
+            "nothing pierced or cut, only carried &mdash;",
+            "encumbrance as its own distinct kind of torment",
+        ]),
+        ("A tenth trade, closing without repeating", [
+            "a corrupt headman, civic authority abused &mdash;",
+            "one more category never used before this discourse",
+        ]),
+        ("A summary that checks its own work", [
+            "ten titles, listed in the closing verse &mdash;",
+            "the vagga's own accounting matching what's been traced",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.9.html">SN 19.9 &middot; Needle Hairs '
+        "(2nd)</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-19.11.html">SN 19.11 &middot; Over His '
+        "Head</a> &mdash; the next discourse, opening Dutiyavagga.",
+    ],
+)
