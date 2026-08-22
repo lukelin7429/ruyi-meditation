@@ -1,0 +1,205 @@
+---
+layout: default
+title: Jiaoguan Gangzong
+permalink: /sutras/jiaoguan-gangzong/
+excerpt: A complete bilingual translation of Ouyi Zhixu's Jiaoguan Gangzong (教觀綱宗, T1939) — the classic outline of Tiantai's Eight Teachings and Four Teachings of Content — read across 5 pages with reading notes drawn from Zhixu's own commentary.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .asc{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .asc *{box-sizing:border-box;}
+  .asc-wrap{max-width:1080px;margin:0 auto;padding:0 26px;}
+  .js .asc [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .asc [data-rv].in{opacity:1;transform:none;}
+  .asc-hero{background:linear-gradient(155deg,#2f6d5e 0%,#1c4038 45%,#151c20 100%);color:#fff;overflow:hidden;position:relative;}
+  .asc-hero::after{content:"綱宗";position:absolute;right:-18px;bottom:-36px;font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:126px;font-weight:700;color:rgba(255,255,255,.06);letter-spacing:.06em;white-space:nowrap;}
+  .asc-hero-in{position:relative;z-index:1;padding:78px 26px 84px;max-width:1080px;margin:0 auto;}
+  .asc-bread{font-size:13px;letter-spacing:.04em;margin-bottom:28px;color:rgba(255,255,255,.72);}
+  .asc-bread a{color:#f0c96d;text-decoration:none;border-bottom:1px solid rgba(240,201,109,.45);}
+  .asc-eyebrow{font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:#f0c96d;font-weight:700;}
+  .asc h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(40px,6.4vw,66px);line-height:1.06;color:#fff;margin:14px 0 18px;max-width:17ch;}
+  .asc-hero p{max-width:720px;color:#f3ece3;font-size:19px;line-height:1.7;}
+  .asc-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:30px;}
+  .asc-btn{display:inline-flex;align-items:center;gap:8px;border-radius:4px;padding:13px 20px;font-weight:700;text-decoration:none;border:1px solid rgba(255,255,255,.28);}
+  .asc-btn.primary{background:#f0c96d;color:#251f1a;border-color:#f0c96d;}
+  .asc-btn.secondary{color:#fff;background:rgba(255,255,255,.08);}
+  .asc-intro{background:var(--cream);padding:64px 0 42px;}
+  .asc-grid{display:grid;grid-template-columns:1fr;gap:20px;}
+  @media(min-width:780px){.asc-grid{grid-template-columns:1.15fr .85fr;}}
+  .asc-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;}
+  .asc-panel h2,.asc-section h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(30px,4vw,42px);line-height:1.12;color:var(--ink);margin:0 0 14px;}
+  .asc-panel p,.asc-panel li{color:var(--muted);font-size:16.5px;line-height:1.65;}
+  .asc-panel ul{padding-left:20px;margin:0;}
+  .asc-stats{display:grid;gap:12px;margin-top:18px;}
+  .asc-stat{border-top:1px solid var(--line);padding-top:14px;}
+  .asc-stat b{font-family:'Playfair Display',Georgia,serif;font-size:28px;color:var(--terra);margin-right:6px;}
+  .asc-section{padding:70px 0;background:#fff;}
+  .asc-section-head{max-width:720px;margin-bottom:28px;}
+  .asc-section-head p{color:var(--muted);font-size:17px;line-height:1.65;}
+
+  .ch-grid{display:grid;grid-template-columns:1fr;gap:14px;}
+  @media(min-width:640px){.ch-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .ch-card{border:1px solid var(--line);border-radius:8px;background:linear-gradient(180deg,#fff,#fdf9f1);padding:20px;}
+  .ch-num{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--terra);}
+  .ch-zh{font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:22px;color:var(--ink);margin:6px 0 8px;line-height:1.2;}
+  .ch-desc{font-size:15px;color:var(--muted);line-height:1.55;}
+  .ch-parts{margin-top:10px;font-size:12.5px;font-weight:700;color:var(--terra-deep);letter-spacing:.03em;}
+
+  .vol-grid{display:grid;grid-template-columns:1fr;gap:10px;}
+  @media(min-width:640px){.vol-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  @media(min-width:980px){.vol-grid{grid-template-columns:repeat(3,minmax(0,1fr));}}
+  .vol-card{border:1px solid #b9d2c8;border-radius:8px;background:linear-gradient(180deg,#fff,#f5fbf8);padding:14px 16px;text-decoration:none;color:inherit;display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;}
+  .vol-card:hover{transform:translateY(-3px);box-shadow:0 16px 30px -24px rgba(80,48,20,.55);border-color:#7ea99a;text-decoration:none;}
+  .vol-num{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--jade);}
+  .vol-title{font-family:'Playfair Display',Georgia,serif;font-size:16.5px;color:var(--ink);margin-top:5px;line-height:1.3;}
+
+  #notes{padding-top:24px;}
+  .term-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:8px;}
+  @media(min-width:700px){.term-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .term{border:1px solid var(--line);border-radius:8px;padding:16px;background:#fffdf8;}
+  .term b{display:block;color:var(--ink);margin-bottom:5px;}
+  .term span{font-size:14.5px;color:var(--muted);line-height:1.55;}
+  @media(prefers-reduced-motion:reduce){.js .asc [data-rv]{opacity:1;transform:none;}}
+</style>
+
+<div class="asc">
+  <section class="asc-hero">
+    <div class="asc-hero-in">
+      <nav class="asc-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › Jiaoguan Gangzong</nav>
+      <div class="asc-eyebrow" data-rv>Ouyi Zhixu · 1600s · 教觀綱宗</div>
+      <h1 data-rv style="transition-delay:.06s">The Jiaoguan Gangzong.</h1>
+      <p data-rv style="transition-delay:.12s">"The essential matter of buddhas and patriarchs is nothing but teaching and contemplation. Contemplation without teaching is not correct; teaching without contemplation cannot be transmitted." Ouyi Zhixu opens his short outline of Tiantai doctrine with that single claim, then spends the rest of the treatise making good on it — compressing the Five Periods, the Eight Teachings, and all Four Teachings of Content, each worked out with its own Four Noble Truths, its own six identities, and its own ten modes of contemplation, into one continuous structure meant to be memorized as the doctrinal key to the rest of the Tiantai corpus. This collection translates the whole treatise across five pages, with reading notes drawn throughout from Zhixu's own commentary, the <em>Jiaoguan Gangzong Shiyi</em> (X0974).</p>
+      <div class="asc-actions" data-rv style="transition-delay:.18s">
+        <a class="asc-btn primary" href="#parts">Browse the 5 parts →</a>
+        <a class="asc-btn secondary" href="#notes">Translation notes →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-intro">
+    <div class="asc-wrap asc-grid">
+      <div class="asc-panel" data-rv>
+        <h2>How to read this collection</h2>
+        <p>This is a short treatise — 479 lines in its CBETA source, with no fascicle divisions of its own — read here across five pages, split at the treatise's own major doctrinal joints rather than any division CBETA imposed: the opening framework and the Five Periods, then one page each for the Tripiṭaka, shared, distinct, and perfect teachings. Zhixu wrote this outline by expanding an earlier wall-chart of his own into a bound book, adding each of the Four Teachings' own ten modes of contemplation — and it is often read as the standard key to the far longer Tiantai treatises already translated on this site, the <em><a href="{{ '/sutras/mohe-zhiguan/' | relative_url }}">Mo-ho Chih-kuan</a></em> and the <em><a href="{{ '/sutras/shi-chan-boluomi/' | relative_url }}">Shi Chan Boluomi Cidi Famen</a></em>, both of which this treatise names directly by title.</p>
+        <p>Each page carries a continuous run of the base text, matched paragraph by paragraph against Ru-Yi's English translation, with reading notes drawn from Zhixu's own line-by-line commentary wherever it addresses the passage directly — which, across a commentary running well over the length of the root text itself, is nearly everywhere. Terminology is matched throughout to this site's three earlier Tiantai meditation projects, and recorded in the translation notes below wherever this treatise required a fresh rendering.</p>
+      </div>
+      <div class="asc-panel" data-rv style="transition-delay:.08s">
+        <h2>What each page includes</h2>
+        <ul>
+          <li>The Chinese source text beside our English translation, verified character-for-character against the base text for full coverage.</li>
+          <li>Reading notes — "after Ouyi Zhixu" wherever his commentary directly addresses the passage, which is nearly always.</li>
+          <li>Cross-references tying this treatise's classification schemes back to the site's three earlier Tiantai meditation projects.</li>
+          <li>Terminology matched to this site's existing Tiantai vocabulary wherever an established rendering already exists.</li>
+        </ul>
+        <div class="asc-stats">
+          <div class="asc-stat"><b>5</b> of 5 parts translated — complete</div>
+          <div class="asc-stat"><b>8,400+</b> Chinese characters of root text translated in full</div>
+          <div class="asc-stat"><b>X0974</b> Zhixu's own commentary, the source for every reading note</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-section" id="structure">
+    <div class="asc-wrap">
+      <div class="asc-section-head" data-rv>
+        <h2>The Treatise's Own Structure</h2>
+        <p>One continuous outline, no chapter titles of its own — but a clear internal architecture: the Eightfold classification given first, then each of the Four Teachings of Content worked out in identical order (its Four Noble Truths, its twelve links, its own contemplation, its six identities, its ten modes of contemplation), so that once the pattern is set on page 2, the parallels across pages 3, 4, and 5 do most of the teaching themselves.</p>
+      </div>
+      <div class="ch-grid">
+        <div class="ch-card" data-rv>
+          <div class="ch-num">Part 1 · 八教 / 五時</div>
+          <div class="ch-zh">Teaching and Contemplation, the Five Periods, the Four Teachings of Method</div>
+          <div class="ch-desc">The inseparable pairing that gives the treatise its title, the Eightfold outline, the Five Periods in both general and specific readings (with Guanding's polemic against a rigid twelve-year dating), and the sudden, gradual, secret, and indeterminate.</div>
+          <div class="ch-parts">Part 1 · complete</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:.05s">
+          <div class="ch-num">Part 2 · 三藏教</div>
+          <div class="ch-zh">The Tripiṭaka Teaching</div>
+          <div class="ch-desc">The Four Noble Truths of generation-and-extinction, the twelve links, the six pāramitās, the contemplation of analytical emptiness, the six identities from an ordinary person through arhatship, and the ten modes of contemplation.</div>
+          <div class="ch-parts">Part 2 · complete</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:.1s">
+          <div class="ch-num">Part 3 · 通教</div>
+          <div class="ch-zh">The Shared Teaching</div>
+          <div class="ch-desc">The Four Noble Truths of no generation, embodied emptiness, the two truths that already secretly contain the distinct or perfect teaching, the nine grounds from dry wisdom through a bodhisattva ground, and the three-tiered scheme by which sharper practitioners are grafted onward.</div>
+          <div class="ch-parts">Part 3 · complete</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:.15s">
+          <div class="ch-num">Part 4 · 別教</div>
+          <div class="ch-zh">The Distinct Teaching</div>
+          <div class="ch-desc">Eight ways this teaching stands apart from every teaching around it, the Four Noble Truths of the immeasurable, two kinds of birth-and-death, and the bodhisattva's own fifty-two sequential stages — the ten faiths, ten abidings, ten practices, ten dedications, ten grounds, equal enlightenment, and subtle enlightenment.</div>
+          <div class="ch-parts">Part 4 · complete</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:.2s;grid-column:1/-1;">
+          <div class="ch-num">Part 5 · 圓教</div>
+          <div class="ch-zh">The Perfect Teaching, and How the Four Teachings Interlock</div>
+          <div class="ch-desc">The perfect teaching's own definitions and six identities — where the other three teachings' own utmost fruit only ever reaches this teaching's identity in resemblance or a portion of the truth — the great cart and the ten modes of contemplation, the fivefold scheme of transfer, grafting, convergence, gathering, and borrowing that binds every teaching in the treatise together, and the closing dialogue on tangled vine and why there was never any real dharma to find.</div>
+          <div class="ch-parts">Part 5 · complete</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-section" id="parts" style="background:var(--cream);">
+    <div class="asc-wrap">
+      <div class="asc-section-head" data-rv>
+        <h2>Read by Part</h2>
+        <p>All five parts are translated. Each links to the full bilingual text with reading notes after Ouyi Zhixu.</p>
+      </div>
+
+      <div class="vol-grid">
+        <a class="vol-card" href="{{ '/sutras/jiaoguan-gangzong/part-01/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 1</span>
+          <span class="vol-title">Milk into Ghee, and the Method Behind the Five Periods</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/jiaoguan-gangzong/part-02/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 2</span>
+          <span class="vol-title">The Tripiṭaka Teaching, from Raw Milk to the Phantom City</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/jiaoguan-gangzong/part-03/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 3</span>
+          <span class="vol-title">The Shared Teaching, a Mirror-Image Already Empty</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/jiaoguan-gangzong/part-04/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 4</span>
+          <span class="vol-title">The Distinct Teaching, Fifty-Two Rungs of a Single Ladder</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/jiaoguan-gangzong/part-05/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 5</span>
+          <span class="vol-title">The Perfect Teaching, and How the Four Teachings Interlock</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-section" id="notes" style="background:#fff;">
+    <div class="asc-wrap">
+      <div class="asc-section-head" data-rv>
+        <h2>Translation Notes</h2>
+        <p>Recurring terms, kept consistent across all five parts — and, for the doctrinal core of the Four Teachings, with the site's three earlier Tiantai meditation projects. Where a term already had an established rendering there, we reuse it here without modification; where this treatise's own classification vocabulary needed a fresh rendering, we coined one here for later Tiantai texts to inherit. See the <a href="{{ '/sutras/jiaoguan-gangzong/translation-notes/' | relative_url }}">full translation notes</a> for the complete glossary, and also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+      </div>
+      <div class="term-grid" data-rv>
+        <div class="term"><b>藏教 / 通教 / 別教 / 圓教 — the Tripiṭaka / shared / distinct / perfect teaching</b><span>Matched to this site's existing <em>Mo-ho Chih-kuan</em> translation.</span></div>
+        <div class="term"><b>六即 — the six identities</b><span>Matched to the <em>Mo-ho Chih-kuan</em>: identity in principle / name / contemplative practice / resemblance / a portion of the truth / the ultimate.</span></div>
+        <div class="term"><b>十法 / 十乘觀法 — the ten modes of contemplation</b><span>Matched to the <em>Mo-ho Chih-kuan</em>; each of the Four Teachings has its own version, worked out in full on this collection's own pages.</span></div>
+        <div class="term"><b>化儀四教 / 化法四教 — the Four Teachings of Method / of Content</b><span>Coined fresh for this collection; the treatise's own top-level split of the Eight Teachings.</span></div>
+        <div class="term"><b>五時 — the Five Periods</b><span>Avataṃsaka, Āgama, Vaipulya, Prajñā, Lotus-and-Nirvāṇa — kept as period names, coined fresh for this collection.</span></div>
+        <div class="term"><b>真諦 / 俗諦 / 中諦 — the truth of the real / the conventional truth / the truth of the middle</b><span>Coined fresh for this collection, kept literal to preserve the real/conventional/middle triad.</span></div>
+        <div class="term"><b>但中 / 圓中 — the mere middle / the perfect middle</b><span>Coined fresh for this collection; the single distinction that determines whether a sharp shared-teaching practitioner is grafted into the distinct or the perfect teaching.</span></div>
+        <div class="term"><b>接 / 轉 / 同 / 會 / 借 — grafting / transfer / convergence / gathering / borrowing</b><span>Coined fresh for this collection; the treatise's own closing fivefold scheme for how the Four Teachings relate to one another.</span></div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
