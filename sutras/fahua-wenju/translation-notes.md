@@ -78,3 +78,23 @@ Confirmed from the source text: the exegesis of "序" (prologue) and "品" (chap
 | 阿字門 | the gate of the letter A | Siddham convention: the first syllabary letter signifies the primordial non-arising of all dharmas |
 | 頭陀 / 抖擻 | the dhūta austerities | the twelve ascetic practices; catalogued fourfold (Tripiṭaka/shared/distinct/perfect) for Kāśyapa |
 | 捨大 / 受大 / 行大 / 位大 / 結集大 / 持法大 | the greatness of renunciation / of receiving / of practice / of rank / of the Council compilation / of upholding the Dharma | Kāśyapa's sixfold "greatness" catalogue |
+
+## Fascicle 2 — The bodhisattva assembly and the six auspicious signs
+
+Confirmed from the source text: the rest of the disciple roll call (憍梵波提 Gavāmpati through Rāhula, the bhikṣuṇīs, the two thousand in training and beyond training, Mahāprajāpatī and Yaśodharā); Zhiyi's summary essay on trace-and-origin and the ten mental factors; the bodhisattva assembly's introduction and its extended thirteen-phrase "non-retrogression" (不退轉) exegesis; the eighteen-bodhisattva name list opening with Mañjuśrī and Avalokiteśvara; the miscellaneous assembly (devas, the eight dragon kings, kiṃnaras, gandharvas, asuras, garuḍas, and the human assembly including Vaidehī, Bimbisāra, and Ajātaśatru); the distinct prologue's five parts and the fourfold-audience typology; and the six auspicious signs themselves (entering samādhi, the four flowers, the sixfold earthquake, the assembly's joy, the emission of light, the light illuminating other worlds) through Maitreya's doubt and his question to Mañjuśrī.
+
+| Chinese | English | Notes |
+|---|---|---|
+| 憍梵波提 | Gavāmpati | |
+| 摩訶波闍波提 | Mahāprajāpatī | the Buddha's foster mother |
+| 耶輸陀羅 | Yaśodharā | |
+| 羅睺羅 | Rāhula | |
+| 不退轉 | non-retrogression | extended thirteen-phrase exegesis; both a "vertical" ten-grounds reading and a "horizontal" first-abode reading are given |
+| 文殊師利 | Mañjuśrī | |
+| 觀世音 | Avalokiteśvara | |
+| 得大勢 / 大勢至 | Mahāsthāmaprāpta | |
+| 釋提桓因 | Śakra | |
+| 韋提希 / 頻婆娑羅 / 阿闍世 | Vaidehī / Bimbisāra / Ajātaśatru | |
+| 通序 / 別序 | the general prologue / the specific prologue | the specific prologue's five parts frame the six auspicious signs |
+| 六瑞 | the six auspicious signs | entering samādhi, the rain of the four flowers, the sixfold earthquake, the assembly's joy, the emission of light, the light illuminating other worlds |
+| 四眾 | the fourfold assembly | typology of hearers by capacity, developed in the "distinct prologue" discussion |
