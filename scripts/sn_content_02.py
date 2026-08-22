@@ -30138,3 +30138,2966 @@ page(
         "named Mount Vepulla, closing Paṭhamavagga.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 16.1 — Santuṭṭhasutta
+# --------------------------------------------------------------------------- #
+page(
+    16, 1, "Santuṭṭha", "Content",
+    meta_title="SN 16.1 — Content | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Santuṭṭhasutta — opening Kassapasaṃyutta, Mahākassapa's "
+        "contentment with whatever robe, almsfood, lodging, or "
+        "medicine comes his way becomes the Buddha's own standard "
+        "for how every mendicant should train. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A character description of Venerable Mahākassapa, "
+                 "turned directly into a training instruction"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "opens a saṃyutta built entirely around one "
+                       "named elder as a living standard"),
+    ],
+    why=(
+        "Opening Kassapasaṃyutta, this discourse introduces the "
+        "structure the whole collection will follow: describe "
+        "something admirable about Venerable Mahākassapa, then turn "
+        "it directly into instruction. Here it's contentment with "
+        "the four basic requisites &mdash; robes, almsfood, lodging, "
+        "and medicine. Kassapa doesn't solicit improperly to get "
+        "them, doesn't worry when he lacks them, and when he does "
+        "receive them, uses them without attachment, seeing their "
+        "drawback and understanding the escape from clinging to "
+        "them. The Buddha then tells the mendicants to train exactly "
+        "this way, closing with a formula that will recur throughout "
+        "this saṃyutta: &ldquo;I will exhort you with the example of "
+        "Kassapa, or someone like him.&rdquo;"),
+    guide=[
+        ("A saṃyutta organized around one person, not one doctrine", [
+            "Unlike Dhātusaṃyutta or Anamataggasaṃyutta, each built "
+            "around a single recurring term or refrain, this "
+            "saṃyutta is organized around a single named individual "
+            "&mdash; Mahākassapa functions here the way a technical "
+            "term functioned in the collections before it."]),
+        ("The same fourfold requisite formula, four times over", [
+            "Robes, almsfood, lodging, and medicine each receive an "
+            "identical treatment &mdash; contentment praised, "
+            "improper solicitation avoided, absence not worried "
+            "over, use free of attachment &mdash; the standard "
+            "fourfold description of a well-disciplined mendicant's "
+            "relationship to material support."]),
+        ("Seeing drawback and understanding escape, echoed from elsewhere", [
+            "Ādīnavadassāvī nissaraṇapañño, &ldquo;seeing the "
+            "drawback, understanding the escape,&rdquo; uses the "
+            "same assāda-ādīnava-nissaraṇa analytical vocabulary "
+            "this collection's earlier books applied to elements and "
+            "aggregates, now applied to something as ordinary as a "
+            "robe."]),
+        ("A description that becomes an instruction without a seam", [
+            "The transition from describing Kassapa to instructing "
+            "the mendicants happens with almost no rhetorical "
+            "marker &mdash; &ldquo;Kassapa is content&hellip;&rdquo; "
+            "becomes &ldquo;you should train: we will be content"
+            "&hellip;&rdquo; as though the description already was "
+            "the instruction."]),
+        ("A closing formula this whole saṃyutta will repeat", [
+            "&ldquo;Kassapena vā hi vo&hellip;ovadissāmi,&rdquo; "
+            "&ldquo;I will exhort you with Kassapa's example,&rdquo; "
+            "recurs at the close of several discourses in this "
+            "collection, marking Kassapa as a standing reference "
+            "point the Buddha returns to repeatedly."]),
+    ],
+    terms=[
+        ("santuṭṭha",
+         "&ldquo;content&rdquo; &mdash; this discourse's title "
+         "quality, Kassapa's contentment with whatever material "
+         "support he receives."),
+        ("cīvara, piṇḍapāta, senāsana, gilānappaccayabhesajjaparikkhāra",
+         "&ldquo;robe, almsfood, lodging, medicines and supplies for "
+         "the sick&rdquo; &mdash; the four basic requisites, each "
+         "treated with an identical formula in this discourse."),
+        ("agadhito amucchito anajjhāpanno",
+         "&ldquo;untied, uninfatuated, unattached&rdquo; &mdash; the "
+         "three-part description of how Kassapa uses whatever "
+         "requisite he receives."),
+        ("ādīnavadassāvī nissaraṇapañño",
+         "&ldquo;seeing the drawback, understanding the escape&rdquo; "
+         "&mdash; the same assāda-ādīnava-nissaraṇa vocabulary used "
+         "elsewhere in this collection, applied here to ordinary "
+         "material objects."),
+        ("kassapena vā hi vo … ovadissāmi",
+         "&ldquo;I will exhort you with the example of Kassapa&rdquo; "
+         "&mdash; the closing formula marking Kassapa as a standing "
+         "reference point, recurring across this saṃyutta."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the almsfood, lodging, and medicine sections' repeated "
+        "clauses. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn16.1:1.1-1.3"),
+        ("p", "&sect;2", "sn16.1:2.1-2.1"),
+        ("p", "&sect;3", "sn16.1:3.1-3.1"),
+        ("p", "&sect;4", "sn16.1:4.1-4.1"),
+        ("p", "&sect;5", "sn16.1:5.1-5.3"),
+        ("p", "&sect;6", "sn16.1:6.1-6.5"),
+    ],
+    quiz=[
+        {"q": "What organizing principle does this saṃyutta use, unlike Dhātusaṃyutta or Anamataggasaṃyutta?",
+         "opts": [
+             "A single named individual, Mahākassapa, rather than a recurring term or refrain",
+             "An identical refrain repeated in every discourse",
+             "A purely numerical structure with no thematic content",
+             "There is no organizing principle at all"],
+         "correct": 0,
+         "expl": "Kassapa functions here the way a technical term functioned in earlier collections."},
+        {"q": "What four requisites does this discourse describe Kassapa's contentment with?",
+         "opts": [
+             "Robes, almsfood, lodging, and medicine",
+             "Wealth, fame, praise, and pleasure",
+             "Books, teachers, students, and monasteries",
+             "Only robes; the other three are not mentioned"],
+         "correct": 0,
+         "expl": "The four basic requisites, each given an identical formula."},
+        {"q": "What vocabulary does this discourse share with earlier books in this collection?",
+         "opts": [
+             "Ādīnavadassāvī nissaraṇapañño, \"seeing the drawback, understanding the escape\"",
+             "The four noble truths formula",
+             "The noble eightfold path's eight factors",
+             "No shared vocabulary exists"],
+         "correct": 0,
+         "expl": "The same assāda-ādīnava-nissaraṇa analytical framework, now applied to ordinary objects."},
+        {"q": "How does this discourse transition from describing Kassapa to instructing the mendicants?",
+         "opts": [
+             "With almost no rhetorical marker — the description becomes the instruction directly",
+             "Through an elaborate, lengthy argument spanning many paragraphs",
+             "By having a mendicant ask a specific question first",
+             "The discourse never actually instructs the mendicants"],
+         "correct": 0,
+         "expl": "\"Kassapa is content\" becomes \"we will be content\" almost seamlessly."},
+        {"q": "What formula closes this discourse, recurring across this saṃyutta?",
+         "opts": [
+             "\"I will exhort you with the example of Kassapa, or someone like him\"",
+             "\"The Linked Discourses on Kassapa are complete\"",
+             "\"This is quite enough to become disillusioned\"",
+             "No closing formula is used"],
+         "correct": 0,
+         "expl": "Marking Kassapa as a standing reference point the Buddha returns to."},
+        {"q": "What does \"agadhito amucchito anajjhāpanno\" describe?",
+         "opts": [
+             "How Kassapa uses a requisite once he receives it — untied, uninfatuated, unattached",
+             "How Kassapa solicits requisites from donors",
+             "A meditative attainment unrelated to material objects",
+             "A description of Kassapa's physical appearance"],
+         "correct": 0,
+         "expl": "The quality of non-attachment in actual use, not merely in acquisition."},
+        {"q": "What does Kassapa not do, according to this discourse, regarding requisites he lacks?",
+         "opts": [
+             "He doesn't worry if he doesn't get them",
+             "He aggressively seeks them out through improper means",
+             "He refuses to accept them even when offered",
+             "The discourse doesn't address this situation"],
+         "correct": 0,
+         "expl": "Aladdhā ca … na paritassati, undisturbed by absence."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "Venerable Mahākassapa himself",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Varanasi, in the deer park at Isipatana",
+             "At Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Paṭhamaṁ, \"the first\"",
+             "Dutiyaṁ, \"the second\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The first discourse of this new saṃyutta."},
+    ],
+    marginalia=[
+        ("A person, not a term, holding the saṃyutta together", [
+            "Kassapa named directly, not a refrain &mdash;",
+            "a living example, not an abstract formula",
+        ]),
+        ("Four requisites, one identical shape", [
+            "robe, almsfood, lodging, medicine &mdash;",
+            "content, unattached, seeing the drawback in each",
+        ]),
+        ("Description sliding into instruction", [
+            "\"Kassapa is content\" becomes \"we will be\" &mdash;",
+            "almost no seam between the two",
+        ]),
+        ("A refrain that will return again and again", [
+            "\"I will exhort you with Kassapa's example\" &mdash;",
+            "a standing reference point across this whole collection",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn16.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.20.html">SN 15.20 &middot; Mount Vepulla</a> '
+        "&mdash; the discourse closing Anamataggasaṃyutta, "
+        "immediately before this one.",
+        '<a href="sn-16.2.html">SN 16.2 &middot; Imprudent</a> '
+        "&mdash; the next discourse, a direct dialogue between "
+        "Sāriputta and Kassapa on keenness and prudence.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 16.2 — Anottappīsutta
+# --------------------------------------------------------------------------- #
+page(
+    16, 2, "Anottappī", "Imprudent",
+    meta_title="SN 16.2 — Imprudent | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anottappīsutta — Sāriputta questions Mahākassapa "
+        "directly at Isipatana's deer park, and Kassapa explains "
+        "keenness and prudence through the anxious diligence of the "
+        "four right efforts. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Varanasi, in the deer park at Isipatana"),
+        ("Speakers", "Venerable Sāriputta and Venerable Mahākassapa, "
+                     "in direct peer dialogue"),
+        ("Form", "The full formal opening, a question, and a "
+                 "structured four-part explanation"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; a genuine doctrinal dialogue between "
+                       "two chief disciples, denser than SN 16.1"),
+    ],
+    why=(
+        "Unlike SN 16.1, where the Buddha spoke about Kassapa, this "
+        "discourse is a direct conversation between two of the "
+        "Buddha's chief disciples, with no Buddha present at all. "
+        "Sāriputta poses a claim to Kassapa: without being keen "
+        "(ātāpī) and prudent (ottappī), awakening, extinguishment, "
+        "and the supreme sanctuary from the yoke are impossible. "
+        "Kassapa explains exactly what this means by walking through "
+        "the four right efforts &mdash; preventing unarisen "
+        "unskillful qualities, abandoning arisen ones, developing "
+        "unarisen skillful qualities, and maintaining arisen ones "
+        "&mdash; each one, Kassapa explains, requires an anxious, "
+        "attentive awareness that neglect here leads to real harm."),
+    guide=[
+        ("A conversation between peers, not a teaching from above", [
+            "This is the first discourse in this saṃyutta where the "
+            "Buddha doesn't appear at all; two senior disciples "
+            "discuss doctrine directly with each other, at a "
+            "location, Isipatana, famous as the site of the first "
+            "sermon."]),
+        ("Keenness and prudence explained through anxious diligence", [
+            "Ātāpī and ottappī aren't defined abstractly; Kassapa "
+            "explains them entirely through a specific pattern of "
+            "thought &mdash; foreseeing that neglect of the four "
+            "right efforts will lead to harm, and letting that "
+            "foresight actively drive practice."]),
+        ("The four right efforts, present without being named", [
+            "Preventing unarisen unskillful qualities, abandoning "
+            "arisen unskillful qualities, developing unarisen "
+            "skillful qualities, and maintaining arisen skillful "
+            "qualities &mdash; the classic fourfold effort formula "
+            "appears here in full, though the technical term "
+            "sammappadhāna itself is never used."]),
+        ("The identical structure applied twice, to failure and success", [
+            "Kassapa first explains anātāpī and anottappī (not keen, "
+            "not prudent) through the absence of this thinking "
+            "pattern, then explains ātāpī and ottappī through its "
+            "presence &mdash; the same four right efforts, framed "
+            "twice, once each way."]),
+        ("A discourse with no closing exhortation formula", [
+            "Unlike SN 16.1's closing reference to Kassapa as a "
+            "standard for others to follow, this discourse simply "
+            "ends with Kassapa's answer &mdash; there's no Buddha "
+            "present to draw the pedagogical conclusion the way SN "
+            "16.1's closing formula does."]),
+    ],
+    terms=[
+        ("ātāpī, ottappī",
+         "&ldquo;keen, prudent&rdquo; &mdash; the two qualities "
+         "Sāriputta's opening claim says are necessary for "
+         "awakening, and this discourse's central subject."),
+        ("sambodhi, nibbāna, anuttaraṁ yogakkhemaṁ",
+         "&ldquo;awakening, extinguishment, the supreme sanctuary "
+         "from the yoke&rdquo; &mdash; the three attainments said to "
+         "be unreachable without keenness and prudence."),
+        ("anuppannā … pāpakā akusalā dhammā",
+         "&ldquo;unarisen bad, unskillful qualities&rdquo; &mdash; "
+         "the first of four categories in the effort formula "
+         "Kassapa's explanation walks through."),
+        ("anatthāya saṁvatteyyuṁ",
+         "&ldquo;would lead to harm&rdquo; &mdash; the anticipatory "
+         "thought pattern Kassapa identifies as the actual content "
+         "of keenness and prudence."),
+        ("isipatane migadāye",
+         "&ldquo;in the deer park at Isipatana&rdquo; &mdash; this "
+         "discourse's setting near Varanasi, the site traditionally "
+         "associated with the Buddha's first sermon."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the repeated effort-formula clauses. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn16.2:1.1-1.6"),
+        ("p", "&sect;2", "sn16.2:2.1-2.4"),
+        ("p", "&sect;3", "sn16.2:3.1-3.4"),
+        ("p", "&sect;4", "sn16.2:4.1-4.3"),
+        ("p", "&sect;5", "sn16.2:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What is genuinely different about this discourse's speakers, compared to SN 16.1?",
+         "opts": [
+             "The Buddha doesn't appear at all; two senior disciples converse directly",
+             "This discourse is spoken entirely by the Buddha alone",
+             "A visiting brahmin questions Kassapa",
+             "There is no difference in speakers between the two discourses"],
+         "correct": 0,
+         "expl": "A direct peer conversation between Sāriputta and Kassapa."},
+        {"q": "What claim does Sāriputta open with?",
+         "opts": [
+             "Without being keen and prudent, awakening, extinguishment, and the supreme sanctuary from the yoke are impossible",
+             "Kassapa's contentment with requisites is unnecessary for awakening",
+             "Only the Buddha himself can achieve full awakening",
+             "Keenness and prudence are irrelevant to spiritual practice"],
+         "correct": 0,
+         "expl": "The claim Kassapa then explains and unpacks in detail."},
+        {"q": "How does Kassapa explain what keenness and prudence actually consist of?",
+         "opts": [
+             "Through the four right efforts, framed as anxious foresight that neglect leads to harm",
+             "Through an entirely unrelated meditation technique",
+             "By reciting a specific verse without further explanation",
+             "He declines to answer Sāriputta's question"],
+         "correct": 0,
+         "expl": "Preventing, abandoning, developing, and maintaining, each driven by anticipated harm."},
+        {"q": "Is the technical term \"sammappadhāna\" (right effort) used explicitly in this discourse?",
+         "opts": [
+             "No — the fourfold formula appears in full, but the technical term itself is never used",
+             "Yes, it is named explicitly at the very start",
+             "The discourse doesn't discuss anything resembling right effort",
+             "Only two of the four efforts are mentioned, not all four"],
+         "correct": 0,
+         "expl": "The content of the classic formula, without its usual label."},
+        {"q": "How many times does Kassapa apply the same fourfold structure, and to what?",
+         "opts": [
+             "Twice — once to explain the absence of keenness/prudence, once to explain their presence",
+             "Only once, addressing keenness alone",
+             "Three times, adding a discussion of wisdom as well",
+             "The structure is applied only to failure, never to success"],
+         "correct": 0,
+         "expl": "The identical four right efforts, framed first negatively, then positively."},
+        {"q": "How does this discourse end, compared to SN 16.1?",
+         "opts": [
+             "With Kassapa's answer alone, no closing exhortation formula naming Kassapa as a standard for others",
+             "With the identical \"I will exhort you with Kassapa's example\" formula",
+             "With a question left deliberately unanswered",
+             "With the Buddha suddenly appearing to conclude the discussion"],
+         "correct": 0,
+         "expl": "No Buddha present to draw the pedagogical conclusion SN 16.1 closed with."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Near Varanasi, in the deer park at Isipatana",
+             "At Sāvatthī",
+             "At Rājagaha, on the Vulture's Peak",
+             "At Ñātika, in the brick house"],
+         "correct": 0,
+         "expl": "The traditional site of the Buddha's first sermon."},
+        {"q": "What three attainments does Sāriputta say require keenness and prudence?",
+         "opts": [
+             "Awakening, extinguishment, and the supreme sanctuary from the yoke",
+             "Wealth, fame, and long life",
+             "Physical strength, eloquence, and memory",
+             "No specific attainments are named"],
+         "correct": 0,
+         "expl": "Sambodhi, nibbāna, and anuttaraṁ yogakkhemaṁ."},
+        {"q": "What opens this discourse, distinct from most discourses in this collection?",
+         "opts": [
+             "The full \"so I have heard\" formal opening",
+             "A bare, unelaborated setting notice only",
+             "A dedication of merit",
+             "This discourse has no opening formula at all"],
+         "correct": 0,
+         "expl": "The complete traditional formula marking a discourse's beginning."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dutiyaṁ, \"the second\"",
+             "Paṭhamaṁ, \"the first\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The second discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("Two disciples, no Buddha present", [
+            "Sāriputta questions, Kassapa answers &mdash;",
+            "a genuine peer conversation, not a teaching from above",
+        ]),
+        ("Anxiety turned into diligence", [
+            "\"this will lead to harm,\" thought again and again &mdash;",
+            "the actual content of keenness and prudence",
+        ]),
+        ("A classic formula, unnamed", [
+            "the four right efforts, spelled out in full &mdash;",
+            "never once called by their usual technical name",
+        ]),
+        ("An ending without a moral drawn", [
+            "no \"follow Kassapa's example\" here &mdash;",
+            "just the answer itself, given and left standing",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn16.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-16.1.html">SN 16.1 &middot; Content</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-16.3.html">SN 16.3 &middot; Like the Moon</a> '
+        "&mdash; the next discourse, returning to the Buddha's own "
+        "voice and the recurring \"exhort with Kassapa's example\" "
+        "formula.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 16.3 — Candūpamāsutta
+# --------------------------------------------------------------------------- #
+page(
+    16, 3, "Candūpamā", "Like the Moon",
+    meta_title="SN 16.3 — Like the Moon | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Candūpamāsutta — approach families like the moon, "
+        "withdrawn and never presumptuous, and teach only out of "
+        "compassion, not for others' approval — both qualities "
+        "modeled by Kassapa. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, with the assembled mendicants "
+                     "deferring each question back to him"),
+        ("Form", "Two paired teaching-moments, each opened by a "
+                 "vivid image, deferred to the Buddha, then modeled "
+                 "by Kassapa"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "combines two distinct teaching devices in "
+                       "one discourse, worth tracking separately"),
+    ],
+    why=(
+        "This discourse gives two teachings in one, both eventually "
+        "anchored in Kassapa's example. First: approach families "
+        "like the moon, withdrawn in body and mind, always the "
+        "newcomer, never presumptuous &mdash; like someone peering "
+        "cautiously down at an old well or a dangerous cliff edge. "
+        "When the mendicants defer the deeper question to the "
+        "Buddha, he waves his own hand in empty space to show how a "
+        "mind untouched by craving for gain isn't &ldquo;stuck or "
+        "held or caught&rdquo; by whether donors give or don't. "
+        "Second, on a related but distinct question: what makes a "
+        "mendicant's teaching pure or impure? Impure teaching hopes "
+        "for the audience's approval in return; pure teaching simply "
+        "wants them to understand and practice, out of compassion "
+        "alone. Kassapa is named as living proof of both."),
+    guide=[
+        ("A simile drawn from ordinary caution", [
+            "The moon image is immediately followed by something "
+            "more mundane and visceral: looking down at an old well "
+            "or a sheer cliff, the body instinctively pulling back "
+            "&mdash; grounding an abstract virtue in a physical "
+            "reflex everyone has felt."]),
+        ("A gesture used as a teaching tool", [
+            "Rather than only explaining non-attachment verbally, "
+            "the Buddha waves his hand through open air, letting the "
+            "mendicants see directly that it isn't caught or held by "
+            "anything &mdash; a rare moment where a physical "
+            "demonstration substitutes for further argument."]),
+        ("Equanimity extended to other people's gains, not just one's own", [
+            "The formula &ldquo;may those who want things get them, "
+            "may those who want merit make merit&rdquo; asks for "
+            "something more demanding than simple non-attachment: "
+            "being just as pleased by someone else's good fortune as "
+            "by one's own."]),
+        ("Two different questions, the same deferral pattern", [
+            "Both times the Buddha asks the assembly a question, the "
+            "mendicants respond identically &mdash; deferring "
+            "entirely to him as their guide and refuge &mdash; "
+            "before he answers and then confirms Kassapa already "
+            "embodies the answer."]),
+        ("Motive as the deciding factor in teaching itself", [
+            "The distinction between pure and impure teaching turns "
+            "entirely on the teacher's internal wish &mdash; wanting "
+            "the audience's approval versus wanting their genuine "
+            "understanding &mdash; not on the content or eloquence "
+            "of the teaching itself."]),
+    ],
+    terms=[
+        ("candūpamā kulāni upasaṅkamatha",
+         "&ldquo;approach families like the moon&rdquo; &mdash; "
+         "this discourse's title image and its first teaching."),
+        ("apakasseva kāyaṁ, apakassa cittaṁ",
+         "&ldquo;withdrawn in body and mind&rdquo; &mdash; the "
+         "physical and mental posture the moon simile illustrates."),
+        ("na sajjati na gayhati na bajjhati",
+         "&ldquo;not stuck or held or caught&rdquo; &mdash; the "
+         "description of the Buddha's hand in space, and by "
+         "extension a mind untouched by craving for gain."),
+        ("labhantu lābhakāmā, puññakāmā karontu puññāni",
+         "&ldquo;may those who want things get them, may those who "
+         "want merit make merit&rdquo; &mdash; the equanimous "
+         "attitude toward others' gains, not just one's own."),
+        ("aparisuddhā dhammadesanā, parisuddhā dhammadesanā",
+         "&ldquo;impure teaching, pure teaching&rdquo; &mdash; "
+         "distinguished entirely by whether the teacher hopes for "
+         "the audience's approval or simply their understanding."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn16.3:1.1-1.7"),
+        ("p", "&sect;2", "sn16.3:2.1-2.5"),
+        ("p", "&sect;3", "sn16.3:3.1-3.6"),
+        ("p", "&sect;4", "sn16.3:4.1-4.4"),
+        ("p", "&sect;5", "sn16.3:5.1-5.6"),
+        ("p", "&sect;6", "sn16.3:6.1-6.3"),
+        ("p", "&sect;7", "sn16.3:7.1-7.5"),
+        ("p", "&sect;8", "sn16.3:8.1-8.5"),
+    ],
+    quiz=[
+        {"q": "What image opens this discourse's first teaching?",
+         "opts": [
+             "Approaching families like the moon — withdrawn, always the newcomer, never presumptuous",
+             "Approaching families like the sun — bright and commanding attention",
+             "A stick tossed randomly into the air",
+             "A mountain worn away by a cloth's touch"],
+         "correct": 0,
+         "expl": "This discourse's title image, immediately reinforced by a well-and-cliff comparison."},
+        {"q": "What physical demonstration does the Buddha use to illustrate non-attachment?",
+         "opts": [
+             "Waving his own hand through open space, showing it isn't stuck, held, or caught",
+             "Pointing toward a distant mountain",
+             "Holding up a bowl of almsfood",
+             "No physical demonstration is used in this discourse"],
+         "correct": 0,
+         "expl": "A rare direct physical demonstration substituting for further verbal argument."},
+        {"q": "What does the equanimous attitude this discourse describes extend to?",
+         "opts": [
+             "Being just as pleased by another person's gain as by one's own",
+             "Only caring about one's own material gains",
+             "Refusing all forms of material support entirely",
+             "Feeling indifferent toward everyone's wellbeing, including one's own"],
+         "correct": 0,
+         "expl": "\"May those who want things get them, may those who want merit make merit\" — extended equanimity."},
+        {"q": "What distinguishes pure teaching from impure teaching, according to this discourse?",
+         "opts": [
+             "Whether the teacher hopes for the audience's approval, or simply wants them to understand",
+             "The specific words and phrases used in the teaching",
+             "How long the teaching lasts",
+             "Whether the audience is large or small"],
+         "correct": 0,
+         "expl": "A distinction based entirely on internal motive, not content or eloquence."},
+        {"q": "How do the mendicants respond both times the Buddha poses a deeper question?",
+         "opts": [
+             "They defer entirely to the Buddha as their guide and refuge",
+             "They immediately answer correctly without hesitation",
+             "They argue among themselves before answering",
+             "They remain completely silent with no response at all"],
+         "correct": 0,
+         "expl": "An identical deferral pattern both times, before the Buddha answers."},
+        {"q": "Who is named as embodying both qualities this discourse describes?",
+         "opts": [
+             "Venerable Mahākassapa",
+             "Venerable Sāriputta",
+             "Venerable Ānanda",
+             "No specific individual is named"],
+         "correct": 0,
+         "expl": "Both the moon-like family visiting and the pure motive for teaching."},
+        {"q": "What image reinforces the moon simile early in this discourse?",
+         "opts": [
+             "A person looking down at an old well, a rugged cliff, or an inaccessible riverland",
+             "A person climbing a tall mountain",
+             "A person crossing a wide river",
+             "No reinforcing image is given"],
+         "correct": 0,
+         "expl": "A physical instinct of withdrawal everyone has felt."},
+        {"q": "Who is the primary speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Mahākassapa, addressing Sāriputta",
+             "An unnamed brahmin",
+             "Several mendicants speaking in turn"],
+         "correct": 0,
+         "expl": "The Buddha teaches directly, with the mendicants only briefly deferring back to him."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Varanasi, in the deer park at Isipatana",
+             "At Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Tatiyaṁ, \"the third\"",
+             "Dutiyaṁ, \"the second\"",
+             "Catutthaṁ, \"the fourth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The third discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("A body's own instinct, made into a virtue", [
+            "withdrawn, like looking down a cliff edge &mdash;",
+            "caution turned into spiritual practice",
+        ]),
+        ("A hand in empty air, teaching without words", [
+            "not stuck, not held, not caught &mdash;",
+            "a gesture standing in for an argument",
+        ]),
+        ("Equanimity extended past oneself", [
+            "as glad for another's gain as one's own &mdash;",
+            "a harder standard than simple non-attachment",
+        ]),
+        ("Motive alone deciding purity", [
+            "wanting approval, or wanting understanding &mdash;",
+            "the same words, judged by what's underneath them",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn16.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-16.2.html">SN 16.2 &middot; Imprudent</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-16.4.html">SN 16.4 &middot; Visiting Families</a> '
+        "&mdash; the next discourse, developing this discourse's "
+        "equanimity theme into a detailed contrast between two "
+        "kinds of mendicant.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 16.4 — Kulūpakasutta
+# --------------------------------------------------------------------------- #
+page(
+    16, 4, "Kulūpaka", "Visiting Families",
+    meta_title="SN 16.4 — Visiting Families | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kulūpakasutta — one mendicant suffers whenever a "
+        "family's giving falls short of five specific expectations; "
+        "another, like Kassapa, releases every one of them. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, with the mendicants deferring the "
+                     "question back to him"),
+        ("Form", "A contrast between two mendicants, each tested "
+                 "against five identical conditions of giving"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a detailed elaboration of SN 16.3's "
+                       "equanimity theme"),
+    ],
+    why=(
+        "This discourse takes SN 16.3's equanimity theme and breaks "
+        "it into five concrete, testable conditions: whether a "
+        "family gives at all, gives generously or meagerly, gives "
+        "fine things or coarse, gives quickly or slowly, and gives "
+        "carefully or carelessly. One kind of mendicant privately "
+        "insists on the better outcome in every case &mdash; "
+        "receiving, generous, fine, quick, careful giving &mdash; "
+        "and feels slighted, experiencing real pain and sadness, "
+        "whenever any single condition falls short. The other kind "
+        "asks how they could possibly hold such expectations of "
+        "other people's families in the first place, and so remains "
+        "entirely unaffected whichever way the giving actually goes. "
+        "Kassapa, once again, is the second kind."),
+    guide=[
+        ("Five conditions, tested identically for each mendicant", [
+            "Whether something is given at all, how much, how fine, "
+            "how quickly, and how carefully &mdash; the same five "
+            "tests are run against both the entitled mendicant and "
+            "the released one, making the contrast precise rather "
+            "than a vague generalization."]),
+        ("Suffering traced to a private expectation, not to the giving itself", [
+            "The discourse doesn't blame families for giving little "
+            "or slowly; it locates the pain entirely in the "
+            "mendicant's own prior thought, &ldquo;may they give to "
+            "me, and give well&rdquo; &mdash; the expectation itself "
+            "is what creates the vulnerability to disappointment."]),
+        ("A logically framed release, not merely an attitude adjustment", [
+            "The unaffected mendicant's stance isn't simply "
+            "cheerfulness; it's phrased as a genuine question "
+            "&mdash; &ldquo;how could I possibly expect this from "
+            "other people's families?&rdquo; &mdash; treating the "
+            "original entitlement as a kind of category error about "
+            "what one could reasonably ask of others."]),
+        ("The identical structure repeated for Kassapa specifically", [
+            "After establishing the general contrast between "
+            "worthy and unworthy visitors, the discourse restates "
+            "the entire five-condition test a third time, this time "
+            "naming Kassapa by name as the one who meets it without "
+            "exception."]),
+        ("A companion piece to SN 16.3's family-visiting teaching", [
+            "Where SN 16.3 illustrated non-attachment through image "
+            "and gesture, this discourse works out the same "
+            "underlying point mechanically, condition by condition "
+            "&mdash; the two discourses complement rather than "
+            "repeat each other."]),
+    ],
+    terms=[
+        ("kulūpako",
+         "&ldquo;one who visits families&rdquo; &mdash; this "
+         "discourse's title concept, tested here against worthiness "
+         "and unworthiness."),
+        ("dentuyeva me, mā nādaṁsu",
+         "&ldquo;may they give to me, may they not fail to give&rdquo; "
+         "&mdash; the first of five private expectations the "
+         "entitled mendicant holds."),
+        ("sandīyati",
+         "&ldquo;feels slighted&rdquo; &mdash; the emotional "
+         "response this discourse identifies whenever any of the "
+         "five expectations goes unmet."),
+        ("taṁ kutettha labbhā parakulesu",
+         "&ldquo;how could I possibly expect this among other "
+         "families&rdquo; &mdash; the released mendicant's framing, "
+         "treating the original entitlement as unreasonable from the "
+         "start."),
+        ("dukkhaṁ domanassaṁ paṭisaṁvedayati",
+         "&ldquo;experiences pain and sadness&rdquo; &mdash; the "
+         "explicit consequence named for the entitled mendicant, "
+         "and explicitly absent for the released one."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the repeated five-condition test's middle clauses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn16.4:1.1-1.5"),
+        ("p", "&sect;2", "sn16.4:2.1-2.12"),
+        ("p", "&sect;3", "sn16.4:3.1-3.13"),
+        ("p", "&sect;4", "sn16.4:4.1-4.13"),
+    ],
+    quiz=[
+        {"q": "What five conditions does this discourse test both kinds of mendicant against?",
+         "opts": [
+             "Whether something is given at all, and how much, how fine, how quickly, and how carefully",
+             "The mendicant's age, seniority, robe color, ordination date, and teacher",
+             "Only one condition: whether anything is given at all",
+             "The location, time of day, weather, season, and number of donors"],
+         "correct": 0,
+         "expl": "Five precise, testable conditions applied identically to both mendicant types."},
+        {"q": "Where does this discourse locate the source of a mendicant's suffering?",
+         "opts": [
+             "In the mendicant's own prior expectation, not in the family's actual giving",
+             "Entirely in the stinginess of the donor family",
+             "In bad luck or fate beyond anyone's control",
+             "The discourse doesn't identify any specific source"],
+         "correct": 0,
+         "expl": "The expectation itself creates the vulnerability to disappointment."},
+        {"q": "How does the released mendicant frame their own lack of expectation?",
+         "opts": [
+             "As a genuine question — how could I possibly expect this from other people's families?",
+             "As simple indifference with no underlying reasoning",
+             "As a rule imposed by monastic discipline",
+             "As resentment toward wealthy donor families"],
+         "correct": 0,
+         "expl": "Treating the original entitlement as a kind of category error, not just an attitude to drop."},
+        {"q": "How many times is the five-condition test applied across this discourse?",
+         "opts": [
+             "Three times — the entitled mendicant, the released mendicant, and Kassapa specifically",
+             "Only once, applied to a generic unnamed mendicant",
+             "Five times, once per condition separately",
+             "The test is never actually applied in this discourse"],
+         "correct": 0,
+         "expl": "General contrast, then a specific restatement naming Kassapa."},
+        {"q": "How does this discourse relate to SN 16.3?",
+         "opts": [
+             "A companion piece working out the same equanimity point mechanically, condition by condition",
+             "A direct contradiction of SN 16.3's teaching",
+             "An entirely unrelated topic with no connection",
+             "An exact word-for-word repetition of SN 16.3"],
+         "correct": 0,
+         "expl": "Image and gesture in SN 16.3, mechanical precision here."},
+        {"q": "What happens to the released mendicant when a family gives only a little, or slowly, or carelessly?",
+         "opts": [
+             "They don't feel slighted and don't experience pain or sadness because of it",
+             "They feel deeply slighted regardless of their stated attitude",
+             "They immediately leave the family's home in protest",
+             "The discourse doesn't address this specific situation"],
+         "correct": 0,
+         "expl": "Complete equanimity across all five conditions, unlike the entitled mendicant."},
+        {"q": "What term names the emotional response the entitled mendicant experiences?",
+         "opts": [
+             "Sandīyati, \"feels slighted\"",
+             "Pasīdati, \"gains confidence\"",
+             "Nibbindati, \"grows disillusioned\"",
+             "No specific term is used for this response"],
+         "correct": 0,
+         "expl": "The precise term this discourse repeats after each unmet condition."},
+        {"q": "Who is named as the mendicant who meets all five conditions without exception?",
+         "opts": [
+             "Venerable Mahākassapa",
+             "Venerable Sāriputta",
+             "Venerable Ānanda",
+             "No specific individual is named"],
+         "correct": 0,
+         "expl": "The discourse's third and final application of the five-condition test."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Varanasi, in the deer park at Isipatana",
+             "At Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Catutthaṁ, \"the fourth\"",
+             "Tatiyaṁ, \"the third\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fourth discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("Five conditions, tested precisely", [
+            "gives or not, much or little, fine or coarse &mdash;",
+            "quick or slow, careful or careless",
+        ]),
+        ("Pain traced back to a private hope", [
+            "not the family's fault, but the expectation itself &mdash;",
+            "the wanting that creates room for disappointment",
+        ]),
+        ("Release framed as a real question", [
+            "\"how could I possibly expect this?\" &mdash;",
+            "not mere cheer, but a rethinking of the claim itself",
+        ]),
+        ("The same test, run a third time on Kassapa", [
+            "every condition, met without exception &mdash;",
+            "the general case, then the specific proof",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn16.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-16.3.html">SN 16.3 &middot; Like the Moon</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-16.5.html">SN 16.5 &middot; Old Age</a> '
+        "&mdash; the next discourse, turning to Kassapa's own "
+        "advancing years.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 16.5 — Jiṇṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    16, 5, "Jiṇṇa", "Old Age",
+    meta_title="SN 16.5 — Old Age | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Jiṇṇasutta — the Buddha, concerned for the now-elderly "
+        "Kassapa, offers him an easier life; Kassapa declines, citing "
+        "future generations, and the Buddha reverses his own "
+        "suggestion. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, in the Bamboo Grove"),
+        ("Speakers", "The Buddha and Venerable Mahākassapa, in "
+                     "direct personal conversation"),
+        ("Form", "A personal exchange: an offer, a respectful "
+                 "decline with reasons, and the Buddha's reversal"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; one of this saṃyutta's most "
+                       "personally warm and narratively developed "
+                       "discourses"),
+    ],
+    why=(
+        "This discourse shows a side of the Buddha-Kassapa "
+        "relationship none of the discourses before it have: genuine "
+        "personal concern. Noticing that Kassapa is now old and that "
+        "his coarse, worn hempen rag robes must be a burden, the "
+        "Buddha suggests he accept householder-donated robes, accept "
+        "invitations to meals, and stay close by the Buddha himself "
+        "&mdash; a real, practical offer of an easier old age. "
+        "Kassapa respectfully declines, and explains why: he sees "
+        "two benefits in his continued austerity, his own happiness "
+        "in this very life, and compassion for future generations, "
+        "who might follow his example precisely because a direct "
+        "disciple of the Buddha maintained it. The Buddha's response "
+        "isn't disappointment but praise &mdash; and he reverses his "
+        "own earlier suggestion entirely, telling Kassapa to keep "
+        "wearing the rag robes, keep walking for alms, keep living "
+        "in the wilderness."),
+    guide=[
+        ("A teacher's personal concern, stated plainly", [
+            "&ldquo;You're old now, Kassapa&rdquo; is a simple, "
+            "direct observation of physical fact, and the offer that "
+            "follows &mdash; better robes, regular meals, staying "
+            "near the Buddha &mdash; is a genuinely practical "
+            "accommodation, not merely a rhetorical setup."]),
+        ("A respectful decline, backed by explicit reasoning", [
+            "Kassapa doesn't simply refuse; when asked directly what "
+            "benefit he sees in continuing his austerities, he gives "
+            "a considered, two-part answer rather than an appeal to "
+            "habit or stubbornness."]),
+        ("The first benefit: happiness in this very life", [
+            "Diṭṭhadhammasukhavihāra, a happy dwelling in the present "
+            "life, is named as Kassapa's own direct, personal reason "
+            "&mdash; austerity isn't framed as mere sacrifice for "
+            "others but as something genuinely satisfying to him."]),
+        ("The second benefit: a legacy for disciples not yet born", [
+            "Kassapa's compassion extends specifically to "
+            "&ldquo;future generations&rdquo; who might think, "
+            "seeing that a direct disciple of the Buddha maintained "
+            "such rigor, that they too should practice this way "
+            "&mdash; making his own conduct a deliberate model for "
+            "people he will never meet."]),
+        ("The Buddha reversing his own offer", [
+            "Rather than simply accepting Kassapa's refusal, the "
+            "Buddha explicitly endorses it &mdash; &ldquo;good, "
+            "good, Kassapa&rdquo; &mdash; and tells him to continue "
+            "exactly the practices he'd just offered to ease, "
+            "confirming that Kassapa's reasoning, not the Buddha's "
+            "initial concern, should prevail."]),
+    ],
+    terms=[
+        ("jiṇṇosi dāni tvaṁ, kassapa",
+         "&ldquo;you're old now, Kassapa&rdquo; &mdash; the Buddha's "
+         "opening observation, this discourse's title condition."),
+        ("dve atthavase",
+         "&ldquo;two benefits&rdquo; &mdash; the exact number "
+         "Kassapa gives for continuing his austere practice, "
+         "structuring his entire answer."),
+        ("attano ca diṭṭhadhammasukhavihāraṁ",
+         "&ldquo;happiness for myself in this very life&rdquo; "
+         "&mdash; the first benefit, a genuinely personal "
+         "satisfaction, not mere self-denial."),
+        ("pacchimañca janataṁ anukampamāno",
+         "&ldquo;sympathy for future generations&rdquo; &mdash; the "
+         "second benefit, Kassapa's conduct deliberately modeled for "
+         "disciples not yet born."),
+        ("sādhu sādhu, kassapa",
+         "&ldquo;good, good, Kassapa!&rdquo; &mdash; the Buddha's "
+         "direct praise, immediately followed by his reversal of "
+         "his own earlier suggestion."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the repeated nine-quality list's middle clauses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn16.5:1.1-1.5"),
+        ("p", "&sect;2", "sn16.5:2.1-2.1"),
+        ("p", "&sect;3", "sn16.5:3.1-3.8"),
+        ("p", "&sect;4", "sn16.5:4.1-4.8"),
+        ("p", "&sect;5", "sn16.5:5.1-5.12"),
+        ("p", "&sect;6", "sn16.5:6.1-6.8"),
+        ("p", "&sect;7", "sn16.5:7.1-7.3"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha offer Kassapa at the start of this discourse?",
+         "opts": [
+             "Householder-donated robes, meal invitations, and staying close to the Buddha",
+             "A promotion to head a specific monastery",
+             "Permission to ordain new disciples independently",
+             "A teaching he must memorize and recite"],
+         "correct": 0,
+         "expl": "A genuinely practical accommodation for Kassapa's old age."},
+        {"q": "How does Kassapa respond to the Buddha's offer?",
+         "opts": [
+             "He respectfully declines and explains his reasoning when asked",
+             "He accepts immediately without any comment",
+             "He becomes angry at the suggestion",
+             "He asks another mendicant to answer on his behalf"],
+         "correct": 0,
+         "expl": "A considered decline, not a simple refusal."},
+        {"q": "What is the first of the two benefits Kassapa names?",
+         "opts": [
+             "Happiness for himself in this very life",
+             "Financial security for his old age",
+             "Recognition and praise from other mendicants",
+             "Freedom from all future rebirths immediately"],
+         "correct": 0,
+         "expl": "Diṭṭhadhammasukhavihāra, a genuinely personal satisfaction."},
+        {"q": "What is the second benefit Kassapa names?",
+         "opts": [
+             "Compassion for future generations, who might follow his example",
+             "A wish to outlive all his fellow disciples",
+             "A desire for solitude away from other people",
+             "No second benefit is given"],
+         "correct": 0,
+         "expl": "Modeling rigorous practice for disciples not yet born."},
+        {"q": "How does the Buddha respond to Kassapa's explanation?",
+         "opts": [
+             "He praises Kassapa directly and reverses his own earlier suggestion",
+             "He insists Kassapa accept the offer regardless",
+             "He expresses disappointment in Kassapa's answer",
+             "He asks Kassapa to reconsider one more time"],
+         "correct": 0,
+         "expl": "\"Good, good, Kassapa\" followed by an explicit reversal."},
+        {"q": "What does the Buddha ultimately tell Kassapa to do?",
+         "opts": [
+             "Continue wearing worn-out rag robes, walk for alms, and live in the wilderness",
+             "Accept the very accommodations the Buddha first suggested",
+             "Retire from active teaching entirely",
+             "Travel to a different region to continue practicing"],
+         "correct": 0,
+         "expl": "The Buddha's own initial suggestion reversed by the discourse's end."},
+        {"q": "What quality does the Buddha attribute to Kassapa's chosen path, in his closing praise?",
+         "opts": [
+             "Acting for the welfare and happiness of many people, out of sympathy for the world",
+             "Personal ambition unrelated to others' welfare",
+             "Simple habit with no larger significance",
+             "No specific quality is named"],
+         "correct": 0,
+         "expl": "Bahujanahitāya, connecting Kassapa's personal choice to a wider benefit."},
+        {"q": "What list of qualities does Kassapa recite when explaining his long-standing practice?",
+         "opts": [
+             "Wilderness-dwelling, alms-only eating, rag robes, three robes, few wishes, contentment, seclusion, aloofness, and energy",
+             "Wealth, fame, eloquence, memory, and physical strength",
+             "Only a single quality: patience",
+             "No specific list is given"],
+         "correct": 0,
+         "expl": "A nine-quality list Kassapa has both practiced and praised for a long time."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Sāvatthī",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "A setting shared with SN 16.2's Sāriputta-Kassapa dialogue location's general region."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Pañcamaṁ, \"the fifth\"",
+             "Catutthaṁ, \"the fourth\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fifth discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("Concern stated plainly, not dressed up", [
+            "\"you're old now, Kassapa\" &mdash;",
+            "a simple fact, followed by a real offer",
+        ]),
+        ("A decline backed by real reasoning", [
+            "not stubbornness, but two named benefits &mdash;",
+            "one personal, one for people not yet born",
+        ]),
+        ("A model built for disciples he'll never meet", [
+            "future generations, hoping to follow &mdash;",
+            "compassion reaching past his own lifetime",
+        ]),
+        ("The teacher's own offer, reversed", [
+            "\"good, good, Kassapa\" &mdash; then agreement",
+            "keep the rags, keep the alms round, keep the wilderness",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn16.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-16.4.html">SN 16.4 &middot; Visiting Families</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-16.6.html">SN 16.6 &middot; Advice</a> '
+        "&mdash; the next discourse, the first of three consecutive "
+        "discourses on Kassapa giving advice to other mendicants.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 16.6 — Ovādasutta
+# --------------------------------------------------------------------------- #
+page(
+    16, 6, "Ovāda", "Advice",
+    meta_title="SN 16.6 — Advice | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ovādasutta — asked to advise the mendicants, Kassapa "
+        "names a real problem: two young monks competing over who "
+        "can recite the most, best, and longest. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, in the Bamboo Grove"),
+        ("Speakers", "The Buddha, Venerable Mahākassapa, and two "
+                     "unnamed junior monks"),
+        ("Form", "A request, a specific named complaint, a summons, "
+                 "a confession, and forgiveness"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "opens a three-discourse set on advising the "
+                       "monastic community"),
+    ],
+    why=(
+        "The Buddha asks Kassapa to either advise the mendicants "
+        "himself or let the Buddha do it. Kassapa's answer is candid "
+        "rather than diplomatic: the mendicants these days are hard "
+        "to admonish, impatient, and don't take instruction "
+        "respectfully &mdash; and he names a specific case. Two "
+        "young monks, one Ānanda's protégé and the other Anuruddha's, "
+        "have been competing over who can recite more, better, and "
+        "longer, treating study as a contest rather than practice. "
+        "The Buddha summons them directly, confirms the accusation, "
+        "and delivers a sharp rebuke. The two monks immediately "
+        "confess, apologize, and ask to restrain themselves in "
+        "future &mdash; and the Buddha accepts their confession, "
+        "closing with a teaching that recognizing and correcting a "
+        "mistake is itself a form of growth."),
+    guide=[
+        ("A candid answer, not a diplomatic deflection", [
+            "Kassapa doesn't soften his assessment of the current "
+            "monastic community; &ldquo;hard to admonish&hellip; "
+            "impatient&hellip; don't take instruction respectfully"
+            "&rdquo; is a direct, unflattering diagnosis offered "
+            "without hedging."]),
+        ("A specific, named example rather than a vague complaint", [
+            "Kassapa doesn't merely generalize; he names the two "
+            "monks involved, identifies whose protégés they are, and "
+            "quotes their exact competitive taunt &mdash; giving the "
+            "Buddha, and the reader, something concrete to evaluate."]),
+        ("Competitive recitation named as a genuine failure", [
+            "&ldquo;Who can speak more, who can speak better, who "
+            "can speak longer&rdquo; turns study, ostensibly a "
+            "spiritual discipline, into a status contest &mdash; the "
+            "Buddha's sharp question, &ldquo;have you ever known me "
+            "to teach the Dhamma like this?&rdquo;, exposes exactly "
+            "how far this has drifted from the actual purpose of "
+            "learning."]),
+        ("Genuine confession, not mere compliance", [
+            "The two monks don't simply stop when caught; they bow "
+            "at the Buddha's feet, explicitly name their own conduct "
+            "as foolish, stupid, and unskillful, and ask for future "
+            "restraint &mdash; a complete, unprompted acknowledgment "
+            "rather than a grudging correction."]),
+        ("Growth defined as the capacity to recognize and correct fault", [
+            "The Buddha's closing teaching reframes the entire "
+            "episode: it isn't merely that a mistake was made and "
+            "then fixed, but that recognizing a mistake, dealing "
+            "with it properly, and committing to restraint is itself "
+            "what growth in the Noble One's training looks like."]),
+    ],
+    terms=[
+        ("ovada, kassapa, bhikkhū",
+         "&ldquo;Kassapa, advise the mendicants!&rdquo; &mdash; the "
+         "Buddha's opening request, this discourse's title subject."),
+        ("dubbacā … dovacassakaraṇehi dhammehi",
+         "&ldquo;hard to admonish&hellip;having qualities that make "
+         "them hard to admonish&rdquo; &mdash; Kassapa's blunt "
+         "diagnosis of the current monastic community."),
+        ("ko bahutaraṁ bhāsissati, ko sundarataraṁ bhāsissati, ko "
+         "cirataraṁ bhāsissati",
+         "&ldquo;who can speak more, who can speak better, who can "
+         "speak longer&rdquo; &mdash; the exact competitive taunt "
+         "Kassapa reports and the Buddha condemns."),
+        ("moghapurisā",
+         "&ldquo;futile men&rdquo; &mdash; the Buddha's sharp term "
+         "of rebuke for the two competing monks."),
+        ("vuddhi hesā … ariyassa vinaye",
+         "&ldquo;this is growth in the training of the Noble One&rdquo; "
+         "&mdash; the Buddha's closing reframe, naming honest "
+         "correction of fault as spiritual growth itself."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn16.6:1.1-1.6"),
+        ("p", "&sect;2", "sn16.6:2.1-2.3"),
+        ("p", "&sect;3", "sn16.6:3.1-3.5"),
+        ("p", "&sect;4", "sn16.6:4.1-4.10"),
+        ("p", "&sect;5", "sn16.6:5.1-5.4"),
+        ("p", "&sect;6", "sn16.6:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha ask Kassapa to do at the start of this discourse?",
+         "opts": [
+             "Advise the mendicants or give them a Dhamma talk",
+             "Travel to a distant region to teach",
+             "Ordain a group of new mendicants",
+             "Compose a new set of monastic rules"],
+         "correct": 0,
+         "expl": "Either Kassapa or the Buddha himself will do it."},
+        {"q": "How does Kassapa characterize the mendicants \"these days\"?",
+         "opts": [
+             "Hard to admonish, impatient, and not taking instruction respectfully",
+             "Exceptionally disciplined and easy to teach",
+             "Uninterested in any form of study",
+             "Kassapa offers no characterization at all"],
+         "correct": 0,
+         "expl": "A candid, unflattering diagnosis offered directly."},
+        {"q": "What specific example does Kassapa give?",
+         "opts": [
+             "Two young monks competing over who can recite more, better, and longer",
+             "A monk who refuses to eat almsfood",
+             "A dispute over monastery property",
+             "No specific example is given"],
+         "correct": 0,
+         "expl": "Named individuals and their exact competitive taunt."},
+        {"q": "How does the Buddha respond upon confirming the accusation is true?",
+         "opts": [
+             "He delivers a sharp rebuke, asking if he ever taught the Dhamma as a competition",
+             "He praises the monks for their diligent study habits",
+             "He ignores the matter entirely",
+             "He punishes them without any further discussion"],
+         "correct": 0,
+         "expl": "\"Have you ever known me to teach the Dhamma like this?\""},
+        {"q": "How do the two monks respond to the Buddha's rebuke?",
+         "opts": [
+             "They bow at his feet, confess their fault as foolish and unskillful, and ask for future restraint",
+             "They deny any wrongdoing",
+             "They blame each other for the incident",
+             "They leave the monastic order immediately"],
+         "correct": 0,
+         "expl": "A complete, unprompted confession rather than mere compliance."},
+        {"q": "What does the Buddha's closing teaching identify as genuine growth?",
+         "opts": [
+             "Recognizing a mistake, dealing with it properly, and committing to future restraint",
+             "Never making any mistake in the first place",
+             "Punishing others harshly for their mistakes",
+             "Avoiding all forms of study and recitation"],
+         "correct": 0,
+         "expl": "A reframing of the whole episode around the value of honest correction."},
+        {"q": "Whose protégés are the two competing monks?",
+         "opts": [
+             "Ānanda's and Anuruddha's",
+             "Sāriputta's and Moggallāna's",
+             "Kassapa's own two protégés",
+             "The discourse doesn't specify their teachers"],
+         "correct": 0,
+         "expl": "Bhaṇḍa (Ānanda's) and Abhiñjika (Anuruddha's)."},
+        {"q": "What term does the Buddha use to rebuke the two monks?",
+         "opts": [
+             "Moghapurisā, \"futile men\"",
+             "Kalyāṇamittā, \"good friends\"",
+             "Bahussutā, \"the learned\"",
+             "No specific term of rebuke is used"],
+         "correct": 0,
+         "expl": "A sharp, direct term marking the severity of the rebuke."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Sāvatthī",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The same general region as SN 16.5's personal exchange."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The sixth discourse of this saṃyutta, opening a three-part set on advice."},
+    ],
+    marginalia=[
+        ("A diagnosis offered without softening", [
+            "\"hard to admonish, impatient\" &mdash;",
+            "Kassapa names the problem directly",
+        ]),
+        ("Study turned into a contest", [
+            "\"who can speak more, better, longer\" &mdash;",
+            "the exact taunt, quoted and condemned",
+        ]),
+        ("Confession offered before it's demanded", [
+            "bowed at the Buddha's feet, unprompted &mdash;",
+            "\"foolish, stupid, unskillful,\" they call it themselves",
+        ]),
+        ("A mistake reframed as the site of growth", [
+            "not the absence of fault, but its correction &mdash;",
+            "named directly as the Noble One's own training",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn16.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-16.5.html">SN 16.5 &middot; Old Age</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-16.7.html">SN 16.7 &middot; Advice (2nd)</a> '
+        "&mdash; the next discourse, Kassapa's own extended teaching "
+        "on decline and growth in skillful qualities.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 16.7 — Dutiyaovādasutta
+# --------------------------------------------------------------------------- #
+page(
+    16, 7, "Dutiyaovāda", "Advice (2nd)",
+    meta_title="SN 16.7 — Advice (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaovādasutta — Kassapa teaches decline and growth "
+        "through the waning and waxing moon, and the Buddha repeats "
+        "the entire teaching back in his own voice. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, in the Bamboo Grove"),
+        ("Speakers", "Venerable Mahākassapa, then the Buddha "
+                     "repeating the same teaching"),
+        ("Form", "A moon simile applied symmetrically to decline "
+                 "and growth, taught first by Kassapa, then "
+                 "confirmed word for word by the Buddha"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a substantial doctrinal teaching, symmetrical "
+                       "in structure and worth tracking through both "
+                       "halves"),
+    ],
+    why=(
+        "Asked again to advise the mendicants, Kassapa this time "
+        "doesn't just name a problem &mdash; he delivers a complete "
+        "teaching. Whoever lacks faith, conscience, prudence, "
+        "energy, and wisdom regarding skillful qualities can expect "
+        "only decline, like the moon in its waning fortnight, losing "
+        "beauty, roundness, and light every day. Whoever has these "
+        "five qualities can expect only growth, like the moon "
+        "waxing. Kassapa names eight kinds of person in decline "
+        "(faithless, without conscience, imprudent, lazy, witless, "
+        "irritable, resentful, or lacking mendicant advisers "
+        "altogether) and their eight opposites. What makes this "
+        "discourse distinctive is what happens next: rather than "
+        "simply praising Kassapa, the Buddha repeats the entire "
+        "teaching back, nearly word for word, in his own voice."),
+    guide=[
+        ("A full teaching, not just a complaint this time", [
+            "Where SN 16.6 gave Kassapa's candid diagnosis of a "
+            "specific incident, this discourse shows him delivering "
+            "a complete, structured doctrinal teaching &mdash; the "
+            "kind of Dhamma talk the Buddha originally asked for."]),
+        ("The waning and waxing moon as a precise symmetry", [
+            "Every attribute the waning moon loses &mdash; beauty, "
+            "roundness, luminosity, size &mdash; is mirrored exactly "
+            "by what the waxing moon gains, giving the simile a "
+            "structural completeness matching the decline-and-growth "
+            "teaching it illustrates."]),
+        ("Five qualities recognizable from elsewhere in this collection", [
+            "Faith, conscience, prudence, energy, and wisdom overlap "
+            "substantially with the septet Dutiyavagga built an "
+            "entire combinatorial sequence from in Dhātusaṃyutta, "
+            "here applied specifically to the question of spiritual "
+            "decline and growth."]),
+        ("Two new categories beyond the earlier septet", [
+            "Kodhana and upanāhī, irritability and resentment (or "
+            "their positive counterparts), and the presence or "
+            "absence of mendicant advisers altogether, extend beyond "
+            "the five core qualities into interpersonal temperament "
+            "and institutional support."]),
+        ("The Buddha repeating, not merely approving", [
+            "Rather than a brief \"good, good\" as in earlier "
+            "discourses, the Buddha restates Kassapa's entire "
+            "teaching &mdash; the moon simile, all eight declining "
+            "types, all eight thriving types &mdash; confirming it "
+            "not just as correct but as worth teaching again in his "
+            "own words."]),
+    ],
+    terms=[
+        ("saddhā, hirī, ottappaṁ, vīriyaṁ, paññā",
+         "&ldquo;faith, conscience, prudence, energy, wisdom&rdquo; "
+         "&mdash; the five qualities whose presence or absence "
+         "determines growth or decline, echoing Dutiyavagga's "
+         "septet in Dhātusaṃyutta."),
+        ("kāḷapakkhe candassa, juṇhapakkhe candassa",
+         "&ldquo;the moon in the waning fortnight, the moon in the "
+         "waxing fortnight&rdquo; &mdash; this discourse's central "
+         "simile, applied symmetrically to decline and growth."),
+        ("kodhano, upanāhī",
+         "&ldquo;irritable, resentful&rdquo; &mdash; two categories "
+         "of decline extending beyond the core five-quality list "
+         "into interpersonal temperament."),
+        ("na santi bhikkhū ovādakā",
+         "&ldquo;there are no mendicant advisers&rdquo; &mdash; the "
+         "final category of decline, naming institutional absence "
+         "of guidance itself as a cause."),
+        ("parihānametaṁ, aparihānametaṁ",
+         "&ldquo;this is decline, this is no decline&rdquo; &mdash; "
+         "the recurring verdict closing each of the sixteen "
+         "individual-type statements."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own extensive "
+        "elision as the Buddha repeats Kassapa's teaching back in "
+        "his own voice. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn16.7:1.1-1.7"),
+        ("p", "&sect;2", "sn16.7:2.1-2.2"),
+        ("p", "&sect;3", "sn16.7:3.1-3.6"),
+        ("p", "&sect;4", "sn16.7:4.1-4.8"),
+        ("p", "&sect;5", "sn16.7:5.1-5.1"),
+        ("p", "&sect;6", "sn16.7:6.1-6.6"),
+        ("p", "&sect;7", "sn16.7:7.1-7.8"),
+        ("p", "&sect;8", "sn16.7:8.1-8.6"),
+        ("p", "&sect;9", "sn16.7:9.1-9.15"),
+        ("p", "&sect;10", "sn16.7:10.1-10.5"),
+        ("p", "&sect;11", "sn16.7:11.1-11.5"),
+        ("p", "&sect;12", "sn16.7:12.1-12.8"),
+    ],
+    quiz=[
+        {"q": "What five qualities does Kassapa say determine growth or decline in skillful qualities?",
+         "opts": [
+             "Faith, conscience, prudence, energy, and wisdom",
+             "Wealth, fame, eloquence, memory, and strength",
+             "Only a single quality: patience",
+             "Kindness, generosity, patience, honesty, and courage"],
+         "correct": 0,
+         "expl": "The same five qualities appearing in Dutiyavagga's septet from Dhātusaṃyutta."},
+        {"q": "What simile does Kassapa use to illustrate decline and growth?",
+         "opts": [
+             "The waning and waxing moon",
+             "A mountain being worn away",
+             "A river flowing to the sea",
+             "A tree growing and then withering"],
+         "correct": 0,
+         "expl": "Precise symmetry between what the waning moon loses and the waxing moon gains."},
+        {"q": "What two categories extend beyond the five core qualities?",
+         "opts": [
+             "Irritability/resentment, and the presence or absence of mendicant advisers",
+             "Wealth and poverty",
+             "Youth and old age",
+             "No categories extend beyond the five core qualities"],
+         "correct": 0,
+         "expl": "Interpersonal temperament and institutional support, beyond the core five."},
+        {"q": "What does the Buddha do after Kassapa finishes his teaching?",
+         "opts": [
+             "He repeats the entire teaching back, nearly word for word, in his own voice",
+             "He simply says \"good, good\" with no further elaboration",
+             "He contradicts Kassapa's teaching entirely",
+             "He asks Kassapa to explain further"],
+         "correct": 0,
+         "expl": "A substantial restatement, not a brief approval."},
+        {"q": "How does this discourse's content compare to SN 16.6's?",
+         "opts": [
+             "A complete, structured doctrinal teaching, rather than a diagnosis of one specific incident",
+             "Identical in every respect to SN 16.6",
+             "An unrelated topic with no connection to SN 16.6",
+             "A direct contradiction of SN 16.6's teaching"],
+         "correct": 0,
+         "expl": "The full Dhamma talk the Buddha originally asked for, in SN 16.6 and again here."},
+        {"q": "How many individual-type statements does Kassapa give for decline, and how many for growth?",
+         "opts": [
+             "Eight for decline and eight for growth",
+             "Five for decline and five for growth",
+             "Only one statement for each",
+             "Ten for decline and ten for growth"],
+         "correct": 0,
+         "expl": "Eight paired categories, each closing with \"this is decline\" or \"this is no decline.\""},
+        {"q": "What does the absence of mendicant advisers represent in this discourse's framework?",
+         "opts": [
+             "A distinct cause of decline in its own right, beyond individual character qualities",
+             "An irrelevant detail with no bearing on decline or growth",
+             "A cause of growth, not decline",
+             "This category is not mentioned in the discourse"],
+         "correct": 0,
+         "expl": "Institutional guidance treated as its own factor, not reducible to personal qualities."},
+        {"q": "What connection does this reading guide draw to Dutiyavagga in Dhātusaṃyutta?",
+         "opts": [
+             "The five core qualities substantially overlap with the septet that vagga built a combinatorial sequence from",
+             "No connection exists between the two collections",
+             "This discourse directly quotes Dutiyavagga's uddāna verse",
+             "The two collections use entirely unrelated vocabulary"],
+         "correct": 0,
+         "expl": "Faith, conscience, prudence, energy, and wisdom, recognizable from SN 14.17's septet."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Sāvatthī",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The same setting as SN 16.5 and 16.6."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Sattamaṁ, \"the seventh\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The seventh discourse of this saṃyutta, the second of three on advice."},
+    ],
+    marginalia=[
+        ("A complaint becomes a complete teaching", [
+            "not just a diagnosis this time &mdash;",
+            "a full, structured Dhamma talk instead",
+        ]),
+        ("A moon that loses exactly what it later gains", [
+            "beauty, roundness, light, size &mdash;",
+            "waning and waxing in perfect mirror",
+        ]),
+        ("Familiar qualities, a familiar echo", [
+            "faith, conscience, prudence, energy, wisdom &mdash;",
+            "the same five from Dutiyavagga's septet",
+        ]),
+        ("Approval that becomes repetition", [
+            "not just \"good, good\" this time &mdash;",
+            "the whole teaching, retold in the Buddha's own voice",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn16.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-16.6.html">SN 16.6 &middot; Advice</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-16.8.html">SN 16.8 &middot; Advice (3rd)</a> '
+        "&mdash; the next and most severe discourse in this set, "
+        "the Buddha's own diagnosis of how monastic honor has "
+        "shifted from virtue to fame.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 16.8 — Tatiyaovādasutta
+# --------------------------------------------------------------------------- #
+page(
+    16, 8, "Tatiyaovāda", "Advice (3rd)",
+    meta_title="SN 16.8 — Advice (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyaovādasutta — the Buddha's own diagnosis: senior "
+        "mendicants once honored virtue, now honor fame and "
+        "material success, to the community's lasting harm. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, in the squirrels' feeding "
+                    "ground"),
+        ("Speakers", "The Buddha, responding directly to Kassapa's "
+                     "now-familiar complaint"),
+        ("Form", "A historical contrast between two eras of "
+                 "monastic honor, closing on the Buddha's starkest "
+                 "warning in this saṃyutta"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; the most institutionally significant "
+                       "and severe discourse in this saṃyutta, "
+                       "closing this three-part set"),
+    ],
+    why=(
+        "For a third time, Kassapa repeats the same complaint: "
+        "mendicants these days are hard to admonish. This time the "
+        "Buddha doesn't ask him to elaborate; he explains why "
+        "himself. Formerly, senior mendicants honored a junior monk "
+        "&mdash; inviting him to sit, praising his name &mdash; "
+        "specifically for practicing the ascetic virtues: wilderness "
+        "dwelling, almsfood, rag robes, few wishes, contentment, "
+        "energy. Junior monks who saw this followed the example, and "
+        "it served their lasting welfare and happiness. But these "
+        "days, the Buddha says, senior mendicants no longer live "
+        "or praise that way at all; instead they honor whoever is "
+        "well-known, famous, and receives abundant robes, almsfood, "
+        "lodging, and medicine. Junior monks now follow that example "
+        "instead &mdash; and it serves their lasting harm and "
+        "suffering. The Buddha closes with his starkest statement in "
+        "this saṃyutta: if it could ever rightly be said that "
+        "spiritual practitioners are endangered by one of their own, "
+        "it is exactly these days that this would be true."),
+    guide=[
+        ("A historical contrast, not an abstract principle", [
+            "The Buddha doesn't speak in generalities; he draws a "
+            "direct before-and-after comparison between what senior "
+            "mendicants used to honor and what they honor now, "
+            "treating institutional change itself as the subject."]),
+        ("The same nine-quality list, now marking absence rather than presence", [
+            "The identical list of ascetic virtues praised in SN "
+            "16.1 and SN 16.5 &mdash; wilderness-dwelling, almsfood, "
+            "rag robes, few wishes, contentment, seclusion, "
+            "aloofness, energy &mdash; reappears here, but now "
+            "describing what senior mendicants have stopped "
+            "practicing and stopped praising."]),
+        ("An exact structural inversion of welfare and harm", [
+            "When juniors followed virtue-based honor, the text says "
+            "explicitly it served &ldquo;their lasting welfare and "
+            "happiness&rdquo;; when they follow fame-based honor "
+            "instead, the identical sentence structure now says it "
+            "serves &ldquo;their lasting harm and suffering&rdquo; "
+            "&mdash; the same grammatical frame, opposite outcome."]),
+        ("Honor redirected from virtue to material success", [
+            "The new criterion for a seat of honor isn't practice at "
+            "all; it's being ñāto yasassī lābhī, well-known, famous, "
+            "and a recipient of abundant material support &mdash; "
+            "status measured by visibility and possessions rather "
+            "than by discipline."]),
+        ("A warning about danger from within, not from outside", [
+            "The Buddha's closing statement doesn't warn about "
+            "external threats to the tradition; it names the "
+            "possibility that spiritual practitioners could be "
+            "endangered specifically by other spiritual "
+            "practitioners &mdash; and states plainly that this "
+            "danger is already present."]),
+    ],
+    terms=[
+        ("etarahi … therā bhikkhū",
+         "&ldquo;these days&hellip;the senior mendicants&rdquo; "
+         "&mdash; the Buddha's framing for the present decline, "
+         "contrasted directly with pubbe, &ldquo;formerly.&rdquo;"),
+        ("āsanena nimantenti",
+         "&ldquo;invite to a seat&rdquo; &mdash; the act of honor "
+         "this discourse tracks, given first for virtue and later "
+         "for fame."),
+        ("ñāto yasassī lābhī",
+         "&ldquo;well-known, famous, a recipient [of abundant "
+         "support]&rdquo; &mdash; the new criterion for honor, "
+         "replacing the earlier virtue-based one."),
+        ("dīgharattaṁ hitāya sukhāya, dīgharattaṁ ahitāya dukkhāya",
+         "&ldquo;for their lasting welfare and happiness&rdquo; / "
+         "&ldquo;for their lasting harm and suffering&rdquo; &mdash; "
+         "the identical sentence structure applied to opposite "
+         "outcomes, marking the exact inversion this discourse "
+         "describes."),
+        ("upaddutā brahmacārī brahmacārūpaddavena",
+         "&ldquo;spiritual practitioners imperiled by the peril of a "
+         "spiritual practitioner&rdquo; &mdash; the Buddha's "
+         "starkest closing warning, naming danger from within the "
+         "community rather than from outside it."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn16.8:1.1-1.6"),
+        ("p", "&sect;2", "sn16.8:2.1-2.2"),
+        ("p", "&sect;3", "sn16.8:3.1-3.2"),
+        ("p", "&sect;4", "sn16.8:4.1-4.5"),
+        ("p", "&sect;5", "sn16.8:5.1-5.1"),
+        ("p", "&sect;6", "sn16.8:6.1-6.2"),
+        ("p", "&sect;7", "sn16.8:7.1-7.7"),
+    ],
+    quiz=[
+        {"q": "What did senior mendicants formerly honor a junior monk for, according to this discourse?",
+         "opts": [
+             "Practicing ascetic virtues — wilderness dwelling, almsfood, rag robes, few wishes, contentment, energy",
+             "Wealth inherited from their family before ordination",
+             "Speed in reciting scripture",
+             "Physical strength and endurance"],
+         "correct": 0,
+         "expl": "The same nine-quality list praised in SN 16.1 and 16.5."},
+        {"q": "What do senior mendicants honor a junior monk for \"these days,\" according to the Buddha?",
+         "opts": [
+             "Being well-known, famous, and a recipient of abundant material support",
+             "The identical ascetic virtues as before, unchanged",
+             "Nothing at all; honor has disappeared entirely",
+             "Only their family's wealth and social status"],
+         "correct": 0,
+         "expl": "Ñāto yasassī lābhī — fame and material success, not practice."},
+        {"q": "What outcome does the discourse attribute to junior monks following virtue-based honor?",
+         "opts": [
+             "Their lasting welfare and happiness",
+             "Their lasting harm and suffering",
+             "No specific outcome is mentioned",
+             "Immediate full awakening"],
+         "correct": 0,
+         "expl": "The earlier, virtue-based pattern of honor."},
+        {"q": "What outcome does the discourse attribute to junior monks following fame-based honor instead?",
+         "opts": [
+             "Their lasting harm and suffering",
+             "Their lasting welfare and happiness, identical to before",
+             "No specific outcome is mentioned",
+             "Immediate expulsion from the monastic order"],
+         "correct": 0,
+         "expl": "The exact same sentence structure, now with the opposite outcome."},
+        {"q": "What is significant about the Buddha's closing statement about danger to spiritual practitioners?",
+         "opts": [
+             "It names danger from within the community itself, not from external threats, as already present",
+             "It warns only about dangers from hostile outside forces",
+             "It denies that any danger exists at all",
+             "It refers to a danger that will only arise far in the future"],
+         "correct": 0,
+         "expl": "A warning about corruption from within, stated as a present reality."},
+        {"q": "How does this discourse's structure work rhetorically?",
+         "opts": [
+             "A direct historical before-and-after contrast, not an abstract principle",
+             "A purely hypothetical scenario with no historical claim",
+             "A dialogue where Kassapa provides most of the content",
+             "A series of unconnected, unrelated statements"],
+         "correct": 0,
+         "expl": "Pubbe (formerly) versus etarahi (these days), a direct comparison."},
+        {"q": "What does this discourse share with SN 16.1 and SN 16.5?",
+         "opts": [
+             "The identical nine-quality list of ascetic virtues, now marking absence rather than presence",
+             "An identical narrative with the same characters and events",
+             "Nothing; the three discourses are entirely unrelated",
+             "A direct quotation of SN 16.1's closing formula"],
+         "correct": 0,
+         "expl": "The same list, now describing what's been lost rather than what's practiced."},
+        {"q": "What complaint does Kassapa repeat for a third time, opening this discourse?",
+         "opts": [
+             "That mendicants these days are hard to admonish, impatient, and don't take instruction respectfully",
+             "That there isn't enough almsfood for the community",
+             "That the monastery buildings need repair",
+             "No complaint is repeated; this discourse begins differently"],
+         "correct": 0,
+         "expl": "The same opening as SN 16.6 and 16.7, this time answered by the Buddha himself."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Near Rājagaha, in the squirrels' feeding ground",
+             "At Sāvatthī",
+             "Near Varanasi, in the deer park at Isipatana",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "A distinct location from SN 16.5-7's Bamboo Grove setting, though still near Rājagaha."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "Navamaṁ, \"the ninth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eighth discourse of this saṃyutta, closing the three-part set on advice."},
+    ],
+    marginalia=[
+        ("The same list, now marking what's missing", [
+            "wilderness, almsfood, rag robes, energy &mdash;",
+            "once honored, now no longer even practiced",
+        ]),
+        ("One sentence, flipped to its opposite", [
+            "\"lasting welfare and happiness\" &mdash;",
+            "becomes \"lasting harm and suffering,\" word for word",
+        ]),
+        ("Fame and possessions replacing discipline", [
+            "well-known, well-supplied, widely admired &mdash;",
+            "the new measure of who deserves a seat",
+        ]),
+        ("A danger named as already here", [
+            "not a threat from outside, but from within &mdash;",
+            "stated plainly as this era's own reality",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn16.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-16.7.html">SN 16.7 &middot; Advice (2nd)</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-16.9.html">SN 16.9 &middot; Absorptions and Insights</a> '
+        "&mdash; the next discourse, returning to Kassapa's own "
+        "meditative attainments.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 16.9 — Jhānābhiññasutta
+# --------------------------------------------------------------------------- #
+page(
+    16, 9, "Jhānābhiñña", "Absorptions and Insights",
+    meta_title="SN 16.9 — Absorptions and Insights | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Jhānābhiññasutta — the Buddha lists his own complete "
+        "mastery of the four absorptions, the formless attainments, "
+        "the six higher knowledges, and full liberation, adding "
+        "after every single one, \"and so does Kassapa.\" From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "Fifteen consecutive declarations, each stating the "
+                 "Buddha's own attainment and then Kassapa's "
+                 "identical one"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; the most doctrinally comprehensive "
+                       "discourse in this saṃyutta, covering the "
+                       "complete meditative and liberative path"),
+    ],
+    why=(
+        "This may be the highest tribute paid to any single disciple "
+        "anywhere in this collection. The Buddha lists, one after "
+        "another, the complete traditional sequence of meditative "
+        "and liberative attainment: all four absorptions, all four "
+        "formless dimensions, the cessation of perception and "
+        "feeling, psychic power, clairaudience, the ability to read "
+        "other minds in detail, the recollection of countless past "
+        "lives, the divine eye that sees beings reborn according to "
+        "their deeds, and finally the complete ending of defilements "
+        "&mdash; full liberation itself. After each and every one, "
+        "without exception, the Buddha adds four words: "
+        "&ldquo;Kassapopi&hellip;&rdquo;, &ldquo;and so does "
+        "Kassapa.&rdquo; Fifteen times over, the Buddha declares that "
+        "Kassapa possesses, whenever he wishes, exactly what the "
+        "Buddha himself possesses."),
+    guide=[
+        ("A complete map of the path, not a partial list", [
+            "Nothing traditionally counted among the highest "
+            "attainments is left out: the four jhānas, the four "
+            "formless attainments, cessation itself, all six of the "
+            "higher knowledges, and arahantship &mdash; every stage "
+            "an advanced practitioner might reach appears here in "
+            "sequence."]),
+        ("A refrain repeated exactly fifteen times", [
+            "&ldquo;Kassapopi, bhikkhave&hellip;&rdquo;, &ldquo;and "
+            "Kassapa too&hellip;&rdquo;, closes every single "
+            "declaration without variation &mdash; the repetition "
+            "itself becomes part of the discourse's meaning, "
+            "insisting on completeness rather than a few "
+            "representative examples."]),
+        ("Mind-reading given the most granular treatment", [
+            "Of all fifteen attainments, only the mind-reading "
+            "knowledge (cetopariyañāṇa) is broken into its full "
+            "eight paired categories &mdash; greedy or free of "
+            "greed, hateful or free of hate, deluded or free of "
+            "delusion, and five more pairs &mdash; giving this "
+            "single ability unusually detailed attention."]),
+        ("Attainment stated as available on demand, not as a memory", [
+            "Every declaration uses yāvade ākaṅkhāmi, &ldquo;whenever "
+            "I want,&rdquo; for both the Buddha and Kassapa &mdash; "
+            "these aren't attainments reached once in the past, but "
+            "abilities each can exercise at will, in the present."]),
+        ("A declaration of equality, not merely of praise", [
+            "Where earlier discourses in this saṃyutta held Kassapa "
+            "up as a model to imitate, this discourse does something "
+            "different: it states, attainment by attainment, that "
+            "Kassapa already stands exactly where the Buddha stands, "
+            "not approaching the standard but meeting it in full."]),
+    ],
+    terms=[
+        ("cattāri jhānāni",
+         "the four absorptions &mdash; the first four attainments "
+         "declared in this discourse, moving from rapture and "
+         "applied thought through to pure equanimity and "
+         "mindfulness."),
+        ("cattāro āruppā, saññāvedayitanirodha",
+         "the four formless dimensions and the cessation of "
+         "perception and feeling &mdash; the next five attainments, "
+         "continuing beyond the jhānas into formless and then "
+         "non-perceptual states."),
+        ("iddhividha, dibbasota, cetopariyañāṇa, pubbenivāsānussati, "
+         "dibbacakkhu",
+         "psychic power, clairaudience, mind-reading, recollection "
+         "of past lives, and the divine eye &mdash; five of the six "
+         "traditional higher knowledges, each declared for both the "
+         "Buddha and Kassapa."),
+        ("āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ",
+         "&ldquo;the undefiled freedom of heart and freedom by "
+         "wisdom, through the ending of defilements&rdquo; &mdash; "
+         "the sixth and final attainment, full liberation itself, "
+         "closing the discourse."),
+        ("kassapopi, bhikkhave",
+         "&ldquo;and Kassapa too, mendicants&rdquo; &mdash; the "
+         "refrain closing every one of the fifteen declarations "
+         "without exception."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own extensive "
+        "elision of repeated clauses. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn16.9:1.1-1.3"),
+        ("p", "&sect;2", "sn16.9:2.1-2.2"),
+        ("p", "&sect;3", "sn16.9:3.1-3.2"),
+        ("p", "&sect;4", "sn16.9:4.1-4.2"),
+        ("p", "&sect;5", "sn16.9:5.1-5.2"),
+        ("p", "&sect;6", "sn16.9:6.1-6.2"),
+        ("p", "&sect;7", "sn16.9:7.1-7.2"),
+        ("p", "&sect;8", "sn16.9:8.1-8.2"),
+        ("p", "&sect;9", "sn16.9:9.1-9.2"),
+        ("p", "&sect;10", "sn16.9:10.1-10.2"),
+        ("p", "&sect;11", "sn16.9:11.1-11.2"),
+        ("p", "&sect;12", "sn16.9:12.1-12.18"),
+        ("p", "&sect;13", "sn16.9:13.1-13.2"),
+        ("p", "&sect;14", "sn16.9:14.1-14.2"),
+        ("p", "&sect;15", "sn16.9:15.1-15.2"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha declare after each and every attainment he lists?",
+         "opts": [
+             "\"And so does Kassapa\" — that Kassapa possesses the identical attainment",
+             "That only he himself possesses this attainment",
+             "That Kassapa will eventually reach this attainment in a future life",
+             "Nothing further is said after each attainment"],
+         "correct": 0,
+         "expl": "The refrain repeated exactly fifteen times, without exception."},
+        {"q": "How many total attainments does this discourse declare for both the Buddha and Kassapa?",
+         "opts": [
+             "Fifteen — the four jhānas, five further meditative states, five higher knowledges, and final liberation",
+             "Only three, covering the four jhānas alone",
+             "A single attainment, full liberation",
+             "An unspecified, vague number"],
+         "correct": 0,
+         "expl": "A complete traditional sequence, not a partial or representative list."},
+        {"q": "Which attainment receives the most detailed, granular treatment in this discourse?",
+         "opts": [
+             "Mind-reading (cetopariyañāṇa), broken into eight paired categories",
+             "The first absorption alone",
+             "Psychic power, described only in general terms",
+             "No attainment receives more detail than any other"],
+         "correct": 0,
+         "expl": "Eight distinct pairs, from greed/no-greed through freed/unfreed mind."},
+        {"q": "What phrase does each declaration use, describing when the attainment is available?",
+         "opts": [
+             "\"Whenever I want\" (yāvade ākaṅkhāmi) — available on demand, not merely a past memory",
+             "\"Once, long ago\" — describing a single historical event",
+             "\"Only during meditation retreats\"",
+             "No timing phrase is used in this discourse"],
+         "correct": 0,
+         "expl": "A present-tense capability, exercised at will."},
+        {"q": "What is the final attainment declared in this discourse?",
+         "opts": [
+             "The undefiled freedom of heart and freedom by wisdom, through the ending of defilements",
+             "The first absorption, returning to where the discourse began",
+             "Clairaudience, hearing both human and heavenly sounds",
+             "No final attainment is named; the list simply stops"],
+         "correct": 0,
+         "expl": "Full liberation itself, the culminating attainment closing the sequence."},
+        {"q": "How does this reading guide characterize this discourse compared to earlier ones in this saṃyutta?",
+         "opts": [
+             "A declaration of equality, stating Kassapa already meets the Buddha's own standard rather than approaching it",
+             "Identical in purpose to SN 16.1's call to imitate Kassapa's example",
+             "A criticism of Kassapa's attainments as incomplete",
+             "This discourse makes no comparison to the Buddha at all"],
+         "correct": 0,
+         "expl": "Attainment by attainment, Kassapa is placed exactly where the Buddha stands."},
+        {"q": "What attainment allows seeing beings reborn according to their deeds?",
+         "opts": [
+             "The divine eye (dibbacakkhu)",
+             "Recollection of past lives",
+             "Clairaudience",
+             "The fourth absorption"],
+         "correct": 0,
+         "expl": "The fourteenth attainment declared, seeing beings' rebirth according to karma."},
+        {"q": "What attainment involves recalling one's own many past lives with names, appearances, and circumstances?",
+         "opts": [
+             "Recollection of past lives (pubbenivāsānussati)",
+             "Mind-reading",
+             "Psychic power",
+             "The third absorption"],
+         "correct": 0,
+         "expl": "Given in the discourse's own extended, detailed formula."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "Venerable Mahākassapa himself",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha speaks the entire discourse directly."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Navamaṁ, \"the ninth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The ninth discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("Nothing left off a very long list", [
+            "four absorptions, four formless states, cessation &mdash;",
+            "six knowledges, then freedom itself, all named",
+        ]),
+        ("Four words, repeated fifteen times", [
+            "\"and so does Kassapa\" &mdash;",
+            "never varied, never qualified",
+        ]),
+        ("One ability singled out for detail", [
+            "eight pairs of mind, greed to freedom &mdash;",
+            "more granular than any other attainment here",
+        ]),
+        ("Not a memory, but a standing capacity", [
+            "\"whenever I want,\" said of both &mdash;",
+            "available now, not merely once achieved",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn16.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-16.8.html">SN 16.8 &middot; Advice (3rd)</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-16.10.html">SN 16.10 &middot; The Nuns’ Quarters</a> '
+        "&mdash; the next discourse, a specific incident testing "
+        "Kassapa's standing against a critical voice.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 16.10 — Upassayasutta
+# --------------------------------------------------------------------------- #
+page(
+    16, 10, "Upassaya", "The Nuns' Quarters",
+    meta_title="SN 16.10 — The Nuns' Quarters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Upassayasutta — a nun publicly mocks Kassapa for "
+        "teaching in front of Ānanda; Kassapa confronts Ānanda "
+        "directly, invokes SN 16.9's own words, and the nun falls "
+        "from the spiritual life. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, and a nearby nuns' "
+                    "quarters"),
+        ("Speakers", "Venerable Ānanda, Venerable Mahākassapa, and "
+                     "the nun Thullatissā"),
+        ("Form", "A real narrative with named individuals, an "
+                 "insult, a confrontation, and a stated consequence"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; this saṃyutta's most dramatically "
+                       "and historically charged discourse, worth "
+                       "reading carefully and without over-reading "
+                       "into it"),
+    ],
+    why=(
+        "Ānanda asks Kassapa three times to join him visiting a "
+        "nuns' quarters; twice Kassapa defers, noting Ānanda's many "
+        "duties, before finally agreeing the third time. Kassapa "
+        "teaches the nuns and leaves &mdash; and a nun named "
+        "Thullatissā is openly offended, comparing Kassapa to "
+        "&ldquo;a needle peddler trying to sell a needle to the "
+        "needle maker,&rdquo; implying he had no business teaching "
+        "in front of someone as accomplished as Ānanda. When Kassapa "
+        "hears this, he confronts Ānanda directly, asking which of "
+        "them is really the peddler and which the maker. Rather than "
+        "accept Ānanda's attempt to smooth things over, Kassapa "
+        "presses further: was it Ānanda whom the Buddha once publicly "
+        "declared to share his own absorptions and insights? Ānanda "
+        "must admit no &mdash; it was Kassapa, in the very words this "
+        "reading guide has already covered in SN 16.9. The discourse "
+        "closes starkly: Thullatissā fell from the spiritual life."),
+    guide=[
+        ("A real name, not an anonymous figure", [
+            "Unlike most tension in this collection, which stays "
+            "general, this discourse names the specific nun whose "
+            "words trigger the whole episode &mdash; giving the "
+            "conflict a personal, historical specificity most "
+            "discourses avoid."]),
+        ("An insult built entirely on a comparison of status", [
+            "The needle-peddler-and-needle-maker image doesn't "
+            "criticize what Kassapa taught; it questions whether he "
+            "had any standing to teach at all in Ānanda's presence "
+            "&mdash; a challenge to hierarchy, not to content."]),
+        ("Kassapa's response escalates rather than deflects", [
+            "Rather than letting the matter drop, Kassapa presses "
+            "Ānanda directly, and when Ānanda tries to excuse "
+            "Thullatissā as merely foolish, Kassapa sharply warns him "
+            "not to make the whole Saṅgha investigate him further "
+            "&mdash; treating this as more serious than a single "
+            "nun's outburst."]),
+        ("A direct callback to this saṃyutta's own SN 16.9", [
+            "Kassapa's proof isn't a new claim; it's a precise "
+            "recollection of the exact declaration already given in "
+            "SN 16.9, quoted back nearly word for word, with Ānanda "
+            "forced to confirm publicly that the Buddha never said "
+            "the same of him."]),
+        ("A consequence stated plainly, without further comment", [
+            "The discourse's final line &mdash; that Thullatissā fell "
+            "from the spiritual life &mdash; is given without "
+            "elaboration or moral commentary, left for the reader to "
+            "sit with rather than explained away."]),
+    ],
+    terms=[
+        ("bhikkhunupassayo",
+         "&ldquo;nuns' quarters&rdquo; &mdash; this discourse's "
+         "title location, the setting for the whole episode."),
+        ("sūcivāṇijako … sūcikārassa",
+         "&ldquo;a needle peddler … a needle maker&rdquo; &mdash; "
+         "Thullatissā's image, questioning Kassapa's standing to "
+         "teach in Ānanda's presence."),
+        ("mā te saṅgho uttari upaparikkhi",
+         "&ldquo;don't make the Saṅgha investigate you "
+         "further&rdquo; &mdash; Kassapa's pointed warning to "
+         "Ānanda, treating the matter as more serious than a single "
+         "outburst."),
+        ("cha abhiññā",
+         "&ldquo;six insights&rdquo; &mdash; Kassapa's own term for "
+         "the higher knowledges declared in SN 16.9, invoked here as "
+         "undeniable proof."),
+        ("cavittha … brahmacariyamhā",
+         "&ldquo;fell from the spiritual life&rdquo; &mdash; the "
+         "discourse's stark, unelaborated closing consequence for "
+         "Thullatissā."),
+    ],
+    text_intro=(
+        "The discourse in full, including its own reference back to "
+        "SN 16.9's declarations, abbreviated here with an explicit "
+        "editorial note pointing to the full version. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn16.10:1.1-1.10"),
+        ("p", "&sect;2", "sn16.10:2.1-2.4"),
+        ("p", "&sect;3", "sn16.10:3.1-3.4"),
+        ("p", "&sect;4", "sn16.10:4.1-4.6"),
+        ("p", "&sect;5", "sn16.10:5.1-5.5"),
+        ("p", "&sect;6", "sn16.10:6.1-6.4"),
+        ("p", "&sect;7", "sn16.10:7.1-7.5"),
+        ("p", "&sect;8", "sn16.10:8.1-8.3"),
+        ("p", "&sect;9", "sn16.10:9.1-9.1"),
+        ("p", "&sect;10", "sn16.10:10.1-10.1"),
+    ],
+    quiz=[
+        {"q": "How many times does Ānanda invite Kassapa to the nuns' quarters before Kassapa agrees?",
+         "opts": [
+             "Three times, with Kassapa declining twice before agreeing",
+             "Once, and Kassapa agrees immediately",
+             "Kassapa never agrees to go at all",
+             "Five times"],
+         "correct": 0,
+         "expl": "Kassapa initially defers, citing Ānanda's many duties, before finally accompanying him."},
+        {"q": "What comparison does the nun Thullatissā use to criticize Kassapa?",
+         "opts": [
+             "A needle peddler trying to sell a needle to the needle maker",
+             "A student trying to teach their own teacher grammar",
+             "A blind man describing colors",
+             "No specific comparison is used"],
+         "correct": 0,
+         "expl": "Questioning Kassapa's standing to teach in Ānanda's presence, not the content of his teaching."},
+        {"q": "How does Kassapa respond when he hears about Thullatissā's remark?",
+         "opts": [
+             "He confronts Ānanda directly, then presses further despite Ānanda's attempt to excuse her",
+             "He ignores the remark entirely and says nothing",
+             "He immediately expels Thullatissā from the monastic order himself",
+             "He agrees with her assessment"],
+         "correct": 0,
+         "expl": "An escalating, direct confrontation, not a simple deflection."},
+        {"q": "What proof does Kassapa offer that he, not Ānanda, was the one honored in SN 16.9?",
+         "opts": [
+             "He recalls the Buddha's exact public declaration, forcing Ānanda to confirm it wasn't said of him",
+             "He asks the Buddha to settle the matter on the spot",
+             "He produces a written record of the earlier discourse",
+             "He offers no specific proof at all"],
+         "correct": 0,
+         "expl": "A precise callback to SN 16.9's own words, quoted nearly verbatim."},
+        {"q": "What image does Kassapa use to describe how undeniable his six insights are?",
+         "opts": [
+             "Trying to hide a bull elephant behind a palm leaf",
+             "Trying to hide the sun behind a single cloud",
+             "Trying to hide a mountain behind a small stone",
+             "No image is used; he states the point plainly"],
+         "correct": 0,
+         "expl": "A vivid, almost fierce image asserting the impossibility of concealment."},
+        {"q": "What happens to Thullatissā by the end of this discourse?",
+         "opts": [
+             "She falls from the spiritual life",
+             "She is publicly praised for her honesty",
+             "She becomes a close student of Kassapa",
+             "No consequence is mentioned"],
+         "correct": 0,
+         "expl": "A stark, unelaborated closing statement."},
+        {"q": "What warning does Kassapa give Ānanda after Ānanda tries to excuse Thullatissā?",
+         "opts": [
+             "Not to make the whole Saṅgha investigate him further",
+             "To apologize to Thullatissā immediately",
+             "To leave the monastic order",
+             "No warning is given"],
+         "correct": 0,
+         "expl": "Treating the matter as potentially implicating Ānanda himself, not merely Thullatissā."},
+        {"q": "How does this reading guide caution readers to approach this discourse's historical dimension?",
+         "opts": [
+             "To read it carefully without over-reading into it, given its real dramatic and historical weight",
+             "To dismiss it as having no historical significance whatsoever",
+             "To treat every detail as definitively proven history",
+             "This reading guide offers no such caution"],
+         "correct": 0,
+         "expl": "A dramatically and historically charged discourse warranting careful, non-speculative reading."},
+        {"q": "What editorial note appears partway through this discourse?",
+         "opts": [
+             "An instruction that the nine progressive meditations and five insights should be told in full",
+             "A note that this discourse's ending is disputed",
+             "A correction to an earlier mistranslation",
+             "No editorial note appears"],
+         "correct": 0,
+         "expl": "Pointing back to SN 16.9's full declaration rather than repeating it here."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dasamaṁ, \"the tenth\"",
+             "Navamaṁ, \"the ninth\"",
+             "Ekādasamaṁ, \"the eleventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The tenth discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("A named individual, not an anonymous voice", [
+            "Thullatissā, specifically identified &mdash;",
+            "a rare personal specificity in this collection",
+        ]),
+        ("An insult about standing, not about content", [
+            "\"a needle peddler selling to the needle maker\" &mdash;",
+            "questioning who had the right to teach, not what was taught",
+        ]),
+        ("A confrontation that doesn't stay smoothed over", [
+            "Ānanda tries to excuse her; Kassapa presses on &mdash;",
+            "\"don't make the Saṅgha investigate you further\"",
+        ]),
+        ("Proof recalled precisely, not merely asserted", [
+            "the Buddha's own words, quoted back exactly &mdash;",
+            "an elephant that can't be hidden behind a leaf",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn16.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-16.9.html">SN 16.9 &middot; Absorptions and Insights</a> '
+        "&mdash; the earlier discourse this one directly invokes as "
+        "proof.",
+        '<a href="sn-16.11.html">SN 16.11 &middot; Robes</a> '
+        "&mdash; the next discourse, another direct exchange between "
+        "Kassapa and Ānanda.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 16.11 — Cīvarasutta
+# --------------------------------------------------------------------------- #
+page(
+    16, 11, "Cīvara", "Robes",
+    meta_title="SN 16.11 — Robes | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Cīvarasutta — Kassapa rebukes Ānanda over undisciplined "
+        "protégés, a second nun's insult follows, and Kassapa "
+        "answers with the famous story of exchanging robes with the "
+        "Buddha himself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, in the Bamboo Grove; Kassapa's "
+                    "own narrative ranges back to the road between "
+                    "Rājagaha and Nāḷandā"),
+        ("Speakers", "Venerable Ānanda, Venerable Mahākassapa, and "
+                     "the nun Thullanandā"),
+        ("Form", "A pointed rebuke, a second public insult, and "
+                 "Kassapa's own extended first-person account of his "
+                 "going forth and awakening"),
+        ("Length", "~8 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; "
+                       "&mdash; the longest and most historically "
+                       "significant discourse in this collection, "
+                       "containing one of the canon's most famous "
+                       "single episodes"),
+    ],
+    why=(
+        "This discourse opens with Kassapa questioning Ānanda about "
+        "a monastic rule, then sharply criticizing him: Ānanda is "
+        "traveling with thirty undisciplined junior mendicants, most "
+        "of them boys, many of whom have already disrobed. "
+        "&ldquo;This boy knows no limit,&rdquo; Kassapa says of "
+        "Ānanda &mdash; who points out, not unreasonably, that he "
+        "already has grey hair. A nun named Thullanandā hears about "
+        "the rebuke and is outraged for a sharper reason: how dare "
+        "Kassapa, a former follower of another religion, presume to "
+        "correct Ānanda? Rather than answering the insult directly, "
+        "Kassapa tells his own story in full: leaving lay life, "
+        "making his own patchwork robe, meeting the Buddha for the "
+        "first time on the road to Nāḷandā, declaring himself a "
+        "disciple on the spot, and then &mdash; in the episode this "
+        "discourse is remembered for &mdash; exchanging that very "
+        "robe with the Buddha's own worn-out rag robe, before "
+        "attaining full awakening seven days later."),
+    guide=[
+        ("A real rebuke, not a hypothetical example", [
+            "Kassapa's criticism of Ānanda is specific and personal "
+            "&mdash; naming his particular protégés' failures and "
+            "calling him &ldquo;boy&rdquo; directly &mdash; and "
+            "Ānanda's reply, noting his own grey hair, shows the "
+            "sting landed."]),
+        ("An insult sharper than SN 16.10's, targeting Kassapa's origin", [
+            "Where Thullatissā in SN 16.10 questioned whether Kassapa "
+            "had standing relative to Ānanda specifically, Thullanandā "
+            "here questions something more fundamental: whether "
+            "someone who once followed another religion before "
+            "converting has any right to correct anyone at all."]),
+        ("A response that tells a story instead of arguing a point", [
+            "Kassapa doesn't rebut Thullanandā's logic directly; he "
+            "recounts, at length and in his own voice, exactly how "
+            "he came to the Buddha and what happened between them "
+            "&mdash; letting the account itself answer the charge."]),
+        ("The robe exchange, this discourse's central episode", [
+            "Meeting the Buddha resting under a tree, Kassapa offers "
+            "his own soft, hand-made patchwork robe as a seat; the "
+            "Buddha, noting how soft it is, offers his own worn-out "
+            "hempen rag robe in exchange &mdash; and Kassapa accepts, "
+            "trading what he made himself for what the Buddha had "
+            "actually worn."]),
+        ("A claim to lineage grounded in something physical", [
+            "Kassapa's claim to be &ldquo;the Buddha's true-born son, "
+            "born from his mouth, born of the teaching, heir to the "
+            "teaching&rdquo; isn't asserted abstractly; it's anchored "
+            "in the literal, physical fact of wearing the robe the "
+            "Buddha once wore himself."]),
+    ],
+    terms=[
+        ("tikabhojanaṁ",
+         "&ldquo;eating in groups of three,&rdquo; the monastic rule "
+         "against eating with more than three others among "
+         "lay families &mdash; the opening technical question that "
+         "leads into Kassapa's rebuke."),
+        ("kumārako",
+         "&ldquo;boy&rdquo; &mdash; Kassapa's blunt term for Ānanda, "
+         "repeated even after Ānanda notes his own grey hair."),
+        ("aññatitthiyapubbo",
+         "&ldquo;formerly followed another religion&rdquo; &mdash; "
+         "Thullanandā's charge against Kassapa, questioning his "
+         "standing based on his life before joining the Saṅgha."),
+        ("paṭapilotikānaṁ saṅghāṭi",
+         "&ldquo;an outer robe of patches&rdquo; &mdash; the "
+         "hand-made robe Kassapa wore when he first met the Buddha, "
+         "and the object at the center of this discourse's central "
+         "episode."),
+        ("bhagavato putto oraso … dhammadāyādo",
+         "&ldquo;the Buddha's true-born son&hellip;heir to the "
+         "teaching&rdquo; &mdash; Kassapa's claim to unique standing, "
+         "grounded specifically in having received the Buddha's own "
+         "robe in exchange."),
+    ],
+    text_intro=(
+        "The discourse in full, including its own reference back to "
+        "the fuller declaration of absorptions and insights, "
+        "abbreviated here with an explicit editorial note. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn16.11:1.1-1.2"),
+        ("p", "&sect;2", "sn16.11:2.1-2.3"),
+        ("p", "&sect;3", "sn16.11:3.1-3.3"),
+        ("p", "&sect;4", "sn16.11:4.1-4.5"),
+        ("p", "&sect;5", "sn16.11:5.1-5.6"),
+        ("p", "&sect;6", "sn16.11:6.1-6.2"),
+        ("p", "&sect;7", "sn16.11:7.1-7.3"),
+        ("p", "&sect;8", "sn16.11:8.1-8.8"),
+        ("p", "&sect;9", "sn16.11:9.1-9.12"),
+        ("p", "&sect;10", "sn16.11:10.1-10.3"),
+        ("p", "&sect;11", "sn16.11:11.1-11.3"),
+        ("p", "&sect;12", "sn16.11:12.1-12.3"),
+        ("p", "&sect;13", "sn16.11:13.1-13.2"),
+        ("p", "&sect;14", "sn16.11:14.1-14.11"),
+        ("p", "&sect;15", "sn16.11:15.1-15.3"),
+        ("p", "&sect;16", "sn16.11:16.1-16.3"),
+        ("p", "&sect;17", "sn16.11:17.1-17.2"),
+        ("p", "&sect;18", "sn16.11:18.1-18.1"),
+    ],
+    quiz=[
+        {"q": "What does Kassapa criticize Ānanda for at the start of this discourse?",
+         "opts": [
+             "Traveling with thirty undisciplined junior mendicants, many of whom have already disrobed",
+             "Failing to answer a question about monastic rules correctly",
+             "Refusing to visit the nuns' quarters",
+             "Teaching the Dhamma incorrectly"],
+         "correct": 0,
+         "expl": "A specific, personal criticism, not a general observation."},
+        {"q": "How does Ānanda respond to being called \"boy\" by Kassapa?",
+         "opts": [
+             "He points out that he already has grey hair",
+             "He agrees completely and apologizes at once",
+             "He argues that Kassapa has no right to speak to him at all",
+             "He leaves without responding"],
+         "correct": 0,
+         "expl": "A response showing the rebuke's sting, though it doesn't change Kassapa's assessment."},
+        {"q": "What charge does the nun Thullanandā bring against Kassapa?",
+         "opts": [
+             "That he formerly followed another religion and so has no standing to rebuke Ānanda",
+             "That he mistreated the junior mendicants personally",
+             "That he stole from the monastery's stores",
+             "That he refused to teach the nuns at all"],
+         "correct": 0,
+         "expl": "A sharper insult than SN 16.10's, targeting Kassapa's pre-conversion background specifically."},
+        {"q": "How does Kassapa respond to Thullanandā's charge?",
+         "opts": [
+             "He tells the full story of his own going forth and meeting with the Buddha, rather than arguing the point directly",
+             "He has her expelled from the monastic order immediately",
+             "He ignores the charge entirely and says nothing",
+             "He agrees that he has no standing to correct anyone"],
+         "correct": 0,
+         "expl": "Letting his own account answer the charge rather than a direct rebuttal."},
+        {"q": "What is the central episode Kassapa recounts in his story?",
+         "opts": [
+             "Exchanging his own hand-made patchwork robe for the Buddha's own worn-out rag robe",
+             "Receiving ordination directly from his own family",
+             "Defeating a rival teacher in public debate",
+             "Building the first monastery in Rājagaha"],
+         "correct": 0,
+         "expl": "The episode this discourse is most remembered for."},
+        {"q": "How long after this meeting does Kassapa say he attained full awakening?",
+         "opts": [
+             "Seven days",
+             "Immediately, that same day",
+             "Twenty years",
+             "The discourse doesn't specify a timeframe"],
+         "correct": 0,
+         "expl": "\"For seven days I ate the nation's almsfood as a debtor. On the eighth day I was enlightened.\""},
+        {"q": "What claim does Kassapa make based on receiving the Buddha's own robe?",
+         "opts": [
+             "That he is the Buddha's true-born son, born of the teaching, heir to the teaching",
+             "That he is now the sole rightful successor to lead the entire Saṅgha",
+             "That he no longer needs to follow any monastic rules",
+             "No specific claim is made about the robe exchange"],
+         "correct": 0,
+         "expl": "A claim to unique standing, grounded in a literal physical object rather than an abstract assertion."},
+        {"q": "What three trainings does the Buddha give Kassapa at their first meeting?",
+         "opts": [
+             "Keen conscience and prudence toward all mendicants, attentive listening to skillful teachings, and unwavering mindfulness of the body",
+             "Fasting, silence, and solitary retreat",
+             "Memorizing the entire monastic code within a year",
+             "No specific trainings are given at their first meeting"],
+         "correct": 0,
+         "expl": "Three distinct instructions, given directly by the Buddha at their very first encounter."},
+        {"q": "What happens to Thullanandā by the end of this discourse?",
+         "opts": [
+             "She falls from the spiritual life, echoing SN 16.10's ending for Thullatissā",
+             "She becomes a devoted follower of Kassapa",
+             "She is publicly forgiven with no further consequence",
+             "No consequence is mentioned for her"],
+         "correct": 0,
+         "expl": "The same stark, unelaborated ending as the discourse immediately before it."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Ekādasamaṁ, \"the eleventh\"",
+             "Dasamaṁ, \"the tenth\"",
+             "Dvādasamaṁ, \"the twelfth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eleventh discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("A rebuke that lands despite grey hair", [
+            "\"this boy knows no limit,\" Kassapa says &mdash;",
+            "and Ānanda's own age doesn't change the verdict",
+        ]),
+        ("An insult aimed at where Kassapa came from", [
+            "\"formerly followed another religion\" &mdash;",
+            "sharper than questioning standing alone",
+        ]),
+        ("A story told instead of an argument made", [
+            "not a rebuttal, but a full first-person account &mdash;",
+            "let the events themselves answer the charge",
+        ]),
+        ("A robe traded, a lineage proven", [
+            "his own patchwork, the Buddha's own rags &mdash;",
+            "exchanged, worn, and never forgotten",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn16.11/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-16.10.html">SN 16.10 &middot; The Nuns’ Quarters</a> '
+        "&mdash; the discourse immediately before this one, its "
+        "closest narrative companion.",
+        '<a href="sn-16.12.html">SN 16.12 &middot; The Realized One After Death</a> '
+        "&mdash; the next discourse, a dialogue between Kassapa and "
+        "Sāriputta on a difficult metaphysical question.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 16.12 — Paraṁmaraṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    16, 12, "Paraṁmaraṇa", "The Realized One After Death",
+    meta_title="SN 16.12 — The Realized One After Death | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paraṁmaraṇasutta — Sāriputta asks Kassapa why the "
+        "Buddha refused to answer whether a realized one exists "
+        "after death, and Kassapa gives the classic pragmatic "
+        "criterion for what the Buddha does and doesn't declare. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Varanasi, in the deer park at Isipatana"),
+        ("Speakers", "Venerable Sāriputta and Venerable "
+                     "Mahākassapa, in direct philosophical dialogue"),
+        ("Form", "A systematic four-part question, a repeated "
+                 "answer, and then the criterion behind that answer"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; engages one of the canon's most "
+                       "famous philosophical puzzles directly"),
+    ],
+    why=(
+        "This discourse returns to the same setting and the same "
+        "two speakers as SN 16.2, and takes up one of the most "
+        "famous unresolved questions in the entire canon: does a "
+        "realized one (tathāgata) still exist after death, or not, "
+        "or both, or neither? Kassapa's answer to each of the four "
+        "versions is identical: the Buddha didn't declare a position "
+        "on this. When Sāriputta asks why, Kassapa doesn't say the "
+        "question is meaningless or unanswerable in principle; he "
+        "gives a pragmatic criterion instead &mdash; the question "
+        "isn't beneficial, doesn't relate to the fundamentals of the "
+        "spiritual life, and doesn't lead toward disillusionment, "
+        "dispassion, cessation, peace, insight, awakening, or "
+        "extinguishment. What the Buddha did declare, by the same "
+        "criterion, are the four noble truths, precisely because "
+        "they do lead there."),
+    guide=[
+        ("Four questions, systematically exhausted", [
+            "Sāriputta doesn't ask once; he works through all four "
+            "logical possibilities in turn &mdash; exists, doesn't "
+            "exist, both, neither &mdash; leaving no live option "
+            "unaddressed before asking why none of them were "
+            "answered."]),
+        ("A refusal, not a hedge or an evasion", [
+            "Kassapa's repeated &ldquo;this has not been declared by "
+            "the Buddha&rdquo; isn't presented as the Buddha being "
+            "unable to answer or unwilling to commit; it's framed as "
+            "a deliberate choice with a stated rationale."]),
+        ("A pragmatic criterion, not a metaphysical one", [
+            "Kassapa doesn't explain the non-declaration by claiming "
+            "the question is incoherent or unanswerable in "
+            "principle; he explains it by what the answer would or "
+            "wouldn't accomplish for someone practicing the "
+            "spiritual life."]),
+        ("A sevenfold chain defining what counts as beneficial", [
+            "Disillusionment, dispassion, cessation, peace, insight, "
+            "awakening, extinguishment &mdash; this exact sequence "
+            "of seven outcomes becomes the standard both discourses "
+            "of this dialogue measure a teaching against."]),
+        ("The four noble truths named as the positive counterexample", [
+            "Rather than leaving the criterion abstract, Kassapa "
+            "names exactly what does meet it: suffering, its origin, "
+            "its cessation, and the practice leading to its "
+            "cessation &mdash; declared precisely because they lead "
+            "toward the same seven outcomes the metaphysical "
+            "questions don't."]),
+    ],
+    terms=[
+        ("hoti tathāgato paraṁ maraṇā",
+         "&ldquo;does a realized one still exist after death?&rdquo; "
+         "&mdash; the first of four systematically posed questions "
+         "this discourse addresses."),
+        ("abyākataṁ … bhagavatā",
+         "&ldquo;not declared by the Buddha&rdquo; &mdash; Kassapa's "
+         "identical answer to all four versions of Sāriputta's "
+         "question."),
+        ("na atthasaṁhitaṁ nādibrahmacariyakaṁ",
+         "&ldquo;not beneficial, not relevant to the fundamentals of "
+         "the spiritual life&rdquo; &mdash; the first half of "
+         "Kassapa's stated criterion for non-declaration."),
+        ("nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya "
+         "nibbānāya",
+         "&ldquo;disillusionment, dispassion, cessation, peace, "
+         "insight, awakening, extinguishment&rdquo; &mdash; the "
+         "sevenfold outcome chain used to judge what the Buddha did "
+         "and didn't declare."),
+        ("dukkhaṁ, dukkhasamudayo, dukkhanirodho, "
+         "dukkhanirodhagāminī paṭipadā",
+         "&ldquo;suffering, its origin, its cessation, the practice "
+         "leading to its cessation&rdquo; &mdash; the four noble "
+         "truths, named as exactly what the Buddha did declare, by "
+         "the same criterion."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn16.12:1.1-1.18"),
+        ("p", "&sect;2", "sn16.12:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What four versions of the question does Sāriputta pose to Kassapa?",
+         "opts": [
+             "Whether a realized one exists after death, doesn't exist, both, or neither",
+             "Whether the Buddha will return to teach again",
+             "Whether Kassapa himself will attain full awakening",
+             "Whether monastic rules should be revised"],
+         "correct": 0,
+         "expl": "A systematic exhaustion of the four logical possibilities."},
+        {"q": "What is Kassapa's answer to all four versions of the question?",
+         "opts": [
+             "That this has not been declared by the Buddha",
+             "That the answer is definitely yes in every case",
+             "That the answer is definitely no in every case",
+             "That he personally doesn't know the answer"],
+         "correct": 0,
+         "expl": "An identical, repeated answer across all four formulations."},
+        {"q": "How does Kassapa explain why the Buddha didn't declare a position?",
+         "opts": [
+             "Because it isn't beneficial and doesn't lead toward disillusionment, dispassion, cessation, peace, insight, awakening, or extinguishment",
+             "Because the question is grammatically incoherent",
+             "Because the Buddha himself didn't know the answer",
+             "Because the question had already been answered elsewhere"],
+         "correct": 0,
+         "expl": "A pragmatic criterion based on beneficial outcomes, not a claim of unanswerability in principle."},
+        {"q": "What does Kassapa name as something the Buddha did declare, by contrast?",
+         "opts": [
+             "The four noble truths",
+             "The exact number of past Buddhas",
+             "The precise date of his own future death",
+             "Nothing; the discourse claims the Buddha declared nothing at all"],
+         "correct": 0,
+         "expl": "Suffering, its origin, its cessation, and the path — declared because they meet the stated criterion."},
+        {"q": "What sevenfold sequence does Kassapa use to judge what counts as beneficial?",
+         "opts": [
+             "Disillusionment, dispassion, cessation, peace, insight, awakening, extinguishment",
+             "Wealth, health, family, friends, fame, pleasure, comfort",
+             "Only a single criterion: popularity among mendicants",
+             "No specific sequence is given"],
+         "correct": 0,
+         "expl": "A consistent standard applied to both the undeclared questions and the declared truths."},
+        {"q": "Where does this discourse take place, matching an earlier discourse in this saṃyutta?",
+         "opts": [
+             "Near Varanasi, in the deer park at Isipatana, the same setting as SN 16.2",
+             "At Sāvatthī",
+             "Near Rājagaha, in the Bamboo Grove",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The same location and the same two speakers as SN 16.2's earlier dialogue."},
+        {"q": "Does Kassapa claim the four questions about the Tathāgata are meaningless or incoherent?",
+         "opts": [
+             "No — he frames the non-declaration as a deliberate, pragmatic choice, not a claim of incoherence",
+             "Yes, he explicitly calls the questions nonsensical",
+             "He refuses to comment on the nature of the questions at all",
+             "He says the questions have already been definitively answered"],
+         "correct": 0,
+         "expl": "A rationale based on benefit and relevance, not on logical incoherence."},
+        {"q": "Who initiates this dialogue?",
+         "opts": [
+             "Venerable Sāriputta, coming out of retreat to visit Kassapa",
+             "Venerable Mahākassapa, seeking out Sāriputta",
+             "The Buddha, directing the two to discuss the matter",
+             "An unnamed mendicant who overhears the two elders"],
+         "correct": 0,
+         "expl": "The same initiating pattern as SN 16.2."},
+        {"q": "Is the Buddha present during this conversation?",
+         "opts": [
+             "No — this is a direct conversation between two senior disciples with no Buddha present",
+             "Yes, the Buddha answers the questions himself",
+             "The Buddha arrives partway through to settle the matter",
+             "The discourse doesn't specify whether the Buddha is present"],
+         "correct": 0,
+         "expl": "Like SN 16.2, a peer dialogue rather than a teaching from the Buddha directly."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dvādasamaṁ, \"the twelfth\"",
+             "Ekādasamaṁ, \"the eleventh\"",
+             "Terasamaṁ, \"the thirteenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The twelfth discourse of this saṃyutta, one before its close."},
+    ],
+    marginalia=[
+        ("Every logical door tried, in turn", [
+            "exists, doesn't exist, both, neither &mdash;",
+            "no possibility left unasked",
+        ]),
+        ("A refusal with a reason, not a shrug", [
+            "\"not declared,\" said four times over &mdash;",
+            "not confusion, but a deliberate choice",
+        ]),
+        ("Usefulness, not truth, as the measure", [
+            "does it lead toward peace and awakening? &mdash;",
+            "the actual test applied, not abstract truth-value",
+        ]),
+        ("What was declared, named plainly", [
+            "suffering, its cause, its end, the path &mdash;",
+            "the same test, met by the four noble truths",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn16.12/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-16.11.html">SN 16.11 &middot; Robes</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-16.13.html">SN 16.13 &middot; The Counterfeit of the True Teaching</a> '
+        "&mdash; the next and closing discourse of this saṃyutta, "
+        "Kassapa's own diagnosis of why the true teaching itself can "
+        "decline.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 16.13 — Saddhammappatirūpakasutta
+# --------------------------------------------------------------------------- #
+page(
+    16, 13, "Saddhammappatirūpaka", "The Counterfeit of the True Teaching",
+    meta_title="SN 16.13 — The Counterfeit of the True Teaching | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saddhammappatirūpakasutta — closing Kassapasaṃyutta, "
+        "the true teaching doesn't vanish on its own; it disappears "
+        "only once a counterfeit of it takes root, exactly as "
+        "genuine gold gives way to counterfeit gold. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Mahākassapa and the Buddha, in "
+                     "direct dialogue"),
+        ("Form", "A question, a simile explaining the mechanism of "
+                 "decline, and two matched five-point lists"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; "
+                       "&mdash; one of the most historically "
+                       "influential discourses in the entire canon, "
+                       "closing this saṃyutta on its most systematic "
+                       "note"),
+    ],
+    why=(
+        "Kassapa asks the Buddha directly why there used to be fewer "
+        "training rules but more enlightened mendicants, and now "
+        "more rules but fewer. The Buddha's answer becomes one of "
+        "the most consequential teachings in the tradition's later "
+        "history: the true teaching doesn't disappear on its own. It "
+        "disappears only once a counterfeit of the true teaching "
+        "arises in the world &mdash; exactly the way native gold "
+        "doesn't vanish until counterfeit gold appears and displaces "
+        "it. It isn't the physical elements that cause this; it's "
+        "&ldquo;futile people&rdquo; appearing from within the "
+        "community itself. And it doesn't happen suddenly, like a "
+        "ship sinking all at once, but gradually, through five "
+        "specific failures of respect &mdash; toward the Teacher, "
+        "the teaching, the Saṅgha, the training, and immersion "
+        "&mdash; mirrored by five specific virtues that instead "
+        "sustain the teaching's continuation."),
+    guide=[
+        ("A question about a real, observed pattern", [
+            "Kassapa isn't asking a hypothetical; he's naming "
+            "something he's apparently witnessed directly &mdash; "
+            "more rules, fewer awakened people &mdash; and asking "
+            "the Buddha to explain the mechanism behind it."]),
+        ("Counterfeit gold as the discourse's central, precise image", [
+            "The simile isn't simply that something fades; it's "
+            "specifically that a fake version appears and crowds out "
+            "the genuine one, exactly as counterfeit currency can "
+            "displace real currency in circulation without either "
+            "one being physically destroyed."]),
+        ("Decline located in people, not in physical law", [
+            "The Buddha explicitly rules out the four elements "
+            "&mdash; earth, water, fire, air &mdash; as the cause; "
+            "responsibility is placed squarely on the community's "
+            "own members, described bluntly as moghapurisā, futile "
+            "people."]),
+        ("Gradual erosion, not sudden catastrophe", [
+            "The ship-sinking simile is used specifically to deny a "
+            "certain picture of decline &mdash; not a single dramatic "
+            "collapse, but something closer to slow leakage, "
+            "consistent with the five-point mechanism given "
+            "afterward."]),
+        ("A shared list for four kinds of Buddhist practitioner", [
+            "Monks, nuns, laymen, and laywomen are named together as "
+            "sharing responsibility for both decline and "
+            "continuation &mdash; respect and reverence for the "
+            "Teacher, the teaching, the Saṅgha, the training, and "
+            "immersion aren't framed as a purely monastic "
+            "obligation."]),
+    ],
+    terms=[
+        ("saddhammappatirūpaka",
+         "&ldquo;the counterfeit of the true teaching&rdquo; &mdash; "
+         "this discourse's title concept, the mechanism the Buddha "
+         "identifies as what actually causes the true teaching's "
+         "disappearance."),
+        ("jātarūpappatirūpaka",
+         "&ldquo;counterfeit gold&rdquo; &mdash; the simile "
+         "explaining exactly how a genuine thing can be displaced by "
+         "a fake one without being destroyed outright."),
+        ("moghapurisā",
+         "&ldquo;futile people&rdquo; &mdash; the Buddha's term for "
+         "who actually causes the true teaching's decline, "
+         "explicitly ruling out the physical elements instead."),
+        ("nāvā ādikeneva opilavati",
+         "&ldquo;a ship that sinks all at once&rdquo; &mdash; the "
+         "image of sudden catastrophe the Buddha explicitly denies, "
+         "in favor of a gradual process."),
+        ("satthari, dhamme, saṅghe, sikkhāya, samādhismiṁ … "
+         "(a)gāravā (a)ppatissā",
+         "&ldquo;(dis)respect and (ir)reverence for the Teacher, the "
+         "teaching, the Saṅgha, the training, and immersion&rdquo; "
+         "&mdash; the paired five-point lists governing decline and "
+         "continuation."),
+    ],
+    text_intro=(
+        "The discourse in full. The closing verse of discourse "
+        "titles is not translated in the source and is not quoted "
+        "here, but the saṃyutta's own formal closing line is "
+        "translated and is quoted below. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn16.13:1.1-1.8"),
+        ("p", "&sect;2", "sn16.13:2.1-2.4"),
+        ("p", "&sect;3", "sn16.13:3.1-3.4"),
+        ("p", "&sect;4", "sn16.13:4.1-4.4"),
+        ("p", "&sect;5", "sn16.13:5.1-5.4"),
+        ("p", "&sect;6", "sn16.13:6.7-6.7"),
+    ],
+    quiz=[
+        {"q": "What question does Kassapa ask the Buddha, opening this discourse?",
+         "opts": [
+             "Why there used to be fewer training rules but more enlightened mendicants, and now the reverse",
+             "How many eons have passed since the last Buddha",
+             "Whether a realized one exists after death",
+             "How to properly fold a robe"],
+         "correct": 0,
+         "expl": "A question about an observed historical pattern, not a hypothetical."},
+        {"q": "What does the Buddha say actually causes the true teaching to disappear?",
+         "opts": [
+             "A counterfeit of the true teaching arising and displacing it, not disappearance on its own",
+             "The natural passage of time alone, with no other cause",
+             "A deliberate decision by the Buddha to end the teaching",
+             "Physical destruction of texts and monasteries"],
+         "correct": 0,
+         "expl": "The teaching doesn't vanish; a fake version arises and crowds it out."},
+        {"q": "What simile does the Buddha use to explain this mechanism?",
+         "opts": [
+             "Counterfeit gold appearing and displacing genuine gold",
+             "A candle burning down to nothing",
+             "A river running dry in a drought",
+             "A tree being cut down by a woodcutter"],
+         "correct": 0,
+         "expl": "A precise image of displacement, not simple fading or destruction."},
+        {"q": "What does the Buddha explicitly rule out as the cause of the teaching's decline?",
+         "opts": [
+             "The physical elements — earth, water, fire, and air",
+             "The passage of time itself",
+             "Geographic distance from where the Buddha taught",
+             "Nothing is explicitly ruled out"],
+         "correct": 0,
+         "expl": "Responsibility is placed on \"futile people\" instead, not on physical law."},
+        {"q": "What does the Buddha say the decline is NOT like?",
+         "opts": [
+             "A ship that sinks all at once",
+             "A tree that grows slowly over centuries",
+             "A river that changes course gradually",
+             "No comparison is given for what decline is not like"],
+         "correct": 0,
+         "expl": "Ruling out sudden catastrophe in favor of a gradual process."},
+        {"q": "What five things does the Buddha name as leading to decline?",
+         "opts": [
+             "Lack of respect and reverence for the Teacher, the teaching, the Saṅgha, the training, and immersion",
+             "Poverty, illness, old age, death, and separation from loved ones",
+             "Too much study, too little manual labor",
+             "Excessive wealth among monastics"],
+         "correct": 0,
+         "expl": "Named together for monks, nuns, laymen, and laywomen alike."},
+        {"q": "What five things does the Buddha name as sustaining the teaching's continuation?",
+         "opts": [
+             "Respect and reverence for the same five things — Teacher, teaching, Saṅgha, training, and immersion",
+             "An entirely different, unrelated list of five virtues",
+             "Wealth, fame, political power, military strength, and popularity",
+             "No positive counterpart list is given"],
+         "correct": 0,
+         "expl": "The exact mirror of the five detrimental things, restated positively."},
+        {"q": "Who shares responsibility for both decline and continuation, according to this discourse?",
+         "opts": [
+             "Monks, nuns, laymen, and laywomen together",
+             "Only ordained monks",
+             "Only the Buddha himself",
+             "Only kings and political rulers"],
+         "correct": 0,
+         "expl": "A shared responsibility across the whole fourfold community, not monastics alone."},
+        {"q": "What does this saṃyutta's own closing colophon state, quoted directly in this discourse's text section?",
+         "opts": [
+             "\"The Linked Discourses with Kassapa are complete\"",
+             "A dedication of merit to all sentient beings",
+             "An untranslated line, described but not quoted",
+             "No colophon appears in this discourse"],
+         "correct": 0,
+         "expl": "Translated content, quoted directly per this site's established practice for such lines."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Terasamaṁ, \"the thirteenth\"",
+             "Dvādasamaṁ, \"the twelfth\"",
+             "Cuddasamaṁ, \"the fourteenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The thirteenth and final discourse of Kassapasaṃyutta."},
+    ],
+    marginalia=[
+        ("Not vanishing, but displaced", [
+            "genuine gold, until the fake appears &mdash;",
+            "the true teaching follows the same rule",
+        ]),
+        ("Cause located in people, not in matter", [
+            "not earth, water, fire, or air &mdash;",
+            "\"futile people,\" named directly",
+        ]),
+        ("Slow leakage, not sudden collapse", [
+            "not a ship sinking all at once &mdash;",
+            "a gradual process, five failures deep",
+        ]),
+        ("One list, mirrored exactly", [
+            "disrespect toward five things causes decline &mdash;",
+            "respect for the same five sustains it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn16.13/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-16.12.html">SN 16.12 &middot; The Realized One After Death</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-16.1.html">SN 16.1 &middot; Content</a> '
+        "&mdash; this saṃyutta's opening discourse, whose ascetic "
+        "virtues this closing teaching's five-point mechanism gives "
+        "a systematic, abstract foundation for.",
+    ],
+)
