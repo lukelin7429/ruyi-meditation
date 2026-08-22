@@ -47207,3 +47207,2615 @@ page(
         "restores in full.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 20.1 — Kūṭasutta
+# --------------------------------------------------------------------------- #
+page(
+    20, 1, "Kūṭa", "A Roof Peak",
+    meta_title="SN 20.1 — A Roof Peak | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Kūṭasutta — a bungalow's rafters all lean to and "
+        "meet at the roof peak, and when the peak is demolished "
+        "they all fall too, just as every unskillful quality is "
+        "rooted in ignorance. Opens Opammasaṃyutta. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A single architectural image applied directly to "
+                 "a doctrinal claim"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; opens a saṃyutta organized entirely "
+                       "around varied similes rather than a single "
+                       "recurring refrain"),
+    ],
+    why=(
+        "This discourse opens Opammasaṃyutta, a collection "
+        "organized not around a single repeated topic but around "
+        "the shared method of teaching through simile. A bungalow's "
+        "rafters all lean toward and converge at the roof peak; when "
+        "the peak is demolished, every rafter falls with it. In the "
+        "same way, the Buddha says, every unskillful quality is "
+        "rooted in ignorance and converges in ignorance &mdash; "
+        "demolish ignorance, and every unskillful quality is "
+        "demolished along with it."),
+    guide=[
+        ("A saṃyutta unified by method, not by subject matter", [
+            "Unlike most saṃyuttas organized around a single "
+            "recurring topic (elements, aggregates, a particular "
+            "danger), Opammasaṃyutta's twelve discourses share only "
+            "their teaching method &mdash; each builds its point "
+            "around a distinct image &mdash; while ranging freely "
+            "across ignorance, rebirth, loving-kindness, diligence, "
+            "and monastic conduct."]),
+        ("A single structural point, not a load-bearing metaphor", [
+            "The roof-peak image isolates one specific architectural "
+            "fact &mdash; that a structure's parts converge on and "
+            "depend upon a single point &mdash; without elaborating "
+            "further architectural detail, keeping the comparison "
+            "precise rather than decorative."]),
+        ("Ignorance as a genuine root, not merely a contributing factor", [
+            "Avijjāmūlakā, &ldquo;rooted in ignorance,&rdquo; makes a "
+            "strong causal claim: every unskillful quality traces "
+            "back to this single source, not merely one among "
+            "several possible causes, mirroring how every rafter "
+            "genuinely depends on the one peak rather than several "
+            "independent points."]),
+        ("A single practical instruction closing an ambitious claim", [
+            "Despite the sweeping claim about ignorance's role "
+            "underlying every unskillful quality, the discourse's "
+            "actual instruction is modest and immediately "
+            "actionable: simply stay diligent, appamatta, rather "
+            "than prescribing a specific technique for uprooting "
+            "ignorance directly."]),
+        ("An economical opening for a saṃyutta of similes", [
+            "At barely more than a single image and a single "
+            "instruction, this discourse establishes the collection's "
+            "characteristic brevity &mdash; most of Opammasaṃyutta's "
+            "discourses will share this same compact shape, an image "
+            "stated once and applied directly."]),
+    ],
+    terms=[
+        ("kūṭāgārassa … gopānasiyo",
+         "&ldquo;a bungalow's rafters&rdquo; &mdash; this "
+         "discourse's title image, all converging on the same "
+         "structural peak."),
+        ("kūṭaṅgamā kūṭasamosaraṇā kūṭasamugghātā",
+         "&ldquo;lean to the peak, meet at the peak, [and when the "
+         "peak is] demolished [they're] demolished too&rdquo; "
+         "&mdash; the threefold structural claim mirrored directly "
+         "onto ignorance's role."),
+        ("avijjāmūlakā",
+         "&ldquo;rooted in ignorance&rdquo; &mdash; the discourse's "
+         "central doctrinal claim, naming ignorance as every "
+         "unskillful quality's genuine source."),
+        ("akusalā dhammā",
+         "&ldquo;unskillful qualities&rdquo; &mdash; the general "
+         "category the roof-peak image is applied to, not any "
+         "single specific unwholesome state."),
+        ("appamattā viharissāma",
+         "&ldquo;we will stay diligent&rdquo; &mdash; the "
+         "discourse's closing instruction, modest in scope compared "
+         "to its sweeping opening claim."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn20.1:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What architectural fact does this discourse's simile isolate?",
+         "opts": [
+             "That a structure's rafters converge on and depend on a single roof peak",
+             "That taller buildings are more stable than shorter ones",
+             "That buildings made of stone last longer than wooden ones",
+             "No architectural detail is given"],
+         "correct": 0,
+         "expl": "A precise structural fact, not elaborated architectural detail."},
+        {"q": "What does the discourse claim is true of every unskillful quality?",
+         "opts": [
+             "That it is rooted in ignorance and converges in ignorance",
+             "That it has no single identifiable cause",
+             "That it originates independently of any other quality",
+             "That it cannot be overcome by any means"],
+         "correct": 0,
+         "expl": "A strong causal claim mirroring the rafters' genuine dependence on one peak."},
+        {"q": "How does Opammasaṃyutta differ from most other saṃyuttas in this collection?",
+         "opts": [
+             "It is unified by its teaching method — simile — rather than a single recurring topic",
+             "It contains only one discourse total",
+             "It focuses exclusively on the danger of possessions and honor",
+             "It is identical in structure to Rāhulasaṃyutta"],
+         "correct": 0,
+         "expl": "Ranging freely across ignorance, rebirth, loving-kindness, diligence, and monastic conduct."},
+        {"q": "What practical instruction closes this discourse?",
+         "opts": [
+             "To simply stay diligent (appamatta)",
+             "To meditate exclusively on the roof-peak image",
+             "To study architecture in detail",
+             "No instruction is given"],
+         "correct": 0,
+         "expl": "A modest, immediately actionable instruction, not a specific technique for uprooting ignorance directly."},
+        {"q": "How does this discourse's length compare to what becomes typical for this saṃyutta?",
+         "opts": [
+             "It is brief, establishing the collection's characteristic compact shape",
+             "It is unusually long compared to every other discourse in the saṃyutta",
+             "It is the longest discourse in the entire saṃyutta",
+             "Length varies randomly with no discernible pattern"],
+         "correct": 0,
+         "expl": "An image stated once and applied directly, a shape most later discourses will share."},
+        {"q": "What happens to the rafters when the roof peak is demolished, according to the simile?",
+         "opts": [
+             "They are all demolished too",
+             "They remain standing independently",
+             "They become stronger",
+             "Nothing happens to them"],
+         "correct": 0,
+         "expl": "The structural dependency the discourse maps directly onto ignorance and unskillful qualities."},
+        {"q": "Is ignorance presented as one cause among several, or as a singular root?",
+         "opts": [
+             "As a singular root, not merely one contributing factor among several",
+             "As one of many equally weighted causes",
+             "As having no causal role at all",
+             "The discourse does not address causation"],
+         "correct": 0,
+         "expl": "A strong causal claim, matching the rafters' single point of convergence."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, in Jeta's Grove",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "A setting given briefly, typical of this saṃyutta's compact style."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Lakkhaṇa",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Paṭhamaṁ, \"the first\"",
+             "Dutiyaṁ, \"the second\"",
+             "Dvādasamaṁ, \"the twelfth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The first discourse of this saṃyutta's single vagga, Opammavagga."},
+    ],
+    marginalia=[
+        ("One point, everything else converging on it", [
+            "rafters leaning to a single peak &mdash;",
+            "structure depending entirely on one place",
+        ]),
+        ("A root, not merely a contributing cause", [
+            "ignorance named as the actual source &mdash;",
+            "every unskillful quality traced back to one point",
+        ]),
+        ("A modest instruction for a sweeping claim", [
+            "\"stay diligent,\" nothing more elaborate &mdash;",
+            "practical simplicity closing an ambitious opening",
+        ]),
+        ("A collection unified by how it teaches", [
+            "not one topic, but one method throughout &mdash;",
+            "twelve images, twelve different subjects",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn20.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.21.html">SN 19.21 &middot; A Bad Novice '
+        "Nun</a> &mdash; the previous saṃyutta's closing discourse.",
+        '<a href="sn-20.2.html">SN 20.2 &middot; A Fingernail</a> '
+        "&mdash; the next discourse, using a similarly compact "
+        "image to make a very different point.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 20.2 — Nakhasikhasutta
+# --------------------------------------------------------------------------- #
+page(
+    20, 2, "Nakhasikha", "A Fingernail",
+    meta_title="SN 20.2 — A Fingernail | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Nakhasikhasutta — the Buddha compares a speck of "
+        "dirt on his fingernail to the great earth, illustrating "
+        "how rare rebirth as a human actually is. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and the assembled mendicants, in a "
+                     "brief exchange"),
+        ("Form", "A demonstrated visual comparison rather than a "
+                 "purely verbal image"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; one of the tradition's most widely "
+                       "cited images for the rarity of human "
+                       "rebirth"),
+    ],
+    why=(
+        "This discourse stages its comparison physically rather than "
+        "only describing it: the Buddha picks up a little bit of "
+        "dirt on his fingernail and asks the mendicants directly "
+        "which is more, this speck or the great earth. Their answer "
+        "&mdash; that the speck doesn't even count as a fraction of "
+        "the earth &mdash; becomes the measure for a claim about "
+        "rebirth: sentient beings reborn as humans are as few as "
+        "that speck of dirt, while those reborn elsewhere are as "
+        "numerous as the great earth itself."),
+    guide=[
+        ("A comparison demonstrated, not merely narrated", [
+            "Unlike most similes in this collection, which describe "
+            "an absent scene, this discourse's central image is "
+            "physically enacted in front of the audience &mdash; the "
+            "Buddha actually picks up dirt on his own fingernail, "
+            "making the comparison immediately visible rather than "
+            "only imagined."]),
+        ("A question posed before the point is stated", [
+            "Rather than opening with the doctrinal claim and "
+            "illustrating it afterward, this discourse asks the "
+            "mendicants to judge the comparison's proportions "
+            "themselves first, letting their own answer supply the "
+            "measure the subsequent claim about rebirth will use."]),
+        ("An answer given with escalating emphasis", [
+            "The mendicants' response doesn't simply say the earth is "
+            "greater; it piles up near-synonymous phrases &mdash; "
+            "doesn't count, no comparison, not worth a fraction "
+            "&mdash; underscoring just how disproportionate the "
+            "speck actually is."]),
+        ("One of this tradition's most frequently cited images", [
+            "This particular comparison, dirt on a fingernail set "
+            "against the whole earth, recurs as a standard reference "
+            "point elsewhere in the canon for illustrating how rare "
+            "and valuable a human rebirth actually is, making this "
+            "discourse the source of an image far better known than "
+            "the saṃyutta containing it."]),
+        ("A claim about proportion, not about individual merit", [
+            "The discourse doesn't state why human rebirth is rare or "
+            "connect it to any specific practice; it states only the "
+            "bare demographic fact, leaving the practical urgency of "
+            "that rarity to be drawn out elsewhere rather than "
+            "spelled out here."]),
+    ],
+    terms=[
+        ("parittaṁ nakhasikhāyaṁ paṁsuṁ",
+         "&ldquo;a little bit of dirt on [his] fingernail&rdquo; "
+         "&mdash; this discourse's physically demonstrated image, "
+         "not merely described but actually shown."),
+        ("mahāpathaviṁ",
+         "&ldquo;the great earth&rdquo; &mdash; the comparison's "
+         "other term, standing in for the vastly larger population "
+         "of beings not reborn as humans."),
+        ("saṅkhampi na upeti",
+         "&ldquo;it doesn't count&rdquo; &mdash; the first of three "
+         "escalating phrases the mendicants use to describe the "
+         "speck's insignificance."),
+        ("manussesu paccājāyanti",
+         "&ldquo;reborn as humans&rdquo; &mdash; the specific "
+         "category of rebirth this discourse measures as "
+         "exceptionally rare."),
+        ("appamattā viharissāma",
+         "&ldquo;we will stay diligent&rdquo; &mdash; the same "
+         "closing instruction used in SN 20.1, applied here to a "
+         "very different opening claim."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn20.2:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha stage this discourse's central comparison?",
+         "opts": [
+             "He physically picks up a bit of dirt on his own fingernail, making the comparison immediately visible",
+             "He describes a distant scene the mendicants cannot see",
+             "He draws a diagram on the ground",
+             "No physical demonstration is involved"],
+         "correct": 0,
+         "expl": "A comparison enacted in front of the audience, not only imagined."},
+        {"q": "What order does this discourse follow in presenting its claim?",
+         "opts": [
+             "It asks the mendicants to judge the comparison first, then uses their own answer as the measure for its claim",
+             "It states the doctrinal claim first, then illustrates it afterward",
+             "It gives no question at all, only a direct statement",
+             "It reverses the usual order by ending with a question"],
+         "correct": 0,
+         "expl": "Letting the audience's own judgment supply the measure for what follows."},
+        {"q": "How do the mendicants describe the speck of dirt compared to the great earth?",
+         "opts": [
+             "With escalating emphasis — it doesn't count, there's no comparison, it's not worth a fraction",
+             "As roughly equal in significance",
+             "As slightly smaller but still meaningful",
+             "They refuse to answer the question"],
+         "correct": 0,
+         "expl": "Piling up near-synonymous phrases to underscore the disproportion."},
+        {"q": "What claim does this comparison illustrate about rebirth?",
+         "opts": [
+             "That sentient beings reborn as humans are exceptionally few, compared to those reborn elsewhere",
+             "That human and animal rebirths occur in exactly equal numbers",
+             "That rebirth as a human is guaranteed for every being eventually",
+             "No claim about rebirth is made in this discourse"],
+         "correct": 0,
+         "expl": "Using the speck-versus-earth proportion as a demographic measure."},
+        {"q": "How significant is this specific image elsewhere in the wider tradition?",
+         "opts": [
+             "It recurs as a standard reference point for illustrating the rarity and value of human rebirth",
+             "It appears nowhere else and is unique to this single discourse",
+             "It is considered a minor, rarely cited image",
+             "It has no significance beyond this saṃyutta"],
+         "correct": 0,
+         "expl": "Making this discourse the source of an image far better known than the saṃyutta containing it."},
+        {"q": "Does this discourse explain why human rebirth is valuable or connect it to specific practice?",
+         "opts": [
+             "No — it states only the bare demographic fact, leaving further implications undrawn",
+             "Yes, it gives an extensive explanation of why humans should practice more diligently",
+             "Yes, it links the claim directly to a specific meditation technique",
+             "The discourse denies that human rebirth has any special value"],
+         "correct": 0,
+         "expl": "A claim about proportion, not elaborated into practical urgency within this discourse itself."},
+        {"q": "What closing instruction does this discourse share with SN 20.1?",
+         "opts": [
+             "To stay diligent (appamatta)",
+             "To develop loving-kindness specifically",
+             "To meditate on fingernails",
+             "No closing instruction is given"],
+         "correct": 0,
+         "expl": "The same instruction, applied here to a very different opening claim about rebirth."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout most of this saṃyutta."},
+        {"q": "Who participates in this discourse's exchange?",
+         "opts": [
+             "The Buddha and the assembled mendicants",
+             "The Buddha and Venerable Lakkhaṇa alone",
+             "Two unnamed laypeople",
+             "The Buddha speaking with no one present"],
+         "correct": 0,
+         "expl": "A brief exchange, not a solitary teaching."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dutiyaṁ, \"the second\"",
+             "Paṭhamaṁ, \"the first\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The second discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("A comparison you could actually watch happen", [
+            "dirt lifted on a fingernail, right there &mdash;",
+            "not described from afar, but shown directly",
+        ]),
+        ("Letting the audience supply the measure first", [
+            "their own answer, before the claim is made &mdash;",
+            "judgment invited rather than simply asserted",
+        ]),
+        ("An image that outgrew its own discourse", [
+            "cited far beyond this single saṃyutta &mdash;",
+            "more famous than the collection holding it",
+        ]),
+        ("A bare fact, left for the reader to weigh", [
+            "no elaboration on why it matters &mdash;",
+            "the proportion itself doing all the work",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn20.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-20.1.html">SN 20.1 &middot; A Roof Peak</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-20.3.html">SN 20.3 &middot; Families</a> '
+        "&mdash; the next discourse, turning to a household image "
+        "for a very different subject.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 20.3 — Kulasutta
+# --------------------------------------------------------------------------- #
+page(
+    20, 3, "Kula", "Families",
+    meta_title="SN 20.3 — Families | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Kulasutta — families with many women and few men "
+        "are easy prey for bandits, just as a mendicant without "
+        "loving-kindness is easy prey for non-humans. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A paired social observation mapped directly onto "
+                 "a claim about protection through meditation"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; the first of several discourses in "
+                       "this saṃyutta built around loving-kindness"),
+    ],
+    why=(
+        "This discourse draws its image from ordinary household "
+        "vulnerability: families with many women and few men are "
+        "easy targets for bandits and grain-jar thieves, while "
+        "families with few women and many men are difficult targets. "
+        "The Buddha maps this observation directly onto meditation: "
+        "a mendicant who hasn't developed the heart's release through "
+        "loving-kindness (mettā) is easy prey for non-human beings, "
+        "while one who has developed it is hard prey."),
+    guide=[
+        ("A social observation stated without commentary or justification", [
+            "The discourse doesn't explain or defend the claim about "
+            "vulnerable households; it states the observation as "
+            "self-evident common knowledge, using it purely as a "
+            "structural template for the point about meditation "
+            "rather than as a claim requiring its own defense."]),
+        ("Vulnerability measured by presence, not by strength alone", [
+            "The distinguishing factor in both halves of the "
+            "comparison isn't raw strength but presence and "
+            "development &mdash; more men present, or mettā "
+            "developed and cultivated &mdash; suggesting protection "
+            "comes from something built up over time rather than an "
+            "inherent, fixed quality."]),
+        ("Non-humans named as this discourse's specific threat", [
+            "Amanussā, &ldquo;non-humans,&rdquo; specifies spirits "
+            "or similar beings as the danger loving-kindness "
+            "protects against, a category of vulnerability distinct "
+            "from ordinary human threats and specific to this "
+            "discourse's chosen image."]),
+        ("The first appearance of a closing formula that will recur", [
+            "This discourse's closing instruction &mdash; to develop, "
+            "cultivate, make a vehicle and basis of, keep up, "
+            "consolidate, and properly implement the heart's release "
+            "by love &mdash; is a fuller, more elaborate formula than "
+            "SN 20.1-2's simple diligence, and recurs verbatim in the "
+            "two discourses immediately following this one."]),
+        ("Opening a short run of loving-kindness discourses", [
+            "This discourse begins a sequence continuing through SN "
+            "20.4 and 20.5, all three built around mettā specifically, "
+            "before the saṃyutta returns to other subjects &mdash; "
+            "confirming Opammasaṃyutta groups related discourses "
+            "even while ranging across varied topics overall."]),
+    ],
+    terms=[
+        ("bahutthikāni appapurisāni",
+         "&ldquo;many women and few men&rdquo; &mdash; the "
+         "vulnerable household configuration this discourse's image "
+         "opens with."),
+        ("suppadhaṁsiyāni … duppadhaṁsiyāni",
+         "&ldquo;easy prey … hard prey&rdquo; &mdash; the paired "
+         "terms mapped directly from household vulnerability onto "
+         "susceptibility to non-human threat."),
+        ("mettācetovimutti",
+         "&ldquo;the heart's release by love&rdquo; &mdash; the "
+         "specific meditative development this discourse names as "
+         "protection, more technical than a general reference to "
+         "kindness."),
+        ("amanussā",
+         "&ldquo;non-humans&rdquo; &mdash; spirits or similar "
+         "beings, the specific threat this discourse's protection is "
+         "aimed against."),
+        ("bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā "
+         "susamāraddhā",
+         "&ldquo;developed, cultivated, made a vehicle and basis, "
+         "kept up, consolidated, and properly implemented&rdquo; "
+         "&mdash; the fuller formula this discourse introduces, "
+         "recurring in the two discourses following it."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn20.3:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What household configuration does this discourse describe as vulnerable to bandits?",
+         "opts": [
+             "Families with many women and few men",
+             "Families with many men and few women",
+             "Families with no children",
+             "No specific household configuration is described"],
+         "correct": 0,
+         "expl": "The vulnerable image mapped onto a mendicant lacking loving-kindness."},
+        {"q": "What does the discourse claim protects a mendicant from non-human threat?",
+         "opts": [
+             "Having developed the heart's release by loving-kindness (mettā)",
+             "Physical strength and combat training",
+             "Living in a large monastic community",
+             "No form of protection is discussed"],
+         "correct": 0,
+         "expl": "The direct parallel to a well-defended household."},
+        {"q": "Does the discourse explain or justify its opening social observation about vulnerable households?",
+         "opts": [
+             "No — it states the observation as self-evident, using it purely as a structural template",
+             "Yes, it gives an extensive sociological explanation",
+             "Yes, it cites specific historical examples",
+             "The discourse denies that any households are more vulnerable than others"],
+         "correct": 0,
+         "expl": "Used as a template for the meditation point rather than a claim requiring its own defense."},
+        {"q": "What distinguishes the protected from the vulnerable in both halves of this comparison?",
+         "opts": [
+             "Presence and development — more men present, or mettā cultivated over time — not raw inherent strength",
+             "Random chance with no discernible pattern",
+             "Wealth alone, unrelated to any other factor",
+             "Age, with only the young considered vulnerable"],
+         "correct": 0,
+         "expl": "Protection built up over time rather than a fixed, inherent quality."},
+        {"q": "What specific threat does this discourse name loving-kindness as protection against?",
+         "opts": [
+             "Non-humans (amanussā), such as spirits",
+             "Ordinary human bandits",
+             "Wild animals",
+             "No specific threat is named"],
+         "correct": 0,
+         "expl": "A category of vulnerability distinct from ordinary human threats."},
+        {"q": "How does this discourse's closing formula compare to SN 20.1-2's?",
+         "opts": [
+             "It is fuller and more elaborate, listing six distinct aspects of cultivating loving-kindness",
+             "It is identical, using the same simple diligence instruction",
+             "It gives no closing instruction at all",
+             "It is shorter than SN 20.1-2's instruction"],
+         "correct": 0,
+         "expl": "A formula recurring verbatim in the two discourses immediately following this one."},
+        {"q": "What sequence does this discourse open within the saṃyutta?",
+         "opts": [
+             "A short run of three discourses (SN 20.3-5) built specifically around loving-kindness",
+             "The saṃyutta's entire remaining content",
+             "An isolated discourse with no relationship to what follows",
+             "The saṃyutta's closing sequence"],
+         "correct": 0,
+         "expl": "Confirming this saṃyutta groups related discourses even while ranging across varied topics overall."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout most of this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Lakkhaṇa",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Tatiyaṁ, \"the third\"",
+             "Dutiyaṁ, \"the second\"",
+             "Catutthaṁ, \"the fourth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The third discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("A household observation, taken as simply obvious", [
+            "no defense given, no explanation needed &mdash;",
+            "used only as a template for the real point",
+        ]),
+        ("Protection through presence, not raw strength", [
+            "more men, or mettā cultivated over time &mdash;",
+            "built up, not simply possessed from the start",
+        ]),
+        ("A specific danger named, not left vague", [
+            "non-humans, spirits, a particular threat &mdash;",
+            "the protection matched to something concrete",
+        ]),
+        ("A fuller formula, about to recur twice more", [
+            "six phrases, not just \"stay diligent\" &mdash;",
+            "opening a short run built around one practice",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn20.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-20.2.html">SN 20.2 &middot; A Fingernail</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-20.4.html">SN 20.4 &middot; Cauldrons</a> '
+        "&mdash; the next discourse, continuing this short run on "
+        "loving-kindness.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 20.4 — Okkhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    20, 4, "Okkhā", "Cauldrons",
+    meta_title="SN 20.4 — Cauldrons | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Okkhāsutta — a hundred cauldrons of rice given "
+        "three times daily is less fruitful than developing a heart "
+        "of love for as long as it takes to milk a cow. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A direct quantitative comparison between "
+                 "generosity and brief meditation"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; an intentionally startling "
+                       "comparison of scale between two very "
+                       "different kinds of practice"),
+    ],
+    why=(
+        "This discourse stages a deliberately lopsided comparison: "
+        "suppose someone gave a hundred cauldrons of cooked rice "
+        "three times a day, morning, midday, and evening, while "
+        "someone else developed a heart of loving-kindness for only "
+        "as long as it takes to pull a cow's udder &mdash; a matter "
+        "of moments. The latter, the Buddha says, is more fruitful "
+        "than the former's massive material generosity."),
+    guide=[
+        ("A comparison built to startle by its disproportion", [
+            "The scale gap between a hundred cauldrons given three "
+            "times daily and a fleeting moment of meditation is "
+            "extreme by design &mdash; the discourse doesn't compare "
+            "similar quantities of each practice but deliberately "
+            "pits an enormous material gift against a tiny amount of "
+            "time spent in loving-kindness."]),
+        ("A homely unit of time, not an abstract duration", [
+            "Gadduhanamatta, &ldquo;as long as it takes to milk a "
+            "cow,&rdquo; measures the meditation's brevity using an "
+            "everyday rural activity rather than a formal unit, "
+            "making the comparison's point about minimal time "
+            "immediately concrete rather than abstract."]),
+        ("Continuing the fuller closing formula from SN 20.3", [
+            "This discourse repeats verbatim the same six-part "
+            "formula for developing loving-kindness introduced in "
+            "SN 20.3, confirming that formula as this short run's "
+            "shared closing instruction rather than a one-time "
+            "elaboration."]),
+        ("Fruitfulness as the measure, not moral superiority", [
+            "The discourse doesn't claim generosity is unimportant or "
+            "wrong; it specifically compares which practice is "
+            "mahapphalataraṁ, &ldquo;more fruitful,&rdquo; a "
+            "comparative claim about outcome rather than a judgment "
+            "that material giving lacks value altogether."]),
+        ("The middle discourse of a three-part sequence on loving-kindness", [
+            "Following SN 20.3's household image and preceding SN "
+            "20.5's spear image, this discourse's role is to "
+            "establish loving-kindness's exceptional value in its "
+            "own terms before the sequence turns to describing its "
+            "protective effect against external threat."]),
+    ],
+    terms=[
+        ("okkhāsataṁ dānaṁ",
+         "&ldquo;a gift of a hundred cauldrons [of rice]&rdquo; "
+         "&mdash; the discourse's image of enormous, sustained "
+         "material generosity."),
+        ("gadduhanamattampi mettacittaṁ bhāveyya",
+         "&ldquo;develop a heart of love, even just as long as it "
+         "takes to pull a cow's udder&rdquo; &mdash; the discourse's "
+         "measure of minimal duration, using an everyday rural unit "
+         "of time."),
+        ("mahapphalataraṁ",
+         "&ldquo;more fruitful&rdquo; &mdash; the comparative term "
+         "the discourse actually uses, a claim about outcome rather "
+         "than a moral judgment against generosity."),
+        ("mettacitta",
+         "&ldquo;a heart of love&rdquo; &mdash; the specific "
+         "meditative state this discourse compares favorably to "
+         "sustained material giving."),
+        ("bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā "
+         "susamāraddhā",
+         "&ldquo;developed, cultivated, made a vehicle and basis, "
+         "kept up, consolidated, and properly implemented&rdquo; "
+         "&mdash; the same six-part formula repeated verbatim from "
+         "SN 20.3."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn20.4:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What two practices does this discourse compare?",
+         "opts": [
+             "Giving a hundred cauldrons of rice three times daily, versus developing loving-kindness for only a brief moment",
+             "Two different kinds of material generosity",
+             "Formal meditation retreat versus daily chores",
+             "No comparison is made in this discourse"],
+         "correct": 0,
+         "expl": "A deliberately lopsided comparison in scale, designed to startle."},
+        {"q": "How is the brief duration of loving-kindness measured in this discourse?",
+         "opts": [
+             "As long as it takes to pull a cow's udder — an everyday rural unit of time",
+             "Using a precise formal measurement of minutes",
+             "As an entire day of continuous practice",
+             "No duration is specified"],
+         "correct": 0,
+         "expl": "A homely, concrete measure rather than an abstract formal duration."},
+        {"q": "Which practice does the Buddha say is more fruitful?",
+         "opts": [
+             "The brief moment of developing loving-kindness",
+             "The massive gift of a hundred cauldrons of rice",
+             "Neither practice is said to be more fruitful",
+             "Both practices are declared equally worthless"],
+         "correct": 0,
+         "expl": "A comparative claim about outcome, using the term mahapphalataraṁ."},
+        {"q": "Does this discourse claim that material generosity is unimportant or without value?",
+         "opts": [
+             "No — it makes a specific comparative claim about fruitfulness, not a blanket dismissal of generosity",
+             "Yes, it explicitly condemns all forms of material giving",
+             "Yes, it states that giving gifts is a moral failing",
+             "The discourse does not mention generosity at all"],
+         "correct": 0,
+         "expl": "A claim about relative outcome, not a judgment that material giving lacks value altogether."},
+        {"q": "What closing formula does this discourse repeat from SN 20.3?",
+         "opts": [
+             "The six-part formula for developing, cultivating, and implementing loving-kindness",
+             "The simple instruction to \"stay diligent\"",
+             "An entirely new and different formula",
+             "No closing formula is given"],
+         "correct": 0,
+         "expl": "Confirming this formula as the shared closing instruction for this short run of discourses."},
+        {"q": "What position does this discourse hold in the three-part sequence on loving-kindness?",
+         "opts": [
+             "The middle discourse, between SN 20.3's household image and SN 20.5's spear image",
+             "The first discourse of the sequence",
+             "The final discourse of the sequence",
+             "It does not belong to this sequence"],
+         "correct": 0,
+         "expl": "Establishing loving-kindness's exceptional value before the sequence turns to its protective effect."},
+        {"q": "Why might the discourse choose such an extreme scale gap between the two compared practices?",
+         "opts": [
+             "To startle the listener and make the point about loving-kindness's value impossible to overlook",
+             "To make loving-kindness seem like an insignificant practice",
+             "The scale gap has no rhetorical purpose",
+             "To argue that material generosity should be abandoned entirely"],
+         "correct": 0,
+         "expl": "A comparison built by design to be disproportionate and memorable."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout most of this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Lakkhaṇa",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Catutthaṁ, \"the fourth\"",
+             "Tatiyaṁ, \"the third\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fourth discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("A gap in scale, deliberately extreme", [
+            "a hundred cauldrons against a fleeting moment &mdash;",
+            "disproportion built into the comparison on purpose",
+        ]),
+        ("An ordinary chore standing in for a unit of time", [
+            "as long as milking a cow, nothing more precise &mdash;",
+            "brevity made concrete rather than abstract",
+        ]),
+        ("A claim about fruit, not a verdict on giving", [
+            "\"more fruitful,\" not \"the only thing worth doing\" &mdash;",
+            "comparison, not condemnation, of material generosity",
+        ]),
+        ("The middle of three, establishing value before protection", [
+            "worth shown here, defense shown next &mdash;",
+            "loving-kindness's case built in stages",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn20.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-20.3.html">SN 20.3 &middot; Families</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-20.5.html">SN 20.5 &middot; A Spear</a> '
+        "&mdash; the next discourse, closing this run with an "
+        "image of loving-kindness as protection.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 20.5 — Sattisutta
+# --------------------------------------------------------------------------- #
+page(
+    20, 5, "Satti", "A Spear",
+    meta_title="SN 20.5 — A Spear | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Sattisutta — a man trying to bend a sharp spear "
+        "with his bare hands will only exhaust himself, just as a "
+        "spirit trying to overthrow a mind well-established in "
+        "loving-kindness only wearies itself. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, posing a question to the "
+                     "assembled mendicants and confirming their "
+                     "answer"),
+        ("Form", "A physical impossibility used to describe futile "
+                 "attack rather than successful defense"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; closing this saṃyutta's run of "
+                       "loving-kindness discourses with the attacker's, "
+                       "not the defender's, perspective"),
+    ],
+    why=(
+        "This discourse closes the loving-kindness sequence with an "
+        "image of futile attack: a man who tries to fold, crumple, "
+        "and bend back a sharp-pointed spear using only his hand or "
+        "fist will only exhaust and frustrate himself, never "
+        "succeeding. In the same way, the Buddha says, a non-human "
+        "spirit who tries to overthrow the mind of a mendicant who "
+        "has developed loving-kindness will only wear itself out, "
+        "never achieving its aim."),
+    guide=[
+        ("The attacker's exhaustion, not the target's endurance, as the focus", [
+            "Rather than describing loving-kindness as a shield that "
+            "absorbs or deflects attack, this discourse describes "
+            "what happens to the attacker itself &mdash; futile "
+            "effort against something genuinely resistant leads only "
+            "to the attacker's own weariness and frustration."]),
+        ("A precise, physically absurd task named in full", [
+            "The specific verbs &mdash; fold over, crumple, bend back "
+            "&mdash; describe an obviously impossible feat with bare "
+            "hands against a rigid, sharp implement, making the "
+            "futility vivid and immediate rather than abstractly "
+            "stated."]),
+        ("A rhetorical question confirming the obvious before the point lands", [
+            "The Buddha asks directly whether the man attempting this "
+            "task is capable of succeeding, and the mendicants' "
+            "answer &mdash; no, because it isn't easy and he'll only "
+            "grow weary &mdash; supplies the reasoning the "
+            "subsequent comparison depends on."]),
+        ("Loving-kindness described through its effect on an opponent", [
+            "This discourse doesn't describe what loving-kindness "
+            "feels like to cultivate or what benefit it brings the "
+            "practitioner directly; it describes only its "
+            "consequence for something attempting to disrupt it, a "
+            "narrower and more specific claim than SN 20.3-4's "
+            "broader framing."]),
+        ("Closing a three-part case for loving-kindness's exceptional value", [
+            "Having established loving-kindness as protection (SN "
+            "20.3) and as more fruitful than massive generosity (SN "
+            "20.4), this discourse closes the sequence by describing "
+            "its effect specifically on hostile effort, completing a "
+            "layered case built across three distinct angles."]),
+    ],
+    terms=[
+        ("satti tiṇhaphalā",
+         "&ldquo;a sharp-pointed spear&rdquo; &mdash; this "
+         "discourse's title image, a rigid implement obviously "
+         "impossible to reshape by hand."),
+        ("paṭileṇissāmi paṭikoṭṭissāmi paṭivaṭṭessāmi",
+         "&ldquo;I'll fold it over, crumple it, and bend it "
+         "back&rdquo; &mdash; the man's stated but physically "
+         "absurd intention, named in full rather than only implied."),
+        ("kilamathassa vighātassa bhāgī",
+         "&ldquo;get weary and frustrated&rdquo; &mdash; the "
+         "outcome for both the man attempting the impossible and the "
+         "spirit attempting to disrupt a mind established in "
+         "loving-kindness."),
+        ("cittaṁ khipitabbaṁ maññeyya",
+         "&ldquo;think to overthrow their mind&rdquo; &mdash; naming "
+         "the specific hostile intention this discourse describes as "
+         "futile."),
+        ("mettācetovimutti bhāvitā bahulīkatā …",
+         "the same six-part formula for developed loving-kindness "
+         "repeated from SN 20.3-4, closing this run's third and "
+         "final discourse."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn20.5:1.1-1.10"),
+        ("p", "&sect;2", "sn20.5:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What impossible task does the man in this discourse attempt?",
+         "opts": [
+             "Folding, crumpling, and bending back a sharp-pointed spear using only his hand or fist",
+             "Lifting a mountain with his bare hands",
+             "Catching an arrow in mid-flight",
+             "No specific task is described"],
+         "correct": 0,
+         "expl": "A physically absurd feat, named in full detail rather than only implied."},
+        {"q": "What is the focus of this discourse's comparison — the attacker or the target?",
+         "opts": [
+             "The attacker's own exhaustion and frustration, not the target's endurance",
+             "Only the spear's physical properties",
+             "The target's active counterattack",
+             "Neither the attacker nor the target is discussed"],
+         "correct": 0,
+         "expl": "Describing what happens to the one attempting futile effort, not describing loving-kindness as a shield."},
+        {"q": "What confirms the man's task is impossible before the comparison is drawn?",
+         "opts": [
+             "A rhetorical question the Buddha poses, answered by the mendicants",
+             "A direct assertion with no supporting reasoning",
+             "The task is never confirmed as impossible",
+             "The man himself declares it impossible before attempting it"],
+         "correct": 0,
+         "expl": "The mendicants' answer supplies the reasoning the comparison depends on."},
+        {"q": "What happens to a spirit that tries to overthrow the mind of someone established in loving-kindness?",
+         "opts": [
+             "It will only grow weary and frustrated, never succeeding",
+             "It will succeed immediately without difficulty",
+             "It will transform into a different kind of being",
+             "No outcome for the spirit is described"],
+         "correct": 0,
+         "expl": "The same futile exhaustion described for the man and the spear."},
+        {"q": "Does this discourse describe what loving-kindness feels like to the practitioner directly?",
+         "opts": [
+             "No — it describes only its effect on something attempting to disrupt it",
+             "Yes, it gives an extensive description of the practitioner's inner experience",
+             "Yes, it focuses entirely on the practitioner's emotional state",
+             "The discourse denies that loving-kindness has any effect at all"],
+         "correct": 0,
+         "expl": "A narrower, more specific claim than SN 20.3-4's broader framing."},
+        {"q": "What position does this discourse hold in the three-part sequence on loving-kindness?",
+         "opts": [
+             "The closing discourse, completing a case built across three distinct angles",
+             "The opening discourse of the sequence",
+             "It does not belong to this sequence",
+             "The middle discourse of the sequence"],
+         "correct": 0,
+         "expl": "Following protection (SN 20.3) and fruitfulness (SN 20.4) with the effect on hostile effort."},
+        {"q": "What closing formula does this discourse repeat from SN 20.3-4?",
+         "opts": [
+             "The six-part formula for developing, cultivating, and implementing loving-kindness",
+             "The simple instruction to \"stay diligent\"",
+             "An entirely new and different formula",
+             "No closing formula is given"],
+         "correct": 0,
+         "expl": "Closing this run's third and final discourse with the same shared instruction."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout most of this saṃyutta."},
+        {"q": "Who participates in this discourse's exchange?",
+         "opts": [
+             "The Buddha and the assembled mendicants",
+             "The Buddha and Venerable Lakkhaṇa alone",
+             "Two unnamed laypeople",
+             "The Buddha speaking with no one present"],
+         "correct": 0,
+         "expl": "A question posed and answered before the comparison is drawn."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Pañcamaṁ, \"the fifth\"",
+             "Catutthaṁ, \"the fourth\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fifth discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("Futility, not endurance, as the actual focus", [
+            "not what the spear withstands, but who wears out &mdash;",
+            "the attacker's exhaustion, not the target's strength",
+        ]),
+        ("An impossible task, named in precise detail", [
+            "fold it, crumple it, bend it back &mdash;",
+            "absurdity made vivid rather than merely stated",
+        ]),
+        ("Confirmation asked for, before the point lands", [
+            "a question first, the obvious answer supplied &mdash;",
+            "reasoning established before the comparison is drawn",
+        ]),
+        ("A three-part case, now complete", [
+            "protection, then fruitfulness, now futile attack &mdash;",
+            "loving-kindness argued for from three distinct angles",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn20.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-20.4.html">SN 20.4 &middot; Cauldrons</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-20.6.html">SN 20.6 &middot; The Archers</a> '
+        "&mdash; the next discourse, turning to speed rather than "
+        "loving-kindness.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 20.6 — Dhanuggahasutta
+# --------------------------------------------------------------------------- #
+page(
+    20, 6, "Dhanuggaha", "The Archers",
+    meta_title="SN 20.6 — The Archers | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Dhanuggahasutta — a man fast enough to catch four "
+        "archers' arrows before they land would still be slower "
+        "than the sun, the moon, and the waning of life itself. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, posing a question and answering "
+                     "it in escalating stages"),
+        ("Form", "A cascading comparison of speed, each stage "
+                 "outpacing the one before it"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; the most structurally elaborate "
+                       "comparison in this saṃyutta so far"),
+    ],
+    why=(
+        "This discourse builds its point in cascading stages of "
+        "speed. Four expert archers, strong and well-trained, stand "
+        "in the four directions; a man who could catch even one of "
+        "their arrows before it hit the ground would be worthy of "
+        "the title &ldquo;speedster with super-speed&rdquo; &mdash; "
+        "let alone catching all four. Yet as fast as that man is, "
+        "the sun and moon are faster; and as fast as the sun and "
+        "moon are, and the deities who run before them, the waning "
+        "of life force is faster still."),
+    guide=[
+        ("A three-stage escalation, not a single comparison", [
+            "Unlike most discourses in this saṃyutta, which draw one "
+            "direct comparison, this discourse builds through three "
+            "successive stages of speed &mdash; the archer's arrow, "
+            "the sun and moon, and finally the waning of life itself "
+            "&mdash; each stage explicitly outpacing the one before "
+            "it."]),
+        ("An impressive feat named only to be surpassed", [
+            "Catching a single arrow before it lands would already "
+            "earn the title of &ldquo;speedster with super-speed&rdquo;; "
+            "catching four simultaneously fired arrows would be even "
+            "more impressive still &mdash; yet this already "
+            "remarkable capability is introduced only to be dwarfed "
+            "by what follows."]),
+        ("Celestial bodies as intermediate rather than final terms", [
+            "The sun and moon, often used elsewhere as images of "
+            "ultimate scale or grandeur, appear here only as a "
+            "middle step in the escalation, themselves surpassed by "
+            "an even faster reference point rather than serving as "
+            "the comparison's final and most extreme term."]),
+        ("Life's waning as the discourse's actual, most urgent point", [
+            "Āyusaṅkhārā khīyanti, &ldquo;the waning of the life "
+            "force,&rdquo; is what the entire cascading comparison "
+            "has been building toward &mdash; every earlier stage of "
+            "speed exists to make the true subject's velocity, the "
+            "constant diminishing of remaining lifespan, feel "
+            "genuinely alarming by contrast."]),
+        ("A return to simple diligence after the sequence's most elaborate build-up", [
+            "Despite this discourse's uniquely layered structure, its "
+            "closing instruction is the same simple appamattā "
+            "viharissāma, &ldquo;we will stay diligent,&rdquo; used "
+            "in SN 20.1-2 &mdash; an elaborate escalation converging "
+            "on the same modest, practical response."]),
+    ],
+    terms=[
+        ("cattāro daḷhadhammā dhanuggahā",
+         "&ldquo;four well-trained expert archers with strong "
+         "bows&rdquo; &mdash; the discourse's opening image, "
+         "standing in the four directions."),
+        ("javano puriso paramena javena samannāgato",
+         "&ldquo;a speedster endowed with super-speed&rdquo; "
+         "&mdash; the title earned by someone capable of catching "
+         "even one such arrow before it lands."),
+        ("candimasūriyānaṁ javo",
+         "&ldquo;the speed of the sun and moon&rdquo; &mdash; the "
+         "comparison's second, faster stage, itself later surpassed."),
+        ("āyusaṅkhārā khīyanti",
+         "&ldquo;the waning of the life force&rdquo; &mdash; the "
+         "discourse's actual, most urgent point, faster than every "
+         "earlier stage of the comparison."),
+        ("appamattā viharissāma",
+         "&ldquo;we will stay diligent&rdquo; &mdash; the same "
+         "simple closing instruction used in SN 20.1-2, despite this "
+         "discourse's much more elaborate build-up."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn20.6:1.1-1.6"),
+        ("p", "&sect;2", "sn20.6:2.1-2.2"),
+        ("p", "&sect;3", "sn20.6:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "How many successive stages of speed does this discourse's comparison build through?",
+         "opts": [
+             "Three — the archer's arrow, the sun and moon, and the waning of life force",
+             "A single, direct comparison with no escalation",
+             "Five distinct stages of increasing speed",
+             "No comparison of speed is made"],
+         "correct": 0,
+         "expl": "Each stage explicitly outpacing the one before it, unlike most other discourses in this saṃyutta."},
+        {"q": "What title would a man earn by catching even one archer's arrow before it lands?",
+         "opts": [
+             "\"A speedster endowed with super-speed\"",
+             "\"The fastest being in existence\"",
+             "No title is given for this feat",
+             "\"A master archer\""],
+         "correct": 0,
+         "expl": "An impressive feat, introduced only to be dwarfed by what follows in the comparison."},
+        {"q": "What role do the sun and moon play in this discourse's escalation?",
+         "opts": [
+             "An intermediate stage, themselves surpassed by an even faster reference point",
+             "The final and most extreme term of the comparison",
+             "They are not mentioned in this discourse",
+             "They are described as slower than the archer's arrows"],
+         "correct": 0,
+         "expl": "Unlike their use elsewhere as images of ultimate scale, here they are surpassed by what follows."},
+        {"q": "What is the discourse's actual, most urgent point, toward which the whole escalation builds?",
+         "opts": [
+             "The constant waning of remaining lifespan",
+             "The skill required to become an expert archer",
+             "The brightness of the sun compared to the moon",
+             "The importance of physical speed and agility"],
+         "correct": 0,
+         "expl": "Every earlier stage exists to make this final point feel genuinely alarming by contrast."},
+        {"q": "What closing instruction does this discourse share with SN 20.1-2, despite its more elaborate structure?",
+         "opts": [
+             "To stay diligent (appamatta)",
+             "To develop loving-kindness specifically",
+             "To catch arrows before they land",
+             "No closing instruction is given"],
+         "correct": 0,
+         "expl": "An elaborate escalation converging on the same modest, practical response."},
+        {"q": "How does this discourse's structure compare to most others in this saṃyutta?",
+         "opts": [
+             "It is the most structurally elaborate comparison so far, building through multiple stages rather than one direct comparison",
+             "It is identical in structure to every other discourse in the saṃyutta",
+             "It contains no comparison of any kind",
+             "It is the shortest discourse in the entire saṃyutta"],
+         "correct": 0,
+         "expl": "A cascading comparison rather than a single direct image."},
+        {"q": "How many archers does this discourse's opening image describe?",
+         "opts": [
+             "Four, standing in the four directions",
+             "A single archer",
+             "Two archers facing each other",
+             "No archers are described"],
+         "correct": 0,
+         "expl": "Well-trained and strong-bowed, firing simultaneously in four directions."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout most of this saṃyutta."},
+        {"q": "Who participates in this discourse's exchange?",
+         "opts": [
+             "The Buddha and the assembled mendicants",
+             "The Buddha and Venerable Lakkhaṇa alone",
+             "Two unnamed laypeople",
+             "The Buddha speaking with no one present"],
+         "correct": 0,
+         "expl": "A question posed and answered in escalating stages."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The sixth discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("Speed piled on speed, each stage outpacing the last", [
+            "an arrow, then the sun, then something faster still &mdash;",
+            "escalation built to make the final point land hard",
+        ]),
+        ("An impressive feat, named only to be dwarfed", [
+            "worthy of a title, then surpassed entirely &mdash;",
+            "the comparison always aiming past its first stage",
+        ]),
+        ("The sun and moon, demoted to a middle step", [
+            "not the final measure, just one stage among several &mdash;",
+            "even grandeur outpaced by what the discourse is really after",
+        ]),
+        ("Life's waning as the true, alarming subject", [
+            "faster than everything named before it &mdash;",
+            "the whole cascade existing to make this land",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn20.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-20.5.html">SN 20.5 &middot; A Spear</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-20.7.html">SN 20.7 &middot; The Drum Called '
+        "Plugger</a> &mdash; the next discourse, one of this "
+        "collection's most well-known images.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 20.7 — Āṇisutta
+# --------------------------------------------------------------------------- #
+page(
+    20, 7, "Āṇi", "The Drum Called Plugger",
+    meta_title="SN 20.7 — The Drum Called Plugger | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Āṇisutta — an ancient drum patched so many times "
+        "that only the patches remain, foretelling how future "
+        "mendicants will prefer ornate poetry to the Buddha's deep "
+        "teachings on emptiness. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A historical anecdote about a named object, "
+                 "applied as a warning about future doctrinal "
+                 "neglect"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; among the most widely cited images "
+                       "in the tradition for the decline of the "
+                       "Dhamma"),
+    ],
+    why=(
+        "This discourse tells of an ancient drum belonging to the "
+        "Dasārahas, called the Plugger. Whenever it cracked, they "
+        "patched it with another plug, until eventually the original "
+        "wooden shell disappeared entirely, leaving only a mass of "
+        "plugs where a drum once stood. In the same way, the Buddha "
+        "warns, future mendicants won't want to listen to his own "
+        "deep, profound discourses on emptiness; they'll prefer "
+        "poetry composed by outsiders, and that preference is "
+        "exactly how his genuine teachings will disappear."),
+    guide=[
+        ("A named object with its own history, not an anonymous image", [
+            "Unlike most similes in this saṃyutta, which describe "
+            "generic scenes, this discourse's drum has a specific "
+            "name, the Plugger, and a named owner, the Dasārahas, "
+            "giving the comparison the texture of remembered history "
+            "rather than an invented illustration."]),
+        ("Disappearance through accumulated small repairs, not sudden loss", [
+            "The drum isn't destroyed in a single dramatic event; it "
+            "vanishes gradually, one plug replacing one crack at a "
+            "time, until the cumulative effect of many small, "
+            "individually reasonable repairs is total transformation "
+            "&mdash; nothing of the original remains."]),
+        ("A precise description of what future mendicants will prefer instead", [
+            "The discourse doesn't simply say future teachings will "
+            "be worse; it specifies exactly what will replace the "
+            "genuine teachings: poetry, kavikatā kāveyyā, with fancy "
+            "words and phrases, composed by outsiders or disciples "
+            "rather than spoken by the Buddha himself."]),
+        ("Emptiness named specifically as what's at risk", [
+            "The discourses at risk of disappearing aren't described "
+            "generically as important teachings; they're specified "
+            "as suññatappaṭisaṁyuttā, dealing with emptiness, naming "
+            "a specific and famously difficult category of teaching "
+            "as particularly vulnerable to neglect."]),
+        ("A warning that became, in its own telling, self-fulfilling material", [
+            "This discourse's image of authentic teaching giving way "
+            "to ornamented substitutes has itself become one of the "
+            "most frequently cited passages in later discussions "
+            "about the decline of the Dhamma, an unusual case of a "
+            "warning about neglect becoming a widely remembered and "
+            "quoted teaching in its own right."]),
+    ],
+    terms=[
+        ("ānako nāma mudiṅgo",
+         "&ldquo;a mridangam drum called the Plugger&rdquo; &mdash; "
+         "this discourse's named central image, belonging to a "
+         "specific historical group, the Dasārahas."),
+        ("aññaṁ āṇiṁ odahiṁsu",
+         "&ldquo;patched it with another plug&rdquo; &mdash; the "
+         "specific, repeated action that eventually consumed the "
+         "drum's original material entirely."),
+        ("āṇisaṅghātova avasissi",
+         "&ldquo;all that was left … was a mass of plugs&rdquo; "
+         "&mdash; the drum's final state, nothing of the original "
+         "shell remaining."),
+        ("suññatappaṭisaṁyuttā",
+         "&ldquo;dealing with emptiness&rdquo; &mdash; the specific "
+         "category of teaching this discourse names as particularly "
+         "vulnerable to future neglect."),
+        ("kavikatā kāveyyā cittakkharā cittabyañjanā",
+         "&ldquo;poetry, with fancy words and phrases&rdquo; "
+         "&mdash; the specific substitute the discourse predicts "
+         "future mendicants will prefer over the Buddha's own deep "
+         "teachings."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn20.7:1.1-1.6"),
+        ("p", "&sect;2", "sn20.7:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What is distinctive about this discourse's central image compared to most others in this saṃyutta?",
+         "opts": [
+             "It has a specific name (the Plugger) and named owners (the Dasārahas), giving it the texture of remembered history",
+             "It describes an entirely anonymous, generic scene",
+             "It involves no object at all",
+             "It is identical to SN 20.1's roof-peak image"],
+         "correct": 0,
+         "expl": "Unlike most similes in this collection, which describe generic scenes."},
+        {"q": "How does the drum eventually lose its original form?",
+         "opts": [
+             "Gradually, through many small individual repairs accumulating until nothing of the original remained",
+             "Through a single sudden, catastrophic event",
+             "It is deliberately destroyed all at once",
+             "The drum never actually changes at all"],
+         "correct": 0,
+         "expl": "Disappearance through accumulated small repairs, not sudden loss."},
+        {"q": "What specific category of teaching does this discourse name as particularly at risk of disappearing?",
+         "opts": [
+             "Discourses dealing with emptiness (suññatappaṭisaṁyuttā)",
+             "Discourses about monastic rules generally",
+             "All spoken teachings without exception",
+             "No specific category is named"],
+         "correct": 0,
+         "expl": "A famously difficult category of teaching specified as particularly vulnerable to neglect."},
+        {"q": "What does the discourse predict future mendicants will prefer instead of the Buddha's deep teachings?",
+         "opts": [
+             "Poetry with fancy words and phrases, composed by outsiders or disciples",
+             "Complete silence, with no teachings recited at all",
+             "Only teachings given directly by the Buddha himself",
+             "No preference is predicted"],
+         "correct": 0,
+         "expl": "A precise description of the substitute, not a vague claim that things will simply worsen."},
+        {"q": "What unusual fate has this discourse's own image had in the wider tradition?",
+         "opts": [
+             "It has itself become one of the most frequently cited passages discussing the Dhamma's decline",
+             "It has been almost entirely forgotten and rarely referenced",
+             "It has been formally retracted by later commentators",
+             "It has no relationship to any later discussion"],
+         "correct": 0,
+         "expl": "A warning about neglect becoming, ironically, widely remembered and quoted material."},
+        {"q": "Who owned the drum called the Plugger, according to this discourse?",
+         "opts": [
+             "The Dasārahas",
+             "The Licchavis",
+             "King Ajātasattu",
+             "No owner is named"],
+         "correct": 0,
+         "expl": "A specific historical group, distinguishing this image from an anonymous illustration."},
+        {"q": "What action caused the drum to eventually lose its original shell entirely?",
+         "opts": [
+             "Repeatedly patching cracks with new plugs, over an extended period",
+             "Leaving the drum unused and untouched",
+             "Deliberately dismantling the drum in one session",
+             "No specific action is described"],
+         "correct": 0,
+         "expl": "The cumulative effect of many individually reasonable repairs."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout most of this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Lakkhaṇa",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Sattamaṁ, \"the seventh\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The seventh discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("A drum with an actual name and history", [
+            "the Plugger, owned by the Dasārahas &mdash;",
+            "remembered history, not an invented illustration",
+        ]),
+        ("Loss through many small, reasonable repairs", [
+            "one plug at a time, nothing dramatic at any single step &mdash;",
+            "transformation total, without ever feeling sudden",
+        ]),
+        ("A specific substitute named, not just vague decline", [
+            "ornate poetry, in place of teachings on emptiness &mdash;",
+            "precision about exactly what will be preferred instead",
+        ]),
+        ("A warning that became exactly the kind of thing it warned about", [
+            "quoted and remembered widely, ever since &mdash;",
+            "the image itself surviving where plain teaching might not",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn20.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-20.6.html">SN 20.6 &middot; The Archers</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-20.8.html">SN 20.8 &middot; Wood Blocks</a> '
+        "&mdash; the next discourse, another warning about "
+        "diligence lost to comfort.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 20.8 — Kaliṅgarasutta
+# --------------------------------------------------------------------------- #
+page(
+    20, 8, "Kaliṅgara", "Wood Blocks",
+    meta_title="SN 20.8 — Wood Blocks | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Kaliṅgarasutta — the Licchavis presently sleep on "
+        "wood blocks and stay diligent, giving King Ajātasattu no "
+        "opening, but comfort will one day give him his chance. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, the Great Wood"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A political observation paired directly with a "
+                 "parallel warning about monastic comfort"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; naming a specific contemporary "
+                       "political rivalry as its opening comparison"),
+    ],
+    why=(
+        "This discourse opens with a contemporary political "
+        "observation: the Licchavis currently sleep using wood "
+        "blocks as pillows and live diligently, so King Ajātasattu "
+        "of Magadha finds no vulnerability to exploit. But in the "
+        "future, the Buddha warns, they'll grow soft, sleeping on "
+        "downy beds until sunrise, and then Ajātasattu will find his "
+        "opening. The same pattern, the Buddha says, applies to "
+        "mendicants and Māra: comfort now being resisted is exactly "
+        "what will one day hand the adversary his chance."),
+    guide=[
+        ("A real political rivalry, not an invented scenario", [
+            "Ajātasattu of Magadha and the Licchavi confederacy "
+            "represent an actual contemporary political tension, "
+            "grounding this discourse's opening comparison in "
+            "recognizable current events rather than a timeless or "
+            "invented illustration."]),
+        ("Vulnerability and diligence linked directly and specifically", [
+            "The Licchavis' physical austerity (sleeping on wood "
+            "blocks) and their political security (giving Ajātasattu "
+            "no opening) are presented as directly causally linked, "
+            "not as coincidentally occurring together."]),
+        ("Two parallel warnings run through the identical structure", [
+            "This discourse states its political observation and its "
+            "monastic warning in exactly matching language and "
+            "structure, applying the same present-security-versus-"
+            "future-vulnerability pattern to both the Licchavis and "
+            "Māra without variation."]),
+        ("A rare instance of the closing instruction naming the specific practice itself", [
+            "Unlike most discourses in this saṃyutta, whose closing "
+            "instruction is either simple diligence or the "
+            "loving-kindness formula, this discourse's instruction "
+            "specifically commits to continuing the wood-block "
+            "pillow itself, keeping the concrete practice named in "
+            "the discourse's own image rather than abstracting it "
+            "into a general principle."]),
+        ("Māra named as the specific adversary awaiting comfort's opening", [
+            "Māra pāpimā, &ldquo;Māra the Wicked,&rdquo; is named "
+            "directly as the one who currently finds no vulnerability "
+            "in diligent mendicants but will find his opportunity "
+            "once they grow soft, paralleling Ajātasattu's role "
+            "exactly in the discourse's structure."]),
+    ],
+    terms=[
+        ("kaliṅgarūpadhānā",
+         "&ldquo;using wood blocks as pillows&rdquo; &mdash; the "
+         "specific austere practice both the Licchavis and diligent "
+         "mendicants are described as currently maintaining."),
+        ("rājā māgadho ajātasattu vedehiputto",
+         "&ldquo;King Ajātasattu of Magadha, son of the princess of "
+         "Videha&rdquo; &mdash; the specific historical rival named "
+         "as unable to find an opening against the diligent "
+         "Licchavis."),
+        ("otāraṁ … ārammaṇaṁ",
+         "&ldquo;vulnerability … opportunity&rdquo; &mdash; the "
+         "paired terms describing what a diligent party denies its "
+         "adversary and a comfort-seeking party eventually grants."),
+        ("māro pāpimā",
+         "&ldquo;Māra the Wicked&rdquo; &mdash; named directly as "
+         "the adversary paralleling Ajātasattu's role against "
+         "mendicants specifically."),
+        ("kaliṅgarūpadhānā viharissāma appamattā ātāpino padhānasmiṁ",
+         "&ldquo;we will live using wood blocks as pillows, and we "
+         "will meditate diligently and keenly&rdquo; &mdash; the "
+         "closing instruction naming the specific concrete practice "
+         "itself, not a general principle."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn20.8:1.1-1.6"),
+        ("p", "&sect;2", "sn20.8:2.1-2.5"),
+        ("p", "&sect;3", "sn20.8:3.1-3.8"),
+    ],
+    quiz=[
+        {"q": "What contemporary political situation does this discourse's opening observation reference?",
+         "opts": [
+             "The rivalry between the Licchavi confederacy and King Ajātasattu of Magadha",
+             "An entirely fictional, invented political scenario",
+             "A conflict between two unnamed kingdoms",
+             "No political situation is referenced"],
+         "correct": 0,
+         "expl": "Grounding the comparison in recognizable current events rather than a timeless illustration."},
+        {"q": "What practice does the discourse describe the Licchavis currently maintaining?",
+         "opts": [
+             "Sleeping using wood blocks as pillows, and living diligently",
+             "Sleeping on soft beds with down pillows",
+             "Avoiding all contact with King Ajātasattu",
+             "No specific practice is described"],
+         "correct": 0,
+         "expl": "The specific austerity linked directly to their current political security."},
+        {"q": "What does the discourse predict will happen if the Licchavis become soft and comfort-seeking?",
+         "opts": [
+             "King Ajātasattu will find a vulnerability and get an opportunity",
+             "They will become permanently invulnerable to any attack",
+             "Nothing will change in their political situation",
+             "Ajātasattu will lose interest in Magadha entirely"],
+         "correct": 0,
+         "expl": "The exact reversal of their current diligent security."},
+        {"q": "Who is named as the specific adversary awaiting mendicants' loss of diligence?",
+         "opts": [
+             "Māra the Wicked (māro pāpimā)",
+             "King Ajātasattu himself",
+             "An unnamed rival ascetic teacher",
+             "No adversary is named for mendicants specifically"],
+         "correct": 0,
+         "expl": "Paralleling Ajātasattu's role exactly in the discourse's structure."},
+        {"q": "How does this discourse's closing instruction differ from most others in this saṃyutta?",
+         "opts": [
+             "It names the specific concrete practice itself — continuing to use wood blocks as pillows — rather than a general principle",
+             "It is identical to every other closing instruction in the saṃyutta",
+             "It gives no closing instruction at all",
+             "It instructs mendicants to abandon the wood-block practice"],
+         "correct": 0,
+         "expl": "Keeping the concrete practice named in the discourse's own image rather than abstracting it."},
+        {"q": "How are the political observation and the monastic warning structured in this discourse?",
+         "opts": [
+             "In exactly matching language and structure, applying the identical pattern to both",
+             "As two completely unrelated, separately structured claims",
+             "The monastic warning directly contradicts the political observation",
+             "Only the political observation is given; no monastic parallel follows"],
+         "correct": 0,
+         "expl": "The same present-security-versus-future-vulnerability pattern applied without variation."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Vesālī, at the Great Wood",
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "A setting distinct from the Sāvatthī-based framing common elsewhere in this saṃyutta."},
+        {"q": "What specifically gives Ajātasattu no vulnerability to exploit, according to this discourse?",
+         "opts": [
+             "The Licchavis living diligently and using wood blocks as pillows",
+             "A formal peace treaty between the two parties",
+             "Ajātasattu's own lack of military strength",
+             "No specific reason is given"],
+         "correct": 0,
+         "expl": "A direct causal link between physical austerity and political security."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Lakkhaṇa",
+             "King Ajātasattu himself",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "Navamaṁ, \"the ninth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eighth discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("A real rivalry, not an invented scenario", [
+            "Ajātasattu and the Licchavis, named directly &mdash;",
+            "current events grounding the comparison, not fable",
+        ]),
+        ("Austerity and security, linked as cause and effect", [
+            "wood-block pillows keeping the opening closed &mdash;",
+            "not coincidence, but a direct connection drawn",
+        ]),
+        ("The same pattern, applied without variation twice", [
+            "kingdom and Saṅgha, matched structure exactly &mdash;",
+            "one warning stated in two parallel registers",
+        ]),
+        ("A concrete practice named, not abstracted away", [
+            "\"we will keep using wood blocks,\" said outright &mdash;",
+            "the actual image itself kept as the instruction",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn20.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-20.7.html">SN 20.7 &middot; The Drum Called '
+        "Plugger</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-20.9.html">SN 20.9 &middot; A Bull Elephant</a> '
+        "&mdash; the next discourse, addressing a specific incident "
+        "of monastic overfamiliarity.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 20.9 — Nāgasutta
+# --------------------------------------------------------------------------- #
+page(
+    20, 9, "Nāga", "A Bull Elephant",
+    meta_title="SN 20.9 — A Bull Elephant | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Nāgasutta — a junior mendicant defends visiting "
+        "families too often by citing senior mendicants, and the "
+        "Buddha responds with a parable of elephant calves who "
+        "imitate their elders without the elders' proper care. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove"),
+        ("Speakers", "A junior mendicant, several other mendicants, "
+                     "and the Buddha"),
+        ("Form", "A reported dispute among mendicants, resolved by "
+                 "a parable of imitation without understanding"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; the first discourse in this "
+                       "saṃyutta prompted by an actual reported "
+                       "dispute rather than delivered unprompted"),
+    ],
+    why=(
+        "This discourse opens with a concrete situation: a junior "
+        "mendicant visits families too often, and when other "
+        "mendicants correct him, he justifies himself by pointing to "
+        "senior mendicants who do the same. Rather than simply "
+        "ruling on the dispute directly, the Buddha answers with a "
+        "parable: bull elephants at a jungle lake pull up lotus "
+        "bulbs and wash them thoroughly before eating, staying "
+        "healthy; but young calves, imitating only the outward "
+        "action, eat the bulbs still muddy and suffer for it. Senior "
+        "mendicants, the Buddha explains, use their alms-gifts "
+        "without attachment, seeing the drawbacks and understanding "
+        "the escape; junior mendicants who copy only the visible "
+        "behavior, without that same freedom from attachment, come "
+        "to harm."),
+    guide=[
+        ("A real dispute prompting the teaching, not an unprompted discourse", [
+            "Unlike every discourse before it in this saṃyutta, "
+            "which the Buddha delivers unprompted to the assembled "
+            "mendicants, this discourse responds to an actual "
+            "reported conflict &mdash; several mendicants specifically "
+            "bring the disagreement to the Buddha for his judgment."]),
+        ("A justification citing precedent rather than defending the action itself", [
+            "The junior mendicant doesn't argue that visiting "
+            "families frequently is harmless; he argues that senior "
+            "mendicants already do it, shifting the justification "
+            "from the action's merits to an appeal to others' "
+            "example &mdash; precisely the flawed reasoning the "
+            "parable exposes."]),
+        ("Imitating the visible action while missing its invisible condition", [
+            "The calves copy exactly what the adult elephants "
+            "visibly do &mdash; pulling up and eating lotus bulbs "
+            "&mdash; but miss the crucial invisible step, thorough "
+            "washing, that makes the action safe; the parable's "
+            "point turns on a difference in care that isn't obvious "
+            "from watching the outward behavior alone."]),
+        ("Attachment, not the visiting itself, identified as the actual danger", [
+            "The Buddha's application doesn't conclude that visiting "
+            "families is inherently wrong; it locates the real "
+            "danger in how gifts received during such visits are "
+            "used &mdash; with attachment and infatuation, or "
+            "without them &mdash; making the senior/junior distinction "
+            "about internal disposition rather than the external "
+            "behavior itself."]),
+        ("A structure this saṃyutta reuses in its very next discourse", [
+            "This discourse's pattern &mdash; a reported disciplinary "
+            "problem, a mendicant who won't accept correction, and a "
+            "parable resolving it &mdash; recurs almost exactly in "
+            "SN 20.10, forming a deliberate two-discourse pair "
+            "addressing similar monastic conduct issues from "
+            "different angles."]),
+    ],
+    terms=[
+        ("ativelaṁ kulāni upasaṅkamati",
+         "&ldquo;visits families too often&rdquo; &mdash; the "
+         "junior mendicant's specific behavior that prompts "
+         "correction and, ultimately, this discourse's teaching."),
+        ("bhisamuḷālaṁ",
+         "&ldquo;lotus bulbs&rdquo; &mdash; the specific food the "
+         "elephants and their calves both seek, differing only in "
+         "how carefully it's prepared before eating."),
+        ("suvikkhālitaṁ vikkhāletvā akaddamaṁ",
+         "&ldquo;washed thoroughly … free of mud&rdquo; &mdash; "
+         "the crucial invisible step the adult elephants perform "
+         "and the calves, imitating only the visible action, skip."),
+        ("agadhitā amucchitā anajjhopannā ādīnavadassāvino "
+         "nissaraṇapaññā",
+         "&ldquo;untied, uninfatuated, unattached, seeing the "
+         "drawbacks, and understanding the escape&rdquo; &mdash; "
+         "the internal disposition distinguishing senior mendicants' "
+         "safe use of gifts from junior mendicants' harmful "
+         "imitation."),
+        ("maraṇaṁ vā … maraṇamattaṁ vā dukkhaṁ",
+         "&ldquo;death or deadly pain&rdquo; &mdash; the outcome "
+         "for both the calves who eat muddy bulbs and the junior "
+         "mendicants who use gifts with attachment."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn20.9:1.1-1.7"),
+        ("p", "&sect;2", "sn20.9:2.1-2.6"),
+        ("p", "&sect;3", "sn20.9:3.1-3.7"),
+        ("p", "&sect;4", "sn20.9:4.1-4.13"),
+    ],
+    quiz=[
+        {"q": "What prompts this discourse, unlike every discourse before it in this saṃyutta?",
+         "opts": [
+             "An actual reported dispute among mendicants, brought to the Buddha for judgment",
+             "An unprompted teaching delivered with no preceding event",
+             "A question posed by a visiting layperson",
+             "A formal debate with a rival ascetic teacher"],
+         "correct": 0,
+         "expl": "A concrete situation, not an unprompted discourse like the eight before it."},
+        {"q": "How does the junior mendicant justify his frequent family visits?",
+         "opts": [
+             "By pointing out that senior mendicants already do the same thing",
+             "By arguing the practice is harmless in every case",
+             "By claiming he has special permission from the Buddha",
+             "He offers no justification at all"],
+         "correct": 0,
+         "expl": "An appeal to precedent rather than a defense of the action's actual merits."},
+        {"q": "What crucial step do the young elephant calves skip when imitating the adult elephants?",
+         "opts": [
+             "Thoroughly washing the lotus bulbs free of mud before eating them",
+             "Pulling the bulbs up with their trunks",
+             "Approaching the lake at all",
+             "No specific step is skipped"],
+         "correct": 0,
+         "expl": "An invisible step not obvious from watching the outward behavior alone."},
+        {"q": "What does the Buddha identify as the actual danger in his application of the parable?",
+         "opts": [
+             "How gifts received are used — with attachment and infatuation, or without them",
+             "The act of visiting families itself, regardless of any other factor",
+             "The specific location where alms are collected",
+             "No specific danger is identified"],
+         "correct": 0,
+         "expl": "Locating the danger in internal disposition rather than the external behavior itself."},
+        {"q": "What distinguishes senior mendicants' safe use of gifts from junior mendicants' harmful imitation?",
+         "opts": [
+             "Using gifts untied, uninfatuated, unattached, seeing the drawbacks, and understanding the escape",
+             "Senior mendicants receive larger gifts than junior mendicants",
+             "Senior mendicants never receive any gifts at all",
+             "No distinction is actually made between the two groups"],
+         "correct": 0,
+         "expl": "An internal disposition, not visible in the outward act of visiting families."},
+        {"q": "What structural pattern does this discourse share with SN 20.10?",
+         "opts": [
+             "A reported disciplinary problem, a mendicant who won't accept correction, and a resolving parable",
+             "Both discourses are delivered entirely unprompted",
+             "Both discourses concern loving-kindness specifically",
+             "There is no relationship between the two discourses"],
+         "correct": 0,
+         "expl": "Forming a deliberate two-discourse pair addressing similar monastic conduct issues."},
+        {"q": "What happens to the calves who eat the lotus bulbs without washing them?",
+         "opts": [
+             "They suffer death or deadly pain as a result",
+             "They grow larger and stronger than the adults",
+             "Nothing happens to them at all",
+             "They immediately learn to wash the bulbs properly"],
+         "correct": 0,
+         "expl": "The same outcome later applied to junior mendicants who imitate only the visible behavior."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, in Jeta's Grove",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Vesālī, at the Great Wood",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting given in full detail, matching this saṃyutta's opening discourse."},
+        {"q": "Who reports the junior mendicant's situation to the Buddha?",
+         "opts": [
+             "Several mendicants, who approach the Buddha directly",
+             "The junior mendicant himself, seeking forgiveness",
+             "No one reports it; the Buddha addresses it unprompted",
+             "A layperson who witnessed the visits"],
+         "correct": 0,
+         "expl": "A concrete disciplinary situation brought for the Buddha's response."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Navamaṁ, \"the ninth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The ninth discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("A real dispute, not an unprompted teaching", [
+            "brought by mendicants themselves, for judgment &mdash;",
+            "the first discourse in this saṃyutta to work this way",
+        ]),
+        ("An appeal to precedent, not to merit", [
+            "\"the seniors do it too,\" not \"it's actually fine\" &mdash;",
+            "exactly the reasoning the parable goes on to expose",
+        ]),
+        ("The same action, a hidden difference in care", [
+            "washed thoroughly, or eaten still muddy &mdash;",
+            "imitation missing what isn't visible from outside",
+        ]),
+        ("Attachment named as the actual danger, not the visit itself", [
+            "not where gifts come from, but how they're held &mdash;",
+            "the real distinction lying in disposition, not behavior",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn20.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-20.8.html">SN 20.8 &middot; Wood Blocks</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-20.10.html">SN 20.10 &middot; A Cat</a> '
+        "&mdash; the next discourse, addressing a related "
+        "disciplinary situation.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 20.10 — Biḷārasutta
+# --------------------------------------------------------------------------- #
+page(
+    20, 10, "Biḷāra", "A Cat",
+    meta_title="SN 20.10 — A Cat | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Biḷārasutta — a cat swallows a mouse whole without "
+        "chewing, and the mouse eats through the cat's insides, "
+        "killing it, illustrating the danger of an unguarded mind "
+        "entering a village. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Several mendicants and the Buddha, responding "
+                     "to a mendicant who wouldn't accept correction"),
+        ("Form", "A second reported disciplinary case, resolved by "
+                 "a vivid parable of a fatal miscalculation"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; a strikingly visceral image applied "
+                       "to a subtler internal failure"),
+    ],
+    why=(
+        "This discourse reports a mendicant who socialized with "
+        "families too often and, unlike SN 20.9's junior mendicant, "
+        "didn't stop even after correction. The Buddha responds with "
+        "a startling image: a cat, hunting a mouse by a drain, "
+        "catches and swallows it whole without chewing &mdash; but "
+        "the mouse, still alive inside, eats through the cat's "
+        "intestines and mesentery, killing it. In the same way, a "
+        "mendicant who enters a village unguarded in body, speech, "
+        "and mind, sees a scantily clad woman, and lets lust take "
+        "hold, meets a consequence the discourse calls death or "
+        "deadly pain within the discipline of the Noble One."),
+    guide=[
+        ("A second disciplinary case, escalating from the first", [
+            "Where SN 20.9's junior mendicant justified himself by "
+            "appeal to precedent, this discourse's mendicant simply "
+            "refuses to stop even after direct correction, marking a "
+            "more serious failure of responsiveness that the "
+            "following parable's more visceral image seems to "
+            "match."]),
+        ("Danger consumed and internalized, not merely encountered", [
+            "The cat's fatal mistake isn't being attacked from "
+            "outside; it's swallowing danger whole and letting it "
+            "operate from within, unseen until it's already fatal "
+            "&mdash; a structurally different kind of threat than "
+            "the external attacks (birds, bandits, non-humans) "
+            "described in earlier discourses of this saṃyutta."]),
+        ("A metaphorical death given a precise technical meaning", [
+            "The discourse doesn't leave &ldquo;death&rdquo; as a "
+            "loose figure of speech; it specifies exactly what counts "
+            "as death in the Noble One's discipline (disavowing the "
+            "training and returning to lay life) and what counts as "
+            "deadly pain (committing a corrupt but rehabilitable "
+            "offense), giving the parable's stark image two "
+            "distinct, carefully defined outcomes."]),
+        ("Vulnerability located in specific unguarded faculties", [
+            "The mendicant's failure is described precisely: entering "
+            "the village without guarding body, speech, or mind, "
+            "without establishing mindfulness, and without "
+            "restraining the sense faculties &mdash; a checklist of "
+            "specific safeguards whose absence, not any single "
+            "dramatic lapse, creates the vulnerability."]),
+        ("Completing a deliberate pair with SN 20.9", [
+            "Read together, these two discourses address the same "
+            "underlying problem &mdash; unguarded interaction with "
+            "the lay community &mdash; from two angles: attachment "
+            "to material gain in SN 20.9, and susceptibility to lust "
+            "in this discourse, both resulting in comparable harm "
+            "despite their different specific triggers."]),
+    ],
+    terms=[
+        ("mudumūsiṁ maggayamāno",
+         "&ldquo;hunting a little mouse&rdquo; &mdash; the cat's "
+         "initial, seemingly successful action, before its fatal "
+         "miscalculation."),
+        ("sahasā saṅkhāditvā ajjhohari",
+         "&ldquo;hastily swallowed it without chewing&rdquo; "
+         "&mdash; the specific error, consuming the danger whole "
+         "rather than dealing with it carefully."),
+        ("antampi khādi, antaguṇampi khādi",
+         "&ldquo;ate its intestines … and mesentery&rdquo; &mdash; "
+         "the mouse's fatal action from within the cat, unseen until "
+         "too late."),
+        ("arakkhiteneva kāyena arakkhitāya vācāya arakkhitena "
+         "cittena",
+         "&ldquo;without guarding body, speech, and mind&rdquo; "
+         "&mdash; the specific, itemized vulnerability this "
+         "discourse describes as the mendicant's actual failure."),
+        ("sikkhaṁ paccakkhāya hīnāyāvattati",
+         "&ldquo;disavows the training and returns to a lesser "
+         "life&rdquo; &mdash; the discourse's precise technical "
+         "meaning for &ldquo;death&rdquo; within the Noble One's "
+         "discipline."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn20.10:1.1-1.10"),
+        ("p", "&sect;2", "sn20.10:2.1-2.6"),
+        ("p", "&sect;3", "sn20.10:3.1-3.10"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's mendicant differ from SN 20.9's junior mendicant?",
+         "opts": [
+             "He simply refuses to stop even after direct correction, rather than offering a justification",
+             "He immediately corrects his behavior upon being told",
+             "He is a senior mendicant, unlike SN 20.9's junior mendicant",
+             "There is no difference between the two cases"],
+         "correct": 0,
+         "expl": "A more serious failure of responsiveness than SN 20.9's appeal to precedent."},
+        {"q": "What fatal mistake does the cat in this discourse's parable make?",
+         "opts": [
+             "It swallows the mouse whole without chewing, letting it operate from within",
+             "It fails to catch the mouse at all",
+             "It shares its prey with another cat",
+             "No mistake is described; the cat succeeds without issue"],
+         "correct": 0,
+         "expl": "Consuming danger whole rather than dealing with it carefully, a threat operating unseen from inside."},
+        {"q": "How does this threat differ structurally from the external attacks described earlier in this saṃyutta?",
+         "opts": [
+             "It is internalized and unseen until fatal, rather than an external attack like birds or non-humans",
+             "It is identical in every respect to the earlier external threats",
+             "It involves no danger of any kind",
+             "It only affects animals, not people"],
+         "correct": 0,
+         "expl": "A structurally different kind of threat than the external dangers described in earlier discourses."},
+        {"q": "What two distinct outcomes does the discourse specify for the parable's application?",
+         "opts": [
+             "Disavowing the training and returning to lay life (\"death\"), or committing a rehabilitable offense (\"deadly pain\")",
+             "Only a single, undifferentiated outcome is given",
+             "Immediate physical death in both cases",
+             "No specific outcomes are given at all"],
+         "correct": 0,
+         "expl": "Two distinct, carefully defined technical meanings rather than a loose figure of speech."},
+        {"q": "What specific vulnerability does the discourse describe in the mendicant's conduct?",
+         "opts": [
+             "Entering the village without guarding body, speech, or mind, without mindfulness, and without restraining the senses",
+             "Walking too quickly through the village",
+             "Speaking too loudly while begging for alms",
+             "No specific vulnerability is described"],
+         "correct": 0,
+         "expl": "A checklist of specific safeguards whose absence creates the vulnerability, not one dramatic lapse."},
+        {"q": "How do this discourse and SN 20.9 relate to each other?",
+         "opts": [
+             "They form a deliberate pair addressing unguarded interaction with the lay community from two angles",
+             "They are entirely unrelated discourses with no shared theme",
+             "This discourse directly contradicts SN 20.9's teaching",
+             "They describe the exact same parable with no variation"],
+         "correct": 0,
+         "expl": "Attachment to material gain in SN 20.9, susceptibility to lust in this discourse, both resulting in comparable harm."},
+        {"q": "What specifically triggers the mendicant's downfall in this discourse's application?",
+         "opts": [
+             "Seeing a scantily clad woman while unguarded, letting lust take hold",
+             "Receiving too much material support",
+             "A direct verbal insult from a layperson",
+             "No specific trigger is given"],
+         "correct": 0,
+         "expl": "A single unguarded moment, matching the cat's single fatal swallow."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Vesālī, at the Great Wood",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout most of this saṃyutta."},
+        {"q": "Who reports this mendicant's situation to the Buddha?",
+         "opts": [
+             "Several mendicants, after their correction failed to change his behavior",
+             "The mendicant himself, seeking guidance",
+             "No one reports it; the Buddha addresses it unprompted",
+             "A layperson who witnessed his conduct"],
+         "correct": 0,
+         "expl": "A concrete disciplinary situation, matching the pattern established in SN 20.9."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dasamaṁ, \"the tenth\"",
+             "Navamaṁ, \"the ninth\"",
+             "Ekādasamaṁ, \"the eleventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The tenth discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("A refusal, not merely a weak excuse", [
+            "correction given, and simply ignored &mdash;",
+            "a step beyond SN 20.9's appeal to precedent",
+        ]),
+        ("Danger swallowed whole, working from within", [
+            "not attacked from outside, but consumed unseen &mdash;",
+            "a threat that operates only once it's already too late",
+        ]),
+        ("Two named outcomes, not a vague warning", [
+            "\"death\" and \"deadly pain,\" each precisely defined &mdash;",
+            "the stark image given exact technical meaning",
+        ]),
+        ("A checklist of what was left unguarded", [
+            "body, speech, mind, mindfulness, the senses &mdash;",
+            "vulnerability traced to specific, nameable absences",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn20.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-20.9.html">SN 20.9 &middot; A Bull Elephant</a> '
+        "&mdash; the discourse this one pairs with, addressing a "
+        "related disciplinary situation.",
+        '<a href="sn-20.11.html">SN 20.11 &middot; A Jackal</a> '
+        "&mdash; the next discourse, returning to an unprompted "
+        "teaching with a very different point.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 20.11 — Siṅgālasutta
+# --------------------------------------------------------------------------- #
+page(
+    20, 11, "Siṅgāla", "A Jackal",
+    meta_title="SN 20.11 — A Jackal | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Siṅgālasutta — even a mangy old jackal can go, "
+        "stand, sit, and lie down wherever it wants, and a lax "
+        "follower of the Buddha would be lucky to fare even that "
+        "well. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, opening with a question the "
+                     "mendicants confirm"),
+        ("Form", "A diseased animal's freedom used as an "
+                 "unflattering standard, not a warning of loss"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; reuses this collection's mangy-"
+                       "jackal image for a strikingly different "
+                       "point than elsewhere in the canon"),
+    ],
+    why=(
+        "This discourse opens by asking whether the mendicants heard "
+        "an old jackal howling at dawn, then describes its "
+        "condition: afflicted with mange, yet still free to go where "
+        "it wants, stand where it wants, sit and lie down where it "
+        "wants, and still feel the cool breeze. Rather than treating "
+        "this as a description of suffering to be pitied, the Buddha "
+        "draws an unflattering comparison: a certain person who "
+        "claims to follow the Sakyan &mdash; a lax, undisciplined "
+        "mendicant &mdash; would be lucky to fare even as well as "
+        "that diseased jackal in a future life."),
+    guide=[
+        ("The same jackal image used for a strikingly different point elsewhere", [
+            "A nearly identical description of a mangy jackal appears "
+            "in this project's Lābhasakkārasaṃyutta (SN 17.8), but "
+            "there it illustrates a mendicant's restless inability to "
+            "settle anywhere; here the same affliction is paired with "
+            "the jackal's retained freedom of movement, making an "
+            "entirely different, more unsettling point."]),
+        ("Freedom retained despite affliction as the actual detail emphasized", [
+            "Rather than dwelling on the jackal's suffering, this "
+            "discourse specifically emphasizes what it still "
+            "retains: the ability to go, stand, sit, and lie down "
+            "wherever it chooses, and to feel the cool breeze "
+            "&mdash; genuine freedoms, however modest, that a "
+            "diseased body hasn't taken away."]),
+        ("An unflattering comparison aimed at squandered advantage", [
+            "The point isn't that the jackal's life is enviable in "
+            "general; it's that a lax mendicant, someone who claims "
+            "the Buddha's own path but doesn't practice it "
+            "diligently, risks a future rebirth even less free than "
+            "this diseased animal's present one &mdash; a warning "
+            "aimed specifically at wasted opportunity, not general "
+            "pity for suffering."]),
+        ("A claimed identity contrasted with actual conduct", [
+            "Sakyaputtiyapaṭiñña, &ldquo;one who claims to follow the "
+            "Sakyan,&rdquo; specifically names the gap this discourse "
+            "warns against: holding the identity and title of a "
+            "follower while failing to practice with the diligence "
+            "that identity implies."]),
+        ("The first of a paired closing set on the same animal", [
+            "This discourse's jackal image recurs in the discourse "
+            "immediately following it, using the identical opening "
+            "question but drawing an entirely different lesson, "
+            "forming this saṃyutta's final pair before its close."]),
+    ],
+    terms=[
+        ("jarasiṅgālo",
+         "&ldquo;an old jackal&rdquo; &mdash; this discourse's "
+         "central image, afflicted with mange but retaining certain "
+         "freedoms despite its condition."),
+        ("ukkaṇḍakena nāma rogajātena phuṭṭho",
+         "&ldquo;afflicted with the disease called mange&rdquo; "
+         "&mdash; the same specific affliction used for a different "
+         "point in SN 17.8 elsewhere in this project."),
+        ("yena yena icchati tena tena gacchati",
+         "&ldquo;goes where it wants&rdquo; &mdash; the freedom of "
+         "movement this discourse specifically emphasizes, despite "
+         "the jackal's disease."),
+        ("sakyaputtiyapaṭiñño",
+         "&ldquo;one who claims to follow the Sakyan&rdquo; &mdash; "
+         "naming the gap between claimed identity and actual "
+         "diligent practice this discourse warns against."),
+        ("evarūpampi attabhāvapaṭilābhaṁ paṭisaṁvediyetha",
+         "&ldquo;would be lucky to experience even such an "
+         "incarnation&rdquo; &mdash; the discourse's startling "
+         "warning that a lax mendicant's future rebirth may fare "
+         "worse than this diseased jackal's present one."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn20.11:1.1-1.13"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha ask the mendicants at the start of this discourse?",
+         "opts": [
+             "Whether they heard an old jackal howling at dawn",
+             "Whether they have ever seen an elephant at a lake",
+             "Whether they know the story of the Plugger drum",
+             "No question is asked in this discourse"],
+         "correct": 0,
+         "expl": "A direct question, answered affirmatively before the teaching continues."},
+        {"q": "What does this discourse specifically emphasize about the diseased jackal, rather than its suffering?",
+         "opts": [
+             "That it retains freedom of movement — going, standing, sitting, and lying down wherever it wants",
+             "That it is completely paralyzed and unable to move at all",
+             "That other animals actively help care for it",
+             "That its disease will be cured within a day"],
+         "correct": 0,
+         "expl": "Genuine freedoms retained despite the affliction, not suffering to be pitied."},
+        {"q": "How does this discourse's use of the mangy jackal image differ from SN 17.8's use of the same image?",
+         "opts": [
+             "SN 17.8 illustrates restless inability to settle anywhere; this discourse pairs the same affliction with retained freedom of movement",
+             "The two discourses make exactly the same point in identical terms",
+             "SN 17.8 uses an entirely different animal",
+             "This discourse contradicts SN 17.8's claims directly"],
+         "correct": 0,
+         "expl": "The same affliction used to make an entirely different, more unsettling point."},
+        {"q": "What warning does this discourse ultimately deliver?",
+         "opts": [
+             "A lax mendicant risks a future rebirth even less free than the diseased jackal's present one",
+             "That all mendicants should seek to become jackals in their next life",
+             "That mange is a punishment for specific past misconduct",
+             "That mendicants should avoid all contact with wild animals"],
+         "correct": 0,
+         "expl": "A warning aimed specifically at wasted opportunity, not general pity for the jackal's suffering."},
+        {"q": "What does sakyaputtiyapaṭiñña specifically name?",
+         "opts": [
+             "The gap between claiming to follow the Buddha's path and actually practicing it diligently",
+             "A formal ordination title with no further connotation",
+             "A specific historical figure",
+             "A type of mendicant robe"],
+         "correct": 0,
+         "expl": "Holding the identity of a follower while failing to practice with implied diligence."},
+        {"q": "What relationship does this discourse have to the one immediately following it?",
+         "opts": [
+             "It uses the identical opening question but draws an entirely different lesson, forming a final pair",
+             "The two discourses are entirely unrelated in every respect",
+             "The following discourse directly contradicts this one",
+             "This discourse's image is never used again in the saṃyutta"],
+         "correct": 0,
+         "expl": "This saṃyutta's final pair before its close, sharing an opening but diverging in application."},
+        {"q": "What closing instruction does this discourse give?",
+         "opts": [
+             "To stay diligent (appamatta)",
+             "To develop loving-kindness specifically",
+             "To seek out jackals for observation",
+             "No closing instruction is given"],
+         "correct": 0,
+         "expl": "The same simple instruction used in several earlier discourses in this saṃyutta."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Vesālī, at the Great Wood",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout most of this saṃyutta."},
+        {"q": "What does the jackal still feel, despite its disease, according to this discourse?",
+         "opts": [
+             "The cool breeze",
+             "Complete numbness with no sensation at all",
+             "Constant unbearable pain with no relief",
+             "Nothing is mentioned about what it feels"],
+         "correct": 0,
+         "expl": "One more small freedom the discourse specifically names as retained."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Ekādasamaṁ, \"the eleventh\"",
+             "Dasamaṁ, \"the tenth\"",
+             "Dvādasamaṁ, \"the twelfth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eleventh discourse of this saṃyutta."},
+    ],
+    marginalia=[
+        ("The same disease, a different emphasis entirely", [
+            "not restlessness this time, but retained freedom &mdash;",
+            "an image reused for a strikingly different point",
+        ]),
+        ("What illness hasn't managed to take away", [
+            "still goes, stands, sits, lies down as it likes &mdash;",
+            "modest freedoms named deliberately, not suffering alone",
+        ]),
+        ("A warning about squandered advantage, not general pity", [
+            "not \"feel sorry for the jackal,\" but \"don't fare worse\" &mdash;",
+            "the comparison aimed at wasted opportunity specifically",
+        ]),
+        ("A claimed title, measured against actual practice", [
+            "\"claims to follow,\" not \"actually follows\" &mdash;",
+            "the gap this discourse's warning is really about",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn20.11/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-20.10.html">SN 20.10 &middot; A Cat</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-20.12.html">SN 20.12 &middot; A Jackal '
+        "(2nd)</a> &mdash; the saṃyutta's closing discourse, "
+        "reusing this same opening for a different lesson.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 20.12 — Dutiyasiṅgālasutta (closes the saṃyutta)
+# --------------------------------------------------------------------------- #
+page(
+    20, 12, "Dutiyasiṅgāla", "A Jackal (2nd)",
+    meta_title="SN 20.12 — A Jackal (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Dutiyasiṅgālasutta — even a mangy old jackal shows "
+        "some gratitude, but some who claim to follow the Buddha "
+        "show none at all. Closes Opammasaṃyutta. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, opening with the identical "
+                     "question from SN 20.11"),
+        ("Form", "The same opening reused for an entirely different "
+                 "closing point, ending the saṃyutta on gratitude"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; closing the saṃyutta with its own "
+                       "translated colophon"),
+    ],
+    why=(
+        "This discourse opens with the exact same question as SN "
+        "20.11 &mdash; did you hear an old jackal howling at dawn? "
+        "&mdash; but draws an entirely different conclusion: there "
+        "might be some gratitude and thankfulness in that old "
+        "jackal, the Buddha says, but there is none at all in a "
+        "certain person here who claims to follow the Sakyan. The "
+        "discourse closes with an instruction to be grateful and "
+        "thankful, never forgetting even a small thing done for "
+        "oneself &mdash; and closes the entire saṃyutta with its own "
+        "translated colophon."),
+    guide=[
+        ("An identical opening deliberately repurposed", [
+            "Rather than varying its opening image, this discourse "
+            "reuses SN 20.11's exact question word for word, using "
+            "repetition itself to signal that a genuinely different "
+            "lesson is about to be drawn from the same starting "
+            "point."]),
+        ("Gratitude attributed to an animal, and withheld from a person", [
+            "The comparison's direction is unusual: rather than a "
+            "human quality being used to illuminate something about "
+            "an animal, an animal's presumed capacity for gratitude "
+            "is used to shame a human's specific failure to possess "
+            "even that much."]),
+        ("A folk assumption about animal loyalty used without further comment", [
+            "The discourse doesn't argue for or explain why a jackal "
+            "might be considered capable of gratitude; it simply "
+            "assumes this as background common knowledge, using it "
+            "as an unexamined premise for the sharper point about "
+            "human ingratitude."]),
+        ("A specific, modest standard set for the closing instruction", [
+            "The instruction that closes this discourse is notably "
+            "concrete: not forgetting even a small thing done for "
+            "oneself, na ca no amhesu appakampi kataṁ nassissati "
+            "&mdash; a minimal, achievable standard rather than an "
+            "elaborate practice."]),
+        ("The saṃyutta's own uddāna and translated colophon", [
+            "Following this discourse, the source includes an "
+            "untranslated uddāna verse listing all twelve discourse "
+            "titles of Opammavagga, but the saṃyutta's own closing "
+            "line &mdash; the Linked Discourses with similes are "
+            "complete &mdash; is rendered in full, marking this "
+            "compact, twelve-discourse collection's formal end."]),
+    ],
+    terms=[
+        ("kataññutā kataveditā",
+         "&ldquo;gratitude and thankfulness&rdquo; &mdash; the "
+         "specific quality this discourse attributes even to the "
+         "diseased jackal, and finds lacking in a lax human "
+         "follower."),
+        ("na tveva idhekacce sakyaputtiyapaṭiññe",
+         "&ldquo;but there is none in a certain person here who "
+         "claims to follow the Sakyan&rdquo; &mdash; the discourse's "
+         "sharp, direct comparison, unfavorable to the human party."),
+        ("na ca no amhesu appakampi kataṁ nassissati",
+         "&ldquo;we won't forget even a small thing done for "
+         "us&rdquo; &mdash; the discourse's specific, modest closing "
+         "standard for gratitude."),
+        ("opammavaggo paṭhamo",
+         "&ldquo;the first chapter on similes [is finished]&rdquo; "
+         "&mdash; marking this saṃyutta's single vagga as complete, "
+         "since Opammasaṃyutta has only one chapter."),
+        ("opammasaṁyuttaṁ samattaṁ",
+         "&ldquo;the Linked Discourses with similes are "
+         "complete&rdquo; &mdash; the saṃyutta's own closing "
+         "colophon, translated in full by the source."),
+    ],
+    text_intro=(
+        "The discourse in full, followed by the saṃyutta's own "
+        "closing colophon. The closing uddāna verse of discourse "
+        "titles is not translated in the source and is not quoted "
+        "here; see the reading guide above. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn20.12:1.1-1.8"),
+        ("p", "&sect;2 &middot; Colophon", "sn20.12:2.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's opening compare to SN 20.11's?",
+         "opts": [
+             "It is identical word for word, before diverging to a different conclusion",
+             "It is completely different, sharing no elements with SN 20.11",
+             "It reverses SN 20.11's question into a statement",
+             "No opening question is asked in this discourse"],
+         "correct": 0,
+         "expl": "Repetition used deliberately to signal a genuinely different lesson from the same starting point."},
+        {"q": "What quality does this discourse attribute to the old jackal?",
+         "opts": [
+             "Gratitude and thankfulness (kataññutā kataveditā)",
+             "Freedom of movement, as in SN 20.11",
+             "Physical strength despite illness",
+             "No quality is attributed to the jackal"],
+         "correct": 0,
+         "expl": "An unusual direction of comparison — an animal's presumed virtue shaming a human failing."},
+        {"q": "What does the discourse claim about a certain person who claims to follow the Sakyan?",
+         "opts": [
+             "That such a person has no gratitude or thankfulness at all, unlike even the jackal",
+             "That such a person is more grateful than any animal",
+             "That such a person cannot be identified",
+             "No claim is made about this person"],
+         "correct": 0,
+         "expl": "A sharp comparison unfavorable to the human party, despite the jackal's diseased condition."},
+        {"q": "Does this discourse explain or justify its assumption that jackals are capable of gratitude?",
+         "opts": [
+             "No — it assumes this as unexamined background common knowledge",
+             "Yes, it provides an extensive argument for this claim",
+             "Yes, it cites a specific historical example",
+             "The discourse denies that jackals could ever show gratitude"],
+         "correct": 0,
+         "expl": "A folk assumption used without further comment as a premise for the sharper point about human ingratitude."},
+        {"q": "What specific standard does this discourse's closing instruction set?",
+         "opts": [
+             "Not forgetting even a small thing done for oneself",
+             "Repaying every favor with an equal or greater favor",
+             "Avoiding all forms of debt or obligation",
+             "No specific standard is given"],
+         "correct": 0,
+         "expl": "A minimal, achievable standard rather than an elaborate practice."},
+        {"q": "How is the saṃyutta's own closing colophon treated?",
+         "opts": [
+             "It is translated in full — \"the Linked Discourses with similes are complete\"",
+             "It is left entirely untranslated, like the closing uddāna verse",
+             "No colophon exists for this saṃyutta",
+             "It is translated only partially"],
+         "correct": 0,
+         "expl": "Marking this compact, twelve-discourse collection's formal end."},
+        {"q": "How many vaggas does Opammasaṃyutta contain in total?",
+         "opts": [
+             "Only one, Opammavagga, covering all twelve discourses",
+             "Two vaggas of six discourses each",
+             "Twelve separate vaggas, one per discourse",
+             "No vagga structure is used in this saṃyutta"],
+         "correct": 0,
+         "expl": "Confirmed by the closing marker \"Opammavaggo paṭhamo,\" the first and only chapter."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Vesālī, at the Great Wood",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta's telling."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Lakkhaṇa",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor appears beyond the mendicants' brief confirming reply."},
+        {"q": "What position does this discourse hold in the saṃyutta?",
+         "opts": [
+             "The twelfth and final discourse, closing the entire saṃyutta",
+             "The first discourse of an entirely new saṃyutta",
+             "The sixth discourse, at the vagga's midpoint",
+             "It does not belong to this saṃyutta"],
+         "correct": 0,
+         "expl": "Marked at its close by the vagga's end and the saṃyutta's own translated colophon."},
+    ],
+    marginalia=[
+        ("The same question, aimed at a different ending", [
+            "word for word, then a sharp turn taken &mdash;",
+            "repetition used to signal the lesson has changed",
+        ]),
+        ("A virtue borrowed from an animal to shame a person", [
+            "gratitude granted to the jackal, denied to the claimant &mdash;",
+            "the comparison's direction reversed from the expected",
+        ]),
+        ("A modest, achievable standard for the close", [
+            "not forgetting even a small kindness &mdash;",
+            "nothing elaborate, just consistent remembering",
+        ]),
+        ("Twelve similes, one method, ending on gratitude", [
+            "the collection's actual close, colophon translated &mdash;",
+            "a compact saṃyutta finishing exactly where it says it does",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn20.12/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-20.11.html">SN 20.11 &middot; A Jackal</a> '
+        "&mdash; the discourse whose opening this one reuses.",
+        '<a href="sn-20.1.html">SN 20.1 &middot; A Roof Peak</a> '
+        "&mdash; this saṃyutta's opening discourse, whose method of "
+        "teaching through simile this closing discourse has "
+        "sustained across twelve varied images.",
+    ],
+)
