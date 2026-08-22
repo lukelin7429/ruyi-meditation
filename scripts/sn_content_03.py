@@ -4797,3 +4797,2539 @@ page(
         "this closing dialogue now names with equal precision.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 22.22 — Bhārasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 22, "Bhāra", "The Burden of Responsibility",
+    vagga="Bhāravagga",
+    meta_title="SN 22.22 — The Burden of Responsibility | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhārasutta &mdash; the aggregates named a burden, the "
+        "individual its bearer, craving its taking up, and craving's "
+        "ending its putting down, closing with a famous verse. Opens "
+        "Bhāravagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "Four terms defined in sequence &mdash; burden, "
+                 "bearer, taking up, putting down &mdash; followed by "
+                 "a closing verse restating the same four terms in "
+                 "poetry"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a compact and famous discourse, its imagery "
+                       "doing much of the explanatory work"),
+    ],
+    why=(
+        "This is the discourse that gives Bhāravagga its name, and "
+        "it supplies one of the canon's most vivid and durable images "
+        "for the five aggregates: a physical burden, carried, taken "
+        "up, and capable of being set down. The Buddha defines four "
+        "terms in strict sequence &mdash; the burden itself (the five "
+        "grasping aggregates), the bearer of the burden (the "
+        "individual, named by whatever name and clan they happen to "
+        "have), the taking up of the burden (craving), and the "
+        "putting down of the burden (craving's ending) &mdash; before "
+        "restating the same four terms as a closing verse. Few "
+        "discourses in this saṃyutta compress so much doctrinal "
+        "content into so ordinary and physically graspable an image."
+    ),
+    guide=[
+        ("Four terms, defined in one strict sequence", [
+            "The Buddha announces he will teach four things together: "
+            "the burden, its bearer, the taking up of the burden, and "
+            "the putting down of the burden. Each is then defined in "
+            "turn, with no digression between them &mdash; a "
+            "structure that reads almost like a glossary, four "
+            "entries long, building toward the closing verse that "
+            "restates all four at once.",
+        ]),
+        ("The burden and its bearer, kept distinct", [
+            "The burden itself is named plainly: the five grasping "
+            "aggregates (pañcupādānakkhandhā) &mdash; form, feeling, "
+            "perception, choices, and consciousness, each modified by "
+            "the same &ldquo;grasping&rdquo; qualifier that "
+            "distinguishes this discourse's vocabulary from the "
+            "bare khandha terminology used elsewhere in the book. "
+            "The bearer of the burden is, notably, not defined as an "
+            "abstraction but as &ldquo;the individual&hellip;the "
+            "venerable of such and such name and clan&rdquo; &mdash; "
+            "a person with an ordinary name, carrying an "
+            "extraordinarily heavy load.",
+        ]),
+        ("Taking up and putting down, both named as craving", [
+            "The taking up of the burden is craving (taṇhā) that "
+            "leads to future lives, spelled out in its familiar "
+            "threefold form: craving for sensual pleasures, for "
+            "existence, and for nonexistence &mdash; the same three "
+            "types this vagga's own SN 22.31 will name again as the "
+            "&ldquo;root of gloom.&rdquo; The putting down of the "
+            "burden is defined as nothing more or less than that "
+            "exact craving's fading away and cessation with nothing "
+            "left over.",
+        ]),
+        ("A closing verse restating the whole teaching in miniature", [
+            "The discourse closes by shifting into verse, restating "
+            "the same four definitions in four compact lines: the "
+            "aggregates are indeed burdens, the individual bears "
+            "them, taking up the burden is suffering in the world, "
+            "and putting it down is happiness. The final two lines "
+            "add an image not present in the prose section at all "
+            "&mdash; one who puts the burden down &ldquo;without "
+            "taking up another&rdquo; has plucked out craving root "
+            "and all, and is &ldquo;hungerless, quenched&rdquo; "
+            "(nicchāto parinibbuto) &mdash; closing the discourse on "
+            "the very word, parinibbuto, that names full liberation.",
+        ]),
+    ],
+    terms=[
+        ("pañcupādānakkhandhā",
+         "&ldquo;the five grasping aggregates&rdquo; &mdash; this "
+         "discourse's own name for &ldquo;the burden,&rdquo; "
+         "distinguishing them from the bare aggregates by the "
+         "grasping qualifier."),
+        ("puggala",
+         "&ldquo;the individual&rdquo; &mdash; the bearer of the "
+         "burden, defined here concretely as a named person rather "
+         "than as an abstraction."),
+        ("bhārādāna",
+         "&ldquo;the taking up of the burden&rdquo; &mdash; craving "
+         "in its threefold form, leading to future lives."),
+        ("bhāranikkhepana",
+         "&ldquo;the putting down of the burden&rdquo; &mdash; that "
+         "same craving's fading away and cessation with nothing left "
+         "over."),
+        ("nicchāto parinibbuto",
+         "&ldquo;hungerless, quenched&rdquo; &mdash; the closing "
+         "verse's final image, describing one who has put the burden "
+         "down without taking up another."),
+    ],
+    text_intro=(
+        "The discourse in full, including its closing verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.22:1.1-1.8"),
+        ("p", "&sect;2", "sn22.22:2.1-2.4"),
+        ("p", "&sect;3", "sn22.22:3.1-3.4"),
+        ("p", "&sect;4", "sn22.22:4.1-4.3"),
+        ("p", "&sect;5", "sn22.22:5.1-5.2"),
+        ("p", "&sect;6", "sn22.22:6.1-6.4"),
+        ("p", "&sect;7", "sn22.22:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What four terms does the Buddha announce he will teach at the start of this discourse?",
+         "opts": [
+             "The burden, the bearer of the burden, the taking up of the burden, and the putting down of the burden",
+             "Birth, aging, illness, and death",
+             "The four noble truths",
+             "The four elements"],
+         "correct": 0,
+         "expl": "Defined in strict sequence, then restated together as a closing verse."},
+        {"q": "What is named as \"the burden\" itself?",
+         "opts": [
+             "The five grasping aggregates",
+             "A physical object the Buddha once carried",
+             "The monastic robe",
+             "The weight of past misdeeds only"],
+         "correct": 0,
+         "expl": "Pañcupādānakkhandhā — form, feeling, perception, choices, and consciousness, each marked as \"grasping.\""},
+        {"q": "Who is named as \"the bearer of the burden\"?",
+         "opts": [
+             "The individual, named concretely by name and clan",
+             "The gods collectively",
+             "The Buddha alone",
+             "No one — the burden has no bearer"],
+         "correct": 0,
+         "expl": "Defined as an ordinary named person, not an abstraction."},
+        {"q": "What is defined as \"the taking up of the burden\"?",
+         "opts": [
+             "Craving in its threefold form: for sensual pleasures, existence, and nonexistence",
+             "Physical exercise",
+             "Formal ordination",
+             "Sitting meditation"],
+         "correct": 0,
+         "expl": "Taṇhā leading to future lives — the same threefold craving named elsewhere in this vagga."},
+        {"q": "What is defined as \"the putting down of the burden\"?",
+         "opts": [
+             "That same craving's fading away and cessation with nothing left over",
+             "A different, unrelated form of craving",
+             "Physical death",
+             "Renouncing the aggregates while still craving them"],
+         "correct": 0,
+         "expl": "Craving's own ending, not the aggregates' destruction."},
+        {"q": "What image does the closing verse add that the prose definitions did not include?",
+         "opts": [
+             "One who puts the burden down without taking up another is described as \"hungerless, quenched\"",
+             "An image of a mountain being carried",
+             "A description of the burden's exact physical weight",
+             "A warning against ever setting the burden down"],
+         "correct": 0,
+         "expl": "Nicchāto parinibbuto — closing on the word for full liberation."},
+        {"q": "How does the verse describe \"taking up the burden\" and \"putting it down\"?",
+         "opts": [
+             "Taking it up is suffering in the world; putting it down is happiness",
+             "Both are described as equally neutral",
+             "Taking it up is happiness; putting it down is suffering",
+             "Neither is evaluated at all"],
+         "correct": 0,
+         "expl": "A direct moral contrast drawn in the closing verse."},
+        {"q": "What later discourse in this same vagga names the identical threefold craving as \"the root of gloom\"?",
+         "opts": [
+             "SN 22.31",
+             "SN 22.23",
+             "SN 22.29",
+             "SN 22.32"],
+         "correct": 0,
+         "expl": "The same craving for sensual pleasures, existence, and nonexistence recurs by name."},
+        {"q": "How many aggregates does the discourse's definition of \"the burden\" include?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "All five, each qualified as \"grasping.\""},
+        {"q": "What position does this discourse hold in Bhāravagga?",
+         "opts": [
+             "The opening discourse, giving the vagga its name",
+             "The vagga's closing discourse",
+             "The vagga's middle discourse",
+             "It does not belong to this vagga"],
+         "correct": 0,
+         "expl": "Bhāravagga, \"the burden chapter,\" is named directly after this discourse's central image."},
+    ],
+    marginalia=[
+        ("Four terms, one strict sequence", [
+            "burden, bearer, taking up, putting down &mdash;",
+            "a glossary built toward its own closing verse",
+        ]),
+        ("A named person carrying an extraordinary load", [
+            "not an abstraction &mdash;",
+            "\"the venerable of such and such name\"",
+        ]),
+        ("Taking up and putting down, both craving", [
+            "the same craving, two directions &mdash;",
+            "arising and ending named symmetrically",
+        ]),
+        ("Closing on the word for liberation itself", [
+            "hungerless, quenched &mdash;",
+            "parinibbuto, the discourse's final word",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.22/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.21.html">SN 22.21 &middot; With Ānanda</a> '
+        "&mdash; the previous discourse, closing Aniccavagga.",
+        '<a href="sn-22.23.html">SN 22.23 &middot; Complete '
+        "Understanding</a> &mdash; the next discourse, a short "
+        "companion pair of definitions.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.23 — Pariññasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 23, "Pariññā", "Complete Understanding",
+    vagga="Bhāravagga",
+    meta_title="SN 22.23 — Complete Understanding | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pariññasutta &mdash; a short paired definition, naming "
+        "the aggregates as what should be completely understood and "
+        "defining complete understanding as greed, hate, and "
+        "delusion's ending. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "Two terms defined as a matched pair, in the same "
+                 "glossary-like style as SN 22.22"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and direct, its two definitions worth "
+                       "sitting with despite their brevity"),
+    ],
+    why=(
+        "This discourse is shorter than SN 22.22 but shares its "
+        "structure closely: two terms, defined one after the other. "
+        "What should be completely understood (pariññeyyā dhammā) "
+        "is named plainly as the five aggregates. And complete "
+        "understanding (pariññā) itself is defined, perhaps "
+        "surprisingly given how technical the term can sound "
+        "elsewhere in Abhidhamma-adjacent literature, in the "
+        "plainest possible terms: the ending of greed, hate, and "
+        "delusion. The object of understanding and the content of "
+        "understanding are both named without elaboration, leaving "
+        "the definition's compactness to do the teaching."
+    ),
+    guide=[
+        ("What should be completely understood, named plainly", [
+            "The discourse's first half answers its own question "
+            "directly: the things that should be completely "
+            "understood are form, feeling, perception, choices, and "
+            "consciousness &mdash; the five aggregates, named here "
+            "without the &ldquo;grasping&rdquo; qualifier SN 22.22 "
+            "used for &ldquo;the burden.&rdquo;",
+        ]),
+        ("Complete understanding defined by its result, not its process", [
+            "The discourse's second half is the more striking "
+            "definition: complete understanding itself is defined "
+            "not as a cognitive achievement, a specific insight, or a "
+            "meditative attainment, but as the ending of the three "
+            "root poisons &mdash; greed, hate, and delusion (rāga, "
+            "dosa, moha). Understanding, on this definition, is "
+            "measured by what it removes rather than by what "
+            "additional knowledge it supplies.",
+        ]),
+        ("A companion piece to SN 22.22's burden imagery", [
+            "Read next to SN 22.22, this discourse can be seen as "
+            "supplying the cognitive counterpart to that discourse's "
+            "physical imagery: where SN 22.22 described craving's "
+            "taking up and putting down using the concrete image of a "
+            "carried burden, this discourse names the same underlying "
+            "process in more abstract, definitional terms &mdash; "
+            "what must be understood, and what understanding itself "
+            "consists in.",
+        ]),
+        ("A pattern the vagga will return to", [
+            "This discourse's two-part definitional structure "
+            "recurs in miniature throughout the rest of Bhāravagga "
+            "&mdash; SN 22.31's gloom and its root, and SN 22.32's "
+            "brittle and not-brittle, both share this same short, "
+            "paired-definition form, distinct from the longer "
+            "narrative or argued discourses elsewhere in the vagga.",
+        ]),
+    ],
+    terms=[
+        ("pariññeyyā dhammā",
+         "&ldquo;the things that should be completely "
+         "understood&rdquo; &mdash; named directly as the five "
+         "aggregates, without the &ldquo;grasping&rdquo; qualifier "
+         "SN 22.22 used."),
+        ("pariññā",
+         "&ldquo;complete understanding&rdquo; &mdash; defined here "
+         "not as a cognitive process but by its result: the ending of "
+         "greed, hate, and delusion."),
+        ("rāga",
+         "&ldquo;greed&rdquo; &mdash; the first of the three root "
+         "poisons whose ending constitutes complete understanding."),
+        ("dosa",
+         "&ldquo;hate&rdquo; &mdash; the second of the three root "
+         "poisons."),
+        ("moha",
+         "&ldquo;delusion&rdquo; &mdash; the third of the three root "
+         "poisons, completing the standard triad found throughout the "
+         "canon."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.23:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as \"the things that should be completely understood\"?",
+         "opts": [
+             "Form, feeling, perception, choices, and consciousness",
+             "Only the physical body",
+             "The Buddha's biography",
+             "The rules of monastic discipline"],
+         "correct": 0,
+         "expl": "The five aggregates, named without the \"grasping\" qualifier used in SN 22.22."},
+        {"q": "How is \"complete understanding\" (pariññā) itself defined in this discourse?",
+         "opts": [
+             "As the ending of greed, hate, and delusion",
+             "As a specific meditative absorption",
+             "As the ability to recite scripture from memory",
+             "As agreement with a particular philosophical position"],
+         "correct": 0,
+         "expl": "Defined by its result — what it removes — rather than by a cognitive process."},
+        {"q": "What three root poisons does this discourse name?",
+         "opts": [
+             "Greed (rāga), hate (dosa), and delusion (moha)",
+             "Fear, anger, and pride",
+             "Doubt, restlessness, and sloth",
+             "Craving, aversion, and ignorance of a different kind entirely"],
+         "correct": 0,
+         "expl": "The standard triad found throughout the canon."},
+        {"q": "How does this discourse's structure compare to SN 22.22's?",
+         "opts": [
+             "A shorter, two-term version of the same glossary-like definitional style",
+             "A narrative discourse with no definitions at all",
+             "A direct contradiction of SN 22.22",
+             "An entirely unrelated form, using verse throughout"],
+         "correct": 0,
+         "expl": "Two terms defined in sequence, mirroring SN 22.22's four-term structure at smaller scale."},
+        {"q": "What relationship can this discourse be read as having to SN 22.22's burden imagery?",
+         "opts": [
+             "A cognitive counterpart, naming in abstract terms what SN 22.22 described with a physical image",
+             "A direct rejection of SN 22.22's teaching",
+             "An unrelated discourse on an entirely different topic",
+             "A narrative sequel describing events after SN 22.22"],
+         "correct": 0,
+         "expl": "Both discourses concern the same underlying process, in different registers."},
+        {"q": "Which other discourses in this vagga share this discourse's short, paired-definition structure?",
+         "opts": [
+             "SN 22.31 (gloom and its root) and SN 22.32 (brittle and not-brittle)",
+             "SN 22.26-28, the gratification trio",
+             "SN 22.22, the burden discourse, which has four terms instead of two",
+             "No other discourse in the vagga shares this structure"],
+         "correct": 0,
+         "expl": "A recurring short definitional form distinct from the vagga's longer discourses."},
+        {"q": "How many aggregates does this discourse's definition include?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Named together as a group."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "The default setting for most of this vagga's discourses."},
+        {"q": "What does this discourse's definition of understanding by its result, rather than its process, emphasize?",
+         "opts": [
+             "That genuine understanding is measured by what it removes, not by additional knowledge gained",
+             "That understanding requires years of scholarly study",
+             "That understanding is impossible to define at all",
+             "That understanding is identical to simple memorization"],
+         "correct": 0,
+         "expl": "A striking definitional choice worth sitting with despite the discourse's brevity."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.24, on directly knowing and completely understanding the aggregates",
+             "A return to SN 22.12",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "SN 22.24 extends the same vocabulary of understanding into a positive/negative argument."},
+    ],
+    marginalia=[
+        ("Two terms, the same glossary style as SN 22.22", [
+            "what to understand, and understanding itself &mdash;",
+            "a shorter companion definition",
+        ]),
+        ("Defined by what it removes", [
+            "not a further fact gained &mdash;",
+            "greed, hate, delusion ended instead",
+        ]),
+        ("A cognitive counterpart to a physical image", [
+            "SN 22.22's burden, carried and set down &mdash;",
+            "this discourse's abstract, definitional register",
+        ]),
+        ("A short form recurring later in the vagga", [
+            "paired definitions again in SN 22.31, 22.32 &mdash;",
+            "distinct from the vagga's longer discourses",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.23/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.22.html">SN 22.22 &middot; The Burden of '
+        "Responsibility</a> &mdash; the previous discourse, opening "
+        "this vagga's own defining image.",
+        '<a href="sn-22.24.html">SN 22.24 &middot; Directly '
+        "Knowing</a> &mdash; the next discourse, an argued case for "
+        "why understanding the aggregates matters.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.24 — Abhijānasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 24, "Abhijāna", "Directly Knowing",
+    vagga="Bhāravagga",
+    meta_title="SN 22.24 — Directly Knowing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Abhijānasutta &mdash; a mirrored positive/negative "
+        "argument naming four conditions, all required together, for "
+        "ending suffering. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A single sentence stated in negative form, then "
+                 "restated in positive form, both times naming four "
+                 "conditions jointly required"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "one compound sentence repeated twice, worth "
+                       "reading slowly for its four joint conditions"),
+    ],
+    why=(
+        "This discourse names four things that must happen "
+        "together, not any one alone, for suffering to end: directly "
+        "knowing (abhijānaṁ) an aggregate, completely understanding "
+        "(parijānaṁ) it, having dispassion (virajjaṁ) for it, and "
+        "giving it up (pajahaṁ). The discourse states this claim "
+        "twice, first as a negative &mdash; without all four, you "
+        "cannot end suffering &mdash; and then as its exact positive "
+        "mirror &mdash; by doing all four, you can. The repetition is "
+        "not padding; it makes explicit that these four are being "
+        "presented as jointly necessary, not as four independent "
+        "paths any one of which would suffice on its own."
+    ),
+    guide=[
+        ("Four conditions named as a single compound requirement", [
+            "The discourse's negative half states plainly: without "
+            "directly knowing and completely understanding form, "
+            "without dispassion for it and giving it up, you cannot "
+            "end suffering. All four verbs &mdash; directly knowing, "
+            "completely understanding, having dispassion, giving up "
+            "&mdash; are bound together in one sentence, none singled "
+            "out as sufficient on its own.",
+        ]),
+        ("A mirror image, not a new claim", [
+            "The positive half restates the identical four conditions "
+            "in the identical order, simply reversing the negation: "
+            "by directly knowing and completely understanding form, "
+            "having dispassion for it and giving it up, you can end "
+            "suffering. Nothing is added or removed between the two "
+            "halves &mdash; the discourse's entire argument consists "
+            "in this single reversal.",
+        ]),
+        ("How this discourse's vocabulary connects to the rest of the vagga", [
+            "&ldquo;Directly knowing&rdquo; and &ldquo;completely "
+            "understanding&rdquo; directly recall SN 22.23's "
+            "definitions immediately before this discourse &mdash; "
+            "pariññā, understanding, was defined there as the ending "
+            "of greed, hate, and delusion. This discourse now shows "
+            "why that understanding matters practically: it is one of "
+            "four jointly necessary steps, not a free-standing "
+            "achievement complete in itself.",
+        ]),
+        ("Why four steps, not one", [
+            "The discourse's insistence on all four conditions "
+            "together, rather than treating any single one as "
+            "sufficient, is itself a claim worth noting: knowing an "
+            "aggregate's nature (directly knowing, completely "
+            "understanding) does not by itself guarantee the "
+            "affective and volitional response (dispassion, giving "
+            "up) that liberation from suffering requires. Cognitive "
+            "clarity and letting go are presented as distinct, "
+            "equally necessary achievements.",
+        ]),
+    ],
+    terms=[
+        ("abhijānaṁ",
+         "&ldquo;directly knowing&rdquo; &mdash; the first of four "
+         "conditions this discourse names as jointly necessary for "
+         "ending suffering."),
+        ("parijānaṁ",
+         "&ldquo;completely understanding&rdquo; &mdash; the second "
+         "condition, the same pariññā defined in SN 22.23 immediately "
+         "before this discourse."),
+        ("virajjaṁ",
+         "&ldquo;having dispassion&rdquo; &mdash; the third "
+         "condition, marking a shift from cognitive knowing to "
+         "affective release."),
+        ("pajahaṁ",
+         "&ldquo;giving up&rdquo; &mdash; the fourth condition, the "
+         "volitional completion of the sequence."),
+        ("dukkhassa antakiriyā",
+         "&ldquo;ending of suffering&rdquo; &mdash; the outcome this "
+         "discourse claims depends on all four conditions together, "
+         "stated first negatively and then as its positive mirror."),
+    ],
+    text_intro=(
+        "The discourse in full. Four elided repetitions in each half "
+        "(feeling, perception, and choices spelled out in full for "
+        "form and consciousness, in both the negative and positive "
+        "statements) are given exactly as bilara-data preserves them. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.24:1.1-1.6"),
+        ("p", "&sect;2", "sn22.24:1.7-1.11"),
+    ],
+    quiz=[
+        {"q": "What four conditions does this discourse name as jointly necessary for ending suffering?",
+         "opts": [
+             "Directly knowing, completely understanding, having dispassion for, and giving up an aggregate",
+             "Generosity, ethics, patience, and wisdom",
+             "Birth, aging, illness, and death",
+             "Faith, energy, mindfulness, and concentration"],
+         "correct": 0,
+         "expl": "Bound together in one sentence, none presented as sufficient alone."},
+        {"q": "How is the discourse's claim structured?",
+         "opts": [
+             "Stated first as a negative (without all four, you cannot end suffering), then as its exact positive mirror",
+             "Stated only once, in positive form",
+             "Stated as a question the Buddha leaves unanswered",
+             "Stated as a narrative dialogue between two disciples"],
+         "correct": 0,
+         "expl": "The repetition makes explicit that the four conditions are jointly necessary."},
+        {"q": "How does this discourse's vocabulary connect to SN 22.23 immediately before it?",
+         "opts": [
+             "\"Directly knowing\" and \"completely understanding\" directly recall SN 22.23's definition of pariññā",
+             "There is no connection between the two discourses",
+             "This discourse explicitly rejects SN 22.23's definition",
+             "SN 22.23 is about an entirely different topic, the six sense fields"],
+         "correct": 0,
+         "expl": "This discourse shows why the understanding SN 22.23 defined matters practically."},
+        {"q": "What does the discourse's insistence on all four conditions together, rather than any one alone, suggest?",
+         "opts": [
+             "That cognitive clarity and letting go are distinct, equally necessary achievements",
+             "That only cognitive knowledge is required, and the rest follows automatically",
+             "That only volitional effort is required, with no need for understanding",
+             "That the four conditions are actually identical to one another"],
+         "correct": 0,
+         "expl": "Knowing an aggregate's nature does not by itself guarantee dispassion and giving up."},
+        {"q": "What is the third of the four named conditions?",
+         "opts": [
+             "Having dispassion (virajjaṁ)",
+             "Directly knowing (abhijānaṁ)",
+             "Completely understanding (parijānaṁ)",
+             "Giving up (pajahaṁ)"],
+         "correct": 0,
+         "expl": "Marking a shift from cognitive knowing to affective release, third in the sequence."},
+        {"q": "What is the fourth and final condition named?",
+         "opts": [
+             "Giving up (pajahaṁ)",
+             "Directly knowing (abhijānaṁ)",
+             "Having dispassion (virajjaṁ)",
+             "Completely understanding (parijānaṁ)"],
+         "correct": 0,
+         "expl": "The volitional completion of the four-step sequence."},
+        {"q": "How many aggregates does this discourse's argument apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "Is the positive half of this discourse a new claim, or a mirror of the negative half?",
+         "opts": [
+             "A precise mirror, restating the identical four conditions in the identical order with the negation simply reversed",
+             "An entirely new and different claim",
+             "A partial restatement that adds a fifth condition",
+             "A rejection of the negative half's claim"],
+         "correct": 0,
+         "expl": "Nothing is added or removed between the two halves."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.25, on giving up desire and greed for the aggregates",
+             "A return to SN 22.12",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "SN 22.25 continues the vagga's vocabulary of giving up applied to desire and greed specifically."},
+    ],
+    marginalia=[
+        ("Four conditions, bound together as one requirement", [
+            "know, understand, dispassion, give up &mdash;",
+            "none presented as sufficient alone",
+        ]),
+        ("A mirror, not a new argument", [
+            "negative stated first &mdash;",
+            "positive simply reverses the same four terms",
+        ]),
+        ("Understanding shown to matter practically", [
+            "SN 22.23's pariññā, defined &mdash;",
+            "this discourse: why it is necessary, not sufficient",
+        ]),
+        ("Knowing and letting go, kept distinct", [
+            "cognitive clarity alone is not enough &mdash;",
+            "dispassion and giving up named separately",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.24/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.23.html">SN 22.23 &middot; Complete '
+        "Understanding</a> &mdash; the previous discourse, whose "
+        "definition of pariññā this one shows to be practically "
+        "necessary.",
+        '<a href="sn-22.25.html">SN 22.25 &middot; Desire and '
+        "Greed</a> &mdash; the next discourse, giving up desire and "
+        "greed for each aggregate directly.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.25 — Chandarāgasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 25, "Chandarāga", "Desire and Greed",
+    vagga="Bhāravagga",
+    meta_title="SN 22.25 — Desire and Greed | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Chandarāgasutta &mdash; a compact instruction to give up "
+        "desire and greed for each aggregate, using the recurring "
+        "\"cut off at the root\" formula. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A single instruction repeated once per aggregate, "
+                 "each time paired with the recurring \"cut off at "
+                 "the root\" formula"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and direct, its formula already "
+                       "familiar from SN 22.3 earlier in the book"),
+    ],
+    why=(
+        "This discourse is one of the plainest instructions in the "
+        "vagga: give up desire and greed (chandarāga) for form, and "
+        "that form will be given up, cut off at the root, made like "
+        "a palm stump, obliterated, and unable to arise in the "
+        "future. The same instruction and the same formula repeat "
+        "for each remaining aggregate. The &ldquo;cut off at the "
+        "root, made like a palm stump&rdquo; image is not new to "
+        "this discourse &mdash; it appeared earlier in the book, in "
+        "SN 22.3's description of how the Realized One has given up "
+        "desire for each aggregate &mdash; but here it is offered "
+        "directly as an instruction to the listener, not as a "
+        "description of what the Buddha has already accomplished."
+    ),
+    guide=[
+        ("An instruction, addressed to the listener directly", [
+            "Where SN 22.3 described the Realized One's already-"
+            "completed abandonment of desire using this same "
+            "formula, this discourse addresses the mendicants "
+            "directly in the imperative: give up desire and greed "
+            "for form. The formula's content is unchanged, but its "
+            "grammatical mood shifts from description to instruction.",
+        ]),
+        ("The formula's consequence, stated as an automatic result", [
+            "The discourse frames what follows the instruction not as "
+            "a further step requiring separate effort, but as an "
+            "automatic consequence: give up desire and greed, "
+            "&ldquo;thus that form will be given up, cut off at the "
+            "root, made like a palm stump, obliterated, and unable to "
+            "arise in the future.&rdquo; The single act of giving up "
+            "desire is presented as sufficient on its own to produce "
+            "this complete, irreversible result.",
+        ]),
+        ("A formula recurring across the book, now given as instruction", [
+            "This exact phrase &mdash; cut off at the root, made like "
+            "a palm stump, obliterated, unable to arise in the "
+            "future &mdash; is one of the book's most recognizable "
+            "recurring formulas, appearing already in SN 22.3's "
+            "description of the Realized One. Its reappearance here, "
+            "now addressed to an ordinary listener as something to be "
+            "done rather than as an accomplished fact about the "
+            "Buddha, extends the formula's reach from description to "
+            "practice.",
+        ]),
+        ("A short, direct discourse between two more elaborate ones", [
+            "Positioned between SN 22.24's four-condition argument "
+            "and SN 22.26's extended first-person narrative about the "
+            "Buddha's own pre-awakening reflection, this discourse's "
+            "brevity and directness offer a brief pause &mdash; a "
+            "single clear instruction, unadorned by argument or "
+            "narrative, before the vagga's tone shifts again.",
+        ]),
+    ],
+    terms=[
+        ("chandarāga",
+         "&ldquo;desire and greed&rdquo; &mdash; the discourse's "
+         "title and its sole object of instruction, to be given up "
+         "for each aggregate."),
+        ("pahīna",
+         "&ldquo;given up&rdquo; &mdash; the first term in the "
+         "formula describing what happens to an aggregate once "
+         "desire and greed for it are relinquished."),
+        ("ucchinnamūla",
+         "&ldquo;cut off at the root&rdquo; &mdash; part of the same "
+         "recurring formula, first seen in this book at SN 22.3, "
+         "describing complete rather than partial ending."),
+        ("tālāvatthukata",
+         "&ldquo;made like a palm stump&rdquo; &mdash; a tree cut so "
+         "low it cannot regrow, the formula's central image for "
+         "irreversibility."),
+        ("āyatiṁ anuppādadhamma",
+         "&ldquo;unable to arise in the future&rdquo; &mdash; the "
+         "formula's closing term, specifying that what has been given "
+         "up this way cannot recur."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions (feeling, "
+        "perception, and choices, each following the same "
+        "instruction and formula spelled out in full for form and "
+        "consciousness) are given exactly as bilara-data preserves "
+        "them. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.25:1.1-1.3"),
+        ("p", "&sect;2", "sn22.25:1.10-1.11"),
+    ],
+    quiz=[
+        {"q": "What instruction does this discourse give for each aggregate?",
+         "opts": [
+             "Give up desire and greed for it",
+             "Meditate on it in detail for many hours",
+             "Discuss it with a teacher before acting",
+             "Avoid all contact with it entirely"],
+         "correct": 0,
+         "expl": "Chandarāga — desire and greed — named as the sole object of instruction."},
+        {"q": "What formula describes the result of giving up desire and greed for an aggregate?",
+         "opts": [
+             "Given up, cut off at the root, made like a palm stump, obliterated, unable to arise in the future",
+             "Transformed into a different, subtler aggregate",
+             "Temporarily suppressed but likely to return",
+             "Left unchanged but no longer relevant"],
+         "correct": 0,
+         "expl": "A formula for complete, irreversible ending, not partial suppression."},
+        {"q": "Where did this exact formula first appear earlier in the book?",
+         "opts": [
+             "SN 22.3, describing the Realized One's completed abandonment of desire",
+             "SN 22.1, the book's opening discourse",
+             "SN 22.12, opening Aniccavagga",
+             "This formula appears here for the first time"],
+         "correct": 0,
+         "expl": "SN 22.3 used the identical formula to describe an already-accomplished fact about the Buddha."},
+        {"q": "How does this discourse's use of the formula differ from SN 22.3's?",
+         "opts": [
+             "It addresses the listener directly as an instruction, rather than describing the Buddha's completed accomplishment",
+             "It uses an entirely different formula with no relation to SN 22.3",
+             "It denies that the formula from SN 22.3 is accurate",
+             "It applies only to form, unlike SN 22.3's broader scope"],
+         "correct": 0,
+         "expl": "A shift in grammatical mood, from description to instruction, with the formula's content unchanged."},
+        {"q": "How is the formula's result presented in relation to the instruction to give up desire?",
+         "opts": [
+             "As an automatic consequence, not requiring a separate additional step",
+             "As an unrelated event that may or may not follow",
+             "As something requiring years of additional practice",
+             "As impossible to actually achieve"],
+         "correct": 0,
+         "expl": "The single act of giving up desire is presented as sufficient to produce the complete result."},
+        {"q": "What position does this discourse hold between SN 22.24 and SN 22.26?",
+         "opts": [
+             "A short, direct instruction offering a brief pause between two more elaborate discourses",
+             "The vagga's longest and most elaborate discourse",
+             "An unrelated digression with no connection to its neighbors",
+             "A direct contradiction of both surrounding discourses"],
+         "correct": 0,
+         "expl": "Positioned between SN 22.24's argument and SN 22.26's extended narrative."},
+        {"q": "How many aggregates does this discourse's instruction apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "What image does \"made like a palm stump\" convey?",
+         "opts": [
+             "A tree cut so low it cannot regrow, conveying irreversibility",
+             "A tree that regrows quickly after cutting",
+             "A tree that was never cut at all",
+             "An unrelated agricultural practice"],
+         "correct": 0,
+         "expl": "The formula's central image for the completeness of the ending described."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.26, the Buddha's first-person account of his own pre-awakening reflection on the aggregates",
+             "A return to SN 22.12",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "Opening the vagga's gratification/drawback/escape trio."},
+    ],
+    marginalia=[
+        ("The same formula, now an instruction", [
+            "SN 22.3 described it accomplished &mdash;",
+            "this discourse asks the listener to do it",
+        ]),
+        ("A single act, a complete automatic result", [
+            "give up desire &mdash;",
+            "the rest follows without a separate step",
+        ]),
+        ("Cut off at the root, made like a palm stump", [
+            "a recurring formula across the book &mdash;",
+            "irreversibility as its central image",
+        ]),
+        ("A brief pause between two longer discourses", [
+            "short and direct &mdash;",
+            "before the vagga's tone shifts to narrative",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.25/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.24.html">SN 22.24 &middot; Directly '
+        "Knowing</a> &mdash; the previous discourse, naming giving "
+        "up as one of four jointly necessary conditions.",
+        '<a href="sn-22.26.html">SN 22.26 &middot; Gratification</a> '
+        "&mdash; the next discourse, the Buddha's own first-person "
+        "pre-awakening reflection on the aggregates.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.26 — Assādasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 26, "Assāda", "Gratification",
+    vagga="Bhāravagga",
+    meta_title="SN 22.26 — Gratification | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Assādasutta &mdash; the Buddha's own first-person "
+        "account of the pre-awakening reflection that led him to "
+        "discover gratification, drawback, and escape in each "
+        "aggregate. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, recounting his own pre-awakening "
+                     "reflection in the first person"),
+        ("Form", "An autobiographical narrative recalling a specific "
+                 "line of inquiry pursued before awakening, closing "
+                 "with the standard declaration of enlightenment"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a first-person narrative introducing a "
+                       "three-part analytical framework used "
+                       "throughout the rest of this vagga"),
+    ],
+    why=(
+        "This discourse is a rare first-person window onto the "
+        "Buddha's own reasoning before his awakening. He recalls "
+        "asking himself, while still unawakened but intent on "
+        "awakening, what the gratification (assāda), drawback "
+        "(ādīnava), and escape (nissaraṇa) are with respect to each "
+        "aggregate &mdash; and then recounts the answers he arrived "
+        "at himself: pleasure and happiness are an aggregate's "
+        "gratification; its impermanence, suffering, and "
+        "perishability are its drawback; and removing desire and "
+        "greed for it is the escape. Crucially, the discourse states "
+        "explicitly that the Buddha withheld his announcement of "
+        "awakening until this exact three-part understanding was "
+        "complete &mdash; making this triad, on the discourse's own "
+        "account, the specific content of what awakening consisted in."
+    ),
+    guide=[
+        ("A question the Buddha asked himself before awakening", [
+            "The discourse opens with an unusual first-person "
+            "framing: &ldquo;before my awakening &mdash; when I was "
+            "still unawakened but intent on awakening &mdash; I "
+            "thought&rdquo; a specific question about each "
+            "aggregate's gratification, drawback, and escape. This "
+            "kind of explicit autobiographical recollection of a "
+            "pre-awakening line of inquiry is relatively rare in the "
+            "canon, and it frames what follows as the Buddha's own "
+            "discovery rather than as instruction handed down to "
+            "others.",
+        ]),
+        ("Three answers, found by his own reflection", [
+            "The Buddha recounts finding his own answer to each "
+            "part of the question: the pleasure and happiness that "
+            "arise from an aggregate are its gratification; that same "
+            "aggregate's impermanence, suffering, and liability to "
+            "perish are its drawback; and removing and giving up "
+            "desire and greed for it is the escape. All three terms "
+            "are given for each of the five aggregates in turn.",
+        ]),
+        ("Awakening withheld until the triad was complete", [
+            "The discourse's most striking claim comes after the "
+            "three-part analysis: as long as the Buddha did not "
+            "truly understand the five grasping aggregates' "
+            "gratification, drawback, and escape &ldquo;for what "
+            "they are,&rdquo; he did not announce his awakening to "
+            "the world &mdash; but once he did understand them this "
+            "way, he did announce it. This makes the gratification/"
+            "drawback/escape triad, by the discourse's own account, "
+            "the specific content that made the difference between "
+            "withholding and announcing supreme awakening.",
+        ]),
+        ("A framework the vagga will now use twice more", [
+            "This same assāda/ādīnava/nissaraṇa triad recurs in the "
+            "two discourses immediately after this one, each "
+            "presenting it from a different angle: SN 22.27 restates "
+            "it as an active search (&ldquo;I went in search of "
+            "&hellip; and I found it&rdquo;), and SN 22.28 extends it "
+            "outward from the Buddha's own experience to a universal "
+            "claim about all sentient beings.",
+        ]),
+    ],
+    terms=[
+        ("assāda",
+         "&ldquo;gratification&rdquo; &mdash; the pleasure and "
+         "happiness that arise from an aggregate, the first term of "
+         "the triad this discourse introduces."),
+        ("ādīnava",
+         "&ldquo;drawback&rdquo; &mdash; an aggregate's impermanence, "
+         "suffering, and liability to perish, the triad's second term."),
+        ("nissaraṇa",
+         "&ldquo;escape&rdquo; &mdash; removing and giving up desire "
+         "and greed for an aggregate, the triad's third and final "
+         "term."),
+        ("anuttaraṁ sammāsambodhiṁ",
+         "&ldquo;supreme perfect awakening&rdquo; &mdash; what the "
+         "Buddha declares he would not announce until the "
+         "gratification/drawback/escape triad was fully understood "
+         "for all five aggregates."),
+        ("akuppā me vimutti",
+         "&ldquo;my freedom is unshakable&rdquo; &mdash; part of the "
+         "discourse's closing declaration, the same knowledge and "
+         "vision the Buddha reports arising once his understanding "
+         "was complete."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions (feeling, "
+        "perception, and choices, each following the same three-part "
+        "reflection spelled out in full for form and consciousness) "
+        "are given exactly as bilara-data preserves them. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.26:1.2-1.11"),
+        ("p", "&sect;2", "sn22.26:1.19-1.21"),
+        ("p", "&sect;3", "sn22.26:2.1-2.2"),
+        ("p", "&sect;4", "sn22.26:2.4-2.5"),
+    ],
+    quiz=[
+        {"q": "What question does the Buddha recall asking himself before his awakening?",
+         "opts": [
+             "What is the gratification, drawback, and escape when it comes to each aggregate?",
+             "How many aggregates are there in total?",
+             "Which teacher should he study under next?",
+             "How long would awakening take to achieve?"],
+         "correct": 0,
+         "expl": "An explicit first-person recollection of a pre-awakening line of inquiry."},
+        {"q": "What does the Buddha identify as an aggregate's \"gratification\" (assāda)?",
+         "opts": [
+             "The pleasure and happiness that arise from it",
+             "Its complete absence of any positive quality",
+             "Its usefulness for physical survival alone",
+             "Its social status value"],
+         "correct": 0,
+         "expl": "The first term of the triad, found through his own reflection."},
+        {"q": "What does the Buddha identify as an aggregate's \"drawback\" (ādīnava)?",
+         "opts": [
+             "Its impermanence, suffering, and liability to perish",
+             "Its color and physical appearance",
+             "Its usefulness to other people",
+             "Its cost in monetary terms"],
+         "correct": 0,
+         "expl": "The second term of the triad."},
+        {"q": "What does the Buddha identify as an aggregate's \"escape\" (nissaraṇa)?",
+         "opts": [
+             "Removing and giving up desire and greed for it",
+             "Physically destroying the aggregate",
+             "Ignoring the aggregate entirely without further reflection",
+             "Transferring attachment to a different aggregate"],
+         "correct": 0,
+         "expl": "The third and final term, completing the triad."},
+        {"q": "What claim does the discourse make about when the Buddha announced his awakening?",
+         "opts": [
+             "He withheld announcing it until he truly understood the gratification/drawback/escape triad for all five aggregates",
+             "He announced it immediately upon first sitting under the tree",
+             "He never formally announced his awakening at all",
+             "He announced it before understanding the aggregates at all"],
+         "correct": 0,
+         "expl": "Making the triad, by the discourse's own account, the specific content that made the difference."},
+        {"q": "How do SN 22.27 and SN 22.28 relate to this discourse?",
+         "opts": [
+             "Both use the same gratification/drawback/escape triad, presented from different angles",
+             "Both directly contradict this discourse's conclusions",
+             "Neither has any relationship to this discourse",
+             "Both replace the triad with an entirely different framework"],
+         "correct": 0,
+         "expl": "SN 22.27 as active search, SN 22.28 as a universal claim about all sentient beings."},
+        {"q": "How many aggregates does the Buddha's reflection apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern spelled out for form and consciousness."},
+        {"q": "What closing declaration follows the Buddha's account of his awakening?",
+         "opts": [
+             "\"My freedom is unshakable; this is my last rebirth; now there'll be no more future lives\"",
+             "\"I shall now teach for eighty years without rest\"",
+             "\"The aggregates no longer exist for anyone\"",
+             "\"All beings are now automatically free\""],
+         "correct": 0,
+         "expl": "The standard arahant-declaration language, here applied to the Buddha's own awakening."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Under the Bodhi tree, narrated as it happened"],
+         "correct": 0,
+         "expl": "The teaching itself is given at Sāvatthī, though its content recalls events before awakening."},
+        {"q": "Is this kind of explicit first-person pre-awakening recollection common in the canon?",
+         "opts": [
+             "No — this reading guide describes it as relatively rare",
+             "Yes — every discourse in this saṃyutta uses this framing",
+             "It is the only form of narration used anywhere in the canon",
+             "The discourse itself claims to be unique in all literature"],
+         "correct": 0,
+         "expl": "Most discourses instruct mendicants directly rather than recalling the Buddha's own pre-awakening reasoning."},
+    ],
+    marginalia=[
+        ("A question asked before awakening, not after", [
+            "\"when I was still unawakened\" &mdash;",
+            "a rare first-person window onto the search itself",
+        ]),
+        ("Three terms, one for each facet", [
+            "gratification, drawback, escape &mdash;",
+            "found by his own reflection, not received",
+        ]),
+        ("Awakening withheld until the triad was complete", [
+            "not announced immediately &mdash;",
+            "this exact understanding named as the difference",
+        ]),
+        ("A framework the vagga will use twice more", [
+            "search, and universal application follow &mdash;",
+            "SN 22.27-28 build on this discourse directly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.26/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.25.html">SN 22.25 &middot; Desire and '
+        "Greed</a> &mdash; the previous discourse, a direct "
+        "instruction using a different recurring formula.",
+        '<a href="sn-22.27.html">SN 22.27 &middot; Gratification '
+        "(2nd)</a> &mdash; the next discourse, the same triad "
+        "restated as an active search.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.27 — Dutiyaassādasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 27, "Dutiyaassāda", "Gratification (2nd)",
+    vagga="Bhāravagga",
+    meta_title="SN 22.27 — Gratification (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaassādasutta &mdash; SN 22.26's triad restated in "
+        "the language of active search: going in search of "
+        "gratification, drawback, and escape, and finding each. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, again recounting his own "
+                     "pre-awakening effort in the first person"),
+        ("Form", "The same gratification/drawback/escape triad as "
+                 "SN 22.26, now cast as a deliberate, effortful "
+                 "search rather than a spontaneous reflection"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "best read directly after SN 22.26, whose "
+                       "triad it restates in a new register"),
+    ],
+    why=(
+        "This discourse restates SN 22.26's exact three-part "
+        "framework &mdash; gratification, drawback, and escape "
+        "&mdash; but changes its verbs in a way that shifts the "
+        "whole discourse's character: rather than recalling a "
+        "moment of reflection (&ldquo;I thought&rdquo;), the Buddha "
+        "describes active, effortful search &mdash; &ldquo;I went in "
+        "search of form's gratification, and I found it. I've seen "
+        "clearly with wisdom the full extent of form's "
+        "gratification.&rdquo; The same three-part pattern repeats "
+        "for drawback and escape, and then again for each remaining "
+        "aggregate. Where SN 22.26 emphasized the content of what "
+        "was understood, this discourse emphasizes the effort of "
+        "seeking it out."
+    ),
+    guide=[
+        ("The same triad, a different verb of engagement", [
+            "SN 22.26 used &ldquo;I thought&rdquo; and &ldquo;it "
+            "occurred to me&rdquo; &mdash; verbs of reflection. This "
+            "discourse instead uses &ldquo;I went in search "
+            "of&hellip;and I found it&rdquo; &mdash; verbs of active "
+            "pursuit and discovery. Both discourses arrive at the "
+            "identical three terms (gratification, drawback, escape) "
+            "for the identical five aggregates, but the manner of "
+            "arriving at them is described quite differently.",
+        ]),
+        ("A claim of thoroughness, added to each term", [
+            "Beyond simply finding each of the three, this discourse "
+            "adds a further claim not present in SN 22.26's wording: "
+            "&ldquo;I've seen clearly with wisdom the full extent of "
+            "form's gratification&rdquo; &mdash; specifying not just "
+            "that the search succeeded, but that what was found was "
+            "grasped in its complete scope (yāvatā), leaving nothing "
+            "further to discover.",
+        ]),
+        ("The same closing declaration, unchanged", [
+            "As in SN 22.26, this discourse closes by stating that "
+            "the Buddha withheld his announcement of awakening until "
+            "this understanding &mdash; now described as a "
+            "thoroughly searched-out and completely seen "
+            "understanding &mdash; was in place for all five "
+            "aggregates, followed by the identical knowledge-and-"
+            "vision declaration that closed the previous discourse.",
+        ]),
+        ("Two discourses, two aspects of one achievement", [
+            "Read as a pair, SN 22.26 and this discourse present "
+            "awakening's content from two angles: SN 22.26 as "
+            "something reflected on and understood, this discourse "
+            "as something actively sought, found, and seen in full. "
+            "Neither discourse is more authoritative than the other; "
+            "together they present a fuller picture of what the "
+            "search for awakening involved than either would alone.",
+        ]),
+    ],
+    terms=[
+        ("pariyesanaṁ acariṁ",
+         "&ldquo;I went in search of&rdquo; &mdash; this discourse's "
+         "distinctive verb of active pursuit, replacing SN 22.26's "
+         "language of reflection."),
+        ("adhigamā",
+         "&ldquo;I found it&rdquo; &mdash; the result of the search, "
+         "paired with each of the three terms in turn."),
+        ("yāvatā&hellip;paññāya sudiṭṭhaṁ",
+         "&ldquo;I've seen clearly with wisdom the full extent "
+         "of&hellip;&rdquo; &mdash; a claim of thoroughness added to "
+         "each term, not present in SN 22.26's wording."),
+        ("assāda, ādīnava, nissaraṇa",
+         "&ldquo;gratification, drawback, escape&rdquo; &mdash; the "
+         "same three terms from SN 22.26, unchanged in content though "
+         "differently framed."),
+        ("akuppā me vimutti",
+         "&ldquo;my freedom is unshakable&rdquo; &mdash; the same "
+         "closing declaration that closed SN 22.26, repeated here "
+         "unchanged."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions (feeling, "
+        "perception, and choices, each following the same "
+        "search-and-discovery pattern spelled out in full for form "
+        "and consciousness) are given exactly as bilara-data "
+        "preserves them. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.27:1.2-1.10"),
+        ("p", "&sect;2", "sn22.27:1.20-1.22"),
+        ("p", "&sect;3", "sn22.27:1.23-1.26"),
+    ],
+    quiz=[
+        {"q": "What verb of engagement does this discourse use, differing from SN 22.26's \"I thought\"?",
+         "opts": [
+             "\"I went in search of... and I found it\"",
+             "\"I was told by another\"",
+             "\"I dreamed of\"",
+             "\"I inherited the knowledge from a past life\""],
+         "correct": 0,
+         "expl": "Verbs of active pursuit and discovery, replacing SN 22.26's language of reflection."},
+        {"q": "What three terms does this discourse's search apply to, identical to SN 22.26?",
+         "opts": [
+             "Gratification, drawback, and escape",
+             "Birth, aging, and death",
+             "Generosity, ethics, and wisdom",
+             "Form, feeling, and perception only"],
+         "correct": 0,
+         "expl": "The same triad from SN 22.26, unchanged in content."},
+        {"q": "What additional claim does this discourse add to each term, not present in SN 22.26?",
+         "opts": [
+             "\"I've seen clearly with wisdom the full extent of it\"",
+             "A claim that the search took exactly seven years",
+             "A claim that another teacher confirmed the finding",
+             "A denial that the search was ever completed"],
+         "correct": 0,
+         "expl": "A claim of thoroughness — grasping the term's complete scope, not just finding it."},
+        {"q": "How does this discourse's closing declaration compare to SN 22.26's?",
+         "opts": [
+             "Identical — the same knowledge-and-vision declaration, and the same claim about withholding awakening's announcement",
+             "Completely different, with no shared wording",
+             "This discourse omits the closing declaration entirely",
+             "This discourse adds an entirely new fourth term"],
+         "correct": 0,
+         "expl": "The same closing content, framed after a differently described search."},
+        {"q": "How can SN 22.26 and this discourse be read together as a pair?",
+         "opts": [
+             "As two aspects of one achievement — reflection and understanding, versus active search and thorough seeing",
+             "As direct contradictions of one another",
+             "As entirely unrelated discourses placed together by coincidence",
+             "As one discourse being a later forgery of the other"],
+         "correct": 0,
+         "expl": "Together they present a fuller picture than either discourse alone."},
+        {"q": "How many aggregates does this discourse's search apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern spelled out for form and consciousness."},
+        {"q": "What does \"yāvatā\" (the full extent) specify in this discourse's claim?",
+         "opts": [
+             "That what was found was grasped in its complete scope, leaving nothing further to discover",
+             "That the search covered only a small portion of the topic",
+             "That the search was abandoned before completion",
+             "That the search applies only to advanced practitioners"],
+         "correct": 0,
+         "expl": "A claim of thoroughness distinguishing this discourse from SN 22.26's simpler statement."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Under the Bodhi tree, narrated as it happened"],
+         "correct": 0,
+         "expl": "The teaching is given at Sāvatthī, though its content recalls the pre-awakening search."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.28, extending the triad to a universal claim about all sentient beings",
+             "A return to SN 22.12",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "The third term of the vagga's gratification/drawback/escape trio."},
+        {"q": "Does this discourse present a different set of three terms from SN 22.26?",
+         "opts": [
+             "No — the identical three terms, gratification, drawback, and escape",
+             "Yes — an entirely different set of terms",
+             "It presents only two of the three terms",
+             "It adds a fourth term not found in SN 22.26"],
+         "correct": 0,
+         "expl": "The content is unchanged; only the framing verbs differ."},
+    ],
+    marginalia=[
+        ("Reflection becomes active search", [
+            "\"I thought\" becomes \"I went in search of\" &mdash;",
+            "the same triad, a different verb of engagement",
+        ]),
+        ("A claim of thoroughness added", [
+            "not just found, but seen in full extent &mdash;",
+            "nothing further left to discover",
+        ]),
+        ("The same closing declaration, unchanged", [
+            "unshakable freedom, last rebirth &mdash;",
+            "identical wording to SN 22.26's close",
+        ]),
+        ("Two aspects of one achievement", [
+            "reflection, then active search &mdash;",
+            "neither more authoritative than the other",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.27/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.26.html">SN 22.26 &middot; Gratification</a> '
+        "&mdash; the previous discourse, the same triad framed as "
+        "reflection rather than search.",
+        '<a href="sn-22.28.html">SN 22.28 &middot; Gratification '
+        "(3rd)</a> &mdash; the next discourse, extending the triad "
+        "to a universal claim about all sentient beings.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.28 — Tatiyaassādasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 28, "Tatiyaassāda", "Gratification (3rd)",
+    vagga="Bhāravagga",
+    meta_title="SN 22.28 — Gratification (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyaassādasutta &mdash; the gratification/drawback/"
+        "escape triad extended from the Buddha's own case to a "
+        "universal claim about all sentient beings. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants in the third person, about sentient "
+                     "beings generally"),
+        ("Form", "A conditional argument (\"if there were no X, "
+                 "beings wouldn't Y — but since there is X, beings "
+                 "do Y\") applied to each term of the triad in turn"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes the trio by generalizing beyond the "
+                       "Buddha's own first-person case"),
+    ],
+    why=(
+        "This discourse closes the vagga's gratification/drawback/"
+        "escape trio by making a move neither SN 22.26 nor SN 22.27 "
+        "made: it steps entirely out of the first person. Rather "
+        "than recounting what the Buddha himself thought, sought, or "
+        "found, this discourse states a universal conditional claim "
+        "about all sentient beings: if there were no gratification "
+        "in form, beings would not be aroused by it &mdash; but "
+        "since there is, they are. If form had no drawback, beings "
+        "would not grow disillusioned with it &mdash; but since it "
+        "has one, they do. If there were no escape from form, beings "
+        "could not escape it &mdash; but since there is, they can. "
+        "The same three-part reasoning generalizes the Buddha's own "
+        "discovery into a claim about how the aggregates function "
+        "for anyone at all."
+    ),
+    guide=[
+        ("From one person's discovery to a general claim", [
+            "SN 22.26 and SN 22.27 both concerned the Buddha's own "
+            "path to awakening, told in the first person. This "
+            "discourse instead makes a claim in the third person "
+            "about sentient beings (sattā) generally &mdash; not "
+            "what the Buddha found, but what the existence of "
+            "gratification, drawback, and escape makes possible for "
+            "anyone at all.",
+        ]),
+        ("A conditional structure, run for each term of the triad", [
+            "Each of the three terms gets the identical conditional "
+            "treatment: a counterfactual clause (if there were no "
+            "gratification in form) followed by its negative "
+            "consequence (beings would not be aroused by it), then "
+            "the actual case (but since there is gratification) "
+            "followed by its actual consequence (beings are aroused "
+            "by it). This pattern repeats for drawback (disillusioned) "
+            "and escape (able to escape), for each aggregate in turn.",
+        ]),
+        ("Why beings are drawn to what will also let them go", [
+            "The argument's structure makes a point worth sitting "
+            "with: an aggregate's gratification is precisely what "
+            "explains why beings are drawn toward it in the first "
+            "place, and its drawback is precisely what explains why "
+            "that same attraction eventually gives way to "
+            "disillusionment. Gratification and drawback are not "
+            "presented as competing forces but as two real features "
+            "of the same aggregates, each doing real explanatory "
+            "work at a different stage.",
+        ]),
+        ("The trio's closing statement", [
+            "The discourse closes not with the personal knowledge-"
+            "and-vision declaration that ended SN 22.26 and SN "
+            "22.27, but with a general statement about escaping the "
+            "world: as long as sentient beings do not truly "
+            "understand this triad, they have not escaped the world "
+            "and do not live liberated with a mind free of limits; "
+            "once they do understand it, they have. The trio thus "
+            "moves from the Buddha's own case (SN 22.26-27) to "
+            "everyone's case (this discourse), closing on the same "
+            "understanding made available in principle to any being "
+            "at all.",
+        ]),
+    ],
+    terms=[
+        ("sattā",
+         "&ldquo;sentient beings&rdquo; &mdash; this discourse's "
+         "subject, replacing the first-person &ldquo;I&rdquo; of SN "
+         "22.26-27 with a general third-person claim."),
+        ("abhinandeyyuṁ",
+         "&ldquo;would be aroused by it&rdquo; &mdash; the "
+         "consequence attached to gratification's presence, part of "
+         "the discourse's conditional structure."),
+        ("nibbindeyyuṁ",
+         "&ldquo;would grow disillusioned&rdquo; &mdash; the "
+         "consequence attached to drawback's presence, the same "
+         "verb used in the liberation chain elsewhere in this book."),
+        ("nissareyyuṁ",
+         "&ldquo;would escape&rdquo; &mdash; the consequence attached "
+         "to escape's presence, completing the discourse's threefold "
+         "conditional structure."),
+        ("vippamuttacetasā",
+         "&ldquo;with a mind free of limits&rdquo; &mdash; part of "
+         "the discourse's closing description of what understanding "
+         "this triad makes possible for any sentient being."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions (feeling, "
+        "perception, and choices, each following the same "
+        "conditional structure spelled out in full for form and "
+        "consciousness) are given exactly as bilara-data preserves "
+        "them. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.28:1.2-1.7"),
+        ("p", "&sect;2", "sn22.28:1.13-1.17"),
+        ("p", "&sect;3", "sn22.28:2.1-2.3"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's subject differ from SN 22.26 and SN 22.27?",
+         "opts": [
+             "It concerns sentient beings generally, in the third person, rather than the Buddha's own first-person case",
+             "It concerns only the Buddha's closest disciples",
+             "It concerns only animals, not humans",
+             "It concerns only future generations, not present beings"],
+         "correct": 0,
+         "expl": "A shift from first-person narrative to a general third-person claim."},
+        {"q": "What conditional structure does this discourse use for gratification?",
+         "opts": [
+             "\"If there were no gratification in form, beings wouldn't be aroused by it — but since there is, they are\"",
+             "\"Gratification is entirely imaginary and has no real effect\"",
+             "\"Gratification only affects a small minority of beings\"",
+             "\"Gratification cannot be discussed in conditional terms\""],
+         "correct": 0,
+         "expl": "A counterfactual paired with the actual case, repeated for each term of the triad."},
+        {"q": "What does the discourse claim explains why beings grow disillusioned with an aggregate?",
+         "opts": [
+             "The aggregate's drawback — if it had none, beings would not grow disillusioned",
+             "Random chance with no underlying explanation",
+             "External punishment imposed by others",
+             "A decision made before birth"],
+         "correct": 0,
+         "expl": "The same conditional structure applied to drawback specifically."},
+        {"q": "What relationship does the discourse suggest between gratification and drawback?",
+         "opts": [
+             "Both are real features of the same aggregates, each doing explanatory work at a different stage",
+             "Gratification is real but drawback is entirely illusory",
+             "The two are unrelated and never coexist",
+             "Drawback always precedes gratification in time"],
+         "correct": 0,
+         "expl": "Gratification explains initial attraction; drawback explains eventual disillusionment."},
+        {"q": "How does this discourse's closing differ from SN 22.26 and SN 22.27's?",
+         "opts": [
+             "It closes with a general statement about beings escaping the world, not the Buddha's personal knowledge-and-vision declaration",
+             "It closes identically to both previous discourses",
+             "It omits any closing statement entirely",
+             "It closes with a warning rather than a positive statement"],
+         "correct": 0,
+         "expl": "The trio moves from the Buddha's own case to everyone's case."},
+        {"q": "What does the discourse claim about beings who do not understand the triad?",
+         "opts": [
+             "They have not escaped the world and do not live liberated with a mind free of limits",
+             "They are automatically reborn as animals",
+             "They cannot ever learn the teaching in any future life",
+             "They are punished directly by the Buddha"],
+         "correct": 0,
+         "expl": "A general claim about the consequence of not understanding gratification, drawback, and escape."},
+        {"q": "How many aggregates does this discourse's argument apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "How does this discourse complete the trio formed with SN 22.26 and SN 22.27?",
+         "opts": [
+             "As the third term, generalizing the Buddha's own first-person discovery into a universal claim",
+             "As an unrelated discourse with no connection to the trio",
+             "As a direct refutation of the previous two discourses",
+             "As a simple repetition of SN 22.27 with no new content"],
+         "correct": 0,
+         "expl": "Reflection (SN 22.26), active search (SN 22.27), and now universal application (this discourse)."},
+        {"q": "What discourse comes immediately after this one, closing the trio?",
+         "opts": [
+             "SN 22.29, on taking pleasure in the aggregates as taking pleasure in suffering",
+             "A return to SN 22.12",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "The vagga continues with a new short discourse on pleasure and suffering."},
+    ],
+    marginalia=[
+        ("From the Buddha's case to every being's case", [
+            "first person, then third person &mdash;",
+            "one discovery generalized into a universal claim",
+        ]),
+        ("A counterfactual, paired with the actual", [
+            "if there were none, beings would not &mdash;",
+            "but since there is, they do",
+        ]),
+        ("Attraction and disillusionment, both explained", [
+            "gratification draws beings in &mdash;",
+            "drawback is what eventually lets them go",
+        ]),
+        ("The trio's closing term", [
+            "reflection, search, universal claim &mdash;",
+            "three angles on one triad, now complete",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.28/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.27.html">SN 22.27 &middot; Gratification '
+        "(2nd)</a> &mdash; the previous discourse, the same triad "
+        "framed as the Buddha's own active search.",
+        '<a href="sn-22.29.html">SN 22.29 &middot; Taking '
+        "Pleasure</a> &mdash; the next discourse, on taking pleasure "
+        "in an aggregate as taking pleasure in suffering itself.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.29 — Abhinandanasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 29, "Abhinandana", "Taking Pleasure",
+    vagga="Bhāravagga",
+    meta_title="SN 22.29 — Taking Pleasure | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Abhinandanasutta &mdash; a compact chained argument: "
+        "taking pleasure in an aggregate is taking pleasure in "
+        "suffering itself, and freedom follows only from not doing "
+        "so. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A two-step chained equation, run once in the "
+                 "negative direction and once in the positive, for "
+                 "each aggregate"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and tightly patterned, worth reading "
+                       "slowly for its chained equation"),
+    ],
+    why=(
+        "This discourse collapses two separate ideas &mdash; taking "
+        "pleasure in an aggregate, and the aggregate's own nature as "
+        "suffering &mdash; into a single unbroken equation: if you "
+        "take pleasure in form, you take pleasure in suffering; and "
+        "if you take pleasure in suffering, you are not free from "
+        "suffering. The chain is then reversed for the discourse's "
+        "second half: if you do not take pleasure in form, you do "
+        "not take pleasure in suffering; and if you do not take "
+        "pleasure in suffering, you are free from suffering. The "
+        "argument's entire force rests on identifying &ldquo;taking "
+        "pleasure in form&rdquo; with &ldquo;taking pleasure in "
+        "suffering&rdquo; directly, rather than treating them as two "
+        "separate facts that merely happen to correlate."
+    ),
+    guide=[
+        ("An identity, not merely a correlation", [
+            "The discourse's opening move is stated as a direct "
+            "equation rather than a causal claim: &ldquo;if you take "
+            "pleasure in form, you take pleasure in suffering&rdquo; "
+            "&mdash; not &ldquo;taking pleasure in form leads to "
+            "suffering&rdquo; but an identification of the two acts "
+            "as the same act, differently described. This follows "
+            "directly from the earlier vagga material (SN 22.13, and "
+            "SN 22.15-17's chain) establishing that the aggregates "
+            "simply are suffering.",
+        ]),
+        ("A second link, chained onto the first", [
+            "The discourse does not stop at the first equation; it "
+            "adds a second: &ldquo;if you take pleasure in suffering, "
+            "you're not free from suffering, I say.&rdquo; The "
+            "explicit &ldquo;I say&rdquo; (vadāmi) marks this second "
+            "link as the Buddha's own direct claim rather than a "
+            "further logical derivation, giving the two-step chain a "
+            "personal authority distinct from a purely impersonal "
+            "argument.",
+        ]),
+        ("The identical chain, run in reverse", [
+            "The discourse's second half simply negates every term "
+            "of the first: not taking pleasure in form means not "
+            "taking pleasure in suffering, and not taking pleasure in "
+            "suffering means being free from suffering. As with "
+            "several other discourses in this book, the negative "
+            "half adds no new content &mdash; it is included to make "
+            "explicit that both directions of the equation hold, not "
+            "only the direction warning against pleasure.",
+        ]),
+        ("A short discourse doing compact, careful work", [
+            "Despite its brevity, this discourse performs a precise "
+            "philosophical function: it forecloses a possible "
+            "objection to the earlier claim that the aggregates are "
+            "suffering &mdash; namely, that one could take pleasure "
+            "in something that is nonetheless suffering without "
+            "thereby being caught by that suffering. This discourse "
+            "denies exactly that possibility, identifying the two "
+            "acts as one.",
+        ]),
+    ],
+    terms=[
+        ("abhinandati",
+         "&ldquo;takes pleasure in&rdquo; &mdash; the discourse's "
+         "title verb, applied to each aggregate and, by the "
+         "discourse's own equation, to suffering itself."),
+        ("dukkhaṁ so abhinandati",
+         "&ldquo;you take pleasure in suffering&rdquo; &mdash; the "
+         "discourse's central identification, not a separate "
+         "consequence but the same act redescribed."),
+        ("vadāmi",
+         "&ldquo;I say&rdquo; &mdash; marking the discourse's second "
+         "link (pleasure in suffering means no freedom from "
+         "suffering) as the Buddha's own direct claim."),
+        ("dukkhā aparimutto",
+         "&ldquo;not free from suffering&rdquo; &mdash; the negative "
+         "half's conclusion, mirrored by its positive opposite in the "
+         "discourse's second half."),
+        ("na dukkhā parimutto",
+         "&ldquo;free from suffering&rdquo; &mdash; the positive "
+         "half's conclusion, reached simply by negating every term of "
+         "the first half's chain."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions in each half "
+        "(feeling, perception, and choices, each following the same "
+        "chained equation spelled out in full for form and "
+        "consciousness) are given exactly as bilara-data preserves "
+        "them. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.29:1.2-1.3"),
+        ("p", "&sect;2", "sn22.29:1.7-1.8"),
+        ("p", "&sect;3", "sn22.29:1.9-1.10"),
+        ("p", "&sect;4", "sn22.29:1.14-1.15"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about taking pleasure in form?",
+         "opts": [
+             "It is identical to taking pleasure in suffering, not merely correlated with it",
+             "It is entirely unrelated to suffering",
+             "It only sometimes leads to suffering, depending on circumstances",
+             "It is the only path to genuine happiness"],
+         "correct": 0,
+         "expl": "A direct equation, stated as an identity rather than a causal claim."},
+        {"q": "What second link does the discourse chain onto the first?",
+         "opts": [
+             "If you take pleasure in suffering, you are not free from suffering",
+             "If you take pleasure in suffering, you become free from suffering",
+             "Taking pleasure in suffering has no further consequence",
+             "Taking pleasure in suffering only affects consciousness, not the other aggregates"],
+         "correct": 0,
+         "expl": "Marked with the Buddha's explicit \"I say\" (vadāmi), giving it personal authority."},
+        {"q": "What does the discourse's second half do with the first half's chain?",
+         "opts": [
+             "Negates every term, producing the exact mirror-image positive chain",
+             "Adds an entirely new fourth term",
+             "Contradicts the first half's conclusion",
+             "Repeats the first half without any change"],
+         "correct": 0,
+         "expl": "Not taking pleasure in form means not taking pleasure in suffering, and freedom follows."},
+        {"q": "What possible objection does this discourse's identification of pleasure and suffering foreclose?",
+         "opts": [
+             "That one could take pleasure in something that is suffering without being caught by that suffering",
+             "That suffering does not really exist",
+             "That the aggregates are permanent",
+             "That pleasure is always morally wrong to experience"],
+         "correct": 0,
+         "expl": "The discourse denies this possibility by identifying the two acts as one."},
+        {"q": "How does this discourse connect to earlier material in this book (SN 22.13, SN 22.15-17)?",
+         "opts": [
+             "It builds directly on their established claim that the aggregates are suffering",
+             "It directly contradicts their conclusions",
+             "It has no relationship to any earlier discourse",
+             "It replaces their claims with an entirely new framework"],
+         "correct": 0,
+         "expl": "The identity between pleasure-in-form and pleasure-in-suffering depends on form already being suffering."},
+        {"q": "How many aggregates does this discourse's chained equation apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "What does the discourse's negative half add that is not already implied by the positive half?",
+         "opts": [
+             "Nothing new — it makes explicit that both directions of the equation hold",
+             "An entirely different conclusion about a different aggregate",
+             "A denial of the positive half's claim",
+             "A new fourth term not present in the positive half"],
+         "correct": 0,
+         "expl": "Included for explicitness, following the same pattern as other paired discourses in this book."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.30, on the arising and cessation of the aggregates using disease-related vocabulary",
+             "A return to SN 22.12",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "The vagga continues with a discourse using distinctive medical imagery."},
+        {"q": "Is the claim in this discourse presented as a causal chain or an identity?",
+         "opts": [
+             "An identity — the same act described in two different ways, not two separate facts that merely correlate",
+             "A purely causal chain with no identity claim at all",
+             "Neither — the discourse makes no logical claim of any kind",
+             "A statistical correlation observed across many cases"],
+         "correct": 0,
+         "expl": "The discourse's force rests on this identification rather than a weaker causal claim."},
+    ],
+    marginalia=[
+        ("An identity, not a mere correlation", [
+            "pleasure in form is pleasure in suffering &mdash;",
+            "the same act, differently described",
+        ]),
+        ("A second link marked with the Buddha's own voice", [
+            "\"I say\" &mdash;",
+            "personal authority, not just logical derivation",
+        ]),
+        ("The chain reversed, term for term", [
+            "not taking pleasure, not caught by suffering &mdash;",
+            "freedom follows the identical structure",
+        ]),
+        ("A possible escape route, closed off", [
+            "no pleasure-in-suffering without being caught &mdash;",
+            "compact work for so short a discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.29/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.28.html">SN 22.28 &middot; Gratification '
+        "(3rd)</a> &mdash; the previous discourse, closing the "
+        "vagga's gratification/drawback/escape trio.",
+        '<a href="sn-22.30.html">SN 22.30 &middot; Arising</a> '
+        "&mdash; the next discourse, using distinctive medical "
+        "imagery for the aggregates' arising and cessation.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.30 — Uppādasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 30, "Uppāda", "Arising",
+    vagga="Bhāravagga",
+    meta_title="SN 22.30 — Arising | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Uppādasutta &mdash; the aggregates' arising and "
+        "cessation described in distinctive medical vocabulary, as "
+        "the arising and cessation of disease itself. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A single equation stated for arising, then its "
+                 "mirror stated for cessation, using disease-related "
+                 "vocabulary distinctive within this vagga"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "notable chiefly for its distinctive medical "
+                       "vocabulary among this vagga's discourses"),
+    ],
+    why=(
+        "Most discourses in this saṃyutta describe the aggregates' "
+        "arising and ending using the vocabulary of suffering "
+        "directly &mdash; sorrow, lamentation, pain, distress. This "
+        "discourse reaches instead for the vocabulary of illness: "
+        "the arising, continuation, and manifestation of form is "
+        "described as &ldquo;the arising of suffering, the "
+        "continuation of diseases (rogānaṁ ṭhiti), and the "
+        "manifestation of old age and death&rdquo; &mdash; and its "
+        "cessation, correspondingly, as suffering's cessation, "
+        "disease's settling, and old age and death's disappearance. "
+        "Casting the aggregates' very arising as something already "
+        "diagnosable, already symptomatic, is a distinctive framing "
+        "not repeated elsewhere in this vagga."
+    ),
+    guide=[
+        ("Arising described in the vocabulary of disease", [
+            "The discourse's opening claim pairs three verbs "
+            "(arising, continuation, manifestation and regeneration) "
+            "with three matching consequences: the arising of "
+            "suffering, the continuation of diseases, and the "
+            "manifestation of old age and death. This three-part "
+            "correspondence is more elaborate than the simple "
+            "arising/ceasing pairs found in most of this vagga's "
+            "other discourses.",
+        ]),
+        ("Cessation as recovery, not merely absence", [
+            "The discourse's second half mirrors the first exactly: "
+            "the cessation, settling, and disappearance of form is "
+            "the cessation of suffering, the settling of diseases, "
+            "and the disappearance of old age and death. The "
+            "vocabulary of &ldquo;settling&rdquo; (vūpasama), "
+            "applied specifically to disease, reads almost like a "
+            "description of convalescence &mdash; not simply an "
+            "absence of symptoms but a settling-down process.",
+        ]),
+        ("A single discourse's distinctive vocabulary choice", [
+            "This medical framing &mdash; disease arising and "
+            "settling, rather than the more familiar sorrow-"
+            "lamentation-pain-distress formula used elsewhere in this "
+            "book &mdash; does not recur in the discourses "
+            "immediately before or after this one. Its appearance "
+            "here, once, is worth noting as one of several distinct "
+            "vocabularies this saṃyutta uses to describe the same "
+            "underlying claim about the aggregates' arising and "
+            "ending.",
+        ]),
+        ("Old age and death named without further elaboration", [
+            "Unlike SN 22.5's earlier discourse, which traced the "
+            "aggregates' arising through the full twelve-link chain "
+            "of dependent origination to reach old age and death, "
+            "this discourse simply names old age and death directly "
+            "as part of its threefold consequence, without spelling "
+            "out any intervening links. The connection is asserted "
+            "rather than argued.",
+        ]),
+    ],
+    terms=[
+        ("uppāda",
+         "&ldquo;arising&rdquo; &mdash; the discourse's title term, "
+         "paired here with continuation and manifestation as three "
+         "aspects of an aggregate's coming to be."),
+        ("rogānaṁ ṭhiti",
+         "&ldquo;the continuation of diseases&rdquo; &mdash; this "
+         "discourse's distinctive medical vocabulary, not repeated "
+         "elsewhere in this vagga's other discourses."),
+        ("jarāmaraṇassa pātubhāvo",
+         "&ldquo;the manifestation of old age and death&rdquo; "
+         "&mdash; named directly here without the intervening links "
+         "SN 22.5 traced through dependent origination."),
+        ("vūpasama",
+         "&ldquo;settling&rdquo; &mdash; the term applied specifically "
+         "to disease's cessation, suggesting a process of "
+         "convalescence rather than mere absence."),
+        ("dukkhassa nirodho",
+         "&ldquo;the cessation of suffering&rdquo; &mdash; paired in "
+         "this discourse with disease's settling and old age and "
+         "death's disappearance, as the threefold mirror of the "
+         "opening claim."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions in each half "
+        "(feeling, perception, and choices, each following the same "
+        "threefold correspondence spelled out in full for form and "
+        "consciousness) are given exactly as bilara-data preserves "
+        "them. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.30:1.2-1.2"),
+        ("p", "&sect;2", "sn22.30:1.6-1.6"),
+        ("p", "&sect;3", "sn22.30:1.7-1.7"),
+        ("p", "&sect;4", "sn22.30:1.11-1.11"),
+    ],
+    quiz=[
+        {"q": "What vocabulary does this discourse use for the aggregates' arising, distinctive within this vagga?",
+         "opts": [
+             "The vocabulary of disease — the continuation of diseases, and the manifestation of old age and death",
+             "The vocabulary of warfare and conquest",
+             "The vocabulary of financial debt",
+             "The vocabulary of weather and climate"],
+         "correct": 0,
+         "expl": "Rogānaṁ ṭhiti — a medical framing not repeated elsewhere in this vagga."},
+        {"q": "What three-part correspondence does the discourse's opening claim make?",
+         "opts": [
+             "Arising, continuation, and manifestation of an aggregate correspond to suffering's arising, disease's continuation, and old age/death's manifestation",
+             "A correspondence between form and consciousness only",
+             "A correspondence between the aggregates and the six sense fields",
+             "No correspondence is made — the discourse simply lists five aggregates"],
+         "correct": 0,
+         "expl": "A more elaborate three-part structure than the simple arising/ceasing pairs used elsewhere."},
+        {"q": "What term describes disease's cessation in this discourse?",
+         "opts": [
+             "Vūpasama, \"settling\" — suggesting convalescence rather than mere absence",
+             "Uppāda, \"arising\"",
+             "Pātubhāva, \"manifestation\"",
+             "Bhava, \"continued existence\""],
+         "correct": 0,
+         "expl": "A term that reads almost like a description of recovery, not simply symptom absence."},
+        {"q": "How does this discourse's treatment of old age and death differ from SN 22.5's earlier discourse?",
+         "opts": [
+             "This discourse names old age and death directly without spelling out the intervening links of dependent origination",
+             "This discourse denies any connection between the aggregates and old age and death",
+             "This discourse uses the exact same twelve-link chain as SN 22.5",
+             "This discourse claims old age and death are unrelated to the aggregates entirely"],
+         "correct": 0,
+         "expl": "The connection is asserted directly rather than argued through the full causal chain."},
+        {"q": "How does the discourse's second half relate to its first half?",
+         "opts": [
+             "It mirrors the first half exactly, describing cessation, settling, and disappearance in place of arising, continuation, and manifestation",
+             "It contradicts the first half entirely",
+             "It introduces an entirely unrelated new claim",
+             "It simply repeats the first half word for word with no change"],
+         "correct": 0,
+         "expl": "A precise structural mirror, term for term."},
+        {"q": "Is this discourse's medical vocabulary repeated in the discourses immediately before or after it?",
+         "opts": [
+             "No — this reading guide notes it as a distinctive, non-repeated vocabulary choice",
+             "Yes — every discourse in Bhāravagga uses this same vocabulary",
+             "Yes — it is repeated in every discourse in the entire saṃyutta",
+             "The discourse itself claims to be quoting an earlier text"],
+         "correct": 0,
+         "expl": "One of several distinct vocabularies this saṃyutta uses to describe the same underlying claim."},
+        {"q": "How many aggregates does this discourse's argument apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "What does \"manifestation\" (pātubhāva) describe in this discourse's opening claim?",
+         "opts": [
+             "One of three aspects, alongside arising and continuation, of an aggregate's coming to be",
+             "A separate, unrelated fourth term",
+             "A term used only in the discourse's second half",
+             "A term describing only consciousness, not the other aggregates"],
+         "correct": 0,
+         "expl": "Part of the threefold structure applied to each aggregate."},
+        {"q": "What discourse comes immediately after this one?",
+         "opts": [
+             "SN 22.31, on gloom and its root",
+             "A return to SN 22.12",
+             "The vagga's closing uddāna",
+             "A discourse from a different saṃyutta"],
+         "correct": 0,
+         "expl": "Returning to the short, paired-definition style seen earlier in SN 22.23."},
+    ],
+    marginalia=[
+        ("A one-time medical framing", [
+            "disease, not the usual sorrow-lamentation formula &mdash;",
+            "not repeated elsewhere in this vagga",
+        ]),
+        ("Settling, not merely absence", [
+            "vūpasama, convalescence's own vocabulary &mdash;",
+            "cessation described as a process",
+        ]),
+        ("Old age and death, named without the chain spelled out", [
+            "unlike SN 22.5's full twelve links &mdash;",
+            "the connection simply asserted here",
+        ]),
+        ("A precise mirror between arising and ceasing", [
+            "three terms, then their three opposites &mdash;",
+            "structure carried exactly across both halves",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.30/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.29.html">SN 22.29 &middot; Taking '
+        "Pleasure</a> &mdash; the previous discourse, a short "
+        "chained equation on pleasure and suffering.",
+        '<a href="sn-22.31.html">SN 22.31 &middot; The Root of '
+        "Gloom</a> &mdash; the next discourse, returning to the "
+        "short paired-definition style seen in SN 22.23.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.31 — Aghamūlasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 31, "Aghamūla", "The Root of Gloom",
+    vagga="Bhāravagga",
+    meta_title="SN 22.31 — The Root of Gloom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aghamūlasutta &mdash; the aggregates named as gloom "
+        "itself, and craving named as gloom's root, using the exact "
+        "threefold craving formula from SN 22.22. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "Two terms defined as a matched pair, in the same "
+                 "short glossary style as SN 22.23"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, its force carried by the word "
+                       "\"gloom\" itself"),
+    ],
+    why=(
+        "This discourse returns to the short, two-term definitional "
+        "style of SN 22.23 earlier in the vagga, but with a "
+        "distinctive and unusually stark word choice: agha, "
+        "&ldquo;gloom&rdquo; or &ldquo;misery.&rdquo; The five "
+        "aggregates are named directly as gloom itself, and the root "
+        "of that gloom is named as the identical threefold craving "
+        "&mdash; for sensual pleasures, for existence, and for "
+        "nonexistence &mdash; that SN 22.22 named as &ldquo;the "
+        "taking up of the burden.&rdquo; Reading this discourse "
+        "alongside SN 22.22 shows the same underlying claim about "
+        "craving's role given two different images across the vagga: "
+        "burden and bearer in one discourse, gloom and its root in "
+        "another."
+    ),
+    guide=[
+        ("Gloom, named directly as the aggregates themselves", [
+            "The discourse's first definition is stark and "
+            "unqualified: form, feeling, perception, choices, and "
+            "consciousness are gloom (agha). Unlike many of this "
+            "vagga's discourses, which describe the aggregates as "
+            "leading to suffering or as suffering's proper "
+            "characterization under certain conditions, this "
+            "discourse simply identifies them with gloom outright, "
+            "with no further qualification.",
+        ]),
+        ("The identical threefold craving from SN 22.22", [
+            "The root of gloom is defined using language that "
+            "matches SN 22.22's definition of &ldquo;the taking up of "
+            "the burden&rdquo; almost word for word: craving that "
+            "leads to future lives, mixed up with relishing and "
+            "greed, taking pleasure wherever it alights &mdash; that "
+            "is, craving for sensual pleasures, for existence, and "
+            "for nonexistence. The repetition of this exact formula "
+            "across two discourses in the same vagga is a deliberate "
+            "echo, not a coincidence.",
+        ]),
+        ("Two images, one underlying claim", [
+            "Where SN 22.22 cast the same craving as what a bearer "
+            "&ldquo;takes up&rdquo; along with a physical burden, "
+            "this discourse casts it as the root from which gloom "
+            "grows &mdash; a different metaphor (weight carried, "
+            "versus a plant's root system) applied to the identical "
+            "underlying doctrinal content. Reading the two discourses "
+            "together shows how this vagga varies its imagery while "
+            "keeping its core claims about craving constant.",
+        ]),
+        ("A word chosen for its weight", [
+            "&ldquo;Agha&rdquo; is a stronger, more visceral term "
+            "than the more common dukkha used throughout most of "
+            "this book &mdash; closer to &ldquo;misery&rdquo; or "
+            "&ldquo;affliction&rdquo; than to the more clinical-"
+            "sounding &ldquo;suffering.&rdquo; Its use here, applied "
+            "directly and without qualification to the five "
+            "aggregates themselves, gives this brief discourse an "
+            "unusually blunt emotional register despite its "
+            "definitional brevity.",
+        ]),
+    ],
+    terms=[
+        ("agha",
+         "&ldquo;gloom&rdquo; or &ldquo;misery&rdquo; &mdash; this "
+         "discourse's title term, applied directly to the five "
+         "aggregates without qualification."),
+        ("aghamūla",
+         "&ldquo;the root of gloom&rdquo; &mdash; defined as craving, "
+         "using language matching SN 22.22's definition of the "
+         "taking up of the burden almost word for word."),
+        ("ponobhavikā taṇhā",
+         "&ldquo;craving that leads to future lives&rdquo; &mdash; "
+         "the discourse's core term, identical in wording to SN "
+         "22.22's earlier definition."),
+        ("kāmataṇhā, bhavataṇhā, vibhavataṇhā",
+         "&ldquo;craving for sensual pleasures, existence, and "
+         "nonexistence&rdquo; &mdash; the standard threefold "
+         "breakdown of craving, repeated here from SN 22.22."),
+        ("nandirāgasahagatā",
+         "&ldquo;mixed up with relishing and greed&rdquo; &mdash; "
+         "part of the shared definitional formula connecting this "
+         "discourse directly to SN 22.22's."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.31:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What word does this discourse use to name the aggregates directly, distinct from the more common \"suffering\"?",
+         "opts": [
+             "Agha, \"gloom\" or \"misery\"",
+             "Nirodha, \"cessation\"",
+             "Assāda, \"gratification\"",
+             "Bhāra, \"burden\""],
+         "correct": 0,
+         "expl": "A stronger, more visceral term than the clinical-sounding dukkha used elsewhere."},
+        {"q": "What is defined as \"the root of gloom\"?",
+         "opts": [
+             "Craving — the identical threefold craving from SN 22.22",
+             "The Buddha's own teaching",
+             "Physical pain alone",
+             "Ignorance of monastic rules"],
+         "correct": 0,
+         "expl": "Craving for sensual pleasures, existence, and nonexistence, worded almost identically to SN 22.22."},
+        {"q": "How does this discourse's definition of craving compare to SN 22.22's \"taking up of the burden\"?",
+         "opts": [
+             "Nearly word for word identical",
+             "Completely different, sharing no vocabulary",
+             "This discourse denies that craving plays any role",
+             "This discourse defines a different, unrelated concept entirely"],
+         "correct": 0,
+         "expl": "A deliberate echo across two discourses in the same vagga."},
+        {"q": "What two different images does this vagga use for the same underlying claim about craving?",
+         "opts": [
+             "A burden taken up and put down (SN 22.22), and a root from which gloom grows (this discourse)",
+             "A river and a mountain",
+             "A fire and a flood",
+             "A boat and a bridge"],
+         "correct": 0,
+         "expl": "Different metaphors applied to the identical doctrinal content."},
+        {"q": "How does this discourse's structure compare to SN 22.23 earlier in the vagga?",
+         "opts": [
+             "The same short, two-term definitional style",
+             "An entirely different, much longer narrative structure",
+             "A direct contradiction of SN 22.23's method",
+             "This discourse has no structural similarity to any other in the vagga"],
+         "correct": 0,
+         "expl": "A recurring short definitional form used at several points in Bhāravagga."},
+        {"q": "How many aggregates does this discourse's definition of \"gloom\" include?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Named together as a group."},
+        {"q": "What three types of craving does this discourse name?",
+         "opts": [
+             "Craving for sensual pleasures, existence, and nonexistence",
+             "Craving for food, shelter, and companionship",
+             "Craving for wisdom, ethics, and concentration",
+             "Craving for power, fame, and wealth"],
+         "correct": 0,
+         "expl": "The standard threefold breakdown found throughout the canon."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "Does this discourse qualify its claim that the aggregates are gloom, or state it outright?",
+         "opts": [
+             "It states it outright, with no further qualification",
+             "It qualifies the claim extensively with several conditions",
+             "It denies the claim entirely",
+             "It applies the claim only to form, not the other aggregates"],
+         "correct": 0,
+         "expl": "A stark, unqualified identification, distinctive within this vagga's mostly more measured claims."},
+        {"q": "What discourse comes immediately after this one, closing the vagga?",
+         "opts": [
+             "SN 22.32, on what is brittle and what is not brittle",
+             "A return to SN 22.12",
+             "A discourse from a different saṃyutta",
+             "SN 22.33, opening the next vagga"],
+         "correct": 0,
+         "expl": "The vagga's final discourse, closing with a similar short paired definition."},
+    ],
+    marginalia=[
+        ("A stronger word than the usual \"suffering\"", [
+            "agha, gloom or misery &mdash;",
+            "applied to the aggregates without qualification",
+        ]),
+        ("The identical craving, worded almost the same", [
+            "matching SN 22.22 nearly verbatim &mdash;",
+            "a deliberate echo across the vagga",
+        ]),
+        ("A root, not a burden", [
+            "two different images &mdash;",
+            "one unchanged underlying claim about craving",
+        ]),
+        ("Brevity carrying unusual emotional weight", [
+            "a short definitional discourse &mdash;",
+            "its single word choice doing the heavy lifting",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.31/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.30.html">SN 22.30 &middot; Arising</a> '
+        "&mdash; the previous discourse, using distinctive medical "
+        "vocabulary for the aggregates' arising and cessation.",
+        '<a href="sn-22.32.html">SN 22.32 &middot; Brittle</a> '
+        "&mdash; the next discourse, closing the vagga with a final "
+        "short paired definition.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 22.32 — Pabhaṅgusutta
+# --------------------------------------------------------------------------- #
+page(
+    22, 32, "Pabhaṅgu", "Brittle",
+    vagga="Bhāravagga",
+    meta_title="SN 22.32 — Brittle | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pabhaṅgusutta &mdash; the aggregates named brittle, "
+        "their cessation named not brittle, closing Bhāravagga on a "
+        "final compact contrast. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A single contrast &mdash; brittle versus not "
+                 "brittle &mdash; run once for each aggregate, "
+                 "closing the vagga"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the vagga's shortest closing discourse, its "
+                       "single image doing all the work"),
+    ],
+    why=(
+        "This discourse closes Bhāravagga with its shortest and most "
+        "concentrated image yet: pabhaṅgu, &ldquo;brittle&rdquo; "
+        "&mdash; liable to break, crumble, or shatter. Form is "
+        "brittle, the discourse states, but its cessation, settling, "
+        "and ending is not brittle. The same contrast repeats for "
+        "each remaining aggregate. Unlike SN 22.30's disease imagery "
+        "or SN 22.31's gloom, brittleness names a physical property "
+        "&mdash; a susceptibility to breaking under pressure or "
+        "impact &mdash; giving the vagga's closing discourse a "
+        "distinctly tactile, almost mundane image to end on, after "
+        "eleven discourses ranging from the burden of SN 22.22 to "
+        "the Buddha's own pre-awakening search in SN 22.26-28."
+    ),
+    guide=[
+        ("A physical property, applied to the aggregates directly", [
+            "The discourse's core claim is compact: form is brittle "
+            "(pabhaṅgu). Unlike gloom (agha) in SN 22.31 or "
+            "suffering (dukkha) used throughout the book, brittleness "
+            "names a specific physical vulnerability &mdash; the "
+            "tendency to break, crack, or shatter under strain "
+            "&mdash; rather than a state of distress or affliction.",
+        ]),
+        ("Only cessation, not the aggregate, escapes the property", [
+            "The discourse's second half draws a precise contrast: "
+            "form's cessation, settling, and ending (nirodha, "
+            "vūpasama, atthaṅgama) is not brittle. The aggregate "
+            "itself is fragile and liable to break; what is not "
+            "fragile, by this discourse's own account, is not some "
+            "more durable version of the aggregate but its ending "
+            "&mdash; the one thing about form that does not itself "
+            "break down further.",
+        ]),
+        ("A closing image distinct from everything before it in the vagga", [
+            "This discourse's brittleness imagery is not repeated "
+            "anywhere else in Bhāravagga, joining SN 22.22's burden, "
+            "SN 22.30's disease, and SN 22.31's gloom as one more "
+            "distinct metaphor this vagga uses for the same "
+            "underlying claim about the aggregates' vulnerability and "
+            "their ending's freedom from that vulnerability.",
+        ]),
+        ("The vagga's closing note, compact rather than dramatic", [
+            "Bhāravagga opened with SN 22.22's elaborate four-term "
+            "burden imagery and closing verse, and included two "
+            "extended first-person narratives (SN 22.26-27) recalling "
+            "the Buddha's own pre-awakening search. It closes instead "
+            "on this discourse's plainest possible contrast &mdash; "
+            "brittle, not brittle &mdash; ending the vagga not with a "
+            "dramatic flourish but with its shortest and most "
+            "understated discourse.",
+        ]),
+    ],
+    terms=[
+        ("pabhaṅgu",
+         "&ldquo;brittle&rdquo; &mdash; this discourse's title term "
+         "and its central claim about each aggregate, a physical "
+         "property distinct from the emotional or medical vocabulary "
+         "used in nearby discourses."),
+        ("nirodha",
+         "&ldquo;cessation&rdquo; &mdash; the first of three terms "
+         "describing what is, by contrast, not brittle."),
+        ("vūpasama",
+         "&ldquo;settling&rdquo; &mdash; the second term, the same "
+         "word SN 22.30 applied specifically to disease's cessation."),
+        ("atthaṅgama",
+         "&ldquo;ending&rdquo; &mdash; the third and final term "
+         "describing what is not brittle, completing the discourse's "
+         "threefold description of cessation."),
+        ("appabhaṅgu",
+         "&ldquo;not brittle&rdquo; &mdash; the discourse's negated "
+         "term, applied specifically and only to an aggregate's "
+         "cessation, never to the aggregate itself."),
+    ],
+    text_intro=(
+        "The discourse in full. Three elided repetitions (feeling, "
+        "perception, and choices, each following the same brittle/"
+        "not-brittle contrast spelled out in full for form and "
+        "consciousness) are given exactly as bilara-data preserves "
+        "them. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn22.32:1.1-1.6"),
+        ("p", "&sect;2", "sn22.32:1.12-1.13"),
+    ],
+    quiz=[
+        {"q": "What physical property does this discourse's title term, pabhaṅgu, name?",
+         "opts": [
+             "Brittleness — liable to break, crumble, or shatter",
+             "Heaviness, like a physical burden",
+             "Illness or disease",
+             "Emotional gloom or misery"],
+         "correct": 0,
+         "expl": "A physical vulnerability, distinct from the emotional and medical vocabulary used in nearby discourses."},
+        {"q": "What does the discourse claim is not brittle?",
+         "opts": [
+             "An aggregate's cessation, settling, and ending",
+             "A more durable, permanent version of the aggregate itself",
+             "Nothing — the discourse claims everything is brittle",
+             "Only consciousness, unlike the other four aggregates"],
+         "correct": 0,
+         "expl": "The aggregate itself remains fragile; only its ending is described as not brittle."},
+        {"q": "How does this discourse's imagery relate to SN 22.22, 22.30, and 22.31 earlier in the vagga?",
+         "opts": [
+             "It is one more distinct metaphor for the same underlying claim, joining burden, disease, and gloom",
+             "It directly contradicts all three earlier discourses",
+             "It repeats SN 22.31's exact wording without change",
+             "It has no relationship to any earlier discourse in the vagga"],
+         "correct": 0,
+         "expl": "Four different images across the vagga, one consistent underlying claim about the aggregates."},
+        {"q": "What three terms describe what is \"not brittle\" in this discourse?",
+         "opts": [
+             "Cessation, settling, and ending",
+             "Arising, continuation, and manifestation",
+             "Gratification, drawback, and escape",
+             "Greed, hate, and delusion"],
+         "correct": 0,
+         "expl": "Nirodha, vūpasama, and atthaṅgama, applied specifically to an aggregate's ending."},
+        {"q": "How does this discourse's tone compare to the vagga's opening discourse, SN 22.22?",
+         "opts": [
+             "More compact and understated, closing the vagga without a dramatic flourish",
+             "Far more elaborate and dramatic than SN 22.22",
+             "Identical in tone and length to SN 22.22",
+             "This discourse rejects everything SN 22.22 established"],
+         "correct": 0,
+         "expl": "The vagga's shortest and most understated discourse, closing on a plain contrast."},
+        {"q": "How many aggregates does this discourse's contrast apply to?",
+         "opts": [
+             "All five — form, feeling, perception, choices, and consciousness",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling"],
+         "correct": 0,
+         "expl": "Feeling, perception, and choices are elided but follow the same pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Devadaha",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the same setting as the vagga's other discourses."},
+        {"q": "What word, used in SN 22.30 for disease's cessation, reappears in this discourse?",
+         "opts": [
+             "Vūpasama, \"settling\"",
+             "Agha, \"gloom\"",
+             "Bhāra, \"burden\"",
+             "Assāda, \"gratification\""],
+         "correct": 0,
+         "expl": "Applied here to an aggregate's own ending, echoing SN 22.30's medical vocabulary."},
+        {"q": "What position does this discourse hold in Bhāravagga?",
+         "opts": [
+             "The vagga's closing discourse",
+             "The vagga's opening discourse",
+             "The vagga's middle discourse",
+             "It does not belong to this vagga"],
+         "correct": 0,
+         "expl": "Ending the vagga on its most compact, understated contrast."},
+        {"q": "What comes immediately after this discourse, moving beyond Bhāravagga?",
+         "opts": [
+             "SN 22.33, opening Natumhākavagga, the vagga's fourth chapter",
+             "A return to SN 22.22",
+             "The end of the entire Khandhavagga",
+             "A discourse from an entirely different saṃyutta"],
+         "correct": 0,
+         "expl": "The book's own systematic coverage continues into its next chapter."},
+    ],
+    marginalia=[
+        ("A physical property, not an emotional one", [
+            "brittle, liable to break &mdash;",
+            "distinct from gloom, disease, or burden",
+        ]),
+        ("Only the ending escapes the fragility", [
+            "not a sturdier aggregate &mdash;",
+            "cessation itself is what is not brittle",
+        ]),
+        ("A fourth distinct image in this vagga", [
+            "burden, disease, gloom, brittleness &mdash;",
+            "one claim, four different metaphors",
+        ]),
+        ("The vagga's quietest close", [
+            "no dramatic flourish &mdash;",
+            "the shortest discourse ending the longest set of images",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.32/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.31.html">SN 22.31 &middot; The Root of '
+        "Gloom</a> &mdash; the previous discourse, sharing this "
+        "discourse's short paired-definition style.",
+        '<a href="sn-22.22.html">SN 22.22 &middot; The Burden of '
+        "Responsibility</a> &mdash; the vagga's opening discourse, "
+        "whose elaborate imagery this closing discourse's brevity "
+        "now contrasts with.",
+    ],
+)
