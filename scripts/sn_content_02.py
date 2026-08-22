@@ -44872,3 +44872,2338 @@ page(
         "Head</a> &mdash; the next discourse, opening Dutiyavagga.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.11 — Sasīsakasutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 11, "Sasīsaka", "Over His Head",
+    meta_title="SN 19.11 — Over His Head | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Sasīsakasutta — Moggallāna sees a man sunk over "
+        "his head in a sewer, the residual karma of an adulterer. "
+        "Opens Dutiyavagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, the Bamboo Grove"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "The elided template opening a new chapter, moving "
+                 "from bodily torment to environmental immersion"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; opening Dutiyavagga with an image "
+                       "unlike anything in Paṭhamavagga"),
+    ],
+    why=(
+        "This discourse opens Dutiyavagga with a genuinely new kind "
+        "of image, distinct from Paṭhamavagga's fragmentary remains, "
+        "flayed bodies, and self-inflicted weapons: a man sunk over "
+        "his head in a sewer. Rather than being attacked by "
+        "something else, this being is submerged, immersed entirely "
+        "in filth. The cause named is pāradārika, adultery, "
+        "literally one who goes to another's wife &mdash; the first "
+        "sexual wrongdoing named as a cause in this saṃyutta."),
+    guide=[
+        ("Immersion replacing attack as the mode of suffering", [
+            "Every apparition in Paṭhamavagga involved something "
+            "actively harming the being &mdash; birds pecking, "
+            "weapons falling, a crushing weight; this discourse's "
+            "affliction is instead one of total immersion in an "
+            "unpleasant medium, a passive rather than actively "
+            "inflicted suffering."]),
+        ("Sewer filth as a specific moral register", [
+            "Gūthakūpa, a sewer or cesspit, introduces filth "
+            "specifically as this discourse's image, a register "
+            "distinct from blood, fire, or physical mutilation used "
+            "elsewhere &mdash; associating this particular wrongdoing "
+            "with contamination and degradation rather than physical "
+            "violence."]),
+        ("Adultery as the vagga's opening cause", [
+            "Pāradārika, defined literally as going to another's "
+            "wife, is the first specifically sexual transgression "
+            "named as a cause in this saṃyutta, opening Dutiyavagga "
+            "with a category of wrongdoing entirely absent from "
+            "Paṭhamavagga's ten discourses."]),
+        ("A brief, single-image discourse without elaboration", [
+            "Unlike the more layered descriptions of earlier "
+            "discourses, this one gives almost no additional detail "
+            "beyond the sunk position itself &mdash; the image's "
+            "power lies in its stark simplicity rather than "
+            "accumulated specifics."]),
+        ("The first of several discourses building toward related female apparitions", [
+            "This discourse's cause of adultery anticipates SN "
+            "19.13's flayed woman, named an adulteress using the "
+            "corresponding feminine term, suggesting Dutiyavagga will "
+            "pair related transgressions across its early "
+            "discourses rather than presenting them in isolation."]),
+    ],
+    terms=[
+        ("purisaṁ gūthakūpe sasīsakaṁ nimuggaṁ",
+         "&ldquo;a man sunk over his head in a sewer&rdquo; &mdash; "
+         "this discourse's title image, immersion rather than "
+         "active attack."),
+        ("pāradāriko",
+         "&ldquo;an adulterer&rdquo; (literally &ldquo;one who goes "
+         "to another's wife&rdquo;) &mdash; the first specifically "
+         "sexual wrongdoing named as a cause in this saṃyutta."),
+        ("gūthakūpa",
+         "&ldquo;a sewer, a cesspit&rdquo; &mdash; the specific "
+         "medium of immersion, associating this wrongdoing with "
+         "contamination rather than physical violence."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; continuing the "
+         "compression convention established across Paṭhamavagga."),
+        ("paṭhamaṁ",
+         "&ldquo;the first&rdquo; &mdash; this discourse's closing "
+         "numbering tag, opening Dutiyavagga's own count."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "19.1's fuller frame narrative. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.11:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's apparition consist of?",
+         "opts": [
+             "A man sunk over his head in a sewer",
+             "A man whose body hairs are needles",
+             "A flayed body chased by birds",
+             "No specific apparition is described"],
+         "correct": 0,
+         "expl": "A genuinely new kind of image, distinct from every apparition in Paṭhamavagga."},
+        {"q": "How does this discourse's mode of suffering differ from Paṭhamavagga's apparitions?",
+         "opts": [
+             "It involves total immersion in filth, a passive rather than actively inflicted suffering",
+             "It is identical in every respect to the earlier apparitions",
+             "It involves no suffering of any kind",
+             "It is inflicted entirely by birds, as in most of Paṭhamavagga"],
+         "correct": 0,
+         "expl": "A shift from active attack to environmental immersion."},
+        {"q": "What cause does this discourse name?",
+         "opts": [
+             "Adultery (pāradārika), the first specifically sexual wrongdoing named in this saṃyutta",
+             "Cattle butchery, repeating an earlier cause",
+             "A corrupt village official",
+             "No cause is named"],
+         "correct": 0,
+         "expl": "Opening Dutiyavagga with a category of wrongdoing absent from Paṭhamavagga's ten discourses."},
+        {"q": "What does the sewer image specifically associate this wrongdoing with?",
+         "opts": [
+             "Contamination and degradation, rather than physical violence",
+             "Physical strength and endurance",
+             "Wealth and material excess",
+             "No particular association is suggested"],
+         "correct": 0,
+         "expl": "A moral register distinct from the blood, fire, or mutilation used elsewhere in this saṃyutta."},
+        {"q": "How detailed is this discourse's description, compared to more elaborate discourses elsewhere in this saṃyutta?",
+         "opts": [
+             "Brief and stark, giving almost no additional detail beyond the sunk position itself",
+             "Extremely elaborate, tracing a detailed itinerary of suffering",
+             "Identical in length to SN 19.9's needle itinerary",
+             "No description at all is given"],
+         "correct": 0,
+         "expl": "The image's power lying in its stark simplicity rather than accumulated specifics."},
+        {"q": "What later discourse does this discourse's cause anticipate?",
+         "opts": [
+             "SN 19.13's flayed woman, named an adulteress using the corresponding feminine term",
+             "SN 19.21, the saṃyutta's closing discourse",
+             "SN 19.1, this saṃyutta's opening discourse",
+             "No later discourse relates to this one's cause"],
+         "correct": 0,
+         "expl": "Suggesting Dutiyavagga pairs related transgressions across its early discourses."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair continuing throughout this saṃyutta."},
+        {"q": "What does pāradārika literally mean?",
+         "opts": [
+             "One who goes to another's wife",
+             "One who steals from the marketplace",
+             "One who refuses to pay taxes",
+             "One who abandons monastic vows"],
+         "correct": 0,
+         "expl": "The literal sense underlying this discourse's named cause."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Paṭhamaṁ, \"the first\"",
+             "Dutiyaṁ, \"the second\"",
+             "Ekādasamaṁ, \"the eleventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "Opening Dutiyavagga's own count, distinct from its position as the eleventh discourse overall."},
+    ],
+    marginalia=[
+        ("Immersion, not attack, as the affliction", [
+            "no birds, no weapons, only filth to the head &mdash;",
+            "suffering that surrounds rather than strikes",
+        ]),
+        ("A register shifting from blood to contamination", [
+            "not cut or pierced, but sunk in filth &mdash;",
+            "degradation named through a different kind of image",
+        ]),
+        ("A new category of wrongdoing opening this chapter", [
+            "not killing or speech this time, but adultery &mdash;",
+            "sexual transgression entering the saṃyutta's catalog",
+        ]),
+        ("Simplicity as its own kind of vividness", [
+            "just the sunk position, nothing further added &mdash;",
+            "starkness doing the work elaboration might otherwise do",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.11/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.10.html">SN 19.10 &middot; Pot Balls</a> '
+        "&mdash; Paṭhamavagga's closing discourse.",
+        '<a href="sn-19.12.html">SN 19.12 &middot; A Dung Eater</a> '
+        "&mdash; the next discourse, continuing the sewer imagery "
+        "with a historically deeper cause.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.12 — Gūthakhādasutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 12, "Gūthakhāda", "A Dung Eater",
+    meta_title="SN 19.12 — A Dung Eater | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Gūthakhādasutta — Moggallāna sees a man sunk in a "
+        "sewer eating dung, the residual karma of a nasty brahmin "
+        "who tricked the Saṅgha during Buddha Kassapa's time. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "The sewer image intensified, with a cause set in "
+                 "a distant past Buddha's era rather than the "
+                 "present"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; the first cause traced to a "
+                       "specific past Buddha's era rather than "
+                       "contemporary Rājagaha"),
+    ],
+    why=(
+        "This discourse intensifies SN 19.11's sewer image: a man "
+        "sunk in a sewer, actively eating dung with both hands. "
+        "Unlike every discourse before it, which locate their causes "
+        "&ldquo;right here in Rājagaha,&rdquo; this discourse's "
+        "cause reaches back to the time of the past Buddha "
+        "Kassapa's dispensation, where a nasty brahmin invited the "
+        "Saṅgha of mendicants for a meal, filled a trough with dung, "
+        "and told them to eat as much as they liked and take the "
+        "rest with them."),
+    guide=[
+        ("From passive immersion to active consumption", [
+            "SN 19.11's man was simply sunk in filth; this "
+            "discourse's man actively eats it with both hands, "
+            "intensifying the sewer image from passive immersion to "
+            "deliberate, ongoing consumption &mdash; a more extreme "
+            "degree of the same basic degradation."]),
+        ("A cause reaching beyond the present Buddha's era", [
+            "Every cause named in Paṭhamavagga and SN 19.11 is "
+            "located contemporaneously in Rājagaha; this discourse "
+            "instead locates its wrongdoing in the dispensation of "
+            "Kassapa, a past Buddha, showing this saṃyutta's "
+            "explanatory reach extends across multiple Buddha-eras, "
+            "not only the present one."]),
+        ("A specifically religious rather than secular wrongdoing", [
+            "Where earlier causes named ordinary trades, hunting, "
+            "punishment, and adultery, this discourse's brahmin "
+            "commits his offense specifically against the monastic "
+            "community, using an invitation to alms &mdash; a "
+            "sacred act of generosity &mdash; as the vehicle for "
+            "deliberate humiliation."]),
+        ("Mockery of generosity as the specific offense", [
+            "The brahmin's words &mdash; eat as much as you like, "
+            "and take what's left &mdash; parody the standard "
+            "generous formula used when offering food, turning an "
+            "act that should express respect into calculated "
+            "insult, making the wrongdoing one of corrupted ritual "
+            "rather than simple cruelty."]),
+        ("Setting up this saṃyutta's later run of monastic wrongdoing", [
+            "This discourse's Kassapa-era setting and its target of "
+            "the monastic community anticipate the five discourses "
+            "closing this saṃyutta (SN 19.17-21), which similarly "
+            "locate their causes in Kassapa's dispensation and "
+            "concern specifically monastic misconduct."]),
+    ],
+    terms=[
+        ("gūthaṁ khādantaṁ",
+         "&ldquo;eating dung&rdquo; &mdash; this discourse's "
+         "intensified image, active consumption rather than passive "
+         "immersion."),
+        ("duṭṭhabrāhmaṇo",
+         "&ldquo;a nasty brahmin&rdquo; &mdash; the cause named, "
+         "the first in this saṃyutta located in a past Buddha's "
+         "era rather than contemporary Rājagaha."),
+        ("kassapassa sammāsambuddhassa pāvacane",
+         "&ldquo;in the time of the Buddha Kassapa's "
+         "dispensation&rdquo; &mdash; the temporal setting, showing "
+         "this saṃyutta's explanatory reach across multiple "
+         "Buddha-eras."),
+        ("doṇiyo gūthassa pūrāpetvā",
+         "&ldquo;filled a trough with dung&rdquo; &mdash; the "
+         "specific act of mockery, replacing the food that should "
+         "have been offered."),
+        ("dutiyaṁ",
+         "&ldquo;the second&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, with the brahmin's "
+        "specific act of mockery given in full even as the "
+        "surrounding frame remains elided. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.12:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's apparition intensify SN 19.11's image?",
+         "opts": [
+             "The man actively eats dung with both hands, rather than merely being sunk in it",
+             "The apparition is entirely different, with no relationship to sewer imagery",
+             "The man is now free of the sewer entirely",
+             "No apparition is described in this discourse"],
+         "correct": 0,
+         "expl": "A shift from passive immersion to deliberate, ongoing consumption."},
+        {"q": "How does this discourse's cause differ from every discourse before it in location?",
+         "opts": [
+             "It is located in the time of the past Buddha Kassapa's dispensation, not contemporary Rājagaha",
+             "It is located in an entirely unnamed, unspecified place",
+             "It is located in the same contemporary Rājagaha setting as every earlier discourse",
+             "No location is given for this cause"],
+         "correct": 0,
+         "expl": "Showing this saṃyutta's explanatory reach extends across multiple Buddha-eras."},
+        {"q": "What specific act did the nasty brahmin commit?",
+         "opts": [
+             "He invited the Saṅgha for a meal, filled a trough with dung, and told them to eat and take the rest",
+             "He refused to ever interact with any mendicant",
+             "He donated his entire fortune to the Saṅgha",
+             "He physically attacked several mendicants"],
+         "correct": 0,
+         "expl": "Corrupting an act of generosity into deliberate humiliation."},
+        {"q": "What makes this brahmin's wrongdoing distinctly religious rather than secular?",
+         "opts": [
+             "It targets the monastic community specifically, using an invitation to alms as the vehicle for insult",
+             "It involves no religious dimension whatsoever",
+             "It is identical to the ordinary trades named in earlier discourses",
+             "It concerns only private family matters"],
+         "correct": 0,
+         "expl": "Distinct from the ordinary trades, hunting, punishment, and adultery named in earlier discourses."},
+        {"q": "What does the brahmin's specific wording parody?",
+         "opts": [
+             "The standard generous formula used when offering food, turned into calculated insult",
+             "A common greeting exchanged between strangers",
+             "A formal legal declaration",
+             "No specific parody is intended"],
+         "correct": 0,
+         "expl": "Corrupted ritual rather than simple cruelty."},
+        {"q": "What later set of discourses does this discourse's setting and target anticipate?",
+         "opts": [
+             "SN 19.17-21, which similarly locate their causes in Kassapa's dispensation and concern monastic misconduct",
+             "SN 19.1-10, Paṭhamavagga's entire run of discourses",
+             "No later discourses relate to this one",
+             "SN 19.13-15, concerning female apparitions"],
+         "correct": 0,
+         "expl": "This saṃyutta's later run of specifically monastic wrongdoing."},
+        {"q": "Where is the frame of this discourse elided, and where is it given in full?",
+         "opts": [
+             "The surrounding frame is elided, but the brahmin's specific act of mockery is given in full",
+             "Every part of this discourse is elided equally",
+             "Nothing in this discourse is elided; it is given entirely in full",
+             "Only the cause is elided, while everything else is given in full"],
+         "correct": 0,
+         "expl": "Preserving the specific detail of the offense while compressing the recurring frame."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta's telling, even as the cause reaches into the past."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dutiyaṁ, \"the second\"",
+             "Paṭhamaṁ, \"the first\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The second discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("From sunk in filth to actively consuming it", [
+            "both hands, eating what he's immersed in &mdash;",
+            "the same image, intensified rather than repeated",
+        ]),
+        ("A cause reaching past this present Buddha's era", [
+            "Kassapa's dispensation, not contemporary Rājagaha &mdash;",
+            "the saṃyutta's explanatory reach widening in time",
+        ]),
+        ("Generosity itself turned into the instrument of insult", [
+            "an invitation to alms, corrupted into mockery &mdash;",
+            "a sacred act made the vehicle for humiliation",
+        ]),
+        ("A wording that parodies what it should have honored", [
+            "\"eat as much as you like,\" said over a trough of dung &mdash;",
+            "the generous formula twisted into calculated cruelty",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.12/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.11.html">SN 19.11 &middot; Over His '
+        "Head</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-19.13.html">SN 19.13 &middot; A Flayed '
+        "Woman</a> &mdash; the next discourse, this saṃyutta's "
+        "first female apparition.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.13 — Nicchavitthisutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 13, "Nicchavitthi", "A Flayed Woman",
+    meta_title="SN 19.13 — A Flayed Woman | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Nicchavitthisutta — Moggallāna sees a flayed woman "
+        "flying through the air, torn at by birds, the residual "
+        "karma of an adulteress. This saṃyutta's first female "
+        "apparition. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "SN 19.4's flayed-man image mirrored for a woman, "
+                 "with a paired cause"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; this saṃyutta's first apparition "
+                       "described as female"),
+    ],
+    why=(
+        "This discourse mirrors SN 19.4's flayed man exactly, now "
+        "applied to a woman: a flayed woman flying through the air, "
+        "chased and pecked at by the same three birds. The cause "
+        "named is aticāriṇī, an adulteress, the feminine counterpart "
+        "to SN 19.11's adulterer &mdash; this saṃyutta's first "
+        "apparition explicitly described as female, twelve "
+        "discourses into the collection."),
+    guide=[
+        ("A structural mirror, not a new image", [
+            "Every element of this discourse's apparition &mdash; "
+            "the flaying, the pursuing birds, the screaming &mdash; "
+            "repeats SN 19.4's structure precisely, applied here to "
+            "a woman rather than a man, confirming the saṃyutta "
+            "reuses its established image-types across genders "
+            "rather than inventing new forms for each."]),
+        ("The saṃyutta's first explicitly female apparition", [
+            "After twelve discourses describing exclusively male "
+            "beings, this discourse marks a notable shift, opening a "
+            "run of three consecutive discourses (SN 19.13-15) "
+            "concerning women specifically before returning to male "
+            "and then explicitly monastic apparitions."]),
+        ("A cause paired with SN 19.11's adulterer", [
+            "Aticāriṇī, an adulteress, directly parallels SN 19.11's "
+            "pāradārika, an adulterer, suggesting a deliberate "
+            "structural echo across the two discourses even though "
+            "they aren't placed immediately adjacent to each other."]),
+        ("The same consequence for a mirrored transgression", [
+            "Rather than describing a different or lesser "
+            "consequence for the female version of this wrongdoing, "
+            "this discourse applies the identical flaying-and-bird-"
+            "attack apparition, treating the same transgression as "
+            "carrying equivalent weight regardless of who commits "
+            "it."]),
+        ("A pattern of paired male-and-female causes beginning to emerge", [
+            "Read alongside SN 19.11 and the discourses following "
+            "it, this discourse suggests Dutiyavagga is structured "
+            "partly around paired transgressions &mdash; the same "
+            "category of wrongdoing named for both a man and a "
+            "woman &mdash; rather than a simple, unbroken list of "
+            "unrelated cases."]),
+    ],
+    terms=[
+        ("nicchaviṁ itthiṁ vehāsaṁ gacchantiṁ",
+         "&ldquo;a flayed woman flying through the air&rdquo; "
+         "&mdash; this discourse's title image, mirroring SN 19.4's "
+         "flayed man exactly."),
+        ("aticāriṇī",
+         "&ldquo;an adulteress&rdquo; &mdash; the feminine "
+         "counterpart to SN 19.11's pāradārika, adulterer."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; the same compression "
+         "convention continuing from the discourses before this "
+         "one."),
+        ("aṭṭassaraṁ karoti",
+         "&ldquo;screamed in pain&rdquo; &mdash; the recurring "
+         "description, unchanged whether applied to a man or a "
+         "woman."),
+        ("tatiyaṁ",
+         "&ldquo;the third&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "19.1's fuller frame narrative. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.13:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What discourse does this one's apparition structurally mirror?",
+         "opts": [
+             "SN 19.4's flayed man, now applied to a woman",
+             "SN 19.9's needle itinerary",
+             "SN 19.1's skeleton",
+             "No earlier discourse relates to this one"],
+         "correct": 0,
+         "expl": "The identical flaying-and-bird-attack structure, reused across genders."},
+        {"q": "What significance does this discourse hold, twelve discourses into the collection?",
+         "opts": [
+             "It is this saṃyutta's first apparition explicitly described as female",
+             "It is the saṃyutta's final discourse",
+             "It is identical in every respect to SN 19.1",
+             "It introduces the saṃyutta's first male apparition"],
+         "correct": 0,
+         "expl": "Opening a run of three consecutive discourses concerning women specifically."},
+        {"q": "What cause does this discourse name, and what does it parallel?",
+         "opts": [
+             "Adultery (aticāriṇī), directly paralleling SN 19.11's adulterer (pāradārika)",
+             "Cattle butchery, unrelated to any earlier cause",
+             "A corrupt village official",
+             "No cause is named"],
+         "correct": 0,
+         "expl": "A deliberate structural echo across the two discourses, even though not immediately adjacent."},
+        {"q": "Does this discourse describe a different or lesser consequence for the female version of this wrongdoing?",
+         "opts": [
+             "No — the identical apparition is applied, treating the transgression as carrying equivalent weight regardless of gender",
+             "Yes, a much milder consequence is described",
+             "Yes, no consequence at all is described",
+             "The discourse does not address consequence at all"],
+         "correct": 0,
+         "expl": "The same flaying-and-bird-attack image, unchanged in severity."},
+        {"q": "What broader pattern does this discourse suggest about Dutiyavagga's structure?",
+         "opts": [
+             "That it is structured partly around paired transgressions named for both a man and a woman",
+             "That it contains no discernible structure at all",
+             "That every discourse in the vagga describes an identical apparition",
+             "That female apparitions never appear anywhere in this saṃyutta"],
+         "correct": 0,
+         "expl": "Rather than a simple, unbroken list of unrelated cases."},
+        {"q": "What birds chase and tear at the apparition in this discourse?",
+         "opts": [
+             "Vultures, crows, and hawks",
+             "Owls and eagles",
+             "Sparrows and doves",
+             "No specific birds are named"],
+         "correct": 0,
+         "expl": "The same three birds named throughout this saṃyutta, regardless of the apparition's gender."},
+        {"q": "How does the level of detail in this discourse compare to SN 19.4's?",
+         "opts": [
+             "It is essentially identical, applying the same brief structure to a new subject",
+             "It is far more elaborate than SN 19.4",
+             "It contains no description at all",
+             "It contradicts SN 19.4's description entirely"],
+         "correct": 0,
+         "expl": "A structural mirror rather than a newly invented image."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Tatiyaṁ, \"the third\"",
+             "Dutiyaṁ, \"the second\"",
+             "Catutthaṁ, \"the fourth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The third discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("The same structure, a new subject", [
+            "flayed, chased, screaming, as before &mdash;",
+            "an established image reused, not reinvented",
+        ]),
+        ("A first, twelve discourses into the collection", [
+            "the saṃyutta's first apparition named female &mdash;",
+            "a notable shift, not an incidental detail",
+        ]),
+        ("A cause echoing one already given", [
+            "adulteress answering adulterer &mdash;",
+            "a deliberate pairing across the vagga",
+        ]),
+        ("Equal weight, not a lesser consequence", [
+            "the identical torment, regardless of who committed it &mdash;",
+            "no discount given for gender",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.13/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.12.html">SN 19.12 &middot; A Dung Eater</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-19.14.html">SN 19.14 &middot; A Fishwife</a> '
+        "&mdash; the next discourse, continuing this run of female "
+        "apparitions.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.14 — Maṅgulitthisutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 14, "Maṅgulitthi", "A Fishwife",
+    meta_title="SN 19.14 — A Fishwife | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Maṅgulitthisutta — Moggallāna sees a woman stinking "
+        "and dingy as a catfish flying through the air, torn at by "
+        "birds, the residual karma of a sorceress. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "The same elided template, continuing the run of "
+                 "female apparitions with a sensory rather than "
+                 "physical affliction"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the second of three consecutive "
+                       "female apparitions"),
+    ],
+    why=(
+        "This discourse continues the run of female apparitions with "
+        "an affliction unlike the physical wounds described so far: "
+        "a woman stinking and dingy as a catfish, still chased and "
+        "pecked at by the same birds. The cause named is ikkhaṇikā, "
+        "a sorceress or fortune-teller, someone who practiced "
+        "divination or occult prediction."),
+    guide=[
+        ("A sensory affliction rather than a visible wound", [
+            "Where SN 19.13's flaying is a visible injury, this "
+            "discourse's affliction is primarily olfactory and "
+            "textural &mdash; stinking and dingy &mdash; describing "
+            "a condition experienced through smell as much as "
+            "sight, widening the range of senses this saṃyutta's "
+            "images engage."]),
+        ("A specific and evocative comparison", [
+            "Maṅguli, compared here to a catfish's dinginess, gives "
+            "this discourse a uniquely vivid point of comparison not "
+            "used elsewhere in this saṃyutta &mdash; a homely, "
+            "specific image rather than an abstract description of "
+            "unpleasantness."]),
+        ("Sorcery as a distinct category of wrongdoing", [
+            "Ikkhaṇikā names a practice of divination or fortune-"
+            "telling, a form of wrongdoing distinct from killing, "
+            "punishment, adultery, or mockery of the Saṅgha &mdash; "
+            "suggesting this saṃyutta treats deceptive claims to "
+            "occult knowledge as its own serious category of harm."]),
+        ("The second of three, continuing an established run", [
+            "Positioned between SN 19.13's flayed adulteress and SN "
+            "19.15's scorched queen, this discourse confirms "
+            "Dutiyavagga's opening run is specifically organized "
+            "around female apparitions before shifting to other "
+            "subjects."]),
+        ("A cause without an obvious male counterpart named elsewhere", [
+            "Unlike SN 19.11 and 19.13's paired adulterer and "
+            "adulteress, this discourse's sorceress has no directly "
+            "corresponding male cause named elsewhere in this "
+            "saṃyutta, suggesting the pairing pattern noted in SN "
+            "19.13 isn't applied uniformly across every discourse in "
+            "this run."]),
+    ],
+    terms=[
+        ("itthiṁ duggandhaṁ maṅguliṁ vehāsaṁ gacchantiṁ",
+         "&ldquo;a woman stinking and dingy as a catfish, flying "
+         "through the air&rdquo; &mdash; this discourse's title "
+         "image, a sensory rather than purely visible affliction."),
+        ("ikkhaṇikā",
+         "&ldquo;a sorceress, a fortune-teller&rdquo; &mdash; the "
+         "cause named, someone who practiced divination or occult "
+         "prediction."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; the same compression "
+         "convention continuing from the discourses before this "
+         "one."),
+        ("aṭṭassaraṁ karoti",
+         "&ldquo;screamed in pain&rdquo; &mdash; the recurring "
+         "description, unchanged from the discourses before this "
+         "one."),
+        ("catutthaṁ",
+         "&ldquo;the fourth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "19.1's fuller frame narrative. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.14:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's apparition consist of?",
+         "opts": [
+             "A woman stinking and dingy as a catfish",
+             "A flayed body identical to SN 19.13",
+             "A man sunk in a sewer",
+             "No specific apparition is described"],
+         "correct": 0,
+         "expl": "A sensory affliction, primarily olfactory and textural, distinct from the visible wounds described elsewhere."},
+        {"q": "How does this discourse's affliction differ from SN 19.13's flaying?",
+         "opts": [
+             "It engages smell and texture rather than describing a visible physical wound",
+             "It is identical in every respect to SN 19.13's affliction",
+             "It involves no affliction of any kind",
+             "It describes only a visual, not sensory, condition"],
+         "correct": 0,
+         "expl": "Widening the range of senses this saṃyutta's images engage."},
+        {"q": "What cause does this discourse name?",
+         "opts": [
+             "A sorceress or fortune-teller (ikkhaṇikā)",
+             "An adulteress, identical to SN 19.13",
+             "A corrupt village official",
+             "No cause is named"],
+         "correct": 0,
+         "expl": "Divination or occult prediction, a distinct category of wrongdoing in this saṃyutta."},
+        {"q": "What position does this discourse hold in the run of female apparitions?",
+         "opts": [
+             "The second of three, between SN 19.13's adulteress and SN 19.15's scorched queen",
+             "The first of the run",
+             "The final discourse of the entire saṃyutta",
+             "It does not belong to this run"],
+         "correct": 0,
+         "expl": "Confirming Dutiyavagga's opening run is specifically organized around female apparitions."},
+        {"q": "Does this discourse's cause have an obvious male counterpart named elsewhere in this saṃyutta?",
+         "opts": [
+             "No — unlike SN 19.11 and 19.13's paired adulterer and adulteress, no corresponding male sorcerer is named",
+             "Yes, an identical male sorcerer appears in an earlier discourse",
+             "Yes, this exact cause is repeated for a man in the next discourse",
+             "The discourse does not address this question at all"],
+         "correct": 0,
+         "expl": "Suggesting the pairing pattern isn't applied uniformly across every discourse in this run."},
+        {"q": "What specific comparison does this discourse use for the woman's condition?",
+         "opts": [
+             "Stinking and dingy as a catfish",
+             "Bright and radiant as the moon",
+             "Cold and hard as stone",
+             "No specific comparison is used"],
+         "correct": 0,
+         "expl": "A homely, vivid point of comparison distinct from anything else used in this saṃyutta."},
+        {"q": "What birds chase and tear at the apparition in this discourse?",
+         "opts": [
+             "Vultures, crows, and hawks",
+             "Owls and eagles",
+             "Sparrows and doves",
+             "No specific birds are named"],
+         "correct": 0,
+         "expl": "The same three birds named throughout this saṃyutta."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Catutthaṁ, \"the fourth\"",
+             "Tatiyaṁ, \"the third\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fourth discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("An affliction reaching beyond sight", [
+            "stinking, dingy, felt as much as seen &mdash;",
+            "a different sense engaged this time",
+        ]),
+        ("A homely image, unusually specific", [
+            "dingy as a catfish, nothing abstract about it &mdash;",
+            "vividness through the ordinary, not the exotic",
+        ]),
+        ("Deceptive claims to hidden knowledge, named as harm", [
+            "not killing or adultery, but fortune-telling &mdash;",
+            "occult pretense treated as its own serious wrong",
+        ]),
+        ("A pairing pattern that doesn't hold for every case", [
+            "no matching sorcerer named anywhere else &mdash;",
+            "not every cause in this run comes in twos",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.14/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.13.html">SN 19.13 &middot; A Flayed '
+        "Woman</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-19.15.html">SN 19.15 &middot; A Sweltering '
+        "Woman</a> &mdash; the next discourse, closing this run "
+        "with a named royal figure.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.15 — Okilinīsutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 15, "Okilinī", "A Sweltering Woman",
+    meta_title="SN 19.15 — A Sweltering Woman | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Okilinīsutta — Moggallāna sees a scorched, sooty "
+        "woman flying through the air, the residual karma of the "
+        "king of Kaliṅga's chief queen, who poured hot coals over "
+        "her jealous rival. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "The elided template closing the female-apparition "
+                 "run with this saṃyutta's first named royal figure"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; the first apparition in this "
+                       "saṃyutta traced to a specifically named "
+                       "royal rank"),
+    ],
+    why=(
+        "This discourse closes the run of female apparitions with "
+        "its most specific identification yet: a scorched, sooty, "
+        "sweaty woman flying through the air. Rather than naming an "
+        "occupation or trade, this discourse identifies its cause by "
+        "royal rank: she was once the chief queen of the king of "
+        "Kaliṅga, who, being of a jealous nature, poured a brazier of "
+        "hot coals over her co-wife."),
+    guide=[
+        ("A cause named by rank and a specific royal court", [
+            "Unlike every discourse before it, which name an "
+            "occupation or trade, this discourse identifies its "
+            "cause by royal position &mdash; chief queen of a named "
+            "kingdom, Kaliṅga &mdash; showing this saṃyutta's causes "
+            "aren't limited to ordinary livelihoods but extend to "
+            "positions of the highest social rank."]),
+        ("A precise correspondence between deed and affliction", [
+            "The queen poured hot coals over her co-wife; her "
+            "resulting apparition is scorched and sooty &mdash; an "
+            "unusually exact correspondence between the specific "
+            "instrument of harm inflicted and the specific form the "
+            "consequence takes."]),
+        ("Jealousy named explicitly as the motivating cause", [
+            "Issāpakatā, &ldquo;of a jealous nature,&rdquo; is stated "
+            "directly as the queen's characteristic disposition, "
+            "naming an emotional state rather than only the physical "
+            "act it produced &mdash; the wrongdoing traced to its "
+            "psychological root, not only its external result."]),
+        ("A rival wife as the victim, widening the domestic scope", [
+            "Sapatti, a co-wife or rival wife, names a specifically "
+            "domestic conflict within a polygynous household, a "
+            "social context distinct from the adultery, sorcery, and "
+            "trade-based wrongs named in the discourses immediately "
+            "before it."]),
+        ("Closing a three-discourse run with its most elaborate case", [
+            "Compared to SN 19.13 and 19.14's brief, single-line "
+            "identifications, this discourse's named kingdom, "
+            "specific royal rank, and stated motivation give the "
+            "run's closing case markedly more narrative texture than "
+            "either of the two before it."]),
+    ],
+    terms=[
+        ("itthiṁ uppakkaṁ okiliniṁ okiriniṁ",
+         "&ldquo;a scorched woman, sooty and sweaty&rdquo; &mdash; "
+         "this discourse's title image, precisely corresponding to "
+         "the queen's specific act of harm."),
+        ("kaliṅgassa rañño aggamahesī",
+         "&ldquo;the king of Kaliṅga's chief queen&rdquo; &mdash; "
+         "this saṃyutta's first cause identified by royal rank "
+         "rather than occupation."),
+        ("issāpakatā",
+         "&ldquo;of a jealous nature&rdquo; &mdash; naming the "
+         "queen's characteristic disposition, the psychological "
+         "root of her wrongdoing."),
+        ("sapatti",
+         "&ldquo;a co-wife, a rival wife&rdquo; &mdash; the victim "
+         "of the queen's act, situating the wrongdoing within a "
+         "specifically domestic, polygynous context."),
+        ("pañcamaṁ",
+         "&ldquo;the fifth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, with the queen's "
+        "specific act given in full even as the surrounding frame "
+        "remains elided. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.15:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse identify its cause, unlike every discourse before it?",
+         "opts": [
+             "By royal rank — chief queen of a named kingdom, Kaliṅga — rather than an occupation or trade",
+             "By an entirely unnamed, unspecified identity",
+             "By repeating the same occupation named in SN 19.14",
+             "No cause is identified in this discourse"],
+         "correct": 0,
+         "expl": "Showing this saṃyutta's causes extend to positions of the highest social rank."},
+        {"q": "What specific act did this queen commit?",
+         "opts": [
+             "She poured a brazier of hot coals over her co-wife",
+             "She refused all forms of charitable giving",
+             "She practiced fortune-telling for profit",
+             "She committed adultery"],
+         "correct": 0,
+         "expl": "A specific instrument of harm precisely mirrored in her resulting apparition."},
+        {"q": "How does the queen's apparition correspond to her specific deed?",
+         "opts": [
+             "She is scorched and sooty, precisely mirroring the hot coals she poured on another",
+             "There is no correspondence between the deed and the apparition",
+             "Her apparition involves flaying, unrelated to her deed",
+             "Her apparition is identical to SN 19.1's skeleton"],
+         "correct": 0,
+         "expl": "An unusually exact correspondence between the instrument of harm and its consequence."},
+        {"q": "What psychological state does this discourse name as the queen's motivation?",
+         "opts": [
+             "Jealousy (issāpakatā, \"of a jealous nature\")",
+             "Greed for material wealth",
+             "Fear of losing her royal position",
+             "No motivation is given"],
+         "correct": 0,
+         "expl": "Tracing the wrongdoing to its psychological root, not only its external result."},
+        {"q": "Who was the victim of the queen's act?",
+         "opts": [
+             "Her co-wife (sapatti), within a polygynous royal household",
+             "A stranger she encountered by chance",
+             "A mendicant seeking alms",
+             "No victim is named"],
+         "correct": 0,
+         "expl": "A specifically domestic conflict, distinct from the wrongs named in the discourses before it."},
+        {"q": "How does this discourse's level of detail compare to SN 19.13 and 19.14?",
+         "opts": [
+             "It is markedly more elaborate, with a named kingdom, specific rank, and stated motivation",
+             "It is far less detailed than either of the two discourses before it",
+             "It is identical in every respect to SN 19.13",
+             "No detail at all is given in this discourse"],
+         "correct": 0,
+         "expl": "Closing the three-discourse run with its most narratively developed case."},
+        {"q": "What position does this discourse hold in the run of female apparitions?",
+         "opts": [
+             "The third and closing discourse of the run",
+             "The first discourse of the run",
+             "It does not belong to this run",
+             "The final discourse of the entire saṃyutta"],
+         "correct": 0,
+         "expl": "Closing SN 19.13-15's run before the saṃyutta moves to other subjects."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta's telling, even as the cause concerns a distant kingdom."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Pañcamaṁ, \"the fifth\"",
+             "Catutthaṁ, \"the fourth\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fifth discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("Rank, not trade, named for the first time", [
+            "a chief queen, not a butcher or a hunter &mdash;",
+            "even the highest position no exemption",
+        ]),
+        ("A deed mirrored precisely in its consequence", [
+            "hot coals given, scorching now received &mdash;",
+            "an unusually exact correspondence",
+        ]),
+        ("A feeling named, not just an action", [
+            "jealousy, stated as the root cause &mdash;",
+            "the wrong traced back to what drove it",
+        ]),
+        ("The run's most developed case, saved for last", [
+            "a kingdom, a rank, a reason, all given &mdash;",
+            "far more texture than the two discourses before it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.15/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.14.html">SN 19.14 &middot; A Fishwife</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-19.16.html">SN 19.16 &middot; A Headless '
+        "Trunk</a> &mdash; the next discourse, returning to a male "
+        "apparition with its own named identity.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 19.16 — Asīsakasutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 16, "Asīsaka", "A Headless Trunk",
+    meta_title="SN 19.16 — A Headless Trunk | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Asīsakasutta — Moggallāna sees a headless trunk "
+        "with its eyes and mouth on its chest, flying through the "
+        "air, the residual karma of an executioner named Hārika. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "The elided template returning to a male "
+                 "apparition, now with a named individual as its "
+                 "cause"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; the first male apparition traced to "
+                       "an individual identified by name"),
+    ],
+    why=(
+        "This discourse returns to a male apparition after the "
+        "three-discourse run concerning women: a headless trunk "
+        "flying through the air, its eyes and mouth relocated to its "
+        "chest, still chased by the same birds. Unlike every "
+        "occupation named so far, this discourse's cause is "
+        "identified by a specific personal name: Hārika, an "
+        "executioner &mdash; the first individual in this saṃyutta "
+        "named rather than only described by trade or rank."),
+    guide=[
+        ("A body reorganized, not merely wounded or immersed", [
+            "This apparition doesn't simply lack a head; its "
+            "sensory organs are relocated rather than absent "
+            "entirely, its eyes and mouth appearing on its chest "
+            "&mdash; a stranger, more surreal transformation than "
+            "the flaying, immersion, or piercing described in "
+            "earlier discourses."]),
+        ("The saṃyutta's first individually named cause", [
+            "Every occupation named before this discourse &mdash; "
+            "cattle butcher, bird hunter, adulterer, sorceress, even "
+            "the queen of Kaliṅga &mdash; is identified by trade or "
+            "rank without a personal name; this discourse instead "
+            "names Hārika specifically, marking a shift toward "
+            "individual identification."]),
+        ("Hārika's name and his function sharing a pointed connection", [
+            "Hārika, meaning something like &ldquo;taker&rdquo; or "
+            "&ldquo;one who removes,&rdquo; is described as an "
+            "executioner, coraghātaka, literally a killer of thieves "
+            "&mdash; his name and his function align closely enough "
+            "that the naming itself seems to comment on his role."]),
+        ("Judicial execution as a specific, sanctioned category of killing", [
+            "Coraghātaka names someone who carries out capital "
+            "punishment specifically against thieves, distinguishing "
+            "this cause from both the earlier animal-killing trades "
+            "and SN 19.7's more general punisher, kāraṇika &mdash; "
+            "a further, more specific gradation within this "
+            "saṃyutta's catalog of sanctioned violence."]),
+        ("Closing the saṃyutta's remaining secular causes before its monastic turn", [
+            "This discourse marks the last specifically secular "
+            "occupation named before the five discourses closing "
+            "this saṃyutta turn entirely to monastic wrongdoing, "
+            "confirming a deliberate shift in subject matter for the "
+            "collection's final stretch."]),
+    ],
+    terms=[
+        ("asīsakaṁ kabandhaṁ vehāsaṁ gacchantaṁ",
+         "&ldquo;a headless trunk flying through the air&rdquo; "
+         "&mdash; this discourse's title image, its eyes and mouth "
+         "relocated to its chest."),
+        ("hāriko nāma coraghātako",
+         "&ldquo;an executioner named Hārika&rdquo; &mdash; the "
+         "saṃyutta's first cause identified by personal name rather "
+         "than trade or rank alone."),
+        ("coraghātaka",
+         "&ldquo;a killer of thieves, an executioner&rdquo; &mdash; "
+         "naming judicial capital punishment specifically, distinct "
+         "from SN 19.7's more general punisher."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; the same compression "
+         "convention continuing from the discourses before this "
+         "one."),
+        ("chaṭṭhaṁ",
+         "&ldquo;the sixth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "19.1's fuller frame narrative. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.16:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's apparition consist of?",
+         "opts": [
+             "A headless trunk with its eyes and mouth relocated to its chest",
+             "A flayed woman, identical to SN 19.13",
+             "A man sunk in a sewer",
+             "No specific apparition is described"],
+         "correct": 0,
+         "expl": "A body reorganized rather than merely wounded, stranger than the earlier flaying or immersion images."},
+        {"q": "What is distinctive about how this discourse identifies its cause?",
+         "opts": [
+             "It names a specific individual, Hārika, rather than only a trade or rank",
+             "It names no cause of any kind",
+             "It repeats the exact same cause as SN 19.7",
+             "It identifies the cause only by an unnamed royal title"],
+         "correct": 0,
+         "expl": "The saṃyutta's first individually named cause, marking a shift from earlier discourses' anonymous trades."},
+        {"q": "What does Hārika's name suggest, in relation to his role?",
+         "opts": [
+             "It means something like \"taker\" or \"one who removes,\" aligning closely with his function as an executioner",
+             "It has no relationship to his role whatsoever",
+             "It is an entirely unrelated title with no meaning",
+             "It means \"one who heals\""],
+         "correct": 0,
+         "expl": "His name and function aligning closely enough that the naming seems to comment on his role."},
+        {"q": "What specific category of killing does coraghātaka name?",
+         "opts": [
+             "Judicial execution specifically of thieves",
+             "General animal slaughter, unrelated to any human punishment",
+             "Killing carried out during warfare",
+             "Accidental or unintentional killing"],
+         "correct": 0,
+         "expl": "Distinguishing this cause from both animal-killing trades and SN 19.7's more general punisher."},
+        {"q": "What role does this discourse play in the saṃyutta's overall structure?",
+         "opts": [
+             "It marks the last specifically secular occupation before the saṃyutta's final five discourses turn to monastic wrongdoing",
+             "It is the saṃyutta's opening discourse",
+             "It has no particular structural significance",
+             "It closes the entire saṃyutta"],
+         "correct": 0,
+         "expl": "Confirming a deliberate shift in subject matter for the collection's closing stretch."},
+        {"q": "How does this discourse's cause differ from SN 19.7's punisher (kāraṇika)?",
+         "opts": [
+             "It names a more specific role — execution specifically of thieves — rather than punishment generally",
+             "The two causes are entirely identical with no distinction",
+             "This discourse's cause involves no punishment at all",
+             "SN 19.7's punisher is more specific than this discourse's cause"],
+         "correct": 0,
+         "expl": "A further, more specific gradation within this saṃyutta's catalog of sanctioned violence."},
+        {"q": "What birds chase and tear at the apparition in this discourse?",
+         "opts": [
+             "Vultures, crows, and hawks",
+             "Owls and eagles",
+             "Sparrows and doves",
+             "No specific birds are named"],
+         "correct": 0,
+         "expl": "The same three birds named throughout this saṃyutta."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The sixth discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("A body rearranged, not simply wounded", [
+            "eyes and mouth moved to the chest, head gone entirely &mdash;",
+            "something stranger than a flaying or a piercing",
+        ]),
+        ("A name given, for the first time", [
+            "Hārika, not just \"an executioner\" &mdash;",
+            "individual identity entering the catalog at last",
+        ]),
+        ("A name that comments on its own function", [
+            "\"taker,\" describing one who takes lives officially &mdash;",
+            "naming that seems to know exactly what it's naming",
+        ]),
+        ("A precise category within sanctioned violence", [
+            "execution of thieves specifically, not punishment broadly &mdash;",
+            "one more careful distinction drawn",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.16/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.15.html">SN 19.15 &middot; A Sweltering '
+        "Woman</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-19.17.html">SN 19.17 &middot; A Bad Monk</a> '
+        "&mdash; the next discourse, opening this saṃyutta's "
+        "closing run of monastic wrongdoing.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.17 — Pāpabhikkhusutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 17, "Pāpabhikkhu", "A Bad Monk",
+    meta_title="SN 19.17 — A Bad Monk | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Pāpabhikkhusutta — Moggallāna sees a monk flying "
+        "through the air, his robe, bowl, belt, and body all "
+        "burning, the residual karma of a bad monk in Buddha "
+        "Kassapa's dispensation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "A new image of fire replacing every affliction "
+                 "used so far, opening a five-discourse closing run"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; opening the saṃyutta's closing "
+                       "run, concerned specifically with monastic "
+                       "misconduct"),
+    ],
+    why=(
+        "This discourse opens the saṃyutta's closing run with a new "
+        "kind of image: a monk flying through the air, his outer "
+        "robe, bowl, belt, and body all burning, blazing, and "
+        "glowing at once. Unlike every discourse before it, whose "
+        "causes are located in ordinary lay occupations, royal "
+        "courts, or private households, this discourse's cause is "
+        "explicitly monastic: a bad monk (pāpabhikkhu) in the time "
+        "of the Buddha Kassapa's dispensation."),
+    guide=[
+        ("Fire as an image entirely new to this saṃyutta", [
+            "Every apparition before this discourse involved "
+            "cutting, piercing, flaying, immersion, or bodily "
+            "rearrangement; this discourse introduces fire for the "
+            "first time, a mode of destruction that consumes rather "
+            "than wounds or reshapes."]),
+        ("The specific items burning naming exactly what was misused", [
+            "Robe, bowl, belt, and body burning together &mdash; "
+            "the outer robe and bowl are the two most basic markers "
+            "of monastic identity and material support, making their "
+            "burning a pointed comment on how those specific items "
+            "were once misused or taken for granted."]),
+        ("A cause explicitly located within the monastic community", [
+            "Where SN 19.12's nasty brahmin wronged the Saṅgha from "
+            "outside it, this discourse's cause is a monk who failed "
+            "from within the community itself, marking a shift to "
+            "wrongdoing committed by those who held the very "
+            "identity being symbolically consumed by fire."]),
+        ("Kassapa's dispensation returning as this run's fixed setting", [
+            "Like SN 19.12, this discourse locates its cause in the "
+            "time of the past Buddha Kassapa rather than "
+            "contemporary Rājagaha, and this temporal setting "
+            "recurs across all five discourses closing this "
+            "saṃyutta, distinguishing this entire run from "
+            "Paṭhamavagga's exclusively present-day causes."]),
+        ("Opening a sequence that will name every rank of the fourfold and fivefold assembly", [
+            "This discourse's bad monk opens a run that continues "
+            "through a bad nun, a bad trainee nun, a bad novice monk, "
+            "and a bad novice nun, systematically covering every "
+            "level of ordained status the tradition recognizes."]),
+    ],
+    terms=[
+        ("bhikkhuṁ vehāsaṁ gacchantaṁ",
+         "&ldquo;a monk flying through the air&rdquo; &mdash; this "
+         "discourse's title image, opening the saṃyutta's closing "
+         "run of monastic apparitions."),
+        ("saṅghāṭi … patto … kāyabandhana … kāyo",
+         "&ldquo;outer robe … bowl … belt … body&rdquo; &mdash; the "
+         "four things described burning together, naming exactly "
+         "the markers of monastic identity misused."),
+        ("pāpabhikkhu",
+         "&ldquo;a bad monk&rdquo; &mdash; this discourse's cause, "
+         "the first in this saṃyutta located within the monastic "
+         "community itself rather than outside it."),
+        ("kassapassa sammāsambuddhassa pāvacane",
+         "&ldquo;in the time of the Buddha Kassapa's "
+         "dispensation&rdquo; &mdash; the setting shared across all "
+         "five discourses closing this saṃyutta."),
+        ("sattamaṁ",
+         "&ldquo;the seventh&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, elided around SN "
+        "19.1's fuller frame narrative. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.17:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What kind of image does this discourse introduce for the first time in this saṃyutta?",
+         "opts": [
+             "Fire — the monk's robe, bowl, belt, and body all burning at once",
+             "Immersion in a sewer, identical to SN 19.11",
+             "Piercing needles, identical to SN 19.9",
+             "No image is described"],
+         "correct": 0,
+         "expl": "A mode of destruction that consumes rather than wounds or reshapes, unlike every earlier apparition."},
+        {"q": "What four things are described burning together?",
+         "opts": [
+             "The outer robe, bowl, belt, and body",
+             "Only the monk's feet",
+             "A set of scriptures he once carried",
+             "Nothing specific is named as burning"],
+         "correct": 0,
+         "expl": "The two most basic markers of monastic identity and material support, misused or taken for granted."},
+        {"q": "How does this discourse's cause differ from every cause named before it?",
+         "opts": [
+             "It is explicitly monastic — a bad monk — rather than a lay occupation, royal rank, or private household matter",
+             "It is identical to SN 19.12's nasty brahmin",
+             "It names no cause of any kind",
+             "It describes wrongdoing committed against the Saṅgha from outside it"],
+         "correct": 0,
+         "expl": "Wrongdoing committed by someone who held the very identity being symbolically consumed by fire."},
+        {"q": "In what time period is this discourse's cause located?",
+         "opts": [
+             "In the dispensation of the past Buddha Kassapa, not contemporary Rājagaha",
+             "In the present time, contemporary with the Buddha Gotama",
+             "In an unspecified, timeless setting",
+             "No time period is given"],
+         "correct": 0,
+         "expl": "A setting recurring across all five discourses closing this saṃyutta."},
+        {"q": "What run of discourses does this one open?",
+         "opts": [
+             "A sequence covering every rank of the fourfold and fivefold ordained assembly — monk, nun, trainee nun, novice monk, novice nun",
+             "A sequence returning to purely secular occupations",
+             "The saṃyutta's very first discourses",
+             "No particular sequence follows this discourse"],
+         "correct": 0,
+         "expl": "Systematically covering every level of ordained status the tradition recognizes."},
+        {"q": "How does this discourse's cause compare to SN 19.12's nasty brahmin?",
+         "opts": [
+             "SN 19.12's brahmin wronged the Saṅgha from outside it; this discourse's monk failed from within the community itself",
+             "The two causes are entirely identical in every respect",
+             "This discourse's cause involves no monastic community at all",
+             "SN 19.12's cause is also explicitly a monk"],
+         "correct": 0,
+         "expl": "A shift to wrongdoing committed by someone holding the very identity the fire symbolically consumes."},
+        {"q": "What does the burning of the robe and bowl specifically comment on?",
+         "opts": [
+             "How those specific markers of monastic identity were once misused or taken for granted",
+             "The monk's physical strength",
+             "The monk's skill in formal debate",
+             "Nothing in particular; the items are unrelated to his wrongdoing"],
+         "correct": 0,
+         "expl": "A pointed correspondence between the symbols of monastic status and their consuming fire."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta's telling, even as the cause reaches into the past."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Sattamaṁ, \"the seventh\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The seventh discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("A new element entering the saṃyutta at last", [
+            "not cut, not pierced, not sunk, but burning &mdash;",
+            "consumption replacing every earlier mode of harm",
+        ]),
+        ("The very markers of identity, alight", [
+            "robe and bowl, burning alongside the body &mdash;",
+            "what once signified status, now consuming it",
+        ]),
+        ("Failure from within, not harm done from outside", [
+            "a monk himself, not an outsider's mockery &mdash;",
+            "the wrong committed by one who held the role",
+        ]),
+        ("A fivefold reckoning about to unfold", [
+            "monk, then nun, then trainee, then two more ranks &mdash;",
+            "every level of ordination named in turn",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.17/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.16.html">SN 19.16 &middot; A Headless '
+        "Trunk</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-19.18.html">SN 19.18 &middot; A Bad Nun</a> '
+        "&mdash; the next discourse, continuing this fivefold "
+        "sequence.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.18 — Pāpabhikkhunīsutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 18, "Pāpabhikkhunī", "A Bad Nun",
+    meta_title="SN 19.18 — A Bad Nun | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Pāpabhikkhunīsutta — a nun flying through the air, "
+        "her robe burning, the residual karma of a bad nun. The "
+        "second of five discourses closing this saṃyutta's "
+        "monastic run. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha (implied, continuing from SN 19.17)"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "SN 19.17's structure and image repeated for a "
+                 "nun, at even greater compression"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the most heavily compressed "
+                       "discourse in this saṃyutta so far"),
+    ],
+    why=(
+        "This discourse applies SN 19.17's burning-monk image to a "
+        "nun, compressed even further than any discourse before it: "
+        "I saw a nun flying through the air, her outer robe burning. "
+        "The cause named is identical in structure &mdash; a bad "
+        "nun (pāpabhikkhunī) &mdash; continuing the fivefold sequence "
+        "through the ordained community's female counterpart to the "
+        "monk named in the discourse before it."),
+    guide=[
+        ("The most compressed discourse in the saṃyutta so far", [
+            "Where even the most elided discourses in Paṭhamavagga "
+            "give at least a brief description of the apparition and "
+            "its cause, this discourse compresses both to their "
+            "barest possible statement, relying entirely on SN "
+            "19.17's fuller treatment to supply what's omitted."]),
+        ("A direct female counterpart, not a modified image", [
+            "This discourse doesn't invent a distinct affliction for "
+            "a nun; it applies the identical burning image to a "
+            "female member of the ordained community, treating the "
+            "consequence of monastic misconduct as equivalent "
+            "regardless of gender."]),
+        ("Only the robe named burning, not the full list from SN 19.17", [
+            "Where SN 19.17 named robe, bowl, belt, and body all "
+            "burning together, this discourse's elision reduces the "
+            "list to the robe alone before continuing into the "
+            "peyyāla mark, suggesting the full list is still implied "
+            "even though only its first item is stated."]),
+        ("A pattern of narrowing scope that continues through this run", [
+            "This discourse's opening line drops the earlier "
+            "discourses' &ldquo;as I was descending from Vulture's "
+            "Peak Mountain&rdquo; entirely, beginning instead with "
+            "the bare observation itself &mdash; the most minimal "
+            "framing used anywhere in this saṃyutta."]),
+        ("The second of five, confirming the fivefold structure", [
+            "Following directly after SN 19.17's monk, this "
+            "discourse's nun confirms the sequence will proceed "
+            "through the ordained community systematically, matching "
+            "each rank rather than singling out only one or two "
+            "examples."]),
+    ],
+    terms=[
+        ("bhikkhuniṁ vehāsaṁ gacchantiṁ",
+         "&ldquo;a nun flying through the air&rdquo; &mdash; this "
+         "discourse's title image, applying SN 19.17's structure to "
+         "a female member of the ordained community."),
+        ("saṅghāṭipi ādittā",
+         "&ldquo;her outer robe was burning&rdquo; &mdash; the "
+         "sole item named before the elision mark, standing in for "
+         "SN 19.17's fuller list."),
+        ("pāpabhikkhunī",
+         "&ldquo;a bad nun&rdquo; &mdash; the direct female "
+         "counterpart to SN 19.17's bad monk."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; used here at its most "
+         "extensive so far, compressing nearly the entire discourse."),
+        ("aṭṭhamaṁ",
+         "&ldquo;the eighth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, at its most "
+        "heavily compressed so far, relying on SN 19.17's fuller "
+        "treatment. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.18:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What does this discourse apply SN 19.17's image to?",
+         "opts": [
+             "A nun, the female counterpart to SN 19.17's monk",
+             "An entirely unrelated apparition",
+             "A layperson with no monastic connection",
+             "No new subject is introduced"],
+         "correct": 0,
+         "expl": "Continuing the fivefold sequence through the ordained community's female counterpart."},
+        {"q": "How does this discourse's compression compare to every discourse before it in this saṃyutta?",
+         "opts": [
+             "It is the most heavily compressed discourse so far",
+             "It is the least compressed, giving the fullest detail yet",
+             "It is identical in length to SN 19.1",
+             "No compression is used in this discourse"],
+         "correct": 0,
+         "expl": "Relying entirely on SN 19.17's fuller treatment to supply what's omitted."},
+        {"q": "Does this discourse invent a distinct affliction for a nun, different from SN 19.17's monk?",
+         "opts": [
+             "No — it applies the identical burning image, treating the consequence as equivalent regardless of gender",
+             "Yes, an entirely different and unrelated affliction is described",
+             "Yes, a much milder affliction is given",
+             "No affliction at all is described"],
+         "correct": 0,
+         "expl": "The same consequence applied without modification across genders."},
+        {"q": "How many of SN 19.17's four burning items does this discourse explicitly name?",
+         "opts": [
+             "Only one — the outer robe — before the elision mark takes over",
+             "All four items are named in full",
+             "None of the four items are mentioned at all",
+             "Two of the four items are named"],
+         "correct": 0,
+         "expl": "The full list still implied, even though only its first item is stated."},
+        {"q": "What framing element from earlier discourses does this discourse drop entirely?",
+         "opts": [
+             "The opening phrase \"as I was descending from Vulture's Peak Mountain\"",
+             "The names of the two speakers",
+             "The setting of Rājagaha",
+             "Nothing is dropped; every element is retained"],
+         "correct": 0,
+         "expl": "The most minimal framing used anywhere in this saṃyutta."},
+        {"q": "What position does this discourse hold in the fivefold sequence begun at SN 19.17?",
+         "opts": [
+             "The second of five, confirming the sequence proceeds systematically through the ordained community",
+             "The first of the sequence",
+             "The final discourse of the sequence",
+             "It does not belong to this sequence"],
+         "correct": 0,
+         "expl": "Matching each rank rather than singling out only one or two examples."},
+        {"q": "What cause does this discourse name?",
+         "opts": [
+             "A bad nun (pāpabhikkhunī)",
+             "A bad monk, identical to SN 19.17",
+             "A corrupt village official",
+             "No cause is named"],
+         "correct": 0,
+         "expl": "The direct female counterpart to SN 19.17's bad monk."},
+        {"q": "What does the extremely brief treatment of this discourse suggest about how it should be read?",
+         "opts": [
+             "In direct relation to SN 19.17, which supplies the fuller context this discourse assumes",
+             "As an entirely independent discourse requiring no context from elsewhere",
+             "As contradicting everything stated in SN 19.17",
+             "As unrelated to any monastic theme"],
+         "correct": 0,
+         "expl": "Relying entirely on the fuller discourse immediately before it."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair continuing throughout this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "Navamaṁ, \"the ninth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eighth discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("Compression reaching its furthest point yet", [
+            "barely a sentence, trusting all the rest &mdash;",
+            "the sparest treatment in the whole saṃyutta",
+        ]),
+        ("The same fire, without regard to gender", [
+            "a nun now, the identical consequence &mdash;",
+            "no distinction made in what misconduct costs",
+        ]),
+        ("One item standing in for a fuller list", [
+            "just the robe named, the rest implied &mdash;",
+            "trusting the earlier discourse to fill in the gap",
+        ]),
+        ("A sequence advancing methodically", [
+            "monk, now nun, three ranks still to come &mdash;",
+            "no rank of the ordained community left untouched",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.18/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.17.html">SN 19.17 &middot; A Bad Monk</a> '
+        "&mdash; the discourse whose fuller structure this one "
+        "assumes.",
+        '<a href="sn-19.19.html">SN 19.19 &middot; A Bad Trainee '
+        "Nun</a> &mdash; the next discourse, continuing this same "
+        "fivefold sequence.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.19 — Pāpasikkhamānasutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 19, "Pāpasikkhamāna", "A Bad Trainee Nun",
+    meta_title="SN 19.19 — A Bad Trainee Nun | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Pāpasikkhamānasutta — a trainee nun flying through "
+        "the air, her robe burning, the residual karma of a bad "
+        "trainee nun. The third of five discourses closing this "
+        "saṃyutta's monastic run. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha (implied, continuing the same run)"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "The identical compressed structure from SN 19.18, "
+                 "applied to a distinct ordained status"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the third of five discourses, "
+                       "naming a specific rank within female "
+                       "ordination"),
+    ],
+    why=(
+        "This discourse continues the fivefold sequence with a "
+        "sikkhamānā, a trainee nun undergoing the two-year "
+        "probationary training required before full ordination as a "
+        "bhikkhunī. The apparition and structure repeat SN 19.18's "
+        "compressed form exactly, with the ordained rank and its "
+        "corresponding cause &mdash; a bad trainee nun &mdash; the "
+        "only elements that change."),
+    guide=[
+        ("A specific intermediate rank, not simply a junior nun", [
+            "Sikkhamānā names a distinct formal stage in the "
+            "ordination process, a probationary period specifically "
+            "for women preparing for full bhikkhunī ordination, "
+            "showing this saṃyutta's fivefold sequence tracks "
+            "precise institutional categories rather than a loose "
+            "sense of seniority."]),
+        ("The identical compression pattern from the discourse before it", [
+            "This discourse's brevity matches SN 19.18's exactly, "
+            "confirming the extreme elision introduced there wasn't "
+            "a one-time compression but the fixed form the remaining "
+            "discourses in this sequence will use."]),
+        ("A rank found only within the female ordination structure", [
+            "The two-year sikkhamānā training has no exact "
+            "equivalent in the male monastic path, meaning this "
+            "discourse names a status specific to women's ordination "
+            "rather than simply repeating a category already covered "
+            "by SN 19.17's monk."]),
+        ("The middle discourse of the fivefold sequence", [
+            "Following bad monk and bad nun, this discourse's "
+            "trainee nun marks the sequence's midpoint, with two "
+            "more ranks &mdash; novice monk and novice nun &mdash; "
+            "still to come before the saṃyutta's actual close."]),
+        ("Consistency in applying consequence across every stage of training", [
+            "By including a rank as specific and preparatory as the "
+            "trainee-nun stage, this discourse confirms the saṃyutta "
+            "doesn't reserve its warning only for those already "
+            "fully ordained, extending the same standard to someone "
+            "still completing the requirements for full ordination."]),
+    ],
+    terms=[
+        ("sikkhamānaṁ vehāsaṁ gacchantiṁ",
+         "&ldquo;a trainee nun flying through the air&rdquo; "
+         "&mdash; this discourse's title image, naming a specific "
+         "probationary rank within female ordination."),
+        ("sikkhamānā",
+         "&ldquo;a trainee nun&rdquo; &mdash; a woman undergoing "
+         "the two-year probationary training required before full "
+         "ordination as a bhikkhunī, a status with no exact "
+         "equivalent in the male monastic path."),
+        ("pāpasikkhamānā",
+         "&ldquo;a bad trainee nun&rdquo; &mdash; this discourse's "
+         "cause, naming the same failing at this specific "
+         "intermediate stage."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; continuing the extreme "
+         "compression established in SN 19.18."),
+        ("navamaṁ",
+         "&ldquo;the ninth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, matching SN "
+        "19.18's compressed form exactly. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.19:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What specific rank does sikkhamānā name?",
+         "opts": [
+             "A trainee nun undergoing the two-year probationary training before full ordination",
+             "A fully ordained senior nun",
+             "A layperson with no formal ordination status",
+             "An identical rank to a novice monk"],
+         "correct": 0,
+         "expl": "A distinct formal stage in the ordination process specific to women's path."},
+        {"q": "How does this discourse's compression compare to SN 19.18's?",
+         "opts": [
+             "It is identical, confirming the extreme elision introduced there is now the sequence's fixed form",
+             "It is far more detailed than SN 19.18",
+             "It contains no compression at all",
+             "It is longer than SN 19.17's full treatment"],
+         "correct": 0,
+         "expl": "The same brevity carried forward as this run's established pattern."},
+        {"q": "Does the sikkhamānā training have an exact equivalent in the male monastic path?",
+         "opts": [
+             "No — it is specific to women's ordination, with no precise male counterpart",
+             "Yes, it is identical to a stage every monk also passes through",
+             "Yes, but only for monks over a certain age",
+             "The discourse does not address this question"],
+         "correct": 0,
+         "expl": "Naming a status specific to women's ordination rather than repeating a category already covered by SN 19.17."},
+        {"q": "What position does this discourse hold in the fivefold sequence?",
+         "opts": [
+             "The middle discourse, following bad monk and bad nun, with two more ranks still to come",
+             "The first discourse of the sequence",
+             "The final discourse of the sequence",
+             "It does not belong to this sequence"],
+         "correct": 0,
+         "expl": "Novice monk and novice nun remain before the saṃyutta's actual close."},
+        {"q": "What does including this specific intermediate rank confirm about the saṃyutta's scope?",
+         "opts": [
+             "That the warning extends to someone still completing the requirements for full ordination, not only the fully ordained",
+             "That only fully ordained individuals are ever addressed",
+             "That trainee nuns are exempt from any consequence",
+             "That this rank is identical in every respect to full ordination"],
+         "correct": 0,
+         "expl": "Applying the same standard across every stage of training, not reserving it for those already fully ordained."},
+        {"q": "What cause does this discourse name?",
+         "opts": [
+             "A bad trainee nun (pāpasikkhamānā)",
+             "A bad monk, identical to SN 19.17",
+             "A bad nun, identical to SN 19.18",
+             "No cause is named"],
+         "correct": 0,
+         "expl": "The same failing named at this specific intermediate stage of ordination."},
+        {"q": "What apparition does this discourse describe?",
+         "opts": [
+             "A trainee nun flying through the air, her robe burning",
+             "A skeleton chased by birds",
+             "A man sunk in a sewer",
+             "No apparition is described"],
+         "correct": 0,
+         "expl": "The same burning-robe image applied to this specific rank."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair continuing throughout this saṃyutta."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta's telling."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Navamaṁ, \"the ninth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The ninth discourse of Dutiyavagga."},
+    ],
+    marginalia=[
+        ("A precise institutional stage, not a vague rank", [
+            "the two-year training before full ordination &mdash;",
+            "a specific status, not just \"a junior nun\"",
+        ]),
+        ("The same brevity, confirmed as the pattern now", [
+            "as spare as the discourse before it &mdash;",
+            "compression settling into its fixed form",
+        ]),
+        ("A rank belonging only to the female path", [
+            "no equivalent stage among the monks &mdash;",
+            "women's ordination given its own distinct marker",
+        ]),
+        ("Neither exemption nor leniency for those still training", [
+            "not yet fully ordained, still held to account &mdash;",
+            "the standard applied before the process is complete",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.19/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.18.html">SN 19.18 &middot; A Bad Nun</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-19.20.html">SN 19.20 &middot; A Bad Novice '
+        "Monk</a> &mdash; the next discourse, continuing this same "
+        "fivefold sequence.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.20 — Pāpasāmaṇerasutta
+# --------------------------------------------------------------------------- #
+page(
+    19, 20, "Pāpasāmaṇera", "A Bad Novice Monk",
+    meta_title="SN 19.20 — A Bad Novice Monk | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Pāpasāmaṇerasutta — a novice monk flying through "
+        "the air, his robe burning, the residual karma of a bad "
+        "novice monk. The fourth of five discourses closing this "
+        "saṃyutta's monastic run. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha (implied, continuing the same run)"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna"),
+        ("Form", "The same compressed structure, now applied to "
+                 "the male ordained community's junior rank"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the fourth of five discourses, "
+                       "returning to the male ordained community "
+                       "after two discourses on women"),
+    ],
+    why=(
+        "This discourse returns to the male ordained community with "
+        "sāmaṇera, a novice monk &mdash; someone who has gone forth "
+        "under the ten precepts but not yet received full "
+        "ordination as a bhikkhu. The apparition and cause repeat "
+        "the same compressed pattern established in SN 19.18-19: a "
+        "novice monk flying through the air, his robe burning, once "
+        "a bad novice monk."),
+    guide=[
+        ("A return to the male path after two discourses on women", [
+            "Following SN 19.18's nun and SN 19.19's trainee nun, "
+            "this discourse shifts back to the male ordained "
+            "community, confirming the sequence alternates rather "
+            "than grouping every female rank before every male one, "
+            "or the reverse."]),
+        ("Sāmaṇera as the junior counterpart to SN 19.17's bhikkhu", [
+            "Where SN 19.17 named a fully ordained bhikkhu, this "
+            "discourse names a sāmaṇera, someone still under the ten "
+            "precepts of novice ordination &mdash; extending the "
+            "warning already given for full monks down to those at "
+            "an earlier formal stage of the same male path."]),
+        ("A structural asymmetry with the female sequence", [
+            "Unlike the female path's two intermediate ranks named "
+            "in SN 19.18-19 (nun and trainee nun), the male path in "
+            "this saṃyutta receives only two ranks total &mdash; "
+            "bhikkhu and sāmaṇera &mdash; reflecting the male "
+            "ordination structure's simpler two-stage system "
+            "compared to the female path's additional probationary "
+            "stage."]),
+        ("The penultimate discourse before this saṃyutta's actual close", [
+            "With only one discourse remaining after this one, this "
+            "novice monk marks the sequence's approach toward its "
+            "final rank and the saṃyutta's overall conclusion."]),
+        ("Consistency maintained even at this brief compression", [
+            "Despite receiving no more elaboration than SN 19.18-19, "
+            "this discourse's inclusion confirms the saṃyutta's "
+            "closing sequence intends full coverage of ordained "
+            "status rather than treating any single rank as too "
+            "minor to warrant its own discourse."]),
+    ],
+    terms=[
+        ("sāmaṇeraṁ vehāsaṁ gacchantaṁ",
+         "&ldquo;a novice monk flying through the air&rdquo; "
+         "&mdash; this discourse's title image, returning to the "
+         "male ordained community."),
+        ("sāmaṇera",
+         "&ldquo;a novice monk&rdquo; &mdash; someone who has gone "
+         "forth under the ten precepts but not yet received full "
+         "ordination as a bhikkhu."),
+        ("pāpasāmaṇero",
+         "&ldquo;a bad novice monk&rdquo; &mdash; this discourse's "
+         "cause, extending SN 19.17's warning down to an earlier "
+         "formal stage of the same male path."),
+        ("…pe…",
+         "the peyyāla elision mark &mdash; continuing the "
+         "compression established in SN 19.18-19."),
+        ("dasamaṁ",
+         "&ldquo;the tenth&rdquo; &mdash; this discourse's closing "
+         "numbering tag."),
+    ],
+    text_intro=(
+        "The discourse as preserved in the source, matching SN "
+        "19.18-19's compressed form. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.20:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What does sāmaṇera name?",
+         "opts": [
+             "A novice monk, gone forth under the ten precepts but not yet fully ordained",
+             "A fully ordained senior monk",
+             "A layperson with no formal connection to the Saṅgha",
+             "An identical rank to a trainee nun"],
+         "correct": 0,
+         "expl": "An earlier formal stage of the male monastic path than full bhikkhu ordination."},
+        {"q": "What shift does this discourse make after SN 19.18-19?",
+         "opts": [
+             "A return to the male ordained community, after two discourses concerning women",
+             "A continuation of exclusively female ranks",
+             "A shift entirely away from monastic subjects",
+             "No shift of any kind; this discourse repeats SN 19.19 exactly"],
+         "correct": 0,
+         "expl": "Confirming the sequence alternates between male and female ranks rather than grouping them separately."},
+        {"q": "How does this discourse's cause relate to SN 19.17's bhikkhu?",
+         "opts": [
+             "It extends the same warning to an earlier, junior formal stage of the same male path",
+             "It is entirely unrelated to SN 19.17's cause",
+             "It describes a higher rank than SN 19.17's bhikkhu",
+             "It repeats SN 19.17's cause exactly with no distinction"],
+         "correct": 0,
+         "expl": "The junior counterpart to the fully ordained monk named earlier in this sequence."},
+        {"q": "What structural asymmetry does this reading guide note between the male and female sequences?",
+         "opts": [
+             "The male path receives only two ranks (bhikkhu and sāmaṇera), while the female path receives three (nun, trainee nun, novice nun)",
+             "Both paths receive an identical number of ranks with no asymmetry",
+             "The male path receives more ranks than the female path",
+             "Neither path receives more than one rank"],
+         "correct": 0,
+         "expl": "Reflecting the female ordination structure's additional probationary stage."},
+        {"q": "What position does this discourse hold in the fivefold sequence?",
+         "opts": [
+             "The fourth of five, with only one discourse remaining before the saṃyutta's close",
+             "The first of the sequence",
+             "The final discourse, closing the entire saṃyutta",
+             "It does not belong to this sequence"],
+         "correct": 0,
+         "expl": "Marking the sequence's approach toward its final rank and the saṃyutta's overall conclusion."},
+        {"q": "What does including this junior rank confirm about the saṃyutta's closing sequence?",
+         "opts": [
+             "That it intends full coverage of ordained status, not treating any rank as too minor for its own discourse",
+             "That only the most senior ranks are ever addressed",
+             "That novices are entirely exempt from any consequence",
+             "That this rank was accidentally included by mistake"],
+         "correct": 0,
+         "expl": "Confirming the sequence's comprehensive intent despite minimal individual elaboration."},
+        {"q": "What apparition does this discourse describe?",
+         "opts": [
+             "A novice monk flying through the air, his robe burning",
+             "A skeleton chased by birds",
+             "A man sunk in a sewer",
+             "No apparition is described"],
+         "correct": 0,
+         "expl": "The same burning-robe image applied to this specific rank."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Lakkhaṇa and Venerable Mahāmoggallāna",
+             "The Buddha and Venerable Ānanda",
+             "Two unnamed laypeople",
+             "Moggallāna alone, with no interlocutor"],
+         "correct": 0,
+         "expl": "The same pair continuing throughout this saṃyutta."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha",
+             "At Sāvatthī",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta's telling."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dasamaṁ, \"the tenth\"",
+             "Navamaṁ, \"the ninth\"",
+             "Ekādasamaṁ, \"the eleventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The tenth discourse of Dutiyavagga, one before its close."},
+    ],
+    marginalia=[
+        ("Back to the male path, after two on women", [
+            "not grouped separately, but alternating &mdash;",
+            "the sequence moving between both ordination paths",
+        ]),
+        ("A junior stage, given the same weight", [
+            "not yet a full monk, still held accountable &mdash;",
+            "the warning extended one stage earlier",
+        ]),
+        ("Two ranks against three, an asymmetry worth noting", [
+            "the female path carrying one more intermediate step &mdash;",
+            "structure reflected honestly, not smoothed over",
+        ]),
+        ("One discourse remaining before this saṃyutta ends", [
+            "four ranks covered, one more still to come &mdash;",
+            "the close now clearly within sight",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.20/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.19.html">SN 19.19 &middot; A Bad Trainee '
+        "Nun</a> &mdash; the discourse immediately before this one.",
+        '<a href="sn-19.21.html">SN 19.21 &middot; A Bad Novice '
+        "Nun</a> &mdash; the saṃyutta's closing discourse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 19.21 — Pāpasāmaṇerīsutta (closes the saṃyutta)
+# --------------------------------------------------------------------------- #
+page(
+    19, 21, "Pāpasāmaṇerī", "A Bad Novice Nun",
+    meta_title="SN 19.21 — A Bad Novice Nun | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Pāpasāmaṇerīsutta — the saṃyutta's closing "
+        "discourse, restoring full narrative detail for a novice "
+        "nun burning in the air, the residual karma of a bad novice "
+        "nun. Closes Lakkhaṇasaṃyutta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, on Vulture's Peak Mountain"),
+        ("Speakers", "Venerable Lakkhaṇa and Venerable Mahāmoggallāna, "
+                     "with the Buddha's closing confirmation"),
+        ("Form", "The full frame narrative restored, mirroring SN "
+                 "19.1's completeness to close the saṃyutta"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; closing the saṃyutta with its "
+                       "fullest restatement since SN 19.1"),
+    ],
+    why=(
+        "This discourse closes both the fivefold monastic sequence "
+        "and the entire saṃyutta by restoring full narrative detail, "
+        "mirroring SN 19.1's completeness rather than continuing SN "
+        "19.18-20's extreme brevity. Moggallāna describes seeing a "
+        "novice nun whose outer robe, bowl, belt, and body were all "
+        "burning, blazing, and glowing as she screamed in pain. The "
+        "Buddha confirms the vision, explains he had seen her before "
+        "but stayed silent to spare others the harm of disbelief, "
+        "and reveals she was once a bad novice nun in the time of "
+        "the Buddha Kassapa's dispensation, burning in hell for many "
+        "hundreds of thousands of years before this residual "
+        "consequence."),
+    guide=[
+        ("A closing discourse that mirrors the opening's completeness", [
+            "After four consecutive discourses of increasing "
+            "brevity (SN 19.17-20), this discourse restores the full "
+            "frame narrative &mdash; the vision described in detail, "
+            "the Buddha's confirmation, the explanation of past "
+            "silence, and the specific karmic history &mdash; "
+            "matching SN 19.1's structure almost exactly."]),
+        ("The fivefold sequence completed at its final rank", [
+            "Sāmaṇerī, a novice nun, completes the sequence begun at "
+            "SN 19.17: bhikkhu, bhikkhunī, sikkhamānā, sāmaṇera, and "
+            "now sāmaṇerī, covering every rank the tradition "
+            "recognizes across both the male and female ordination "
+            "paths."]),
+        ("The identical explanation for past silence reused word for word", [
+            "The Buddha's reasoning here &mdash; that speaking of "
+            "this being earlier would have led to disbelief, which "
+            "would have been harmful to those who disbelieved "
+            "&mdash; repeats SN 19.1's explanation almost verbatim, "
+            "framing the entire saṃyutta as bookended by the same "
+            "justification for revealing these visions now."]),
+        ("A closing discourse's own translated colophon", [
+            "Following this discourse's account, the source includes "
+            "an untranslated uddāna verse and closing material, but "
+            "the saṃyutta's own colophon &mdash; the Linked "
+            "Discourses with Mark are complete &mdash; is rendered "
+            "in full, confirming this collection's formal end and "
+            "naming Venerable Lakkhaṇa, Moggallāna's questioning "
+            "companion, as the figure the entire saṃyutta is named "
+            "after."]),
+        ("Twenty-one discourses building one sustained argument", [
+            "Read as a whole, this saṃyutta doesn't merely catalog "
+            "disconnected grotesque images; it builds a sustained "
+            "case that visible, karmic consequence extends across "
+            "every kind of wrongdoer &mdash; animal-killers, "
+            "hunters, adulterers, sorcerers, a queen, an executioner, "
+            "and now every rank of the ordained community &mdash; "
+            "confirmed at every step by the Buddha's own direct "
+            "testimony."]),
+    ],
+    terms=[
+        ("sāmaṇerī",
+         "&ldquo;a novice nun&rdquo; &mdash; this discourse's title "
+         "term, completing the fivefold sequence's coverage of every "
+         "ordained rank."),
+        ("saṅghāṭipi ādittā sampajjalitā sajotibhūtā",
+         "&ldquo;her outer robe was burning, blazing, and "
+         "glowing&rdquo; &mdash; the full description restored here, "
+         "matching SN 19.17's fuller treatment rather than SN "
+         "19.18-20's brevity."),
+        ("dīgharattaṁ ahitāya dukkhāya",
+         "&ldquo;for their lasting harm and suffering&rdquo; "
+         "&mdash; the Buddha's reasoning for his past silence, "
+         "repeated nearly word for word from SN 19.1."),
+        ("bahūni vassasatasahassāni niraye paccitvā",
+         "&ldquo;having burned in hell for many hundreds of "
+         "thousands of years&rdquo; &mdash; specifying this "
+         "apparition as a residual consequence following a primary "
+         "period of suffering already served."),
+        ("lakkhaṇasaṁyuttaṁ samattaṁ",
+         "&ldquo;the Linked Discourses with Mark are complete&rdquo; "
+         "&mdash; the saṃyutta's own closing colophon, translated in "
+         "full by the source, naming Venerable Lakkhaṇa."),
+    ],
+    text_intro=(
+        "The discourse in full, restoring SN 19.1's complete frame "
+        "narrative, followed by the saṃyutta's own closing colophon. "
+        "The closing uddāna verse of discourse titles is not "
+        "translated in the source and is not quoted here; see the "
+        "reading guide above. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn19.21:1.1-1.8"),
+        ("p", "&sect;2", "sn19.21:2.1-2.9"),
+        ("p", "&sect;3 &middot; Colophon", "sn19.21:4.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure compare to SN 19.17-20?",
+         "opts": [
+             "It restores full narrative detail, mirroring SN 19.1's completeness rather than continuing the extreme brevity",
+             "It is even more heavily compressed than any discourse before it",
+             "It contains no narrative content at all",
+             "It is identical in every respect to SN 19.18"],
+         "correct": 0,
+         "expl": "A deliberate return to fullness for the saṃyutta's actual close."},
+        {"q": "What rank does sāmaṇerī name, completing the fivefold sequence?",
+         "opts": [
+             "A novice nun, the final rank covering both ordination paths",
+             "A fully ordained senior nun, identical to SN 19.18",
+             "An identical rank to sāmaṇera",
+             "No specific rank is named"],
+         "correct": 0,
+         "expl": "Bhikkhu, bhikkhunī, sikkhamānā, sāmaṇera, and now sāmaṇerī — every recognized rank."},
+        {"q": "What explanation does the Buddha give for his past silence about this being?",
+         "opts": [
+             "That speaking of it earlier would have led to disbelief, which would have harmed those who disbelieved",
+             "That he had simply forgotten about the vision until now",
+             "That he was forbidden by monastic rule from discussing it",
+             "No explanation is given in this discourse"],
+         "correct": 0,
+         "expl": "Repeating SN 19.1's explanation almost verbatim, bookending the saṃyutta with the same justification."},
+        {"q": "How is the saṃyutta's own closing colophon treated?",
+         "opts": [
+             "It is translated in full — \"the Linked Discourses with Mark are complete\"",
+             "It is left entirely untranslated, like the closing uddāna verse",
+             "No colophon exists for this saṃyutta",
+             "It is translated only partially"],
+         "correct": 0,
+         "expl": "Confirming this collection's formal end and naming Venerable Lakkhaṇa."},
+        {"q": "Who is the saṃyutta named after, according to its own colophon?",
+         "opts": [
+             "Venerable Lakkhaṇa, Moggallāna's questioning companion throughout the collection",
+             "Venerable Mahāmoggallāna himself",
+             "The Buddha directly",
+             "None of the participants; it is named after its central image"],
+         "correct": 0,
+         "expl": "Confirmed directly by the colophon's own wording, \"the Linked Discourses with Mark.\""},
+        {"q": "What sustained argument does this reading guide suggest the whole saṃyutta builds, read as a unit?",
+         "opts": [
+             "That visible karmic consequence extends across every kind of wrongdoer, confirmed at every step by the Buddha's own testimony",
+             "That only animal-killers ever face any consequence",
+             "That karmic consequence applies only to laypeople, never the ordained",
+             "That the saṃyutta makes no unified argument at all"],
+         "correct": 0,
+         "expl": "Animal-killers, hunters, adulterers, sorcerers, a queen, an executioner, and every rank of the ordained community."},
+        {"q": "What was this being's past occupation, according to the Buddha?",
+         "opts": [
+             "A bad novice nun in the time of the Buddha Kassapa's dispensation",
+             "A cattle butcher in contemporary Rājagaha",
+             "A corrupt village headman",
+             "No past occupation is given"],
+         "correct": 0,
+         "expl": "Completing the fivefold monastic sequence with its final rank."},
+        {"q": "What does this being's current apparition represent, according to the discourse?",
+         "opts": [
+             "A residual consequence following many hundreds of thousands of years already suffered in hell",
+             "The very first and only consequence of the past deed",
+             "A permanent, unchanging state with no prior history",
+             "No relationship to any prior suffering is described"],
+         "correct": 0,
+         "expl": "Matching SN 19.1's structure of primary hell-suffering followed by residual manifestation."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Near Rājagaha, on Vulture's Peak Mountain",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Varanasi, at Isipatana's deer park",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared throughout this saṃyutta, given in full detail here as in SN 19.1."},
+        {"q": "What position does this discourse hold in the saṃyutta?",
+         "opts": [
+             "The twenty-first and final discourse, closing both Dutiyavagga and the entire saṃyutta",
+             "The first discourse of an entirely new saṃyutta",
+             "The eleventh discourse, at the midpoint",
+             "It does not belong to this saṃyutta"],
+         "correct": 0,
+         "expl": "Marked at its close by the vagga's end and the saṃyutta's own translated colophon."},
+    ],
+    marginalia=[
+        ("Fullness restored for the actual close", [
+            "after four brief discourses, this one given in full &mdash;",
+            "completeness reserved for where it matters most",
+        ]),
+        ("Every rank, now genuinely covered", [
+            "monk, nun, trainee, novice, novice &mdash;",
+            "both ordination paths traced to their final step",
+        ]),
+        ("The same reasoning, given twice across the whole collection", [
+            "silence explained once at the start, again at the end &mdash;",
+            "one justification framing everything between",
+        ]),
+        ("Twenty-one discourses making one sustained case", [
+            "butchers, hunters, a queen, every ordained rank &mdash;",
+            "no wrongdoer exempted, no consequence left unconfirmed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn19.21/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-19.20.html">SN 19.20 &middot; A Bad Novice '
+        "Monk</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-19.1.html">SN 19.1 &middot; A Skeleton</a> '
+        "&mdash; this saṃyutta's opening discourse, whose complete "
+        "frame narrative and reasoning this closing discourse "
+        "restores in full.",
+    ],
+)
