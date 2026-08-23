@@ -27141,3 +27141,1764 @@ page(22, 125, "Dutiyakappa", "With Kappa (2nd)",
         "fulfills.",
     ],
 )
+
+page(22, 126, "Uppāda", "Liable to Originate",
+    vagga="Avijjāvagga",
+    meta_title="SN 22.126 · Liable to Originate — A New Criterion for Ignorance",
+    meta_desc="Ignorance and knowledge both defined in one discourse, "
+        "through a criterion not used before in this book: truly "
+        "understanding each aggregate as liable to originate, liable to "
+        "vanish, and liable to both. Saṃyutta Nikāya 22.126, opening "
+        "Avijjāvagga, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "An unnamed mendicant questioning the Buddha; both ignorance and knowledge answered in one discourse"),
+        ("Form", "Two sequential question-and-answer exchanges within a single discourse"),
+        ("Length", "Medium — both the ignorance and knowledge definitions given in full"),
+        ("Northern parallel", "The \"liable to originate/vanish\" (samudayadhamma/vayadhamma) formula recurs elsewhere in the Canon in similar contexts of arising and passing"),
+        ("Difficulty", "Moderate — the threefold originate/vanish/both criterion is more granular than this book's usual three-mark formula"),
+    ],
+    why=("Opens Avijjāvagga (\"Ignorance\") by returning to the same basic "
+        "question asked at SN 22.113-114 — what is ignorance, what is "
+        "knowledge — but now answered with a new, more granular "
+        "criterion never used before in this book: not merely origin and "
+        "cessation, but three distinct failures to see an aggregate as "
+        "liable to originate, liable to vanish, and liable to both."),
+    guide=[
+        ("The same question, asked once more", [
+            "A mendicant approaches the Buddha with the identical opening "
+            "question already asked at SN 22.113: \"they speak of this "
+            "thing called 'ignorance'. What is ignorance? And how is an "
+            "ignoramus defined?\" — though this time the same mendicant "
+            "also asks about knowledge within the same discourse, rather "
+            "than across two separate ones.",
+        ]),
+        ("A threefold criterion, more granular than origin and cessation", [
+            "\"It's when an unlearned ordinary person doesn't truly "
+            "understand form, which is liable to originate, as form "
+            "which is liable to originate\" — the first of three "
+            "distinct failures, followed by an identical failure "
+            "regarding form \"liable to vanish,\" and a third regarding "
+            "form \"liable to originate and vanish.\"",
+            "This is a more granular criterion than SN 22.113's simple "
+            "\"origin, cessation\" pairing: rather than treating arising "
+            "and passing as a single package to be understood together, "
+            "this discourse insists on three separate failures of "
+            "recognition — failing to see the liability to arise, "
+            "failing to see the liability to pass, and failing to see "
+            "both together as a single combined characteristic.",
+        ]),
+        ("Both ignorance and knowledge, in a single discourse", [
+            "Unlike SN 22.113-114's separate treatment, this discourse "
+            "gives both definitions back to back: the mendicant, having "
+            "heard the definition of ignorance, immediately asks the "
+            "identical question about knowledge, and receives the "
+            "precise inversion — \"truly understands\" replacing "
+            "\"doesn't truly understand\" — within the same exchange.",
+        ]),
+        ("Opening a vagga of criterion variations", [
+            "Avijjāvagga's own organizing principle becomes visible only "
+            "across its full ten discourses: each pair or set returns to "
+            "the same basic ignorance/knowledge question, but answers it "
+            "through a different technical criterion — this discourse's "
+            "originate/vanish/both, then the gratification/drawback/"
+            "escape triad, then the fuller five-point origin/"
+            "disappearance/gratification/drawback/escape formula, and "
+            "finally SN 22.113's own four-point origin/cessation/"
+            "practice formula returning to close the vagga.",
+        ]),
+    ],
+    terms=[
+        ("avijjā", "ignorance — the term this vagga takes its name from, defined here through a new criterion"),
+        ("uppādadhamma", "liable to originate — the first of three distinct failures named in this discourse's criterion"),
+        ("vayadhamma", "liable to vanish — the second failure, distinguished from the first"),
+        ("uppādavayadhamma", "liable to originate and vanish — the third, naming the combined characteristic as its own distinct object of understanding"),
+        ("yathābhūtaṁ nappajānāti", "\"doesn't truly understand\" — the precise phrase marking each of the three failures"),
+    ],
+    text_intro=("The complete discourse: the ignorance question and its threefold "
+        "answer, then the knowledge question and its precise inversion. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.126:1.1-1.5"),
+        ("p", "§2", "sn22.126:2.1-2.15"),
+        ("p", "§3", "sn22.126:3.1-3.4"),
+        ("p", "§4", "sn22.126:4.1-4.15"),
+    ],
+    quiz=[
+        {"q": "What question does the mendicant ask, matching an earlier discourse in this book?",
+         "opts": [
+             "What is ignorance, and how is an ignoramus defined?",
+             "What is the origin of the universe?",
+             "How many mendicants are in the assembly?",
+             "What is the Buddha's own name?"],
+         "correct": 0,
+         "expl": "The identical opening question already asked at SN 22.113."},
+        {"q": "How many distinct failures does this discourse's criterion name?",
+         "opts": ["Three", "One", "Five", "Eleven"],
+         "correct": 0,
+         "expl": "Liable to originate, liable to vanish, and liable to both — treated as three separate failures."},
+        {"q": "What is the first failure named in the criterion?",
+         "opts": [
+             "Not truly understanding an aggregate as liable to originate",
+             "Not understanding the four noble truths",
+             "Not knowing the aggregate's name",
+             "Not seeing an aggregate as permanent"],
+         "correct": 0,
+         "expl": "The first of three distinct failures of recognition."},
+        {"q": "How does this criterion compare to SN 22.113's simpler origin/cessation pairing?",
+         "opts": [
+             "It is more granular, treating arising, passing, and their combination as three separate failures",
+             "It is identical in every respect",
+             "It is much simpler, with only one point instead of four",
+             "It removes any reference to origin or cessation"],
+         "correct": 0,
+         "expl": "Rather than a single combined package, three distinct recognitions are required."},
+        {"q": "How does this discourse structure the questions about ignorance and knowledge?",
+         "opts": [
+             "Both are asked and answered within a single discourse, back to back",
+             "Only ignorance is addressed, with knowledge left for a later discourse",
+             "Only knowledge is addressed",
+             "The two questions are asked by two different mendicants"],
+         "correct": 0,
+         "expl": "Unlike SN 22.113-114's separate treatment across two discourses."},
+        {"q": "What does the discourse's definition of knowledge do to the ignorance definition?",
+         "opts": [
+             "Precisely inverts it, with \"truly understands\" replacing \"doesn't truly understand\"",
+             "Contradicts it entirely",
+             "Adds several new criteria not present in the ignorance definition",
+             "Simplifies it significantly"],
+         "correct": 0,
+         "expl": "The identical threefold criterion, inverted."},
+        {"q": "What organizing principle does Avijjāvagga follow across its ten discourses?",
+         "opts": [
+             "Returning to the same basic ignorance/knowledge question, answered through different technical criteria each time",
+             "Ten entirely unrelated teachings with no shared theme",
+             "A single narrative followed from beginning to end",
+             "Ten similes for the five aggregates"],
+         "correct": 0,
+         "expl": "Each pair or set uses a different criterion — this discourse's own, then others to follow."},
+        {"q": "How many aggregates does this threefold criterion apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, following the standard pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Varanasi", "Rājagaha", "Vesālī"],
+         "correct": 0,
+         "expl": "The setting shifts to Varanasi for most of the remaining discourses in this vagga."},
+        {"q": "What vagga does this discourse open?",
+         "opts": ["Avijjāvagga", "Dhammakathikavagga", "Antavagga", "Kukkuḷavagga"],
+         "correct": 0,
+         "expl": "SN 22.126 opens Book III's thirteenth vagga, named for the \"ignorance\" theme running through it."},
+    ],
+    marginalia=[
+        ("A familiar question, a new criterion", [
+            "originate, vanish, and both together &mdash;",
+            "three failures where SN 22.113 named one pairing",
+        ]),
+        ("Ignorance and knowledge, in one breath", [
+            "both questions asked within a single exchange &mdash;",
+            "the inversion given immediately, not across two discourses",
+        ]),
+        ("A vagga organized by criterion, not by narrative", [
+            "the same question, answered differently each time &mdash;",
+            "originate/vanish here, gratification/drawback/escape to come",
+        ]),
+        ("Opening the book's own \"ignorance\" vagga", [
+            "Avijjāvagga begins here &mdash;",
+            "nine more variations on this same basic question follow",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.126/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.125.html">SN 22.125 &middot; With Kappa (2nd)</a> '
+        "&mdash; the previous discourse, closing Dhammakathikavagga.",
+        '<a href="sn-22.113.html">SN 22.113 &middot; Ignorance</a> '
+        "&mdash; the earlier discourse asking this same basic question, "
+        "through the simpler origin/cessation criterion this discourse "
+        "sharpens.",
+    ],
+)
+
+page(22, 127, "Dutiyauppāda", "Liable to Originate (2nd)",
+    vagga="Avijjāvagga",
+    meta_title="SN 22.127 · Liable to Originate (2nd) — Koṭṭhita Asks Sāriputta",
+    meta_desc="The same originate/vanish criterion as SN 22.126, now "
+        "asked between two senior disciples at Isipatana, addressing "
+        "ignorance alone. Saṃyutta Nikāya 22.127, with Pāli.",
+    glance=[
+        ("Setting", "Varanasi, in the deer park at Isipatana"),
+        ("Speakers", "Venerable Mahākoṭṭhita questioning Venerable Sāriputta"),
+        ("Form", "A single question-and-answer exchange, addressing ignorance alone"),
+        ("Length", "Short — more compressed than SN 22.126, with elisions throughout"),
+        ("Northern parallel", "Shares its criterion with SN 22.126"),
+        ("Difficulty", "Approachable — best read directly after SN 22.126"),
+    ],
+    why=("Moves the same originate/vanish criterion from a mendicant "
+        "questioning the Buddha to Mahākoṭṭhita questioning Sāriputta at "
+        "Isipatana — the same deer park setting as SN 22.122-123 earlier "
+        "in this book — now addressing ignorance alone rather than "
+        "ignorance and knowledge together."),
+    guide=[
+        ("A shift in speakers, a return to a familiar setting", [
+            "\"Venerable Sāriputta and Venerable Mahākoṭṭhita were "
+            "staying near Varanasi, in the deer park at Isipatana\" — "
+            "the identical setting and speaker pair as SN 22.122-123, "
+            "confirming Isipatana as this book's recurring venue for "
+            "dialogues between the Buddha's two chief disciples.",
+        ]),
+        ("The identical criterion, compressed", [
+            "\"An unlearned ordinary person doesn't truly understand "
+            "form, which is liable to originate ... liable to vanish ... "
+            "liable to originate and vanish, as form which is liable to "
+            "originate and vanish\" — the same threefold criterion as "
+            "SN 22.126, but now compressed with ellipses into a single "
+            "flowing sentence rather than three separately stated "
+            "failures.",
+        ]),
+        ("Splitting what SN 22.126 combined", [
+            "Where SN 22.126 addressed both ignorance and knowledge "
+            "within one discourse, this discourse addresses ignorance "
+            "alone, with knowledge left for its own separate companion "
+            "discourse, SN 22.128 — the split-pair pattern already "
+            "familiar from SN 22.113-114, SN 22.129-130, and SN "
+            "22.131-132.",
+        ]),
+        ("A pattern now visible across the vagga", [
+            "This discourse establishes the format that SN 22.129-130 "
+            "and SN 22.131-132 will each follow in turn: Koṭṭhita asks "
+            "Sāriputta about ignorance in one discourse using a given "
+            "criterion, then asks about knowledge in the next using the "
+            "identical criterion — the same dialogue structure, cycling "
+            "through this vagga's several different technical formulas.",
+        ]),
+    ],
+    terms=[
+        ("uppādadhamma/vayadhamma/uppādavayadhamma", "liable to originate / liable to vanish / liable to originate and vanish — the same threefold criterion as SN 22.126, now compressed"),
+        ("Isipatana", "the deer park near Varanasi where the Buddha gave his first sermon, and the recurring setting for Sāriputta-Koṭṭhita dialogues in this book"),
+        ("āvuso", "\"Reverend\" — the term of address between senior monks, replacing the Buddha's own \"Mendicant\" from SN 22.126"),
+        ("avijjā", "ignorance — the sole subject of this discourse, unlike SN 22.126's combined treatment"),
+        ("aviddasu", "an ignoramus — the person this discourse defines"),
+    ],
+    text_intro=("The complete discourse, addressing ignorance alone through the "
+        "same criterion as SN 22.126, now compressed. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.127:1.1-1.5"),
+        ("p", "§2", "sn22.127:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "Where is this discourse set, matching an earlier dialogue in this book?",
+         "opts": [
+             "Varanasi, in the deer park at Isipatana",
+             "Sāvatthī, in Jeta's Grove",
+             "Rājagaha, on the Vulture's Peak",
+             "Kosambī, in Ghosita's Monastery"],
+         "correct": 0,
+         "expl": "The identical setting as SN 22.122-123's own Sāriputta-Koṭṭhita dialogue."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Mahākoṭṭhita questioning Venerable Sāriputta",
+             "The Buddha and an unnamed mendicant",
+             "Venerable Ānanda and Venerable Sāriputta",
+             "Venerable Kappa and the Buddha"],
+         "correct": 0,
+         "expl": "Shifting from SN 22.126's Buddha-and-mendicant exchange to a dialogue between two chief disciples."},
+        {"q": "What criterion does this discourse use to define ignorance?",
+         "opts": [
+             "The same originate/vanish/both criterion as SN 22.126",
+             "An entirely new criterion not seen before",
+             "The four noble truths",
+             "The eleven-angled reflection from SN 22.122"],
+         "correct": 0,
+         "expl": "Compressed with ellipses rather than stated in three full separate sentences."},
+        {"q": "Does this discourse address both ignorance and knowledge, like SN 22.126?",
+         "opts": [
+             "No — only ignorance, with knowledge left to a separate companion discourse",
+             "Yes — both are addressed identically to SN 22.126",
+             "No — only knowledge is addressed",
+             "The discourse addresses neither"],
+         "correct": 0,
+         "expl": "Splitting what SN 22.126 combined into one discourse."},
+        {"q": "What discourse is this discourse's direct companion, addressing knowledge with the same criterion?",
+         "opts": [
+             "SN 22.128, \"Liable to Originate (3rd)\"",
+             "SN 22.126, \"Liable to Originate\"",
+             "SN 22.129, \"Gratification\"",
+             "SN 22.135, closing the vagga"],
+         "correct": 0,
+         "expl": "The next discourse in the vagga, mirroring this discourse's structure with knowledge in place of ignorance."},
+        {"q": "What pattern does this discourse establish for the rest of the vagga?",
+         "opts": [
+             "Koṭṭhita asking Sāriputta about ignorance and knowledge in separate discourses, cycling through different criteria",
+             "The Buddha always as the sole speaker throughout the vagga",
+             "Every discourse combining ignorance and knowledge in one text",
+             "No repeating pattern at all"],
+         "correct": 0,
+         "expl": "A structure that SN 22.129-130 and SN 22.131-132 will each follow with different criteria."},
+        {"q": "What term of address replaces the Buddha's \"Mendicant\" from SN 22.126?",
+         "opts": [
+             "\"Reverend\" (āvuso), used between senior monks",
+             "\"Venerable Sir\"",
+             "\"Friend\" used only by laypeople",
+             "No term of address is used at all"],
+         "correct": 0,
+         "expl": "Marking the shift from a teacher-student exchange to a peer dialogue."},
+        {"q": "How many aggregates does this criterion apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, compressed with ellipses in this discourse."},
+        {"q": "What does Isipatana's recurrence as a setting in this book suggest?",
+         "opts": [
+             "It functions as a recurring venue for dialogues between the Buddha's two chief disciples",
+             "It is mentioned only once in the entire book",
+             "It has no particular significance as a setting",
+             "It is where the Buddha himself always resides"],
+         "correct": 0,
+         "expl": "Shared with SN 22.122-123's own extended dialogue."},
+        {"q": "How does this discourse's length compare to SN 22.126's?",
+         "opts": [
+             "Shorter, more compressed with elisions throughout",
+             "Longer, with additional material not in SN 22.126",
+             "Exactly the same length",
+             "This discourse has no text at all"],
+         "correct": 0,
+         "expl": "Addressing only ignorance, and compressing the threefold criterion into elided phrasing."},
+    ],
+    marginalia=[
+        ("A familiar venue, a new dialogue", [
+            "Isipatana, shared with SN 22.122-123 &mdash;",
+            "the Buddha's two chief disciples in conversation again",
+        ]),
+        ("The same criterion, now compressed", [
+            "originate, vanish, and both &mdash;",
+            "stated in one flowing, elided sentence",
+        ]),
+        ("Splitting what the opening discourse combined", [
+            "ignorance alone this time &mdash;",
+            "knowledge left for its own separate companion",
+        ]),
+        ("Establishing this vagga's recurring shape", [
+            "Koṭṭhita asks, Sāriputta answers &mdash;",
+            "the same structure to recur with each new criterion",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.127/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.126.html">SN 22.126 &middot; Liable to '
+        "Originate</a> &mdash; the previous discourse, this discourse's "
+        "own source for the shared criterion.",
+        '<a href="sn-22.128.html">SN 22.128 &middot; Liable to '
+        "Originate (3rd)</a> &mdash; the next discourse, this "
+        "discourse's own direct companion, addressing knowledge.",
+    ],
+)
+
+page(22, 128, "Tatiyauppāda", "Liable to Originate (3rd)",
+    vagga="Avijjāvagga",
+    meta_title="SN 22.128 · Liable to Originate (3rd) — Completing the Pair",
+    meta_desc="The companion to SN 22.127: the same originate/vanish "
+        "criterion, now defining knowledge rather than ignorance. "
+        "Saṃyutta Nikāya 22.128, with Pāli.",
+    glance=[
+        ("Setting", "Varanasi, in the deer park at Isipatana"),
+        ("Speakers", "Venerable Mahākoṭṭhita questioning Venerable Sāriputta"),
+        ("Form", "The identical structure as SN 22.127, with knowledge replacing ignorance"),
+        ("Length", "Short — matching SN 22.127's own length"),
+        ("Northern parallel", "Shares its structure and criterion with SN 22.127"),
+        ("Difficulty", "Approachable — best read directly after SN 22.127"),
+    ],
+    why=("The direct companion to SN 22.127, completing the pair: the "
+        "identical originate/vanish/both criterion, now defining "
+        "knowledge with \"truly understands\" replacing \"doesn't truly "
+        "understand\" — the same precise inversion pattern already seen "
+        "at SN 22.113-114."),
+    guide=[
+        ("Completing the pair", [
+            "\"A learned noble disciple truly understands form, which is "
+            "liable to originate ... liable to vanish ... liable to "
+            "originate and vanish, as form which is liable to originate "
+            "and vanish\" — the exact inversion of SN 22.127's own "
+            "definition, with the same compressed, elided phrasing.",
+        ]),
+        ("Three discourses, one criterion, fully explored", [
+            "Together, SN 22.126, 127, and 128 exhaust every way this "
+            "vagga's opening criterion can be presented: combined in one "
+            "discourse (126), then split across two with ignorance first "
+            "(127) and knowledge following (128) — establishing the full "
+            "range of presentation this vagga will use for its remaining "
+            "criteria as well.",
+        ]),
+        ("Why this variation matters beyond mere repetition", [
+            "Reading all three discourses together demonstrates that "
+            "neither the combined format nor the split format changes "
+            "the underlying content — the criterion and its inversion "
+            "remain identical regardless of how many discourses the "
+            "material is divided across, reinforcing that content and "
+            "presentation are genuinely separable in this collection's "
+            "method.",
+        ]),
+        ("Moving to a new criterion", [
+            "With the originate/vanish criterion now fully explored "
+            "across three discourses, Avijjāvagga turns next to SN "
+            "22.129-130, applying the gratification/drawback/escape "
+            "triad — already familiar from SN 22.26-28 and SN 22.107-108 "
+            "earlier in this book — to the same basic ignorance/"
+            "knowledge question.",
+        ]),
+    ],
+    terms=[
+        ("vijjā", "knowledge — this discourse's own subject, completing SN 22.127's ignorance definition"),
+        ("uppādadhamma/vayadhamma/uppādavayadhamma", "liable to originate / liable to vanish / liable to originate and vanish — the shared criterion across all three discourses in this opening set"),
+        ("viddasu", "a knowing one — the person this discourse defines"),
+        ("sutavā ariyasāvako", "a learned noble disciple — the subject who understands, replacing SN 22.127's \"unlearned ordinary person\""),
+        ("pajānāti", "understands — the single inverted verb carrying the whole difference from SN 22.127"),
+    ],
+    text_intro=("The complete discourse, mirroring SN 22.127's structure exactly "
+        "with knowledge replacing ignorance. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.128:1.1-1.5"),
+        ("p", "§2", "sn22.128:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 22.127?",
+         "opts": [
+             "An exact structural mirror, with knowledge replacing ignorance",
+             "An unrelated teaching on a different topic",
+             "A direct contradiction of SN 22.127's definition",
+             "A much longer, more elaborate discourse"],
+         "correct": 0,
+         "expl": "Completing the pair with the identical criterion inverted."},
+        {"q": "What single verb change carries the entire difference from SN 22.127?",
+         "opts": [
+             "\"Truly understands\" replacing \"doesn't truly understand\"",
+             "\"Sees\" replacing \"hears\"",
+             "\"Speaks\" replacing \"listens\"",
+             "\"Practices\" replacing \"teaches\""],
+         "correct": 0,
+         "expl": "The same precise inversion pattern already seen at SN 22.113-114."},
+        {"q": "What do SN 22.126, 127, and 128 together demonstrate about presentation?",
+         "opts": [
+             "Neither combining nor splitting the material changes the underlying content",
+             "Combined and split versions contain contradictory teachings",
+             "Only the combined version (126) is authoritative",
+             "Only the split versions (127-128) are authoritative"],
+         "correct": 0,
+         "expl": "Content and presentation are genuinely separable in this collection's method."},
+        {"q": "What criterion do all three of these discourses share?",
+         "opts": [
+             "Liable to originate, liable to vanish, and liable to both",
+             "The four noble truths",
+             "The eleven-angled reflection",
+             "The gratification/drawback/escape triad"],
+         "correct": 0,
+         "expl": "This vagga's opening criterion, fully explored across three discourses."},
+        {"q": "What criterion does Avijjāvagga turn to next, after this discourse?",
+         "opts": [
+             "The gratification/drawback/escape triad, in SN 22.129-130",
+             "The eleven-angled reflection from SN 22.122",
+             "A return to the originate/vanish criterion",
+             "The near/far shore metaphor"],
+         "correct": 0,
+         "expl": "Already familiar from SN 22.26-28 and SN 22.107-108 earlier in this book."},
+        {"q": "Who is the subject of this discourse's definition?",
+         "opts": [
+             "A learned noble disciple",
+             "An unlearned ordinary person",
+             "A wheel-turning monarch",
+             "The Buddha himself exclusively"],
+         "correct": 0,
+         "expl": "The precise counterpart subject to SN 22.127's \"unlearned ordinary person.\""},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Varanasi, in the deer park at Isipatana",
+             "Sāvatthī, in Jeta's Grove",
+             "Rājagaha, on the Vulture's Peak",
+             "Kosambī, in Ghosita's Monastery"],
+         "correct": 0,
+         "expl": "Matching SN 22.127's own setting."},
+        {"q": "How many aggregates does this criterion apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, as throughout this vagga."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Mahākoṭṭhita questioning Venerable Sāriputta",
+             "The Buddha and an unnamed mendicant",
+             "Venerable Ānanda and Venerable Sāriputta",
+             "Venerable Kappa and the Buddha"],
+         "correct": 0,
+         "expl": "Matching SN 22.127's own speaker pair."},
+        {"q": "What does completing this three-discourse opening set accomplish for the vagga as a whole?",
+         "opts": [
+             "Establishing the full range of presentation formats this vagga will use for its remaining criteria",
+             "Concluding the vagga entirely with no further discourses",
+             "Introducing a topic unrelated to the rest of the vagga",
+             "Contradicting the vagga's own stated theme"],
+         "correct": 0,
+         "expl": "A pattern of combined and split presentations that recurs across the vagga's remaining criteria."},
+    ],
+    marginalia=[
+        ("Completing the opening pair", [
+            "the identical criterion, inverted once more &mdash;",
+            "\"truly understands\" replacing its own negation",
+        ]),
+        ("Three discourses, one lesson about presentation", [
+            "combined, then split into two &mdash;",
+            "content unchanged either way",
+        ]),
+        ("A criterion fully explored", [
+            "originate, vanish, both together &mdash;",
+            "given every treatment this vagga allows",
+        ]),
+        ("Toward a familiar triad", [
+            "gratification, drawback, escape to come &mdash;",
+            "SN 22.129-130 apply a different lens next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.128/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.127.html">SN 22.127 &middot; Liable to '
+        "Originate (2nd)</a> &mdash; the previous discourse, this "
+        "discourse's own direct companion.",
+        '<a href="sn-22.129.html">SN 22.129 &middot; Gratification</a> '
+        "&mdash; the next discourse, applying the familiar "
+        "gratification/drawback/escape triad to this same question.",
+    ],
+)
+
+page(22, 129, "Assāda", "Gratification",
+    vagga="Avijjāvagga",
+    meta_title="SN 22.129 · Gratification — Ignorance Through the Familiar Triad",
+    meta_desc="The gratification/drawback/escape triad, already familiar "
+        "from earlier in this book, now applied to define ignorance in "
+        "the recurring Sāriputta-Koṭṭhita dialogue. Saṃyutta Nikāya "
+        "22.129, with Pāli.",
+    glance=[
+        ("Setting", "Varanasi"),
+        ("Speakers", "Venerable Mahākoṭṭhita questioning Venerable Sāriputta"),
+        ("Form", "A single question-and-answer exchange, addressing ignorance alone"),
+        ("Length", "Very short — the most compressed criterion used in this vagga"),
+        ("Northern parallel", "The gratification/drawback/escape triad recurs throughout this book, most fully at SN 22.26-28"),
+        ("Difficulty", "Approachable — the triad itself is already familiar from earlier discourses"),
+    ],
+    why=("Applies this book's most recognizable triad — gratification, "
+        "drawback, and escape — to the recurring ignorance/knowledge "
+        "question, in the most compressed form yet: no verb-by-verb "
+        "elaboration across each aggregate, simply a bare list of five "
+        "aggregates followed by the single missing understanding."),
+    guide=[
+        ("A shift to Varanasi alone, without naming Isipatana", [
+            "\"At Varanasi\" — a briefer setting notice than SN 22.127's "
+            "full \"near Varanasi, in the deer park at Isipatana,\" "
+            "though the same two speakers and implied location continue.",
+        ]),
+        ("The triad, stated once, applied to all five aggregates together", [
+            "\"An unlearned ordinary person doesn't truly understand the "
+            "gratification, the drawback, and the escape when it comes "
+            "to form, feeling, perception, choices, and consciousness\" "
+            "— the triad given only once, then the five aggregates "
+            "simply listed one after another rather than each receiving "
+            "its own restated definition.",
+            "This is the most compressed presentation yet in this vagga "
+            "— even more economical than SN 22.127's elided but still "
+            "aggregate-by-aggregate treatment of the originate/vanish "
+            "criterion.",
+        ]),
+        ("Why this triad needs no further explanation here", [
+            "Unlike the originate/vanish criterion introduced fresh at "
+            "SN 22.126, the gratification/drawback/escape triad has "
+            "already received extensive treatment earlier in this book "
+            "— most fully at SN 22.26-28, and referenced again at SN "
+            "22.107-108 — so this discourse can simply name it and move "
+            "on, trusting the reader's accumulated familiarity.",
+        ]),
+        ("Setting up its own companion", [
+            "This discourse addresses ignorance alone; SN 22.130, its "
+            "direct companion, will apply the identical triad to define "
+            "knowledge, completing the pair exactly as SN 22.127-128 did "
+            "for the originate/vanish criterion.",
+        ]),
+    ],
+    terms=[
+        ("assāda", "gratification — the first of the triad, giving this discourse its title"),
+        ("ādīnava", "drawback — the second of the triad"),
+        ("nissaraṇa", "escape — the third of the triad"),
+        ("avijjā", "ignorance — defined here as the failure to understand this triad regarding each aggregate"),
+        ("Bārāṇasī", "Varanasi — this discourse's own brief setting notice, without repeating the fuller Isipatana description"),
+    ],
+    text_intro=("The complete discourse, applying the gratification/drawback/"
+        "escape triad to define ignorance in its most compressed form yet. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.129:1.1-1.5"),
+        ("p", "§2", "sn22.129:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What triad does this discourse use to define ignorance?",
+         "opts": [
+             "Gratification, drawback, and escape",
+             "Origin, cessation, and path",
+             "Past, future, and present",
+             "Internal, external, and both"],
+         "correct": 0,
+         "expl": "This book's most recognizable triad, already familiar from SN 22.26-28."},
+        {"q": "How does this discourse present the triad across the five aggregates?",
+         "opts": [
+             "The triad is stated once, then the five aggregates are simply listed one after another",
+             "Each aggregate receives its own full restatement of the triad",
+             "Only form is addressed, with the other aggregates omitted",
+             "The triad is given five different times with variations"],
+         "correct": 0,
+         "expl": "The most compressed presentation yet in this vagga."},
+        {"q": "Why does this discourse not re-explain the triad in detail?",
+         "opts": [
+             "It has already received extensive treatment earlier in this book, most fully at SN 22.26-28",
+             "The triad is being introduced here for the first time",
+             "The triad is considered unimportant in this context",
+             "The discourse actually uses a different, unrelated formula"],
+         "correct": 0,
+         "expl": "Trusting the reader's accumulated familiarity from earlier discourses."},
+        {"q": "How does this discourse's setting notice differ from SN 22.127's?",
+         "opts": [
+             "Briefer — simply \"At Varanasi\" rather than the fuller Isipatana description",
+             "Entirely different, naming a new location",
+             "Longer, with additional detail",
+             "Identical in every respect"],
+         "correct": 0,
+         "expl": "A more economical setting notice, though the same speakers and implied location continue."},
+        {"q": "What discourse is this discourse's direct companion, addressing knowledge with the same triad?",
+         "opts": [
+             "SN 22.130, \"Gratification (2nd)\"",
+             "SN 22.126, \"Liable to Originate\"",
+             "SN 22.131, \"Origin\"",
+             "SN 22.135, closing the vagga"],
+         "correct": 0,
+         "expl": "Completing the pair exactly as SN 22.127-128 did for the previous criterion."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Mahākoṭṭhita questioning Venerable Sāriputta",
+             "The Buddha and an unnamed mendicant",
+             "Venerable Ānanda and Venerable Sāriputta",
+             "Venerable Kappa and the Buddha"],
+         "correct": 0,
+         "expl": "Continuing the same dialogue pair from SN 22.127-128."},
+        {"q": "How many aggregates does this triad apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, listed in sequence."},
+        {"q": "Where else in this book has the gratification/drawback/escape triad appeared?",
+         "opts": [
+             "SN 22.26-28 and SN 22.107-108",
+             "Only in this single discourse",
+             "SN 22.93-95, the similes for the aggregates",
+             "SN 22.1-11, the opening vagga"],
+         "correct": 0,
+         "expl": "Extensive earlier treatment this discourse can simply reference rather than repeat."},
+        {"q": "What is ignorance defined as, in this discourse?",
+         "opts": [
+             "Not truly understanding the gratification, drawback, and escape regarding each aggregate",
+             "A total absence of all knowledge whatsoever",
+             "A specific meditative state",
+             "The inability to recite scripture"],
+         "correct": 0,
+         "expl": "A precise application of the familiar triad to this vagga's recurring question."},
+        {"q": "What is the significance of using an already-familiar triad in this new context?",
+         "opts": [
+             "It demonstrates the triad's applicability beyond its original context to this vagga's own ignorance/knowledge question",
+             "It contradicts the triad's earlier use in this book",
+             "It replaces the need for the earlier discourses entirely",
+             "It has no particular significance"],
+         "correct": 0,
+         "expl": "One of several criteria this vagga systematically applies to the same basic question."},
+    ],
+    marginalia=[
+        ("A triad needing no introduction", [
+            "gratification, drawback, escape &mdash;",
+            "already established earlier in this book",
+        ]),
+        ("The most compressed treatment yet", [
+            "the triad named once, the aggregates simply listed &mdash;",
+            "no separate restatement for each",
+        ]),
+        ("Trusting accumulated familiarity", [
+            "SN 22.26-28's earlier work assumed here &mdash;",
+            "a settled term put to new use",
+        ]),
+        ("Setting up its own direct companion", [
+            "ignorance here, knowledge to follow &mdash;",
+            "the same triad, inverted once more",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.129/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.128.html">SN 22.128 &middot; Liable to '
+        "Originate (3rd)</a> &mdash; the previous discourse, closing "
+        "the opening criterion's three-discourse set.",
+        '<a href="sn-22.130.html">SN 22.130 &middot; Gratification '
+        "(2nd)</a> &mdash; the next discourse, this discourse's own "
+        "direct companion, addressing knowledge.",
+    ],
+)
+
+page(22, 130, "Dutiyaassāda", "Gratification (2nd)",
+    vagga="Avijjāvagga",
+    meta_title="SN 22.130 · Gratification (2nd) — Completing the Triad Pair",
+    meta_desc="The companion to SN 22.129: the same gratification/"
+        "drawback/escape triad, now defining knowledge instead of "
+        "ignorance. Saṃyutta Nikāya 22.130, with Pāli.",
+    glance=[
+        ("Setting", "Varanasi"),
+        ("Speakers", "Venerable Mahākoṭṭhita questioning Venerable Sāriputta"),
+        ("Form", "The identical structure as SN 22.129, with knowledge replacing ignorance"),
+        ("Length", "Very short — matching SN 22.129's own compression"),
+        ("Northern parallel", "Shares its structure and criterion with SN 22.129"),
+        ("Difficulty", "Approachable — best read directly after SN 22.129"),
+    ],
+    why=("Completes the gratification/drawback/escape pair begun by SN "
+        "22.129: the identical triad, now defining knowledge with the "
+        "learned noble disciple's true understanding replacing the "
+        "unlearned ordinary person's failure to understand."),
+    guide=[
+        ("The inversion, in the same compressed form", [
+            "\"A learned noble disciple truly understands the "
+            "gratification, the drawback, and the escape when it comes "
+            "to form, feeling, perception, choices, and consciousness\" "
+            "— the identical triad and the identical compressed listing "
+            "of all five aggregates, with only the subject and verb "
+            "inverted from SN 22.129.",
+        ]),
+        ("A second criterion, fully explored across a pair", [
+            "Where the vagga's opening criterion (originate/vanish) took "
+            "three discourses to fully present (combined, then split), "
+            "this second criterion (gratification/drawback/escape) needs "
+            "only two — a variation in economy that itself demonstrates "
+            "this vagga's flexibility in how much space any given "
+            "criterion requires.",
+        ]),
+        ("Why briefer treatment suits an already-established triad", [
+            "The originate/vanish criterion was new to this book at SN "
+            "22.126 and so warranted a fuller three-discourse "
+            "introduction; the gratification/drawback/escape triad "
+            "arrived already well established from SN 22.26-28 and "
+            "needed only the minimal two-discourse pairing this vagga "
+            "gives every criterion at minimum.",
+        ]),
+        ("Moving to the fullest criterion in this vagga", [
+            "Avijjāvagga turns next to SN 22.131-132, which combine "
+            "origin and disappearance with the same gratification/"
+            "drawback/escape triad into a single five-point formula — "
+            "the fullest and most comprehensive criterion this vagga "
+            "will apply to the ignorance/knowledge question.",
+        ]),
+    ],
+    terms=[
+        ("vijjā", "knowledge — this discourse's own subject, completing SN 22.129's ignorance definition"),
+        ("assāda/ādīnava/nissaraṇa", "gratification / drawback / escape — the shared triad across both discourses in this pair"),
+        ("viddasu", "a knowing one — the person this discourse defines"),
+        ("sutavā ariyasāvako", "a learned noble disciple — the subject who understands, replacing SN 22.129's \"unlearned ordinary person\""),
+        ("pajānāti", "understands — the inverted verb carrying the entire difference from SN 22.129"),
+    ],
+    text_intro=("The complete discourse, mirroring SN 22.129's structure exactly "
+        "with knowledge replacing ignorance. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.130:1.1-1.4"),
+        ("p", "§2", "sn22.130:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 22.129?",
+         "opts": [
+             "An exact structural mirror, with knowledge replacing ignorance",
+             "An unrelated teaching on a different topic",
+             "A direct contradiction of SN 22.129's definition",
+             "A much longer, more elaborate discourse"],
+         "correct": 0,
+         "expl": "Completing the pair with the identical triad inverted."},
+        {"q": "How many discourses does the gratification/drawback/escape criterion need to be fully presented in this vagga?",
+         "opts": [
+             "Two — this discourse and SN 22.129",
+             "Three, matching the originate/vanish criterion",
+             "One, combining ignorance and knowledge together",
+             "Five, one per aggregate"],
+         "correct": 0,
+         "expl": "A more economical treatment than the vagga's opening criterion."},
+        {"q": "Why does this criterion need fewer discourses than the originate/vanish criterion?",
+         "opts": [
+             "It arrived already well established from SN 22.26-28, unlike the newly introduced originate/vanish criterion",
+             "It is considered less important than the originate/vanish criterion",
+             "It applies to fewer aggregates",
+             "There is no meaningful difference in treatment"],
+         "correct": 0,
+         "expl": "A criterion new to the book warranted fuller introduction; an established one needed only the minimal pairing."},
+        {"q": "What is knowledge defined as, in this discourse?",
+         "opts": [
+             "Truly understanding the gratification, drawback, and escape regarding each aggregate",
+             "Memorizing the entire scripture",
+             "A specific meditative absorption",
+             "Skill in debate"],
+         "correct": 0,
+         "expl": "The precise inversion of SN 22.129's definition of ignorance."},
+        {"q": "What criterion does Avijjāvagga turn to next, after this pair?",
+         "opts": [
+             "A five-point formula combining origin, disappearance, gratification, drawback, and escape, in SN 22.131-132",
+             "A return to the originate/vanish criterion",
+             "The eleven-angled reflection from SN 22.122",
+             "The near/far shore metaphor"],
+         "correct": 0,
+         "expl": "The fullest and most comprehensive criterion this vagga will apply."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Mahākoṭṭhita questioning Venerable Sāriputta",
+             "The Buddha and an unnamed mendicant",
+             "Venerable Ānanda and Venerable Sāriputta",
+             "Venerable Kappa and the Buddha"],
+         "correct": 0,
+         "expl": "Matching SN 22.129's own speaker pair."},
+        {"q": "How many aggregates does this triad apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, listed in sequence."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Varanasi", "Sāvatthī", "Rājagaha", "Vesālī"],
+         "correct": 0,
+         "expl": "Matching SN 22.129's own setting."},
+        {"q": "What does the varying number of discourses per criterion demonstrate about this vagga?",
+         "opts": [
+             "Flexibility in how much space any given criterion requires, depending on its prior familiarity",
+             "An inconsistent or careless approach to organization",
+             "That only some criteria are doctrinally valid",
+             "No meaningful pattern at all"],
+         "correct": 0,
+         "expl": "Three discourses for a new criterion, two for an already-established one."},
+        {"q": "What subject replaces \"unlearned ordinary person\" in this discourse's definition?",
+         "opts": [
+             "A learned noble disciple",
+             "A wheel-turning monarch",
+             "An ascetic or brahmin",
+             "The Buddha himself exclusively"],
+         "correct": 0,
+         "expl": "The precise counterpart subject for someone who understands."},
+    ],
+    marginalia=[
+        ("Completing a briefer pair", [
+            "only two discourses needed this time &mdash;",
+            "the triad already settled before this vagga began",
+        ]),
+        ("Inversion, once more", [
+            "\"truly understands\" replacing its negation &mdash;",
+            "the identical triad, the identical five aggregates",
+        ]),
+        ("Economy matched to familiarity", [
+            "a new criterion needs more room &mdash;",
+            "an established one needs only the minimum",
+        ]),
+        ("Toward the fullest formula in this vagga", [
+            "origin and disappearance joining the triad &mdash;",
+            "SN 22.131-132 combine everything into five points",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.130/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.129.html">SN 22.129 &middot; Gratification</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "companion.",
+        '<a href="sn-22.131.html">SN 22.131 &middot; Origin</a> '
+        "&mdash; the next discourse, combining this triad with origin "
+        "and disappearance into a fuller five-point formula.",
+    ],
+)
+
+page(22, 131, "Samudaya", "Origin",
+    vagga="Avijjāvagga",
+    meta_title="SN 22.131 · Origin — The Fullest Formula in This Vagga",
+    meta_desc="Origin, disappearance, gratification, drawback, and "
+        "escape combined into a single five-point criterion, defining "
+        "ignorance — the most comprehensive formula in Avijjāvagga. "
+        "Saṃyutta Nikāya 22.131, with Pāli.",
+    glance=[
+        ("Setting", "Varanasi"),
+        ("Speakers", "Venerable Mahākoṭṭhita questioning Venerable Sāriputta"),
+        ("Form", "A single question-and-answer exchange, addressing ignorance alone"),
+        ("Length", "Short — five points named together in one compact list"),
+        ("Northern parallel", "This same five-point formula was used to define stream-entry and arahantship at SN 22.109-110 earlier in this book"),
+        ("Difficulty", "Moderate — combining two criteria already seen separately into one comprehensive list"),
+    ],
+    why=("Combines this vagga's two prior criteria into one: origin and "
+        "disappearance from the originate/vanish material, joined with "
+        "the gratification/drawback/escape triad, into a single "
+        "five-point formula — the same comprehensive criterion already "
+        "used at SN 22.108-110 to define the goal of ascetic life and "
+        "the fruits of stream-entry and arahantship."),
+    guide=[
+        ("Five points, not three or two", [
+            "\"An unlearned ordinary person doesn't truly understand the "
+            "origin, the disappearance, the gratification, the drawback, "
+            "and the escape when it comes to form, feeling, perception, "
+            "choices, and consciousness\" — origin and disappearance "
+            "(samudaya, atthaṅgama) joined directly to the familiar "
+            "triad, forming the fullest single criterion this vagga uses.",
+        ]),
+        ("A formula recognized from elsewhere in this book", [
+            "This is the identical five-point formula already used at "
+            "SN 22.108 to define what ascetics and brahmins must "
+            "understand to realize \"the goal of life,\" and again at SN "
+            "22.109-110 to define the stream-enterer and the arahant — "
+            "here applied, for the first time, to defining ignorance and "
+            "knowledge themselves rather than a fruit of practice.",
+            "Recognizing this formula's earlier appearances clarifies "
+            "what this discourse is doing: rather than introducing "
+            "something new, it names the precondition for everything SN "
+            "22.108-110 described as an achievement — ignorance is "
+            "exactly the absence of the same five-point understanding "
+            "those discourses treated as the gateway to awakening.",
+        ]),
+        ("Why this formula, and not a longer or shorter one", [
+            "The five points cover both the temporal dimension (origin, "
+            "disappearance — how an aggregate comes to be and ceases) "
+            "and the evaluative dimension (gratification, drawback, "
+            "escape — what draws one to it, what is dangerous in it, and "
+            "how to be free of it) — together offering a more complete "
+            "picture than either dimension alone.",
+        ]),
+        ("Setting up its own companion", [
+            "This discourse addresses ignorance alone; SN 22.132, its "
+            "direct companion, will apply the identical five-point "
+            "formula to define knowledge, following the same pairing "
+            "pattern used throughout this vagga.",
+        ]),
+    ],
+    terms=[
+        ("samudaya", "origin — the first of the five points, shared with the originate/vanish criterion from SN 22.126-128"),
+        ("atthaṅgama", "disappearance — the second point, the counterpart to samudaya"),
+        ("assāda/ādīnava/nissaraṇa", "gratification / drawback / escape — the familiar triad, joined here to origin and disappearance"),
+        ("sāmaññattha", "the goal of ascetic life — what this same five-point formula was used to define at SN 22.108, earlier in this book"),
+        ("avijjā", "ignorance — defined here as the absence of this comprehensive five-point understanding"),
+    ],
+    text_intro=("The complete discourse, combining origin and disappearance with "
+        "the familiar triad into a single five-point definition of "
+        "ignorance. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.131:1.1-1.4"),
+        ("p", "§2", "sn22.131:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How many points does this discourse's criterion combine?",
+         "opts": ["Five", "Three", "Four", "Two"],
+         "correct": 0,
+         "expl": "Origin, disappearance, gratification, drawback, and escape."},
+        {"q": "What two prior criteria in this vagga does this five-point formula combine?",
+         "opts": [
+             "Origin/disappearance from the originate/vanish material, and the gratification/drawback/escape triad",
+             "The four noble truths and the eightfold path",
+             "The eleven-angled reflection and the near/far shore metaphor",
+             "Two entirely new criteria not seen elsewhere in this vagga"],
+         "correct": 0,
+         "expl": "Combining elements already introduced separately earlier in Avijjāvagga."},
+        {"q": "Where else in this book has this exact five-point formula appeared?",
+         "opts": [
+             "SN 22.108-110, defining the goal of ascetic life, the stream-enterer, and the arahant",
+             "Only in this single discourse",
+             "SN 22.93-95, the similes for the aggregates",
+             "SN 22.1-11, the opening vagga"],
+         "correct": 0,
+         "expl": "The identical formula used to define fruits of practice, now applied to define ignorance itself."},
+        {"q": "What does recognizing this formula's earlier appearances clarify?",
+         "opts": [
+             "Ignorance is exactly the absence of the same five-point understanding those discourses treated as the gateway to awakening",
+             "This discourse contradicts SN 22.108-110's earlier teaching",
+             "The formula has a completely different meaning in this context",
+             "No meaningful connection exists between the two uses"],
+         "correct": 0,
+         "expl": "Naming the precondition for everything SN 22.108-110 described as an achievement."},
+        {"q": "What two dimensions does the five-point formula cover together?",
+         "opts": [
+             "The temporal dimension (origin, disappearance) and the evaluative dimension (gratification, drawback, escape)",
+             "The physical dimension and the mental dimension only",
+             "The past and the future, with no reference to the present",
+             "Only a single dimension, repeated five times"],
+         "correct": 0,
+         "expl": "Together offering a more complete picture than either dimension alone."},
+        {"q": "What discourse is this discourse's direct companion, addressing knowledge with the same five-point formula?",
+         "opts": [
+             "SN 22.132, \"Origin (2nd)\"",
+             "SN 22.129, \"Gratification\"",
+             "SN 22.126, \"Liable to Originate\"",
+             "SN 22.135, closing the vagga"],
+         "correct": 0,
+         "expl": "Following the same pairing pattern used throughout this vagga."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Mahākoṭṭhita questioning Venerable Sāriputta",
+             "The Buddha and an unnamed mendicant",
+             "Venerable Ānanda and Venerable Sāriputta",
+             "Venerable Kappa and the Buddha"],
+         "correct": 0,
+         "expl": "Continuing the same dialogue pair from the surrounding discourses."},
+        {"q": "How many aggregates does this five-point formula apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Varanasi", "Sāvatthī", "Rājagaha", "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the setting of the surrounding discourses in this vagga."},
+        {"q": "Why might this be called the fullest criterion in this vagga?",
+         "opts": [
+             "It combines the most individual points of any criterion used in Avijjāvagga",
+             "It is the longest discourse in the vagga by word count",
+             "It applies to more aggregates than any other criterion",
+             "It is the only criterion mentioned more than once"],
+         "correct": 0,
+         "expl": "Five distinct points, more than any other single criterion in this vagga."},
+    ],
+    marginalia=[
+        ("Two criteria, joined into one", [
+            "origin and disappearance, plus the familiar triad &mdash;",
+            "five points where earlier discourses used two or three",
+        ]),
+        ("A formula recognized from elsewhere", [
+            "SN 22.108-110's own criterion, reused &mdash;",
+            "now defining ignorance rather than a fruit of practice",
+        ]),
+        ("What those earlier discourses assumed, this one names", [
+            "the precondition for the goal, for stream-entry, for arahantship &mdash;",
+            "ignorance as its precise absence",
+        ]),
+        ("Temporal and evaluative, together", [
+            "how an aggregate arises and passes &mdash;",
+            "what draws one to it, and how to be free",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.131/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.130.html">SN 22.130 &middot; Gratification '
+        "(2nd)</a> &mdash; the previous discourse, closing this vagga's "
+        "second criterion pair.",
+        '<a href="sn-22.132.html">SN 22.132 &middot; Origin (2nd)</a> '
+        "&mdash; the next discourse, this discourse's own direct "
+        "companion, addressing knowledge.",
+    ],
+)
+
+page(22, 132, "Dutiyasamudaya", "Origin (2nd)",
+    vagga="Avijjāvagga",
+    meta_title="SN 22.132 · Origin (2nd) — Completing the Five-Point Pair",
+    meta_desc="The companion to SN 22.131: the same five-point formula, "
+        "now defining knowledge instead of ignorance. Saṃyutta Nikāya "
+        "22.132, with Pāli.",
+    glance=[
+        ("Setting", "Varanasi"),
+        ("Speakers", "Venerable Mahākoṭṭhita questioning Venerable Sāriputta"),
+        ("Form", "The identical structure as SN 22.131, with knowledge replacing ignorance"),
+        ("Length", "Short — matching SN 22.131's own length"),
+        ("Northern parallel", "Shares its structure and criterion with SN 22.131"),
+        ("Difficulty", "Moderate — best read directly after SN 22.131"),
+    ],
+    why=("Completes the five-point origin/disappearance/gratification/"
+        "drawback/escape pair begun by SN 22.131: the identical "
+        "comprehensive formula, now defining knowledge with the learned "
+        "noble disciple's true understanding replacing the unlearned "
+        "ordinary person's failure to understand."),
+    guide=[
+        ("The fullest criterion, inverted", [
+            "\"A learned noble disciple truly understands the origin, "
+            "the disappearance, the gratification, the drawback, and "
+            "the escape when it comes to form, feeling, perception, "
+            "choices, and consciousness\" — the identical five-point "
+            "formula as SN 22.131, with only the subject and verb "
+            "inverted.",
+        ]),
+        ("Recalling this formula's use elsewhere in this book", [
+            "Just as SN 22.131 recalled SN 22.108's definition of the "
+            "goal of ascetic life, this discourse's positive formulation "
+            "recalls SN 22.109-110's own definitions of the "
+            "stream-enterer and the arahant — the same understanding "
+            "that, elsewhere, produces specific fruits of the path, here "
+            "simply named \"knowledge\" in its own right.",
+        ]),
+        ("Three criteria, six discourses, one vagga so far", [
+            "With this discourse, Avijjāvagga has now presented three "
+            "distinct criteria across six discourses (three for "
+            "originate/vanish, two for the triad, two for the five-point "
+            "combination — actually seven counting SN 22.126's own "
+            "double treatment): a systematic survey of technical "
+            "vocabulary this book has developed across its earlier "
+            "vaggas, now gathered and applied uniformly to a single "
+            "recurring question.",
+        ]),
+        ("Toward the vagga's final movement", [
+            "Avijjāvagga turns next to its closing three discourses — SN "
+            "22.133, 134, and 135 — which reverse the questioning "
+            "direction (Sāriputta now asks Koṭṭhita, rather than the "
+            "reverse) while cycling back through the triad, the "
+            "five-point formula, and finally SN 22.113's own original "
+            "four-point formula to close the vagga.",
+        ]),
+    ],
+    terms=[
+        ("vijjā", "knowledge — this discourse's own subject, completing SN 22.131's ignorance definition"),
+        ("samudaya/atthaṅgama/assāda/ādīnava/nissaraṇa", "origin / disappearance / gratification / drawback / escape — the shared five-point formula across both discourses in this pair"),
+        ("viddasu", "a knowing one — the person this discourse defines"),
+        ("sutavā ariyasāvako", "a learned noble disciple — the subject who understands, replacing SN 22.131's \"unlearned ordinary person\""),
+        ("pajānāti", "understands — the inverted verb carrying the entire difference from SN 22.131"),
+    ],
+    text_intro=("The complete discourse, mirroring SN 22.131's structure exactly "
+        "with knowledge replacing ignorance. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.132:1.1-1.5"),
+        ("p", "§2", "sn22.132:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 22.131?",
+         "opts": [
+             "An exact structural mirror, with knowledge replacing ignorance",
+             "An unrelated teaching on a different topic",
+             "A direct contradiction of SN 22.131's definition",
+             "A much longer, more elaborate discourse"],
+         "correct": 0,
+         "expl": "Completing the pair with the identical five-point formula inverted."},
+        {"q": "What earlier discourses in this book does this discourse's positive formulation recall?",
+         "opts": [
+             "SN 22.109-110, defining the stream-enterer and the arahant",
+             "SN 22.93-95, the similes for the aggregates",
+             "SN 22.1-11, the opening vagga",
+             "SN 22.117, on shackles"],
+         "correct": 0,
+         "expl": "The same five-point formula that produces specific fruits of the path elsewhere, here named simply as \"knowledge.\""},
+        {"q": "How many distinct criteria has Avijjāvagga presented by the end of this discourse?",
+         "opts": ["Three", "One", "Ten", "Five"],
+         "correct": 0,
+         "expl": "Originate/vanish, the gratification triad, and the five-point combination."},
+        {"q": "What is knowledge defined as, in this discourse?",
+         "opts": [
+             "Truly understanding the origin, disappearance, gratification, drawback, and escape regarding each aggregate",
+             "Memorizing the entire scripture",
+             "A specific meditative absorption",
+             "Skill in debate with other teachers"],
+         "correct": 0,
+         "expl": "The precise inversion of SN 22.131's definition of ignorance."},
+        {"q": "What happens to the questioning direction in this vagga's final three discourses?",
+         "opts": [
+             "It reverses — Sāriputta now asks Koṭṭhita, rather than the reverse",
+             "It stays exactly the same throughout the entire vagga",
+             "A completely new speaker is introduced",
+             "The Buddha returns as the sole speaker"],
+         "correct": 0,
+         "expl": "SN 22.133-135 reverse the direction seen in SN 22.127-132."},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "Venerable Mahākoṭṭhita questioning Venerable Sāriputta",
+             "The Buddha and an unnamed mendicant",
+             "Venerable Ānanda and Venerable Sāriputta",
+             "Venerable Kappa and the Buddha"],
+         "correct": 0,
+         "expl": "Matching SN 22.131's own speaker pair, before the reversal in the vagga's final discourses."},
+        {"q": "How many aggregates does this five-point formula apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Varanasi", "Sāvatthī", "Rājagaha", "Vesālī"],
+         "correct": 0,
+         "expl": "Matching SN 22.131's own setting."},
+        {"q": "What formula will close Avijjāvagga in SN 22.135?",
+         "opts": [
+             "SN 22.113's own original four-point origin/cessation/practice formula",
+             "A brand-new formula not seen anywhere else in the book",
+             "The eleven-angled reflection from SN 22.122",
+             "The near/far shore metaphor from SN 22.117"],
+         "correct": 0,
+         "expl": "Completing the vagga's systematic cycle through the book's various criteria."},
+        {"q": "What does this vagga's overall structure demonstrate about this book's method?",
+         "opts": [
+             "A systematic survey applying multiple established criteria uniformly to a single recurring question",
+             "A collection of entirely unrelated teachings with no organizing principle",
+             "A single narrative followed continuously across all ten discourses",
+             "A rejection of all criteria used earlier in the book"],
+         "correct": 0,
+         "expl": "Gathering technical vocabulary developed across earlier vaggas and applying it systematically here."},
+    ],
+    marginalia=[
+        ("The fullest criterion, inverted once more", [
+            "five points, understood rather than missed &mdash;",
+            "the identical formula, the identical five aggregates",
+        ]),
+        ("Recalling stream-entry and arahantship", [
+            "SN 22.109-110's own criterion, reused &mdash;",
+            "here simply called \"knowledge\" in its own right",
+        ]),
+        ("Three criteria, systematically applied", [
+            "originate/vanish, the triad, the five-point combination &mdash;",
+            "one question, answered through the book's own accumulated vocabulary",
+        ]),
+        ("Toward the vagga's reversed closing set", [
+            "Sāriputta questioning Koṭṭhita next &mdash;",
+            "the same criteria, approached from the other direction",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.132/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.131.html">SN 22.131 &middot; Origin</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "companion.",
+        '<a href="sn-22.133.html">SN 22.133 &middot; With Koṭṭhita</a> '
+        "&mdash; the next discourse, reversing the questioning direction "
+        "for this vagga's closing three discourses.",
+    ],
+)
+
+page(22, 133, "Koṭṭhita", "With Koṭṭhita",
+    vagga="Avijjāvagga",
+    meta_title="SN 22.133 · With Koṭṭhita — The Direction Reverses",
+    meta_desc="Sāriputta now questions Koṭṭhita, reversing the direction "
+        "of every prior dialogue in this vagga, using the familiar "
+        "gratification/drawback/escape triad. Saṃyutta Nikāya 22.133, "
+        "with Pāli.",
+    glance=[
+        ("Setting", "Varanasi"),
+        ("Speakers", "Venerable Sāriputta questioning Venerable Mahākoṭṭhita — the reverse of every prior dialogue in this vagga"),
+        ("Form", "Both ignorance and knowledge addressed within a single discourse, using the gratification/drawback/escape triad"),
+        ("Length", "Medium — both definitions given in full within one discourse"),
+        ("Northern parallel", "Shares its triad with SN 22.129-130 and its combined format with SN 22.126"),
+        ("Difficulty", "Moderate — tracking the reversed direction against the familiar content rewards careful attention"),
+    ],
+    why=("A quiet but significant structural shift: every dialogue so "
+        "far in this vagga has had Mahākoṭṭhita question Sāriputta, but "
+        "here Sāriputta questions Koṭṭhita instead — the same familiar "
+        "gratification/drawback/escape triad, now approached from the "
+        "opposite direction."),
+    guide=[
+        ("The direction reverses", [
+            "\"Sāriputta said to Mahākoṭṭhita: 'Reverend Koṭṭhita, they "
+            "speak of this thing called ignorance...'\" — where SN "
+            "22.127-132 consistently had Koṭṭhita question Sāriputta, "
+            "here the roles are exchanged, with Sāriputta now posing "
+            "the question and Koṭṭhita, presumably, answering.",
+            "This reversal is easy to miss if the discourses are read "
+            "quickly, since the content itself (the triad, applied "
+            "identically to all five aggregates) is unchanged — the "
+            "shift is entirely in who asks and who is expected to "
+            "answer.",
+        ]),
+        ("The same triad, combined into one discourse once more", [
+            "\"An unlearned ordinary person doesn't truly understand the "
+            "gratification, the drawback, and the escape\" for ignorance, "
+            "then \"a learned noble disciple truly understands\" the same "
+            "for knowledge — both given within this single discourse, "
+            "returning to SN 22.126's combined format rather than SN "
+            "22.129-130's split pairing.",
+        ]),
+        ("Why the direction might reverse here", [
+            "The vagga's earlier discourses established Koṭṭhita as the "
+            "questioner and Sāriputta as the one supplying definitions "
+            "— reversing this here, without changing the content itself, "
+            "suggests the specific content (which criterion, which "
+            "aggregate) matters less to this vagga's structure than "
+            "systematically exhausting every possible combination of "
+            "roles, criteria, and formats.",
+        ]),
+        ("Setting up the vagga's final two discourses", [
+            "This reversed direction continues through SN 22.134 (the "
+            "five-point formula) and SN 22.135 (the vagga's closing "
+            "discourse, returning to SN 22.113's own original "
+            "four-point formula) — the vagga's last three discourses all "
+            "sharing this same Sāriputta-questions-Koṭṭhita structure.",
+        ]),
+    ],
+    terms=[
+        ("āvuso Koṭṭhita", "\"Reverend Koṭṭhita\" — the form of address marking Sāriputta as the questioner in this reversed dialogue"),
+        ("assāda/ādīnava/nissaraṇa", "gratification / drawback / escape — the same triad already used at SN 22.129-130"),
+        ("avijjā", "ignorance — the first of the two questions addressed in this discourse"),
+        ("vijjā", "knowledge — the second question, addressed within the same discourse rather than a separate companion"),
+        ("Bārāṇasī", "Varanasi — this discourse's setting, continuing the location established across this vagga's dialogue discourses"),
+    ],
+    text_intro=("The complete discourse: both the ignorance and knowledge "
+        "questions, now asked by Sāriputta of Koṭṭhita, using the familiar "
+        "triad. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.133:1.1-1.6"),
+        ("p", "§2", "sn22.133:2.1-2.7"),
+        ("p", "§3", "sn22.133:3.1-3.4"),
+        ("p", "§4", "sn22.133:4.1-4.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's questioning direction differ from SN 22.127-132?",
+         "opts": [
+             "Sāriputta questions Koṭṭhita, reversing the pattern of every prior dialogue in this vagga",
+             "The Buddha becomes the questioner for the first time",
+             "The direction remains identical to the previous discourses",
+             "A completely new pair of speakers is introduced"],
+         "correct": 0,
+         "expl": "Where Koṭṭhita consistently questioned Sāriputta before, the roles are now exchanged."},
+        {"q": "What triad does this discourse use to define ignorance and knowledge?",
+         "opts": [
+             "Gratification, drawback, and escape",
+             "Origin, cessation, and path",
+             "A brand-new criterion not seen elsewhere in this vagga",
+             "The eleven-angled reflection"],
+         "correct": 0,
+         "expl": "The same triad already used at SN 22.129-130."},
+        {"q": "How does this discourse present ignorance and knowledge, compared to SN 22.129-130?",
+         "opts": [
+             "Both are combined within a single discourse, returning to SN 22.126's format",
+             "Both are split across two separate discourses, as in SN 22.129-130",
+             "Only ignorance is addressed",
+             "Only knowledge is addressed"],
+         "correct": 0,
+         "expl": "Returning to the combined format seen at the vagga's opening."},
+        {"q": "What does this reversal suggest about this vagga's overall structure?",
+         "opts": [
+             "The specific content matters less than systematically exhausting every combination of roles, criteria, and formats",
+             "The earlier discourses contained an error that this discourse corrects",
+             "Koṭṭhita's answers in the earlier discourses were actually incorrect",
+             "This discourse is unrelated to the rest of the vagga"],
+         "correct": 0,
+         "expl": "Suggesting a deliberately systematic, comprehensive approach to organizing this vagga's material."},
+        {"q": "Which discourses continue this same reversed direction?",
+         "opts": [
+             "SN 22.134 and SN 22.135, closing the vagga",
+             "No other discourse in this vagga shares this direction",
+             "A return to SN 22.127's original direction happens immediately after",
+             "Every discourse throughout the entire book"],
+         "correct": 0,
+         "expl": "The vagga's final three discourses all share this Sāriputta-questions-Koṭṭhita structure."},
+        {"q": "What form of address does Sāriputta use for Koṭṭhita in this discourse?",
+         "opts": [
+             "\"Reverend Koṭṭhita\"",
+             "\"Sir\"",
+             "\"Friend\" used only informally",
+             "No form of address is used"],
+         "correct": 0,
+         "expl": "Marking Sāriputta as the questioner in this reversed exchange."},
+        {"q": "How many aggregates does this triad apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, as throughout this vagga."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Varanasi", "Sāvatthī", "Rājagaha", "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the setting established across this vagga's dialogue discourses."},
+        {"q": "What formula does the vagga's next discourse, SN 22.134, use?",
+         "opts": [
+             "The five-point origin/disappearance/gratification/drawback/escape formula",
+             "A brand-new criterion not seen elsewhere",
+             "The originate/vanish criterion from SN 22.126-128",
+             "The eleven-angled reflection from SN 22.122"],
+         "correct": 0,
+         "expl": "The same formula already used at SN 22.131-132, now applied with the reversed direction."},
+        {"q": "What is easy to miss about this discourse if read quickly?",
+         "opts": [
+             "The reversal of questioning direction, since the content itself remains unchanged",
+             "The fact that ignorance and knowledge are addressed at all",
+             "The five aggregates being named",
+             "The setting at Varanasi"],
+         "correct": 0,
+         "expl": "The shift is entirely in who asks and who answers, not in the content presented."},
+    ],
+    marginalia=[
+        ("A quiet but significant reversal", [
+            "Sāriputta asks, Koṭṭhita presumably answers &mdash;",
+            "every prior dialogue in this vagga ran the other way",
+        ]),
+        ("The same triad, approached from the other side", [
+            "gratification, drawback, escape &mdash;",
+            "content unchanged, direction exchanged",
+        ]),
+        ("Exhausting every combination", [
+            "roles, criteria, formats, all systematically varied &mdash;",
+            "this vagga's real organizing principle made visible",
+        ]),
+        ("Opening the vagga's final three discourses", [
+            "this same reversed direction continues &mdash;",
+            "through SN 22.134 and the closing SN 22.135",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.133/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.132.html">SN 22.132 &middot; Origin (2nd)</a> '
+        "&mdash; the previous discourse, closing this vagga's five-point "
+        "criterion pair.",
+        '<a href="sn-22.134.html">SN 22.134 &middot; With Koṭṭhita '
+        "(2nd)</a> &mdash; the next discourse, continuing this reversed "
+        "direction with the five-point formula.",
+    ],
+)
+
+page(22, 134, "Dutiyakoṭṭhita", "With Koṭṭhita (2nd)",
+    vagga="Avijjāvagga",
+    meta_title="SN 22.134 · With Koṭṭhita (2nd) — The Fullest Formula, Reversed",
+    meta_desc="The reversed direction continues: Sāriputta questions "
+        "Koṭṭhita using the five-point origin/disappearance/gratification/"
+        "drawback/escape formula. Saṃyutta Nikāya 22.134, with Pāli.",
+    glance=[
+        ("Setting", "Varanasi"),
+        ("Speakers", "Venerable Sāriputta questioning Venerable Mahākoṭṭhita"),
+        ("Form", "Both ignorance and knowledge addressed within a single discourse, using the five-point formula"),
+        ("Length", "Medium — matching SN 22.133's own combined format"),
+        ("Northern parallel", "Shares its formula with SN 22.131-132 and its combined format with SN 22.126 and SN 22.133"),
+        ("Difficulty", "Moderate — best read directly after SN 22.133"),
+    ],
+    why=("Continues SN 22.133's reversed direction — Sāriputta still "
+        "questioning Koṭṭhita — now applying this vagga's fullest "
+        "criterion, the five-point origin/disappearance/gratification/"
+        "drawback/escape formula, combining ignorance and knowledge "
+        "within a single discourse as SN 22.133 did before it."),
+    guide=[
+        ("The reversed direction, continued", [
+            "\"Reverend Koṭṭhita, they speak of this thing called "
+            "'ignorance'\" — Sāriputta remains the questioner here, "
+            "exactly as in SN 22.133, confirming this is not an isolated "
+            "instance but a settled reversal running through the vagga's "
+            "final stretch.",
+        ]),
+        ("The fullest criterion, in the combined format", [
+            "\"An unlearned ordinary person doesn't truly understand the "
+            "origin, the disappearance, the gratification, the drawback, "
+            "and the escape\" for ignorance, then the identical five "
+            "points inverted for knowledge — the same formula as SN "
+            "22.131-132, but now presented together in one discourse "
+            "rather than split across two, exactly as SN 22.133 did for "
+            "the triad.",
+        ]),
+        ("A pattern of pairing criterion with format", [
+            "Reading across this vagga's nine discourses so far reveals "
+            "a consistent method: each criterion receives both a split "
+            "presentation (in the earlier, Koṭṭhita-questions-Sāriputta "
+            "discourses) and a combined presentation (in this later, "
+            "reversed-direction set) — SN 22.126 combined the opening "
+            "criterion, SN 22.127-128 split it; SN 22.129-130 split the "
+            "triad, SN 22.133 combined it; SN 22.131-132 split the "
+            "five-point formula, this discourse combines it.",
+        ]),
+        ("One discourse remaining", [
+            "SN 22.135 closes Avijjāvagga, continuing this same reversed "
+            "direction and combined format, but returning to a fourth "
+            "and final criterion — SN 22.113's own original four-point "
+            "origin/cessation/practice formula — completing the vagga's "
+            "systematic tour through every technical vocabulary this "
+            "book has offered for defining ignorance and knowledge.",
+        ]),
+    ],
+    terms=[
+        ("samudaya/atthaṅgama/assāda/ādīnava/nissaraṇa", "origin / disappearance / gratification / drawback / escape — the same five-point formula already used at SN 22.131-132"),
+        ("āvuso Koṭṭhita", "\"Reverend Koṭṭhita\" — confirming Sāriputta's continued role as questioner"),
+        ("avijjā/vijjā", "ignorance and knowledge — both addressed within this single discourse"),
+        ("Isipatana", "the deer park near Varanasi, the implied continuing setting for this dialogue"),
+        ("Bārāṇasī", "Varanasi — this discourse's own brief setting notice"),
+    ],
+    text_intro=("The complete discourse: both the ignorance and knowledge "
+        "questions, using the five-point formula in the same combined "
+        "format as SN 22.133. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.134:1.1-1.4"),
+        ("p", "§2", "sn22.134:2.1-2.7"),
+        ("p", "§3", "sn22.134:3.1-3.4"),
+        ("p", "§4", "sn22.134:4.1-4.7"),
+    ],
+    quiz=[
+        {"q": "Who questions whom in this discourse, continuing SN 22.133's pattern?",
+         "opts": [
+             "Sāriputta questioning Mahākoṭṭhita",
+             "Koṭṭhita questioning Sāriputta, as in the earlier discourses",
+             "The Buddha questioning both disciples",
+             "An unnamed mendicant questioning the Buddha"],
+         "correct": 0,
+         "expl": "Confirming this reversal is a settled pattern, not an isolated instance."},
+        {"q": "What formula does this discourse use?",
+         "opts": [
+             "The five-point origin/disappearance/gratification/drawback/escape formula",
+             "The gratification/drawback/escape triad alone",
+             "The originate/vanish/both criterion",
+             "A brand-new formula not seen elsewhere"],
+         "correct": 0,
+         "expl": "The same formula already used at SN 22.131-132, this vagga's fullest criterion."},
+        {"q": "How does this discourse present ignorance and knowledge?",
+         "opts": [
+             "Combined within a single discourse, matching SN 22.133's format",
+             "Split across two separate discourses",
+             "Only ignorance is addressed",
+             "Only knowledge is addressed"],
+         "correct": 0,
+         "expl": "Continuing SN 22.133's combined presentation rather than SN 22.131-132's split format."},
+        {"q": "What pattern does reading across this vagga's nine discourses reveal?",
+         "opts": [
+             "Each criterion receives both a split presentation and a combined presentation",
+             "Every discourse uses an identical, unvarying format",
+             "Only one criterion is ever actually used throughout the vagga",
+             "No discernible pattern connects the discourses"],
+         "correct": 0,
+         "expl": "A systematic pairing of criterion with format across the vagga's full structure."},
+        {"q": "What criterion does the vagga's final discourse, SN 22.135, return to?",
+         "opts": [
+             "SN 22.113's own original four-point origin/cessation/practice formula",
+             "A completely new formula not seen anywhere in this book",
+             "The originate/vanish criterion from SN 22.126-128",
+             "The eleven-angled reflection from SN 22.122"],
+         "correct": 0,
+         "expl": "Completing the vagga's systematic tour through the book's technical vocabulary for ignorance and knowledge."},
+        {"q": "How many aggregates does this five-point formula apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Varanasi", "Sāvatthī", "Rājagaha", "Vesālī"],
+         "correct": 0,
+         "expl": "Continuing the setting of the surrounding discourses in this vagga."},
+        {"q": "What does the consistent pairing of split and combined formats across criteria suggest about this vagga's design?",
+         "opts": [
+             "A deliberate, systematic method rather than incidental variation",
+             "Random, unplanned repetition with no underlying structure",
+             "An error in how the discourses were originally compiled",
+             "That only the combined format is doctrinally correct"],
+         "correct": 0,
+         "expl": "Each criterion consistently receives both treatments across the vagga's ten discourses."},
+        {"q": "What is knowledge defined as in this discourse?",
+         "opts": [
+             "Truly understanding the origin, disappearance, gratification, drawback, and escape regarding each aggregate",
+             "Memorizing the entire scripture",
+             "A specific meditative absorption",
+             "Skill in debate"],
+         "correct": 0,
+         "expl": "The precise inversion of this discourse's own ignorance definition, given within the same text."},
+        {"q": "How many discourses remain in Avijjāvagga after this one?",
+         "opts": ["One — SN 22.135", "None — this is the final discourse", "Five", "Three"],
+         "correct": 0,
+         "expl": "SN 22.135 closes the vagga with its final criterion."},
+    ],
+    marginalia=[
+        ("The reversal, confirmed as settled", [
+            "Sāriputta still the questioner &mdash;",
+            "not an isolated instance, but a running pattern",
+        ]),
+        ("The fullest criterion, now combined", [
+            "five points, in one discourse this time &mdash;",
+            "matching SN 22.133's own combined treatment",
+        ]),
+        ("Criterion and format, systematically paired", [
+            "each criterion given both split and combined presentation &mdash;",
+            "a method, not incidental repetition",
+        ]),
+        ("One discourse left to close the vagga", [
+            "SN 22.113's own formula returning &mdash;",
+            "the tour through this book's vocabulary nearly complete",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.134/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.133.html">SN 22.133 &middot; With Koṭṭhita</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "companion in the reversed direction.",
+        '<a href="sn-22.135.html">SN 22.135 &middot; With Koṭṭhita '
+        "(3rd)</a> &mdash; the next and closing discourse of this "
+        "vagga, returning to the book's original four-point formula.",
+    ],
+)
+
+page(22, 135, "Tatiyakoṭṭhita", "With Koṭṭhita (3rd)",
+    vagga="Avijjāvagga",
+    meta_title="SN 22.135 · With Koṭṭhita (3rd) — Closing Avijjāvagga",
+    meta_desc="Avijjāvagga's closing discourse returns to SN 22.113's "
+        "own original four-point formula, completing this vagga's "
+        "systematic survey of every criterion for ignorance and "
+        "knowledge. Saṃyutta Nikāya 22.135, with Pāli.",
+    glance=[
+        ("Setting", "Varanasi (\"the same setting\")"),
+        ("Speakers", "Venerable Sāriputta questioning Venerable Mahākoṭṭhita"),
+        ("Form", "Both ignorance and knowledge addressed within a single discourse, using the four-point formula that opened this vagga's larger project at SN 22.113"),
+        ("Length", "Medium — matching SN 22.133-134's own combined format"),
+        ("Northern parallel", "Returns to the same origin/cessation/practice formula used at SN 22.113-114, the earliest discourses in this book to address this exact question"),
+        ("Difficulty", "Moderate — best appreciated as the close of a ten-discourse systematic sequence"),
+    ],
+    why=("Closes Avijjāvagga by returning full circle to where this "
+        "whole line of inquiry began: SN 22.113's own four-point origin/"
+        "cessation/practice formula, now given in the reversed "
+        "Sāriputta-questions-Koṭṭhita direction and the combined "
+        "single-discourse format — completing a systematic tour through "
+        "every criterion this book has used to define ignorance and "
+        "knowledge."),
+    guide=[
+        ("\"The same setting\" — a minimal, confident notice", [
+            "\"The same setting\" (tattheva) opens this discourse — the "
+            "briefest possible setting notice in this entire vagga, "
+            "trusting the reader to carry forward Varanasi and Isipatana "
+            "from the discourses immediately before it without needing "
+            "either restated.",
+        ]),
+        ("Returning to the formula that started it all", [
+            "\"It's when an unlearned ordinary person doesn't understand "
+            "form, its origin, its cessation, and the practice that "
+            "leads to its cessation\" — the exact four-point formula "
+            "from SN 22.113, word for word, now placed in Koṭṭhita's "
+            "mouth answering Sāriputta rather than in the Buddha's own "
+            "voice answering an unnamed mendicant.",
+            "This return is not accidental: of all the criteria "
+            "available to close this vagga with, the discourse chooses "
+            "specifically the one that opened this entire question at "
+            "SN 22.113 — the vagga's own name, Avijjāvagga, and its "
+            "closing discourse both point back to that same origin.",
+        ]),
+        ("A complete circuit, reviewed", [
+            "Across ten discourses, Avijjāvagga has now applied four "
+            "distinct criteria (origin/cessation/practice at SN 22.113 "
+            "and again here; originate/vanish/both at SN 22.126-128; "
+            "gratification/drawback/escape at SN 22.129-130 and 133; "
+            "the five-point combination at SN 22.131-132 and 134) across "
+            "every combination of speaker (Buddha, Sāriputta, Koṭṭhita), "
+            "direction (Koṭṭhita-asks, Sāriputta-asks), and format "
+            "(combined, split) available to it.",
+        ]),
+        ("Closing without a colophon, into Kukkuḷavagga", [
+            "As with several vaggas earlier in this book, no explicit "
+            "closing formula marks the end of Avijjāvagga in the source "
+            "text — the vagga simply concludes on this returning "
+            "formula, before Uparipaṇṇāsaka's fourth vagga, "
+            "Kukkuḷavagga, begins at SN 22.136.",
+        ]),
+    ],
+    terms=[
+        ("tattheva", "\"the same setting\" — this discourse's minimal opening, the briefest setting notice in this vagga"),
+        ("samudaya/nirodha/nirodhagāminī paṭipadā", "origin / cessation / the practice leading to cessation — the exact formula returning from SN 22.113, closing the circuit this vagga opened"),
+        ("avijjā/vijjā", "ignorance and knowledge — both addressed within this single closing discourse"),
+        ("āvuso Koṭṭhita", "\"Reverend Koṭṭhita\" — Sāriputta's continued form of address in this reversed direction"),
+        ("Avijjāvagga", "the vagga's own name, taken from its opening theme and confirmed by this closing discourse's return to that same formula"),
+    ],
+    text_intro=("The complete discourse, closing Avijjāvagga with a return to SN "
+        "22.113's own original four-point formula. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.135:1.1-1.5"),
+        ("p", "§2", "sn22.135:2.1-2.7"),
+        ("p", "§3", "sn22.135:3.1-3.4"),
+        ("p", "§4", "sn22.135:4.1-4.7"),
+    ],
+    quiz=[
+        {"q": "What setting notice opens this discourse?",
+         "opts": [
+             "\"The same setting\" — the briefest notice in this entire vagga",
+             "A full description of Varanasi and Isipatana",
+             "An entirely new location not mentioned before",
+             "No setting notice at all"],
+         "correct": 0,
+         "expl": "Trusting the reader to carry forward the setting from the discourses immediately before it."},
+        {"q": "What formula does this closing discourse return to?",
+         "opts": [
+             "SN 22.113's own original four-point origin/cessation/practice formula",
+             "A brand-new formula not seen anywhere else",
+             "The originate/vanish/both criterion from SN 22.126",
+             "The eleven-angled reflection from SN 22.122"],
+         "correct": 0,
+         "expl": "Word for word, the exact formula that opened this whole line of inquiry."},
+        {"q": "Who speaks this formula in this discourse, compared to SN 22.113?",
+         "opts": [
+             "Koṭṭhita, answering Sāriputta, rather than the Buddha answering an unnamed mendicant",
+             "The Buddha, exactly as in SN 22.113",
+             "An entirely new, unnamed speaker",
+             "No one — the discourse contains no dialogue"],
+         "correct": 0,
+         "expl": "The same content, now delivered by different speakers in a different direction."},
+        {"q": "How many distinct criteria has Avijjāvagga applied across its ten discourses?",
+         "opts": ["Four", "One", "Ten", "Two"],
+         "correct": 0,
+         "expl": "Origin/cessation/practice, originate/vanish/both, the gratification triad, and the five-point combination."},
+        {"q": "What combinations has this vagga systematically explored?",
+         "opts": [
+             "Every combination of speaker, questioning direction, and presentation format across its four criteria",
+             "Only a single fixed combination repeated ten times",
+             "Combinations unrelated to speaker, direction, or format",
+             "No discernible systematic combination"],
+         "correct": 0,
+         "expl": "Buddha, Sāriputta, and Koṭṭhita as speakers; both questioning directions; combined and split formats."},
+        {"q": "How does this discourse close, according to the source text?",
+         "opts": [
+             "Without any explicit colophon, simply ending on this returning formula",
+             "With a lengthy summary verse naming all ten discourses",
+             "With an explicit statement naming the next vagga",
+             "With a set of closing verses"],
+         "correct": 0,
+         "expl": "As with several vaggas earlier in this book, no closing formula appears."},
+        {"q": "What vagga follows Avijjāvagga in Uparipaṇṇāsaka?",
+         "opts": ["Kukkuḷavagga", "Antavagga", "Dhammakathikavagga", "Diṭṭhivagga"],
+         "correct": 0,
+         "expl": "The fourth of Uparipaṇṇāsaka's five vaggas, beginning at SN 22.136."},
+        {"q": "Why is returning to SN 22.113's formula specifically fitting for this closing discourse?",
+         "opts": [
+             "It points back to the same formula that opened this entire line of inquiry, closing the circuit the vagga's name commemorates",
+             "It is simply the shortest formula available",
+             "It contradicts everything the vagga has established so far",
+             "It has no particular significance for closing the vagga"],
+         "correct": 0,
+         "expl": "The vagga's own name, Avijjāvagga, and its closing discourse both trace back to that same origin."},
+        {"q": "How many aggregates does this closing formula apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, as throughout this vagga."},
+        {"q": "Who questions whom in this closing discourse?",
+         "opts": [
+             "Sāriputta questioning Mahākoṭṭhita",
+             "Koṭṭhita questioning Sāriputta",
+             "The Buddha questioning both disciples",
+             "An unnamed mendicant questioning the Buddha"],
+         "correct": 0,
+         "expl": "Continuing the reversed direction established at SN 22.133-134."},
+    ],
+    marginalia=[
+        ("A minimal notice, a confident return", [
+            "\"the same setting\" &mdash;",
+            "trusting what came immediately before to carry forward",
+        ]),
+        ("The formula that started it all, once more", [
+            "SN 22.113's own words, word for word &mdash;",
+            "now spoken by Koṭṭhita rather than the Buddha",
+        ]),
+        ("A circuit closed, four criteria complete", [
+            "origin/cessation/practice, originate/vanish, the triad, the five points &mdash;",
+            "every combination of speaker, direction, and format exhausted",
+        ]),
+        ("Closing without ceremony", [
+            "no colophon, simply the formula's return &mdash;",
+            "Kukkuḷavagga begins next, at SN 22.136",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.135/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.134.html">SN 22.134 &middot; With Koṭṭhita '
+        "(2nd)</a> &mdash; the previous discourse, this discourse's own "
+        "direct companion in the reversed direction.",
+        '<a href="sn-22.113.html">SN 22.113 &middot; Ignorance</a> '
+        "&mdash; the vagga's own true origin point, whose formula this "
+        "closing discourse returns to word for word.",
+    ],
+)
