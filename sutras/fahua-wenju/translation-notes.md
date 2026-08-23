@@ -155,3 +155,19 @@ Confirmed from the source text: the burning-house parable's entire 165-line vers
 | 慧命 | Wisdom-Life | epithet used for Subhūti |
 | 除糞 | clearing dung | the son's menial work at the father's estate |
 | 三十七道品 | the thirty-seven factors [of enlightenment] | correlated point-by-point to the dung-clearing scene |
+
+## Fascicle 7 — Medicinal Herbs, Prediction, and the Phantom City
+
+Confirmed from the source text: the close of 信解品; the medicinal-herbs parable of 藥草喻品 (the differentiated/undifferentiated cloud-and-rain simile and its correlation) and its verse recap; 授記品 ("Prediction") through Kāśyapa's and three disciples' predictions; the entire phantom-city parable of 化城喻品 (the sixteen princes of Mahābhijñājñānābhibhū Buddha, the guide who conjures a city partway along a long and fearful road, the "five hundred yojanas" simile) with its correlation; and the opening of 五百弟子受記品 ("Prediction for Five Hundred Disciples"), including Pūrṇa's prediction.
+
+| Chinese | English | Notes |
+|---|---|---|
+| 藥草喻品 | "Medicinal Herbs" | the single-rain, many-plants parable |
+| 授記品 | "Prediction" | |
+| 化城喻品 | "Phantom City" | |
+| 化城 | the conjured/phantom city | a resting-place, not the final destination |
+| 寶所 | the place of treasure | the real destination beyond the phantom city |
+| 大通智勝佛 | Mahābhijñājñānābhibhū Buddha | father of the sixteen princes |
+| 五百由旬 | five hundred yojanas | the length of the perilous road in the parable |
+| 五百弟子受記品 | "Prediction for Five Hundred Disciples" | |
+| 富樓那 | Pūrṇa | |
