@@ -34735,3 +34735,1901 @@ page(23, 10, "Dutiyachandappahāna", "Desire and Greed (2nd)",
         "topic this closing instruction now puts into direct practice.",
     ],
 )
+
+page(23, 11, "Māra", "About Māra",
+    vagga="Dutiyamāravagga",
+    meta_title="SN 23.11 · About Māra — The Bare Identification, Given in Full",
+    meta_desc="Opening Dutiyamāravagga: the aggregates simply ARE Māra, "
+        "stated without any elaboration, closing with the standard "
+        "disillusionment and freedom formula given here in full for the "
+        "last time in this vagga. Saṃyutta Nikāya 23.11, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha questioning the Buddha"),
+        ("Form", "A bare definitional question and answer, followed by the standard closing formula given in full"),
+        ("Length", "Short — the fullest single discourse in this vagga, since later discourses elide the closing formula"),
+        ("Northern parallel", "Reprises SN 23.1's own Māra-identification in an even more compressed form"),
+        ("Difficulty", "Approachable — a maximally direct statement"),
+    ],
+    why=("Opens Dutiyamāravagga (\"About Māra (2nd)\") by returning to "
+        "SN 23.1's own opening question, but stripped to its barest "
+        "form: no murderer-and-murdered imagery, no chain of purposes, "
+        "simply \"form is Māra, feeling is Māra...\" — establishing the "
+        "template this vagga's remaining eleven discourses will follow "
+        "with only the characterizing term changing."),
+    guide=[
+        ("The same question, an even barer answer", [
+            "\"They speak of 'Māra'. How is Māra defined?\" — the "
+            "identical question already asked at SN 23.1, but answered "
+            "here without any of that discourse's elaborate imagery "
+            "(murderer, murdered, diseased, boil, dart, gloom) or its "
+            "chain of five purposes.",
+            "\"Rādha, form is Māra, feeling is Māra, perception is Māra, "
+            "choices are Māra, consciousness is Māra\" — the bare "
+            "identification alone, each aggregate named individually "
+            "rather than gathered under a shared formula.",
+        ]),
+        ("The standard closing formula, given in full one last time", [
+            "\"Seeing this, a learned noble disciple grows disillusioned "
+            "with form, feeling, perception, choices, and "
+            "consciousness. Being disillusioned, desire fades away... "
+            "there is nothing further for this place\" — Khandhavagga's "
+            "familiar closing sequence, given here completely spelled "
+            "out, since this vagga's remaining discourses will "
+            "increasingly compress it with ellipses.",
+        ]),
+        ("Establishing a template of maximum compression", [
+            "This discourse's own extreme brevity — a bare identification "
+            "with no supporting image or argument — sets the pattern for "
+            "an entire vagga built the same way: Rādha asks what a term "
+            "means, the Buddha answers \"the aggregates are/have [term]\" "
+            "with no elaboration, and the standard formula closes each "
+            "discourse.",
+        ]),
+        ("Why a second, barer treatment of Māra opens this vagga", [
+            "Placing this stripped-down version immediately after SN "
+            "23.1's own elaborate treatment (with its imagery and its "
+            "chain of purposes) suggests a deliberate contrast: having "
+            "shown Māra's identification with the aggregates developed "
+            "at length once, the collection now demonstrates the same "
+            "content survives complete compression, needing neither "
+            "image nor argument to remain meaningful.",
+        ]),
+    ],
+    terms=[
+        ("Māra", "the personification of death and temptation — identified here with each aggregate individually, without elaboration"),
+        ("nibbidā/virāga/vimutti", "disillusionment / dispassion / freedom — the standard closing chain, given here in full"),
+        ("nāparaṁ itthattāyā", "\"there is nothing further for this place\" — the formula's own final declaration"),
+        ("khandha", "aggregate — form, feeling, perception, choices, and consciousness, each named individually as Māra"),
+        ("peyyāla", "an elision mark — what the remaining discourses in this vagga will use in place of this discourse's own full closing formula"),
+    ],
+    text_intro=("The complete discourse: the bare question and answer about "
+        "Māra, and the standard closing formula given in full. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.11:1.1-1.4"),
+        ("p", "§2", "sn23.11:1.5"),
+        ("p", "§3", "sn23.11:1.6-1.8"),
+    ],
+    quiz=[
+        {"q": "What question does Rādha ask, matching SN 23.1's own opening?",
+         "opts": ["How is Māra defined?", "What is a sentient being?", "What is the leash to existence?", "What is an arahant?"],
+         "correct": 0,
+         "expl": "The identical question, now answered without SN 23.1's elaborate imagery."},
+        {"q": "How does this discourse's answer compare to SN 23.1's own?",
+         "opts": [
+             "A bare identification with no murderer/murdered imagery or chain of purposes",
+             "An even more elaborate version with additional imagery",
+             "A contradiction of SN 23.1's own answer",
+             "An answer about a completely different topic"],
+         "correct": 0,
+         "expl": "Each aggregate simply named as Māra, without elaboration."},
+        {"q": "How is the standard closing formula presented in this discourse, compared to the rest of this vagga?",
+         "opts": [
+             "Given in full, the last time this vagga will state it completely",
+             "Already elided with an ellipsis",
+             "Omitted entirely",
+             "Replaced with a different, unique closing"],
+         "correct": 0,
+         "expl": "Setting the pattern the vagga's remaining discourses will compress."},
+        {"q": "What pattern does this discourse establish for the rest of Dutiyamāravagga?",
+         "opts": [
+             "Rādha asks what a term means, the Buddha answers with a bare identification, and the standard formula closes each discourse",
+             "No repeating pattern connects this discourse to the rest of the vagga",
+             "Each subsequent discourse introduces an entirely new format",
+             "A pattern of extended narrative dialogue"],
+         "correct": 0,
+         "expl": "The vagga's remaining eleven discourses will follow this exact template."},
+        {"q": "Why might placing this barer treatment right after SN 23.1's elaborate one be deliberate?",
+         "opts": [
+             "To demonstrate the same content survives complete compression, needing neither image nor argument",
+             "Because SN 23.1's own content was considered incorrect",
+             "To introduce an entirely unrelated teaching",
+             "There is no meaningful reason for the placement"],
+         "correct": 0,
+         "expl": "A contrast between developed and stripped-down treatments of the same identification."},
+        {"q": "How many aggregates does this identification apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, each named individually."},
+        {"q": "What vagga does this discourse open?",
+         "opts": ["Dutiyamāravagga", "Māravagga", "Upasaggavagga", "Avijjāvagga"],
+         "correct": 0,
+         "expl": "SN 23.11 opens Rādhasaṃyutta's second vagga."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Continuing the setting shared by most of this book's discourses."},
+        {"q": "What closing formula step follows disillusionment in this discourse?",
+         "opts": [
+             "Desire fades away, then freedom, then self-knowing freedom",
+             "Immediate rebirth in a heavenly realm",
+             "A return to household life",
+             "Further disillusionment with no resolution"],
+         "correct": 0,
+         "expl": "The standard chain given here in full."},
+        {"q": "What comes next in Dutiyamāravagga after this discourse?",
+         "opts": [
+             "SN 23.12, examining what is \"of Māra nature\"",
+             "SN 23.23, opening the next vagga",
+             "A return to SN 23.1",
+             "The start of a new saṃyutta"],
+         "correct": 0,
+         "expl": "Continuing this vagga's own cycle through characterizing terms."},
+    ],
+    marginalia=[
+        ("A second treatment, stripped to its bones", [
+            "no murderer, no murdered, no chain of purposes &mdash;",
+            "simply \"form is Māra,\" stated once and left there",
+        ]),
+        ("The full closing formula, one last time", [
+            "disillusionment through freedom, spelled out completely &mdash;",
+            "later discourses in this vagga will only gesture at it",
+        ]),
+        ("A template for eleven more discourses", [
+            "ask, answer bare, close standard &mdash;",
+            "the shape this whole vagga now follows",
+        ]),
+        ("Compression as its own kind of demonstration", [
+            "the same content, needing no support &mdash;",
+            "meaningful without image or argument",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.11/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.10.html">SN 23.10 &middot; Desire and Greed '
+        "(2nd)</a> &mdash; the previous discourse, closing Māravagga.",
+        '<a href="sn-23.12.html">SN 23.12 &middot; Subject to '
+        "Māra</a> &mdash; the next discourse, this discourse's own "
+        "direct companion.",
+    ],
+)
+
+page(23, 12, "Māradhamma", "Subject to Māra",
+    vagga="Dutiyamāravagga",
+    meta_title="SN 23.12 · Subject to Māra — A Nature, Not Just an Identity",
+    meta_desc="Not merely \"is Māra\" but \"is of Māra nature\" — a subtle "
+        "shift from identity to inherent quality. Saṃyutta Nikāya "
+        "23.12, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha questioning the Buddha"),
+        ("Form", "The identical structure as SN 23.11, with \"of Māra nature\" replacing the bare \"is Māra\""),
+        ("Length", "Very short — the closing formula now elided"),
+        ("Northern parallel", "Shares its structure with SN 23.11"),
+        ("Difficulty", "Approachable — the grammatical shift rewards brief attention"),
+    ],
+    why=("The direct companion to SN 23.11, asking not what \"is\" Māra "
+        "but what is \"of Māra nature\" (māradhamma) — a subtle shift "
+        "from a bare equation to a claim about inherent quality, "
+        "answered with the identical content and the closing formula "
+        "now compressed for the first time in this vagga."),
+    guide=[
+        ("A grammatical shift: identity to inherent nature", [
+            "\"They speak of 'Māra nature'. What is of Māra nature?\" — "
+            "where SN 23.11 asked simply \"how is Māra defined,\" this "
+            "discourse asks about māradhamma, something's own inherent "
+            "nature or characteristic quality of being Māra-like, "
+            "rather than a flat identity statement.",
+        ]),
+        ("The identical answer, adapted to the new grammar", [
+            "\"Form is of Māra nature. Feeling, perception, choices, and "
+            "consciousness are of Māra nature\" — the same five "
+            "aggregates, the same underlying content as SN 23.11, "
+            "restated to fit this discourse's own slightly different "
+            "grammatical frame.",
+        ]),
+        ("The closing formula, elided for the first time", [
+            "\"Seeing this...\" — where SN 23.11 spelled out the entire "
+            "disillusionment-to-freedom chain, this discourse compresses "
+            "it immediately, trusting the reader to supply what was "
+            "just given in full one discourse earlier.",
+        ]),
+        ("Setting the vagga's own compression rhythm", [
+            "This discourse establishes the pattern the remaining ten "
+            "discourses in this vagga will follow: only the opening "
+            "question and bare answer given in full, with the standard "
+            "closing formula elided throughout, since it was already "
+            "spelled out completely at SN 23.11.",
+        ]),
+    ],
+    terms=[
+        ("māradhamma", "of Māra nature — this discourse's own subject, a grammatical variant of SN 23.11's bare Māra-identification"),
+        ("dhamma", "nature, quality, characteristic — the suffix marking this discourse's shift from identity to inherent quality"),
+        ("Māra", "the personification of death and temptation — the shared subject with SN 23.11"),
+        ("peyyāla", "an elision mark — used here for the first time in this vagga to compress the standard closing formula"),
+        ("nāparaṁ itthattāyā", "\"there is nothing further for this place\" — the formula's own final declaration, now only implied"),
+    ],
+    text_intro=("The complete discourse as given in the source, with the closing "
+        "formula elided for the first time in this vagga. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.12:1.1-1.4"),
+        ("p", "§2", "sn23.12:1.5"),
+        ("p", "§3", "sn23.12:1.6-1.7"),
+    ],
+    quiz=[
+        {"q": "What does this discourse ask about, compared to SN 23.11's own question?",
+         "opts": [
+             "\"Māra nature\" (māradhamma) — an inherent quality rather than a bare identity",
+             "An entirely unrelated topic",
+             "The exact same question with no grammatical difference",
+             "A question about a different disciple entirely"],
+         "correct": 0,
+         "expl": "A subtle shift from a flat equation to a claim about inherent characteristic."},
+        {"q": "How does the Buddha answer this discourse's question?",
+         "opts": [
+             "Each aggregate is of Māra nature, restating SN 23.11's content in the new grammatical frame",
+             "With an entirely different set of terms",
+             "By denying any aggregate has Māra nature",
+             "By refusing to answer"],
+         "correct": 0,
+         "expl": "The same underlying content, adapted to this discourse's own grammar."},
+        {"q": "How is the closing formula presented in this discourse, compared to SN 23.11?",
+         "opts": [
+             "Elided for the first time in this vagga, trusting the reader to supply it",
+             "Given in even fuller detail than SN 23.11",
+             "Omitted entirely with no trace at all",
+             "Replaced with a unique closing not used elsewhere"],
+         "correct": 0,
+         "expl": "Since it was already spelled out completely one discourse earlier."},
+        {"q": "What pattern does this discourse establish for the rest of the vagga?",
+         "opts": [
+             "The remaining discourses will give the opening question and bare answer in full, with the closing elided",
+             "Every subsequent discourse will spell out the closing formula in full",
+             "No further compression occurs after this discourse",
+             "The pattern reverses immediately in the next discourse"],
+         "correct": 0,
+         "expl": "Setting this vagga's own compression rhythm going forward."},
+        {"q": "How many aggregates does this discourse's identification apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "What is the relationship between this discourse and SN 23.11?",
+         "opts": [
+             "Direct companions, sharing the same underlying content in slightly different grammatical form",
+             "Entirely unrelated discourses",
+             "A direct contradiction of each other",
+             "Identical in every single word"],
+         "correct": 0,
+         "expl": "The same identification, restated to fit a grammatical variant of the question."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.11's own setting."},
+        {"q": "What comes next in Dutiyamāravagga after this discourse?",
+         "opts": [
+             "SN 23.13, moving to impermanence as the characterizing term",
+             "SN 23.23, opening the next vagga",
+             "A return to SN 23.11",
+             "The start of a new saṃyutta"],
+         "correct": 0,
+         "expl": "Continuing this vagga's own cycle through characterizing terms."},
+        {"q": "What does \"dhamma\" as a suffix mark in this discourse's title term?",
+         "opts": [
+             "A shift from bare identity to inherent nature or quality",
+             "A completely unrelated grammatical function",
+             "A negation of the preceding term",
+             "A plural form of the preceding term"],
+         "correct": 0,
+         "expl": "Distinguishing māradhamma from SN 23.11's simple \"is Māra\" statement."},
+        {"q": "Who asks the question in this discourse?",
+         "opts": ["Venerable Rādha", "Venerable Sāriputta", "Venerable Ānanda", "An unnamed mendicant"],
+         "correct": 0,
+         "expl": "Continuing this saṃyutta's own central questioner."},
+    ],
+    marginalia=[
+        ("A grammatical shift, a familiar answer", [
+            "not \"is Māra\" but \"of Māra nature\" &mdash;",
+            "the same aggregates, a different framing",
+        ]),
+        ("Compression begins here", [
+            "the closing formula elided for the first time &mdash;",
+            "trusting SN 23.11's own full statement",
+        ]),
+        ("A rhythm set for ten more discourses", [
+            "question, bare answer, ellipsis &mdash;",
+            "this vagga's own established shape",
+        ]),
+        ("Identity and nature, two related framings", [
+            "SN 23.11's flat equation, this discourse's inherent quality &mdash;",
+            "the same underlying content, viewed two ways",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.12/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.11.html">SN 23.11 &middot; About Māra</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "companion and source for the full closing formula.",
+        '<a href="sn-23.13.html">SN 23.13 &middot; Impermanence</a> '
+        "&mdash; the next discourse, moving to a new characterizing "
+        "term.",
+    ],
+)
+
+page(23, 13, "Anicca", "Impermanence",
+    vagga="Dutiyamāravagga",
+    meta_title="SN 23.13 · Impermanence — The Second Characterizing Term",
+    meta_desc="What is impermanent? The five aggregates, stated as "
+        "bluntly as SN 23.11's own Māra-identification. Saṃyutta "
+        "Nikāya 23.13, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha questioning the Buddha"),
+        ("Form", "The identical structure as SN 23.12, with impermanence as the new characterizing term"),
+        ("Length", "Very short — the closing formula elided"),
+        ("Northern parallel", "Applies this vagga's established template to anicca, the first of the three marks"),
+        ("Difficulty", "Approachable — best read as part of this vagga's own catalog"),
+    ],
+    why=("Moves this vagga's catalog from Māra to the first of the three "
+        "marks: what is impermanent? The aggregates — stated with the "
+        "same bluntness already established for Māra, confirming this "
+        "vagga's method extends smoothly from one characterizing term "
+        "to the next."),
+    guide=[
+        ("A new term, the identical method", [
+            "\"They speak of 'impermanence'. What has impermanent "
+            "nature?\" — the same question-and-bare-answer structure as "
+            "SN 23.11-12, now applied to anicca rather than Māra.",
+        ]),
+        ("Impermanence stated as bluntly as Māra was", [
+            "\"Form, feeling, perception, choices, and consciousness "
+            "are impermanent\" — no elaboration, no simile, simply the "
+            "direct statement already familiar from this vagga's "
+            "opening pair.",
+        ]),
+        ("Continuity between this vagga's terms", [
+            "That impermanence receives exactly the same treatment as "
+            "Māra confirms these are not separate kinds of teaching "
+            "requiring different methods, but variations on a single "
+            "recurring catalog — each characterizing term simply "
+            "substituted into the identical template.",
+        ]),
+        ("Setting up its own companion", [
+            "SN 23.14, this discourse's own direct companion, will ask "
+            "about \"liable to impermanence\" rather than impermanence "
+            "itself — the same grammatical variation already seen "
+            "between SN 23.11 and SN 23.12, now repeated for this new "
+            "term.",
+        ]),
+    ],
+    terms=[
+        ("anicca", "impermanent — the characterizing term this discourse examines, the first of the three marks in this vagga's catalog"),
+        ("Māra", "the term examined in SN 23.11-12, the previous pair in this vagga's catalog"),
+        ("khandha", "aggregate — form, feeling, perception, choices, and consciousness, each named as impermanent"),
+        ("aniccadhamma", "liable to impermanence — the grammatical variant SN 23.14 will examine next"),
+        ("peyyāla", "an elision mark, compressing the standard closing formula throughout this vagga"),
+    ],
+    text_intro=("The complete discourse as given in the source, applying this "
+        "vagga's established template to impermanence. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.13:1.1-1.4"),
+        ("p", "§2", "sn23.13:1.5"),
+        ("p", "§3", "sn23.13:1.6-1.7"),
+    ],
+    quiz=[
+        {"q": "What characterizing term does this discourse examine, moving from SN 23.11-12's own Māra?",
+         "opts": ["Impermanence (anicca)", "Suffering (dukkha)", "Not-self (anattā)", "The leash to existence"],
+         "correct": 0,
+         "expl": "The first of the three marks, now given the same treatment as Māra."},
+        {"q": "How does the Buddha answer this discourse's question?",
+         "opts": [
+             "Form, feeling, perception, choices, and consciousness are impermanent, stated without elaboration",
+             "With an extended simile about impermanence",
+             "By denying that anything is impermanent",
+             "With a lengthy philosophical argument"],
+         "correct": 0,
+         "expl": "The same bluntness already established for Māra in SN 23.11-12."},
+        {"q": "What does applying the identical method to impermanence, as was used for Māra, confirm?",
+         "opts": [
+             "These are variations on a single recurring catalog, not separate kinds of teaching",
+             "Māra and impermanence are actually the same concept",
+             "This discourse contradicts the earlier treatment of Māra",
+             "Only Māra deserves this kind of direct treatment"],
+         "correct": 0,
+         "expl": "Each characterizing term simply substituted into the identical template."},
+        {"q": "What discourse is this discourse's direct companion?",
+         "opts": ["SN 23.14, \"Liable to Impermanence\"", "SN 23.11, \"About Māra\"", "SN 23.23, opening the next vagga", "SN 22.113, much earlier in this book"],
+         "correct": 0,
+         "expl": "Repeating the same grammatical variation seen between SN 23.11 and SN 23.12."},
+        {"q": "How many aggregates does this discourse's identification apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "How is the closing formula presented in this discourse?",
+         "opts": [
+             "Elided, following the pattern established at SN 23.12",
+             "Given in full detail",
+             "Omitted entirely with no trace",
+             "Replaced with a unique closing"],
+         "correct": 0,
+         "expl": "Compressed throughout this vagga after SN 23.11's own full statement."},
+        {"q": "What is anicca, in the context of this book's own vocabulary?",
+         "opts": [
+             "The first of the three marks (impermanent, suffering, not-self)",
+             "A synonym for Māra with no distinct meaning",
+             "A term unique to this single discourse",
+             "A technical term unrelated to the three marks"],
+         "correct": 0,
+         "expl": "Widely used throughout this book, now given this vagga's own compressed treatment."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.11-12's own setting."},
+        {"q": "What term will this vagga's catalog move to after impermanence?",
+         "opts": ["Suffering (dukkha)", "The leash to existence", "The sandcastle simile", "A return to Māra"],
+         "correct": 0,
+         "expl": "The second of the three marks, continuing this vagga's own systematic sequence."},
+        {"q": "Who asks the question in this discourse?",
+         "opts": ["Venerable Rādha", "Venerable Sāriputta", "Venerable Ānanda", "An unnamed mendicant"],
+         "correct": 0,
+         "expl": "Continuing this saṃyutta's own central questioner."},
+    ],
+    marginalia=[
+        ("A new term, the same bare method", [
+            "impermanence stated as bluntly as Māra &mdash;",
+            "no elaboration needed for either",
+        ]),
+        ("One catalog, many substituted terms", [
+            "the template unchanged, the term replaced &mdash;",
+            "confirming a single recurring method",
+        ]),
+        ("Continuity across this vagga's own sequence", [
+            "Māra, then impermanence, in identical form &mdash;",
+            "each characterizing term treated alike",
+        ]),
+        ("A companion still to come", [
+            "\"liable to impermanence\" next &mdash;",
+            "the same grammatical variant as SN 23.12",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.13/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.12.html">SN 23.12 &middot; Subject to '
+        "Māra</a> &mdash; the previous discourse, the last of this "
+        "vagga's own Māra pair.",
+        '<a href="sn-23.14.html">SN 23.14 &middot; Liable to '
+        "Impermanence</a> &mdash; the next discourse, this discourse's "
+        "own direct companion.",
+    ],
+)
+
+page(23, 14, "Aniccadhamma", "Liable to Impermanence",
+    vagga="Dutiyamāravagga",
+    meta_title="SN 23.14 · Liable to Impermanence — Closing the Second Pair",
+    meta_desc="The companion to SN 23.13: the same identification, now "
+        "framed as an inherent quality rather than a bare fact. "
+        "Saṃyutta Nikāya 23.14, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha questioning the Buddha"),
+        ("Form", "The identical structure as SN 23.12, with impermanence in place of Māra"),
+        ("Length", "Very short — the closing formula elided"),
+        ("Northern parallel", "Completes the anicca/aniccadhamma pair, mirroring SN 23.11-12's own Māra/māradhamma pair"),
+        ("Difficulty", "Approachable — best read directly after SN 23.13"),
+    ],
+    why=("Closes this vagga's second pair, applying the same "
+        "bare-identity-to-inherent-nature grammatical shift already "
+        "seen between SN 23.11 and SN 23.12, now to impermanence rather "
+        "than Māra."),
+    guide=[
+        ("The same shift, a new term", [
+            "\"They speak of having 'impermanent nature'. What is of "
+            "impermanent nature?\" — aniccadhamma, exactly paralleling "
+            "SN 23.12's own māradhamma, applied here to impermanence.",
+        ]),
+        ("The identical content, restated once more", [
+            "\"Form, feeling, perception, choices, and consciousness "
+            "are of impermanent nature\" — the same five aggregates, "
+            "confirming that \"is impermanent\" (SN 23.13) and \"is of "
+            "impermanent nature\" (this discourse) describe the "
+            "identical underlying fact from two grammatical angles.",
+        ]),
+        ("A completed pair, mirroring the vagga's own opening", [
+            "With this discourse, the second of this vagga's paired "
+            "terms is complete, following exactly the same two-question "
+            "shape (bare identity, then inherent nature) as the "
+            "Māra/māradhamma pair that opened the vagga.",
+        ]),
+        ("Moving to the third pair: suffering", [
+            "SN 23.15 and SN 23.16 will apply this same paired structure "
+            "to dukkha, \"suffering\" — the second of the three marks, "
+            "continuing this vagga's systematic progression.",
+        ]),
+    ],
+    terms=[
+        ("aniccadhamma", "liable to impermanence, of impermanent nature — this discourse's own subject, paralleling SN 23.12's māradhamma"),
+        ("anicca", "impermanent — SN 23.13's own bare term, the counterpart to this discourse's grammatical variant"),
+        ("dhamma", "nature, quality — the shared suffix marking both this discourse and SN 23.12's shift to inherent quality"),
+        ("dukkha", "suffering — the term SN 23.15-16 will examine next, continuing this vagga's progression through the three marks"),
+        ("peyyāla", "an elision mark, compressing the standard closing formula throughout this vagga"),
+    ],
+    text_intro=("The complete discourse as given in the source, mirroring SN "
+        "23.12's own grammatical shift, now applied to impermanence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.14:1.1-1.4"),
+        ("p", "§2", "sn23.14:1.5"),
+        ("p", "§3", "sn23.14:1.6-1.7"),
+    ],
+    quiz=[
+        {"q": "What earlier discourse's grammatical shift does this discourse repeat, now for a new term?",
+         "opts": [
+             "SN 23.12's shift from bare identity (\"is Māra\") to inherent nature (\"of Māra nature\")",
+             "SN 23.1's own chain of five purposes",
+             "SN 23.2's sandcastle simile",
+             "No earlier discourse's structure is repeated here"],
+         "correct": 0,
+         "expl": "The identical shift, now applied to impermanence instead of Māra."},
+        {"q": "What does this discourse ask about?",
+         "opts": [
+             "\"Impermanent nature\" (aniccadhamma)",
+             "Māra nature",
+             "Suffering",
+             "The leash to existence"],
+         "correct": 0,
+         "expl": "Completing the anicca/aniccadhamma pair."},
+        {"q": "How does the Buddha answer?",
+         "opts": [
+             "The five aggregates are of impermanent nature, restating SN 23.13's content",
+             "With an entirely new set of terms",
+             "By denying the aggregates have this nature",
+             "With a lengthy simile"],
+         "correct": 0,
+         "expl": "Confirming the same underlying fact from a different grammatical angle."},
+        {"q": "What does completing this pair mirror from earlier in the vagga?",
+         "opts": [
+             "The same two-question shape as the Māra/māradhamma pair that opened the vagga",
+             "An entirely unrelated structure",
+             "A structure found nowhere else in this vagga",
+             "A contradiction of the earlier pair's own shape"],
+         "correct": 0,
+         "expl": "Bare identity, then inherent nature — the same pattern repeated."},
+        {"q": "What term will the vagga's next pair (SN 23.15-16) examine?",
+         "opts": ["Suffering (dukkha)", "Not-self (anattā)", "A return to Māra", "The leash to existence"],
+         "correct": 0,
+         "expl": "The second of the three marks, continuing this vagga's systematic progression."},
+        {"q": "How many aggregates does this discourse's identification apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "How is the closing formula presented in this discourse?",
+         "opts": [
+             "Elided, following this vagga's own established pattern",
+             "Given in full detail",
+             "Omitted entirely with no trace",
+             "Replaced with a unique closing"],
+         "correct": 0,
+         "expl": "Compressed throughout this vagga after SN 23.11's own full statement."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.11-13's own setting."},
+        {"q": "What do \"is impermanent\" and \"is of impermanent nature\" describe, according to this pair of discourses?",
+         "opts": [
+             "The identical underlying fact, viewed from two grammatical angles",
+             "Two entirely different, unrelated facts",
+             "A contradiction requiring resolution",
+             "Only one of the two is actually true"],
+         "correct": 0,
+         "expl": "Confirmed by the identical content given for both questions."},
+        {"q": "Who asks the question in this discourse?",
+         "opts": ["Venerable Rādha", "Venerable Sāriputta", "Venerable Ānanda", "An unnamed mendicant"],
+         "correct": 0,
+         "expl": "Continuing this saṃyutta's own central questioner."},
+    ],
+    marginalia=[
+        ("The same shift, repeated for a new term", [
+            "aniccadhamma, paralleling māradhamma &mdash;",
+            "identity and nature, two angles on one fact",
+        ]),
+        ("A second pair, now complete", [
+            "anicca and aniccadhamma both given &mdash;",
+            "mirroring the vagga's own opening pair exactly",
+        ]),
+        ("Two questions, one underlying reality", [
+            "\"is impermanent,\" \"of impermanent nature\" &mdash;",
+            "the identical five aggregates, described either way",
+        ]),
+        ("Suffering, the next term in this catalog", [
+            "SN 23.15-16 continue the same pattern &mdash;",
+            "the second of the three marks, treated alike",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.14/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.13.html">SN 23.13 &middot; Impermanence</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "companion.",
+        '<a href="sn-23.15.html">SN 23.15 &middot; Suffering</a> '
+        "&mdash; the next discourse, moving to the second of the "
+        "three marks.",
+    ],
+)
+
+page(23, 15, "Dukkha", "Suffering",
+    vagga="Dutiyamāravagga",
+    meta_title="SN 23.15 · Suffering — The Third Characterizing Term",
+    meta_desc="What is suffering? The five aggregates, given this "
+        "vagga's now-familiar bare treatment. Saṃyutta Nikāya 23.15, "
+        "with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha questioning the Buddha"),
+        ("Form", "The identical structure as SN 23.13, with suffering as the new characterizing term"),
+        ("Length", "Very short — the closing formula elided"),
+        ("Northern parallel", "Applies this vagga's established template to dukkha, the second of the three marks"),
+        ("Difficulty", "Approachable — best read as part of this vagga's own catalog"),
+    ],
+    why=("Continues this vagga's catalog to the second of the three "
+        "marks: what is suffering? The aggregates, stated with the same "
+        "bluntness already given to Māra and impermanence, confirming "
+        "the catalog's method extends smoothly across each mark in "
+        "turn."),
+    guide=[
+        ("A third term, the identical method", [
+            "\"They speak of 'suffering'. What is suffering?\" — the "
+            "same question-and-bare-answer structure as SN 23.13, now "
+            "applied to dukkha rather than anicca.",
+        ]),
+        ("Suffering stated as bluntly as its predecessors", [
+            "\"Form, feeling, perception, choices, and consciousness "
+            "are suffering\" — no elaboration, no simile, matching this "
+            "vagga's own established directness.",
+        ]),
+        ("A catalog moving steadily through the three marks", [
+            "Having already given impermanence this treatment at SN "
+            "23.13-14, this discourse confirms the method applies "
+            "equally to suffering — the middle term of the classic "
+            "three-mark formula, here treated with the same economy as "
+            "the first.",
+        ]),
+        ("Setting up its own companion", [
+            "SN 23.16 will ask about \"liable to suffering\" rather than "
+            "suffering itself, repeating the same grammatical variation "
+            "already seen twice in this vagga.",
+        ]),
+    ],
+    terms=[
+        ("dukkha", "suffering — the characterizing term this discourse examines, the second of the three marks in this vagga's catalog"),
+        ("anicca", "impermanent — the term examined in SN 23.13-14, the previous pair in this vagga's catalog"),
+        ("khandha", "aggregate — form, feeling, perception, choices, and consciousness, each named as suffering"),
+        ("dukkhadhamma", "liable to suffering — the grammatical variant SN 23.16 will examine next"),
+        ("peyyāla", "an elision mark, compressing the standard closing formula throughout this vagga"),
+    ],
+    text_intro=("The complete discourse as given in the source, applying this "
+        "vagga's established template to suffering. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.15:1.1-1.4"),
+        ("p", "§2", "sn23.15:1.5"),
+        ("p", "§3", "sn23.15:1.6-1.7"),
+    ],
+    quiz=[
+        {"q": "What characterizing term does this discourse examine, moving from SN 23.13-14's own impermanence?",
+         "opts": ["Suffering (dukkha)", "Not-self (anattā)", "The leash to existence", "Māra"],
+         "correct": 0,
+         "expl": "The second of the three marks, now given this vagga's own treatment."},
+        {"q": "How does the Buddha answer this discourse's question?",
+         "opts": [
+             "Form, feeling, perception, choices, and consciousness are suffering, stated without elaboration",
+             "With an extended simile about suffering",
+             "By denying that suffering exists",
+             "With a lengthy philosophical argument"],
+         "correct": 0,
+         "expl": "The same bluntness already given to Māra and impermanence."},
+        {"q": "What does this discourse confirm about the vagga's method?",
+         "opts": [
+             "It applies equally to each of the three marks in turn, not just the first",
+             "It only works for impermanence, not suffering",
+             "Suffering requires an entirely different treatment",
+             "This discourse contradicts the earlier treatment of impermanence"],
+         "correct": 0,
+         "expl": "The method extends smoothly across all three marks."},
+        {"q": "What discourse is this discourse's direct companion?",
+         "opts": ["SN 23.16, \"Liable to Suffering\"", "SN 23.13, \"Impermanence\"", "SN 23.11, \"About Māra\"", "SN 22.113, much earlier in this book"],
+         "correct": 0,
+         "expl": "Repeating the same grammatical variation seen twice already in this vagga."},
+        {"q": "How many aggregates does this discourse's identification apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "How is the closing formula presented in this discourse?",
+         "opts": [
+             "Elided, following the pattern established at SN 23.12",
+             "Given in full detail",
+             "Omitted entirely with no trace",
+             "Replaced with a unique closing"],
+         "correct": 0,
+         "expl": "Compressed throughout this vagga after SN 23.11's own full statement."},
+        {"q": "What is dukkha's place in this book's own vocabulary?",
+         "opts": [
+             "The second of the three marks (impermanent, suffering, not-self)",
+             "A synonym for Māra with no distinct meaning",
+             "A term unique to this single discourse",
+             "A term unrelated to the three marks"],
+         "correct": 0,
+         "expl": "Widely used throughout this book, now given this vagga's own compressed treatment."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.11-14's own setting."},
+        {"q": "What term will this vagga's catalog move to after suffering?",
+         "opts": ["Not-self (anattā)", "The leash to existence", "The sandcastle simile", "A return to Māra"],
+         "correct": 0,
+         "expl": "The third and final of the three marks, continuing this vagga's systematic sequence."},
+        {"q": "Who asks the question in this discourse?",
+         "opts": ["Venerable Rādha", "Venerable Sāriputta", "Venerable Ānanda", "An unnamed mendicant"],
+         "correct": 0,
+         "expl": "Continuing this saṃyutta's own central questioner."},
+    ],
+    marginalia=[
+        ("A third term, the same bare method", [
+            "suffering stated as bluntly as impermanence &mdash;",
+            "no elaboration needed for either",
+        ]),
+        ("The catalog moving through the three marks", [
+            "impermanence, then suffering, in identical form &mdash;",
+            "confirming the method's own consistency",
+        ]),
+        ("Continuity, term after term", [
+            "Māra, impermanence, now suffering &mdash;",
+            "each characterizing term treated alike",
+        ]),
+        ("A companion still to come", [
+            "\"liable to suffering\" next &mdash;",
+            "the same grammatical variant repeated once more",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.15/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.14.html">SN 23.14 &middot; Liable to '
+        "Impermanence</a> &mdash; the previous discourse, the last of "
+        "this vagga's own impermanence pair.",
+        '<a href="sn-23.16.html">SN 23.16 &middot; Liable to '
+        "Suffering</a> &mdash; the next discourse, this discourse's "
+        "own direct companion.",
+    ],
+)
+
+page(23, 16, "Dukkhadhamma", "Liable to Suffering",
+    vagga="Dutiyamāravagga",
+    meta_title="SN 23.16 · Liable to Suffering — Closing the Third Pair",
+    meta_desc="The companion to SN 23.15: the same identification, now "
+        "framed as an inherent quality. Saṃyutta Nikāya 23.16, with "
+        "Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha questioning the Buddha"),
+        ("Form", "The identical structure as SN 23.14, with suffering in place of impermanence"),
+        ("Length", "Very short — the closing formula elided"),
+        ("Northern parallel", "Completes the dukkha/dukkhadhamma pair"),
+        ("Difficulty", "Approachable — best read directly after SN 23.15"),
+    ],
+    why=("Closes this vagga's third pair, applying the now-familiar "
+        "bare-identity-to-inherent-nature shift to suffering, "
+        "completing the middle term of the three-mark sequence this "
+        "vagga works methodically through."),
+    guide=[
+        ("The same shift, applied to suffering", [
+            "\"They speak of having 'suffering nature'. What is of a "
+            "nature to suffer?\" — dukkhadhamma, exactly paralleling "
+            "aniccadhamma and māradhamma, now for the second mark.",
+        ]),
+        ("The identical content, restated once more", [
+            "\"Form, feeling, perception, choices, and consciousness "
+            "are of a nature to suffer\" — the same five aggregates, "
+            "the same underlying fact as SN 23.15, restated in this "
+            "discourse's own grammatical frame.",
+        ]),
+        ("A third completed pair", [
+            "With this discourse, three of this vagga's terms have now "
+            "each received the full bare-identity/inherent-nature "
+            "treatment: Māra (SN 23.11-12), impermanence (SN 23.13-14), "
+            "and suffering (SN 23.15-16) — confirming this two-question "
+            "shape as this vagga's own consistent unit.",
+        ]),
+        ("Moving to not-self", [
+            "SN 23.17 and SN 23.18 will complete the three-mark sequence "
+            "with anattā, \"not-self\" — the third and final mark, "
+            "closing this vagga's systematic progression through the "
+            "Canon's most familiar threefold formula.",
+        ]),
+    ],
+    terms=[
+        ("dukkhadhamma", "liable to suffering, of a nature to suffer — this discourse's own subject, paralleling aniccadhamma and māradhamma"),
+        ("dukkha", "suffering — SN 23.15's own bare term, the counterpart to this discourse's grammatical variant"),
+        ("dhamma", "nature, quality — the shared suffix marking this discourse's shift to inherent quality"),
+        ("anattā", "not-self — the term SN 23.17-18 will examine next, completing this vagga's three-mark sequence"),
+        ("peyyāla", "an elision mark, compressing the standard closing formula throughout this vagga"),
+    ],
+    text_intro=("The complete discourse as given in the source, mirroring SN "
+        "23.14's own grammatical shift, now applied to suffering. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.16:1.1-1.4"),
+        ("p", "§2", "sn23.16:1.5"),
+        ("p", "§3", "sn23.16:1.6-1.7"),
+    ],
+    quiz=[
+        {"q": "What does this discourse ask about, completing the dukkha/dukkhadhamma pair?",
+         "opts": [
+             "\"Suffering nature\" (dukkhadhamma)",
+             "Māra nature",
+             "Impermanent nature",
+             "The leash to existence"],
+         "correct": 0,
+         "expl": "The grammatical variant already seen twice in this vagga."},
+        {"q": "How does the Buddha answer?",
+         "opts": [
+             "The five aggregates are of a nature to suffer, restating SN 23.15's content",
+             "With an entirely new set of terms",
+             "By denying the aggregates have this nature",
+             "With a lengthy simile"],
+         "correct": 0,
+         "expl": "Confirming the same underlying fact from a different grammatical angle."},
+        {"q": "How many of this vagga's terms have now received the full paired treatment, by the end of this discourse?",
+         "opts": ["Three — Māra, impermanence, and suffering", "Only one", "All six planned pairs", "Five"],
+         "correct": 0,
+         "expl": "Each given the bare-identity-then-inherent-nature treatment."},
+        {"q": "What does completing this third pair confirm about the vagga's own structure?",
+         "opts": [
+             "The two-question shape (bare identity, then inherent nature) is this vagga's own consistent unit",
+             "Each pair actually follows a completely different structure",
+             "This is the vagga's own final pair",
+             "The pattern breaks down at this point"],
+         "correct": 0,
+         "expl": "The same shape repeated three times so far, confirming its consistency."},
+        {"q": "What term will the vagga's next pair (SN 23.17-18) examine?",
+         "opts": ["Not-self (anattā)", "A return to Māra", "The leash to existence", "The sandcastle simile"],
+         "correct": 0,
+         "expl": "The third and final of the three marks, completing this vagga's systematic sequence."},
+        {"q": "How many aggregates does this discourse's identification apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "How is the closing formula presented in this discourse?",
+         "opts": [
+             "Elided, following this vagga's own established pattern",
+             "Given in full detail",
+             "Omitted entirely with no trace",
+             "Replaced with a unique closing"],
+         "correct": 0,
+         "expl": "Compressed throughout this vagga after SN 23.11's own full statement."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.11-15's own setting."},
+        {"q": "What do \"is suffering\" and \"is of a nature to suffer\" describe, according to this pair of discourses?",
+         "opts": [
+             "The identical underlying fact, viewed from two grammatical angles",
+             "Two entirely different, unrelated facts",
+             "A contradiction requiring resolution",
+             "Only one of the two is actually true"],
+         "correct": 0,
+         "expl": "Confirmed by the identical content given for both questions."},
+        {"q": "Who asks the question in this discourse?",
+         "opts": ["Venerable Rādha", "Venerable Sāriputta", "Venerable Ānanda", "An unnamed mendicant"],
+         "correct": 0,
+         "expl": "Continuing this saṃyutta's own central questioner."},
+    ],
+    marginalia=[
+        ("The same shift, repeated for suffering", [
+            "dukkhadhamma, paralleling aniccadhamma and māradhamma &mdash;",
+            "identity and nature, two angles on one fact",
+        ]),
+        ("A third pair, now complete", [
+            "dukkha and dukkhadhamma both given &mdash;",
+            "the vagga's own consistent unit, confirmed again",
+        ]),
+        ("Three marks, two given so far", [
+            "impermanence and suffering complete &mdash;",
+            "not-self still to come, closing the sequence",
+        ]),
+        ("Toward the sequence's own completion", [
+            "SN 23.17-18 finish the three-mark set &mdash;",
+            "the Canon's most familiar threefold formula",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.16/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.15.html">SN 23.15 &middot; Suffering</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "companion.",
+        '<a href="sn-23.17.html">SN 23.17 &middot; Not-Self</a> '
+        "&mdash; the next discourse, completing this vagga's own "
+        "three-mark sequence.",
+    ],
+)
+
+page(23, 17, "Anattā", "Not-Self",
+    vagga="Dutiyamāravagga",
+    meta_title="SN 23.17 · Not-Self — Completing the Three Marks",
+    meta_desc="What is not-self? The five aggregates, closing this "
+        "vagga's own methodical progression through impermanence, "
+        "suffering, and not-self. Saṃyutta Nikāya 23.17, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha questioning the Buddha"),
+        ("Form", "The identical structure as SN 23.13/15, with not-self as the third and final mark"),
+        ("Length", "Very short — the closing formula elided"),
+        ("Northern parallel", "Applies this vagga's established template to anattā, completing the classic three-mark sequence"),
+        ("Difficulty", "Approachable — best read as the completion of this vagga's own catalog"),
+    ],
+    why=("Completes this vagga's progression through the three marks: "
+        "what is not-self? The aggregates, stated with the same "
+        "bluntness already given to Māra, impermanence, and suffering "
+        "— the third and final member of the Canon's most familiar "
+        "threefold formula now given the same treatment as its "
+        "predecessors."),
+    guide=[
+        ("The third mark, the identical method", [
+            "\"They speak of 'not-self'. What is not-self?\" — the same "
+            "question-and-bare-answer structure as SN 23.13 and SN "
+            "23.15, now applied to anattā, completing the classic "
+            "impermanent/suffering/not-self sequence.",
+        ]),
+        ("Not-self stated with the same bluntness", [
+            "\"Form, feeling, perception, choices, and consciousness "
+            "are not-self\" — no elaboration, matching this vagga's own "
+            "established directness for every prior term.",
+        ]),
+        ("Why treating not-self identically to the other marks matters", [
+            "Not-self is often given more extended, argumentative "
+            "treatment elsewhere in this book (as at SN 22.59, the "
+            "second sermon) — this discourse's willingness to state it "
+            "with the same bare economy as Māra or impermanence confirms "
+            "that, once the underlying reasoning is established "
+            "elsewhere, even this most philosophically loaded mark can "
+            "be stated as a simple fact requiring no further argument.",
+        ]),
+        ("Setting up the sequence's own close", [
+            "SN 23.18 will ask about \"naturally not-self\" rather than "
+            "not-self itself, completing this vagga's third pair and, "
+            "with it, the entire three-mark progression begun at SN "
+            "23.13.",
+        ]),
+    ],
+    terms=[
+        ("anattā", "not-self — the characterizing term this discourse examines, the third and final of the three marks"),
+        ("dukkha", "suffering — the term examined in SN 23.15-16, the previous pair in this vagga's catalog"),
+        ("khandha", "aggregate — form, feeling, perception, choices, and consciousness, each named as not-self"),
+        ("anattadhamma", "naturally not-self — the grammatical variant SN 23.18 will examine next"),
+        ("peyyāla", "an elision mark, compressing the standard closing formula throughout this vagga"),
+    ],
+    text_intro=("The complete discourse as given in the source, applying this "
+        "vagga's established template to not-self. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.17:1.1-1.4"),
+        ("p", "§2", "sn23.17:1.5"),
+        ("p", "§3", "sn23.17:1.6-1.7"),
+    ],
+    quiz=[
+        {"q": "What characterizing term does this discourse examine, completing the three marks?",
+         "opts": ["Not-self (anattā)", "The leash to existence", "A return to Māra", "The sandcastle simile"],
+         "correct": 0,
+         "expl": "The third and final of the three marks, following impermanence and suffering."},
+        {"q": "How does the Buddha answer this discourse's question?",
+         "opts": [
+             "Form, feeling, perception, choices, and consciousness are not-self, stated without elaboration",
+             "With an extended argument about not-self",
+             "By denying that not-self applies to the aggregates",
+             "With a lengthy philosophical debate"],
+         "correct": 0,
+         "expl": "The same bluntness already given to Māra, impermanence, and suffering."},
+        {"q": "Where else in this book is not-self given more extended, argumentative treatment?",
+         "opts": [
+             "SN 22.59, the Buddha's second sermon",
+             "Only in this single discourse",
+             "SN 22.93-95, the similes for the aggregates",
+             "Not-self is never argued for elsewhere in this book"],
+         "correct": 0,
+         "expl": "This discourse's bare economy is possible because the underlying reasoning is established elsewhere."},
+        {"q": "What does treating not-self identically to the other marks confirm?",
+         "opts": [
+             "Even a philosophically loaded mark can be stated as a simple fact once its reasoning is established elsewhere",
+             "Not-self is actually less important than the other marks",
+             "This discourse contradicts SN 22.59's own treatment",
+             "Only Māra deserves this kind of direct treatment"],
+         "correct": 0,
+         "expl": "The bare treatment relies on argument already made in earlier discourses."},
+        {"q": "What discourse is this discourse's direct companion?",
+         "opts": ["SN 23.18, \"Naturally Not-Self\"", "SN 23.15, \"Suffering\"", "SN 23.11, \"About Māra\"", "SN 22.59, much earlier in this book"],
+         "correct": 0,
+         "expl": "Repeating the same grammatical variation seen throughout this vagga."},
+        {"q": "How many aggregates does this discourse's identification apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "How is the closing formula presented in this discourse?",
+         "opts": [
+             "Elided, following the pattern established at SN 23.12",
+             "Given in full detail",
+             "Omitted entirely with no trace",
+             "Replaced with a unique closing"],
+         "correct": 0,
+         "expl": "Compressed throughout this vagga after SN 23.11's own full statement."},
+        {"q": "What three marks has this vagga now given identical treatment to, by this discourse?",
+         "opts": ["Impermanence, suffering, and not-self", "Only impermanence and suffering", "Only not-self", "Māra, impermanence, and the leash to existence"],
+         "correct": 0,
+         "expl": "The classic threefold formula, each mark treated with the same bare economy."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.11-16's own setting."},
+        {"q": "Who asks the question in this discourse?",
+         "opts": ["Venerable Rādha", "Venerable Sāriputta", "Venerable Ānanda", "An unnamed mendicant"],
+         "correct": 0,
+         "expl": "Continuing this saṃyutta's own central questioner."},
+    ],
+    marginalia=[
+        ("The third mark, the same bare method", [
+            "not-self stated as bluntly as suffering &mdash;",
+            "no argument repeated, only the bare fact",
+        ]),
+        ("A weightier mark, an equally light touch", [
+            "SN 22.59 argued this at length once &mdash;",
+            "here trusted to stand as a simple statement",
+        ]),
+        ("The three marks, now all given this treatment", [
+            "impermanence, suffering, not-self &mdash;",
+            "each stated with the identical economy",
+        ]),
+        ("One companion left to close this sequence", [
+            "\"naturally not-self\" still to come &mdash;",
+            "completing the three-mark progression",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.17/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.16.html">SN 23.16 &middot; Liable to '
+        "Suffering</a> &mdash; the previous discourse, the last of "
+        "this vagga's own suffering pair.",
+        '<a href="sn-23.18.html">SN 23.18 &middot; Naturally '
+        "Not-Self</a> &mdash; the next discourse, this discourse's own "
+        "direct companion.",
+    ],
+)
+
+page(23, 18, "Anattadhamma", "Naturally Not-Self",
+    vagga="Dutiyamāravagga",
+    meta_title="SN 23.18 · Naturally Not-Self — The Three Marks Complete",
+    meta_desc="The companion to SN 23.17: the same identification, now "
+        "framed as an inherent quality, completing this vagga's own "
+        "progression through the three marks. Saṃyutta Nikāya 23.18, "
+        "with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha questioning the Buddha"),
+        ("Form", "The identical structure as SN 23.14/16, with not-self as the final term"),
+        ("Length", "Very short — the closing formula elided"),
+        ("Northern parallel", "Completes the anattā/anattadhamma pair, and this vagga's own three-mark sequence"),
+        ("Difficulty", "Approachable — best read as the close of the three-mark portion of this vagga"),
+    ],
+    why=("Closes this vagga's third pair and, with it, its entire "
+        "progression through the three marks: the same bare-identity-"
+        "to-inherent-nature shift applied to not-self, completing "
+        "impermanence, suffering, and not-self as a matched set of "
+        "three pairs — six discourses in total, all built from the "
+        "identical two-question template."),
+    guide=[
+        ("The same shift, applied to not-self", [
+            "\"They speak of having 'not-self nature'. What has a "
+            "nature of not-self?\" — anattadhamma, exactly paralleling "
+            "dukkhadhamma and aniccadhamma, now for the third mark.",
+        ]),
+        ("The identical content, restated one final time", [
+            "\"Form, feeling, perception, choices, and consciousness "
+            "have a nature of not-self\" — the same five aggregates, "
+            "the same underlying fact as SN 23.17, restated in this "
+            "discourse's own grammatical frame.",
+        ]),
+        ("Six discourses, three marks, one template", [
+            "With this discourse, the three-mark portion of this vagga "
+            "is complete: SN 23.13-14 (impermanence), SN 23.15-16 "
+            "(suffering), and SN 23.17-18 (not-self) each follow the "
+            "identical two-question shape — bare identity, then "
+            "inherent nature — first established for Māra at SN "
+            "23.11-12.",
+        ]),
+        ("Moving to the vagga's own final terms", [
+            "SN 23.19-22, this vagga's closing four discourses, will "
+            "turn from the three marks to a different set of "
+            "characterizing questions — liability to end, to fall, to "
+            "originate, and to cease — closing Dutiyamāravagga with "
+            "vocabulary already partly familiar from SN 22.126's own "
+            "originate/vanish criterion.",
+        ]),
+    ],
+    terms=[
+        ("anattadhamma", "naturally not-self, of not-self nature — this discourse's own subject, paralleling dukkhadhamma and aniccadhamma"),
+        ("anattā", "not-self — SN 23.17's own bare term, the counterpart to this discourse's grammatical variant"),
+        ("dhamma", "nature, quality — the shared suffix marking this discourse's shift to inherent quality"),
+        ("khaya/vaya/samudaya/nirodha", "end / fall / origination / cessation — the four terms SN 23.19-22 will examine next, closing this vagga"),
+        ("peyyāla", "an elision mark, compressing the standard closing formula throughout this vagga"),
+    ],
+    text_intro=("The complete discourse as given in the source, mirroring SN "
+        "23.16's own grammatical shift, now applied to not-self and "
+        "completing this vagga's three-mark sequence. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.18:1.1-1.4"),
+        ("p", "§2", "sn23.18:1.5"),
+        ("p", "§3", "sn23.18:1.6-1.7"),
+    ],
+    quiz=[
+        {"q": "What does this discourse ask about, completing the anattā/anattadhamma pair?",
+         "opts": [
+             "\"Not-self nature\" (anattadhamma)",
+             "Māra nature",
+             "Suffering nature",
+             "The leash to existence"],
+         "correct": 0,
+         "expl": "The grammatical variant already seen three times in this vagga."},
+        {"q": "How does the Buddha answer?",
+         "opts": [
+             "The five aggregates have a nature of not-self, restating SN 23.17's content",
+             "With an entirely new set of terms",
+             "By denying the aggregates have this nature",
+             "With a lengthy simile"],
+         "correct": 0,
+         "expl": "Confirming the same underlying fact from a different grammatical angle."},
+        {"q": "How many discourses, in total, does this vagga's three-mark sequence comprise?",
+         "opts": ["Six — two each for impermanence, suffering, and not-self", "Three, one per mark", "Twelve, the entire vagga", "Only this single discourse"],
+         "correct": 0,
+         "expl": "SN 23.13-18, following the identical two-question template."},
+        {"q": "What shape does each of the three mark-pairs share, first established for Māra?",
+         "opts": [
+             "Bare identity, then inherent nature",
+             "A simile, then a direct instruction",
+             "An extended narrative followed by a formula",
+             "No shared shape connects the pairs"],
+         "correct": 0,
+         "expl": "The template established at SN 23.11-12, repeated for each subsequent mark."},
+        {"q": "What terms will the vagga's closing four discourses (SN 23.19-22) examine?",
+         "opts": [
+             "Liability to end, to fall, to originate, and to cease",
+             "A return to the three marks once more",
+             "The sandcastle simile, repeated",
+             "The leash to existence, repeated"],
+         "correct": 0,
+         "expl": "Closing Dutiyamāravagga with vocabulary partly familiar from SN 22.126."},
+        {"q": "How many aggregates does this discourse's identification apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "How is the closing formula presented in this discourse?",
+         "opts": [
+             "Elided, following this vagga's own established pattern",
+             "Given in full detail",
+             "Omitted entirely with no trace",
+             "Replaced with a unique closing"],
+         "correct": 0,
+         "expl": "Compressed throughout this vagga after SN 23.11's own full statement."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.11-17's own setting."},
+        {"q": "What earlier discourse in this book uses similar \"liable to\" vocabulary to the vagga's closing four discourses?",
+         "opts": [
+             "SN 22.126, using an originate/vanish criterion",
+             "SN 22.1, the opening discourse",
+             "SN 22.93, the river simile",
+             "No earlier discourse uses comparable vocabulary"],
+         "correct": 0,
+         "expl": "Foreshadowing the vagga's own closing terms before they are formally introduced."},
+        {"q": "Who asks the question in this discourse?",
+         "opts": ["Venerable Rādha", "Venerable Sāriputta", "Venerable Ānanda", "An unnamed mendicant"],
+         "correct": 0,
+         "expl": "Continuing this saṃyutta's own central questioner."},
+    ],
+    marginalia=[
+        ("The same shift, closing the three-mark set", [
+            "anattadhamma, paralleling dukkhadhamma and aniccadhamma &mdash;",
+            "identity and nature, one final time",
+        ]),
+        ("Six discourses, one consistent template", [
+            "impermanence, suffering, not-self, each paired &mdash;",
+            "bare identity followed by inherent nature, throughout",
+        ]),
+        ("A sequence completed, echoing SN 23.11-12", [
+            "the same two-question shape, repeated three times &mdash;",
+            "first for Māra, now for each of the three marks",
+        ]),
+        ("Toward this vagga's own closing terms", [
+            "end, fall, origination, cessation to come &mdash;",
+            "SN 23.19-22 close Dutiyamāravagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.18/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.17.html">SN 23.17 &middot; Not-Self</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "companion.",
+        '<a href="sn-23.19.html">SN 23.19 &middot; Liable to End</a> '
+        "&mdash; the next discourse, turning to this vagga's own "
+        "closing set of terms.",
+    ],
+)
+
+page(23, 19, "Khayadhamma", "Liable to End",
+    vagga="Dutiyamāravagga",
+    meta_title="SN 23.19 · Liable to End — A New Set of Closing Terms",
+    meta_desc="Turning from the three marks to a fourth set of "
+        "characterizing questions: what has a liability to end? "
+        "Saṃyutta Nikāya 23.19, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha questioning the Buddha"),
+        ("Form", "The identical bare question-and-answer structure as this vagga's earlier discourses"),
+        ("Length", "Very short — the closing formula elided"),
+        ("Northern parallel", "Khayadhamma, \"liable to end,\" recurs in similar contexts describing the aggregates' own instability"),
+        ("Difficulty", "Approachable — best read as part of this vagga's own catalog"),
+    ],
+    why=("Moves this vagga's catalog beyond the three marks to a new set "
+        "of four related terms: liability to end, to fall, to "
+        "originate, and to cease — unlike the earlier three-mark pairs, "
+        "these four are not paired variants of a single underlying "
+        "term but four distinct characterizations, each given its own "
+        "discourse."),
+    guide=[
+        ("A new kind of question", [
+            "\"They speak of a 'liability to end'. What has a liability "
+            "to end?\" — khaya, \"ending\" or \"destruction,\" describes "
+            "not a static quality like impermanence but a directional "
+            "process: something moving toward its own termination.",
+        ]),
+        ("The identical bare answer", [
+            "\"Form, feeling, perception, choices, and consciousness "
+            "have a liability to end\" — matching this vagga's own "
+            "established directness, with no elaboration beyond the "
+            "bare statement.",
+        ]),
+        ("Not a paired variant, but a new distinct term", [
+            "Unlike SN 23.11-18's pattern (bare identity, then inherent "
+            "nature, for the same underlying concept), this discourse "
+            "and its three following companions each name a genuinely "
+            "different process word — end, fall, originate, cease — "
+            "rather than two grammatical framings of one idea.",
+        ]),
+        ("A closing set for this vagga", [
+            "SN 23.20, SN 23.21, and SN 23.22 will complete this final "
+            "set of four terms, closing Dutiyamāravagga with vocabulary "
+            "that partially echoes SN 22.126's own originate/vanish "
+            "criterion from much earlier in this book, though applied "
+            "here with this vagga's own characteristic brevity.",
+        ]),
+    ],
+    terms=[
+        ("khaya", "ending, destruction — the term this discourse examines, describing a directional process rather than a static quality"),
+        ("khayadhamma", "liable to end — the full technical term, naming this discourse's own title"),
+        ("anattā", "not-self — the term examined in SN 23.17-18, the previous pair closing the three-mark sequence"),
+        ("vaya/samudaya/nirodha", "fall / origination / cessation — the three further terms SN 23.20-22 will examine, completing this vagga's closing set"),
+        ("peyyāla", "an elision mark, compressing the standard closing formula throughout this vagga"),
+    ],
+    text_intro=("The complete discourse as given in the source, opening this "
+        "vagga's closing set of four process-terms. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.19:1.1-1.4"),
+        ("p", "§2", "sn23.19:1.5"),
+        ("p", "§3", "sn23.19:1.6-1.7"),
+    ],
+    quiz=[
+        {"q": "What does this discourse ask about, moving beyond the three marks?",
+         "opts": ["A \"liability to end\" (khayadhamma)", "A return to Māra", "Not-self, repeated", "The leash to existence"],
+         "correct": 0,
+         "expl": "A new kind of term, describing a directional process rather than a static quality."},
+        {"q": "How does the Buddha answer?",
+         "opts": [
+             "The five aggregates have a liability to end, stated without elaboration",
+             "With an extended argument",
+             "By denying that anything ends",
+             "With a lengthy simile"],
+         "correct": 0,
+         "expl": "Matching this vagga's own established bare directness."},
+        {"q": "How does this discourse's relationship to its companions differ from SN 23.11-18's own pairing?",
+         "opts": [
+             "Each of the four closing discourses names a genuinely distinct process word, not two framings of one idea",
+             "It follows exactly the same bare-identity/inherent-nature pairing as before",
+             "It has no relationship to any other discourse in this vagga",
+             "It contradicts the earlier three-mark discourses"],
+         "correct": 0,
+         "expl": "End, fall, originate, cease — four distinct terms rather than paired grammatical variants."},
+        {"q": "What three further terms will SN 23.20-22 examine?",
+         "opts": [
+             "Fall, origination, and cessation",
+             "A return to impermanence, suffering, and not-self",
+             "Three entirely unrelated topics",
+             "Māra, sentient being, and the leash to existence"],
+         "correct": 0,
+         "expl": "Completing this vagga's closing set of four process-terms."},
+        {"q": "What earlier discourse in this book uses similar vocabulary?",
+         "opts": [
+             "SN 22.126's own originate/vanish criterion",
+             "SN 22.1, the opening discourse",
+             "SN 22.93, the river simile",
+             "No earlier discourse uses comparable vocabulary"],
+         "correct": 0,
+         "expl": "Though applied here with this vagga's own characteristic brevity."},
+        {"q": "How many aggregates does this discourse's identification apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "How is the closing formula presented in this discourse?",
+         "opts": [
+             "Elided, following this vagga's own established pattern",
+             "Given in full detail",
+             "Omitted entirely with no trace",
+             "Replaced with a unique closing"],
+         "correct": 0,
+         "expl": "Compressed throughout this vagga after SN 23.11's own full statement."},
+        {"q": "What does khaya specifically describe?",
+         "opts": [
+             "A directional process — something moving toward its own termination",
+             "A static, unchanging quality",
+             "A synonym for Māra with no distinct meaning",
+             "A term unrelated to impermanence"],
+         "correct": 0,
+         "expl": "Distinguished from the more static three-mark qualities examined earlier in this vagga."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.11-18's own setting."},
+        {"q": "Who asks the question in this discourse?",
+         "opts": ["Venerable Rādha", "Venerable Sāriputta", "Venerable Ānanda", "An unnamed mendicant"],
+         "correct": 0,
+         "expl": "Continuing this saṃyutta's own central questioner."},
+    ],
+    marginalia=[
+        ("A directional process, not a static quality", [
+            "khaya, ending, moving toward termination &mdash;",
+            "distinct from the three marks just completed",
+        ]),
+        ("Four distinct terms, not two framings of one", [
+            "end, fall, originate, cease &mdash;",
+            "each its own discourse, not a paired variant",
+        ]),
+        ("A brief echo of SN 22.126", [
+            "originate/vanish vocabulary, reused here &mdash;",
+            "with this vagga's own characteristic compression",
+        ]),
+        ("Opening this vagga's own closing set", [
+            "three more terms still to come &mdash;",
+            "SN 23.20-22 close Dutiyamāravagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.19/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.18.html">SN 23.18 &middot; Naturally '
+        "Not-Self</a> &mdash; the previous discourse, closing this "
+        "vagga's three-mark sequence.",
+        '<a href="sn-23.20.html">SN 23.20 &middot; Liable to Fall</a> '
+        "&mdash; the next discourse, continuing this vagga's own "
+        "closing set of terms.",
+    ],
+)
+
+page(23, 20, "Vayadhamma", "Liable to Fall",
+    vagga="Dutiyamāravagga",
+    meta_title="SN 23.20 · Liable to Fall — The Second of Four Closing Terms",
+    meta_desc="What has a liability to fall? Continuing this vagga's "
+        "closing set of process-terms with the same bare treatment. "
+        "Saṃyutta Nikāya 23.20, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha questioning the Buddha"),
+        ("Form", "The identical bare question-and-answer structure as SN 23.19"),
+        ("Length", "Very short — the closing formula elided"),
+        ("Northern parallel", "Vayadhamma, \"liable to fall\" or \"liable to pass away,\" is closely related to khayadhamma"),
+        ("Difficulty", "Approachable — best read directly after SN 23.19"),
+    ],
+    why=("Continues this vagga's closing set of four process-terms: "
+        "having examined liability to end, this discourse asks about "
+        "liability to fall — vaya, a term closely related to khaya but "
+        "distinct enough to warrant its own separate treatment."),
+    guide=[
+        ("A closely related but distinct process term", [
+            "\"They speak of a 'liability to fall'. What has a "
+            "liability to fall?\" — vaya, often paired with uppāda "
+            "(\"origination\") in the standard uppāda-vaya formula "
+            "describing the rise and fall of phenomena, here given its "
+            "own dedicated discourse.",
+        ]),
+        ("The identical bare answer", [
+            "\"Form, feeling, perception, choices, and consciousness "
+            "have a liability to fall\" — matching SN 23.19's own "
+            "directness exactly.",
+        ]),
+        ("Why khaya and vaya both receive separate treatment", [
+            "Though closely related in meaning, treating \"liable to "
+            "end\" and \"liable to fall\" as two distinct discourses "
+            "rather than folding them into one suggests this vagga's "
+            "compilers valued exhaustive coverage of related vocabulary "
+            "over economy — every near-synonym for impermanence's own "
+            "process gets its own dedicated statement.",
+        ]),
+        ("Two terms remaining", [
+            "SN 23.21 and SN 23.22 will complete this closing set with "
+            "\"liable to originate\" and \"liable to cease\" — the "
+            "positive and negative poles of the same rise-and-fall "
+            "process this discourse and SN 23.19 have already begun "
+            "describing.",
+        ]),
+    ],
+    terms=[
+        ("vaya", "falling, passing away — the term this discourse examines, closely related to khaya"),
+        ("khaya", "ending — SN 23.19's own term, the closely related predecessor to this discourse's subject"),
+        ("uppāda", "origination — often paired with vaya in the standard uppāda-vaya formula for rise and fall"),
+        ("samudaya/nirodha", "origination / cessation — the two further terms SN 23.21-22 will examine, closing this vagga"),
+        ("peyyāla", "an elision mark, compressing the standard closing formula throughout this vagga"),
+    ],
+    text_intro=("The complete discourse as given in the source, continuing this "
+        "vagga's closing set of process-terms. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.20:1.1-1.4"),
+        ("p", "§2", "sn23.20:1.5"),
+        ("p", "§3", "sn23.20:1.6-1.7"),
+    ],
+    quiz=[
+        {"q": "What does this discourse ask about, continuing from SN 23.19's own liability to end?",
+         "opts": ["A \"liability to fall\" (vayadhamma)", "A return to Māra", "Not-self, repeated", "The leash to existence"],
+         "correct": 0,
+         "expl": "A closely related but distinct process-term."},
+        {"q": "How does the Buddha answer?",
+         "opts": [
+             "The five aggregates have a liability to fall, stated without elaboration",
+             "With an extended argument",
+             "By denying that anything falls",
+             "With a lengthy simile"],
+         "correct": 0,
+         "expl": "Matching SN 23.19's own directness exactly."},
+        {"q": "What standard formula is vaya often paired with elsewhere?",
+         "opts": [
+             "Uppāda (origination), in the uppāda-vaya formula for rise and fall",
+             "A formula entirely unrelated to origination",
+             "The four noble truths",
+             "The eightfold path"],
+         "correct": 0,
+         "expl": "The classic rise-and-fall pairing widely used across the Canon."},
+        {"q": "Why might khaya and vaya both receive separate dedicated discourses despite their close relationship?",
+         "opts": [
+             "This vagga's compilers valued exhaustive coverage of related vocabulary over economy",
+             "The two terms are actually contradictory",
+             "Only one of the two terms is doctrinally valid",
+             "There is no meaningful reason for treating them separately"],
+         "correct": 0,
+         "expl": "Every near-synonym for impermanence's own process gets its own dedicated statement."},
+        {"q": "What two terms will close this vagga's final set, SN 23.21-22?",
+         "opts": [
+             "Liable to originate and liable to cease",
+             "A return to impermanence and suffering",
+             "Māra and the leash to existence",
+             "The sandcastle simile and the definition of a being"],
+         "correct": 0,
+         "expl": "The positive and negative poles of the same rise-and-fall process."},
+        {"q": "How many aggregates does this discourse's identification apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "How is the closing formula presented in this discourse?",
+         "opts": [
+             "Elided, following this vagga's own established pattern",
+             "Given in full detail",
+             "Omitted entirely with no trace",
+             "Replaced with a unique closing"],
+         "correct": 0,
+         "expl": "Compressed throughout this vagga after SN 23.11's own full statement."},
+        {"q": "What is this discourse's relationship to SN 23.19?",
+         "opts": [
+             "Closely related terms, each given its own separate dedicated discourse",
+             "Identical in every single word",
+             "A direct contradiction of each other",
+             "Entirely unrelated topics"],
+         "correct": 0,
+         "expl": "Vaya and khaya, treated as distinct enough to warrant separate treatment."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.11-19's own setting."},
+        {"q": "Who asks the question in this discourse?",
+         "opts": ["Venerable Rādha", "Venerable Sāriputta", "Venerable Ānanda", "An unnamed mendicant"],
+         "correct": 0,
+         "expl": "Continuing this saṃyutta's own central questioner."},
+    ],
+    marginalia=[
+        ("A closely related term, its own discourse", [
+            "vaya, alongside khaya from SN 23.19 &mdash;",
+            "each near-synonym given separate treatment",
+        ]),
+        ("The classic rise-and-fall pairing", [
+            "uppāda and vaya, widely used across the Canon &mdash;",
+            "here given only its falling half so far",
+        ]),
+        ("Exhaustive coverage over economy", [
+            "every related term stated in its own right &mdash;",
+            "this vagga's own compilational preference",
+        ]),
+        ("Two terms remaining in this set", [
+            "originate and cease still to come &mdash;",
+            "SN 23.21-22 complete the rise-and-fall pair",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.20/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.19.html">SN 23.19 &middot; Liable to End</a> '
+        "&mdash; the previous discourse, closely related to this "
+        "discourse's own subject.",
+        '<a href="sn-23.21.html">SN 23.21 &middot; Liable to '
+        "Originate</a> &mdash; the next discourse, continuing this "
+        "vagga's own closing set.",
+    ],
+)
+
+page(23, 21, "Samudayadhamma", "Liable to Originate",
+    vagga="Dutiyamāravagga",
+    meta_title="SN 23.21 · Liable to Originate — Recalling SN 22.126",
+    meta_desc="What has a liability to originate? The same criterion "
+        "first used at SN 22.126, now given this vagga's own bare "
+        "treatment. Saṃyutta Nikāya 23.21, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha questioning the Buddha"),
+        ("Form", "The identical bare question-and-answer structure as SN 23.19-20"),
+        ("Length", "Very short — the closing formula elided"),
+        ("Northern parallel", "Samudayadhamma recalls the originate/vanish criterion given fuller treatment at SN 22.126 much earlier in this book"),
+        ("Difficulty", "Approachable — best read alongside SN 22.126 for the fuller version of this same vocabulary"),
+    ],
+    why=("Moves to the positive pole of this vagga's closing pair: what "
+        "has a liability to originate? — the same samudaya vocabulary "
+        "already given a fuller three-part treatment at SN 22.126 much "
+        "earlier in this book, now compressed to this vagga's own bare "
+        "economy."),
+    guide=[
+        ("A term recalling earlier, fuller treatment", [
+            "\"They speak of a 'liability to originate'. What has a "
+            "liability to originate?\" — samudayadhamma directly recalls "
+            "SN 22.126's own opening criterion, which distinguished "
+            "\"liable to originate,\" \"liable to vanish,\" and \"liable "
+            "to originate and vanish\" as three separate failures of "
+            "understanding.",
+        ]),
+        ("The identical bare answer", [
+            "\"Form, feeling, perception, choices, and consciousness "
+            "have a liability to originate\" — matching this vagga's "
+            "own established directness, though the underlying "
+            "vocabulary carries the weight of SN 22.126's own earlier, "
+            "more developed discussion.",
+        ]),
+        ("Compression that assumes prior context", [
+            "Where SN 22.126 spelled out this criterion's full "
+            "significance across a lengthy discourse defining ignorance "
+            "and knowledge, this discourse simply states the bare fact "
+            "— trusting a reader already familiar with this book's "
+            "earlier material to supply the fuller meaning this brief "
+            "statement only gestures toward.",
+        ]),
+        ("One term remaining, closing the vagga", [
+            "SN 23.22 will complete this final pair with \"liable to "
+            "cease,\" closing both this specific pair and Dutiyamāravagga "
+            "as a whole.",
+        ]),
+    ],
+    terms=[
+        ("samudaya", "origin, arising — the term this discourse examines, recalling SN 22.126's own criterion"),
+        ("samudayadhamma", "liable to originate — the full technical term, echoing SN 22.126's uppādadhamma"),
+        ("vaya", "falling, passing away — SN 23.20's own term, the previous discourse in this closing set"),
+        ("nirodha", "cessation — the term SN 23.22 will examine next, closing this vagga"),
+        ("peyyāla", "an elision mark, compressing the standard closing formula throughout this vagga"),
+    ],
+    text_intro=("The complete discourse as given in the source, recalling SN "
+        "22.126's own originate/vanish criterion in compressed form. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.21:1.1-1.4"),
+        ("p", "§2", "sn23.21:1.5"),
+        ("p", "§3", "sn23.21:1.6-1.7"),
+    ],
+    quiz=[
+        {"q": "What does this discourse ask about?",
+         "opts": ["A \"liability to originate\" (samudayadhamma)", "A return to Māra", "Not-self, repeated", "The leash to existence"],
+         "correct": 0,
+         "expl": "The positive pole of this vagga's closing rise-and-fall pair."},
+        {"q": "What earlier discourse in this book gave this same vocabulary fuller treatment?",
+         "opts": [
+             "SN 22.126, opening Avijjāvagga",
+             "SN 22.1, the opening discourse",
+             "SN 22.93, the river simile",
+             "No earlier discourse uses comparable vocabulary"],
+         "correct": 0,
+         "expl": "Distinguishing liable to originate, vanish, and both, across three separate discourses there."},
+        {"q": "How does the Buddha answer this discourse's question?",
+         "opts": [
+             "The five aggregates have a liability to originate, stated without elaboration",
+             "With an extended argument matching SN 22.126's own fuller treatment",
+             "By denying that anything originates",
+             "With a lengthy simile"],
+         "correct": 0,
+         "expl": "This vagga's own established bare directness."},
+        {"q": "What does this discourse's compression assume about its reader?",
+         "opts": [
+             "Familiarity with SN 22.126's own fuller discussion, which this brief statement only gestures toward",
+             "No prior knowledge of this book's earlier material is needed",
+             "The reader has never encountered this vocabulary before",
+             "This discourse introduces the concept for the first time"],
+         "correct": 0,
+         "expl": "Trusting the reader to supply the fuller meaning from earlier in the book."},
+        {"q": "What discourse closes this pair and the vagga itself?",
+         "opts": ["SN 23.22, \"Liable to Cease\"", "SN 23.11, \"About Māra\"", "SN 23.1, opening Rādhasaṃyutta", "SN 22.126, much earlier in this book"],
+         "correct": 0,
+         "expl": "Completing both this specific pair and Dutiyamāravagga as a whole."},
+        {"q": "How many aggregates does this discourse's identification apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "How is the closing formula presented in this discourse?",
+         "opts": [
+             "Elided, following this vagga's own established pattern",
+             "Given in full detail",
+             "Omitted entirely with no trace",
+             "Replaced with a unique closing"],
+         "correct": 0,
+         "expl": "Compressed throughout this vagga after SN 23.11's own full statement."},
+        {"q": "What relationship does samudayadhamma bear to SN 22.126's own uppādadhamma?",
+         "opts": [
+             "Closely related, if not identical in underlying meaning",
+             "Entirely unrelated terms",
+             "Direct contradictions of each other",
+             "Terms used only in this single discourse"],
+         "correct": 0,
+         "expl": "Both name the same basic liability to arise or originate."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.11-20's own setting."},
+        {"q": "Who asks the question in this discourse?",
+         "opts": ["Venerable Rādha", "Venerable Sāriputta", "Venerable Ānanda", "An unnamed mendicant"],
+         "correct": 0,
+         "expl": "Continuing this saṃyutta's own central questioner."},
+    ],
+    marginalia=[
+        ("A term recalling SN 22.126's own fuller criterion", [
+            "samudayadhamma, echoing uppādadhamma &mdash;",
+            "compressed here to this vagga's own bare economy",
+        ]),
+        ("Compression trusting prior context", [
+            "the fuller meaning left unstated &mdash;",
+            "assumed from this book's own earlier material",
+        ]),
+        ("The positive pole of a rise-and-fall pair", [
+            "originate here, cease still to come &mdash;",
+            "SN 23.22 completes the pairing",
+        ]),
+        ("One discourse left to close this vagga", [
+            "the final term in Dutiyamāravagga's own catalog &mdash;",
+            "SN 23.22 brings the vagga to its close",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.21/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.20.html">SN 23.20 &middot; Liable to Fall</a> '
+        "&mdash; the previous discourse, closely related to this "
+        "discourse's own subject.",
+        '<a href="sn-23.22.html">SN 23.22 &middot; Liable to Cease</a> '
+        "&mdash; the next and closing discourse of this vagga, this "
+        "discourse's own direct companion.",
+    ],
+)
+
+page(23, 22, "Nirodhadhamma", "Liable to Cease",
+    vagga="Dutiyamāravagga",
+    meta_title="SN 23.22 · Liable to Cease — Closing Dutiyamāravagga",
+    meta_desc="The final discourse in this vagga's own catalog: what "
+        "has a liability to cease? Closing Dutiyamāravagga's twelve "
+        "discourses on Rādha's characterizing questions. Saṃyutta "
+        "Nikāya 23.22, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha questioning the Buddha"),
+        ("Form", "The identical bare question-and-answer structure as this vagga's entire closing set"),
+        ("Length", "Very short — the closing formula elided"),
+        ("Northern parallel", "Nirodhadhamma completes the samudaya/nirodha pairing recalling SN 22.126"),
+        ("Difficulty", "Approachable — best appreciated as the close of this vagga's own twelve-discourse catalog"),
+    ],
+    why=("Closes Dutiyamāravagga: the final term in this vagga's own "
+        "catalog, completing the samudaya/nirodha (originate/cease) "
+        "pair and, with it, twelve discourses systematically applying "
+        "Rādha's characterizing questions to Māra, the three marks, and "
+        "four related process-terms."),
+    guide=[
+        ("The closing term, the same bare treatment", [
+            "\"They speak of a 'liability to cease'. What has a "
+            "liability to cease?\" — nirodhadhamma, completing the "
+            "originate/cease pairing begun at SN 23.21, and echoing this "
+            "book's own most fundamental technical vocabulary for how "
+            "phenomena arise and pass away.",
+        ]),
+        ("The identical bare answer, one final time", [
+            "\"Form, feeling, perception, choices, and consciousness "
+            "have a liability to cease\" — this vagga's own established "
+            "directness, given for the twelfth and final time.",
+        ]),
+        ("Twelve discourses, one consistent method, reviewed", [
+            "Looking back across the whole vagga: SN 23.11-12 (Māra), "
+            "23.13-14 (impermanence), 23.15-16 (suffering), 23.17-18 "
+            "(not-self), and this closing set of four individual "
+            "process-terms (23.19-22) — all built from the identical "
+            "template of a bare question met with a bare identification "
+            "of the aggregates, closed by the standard formula given in "
+            "full only once, at the very start.",
+        ]),
+        ("Closing without a colophon, into Upasaggavagga", [
+            "As with many vaggas in this book, no explicit closing "
+            "formula marks the end of Dutiyamāravagga in the source "
+            "text — the vagga simply concludes on this final term, "
+            "before Rādhasaṃyutta's third vagga, Upasaggavagga "
+            "(\"Appeals\"), begins at SN 23.23 — the first vagga in "
+            "this saṃyutta to include a peyyāla-merged range of "
+            "discourses.",
+        ]),
+    ],
+    terms=[
+        ("nirodha", "cessation — the term this discourse examines, closing the originate/cease pair"),
+        ("samudaya", "origination — SN 23.21's own term, this discourse's direct counterpart"),
+        ("nirodhadhamma", "liable to cease — the full technical term, echoing this book's own foundational vocabulary"),
+        ("dhammakkhandha", "the collected teachings — not itself named in this discourse, but the sense in which this vagga's twelve discourses form one coherent unit"),
+        ("Upasaggavagga", "\"Appeals\" — the vagga following this one, this saṃyutta's third, beginning at SN 23.23"),
+    ],
+    text_intro=("The complete discourse as given in the source, closing "
+        "Dutiyamāravagga's own catalog of characterizing terms. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.22:1.1-1.4"),
+        ("p", "§2", "sn23.22:1.5"),
+        ("p", "§3", "sn23.22:1.6-1.7"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse examine, closing Dutiyamāravagga?",
+         "opts": ["A \"liability to cease\" (nirodhadhamma)", "A return to Māra", "Not-self, repeated", "The leash to existence"],
+         "correct": 0,
+         "expl": "Completing the originate/cease pair begun at SN 23.21."},
+        {"q": "How does the Buddha answer this discourse's question?",
+         "opts": [
+             "The five aggregates have a liability to cease, stated without elaboration",
+             "With an extended argument",
+             "By denying that anything ceases",
+             "With a lengthy simile"],
+         "correct": 0,
+         "expl": "This vagga's own established directness, given one final time."},
+        {"q": "How many total discourses make up Dutiyamāravagga, closed by this one?",
+         "opts": ["Twelve — SN 23.11-22", "Ten", "Fourteen", "Six"],
+         "correct": 0,
+         "expl": "Māra, the three marks, and four closing process-terms."},
+        {"q": "What single template underlies all twelve discourses in this vagga?",
+         "opts": [
+             "A bare question met with a bare identification of the aggregates, closed by the standard formula",
+             "Each discourse follows an entirely different, unrelated structure",
+             "Extended narrative with multiple characters",
+             "A dialogue format unique to each discourse"],
+         "correct": 0,
+         "expl": "Given in full only once, at SN 23.11, and elided throughout the rest of the vagga."},
+        {"q": "How does this vagga close, according to the source text?",
+         "opts": [
+             "Without any explicit colophon, simply ending on this final term",
+             "With a lengthy summary verse naming all twelve discourses",
+             "With an explicit statement naming the next vagga",
+             "With a set of closing verses"],
+         "correct": 0,
+         "expl": "As with many vaggas earlier in this book, no closing formula appears."},
+        {"q": "What vagga follows Dutiyamāravagga in Rādhasaṃyutta?",
+         "opts": ["Upasaggavagga (\"Appeals\")", "Māravagga, repeated", "The end of Rādhasaṃyutta entirely", "A return to Khandhavagga's earlier material"],
+         "correct": 0,
+         "expl": "This saṃyutta's third vagga, beginning at SN 23.23."},
+        {"q": "What distinguishes the vagga following this one, structurally?",
+         "opts": [
+             "It is the first vagga in this saṃyutta to include a peyyāla-merged range of discourses",
+             "It has no distinguishing structural features",
+             "It abandons Rādha as the central questioner",
+             "It returns entirely to prose narrative"],
+         "correct": 0,
+         "expl": "Confirmed by the earlier bilara-data structural scan of SN23."},
+        {"q": "How many aggregates does this discourse's identification apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.11-21's own setting."},
+        {"q": "Who asks the question in this discourse?",
+         "opts": ["Venerable Rādha", "Venerable Sāriputta", "Venerable Ānanda", "An unnamed mendicant"],
+         "correct": 0,
+         "expl": "Continuing this saṃyutta's own central questioner throughout this entire vagga."},
+    ],
+    marginalia=[
+        ("The closing term, the same bare treatment", [
+            "cessation, completing the originate/cease pair &mdash;",
+            "given for the twelfth and final time in this vagga",
+        ]),
+        ("Twelve discourses, one consistent template", [
+            "Māra, the three marks, four process-terms &mdash;",
+            "a bare question, a bare answer, throughout",
+        ]),
+        ("The full formula, spoken only once", [
+            "at SN 23.11, and nowhere restated in full again &mdash;",
+            "eleven discourses trusting that single statement",
+        ]),
+        ("Closing without ceremony", [
+            "no colophon, simply the final term &mdash;",
+            "Upasaggavagga begins next, at SN 23.23",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.22/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.21.html">SN 23.21 &middot; Liable to '
+        "Originate</a> &mdash; the previous discourse, this discourse's "
+        "own direct companion.",
+        '<a href="sn-23.11.html">SN 23.11 &middot; About Māra</a> '
+        "&mdash; this vagga's own opening discourse, whose bare template "
+        "every subsequent discourse in this vagga has followed.",
+    ],
+)
