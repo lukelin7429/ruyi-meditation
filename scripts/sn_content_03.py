@@ -31215,3 +31215,1791 @@ page(22, 149, "Anattānupassī", "Observing Not-Self",
         "serves.",
     ],
 )
+
+page(22, 150, "Ajjhatta", "In Oneself",
+    vagga="Diṭṭhivagga",
+    meta_title="SN 22.150 · In Oneself — Where Pleasure and Pain Actually Arise",
+    meta_desc="Opening Diṭṭhivagga, SN22's own final vagga: pleasure and "
+        "pain arise in oneself from grasping the aggregates, examined "
+        "through the standard three-question formula. Saṃyutta Nikāya "
+        "22.150, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, questioning the mendicants directly"),
+        ("Form", "A question, the mendicants' deferential stock reply, and the Buddha's own extended answer using the standard three-question examination"),
+        ("Length", "Medium — the full examination given for each aggregate"),
+        ("Northern parallel", "The three-question examination (permanent/impermanent, suffering/happiness, fit to regard as self) is the Canon's single most repeated analytical sequence"),
+        ("Difficulty", "Approachable — a clear, self-contained argument"),
+    ],
+    why=("Opens Diṭṭhivagga (\"Views\"), SN22's fifteenth and final vagga: "
+        "the Buddha asks a genuinely open question — what makes "
+        "pleasure and pain arise \"in oneself\"? — and answers it "
+        "himself with the book's most familiar analytical tool, setting "
+        "the pattern this vagga's first eight discourses will follow "
+        "with only the specific phenomenon under examination changing."),
+    guide=[
+        ("A question posed, then answered by its own asker", [
+            "\"When what exists, because of grasping what, do pleasure "
+            "and pain arise in oneself?\" — the Buddha's own question to "
+            "the assembled mendicants, met with the standard deferential "
+            "reply, \"Our teachings are rooted in the Buddha,\" "
+            "acknowledging that only the Buddha himself can supply the "
+            "full answer.",
+        ]),
+        ("Grasping as the precise mechanism", [
+            "\"When form exists, because of grasping form, pleasure and "
+            "pain arise in oneself\" — repeated for each aggregate, "
+            "locating the source of pleasure and pain not in the "
+            "aggregate's mere presence, but specifically in the "
+            "grasping (upādāya) directed at it.",
+        ]),
+        ("The standard three-question examination", [
+            "\"Is form permanent or impermanent? — Impermanent. But if "
+            "it's impermanent, is it suffering or happiness? — "
+            "Suffering. But by not grasping what's impermanent, "
+            "suffering, and perishable, would pleasure and pain arise "
+            "in oneself? — No\" — the exact reasoning already used many "
+            "times throughout this book, here specifically applied to "
+            "answer the discourse's own opening question.",
+            "The final step makes the discourse's logic explicit: since "
+            "pleasure and pain depend on grasping, and grasping "
+            "something impermanent and suffering makes no sense once "
+            "seen clearly, the absence of grasping removes the "
+            "condition pleasure and pain depend on.",
+        ]),
+        ("Setting the pattern for this vagga's opening set", [
+            "This discourse's exact three-part structure — question, "
+            "deferential reply, aggregate-by-aggregate answer plus "
+            "three-question examination — will recur with only the "
+            "specific phenomenon changing across SN 22.151-158, making "
+            "this opening discourse the template for the entire vagga's "
+            "first eight discourses.",
+        ]),
+    ],
+    terms=[
+        ("ajjhattaṁ", "in oneself — the term giving this discourse its title"),
+        ("upādāya", "because of grasping — the precise mechanism this discourse identifies for how pleasure and pain arise"),
+        ("sukhadukkha", "pleasure and pain — the phenomenon this opening discourse examines"),
+        ("bhagavaṁmūlakā no bhante dhammā", "\"our teachings are rooted in the Buddha\" — the mendicants' standard deferential reply, requesting the Buddha's own elaboration"),
+        ("anicca/dukkha/anattā", "impermanent / suffering / not-self — the three-question examination's own underlying logic, reused throughout this vagga"),
+    ],
+    text_intro=("The complete discourse: the opening question, the deferential "
+        "reply, and the Buddha's own answer through the standard "
+        "three-question examination. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.150:1.1-1.3"),
+        ("p", "§2", "sn22.150:1.4-1.8"),
+        ("p", "§3", "sn22.150:1.9-1.15"),
+        ("p", "§4", "sn22.150:1.16-1.26"),
+    ],
+    quiz=[
+        {"q": "What question does the Buddha open this discourse with?",
+         "opts": [
+             "What makes pleasure and pain arise in oneself?",
+             "What is the origin of the universe?",
+             "How many mendicants are present?",
+             "What is the Buddha's own name?"],
+         "correct": 0,
+         "expl": "A genuinely open question the Buddha then answers himself."},
+        {"q": "How do the mendicants respond to the Buddha's question?",
+         "opts": [
+             "\"Our teachings are rooted in the Buddha\" — a deferential request for his own elaboration",
+             "By immediately supplying a complete answer themselves",
+             "By remaining silent",
+             "By asking a different question in return"],
+         "correct": 0,
+         "expl": "The standard formula acknowledging that only the Buddha can supply the full answer."},
+        {"q": "According to the Buddha's answer, what specifically causes pleasure and pain to arise?",
+         "opts": [
+             "Grasping (upādāya) directed at an aggregate, not the aggregate's mere presence",
+             "The aggregate's mere existence alone, regardless of grasping",
+             "External circumstances unrelated to the aggregates",
+             "A specific ritual failure"],
+         "correct": 0,
+         "expl": "Locating the source precisely in the grasping, not in the aggregate itself."},
+        {"q": "What three questions make up the standard examination the Buddha uses?",
+         "opts": [
+             "Is it permanent or impermanent? If impermanent, is it suffering or happiness? Would pleasure and pain arise without grasping it?",
+             "Is it visible or invisible? Is it large or small? Is it near or far?",
+             "Is it good or bad? Is it useful or useless? Is it common or rare?",
+             "Is it Pali or Sanskrit? Is it old or new? Is it long or short?"],
+         "correct": 0,
+         "expl": "The Canon's single most repeated analytical sequence."},
+        {"q": "What does the final step of the examination make explicit?",
+         "opts": [
+             "That the absence of grasping removes the condition pleasure and pain depend on",
+             "That pleasure and pain are entirely unrelated to grasping",
+             "That grasping is impossible to overcome",
+             "That the aggregates themselves must be eliminated"],
+         "correct": 0,
+         "expl": "Since pleasure and pain depend on grasping, releasing the grasping removes their condition."},
+        {"q": "What pattern does this discourse set for the rest of Diṭṭhivagga's opening set?",
+         "opts": [
+             "The same three-part structure recurring across SN 22.151-158, with only the specific phenomenon changing",
+             "No pattern at all — each subsequent discourse is entirely unrelated",
+             "A pattern that appears only in this single discourse",
+             "A structure that will be immediately abandoned in the next discourse"],
+         "correct": 0,
+         "expl": "This opening discourse functions as the template for the vagga's first eight discourses."},
+        {"q": "How many aggregates does this examination apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, each given the same examination."},
+        {"q": "What vagga does this discourse open?",
+         "opts": ["Diṭṭhivagga", "Kukkuḷavagga", "Avijjāvagga", "Antavagga"],
+         "correct": 0,
+         "expl": "SN 22.150 opens Book III's fifteenth and final vagga of SN22 (Khandhasaṃyutta)."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Continuing the setting of most of this book's discourses."},
+        {"q": "What is the significance of the Buddha asking a question and then answering it himself?",
+         "opts": [
+             "It sets a genuinely open inquiry before supplying the definitive answer, rather than presenting the answer as a bare assertion",
+             "It suggests the Buddha was uncertain of the answer",
+             "It indicates the mendicants were expected to disagree",
+             "It has no particular significance"],
+         "correct": 0,
+         "expl": "A structure distinct from many earlier discourses that simply assert the teaching directly."},
+    ],
+    marginalia=[
+        ("A question, genuinely opened first", [
+            "not asserted outright, but posed and then answered &mdash;",
+            "the mendicants deferring before the Buddha explains",
+        ]),
+        ("Grasping named as the precise mechanism", [
+            "not the aggregate's presence alone &mdash;",
+            "pleasure and pain traced to what reaches toward it",
+        ]),
+        ("The book's most familiar tool, applied once more", [
+            "permanent or not, suffering or happiness, grasped or released &mdash;",
+            "the same three questions, a new phenomenon examined",
+        ]),
+        ("A template for eight discourses to come", [
+            "the identical structure, one variable changing &mdash;",
+            "Diṭṭhivagga's opening set begins here",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.150/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.149.html">SN 22.149 &middot; Observing '
+        "Not-Self</a> &mdash; the previous discourse, closing "
+        "Kukkuḷavagga.",
+        '<a href="sn-22.151.html">SN 22.151 &middot; This Is Mine</a> '
+        "&mdash; the next discourse, applying this same structure to "
+        "the classic self-identification formula.",
+    ],
+)
+
+page(22, 151, "Etaṁmama", "This Is Mine",
+    vagga="Diṭṭhivagga",
+    meta_title="SN 22.151 · This Is Mine — Where the Classic Self-View Formula Comes From",
+    meta_desc="The familiar \"this is mine, I am this, this is my self\" "
+        "formula traced back to grasping and insisting on each "
+        "aggregate, examined through the standard three-question test. "
+        "Saṃyutta Nikāya 22.151, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, questioning the mendicants directly"),
+        ("Form", "The identical structure as SN 22.150, now examining the classic self-identification formula"),
+        ("Length", "Medium — matching SN 22.150's own length"),
+        ("Northern parallel", "The \"this is mine, I am this, this is my self\" formula recurs throughout this book, most notably in the fourfold self-identification formula at SN 22.7"),
+        ("Difficulty", "Approachable — best read directly alongside SN 22.150"),
+    ],
+    why=("Applies SN 22.150's own structure to this book's single most "
+        "familiar self-view formula: \"this is mine, I am this, this is "
+        "my self\" — tracing exactly where this way of regarding the "
+        "aggregates comes from (grasping and insisting on them), then "
+        "dismantling it with the standard three-question examination."),
+    guide=[
+        ("A new condition added: insisting, not only grasping", [
+            "\"When what exists, because of grasping what and insisting "
+            "on what, does someone regard things like this: 'this is "
+            "mine, I am this, this is my self'?\" — where SN 22.150 named "
+            "only grasping (upādāya), this discourse adds \"insisting on\" "
+            "(abhinivissa), a term already familiar from SN 22.81's "
+            "discussion of constructions built on the aggregates.",
+        ]),
+        ("The formula traced to its source", [
+            "\"When form exists, because of grasping form and insisting "
+            "on form... someone regards it like this: 'this is mine, I "
+            "am this, this is my self'\" — the discourse locates this "
+            "familiar three-clause self-view precisely in the "
+            "combination of an aggregate's existence, grasping it, and "
+            "insisting on that grasp.",
+        ]),
+        ("The same dismantling examination", [
+            "\"Is form permanent or impermanent? — Impermanent... But by "
+            "not grasping what's impermanent, suffering, and perishable, "
+            "would you regard it like this: 'this is mine, I am this, "
+            "this is my self'? — No\" — the identical three-question "
+            "structure as SN 22.150, now applied to show this specific "
+            "self-view formula cannot arise once grasping stops.",
+        ]),
+        ("Why naming the formula's precise origin matters", [
+            "Tracing this famous formula back to its exact conditions "
+            "(existence + grasping + insisting) rather than treating it "
+            "as a brute fact about how minds work gives practitioners a "
+            "specific handle on it: since it depends on grasping and "
+            "insisting, releasing those two conditions is sufficient to "
+            "prevent the formula's arising, without needing to somehow "
+            "will the thought itself away directly.",
+        ]),
+    ],
+    terms=[
+        ("etaṁ mama esohamasmi eso me attā", "\"this is mine, I am this, this is my self\" — the classic self-view formula this discourse traces to its origin"),
+        ("upādāya", "because of grasping — shared with SN 22.150"),
+        ("abhinivissa", "insisting on — the new condition this discourse adds, already seen at SN 22.81"),
+        ("anicca/dukkha", "impermanent / suffering — the two qualities the standard examination confirms for each aggregate"),
+        ("nappajaheyya", "would not regard [it thus] — the negative conclusion the examination arrives at for each aggregate"),
+    ],
+    text_intro=("The complete discourse: the question, deferential reply, and the "
+        "standard examination applied to the classic self-view formula. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.151:1.1-1.4"),
+        ("p", "§2", "sn22.151:1.5-1.7"),
+        ("p", "§3", "sn22.151:1.8-1.12"),
+        ("p", "§4", "sn22.151:1.13-1.21"),
+    ],
+    quiz=[
+        {"q": "What familiar self-view formula does this discourse examine?",
+         "opts": [
+             "\"This is mine, I am this, this is my self\"",
+             "\"There is no self anywhere\"",
+             "\"The self is identical to the cosmos\"",
+             "\"I will not be, and it will not be mine\""],
+         "correct": 0,
+         "expl": "This book's single most familiar self-identification formula."},
+        {"q": "What new condition does this discourse add to SN 22.150's own \"grasping\"?",
+         "opts": [
+             "Insisting on (abhinivissa)",
+             "Rejecting entirely",
+             "Ignoring completely",
+             "Celebrating"],
+         "correct": 0,
+         "expl": "A term already familiar from SN 22.81's discussion of constructions built on the aggregates."},
+        {"q": "According to this discourse, what does the self-view formula depend on?",
+         "opts": [
+             "An aggregate's existence, combined with grasping it and insisting on that grasp",
+             "Nothing at all — it arises spontaneously with no cause",
+             "External social pressure alone",
+             "A specific ritual failure"],
+         "correct": 0,
+         "expl": "Tracing this famous formula to its precise conditions."},
+        {"q": "What examination does the discourse use to dismantle this formula?",
+         "opts": [
+             "The standard permanent/impermanent, suffering/happiness, grasped/released three-question sequence",
+             "A debate with an outside questioner",
+             "A narrative illustration",
+             "A set of closing verses"],
+         "correct": 0,
+         "expl": "The identical structure as SN 22.150, applied here to a different phenomenon."},
+        {"q": "Why might naming the formula's precise conditions matter practically?",
+         "opts": [
+             "It gives practitioners a specific handle on it — release the conditions, and the formula cannot arise",
+             "It makes the formula impossible to ever discuss again",
+             "It proves the formula is actually correct",
+             "It has no practical significance"],
+         "correct": 0,
+         "expl": "Releasing grasping and insisting is sufficient, without needing to will the thought away directly."},
+        {"q": "How does the mendicants' response to the Buddha's opening question compare to SN 22.150's?",
+         "opts": [
+             "Identical — \"our teachings are rooted in the Buddha\"",
+             "Completely different, offering an immediate full answer",
+             "Silent, with no response given",
+             "A direct disagreement with the Buddha's premise"],
+         "correct": 0,
+         "expl": "The same standard deferential formula as SN 22.150."},
+        {"q": "How many aggregates does this examination apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "Where else in this book has the self-view formula this discourse examines already appeared?",
+         "opts": [
+             "SN 22.7's fourfold self-identification formula, among many other discourses",
+             "Only in this single discourse",
+             "SN 22.93-95, the similes for the aggregates",
+             "SN 22.1-11, the opening vagga"],
+         "correct": 0,
+         "expl": "One of the most widely reused technical formulas throughout Khandhavagga."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.150's own setting."},
+        {"q": "What comes next in Diṭṭhivagga after this discourse?",
+         "opts": [
+             "SN 22.152, examining an eternalist view instead",
+             "SN 22.159, closing the vagga",
+             "A return to SN 22.150",
+             "The start of a new vagga"],
+         "correct": 0,
+         "expl": "Continuing this vagga's opening set with a new phenomenon under examination."},
+    ],
+    marginalia=[
+        ("A second condition, joining the first", [
+            "not just grasping, but insisting on it &mdash;",
+            "two conditions, together producing the formula",
+        ]),
+        ("The famous formula, traced to its source", [
+            "\"this is mine, I am this, this is my self\" &mdash;",
+            "not a brute fact, but a specific, conditioned arising",
+        ]),
+        ("A handle, not a command to simply stop thinking", [
+            "release the conditions, not the thought directly &mdash;",
+            "grasping and insisting are what actually need addressing",
+        ]),
+        ("The same examination, a new target", [
+            "permanent or not, suffering or happiness &mdash;",
+            "the identical tool from SN 22.150, reapplied",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.151/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.150.html">SN 22.150 &middot; In Oneself</a> '
+        "&mdash; the previous discourse, this vagga's own opening and "
+        "structural template.",
+        '<a href="sn-22.152.html">SN 22.152 &middot; This Is My '
+        "Self</a> &mdash; the next discourse, examining a fuller "
+        "eternalist view rather than the bare self-view formula.",
+    ],
+)
+
+page(22, 152, "Somattā", "This Is My Self",
+    vagga="Diṭṭhivagga",
+    meta_title="SN 22.152 · This Is My Self — Tracing the Eternalist View",
+    meta_desc="The view that self and cosmos are identical and "
+        "permanent after death, traced to grasping and insisting on "
+        "each aggregate, then dismantled by the standard examination. "
+        "Saṃyutta Nikāya 22.152, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, questioning the mendicants directly"),
+        ("Form", "The identical structure as SN 22.150-151, now examining a specific eternalist view"),
+        ("Length", "Medium — the fullest single view-statement given in this vagga's opening set"),
+        ("Northern parallel", "The \"self and cosmos are one, permanent after death\" formula names a classic eternalist (sassatavāda) position debated across the wider Canon"),
+        ("Difficulty", "Moderate — the specific philosophical position under examination is more elaborate than SN 22.151's bare formula"),
+    ],
+    why=("Moves from the bare self-view formula of SN 22.151 to a fully "
+        "articulated philosophical position — a classic eternalist "
+        "claim that self and cosmos are identical and will remain "
+        "permanent after death — and traces this elaborate view to the "
+        "identical simple conditions already used for the simpler "
+        "formula."),
+    guide=[
+        ("A fuller, more elaborate view than SN 22.151's own", [
+            "\"The self and the cosmos are one and the same. After death "
+            "I will be that, permanent, everlasting, eternal, and "
+            "imperishable\" — a specific metaphysical claim (self = "
+            "cosmos) joined to a specific eschatological claim "
+            "(permanence surviving death), considerably more developed "
+            "than SN 22.151's compact three-clause formula.",
+        ]),
+        ("The same source, regardless of the view's complexity", [
+            "\"When form exists, because of grasping form and insisting "
+            "on form, the view arises\" — identical conditions (an "
+            "aggregate's existence, grasping it, insisting on that "
+            "grasp) as SN 22.151, showing that a philosophically "
+            "elaborate eternalist doctrine and a bare instinctive "
+            "self-view formula share the exact same root.",
+        ]),
+        ("An implicit point about doctrinal sophistication", [
+            "That an articulated metaphysical system (self=cosmos, "
+            "surviving eternally) traces to the same simple grasping-"
+            "and-insisting mechanism as an unreflective, everyday "
+            "self-view suggests sophistication of expression does not "
+            "correspond to a different underlying cause — elaborate "
+            "philosophy and casual assumption are, at root, the same "
+            "phenomenon dressed differently.",
+        ]),
+        ("The identical examination, applied once more", [
+            "\"But by not grasping what's impermanent, suffering, and "
+            "perishable, would the view arise... — No\" — the standard "
+            "three-question sequence dismantles this fuller view exactly "
+            "as it dismantled SN 22.151's simpler one, confirming the "
+            "examination's power does not depend on how elaborate the "
+            "view under scrutiny happens to be.",
+        ]),
+    ],
+    terms=[
+        ("sassata", "eternal, permanent — the core claim of the view this discourse examines, naming a classic eternalist position"),
+        ("so loko so attā", "\"the self and the cosmos are one and the same\" — the specific metaphysical claim this view makes"),
+        ("upādāya abhinivissa", "because of grasping and insisting on — the identical conditions shared with SN 22.151"),
+        ("avipariṇāmadhamma", "not subject to change — one of the qualities this eternalist view claims for the self, directly denied by the examination"),
+        ("nappajaheyya", "would not [regard it thus] — the negative conclusion, showing the view cannot survive the examination"),
+    ],
+    text_intro=("The complete discourse: the elaborate eternalist view stated in "
+        "full, traced to its conditions, and dismantled by the standard "
+        "examination. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.152:1.1-1.4"),
+        ("p", "§2", "sn22.152:1.5-1.11"),
+        ("p", "§3", "sn22.152:2.1-2.8"),
+        ("p", "§4", "sn22.152:2.9-2.20"),
+    ],
+    quiz=[
+        {"q": "What specific philosophical position does this discourse examine?",
+         "opts": [
+             "That the self and the cosmos are one and the same, permanent and eternal after death",
+             "That there is no self anywhere",
+             "That the self ceases entirely at death",
+             "That the aggregates are permanent"],
+         "correct": 0,
+         "expl": "A classic articulated eternalist (sassatavāda) position."},
+        {"q": "How does this view compare in complexity to SN 22.151's own formula?",
+         "opts": [
+             "Considerably more developed, joining a metaphysical claim to an eschatological one",
+             "Simpler and less developed",
+             "Identical in every respect",
+             "Entirely unrelated in content"],
+         "correct": 0,
+         "expl": "A specific metaphysical claim (self=cosmos) joined to a claim about surviving death."},
+        {"q": "What conditions does this discourse identify as the source of this elaborate view?",
+         "opts": [
+             "The identical grasping and insisting conditions as SN 22.151",
+             "A completely different, more complex set of conditions",
+             "No specific conditions — the view is said to arise spontaneously",
+             "Years of philosophical study alone"],
+         "correct": 0,
+         "expl": "The same simple mechanism producing both the elaborate view and the bare formula."},
+        {"q": "What implicit point does tracing a sophisticated doctrine to the same root as a casual self-view make?",
+         "opts": [
+             "Sophistication of expression does not correspond to a different underlying cause",
+             "Elaborate philosophy is always more valid than casual assumption",
+             "The two views are actually unrelated at every level",
+             "Only philosophically trained people can hold wrong views"],
+         "correct": 0,
+         "expl": "Elaborate philosophy and casual assumption are, at root, the same phenomenon dressed differently."},
+        {"q": "What examination does the discourse use to dismantle this view?",
+         "opts": [
+             "The standard permanent/impermanent, suffering/happiness, grasped/released three-question sequence",
+             "A formal philosophical debate",
+             "A narrative counter-example",
+             "An appeal to authority alone"],
+         "correct": 0,
+         "expl": "The identical examination used throughout this vagga's opening set."},
+        {"q": "What does the examination's success against this more elaborate view confirm?",
+         "opts": [
+             "The examination's power does not depend on how elaborate the view under scrutiny happens to be",
+             "The examination only works against simple views, not elaborate ones",
+             "This view is actually correct after all",
+             "The examination is irrelevant to philosophical positions"],
+         "correct": 0,
+         "expl": "The same three questions dismantle both the simple formula and this fuller doctrine."},
+        {"q": "How many aggregates does this examination apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "What quality does the view claim for the self, directly contradicted by the examination's findings?",
+         "opts": [
+             "Not subject to change (avipariṇāmadhamma)",
+             "Impermanent and constantly shifting",
+             "Non-existent entirely",
+             "Multiple and divided"],
+         "correct": 0,
+         "expl": "Directly denied once each aggregate is shown to be impermanent."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.150-151's own setting."},
+        {"q": "What comes next in Diṭṭhivagga after this discourse?",
+         "opts": [
+             "SN 22.153, examining a different specific view",
+             "SN 22.159, closing the vagga",
+             "A return to SN 22.150",
+             "The start of a new vagga"],
+         "correct": 0,
+         "expl": "Continuing this vagga's opening set with the next phenomenon under examination."},
+    ],
+    marginalia=[
+        ("A fuller doctrine than the bare formula", [
+            "self and cosmos as one, eternal after death &mdash;",
+            "philosophy where SN 22.151 gave only three clauses",
+        ]),
+        ("The same simple root, however elaborate the branch", [
+            "grasping and insisting, once more &mdash;",
+            "sophistication does not change the underlying cause",
+        ]),
+        ("Philosophy and casual assumption, at root the same", [
+            "an articulated system, an unreflective view &mdash;",
+            "both traced to the identical mechanism",
+        ]),
+        ("The examination's reach, unaffected by complexity", [
+            "three questions dismantle the elaborate view too &mdash;",
+            "no view too sophisticated to be examined this way",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.152/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.151.html">SN 22.151 &middot; This Is Mine</a> '
+        "&mdash; the previous discourse, examining the simpler bare "
+        "self-view formula this discourse's view elaborates upon.",
+        '<a href="sn-22.153.html">SN 22.153 &middot; It Might Not Be '
+        "Mine</a> &mdash; the next discourse, examining a contrasting "
+        "view about potential non-existence.",
+    ],
+)
+
+page(22, 153, "Nocamesiyā", "It Might Not Be Mine",
+    vagga="Diṭṭhivagga",
+    meta_title="SN 22.153 · It Might Not Be Mine — A View About Potential Non-Existence",
+    meta_desc="A specific anxious view — \"I might not be, and it might "
+        "not be mine\" — traced to the same conditions and dismantled "
+        "by the same examination as its eternalist counterpart. "
+        "Saṃyutta Nikāya 22.153, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, questioning the mendicants directly"),
+        ("Form", "The identical structure as SN 22.150-152, now examining a view about potential future non-existence"),
+        ("Length", "Long for this vagga's opening set — the fullest examination given, repeated for both halves of the aggregate list"),
+        ("Northern parallel", "The \"I might not be, it might not be mine\" formula names a specific anxious apprehension about non-existence, distinct from straightforward eternalism or annihilationism"),
+        ("Difficulty", "Moderate — the view's precise emotional register (anxious apprehension rather than settled doctrine) rewards careful reading"),
+    ],
+    why=("Examines a view standing in pointed contrast to SN 22.152's "
+        "confident eternalism: an anxious apprehension about "
+        "non-existence — \"I might not be, and it might not be mine. I "
+        "will not be, and it will not be mine\" — traced to the same "
+        "grasping-and-insisting conditions and dismantled by the same "
+        "examination."),
+    guide=[
+        ("A view of anxious uncertainty, not settled doctrine", [
+            "\"I might not be, and it might not be mine. I will not be, "
+            "and it will not be mine\" — unlike SN 22.152's confident "
+            "eternalist assertion, this view has the character of an "
+            "apprehensive worry: not a claim about what is true, but a "
+            "distressed contemplation of what might come to pass.",
+            "This subjunctive, anxious register recalls SN 22.7's "
+            "earlier diagnosis of why an aggregate's change causes "
+            "distress specifically for someone who has identified with "
+            "it — here given its own dedicated discourse rather than "
+            "remaining implicit.",
+        ]),
+        ("The identical conditions, once more", [
+            "\"When form exists, because of grasping form and insisting "
+            "on form, the view arises\" — exactly the same two "
+            "conditions traced for SN 22.151's bare formula and SN "
+            "22.152's confident eternalism, now shown to produce this "
+            "opposite-feeling anxious view as well.",
+        ]),
+        ("Why the same root produces such different-feeling views", [
+            "That confident eternalism (SN 22.152) and anxious "
+            "apprehension about non-existence (this discourse) trace to "
+            "the identical grasping-and-insisting mechanism shows that "
+            "grasping does not commit one to any single emotional "
+            "orientation — the same underlying attachment can manifest "
+            "as either confident assertion or fearful uncertainty, "
+            "depending on circumstance, while the remedy (releasing "
+            "grasping and insisting) remains identical either way.",
+        ]),
+        ("The same dismantling examination", [
+            "\"But by not grasping what's impermanent, suffering, and "
+            "perishable, would the view arise... — No\" — the standard "
+            "three-question sequence, given in full for each aggregate, "
+            "confirming this anxious view is equally dependent on "
+            "grasping and equally dissolved by its absence.",
+        ]),
+    ],
+    terms=[
+        ("no cassaṁ no ca me siyā", "\"I might not be, and it might not be mine\" — the anxious formula giving this discourse its title"),
+        ("na bhavissāmi na me bhavissati", "\"I will not be, and it will not be mine\" — the formula's future-tense continuation"),
+        ("upādāya abhinivissa", "because of grasping and insisting on — the shared conditions with SN 22.151-152"),
+        ("sassatavāda", "eternalist view — SN 22.152's own confident counterpart to this discourse's anxious view"),
+        ("nappajaheyya", "would not [arise] — the negative conclusion the examination reaches"),
+    ],
+    text_intro=("The complete discourse: the anxious view stated in full, traced "
+        "to its conditions, and dismantled by the standard examination "
+        "given in full for each aggregate. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.153:1.1-1.4"),
+        ("p", "§2", "sn22.153:1.5-1.11"),
+        ("p", "§3", "sn22.153:1.12-1.19"),
+        ("p", "§4", "sn22.153:1.20-1.31"),
+    ],
+    quiz=[
+        {"q": "What view does this discourse examine?",
+         "opts": [
+             "\"I might not be, and it might not be mine. I will not be, and it will not be mine\"",
+             "\"The self and cosmos are one and the same, eternal\"",
+             "\"This is mine, I am this, this is my self\"",
+             "\"There is no self anywhere at all\""],
+         "correct": 0,
+         "expl": "An anxious apprehension about potential non-existence."},
+        {"q": "How does this view's emotional register differ from SN 22.152's eternalism?",
+         "opts": [
+             "This view has the character of anxious apprehension rather than confident assertion",
+             "The two views are emotionally identical",
+             "This view is more confident than SN 22.152's",
+             "Neither view has any emotional character"],
+         "correct": 0,
+         "expl": "A distressed contemplation of what might come to pass, not a settled claim about what is true."},
+        {"q": "What earlier discourse in this book does this anxious register recall?",
+         "opts": [
+             "SN 22.7's diagnosis of why an aggregate's change causes distress for someone identified with it",
+             "SN 22.93's river simile",
+             "SN 22.95's foam-lump simile",
+             "SN 22.117's shackle metaphor"],
+         "correct": 0,
+         "expl": "Given here its own dedicated discourse rather than remaining implicit."},
+        {"q": "What conditions does this discourse identify as the source of this anxious view?",
+         "opts": [
+             "The identical grasping and insisting conditions as SN 22.151-152",
+             "A completely different set of conditions unique to this view",
+             "External circumstances alone",
+             "No specific conditions — it is said to arise randomly"],
+         "correct": 0,
+         "expl": "The same two conditions producing views with very different emotional character."},
+        {"q": "What does the shared root between confident eternalism and anxious apprehension demonstrate?",
+         "opts": [
+             "The same underlying attachment can manifest as either confident assertion or fearful uncertainty",
+             "The two views must always occur together",
+             "Only one of the two views is actually caused by grasping",
+             "Grasping always produces exactly the same emotional response"],
+         "correct": 0,
+         "expl": "Grasping does not commit one to a single emotional orientation, though the remedy remains identical either way."},
+        {"q": "What examination dismantles this view?",
+         "opts": [
+             "The standard permanent/impermanent, suffering/happiness, grasped/released three-question sequence",
+             "A formal philosophical debate",
+             "An appeal to scripture alone",
+             "A narrative counter-example"],
+         "correct": 0,
+         "expl": "The identical examination used throughout this vagga's opening set, given here in full for each aggregate."},
+        {"q": "How many aggregates does this examination apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "What remedy does this discourse imply for this anxious view, regardless of its different emotional character from eternalism?",
+         "opts": [
+             "Releasing grasping and insisting, the same remedy as for the confident eternalist view",
+             "A completely different remedy specific to anxiety",
+             "No remedy is possible for this particular view",
+             "Actively cultivating more confidence"],
+         "correct": 0,
+         "expl": "The same underlying cause calls for the same underlying release."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.150-152's own setting."},
+        {"q": "What comes next in Diṭṭhivagga after this discourse?",
+         "opts": [
+             "SN 22.154, examining wrong view in general",
+             "SN 22.159, closing the vagga",
+             "A return to SN 22.150",
+             "The start of a new vagga"],
+         "correct": 0,
+         "expl": "Continuing this vagga's opening set with a more general phenomenon."},
+    ],
+    marginalia=[
+        ("Anxiety, not confident assertion", [
+            "\"I might not be, it might not be mine\" &mdash;",
+            "a worry contemplated, not a doctrine held",
+        ]),
+        ("Recalling SN 22.7's own earlier diagnosis", [
+            "distress at an identified-with aggregate's change &mdash;",
+            "here given its own full, dedicated treatment",
+        ]),
+        ("The same root, opposite-feeling fruit", [
+            "confident eternalism, anxious apprehension &mdash;",
+            "grasping does not commit to a single emotional shape",
+        ]),
+        ("One remedy, regardless of the view's feeling", [
+            "release grasping and insisting either way &mdash;",
+            "the examination reaches both views alike",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.153/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.152.html">SN 22.152 &middot; This Is My '
+        "Self</a> &mdash; the previous discourse, examining the "
+        "confident eternalist counterpart to this discourse's anxious "
+        "view.",
+        '<a href="sn-22.154.html">SN 22.154 &middot; Wrong View</a> '
+        "&mdash; the next discourse, generalizing from these specific "
+        "views to wrong view as such.",
+    ],
+)
+
+page(22, 154, "Micchādiṭṭhi", "Wrong View",
+    vagga="Diṭṭhivagga",
+    meta_title="SN 22.154 · Wrong View — Generalizing Beyond Specific Formulas",
+    meta_desc="Moving from specific self-view formulas to wrong view as "
+        "such, traced to the same conditions and dismantled by the same "
+        "examination. Saṃyutta Nikāya 22.154, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, questioning the mendicants directly"),
+        ("Form", "The identical structure as SN 22.150-153, now examining wrong view generally rather than a specific formula"),
+        ("Length", "Short — compressed, following the established pattern"),
+        ("Northern parallel", "Micchādiṭṭhi, \"wrong view,\" is the Canon's standard general term, the first factor of the noble eightfold path's own negation"),
+        ("Difficulty", "Approachable — best read as a generalizing move after three specific-view discourses"),
+    ],
+    why=("Having examined three specific views in turn (the bare "
+        "self-formula, confident eternalism, anxious apprehension about "
+        "non-existence), this discourse steps back to ask about wrong "
+        "view (micchādiṭṭhi) as a general category — the same "
+        "conditions, the same examination, now applied to the class "
+        "rather than to any one member of it."),
+    guide=[
+        ("From specific formulas to the general category", [
+            "\"When what exists, because of grasping what and insisting "
+            "on what, does wrong view arise?\" — where SN 22.151-153 each "
+            "asked about one specific articulated view, this discourse "
+            "asks about micchādiṭṭhi as such, the category any of those "
+            "three specific views (and countless others) would fall "
+            "under.",
+        ]),
+        ("The same conditions, now shown to be fully general", [
+            "\"When form exists, because of grasping form and insisting "
+            "on form, wrong view arises\" — the identical grasping-and-"
+            "insisting mechanism, now stated to produce wrong view "
+            "generally rather than any single named instance of it.",
+            "This generalization retroactively confirms what the "
+            "preceding three discourses already implied: SN 22.151-153 "
+            "were not treating three unrelated causal stories, but three "
+            "particular cases of the single general mechanism this "
+            "discourse now names directly.",
+        ]),
+        ("A more compressed presentation", [
+            "Unlike SN 22.150-153's fuller treatments, this discourse's "
+            "examination is given with more of the aggregate-by-"
+            "aggregate elaboration elided — by the fourth discourse in "
+            "this vagga's opening set, the underlying pattern is "
+            "established firmly enough that less needs to be spelled "
+            "out.",
+        ]),
+        ("Setting up two more general terms", [
+            "This same move — from specific formula to general category "
+            "— will repeat twice more: SN 22.155 will ask about "
+            "sakkāyadiṭṭhi (\"substantialist view,\" already a major "
+            "technical term throughout this book), and SN 22.156 about "
+            "attānudiṭṭhi (\"theory of self\"), two more general labels "
+            "for the same underlying phenomenon this discourse's "
+            "\"wrong view\" already names most broadly.",
+        ]),
+    ],
+    terms=[
+        ("micchādiṭṭhi", "wrong view — the general category this discourse examines, giving it its title"),
+        ("sammādiṭṭhi", "right view — the noble eightfold path's own first factor, the implicit opposite of this discourse's subject"),
+        ("upādāya abhinivissa", "because of grasping and insisting on — the shared conditions traced across this entire opening set"),
+        ("sakkāyadiṭṭhi", "substantialist view — the more specific technical term SN 22.155 will examine next"),
+        ("attānudiṭṭhi", "theory of self — the term SN 22.156 will examine after that"),
+    ],
+    text_intro=("The complete discourse: the general question about wrong view, "
+        "traced to its conditions and dismantled by the standard "
+        "examination. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.154:1.1-1.3"),
+        ("p", "§2", "sn22.154:1.4-1.8"),
+        ("p", "§3", "sn22.154:1.9-1.14"),
+        ("p", "§4", "sn22.154:1.15-1.25"),
+    ],
+    quiz=[
+        {"q": "What does this discourse examine, compared to SN 22.151-153's specific formulas?",
+         "opts": [
+             "Wrong view (micchādiṭṭhi) as a general category, not one specific view",
+             "An entirely unrelated topic",
+             "The exact same specific view as SN 22.152",
+             "A view held only by a single named individual"],
+         "correct": 0,
+         "expl": "A generalizing move after three discourses on specific articulated views."},
+        {"q": "What does this discourse's generalization retroactively confirm about SN 22.151-153?",
+         "opts": [
+             "They were three particular cases of the single general mechanism this discourse now names directly",
+             "They were actually unrelated to grasping and insisting",
+             "They described views that could never actually arise",
+             "They contradicted each other"],
+         "correct": 0,
+         "expl": "The same grasping-and-insisting mechanism underlying all of them."},
+        {"q": "What conditions does this discourse identify as producing wrong view?",
+         "opts": [
+             "Grasping and insisting on an aggregate",
+             "A specific ritual failure",
+             "External social pressure alone",
+             "No identifiable conditions"],
+         "correct": 0,
+         "expl": "The same conditions traced throughout this vagga's opening set."},
+        {"q": "How does this discourse's presentation compare to SN 22.150-153's?",
+         "opts": [
+             "More compressed, with more of the aggregate-by-aggregate elaboration elided",
+             "Much longer and more elaborate",
+             "Identical in every detail",
+             "Entirely different in structure"],
+         "correct": 0,
+         "expl": "By the fourth discourse in the set, the established pattern needs less spelling out."},
+        {"q": "What two more general terms will the following discourses examine?",
+         "opts": [
+             "Sakkāyadiṭṭhi (substantialist view) and attānudiṭṭhi (theory of self)",
+             "Two entirely new specific formulas unrelated to view",
+             "The same term repeated twice",
+             "No further generalizing discourses follow"],
+         "correct": 0,
+         "expl": "SN 22.155 and SN 22.156, two more labels for the same underlying phenomenon."},
+        {"q": "What is sammādiṭṭhi, the implicit opposite of this discourse's subject?",
+         "opts": [
+             "Right view, the noble eightfold path's own first factor",
+             "A synonym for micchādiṭṭhi with no distinction",
+             "A term unrelated to the eightfold path",
+             "A view held only by arahants"],
+         "correct": 0,
+         "expl": "The positive counterpart implicitly contrasted with this discourse's own subject."},
+        {"q": "How many aggregates does this examination apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "What examination dismantles wrong view according to this discourse?",
+         "opts": [
+             "The standard permanent/impermanent, suffering/happiness, grasped/released three-question sequence",
+             "A formal philosophical debate",
+             "An appeal to authority alone",
+             "A narrative counter-example"],
+         "correct": 0,
+         "expl": "The identical examination used throughout this vagga's opening set."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.150-153's own setting."},
+        {"q": "What comes next in Diṭṭhivagga after this discourse?",
+         "opts": [
+             "SN 22.155, examining substantialist view",
+             "SN 22.159, closing the vagga",
+             "A return to SN 22.150",
+             "The start of a new vagga"],
+         "correct": 0,
+         "expl": "Continuing the generalizing move with a more specific technical term."},
+    ],
+    marginalia=[
+        ("Stepping back from formula to category", [
+            "not one specific view, but wrong view as such &mdash;",
+            "the class the preceding three discourses' views belong to",
+        ]),
+        ("A generalization confirming what came before", [
+            "three specific cases, one general mechanism &mdash;",
+            "now named directly rather than left implicit",
+        ]),
+        ("Less needing to be spelled out", [
+            "the fourth discourse in an established pattern &mdash;",
+            "compression increasing as familiarity grows",
+        ]),
+        ("Two more general labels still to come", [
+            "sakkāyadiṭṭhi, attānudiṭṭhi &mdash;",
+            "the same phenomenon, named different ways",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.154/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.153.html">SN 22.153 &middot; It Might Not Be '
+        "Mine</a> &mdash; the previous discourse, the last of three "
+        "specific views this discourse generalizes from.",
+        '<a href="sn-22.155.html">SN 22.155 &middot; Substantialist '
+        "View</a> &mdash; the next discourse, examining a more specific "
+        "technical term for the same underlying phenomenon.",
+    ],
+)
+
+page(22, 155, "Sakkāyadiṭṭhi", "Substantialist View",
+    vagga="Diṭṭhivagga",
+    meta_title="SN 22.155 · Substantialist View — The Book's Own Central Term",
+    meta_desc="Sakkāyadiṭṭhi, this book's own most central technical "
+        "term for self-view, traced to grasping and insisting on each "
+        "aggregate. Saṃyutta Nikāya 22.155, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, questioning the mendicants directly"),
+        ("Form", "The identical structure as SN 22.150-154, now examining sakkāyadiṭṭhi specifically"),
+        ("Length", "Short — compressed, following the established pattern"),
+        ("Northern parallel", "Sakkāyadiṭṭhi is one of the ten fetters and is treated at length across the Canon; SN 22.44 earlier in this book gave it extended technical treatment"),
+        ("Difficulty", "Moderate — best appreciated with familiarity with sakkāya's own earlier treatment in this book"),
+    ],
+    why=("Applies this vagga's opening set's method to sakkāyadiṭṭhi "
+        "specifically — \"substantialist view,\" this book's own most "
+        "central and recurring technical term, already given extended "
+        "treatment at SN 22.44 and echoed throughout the four-truths "
+        "material at SN 22.103-105."),
+    guide=[
+        ("A term this book has built toward throughout", [
+            "\"When what exists, because of grasping what and insisting "
+            "on what, does substantialist view arise?\" — sakkāyadiṭṭhi "
+            "is not a new term introduced here, but one of this book's "
+            "own recurring technical anchors, first given extended "
+            "treatment at SN 22.44 and structurally central to the "
+            "four-truths material of SN 22.103-105 much earlier in "
+            "Khandhavagga.",
+        ]),
+        ("Traced to the same two conditions once more", [
+            "\"When form exists, because of grasping form and insisting "
+            "on form, substantialist view arises\" — the identical "
+            "mechanism as every other view examined in this vagga's "
+            "opening set, now applied to name specifically the technical "
+            "term this book itself has relied on most heavily.",
+        ]),
+        ("A quiet culmination of this book's own vocabulary", [
+            "Reading this discourse against SN 22.44's earlier, fuller "
+            "treatment of sakkāya reveals this discourse's role: not "
+            "introducing new content about substantialist view, but "
+            "confirming that the same simple grasping-and-insisting "
+            "mechanism this vagga has traced for every other view "
+            "applies equally to the book's own central term — nothing "
+            "about sakkāyadiṭṭhi's importance exempts it from the same "
+            "analysis given to lesser-known formulas.",
+        ]),
+        ("One more generalization remaining", [
+            "SN 22.156 will apply the identical structure to "
+            "attānudiṭṭhi (\"theory of self\"), a third general label "
+            "for substantially the same phenomenon, before this vagga's "
+            "opening set moves to its final two discourses on fetters "
+            "and shackles.",
+        ]),
+    ],
+    terms=[
+        ("sakkāyadiṭṭhi", "substantialist view — this discourse's own subject, this book's own most central recurring technical term"),
+        ("sakkāya", "substantial reality — the underlying term, given extended treatment at SN 22.44 and structural centrality at SN 22.103-105"),
+        ("upādāya abhinivissa", "because of grasping and insisting on — the shared conditions this discourse traces once more"),
+        ("micchādiṭṭhi", "wrong view — SN 22.154's own more general term, of which sakkāyadiṭṭhi is one specific technical instance"),
+        ("attānudiṭṭhi", "theory of self — the term SN 22.156 will examine next"),
+    ],
+    text_intro=("The complete discourse: the question about substantialist view, "
+        "traced to its conditions and dismantled by the standard "
+        "examination. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.155:1.1-1.3"),
+        ("p", "§2", "sn22.155:1.4-1.8"),
+        ("p", "§3", "sn22.155:1.9-1.14"),
+        ("p", "§4", "sn22.155:1.15-1.24"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse examine?",
+         "opts": [
+             "Sakkāyadiṭṭhi, \"substantialist view\"",
+             "A completely new term not seen anywhere else in this book",
+             "The bare \"this is mine\" formula from SN 22.151",
+             "The eternalist view from SN 22.152"],
+         "correct": 0,
+         "expl": "This book's own most central and recurring technical term."},
+        {"q": "Where else in this book has sakkāya already received extended treatment?",
+         "opts": [
+             "SN 22.44, and structurally throughout SN 22.103-105",
+             "Only in this single discourse",
+             "SN 22.93-95, the similes for the aggregates",
+             "SN 22.1-11, the opening vagga"],
+         "correct": 0,
+         "expl": "One of this book's own most heavily relied-upon technical anchors."},
+        {"q": "What conditions does this discourse trace for substantialist view?",
+         "opts": [
+             "The identical grasping and insisting conditions used throughout this vagga's opening set",
+             "A completely new, unique set of conditions",
+             "No specific conditions at all",
+             "External social pressure alone"],
+         "correct": 0,
+         "expl": "The same mechanism applied to every view examined so far."},
+        {"q": "What does this discourse's role turn out to be, reading it against SN 22.44's earlier treatment?",
+         "opts": [
+             "Confirming the same simple mechanism applies equally to the book's own central term, without introducing new content",
+             "Contradicting everything SN 22.44 established",
+             "Introducing sakkāyadiṭṭhi to this book for the first time",
+             "Replacing SN 22.44's earlier treatment entirely"],
+         "correct": 0,
+         "expl": "Nothing about the term's importance exempts it from the same analysis given to lesser-known formulas."},
+        {"q": "What discourse will examine the term \"attānudiṭṭhi\" next?",
+         "opts": ["SN 22.156", "SN 22.150", "SN 22.113", "SN 22.159"],
+         "correct": 0,
+         "expl": "A third general label for substantially the same phenomenon."},
+        {"q": "How does sakkāyadiṭṭhi relate to SN 22.154's own \"wrong view\"?",
+         "opts": [
+             "It is one specific technical instance of the more general category micchādiṭṭhi",
+             "The two terms are entirely unrelated",
+             "Sakkāyadiṭṭhi is broader than micchādiṭṭhi",
+             "Only one of the two terms is used in this book"],
+         "correct": 0,
+         "expl": "A specific technical term nested within the broader general category."},
+        {"q": "How many aggregates does this examination apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "What examination dismantles substantialist view in this discourse?",
+         "opts": [
+             "The standard permanent/impermanent, suffering/happiness, grasped/released three-question sequence",
+             "A formal philosophical debate",
+             "A narrative counter-example",
+             "An appeal to authority alone"],
+         "correct": 0,
+         "expl": "The identical examination used throughout this vagga's opening set."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.150-154's own setting."},
+        {"q": "What comes after this discourse within Diṭṭhivagga's opening set?",
+         "opts": [
+             "SN 22.156, examining \"theory of self\"",
+             "SN 22.159, immediately closing the vagga",
+             "A return to SN 22.150",
+             "The start of a new vagga"],
+         "correct": 0,
+         "expl": "One more generalizing discourse before this set turns to fetters and shackles."},
+    ],
+    marginalia=[
+        ("A term this book has built toward", [
+            "sakkāyadiṭṭhi, not new but familiar &mdash;",
+            "given extended treatment already, at SN 22.44",
+        ]),
+        ("The same simple mechanism, once more", [
+            "grasping and insisting, applied to the central term &mdash;",
+            "no exemption for the book's own most-used vocabulary",
+        ]),
+        ("Confirmation, not new content", [
+            "this discourse's real role, read against SN 22.44 &mdash;",
+            "the identical analysis, however important the term",
+        ]),
+        ("A third label still to come", [
+            "attānudiṭṭhi, one more name for the same thing &mdash;",
+            "SN 22.156 completes this three-term generalizing arc",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.155/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.154.html">SN 22.154 &middot; Wrong View</a> '
+        "&mdash; the previous discourse, the more general category "
+        "sakkāyadiṭṭhi is nested within.",
+        '<a href="sn-22.156.html">SN 22.156 &middot; Theory of Self</a> '
+        "&mdash; the next discourse, examining a third general label "
+        "for the same underlying phenomenon.",
+    ],
+)
+
+page(22, 156, "Attānudiṭṭhi", "Theory of Self",
+    vagga="Diṭṭhivagga",
+    meta_title="SN 22.156 · Theory of Self — The Third General Label",
+    meta_desc="Attānudiṭṭhi, closing this vagga's three-term "
+        "generalizing arc from wrong view through substantialist view "
+        "to theory of self, all tracing to the same conditions. "
+        "Saṃyutta Nikāya 22.156, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, questioning the mendicants directly"),
+        ("Form", "The identical structure as SN 22.150-155, now examining attānudiṭṭhi"),
+        ("Length", "Short — compressed, following the established pattern"),
+        ("Northern parallel", "Attānudiṭṭhi, \"theory of self\" or \"view following self,\" is closely related to but terminologically distinct from sakkāyadiṭṭhi"),
+        ("Difficulty", "Moderate — best appreciated alongside SN 22.154-155 as the close of a three-term arc"),
+    ],
+    why=("Closes this vagga's three-discourse generalizing arc: after "
+        "wrong view (SN 22.154) and substantialist view (SN 22.155), "
+        "this discourse examines attānudiṭṭhi, \"theory of self\" — a "
+        "third general label, tracing once more to the identical "
+        "grasping-and-insisting conditions before this opening set "
+        "turns to its final two discourses on fetters and shackles."),
+    guide=[
+        ("A third name for closely related ground", [
+            "\"When what exists, because of grasping what and insisting "
+            "on what, does theory of self arise?\" — attānudiṭṭhi shares "
+            "obvious territory with SN 22.155's sakkāyadiṭṭhi, though "
+            "the terms are not identical: attānudiṭṭhi emphasizes the "
+            "theorizing about a self (view \"following\" or "
+            "\"pursuing\" self), where sakkāyadiṭṭhi emphasizes the "
+            "substantial reality being mistakenly constructed.",
+        ]),
+        ("The identical mechanism, a third time", [
+            "\"When form exists, because of grasping form and insisting "
+            "on form, theory of self arises\" — exactly the same "
+            "grasping-and-insisting conditions traced for wrong view "
+            "generally and substantialist view specifically, now shown "
+            "to produce this third, closely related label as well.",
+        ]),
+        ("What three terms sharing one mechanism accomplishes", [
+            "By this point, having traced micchādiṭṭhi, sakkāyadiṭṭhi, "
+            "and attānudiṭṭhi all to the identical source, this vagga "
+            "makes a cumulative point that no single discourse could "
+            "make alone: the book's varied technical vocabulary for "
+            "self-related error is not describing three different "
+            "mental events but three different names given to a single "
+            "recurring phenomenon, viewed and labeled from slightly "
+            "different angles.",
+        ]),
+        ("Turning to fetters and shackles", [
+            "This discourse's own closing examination completes the "
+            "vagga's opening view-focused sequence; SN 22.157-158 will "
+            "shift from views specifically to the broader consequences "
+            "of grasping — fetters, insistence, shackles, and "
+            "attachments — before SN 22.159 closes both the vagga and "
+            "SN22 itself with the discourse to Ānanda.",
+        ]),
+    ],
+    terms=[
+        ("attānudiṭṭhi", "theory of self, view following self — this discourse's own subject, closing the three-term generalizing arc"),
+        ("sakkāyadiṭṭhi", "substantialist view — SN 22.155's own closely related term, emphasizing the substantial reality mistakenly constructed"),
+        ("micchādiṭṭhi", "wrong view — SN 22.154's own most general term, of which both attānudiṭṭhi and sakkāyadiṭṭhi are specific instances"),
+        ("upādāya abhinivissa", "because of grasping and insisting on — the shared conditions traced a third time in this discourse"),
+        ("saṁyojana", "fetters — the term SN 22.157 will turn to next, shifting from views to their consequences"),
+    ],
+    text_intro=("The complete discourse: the question about theory of self, "
+        "traced to its conditions and dismantled by the standard "
+        "examination. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.156:1.1-1.3"),
+        ("p", "§2", "sn22.156:1.4-1.8"),
+        ("p", "§3", "sn22.156:1.9-1.14"),
+        ("p", "§4", "sn22.156:1.15-1.24"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse examine, closing the three-term generalizing arc?",
+         "opts": [
+             "Attānudiṭṭhi, \"theory of self\"",
+             "The bare \"this is mine\" formula from SN 22.151",
+             "A completely new term unrelated to view",
+             "The eternalist view from SN 22.152"],
+         "correct": 0,
+         "expl": "The third general label after wrong view (154) and substantialist view (155)."},
+        {"q": "How does attānudiṭṭhi differ in emphasis from sakkāyadiṭṭhi?",
+         "opts": [
+             "Attānudiṭṭhi emphasizes theorizing about a self; sakkāyadiṭṭhi emphasizes the substantial reality mistakenly constructed",
+             "The two terms are used interchangeably with no distinction",
+             "Attānudiṭṭhi is a much broader category than sakkāyadiṭṭhi",
+             "The two terms refer to entirely unrelated phenomena"],
+         "correct": 0,
+         "expl": "Closely related but not identical technical terms."},
+        {"q": "What conditions does this discourse trace for theory of self?",
+         "opts": [
+             "The identical grasping and insisting conditions used throughout this vagga's opening set",
+             "A completely different, unique set of conditions",
+             "No specific conditions at all",
+             "Years of philosophical training"],
+         "correct": 0,
+         "expl": "The same mechanism traced for wrong view and substantialist view alike."},
+        {"q": "What cumulative point does tracing three terms (micchādiṭṭhi, sakkāyadiṭṭhi, attānudiṭṭhi) to one mechanism make?",
+         "opts": [
+             "The varied vocabulary describes not three different mental events but one phenomenon named from different angles",
+             "The three terms actually contradict each other",
+             "Only one of the three terms is doctrinally valid",
+             "Each term requires an entirely separate remedy"],
+         "correct": 0,
+         "expl": "A point no single discourse in this set could make alone."},
+        {"q": "What does this vagga's opening set turn to after this discourse?",
+         "opts": [
+             "Fetters, insistence, shackles, and attachments — the consequences of grasping rather than views specifically",
+             "A return to the specific views of SN 22.151-153",
+             "The vagga's immediate close",
+             "An entirely unrelated topic"],
+         "correct": 0,
+         "expl": "SN 22.157-158, shifting from views to their broader consequences."},
+        {"q": "What discourse closes both this vagga and the whole of SN22?",
+         "opts": [
+             "SN 22.159, the discourse to Ānanda",
+             "This discourse itself",
+             "SN 22.150, this vagga's opening discourse",
+             "SN 22.113, much earlier in the book"],
+         "correct": 0,
+         "expl": "The vagga's own final discourse, closing SN22 (Khandhasaṃyutta) entirely."},
+        {"q": "How many aggregates does this examination apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "What examination dismantles theory of self in this discourse?",
+         "opts": [
+             "The standard permanent/impermanent, suffering/happiness, grasped/released three-question sequence",
+             "A formal philosophical debate",
+             "An appeal to authority alone",
+             "A narrative counter-example"],
+         "correct": 0,
+         "expl": "The identical examination used throughout this vagga's opening set."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.150-155's own setting."},
+        {"q": "What is micchādiṭṭhi's relationship to both sakkāyadiṭṭhi and attānudiṭṭhi?",
+         "opts": [
+             "It is the more general category both specific terms fall under",
+             "It is unrelated to either term",
+             "It is a narrower category than both terms",
+             "It contradicts both terms"],
+         "correct": 0,
+         "expl": "As established at SN 22.154, the broadest of the three terms in this arc."},
+    ],
+    marginalia=[
+        ("A third name, closely related ground", [
+            "attānudiṭṭhi, theorizing about self &mdash;",
+            "distinct in emphasis from sakkāyadiṭṭhi, not in root",
+        ]),
+        ("The same mechanism, a third confirmation", [
+            "grasping and insisting, once more &mdash;",
+            "three terms, one underlying phenomenon",
+        ]),
+        ("Vocabulary as angle, not as different events", [
+            "wrong view, substantialist view, theory of self &mdash;",
+            "one thing, seen and named three ways",
+        ]),
+        ("Turning from views to their consequences", [
+            "fetters and shackles to follow &mdash;",
+            "SN 22.157-158 shift the vagga's own focus",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.156/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.155.html">SN 22.155 &middot; Substantialist '
+        "View</a> &mdash; the previous discourse, this discourse's own "
+        "closely related predecessor in this three-term arc.",
+        '<a href="sn-22.157.html">SN 22.157 &middot; Insistence</a> '
+        "&mdash; the next discourse, shifting from views to the "
+        "fetters and shackles grasping produces.",
+    ],
+)
+
+page(22, 157, "Abhinivesa", "Insistence",
+    vagga="Diṭṭhivagga",
+    meta_title="SN 22.157 · Insistence — From Views to Their Consequences",
+    meta_desc="Shifting from views themselves to what grasping actually "
+        "produces: fetters, insistence, and shackles, traced to the "
+        "same conditions and dismantled by the same examination. "
+        "Saṃyutta Nikāya 22.157, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, questioning the mendicants directly"),
+        ("Form", "The identical structure as SN 22.150-156, now examining three consequences of grasping rather than a view"),
+        ("Length", "Short — compressed, following the established pattern"),
+        ("Northern parallel", "Saṁyojana (fetters), abhinivesa (insistence), and upādāna (shackles/grasping) each recur throughout the Canon's technical vocabulary for what binds a mind"),
+        ("Difficulty", "Moderate — tracking three distinct but related terms together"),
+    ],
+    why=("Marks a shift in this vagga's opening set: after six "
+        "discourses examining specific and general views, this "
+        "discourse turns from what is believed to what grasping "
+        "actually produces — fetters, insistence, and shackles — three "
+        "related terms for how a mind becomes bound, traced to the same "
+        "conditions as every view examined before it."),
+    guide=[
+        ("From views to bindings", [
+            "\"When what exists, because of grasping what and insisting "
+            "on what, do fetters, insistence, and shackles arise?\" — a "
+            "notable shift in subject matter: rather than a specific "
+            "belief or opinion (a view), this discourse asks about "
+            "conditions of binding themselves.",
+        ]),
+        ("Three related terms named together", [
+            "Saṁyojana (\"fetters,\" already central to the "
+            "stream-enterer/arahant formulas at SN 22.109-110), "
+            "abhinivesa (\"insistence,\" the very condition traced "
+            "throughout this vagga's opening set), and upādāna "
+            "(\"shackles,\" already given extended treatment in the "
+            "leash similes at SN 22.99-100) are grouped here as a "
+            "single triad of consequences.",
+            "Naming all three together suggests they are treated as "
+            "closely overlapping rather than sharply distinct — three "
+            "words circling the same basic condition of a mind bound to "
+            "an aggregate, rather than three separable phenomena "
+            "requiring separate remedies.",
+        ]),
+        ("The same conditions producing this triad", [
+            "\"When form exists, because of grasping form and insisting "
+            "on form, fetters, insistence, and shackles arise\" — the "
+            "identical grasping-and-insisting mechanism traced "
+            "throughout this vagga, now shown to produce not only "
+            "views but the very bindings those views help constitute.",
+        ]),
+        ("Setting up its own expanded companion", [
+            "SN 22.158, this discourse's own direct companion, will add "
+            "a fourth term — \"attachments\" — to this same triad, "
+            "closing this vagga's penultimate discourse before Ānanda's "
+            "own closing exchange with the Buddha ends both this vagga "
+            "and SN22 as a whole.",
+        ]),
+    ],
+    terms=[
+        ("saṁyojana", "fetters — the first of three terms this discourse names together, central to the stream-enterer and arahant formulas at SN 22.109-110"),
+        ("abhinivesa", "insistence — the second term, the very condition traced throughout this vagga's opening set"),
+        ("upādāna", "shackles, grasping — the third term, already treated in the leash similes at SN 22.99-100"),
+        ("upādāya", "because of grasping — the shared condition producing all three terms together"),
+        ("upāya", "attachments — the fourth term SN 22.158 will add to complete this expanding list"),
+    ],
+    text_intro=("The complete discourse: the question about fetters, insistence, "
+        "and shackles, traced to their conditions and dismantled by the "
+        "standard examination. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.157:1.1-1.3"),
+        ("p", "§2", "sn22.157:1.4-1.8"),
+        ("p", "§3", "sn22.157:1.9-1.14"),
+        ("p", "§4", "sn22.157:1.15-1.16"),
+    ],
+    quiz=[
+        {"q": "What does this discourse shift to examining, compared to SN 22.150-156?",
+         "opts": [
+             "Fetters, insistence, and shackles — consequences of grasping rather than specific views",
+             "An entirely unrelated topic outside this vagga's scope",
+             "The exact same specific view as SN 22.155",
+             "A narrative about a named individual"],
+         "correct": 0,
+         "expl": "A notable shift from what is believed to what grasping actually produces."},
+        {"q": "What three terms does this discourse name together?",
+         "opts": [
+             "Saṁyojana (fetters), abhinivesa (insistence), and upādāna (shackles)",
+             "Micchādiṭṭhi, sakkāyadiṭṭhi, and attānudiṭṭhi",
+             "Anicca, dukkha, and anattā",
+             "Chanda, rāga, and chandarāga"],
+         "correct": 0,
+         "expl": "Three related terms for how a mind becomes bound to an aggregate."},
+        {"q": "Where else in this book has \"fetters\" (saṁyojana) already appeared prominently?",
+         "opts": [
+             "SN 22.109-110's own stream-enterer and arahant formulas",
+             "Only in this single discourse",
+             "SN 22.93-95, the similes for the aggregates",
+             "SN 22.1-11, the opening vagga"],
+         "correct": 0,
+         "expl": "Already central to those earlier discourses' technical vocabulary."},
+        {"q": "Where has \"shackles\" (upādāna) already been treated at length in this book?",
+         "opts": [
+             "The leash similes at SN 22.99-100",
+             "Only in this single discourse",
+             "SN 22.117's near/far shore metaphor",
+             "SN 22.1-11, the opening vagga"],
+         "correct": 0,
+         "expl": "The tethered-hound images already established this same term's meaning."},
+        {"q": "Why might these three terms be named together rather than treated separately?",
+         "opts": [
+             "They are treated as closely overlapping, circling one basic condition rather than requiring separate remedies",
+             "They are actually contradictory concepts",
+             "Only one of the three is a real phenomenon",
+             "They must always be addressed by three entirely different practices"],
+         "correct": 0,
+         "expl": "Three words for a similar underlying condition of a mind bound to an aggregate."},
+        {"q": "What conditions does this discourse trace for this triad's arising?",
+         "opts": [
+             "The identical grasping and insisting conditions used throughout this vagga",
+             "A completely new, unique set of conditions",
+             "No specific conditions at all",
+             "External social pressure alone"],
+         "correct": 0,
+         "expl": "The same mechanism producing views now shown to produce bindings as well."},
+        {"q": "What fourth term will SN 22.158 add to this triad?",
+         "opts": ["Attachments (upāya)", "Craving (taṇhā)", "Ignorance (avijjā)", "Conceit (māna)"],
+         "correct": 0,
+         "expl": "Expanding this discourse's own three-term list to four."},
+        {"q": "How many aggregates does this examination apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "What examination dismantles this triad in this discourse?",
+         "opts": [
+             "The standard permanent/impermanent, suffering/happiness, grasped/released three-question sequence",
+             "A formal philosophical debate",
+             "An appeal to authority alone",
+             "A narrative counter-example"],
+         "correct": 0,
+         "expl": "The identical examination used throughout this vagga's opening set."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.150-156's own setting."},
+    ],
+    marginalia=[
+        ("From what is believed to what binds", [
+            "views behind, bindings now named directly &mdash;",
+            "a shift in subject matter within the same set",
+        ]),
+        ("Three terms, one basic condition", [
+            "fetters, insistence, shackles &mdash;",
+            "circling the same bound state, not three separate things",
+        ]),
+        ("Familiar terms, gathered together here", [
+            "saṁyojana from SN 22.109-110, upādāna from SN 22.99-100 &mdash;",
+            "brought into one triad for the first time",
+        ]),
+        ("A fourth term still to come", [
+            "attachments, joining this triad next &mdash;",
+            "SN 22.158 expands the list once more",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.157/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.156.html">SN 22.156 &middot; Theory of Self</a> '
+        "&mdash; the previous discourse, closing this vagga's "
+        "three-term generalizing arc on views.",
+        '<a href="sn-22.158.html">SN 22.158 &middot; Insistence '
+        "(2nd)</a> &mdash; the next discourse, this discourse's own "
+        "direct companion, adding a fourth term.",
+    ],
+)
+
+page(22, 158, "Dutiyaabhinivesa", "Insistence (2nd)",
+    vagga="Diṭṭhivagga",
+    meta_title="SN 22.158 · Insistence (2nd) — A Fourth Term Added",
+    meta_desc="The companion to SN 22.157: fetters, insistence, "
+        "shackles, and now attachments, all traced to the same "
+        "conditions before the vagga's closing discourse. Saṃyutta "
+        "Nikāya 22.158, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, questioning the mendicants directly"),
+        ("Form", "The identical structure as SN 22.157, with a fourth term added to the triad"),
+        ("Length", "Short — compressed, matching SN 22.157's own length"),
+        ("Northern parallel", "Shares its structure with SN 22.157"),
+        ("Difficulty", "Approachable — best read directly after SN 22.157"),
+    ],
+    why=("The direct companion to SN 22.157: the identical three "
+        "terms — fetters, insistence, shackles — now joined by a "
+        "fourth, \"attachments,\" the final expansion of this "
+        "vagga's terminology before its closing discourse to Ānanda."),
+    guide=[
+        ("A fourth term added to the triad", [
+            "\"When what exists, because of grasping what and insisting "
+            "on what, do fetters, insistence, shackles, and attachments "
+            "arise?\" — SN 22.157's own three terms, now with upāya "
+            "(\"attachments\") appended as a fourth.",
+        ]),
+        ("A pattern of accumulating vocabulary", [
+            "This move — a discourse's own companion adding one further "
+            "term to an established list — echoes SN 22.111-112's own "
+            "pairing (four terms, then nine) and SN 22.157's own choice "
+            "to gather three previously separate terms into one triad: "
+            "this book repeatedly builds fuller technical vocabularies "
+            "by incremental addition rather than introducing complete "
+            "lists all at once.",
+        ]),
+        ("The identical source, regardless of how many terms are named", [
+            "\"When form exists, because of grasping form and insisting "
+            "on form, fetters, insistence, shackles, and attachments "
+            "arise\" — the same two conditions producing three terms in "
+            "SN 22.157 and four here, confirming once more that however "
+            "many labels are given to the phenomenon, its cause remains "
+            "unchanged.",
+        ]),
+        ("The vagga's opening view-and-binding sequence, now complete", [
+            "With this discourse, Diṭṭhivagga's first nine discourses "
+            "(SN 22.150-158) have traced pleasure and pain, three "
+            "specific views, three general labels for view, and now two "
+            "sets of bindings — nine distinct phenomena, all reduced to "
+            "the identical grasping-and-insisting mechanism, before the "
+            "vagga's own closing discourse turns to Venerable Ānanda's "
+            "personal request.",
+        ]),
+    ],
+    terms=[
+        ("upāya", "attachments — the fourth term this discourse adds, completing SN 22.157's own triad"),
+        ("saṁyojana/abhinivesa/upādāna", "fetters / insistence / shackles — the three terms shared with SN 22.157"),
+        ("upādāya", "because of grasping — the shared condition producing all four terms together"),
+        ("bhagavaṁmūlakā no bhante dhammā", "\"our teachings are rooted in the Buddha\" — the standard deferential reply shared across all nine discourses in this opening sequence"),
+        ("nāparaṁ itthattāyā", "\"there is nothing further for this place\" — the closing formula shared across the whole sequence"),
+    ],
+    text_intro=("The complete discourse, mirroring SN 22.157's structure with a "
+        "fourth term, \"attachments,\" added. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.158:1.1-1.3"),
+        ("p", "§2", "sn22.158:1.4-1.8"),
+        ("p", "§3", "sn22.158:1.9-1.14"),
+        ("p", "§4", "sn22.158:1.15-1.16"),
+    ],
+    quiz=[
+        {"q": "What fourth term does this discourse add to SN 22.157's own three?",
+         "opts": [
+             "Attachments (upāya)",
+             "Craving (taṇhā)",
+             "Ignorance (avijjā)",
+             "Conceit (māna)"],
+         "correct": 0,
+         "expl": "Joining fetters, insistence, and shackles as a fourth related term."},
+        {"q": "What pattern does this discourse's own addition of a fourth term echo elsewhere in this book?",
+         "opts": [
+             "SN 22.111-112's own expansion from four terms to nine",
+             "No comparable pattern exists elsewhere in this book",
+             "A pattern found only in an entirely different vagga",
+             "SN 22.1-11's opening vagga structure"],
+         "correct": 0,
+         "expl": "This book repeatedly builds fuller technical vocabularies by incremental addition."},
+        {"q": "What does the identical source producing three terms in SN 22.157 and four here confirm?",
+         "opts": [
+             "However many labels are given to the phenomenon, its underlying cause remains unchanged",
+             "The four-term version requires an entirely different cause",
+             "Adding a term changes the fundamental mechanism",
+             "Only the three-term version is actually caused by grasping"],
+         "correct": 0,
+         "expl": "The same two conditions, regardless of how many consequences are named."},
+        {"q": "How many discourses in total make up Diṭṭhivagga's opening sequence, completed by this discourse?",
+         "opts": ["Nine — SN 22.150-158", "Only two", "All fourteen discourses in the vagga", "Five"],
+         "correct": 0,
+         "expl": "Pleasure/pain, three specific views, three general view-labels, and two binding-sets."},
+        {"q": "What comes immediately after this discourse, closing the vagga?",
+         "opts": [
+             "SN 22.159, the discourse to Venerable Ānanda",
+             "A return to SN 22.150",
+             "The start of a new vagga immediately",
+             "SN 22.113, revisited"],
+         "correct": 0,
+         "expl": "This vagga's final discourse, also closing SN22 as a whole."},
+        {"q": "How does this discourse's structure compare to SN 22.157's?",
+         "opts": [
+             "Identical, with one additional term added throughout",
+             "Entirely different in every respect",
+             "Much shorter, omitting the examination entirely",
+             "Much longer, with extensive new content"],
+         "correct": 0,
+         "expl": "The same mechanism and examination, now covering four terms instead of three."},
+        {"q": "How many aggregates does this examination apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "What examination dismantles this four-term list in this discourse?",
+         "opts": [
+             "The standard permanent/impermanent, suffering/happiness, grasped/released three-question sequence",
+             "A formal philosophical debate",
+             "An appeal to authority alone",
+             "A narrative counter-example"],
+         "correct": 0,
+         "expl": "The identical examination used throughout this vagga's opening set."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.157's own setting."},
+        {"q": "What do the mendicants reply when the Buddha poses this discourse's opening question?",
+         "opts": [
+             "\"Our teachings are rooted in the Buddha\"",
+             "\"No, sir\"",
+             "\"Yes, sir\"",
+             "They offer a complete answer themselves immediately"],
+         "correct": 0,
+         "expl": "The same deferential formula shared across this entire nine-discourse opening sequence."},
+    ],
+    marginalia=[
+        ("A fourth term, joining the triad", [
+            "attachments, added to fetters, insistence, shackles &mdash;",
+            "one more label for the same bound condition",
+        ]),
+        ("Incremental vocabulary, a familiar method", [
+            "four terms becoming nine at SN 22.111-112 &mdash;",
+            "this book building lists one addition at a time",
+        ]),
+        ("The same cause, however many labels", [
+            "grasping and insisting, unchanged &mdash;",
+            "three terms or four, the source stays constant",
+        ]),
+        ("Nine discourses complete, one left to close", [
+            "pleasure/pain, views, labels, bindings &mdash;",
+            "Ānanda's own request still to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.158/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.157.html">SN 22.157 &middot; Insistence</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "companion.",
+        '<a href="sn-22.159.html">SN 22.159 &middot; With Ānanda</a> '
+        "&mdash; the next and closing discourse of this vagga, closing "
+        "SN22 (Khandhasaṃyutta) entirely.",
+    ],
+)
+
+page(22, 159, "Ānanda", "With Ānanda",
+    vagga="Diṭṭhivagga",
+    meta_title="SN 22.159 · With Ānanda — Closing the Aggregates",
+    meta_desc="Ānanda requests a brief teaching to take into solitary "
+        "retreat; the Buddha's answer through the standard examination "
+        "closes SN22 with the colophon \"The Linked Discourses on the "
+        "aggregates are complete.\" Saṃyutta Nikāya 22.159, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Ānanda requesting teaching from the Buddha"),
+        ("Form", "A personal request, followed by the standard three-question examination, closing with the saṃyutta's own colophon"),
+        ("Length", "Medium — the examination given in full, plus the closing colophon"),
+        ("Northern parallel", "The \"teach me in brief so I can live alone, withdrawn, diligent\" request formula recurs across the Canon whenever a mendicant seeks concise guidance before solitary retreat"),
+        ("Difficulty", "Approachable — a clear personal exchange closing a long systematic sequence"),
+    ],
+    why=("Closes both Diṭṭhivagga and SN22 (Khandhasaṃyutta) itself: "
+        "after nine discourses of impersonal, systematic examination, "
+        "Ānanda steps forward with a specific personal request for "
+        "brief guidance to carry into solitary retreat, and the "
+        "Buddha's answer — the same three-question examination used "
+        "throughout this vagga — closes with SN22's own confirmed "
+        "colophon."),
+    guide=[
+        ("A personal request, after nine impersonal discourses", [
+            "\"Sir, may the Buddha please teach me Dhamma in brief. When "
+            "I've heard it, I'll live alone, withdrawn, diligent, keen, "
+            "and resolute\" — Ānanda's own specific request, a marked "
+            "contrast to SN 22.150-158's abstract questions to the "
+            "assembled mendicants generally.",
+            "This same request formula — teach me briefly so I can "
+            "practice in solitude — appears at pivotal moments "
+            "elsewhere in the Canon, typically marking a mendicant's "
+            "readiness to move from listening to sustained personal "
+            "practice.",
+        ]),
+        ("The identical examination, now addressed to one person", [
+            "\"What do you think, Ānanda? Is form permanent or "
+            "impermanent? — Impermanent... But if it's impermanent, "
+            "suffering, and perishable, is it fit to be regarded thus: "
+            "'this is mine, I am this, this is my self'? — No\" — the "
+            "same three-question sequence used throughout this vagga, "
+            "now personally addressed rather than posed to the "
+            "assembly.",
+            "The shift from \"would pleasure and pain / would the view "
+            "arise\" (SN 22.150-158's own formulations) to \"is it fit to "
+            "be regarded thus\" gives this closing discourse's own "
+            "version of the examination a slightly different emphasis "
+            "— less about tracing what conditions produce, more about "
+            "asking directly whether self-identification is ever "
+            "warranted.",
+        ]),
+        ("The colophon confirming SN22's own completion", [
+            "\"The Linked Discourses on the aggregates are complete\" — "
+            "given in the source text itself at sn22.159:4.5, confirming "
+            "both this saṃyutta's official name (Khandhasaṃyutta) and "
+            "its full completion at 159 discourses, spanning three "
+            "paṇṇāsakas and fifteen vaggas from SN 22.1's Nakula's "
+            "Father through this closing exchange with Ānanda.",
+        ]),
+        ("A fitting close: the Buddha's own attendant, asking for himself", [
+            "That SN22 closes not with a grand doctrinal synthesis but "
+            "with Ānanda's simple, personal request for guidance to "
+            "carry into his own solitary practice gives the book's "
+            "close a quiet, practical character — a reminder that the "
+            "preceding 158 discourses' elaborate technical analysis "
+            "ultimately serves exactly this kind of individual, lived "
+            "application.",
+        ]),
+    ],
+    terms=[
+        ("saṅkhittena", "in brief — Ānanda's own specific request, for a condensed rather than an elaborate teaching"),
+        ("eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyaṁ", "\"live alone, withdrawn, diligent, keen, and resolute\" — Ānanda's own stated purpose for requesting this brief teaching"),
+        ("alaṁ vacanāya", "\"fit to be regarded thus\" — this discourse's own phrasing for the examination's final question"),
+        ("khandhasaṁyuttaṁ samattaṁ", "\"the Linked Discourses on the aggregates are complete\" — the confirmed colophon closing SN22 at sn22.159:4.5"),
+        ("Ānanda", "the Buddha's own attendant and cousin, whose personal request closes this saṃyutta"),
+    ],
+    text_intro=("The complete discourse: Ānanda's request, the Buddha's answer "
+        "through the standard examination, and the confirmed colophon "
+        "closing SN22. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.159:1.1-1.3"),
+        ("p", "§2", "sn22.159:2.1-2.8"),
+        ("p", "§3", "sn22.159:2.9-2.20"),
+        ("p", "§4", "sn22.159:4.5"),
+    ],
+    quiz=[
+        {"q": "Who makes the request that opens this discourse?",
+         "opts": [
+             "Venerable Ānanda",
+             "Venerable Sāriputta",
+             "Venerable Mahākoṭṭhita",
+             "An unnamed mendicant"],
+         "correct": 0,
+         "expl": "The Buddha's own attendant, closing SN22 with a personal request."},
+        {"q": "What does Ānanda specifically ask for?",
+         "opts": [
+             "Brief teaching, so he can live alone, withdrawn, diligent, keen, and resolute",
+             "A lengthy, comprehensive exposition of the entire teaching",
+             "Permission to leave the monastic order",
+             "A specific ritual instruction"],
+         "correct": 0,
+         "expl": "A request for concise guidance to carry into solitary retreat."},
+        {"q": "How does this discourse's structure differ from SN 22.150-158?",
+         "opts": [
+             "A personal, individual request rather than an impersonal question to the assembled mendicants",
+             "It uses an entirely different examination method",
+             "It does not involve the five aggregates at all",
+             "It is addressed to a group rather than one person"],
+         "correct": 0,
+         "expl": "A marked contrast to the preceding nine discourses' abstract structure."},
+        {"q": "What examination does the Buddha use to answer Ānanda?",
+         "opts": [
+             "The standard permanent/impermanent, suffering/happiness, fit-to-regard-as-self three-question sequence",
+             "A completely new examination not used elsewhere",
+             "A narrative illustration",
+             "A set of closing verses"],
+         "correct": 0,
+         "expl": "The same examination used throughout this vagga, personally addressed."},
+        {"q": "What colophon confirms SN22's own completion at the end of this discourse?",
+         "opts": [
+             "\"The Linked Discourses on the aggregates are complete\"",
+             "No colophon appears in the source text",
+             "\"The Book of Causality is finished\"",
+             "A lengthy summary verse naming all fifteen vaggas"],
+         "correct": 0,
+         "expl": "Given in the source text itself, confirming both the saṃyutta's name and its full completion."},
+        {"q": "How many total discourses does SN22 (Khandhasaṃyutta) comprise, confirmed by this closing?",
+         "opts": ["159", "135", "100", "50"],
+         "correct": 0,
+         "expl": "Spanning three paṇṇāsakas and fifteen vaggas from SN 22.1 through this closing discourse."},
+        {"q": "What discourse opened SN22, corresponding to this discourse's close?",
+         "opts": [
+             "SN 22.1, Nakula's Father",
+             "SN 22.113, Ignorance",
+             "SN 22.93, A River",
+             "SN 22.150, In Oneself"],
+         "correct": 0,
+         "expl": "The pre-existing selection page that opened this entire saṃyutta."},
+        {"q": "What character does the book's close take, given that it ends with Ānanda's simple personal request rather than a grand synthesis?",
+         "opts": [
+             "Quiet and practical, showing the preceding technical analysis ultimately serves individual, lived application",
+             "Highly formal and ceremonial",
+             "Argumentative, ending in unresolved debate",
+             "Entirely unrelated to the rest of the book's content"],
+         "correct": 0,
+         "expl": "A reminder of the practical purpose behind the collection's extensive technical vocabulary."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching the setting of the vagga's other discourses."},
+        {"q": "What phrase does this discourse use for the examination's final question, distinct from SN 22.150-158's own phrasing?",
+         "opts": [
+             "\"Is it fit to be regarded thus\" (alaṁ vacanāya)",
+             "\"Would pleasure and pain arise\"",
+             "\"Would the view arise\"",
+             "\"Would fetters and shackles arise\""],
+         "correct": 0,
+         "expl": "A slightly different emphasis — asking directly whether self-identification is ever warranted."},
+    ],
+    marginalia=[
+        ("A personal request, closing an impersonal sequence", [
+            "Ānanda, not the assembled mendicants &mdash;",
+            "asking for himself, for his own solitary practice",
+        ]),
+        ("The same examination, addressed to one", [
+            "permanent or not, fit to regard as self or not &mdash;",
+            "the vagga's own tool, personally applied",
+        ]),
+        ("A confirmed colophon, closing 159 discourses", [
+            "\"the aggregates are complete\" &mdash;",
+            "from SN 22.1 to this final exchange with Ānanda",
+        ]),
+        ("A quiet, practical close", [
+            "not synthesis, but a request for guidance &mdash;",
+            "the whole book's analysis serving this one purpose",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.159/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.158.html">SN 22.158 &middot; Insistence '
+        "(2nd)</a> &mdash; the previous discourse, closing this "
+        "vagga's opening nine-discourse sequence.",
+        '<a href="sn-22.1.html">SN 22.1 &middot; Nakula&rsquo;s '
+        "Father</a> &mdash; SN22's own opening discourse, whose 159 "
+        "discourses this closing exchange with Ānanda brings to a "
+        "complete end.",
+    ],
+)
