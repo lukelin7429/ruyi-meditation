@@ -125,3 +125,18 @@ Confirmed from the source text: the Buddha's answer to Śāriputra's three reque
 | 正因 / 了因 / 緣因 [佛性] | the correct cause / the revealing cause / the conditioning cause [of buddha-nature] | |
 | 泥犁 | niraya | transliteration for hell/the hells |
 | 南無 | Namo | kept transliterated, as elsewhere on this site |
+
+## Fascicle 5 — Śāriputra's prediction, and the burning-house parable
+
+Confirmed from the source text: the close of 方便品 (the Buddha's three-week contemplation beneath the bodhi tree, the turning of the Dharma wheel for the five ascetics, the verse section's remaining doubts, praise, and prediction material); the opening of 譬喻品 through Śāriputra's three joys and his prediction of buddhahood as the future Buddha Padmaprabha; and the burning-house parable itself — the elder's vast, single-doored house, the sons absorbed in play, the promise of three carts (goat, deer, and ox), the children's rush from the burning house, the debate over whether the sons who receive the cart are bodhisattvas, and the equal bestowal of the one great white-ox cart, closed by the parable's point-by-point correlation with the Buddha's actual teaching.
+
+| Chinese | English | Notes |
+|---|---|---|
+| 譬喻品 | the "Parable" chapter | glossed on first use; contains the burning-house parable |
+| 譬 / 喻 | parable / illustration | Zhiyi's own etymological gloss for the chapter title |
+| 羊車 / 鹿車 / 牛車 | the goat-cart / the deer-cart / the ox-cart | the three provisional vehicles promised to lead the sons out |
+| 大白牛車 | the great white-ox cart | the one real vehicle, equally bestowed on all who leave the burning house |
+| 長者 | the elder | the father figure in the parable |
+| 火宅 | the burning house | |
+| 華光如來 | Padmaprabha | Śāriputra's predicted buddha-name |
+| 長行 / 偈頌 | the prose / the verses | recurring structural terms for how each sutra passage is laid out |
