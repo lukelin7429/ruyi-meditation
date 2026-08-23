@@ -140,3 +140,18 @@ Confirmed from the source text: the close of 方便品 (the Buddha's three-week 
 | 火宅 | the burning house | |
 | 華光如來 | Padmaprabha | Śāriputra's predicted buddha-name |
 | 長行 / 偈頌 | the prose / the verses | recurring structural terms for how each sutra passage is laid out |
+
+## Fascicle 6 — The verse close of the parable, and the destitute son
+
+Confirmed from the source text: the burning-house parable's entire 165-line verse recap (structural overview; the five dull and five sharp hindrances as birds, insects, spirits, and demons; the three realms' fires; the specific-parable verses; the matching-correlation verses; and the closing exhortation to faith); then the opening of 信解品 ("Faith and Understanding") — Zhiyi's survey and rejection of six prior schemes for the chapter's threefold "faith and understanding," his own reading via the four siddhāntas and the faith-follower/dharma-follower framework, and the parable of the destitute son told by Mahākāśyapa, Subhūti, Mahākātyāyana, and Mahāmaudgalyāyana: the son's terror and flight, the father's search, the years clearing dung, the gradual entrusting of the household (correlated to the five flavors and the thirty-seven factors), and the final bestowal of the estate.
+
+| Chinese | English | Notes |
+|---|---|---|
+| 信解品 | "Faith and Understanding" | |
+| 窮子 | the destitute son | |
+| 五鈍使 / 五利使 | the five dull hindrances / the five sharp hindrances | imaged in the verse section as birds/insects and spirits/demons |
+| 信行 / 法行 | the faith-follower / the dharma-follower | |
+| 見得 | the view-attainer | |
+| 慧命 | Wisdom-Life | epithet used for Subhūti |
+| 除糞 | clearing dung | the son's menial work at the father's estate |
+| 三十七道品 | the thirty-seven factors [of enlightenment] | correlated point-by-point to the dung-clearing scene |
