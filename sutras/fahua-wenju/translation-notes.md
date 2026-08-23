@@ -171,3 +171,20 @@ Confirmed from the source text: the close of 信解品; the medicinal-herbs para
 | 五百由旬 | five hundred yojanas | the length of the perilous road in the parable |
 | 五百弟子受記品 | "Prediction for Five Hundred Disciples" | |
 | 富樓那 | Pūrṇa | |
+
+## Fascicle 8 — Teacher of the Dharma through the opening of Peaceful Practices
+
+Confirmed from the source text: the close of 五百弟子受記品 and all of 授學無學人記品 (Ānanda and Rāhula's prediction); 法師品 ("Teacher of the Dharma") in full, including the fivefold/sixfold teacher typology and the "digging for water" parable; 見寶塔品 (the Jeweled Stūpa of Prabhūtaratna Buddha rising from the earth, and the gathering of the emanation-buddhas); 提婆達多品 ("Devadatta," including the dragon princess's instant attainment of buddhahood); 勸持品 ("Encouraging the Upholding of This Sūtra," including the fourfold armor of forbearance); and the opening of 安樂行品 ("Peaceful Practices") through its threefold practice-ground/approach-ground analysis.
+
+| Chinese | English | Notes |
+|---|---|---|
+| 法師品 | "Teacher of the Dharma" | |
+| 見寶塔品 | the "Jeweled Stūpa" [chapter] | |
+| 多寶佛 / 多寶如來 | Prabhūtaratna [Buddha] | the ancient buddha whose stūpa emerges from the earth |
+| 分身佛 | the emanation-buddhas | gathered from the ten directions to witness the stūpa |
+| 提婆達多品 | "Devadatta" | |
+| 龍女 | the dragon princess | daughter of the nāga king Sāgara; attains buddhahood instantly |
+| 娑竭羅龍王 | Sāgara, the dragon king | |
+| 勸持品 | "Encouraging the Upholding of This Sūtra" | |
+| 安樂行品 | "Peaceful Practices" | |
+| 行處 / 親近處 | the practice-ground / the approach-ground | the two grounds analyzed at the chapter's opening |
