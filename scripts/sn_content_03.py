@@ -24789,3 +24789,2355 @@ page(22, 112, "Dutiyachandappahāna", "Giving Up Desire (2nd)",
         "direct practice.",
     ],
 )
+
+page(22, 113, "Avijjā", "Ignorance",
+    vagga="Dhammakathikavagga",
+    meta_title="SN 22.113 · Ignorance — Not Understanding the Four Points",
+    meta_desc="A mendicant asks what ignorance actually is; the Buddha "
+        "defines it as not understanding each aggregate, its origin, its "
+        "cessation, and the practice leading to its cessation. Saṃyutta "
+        "Nikāya 22.113, opening Dhammakathikavagga, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "An unnamed mendicant questioning the Buddha; the Buddha's answer"),
+        ("Form", "A direct question and a precise technical definition"),
+        ("Length", "Short — a single clean definition"),
+        ("Northern parallel", "The four-point origin/cessation/practice template recurs throughout this book, most fully in SN 22.103-105"),
+        ("Difficulty", "Approachable — the definition is precise and self-contained"),
+    ],
+    why=("Opens Dhammakathikavagga (\"A Dhamma Speaker\") with a basic "
+        "question rarely asked so directly elsewhere: not what should be "
+        "understood, but what not understanding it actually consists of "
+        "— defining ignorance itself with the same precision usually "
+        "reserved for its opposite."),
+    guide=[
+        ("A direct question about a familiar word", [
+            "A mendicant asks the Buddha directly: \"they speak of this "
+            "thing called 'ignorance'. What is ignorance? And how is an "
+            "ignoramus defined?\" — treating a term used constantly "
+            "throughout the teaching as something whose precise meaning "
+            "still needs pinning down.",
+        ]),
+        ("Ignorance defined as a specific failure to understand", [
+            "\"It's when an unlearned ordinary person doesn't understand "
+            "form, its origin, its cessation, and the practice that "
+            "leads to its cessation\" — repeated for each of the five "
+            "aggregates in turn.",
+            "This gives ignorance (avijjā) an unexpectedly precise, "
+            "fourfold structure: it is not a vague lack of information, "
+            "but the specific absence of the same four-part understanding "
+            "— the thing itself, its origin, its cessation, and the path "
+            "— that SN 22.103-105 applied to sakkāya and dukkha earlier "
+            "in this book.",
+        ]),
+        ("Why this definition matters", [
+            "Framing ignorance this precisely makes it directly "
+            "addressable: since it consists in a specific missing "
+            "four-part understanding, filling in that understanding is, "
+            "by definition, the remedy — not a vague call to \"become "
+            "wiser\" but a concrete list of exactly what remains "
+            "unknown.",
+        ]),
+        ("Setting up its own companion discourse", [
+            "This discourse's structure — question, then fourfold "
+            "definition applied to each aggregate — is mirrored exactly "
+            "by SN 22.114, which asks the identical question about "
+            "\"knowledge\" instead, with \"understand\" replacing \"doesn't "
+            "understand\" as the only change.",
+        ]),
+    ],
+    terms=[
+        ("avijjā", "ignorance — the term this discourse defines, opening Dhammakathikavagga"),
+        ("aviddasu", "an ignoramus, one characterized by ignorance — the person this discourse also defines"),
+        ("samudaya", "origin — the second of the four points an ignorant person fails to understand"),
+        ("nirodha", "cessation — the third point"),
+        ("nirodhagāminī paṭipadā", "the practice leading to cessation — the fourth point, completing the fourfold structure"),
+    ],
+    text_intro=("The complete discourse: the question about ignorance, and the "
+        "Buddha's fourfold definition applied to each aggregate. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.113:1.1-1.6"),
+        ("p", "§2", "sn22.113:1.7-1.13"),
+    ],
+    quiz=[
+        {"q": "What question does the mendicant ask the Buddha?",
+         "opts": [
+             "What is ignorance, and how is an ignoramus defined?",
+             "What is the path to awakening?",
+             "How many aggregates are there?",
+             "What is the Buddha's own name?"],
+         "correct": 0,
+         "expl": "A basic term used constantly, here given a precise definition."},
+        {"q": "How does the Buddha define ignorance?",
+         "opts": [
+             "Not understanding each aggregate, its origin, its cessation, and the practice leading to its cessation",
+             "A total absence of any knowledge whatsoever",
+             "A specific meditative state",
+             "The inability to speak Pali"],
+         "correct": 0,
+         "expl": "A precise fourfold structure, not a vague lack of information."},
+        {"q": "Which four points make up this discourse's definition of ignorance?",
+         "opts": [
+             "The aggregate itself, its origin, its cessation, and the path to its cessation",
+             "Past, present, future, and beyond time",
+             "Ethics, immersion, wisdom, and liberation",
+             "Form, feeling, perception, and choices only"],
+         "correct": 0,
+         "expl": "The same four-part template applied to sakkāya and dukkha earlier in SN 22.103-105."},
+        {"q": "How many aggregates does this fourfold failure to understand apply to?",
+         "opts": [
+             "All five",
+             "Only form",
+             "Only consciousness",
+             "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Repeated identically for form, feeling, perception, choices, and consciousness."},
+        {"q": "Why does defining ignorance this precisely matter?",
+         "opts": [
+             "It makes ignorance directly addressable, since the missing understanding is specified exactly",
+             "It makes ignorance impossible to ever overcome",
+             "It has no practical significance",
+             "It contradicts the teaching found elsewhere in this book"],
+         "correct": 0,
+         "expl": "A concrete list of what is missing, rather than a vague call to become wiser."},
+        {"q": "What discourse mirrors this one's structure exactly?",
+         "opts": [
+             "SN 22.114, asking the identical question about knowledge",
+             "SN 22.120, on the fetter",
+             "SN 22.103, on the four ends",
+             "SN 22.122, the Sāriputta-Koṭṭhita dialogue"],
+         "correct": 0,
+         "expl": "\"Understand\" replaces \"doesn't understand\" as the only structural change."},
+        {"q": "Who asks the Buddha this question?",
+         "opts": ["An unnamed mendicant", "Venerable Sāriputta", "Venerable Ānanda", "Venerable Kappa"],
+         "correct": 0,
+         "expl": "Not identified by name in this discourse."},
+        {"q": "What vagga does this discourse open?",
+         "opts": ["Dhammakathikavagga", "Antavagga", "Avijjāvagga", "Pupphavagga"],
+         "correct": 0,
+         "expl": "SN 22.113 opens Book III's twelfth vagga, named for the \"Dhamma speaker\" discourses within it."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Continuing the setting of most of this book's discourses."},
+        {"q": "What is an \"ignoramus\" (aviddasu), according to this discourse?",
+         "opts": [
+             "An unlearned ordinary person who lacks this specific fourfold understanding",
+             "A person who has never heard the Buddha's teaching",
+             "Anyone who has not yet become a mendicant",
+             "A person incapable of ever gaining understanding"],
+         "correct": 0,
+         "expl": "Defined precisely by the same fourfold failure named for ignorance itself."},
+    ],
+    marginalia=[
+        ("A familiar word, precisely pinned down", [
+            "not vague unknowing, but a specific absence &mdash;",
+            "four points, missing for each aggregate",
+        ]),
+        ("The same template as sakkāya and dukkha", [
+            "thing, origin, cessation, path &mdash;",
+            "now applied to ignorance itself",
+        ]),
+        ("A remedy implied by the definition", [
+            "what is missing is named exactly &mdash;",
+            "filling it in is, by definition, the cure",
+        ]),
+        ("Opening a vagga named for its speakers", [
+            "Dhammakathikavagga begins here &mdash;",
+            "its own companion, knowledge, follows next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.113/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.112.html">SN 22.112 &middot; Giving Up Desire '
+        "(2nd)</a> &mdash; the previous discourse, closing Antavagga.",
+        '<a href="sn-22.114.html">SN 22.114 &middot; Knowledge</a> '
+        "&mdash; the next discourse, this discourse's own direct "
+        "structural twin.",
+    ],
+)
+
+page(22, 114, "Vijjā", "Knowledge",
+    vagga="Dhammakathikavagga",
+    meta_title="SN 22.114 · Knowledge — Understanding the Four Points",
+    meta_desc="The direct counterpart to SN 22.113: knowledge defined as "
+        "understanding each aggregate, its origin, its cessation, and the "
+        "practice leading to its cessation. Saṃyutta Nikāya 22.114, with "
+        "Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The same mendicant from SN 22.113, questioning the Buddha; the Buddha's answer"),
+        ("Form", "The identical question-and-definition structure as SN 22.113, with one word inverted"),
+        ("Length", "Short — a near-exact mirror of the previous discourse"),
+        ("Northern parallel", "Shares its structure with the four-point template used throughout this book"),
+        ("Difficulty", "Approachable — best read directly alongside SN 22.113"),
+    ],
+    why=("The direct positive counterpart to SN 22.113: the same mendicant "
+        "asks the same question about \"knowledge\" instead of "
+        "\"ignorance,\" and receives the identical fourfold definition "
+        "with only \"doesn't understand\" changed to \"understands\" — "
+        "making the two discourses' relationship as precise as a "
+        "mathematical negation."),
+    guide=[
+        ("The same question, a different word", [
+            "\"They speak of this thing called 'knowledge'. What is "
+            "knowledge? And how is a knowing one defined?\" — the "
+            "identical question structure as SN 22.113, with vijjā "
+            "(\"knowledge\") replacing avijjā (\"ignorance\").",
+            "The source text marks this as \"that mendicant\" — the same "
+            "questioner from the previous discourse, now \"seated to one "
+            "side\" rather than freshly approaching, suggesting the two "
+            "discourses record a single continuous exchange.",
+        ]),
+        ("Knowledge as precisely inverted ignorance", [
+            "\"It's when a learned noble disciple understands form, its "
+            "origin, its cessation, and the practice that leads to its "
+            "cessation\" — every clause matches SN 22.113's own "
+            "definition of ignorance, with \"doesn't understand\" become "
+            "\"understands,\" and \"unlearned ordinary person\" become "
+            "\"learned noble disciple.\"",
+            "This precision matters: knowledge is not defined as "
+            "something categorically different from ignorance, requiring "
+            "its own separate account, but as the exact filling-in of "
+            "the identical fourfold gap ignorance leaves open.",
+        ]),
+        ("Why pair these two discourses so exactly", [
+            "Reading SN 22.113 and SN 22.114 together demonstrates a "
+            "method the collection uses elsewhere (as with SN 22.103-105 "
+            "on sakkāya and dukkha): stating a concept and its precise "
+            "negation as near-identical twins, so the relationship "
+            "between them is established by the shared structure itself, "
+            "not merely asserted in prose.",
+        ]),
+        ("Moving toward the vagga's namesake pair", [
+            "Having defined ignorance and knowledge as a matched pair, "
+            "Dhammakathikavagga turns next to SN 22.115 and SN 22.116, "
+            "which define the \"Dhamma speaker\" — someone whose teaching "
+            "flows directly from having this same knowledge.",
+        ]),
+    ],
+    terms=[
+        ("vijjā", "knowledge — the term this discourse defines, the precise counterpart to SN 22.113's avijjā"),
+        ("viddasu", "a knowing one — the person this discourse defines, counterpart to aviddasu"),
+        ("sutavā ariyasāvako", "a learned noble disciple — replacing SN 22.113's \"unlearned ordinary person\" as the subject who understands"),
+        ("pajānāti", "understands — the single verb inverted from SN 22.113's \"doesn't understand\" (na pajānāti)"),
+        ("catubbidha", "fourfold (not itself named in this discourse, but the structural pattern both discourses share)"),
+    ],
+    text_intro=("The complete discourse, mirroring SN 22.113's structure exactly "
+        "with \"understands\" replacing \"doesn't understand.\" "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.114:1.1-1.5"),
+        ("p", "§2", "sn22.114:1.6-1.12"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 22.113?",
+         "opts": [
+             "An exact structural mirror, with \"knowledge\" replacing \"ignorance\" and \"understands\" replacing \"doesn't understand\"",
+             "An entirely unrelated teaching on a different topic",
+             "A direct contradiction of SN 22.113's definition",
+             "A much longer, more elaborate discourse"],
+         "correct": 0,
+         "expl": "The relationship is established through matched structure rather than assertion."},
+        {"q": "How does this discourse define knowledge?",
+         "opts": [
+             "A learned noble disciple understanding each aggregate, its origin, its cessation, and the practice leading to its cessation",
+             "The ability to recite the entire scripture from memory",
+             "A specific meditative absorption",
+             "Skill in debate with other teachers"],
+         "correct": 0,
+         "expl": "The identical fourfold structure as SN 22.113's definition of ignorance, inverted."},
+        {"q": "Who is described as asking this discourse's question?",
+         "opts": [
+             "The same mendicant from SN 22.113, seated to one side",
+             "A different, newly introduced mendicant",
+             "Venerable Sāriputta",
+             "A group of several mendicants together"],
+         "correct": 0,
+         "expl": "Suggesting the two discourses record a single continuous exchange."},
+        {"q": "What subject replaces \"unlearned ordinary person\" in this discourse's definition?",
+         "opts": [
+             "A learned noble disciple",
+             "A wheel-turning monarch",
+             "An ascetic or brahmin",
+             "The Buddha himself exclusively"],
+         "correct": 0,
+         "expl": "The precise counterpart subject for someone who understands rather than fails to understand."},
+        {"q": "What does the exact structural pairing of SN 22.113 and SN 22.114 demonstrate?",
+         "opts": [
+             "A method of stating a concept and its precise negation as near-identical twins",
+             "That the two discourses are actually about entirely different topics",
+             "A scribal error duplicating one discourse",
+             "That knowledge and ignorance are unrelated concepts"],
+         "correct": 0,
+         "expl": "A method also seen in SN 22.103-105's treatment of sakkāya and dukkha."},
+        {"q": "What comes next in Dhammakathikavagga after this pair of discourses?",
+         "opts": [
+             "SN 22.115 and SN 22.116, defining the \"Dhamma speaker\"",
+             "The vagga's final discourse",
+             "A return to SN 22.103",
+             "SN 22.122, the Sāriputta-Koṭṭhita dialogue"],
+         "correct": 0,
+         "expl": "Moving to the vagga's own namesake pair of discourses."},
+        {"q": "What four points does the knowing one understand for each aggregate?",
+         "opts": [
+             "The aggregate itself, its origin, its cessation, and the practice leading to its cessation",
+             "Its color, shape, weight, and texture",
+             "Its past, present, future, and eternal nature",
+             "Its cause, effect, purpose, and result"],
+         "correct": 0,
+         "expl": "Identical to the four points named in SN 22.113."},
+        {"q": "How many aggregates does this fourfold understanding apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, as throughout the book."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.113's own setting."},
+        {"q": "What does this discourse imply about the relationship between knowledge and ignorance?",
+         "opts": [
+             "Knowledge is the exact filling-in of the identical fourfold gap that ignorance leaves open",
+             "Knowledge and ignorance are entirely unrelated states",
+             "Knowledge is a much broader category than ignorance",
+             "Ignorance cannot be overcome by gaining knowledge"],
+         "correct": 0,
+         "expl": "Not a categorically different account, but the precise structural inversion."},
+    ],
+    marginalia=[
+        ("A precise inversion, not a new account", [
+            "\"understands\" replacing \"doesn't understand\" &mdash;",
+            "the same four points, now filled in",
+        ]),
+        ("One continuous exchange, two discourses", [
+            "the same mendicant, seated to one side &mdash;",
+            "ignorance asked first, knowledge asked next",
+        ]),
+        ("Structure as the argument itself", [
+            "matched clauses across two discourses &mdash;",
+            "the relationship shown, not merely stated",
+        ]),
+        ("Toward the vagga's own namesake pair", [
+            "knowledge established, teaching to follow &mdash;",
+            "SN 22.115-116 on the Dhamma speaker next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.114/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.113.html">SN 22.113 &middot; Ignorance</a> '
+        "&mdash; the previous discourse, this discourse's own precise "
+        "structural counterpart.",
+        '<a href="sn-22.115.html">SN 22.115 &middot; A Dhamma '
+        "Speaker</a> &mdash; the next discourse, this vagga's own "
+        "namesake, on what follows from having this knowledge.",
+    ],
+)
+
+page(22, 115, "Dhammakathika", "A Dhamma Speaker",
+    vagga="Dhammakathikavagga",
+    meta_title="SN 22.115 · A Dhamma Speaker — Three Titles, One Practice",
+    meta_desc="What qualifies someone to be called a Dhamma speaker, a "
+        "practitioner in line with the teaching, or one who has attained "
+        "extinguishment — this vagga's own namesake discourse. Saṃyutta "
+        "Nikāya 22.115, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The same mendicant from SN 22.113-114, questioning the Buddha; the Buddha's answer"),
+        ("Form", "A single question answered with three graduated qualifications"),
+        ("Length", "Medium — three distinct titles defined for each aggregate"),
+        ("Northern parallel", "The threefold dhammakathika/dhammānudhammappaṭipanna/diṭṭhadhammanibbānappatta distinction recurs elsewhere in similar contexts"),
+        ("Difficulty", "Moderate — tracking three titles across five aggregates rewards careful reading"),
+    ],
+    why=("The vagga's own namesake discourse: a mendicant asks what "
+        "qualifies someone to be called \"a Dhamma speaker,\" and the "
+        "Buddha answers not with one criterion but three, graduated from "
+        "teaching, through practicing, to actually attaining what is "
+        "taught — showing that the title covers a spectrum, not a single "
+        "fixed accomplishment."),
+    guide=[
+        ("One question, a threefold answer", [
+            "\"They speak of a 'Dhamma speaker'. How is a Dhamma speaker "
+            "defined?\" — a simple question about a common title, "
+            "answered with three distinct but related qualifications "
+            "rather than a single definition.",
+        ]),
+        ("Teaching, practicing, attaining", [
+            "\"If a mendicant teaches Dhamma for disillusionment, "
+            "dispassion, and cessation regarding form, they're qualified "
+            "to be called 'a mendicant who speaks on Dhamma'\" — the "
+            "first and most accessible qualification, requiring only "
+            "that the teaching itself point toward disillusionment.",
+            "\"If they practice for disillusionment, dispassion, and "
+            "cessation regarding form, they're qualified to be called 'a "
+            "mendicant who practices in line with the teaching'\" — a "
+            "second, higher qualification: not merely teaching the "
+            "direction but walking it.",
+            "\"If they're freed by not grasping by disillusionment, "
+            "dispassion, and cessation regarding form, they're qualified "
+            "to be called 'a mendicant who has attained extinguishment "
+            "in this very life'\" — the third and highest qualification: "
+            "having actually arrived where the teaching and practice "
+            "were pointing.",
+        ]),
+        ("Why three titles rather than one", [
+            "This threefold structure quietly corrects an assumption a "
+            "title like \"Dhamma speaker\" might invite — that skillful "
+            "teaching alone certifies attainment. The discourse insists "
+            "on distinguishing speaking about the path, walking it, and "
+            "arriving, as three genuinely different and separately "
+            "namable accomplishments.",
+            "Nothing in the discourse suggests these three are mutually "
+            "exclusive — a single person could, in principle, qualify for "
+            "all three at once — but each is defined independently, so "
+            "that a title earned by teaching alone is not mistaken for "
+            "one earned by attainment.",
+        ]),
+        ("Applied across all five aggregates", [
+            "The same threefold structure is given in full for form, then "
+            "repeated with the middle three aggregates elided before "
+            "being spelled out again in full for consciousness — the "
+            "same compression pattern used throughout this book for "
+            "material that would otherwise repeat five times over.",
+        ]),
+    ],
+    terms=[
+        ("dhammakathika", "a Dhamma speaker — the title this discourse's own name commemorates"),
+        ("dhammānudhammappaṭipanna", "one who practices in line with the teaching — the second, higher qualification"),
+        ("diṭṭheva dhamme nibbānappatta", "one who has attained extinguishment in this very life — the third and highest qualification"),
+        ("nibbidā virāga nirodha", "disillusionment, dispassion, and cessation — the shared direction all three qualifications point toward"),
+        ("anupādā vimutta", "freed by not grasping — the specific accomplishment marking the third, highest qualification"),
+    ],
+    text_intro=("The complete discourse: the question, and the threefold "
+        "qualification given in full for form and consciousness. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.115:1.1-1.4"),
+        ("p", "§2", "sn22.115:1.5-1.7"),
+        ("p", "§3", "sn22.115:1.8-1.13"),
+    ],
+    quiz=[
+        {"q": "What question does the mendicant ask in this discourse?",
+         "opts": [
+             "How is a Dhamma speaker defined?",
+             "What is the origin of suffering?",
+             "How many aggregates are there?",
+             "What is the Buddha's own teaching method?"],
+         "correct": 0,
+         "expl": "This vagga's own namesake question."},
+        {"q": "How many distinct qualifications does the Buddha give in answer?",
+         "opts": ["Three", "One", "Five", "Ten"],
+         "correct": 0,
+         "expl": "Teaching, practicing, and attaining — three graduated titles rather than a single definition."},
+        {"q": "What qualifies someone to be called \"a mendicant who speaks on Dhamma\"?",
+         "opts": [
+             "Teaching Dhamma for disillusionment, dispassion, and cessation regarding an aggregate",
+             "Having memorized the entire scripture",
+             "Being ordained for at least twenty years",
+             "Having attained full awakening"],
+         "correct": 0,
+         "expl": "The first and most accessible of the three qualifications."},
+        {"q": "What qualifies someone to be called \"a mendicant who practices in line with the teaching\"?",
+         "opts": [
+             "Practicing for disillusionment, dispassion, and cessation regarding an aggregate",
+             "Teaching others skillfully",
+             "Living in seclusion",
+             "Reciting the precepts daily"],
+         "correct": 0,
+         "expl": "A second, higher qualification: walking the direction, not merely teaching it."},
+        {"q": "What qualifies someone to be called \"a mendicant who has attained extinguishment in this very life\"?",
+         "opts": [
+             "Being freed by not grasping through disillusionment, dispassion, and cessation regarding an aggregate",
+             "Simply intending to attain it eventually",
+             "Being recognized by other mendicants as advanced",
+             "Having taught for many years"],
+         "correct": 0,
+         "expl": "The third and highest qualification: having actually arrived."},
+        {"q": "What assumption does this threefold structure quietly correct?",
+         "opts": [
+             "That skillful teaching alone certifies full attainment",
+             "That practice is unnecessary for awakening",
+             "That only the Buddha can be called a Dhamma speaker",
+             "That attainment happens instantly with no practice required"],
+         "correct": 0,
+         "expl": "Distinguishing speaking, walking, and arriving as three separately namable accomplishments."},
+        {"q": "Are the three qualifications presented as mutually exclusive?",
+         "opts": [
+             "No — a single person could in principle qualify for all three at once",
+             "Yes — only one title can ever apply to any person",
+             "The discourse does not address this question at all",
+             "Only the third qualification is ever actually possible"],
+         "correct": 0,
+         "expl": "Each is defined independently, though nothing rules out all three applying to the same person."},
+        {"q": "How many aggregates does this threefold structure apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only feeling and perception"],
+         "correct": 0,
+         "expl": "Given in full for form and consciousness, with the middle three elided following this book's usual compression pattern."},
+        {"q": "Who asks this discourse's question?",
+         "opts": [
+             "The same mendicant from SN 22.113-114",
+             "Venerable Sāriputta",
+             "Venerable Kappa",
+             "A group of several mendicants"],
+         "correct": 0,
+         "expl": "Continuing the same exchange begun in the previous two discourses."},
+        {"q": "What comes next in Dhammakathikavagga after this discourse?",
+         "opts": [
+             "SN 22.116, expanding the same threefold definition with two additional explicit questions",
+             "SN 22.120, on the fetter",
+             "The vagga's final discourse",
+             "A return to SN 22.103"],
+         "correct": 0,
+         "expl": "This discourse's own direct companion."},
+    ],
+    marginalia=[
+        ("One title, three separate accomplishments", [
+            "speaking, practicing, attaining &mdash;",
+            "each independently defined and named",
+        ]),
+        ("Not merely pointing the way", [
+            "walking it, then arriving &mdash;",
+            "a title earned by teaching not mistaken for one earned by attainment",
+        ]),
+        ("The same threefold structure, five times over", [
+            "form given in full, the middle three elided &mdash;",
+            "consciousness spelled out again in full",
+        ]),
+        ("This vagga's own name, explained", [
+            "Dhammakathikavagga takes its title from here &mdash;",
+            "though the title itself is only the first of three",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.115/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.114.html">SN 22.114 &middot; Knowledge</a> '
+        "&mdash; the previous discourse, on the understanding that this "
+        "discourse's teaching, practice, and attainment all flow from.",
+        '<a href="sn-22.116.html">SN 22.116 &middot; A Dhamma Speaker '
+        "(2nd)</a> &mdash; the next discourse, this discourse's own "
+        "direct companion.",
+    ],
+)
+
+page(22, 116, "Dutiyadhammakathika", "A Dhamma Speaker (2nd)",
+    vagga="Dhammakathikavagga",
+    meta_title="SN 22.116 · A Dhamma Speaker (2nd) — All Three Questions at Once",
+    meta_desc="The companion to SN 22.115, now asking about all three "
+        "titles explicitly in a single question before giving the "
+        "identical threefold answer. Saṃyutta Nikāya 22.116, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The same mendicant, questioning the Buddha; the Buddha's answer"),
+        ("Form", "The identical answer as SN 22.115, now preceded by a fuller, explicit three-part question"),
+        ("Length", "Medium — the same content as SN 22.115, with an expanded opening question"),
+        ("Northern parallel", "Shares its structure and content with SN 22.115"),
+        ("Difficulty", "Approachable — best read directly after SN 22.115"),
+    ],
+    why=("Where SN 22.115 asked only about the \"Dhamma speaker\" and "
+        "received all three qualifications as an unprompted bonus, this "
+        "discourse asks about all three titles explicitly in a single "
+        "compound question — confirming that the three-way distinction "
+        "was never incidental, but exactly what the questioner (and the "
+        "collection) intended to establish."),
+    guide=[
+        ("A question that names what SN 22.115 left implicit", [
+            "\"How is a Dhamma speaker defined? How is a mendicant who "
+            "practices in line with the teaching defined? And how is a "
+            "mendicant who has attained extinguishment in this very life "
+            "defined?\" — all three titles SN 22.115's answer had "
+            "introduced are now asked about explicitly, by name, in the "
+            "question itself.",
+            "This retrospectively confirms that SN 22.115's threefold "
+            "answer was not an improvised elaboration but a settled, "
+            "named distinction the questioner already knew to ask about "
+            "directly.",
+        ]),
+        ("The identical answer, word for word", [
+            "The Buddha's response matches SN 22.115's own answer "
+            "exactly, clause for clause: teaching for disillusionment "
+            "qualifies the title \"Dhamma speaker,\" practicing for it "
+            "qualifies \"practices in line with the teaching,\" and being "
+            "freed by not grasping qualifies \"attained extinguishment in "
+            "this very life\" — repeated across all five aggregates in "
+            "the same compressed pattern.",
+        ]),
+        ("Why repeat the identical answer to a differently phrased question", [
+            "The pairing demonstrates that the same content can be "
+            "reached by two different routes — one question implicitly "
+            "inviting a threefold answer, one explicitly requesting all "
+            "three parts — and the answer does not change depending on "
+            "how directly it was solicited.",
+            "This is a variation on the pairing method already seen "
+            "several times in this book (SN 22.107-108, SN 22.118-119): "
+            "two discourses sharing near-identical content, distinguished "
+            "chiefly by how the shared material is approached.",
+        ]),
+        ("Closing the vagga's namesake pair", [
+            "With SN 22.115 and SN 22.116 both complete, Dhammakathikavagga "
+            "moves to its next material: SN 22.117's image of shackled "
+            "and unshackled understanding, using the near/far shore "
+            "metaphor for the first time in this run of discourses.",
+        ]),
+    ],
+    terms=[
+        ("dhammakathika", "a Dhamma speaker — the first of the three titles, now asked about by name"),
+        ("dhammānudhammappaṭipanna", "one who practices in line with the teaching — the second title, now explicitly named in the question"),
+        ("diṭṭheva dhamme nibbānappatta", "one who has attained extinguishment in this very life — the third title, likewise named explicitly"),
+        ("nibbidā virāga nirodha", "disillusionment, dispassion, and cessation — the shared criterion underlying all three titles"),
+        ("anupādā vimutta", "freed by not grasping — marking the third and highest qualification, as in SN 22.115"),
+    ],
+    text_intro=("The complete discourse: the fuller three-part question, and the "
+        "identical threefold answer given for form and consciousness. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.116:1.1-1.5"),
+        ("p", "§2", "sn22.116:1.6-1.8"),
+        ("p", "§3", "sn22.116:1.9-1.14"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's question differ from SN 22.115's?",
+         "opts": [
+             "It names all three titles explicitly, rather than asking only about the Dhamma speaker",
+             "It asks about an entirely different topic",
+             "It is much shorter than SN 22.115's question",
+             "It is asked by a different, newly introduced mendicant"],
+         "correct": 0,
+         "expl": "SN 22.115's threefold answer becomes SN 22.116's explicit three-part question."},
+        {"q": "How does the Buddha's answer in this discourse compare to SN 22.115's?",
+         "opts": [
+             "Identical, clause for clause",
+             "Significantly shorter, omitting one of the three titles",
+             "Entirely different in content",
+             "Longer, with several new qualifications added"],
+         "correct": 0,
+         "expl": "The same content, reached via a differently phrased question."},
+        {"q": "What does this pairing demonstrate about the two discourses?",
+         "opts": [
+             "The same content can be reached by two different routes, whether implicitly invited or explicitly requested",
+             "SN 22.115's answer was mistaken and needed correction here",
+             "The two discourses are unrelated to each other",
+             "Only this discourse's version of the answer is authoritative"],
+         "correct": 0,
+         "expl": "The answer does not change depending on how directly it was solicited."},
+        {"q": "What pattern elsewhere in this book does this pairing resemble?",
+         "opts": [
+             "The near-identical paired discourses seen in SN 22.107-108 and SN 22.118-119",
+             "The single-image similes of SN 22.93-102",
+             "The narrative dialogues of SN 22.83-92",
+             "The four-truths trio of SN 22.103-105"],
+         "correct": 0,
+         "expl": "Two discourses sharing near-identical content, distinguished by how the material is approached."},
+        {"q": "What qualifies someone as having \"attained extinguishment in this very life\"?",
+         "opts": [
+             "Being freed by not grasping through disillusionment, dispassion, and cessation",
+             "Simply reciting the correct doctrine",
+             "Living for many decades as a mendicant",
+             "Being formally recognized by a senior teacher"],
+         "correct": 0,
+         "expl": "The third and highest of the three qualifications, identical in both discourses."},
+        {"q": "How many aggregates does this threefold answer cover?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Given in full for form and consciousness, compressed for the middle three."},
+        {"q": "What comes next in Dhammakathikavagga after this pair of discourses?",
+         "opts": [
+             "SN 22.117, using the near/far shore metaphor for shackled and unshackled understanding",
+             "SN 22.122, the Sāriputta-Koṭṭhita dialogue",
+             "The vagga's final discourse",
+             "A return to SN 22.103"],
+         "correct": 0,
+         "expl": "Moving to new material after closing the Dhamma speaker pair."},
+        {"q": "What does this discourse retrospectively confirm about SN 22.115?",
+         "opts": [
+             "That its threefold answer was a settled, named distinction rather than an improvised elaboration",
+             "That its answer was incomplete and needed this discourse to finish it",
+             "That its question was phrased incorrectly",
+             "That it addressed a completely different topic than this discourse"],
+         "correct": 0,
+         "expl": "The questioner already knew to ask about all three titles directly, by name."},
+        {"q": "Who asks this discourse's question?",
+         "opts": [
+             "The same mendicant from the surrounding discourses",
+             "Venerable Sāriputta",
+             "Venerable Kappa",
+             "A newly introduced mendicant"],
+         "correct": 0,
+         "expl": "Continuing the same exchange from SN 22.113-115."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching the setting of the discourses around it."},
+    ],
+    marginalia=[
+        ("A question that names its own answer", [
+            "all three titles asked about explicitly &mdash;",
+            "no longer left implicit as in SN 22.115",
+        ]),
+        ("The identical answer, reached differently", [
+            "clause for clause the same &mdash;",
+            "content unchanged by how directly it was asked",
+        ]),
+        ("A pairing method seen before", [
+            "near-identical discourses, different approach &mdash;",
+            "SN 22.107-108, SN 22.118-119, now again here",
+        ]),
+        ("Closing the namesake pair", [
+            "Dhammakathikavagga's own title, twice confirmed &mdash;",
+            "new material to follow with SN 22.117",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.116/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.115.html">SN 22.115 &middot; A Dhamma '
+        "Speaker</a> &mdash; the previous discourse, this discourse's "
+        "own direct companion.",
+        '<a href="sn-22.117.html">SN 22.117 &middot; Shackles</a> '
+        "&mdash; the next discourse, turning to the near/far shore "
+        "metaphor for bound and unbound understanding.",
+    ],
+)
+
+page(22, 117, "Bandhana", "Shackles",
+    vagga="Dhammakathikavagga",
+    meta_title="SN 22.117 · Shackles — Neither the Near Shore Nor the Far",
+    meta_desc="Bound to the aggregates inside and out, born and dying in "
+        "bonds, seeing neither shore — contrasted with the noble "
+        "disciple who sees both shores and is free from suffering. "
+        "Saṃyutta Nikāya 22.117, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A contrastive pair, structured on the near/far shore metaphor"),
+        ("Length", "Medium — two parallel sections of roughly equal length"),
+        ("Northern parallel", "The near/far shore metaphor for saṃsāra and nibbāna is widely attested across the Canon, most famously in the Dhammapada's own \"far shore\" imagery"),
+        ("Difficulty", "Moderate — the shore metaphor rewards unpacking alongside the discourse's own bondage imagery"),
+    ],
+    why=("Introduces a striking new image into this run of discourses: "
+        "being \"bound... inside and out\" to each aggregate means seeing "
+        "\"neither the near shore nor the far shore\" — born, living, and "
+        "dying entirely within bonds — against the noble disciple who, "
+        "unbound, sees both shores and is free."),
+    guide=[
+        ("Bound inside and out", [
+            "An unlearned ordinary person regards each aggregate through "
+            "the familiar fourfold formula (as self, self as having it, "
+            "it in self, self in it) and is thereby \"bound to form, "
+            "inside and out\" — the phrase suggesting bondage on both "
+            "sides of any boundary the aggregate might seem to mark, "
+            "internal and external alike.",
+        ]),
+        ("Neither shore in sight", [
+            "\"They see neither the near shore nor the far shore\" — a "
+            "striking image implying that bondage does not merely block "
+            "passage to the far shore (liberation) but obscures even the "
+            "near shore (the starting point, ordinary bound existence "
+            "itself) from clear view.",
+            "\"They're born in bonds and die in bonds, and in bonds they "
+            "go from this world to the next\" — bondage as a condition "
+            "spanning an entire life and extending across rebirth, not a "
+            "temporary or occasional state.",
+        ]),
+        ("Both shores, seen clearly", [
+            "The learned noble disciple, by contrast, \"is not bound to "
+            "form, inside or out\" and \"sees the near shore and the far "
+            "shore\" — the identical image inverted, with clear sight of "
+            "both banks replacing blindness to either.",
+            "\"They're free from suffering, I say\" closes the positive "
+            "case — not merely unbound, but explicitly named free from "
+            "suffering as a direct consequence.",
+        ]),
+        ("Why this vagga's title (\"Shackles\") fits this discourse specifically", [
+            "Bandhana, \"shackles\" or \"bondage,\" names precisely what "
+            "this discourse describes and its inverse dispels — a "
+            "concrete, physically evocative term for what the abstract "
+            "fourfold self-identification formula actually produces: not "
+            "merely a mistaken view, but a binding.",
+        ]),
+    ],
+    terms=[
+        ("bandhana", "shackles, bondage — the term giving this discourse its title"),
+        ("orimatīra", "the near shore — the starting point, ordinary bound existence, invisible to one who is bound"),
+        ("pārimatīra", "the far shore — liberation, likewise invisible to one who is bound"),
+        ("ajjhattaṁ bahiddhā", "inside and out, internal and external — describing the totality of the bondage to each aggregate"),
+        ("saddhiṁ bandhena", "\"in bonds,\" \"with the bond\" — describing birth, death, and passage from this world to the next"),
+    ],
+    text_intro=("The full discourse: the unlearned person bound inside and out, "
+        "and the noble disciple who sees both shores. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.117:1.1-1.4"),
+        ("p", "§2", "sn22.117:1.5-1.10"),
+        ("p", "§3", "sn22.117:2.1-2.3"),
+        ("p", "§4", "sn22.117:2.4-2.8"),
+    ],
+    quiz=[
+        {"q": "What is an unlearned ordinary person who regards form as self said to be?",
+         "opts": [
+             "Bound to form, inside and out",
+             "Free from all bondage automatically",
+             "Unaffected by their own view",
+             "Only temporarily bound, for a single lifetime"],
+         "correct": 0,
+         "expl": "Bondage on both sides of any boundary the aggregate might seem to mark."},
+        {"q": "What do they see, according to this discourse?",
+         "opts": [
+             "Neither the near shore nor the far shore",
+             "Both shores clearly",
+             "Only the near shore",
+             "Only the far shore"],
+         "correct": 0,
+         "expl": "Bondage obscures even the starting point, not only the destination."},
+        {"q": "How is this bondage described across a lifetime and beyond?",
+         "opts": [
+             "Born in bonds, dying in bonds, and going from this world to the next in bonds",
+             "Beginning only at the moment of death",
+             "Ending automatically at the moment of birth",
+             "Limited strictly to waking consciousness"],
+         "correct": 0,
+         "expl": "A condition spanning an entire life and extending across rebirth."},
+        {"q": "What does the learned noble disciple see, by contrast?",
+         "opts": [
+             "Both the near shore and the far shore",
+             "Neither shore, just as the unlearned person does",
+             "Only the far shore, never the near",
+             "A shore not mentioned in the unlearned person's case"],
+         "correct": 0,
+         "expl": "The identical image inverted, clear sight replacing blindness."},
+        {"q": "What is the noble disciple explicitly said to be, as a result?",
+         "opts": [
+             "Free from suffering",
+             "Merely less troubled than before",
+             "Still bound, but less tightly",
+             "Uncertain about their own condition"],
+         "correct": 0,
+         "expl": "Named directly as a consequence of being unbound and seeing both shores."},
+        {"q": "What does bandhana, giving this discourse and its vagga a shared theme, mean?",
+         "opts": [
+             "Shackles, bondage",
+             "Knowledge",
+             "A river crossing",
+             "A type of meditation"],
+         "correct": 0,
+         "expl": "A concrete, physically evocative term for what self-identification produces."},
+        {"q": "What formula does the unlearned person use to regard each aggregate?",
+         "opts": [
+             "As self, self as having it, it in self, or self in it",
+             "As permanent, everlasting, and eternal",
+             "As gratifying, dangerous, and escapable",
+             "As internal only, never external"],
+         "correct": 0,
+         "expl": "The familiar fourfold self-identification formula used throughout this book."},
+        {"q": "How many aggregates does this contrast apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, following the standard pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Continuing the setting of the surrounding discourses."},
+        {"q": "What comes next in Dhammakathikavagga after this discourse?",
+         "opts": [
+             "SN 22.118, the first of the Questioning pair",
+             "SN 22.122, the Sāriputta-Koṭṭhita dialogue",
+             "The vagga's final discourse",
+             "A return to SN 22.113"],
+         "correct": 0,
+         "expl": "Moving to the next pair of discourses in this vagga."},
+    ],
+    marginalia=[
+        ("Bound on every side", [
+            "inside and out, form to consciousness &mdash;",
+            "no boundary left unbound",
+        ]),
+        ("Neither shore in view", [
+            "not even the starting point visible &mdash;",
+            "bondage obscuring both directions at once",
+        ]),
+        ("A condition spanning more than one life", [
+            "born in bonds, dying in bonds &mdash;",
+            "carried across, world to world",
+        ]),
+        ("Both banks, seen clearly at last", [
+            "the identical image, inverted &mdash;",
+            "free from suffering, the discourse says directly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.117/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.116.html">SN 22.116 &middot; A Dhamma Speaker '
+        "(2nd)</a> &mdash; the previous discourse, closing the vagga's "
+        "own namesake pair.",
+        '<a href="sn-22.118.html">SN 22.118 &middot; Questioning</a> '
+        "&mdash; the next discourse, checking directly whether the "
+        "mendicants themselves already see clearly.",
+    ],
+)
+
+page(22, 118, "Paṭhamapucchā", "Questioning",
+    vagga="Dhammakathikavagga",
+    meta_title="SN 22.118 · Questioning — Correcting a \"No\" Into Right View",
+    meta_desc="The Buddha asks the mendicants directly whether they "
+        "regard the aggregates as self; their \"No, sir\" becomes the "
+        "occasion for stating right understanding explicitly. Saṃyutta "
+        "Nikāya 22.118, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, questioning the assembled mendicants directly"),
+        ("Form", "A direct question-and-response dialogue with the whole assembly, not a single questioner"),
+        ("Length", "Short — a brisk exchange, closing with the standard formula"),
+        ("Northern parallel", "The negated three-clause formula (\"not mine, not I, not my self\") is among the Canon's most standard technical formulas"),
+        ("Difficulty", "Approachable — direct and conversational in tone"),
+    ],
+    why=("Unlike the preceding discourses' single questioner, the Buddha "
+        "here addresses the whole assembly directly: \"do you regard "
+        "form like this: 'this is mine, I am this, this is my self'?\" — "
+        "and their unanimous \"No, sir\" becomes the springboard for "
+        "stating the correct alternative explicitly, praised with a "
+        "warm \"Good, mendicants!\""),
+    guide=[
+        ("A direct question to the whole assembly", [
+            "\"What do you think, mendicants? Do you regard form like "
+            "this: 'This is mine, I am this, this is my self'?\" — a "
+            "question posed not to one mendicant seeking clarification, "
+            "but to the gathered community, testing their own actual "
+            "view rather than delivering an abstract teaching.",
+        ]),
+        ("A negative answer, warmly confirmed", [
+            "\"No, sir\" — the mendicants' unanimous response, met with "
+            "\"Good, mendicants!\" (sādhu, sādhu) — an unusually direct "
+            "expression of approval, rare in this book's more typically "
+            "measured, expository tone.",
+        ]),
+        ("Stating the positive alternative explicitly", [
+            "\"Form should be truly seen with right understanding like "
+            "this: 'This is not mine, I am not this, this is not my "
+            "self'\" — the negated three-clause formula, already "
+            "familiar from earlier in this book, now stated as a "
+            "positive prescription rather than merely implied by a "
+            "negative answer.",
+            "The discourse's structure makes an important point about "
+            "how this understanding works: knowing what NOT to regard "
+            "the aggregates as (already confirmed by the mendicants' "
+            "\"No\") is not yet the same as actively seeing them the "
+            "right way — the Buddha supplies the missing positive "
+            "formulation rather than treating the negative answer as "
+            "sufficient on its own.",
+        ]),
+        ("Repeated across all five aggregates, closing into the standard formula", [
+            "The identical question-answer-confirmation sequence repeats "
+            "for feeling, perception, choices, and consciousness "
+            "(elided in the source), before closing with Khandhavagga's "
+            "familiar formula: \"seeing this... they understand: 'there "
+            "is nothing further for this place.'\"",
+        ]),
+    ],
+    terms=[
+        ("kiṁ maññatha", "\"what do you think\" — the Buddha's direct address to the assembled mendicants"),
+        ("etaṁ mama esohamasmi eso me attā", "\"this is mine, I am this, this is my self\" — the positive self-identification formula the mendicants are asked about"),
+        ("netaṁ mama nesohamasmi na meso attā", "\"this is not mine, I am not this, this is not my self\" — the negated formula given as right understanding"),
+        ("sādhu", "good, excellent — the Buddha's direct expression of approval at the mendicants' answer"),
+        ("yathābhūtaṁ sammappaññāya daṭṭhabbaṁ", "\"should be truly seen with right understanding\" — the discourse's prescriptive formula"),
+    ],
+    text_intro=("The complete discourse: the question to the assembly, their "
+        "answer and its confirmation, and the standard closing formula. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.118:1.1-1.6"),
+        ("p", "§2", "sn22.118:1.7-1.13"),
+        ("p", "§3", "sn22.118:1.14-1.15"),
+    ],
+    quiz=[
+        {"q": "Who does the Buddha address in this discourse, unlike the preceding discourses in this vagga?",
+         "opts": [
+             "The whole assembly of mendicants directly, rather than a single questioner",
+             "Only Venerable Sāriputta",
+             "Only newly ordained mendicants",
+             "A group of lay followers"],
+         "correct": 0,
+         "expl": "Testing their own actual view rather than delivering an abstract teaching to one questioner."},
+        {"q": "What question does the Buddha ask about form?",
+         "opts": [
+             "Do you regard form as \"this is mine, I am this, this is my self\"?",
+             "Do you understand the origin of form?",
+             "How many kinds of form are there?",
+             "Is form permanent or impermanent?"],
+         "correct": 0,
+         "expl": "Testing the mendicants' own view directly."},
+        {"q": "How do the mendicants respond?",
+         "opts": ["\"No, sir\"", "\"Yes, sir\"", "They remain silent", "They ask a clarifying question"],
+         "correct": 0,
+         "expl": "A unanimous negative response, confirming they do not hold this view."},
+        {"q": "How does the Buddha respond to their answer?",
+         "opts": [
+             "\"Good, mendicants!\" — an unusually direct expression of approval",
+             "With silence",
+             "By asking them to reconsider",
+             "With a lengthy correction"],
+         "correct": 0,
+         "expl": "A rare, warm confirmation in this book's typically measured tone."},
+        {"q": "What positive formula does the Buddha then supply?",
+         "opts": [
+             "\"This is not mine, I am not this, this is not my self\"",
+             "\"This is mine, I am this, this is my self\"",
+             "A formula about impermanence alone, unrelated to self-view",
+             "No further formula is given"],
+         "correct": 0,
+         "expl": "The negated three-clause formula, stated as a positive prescription."},
+        {"q": "What point does the discourse's structure make about understanding?",
+         "opts": [
+             "Knowing what not to regard the aggregates as is not yet the same as actively seeing them the right way",
+             "A negative answer alone is fully sufficient for liberation",
+             "No further teaching is ever needed once a mendicant says \"No\"",
+             "The Buddha disagrees with the mendicants' answer"],
+         "correct": 0,
+         "expl": "The Buddha supplies the missing positive formulation rather than treating \"No\" as sufficient on its own."},
+        {"q": "How many aggregates does this question-and-answer sequence cover?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Repeated identically for feeling, perception, choices, and consciousness."},
+        {"q": "How does the discourse close?",
+         "opts": [
+             "With the standard formula ending in \"there is nothing further for this place\"",
+             "With a unique closing not found elsewhere in this book",
+             "Without any closing formula at all",
+             "With a set of verses"],
+         "correct": 0,
+         "expl": "One of Khandhavagga's most familiar recurring closing sequences."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Continuing the setting of the surrounding discourses."},
+        {"q": "What comes next in Dhammakathikavagga after this discourse?",
+         "opts": [
+             "SN 22.119, this discourse's own direct companion asking the inverse question",
+             "SN 22.122, the Sāriputta-Koṭṭhita dialogue",
+             "The vagga's final discourse",
+             "A return to SN 22.113"],
+         "correct": 0,
+         "expl": "Completing the Questioning pair with the opposite starting question."},
+    ],
+    marginalia=[
+        ("A question put to the whole assembly", [
+            "not one questioner, but everyone present &mdash;",
+            "testing their own view directly",
+        ]),
+        ("\"No, sir\" — and then, warmly, \"Good!\"", [
+            "an unusually direct expression of approval &mdash;",
+            "rare in this book's more measured tone",
+        ]),
+        ("A negative answer is not yet the whole of it", [
+            "knowing what not to regard something as &mdash;",
+            "still needs the positive formula supplied",
+        ]),
+        ("Setting up its own inverse companion", [
+            "\"No\" here, \"Yes\" to come in SN 22.119 &mdash;",
+            "the same rightly-seen formula, approached from both sides",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.118/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.117.html">SN 22.117 &middot; Shackles</a> '
+        "&mdash; the previous discourse, on bondage and the near/far "
+        "shore.",
+        '<a href="sn-22.119.html">SN 22.119 &middot; Questioning '
+        "(2nd)</a> &mdash; the next discourse, this discourse's own "
+        "direct companion, asking the inverse question.",
+    ],
+)
+
+page(22, 119, "Dutiyapucchā", "Questioning (2nd)",
+    vagga="Dhammakathikavagga",
+    meta_title="SN 22.119 · Questioning (2nd) — Confirming Right View Already Held",
+    meta_desc="The inverse of SN 22.118: the mendicants confirm they "
+        "already see the aggregates rightly, and the Buddha affirms it "
+        "directly. Saṃyutta Nikāya 22.119, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, questioning the assembled mendicants directly"),
+        ("Form", "The inverse of SN 22.118's question-and-response structure"),
+        ("Length", "Short — matching SN 22.118's own length and structure exactly"),
+        ("Northern parallel", "Shares its structure and closing formula with SN 22.118"),
+        ("Difficulty", "Approachable — best read directly alongside SN 22.118"),
+    ],
+    why=("The precise inverse of SN 22.118: rather than asking whether "
+        "the mendicants wrongly self-identify with the aggregates and "
+        "correcting a \"No\" into an explicit right view, this discourse "
+        "asks directly whether they already hold that right view — and "
+        "receives a \"Yes\" that requires no correction at all."),
+    guide=[
+        ("Asking about the positive formula directly", [
+            "\"Do you regard form like this: 'This is not mine, I am not "
+            "this, this is not my self'?\" — where SN 22.118 asked about "
+            "the wrong view and had to supply the right one afterward, "
+            "this discourse asks about the right view directly from the "
+            "start.",
+        ]),
+        ("A \"Yes\" that needs no correction", [
+            "\"Yes, sir\" — the mendicants confirm they already hold this "
+            "understanding, and the Buddha's \"Good, mendicants!\" here "
+            "affirms an already-correct answer rather than, as in SN "
+            "22.118, prompting a further explicit statement.",
+            "The Buddha still restates the formula afterward — \"form "
+            "should be truly seen with right understanding like this\" "
+            "— but now as confirmation of what the mendicants have "
+            "already affirmed, not as a correction supplying something "
+            "missing.",
+        ]),
+        ("Why pair a discourse of correction with one of confirmation", [
+            "Read together, SN 22.118 and SN 22.119 test the same "
+            "understanding from both directions: can the mendicants "
+            "recognize wrong view when asked about it directly (118), "
+            "and do they already, independently, hold the right view "
+            "when asked about that directly instead (119)?",
+            "Passing both tests together demonstrates something a single "
+            "question could not: not merely rejecting the wrong "
+            "formula when presented with it, but actively holding the "
+            "right one as their own settled view.",
+        ]),
+        ("Closing into the identical formula", [
+            "As in SN 22.118, this discourse closes with the same "
+            "standard sequence — \"seeing this... they understand: "
+            "'there is nothing further for this place'\" — the shared "
+            "destination both discourses arrive at, whether starting "
+            "from correction or from confirmation.",
+        ]),
+    ],
+    terms=[
+        ("netaṁ mama nesohamasmi na meso attā", "\"this is not mine, I am not this, this is not my self\" — the formula this discourse asks about directly, unlike SN 22.118's indirect route"),
+        ("āma bhante", "\"Yes, sir\" — the mendicants' confirming response, replacing SN 22.118's \"No, sir\""),
+        ("sādhu", "good, excellent — the Buddha's approval, now affirming an already-correct answer"),
+        ("yathābhūtaṁ sammappaññāya daṭṭhabbaṁ", "\"should be truly seen with right understanding\" — restated here as confirmation rather than correction"),
+        ("nāparaṁ itthattāyā", "\"there is nothing further for this place\" — the shared closing formula both discourses in this pair arrive at"),
+    ],
+    text_intro=("The complete discourse, the precise inverse of SN 22.118, "
+        "confirming right view already held. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.119:1.1-1.6"),
+        ("p", "§2", "sn22.119:1.7-1.13"),
+        ("p", "§3", "sn22.119:1.14-1.15"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's opening question differ from SN 22.118's?",
+         "opts": [
+             "It asks directly whether the mendicants already hold the right (negated) view, rather than the wrong one",
+             "It asks about a completely unrelated topic",
+             "It is addressed to a single mendicant rather than the assembly",
+             "It omits any reference to the five aggregates"],
+         "correct": 0,
+         "expl": "The precise inverse of SN 22.118's question about wrong self-identification."},
+        {"q": "How do the mendicants respond in this discourse?",
+         "opts": ["\"Yes, sir\"", "\"No, sir\"", "With silence", "With a further question"],
+         "correct": 0,
+         "expl": "Confirming they already hold the right understanding, unlike SN 22.118's negative answer to the wrong-view question."},
+        {"q": "What does the Buddha's restatement of the formula do in this discourse, compared to SN 22.118?",
+         "opts": [
+             "Confirms what the mendicants already affirmed, rather than correcting a gap",
+             "Corrects an error in their answer",
+             "Introduces an entirely new formula not used in SN 22.118",
+             "Contradicts their \"Yes\" answer"],
+         "correct": 0,
+         "expl": "Confirmation rather than correction, since the mendicants' answer already matched the right view."},
+        {"q": "What do SN 22.118 and SN 22.119 together test, when read as a pair?",
+         "opts": [
+             "Whether the mendicants can recognize wrong view AND whether they independently hold right view",
+             "Two entirely unrelated aspects of the teaching",
+             "Only the mendicants' memory of the formula",
+             "Whether the Buddha's own teaching is internally consistent"],
+         "correct": 0,
+         "expl": "Testing the same understanding from both directions — rejecting the wrong, and holding the right."},
+        {"q": "What does passing both tests together demonstrate that a single question could not?",
+         "opts": [
+             "Actively holding the right formula as one's own settled view, not merely rejecting the wrong one",
+             "That the mendicants have memorized the scripture perfectly",
+             "That the Buddha's teaching contains contradictions",
+             "Nothing beyond what a single question would show"],
+         "correct": 0,
+         "expl": "A more complete demonstration of settled right view than either question alone could provide."},
+        {"q": "How does this discourse close?",
+         "opts": [
+             "With the identical standard formula as SN 22.118",
+             "With a unique closing not found in SN 22.118",
+             "Without any closing formula",
+             "With a set of verses unlike SN 22.118"],
+         "correct": 0,
+         "expl": "Both discourses arrive at the same destination, whether starting from correction or confirmation."},
+        {"q": "How many aggregates does this question-and-answer sequence cover?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Matching SN 22.118's own coverage of all five aggregates."},
+        {"q": "What formula are the mendicants asked about directly in this discourse?",
+         "opts": [
+             "\"This is not mine, I am not this, this is not my self\"",
+             "\"This is mine, I am this, this is my self\"",
+             "The elevenfold scope formula",
+             "The gratification/drawback/escape triad"],
+         "correct": 0,
+         "expl": "The negated formula, asked about from the start rather than supplied afterward."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.118's own setting."},
+        {"q": "What comes next in Dhammakathikavagga after this pair of discourses?",
+         "opts": [
+             "SN 22.120, on the things that tighten the fetters",
+             "SN 22.122, the Sāriputta-Koṭṭhita dialogue",
+             "The vagga's final discourse",
+             "A return to SN 22.113"],
+         "correct": 0,
+         "expl": "Moving to the next pair of discourses in this vagga."},
+    ],
+    marginalia=[
+        ("The inverse question, asked directly", [
+            "right view asked about from the start &mdash;",
+            "no correction needed, only confirmation",
+        ]),
+        ("\"Yes\" this time, not \"No\"", [
+            "the same formula, already held &mdash;",
+            "restated to affirm, not to supply what was missing",
+        ]),
+        ("Two tests, one settled understanding", [
+            "rejecting the wrong, holding the right &mdash;",
+            "together showing more than either alone",
+        ]),
+        ("Both discourses, one shared destination", [
+            "\"nothing further for this place\" &mdash;",
+            "reached from correction and from confirmation alike",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.119/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.118.html">SN 22.118 &middot; Questioning</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "inverse.",
+        '<a href="sn-22.120.html">SN 22.120 &middot; Things That '
+        "Tighten Fetters</a> &mdash; the next discourse, distinguishing "
+        "an aggregate itself from the craving that binds one to it.",
+    ],
+)
+
+page(22, 120, "Saṁyojaniya", "Things That Tighten Fetters",
+    vagga="Dhammakathikavagga",
+    meta_title="SN 22.120 · Things That Tighten Fetters — Object and Craving Distinguished",
+    meta_desc="The aggregate itself is what fetters attach to; the desire "
+        "and greed for it is the fetter itself — a precise distinction "
+        "between object and binding. Saṃyutta Nikāya 22.120, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A single precise distinction, applied identically to each aggregate"),
+        ("Length", "Short — one clean distinction, minimally elaborated"),
+        ("Northern parallel", "The saṁyojaniyā dhammā / saṁyojana distinction recurs in similar precise pairings elsewhere in the Canon"),
+        ("Difficulty", "Moderate — the distinction is subtle though the statement itself is brief"),
+    ],
+    why=("A precise technical distinction easy to miss if read quickly: "
+        "the five aggregates are not themselves the fetter that binds a "
+        "person to suffering — they are merely \"things that tighten the "
+        "fetters,\" the objects a fetter can attach to. The fetter itself "
+        "is specifically \"the desire and greed for it.\""),
+    guide=[
+        ("A distinction between object and attachment", [
+            "\"Form is something that tightens the fetters. The desire "
+            "and greed for it is the fetter\" — two different things "
+            "named in careful sequence: the aggregate as what a fetter "
+            "can attach to, and desire-and-greed as the fetter itself.",
+            "This distinction matters because it locates the actual "
+            "problem precisely: not in the aggregates' mere existence, "
+            "but in a specific relationship (desire and greed) that a "
+            "mind can either have or not have toward them.",
+        ]),
+        ("Why \"tighten\" rather than simply \"cause\"", [
+            "Saṁyojaniya, translated \"tighten the fetters,\" suggests the "
+            "aggregates are not the fetter's origin so much as what gives "
+            "an existing fetter something to grip — the aggregates "
+            "provide the material the fetter can tighten around, while "
+            "the tightening itself is done by desire and greed.",
+        ]),
+        ("The same distinction repeated for each aggregate", [
+            "\"Feeling... Perception... Choices...\" (elided in the "
+            "source) \"Consciousness is something that tightens the "
+            "fetters. The desire and greed for it is the fetter\" — the "
+            "identical two-part structure applied without variation "
+            "across all five aggregates.",
+        ]),
+        ("A distinction with practical consequences", [
+            "By separating the aggregate from the fetter, this discourse "
+            "implies that engaging with an aggregate is not itself the "
+            "problem requiring elimination — a mendicant continues to "
+            "experience form, feeling, and the rest even after "
+            "liberation. What must end is specifically the desire and "
+            "greed, leaving the aggregates themselves untouched by the "
+            "distinction between bound and freed.",
+            "This sets up SN 22.121, this discourse's own direct "
+            "companion, which draws the identical distinction for "
+            "grasping (upādāna) rather than fetters (saṁyojana).",
+        ]),
+    ],
+    terms=[
+        ("saṁyojaniyā dhammā", "\"things that tighten the fetters\" — the aggregates themselves, as objects a fetter can attach to"),
+        ("saṁyojana", "the fetter — specifically the desire and greed for an aggregate, not the aggregate itself"),
+        ("chandarāga", "desire and greed — the precise pair of factors this discourse identifies as the fetter"),
+        ("suṇātha", "listen — the standard opening instruction, elided in this discourse's own source text"),
+        ("khandha", "aggregate — the object named as \"tightening,\" distinguished from the fetter proper"),
+    ],
+    text_intro=("The complete discourse: the announcement, then the precise "
+        "object/fetter distinction applied to each aggregate. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.120:1.1-1.4"),
+        ("p", "§2", "sn22.120:1.5-1.6"),
+        ("p", "§3", "sn22.120:1.7-1.12"),
+    ],
+    quiz=[
+        {"q": "What distinction does this discourse draw about form?",
+         "opts": [
+             "Form itself is something that tightens the fetters; the desire and greed for it is the fetter itself",
+             "Form is itself the fetter, with nothing further to distinguish",
+             "Form has no relationship to fetters at all",
+             "Only consciousness, not form, is relevant to fetters"],
+         "correct": 0,
+         "expl": "Object and attachment named as two distinct things, in careful sequence."},
+        {"q": "What, specifically, is the fetter (saṁyojana) itself?",
+         "opts": [
+             "The desire and greed for an aggregate",
+             "The aggregate's mere existence",
+             "The passage of time",
+             "A physical restraint used in meditation"],
+         "correct": 0,
+         "expl": "Not the object but the specific attitude of desire and greed toward it."},
+        {"q": "Why might \"tighten\" be a more precise word than simply \"cause\" here?",
+         "opts": [
+             "It suggests the aggregates give an existing fetter something to grip, rather than originating it",
+             "It implies the aggregates have no real connection to the fetters",
+             "It suggests the fetters exist independently of any object",
+             "It means the same thing as \"cause\" with no distinction intended"],
+         "correct": 0,
+         "expl": "The tightening itself is done by desire and greed, using the aggregate as material to grip."},
+        {"q": "What practical implication follows from separating the aggregate from the fetter?",
+         "opts": [
+             "Experiencing an aggregate is not itself the problem; ending desire and greed for it is",
+             "The aggregates themselves must be eliminated for liberation",
+             "Liberation requires ceasing all sensory experience",
+             "There is no practical implication at all"],
+         "correct": 0,
+         "expl": "A mendicant continues to experience the aggregates even after liberation; only the desire and greed ends."},
+        {"q": "How many aggregates does this object/fetter distinction apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "The identical two-part structure applied without variation across all five."},
+        {"q": "What discourse draws the identical distinction for grasping instead of fetters?",
+         "opts": [
+             "SN 22.121, this discourse's own direct companion",
+             "SN 22.117, on shackles",
+             "SN 22.103, on the four ends",
+             "SN 22.122, the Sāriputta-Koṭṭhita dialogue"],
+         "correct": 0,
+         "expl": "The next discourse in the vagga, mirroring this discourse's structure exactly."},
+        {"q": "What two factors together constitute the fetter, according to this discourse?",
+         "opts": [
+             "Desire and greed (chandarāga)",
+             "Fear and doubt",
+             "Craving and ignorance",
+             "Attraction and mental fixation"],
+         "correct": 0,
+         "expl": "The precise pair this discourse names, distinct from craving or the broader nine-term list in SN 22.112."},
+        {"q": "What does this discourse's opening formula match, seen earlier in this vagga?",
+         "opts": [
+             "The \"I will teach you... listen\" formula shared with SN 22.104-105",
+             "The direct question-to-the-assembly format of SN 22.118-119",
+             "The Sāriputta-Koṭṭhita dialogue format",
+             "A unique opening not found elsewhere in this vagga"],
+         "correct": 0,
+         "expl": "Continuing the announcement-then-definition pattern used earlier in Dhammakathikavagga."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Continuing the setting of the surrounding discourses."},
+        {"q": "What does locating the fetter precisely in desire and greed, rather than in the aggregate, accomplish?",
+         "opts": [
+             "It identifies the actual problem precisely, as a specific mental relationship rather than the aggregate's mere existence",
+             "It removes any possibility of ever ending the fetter",
+             "It contradicts the teaching found in the rest of this book",
+             "It has no bearing on how liberation is understood"],
+         "correct": 0,
+         "expl": "A precise technical distinction with direct consequences for how practice is understood."},
+    ],
+    marginalia=[
+        ("Object and attachment, carefully distinguished", [
+            "the aggregate itself, and the fetter proper &mdash;",
+            "two different things, named in sequence",
+        ]),
+        ("Tightening, not originating", [
+            "the aggregate as material to grip &mdash;",
+            "desire and greed as what does the actual binding",
+        ]),
+        ("What must end, precisely named", [
+            "not the aggregate's existence &mdash;",
+            "only the desire and greed toward it",
+        ]),
+        ("Setting up its own direct companion", [
+            "fetters here, grasping to follow &mdash;",
+            "the identical structure, a different technical term",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.120/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.119.html">SN 22.119 &middot; Questioning '
+        "(2nd)</a> &mdash; the previous discourse, closing the "
+        "Questioning pair.",
+        '<a href="sn-22.121.html">SN 22.121 &middot; Things That Fuel '
+        "Grasping</a> &mdash; the next discourse, this discourse's own "
+        "direct companion, drawing the identical distinction for "
+        "grasping.",
+    ],
+)
+
+page(22, 121, "Upādāniya", "Things That Fuel Grasping",
+    vagga="Dhammakathikavagga",
+    meta_title="SN 22.121 · Things That Fuel Grasping — The Same Distinction, a New Term",
+    meta_desc="The companion to SN 22.120: the aggregates fuel grasping, "
+        "but the desire and greed for them is the grasping itself. "
+        "Saṃyutta Nikāya 22.121, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 22.120, with \"grasping\" replacing \"fetters\""),
+        ("Length", "Short — matching SN 22.120's own length exactly"),
+        ("Northern parallel", "Shares its structure with SN 22.120 and the broader Canon's upādāna vocabulary"),
+        ("Difficulty", "Moderate — best read directly alongside SN 22.120"),
+    ],
+    why=("The direct companion to SN 22.120, drawing the identical "
+        "object/attachment distinction for a second technical term: "
+        "grasping (upādāna) rather than the fetter (saṁyojana) — showing "
+        "the same precise structure applies to more than one word for "
+        "what binds a mind to the aggregates."),
+    guide=[
+        ("The same distinction, a different technical term", [
+            "\"Form is something that fuels grasping. The desire and "
+            "greed for it is the grasping\" — matching SN 22.120's "
+            "structure clause for clause, with upādāniyā dhammā "
+            "(\"things that fuel grasping\") and upādāna (\"grasping\") "
+            "replacing saṁyojaniyā dhammā and saṁyojana.",
+        ]),
+        ("Why this matters beyond mere repetition", [
+            "Grasping (upādāna) is not simply a synonym for the fetter "
+            "(saṁyojana) elsewhere in the Canon — it is upādāna "
+            "specifically that gives the \"grasping aggregates\" "
+            "(upādānakkhandhā) their name, the very term used throughout "
+            "this entire book to describe the five aggregates as objects "
+            "of clinging.",
+            "This discourse therefore clarifies something implicit in "
+            "that pervasive compound term itself: the aggregates are "
+            "called \"grasping aggregates\" not because they are "
+            "themselves grasping, but because desire and greed for them "
+            "constitutes the grasping — the aggregates \"fuel\" it "
+            "(upādāniya) without being it.",
+        ]),
+        ("Two technical terms, one underlying structure", [
+            "Reading SN 22.120 and SN 22.121 together demonstrates that "
+            "this object/attachment distinction is not a one-off "
+            "clarification about fetters specifically, but a general "
+            "principle applicable wherever this book speaks of the "
+            "aggregates being bound to, grasped, or fettered — the "
+            "structure, not the particular word, is what matters.",
+        ]),
+        ("Closing this vagga's pair of precise distinctions", [
+            "With SN 22.120 and SN 22.121 both complete, Dhammakathikavagga "
+            "turns to its final material: the extended Sāriputta-Koṭṭhita "
+            "dialogues of SN 22.122-123, and the two discourses "
+            "addressed to Venerable Kappa that close the vagga.",
+        ]),
+    ],
+    terms=[
+        ("upādāniyā dhammā", "\"things that fuel grasping\" — the aggregates themselves, echoing this discourse's own title"),
+        ("upādāna", "grasping — specifically the desire and greed for an aggregate, distinguished from the aggregate itself"),
+        ("upādānakkhandhā", "the \"grasping aggregates\" — the pervasive compound term this discourse quietly clarifies, used throughout this entire book"),
+        ("chandarāga", "desire and greed — the identical pair named as the fetter in SN 22.120, here named as the grasping"),
+        ("saṁyojana", "the fetter — SN 22.120's own parallel term, replaced here by upādāna"),
+    ],
+    text_intro=("The complete discourse, mirroring SN 22.120's structure exactly "
+        "with \"grasping\" replacing \"fetters.\" Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.121:1.1-1.4"),
+        ("p", "§2", "sn22.121:1.5-1.6"),
+        ("p", "§3", "sn22.121:1.7-1.12"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 22.120?",
+         "opts": [
+             "An exact structural mirror, with \"grasping\" replacing \"fetters\"",
+             "An unrelated teaching on a different topic",
+             "A direct contradiction of SN 22.120's distinction",
+             "A much longer, more elaborate discourse"],
+         "correct": 0,
+         "expl": "The identical object/attachment distinction applied to a second technical term."},
+        {"q": "What, according to this discourse, is grasping (upādāna) itself?",
+         "opts": [
+             "The desire and greed for an aggregate",
+             "The aggregate's mere existence",
+             "A physical object one holds onto",
+             "A synonym with no distinct meaning from the aggregate"],
+         "correct": 0,
+         "expl": "The identical pair of factors named as the fetter in SN 22.120, now named as the grasping."},
+        {"q": "What pervasive term elsewhere in this book does this discourse quietly clarify?",
+         "opts": [
+             "\"Grasping aggregates\" (upādānakkhandhā), used throughout this entire book",
+             "\"Dhamma speaker\", from SN 22.115-116",
+             "\"Substantial reality\" (sakkāya), from SN 22.103-105",
+             "\"Fetter\" (saṁyojana), from SN 22.120"],
+         "correct": 0,
+         "expl": "Explaining why the aggregates are called \"grasping aggregates\" without themselves being the grasping."},
+        {"q": "Why are the aggregates called \"grasping aggregates\" according to this discourse's logic?",
+         "opts": [
+             "Because desire and greed for them constitutes the grasping, while the aggregates only fuel it",
+             "Because the aggregates actively grasp at other things",
+             "Because they cannot be experienced without grasping",
+             "Because grasping and the aggregates are entirely identical"],
+         "correct": 0,
+         "expl": "The aggregates \"fuel\" (upādāniya) grasping without themselves being the grasping."},
+        {"q": "What does reading SN 22.120 and SN 22.121 together demonstrate?",
+         "opts": [
+             "The object/attachment distinction is a general principle, not a one-off clarification about fetters specifically",
+             "The two discourses actually contradict each other",
+             "Only one of the two discourses is doctrinally correct",
+             "Fetters and grasping are entirely unrelated concepts"],
+         "correct": 0,
+         "expl": "The underlying structure, not the particular word, is what matters across both discourses."},
+        {"q": "How many aggregates does this distinction apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Matching SN 22.120's own coverage of all five aggregates."},
+        {"q": "What comes next in Dhammakathikavagga after this pair of discourses?",
+         "opts": [
+             "SN 22.122, the extended Sāriputta-Koṭṭhita dialogue",
+             "SN 22.117, on shackles",
+             "The vagga's very first discourse",
+             "A return to SN 22.103"],
+         "correct": 0,
+         "expl": "Moving to the vagga's extended dialogue material."},
+        {"q": "What two factors together constitute the grasping, according to this discourse?",
+         "opts": [
+             "Desire and greed (chandarāga)",
+             "Fear and doubt",
+             "Ignorance and craving",
+             "Attraction and insistence"],
+         "correct": 0,
+         "expl": "The identical pair named in SN 22.120 for the fetter."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.120's own setting."},
+    ],
+    marginalia=[
+        ("The same distinction, a second term", [
+            "grasping in place of fetters &mdash;",
+            "object and attachment, distinguished again",
+        ]),
+        ("Why \"grasping aggregates\" fits", [
+            "not because the aggregates grasp &mdash;",
+            "but because desire and greed for them does",
+        ]),
+        ("Fuel, not the fire itself", [
+            "upādāniya, what feeds the grasping &mdash;",
+            "the grasping proper is the wanting, not the object",
+        ]),
+        ("A structure, not a single word", [
+            "fetters, grasping, the same underlying shape &mdash;",
+            "two discourses confirming one general principle",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.121/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.120.html">SN 22.120 &middot; Things That '
+        "Tighten Fetters</a> &mdash; the previous discourse, this "
+        "discourse's own direct structural twin.",
+        '<a href="sn-22.122.html">SN 22.122 &middot; An Ethical '
+        "Mendicant</a> &mdash; the next discourse, Sāriputta and "
+        "Koṭṭhita's extended dialogue on rationally applying the mind.",
+    ],
+)
+
+page(22, 122, "Sīla", "An Ethical Mendicant",
+    vagga="Dhammakathikavagga",
+    meta_title="SN 22.122 · An Ethical Mendicant — Eleven Angles, Four Stages",
+    meta_desc="Sāriputta answers Mahākoṭṭhita's question five times over "
+        "— for the ethical mendicant, the stream-enterer, the "
+        "once-returner, the non-returner, and the arahant — each pointed "
+        "toward the same eleven-angled reflection. Saṃyutta Nikāya "
+        "22.122, with Pāli.",
+    glance=[
+        ("Setting", "Varanasi, in the deer park at Isipatana"),
+        ("Speakers", "Venerable Mahākoṭṭhita questioning Venerable Sāriputta"),
+        ("Form", "A five-round dialogue, each round following an identical question-and-answer structure"),
+        ("Length", "Long — the most extended dialogue in this vagga"),
+        ("Northern parallel", "The eleven-angled reflection formula (impermanent, suffering, diseased, a boil, a dart...) recurs across the Canon in similar contexts of progressive practice"),
+        ("Difficulty", "Moderate — the five-round structure is repetitive by design and rewards tracking what changes (the practitioner's stage) against what stays constant (the reflection itself)"),
+    ],
+    why=("A rare extended dialogue between two of the Buddha's own chief "
+        "disciples, set at Isipatana — the deer park where the Buddha "
+        "first taught. Mahākoṭṭhita asks the same question five times, "
+        "advancing through the four stages of awakening one at a time, "
+        "and Sāriputta's answer is, each time, the identical eleven-angled "
+        "reflection on the five grasping aggregates."),
+    guide=[
+        ("Two chief disciples, a specific setting", [
+            "\"Venerable Sāriputta and Venerable Mahākoṭṭhita were staying "
+            "near Varanasi, in the deer park at Isipatana\" — the same "
+            "location where the Buddha delivered his first sermon "
+            "(referenced elsewhere in this book at SN 22.59), now the "
+            "setting for a dialogue between two senior monks rather than "
+            "the Buddha himself.",
+            "Mahākoṭṭhita comes \"out of retreat\" specifically to pose "
+            "this question, suggesting it arose from his own sustained "
+            "meditative reflection rather than idle curiosity.",
+        ]),
+        ("The eleven-angled reflection", [
+            "Sāriputta's answer, repeated identically at every stage: "
+            "the five grasping aggregates should be rationally applied "
+            "to \"as impermanent, as suffering, as diseased, as a boil, "
+            "as a dart, as gloom, as an affliction, as alien, as "
+            "breaking apart, as empty, as not-self\" — eleven distinct "
+            "angles, far exceeding the three-mark formula (impermanent, "
+            "suffering, not-self) used more commonly elsewhere in this "
+            "book.",
+            "The additional eight angles — diseased, a boil, a dart, "
+            "gloom, an affliction, alien, breaking apart, empty — "
+            "supply a richer, more visceral vocabulary for the same "
+            "underlying insight, moving from abstract philosophical "
+            "categories (impermanent, not-self) to embodied, even "
+            "painful images (diseased, a dart, a boil).",
+        ]),
+        ("Five rounds, one constant answer, an advancing subject", [
+            "Mahākoṭṭhita asks what an \"ethical mendicant\" should "
+            "reflect on; then, in turn, what a stream-enterer, a "
+            "once-returner, a non-returner, and finally a perfected one "
+            "should reflect on — five distinct practitioners at "
+            "progressively higher stages, yet Sāriputta gives the "
+            "identical eleven-angled answer every single time.",
+            "Each round names what the reflection makes possible for "
+            "that stage: an ethical mendicant may realize stream-entry; "
+            "a stream-enterer, once-return; a once-returner, "
+            "non-return; a non-returner, perfection — the reflection "
+            "itself never changes, but what it opens onto advances with "
+            "the practitioner.",
+        ]),
+        ("Why even the arahant continues this reflection", [
+            "The final round breaks the escalating pattern: asked what a "
+            "perfected one should reflect on, Sāriputta gives the same "
+            "eleven angles, then adds explicitly, \"a perfected one has "
+            "nothing more to do, and nothing that needs improvement. "
+            "Still, these things, when developed and cultivated, lead to "
+            "blissful meditation in this life, and also to mindfulness "
+            "and situational awareness.\"",
+            "This final clarification prevents a natural but mistaken "
+            "inference — that the reflection is merely instrumental, to "
+            "be discarded once its goal is reached. Instead, the "
+            "identical practice continues even after nothing further "
+            "needs to be attained, valued now for its own immediate "
+            "benefits rather than as a means to a further end.",
+        ]),
+    ],
+    terms=[
+        ("sīlavā bhikkhu", "an ethical mendicant — the first practitioner named, whose ethical grounding is the basis for this reflection"),
+        ("yoniso manasikāra", "rationally applying the mind — the specific cognitive act Mahākoṭṭhita asks about at each stage"),
+        ("gaṇḍa/salla/agha/ābādha", "a boil, a dart, gloom, an affliction — four of the eleven angles, supplying visceral rather than abstract imagery"),
+        ("suñña", "empty — one of the eleven angles, appearing here in a list otherwise dominated by the three-mark vocabulary"),
+        ("diṭṭhadhammasukhavihāra", "blissful meditation in this life — one of the two benefits named for the arahant's continued reflection"),
+    ],
+    text_intro=("The complete five-round dialogue between Mahākoṭṭhita and "
+        "Sāriputta, given in full for each of the five stages. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.122:1.1-1.4"),
+        ("p", "§2", "sn22.122:1.5-1.8"),
+        ("p", "§3", "sn22.122:2.1-2.3"),
+        ("p", "§4", "sn22.122:3.1-3.3"),
+        ("p", "§5", "sn22.122:4.1-4.3"),
+        ("p", "§6", "sn22.122:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Varanasi, in the deer park at Isipatana",
+             "Sāvatthī, in Jeta's Grove",
+             "Rājagaha, on the Vulture's Peak",
+             "Kosambī, in Ghosita's Monastery"],
+         "correct": 0,
+         "expl": "The same deer park where the Buddha delivered his first sermon."},
+        {"q": "Who are the two speakers in this dialogue?",
+         "opts": [
+             "Venerable Mahākoṭṭhita questioning Venerable Sāriputta",
+             "The Buddha and an unnamed mendicant",
+             "Venerable Ānanda and Venerable Sāriputta",
+             "Venerable Kappa and the Buddha"],
+         "correct": 0,
+         "expl": "A dialogue between two senior monks, not involving the Buddha directly."},
+        {"q": "How many distinct angles does Sāriputta's reflection formula include?",
+         "opts": ["Eleven", "Three", "Five", "Four"],
+         "correct": 0,
+         "expl": "Far exceeding the more common three-mark formula used elsewhere in this book."},
+        {"q": "Which of these is one of the eleven angles?",
+         "opts": ["As a dart", "As eternal", "As solid", "As pleasant"],
+         "correct": 0,
+         "expl": "One of eight additional, more visceral images beyond the standard three marks."},
+        {"q": "How many times does Mahākoṭṭhita ask essentially the same question?",
+         "opts": ["Five times", "Once", "Three times", "Ten times"],
+         "correct": 0,
+         "expl": "For the ethical mendicant, the stream-enterer, the once-returner, the non-returner, and the arahant."},
+        {"q": "Does Sāriputta's answer change across the five rounds?",
+         "opts": [
+             "No — the identical eleven-angled reflection is given every time",
+             "Yes — a completely different reflection is given at each stage",
+             "Yes — the reflection grows shorter at higher stages",
+             "Yes — only the arahant receives the full eleven angles"],
+         "correct": 0,
+         "expl": "What advances is the practitioner's stage, not the reflection itself."},
+        {"q": "What is said to be possible for an ethical mendicant who practices this reflection?",
+         "opts": [
+             "Realizing the fruit of stream-entry",
+             "Immediately becoming an arahant",
+             "Nothing in particular",
+             "Becoming a Dhamma speaker"],
+         "correct": 0,
+         "expl": "Each stage's reflection opens onto the next stage of awakening."},
+        {"q": "Why does a perfected one (arahant) still continue this same reflection?",
+         "opts": [
+             "It leads to blissful meditation in this life and to mindfulness and situational awareness, even with nothing left to attain",
+             "Because arahants have not actually completed the path",
+             "Out of habit alone, with no further benefit",
+             "The discourse does not address this question"],
+         "correct": 0,
+         "expl": "Preventing the inference that the reflection is merely instrumental and should be discarded once its goal is reached."},
+        {"q": "What prompts Mahākoṭṭhita to ask his question?",
+         "opts": [
+             "Coming out of retreat, suggesting the question arose from his own sustained reflection",
+             "A direct instruction from the Buddha to ask it",
+             "A dispute with another mendicant",
+             "A request from a lay follower"],
+         "correct": 0,
+         "expl": "Suggesting a question born from meditative practice rather than idle curiosity."},
+        {"q": "How does this discourse's eleven-angled formula differ in character from the standard three-mark formula?",
+         "opts": [
+             "It moves from abstract philosophical categories to embodied, visceral images",
+             "It is entirely abstract with no concrete imagery at all",
+             "It applies to only one of the five aggregates",
+             "It contradicts the three-mark formula's content"],
+         "correct": 0,
+         "expl": "Diseased, a boil, a dart, gloom, and affliction add a richer, more visceral vocabulary."},
+    ],
+    marginalia=[
+        ("Isipatana, where the first sermon was given", [
+            "two chief disciples, not the Buddha himself &mdash;",
+            "the same deer park hosting a different dialogue",
+        ]),
+        ("Eleven angles, not three", [
+            "diseased, a boil, a dart, gloom, an affliction &mdash;",
+            "abstract categories joined by visceral images",
+        ]),
+        ("One reflection, five advancing stages", [
+            "ethical mendicant to arahant &mdash;",
+            "the practice constant, the practitioner progressing",
+        ]),
+        ("Continued even with nothing left to attain", [
+            "blissful meditation, mindfulness, awareness &mdash;",
+            "valued now for its own benefit, not as a means to an end",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.122/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.121.html">SN 22.121 &middot; Things That Fuel '
+        "Grasping</a> &mdash; the previous discourse, on the precise "
+        "distinction between an aggregate and what binds one to it.",
+        '<a href="sn-22.123.html">SN 22.123 &middot; Learned</a> '
+        "&mdash; the next discourse, this discourse's own close "
+        "companion, phrasing the identical dialogue slightly differently.",
+    ],
+)
+
+page(22, 123, "Sutavā", "Learned",
+    vagga="Dhammakathikavagga",
+    meta_title="SN 22.123 · Learned — The Same Dialogue, Compressed",
+    meta_desc="The companion to SN 22.122: the same five-stage dialogue "
+        "between Sāriputta and Mahākoṭṭhita, now beginning with \"a "
+        "learned mendicant\" and compressed toward its close. Saṃyutta "
+        "Nikāya 22.123, with Pāli.",
+    glance=[
+        ("Setting", "Varanasi, in the deer park at Isipatana"),
+        ("Speakers", "Venerable Mahākoṭṭhita questioning Venerable Sāriputta"),
+        ("Form", "The same five-round structure as SN 22.122, increasingly compressed toward its close"),
+        ("Length", "Medium — shorter than SN 22.122 due to its own compression"),
+        ("Northern parallel", "Shares its structure and content with SN 22.122"),
+        ("Difficulty", "Moderate — best read directly after SN 22.122"),
+    ],
+    why=("The direct companion to SN 22.122, opening with a slightly "
+        "expanded courtesy (Mahākoṭṭhita \"bowed, sat down to one side\") "
+        "and a different first term — \"a learned mendicant\" rather "
+        "than \"an ethical mendicant\" — before tracing the identical "
+        "five-stage progression, increasingly compressed as it "
+        "proceeds."),
+    guide=[
+        ("A fuller opening courtesy", [
+            "Where SN 22.122 has Mahākoṭṭhita simply \"go to Venerable "
+            "Sāriputta\" and speak, this discourse adds that he \"bowed, "
+            "sat down to one side\" before asking — a small addition of "
+            "formal courtesy not present in the companion discourse.",
+        ]),
+        ("A different first term, an identical formula", [
+            "\"What things should a learned mendicant rationally apply "
+            "the mind to?\" — sutavā (\"learned\") replacing SN 22.122's "
+            "sīlavā (\"ethical\") as the starting practitioner, though "
+            "the eleven-angled reflection Sāriputta gives in answer is "
+            "identical in every particular.",
+            "This small variation in the starting term — ethical versus "
+            "learned — suggests the reflection is not tied to any single "
+            "specific virtue as its precondition; whichever quality "
+            "names the starting point, the same reflection applies and "
+            "the same progression follows.",
+        ]),
+        ("Increasing compression toward the close", [
+            "Where SN 22.122 spells out each of the five rounds in full, "
+            "this discourse begins compressing from the third round "
+            "onward — the once-returner and non-returner rounds are "
+            "elided with ellipses rather than given complete restatement, "
+            "a economy not used in the companion discourse.",
+            "This growing compression as the sequence advances mirrors a "
+            "pattern seen elsewhere in this book: once a repeating "
+            "structure has been established clearly, later repetitions "
+            "of it are trusted to the reader's memory rather than spelled "
+            "out afresh each time.",
+        ]),
+        ("Closing Dhammakathikavagga's extended dialogue pair", [
+            "With SN 22.122 and SN 22.123 both complete, the vagga turns "
+            "to its final two discourses: SN 22.124 and SN 22.125, both "
+            "addressed to Venerable Kappa, closing the vagga on a "
+            "different kind of extended formula — the elevenfold scope "
+            "already seen earlier in this book, now specifically applied "
+            "to the elimination of \"I-making\" and \"mine-making.\"",
+        ]),
+    ],
+    terms=[
+        ("sutavā bhikkhu", "a learned mendicant — this discourse's own starting term, replacing SN 22.122's \"ethical mendicant\""),
+        ("sīlavā bhikkhu", "an ethical mendicant — SN 22.122's parallel starting term for the same reflection"),
+        ("yoniso manasikāra", "rationally applying the mind — the identical cognitive act named in both discourses"),
+        ("vaḍḍhitaṁ", "developed, cultivated — describing the reflection's ongoing practice even at the arahant stage"),
+        ("diṭṭhadhammasukhavihāra", "blissful meditation in this life — one of the two benefits named for the arahant's continued reflection, shared with SN 22.122"),
+    ],
+    text_intro=("The complete discourse, mirroring SN 22.122's dialogue structure "
+        "with a different starting term and increasing compression toward "
+        "its close. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.123:1.1-1.2"),
+        ("p", "§2", "sn22.123:2.1-2.6"),
+        ("p", "§3", "sn22.123:3.1-3.5"),
+        ("p", "§4", "sn22.123:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What courtesy does this discourse add that SN 22.122 does not describe?",
+         "opts": [
+             "Mahākoṭṭhita bowing and sitting down to one side",
+             "A formal introduction of both speakers' names",
+             "An offering of food before the question is asked",
+             "A request for permission to speak"],
+         "correct": 0,
+         "expl": "A small addition of formal courtesy not present in the companion discourse."},
+        {"q": "What term does this discourse use for the first practitioner, in place of SN 22.122's \"ethical mendicant\"?",
+         "opts": [
+             "A learned mendicant (sutavā)",
+             "A wise mendicant",
+             "A senior mendicant",
+             "A devoted mendicant"],
+         "correct": 0,
+         "expl": "Sutavā replaces sīlavā, though the eleven-angled reflection given in answer remains identical."},
+        {"q": "Does the eleven-angled reflection formula differ between this discourse and SN 22.122?",
+         "opts": [
+             "No — it is identical in every particular",
+             "Yes — this discourse adds several new angles",
+             "Yes — this discourse gives only three angles instead of eleven",
+             "Yes — the order of the angles is reversed"],
+         "correct": 0,
+         "expl": "Only the starting term for the first practitioner changes, not the reflection itself."},
+        {"q": "What happens to this discourse's structure from the third round onward?",
+         "opts": [
+             "It becomes increasingly compressed, with rounds elided by ellipses",
+             "It becomes increasingly elaborate, with new details added",
+             "It stops entirely, leaving the dialogue unfinished",
+             "It shifts to a completely different topic"],
+         "correct": 0,
+         "expl": "An economy not used in SN 22.122, which spells out all five rounds in full."},
+        {"q": "What does the variation between \"ethical\" and \"learned\" as the starting term suggest?",
+         "opts": [
+             "The reflection is not tied to any single specific virtue as its precondition",
+             "Only ethical mendicants can ever benefit from this reflection",
+             "Learned mendicants require a completely different reflection",
+             "The two discourses describe entirely different teachings"],
+         "correct": 0,
+         "expl": "Whichever quality names the starting point, the same reflection and progression apply."},
+        {"q": "How many stages of practitioner does this discourse trace, as in SN 22.122?",
+         "opts": ["Five", "Three", "Four", "Two"],
+         "correct": 0,
+         "expl": "Learned mendicant, stream-enterer, once-returner, non-returner, and arahant."},
+        {"q": "What benefit is named for the arahant's continued reflection, shared with SN 22.122?",
+         "opts": [
+             "Blissful meditation in this life, mindfulness, and situational awareness",
+             "A guarantee of never being reborn again",
+             "Recognition from other senior monks",
+             "Freedom from all physical illness"],
+         "correct": 0,
+         "expl": "Identical to SN 22.122's own closing clarification."},
+        {"q": "What pattern elsewhere in this book does this discourse's growing compression resemble?",
+         "opts": [
+             "Later repetitions of an established structure being trusted to the reader's memory rather than spelled out afresh",
+             "A pattern found nowhere else in this book",
+             "The single-image similes of SN 22.93-102",
+             "The four-truths trio of SN 22.103-105"],
+         "correct": 0,
+         "expl": "Once a repeating structure has been clearly established, later instances compress."},
+        {"q": "What comes next in Dhammakathikavagga after this pair of discourses?",
+         "opts": [
+             "SN 22.124 and SN 22.125, both addressed to Venerable Kappa",
+             "SN 22.113, revisited",
+             "The start of the next vagga",
+             "A return to SN 22.117"],
+         "correct": 0,
+         "expl": "Closing the vagga with a different extended formula applied to \"I-making\" and \"mine-making.\""},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Varanasi, in the deer park at Isipatana",
+             "Sāvatthī, in Jeta's Grove",
+             "Rājagaha, on the Vulture's Peak",
+             "Kosambī, in Ghosita's Monastery"],
+         "correct": 0,
+         "expl": "Matching SN 22.122's own setting."},
+    ],
+    marginalia=[
+        ("A fuller courtesy, a different starting term", [
+            "bowing added, \"learned\" replacing \"ethical\" &mdash;",
+            "small variations around an identical core",
+        ]),
+        ("The same eleven angles, unchanged", [
+            "diseased, a boil, a dart, gloom, affliction &mdash;",
+            "whatever the starting virtue, the reflection stays constant",
+        ]),
+        ("Compression as the rounds proceed", [
+            "full statement, then increasing ellipsis &mdash;",
+            "trusting the reader to carry the established pattern forward",
+        ]),
+        ("Closing this vagga's dialogue pair", [
+            "Kappa's own two discourses to follow &mdash;",
+            "a different formula, the same underlying concern",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.123/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.122.html">SN 22.122 &middot; An Ethical '
+        "Mendicant</a> &mdash; the previous discourse, this discourse's "
+        "own close companion.",
+        '<a href="sn-22.124.html">SN 22.124 &middot; With Kappa</a> '
+        "&mdash; the next discourse, turning to a new questioner and a "
+        "new formula addressing \"I-making\" and \"mine-making.\"",
+    ],
+)
+
+page(22, 124, "Paṭhamakappa", "With Kappa",
+    vagga="Dhammakathikavagga",
+    meta_title="SN 22.124 · With Kappa — No I-Making, No Mine-Making",
+    meta_desc="Venerable Kappa asks how to know and see so that no "
+        "I-making or mine-making arises, for this body and for all "
+        "external signs — answered with the elevenfold scope formula. "
+        "Saṃyutta Nikāya 22.124, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Kappa questioning the Buddha directly"),
+        ("Form", "A single question and a single extended answer, applying the elevenfold scope formula"),
+        ("Length", "Medium — one sustained answer rather than a multi-round dialogue"),
+        ("Northern parallel", "The elevenfold scope formula (past, future, present; internal, external...) is used extensively elsewhere in this book, notably SN 22.48"),
+        ("Difficulty", "Moderate — the compound terms \"I-making\" and \"mine-making\" reward unpacking"),
+    ],
+    why=("Venerable Kappa, previously unmentioned in this book, asks a "
+        "precise question about eliminating not just self-view in "
+        "general but two specific mental activities — \"I-making\" and "
+        "\"mine-making\" — extending even to \"externally for all signs,\" "
+        "beyond the five aggregates themselves."),
+    guide=[
+        ("A precisely worded question", [
+            "\"How does one know and see so that there's no I-making, "
+            "mine-making, or underlying tendency to conceit for this "
+            "conscious body and externally for all signs?\" — naming "
+            "three distinct things to be free of (I-making, mine-making, "
+            "underlying tendency to conceit) and two distinct domains "
+            "(this body, and everything external).",
+            "The phrase \"externally for all signs\" extends the "
+            "question's scope beyond the five aggregates as usually "
+            "discussed in this book, to nimitta (\"signs\") generally — "
+            "any feature of experience, internal or external, that might "
+            "become an occasion for I-making or mine-making.",
+        ]),
+        ("The elevenfold scope formula, applied", [
+            "The Buddha's answer applies the familiar elevenfold formula "
+            "— \"past, future, or present; internal or external; solid "
+            "or subtle; inferior or superior; far or near\" — to "
+            "\"<em>all</em> form,\" then each remaining aggregate in "
+            "turn, each seen with the negated three-clause formula: "
+            "\"this is not mine, I am not this, this is not my self.\"",
+            "This is the same exhaustive-scope formula first "
+            "technically defined at SN 22.48 earlier in this book, here "
+            "put to direct practical use rather than being defined in "
+            "the abstract.",
+        ]),
+        ("Why the exhaustive scope answers Kappa's specific question", [
+            "Kappa's question named a comprehensive concern — no "
+            "I-making anywhere, for the body or externally — and the "
+            "Buddha's answer matches that comprehensiveness precisely: "
+            "the elevenfold formula leaves no gap (no time period, no "
+            "location, no degree of refinement, no relative status, no "
+            "distance) where I-making or mine-making could still take "
+            "root unexamined.",
+        ]),
+        ("Setting up its own companion, which goes further still", [
+            "This discourse answers \"how to know and see\" so that "
+            "I-making does not arise. Its companion, SN 22.125, will ask "
+            "a related but more advanced question — not merely how to "
+            "prevent I-making, but how the heart becomes fully \"rid of\" "
+            "it and \"peaceful and well freed,\" extending the identical "
+            "elevenfold formula to a fuller liberative conclusion.",
+        ]),
+    ],
+    terms=[
+        ("ahaṅkāra", "I-making — the active construction of a sense of \"I,\" one of the three things Kappa asks to be free of"),
+        ("mamaṅkāra", "mine-making — the parallel active construction of a sense of \"mine\""),
+        ("mānānusaya", "the underlying tendency to conceit — the third and most subtle of the three, a dormant disposition rather than an active construction"),
+        ("nimitta", "signs — the term extending Kappa's question beyond the aggregates themselves to any feature of experience, internal or external"),
+        ("saviññāṇaka kāya", "this conscious body — the internal domain named in Kappa's question, paired with the external \"signs\""),
+    ],
+    text_intro=("The complete discourse: Kappa's question, and the Buddha's "
+        "answer applying the elevenfold scope formula to each aggregate. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.124:1.1-1.3"),
+        ("p", "§2", "sn22.124:2.1-2.2"),
+        ("p", "§3", "sn22.124:2.3-2.6"),
+    ],
+    quiz=[
+        {"q": "Who asks the question in this discourse?",
+         "opts": [
+             "Venerable Kappa, previously unmentioned in this book",
+             "Venerable Sāriputta",
+             "Venerable Mahākoṭṭhita",
+             "An unnamed mendicant"],
+         "correct": 0,
+         "expl": "A new questioner introduced specifically for this discourse and its companion."},
+        {"q": "What three things does Kappa's question name as needing to be absent?",
+         "opts": [
+             "I-making, mine-making, and the underlying tendency to conceit",
+             "Fear, doubt, and pride",
+             "Craving, aversion, and confusion",
+             "Attraction, grasping, and mental fixation"],
+         "correct": 0,
+         "expl": "Two active constructions (I-making, mine-making) plus one dormant disposition (underlying tendency to conceit)."},
+        {"q": "What two domains does Kappa's question cover?",
+         "opts": [
+             "This conscious body, and externally for all signs",
+             "Only the five aggregates internally",
+             "Only external objects",
+             "Past lives and future lives"],
+         "correct": 0,
+         "expl": "Extending beyond the aggregates themselves to nimitta, any feature of experience."},
+        {"q": "What formula does the Buddha's answer apply?",
+         "opts": [
+             "The elevenfold scope formula: past, future, present; internal, external; solid, subtle; inferior, superior; far, near",
+             "The four noble truths",
+             "The gratification/drawback/escape triad",
+             "The fivefold understanding formula"],
+         "correct": 0,
+         "expl": "The same exhaustive-scope formula first technically defined at SN 22.48."},
+        {"q": "What specific formula does the Buddha pair with the elevenfold scope for each aggregate?",
+         "opts": [
+             "\"This is not mine, I am not this, this is not my self\"",
+             "\"This is mine, I am this, this is my self\"",
+             "\"This aggregate is permanent and unchanging\"",
+             "\"This aggregate should be avoided entirely\""],
+         "correct": 0,
+         "expl": "The negated three-clause formula, applied across the full elevenfold scope."},
+        {"q": "Why does the exhaustive elevenfold scope match Kappa's question specifically?",
+         "opts": [
+             "It leaves no gap — no time, location, refinement, status, or distance — where I-making could take root unexamined",
+             "It only applies to a single narrow category of experience",
+             "It contradicts the comprehensiveness of Kappa's question",
+             "It has no particular relevance to this question"],
+         "correct": 0,
+         "expl": "Matching the comprehensiveness of Kappa's own comprehensive concern."},
+        {"q": "Where was the elevenfold scope formula first technically defined earlier in this book?",
+         "opts": ["SN 22.48", "SN 22.93", "SN 22.117", "SN 22.1"],
+         "correct": 0,
+         "expl": "This discourse puts that earlier definition to direct practical use."},
+        {"q": "What does this discourse's companion, SN 22.125, ask about that goes further?",
+         "opts": [
+             "How the heart becomes fully \"rid of\" I-making and \"peaceful and well freed\"",
+             "An entirely unrelated topic",
+             "A question about a different set of aggregates",
+             "A simpler, less comprehensive version of the same question"],
+         "correct": 0,
+         "expl": "Extending the identical elevenfold formula to a fuller liberative conclusion."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Varanasi", "Rājagaha", "Vesālī"],
+         "correct": 0,
+         "expl": "Returning to Sāvatthī after SN 22.122-123's setting at Isipatana."},
+        {"q": "What does \"mamaṅkāra\" (mine-making) specifically refer to?",
+         "opts": [
+             "The active construction of a sense of \"mine\"",
+             "A physical possession one owns",
+             "A synonym for craving with no distinct meaning",
+             "A meditative technique for renunciation"],
+         "correct": 0,
+         "expl": "Paired with ahaṅkāra (\"I-making\") as two parallel active mental constructions."},
+    ],
+    marginalia=[
+        ("A precise, comprehensive question", [
+            "I-making, mine-making, and conceit's underlying trace &mdash;",
+            "for the body, and for everything external besides",
+        ]),
+        ("Eleven angles, leaving no gap", [
+            "past, future, present; near, far; solid, subtle &mdash;",
+            "no scale or distance left unexamined",
+        ]),
+        ("The same formula first defined at SN 22.48", [
+            "now put to direct practical use &mdash;",
+            "exhaustive scope answering an exhaustive question",
+        ]),
+        ("A companion that goes further still", [
+            "prevention here, full freedom to come &mdash;",
+            "SN 22.125 extends this formula to its liberative conclusion",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.124/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.123.html">SN 22.123 &middot; Learned</a> '
+        "&mdash; the previous discourse, closing the Sāriputta-Koṭṭhita "
+        "dialogue pair.",
+        '<a href="sn-22.125.html">SN 22.125 &middot; With Kappa '
+        "(2nd)</a> &mdash; the next and closing discourse of this "
+        "vagga, this discourse's own direct companion.",
+    ],
+)
+
+page(22, 125, "Dutiyakappa", "With Kappa (2nd)",
+    vagga="Dhammakathikavagga",
+    meta_title="SN 22.125 · With Kappa (2nd) — Peaceful and Well Freed",
+    meta_desc="Kappa's second question goes further: not merely "
+        "preventing I-making, but the heart going beyond discrimination "
+        "to become peaceful and well freed — closing Dhammakathikavagga. "
+        "Saṃyutta Nikāya 22.125, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Kappa questioning the Buddha directly"),
+        ("Form", "The same elevenfold formula as SN 22.124, now answering a more advanced question"),
+        ("Length", "Medium — matching SN 22.124's own length and structure"),
+        ("Northern parallel", "Shares its structure with SN 22.124; the \"peaceful and well freed\" language recurs at SN 22.72 earlier in this book"),
+        ("Difficulty", "Moderate — best read directly after SN 22.124"),
+    ],
+    why=("Closes Dhammakathikavagga with Kappa's second, more advanced "
+        "question: not merely how to prevent I-making and mine-making "
+        "from arising, but how the heart becomes fully rid of them and "
+        "reaches a state \"peaceful and well freed\" — language that "
+        "recalls SN 22.72's own closing description earlier in this "
+        "book."),
+    guide=[
+        ("A question that goes further than its companion", [
+            "\"How does one know and see so that the heart is rid of "
+            "I-making, mine-making, and conceit... and going beyond "
+            "discrimination, it's peaceful and well freed?\" — where SN "
+            "22.124 asked how to prevent these things from arising, this "
+            "discourse asks how the heart is actively freed of them and "
+            "reaches a settled, peaceful condition.",
+            "\"Going beyond discrimination\" (vidhāsamatikkanta) recalls "
+            "SN 22.49 earlier in this book, where the comparing conceits "
+            "— \"better than,\" \"equal to,\" \"worse than\" — were "
+            "analyzed at length; this discourse's closing phrase gathers "
+            "that entire earlier analysis into a single compressed term.",
+        ]),
+        ("The same formula, now marked as liberation rather than prevention", [
+            "The Buddha's answer applies the identical elevenfold scope "
+            "formula as SN 22.124, but this time explicitly \"freed by "
+            "not grasping having truly seen\" — anupādā vimutto — rather "
+            "than simply \"truly sees,\" marking the outcome as "
+            "accomplished liberation rather than an ongoing practice of "
+            "prevention.",
+            "This small but precise verbal shift — from \"one truly "
+            "sees\" (SN 22.124) to \"one is freed by not grasping having "
+            "truly seen\" (SN 22.125) — carries the entire difference "
+            "between the two discourses' questions in a single "
+            "grammatical change.",
+        ]),
+        ("\"Peaceful and well freed\" as a closing formula", [
+            "\"Santaṁ... suvimuttaṁ\" (\"peaceful... well freed\") "
+            "echoes the exact language closing SN 22.72 (With Surādha) "
+            "earlier in this book — the same descriptive pair marking a "
+            "discourse's own arrival at full liberation, now reused here "
+            "to close Dhammakathikavagga on an identical note.",
+        ]),
+        ("Closing Dhammakathikavagga", [
+            "With Kappa's two questions complete, Dhammakathikavagga "
+            "ends without any explicit colophon in the source text, "
+            "having moved across its thirteen discourses from a basic "
+            "definitional question (ignorance and knowledge) through "
+            "titles, bondage, direct questioning, precise technical "
+            "distinctions, and an extended five-stage dialogue, to "
+            "close on this compressed, liberative formula — Uparipaṇṇāsaka's "
+            "second vagga complete, with Avijjāvagga to follow.",
+        ]),
+    ],
+    terms=[
+        ("vidhāsamatikkanta", "going beyond discrimination — recalling SN 22.49's earlier analysis of the comparing conceits, compressed here into a single term"),
+        ("anupādā vimutto", "freed by not grasping — the precise verbal marker distinguishing this discourse's accomplished liberation from SN 22.124's ongoing seeing"),
+        ("santa", "peaceful — the first half of this discourse's closing descriptive pair"),
+        ("suvimutta", "well freed — the second half, echoing SN 22.72's own closing language earlier in this book"),
+        ("mānānusaya", "the underlying tendency to conceit — carried over from SN 22.124's own question, now addressed by full liberation rather than mere prevention"),
+    ],
+    text_intro=("The complete discourse: Kappa's more advanced question, and the "
+        "Buddha's answer marking accomplished liberation through the same "
+        "elevenfold formula. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.125:1.1-1.3"),
+        ("p", "§2", "sn22.125:2.1-2.2"),
+        ("p", "§3", "sn22.125:2.3-2.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's question differ from SN 22.124's?",
+         "opts": [
+             "It asks how the heart becomes rid of I-making and mine-making and reaches \"peaceful and well freed,\" not merely how to prevent them",
+             "It asks about an entirely unrelated topic",
+             "It is a simpler, less advanced version of the same question",
+             "It is addressed to a different questioner entirely"],
+         "correct": 0,
+         "expl": "Moving from prevention to accomplished liberation."},
+        {"q": "What phrase in this discourse recalls SN 22.49 earlier in this book?",
+         "opts": [
+             "\"Going beyond discrimination\" (vidhāsamatikkanta)",
+             "\"The five grasping aggregates\"",
+             "\"Rationally applying the mind\"",
+             "\"The near shore and the far shore\""],
+         "correct": 0,
+         "expl": "Recalling SN 22.49's earlier analysis of the comparing conceits, compressed into a single term."},
+        {"q": "What grammatical shift distinguishes this discourse's answer from SN 22.124's?",
+         "opts": [
+             "\"Freed by not grasping having truly seen\" replaces the simpler \"one truly sees\"",
+             "The elevenfold formula is entirely replaced with a new formula",
+             "The negated three-clause formula is dropped entirely",
+             "No difference exists between the two answers"],
+         "correct": 0,
+         "expl": "A single grammatical change marking accomplished liberation rather than ongoing practice."},
+        {"q": "What earlier discourse does this discourse's closing \"peaceful and well freed\" echo?",
+         "opts": [
+             "SN 22.72, With Surādha",
+             "SN 22.93, A River",
+             "SN 22.1, Nakula's Father",
+             "SN 22.117, Shackles"],
+         "correct": 0,
+         "expl": "The identical descriptive pair marking full liberation in both discourses."},
+        {"q": "What formula does the Buddha's answer apply, as in SN 22.124?",
+         "opts": [
+             "The elevenfold scope formula",
+             "The four noble truths",
+             "The gratification/drawback/escape triad",
+             "A brand-new formula not used in SN 22.124"],
+         "correct": 0,
+         "expl": "The identical exhaustive-scope formula, now marking liberation rather than prevention."},
+        {"q": "How does Dhammakathikavagga close, according to the source text?",
+         "opts": [
+             "Without any explicit colophon, ending on this compressed liberative formula",
+             "With a lengthy summary verse naming all thirteen discourses",
+             "With an explicit statement naming the next vagga",
+             "With a dialogue between the Buddha and Sāriputta"],
+         "correct": 0,
+         "expl": "No closing formula appears in the source text for this vagga."},
+        {"q": "What vagga follows Dhammakathikavagga in Uparipaṇṇāsaka?",
+         "opts": ["Avijjāvagga", "Antavagga", "Pupphavagga", "Theravagga"],
+         "correct": 0,
+         "expl": "The third of Uparipaṇṇāsaka's five vaggas."},
+        {"q": "How many discourses does Dhammakathikavagga contain in total?",
+         "opts": ["Thirteen", "Ten", "Twelve", "Fifteen"],
+         "correct": 0,
+         "expl": "SN 22.113 through SN 22.125, one more than the standard ten-discourse vagga."},
+        {"q": "What does \"anupādā vimutto\" specifically mean?",
+         "opts": [
+             "Freed by not grasping",
+             "Bound by continued attachment",
+             "Uncertain about one's own liberation",
+             "A synonym for stream-entry alone"],
+         "correct": 0,
+         "expl": "Marking this discourse's answer as accomplished liberation rather than an ongoing practice."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Varanasi", "Rājagaha", "Vesālī"],
+         "correct": 0,
+         "expl": "Matching SN 22.124's own setting."},
+    ],
+    marginalia=[
+        ("Beyond preventing, into full liberation", [
+            "the heart rid of I-making entirely &mdash;",
+            "peaceful and well freed, going beyond discrimination",
+        ]),
+        ("A single grammatical shift, carrying the whole difference", [
+            "\"truly sees\" becomes \"freed by not grasping, having seen\" &mdash;",
+            "prevention become accomplished liberation",
+        ]),
+        ("An echo from earlier in the book", [
+            "\"peaceful... well freed\" &mdash;",
+            "the same closing pair as SN 22.72's own ending",
+        ]),
+        ("Closing Dhammakathikavagga", [
+            "thirteen discourses, no explicit colophon &mdash;",
+            "Avijjāvagga next, Uparipaṇṇāsaka's third vagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.125/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.124.html">SN 22.124 &middot; With Kappa</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "companion and the source of this same elevenfold formula.",
+        '<a href="sn-22.113.html">SN 22.113 &middot; Ignorance</a> '
+        "&mdash; this vagga's own opening discourse, whose fourfold "
+        "definition this closing discourse's liberation ultimately "
+        "fulfills.",
+    ],
+)
