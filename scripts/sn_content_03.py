@@ -33003,3 +33003,1735 @@ page(22, 159, "Ānanda", "With Ānanda",
         "complete end.",
     ],
 )
+
+page(23, 1, "Māra", "About Māra",
+    vagga="Māravagga",
+    meta_title="SN 23.1 · About Māra — The Aggregates as Murderer and Murdered",
+    meta_desc="Rādha opens his own saṃyutta: each aggregate seen as "
+        "Māra, the murderer, the murdered — and a chain of purposes "
+        "ending in the famous exchange where the Buddha names "
+        "extinguishment as beyond further questioning. Saṃyutta Nikāya "
+        "23.1, opening Rādhasaṃyutta, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha questioning the Buddha"),
+        ("Form", "A definitional question, then a chain of five further questions probing purpose"),
+        ("Length", "Medium — the longest single exchange in this vagga's opening set"),
+        ("Northern parallel", "The chain of \"what is the purpose of X\" questions terminating in \"your question goes too far\" recurs at other points in the Canon where a disciple probes the limits of legitimate inquiry"),
+        ("Difficulty", "Moderate — the closing exchange rewards careful attention to what kind of question is being refused, and why"),
+    ],
+    why=("Opens an entirely new saṃyutta built around a single "
+        "disciple: Venerable Rādha, whose exchanges with the Buddha "
+        "make up all forty-six discourses of Rādhasaṃyutta. This "
+        "opening discourse asks what Māra is, receives a stark answer "
+        "(the aggregates themselves, as murderer and murdered), then "
+        "pushes the Buddha through a five-step chain of purposes until "
+        "reaching the point where the questioning itself must stop."),
+    guide=[
+        ("A new saṃyutta, a new central figure", [
+            "\"Then Venerable Rādha went up to the Buddha, bowed, sat "
+            "down to one side, and said to him...\" — introducing the "
+            "figure whose exchanges with the Buddha structure this "
+            "entire saṃyutta, already prepared for by this book's own "
+            "earlier discourses: Rādha appeared at SN 22.71/72 "
+            "(Arahantavagga's own closing pair) and again at SN 22.91/92 "
+            "(Theravagga's exact structural echo of that same pair).",
+        ]),
+        ("Māra as the aggregates themselves", [
+            "\"When there is form, Rādha, there would be Māra, or the "
+            "murderer, or the murdered\" — an unusually direct and "
+            "unsettling answer: not that Māra threatens the aggregates "
+            "from outside, but that the aggregates themselves, viewed "
+            "rightly, ARE Māra — simultaneously the killer and the "
+            "killed, since an aggregate both destroys (through change) "
+            "and is destroyed (by that same change).",
+            "The full descriptive list — \"the diseased, the boil, the "
+            "dart, the gloom, the gloominess\" — recalls the visceral "
+            "eleven-angled reflection already used at SN 22.122 earlier "
+            "in this book, applying similarly embodied imagery here to "
+            "just one aggregate's relationship to Māra.",
+        ]),
+        ("A chain of purposes, pressed to its limit", [
+            "Rādha then presses further: what is the purpose of seeing "
+            "rightly? Disillusionment. Of disillusionment? Dispassion. "
+            "Of dispassion? Freedom. Of freedom? Extinguishment. Of "
+            "extinguishment? — and here the Buddha stops him: \"your "
+            "question goes too far, Rādha. You weren't able to grasp "
+            "the limit of questioning. For extinguishment is the "
+            "objective, destination, and culmination of the spiritual "
+            "life.\"",
+            "This closing exchange marks nibbāna not merely as a very "
+            "important goal among others, but as the terminus of the "
+            "\"what is this for\" question itself — asking what "
+            "extinguishment is FOR treats it as a means to some further "
+            "end, which mistakes its actual status as the chain's own "
+            "final link.",
+        ]),
+        ("Setting the tone for Rādha's own saṃyutta", [
+            "This opening discourse's combination of a stark, "
+            "unflinching image (Māra as the aggregates) and a "
+            "philosophically probing exchange (pressing purpose to its "
+            "logical limit) establishes Rādha as an unusually persistent "
+            "questioner — a character trait this saṃyutta's remaining "
+            "forty-five discourses will continue to display in "
+            "different forms.",
+        ]),
+    ],
+    terms=[
+        ("Māra", "the personification of death and temptation in Buddhist cosmology — here identified directly with the aggregates themselves"),
+        ("vadhaka/vajjha", "the murderer / the murdered — the paired roles this discourse assigns to each aggregate simultaneously"),
+        ("nibbidā/virāga/vimutti/nibbāna", "disillusionment / dispassion / freedom / extinguishment — the five-step chain of purposes Rādha presses through"),
+        ("accayāsi", "\"[your question] goes too far\" — the Buddha's precise phrase marking the limit of legitimate questioning"),
+        ("nibbānogadhañhi... brahmacariyaṁ", "\"extinguishment is the objective, destination, and culmination of the spiritual life\" — the discourse's own closing formula, echoed at other points across the Canon"),
+    ],
+    text_intro=("The complete discourse: the question about Māra, the Buddha's "
+        "answer, and the chain of purposes pressed to its limit. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.1:1.1-1.2"),
+        ("p", "§2", "sn23.1:2.1-2.5"),
+        ("p", "§3", "sn23.1:2.6-2.11"),
+        ("p", "§4", "sn23.1:3.1-3.11"),
+    ],
+    quiz=[
+        {"q": "Who is the figure whose exchanges with the Buddha structure this entire saṃyutta?",
+         "opts": ["Venerable Rādha", "Venerable Sāriputta", "Venerable Ānanda", "Venerable Mahākoṭṭhita"],
+         "correct": 0,
+         "expl": "Already prepared for by his appearances at SN 22.71/72 and SN 22.91/92 earlier in this book."},
+        {"q": "How does the Buddha answer Rādha's question about what Māra is?",
+         "opts": [
+             "The aggregates themselves are Māra, simultaneously the murderer and the murdered",
+             "Māra is an external demon unrelated to the aggregates",
+             "Māra does not actually exist",
+             "Māra is a specific historical king"],
+         "correct": 0,
+         "expl": "An unusually direct and unsettling identification."},
+        {"q": "Why can an aggregate be both murderer and murdered at once?",
+         "opts": [
+             "It both destroys through change and is destroyed by that same change",
+             "It murders only external enemies",
+             "It is murdered but never murders",
+             "The text does not explain this dual role"],
+         "correct": 0,
+         "expl": "A single process viewed from two angles at once."},
+        {"q": "What chain of purposes does Rādha press the Buddha through?",
+         "opts": [
+             "Seeing rightly → disillusionment → dispassion → freedom → extinguishment",
+             "Birth → aging → sickness → death → rebirth",
+             "Ethics → immersion → wisdom → liberation → knowledge",
+             "Craving → grasping → becoming → birth → suffering"],
+         "correct": 0,
+         "expl": "Five steps, each asked for in turn as the purpose of the one before it."},
+        {"q": "What does the Buddha say when Rādha asks the purpose of extinguishment itself?",
+         "opts": [
+             "\"Your question goes too far... extinguishment is the objective, destination, and culmination of the spiritual life\"",
+             "He gives a sixth step in the chain",
+             "He refuses to answer at all, in silence",
+             "He says extinguishment has no purpose whatsoever"],
+         "correct": 0,
+         "expl": "Marking nibbāna as the chain's own terminus, not a means to some further end."},
+        {"q": "Why does asking \"what is extinguishment for\" mistake its actual status?",
+         "opts": [
+             "It treats extinguishment as a means to a further end, when it is itself the final destination",
+             "Extinguishment is actually just one step among many further ones",
+             "The question is grammatically malformed",
+             "Extinguishment does not relate to purpose at all"],
+         "correct": 0,
+         "expl": "The question itself reveals a misunderstanding of what extinguishment is."},
+        {"q": "What earlier discourse in this book does the visceral list \"diseased, boil, dart, gloom\" recall?",
+         "opts": [
+             "SN 22.122's eleven-angled reflection",
+             "SN 22.93's river simile",
+             "SN 22.117's shackle metaphor",
+             "SN 22.1's opening discourse"],
+         "correct": 0,
+         "expl": "Applying similarly embodied imagery to one aggregate's relationship to Māra."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Continuing the setting shared by much of this book."},
+        {"q": "What character trait does this opening discourse establish for Rādha?",
+         "opts": [
+             "An unusually persistent questioner, pressing purpose to its logical limit",
+             "A hesitant, reluctant speaker who rarely asks questions",
+             "A skeptic who doubts the Buddha's teaching",
+             "A silent observer who never speaks"],
+         "correct": 0,
+         "expl": "A trait this saṃyutta's remaining forty-five discourses will continue to display."},
+        {"q": "How many aggregates does the Māra-identification apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, each identified with Māra in turn."},
+    ],
+    marginalia=[
+        ("A new saṃyutta, a new central figure", [
+            "Rādha, prepared for at SN 22.71/72 and 91/92 &mdash;",
+            "now the questioner across all forty-six discourses",
+        ]),
+        ("Murderer and murdered, at once", [
+            "not Māra attacking from outside &mdash;",
+            "the aggregate itself, both destroying and destroyed",
+        ]),
+        ("Five steps, pressed to their own limit", [
+            "seeing rightly to disillusionment to dispassion to freedom to extinguishment &mdash;",
+            "then the question that cannot go further",
+        ]),
+        ("The terminus, not one more step", [
+            "\"your question goes too far\" &mdash;",
+            "extinguishment as destination, not as means",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.159.html">SN 22.159 &middot; With Ānanda</a> '
+        "&mdash; the previous discourse, closing SN22 entirely.",
+        '<a href="sn-23.2.html">SN 23.2 &middot; Sentient Beings</a> '
+        "&mdash; the next discourse, using the sandcastle simile to "
+        "answer a parallel definitional question.",
+    ],
+)
+
+page(23, 2, "Satta", "Sentient Beings",
+    vagga="Māravagga",
+    meta_title="SN 23.2 · Sentient Beings — The Sandcastle Simile",
+    meta_desc="What defines a 'sentient being'? Clinging to the "
+        "aggregates — illustrated by children destroying their own "
+        "sandcastles once they lose interest in them. Saṃyutta Nikāya "
+        "23.2, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha questioning the Buddha"),
+        ("Form", "A definitional question and answer, followed by an extended simile"),
+        ("Length", "Medium — the simile given in full detail"),
+        ("Northern parallel", "The sandcastle (paṁsuvela) image for childish attachment and its dismantling is distinctive to this discourse"),
+        ("Difficulty", "Approachable — a vivid, accessible image"),
+    ],
+    why=("Rādha's second question probes another basic term: what makes "
+        "someone a \"sentient being\" (satta) at all? The Buddha's "
+        "answer — clinging to the aggregates — is then illustrated with "
+        "one of this book's most charming and precise images: children "
+        "playing with sandcastles, who treasure them only until they "
+        "lose interest, then smash them without a second thought."),
+    guide=[
+        ("A being defined by clinging, not by mere existence", [
+            "\"When you cling, strongly cling, to desire, greed, "
+            "relishing, and craving for form... then a being is spoken "
+            "of\" — sattā, \"sentient being,\" turns out on this account "
+            "to name not a metaphysical category but a relationship: "
+            "specifically, the relationship of strong clinging to the "
+            "aggregates.",
+            "This definitional move parallels SN 22.155's own tracing of "
+            "sakkāyadiṭṭhi to grasping-and-insisting — here applied to "
+            "an even more basic term, \"being\" itself.",
+        ]),
+        ("The sandcastle simile", [
+            "\"Suppose some boys or girls were playing with sandcastles. "
+            "As long as they're not rid of greed, desire, fondness, "
+            "thirst, passion, and craving for those sandcastles, they "
+            "cling to them, dally with them, treasure them, and treat "
+            "them as their own\" — a scene any reader would recognize "
+            "immediately, giving abstract clinging a concrete, "
+            "everyday face.",
+            "\"But when they are rid of greed, desire, fondness, thirst, "
+            "passion, and craving for those sandcastles, they scatter, "
+            "smash, and destroy them with their hands and feet, making "
+            "them unplayable\" — the same children, once their interest "
+            "fades, casually destroy what they had just treasured, with "
+            "no ceremony or regret.",
+        ]),
+        ("The instruction that follows from the image", [
+            "\"In the same way, you should scatter, smash, and destroy "
+            "form, making it unplayable. And you should practice for the "
+            "ending of craving\" — the instruction is not to grieve over "
+            "or fear the aggregates, but to treat them exactly as a "
+            "child treats a sandcastle no longer wanted: dismantled "
+            "without drama, because the craving that made them precious "
+            "has itself ended.",
+        ]),
+        ("A closing definition of extinguishment", [
+            "\"For the ending of craving is extinguishment\" — a direct, "
+            "compact restatement of SN 23.1's own closing point (that "
+            "extinguishment is the chain's final destination), now given "
+            "as a definition in its own right rather than reached "
+            "through a chain of questions.",
+        ]),
+    ],
+    terms=[
+        ("satta", "a sentient being — the term this discourse defines, giving it its title"),
+        ("upādiyati ajjhosati", "clings, strongly clings — the specific relationship this discourse identifies as what makes something a \"being\""),
+        ("paṁsuvela", "a sandcastle — literally sand-heap, the image at the heart of this discourse's simile"),
+        ("vikirati vidhamati viddhaṁseti", "scatters, smashes, destroys — the three verbs describing both the children's dismantling of the sandcastle and the practice this discourse recommends"),
+        ("taṇhakkhayo nibbānaṁ", "\"the ending of craving is extinguishment\" — this discourse's own closing definition"),
+    ],
+    text_intro=("The complete discourse: the definitional question and answer, "
+        "and the sandcastle simile in full. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.2:1.1-1.4"),
+        ("p", "§2", "sn23.2:1.5-1.9"),
+        ("p", "§3", "sn23.2:2.1-2.4"),
+        ("p", "§4", "sn23.2:2.5-2.9"),
+    ],
+    quiz=[
+        {"q": "What question does Rādha ask in this discourse?",
+         "opts": [
+             "How is a sentient being defined?",
+             "What is Māra?",
+             "What is the leash to existence?",
+             "How does one become an arahant?"],
+         "correct": 0,
+         "expl": "Rādha's second definitional question in this vagga."},
+        {"q": "According to the Buddha's answer, what makes someone a \"sentient being\"?",
+         "opts": [
+             "Clinging, strongly clinging, to desire, greed, relishing, and craving for the aggregates",
+             "Simply being born into a physical body",
+             "Having a name and identity",
+             "Possessing consciousness alone, regardless of clinging"],
+         "correct": 0,
+         "expl": "A relationship of clinging, not a metaphysical category."},
+        {"q": "What do the children in the simile do with their sandcastles while still attached to them?",
+         "opts": [
+             "Cling to them, dally with them, treasure them, and treat them as their own",
+             "Ignore them completely",
+             "Immediately destroy them",
+             "Give them away to other children"],
+         "correct": 0,
+         "expl": "The same language used for clinging to the aggregates."},
+        {"q": "What do the children do once they are rid of craving for the sandcastles?",
+         "opts": [
+             "Scatter, smash, and destroy them, making them unplayable",
+             "Build them even larger",
+             "Continue playing with them exactly as before",
+             "Sell them to other children"],
+         "correct": 0,
+         "expl": "Casual destruction with no ceremony, once interest has faded."},
+        {"q": "What instruction does the Buddha draw from this simile?",
+         "opts": [
+             "Scatter, smash, and destroy the aggregates in the same way, and practice for the ending of craving",
+             "Protect the aggregates carefully at all times",
+             "Avoid ever thinking about the aggregates",
+             "Build a permanent relationship with the aggregates"],
+         "correct": 0,
+         "expl": "Treating the aggregates exactly as a child treats an unwanted sandcastle."},
+        {"q": "What does this discourse define extinguishment as?",
+         "opts": [
+             "The ending of craving",
+             "A specific place one travels to",
+             "The end of physical life alone",
+             "A ritual performed by senior monks"],
+         "correct": 0,
+         "expl": "A direct restatement of SN 23.1's own closing point about extinguishment."},
+        {"q": "How does this discourse's definitional method compare to SN 22.155's earlier treatment of sakkāyadiṭṭhi?",
+         "opts": [
+             "Both trace a term back to grasping, though this discourse applies the method to an even more basic term, \"being\" itself",
+             "The two discourses use entirely unrelated methods",
+             "This discourse contradicts SN 22.155's approach",
+             "Only SN 22.155 involves the aggregates at all"],
+         "correct": 0,
+         "expl": "The same underlying move, now applied to a foundational concept."},
+        {"q": "What tone does the sandcastle simile give to the instruction about the aggregates?",
+         "opts": [
+             "Casual and undramatic, rather than fearful or grieving",
+             "Solemn and ceremonial",
+             "Violent and aggressive",
+             "Reluctant and hesitant"],
+         "correct": 0,
+         "expl": "The instruction is not to grieve over the aggregates but to dismantle them without drama."},
+        {"q": "How many aggregates does this simile's instruction apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, each addressed in turn."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.1's own setting."},
+    ],
+    marginalia=[
+        ("A being defined by clinging, not by existence", [
+            "sattā, traced to the same grasping mechanism &mdash;",
+            "applied here to the most basic term of all",
+        ]),
+        ("A sandcastle, treasured then abandoned", [
+            "clung to, dallied with, treated as one's own &mdash;",
+            "then smashed without ceremony once craving fades",
+        ]),
+        ("Dismantling without drama", [
+            "not grief, not fear, simply letting go &mdash;",
+            "the aggregates treated exactly the same way",
+        ]),
+        ("A compact definition of the goal itself", [
+            "\"the ending of craving is extinguishment\" &mdash;",
+            "restating SN 23.1's closing point directly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.1.html">SN 23.1 &middot; About Māra</a> '
+        "&mdash; the previous discourse, this vagga's own opening.",
+        '<a href="sn-23.3.html">SN 23.3 &middot; The Leash to '
+        "Existence</a> &mdash; the next discourse, using the nine-term "
+        "list already familiar from SN 22.112.",
+    ],
+)
+
+page(23, 3, "Bhavanetti", "The Leash to Existence",
+    vagga="Māravagga",
+    meta_title="SN 23.3 · The Leash to Existence — The Same Nine Terms, Named Together",
+    meta_desc="What binds one to existence, and what ends that binding "
+        "— defined using the nine-term list already given to Rādha's "
+        "own account of desire and greed. Saṃyutta Nikāya 23.3, with "
+        "Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha questioning the Buddha"),
+        ("Form", "A definitional question and answer, given in full for both halves of the aggregate list"),
+        ("Length", "Short — a single compact definition, repeated"),
+        ("Northern parallel", "Bhavanetti, \"the leash to existence,\" is a distinctive technical term; the nine-term list defining it was already given in full at SN 22.112"),
+        ("Difficulty", "Moderate — recognizing the reused nine-term list rewards familiarity with SN 22.112"),
+    ],
+    why=("A third definitional question from Rādha, now about "
+        "\"the leash to existence\" (bhavanetti) and its cessation — "
+        "answered with the identical nine-term list of attachment-modes "
+        "already given in full at SN 22.112, confirming that this "
+        "technical vocabulary travels intact between saṃyuttas, not "
+        "just within Khandhavagga's own earlier vaggas."),
+    guide=[
+        ("A new term, a familiar answer", [
+            "\"What is the leash to existence? And what is the "
+            "cessation of the leash to existence?\" — bhavanetti, "
+            "literally something like \"the guide-rope to becoming,\" "
+            "names whatever keeps a mind tethered to further existence.",
+        ]),
+        ("The identical nine-term list from SN 22.112", [
+            "\"Any desire, greed, relishing, and craving for form; and "
+            "any attraction, grasping, mental fixation, insistence, and "
+            "underlying tendencies — this is called the leash to "
+            "existence\" — the exact same nine terms already given in "
+            "full at SN 22.112, closing Antavagga much earlier in this "
+            "book, now reused verbatim to define a new technical term "
+            "in an entirely different saṃyutta.",
+        ]),
+        ("Cessation named as simply the list's own ending", [
+            "\"Their cessation is the cessation of the leash to "
+            "existence\" — a maximally economical definition: whatever "
+            "ends when these nine modes of attachment end is, by "
+            "definition, the cessation of what binds one to existence.",
+        ]),
+        ("What this reuse confirms about the collection's vocabulary", [
+            "That SN 22.112's own nine-term list reappears here, "
+            "unchanged, to define a term (bhavanetti) that discourse "
+            "never itself used, demonstrates this vocabulary functions "
+            "as a genuinely portable technical toolkit — established "
+            "once, then available to define whatever new concept needs "
+            "the same underlying analysis, across saṃyutta boundaries "
+            "as readily as within a single vagga.",
+        ]),
+    ],
+    terms=[
+        ("bhavanetti", "the leash to existence — the term this discourse defines, giving it its title"),
+        ("chanda/rāga/nandī/taṇhā", "desire / greed / relishing / craving — the first four of the nine terms, shared with SN 22.111"),
+        ("upāya/upādāna/cetaso adhiṭṭhāna/abhinivesa/anusaya", "attraction / grasping / mental fixation / insistence / underlying tendencies — the remaining five terms, shared with SN 22.112"),
+        ("nirodha", "cessation — defined here simply as the ending of the nine-term list"),
+        ("bhava", "existence, becoming — what the leash tethers a mind to"),
+    ],
+    text_intro=("The complete discourse: the question about the leash to "
+        "existence, answered with the same nine-term list already given "
+        "at SN 22.112. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.3:1.1-1.4"),
+        ("p", "§2", "sn23.3:1.5-1.7"),
+        ("p", "§3", "sn23.3:1.8-1.13"),
+    ],
+    quiz=[
+        {"q": "What term does Rādha ask about in this discourse?",
+         "opts": [
+             "\"The leash to existence\" (bhavanetti) and its cessation",
+             "What Māra is",
+             "How a sentient being is defined",
+             "What an arahant is"],
+         "correct": 0,
+         "expl": "Rādha's third definitional question in this vagga."},
+        {"q": "What list does the Buddha use to define the leash to existence?",
+         "opts": [
+             "The identical nine-term list already given in full at SN 22.112",
+             "A completely new list not seen elsewhere in this book",
+             "The three-mark formula (impermanent, suffering, not-self)",
+             "The four noble truths"],
+         "correct": 0,
+         "expl": "Desire, greed, relishing, craving, attraction, grasping, mental fixation, insistence, and underlying tendencies."},
+        {"q": "How is the cessation of the leash to existence defined?",
+         "opts": [
+             "Simply as the ending of the same nine-term list",
+             "As an entirely separate process unrelated to the list",
+             "As a specific ritual practice",
+             "The discourse leaves cessation undefined"],
+         "correct": 0,
+         "expl": "A maximally economical definition tied directly to the list's own ending."},
+        {"q": "Where was this nine-term list first given in full earlier in this book?",
+         "opts": [
+             "SN 22.112, closing Antavagga",
+             "SN 22.1, the opening discourse",
+             "SN 22.93-95, the similes for the aggregates",
+             "Only in this single discourse"],
+         "correct": 0,
+         "expl": "Reused verbatim here in an entirely different saṃyutta."},
+        {"q": "What does this reuse demonstrate about the collection's technical vocabulary?",
+         "opts": [
+             "It functions as a portable toolkit, available across saṃyutta boundaries, not confined to a single vagga",
+             "The vocabulary is inconsistent between different saṃyuttas",
+             "SN 22.112 and this discourse actually contradict each other",
+             "The nine-term list only applies within Khandhavagga proper"],
+         "correct": 0,
+         "expl": "Established once, then reused to define a new term in a new context."},
+        {"q": "What does bhavanetti literally suggest?",
+         "opts": [
+             "Something like \"the guide-rope to becoming\" — whatever keeps a mind tethered to further existence",
+             "A specific location in the afterlife",
+             "A synonym for the five aggregates themselves",
+             "A ritual object used in ceremonies"],
+         "correct": 0,
+         "expl": "Naming the binding force that ties a mind to continued existence."},
+        {"q": "How many aggregates does this definition apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, each given the same nine-term analysis."},
+        {"q": "What discourse in this vagga does this discourse's definitional method resemble?",
+         "opts": [
+             "SN 23.1 and SN 23.2, both defining basic terms in response to Rādha's questions",
+             "No other discourse in this vagga shares this pattern",
+             "Only discourses much later in this saṃyutta",
+             "SN 22.1, the very first discourse of this book"],
+         "correct": 0,
+         "expl": "Continuing this vagga's pattern of Rādha asking what a term means."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.1-2's own setting."},
+        {"q": "What comes next in Māravagga after this discourse?",
+         "opts": [
+             "SN 23.4, on what should be completely understood",
+             "SN 23.11, opening the next vagga",
+             "A return to SN 23.1",
+             "The start of a new saṃyutta"],
+         "correct": 0,
+         "expl": "Continuing this vagga's own sequence of discourses to Rādha."},
+    ],
+    marginalia=[
+        ("A new term, an established list", [
+            "bhavanetti, defined by nine familiar terms &mdash;",
+            "reused whole from SN 22.112",
+        ]),
+        ("Cessation as simply the list's own end", [
+            "no new mechanism needed &mdash;",
+            "what ends the nine terms ends the leash itself",
+        ]),
+        ("Vocabulary crossing saṃyutta boundaries", [
+            "established once, in Antavagga &mdash;",
+            "now put to work defining an entirely new concept",
+        ]),
+        ("A third question, a third definition", [
+            "Māra, sentient being, now the leash to existence &mdash;",
+            "Rādha's own pattern of probing basic terms",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.2.html">SN 23.2 &middot; Sentient Beings</a> '
+        "&mdash; the previous discourse, this discourse's own "
+        "predecessor in Rādha's sequence of definitional questions.",
+        '<a href="sn-23.4.html">SN 23.4 &middot; Should Be Completely '
+        "Understood</a> &mdash; the next discourse, personally "
+        "restating SN 22.106's own threefold definition to Rādha.",
+    ],
+)
+
+page(23, 4, "Pariññeyya", "Should Be Completely Understood",
+    vagga="Māravagga",
+    meta_title="SN 23.4 · Should Be Completely Understood — Personally Addressed to Rādha",
+    meta_desc="SN 22.106's own threefold definition — object, process, "
+        "person — now delivered as a personal teaching to Rādha rather "
+        "than to the assembled mendicants. Saṃyutta Nikāya 23.4, with "
+        "Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, teaching Venerable Rādha directly"),
+        ("Form", "The Buddha's own initiative, offering to teach, with the identical threefold definition already given at SN 22.106"),
+        ("Length", "Medium — the full threefold definition given in full"),
+        ("Northern parallel", "This is a verbatim reuse of SN 22.106's own content, addressed here to one named disciple rather than the assembly"),
+        ("Difficulty", "Approachable — best read directly alongside SN 22.106"),
+    ],
+    why=("A discourse whose content is word for word identical to SN "
+        "22.106 much earlier in this book, but delivered here as a "
+        "personal teaching the Buddha offers Rādha directly — a "
+        "striking demonstration that this book's earlier, impersonally "
+        "delivered technical content is equally at home addressed to a "
+        "single named disciple in an entirely different saṃyutta."),
+    guide=[
+        ("A shift in delivery: the Buddha initiates", [
+            "\"Then Venerable Rādha went up to the Buddha, bowed, and "
+            "sat down to one side. The Buddha said to him: 'Rādha, I "
+            "will teach you...'\" — unlike SN 23.1-3, where Rādha asked "
+            "and the Buddha answered, here the Buddha himself initiates "
+            "the teaching once Rādha has simply taken his seat.",
+        ]),
+        ("The identical threefold definition from SN 22.106", [
+            "\"The things that should be completely understood... "
+            "complete understanding... and the individual who has "
+            "completely understood\" — object, process, person, exactly "
+            "as at SN 22.106: the five aggregates as what must be "
+            "understood, the ending of greed, hate, and delusion as "
+            "what understanding consists of, and the anonymized \"the "
+            "venerable of such and such name and clan\" as who has "
+            "achieved it.",
+            "Even the deliberately generic closing formula — naming no "
+            "specific individual — carries over unchanged, preserved "
+            "even in a discourse now delivered to one specific, named "
+            "disciple.",
+        ]),
+        ("Why reuse rather than rewrite", [
+            "That this content transfers to Rādha's saṃyutta without any "
+            "alteration suggests the teaching's value does not depend on "
+            "its original audience or occasion — the same threefold "
+            "analysis of understanding applies equally well whether "
+            "delivered to the assembled mendicants generally or to one "
+            "particular disciple personally.",
+        ]),
+        ("A pattern this vagga's remaining discourses will continue", [
+            "SN 23.5 through SN 23.10 will each similarly reuse specific "
+            "discourses already given in Antavagga (SN 22.107-112), now "
+            "personally addressed to Rādha — this discourse establishing "
+            "that pattern for the first time.",
+        ]),
+    ],
+    terms=[
+        ("pariññeyya", "should be completely understood — the object named in this discourse's opening question, identical to SN 22.106"),
+        ("pariññā", "complete understanding — defined here, as at SN 22.106, as the ending of greed, hate, and delusion"),
+        ("itthannāmo itthagotto", "\"of such and such name and clan\" — the deliberately generic placeholder formula, unchanged even though this discourse is addressed to a named individual"),
+        ("suṇāhi sādhukaṁ manasi karohi", "\"listen and apply your mind well\" — the standard instruction preceding the Buddha's own initiated teaching"),
+        ("arahant", "a perfected one — the term identifying the person who has completely understood"),
+    ],
+    text_intro=("The complete discourse, identical in content to SN 22.106, now "
+        "addressed personally to Rādha. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.4:1.1-1.2"),
+        ("p", "§2", "sn23.4:2.1-2.7"),
+        ("p", "§3", "sn23.4:2.8-2.10"),
+        ("p", "§4", "sn23.4:2.11-2.14"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to SN 22.106?",
+         "opts": [
+             "Word for word identical, now delivered personally to Rādha",
+             "Completely different content on an unrelated topic",
+             "A shortened summary of SN 22.106",
+             "A contradiction of SN 22.106's own definition"],
+         "correct": 0,
+         "expl": "The same threefold definition of object, process, and person."},
+        {"q": "How does this discourse's opening differ from SN 23.1-3?",
+         "opts": [
+             "The Buddha initiates the teaching himself, rather than answering a question Rādha asks",
+             "Rādha does not appear in this discourse at all",
+             "The setting shifts to an entirely different location",
+             "A different disciple entirely replaces Rādha"],
+         "correct": 0,
+         "expl": "Once Rādha has simply taken his seat, the Buddha offers to teach."},
+        {"q": "What three things does this discourse's definition address?",
+         "opts": [
+             "What should be completely understood, what complete understanding is, and who has completely understood",
+             "The origin, cessation, and path of suffering",
+             "The gratification, drawback, and escape of the aggregates",
+             "Three different meditation techniques"],
+         "correct": 0,
+         "expl": "Object, process, and person — identical to SN 22.106's own structure."},
+        {"q": "What does complete understanding remain defined as?",
+         "opts": [
+             "The ending of greed, hate, and delusion",
+             "Memorizing all the teachings",
+             "A specific meditative absorption",
+             "The ability to teach others"],
+         "correct": 0,
+         "expl": "Identical to SN 22.106's definition, given here without alteration."},
+        {"q": "What happens to the anonymized \"such and such name and clan\" formula, even though this discourse addresses a named disciple?",
+         "opts": [
+             "It carries over unchanged, still describing the category of arahant generically",
+             "It is replaced with Rādha's own specific name",
+             "It is removed entirely from this version of the teaching",
+             "It is expanded into a longer, more specific description"],
+         "correct": 0,
+         "expl": "Preserved even in a discourse now delivered to one particular disciple."},
+        {"q": "What does this content transferring unaltered to a new context suggest?",
+         "opts": [
+             "The teaching's value does not depend on its original audience or occasion",
+             "The teaching was originally meant only for Rādha specifically",
+             "SN 22.106 must have contained an error later corrected here",
+             "This discourse actually presents a different teaching altogether"],
+         "correct": 0,
+         "expl": "The same analysis applies whether delivered to an assembly or to one disciple."},
+        {"q": "What pattern does this discourse establish for the rest of this vagga?",
+         "opts": [
+             "SN 23.5-10 will similarly reuse specific discourses from Antavagga, personally addressed to Rādha",
+             "No further discourses in this vagga follow this pattern",
+             "This is the only reused discourse in the entire saṃyutta",
+             "The pattern reverses immediately in the next discourse"],
+         "correct": 0,
+         "expl": "This discourse establishes the pattern for the first time."},
+        {"q": "How many aggregates should be completely understood, according to this discourse?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.1-3's own setting."},
+        {"q": "What earlier discourse in this book does this discourse reuse in full?",
+         "opts": ["SN 22.106", "SN 22.93", "SN 22.1", "SN 22.150"],
+         "correct": 0,
+         "expl": "Antavagga's own discourse on the threefold definition of understanding."},
+    ],
+    marginalia=[
+        ("The Buddha initiating, not answering", [
+            "Rādha simply seated, the teaching offered directly &mdash;",
+            "a shift from SN 23.1-3's own question-driven format",
+        ]),
+        ("The identical content, a new audience", [
+            "object, process, person, unchanged from SN 22.106 &mdash;",
+            "the same analysis, now personally delivered",
+        ]),
+        ("A name left blank, even here", [
+            "\"of such and such name and clan\" &mdash;",
+            "the placeholder preserved despite addressing one person",
+        ]),
+        ("The first of six such personal restatements", [
+            "SN 23.5-10 still to follow this same pattern &mdash;",
+            "Antavagga's content, revisited through Rādha",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.106.html">SN 22.106 &middot; Should Be '
+        "Completely Understood</a> &mdash; the earlier discourse this "
+        "one reuses in full, addressed there to the mendicants "
+        "generally.",
+        '<a href="sn-23.5.html">SN 23.5 &middot; Ascetics and '
+        "Brahmins</a> &mdash; the next discourse, continuing this "
+        "vagga's own reuse of Antavagga's material.",
+    ],
+)
+
+page(23, 5, "Paṭhamasamaṇabrāhmaṇa", "Ascetics and Brahmins",
+    vagga="Māravagga",
+    meta_title="SN 23.5 · Ascetics and Brahmins — SN 22.107 Reused for Rādha",
+    meta_desc="The gratification/drawback/escape contrast between "
+        "failing and succeeding ascetics and brahmins, given here "
+        "personally to Rādha with the stakes stated in full. Saṃyutta "
+        "Nikāya 23.5, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, teaching Venerable Rādha directly"),
+        ("Form", "The Buddha's own initiative, combining the content of SN 22.107-108 into a single fuller discourse for Rādha"),
+        ("Length", "Medium — fuller than either of its two source discourses individually"),
+        ("Northern parallel", "Combines material from SN 22.107 and SN 22.108"),
+        ("Difficulty", "Approachable — best read alongside SN 22.107-108"),
+    ],
+    why=("Where Antavagga split the ascetics-and-brahmins material "
+        "across two discourses (SN 22.107's bare triad, SN 22.108's "
+        "fuller five-point stakes), this discourse for Rādha combines "
+        "them: the gratification/drawback/escape triad given in full, "
+        "with the explicit stake — realizing \"the goal of life as an "
+        "ascetic or brahmin\" — stated directly rather than split "
+        "across a companion discourse."),
+    guide=[
+        ("The triad, now with its consequence spelled out at once", [
+            "\"There are ascetics and brahmins who don't truly "
+            "understand these five grasping aggregates' gratification, "
+            "drawback, and escape. I don't deem them as true ascetics "
+            "and brahmins\" — where SN 22.107 left the consequence "
+            "entirely unstated, this discourse for Rādha states it "
+            "immediately: failure to understand this triad disqualifies "
+            "one from truly being an ascetic or brahmin at all.",
+        ]),
+        ("The Buddha's own explicit judgment", [
+            "\"I don't deem them as true ascetics and brahmins\" — a "
+            "direct first-person verdict (na... maññāmi) not present in "
+            "quite this explicit form at SN 22.107-108, giving this "
+            "version of the teaching a more personally invested tone, "
+            "fitting for a discourse addressed to one particular "
+            "disciple.",
+        ]),
+        ("The positive case, equally direct", [
+            "\"There are ascetics and brahmins who do truly understand "
+            "these five grasping aggregates' gratification, drawback, "
+            "and escape. I deem them as true ascetics and brahmins. "
+            "Those venerables realize the goal of life... and live "
+            "having realized it with their own insight\" — the full "
+            "positive consequence, matching SN 22.108's own content but "
+            "compressed into one discourse rather than two.",
+        ]),
+        ("Reuse with compression, not mere repetition", [
+            "This discourse demonstrates a slightly different mode of "
+            "reuse than SN 23.4's exact duplication: rather than "
+            "reproducing either SN 22.107 or SN 22.108 alone, it merges "
+            "their content into a single fuller discourse — showing this "
+            "book's technical material can be recombined as well as "
+            "simply repeated when addressed to a new audience.",
+        ]),
+    ],
+    terms=[
+        ("samaṇabrāhmaṇā", "ascetics and brahmins — the two categories of religious practitioners this discourse judges"),
+        ("assāda/ādīnava/nissaraṇa", "gratification / drawback / escape — the triad determining true or false status as an ascetic or brahmin"),
+        ("na... maññāmi", "\"I don't deem [them as]\" — the Buddha's own direct first-person verdict"),
+        ("sāmaññattha", "the goal of life as an ascetic — what is realized or missed depending on this understanding"),
+        ("sacchikatvā", "having realized with one's own insight — the lived, self-verified nature of the successful case"),
+    ],
+    text_intro=("The complete discourse, combining SN 22.107's triad with SN "
+        "22.108's explicit stakes into a single fuller teaching for "
+        "Rādha. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.5:1.1-1.5"),
+        ("p", "§2", "sn23.5:1.6-1.7"),
+        ("p", "§3", "sn23.5:1.8-1.9"),
+    ],
+    quiz=[
+        {"q": "What two earlier discourses does this discourse's content combine?",
+         "opts": [
+             "SN 22.107 and SN 22.108",
+             "SN 22.1 and SN 22.2",
+             "SN 22.150 and SN 22.151",
+             "SN 22.93 and SN 22.95"],
+         "correct": 0,
+         "expl": "Merging the bare triad and its fuller stakes into one discourse for Rādha."},
+        {"q": "What does the Buddha say about ascetics and brahmins who fail to understand the triad?",
+         "opts": [
+             "\"I don't deem them as true ascetics and brahmins\"",
+             "He offers no judgment on them at all",
+             "He praises them regardless of their understanding",
+             "He says they cannot ever improve"],
+         "correct": 0,
+         "expl": "A direct first-person verdict, more explicit than SN 22.107's own bare statement."},
+        {"q": "What triad determines true or false status as an ascetic or brahmin?",
+         "opts": [
+             "Gratification, drawback, and escape",
+             "Origin, cessation, and path",
+             "Past, future, and present",
+             "Ethics, immersion, and wisdom"],
+         "correct": 0,
+         "expl": "The same triad from SN 22.107, now with its consequence stated immediately."},
+        {"q": "What is said of ascetics and brahmins who do truly understand the triad?",
+         "opts": [
+             "They realize the goal of life and live having realized it with their own insight",
+             "They are automatically enlightened with no further effort",
+             "They are still judged as false ascetics regardless",
+             "Nothing further is said about them"],
+         "correct": 0,
+         "expl": "Matching SN 22.108's own positive consequence, now given in the same discourse as the negative case."},
+        {"q": "How does this discourse's mode of reuse differ from SN 23.4's?",
+         "opts": [
+             "It merges the content of two earlier discourses into one, rather than reproducing a single discourse exactly",
+             "It contains entirely new content unrelated to Antavagga",
+             "It is identical in every respect to SN 23.4's own method",
+             "It removes content rather than combining it"],
+         "correct": 0,
+         "expl": "Showing this book's material can be recombined, not just repeated."},
+        {"q": "How many grasping aggregates does this discourse name?",
+         "opts": ["Five", "Four", "Three", "Six"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, as throughout this book."},
+        {"q": "What tone does the Buddha's explicit first-person verdict give this discourse?",
+         "opts": [
+             "A more personally invested tone, fitting for one particular disciple",
+             "A cold, entirely impersonal tone",
+             "An angry, accusatory tone",
+             "No particular tone at all"],
+         "correct": 0,
+         "expl": "Distinct from the more measured phrasing at SN 22.107-108."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.1-4's own setting."},
+        {"q": "What does \"sacchikatvā\" specifically emphasize about the successful case?",
+         "opts": [
+             "That the realization is lived and self-verified, not merely believed",
+             "That it happens only after death",
+             "That it requires a teacher's direct confirmation",
+             "That it is purely theoretical"],
+         "correct": 0,
+         "expl": "\"Having realized with one's own insight\" — a personally verified attainment."},
+        {"q": "What comes next in Māravagga after this discourse?",
+         "opts": [
+             "SN 23.6, a companion discourse with the fuller five-point formula",
+             "SN 23.11, opening the next vagga",
+             "A return to SN 23.1",
+             "The start of a new saṃyutta"],
+         "correct": 0,
+         "expl": "Continuing this vagga's own reuse of Antavagga's material."},
+    ],
+    marginalia=[
+        ("Two discourses, merged into one", [
+            "SN 22.107's triad, SN 22.108's stakes &mdash;",
+            "combined for this personal teaching to Rādha",
+        ]),
+        ("A direct, personal verdict", [
+            "\"I don't deem them\" &mdash;",
+            "the Buddha's own first-person judgment, stated plainly",
+        ]),
+        ("Recombination, not mere repetition", [
+            "reuse taking a different shape here &mdash;",
+            "material merged rather than simply reproduced",
+        ]),
+        ("The stakes, no longer left implicit", [
+            "true or false status, stated immediately &mdash;",
+            "the goal of ascetic life named as what is won or missed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.4.html">SN 23.4 &middot; Should Be Completely '
+        "Understood</a> &mdash; the previous discourse, this vagga's "
+        "own first personal restatement from Antavagga.",
+        '<a href="sn-23.6.html">SN 23.6 &middot; Ascetics and Brahmins '
+        "(2nd)</a> &mdash; the next discourse, this discourse's own "
+        "direct companion, using the fuller five-point formula.",
+    ],
+)
+
+page(23, 6, "Dutiyasamaṇabrāhmaṇa", "Ascetics and Brahmins (2nd)",
+    vagga="Māravagga",
+    meta_title="SN 23.6 · Ascetics and Brahmins (2nd) — The Five-Point Formula",
+    meta_desc="The companion to SN 23.5: the same contrast, now using "
+        "the fuller five-point origin/disappearance/gratification/"
+        "drawback/escape formula. Saṃyutta Nikāya 23.6, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, teaching Venerable Rādha directly"),
+        ("Form", "The identical structure as SN 23.5, expanded to the five-point formula and elided in the source"),
+        ("Length", "Short — heavily elided, trusting SN 23.5's own fuller statement"),
+        ("Northern parallel", "Corresponds to the five-point formula used at SN 22.108, SN 22.131-132"),
+        ("Difficulty", "Approachable — best read directly after SN 23.5"),
+    ],
+    why=("The direct companion to SN 23.5, expanding its triad to the "
+        "fuller five-point formula (adding origin and disappearance) "
+        "already familiar from SN 22.108 and SN 22.131-132 — and, true "
+        "to this book's usual practice, compressed heavily in the "
+        "source text since the fuller version was just given in full."),
+    guide=[
+        ("Five points, elided since the pattern is now established", [
+            "\"There are ascetics and brahmins who don't truly "
+            "understand these five grasping aggregates' origin, "
+            "disappearance, gratification, drawback, and escape...\" — "
+            "the source text elides the remainder with an ellipsis, "
+            "trusting the reader to supply SN 23.5's own fuller "
+            "statement with two additional points inserted.",
+        ]),
+        ("The same explicit verdict, now for the five-point version", [
+            "The Buddha's judgment — true or false ascetic and "
+            "brahmin status, realizing or missing the goal of life — "
+            "carries over unchanged from SN 23.5, now attached to the "
+            "fuller five-point criterion rather than the bare triad.",
+        ]),
+        ("A pairing method already seen throughout this book", [
+            "This triad-then-five-point pairing exactly repeats the "
+            "structure already used at SN 22.107-108 for the original "
+            "version of this material — confirming that even when "
+            "content is transplanted into a new saṃyutta for a new "
+            "audience, the underlying compositional patterns travel "
+            "with it unchanged.",
+        ]),
+        ("Moving toward stream-entry and arahantship", [
+            "SN 23.7 and SN 23.8 will continue this vagga's reuse "
+            "pattern, personally restating SN 22.109's stream-enterer "
+            "formula and SN 22.110's arahant formula for Rādha in turn.",
+        ]),
+    ],
+    terms=[
+        ("samudaya/atthaṅgama", "origin / disappearance — the two points added to SN 23.5's own triad"),
+        ("assāda/ādīnava/nissaraṇa", "gratification / drawback / escape — the triad shared with SN 23.5"),
+        ("sāmaññattha", "the goal of life as an ascetic — the same stake named in SN 23.5"),
+        ("na... maññāmi", "\"I don't deem [them as]\" — the same explicit verdict carried over from SN 23.5"),
+        ("peyyāla", "an elision mark — representing the unstated remainder trusted to SN 23.5's own fuller statement"),
+    ],
+    text_intro=("The complete discourse as given in the source, expanding SN "
+        "23.5's triad with the elided remainder. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.6:1.1-1.5"),
+        ("p", "§2", "sn23.6:1.6"),
+        ("p", "§3", "sn23.6:1.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse expand on SN 23.5's own triad?",
+         "opts": [
+             "Adding origin and disappearance, forming the fuller five-point formula",
+             "Removing escape from the list",
+             "Reducing the triad to a single point",
+             "Replacing the triad with an entirely new set of terms"],
+         "correct": 0,
+         "expl": "The same expansion already seen at SN 22.107-108."},
+        {"q": "How much text does the source give for this discourse?",
+         "opts": [
+             "Only the opening line, before an ellipsis",
+             "The full aggregate-by-aggregate elaboration",
+             "Nothing at all",
+             "Only the closing line"],
+         "correct": 0,
+         "expl": "Trusting the reader to supply SN 23.5's own fuller statement."},
+        {"q": "What earlier pairing in this book does this triad-then-five-point structure repeat?",
+         "opts": [
+             "SN 22.107-108",
+             "SN 22.1-2",
+             "SN 22.150-151",
+             "SN 22.93-95"],
+         "correct": 0,
+         "expl": "The same compositional pattern, now applied to Rādha's own material."},
+        {"q": "What does this repeated pattern confirm about the collection's method?",
+         "opts": [
+             "Underlying compositional patterns travel with the content even into a new saṃyutta and audience",
+             "The pattern only ever applies within Khandhavagga's own vaggas",
+             "This discourse actually breaks from all earlier patterns",
+             "No meaningful pattern connects the two saṃyuttas"],
+         "correct": 0,
+         "expl": "Confirming this book's method is consistent across contexts."},
+        {"q": "What does the Buddha's verdict remain, now attached to the five-point criterion?",
+         "opts": [
+             "True or false status as an ascetic or brahmin, and realizing or missing the goal of life",
+             "An entirely new verdict unrelated to SN 23.5's own judgment",
+             "No verdict at all is given in this discourse",
+             "A verdict only about physical health"],
+         "correct": 0,
+         "expl": "Carrying over unchanged from SN 23.5."},
+        {"q": "What discourses will continue this vagga's reuse pattern next?",
+         "opts": [
+             "SN 23.7 and SN 23.8, restating the stream-enterer and arahant formulas",
+             "SN 23.11 and SN 23.12, opening the next vagga",
+             "No further discourses continue this pattern",
+             "A return to SN 23.1"],
+         "correct": 0,
+         "expl": "Personally restating SN 22.109-110 for Rādha in turn."},
+        {"q": "How many aggregates does this five-point formula apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.5's own setting."},
+        {"q": "What two categories of practitioners does this discourse judge?",
+         "opts": ["Ascetics and brahmins", "Kings and merchants", "Monks and nuns only", "Teachers and students"],
+         "correct": 0,
+         "expl": "The same paired category as SN 23.5."},
+        {"q": "What does elision at this point in the vagga suggest about the collection's confidence in its own established pattern?",
+         "opts": [
+             "It trusts the reader to reconstruct the full content from the immediately preceding discourse",
+             "It suggests scribal carelessness with no deeper purpose",
+             "It means this discourse is less important than SN 23.5",
+             "It has no particular significance"],
+         "correct": 0,
+         "expl": "A pattern seen throughout this book whenever closely paired discourses appear together."},
+    ],
+    marginalia=[
+        ("Two points added, briefly stated", [
+            "origin and disappearance, joining the triad &mdash;",
+            "the remainder trusted to SN 23.5's own fuller text",
+        ]),
+        ("The same verdict, a fuller criterion", [
+            "true or false status, unchanged &mdash;",
+            "now attached to five points rather than three",
+        ]),
+        ("A pairing pattern that travels intact", [
+            "SN 22.107-108's own structure, reused here &mdash;",
+            "even in a new saṃyutta, for a new disciple",
+        ]),
+        ("Toward stream-entry and arahantship", [
+            "SN 23.7-8 still to come &mdash;",
+            "the next stage in this vagga's reuse of Antavagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.5.html">SN 23.5 &middot; Ascetics and '
+        "Brahmins</a> &mdash; the previous discourse, this discourse's "
+        "own direct companion.",
+        '<a href="sn-23.7.html">SN 23.7 &middot; A Stream-Enterer</a> '
+        "&mdash; the next discourse, personally restating SN 22.109's "
+        "stream-enterer formula for Rādha.",
+    ],
+)
+
+page(23, 7, "Sotāpanna", "A Stream-Enterer",
+    vagga="Māravagga",
+    meta_title="SN 23.7 · A Stream-Enterer — SN 22.109 Restated for Rādha",
+    meta_desc="The stream-enterer's own standard formula, reused from "
+        "SN 22.109 and now given personally to Rādha as an example of "
+        "what this five-point understanding produces. Saṃyutta Nikāya "
+        "23.7, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, teaching Venerable Rādha directly"),
+        ("Form", "A single positive definition, identical in content to SN 22.109"),
+        ("Length", "Short — one clean definition"),
+        ("Northern parallel", "Reuses SN 22.109's own stream-enterer formula"),
+        ("Difficulty", "Approachable — a clear, self-contained definition"),
+    ],
+    why=("Continuing this vagga's reuse of Antavagga's material, this "
+        "discourse restates SN 22.109's own definition of the "
+        "stream-enterer — the same five-point understanding of the "
+        "aggregates, the same standard closing formula — now addressed "
+        "personally to Rādha."),
+    guide=[
+        ("A noble disciple's understanding, restated exactly", [
+            "\"When a noble disciple truly understands these five "
+            "grasping aggregates' origin, disappearance, gratification, "
+            "drawback, and escape, they're called a noble disciple who "
+            "is a stream-enterer\" — the identical five-point formula "
+            "and identical conclusion as SN 22.109, transplanted without "
+            "alteration.",
+        ]),
+        ("The same standard formula", [
+            "\"Not liable to be reborn in the underworld, assured, "
+            "destined for awakening\" — one of the Canon's most widely "
+            "repeated formulas, unchanged here despite the shift in "
+            "saṃyutta and addressee.",
+        ]),
+        ("Why this reuse matters for Rādha specifically", [
+            "Addressing this formula personally to Rādha — rather than "
+            "generally, as at SN 22.109 — implicitly frames it as "
+            "something directly relevant to Rādha's own situation and "
+            "progress, not merely an abstract description of a category "
+            "of person.",
+        ]),
+        ("Setting up its own companion", [
+            "SN 23.8, this discourse's own direct companion, will "
+            "similarly restate SN 22.110's arahant formula — completing "
+            "the same stream-enterer-to-arahant progression Antavagga's "
+            "own SN 22.109-110 traced, now personally addressed to "
+            "Rādha.",
+        ]),
+    ],
+    terms=[
+        ("sotāpanna", "stream-enterer — the first of the four stages of awakening, defined here exactly as at SN 22.109"),
+        ("avinipātadhamma", "not liable to be reborn in the underworld — the first clause of the standard stream-enterer formula"),
+        ("niyata", "assured, fixed — the outcome no longer in doubt"),
+        ("sambodhiparāyana", "destined for awakening — the formula's final clause"),
+        ("ariyasāvaka", "a noble disciple — the subject of this discourse, identical to SN 22.109's own subject"),
+    ],
+    text_intro=("The complete discourse, identical in content to SN 22.109, now "
+        "addressed personally to Rādha. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.7:1.1-1.5"),
+        ("p", "§2", "sn23.7:1.6-1.7"),
+    ],
+    quiz=[
+        {"q": "What earlier discourse does this discourse's content reuse in full?",
+         "opts": ["SN 22.109", "SN 22.93", "SN 22.1", "SN 22.150"],
+         "correct": 0,
+         "expl": "The identical stream-enterer formula, now for Rādha."},
+        {"q": "What five points does the noble disciple truly understand?",
+         "opts": [
+             "Origin, disappearance, gratification, drawback, and escape",
+             "Past, future, present, internal, and external",
+             "Ethics, immersion, wisdom, liberation, and knowledge",
+             "The four noble truths plus one additional point"],
+         "correct": 0,
+         "expl": "The identical five points named at SN 22.109."},
+        {"q": "What is the noble disciple called upon achieving this understanding?",
+         "opts": ["A stream-enterer", "An arahant", "A bodhisattva", "A once-returner"],
+         "correct": 0,
+         "expl": "The first of the four progressive stages of awakening."},
+        {"q": "What does \"not liable to be reborn in the underworld\" mean?",
+         "opts": [
+             "Rebirth in states of deprivation is no longer possible for this person",
+             "This person can never die again",
+             "This person will never be reborn at all",
+             "This person is immune to all forms of suffering"],
+         "correct": 0,
+         "expl": "The same clause given at SN 22.109."},
+        {"q": "What might addressing this formula personally to Rādha, rather than generally, imply?",
+         "opts": [
+             "It frames the formula as directly relevant to Rādha's own situation, not merely an abstract category",
+             "It means the formula no longer applies to anyone else",
+             "It contradicts SN 22.109's own more general statement",
+             "It has no particular implication"],
+         "correct": 0,
+         "expl": "A personal address gives the same content a more immediate, applied significance."},
+        {"q": "What discourse is this discourse's direct companion, continuing the progression to arahantship?",
+         "opts": ["SN 23.8", "SN 23.1", "SN 23.11", "SN 22.109"],
+         "correct": 0,
+         "expl": "Restating SN 22.110's own arahant formula next."},
+        {"q": "What is the stream-enterer said to be destined for?",
+         "opts": ["Awakening", "A heavenly rebirth only", "Immediate liberation with no further steps", "A specific future occupation"],
+         "correct": 0,
+         "expl": "Sambodhiparāyana, the formula's final clause."},
+        {"q": "How many aggregates does this five-point understanding cover?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.1-6's own setting."},
+        {"q": "What does \"assured\" (niyata) specifically indicate?",
+         "opts": [
+             "That the outcome of eventual full awakening is no longer in doubt",
+             "That awakening has already been fully achieved",
+             "That no further practice is needed",
+             "That the person can no longer make any mistakes"],
+         "correct": 0,
+         "expl": "Even if further lives remain, the eventual outcome is guaranteed."},
+    ],
+    marginalia=[
+        ("The identical formula, a personal address", [
+            "the same five points as SN 22.109 &mdash;",
+            "now spoken directly to Rādha",
+        ]),
+        ("A widely repeated formula, unchanged", [
+            "not liable to the underworld, assured, destined &mdash;",
+            "the Canon's own standard phrasing, unaltered",
+        ]),
+        ("Not merely abstract, but personally addressed", [
+            "a category of person, made immediate &mdash;",
+            "relevant to Rādha's own progress specifically",
+        ]),
+        ("Setting up the progression's next stage", [
+            "arahantship still to come &mdash;",
+            "SN 23.8 completes this pair",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.6.html">SN 23.6 &middot; Ascetics and Brahmins '
+        "(2nd)</a> &mdash; the previous discourse, on the same "
+        "five-point understanding applied more broadly.",
+        '<a href="sn-23.8.html">SN 23.8 &middot; A Perfected One</a> '
+        "&mdash; the next discourse, carrying the identical "
+        "understanding to its final, completed stage.",
+    ],
+)
+
+page(23, 8, "Arahanta", "A Perfected One",
+    vagga="Māravagga",
+    meta_title="SN 23.8 · A Perfected One — SN 22.110 Restated for Rādha",
+    meta_desc="The Canon's fullest arahant formula, reused from SN "
+        "22.110 and personally given to Rādha, closing this vagga's "
+        "sequence of restated Antavagga material. Saṃyutta Nikāya "
+        "23.8, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, teaching Venerable Rādha directly"),
+        ("Form", "A single positive definition, identical in content to SN 22.110"),
+        ("Length", "Short — one definition, expanded with the standard arahant formula"),
+        ("Northern parallel", "Reuses SN 22.110's own arahant formula"),
+        ("Difficulty", "Approachable — best read as the direct completion of SN 23.7"),
+    ],
+    why=("Completes the stream-enterer-to-arahant progression begun in "
+        "SN 23.7: the identical five-point understanding, carried all "
+        "the way through, restated exactly as at SN 22.110 — now the "
+        "final personal restatement of Antavagga's material before this "
+        "vagga turns to its own closing pair on desire and greed."),
+    guide=[
+        ("Freed by not grasping, exactly as before", [
+            "\"A mendicant comes to be freed by not grasping after "
+            "truly understanding these five grasping aggregates' "
+            "origin, disappearance, gratification, drawback, and "
+            "escape\" — the identical formula as SN 22.110, unaltered "
+            "in its transfer to Rādha's own saṃyutta.",
+        ]),
+        ("The Canon's fullest closing formula, unchanged", [
+            "\"With defilements ended, who has completed the spiritual "
+            "journey, done what had to be done, laid down the burden, "
+            "achieved their heart's goal, utterly ended the fetter of "
+            "continued existence, and is rightly freed through "
+            "enlightenment\" — the same cumulative description as SN "
+            "22.110, gathering the same multiple images into the same "
+            "single statement.",
+        ]),
+        ("A quiet culmination of this vagga's reuse sequence", [
+            "Having restated SN 22.106 (SN 23.4), SN 22.107-108 (SN "
+            "23.5-6), and now SN 22.109-110 (SN 23.7-8), Māravagga has "
+            "systematically walked Rādha through this book's entire "
+            "earlier progression from basic definitions through "
+            "stream-entry to arahantship — a personal recapitulation of "
+            "Antavagga's own arc.",
+        ]),
+        ("Turning to the vagga's own closing material", [
+            "SN 23.9 and SN 23.10, this vagga's final two discourses, "
+            "will similarly restate SN 22.111-112's own giving-up-desire "
+            "instructions for Rādha — completing the full reuse of "
+            "Antavagga's material within this single vagga.",
+        ]),
+    ],
+    terms=[
+        ("arahant", "a perfected one — named here by the Canon's fullest standard formula, identical to SN 22.110"),
+        ("anupādā vimutta", "freed by not grasping — the precise mechanism this discourse names, unchanged from SN 22.110"),
+        ("bhāranikkhepana", "laying down the burden — one of the images gathered into the closing formula"),
+        ("bhavasaṁyojana", "the fetter of continued existence — what is utterly ended in the formula's climax"),
+        ("sammadaññā vimutta", "rightly freed through enlightenment — the formula's final clause"),
+    ],
+    text_intro=("The complete discourse, identical in content to SN 22.110, now "
+        "addressed personally to Rādha. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.8:1.1-1.5"),
+        ("p", "§2", "sn23.8:1.6-1.7"),
+    ],
+    quiz=[
+        {"q": "What earlier discourse does this discourse's content reuse in full?",
+         "opts": ["SN 22.110", "SN 22.93", "SN 22.1", "SN 22.150"],
+         "correct": 0,
+         "expl": "The identical arahant formula, now for Rādha."},
+        {"q": "What mechanism does this discourse name for how understanding becomes freedom?",
+         "opts": [
+             "Being freed by not grasping (anupādāya)",
+             "A sudden unexplained transformation",
+             "External intervention from a deity",
+             "The passage of a fixed number of years"],
+         "correct": 0,
+         "expl": "Identical to SN 22.110's own mechanism."},
+        {"q": "What discourses has this vagga now restated from Antavagga, ending with this one?",
+         "opts": [
+             "SN 22.106, SN 22.107-108, and SN 22.109-110",
+             "Only SN 22.106",
+             "Discourses from an entirely different vagga",
+             "No earlier discourses have actually been restated"],
+         "correct": 0,
+         "expl": "A systematic recapitulation of Antavagga's own progression, personally addressed to Rādha."},
+        {"q": "What is said to be \"utterly ended\" in the arahant formula's climax?",
+         "opts": [
+             "The fetter of continued existence",
+             "All physical sensation",
+             "The five aggregates themselves as objects of experience",
+             "The mendicant's memory of past lives"],
+         "correct": 0,
+         "expl": "Bhavasaṁyojana, the fetter binding one to further rebirth."},
+        {"q": "What comes next in Māravagga after this discourse?",
+         "opts": [
+             "SN 23.9 and SN 23.10, restating SN 22.111-112's giving-up-desire instructions",
+             "The vagga's very first discourse repeated",
+             "The start of a new saṃyutta",
+             "A return to SN 23.1"],
+         "correct": 0,
+         "expl": "Completing the reuse of Antavagga's material within this vagga."},
+        {"q": "What five points does the mendicant come to truly understand?",
+         "opts": [
+             "Origin, disappearance, gratification, drawback, and escape",
+             "Past, future, present, internal, and external",
+             "Ethics, immersion, wisdom, liberation, and knowledge",
+             "The four noble truths plus the eightfold path"],
+         "correct": 0,
+         "expl": "The identical five points named throughout this progression."},
+        {"q": "How many aggregates does this understanding apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "What has the arahant \"done,\" according to the formula?",
+         "opts": [
+             "Completed the spiritual journey and done what had to be done",
+             "Traveled to every region of ancient India",
+             "Taught every mendicant in the Buddha's community",
+             "Written down the entire teaching"],
+         "correct": 0,
+         "expl": "Standard components of the Canon's arahant formula, identical to SN 22.110."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.1-7's own setting."},
+        {"q": "What subject replaces \"noble disciple\" in this discourse's definition, compared to SN 23.7?",
+         "opts": [
+             "A mendicant, carrying the same understanding all the way to freedom",
+             "An ascetic or brahmin",
+             "A layperson",
+             "The Buddha himself exclusively"],
+         "correct": 0,
+         "expl": "The same subject shift already seen between SN 22.109 and SN 22.110."},
+    ],
+    marginalia=[
+        ("The Canon's fullest formula, unaltered", [
+            "the same cumulative images as SN 22.110 &mdash;",
+            "gathered into the identical closing statement",
+        ]),
+        ("Not grasping, therefore freed", [
+            "anupādā vimutta, unchanged &mdash;",
+            "the precise mechanism, personally addressed",
+        ]),
+        ("A recapitulation now complete", [
+            "SN 22.106 through 110, all restated for Rādha &mdash;",
+            "Antavagga's own arc, personally retraced",
+        ]),
+        ("Two discourses left to close this vagga", [
+            "giving up desire still to come &mdash;",
+            "SN 23.9-10 complete the reuse pattern",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.7.html">SN 23.7 &middot; A Stream-Enterer</a> '
+        "&mdash; the previous discourse, naming the first fruit of this "
+        "same understanding.",
+        '<a href="sn-23.9.html">SN 23.9 &middot; Desire and Greed</a> '
+        "&mdash; the next discourse, turning to direct instruction "
+        "restated from SN 22.111.",
+    ],
+)
+
+page(23, 9, "Chandappahāna", "Desire and Greed",
+    vagga="Māravagga",
+    meta_title="SN 23.9 · Desire and Greed — SN 22.111 Restated for Rādha",
+    meta_desc="The palm-stump instruction to give up desire and greed "
+        "for each aggregate, reused from SN 22.111 and personally "
+        "given to Rādha. Saṃyutta Nikāya 23.9, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, teaching Venerable Rādha directly"),
+        ("Form", "A single direct instruction, identical in content to SN 22.111"),
+        ("Length", "Short — one instruction, elided across the middle three aggregates"),
+        ("Northern parallel", "Reuses SN 22.111's own instruction and palm-stump image"),
+        ("Difficulty", "Approachable — direct imperative instruction"),
+    ],
+    why=("Turns from the analytical restatements of SN 23.4-8 to direct "
+        "personal instruction: the same command already given generally "
+        "at SN 22.111 — give up desire, greed, relishing, and craving "
+        "for each aggregate — now addressed to Rādha specifically, with "
+        "the same image of permanent, irreversible removal."),
+    guide=[
+        ("The same instruction, now personally commanded", [
+            "\"Rādha, you should give up any desire, greed, relishing, "
+            "and craving for form\" — where SN 22.111 addressed \"the "
+            "mendicants\" collectively, this discourse names Rādha "
+            "directly, giving the identical instruction a more "
+            "immediate, personal force.",
+        ]),
+        ("The palm-stump image, unchanged", [
+            "\"Thus that form will be given up, cut off at the root, "
+            "made like a palm stump, obliterated, and unable to arise "
+            "in the future\" — the exact same image of permanent removal "
+            "as SN 22.111, unaltered by its new personal address.",
+        ]),
+        ("Why direct address suits this material specifically", [
+            "Instruction (as opposed to analysis or definition) is "
+            "arguably better suited to personal address than to a "
+            "general assembly — \"you should give up\" spoken to one "
+            "named individual carries a directness that \"mendicants, "
+            "you should give up\" spoken to a crowd cannot quite match, "
+            "making this discourse's reuse feel especially apt.",
+        ]),
+        ("Setting up its own closing companion", [
+            "SN 23.10, this vagga's final discourse, will similarly "
+            "restate SN 22.112's own expanded instruction — adding the "
+            "five further attachment-related terms — closing both this "
+            "reuse pair and Māravagga itself.",
+        ]),
+    ],
+    terms=[
+        ("chanda", "desire, wish — the first of the four things to be given up toward each aggregate"),
+        ("rāga", "greed, passion — the second, closely related to but distinct from chanda"),
+        ("nandī", "relishing, delight — the third, the pleasure taken in the object once obtained"),
+        ("taṇhā", "craving — the fourth and most technical term, identical to SN 22.111's own list"),
+        ("tālāvatthukata", "made like a palm stump — the image for permanent, irreversible removal, unchanged from SN 22.111"),
+    ],
+    text_intro=("The complete discourse, identical in content to SN 22.111, now "
+        "addressed personally to Rādha. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.9:1.1-1.2"),
+        ("p", "§2", "sn23.9:1.3-1.4"),
+        ("p", "§3", "sn23.9:1.5-1.11"),
+    ],
+    quiz=[
+        {"q": "What earlier discourse does this discourse's content reuse in full?",
+         "opts": ["SN 22.111", "SN 22.93", "SN 22.1", "SN 22.150"],
+         "correct": 0,
+         "expl": "The identical giving-up-desire instruction, now for Rādha."},
+        {"q": "How does this discourse's address differ from SN 22.111's own?",
+         "opts": [
+             "It names Rādha directly, rather than addressing \"the mendicants\" collectively",
+             "It addresses an entirely different figure than Rādha",
+             "It removes all direct address entirely",
+             "It is addressed to a group of laypeople"],
+         "correct": 0,
+         "expl": "The identical instruction, given a more immediate, personal force."},
+        {"q": "What four things does the instruction command giving up toward each aggregate?",
+         "opts": [
+             "Desire, greed, relishing, and craving",
+             "Fear, doubt, anger, and pride",
+             "Food, sleep, speech, and company",
+             "Memory, perception, will, and awareness"],
+         "correct": 0,
+         "expl": "The identical four terms from SN 22.111."},
+        {"q": "What image describes the result of giving up desire for form?",
+         "opts": [
+             "Cut off at the root, made like a palm stump, unable to arise again",
+             "Temporarily suppressed but likely to return",
+             "Transformed into a different kind of desire",
+             "Weakened but not eliminated"],
+         "correct": 0,
+         "expl": "The identical image of permanent removal, unaltered from SN 22.111."},
+        {"q": "Why might instruction specifically suit personal address better than general assembly?",
+         "opts": [
+             "A direct command to one named individual carries an immediacy a crowd address cannot quite match",
+             "Instructions can only ever be given to one person at a time",
+             "General assemblies never receive direct commands anywhere in the Canon",
+             "There is no meaningful difference between the two forms of address"],
+         "correct": 0,
+         "expl": "Making this discourse's reuse feel especially fitting."},
+        {"q": "What discourse closes this reuse pair and the vagga itself?",
+         "opts": ["SN 23.10", "SN 23.1", "SN 23.11", "SN 22.112"],
+         "correct": 0,
+         "expl": "Restating SN 22.112's own expanded instruction next."},
+        {"q": "How many of the five aggregates does the instruction cover?",
+         "opts": [
+             "All five, though the middle three are elided in the source following the same pattern",
+             "Only form",
+             "Only form and consciousness",
+             "Only feeling, perception, and choices"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, all following the identical instruction."},
+        {"q": "Why is a palm stump specifically used for this image?",
+         "opts": [
+             "A severed palmyra palm cannot regenerate the way many other cut plants can",
+             "Palm trees are sacred in this tradition",
+             "The palm was a common gift to mendicants",
+             "It has no particular significance beyond being a plant"],
+         "correct": 0,
+         "expl": "The stump that remains will never again put out new growth."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.1-8's own setting."},
+        {"q": "What shift in tone does this discourse mark within Māravagga's own sequence?",
+         "opts": [
+             "A turn from analytical restatements to direct personal instruction",
+             "A turn from instruction back to definitional questions",
+             "No shift at all — identical in kind to SN 23.4-8",
+             "A shift to an entirely unrelated topic"],
+         "correct": 0,
+         "expl": "Instruction rather than analysis, closing this vagga's reuse of Antavagga."},
+    ],
+    marginalia=[
+        ("The same command, now personally named", [
+            "\"Rādha, you should give up...\" &mdash;",
+            "more direct than the general \"mendicants\" of SN 22.111",
+        ]),
+        ("A stump that will not grow again", [
+            "cut off at the root, obliterated &mdash;",
+            "the identical image of permanence, unchanged",
+        ]),
+        ("Instruction suited to direct address", [
+            "one named person commanded, not a crowd &mdash;",
+            "immediacy this reuse captures especially well",
+        ]),
+        ("One discourse left to close this vagga", [
+            "the expanded instruction still to come &mdash;",
+            "SN 23.10 completes both this pair and Māravagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.8.html">SN 23.8 &middot; A Perfected One</a> '
+        "&mdash; the previous discourse, on what this same giving-up "
+        "ultimately accomplishes.",
+        '<a href="sn-23.10.html">SN 23.10 &middot; Desire and Greed '
+        "(2nd)</a> &mdash; the next and closing discourse of this "
+        "vagga, this discourse's own direct companion.",
+    ],
+)
+
+page(23, 10, "Dutiyachandappahāna", "Desire and Greed (2nd)",
+    vagga="Māravagga",
+    meta_title="SN 23.10 · Desire and Greed (2nd) — Closing Māravagga",
+    meta_desc="SN 22.112's own expanded instruction, personally restated "
+        "for Rādha, closing Māravagga after a vagga built almost "
+        "entirely from Antavagga's own material. Saṃyutta Nikāya "
+        "23.10, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, teaching Venerable Rādha directly"),
+        ("Form", "The same instruction as SN 23.9, expanded with a longer list of attachment-related terms"),
+        ("Length", "Short — closing the vagga on an expanded version of its immediately preceding discourse"),
+        ("Northern parallel", "Reuses SN 22.112's own expanded instruction"),
+        ("Difficulty", "Approachable — best read directly after SN 23.9"),
+    ],
+    why=("Closes Māravagga by restating SN 22.112's own expanded "
+        "instruction for Rādha: the same command to give up desire, "
+        "greed, relishing, and craving now adds \"attraction, grasping, "
+        "mental fixation, insistence, and underlying tendencies\" — the "
+        "identical nine-term list, cut off with the identical palm-stump "
+        "image."),
+    guide=[
+        ("The full nine-term list, personally addressed", [
+            "\"Rādha, you should give up any desire, greed, relishing, "
+            "and craving for form; and any attraction, grasping, mental "
+            "fixation, insistence, and underlying tendencies\" — the "
+            "identical nine terms already given at SN 22.112 (and "
+            "reused once more at SN 23.3's own definition of the leash "
+            "to existence), now completing their third appearance in "
+            "this book.",
+        ]),
+        ("The same palm-stump image, closing three separate discourses", [
+            "\"Thus that form will be given up, cut off at the root, "
+            "made like a palm stump, obliterated, and unable to arise "
+            "in the future\" — the identical closing image used at SN "
+            "22.111, SN 22.112, and SN 23.9, now completing its fourth "
+            "appearance, always marking the same complete and "
+            "irreversible removal.",
+        ]),
+        ("Closing Māravagga: a vagga built almost entirely from reuse", [
+            "Looking back across all ten discourses, Māravagga's own "
+            "character becomes clear: SN 23.1-3 introduce genuinely new "
+            "material specific to Rādha (Māra as the aggregates, the "
+            "sandcastle simile, the leash to existence definition), "
+            "while SN 23.4-10 systematically restate — sometimes "
+            "verbatim, sometimes recombined — material already "
+            "established at SN 22.106-112 much earlier in this book.",
+            "This is a distinctive structural choice: rather than "
+            "generating fresh technical content for Rādha's saṃyutta, "
+            "the collection largely repurposes Antavagga's own already-"
+            "established teaching, personalizing its address without "
+            "altering its substance.",
+        ]),
+        ("What follows", [
+            "Māravagga's own name (\"About Māra\") is confirmed by SN "
+            "23.1's opening discourse; Dutiyamāravagga (\"About Māra "
+            "(2nd)\"), this saṃyutta's second vagga, begins next at SN "
+            "23.11, opening with its own discourse on Māra before "
+            "moving through a further twelve discourses.",
+        ]),
+    ],
+    terms=[
+        ("upāya", "attraction — the pull toward an object, the first of the five additional terms in this discourse"),
+        ("upādāna", "grasping — the act of taking hold"),
+        ("cetaso adhiṭṭhāna", "mental fixation — the mind's own settling upon an object"),
+        ("abhinivesa", "insistence — a more forceful clinging to a fixed position or view"),
+        ("anusaya", "underlying tendencies — dormant, unconscious dispositions persisting even without active craving present"),
+    ],
+    text_intro=("The complete discourse, identical in content to SN 22.112, now "
+        "addressed personally to Rādha, closing Māravagga. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.10:1.1-1.2"),
+        ("p", "§2", "sn23.10:1.3-1.4"),
+        ("p", "§3", "sn23.10:1.5-1.11"),
+    ],
+    quiz=[
+        {"q": "What earlier discourse does this discourse's content reuse in full?",
+         "opts": ["SN 22.112", "SN 22.93", "SN 22.1", "SN 22.150"],
+         "correct": 0,
+         "expl": "The identical expanded instruction, now for Rādha."},
+        {"q": "How many total terms does this discourse's instruction name, combining both lists?",
+         "opts": ["Nine", "Four", "Five", "Twelve"],
+         "correct": 0,
+         "expl": "Desire, greed, relishing, craving, plus attraction, grasping, mental fixation, insistence, and underlying tendencies."},
+        {"q": "Where else in this vagga has this same nine-term list already appeared?",
+         "opts": [
+             "SN 23.3's own definition of the leash to existence",
+             "Nowhere else in this vagga",
+             "Only at SN 22.112, not elsewhere in this vagga",
+             "It appears for the first time in this discourse"],
+         "correct": 0,
+         "expl": "Its third appearance across this book, now completing a fourth."},
+        {"q": "What image describes the outcome of giving up this fuller list of attachments?",
+         "opts": [
+             "The same palm-stump image as SN 22.111-112 and SN 23.9 — cut off at the root, unable to arise again",
+             "A completely different, new image not used elsewhere",
+             "No image at all, only a bare statement",
+             "An image of gradual, incomplete weakening"],
+         "correct": 0,
+         "expl": "Its fourth appearance, always marking the same complete removal."},
+        {"q": "How does Māravagga's overall structure divide, looking back across all ten discourses?",
+         "opts": [
+             "SN 23.1-3 introduce new material specific to Rādha; SN 23.4-10 restate material already established at SN 22.106-112",
+             "All ten discourses introduce entirely new material",
+             "All ten discourses simply repeat SN 22.106-112 without variation",
+             "No discernible structure connects these ten discourses"],
+         "correct": 0,
+         "expl": "A distinctive structural choice repurposing Antavagga's own established teaching."},
+        {"q": "What vagga follows Māravagga in Rādhasaṃyutta?",
+         "opts": [
+             "Dutiyamāravagga (\"About Māra (2nd)\")",
+             "A return to Khandhavagga's earlier material",
+             "The vagga's own final discourse repeated",
+             "The end of Rādhasaṃyutta entirely"],
+         "correct": 0,
+         "expl": "Beginning at SN 23.11, this saṃyutta's second vagga."},
+        {"q": "How many aggregates does this instruction apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "What distinguishes this discourse's approach from generating fresh technical content?",
+         "opts": [
+             "Personalizing the address without altering the underlying substance of the teaching",
+             "Introducing entirely novel technical vocabulary",
+             "Contradicting the earlier discourse's own content",
+             "Removing all technical vocabulary entirely"],
+         "correct": 0,
+         "expl": "The collection largely repurposes established material rather than inventing new content."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching SN 23.1-9's own setting."},
+        {"q": "What confirms Māravagga's own name as this vagga's title?",
+         "opts": [
+             "SN 23.1's own opening discourse, defining Māra directly",
+             "This closing discourse's own content",
+             "A location where the vagga's discourses were spoken",
+             "A specific numbered colophon"],
+         "correct": 0,
+         "expl": "The vagga's namesake discourse, opening this ten-discourse sequence."},
+    ],
+    marginalia=[
+        ("The full nine terms, a third appearance", [
+            "SN 22.112, SN 23.3, now here again &mdash;",
+            "the same established list, reused once more",
+        ]),
+        ("A stump that will not grow again, once more", [
+            "the identical image, its fourth appearance &mdash;",
+            "always marking the same complete removal",
+        ]),
+        ("A vagga largely built from reuse", [
+            "three new discourses, seven restated &mdash;",
+            "Antavagga's own material, personalized for Rādha",
+        ]),
+        ("Closing Māravagga, opening its own sequel", [
+            "Dutiyamāravagga begins next, at SN 23.11 &mdash;",
+            "a second vagga still bearing Māra's own name",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.9.html">SN 23.9 &middot; Desire and Greed</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "companion and source for its shorter four-term list.",
+        '<a href="sn-23.1.html">SN 23.1 &middot; About Māra</a> '
+        "&mdash; this vagga's own opening discourse, whose namesake "
+        "topic this closing instruction now puts into direct practice.",
+    ],
+)
