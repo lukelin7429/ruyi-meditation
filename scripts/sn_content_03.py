@@ -28902,3 +28902,2316 @@ page(22, 135, "Tatiyakoṭṭhita", "With Koṭṭhita (3rd)",
         "closing discourse returns to word for word.",
     ],
 )
+
+page(22, 136, "Kukkuḷa", "Burning Chaff",
+    vagga="Kukkuḷavagga",
+    meta_title="SN 22.136 · Burning Chaff — This Vagga's Own Namesake",
+    meta_desc="All five aggregates named burning chaff, in one of the "
+        "shortest and starkest single-image discourses in this book, "
+        "opening Kukkuḷavagga. Saṃyutta Nikāya 22.136, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A single declarative image, followed by the standard disillusionment and freedom formula"),
+        ("Length", "Very short — one image, one closing sequence"),
+        ("Northern parallel", "The \"burning chaff\" (kukkuḷa) image is distinctive to this discourse, giving the vagga its own name"),
+        ("Difficulty", "Approachable — a stark, self-explanatory image"),
+    ],
+    why=("Opens Kukkuḷavagga (\"Burning Chaff\") with the single image "
+        "that names the whole vagga: all five aggregates declared, "
+        "without any preceding simile or explanation, to simply be "
+        "burning chaff — one of the starkest, most compressed images "
+        "in this entire book."),
+    guide=[
+        ("A declaration, not a simile spelled out", [
+            "\"Form, feeling, perception, choices, and consciousness are "
+            "burning chaff\" — unlike many of this book's images (the "
+            "river, the lump of foam, the leash), this discourse offers "
+            "no narrative setup or extended comparison, simply stating "
+            "the aggregates ARE kukkuḷa, smoldering chaff or embers, "
+            "directly and without elaboration.",
+            "Kukkuḷa specifically names the hot ash and glowing husks "
+            "left after grain has been threshed and burned — something "
+            "that looks spent and harmless from a distance but remains "
+            "dangerously hot to the touch, an image of latent, "
+            "easily-overlooked danger rather than active violence.",
+        ]),
+        ("Why this image gives the vagga its name", [
+            "As with several vaggas earlier in this book (Pupphavagga "
+            "from a single lotus image, Khajjanīyavagga from a single "
+            "etymology discourse), Kukkuḷavagga takes its name from this "
+            "one especially memorable image among its fourteen "
+            "discourses, most of which develop entirely different "
+            "material.",
+        ]),
+        ("The standard closing sequence", [
+            "\"Seeing this, a learned noble disciple grows disillusioned "
+            "... desire fades away ... they're freed ... they know "
+            "they're freed\" — Khandhavagga's most familiar closing "
+            "formula, here following directly from the single burning-"
+            "chaff declaration with no intervening argument or "
+            "elaboration.",
+        ]),
+        ("A stark opening for a vagga of increasingly fine-grained repetition", [
+            "This discourse's own brevity and directness sets the tone "
+            "for what follows: Kukkuḷavagga's remaining thirteen "
+            "discourses will develop a series of closely related, "
+            "increasingly compressed variations on giving up desire and "
+            "greed for the impermanent, the suffering, and the "
+            "not-self — a vagga built more on systematic repetition than "
+            "on narrative or argument.",
+        ]),
+    ],
+    terms=[
+        ("kukkuḷa", "burning chaff, hot ash and embers — the image giving this vagga its name"),
+        ("nibbindati", "grows disillusioned — the first step in the standard closing formula"),
+        ("virajjati", "desire fades away — the second step"),
+        ("vimuccati", "is freed — the third step"),
+        ("vimuttasmiṁ vimuttamiti ñāṇaṁ hoti", "\"when they're freed, they know they're freed\" — the formula's final, self-verifying step"),
+    ],
+    text_intro=("The complete discourse: the burning-chaff declaration, and the "
+        "standard disillusionment and freedom formula. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.136:1.1-1.2"),
+        ("p", "§2", "sn22.136:1.3-1.5"),
+    ],
+    quiz=[
+        {"q": "What are all five aggregates declared to be, in this discourse?",
+         "opts": ["Burning chaff", "Solid gold", "Fresh flowers", "Cool water"],
+         "correct": 0,
+         "expl": "A stark, direct declaration giving this vagga its name."},
+        {"q": "What does kukkuḷa specifically refer to?",
+         "opts": [
+             "Hot ash and glowing embers left after grain has been threshed and burned",
+             "A type of ceremonial fire",
+             "A cooking vessel",
+             "A weapon used in warfare"],
+         "correct": 0,
+         "expl": "Something that looks spent from a distance but remains dangerously hot to the touch."},
+        {"q": "How does this discourse's structure differ from many earlier similes in this book?",
+         "opts": [
+             "It offers a direct declaration with no narrative setup or extended comparison",
+             "It develops an elaborate multi-part story",
+             "It uses dialogue between two named individuals",
+             "It includes closing verses"],
+         "correct": 0,
+         "expl": "Unlike the river, the foam-lump, or the leash images, this discourse states the aggregates simply ARE kukkuḷa."},
+        {"q": "What kind of danger does the burning-chaff image suggest?",
+         "opts": [
+             "Latent, easily-overlooked danger rather than active violence",
+             "An immediate, obvious explosion",
+             "No danger at all",
+             "A danger only to livestock"],
+         "correct": 0,
+         "expl": "Looking harmless from a distance while remaining hot beneath the surface."},
+        {"q": "What closing sequence follows the burning-chaff declaration?",
+         "opts": [
+             "The standard disillusionment, fading desire, freedom, and self-knowledge formula",
+             "A set of closing verses",
+             "A dialogue with a questioning mendicant",
+             "No closing sequence at all"],
+         "correct": 0,
+         "expl": "Khandhavagga's most familiar closing formula, Applied directly."},
+        {"q": "Why does this vagga take its name from this particular discourse?",
+         "opts": [
+             "It offers the vagga's own single most memorable image, though most other discourses develop different material",
+             "It is the longest discourse in the vagga",
+             "It is the only discourse mentioning the five aggregates",
+             "It contains the vagga's own closing colophon"],
+         "correct": 0,
+         "expl": "A pattern already seen with Pupphavagga and Khajjanīyavagga earlier in this book."},
+        {"q": "What tone does this discourse set for the rest of Kukkuḷavagga?",
+         "opts": [
+             "Stark and direct, preceding a vagga built more on systematic repetition than narrative",
+             "Elaborate and heavily narrative",
+             "Argumentative and dialectical",
+             "Poetic and verse-based"],
+         "correct": 0,
+         "expl": "The remaining thirteen discourses develop closely related, increasingly compressed variations."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Continuing the setting shared by most discourses in this book."},
+        {"q": "What vagga does this discourse open?",
+         "opts": ["Kukkuḷavagga", "Avijjāvagga", "Antavagga", "Diṭṭhivagga"],
+         "correct": 0,
+         "expl": "SN 22.136 opens Book III's fourteenth vagga."},
+        {"q": "How many aggregates does the burning-chaff declaration apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, named together in a single sentence."},
+    ],
+    marginalia=[
+        ("An image stated, not built up", [
+            "\"are burning chaff\" &mdash;",
+            "no simile developed, only a direct declaration",
+        ]),
+        ("Hot beneath a spent-looking surface", [
+            "kukkuḷa, ash still glowing &mdash;",
+            "danger easily missed at a glance",
+        ]),
+        ("The familiar formula, arriving at once", [
+            "disillusioned, faded, freed, self-known &mdash;",
+            "no argument needed after the image itself",
+        ]),
+        ("A stark opening for a vagga of repetition", [
+            "one image naming fourteen discourses &mdash;",
+            "systematic variation to follow, not narrative",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.136/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.135.html">SN 22.135 &middot; With Koṭṭhita '
+        "(3rd)</a> &mdash; the previous discourse, closing Avijjāvagga.",
+        '<a href="sn-22.137.html">SN 22.137 &middot; Impermanence</a> '
+        "&mdash; the next discourse, opening this vagga's own systematic "
+        "sequence on giving up desire and greed.",
+    ],
+)
+
+page(22, 137, "Anicca", "Impermanence",
+    vagga="Kukkuḷavagga",
+    meta_title="SN 22.137 · Impermanence — Give Up Desire for What Passes",
+    meta_desc="A direct instruction: give up desire for what is "
+        "impermanent, since all five aggregates are impermanent. "
+        "Saṃyutta Nikāya 22.137, opening a three-discourse set on "
+        "desire, greed, and both together, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A direct imperative instruction, applied identically to each aggregate"),
+        ("Length", "Short — a single instruction repeated across the five aggregates"),
+        ("Northern parallel", "This exact instruction opens a three-discourse set (desire, greed, desire-and-greed) that recurs with \"suffering\" and \"not-self\" later in this vagga"),
+        ("Difficulty", "Approachable — direct and unambiguous"),
+    ],
+    why=("Opens a systematic sequence that will structure much of "
+        "Kukkuḷavagga: give up desire for what is impermanent — because "
+        "each aggregate is impermanent — the first of three discourses "
+        "(desire, then greed, then both together) that this vagga will "
+        "run three times over, once each for impermanence, suffering, "
+        "and not-self."),
+    guide=[
+        ("A direct command, reasoned in a single step", [
+            "\"You should give up desire for what is impermanent. And "
+            "what is impermanent? Form is impermanent; you should give "
+            "up desire for it\" — the entire argument compressed into "
+            "one move: name the quality (impermanent), name what has "
+            "it (form), and instruct giving up desire for it — repeated "
+            "identically for each aggregate.",
+        ]),
+        ("The first of three closely related instructions", [
+            "\"Desire\" (chanda) here names the first and mildest of "
+            "three related terms this vagga will use across its "
+            "opening nine discourses: chanda alone in this discourse, "
+            "rāga (\"greed\") alone in SN 22.138, and chanda-rāga "
+            "(\"desire and greed\") together in SN 22.139 — three "
+            "increasingly combined targets for the same basic "
+            "instruction.",
+        ]),
+        ("Why separate desire from greed at all", [
+            "Distinguishing chanda from rāga (already seen paired "
+            "together at SN 22.111-112 as chandarāga) suggests these are "
+            "recognized as related but not identical: chanda often "
+            "carries a sense of wanting or wishing, rāga a stronger "
+            "sense of passionate attachment — treating them separately "
+            "before combining them lets each be addressed in its own "
+            "right before the fuller combined instruction closes the "
+            "three-discourse set.",
+        ]),
+        ("A pattern that will repeat twice more", [
+            "This same three-discourse structure — desire, then greed, "
+            "then both — will recur at SN 22.140-142 applied to "
+            "\"suffering\" instead of \"impermanent,\" and again at SN "
+            "22.143-145 applied to \"not-self,\" giving Kukkuḷavagga's "
+            "opening nine discourses a clear 3×3 structure: three "
+            "objects (impermanence, suffering, not-self) each addressed "
+            "through the same three-part escalation (desire, greed, "
+            "both).",
+        ]),
+    ],
+    terms=[
+        ("anicca", "impermanent — the quality named in this discourse, giving it its title"),
+        ("chanda", "desire — the specific term this discourse instructs giving up, the first of three related terms in this opening set"),
+        ("rāga", "greed — the term SN 22.138 will use in place of chanda"),
+        ("chandarāga", "desire and greed together — the combined term SN 22.139 will use to close this three-discourse set"),
+        ("pajahitabba", "should be given up — the instruction's core imperative, applied to each aggregate in turn"),
+    ],
+    text_intro=("The complete discourse: the instruction to give up desire for "
+        "what is impermanent, applied to each aggregate. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.137:1.1-1.4"),
+        ("p", "§2", "sn22.137:1.5-1.9"),
+    ],
+    quiz=[
+        {"q": "What does this discourse instruct mendicants to give up?",
+         "opts": [
+             "Desire for what is impermanent",
+             "All physical possessions",
+             "Speech entirely",
+             "Contact with other mendicants"],
+         "correct": 0,
+         "expl": "A direct instruction, reasoned in a single step for each aggregate."},
+        {"q": "How is the instruction's reasoning structured?",
+         "opts": [
+             "Name the quality (impermanent), name what has it (an aggregate), instruct giving up desire for it",
+             "A lengthy philosophical argument spanning several paragraphs",
+             "A narrative story illustrating the point",
+             "A dialogue between two mendicants"],
+         "correct": 0,
+         "expl": "The entire instruction compressed into one compact move, repeated for each aggregate."},
+        {"q": "What specific term for \"desire\" does this discourse use?",
+         "opts": ["Chanda", "Rāga", "Taṇhā", "Upādāna"],
+         "correct": 0,
+         "expl": "The first and mildest of three related terms this vagga's opening set will use."},
+        {"q": "What term does SN 22.138 use in place of this discourse's \"desire\"?",
+         "opts": ["Rāga (greed)", "Taṇhā (craving)", "Upādāna (grasping)", "Anusaya (underlying tendency)"],
+         "correct": 0,
+         "expl": "The second of three increasingly combined targets in this opening set."},
+        {"q": "What does SN 22.139 combine, closing this three-discourse set?",
+         "opts": [
+             "Desire and greed together (chandarāga)",
+             "Impermanence and suffering together",
+             "Form and consciousness together",
+             "This vagga and the previous vagga together"],
+         "correct": 0,
+         "expl": "The fuller combined term already seen at SN 22.111-112."},
+        {"q": "What overall structure do this vagga's opening nine discourses (137-145) form?",
+         "opts": [
+             "A 3×3 grid: three objects (impermanence, suffering, not-self) each addressed through desire, greed, and both",
+             "Nine entirely unrelated teachings",
+             "A single narrative spanning all nine discourses",
+             "Three unrelated discourses repeated three times each identically"],
+         "correct": 0,
+         "expl": "The same three-part escalation applied to each of three different qualities."},
+        {"q": "Why might chanda and rāga be distinguished before being combined?",
+         "opts": [
+             "They are recognized as related but not identical, each addressed in its own right before the fuller combined instruction",
+             "They are considered completely unrelated concepts",
+             "Only one of the two terms is doctrinally valid",
+             "There is no meaningful reason for the distinction"],
+         "correct": 0,
+         "expl": "Chanda often carries a sense of wanting, rāga a stronger sense of passionate attachment."},
+        {"q": "How many aggregates does this instruction apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, each addressed identically."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Continuing the setting of most of this book's discourses."},
+        {"q": "What two objects will this same three-part structure be applied to later in this vagga?",
+         "opts": [
+             "Suffering and not-self",
+             "Craving and ignorance",
+             "Birth and death",
+             "Form and consciousness"],
+         "correct": 0,
+         "expl": "At SN 22.140-142 and SN 22.143-145 respectively."},
+    ],
+    marginalia=[
+        ("A single step, repeated five times", [
+            "impermanent, therefore give up desire &mdash;",
+            "the same short reasoning for each aggregate",
+        ]),
+        ("The mildest of three related terms", [
+            "chanda first, then rāga, then both together &mdash;",
+            "an escalating three-discourse set begins here",
+        ]),
+        ("A 3×3 structure taking shape", [
+            "impermanence, suffering, not-self &mdash;",
+            "each to receive this same threefold treatment",
+        ]),
+        ("Desire and greed, distinguished before combined", [
+            "wanting, and passionate attachment &mdash;",
+            "each addressed on its own before the fuller term arrives",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.137/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.136.html">SN 22.136 &middot; Burning Chaff</a> '
+        "&mdash; the previous discourse, this vagga's own namesake.",
+        '<a href="sn-22.138.html">SN 22.138 &middot; Impermanence '
+        "(2nd)</a> &mdash; the next discourse, applying the identical "
+        "instruction to greed instead of desire.",
+    ],
+)
+
+page(22, 138, "Dutiyaanicca", "Impermanence (2nd)",
+    vagga="Kukkuḷavagga",
+    meta_title="SN 22.138 · Impermanence (2nd) — Give Up Greed",
+    meta_desc="The companion to SN 22.137: the identical instruction, now "
+        "naming greed rather than desire as what must be given up for "
+        "the impermanent. Saṃyutta Nikāya 22.138, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 22.137, with \"greed\" replacing \"desire\""),
+        ("Length", "Short — matching SN 22.137's own length exactly"),
+        ("Northern parallel", "Shares its structure with SN 22.137 and SN 22.139"),
+        ("Difficulty", "Approachable — best read directly after SN 22.137"),
+    ],
+    why=("The second discourse in this vagga's opening three-part set: "
+        "the identical instruction and reasoning as SN 22.137, with "
+        "\"greed\" (rāga) replacing \"desire\" (chanda) as the specific "
+        "attitude that must be given up toward each impermanent "
+        "aggregate."),
+    guide=[
+        ("A single word changed, the structure unchanged", [
+            "\"You should give up greed for what is impermanent. And "
+            "what is impermanent? Form is impermanent; you should give "
+            "up greed for it\" — every clause matches SN 22.137's own "
+            "structure exactly, with rāga replacing chanda throughout.",
+        ]),
+        ("Why this repetition is not redundant", [
+            "Reading SN 22.137 and SN 22.138 together demonstrates that "
+            "the same underlying reasoning (impermanence as grounds for "
+            "letting go) applies to more than one specific attitude — "
+            "desire and greed are addressed as related but distinct "
+            "targets, each requiring the identical instruction rather "
+            "than being assumed to fall together automatically.",
+        ]),
+        ("Recalling this vagga's own opening discourse", [
+            "The instruction to give up greed for the aggregates echoes "
+            "SN 22.136's own burning-chaff image — something that "
+            "continues to smolder with latent danger is exactly the "
+            "kind of thing greed should not reach toward, even when it "
+            "looks, like ash, no longer actively threatening.",
+        ]),
+        ("Completing the set with its final discourse", [
+            "This discourse's own companion, SN 22.139, will combine "
+            "\"desire\" and \"greed\" into the single compound term "
+            "chandarāga, closing this opening three-discourse set before "
+            "the identical pattern repeats for \"suffering\" at SN "
+            "22.140-142.",
+        ]),
+    ],
+    terms=[
+        ("rāga", "greed — this discourse's own term, replacing SN 22.137's chanda"),
+        ("chanda", "desire — SN 22.137's own parallel term"),
+        ("anicca", "impermanent — the shared quality both discourses reason from"),
+        ("chandarāga", "desire and greed together — the combined term SN 22.139 will use to close this set"),
+        ("pajahitabba", "should be given up — the shared instruction's core imperative"),
+    ],
+    text_intro=("The complete discourse, mirroring SN 22.137's structure exactly "
+        "with \"greed\" replacing \"desire.\" Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.138:1.1-1.4"),
+        ("p", "§2", "sn22.138:1.5-1.9"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 22.137?",
+         "opts": [
+             "An exact structural mirror, with \"greed\" replacing \"desire\"",
+             "An unrelated teaching on a different topic",
+             "A direct contradiction of SN 22.137's instruction",
+             "A much longer, more elaborate discourse"],
+         "correct": 0,
+         "expl": "Every clause matches, with one term changed throughout."},
+        {"q": "What does this discourse instruct mendicants to give up?",
+         "opts": [
+             "Greed for what is impermanent",
+             "Desire for what is impermanent",
+             "All contact with other mendicants",
+             "Speech entirely"],
+         "correct": 0,
+         "expl": "Rāga replacing SN 22.137's chanda as the specific target."},
+        {"q": "Why does reading SN 22.137 and SN 22.138 together matter, rather than treating them as redundant?",
+         "opts": [
+             "It demonstrates the same reasoning applies to more than one related but distinct attitude",
+             "It shows the two discourses actually contradict each other",
+             "It proves only one of the two terms is doctrinally valid",
+             "It has no particular significance"],
+         "correct": 0,
+         "expl": "Desire and greed are each addressed as distinct targets rather than assumed to fall together automatically."},
+        {"q": "What earlier discourse's image does this instruction recall?",
+         "opts": [
+             "SN 22.136's own burning-chaff image",
+             "SN 22.93's river simile",
+             "SN 22.95's foam-lump simile",
+             "SN 22.117's near/far shore metaphor"],
+         "correct": 0,
+         "expl": "Something still smoldering with latent danger, even when it looks harmless."},
+        {"q": "What discourse closes this three-discourse set by combining desire and greed?",
+         "opts": [
+             "SN 22.139, \"Impermanence (3rd)\"",
+             "SN 22.140, \"Suffering\"",
+             "SN 22.137, \"Impermanence\"",
+             "SN 22.146, \"Full of Disillusionment\""],
+         "correct": 0,
+         "expl": "The final discourse in this vagga's opening three-part set."},
+        {"q": "How many aggregates does this instruction apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, as in SN 22.137."},
+        {"q": "What pattern will repeat for \"suffering\" and \"not-self\" later in this vagga?",
+         "opts": [
+             "This same desire/greed/both three-discourse structure",
+             "An entirely different, unrelated structure",
+             "No further repetition of this pattern",
+             "A four-discourse structure instead of three"],
+         "correct": 0,
+         "expl": "At SN 22.140-142 and SN 22.143-145 respectively."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.137's own setting."},
+        {"q": "What compound term will SN 22.139 use to close this set?",
+         "opts": ["Chandarāga (desire and greed)", "Taṇhā (craving)", "Upādāna (grasping)", "Anusaya (underlying tendency)"],
+         "correct": 0,
+         "expl": "Already seen paired together at SN 22.111-112 earlier in this book."},
+        {"q": "What quality do both this discourse and SN 22.137 reason from?",
+         "opts": ["Impermanence (anicca)", "Suffering (dukkha)", "Not-self (anattā)", "Emptiness (suññatā)"],
+         "correct": 0,
+         "expl": "Shared between the two discourses, as their titles both indicate."},
+    ],
+    marginalia=[
+        ("One word changed, the reasoning unchanged", [
+            "greed in place of desire &mdash;",
+            "the identical instruction, a related target",
+        ]),
+        ("Desire and greed, each in its own right", [
+            "not assumed to fall together automatically &mdash;",
+            "each given the same direct instruction",
+        ]),
+        ("An echo of the vagga's own opening image", [
+            "greed should not reach toward smoldering ash &mdash;",
+            "even what looks spent still carries latent heat",
+        ]),
+        ("The second of three, one discourse remaining", [
+            "desire, greed, and now their combination to come &mdash;",
+            "SN 22.139 closes this opening set",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.138/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.137.html">SN 22.137 &middot; Impermanence</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "companion.",
+        '<a href="sn-22.139.html">SN 22.139 &middot; Impermanence '
+        "(3rd)</a> &mdash; the next discourse, combining desire and "
+        "greed to close this opening three-discourse set.",
+    ],
+)
+
+page(22, 139, "Tatiyaanicca", "Impermanence (3rd)",
+    vagga="Kukkuḷavagga",
+    meta_title="SN 22.139 · Impermanence (3rd) — Desire and Greed Combined",
+    meta_desc="Closing this vagga's opening three-discourse set: the "
+        "identical instruction, now combining desire and greed into a "
+        "single compound term. Saṃyutta Nikāya 22.139, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 22.137-138, with the combined term \"desire and greed\""),
+        ("Length", "Short — matching the previous two discourses' own length"),
+        ("Northern parallel", "Shares its structure with SN 22.137-138; the combined term chandarāga was already seen at SN 22.111-112"),
+        ("Difficulty", "Approachable — best read as the close of a three-discourse set"),
+    ],
+    why=("Closes the opening three-discourse set on impermanence: having "
+        "addressed desire alone (SN 22.137) and greed alone (SN 22.138), "
+        "this discourse combines them into chandarāga, \"desire and "
+        "greed\" together — the same compound term already used at SN "
+        "22.111-112 to describe what must be given up for each "
+        "aggregate."),
+    guide=[
+        ("The combined term, closing the escalation", [
+            "\"You should give up desire and greed for what is "
+            "impermanent. And what is impermanent? Form is impermanent; "
+            "you should give up desire and greed for it\" — the "
+            "identical structure once more, now with chandarāga "
+            "replacing both SN 22.137's chanda and SN 22.138's rāga.",
+        ]),
+        ("A three-discourse arc, now complete", [
+            "Reading SN 22.137, 138, and 139 in sequence traces a clear "
+            "progression: desire named alone, then greed named alone, "
+            "then both combined — not because either alone was "
+            "insufficient reasoning, but because the collection "
+            "systematically addresses each related attitude both "
+            "separately and together, leaving no gap in which some "
+            "reader might imagine one term applies while the other does "
+            "not.",
+        ]),
+        ("A term already established earlier in this book", [
+            "Chandarāga was already used at SN 22.111-112 to describe "
+            "exactly what must be cut off \"at the root, like a palm "
+            "stump\" from each aggregate — this discourse's closing "
+            "instruction reuses that same established vocabulary rather "
+            "than introducing anything new.",
+        ]),
+        ("Setting the template for the vagga's next two three-discourse sets", [
+            "This same desire/greed/both progression will now repeat "
+            "twice more: at SN 22.140-142, applying the identical "
+            "three-part structure to \"suffering\" instead of "
+            "\"impermanent,\" and again at SN 22.143-145, applying it to "
+            "\"not-self\" — completing this vagga's opening nine "
+            "discourses as a full 3×3 matrix.",
+        ]),
+    ],
+    terms=[
+        ("chandarāga", "desire and greed together — this discourse's own combined term, already established at SN 22.111-112"),
+        ("chanda", "desire — SN 22.137's own term"),
+        ("rāga", "greed — SN 22.138's own term"),
+        ("anicca", "impermanent — the shared quality across all three discourses in this set"),
+        ("tālāvatthukata", "cut off at the root, like a palm stump — the image chandarāga was paired with at SN 22.111-112, recalled here by the same term's reuse"),
+    ],
+    text_intro=("The complete discourse, mirroring SN 22.137-138's structure with "
+        "the combined term chandarāga, closing this opening set. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.139:1.1-1.4"),
+        ("p", "§2", "sn22.139:1.5-1.9"),
+    ],
+    quiz=[
+        {"q": "What combined term does this discourse use, closing the three-discourse set?",
+         "opts": [
+             "Chandarāga, \"desire and greed\" together",
+             "Taṇhā, \"craving\" alone",
+             "Upādāna, \"grasping\" alone",
+             "Anusaya, \"underlying tendency\" alone"],
+         "correct": 0,
+         "expl": "Combining SN 22.137's chanda and SN 22.138's rāga into one term."},
+        {"q": "What progression do SN 22.137, 138, and 139 trace together?",
+         "opts": [
+             "Desire named alone, then greed named alone, then both combined",
+             "Three completely unrelated instructions",
+             "A gradual weakening of the instruction across the three discourses",
+             "A contradiction between the three discourses"],
+         "correct": 0,
+         "expl": "Systematically addressing each related attitude both separately and together."},
+        {"q": "Where else in this book has the term chandarāga already appeared?",
+         "opts": [
+             "SN 22.111-112, describing what must be cut off at the root like a palm stump",
+             "Only in this single discourse",
+             "SN 22.93-95, the similes for the aggregates",
+             "SN 22.1-11, the opening vagga"],
+         "correct": 0,
+         "expl": "This discourse reuses that same established vocabulary rather than introducing anything new."},
+        {"q": "Why does the collection address desire and greed both separately and combined?",
+         "opts": [
+             "To leave no gap in which a reader might imagine one term applies while the other does not",
+             "Because the two terms actually contradict each other",
+             "Because only the combined term is doctrinally correct",
+             "For no particular reason"],
+         "correct": 0,
+         "expl": "A systematic, thorough approach to closing off any possible partial reading."},
+        {"q": "What quality do all three discourses in this set reason from?",
+         "opts": ["Impermanence (anicca)", "Suffering (dukkha)", "Not-self (anattā)", "Craving (taṇhā)"],
+         "correct": 0,
+         "expl": "Shared across SN 22.137, 138, and 139."},
+        {"q": "What two objects will this same three-part structure be applied to next in this vagga?",
+         "opts": [
+             "Suffering and not-self",
+             "Ignorance and knowledge",
+             "Birth and death",
+             "Form and consciousness"],
+         "correct": 0,
+         "expl": "At SN 22.140-142 and SN 22.143-145, completing a full 3×3 structure."},
+        {"q": "How many aggregates does this instruction apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, as in the previous two discourses."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.137-138's own setting."},
+        {"q": "What does this discourse's closing complete, within Kukkuḷavagga's overall structure?",
+         "opts": [
+             "The opening three-discourse set on impermanence, setting the template for two more such sets",
+             "The entire vagga in full",
+             "Only a single unrelated teaching",
+             "A structure unrelated to the rest of the vagga"],
+         "correct": 0,
+         "expl": "The template this same progression will follow twice more, for suffering and not-self."},
+        {"q": "What is the significance of chandarāga being an already-established term rather than a new one?",
+         "opts": [
+             "It reinforces continuity with earlier teaching in this book rather than introducing fresh vocabulary",
+             "It suggests a scribal error duplicating earlier material",
+             "It contradicts the term's earlier use at SN 22.111-112",
+             "It has no particular significance"],
+         "correct": 0,
+         "expl": "The same compound term applied consistently across different contexts in this book."},
+    ],
+    marginalia=[
+        ("Desire and greed, now joined", [
+            "chandarāga, the combined term &mdash;",
+            "already established earlier in this book",
+        ]),
+        ("A three-part arc, closed", [
+            "alone, then alone, then together &mdash;",
+            "no gap left for a partial reading",
+        ]),
+        ("Vocabulary reused, not invented fresh", [
+            "the same term from SN 22.111-112 &mdash;",
+            "cut off at the root, like a palm stump",
+        ]),
+        ("A template set for what follows", [
+            "suffering, then not-self, to receive the same treatment &mdash;",
+            "nine discourses forming a full 3×3 structure",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.139/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.138.html">SN 22.138 &middot; Impermanence '
+        "(2nd)</a> &mdash; the previous discourse, this discourse's own "
+        "direct companion.",
+        '<a href="sn-22.140.html">SN 22.140 &middot; Suffering</a> '
+        "&mdash; the next discourse, applying this same three-part "
+        "structure to suffering instead of impermanence.",
+    ],
+)
+
+page(22, 140, "Dukkha", "Suffering",
+    vagga="Kukkuḷavagga",
+    meta_title="SN 22.140 · Suffering — The Same Instruction, a New Quality",
+    meta_desc="The identical three-part structure as SN 22.137-139, now "
+        "reasoning from suffering rather than impermanence, compressed "
+        "to a single elided line. Saṃyutta Nikāya 22.140, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A single opening line, with the remainder elided in the source as an exact repeat of SN 22.137's structure"),
+        ("Length", "The shortest discourse in this vagga so far — a single sentence plus an ellipsis"),
+        ("Northern parallel", "Shares its structure with SN 22.137, now applied to suffering (dukkha) rather than impermanence (anicca)"),
+        ("Difficulty", "Approachable — brevity itself is the notable feature here"),
+    ],
+    why=("Opens this vagga's second three-discourse set, reasoning from "
+        "suffering rather than impermanence — but so closely mirrors SN "
+        "22.137's own structure that the source text elides everything "
+        "beyond the opening line, trusting the reader to supply the "
+        "rest from memory."),
+    guide=[
+        ("A single line, then silence", [
+            "\"You should give up desire for what is suffering...\" — the "
+            "source text gives only this opening clause before an "
+            "ellipsis, the most compressed presentation yet in this "
+            "vagga, more compressed even than SN 22.107's own "
+            "two-sentence brevity earlier in this book.",
+        ]),
+        ("What the elision assumes", [
+            "The full pattern, inferred from SN 22.137's own complete "
+            "structure, would run: \"and what is suffering? Form is "
+            "suffering; you should give up desire for it,\" repeated for "
+            "each remaining aggregate, closing with \"you should give up "
+            "desire for what is suffering\" — identical in every "
+            "particular except substituting dukkha for anicca "
+            "throughout.",
+        ]),
+        ("Why suffering earns even less text than impermanence", [
+            "By this point in the vagga, the reader has already seen "
+            "this exact three-part reasoning (name the quality, name "
+            "what has it, instruct giving up desire) run in full three "
+            "times for impermanence — repeating it in full for suffering "
+            "would add nothing the reader could not already supply, so "
+            "the source text simply names the substitution and trusts "
+            "the pattern to be understood.",
+        ]),
+        ("Opening this vagga's middle three-discourse set", [
+            "This discourse opens the same desire/greed/both progression "
+            "already seen for impermanence, now applied to suffering: SN "
+            "22.141 will substitute greed for desire, and SN 22.142 will "
+            "combine them, exactly mirroring SN 22.137-139's own "
+            "three-discourse arc.",
+        ]),
+    ],
+    terms=[
+        ("dukkha", "suffering — the quality this discourse reasons from, replacing SN 22.137's anicca"),
+        ("chanda", "desire — the specific term named, matching SN 22.137's own opening term"),
+        ("anicca", "impermanent — the quality reasoned from in the preceding three-discourse set"),
+        ("peyyāla", "an elision mark, here representing the entire remainder of SN 22.137's structure left unstated"),
+        ("pajahitabba", "should be given up — the instruction's core imperative, assumed to be repeated for each aggregate"),
+    ],
+    text_intro=("The complete discourse as given in the source, a single opening "
+        "line with the remainder elided. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.140:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "How much of this discourse's text does the source give in full?",
+         "opts": [
+             "Only the opening line, before an ellipsis",
+             "The entire discourse, spelled out completely",
+             "Nothing at all — the discourse is entirely blank",
+             "Only the closing line"],
+         "correct": 0,
+         "expl": "The most compressed presentation yet in this vagga."},
+        {"q": "What quality does this discourse reason from, replacing SN 22.137's \"impermanent\"?",
+         "opts": ["Suffering (dukkha)", "Not-self (anattā)", "Emptiness (suññatā)", "Craving (taṇhā)"],
+         "correct": 0,
+         "expl": "Opening this vagga's second three-discourse set."},
+        {"q": "What does the full pattern, inferred from SN 22.137, likely run for each aggregate?",
+         "opts": [
+             "\"Form is suffering; you should give up desire for it,\" repeated for each aggregate",
+             "An entirely different instruction not related to SN 22.137",
+             "A denial that suffering applies to the aggregates at all",
+             "An instruction to actively pursue suffering"],
+         "correct": 0,
+         "expl": "Identical in every particular except substituting dukkha for anicca throughout."},
+        {"q": "Why does this discourse receive even less text than SN 22.137?",
+         "opts": [
+             "The reader has already seen this exact reasoning run in full three times, so repeating it adds nothing new",
+             "The scribes made an error and lost the remaining text",
+             "Suffering is considered less important than impermanence",
+             "This discourse is unrelated to SN 22.137's structure"],
+         "correct": 0,
+         "expl": "The source trusts the established pattern to be understood without full repetition."},
+        {"q": "What specific term for \"give up\" attitude does this discourse use, matching SN 22.137?",
+         "opts": ["Chanda (desire)", "Rāga (greed)", "Chandarāga (desire and greed)", "Taṇhā (craving)"],
+         "correct": 0,
+         "expl": "Matching SN 22.137's own opening term, before this new set escalates through greed and both combined."},
+        {"q": "What discourse will substitute greed for desire in this new three-discourse set?",
+         "opts": ["SN 22.141, \"Suffering (2nd)\"", "SN 22.143, \"Not-Self\"", "SN 22.137, \"Impermanence\"", "SN 22.146, \"Full of Disillusionment\""],
+         "correct": 0,
+         "expl": "Mirroring SN 22.138's own role in the impermanence set."},
+        {"q": "How many aggregates does this instruction (by inference from SN 22.137) apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, following the established pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Continuing the setting of the surrounding discourses in this vagga."},
+        {"q": "What structural device does the source text use to represent the unstated remainder?",
+         "opts": ["An ellipsis (peyyāla)", "A footnote", "A cross-reference to another book", "A blank page"],
+         "correct": 0,
+         "expl": "A standard compression device used throughout this collection for material repeating an established pattern."},
+        {"q": "What comes after this three-discourse set within Kukkuḷavagga's overall structure?",
+         "opts": [
+             "A third three-discourse set applying the same structure to \"not-self\"",
+             "The vagga's final discourse",
+             "A return to the impermanence set",
+             "The start of a new vagga"],
+         "correct": 0,
+         "expl": "Completing this vagga's opening nine discourses as a full 3×3 matrix."},
+    ],
+    marginalia=[
+        ("A single line, and then silence", [
+            "the shortest discourse in this vagga so far &mdash;",
+            "an ellipsis standing in for everything already established",
+        ]),
+        ("Suffering, in place of impermanence", [
+            "the identical reasoning, a new quality &mdash;",
+            "dukkha substituted for anicca throughout",
+        ]),
+        ("Trusting the pattern to carry forward", [
+            "no need to repeat what three prior discourses already showed &mdash;",
+            "the reader supplies the rest",
+        ]),
+        ("Opening this vagga's middle three-discourse set", [
+            "desire named first, greed and both to follow &mdash;",
+            "the same arc as SN 22.137-139, now for suffering",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.140/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.139.html">SN 22.139 &middot; Impermanence '
+        "(3rd)</a> &mdash; the previous discourse, closing the "
+        "impermanence set this discourse's structure is drawn from.",
+        '<a href="sn-22.141.html">SN 22.141 &middot; Suffering '
+        "(2nd)</a> &mdash; the next discourse, substituting greed for "
+        "desire within this new set.",
+    ],
+)
+
+page(22, 141, "Dutiyadukkha", "Suffering (2nd)",
+    vagga="Kukkuḷavagga",
+    meta_title="SN 22.141 · Suffering (2nd) — Give Up Greed",
+    meta_desc="The second discourse in the suffering set, substituting "
+        "greed for desire, given in the same single-line compressed "
+        "form as its companion. Saṃyutta Nikāya 22.141, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A single opening line, elided exactly as SN 22.140"),
+        ("Length", "Among the shortest discourses in this vagga"),
+        ("Northern parallel", "Shares its structure with SN 22.138, now applied to suffering"),
+        ("Difficulty", "Approachable — best read directly alongside SN 22.140 and SN 22.138"),
+    ],
+    why=("The middle discourse of this vagga's suffering set: substitutes "
+        "greed for SN 22.140's desire, mirroring SN 22.138's own role in "
+        "the earlier impermanence set, and receiving the identical "
+        "minimal, elided treatment."),
+    guide=[
+        ("The second term, the same compression", [
+            "\"You should give up greed for what is suffering...\" — the "
+            "source gives only this single clause, exactly matching SN "
+            "22.140's own brevity, before eliding the remainder as an "
+            "assumed repeat of the established pattern.",
+        ]),
+        ("A doubly compressed reference", [
+            "This discourse's full content can only be reconstructed by "
+            "combining two earlier patterns: SN 22.138's aggregate-by-"
+            "aggregate structure (\"form is suffering; you should give "
+            "up greed for it\"...) and SN 22.140's own substitution of "
+            "\"suffering\" for \"impermanent\" — the reader is expected to "
+            "hold both patterns in mind simultaneously.",
+        ]),
+        ("What this compression reveals about the collection's confidence", [
+            "By this point, nine discourses into a clearly established "
+            "3×3 structure, the source text trusts its own pattern so "
+            "completely that even the aggregate-by-aggregate elaboration "
+            "given in full for SN 22.137-139 is dropped entirely — only "
+            "the single defining substitution (which term, which "
+            "quality) needs stating.",
+        ]),
+        ("One discourse remaining in this set", [
+            "SN 22.142, this discourse's own companion, will combine "
+            "desire and greed for suffering exactly as SN 22.139 did for "
+            "impermanence, closing this vagga's middle three-discourse "
+            "set before the final set on \"not-self\" begins.",
+        ]),
+    ],
+    terms=[
+        ("rāga", "greed — this discourse's own term, matching SN 22.138's role in the impermanence set"),
+        ("dukkha", "suffering — the quality this discourse reasons from, shared with SN 22.140"),
+        ("chanda", "desire — SN 22.140's own term, the counterpart this discourse substitutes"),
+        ("chandarāga", "desire and greed together — the combined term SN 22.142 will use to close this set"),
+        ("peyyāla", "an elision mark, representing the unstated aggregate-by-aggregate elaboration"),
+    ],
+    text_intro=("The complete discourse as given in the source, a single opening "
+        "line with the remainder elided. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.141:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse use, replacing SN 22.140's \"desire\"?",
+         "opts": ["Greed (rāga)", "Craving (taṇhā)", "Grasping (upādāna)", "Ignorance (avijjā)"],
+         "correct": 0,
+         "expl": "Mirroring SN 22.138's own role in the earlier impermanence set."},
+        {"q": "How much text does the source give for this discourse?",
+         "opts": [
+             "Only a single opening line, elided exactly as SN 22.140",
+             "The full aggregate-by-aggregate elaboration",
+             "Nothing at all",
+             "A lengthy narrative unrelated to the pattern"],
+         "correct": 0,
+         "expl": "Matching SN 22.140's own extreme brevity."},
+        {"q": "What two earlier patterns must be combined to reconstruct this discourse's full content?",
+         "opts": [
+             "SN 22.138's aggregate-by-aggregate structure and SN 22.140's substitution of suffering for impermanence",
+             "Two entirely unrelated discourses from a different vagga",
+             "SN 22.113's ignorance formula and SN 22.117's shackle metaphor",
+             "No reconstruction is possible or intended"],
+         "correct": 0,
+         "expl": "The reader is expected to hold both patterns in mind simultaneously."},
+        {"q": "What does this discourse's extreme compression suggest about the collection's confidence in its own pattern?",
+         "opts": [
+             "It trusts the established pattern so completely that even the aggregate-by-aggregate elaboration is dropped",
+             "It suggests the scribes lost interest in this material",
+             "It suggests this discourse is less important doctrinally",
+             "It has no particular significance"],
+         "correct": 0,
+         "expl": "Nine discourses into a clearly established structure, only the defining substitution needs stating."},
+        {"q": "What quality does this discourse reason from?",
+         "opts": ["Suffering (dukkha)", "Impermanence (anicca)", "Not-self (anattā)", "Emptiness (suññatā)"],
+         "correct": 0,
+         "expl": "Shared with SN 22.140 and SN 22.142, this vagga's middle three-discourse set."},
+        {"q": "What discourse closes this suffering set by combining desire and greed?",
+         "opts": ["SN 22.142, \"Suffering (3rd)\"", "SN 22.143, \"Not-Self\"", "SN 22.137, \"Impermanence\"", "SN 22.146, \"Full of Disillusionment\""],
+         "correct": 0,
+         "expl": "Mirroring SN 22.139's own closing role in the impermanence set."},
+        {"q": "How many aggregates does this instruction (by inference) apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Following the established pattern from SN 22.137-139."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.140's own setting."},
+        {"q": "What set follows this one within Kukkuḷavagga's overall structure?",
+         "opts": [
+             "A third three-discourse set applying the same structure to \"not-self\"",
+             "The vagga's final discourse immediately",
+             "A return to the impermanence set",
+             "The start of a new vagga"],
+         "correct": 0,
+         "expl": "Completing this vagga's opening nine discourses as a full 3×3 matrix."},
+        {"q": "What earlier discourse in this book already used the term chandarāga this set is building toward?",
+         "opts": ["SN 22.111-112", "SN 22.1-11", "SN 22.93-95", "SN 22.117"],
+         "correct": 0,
+         "expl": "The combined term SN 22.142 will reuse to close this set."},
+    ],
+    marginalia=[
+        ("The second term, doubly compressed", [
+            "greed, applied to suffering &mdash;",
+            "two earlier patterns combined in one line",
+        ]),
+        ("Only the substitution needs stating", [
+            "aggregate-by-aggregate elaboration dropped entirely &mdash;",
+            "the pattern trusted to carry the rest",
+        ]),
+        ("A middle discourse in a middle set", [
+            "suffering's own desire/greed/both arc &mdash;",
+            "mirroring impermanence's own structure exactly",
+        ]),
+        ("One discourse left to close this set", [
+            "combination still to come &mdash;",
+            "SN 22.142 completes what this discourse begins",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.141/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.140.html">SN 22.140 &middot; Suffering</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "companion.",
+        '<a href="sn-22.142.html">SN 22.142 &middot; Suffering (3rd)</a> '
+        "&mdash; the next discourse, combining desire and greed to "
+        "close this set.",
+    ],
+)
+
+page(22, 142, "Tatiyadukkha", "Suffering (3rd)",
+    vagga="Kukkuḷavagga",
+    meta_title="SN 22.142 · Suffering (3rd) — Closing the Suffering Set",
+    meta_desc="Desire and greed combined for suffering, closing this "
+        "vagga's middle three-discourse set exactly as SN 22.139 closed "
+        "the impermanence set. Saṃyutta Nikāya 22.142, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A single opening line, elided exactly as SN 22.140-141"),
+        ("Length", "Among the shortest discourses in this vagga"),
+        ("Northern parallel", "Shares its structure with SN 22.139, now applied to suffering"),
+        ("Difficulty", "Approachable — best read as the close of this vagga's middle set"),
+    ],
+    why=("Closes this vagga's middle three-discourse set: combines desire "
+        "and greed (chandarāga) reasoning from suffering, exactly "
+        "mirroring SN 22.139's own closing role for the impermanence "
+        "set, completing the second of three parallel 3-discourse "
+        "sequences."),
+    guide=[
+        ("The combined term, closing this set", [
+            "\"You should give up desire and greed for what is "
+            "suffering...\" — the single elided opening clause, matching "
+            "SN 22.139's own combined chandarāga, now applied to "
+            "suffering rather than impermanence.",
+        ]),
+        ("Two three-discourse sets, now both complete", [
+            "With this discourse, Kukkuḷavagga has now run the identical "
+            "desire/greed/both structure twice in full — once for "
+            "impermanence (SN 22.137-139), once for suffering (SN "
+            "22.140-142) — each closing on the same combined "
+            "chandarāga term already familiar from SN 22.111-112.",
+        ]),
+        ("Suffering and impermanence, treated as parallel grounds", [
+            "That the exact same three-part reasoning applies equally "
+            "well starting from either impermanence or suffering "
+            "reflects this book's broader treatment of the three marks "
+            "(impermanent, suffering, not-self) as mutually implicating "
+            "— any one of them, taken seriously, supports the identical "
+            "conclusion about what should be given up.",
+        ]),
+        ("One set remaining", [
+            "Kukkuḷavagga's third and final three-discourse set, "
+            "reasoning from not-self, begins immediately at SN 22.143, "
+            "completing this vagga's opening nine discourses as a full "
+            "3×3 matrix before SN 22.146 introduces an entirely "
+            "different structure.",
+        ]),
+    ],
+    terms=[
+        ("chandarāga", "desire and greed together — this discourse's own combined term, closing this set as SN 22.139 closed the previous one"),
+        ("dukkha", "suffering — the quality this discourse reasons from"),
+        ("anicca", "impermanent — the parallel quality reasoned from in the earlier three-discourse set"),
+        ("anattā", "not-self — the quality the vagga's next three-discourse set will reason from"),
+        ("tilakkhaṇa", "the three marks — impermanent, suffering, not-self, treated here as mutually implicating grounds for the same conclusion"),
+    ],
+    text_intro=("The complete discourse as given in the source, a single opening "
+        "line with the remainder elided. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.142:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What combined term does this discourse use, closing the suffering set?",
+         "opts": [
+             "Chandarāga, \"desire and greed\" together",
+             "Taṇhā, \"craving\" alone",
+             "Upādāna, \"grasping\" alone",
+             "Avijjā, \"ignorance\" alone"],
+         "correct": 0,
+         "expl": "Mirroring SN 22.139's own combined term for the impermanence set."},
+        {"q": "How many three-discourse sets has Kukkuḷavagga now completed in full by this discourse?",
+         "opts": ["Two — impermanence and suffering", "Only one", "All three", "None"],
+         "correct": 0,
+         "expl": "SN 22.137-139 for impermanence, SN 22.140-142 for suffering."},
+        {"q": "What does the identical structure working equally for both impermanence and suffering suggest?",
+         "opts": [
+             "The three marks are treated as mutually implicating — any one supports the same conclusion",
+             "Impermanence and suffering are actually unrelated concepts",
+             "Only impermanence is a valid ground for this reasoning",
+             "The structure is coincidental with no deeper significance"],
+         "correct": 0,
+         "expl": "Reflecting this book's broader treatment of impermanent, suffering, and not-self as connected."},
+        {"q": "What quality will the vagga's next three-discourse set reason from?",
+         "opts": ["Not-self (anattā)", "Emptiness (suññatā)", "Craving (taṇhā)", "Ignorance (avijjā)"],
+         "correct": 0,
+         "expl": "Beginning immediately at SN 22.143."},
+        {"q": "What structural pattern will Kukkuḷavagga's opening nine discourses form once this set closes?",
+         "opts": [
+             "A full 3×3 matrix: three qualities each addressed through desire, greed, and both combined",
+             "A single unbroken narrative",
+             "Nine entirely unrelated teachings",
+             "A 2×2 matrix with one quality omitted"],
+         "correct": 0,
+         "expl": "Impermanence, suffering, and not-self, each receiving the identical three-part treatment."},
+        {"q": "How much text does the source give for this discourse?",
+         "opts": [
+             "Only a single opening line, elided",
+             "The full aggregate-by-aggregate elaboration",
+             "A lengthy closing verse",
+             "Nothing at all"],
+         "correct": 0,
+         "expl": "Matching SN 22.140-141's own extreme compression."},
+        {"q": "What comes immediately after this three-discourse set within Kukkuḷavagga?",
+         "opts": [
+             "SN 22.143, opening the not-self set",
+             "SN 22.146, the vagga's differently structured discourse",
+             "The start of a new vagga",
+             "A return to SN 22.136"],
+         "correct": 0,
+         "expl": "Completing the vagga's opening nine-discourse structure."},
+        {"q": "How many aggregates does this instruction (by inference) apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Following the established pattern from SN 22.137-141."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.140-141's own setting."},
+        {"q": "What term names the three marks this vagga's opening sets systematically work through?",
+         "opts": ["Tilakkhaṇa", "Paṭiccasamuppāda", "Sāmaññaphala", "Bodhipakkhiyā"],
+         "correct": 0,
+         "expl": "Impermanent, suffering, not-self — the Canon's standard three-marks vocabulary."},
+    ],
+    marginalia=[
+        ("The combined term, once more", [
+            "chandarāga, applied to suffering &mdash;",
+            "closing this set exactly as SN 22.139 closed the last",
+        ]),
+        ("Two sets down, one to go", [
+            "impermanence complete, suffering complete &mdash;",
+            "not-self next to receive the same treatment",
+        ]),
+        ("The three marks as interchangeable grounds", [
+            "impermanent or suffering, the same conclusion follows &mdash;",
+            "each mark implicating the others",
+        ]),
+        ("A 3×3 structure nearing completion", [
+            "one quality, one set, remaining &mdash;",
+            "SN 22.143 opens the final third",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.142/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.141.html">SN 22.141 &middot; Suffering (2nd)</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "companion.",
+        '<a href="sn-22.143.html">SN 22.143 &middot; Not-Self</a> '
+        "&mdash; the next discourse, opening this vagga's third and "
+        "final three-discourse set.",
+    ],
+)
+
+page(22, 143, "Anattā", "Not-Self",
+    vagga="Kukkuḷavagga",
+    meta_title="SN 22.143 · Not-Self — The Third Ground",
+    meta_desc="The identical three-part structure once more, now "
+        "reasoning from not-self, completing the Canon's three marks as "
+        "grounds for the same instruction. Saṃyutta Nikāya 22.143, with "
+        "Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A single opening line, elided exactly as SN 22.140"),
+        ("Length", "Among the shortest discourses in this vagga"),
+        ("Northern parallel", "Shares its structure with SN 22.137 and SN 22.140, now applied to not-self"),
+        ("Difficulty", "Approachable, though reasoning \"give up desire because something is not-self\" differs subtly from the impermanence/suffering cases"),
+    ],
+    why=("Opens the third and final three-discourse set in this vagga's "
+        "opening sequence: the identical structure once more, now "
+        "reasoning from not-self (anattā) — completing the full "
+        "traversal of this book's three marks as independent grounds "
+        "for the same instruction to give up desire."),
+    guide=[
+        ("The third mark, the same compression", [
+            "\"You should give up desire for what is not-self...\" — the "
+            "identical single-line, elided presentation as SN 22.140, "
+            "now substituting anattā for dukkha.",
+        ]),
+        ("A subtly different kind of reason", [
+            "Where \"give up desire because it is impermanent\" or "
+            "\"because it is suffering\" both point to a quality "
+            "unfolding in time (something changes, something hurts), "
+            "\"give up desire because it is not-self\" points instead to "
+            "a mistaken relationship (treating something as belonging to "
+            "or constituting oneself) — a structural rather than "
+            "temporal reason for release.",
+            "That the identical grammatical template accommodates all "
+            "three kinds of reason without alteration suggests the "
+            "underlying instruction (give up desire for X, because X is "
+            "Y) is flexible enough to carry genuinely different "
+            "arguments, not merely repeating one argument under three "
+            "names.",
+        ]),
+        ("Completing the three marks as independent grounds", [
+            "With impermanence (SN 22.137-139), suffering (SN "
+            "22.140-142), and now not-self (SN 22.143-145) each given "
+            "their own full three-discourse treatment, this vagga has "
+            "demonstrated that the instruction to release desire and "
+            "greed can be reached independently from any one of the "
+            "three marks — not requiring all three together, though "
+            "elsewhere in this book (SN 22.15-17) the three are also "
+            "shown building on each other in sequence.",
+        ]),
+        ("The final set's own remaining discourses", [
+            "SN 22.144 will substitute greed for desire, and SN 22.145 "
+            "will combine them, completing this vagga's full 3×3 opening "
+            "structure before SN 22.146 shifts to an entirely different "
+            "kind of discourse.",
+        ]),
+    ],
+    terms=[
+        ("anattā", "not-self — the third mark, and the quality this discourse reasons from"),
+        ("anicca", "impermanent — the first mark, reasoned from at SN 22.137-139"),
+        ("dukkha", "suffering — the second mark, reasoned from at SN 22.140-142"),
+        ("chanda", "desire — this discourse's own term, matching SN 22.137 and SN 22.140's own opening term"),
+        ("peyyāla", "an elision mark, representing the unstated aggregate-by-aggregate elaboration"),
+    ],
+    text_intro=("The complete discourse as given in the source, a single opening "
+        "line with the remainder elided. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.143:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What quality does this discourse reason from, opening the vagga's third set?",
+         "opts": ["Not-self (anattā)", "Impermanence (anicca)", "Suffering (dukkha)", "Emptiness (suññatā)"],
+         "correct": 0,
+         "expl": "Completing the traversal of this book's three marks as independent grounds."},
+        {"q": "How does \"not-self\" differ in kind from \"impermanent\" and \"suffering\" as a reason for releasing desire?",
+         "opts": [
+             "It points to a mistaken relationship (treating something as self) rather than a quality unfolding in time",
+             "It is not actually different in any respect",
+             "It applies only to consciousness, not the other aggregates",
+             "It contradicts the other two marks entirely"],
+         "correct": 0,
+         "expl": "A structural reason rather than a temporal one."},
+        {"q": "What does the identical grammatical template accommodating all three marks suggest?",
+         "opts": [
+             "The underlying instruction is flexible enough to carry genuinely different arguments, not merely repeating one under three names",
+             "The three marks are actually identical in meaning",
+             "Only one of the three marks is a valid reason",
+             "The template is a scribal error"],
+         "correct": 0,
+         "expl": "\"Give up desire for X because X is Y\" accommodates temporal and structural reasons alike."},
+        {"q": "What has this vagga demonstrated by giving each of the three marks its own full three-discourse treatment?",
+         "opts": [
+             "That the instruction can be reached independently from any one of the three marks",
+             "That only impermanence is a sufficient reason on its own",
+             "That the three marks must always be used together",
+             "That the three marks contradict each other"],
+         "correct": 0,
+         "expl": "Not requiring all three marks together, though elsewhere (SN 22.15-17) they also build on each other."},
+        {"q": "What discourse earlier in this book shows the three marks building on each other in sequence?",
+         "opts": ["SN 22.15-17", "SN 22.93-95", "SN 22.1-11", "SN 22.117"],
+         "correct": 0,
+         "expl": "A different mode of relating the three marks, compared to this vagga's independent-grounds approach."},
+        {"q": "What term does this discourse use, matching SN 22.137 and SN 22.140's own opening term?",
+         "opts": ["Chanda (desire)", "Rāga (greed)", "Chandarāga (desire and greed)", "Taṇhā (craving)"],
+         "correct": 0,
+         "expl": "The first term in each of the vagga's three parallel sets."},
+        {"q": "How much text does the source give for this discourse?",
+         "opts": [
+             "Only a single opening line, elided",
+             "The full aggregate-by-aggregate elaboration",
+             "A lengthy closing verse",
+             "Nothing at all"],
+         "correct": 0,
+         "expl": "Matching SN 22.140's own extreme compression."},
+        {"q": "What discourses close this final three-discourse set?",
+         "opts": ["SN 22.144 and SN 22.145", "SN 22.146 and SN 22.147", "SN 22.137 and SN 22.138", "SN 22.113 and SN 22.114"],
+         "correct": 0,
+         "expl": "Substituting greed, then combining desire and greed, completing this vagga's 3×3 opening structure."},
+        {"q": "How many aggregates does this instruction (by inference) apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Following the established pattern from the earlier two sets."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Continuing the setting of the surrounding discourses in this vagga."},
+    ],
+    marginalia=[
+        ("The third mark, the same compression", [
+            "not-self, in place of suffering &mdash;",
+            "the identical single line, elided",
+        ]),
+        ("A structural reason, not a temporal one", [
+            "not \"it changes\" or \"it hurts\" &mdash;",
+            "but \"it is mistakenly held to be self\"",
+        ]),
+        ("One template, genuinely different arguments", [
+            "give up desire for X because X is Y &mdash;",
+            "flexible enough to carry three distinct kinds of reason",
+        ]),
+        ("Three marks, three independent grounds", [
+            "each sufficient on its own &mdash;",
+            "though elsewhere shown building on each other too",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.143/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.142.html">SN 22.142 &middot; Suffering (3rd)</a> '
+        "&mdash; the previous discourse, closing the suffering set this "
+        "discourse's structure is drawn from.",
+        '<a href="sn-22.144.html">SN 22.144 &middot; Not-Self (2nd)</a> '
+        "&mdash; the next discourse, substituting greed for desire "
+        "within this new set.",
+    ],
+)
+
+page(22, 144, "Dutiyaanattā", "Not-Self (2nd)",
+    vagga="Kukkuḷavagga",
+    meta_title="SN 22.144 · Not-Self (2nd) — Give Up Greed",
+    meta_desc="The second discourse in the not-self set, substituting "
+        "greed for desire, given in the same compressed form as its "
+        "companions. Saṃyutta Nikāya 22.144, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A single opening line, elided exactly as SN 22.141"),
+        ("Length", "Among the shortest discourses in this vagga"),
+        ("Northern parallel", "Shares its structure with SN 22.138 and SN 22.141, now applied to not-self"),
+        ("Difficulty", "Approachable — best read directly alongside SN 22.143"),
+    ],
+    why=("The middle discourse of this vagga's third set: substitutes "
+        "greed for SN 22.143's desire, mirroring SN 22.138 and SN "
+        "22.141's own roles in the earlier two sets, completing the "
+        "second position in a now fully consistent nine-discourse "
+        "structure."),
+    guide=[
+        ("The second term, the third mark", [
+            "\"You should give up greed for what is not-self...\" — the "
+            "identical single-clause presentation, substituting rāga for "
+            "SN 22.143's chanda, exactly as SN 22.138 and SN 22.141 did "
+            "for their own respective marks.",
+        ]),
+        ("A consistency now fully established", [
+            "By this ninth discourse in the sequence, the pattern "
+            "governing every position is completely predictable: first "
+            "discourse in each triad uses chanda, second uses rāga, "
+            "third uses chandarāga — and this predictability is itself "
+            "part of what the extreme compression communicates, since a "
+            "reader who has followed this vagga from SN 22.137 needs no "
+            "further explanation to know exactly what this discourse "
+            "says.",
+        ]),
+        ("Not-self and the mechanism of greed", [
+            "Applying \"give up greed\" specifically to what is not-self "
+            "highlights something worth noting: greed for an aggregate "
+            "is, in a sense, greed reaching toward something that was "
+            "never available to be possessed as \"mine\" in the first "
+            "place — not-self names exactly the mismatch between "
+            "greed's implicit assumption (there is a self that could "
+            "hold this) and the aggregate's actual nature.",
+        ]),
+        ("One discourse remaining", [
+            "SN 22.145, this discourse's own companion, will combine "
+            "desire and greed for not-self, closing this vagga's third "
+            "and final opening set before SN 22.146 introduces an "
+            "entirely different kind of discourse.",
+        ]),
+    ],
+    terms=[
+        ("rāga", "greed — this discourse's own term, matching SN 22.138 and SN 22.141's role"),
+        ("anattā", "not-self — the quality this discourse reasons from, shared with SN 22.143"),
+        ("chanda", "desire — SN 22.143's own term, the counterpart this discourse substitutes"),
+        ("chandarāga", "desire and greed together — the combined term SN 22.145 will use to close this set"),
+        ("attaniya", "belonging to a self — the implicit assumption not-self is said to contradict, underlying why greed misfires toward the aggregates"),
+    ],
+    text_intro=("The complete discourse as given in the source, a single opening "
+        "line with the remainder elided. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.144:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse use, replacing SN 22.143's \"desire\"?",
+         "opts": ["Greed (rāga)", "Craving (taṇhā)", "Grasping (upādāna)", "Ignorance (avijjā)"],
+         "correct": 0,
+         "expl": "Mirroring SN 22.138 and SN 22.141's own role in the earlier two sets."},
+        {"q": "What pattern is fully established by this ninth discourse in the sequence?",
+         "opts": [
+             "Each triad's first, second, and third discourse consistently uses chanda, rāga, and chandarāga respectively",
+             "No consistent pattern governs any of the discourses",
+             "Every discourse uses a completely different, unrelated term",
+             "Only the first triad follows any discernible pattern"],
+         "correct": 0,
+         "expl": "A predictability that itself explains the extreme compression by this point."},
+        {"q": "What does applying \"give up greed\" to what is not-self highlight?",
+         "opts": [
+             "Greed reaches toward something never available to be possessed as \"mine\" in the first place",
+             "Greed is impossible to overcome for the aggregates",
+             "Not-self has no relationship to greed at all",
+             "Greed only applies to form, not the other aggregates"],
+         "correct": 0,
+         "expl": "Not-self names the mismatch between greed's assumption and the aggregate's actual nature."},
+        {"q": "What discourse closes this not-self set by combining desire and greed?",
+         "opts": ["SN 22.145, \"Not-Self (3rd)\"", "SN 22.146, \"Full of Disillusionment\"", "SN 22.139, \"Impermanence (3rd)\"", "SN 22.142, \"Suffering (3rd)\""],
+         "correct": 0,
+         "expl": "This discourse's own direct companion, closing the final opening set."},
+        {"q": "What quality does this discourse reason from?",
+         "opts": ["Not-self (anattā)", "Impermanence (anicca)", "Suffering (dukkha)", "Emptiness (suññatā)"],
+         "correct": 0,
+         "expl": "Shared with SN 22.143 and SN 22.145, this vagga's final three-discourse set."},
+        {"q": "How much text does the source give for this discourse?",
+         "opts": [
+             "Only a single opening line, elided",
+             "The full aggregate-by-aggregate elaboration",
+             "A lengthy closing verse",
+             "Nothing at all"],
+         "correct": 0,
+         "expl": "Matching SN 22.141's own extreme compression."},
+        {"q": "What comes after this final three-discourse set within Kukkuḷavagga's overall structure?",
+         "opts": [
+             "SN 22.146, introducing an entirely different kind of discourse",
+             "A return to the impermanence set",
+             "The start of a new vagga",
+             "SN 22.113, revisited"],
+         "correct": 0,
+         "expl": "The vagga's 3×3 opening structure now complete."},
+        {"q": "How many aggregates does this instruction (by inference) apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Following the established pattern from all the preceding discourses in this sequence."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.143's own setting."},
+        {"q": "What implicit assumption does \"not-self\" contradict, relevant to why greed misfires here?",
+         "opts": [
+             "That there is a self that could hold or possess the aggregate",
+             "That aggregates exist at all",
+             "That greed is always wholesome",
+             "That impermanence and suffering are unrelated to not-self"],
+         "correct": 0,
+         "expl": "Not-self names exactly this mismatch between greed's assumption and reality."},
+    ],
+    marginalia=[
+        ("The second term, the third mark", [
+            "greed, applied to not-self &mdash;",
+            "the same substitution pattern, now fully predictable",
+        ]),
+        ("A pattern the reader can now anticipate", [
+            "chanda, rāga, chandarāga, in every triad &mdash;",
+            "compression made possible by established consistency",
+        ]),
+        ("Greed reaching for what was never available", [
+            "not-self names the mismatch directly &mdash;",
+            "no self there to hold what greed assumes",
+        ]),
+        ("One discourse left to close this final set", [
+            "combination still to come &mdash;",
+            "SN 22.145 completes the vagga's opening structure",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.144/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.143.html">SN 22.143 &middot; Not-Self</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "companion.",
+        '<a href="sn-22.145.html">SN 22.145 &middot; Not-Self (3rd)</a> '
+        "&mdash; the next discourse, combining desire and greed to "
+        "close this vagga's opening nine-discourse structure.",
+    ],
+)
+
+page(22, 145, "Tatiyaanattā", "Not-Self (3rd)",
+    vagga="Kukkuḷavagga",
+    meta_title="SN 22.145 · Not-Self (3rd) — Closing the 3×3 Structure",
+    meta_desc="Desire and greed combined for not-self, completing "
+        "Kukkuḷavagga's opening nine-discourse 3×3 structure. Saṃyutta "
+        "Nikāya 22.145, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A single opening line, elided exactly as SN 22.140-144"),
+        ("Length", "Among the shortest discourses in this vagga"),
+        ("Northern parallel", "Shares its structure with SN 22.139 and SN 22.142, now applied to not-self"),
+        ("Difficulty", "Approachable — best read as the close of this vagga's opening nine-discourse structure"),
+    ],
+    why=("Closes Kukkuḷavagga's opening nine-discourse structure: combines "
+        "desire and greed reasoning from not-self, the third and final "
+        "position this same combined term occupies across three "
+        "parallel sets, completing the full 3×3 matrix begun at SN "
+        "22.137."),
+    guide=[
+        ("The combined term, the final close", [
+            "\"You should give up desire and greed for what is "
+            "not-self...\" — chandarāga applied to anattā, the ninth and "
+            "last discourse in a sequence that has now paired every one "
+            "of three attitudes (desire, greed, both) with every one of "
+            "three marks (impermanent, suffering, not-self) exactly "
+            "once.",
+        ]),
+        ("Nine discourses, one completed matrix", [
+            "Reviewed as a whole, SN 22.137-145 forms a precise grid: "
+            "impermanence × desire (137), impermanence × greed (138), "
+            "impermanence × both (139); suffering × desire (140), "
+            "suffering × greed (141), suffering × both (142); not-self × "
+            "desire (143), not-self × greed (144), not-self × both "
+            "(145) — nine discourses, no gaps, no repeats.",
+        ]),
+        ("What this structure accomplishes rhetorically", [
+            "Having systematically demonstrated that any one of the "
+            "three marks, paired with any one of the three attitudes, "
+            "yields the identical instruction, the collection makes an "
+            "implicit but forceful point: there is no combination of "
+            "reason and attachment left unaddressed — the case for "
+            "giving up desire and greed toward the aggregates is total, "
+            "not dependent on any single argument holding.",
+        ]),
+        ("Turning to a different structure", [
+            "SN 22.146, this vagga's next discourse, breaks entirely "
+            "from this nine-discourse matrix, introducing \"full of "
+            "disillusionment\" as a new formula that SN 22.147-149 will "
+            "then vary through observing impermanence, suffering, and "
+            "not-self — a different, three-part (rather than "
+            "nine-part) structure closing the vagga.",
+        ]),
+    ],
+    terms=[
+        ("chandarāga", "desire and greed together — this discourse's own combined term, the ninth and final position in the vagga's opening matrix"),
+        ("anattā", "not-self — the quality this discourse reasons from, closing the third set"),
+        ("anicca/dukkha/anattā", "impermanent / suffering / not-self — the three marks systematically paired with chanda/rāga/chandarāga across these nine discourses"),
+        ("tilakkhaṇa", "the three marks — the Canon's standard vocabulary for the three qualities this sequence has worked through"),
+        ("nippariyāyena", "\"without qualification,\" \"totally\" — capturing the force of a case built to leave no combination unaddressed"),
+    ],
+    text_intro=("The complete discourse as given in the source, a single opening "
+        "line with the remainder elided. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.145:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What combined term does this discourse use, closing this final set?",
+         "opts": [
+             "Chandarāga, \"desire and greed\" together",
+             "Taṇhā, \"craving\" alone",
+             "Upādāna, \"grasping\" alone",
+             "Avijjā, \"ignorance\" alone"],
+         "correct": 0,
+         "expl": "Applied to anattā, the ninth and last position in the vagga's opening matrix."},
+        {"q": "What grid do SN 22.137-145 together form, once this discourse is complete?",
+         "opts": [
+             "A precise 3×3 matrix pairing three marks with three attitudes, with no gaps or repeats",
+             "A single repeated discourse with no actual variation",
+             "A random, unstructured collection of nine unrelated teachings",
+             "A 2×2 grid with one combination missing"],
+         "correct": 0,
+         "expl": "Impermanence, suffering, and not-self, each paired with desire, greed, and both."},
+        {"q": "What rhetorical point does this completed 3×3 structure make?",
+         "opts": [
+             "The case for giving up desire and greed is total, not dependent on any single argument holding",
+             "Only one of the nine combinations is actually valid",
+             "The three marks contradict each other when combined systematically",
+             "No point is made by the structure itself"],
+         "correct": 0,
+         "expl": "No combination of reason and attachment left unaddressed."},
+        {"q": "What discourse breaks from this nine-discourse matrix, introducing a new structure?",
+         "opts": [
+             "SN 22.146, \"Full of Disillusionment\"",
+             "SN 22.137, \"Impermanence\"",
+             "SN 22.113, \"Ignorance\"",
+             "SN 22.135, closing Avijjāvagga"],
+         "correct": 0,
+         "expl": "The vagga's next discourse, introducing a different formula altogether."},
+        {"q": "What structure will SN 22.147-149 follow, varying SN 22.146's own formula?",
+         "opts": [
+             "Observing impermanence, suffering, and not-self, in a three-part rather than nine-part structure",
+             "The identical nine-part 3×3 matrix repeated once more",
+             "A structure entirely unrelated to the three marks",
+             "No variation at all — the identical discourse repeated three times"],
+         "correct": 0,
+         "expl": "A different, more compact three-discourse structure closing the vagga."},
+        {"q": "What quality does this discourse reason from?",
+         "opts": ["Not-self (anattā)", "Impermanence (anicca)", "Suffering (dukkha)", "Emptiness (suññatā)"],
+         "correct": 0,
+         "expl": "The third and final mark in this opening nine-discourse sequence."},
+        {"q": "How much text does the source give for this discourse?",
+         "opts": [
+             "Only a single opening line, elided",
+             "The full aggregate-by-aggregate elaboration",
+             "A lengthy closing verse",
+             "Nothing at all"],
+         "correct": 0,
+         "expl": "Matching SN 22.140-144's own extreme compression."},
+        {"q": "How many aggregates does this instruction (by inference) apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Following the established pattern from all eight preceding discourses in this sequence."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.143-144's own setting."},
+        {"q": "What three attitudes are systematically paired with the three marks across these nine discourses?",
+         "opts": ["Desire, greed, and both combined", "Fear, doubt, and pride", "Craving, aversion, and confusion", "Attraction, insistence, and underlying tendency"],
+         "correct": 0,
+         "expl": "Chanda, rāga, and chandarāga, cycling through each of the three marks."},
+    ],
+    marginalia=[
+        ("The ninth and final position", [
+            "chandarāga, applied to not-self &mdash;",
+            "the matrix's last cell filled",
+        ]),
+        ("Nine discourses, no gaps, no repeats", [
+            "three marks times three attitudes &mdash;",
+            "every combination addressed exactly once",
+        ]),
+        ("A case built to leave nothing unaddressed", [
+            "not dependent on any single argument holding &mdash;",
+            "the conclusion total, however it is reached",
+        ]),
+        ("A different structure to follow", [
+            "SN 22.146 breaks the matrix entirely &mdash;",
+            "\"full of disillusionment,\" and its own threefold variation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.145/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.144.html">SN 22.144 &middot; Not-Self (2nd)</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "companion.",
+        '<a href="sn-22.146.html">SN 22.146 &middot; Full of '
+        "Disillusionment</a> &mdash; the next discourse, breaking from "
+        "this nine-discourse matrix with an entirely new formula.",
+    ],
+)
+
+page(22, 146, "Nibbidābahula", "Full of Disillusionment",
+    vagga="Kukkuḷavagga",
+    meta_title="SN 22.146 · Full of Disillusionment — For One Gone Forth Out of Faith",
+    meta_desc="What is in line with the teaching for a gentleman who has "
+        "gone forth out of faith: living full of disillusionment for "
+        "each aggregate, leading step by step to freedom. Saṃyutta "
+        "Nikāya 22.146, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A single sustained instruction, tracing a chain from disillusionment to freedom"),
+        ("Length", "Short — one continuous chain, given in full"),
+        ("Northern parallel", "The \"gone forth out of faith\" (saddhā pabbajita) framing recurs in similar contexts describing what a new mendicant's life should look like"),
+        ("Difficulty", "Approachable — a clear, unbroken chain of reasoning"),
+    ],
+    why=("Breaks decisively from the preceding nine-discourse 3×3 matrix, "
+        "introducing a new formula and a new frame: not a technical "
+        "instruction about desire and greed, but a description of what "
+        "\"is in line with the teaching\" for anyone who has \"gone forth "
+        "out of faith\" — living full of disillusionment toward each "
+        "aggregate."),
+    guide=[
+        ("A new frame: the gentleman gone forth out of faith", [
+            "\"When a gentleman has gone forth out of faith, this is "
+            "what's in line with the teaching\" — a striking shift from "
+            "the preceding matrix's impersonal, technical instructions "
+            "to a description centered on a specific figure: someone who "
+            "has left the household life motivated by faith (saddhā) "
+            "rather than, say, by intellectual conviction or force of "
+            "circumstance.",
+            "This framing implicitly asks what such a person's life "
+            "should actually consist of, once the initial decision to go "
+            "forth has been made — not what to believe, but how to live.",
+        ]),
+        ("Full of disillusionment, as the ongoing practice", [
+            "\"They should live full of disillusionment for form, "
+            "feeling, perception, choices, and consciousness\" — "
+            "nibbidābahula, giving this discourse its title, describes "
+            "not a single moment of insight but a sustained way of "
+            "living saturated with this quality throughout ordinary "
+            "activity.",
+        ]),
+        ("A chain, not a single step", [
+            "\"Living in this way, they completely understand [the "
+            "aggregates]. Completely understanding [them], they're freed "
+            "from these things. They're freed from rebirth, old age, and "
+            "death... They're freed from suffering, I say\" — a clear "
+            "chain: sustained disillusionment leads to complete "
+            "understanding, which leads to freedom from the aggregates, "
+            "which leads to freedom from suffering itself.",
+            "Unlike the nine-discourse matrix's instruction-and-"
+            "justification structure, this discourse describes an "
+            "unfolding process, each step following naturally from the "
+            "one before it rather than being separately argued for.",
+        ]),
+        ("Opening a differently structured closing set", [
+            "This discourse's own chain — disillusionment leading "
+            "through understanding to freedom — becomes the template for "
+            "SN 22.147-149, which will each substitute a different "
+            "specific observation (impermanence, suffering, not-self) "
+            "for \"full of disillusionment\" as the practice's own "
+            "starting point.",
+        ]),
+    ],
+    terms=[
+        ("nibbidābahula", "full of disillusionment — the sustained quality giving this discourse its title"),
+        ("saddhā pabbajita", "gone forth out of faith — describing the specific figure this discourse addresses"),
+        ("dhammānudhamma", "\"in line with the teaching\" — what this discourse describes as fitting for such a person's ongoing life"),
+        ("pariññā", "complete understanding — the first link in the chain this discourse traces"),
+        ("sabbadukkhā pamuccati", "\"freed from suffering\" — the chain's final destination, closing the discourse"),
+    ],
+    text_intro=("The complete discourse: the frame of one gone forth out of "
+        "faith, and the chain from disillusionment through understanding "
+        "to freedom. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.146:1.1-1.3"),
+        ("p", "§2", "sn22.146:1.4-1.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure differ from the preceding nine discourses (SN 22.137-145)?",
+         "opts": [
+             "It shifts from technical instruction about desire and greed to a description of an unfolding process",
+             "It repeats the identical 3×3 matrix structure exactly",
+             "It contains no reference to the five aggregates at all",
+             "It is addressed to a different audience entirely"],
+         "correct": 0,
+         "expl": "A decisive break introducing a new formula and a new frame."},
+        {"q": "Who is this discourse specifically framed around?",
+         "opts": [
+             "A gentleman who has gone forth out of faith",
+             "An already-liberated arahant",
+             "A lay follower who has not renounced the household life",
+             "A specific named disciple"],
+         "correct": 0,
+         "expl": "Someone motivated by faith (saddhā) to leave household life, addressing what their ongoing practice should be."},
+        {"q": "What does \"nibbidābahula\" describe?",
+         "opts": [
+             "A sustained way of living saturated with disillusionment, not a single moment of insight",
+             "A single fleeting emotional state",
+             "A physical location for meditation",
+             "A specific ritual practice"],
+         "correct": 0,
+         "expl": "Giving this discourse its title as an ongoing quality of life."},
+        {"q": "What chain does this discourse trace?",
+         "opts": [
+             "Disillusionment leads to complete understanding, which leads to freedom from the aggregates and from suffering",
+             "Understanding leads directly to disillusionment with no further steps",
+             "Freedom leads to disillusionment, reversing the usual order",
+             "No chain is described — only a single isolated instruction"],
+         "correct": 0,
+         "expl": "Each step following naturally from the one before it."},
+        {"q": "How does this discourse's argumentative structure compare to the preceding matrix?",
+         "opts": [
+             "It describes an unfolding process rather than an instruction-and-justification structure",
+             "It is identical in structure to the preceding nine discourses",
+             "It provides no reasoning at all, only a bare command",
+             "It uses the same chandarāga terminology as the previous set"],
+         "correct": 0,
+         "expl": "Each step follows naturally rather than being separately argued for."},
+        {"q": "What discourses will vary this discourse's own template?",
+         "opts": [
+             "SN 22.147-149, substituting different observations for \"full of disillusionment\"",
+             "SN 22.137-145, the preceding nine-discourse matrix",
+             "No further discourses vary this template",
+             "SN 22.113-114, earlier in this book"],
+         "correct": 0,
+         "expl": "Each will substitute observing impermanence, suffering, or not-self for this discourse's own formula."},
+        {"q": "What is the final destination of the chain this discourse traces?",
+         "opts": [
+             "Freedom from suffering",
+             "Rebirth in a heavenly realm",
+             "A return to household life",
+             "Further disillusionment with no resolution"],
+         "correct": 0,
+         "expl": "The chain's explicit closing statement."},
+        {"q": "How many aggregates does this instruction apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, named together."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Continuing the setting of the surrounding discourses in this book."},
+        {"q": "What motivates the figure this discourse addresses, going forth from household life?",
+         "opts": ["Faith (saddhā)", "Intellectual conviction alone", "Financial necessity", "Social pressure"],
+         "correct": 0,
+         "expl": "Specifically named in the discourse's own opening frame."},
+    ],
+    marginalia=[
+        ("A new frame after nine discourses of matrix", [
+            "the gentleman gone forth out of faith &mdash;",
+            "not instruction now, but a description of a life",
+        ]),
+        ("Not a moment, but a sustained way of living", [
+            "nibbidābahula, \"full of\" disillusionment &mdash;",
+            "saturating ordinary activity throughout",
+        ]),
+        ("A chain, each link following the last", [
+            "disillusionment to understanding to freedom &mdash;",
+            "an unfolding process, not separate arguments",
+        ]),
+        ("A template for three more discourses", [
+            "impermanence, suffering, not-self to follow &mdash;",
+            "each substituting into this same chain",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.146/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.145.html">SN 22.145 &middot; Not-Self (3rd)</a> '
+        "&mdash; the previous discourse, closing the opening "
+        "nine-discourse matrix this discourse breaks from.",
+        '<a href="sn-22.147.html">SN 22.147 &middot; Observing '
+        "Impermanence</a> &mdash; the next discourse, varying this "
+        "discourse's own chain with a specific observation.",
+    ],
+)
+
+page(22, 147, "Aniccānupassī", "Observing Impermanence",
+    vagga="Kukkuḷavagga",
+    meta_title="SN 22.147 · Observing Impermanence — The First Variation",
+    meta_desc="SN 22.146's own chain, now specified as meditating "
+        "observing impermanence in each aggregate — the first of three "
+        "closing variations. Saṃyutta Nikāya 22.147, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The same frame and chain as SN 22.146, with a specific meditation substituted for \"full of disillusionment\""),
+        ("Length", "Short — largely elided, following SN 22.146's established chain"),
+        ("Northern parallel", "The \"observing impermanence\" (aniccānupassī) formula recurs widely as a foundational meditation instruction across the Canon"),
+        ("Difficulty", "Approachable — best read directly alongside SN 22.146"),
+    ],
+    why=("Takes SN 22.146's chain — disillusionment leading through "
+        "understanding to freedom — and substitutes a specific "
+        "meditation practice, \"observing impermanence,\" for the "
+        "general \"full of disillusionment\" that opened the previous "
+        "discourse, the first of three such substitutions closing this "
+        "vagga."),
+    guide=[
+        ("The same frame, a specific practice named", [
+            "\"When a gentleman has gone forth out of faith, this is "
+            "what's in line with the teaching. They should meditate "
+            "observing impermanence in form, feeling, perception, "
+            "choices, and consciousness\" — identical framing to SN "
+            "22.146, but now naming a concrete meditative activity "
+            "(anupassī, \"observing\" or \"contemplating\") rather than "
+            "the more general \"full of disillusionment.\"",
+        ]),
+        ("A concrete practice replacing a general disposition", [
+            "Where nibbidā (\"disillusionment\") names an attitude or "
+            "orientation that might arise through many different means, "
+            "aniccānupassanā (\"observing impermanence\") names a "
+            "specific, repeatable meditative act — watching for "
+            "impermanence directly in present experience, aggregate by "
+            "aggregate.",
+            "This suggests a relationship between the two discourses: SN "
+            "22.146 names the resulting quality of a well-lived "
+            "practice, while SN 22.147 names one concrete method that "
+            "could produce it.",
+        ]),
+        ("The elided remainder", [
+            "The source text gives only the opening frame and the "
+            "specific practice in full, then elides the remainder with "
+            "an ellipsis before resuming at the discourse's closing "
+            "line — trusting the reader to supply SN 22.146's own "
+            "middle steps (complete understanding, freedom from the "
+            "aggregates) unchanged.",
+        ]),
+        ("Two more variations to come", [
+            "SN 22.148 will substitute \"observing suffering\" for this "
+            "discourse's \"observing impermanence,\" and SN 22.149 will "
+            "substitute \"observing not-self,\" completing a second, "
+            "more compact three-mark sequence to close this vagga — "
+            "structurally parallel to, but distinct from, the "
+            "nine-discourse matrix earlier in Kukkuḷavagga.",
+        ]),
+    ],
+    terms=[
+        ("aniccānupassī", "observing impermanence — the specific meditation this discourse names, giving it its title"),
+        ("nibbidābahula", "full of disillusionment — SN 22.146's own general formula, here replaced by a specific practice"),
+        ("anupassanā", "observing, contemplating — the meditative act at the root of this discourse's title"),
+        ("saddhā pabbajita", "gone forth out of faith — the same figure addressed in SN 22.146"),
+        ("sabbadukkhā pamuccati", "\"freed from suffering\" — the shared closing destination with SN 22.146"),
+    ],
+    text_intro=("The complete discourse as given in the source: the opening frame "
+        "and the specific practice named, with the middle chain elided as "
+        "in SN 22.146. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.147:1.1-1.2"),
+        ("p", "§2", "sn22.147:1.3-1.7"),
+        ("p", "§3", "sn22.147:1.8"),
+    ],
+    quiz=[
+        {"q": "What specific practice does this discourse name, replacing SN 22.146's \"full of disillusionment\"?",
+         "opts": [
+             "Meditating observing impermanence in each aggregate",
+             "Reciting the precepts daily",
+             "Fasting for extended periods",
+             "Silent retreat without any specific object of meditation"],
+         "correct": 0,
+         "expl": "The first of three specific substitutions closing this vagga."},
+        {"q": "What is the relationship between \"disillusionment\" and \"observing impermanence\" as this discourse frames it?",
+         "opts": [
+             "One names a resulting quality of practice, the other names a concrete method that could produce it",
+             "The two terms are entirely unrelated concepts",
+             "Observing impermanence contradicts disillusionment",
+             "They are used interchangeably with no distinction intended"],
+         "correct": 0,
+         "expl": "A general disposition versus a specific, repeatable meditative act."},
+        {"q": "How does the source text present the remainder of this discourse, beyond the opening and the named practice?",
+         "opts": [
+             "Elided with an ellipsis, trusting the reader to supply SN 22.146's own middle steps",
+             "Spelled out in full detail, differing from SN 22.146",
+             "Omitted entirely, with no closing line at all",
+             "Replaced with an entirely new argument"],
+         "correct": 0,
+         "expl": "Resuming at the closing line, matching SN 22.146's own structure."},
+        {"q": "Who is this discourse addressed to, matching SN 22.146?",
+         "opts": [
+             "A gentleman who has gone forth out of faith",
+             "An already-liberated arahant exclusively",
+             "A lay follower who has not renounced household life",
+             "A specific named disciple"],
+         "correct": 0,
+         "expl": "The identical figure and framing as SN 22.146."},
+        {"q": "What does anupassanā specifically mean?",
+         "opts": ["Observing, contemplating", "Renouncing entirely", "Debating philosophically", "Memorizing verbatim"],
+         "correct": 0,
+         "expl": "The meditative act at the root of this discourse's own title."},
+        {"q": "What two discourses will follow this same pattern with different observations?",
+         "opts": [
+             "SN 22.148 (suffering) and SN 22.149 (not-self)",
+             "SN 22.137 and SN 22.140, returning to the earlier matrix",
+             "No further discourses follow this pattern",
+             "SN 22.113 and SN 22.114, much earlier in the book"],
+         "correct": 0,
+         "expl": "Completing a compact three-mark sequence closing this vagga."},
+        {"q": "How does this closing three-discourse sequence relate to the vagga's earlier nine-discourse matrix?",
+         "opts": [
+             "Structurally parallel but distinct — a more compact sequence rather than the earlier 3×3 grid",
+             "It is an exact repeat of the earlier matrix",
+             "It contradicts everything established in the earlier matrix",
+             "It has no relationship to the earlier matrix at all"],
+         "correct": 0,
+         "expl": "Both work through the three marks, but in different structural forms."},
+        {"q": "What is the shared closing destination between this discourse and SN 22.146?",
+         "opts": [
+             "\"Freed from suffering\"",
+             "\"Reborn in a heavenly realm\"",
+             "\"Return to household life\"",
+             "\"Endless further practice with no resolution\""],
+         "correct": 0,
+         "expl": "The same chain's final step, shared across the whole closing sequence."},
+        {"q": "How many aggregates does this practice apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, as throughout this book."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.146's own setting."},
+    ],
+    marginalia=[
+        ("A named method, in place of a named result", [
+            "observing impermanence, specifically &mdash;",
+            "one concrete practice among possibly several",
+        ]),
+        ("The frame held constant, the practice specified", [
+            "gone forth out of faith, exactly as before &mdash;",
+            "\"full of disillusionment\" now made concrete",
+        ]),
+        ("The middle chain, trusted to the reader", [
+            "understanding, freedom, elided once more &mdash;",
+            "only the substitution needs stating",
+        ]),
+        ("The first of a three-part closing sequence", [
+            "suffering and not-self still to come &mdash;",
+            "a second, more compact pass through the three marks",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.147/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.146.html">SN 22.146 &middot; Full of '
+        "Disillusionment</a> &mdash; the previous discourse, whose "
+        "chain this discourse's own practice fills in.",
+        '<a href="sn-22.148.html">SN 22.148 &middot; Observing '
+        "Suffering</a> &mdash; the next discourse, substituting "
+        "suffering for this discourse's own impermanence.",
+    ],
+)
+
+page(22, 148, "Dukkhānupassī", "Observing Suffering",
+    vagga="Kukkuḷavagga",
+    meta_title="SN 22.148 · Observing Suffering — The Second Variation",
+    meta_desc="The same chain once more, now observing suffering rather "
+        "than impermanence, the second of three closing variations. "
+        "Saṃyutta Nikāya 22.148, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The same frame and chain as SN 22.146-147, with \"observing suffering\" substituted"),
+        ("Length", "Short — largely elided, following the established chain"),
+        ("Northern parallel", "Shares its structure with SN 22.147 and the widely attested dukkhānupassī formula"),
+        ("Difficulty", "Approachable — best read directly after SN 22.147"),
+    ],
+    why=("The second of three closing variations: SN 22.146's chain, "
+        "with \"observing suffering\" replacing SN 22.147's \"observing "
+        "impermanence\" as the specific meditative practice a "
+        "gentleman gone forth out of faith should undertake."),
+    guide=[
+        ("The second observation, the same structure", [
+            "\"They should meditate observing suffering in form, "
+            "feeling, perception, choices, and consciousness\" — the "
+            "identical frame and chain as SN 22.147, with dukkha "
+            "replacing anicca as the object of observation.",
+        ]),
+        ("Completing a smaller echo of the earlier nine-discourse pattern", [
+            "This three-discourse closing sequence (SN 22.147-149) "
+            "revisits the same three marks already worked through "
+            "exhaustively at SN 22.137-145, but in a more compact form: "
+            "rather than crossing three marks with three attitudes "
+            "(nine discourses), this sequence pairs three marks with a "
+            "single practice — observing — producing only three "
+            "discourses for the same three-mark material.",
+        ]),
+        ("Why observing suffering matters as its own practice", [
+            "Distinguishing \"observing suffering\" from \"observing "
+            "impermanence\" as separate meditative objects (rather than "
+            "assuming one automatically reveals the other) mirrors the "
+            "same insistence on treating related marks independently "
+            "already seen in the earlier nine-discourse matrix — "
+            "consistent with this vagga's overall method of thoroughness "
+            "through explicit enumeration rather than assumed inference.",
+        ]),
+        ("One variation remaining", [
+            "SN 22.149, this vagga's final discourse, will substitute "
+            "\"observing not-self\" to complete this three-part closing "
+            "sequence and the whole of Kukkuḷavagga.",
+        ]),
+    ],
+    terms=[
+        ("dukkhānupassī", "observing suffering — the specific meditation this discourse names, giving it its title"),
+        ("aniccānupassī", "observing impermanence — SN 22.147's own parallel practice"),
+        ("anattānupassī", "observing not-self — the practice SN 22.149 will name to close this sequence"),
+        ("saddhā pabbajita", "gone forth out of faith — the same figure addressed throughout this closing sequence"),
+        ("sabbadukkhā pamuccati", "\"freed from suffering\" — the shared closing destination across all three variations"),
+    ],
+    text_intro=("The complete discourse as given in the source, mirroring SN "
+        "22.147's structure with \"suffering\" replacing \"impermanence.\" "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.148:1.1-1.2"),
+        ("p", "§2", "sn22.148:1.3-1.7"),
+        ("p", "§3", "sn22.148:1.8"),
+    ],
+    quiz=[
+        {"q": "What specific practice does this discourse name, replacing SN 22.147's \"observing impermanence\"?",
+         "opts": [
+             "Observing suffering in each aggregate",
+             "Reciting the precepts",
+             "Silent retreat with no specific meditation object",
+             "Chanting a fixed set of verses"],
+         "correct": 0,
+         "expl": "The second of three closing variations on SN 22.146's own chain."},
+        {"q": "How does this three-discourse closing sequence (147-149) compare to the earlier nine-discourse matrix (137-145)?",
+         "opts": [
+             "A more compact form pairing three marks with a single practice, rather than crossing three marks with three attitudes",
+             "An exact repeat of the earlier nine-discourse matrix",
+             "A completely unrelated structure with no connection to the three marks",
+             "A longer, more elaborate version of the earlier matrix"],
+         "correct": 0,
+         "expl": "Producing three discourses rather than nine for the same three-mark material."},
+        {"q": "Why might \"observing suffering\" be treated as a separate practice from \"observing impermanence\"?",
+         "opts": [
+             "Consistent with this vagga's method of thoroughness through explicit enumeration rather than assumed inference",
+             "Because suffering and impermanence are considered unrelated in this book",
+             "Because only one of the two is a valid meditative object",
+             "There is no meaningful reason for treating them separately"],
+         "correct": 0,
+         "expl": "Mirroring the same insistence on independent treatment seen in the earlier nine-discourse matrix."},
+        {"q": "What discourse will close this three-part sequence with \"observing not-self\"?",
+         "opts": ["SN 22.149", "SN 22.146", "SN 22.137", "SN 22.113"],
+         "correct": 0,
+         "expl": "This vagga's own final discourse."},
+        {"q": "Who is this discourse addressed to?",
+         "opts": [
+             "A gentleman who has gone forth out of faith",
+             "An already-liberated arahant exclusively",
+             "A lay follower who has not renounced household life",
+             "A specific named disciple"],
+         "correct": 0,
+         "expl": "The identical figure addressed throughout SN 22.146-149."},
+        {"q": "What is the shared closing destination across this whole three-part sequence?",
+         "opts": ["\"Freed from suffering\"", "\"Reborn in a heavenly realm\"", "\"Return to household life\"", "\"Endless further practice with no resolution\""],
+         "correct": 0,
+         "expl": "The same chain's final step, shared across SN 22.146-149."},
+        {"q": "How many aggregates does this practice apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "How does the source text present the remainder of this discourse beyond the opening and named practice?",
+         "opts": [
+             "Elided with an ellipsis, matching SN 22.147's own structure",
+             "Spelled out in full, differing from SN 22.147",
+             "Omitted entirely with no closing line",
+             "Replaced with a new argument"],
+         "correct": 0,
+         "expl": "Resuming at the closing line, trusting the established chain."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.146-147's own setting."},
+        {"q": "What quality does this discourse's named practice observe?",
+         "opts": ["Suffering (dukkha)", "Impermanence (anicca)", "Not-self (anattā)", "Emptiness (suññatā)"],
+         "correct": 0,
+         "expl": "The second of the three marks in this closing sequence."},
+    ],
+    marginalia=[
+        ("The second mark, the same chain", [
+            "suffering observed directly &mdash;",
+            "impermanence's own counterpart practice",
+        ]),
+        ("A compact echo of the earlier matrix", [
+            "three marks, one practice this time &mdash;",
+            "three discourses instead of nine",
+        ]),
+        ("Independent treatment, once more", [
+            "not assumed, but explicitly named &mdash;",
+            "the same thoroughness as the vagga's opening sequence",
+        ]),
+        ("One variation left to close the vagga", [
+            "not-self still to come &mdash;",
+            "SN 22.149 completes this closing sequence",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.148/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.147.html">SN 22.147 &middot; Observing '
+        "Impermanence</a> &mdash; the previous discourse, this "
+        "discourse's own direct companion.",
+        '<a href="sn-22.149.html">SN 22.149 &middot; Observing '
+        "Not-Self</a> &mdash; the next and closing discourse of this "
+        "vagga, substituting not-self for suffering.",
+    ],
+)
+
+page(22, 149, "Anattānupassī", "Observing Not-Self",
+    vagga="Kukkuḷavagga",
+    meta_title="SN 22.149 · Observing Not-Self — Closing Kukkuḷavagga",
+    meta_desc="The third and final variation, observing not-self, "
+        "closing Kukkuḷavagga's fourteen discourses on giving up desire "
+        "and greed for the three marks. Saṃyutta Nikāya 22.149, with "
+        "Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The same frame and chain as SN 22.146-148, with \"observing not-self\" substituted, closing the vagga"),
+        ("Length", "Short — largely elided, following the established chain"),
+        ("Northern parallel", "Shares its structure with SN 22.147-148 and the widely attested anattānupassī formula"),
+        ("Difficulty", "Approachable — best appreciated as the close of a fourteen-discourse vagga"),
+    ],
+    why=("Closes Kukkuḷavagga: the third and final variation on SN "
+        "22.146's chain, substituting \"observing not-self\" for "
+        "suffering and impermanence, completing both this three-"
+        "discourse closing sequence and the vagga's fourteen "
+        "discourses as a whole."),
+    guide=[
+        ("The third and final observation", [
+            "\"They should meditate observing not-self in form, "
+            "feeling, perception, choices, and consciousness\" — the "
+            "identical structure once more, anattā completing the set "
+            "of three marks already worked through by SN 22.147-148.",
+        ]),
+        ("A vagga's worth of structure, reviewed", [
+            "Kukkuḷavagga's fourteen discourses divide cleanly into "
+            "three movements: a single stark opening image (SN "
+            "22.136), a nine-discourse 3×3 matrix crossing three marks "
+            "with three attitudes toward desire and greed (SN "
+            "22.137-145), and a four-discourse closing sequence "
+            "establishing one chain (SN 22.146) and then varying it "
+            "through the same three marks once more (SN 22.147-149).",
+            "Across both the nine-discourse matrix and this closing "
+            "four-discourse sequence, impermanence, suffering, and "
+            "not-self each receive independent, explicit treatment — "
+            "twelve of this vagga's fourteen discourses work through "
+            "these same three marks from two structurally different "
+            "angles (attitude toward the aggregate, and direct "
+            "observation of the aggregate).",
+        ]),
+        ("Closing without a colophon, into Diṭṭhivagga", [
+            "As with several vaggas earlier in this book, no explicit "
+            "closing formula marks the end of Kukkuḷavagga in the "
+            "source text — the vagga simply concludes on this final "
+            "variation, before Uparipaṇṇāsaka's fifth and final vagga, "
+            "Diṭṭhivagga, begins at SN 22.150.",
+        ]),
+        ("What this vagga as a whole demonstrates", [
+            "Read start to finish, Kukkuḷavagga is less a sequence of "
+            "distinct teachings than a single sustained demonstration: "
+            "that the three marks, examined from every available angle "
+            "— as reasons to release desire and greed, and as direct "
+            "objects of contemplation — converge on the identical "
+            "conclusion, freedom from suffering, regardless of which "
+            "mark or which method is taken as the starting point.",
+        ]),
+    ],
+    terms=[
+        ("anattānupassī", "observing not-self — the specific meditation this discourse names, giving it its title"),
+        ("dukkhānupassī", "observing suffering — SN 22.148's own parallel practice"),
+        ("aniccānupassī", "observing impermanence — SN 22.147's own parallel practice"),
+        ("tilakkhaṇa", "the three marks — impermanent, suffering, not-self, worked through twice over across this vagga's fourteen discourses"),
+        ("Kukkuḷavagga", "the vagga's own name, taken from its opening burning-chaff image at SN 22.136, now closing on this final observation"),
+    ],
+    text_intro=("The complete discourse as given in the source, mirroring SN "
+        "22.147-148's structure with \"not-self\" replacing \"suffering,\" "
+        "closing Kukkuḷavagga. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn22.149:1.1-1.2"),
+        ("p", "§2", "sn22.149:1.3-1.7"),
+        ("p", "§3", "sn22.149:1.16"),
+    ],
+    quiz=[
+        {"q": "What specific practice does this discourse name, closing the vagga's final sequence?",
+         "opts": [
+             "Observing not-self in each aggregate",
+             "Reciting the precepts",
+             "A physical bowing practice",
+             "Silent retreat with no specific object"],
+         "correct": 0,
+         "expl": "The third and final variation on SN 22.146's chain."},
+        {"q": "What three movements does Kukkuḷavagga's overall fourteen-discourse structure divide into?",
+         "opts": [
+             "A single opening image, a nine-discourse 3×3 matrix, and a four-discourse closing sequence",
+             "Fourteen entirely unrelated, unstructured teachings",
+             "Two equal halves with no further internal division",
+             "A single continuous narrative with no distinct sections"],
+         "correct": 0,
+         "expl": "SN 22.136, then SN 22.137-145, then SN 22.146-149."},
+        {"q": "How many of this vagga's fourteen discourses work through the three marks in some form?",
+         "opts": [
+             "Twelve, across two structurally different angles",
+             "Only three",
+             "All fourteen equally",
+             "None — the three marks appear nowhere in this vagga"],
+         "correct": 0,
+         "expl": "The nine-discourse matrix and the four-discourse closing sequence together."},
+        {"q": "What two angles does this vagga approach the three marks from?",
+         "opts": [
+             "Attitude toward the aggregate (desire, greed, both) and direct observation of the aggregate",
+             "Past lives and future lives",
+             "Monastic discipline and lay practice",
+             "Doctrinal debate and narrative illustration"],
+         "correct": 0,
+         "expl": "The nine-discourse matrix addresses attitude; the closing sequence addresses direct meditative observation."},
+        {"q": "How does this discourse close, according to the source text?",
+         "opts": [
+             "Without any explicit colophon, simply ending on this final variation",
+             "With a lengthy summary verse naming all fourteen discourses",
+             "With an explicit statement naming the next vagga",
+             "With a set of closing verses"],
+         "correct": 0,
+         "expl": "As with several vaggas earlier in this book, no closing formula appears."},
+        {"q": "What vagga follows Kukkuḷavagga in Uparipaṇṇāsaka?",
+         "opts": ["Diṭṭhivagga", "Antavagga", "Dhammakathikavagga", "Avijjāvagga"],
+         "correct": 0,
+         "expl": "Uparipaṇṇāsaka's fifth and final vagga, beginning at SN 22.150."},
+        {"q": "What does Kukkuḷavagga as a whole demonstrate, read start to finish?",
+         "opts": [
+             "The three marks, examined from every available angle, converge on the identical conclusion of freedom from suffering",
+             "That only one of the three marks is actually valid",
+             "That desire and greed cannot actually be overcome",
+             "That the aggregates are permanent after all"],
+         "correct": 0,
+         "expl": "Regardless of which mark or which method is taken as the starting point."},
+        {"q": "How many aggregates does this final discourse's practice apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, as throughout this vagga."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kosambī"],
+         "correct": 0,
+         "expl": "Matching SN 22.146-148's own setting."},
+        {"q": "What does the vagga's own name, Kukkuḷavagga, commemorate?",
+         "opts": [
+             "SN 22.136's own opening burning-chaff image",
+             "This discourse's own closing observation",
+             "A location where the vagga's discourses were spoken",
+             "A specific named disciple"],
+         "correct": 0,
+         "expl": "The single stark image that opens the vagga and gives it its title."},
+    ],
+    marginalia=[
+        ("The third mark, completing the close", [
+            "not-self observed directly &mdash;",
+            "the same chain, its final substitution",
+        ]),
+        ("Fourteen discourses, three movements", [
+            "one image, a nine-part matrix, a four-part close &mdash;",
+            "twelve discourses working the three marks twice over",
+        ]),
+        ("Attitude and observation, two angles on one truth", [
+            "desire and greed released, or watched directly &mdash;",
+            "either approach arriving at the same freedom",
+        ]),
+        ("Closing without ceremony", [
+            "no colophon, simply the final variation &mdash;",
+            "Diṭṭhivagga begins next, at SN 22.150",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn22.149/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.148.html">SN 22.148 &middot; Observing '
+        "Suffering</a> &mdash; the previous discourse, this discourse's "
+        "own direct companion.",
+        '<a href="sn-22.136.html">SN 22.136 &middot; Burning Chaff</a> '
+        "&mdash; this vagga's own opening discourse, whose starkness "
+        "this closing sequence's systematic thoroughness ultimately "
+        "serves.",
+    ],
+)
