@@ -37009,3 +37009,377 @@ page(23, 34, "Nirodhadhamma", "Liable To Cease",
         "without elaboration.",
     ],
 )
+
+page_range(23, 35, 45, "Māraadidasaka", "Eleven Discourses on Māra, Etc.",
+    vagga="Upanisinnavagga",
+    meta_title="SN 23.35–45 · Eleven Discourses on Māra, Etc. — The Same Catalog, Buddha-Initiated",
+    meta_desc="The identical eleven-term catalog from Upasaggavagga, now "
+        "delivered without any request from Rādha — the Buddha simply "
+        "speaks once Rādha has taken his seat. Saṃyutta Nikāya 23.35–45, "
+        "opening this saṃyutta's fourth and final vagga, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing Venerable Rādha directly"),
+        ("Form", "The identical instruction structure as SN 23.23-33, without Rādha's own opening request"),
+        ("Length", "Long as a single page — eleven discourses merged into one bilara-data file"),
+        ("Northern parallel", "The underlying Pali terms are identical to SN 23.23-33; only the English translation's wording and the opening frame differ"),
+        ("Difficulty", "Moderate — best read directly alongside SN 23.23-33, whose content this vagga's opening set exactly reproduces"),
+    ],
+    why=("Opens this saṃyutta's fourth and final vagga (Upanisinnavagga, "
+        "\"Sitting Close,\" named for the same \"seated to one side\" "
+        "formula used throughout this book) with content that is, word "
+        "for word in the underlying Pali, identical to Upasaggavagga's "
+        "own opening set — but delivered without any request from "
+        "Rādha, the Buddha simply speaking once Rādha has taken his "
+        "seat."),
+    guide=[
+        ("The same eleven terms, confirmed identical in Pali", [
+            "Comparing this merged file's own Pali root text against SN "
+            "23.23-33's own root text confirms they are exact matches, "
+            "term for term: māro, māradhammo, aniccaṁ, aniccadhammo, "
+            "dukkhaṁ, dukkhadhammo, anattā, anattadhammo, khayadhammo, "
+            "vayadhammo, samudayadhammo — the identical eleven-item list "
+            "in the identical order.",
+            "Sujato's own English translation varies its wording "
+            "slightly between the two vaggas — \"of Māra nature\" versus "
+            "\"subject to Māra,\" \"of impermanent nature\" versus "
+            "\"liable to impermanence\" — but these are stylistic "
+            "choices in rendering the same underlying Pali compounds, "
+            "not different content.",
+        ]),
+        ("What genuinely differs: who speaks first", [
+            "\"When Venerable Rādha was seated to one side, the Buddha "
+            "said to him: 'Rādha, you should give up any desire...'\" — "
+            "unlike SN 23.23's own \"may the Buddha please teach me in "
+            "brief,\" this vagga's opening discourse has the Buddha "
+            "initiate the teaching entirely on his own, with no request "
+            "from Rādha at all.",
+            "This mirrors the same distinction already established "
+            "within Māravagga itself: SN 23.1-3 had Rādha ask, SN 23.4 "
+            "onward had the Buddha initiate — the same two modes of "
+            "address, now applied a second time to this saṃyutta's own "
+            "most-repeated eleven-term catalog.",
+        ]),
+        ("A fourth recombination, differing only in frame", [
+            "Where Upasaggavagga's own instruction was prompted by "
+            "Rādha's explicit \"teach me in brief\" request, this vagga "
+            "delivers the identical instruction unprompted — suggesting "
+            "the content itself is considered valuable enough to be "
+            "worth teaching whether or not it is specifically requested, "
+            "closing this saṃyutta's own systematic exploration of how "
+            "many different frames the same core material can bear.",
+        ]),
+        ("What remains for this saṃyutta's own final discourse", [
+            "As with Upasaggavagga, this merged file gives ten of its "
+            "eleven terms only a single compressed line each; the "
+            "twelfth and final term, \"liable to cease,\" will receive "
+            "its own complete, unelided discourse at SN 23.46 — closing "
+            "not only this vagga but Rādhasaṃyutta itself, whose own "
+            "colophon confirms the saṃyutta's completion there.",
+        ]),
+    ],
+    terms=[
+        ("Upanisinna", "sitting close, sitting nearby — the term giving this vagga its name, drawn from the \"seated to one side\" formula used throughout this saṃyutta"),
+        ("Āyācana", "appeal — the term giving Upasaggavagga its own name, the previous vagga this one closely parallels"),
+        ("Māra/māradhamma/anicca/aniccadhamma/dukkha/dukkhadhamma/anattā/anattadhamma/khaya/vaya/samudaya", "the eleven terms this merged file cycles through, confirmed identical in Pali to SN 23.23-33's own catalog"),
+        ("chanda/rāga/chandarāga", "desire / greed / desire and greed — the three-part instruction shared with every earlier occurrence of this formula"),
+        ("peyyāla", "an elision mark, compressing ten of this file's eleven terms to single lines, exactly as in SN 23.24-33"),
+    ],
+    text_intro=("The complete merged file: the instruction fully elaborated for "
+        "Māra, and each of the ten remaining terms given in its own "
+        "compressed line. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &middot; SN 23.35", "sn23.35:1.1-1.7"),
+        ("p", "&sect;2 &middot; SN 23.36", "sn23.36:1.1"),
+        ("p", "&sect;3 &middot; SN 23.37", "sn23.37:1.1"),
+        ("p", "&sect;4 &middot; SN 23.38", "sn23.38:1.1"),
+        ("p", "&sect;5 &middot; SN 23.39", "sn23.39:1.1"),
+        ("p", "&sect;6 &middot; SN 23.40", "sn23.40:1.1"),
+        ("p", "&sect;7 &middot; SN 23.41", "sn23.41:1.1"),
+        ("p", "&sect;8 &middot; SN 23.42", "sn23.42:1.1"),
+        ("p", "&sect;9 &middot; SN 23.43", "sn23.43:1.1"),
+        ("p", "&sect;10 &middot; SN 23.44", "sn23.44:1.1"),
+        ("p", "&sect;11 &middot; SN 23.45", "sn23.45:1.1"),
+    ],
+    quiz=[
+        {"q": "How does this merged file's Pali content compare to SN 23.23-33's own?",
+         "opts": [
+             "Identical, term for term, confirmed by comparing the root Pali text of both files",
+             "Completely different, unrelated vocabulary",
+             "Similar but missing several key terms",
+             "A direct contradiction of the earlier vagga's content"],
+         "correct": 0,
+         "expl": "Māra, māradhamma, anicca, and the rest, in the identical order."},
+        {"q": "What does genuinely differ between this vagga's opening and SN 23.23's own?",
+         "opts": [
+             "Who initiates the teaching — the Buddha speaks unprompted here, rather than answering Rādha's own request",
+             "The five aggregates addressed",
+             "The three-part giving-up-desire instruction itself",
+             "The setting, which shifts to a different city"],
+         "correct": 0,
+         "expl": "SN 23.23 opens with Rādha's \"teach me in brief\" request; this discourse has no such request."},
+        {"q": "What earlier pattern within Māravagga does this frame-difference mirror?",
+         "opts": [
+             "SN 23.1-3's Rādha-asks format versus SN 23.4's Buddha-initiates format",
+             "No earlier pattern relates to this distinction",
+             "The pattern from Dutiyamāravagga's own paired terms",
+             "A pattern found only in Antavagga, much earlier in this book"],
+         "correct": 0,
+         "expl": "The same two modes of address, now applied a second time to this saṃyutta's own repeated catalog."},
+        {"q": "Why might Sujato's English translation vary its wording between this vagga and Upasaggavagga, despite identical Pali?",
+         "opts": [
+             "Stylistic variety in rendering the same underlying compounds, not different content",
+             "The translator made an error in one of the two vaggas",
+             "The Pali terms are actually different despite appearing similar",
+             "This vagga was translated by a different person entirely"],
+         "correct": 0,
+         "expl": "\"Of Māra nature\" and \"subject to Māra\" both render māradhammo."},
+        {"q": "What does the vagga's own name, Upanisinnavagga (\"Sitting Close\"), refer to?",
+         "opts": [
+             "The \"seated to one side\" formula used throughout this saṃyutta",
+             "A specific meditation posture unique to this vagga",
+             "A location where these discourses were spoken",
+             "A synonym for Māra"],
+         "correct": 0,
+         "expl": "Drawn from the same formula opening most of this saṃyutta's discourses."},
+        {"q": "How many of this file's eleven terms receive full elaboration, versus compressed single lines?",
+         "opts": [
+             "Only the first (Māra); the remaining ten are compressed",
+             "All eleven are given full elaboration",
+             "None are given full elaboration",
+             "Only the last term receives full treatment"],
+         "correct": 0,
+         "expl": "Matching SN 23.23-33's own compression pattern exactly."},
+        {"q": "What term is missing from this file's eleven, reserved for its own separate closing discourse?",
+         "opts": [
+             "Nirodha, \"liable to cease,\" to be given full treatment at SN 23.46",
+             "Māra, which never appears in this file",
+             "Impermanence, omitted entirely",
+             "No term is missing from this file"],
+         "correct": 0,
+         "expl": "Closing both this vagga and Rādhasaṃyutta itself."},
+        {"q": "How many aggregates does the instruction apply to, for each term in this catalog?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Continuing the setting shared by most of this saṃyutta's discourses."},
+        {"q": "What does delivering this content unprompted, rather than in response to a request, suggest?",
+         "opts": [
+             "The content is considered valuable enough to teach whether or not specifically requested",
+             "The Buddha considered this teaching less important than SN 23.23's own version",
+             "Rādha had already lost interest in this material",
+             "This discourse actually contradicts SN 23.23's own teaching"],
+         "correct": 0,
+         "expl": "Closing this saṃyutta's own exploration of how many frames the same material can bear."},
+    ],
+    marginalia=[
+        ("Identical Pali, varied English", [
+            "the same eleven terms as SN 23.23-33 &mdash;",
+            "confirmed by the root text itself, word for word",
+        ]),
+        ("A different opening, the same content", [
+            "no request from Rādha this time &mdash;",
+            "the Buddha simply speaks, unprompted",
+        ]),
+        ("A pattern already seen once, in Māravagga", [
+            "asked-for teaching, then unprompted teaching &mdash;",
+            "the same two modes, now repeated for this catalog",
+        ]),
+        ("One term left for this saṃyutta's own close", [
+            "cessation, still to receive full treatment &mdash;",
+            "SN 23.46 closes both this vagga and Rādhasaṃyutta itself",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.35/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.34.html">SN 23.34 &middot; Liable To Cease</a> '
+        "&mdash; the previous discourse, closing Upasaggavagga with the "
+        "identical catalog's own final term.",
+        '<a href="sn-23.46.html">SN 23.46 &middot; Liable To Cease</a> '
+        "&mdash; the next and closing discourse of this saṃyutta, "
+        "giving cessation its own full treatment one final time.",
+    ],
+)
+
+page(23, 46, "Nirodhadhamma", "Liable To Cease",
+    vagga="Upanisinnavagga",
+    meta_title="SN 23.46 · Liable to Cease — Closing Rādhasaṃyutta",
+    meta_desc="The final discourse of Rādha's own saṃyutta: cessation "
+        "given full treatment one last time, closing with the confirmed "
+        "colophon \"The Linked Discourses with Rādha are complete.\" "
+        "Saṃyutta Nikāya 23.46, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing Venerable Rādha directly"),
+        ("Form", "The same instruction structure as SN 23.34, without any request from Rādha"),
+        ("Length", "Medium — the fullest treatment of \"liable to cease\" in this saṃyutta's fourth vagga"),
+        ("Northern parallel", "Completes the giving-up-desire instruction applied to nirodha, closing Rādhasaṃyutta as SN 23.34 closed Upasaggavagga"),
+        ("Difficulty", "Approachable — best appreciated as the close of the entire saṃyutta"),
+    ],
+    why=("Closes both Upanisinnavagga and Rādhasaṃyutta itself: the "
+        "twelfth and final term of this vagga's own catalog, \"liable to "
+        "cease,\" given complete treatment one last time — closing with "
+        "the saṃyutta's own confirmed colophon, \"The Linked Discourses "
+        "with Rādha are complete.\""),
+    guide=[
+        ("The Buddha speaking unprompted, one final time", [
+            "\"When Venerable Rādha was seated to one side, the Buddha "
+            "said to him: 'Rādha, you should give up any desire, any "
+            "greed, any desire and greed for whatever is liable to "
+            "cease'\" — matching this vagga's own unprompted mode of "
+            "address, without the \"teach me in brief\" request that "
+            "opened SN 23.34's own parallel treatment of this same "
+            "term.",
+        ]),
+        ("The instruction given in full, completing the catalog one final time", [
+            "\"And what is liable to cease? Form is liable to cease. "
+            "You should give up any desire, any greed, any desire and "
+            "greed for it\" — the identical three-part instruction, "
+            "given completely for each aggregate, closing this "
+            "saṃyutta's own twelve-term catalog for the fourth and "
+            "final time across its two closing vaggas.",
+        ]),
+        ("The saṃyutta's own confirmed colophon", [
+            "\"The Linked Discourses with Rādha are complete\" — given "
+            "in the source text itself at sn23.46:2.7, confirming both "
+            "this saṃyutta's official name (Rādhasaṃyutta) and its "
+            "complete forty-six discourses, spanning four vaggas from "
+            "SN 23.1's own opening question about Māra through this "
+            "closing repetition of the same theme.",
+        ]),
+        ("A saṃyutta built almost entirely on recombination, reviewed", [
+            "Looking back across the whole of Rādhasaṃyutta: Māravagga "
+            "introduced genuinely new material (SN 23.1-3) alongside "
+            "personalized restatements of Antavagga (SN 23.4-10); "
+            "Dutiyamāravagga catalogued twelve characterizing terms "
+            "through bare definitional questions; and Upasaggavagga and "
+            "Upanisinnavagga each applied the giving-up-desire "
+            "instruction to that same catalog, differing only in "
+            "whether Rādha's own request opens the sequence — this "
+            "saṃyutta's forty-six discourses ultimately rest on a "
+            "remarkably small set of underlying elements, recombined "
+            "across four vaggas in service of one disciple's own "
+            "sustained practice.",
+        ]),
+    ],
+    terms=[
+        ("nirodha", "cessation — the term this discourse examines, closing this vagga's twelve-term catalog for the final time"),
+        ("nirodhadhamma", "liable to cease, of a nature to cease — completing the parallel with SN 23.34's own identical closing term"),
+        ("Rādhasaṃyuttaṁ samattaṁ", "\"the Linked Discourses with Rādha are complete\" — the confirmed colophon closing this saṃyutta"),
+        ("chanda/rāga/chandarāga", "desire / greed / desire and greed — the three-part instruction given in full one final time in this saṃyutta"),
+        ("Māra", "the term this saṃyutta opened with at SN 23.1, now closing on its own final catalog-completing pair"),
+    ],
+    text_intro=("The complete discourse: the Buddha's unprompted instruction "
+        "applied to nirodha for each aggregate, closing with the "
+        "saṃyutta's own confirmed colophon. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.46:1.1-1.2"),
+        ("p", "§2", "sn23.46:1.3-1.10"),
+        ("p", "§3", "sn23.46:2.7"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse examine, closing Rādhasaṃyutta's own final catalog?",
+         "opts": ["\"Liable to cease\" (nirodhadhamma)", "A return to Māra", "Not-self, repeated", "The leash to existence"],
+         "correct": 0,
+         "expl": "The twelfth and final term, given complete treatment for the fourth time across this saṃyutta's closing vaggas."},
+        {"q": "How is this discourse's opening different from SN 23.34's own treatment of the same term?",
+         "opts": [
+             "The Buddha speaks unprompted, without Rādha's own \"teach me in brief\" request",
+             "The setting shifts to an entirely different city",
+             "A different disciple entirely replaces Rādha",
+             "The instruction itself is completely different"],
+         "correct": 0,
+         "expl": "Matching this vagga's own unprompted mode of address throughout."},
+        {"q": "What colophon confirms this saṃyutta's own completion?",
+         "opts": [
+             "\"The Linked Discourses with Rādha are complete\"",
+             "No colophon appears in the source text",
+             "\"The Book of the Aggregates is finished\"",
+             "A lengthy summary verse naming all four vaggas"],
+         "correct": 0,
+         "expl": "Given in the source text itself, confirming both the saṃyutta's name and its full completion."},
+        {"q": "How many total discourses does Rādhasaṃyutta comprise, confirmed by this closing?",
+         "opts": ["Forty-six", "Twenty-two", "Ten", "Thirty-four"],
+         "correct": 0,
+         "expl": "Spanning four vaggas from SN 23.1 through this closing discourse."},
+        {"q": "What four vaggas make up Rādhasaṃyutta, reviewed at its close?",
+         "opts": [
+             "Māravagga, Dutiyamāravagga, Upasaggavagga, and Upanisinnavagga",
+             "Only two vaggas, not four",
+             "Vaggas shared with an entirely different saṃyutta",
+             "A single continuous vagga with no internal divisions"],
+         "correct": 0,
+         "expl": "New material and personalized restatement, a definitional catalog, then two applications of the giving-up-desire instruction."},
+        {"q": "What does reviewing the whole saṃyutta reveal about its underlying structure?",
+         "opts": [
+             "Forty-six discourses ultimately rest on a remarkably small set of underlying elements, recombined across four vaggas",
+             "Each of the forty-six discourses introduces entirely unique content",
+             "The saṃyutta has no discernible internal structure at all",
+             "Only Māravagga contains any genuine content"],
+         "correct": 0,
+         "expl": "Recombination in service of one disciple's own sustained practice."},
+        {"q": "How many aggregates does the instruction apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, each given the instruction."},
+        {"q": "What discourse opened this saṃyutta, corresponding to this discourse's close?",
+         "opts": [
+             "SN 23.1, About Māra",
+             "SN 22.159, With Ānanda",
+             "SN 22.1, Nakula's Father",
+             "SN 23.23, opening Upasaggavagga"],
+         "correct": 0,
+         "expl": "Rādha's own opening question about Māra, echoed one final time by this closing catalog's own first term."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching the setting of the discourses throughout this saṃyutta."},
+        {"q": "What three-part instruction closes this saṃyutta one final time?",
+         "opts": [
+             "Give up any desire, any greed, any desire and greed for whatever is liable to cease",
+             "An entirely different instruction unrelated to desire",
+             "A prohibition against discussing cessation",
+             "A simile about a burning house"],
+         "correct": 0,
+         "expl": "The same three-part formula used throughout this saṃyutta's closing vaggas."},
+    ],
+    marginalia=[
+        ("Unprompted, one final time", [
+            "no request from Rādha, matching this vagga's own pattern &mdash;",
+            "the Buddha simply speaks",
+        ]),
+        ("The full instruction, completing the catalog", [
+            "form through consciousness, each addressed in full &mdash;",
+            "the fourth and final complete statement of this term",
+        ]),
+        ("A saṃyutta's own confirmed close", [
+            "\"the Linked Discourses with Rādha are complete\" &mdash;",
+            "forty-six discourses, four vaggas, now finished",
+        ]),
+        ("A small set of elements, endlessly recombined", [
+            "new material, restatement, catalog, instruction &mdash;",
+            "all in service of one disciple's own sustained practice",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.46/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.35-45.html">SN 23.35&ndash;45 &middot; Eleven '
+        "Discourses on Māra, Etc.</a> &mdash; the previous discourse, "
+        "this vagga's own opening and source for the same instruction "
+        "structure.",
+        '<a href="sn-23.1.html">SN 23.1 &middot; About Māra</a> '
+        "&mdash; this saṃyutta's own opening discourse, whose first "
+        "question this closing catalog's own first term still answers.",
+    ],
+)
