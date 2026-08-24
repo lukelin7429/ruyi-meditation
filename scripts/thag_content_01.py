@@ -47725,3 +47725,728 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Book of the Eights
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# Thag 8.1 — Mahākaccāyana
+# --------------------------------------------------------------------------- #
+page(
+    8, 1, "Mah&amacr;kacc&amacr;yana", "Mah&amacr;kacc&amacr;yana",
+    meta_title="Thag 8.1 — Mahākaccāyana | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Mahākaccāyana's verse, opening the Book of the Eights with "
+        "general counsel on wealth, honor, and self-restraint, "
+        "closing on a striking image of withdrawal &mdash; spoken by "
+        "the same elder already named as Soṇa's mentor in this "
+        "site's Thag 5.11. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Eights &middot; Chapter One &middot; Poem 1 of 3",
+    glance=[
+        ("Setting", "General teaching, without further attribution"),
+        ("Speaker", "Mahākaccāyana, offering counsel in impersonal "
+                    "terms"),
+        ("Form", "Eight verses, the eighth extended to six lines "
+                 "rather than four"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, one especially vivid "
+                       "closing image"),
+    ],
+    why=(
+        "&lsquo;Though you have eyes, be as if blind; though you "
+        "have ears, be as if deaf; though you have wisdom, be as if "
+        "dumb... and when issues come up, lie as still as a "
+        "corpse,&rsquo; Mahākaccāyana closes &mdash; one of this "
+        "collection's most striking images for deliberate withdrawal "
+        "from conflict, from a speaker this site has already met as "
+        "the mentor behind Soṇa's ordination in Thag 5.11."),
+    guide=[
+        ("Counsel given in general terms, with no personal narrative", [
+            "Unlike many poems in this collection, Mahākaccāyana's "
+            "verse contains no episode of his own conversion, "
+            "ordination, or crisis &mdash; every verse offers direct, "
+            "impersonal instruction: avoid excessive activity, "
+            "recognize honor as &lsquo;a subtle dart, hard to "
+            "extract&rsquo;, understand that one's deeds, not "
+            "others' words, determine one's character."]),
+        ("Honor as a trap for the very people it flatters", [
+            "The second verse names something rarely stated so "
+            "directly in this collection: &lsquo;homage and "
+            "veneration in respectable families&rsquo; is itself "
+            "&lsquo;a bog&rsquo;, and &lsquo;honor is a subtle dart, "
+            "hard to extract, and hard for a reprobate to give "
+            "up&rsquo;. The warning targets not obvious temptation "
+            "but the very respect a monk might otherwise take as "
+            "confirmation of his own practice."]),
+        ("A closing image of total, deliberate withdrawal", [
+            "The eighth verse, extended to six lines, builds a "
+            "sequence of paired opposites &mdash; sighted yet acting "
+            "blind, hearing yet acting deaf, wise yet acting dumb, "
+            "strong yet acting feeble &mdash; before its final "
+            "instruction: when conflict arises, &lsquo;lie as still "
+            "as a corpse&rsquo;. This is a considerably more extreme "
+            "image of non-engagement than this collection's more "
+            "common counsel toward equanimity or patience."]),
+        ("The same elder already met as Soṇa's mentor", [
+            "This site's own Thag 5.11 (Soṇa of the Sharp Ears) "
+            "already describes Soṇa asking &lsquo;his mentor "
+            "Mahākaccāna three times for ordination, waiting years "
+            "for a monastic quorum&rsquo; &mdash; the identical "
+            "figure (Mahākaccāyana / Mahākaccāna, alternate spellings "
+            "of the same name), here giving his own verse rather than "
+            "appearing as another elder's teacher. This site's "
+            "<a href=\"../majjhima-nikaya/mn-133.html\">MN 133, "
+            "Mahākaccāna and One Fine Night</a>, and its own listing "
+            "in "
+            "<a href=\"../anguttara-nikaya/an-1.188-197.html\">AN "
+            "1.188&ndash;197, Foremost Monks (I)</a>, as &lsquo;the "
+            "foremost among those who explain in detail the meaning "
+            "of a brief statement&rsquo;, both already appear on this "
+            "site."]),
+        ("Opening a new book, a structure confirmed fresh", [
+            "The Book of the Eights holds just three poems in a "
+            "single chapter, per bilara-data &mdash; the shortest "
+            "book yet in this collection, continuing the "
+            "single-chapter pattern of every book since the Threes. "
+            "Its baseline verse form is eight four-line verses; this "
+            "poem's eighth verse, extending to six lines, is its "
+            "first departure from that baseline."]),
+    ],
+    terms=[
+        ("sukhumaṁ sallaṁ durubbaha&#7749;",
+         "&ldquo;a subtle dart, hard to extract&rdquo; &mdash; the "
+         "second verse's image for the danger of honor and "
+         "veneration."),
+        ("kammabandhū hi mātiyā",
+         "&ldquo;mortals have deeds as their kin&rdquo; &mdash; the "
+         "third verse's claim that one's own actions, not others' "
+         "opinions, determine one's character."),
+        ("cakkhumāssa yathā andho",
+         "&ldquo;though you have eyes, be as if blind&rdquo; &mdash; "
+         "the opening line of the closing verse's sequence of paired "
+         "opposites."),
+        ("sayetha matasāyikaṁ",
+         "&ldquo;lie as still as a corpse&rdquo; &mdash; the poem's "
+         "final instruction, an unusually extreme image of "
+         "withdrawal."),
+        ("k&amacr;purisena dujjaho",
+         "&ldquo;hard for a reprobate to give up&rdquo; &mdash; "
+         "describing how difficult honor is to relinquish once "
+         "accepted."),
+    ],
+    text_intro=(
+        "The text in full: eight verses, the eighth extended to six "
+        "lines, with no separate attribution line in this chapter. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag8.1:1.1-1.4"),
+        ("p", "&sect;2", "thag8.1:2.1-2.4"),
+        ("p", "&sect;3", "thag8.1:3.1-3.4"),
+        ("p", "&sect;4", "thag8.1:4.1-4.4"),
+        ("p", "&sect;5", "thag8.1:5.1-5.4"),
+        ("p", "&sect;6", "thag8.1:6.1-6.4"),
+        ("p", "&sect;7", "thag8.1:7.1-7.4"),
+        ("p", "&sect;8", "thag8.1:8.1-8.6"),
+    ],
+    quiz=[
+        {"q": "How does this poem differ from many others in this collection?",
+         "opts": [
+             "It contains no personal narrative — every verse offers direct, impersonal instruction",
+             "It is the only poem with a narrative frame",
+             "It is written entirely as a dialogue",
+             "It describes a specific charnel-ground scene"],
+         "correct": 0,
+         "expl": "No conversion, ordination, or crisis episode — pure counsel throughout."},
+        {"q": "What does the second verse call honor and veneration?",
+         "opts": [
+             "A harmless pleasure",
+             "'A subtle dart, hard to extract' and hard for a reprobate to give up",
+             "A necessary reward for practice",
+             "Something to actively pursue"],
+         "correct": 1,
+         "expl": "A warning against the very respect a monk might otherwise mistake for confirmation of his practice."},
+        {"q": "According to the third and fourth verses, what determines a person's character?",
+         "opts": [
+             "Their wealth",
+             "What other people say about them",
+             "Their own deeds, not others' words or opinions",
+             "Their family lineage"],
+         "correct": 2,
+         "expl": "'You're not a bandit because of what someone says, you're not a sage because of what someone says.'"},
+        {"q": "What sequence does the closing, extended eighth verse build?",
+         "opts": [
+             "A genealogy of teachers",
+             "A description of a journey",
+             "A list of monastic rules",
+             "Paired opposites — sighted yet acting blind, hearing yet acting deaf, wise yet acting dumb, strong yet acting feeble"],
+         "correct": 3,
+         "expl": "Before its final instruction: when conflict arises, 'lie as still as a corpse.'"},
+        {"q": "How does this poem's closing image compare to this collection's more common counsel?",
+         "opts": [
+             "It is a considerably more extreme image of non-engagement than typical counsel toward equanimity or patience",
+             "It contradicts the rest of the poem",
+             "It has no relation to the poem's earlier verses",
+             "It is milder than usual"],
+         "correct": 0,
+         "expl": "'Lie as still as a corpse' — an unusually total withdrawal from conflict."},
+        {"q": "Where has this site already encountered Mahākaccāyana, under an alternate spelling of his name?",
+         "opts": [
+             "Nowhere else on this site",
+             "As Soṇa's mentor in this site's own Thag 5.11",
+             "As a rival teacher in Thag 4.1",
+             "As Bhadda's father in Thag 7.3"],
+         "correct": 1,
+         "expl": "Mahākaccāyana / Mahākaccāna — the identical figure, alternate spellings of the same name."},
+        {"q": "What is Mahākaccāna declared foremost in, per this site's AN 1.188–197?",
+         "opts": [
+             "Foremost in physical strength",
+             "Foremost in meditation",
+             "Foremost among those who explain in detail the meaning of a brief statement",
+             "Foremost in generosity"],
+         "correct": 2,
+         "expl": "A role matching this site's own MN 133, Mahākaccāna and One Fine Night."},
+        {"q": "How many poems make up the Book of the Eights, and how many chapters?",
+         "opts": [
+             "Eight poems in eight chapters",
+             "Twelve poems in two chapters",
+             "Three poems in three chapters",
+             "Three poems in one chapter, the shortest book yet in this collection"],
+         "correct": 3,
+         "expl": "Confirmed fresh against bilara-data, continuing the single-chapter pattern since the Threes."},
+        {"q": "What does the fifth verse counsel, when others fail to understand?",
+         "opts": [
+             "Restraint on the part of those who do understand, since that is how conflicts are laid to rest",
+             "Public confrontation",
+             "Complete silence forever",
+             "Forcing others to agree"],
+         "correct": 0,
+         "expl": "'Let us, who do understand this, restrain ourselves in this regard.'"},
+        {"q": "What does the sixth verse say about a wise person who has lost their wealth?",
+         "opts": [
+             "They cannot survive without wealth",
+             "They live on even after loss of wealth — but a rich person without wisdom doesn't really live",
+             "They immediately seek new wealth",
+             "The verse does not address wealth"],
+         "correct": 1,
+         "expl": "A direct contrast between wisdom and mere material wealth."},
+    ],
+    marginalia=[
+        ("Counsel, with no story attached", [
+            "no crisis, no conversion narrated —",
+            "instruction given plainly, throughout"
+        ]),
+        ("Honor as a subtle dart", [
+            "hard to extract once accepted —",
+            "the respect itself named as the danger"
+        ]),
+        ("Blind though sighted, dumb though wise", [
+            "lie as still as a corpse, when conflict comes —",
+            "withdrawal taken to its furthest point"
+        ]),
+        ("A mentor, now speaking for himself", [
+            "already met through Soṇa's own story —",
+            "this time giving his own verse"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag8.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-5.11.html">Thag 5.11 &mdash; Soṇa of the '
+        "Sharp Ears</a> &mdash; already names Mahākaccāna as his "
+        "mentor.",
+        '<a href="../majjhima-nikaya/mn-133.html">MN 133 &mdash; '
+        "Mahākaccāna and One Fine Night</a> &mdash; this same elder's "
+        "own extended teaching, elsewhere on this site.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 8.2 — Sirimitta
+# --------------------------------------------------------------------------- #
+page(
+    8, 2, "Sirimitta", "Sirimitta",
+    meta_title="Thag 8.2 — Sirimitta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sirimitta's verse, built on this collection's tightest "
+        "refrain yet &mdash; five consecutive verses sharing an "
+        "identical opening couplet and closing line, with only a "
+        "single clause changing each time. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Book of the Eights &middot; Chapter One &middot; Poem 2 of 3",
+    glance=[
+        ("Setting", "General teaching, without further attribution"),
+        ("Speaker", "Sirimitta, cataloguing the qualities of a "
+                    "mendicant who does not grieve"),
+        ("Form", "Five nearly-identical refrain verses, followed by "
+                 "three verses of direct instruction"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "highly repetitive structure, plain "
+                       "vocabulary"),
+    ],
+    why=(
+        "&lsquo;Free of anger and acrimony, free of deceit, and rid "
+        "of slander&rsquo; opens five consecutive verses, each "
+        "closing &lsquo;that's how such a mendicant doesn't grieve "
+        "after passing away&rsquo; &mdash; with only a single middle "
+        "clause changing each time. This is the tightest refrain "
+        "structure yet found in this collection: not a shared line "
+        "or two, but nearly an entire verse, repeated five times "
+        "over."),
+    guide=[
+        ("Five verses, one word's difference between them", [
+            "The first five verses share both their opening couplet "
+            "(&lsquo;akkodhanonupanāhī, amāyo rittapesuṇo&rsquo;) and "
+            "their closing line (&lsquo;evaṁ pecca na "
+            "socati&rsquo;) verbatim, varying only the third line's "
+            "single quality named: guarded sense doors, good morals, "
+            "good friends, and good wisdom, following an initial "
+            "verse that names no additional quality at all. This "
+            "goes further than any earlier refrain poem in this "
+            "collection (including Thag 6.2's Buddha/Dhamma/Saṅgha "
+            "triad), which varied more than a single clause across "
+            "its repeated verses."]),
+        ("A catalogue built by addition, not contrast", [
+            "Unlike this collection's antithetical-parallelism poems "
+            "(such as Thag 6.3), which pair opposite conditions "
+            "against each other, Sirimitta's five verses all describe "
+            "the same kind of mendicant, simply adding one further "
+            "quality at a time &mdash; restraint, then guarded "
+            "senses, then good morals, then good friendship, then "
+            "good wisdom &mdash; building a composite portrait "
+            "through accumulation rather than opposition."]),
+        ("A pivot from refrain to direct address", [
+            "The sixth, seventh, and eighth verses abandon the "
+            "refrain entirely, shifting from &lsquo;that's how such a "
+            "mendicant&rsquo; to naming faith, ethical conduct, "
+            "confidence in the Saṅgha, and correct view directly, "
+            "before closing with direct counsel: &lsquo;let the wise "
+            "devote themselves to faith, ethical behavior, "
+            "confidence, and insight&rsquo;. The poem's second half "
+            "restates its first half's content in a different "
+            "grammatical register, rather than introducing wholly new "
+            "material."]),
+        ("'Not poor', regardless of material circumstance", [
+            "The seventh verse's claim &mdash; one with faith, "
+            "confidence in the Saṅgha, and correct view is said to be "
+            "&lsquo;adaliddo&rsquo;, &lsquo;not poor&rsquo; or "
+            "&lsquo;prosperous&rsquo;, &lsquo;their life is not in "
+            "vain&rsquo; &mdash; redefines prosperity entirely in "
+            "terms of inner qualities, independent of actual wealth, "
+            "echoing without directly citing Thag 8.1's own contrast "
+            "between wisdom and material riches in the poem "
+            "immediately preceding this one."]),
+        ("A closing line that doesn't quite match its own verses", [
+            "&lsquo;Evaṁ pecca na socati&rsquo;, &lsquo;doesn't grieve "
+            "after passing away&rsquo;, frames the entire refrain "
+            "section around a concern for what happens after death "
+            "&mdash; yet nothing in the qualities named (guarded "
+            "senses, good friends, good wisdom) explicitly addresses "
+            "death or the afterlife directly; the connection is left "
+            "for the listener to draw, between present ethical "
+            "cultivation and a peaceful passing."]),
+    ],
+    terms=[
+        ("akkodhanonupan&amacr;h&imacr;",
+         "&ldquo;free of anger and acrimony&rdquo; &mdash; the "
+         "opening phrase shared by all five refrain verses."),
+        ("eva&#7749; pecca na socati",
+         "&ldquo;that's how such a mendicant doesn't grieve after "
+         "passing away&rdquo; &mdash; the closing line shared by all "
+         "five refrain verses."),
+        ("kalyāṇamitto",
+         "&ldquo;with good friends&rdquo; &mdash; the quality named "
+         "in the fourth refrain verse."),
+        ("adaliddo",
+         "&ldquo;not poor&rdquo;, &ldquo;prosperous&rdquo; &mdash; "
+         "the seventh verse's redefinition of prosperity in terms of "
+         "inner qualities."),
+        ("saddhañca s&imacr;lañca",
+         "&ldquo;faith and ethical conduct&rdquo; &mdash; among the "
+         "four things named for the wise to devote themselves to, in "
+         "the closing verse."),
+    ],
+    text_intro=(
+        "The text in full: eight verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag8.2:1.1-1.4"),
+        ("p", "&sect;2", "thag8.2:2.1-2.4"),
+        ("p", "&sect;3", "thag8.2:3.1-3.4"),
+        ("p", "&sect;4", "thag8.2:4.1-4.4"),
+        ("p", "&sect;5", "thag8.2:5.1-5.4"),
+        ("p", "&sect;6", "thag8.2:6.1-6.4"),
+        ("p", "&sect;7", "thag8.2:7.1-7.4"),
+        ("p", "&sect;8", "thag8.2:8.1-8.4"),
+    ],
+    quiz=[
+        {"q": "What do the first five verses of this poem share, beyond a single opening couplet?",
+         "opts": [
+             "Nothing — each verse is entirely distinct",
+             "Both their opening couplet and their closing line, verbatim, varying only a single middle clause",
+             "Only their closing line",
+             "Only their opening couplet"],
+         "correct": 1,
+         "expl": "The tightest refrain structure yet found in this collection."},
+        {"q": "How does this poem's refrain compare to Thag 6.2's Buddha/Dhamma/Saṅgha triad?",
+         "opts": [
+             "The two poems share no structural similarity at all",
+             "It is identical in scope",
+             "It goes further, varying only a single clause rather than more across its repeated verses",
+             "It is much less repetitive"],
+         "correct": 2,
+         "expl": "This collection's tightest refrain structure to date."},
+        {"q": "What five qualities do the first five verses build toward, one at a time?",
+         "opts": [
+             "Wealth, status, family, health, and fame",
+             "Five unrelated random qualities",
+             "The same single quality repeated five times with no variation",
+             "Restraint, guarded senses, good morals, good friendship, and good wisdom"],
+         "correct": 3,
+         "expl": "A composite portrait built through accumulation rather than opposition."},
+        {"q": "How do the poem's final three verses differ structurally from its first five?",
+         "opts": [
+             "They abandon the refrain, shifting to direct naming of faith, ethical conduct, Saṅgha confidence, and correct view",
+             "They are written in a completely different language",
+             "They contradict the first five verses",
+             "They continue the exact same refrain"],
+         "correct": 0,
+         "expl": "Restating the first half's content in a different grammatical register."},
+        {"q": "What does the seventh verse call one with faith, Saṅgha confidence, and correct view?",
+         "opts": [
+             "Foolish",
+             "'Not poor' (adaliddo) — prosperous, regardless of material circumstance",
+             "Doomed to suffering",
+             "Ordinary and unremarkable"],
+         "correct": 1,
+         "expl": "Redefining prosperity entirely in terms of inner qualities."},
+        {"q": "How does this echo the poem immediately before it, Thag 8.1?",
+         "opts": [
+             "Thag 8.1 does not discuss wealth or poverty",
+             "It directly quotes Thag 8.1 word for word",
+             "It echoes, without directly citing, Thag 8.1's own contrast between wisdom and material riches",
+             "There is no connection between the two poems"],
+         "correct": 2,
+         "expl": "A thematic echo, not a verbatim quotation."},
+        {"q": "What does the shared closing line, 'evaṁ pecca na socati', literally concern?",
+         "opts": [
+             "Physical health",
+             "Financial success",
+             "Present-day happiness only",
+             "Not grieving after passing away"],
+         "correct": 3,
+         "expl": "Framing the whole refrain section around a concern for what happens after death."},
+        {"q": "Does the poem explicitly explain the connection between its named qualities and not grieving after death?",
+         "opts": [
+             "No — the connection is left for the listener to draw",
+             "The poem denies any such connection exists",
+             "It is explained only in the final verse",
+             "Yes, in exhaustive detail"],
+         "correct": 0,
+         "expl": "Between present ethical cultivation and a peaceful passing."},
+        {"q": "What does the closing verse instruct the wise to devote themselves to?",
+         "opts": [
+             "Wealth accumulation",
+             "Faith, ethical behavior, confidence, and insight into the teaching",
+             "Physical training only",
+             "Political influence"],
+         "correct": 1,
+         "expl": "'Remembering the instructions of the Buddhas.'"},
+        {"q": "What is Sirimitta's overall poem best described as?",
+         "opts": [
+             "A description of a specific place",
+             "A narrative of his own conversion",
+             "A catalogue of qualities, built through repetition and addition rather than a personal story",
+             "A dialogue between two speakers"],
+         "correct": 2,
+         "expl": "No personal narrative — a structured accumulation of qualities throughout."},
+    ],
+    marginalia=[
+        ("Five verses, one clause different", [
+            "the tightest refrain in this collection yet —",
+            "nearly a whole verse, repeated five times"
+        ]),
+        ("A portrait built by addition", [
+            "restraint, then senses, morals, friends, wisdom —",
+            "accumulation, not opposition"
+        ]),
+        ("Not poor, whatever the ledger says", [
+            "prosperity redefined by inner qualities —",
+            "echoing the poem just before this one"
+        ]),
+        ("A connection left unstated", [
+            "qualities named, but not tied explicitly to death —",
+            "the listener left to draw the line"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag8.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-8.1.html">Thag 8.1 &mdash; Mah&amacr;kacc&amacr;yana</a> '
+        "&mdash; the poem immediately before this one, sharing a "
+        "thematic echo on wealth and inner qualities.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 8.3 — Mahāpanthaka
+# --------------------------------------------------------------------------- #
+page(
+    8, 3, "Mah&amacr;panthaka", "Mah&amacr;panthaka",
+    meta_title="Thag 8.3 — Mahāpanthaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Mahāpanthaka's verse, closing the Book of the Eights with a "
+        "renunciation narrative built on the folk image of warding "
+        "off Lady Luck at your own door &mdash; Sujato's comment "
+        "tracing the image's Vedic background in unusual detail. "
+        "From Ru-Yi Meditation Center."),
+    vagga="The Book of the Eights &middot; Chapter One &middot; Poem 3 of 3",
+    glance=[
+        ("Setting", "A first encounter with the Buddha, followed by "
+                    "renunciation and practice"),
+        ("Speaker", "Mahāpanthaka, closing this book's single "
+                    "chapter"),
+        ("Form", "Eight four-line verses, in clear chronological "
+                 "sequence"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, one culturally specific "
+                       "simile worth pausing on"),
+    ],
+    why=(
+        "&lsquo;Anyone who, having found such a Teacher, would lose "
+        "them again, is like one who, when approached by Lady Luck, "
+        "would ward her off with their hands and feet,&rsquo; "
+        "Mahāpanthaka says of his own decision to go forth &mdash; an "
+        "image Sujato's comment traces back through a specific Vedic "
+        "folk custom, closing the Book of the Eights on both a vivid "
+        "simile and this collection's second exact-matching closing "
+        "tally in a row."),
+    guide=[
+        ("Warding off Lady Luck: a comment worth reading in full", [
+            "Sujato's comment on the second verse identifies "
+            "&lsquo;Siri&rsquo; as the deity later known as the "
+            "goddess of fortune, and traces an old custom &mdash; "
+            "found in Atharva Veda 7.115, &lsquo;Fly away wicked "
+            "Lakṣmī, vanish, fly hence&rsquo; &mdash; of physically "
+            "warding off ill fortune while retaining good fortune "
+            "when 101 personified Lakṣmīs were believed to attach to "
+            "a newborn. The comment is careful to distinguish two "
+            "different kinds of connection: it finds &lsquo;no close "
+            "verbal parallel&rsquo; directly linking this poem to the "
+            "Vedic passage, but concludes the Pali &lsquo;draws from a "
+            "more general cultural awareness&rsquo; rather than "
+            "quoting a specific text &mdash; a methodological "
+            "distinction this reading guide preserves rather than "
+            "collapsing into a single claim of direct borrowing."]),
+        ("A vivid simile serving an unexpected point", [
+            "The image itself is almost comic &mdash; someone "
+            "physically fending off good fortune arriving at their "
+            "door &mdash; but Mahāpanthaka uses it to describe "
+            "something entirely serious: the folly of finding a "
+            "teacher like the Buddha and then failing to hold onto "
+            "that opportunity. The simile's humor sharpens, rather "
+            "than softens, its warning."]),
+        ("A conventional renunciation, then a specific final vow", [
+            "The third and fourth verses narrate an ordinary "
+            "going-forth &mdash; leaving family and wealth, cutting "
+            "hair and beard &mdash; before the fifth verse names a "
+            "single, specific resolve: &lsquo;I wouldn't sit down, "
+            "not even for a short while, until the dart of craving "
+            "was plucked&rsquo;. This determined, almost stubborn "
+            "vow gives the otherwise conventional narrative its own "
+            "individual shape."]),
+        ("A brother's more famous story, still to come", [
+            "Mahāpanthaka's own poem makes no mention of it, but the "
+            "wider canon remembers him alongside his younger brother "
+            "Cūḷapanthaka, whose own struggle to learn even a single "
+            "verse, and eventual breakthrough through a simple "
+            "physical task, became one of early Buddhism's "
+            "best-known stories. Cūḷapanthaka's own verses lie ahead "
+            "in this collection's Book of the Tens, not yet reached; "
+            "this reading guide notes the connection without linking "
+            "forward to a page not yet written."]),
+        ("Closing the Book of the Eights, a second exact tally", [
+            "This single-chapter book closes, like the Threes through "
+            "Sevens, moving directly from Mahāpanthaka's own "
+            "self-naming to &lsquo;Aṭṭhakanipāto niṭṭhito&rsquo;, "
+            "&lsquo;the Book of the Eights is concluded&rsquo;, with "
+            "no separate chapter marker. The Tatruddāna names all "
+            "three elders &mdash; Mahākaccāyana, Sirimitta, "
+            "Mahāpanthaka, each given the single epithet "
+            "&lsquo;thero&rsquo; &mdash; and states &lsquo;twenty-four "
+            "verses&rsquo; without a separate elder-count figure; "
+            "three poems of eight verses each is exactly twenty-four, "
+            "matching cleanly and continuing directly from the Book "
+            "of the Sevens' own exact match."]),
+    ],
+    terms=[
+        ("Siri&#7749;... p&amacr;dehi",
+         "&ldquo;Lady Luck... with their hands and feet&rdquo; "
+         "&mdash; the folk image of physically warding off good "
+         "fortune, discussed at length in Sujato's comment."),
+        ("puttadārañca, dhanadha&ntilde;&ntilde;a&ntilde;ca cha&#7693;&#7693;ayi&#7749;",
+         "&ldquo;I left behind my children and wives, my riches and "
+         "my grain&rdquo; &mdash; the third verse's account of "
+         "renunciation."),
+        ("na nisīde muhuttampi",
+         "&ldquo;I wouldn't sit down, not even for a short "
+         "while&rdquo; &mdash; the specific, determined vow of the "
+         "fifth verse."),
+        ("ta&#7751;h&amacr;salle an&umacr;hate",
+         "&ldquo;until the dart of craving was plucked&rdquo; "
+         "&mdash; the condition attached to that vow."),
+        ("Aṭṭhakanip&amacr;to ni&#7789;&#7789;hito",
+         "&ldquo;the Book of the Eights is concluded&rdquo; &mdash; "
+         "this book's sole closing marker, with no separate "
+         "chapter-level marker preceding it."),
+    ],
+    text_intro=(
+        "The text in full: eight verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag8.3:1.1-1.4"),
+        ("p", "&sect;2", "thag8.3:2.1-2.4"),
+        ("p", "&sect;3", "thag8.3:3.1-3.4"),
+        ("p", "&sect;4", "thag8.3:4.1-4.4"),
+        ("p", "&sect;5", "thag8.3:5.1-5.4"),
+        ("p", "&sect;6", "thag8.3:6.1-6.4"),
+        ("p", "&sect;7", "thag8.3:7.1-7.4"),
+        ("p", "&sect;8", "thag8.3:8.1-8.4"),
+    ],
+    quiz=[
+        {"q": "What image does the second verse use to describe someone who would lose such a teacher?",
+         "opts": [
+             "Someone who sleeps through a storm",
+             "Someone who warms themselves at a dying fire",
+             "Someone who wards off Lady Luck arriving at their door with their hands and feet",
+             "Someone who plants a seed in barren soil"],
+         "correct": 2,
+         "expl": "An almost comic image serving a serious warning."},
+        {"q": "What does Sujato's comment identify 'Siri' as?",
+         "opts": [
+             "A type of tree",
+             "Another name for the Buddha",
+             "A place name",
+             "A deity, later famed as the goddess of fortune and prosperity"],
+         "correct": 3,
+         "expl": "Later identified with Lakṣmī in Vedic literature."},
+        {"q": "What distinction does Sujato's comment carefully draw about the Vedic connection?",
+         "opts": [
+             "It finds no close verbal parallel to the Vedic passage, but concludes the Pali draws from general cultural awareness",
+             "It denies any connection whatsoever",
+             "It doesn't discuss the Vedic material at all",
+             "It asserts the Pali text directly quotes the Vedic passage"],
+         "correct": 0,
+         "expl": "A methodological distinction this reading guide preserves rather than collapsing into direct borrowing."},
+        {"q": "What specific vow does the fifth verse name?",
+         "opts": [
+             "A vow of complete silence",
+             "Not sitting down, even briefly, until the dart of craving was plucked",
+             "A vow to travel to a specific city",
+             "A vow to fast indefinitely"],
+         "correct": 1,
+         "expl": "A determined, almost stubborn resolve giving the narrative its own individual shape."},
+        {"q": "What does Mahāpanthaka's poem itself say about his younger brother Cūḷapanthaka?",
+         "opts": [
+             "It denies having a brother",
+             "It tells his famous story in full",
+             "Nothing at all — the connection comes only from the wider canon, not this poem",
+             "It only briefly mentions his name"],
+         "correct": 2,
+         "expl": "This reading guide notes the connection without linking forward to Cūḷapanthaka's own verses, not yet reached in this collection."},
+        {"q": "Where do Cūḷapanthaka's own verses lie in this collection?",
+         "opts": [
+             "In the Book of the Ones",
+             "He has no verses in this collection",
+             "Already translated on this site",
+             "In the Book of the Tens, not yet reached"],
+         "correct": 3,
+         "expl": "A forward-looking note without a link, following this project's established practice."},
+        {"q": "What marks this book's transition from Mahāpanthaka's own poem to the book's close?",
+         "opts": [
+             "No separate chapter marker — moving directly from self-naming to 'the Book of the Eights is concluded'",
+             "Another full poem inserted before the close",
+             "No closing marker at all",
+             "A separate chapter-closing marker"],
+         "correct": 0,
+         "expl": "Matching the pattern established in every single-chapter book since the Threes."},
+        {"q": "What does this book's closing tally state, and how does it compare to its actual content?",
+         "opts": [
+             "Fifty verses, a mismatch",
+             "Twenty-four verses — matching exactly, three poems of eight verses each",
+             "Thirty verses, a mismatch",
+             "No numbers are given"],
+         "correct": 1,
+         "expl": "Continuing directly from the Book of the Sevens' own exact match."},
+        {"q": "What epithet does the uddāna give to all three elders in this book?",
+         "opts": [
+             "'Mahāisi' for all three",
+             "No epithet at all",
+             "'Thero' (elder), given uniformly to all three",
+             "A different unique epithet for each"],
+         "correct": 2,
+         "expl": "A uniform pattern, distinct from several earlier books' more varied epithet placements."},
+        {"q": "What is the running total of poems completed on this site after this poem, out of 264?",
+         "opts": [
+             "264 of 264 — the collection is complete",
+             "223 of 264",
+             "228 of 264",
+             "231 of 264"],
+         "correct": 3,
+         "expl": "228 + 3 poems in the Book of the Eights."},
+    ],
+    marginalia=[
+        ("Warding off luck at the door", [
+            "a folk image, traced through the Atharva Veda —",
+            "general awareness, not direct quotation"
+        ]),
+        ("A vow that would not sit down", [
+            "not even briefly, until craving's dart was gone —",
+            "stubbornness giving the story its own shape"
+        ]),
+        ("A brother's story, not told here", [
+            "Cūḷapanthaka's own verses lie many books ahead —",
+            "noted, not linked to, not yet written"
+        ]),
+        ("Twenty-four verses, exactly", [
+            "a second book in a row that adds up clean —",
+            "231 of 264, thirteen books remain"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag8.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-8.2.html">Thag 8.2 &mdash; Sirimitta</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
