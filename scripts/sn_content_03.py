@@ -37383,3 +37383,3076 @@ page(23, 46, "Nirodhadhamma", "Liable To Cease",
         "question this closing catalog's own first term still answers.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 24.1 — Vātasutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 1, "Vāta", "Winds",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.1 — Winds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vātasutta &mdash; opening an entirely new saṃyutta with "
+        "a bizarre cosmic-order view, and the diagnostic template "
+        "this book's own eighteen \"grounds for views\" will run "
+        "through unchanged. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A single strange view, diagnosed through all five "
+                 "aggregates plus a sixth ground, ending in the "
+                 "stream-enterer's declaration"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the view itself is odd but the diagnostic "
+                       "machinery is fully spelled out, nothing left "
+                       "implicit"),
+    ],
+    why=(
+        "Opens Diṭṭhisaṃyutta (\"Linked Discourses on Views\") and its "
+        "first vagga, Sotāpattivagga (\"The Chapter on Stream-Entry\"), "
+        "eighteen discourses that will run the identical diagnostic "
+        "question through eighteen different views, this book's own "
+        "colophon later confirms them as \"the eighteen expositions.\" "
+        "This first one sets the template at full length: an odd "
+        "claim about the world's mechanics, traced back to grasping "
+        "the aggregates, and dismantled through the same impermanence "
+        "catechism this book has used since SN 22.1 &mdash; except "
+        "here the conclusion is stream-entry rather than full "
+        "liberation, matching this vagga's own name."
+    ),
+    guide=[
+        ("A new saṃyutta, its own opening frame", [
+            "\"At one time the Buddha was staying near Sāvatthī in "
+            "Jeta's Grove. The Buddha said this:\" &mdash; the fullest "
+            "opening formula this book has used since SN 22.1 itself, "
+            "appropriate to a discourse launching a new saṃyutta "
+            "rather than continuing mid-sequence.",
+            "The mendicants formally request elaboration (\"our "
+            "teachings are rooted in the Buddha... may the Buddha "
+            "himself please clarify the meaning of this\") and the "
+            "Buddha explicitly asks them to listen well before "
+            "speaking &mdash; ceremony this book usually skips when "
+            "continuing an already-established exchange.",
+        ]),
+        ("A view about a world that runs itself into a halt", [
+            "\"Winds don't blow; rivers don't flow; pregnant women "
+            "don't give birth; the moon and stars neither rise nor "
+            "set, but stand firm like a pillar\" &mdash; not a claim "
+            "about the self directly, but about the natural world "
+            "freezing into permanence, everything that ordinarily "
+            "moves and changes instead standing fixed.",
+            "The question format itself is new to this book: \"when "
+            "what exists, because of grasping what and insisting on "
+            "what, does the view arise\" &mdash; naming grasping "
+            "(upādāya) and insisting (abhinivissa) as the two "
+            "conditions, rather than this book's more familiar single "
+            "term for clinging to the aggregates.",
+        ]),
+        ("The same catechism, one ground at a time, six times over", [
+            "Each aggregate in turn is shown to be impermanent, "
+            "therefore suffering, therefore incapable of grounding a "
+            "view about a world standing motionless &mdash; run twice, "
+            "once compressed across all five aggregates together "
+            "(3.1&ndash;3.15) and once naming feeling, perception, "
+            "and choices individually (4.1&ndash;4.10), before adding "
+            "a sixth ground unique to this book: \"that which is "
+            "seen, heard, thought, known, attained, sought, and "
+            "explored by the mind\" (4.11&ndash;4.17), broadening the "
+            "diagnostic beyond the five aggregates to cognitive "
+            "experience generally.",
+        ]),
+        ("A stream-enterer, not an arahant", [
+            "\"When a noble disciple has given up doubt regarding "
+            "these six grounds, and has given up doubt in suffering, "
+            "its origin, its cessation, and the practice that leads "
+            "to its cessation, they're called a noble disciple who is "
+            "a stream-enterer\" &mdash; a different destination from "
+            "this book's usual arahant-refrain (\"nothing further for "
+            "this place\"), naming the vagga's own goal explicitly: "
+            "giving up doubt about these grounds and the four noble "
+            "truths, not eradicating craving entirely.",
+        ]),
+    ],
+    terms=[
+        ("upādāya... abhinivissa", "grasping... and insisting on &mdash; the two conditions this book's opening formula names, distinct from earlier Khandhavagga phrasing"),
+        ("chaṭṭhaṁ vatthu", "the sixth ground &mdash; \"that which is seen, heard, thought, known, attained, sought, and explored by the mind,\" added beyond the five aggregates"),
+        ("kaṅkhā pahīnā", "doubt given up &mdash; the precise criterion this vagga uses for certifying stream-entry, distinct from the arahant-refrain's full unbinding"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening &mdash; the standing formula closing all eighteen discourses of this vagga"),
+        ("aṭṭhārasa veyyākaraṇāni", "the eighteen expositions &mdash; this vagga's own later self-description of its full set, confirmed in SN 24.18's closing colophon"),
+    ],
+    text_intro=("The complete discourse: the strange view named in full, then "
+        "the aggregate-by-aggregate diagnostic and stream-enterer "
+        "conclusion. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.1:1.1-1.4"),
+        ("p", "&sect;2", "sn24.1:2.1-2.4"),
+        ("p", "&sect;3", "sn24.1:3.1-4.10"),
+        ("p", "&sect;4", "sn24.1:4.11-4.17"),
+        ("p", "&sect;5", "sn24.1:5.1-5.2"),
+    ],
+    quiz=[
+        {"q": "What view does this opening discourse examine?",
+         "opts": ["That winds don't blow, rivers don't flow, and the moon and stars stand fixed like a pillar",
+                  "That the self and the cosmos are eternal", "That nothing exists after death", "That giving has no meaning"],
+         "correct": 0,
+         "expl": "A claim about the natural world freezing into permanence, not directly about the self."},
+        {"q": "What two conditions does this discourse's opening question name?",
+         "opts": ["Grasping and insisting", "Craving and ignorance", "Desire and greed", "Doubt and delusion"],
+         "correct": 0,
+         "expl": "Upādāya and abhinivissa — this book's new formula for how views take root in the aggregates."},
+        {"q": "What sixth ground does this discourse add beyond the five aggregates?",
+         "opts": ["That which is seen, heard, thought, known, attained, sought, and explored by the mind",
+                  "The four elements", "The six sense faculties", "Past and future existence"],
+         "correct": 0,
+         "expl": "Broadening the diagnostic beyond the aggregates to cognitive experience generally."},
+        {"q": "What does this vagga's conclusion certify, unlike this book's more familiar arahant-refrain?",
+         "opts": ["Stream-entry, not full liberation", "Full arahantship", "Rebirth as a deity", "Nothing — the conclusion is identical"],
+         "correct": 0,
+         "expl": "Giving up doubt about the six grounds and the four noble truths, matching this vagga's own name."},
+        {"q": "What ceremony does this discourse include that this book often skips mid-sequence?",
+         "opts": ["A formal request for elaboration and an explicit call to listen well",
+                  "A full ordination ritual", "A meal offering", "A debate with outsiders"],
+         "correct": 0,
+         "expl": "Appropriate to a discourse launching an entirely new saṃyutta."},
+        {"q": "How many discourses does this vagga's own later colophon confirm it comprises?",
+         "opts": ["Eighteen", "Ten", "Twelve", "Forty-six"],
+         "correct": 0,
+         "expl": "Confirmed as \"the eighteen expositions\" at SN 24.18's own closing."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī, Jeta's Grove", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "The fullest opening formula this book has used since SN 22.1 itself."},
+        {"q": "What is the criterion for stream-entry given in this discourse's conclusion?",
+         "opts": ["Giving up doubt about the six grounds and the four noble truths",
+                  "Eradicating all craving permanently", "Achieving the four absorptions", "Renouncing lay life"],
+         "correct": 0,
+         "expl": "A more modest criterion than the eradication of craving this book's arahant-refrain requires."},
+        {"q": "What saṃyutta does this discourse open?",
+         "opts": ["Diṭṭhisaṃyutta, \"Linked Discourses on Views\"", "Rādhasaṃyutta", "Khandhasaṃyutta", "Nidānasaṃyutta"],
+         "correct": 0,
+         "expl": "This book's fourth saṃyutta, beginning its own first vagga, Sotāpattivagga."},
+        {"q": "How is the aggregate catechism structured in this discourse?",
+         "opts": ["Run once compressed across all five aggregates, then again naming three individually, then a sixth ground added",
+                  "Run only once, briefly", "Skipped entirely in favor of a direct conclusion", "Run twelve separate times"],
+         "correct": 0,
+         "expl": "The fullest single treatment this vagga's eighteen discourses will give any one view."},
+    ],
+    marginalia=[
+        ("A world standing still", [
+            "winds cease, rivers halt, the moon fixed like a pillar &mdash;",
+            "the odd claim this discourse opens with",
+        ]),
+        ("Grasping and insisting", [
+            "two conditions, one new formula &mdash;",
+            "how any view takes root in the aggregates",
+        ]),
+        ("A sixth ground, beyond the five", [
+            "seen, heard, thought, known, attained, sought &mdash;",
+            "cognitive experience itself brought into the diagnostic",
+        ]),
+        ("Stream-entry, not the usual ending", [
+            "doubt given up about six grounds and four truths &mdash;",
+            "this vagga's own more modest, precise criterion",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.46.html">SN 23.46 &middot; Liable to Cease</a> '
+        "&mdash; the previous discourse, closing Rādhasaṃyutta entirely.",
+        '<a href="sn-24.2.html">SN 24.2 &middot; This Is Mine</a> '
+        "&mdash; the next discourse, examining the classic self-view "
+        "formula already traced to its source at SN 22.151.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.2 — Etaṁmamasutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 2, "Etaṁmama", "This Is Mine",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.2 — This Is Mine | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Etaṁmamasutta &mdash; the classic self-view triad, "
+        "already examined at SN 22.151, now diagnosed toward "
+        "stream-entry rather than full liberation. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The identical self-view triad already traced to its "
+                 "source in Diṭṭhivagga, re-run toward a different "
+                 "conclusion"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "familiar territory for any reader who has "
+                       "already met this formula at SN 22.151"),
+    ],
+    why=(
+        "Shares its exact Pāli title, opening question, and core "
+        "self-view formula with SN 22.151 (\"This Is Mine &mdash; "
+        "Where the Classic Self-View Formula Comes From\"), already "
+        "published in Diṭṭhivagga &mdash; but the two discourses part "
+        "ways at the ending. SN 22.151 closes with this book's usual "
+        "arahant-refrain (\"nothing further for this place\"); this "
+        "discourse closes with the stream-enterer's declaration, "
+        "adding a sixth ground and a doubt-based criterion neither "
+        "present in SN 22.151. Two discourses built from the same "
+        "raw material, aimed at two different destinations."
+    ),
+    guide=[
+        ("The formula, unchanged from its source", [
+            "\"This is mine, I am this, this is my self\" (etaṁ mama, "
+            "esohamasmi, eso me attā) &mdash; the identical three-part "
+            "claim already examined at SN 22.151, applied here to "
+            "each of the five aggregates in turn exactly as before.",
+        ]),
+        ("Two discourses, one formula, two endings", [
+            "SN 22.151 runs the aggregate catechism once and concludes "
+            "with the arahant-refrain shared across most of "
+            "Khandhavagga: seeing rightly, a noble disciple grows "
+            "disillusioned, and \"there is nothing further for this "
+            "place.\" This discourse instead names a sixth ground "
+            "(\"that which is seen, heard, thought, known, attained, "
+            "sought, and explored by the mind\") and closes with "
+            "giving up doubt about these grounds and the four noble "
+            "truths &mdash; stream-entry, not liberation.",
+            "Nothing about the underlying analysis differs; what "
+            "differs is which finish line this book's shared "
+            "diagnostic machinery is aimed at.",
+        ]),
+        ("A vagga built on reuse, one term at a time", [
+            "Following SN 24.1's own new opening formula, this "
+            "discourse settles into the compressed rhythm this vagga "
+            "will keep for its remaining sixteen discourses: the view "
+            "named once, applied to the aggregates with light "
+            "elision, then the same closing formula repeated "
+            "verbatim.",
+        ]),
+        ("Why this material recurs across two saṃyuttas", [
+            "The Pali canon reuses core formulas across different "
+            "organizing frameworks routinely &mdash; Khandhavagga "
+            "asks what liberates from self-view, Diṭṭhisaṃyutta asks "
+            "what grounds a systematic catalog of eighteen named "
+            "views. The self-view triad qualifies for both projects "
+            "at once, appearing with a different destination in each.",
+        ]),
+    ],
+    terms=[
+        ("etaṁ mama, esohamasmi, eso me attā", "\"this is mine, I am this, this is my self\" — the three-part formula this discourse shares verbatim with SN 22.151"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — the same two-condition formula introduced at SN 24.1"),
+        ("chaṭṭhaṁ vatthu", "the sixth ground — present here, absent from SN 22.151's own treatment of the identical formula"),
+        ("kaṅkhā pahīnā", "doubt given up — this vagga's own criterion for stream-entry, distinct from SN 22.151's arahant-refrain"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — this vagga's standing conclusion"),
+    ],
+    text_intro=("The complete discourse: the self-view formula, the aggregate "
+        "catechism, and the stream-enterer conclusion. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.2:1.1-1.11"),
+        ("p", "&sect;2", "sn24.2:2.1-2.18"),
+        ("p", "&sect;3", "sn24.2:3.1-3.2"),
+    ],
+    quiz=[
+        {"q": "What formula does this discourse examine?",
+         "opts": ["\"This is mine, I am this, this is my self\"", "\"Winds don't blow\"", "\"There's no meaning in giving\"", "\"The cosmos is eternal\""],
+         "correct": 0,
+         "expl": "The classic self-view triad, applied to each of the five aggregates."},
+        {"q": "Which earlier discourse in this site's collection shares this discourse's exact Pāli title and opening formula?",
+         "opts": ["SN 22.151", "SN 22.1", "SN 23.1", "SN 22.159"],
+         "correct": 0,
+         "expl": "Already published as \"Where the Classic Self-View Formula Comes From.\""},
+        {"q": "How does this discourse's conclusion differ from SN 22.151's treatment of the identical formula?",
+         "opts": ["This discourse certifies stream-entry via a sixth ground and doubt about the four truths; SN 22.151 uses the arahant-refrain",
+                  "There is no difference at all", "This discourse omits the aggregates entirely", "SN 22.151 is much longer"],
+         "correct": 0,
+         "expl": "Two discourses built from the same formula, aimed at two different destinations."},
+        {"q": "What sixth ground appears here but not in SN 22.151's version?",
+         "opts": ["That which is seen, heard, thought, known, attained, sought, and explored by the mind",
+                  "The four elements", "Time itself", "The six sense faculties"],
+         "correct": 0,
+         "expl": "Part of this vagga's own expanded diagnostic, introduced at SN 24.1."},
+        {"q": "What does SN 22.151's own arahant-refrain conclude, by contrast?",
+         "opts": ["\"There is nothing further for this place\"", "\"You should give up any desire\"", "\"The eighteen expositions are finished\"", "\"Your question goes too far\""],
+         "correct": 0,
+         "expl": "Khandhavagga's standing liberation formula, absent from this discourse's own stream-entry conclusion."},
+        {"q": "Why might the same self-view formula appear in two different saṃyuttas?",
+         "opts": ["The canon reuses core formulas across different organizing frameworks, each asking a different question of the same material",
+                  "It is a scribal error duplicating the same text", "The two discourses are unrelated coincidences", "One version is considered spurious"],
+         "correct": 0,
+         "expl": "Khandhavagga asks what liberates from self-view; Diṭṭhisaṃyutta catalogs views systematically."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What rhythm does this discourse settle this vagga into, following SN 24.1's fuller opening?",
+         "opts": ["The view named once, applied with light elision, closed with the same verbatim formula",
+                  "An entirely new, unrelated structure", "A lengthy narrative frame", "A dialogue with an outside questioner"],
+         "correct": 0,
+         "expl": "The compressed rhythm this vagga will keep for its remaining discourses."},
+        {"q": "How many grounds does this discourse's doubt-based criterion cover?",
+         "opts": ["Six grounds, plus the four noble truths", "Only the five aggregates", "Twelve grounds", "A single ground"],
+         "correct": 0,
+         "expl": "The five aggregates plus the sixth cognitive ground, plus doubt about suffering, its origin, cessation, and the path."},
+        {"q": "What is the standing formula's final descriptor for the stream-enterer?",
+         "opts": ["Assured, destined for awakening", "Fully liberated, with nothing further to do", "Reborn as a deity", "Beyond all further teaching"],
+         "correct": 0,
+         "expl": "Not liable to rebirth in the underworld, assured, destined for awakening — short of full liberation."},
+    ],
+    marginalia=[
+        ("The same three words, again", [
+            "\"this is mine, I am this, this is my self\" &mdash;",
+            "unchanged from its source at SN 22.151",
+        ]),
+        ("One formula, two destinations", [
+            "there, the arahant's refrain &mdash;",
+            "here, the stream-enterer's own more modest criterion",
+        ]),
+        ("A sixth ground added", [
+            "seen, heard, thought, known &mdash;",
+            "cognitive experience folded into the same diagnostic",
+        ]),
+        ("Why the canon repeats itself", [
+            "one formula, two organizing questions &mdash;",
+            "Khandhavagga's liberation, Diṭṭhisaṃyutta's catalog",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.151.html">SN 22.151 &middot; This Is Mine</a> '
+        "&mdash; the same formula's source discourse, closing instead "
+        "with this book's arahant-refrain.",
+        '<a href="sn-24.3.html">SN 24.3 &middot; This Is My Self</a> '
+        "&mdash; the next discourse, examining the classic eternalist "
+        "formula already traced to its own source at SN 22.152.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.3 — Soattāsutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 3, "Soattā", "This Is My Self",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.3 — This Is My Self | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Soattāsutta &mdash; the classic eternalist formula "
+        "\"the self and the cosmos are one,\" already examined at "
+        "SN 22.152, diagnosed here toward stream-entry. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The identical eternalist formula already traced to "
+                 "its source in Diṭṭhivagga, re-run toward stream-entry"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "familiar territory for any reader who has "
+                       "already met this formula at SN 22.152"),
+    ],
+    why=(
+        "Shares its exact Pāli title, opening question, and core "
+        "formula with SN 22.152 (\"This Is My Self &mdash; Tracing "
+        "the Eternalist View\"), already published in Diṭṭhivagga "
+        "&mdash; the third discourse this vagga reuses from that "
+        "same source, following SN 24.2's reuse of SN 22.151. This is "
+        "the canon's own most complete statement of eternalism: not "
+        "merely that the self persists, but that self and cosmos are "
+        "identical and will remain permanent, everlasting, and "
+        "imperishable after death."
+    ),
+    guide=[
+        ("The fullest eternalist claim in this vagga", [
+            "\"The self and the cosmos are one and the same. After "
+            "death I will be that, permanent, everlasting, eternal, "
+            "and imperishable\" (so attā, so loko, so pecca "
+            "bhavissāmi nicco dhuvo sassato avipariṇāmadhammo) "
+            "&mdash; identical wording to SN 22.152, collapsing the "
+            "distinction between self and world into a single "
+            "permanent entity.",
+        ]),
+        ("A third reuse from the same source vagga", [
+            "Following SN 24.2's reuse of SN 22.151, this discourse "
+            "continues a pattern: the first three discourses this "
+            "vagga runs through its own new stream-entry template "
+            "(SN 24.2, 24.3, and &mdash; as the next discourse will "
+            "confirm &mdash; SN 24.4) are drawn directly from "
+            "Diṭṭhivagga's own SN 22.151&ndash;153, only SN 24.1 "
+            "itself being genuinely new material.",
+        ]),
+        ("Why eternalism earns fuller treatment than most later views", [
+            "Compared to the maximally compressed views this vagga "
+            "will reach by its later half, this formula and its "
+            "immediate neighbors still receive full aggregate-by-"
+            "aggregate elaboration &mdash; reflecting both its "
+            "canonical prominence (eternalism is the paired opposite "
+            "of annihilationism throughout the Nikāyas) and this "
+            "vagga's own gradual compression as its later discourses "
+            "increasingly trust the reader to supply what earlier "
+            "ones spelled out.",
+        ]),
+        ("The same closing formula, again", [
+            "As with SN 24.1 and SN 24.2, the discourse closes with "
+            "doubt given up regarding the six grounds and the four "
+            "noble truths &mdash; stream-entry, not the \"nothing "
+            "further for this place\" SN 22.152 uses for the identical "
+            "formula.",
+        ]),
+    ],
+    terms=[
+        ("so attā, so loko", "the self and the cosmos are one and the same — this discourse's core eternalist claim, identical to SN 22.152"),
+        ("nicco dhuvo sassato avipariṇāmadhammo", "permanent, everlasting, eternal, and imperishable — the fourfold description of what the self-cosmos is claimed to remain after death"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — this vagga's standing two-condition formula"),
+        ("kaṅkhā pahīnā", "doubt given up — this vagga's own criterion for stream-entry"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — this vagga's standing conclusion"),
+    ],
+    text_intro=("The complete discourse: the eternalist formula, the aggregate "
+        "catechism, and the stream-enterer conclusion. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.3:1.1-1.4"),
+        ("p", "&sect;2", "sn24.3:2.1-3.21"),
+        ("p", "&sect;3", "sn24.3:4.1-4.2"),
+    ],
+    quiz=[
+        {"q": "What formula does this discourse examine?",
+         "opts": ["\"The self and the cosmos are one and the same... permanent, everlasting, eternal, and imperishable\"",
+                  "\"This is mine, I am this, this is my self\"", "\"Winds don't blow\"", "\"There's no cause or reason\""],
+         "correct": 0,
+         "expl": "The canon's fullest single statement of eternalism."},
+        {"q": "Which earlier discourse shares this discourse's exact Pāli title and formula?",
+         "opts": ["SN 22.152", "SN 22.151", "SN 22.153", "SN 22.159"],
+         "correct": 0,
+         "expl": "Already published as \"Tracing the Eternalist View.\""},
+        {"q": "What pattern does this discourse continue from SN 24.2?",
+         "opts": ["Reusing formulas already given full treatment in Diṭṭhivagga, aimed at a new stream-entry conclusion",
+                  "Introducing entirely new, previously unseen material", "Abandoning the aggregate catechism entirely", "Switching to a different speaker"],
+         "correct": 0,
+         "expl": "The second of three consecutive reuses from SN 22.151–153."},
+        {"q": "How many of this vagga's first four discourses draw directly from SN 22.151–153?",
+         "opts": ["Three — SN 24.2, 24.3, and 24.4", "All four", "Only this one", "None"],
+         "correct": 0,
+         "expl": "Only SN 24.1 itself is genuinely new material among the opening four."},
+        {"q": "What does this formula collapse into a single entity?",
+         "opts": ["The self and the cosmos", "The five aggregates", "Past and future", "Mind and body"],
+         "correct": 0,
+         "expl": "So attā, so loko — self and world claimed as identical and permanent."},
+        {"q": "Why might this and its immediate neighbors still receive full elaboration, unlike this vagga's later discourses?",
+         "opts": ["Eternalism's canonical prominence, and this vagga's own gradual compression toward its later half",
+                  "Random variation with no discernible pattern", "This discourse is actually the shortest in the vagga", "Later discourses are longer, not shorter"],
+         "correct": 0,
+         "expl": "Eternalism is the paired opposite of annihilationism throughout the Nikāyas."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What does this discourse's conclusion certify, as with SN 24.1 and 24.2?",
+         "opts": ["Stream-entry, via doubt given up about six grounds and the four truths",
+                  "Full arahantship", "Rebirth in a heavenly realm", "Ordination as a monastic"],
+         "correct": 0,
+         "expl": "Not the \"nothing further for this place\" formula SN 22.152 uses for the identical claim."},
+        {"q": "What is eternalism traditionally paired against in the Nikāyas?",
+         "opts": ["Annihilationism", "Materialism alone", "Skepticism", "Ritualism"],
+         "correct": 0,
+         "expl": "The two extremes the middle way is repeatedly said to avoid."},
+        {"q": "What aggregate is examined first in the catechism?",
+         "opts": ["Form", "Consciousness", "Feeling", "Perception"],
+         "correct": 0,
+         "expl": "Followed by feeling, perception, choices, and consciousness in turn."},
+    ],
+    marginalia=[
+        ("Self and cosmos, made one", [
+            "\"the self and the cosmos are one and the same\" &mdash;",
+            "identical to its source at SN 22.152",
+        ]),
+        ("A third borrowing", [
+            "SN 24.2, 24.3, and the next discourse &mdash;",
+            "all drawn from Diṭṭhivagga's own SN 22.151&ndash;153",
+        ]),
+        ("Eternalism's paired opposite", [
+            "self and world claimed permanent &mdash;",
+            "the extreme the middle way repeatedly avoids",
+        ]),
+        ("Stream-entry, once more", [
+            "doubt given up, not craving eradicated &mdash;",
+            "this vagga's own more modest destination",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.152.html">SN 22.152 &middot; This Is My Self</a> '
+        "&mdash; the same formula's source discourse, closing instead "
+        "with this book's arahant-refrain.",
+        '<a href="sn-24.4.html">SN 24.4 &middot; It Might Not Be Mine</a> '
+        "&mdash; the next discourse, examining an anxious view about "
+        "potential non-existence, already traced to its own source "
+        "at SN 22.153.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.4 — Nocamesiyāsutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 4, "Nocamesiyā", "It Might Not Be Mine",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.4 — It Might Not Be Mine | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nocamesiyāsutta &mdash; an anxious view about potential "
+        "non-existence, already examined at SN 22.153, closing this "
+        "vagga's opening set of four discourses. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The identical existential-anxiety formula already "
+                 "traced to its source in Diṭṭhivagga, closing this "
+                 "vagga's opening quartet"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "familiar territory for any reader who has "
+                       "already met this formula at SN 22.153"),
+    ],
+    why=(
+        "Shares its exact Pāli title, opening question, and core "
+        "formula with SN 22.153 (\"It Might Not Be Mine &mdash; A "
+        "View About Potential Non-Existence\"), already published in "
+        "Diṭṭhivagga &mdash; the third and final discourse in this "
+        "vagga's opening quartet drawn from that source. Where SN 24.2 "
+        "and SN 24.3 examined confident assertions (\"this is mine,\" "
+        "\"self and cosmos are eternal\"), this discourse examines the "
+        "opposite anxiety: dread that the self might cease to exist "
+        "at all."
+    ),
+    guide=[
+        ("An anxiety, not an assertion", [
+            "\"I might not be, and it might not be mine. I will not "
+            "be, and it will not be mine\" (no cassaṁ, no ca me "
+            "siyā, nābhavissa, na me bhavissati) &mdash; identical "
+            "wording to SN 22.153, voicing dread at potential "
+            "non-existence rather than confidently claiming "
+            "permanence.",
+            "This completes a small internal pair with SN 24.3: "
+            "eternalist confidence (self and cosmos will remain "
+            "forever) answered by its emotional opposite, anxious "
+            "fear that self might simply cease &mdash; both diagnosed "
+            "by the identical aggregate-grasping mechanism.",
+        ]),
+        ("Closing the opening quartet's borrowed material", [
+            "With this discourse, all three of SN 24.2, 24.3, and "
+            "24.4 have now drawn their core formula directly from "
+            "SN 22.151, 152, and 153 respectively &mdash; a "
+            "consecutive run of exact matches, broken only by SN 24.1 "
+            "itself, which introduced genuinely new material to open "
+            "this saṃyutta.",
+        ]),
+        ("Six grounds, the same aggregate mechanism", [
+            "As in the previous two discourses, form, feeling, "
+            "perception, choices, and consciousness are each shown "
+            "impermanent and therefore incapable of grounding this "
+            "particular anxiety, followed by the sixth ground (what "
+            "is seen, heard, thought, known, attained, sought, and "
+            "explored by the mind) and the standing stream-enterer "
+            "conclusion.",
+        ]),
+        ("From SN 24.5 onward, entirely new material", [
+            "This discourse marks the last of this vagga's borrowed "
+            "openings. The next four discourses (SN 24.5&ndash;8) "
+            "turn to material with no earlier counterpart on this "
+            "site: the specific doctrines associated with teachers "
+            "named elsewhere in the Canon as the Buddha's "
+            "contemporaries.",
+        ]),
+    ],
+    terms=[
+        ("no cassaṁ, no ca me siyā", "\"I might not be, and it might not be mine\" — this discourse's core formula, identical to SN 22.153"),
+        ("nābhavissa, na me bhavissati", "\"I will not be, and it will not be mine\" — the future-tense completion of the same anxious formula"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — this vagga's standing two-condition formula"),
+        ("kaṅkhā pahīnā", "doubt given up — this vagga's own criterion for stream-entry"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — this vagga's standing conclusion"),
+    ],
+    text_intro=("The complete discourse: the anxious formula, the aggregate "
+        "catechism, and the stream-enterer conclusion. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.4:1.1-1.4"),
+        ("p", "&sect;2", "sn24.4:2.1-3.19"),
+        ("p", "&sect;3", "sn24.4:4.1-4.2"),
+    ],
+    quiz=[
+        {"q": "What formula does this discourse examine?",
+         "opts": ["\"I might not be, and it might not be mine. I will not be, and it will not be mine\"",
+                  "\"The self and the cosmos are eternal\"", "\"This is mine, I am this, this is my self\"", "\"There's no cause or reason\""],
+         "correct": 0,
+         "expl": "An anxious view about potential non-existence, not a confident assertion of permanence."},
+        {"q": "Which earlier discourse shares this discourse's exact Pāli title and formula?",
+         "opts": ["SN 22.153", "SN 22.151", "SN 22.152", "SN 22.159"],
+         "correct": 0,
+         "expl": "Already published as \"A View About Potential Non-Existence.\""},
+        {"q": "How does this discourse relate emotionally to SN 24.3's eternalist claim?",
+         "opts": ["Its opposite — anxious dread at potential non-existence rather than confident assertion of permanence",
+                  "It is functionally identical in tone", "It has no relationship at all", "It is a more extreme version of the same confidence"],
+         "correct": 0,
+         "expl": "Both diagnosed by the identical aggregate-grasping mechanism despite opposite emotional tone."},
+        {"q": "How many of this vagga's opening four discourses draw formulas from SN 22.151–153?",
+         "opts": ["Three — SN 24.2, 24.3, and 24.4", "All four", "None", "Only this one"],
+         "correct": 0,
+         "expl": "SN 24.1 alone introduced genuinely new material to open the saṃyutta."},
+        {"q": "What happens from SN 24.5 onward?",
+         "opts": ["The vagga turns to entirely new material — doctrines associated with specific named teachers elsewhere in the Canon",
+                  "The vagga repeats SN 24.1–4 verbatim", "The vagga ends", "The aggregate catechism is dropped entirely"],
+         "correct": 0,
+         "expl": "This discourse marks the last of the vagga's borrowed openings."},
+        {"q": "What sixth ground appears in this discourse's catechism, as in SN 24.1–3?",
+         "opts": ["That which is seen, heard, thought, known, attained, sought, and explored by the mind",
+                  "The four elements", "Past and future existence", "The six sense faculties alone"],
+         "correct": 0,
+         "expl": "This vagga's standing addition beyond the five aggregates."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What does this discourse's conclusion certify?",
+         "opts": ["Stream-entry, via doubt given up about six grounds and the four truths",
+                  "Full arahantship", "Rebirth as a deity", "Nothing — the discourse ends mid-argument"],
+         "correct": 0,
+         "expl": "This vagga's standing stream-enterer formula."},
+        {"q": "What small internal pair does this discourse complete with SN 24.3?",
+         "opts": ["Eternalist confidence answered by its anxious opposite", "Two identical assertions of permanence", "A question and its formal refutation by an outsider", "A dispute between two named disciples"],
+         "correct": 0,
+         "expl": "Both diagnosed by the same underlying mechanism despite opposite emotional register."},
+        {"q": "What structural fact do SN 24.1's genuinely new material and SN 24.5's upcoming new material share?",
+         "opts": ["Both mark points where this vagga departs from reusing SN 22.151–153",
+                  "Both are the shortest discourses in the vagga", "Both are set in Rājagaha rather than Sāvatthī", "Neither includes the aggregate catechism"],
+         "correct": 0,
+         "expl": "SN 24.1 opens the saṃyutta fresh; SN 24.5 turns to the named teachers' doctrines."},
+    ],
+    marginalia=[
+        ("A dread, not a claim", [
+            "\"I might not be, it might not be mine\" &mdash;",
+            "identical to its source at SN 22.153",
+        ]),
+        ("Confidence and its opposite", [
+            "SN 24.3's eternalism, this discourse's anxiety &mdash;",
+            "one mechanism, two emotional registers",
+        ]),
+        ("The last of the borrowed openings", [
+            "three discourses reused from Diṭṭhivagga &mdash;",
+            "new material begins with the next discourse",
+        ]),
+        ("Toward the named teachers", [
+            "four doctrines still ahead &mdash;",
+            "associated elsewhere with the Buddha's own contemporaries",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.153.html">SN 22.153 &middot; It Might Not Be Mine</a> '
+        "&mdash; the same formula's source discourse, closing instead "
+        "with this book's arahant-refrain.",
+        '<a href="sn-24.5.html">SN 24.5 &middot; There&rsquo;s No Meaning '
+        "in Giving</a> &mdash; the next discourse, turning to entirely "
+        "new material.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.5 — Natthidinnasutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 5, "Natthidinna", "There&rsquo;s No Meaning in Giving",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.5 — There's No Meaning in Giving | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Natthidinnasutta &mdash; a nihilist manifesto denying "
+        "karma, the afterlife, and moral meaning entirely, closely "
+        "matching doctrine attributed to Ajita Kesakambalī in the "
+        "Sāmaññaphala Sutta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A lengthy nihilist manifesto quoted at length, then "
+                 "diagnosed by the same aggregate catechism as every "
+                 "other view in this vagga"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the view itself is vivid and disturbing, "
+                       "though the diagnostic that follows is by now "
+                       "familiar"),
+    ],
+    why=(
+        "The first of four consecutive discourses (SN 24.5&ndash;8) "
+        "examining doctrine closely matching views the Sāmaññaphala "
+        "Sutta (DN 2) attributes by name to specific teachers active "
+        "during the Buddha's own lifetime. This discourse's view "
+        "&mdash; that giving, sacrifice, karma, and the afterlife are "
+        "all meaningless, and death is simple annihilation &mdash; "
+        "closely tracks the doctrine DN 2 attributes to Ajita "
+        "Kesakambalī. Whatever the precise historical relationship "
+        "between the two texts, the content overlap is close enough "
+        "to be worth naming."
+    ),
+    guide=[
+        ("A manifesto, quoted at unusual length", [
+            "\"There's no meaning in giving, sacrifice, or offerings. "
+            "There's no fruit or result of good and bad deeds. "
+            "There's no afterlife...\" &mdash; this vagga's longest "
+            "single view statement so far, running through denial of "
+            "moral causation, denial of parents and spontaneous "
+            "rebirth, and denial that any ascetic or brahmin has ever "
+            "truly realized the afterlife through insight.",
+        ]),
+        ("The body reduced to its elements, then discarded", [
+            "The view continues into a vivid materialist account of "
+            "death: the four elements in the body simply disperse "
+            "back into their respective substances, the faculties "
+            "\"transferred to space,\" four pallbearers carry the "
+            "corpse to the cremation ground, and \"offerings dedicated "
+            "to the gods end in ashes\" &mdash; giving itself declared "
+            "\"a doctrine of morons,\" and any positive teaching "
+            "dismissed as \"baseless, false nonsense.\"",
+            "\"Both the foolish and the astute are annihilated and "
+            "destroyed when their body breaks up, and don't exist "
+            "after death\" &mdash; annihilationism (ucchedavāda) in "
+            "its starkest canonical form.",
+        ]),
+        ("A view closely tracking Ajita Kesakambalī's doctrine", [
+            "The Sāmaññaphala Sutta (DN 2) attributes near-identical "
+            "language to Ajita Kesakambalī, one of six teachers King "
+            "Ajātasattu consults about the fruits of the ascetic "
+            "life &mdash; the same denial of giving's meaning, the "
+            "same four-element dissolution, the same closing line "
+            "about fools and the astute alike being annihilated. This "
+            "reading guide does not assert a precise textual "
+            "relationship between the two passages, only that the "
+            "content overlap is unmistakable.",
+        ]),
+        ("The identical diagnostic, applied to the most extreme case", [
+            "Despite the view's length and vividness, the diagnostic "
+            "that follows is unchanged: the view is shown to arise "
+            "from grasping the aggregates, each aggregate shown "
+            "impermanent, and a noble disciple who gives up doubt on "
+            "these grounds and the four truths declared a "
+            "stream-enterer &mdash; the same machinery applied to "
+            "views as different as \"winds don't blow\" and total "
+            "moral nihilism.",
+        ]),
+    ],
+    terms=[
+        ("natthi dinne natthi yiṭṭhe", "\"there's no meaning in giving, no meaning in sacrifice\" — this discourse's opening denial"),
+        ("ucchedavāda", "annihilationism — the technical term for the view that death is simple, total cessation, exemplified here"),
+        ("bāladhammo", "\"a doctrine of morons\" — the view's own contemptuous dismissal of giving"),
+        ("Ajita Kesakambalī", "a teacher whose doctrine, as reported in the Sāmaññaphala Sutta (DN 2), closely tracks this discourse's view"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — this vagga's standing two-condition formula, applied here to the most extreme view yet examined"),
+    ],
+    text_intro=("The complete discourse: the nihilist manifesto in full, then "
+        "the aggregate catechism and stream-enterer conclusion. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.5:1.1-1.13"),
+        ("p", "&sect;2", "sn24.5:2.1-3.23"),
+        ("p", "&sect;3", "sn24.5:4.1-4.2"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's view deny?",
+         "opts": ["The meaning of giving, karma, and the afterlife — total moral and metaphysical nihilism",
+                  "Only the existence of Māra", "Only the eternity of the cosmos", "Only the self's identity with the body"],
+         "correct": 0,
+         "expl": "This vagga's longest and most extreme view statement so far."},
+        {"q": "What happens to the body according to this view?",
+         "opts": ["The four elements simply disperse back into their respective substances",
+                  "It is reborn immediately into another body", "It ascends to a heavenly realm", "It merges permanently with the cosmos"],
+         "correct": 0,
+         "expl": "A materialist account of death as simple physical dissolution."},
+        {"q": "What technical term names this view's position on death?",
+         "opts": ["Annihilationism (ucchedavāda)", "Eternalism (sassatavāda)", "Fatalism (niyativāda)", "Skepticism"],
+         "correct": 0,
+         "expl": "Death as simple, total cessation for both the foolish and the astute alike."},
+        {"q": "Which teacher named in the Sāmaññaphala Sutta (DN 2) is associated with closely similar doctrine?",
+         "opts": ["Ajita Kesakambalī", "Makkhali Gosāla", "Pūraṇa Kassapa", "Pakudha Kaccāyana"],
+         "correct": 0,
+         "expl": "One of six teachers King Ajātasattu consults in that discourse."},
+        {"q": "How does this discourse's view characterize giving?",
+         "opts": ["\"A doctrine of morons\"", "\"The highest virtue\"", "\"A path to liberation\"", "\"Irrelevant but harmless\""],
+         "correct": 0,
+         "expl": "Any positive teaching is dismissed in the same breath as \"baseless, false nonsense.\""},
+        {"q": "What happens to the diagnostic that follows, despite this view's unusual length and vividness?",
+         "opts": ["It remains unchanged — the same aggregate catechism applied to every view in this vagga",
+                  "It is entirely different, using a new argument", "It is skipped entirely", "It concludes with a debate rather than a catechism"],
+         "correct": 0,
+         "expl": "The identical machinery applied to views as different as \"winds don't blow\" and total nihilism."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What happens to offerings dedicated to the gods, according to this view?",
+         "opts": ["They \"end in ashes\"", "They are received in a heavenly realm", "They multiply through merit", "They are forbidden entirely"],
+         "correct": 0,
+         "expl": "Part of the view's vivid materialist account of death and ritual."},
+        {"q": "How many consecutive discourses in this vagga examine doctrine tracking DN 2's named teachers?",
+         "opts": ["Four — SN 24.5 through SN 24.8", "Only this one", "All eighteen", "Two"],
+         "correct": 0,
+         "expl": "This discourse opens that four-discourse run."},
+        {"q": "What does this discourse's conclusion certify, as with the views before it?",
+         "opts": ["Stream-entry, via doubt given up about six grounds and the four truths",
+                  "Agreement with the nihilist view", "Full arahantship", "A debate victory over an outsider"],
+         "correct": 0,
+         "expl": "This vagga's standing stream-enterer formula, unchanged regardless of the view examined."},
+    ],
+    marginalia=[
+        ("A manifesto of total denial", [
+            "no giving, no karma, no afterlife &mdash;",
+            "this vagga's longest view statement yet",
+        ]),
+        ("The body, reduced to elements", [
+            "earth to earth, water to water &mdash;",
+            "a materialist account of death in full",
+        ]),
+        ("A name from a different discourse", [
+            "doctrine closely tracking Ajita Kesakambalī &mdash;",
+            "as reported in the Sāmaññaphala Sutta (DN 2)",
+        ]),
+        ("The same machine, the most extreme input", [
+            "grasping, impermanence, doubt given up &mdash;",
+            "unchanged regardless of how extreme the view",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.4.html">SN 24.4 &middot; It Might Not Be Mine</a> '
+        "&mdash; the previous discourse, closing this vagga's opening "
+        "quartet of borrowed formulas.",
+        '<a href="sn-24.6.html">SN 24.6 &middot; Acting</a> '
+        "&mdash; the next discourse, examining a doctrine of total "
+        "moral inconsequence.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.6 — Karotosutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 6, "Karoto", "Acting",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.6 — Acting | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Karotosutta &mdash; a doctrine of total moral "
+        "inconsequence, closely matching views attributed to Pūraṇa "
+        "Kassapa in the Sāmaññaphala Sutta. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A view asserting that no action, however extreme, "
+                 "carries moral consequence, diagnosed by the "
+                 "standard catechism"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the view's imagery is disturbing, though the "
+                       "diagnostic that follows is by now familiar"),
+    ],
+    why=(
+        "The second of four consecutive discourses examining doctrine "
+        "closely matching a named teacher in the Sāmaññaphala Sutta "
+        "(DN 2) &mdash; here, a view asserting that action itself "
+        "carries no moral weight whatsoever, closely tracking the "
+        "amoralism (akiriyavāda, \"the doctrine of non-doing\") DN 2 "
+        "attributes to Pūraṇa Kassapa. Where SN 24.5 denied that "
+        "giving or karma have any meaning, this discourse goes "
+        "further: neither virtue nor atrocity produces any outcome "
+        "at all."
+    ),
+    guide=[
+        ("No wrong in punishment, torture, or theft", [
+            "\"The one who acts does nothing wrong when they punish, "
+            "mutilate, torture, aggrieve, oppress, intimidate...\" "
+            "&mdash; extending through killing, theft, burglary, "
+            "highway robbery, adultery, and lying, each declared to "
+            "produce \"no evil... and no outcome of evil.\"",
+        ]),
+        ("An escalation into the grotesque", [
+            "The view intensifies through two vivid images: reducing "
+            "every living creature on earth to \"one heap and mass of "
+            "flesh with a razor-edged chakram\" produces no evil "
+            "outcome, and going along the Ganges killing and "
+            "torturing while encouraging others to do the same "
+            "likewise produces nothing &mdash; matched by an equally "
+            "stark claim that going along the opposite bank giving "
+            "and sacrificing produces \"no merit... and no outcome of "
+            "merit\" either.",
+            "This double-sided symmetry is the view's real force: it "
+            "is not merely permissive toward atrocity, it denies that "
+            "generosity accomplishes anything either &mdash; action "
+            "of any kind, in either moral direction, is declared "
+            "entirely inert.",
+        ]),
+        ("A view closely tracking Pūraṇa Kassapa's doctrine", [
+            "The Sāmaññaphala Sutta attributes strikingly similar "
+            "language, including comparable imagery of the Ganges' "
+            "two banks, to Pūraṇa Kassapa, another of the six "
+            "teachers King Ajātasattu consults &mdash; a doctrine "
+            "traditionally labeled akiriyavāda, \"the doctrine of "
+            "non-doing\" or amoralism, distinct from SN 24.5's "
+            "annihilationism though the two overlap in denying moral "
+            "consequence.",
+        ]),
+        ("The same six grounds, applied once more", [
+            "As with every discourse in this vagga, the view is "
+            "traced to grasping the aggregates and the sixth "
+            "cognitive ground, each shown impermanent, and a noble "
+            "disciple who gives up doubt on these grounds and the "
+            "four truths declared a stream-enterer.",
+        ]),
+    ],
+    terms=[
+        ("karoto na karīyati pāpaṁ", "\"the one who acts does nothing wrong\" — this view's core amoral claim"),
+        ("akiriyavāda", "the doctrine of non-doing — the traditional label for this view's position, distinct from SN 24.5's annihilationism"),
+        ("khuradhārena cakkena", "\"with a razor-edged chakram\" — the view's most extreme single image, reducing all living creatures to one mass"),
+        ("Pūraṇa Kassapa", "a teacher whose doctrine, as reported in the Sāmaññaphala Sutta (DN 2), closely tracks this discourse's view"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — this vagga's standing two-condition formula"),
+    ],
+    text_intro=("The complete discourse: the amoral manifesto in full, then "
+        "the aggregate catechism and stream-enterer conclusion. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.6:1.1-1.8"),
+        ("p", "&sect;2", "sn24.6:2.1-3.22"),
+        ("p", "&sect;3", "sn24.6:4.1-4.2"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's view assert about action?",
+         "opts": ["That no action, however extreme, carries any moral consequence whatsoever",
+                  "That only violent action carries consequence", "That only generous action carries consequence", "That action determines rebirth precisely"],
+         "correct": 0,
+         "expl": "Extending through punishment, torture, theft, and killing, all declared to produce no outcome."},
+        {"q": "What double-sided image gives this view its real force?",
+         "opts": ["Killing along one bank of the Ganges and giving along the other, both declared to produce no outcome",
+                  "A single image of giving alone", "A single image of killing alone", "An image unrelated to the Ganges"],
+         "correct": 0,
+         "expl": "Denying that generosity accomplishes anything, not merely permitting atrocity."},
+        {"q": "What technical term names this view's position?",
+         "opts": ["Akiriyavāda, the doctrine of non-doing", "Ucchedavāda, annihilationism", "Sassatavāda, eternalism", "Niyativāda, fatalism"],
+         "correct": 0,
+         "expl": "Distinct from SN 24.5's annihilationism, though the two overlap in denying moral consequence."},
+        {"q": "Which teacher named in the Sāmaññaphala Sutta is associated with closely similar doctrine, including comparable Ganges imagery?",
+         "opts": ["Pūraṇa Kassapa", "Ajita Kesakambalī", "Makkhali Gosāla", "Pakudha Kaccāyana"],
+         "correct": 0,
+         "expl": "Another of the six teachers King Ajātasattu consults in DN 2."},
+        {"q": "What is the view's most extreme single image?",
+         "opts": ["Reducing every living creature on earth to one mass of flesh with a razor-edged chakram",
+                  "A single act of theft", "A minor lie", "A broken vow"],
+         "correct": 0,
+         "expl": "Declared to produce no evil outcome whatsoever."},
+        {"q": "How does this discourse's view differ from SN 24.5's nihilism?",
+         "opts": ["It focuses specifically on action's moral inconsequence rather than denying the afterlife and karma generally",
+                  "There is no meaningful difference at all", "It affirms karma strongly", "It denies only the existence of Māra"],
+         "correct": 0,
+         "expl": "Amoralism specifically, though the two views overlap in denying moral consequence."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What happens to the diagnostic catechism in this discourse?",
+         "opts": ["It remains unchanged — the same six grounds applied as in every other discourse in this vagga",
+                  "It is replaced with a moral argument", "It is skipped entirely", "It concludes differently from other discourses"],
+         "correct": 0,
+         "expl": "Grasping the aggregates and the sixth cognitive ground, each shown impermanent."},
+        {"q": "What position in this vagga's four-discourse run of named-teacher doctrines does this discourse occupy?",
+         "opts": ["Second, following SN 24.5's nihilism", "First, opening the run", "Third", "Fourth and final"],
+         "correct": 0,
+         "expl": "SN 24.5 through SN 24.8 form this consecutive run."},
+        {"q": "What does this discourse's conclusion certify?",
+         "opts": ["Stream-entry, via doubt given up about six grounds and the four truths",
+                  "Agreement with the amoral view", "Full arahantship", "Ordination as a monastic"],
+         "correct": 0,
+         "expl": "This vagga's standing stream-enterer formula, unchanged regardless of the view examined."},
+    ],
+    marginalia=[
+        ("Nothing counts as wrong", [
+            "punishment, torture, theft, killing &mdash;",
+            "each declared to produce no outcome at all",
+        ]),
+        ("Two banks of one river", [
+            "killing on one side, giving on the other &mdash;",
+            "both equally inert, the view's real force",
+        ]),
+        ("A name from a different discourse", [
+            "doctrine closely tracking Pūraṇa Kassapa &mdash;",
+            "as reported in the Sāmaññaphala Sutta (DN 2)",
+        ]),
+        ("The same six grounds, again", [
+            "grasping, impermanence, doubt given up &mdash;",
+            "unchanged regardless of how the view runs",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.5.html">SN 24.5 &middot; There&rsquo;s No Meaning '
+        "in Giving</a> &mdash; the previous discourse, this run's own "
+        "opening.",
+        '<a href="sn-24.7.html">SN 24.7 &middot; Cause</a> '
+        "&mdash; the next discourse, examining a doctrine denying "
+        "cause and effect entirely.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.7 — Hetusutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 7, "Hetu", "Cause",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.7 — Cause | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Hetusutta &mdash; a fatalist doctrine denying cause and "
+        "effect for both corruption and purification, closely "
+        "matching views attributed to Makkhali Gosāla. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A fatalist view denying causation entirely, "
+                 "diagnosed by the standard catechism"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the view's fatalism is philosophically "
+                       "distinct from its two neighbors, worth "
+                       "reading slowly"),
+    ],
+    why=(
+        "The third of four consecutive discourses examining doctrine "
+        "closely matching a named teacher in the Sāmaññaphala Sutta "
+        "(DN 2) &mdash; here, a fatalist view denying that beings' "
+        "corruption or purification has any cause or reason "
+        "whatsoever, closely tracking the doctrine DN 2 attributes to "
+        "Makkhali Gosāla, traditionally labeled niyativāda "
+        "(\"doctrine of fixed destiny\"). Distinct from SN 24.5's "
+        "denial of moral consequence and SN 24.6's denial of moral "
+        "weight, this view denies causation itself."
+    ),
+    guide=[
+        ("Neither corruption nor purity has a cause", [
+            "\"There is no cause or reason for the corruption of "
+            "sentient beings. Sentient beings are corrupted without "
+            "cause or reason. There's no cause or reason for the "
+            "purification of sentient beings. Sentient beings are "
+            "purified without cause or reason\" &mdash; a fourfold "
+            "structure covering both corruption and purification, "
+            "each stated first negatively then positively.",
+        ]),
+        ("No power, no effort, only destiny", [
+            "\"There is no power, no energy, no human strength or "
+            "vigor. All sentient beings, all living creatures, all "
+            "beings, all souls lack control, power, and energy. "
+            "Molded by destiny, circumstance, and nature, they "
+            "experience pleasure and pain in the six classes of "
+            "rebirth\" &mdash; a doctrine of total determinism, "
+            "denying not just moral consequence but personal agency "
+            "of any kind.",
+        ]),
+        ("A view closely tracking Makkhali Gosāla's doctrine", [
+            "The Sāmaññaphala Sutta attributes near-identical fatalist "
+            "language, including this same list of \"beings, living "
+            "creatures, souls\" molded by destiny (niyati), "
+            "circumstance (saṅgati), and nature (bhāva), to Makkhali "
+            "Gosāla, leader of the Ājīvaka movement and another of "
+            "the six teachers King Ajātasattu consults in that "
+            "discourse &mdash; a doctrine traditionally labeled "
+            "niyativāda.",
+        ]),
+        ("Distinct from its two neighbors, same diagnostic", [
+            "Where SN 24.5 denied moral outcomes matter and SN 24.6 "
+            "denied action carries any weight, this view denies the "
+            "causal mechanism underlying both: nothing, moral or "
+            "otherwise, has a cause at all. The diagnostic response is "
+            "unchanged &mdash; the aggregates and the sixth ground "
+            "shown impermanent, doubt given up, stream-entry "
+            "declared.",
+        ]),
+    ],
+    terms=[
+        ("ahetu apaccayā", "\"without cause or reason\" — this view's core fatalist claim, applied to both corruption and purification"),
+        ("niyati saṅgati bhāva", "destiny, circumstance, and nature — the three forces the view claims mold every being's experience"),
+        ("niyativāda", "the doctrine of fixed destiny — the traditional label for this view's position, distinct from SN 24.5 and 24.6"),
+        ("Makkhali Gosāla", "leader of the Ājīvaka movement, whose doctrine as reported in the Sāmaññaphala Sutta (DN 2) closely tracks this discourse's view"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — this vagga's standing two-condition formula"),
+    ],
+    text_intro=("The complete discourse: the fatalist manifesto in full, then "
+        "the aggregate catechism and stream-enterer conclusion. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.7:1.1-1.9"),
+        ("p", "&sect;2", "sn24.7:2.1-3.22"),
+        ("p", "&sect;3", "sn24.7:4.1-4.2"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's view deny?",
+         "opts": ["That corruption or purification of sentient beings has any cause or reason whatsoever",
+                  "That the cosmos is eternal", "That giving has meaning", "That any action carries weight"],
+         "correct": 0,
+         "expl": "A fourfold structure covering both corruption and purification."},
+        {"q": "What three forces does the view claim mold every being's experience?",
+         "opts": ["Destiny, circumstance, and nature", "Karma, merit, and demerit", "The four elements", "Time, space, and consciousness"],
+         "correct": 0,
+         "expl": "Niyati, saṅgati, and bhāva — total determinism, denying personal agency."},
+        {"q": "What technical term names this view's position?",
+         "opts": ["Niyativāda, the doctrine of fixed destiny", "Akiriyavāda, the doctrine of non-doing", "Ucchedavāda, annihilationism", "Sassatavāda, eternalism"],
+         "correct": 0,
+         "expl": "Distinct from SN 24.5's annihilationism and SN 24.6's amoralism."},
+        {"q": "Which teacher named in the Sāmaññaphala Sutta is associated with closely similar fatalist doctrine?",
+         "opts": ["Makkhali Gosāla", "Ajita Kesakambalī", "Pūraṇa Kassapa", "Pakudha Kaccāyana"],
+         "correct": 0,
+         "expl": "Leader of the Ājīvaka movement, another of the six teachers King Ajātasattu consults."},
+        {"q": "How does this view differ philosophically from SN 24.5 and SN 24.6?",
+         "opts": ["It denies causation itself, rather than denying moral consequence or moral weight specifically",
+                  "It is functionally identical to both", "It affirms causation strongly", "It concerns only the afterlife"],
+         "correct": 0,
+         "expl": "Nothing, moral or otherwise, is claimed to have a cause at all."},
+        {"q": "What does the view claim beings lack entirely?",
+         "opts": ["Control, power, and energy", "Only power, but not control", "Nothing — beings retain full agency", "Only energy, but not control"],
+         "correct": 0,
+         "expl": "\"No power, no energy, no human strength or vigor.\""},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What position in this vagga's four-discourse run of named-teacher doctrines does this discourse occupy?",
+         "opts": ["Third, following SN 24.5 and 24.6", "First, opening the run", "Second", "Fourth and final"],
+         "correct": 0,
+         "expl": "SN 24.5 through SN 24.8 form this consecutive run."},
+        {"q": "What remains unchanged about the diagnostic response to this view?",
+         "opts": ["The aggregates and sixth ground shown impermanent, doubt given up, stream-entry declared",
+                  "It is replaced with a philosophical refutation of fatalism", "It is skipped entirely", "It concludes with a debate"],
+         "correct": 0,
+         "expl": "The same machinery applied regardless of the view's specific philosophical content."},
+        {"q": "In how many classes of rebirth does the view claim beings experience pleasure and pain?",
+         "opts": ["Six", "Four", "Eight", "Twelve"],
+         "correct": 0,
+         "expl": "Part of the view's fully deterministic cosmology."},
+    ],
+    marginalia=[
+        ("Nothing has a cause", [
+            "corruption and purity alike &mdash;",
+            "both declared to arise without reason",
+        ]),
+        ("Destiny, circumstance, nature", [
+            "three forces, no agency left over &mdash;",
+            "total determinism stated in full",
+        ]),
+        ("A name from a different discourse", [
+            "doctrine closely tracking Makkhali Gosāla &mdash;",
+            "as reported in the Sāmaññaphala Sutta (DN 2)",
+        ]),
+        ("A third denial, the same response", [
+            "moral outcome, moral weight, now cause itself &mdash;",
+            "one diagnostic, unmoved by which is denied",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.6.html">SN 24.6 &middot; Acting</a> '
+        "&mdash; the previous discourse, denying moral weight rather "
+        "than causation itself.",
+        '<a href="sn-24.8.html">SN 24.8 &middot; The Extensive View</a> '
+        "&mdash; the next and final discourse in this run, an "
+        "atomist cosmology closely matching a fourth named teacher.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.8 — Mahādiṭṭhisutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 8, "Mahādiṭṭhi", "The Extensive View",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.8 — The Extensive View | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mahādiṭṭhisutta &mdash; an elaborate atomist cosmology "
+        "of seven eternal substances and vast numerology, closely "
+        "matching doctrine attributed to Pakudha Kaccāyana. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "This vagga's single most elaborate view, an atomist "
+                 "cosmology with extensive numerology, closing this "
+                 "run of four named-teacher doctrines"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the densest single view in this vagga, worth "
+                       "reading slowly for its numerology alone"),
+    ],
+    why=(
+        "The fourth and final discourse in this vagga's run examining "
+        "doctrine closely matching named teachers in the Sāmaññaphala "
+        "Sutta (DN 2) &mdash; and by far the most elaborate view this "
+        "vagga has yet diagnosed: seven eternal, uncreated substances "
+        "that cannot affect each other, a claim that no sword can "
+        "truly kill anyone, and a numerological cosmology running "
+        "into the millions. The doctrine closely tracks views DN 2 "
+        "attributes to Pakudha Kaccāyana."
+    ),
+    guide=[
+        ("Seven substances, unmade and untouchable", [
+            "\"There are these seven substances that are not made, "
+            "not derived, not created, without a creator, barren, "
+            "steady as a mountain peak, standing firm like a pillar\" "
+            "&mdash; earth, water, fire, air, pleasure, pain, and the "
+            "soul as the seventh, none able to affect, move, or "
+            "deteriorate the others in any way.",
+            "The conclusion is startling: \"if you chop off someone's "
+            "head with a sharp sword, you don't take anyone's life. "
+            "The sword simply passes through the gap between the "
+            "seven substances\" &mdash; a metaphysics of fixed, inert "
+            "elements used to argue that even killing has no genuine "
+            "victim.",
+        ]),
+        ("A numerology running into the millions", [
+            "The view continues into an extraordinary catalog: 1.4 "
+            "million main wombs, 500 deeds and five and three, 62 "
+            "paths of practice, 62 sub-eons, six classes of rebirth, "
+            "eight stages of life, 4,900 Ājīvaka ascetics, 3,000 "
+            "hells, seven each of several categories of embryo and "
+            "incarnation, and 8.4 million great eons &mdash; through "
+            "all of which beings transmigrate on a fixed schedule "
+            "before making an end of suffering, regardless of any "
+            "spiritual practice.",
+            "\"By this precept or observance or fervent austerity or "
+            "spiritual practice I shall force unripened deeds to bear "
+            "their fruit\" is declared flatly impossible &mdash; "
+            "practice cannot accelerate or alter an already-fixed "
+            "allotment of pleasure and pain.",
+        ]),
+        ("A view closely tracking Pakudha Kaccāyana's doctrine", [
+            "The Sāmaññaphala Sutta attributes a near-identical "
+            "seven-substance metaphysics, including the same sword-"
+            "and-gap argument, to Pakudha Kaccāyana, the fourth and "
+            "final of the named teachers examined in this vagga's "
+            "run &mdash; an eternalism specifically about the "
+            "irreducible elements themselves, distinct from SN 24.3's "
+            "eternalism about the self and cosmos as a whole.",
+            "\"It's like how, when you toss a ball of string, it "
+            "rolls away unraveling\" &mdash; the view's own closing "
+            "image, transmigration as a fixed, predetermined unwinding "
+            "rather than a process any effort can shape.",
+        ]),
+        ("The diagnostic, unmoved by scale", [
+            "Despite being the longest and most numerically elaborate "
+            "view in this vagga, the response is exactly as brief as "
+            "every other discourse's: the aggregates and sixth ground "
+            "shown impermanent, doubt given up, stream-entry declared "
+            "&mdash; closing this four-discourse run through Ajita "
+            "Kesakambalī's nihilism, Pūraṇa Kassapa's amoralism, "
+            "Makkhali Gosāla's fatalism, and now Pakudha Kaccāyana's "
+            "atomism.",
+        ]),
+    ],
+    terms=[
+        ("satta kāyā", "the seven substances — earth, water, fire, air, pleasure, pain, and the soul, claimed unmade and unable to affect each other"),
+        ("khuradhārena satthena", "\"with a sharp sword\" — the view's argument that even beheading takes no genuine life, the blade merely passing between fixed substances"),
+        ("suttaguḷasadiso", "\"like a ball of string\" — the view's closing image of transmigration as a fixed, unwinding process"),
+        ("Pakudha Kaccāyana", "a teacher whose doctrine, as reported in the Sāmaññaphala Sutta (DN 2), closely tracks this discourse's seven-substance metaphysics"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — this vagga's standing two-condition formula, closing its run through four named-teacher doctrines"),
+    ],
+    text_intro=("The complete discourse: the seven-substance cosmology and its "
+        "extensive numerology in full, then the aggregate catechism "
+        "and stream-enterer conclusion. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.8:1.1-1.16"),
+        ("p", "&sect;2", "sn24.8:2.1-3.13"),
+        ("p", "&sect;3", "sn24.8:4.1-4.2"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's view claim about seven named substances?",
+         "opts": ["That they are unmade, uncreated, and unable to affect or move each other",
+                  "That they combine constantly to produce new beings", "That only one of the seven truly exists", "That they are identical to the five aggregates"],
+         "correct": 0,
+         "expl": "Earth, water, fire, air, pleasure, pain, and the soul as the seventh."},
+        {"q": "What startling conclusion does the view draw about killing?",
+         "opts": ["That a sword beheading someone takes no genuine life, merely passing through the gap between substances",
+                  "That killing is the worst possible act", "That killing only affects the soul", "That killing is impossible in principle"],
+         "correct": 0,
+         "expl": "A metaphysics of fixed, inert elements used to deny any genuine victim."},
+        {"q": "What does the view's numerology include?",
+         "opts": ["1.4 million main wombs, 62 sub-eons, 8.4 million great eons, and more",
+                  "Only a single fixed number", "Exactly ten categories", "No numerical claims at all"],
+         "correct": 0,
+         "expl": "An extraordinarily elaborate fixed cosmology beings transmigrate through."},
+        {"q": "Which teacher named in the Sāmaññaphala Sutta is associated with closely similar seven-substance doctrine?",
+         "opts": ["Pakudha Kaccāyana", "Makkhali Gosāla", "Ajita Kesakambalī", "Pūraṇa Kassapa"],
+         "correct": 0,
+         "expl": "The fourth and final named teacher examined across this vagga's run."},
+        {"q": "What does the view claim about spiritual practice?",
+         "opts": ["That it cannot accelerate or alter an already-fixed allotment of pleasure and pain",
+                  "That it can instantly eliminate all suffering", "That it is the only path to liberation", "That it has no relationship to the substances at all"],
+         "correct": 0,
+         "expl": "\"That cannot be\" — practice declared powerless against a predetermined schedule."},
+        {"q": "What image closes this view's own presentation?",
+         "opts": ["A ball of string tossed and rolling away unraveling", "A river flowing to the sea", "A tree growing from a seed", "A flame being extinguished"],
+         "correct": 0,
+         "expl": "Transmigration as a fixed, predetermined unwinding rather than a shapeable process."},
+        {"q": "How does this view's eternalism differ from SN 24.3's?",
+         "opts": ["It concerns the irreducible elements themselves, not the self and cosmos as a single whole",
+                  "There is no difference at all", "It denies eternalism entirely", "It concerns only the afterlife"],
+         "correct": 0,
+         "expl": "Seven fixed substances rather than a single permanent self-cosmos identity."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What happens to the diagnostic response despite this view's unusual length and numerical elaboration?",
+         "opts": ["It remains exactly as brief as every other discourse's — aggregates shown impermanent, stream-entry declared",
+                  "It becomes correspondingly longer and more elaborate", "It is skipped entirely", "It shifts to a numerical refutation"],
+         "correct": 0,
+         "expl": "The same machinery, unmoved by the scale of the view it addresses."},
+        {"q": "What four teachers' doctrines has this vagga's run now covered, concluding with this discourse?",
+         "opts": ["Ajita Kesakambalī, Pūraṇa Kassapa, Makkhali Gosāla, and Pakudha Kaccāyana",
+                  "Four entirely unrelated, unnamed figures", "The same teacher across four discourses", "Two teachers, each covered twice"],
+         "correct": 0,
+         "expl": "Nihilism, amoralism, fatalism, and now atomism, closing this four-discourse run."},
+    ],
+    marginalia=[
+        ("Seven fixed substances", [
+            "earth, water, fire, air, pleasure, pain, soul &mdash;",
+            "unmade, uncreated, untouched by each other",
+        ]),
+        ("A sword through the gaps", [
+            "no genuine victim, the view claims &mdash;",
+            "the blade merely passing between substances",
+        ]),
+        ("Millions upon millions", [
+            "wombs, eons, hells, incarnations &mdash;",
+            "this vagga's most elaborate numerology",
+        ]),
+        ("Four teachers, one diagnostic", [
+            "nihilism, amoralism, fatalism, atomism &mdash;",
+            "the same machinery closes each in turn",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.7.html">SN 24.7 &middot; Cause</a> '
+        "&mdash; the previous discourse, denying causation rather "
+        "than affirming fixed eternal substances.",
+        '<a href="sn-24.9.html">SN 24.9 &middot; The Cosmos Is Eternal</a> '
+        "&mdash; the next discourse, opening this vagga's run through "
+        "the ten classic undetermined questions.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.9 — Sassatadiṭṭhisutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 9, "Sassatadiṭṭhi", "The Cosmos Is Eternal",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.9 — The Cosmos Is Eternal | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sassatadiṭṭhisutta &mdash; opening this vagga's run "
+        "through the ten classic undetermined questions, and the "
+        "point where the source text's own compression begins in "
+        "earnest. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The first of the ten classic undetermined "
+                 "questions, still given the full aggregate catechism "
+                 "but with the source text's elision beginning to "
+                 "thicken"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "straightforward, though worth noticing how "
+                       "the source text starts trusting the reader "
+                       "more from here on"),
+    ],
+    why=(
+        "Opens this vagga's run through the ten classic "
+        "\"undetermined questions\" (avyākatavatthūni) &mdash; "
+        "whether the cosmos is eternal or not, finite or infinite, "
+        "whether soul and body are the same or different, and "
+        "whether a realized one exists, doesn't, both, or neither "
+        "after death &mdash; famous elsewhere in the Canon as "
+        "questions the Buddha declines to answer directly. Here, they "
+        "receive the identical diagnostic treatment as every other "
+        "view in this vagga, including the four self-view grounds and "
+        "the four named teachers' doctrines already examined."
+    ),
+    guide=[
+        ("A bare claim, no elaborate content behind it", [
+            "\"The cosmos is eternal\" &mdash; unlike SN 24.5&ndash;8's "
+            "elaborate manifestos, the ten undetermined questions are "
+            "each stated in the fewest possible words, their fame "
+            "resting entirely on their status as questions rather "
+            "than on any argument offered in their support.",
+        ]),
+        ("The source text's compression visibly thickens here", [
+            "Where SN 24.1&ndash;8 spelled out the full aggregate "
+            "catechism at length, this discourse's source compresses "
+            "the middle section to a bare \"when form exists...\" "
+            "followed by an ellipsis, trusting the reader to supply "
+            "the pattern established eight discourses earlier &mdash; "
+            "the first visible step in a compression that will "
+            "continue increasing through the rest of this vagga.",
+        ]),
+        ("Famous elsewhere as a question the Buddha declines", [
+            "This same question &mdash; is the cosmos eternal &mdash; "
+            "appears elsewhere in the Canon (notably at MN 63, the "
+            "Cūḷamālukyasutta) as one the Buddha explicitly refuses "
+            "to answer, comparing the demand for an answer to a man "
+            "shot with a poisoned arrow who refuses treatment until "
+            "he learns the archer's clan and village. Here in "
+            "Diṭṭhisaṃyutta, the question receives a different kind "
+            "of treatment entirely: not a refusal to answer, but a "
+            "demonstration of what grounds the question's arising in "
+            "the first place.",
+        ]),
+        ("Two different projects, one shared question", [
+            "The undetermined-questions genre typically asks whether "
+            "these ten claims are true; this vagga instead asks what "
+            "makes anyone hold any of them &mdash; grasping the "
+            "aggregates, which are themselves impermanent. The "
+            "question of truth and the question of origin are "
+            "different projects, and this vagga has committed fully "
+            "to the second.",
+        ]),
+    ],
+    terms=[
+        ("sassato loko", "the cosmos is eternal — the first of the ten classic undetermined questions, opening this vagga's run through them"),
+        ("avyākatavatthūni", "the undetermined questions — the traditional name for this set of ten claims the Buddha elsewhere declines to answer directly"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — this vagga's standing two-condition formula, now applied to the undetermined questions"),
+        ("kaṅkhā pahīnā", "doubt given up — this vagga's own criterion for stream-entry"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — this vagga's standing conclusion"),
+    ],
+    text_intro=("The complete discourse: the bare claim, the compressed "
+        "aggregate catechism, and the stream-enterer conclusion. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.9:1.1-1.4"),
+        ("p", "&sect;2", "sn24.9:2.1-3.21"),
+        ("p", "&sect;3", "sn24.9:4.1-4.2"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse examine?",
+         "opts": ["\"The cosmos is eternal\"", "\"There's no cause or reason\"", "\"This is mine, I am this, this is my self\"", "\"Acting produces no outcome\""],
+         "correct": 0,
+         "expl": "The first of the ten classic undetermined questions."},
+        {"q": "What traditional name covers this set of ten claims?",
+         "opts": ["Avyākatavatthūni, the undetermined questions", "Akiriyavāda", "Niyativāda", "Ucchedavāda"],
+         "correct": 0,
+         "expl": "Famous elsewhere in the Canon as questions the Buddha declines to answer directly."},
+        {"q": "What happens to the source text's compression starting with this discourse?",
+         "opts": ["It visibly thickens, trusting the reader to supply the pattern established in earlier discourses",
+                  "It disappears entirely, becoming fuller than before", "It remains exactly as before", "The discourse is merged into a single file with others"],
+         "correct": 0,
+         "expl": "The first visible step in a compression that continues increasing through the rest of this vagga."},
+        {"q": "Where else in the Canon does this same question appear, treated differently?",
+         "opts": ["MN 63, where the Buddha compares demanding an answer to a man shot with a poisoned arrow",
+                  "Nowhere else in the Canon", "Only in this exact discourse", "In the Vinaya's monastic rules"],
+         "correct": 0,
+         "expl": "There, the Buddha refuses to answer at all; here, he diagnoses what grounds the question's arising."},
+        {"q": "How does this vagga's treatment of the question differ from MN 63's?",
+         "opts": ["It doesn't refuse to answer — it diagnoses what makes anyone hold the view in the first place",
+                  "It gives a direct yes-or-no answer", "It is identical in every respect", "It denies the question can even be asked"],
+         "correct": 0,
+         "expl": "The question of truth and the question of origin are different projects."},
+        {"q": "What does this vagga trace the view's arising to?",
+         "opts": ["Grasping the impermanent aggregates", "A direct philosophical argument", "A specific named teacher's doctrine", "An error in perception alone"],
+         "correct": 0,
+         "expl": "The same diagnostic applied to every view examined so far in this vagga."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "How does this discourse's brevity compare to SN 24.5–8?",
+         "opts": ["Far more compressed — no elaborate manifesto, just a bare claim",
+                  "Exactly the same length", "Considerably longer", "It contains no aggregate catechism at all"],
+         "correct": 0,
+         "expl": "The ten undetermined questions rest their fame on being questions, not on elaborate argument."},
+        {"q": "What does this discourse's conclusion certify?",
+         "opts": ["Stream-entry, via doubt given up about six grounds and the four truths",
+                  "A direct resolution of whether the cosmos is eternal", "Full arahantship", "Agreement with the view examined"],
+         "correct": 0,
+         "expl": "This vagga's standing stream-enterer formula, unchanged regardless of the view."},
+        {"q": "How many undetermined questions does this traditional set comprise in total?",
+         "opts": ["Ten", "Four", "Six", "Eighteen"],
+         "correct": 0,
+         "expl": "Cosmos eternal/not, finite/infinite, soul-body same/different, and the Realized One's four post-death states."},
+    ],
+    marginalia=[
+        ("A bare claim, no argument", [
+            "\"the cosmos is eternal\" &mdash;",
+            "the first of ten famous unanswered questions",
+        ]),
+        ("The compression begins", [
+            "an ellipsis stands in for what came before &mdash;",
+            "trusting the reader from here onward",
+        ]),
+        ("A different refusal elsewhere", [
+            "MN 63's poisoned arrow &mdash;",
+            "there declined, here diagnosed instead",
+        ]),
+        ("Truth and origin, two projects", [
+            "not whether the claim is true &mdash;",
+            "but what makes anyone hold it at all",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.8.html">SN 24.8 &middot; The Extensive View</a> '
+        "&mdash; the previous discourse, closing this vagga's run "
+        "through the four named teachers' doctrines.",
+        '<a href="sn-24.10.html">SN 24.10 &middot; The Cosmos Is Not '
+        "Eternal</a> &mdash; the next discourse, the undetermined "
+        "questions' first paired opposite.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.10 — Asassatadiṭṭhisutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 10, "Asassatadiṭṭhi", "The Cosmos Is Not Eternal",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.10 — The Cosmos Is Not Eternal | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Asassatadiṭṭhisutta &mdash; the paired opposite of "
+        "SN 24.9, and a step further into this vagga's thickening "
+        "compression. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The second of the ten undetermined questions, "
+                 "paired directly against SN 24.9, with compression "
+                 "one step further advanced"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and formulaic, best read immediately "
+                       "after SN 24.9"),
+    ],
+    why=(
+        "The direct paired opposite of SN 24.9: where that discourse "
+        "claimed the cosmos is eternal, this one claims it is not "
+        "&mdash; the second of the ten undetermined questions, and "
+        "the point where the source text's compression tightens "
+        "further still, collapsing even the opening aggregate "
+        "application into a single elided line."
+    ),
+    guide=[
+        ("The mirror claim", [
+            "\"The cosmos is not eternal\" &mdash; the bare negation "
+            "of SN 24.9's claim, examined by the identical diagnostic "
+            "machinery. The two discourses are best read as a single "
+            "pair: not because either resolves the question, but "
+            "because both rest on exactly the same grasping.",
+        ]),
+        ("Compression tightens a further notch", [
+            "Where SN 24.9 still spelled out \"when form exists, "
+            "because of grasping form...\" before eliding the "
+            "remaining aggregates, this discourse compresses even "
+            "that opening line to \"when form exists...\" followed "
+            "immediately by an ellipsis &mdash; one further step in "
+            "the gradual thinning this vagga will continue through "
+            "its remaining discourses.",
+        ]),
+        ("Undetermined precisely because both poles fail identically", [
+            "That eternalism and its negation are diagnosed by "
+            "exactly the same mechanism is itself a kind of answer: "
+            "whichever pole a person is drawn to, the attraction runs "
+            "through the same impermanent aggregates. Neither claim "
+            "is being defended or refuted on its own terms &mdash; "
+            "both are being traced to a common root.",
+        ]),
+        ("Setting up the finite/infinite pair to follow", [
+            "SN 24.9 and 24.10 establish this vagga's pattern for the "
+            "remaining eight undetermined questions: paired opposites, "
+            "each pair sharing one root diagnosis, compression "
+            "increasing with each successive pair as the pattern "
+            "becomes fully established.",
+        ]),
+    ],
+    terms=[
+        ("asassato loko", "the cosmos is not eternal — this discourse's claim, the direct negation of SN 24.9's"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — this vagga's standing two-condition formula, unchanged across both poles of the pair"),
+        ("kaṅkhā pahīnā", "doubt given up — this vagga's own criterion for stream-entry"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — this vagga's standing conclusion"),
+        ("peyyāla", "an elision mark — used here to compress the aggregate catechism further than SN 24.9's own already-thinned version"),
+    ],
+    text_intro=("The complete discourse: the negated claim, the compressed "
+        "catechism, and the stream-enterer conclusion. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.10:1.1-1.4"),
+        ("p", "&sect;2", "sn24.10:2.1-2.11"),
+        ("p", "&sect;3", "sn24.10:3.1-3.2"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse examine?",
+         "opts": ["\"The cosmos is not eternal\"", "\"The cosmos is finite\"", "\"The cosmos is infinite\"", "\"The soul and body are one\""],
+         "correct": 0,
+         "expl": "The direct negation of SN 24.9's claim."},
+        {"q": "How does this discourse relate to SN 24.9?",
+         "opts": ["It is the paired opposite, examined by the identical diagnostic machinery",
+                  "It is entirely unrelated", "It resolves SN 24.9's question directly", "It denies that SN 24.9's question is meaningful"],
+         "correct": 0,
+         "expl": "Both claims rest on exactly the same grasping."},
+        {"q": "What happens to the source text's compression in this discourse compared to SN 24.9?",
+         "opts": ["It tightens a further notch, eliding even the opening aggregate line",
+                  "It expands, becoming fuller than SN 24.9", "It disappears entirely — no elision at all", "It remains exactly the same as SN 24.9"],
+         "correct": 0,
+         "expl": "One further step in the gradual thinning this vagga will continue."},
+        {"q": "What does it mean that eternalism and its negation are diagnosed by the same mechanism?",
+         "opts": ["Neither claim is defended or refuted on its own terms — both are traced to a common root in grasping",
+                  "It means one claim is secretly true and the other false", "It means the diagnostic is broken", "It means the two discourses contradict each other"],
+         "correct": 0,
+         "expl": "Whichever pole a person is drawn to, the attraction runs through the same impermanent aggregates."},
+        {"q": "What pattern do SN 24.9 and 24.10 together establish for the remaining undetermined questions?",
+         "opts": ["Paired opposites sharing one root diagnosis, with compression increasing pair by pair",
+                  "Each question receiving a unique, unrelated treatment", "A single merged discourse for all remaining questions", "An abandonment of the aggregate catechism"],
+         "correct": 0,
+         "expl": "This vagga's template for its remaining eight undetermined-question discourses."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What pair of questions follows immediately after this one?",
+         "opts": ["Whether the cosmos is finite or infinite", "Whether the self and cosmos are eternal", "Whether a realized one exists after death", "Whether giving has meaning"],
+         "correct": 0,
+         "expl": "SN 24.11 and 24.12, the next pair in this vagga's run."},
+        {"q": "What does this discourse's conclusion certify?",
+         "opts": ["Stream-entry, via doubt given up about six grounds and the four truths",
+                  "A direct resolution of the cosmos's eternity", "Full arahantship", "Agreement with the negated claim"],
+         "correct": 0,
+         "expl": "This vagga's standing stream-enterer formula, unchanged regardless of the view."},
+        {"q": "Why are these ten questions traditionally called \"undetermined\"?",
+         "opts": ["Because the Buddha elsewhere declines to answer them directly, one way or the other",
+                  "Because they have never been recorded anywhere in the Canon", "Because they are considered unimportant", "Because this vagga answers them definitively"],
+         "correct": 0,
+         "expl": "Famous elsewhere in the Canon (e.g. MN 63) as questions left deliberately unresolved."},
+        {"q": "How many total undetermined questions does this traditional set comprise?",
+         "opts": ["Ten", "Two", "Eighteen", "Four"],
+         "correct": 0,
+         "expl": "This discourse is only the second of the full set of ten."},
+    ],
+    marginalia=[
+        ("The mirror claim", [
+            "\"the cosmos is not eternal\" &mdash;",
+            "SN 24.9's exact negation, same diagnosis",
+        ]),
+        ("One further turn of compression", [
+            "even the opening line now elided &mdash;",
+            "the pattern this vagga will keep tightening",
+        ]),
+        ("Two poles, one root", [
+            "eternal or not, the grasping is identical &mdash;",
+            "neither claim defended, both traced to its source",
+        ]),
+        ("A template for eight more", [
+            "paired opposites, compression increasing &mdash;",
+            "the shape this vagga's remaining run will follow",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.9.html">SN 24.9 &middot; The Cosmos Is Eternal</a> '
+        "&mdash; the previous discourse, this pair's own opening half.",
+        '<a href="sn-24.11.html">SN 24.11 &middot; The Cosmos Is Finite</a> '
+        "&mdash; the next discourse, opening the second pair of "
+        "undetermined questions.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.11 — Antavāsutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 11, "Antavā", "The Cosmos Is Finite",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.11 — The Cosmos Is Finite | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Antavāsutta &mdash; the third undetermined question, "
+        "reduced to its single opening line as this vagga's "
+        "compression reaches its steepest point yet. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The bare opening question alone, with everything "
+                 "else left to an ellipsis and two blank source lines"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivially brief on its own, meaningful mainly "
+                       "in relation to the discourses around it"),
+    ],
+    why=(
+        "The third of the ten undetermined questions, and the point "
+        "where this vagga's compression reaches its steepest pitch "
+        "yet: the bilara-data source preserves only the opening "
+        "question itself, with two further keys present but left "
+        "entirely empty. Nothing here is fabricated to fill the gap "
+        "&mdash; the discourse is genuinely this short in the source "
+        "text, trusting SN 24.9's fuller treatment to carry the "
+        "reader through by memory."
+    ),
+    guide=[
+        ("The claim, alone", [
+            "\"The cosmos is finite\" &mdash; opening the second pair "
+            "of undetermined questions (finite/infinite), following "
+            "SN 24.9&ndash;10's eternal/not-eternal pair.",
+        ]),
+        ("A source text with almost nothing left to quote", [
+            "Unlike every earlier discourse in this vagga, bilara-data "
+            "preserves no separate aggregate catechism or conclusion "
+            "for this discourse at all &mdash; only the opening "
+            "question, followed by an ellipsis and two keys "
+            "containing no text whatsoever. This is not a case of a "
+            "missing file or corrupted data; it is the source's own "
+            "editorial choice to trust the reader entirely by this "
+            "point in the vagga.",
+        ]),
+        ("Reading this discourse means reading SN 24.9 again", [
+            "The full catechism &mdash; grasping each aggregate, each "
+            "shown impermanent, the sixth ground added, doubt given "
+            "up regarding six grounds and the four truths &mdash; "
+            "still structurally applies here; the source text simply "
+            "no longer bothers to write it out. A reader who has "
+            "worked through SN 24.1&ndash;9 already holds the "
+            "complete pattern needed to supply what this discourse "
+            "omits.",
+        ]),
+        ("Why the site still gives this a full page", [
+            "Even at this level of compression, bilara-data assigns "
+            "this discourse its own independent sutta number and "
+            "title, distinct from its neighbors &mdash; consistent "
+            "with this project's standing practice of generating one "
+            "page per numbered discourse regardless of how little "
+            "unique text it contains, rather than silently folding it "
+            "into a merged range.",
+        ]),
+    ],
+    terms=[
+        ("antavā loko", "the cosmos is finite — this discourse's claim, opening the second pair of undetermined questions"),
+        ("peyyāla", "an elision mark — here compressing this discourse to almost nothing beyond its opening line"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — the formula this discourse's compression trusts the reader to supply from memory"),
+        ("kaṅkhā pahīnā", "doubt given up — this vagga's standing criterion for stream-entry, implied though not written out here"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — this vagga's standing conclusion, structurally present though unwritten"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the "
+        "opening question alone. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.11:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse examine?",
+         "opts": ["\"The cosmos is finite\"", "\"The cosmos is infinite\"", "\"The cosmos is eternal\"", "\"The soul and body are the same\""],
+         "correct": 0,
+         "expl": "Opening the second pair of undetermined questions."},
+        {"q": "What does bilara-data preserve for this discourse beyond the opening question?",
+         "opts": ["Almost nothing — an ellipsis and two entirely empty text keys",
+                  "A full aggregate catechism written out in complete detail", "A lengthy debate with an outside questioner", "Nothing at all — not even the opening question"],
+         "correct": 0,
+         "expl": "The steepest compression point this vagga has reached so far."},
+        {"q": "Is this brevity a data error or a deliberate editorial choice?",
+         "opts": ["A deliberate editorial choice trusting the reader to supply the pattern from memory",
+                  "A corrupted or missing file", "An error this reading guide has silently corrected", "Evidence the discourse was never actually taught"],
+         "correct": 0,
+         "expl": "Nothing here is fabricated to fill the gap — the source is genuinely this short."},
+        {"q": "What earlier discourse's fuller treatment does this compression rely on?",
+         "opts": ["SN 24.9's full aggregate catechism", "SN 24.1's opening frame", "SN 22.151's self-view formula", "SN 24.5's nihilist manifesto"],
+         "correct": 0,
+         "expl": "A reader who has worked through SN 24.1–9 already holds the complete pattern."},
+        {"q": "What pair of questions does this discourse open?",
+         "opts": ["Whether the cosmos is finite or infinite", "Whether the cosmos is eternal or not", "Whether soul and body are the same or different", "Whether a realized one exists after death"],
+         "correct": 0,
+         "expl": "Following SN 24.9–10's eternal/not-eternal pair."},
+        {"q": "Why does this project still generate a full independent page for this discourse?",
+         "opts": ["Because bilara-data assigns it its own sutta number and title, distinct from its neighbors",
+                  "Because it happens to contain the most unique content in the vagga", "Because it was requested specifically by name", "Because merging it would be technically impossible"],
+         "correct": 0,
+         "expl": "Consistent with this project's practice of one page per numbered discourse."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What structurally still applies to this discourse, even though the source doesn't write it out?",
+         "opts": ["The full aggregate catechism and stream-enterer conclusion",
+                  "Nothing — the discourse has no content or structure at all", "A different conclusion entirely, unique to this discourse", "A debate format absent from other discourses"],
+         "correct": 0,
+         "expl": "The pattern this vagga has already established nine times over."},
+        {"q": "What discourse follows this one, completing the finite/infinite pair?",
+         "opts": ["SN 24.12, \"The Cosmos Is Infinite\"", "SN 24.13, \"The Soul and the Body Are the Same\"", "SN 24.9, repeated", "SN 24.18, the vagga's closing discourse"],
+         "correct": 0,
+         "expl": "This pair's own second half."},
+        {"q": "How many of the ten undetermined questions has this vagga now opened, counting this discourse?",
+         "opts": ["Three", "One", "Five", "Ten"],
+         "correct": 0,
+         "expl": "Eternal, not eternal, and now finite — with seven more still to come."},
+    ],
+    marginalia=[
+        ("A claim, and almost nothing else", [
+            "\"the cosmos is finite\" &mdash;",
+            "two blank keys where more text once might stand",
+        ]),
+        ("Not an error, a choice", [
+            "the source trusts the reader by now &mdash;",
+            "nothing here has been fabricated to fill the gap",
+        ]),
+        ("Borrowing SN 24.9's memory", [
+            "the full catechism still applies &mdash;",
+            "simply no longer written out in full",
+        ]),
+        ("One page, however little it holds", [
+            "a numbered discourse still earns its own page &mdash;",
+            "this project's standing practice, unbroken here",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.11/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.10.html">SN 24.10 &middot; The Cosmos Is Not '
+        "Eternal</a> &mdash; the previous discourse, still preserving "
+        "a compressed but complete catechism.",
+        '<a href="sn-24.9.html">SN 24.9 &middot; The Cosmos Is Eternal</a> '
+        "&mdash; this vagga's own fullest treatment of the "
+        "undetermined-questions template, worth rereading alongside "
+        "this discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.12 — Anantavāsutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 12, "Anantavā", "The Cosmos Is Infinite",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.12 — The Cosmos Is Infinite | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anantavāsutta &mdash; the paired opposite of SN 24.11, "
+        "closing this vagga's second pair of undetermined questions. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The bare opening question alone, mirroring "
+                 "SN 24.11's own compression"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivially brief on its own, best read as "
+                       "SN 24.11's direct completion"),
+    ],
+    why=(
+        "Completes the finite/infinite pair SN 24.11 opened, closing "
+        "this vagga's second pair of undetermined questions with the "
+        "identical minimal treatment: the bare claim, then an "
+        "ellipsis and two empty source keys, trusting SN 24.9's "
+        "fuller treatment to carry the diagnostic through by memory."
+    ),
+    guide=[
+        ("The mirror claim, at the same compression", [
+            "\"The cosmos is infinite\" &mdash; SN 24.11's direct "
+            "negation, examined at exactly the same minimal length: "
+            "one opening line, then nothing further written out.",
+        ]),
+        ("Two pairs now complete, at two different depths", [
+            "SN 24.9&ndash;10 (eternal/not eternal) still preserved a "
+            "compressed but genuine catechism; SN 24.11&ndash;12 "
+            "(finite/infinite) preserve only the bare question "
+            "&mdash; a visible second step down in how much the "
+            "source text is willing to spell out as the vagga "
+            "proceeds.",
+        ]),
+        ("A cosmological question, diagnosed the same way as a moral one", [
+            "Whether the cosmos has spatial limits or not is, on its "
+            "face, a question of physics or cosmology rather than "
+            "ethics &mdash; yet this vagga diagnoses it by exactly "
+            "the same aggregate-grasping mechanism it applied to "
+            "SN 24.6's amoralism or SN 24.5's nihilism, treating "
+            "cosmological speculation and moral doctrine as arising "
+            "from the identical root.",
+        ]),
+        ("Two pairs down, three to go", [
+            "With this discourse, this vagga has completed two of its "
+            "five pairs of undetermined questions (eternal/not-"
+            "eternal, finite/infinite), moving next to the "
+            "soul-and-body pair before reaching the four questions "
+            "about a realized one's status after death.",
+        ]),
+    ],
+    terms=[
+        ("anantavā loko", "the cosmos is infinite — this discourse's claim, the direct negation of SN 24.11's"),
+        ("peyyāla", "an elision mark — compressing this discourse to the same minimal length as SN 24.11"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — the formula this discourse's compression trusts the reader to supply"),
+        ("kaṅkhā pahīnā", "doubt given up — this vagga's standing criterion for stream-entry, implied though unwritten here"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — this vagga's standing conclusion"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the "
+        "opening question alone. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.12:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse examine?",
+         "opts": ["\"The cosmos is infinite\"", "\"The cosmos is finite\"", "\"The cosmos is eternal\"", "\"The soul is one thing, the body another\""],
+         "correct": 0,
+         "expl": "SN 24.11's direct negation, completing the finite/infinite pair."},
+        {"q": "How does this discourse's compression compare to SN 24.11's?",
+         "opts": ["Identical — the bare opening question alone, nothing further written out",
+                  "Considerably fuller than SN 24.11", "Entirely absent — no text at all", "A completely different structure"],
+         "correct": 0,
+         "expl": "The same minimal treatment mirroring its paired opposite."},
+        {"q": "How do SN 24.9–10's compression and SN 24.11–12's compare?",
+         "opts": ["SN 24.9–10 preserve a compressed but genuine catechism; SN 24.11–12 preserve only the bare question",
+                  "They are exactly identical in every respect", "SN 24.9–10 are more compressed than SN 24.11–12", "Neither pair contains any catechism at all"],
+         "correct": 0,
+         "expl": "A visible second step down in how much the source spells out."},
+        {"q": "What kind of question is \"is the cosmos infinite\" on its face?",
+         "opts": ["A cosmological or physical question, not directly an ethical one",
+                  "A purely ethical question", "A grammatical question", "A question about karma specifically"],
+         "correct": 0,
+         "expl": "Yet diagnosed by the same mechanism applied to explicitly moral doctrines like SN 24.6's amoralism."},
+        {"q": "What does this vagga's uniform diagnostic treatment across cosmology and ethics suggest?",
+         "opts": ["That cosmological speculation and moral doctrine are treated as arising from the identical root",
+                  "That cosmological questions are considered more important", "That ethical questions are excluded from this vagga entirely", "That the two types of question receive opposite treatments"],
+         "correct": 0,
+         "expl": "The same aggregate-grasping mechanism applied regardless of a view's subject matter."},
+        {"q": "How many of this vagga's five pairs of undetermined questions are complete after this discourse?",
+         "opts": ["Two — eternal/not-eternal and finite/infinite", "All five", "None", "Four"],
+         "correct": 0,
+         "expl": "Moving next to the soul-and-body pair."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What pair of questions comes next after this discourse?",
+         "opts": ["Whether soul and body are the same or different", "Whether a realized one exists after death", "Whether the cosmos is eternal", "Whether giving has meaning"],
+         "correct": 0,
+         "expl": "SN 24.13–14, this vagga's third pair."},
+        {"q": "What discourse still supplies the fullest version of the pattern this discourse relies on?",
+         "opts": ["SN 24.9", "SN 24.1", "SN 24.5", "SN 22.151"],
+         "correct": 0,
+         "expl": "This vagga's own fullest treatment of the undetermined-questions template."},
+        {"q": "What does this discourse's conclusion structurally certify, though unwritten in the source?",
+         "opts": ["Stream-entry, via doubt given up about six grounds and the four truths",
+                  "A direct resolution of the cosmos's extent", "Full arahantship", "Nothing — the discourse has no conclusion"],
+         "correct": 0,
+         "expl": "This vagga's standing formula, implied by the established pattern."},
+    ],
+    marginalia=[
+        ("The mirror claim, again", [
+            "\"the cosmos is infinite\" &mdash;",
+            "SN 24.11's negation, same minimal length",
+        ]),
+        ("A second step down", [
+            "fuller pairs behind, barer pairs ahead &mdash;",
+            "the vagga's compression deepens once more",
+        ]),
+        ("Cosmology, diagnosed like ethics", [
+            "spatial extent or moral weight &mdash;",
+            "one mechanism accounts for both",
+        ]),
+        ("Two pairs down, three remain", [
+            "eternal, finite, now behind &mdash;",
+            "soul and body, then the Realized One, ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.12/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.11.html">SN 24.11 &middot; The Cosmos Is Finite</a> '
+        "&mdash; the previous discourse, this pair's own opening half.",
+        '<a href="sn-24.13.html">SN 24.13 &middot; The Soul and the Body '
+        "Are the Same</a> &mdash; the next discourse, opening this "
+        "vagga's third pair of undetermined questions.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.13 — Taṁjīvaṁtaṁsarīraṁsutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 13, "Taṁjīvaṁtaṁsarīraṁ", "The Soul and the Body Are the Same",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.13 — The Soul and the Body Are the Same | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Taṁjīvaṁtaṁsarīraṁsutta &mdash; the fifth undetermined "
+        "question, opening this vagga's third pair. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The bare opening question alone, matching "
+                 "SN 24.11&ndash;12's minimal treatment"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivially brief on its own, worth reading "
+                       "with its immediate opposite, SN 24.14"),
+    ],
+    why=(
+        "Opens this vagga's third pair of undetermined questions: "
+        "whether the soul (jīva, the animating life-principle) and "
+        "the body are one and the same thing, or two separate things "
+        "&mdash; the fifth of the ten classic questions, and, like "
+        "SN 24.11&ndash;12, reduced in the source to its bare opening "
+        "line alone."
+    ),
+    guide=[
+        ("A different question from the self-cosmos pair", [
+            "\"The soul and the body are one and the same\" (taṁ "
+            "jīvaṁ taṁ sarīraṁ) &mdash; distinct from SN 24.3's \"the "
+            "self and the cosmos are one and the same\" (so attā, so "
+            "loko): that discourse asked about self and cosmos "
+            "together; this one asks specifically about the "
+            "relationship between the animating life-principle and "
+            "the physical body.",
+        ]),
+        ("The materialist implication", [
+            "If soul and body are simply identical, then soul cannot "
+            "survive the body's destruction &mdash; making this claim "
+            "compatible with the annihilationist views already "
+            "examined at SN 24.5, though stated here as a metaphysical "
+            "identity claim rather than an explicit denial of "
+            "afterlife or karma.",
+        ]),
+        ("Minimal treatment, matching the finite/infinite pair", [
+            "As with SN 24.11&ndash;12, bilara-data preserves only "
+            "this discourse's opening question, with the aggregate "
+            "catechism and conclusion left entirely to the pattern "
+            "already established nine discourses earlier at SN 24.9.",
+        ]),
+        ("A pair with real philosophical stakes", [
+            "Unlike the finite/infinite pair, whose two poles concern "
+            "abstract cosmic geometry, the soul-body pair bears "
+            "directly on questions of personal survival after death "
+            "&mdash; making it, despite its brevity here, one of the "
+            "more consequential pairs in the traditional list of ten.",
+        ]),
+    ],
+    terms=[
+        ("taṁ jīvaṁ taṁ sarīraṁ", "the soul and the body are one and the same — this discourse's claim, the fifth of the ten undetermined questions"),
+        ("jīva", "soul, life-principle — the animating force this pair's questions concern, distinct from sarīra, the physical body"),
+        ("peyyāla", "an elision mark — compressing this discourse to its bare opening line, as with SN 24.11–12"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — the formula this discourse's compression trusts the reader to supply"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — this vagga's standing conclusion"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the "
+        "opening question alone. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.13:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse examine?",
+         "opts": ["\"The soul and the body are one and the same\"", "\"The self and the cosmos are one and the same\"", "\"The cosmos is finite\"", "\"There's no meaning in giving\""],
+         "correct": 0,
+         "expl": "The fifth of the ten undetermined questions, opening this vagga's third pair."},
+        {"q": "How does this claim differ from SN 24.3's \"self and cosmos are one\"?",
+         "opts": ["This one concerns the relationship between the soul and the physical body specifically, not self and cosmos together",
+                  "There is no difference — the two claims are identical", "SN 24.3 concerns the soul and body instead", "This claim denies the existence of any soul"],
+         "correct": 0,
+         "expl": "Two distinct questions among the traditional undetermined set."},
+        {"q": "What materialist implication follows if soul and body are simply identical?",
+         "opts": ["The soul cannot survive the body's destruction", "The soul definitely survives forever", "The body is actually illusory", "Nothing follows at all"],
+         "correct": 0,
+         "expl": "Compatible with the annihilationist views already examined at SN 24.5."},
+        {"q": "How is this claim stated differently from SN 24.5's explicit nihilism?",
+         "opts": ["As a metaphysical identity claim, rather than an explicit denial of afterlife or karma",
+                  "It is stated in exactly the same terms", "It explicitly denies karma directly", "It makes no metaphysical claim whatsoever"],
+         "correct": 0,
+         "expl": "A different framing of potentially overlapping implications."},
+        {"q": "How much does bilara-data preserve for this discourse beyond the opening question?",
+         "opts": ["Only the opening line, matching SN 24.11–12's minimal treatment",
+                  "A full, unabridged catechism", "A lengthy debate", "Nothing at all, not even the question"],
+         "correct": 0,
+         "expl": "The aggregate catechism and conclusion left to the established pattern."},
+        {"q": "Why might the soul-body pair carry more philosophical weight than the finite/infinite pair?",
+         "opts": ["It bears directly on questions of personal survival after death, not abstract cosmic geometry",
+                  "It is considered less important by tradition", "It has no bearing on personal survival at all", "The two pairs are equally abstract"],
+         "correct": 0,
+         "expl": "One of the more consequential pairs in the traditional list of ten."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What term names the physical body in this pair's Pāli vocabulary?",
+         "opts": ["Sarīra", "Jīva", "Kāya alone", "Rūpa alone"],
+         "correct": 0,
+         "expl": "Paired against jīva, the soul or animating life-principle."},
+        {"q": "What discourse completes this pair?",
+         "opts": ["SN 24.14, \"The Soul Is One Thing, the Body Another\"", "SN 24.15, on a realized one's existence after death", "SN 24.9, repeated", "SN 24.18, the vagga's close"],
+         "correct": 0,
+         "expl": "The direct opposite claim, closing this third pair."},
+        {"q": "Which discourse's fuller treatment does this compression still rely on?",
+         "opts": ["SN 24.9", "SN 24.5", "SN 22.151", "SN 24.1 alone"],
+         "correct": 0,
+         "expl": "This vagga's own fullest treatment of the undetermined-questions template."},
+    ],
+    marginalia=[
+        ("Soul and body, made one", [
+            "taṁ jīvaṁ taṁ sarīraṁ &mdash;",
+            "distinct from SN 24.3's self-and-cosmos claim",
+        ]),
+        ("A materialist implication", [
+            "if identical, nothing survives the body &mdash;",
+            "compatible with SN 24.5's own nihilism",
+        ]),
+        ("Real stakes, minimal text", [
+            "personal survival after death &mdash;",
+            "yet compressed to a single opening line",
+        ]),
+        ("Third pair, opening half", [
+            "same or different, soul and body &mdash;",
+            "the question SN 24.14 will directly answer",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.13/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.12.html">SN 24.12 &middot; The Cosmos Is '
+        "Infinite</a> &mdash; the previous discourse, closing this "
+        "vagga's second pair.",
+        '<a href="sn-24.14.html">SN 24.14 &middot; The Soul Is One '
+        "Thing, the Body Another</a> &mdash; the next discourse, this "
+        "pair's own direct opposite.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.14 — Aññaṁjīvaṁaññaṁsarīraṁsutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 14, "Aññaṁjīvaṁaññaṁsarīraṁ", "The Soul Is One Thing, the Body Another",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.14 — The Soul Is One Thing, the Body Another | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aññaṁjīvaṁaññaṁsarīraṁsutta &mdash; the sixth "
+        "undetermined question, completing this vagga's third pair. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The bare opening question alone, mirroring "
+                 "SN 24.13's own minimal treatment"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivially brief on its own, best read as "
+                       "SN 24.13's direct completion"),
+    ],
+    why=(
+        "Completes the soul-body pair SN 24.13 opened, closing this "
+        "vagga's third pair of undetermined questions with the "
+        "identical minimal treatment: the bare claim that soul and "
+        "body are two separate things, the sixth of the ten classic "
+        "undetermined questions."
+    ),
+    guide=[
+        ("The mirror claim", [
+            "\"The soul is one thing, the body another\" (aññaṁ jīvaṁ "
+            "aññaṁ sarīraṁ) &mdash; SN 24.13's direct opposite: rather "
+            "than identity, a strict separation between the animating "
+            "life-principle and the physical body.",
+        ]),
+        ("A dualist implication", [
+            "If soul and body are genuinely separate things, the "
+            "possibility opens that the soul might survive the body's "
+            "destruction &mdash; the structural mirror of SN 24.13's "
+            "materialist implication, though again this discourse "
+            "states only a metaphysical claim, not an explicit "
+            "position on the afterlife.",
+        ]),
+        ("Three pairs now complete", [
+            "With this discourse, this vagga has completed three of "
+            "its five pairs (eternal/not-eternal, finite/infinite, "
+            "soul-body same/different), all reduced by this point to "
+            "the same minimal treatment &mdash; the bare claim alone, "
+            "everything else supplied by memory of SN 24.9's fuller "
+            "template.",
+        ]),
+        ("What remains: the Realized One's own fourfold question", [
+            "The final pair of the traditional ten undetermined "
+            "questions is not really a pair at all but a foursome: "
+            "whether a realized one (tathāgata) exists after death, "
+            "doesn't exist, both, or neither &mdash; the most famous "
+            "single item on the traditional list, and the subject of "
+            "this vagga's remaining four discourses.",
+        ]),
+    ],
+    terms=[
+        ("aññaṁ jīvaṁ aññaṁ sarīraṁ", "the soul is one thing, the body another — this discourse's claim, the direct opposite of SN 24.13's"),
+        ("jīva/sarīra", "soul, life-principle / body — the same pair of terms examined from the opposite direction"),
+        ("peyyāla", "an elision mark — compressing this discourse to its bare opening line, as with SN 24.13"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — the formula this discourse's compression trusts the reader to supply"),
+        ("tathāgato paraṁ maraṇā", "a realized one after death — the subject of this vagga's next four discourses, its final and most famous undetermined question"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the "
+        "opening question alone. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.14:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse examine?",
+         "opts": ["\"The soul is one thing, the body another\"", "\"The soul and the body are one and the same\"", "\"The cosmos is infinite\"", "\"A realized one still exists after death\""],
+         "correct": 0,
+         "expl": "SN 24.13's direct opposite, completing the soul-body pair."},
+        {"q": "What dualist implication follows if soul and body are genuinely separate?",
+         "opts": ["The possibility opens that the soul might survive the body's destruction",
+                  "The soul definitely cannot exist at all", "The body becomes irrelevant entirely", "Nothing follows at all"],
+         "correct": 0,
+         "expl": "The structural mirror of SN 24.13's materialist implication."},
+        {"q": "How many of this vagga's five pairs of undetermined questions are complete after this discourse?",
+         "opts": ["Three — eternal/not-eternal, finite/infinite, and soul-body", "All five", "One", "Four"],
+         "correct": 0,
+         "expl": "Moving next to the Realized One's fourfold question."},
+        {"q": "What is unusual about the traditional list's final grouping, compared to the three pairs before it?",
+         "opts": ["It is a foursome, not a pair — whether a realized one exists, doesn't, both, or neither after death",
+                  "It is also a simple pair, no different from the others", "It doesn't appear in this vagga at all", "It concerns cosmology rather than the self"],
+         "correct": 0,
+         "expl": "The most famous single item on the traditional list of undetermined questions."},
+        {"q": "How many discourses in this vagga does the Realized One's fourfold question occupy?",
+         "opts": ["Four — SN 24.15 through SN 24.18", "Only one", "Two", "All eighteen"],
+         "correct": 0,
+         "expl": "This vagga's remaining four discourses, closing the entire set."},
+        {"q": "What does bilara-data preserve for this discourse beyond its opening question?",
+         "opts": ["Almost nothing, matching SN 24.13's own minimal treatment",
+                  "A full unabridged catechism", "An extended debate", "Nothing at all, not even the opening question"],
+         "correct": 0,
+         "expl": "The same compression level established across the finite/infinite and soul-body pairs."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What Pāli term names the animating life-principle in this pair?",
+         "opts": ["Jīva", "Sarīra", "Kāya", "Citta"],
+         "correct": 0,
+         "expl": "Paired against sarīra, the physical body."},
+        {"q": "What discourse comes next, opening the vagga's final question?",
+         "opts": ["SN 24.15, \"A Realized One Still Exists\"", "SN 24.9, repeated", "SN 24.5, on nihilism", "SN 24.1, the vagga's own opening"],
+         "correct": 0,
+         "expl": "The first of four discourses on the Realized One's post-death status."},
+        {"q": "Which discourse's fuller treatment does this compression still rely on?",
+         "opts": ["SN 24.9", "SN 24.5", "SN 22.151", "SN 24.18"],
+         "correct": 0,
+         "expl": "This vagga's own fullest treatment of the undetermined-questions template."},
+    ],
+    marginalia=[
+        ("Soul and body, held apart", [
+            "aññaṁ jīvaṁ aññaṁ sarīraṁ &mdash;",
+            "SN 24.13's exact opposite claim",
+        ]),
+        ("A dualist possibility", [
+            "if separate, survival becomes conceivable &mdash;",
+            "the mirror of SN 24.13's materialism",
+        ]),
+        ("Three pairs now closed", [
+            "eternal, finite, and now soul-body &mdash;",
+            "one grouping left, and it isn't a pair",
+        ]),
+        ("The most famous question ahead", [
+            "exists, doesn't, both, or neither &mdash;",
+            "four discourses, one realized one, after death",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.14/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.13.html">SN 24.13 &middot; The Soul and the Body '
+        "Are the Same</a> &mdash; the previous discourse, this pair's "
+        "own opening half.",
+        '<a href="sn-24.15.html">SN 24.15 &middot; A Realized One Still '
+        "Exists</a> &mdash; the next discourse, opening this vagga's "
+        "final and most famous undetermined question.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.15 — Hotitathāgatosutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 15, "Hotitathāgato", "A Realized One Still Exists",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.15 — A Realized One Still Exists | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Hotitathāgatosutta &mdash; the most famous of the ten "
+        "undetermined questions, opening this vagga's closing "
+        "foursome. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The bare opening question alone, matching this "
+                 "vagga's now-established minimal treatment"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivially brief here, though the underlying "
+                       "question is famous and philosophically loaded"),
+    ],
+    why=(
+        "Opens the final grouping of the ten classic undetermined "
+        "questions &mdash; whether a realized one (tathāgata) exists "
+        "after death, arguably the single most famous item on the "
+        "traditional list, discussed at length elsewhere in the "
+        "Canon (notably the Aggivacchagottasutta, MN 72, where the "
+        "Buddha compares the question to asking which direction an "
+        "extinguished fire has gone). Here it receives the same "
+        "minimal treatment this vagga has given every undetermined "
+        "question since SN 24.11."
+    ),
+    guide=[
+        ("The first of four, not a pair", [
+            "\"A realized one still exists after death\" &mdash; "
+            "unlike the three prior groupings, this final item forms "
+            "a foursome rather than a simple pair: exists, doesn't "
+            "exist, both, and neither, each receiving its own "
+            "discourse (SN 24.15&ndash;18).",
+        ]),
+        ("The canon's most discussed unanswered question", [
+            "This exact question receives extended treatment "
+            "elsewhere in the Canon, most famously at MN 72 "
+            "(Aggivacchagottasutta), where the wanderer Vacchagotta "
+            "presses the Buddha on all four options and receives none "
+            "of them, the Buddha instead comparing a liberated "
+            "person's fate to an extinguished fire: asking which "
+            "direction it has gone is already the wrong kind of "
+            "question, since a fire's identity depended on the fuel "
+            "it clung to, and it no longer clings to any.",
+            "Diṭṭhisaṃyutta's own treatment differs from MN 72's: "
+            "rather than explaining why the question misfires, it "
+            "simply traces the impulse to ask it back to grasping the "
+            "aggregates, the same diagnostic given to every other "
+            "view in this vagga.",
+        ]),
+        ("Same minimal source text as its three predecessors", [
+            "As with SN 24.11&ndash;14, bilara-data preserves only "
+            "this discourse's opening claim, the aggregate catechism "
+            "and conclusion left entirely to the pattern established "
+            "at SN 24.9.",
+        ]),
+        ("Why tathāgata here means any realized being, not only the historical Buddha", [
+            "In this diagnostic context, tathāgata functions as a "
+            "general category (any being who has reached the same "
+            "realization) rather than referring exclusively to the "
+            "historical Buddha &mdash; the question concerns what "
+            "happens to liberation itself after death, not a "
+            "biographical claim about one particular teacher.",
+        ]),
+    ],
+    terms=[
+        ("hoti tathāgato paraṁ maraṇā", "a realized one still exists after death — the first of four options examined across SN 24.15–18"),
+        ("tathāgata", "a realized one — here a general category for anyone who has reached full realization, not exclusively the historical Buddha"),
+        ("Aggivacchagottasutta", "MN 72 — the discourse elsewhere in the Canon giving this same question its most famous extended treatment, via the extinguished-fire simile"),
+        ("peyyāla", "an elision mark — compressing this discourse to its bare opening line, matching SN 24.11–14"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — the formula this discourse's compression trusts the reader to supply"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the "
+        "opening question alone. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.15:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse examine?",
+         "opts": ["\"A realized one still exists after death\"", "\"A realized one no longer exists after death\"", "\"The cosmos is eternal\"", "\"The soul and body are the same\""],
+         "correct": 0,
+         "expl": "The first of the final foursome of undetermined questions."},
+        {"q": "How does this final grouping differ structurally from the three pairs before it?",
+         "opts": ["It is a foursome, not a pair — exists, doesn't exist, both, and neither, each its own discourse",
+                  "It is also a simple pair", "It has no internal divisions at all", "It repeats an earlier pair verbatim"],
+         "correct": 0,
+         "expl": "SN 24.15 through SN 24.18, four discourses for one question."},
+        {"q": "Where else in the Canon does this same question receive extended, famous treatment?",
+         "opts": ["MN 72 (Aggivacchagottasutta), via the extinguished-fire simile", "Only in this exact discourse", "Nowhere else in the Canon", "In the Vinaya's ordination procedures"],
+         "correct": 0,
+         "expl": "Where Vacchagotta presses all four options and the Buddha declines each."},
+        {"q": "What does the extinguished-fire simile suggest about this question?",
+         "opts": ["Asking which direction a fire has gone is already the wrong kind of question, since its identity depended on fuel it no longer clings to",
+                  "The fire definitely goes to a specific place", "The question has a clear yes-or-no answer", "Fire and liberation are unrelated concepts"],
+         "correct": 0,
+         "expl": "A liberated person's fate is compared to an extinguished flame."},
+        {"q": "How does Diṭṭhisaṃyutta's treatment of this question differ from MN 72's?",
+         "opts": ["It traces the impulse to ask the question back to grasping the aggregates, rather than explaining why the question misfires",
+                  "It gives the identical explanation as MN 72", "It answers the question directly", "It denies the question can be asked at all"],
+         "correct": 0,
+         "expl": "The same diagnostic given to every other view in this vagga."},
+        {"q": "What does tathāgata mean in this diagnostic context?",
+         "opts": ["A general category for anyone who has reached full realization, not exclusively the historical Buddha",
+                  "Exclusively a biographical title for the historical Buddha", "A term with no defined meaning", "A specific named disciple"],
+         "correct": 0,
+         "expl": "The question concerns what happens to liberation itself, not one teacher's biography."},
+        {"q": "How much does bilara-data preserve for this discourse beyond the opening question?",
+         "opts": ["Almost nothing, matching SN 24.11–14's minimal treatment", "A full unabridged catechism", "An extended debate", "Nothing at all"],
+         "correct": 0,
+         "expl": "The same compression level established across this vagga's earlier undetermined-question discourses."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What discourse follows this one?",
+         "opts": ["SN 24.16, \"A Realized One No Longer Exists\"", "SN 24.9, repeated", "SN 24.1, the vagga's own opening", "SN 24.18, skipping ahead"],
+         "correct": 0,
+         "expl": "The second of the closing foursome."},
+        {"q": "Which discourse's fuller treatment does this compression still rely on?",
+         "opts": ["SN 24.9", "SN 24.5", "SN 22.151", "MN 72 directly"],
+         "correct": 0,
+         "expl": "This vagga's own fullest treatment of the undetermined-questions template."},
+    ],
+    marginalia=[
+        ("The canon's most famous unanswered question", [
+            "does a realized one exist after death &mdash;",
+            "discussed at length elsewhere, minimal here",
+        ]),
+        ("A foursome, not a pair", [
+            "exists, doesn't, both, neither &mdash;",
+            "four discourses for this final question",
+        ]),
+        ("A fire, not a person, extinguished", [
+            "MN 72's own simile elsewhere &mdash;",
+            "asking its direction is already misconceived",
+        ]),
+        ("One diagnostic, a different angle", [
+            "not why the question misfires &mdash;",
+            "but what makes anyone ask it in the first place",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.15/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.14.html">SN 24.14 &middot; The Soul Is One '
+        "Thing, the Body Another</a> &mdash; the previous discourse, "
+        "closing this vagga's third pair.",
+        '<a href="sn-24.16.html">SN 24.16 &middot; A Realized One No '
+        "Longer Exists</a> &mdash; the next discourse, this "
+        "foursome's second option.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.16 — Nahotitathāgatosutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 16, "Nahotitathāgato", "A Realized One No Longer Exists",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.16 — A Realized One No Longer Exists | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nahotitathāgatosutta &mdash; the second option in this "
+        "vagga's closing foursome on a realized one's status after "
+        "death. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The bare opening question alone, matching this "
+                 "vagga's established minimal treatment"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivially brief here, though worth reading "
+                       "alongside SN 24.15 as its direct counterpart"),
+    ],
+    why=(
+        "The second of the closing foursome on a realized one's "
+        "status after death, and the option most easily mistaken for "
+        "simple annihilationism &mdash; though the Canon elsewhere "
+        "(again at MN 72) treats denying that a realized one exists "
+        "after death as no more correct than affirming it, since both "
+        "options presuppose the same kind of continuing, locatable "
+        "identity that liberation itself has already dismantled."
+    ),
+    guide=[
+        ("The negation, not a plain denial of existence", [
+            "\"A realized one no longer exists after death\" &mdash; "
+            "SN 24.15's direct negation, though this is not the same "
+            "claim as SN 24.5's flat annihilationism (\"they don't "
+            "exist after death\"). There, the denial concerned "
+            "ordinary beings generally; here, it concerns specifically "
+            "a realized one, someone already understood to have "
+            "ended the causal chain that would otherwise produce "
+            "further rebirth.",
+        ]),
+        ("Why even this negation is treated as a view to be diagnosed", [
+            "A modern reader might expect the Buddhist tradition to "
+            "simply affirm this option as correct &mdash; yet "
+            "Diṭṭhisaṃyutta diagnoses it by exactly the same "
+            "aggregate-grasping mechanism as its opposite. This "
+            "matches MN 72's own position: denying continued "
+            "existence still presupposes a determinate fact about "
+            "identity that the question itself may be malformed to "
+            "ask.",
+        ]),
+        ("Two down, two to go", [
+            "With SN 24.15 and this discourse, two of the four options "
+            "are now covered; the remaining two (both existing and "
+            "not, neither existing nor not) will receive fuller "
+            "treatment at SN 24.17 and SN 24.18, this vagga's own "
+            "closing pair.",
+        ]),
+        ("One more compressed page, then the vagga's own full close", [
+            "SN 24.17 stays at this same minimal length; only "
+            "SN 24.18, the vagga's true final discourse and the one "
+            "carrying its own closing colophon (\"the eighteen "
+            "expositions are finished,\" aṭṭhārasa veyyākaraṇāni "
+            "niṭṭhitaṁ) and untranslated Pāli summary verse, returns "
+            "to something closer to SN 24.1's original full length.",
+        ]),
+    ],
+    terms=[
+        ("na hoti tathāgato paraṁ maraṇā", "a realized one no longer exists after death — this discourse's claim, the second of the closing foursome"),
+        ("ucchedavāda", "annihilationism — the position this claim might be mistaken for, though applied here specifically to an already-liberated being"),
+        ("peyyāla", "an elision mark — compressing this discourse to its bare opening line, the last of this vagga's maximally compressed treatments"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — the formula this discourse's compression trusts the reader to supply"),
+        ("tathāgata", "a realized one — here a general category, someone who has already ended the causal chain producing further rebirth"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the "
+        "opening question alone. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.16:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse examine?",
+         "opts": ["\"A realized one no longer exists after death\"", "\"A realized one still exists after death\"", "\"The cosmos is not eternal\"", "\"Acting produces no outcome\""],
+         "correct": 0,
+         "expl": "The second option in this vagga's closing foursome."},
+        {"q": "How does this claim differ from SN 24.5's flat annihilationism?",
+         "opts": ["SN 24.5 concerns ordinary beings generally; this discourse concerns specifically an already-liberated realized one",
+                  "There is no difference between the two claims", "SN 24.5 concerns only realized ones", "This claim denies annihilation entirely"],
+         "correct": 0,
+         "expl": "A different subject for what looks like a similar negation."},
+        {"q": "Why does Diṭṭhisaṃyutta diagnose this negation rather than simply affirming it as correct?",
+         "opts": ["Because it still presupposes a determinate fact about identity, matching MN 72's treatment of the question as malformed",
+                  "Because the tradition considers this claim entirely false", "Because this vagga skips this discourse entirely", "Because the Buddha explicitly endorses the opposite view"],
+         "correct": 0,
+         "expl": "Denying continued existence still presupposes the same kind of question as affirming it."},
+        {"q": "How many of the closing foursome's four options are covered after this discourse?",
+         "opts": ["Two — exists and no longer exists", "All four", "Only one", "Three"],
+         "correct": 0,
+         "expl": "Both and neither remain for SN 24.17 and 24.18."},
+        {"q": "What happens to this vagga's compression across the next two discourses?",
+         "opts": ["SN 24.17 stays equally compressed; only SN 24.18, the vagga's true close, returns to fuller length",
+                  "Both discourses lift immediately to full length", "It continues tightening even further in both", "The vagga ends without further discourses"],
+         "correct": 0,
+         "expl": "SN 24.18 alone carries the vagga's own closing colophon and returns to fuller treatment."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What discourse directly precedes this one?",
+         "opts": ["SN 24.15, \"A Realized One Still Exists\"", "SN 24.9, repeated", "SN 24.5, on nihilism", "SN 24.18, the vagga's close"],
+         "correct": 0,
+         "expl": "This discourse's direct opposite claim."},
+        {"q": "What does the vagga's own closing colophon call its full set of eighteen discourses?",
+         "opts": ["Aṭṭhārasa veyyākaraṇāni, \"the eighteen expositions\"", "Dasa avyākatavatthūni alone", "A single untitled collection", "The Sotāpatti-catechism"],
+         "correct": 0,
+         "expl": "Confirmed at SN 24.18's own closing colophon."},
+        {"q": "What discourse comes next?",
+         "opts": ["SN 24.17, examining both existing and not existing at once", "SN 24.9, repeated", "SN 24.1, the vagga's opening", "A discourse outside this vagga entirely"],
+         "correct": 0,
+         "expl": "The third option in the closing foursome."},
+        {"q": "Which discourse's fuller treatment does this compression still rely on?",
+         "opts": ["SN 24.9", "SN 24.5", "SN 22.151", "MN 72 directly"],
+         "correct": 0,
+         "expl": "This vagga's own fullest treatment of the undetermined-questions template."},
+    ],
+    marginalia=[
+        ("A negation, not a flat denial", [
+            "\"no longer exists after death\" &mdash;",
+            "applied specifically to one already liberated",
+        ]),
+        ("Even this view gets diagnosed", [
+            "denial presupposes the same identity question &mdash;",
+            "matching MN 72's own treatment elsewhere",
+        ]),
+        ("Two down, two remain", [
+            "exists, and now no longer exists &mdash;",
+            "both, and neither, still ahead",
+        ]),
+        ("One more compressed page first", [
+            "SN 24.17 stays just as brief &mdash;",
+            "the vagga's own fuller close waits at SN 24.18",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.16/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.15.html">SN 24.15 &middot; A Realized One Still '
+        "Exists</a> &mdash; the previous discourse, this foursome's "
+        "first option.",
+        '<a href="sn-24.17.html">SN 24.17 &middot; A Realized One Both '
+        "Still Exists and No Longer Exists</a> &mdash; the next "
+        "discourse, this foursome's third option.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.17 — Hoticanacahotitathāgatosutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 17, "Hoticanacahotitathāgato", "A Realized One Both Still Exists and No Longer Exists",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.17 — A Realized One Both Still Exists and No Longer Exists | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Hoticanacahotitathāgatosutta &mdash; the third option in "
+        "this vagga's closing foursome, and its last maximally "
+        "compressed page. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The bare opening question alone, this vagga's final "
+                 "discourse at this level of compression"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief here, though the logical structure of "
+                       "affirming both horns of a contradiction "
+                       "rewards careful attention"),
+    ],
+    why=(
+        "The third option in the closing foursome, and logically the "
+        "strangest: affirming both that a realized one exists after "
+        "death and that a realized one no longer exists after death, "
+        "simultaneously. Elsewhere in the Canon (again MN 72) this "
+        "option is treated as no more coherent than the first two, "
+        "since it attempts to hold together what looks like a "
+        "straightforward contradiction rather than escaping the "
+        "conceptual trap the other three options share."
+    ),
+    guide=[
+        ("Affirming both horns at once", [
+            "\"A realized one both still exists and no longer exists "
+            "after death\" &mdash; combining SN 24.15's affirmation "
+            "and SN 24.16's negation into a single claim, rather than "
+            "choosing between them.",
+        ]),
+        ("A pattern familiar from Indian logical tradition", [
+            "This four-way structure &mdash; affirm, deny, affirm and "
+            "deny both, affirm and deny neither &mdash; is a "
+            "recognizable pattern across early Indian philosophical "
+            "literature (sometimes called a catuṣkoṭi, \"four "
+            "corners\"), not unique to Buddhist texts, though the "
+            "Buddha's own response to it here is diagnostic rather "
+            "than logical: the view arises from grasping the "
+            "aggregates regardless of which of the four positions is "
+            "taken.",
+        ]),
+        ("Why \"both\" doesn't resolve the tension", [
+            "Asserting both existence and non-existence together does "
+            "not synthesize the two into a coherent middle position; "
+            "it simply affirms a contradiction. The discourse doesn't "
+            "pause to point this out explicitly &mdash; it applies "
+            "the same six-ground diagnostic regardless, treating "
+            "logical incoherence and simple affirmation or denial as "
+            "equally symptomatic of the same underlying grasping.",
+        ]),
+        ("This vagga's last compressed page", [
+            "As with SN 24.11&ndash;16, bilara-data preserves only "
+            "this discourse's opening claim. One discourse remains: "
+            "SN 24.18, the fourth option and this vagga's true "
+            "closing discourse, which returns to full elaboration and "
+            "carries the vagga's own confirmed colophon.",
+        ]),
+    ],
+    terms=[
+        ("hoti ca na ca hoti tathāgato paraṁ maraṇā", "a realized one both still exists and no longer exists after death — this discourse's claim, combining SN 24.15's affirmation and SN 24.16's negation"),
+        ("catuṣkoṭi", "\"four corners\" — the traditional name for this affirm/deny/both/neither logical pattern, found broadly across early Indian philosophical literature"),
+        ("peyyāla", "an elision mark — compressing this discourse to its bare opening line, the last such compressed page in this vagga"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — the formula this discourse's compression trusts the reader to supply"),
+        ("tathāgata", "a realized one — here a general category, the subject of this closing foursome's third option"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the "
+        "opening question alone. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.17:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse examine?",
+         "opts": ["\"A realized one both still exists and no longer exists after death\"",
+                  "\"A realized one still exists after death\"", "\"A realized one no longer exists after death\"", "\"The cosmos is finite\""],
+         "correct": 0,
+         "expl": "The third option in this vagga's closing foursome, combining affirmation and negation."},
+        {"q": "What traditional name is given to this four-way logical structure (affirm, deny, both, neither)?",
+         "opts": ["Catuṣkoṭi, \"four corners\"", "Avyākatavatthūni alone", "Peyyāla", "Akiriyavāda"],
+         "correct": 0,
+         "expl": "A recognizable pattern across early Indian philosophical literature generally, not unique to Buddhist texts."},
+        {"q": "Does asserting both existence and non-existence together resolve the tension between them?",
+         "opts": ["No — it simply affirms a contradiction rather than synthesizing a coherent middle position",
+                  "Yes, it fully resolves the contradiction", "The discourse explicitly declares this option correct", "The question doesn't apply to this option"],
+         "correct": 0,
+         "expl": "The discourse applies the same diagnostic regardless, without pausing to resolve the logical tension."},
+        {"q": "How does the Buddha's response here compare to a purely logical refutation?",
+         "opts": ["It is diagnostic rather than logical — tracing the view to grasping the aggregates regardless of which position is taken",
+                  "It is a purely logical proof that this option is false", "It affirms this option as the correct answer", "It refuses to engage with the question at all"],
+         "correct": 0,
+         "expl": "The same six-ground diagnostic applied to logical incoherence as to simple affirmation or denial."},
+        {"q": "What does bilara-data preserve for this discourse beyond its opening question?",
+         "opts": ["Almost nothing, matching SN 24.11–16's minimal treatment",
+                  "A full unabridged catechism", "An extended logical refutation", "Nothing at all"],
+         "correct": 0,
+         "expl": "This vagga's last discourse at this level of compression."},
+        {"q": "What discourse immediately follows, and how does it differ from this one?",
+         "opts": ["SN 24.18, which returns to full elaboration and carries the vagga's own confirmed colophon",
+                  "SN 24.9, repeated verbatim", "No discourse follows — this is the vagga's end", "SN 24.1, restarting the vagga"],
+         "correct": 0,
+         "expl": "This vagga's true closing discourse, the fourth and final option."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What two earlier discourses does this claim combine?",
+         "opts": ["SN 24.15's affirmation and SN 24.16's negation", "SN 24.9's and SN 24.10's claims about the cosmos", "SN 24.13's and SN 24.14's claims about soul and body", "SN 24.1's and SN 24.5's claims"],
+         "correct": 0,
+         "expl": "Existence and non-existence asserted together, rather than choosing between them."},
+        {"q": "What remains for the fourth and final option in this closing foursome?",
+         "opts": ["Neither existing nor not existing after death", "A repeat of this same claim", "No fourth option exists", "A return to the finite/infinite cosmos question"],
+         "correct": 0,
+         "expl": "SN 24.18's own claim, closing both the foursome and the entire vagga."},
+        {"q": "Which discourse's fuller treatment does this compression still rely on?",
+         "opts": ["SN 24.9", "SN 24.5", "SN 22.151", "MN 72 directly"],
+         "correct": 0,
+         "expl": "This vagga's own fullest treatment of the undetermined-questions template."},
+    ],
+    marginalia=[
+        ("Both horns, held together", [
+            "exists and no longer exists at once &mdash;",
+            "SN 24.15 and 24.16 combined into one claim",
+        ]),
+        ("Four corners, one pattern", [
+            "affirm, deny, both, neither &mdash;",
+            "a structure found broadly across Indian philosophy",
+        ]),
+        ("A contradiction, not a synthesis", [
+            "asserting both doesn't resolve the tension &mdash;",
+            "the same diagnostic applies regardless",
+        ]),
+        ("The last compressed page", [
+            "one discourse left in this vagga &mdash;",
+            "SN 24.18 returns to full elaboration",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.17/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.16.html">SN 24.16 &middot; A Realized One No '
+        "Longer Exists</a> &mdash; the previous discourse, this "
+        "foursome's second option.",
+        '<a href="sn-24.18.html">SN 24.18 &middot; A Realized One '
+        "Neither Still Exists Nor No Longer Exists</a> &mdash; the "
+        "next and final discourse, closing this entire vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.18 — Nevahotinanahotitathāgatosutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 18, "Nevahotinanahotitathāgato", "A Realized One Neither Still Exists Nor No Longer Exists",
+    vagga="Sotāpattivagga",
+    meta_title="SN 24.18 — A Realized One Neither Still Exists Nor No Longer Exists | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nevahotinanahotitathāgatosutta &mdash; the fourth and "
+        "final undetermined question, closing Sotāpattivagga with its "
+        "own confirmed colophon and eighteen-discourse uddāna. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The fourth option given full elaboration, closing "
+                 "with this vagga's own confirmed colophon and "
+                 "eighteen-discourse summary verse"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the view itself is subtle, though what makes "
+                       "this discourse worth close reading is its "
+                       "own closing colophon"),
+    ],
+    why=(
+        "Closes both the foursome on a realized one's status after "
+        "death and Sotāpattivagga itself: the fourth option (\"neither "
+        "still exists nor no longer exists\"), given full elaboration "
+        "unlike SN 24.11&ndash;17's compressed treatment, followed by "
+        "the vagga's own confirmed colophon &mdash; \"the eighteen "
+        "expositions are finished\" &mdash; and a Pāli summary verse "
+        "(uddāna) naming all eighteen views in order, matching this "
+        "reading guide's own structural analysis exactly."
+    ),
+    guide=[
+        ("Denying all four positions at once", [
+            "\"A realized one neither still exists nor no longer "
+            "exists after death\" &mdash; the fourth and final option, "
+            "denying both SN 24.15's affirmation and SN 24.16's "
+            "negation together, rather than SN 24.17's move of "
+            "affirming both together.",
+            "Of the four options, this last one comes closest to how "
+            "MN 72's fire simile actually resolves the question: an "
+            "extinguished flame is neither said to exist somewhere "
+            "nor to not-exist in some locatable sense &mdash; the "
+            "question of its whereabouts is retired, not answered "
+            "either way.",
+        ]),
+        ("Full elaboration returns", [
+            "Unlike SN 24.11&ndash;17, this discourse spells out the "
+            "complete catechism: the view traced to grasping form "
+            "through consciousness, the impermanence question asked "
+            "in full for form and for the sixth ground (what is seen, "
+            "heard, thought, known, attained, sought, and explored by "
+            "the mind), and the standing stream-enterer conclusion "
+            "given in full &mdash; the fullest single discourse since "
+            "SN 24.9, appropriate to closing both this foursome and "
+            "the entire vagga.",
+        ]),
+        ("The vagga's own confirmed colophon", [
+            "Following the stream-enterer declaration, the Pāli source "
+            "(untranslated by Sujato, though directly readable) adds: "
+            "\"Aṭṭhārasamaṁ. Sotāpattivaggo. Aṭṭhārasaveyyākaraṇaṁ "
+            "niṭṭhitaṁ\" &mdash; \"the eighteenth. The Chapter on "
+            "Stream-Entry. The eighteen expositions are finished\" "
+            "&mdash; explicitly confirming both this vagga's name and "
+            "its full discourse count, exactly matching what "
+            "SN 24.20&ndash;35's own compressed reference (\"as in "
+            "the previous vagga, eighteen expositions\") already "
+            "implied.",
+        ]),
+        ("A summary verse naming all eighteen views in order", [
+            "The source continues with an uddāna (memorization verse) "
+            "listing all eighteen views by their opening words in "
+            "sequence &mdash; winds, this-is-mine, this-is-my-self, "
+            "it-might-not-be-mine; no-cause-for-acting, cause; the "
+            "extensive view as eighth; the cosmos eternal and not, "
+            "finite and infinite, soul-and-body same and different; "
+            "and the realized one existing, not existing, and "
+            "(condensed) both and neither &mdash; confirming, verse "
+            "by verse, the exact eighteen-view structure this reading "
+            "guide has followed discourse by discourse since SN 24.1.",
+        ]),
+    ],
+    terms=[
+        ("neva hoti na na hoti tathāgato paraṁ maraṇā", "a realized one neither still exists nor no longer exists after death — this discourse's claim, the fourth and final option"),
+        ("aṭṭhārasaveyyākaraṇaṁ niṭṭhitaṁ", "\"the eighteen expositions are finished\" — this vagga's own confirmed colophon, read directly from the untranslated Pāli source"),
+        ("Sotāpattivaggo", "\"the Chapter on Stream-Entry\" — this vagga's own name, confirmed in the same closing line"),
+        ("tassuddānaṁ", "\"its summary verse\" — introducing the closing uddāna that names all eighteen views in order"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — this vagga's standing two-condition formula, given full elaboration one final time"),
+    ],
+    text_intro=("The complete discourse: the fourth option given full "
+        "elaboration, and the stream-enterer conclusion. (The "
+        "colophon and summary verse that follow in the Pāli source "
+        "are not translated by Sujato and are described, not quoted, "
+        "in the reading guide above.) Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.18:1.1-1.4"),
+        ("p", "&sect;2", "sn24.18:2.1-3.13"),
+        ("p", "&sect;3", "sn24.18:4.1-4.2"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse examine?",
+         "opts": ["\"A realized one neither still exists nor no longer exists after death\"",
+                  "\"A realized one both still exists and no longer exists after death\"", "\"A realized one still exists after death\"", "\"The cosmos is infinite\""],
+         "correct": 0,
+         "expl": "The fourth and final option in the closing foursome."},
+        {"q": "How does this option differ from SN 24.17's \"both\"?",
+         "opts": ["It denies both affirmation and negation together, rather than affirming both together",
+                  "It is logically identical to SN 24.17's claim", "It affirms only existence", "It affirms only non-existence"],
+         "correct": 0,
+         "expl": "Retiring the question rather than combining contradictory answers."},
+        {"q": "How does this option relate to MN 72's fire simile?",
+         "opts": ["It comes closest to that resolution — an extinguished flame is neither said to exist somewhere nor to not-exist in a locatable sense",
+                  "It directly contradicts MN 72's simile", "MN 72 doesn't address this option at all", "It requires an entirely different simile"],
+         "correct": 0,
+         "expl": "The question of whereabouts retired, not answered either way."},
+        {"q": "What happens to this discourse's treatment compared to SN 24.11–17?",
+         "opts": ["Full elaboration returns — the complete catechism spelled out in full",
+                  "It remains just as compressed as its immediate predecessors", "It is even more compressed than SN 24.17", "No catechism appears at all"],
+         "correct": 0,
+         "expl": "The fullest single discourse since SN 24.9, appropriate to closing the vagga."},
+        {"q": "What does this vagga's own closing colophon confirm?",
+         "opts": ["Both its name (Sotāpattivagga) and its full count of eighteen discourses",
+                  "Only its name, with no discourse count given", "That the vagga actually contains twenty discourses", "Nothing — no colophon appears in the source"],
+         "correct": 0,
+         "expl": "\"Aṭṭhārasaveyyākaraṇaṁ niṭṭhitaṁ\" — the eighteen expositions are finished."},
+        {"q": "Is the colophon translated into English by Sujato?",
+         "opts": ["No — it is read directly from the untranslated Pāli, described rather than quoted in the reading guide",
+                  "Yes, fully translated and quoted verbatim in the text block", "It doesn't exist in the source at all", "Only half of it is translated"],
+         "correct": 0,
+         "expl": "Consistent with this project's practice of describing rather than fabricating translations for untranslated segments."},
+        {"q": "What does the closing uddāna (summary verse) do?",
+         "opts": ["Names all eighteen views in sequence by their opening words, confirming this vagga's exact structure",
+                  "Introduces an entirely new, nineteenth view", "Summarizes only the final four discourses", "Contains no reference to the earlier discourses at all"],
+         "correct": 0,
+         "expl": "Confirming, verse by verse, the structure this reading guide has followed since SN 24.1."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What earlier compressed reference already implied this vagga's eighteen-discourse count, before this discourse's own colophon confirmed it?",
+         "opts": ["SN 24.20–35's own note, \"as in the previous vagga, eighteen expositions\"", "SN 24.1's opening frame alone", "A reference in SN 22.159", "Nothing implied it beforehand"],
+         "correct": 0,
+         "expl": "The next vagga's own merged file cross-references this exact figure."},
+        {"q": "What sixth ground is examined in this discourse's full catechism, alongside the five aggregates?",
+         "opts": ["That which is seen, heard, thought, known, attained, sought, and explored by the mind",
+                  "The four elements", "Past and future existence", "The six sense faculties alone"],
+         "correct": 0,
+         "expl": "This vagga's standing addition since SN 24.1, given full treatment one final time here."},
+    ],
+    marginalia=[
+        ("Neither horn affirmed", [
+            "not exists, not no longer exists &mdash;",
+            "the question itself quietly retired",
+        ]),
+        ("Full length, one final time", [
+            "the complete catechism, spelled out again &mdash;",
+            "fitting for the vagga's own true close",
+        ]),
+        ("A colophon, confirmed", [
+            "\"the eighteen expositions are finished\" &mdash;",
+            "read directly from the untranslated Pāli",
+        ]),
+        ("Eighteen views, named in verse", [
+            "winds through the tathāgata's own fourfold close &mdash;",
+            "an uddāna confirming this reading guide's own structure",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.18/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.17.html">SN 24.17 &middot; A Realized One Both '
+        "Still Exists and No Longer Exists</a> &mdash; the previous "
+        "discourse, this foursome's third option.",
+        '<a href="sn-24.1.html">SN 24.1 &middot; Winds</a> '
+        "&mdash; this vagga's own opening discourse, whose diagnostic "
+        "template every one of the following seventeen discourses, "
+        "including this closing one, has reused unchanged.",
+    ],
+)
