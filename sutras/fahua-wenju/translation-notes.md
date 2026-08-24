@@ -203,3 +203,23 @@ Confirmed from the source text: the close of 安樂行品 (the body/speech/mind/
 | 良醫 | the good physician | parable illustrating skillful means in teaching extinction |
 | 法身 / 報身 / 應身 | the Dharma-body / the reward-body / the response-body | the three bodies |
 | 十信 / 初住 | the ten stages of faith / the initial abiding | |
+
+## Fascicle 10 — The Tathāgata's Lifespan concludes, through the sūtra's final chapter
+
+Confirmed from the source text: the close of 如來壽量品; 分別功德品 ("Discrimination of Merits") in full, including Guangzhai's and Vasubandhu's competing rank-schemes and the five ranks after extinction; 隨喜功德品 ("The Merit of Rejoicing") and 法師功德品 ("The Merits of a Teacher of the Dharma," all six purified sense-faculties) in full; 常不輕菩薩品 ("Never Disparaging"); 如來神力品 ("The Tathāgata's Supernatural Power") and 囑累品 ("Entrustment"); 藥王菩薩本事品 (Bhaiṣajyarāja's self-immolation); 妙音菩薩品 (Gadgadasvara); 觀世音菩薩普門品 (Avalokiteśvara's Universal Gate); 陀羅尼品 ("Dhāraṇīs"); 妙莊嚴王本事品 (King Wonderful Adornment); and 普賢菩薩勸發品 ("Samantabhadra's Encouragement"), the sūtra's final chapter, closing both the sūtra and Zhiyi's commentary together.
+
+| Chinese | English | Notes |
+|---|---|---|
+| 分別功德品 | "Discrimination of Merits" | |
+| 隨喜功德品 | "The Merit of Rejoicing" | |
+| 法師功德品 | "The Merits of a Teacher of the Dharma" | the six purified sense-faculties |
+| 常不輕菩薩 | Never Disparaging | the bodhisattva who bows to everyone he meets |
+| 如來神力品 | "The Tathāgata's Supernatural Power" | |
+| 囑累品 | "Entrustment" | |
+| 藥王菩薩本事品 | "Bhaiṣajyarāja's Former Life" | includes his self-immolation |
+| 妙音菩薩品 | Gadgadasvara [chapter] | |
+| 觀世音菩薩普門品 | Avalokiteśvara's Universal Gate | |
+| 陀羅尼品 | "Dhāraṇīs" | |
+| 妙莊嚴王本事品 | "King Wonderful Adornment" | |
+| 普賢菩薩勸發品 | "Samantabhadra's Encouragement" | the sūtra's final chapter |
+| 四依 | the four kinds of reliance | teachers who transmit the sūtra after the Buddha's parinirvāṇa |
