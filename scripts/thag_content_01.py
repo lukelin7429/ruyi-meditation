@@ -43268,3 +43268,3269 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Book of the Sixes
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# Thag 6.1 — Uruve&#7735;akassapa
+# --------------------------------------------------------------------------- #
+page(
+    6, 1, "Uruve&#7735;akassapa", "Uruve&#7735;akassapa",
+    meta_title="Thag 6.1 — Uruve&#7735;akassapa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Uruve&#7735;akassapa's verse, opening the Book of the Sixes "
+        "&mdash; the eldest of three fire-worshipping Kassapa brothers, "
+        "his conversion completing a trio begun with Nad&imacr;kassapa "
+        "and Gay&amacr;kassapa in the book before this one. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Sixes &middot; Chapter One &middot; Poem 1 of 14",
+    glance=[
+        ("Setting", "After witnessing the Buddha's demonstrations of "
+                    "power (p&amacr;&#7789;ih&imacr;r&amacr;ni), "
+                    "without further attribution"),
+        ("Speaker", "Uruve&#7735;akassapa, the eldest of three "
+                    "fire-worshipping brothers"),
+        ("Form", "Six four-line verses &mdash; jealousy, a scolding, "
+                 "going forth, and all six direct knowledges named in "
+                 "sequence"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain narrative vocabulary, a name familiar "
+                       "from the vinaya"),
+    ],
+    why=(
+        "Even seeing the Buddha's own demonstrations of power wasn't "
+        "enough to make Uruve&#7735;akassapa bow &mdash; &lsquo;I was "
+        "blinded by jealousy and conceit,&rsquo; he admits &mdash; "
+        "until the Buddha, reading his thoughts, scolded him directly. "
+        "What follows is this collection's first poem to name all six "
+        "direct knowledges in sequence, closing where the trio of "
+        "fire-worshipping Kassapa brothers, begun in the book before "
+        "this one, is finally complete."),
+    guide=[
+        ("Jealousy that even a miracle couldn't dissolve", [
+            "Despite seeing the Buddha's p&amacr;&#7789;ih&imacr;r&amacr;ni "
+            "(demonstrations of power), Uruve&#7735;akassapa admits "
+            "&lsquo;issām&amacr;nena va&ntilde;cito&rsquo;, &lsquo;I "
+            "was blinded by jealousy and conceit&rsquo; &mdash; the "
+            "miracle alone wasn't enough. Only when the Buddha read his "
+            "thoughts directly and scolded him (&lsquo;codesi "
+            "narasārathi&rsquo;, &lsquo;the trainer of men scolded "
+            "me&rsquo;) did sa&#7749;vega, a sense of spiritual "
+            "urgency, take hold."]),
+        ("Petty powers set aside for a greater going forth", [
+            "The third verse dismisses his own prior ascetic "
+            "accomplishments as a jaṭila (matted-hair ascetic) with a "
+            "single word: siddhi parittik&amacr;, &lsquo;petty "
+            "powers&rsquo;. Whatever he had achieved through fire "
+            "asceticism, it's framed here as minor next to what "
+            "follows."]),
+        ("All six direct knowledges, named in a single poem", [
+            "The fifth and sixth verses name past lives "
+            "(pubbenivāsa), clairvoyance (dibbacakkhu), psychic power "
+            "(iddhi), knowledge of others' minds (paracittaññū), "
+            "clairaudience (dibbasota), and, in the closing line, the "
+            "ending of all fetters &mdash; the full chalabhiññā, six "
+            "direct knowledges, rather than the more common tisso "
+            "vijjā (three knowledges) formula recurring elsewhere in "
+            "this collection. This is the first poem on this site to "
+            "list the complete six in sequence."]),
+        ("The last of three fire-worshipping brothers", [
+            "This poem opens a new book, but its speaker closes an "
+            "old thread: alongside Thag 5.6 (Nad&imacr;kassapa) and "
+            "Thag 5.7 (Gay&amacr;kassapa), Uruve&#7735;akassapa "
+            "completes the well-known trio of fire-worshipping brahmin "
+            "brothers converted together with their many followers "
+            "&mdash; the occasion, in the wider canon, for the teaching "
+            "already translated on this site as "
+            "<a href=\"../samyutta-nikaya/sn-35.28.html\">SN 35.28, "
+            "the Fire Sermon</a>. As the eldest, his name (from "
+            "Uruvelā, near the river Nerañjarā) anchors the group, "
+            "though this poem itself doesn't narrate the conversion "
+            "episode, focusing instead on the psychological beat of "
+            "jealousy overcome."]),
+        ("Opening the Book of the Sixes, a structure confirmed fresh", [
+            "Fourteen poems, one chapter &mdash; matching the "
+            "single-chapter pattern of the three books before this "
+            "one (Threes, Fours, Fives), though this had to be checked "
+            "against bilara-data rather than assumed. The baseline "
+            "verse form is six four-line verses; several poems in "
+            "this book extend or contract that pattern, each noted as "
+            "it comes."]),
+    ],
+    terms=[
+        ("p&amacr;&#7789;ih&imacr;r&amacr;ni",
+         "&ldquo;demonstrations of power&rdquo; &mdash; witnessed but "
+         "insufficient, on their own, to inspire respect."),
+        ("issām&amacr;nena va&ntilde;cito",
+         "&ldquo;blinded by jealousy and conceit&rdquo; &mdash; the "
+         "obstacle named in the poem's first verse."),
+        ("narasārathi",
+         "&ldquo;trainer of men&rdquo; &mdash; an epithet for the "
+         "Buddha, echoing the standard purisadammasārathi."),
+        ("ja&#7789;ila",
+         "&ldquo;matted-hair ascetic&rdquo; &mdash; Uruve&#7735;akassapa's "
+         "former identity and fire-worshipping practice."),
+        ("sabbasa&#7749;yojanakkhayo",
+         "&ldquo;the ending of all fetters&rdquo; &mdash; the poem's "
+         "final line, marking full awakening."),
+    ],
+    text_intro=(
+        "The text in full: six verses, with no separate attribution "
+        "line in this chapter, opening the Book of the Sixes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag6.1:1.1-1.4"),
+        ("p", "&sect;2", "thag6.1:2.1-2.4"),
+        ("p", "&sect;3", "thag6.1:3.1-3.4"),
+        ("p", "&sect;4", "thag6.1:4.1-4.4"),
+        ("p", "&sect;5", "thag6.1:5.1-5.4"),
+        ("p", "&sect;6", "thag6.1:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What kept Uruve&#7735;akassapa from bowing to the Buddha, even after seeing his demonstrations of power?",
+         "opts": [
+             "Jealousy and conceit",
+             "Physical illness",
+             "A prior vow of silence",
+             "Nothing — he bowed immediately"],
+         "correct": 0,
+         "expl": "'I was blinded by jealousy and conceit,' he admits in the first verse."},
+        {"q": "What triggered his sense of spiritual urgency (saṅvega)?",
+         "opts": [
+             "A dream",
+             "The Buddha reading his thoughts and scolding him",
+             "A natural disaster",
+             "The death of a companion"],
+         "correct": 1,
+         "expl": "'Codesi narasārathi' — the trainer of men scolded me."},
+        {"q": "What was Uruveḷakassapa's former identity, before going forth?",
+         "opts": [
+             "A royal minister",
+             "A wandering merchant",
+             "A matted-hair ascetic (jaṭila) practicing fire sacrifice",
+             "A physician"],
+         "correct": 2,
+         "expl": "The third verse dismisses his prior siddhi parittikā, 'petty powers,' as a jaṭila."},
+        {"q": "How many direct knowledges does this poem name in sequence, in its fifth and sixth verses?",
+         "opts": [
+             "Three",
+             "Four",
+             "Five",
+             "Six — the complete chalabhiññā, unusual in this collection"],
+         "correct": 3,
+         "expl": "Past lives, clairvoyance, psychic power, mind-reading, clairaudience, and the ending of fetters."},
+        {"q": "What formula more commonly appears elsewhere in this collection instead of the full six knowledges?",
+         "opts": [
+             "Tisso vijjā, the three knowledges",
+             "A single vow of celibacy",
+             "No formula at all",
+             "A list of monastic rules"],
+         "correct": 0,
+         "expl": "This poem's full six-knowledge listing is the first of its kind on this site."},
+        {"q": "Alongside Nadīkassapa and Gayākassapa, what trio does Uruveḷakassapa complete?",
+         "opts": [
+             "Three physicians",
+             "Three fire-worshipping brahmin brothers",
+             "Three unrelated strangers",
+             "Three kings"],
+         "correct": 1,
+         "expl": "A well-known conversion narrative from the wider canon."},
+        {"q": "What teaching, already translated on this site, is traditionally linked to the Kassapa brothers' conversion?",
+         "opts": [
+             "DN 2",
+             "No linked teaching exists on this site",
+             "SN 35.28, the Fire Sermon",
+             "MN 1"],
+         "correct": 2,
+         "expl": "Its imagery of burning fits the brothers' former fire-worship directly."},
+        {"q": "What does the third verse call Uruveḷakassapa's former ascetic accomplishments?",
+         "opts": [
+             "Entirely fraudulent",
+             "Not mentioned at all",
+             "Unmatched and supreme",
+             "'Petty powers' (siddhi parittikā), set aside"],
+         "correct": 3,
+         "expl": "Framed as minor next to what follows his going forth."},
+        {"q": "How many poems make up the Book of the Sixes, and how many chapters?",
+         "opts": [
+             "Fourteen poems in one chapter, matching the pattern of the three books before it",
+             "Twenty poems in two chapters",
+             "Six poems in six chapters",
+             "Fourteen poems in fourteen chapters"],
+         "correct": 0,
+         "expl": "Confirmed fresh against bilara-data, following Threes, Fours, and Fives."},
+        {"q": "What is this poem's final line?",
+         "opts": [
+             "A request for alms",
+             "The ending of all fetters (sabbasaṅyojanakkhayo)",
+             "A description of the weather",
+             "A question left unanswered"],
+         "correct": 1,
+         "expl": "The goal for which he went forth, now attained."},
+    ],
+    marginalia=[
+        ("Jealousy, even before a miracle", [
+            "seeing power wasn't enough —",
+            "it took a scolding to wake him"
+        ]),
+        ("Six knowledges, not three", [
+            "the full list, named in one poem —",
+            "rare in this collection"
+        ]),
+        ("Third of three brothers", [
+            "Nad&imacr;, Gay&amacr;, now Uruvel&amacr; —",
+            "the fire-trio complete"
+        ]),
+        ("A new book begins", [
+            "209 done, fourteen more to come —",
+            "structure checked fresh, not assumed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag6.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../samyutta-nikaya/sn-35.28.html">SN 35.28 &mdash; '
+        "The Fire Sermon</a> &mdash; the teaching traditionally linked "
+        "to the Kassapa brothers' conversion.",
+        '<a href="thag-5.7.html">Thag 5.7 &mdash; Gay&amacr;kassapa</a> '
+        "&mdash; the second of the three fire-worshipping brothers, "
+        "in the book before this one.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 6.2 — Tekicchak&amacr;ri
+# --------------------------------------------------------------------------- #
+page(
+    6, 2, "Tekicchak&amacr;ri", "Tekicchak&amacr;ri",
+    meta_title="Thag 6.2 — Tekicchak&amacr;ri | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Tekicchak&amacr;ri's verse, a dialogue between a hungry, "
+        "cold monk and an encouraging voice urging recollection of "
+        "the Buddha, the teaching, and the Sa&#7749;gha in turn — "
+        "and, uniquely in the Pali Canon, in a metre no scholar has "
+        "ever identified. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sixes &middot; Chapter One &middot; Poem 2 of 14",
+    glance=[
+        ("Setting", "Winter, in the open air, without further "
+                    "attribution"),
+        ("Speaker", "Two voices in dialogue: Tekicchak&amacr;ri, "
+                    "hungry and unsheltered, and an unnamed encourager"),
+        ("Form", "Six verses of irregular length (4, 2, 2, 2, 4, 4 "
+                 "lines) &mdash; the shortest total line count of any "
+                 "poem in this collection so far"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "simple dialogue, but an irregular verse "
+                       "structure worth noticing"),
+    ],
+    why=(
+        "&lsquo;The rice has been harvested... but I don't get any "
+        "almsfood! How will I get by?&rsquo; Tekicchak&amacr;ri asks "
+        "&mdash; and receives, in answer, three matched couplets "
+        "urging recollection of the Buddha, the teaching, and the "
+        "Sa&#7749;gha in turn, each closing on the identical promise "
+        "of unfailing joy. Sujato's own note on this poem observes "
+        "that its metre is one of the very few in the entire Pali "
+        "Canon that has never been identified."),
+    guide=[
+        ("A hungry question, a threefold answer", [
+            "The opening verse is a plain complaint: the harvest is "
+            "in, but the speaker has found no almsfood. What follows "
+            "isn't practical advice about where to beg, but three "
+            "short couplets, each recollecting one of the three "
+            "refuges in turn &mdash; Buddha, Dhamma, Sa&#7749;gha "
+            "&mdash; closing on the identical line, &lsquo;your body "
+            "soaked with rapture, you'll always be full of joy&rsquo;. "
+            "The anaphora (repeated structure across the three) "
+            "mirrors the standard order of the three refuges "
+            "themselves."]),
+        ("An irregular verse structure, unlike this book's norm", [
+            "Where Thag 6.1 ran a clean six verses of four lines "
+            "each, this poem's middle three verses (on the Buddha, "
+            "the teaching, and the Sa&#7749;gha) are two-line "
+            "couplets, not four-line verses &mdash; giving a total of "
+            "eighteen translated lines rather than the book's baseline "
+            "twenty-four. This is the first poem in the Book of the "
+            "Sixes to depart from the standard form, and a reminder "
+            "not to assume every poem in a book matches its opening "
+            "poem's shape."]),
+        ("A metre that has never been identified", [
+            "Sujato's comment on this poem's very first line notes: "
+            "&lsquo;This is one of the very few verses in the Pali "
+            "Canon whose metre has not been identified.&rsquo; This "
+            "echoes a similar note on Thag 1.111 (Jenta), elsewhere "
+            "in this collection &mdash; a small, recurring reminder "
+            "that even after centuries of philological study, some "
+            "corners of this literature still resist full technical "
+            "description."]),
+        ("Winter cold met with an appeal to happiness, not endurance", [
+            "The fifth verse voices a second concern &mdash; cold "
+            "winter nights spent in the open &mdash; and urges the "
+            "speaker to come inside. The sixth verse answers not with "
+            "agreement but with a different appeal entirely: the four "
+            "immeasurable states (mettā, karuṇā, muditā, upekkhā), "
+            "practiced so thoroughly that neither hunger nor cold can "
+            "disturb the meditator's dwelling, whether indoors or out."]),
+        ("Two poems in, a book already showing real variety", [
+            "Between Thag 6.1's clean, single-voice narration and "
+            "this poem's dialogue-and-refrain structure, the Book of "
+            "the Sixes is already demonstrating the same "
+            "poem-to-poem variety seen across every earlier book in "
+            "this collection &mdash; a reminder that &lsquo;the "
+            "Sixes&rsquo; describes a typical verse count, not a rigid "
+            "template."]),
+    ],
+    terms=[
+        ("Buddhamappameyya&#7749;",
+         "&ldquo;the immeasurable Buddha&rdquo; &mdash; the first of "
+         "three objects of recollection urged on the speaker."),
+        ("p&imacr;tiy&amacr; phu&#7789;asar&imacr;ro",
+         "&ldquo;your body soaked with rapture&rdquo; &mdash; the "
+         "shared closing image of all three couplets."),
+        ("catasso appama&ntilde;&ntilde;āyo",
+         "&ldquo;the four immeasurable states&rdquo; &mdash; "
+         "loving-kindness, compassion, joy, and equanimity, named in "
+         "the final verse."),
+        ("phusitaggaḷa&#7749;",
+         "&ldquo;door shut fast&rdquo; &mdash; the sheltered dwelling "
+         "the speaker is urged, and declines, to retreat into."),
+        ("ani&ntilde;jito",
+         "&ldquo;unperturbed&rdquo; &mdash; the poem's closing "
+         "self-description, dwelling in the open, undisturbed by "
+         "cold."),
+    ],
+    text_intro=(
+        "The text in full: six verses of uneven length, with no "
+        "separate attribution line in this chapter. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag6.2:1.1-1.4"),
+        ("p", "&sect;2", "thag6.2:2.1-2.2"),
+        ("p", "&sect;3", "thag6.2:3.1-3.2"),
+        ("p", "&sect;4", "thag6.2:4.1-4.2"),
+        ("p", "&sect;5", "thag6.2:5.1-5.4"),
+        ("p", "&sect;6", "thag6.2:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What problem does Tekicchakāri raise in the opening verse?",
+         "opts": [
+             "He has quarreled with another monk",
+             "He has no almsfood, though the harvest is in",
+             "He is lost in the forest",
+             "He has fallen ill"],
+         "correct": 1,
+         "expl": "'The rice has been harvested... but I don't get any almsfood!'"},
+        {"q": "What does the encouraging voice urge in the three middle couplets?",
+         "opts": [
+             "Begging in a different village",
+             "Fasting until the next harvest",
+             "Recollection of the Buddha, the teaching, and the Saṅgha in turn",
+             "A change of monastery"],
+         "correct": 2,
+         "expl": "Each couplet closes on the identical promise of rapture and joy."},
+        {"q": "How is this poem's verse structure unusual within the Book of the Sixes?",
+         "opts": [
+             "It has only two verses total",
+             "It has no verses at all, only prose",
+             "It matches the book's standard six four-line verses exactly",
+             "Its middle three verses are two-line couplets, not four-line verses"],
+         "correct": 3,
+         "expl": "Eighteen translated lines total, rather than the book's baseline twenty-four."},
+        {"q": "What does Sujato's comment on this poem note about its metre?",
+         "opts": [
+             "It is one of the very few verses in the whole Pali Canon whose metre has never been identified",
+             "It has no metre at all — pure prose",
+             "The comment doesn't discuss metre",
+             "It is a very common, easily-identified metre"],
+         "correct": 0,
+         "expl": "Echoing a similar note on Thag 1.111 (Jenta), elsewhere in this collection."},
+        {"q": "What second concern does the fifth verse raise?",
+         "opts": [
+             "Hunger",
+             "Cold winter nights spent in the open",
+             "Illness",
+             "Loneliness"],
+         "correct": 1,
+         "expl": "'You stay in the open, though these winter nights are cold.'"},
+        {"q": "How does the speaker answer the concern about cold?",
+         "opts": [
+             "By agreeing to come inside",
+             "By ignoring the question entirely",
+             "By invoking the four immeasurable states as protection",
+             "By asking for warmer robes"],
+         "correct": 2,
+         "expl": "Mettā, karuṇā, muditā, upekkhā — practiced thoroughly enough that neither cold nor hunger disturbs him."},
+        {"q": "What image closes all three of the middle couplets?",
+         "opts": [
+             "A different image each time",
+             "A warning about death",
+             "No shared image — each couplet is distinct",
+             "'Your body soaked with rapture, you'll always be full of joy'"],
+         "correct": 3,
+         "expl": "The anaphora across Buddha, Dhamma, and Saṅgha mirrors the standard order of the three refuges."},
+        {"q": "How does this poem's structure compare to Thag 6.1, the poem immediately before it?",
+         "opts": [
+             "Already showing real variety — dialogue and refrain instead of single-voice narration",
+             "Twice as long",
+             "Missing a closing verse",
+             "Identical in every respect"],
+         "correct": 0,
+         "expl": "A reminder that 'the Sixes' describes a typical verse count, not a rigid template."},
+        {"q": "What does the poem's final self-description call the speaker's state, dwelling in the open?",
+         "opts": [
+             "Regretful",
+             "Unperturbed (aniñjito)",
+             "Undecided",
+             "Anxious"],
+         "correct": 1,
+         "expl": "Undisturbed by cold, having realized the four immeasurable states."},
+        {"q": "What phrase in the second, third, and fourth verses signals they are refuge-recollections rather than ordinary description?",
+         "opts": [
+             "A description of the seasons",
+             "'The rice has been harvested'",
+             "'Anussara pasanno' — 'recollect, in faith' — attached to Buddha, Dhamma, and Saṅgha respectively",
+             "A list of monastic rules"],
+         "correct": 2,
+         "expl": "Each couplet opens by naming its own object of recollection: the Buddha, the teaching, then the Saṅgha."},
+    ],
+    marginalia=[
+        ("A metre nobody has named", [
+            "one of very few in the whole canon —",
+            "still unidentified, centuries on"
+        ]),
+        ("Buddha, Dhamma, Sa&#7749;gha, in turn", [
+            "three couplets, one shared closing line —",
+            "rapture answering hunger and cold"
+        ]),
+        ("Eighteen lines, not twenty-four", [
+            "the book's second poem already breaks pattern —",
+            "variety from the very start"
+        ]),
+        ("Cold met with warmth, not shelter", [
+            "the four immeasurable states, not a door shut fast —",
+            "an answer that isn't the one asked for"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag6.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.111.html">Thag 1.111 &mdash; Jenta</a> '
+        "&mdash; another poem whose metre Sujato notes has never been "
+        "identified.",
+        '<a href="thag-6.1.html">Thag 6.1 &mdash; Uruve&#7735;akassapa</a> '
+        "&mdash; the poem immediately before this one, opening this "
+        "book.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 6.3 — Mah&amacr;n&amacr;ga
+# --------------------------------------------------------------------------- #
+page(
+    6, 3, "Mah&amacr;n&amacr;ga", "Mah&amacr;n&amacr;ga",
+    meta_title="Thag 6.3 — Mah&amacr;n&amacr;ga | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Mah&amacr;n&amacr;ga's verse, a strict mirror-image poem: "
+        "three verses on what befalls the disrespectful, answered by "
+        "three verses on what befalls the respectful, each pair "
+        "sharing an identical simile. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sixes &middot; Chapter One &middot; Poem 3 of 14",
+    glance=[
+        ("Setting", "General teaching, without further attribution"),
+        ("Speaker", "Mah&amacr;n&amacr;ga, on respect for one's "
+                    "spiritual companions"),
+        ("Form", "Six four-line verses in strict mirror-image pairs "
+                 "&mdash; three of loss, three of growth"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, a tightly patterned "
+                       "structure"),
+    ],
+    why=(
+        "Three similes of failure, each answered by its exact "
+        "opposite: a fish in a shrinking puddle against a fish in "
+        "plenty of water; a rotten seed against a fine one; distance "
+        "from extinguishment against nearness to it. Mah&amacr;n&amacr;ga's "
+        "single subject &mdash; g&amacr;rava, respect for one's "
+        "spiritual companions &mdash; is stated only once, then run "
+        "twice through, in reverse."),
+    guide=[
+        ("A single line, repeated six times as refrain", [
+            "&lsquo;Yassa sabrahmac&amacr;r&imacr;su, g&amacr;ravo "
+            "n&amacr;ti/upalabbhati&rsquo;, &lsquo;whoever has/does "
+            "have no respect for their spiritual companions&rsquo;, "
+            "opens every one of the six verses, varying only in "
+            "whether respect is present or absent. This is the "
+            "poem's structural spine: six variations on one "
+            "condition, not six separate teachings."]),
+        ("Three similes, doubled and inverted", [
+            "Each of the three consequences named for disrespect "
+            "gets its exact mirror for respect: a fish stranded in a "
+            "shrinking puddle (maccho appodake) becomes a fish in "
+            "plenty of water (maccho bavhodake); a rotten seed in a "
+            "field (b&imacr;ja&#7749; p&umacr;tika&#7749;) becomes a "
+            "fine seed (b&imacr;ja&#7749; bhaddaka&#7749;); distance "
+            "from extinguishment (&amacr;rak&amacr; nibb&amacr;n&amacr;) "
+            "becomes nearness to it (santike nibb&amacr;na&#7749;). "
+            "The structure argues by symmetry rather than by "
+            "explanation &mdash; no verse states why respect matters, "
+            "only what follows from its presence or absence."]),
+        ("Sabrahmac&amacr;r&imacr;, a term worth pausing on", [
+            "&lsquo;Spiritual companions&rsquo; translates "
+            "sabrahmac&amacr;r&imacr;, literally &lsquo;those who "
+            "live the holy life together [with oneself]&rsquo; "
+            "&mdash; fellow renunciants generally, not a specific "
+            "teacher or elder. The poem's concern is horizontal "
+            "respect within the Sa&#7749;gha, not the vertical respect "
+            "of student toward teacher more commonly treated "
+            "elsewhere in this collection."]),
+        ("A short poem making a large claim", [
+            "The final pair of verses places the stakes at their "
+            "highest: not mere social friction, but distance from or "
+            "nearness to nibb&amacr;na itself, dhammar&amacr;jassa "
+            "s&amacr;sane, &lsquo;in the teaching of the Dhamma "
+            "king&rsquo;. Whether or not one respects one's fellow "
+            "practitioners is framed here as bearing directly on the "
+            "goal of practice, not as a separate matter of etiquette."]),
+        ("A third distinct structure within three poems", [
+            "After Thag 6.1's single continuous narrative and Thag "
+            "6.2's dialogue-with-refrain, this poem introduces a third "
+            "form entirely: strict antithetical parallelism, verse "
+            "for verse. Three poems into this book, three different "
+            "structural approaches have already appeared."]),
+    ],
+    terms=[
+        ("g&amacr;ravo",
+         "&ldquo;respect&rdquo; &mdash; the single condition this "
+         "poem examines from both directions."),
+        ("sabrahmac&amacr;r&imacr;",
+         "&ldquo;spiritual companions&rdquo;, literally &ldquo;those "
+         "who live the holy life together&rdquo; &mdash; fellow "
+         "renunciants generally."),
+        ("maccho appodake",
+         "&ldquo;a fish in a little puddle&rdquo; &mdash; the first "
+         "simile of falling away, mirrored later by a fish in plenty "
+         "of water."),
+        ("b&imacr;ja&#7749; p&umacr;tika&#7749;",
+         "&ldquo;a rotten seed&rdquo; &mdash; the second simile, "
+         "mirrored by a fine seed thriving in a field."),
+        ("dhammar&amacr;jassa s&amacr;sane",
+         "&ldquo;in the teaching of the Dhamma king&rdquo; &mdash; "
+         "the setting in which both distance from and nearness to "
+         "extinguishment are measured."),
+    ],
+    text_intro=(
+        "The text in full: six verses, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag6.3:1.1-1.4"),
+        ("p", "&sect;2", "thag6.3:2.1-2.4"),
+        ("p", "&sect;3", "thag6.3:3.1-3.4"),
+        ("p", "&sect;4", "thag6.3:4.1-4.4"),
+        ("p", "&sect;5", "thag6.3:5.1-5.4"),
+        ("p", "&sect;6", "thag6.3:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What single condition does this poem examine, across all six verses?",
+         "opts": [
+             "Physical strength",
+             "Wealth and generosity",
+             "Respect for one's spiritual companions (gāravo)",
+             "Skill in meditation"],
+         "correct": 2,
+         "expl": "Every verse opens with a variant of 'whoever has/does have no respect for their spiritual companions'."},
+        {"q": "How is this poem structured?",
+         "opts": [
+             "As a list of unrelated teachings",
+             "As a single continuous narrative",
+             "As a dialogue between two speakers",
+             "As three verses of loss mirrored by three verses of growth, using the same similes"],
+         "correct": 3,
+         "expl": "Strict antithetical parallelism, verse for verse."},
+        {"q": "What does the first simile compare the disrespectful person to?",
+         "opts": [
+             "A fish in a little puddle",
+             "A bird without wings",
+             "A dry well",
+             "A broken pot"],
+         "correct": 0,
+         "expl": "Mirrored later by a fish in plenty of water, for the respectful person."},
+        {"q": "What does 'sabrahmacārī' mean?",
+         "opts": [
+             "One's biological family",
+             "Spiritual companions — fellow renunciants living the holy life together",
+             "A specific named teacher",
+             "Lay supporters"],
+         "correct": 1,
+         "expl": "The poem's concern is horizontal respect within the Saṅgha, not respect for a specific teacher."},
+        {"q": "What does the second simile compare a disrespectful person's failure to thrive to?",
+         "opts": [
+             "A dry riverbed",
+             "A collapsed house",
+             "A rotten seed in a field",
+             "A dying tree"],
+         "correct": 2,
+         "expl": "Mirrored by a fine seed thriving in a field, for the respectful person."},
+        {"q": "What is at stake, according to the poem's third pair of verses?",
+         "opts": [
+             "Financial success",
+             "Physical health",
+             "Only social reputation",
+             "Distance from, or nearness to, extinguishment (nibbāna) itself"],
+         "correct": 3,
+         "expl": "'Ārakā hoti nibbānā' (far from extinguishment) against 'santike hoti nibbānaṁ' (close to extinguishment)."},
+        {"q": "How many distinct structural approaches have appeared across this book's first three poems?",
+         "opts": [
+             "Three — continuous narrative, dialogue-with-refrain, and antithetical parallelism",
+             "Two",
+             "None — the structures cannot be compared",
+             "One — all three poems share an identical structure"],
+         "correct": 0,
+         "expl": "Thag 6.1's narrative, Thag 6.2's dialogue, and this poem's mirror-image form."},
+        {"q": "What phrase closes both the third and sixth verses?",
+         "opts": [
+             "A blessing for the reader",
+             "'Dhammarājassa sāsane' — 'in the teaching of the Dhamma king'",
+             "A different phrase each time",
+             "The speaker's own name"],
+         "correct": 1,
+         "expl": "The setting in which distance from, or nearness to, extinguishment is measured."},
+        {"q": "What does this poem's structure argue by, rather than by direct explanation?",
+         "opts": [
+             "By a numbered list of rules",
+             "By citing a specific historical event",
+             "By symmetry — showing consequences rather than stating reasons",
+             "By quoting another elder"],
+         "correct": 2,
+         "expl": "No verse states why respect matters, only what follows from its presence or absence."},
+        {"q": "What form of respect is this poem concerned with?",
+         "opts": [
+             "Respect for the Buddha alone",
+             "Respect for one's parents specifically",
+             "Respect for lay donors",
+             "Respect among fellow renunciants (sabrahmacārī), not a single named teacher"],
+         "correct": 3,
+         "expl": "Horizontal respect within the Saṅgha, rather than the vertical respect of student toward teacher."},
+    ],
+    marginalia=[
+        ("One line, six variations", [
+            "respect present, respect absent —",
+            "the same refrain, run both ways"
+        ]),
+        ("A fish, a seed, a distance", [
+            "three similes, each doubled and inverted —",
+            "loss and growth in mirror image"
+        ]),
+        ("Argument by symmetry", [
+            "no verse explains why respect matters —",
+            "only what follows from it"
+        ]),
+        ("A third structure, three poems in", [
+            "narrative, dialogue, now antithesis —",
+            "this book resists a single template"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag6.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-6.2.html">Thag 6.2 &mdash; Tekicchak&amacr;ri</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 6.4 — Kulla
+# --------------------------------------------------------------------------- #
+page(
+    6, 4, "Kulla", "Kulla",
+    meta_title="Thag 6.4 — Kulla | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Kulla's verse, a charnel-ground meditation on a woman's "
+        "abandoned corpse, the teaching taken up as a mirror "
+        "(dhamm&amacr;d&amacr;sa) to examine the body, and a "
+        "sequence of reversibility couplets echoing far beyond this "
+        "collection. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sixes &middot; Chapter One &middot; Poem 4 of 14",
+    glance=[
+        ("Setting", "A charnel ground, without further attribution"),
+        ("Speaker", "Two voices: Kulla narrating, and an unnamed "
+                    "voice addressing him directly by name"),
+        ("Form", "Six four-line verses &mdash; a corpse observed, an "
+                 "address by name, a mirror taken up, and a run of "
+                 "reversibility couplets"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "vivid but plain vocabulary, unusually abstract "
+                       "reasoning in its middle verses"),
+    ],
+    why=(
+        "Kulla goes to a charnel ground and sees a woman's body, "
+        "abandoned and being devoured by worms &mdash; the occasion "
+        "for a voice, perhaps his own teacher's, addressing him "
+        "directly by name: &lsquo;see this bag of bones, Kulla.&rsquo; "
+        "What follows is this collection's most explicitly reasoned "
+        "meditation instruction, using the teaching itself as a "
+        "mirror before reasoning through the body's nature in a "
+        "sequence of paired opposites."),
+    guide=[
+        ("A corpse, and a name spoken directly", [
+            "The first two verses are narrated in the third person, "
+            "unusually: &lsquo;Kullo sivathika&#7749; gantv&amacr;, "
+            "addasa itthimujjhita&#7749;&rsquo;, &lsquo;I, Kulla, went "
+            "to a charnel ground and saw a woman's body abandoned "
+            "there&rsquo;. The second verse then addresses him by "
+            "name &mdash; &lsquo;passa kulla samussaya&#7749;&rsquo;, "
+            "&lsquo;see this bag of bones, Kulla&rsquo; &mdash; a "
+            "device also seen with Dabba and V&imacr;ra in the Book "
+            "of the Ones and Senaka in the Book of the Fours, though "
+            "here it appears to be a second voice instructing rather "
+            "than simple self-address."]),
+        ("The teaching taken up as a mirror", [
+            "The third verse turns from the corpse outside to the "
+            "body within: &lsquo;dhamm&amacr;d&amacr;sa&#7749; "
+            "gahetv&amacr;na, &ntilde;&amacr;&#7751;adassanapattiy&amacr;&rsquo;, "
+            "&lsquo;taking the teaching as a mirror, for realizing "
+            "knowledge and vision&rsquo;. This site's own Thig 10.1 "
+            "(Kis&amacr;gotam&imacr;) already uses this same image, "
+            "dhamm&amacr;d&amacr;sa, for her own confirmation of "
+            "realization &mdash; here Kulla applies it specifically to "
+            "examining the body, &lsquo;hollow, inside and out "
+            "(tuccha&#7749; santarab&amacr;hira&#7749;)&rsquo;, a "
+            "related but distinct use of the same shared image."]),
+        ("A run of reversibility couplets, echoing widely", [
+            "The fourth and fifth verses build a sequence of paired "
+            "opposites &mdash; &lsquo;as this is, so is that; as that "
+            "is, so is this&rsquo;, &lsquo;as below, so above; as "
+            "above, so below&rsquo;, &lsquo;as by day, so by night; as "
+            "by night, so by day&rsquo; &mdash; four such pairs in "
+            "total. This reading guide notes only that the "
+            "phrase-pattern echoes broadly across contemplative "
+            "literature; it does not assert a specific historical "
+            "connection to any other tradition's similar-sounding "
+            "formulas."]),
+        ("A closing turn toward absorption, not revulsion", [
+            "Rather than ending on the corpse or the body's "
+            "unattractiveness, the final verse pivots toward "
+            "positive practice: &lsquo;even the music of a five-piece "
+            "band can never give such pleasure as when, with unified "
+            "mind, you rightly discern the teaching&rsquo;. The "
+            "charnel-ground observation and the reversibility "
+            "reasoning both serve, in the end, as preparation for "
+            "meditative absorption rather than as ends in "
+            "themselves."]),
+        ("Fourth poem, fourth structure", [
+            "After narrative, dialogue-refrain, and antithetical "
+            "parallelism in the first three poems, Kulla's poem adds "
+            "a fourth distinct approach: third-person scene-setting "
+            "opening into direct address, then abstract reasoning, "
+            "then a closing simile. Four poems in, the Book of the "
+            "Sixes shows no sign of settling into one template."]),
+    ],
+    terms=[
+        ("sivathika&#7749;",
+         "&ldquo;a charnel ground&rdquo; &mdash; the setting for the "
+         "poem's opening observation."),
+        ("dhamm&amacr;d&amacr;sa&#7749;",
+         "&ldquo;the teaching as a mirror&rdquo; &mdash; an image "
+         "shared with this site's Thig 10.1 (Kis&amacr;gotam&imacr;), "
+         "there used for confirming her own realization, here for "
+         "examining the body."),
+        ("tuccha&#7749; santarab&amacr;hira&#7749;",
+         "&ldquo;hollow, inside and out&rdquo; &mdash; the body's "
+         "nature, as examined through the mirror of the teaching."),
+        ("pa&ntilde;ca&#7749;gikena turiyena",
+         "&ldquo;the music of a five-piece band&rdquo; &mdash; "
+         "invoked in the closing verse only to be surpassed by "
+         "unified concentration."),
+        ("ekaggacittassa",
+         "&ldquo;with unified mind&rdquo; &mdash; the state in which "
+         "the teaching is rightly discerned, closing the poem."),
+    ],
+    text_intro=(
+        "The text in full: six verses, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag6.4:1.1-1.4"),
+        ("p", "&sect;2", "thag6.4:2.1-2.4"),
+        ("p", "&sect;3", "thag6.4:3.1-3.4"),
+        ("p", "&sect;4", "thag6.4:4.1-4.4"),
+        ("p", "&sect;5", "thag6.4:5.1-5.4"),
+        ("p", "&sect;6", "thag6.4:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What does Kulla see in the opening verses, at a charnel ground?",
+         "opts": [
+             "An empty field",
+             "A group of meditating monks",
+             "A burning building",
+             "A woman's abandoned corpse, being devoured by worms"],
+         "correct": 3,
+         "expl": "'I, Kulla, went to a charnel ground and saw a woman's body abandoned there.'"},
+        {"q": "How does the second verse address Kulla?",
+         "opts": [
+             "Directly by name — 'see this bag of bones, Kulla'",
+             "By a title only",
+             "In the third person throughout",
+             "It doesn't mention him at all"],
+         "correct": 0,
+         "expl": "A device also seen with Dabba, Vīra, and Senaka elsewhere in this collection."},
+        {"q": "What does the third verse mean by 'taking the teaching as a mirror'?",
+         "opts": [
+             "Literally polishing a mirror as an offering",
+             "Using the teaching (dhammādāsa) to examine the body directly",
+             "A metaphor unrelated to meditation",
+             "A reference to a specific ritual object"],
+         "correct": 1,
+         "expl": "This site's Thig 10.1 (Kisāgotamī) already uses this same image, for confirming her own realization."},
+        {"q": "How does Kulla's use of 'dhammādāsa' compare to Kisāgotamī's, in Thig 10.1?",
+         "opts": [
+             "Kulla's poem never uses this term",
+             "Identical in every application",
+             "A related but distinct use — hers for confirming realization, his for examining the body",
+             "Completely unrelated words that merely sound alike"],
+         "correct": 2,
+         "expl": "The shared image serves different immediate purposes in each poem."},
+        {"q": "What pattern do the fourth and fifth verses build?",
+         "opts": [
+             "A genealogy of teachers",
+             "A description of the seasons alone",
+             "A list of monastic rules",
+             "A sequence of reversibility couplets — 'as this, so that', 'as above, so below'"],
+         "correct": 3,
+         "expl": "Four such paired opposites in total, a pattern this guide notes without asserting any specific outside connection."},
+        {"q": "What does this reading guide say about the reversibility couplets' resemblance to other traditions?",
+         "opts": [
+             "It notes only that the phrase-pattern echoes broadly, without asserting a specific connection",
+             "It denies any resemblance exists",
+             "It doesn't mention the couplets at all",
+             "It asserts a specific historical borrowing"],
+         "correct": 0,
+         "expl": "A deliberately cautious framing, avoiding overclaimed cross-tradition identification."},
+        {"q": "What does the final verse compare to the pleasure of discerning the teaching with a unified mind?",
+         "opts": [
+             "The taste of fine food",
+             "The music of a five-piece band",
+             "Physical comfort",
+             "Wealth and status"],
+         "correct": 1,
+         "expl": "Even the finest music can never give such pleasure, the poem claims."},
+        {"q": "What does the poem's ending suggest about the charnel-ground observation and the reversibility reasoning?",
+         "opts": [
+             "They are later interpolations",
+             "They are ends in themselves, meant to produce despair",
+             "They serve as preparation for meditative absorption, not as ends in themselves",
+             "They are unrelated to the poem's final verse"],
+         "correct": 2,
+         "expl": "The poem pivots from revulsion toward positive absorption in its closing lines."},
+        {"q": "How many distinct structural approaches have now appeared across this book's first four poems?",
+         "opts": [
+             "Two",
+             "None — no comparison is possible",
+             "One — all four poems share an identical structure",
+             "Four — narrative, dialogue-refrain, antithetical parallelism, and this poem's scene-into-reasoning form"],
+         "correct": 3,
+         "expl": "The Book of the Sixes shows no sign of settling into one template, four poems in."},
+        {"q": "What does 'tucchaṁ santarabāhiraṁ' describe?",
+         "opts": [
+             "The body, examined as hollow, inside and out",
+             "A monastery building",
+             "A forest grove",
+             "A wealthy household"],
+         "correct": 0,
+         "expl": "The result of examining the body through the mirror of the teaching."},
+    ],
+    marginalia=[
+        ("A corpse, a name spoken", [
+            "'see this bag of bones, Kulla' —",
+            "instruction, not mere description"
+        ]),
+        ("The teaching as a mirror", [
+            "shared with Kis&amacr;gotam&imacr;'s own poem —",
+            "the same image, put to a different use"
+        ]),
+        ("As above, so below", [
+            "four paired opposites, run through in sequence —",
+            "an echo noted, not overclaimed"
+        ]),
+        ("Revulsion, then absorption", [
+            "the corpse gives way to unified mind —",
+            "preparation, not an ending point"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag6.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../therigatha/thig-10.1.html">Thig 10.1 &mdash; '
+        "Kis&amacr;gotam&imacr;</a> &mdash; this site's other poem "
+        "to use the &lsquo;mirror of the teaching&rsquo; image, there "
+        "for confirming her own realization.",
+        '<a href="thag-6.3.html">Thag 6.3 &mdash; Mah&amacr;n&amacr;ga</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 6.5 — M&amacr;lu&#7749;kyaputta (1st)
+# --------------------------------------------------------------------------- #
+page(
+    6, 5, "M&amacr;lu&#7749;kyaputta (1st)", "M&amacr;lu&#7749;kyaputta (1st)",
+    meta_title="Thag 6.5 — M&amacr;lu&#7749;kyaputta (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "M&amacr;lu&#7749;kyaputta's verse on craving as a creeper "
+        "and a hungry langur &mdash; spoken by the same elder whose "
+        "dialogue with the Buddha, over a question he refused to "
+        "answer, is already translated on this site as MN 63. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Sixes &middot; Chapter One &middot; Poem 5 of 14",
+    glance=[
+        ("Setting", "An assembly, addressed directly ('all those who "
+                    "have gathered here')"),
+        ("Speaker", "M&amacr;lu&#7749;kyaputta (1st), teaching on "
+                    "craving"),
+        ("Form", "Six verses, the fourth extended to six lines rather "
+                 "than four"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "vivid similes, straightforward teaching "
+                       "structure"),
+    ],
+    why=(
+        "A creeper strangling its host, a langur leaping restlessly "
+        "from branch to branch chasing fruit, sorrow spreading like "
+        "grass in the rain &mdash; M&amacr;lu&#7749;kyaputta piles up "
+        "similes for craving before turning, in his fourth verse, to "
+        "direct address: &lsquo;I say this to you, good people, all "
+        "those who have gathered here: dig up the root of "
+        "craving.&rsquo; This is the same elder whose famous refusal "
+        "to accept the Buddha's teaching until his metaphysical "
+        "questions were answered &mdash; and the parable of the "
+        "poisoned arrow that answered him &mdash; is already "
+        "translated on this site as MN 63."),
+    guide=[
+        ("Craving as creeper, as langur, as rain-soaked grass", [
+            "The first three verses build a sequence of similes: "
+            "craving grows &lsquo;like a camel's foot creeper&rsquo; "
+            "in the heedless; the restless mind, chasing after "
+            "sense-objects, &lsquo;jumps from one thing to the next, "
+            "like a langur greedy for fruit in a forest grove&rsquo;; "
+            "sorrow spreading from craving is &lsquo;like grass in "
+            "the rain&rsquo;. Each simile is then answered by its own "
+            "reversal &mdash; sorrows &lsquo;fall away like a drop "
+            "from a lotus-leaf&rsquo; once craving is overcome."]),
+        ("A langur simile shared with this book's closing poem", [
+            "The image of a langur (v&amacr;nara), a type of "
+            "human-like monkey identified with the langur per "
+            "Sujato's comment (citing Ja 57), recurs at the very "
+            "close of this book, in Thag 6.14 (Sabbak&amacr;mi), where "
+            "the same creature appears trapped &lsquo;by tar&rsquo;. "
+            "Two poems near the start and end of one chapter reach for "
+            "the identical animal to make related points about being "
+            "caught by desire."]),
+        ("A turn to direct address: 'dig up the root'", [
+            "The fourth verse departs from simile into imperative, "
+            "addressing an assembly directly: &lsquo;ta&#7749; vo "
+            "vad&amacr;mi bhadda&#7749; vo&rsquo;, &lsquo;I say this "
+            "to you, good people&rsquo;. This verse is also the one "
+            "that runs to six lines rather than four, extending to "
+            "warn against Māra &lsquo;breaking you again and again, "
+            "like a stream breaking a reed&rsquo; &mdash; the poem's "
+            "structural weight falls on this central, extended "
+            "imperative."]),
+        ("The same elder as the poisoned-arrow parable", [
+            "M&amacr;lu&#7749;kyaputta (1st) is the monk whose demand "
+            "for answers to unanswered questions &mdash; is the "
+            "universe eternal, is the soul the same as the body, and "
+            "so on &mdash; before he would continue practicing, "
+            "prompted the Buddha's parable of a man shot with a "
+            "poisoned arrow who refuses treatment until he learns "
+            "the archer's name, clan, and bow-wood: already translated "
+            "on this site as "
+            "<a href=\"../majjhima-nikaya/mn-063.html\">MN 63, The "
+            "Shorter Discourse with M&amacr;lu&#7749;kya</a>. This "
+            "poem shows the same figure afterward, teaching craving's "
+            "uprooting to an assembly rather than demanding answers "
+            "for himself."]),
+        ("Negligence as dust, diligence as its opposite", [
+            "The closing verse names pam&amacr;da (negligence) "
+            "directly as &lsquo;rajo&rsquo;, dust, and appam&amacr;da "
+            "(diligence) as the means &lsquo;to pluck out the dart "
+            "from yourself&rsquo; &mdash; the poem's own closing image "
+            "of a dart recalling, without repeating, the poisoned "
+            "arrow of MN 63's famous parable."]),
+    ],
+    terms=[
+        ("ta&#7751;h&amacr; va&#7693;&#7693;hati m&amacr;luv&amacr; viya",
+         "&ldquo;craving grows like a camel's foot creeper&rdquo; "
+         "&mdash; the poem's opening simile."),
+        ("v&amacr;naro",
+         "&ldquo;langur&rdquo; &mdash; a type of monkey, an image "
+         "shared with Thag 6.14 at the close of this book."),
+        ("ta&#7749; vo vad&amacr;mi bhadda&#7749; vo",
+         "&ldquo;I say this to you, good people&rdquo; &mdash; the "
+         "poem's turn from simile to direct address."),
+        ("appam&amacr;dena vijjāya",
+         "&ldquo;through diligence and knowledge&rdquo; &mdash; the "
+         "means named in the closing verse for uprooting craving."),
+        ("sallam attano",
+         "&ldquo;the dart from yourself&rdquo; &mdash; the poem's "
+         "closing image, echoing without repeating MN 63's parable "
+         "of the poisoned arrow."),
+    ],
+    text_intro=(
+        "The text in full: six verses, the fourth extended to six "
+        "lines, with no separate attribution line in this chapter. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag6.5:1.1-1.4"),
+        ("p", "&sect;2", "thag6.5:2.1-2.4"),
+        ("p", "&sect;3", "thag6.5:3.1-3.4"),
+        ("p", "&sect;4", "thag6.5:4.1-4.6"),
+        ("p", "&sect;5", "thag6.5:5.1-5.4"),
+        ("p", "&sect;6", "thag6.5:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What does the opening verse compare craving to?",
+         "opts": [
+             "A camel's foot creeper, growing in the heedless",
+             "A gentle breeze",
+             "A single drop of water",
+             "A silent shadow"],
+         "correct": 0,
+         "expl": "'Craving grows in them like a camel's foot creeper.'"},
+        {"q": "What animal does the poem compare the restless, craving mind to?",
+         "opts": [
+             "A soaring eagle",
+             "A langur, jumping from one thing to the next chasing fruit",
+             "A patient tortoise",
+             "A sleeping lion"],
+         "correct": 1,
+         "expl": "Per Sujato's comment (citing Ja 57), a type of human-like monkey."},
+        {"q": "Where does this same langur image recur later in this book?",
+         "opts": [
+             "It doesn't recur anywhere else",
+             "In Thag 6.9",
+             "In Thag 6.14, this book's closing poem, where the langur is trapped by tar",
+             "In Thag 6.1"],
+         "correct": 2,
+         "expl": "Two poems near the start and end of the same chapter reach for the identical animal."},
+        {"q": "What happens structurally in the fourth verse, unlike the verses before it?",
+         "opts": [
+             "It switches speakers entirely",
+             "It is left untranslated",
+             "It repeats the first verse exactly",
+             "It turns from simile to direct address, and extends to six lines rather than four"],
+         "correct": 3,
+         "expl": "'I say this to you, good people, all those who have gathered here.'"},
+        {"q": "What well-known episode is Māluṅkyaputta (1st) associated with, already translated on this site?",
+         "opts": [
+             "The parable of the poisoned arrow, in MN 63",
+             "The simile of the saw",
+             "The parable of the blind men and the elephant",
+             "The parable of the raft"],
+         "correct": 0,
+         "expl": "MN 63, The Shorter Discourse with Māluṅkya, where he demanded answers to unanswered questions."},
+        {"q": "What does MN 63's parable involve?",
+         "opts": [
+             "A blind man describing an elephant",
+             "A man shot with a poisoned arrow who refuses treatment until he learns the archer's identity",
+             "A raft built to cross a river",
+             "A chariot built piece by piece"],
+         "correct": 1,
+         "expl": "The Buddha's answer to Māluṅkyaputta's demand for metaphysical answers before continuing practice."},
+        {"q": "What does this poem show Māluṅkyaputta doing, in contrast to MN 63's episode?",
+         "opts": [
+             "Arguing with another elder",
+             "Still demanding answers for himself",
+             "Teaching craving's uprooting to an assembly, rather than demanding answers",
+             "Refusing to speak at all"],
+         "correct": 2,
+         "expl": "A shift from demanding questioner to teacher addressing a gathered crowd."},
+        {"q": "What image closes the poem's final verse?",
+         "opts": [
+             "A river crossing",
+             "A burning house",
+             "A closed door",
+             "A dart, plucked out through diligence and knowledge"],
+         "correct": 3,
+         "expl": "Echoing, without repeating, MN 63's parable of the poisoned arrow."},
+        {"q": "What does the poem compare sorrow's growth from craving to?",
+         "opts": [
+             "Grass growing in the rain",
+             "A dying fire",
+             "A collapsing wall",
+             "A fading light"],
+         "correct": 0,
+         "expl": "Answered by its own reversal — sorrows falling away 'like a drop from a lotus-leaf' once craving is overcome."},
+        {"q": "What is Māra warned to not do, in the extended fourth verse?",
+         "opts": [
+             "Nothing — Māra isn't mentioned",
+             "Break the listener again and again, like a stream breaking a reed",
+             "Offer false teachings",
+             "Steal almsfood"],
+         "correct": 1,
+         "expl": "A warning against repeated moments of missed opportunity."},
+    ],
+    marginalia=[
+        ("Creeper, langur, rain-soaked grass", [
+            "three similes for craving's growth —",
+            "each answered by its own reversal"
+        ]),
+        ("A langur, twice in one book", [
+            "chasing fruit here, trapped by tar later —",
+            "the same animal, two different snares"
+        ]),
+        ("The questioner, now teaching", [
+            "MN 63's demanding monk, addressing a crowd —",
+            "the same elder, a different posture"
+        ]),
+        ("A dart, plucked out", [
+            "diligence and knowledge as the remedy —",
+            "echoing the poisoned arrow, unnamed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag6.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-063.html">MN 63 &mdash; The '
+        "Shorter Discourse with M&amacr;lu&#7749;kya</a> &mdash; this "
+        "same elder's famous dialogue with the Buddha over unanswered "
+        "questions, and the parable of the poisoned arrow.",
+        '<a href="thag-6.4.html">Thag 6.4 &mdash; Kulla</a> &mdash; '
+        "the poem immediately before this one, in the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 6.6 — Sappad&amacr;sa
+# --------------------------------------------------------------------------- #
+page(
+    6, 6, "Sappad&amacr;sa", "Sappad&amacr;sa",
+    meta_title="Thag 6.6 — Sappad&amacr;sa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sappad&amacr;sa's verse, one of this collection's starkest "
+        "first-person accounts &mdash; twenty-five years without a "
+        "moment's peace, a razor picked up at the point of suicide, "
+        "and a breakthrough at the very last instant. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Sixes &middot; Chapter One &middot; Poem 6 of 14",
+    glance=[
+        ("Setting", "A monastery cell, without further attribution"),
+        ("Speaker", "Sappad&amacr;sa, recounting a near-suicide and "
+                    "sudden breakthrough"),
+        ("Form", "Six four-line verses, in strict chronological "
+                 "sequence"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain narrative vocabulary, emotionally direct "
+                       "subject matter"),
+    ],
+    why=(
+        "&lsquo;In the twenty-five years since I went forth, I have "
+        "not found peace of mind, even as long as a finger-snap,&rsquo; "
+        "Sappad&amacr;sa opens &mdash; and the poem does not soften "
+        "what follows: wailing, a razor picked up to end his own "
+        "life, and, in the instant before the blade would fall, a "
+        "sudden and complete release. Few poems in this collection "
+        "narrate crisis this directly."),
+    guide=[
+        ("Twenty-five years, no relief at all", [
+            "The opening verse states a specific duration &mdash; not "
+            "&lsquo;a long time&rsquo; but twenty-five years &mdash; "
+            "and a specific, blunt claim: not a moment's peace, "
+            "&lsquo;accharāsaṅghātamattampi&rsquo;, literally not even "
+            "as long as a finger-snap. The second verse names the "
+            "cause directly: k&amacr;mar&amacr;ga, desire for sensual "
+            "pleasures, still active despite decades of formal "
+            "practice."]),
+        ("A name possibly earned by this very episode", [
+            "&lsquo;Sappad&amacr;sa&rsquo; can be read as &lsquo;slave "
+            "of the snake&rsquo; or &lsquo;given to a snake&rsquo; "
+            "&mdash; traditional accounts (outside this poem's own "
+            "text) associate the name with an infancy episode "
+            "involving a snake. This reading guide notes the name's "
+            "literal meaning without asserting which biographical "
+            "account, if any, is historically reliable."]),
+        ("A razor, a cot, and a vein", [
+            "The third and fourth verses narrate the crisis with "
+            "unusual concreteness for this collection: &lsquo;shall I "
+            "commit suicide? What's the point of living?&rsquo;, then "
+            "&lsquo;I picked up a razor, I sat on a cot: the razor "
+            "was ready to slice my vein.&rsquo; This poem does not "
+            "soften or abstract the moment it describes, a directness "
+            "matched by very few other poems in the Therag&amacr;th&amacr;."]),
+        ("Breakthrough at the point of the blade", [
+            "The fifth verse turns entirely on a single moment: "
+            "&lsquo;then the realization came upon me &mdash; the "
+            "danger became clear, and I was firmly disillusioned.&rsquo; "
+            "No transition is narrated between crisis and insight; "
+            "the poem presents the breakthrough as arising directly "
+            "from the confrontation with his own intended death, not "
+            "in spite of it."]),
+        ("The standard closing formula, newly weighted", [
+            "The poem ends with this collection's familiar closing "
+            "line, &lsquo;tisso vijjā anuppattā, kata&#7749; buddhassa "
+            "s&amacr;sana&#7749;&rsquo;, &lsquo;I've attained the "
+            "three knowledges, and fulfilled the Buddha's "
+            "instructions&rsquo; &mdash; a formula recurring across "
+            "this collection, but landing with unusual weight here, "
+            "arriving directly after an account of a suicide attempt "
+            "interrupted at its final instant."]),
+    ],
+    terms=[
+        ("accharāsaṅghātamattampi",
+         "&ldquo;even as long as a finger-snap&rdquo; &mdash; the "
+         "poem's measure for the total peace found in twenty-five "
+         "years."),
+        ("k&amacr;mar&amacr;gena a&#7789;&#7789;ito",
+         "&ldquo;racked by desire for pleasures of the senses&rdquo; "
+         "&mdash; the cause named directly in the second verse."),
+        ("khuro&amacr;",
+         "&ldquo;razor&rdquo; &mdash; the instrument at the center of "
+         "the poem's third and fourth verses."),
+        ("manasīkāro yoniso",
+         "&ldquo;the realization... rightly&rdquo; &mdash; the "
+         "breakthrough named in the fifth verse, arriving without "
+         "narrated transition."),
+        ("nibbid&amacr; samati&#7789;&#7789;hatha",
+         "&ldquo;I was firmly disillusioned&rdquo; &mdash; the "
+         "immediate result of the breakthrough, closing the fifth "
+         "verse."),
+    ],
+    text_intro=(
+        "The text in full: six verses, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag6.6:1.1-1.4"),
+        ("p", "&sect;2", "thag6.6:2.1-2.4"),
+        ("p", "&sect;3", "thag6.6:3.1-3.4"),
+        ("p", "&sect;4", "thag6.6:4.1-4.4"),
+        ("p", "&sect;5", "thag6.6:5.1-5.4"),
+        ("p", "&sect;6", "thag6.6:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "How long had Sappadāsa gone without peace of mind, according to the opening verse?",
+         "opts": [
+             "Three months",
+             "Twenty-five years",
+             "A single week",
+             "Since childhood"],
+         "correct": 1,
+         "expl": "'In the twenty-five years since I went forth, I have not found peace of mind.'"},
+        {"q": "What measure does the poem use for the total peace found in that time?",
+         "opts": [
+             "No measure is given",
+             "A full day",
+             "Not even as long as a finger-snap",
+             "One hour per year"],
+         "correct": 2,
+         "expl": "Accharāsaṅghātamattampi — a strikingly small unit of time."},
+        {"q": "What cause does the second verse name for his suffering?",
+         "opts": [
+             "A dispute with another monk",
+             "Hunger",
+             "Physical illness",
+             "Desire for sensual pleasures (kāmarāga), still active despite decades of practice"],
+         "correct": 3,
+         "expl": "'I was racked by desire for pleasures of the senses.'"},
+        {"q": "What does this reading guide say about the name 'Sappadāsa'?",
+         "opts": [
+             "It can be read as 'slave of the snake', though the guide doesn't assert which biographical account is reliable",
+             "It is definitively proven to derive from a specific historical event",
+             "It means 'the fearless one'",
+             "It has no meaning at all"],
+         "correct": 0,
+         "expl": "A deliberately cautious framing about traditional accounts outside the poem's own text."},
+        {"q": "What crisis does the third and fourth verse narrate?",
+         "opts": [
+             "A journey to another monastery",
+             "Picking up a razor, intending suicide",
+             "A debate with a rival teacher",
+             "Losing his begging bowl"],
+         "correct": 1,
+         "expl": "'I picked up a razor... the razor was ready to slice my vein.'"},
+        {"q": "What happens in the fifth verse?",
+         "opts": [
+             "Nothing changes",
+             "He carries out his intention",
+             "A realization arises, and he is firmly disillusioned — the breakthrough, at the point of the blade",
+             "Another monk intervenes physically"],
+         "correct": 2,
+         "expl": "No transition is narrated between crisis and insight."},
+        {"q": "How does this poem's directness compare to most other poems in this collection?",
+         "opts": [
+             "It avoids the subject entirely",
+             "It is identical in tone to every other poem",
+             "It is far more abstract than most",
+             "It is unusually concrete and direct about a suicide attempt, matched by very few other poems"],
+         "correct": 3,
+         "expl": "This poem does not soften or abstract the moment it describes."},
+        {"q": "What closing formula does the sixth verse use?",
+         "opts": [
+             "'Tisso vijjā anuppattā, kataṁ buddhassa sāsanaṁ' — a formula recurring across this collection",
+             "No closing formula at all",
+             "A direct quotation from another elder",
+             "A unique closing found nowhere else"],
+         "correct": 0,
+         "expl": "Landing with unusual weight, arriving directly after the account of interrupted suicide."},
+        {"q": "How does the poem describe the moment right before the breakthrough?",
+         "opts": [
+             "Calm and settled",
+             "The razor was ready to slice his vein",
+             "He had already left the cell",
+             "He was asleep"],
+         "correct": 1,
+         "expl": "The fourth verse's final image, immediately preceding the fifth verse's turn."},
+        {"q": "What does the poem suggest about the relationship between the crisis and the breakthrough?",
+         "opts": [
+             "No relationship is suggested",
+             "They are unrelated events, separated by years",
+             "The breakthrough arises directly from confronting his own intended death",
+             "The breakthrough happened before the crisis"],
+         "correct": 2,
+         "expl": "The poem presents insight as arising directly from, not in spite of, the confrontation with death."},
+    ],
+    marginalia=[
+        ("Twenty-five years, no peace", [
+            "not even a finger-snap's worth —",
+            "stated plainly, without softening"
+        ]),
+        ("A razor, a cot, a vein", [
+            "this collection's starkest crisis narrated —",
+            "no transition, no easing in"
+        ]),
+        ("Breakthrough at the blade's edge", [
+            "disillusionment arrives at the last instant —",
+            "not in spite of the crisis, but through it"
+        ]),
+        ("The familiar closing line, newly weighted", [
+            "three knowledges, the Buddha's instruction fulfilled —",
+            "landing differently after this account"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag6.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-6.5.html">Thag 6.5 &mdash; '
+        "M&amacr;lu&#7749;kyaputta (1st)</a> &mdash; the poem "
+        "immediately before this one, in the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 6.7 — K&amacr;tiy&amacr;na
+# --------------------------------------------------------------------------- #
+page(
+    6, 7, "K&amacr;tiy&amacr;na", "K&amacr;tiy&amacr;na",
+    meta_title="Thag 6.7 — K&amacr;tiy&amacr;na | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "K&amacr;tiy&amacr;na's verse, an unnamed voice urging a "
+        "sleepy monk to wake, meditate, and &lsquo;make a safe island "
+        "of yourself, for you have no other shelter&rsquo; &mdash; "
+        "this book's longest poem, extended in its final verse. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Sixes &middot; Chapter One &middot; Poem 7 of 14",
+    glance=[
+        ("Setting", "General exhortation, without further attribution"),
+        ("Speaker", "An unnamed voice addressing K&amacr;tiy&amacr;na "
+                    "directly, by name, three times over"),
+        ("Form", "Six verses, the sixth extended to six lines rather "
+                 "than four &mdash; twenty-six translated lines in "
+                 "total"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "direct exhortation, vivid similes"),
+    ],
+    why=(
+        "&lsquo;Get up, K&amacr;tiy&amacr;na, and sit! Don't sleep "
+        "too much, be wakeful,&rsquo; the poem opens &mdash; not "
+        "self-address, as in several poems already in this "
+        "collection, but a voice speaking to K&amacr;tiy&amacr;na by "
+        "name, three separate times, urging him toward the island "
+        "familiar from elsewhere in the canon: &lsquo;make a safe "
+        "island of yourself, for you have no other shelter.&rsquo;"),
+    guide=[
+        ("A wake-up call, addressed by name three times", [
+            "&lsquo;Uṭṭhehi nisīda kātiyāna&rsquo; opens the poem, "
+            "and the name recurs in the fourth and fifth verses too "
+            "&mdash; &lsquo;anuyuñjittha jhāya kātiyāna&rsquo;, "
+            "&lsquo;jhāyāhi jināhi kātiyāna&rsquo;. Unlike Thag 6.4 "
+            "(Kulla), where the address-by-name appears to come from "
+            "a second, instructing voice within a single poem's "
+            "internal drama, this poem is addressed to "
+            "K&amacr;tiy&amacr;na throughout, without any reply "
+            "voiced in his own words &mdash; the poem is entirely "
+            "exhortation, not dialogue."]),
+        ("'Make a safe island of yourself'", [
+            "The second verse's central line, &lsquo;so karohi "
+            "sud&imacr;pamattano tva&#7749;, na hi t&amacr;&#7751;a&#7749; "
+            "tava vijjateva a&ntilde;&ntilde;a&#7749;&rsquo;, "
+            "&lsquo;make a safe island of yourself, for you have no "
+            "other shelter&rsquo;, uses the same self-reliance image "
+            "(d&imacr;pa, island/lamp) found in the well-known "
+            "att&amacr;-d&imacr;pa formula elsewhere in the wider "
+            "canon. This reading guide notes the shared image without "
+            "asserting this poem directly quotes or is quoted by any "
+            "specific other text."]),
+        ("A kinsman of Indra, addressed by epithet", [
+            "The sixth verse switches from the name "
+            "K&amacr;tiy&amacr;na to an epithet, "
+            "&lsquo;indasagotta&rsquo;, &lsquo;kinsman of "
+            "Indra&rsquo; &mdash; suggesting a brahmin lineage claim "
+            "traced to the Vedic deity, now addressed directly to "
+            "shake off M&amacr;ra &lsquo;like a creeper bent by "
+            "wind&rsquo;."]),
+        ("This book's longest poem so far", [
+            "At twenty-six translated lines &mdash; six verses, the "
+            "last extended to six lines rather than four &mdash; this "
+            "is the longest poem in the Book of the Sixes to this "
+            "point, matched later in this same book by Thag 6.8 "
+            "(Migaj&amacr;la), which shares the identical extension "
+            "pattern."]),
+        ("Extinguished like a flame quenched by water", [
+            "The fifth verse's closing image, "
+            "&lsquo;parinibbāhisi vārināva joti&rsquo;, &lsquo;you'll "
+            "be extinguished as a flame by water&rsquo;, gives a "
+            "concrete physical picture for parinibb&amacr;na "
+            "(final extinguishment) &mdash; not annihilation by "
+            "violence, but the natural quenching of what has run out "
+            "of fuel."]),
+    ],
+    terms=[
+        ("u&#7789;&#7789;hehi nis&imacr;da",
+         "&ldquo;get up... and sit!&rdquo; &mdash; the poem's opening "
+         "command."),
+        ("d&imacr;pamattano",
+         "&ldquo;an island of yourself&rdquo; &mdash; the poem's "
+         "central image of self-reliant refuge."),
+        ("indasagotta",
+         "&ldquo;kinsman of Indra&rdquo; &mdash; an epithet used in "
+         "the sixth verse, suggesting a claimed brahmin lineage."),
+        ("yogakkhemapathesu kovido",
+         "&ldquo;an expert in the path to sanctuary from the "
+         "yoke&rdquo; &mdash; K&amacr;tiy&amacr;na's description in "
+         "the fifth verse."),
+        ("v&amacr;rin&amacr;va joti",
+         "&ldquo;as a flame by water&rdquo; &mdash; the image for "
+         "final extinguishment closing the fifth verse."),
+    ],
+    text_intro=(
+        "The text in full: six verses, the sixth extended to six "
+        "lines, with no separate attribution line in this chapter. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag6.7:1.1-1.4"),
+        ("p", "&sect;2", "thag6.7:2.1-2.4"),
+        ("p", "&sect;3", "thag6.7:3.1-3.4"),
+        ("p", "&sect;4", "thag6.7:4.1-4.4"),
+        ("p", "&sect;5", "thag6.7:5.1-5.4"),
+        ("p", "&sect;6", "thag6.7:6.1-6.6"),
+    ],
+    quiz=[
+        {"q": "How does the poem open?",
+         "opts": [
+             "With a list of monastic rules",
+             "With a description of a forest",
+             "'Get up, Kātiyāna, and sit! Don't sleep too much, be wakeful'",
+             "With a question about food"],
+         "correct": 2,
+         "expl": "A direct wake-up call, addressed by name."},
+        {"q": "How many times is Kātiyāna addressed by name across the poem?",
+         "opts": [
+             "Ten times",
+             "Once only",
+             "Never — the poem never uses his name",
+             "Three times, in the first, fourth, and fifth verses"],
+         "correct": 3,
+         "expl": "'Uṭṭhehi nisīda kātiyāna', 'anuyuñjittha jhāya kātiyāna', 'jhāyāhi jināhi kātiyāna'."},
+        {"q": "How does this poem's address-by-name differ from Thag 6.4 (Kulla)?",
+         "opts": [
+             "This poem is addressed to Kātiyāna throughout as pure exhortation, without any reply voiced in his own words",
+             "This poem never mentions Kātiyāna at all",
+             "Kulla's poem has no address by name",
+             "They are identical in every respect"],
+         "correct": 0,
+         "expl": "No internal dialogue drama here — the whole poem is one sustained exhortation."},
+        {"q": "What is the central image of the second verse?",
+         "opts": [
+             "A list of ancestors",
+             "'Make a safe island of yourself, for you have no other shelter'",
+             "A description of a meal",
+             "A journey by boat"],
+         "correct": 1,
+         "expl": "Using the self-reliance image (dīpa, island/lamp) found in the well-known attā-dīpa formula elsewhere in the canon."},
+        {"q": "How does this reading guide treat the resemblance to the attā-dīpa formula?",
+         "opts": [
+             "It doesn't mention the formula at all",
+             "It asserts this poem directly quotes that formula",
+             "It notes the shared image without asserting a specific textual relationship",
+             "It denies any resemblance exists"],
+         "correct": 2,
+         "expl": "A deliberately cautious framing, avoiding an overclaimed direct citation."},
+        {"q": "What epithet does the sixth verse use instead of Kātiyāna's name?",
+         "opts": [
+             "'Son of the forest'",
+             "'The wise one'",
+             "No epithet is used",
+             "'Kinsman of Indra' (indasagotta)"],
+         "correct": 3,
+         "expl": "Suggesting a claimed brahmin lineage traced to the Vedic deity."},
+        {"q": "How does this poem's length compare to the book's baseline?",
+         "opts": [
+             "This book's longest poem so far, at twenty-six lines, with its sixth verse extended",
+             "The shortest poem in the entire Theragātha",
+             "Shorter than average",
+             "Exactly the baseline — six verses of four lines each"],
+         "correct": 0,
+         "expl": "Matched later in the same book by Thag 6.8, which shares the identical extension pattern."},
+        {"q": "What image describes final extinguishment in the fifth verse?",
+         "opts": [
+             "A tree falling",
+             "A flame quenched by water",
+             "A door closing",
+             "A river drying up"],
+         "correct": 1,
+         "expl": "'Parinibbāhisi vārināva joti' — the natural quenching of what has run out of fuel."},
+        {"q": "What does the third verse say the teacher (satthā) has mastered?",
+         "opts": [
+             "A method of debate",
+             "A specific meditation posture only",
+             "A path transcending chains and the fear of birth and old age",
+             "A new monastic robe pattern"],
+         "correct": 2,
+         "expl": "'Saṅgā jātijarābhayā atītaṁ' — a path beyond bonds and the fear of birth and old age."},
+        {"q": "What natural image describes vulnerability to Māra in the sixth verse?",
+         "opts": [
+             "A mountain unmoved by storms",
+             "A river flowing calmly",
+             "A stone unaffected by rain",
+             "A lamp of feeble flame bent by the wind, like a creeper"],
+         "correct": 3,
+         "expl": "The warning to 'shake off Māra, without grasping,' addressed to the 'kinsman of Indra.'"},
+    ],
+    marginalia=[
+        ("Named three times over", [
+            "get up, meditate, conquer, K&amacr;tiy&amacr;na —",
+            "pure exhortation, no reply voiced"
+        ]),
+        ("An island, a shelter", [
+            "make yourself the refuge you need —",
+            "an echo of a formula noted, not claimed"
+        ]),
+        ("Kinsman of Indra", [
+            "a lineage epithet, mid-poem —",
+            "addressed to shake off M&amacr;ra"
+        ]),
+        ("This book's longest poem, so far", [
+            "twenty-six lines, one verse extended —",
+            "matched soon by the poem after it"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag6.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-6.6.html">Thag 6.6 &mdash; Sappad&amacr;sa</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 6.8 — Migaj&amacr;la
+# --------------------------------------------------------------------------- #
+page(
+    6, 8, "Migaj&amacr;la", "Migaj&amacr;la",
+    meta_title="Thag 6.8 — Migaj&amacr;la | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Migaj&amacr;la's verse, a sustained six-verse praise of the "
+        "teaching itself &mdash; drying up craving's root, smashing "
+        "the mechanism of deeds, and, in its closing image, the "
+        "noble eightfold path as bliss. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sixes &middot; Chapter One &middot; Poem 8 of 14",
+    glance=[
+        ("Setting", "General praise of the Dhamma, without further "
+                    "attribution"),
+        ("Speaker", "Migaj&amacr;la, describing the teaching's own "
+                    "qualities"),
+        ("Form", "Six verses, the sixth extended to six lines rather "
+                 "than four"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "dense doctrinal vocabulary, no narrative "
+                       "frame"),
+    ],
+    why=(
+        "Unlike most poems in this collection, Migaj&amacr;la's verse "
+        "narrates no episode at all &mdash; six verses simply praise "
+        "the teaching itself, in cascading epithets: emancipating, "
+        "drying up craving's root, smashing the mechanism of deeds, "
+        "dropping the thunderbolt of knowledge, and, at its close, "
+        "the noble eightfold path itself, &lsquo;the stilling of "
+        "suffering, bliss.&rsquo;"),
+    guide=[
+        ("A poem with no narrative frame at all", [
+            "Where most poems in this collection open on an event, a "
+            "location, or an interlocutor, this poem opens directly "
+            "on the qualities of the teaching itself: &lsquo;it was "
+            "well-taught by the Clear-eyed One, the Buddha, Kinsman "
+            "of the Sun&rsquo;. No crisis, no dialogue, no charnel "
+            "ground &mdash; just six verses of sustained praise."]),
+        ("A cascade of active, almost violent verbs", [
+            "The teaching is described as drying up "
+            "(vis-osana), cutting off (chetv&amacr;), smashing "
+            "(vighāṭano), and dropping a thunderbolt "
+            "(vajiranipātano) &mdash; forceful, active language for "
+            "what is elsewhere in this collection often described in "
+            "gentler terms of peace and stilling. The third verse in "
+            "particular pairs breaking (bhedāya) unknowing's root "
+            "with the thunderbolt image, an unusually martial "
+            "register for a description of insight."]),
+        ("Existence itself as a pit of burning coals", [
+            "The fourth verse's closing image, &lsquo;bhava&#7749; "
+            "aṅgārakāsu&#7749;va, ñā&#7751;ena anupassano&rsquo;, "
+            "&lsquo;contemplating with understanding all states of "
+            "existence as a pit of burning coals&rsquo;, gives one of "
+            "this collection's starker images for the danger of "
+            "continued rebirth &mdash; not a burden to be endured, "
+            "but active danger to be seen clearly and avoided."]),
+        ("A caution about the name Migajāla", [
+            "The Sa&#7749;yutta Nikāya records teachings to a monk "
+            "named Migaj&amacr;la (SN 35.63&ndash;64, not yet "
+            "translated on this site) on solitary dwelling and the "
+            "six sense fields. This reading guide follows this "
+            "collection's established practice of not asserting an "
+            "identification on name alone: without a comment or "
+            "internal textual marker confirming the connection, this "
+            "poem's Migaj&amacr;la and the Sa&#7749;yutta figure are "
+            "treated as possibly, not confirmedly, the same person."]),
+        ("The eightfold path itself, called bliss", [
+            "The sixth and final verse, extended to six lines, closes "
+            "on the noble eightfold path directly: &lsquo;mahāraso "
+            "sugambh&imacr;ro... ariyo a&#7789;&#7789;haṅgiko "
+            "maggo, dukkh&umacr;pasamano sivo&rsquo;, &lsquo;very "
+            "sweet and very deep... the noble eightfold path, the "
+            "stilling of suffering, bliss&rsquo; &mdash; naming the "
+            "path as itself pleasurable, not merely instrumental to a "
+            "pleasure that comes later."]),
+    ],
+    terms=[
+        ("ādiccabandhun&amacr;",
+         "&ldquo;Kinsman of the Sun&rdquo; &mdash; an epithet for the "
+         "Buddha, from the solar lineage claimed by the Sakyan clan."),
+        ("ta&#7751;h&amacr;m&umacr;lavisosano",
+         "&ldquo;drying up the root of craving&rdquo; &mdash; one of "
+         "several active, forceful verbs describing the teaching's "
+         "effect."),
+        ("bhava&#7749; a&#7749;g&amacr;rak&amacr;su&#7749;va",
+         "&ldquo;all states of existence as a pit of burning "
+         "coals&rdquo; &mdash; the poem's starkest image for "
+         "continued rebirth."),
+        ("ariyo a&#7789;&#7789;ha&#7749;giko maggo",
+         "&ldquo;the noble eightfold path&rdquo; &mdash; named "
+         "directly in the closing verse, called bliss in itself."),
+        ("dukkh&umacr;pasamano sivo",
+         "&ldquo;the stilling of suffering, bliss&rdquo; &mdash; the "
+         "poem's final words."),
+    ],
+    text_intro=(
+        "The text in full: six verses, the sixth extended to six "
+        "lines, with no separate attribution line in this chapter. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag6.8:1.1-1.4"),
+        ("p", "&sect;2", "thag6.8:2.1-2.4"),
+        ("p", "&sect;3", "thag6.8:3.1-3.4"),
+        ("p", "&sect;4", "thag6.8:4.1-4.4"),
+        ("p", "&sect;5", "thag6.8:5.1-5.4"),
+        ("p", "&sect;6", "thag6.8:6.1-6.6"),
+    ],
+    quiz=[
+        {"q": "What does this poem's first verse describe?",
+         "opts": [
+             "A dialogue between two monks",
+             "A journey through a forest",
+             "A crisis at a charnel ground",
+             "The qualities of the teaching itself, taught by the Buddha"],
+         "correct": 3,
+         "expl": "'It was well-taught by the Clear-eyed One, the Buddha, Kinsman of the Sun.'"},
+        {"q": "How does this poem differ structurally from most others in this collection?",
+         "opts": [
+             "It has no narrative frame at all — no crisis, dialogue, or setting, just sustained praise of the teaching",
+             "It is the only poem with a narrative frame",
+             "It is written entirely as a question",
+             "It has no closing formula"],
+         "correct": 0,
+         "expl": "Six verses of cascading epithets for the Dhamma, with no episode narrated."},
+        {"q": "What kind of verbs describe the teaching's effect, especially in the second and third verses?",
+         "opts": [
+             "Gentle, passive verbs of stillness",
+             "Forceful, active verbs — drying up, cutting off, smashing, dropping a thunderbolt",
+             "No verbs at all, only nouns",
+             "Verbs describing physical construction"],
+         "correct": 1,
+         "expl": "An unusually martial register for a description of insight."},
+        {"q": "What image does the fourth verse use for continued existence?",
+         "opts": [
+             "An empty house",
+             "A gentle river",
+             "A pit of burning coals",
+             "A quiet garden"],
+         "correct": 2,
+         "expl": "'Contemplating with understanding all states of existence as a pit of burning coals.'"},
+        {"q": "What does this reading guide say about identifying this poem's Migajāla with the Migajāla of SN 35.63–64?",
+         "opts": [
+             "It denies any relation could exist",
+             "SN 35.63–64 has already been translated and directly confirms the link",
+             "It confidently asserts they are the same person",
+             "It treats the identification as possible, not confirmed, absent a comment or textual marker"],
+         "correct": 3,
+         "expl": "Following this collection's established practice of not identifying figures by name alone."},
+        {"q": "What do SN 35.63–64 (not yet translated on this site) concern?",
+         "opts": [
+             "Solitary dwelling and the six sense fields",
+             "The parable of the raft",
+             "The three knowledges",
+             "A dispute over robes"],
+         "correct": 0,
+         "expl": "Teachings addressed to a monk named Migajāla in the Saṃyutta Nikāya."},
+        {"q": "What does the sixth, extended verse call the noble eightfold path?",
+         "opts": [
+             "A difficult obligation",
+             "'Very sweet and very deep... the stilling of suffering, bliss'",
+             "A path reserved for the few",
+             "Not mentioned by name"],
+         "correct": 1,
+         "expl": "The path is named as pleasurable in itself, not merely instrumental."},
+        {"q": "What epithet for the Buddha appears in the first verse?",
+         "opts": [
+             "'Master of the seas'",
+             "No epithet is used",
+             "'Kinsman of the Sun' (ādiccabandhu)",
+             "'Lord of the mountains'"],
+         "correct": 2,
+         "expl": "From the solar lineage claimed by the Sakyan clan."},
+        {"q": "What does the third verse pair with 'breaking the root of unknowing'?",
+         "opts": [
+             "A description of almsfood",
+             "A list of precepts",
+             "A gentle lullaby image",
+             "The thunderbolt of knowledge"],
+         "correct": 3,
+         "expl": "'Ñāṇavajiranipātano' — dropping the thunderbolt of knowledge, an unusually forceful image."},
+        {"q": "How is this poem's length structured?",
+         "opts": [
+             "Six verses, the sixth extended to six lines, matching Thag 6.7's structure",
+             "Only three verses total",
+             "Twelve full verses",
+             "Exactly the book's baseline, six verses of four lines each"],
+         "correct": 0,
+         "expl": "The second poem in this book to share this specific extension pattern."},
+    ],
+    marginalia=[
+        ("Praise, with no story at all", [
+            "no crisis, no dialogue, no setting —",
+            "six verses on the teaching itself"
+        ]),
+        ("A thunderbolt of knowledge", [
+            "forceful verbs throughout — drying, cutting, smashing —",
+            "an unusually martial register"
+        ]),
+        ("A name shared, not claimed", [
+            "SN 35's Migaj&amacr;la, possibly this one —",
+            "no marker confirms it either way"
+        ]),
+        ("The path itself, called bliss", [
+            "not a means to pleasure later —",
+            "pleasurable already, in the walking of it"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag6.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-6.7.html">Thag 6.7 &mdash; K&amacr;tiy&amacr;na</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 6.9 — Jenta, the High Priest's Son
+# --------------------------------------------------------------------------- #
+page(
+    6, 9, "Jenta, the High Priest&rsquo;s Son", "Jenta, the High Priest&rsquo;s Son",
+    meta_title="Thag 6.9 — Jenta, the High Priest&rsquo;s Son | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jenta's verse on the conceit of birth, wealth, and beauty, "
+        "dissolved at the sight of the Buddha &mdash; distinguished "
+        "in the Pali title itself from the unrelated Jenta of the "
+        "Book of the Ones by the epithet &lsquo;son of the high "
+        "priest&rsquo;. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sixes &middot; Chapter One &middot; Poem 9 of 14",
+    glance=[
+        ("Setting", "General narrative, without further attribution"),
+        ("Speaker", "Jenta, son of a high priest, recounting his own "
+                    "former arrogance"),
+        ("Form", "Six four-line verses &mdash; conceit named, conceit "
+                 "witnessed by contrast, and conceit finally cut off"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, a clear before-and-after "
+                       "structure"),
+    ],
+    why=(
+        "&lsquo;I was drunk with the pride of birth and wealth and "
+        "authority... no-one was my equal or my better, or so I "
+        "thought,&rsquo; Jenta admits &mdash; before describing the "
+        "moment the sight of the Buddha, &lsquo;shining like the "
+        "sun, at the fore of the mendicant Sa&#7749;gha&rsquo;, "
+        "dissolved conceit he'd carried so completely he wouldn't "
+        "bow even to his own parents."),
+    guide=[
+        ("Two Jentas, distinguished in the Pali title itself", [
+            "This poem's Pali title, "
+            "Purohitaputtajentattheragāthā, builds the disambiguation "
+            "directly into the name: &lsquo;Verses of the Elder "
+            "Jenta, Son of the High Priest&rsquo;. This distinguishes "
+            "him explicitly from the unrelated Jenta of Thag 1.111, "
+            "whose own poem opens Chapter Twelve of the Book of the "
+            "Ones with a fourfold litany of hardship and shares only "
+            "a name and, coincidentally, the same never-identified "
+            "metre noted for Thag 6.2 earlier in this book &mdash; two "
+            "separate coincidences involving the name Jenta, not one."]),
+        ("Conceit named three times over, in escalating specificity", [
+            "The first three verses build from general intoxication "
+            "(&lsquo;drunk with the pride of birth and wealth and "
+            "authority... my own gorgeous body&rsquo;) to comparative "
+            "arrogance (&lsquo;no-one was my equal or my better&rsquo;) "
+            "to a specific, startling refusal: he wouldn't bow even "
+            "to his own mother and father, &lsquo;nor others esteemed "
+            "as respectable&rsquo;. The specificity increases with "
+            "each verse, ending on the detail most likely to unsettle "
+            "a listener."]),
+        ("A single sighting, described with solar imagery", [
+            "The fourth verse narrates the turning point in a single "
+            "image: &lsquo;tapantamiva ādicca&#7749;&rsquo;, "
+            "&lsquo;shining like the sun&rsquo;, describing the "
+            "Buddha &lsquo;at the fore of the mendicant "
+            "Sa&#7749;gha&rsquo;. No teaching is reported, no words "
+            "exchanged &mdash; the sight itself is what dissolves "
+            "conceit in the following verse."]),
+        ("Three grades of conceit, each named and cut off", [
+            "The final verse doesn't simply say &lsquo;conceit is "
+            "gone&rsquo;; it distinguishes three specific forms: "
+            "atim&amacr;na (conceit of superiority), om&amacr;na "
+            "(conceit of inferiority), and asmim&amacr;na, the subtle "
+            "root conceit &lsquo;I am&rsquo; that Buddhist psychology "
+            "treats as the last to fall, even after other forms of "
+            "pride have been abandoned. Naming all three distinguishes "
+            "this poem's closing verse from the more generic "
+            "conceit-abandonment language found elsewhere in this "
+            "collection."]),
+        ("A structure built on reversal, not gradual practice", [
+            "Unlike poems describing years of meditation practice "
+            "toward realization, this poem's drama turns on a single "
+            "encounter &mdash; conceit built up across three verses, "
+            "then dissolved in one sighting and confirmed in one "
+            "closing verse. The compression itself is part of the "
+            "poem's rhetorical force."]),
+    ],
+    terms=[
+        ("j&amacr;timadena mattoha&#7749;",
+         "&ldquo;I was drunk with the pride of birth&rdquo; &mdash; "
+         "the poem's opening self-description."),
+        ("purohitaputta",
+         "&ldquo;son of the high priest&rdquo; &mdash; the epithet "
+         "distinguishing this elder from the unrelated Jenta of Thag "
+         "1.111."),
+        ("m&amacr;natthaddho an&amacr;daro",
+         "&ldquo;stiff with pride, lacking regard for others&rdquo; "
+         "&mdash; the state that kept him from bowing even to his "
+         "own parents."),
+        ("atim&amacr;no ca om&amacr;no",
+         "&ldquo;the conceit of superiority and the conceit of "
+         "inferiority&rdquo; &mdash; two of three specific forms "
+         "named in the closing verse."),
+        ("asmim&amacr;no samucchinno",
+         "&ldquo;the conceit &lsquo;I am&rsquo; is cut off&rdquo; "
+         "&mdash; the third and most subtle form, traditionally the "
+         "last to fall."),
+    ],
+    text_intro=(
+        "The text in full: six verses, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag6.9:1.1-1.4"),
+        ("p", "&sect;2", "thag6.9:2.1-2.4"),
+        ("p", "&sect;3", "thag6.9:3.1-3.4"),
+        ("p", "&sect;4", "thag6.9:4.1-4.4"),
+        ("p", "&sect;5", "thag6.9:5.1-5.4"),
+        ("p", "&sect;6", "thag6.9:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What was Jenta drunk with, according to the opening verse?",
+         "opts": [
+             "The pride of birth, wealth, and authority",
+             "Wine",
+             "Fear",
+             "Grief over a loss"],
+         "correct": 0,
+         "expl": "'I was drunk with the pride of birth and wealth and authority.'"},
+        {"q": "How does this poem's Pali title distinguish this Jenta from Thag 1.111's Jenta?",
+         "opts": [
+             "It doesn't — the two names are simply identical with no distinction",
+             "By the epithet 'son of the high priest' (purohitaputta), built directly into the title",
+             "By a different spelling of the name",
+             "By listing a different home village"],
+         "correct": 1,
+         "expl": "Purohitaputtajentattheragāthā — the disambiguation is built into the Pali title itself."},
+        {"q": "What surprising detail does the third verse reveal about Jenta's former conceit?",
+         "opts": [
+             "He gave away all his possessions",
+             "He refused to eat with others",
+             "He wouldn't bow even to his own mother and father",
+             "He refused to speak at all"],
+         "correct": 2,
+         "expl": "'I never paid homage to anyone: not even my mother or father.'"},
+        {"q": "What image describes the Buddha in the fourth verse?",
+         "opts": [
+             "Sitting alone in silence",
+             "Speaking a long teaching",
+             "Walking through a marketplace",
+             "Shining like the sun, at the fore of the mendicant Saṅgha"],
+         "correct": 3,
+         "expl": "No teaching is reported, no words exchanged — the sight itself dissolves his conceit."},
+        {"q": "How many specific forms of conceit does the closing verse name?",
+         "opts": [
+             "Three — conceit of superiority, conceit of inferiority, and the root conceit 'I am'",
+             "Five",
+             "None — conceit is mentioned only vaguely",
+             "One general form only"],
+         "correct": 0,
+         "expl": "Atimāna, omāna, and asmimāna, the last traditionally the most subtle and last to fall."},
+        {"q": "What is asmimāna, named in the final verse?",
+         "opts": [
+             "A physical illness",
+             "The subtle root conceit 'I am'",
+             "A specific monastic rule",
+             "A type of almsfood"],
+         "correct": 1,
+         "expl": "Treated in Buddhist psychology as the last conceit to fall, even after grosser forms are abandoned."},
+        {"q": "What structural feature distinguishes this poem's drama from poems describing years of gradual practice?",
+         "opts": [
+             "It has no resolution at all",
+             "It is written entirely in questions",
+             "It turns on a single encounter — conceit built up, then dissolved in one sighting",
+             "It describes decades of slow progress in detail"],
+         "correct": 2,
+         "expl": "Compression is part of the poem's rhetorical force."},
+        {"q": "What word describes Jenta's former state toward others, in the third verse?",
+         "opts": [
+             "Fearful and withdrawn",
+             "Curious and welcoming",
+             "Generous and warm",
+             "Stiff with pride, lacking regard for others (mānatthaddho anādaro)"],
+         "correct": 3,
+         "expl": "The specific phrase closing the third verse."},
+        {"q": "What coincidence, beyond the shared name, links Thag 1.111's Jenta to Thag 6.2 (Tekicchakāri), not this poem?",
+         "opts": [
+             "Both share the never-identified metre Sujato notes",
+             "Both are described as sons of high priests",
+             "Both take place at the same charnel ground",
+             "There is no coincidence at all"],
+         "correct": 0,
+         "expl": "Two separate coincidences involving the name Jenta — the metre note belongs to Thag 1.111 and Thag 6.2, not this poem."},
+        {"q": "What does the second verse say Jenta thought of himself, relative to others?",
+         "opts": [
+             "That he was inferior to everyone",
+             "That no-one was his equal or his better",
+             "That he was exactly average",
+             "He gave no thought to comparison at all"],
+         "correct": 1,
+         "expl": "'Nāttano samakaṁ kañci, atirekaṁ ca maññisaṁ' — or so he thought."},
+    ],
+    marginalia=[
+        ("Two Jentas, one name", [
+            "'son of the high priest' in the title itself —",
+            "distinguished from the Ones' own Jenta"
+        ]),
+        ("Conceit, named with precision", [
+            "wouldn't bow even to his own parents —",
+            "specificity building toward the turn"
+        ]),
+        ("One sighting, no words exchanged", [
+            "shining like the sun, at the Sa&#7749;gha's fore —",
+            "the sight alone dissolves conceit"
+        ]),
+        ("Three conceits, all cut off", [
+            "superiority, inferiority, and 'I am' —",
+            "the subtlest named last, as it falls last"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag6.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.111.html">Thag 1.111 &mdash; Jenta</a> '
+        "&mdash; a different, unrelated elder sharing only this name, "
+        "in the Book of the Ones.",
+        '<a href="thag-6.8.html">Thag 6.8 &mdash; Migaj&amacr;la</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 6.10 — Sumana (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    6, 10, "Sumana (2nd)", "Sumana (2nd)",
+    meta_title="Thag 6.10 — Sumana (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sumana's verse, a seven-year-old novice who subdues a "
+        "mighty serpent king and carries water for his mentor "
+        "Anuruddha &mdash; completing this collection's Sumana pair, "
+        "begun with Thag 5.4. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sixes &middot; Chapter One &middot; Poem 10 of 14",
+    glance=[
+        ("Setting", "Lake Anotatta and its surroundings, with an "
+                    "internal narration by both Sumana and the "
+                    "Buddha"),
+        ("Speaker", "Sumana (2nd), a seven-year-old novice under "
+                    "Anuruddha, quoting the Buddha's own words to "
+                    "S&amacr;riputta"),
+        ("Form", "Six four-line verses, shifting between three "
+                 "voices"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain narrative vocabulary, multiple named "
+                       "figures to track"),
+    ],
+    why=(
+        "&lsquo;I was only seven years old and had just gone forth "
+        "when I overcame the mighty adder king with my psychic "
+        "powers,&rsquo; Sumana opens &mdash; before the poem shifts "
+        "voice entirely, quoting the Buddha himself pointing Sumana "
+        "out to S&amacr;riputta as an example of a well-trained "
+        "novice, &lsquo;made a thoroughbred by a thoroughbred&rsquo; "
+        "under his mentor Anuruddha."),
+    guide=[
+        ("A child prodigy, stated as fact without elaboration", [
+            "The poem's opening claim &mdash; seven years old, "
+            "newly gone forth, already able to overcome a "
+            "&lsquo;mighty adder king&rsquo; (pannagindaṁ "
+            "mahiddhika&#7749;) through psychic power &mdash; is "
+            "delivered flatly, without any framing as remarkable. The "
+            "poem treats the child's attainment as simply true, "
+            "leaving the reader to register its strangeness "
+            "unassisted."]),
+        ("Three voices in six short verses", [
+            "The poem shifts speaker twice: Sumana narrates the "
+            "opening two verses in his own voice; the third and "
+            "fourth verses quote the Buddha directly, addressing "
+            "S&amacr;riputta by name (&lsquo;S&amacr;riputta, see "
+            "this young boy coming&rsquo;); the fifth verse continues "
+            "in this reported voice describing Anuruddha's training; "
+            "the sixth returns to third-person narration of Sumana's "
+            "own attainment and his private wish. This layering of "
+            "voices within so short a poem is unusual even within "
+            "this collection's variety of forms."]),
+        ("Completing this collection's Sumana pair", [
+            "This poem's speaker is explicitly numbered &lsquo;(2nd)&rsquo; "
+            "against Thag 5.4's Sumana, following the same "
+            "disambiguation-by-ordinal convention already used for "
+            "this collection's two Kassapa pairs and elsewhere. The "
+            "two Sumanas share only a name; nothing in either poem "
+            "suggests a further connection between them."]),
+        ("Anuruddha, mentor to a child prodigy not yet given his own page", [
+            "Anuruddha, named directly as Sumana's teacher (&lsquo;he "
+            "is Anuruddha's novice&rsquo;), is renowned in the wider "
+            "canon chiefly for his own mastery of the divine eye and "
+            "for his extensive verses much later in the "
+            "Therag&amacr;th&amacr; &mdash; in the Book of the "
+            "Twenties, far beyond where this project has yet reached. "
+            "This poem offers a first, secondary glimpse of him "
+            "through a student's eyes, well before his own verses "
+            "come into view."]),
+        ("A closing wish for anonymity, not recognition", [
+            "The poem's final line reports Sumana's own private wish "
+            "&mdash; &lsquo;m&amacr; ma&#7749; ja&ntilde;&ntilde;āti "
+            "icchat&imacr;&rsquo;, &lsquo;may no-one find me "
+            "out!&rsquo; &mdash; even after &lsquo;attaining "
+            "ultimate peace and witnessing the unshakable&rsquo;. A "
+            "seven-year-old novice's attainment, reported through "
+            "someone else's praise, closes on his own desire not to "
+            "be singled out for it."]),
+    ],
+    terms=[
+        ("pannagindaṁ mahiddhika&#7749;",
+         "&ldquo;the mighty adder king&rdquo; &mdash; the being "
+         "Sumana overcomes through psychic power at age seven."),
+        ("anotatt&amacr; mah&amacr;sar&amacr;",
+         "&ldquo;the great lake Anotatta&rdquo; &mdash; the "
+         "legendary lake from which Sumana fetches water for his "
+         "mentor."),
+        ("&amacr;j&amacr;n&imacr;yena &amacr;ja&ntilde;&ntilde;o",
+         "&ldquo;made a thoroughbred by a thoroughbred&rdquo; "
+         "&mdash; the Buddha's description of Sumana's training "
+         "under Anuruddha."),
+        ("s&amacr;ma&#7751;ero",
+         "&ldquo;novice&rdquo; &mdash; Sumana's formal status, not "
+         "yet a fully ordained monk, at the time of this poem's "
+         "events."),
+        ("m&amacr; ma&#7749; ja&ntilde;&ntilde;āti icchat&imacr;",
+         "&ldquo;may no-one find me out!&rdquo; &mdash; the poem's "
+         "closing report of Sumana's own private wish."),
+    ],
+    text_intro=(
+        "The text in full: six verses, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag6.10:1.1-1.4"),
+        ("p", "&sect;2", "thag6.10:2.1-2.4"),
+        ("p", "&sect;3", "thag6.10:3.1-3.4"),
+        ("p", "&sect;4", "thag6.10:4.1-4.4"),
+        ("p", "&sect;5", "thag6.10:5.1-5.4"),
+        ("p", "&sect;6", "thag6.10:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "How old was Sumana when he went forth, according to the opening verse?",
+         "opts": [
+             "His age is not given",
+             "Seven years old",
+             "Twenty years old",
+             "An infant"],
+         "correct": 1,
+         "expl": "'I was only seven years old and had just gone forth.'"},
+        {"q": "What does the young Sumana overcome through psychic power?",
+         "opts": [
+             "A fire",
+             "A rival monk",
+             "A mighty adder king (a serpent being)",
+             "A drought"],
+         "correct": 2,
+         "expl": "'I overcame the mighty adder king with my psychic powers.'"},
+        {"q": "How many distinct speaking voices appear across this short poem?",
+         "opts": [
+             "Two, alternating strictly verse by verse",
+             "None — it is purely descriptive",
+             "One only, Sumana throughout",
+             "Three — Sumana's own narration, the Buddha's reported speech to Sāriputta, and third-person narration"],
+         "correct": 3,
+         "expl": "An unusual layering of voices within so short a poem."},
+        {"q": "Who does the Buddha address directly, in the third verse's reported speech?",
+         "opts": [
+             "Sāriputta",
+             "Anuruddha",
+             "Sumana himself",
+             "Ānanda"],
+         "correct": 0,
+         "expl": "'Sāriputta, see this young boy coming.'"},
+        {"q": "Who is named as Sumana's mentor and teacher?",
+         "opts": [
+             "Sāriputta",
+             "Anuruddha",
+             "No teacher is named",
+             "The Buddha directly"],
+         "correct": 1,
+         "expl": "'He is Anuruddha's novice... educated and trained by Anuruddha.'"},
+        {"q": "How does this poem's speaker relate to Thag 5.4's Sumana?",
+         "opts": [
+             "Thag 5.4 does not feature a Sumana",
+             "They are explicitly the same person",
+             "They share only a name, numbered '(1st)' and '(2nd)' by convention, with no further connection suggested",
+             "This poem's Sumana is described as Thag 5.4's teacher"],
+         "correct": 2,
+         "expl": "Following the same disambiguation-by-ordinal convention used elsewhere in this collection."},
+        {"q": "What does the poem's final line report as Sumana's own private wish?",
+         "opts": [
+             "To return to lay life",
+             "To travel to another country",
+             "To be recognized publicly for his attainment",
+             "'May no-one find me out!' — even after attaining ultimate peace"],
+         "correct": 3,
+         "expl": "A wish for anonymity, closing a poem largely composed of others' praise."},
+        {"q": "What is Anuruddha chiefly renowned for in the wider canon?",
+         "opts": [
+             "Mastery of the divine eye, and extensive verses much later in the Theragātha",
+             "Founding a separate monastic order",
+             "Composing the Vinaya",
+             "Teaching only laypeople"],
+         "correct": 0,
+         "expl": "His own Theragātha verses lie in the Book of the Twenties, far beyond where this project has yet reached."},
+        {"q": "Where does Sumana fetch water for his mentor, in the second verse?",
+         "opts": [
+             "A nearby well",
+             "The great lake Anotatta",
+             "A river in the village",
+             "No specific source is named"],
+         "correct": 1,
+         "expl": "A legendary lake, underscoring the extraordinary quality of the episode."},
+        {"q": "How does the poem present the child's attainment — as remarkable or as simple fact?",
+         "opts": [
+             "It denies the attainment occurred",
+             "As remarkable, with extensive commentary on its strangeness",
+             "As simply true, delivered flatly without special framing",
+             "As doubtful and unverified"],
+         "correct": 2,
+         "expl": "The poem leaves the reader to register the strangeness unassisted."},
+    ],
+    marginalia=[
+        ("Seven years old, already this", [
+            "a serpent king overcome by psychic power —",
+            "stated flatly, without comment"
+        ]),
+        ("Three voices, six short verses", [
+            "Sumana, then the Buddha, then narration again —",
+            "unusual layering for so brief a poem"
+        ]),
+        ("A thoroughbred, trained by a thoroughbred", [
+            "Anuruddha's novice, praised by name —",
+            "his own verses still many books away"
+        ]),
+        ("A wish not to be found out", [
+            "ultimate peace, then a plea for anonymity —",
+            "closing on the opposite of recognition"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag6.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-5.4.html">Thag 5.4 &mdash; Sumana (1st)</a> '
+        "&mdash; the collection's other Sumana, sharing only the "
+        "name.",
+        '<a href="thag-6.9.html">Thag 6.9 &mdash; Jenta, the High '
+        "Priest&rsquo;s Son</a> &mdash; the poem immediately before "
+        "this one, in the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 6.11 — Nh&amacr;takamuni
+# --------------------------------------------------------------------------- #
+page(
+    6, 11, "Nh&amacr;takamuni", "Nh&amacr;takamuni",
+    meta_title="Thag 6.11 — Nh&amacr;takamuni | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Nh&amacr;takamuni's verse &mdash; a dialogue whose opening "
+        "two verses are near-verbatim duplicates of Thag 5.8 "
+        "(Vakkal&imacr;), a forest-dwelling monk once more asked how "
+        "he'll cope, struck by a wind ailment. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Book of the Sixes &middot; Chapter One &middot; Poem 11 of 14",
+    glance=[
+        ("Setting", "A forest grove, in a rough alms district"),
+        ("Speaker", "Two voices: an unnamed questioner, and "
+                    "Nh&amacr;takamuni answering"),
+        ("Form", "Six four-line verses, opening as dialogue before "
+                 "settling into first-person declaration"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, notable mainly for its "
+                       "textual echo of an earlier poem"),
+    ],
+    why=(
+        "&lsquo;Struck by a wind ailment while dwelling in a forest "
+        "grove... how will you get by, monk?&rsquo; &mdash; the same "
+        "question, in nearly the same words, already asked of "
+        "Vakkal&imacr; in Thag 5.8. This poem's opening two verses "
+        "are the closest verbatim repetition yet found across "
+        "different named elders in this collection, raising, without "
+        "resolving, the question of a shared formula circulating "
+        "between separate poems."),
+    guide=[
+        ("A near-verbatim repetition, verse for verse", [
+            "Thag 6.11's opening verse &mdash; &lsquo;vātarogābhinīto "
+            "tvaṁ, viharaṁ kānane vane... kathaṁ bhikkhu "
+            "karissasi&rsquo; &mdash; matches Thag 5.8's opening "
+            "verse word for word but for a single term "
+            "(paviddhagocare against paviṭṭhagocare, likely a "
+            "manuscript variant rather than a meaningful "
+            "difference). The second verse, describing pervading "
+            "&lsquo;this bag of bones&rsquo; with rapture and "
+            "happiness to dwell in the forest despite hardship, "
+            "matches Thag 5.8's second verse exactly. Two full verses "
+            "shared between two different named elders, in two "
+            "different books, is a stronger duplication than most "
+            "single-line echoes noted elsewhere in this collection."]),
+        ("Where the two poems diverge", [
+            "After the shared opening, the poems part ways: Thag "
+            "5.8 (Vakkal&imacr;) continues with mindfulness "
+            "meditation, admiration for energetic companions, and "
+            "recollection of the Buddha, each verse closing "
+            "&lsquo;I'll dwell in the forest&rsquo;. This poem "
+            "instead moves to the seven awakening factors, then "
+            "explicit claims of freedom from corruptions, the "
+            "aggregates fully understood, and the ending of "
+            "suffering &mdash; a more doctrinally dense, less "
+            "refrain-based continuation."]),
+        ("A shared formula, not a shared identity", [
+            "This reading guide draws no conclusion about whether "
+            "one poem quotes the other, whether both draw on a "
+            "common oral formula for &lsquo;forest-dwelling monk "
+            "questioned about hardship&rsquo;, or whether the "
+            "overlap reflects something else in the text's "
+            "transmission history. It records the match as a fact "
+            "worth noting, following this collection's established "
+            "practice with the Bākula/Hārita/Subhūta case and "
+            "several shared single-line formulas already documented "
+            "elsewhere in this project."]),
+        ("A doctrinally compressed closing sequence", [
+            "The poem's final three verses move rapidly through a "
+            "purified mind, review of that purity, and full "
+            "understanding of the five aggregates &mdash; "
+            "&lsquo;they remain, but their root is cut&rsquo; "
+            "&mdash; before closing on this collection's familiar "
+            "formula, &lsquo;the ending of suffering... no more "
+            "future lives&rsquo;. The pace and density of this "
+            "closing sequence contrast with the plainer, "
+            "refrain-based structure of Thag 5.8's parallel "
+            "passage."]),
+        ("The name itself: 'sage of the bathed'", [
+            "Nh&amacr;takamuni can be read as &lsquo;sage who has "
+            "bathed&rsquo; or &lsquo;sage of ablution&rsquo;, "
+            "possibly signaling a background among brahmin ritual "
+            "bathers before going forth, though this poem's own text "
+            "gives no biographical detail to confirm or elaborate on "
+            "that reading."]),
+    ],
+    terms=[
+        ("v&amacr;tarog&amacr;bhin&imacr;to",
+         "&ldquo;struck by a wind ailment&rdquo; &mdash; the "
+         "condition opening this poem, worded almost identically to "
+         "Thag 5.8's opening."),
+        ("p&imacr;tisukhena vipulena",
+         "&ldquo;with abundant rapture and happiness&rdquo; &mdash; "
+         "the second verse's opening phrase, matching Thag 5.8 "
+         "exactly."),
+        ("satta bojjhaṅge",
+         "&ldquo;the seven awakening factors&rdquo; &mdash; named in "
+         "the third verse, where this poem's path diverges from "
+         "Thag 5.8's."),
+        ("suddhacitta&#7749; an&amacr;vila&#7749;",
+         "&ldquo;my pure mind is unclouded&rdquo; &mdash; the fourth "
+         "verse's central claim."),
+        ("pa&ntilde;cakkhandh&amacr; pari&ntilde;&ntilde;āt&amacr;",
+         "&ldquo;the five aggregates are fully understood&rdquo; "
+         "&mdash; the sixth verse's claim, their &lsquo;root cut&rsquo; "
+         "though they remain."),
+    ],
+    text_intro=(
+        "The text in full: six verses, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag6.11:1.1-1.4"),
+        ("p", "&sect;2", "thag6.11:2.1-2.4"),
+        ("p", "&sect;3", "thag6.11:3.1-3.4"),
+        ("p", "&sect;4", "thag6.11:4.1-4.4"),
+        ("p", "&sect;5", "thag6.11:5.1-5.4"),
+        ("p", "&sect;6", "thag6.11:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What question opens this poem?",
+         "opts": [
+             "Why have you left the monastery?",
+             "Where is your teacher?",
+             "How will you get by, struck by a wind ailment, in a rough forest resort for alms?",
+             "What is your name?"],
+         "correct": 2,
+         "expl": "Nearly word-for-word the same question already asked of Vakkalī in Thag 5.8."},
+        {"q": "How closely does this poem's opening two verses match Thag 5.8's opening two verses?",
+         "opts": [
+             "Identical only in their closing line",
+             "No resemblance at all",
+             "A loose thematic similarity only",
+             "Near-verbatim — matching word for word but for one likely manuscript variant"],
+         "correct": 3,
+         "expl": "The strongest full-verse duplication yet found between two different named elders in this collection."},
+        {"q": "Where do the two poems (Thag 5.8 and this one) diverge?",
+         "opts": [
+             "After the shared opening, this poem moves toward the seven awakening factors and a denser doctrinal close, unlike Thag 5.8's refrain structure",
+             "They diverge immediately, sharing nothing",
+             "Thag 5.8 is twice as long",
+             "They never diverge — they are identical throughout"],
+         "correct": 0,
+         "expl": "Thag 5.8 repeats 'I'll dwell in the forest' as a refrain; this poem moves to more compressed doctrinal claims."},
+        {"q": "What conclusion does this reading guide draw about why the two poems share this material?",
+         "opts": [
+             "It confidently asserts one poem borrowed from the other",
+             "It records the match as a fact worth noting, without asserting a specific explanation",
+             "It denies any real similarity exists",
+             "It claims both poems were composed by the same person"],
+         "correct": 1,
+         "expl": "Following this collection's established cautious practice with other shared-material cases."},
+        {"q": "What does the third verse name, marking this poem's divergence from Thag 5.8?",
+         "opts": [
+             "The names of other elders",
+             "A description of alms food",
+             "The seven awakening factors, the faculties, and the powers",
+             "A list of monastic robes"],
+         "correct": 2,
+         "expl": "A more doctrinally dense continuation than Thag 5.8's parallel passage."},
+        {"q": "What does the sixth verse say about the five aggregates?",
+         "opts": [
+             "They are not discussed",
+             "They will return in a future life",
+             "They have vanished entirely",
+             "They are fully understood, remaining but with their root cut"],
+         "correct": 3,
+         "expl": "'Pañcakkhandhā pariññātā, tiṭṭhanti chinnamūlakā.'"},
+        {"q": "What does the poem's final line declare?",
+         "opts": [
+             "The ending of suffering — no more future lives",
+             "A request for more almsfood",
+             "Uncertainty about the path ahead",
+             "A wish to return to lay life"],
+         "correct": 0,
+         "expl": "This collection's familiar closing formula for full awakening."},
+        {"q": "What does the name Nhātakamuni possibly signal, per this reading guide?",
+         "opts": [
+             "A confirmed royal lineage",
+             "Possibly a background among brahmin ritual bathers, though the poem gives no confirming detail",
+             "A confirmed connection to Vakkalī personally",
+             "Nothing — the name has no plausible reading"],
+         "correct": 1,
+         "expl": "'Sage who has bathed' or 'sage of ablution' — a cautious reading, not asserted as fact."},
+        {"q": "What does the fourth verse claim about the speaker's mind?",
+         "opts": [
+             "It remains attached to sensual pleasure",
+             "It is still troubled by doubt",
+             "It is pure and unclouded, freed from corruptions",
+             "It has not yet been examined"],
+         "correct": 2,
+         "expl": "'Vippamuttaṁ kilesehi, suddhacittaṁ anāvilaṁ.'"},
+        {"q": "What collection-wide practice does this poem's treatment follow?",
+         "opts": [
+             "Ignoring all cross-poem textual echoes",
+             "Deleting one of the two duplicate poems",
+             "Silently correcting apparent duplications as errors",
+             "Recording textual overlaps as facts worth noting, without overclaiming an explanation — as with the Bākula/Hārita/Subhūta case"],
+         "correct": 3,
+         "expl": "A consistent, cautious editorial approach applied across this whole project."},
+    ],
+    marginalia=[
+        ("The same question, twice", [
+            "struck by wind, dwelling in a forest grove —",
+            "nearly Vakkal&imacr;'s own opening, word for word"
+        ]),
+        ("Two verses shared, then a parting", [
+            "the strongest full-verse echo in this collection —",
+            "recorded here, not explained away"
+        ]),
+        ("Awakening factors, not a refrain", [
+            "this poem's own path, once it diverges —",
+            "denser, less repetitive than its twin opening"
+        ]),
+        ("Aggregates, rooted and cut", [
+            "they remain, but nothing grows from them —",
+            "closing on suffering's ending"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag6.11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-5.8.html">Thag 5.8 &mdash; Vakkal&imacr;</a> '
+        "&mdash; the poem whose opening two verses this one echoes "
+        "near-verbatim.",
+        '<a href="thag-6.10.html">Thag 6.10 &mdash; Sumana (2nd)</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 6.12 — Brahmadatta
+# --------------------------------------------------------------------------- #
+page(
+    6, 12, "Brahmadatta", "Brahmadatta",
+    meta_title="Thag 6.12 — Brahmadatta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Brahmadatta's verse on meeting anger without anger &mdash; "
+        "invoking, by name, the simile of the saw and the simile of "
+        "the child's flesh, both already translated on this site as "
+        "MN 21 and SN 12.63. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sixes &middot; Chapter One &middot; Poem 12 of 14",
+    glance=[
+        ("Setting", "General teaching on anger and craving, without "
+                    "further attribution"),
+        ("Speaker", "Brahmadatta, on meeting anger without anger"),
+        ("Form", "Six four-line verses, moving from question to "
+                 "practical instruction"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, references to two named "
+                       "similes"),
+    ],
+    why=(
+        "&lsquo;Whence anger for one free of anger, tamed, living "
+        "justly?&rsquo; Brahmadatta opens with a rhetorical question, "
+        "before turning practical: when anger arises, remember the "
+        "simile of the saw; when craving for flavors arises, remember "
+        "the simile of the child's flesh &mdash; both named directly "
+        "by their titles, both already translated in full elsewhere "
+        "on this site."),
+    guide=[
+        ("A battle won by not fighting", [
+            "The second verse states the poem's central paradox "
+            "plainly: &lsquo;when you get angry at an angry person "
+            "you just make things worse for yourself... when you "
+            "don't get angry at an angry person you win a battle "
+            "hard to win&rsquo;. Restraint is reframed not as "
+            "passivity but as the harder, more decisive victory."]),
+        ("Two named similes, invoked rather than retold", [
+            "The fifth verse doesn't retell either simile in full "
+            "&mdash; it simply names them, trusting the listener "
+            "already knows the stories: &lsquo;reflect on the simile "
+            "of the saw (kakac&umacr;pama&#7749;)&rsquo; for anger, "
+            "&lsquo;remember the simile of the child's flesh "
+            "(puttama&#7749;s&umacr;pama&#7749;)&rsquo; for craving. "
+            "Both are already translated in full on this site: the "
+            "saw simile as "
+            "<a href=\"../majjhima-nikaya/mn-021.html\">MN 21, The "
+            "Simile of the Saw</a>, and the child's-flesh simile as "
+            "<a href=\"../samyutta-nikaya/sn-12.63.html\">SN 12.63, "
+            "A Child's Flesh</a>."]),
+        ("Healing both sides of a conflict", [
+            "The fourth verse makes an unusual claim: &lsquo;people "
+            "inexpert in the teaching consider one who heals both "
+            "oneself and the other to be a fool&rsquo;. What looks, "
+            "from outside, like weakness or foolishness &mdash; "
+            "refusing to escalate a quarrel &mdash; is reframed as "
+            "the wiser course, one simply unrecognized by those who "
+            "don't understand the teaching."]),
+        ("A cow eating grain, for a wandering mind", [
+            "The final verse closes on a third, unnamed simile of "
+            "its own: a mind running toward sensual pleasures and "
+            "future lives should be curbed with mindfulness "
+            "&lsquo;as one would curb a greedy cow eating "
+            "grain&rsquo;. This homely, everyday image contrasts "
+            "with the two weightier named similes invoked two verses "
+            "earlier."]),
+        ("A practical manual in miniature", [
+            "Across six verses, this poem moves from a rhetorical "
+            "question about anger's absence, through a paradox about "
+            "who really wins a quarrel, to two specific named "
+            "similes serving as memory-aids, and finally to a "
+            "third homely image &mdash; assembling, in effect, a "
+            "compact practical toolkit for meeting anger and craving "
+            "as they arise, rather than a single sustained argument."]),
+    ],
+    terms=[
+        ("akkodhassa kuto kodho",
+         "&ldquo;whence anger for one free of anger&rdquo; &mdash; "
+         "the poem's opening rhetorical question."),
+        ("kakac&umacr;pama&#7749;",
+         "&ldquo;the simile of the saw&rdquo; &mdash; invoked by "
+         "name, already translated in full on this site as MN 21."),
+        ("puttama&#7749;s&umacr;pama&#7749;",
+         "&ldquo;the simile of the child's flesh&rdquo; &mdash; "
+         "invoked by name, already translated in full on this site "
+         "as SN 12.63."),
+        ("dhammassa akovid&amacr;",
+         "&ldquo;inexpert in the teaching&rdquo; &mdash; those who "
+         "mistake the healer of both sides of a quarrel for a fool."),
+        ("kiṭṭh&amacr;da&#7749; viya duppasu&#7749;",
+         "&ldquo;as one would curb a greedy cow eating grain&rdquo; "
+         "&mdash; the poem's closing, homelier simile for curbing a "
+         "wandering mind."),
+    ],
+    text_intro=(
+        "The text in full: six verses, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag6.12:1.1-1.4"),
+        ("p", "&sect;2", "thag6.12:2.1-2.4"),
+        ("p", "&sect;3", "thag6.12:3.1-3.4"),
+        ("p", "&sect;4", "thag6.12:4.1-4.4"),
+        ("p", "&sect;5", "thag6.12:5.1-5.4"),
+        ("p", "&sect;6", "thag6.12:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What question opens this poem?",
+         "opts": [
+             "A question about food",
+             "A question about the weather",
+             "A question about another elder's whereabouts",
+             "'Whence anger for one free of anger, tamed, living justly?'"],
+         "correct": 3,
+         "expl": "A rhetorical question opening the poem's meditation on anger."},
+        {"q": "What paradox does the second verse state?",
+         "opts": [
+             "Getting angry at an angry person makes things worse; not getting angry wins a hard battle",
+             "Anger always leads to victory",
+             "There is no relationship between anger and outcome",
+             "Anger should be expressed fully, always"],
+         "correct": 0,
+         "expl": "Restraint reframed as the harder, more decisive victory, not mere passivity."},
+        {"q": "What two named similes does the fifth verse invoke?",
+         "opts": [
+             "The simile of the raft and the simile of the elephant",
+             "The simile of the saw, and the simile of the child's flesh",
+             "The simile of the mustard seed and the simile of the lamp",
+             "No similes are named"],
+         "correct": 1,
+         "expl": "Both invoked by name only, trusting the listener already knows the stories."},
+        {"q": "Where is the simile of the saw already translated in full on this site?",
+         "opts": [
+             "It is not translated on this site",
+             "SN 12.63",
+             "MN 21, The Simile of the Saw",
+             "DN 16"],
+         "correct": 2,
+         "expl": "The fifth verse names it (kakacūpamaṁ) rather than retelling it."},
+        {"q": "Where is the simile of the child's flesh already translated in full on this site?",
+         "opts": [
+             "AN 3.131",
+             "It is not translated on this site",
+             "MN 21",
+             "SN 12.63, A Child's Flesh"],
+         "correct": 3,
+         "expl": "Invoked for craving for flavors, as puttamaṁsūpamaṁ."},
+        {"q": "What does the fourth verse say about how people inexpert in the teaching view one who heals both sides of a conflict?",
+         "opts": [
+             "They consider this person a fool",
+             "They ignore this person entirely",
+             "They punish this person",
+             "They admire this person greatly"],
+         "correct": 0,
+         "expl": "What looks like weakness from outside is reframed as the wiser course."},
+        {"q": "What image closes the poem's final verse?",
+         "opts": [
+             "A fire being lit",
+             "A cow eating grain, curbed with mindfulness",
+             "A ship crossing the ocean",
+             "A bird building a nest"],
+         "correct": 1,
+         "expl": "A homely, everyday image, contrasting with the two weightier named similes invoked earlier."},
+        {"q": "What is the third verse's central concern?",
+         "opts": [
+             "Punishing an angry person",
+             "Ignoring anger entirely",
+             "Acting for the good of both oneself and the other, when the other is angry",
+             "Avoiding all contact with angry people"],
+         "correct": 2,
+         "expl": "'Ubhinnamatthaṁ carati, attano ca parassa ca.'"},
+        {"q": "How does this poem's overall structure work, across its six verses?",
+         "opts": [
+             "As a purely narrative account of one event",
+             "As a list of unrelated proverbs",
+             "As one single sustained argument with no shifts",
+             "As a compact practical toolkit — question, paradox, two named similes, and a closing homely image"],
+         "correct": 3,
+         "expl": "Assembling several distinct practical tools for meeting anger and craving as they arise."},
+        {"q": "What should be curbed with mindfulness, according to the sixth verse?",
+         "opts": [
+             "A mind running toward sensual pleasures and future lives",
+             "Physical hunger only",
+             "Speech alone",
+             "Nothing — the sixth verse describes only stillness"],
+         "correct": 0,
+         "expl": "'Sace dhāvati cittaṁ te, kāmesu ca bhavesu ca.'"},
+    ],
+    marginalia=[
+        ("A battle won by restraint", [
+            "not getting angry at anger —",
+            "reframed as the harder victory"
+        ]),
+        ("Two similes, named not retold", [
+            "the saw, the child's flesh —",
+            "already told in full elsewhere on this site"
+        ]),
+        ("Healing both sides, called foolish", [
+            "by those who don't understand the teaching —",
+            "wisdom mistaken for weakness"
+        ]),
+        ("A cow, eating grain", [
+            "the closing image, homelier than the rest —",
+            "mindfulness as a simple curb"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag6.12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-021.html">MN 21 &mdash; The '
+        "Simile of the Saw</a> &mdash; invoked by name in this "
+        "poem's fifth verse.",
+        '<a href="../samyutta-nikaya/sn-12.63.html">SN 12.63 &mdash; '
+        "A Child&rsquo;s Flesh</a> &mdash; the second simile invoked "
+        "by name in the same verse.",
+        '<a href="thag-6.11.html">Thag 6.11 &mdash; Nh&amacr;takamuni</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 6.13 — Sirima&#7751;&#7693;a
+# --------------------------------------------------------------------------- #
+page(
+    6, 13, "Sirima&#7751;&#7693;a", "Sirima&#7751;&#7693;a",
+    meta_title="Thag 6.13 — Sirima&#7751;&#7693;a | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sirima&#7751;&#7693;a's verse on urgency in the face of "
+        "death, disease, and old age &mdash; opening with the same "
+        "rain-and-roof simile already treated at length on this "
+        "site in Dhammapada Chapter 1. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sixes &middot; Chapter One &middot; Poem 13 of 14",
+    glance=[
+        ("Setting", "General teaching on impermanence, without "
+                    "further attribution"),
+        ("Speaker", "Sirima&#7751;&#7693;a, urging urgency before "
+                    "death"),
+        ("Form", "Six four-line verses, moving from a single simile "
+                 "to direct exhortation"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, urgent tone throughout"),
+    ],
+    why=(
+        "&lsquo;The rain saturates things that are covered up; it "
+        "doesn't saturate things that are open,&rsquo; "
+        "Sirima&#7751;&#7693;a opens &mdash; the same architectural "
+        "image already given extended treatment on this site in "
+        "Dhammapada Chapter 1's verses 13&ndash;14, here turned to a "
+        "different use: not lust seeping into an undeveloped mind, "
+        "but concealment itself as the danger, urging exposure and "
+        "openness before death, disease, and old age arrive "
+        "unannounced."),
+    guide=[
+        ("An opening simile shared with the Dhammapada", [
+            "This poem's first verse &mdash; &lsquo;channamativassati... "
+            "vivaṭaṁ nātivassati&rsquo;, &lsquo;rain saturates what is "
+            "covered, not what is open&rsquo; &mdash; uses the same "
+            "roofing image already discussed at length on this site "
+            "in Dhammapada Chapter 1, where rain seeping into a poorly "
+            "roofed house illustrates lust seeping into an "
+            "undeveloped mind. Sirima&#7751;&#7693;a's own poem "
+            "applies the same physical image to a related but "
+            "distinct point: what is kept hidden or covered remains "
+            "vulnerable, and should instead be opened up."]),
+        ("Beaten down twice over, in near-identical verses", [
+            "The second and third verses both open &lsquo;maccunābbhahato "
+            "loko&rsquo;, &lsquo;the world is beaten down by "
+            "death&rsquo;, varying only their second half &mdash; "
+            "&lsquo;surrounded by old age... struck down by the dart "
+            "of craving&rsquo; against &lsquo;caged by old age... "
+            "beaten constantly, like a thief being flogged&rsquo;. "
+            "This near-repetition within a single poem intensifies "
+            "the point through insistence rather than new argument."]),
+        ("Three things approaching like a wall of flame", [
+            "The fourth verse names death, disease, and old age "
+            "together as &lsquo;āgacchantaggikhandhāva&rsquo;, "
+            "&lsquo;coming, like a wall of flame&rsquo; &mdash; &lsquo;no "
+            "power can stand before them, and no speed's enough to "
+            "flee&rsquo;. Unlike gentler formulations of impermanence "
+            "elsewhere in this collection, this image emphasizes "
+            "total inevitability rather than gradual acceptance."]),
+        ("Every passing night, a measured loss", [
+            "The fifth verse turns abstract urgency into daily "
+            "arithmetic: &lsquo;every night that passes shortens "
+            "your life by that much&rsquo;. This concrete, "
+            "quantified framing &mdash; not simply &lsquo;life is "
+            "short&rsquo; but life measured out night by night "
+            "&mdash; gives the poem's closing appeal a specific, "
+            "almost ledger-like urgency."]),
+        ("A closing verse naming every ordinary posture", [
+            "The sixth verse lists walking, standing, sitting, and "
+            "lying down &mdash; the four postures covering essentially "
+            "every waking and resting moment &mdash; before "
+            "concluding &lsquo;you have no time to be careless "
+            "(pamajjitu&#7749;)&rsquo; in any of them. The poem's "
+            "urgency is total, admitting no posture or moment as "
+            "exempt."]),
+    ],
+    terms=[
+        ("channamativassati",
+         "&ldquo;rain saturates what is covered up&rdquo; &mdash; "
+         "the poem's opening image, shared with Dhammapada Chapter "
+         "1's verses 13&ndash;14."),
+        ("maccunābbhahato loko",
+         "&ldquo;the world is beaten down by death&rdquo; &mdash; "
+         "the shared opening of the second and third verses."),
+        ("āgacchantaggikhandhāva",
+         "&ldquo;coming, like a wall of flame&rdquo; &mdash; the "
+         "image for death, disease, and old age approaching "
+         "together."),
+        ("amogha&#7749; divasa&#7749; kayirā",
+         "&ldquo;don't waste your day&rdquo; &mdash; the fifth "
+         "verse's direct instruction."),
+        ("na te k&amacr;lo pamajjitu&#7749;",
+         "&ldquo;you have no time to be careless&rdquo; &mdash; the "
+         "poem's final line, admitting no exempt posture or moment."),
+    ],
+    text_intro=(
+        "The text in full: six verses, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag6.13:1.1-1.4"),
+        ("p", "&sect;2", "thag6.13:2.1-2.4"),
+        ("p", "&sect;3", "thag6.13:3.1-3.4"),
+        ("p", "&sect;4", "thag6.13:4.1-4.4"),
+        ("p", "&sect;5", "thag6.13:5.1-5.4"),
+        ("p", "&sect;6", "thag6.13:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What image opens this poem?",
+         "opts": [
+             "Rain saturates what is covered up, but not what is open",
+             "A river flowing to the sea",
+             "A tree growing in a forest",
+             "A boat crossing a lake"],
+         "correct": 0,
+         "expl": "'Channamativassati... vivaṭaṁ nātivassati.'"},
+        {"q": "Where else on this site is a closely related version of this same rain-and-roof image treated at length?",
+         "opts": [
+             "MN 21",
+             "Dhammapada Chapter 1, verses 13–14",
+             "SN 12.63",
+             "Nowhere else on this site"],
+         "correct": 1,
+         "expl": "There applied to lust seeping into an undeveloped mind; here applied to concealment and vulnerability."},
+        {"q": "How do the second and third verses relate to each other?",
+         "opts": [
+             "They are word-for-word identical",
+             "They are entirely unrelated",
+             "They open with the same phrase, 'the world is beaten down by death,' varying only in their second half",
+             "The third verse contradicts the second"],
+         "correct": 2,
+         "expl": "Near-repetition within a single poem, intensifying the point through insistence."},
+        {"q": "What three things does the fourth verse name as 'coming, like a wall of flame'?",
+         "opts": [
+             "Hunger, thirst, and fatigue",
+             "Doubt, fear, and anger",
+             "Wealth, fame, and power",
+             "Death, disease, and old age"],
+         "correct": 3,
+         "expl": "'No power can stand before them, and no speed's enough to flee.'"},
+        {"q": "What specific, quantified claim does the fifth verse make?",
+         "opts": [
+             "Every night that passes shortens your life by that much",
+             "Life is measured only in years, not days",
+             "No claim about time is made",
+             "Life span cannot be measured at all"],
+         "correct": 0,
+         "expl": "Concrete, ledger-like urgency, not simply 'life is short.'"},
+        {"q": "What four postures does the sixth verse list?",
+         "opts": [
+             "Eating, drinking, speaking, and listening",
+             "Walking, standing, sitting, and lying down",
+             "Teaching, learning, chanting, and bowing",
+             "Only sitting and lying down"],
+         "correct": 1,
+         "expl": "Covering essentially every waking and resting moment, admitting no exempt posture."},
+        {"q": "How does this poem's imagery of inevitability compare to gentler formulations of impermanence elsewhere in this collection?",
+         "opts": [
+             "It focuses only on old age, ignoring death and disease",
+             "It is identical in tone",
+             "It emphasizes total inevitability, like a wall of flame no speed can escape, rather than gradual acceptance",
+             "It denies impermanence entirely"],
+         "correct": 2,
+         "expl": "A notably urgent register within this collection's broader range of impermanence teachings."},
+        {"q": "What does the poem's final line conclude?",
+         "opts": [
+             "Carelessness is acceptable while young",
+             "The poem offers no conclusion",
+             "There is plenty of time to be careless",
+             "You have no time to be careless, in any posture"],
+         "correct": 3,
+         "expl": "'Na te kālo pamajjituṁ' — total urgency, admitting no exemption."},
+        {"q": "What does the third verse compare being beaten down by death and old age to?",
+         "opts": [
+             "A thief being flogged, beaten constantly without respite",
+             "A slow, painless fading",
+             "A peaceful sleep",
+             "A gentle rain"],
+         "correct": 0,
+         "expl": "'Haññati niccamattāṇo, pattadaṇḍova takkaro.'"},
+        {"q": "What does the poem's opening simile apply the rain-and-roof image to, distinct from the Dhammapada's usage?",
+         "opts": [
+             "The same exact point, with no distinction",
+             "Concealment and vulnerability, rather than lust seeping into an undeveloped mind",
+             "A description of actual weather patterns",
+             "Almsgiving practices"],
+         "correct": 1,
+         "expl": "A related but distinct application of the same physical image."},
+    ],
+    marginalia=[
+        ("What is covered, the rain finds", [
+            "the same image as Dhammapada Chapter 1 —",
+            "put here to a different use"
+        ]),
+        ("Beaten down, twice stated", [
+            "the same opening line, run again —",
+            "insistence in place of new argument"
+        ]),
+        ("A wall of flame, approaching", [
+            "death, disease, old age, together —",
+            "no speed enough to outrun them"
+        ]),
+        ("Every night, a measured loss", [
+            "life shortened, night by night —",
+            "urgency given a ledger's precision"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag6.13/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../dhammapada/dhp-01.html">Dhammapada Chapter 1 '
+        "&mdash; Pairs</a> &mdash; treats the same rain-and-roof "
+        "image at length, verses 13&ndash;14.",
+        '<a href="thag-6.12.html">Thag 6.12 &mdash; Brahmadatta</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 6.14 — Sabbak&amacr;mi
+# --------------------------------------------------------------------------- #
+page(
+    6, 14, "Sabbak&amacr;mi", "Sabbak&amacr;mi",
+    meta_title="Thag 6.14 — Sabbak&amacr;mi | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sabbak&amacr;mi's verse on the danger of sensual pleasures, "
+        "closing not only this chapter but the entire Book of the "
+        "Sixes &mdash; 14 poems, now complete, with this "
+        "collection's first closing tally that matches its own "
+        "content exactly. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sixes &middot; Chapter One &middot; Poem 14 of 14",
+    glance=[
+        ("Setting", "General teaching on sensual danger, closing "
+                    "this book's single chapter"),
+        ("Speaker", "Sabbak&amacr;mi, on the danger of sensual "
+                    "pleasures"),
+        ("Form", "Six four-line verses, followed by this book's own "
+                 "closing structure"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, exceptional structural "
+                       "weight"),
+    ],
+    why=(
+        "&lsquo;This two-legged body is dirty and stinking... but "
+        "still it is cherished!&rsquo; Sabbak&amacr;mi opens, before "
+        "three vivid similes for how ordinary people are trapped by "
+        "sensual pleasure &mdash; a deer by a trick, a fish by a "
+        "hook, a langur by tar. His poem closes not only this "
+        "chapter, but the entire Book of the Sixes: fourteen poems, "
+        "now complete, with a closing tally that for the first time "
+        "in this collection matches its own content exactly."),
+    guide=[
+        ("A body cherished despite its own description", [
+            "The opening verse doesn't merely describe the body as "
+            "impure &mdash; &lsquo;dirty and stinking, full of "
+            "different carcasses, oozing all over the place&rsquo; "
+            "&mdash; it closes on the contradiction directly: "
+            "&lsquo;but still it is cherished!&rsquo; The poem's "
+            "force rests on this gap between what the body plainly "
+            "is and how it continues to be valued."]),
+        ("A langur trapped by tar, echoing this book's fifth poem", [
+            "The second verse's three similes &mdash; a deer lured "
+            "by a trick, a fish caught by a hook, a langur "
+            "(v&amacr;nara) trapped by tar &mdash; return to the "
+            "same animal invoked in Thag 6.5 "
+            "(M&amacr;lu&#7749;kyaputta), where a langur greedy for "
+            "fruit represented the restless, craving mind. Sujato's "
+            "comment on this verse cites the identical source, Ja "
+            "57, used for that earlier poem &mdash; the same "
+            "technical note appearing near the start and at the very "
+            "close of this book's chapter."]),
+        ("Sensual stimulation located specifically in a woman's body", [
+            "The third verse names the five kinds of sensual "
+            "stimulation &mdash; sights, sounds, tastes, smells, "
+            "and touches &mdash; and states they are &lsquo;seen in "
+            "a woman's body (itthirūpasmi)&rsquo;. This reading "
+            "guide notes the verse's own framing without further "
+            "comment; readers may find its address specifically to a "
+            "male, presumably monastic audience worth registering as "
+            "a feature of the text rather than a universal claim."]),
+        ("Self-naming and a book closed with no separate chapter marker", [
+            "The Pali closes with &lsquo;… Sabbak&amacr;mitthero …&rsquo;, "
+            "the poem's own self-naming device, immediately followed "
+            "by &lsquo;Chakkanip&amacr;to niṭṭhito&rsquo;, &lsquo;the "
+            "Book of the Sixes is concluded&rsquo; &mdash; with no "
+            "separate chapter-closing marker, matching the pattern "
+            "already seen in the Threes, Fours, and Fives, each a "
+            "single chapter."]),
+        ("A tally that finally adds up exactly", [
+            "The closing Tatruddāna states &lsquo;gāthāyo "
+            "caturāsīti, therā cettha catuddasāti&rsquo;, "
+            "&lsquo;eighty-four verses, fourteen elders here&rsquo;. "
+            "Fourteen poems of six verses each is exactly "
+            "eighty-four &mdash; matching precisely, for the first "
+            "time in this collection, after the Book of the Fours' "
+            "mismatch (52 stated against 48 actual) and the Book of "
+            "the Fives' mismatch (65 stated against roughly 60 "
+            "actual). The uddāna itself adds a single epithet, "
+            "&lsquo;thero&rsquo; (elder), to Tekicchak&amacr;ri's "
+            "name alone, placed second in the list rather than last "
+            "&mdash; a fifth distinct epithet-placement pattern "
+            "across this collection's six books so far."]),
+    ],
+    terms=[
+        ("dvip&amacr;dako asuci",
+         "&ldquo;this two-legged body is dirty&rdquo; &mdash; the "
+         "poem's opening description."),
+        ("v&amacr;nara&#7749; viya lepena",
+         "&ldquo;like a langur by tar&rdquo; &mdash; the third "
+         "simile of the second verse, echoing Thag 6.5's own langur "
+         "image."),
+        ("… Sabbak&amacr;mitthero …",
+         "the poem's closing self-naming device, immediately "
+         "preceding the book's own closing marker."),
+        ("Chakkanip&amacr;to ni&#7789;&#7789;hito",
+         "&ldquo;the Book of the Sixes is concluded&rdquo; &mdash; "
+         "this book's sole closing marker, with no separate "
+         "chapter-level marker preceding it."),
+        ("g&amacr;th&amacr;yo catur&amacr;s&imacr;ti",
+         "&ldquo;eighty-four verses&rdquo; &mdash; a count that, for "
+         "the first time in this collection, matches the book's own "
+         "content exactly."),
+    ],
+    text_intro=(
+        "The text in full: six verses, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag6.14:1.1-1.4"),
+        ("p", "&sect;2", "thag6.14:2.1-2.4"),
+        ("p", "&sect;3", "thag6.14:3.1-3.4"),
+        ("p", "&sect;4", "thag6.14:4.1-4.4"),
+        ("p", "&sect;5", "thag6.14:5.1-5.4"),
+        ("p", "&sect;6", "thag6.14:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What contradiction does the opening verse state directly?",
+         "opts": [
+             "The body is beautiful and should be admired",
+             "The body is dirty and stinking, full of carcasses — but still it is cherished",
+             "The body has no relationship to desire at all",
+             "The body is entirely illusory"],
+         "correct": 1,
+         "expl": "The poem's force rests on this gap between description and valuation."},
+        {"q": "What three similes does the second verse use for how people are trapped?",
+         "opts": [
+             "A moth drawn to flame, only",
+             "No similes are used",
+             "A deer lured by a trick, a fish caught by a hook, a langur trapped by tar",
+             "A bird in a cage, a fish in a net, a deer in a pit"],
+         "correct": 2,
+         "expl": "The langur image echoes Thag 6.5's own use of the same animal."},
+        {"q": "What does Sujato's comment on the langur-and-tar simile cite?",
+         "opts": [
+             "No source is cited",
+             "A source specific only to this poem",
+             "A completely different source than Thag 6.5's comment",
+             "The identical source, Ja 57, used for Thag 6.5's langur simile"],
+         "correct": 3,
+         "expl": "The same technical note appearing near the start and at the very close of this book's chapter."},
+        {"q": "Where does the third verse locate the five kinds of sensual stimulation?",
+         "opts": [
+             "In a woman's body specifically",
+             "In food alone",
+             "Nowhere specific — they are described abstractly",
+             "In a particular season"],
+         "correct": 0,
+         "expl": "A feature of the text this reading guide notes without further comment, given its presumed monastic audience."},
+        {"q": "What immediately follows the poem's self-naming device in the Pali?",
+         "opts": [
+             "A separate chapter-closing marker, distinct from the book marker",
+             "'Chakkanipāto niṭṭhito' — the Book of the Sixes is concluded, with no separate chapter marker",
+             "Another full poem",
+             "No closing marker at all"],
+         "correct": 1,
+         "expl": "Matching the pattern already seen in the Threes, Fours, and Fives, each a single chapter."},
+        {"q": "What does this book's closing tally state, and how does it compare to the book's actual content?",
+         "opts": [
+             "No numbers are given at all",
+             "One hundred verses, twenty elders",
+             "Eighty-four verses, fourteen elders — matching exactly, for the first time in this collection",
+             "Sixty verses, twelve elders — another mismatch"],
+         "correct": 2,
+         "expl": "Fourteen poems of six verses each is exactly eighty-four, unlike the mismatches in the Fours and Fives."},
+        {"q": "Where does the closing uddāna place its single epithet, 'thero'?",
+         "opts": [
+             "On every single name",
+             "The uddāna adds no epithets at all",
+             "On the very last name in the list",
+             "On Tekicchakāri's name, placed second in the list"],
+         "correct": 3,
+         "expl": "A fifth distinct epithet-placement pattern across this collection's six books so far."},
+        {"q": "What is the running total of poems completed on this site after this poem, out of 264?",
+         "opts": [
+             "223 of 264",
+             "264 of 264 — the collection is complete",
+             "197 of 264",
+             "209 of 264"],
+         "correct": 0,
+         "expl": "209 + 14 poems in the Book of the Sixes."},
+        {"q": "How does this book's closing tally compare to the Book of the Fours' and Book of the Fives' closing tallies?",
+         "opts": [
+             "All three books' tallies match their content exactly",
+             "This is the first exact match, after mismatches in both the Fours (52 stated vs. 48 actual) and the Fives (65 stated vs. roughly 60 actual)",
+             "This book's tally is also a mismatch",
+             "No prior book's tally has ever been discussed"],
+         "correct": 1,
+         "expl": "A notable first for this collection's closing-tally pattern."},
+        {"q": "What is the next book in the Theragātha, following this one?",
+         "opts": [
+             "The Great Book",
+             "The collection ends here",
+             "The Book of the Sevens",
+             "The Book of the Eights"],
+         "correct": 2,
+         "expl": "Its own structure and conventions still need a fresh check before work continues."},
+    ],
+    marginalia=[
+        ("Dirty, stinking — cherished still", [
+            "the body described, then the contradiction stated —",
+            "the poem's whole force in one line"
+        ]),
+        ("A langur, twice caught", [
+            "chasing fruit at this book's start, trapped by tar at its close —",
+            "the same source cited both times"
+        ]),
+        ("A tally that finally adds up", [
+            "eighty-four verses, fourteen elders, exact —",
+            "after two books whose sums didn't quite match"
+        ]),
+        ("A sixth book, now complete", [
+            "223 of 264 —",
+            "fifteen further books remain"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag6.14/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-6.13.html">Thag 6.13 &mdash; '
+        "Sirima&#7751;&#7693;a</a> &mdash; the poem immediately "
+        "before this one, in the same chapter.",
+        '<a href="thag-6.5.html">Thag 6.5 &mdash; '
+        "M&amacr;lu&#7749;kyaputta (1st)</a> &mdash; this book's "
+        "other poem to invoke the same langur simile, citing the "
+        "same source.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
