@@ -48450,3 +48450,250 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Book of the Nines
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# Thag 9.1 — Bhūta
+# --------------------------------------------------------------------------- #
+page(
+    9, 1, "Bh&umacr;ta", "Bh&umacr;ta",
+    meta_title="Thag 9.1 — Bhūta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Bhūta's verse &mdash; the entire Book of the Nines in a "
+        "single poem, nine verses moving from abstract doctrine to "
+        "vivid nature scenes, every one closing on the identical "
+        "refrain: there is no greater pleasure than this. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Nines &middot; Chapter One &middot; Poem 1 of 1",
+    glance=[
+        ("Setting", "A sequence of contrasting scenes &mdash; "
+                    "doctrinal reflection, storms, riverbanks, and "
+                    "mountain caves"),
+        ("Speaker", "Bhūta, the entire content of this book"),
+        ("Form", "Nine four-line verses, each closing on an "
+                 "identical refrain"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "vivid natural imagery, a perfectly repeated "
+                       "refrain"),
+    ],
+    why=(
+        "&lsquo;There is no greater pleasure than this,&rsquo; Bhūta "
+        "declares &mdash; nine times over, closing every single "
+        "verse of the only poem in the entire Book of the Nines. What "
+        "precedes that refrain shifts constantly: understanding "
+        "suffering, abandoning craving, a thunderstorm over a "
+        "mountain cave, a flower-strewn riverbank, lions roaring at "
+        "midnight in the rain &mdash; nine entirely different "
+        "occasions for the identical claim."),
+    guide=[
+        ("One poem, one book, nine verses, one refrain", [
+            "The Book of the Nines is this collection's shortest yet "
+            "&mdash; a single elder's single poem, nine verses of "
+            "four lines each. Every verse, regardless of its content, "
+            "closes on the identical line: &lsquo;tato rati&#7749; "
+            "paramatara&#7749; na vindati&rsquo;, &lsquo;there is no "
+            "greater pleasure than this&rsquo;. This is the "
+            "collection's most complete refrain yet &mdash; not five "
+            "of eight verses, as in Thag 8.2, but all nine of nine, "
+            "spanning the poem's entire length."]),
+        ("Four doctrinal verses, stated abstractly", [
+            "The first four verses name philosophical content "
+            "directly and without narrative: understanding that old "
+            "age and death are suffering, destroying craving, seeing "
+            "the eightfold path with wisdom, and developing the "
+            "unconditioned, sorrowless state. Each is a complete "
+            "teaching in miniature, joined only by the shared closing "
+            "claim that follows it."]),
+        ("Three verses of vivid natural imagery", [
+            "The fifth through seventh verses turn from doctrine to "
+            "scene: a thundercloud rumbling while a monk meditates in "
+            "a mountain cave; sitting on a riverbank &lsquo;covered "
+            "in flowers, garlanded with brightly colored forest "
+            "plants&rsquo;; midnight in a lonely forest, "
+            "&lsquo;lions roar as the heavens pour&rsquo;. This is "
+            "some of the most concretely pictorial writing in this "
+            "collection &mdash; not illustrating a doctrinal point so "
+            "much as simply presenting a scene, then attaching the "
+            "same refrain regardless."]),
+        ("A structure that refuses to rank its own occasions", [
+            "By repeating an identical superlative claim across "
+            "content this varied &mdash; abstract philosophy and "
+            "storm-lashed mountainsides given exactly the same "
+            "praise &mdash; the poem declines to establish any "
+            "hierarchy among its nine occasions. Understanding "
+            "suffering and sitting by a flowering riverbank are not "
+            "ranked against each other; both simply receive the same "
+            "words."]),
+        ("A rhinoceros alone: the book's own closing epithet", [
+            "The closing Tatruddāna, unusually for a book with only "
+            "one poem, still supplies an epithet: &lsquo;Bhūto "
+            "tathaddaso thero, eko khaggavisāṇavā&rsquo;, &lsquo;the "
+            "elder Bhūta, seer of things as they are, alone like a "
+            "rhinoceros horn&rsquo; &mdash; directly invoking the "
+            "solitary-wandering imagery of this site's own "
+            "<a href=\"../sutta-nipata/snp-1.3.html\">Snp 1.3, The "
+            "Horned Rhino</a>. The book then closes immediately, "
+            "&lsquo;Navakanipāto niṭṭhito&rsquo;, with no separate "
+            "chapter marker, and states its own tally directly: nine "
+            "verses, matching the poem exactly."]),
+    ],
+    terms=[
+        ("tato rati&#7749; paramatara&#7749; na vindati",
+         "&ldquo;there is no greater pleasure than this&rdquo; "
+         "&mdash; the refrain closing all nine verses without "
+         "exception."),
+        ("jhāyati",
+         "&ldquo;practicing absorption&rdquo; &mdash; the recurring "
+         "verb naming the activity common to every verse's occasion."),
+        ("magguttama&#7749; sabbakilesasodhana&#7749;",
+         "&ldquo;the supreme path, cleanser of all corruptions&rdquo; "
+         "&mdash; the third verse's description of the eightfold "
+         "way."),
+        ("eko khaggavisā&#7751;avā",
+         "&ldquo;alone like a rhinoceros horn&rdquo; &mdash; the "
+         "closing uddāna's epithet for Bhūta, invoking this site's "
+         "own Snp 1.3."),
+        ("byantikatova jhāyati",
+         "&ldquo;with all defilements annihilated, practicing "
+         "absorption&rdquo; &mdash; the closing image of the ninth "
+         "and final verse."),
+    ],
+    text_intro=(
+        "The text in full: nine verses, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag9.1:1.1-1.4"),
+        ("p", "&sect;2", "thag9.1:2.1-2.4"),
+        ("p", "&sect;3", "thag9.1:3.1-3.4"),
+        ("p", "&sect;4", "thag9.1:4.1-4.4"),
+        ("p", "&sect;5", "thag9.1:5.1-5.4"),
+        ("p", "&sect;6", "thag9.1:6.1-6.4"),
+        ("p", "&sect;7", "thag9.1:7.1-7.4"),
+        ("p", "&sect;8", "thag9.1:8.1-8.4"),
+        ("p", "&sect;9", "thag9.1:9.1-9.4"),
+    ],
+    quiz=[
+        {"q": "How many poems make up the entire Book of the Nines?",
+         "opts": [
+             "One — the shortest book in this collection so far",
+             "Nine",
+             "Three",
+             "Twenty"],
+         "correct": 0,
+         "expl": "A single elder's single poem, nine verses in one chapter."},
+        {"q": "What line closes every one of the poem's nine verses?",
+         "opts": [
+             "A different closing line each time",
+             "'There is no greater pleasure than this' (tato ratiṁ paramataraṁ na vindati)",
+             "No verse has a closing line",
+             "'I have fulfilled the Buddha's instructions'"],
+         "correct": 1,
+         "expl": "The collection's most complete refrain yet — all nine of nine verses, not just some."},
+        {"q": "What kind of content do the first four verses present?",
+         "opts": [
+             "A description of a specific meal",
+             "A personal narrative of ordination",
+             "Abstract doctrinal statements — understanding suffering, abandoning craving, seeing the path, developing the unconditioned",
+             "A dialogue between two speakers"],
+         "correct": 2,
+         "expl": "Each a complete teaching in miniature, joined only by the shared refrain."},
+        {"q": "What do the fifth through seventh verses turn to?",
+         "opts": [
+             "A description of monastic architecture",
+             "A list of other elders",
+             "Further abstract doctrine",
+             "Vivid natural imagery — a thunderstorm, a flowering riverbank, a midnight forest with roaring lions"],
+         "correct": 3,
+         "expl": "Some of the most concretely pictorial writing found in this collection."},
+        {"q": "What does the poem's structure suggest about its nine occasions, given they all share the same refrain?",
+         "opts": [
+             "That it refuses to establish any hierarchy — abstract philosophy and storm-lashed mountainsides receive identical praise",
+             "That only the doctrinal verses matter",
+             "That only the nature verses matter",
+             "That some occasions are clearly ranked above others"],
+         "correct": 0,
+         "expl": "The identical superlative claim is applied regardless of the verse's specific content."},
+        {"q": "What epithet does the closing uddāna give to Bhūta?",
+         "opts": [
+             "No epithet at all",
+             "'Alone like a rhinoceros horn' (eko khaggavisāṇavā), invoking this site's own Snp 1.3",
+             "'Great sage' (mahāisi)",
+             "'Foremost among teachers'"],
+         "correct": 1,
+         "expl": "Directly invoking the solitary-wandering imagery of The Horned Rhino."},
+        {"q": "What does the closing uddāna's tally state, and how does it compare to the poem's actual content?",
+         "opts": [
+             "No number is given",
+             "Twelve verses, a mismatch",
+             "Nine verses — matching exactly, since the book is a single nine-verse poem",
+             "Twenty verses, a mismatch"],
+         "correct": 2,
+         "expl": "A third consecutive book with a tally that matches its content exactly."},
+        {"q": "What marks this book's transition from the poem itself to the book's close?",
+         "opts": [
+             "Another full poem",
+             "No closing marker at all",
+             "A separate chapter-closing marker",
+             "No separate chapter marker — moving directly from self-naming to 'the Book of the Nines is concluded'"],
+         "correct": 3,
+         "expl": "Matching the pattern of every single-chapter book since the Threes."},
+        {"q": "What scene does the seventh verse describe?",
+         "opts": [
+             "Midnight in a lonely forest, with lions roaring as the heavens pour rain",
+             "A busy marketplace",
+             "A calm sunny afternoon",
+             "A quiet monastery courtyard"],
+         "correct": 0,
+         "expl": "One of the poem's most vivid nature images, still closing on the same refrain."},
+        {"q": "What does the ninth and final verse describe?",
+         "opts": [
+             "A return to ordinary lay life",
+             "Complete happiness, with all defilements annihilated, practicing absorption",
+             "A request for further teaching",
+             "Uncertainty about the path"],
+         "correct": 1,
+         "expl": "The poem's culminating image, still closing on the same nine-times-repeated line."},
+    ],
+    marginalia=[
+        ("Nine verses, one refrain", [
+            "no greater pleasure than this, said nine times —",
+            "the collection's most complete repetition yet"
+        ]),
+        ("Doctrine, then storm and riverbank", [
+            "abstract teaching giving way to vivid scene —",
+            "both given exactly the same praise"
+        ]),
+        ("No hierarchy among nine occasions", [
+            "philosophy and a flowering riverbank, equal —",
+            "the refrain ranks nothing above anything else"
+        ]),
+        ("Alone, like a rhinoceros horn", [
+            "the book's own epithet, echoing Snp 1.3 —",
+            "a single elder, a single poem, a whole book"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag9.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../sutta-nipata/snp-1.3.html">Snp 1.3 &mdash; The '
+        "Horned Rhino</a> &mdash; the solitary-wandering imagery "
+        "invoked directly by this book's own closing epithet for "
+        "Bhūta.",
+        '<a href="thag-8.3.html">Thag 8.3 &mdash; Mahāpanthaka</a> '
+        "&mdash; the closing poem of the book immediately before "
+        "this one.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
