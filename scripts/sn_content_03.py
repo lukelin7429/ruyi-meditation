@@ -42235,3 +42235,1045 @@ page(
         "four-corner logic this closing uddāna confirms end to end.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 24.45 — Tatiyavātasutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 45, "Tatiyavāta", "Winds",
+    vagga="Tatiyagamanavagga",
+    meta_title="SN 24.45 — Winds (Third Round) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyavātasutta &mdash; opening Tatiyagamanavagga, a "
+        "third and purely mechanical pass through the full "
+        "twenty-six-topic catalog Dutiyagamanavagga already "
+        "established. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "SN 24.19's own view, re-examined a third time, with "
+                 "the suffering-ground addition now worded slightly "
+                 "differently"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "straightforward content, though the wording "
+                       "variation from SN 24.19 rewards close "
+                       "attention"),
+    ],
+    why=(
+        "Opens Tatiyagamanavagga (\"the Chapter on the Third Round\"), "
+        "which this vagga's own merged central block later confirms "
+        "runs through \"discourses 20 through 43 of the second "
+        "chapter\" &mdash; meaning this third round covers the full "
+        "twenty-six-topic catalog Dutiyagamanavagga already "
+        "established (its original eighteen plus its own eight new "
+        "additions), not a further expansion. Structurally this vagga "
+        "is the simplest in the entire saṃyutta: only its first and "
+        "last topics receive individual treatment, the remaining "
+        "twenty-four collapsed into a single cross-reference."
+    ),
+    guide=[
+        ("The same view, a third time", [
+            "\"Winds don't blow; rivers don't flow; pregnant women "
+            "don't give birth; the moon and stars neither rise nor "
+            "set, but stand firm like a pillar\" &mdash; identical to "
+            "SN 24.1 and SN 24.19's own opening claims, now examined "
+            "for a third pass through this saṃyutta's core catalog.",
+        ]),
+        ("The suffering-ground addition, reworded", [
+            "SN 24.19 added suffering as a seventh graspable ground "
+            "with the phrase \"and so, when suffering exists, because "
+            "of grasping suffering and insisting on suffering, the "
+            "view arises...\" This discourse states the identical "
+            "point more economically: \"and so, what's impermanent is "
+            "suffering. When this exists, grasping at this, the view "
+            "arises...\" &mdash; the same logical move, condensed into "
+            "a shorter formula.",
+            "This is this vagga's own small but genuine contribution: "
+            "not new content, but a more compact restatement of the "
+            "second round's own addition.",
+        ]),
+        ("This vagga's own minimal shape", [
+            "Where Dutiyagamanavagga needed eleven separate pages to "
+            "cover its twenty-six topics (bracketing a sixteen-topic "
+            "merged block with two full discourses, then adding eight "
+            "further individually treated new topics), "
+            "Tatiyagamanavagga needs only three: this discourse, a "
+            "single merged block covering positions 2 through 25 of "
+            "the same twenty-six-topic catalog, and one closing "
+            "discourse.",
+        ]),
+        ("No new topics this round", [
+            "Confirmed by dump of every relevant bilara-data file "
+            "before writing: this vagga introduces nothing "
+            "Dutiyagamanavagga did not already establish. The "
+            "question of whether a saṃyutta this systematic would "
+            "keep expanding its catalog indefinitely is answered here "
+            "&mdash; round three is pure repetition, not expansion.",
+        ]),
+    ],
+    terms=[
+        ("tatiyagamana", "the third round — this vagga's own name, marking its status as a third pass through the same twenty-six-topic catalog"),
+        ("aniccaṁ kho pana dukkhaṁ", "\"what's impermanent is suffering\" — this round's own condensed restatement of the seventh-ground addition first shown at SN 24.19"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — this book's standing two-condition formula"),
+        ("peyyāla", "an elision mark — used throughout this vagga to compress its middle twenty-four topics to a single cross-reference"),
+        ("Paṭhamaṁ", "\"the first\" — this discourse's own untranslated position-marker, opening this vagga's local sequence"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the view "
+        "re-examined with the reworded seventh ground. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.45:1.1-1.4"),
+        ("p", "&sect;2", "sn24.45:2.1-2.7"),
+        ("p", "&sect;3", "sn24.45:3.1-3.20"),
+    ],
+    quiz=[
+        {"q": "What view does this discourse re-examine?",
+         "opts": ["The same \"winds don't blow\" claim from SN 24.1 and SN 24.19",
+                  "An entirely new view about the self", "SN 24.5's nihilist manifesto", "The tathāgata foursome's first claim"],
+         "correct": 0,
+         "expl": "A third pass through this saṃyutta's opening view."},
+        {"q": "How does this discourse's suffering-ground addition differ in wording from SN 24.19's?",
+         "opts": ["It states the same point more economically — \"what's impermanent is suffering\" rather than the fuller original phrase",
+                  "It removes the suffering-ground addition entirely", "It adds a completely new eighth ground", "It is worded identically, word for word"],
+         "correct": 0,
+         "expl": "The same logical move, condensed into a shorter formula."},
+        {"q": "What does this vagga's merged central block later confirm about its own coverage?",
+         "opts": ["That it runs through \"discourses 20 through 43 of the second chapter\" — the full catalog Dutiyagamanavagga established",
+                  "That it introduces an entirely new set of topics", "That it only covers the four named-teacher doctrines", "That it skips most of the original catalog"],
+         "correct": 0,
+         "expl": "Confirming this round covers Dutiyagamanavagga's full twenty-six-topic catalog, not an expansion."},
+        {"q": "How many pages does this vagga need to cover its own twenty-six topics, compared to Dutiyagamanavagga's eleven?",
+         "opts": ["Only three — this discourse, a single merged block, and one closing discourse", "Also eleven, identically", "Twenty-six, one per topic", "Only one page for the entire vagga"],
+         "correct": 0,
+         "expl": "This vagga's own minimal, purely repetitive shape."},
+        {"q": "Does this vagga introduce any new topics beyond Dutiyagamanavagga's own catalog?",
+         "opts": ["No — confirmed by dump of every relevant file before writing; this round is pure repetition, not expansion",
+                  "Yes, eight entirely new topics", "Yes, but only four new topics", "The question cannot be determined from the source"],
+         "correct": 0,
+         "expl": "Answering directly whether this saṃyutta keeps expanding indefinitely: it does not."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What vagga does this discourse open?",
+         "opts": ["Tatiyagamanavagga, \"the Chapter on the Third Round\"", "Sotāpattivagga", "Dutiyagamanavagga", "Catutthagamanavagga"],
+         "correct": 0,
+         "expl": "This saṃyutta's third vagga, running the full catalog through a third time."},
+        {"q": "How many aggregates does this discourse's catechism examine, plus the reworded seventh ground?",
+         "opts": ["All five, plus suffering as a reworded seventh ground", "Only three", "Six aggregates instead of five", "None — the catechism is entirely skipped"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, plus the condensed suffering-ground addition."},
+        {"q": "What does bilara-data's own untranslated position-marker confirm about this discourse?",
+         "opts": ["That it opens this vagga's own local sequence, as \"the first\"", "That it is the saṃyutta's very first discourse overall", "Nothing — the marker is meaningless", "That it is the vagga's closing discourse"],
+         "correct": 0,
+         "expl": "A local numbering marker within Tatiyagamanavagga's own twenty-six sutta-numbers."},
+        {"q": "What discourse closes this vagga, given individual treatment like this one?",
+         "opts": ["SN 24.70, this vagga's own final topic", "SN 24.46, the merged block's first sutta-number", "SN 24.1, restarting the saṃyutta", "SN 24.96, the entire saṃyutta's close"],
+         "correct": 0,
+         "expl": "Bracketing the merged twenty-four-topic block, exactly as SN 24.19 and 24.36 bracketed Dutiyagamanavagga's own merged block."},
+    ],
+    marginalia=[
+        ("The same claim, a third time", [
+            "\"winds don't blow, rivers don't flow\" &mdash;",
+            "identical to SN 24.1 and SN 24.19's own claims",
+        ]),
+        ("A shorter seventh ground", [
+            "\"what's impermanent is suffering\" &mdash;",
+            "the same point, more economically stated",
+        ]),
+        ("Three pages, not eleven", [
+            "this vagga's own minimal shape &mdash;",
+            "no new topics, purely mechanical repetition",
+        ]),
+        ("Confirmed before writing, not assumed", [
+            "every relevant file dumped and checked &mdash;",
+            "round three expands nothing, only repeats",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.45/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.44.html">SN 24.44 &middot; The Self Is Neither '
+        "Happy Nor Suffering</a> &mdash; the previous discourse, "
+        "closing Dutiyagamanavagga entirely.",
+        '<a href="sn-24.19.html">SN 24.19 &middot; Winds</a> '
+        "&mdash; this discourse's own second-round source, whose "
+        "suffering-ground addition this discourse restates more "
+        "economically.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.46-69 — Etaṁmamādisutta (merged)
+# --------------------------------------------------------------------------- #
+page_range(
+    24, 46, 69, "Etaṁmamādi", "This Is Mine, Etc.",
+    vagga="Tatiyagamanavagga",
+    meta_title="SN 24.46–69 · This Is Mine, Etc. (Third Round) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Etaṁmamādisutta &mdash; twenty-four discourses compressed "
+        "into a single cross-reference, this saṃyutta's most "
+        "extensive single peyyāla range. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha addressing the mendicants (by "
+                     "cross-reference)"),
+        ("Form", "A single explicit editorial instruction standing "
+                 "in for twenty-four separate sutta-numbers"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial on its own, meaningful only in "
+                       "relation to Dutiyagamanavagga"),
+    ],
+    why=(
+        "The largest single sutta-number range this project has "
+        "generated a page for since SN 12.82&ndash;213's "
+        "Antarapeyyāla: twenty-four sutta-numbers (SN 24.46&ndash;69) "
+        "compressed into one bilara-data file holding a single line "
+        "of instruction, covering the entirety of Dutiyagamanavagga's "
+        "own middle twenty-four topics &mdash; both its sixteen "
+        "reused views and all eight of its own new additions &mdash; "
+        "in one stroke."
+    ),
+    guide=[
+        ("A pointer spanning two different kinds of earlier material", [
+            "\"Tell in full as in discourses 20 through 43 of the "
+            "second chapter\" &mdash; this single instruction spans "
+            "material Dutiyagamanavagga itself needed nine separate "
+            "pages to present: SN 24.20&ndash;35's own sixteen-topic "
+            "merged block (reused from Sotāpattivagga) and SN "
+            "24.37&ndash;43's seven of eight individually written new "
+            "views, all now folded into this vagga's own single line.",
+        ]),
+        ("Twenty-four discourses, one sentence", [
+            "This is a further compression beyond even SN "
+            "24.20&ndash;35's own single-line treatment of sixteen "
+            "topics: that file at least stood as its own dedicated "
+            "merged range within Sotāpattivagga's own reuse; this "
+            "file collapses material spanning two entirely different "
+            "categories &mdash; reused old views and genuinely new "
+            "ones &mdash; into one undifferentiated cross-reference.",
+        ]),
+        ("The same unified-prefix encoding, once more", [
+            "As with SN 24.20&ndash;35, this file uses a single "
+            "unified key prefix (sn24.46-69:) for its entire four-key "
+            "content, the same convention already seen at SN "
+            "12.72&ndash;81 and repeated here at an even larger scale.",
+        ]),
+        ("This vagga's own minimal structure, confirmed", [
+            "With this merged block bracketed by SN 24.45 and SN "
+            "24.70's own full treatments, Tatiyagamanavagga's entire "
+            "twenty-six-topic catalog is covered by just three pages "
+            "&mdash; the simplest structural shape any vagga in this "
+            "saṃyutta has shown.",
+        ]),
+    ],
+    terms=[
+        ("dutiyapariyāye viya", "\"as in the second chapter\" — this instruction's own explicit cross-reference back to Dutiyagamanavagga"),
+        ("catuvīsati", "twenty-four — the number of sutta-numbers this single file compresses, the largest such range in this saṃyutta"),
+        ("vitthāretabbāni", "\"should be told in full\" — the instruction's own directive, trusting the reader to reconstruct twenty-four full discourses from one line"),
+        ("peyyāla", "an elision mark — here compressing twenty-four sutta-numbers, this saṃyutta's most extensive single range so far"),
+        ("tatiyagamana", "the third round — the reason these twenty-four sutta-numbers exist at all, restating Dutiyagamanavagga's own full catalog"),
+    ],
+    text_intro=("The complete merged file: a single editorial instruction "
+        "standing in for twenty-four sutta-numbers. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.46-69:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this merged file's single line of content say?",
+         "opts": ["An instruction to tell twenty-four discourses in full as in discourses 20 through 43 of the second chapter",
+                  "A restatement of one specific view", "A new view not found in earlier vaggas", "A debate between two named disciples"],
+         "correct": 0,
+         "expl": "A direct editorial pointer to Dutiyagamanavagga's own middle twenty-four topics."},
+        {"q": "How many sutta-numbers does this single merged file compress?",
+         "opts": ["Twenty-four — SN 24.46 through SN 24.69", "Sixteen, matching SN 24.20–35", "Only two", "All twenty-six of this vagga"],
+         "correct": 0,
+         "expl": "The largest single range this project has generated a page for since SN 12.82–213's Antarapeyyāla."},
+        {"q": "What two different kinds of earlier material does this single pointer span?",
+         "opts": ["Sixteen reused topics from Sotāpattivagga and seven of Dutiyagamanavagga's own eight new views",
+                  "Only the four named-teacher doctrines", "Only the ten undetermined questions", "An entirely new set of topics not seen before"],
+         "correct": 0,
+         "expl": "Material Dutiyagamanavagga itself needed nine separate pages to present."},
+        {"q": "How does this file's compression compare to SN 24.20–35's own single-line treatment?",
+         "opts": ["A further compression, collapsing two different categories of earlier material into one undifferentiated cross-reference",
+                  "Considerably less compressed", "Exactly identical in scope", "This file actually contains more distinct content"],
+         "correct": 0,
+         "expl": "SN 24.20–35 stood as its own dedicated merged range; this file spans categories that were themselves once distinct."},
+        {"q": "What encoding convention does this file share with SN 24.20–35 and SN 12.72–81?",
+         "opts": ["A single unified key prefix for its entire content, rather than individual prefixes per sub-discourse",
+                  "Each sub-discourse keeping its own individual key prefix", "No prefix convention at all", "A prefix unique to this file alone"],
+         "correct": 0,
+         "expl": "The same unified-prefix convention, repeated here at an even larger scale."},
+        {"q": "What discourses bracket this merged file in Tatiyagamanavagga's own sequence?",
+         "opts": ["SN 24.45 before it, SN 24.70 after it", "SN 24.1 before it, SN 24.96 after it", "No discourses bracket it", "SN 24.19 before it, SN 24.44 after it"],
+         "correct": 0,
+         "expl": "This vagga's own first and twenty-sixth topics, both given individual full treatment."},
+        {"q": "How many total pages does Tatiyagamanavagga need to cover its full twenty-six-topic catalog?",
+         "opts": ["Three — this merged block plus its two bracketing discourses", "Eleven, matching Dutiyagamanavagga", "Twenty-six, one per topic", "Only this single merged page"],
+         "correct": 0,
+         "expl": "The simplest structural shape any vagga in this saṃyutta has shown."},
+        {"q": "Where is this file's content nominally set, by cross-reference?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching this saṃyutta's own setting, inherited by cross-reference."},
+        {"q": "How many total content keys does this merged file's translation contain?",
+         "opts": ["Four — three heading keys and one line of instruction", "Twenty-four, one per sutta-number", "Ninety-six", "None at all"],
+         "correct": 0,
+         "expl": "The same minimal shape as SN 24.20–35's own merged file, applied to a larger range."},
+        {"q": "What convention does this project follow when a merged file compresses this severely?",
+         "opts": ["Still generating one dedicated page, using page_range() to cover the full sutta-number span",
+                  "Silently skipping the range entirely", "Splitting it into twenty-four separate fabricated pages", "Merging it into an adjacent vagga's own page"],
+         "correct": 0,
+         "expl": "Matching this project's standing practice for peyyāla-compressed ranges of any size."},
+    ],
+    marginalia=[
+        ("One line, twenty-four discourses", [
+            "\"tell in full as before\" &mdash;",
+            "the largest single range in this saṃyutta so far",
+        ]),
+        ("Two categories, one pointer", [
+            "sixteen reused topics, seven new ones &mdash;",
+            "collapsed into a single undifferentiated line",
+        ]),
+        ("The same encoding, larger scale", [
+            "one unified prefix, four keys total &mdash;",
+            "SN 12.72&ndash;81's convention, pushed further",
+        ]),
+        ("Three pages for twenty-six topics", [
+            "SN 24.45 before, SN 24.70 after &mdash;",
+            "this saṃyutta's simplest vagga shape yet",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.46-69/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.45.html">SN 24.45 &middot; Winds</a> '
+        "&mdash; the previous discourse, this vagga's own opening "
+        "topic given full treatment.",
+        '<a href="sn-24.70.html">SN 24.70 &middot; The Self Is Neither '
+        "Happy Nor Suffering</a> &mdash; the next and final discourse, "
+        "closing this entire vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.70 — Tatiyaadukkhamasukhīsutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 70, "Tatiyaadukkhamasukhī", "The Self Is Neither Happy Nor Suffering",
+    vagga="Tatiyagamanavagga",
+    meta_title="SN 24.70 — The Self Is Neither Happy Nor Suffering (Third Round) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyaadukkhamasukhīsutta &mdash; closing "
+        "Tatiyagamanavagga's own third pass through this saṃyutta's "
+        "full twenty-six-topic catalog. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "SN 24.44's own final topic, re-examined a third "
+                 "time with the reworded seventh-ground addition"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closing a vagga worth reviewing as a whole "
+                       "for its own minimal, purely repetitive shape"),
+    ],
+    why=(
+        "Closes Tatiyagamanavagga: the twenty-sixth and final topic "
+        "of this saṃyutta's core catalog (\"the self is neither happy "
+        "nor suffering\"), already given full treatment at SN 24.44, "
+        "re-examined here with the same condensed suffering-ground "
+        "addition shown at SN 24.45. With this discourse, the third "
+        "round of this saṃyutta's twenty-six-topic catalog is "
+        "complete &mdash; one round remains, and it will not simply "
+        "repeat the pattern a fourth time."
+    ),
+    guide=[
+        ("The same closing topic, a third time", [
+            "\"The self is neither happy nor suffering, and healthy "
+            "after death\" &mdash; identical to SN 24.44's own claim, "
+            "the twenty-sixth and final topic of the catalog "
+            "Dutiyagamanavagga established, given individual treatment "
+            "here rather than folded into SN 24.46&ndash;69's merged "
+            "reference.",
+        ]),
+        ("Bracketing the largest merged block in this saṃyutta", [
+            "Like SN 24.45, this discourse receives full aggregate-by-"
+            "aggregate elaboration rather than SN 24.46&ndash;69's "
+            "single-line compression &mdash; bracketing that "
+            "twenty-four-topic block with its own first and last "
+            "positions both spelled out completely, exactly as SN "
+            "24.19 and SN 24.36 bracketed Dutiyagamanavagga's own "
+            "merged block, and SN 24.1/24.18 bracketed Sotāpattivagga's.",
+        ]),
+        ("The reworded seventh ground, closing this round", [
+            "As at SN 24.45, the catechism concludes with the "
+            "condensed formula: \"and so, what's impermanent is "
+            "suffering. When this exists, grasping at this, the view "
+            "arises...\" &mdash; the same addition demonstrated at "
+            "this vagga's opening, now closing it.",
+        ]),
+        ("Three rounds of stream-entry, one round of something else ahead", [
+            "Sotāpattivagga, Dutiyagamanavagga, and Tatiyagamanavagga "
+            "have now run this saṃyutta's catalog through three full "
+            "passes, each ending in the stream-enterer's declaration "
+            "(or its unmistakable, unstated implication). "
+            "Catutthagamanavagga, this saṃyutta's fourth and final "
+            "vagga, reuses the same twenty-six topics as its own "
+            "starting point &mdash; but, as its own opening and "
+            "closing discourses will show, arrives somewhere entirely "
+            "different.",
+        ]),
+    ],
+    terms=[
+        ("adukkhamasukhī attā", "the self is neither happy nor suffering — this discourse's claim, identical to SN 24.44's own, closing this vagga's third pass through the full catalog"),
+        ("aniccaṁ kho pana dukkhaṁ", "\"what's impermanent is suffering\" — the condensed seventh-ground addition, closing this round as it opened it at SN 24.45"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — this book's standing two-condition formula"),
+        ("tatiyagamana", "the third round — this vagga's own name, now fully demonstrated across its opening and closing topics"),
+        ("catuttha", "\"fourth\" — the next vagga's own name, whose opening and closing discourses will reveal a genuinely different destination"),
+    ],
+    text_intro=("The complete discourse: the view re-examined with the "
+        "reworded seventh ground. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.70:1.1-1.4"),
+        ("p", "&sect;2", "sn24.70:2.1-2.7"),
+        ("p", "&sect;3", "sn24.70:3.1-3.20"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse re-examine?",
+         "opts": ["SN 24.44's exact claim — \"the self is neither happy nor suffering, and is healthy after death\"",
+                  "SN 24.1's claim about winds", "An entirely new claim about the self's form", "SN 24.5's nihilist manifesto"],
+         "correct": 0,
+         "expl": "The twenty-sixth and final topic of the catalog, revisited a third time."},
+        {"q": "How does this discourse's treatment compare to SN 24.46–69's compression?",
+         "opts": ["Full elaboration, bracketing that merged block just as SN 24.45 does on the other side",
+                  "Even more compressed than SN 24.46–69", "Identical single-line compression", "No content at all"],
+         "correct": 0,
+         "expl": "This vagga's own first and last topics both spelled out completely."},
+        {"q": "What addition does this discourse demonstrate, closing this round?",
+         "opts": ["The condensed seventh-ground formula shown at SN 24.45", "An entirely new eighth ground", "A new named teacher's doctrine", "A debate with an outside questioner"],
+         "correct": 0,
+         "expl": "\"What's impermanent is suffering\" — the same condensed addition, now closing this round as it opened it."},
+        {"q": "What does this discourse complete, in terms of this saṃyutta's own structure?",
+         "opts": ["The third full pass through the twenty-six-topic catalog, ending in stream-entry", "The entire ninety-six-discourse saṃyutta", "Only the four named-teacher doctrines", "Nothing — this vagga is unrelated to the earlier ones"],
+         "correct": 0,
+         "expl": "Sotāpattivagga, Dutiyagamanavagga, and Tatiyagamanavagga, three rounds toward the same destination."},
+        {"q": "What does Catutthagamanavagga, the next and final vagga, do differently?",
+         "opts": ["It reuses the same twenty-six topics but arrives at a genuinely different destination, as its own opening and closing discourses reveal",
+                  "It simply repeats the same pattern a fourth time toward stream-entry", "It introduces an entirely unrelated new saṃyutta", "It has no relationship to the earlier three vaggas"],
+         "correct": 0,
+         "expl": "A structural surprise this reading guide confirms only by reading SN 24.71 and 24.96 directly."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "How many aggregates does this discourse's catechism examine, plus the seventh ground?",
+         "opts": ["All five, plus suffering as the condensed seventh ground", "Only three", "Six aggregates instead of five", "None — the catechism is entirely skipped"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, plus the reworded suffering-ground addition."},
+        {"q": "What earlier discourse does this one most directly parallel in closing role?",
+         "opts": ["SN 24.44's own closing of Dutiyagamanavagga", "SN 24.1's opening discourse", "SN 24.9's cosmos-eternal claim", "SN 24.5's nihilist manifesto"],
+         "correct": 0,
+         "expl": "Both discourses close their own respective vaggas with this same final topic."},
+        {"q": "How many total pages has this saṃyutta needed to cover Sotāpattivagga, Dutiyagamanavagga, and Tatiyagamanavagga combined?",
+         "opts": ["Eighteen + eleven + three = thirty-two", "Ninety-six, one per sutta-number", "Only three, for the entire saṃyutta", "Eleven, identically across all three vaggas"],
+         "correct": 0,
+         "expl": "A steadily shrinking page count per vagga, as compression and repetition both increase."},
+        {"q": "What vagga follows this discourse?",
+         "opts": ["Catutthagamanavagga, \"the Chapter on the Fourth Round\"", "A return to Sotāpattivagga", "An entirely new saṃyutta", "No further vagga — this closes the saṃyutta"],
+         "correct": 0,
+         "expl": "This saṃyutta's fourth and final vagga, reusing the same catalog toward a different end."},
+    ],
+    marginalia=[
+        ("The same closing topic, once more", [
+            "\"neither happy nor suffering\" &mdash;",
+            "identical to SN 24.44's own claim",
+        ]),
+        ("Bracketing the largest merged block", [
+            "SN 24.45 before, this discourse after &mdash;",
+            "twenty-four topics held between two full pages",
+        ]),
+        ("The condensed formula, closing the round", [
+            "\"what's impermanent is suffering\" &mdash;",
+            "opened at SN 24.45, closed here",
+        ]),
+        ("Three rounds down, one left — and it differs", [
+            "stream-entry, three times over &mdash;",
+            "the fourth round arrives somewhere else entirely",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.70/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.46-69.html">SN 24.46&ndash;69 &middot; This Is '
+        "Mine, Etc.</a> &mdash; the previous discourse, this vagga's "
+        "own compressed middle twenty-four topics.",
+        '<a href="sn-24.44.html">SN 24.44 &middot; The Self Is Neither '
+        "Happy Nor Suffering</a> &mdash; this discourse's own "
+        "second-round source, examined here with the reworded "
+        "seventh ground.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.71 — Catutthavātasutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 71, "Catutthavāta", "Winds",
+    vagga="Catutthagamanavagga",
+    meta_title="SN 24.71 — Winds (Fourth Round) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Catutthavātasutta &mdash; opening this saṃyutta's fourth "
+        "and final vagga, which reuses the same catalog of views but "
+        "pivots to the universal self-view catechism and full "
+        "liberation rather than stream-entry. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "SN 24.1's own opening view, used once more to "
+                 "identify what's being grasped, but now answered "
+                 "with the classic aggregate-liberation catechism and "
+                 "an arahant conclusion rather than a repeat of the "
+                 "stream-enterer formula"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the structural shift from the first three "
+                       "vaggas is significant and rewards careful "
+                       "comparison"),
+    ],
+    why=(
+        "Opens Catutthagamanavagga (\"the Chapter on the Fourth "
+        "Round\") &mdash; and, confirmed only by reading this "
+        "discourse itself rather than assuming a fourth mechanical "
+        "repetition, reveals a genuine structural pivot. The opening "
+        "view (\"winds don't blow...\") and the aggregate identification "
+        "are unchanged from the first three vaggas, but the "
+        "follow-up question and the conclusion both change completely: "
+        "rather than re-testing the specific view and declaring "
+        "stream-entry, this discourse pivots to the universal "
+        "self-view formula (\"this is mine, I am this, this is my "
+        "self\") and closes with the short form of this book's "
+        "arahant refrain."
+    ),
+    guide=[
+        ("The same opening, a fourth time", [
+            "\"Winds don't blow; rivers don't flow; pregnant women "
+            "don't give birth; the moon and stars neither rise nor "
+            "set, but stand firm like a pillar\" &mdash; identical to "
+            "SN 24.1, SN 24.19, and SN 24.45's own opening claims, "
+            "used here purely as the occasion for identifying which "
+            "aggregate is being grasped, not as the thing the "
+            "remainder of the discourse continues to examine.",
+        ]),
+        ("A different follow-up question, a genuine pivot", [
+            "Where the first three vaggas asked \"would the view "
+            "[winds don't blow...] arise?\" after establishing each "
+            "aggregate's impermanence, this discourse instead asks: "
+            "\"is it fit to be regarded thus: 'This is mine, I am "
+            "this, this is my self'?\" &mdash; substituting this "
+            "book's own universal self-view formula (already familiar "
+            "from SN 22.151 and SN 24.2) for the specific \"winds\" "
+            "claim.",
+            "This is not a minor wording variation like SN 24.45's "
+            "condensed suffering-ground: it is a different diagnostic "
+            "question entirely, testing the general root of "
+            "self-view rather than re-confirming the particular view "
+            "this discourse opened with.",
+        ]),
+        ("The full liberation instruction, not a stream-entry declaration", [
+            "The catechism concludes not with \"given up doubt... "
+            "stream-enterer,\" but with the Khandhavagga-style positive "
+            "instruction: \"you should truly see any kind of form at "
+            "all&mdash;past, future, or present; internal or "
+            "external...&mdash;with right understanding: 'This is not "
+            "mine, I am not this, this is not my self,'\" followed by "
+            "the short arahant refrain: \"seeing this... they "
+            "understand: 'there is nothing further for this place.'\"",
+            "This exact instruction and refrain are the same ones "
+            "used throughout SN 22 for full liberation, not the "
+            "sotāpanna-specific formula this saṃyutta has used "
+            "consistently since SN 24.1.",
+        ]),
+        ("Why round four could not simply repeat rounds one through three", [
+            "Having used the twenty-six-topic catalog three times over "
+            "to certify stream-entry, this saṃyutta's fourth and final "
+            "round repurposes the same twenty-six occasions of "
+            "wrong-view diagnosis as the springboard for full "
+            "liberation instead &mdash; a genuine escalation in the "
+            "text's own soteriological ambition, not a fourth "
+            "mechanical loop.",
+        ]),
+    ],
+    terms=[
+        ("etaṁ mama, esohamasmi, eso me attā", "\"this is mine, I am this, this is my self\" — the universal self-view formula this discourse substitutes for the specific \"winds\" claim's own re-examination"),
+        ("catutthagamana", "the fourth round — this vagga's own name, marking a genuine pivot rather than a fourth mechanical repetition"),
+        ("nāhaṁ etaṁ, na esohamasmi, na meso attā", "\"this is not mine, I am not this, this is not my self\" — the positive instruction this discourse concludes with, familiar from Khandhavagga's own liberation formula"),
+        ("natthi dāni idaṁ punabbhavo", "\"there is nothing further for this place\" — the short-form arahant refrain closing this discourse, distinct from this saṃyutta's earlier stream-enterer conclusions"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — this book's standing two-condition formula, still used to open this discourse despite its changed conclusion"),
+    ],
+    text_intro=("The complete discourse: the familiar opening view, the "
+        "aggregate identification, and the pivot to the universal "
+        "self-view catechism and arahant conclusion. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.71:1.1-1.4"),
+        ("p", "&sect;2", "sn24.71:2.1-2.25"),
+        ("p", "&sect;3", "sn24.71:3.1-4.2"),
+    ],
+    quiz=[
+        {"q": "What opening view does this discourse begin with?",
+         "opts": ["The same \"winds don't blow\" claim from SN 24.1, 24.19, and 24.45",
+                  "An entirely new view about the tathāgata", "SN 24.5's nihilist manifesto", "SN 22.151's self-view formula, from the start"],
+         "correct": 0,
+         "expl": "Used here purely as the occasion for identifying which aggregate is being grasped."},
+        {"q": "What follow-up question does this discourse ask, unlike the first three vaggas?",
+         "opts": ["\"Is it fit to be regarded thus: 'This is mine, I am this, this is my self'?\" — the universal self-view formula",
+                  "The same \"would the view [winds don't blow] arise\" question as before", "No follow-up question at all", "A question about a named teacher's doctrine"],
+         "correct": 0,
+         "expl": "Substituting the general root of self-view for the specific opening claim."},
+        {"q": "How does this discourse's conclusion differ from the first three vaggas' stream-enterer declarations?",
+         "opts": ["It uses the Khandhavagga-style positive instruction and the short arahant refrain, not a stream-entry formula",
+                  "It is worded identically to the earlier vaggas' conclusions", "It has no conclusion at all", "It concludes with a debate victory"],
+         "correct": 0,
+         "expl": "The same instruction and refrain used throughout SN 22 for full liberation."},
+        {"q": "Why is this discourse's follow-up question a genuine structural pivot, not a minor variation?",
+         "opts": ["It tests the general root of self-view rather than re-confirming the specific view the discourse opened with",
+                  "It is actually identical in substance to SN 24.45's condensed suffering-ground", "It removes the aggregate catechism entirely", "It introduces a new named teacher's doctrine"],
+         "correct": 0,
+         "expl": "A different diagnostic question entirely, not a wording adjustment."},
+        {"q": "What does this reading guide say about why round four could not simply repeat rounds one through three?",
+         "opts": ["It repurposes the same twenty-six occasions of wrong-view diagnosis as a springboard for full liberation, not stream-entry",
+                  "It actually does simply repeat the same pattern a fourth time", "It abandons the twenty-six-topic catalog entirely", "It introduces an entirely unrelated new saṃyutta"],
+         "correct": 0,
+         "expl": "A genuine escalation in soteriological ambition, confirmed only by reading the text directly."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What vagga does this discourse open?",
+         "opts": ["Catutthagamanavagga, \"the Chapter on the Fourth Round\"", "Sotāpattivagga", "Dutiyagamanavagga", "Tatiyagamanavagga"],
+         "correct": 0,
+         "expl": "This saṃyutta's fourth and final vagga."},
+        {"q": "What formula does this discourse's positive instruction use?",
+         "opts": ["\"This is not mine, I am not this, this is not my self,\" applied to all form, feeling, perception, choices, and consciousness",
+                  "\"Given up doubt regarding these six grounds\"", "\"The eighteen expositions are finished\"", "A formula unrelated to the aggregates"],
+         "correct": 0,
+         "expl": "Familiar from Khandhavagga's own standing liberation formula."},
+        {"q": "What short refrain closes this discourse?",
+         "opts": ["\"There is nothing further for this place\"", "\"Not liable to be reborn in the underworld, assured, destined for awakening\"", "\"The Linked Discourses on views are complete\"", "No refrain — the discourse ends mid-sentence"],
+         "correct": 0,
+         "expl": "The short-form arahant refrain, distinct from this saṃyutta's earlier stream-enterer conclusions."},
+        {"q": "How is this discourse's own follow-up formula already familiar from earlier in this project?",
+         "opts": ["From SN 22.151 and SN 24.2's own treatment of the identical self-view formula", "It has never appeared anywhere else in this project", "Only from SN 24.5's nihilist manifesto", "Only from the four named-teacher doctrines"],
+         "correct": 0,
+         "expl": "The same three-part claim already examined twice before in this project."},
+    ],
+    marginalia=[
+        ("The same opening, once more", [
+            "\"winds don't blow, rivers don't flow\" &mdash;",
+            "now only the occasion, not the destination",
+        ]),
+        ("A genuine pivot, not a variation", [
+            "\"is it fit to regard this as mine?\" &mdash;",
+            "the universal formula, replacing the specific claim",
+        ]),
+        ("Liberation, not stream-entry", [
+            "\"there is nothing further for this place\" &mdash;",
+            "Khandhavagga's own refrain, not this book's usual close",
+        ]),
+        ("Why the fourth round had to differ", [
+            "three rounds toward stream-entry, already complete &mdash;",
+            "the same catalog now serves a larger ambition",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.71/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.70.html">SN 24.70 &middot; The Self Is Neither '
+        "Happy Nor Suffering</a> &mdash; the previous discourse, "
+        "closing Tatiyagamanavagga's third round toward stream-entry.",
+        '<a href="sn-22.151.html">SN 22.151 &middot; This Is Mine</a> '
+        "&mdash; the source discourse for the self-view formula this "
+        "discourse now substitutes for its own opening claim.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.72-95 — Etaṁmamādisutta (merged)
+# --------------------------------------------------------------------------- #
+page_range(
+    24, 72, 95, "Etaṁmamādi", "This Is Mine, Etc.",
+    vagga="Catutthagamanavagga",
+    meta_title="SN 24.72–95 · This Is Mine, Etc. (Fourth Round) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Etaṁmamādisutta &mdash; twenty-four discourses compressed "
+        "into a single cross-reference, closing in on this saṃyutta's "
+        "very last discourse. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha addressing the mendicants (by "
+                     "cross-reference)"),
+        ("Form", "A single explicit editorial instruction standing "
+                 "in for twenty-four separate sutta-numbers"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial on its own, meaningful only in "
+                       "relation to this vagga's own bracketing pair"),
+    ],
+    why=(
+        "This saṃyutta's second twenty-four-topic merged block, "
+        "matching SN 24.46&ndash;69's own scale but pointing to a "
+        "differently worded instruction: \"tell in full as in the 24 "
+        "discourses of the second chapter,\" rather than naming exact "
+        "discourse numbers &mdash; a looser cross-reference than "
+        "SN 24.46&ndash;69's own precisely numbered one, appropriate "
+        "to a round whose actual treatment (established by SN 24.71 "
+        "and confirmed at SN 24.96) differs from what the second "
+        "chapter's own discourses actually contained."
+    ),
+    guide=[
+        ("A less precise pointer than its third-round counterpart", [
+            "\"Tell in full as in the 24 discourses of the second "
+            "chapter\" &mdash; where SN 24.46&ndash;69 named exact "
+            "discourse numbers (\"discourses 20 through 43\"), this "
+            "instruction simply names a count. The difference is "
+            "small but consistent with this round's own looser "
+            "relationship to its stated source: the twenty-four "
+            "middle topics are the same twenty-four subjects "
+            "Dutiyagamanavagga covered, but the treatment SN 24.71 and "
+            "SN 24.96 actually demonstrate &mdash; the universal "
+            "self-view catechism and full liberation &mdash; is not "
+            "what Dutiyagamanavagga's own discourses contained.",
+        ]),
+        ("What the pointer names versus what the vagga delivers", [
+            "This is worth stating plainly: the instruction's "
+            "wording asks the reader to model this vagga's middle "
+            "block on the second chapter's own twenty-four "
+            "discourses, but the two bracketing discourses actually "
+            "written out in full (SN 24.71 and SN 24.96) do not use "
+            "the second chapter's stream-entry template at all. The "
+            "cross-reference is best read as naming which twenty-four "
+            "subjects to cover, not which exact wording or conclusion "
+            "to reuse.",
+        ]),
+        ("The same unified-prefix encoding, a third time", [
+            "As with SN 24.20&ndash;35 and SN 24.46&ndash;69, this "
+            "file uses a single unified key prefix for its entire "
+            "four-key content &mdash; the third and final instance of "
+            "this particular compression pattern in this saṃyutta.",
+        ]),
+        ("One discourse remains in the entire saṃyutta", [
+            "SN 24.96 will close both this merged block and "
+            "Diṭṭhisaṃyutta itself &mdash; all ninety-six discourses, "
+            "four vaggas, and the saṃyutta's own confirmed colophon, "
+            "the very last page in this book's fourth saṃyutta.",
+        ]),
+    ],
+    terms=[
+        ("catuvīsati suttantā dutiyapariyāyassa", "\"the 24 discourses of the second chapter\" — this instruction's own looser count-based cross-reference, unlike SN 24.46–69's precisely numbered one"),
+        ("catutthagamana", "the fourth round — this vagga's own name, whose actual treatment departs from what its own cross-reference might suggest"),
+        ("peyyāla", "an elision mark — here compressing twenty-four sutta-numbers for the third time at this scale in this saṃyutta"),
+        ("vitthāretabbāni", "\"should be told in full\" — the instruction's own directive, though this reading guide notes the actual template it points to is ambiguous"),
+        ("etaṁ mama, esohamasmi, eso me attā", "\"this is mine, I am this, this is my self\" — the universal formula SN 24.71 and 24.96 actually apply, presumably to each of these twenty-four topics as well"),
+    ],
+    text_intro=("The complete merged file: a single editorial instruction "
+        "standing in for twenty-four sutta-numbers. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.72-95:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this merged file's single line of content say?",
+         "opts": ["An instruction to tell twenty-four discourses in full as in the 24 discourses of the second chapter",
+                  "A restatement of one specific view", "A new view not found in earlier vaggas", "A debate between two named disciples"],
+         "correct": 0,
+         "expl": "A count-based cross-reference, less precise than SN 24.46–69's own numbered one."},
+        {"q": "How does this instruction's wording differ from SN 24.46–69's own?",
+         "opts": ["It names a count of discourses rather than exact discourse numbers", "It is worded identically in every respect", "It names exact discourse numbers where SN 24.46–69 only gave a count", "It refers to an entirely different chapter"],
+         "correct": 0,
+         "expl": "A small but consistent difference, appropriate to this round's own looser relationship to its stated source."},
+        {"q": "Does this vagga's actual treatment (shown at SN 24.71 and 24.96) match what the second chapter's own discourses contained?",
+         "opts": ["No — the second chapter used the stream-entry template, while this vagga uses the universal self-view catechism and full liberation",
+                  "Yes, exactly and completely", "The second chapter contained no discourses at all", "This question cannot be determined"],
+         "correct": 0,
+         "expl": "The cross-reference is best read as naming which subjects to cover, not which conclusion to reuse."},
+        {"q": "How should this instruction's cross-reference best be understood, according to this reading guide?",
+         "opts": ["As naming which twenty-four subjects to cover, not which exact wording or conclusion to reuse",
+                  "As a literal, word-for-word template to copy exactly", "As entirely unrelated to Dutiyagamanavagga", "As an error that should be silently corrected"],
+         "correct": 0,
+         "expl": "A subject-matter pointer, given what SN 24.71 and SN 24.96 actually demonstrate."},
+        {"q": "What encoding convention does this file share with SN 24.20–35 and SN 24.46–69?",
+         "opts": ["A single unified key prefix for its entire content", "Each sub-discourse keeping its own individual prefix", "No prefix convention at all", "A prefix unique to this file"],
+         "correct": 0,
+         "expl": "The third and final instance of this compression pattern in this saṃyutta."},
+        {"q": "What discourses bracket this merged file?",
+         "opts": ["SN 24.71 before it, SN 24.96 after it", "SN 24.45 before it, SN 24.70 after it", "SN 24.1 before it, SN 24.18 after it", "No discourses bracket it"],
+         "correct": 0,
+         "expl": "This vagga's own first and ninety-sixth topics."},
+        {"q": "What will SN 24.96 close, following this merged block?",
+         "opts": ["Both this vagga and Diṭṭhisaṃyutta itself — all ninety-six discourses across four vaggas", "Only this single merged file", "An entirely different saṃyutta", "Nothing — another vagga follows"],
+         "correct": 0,
+         "expl": "The very last page in this book's fourth saṃyutta, carrying its own confirmed colophon."},
+        {"q": "Where is this file's content nominally set, by cross-reference?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching this saṃyutta's own setting, inherited by cross-reference."},
+        {"q": "How many total content keys does this merged file's translation contain?",
+         "opts": ["Four — three heading keys and one line of instruction", "Twenty-four, one per sutta-number", "Ninety-six", "None at all"],
+         "correct": 0,
+         "expl": "The same minimal shape as this saṃyutta's two earlier large merged files."},
+        {"q": "What formula does SN 24.71 and SN 24.96 actually apply, which this merged block's twenty-four topics presumably share?",
+         "opts": ["\"This is mine, I am this, this is my self\" — the universal self-view formula", "The specific \"winds don't blow\" claim, re-examined", "The four named-teacher doctrines", "No formula at all"],
+         "correct": 0,
+         "expl": "The genuine pivot this vagga's bracketing discourses establish."},
+    ],
+    marginalia=[
+        ("A looser pointer this time", [
+            "a count, not exact discourse numbers &mdash;",
+            "consistent with this round's own actual departure",
+        ]),
+        ("What it names, what it delivers", [
+            "twenty-four subjects, one new conclusion &mdash;",
+            "stream-entry's template replaced by liberation's own",
+        ]),
+        ("A third instance of the same encoding", [
+            "one unified prefix, four keys total &mdash;",
+            "this saṃyutta's third and final such file",
+        ]),
+        ("One discourse left in the whole saṃyutta", [
+            "ninety-six discourses, one page remaining &mdash;",
+            "SN 24.96 closes everything at once",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.72-95/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.71.html">SN 24.71 &middot; Winds</a> '
+        "&mdash; the previous discourse, this vagga's own opening "
+        "topic and the source of its actual template.",
+        '<a href="sn-24.96.html">SN 24.96 &middot; The Self Is Neither '
+        "Happy Nor Suffering</a> &mdash; the next and truly final "
+        "discourse, closing this entire saṃyutta.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 24.96 — Catutthaadukkhamasukhīsutta
+# --------------------------------------------------------------------------- #
+page(
+    24, 96, "Catutthaadukkhamasukhī", "The Self Is Neither Happy Nor Suffering",
+    vagga="Catutthagamanavagga",
+    meta_title="SN 24.96 — The Self Is Neither Happy Nor Suffering | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Catutthaadukkhamasukhīsutta &mdash; the true final "
+        "discourse of Diṭṭhisaṃyutta's full ninety-six, closing with "
+        "the saṃyutta's own confirmed English colophon. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "This saṃyutta's twenty-sixth and final catalog "
+                 "topic, given the universal self-view catechism and "
+                 "this book's fullest arahant declaration, closing "
+                 "with a translated colophon"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the content is familiar by this point; what "
+                       "makes this discourse worth close reading is "
+                       "its own closing weight"),
+    ],
+    why=(
+        "The true final discourse of Diṭṭhisaṃyutta's full ninety-six: "
+        "closing not only Catutthagamanavagga but the entire "
+        "saṃyutta, with the fullest form of this book's arahant "
+        "refrain (\"rebirth is ended, the spiritual journey has been "
+        "completed, what had to be done has been done\") and &mdash; "
+        "unlike SN 24.18 and SN 24.44's own untranslated colophons "
+        "&mdash; a colophon Sujato did translate: \"The Linked "
+        "Discourses on views are complete.\""
+    ),
+    guide=[
+        ("The same closing topic, a fourth and final time", [
+            "\"The self is neither happy nor suffering, and is "
+            "healthy after death\" &mdash; identical to SN 24.44 and "
+            "SN 24.70's own claims, the twenty-sixth and final topic "
+            "of this saṃyutta's core catalog, now given the fourth "
+            "round's own distinctive treatment.",
+        ]),
+        ("The universal catechism, given in full for the last time", [
+            "As at SN 24.71, the follow-up question pivots to the "
+            "self-view formula: \"is it fit to be regarded thus: "
+            "'This is mine, I am this, this is my self'?\" &mdash; "
+            "asked twice, once for each aggregate in turn (3.1&ndash;"
+            "3.18), before the positive instruction: \"you should "
+            "truly see any kind of form at all&mdash;past, future, or "
+            "present; internal or external; solid or subtle; inferior "
+            "or superior; far or near: all form&mdash;with right "
+            "understanding: 'This is not mine, I am not this, this is "
+            "not my self'\" (4.1&ndash;4.5), applied to each aggregate "
+            "without exception.",
+        ]),
+        ("This book's fullest liberation declaration", [
+            "\"Seeing this, a learned noble disciple grows "
+            "disillusioned with form, feeling, perception, choices, "
+            "and consciousness. Being disillusioned, desire fades "
+            "away. When desire fades away they're freed. When they're "
+            "freed, they know they're freed. They understand: "
+            "'Rebirth is ended, the spiritual journey has been "
+            "completed, what had to be done has been done, there is "
+            "nothing further for this place'\" &mdash; the complete, "
+            "unabridged arahant refrain, longer than SN 24.71's own "
+            "short form, appropriate to closing not just this vagga "
+            "but the entire saṃyutta.",
+        ]),
+        ("A colophon Sujato actually translated", [
+            "\"The Linked Discourses on views are complete\" (sn24.96:"
+            "6.5) &mdash; unlike SN 24.18's \"the eighteen expositions "
+            "are finished\" or SN 24.44's own two-part uddāna, both "
+            "left untranslated and only described in this reading "
+            "guide's own prose, this closing line is Sujato's own "
+            "English rendering, quotable here exactly as it stands. "
+            "It confirms, in the translator's own words, that "
+            "Diṭṭhisaṃyutta &mdash; all ninety-six discourses, four "
+            "vaggas, from SN 24.1's opening question about winds "
+            "through this closing declaration &mdash; is complete.",
+        ]),
+    ],
+    terms=[
+        ("adukkhamasukhī attā", "the self is neither happy nor suffering — this discourse's claim, closing the catalog for the fourth and final time"),
+        ("etaṁ mama, esohamasmi, eso me attā", "\"this is mine, I am this, this is my self\" — the universal formula this discourse tests, as at SN 24.71"),
+        ("khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyāti", "\"rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is nothing further for this place\" — this book's fullest arahant declaration, closing this discourse"),
+        ("diṭṭhisaṃyuttaṁ samattaṁ", "\"the Linked Discourses on views are complete\" — this saṃyutta's own colophon, translated by Sujato and quoted here exactly as it stands"),
+        ("upādāya... abhinivissa", "grasping... and insisting on — this book's standing two-condition formula, opening this discourse one final time"),
+    ],
+    text_intro=("The complete discourse: the universal self-view catechism, "
+        "this book's fullest arahant declaration, and the saṃyutta's "
+        "own translated closing colophon. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn24.96:1.1-1.4"),
+        ("p", "&sect;2", "sn24.96:2.1-2.7"),
+        ("p", "&sect;3", "sn24.96:3.1-3.18"),
+        ("p", "&sect;4", "sn24.96:4.1-4.5"),
+        ("p", "&sect;5", "sn24.96:5.1-5.3"),
+        ("p", "&sect;6", "sn24.96:6.5"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse examine, closing the catalog for the fourth time?",
+         "opts": ["\"The self is neither happy nor suffering, and is healthy after death\"", "\"Winds don't blow; rivers don't flow\"", "\"The cosmos is eternal\"", "\"There's no cause or reason\""],
+         "correct": 0,
+         "expl": "Identical to SN 24.44 and SN 24.70's own claims, this vagga's own final topic."},
+        {"q": "What follow-up question does this discourse's catechism use, as at SN 24.71?",
+         "opts": ["\"Is it fit to be regarded thus: 'This is mine, I am this, this is my self'?\"", "\"Would the view [neither happy nor suffering] arise?\"", "No follow-up question at all", "A question about a named teacher's doctrine"],
+         "correct": 0,
+         "expl": "The universal self-view formula, tested for each aggregate in turn."},
+        {"q": "How does this discourse's closing declaration compare to SN 24.71's own?",
+         "opts": ["Longer and fuller — the complete, unabridged arahant refrain rather than the short form", "Identical in every respect", "Shorter than SN 24.71's own declaration", "This discourse has no closing declaration at all"],
+         "correct": 0,
+         "expl": "Appropriate to closing not just this vagga but the entire saṃyutta."},
+        {"q": "What is unique about this discourse's closing colophon, compared to SN 24.18 and SN 24.44's own?",
+         "opts": ["Sujato actually translated it into English, unlike the earlier untranslated colophons", "It is left entirely untranslated, like the earlier ones", "It doesn't exist at all", "It is written in a language other than Pāli or English"],
+         "correct": 0,
+         "expl": "\"The Linked Discourses on views are complete\" — quotable exactly as Sujato rendered it."},
+        {"q": "What does this colophon confirm, in the translator's own words?",
+         "opts": ["That Diṭṭhisaṃyutta's full ninety-six discourses across four vaggas are complete", "That only this single vagga is complete", "That the saṃyutta actually contains one hundred discourses", "Nothing about the saṃyutta's overall structure"],
+         "correct": 0,
+         "expl": "From SN 24.1's opening question about winds through this closing declaration."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most of this book's discourses."},
+        {"q": "What positive instruction does this discourse give for each aggregate?",
+         "opts": ["\"This is not mine, I am not this, this is not my self,\" applied to all form, feeling, perception, choices, and consciousness without exception",
+                  "\"Given up doubt regarding these six grounds\"", "An instruction unrelated to the aggregates", "No positive instruction at all"],
+         "correct": 0,
+         "expl": "Past, future, or present; internal or external; solid or subtle; inferior or superior; far or near — all of it."},
+        {"q": "What four things does the arahant declaration say have been accomplished?",
+         "opts": ["Rebirth is ended, the spiritual journey completed, what had to be done is done, nothing further remains", "Doubt is given up regarding six grounds and four truths", "The eighteen expositions are finished", "A debate has been won"],
+         "correct": 0,
+         "expl": "This book's fullest, most complete liberation formula."},
+        {"q": "How many discourses, vaggas, and total pages does this discourse close?",
+         "opts": ["Ninety-six discourses across four vaggas, this saṃyutta's entire set", "Only twenty-six discourses, this vagga alone", "The entire Saṃyutta Nikāya, all fifty-six saṃyuttas", "Nothing beyond this single discourse"],
+         "correct": 0,
+         "expl": "Diṭṭhisaṃyutta's complete run, from SN 24.1 through this discourse."},
+        {"q": "What does the shift from stream-entry (Sotāpattivagga through Tatiyagamanavagga) to full liberation (Catutthagamanavagga) reveal about this saṃyutta's overall design?",
+         "opts": ["A deliberate escalation, reusing the same twenty-six-topic catalog as the occasion for an increasingly ambitious soteriological goal",
+                  "An accidental inconsistency in the source text", "No meaningful design — the saṃyutta is simply repetitive throughout", "A design unrelated to liberation at any stage"],
+         "correct": 0,
+         "expl": "Confirmed by SN 24.71 and this discourse's own bracketing treatment of Catutthagamanavagga."},
+    ],
+    marginalia=[
+        ("The last of the catalog, one final time", [
+            "\"neither happy nor suffering\" &mdash;",
+            "the twenty-sixth topic, closing this saṃyutta",
+        ]),
+        ("The universal formula, tested fully", [
+            "\"is it fit to regard this as mine?\" &mdash;",
+            "each aggregate examined without exception",
+        ]),
+        ("This book's fullest declaration", [
+            "\"rebirth is ended... nothing further for this place\" &mdash;",
+            "the complete arahant refrain, unabridged",
+        ]),
+        ("A colophon, translated at last", [
+            "\"The Linked Discourses on views are complete\" &mdash;",
+            "Sujato's own words, quoted exactly as they stand",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn24.96/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.72-95.html">SN 24.72&ndash;95 &middot; This Is '
+        "Mine, Etc.</a> &mdash; the previous discourse, this vagga's "
+        "own compressed middle twenty-four topics.",
+        '<a href="sn-24.71.html">SN 24.71 &middot; Winds</a> '
+        "&mdash; this saṃyutta's own opening move toward liberation "
+        "rather than stream-entry, whose pivot this closing discourse "
+        "confirms and completes.",
+    ],
+)
