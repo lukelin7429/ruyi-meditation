@@ -1,0 +1,261 @@
+---
+layout: default
+title: Fahua Wenju
+permalink: /sutras/fahua-wenju/
+excerpt: A plain-English study entrance to Zhiyi's Fahua Wenju, his line-by-line commentary on the Lotus Sutra, organized fascicle by fascicle.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .fwj{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .fwj *{box-sizing:border-box;}
+  .fwj-wrap{max-width:1080px;margin:0 auto;padding:0 26px;}
+  .js .fwj [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .fwj [data-rv].in{opacity:1;transform:none;}
+  .fwj-hero{background:linear-gradient(155deg,#2f6d5e 0%,#254f45 45%,#151c20 100%);color:#fff;overflow:hidden;position:relative;}
+  .fwj-hero::after{content:"妙法蓮華經文句";position:absolute;right:-18px;bottom:-36px;font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:92px;font-weight:700;color:rgba(255,255,255,.06);letter-spacing:.06em;white-space:nowrap;}
+  .fwj-hero-in{position:relative;z-index:1;padding:78px 26px 84px;max-width:1080px;margin:0 auto;}
+  .fwj-bread{font-size:13px;letter-spacing:.04em;margin-bottom:28px;color:rgba(255,255,255,.72);}
+  .fwj-bread a{color:#f0c96d;text-decoration:none;border-bottom:1px solid rgba(240,201,109,.45);}
+  .fwj-eyebrow{font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:#f0c96d;font-weight:700;}
+  .fwj h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(38px,6.2vw,62px);line-height:1.08;color:#fff;margin:14px 0 18px;max-width:16ch;}
+  .fwj-hero p{max-width:720px;color:#edf4ef;font-size:19px;line-height:1.7;}
+  .fwj-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:30px;}
+  .fwj-btn{display:inline-flex;align-items:center;gap:8px;border-radius:4px;padding:13px 20px;font-weight:700;text-decoration:none;border:1px solid rgba(255,255,255,.28);}
+  .fwj-btn.primary{background:#f0c96d;color:#251f1a;border-color:#f0c96d;}
+  .fwj-btn.secondary{color:#fff;background:rgba(255,255,255,.08);}
+  .fwj-intro{background:var(--cream);padding:64px 0 42px;}
+  .fwj-grid{display:grid;grid-template-columns:1fr;gap:20px;}
+  @media(min-width:780px){.fwj-grid{grid-template-columns:1.15fr .85fr;}}
+  .fwj-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;}
+  .fwj-panel h2,.fwj-section h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(28px,4vw,40px);line-height:1.14;color:var(--ink);margin:0 0 14px;}
+  .fwj-panel p,.fwj-panel li{color:var(--muted);font-size:16.5px;line-height:1.65;}
+  .fwj-panel ul{padding-left:20px;margin:0;}
+  .fwj-stats{display:grid;gap:12px;margin-top:18px;}
+  .fwj-stat{border-top:1px solid var(--line);padding-top:14px;}
+  .fwj-stat b{font-family:'Playfair Display',Georgia,serif;font-size:28px;color:var(--terra);margin-right:6px;}
+  .fwj-section{padding:70px 0;background:#fff;}
+  .fwj-section-head{max-width:720px;margin-bottom:28px;}
+  .fwj-section-head p{color:var(--muted);font-size:17px;line-height:1.65;}
+  .vol-grid{display:grid;grid-template-columns:1fr;gap:12px;}
+  @media(min-width:640px){.vol-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  @media(min-width:980px){.vol-grid{grid-template-columns:repeat(4,minmax(0,1fr));}}
+  .vol-card{border:1px solid var(--line);border-radius:8px;background:linear-gradient(180deg,#fff,#fdf9f1);padding:16px;text-decoration:none;color:inherit;min-height:122px;display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;}
+  .vol-card.live{background:linear-gradient(180deg,#fff,#f5fbf8);border-color:#b9d2c8;}
+  .vol-card:hover{transform:translateY(-3px);box-shadow:0 16px 30px -24px rgba(80,48,20,.55);border-color:#d8c6a6;text-decoration:none;}
+  .vol-card.live:hover{border-color:#7ea99a;}
+  .vol-num{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--terra);}
+  .vol-card.live .vol-num{color:var(--jade);}
+  .vol-title{font-family:'Playfair Display',Georgia,serif;font-size:20px;color:var(--ink);margin:8px 0 6px;line-height:1.2;}
+  .vol-note{font-size:14px;color:var(--muted);line-height:1.45;margin-top:auto;}
+  .fwj-featured{display:grid;grid-template-columns:1fr;gap:18px;margin-bottom:28px;}
+  @media(min-width:760px){.fwj-featured{grid-template-columns:repeat(2,1fr);}}
+  .feature{border-radius:8px;background:#f7f1e6;border:1px solid var(--line);padding:22px;}
+  .feature .tag{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--terra-deep);font-weight:800;}
+  .feature h3{font-family:'Playfair Display',Georgia,serif;font-size:23px;margin:8px 0 8px;color:var(--ink);}
+  .feature p{font-size:15.5px;line-height:1.6;color:var(--muted);margin:0;}
+  #notes{padding-top:24px;}
+  .term-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:8px;}
+  @media(min-width:700px){.term-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .term{border:1px solid var(--line);border-radius:8px;padding:16px;background:#fffdf8;}
+  .term b{display:block;color:var(--ink);margin-bottom:5px;}
+  .term span{font-size:14.5px;color:var(--muted);line-height:1.55;}
+  @media(prefers-reduced-motion:reduce){.js .fwj [data-rv]{opacity:1;transform:none;}}
+</style>
+
+<div class="fwj">
+  <section class="fwj-hero">
+    <div class="fwj-hero-in">
+      <nav class="fwj-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › Fahua Wenju</nav>
+      <div class="fwj-eyebrow" data-rv>Zhiyi · Tiantai · 妙法蓮華經文句</div>
+      <h1 data-rv style="transition-delay:.06s">A Thousand Carts, One Rut.</h1>
+      <p data-rv style="transition-delay:.12s">The <em>Fahua Wenju</em> ("Words and Phrases of the Lotus Sūtra") is Zhiyi's line-by-line commentary on the <em>Lotus Sūtra</em> — not a system built from the sūtra's principles, as the <em>Mohe Zhiguan</em> is, but a phrase-by-phrase gloss of the sūtra's own words, worked through his fourfold interpretive method: causes and conditions, the four teachings, trace and origin, and the contemplation of mind. Ru-Yi's own translation of all ten fascicles is now complete — this page is the entrance for reading it fascicle by fascicle.</p>
+      <div class="fwj-actions" data-rv style="transition-delay:.18s">
+        <a class="fwj-btn primary" href="#fascicles">Browse all 10 fascicles →</a>
+        <a class="fwj-btn secondary" href="#notes">Translation notes →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="fwj-intro">
+    <div class="fwj-wrap fwj-grid">
+      <div class="fwj-panel" data-rv>
+        <h2>How to read this collection</h2>
+        <p>Zhiyi delivered this commentary as oral lectures late in his life, recorded and edited by his disciple Guanding into the ten-fascicle text preserved in the Taishō canon. It goes through the <em>Lotus Sūtra</em>'s own words — sometimes a single phrase, sometimes a whole passage — glossing each one through his fourfold method. There is no separate column for "sūtra quote" versus "commentary": Zhiyi cites a short phrase in quotation marks and glosses it in the same breath, and this translation preserves that same interleaved form.</p>
+        <p>This site already carries Ru-Yi's own translation of the <a href="{{ '/sutras/lotus-sutra/' | relative_url }}">Lotus Sūtra</a> itself; this commentary is Zhiyi's own running gloss on that same text, and this translation follows this site's established English renderings for the sūtra's chapter titles and recurring phrases wherever the <em>Wenju</em> quotes them. Terminology is also kept consistent with this site's three other Zhiyi/Tiantai translations — the <a href="{{ '/sutras/mohe-zhiguan/' | relative_url }}">Mohe Zhiguan</a>, the <a href="{{ '/sutras/shi-chan-boluomi/' | relative_url }}">Shi Chan Boluomi Cidi Famen</a>, and the <a href="{{ '/sutras/xiao-zhiguan-jiangyi/' | relative_url }}">Xiao Zhiguan Jiangyi</a> — and with the <a href="{{ '/sutras/jiaoguan-gangzong/' | relative_url }}">Jiaoguan Gangzong</a>, which quotes the <em>Wenju</em> itself repeatedly as an authority.</p>
+      </div>
+      <div class="fwj-panel" data-rv style="transition-delay:.08s">
+        <h2>What each fascicle page includes</h2>
+        <ul>
+          <li>The Chinese source text beside our English translation.</li>
+          <li>Reading notes explaining historical commentators, technical terms, and difficult passages as they first appear.</li>
+          <li>A running glossary so terminology stays consistent from fascicle 1 onward.</li>
+        </ul>
+        <div class="fwj-stats">
+          <div class="fwj-stat"><b>10</b> fascicles in the Chinese text</div>
+          <div class="fwj-stat"><b>10</b> fascicles complete — translation finished</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="fwj-section" id="fascicles">
+    <div class="fwj-wrap">
+      <div class="fwj-section-head" data-rv>
+        <h2>Read by Fascicle</h2>
+        <p>All 10 fascicles are complete, linking to Ru-Yi's own translation. Use this as the table of contents for the whole commentary.</p>
+      </div>
+
+      <div class="fwj-featured">
+        <div class="feature" data-rv>
+          <span class="tag">Fascicle 1 · The opening chapter begins</span>
+          <h3>A Thousand Carts, One Rut</h3>
+          <p>The exegesis of "prologue" and "chapter," a survey of five- and sixth-century masters' competing schemes for dividing the sūtra, Zhiyi's own threefold division and fourfold interpretive method, and the start of the disciple roll call — Ājñāta-Kauṇḍinya's fourfold "non-arising" treatment, used as the template for every disciple that follows, through Mahākāśyapa, Śāriputra, Maudgalyāyana, Kātyāyana, Aniruddha, and Kapphiṇa.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.06s">
+          <span class="tag">Fascicle 2 · The six auspicious signs</span>
+          <h3>The Six Auspicious Signs</h3>
+          <p>Finishes the disciple roll call, moves into the bodhisattva assembly and its extended "non-retrogression" exegesis, works through the miscellaneous assembly of gods, dragon kings, and human rulers, and closes with the six auspicious signs that lead to Maitreya's question to Mañjuśrī.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.12s">
+          <span class="tag">Fascicle 3 · "Skillful Means" opens</span>
+          <h3>Stop, Stop — No Need to Speak</h3>
+          <p>Mañjuśrī's answer to Maitreya closes the opening chapter; then the bulk of 方便品 — the threefold etymology of "skillful means," the twin wisdoms of the provisional and the real, the fourfold interpretation of the ten suchnesses, and the doubt that builds to Śāriputra's three requests.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.18s">
+          <span class="tag">Fascicle 4 · The withdrawal, and the verses</span>
+          <h3>Five Thousand Withdraw</h3>
+          <p>The Buddha answers Śāriputra, five thousand arrogant monks, nuns, and laypeople rise and leave, and the five turbidities are explained — then the entire verse section of "Skillful Means," ending with the groundwork Zhiyi lays for the burning-house parable still to come.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.24s">
+          <span class="tag">Fascicle 5 · The burning house</span>
+          <h3>The Great White-Ox Cart</h3>
+          <p>Śāriputra's prediction of buddhahood, then the burning-house parable itself — the elder's vast, single-doored house, the sons absorbed in play, the promise of three carts, and their equal exchange for the one great white-ox cart, closed by its point-by-point correlation with the Buddha's teaching.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.3s">
+          <span class="tag">Fascicle 6 · The destitute son</span>
+          <h3>The Destitute Son Returns</h3>
+          <p>The burning-house parable's entire verse recap, then 信解品 opens with four senior disciples telling the parable of the destitute son — his terror and flight, his years clearing dung at his own father's estate, and the gradual, gentle entrusting of the household.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.36s">
+          <span class="tag">Fascicle 7 · The phantom city</span>
+          <h3>The Conjured City</h3>
+          <p>Closes "Faith and Understanding," covers the medicinal-herbs parable and the "Prediction" chapter, then gives the full phantom-city parable — a magically conjured city offered as rest on a long, fearful road — before opening the prediction for five hundred disciples.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.42s">
+          <span class="tag">Fascicle 8 · Five chapters in one</span>
+          <h3>The Dragon Princess's Instant</h3>
+          <p>The most chapter-dense fascicle in the treatise: "Teacher of the Dharma," the Jeweled Stūpa rising from the earth, Devadatta and the dragon princess's instant buddhahood, and "Encouraging the Upholding of This Sūtra" in full, before "Peaceful Practices" opens.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.48s">
+          <span class="tag">Fascicle 9 · The Lifespan chapter opens</span>
+          <h3>Apparent Extinction, Never Extinct</h3>
+          <p>Closes "Peaceful Practices," gives the countless bodhisattvas who spring from beneath the earth in full, and opens "The Tathāgata's Lifespan" — why the Buddha's teaching is entirely true, and why his apparent passing into extinction never touches his true, constant abiding.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.54s">
+          <span class="tag">Fascicle 10 · Where the sūtra ends</span>
+          <h3>Samantabhadra's Encouragement</h3>
+          <p>Closes "The Tathāgata's Lifespan," then carries the sūtra through nine more chapters in succession — Never Disparaging, the Tathāgata's Power, Bhaiṣajyarāja, Gadgadasvara, Avalokiteśvara's Universal Gate, and more — to Samantabhadra's Encouragement, the sūtra's final chapter, completing both the sūtra and Zhiyi's commentary together.</p>
+        </div>
+      </div>
+
+      <div class="vol-grid">
+        {% for i in (1..10) %}
+        {% assign padded = i | prepend: '00' | slice: -3, 3 %}
+        {% if i == 1 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-wenju/fascicle-001/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The opening chapter's exegesis and the start of the disciple roll call, covered by scroll 1 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經文句</span>.</span>
+        </a>
+        {% elsif i == 2 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-wenju/fascicle-002/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The bodhisattva and miscellaneous assemblies, and the six auspicious signs, covered by scroll 2 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經文句</span>.</span>
+        </a>
+        {% elsif i == 3 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-wenju/fascicle-003/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Mañjuśrī's answer, and the bulk of "Skillful Means," covered by scroll 3 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經文句</span>.</span>
+        </a>
+        {% elsif i == 4 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-wenju/fascicle-004/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The withdrawal of the five thousand, and the verse section of "Skillful Means," covered by scroll 4 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經文句</span>.</span>
+        </a>
+        {% elsif i == 5 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-wenju/fascicle-005/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Śāriputra's prediction, and the burning-house parable, covered by scroll 5 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經文句</span>.</span>
+        </a>
+        {% elsif i == 6 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-wenju/fascicle-006/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The parable's verse close, and the parable of the destitute son, covered by scroll 6 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經文句</span>.</span>
+        </a>
+        {% elsif i == 7 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-wenju/fascicle-007/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Medicinal Herbs, Prediction, and the phantom-city parable, covered by scroll 7 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經文句</span>.</span>
+        </a>
+        {% elsif i == 8 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-wenju/fascicle-008/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Teacher of the Dharma, the Jeweled Stūpa, Devadatta, and more, covered by scroll 8 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經文句</span>.</span>
+        </a>
+        {% elsif i == 9 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-wenju/fascicle-009/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Bodhisattvas from Beneath the Earth, and the Lifespan chapter opens, covered by scroll 9 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經文句</span>.</span>
+        </a>
+        {% else %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-wenju/fascicle-010/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The Lifespan chapter concludes, through Samantabhadra's Encouragement — the sūtra's end, covered by scroll 10 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經文句</span>.</span>
+        </a>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <section class="fwj-section" id="notes" style="background:var(--cream);padding-top:64px;">
+    <div class="fwj-wrap">
+      <div class="fwj-section-head" data-rv>
+        <h2>Translation Notes</h2>
+        <p>Recurring terms, kept consistent as the fascicles grow. See the <a href="{{ '/sutras/fahua-wenju/translation-notes/' | relative_url }}">full translation notes</a> for the complete, fascicle-by-fascicle glossary, and also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+      </div>
+      <div class="term-grid" data-rv>
+        <div class="term"><b>因緣 / 約教 / 本迹 / 觀心 — the fourfold interpretive method</b><span>Causes and conditions, in terms of the teachings, trace and origin, and the contemplation of mind — the four lenses Zhiyi applies to nearly every passage in the sūtra, kept visible throughout this translation.</span></div>
+        <div class="term"><b>四悉檀 — the four siddhāntas</b><span>The mundane, the individual, the therapeutic, and the ultimate-meaning siddhānta — a second recurring fourfold scheme, used constantly alongside the interpretive method above.</span></div>
+        <div class="term"><b>開三顯一 — opening the three to reveal the one</b><span>The governing theme of "Skillful Means" onward: the three provisional vehicles opened to reveal the single real vehicle beneath them.</span></div>
+        <div class="term"><b>迹門 / 本門 — the trace gate and the origin gate</b><span>The sūtra's own two halves, as Zhiyi divides it: chapters 1–14 concern the Buddha's trace, his teaching within this one lifetime; chapters 15–28 concern his origin, awakened since a time immeasurably long past.</span></div>
+        <div class="term"><b>三車喻 / 大白牛車 — the three carts, and the great white-ox cart</b><span>The burning-house parable's central image: three provisional carts promised to draw the children out, exchanged in the end for one real cart, equally given to all.</span></div>
+        <div class="term"><b>窮子喻 — the parable of the destitute son</b><span>Told by four senior disciples in "Faith and Understanding": a son's flight from his own father's wealth, and the father's patient, gradual way of drawing him back to his inheritance.</span></div>
+        <div class="term"><b>化城喻 — the parable of the phantom city</b><span>A magically conjured city, offered as a resting-place partway along a long and fearful road — not the final destination, but a skillful means toward it.</span></div>
+        <div class="term"><b>皆實不虛 / 非滅現滅 — entirely true, never false / apparent parinirvāṇa, though not actually extinct</b><span>"The Tathāgata's Lifespan" chapter's central doctrine: every teaching the Buddha gives is true, and his apparent passing into extinction is itself only a skillful means, never touching his true, constant abiding.</span></div>
+        <div class="term"><b>三身 — the three bodies</b><span>The Dharma-body, the reward-body, and the response-body — the framework behind the Lifespan chapter's account of what, exactly, "abides" when the Buddha is said to be constant.</span></div>
+        <div class="term"><b>常不輕 — Never Disparaging</b><span>The bodhisattva who bows to every person he meets, telling each one, "I would never dare disparage you, for you are all certain to become buddhas."</span></div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
