@@ -188,3 +188,18 @@ Confirmed from the source text: the close of 五百弟子受記品 and all of �
 | 勸持品 | "Encouraging the Upholding of This Sūtra" | |
 | 安樂行品 | "Peaceful Practices" | |
 | 行處 / 親近處 | the practice-ground / the approach-ground | the two grounds analyzed at the chapter's opening |
+
+## Fascicle 9 — Bodhisattvas from Beneath the Earth, and the Tathāgata's Lifespan opens
+
+Confirmed from the source text: the close of 安樂行品 (the body/speech/mind/vow peaceful practices, the cakravartin's hidden-pearl parable); 從地踊出品 ("Bodhisattvas from Beneath the Earth") in full, including Maitreya's father-and-son parable and his request; and the opening of 如來壽量品 ("The Tathāgata's Lifespan") — the "entirely true, never false" teaching, the good-physician parable and its continuation through emptiness/provisional/middle contemplation, and the doctrine of "apparent parinirvāṇa, though not actually extinct" (非滅現滅), including Zhiyi's refutation of the "prolonged by supernatural power" misreading and his textual proof of constant abiding from other sūtras.
+
+| Chinese | English | Notes |
+|---|---|---|
+| 從地踊出品 | "Bodhisattvas from Beneath the Earth" | |
+| 上行 / 無邊行 / 淨行 / 安立行 | Viśiṣṭacāritra / Anantacāritra / Viśuddhacāritra / Supratiṣṭhitacāritra | the four leaders of the bodhisattvas who emerge from the earth |
+| 如來壽量品 | "The Tathāgata's Lifespan" | |
+| 皆實不虛 | entirely true, never false | recurring formula for the Buddha's teaching |
+| 非滅現滅 | apparent parinirvāṇa, though not actually extinct | the chapter's central doctrine |
+| 良醫 | the good physician | parable illustrating skillful means in teaching extinction |
+| 法身 / 報身 / 應身 | the Dharma-body / the reward-body / the response-body | the three bodies |
+| 十信 / 初住 | the ten stages of faith / the initial abiding | |
