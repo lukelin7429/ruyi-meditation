@@ -36633,3 +36633,379 @@ page(23, 22, "Nirodhadhamma", "Liable to Cease",
         "every subsequent discourse in this vagga has followed.",
     ],
 )
+
+page_range(23, 23, 33, "Māraadidasaka", "Eleven Discourses on Māra, Etc.",
+    vagga="Upasaggavagga",
+    meta_title="SN 23.23–33 · Eleven Discourses on Māra, Etc. — Rādha's Own Request",
+    meta_desc="Rādha asks for brief teaching to carry into solitary "
+        "retreat; the Buddha answers by cycling the giving-up-desire "
+        "instruction through eleven terms already catalogued in "
+        "Dutiyamāravagga. Saṃyutta Nikāya 23.23–33, opening "
+        "Upasaggavagga, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha requesting brief teaching from the Buddha"),
+        ("Form", "A personal request, answered in full for the first term (Māra) then compressed to a single substitution for the remaining ten"),
+        ("Length", "Long as a single page — eleven discourses merged into one bilara-data file"),
+        ("Northern parallel", "Reuses the same eleven-term list (minus cessation) already catalogued at SN 23.11-21"),
+        ("Difficulty", "Moderate — best read alongside Dutiyamāravagga, whose own catalog this vagga's instruction now works through"),
+    ],
+    why=("Opens Upasaggavagga (\"Appeals\") with Rādha's own version of "
+        "Ānanda's closing request at SN 22.159: \"teach me in brief... "
+        "so I can live alone, withdrawn, diligent, keen, and resolute.\" "
+        "The Buddha answers not with a new teaching but by cycling the "
+        "familiar giving-up-desire instruction through the same "
+        "eleven-term catalog Dutiyamāravagga already established — "
+        "recombining, for a third time, this saṃyutta's own recurring "
+        "vocabulary."),
+    guide=[
+        ("A personal appeal, giving this vagga its name", [
+            "\"Sir, may the Buddha please teach me Dhamma in brief. When "
+            "I've heard it, I'll live alone, withdrawn, diligent, keen, "
+            "and resolute\" — the identical request formula Ānanda used "
+            "to close SN22 at SN 22.159, here voiced by Rādha to open "
+            "this vagga (upasagga, \"appeal\" or \"approach,\" giving "
+            "the vagga its name).",
+            "Placing this same request in Rādha's own mouth, rather "
+            "than only Ānanda's, extends a formula this book has "
+            "already used once to close a major section, now put to "
+            "work opening a new one.",
+        ]),
+        ("The instruction, given in full for its first term", [
+            "\"You should give up any desire, any greed, any desire and "
+            "greed for whatever is Māra. And what is Māra? Form is "
+            "Māra. You should give up any desire, any greed, any desire "
+            "and greed for it\" — the fullest single statement in this "
+            "merged file, repeated for each aggregate, closing with the "
+            "same instruction restated for \"whatever is Māra\" as a "
+            "whole.",
+            "This combines two formulas already separately established "
+            "in this saṃyutta: Dutiyamāravagga's own bare "
+            "identifications (\"form is Māra\") and Māravagga's own "
+            "giving-up-desire instructions (SN 23.9-10) — merged here "
+            "into a single compound teaching.",
+        ]),
+        ("Ten further terms, each reduced to a single substitution", [
+            "\"You should give up any desire, any greed, any desire and "
+            "greed for whatever is of Māra nature...\" \"...impermanent...\" "
+            "\"...of impermanent nature...\" \"...suffering...\" "
+            "\"...of suffering nature...\" \"...not-self...\" \"...of "
+            "not-self nature...\" \"...of a nature to end...\" \"...of a "
+            "nature to fall...\" \"...of a nature to originate...\" — ten "
+            "further discourses (SN 23.24-33), each compressed in the "
+            "source to a single elided line, trusting the reader to "
+            "supply SN 23.23's own full elaboration with only the "
+            "named term substituted.",
+            "This is the identical eleven-term list already given "
+            "individual full treatment at SN 23.11-21 (Māra, "
+            "māradhamma, anicca, aniccadhamma, dukkha, dukkhadhamma, "
+            "anattā, anattadhamma, khaya, vaya, samudaya) — missing only "
+            "nirodha (\"liable to cease\"), which this vagga will give "
+            "its own separate full discourse at SN 23.34.",
+        ]),
+        ("A third recombination of this saṃyutta's core vocabulary", [
+            "Rādhasaṃyutta has now combined its recurring materials "
+            "three distinct ways: Māravagga applied the giving-up-desire "
+            "instruction to Māra alone (SN 23.9-10) and separately "
+            "restated Antavagga's own analytical content (SN 23.4-8); "
+            "Dutiyamāravagga asked \"what is X\" for eleven terms "
+            "individually; and this vagga now applies the "
+            "giving-up-desire instruction to that same eleven-term list, "
+            "merged into a single peyyāla-compressed file — the same "
+            "underlying elements, recombined a third time.",
+        ]),
+    ],
+    terms=[
+        ("upasagga", "appeal, approach — the term giving this vagga its name, describing Rādha's own request that opens it"),
+        ("saṅkhittena", "in brief — Rādha's own specific request, echoing Ānanda's identical wording at SN 22.159"),
+        ("chanda/rāga/chandarāga", "desire / greed / desire and greed — the three-part instruction already familiar from SN 23.9-10"),
+        ("Māra/māradhamma/anicca/aniccadhamma/dukkha/dukkhadhamma/anattā/anattadhamma/khaya/vaya/samudaya", "the eleven terms this merged file cycles through, identical to SN 23.11-21's own catalog"),
+        ("peyyāla", "an elision mark — used throughout SN 23.24-33 to compress each substitution to a single line"),
+    ],
+    text_intro=("The complete merged file: Rādha's request given in full, the "
+        "instruction fully elaborated for Māra, and each of the ten "
+        "remaining terms given in its own compressed line. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &middot; SN 23.23", "sn23.23:1.1-1.3"),
+        ("p", "&sect;2 &middot; SN 23.23", "sn23.23:2.1-2.8"),
+        ("p", "&sect;3 &middot; SN 23.24", "sn23.24:1.1"),
+        ("p", "&sect;4 &middot; SN 23.25", "sn23.25:1.1"),
+        ("p", "&sect;5 &middot; SN 23.26", "sn23.26:1.1"),
+        ("p", "&sect;6 &middot; SN 23.27", "sn23.27:1.1"),
+        ("p", "&sect;7 &middot; SN 23.28", "sn23.28:1.1"),
+        ("p", "&sect;8 &middot; SN 23.29", "sn23.29:1.1"),
+        ("p", "&sect;9 &middot; SN 23.30", "sn23.30:1.1"),
+        ("p", "&sect;10 &middot; SN 23.31", "sn23.31:1.1"),
+        ("p", "&sect;11 &middot; SN 23.32", "sn23.32:1.1"),
+        ("p", "&sect;12 &middot; SN 23.33", "sn23.33:1.1"),
+    ],
+    quiz=[
+        {"q": "What does Rādha request, opening this vagga and giving it its name?",
+         "opts": [
+             "Brief teaching, so he can live alone, withdrawn, diligent, keen, and resolute",
+             "A lengthy, comprehensive exposition",
+             "Permission to leave the monastic order",
+             "A specific ritual instruction"],
+         "correct": 0,
+         "expl": "The identical request formula Ānanda used at SN 22.159, now voiced by Rādha."},
+        {"q": "How many individual sutta numbers does this single bilara-data file merge?",
+         "opts": ["Eleven — SN 23.23 through SN 23.33", "Only two", "All twelve discourses in this vagga", "Forty-six, the whole saṃyutta"],
+         "correct": 0,
+         "expl": "Stored together in one file, though each sub-discourse keeps its own individual key prefix internally."},
+        {"q": "What instruction does the Buddha give in full for the first term, Māra?",
+         "opts": [
+             "Give up any desire, greed, and desire-and-greed for whatever is Māra, applied to each aggregate",
+             "An entirely new instruction not seen elsewhere in this saṃyutta",
+             "A prohibition against ever discussing Māra",
+             "A simile about a burning house"],
+         "correct": 0,
+         "expl": "Combining Dutiyamāravagga's identifications with Māravagga's own giving-up-desire instructions."},
+        {"q": "How are the remaining ten terms (SN 23.24-33) presented in the source?",
+         "opts": [
+             "Each compressed to a single elided line, trusting the reader to supply the full elaboration",
+             "Each given in the same full detail as the first term",
+             "Omitted entirely with no trace",
+             "Replaced with an entirely different structure"],
+         "correct": 0,
+         "expl": "A single substituted term standing in for the full instruction already given for Māra."},
+        {"q": "What eleven-term list does this merged file's instruction cycle through?",
+         "opts": [
+             "The identical list already given individual treatment at SN 23.11-21",
+             "An entirely new list not seen elsewhere in this saṃyutta",
+             "Only three terms, repeated multiple times",
+             "A list unrelated to Dutiyamāravagga's own catalog"],
+         "correct": 0,
+         "expl": "Māra, māradhamma, the three marks and their variants, and four process-terms, missing only cessation."},
+        {"q": "What term is missing from this merged file's eleven, reserved for its own separate discourse?",
+         "opts": [
+             "Nirodha, \"liable to cease,\" given its own full treatment at SN 23.34",
+             "Māra, which never actually appears in this file",
+             "Impermanence, omitted entirely from this vagga",
+             "No term is missing from this file's own list"],
+         "correct": 0,
+         "expl": "Closing this vagga with its own complete, unelided discourse."},
+        {"q": "How many distinct ways has Rādhasaṃyutta now recombined its core vocabulary, counting this vagga?",
+         "opts": [
+             "Three — Māravagga's instruction-to-Māra-alone, Dutiyamāravagga's definitional catalog, and this vagga's instruction-to-the-full-catalog",
+             "Only this single combination",
+             "Five entirely different combinations",
+             "No meaningful pattern connects the vaggas"],
+         "correct": 0,
+         "expl": "The same underlying elements recombined a third distinct way."},
+        {"q": "How many aggregates does the instruction apply to, for each term in this catalog?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, each given the instruction."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Continuing the setting shared by most of this saṃyutta's discourses."},
+        {"q": "What does the vagga's own name, Upasaggavagga (\"Appeals\"), most directly describe?",
+         "opts": [
+             "Rādha's own personal request opening this vagga",
+             "A type of demon distinct from Māra",
+             "A specific meditation posture",
+             "A location where the discourses were spoken"],
+         "correct": 0,
+         "expl": "The upasagga, appeal or approach, that begins the vagga's own first discourse."},
+    ],
+    marginalia=[
+        ("Rādha's own version of Ānanda's request", [
+            "\"teach me in brief\" &mdash;",
+            "the identical formula from SN 22.159, now for Rādha",
+        ]),
+        ("Two established formulas, merged into one", [
+            "Dutiyamāravagga's identifications, Māravagga's instruction &mdash;",
+            "combined here for the first of eleven terms",
+        ]),
+        ("Ten terms, each a single substituted line", [
+            "the full elaboration given only once &mdash;",
+            "trusted to carry forward for the rest",
+        ]),
+        ("A third recombination of the same vocabulary", [
+            "instruction-to-Māra, definitional catalog, now instruction-to-catalog &mdash;",
+            "this saṃyutta's own recurring elements, arranged anew",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.23/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.22.html">SN 23.22 &middot; Liable to Cease</a> '
+        "&mdash; the previous discourse, closing Dutiyamāravagga's own "
+        "individual treatment of this same eleven-term catalog.",
+        '<a href="sn-23.34.html">SN 23.34 &middot; Liable To Cease</a> '
+        "&mdash; the next and closing discourse of this vagga, giving "
+        "cessation its own full, separate treatment.",
+    ],
+)
+
+page(23, 34, "Nirodhadhamma", "Liable To Cease",
+    vagga="Upasaggavagga",
+    meta_title="SN 23.34 · Liable to Cease — Closing Upasaggavagga",
+    meta_desc="The twelfth and final term completing this vagga's own "
+        "catalog: give up desire and greed for whatever is liable to "
+        "cease, given its own full, unelided treatment. Saṃyutta "
+        "Nikāya 23.34, with Pāli.",
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Rādha requesting brief teaching from the Buddha"),
+        ("Form", "The same request-and-instruction structure as SN 23.23, given in full rather than compressed"),
+        ("Length", "Medium — the fullest treatment of \"liable to cease\" in this saṃyutta"),
+        ("Northern parallel", "Completes the giving-up-desire instruction applied to nirodha, already named at SN 23.22"),
+        ("Difficulty", "Approachable — best read as the close of Upasaggavagga's own catalog"),
+    ],
+    why=("Closes Upasaggavagga by giving \"liable to cease\" — the one "
+        "term missing from SN 23.23-33's own merged eleven-term list — "
+        "its own complete, unelided treatment: Rādha's request repeated, "
+        "and the full giving-up-desire instruction applied to nirodha "
+        "for each aggregate in turn."),
+    guide=[
+        ("Rādha's request, repeated once more", [
+            "\"Sir, may the Buddha please teach me Dhamma in brief. When "
+            "I've heard it, I'll live alone, withdrawn, diligent, keen, "
+            "and resolute\" — the identical request already voiced at "
+            "SN 23.23, here repeated to introduce this vagga's own "
+            "twelfth and closing term.",
+        ]),
+        ("The instruction given in full, completing the set", [
+            "\"You should give up any desire, any greed, any desire and "
+            "greed for whatever is of a nature to cease. And what is of "
+            "a nature to cease? Form is of a nature to cease...\" — the "
+            "same fully elaborated structure SN 23.23 gave to Māra, now "
+            "given to nirodha, the one term SN 23.23-33's own merged "
+            "file left for this discourse alone to state completely.",
+        ]),
+        ("Why cessation receives its own full discourse rather than a compressed line", [
+            "Ending the twelve-term catalog on a fully stated discourse, "
+            "rather than folding it into the merged file's own final "
+            "compressed line, gives this vagga's closing term a weight "
+            "matching SN 23.11's own opening treatment of Māra — "
+            "bookending the whole sequence (Māra fully stated at the "
+            "start, cessation fully stated at the end) around a middle "
+            "stretch of ten compressed substitutions.",
+        ]),
+        ("Closing without a colophon, into this saṃyutta's fourth vagga", [
+            "As with many vaggas in this book, no explicit closing "
+            "formula marks the end of Upasaggavagga in the source text "
+            "— the vagga simply concludes on this final term, before "
+            "Rādhasaṃyutta's fourth and last vagga (\"Sitting Close\") "
+            "begins at SN 23.35, itself opening with another "
+            "eleven-discourse merged range before its own final "
+            "discourse, SN 23.46, closes the entire saṃyutta.",
+        ]),
+    ],
+    terms=[
+        ("nirodha", "cessation — the term this discourse examines, completing this vagga's twelve-term catalog"),
+        ("nirodhadhamma", "liable to cease, of a nature to cease — the full technical term, already named without elaboration at SN 23.22"),
+        ("saṅkhittena", "in brief — Rādha's own repeated request, matching SN 23.23's identical wording"),
+        ("chanda/rāga/chandarāga", "desire / greed / desire and greed — the three-part instruction given in full one final time in this vagga"),
+        ("Māra", "the term SN 23.23 gave this same full treatment to, opening the parallel this discourse now closes"),
+    ],
+    text_intro=("The complete discourse: Rādha's request, and the full "
+        "giving-up-desire instruction applied to nirodha for each "
+        "aggregate. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "§1", "sn23.34:1.1-1.3"),
+        ("p", "§2", "sn23.34:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse examine, closing Upasaggavagga's catalog?",
+         "opts": ["\"Liable to cease\" (nirodhadhamma)", "A return to Māra", "Not-self, repeated", "The leash to existence"],
+         "correct": 0,
+         "expl": "The twelfth term, missing from SN 23.23-33's own merged eleven-term file."},
+        {"q": "How is this discourse's treatment different from SN 23.24-33's own compressed lines?",
+         "opts": [
+             "Given in full, unelided detail, matching SN 23.23's own treatment of Māra",
+             "Even more compressed than the other ten terms",
+             "Omitted entirely with no content at all",
+             "Replaced with an entirely different structure"],
+         "correct": 0,
+         "expl": "The request and the full instruction both stated completely."},
+        {"q": "What request does Rādha make, opening this discourse?",
+         "opts": [
+             "The same \"teach me in brief\" request already made at SN 23.23",
+             "A request for a completely different kind of teaching",
+             "A request to leave the monastic order",
+             "No request is made in this discourse"],
+         "correct": 0,
+         "expl": "Repeated here to introduce this vagga's own closing term."},
+        {"q": "Why might cessation receive its own full discourse rather than being folded into the merged file?",
+         "opts": [
+             "To give the closing term weight matching SN 23.11's own opening treatment, bookending the whole sequence",
+             "Because cessation is considered less important than the other terms",
+             "Due to a scribal error in compiling the merged file",
+             "There is no meaningful reason for this structural choice"],
+         "correct": 0,
+         "expl": "Māra fully stated at the start, cessation fully stated at the end, with compressed terms between."},
+        {"q": "How does this discourse close, according to the source text?",
+         "opts": [
+             "Without any explicit colophon, simply ending on this final term",
+             "With a lengthy summary verse naming all twelve terms",
+             "With an explicit statement naming the next vagga",
+             "With a set of closing verses"],
+         "correct": 0,
+         "expl": "As with many vaggas earlier in this book, no closing formula appears."},
+        {"q": "What vagga follows Upasaggavagga in Rādhasaṃyutta?",
+         "opts": [
+             "This saṃyutta's fourth and final vagga, \"Sitting Close,\" beginning at SN 23.35",
+             "A return to Māravagga",
+             "The end of Rādhasaṃyutta entirely",
+             "A return to Khandhavagga's earlier material"],
+         "correct": 0,
+         "expl": "Itself opening with another eleven-discourse merged range."},
+        {"q": "How many aggregates does the instruction apply to?",
+         "opts": ["All five", "Only form", "Only consciousness", "Only three"],
+         "correct": 0,
+         "expl": "Form, feeling, perception, choices, and consciousness, each given the instruction."},
+        {"q": "What three-part instruction is given in full for nirodha?",
+         "opts": [
+             "Give up any desire, any greed, any desire and greed for whatever is of a nature to cease",
+             "An entirely different instruction unrelated to desire",
+             "A prohibition against discussing cessation",
+             "A simile about a burning house"],
+         "correct": 0,
+         "expl": "The same three-part formula given to Māra at SN 23.23."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Varanasi"],
+         "correct": 0,
+         "expl": "Matching the setting of the surrounding discourses in this saṃyutta."},
+        {"q": "What discourse in this saṃyutta already named \"liable to cease\" without elaboration?",
+         "opts": ["SN 23.22", "SN 23.1", "SN 22.126", "SN 23.11"],
+         "correct": 0,
+         "expl": "Dutiyamāravagga's own closing discourse, here given fuller treatment in a new frame."},
+    ],
+    marginalia=[
+        ("The request, repeated once more", [
+            "\"teach me in brief\" &mdash;",
+            "the same appeal that opened this vagga",
+        ]),
+        ("The full instruction, given completely", [
+            "form, feeling, perception, choices, consciousness &mdash;",
+            "each addressed in full, not compressed to one line",
+        ]),
+        ("Bookending a vagga of eleven compressed terms", [
+            "Māra fully stated first, cessation fully stated last &mdash;",
+            "ten substitutions carried between them",
+        ]),
+        ("Closing into this saṃyutta's final vagga", [
+            "\"Sitting Close\" begins next, at SN 23.35 &mdash;",
+            "another merged range, then the saṃyutta's own close",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn23.34/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-23.23-33.html">SN 23.23&ndash;33 &middot; Eleven '
+        "Discourses on Māra, Etc.</a> &mdash; the previous discourse, "
+        "this vagga's own opening and source for the same instruction "
+        "structure.",
+        '<a href="sn-23.22.html">SN 23.22 &middot; Liable to Cease</a> '
+        "&mdash; the earlier discourse that first named this same term "
+        "without elaboration.",
+    ],
+)
