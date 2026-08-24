@@ -46534,3 +46534,1194 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Book of the Sevens
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# Thag 7.1 — Sundarasamudda
+# --------------------------------------------------------------------------- #
+page(
+    7, 1, "Sundarasamudda", "Sundarasamudda",
+    meta_title="Thag 7.1 — Sundarasamudda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sundarasamudda's verse, opening the Book of the Sevens with "
+        "a courtesan's seduction attempt and its collapse into "
+        "disillusionment &mdash; closing on a Pali abbreviation "
+        "(peyyāla) never before seen in this collection's source "
+        "text. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sevens &middot; Chapter One &middot; Poem 1 of 5",
+    glance=[
+        ("Setting", "A courtesan's approach, without further "
+                    "attribution"),
+        ("Speaker", "Sundarasamudda, narrating a seduction and its "
+                    "aftermath"),
+        ("Form", "Seven verses, the third extended to six lines "
+                 "rather than four"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "vivid narrative, one notable textual "
+                       "peculiarity in its closing verses"),
+    ],
+    why=(
+        "&lsquo;You're too young to go forth &mdash; come, stay in "
+        "my teaching! Enjoy human sensual pleasures, I'll give you "
+        "riches,&rsquo; a courtesan offers Sundarasamudda, promising "
+        "even that they'll grow old and go forth together later, "
+        "&lsquo;holding a winning hand on both counts.&rsquo; The "
+        "poem's final two verses, describing his breakthrough, "
+        "survive in the Pali source only as an abbreviation &mdash; "
+        "the first time in this collection the manuscript itself, "
+        "not just the translation, leans on a stock formula rather "
+        "than spelling it out."),
+    guide=[
+        ("A seduction narrated in specific, sensory detail", [
+            "The opening two verses linger on physical detail unusual "
+            "for this collection: jewelry, garland, makeup, "
+            "brightly-rouged feet, slippers removed, palms joined in "
+            "greeting, a soft and sweet voice. The courtesan's offer "
+            "itself is equally concrete &mdash; riches now, and a "
+            "promised joint retirement into renunciation later, "
+            "&lsquo;holding a winning hand on both counts&rsquo; "
+            "&mdash; a proposal that tries to have it both ways."]),
+        ("A death-snare simile, now three times over", [
+            "The fifth verse's closing image, &lsquo;alaṅkataṁ "
+            "suvasanaṁ, maccupāsaṁva oḍḍitaṁ&rsquo;, &lsquo;adorned "
+            "with jewelry and all dressed up, set up like a snare of "
+            "death&rsquo;, is the identical phrase already found "
+            "twice in this collection's Book of the Fours &mdash; "
+            "once describing a professional dancer (Thag 4.1, "
+            "Nāgasamāla) and once describing the speaker's own wife "
+            "(Thag 4.9, Candana). This is now a third distinct woman, "
+            "in a third distinct book, described with the exact same "
+            "words."]),
+        ("A closing abbreviated in the source itself, not just repeated", [
+            "The sixth and seventh verses' Pali text does not spell "
+            "out its own words: the manuscript reads only "
+            "&lsquo;… pe … nibbidā samatiṭṭhatha&rsquo; and "
+            "&lsquo;… pe … kataṁ buddhassa sāsanan&rsquo;ti&rsquo;, "
+            "using peyyāla (&lsquo;etc.&rsquo;) notation to signal a "
+            "stock formula the reader is expected to supply. This "
+            "differs from every prior case of shared material in this "
+            "collection, where each poem's own manuscript spells out "
+            "its full text even when it duplicates another poem's "
+            "wording &mdash; here, the Pali source itself declines to "
+            "repeat it. Sujato's English translation reconstructs the "
+            "implied words; the identical formula, written out in "
+            "full, closes this site's own Thag 6.6 (Sappadāsa)."]),
+        ("Opening a new book, a structure to confirm fresh", [
+            "The Book of the Sevens holds five poems in a single "
+            "chapter, per bilara-data &mdash; continuing the "
+            "single-chapter pattern of the Threes, Fours, Fives, and "
+            "Sixes, though this needed independent confirmation "
+            "rather than assumption. Its baseline verse form is seven "
+            "four-line verses; this poem's third verse, extending to "
+            "six lines, is the book's first departure from that "
+            "baseline."]),
+        ("A recurring shape: temptation followed by disillusionment", [
+            "This poem's arc &mdash; an offer of pleasure and "
+            "security, then a sudden collapse into nibbidā "
+            "(disillusionment) &mdash; echoes the structural shape "
+            "of several other poems across this collection without "
+            "sharing their specific wording, joining a recognizable "
+            "family of &lsquo;near-miss&rsquo; narratives where a "
+            "monk almost, but does not, turn back."]),
+    ],
+    terms=[
+        ("vesik&amacr;",
+         "&ldquo;courtesan&rdquo; &mdash; the speaker in the poem's "
+         "opening verses."),
+        ("ala&#7749;kata&#7749; suvasana&#7749;, maccup&amacr;sa&#7749;va "
+         "o&#7693;&#7693;ita&#7749;",
+         "&ldquo;adorned with jewelry and all dressed up, set up "
+         "like a snare of death&rdquo; &mdash; a phrase shared "
+         "verbatim with Thag 4.1 and Thag 4.9."),
+        ("peyyāla",
+         "the Pali convention of abbreviating a stock passage as "
+         "&lsquo;… pe …&rsquo;, trusting the reader to supply the "
+         "known formula &mdash; used in this poem's final two verses, "
+         "the first such case in this collection's source text."),
+        ("nibbid&amacr; samati&#7789;&#7789;hatha",
+         "&ldquo;firmly disillusioned&rdquo; &mdash; the one phrase "
+         "of the sixth verse's stock formula the manuscript does "
+         "spell out."),
+        ("tisso vijjā anuppattā",
+         "&ldquo;I've attained the three knowledges&rdquo; &mdash; "
+         "part of the reconstructed closing formula, written out in "
+         "full at this site's Thag 6.6."),
+    ],
+    text_intro=(
+        "The text in full: seven verses, the third extended to six "
+        "lines, with no separate attribution line in this chapter. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag7.1:1.1-1.4"),
+        ("p", "&sect;2", "thag7.1:2.1-2.4"),
+        ("p", "&sect;3", "thag7.1:3.1-3.6"),
+        ("p", "&sect;4", "thag7.1:4.1-4.4"),
+        ("p", "&sect;5", "thag7.1:5.1-5.4"),
+        ("p", "&sect;6", "thag7.1:6.1-6.4"),
+        ("p", "&sect;7", "thag7.1:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What does the courtesan offer Sundarasamudda in the third verse?",
+         "opts": [
+             "Riches and pleasure now, with a promise to go forth together later",
+             "Nothing — she asks only for his blessing",
+             "A place in her family business",
+             "Safe passage to another city"],
+         "correct": 0,
+         "expl": "'I'll give you riches... we shall both go forth, and hold a winning hand on both counts.'"},
+        {"q": "What image closes the fifth verse, describing the courtesan?",
+         "opts": [
+             "A gentle breeze",
+             "Adorned with jewelry and all dressed up, set up like a snare of death",
+             "A wise teacher",
+             "An old friend"],
+         "correct": 1,
+         "expl": "The identical phrase already found in Thag 4.1 and Thag 4.9, describing two other women."},
+        {"q": "How many times, including this poem, has this exact death-snare phrase now appeared in this collection?",
+         "opts": [
+             "Once only",
+             "Twice",
+             "Three times, across three different books",
+             "It has never appeared before"],
+         "correct": 2,
+         "expl": "Thag 4.1 (a dancer), Thag 4.9 (a wife), and now Thag 7.1 (a courtesan)."},
+        {"q": "What is unusual about the Pali source text of the sixth and seventh verses?",
+         "opts": [
+             "It is written in a different metre from the rest of the poem",
+             "It contradicts the English translation",
+             "It is missing entirely",
+             "It uses peyyāla abbreviation ('… pe …'), the manuscript itself relying on a stock formula rather than spelling it out"],
+         "correct": 3,
+         "expl": "The first case in this collection where the source manuscript, not just the translation, abbreviates rather than repeats."},
+        {"q": "Where is the formula implied by this poem's abbreviation written out in full on this site?",
+         "opts": [
+             "Thag 6.6 (Sappadāsa)",
+             "Thag 1.1",
+             "Thag 5.12",
+             "Nowhere else on this site"],
+         "correct": 0,
+         "expl": "Sujato's English translation reconstructs the implied words from this known stock formula."},
+        {"q": "How does this poem's structure compare to the book's baseline?",
+         "opts": [
+             "It is written entirely in prose",
+             "Exactly the baseline — seven verses of four lines each",
+             "The third verse is extended to six lines, the book's first departure from its baseline",
+             "It has only three verses total"],
+         "correct": 1,
+         "expl": "The Book of the Sevens' baseline is seven four-line verses; this poem departs from it once."},
+        {"q": "How many poems make up the Book of the Sevens, and in how many chapters?",
+         "opts": [
+             "Twelve poems in two chapters",
+             "Five poems in five chapters",
+             "Five poems in one chapter, continuing the single-chapter pattern of the Threes through Sixes",
+             "Seven poems in seven chapters"],
+         "correct": 2,
+         "expl": "Confirmed fresh against bilara-data, following the established pattern of recent books."},
+        {"q": "What does the courtesan do just before making her offer, in the second verse?",
+         "opts": [
+             "She departs immediately",
+             "She begins weeping",
+             "She summons other courtesans",
+             "She removes her slippers and joins her palms in greeting"],
+         "correct": 3,
+         "expl": "A gesture of respect preceding her seductive proposal."},
+        {"q": "What recurring narrative shape does this poem share with several others in this collection?",
+         "opts": [
+             "An offer of pleasure and security, followed by a collapse into disillusionment",
+             "A description of monastic architecture",
+             "A debate between two teachers",
+             "A genealogy of ancestors"],
+         "correct": 0,
+         "expl": "A recognizable family of 'near-miss' narratives, without sharing specific wording."},
+        {"q": "What phrase does the sixth verse's Pali manuscript spell out in full, despite the surrounding abbreviation?",
+         "opts": [
+             "A date and location",
+             "'Nibbidā samatiṭṭhatha' — 'firmly disillusioned'",
+             "The entire verse is abbreviated with no words spelled out",
+             "Only the courtesan's name"],
+         "correct": 1,
+         "expl": "The closing phrase of the stock formula, even as its opening is abbreviated."},
+    ],
+    marginalia=[
+        ("An offer with two endings", [
+            "riches now, renunciation later —",
+            "a winning hand on both counts, she claims"
+        ]),
+        ("A snare of death, worn three times", [
+            "the same phrase, three different women —",
+            "across three separate books"
+        ]),
+        ("A manuscript that abbreviates itself", [
+            "'… pe …' in place of the words —",
+            "the first such case in this collection"
+        ]),
+        ("A fifth poem, still to come", [
+            "opening a new book of five —",
+            "structure confirmed fresh, not assumed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag7.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-4.1.html">Thag 4.1 &mdash; Nāgasamāla</a> '
+        "&mdash; the first poem in this collection to use the "
+        "&lsquo;snare of death&rsquo; simile.",
+        '<a href="thag-6.6.html">Thag 6.6 &mdash; Sappadāsa</a> '
+        "&mdash; where this poem's abbreviated closing formula is "
+        "written out in full.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 7.2 — Lakuṇḍakabhaddiya
+# --------------------------------------------------------------------------- #
+page(
+    7, 2, "Lakuṇḍakabhaddiya", "Lakuṇḍakabhaddiya",
+    meta_title="Thag 7.2 — Lakuṇḍakabhaddiya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Lakuṇḍakabhaddiya's verse on being judged by appearance and "
+        "by voice &mdash; Sujato's comment linking him directly to "
+        "this site's SN 21.6 and AN 1.194, where he is remembered as "
+        "unsightly yet possessed of a beautiful voice. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Sevens &middot; Chapter One &middot; Poem 2 of 5",
+    glance=[
+        ("Setting", "A forest thicket, without further attribution"),
+        ("Speaker", "Lakuṇḍakabhaddiya, on being judged by outward "
+                    "form"),
+        ("Form", "Seven four-line verses, the last three building a "
+                 "progressive triad"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, a layered closing argument"),
+    ],
+    why=(
+        "&lsquo;Those who've judged me on appearance, and those "
+        "swayed by my voice... they don't know me,&rsquo; "
+        "Lakuṇḍakabhaddiya &mdash; &lsquo;Bhaddiya the Dwarf&rsquo; "
+        "&mdash; declares, before building a three-verse argument "
+        "distinguishing partial from complete understanding. "
+        "Sujato's own comment ties this poem directly to two already "
+        "translated texts on this site, both concerned with exactly "
+        "this contrast between his physical appearance and his voice."),
+    guide=[
+        ("A single wish, made on behalf of everyone", [
+            "The third verse imagines the Buddha granting "
+            "Lakuṇḍakabhaddiya any wish he chose, and names it: "
+            "&lsquo;I'd choose for the whole world constant "
+            "mindfulness of the body&rsquo; &mdash; not a wish for "
+            "himself, but for &lsquo;sabbalokassa&rsquo;, the entire "
+            "world. This is an unusually generous framing for a "
+            "hypothetical wish within this collection, where such "
+            "moments more often concern the speaker's own attainment."]),
+        ("Appearance and voice, both named as equally deficient grounds", [
+            "The fourth verse pairs two kinds of misjudgment directly: "
+            "&lsquo;those who've judged me on appearance, and those "
+            "swayed by my voice... they don't know me&rsquo;. Neither "
+            "criterion, taken alone, is treated as more reliable than "
+            "the other &mdash; both are equally beside the point."]),
+        ("A three-verse progression: neither, one, then both", [
+            "The fifth, sixth, and seventh verses build a graded "
+            "argument rather than a simple repetition: the fool who "
+            "knows neither what's inside nor outside is carried away "
+            "by a voice; one who discerns only what's outside is "
+            "still carried away by a voice; only one who understands "
+            "what's inside and discerns what's outside is finally "
+            "unhindered. This is a distinct structural device from "
+            "this collection's earlier antithetical-parallelism poems "
+            "(such as Thag 6.3) &mdash; not opposite paired against "
+            "opposite, but three ascending degrees of the same "
+            "condition."]),
+        ("A comment linking this poem to two already-translated texts", [
+            "Sujato's comment on the fourth verse notes Bhaddiya "
+            "&lsquo;was said to be of unsightly appearance&rsquo;, "
+            "citing this site's own "
+            "<a href=\"../samyutta-nikaya/sn-21.6.html\">SN 21.6, "
+            "With Bhaddiya the Dwarf</a>, &lsquo;yet charming "
+            "voice&rsquo;, citing AN 1.194, part of this site's "
+            "<a href=\"../anguttara-nikaya/an-1.188-197.html\">AN "
+            "1.188&ndash;197, Foremost Monks (I)</a>, where he is "
+            "declared foremost among those with a delightful voice. "
+            "His own poem's argument &mdash; that appearance and "
+            "voice are both unreliable grounds for judgment &mdash; "
+            "reads with particular weight given that his own "
+            "biography, on both counts, invited exactly this kind of "
+            "surface judgment."]),
+        ("The name itself: 'Bhaddiya the Dwarf'", [
+            "Lakuṇḍaka (&lsquo;dwarf&rsquo;) distinguishes him "
+            "directly by physical description, embedded permanently "
+            "in his name &mdash; making the poem's opening line, "
+            "&lsquo;Bhaddiya has plucked out craving, root and "
+            "all... he is truly well-favoured (bhaddo)&rsquo;, a "
+            "quiet irony: the name marking him by appearance, the "
+            "poem itself insisting appearance is beside the point."]),
+    ],
+    terms=[
+        ("Lakuṇḍaka",
+         "&ldquo;dwarf&rdquo; &mdash; the epithet permanently "
+         "attached to Bhaddiya's name, marking him by physical "
+         "appearance."),
+        ("k&amacr;yagatā sati",
+         "&ldquo;mindfulness of the body&rdquo; &mdash; the single "
+         "wish named in the third verse, extended to the whole world."),
+        ("ghosena vuyhati",
+         "&ldquo;carried away by a voice&rdquo; &mdash; the "
+         "condition named at the close of the fifth, sixth, and "
+         "seventh verses, in three ascending degrees."),
+        ("ajjhattaṁ / bahiddhā",
+         "&ldquo;inside / outside&rdquo; &mdash; the paired terms "
+         "structuring the poem's closing three-verse argument."),
+        ("Anāvaraṇadassāvī",
+         "&ldquo;of unhindered vision&rdquo; &mdash; the final "
+         "verse's description of one who understands both what's "
+         "inside and outside."),
+    ],
+    text_intro=(
+        "The text in full: seven verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag7.2:1.1-1.4"),
+        ("p", "&sect;2", "thag7.2:2.1-2.4"),
+        ("p", "&sect;3", "thag7.2:3.1-3.4"),
+        ("p", "&sect;4", "thag7.2:4.1-4.4"),
+        ("p", "&sect;5", "thag7.2:5.1-5.4"),
+        ("p", "&sect;6", "thag7.2:6.1-6.4"),
+        ("p", "&sect;7", "thag7.2:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What wish does the third verse name, imagining the Buddha granting it?",
+         "opts": [
+             "Wealth for himself",
+             "Constant mindfulness of the body, for the whole world",
+             "Freedom from illness",
+             "A longer lifespan"],
+         "correct": 1,
+         "expl": "An unusually generous framing — a wish made on behalf of everyone, not himself."},
+        {"q": "What two grounds for misjudging him does the fourth verse name?",
+         "opts": [
+             "Age and gender",
+             "Nationality and language",
+             "Appearance and voice",
+             "Wealth and family"],
+         "correct": 2,
+         "expl": "'Those who've judged me on appearance, and those swayed by my voice... they don't know me.'"},
+        {"q": "How do the fifth, sixth, and seventh verses relate to each other?",
+         "opts": [
+             "They contradict one another",
+             "They are unrelated to the poem's earlier verses",
+             "They simply repeat the same point three times identically",
+             "They build a three-stage progression — neither inside nor outside understood, then outside only, then both"],
+         "correct": 3,
+         "expl": "A distinct structural device from this collection's earlier antithetical-parallelism poems."},
+        {"q": "What does Sujato's comment on the fourth verse cite?",
+         "opts": [
+             "This site's own SN 21.6 and AN 1.194, both concerning Bhaddiya's appearance and voice",
+             "A text not translated anywhere",
+             "A different elder's poem entirely",
+             "No outside sources at all"],
+         "correct": 0,
+         "expl": "Directly linking this poem to two already-translated texts on this site."},
+        {"q": "What does SN 21.6 say about Bhaddiya, per this reading guide?",
+         "opts": [
+             "That he was the tallest monk in the Saṅgha",
+             "That he was said to be of unsightly appearance",
+             "That he was extremely wealthy",
+             "That he never spoke"],
+         "correct": 1,
+         "expl": "Contrasted with AN 1.194's description of his charming voice."},
+        {"q": "What does AN 1.194 declare about Bhaddiya?",
+         "opts": [
+             "That he never attained awakening",
+             "Nothing — AN 1.194 does not mention him",
+             "That he was foremost among those with a delightful voice",
+             "That he was foremost in wealth"],
+         "correct": 2,
+         "expl": "Part of this site's AN 1.188–197, Foremost Monks (I)."},
+        {"q": "What does the name 'Lakuṇḍaka' mean, and how does it relate to the poem's own argument?",
+         "opts": [
+             "'The generous one' — matching the poem's theme directly",
+             "It has no discernible meaning",
+             "'The tall one'",
+             "'Dwarf' — marking him by appearance, in quiet tension with the poem's insistence that appearance is beside the point"],
+         "correct": 3,
+         "expl": "A quiet irony given the poem's own argument."},
+        {"q": "What describes the person of 'unhindered vision' in the final verse?",
+         "opts": [
+             "One who understands what's inside and discerns what's outside — not carried away by a voice",
+             "One who ignores both what's inside and outside",
+             "One who relies solely on appearance",
+             "One who avoids all judgment entirely"],
+         "correct": 0,
+         "expl": "The culmination of the poem's three-stage progression."},
+        {"q": "Where does the poem say Bhaddiya practices absorption, in the first verse?",
+         "opts": [
+             "In a royal palace",
+             "In a jungle thicket, on the far side of the Wild Mango Monastery",
+             "In a busy marketplace",
+             "On a mountain summit"],
+         "correct": 1,
+         "expl": "'Pare ambāṭakārāme, vanasaṇḍamhi bhaddiyo.'"},
+        {"q": "What does the second verse contrast with delighting 'at the foot of a tree, in the Buddha's teaching'?",
+         "opts": [
+             "A description of clothing",
+             "Nothing is contrasted",
+             "Delighting in clay drums, arched harps, and cymbals",
+             "A description of food"],
+         "correct": 2,
+         "expl": "Others' delight in music, set against his own delight in practice."},
+    ],
+    marginalia=[
+        ("A wish made for everyone", [
+            "not wealth or comfort for himself —",
+            "mindfulness of the body, for the whole world"
+        ]),
+        ("Appearance, voice — both beside the point", [
+            "two ways of being misjudged, named together —",
+            "neither more reliable than the other"
+        ]),
+        ("Neither, one, then both", [
+            "three verses building toward unhindered vision —",
+            "not simple repetition, but a progression"
+        ]),
+        ("A name marking what the poem denies matters", [
+            "'the Dwarf', yet the argument is inward —",
+            "confirmed by his own already-told story"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag7.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../samyutta-nikaya/sn-21.6.html">SN 21.6 &mdash; '
+        "With Bhaddiya the Dwarf</a> &mdash; cited directly by "
+        "Sujato's comment on this poem.",
+        '<a href="../anguttara-nikaya/an-1.188-197.html">AN '
+        "1.188&ndash;197 &mdash; Foremost Monks (I)</a> &mdash; where "
+        "Bhaddiya is declared foremost for his delightful voice.",
+        '<a href="thag-7.1.html">Thag 7.1 &mdash; Sundarasamudda</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 7.3 — Bhadda
+# --------------------------------------------------------------------------- #
+page(
+    7, 3, "Bhadda", "Bhadda",
+    meta_title="Thag 7.3 — Bhadda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Bhadda's verse &mdash; an only child, offered by his own "
+        "parents to the Buddha, ordained the same day through "
+        "Ānanda, and freed before sunset. One of this collection's "
+        "fastest attainment narratives. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sevens &middot; Chapter One &middot; Poem 3 of 5",
+    glance=[
+        ("Setting", "A meeting with the Buddha, arranged by Bhadda's "
+                    "own parents"),
+        ("Speaker", "Bhadda, recounting his parents' petition and his "
+                    "own ordination and breakthrough"),
+        ("Form", "Seven four-line verses, in clear chronological "
+                 "sequence"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain narrative vocabulary, several named "
+                       "figures to track"),
+    ],
+    why=(
+        "&lsquo;We had this son with difficulty; he is delicate and "
+        "pampered. We offer him to you, Lord, to attend upon the "
+        "victor,&rsquo; Bhadda's own parents tell the Buddha, "
+        "quoted directly in his poem. What follows moves "
+        "remarkably fast: ordination through Ānanda, and, "
+        "&lsquo;before the sun set,&rsquo; his mind was freed."),
+    guide=[
+        ("Parents' own words, quoted directly", [
+            "Unusually for this collection, the third verse quotes "
+            "Bhadda's parents in their own voice, addressing the "
+            "Buddha directly: &lsquo;we had this son with difficulty; "
+            "he is delicate and pampered... to attend upon the "
+            "victor&rsquo;. Most poems in this collection report a "
+            "parent's role, if any, indirectly; this one preserves "
+            "what appears to be the actual petition."]),
+        ("A prediction, using the same 'thoroughbred' vocabulary", [
+            "The Buddha's instruction to Ānanda &mdash; &lsquo;quickly "
+            "give him the going-forth &mdash; this one will be a "
+            "thoroughbred (ājāniyo)!&rsquo; &mdash; uses the identical "
+            "horse-breeding vocabulary already found describing Sumana "
+            "in Thag 6.10 (&lsquo;made a thoroughbred by a "
+            "thoroughbred&rsquo;), a recurring idiom in this "
+            "collection for recognizing exceptional potential in a "
+            "newly ordained child."]),
+        ("Liberation before the sun sets", [
+            "The fifth verse states the timing precisely: &lsquo;before "
+            "the sun set, my mind was freed&rsquo; &mdash; ordained "
+            "and awakened within a single day, one of the fastest "
+            "attainment timelines stated anywhere in this collection. "
+            "No years of practice are described; the poem moves "
+            "directly from ordination to breakthrough."]),
+        ("A personal welcome, not a formal proclamation", [
+            "The sixth verse's ordination moment is intimate rather "
+            "than procedural: the Buddha, coming out from seclusion, "
+            "simply says &lsquo;Come Bhadda!&rsquo; &mdash; "
+            "&lsquo;that was my ordination&rsquo;, Bhadda reports. "
+            "This directness, a personal address standing in for "
+            "formal procedure, appears again in the poem immediately "
+            "following this one."]),
+        ("A third child ordained around age seven", [
+            "The closing verse states Bhadda's age at ordination "
+            "directly: seven years old (sattavassena). This joins "
+            "Thag 6.10 (Sumana, also seven) and, as it turns out, "
+            "Thag 7.4 immediately following this poem, forming a "
+            "small cluster of child-prodigy ordination narratives "
+            "converging on the same age within two consecutive "
+            "books."]),
+    ],
+    terms=[
+        ("&lsquo;kicchā laddho aya&#7749; putto&rsquo;",
+         "&ldquo;we had this son with difficulty&rdquo; &mdash; "
+         "Bhadda's parents' own words, quoted directly in the third "
+         "verse."),
+        ("ājāniyo",
+         "&ldquo;thoroughbred&rdquo; &mdash; the Buddha's prediction "
+         "for Bhadda, using vocabulary shared with Thag 6.10's "
+         "description of Sumana."),
+        ("anoggatasmi&#7749; s&umacr;riyasmi&#7749;",
+         "&ldquo;before the sun set&rdquo; &mdash; the precise "
+         "timing of Bhadda's liberation, the same day as his "
+         "ordination."),
+        ("&lsquo;ehi bhaddā&rsquo;ti",
+         "&ldquo;Come Bhadda!&rdquo; &mdash; the Buddha's own words, "
+         "serving as Bhadda's entire ordination."),
+        ("jātiyā sattavassena",
+         "&ldquo;at seven years old&rdquo; &mdash; Bhadda's age at "
+         "ordination, shared with two other elders in this "
+         "collection."),
+    ],
+    text_intro=(
+        "The text in full: seven verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag7.3:1.1-1.4"),
+        ("p", "&sect;2", "thag7.3:2.1-2.4"),
+        ("p", "&sect;3", "thag7.3:3.1-3.4"),
+        ("p", "&sect;4", "thag7.3:4.1-4.4"),
+        ("p", "&sect;5", "thag7.3:5.1-5.4"),
+        ("p", "&sect;6", "thag7.3:6.1-6.4"),
+        ("p", "&sect;7", "thag7.3:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What do Bhadda's parents say to the Buddha, quoted directly in the third verse?",
+         "opts": [
+             "They say nothing — the meeting is silent",
+             "They ask the Buddha to bless their household",
+             "'We had this son with difficulty; he is delicate and pampered... we offer him to you'",
+             "'Please heal our son of his illness'"],
+         "correct": 2,
+         "expl": "An unusually direct quotation of parents' own petition, rare in this collection."},
+        {"q": "What does the Buddha instruct Ānanda to do?",
+         "opts": [
+             "Test the boy with difficult questions first",
+             "Wait several years before ordaining him",
+             "Send the boy home",
+             "Quickly give him the going-forth — 'this one will be a thoroughbred'"],
+         "correct": 3,
+         "expl": "Using the same 'thoroughbred' (ājāniyo) vocabulary found describing Sumana in Thag 6.10."},
+        {"q": "How quickly does Bhadda attain liberation after ordination, according to the fifth verse?",
+         "opts": [
+             "Before the sun set that same day",
+             "The poem does not specify a timeline",
+             "After exactly one month",
+             "After many years of practice"],
+         "correct": 0,
+         "expl": "One of the fastest attainment timelines stated anywhere in this collection."},
+        {"q": "What does the Buddha say to Bhadda that serves as his entire ordination?",
+         "opts": [
+             "A lengthy formal proclamation",
+             "'Come Bhadda!' — a personal, intimate address",
+             "Nothing is recorded",
+             "A written certificate"],
+         "correct": 1,
+         "expl": "Directness standing in for formal procedure, echoed again in the following poem."},
+        {"q": "How old was Bhadda at ordination, according to the closing verse?",
+         "opts": [
+             "An infant",
+             "His age is not given",
+             "Seven years old",
+             "Twenty years old"],
+         "correct": 2,
+         "expl": "Joining Thag 6.10 and Thag 7.4 in a small cluster of child-ordination narratives at this same age."},
+        {"q": "How many other poems in this collection describe a child ordained around age seven?",
+         "opts": [
+             "Every poem in this collection",
+             "Only one other case, in the Book of the Ones",
+             "None — this is the only case",
+             "At least two others: Thag 6.10 and Thag 7.4"],
+         "correct": 3,
+         "expl": "A small cluster converging on this same age within two consecutive books."},
+        {"q": "What is Bhadda described as, by his parents, in the third verse?",
+         "opts": [
+             "Delicate and pampered",
+             "Rebellious and difficult",
+             "Already a skilled scholar",
+             "Strong and independent"],
+         "correct": 0,
+         "expl": "'Sukhumālo sukhedhito' — part of their petition to the Buddha."},
+        {"q": "What happens immediately after the Buddha accepts Bhadda, in the fourth verse?",
+         "opts": [
+             "The Buddha departs for another city",
+             "The Buddha declares to Ānanda that this child will be a thoroughbred",
+             "Bhadda is sent to study elsewhere first",
+             "Nothing further is described"],
+         "correct": 1,
+         "expl": "An immediate, confident prediction of Bhadda's potential."},
+        {"q": "What does the sixth verse say the Buddha did before addressing Bhadda?",
+         "opts": [
+             "He held a public assembly",
+             "He consulted with other elders first",
+             "He came out from seclusion (paṭisallānavuṭṭhito)",
+             "He traveled to a distant village"],
+         "correct": 2,
+         "expl": "A quiet, personal moment rather than a formal public event."},
+        {"q": "What does the poem's final line express?",
+         "opts": [
+             "A request for further instruction",
+             "Regret over leaving home",
+             "Uncertainty about the path ahead",
+             "'Oh, the clear rightness of the teaching!' (aho dhammasudhammatā)"],
+         "correct": 3,
+         "expl": "An alternate closing formula, shared with Thag 7.4 immediately following this poem."},
+    ],
+    marginalia=[
+        ("A petition, quoted directly", [
+            "'we had this son with difficulty' —",
+            "the parents' own words, rare in this collection"
+        ]),
+        ("Ordained and freed, one day", [
+            "before the sun set, his mind was freed —",
+            "no years of practice narrated between"
+        ]),
+        ("'Come Bhadda!'", [
+            "an intimate address, standing in for procedure —",
+            "echoed again in the poem just after this one"
+        ]),
+        ("Seven years old, again", [
+            "a third child prodigy, two books running —",
+            "the age itself now a recognizable pattern"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag7.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-6.10.html">Thag 6.10 &mdash; Sumana (2nd)</a> '
+        "&mdash; another child ordained at seven, sharing the "
+        "'thoroughbred' vocabulary used of Bhadda.",
+        '<a href="thag-7.2.html">Thag 7.2 &mdash; Lakuṇḍakabhaddiya</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 7.4 — Sopāka (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    7, 4, "Sop&amacr;ka (2nd)", "Sop&amacr;ka (2nd)",
+    meta_title="Thag 7.4 — Sopāka (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sopāka's verse &mdash; a young questioner praised publicly "
+        "by the Buddha, ordained on the spot with an unusually "
+        "informal formula, sharing only a name with this site's "
+        "Thag 1.33 Sopāka (1st). From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sevens &middot; Chapter One &middot; Poem 4 of 5",
+    glance=[
+        ("Setting", "The shade of a terrace, where the Buddha was "
+                    "walking"),
+        ("Speaker", "Sopāka (2nd), recounting a direct exchange with "
+                    "the Buddha"),
+        ("Form", "Seven verses, the fifth extended to six lines "
+                 "rather than four"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain narrative vocabulary, one extended "
+                       "verse of public praise"),
+    ],
+    why=(
+        "Sopāka approaches the Buddha walking in the shade of a "
+        "terrace, is questioned and answers without fear, and is "
+        "then praised publicly before the whole mendicant "
+        "Saṅgha &mdash; &lsquo;it is a blessing for the people of "
+        "Aṅga and Magadha that this person enjoys their robe and "
+        "almsfood&rsquo; &mdash; before receiving an ordination as "
+        "informal as it is direct: &lsquo;Sopāka, let this be your "
+        "ordination.&rsquo;"),
+    guide=[
+        ("A young monk who approaches, rather than is brought", [
+            "Unlike Thag 7.3 (Bhadda), whose parents initiate the "
+            "meeting, this poem's opening two verses show Sopāka "
+            "approaching the Buddha himself &mdash; seeing him "
+            "walking, arranging his robe, and bowing unprompted. The "
+            "initiative in this poem's opening scene belongs to "
+            "Sopāka, not to any adult acting on his behalf."]),
+        ("Praise naming an entire region, not just an individual", [
+            "The fifth verse, extended to six lines, records the "
+            "Buddha's declaration in unusually expansive terms: not "
+            "simply praise for Sopāka, but &lsquo;it is a blessing "
+            "for the people of Aṅga and Magadha&rsquo; that he "
+            "receives their robe, almsfood, and lodging. The scale of "
+            "this praise &mdash; extending outward from one child to "
+            "two entire regions &mdash; is unusual within this "
+            "collection's more typically personal register."]),
+        ("An ordination formula as informal as a greeting", [
+            "&lsquo;Sopāka, from this day on you are invited to come "
+            "and see me... and Sopāka, let this be your "
+            "ordination&rsquo; replaces any procedural language with "
+            "direct, personal address &mdash; the same pattern of "
+            "intimate, spoken ordination already seen in Thag 7.3's "
+            "&lsquo;Come Bhadda!&rsquo;, appearing for a second time "
+            "in two consecutive poems."]),
+        ("Two Sopākas, sharing only a name", [
+            "This site's Thag 1.33 belongs to a different elder also "
+            "named Sopāka, distinguished here only by the ordinal "
+            "&lsquo;(2nd)&rsquo;, following this collection's "
+            "established convention. Thag 1.33 is a single-verse "
+            "teaching extending a mother's love for her only child to "
+            "all beings, with no narrative content; this poem is an "
+            "extended personal account with no connection to that "
+            "verse beyond the shared name."]),
+        ("A closing formula shared with the poem before it", [
+            "This poem closes, like Thag 7.3, not with this "
+            "collection's standard &lsquo;tisso vijjā&rsquo; formula "
+            "but with &lsquo;aho dhammasudhammatā&rsquo;, &lsquo;oh, "
+            "the clear rightness of the teaching&rsquo; &mdash; "
+            "though this poem adds its own distinct final image "
+            "first: &lsquo;I bear my final body "
+            "(dhāremi antimaṁ dehaṁ)&rsquo;, naming the state of an "
+            "arahant with no further rebirth to come."]),
+    ],
+    terms=[
+        ("purisuttama&#7749;",
+         "&ldquo;supreme among men&rdquo; &mdash; Sopāka's epithet "
+         "for the Buddha, approached and bowed to unprompted."),
+        ("l&amacr;bh&amacr; a&#7749;g&amacr;na&#7749; magadh&amacr;na&#7749;",
+         "&ldquo;it is a blessing for the people of A&#7749;ga and "
+         "Magadha&rdquo; &mdash; the Buddha's public praise, "
+         "extending outward from Sopāka to two entire regions."),
+        ("&lsquo;esā ceva te sopāka, bhavatu upasampadā&rsquo;",
+         "&ldquo;Sopāka, let this be your ordination&rdquo; &mdash; "
+         "the poem's entire ordination formula, spoken directly."),
+        ("dh&amacr;remi antima&#7749; deha&#7749;",
+         "&ldquo;I bear my final body&rdquo; &mdash; this poem's own "
+         "closing image, naming the state of an arahant."),
+        ("aho dhammasudhammatā",
+         "&ldquo;oh, the clear rightness of the teaching&rdquo; "
+         "&mdash; the closing formula shared with Thag 7.3."),
+    ],
+    text_intro=(
+        "The text in full: seven verses, the fifth extended to six "
+        "lines, with no separate attribution line in this chapter. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag7.4:1.1-1.4"),
+        ("p", "&sect;2", "thag7.4:2.1-2.4"),
+        ("p", "&sect;3", "thag7.4:3.1-3.4"),
+        ("p", "&sect;4", "thag7.4:4.1-4.4"),
+        ("p", "&sect;5", "thag7.4:5.1-5.6"),
+        ("p", "&sect;6", "thag7.4:6.1-6.4"),
+        ("p", "&sect;7", "thag7.4:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "How does Sopāka's meeting with the Buddha begin, unlike Thag 7.3's Bhadda?",
+         "opts": [
+             "His parents bring him, as in Thag 7.3",
+             "He is summoned by another monk",
+             "He never meets the Buddha directly",
+             "Sopāka approaches the Buddha himself, seeing him walking and bowing unprompted"],
+         "correct": 3,
+         "expl": "The initiative in this poem's opening scene belongs to Sopāka himself."},
+        {"q": "What does the Buddha do after Sopāka answers his questions?",
+         "opts": [
+             "He praises him publicly before the whole mendicant Saṅgha",
+             "He sends him away to study further",
+             "He asks Sopāka to leave",
+             "He ignores Sopāka entirely"],
+         "correct": 0,
+         "expl": "Naming an entire region blessed by his presence, unusually expansive praise."},
+        {"q": "What does the Buddha's praise extend to, beyond Sopāka himself?",
+         "opts": [
+             "Nothing beyond Sopāka",
+             "The people of Aṅga and Magadha, blessed by his enjoying their support",
+             "A single wealthy family",
+             "Only the monastery itself"],
+         "correct": 1,
+         "expl": "An unusual scale of praise within this collection's typically personal register."},
+        {"q": "What formula does the Buddha use to ordain Sopāka?",
+         "opts": [
+             "A written document",
+             "A lengthy formal proclamation",
+             "'Sopāka, let this be your ordination' — direct, personal address",
+             "No ordination is described"],
+         "correct": 2,
+         "expl": "Echoing the same informal, intimate pattern seen in Thag 7.3's 'Come Bhadda!'"},
+        {"q": "How does this poem's Sopāka relate to Thag 1.33's Sopāka (1st)?",
+         "opts": [
+             "Thag 1.33 narrates this same episode",
+             "Thag 1.33 does not feature anyone named Sopāka",
+             "They are explicitly the same person",
+             "They share only a name, distinguished by the ordinal '(2nd)', with no other connection"],
+         "correct": 3,
+         "expl": "Thag 1.33 is a single-verse teaching with no narrative content, unrelated beyond the shared name."},
+        {"q": "What closing formula does this poem share with Thag 7.3?",
+         "opts": [
+             "'Aho dhammasudhammatā' — 'oh, the clear rightness of the teaching'",
+             "No shared closing formula exists",
+             "A formula found nowhere else in this collection",
+             "The standard 'tisso vijjā' formula"],
+         "correct": 0,
+         "expl": "Though this poem adds its own distinct image first: 'I bear my final body.'"},
+        {"q": "What image does this poem add before its shared closing formula?",
+         "opts": [
+             "No additional image is given",
+             "'I bear my final body' (dhāremi antimaṁ dehaṁ)",
+             "A description of almsfood",
+             "A list of monastic rules"],
+         "correct": 1,
+         "expl": "Naming the state of an arahant with no further rebirth to come."},
+        {"q": "How old was Sopāka at ordination, according to the closing verse?",
+         "opts": [
+             "His age is not given",
+             "An infant",
+             "Seven years old",
+             "Twenty years old"],
+         "correct": 2,
+         "expl": "Joining Thag 6.10 and Thag 7.3 in this small cluster of child-ordination narratives."},
+        {"q": "What did Sopāka do with his robe before approaching the Buddha, in the second verse?",
+         "opts": [
+             "He gave it away",
+             "He wore it over his head",
+             "He removed it entirely",
+             "He arranged it over one shoulder and clasped his hands together"],
+         "correct": 3,
+         "expl": "A gesture of respect before approaching the teacher."},
+        {"q": "What quality does the third verse attribute to Sopāka when the Buddha questions him?",
+         "opts": [
+             "Brave and fearless, answering without hesitation",
+             "Confusion and silence",
+             "Anger at being questioned",
+             "Fear and hesitation"],
+         "correct": 0,
+         "expl": "'Acchambhī ca abhīto ca, byākāsiṁ satthuno ahaṁ.'"},
+    ],
+    marginalia=[
+        ("A child who approaches, not brought", [
+            "seeing the Buddha walking, he draws near himself —",
+            "the initiative his own, unlike the poem before it"
+        ]),
+        ("Praise that names a whole region", [
+            "a blessing for Aṅga and Magadha —",
+            "scale unusual for this collection"
+        ]),
+        ("An ordination spoken, not proclaimed", [
+            "'let this be your ordination' —",
+            "the same informality as 'Come Bhadda!'"
+        ]),
+        ("Two Sopākas, one name", [
+            "Thag 1.33's single verse, this poem's full narrative —",
+            "connected by nothing but the name itself"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag7.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.33.html">Thag 1.33 &mdash; Sopāka (1st)</a> '
+        "&mdash; this collection's other Sopāka, sharing only the "
+        "name.",
+        '<a href="thag-7.3.html">Thag 7.3 &mdash; Bhadda</a> '
+        "&mdash; the poem immediately before this one, sharing its "
+        "closing formula and its informal ordination pattern.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 7.5 — Sarabhaṅga
+# --------------------------------------------------------------------------- #
+page(
+    7, 5, "Sarabha&#7749;ga", "Sarabha&#7749;ga",
+    meta_title="Thag 7.5 — Sarabhaṅga | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sarabhaṅga's verse, closing the Book of the Sevens with his "
+        "own name's origin story, the seven Buddhas of the past "
+        "already named in this site's DN 14, and the four noble "
+        "truths stated directly. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sevens &middot; Chapter One &middot; Poem 5 of 5",
+    glance=[
+        ("Setting", "General teaching, closing this book's single "
+                    "chapter"),
+        ("Speaker", "Sarabhaṅga, explaining his own name and "
+                    "teaching the four noble truths"),
+        ("Form", "Seven verses, the last extended to six lines, "
+                 "followed by this book's own closing structure"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, several named figures and "
+                       "one doctrinal list"),
+    ],
+    why=(
+        "&lsquo;I broke the reeds off with my hands, made a hut, and "
+        "stayed there. That's how I became known as "
+        "&ldquo;Reed-breaker&rdquo;,&rsquo; Sarabhaṅga opens &mdash; "
+        "one of the only poems in this collection to explain its own "
+        "speaker's name directly. What follows moves from that small "
+        "personal origin story to the largest possible frame: seven "
+        "Buddhas walking the same path across the ages, closing the "
+        "Book of the Sevens with the four noble truths stated "
+        "outright."),
+    guide=[
+        ("A name explained, almost uniquely in this collection", [
+            "Most elders in this collection carry their names without "
+            "comment. Sarabhaṅga's opening verse is a rare exception: "
+            "he explains directly that breaking reeds with his hands "
+            "to build a hut &lsquo;is how I became known as "
+            "&ldquo;Reed-breaker&rdquo; (sarabhaṅgo)&rsquo; &mdash; "
+            "his own name, defined by his own account of how he "
+            "earned it."]),
+        ("A practice now against a rule that didn't exist before", [
+            "The second verse adds an unusual note of monastic "
+            "self-awareness: &lsquo;it's not appropriate for me to "
+            "break reeds with my hands&rsquo; today, &lsquo;the "
+            "training rules have been laid down for us by Gotama the "
+            "renowned&rsquo;. Sarabhaṅga names an action that once "
+            "gave him his own name and now, under rules established "
+            "since, would breach the training &mdash; the poem "
+            "quietly acknowledges its own speaker's past practice as "
+            "something the present discipline no longer permits."]),
+        ("Seven Buddhas, already named on this site", [
+            "The fourth and fifth verses list the same seven Buddhas "
+            "of the past &mdash; Vipassī, Sikhī, Vessabhū, Kakusandha, "
+            "Koṇāgamana, Kassapa, and Gotama &mdash; found in this "
+            "site's own "
+            "<a href=\"../digha-nikaya/dn-14.html\">DN 14, The Great "
+            "Discourse on the Buddha's Lineage</a>. Sarabhaṅga's "
+            "poem doesn't narrate their individual stories as DN 14 "
+            "does, but invokes the same list to make a single point: "
+            "all seven &lsquo;traveled by that direct route&rsquo;, "
+            "the identical path leading to the same ending of "
+            "craving."]),
+        ("The four noble truths, stated by name", [
+            "The sixth verse names all four truths directly &mdash; "
+            "&lsquo;dukkhaṁ samudayo maggo, nirodho "
+            "dukkhasaṅkhayo&rsquo;, &lsquo;suffering, origin, path, "
+            "and cessation, the ending of suffering&rsquo; &mdash; a "
+            "rare instance in this collection of the four truths "
+            "named explicitly and completely within a single verse, "
+            "rather than referenced obliquely or treated as already "
+            "assumed background."]),
+        ("Closing the Book of the Sevens, a tally that adds up", [
+            "As with the Threes, Fours, Fives, and Sixes, this "
+            "single-chapter book moves directly from Sarabhaṅga's own "
+            "self-naming (&lsquo;… Sarabhaṅgo thero …&rsquo;) to "
+            "&lsquo;Sattakanipāto niṭṭhito&rsquo;, &lsquo;the Book of "
+            "the Sevens is concluded&rsquo;, with no separate "
+            "chapter marker. The closing Tatruddāna states "
+            "&lsquo;five elders in the Sevens, thirty-five "
+            "verses&rsquo; &mdash; five poems of seven verses each is "
+            "exactly thirty-five, the count matching cleanly when "
+            "verses are counted by their traditional numbering rather "
+            "than by raw line count (three of this book's five poems "
+            "extend one verse to six lines rather than four, without "
+            "changing this nominal count). The uddāna gives "
+            "&lsquo;thero&rsquo; to three of the five names and the "
+            "distinct epithet &lsquo;mahāisi&rsquo;, &lsquo;great "
+            "sage&rsquo;, to Sarabhaṅga alone, closing this book's "
+            "own poem with this collection's sixth distinct pattern "
+            "of epithet placement."]),
+    ],
+    terms=[
+        ("sarabha&#7749;go",
+         "&ldquo;Reed-breaker&rdquo; &mdash; the name Sarabhaṅga "
+         "explains directly in his own opening verse."),
+        ("sikkh&amacr;pad&amacr; no pa&ntilde;&ntilde;attā",
+         "&ldquo;the training rules have been laid down for us&rdquo; "
+         "&mdash; the second verse's acknowledgment that a once-"
+         "ordinary action is now against the discipline."),
+        ("satta buddh&amacr;",
+         "&ldquo;seven Buddhas&rdquo; &mdash; the same list of past "
+         "Buddhas found in this site's DN 14."),
+        ("catt&amacr;ri ariyasacc&amacr;ni",
+         "&ldquo;the four noble truths&rdquo; &mdash; named directly "
+         "and completely in the sixth verse."),
+        ("mahāisi",
+         "&ldquo;great sage&rdquo; &mdash; the epithet the closing "
+         "uddāna gives to Sarabhaṅga alone, distinct from the "
+         "&lsquo;thero&rsquo; given to three other names in the same "
+         "list."),
+    ],
+    text_intro=(
+        "The text in full: seven verses, the last extended to six "
+        "lines, with no separate attribution line in this chapter. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag7.5:1.1-1.4"),
+        ("p", "&sect;2", "thag7.5:2.1-2.4"),
+        ("p", "&sect;3", "thag7.5:3.1-3.4"),
+        ("p", "&sect;4", "thag7.5:4.1-4.4"),
+        ("p", "&sect;5", "thag7.5:5.1-5.4"),
+        ("p", "&sect;6", "thag7.5:6.1-6.4"),
+        ("p", "&sect;7", "thag7.5:7.1-7.6"),
+    ],
+    quiz=[
+        {"q": "What does Sarabhaṅga explain in his opening verse?",
+         "opts": [
+             "The origin of his own name — 'Reed-breaker,' from building a hut with his hands",
+             "A description of his hometown",
+             "His family lineage",
+             "A dispute with another monk"],
+         "correct": 0,
+         "expl": "One of the only poems in this collection to explain its own speaker's name directly."},
+        {"q": "What does the second verse say about breaking reeds today?",
+         "opts": [
+             "It is still encouraged practice",
+             "It is no longer appropriate — the training rules have since been laid down",
+             "It was never permitted at all",
+             "The verse doesn't mention rules"],
+         "correct": 1,
+         "expl": "A quiet acknowledgment that a once-ordinary past action would now breach the discipline."},
+        {"q": "What list of figures do the fourth and fifth verses invoke?",
+         "opts": [
+             "A genealogy of Sarabhaṅga's own family",
+             "A list of local kings",
+             "The seven Buddhas of the past, also found in this site's DN 14",
+             "A list of monastic rules"],
+         "correct": 2,
+         "expl": "Vipassī, Sikhī, Vessabhū, Kakusandha, Koṇāgamana, Kassapa, and Gotama."},
+        {"q": "What point does invoking the seven Buddhas make, in this poem?",
+         "opts": [
+             "That only Gotama's path is valid",
+             "No point is made — they are simply listed",
+             "That each Buddha taught a different path",
+             "That all seven traveled by the same direct route to the same ending of craving"],
+         "correct": 3,
+         "expl": "A single point made through a shared list, not seven separate narratives."},
+        {"q": "What does the sixth verse name completely and directly?",
+         "opts": [
+             "The four noble truths — suffering, origin, path, and cessation",
+             "The five aggregates",
+             "The eightfold path's eight factors, one by one",
+             "The three knowledges"],
+         "correct": 0,
+         "expl": "A rare instance in this collection of the four truths named explicitly within a single verse."},
+        {"q": "What marks this book's transition from Sarabhaṅga's own poem to the book's close?",
+         "opts": [
+             "A separate chapter-closing marker, distinct from the book marker",
+             "No separate chapter marker — moving directly from self-naming to 'the Book of the Sevens is concluded'",
+             "Another full poem inserted before the close",
+             "No closing marker at all"],
+         "correct": 1,
+         "expl": "Matching the pattern already established in the Threes, Fours, Fives, and Sixes."},
+        {"q": "What does this book's closing tally state, and how does it compare to its actual content?",
+         "opts": [
+             "No numbers are given",
+             "Twenty verses, five elders",
+             "Thirty-five verses, five elders — matching exactly when verses are counted by traditional numbering",
+             "Fifty verses, ten elders — another mismatch"],
+         "correct": 2,
+         "expl": "Five poems of seven verses each is exactly thirty-five, despite three poems extending one verse to six lines."},
+        {"q": "What epithet does the closing uddāna give to Sarabhaṅga alone, distinct from the other four names?",
+         "opts": [
+             "No epithet at all",
+             "'Buddha'",
+             "'Thero' (elder), like the others",
+             "'Mahāisi' — 'great sage'"],
+         "correct": 3,
+         "expl": "This collection's sixth distinct pattern of epithet placement across its books so far."},
+        {"q": "What is the running total of poems completed on this site after this poem, out of 264?",
+         "opts": [
+             "228 of 264",
+             "264 of 264 — the collection is complete",
+             "209 of 264",
+             "223 of 264"],
+         "correct": 0,
+         "expl": "223 + 5 poems in the Book of the Sevens."},
+        {"q": "What is the next book in the Theragātha, following this one?",
+         "opts": [
+             "The collection ends here",
+             "The Book of the Eights",
+             "The Book of the Nines",
+             "The Great Book"],
+         "correct": 1,
+         "expl": "Its own structure and conventions still need a fresh check before work continues."},
+    ],
+    marginalia=[
+        ("A name, explained by its owner", [
+            "'Reed-breaker,' from building his own hut —",
+            "rare, this collection naming its own name"
+        ]),
+        ("A rule that came after the deed", [
+            "once ordinary, now against the training —",
+            "acknowledged plainly, not defended"
+        ]),
+        ("Seven Buddhas, one direct route", [
+            "the same list as this site's DN 14 —",
+            "invoked here for a single point"
+        ]),
+        ("A fifth book, small but complete", [
+            "228 of 264 —",
+            "fourteen further books remain"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag7.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../digha-nikaya/dn-14.html">DN 14 &mdash; The Great '
+        "Discourse on the Buddha&rsquo;s Lineage</a> &mdash; the same "
+        "seven Buddhas named in this poem's fourth and fifth verses.",
+        '<a href="thag-7.4.html">Thag 7.4 &mdash; Sopāka (2nd)</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
