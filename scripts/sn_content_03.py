@@ -43277,3 +43277,1639 @@ page(
         "confirms and completes.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 25.1 — Cakkhusutta
+# --------------------------------------------------------------------------- #
+page(
+    25, 1, "Cakkhu", "The Eye",
+    vagga="Cakkhuvagga",
+    meta_title="SN 25.1 — The Eye | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Cakkhusutta &mdash; opening Okkantasaṃyutta with the "
+        "canon's classic definitions of the \"follower by faith\" and "
+        "\"follower of teachings,\" the two profiles just short of "
+        "stream-entry. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A brief impermanence statement about the six sense "
+                 "faculties, followed by the canon's standing "
+                 "three-tier definition of faith-follower, "
+                 "teaching-follower, and stream-enterer"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the impermanence statement is simple, but the "
+                       "three-tier terminology repays careful "
+                       "attention"),
+    ],
+    why=(
+        "Opens Okkantasaṃyutta (\"Linked Discourses on Stepping "
+        "Into\"), a compact ten-discourse saṃyutta built entirely "
+        "around one recurring three-tier formula &mdash; and gives "
+        "the canon's own classic definitions of two terms that "
+        "recur throughout the Nikāyas but are rarely defined this "
+        "precisely: saddhānusārī (\"follower by faith\") and "
+        "dhammānusārī (\"follower of teachings\"), the two profiles "
+        "of someone who has \"stepped into the sure path\" but has "
+        "not yet, strictly speaking, become a stream-enterer."
+    ),
+    guide=[
+        ("Six faculties, impermanent, decaying, perishing", [
+            "\"The eye is impermanent, decaying, and perishing. The "
+            "ear, nose, tongue, body, and mind are impermanent, "
+            "decaying, and perishing\" &mdash; the six internal sense "
+            "faculties named as a set, opening a saṃyutta whose ten "
+            "discourses will each apply the identical three-tier "
+            "formula to a different analytical category.",
+        ]),
+        ("Two ways of accepting this before actually seeing it", [
+            "\"Someone who has faith and confidence in these "
+            "teachings is called a follower by faith\" &mdash; "
+            "accepting the impermanence claim on trust in the "
+            "teacher, without yet having verified it through personal "
+            "insight. \"Someone who accepts these teachings after "
+            "deliberating them with a degree of wisdom is called a "
+            "follower of teachings\" &mdash; accepting through "
+            "reflection and a measure of understanding, a step closer "
+            "to direct realization but still short of it.",
+            "Both are said to have \"stepped into the sure path\" "
+            "(okkanta niyāma) &mdash; the saṃyutta's own name derives "
+            "from this exact phrase &mdash; \"stepped into the level "
+            "of the true person,\" and \"passed beyond the level of "
+            "the untrue person,\" with the identical guarantee: they "
+            "cannot be reborn in hell, the animal realm, or the ghost "
+            "realm, and cannot die without realizing the fruit of "
+            "stream-entry.",
+        ]),
+        ("The third tier: actually seeing it", [
+            "\"Someone who understands and sees these principles is "
+            "called a stream-enterer, not liable to be reborn in the "
+            "underworld, assured, destined for awakening\" &mdash; "
+            "the same guarantee, but grounded now in direct "
+            "understanding and seeing (jānaṁ passaṁ) rather than "
+            "faith or inference. The three tiers form a clear "
+            "progression: trust, reasoned acceptance, direct "
+            "realization &mdash; three different roads to the "
+            "identical assurance.",
+        ]),
+        ("A saṃyutta built on one formula, ten analytical categories", [
+            "This exact three-tier structure (faith-follower / "
+            "teaching-follower / stream-enterer) will repeat "
+            "unchanged across all ten discourses in this saṃyutta; "
+            "what varies is only the list of six or five items "
+            "declared impermanent at each discourse's opening &mdash; "
+            "the six sense faculties here, then their objects, then "
+            "consciousness, contact, feeling, perception, intention, "
+            "craving, the elements, and finally the five aggregates.",
+        ]),
+    ],
+    terms=[
+        ("okkanta niyāma", "\"stepped into the sure path\" — the phrase giving this saṃyutta its own name, describing both tiers short of full stream-entry"),
+        ("saddhānusārī", "follower by faith — someone who accepts the teaching through trust and confidence in the teacher, not yet through direct insight"),
+        ("dhammānusārī", "follower of teachings — someone who accepts the teaching after deliberating it with a degree of wisdom, closer to but still short of direct realization"),
+        ("jānaṁ passaṁ", "understanding and seeing — the criterion distinguishing the actual stream-enterer from the two preceding tiers"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — the identical guarantee given to all three tiers, grounded differently in each case"),
+    ],
+    text_intro=("The complete discourse: the six sense faculties named "
+        "impermanent, then the canon's own three-tier definition in "
+        "full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn25.1:1.1-1.10"),
+        ("p", "&sect;2", "sn25.1:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What six items does this discourse open by declaring impermanent?",
+         "opts": ["The eye, ear, nose, tongue, body, and mind — the six internal sense faculties",
+                  "The six sense objects (sights, sounds, etc.)", "The five aggregates", "The four elements"],
+         "correct": 0,
+         "expl": "Opening a saṃyutta that will apply the same formula to nine further analytical categories."},
+        {"q": "What defines a \"follower by faith\" (saddhānusārī)?",
+         "opts": ["Accepting the teaching through faith and confidence in the teacher, without yet verifying it through insight",
+                  "Having already directly realized the teaching", "Rejecting the teaching outright", "Accepting the teaching only after formal ordination"],
+         "correct": 0,
+         "expl": "The first of two tiers short of actual stream-entry."},
+        {"q": "What defines a \"follower of teachings\" (dhammānusārī)?",
+         "opts": ["Accepting the teaching after deliberating it with a degree of wisdom", "Accepting the teaching purely through faith", "Having no acceptance of the teaching at all", "Only accepting teachings given by a specific named teacher"],
+         "correct": 0,
+         "expl": "A step closer to direct realization than the faith-follower, but still short of it."},
+        {"q": "What phrase gives this saṃyutta its own name?",
+         "opts": ["\"Stepped into the sure path\" (okkanta niyāma)", "\"Given up doubt\"", "\"Understanding and seeing\"", "\"The eighteen expositions\""],
+         "correct": 0,
+         "expl": "Describing both the faith-follower and teaching-follower tiers, both short of actual stream-entry."},
+        {"q": "What distinguishes an actual stream-enterer from the two preceding tiers?",
+         "opts": ["Direct understanding and seeing (jānaṁ passaṁ), rather than faith or reasoned acceptance",
+                  "A different, weaker guarantee against rebirth in the lower realms", "No distinction exists between the three tiers", "Only the stream-enterer avoids the animal realm"],
+         "correct": 0,
+         "expl": "The same guarantee as the two preceding tiers, but grounded in direct realization."},
+        {"q": "What guarantee do all three tiers share?",
+         "opts": ["They cannot be reborn in hell, the animal realm, or the ghost realm, and cannot die without realizing stream-entry's fruit",
+                  "Only the stream-enterer receives any guarantee at all", "They are guaranteed full awakening within this very life", "No guarantee is given to any of the three tiers"],
+         "correct": 0,
+         "expl": "The identical assurance, reached by three different roads."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What structure will repeat unchanged across all ten discourses in this saṃyutta?",
+         "opts": ["The three-tier faith-follower / teaching-follower / stream-enterer formula", "A completely different formula each time", "A four-tier rather than three-tier structure", "No repeated structure at all"],
+         "correct": 0,
+         "expl": "Only the opening list of impermanent items will vary from discourse to discourse."},
+        {"q": "What varies from discourse to discourse across this saṃyutta's full set of ten?",
+         "opts": ["The specific analytical category (sense faculties, their objects, consciousness, contact, etc.) declared impermanent",
+                  "The three-tier formula itself", "The setting, which changes every time", "The speaker, who changes every time"],
+         "correct": 0,
+         "expl": "Sense faculties, objects, consciousness, contact, feeling, perception, intention, craving, elements, and the aggregates."},
+        {"q": "What is this saṃyutta's own name, translated?",
+         "opts": ["Okkantasaṃyutta, \"Linked Discourses on Stepping Into\"", "Diṭṭhisaṃyutta", "Khandhasaṃyutta", "Rādhasaṃyutta"],
+         "correct": 0,
+         "expl": "This book's fifth saṃyutta, immediately following Diṭṭhisaṃyutta's own completion."},
+    ],
+    marginalia=[
+        ("Six faculties, impermanent from the start", [
+            "eye, ear, nose, tongue, body, mind &mdash;",
+            "opening a saṃyutta of one repeated formula",
+        ]),
+        ("Two ways of accepting, short of seeing", [
+            "faith, and reasoned deliberation &mdash;",
+            "both \"stepped into the sure path,\" not yet arrived",
+        ]),
+        ("The third tier: understanding and seeing", [
+            "the same guarantee, differently grounded &mdash;",
+            "trust, reflection, direct realization",
+        ]),
+        ("One formula, ten categories ahead", [
+            "faculties, objects, consciousness, contact &mdash;",
+            "feeling, perception, intention, craving, elements, aggregates",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn25.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.96.html">SN 24.96 &middot; The Self Is Neither '
+        "Happy Nor Suffering</a> &mdash; the previous discourse, "
+        "closing Diṭṭhisaṃyutta entirely.",
+        '<a href="sn-25.2.html">SN 25.2 &middot; Sights</a> '
+        "&mdash; the next discourse, applying the identical formula "
+        "to the six sense objects.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 25.2 — Rūpasutta
+# --------------------------------------------------------------------------- #
+page(
+    25, 2, "Rūpa", "Sights",
+    vagga="Cakkhuvagga",
+    meta_title="SN 25.2 — Sights | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Rūpasutta &mdash; the same three-tier formula applied to "
+        "the six sense objects rather than the six sense faculties. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The identical three-tier formula, now applied to "
+                 "the six sense objects"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "familiar territory immediately after SN 25.1"),
+    ],
+    why=(
+        "The second step in this saṃyutta's ten-part analytical "
+        "sequence: where SN 25.1 examined the six internal sense "
+        "faculties (eye, ear, nose, tongue, body, mind), this "
+        "discourse examines their six external objects (sights, "
+        "sounds, smells, tastes, touches, ideas) &mdash; the same "
+        "three-tier formula, unchanged, applied to the other half of "
+        "the classic twelve sense bases (āyatana)."
+    ),
+    guide=[
+        ("The other half of the twelve sense bases", [
+            "\"Sights are impermanent, decaying, and perishing. "
+            "Sounds, smells, tastes, touches, and ideas are "
+            "impermanent, decaying, and perishing\" &mdash; together "
+            "with SN 25.1's six internal faculties, these six external "
+            "objects complete the classic twelve āyatana (six "
+            "internal plus six external), the standard analytical "
+            "framework for sense experience used throughout the "
+            "Nikāyas.",
+        ]),
+        ("The formula, still word for word", [
+            "The three-tier definition &mdash; faith-follower, "
+            "teaching-follower, stream-enterer &mdash; repeats "
+            "without a single word changed from SN 25.1, confirming "
+            "this saṃyutta's own working method: one fixed conclusion, "
+            "reapplied to a new opening list each time.",
+        ]),
+        ("Why sense objects get their own discourse rather than being folded into SN 25.1", [
+            "Internal faculties and external objects are treated as "
+            "two distinct analytical categories throughout the "
+            "Nikāyas, even though they are always discussed as a "
+            "pair &mdash; this saṃyutta's decision to give each its "
+            "own discourse, rather than merging them into a single "
+            "twelve-item list, mirrors that standard separation.",
+        ]),
+        ("Eight categories still to come", [
+            "This saṃyutta's remaining eight discourses will proceed "
+            "through the standard chain that builds on faculty and "
+            "object: consciousness, contact, feeling, perception, "
+            "intention, craving, the physical elements, and finally "
+            "the five aggregates themselves.",
+        ]),
+    ],
+    terms=[
+        ("rūpa", "sights, visible forms — the first of the six external sense objects named in this discourse"),
+        ("āyatana", "sense base — the internal faculties (SN 25.1) and external objects (this discourse) together comprise the classic twelve sense bases"),
+        ("saddhānusārī / dhammānusārī", "follower by faith / follower of teachings — the same two tiers defined at SN 25.1, unchanged here"),
+        ("okkanta niyāma", "\"stepped into the sure path\" — this saṃyutta's own recurring phrase, applied here to the sense-object category"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — this saṃyutta's standing conclusion"),
+    ],
+    text_intro=("The complete discourse: the six sense objects named "
+        "impermanent, then the same three-tier definition in full. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn25.2:1.1-1.10"),
+        ("p", "&sect;2", "sn25.2:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What six items does this discourse declare impermanent?",
+         "opts": ["Sights, sounds, smells, tastes, touches, and ideas — the six external sense objects",
+                  "The six internal sense faculties", "The five aggregates", "The six sense-consciousnesses"],
+         "correct": 0,
+         "expl": "The other half of the classic twelve sense bases, following SN 25.1's own six internal faculties."},
+        {"q": "How does this discourse's three-tier formula compare to SN 25.1's?",
+         "opts": ["Repeated word for word, with only the opening list of impermanent items changed", "Substantially rewritten", "Reduced to a single tier", "Expanded to a fourth tier"],
+         "correct": 0,
+         "expl": "Confirming this saṃyutta's own working method: one fixed conclusion, reapplied each time."},
+        {"q": "What do SN 25.1 and this discourse together comprise?",
+         "opts": ["The classic twelve sense bases (āyatana) — six internal, six external", "The five aggregates", "The eighteen elements (dhātu)", "The four noble truths"],
+         "correct": 0,
+         "expl": "The standard analytical framework for sense experience used throughout the Nikāyas."},
+        {"q": "Why does this saṃyutta give sense objects their own discourse rather than merging them with SN 25.1's faculties?",
+         "opts": ["Internal faculties and external objects are treated as two distinct categories throughout the Nikāyas, even though always paired",
+                  "There is no reason — it is an arbitrary division", "Sense objects are considered more important than faculties", "The source text actually does merge them"],
+         "correct": 0,
+         "expl": "Mirroring the Nikāyas' own standard separation of the twelve sense bases into two halves."},
+        {"q": "What eight further categories will this saṃyutta's remaining discourses proceed through?",
+         "opts": ["Consciousness, contact, feeling, perception, intention, craving, elements, and the aggregates",
+                  "A repeat of the twelve sense bases", "The four named-teacher doctrines", "The ten undetermined questions"],
+         "correct": 0,
+         "expl": "The standard analytical chain building outward from faculty and object."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What defines a \"follower by faith,\" as established at SN 25.1?",
+         "opts": ["Accepting the teaching through faith and confidence, without yet verifying it through insight", "Having already directly realized the teaching", "Rejecting the teaching outright", "A term unique to this discourse, not defined elsewhere"],
+         "correct": 0,
+         "expl": "Unchanged from SN 25.1's own definition."},
+        {"q": "What guarantee does this discourse's three-tier formula give to all three tiers?",
+         "opts": ["They cannot be reborn in hell, the animal realm, or the ghost realm, and cannot die without realizing stream-entry's fruit",
+                  "No guarantee at all", "Only the stream-enterer receives any guarantee", "A guarantee of full awakening within this life alone"],
+         "correct": 0,
+         "expl": "The identical assurance given at SN 25.1, unchanged here."},
+        {"q": "What phrase does this discourse share with SN 25.1, giving this saṃyutta its own name?",
+         "opts": ["\"Stepped into the sure path\" (okkanta niyāma)", "\"Given up doubt\"", "\"The eighteen expositions\"", "\"Nothing further for this place\""],
+         "correct": 0,
+         "expl": "Describing the first two tiers, both short of actual stream-entry."},
+        {"q": "What discourse comes next in this saṃyutta's sequence?",
+         "opts": ["SN 25.3, applying the formula to the six sense-consciousnesses", "SN 25.10, skipping ahead to the close", "SN 25.1, repeated", "A return to SN 24's own content"],
+         "correct": 0,
+         "expl": "Continuing the standard analytical chain."},
+    ],
+    marginalia=[
+        ("The other half of the pair", [
+            "sights, sounds, smells, tastes, touches, ideas &mdash;",
+            "completing the twelve sense bases with SN 25.1",
+        ]),
+        ("The same formula, unchanged", [
+            "faith-follower, teaching-follower, stream-enterer &mdash;",
+            "word for word, only the topic list differs",
+        ]),
+        ("Two categories, always paired, always separate", [
+            "faculty and object, each its own discourse &mdash;",
+            "mirroring the Nikāyas' own standard division",
+        ]),
+        ("Eight more categories ahead", [
+            "consciousness, contact, feeling, perception &mdash;",
+            "intention, craving, elements, aggregates",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn25.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-25.1.html">SN 25.1 &middot; The Eye</a> '
+        "&mdash; the previous discourse, this saṃyutta's own opening "
+        "and source for the shared three-tier formula.",
+        '<a href="sn-25.3.html">SN 25.3 &middot; Consciousness</a> '
+        "&mdash; the next discourse, applying the formula to the six "
+        "sense-consciousnesses.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 25.3 — Viññāṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    25, 3, "Viññāṇa", "Consciousness",
+    vagga="Cakkhuvagga",
+    meta_title="SN 25.3 — Consciousness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Viññāṇasutta &mdash; the same three-tier formula applied "
+        "to the six sense-consciousnesses, the third step in this "
+        "saṃyutta's analytical sequence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The bare six-item list plus a compressed reference "
+                 "to the three-tier formula, this saṃyutta's own "
+                 "compression pattern beginning here"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and familiar after SN 25.1 and 25.2"),
+    ],
+    why=(
+        "The third step in this saṃyutta's ten-part sequence, and the "
+        "point where the source text's own compression begins: rather "
+        "than spelling out the full three-tier formula again, "
+        "bilara-data trails off after \"is called a follower by "
+        "faith\" with an ellipsis, trusting the reader to supply the "
+        "rest from SN 25.1 and 25.2. This discourse examines the six "
+        "sense-consciousnesses &mdash; eye-consciousness, ear-"
+        "consciousness, and so on &mdash; completing, with the two "
+        "discourses before it, the classic set of eighteen elements "
+        "(dhātu) in triadic form: six faculties, six objects, six "
+        "consciousnesses."
+    ),
+    guide=[
+        ("Consciousness, the third leg of the eighteen elements", [
+            "\"Eye consciousness is impermanent, decaying, and "
+            "perishing. Ear consciousness, nose consciousness, tongue "
+            "consciousness, body consciousness, and mind "
+            "consciousness are impermanent, decaying, and perishing\" "
+            "&mdash; each of the six consciousnesses arising in "
+            "dependence on its corresponding faculty and object, "
+            "completing SN 25.1 and 25.2's own pair.",
+        ]),
+        ("The eighteen elements, now fully assembled across three discourses", [
+            "Six internal faculties (SN 25.1) + six external objects "
+            "(SN 25.2) + six consciousnesses (this discourse) = the "
+            "eighteen dhātu, the canon's most granular standard "
+            "analysis of sense experience &mdash; assembled here "
+            "piece by piece rather than in one single discourse, "
+            "mirroring how the Nikāyas themselves usually present "
+            "this material.",
+        ]),
+        ("The compression begins", [
+            "Where SN 25.1 and 25.2 spelled out the complete three-"
+            "tier formula in full, this discourse's source stops "
+            "short after \"is called a follower by faith...\" &mdash; "
+            "the first visible compression in this saṃyutta, "
+            "establishing the pattern its remaining discourses (SN "
+            "25.4&ndash;9) will follow.",
+        ]),
+        ("Why this saṃyutta doesn't merge these three into one discourse", [
+            "Despite their tight conceptual relationship, faculty, "
+            "object, and consciousness each receive independent "
+            "treatment rather than being folded into a single "
+            "eighteen-item discourse &mdash; consistent with this "
+            "saṃyutta's own working method of one discourse per "
+            "analytical category, however closely related the "
+            "categories are to each other.",
+        ]),
+    ],
+    terms=[
+        ("cakkhuviññāṇa", "eye-consciousness — the first of the six sense-consciousnesses named in this discourse"),
+        ("dhātu", "element — faculty, object, and consciousness together comprise the classic eighteen elements, the canon's most granular sense-experience analysis"),
+        ("peyyāla", "an elision mark — marking this saṃyutta's first compression, trusting the reader to supply the full formula from SN 25.1–2"),
+        ("saddhānusārī / dhammānusārī", "follower by faith / follower of teachings — the same two tiers defined at SN 25.1, implied here though not spelled out"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — this saṃyutta's standing conclusion"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the "
+        "six sense-consciousnesses named impermanent, then the "
+        "formula's opening words alone. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn25.3:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What six items does this discourse declare impermanent?",
+         "opts": ["Eye-consciousness, ear-consciousness, and the other four sense-consciousnesses",
+                  "The six sense faculties", "The six sense objects", "The five aggregates"],
+         "correct": 0,
+         "expl": "Completing, with SN 25.1 and 25.2, the classic eighteen elements in triadic form."},
+        {"q": "What do SN 25.1, 25.2, and this discourse together assemble?",
+         "opts": ["The eighteen elements (dhātu) — six faculties, six objects, six consciousnesses", "The five aggregates", "The four noble truths", "The twelve links of dependent origination"],
+         "correct": 0,
+         "expl": "The canon's most granular standard analysis of sense experience, built piece by piece."},
+        {"q": "What happens to the source text's compression starting with this discourse?",
+         "opts": ["It begins — the formula trails off after \"is called a follower by faith\" with an ellipsis",
+                  "It disappears entirely, becoming fuller than SN 25.1–2", "It remains exactly as full as before", "The discourse is merged into a single file with others"],
+         "correct": 0,
+         "expl": "The first visible compression in this saṃyutta, establishing the pattern SN 25.4–9 will follow."},
+        {"q": "Why doesn't this saṃyutta merge faculty, object, and consciousness into one discourse?",
+         "opts": ["This saṃyutta's own working method gives one discourse per analytical category, however closely related",
+                  "The source text actually does merge them", "There is no reason given for the separation", "Merging them would be technically impossible"],
+         "correct": 0,
+         "expl": "Consistent with how this saṃyutta treats each of its ten categories independently."},
+        {"q": "On what does each sense-consciousness arise in dependence, according to the standard canonical analysis?",
+         "opts": ["Its corresponding faculty and object", "The five aggregates alone", "An entirely independent cause", "The four elements alone"],
+         "correct": 0,
+         "expl": "The standard dependent relationship underlying the eighteen elements."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What discourse comes next in this saṃyutta's sequence?",
+         "opts": ["SN 25.4, applying the formula to the six kinds of contact", "SN 25.10, skipping ahead to the close", "SN 25.1, repeated", "A return to SN 24's own content"],
+         "correct": 0,
+         "expl": "Continuing the standard analytical chain: faculty, object, consciousness, then contact."},
+        {"q": "What is the first of the six sense-consciousnesses named in this discourse?",
+         "opts": ["Eye-consciousness (cakkhuviññāṇa)", "Mind-consciousness", "Ear-consciousness", "Body-consciousness"],
+         "correct": 0,
+         "expl": "Followed by ear, nose, tongue, body, and mind consciousness."},
+        {"q": "What is this saṃyutta's own recurring three-tier formula, implied though not spelled out here?",
+         "opts": ["Faith-follower, teaching-follower, stream-enterer", "Only a single tier: stream-enterer alone", "A four-tier structure", "An entirely different formula unique to this discourse"],
+         "correct": 0,
+         "expl": "Established in full at SN 25.1 and 25.2, now trusted to memory."},
+        {"q": "What does bilara-data's own elision mark trust the reader to do?",
+         "opts": ["Supply the full three-tier formula from SN 25.1–2's own complete versions", "Invent an entirely new conclusion", "Assume the discourse has no conclusion at all", "Look up the answer in a different saṃyutta"],
+         "correct": 0,
+         "expl": "This saṃyutta's own compression convention, beginning with this discourse."},
+    ],
+    marginalia=[
+        ("The third leg of the eighteen elements", [
+            "eye-consciousness, ear-consciousness, and four more &mdash;",
+            "completing faculty and object with consciousness itself",
+        ]),
+        ("Assembled piece by piece", [
+            "three discourses, one classic analysis &mdash;",
+            "mirroring how the Nikāyas present it themselves",
+        ]),
+        ("The compression begins here", [
+            "an ellipsis stands in for the full formula &mdash;",
+            "trusting SN 25.1 and 25.2 to carry the reader",
+        ]),
+        ("One category, one discourse, still", [
+            "closely related, yet kept separate &mdash;",
+            "this saṃyutta's own consistent working method",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn25.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-25.2.html">SN 25.2 &middot; Sights</a> '
+        "&mdash; the previous discourse, this saṃyutta's own sense-"
+        "object half of the eighteen elements.",
+        '<a href="sn-25.4.html">SN 25.4 &middot; Contact</a> '
+        "&mdash; the next discourse, moving beyond the eighteen "
+        "elements to the contact that arises from them.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 25.4 — Phassasutta
+# --------------------------------------------------------------------------- #
+page(
+    25, 4, "Phassa", "Contact",
+    vagga="Cakkhuvagga",
+    meta_title="SN 25.4 — Contact | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Phassasutta &mdash; the same formula applied to the six "
+        "kinds of contact, the point where faculty, object, and "
+        "consciousness converge. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The bare six-item list plus the compressed formula "
+                 "reference, matching SN 25.3's own treatment"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and familiar by this point in the "
+                       "sequence"),
+    ],
+    why=(
+        "The fourth step in this saṃyutta's sequence, and the first "
+        "to move beyond the eighteen elements themselves into what "
+        "arises from them: contact (phassa), the coming-together of "
+        "faculty, object, and consciousness that the standard "
+        "analysis treats as the next link after the eighteen "
+        "elements, and the direct condition for feeling."
+    ),
+    guide=[
+        ("Six contacts, one for each sense door", [
+            "\"Eye contact is impermanent, decaying, and perishing. "
+            "Ear contact, nose contact, tongue contact, body contact, "
+            "and mind contact are impermanent, decaying, and "
+            "perishing\" &mdash; contact named as the meeting-point of "
+            "the three elements already examined (faculty, object, "
+            "consciousness), one contact for each of the six sense "
+            "doors.",
+        ]),
+        ("Where the standard analytical chain is heading", [
+            "This saṃyutta's remaining sequence follows the classic "
+            "order that builds from the eighteen elements: contact "
+            "gives rise to feeling (SN 25.5), which conditions "
+            "perception (SN 25.6) and intention (SN 25.7), which in "
+            "turn can give rise to craving (SN 25.8) &mdash; the same "
+            "chain examined more fully elsewhere in the Nikāyas (e.g. "
+            "the Chachakka Sutta, MN 148), here applied one link at a "
+            "time to the identical three-tier stream-entry formula.",
+        ]),
+        ("The same compressed treatment as SN 25.3", [
+            "As with the previous discourse, the source text gives "
+            "only the six-item list plus the formula's opening words, "
+            "trusting SN 25.1 and 25.2's own full versions to supply "
+            "the rest.",
+        ]),
+        ("A saṃyutta quietly teaching dependent origination's own vocabulary", [
+            "Though never named as such, the sequence faculty "
+            "&rarr; object &rarr; consciousness &rarr; contact "
+            "&rarr; feeling &rarr; craving mirrors several links of "
+            "paṭiccasamuppāda (dependent origination) &mdash; this "
+            "saṃyutta's real achievement may be teaching that "
+            "vocabulary implicitly, through ten discourses of "
+            "impermanence rather than one discourse of formal chain "
+            "analysis.",
+        ]),
+    ],
+    terms=[
+        ("phassa", "contact — the meeting of faculty, object, and consciousness, the subject of this discourse"),
+        ("chachakka", "\"the six sixes\" — the traditional name (from MN 148) for the fuller analysis this saṃyutta's sequence echoes one link at a time"),
+        ("paṭiccasamuppāda", "dependent origination — the chain whose vocabulary this saṃyutta's sequence quietly follows without naming it directly"),
+        ("peyyāla", "an elision mark — continuing this saṃyutta's compression pattern from SN 25.3"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — this saṃyutta's standing conclusion"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the "
+        "six kinds of contact named impermanent, then the formula's "
+        "opening words alone. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn25.4:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What six items does this discourse declare impermanent?",
+         "opts": ["Eye contact, ear contact, and the other four kinds of contact", "The six sense faculties", "The six sense objects", "The five aggregates"],
+         "correct": 0,
+         "expl": "The meeting-point of faculty, object, and consciousness, one contact per sense door."},
+        {"q": "What does contact represent in the standard analytical chain?",
+         "opts": ["The coming-together of faculty, object, and consciousness, and the direct condition for feeling",
+                  "An entirely independent category unrelated to the eighteen elements", "The final link in the chain, with nothing following it", "A synonym for consciousness itself"],
+         "correct": 0,
+         "expl": "The next link after the eighteen elements already examined at SN 25.1–3."},
+        {"q": "What chain does this saṃyutta's remaining sequence follow?",
+         "opts": ["Contact gives rise to feeling, which conditions perception and intention, which can give rise to craving",
+                  "A chain unrelated to contact and feeling", "A repeat of the eighteen elements", "No discernible chain at all"],
+         "correct": 0,
+         "expl": "The same chain examined more fully at MN 148 (the Chachakka Sutta)."},
+        {"q": "What vocabulary does this saṃyutta's sequence quietly echo, without naming it directly?",
+         "opts": ["Dependent origination (paṭiccasamuppāda)", "The four noble truths", "The eighteen elements alone", "The ten undetermined questions"],
+         "correct": 0,
+         "expl": "Faculty, object, consciousness, contact, feeling, craving — several of its own links."},
+        {"q": "How does this discourse's treatment compare to SN 25.3's own?",
+         "opts": ["The same compressed treatment — the six-item list plus the formula's opening words", "Considerably fuller", "Considerably more compressed", "Identical to SN 25.1's full treatment"],
+         "correct": 0,
+         "expl": "Trusting SN 25.1 and 25.2's own full versions to supply the rest."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What discourse comes next, examining the link that arises directly from contact?",
+         "opts": ["SN 25.5, examining feeling", "SN 25.10, skipping ahead to the close", "SN 25.1, repeated", "SN 25.8, skipping ahead to craving"],
+         "correct": 0,
+         "expl": "Continuing the standard chain one link at a time."},
+        {"q": "What earlier discourse in the wider Nikāyas gives a fuller version of this same analytical chain?",
+         "opts": ["MN 148, the Chachakka Sutta (\"The Six Sixes\")", "DN 2, the Sāmaññaphala Sutta", "MN 72, the Aggivacchagottasutta", "No fuller version exists elsewhere"],
+         "correct": 0,
+         "expl": "This saṃyutta applies the same chain one link at a time to the stream-entry formula."},
+        {"q": "How many sense doors does this discourse name a contact for?",
+         "opts": ["Six — eye, ear, nose, tongue, body, and mind", "Only three", "Twelve", "Eighteen"],
+         "correct": 0,
+         "expl": "One contact for each of the six sense faculties already examined."},
+        {"q": "What is this saṃyutta's own real teaching achievement, according to this reading guide?",
+         "opts": ["Implicitly teaching dependent origination's vocabulary through ten discourses of impermanence",
+                  "Formally naming and defining dependent origination in full", "Refuting dependent origination entirely", "Teaching a chain unrelated to dependent origination"],
+         "correct": 0,
+         "expl": "Rather than one discourse of formal chain analysis."},
+    ],
+    marginalia=[
+        ("Where three elements converge", [
+            "faculty, object, consciousness, meeting &mdash;",
+            "contact named for each of the six sense doors",
+        ]),
+        ("The chain's next link", [
+            "contact conditions feeling, next in line &mdash;",
+            "the same sequence MN 148 examines more fully",
+        ]),
+        ("Dependent origination, unnamed", [
+            "the vocabulary taught without the label &mdash;",
+            "ten discourses of impermanence, one chain implied",
+        ]),
+        ("The same compression, continued", [
+            "six items, then an ellipsis &mdash;",
+            "SN 25.1's full formula, trusted by now",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn25.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-25.3.html">SN 25.3 &middot; Consciousness</a> '
+        "&mdash; the previous discourse, completing the eighteen "
+        "elements this discourse's own contact arises from.",
+        '<a href="sn-25.5.html">SN 25.5 &middot; Feeling</a> '
+        "&mdash; the next discourse, the link that arises directly "
+        "from contact.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 25.5 — Vedanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    25, 5, "Vedanā", "Feeling",
+    vagga="Cakkhuvagga",
+    meta_title="SN 25.5 — Feeling | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vedanāsutta &mdash; the same formula applied to the six "
+        "feelings born of contact, the direct condition for craving "
+        "later in this sequence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The bare six-item list plus the compressed formula "
+                 "reference, matching SN 25.3–4's own treatment"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and familiar by this point in the "
+                       "sequence"),
+    ],
+    why=(
+        "The fifth step in this saṃyutta's sequence: feeling "
+        "(vedanā) born of each of the six contacts already examined "
+        "at SN 25.4 &mdash; the link the standard chain treats as "
+        "the direct condition for craving, and the point in "
+        "dependent origination most often singled out as where "
+        "mindful practice can intervene before craving takes hold."
+    ),
+    guide=[
+        ("Six feelings, each born of its own contact", [
+            "\"Feeling born of eye contact is impermanent, decaying, "
+            "and perishing. Feeling born of ear contact, feeling born "
+            "of nose contact, feeling born of tongue contact, feeling "
+            "born of body contact, and feeling born of mind contact "
+            "are impermanent, decaying, and perishing\" &mdash; each "
+            "feeling traced explicitly back to the contact that "
+            "produces it, keeping the chain's own causal structure "
+            "visible in the wording itself rather than leaving it "
+            "implicit.",
+        ]),
+        ("The hinge point of the standard chain", [
+            "Elsewhere in the Nikāyas, feeling is repeatedly "
+            "identified as the point where the causal chain from "
+            "contact to craving can be interrupted &mdash; a "
+            "feeling arises, but whether craving follows depends on "
+            "how it is met. This discourse doesn't make that argument "
+            "explicitly; it simply declares feeling impermanent, "
+            "trusting the reader to recognize why this particular "
+            "link matters so much elsewhere.",
+        ]),
+        ("Continuing the same compressed treatment", [
+            "As with SN 25.3 and 25.4, only the six-item list and the "
+            "formula's opening words survive in the source; the "
+            "complete three-tier conclusion is supplied by memory "
+            "from SN 25.1 and 25.2.",
+        ]),
+        ("One link closer to craving", [
+            "SN 25.6 and SN 25.7 will examine perception and "
+            "intention &mdash; two further links this saṃyutta "
+            "inserts before reaching craving itself at SN 25.8, "
+            "filling out the chain more granularly than a simple "
+            "contact-feeling-craving summary would.",
+        ]),
+    ],
+    terms=[
+        ("vedanā", "feeling — the sensation born of contact, the subject of this discourse"),
+        ("cakkhusamphassajā vedanā", "feeling born of eye contact — the first of the six feelings named, each explicitly traced to its producing contact"),
+        ("taṇhā", "craving — the link several steps ahead in this sequence (SN 25.8), which feeling is elsewhere identified as directly conditioning"),
+        ("peyyāla", "an elision mark — continuing this saṃyutta's compression pattern from SN 25.3–4"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — this saṃyutta's standing conclusion"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the "
+        "six feelings named impermanent, then the formula's opening "
+        "words alone. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn25.5:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What six items does this discourse declare impermanent?",
+         "opts": ["The six feelings, each born of its own corresponding contact", "The six sense faculties", "The six sense objects", "The five aggregates"],
+         "correct": 0,
+         "expl": "Feeling born of eye contact, ear contact, and the other four."},
+        {"q": "How does this discourse's wording keep the chain's causal structure visible?",
+         "opts": ["Each feeling is explicitly traced back to the specific contact that produces it", "The wording omits any reference to contact entirely", "The wording claims feeling arises independently of contact", "The wording reverses the causal order"],
+         "correct": 0,
+         "expl": "\"Feeling born of eye contact,\" and so on for each of the six."},
+        {"q": "Why is feeling repeatedly singled out elsewhere in the Nikāyas as significant?",
+         "opts": ["It is the point where the chain from contact to craving can potentially be interrupted",
+                  "It is considered entirely unrelated to craving", "It is the final link in the entire chain", "It has no particular significance beyond being one more link"],
+         "correct": 0,
+         "expl": "Whether craving follows a feeling depends on how that feeling is met."},
+        {"q": "Does this discourse itself explicitly make the argument about feeling's significance?",
+         "opts": ["No — it simply declares feeling impermanent, trusting the reader to recognize the link's importance from elsewhere",
+                  "Yes, at great length", "The discourse denies feeling has any special significance", "The discourse redirects to a different topic entirely"],
+         "correct": 0,
+         "expl": "A quiet reliance on context this reading guide makes explicit."},
+        {"q": "What two further links does this saṃyutta insert before reaching craving itself?",
+         "opts": ["Perception (SN 25.6) and intention (SN 25.7)", "Only one further link, not two", "No further links — craving comes next", "Consciousness and contact, repeated"],
+         "correct": 0,
+         "expl": "Filling out the chain more granularly than a simple contact-feeling-craving summary."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "How does this discourse's compression compare to SN 25.3 and 25.4's own?",
+         "opts": ["The same compressed treatment throughout", "Considerably fuller", "Considerably more compressed", "A return to SN 25.1's full treatment"],
+         "correct": 0,
+         "expl": "The six-item list plus the formula's opening words, unchanged from the pattern established at SN 25.3."},
+        {"q": "What discourse examines the link that arises next in this chain?",
+         "opts": ["SN 25.6, examining perception", "SN 25.10, skipping ahead to the close", "SN 25.1, repeated", "SN 25.8, skipping ahead to craving"],
+         "correct": 0,
+         "expl": "Continuing one link at a time rather than skipping to craving directly."},
+        {"q": "What is the first of the six feelings named in this discourse?",
+         "opts": ["Feeling born of eye contact", "Feeling born of mind contact", "Feeling born of body contact", "An unspecified generic feeling"],
+         "correct": 0,
+         "expl": "Followed by feeling born of ear, nose, tongue, body, and mind contact."},
+        {"q": "What formula does this discourse's compressed conclusion trust the reader to supply?",
+         "opts": ["The three-tier faith-follower / teaching-follower / stream-enterer formula from SN 25.1", "A formula unique to this discourse", "No formula — the discourse has no implied conclusion", "The four named-teacher doctrines"],
+         "correct": 0,
+         "expl": "Supplied by memory from this saṃyutta's own opening two discourses."},
+    ],
+    marginalia=[
+        ("Six feelings, six sources", [
+            "each traced back to its own contact &mdash;",
+            "the chain's causal structure kept visible in the wording",
+        ]),
+        ("The hinge point, unstated but implied", [
+            "where craving can still be interrupted &mdash;",
+            "this discourse trusts the reader to know why",
+        ]),
+        ("The same compression, continued", [
+            "six items, then an ellipsis &mdash;",
+            "SN 25.1's full formula, trusted by now",
+        ]),
+        ("Two more links before craving", [
+            "perception, then intention &mdash;",
+            "filling out the chain one step at a time",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn25.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-25.4.html">SN 25.4 &middot; Contact</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "condition.",
+        '<a href="sn-25.6.html">SN 25.6 &middot; Perception</a> '
+        "&mdash; the next discourse, continuing this saṃyutta's chain "
+        "one link further.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 25.6 — Saññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    25, 6, "Saññā", "Perception",
+    vagga="Cakkhuvagga",
+    meta_title="SN 25.6 — Perception | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saññāsutta &mdash; the same formula applied to the six "
+        "perceptions of sense objects, this saṃyutta's own halfway "
+        "point. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The bare six-item list plus the compressed formula "
+                 "reference, matching SN 25.3–5's own treatment"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and familiar by this point in the "
+                       "sequence"),
+    ],
+    why=(
+        "This saṃyutta's own halfway point: perception (saññā) of "
+        "each of the six sense objects, the link the standard chain "
+        "places after feeling &mdash; the mental act of recognizing "
+        "and labeling what has been felt, prior to any intention "
+        "forming around it."
+    ),
+    guide=[
+        ("Six perceptions, one for each sense object", [
+            "\"Perception of sights is impermanent, decaying, and "
+            "perishing. Perception of sounds, perception of smells, "
+            "perception of tastes, perception of touches, and "
+            "perception of ideas are impermanent, decaying, and "
+            "perishing\" &mdash; naming perception by its object "
+            "(sights, sounds, and so on) rather than by the faculty "
+            "or contact that gave rise to it, a subtle shift in "
+            "framing from SN 25.4 and 25.5's own \"born of\" "
+            "phrasing.",
+        ]),
+        ("Recognition, not yet reaction", [
+            "Perception's role in the standard chain is to identify "
+            "and label experience &mdash; \"this is blue,\" \"this is "
+            "a voice\" &mdash; a cognitive act distinct from both the "
+            "raw feeling that precedes it and the intention that may "
+            "follow it. This discourse simply declares that act "
+            "impermanent, without elaborating on its function, "
+            "trusting readers already familiar with the standard "
+            "chain to supply the context.",
+        ]),
+        ("The saṃyutta's own midpoint", [
+            "With this discourse, five of this saṃyutta's ten "
+            "categories are complete (faculties, objects, "
+            "consciousness, contact, feeling, and now perception "
+            "makes six) &mdash; four remain: intention, craving, the "
+            "elements, and the aggregates.",
+        ]),
+        ("The same compressed treatment, unchanged", [
+            "As with the four discourses before it, only the six-item "
+            "list and the formula's opening words survive; the full "
+            "three-tier conclusion remains supplied by SN 25.1 and "
+            "25.2's own complete versions.",
+        ]),
+    ],
+    terms=[
+        ("saññā", "perception — the cognitive act of recognizing and labeling sense experience, the subject of this discourse"),
+        ("rūpasaññā", "perception of sights — the first of the six perceptions named, framed by object rather than by originating contact"),
+        ("cetanā", "intention — the next link in this saṃyutta's own sequence (SN 25.7), following perception"),
+        ("peyyāla", "an elision mark — continuing this saṃyutta's compression pattern from SN 25.3–5"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — this saṃyutta's standing conclusion"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the "
+        "six perceptions named impermanent, then the formula's "
+        "opening words alone. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn25.6:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What six items does this discourse declare impermanent?",
+         "opts": ["The six perceptions — of sights, sounds, smells, tastes, touches, and ideas", "The six sense faculties", "The six kinds of feeling", "The five aggregates"],
+         "correct": 0,
+         "expl": "Naming perception by its object rather than by originating contact."},
+        {"q": "How does this discourse's framing differ from SN 25.4 and 25.5's own \"born of\" phrasing?",
+         "opts": ["It names perception by its object (sights, sounds) rather than tracing it explicitly back to a contact", "It uses the identical \"born of\" phrasing throughout", "It omits any reference to sense objects entirely", "It reverses the standard causal order"],
+         "correct": 0,
+         "expl": "A subtle shift in framing between discourses in this saṃyutta's sequence."},
+        {"q": "What role does perception play in the standard analytical chain?",
+         "opts": ["Recognizing and labeling experience, distinct from both raw feeling and any intention that may follow", "Generating craving directly, bypassing all other links", "An identical function to feeling itself", "No defined role at all"],
+         "correct": 0,
+         "expl": "A cognitive act of identification, prior to intention forming around it."},
+        {"q": "What milestone does this discourse mark in this saṃyutta's own ten-part sequence?",
+         "opts": ["The halfway point — six of ten categories now complete", "The final discourse in the saṃyutta", "The saṃyutta's own opening discourse", "No particular milestone"],
+         "correct": 0,
+         "expl": "Faculties, objects, consciousness, contact, feeling, and now perception."},
+        {"q": "What four categories remain after this discourse?",
+         "opts": ["Intention, craving, the elements, and the aggregates", "A repeat of the eighteen elements", "Only craving remains", "No categories remain — this closes the sequence"],
+         "correct": 0,
+         "expl": "Completing this saṃyutta's full ten-part analytical sequence."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "How does this discourse's compression compare to the four discourses before it?",
+         "opts": ["The same compressed treatment throughout", "Considerably fuller", "Considerably more compressed", "A return to SN 25.1's full treatment"],
+         "correct": 0,
+         "expl": "The six-item list plus the formula's opening words, unchanged since SN 25.3."},
+        {"q": "What discourse examines the link that follows perception in this sequence?",
+         "opts": ["SN 25.7, examining intention", "SN 25.10, skipping ahead to the close", "SN 25.1, repeated", "SN 25.8, skipping ahead to craving"],
+         "correct": 0,
+         "expl": "Continuing one link at a time through the standard chain."},
+        {"q": "What is the first of the six perceptions named in this discourse?",
+         "opts": ["Perception of sights", "Perception of ideas", "Perception of sounds", "An unspecified generic perception"],
+         "correct": 0,
+         "expl": "Followed by perception of sounds, smells, tastes, touches, and ideas."},
+        {"q": "What does this discourse trust the reader to supply, given its own compression?",
+         "opts": ["The three-tier faith-follower / teaching-follower / stream-enterer formula from SN 25.1", "A formula unique to this discourse", "No formula at all", "The four named-teacher doctrines"],
+         "correct": 0,
+         "expl": "Supplied by memory from this saṃyutta's own opening two discourses."},
+    ],
+    marginalia=[
+        ("Six perceptions, named by object", [
+            "sights, sounds, smells, tastes, touches, ideas &mdash;",
+            "recognition and labeling, not yet reaction",
+        ]),
+        ("A subtle shift in framing", [
+            "by object here, by contact before &mdash;",
+            "the same chain, described from a different angle",
+        ]),
+        ("The saṃyutta's own midpoint", [
+            "six of ten categories now complete &mdash;",
+            "intention, craving, elements, aggregates ahead",
+        ]),
+        ("The same compression, unbroken", [
+            "six items, then an ellipsis &mdash;",
+            "SN 25.1's full formula, trusted by now",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn25.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-25.5.html">SN 25.5 &middot; Feeling</a> '
+        "&mdash; the previous discourse, the link preceding "
+        "perception in this saṃyutta's own sequence.",
+        '<a href="sn-25.7.html">SN 25.7 &middot; Intention</a> '
+        "&mdash; the next discourse, continuing this saṃyutta's chain "
+        "one link further.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 25.7 — Cetanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    25, 7, "Cetanā", "Intention",
+    vagga="Cakkhuvagga",
+    meta_title="SN 25.7 — Intention | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Cetanāsutta &mdash; the same formula applied to the six "
+        "intentions regarding sense objects, the link directly "
+        "preceding craving. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The bare six-item list plus the compressed formula "
+                 "reference, matching SN 25.3–6's own treatment"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and familiar by this point in the "
+                       "sequence"),
+    ],
+    why=(
+        "The seventh step, and the last link this saṃyutta examines "
+        "before reaching craving itself: intention (cetanā) regarding "
+        "each of the six sense objects &mdash; the volitional "
+        "response perception can give rise to, standing immediately "
+        "upstream of the craving SN 25.8 will name next."
+    ),
+    guide=[
+        ("Six intentions, one for each sense object", [
+            "\"Intention regarding sights is impermanent, decaying, "
+            "and perishing. Intention regarding sounds, intention "
+            "regarding smells, intention regarding tastes, intention "
+            "regarding touches, and intentions regarding ideas are "
+            "impermanent, decaying, and perishing\" &mdash; framed by "
+            "object exactly as SN 25.6's perceptions were, continuing "
+            "that discourse's own phrasing pattern rather than "
+            "SN 25.4 and 25.5's \"born of\" construction.",
+        ]),
+        ("Volition, the pivot before craving", [
+            "Where perception merely recognizes, intention already "
+            "moves toward response &mdash; cetanā is elsewhere "
+            "defined in the Nikāyas as karmically significant "
+            "precisely because it is volitional, a mental act with a "
+            "direction, distinct from the more passive registering "
+            "that feeling and perception represent.",
+        ]),
+        ("One step from the sequence's own climax", [
+            "This discourse is the last of the standard "
+            "contact-feeling-perception-intention chain this "
+            "saṃyutta has walked through one link at a time since "
+            "SN 25.4; SN 25.8 will name craving itself, the point "
+            "where the entire chain most directly threatens to "
+            "perpetuate further rebirth if left unexamined.",
+        ]),
+        ("The same compressed treatment, unchanged", [
+            "As with the three discourses before it, only the "
+            "six-item list and the formula's opening words survive in "
+            "the source, the full three-tier conclusion still carried "
+            "by memory from SN 25.1 and 25.2.",
+        ]),
+    ],
+    terms=[
+        ("cetanā", "intention — the volitional response to perceived experience, the subject of this discourse and the pivot before craving"),
+        ("rūpasañcetanā", "intention regarding sights — the first of the six intentions named, framed by object as at SN 25.6"),
+        ("taṇhā", "craving — the very next link in this saṃyutta's sequence (SN 25.8), the point the entire chain has been building toward"),
+        ("peyyāla", "an elision mark — continuing this saṃyutta's compression pattern from SN 25.3–6"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — this saṃyutta's standing conclusion"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the "
+        "six intentions named impermanent, then the formula's "
+        "opening words alone. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn25.7:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What six items does this discourse declare impermanent?",
+         "opts": ["The six intentions — regarding sights, sounds, smells, tastes, touches, and ideas", "The six sense faculties", "The six kinds of perception", "The five aggregates"],
+         "correct": 0,
+         "expl": "Framed by object, continuing SN 25.6's own phrasing pattern."},
+        {"q": "What distinguishes intention from perception in the standard analytical chain?",
+         "opts": ["Intention is volitional, already moving toward response, unlike perception's more passive recognition", "There is no meaningful distinction between them", "Intention precedes perception in the standard order", "Perception is more karmically significant than intention"],
+         "correct": 0,
+         "expl": "Cetanā is elsewhere defined as karmically significant precisely because of its volitional character."},
+        {"q": "What position does this discourse occupy in this saṃyutta's sequence?",
+         "opts": ["The last of the contact-feeling-perception-intention chain, immediately before craving", "The saṃyutta's own opening discourse", "The final discourse in the entire saṃyutta", "A discourse unrelated to the surrounding chain"],
+         "correct": 0,
+         "expl": "SN 25.8 will name craving next, the point the chain has been building toward."},
+        {"q": "Why is craving, examined next, significant in this chain?",
+         "opts": ["It is the point where the chain most directly threatens to perpetuate further rebirth if left unexamined", "It has no particular significance beyond being one more item on a list", "It is actually the first link in the entire chain", "It is unrelated to the preceding links"],
+         "correct": 0,
+         "expl": "The climax this saṃyutta's sequence has been building toward since SN 25.4."},
+        {"q": "How does this discourse's framing compare to SN 25.6's own?",
+         "opts": ["The same object-based framing, continuing that discourse's pattern", "A return to SN 25.4 and 25.5's \"born of\" construction", "An entirely new framing unique to this discourse", "No consistent framing pattern at all"],
+         "correct": 0,
+         "expl": "Intention regarding sights, sounds, and so on, matching perception's own phrasing."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "How does this discourse's compression compare to SN 25.3–6's own?",
+         "opts": ["The same compressed treatment throughout", "Considerably fuller", "Considerably more compressed", "A return to SN 25.1's full treatment"],
+         "correct": 0,
+         "expl": "The six-item list plus the formula's opening words, unchanged since SN 25.3."},
+        {"q": "What discourse examines the link that follows intention in this sequence?",
+         "opts": ["SN 25.8, examining craving", "SN 25.10, skipping ahead to the close", "SN 25.1, repeated", "SN 25.9, skipping ahead to the elements"],
+         "correct": 0,
+         "expl": "Reaching the sequence's own climax before moving to two final, broader categories."},
+        {"q": "What is the first of the six intentions named in this discourse?",
+         "opts": ["Intention regarding sights", "Intention regarding ideas", "Intention regarding sounds", "An unspecified generic intention"],
+         "correct": 0,
+         "expl": "Followed by intention regarding sounds, smells, tastes, touches, and ideas."},
+        {"q": "What does this discourse trust the reader to supply, given its own compression?",
+         "opts": ["The three-tier faith-follower / teaching-follower / stream-enterer formula from SN 25.1", "A formula unique to this discourse", "No formula at all", "The four named-teacher doctrines"],
+         "correct": 0,
+         "expl": "Supplied by memory from this saṃyutta's own opening two discourses."},
+    ],
+    marginalia=[
+        ("Six intentions, one per object", [
+            "sights, sounds, smells, tastes, touches, ideas &mdash;",
+            "volition, not mere recognition",
+        ]),
+        ("The pivot before craving", [
+            "cetanā moves toward response &mdash;",
+            "karmically significant precisely because it does",
+        ]),
+        ("The chain's own climax, one step away", [
+            "contact, feeling, perception, intention &mdash;",
+            "craving named next, the point it all builds toward",
+        ]),
+        ("The same compression, still unbroken", [
+            "six items, then an ellipsis &mdash;",
+            "SN 25.1's full formula, trusted by now",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn25.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-25.6.html">SN 25.6 &middot; Perception</a> '
+        "&mdash; the previous discourse, the link preceding intention "
+        "in this saṃyutta's own sequence.",
+        '<a href="sn-25.8.html">SN 25.8 &middot; Craving For Sights</a> '
+        "&mdash; the next discourse, this sequence's own climax.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 25.8 — Taṇhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    25, 8, "Taṇhā", "Craving For Sights",
+    vagga="Cakkhuvagga",
+    meta_title="SN 25.8 — Craving For Sights | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Taṇhāsutta &mdash; the same formula applied to the six "
+        "cravings, the climax of this saṃyutta's contact-to-craving "
+        "chain. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The bare six-item list plus the compressed formula "
+                 "reference, matching SN 25.3–7's own treatment"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in text, though closing this "
+                       "sequence's chain deserves a pause"),
+    ],
+    why=(
+        "The climax of this saṃyutta's own contact-to-craving chain, "
+        "walked one link at a time since SN 25.4: craving (taṇhā) "
+        "for each of the six sense objects &mdash; elsewhere in the "
+        "Nikāyas identified as the second noble truth's own direct "
+        "cause of suffering, and the link the whole preceding "
+        "sequence (contact, feeling, perception, intention) has been "
+        "building toward."
+    ),
+    guide=[
+        ("Six cravings, the chain's own destination", [
+            "\"Craving for sights is impermanent, decaying, and "
+            "perishing. Craving for sounds, craving for smells, "
+            "craving for tastes, craving for touches, and craving for "
+            "ideas are impermanent, decaying, and perishing\" &mdash; "
+            "the same object-based framing as SN 25.6 and 25.7, "
+            "naming craving for each of the six sense objects in "
+            "turn.",
+        ]),
+        ("Even craving itself is impermanent", [
+            "The discourse's real force lies in what it declares "
+            "impermanent: not merely the neutral sense faculties or "
+            "objects, but craving itself, the very thing the second "
+            "noble truth identifies as suffering's direct cause. If "
+            "craving too decays and perishes, it cannot be a stable "
+            "possession or a fixed feature of who someone is &mdash; "
+            "it is one more impermanent phenomenon, arising and "
+            "passing with the same conditions that produce everything "
+            "else in this sequence.",
+        ]),
+        ("A quiet echo of the second noble truth", [
+            "This discourse never names the four noble truths "
+            "directly, but craving's placement as the culmination of "
+            "the contact-feeling-perception-intention chain "
+            "implicitly retraces the second truth's own diagnosis: "
+            "suffering's cause traced back through a specific causal "
+            "sequence, here demonstrated one link at a time rather "
+            "than asserted as a single proposition.",
+        ]),
+        ("Two broader categories still to come", [
+            "With the sense-experience chain now complete across "
+            "eight discourses (SN 25.1&ndash;8), this saṃyutta's "
+            "final two discourses step back to two more general "
+            "categories: the physical elements (SN 25.9) and the "
+            "five aggregates themselves (SN 25.10), closing the "
+            "saṃyutta on its broadest possible frame.",
+        ]),
+    ],
+    terms=[
+        ("taṇhā", "craving — the subject of this discourse, elsewhere identified as the second noble truth's own direct cause of suffering"),
+        ("rūpataṇhā", "craving for sights — the first of the six cravings named, framed by object as at SN 25.6–7"),
+        ("dukkhasamudaya", "the origin of suffering — the second noble truth this discourse's placement implicitly echoes without naming directly"),
+        ("peyyāla", "an elision mark — continuing this saṃyutta's compression pattern from SN 25.3–7"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — this saṃyutta's standing conclusion"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the "
+        "six cravings named impermanent, then the formula's opening "
+        "words alone. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn25.8:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What six items does this discourse declare impermanent?",
+         "opts": ["The six cravings — for sights, sounds, smells, tastes, touches, and ideas", "The six sense faculties", "The six kinds of intention", "The five aggregates"],
+         "correct": 0,
+         "expl": "The culmination of the contact-feeling-perception-intention chain walked since SN 25.4."},
+        {"q": "What is elsewhere identified as craving's role in the four noble truths?",
+         "opts": ["The second noble truth's own direct cause of suffering", "The path leading to suffering's cessation", "The truth of suffering itself", "Unrelated to any of the four noble truths"],
+         "correct": 0,
+         "expl": "Implicitly echoed by craving's placement as this chain's own culmination."},
+        {"q": "What is the real force of this discourse's declaration, according to this reading guide?",
+         "opts": ["Even craving itself — the direct cause of suffering — is impermanent, not a fixed feature of anyone", "That craving is the only permanent thing in existence", "That craving does not actually exist", "That craving is unrelated to the preceding chain"],
+         "correct": 0,
+         "expl": "One more impermanent phenomenon, arising and passing with the same conditions as everything else."},
+        {"q": "Does this discourse name the four noble truths directly?",
+         "opts": ["No — it implicitly retraces the second truth's diagnosis through the chain's own structure", "Yes, explicitly and at length", "It denies the four noble truths exist", "It names only the first noble truth"],
+         "correct": 0,
+         "expl": "Demonstrated one link at a time rather than asserted as a single proposition."},
+        {"q": "What completes with this discourse, across SN 25.1–8?",
+         "opts": ["The sense-experience chain — faculties, objects, consciousness, contact, feeling, perception, intention, and craving", "The entire saṃyutta", "Only the eighteen elements, not the full chain", "Nothing — this discourse stands alone"],
+         "correct": 0,
+         "expl": "Eight discourses walking one continuous analytical sequence."},
+        {"q": "What two broader categories remain for this saṃyutta's final two discourses?",
+         "opts": ["The physical elements (SN 25.9) and the five aggregates (SN 25.10)", "A repeat of the sense-experience chain", "The four named-teacher doctrines", "The ten undetermined questions"],
+         "correct": 0,
+         "expl": "Stepping back to close the saṃyutta on its broadest possible frame."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "How does this discourse's compression compare to SN 25.3–7's own?",
+         "opts": ["The same compressed treatment throughout", "Considerably fuller", "Considerably more compressed", "A return to SN 25.1's full treatment"],
+         "correct": 0,
+         "expl": "The six-item list plus the formula's opening words, unchanged since SN 25.3."},
+        {"q": "What is the first of the six cravings named in this discourse?",
+         "opts": ["Craving for sights", "Craving for ideas", "Craving for sounds", "An unspecified generic craving"],
+         "correct": 0,
+         "expl": "Followed by craving for sounds, smells, tastes, touches, and ideas."},
+        {"q": "What framing does this discourse share with SN 25.6 and 25.7?",
+         "opts": ["Naming each item by its sense object, rather than by originating contact", "The \"born of\" construction used at SN 25.4–5", "An entirely unique framing not seen elsewhere", "No consistent framing at all"],
+         "correct": 0,
+         "expl": "Craving for sights, sounds, and so on, matching perception and intention's own phrasing."},
+    ],
+    marginalia=[
+        ("The chain's own destination", [
+            "six cravings, one per sense object &mdash;",
+            "the point contact, feeling, and intention build toward",
+        ]),
+        ("Even this is impermanent", [
+            "craving itself decays and perishes &mdash;",
+            "not a fixed possession, one more passing phenomenon",
+        ]),
+        ("The second truth, retraced without naming it", [
+            "suffering's cause, shown one link at a time &mdash;",
+            "not asserted, but demonstrated through the chain itself",
+        ]),
+        ("Two broader categories ahead", [
+            "the physical elements, then the aggregates &mdash;",
+            "closing on the widest possible frame",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn25.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-25.7.html">SN 25.7 &middot; Intention</a> '
+        "&mdash; the previous discourse, the link this discourse's "
+        "own craving arises from.",
+        '<a href="sn-25.9.html">SN 25.9 &middot; Elements</a> '
+        "&mdash; the next discourse, stepping back to a broader "
+        "analytical category.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 25.9 — Dhātusutta
+# --------------------------------------------------------------------------- #
+page(
+    25, 9, "Dhātu", "Elements",
+    vagga="Cakkhuvagga",
+    meta_title="SN 25.9 — Elements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dhātusutta &mdash; the same formula applied to the six "
+        "physical and mental elements, stepping back from the "
+        "sense-experience chain to a broader frame. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The bare six-item list plus the compressed formula "
+                 "reference, matching SN 25.3–8's own treatment"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and familiar, though the six-element "
+                       "list itself is worth noting"),
+    ],
+    why=(
+        "Steps back from the sense-experience chain completed at "
+        "SN 25.8 to a broader physical and mental frame: the six "
+        "elements (dhātu) &mdash; earth, water, fire, air, space, and "
+        "consciousness &mdash; the standard sixfold analysis of what "
+        "a person is fundamentally composed of, distinct from (though "
+        "related to) the eighteen sense-experience elements examined "
+        "at SN 25.1&ndash;3."
+    ),
+    guide=[
+        ("Six elements: four physical, one spatial, one mental", [
+            "\"The earth element is impermanent, decaying, and "
+            "perishing. The water element, the fire element, the air "
+            "element, the space element, and the consciousness "
+            "element are impermanent, decaying, and perishing\" "
+            "&mdash; the four classical physical elements (solidity, "
+            "cohesion, heat, motion) plus space and consciousness, "
+            "the standard six-element analysis found at several other "
+            "points in the Nikāyas (notably MN 140, the "
+            "Dhātuvibhaṅga Sutta).",
+        ]),
+        ("Not the same \"elements\" as SN 25.1–3's dhātu", [
+            "This saṃyutta already used the word dhātu once before "
+            "(implicitly, through SN 25.1&ndash;3's eighteen sense "
+            "elements) in a different, more granular sense &mdash; "
+            "this discourse's six elements represent a coarser, more "
+            "physical analysis, closer to what a person's body and "
+            "mind are made of than to how sense experience unfolds "
+            "moment to moment.",
+        ]),
+        ("A different vocabulary from earlier in this project", [
+            "Readers of this project's earlier Khandhavagga coverage "
+            "will recognize four of these six elements from SN "
+            "22.​'s occasional references to bodily composition; "
+            "here they receive their own dedicated, if brief, "
+            "treatment within the identical three-tier stream-entry "
+            "formula.",
+        ]),
+        ("One discourse remains", [
+            "SN 25.10 will close this saṃyutta with its most familiar "
+            "category of all &mdash; the five aggregates &mdash; and, "
+            "unlike this discourse, in full, carrying the saṃyutta's "
+            "own confirmed colophon.",
+        ]),
+    ],
+    terms=[
+        ("pathavīdhātu / āpodhātu / tejodhātu / vāyodhātu", "the earth, water, fire, and air elements — the four classical physical elements, representing solidity, cohesion, heat, and motion"),
+        ("ākāsadhātu", "the space element — the fifth of the six elements named in this discourse"),
+        ("viññāṇadhātu", "the consciousness element — the sixth and only mental element in this discourse's list"),
+        ("peyyāla", "an elision mark — continuing this saṃyutta's compression pattern from SN 25.3–8"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — this saṃyutta's standing conclusion"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the "
+        "six elements named impermanent, then the formula's opening "
+        "words alone. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn25.9:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What six items does this discourse declare impermanent?",
+         "opts": ["Earth, water, fire, air, space, and consciousness — the six elements", "The eighteen sense-experience elements from SN 25.1–3", "The five aggregates", "The six kinds of craving"],
+         "correct": 0,
+         "expl": "Four classical physical elements plus space and consciousness."},
+        {"q": "How does this discourse's \"elements\" differ from SN 25.1–3's own use of the term dhātu?",
+         "opts": ["A coarser, more physical analysis of bodily and mental composition, distinct from the granular eighteen sense elements", "Identical in every respect to SN 25.1–3's usage", "This discourse doesn't use the term dhātu at all", "SN 25.1–3 actually used this same six-element list"],
+         "correct": 0,
+         "expl": "Two different standard analyses sharing the same Pāli term."},
+        {"q": "Where else in the Nikāyas does this same six-element analysis appear?",
+         "opts": ["MN 140, the Dhātuvibhaṅga Sutta", "DN 2, the Sāmaññaphala Sutta", "MN 72, the Aggivacchagottasutta", "Nowhere else in the Canon"],
+         "correct": 0,
+         "expl": "A standard sixfold analysis found at several points in the Nikāyas."},
+        {"q": "What do the four classical physical elements represent?",
+         "opts": ["Solidity, cohesion, heat, and motion", "Four separate deities", "Four stages of meditation", "Four types of craving"],
+         "correct": 0,
+         "expl": "Earth, water, fire, and air, in their technical Buddhist sense."},
+        {"q": "What is the only mental element among the six named here?",
+         "opts": ["Consciousness (viññāṇadhātu)", "Space (ākāsadhātu)", "Earth (pathavīdhātu)", "None — all six are physical"],
+         "correct": 0,
+         "expl": "The sixth element in this discourse's list, alongside five physical or spatial ones."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "How does this discourse's compression compare to SN 25.3–8's own?",
+         "opts": ["The same compressed treatment throughout", "Considerably fuller", "Considerably more compressed", "A return to SN 25.1's full treatment"],
+         "correct": 0,
+         "expl": "The six-item list plus the formula's opening words, unchanged since SN 25.3."},
+        {"q": "What discourse closes this saṃyutta, following this one?",
+         "opts": ["SN 25.10, examining the five aggregates in full", "SN 25.1, repeated", "A return to SN 24's own content", "No further discourse follows"],
+         "correct": 0,
+         "expl": "This saṃyutta's own final and most familiar category."},
+        {"q": "How does SN 25.10's treatment compare to this discourse's own?",
+         "opts": ["In full, unlike this discourse's compressed treatment", "Equally compressed", "Even more compressed than this discourse", "SN 25.10 doesn't exist"],
+         "correct": 0,
+         "expl": "Closing the saṃyutta with its fullest treatment since SN 25.1–2."},
+        {"q": "What earlier material in this project touches on some of these same elements?",
+         "opts": ["Khandhavagga's own occasional references to bodily composition", "Nothing elsewhere in this project", "Only Diṭṭhisaṃyutta's undetermined questions", "Only the four named-teacher doctrines"],
+         "correct": 0,
+         "expl": "Four of these six elements recur in earlier discourses on the body's physical composition."},
+    ],
+    marginalia=[
+        ("Four physical, one spatial, one mental", [
+            "earth, water, fire, air, space, consciousness &mdash;",
+            "the standard sixfold analysis of a person",
+        ]),
+        ("A different \"elements\" than before", [
+            "coarser than SN 25.1&ndash;3's own eighteen &mdash;",
+            "one term, two different standard analyses",
+        ]),
+        ("A familiar list from elsewhere", [
+            "MN 140's own six-element analysis &mdash;",
+            "recurring at several points in the Nikāyas",
+        ]),
+        ("One discourse left", [
+            "the five aggregates, in full &mdash;",
+            "closing this saṃyutta with its own colophon",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn25.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-25.8.html">SN 25.8 &middot; Craving For Sights</a> '
+        "&mdash; the previous discourse, closing this saṃyutta's own "
+        "sense-experience chain.",
+        '<a href="sn-25.10.html">SN 25.10 &middot; The Aggregates</a> '
+        "&mdash; the next and final discourse, closing this entire "
+        "saṃyutta.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 25.10 — Khandhasutta
+# --------------------------------------------------------------------------- #
+page(
+    25, 10, "Khandha", "The Aggregates",
+    vagga="Cakkhuvagga",
+    meta_title="SN 25.10 — The Aggregates | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Khandhasutta &mdash; closing Okkantasaṃyutta with the "
+        "five aggregates in full and the saṃyutta's own translated "
+        "colophon. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The five aggregates named impermanent, the complete "
+                 "three-tier formula given in full one final time, "
+                 "and the saṃyutta's own translated closing colophon"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "familiar content, closing on the most "
+                       "recognizable category in the whole canon"),
+    ],
+    why=(
+        "Closes Okkantasaṃyutta on the most familiar analytical "
+        "category in the entire canon &mdash; the five aggregates "
+        "&mdash; given the complete three-tier formula in full one "
+        "final time, and followed by a colophon Sujato did translate: "
+        "\"The Linked Discourses on stepping into are complete.\" A "
+        "ten-discourse saṃyutta that opened with the six sense "
+        "faculties and worked outward through eight further "
+        "categories closes by returning to the single framework "
+        "(rūpa, vedanā, saññā, saṅkhāra, viññāṇa) most readers of "
+        "this project will already recognize from Khandhavagga."
+    ),
+    guide=[
+        ("The five aggregates, named last, not first", [
+            "\"Form is impermanent, decaying, and perishing. Feeling, "
+            "perception, choices, and consciousness are impermanent, "
+            "decaying, and perishing\" &mdash; the aggregates arriving "
+            "as this saṃyutta's tenth and final category rather than "
+            "its first, an ordering choice worth noting: Khandhavagga "
+            "(SN 22) treats the aggregates as its own dedicated, "
+            "159-discourse subject; here they are one item among ten "
+            "in a shorter sequence organized instead around the "
+            "contact-to-craving chain.",
+        ]),
+        ("The full formula, one final time", [
+            "Unlike SN 25.3&ndash;9's compressed treatment, this "
+            "discourse spells out the complete three-tier definition "
+            "&mdash; faith-follower, teaching-follower, and "
+            "stream-enterer &mdash; in full, exactly as SN 25.1 and "
+            "25.2 did at this saṃyutta's opening, bracketing the "
+            "compressed middle eight discourses with full treatment "
+            "at both ends.",
+        ]),
+        ("A colophon Sujato actually translated", [
+            "\"The Linked Discourses on stepping into are complete\" "
+            "(sn25.10:3.5) &mdash; quotable here exactly as Sujato "
+            "rendered it, confirming both this saṃyutta's official "
+            "name and its complete ten discourses, from SN 25.1's "
+            "opening treatment of the six sense faculties through "
+            "this closing return to the five aggregates.",
+        ]),
+        ("Ten categories, one destination", [
+            "Looking back across the whole saṃyutta: six sense "
+            "faculties, six sense objects, six consciousnesses, six "
+            "contacts, six feelings, six perceptions, six intentions, "
+            "six cravings, six elements, and finally five aggregates "
+            "&mdash; nine different sixfold or fivefold analytical "
+            "categories, every one of them declared impermanent, "
+            "every one of them leading to the identical three-tier "
+            "assurance of the sure path toward stream-entry.",
+        ]),
+    ],
+    terms=[
+        ("khandha", "aggregate — form, feeling, perception, choices, and consciousness, this discourse's own closing category"),
+        ("rūpa/vedanā/saññā/saṅkhāra/viññāṇa", "form / feeling / perception / choices / consciousness — the five aggregates, named in full one final time"),
+        ("okkantasaṃyuttaṁ samattaṁ", "\"the Linked Discourses on stepping into are complete\" — this saṃyutta's own colophon, translated by Sujato and quoted here exactly as it stands"),
+        ("saddhānusārī / dhammānusārī", "follower by faith / follower of teachings — the same two tiers defined at SN 25.1, given in full one final time here"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyano", "a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening — this saṃyutta's standing conclusion, closing all ten discourses"),
+    ],
+    text_intro=("The complete discourse: the five aggregates named "
+        "impermanent, the full three-tier formula, and the "
+        "saṃyutta's own translated closing colophon. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn25.10:1.1-1.9"),
+        ("p", "&sect;2", "sn25.10:2.1-2.5"),
+        ("p", "&sect;3", "sn25.10:3.5"),
+    ],
+    quiz=[
+        {"q": "What five items does this discourse declare impermanent?",
+         "opts": ["Form, feeling, perception, choices, and consciousness — the five aggregates", "The six sense faculties", "The six elements", "The six kinds of craving"],
+         "correct": 0,
+         "expl": "This saṃyutta's tenth and final analytical category."},
+        {"q": "Why is it notable that the aggregates arrive as this saṃyutta's last category rather than its first?",
+         "opts": ["Unlike Khandhavagga's 159-discourse dedicated treatment, here they are one item among ten in a differently organized sequence",
+                  "It is not notable — the aggregates always come last in the Nikāyas", "The aggregates are considered less important than the other nine categories", "This ordering is unique to this discourse alone"],
+         "correct": 0,
+         "expl": "An ordering choice reflecting this saṃyutta's own contact-to-craving organizing principle."},
+        {"q": "How does this discourse's treatment compare to SN 25.3–9's own compressed pages?",
+         "opts": ["Full elaboration, bracketing the compressed middle eight discourses with SN 25.1–2 at the opening", "Equally compressed", "Even more compressed than SN 25.3–9", "This discourse has no formula at all"],
+         "correct": 0,
+         "expl": "The complete three-tier definition given in full one final time."},
+        {"q": "What is unique about this discourse's closing colophon?",
+         "opts": ["Sujato actually translated it into English, quotable exactly as it stands", "It is left entirely untranslated", "It doesn't exist in the source text", "It is written only in Chinese"],
+         "correct": 0,
+         "expl": "\"The Linked Discourses on stepping into are complete.\""},
+        {"q": "What does this colophon confirm?",
+         "opts": ["This saṃyutta's official name and its complete ten discourses", "That the saṃyutta actually contains twenty discourses", "Nothing about the saṃyutta's structure", "That this is only the first of several sub-collections"],
+         "correct": 0,
+         "expl": "From SN 25.1's six sense faculties through this closing return to the aggregates."},
+        {"q": "How many distinct analytical categories does this saṃyutta examine across its full ten discourses?",
+         "opts": ["Nine sixfold or fivefold categories, from sense faculties through the aggregates", "Only one category, repeated ten times", "Eighteen categories", "Four categories"],
+         "correct": 0,
+         "expl": "Faculties, objects, consciousness, contact, feeling, perception, intention, craving, elements, and aggregates."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What guarantee closes all ten discourses in this saṃyutta identically?",
+         "opts": ["The three-tier assurance of the sure path toward stream-entry", "A guarantee unique to this final discourse alone", "No guarantee at all", "A guarantee of immediate full awakening"],
+         "correct": 0,
+         "expl": "Every category, from faculties to aggregates, leading to the identical three-tier formula."},
+        {"q": "What defines a stream-enterer, as given in full at both SN 25.1 and this discourse?",
+         "opts": ["Understanding and seeing these principles directly, rather than through faith or reasoned acceptance", "Only accepting the teaching through faith", "Only accepting the teaching through wisdom without direct realization", "A definition unique to this closing discourse"],
+         "correct": 0,
+         "expl": "The third and final tier, grounded in direct realization."},
+        {"q": "What saṃyutta does this discourse close?",
+         "opts": ["Okkantasaṃyutta, \"Linked Discourses on Stepping Into\"", "Diṭṭhisaṃyutta", "Khandhasaṃyutta", "Rādhasaṃyutta"],
+         "correct": 0,
+         "expl": "This book's fifth saṃyutta, now complete in ten discourses."},
+    ],
+    marginalia=[
+        ("The most familiar category, saved for last", [
+            "form, feeling, perception, choices, consciousness &mdash;",
+            "one item among ten, not this saṃyutta's own subject",
+        ]),
+        ("Full length, one final time", [
+            "the complete three-tier formula, spelled out again &mdash;",
+            "bracketing the compressed eight discourses between",
+        ]),
+        ("A colophon, translated at last", [
+            "\"The Linked Discourses on stepping into are complete\" &mdash;",
+            "Sujato's own words, quoted exactly as they stand",
+        ]),
+        ("Nine categories, one destination", [
+            "faculties through aggregates, all impermanent &mdash;",
+            "every one leading to the same sure path",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn25.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-25.9.html">SN 25.9 &middot; Elements</a> '
+        "&mdash; the previous discourse, this saṃyutta's own "
+        "penultimate category.",
+        '<a href="sn-25.1.html">SN 25.1 &middot; The Eye</a> '
+        "&mdash; this saṃyutta's own opening discourse, whose "
+        "three-tier formula this closing discourse gives in full one "
+        "final time.",
+    ],
+)
