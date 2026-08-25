@@ -57369,3 +57369,3946 @@ page(
         "on.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 34.1 — Samādhimūlakasamāpattisutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 1, "Samādhimūlakasamāpatti", "Entering Immersion",
+    vagga="Jhānavagga",
+    meta_title="SN 34.1 — Entering Immersion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samādhimūlakasamāpattisutta &mdash; opening "
+        "Jhānasaṃyutta with the canon's fourfold typology of "
+        "meditators skilled in immersion, in entering it, in both, or "
+        "in neither, and the classic cream-of-ghee simile for the "
+        "best of the four. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A fourfold typology of meditators, closing with the "
+                 "canon's own cream-of-ghee simile for the best of "
+                 "the four"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the fourfold logic and the simile both reward "
+                       "careful reading"),
+    ],
+    why=(
+        "This discourse opens Jhānasaṃyutta (\"Linked Discourses on "
+        "Absorption\"), Book III's own final saṃyutta, with a "
+        "genuinely new organizing structure: rather than a rebirth-"
+        "cause taxonomy, it classifies meditators by their skill in "
+        "two distinct capacities &mdash; immersion (samādhi) itself, "
+        "and entering it (samāpatti) &mdash; producing four possible "
+        "combinations, with only the meditator skilled in both "
+        "praised as best. The classic dairy-refinement simile "
+        "&mdash; milk to curds to butter to ghee to cream of ghee, "
+        "each stage finer than the last &mdash; closes the discourse, "
+        "establishing both the fourfold logic and the simile every "
+        "one of this saṃyutta's remaining 54 discourses will reuse."
+    ),
+    guide=[
+        ("Four meditators, one two-by-two grid", [
+            "Skilled in immersion but not entering it; skilled in "
+            "entering it but not in immersion; skilled in neither; "
+            "skilled in both &mdash; a genuine two-by-two logical "
+            "grid, not a ranked list, with only the fourth cell "
+            "singled out as best.",
+        ]),
+        ("Two distinct meditative capacities named for the first time", [
+            "Samādhi (\"immersion\") and samāpatti (\"entering,\" or "
+            "\"attainment\") are treated here as separable skills "
+            "&mdash; someone can be deeply immersed yet clumsy about "
+            "how they get there, or skilled at entering states they "
+            "can't sustain with any real depth.",
+        ]),
+        ("The cream-of-ghee simile, this saṃyutta's own recurring closer", [
+            "\"From a cow comes milk, from milk comes curds, from "
+            "curds come butter, from butter comes ghee, and from "
+            "ghee comes cream of ghee\" &mdash; a five-stage "
+            "refinement sequence, each stage finer than the last, "
+            "illustrating why the meditator skilled in both capacities "
+            "is called foremost rather than merely adequate.",
+        ]),
+        ("The first of ten qualities this saṃyutta will pair against immersion", [
+            "Entering (samāpatti) is the first of ten distinct "
+            "meditative qualities this saṃyutta names; SN "
+            "34.2&ndash;10 will each pair a further quality against "
+            "immersion itself using this identical fourfold "
+            "structure, before SN 34.11 onward pairs these ten "
+            "qualities against each other.",
+        ]),
+    ],
+    terms=[
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse and its own saṃyutta "
+                   "classify"),
+        ("samādhi", "immersion &mdash; the base capacity every one "
+                     "of this saṃyutta's ten qualities is first paired "
+                     "against"),
+        ("samāpatti", "entering, or attainment &mdash; the first of "
+                       "ten qualities, the subject of this specific "
+                       "discourse"),
+        ("aggo ca seṭṭho ca", "\"foremost and best\" &mdash; the "
+                               "opening words of the standard "
+                               "five-term superlative formula this "
+                               "saṃyutta applies to its own fourth "
+                               "meditator type in every discourse"),
+        ("sappimaṇḍo", "cream of ghee &mdash; the final and finest "
+                        "stage of the dairy-refinement simile, "
+                        "reused throughout this saṃyutta"),
+    ],
+    text_intro=("The discourse in full: the fourfold typology and the "
+        "complete cream-of-ghee simile. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.1:1.1-1.8"),
+        ("p", "&sect;2", "sn34.1:1.9-1.10"),
+    ],
+    quiz=[
+        {"q": "What two capacities does this discourse classify meditators by?",
+         "opts": ["Skill in immersion itself, and skill in entering it",
+                  "Skill in immersion and skill in teaching others", "Lifespan and physical strength",
+                  "Skill in debate and skill in memorization"],
+         "correct": 0,
+         "expl": "A genuine two-by-two logical grid, not a ranked list."},
+        {"q": "Which of the four meditator types is praised as best?",
+         "opts": ["The one skilled in both immersion and entering it",
+                  "The one skilled in immersion alone", "The one skilled in entering alone",
+                  "The one skilled in neither, for its humility"],
+         "correct": 0,
+         "expl": "Only the fourth cell of the grid is singled out for praise."},
+        {"q": "What simile closes this discourse?",
+         "opts": ["Milk refining through curds, butter, and ghee to cream of ghee, each stage finer than the last",
+                  "A chariot with well-fitted wheels", "A lamp running low on oil", "A tree bearing different kinds of fruit"],
+         "correct": 0,
+         "expl": "This saṃyutta's own recurring closing simile, reused throughout its remaining discourses."},
+        {"q": "What does this discourse establish for the rest of Jhānasaṃyutta?",
+         "opts": ["The fourfold logical structure and cream-of-ghee simile every remaining discourse will reuse",
+                  "A completely different structure abandoned after this one discourse", "A ranking of ten unrelated topics",
+                  "Nothing — each later discourse uses its own unique structure"],
+         "correct": 0,
+         "expl": "SN 34.2–10 will each pair a further quality against immersion using this identical structure."},
+        {"q": "How many total qualities does this saṃyutta eventually name, including immersion and entering?",
+         "opts": ["Ten", "Four", "Fifty-five", "Two"],
+         "correct": 0,
+         "expl": "SN 34.11 onward will pair these ten qualities against each other combinatorially."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("A two-by-two grid, not a ranking", [
+            "immersion, entering, both, neither &mdash;",
+            "only the fourth cell praised as best",
+        ]),
+        ("Two skills, genuinely separable", [
+            "deep immersion, clumsy entry &mdash;",
+            "or the reverse, skilled entry, shallow depth",
+        ]),
+        ("Milk to cream of ghee, five stages", [
+            "each refinement finer than the last &mdash;",
+            "this saṃyutta's own recurring closing image",
+        ]),
+        ("The first of ten qualities", [
+            "entering, just the opening pair &mdash;",
+            "nine more qualities still to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-33.55.html">SN 33.55 &middot; Not Directly '
+        "Experiencing Consciousness</a> &mdash; the previous page, "
+        "closing Vacchagottasaṃyutta.",
+        '<a href="sn-34.2.html">SN 34.2 &middot; Remaining in '
+        "Immersion</a> &mdash; the next discourse, applying this same "
+        "structure to a second quality.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.2 — Samādhimūlakaṭhitisutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 2, "Samādhimūlakaṭhiti", "Remaining in Immersion",
+    vagga="Jhānavagga",
+    meta_title="SN 34.2 — Remaining in Immersion | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samādhimūlakaṭhitisutta &mdash; confirming SN 34.1's "
+        "own fourfold structure and cream-of-ghee simile as a genuine "
+        "reusable template, now applied to remaining in immersion. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "Identical to SN 34.1's own fourfold typology and "
+                 "simile, with entering replaced by remaining"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "understood easily alongside SN 34.1"),
+    ],
+    why=(
+        "This discourse confirms SN 34.1's own fourfold structure was "
+        "never specific to entering immersion: the same logic, "
+        "applied here to remaining in immersion (ṭhiti), produces the "
+        "identical four-way classification and the identical cream-"
+        "of-ghee simile, word for word apart from the one swapped "
+        "quality. This is the second of ten qualities this saṃyutta "
+        "will pair against immersion in turn."
+    ),
+    guide=[
+        ("The same grid, a second quality", [
+            "Skilled in immersion but not remaining in it; skilled "
+            "in remaining but not immersion; skilled in neither; "
+            "skilled in both &mdash; the identical two-by-two "
+            "structure as SN 34.1, with ṭhiti (\"remaining\") "
+            "replacing samāpatti (\"entering\").",
+        ]),
+        ("Ṭhiti, sustaining what entering achieves", [
+            "Where samāpatti names the skill of reaching an immersive "
+            "state, ṭhiti names the distinct skill of staying there "
+            "&mdash; a meditator could conceivably enter deep states "
+            "with ease yet lose them almost immediately, or struggle "
+            "to enter but sustain what little depth they reach.",
+        ]),
+        ("The simile, restated word for word", [
+            "SN 34.1's own dairy-refinement simile recurs here "
+            "unchanged, confirming it as this saṃyutta's own "
+            "standing closing formula rather than a one-time "
+            "illustration specific to entering alone.",
+        ]),
+        ("Second of ten qualities, eight more to come", [
+            "SN 34.3&ndash;10 will apply this identical structure to "
+            "eight further qualities &mdash; emerging, gladdening, "
+            "supports, territory, projecting, carefulness, "
+            "persistence, and conducive &mdash; each paired against "
+            "immersion in turn.",
+        ]),
+    ],
+    terms=[
+        ("ṭhiti", "remaining, or stability &mdash; the second of ten "
+                   "qualities, the subject of this specific discourse"),
+        ("samāpatti", "entering &mdash; the quality this discourse "
+                       "replaces, carried over by cross-reference from "
+                       "SN 34.1"),
+        ("samādhi", "immersion &mdash; the base capacity this quality "
+                     "is paired against, unchanged from SN 34.1"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies"),
+        ("sappimaṇḍo", "cream of ghee &mdash; the simile's own final "
+                        "stage, restated word for word from SN 34.1"),
+    ],
+    text_intro=("The discourse in full, restating SN 34.1's own "
+        "fourfold typology and simile with remaining in place of "
+        "entering. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.2:1.1-1.8"),
+        ("p", "&sect;2", "sn34.2:1.9-1.10"),
+    ],
+    quiz=[
+        {"q": "Which quality does this discourse pair against immersion?",
+         "opts": ["Remaining, or stability (ṭhiti)", "Entering (samāpatti)", "Emerging (vuṭṭhāna)",
+                  "Conducive conduct (sappāya)"],
+         "correct": 0,
+         "expl": "The second of ten qualities this saṃyutta pairs against immersion."},
+        {"q": "How does ṭhiti differ from samāpatti (SN 34.1's own quality)?",
+         "opts": ["Ṭhiti is the skill of sustaining an immersive state, distinct from the skill of reaching it",
+                  "They are exactly the same skill under two names", "Ṭhiti means the opposite of samāpatti",
+                  "Ṭhiti has no relation to meditation at all"],
+         "correct": 0,
+         "expl": "A meditator could enter states easily yet lose them almost immediately, or the reverse."},
+        {"q": "How does this discourse's simile compare to SN 34.1's own?",
+         "opts": ["Restated word for word, confirming it as a standing template", "Entirely different",
+                  "Shortened to a single line", "Omitted entirely"],
+         "correct": 0,
+         "expl": "Not a one-time illustration specific to entering alone."},
+        {"q": "How many further qualities remain to be paired against immersion after this discourse?",
+         "opts": ["Eight", "Zero — this is the last", "Ten", "Two"],
+         "correct": 0,
+         "expl": "SN 34.3–10 will apply this identical structure to eight further qualities."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("The same grid, a second quality", [
+            "remaining in place of entering &mdash;",
+            "the identical fourfold structure",
+        ]),
+        ("Reaching a state versus staying there", [
+            "two genuinely separable skills &mdash;",
+            "easy entry, quick loss; or the reverse",
+        ]),
+        ("The simile, confirmed as a template", [
+            "milk to cream of ghee, restated &mdash;",
+            "not a one-time illustration",
+        ]),
+        ("Second of ten, eight more to come", [
+            "emerging, gladdening, supports ahead &mdash;",
+            "each paired against immersion in turn",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.1.html">SN 34.1 &middot; Entering '
+        "Immersion</a> &mdash; the previous discourse, establishing "
+        "this fourfold structure and simile.",
+        '<a href="sn-34.3.html">SN 34.3 &middot; Emerging From '
+        "Immersion</a> &mdash; the next discourse, applying this same "
+        "structure to a third quality.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.3 — Samādhimūlakavuṭṭhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 3, "Samādhimūlakavuṭṭhāna", "Emerging From Immersion",
+    vagga="Jhānavagga",
+    meta_title="SN 34.3 — Emerging From Immersion | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samādhimūlakavuṭṭhānasutta &mdash; a compressed stub "
+        "pairing immersion against emerging from it, the third of "
+        "ten qualities. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A peyyāla stub &mdash; only the opening line is "
+                 "given, with the rest elided to SN 34.1's own full "
+                 "wording"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 34.1"),
+    ],
+    why=(
+        "The third quality paired against immersion: vuṭṭhāna "
+        "(\"emerging\"), the skill of coming out of an immersive "
+        "state cleanly, as distinct from entering it or sustaining "
+        "it. Unlike SN 34.1 and SN 34.2's own full treatments, this "
+        "discourse compresses to a single surviving line, the source "
+        "itself trusting readers to reconstruct the full fourfold "
+        "structure and simile from SN 34.1."
+    ),
+    guide=[
+        ("A genuinely different skill from entering or remaining", [
+            "Vuṭṭhāna names a third distinct meditative capacity: not "
+            "reaching an immersive state, nor sustaining it, but "
+            "leaving it in a controlled, deliberate way &mdash; a "
+            "meditator could conceivably enter and remain skillfully "
+            "yet emerge abruptly or gracelessly.",
+        ]),
+        ("The first genuinely compressed discourse in this saṃyutta", [
+            "Where SN 34.1 and SN 34.2 both restated the full "
+            "fourfold typology and simile, this discourse reduces to "
+            "\"one meditator is skilled in immersion but not in "
+            "emerging from it …\" with everything else elided.",
+        ]),
+        ("The same underlying claim, unstated but implied", [
+            "Despite the compression, the underlying structure is "
+            "unchanged: four meditator types, the fourth (skilled in "
+            "both) praised as best, illustrated by the same cream-"
+            "of-ghee simile &mdash; all carried over by cross-"
+            "reference rather than restated.",
+        ]),
+        ("Third of ten qualities, seven more still to come", [
+            "SN 34.4&ndash;10 will apply this identical compressed "
+            "shape to seven further qualities paired against "
+            "immersion, before SN 34.11 onward begins pairing these "
+            "ten qualities against each other.",
+        ]),
+    ],
+    terms=[
+        ("vuṭṭhāna", "emerging &mdash; the third of ten qualities, "
+                      "the subject of this specific discourse"),
+        ("samādhi", "immersion &mdash; the base capacity this quality "
+                     "is paired against"),
+        ("ṭhiti", "remaining &mdash; the previous discourse's own "
+                   "quality, replaced here by vuṭṭhāna"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the fourfold structure and the closing simile "
+                     "to a single surviving line"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.3:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "Which quality does this discourse pair against immersion?",
+         "opts": ["Emerging (vuṭṭhāna)", "Entering (samāpatti)", "Remaining (ṭhiti)",
+                  "Conducive conduct (sappāya)"],
+         "correct": 0,
+         "expl": "The third of ten qualities this saṃyutta pairs against immersion."},
+        {"q": "How does vuṭṭhāna differ from entering or remaining?",
+         "opts": ["It names the skill of leaving an immersive state in a controlled, deliberate way",
+                  "It is identical to remaining", "It denies that immersive states can be left at all",
+                  "It has no relation to meditation"],
+         "correct": 0,
+         "expl": "A meditator could enter and remain skillfully yet emerge abruptly."},
+        {"q": "How does this discourse compare to SN 34.1 and SN 34.2's own full treatments?",
+         "opts": ["Compressed to a single surviving line, trusting readers to recall the rest from SN 34.1",
+                  "Expanded with new content not seen before", "Identical in length", "Entirely omitted"],
+         "correct": 0,
+         "expl": "The first genuinely compressed discourse in this saṃyutta."},
+        {"q": "Is the underlying fourfold structure still implied in this compressed discourse?",
+         "opts": ["Yes — four meditator types, the fourth praised as best, carried over by cross-reference",
+                  "No — the structure changes entirely for this quality", "The structure is denied outright",
+                  "Only two meditator types are implied here"],
+         "correct": 0,
+         "expl": "Everything but the opening line is elided, not abandoned."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("A third, genuinely distinct skill", [
+            "not entering, not remaining &mdash;",
+            "leaving a state cleanly, deliberately",
+        ]),
+        ("Compression begins here", [
+            "one line survives, the rest implied &mdash;",
+            "the first stub in this saṃyutta",
+        ]),
+        ("The same structure, unstated", [
+            "four types, the fourth still best &mdash;",
+            "carried over from SN 34.1",
+        ]),
+        ("Third of ten, seven more to come", [
+            "gladdening, supports, territory ahead &mdash;",
+            "each paired against immersion in turn",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.2.html">SN 34.2 &middot; Remaining in '
+        "Immersion</a> &mdash; the previous discourse, applying this "
+        "same structure to a second quality.",
+        '<a href="sn-34.4.html">SN 34.4 &middot; Gladdening for '
+        "Immersion</a> &mdash; the next discourse, applying this same "
+        "structure to a fourth quality.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.4 — Samādhimūlakakallitasutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 4, "Samādhimūlakakallita", "Gladdening for Immersion",
+    vagga="Jhānavagga",
+    meta_title="SN 34.4 — Gladdening for Immersion | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samādhimūlakakallitasutta &mdash; a compressed stub "
+        "pairing immersion against gladdening, the fourth of ten "
+        "qualities. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A peyyāla stub, identical in shape to SN 34.3"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 34.1"),
+    ],
+    why=(
+        "The fourth quality paired against immersion: kallita, "
+        "rendered here as \"gladdening\" in this discourse's own "
+        "title but as \"positivity for immersion\" in its body text "
+        "&mdash; the skill of actively brightening or encouraging the "
+        "mind toward immersion, distinct from the mechanics of "
+        "entering, remaining, or emerging."
+    ),
+    guide=[
+        ("A quality of encouragement, not mechanics", [
+            "Where entering, remaining, and emerging all name "
+            "structural moves into and out of immersion, kallita "
+            "names something more like an inner disposition &mdash; "
+            "actively gladdening or brightening the mind so that "
+            "immersion becomes more accessible.",
+        ]),
+        ("Two English renderings for one Pāli term", [
+            "This discourse's own title translates kallita as "
+            "\"gladdening,\" while its body text uses \"positivity "
+            "for immersion\" &mdash; two reasonable English glosses "
+            "for the same underlying quality, worth noting as a "
+            "minor but genuine translation variance within a single "
+            "discourse.",
+        ]),
+        ("The same compressed shape as SN 34.3", [
+            "This discourse's own question and answer are elided in "
+            "exactly the same pattern as SN 34.3's own, with only the "
+            "quality name changed.",
+        ]),
+        ("Fourth of ten qualities, six more still to come", [
+            "SN 34.5&ndash;10 will apply this identical compressed "
+            "shape to six further qualities paired against immersion.",
+        ]),
+    ],
+    terms=[
+        ("kallita", "gladdening, or positivity &mdash; the fourth of "
+                     "ten qualities, rendered two ways within this "
+                     "single discourse"),
+        ("samādhi", "immersion &mdash; the base capacity this quality "
+                     "is paired against"),
+        ("vuṭṭhāna", "emerging &mdash; the previous discourse's own "
+                      "quality, replaced here by kallita"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the fourfold structure and the closing simile "
+                     "to a single surviving line"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.4:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "Which quality does this discourse pair against immersion?",
+         "opts": ["Gladdening, or positivity (kallita)", "Emerging (vuṭṭhāna)", "Remaining (ṭhiti)",
+                  "Territory (gocara)"],
+         "correct": 0,
+         "expl": "The fourth of ten qualities this saṃyutta pairs against immersion."},
+        {"q": "What two English renderings does this discourse itself use for kallita?",
+         "opts": ["\"Gladdening\" in the title, \"positivity for immersion\" in the body text",
+                  "\"Emerging\" and \"remaining\"", "Only one rendering is used throughout",
+                  "\"Entering\" and \"attaining\""],
+         "correct": 0,
+         "expl": "A minor but genuine translation variance within a single discourse."},
+        {"q": "How does kallita differ in kind from entering, remaining, or emerging?",
+         "opts": ["It names an inner disposition of encouragement, not a structural move into or out of immersion",
+                  "It is identical to entering", "It denies that immersion has any inner disposition at all",
+                  "It has no relation to meditation"],
+         "correct": 0,
+         "expl": "Actively gladdening or brightening the mind toward immersion."},
+        {"q": "How many further qualities remain to be paired against immersion after this discourse?",
+         "opts": ["Six", "Zero — this is the last", "Ten", "Two"],
+         "correct": 0,
+         "expl": "SN 34.5–10 will apply this identical compressed shape to six further qualities."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("Encouragement, not mechanics", [
+            "gladdening the mind toward immersion &mdash;",
+            "an inner disposition, not a structural move",
+        ]),
+        ("Two glosses for one term", [
+            "\"gladdening\" and \"positivity\" &mdash;",
+            "both within this same short discourse",
+        ]),
+        ("The same compressed shape again", [
+            "gladdening in place of emerging &mdash;",
+            "identical elision, fourth time now",
+        ]),
+        ("Fourth of ten, six more to come", [
+            "supports, territory, projecting ahead &mdash;",
+            "each paired against immersion in turn",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.3.html">SN 34.3 &middot; Emerging From '
+        "Immersion</a> &mdash; the previous discourse, applying this "
+        "same structure to a third quality.",
+        '<a href="sn-34.5.html">SN 34.5 &middot; Supports For '
+        "Immersion</a> &mdash; the next discourse, applying this same "
+        "structure to a fifth quality.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.5 — Samādhimūlakaārammaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 5, "Samādhimūlakaārammaṇa", "Supports For Immersion",
+    vagga="Jhānavagga",
+    meta_title="SN 34.5 — Supports For Immersion | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samādhimūlakaārammaṇasutta &mdash; a compressed stub "
+        "pairing immersion against its own supports, the fifth of "
+        "ten qualities. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A peyyāla stub, identical in shape to SN 34.3 and "
+                 "SN 34.4"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 34.1"),
+    ],
+    why=(
+        "The fifth quality paired against immersion: ārammaṇa, here "
+        "rendered \"supports\" &mdash; the objects or conditions that "
+        "sustain and reinforce a state of immersion once entered, "
+        "distinct from the earlier structural or dispositional "
+        "qualities."
+    ),
+    guide=[
+        ("Supports, a fifth distinct capacity", [
+            "Ārammaṇa most literally means \"object\" or "
+            "\"support\" &mdash; here likely referring to skill in "
+            "selecting or maintaining the specific meditation objects "
+            "that reinforce a given immersive state.",
+        ]),
+        ("Structural, dispositional, and now supportive qualities", [
+            "With entering and remaining (structural moves), "
+            "emerging (a controlled exit), gladdening (an inner "
+            "disposition), and now supports (sustaining conditions), "
+            "this saṃyutta's own ten qualities span several genuinely "
+            "different registers of meditative skill.",
+        ]),
+        ("The same compressed shape, a third consecutive time", [
+            "This discourse's own question and answer are elided in "
+            "the identical pattern as SN 34.3 and SN 34.4, confirming "
+            "this shape as this saṃyutta's own standing convention "
+            "for its own middle stretch of qualities.",
+        ]),
+        ("Fifth of ten qualities, five more still to come", [
+            "SN 34.6&ndash;10 will apply this identical compressed "
+            "shape to five further qualities, before this saṃyutta's "
+            "own combinatorial phase begins at SN 34.11.",
+        ]),
+    ],
+    terms=[
+        ("ārammaṇa", "support, or object &mdash; the fifth of ten "
+                      "qualities, the subject of this specific "
+                      "discourse"),
+        ("samādhi", "immersion &mdash; the base capacity this quality "
+                     "is paired against"),
+        ("kallita", "gladdening &mdash; the previous discourse's own "
+                     "quality, replaced here by ārammaṇa"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the fourfold structure and the closing simile "
+                     "to a single surviving line"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.5:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "Which quality does this discourse pair against immersion?",
+         "opts": ["Supports, or object (ārammaṇa)", "Gladdening (kallita)", "Emerging (vuṭṭhāna)",
+                  "Territory (gocara)"],
+         "correct": 0,
+         "expl": "The fifth of ten qualities this saṃyutta pairs against immersion."},
+        {"q": "What does ārammaṇa most literally mean?",
+         "opts": ["Object, or support", "Exit", "Entrance", "Persistence"],
+         "correct": 0,
+         "expl": "Likely referring to skill in selecting or maintaining the objects that sustain an immersive state."},
+        {"q": "What range of registers do this saṃyutta's ten qualities span, according to this reading guide?",
+         "opts": ["Structural moves, inner disposition, and sustaining conditions, among others",
+                  "A single unchanging register throughout", "Only physical postures",
+                  "Only verbal formulas recited during meditation"],
+         "correct": 0,
+         "expl": "Entering/remaining (structural), gladdening (dispositional), and now supports (sustaining conditions)."},
+        {"q": "How many further qualities remain to be paired against immersion after this discourse?",
+         "opts": ["Five", "Zero — this is the last", "Ten", "One"],
+         "correct": 0,
+         "expl": "SN 34.6–10 will apply this identical compressed shape to five further qualities."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("Sustaining conditions, a fifth register", [
+            "the objects that reinforce immersion &mdash;",
+            "distinct from entering or gladdening",
+        ]),
+        ("Several genuinely different skills", [
+            "structural, dispositional, sustaining &mdash;",
+            "ten qualities spanning real variety",
+        ]),
+        ("A third consecutive compressed stub", [
+            "supports in place of gladdening &mdash;",
+            "the same minimal shape confirmed again",
+        ]),
+        ("Fifth of ten, five more to come", [
+            "territory, projecting, carefulness ahead &mdash;",
+            "the combinatorial phase still to begin",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.4.html">SN 34.4 &middot; Gladdening for '
+        "Immersion</a> &mdash; the previous discourse, applying this "
+        "same structure to a fourth quality.",
+        '<a href="sn-34.6.html">SN 34.6 &middot; Territory of '
+        "Immersion</a> &mdash; the next discourse, applying this same "
+        "structure to a sixth quality.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.6 — Samādhimūlakagocarasutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 6, "Samādhimūlakagocara", "Territory of Immersion",
+    vagga="Jhānavagga",
+    meta_title="SN 34.6 — Territory of Immersion | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samādhimūlakagocarasutta &mdash; a compressed stub "
+        "pairing immersion against its own territory, the sixth of "
+        "ten qualities. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A peyyāla stub, identical in shape to SN "
+                 "34.3&ndash;5"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 34.1"),
+    ],
+    why=(
+        "The sixth quality paired against immersion: gocara "
+        "(\"territory,\" literally a pasture or grazing-ground) "
+        "&mdash; the proper range or domain a given immersive state "
+        "belongs to, knowing which objects and conditions genuinely "
+        "belong within a specific level of absorption."
+    ),
+    guide=[
+        ("Territory, a pastoral metaphor for meditative range", [
+            "Gocara literally names a cow's own grazing-ground; "
+            "applied to meditation, it names the proper \"range\" of "
+            "objects and conditions appropriate to a specific "
+            "immersive state, distinguishing what genuinely belongs "
+            "there from what doesn't.",
+        ]),
+        ("A skill of discernment, not entry or exit", [
+            "Unlike entering, remaining, or emerging, gocara concerns "
+            "knowing the boundaries of a state once occupied &mdash; "
+            "a genuinely different kind of meditative competence from "
+            "the structural or sustaining qualities named so far.",
+        ]),
+        ("The same compressed shape, a fourth consecutive time", [
+            "This discourse's own question and answer are elided in "
+            "the identical pattern as SN 34.3&ndash;5, confirming "
+            "this saṃyutta's own standing convention continues "
+            "unbroken.",
+        ]),
+        ("Sixth of ten qualities, four more still to come", [
+            "SN 34.7&ndash;10 will apply this identical compressed "
+            "shape to four further qualities, before this saṃyutta's "
+            "own combinatorial phase begins at SN 34.11.",
+        ]),
+    ],
+    terms=[
+        ("gocara", "territory, or range &mdash; literally a "
+                    "grazing-ground, the sixth of ten qualities"),
+        ("samādhi", "immersion &mdash; the base capacity this quality "
+                     "is paired against"),
+        ("ārammaṇa", "supports &mdash; the previous discourse's own "
+                      "quality, replaced here by gocara"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the fourfold structure and the closing simile "
+                     "to a single surviving line"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.6:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "Which quality does this discourse pair against immersion?",
+         "opts": ["Territory, or range (gocara)", "Supports (ārammaṇa)", "Gladdening (kallita)",
+                  "Projecting the mind (abhinīhāra)"],
+         "correct": 0,
+         "expl": "The sixth of ten qualities this saṃyutta pairs against immersion."},
+        {"q": "What does gocara literally mean?",
+         "opts": ["A cow's own grazing-ground", "A boat's harbor", "A river's own source", "A tree's own root"],
+         "correct": 0,
+         "expl": "Applied to meditation, the proper range of objects and conditions appropriate to a given state."},
+        {"q": "What kind of skill does gocara name, distinct from entering, remaining, or emerging?",
+         "opts": ["Discernment of a state's own boundaries once occupied", "The skill of physically leaving a room",
+                  "The skill of debating with other meditators", "A skill unrelated to meditation entirely"],
+         "correct": 0,
+         "expl": "Knowing what genuinely belongs within a specific level of absorption."},
+        {"q": "How many further qualities remain to be paired against immersion after this discourse?",
+         "opts": ["Four", "Zero — this is the last", "Ten", "Six"],
+         "correct": 0,
+         "expl": "SN 34.7–10 will apply this identical compressed shape to four further qualities."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("A pastoral metaphor for meditative range", [
+            "gocara, a grazing-ground &mdash;",
+            "the proper domain of a given state",
+        ]),
+        ("Discernment, not entry or exit", [
+            "knowing a state's own boundaries &mdash;",
+            "a genuinely different competence",
+        ]),
+        ("A fourth consecutive compressed stub", [
+            "territory in place of supports &mdash;",
+            "the same minimal shape held steady",
+        ]),
+        ("Sixth of ten, four more to come", [
+            "projecting, carefulness, persistence ahead &mdash;",
+            "the combinatorial phase still to begin",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.5.html">SN 34.5 &middot; Supports For '
+        "Immersion</a> &mdash; the previous discourse, applying this "
+        "same structure to a fifth quality.",
+        '<a href="sn-34.7.html">SN 34.7 &middot; Projecting the Mind '
+        "Purified by Immersion</a> &mdash; the next discourse, "
+        "applying this same structure to a seventh quality.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.7 — Samādhimūlakaabhinīhārasutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 7, "Samādhimūlakaabhinīhāra", "Projecting the Mind Purified by "
+    "Immersion",
+    vagga="Jhānavagga",
+    meta_title="SN 34.7 — Projecting the Mind Purified by Immersion | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samādhimūlakaabhinīhārasutta &mdash; a compressed stub "
+        "pairing immersion against projecting the purified mind, the "
+        "seventh of ten qualities. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A peyyāla stub, identical in shape to SN "
+                 "34.3&ndash;6"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 34.1"),
+    ],
+    why=(
+        "The seventh quality paired against immersion: abhinīhāra "
+        "(\"projecting\"), the skill of directing a mind already "
+        "purified by immersion toward some further application "
+        "&mdash; deploying the clarity immersion produces rather than "
+        "simply resting within it."
+    ),
+    guide=[
+        ("Directing purified attention outward", [
+            "This discourse's own full title &mdash; \"projecting "
+            "the mind purified by immersion\" &mdash; names a skill "
+            "distinct from any purely internal capacity so far: "
+            "actively aiming the clarified mind toward some further "
+            "object or task once immersion has done its own "
+            "purifying work.",
+        ]),
+        ("The longest quality-name in this saṃyutta so far", [
+            "Where earlier qualities named single actions (entering, "
+            "remaining, emerging) or single states (supports, "
+            "territory), abhinīhāra's own full English gloss "
+            "describes an entire process &mdash; purification "
+            "followed by deliberate application.",
+        ]),
+        ("The same compressed shape, a fifth consecutive time", [
+            "This discourse's own question and answer are elided in "
+            "the identical pattern as SN 34.3&ndash;6, this "
+            "saṃyutta's own standing convention holding firm.",
+        ]),
+        ("Seventh of ten qualities, three more still to come", [
+            "SN 34.8&ndash;10 will apply this identical compressed "
+            "shape to three further qualities, before this saṃyutta's "
+            "own combinatorial phase begins at SN 34.11.",
+        ]),
+    ],
+    terms=[
+        ("abhinīhāra", "projecting, or directing forth &mdash; the "
+                        "seventh of ten qualities, the subject of "
+                        "this specific discourse"),
+        ("samādhi", "immersion &mdash; the base capacity this quality "
+                     "is paired against"),
+        ("gocara", "territory &mdash; the previous discourse's own "
+                    "quality, replaced here by abhinīhāra"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the fourfold structure and the closing simile "
+                     "to a single surviving line"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.7:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "Which quality does this discourse pair against immersion?",
+         "opts": ["Projecting the mind purified by immersion (abhinīhāra)", "Territory (gocara)",
+                  "Supports (ārammaṇa)", "Carefulness (sakkacca)"],
+         "correct": 0,
+         "expl": "The seventh of ten qualities this saṃyutta pairs against immersion."},
+        {"q": "What does abhinīhāra name, distinct from any purely internal capacity named so far?",
+         "opts": ["Directing a mind already purified by immersion toward some further application",
+                  "The skill of remaining silent during meditation", "A purely physical posture",
+                  "A skill unrelated to meditation entirely"],
+         "correct": 0,
+         "expl": "Deploying the clarity immersion produces rather than simply resting within it."},
+        {"q": "What is distinctive about this quality's own full English gloss, compared to earlier ones?",
+         "opts": ["It describes an entire process — purification followed by deliberate application",
+                  "It is a single unmodified noun like the others", "It has no relation to the earlier qualities",
+                  "It is identical in wording to gocara"],
+         "correct": 0,
+         "expl": "Where earlier qualities named single actions or states."},
+        {"q": "How many further qualities remain to be paired against immersion after this discourse?",
+         "opts": ["Three", "Zero — this is the last", "Ten", "Seven"],
+         "correct": 0,
+         "expl": "SN 34.8–10 will apply this identical compressed shape to three further qualities."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("Directing clarity outward", [
+            "purification, then deliberate aim &mdash;",
+            "not resting within the state alone",
+        ]),
+        ("The longest quality-name so far", [
+            "an entire process, not a single action &mdash;",
+            "projecting the mind purified by immersion",
+        ]),
+        ("A fifth consecutive compressed stub", [
+            "projecting in place of territory &mdash;",
+            "the same minimal shape held steady",
+        ]),
+        ("Seventh of ten, three more to come", [
+            "carefulness, persistence, conducive ahead &mdash;",
+            "the combinatorial phase still to begin",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.6.html">SN 34.6 &middot; Territory of '
+        "Immersion</a> &mdash; the previous discourse, applying this "
+        "same structure to a sixth quality.",
+        '<a href="sn-34.8.html">SN 34.8 &middot; Carefulness in '
+        "Immersion</a> &mdash; the next discourse, applying this same "
+        "structure to an eighth quality.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.8 — Samādhimūlakasakkaccakārīsutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 8, "Samādhimūlakasakkaccakārī", "Carefulness in Immersion",
+    vagga="Jhānavagga",
+    meta_title="SN 34.8 — Carefulness in Immersion | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samādhimūlakasakkaccakārīsutta &mdash; a compressed "
+        "stub pairing immersion against practicing carefully for it, "
+        "the eighth of ten qualities. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A peyyāla stub, identical in shape to SN "
+                 "34.3&ndash;7"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 34.1"),
+    ],
+    why=(
+        "The eighth quality paired against immersion: sakkaccakārī "
+        "(\"practicing carefully\"), naming a manner of practice "
+        "&mdash; attentive, unhurried diligence &mdash; rather than "
+        "any specific technical capacity, opening a final trio of "
+        "qualities concerned with the quality of effort itself."
+    ),
+    guide=[
+        ("Carefulness, a shift toward manner of practice", [
+            "Sakkaccakārī names how one practices &mdash; with "
+            "careful, attentive diligence &mdash; rather than any "
+            "specific technical skill like entering, emerging, or "
+            "projecting; a genuinely different axis from the seven "
+            "qualities named so far.",
+        ]),
+        ("The kārī suffix, shared with two qualities still to come", [
+            "Sakkaccakārī shares its own -kārī (\"doing,\" or "
+            "\"practicing\") suffix with sātaccakārī (\"practicing "
+            "persistently,\" SN 34.9) and sappāyakārī (\"doing what's "
+            "conducive,\" SN 34.10) &mdash; the final three qualities "
+            "in this list form their own small grammatical cluster "
+            "around manner-of-practice.",
+        ]),
+        ("The same compressed shape, a sixth consecutive time", [
+            "This discourse's own question and answer are elided in "
+            "the identical pattern as SN 34.3&ndash;7, this "
+            "saṃyutta's own standing convention holding firm.",
+        ]),
+        ("Eighth of ten qualities, two more still to come", [
+            "SN 34.9&ndash;10 will complete this saṃyutta's own "
+            "ten-quality list before the combinatorial phase begins "
+            "at SN 34.11.",
+        ]),
+    ],
+    terms=[
+        ("sakkaccakārī", "practicing carefully &mdash; the eighth of "
+                          "ten qualities, the first of a three-part "
+                          "-kārī cluster"),
+        ("samādhi", "immersion &mdash; the base capacity this quality "
+                     "is paired against"),
+        ("abhinīhāra", "projecting &mdash; the previous discourse's "
+                        "own quality, replaced here by "
+                        "sakkaccakārī"),
+        ("sātaccakārī", "practicing persistently &mdash; the next "
+                         "quality, sharing this same -kārī suffix"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the fourfold structure and the closing simile "
+                     "to a single surviving line"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.8:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "Which quality does this discourse pair against immersion?",
+         "opts": ["Practicing carefully (sakkaccakārī)", "Projecting the mind (abhinīhāra)",
+                  "Territory (gocara)", "Supports (ārammaṇa)"],
+         "correct": 0,
+         "expl": "The eighth of ten qualities this saṃyutta pairs against immersion."},
+        {"q": "What does sakkaccakārī name, unlike the seven earlier qualities?",
+         "opts": ["A manner of practice — attentive, unhurried diligence — rather than a specific technical skill",
+                  "A specific meditation object", "A physical posture", "A skill unrelated to practice manner"],
+         "correct": 0,
+         "expl": "A genuinely different axis from entering, emerging, projecting, and so on."},
+        {"q": "What suffix does sakkaccakārī share with two later qualities in this list?",
+         "opts": ["The -kārī (\"doing\" or \"practicing\") suffix", "No shared suffix at all",
+                  "The same root as gocara", "The same root as ārammaṇa"],
+         "correct": 0,
+         "expl": "Forming a small grammatical cluster with sātaccakārī and sappāyakārī."},
+        {"q": "How many further qualities remain to be paired against immersion after this discourse?",
+         "opts": ["Two", "Zero — this is the last", "Ten", "Eight"],
+         "correct": 0,
+         "expl": "SN 34.9–10 will complete this saṃyutta's own ten-quality list."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("Manner of practice, a new axis", [
+            "attentive, unhurried diligence &mdash;",
+            "not a technical skill but a quality of effort",
+        ]),
+        ("A small grammatical cluster begins", [
+            "sakkaccakārī, sātaccakārī, sappāyakārī &mdash;",
+            "three qualities sharing the same -kārī suffix",
+        ]),
+        ("A sixth consecutive compressed stub", [
+            "carefulness in place of projecting &mdash;",
+            "the same minimal shape held steady",
+        ]),
+        ("Eighth of ten, two more to come", [
+            "persistence and conducive still ahead &mdash;",
+            "closing this saṃyutta's own quality list",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.7.html">SN 34.7 &middot; Projecting the Mind '
+        "Purified by Immersion</a> &mdash; the previous discourse, "
+        "applying this same structure to a seventh quality.",
+        '<a href="sn-34.9.html">SN 34.9 &middot; Persistence in '
+        "Immersion</a> &mdash; the next discourse, applying this same "
+        "structure to a ninth quality.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.9 — Samādhimūlakasātaccakārīsutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 9, "Samādhimūlakasātaccakārī", "Persistence in Immersion",
+    vagga="Jhānavagga",
+    meta_title="SN 34.9 — Persistence in Immersion | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samādhimūlakasātaccakārīsutta &mdash; a compressed stub "
+        "pairing immersion against practicing persistently for it, "
+        "the ninth of ten qualities. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A peyyāla stub, identical in shape to SN "
+                 "34.3&ndash;8"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 34.1"),
+    ],
+    why=(
+        "The ninth quality paired against immersion: sātaccakārī "
+        "(\"practicing persistently\"), the second member of this "
+        "saṃyutta's own -kārī cluster, naming sustained, continuous "
+        "effort over time rather than the momentary carefulness "
+        "named at SN 34.8."
+    ),
+    guide=[
+        ("Persistence, distinct from carefulness in duration", [
+            "Where sakkaccakārī (SN 34.8) names attentiveness within "
+            "a given act of practice, sātaccakārī names something "
+            "closer to consistency across time &mdash; showing up and "
+            "continuing to practice, session after session, rather "
+            "than any single moment's own quality of attention.",
+        ]),
+        ("This saṃyutta's own final closing discourse shares this quality's name", [
+            "Sātaccakārī reappears as one half of SN 34.55's own "
+            "pairing (sātaccakārī and sappāyakārī, \"persistence and "
+            "what's conducive\") &mdash; the very last combination "
+            "this entire saṃyutta will work through, closing both "
+            "this saṃyutta and Book III itself.",
+        ]),
+        ("The same compressed shape, a seventh consecutive time", [
+            "This discourse's own question and answer are elided in "
+            "the identical pattern as SN 34.3&ndash;8, this "
+            "saṃyutta's own standing convention holding firm through "
+            "nearly its entire opening ten.",
+        ]),
+        ("Ninth of ten qualities, one more to close this opening set", [
+            "SN 34.10 will complete this saṃyutta's own ten-quality "
+            "list before the combinatorial phase begins at SN 34.11.",
+        ]),
+    ],
+    terms=[
+        ("sātaccakārī", "practicing persistently &mdash; the ninth of "
+                         "ten qualities, the second of the -kārī "
+                         "cluster"),
+        ("samādhi", "immersion &mdash; the base capacity this quality "
+                     "is paired against"),
+        ("sakkaccakārī", "practicing carefully &mdash; the previous "
+                          "discourse's own quality, distinct from "
+                          "sātaccakārī by attentiveness versus "
+                          "duration"),
+        ("sappāyakārī", "doing what's conducive &mdash; the tenth and "
+                         "final quality, closing this opening set at "
+                         "SN 34.10"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the fourfold structure and the closing simile "
+                     "to a single surviving line"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.9:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "Which quality does this discourse pair against immersion?",
+         "opts": ["Practicing persistently (sātaccakārī)", "Practicing carefully (sakkaccakārī)",
+                  "Doing what's conducive (sappāyakārī)", "Projecting the mind (abhinīhāra)"],
+         "correct": 0,
+         "expl": "The ninth of ten qualities this saṃyutta pairs against immersion."},
+        {"q": "How does sātaccakārī differ from sakkaccakārī (SN 34.8's own quality)?",
+         "opts": ["It names consistency across time, rather than attentiveness within a single act of practice",
+                  "They are the exact same quality under two names", "Sātaccakārī means the opposite of diligence",
+                  "It has no relation to sakkaccakārī at all"],
+         "correct": 0,
+         "expl": "Showing up and continuing to practice, session after session."},
+        {"q": "Where does this quality reappear later in this saṃyutta?",
+         "opts": ["As one half of SN 34.55's own final closing pairing", "Nowhere else in this saṃyutta",
+                  "Only in SN 34.1's own opening discourse", "In every single discourse of this saṃyutta"],
+         "correct": 0,
+         "expl": "The very last combination this saṃyutta works through, closing both it and Book III."},
+        {"q": "How many further qualities remain to be paired against immersion after this discourse?",
+         "opts": ["One", "Zero — this is the last", "Ten", "Nine"],
+         "correct": 0,
+         "expl": "SN 34.10 will complete this saṃyutta's own ten-quality opening set."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("Consistency, not just attentiveness", [
+            "showing up, session after session &mdash;",
+            "distinct from a single moment's own care",
+        ]),
+        ("A quality that reappears at the very end", [
+            "paired with \"conducive\" at SN 34.55 &mdash;",
+            "the last combination this saṃyutta reaches",
+        ]),
+        ("A seventh consecutive compressed stub", [
+            "persistence in place of carefulness &mdash;",
+            "the same minimal shape held steady",
+        ]),
+        ("Ninth of ten, one more to close the set", [
+            "conducive still ahead at SN 34.10 &mdash;",
+            "then the combinatorial phase begins",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.8.html">SN 34.8 &middot; Carefulness in '
+        "Immersion</a> &mdash; the previous discourse, applying this "
+        "same structure to an eighth quality.",
+        '<a href="sn-34.10.html">SN 34.10 &middot; Conducive to '
+        "Immersion</a> &mdash; the next discourse, closing this "
+        "saṃyutta's own ten-quality opening set.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.10 — Samādhimūlakasappāyakārīsutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 10, "Samādhimūlakasappāyakārī", "Conducive to Immersion",
+    vagga="Jhānavagga",
+    meta_title="SN 34.10 — Conducive to Immersion | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samādhimūlakasappāyakārīsutta &mdash; closing this "
+        "saṃyutta's own ten-quality opening set with doing what's "
+        "conducive to immersion. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A peyyāla stub, identical in shape to SN "
+                 "34.3&ndash;9, closing this saṃyutta's own opening "
+                 "set of ten"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 34.1"),
+    ],
+    why=(
+        "This discourse closes this saṃyutta's own opening set of "
+        "ten qualities, pairing sappāyakārī (\"doing what's "
+        "conducive\") against immersion &mdash; the tenth and final "
+        "quality this saṃyutta will pair directly against samādhi "
+        "itself. With this discourse, every one of this saṃyutta's "
+        "ten qualities has now been named; SN 34.11 will begin "
+        "pairing these same ten qualities against each other, working "
+        "systematically through every remaining combination."
+    ),
+    guide=[
+        ("Conducive, the third of the -kārī cluster", [
+            "Sappāyakārī (\"doing what's conducive\") closes the "
+            "three-part -kārī cluster begun at sakkaccakārī (SN "
+            "34.8) and continued at sātaccakārī (SN 34.9) &mdash; "
+            "naming whatever specific actions or conditions genuinely "
+            "suit and support a given meditator's own practice.",
+        ]),
+        ("The full ten-quality list, now complete", [
+            "With this discourse, this saṃyutta's own complete "
+            "quality list stands finished: immersion itself, "
+            "entering, remaining, emerging, gladdening, supports, "
+            "territory, projecting, carefulness, persistence, and now "
+            "conducive &mdash; the ten qualities this project's "
+            "reading guides have tracked since SN 34.1's own opening.",
+        ]),
+        ("A structural pivot to combinatorial pairing", [
+            "Every discourse from SN 34.1&ndash;10 has paired one "
+            "quality against samādhi itself; starting at SN 34.11, "
+            "this saṃyutta shifts to pairing its own ten qualities "
+            "against each other, working through all forty-five "
+            "possible combinations across the saṃyutta's remaining "
+            "discourses.",
+        ]),
+        ("Ten plus forty-five equals this saṃyutta's own fifty-five total", [
+            "This opening block of ten discourses (SN 34.1&ndash;10) "
+            "plus the combinatorial block of forty-five still to come "
+            "(SN 34.11&ndash;55) together account for this saṃyutta's "
+            "own full fifty-five-discourse structure.",
+        ]),
+    ],
+    terms=[
+        ("sappāyakārī", "doing what's conducive &mdash; the tenth and "
+                         "final quality paired directly against "
+                         "immersion, closing the -kārī cluster"),
+        ("samādhi", "immersion &mdash; the base capacity every one of "
+                     "this saṃyutta's ten qualities has now been "
+                     "paired against"),
+        ("sātaccakārī", "practicing persistently &mdash; the previous "
+                         "discourse's own quality, replaced here by "
+                         "sappāyakārī"),
+        ("samāpatti", "entering &mdash; the first quality, whose own "
+                       "combinatorial pairing with the remaining nine "
+                       "qualities begins at SN 34.11"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the fourfold structure and the closing simile "
+                     "to a single surviving line"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line, closing this saṃyutta's own "
+        "ten-quality opening set. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.10:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "Which quality does this discourse pair against immersion?",
+         "opts": ["Doing what's conducive (sappāyakārī)", "Practicing persistently (sātaccakārī)",
+                  "Practicing carefully (sakkaccakārī)", "Projecting the mind (abhinīhāra)"],
+         "correct": 0,
+         "expl": "The tenth and final quality paired directly against immersion."},
+        {"q": "What does this discourse complete?",
+         "opts": ["This saṃyutta's own opening set of ten qualities paired against immersion",
+                  "The entire saṃyutta", "Only the -kārī cluster, with more qualities still to name",
+                  "Nothing significant"],
+         "correct": 0,
+         "expl": "Every one of this saṃyutta's ten qualities has now been named."},
+        {"q": "What structural shift happens starting at SN 34.11?",
+         "opts": ["This saṃyutta begins pairing its own ten qualities against each other, not just against immersion",
+                  "The saṃyutta ends entirely", "A completely new set of qualities is introduced",
+                  "The fourfold typology is abandoned"],
+         "correct": 0,
+         "expl": "Working through all forty-five possible combinations across the remaining discourses."},
+        {"q": "How do the ten discourses at SN 34.1–10 and the forty-five still to come combine?",
+         "opts": ["Together they account for this saṃyutta's own full fifty-five-discourse structure",
+                  "They have no numerical relationship", "The forty-five discourses replace the first ten entirely",
+                  "The total is actually one hundred discourses"],
+         "correct": 0,
+         "expl": "10 plus 45 equals 55, this saṃyutta's own total."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("Whatever genuinely suits the practice", [
+            "sappāyakārī, doing what's conducive &mdash;",
+            "closing the three-part -kārī cluster",
+        ]),
+        ("Ten qualities, now all named", [
+            "immersion through conducive &mdash;",
+            "the complete list stands finished here",
+        ]),
+        ("A pivot to combinatorial pairing", [
+            "no longer just against immersion &mdash;",
+            "the ten qualities now pair with each other",
+        ]),
+        ("Ten plus forty-five equals fifty-five", [
+            "this saṃyutta's own full arithmetic &mdash;",
+            "confirmed by this discourse's own close",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.9.html">SN 34.9 &middot; Persistence in '
+        "Immersion</a> &mdash; the previous discourse, applying this "
+        "same structure to a ninth quality.",
+        '<a href="sn-34.11.html">SN 34.11 &middot; Entering and '
+        "Remaining</a> &mdash; the next discourse, opening this "
+        "saṃyutta's own combinatorial phase.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.11 — Samāpattimūlakaṭhitisutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 11, "Samāpattimūlakaṭhiti", "Entering and Remaining",
+    vagga="Jhānavagga",
+    meta_title="SN 34.11 — Entering and Remaining | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samāpattimūlakaṭhitisutta &mdash; opening this "
+        "saṃyutta's own combinatorial phase, pairing entering against "
+        "remaining rather than either against immersion itself. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha addressing the mendicants (by "
+                     "cross-reference)"),
+        ("Form", "A peyyāla stub, identical in shape to SN "
+                 "34.3&ndash;10, now pairing two named qualities "
+                 "instead of one quality against immersion"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 34.1 and SN "
+                       "34.10"),
+    ],
+    why=(
+        "This discourse opens this saṃyutta's own combinatorial "
+        "phase: rather than pairing a quality against immersion "
+        "itself as SN 34.1&ndash;10 did, it pairs entering "
+        "(samāpatti) against remaining (ṭhiti) &mdash; the first of "
+        "forty-five combinations this saṃyutta will work through "
+        "among its own ten named qualities."
+    ),
+    guide=[
+        ("A structural shift, not a new quality", [
+            "\"One meditator is skilled in entering immersion but "
+            "not in remaining in it …\" &mdash; the identical "
+            "fourfold logic as before, but now both terms of the "
+            "comparison are qualities in their own right, neither one "
+            "immersion itself.",
+        ]),
+        ("The first of forty-five combinatorial pairings", [
+            "With ten qualities named at SN 34.1&ndash;10, this "
+            "discourse begins systematically working through every "
+            "possible unordered pair among them &mdash; C(10,2) = 45 "
+            "combinations, starting with entering paired against each "
+            "of the remaining nine qualities in turn.",
+        ]),
+        ("Entering as this saṃyutta's own first combinatorial anchor", [
+            "SN 34.11&ndash;19 will pair entering against each of the "
+            "nine remaining qualities (remaining, emerging, "
+            "gladdening, supports, territory, projecting, "
+            "carefulness, persistence, and conducive) before this "
+            "saṃyutta moves on to remaining as its own next anchor at "
+            "SN 34.20.",
+        ]),
+        ("The same minimal shape, carried into the new phase", [
+            "As with SN 34.3&ndash;10, this discourse's own content "
+            "is reduced to a single surviving line, trusting the "
+            "reader to reconstruct the fourfold structure and simile "
+            "from SN 34.1.",
+        ]),
+    ],
+    terms=[
+        ("samāpatti", "entering &mdash; the first quality, now paired "
+                       "against the nine other qualities in turn"),
+        ("ṭhiti", "remaining &mdash; the second quality named in this "
+                   "specific discourse"),
+        ("samādhi", "immersion &mdash; the base capacity every "
+                     "quality was paired against at SN 34.1&ndash;10, "
+                     "no longer the comparison point here"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the fourfold structure and the closing simile "
+                     "to a single surviving line"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.11:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse pair against entering, unlike SN 34.1–10's own discourses?",
+         "opts": ["Remaining (ṭhiti), another named quality rather than immersion itself",
+                  "Immersion itself, unchanged from SN 34.1", "Nothing — the pairing is dropped entirely",
+                  "A completely new, previously unnamed quality"],
+         "correct": 0,
+         "expl": "The first of this saṃyutta's own combinatorial pairings among its ten named qualities."},
+        {"q": "How many total combinations will this saṃyutta's combinatorial phase work through?",
+         "opts": ["Forty-five", "Ten", "Fifty-five", "Nine"],
+         "correct": 0,
+         "expl": "C(10,2) = 45 unordered pairs among the ten named qualities."},
+        {"q": "How many discourses will pair entering against each of the remaining nine qualities?",
+         "opts": ["Nine — SN 34.11 through SN 34.19", "Ten", "Forty-five", "One"],
+         "correct": 0,
+         "expl": "Before this saṃyutta moves on to remaining as its own next anchor at SN 34.20."},
+        {"q": "How does this discourse's own compression compare to SN 34.3–10's own?",
+         "opts": ["The same minimal shape, reduced to a single surviving line", "Considerably fuller",
+                  "Entirely different in structure", "Expanded with new content"],
+         "correct": 0,
+         "expl": "Trusting the reader to reconstruct the fourfold structure and simile from SN 34.1."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses, though given here only by cross-reference."},
+    ],
+    marginalia=[
+        ("A new kind of pairing begins", [
+            "entering against remaining &mdash;",
+            "neither term is immersion itself now",
+        ]),
+        ("The first of forty-five combinations", [
+            "ten qualities, paired two at a time &mdash;",
+            "C(10,2) still to work through",
+        ]),
+        ("Entering, this phase's first anchor", [
+            "nine more pairings still to come &mdash;",
+            "before remaining becomes the next anchor",
+        ]),
+        ("The same minimal shape, carried forward", [
+            "one line survives, the rest implied &mdash;",
+            "unchanged from SN 34.3's own convention",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.10.html">SN 34.10 &middot; Conducive to '
+        "Immersion</a> &mdash; the previous discourse, closing this "
+        "saṃyutta's own ten-quality opening set.",
+        '<a href="sn-34.12.html">SN 34.12 &middot; Entering and '
+        "Emerging</a> &mdash; the next discourse, continuing this "
+        "saṃyutta's own combinatorial phase.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.12 — Samāpattimūlakavuṭṭhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 12, "Samāpattimūlakavuṭṭhāna", "Entering and Emerging",
+    vagga="Jhānavagga",
+    meta_title="SN 34.12 — Entering and Emerging | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samāpattimūlakavuṭṭhānasutta &mdash; pairing entering "
+        "against emerging, the second of nine combinations built on "
+        "entering. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha addressing the mendicants (by "
+                     "cross-reference)"),
+        ("Form", "A peyyāla stub, identical in shape to SN 34.11"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 34.1 and SN "
+                       "34.11"),
+    ],
+    why=(
+        "The second combination built on entering: samāpatti "
+        "(\"entering\") paired against vuṭṭhāna (\"emerging\") "
+        "&mdash; the natural bookends of a meditative session, now "
+        "compared against each other rather than each against "
+        "immersion itself."
+    ),
+    guide=[
+        ("Two bookends of a session, now compared directly", [
+            "Entering and emerging together frame any single "
+            "meditative session &mdash; this discourse asks whether a "
+            "meditator skilled at one is necessarily skilled at the "
+            "other, rather than whether either connects well to "
+            "immersion itself.",
+        ]),
+        ("The identical fourfold logic, a new pair", [
+            "\"One meditator is skilled in entering immersion but "
+            "not in emerging from it …\" &mdash; the same structure "
+            "as SN 34.11, with vuṭṭhāna replacing ṭhiti as the second "
+            "term.",
+        ]),
+        ("Second of nine, entering's own combinatorial set continuing", [
+            "This is the second of nine discourses (SN "
+            "34.11&ndash;19) pairing entering against each of the "
+            "other nine qualities in turn.",
+        ]),
+        ("The same compressed shape, unbroken", [
+            "As with SN 34.11, this discourse compresses to a single "
+            "surviving line, the underlying structure carried over by "
+            "cross-reference to SN 34.1.",
+        ]),
+    ],
+    terms=[
+        ("samāpatti", "entering &mdash; this combinatorial set's own "
+                       "shared anchor quality"),
+        ("vuṭṭhāna", "emerging &mdash; the second quality named in "
+                      "this specific discourse"),
+        ("ṭhiti", "remaining &mdash; the previous discourse's own "
+                   "second quality, replaced here by vuṭṭhāna"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the fourfold structure and the closing simile "
+                     "to a single surviving line"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.12:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What two qualities does this discourse pair?",
+         "opts": ["Entering and emerging", "Entering and remaining", "Remaining and emerging",
+                  "Entering and gladdening"],
+         "correct": 0,
+         "expl": "The natural bookends of a single meditative session."},
+        {"q": "What question does this pairing implicitly raise?",
+         "opts": ["Whether skill in entering necessarily implies skill in emerging, or vice versa",
+                  "Whether immersion itself is achievable at all", "Whether meditation has any value",
+                  "Whether the Buddha endorses only one of the four meditator types"],
+         "correct": 0,
+         "expl": "The same fourfold logic applied to a new pair of qualities."},
+        {"q": "Where does this discourse fall in entering's own combinatorial set?",
+         "opts": ["Second of nine — SN 34.11 through SN 34.19", "First", "Last", "Not part of that set at all"],
+         "correct": 0,
+         "expl": "Pairing entering against each of the other nine qualities in turn."},
+        {"q": "How is this discourse's content preserved in the source?",
+         "opts": ["Compressed to a single surviving line, cross-referencing SN 34.1's own full structure",
+                  "Given in full, identical to SN 34.1", "Entirely omitted", "Replaced with unrelated content"],
+         "correct": 0,
+         "expl": "The same minimal shape as SN 34.11."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses, though given here only by cross-reference."},
+    ],
+    marginalia=[
+        ("The two bookends of a session", [
+            "entering, then emerging &mdash;",
+            "now compared directly against each other",
+        ]),
+        ("The same structure, a new pair", [
+            "emerging in place of remaining &mdash;",
+            "identical fourfold logic",
+        ]),
+        ("Second of entering's own nine", [
+            "seven more pairings still ahead &mdash;",
+            "before remaining becomes the next anchor",
+        ]),
+        ("Compression, unbroken", [
+            "one line survives, the rest implied &mdash;",
+            "carried over from SN 34.11's own shape",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.11.html">SN 34.11 &middot; Entering and '
+        "Remaining</a> &mdash; the previous discourse, opening this "
+        "saṃyutta's own combinatorial phase.",
+        '<a href="sn-34.13.html">SN 34.13 &middot; Entering and '
+        "Gladdening</a> &mdash; the next discourse, continuing this "
+        "same combinatorial set.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.13 — Samāpattimūlakakallitasutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 13, "Samāpattimūlakakallita", "Entering and Gladdening",
+    vagga="Jhānavagga",
+    meta_title="SN 34.13 — Entering and Gladdening | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samāpattimūlakakallitasutta &mdash; pairing entering "
+        "against gladdening, the third of nine combinations built on "
+        "entering. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha addressing the mendicants (by "
+                     "cross-reference)"),
+        ("Form", "A peyyāla stub, identical in shape to SN "
+                 "34.11&ndash;12"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 34.1 and SN "
+                       "34.11"),
+    ],
+    why=(
+        "The third combination built on entering: samāpatti "
+        "(\"entering\") paired against kallita (\"gladdening\") "
+        "&mdash; a structural skill compared against an inner "
+        "disposition, the first pairing in this saṃyutta to cross "
+        "between two genuinely different registers of meditative "
+        "capacity."
+    ),
+    guide=[
+        ("Crossing registers, structure and disposition", [
+            "Where SN 34.11 and SN 34.12 both paired entering against "
+            "other structural moves (remaining, emerging), this "
+            "discourse pairs it against kallita, an inner disposition "
+            "&mdash; the first combinatorial pairing to cross between "
+            "two genuinely different kinds of meditative skill.",
+        ]),
+        ("A meditator skilled at entry but not at encouragement", [
+            "The pairing implies a real possibility: someone "
+            "mechanically competent at reaching immersive states, yet "
+            "unskilled at actively brightening or gladdening the mind "
+            "in the process &mdash; competence without warmth, in "
+            "effect.",
+        ]),
+        ("Third of nine, entering's own combinatorial set continuing", [
+            "This is the third of nine discourses (SN "
+            "34.11&ndash;19) pairing entering against each of the "
+            "other nine qualities in turn.",
+        ]),
+        ("The same compressed shape, unbroken", [
+            "As with SN 34.11 and SN 34.12, this discourse compresses "
+            "to a single surviving line, the underlying structure "
+            "carried over by cross-reference to SN 34.1.",
+        ]),
+    ],
+    terms=[
+        ("samāpatti", "entering &mdash; this combinatorial set's own "
+                       "shared anchor quality"),
+        ("kallita", "gladdening &mdash; the second quality named in "
+                     "this specific discourse, an inner disposition "
+                     "rather than a structural move"),
+        ("vuṭṭhāna", "emerging &mdash; the previous discourse's own "
+                      "second quality, replaced here by kallita"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the fourfold structure and the closing simile "
+                     "to a single surviving line"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.13:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What two qualities does this discourse pair?",
+         "opts": ["Entering and gladdening", "Entering and emerging", "Entering and remaining",
+                  "Gladdening and territory"],
+         "correct": 0,
+         "expl": "The first pairing in this saṃyutta to cross between structure and disposition."},
+        {"q": "What kind of possibility does this pairing imply?",
+         "opts": ["Someone mechanically competent at entering states yet unskilled at gladdening the mind",
+                  "That entering and gladdening are impossible to separate", "That gladdening is irrelevant to meditation",
+                  "That only one of the four meditator types can ever exist"],
+         "correct": 0,
+         "expl": "Competence without warmth, in effect."},
+        {"q": "How does this pairing differ from SN 34.11's and SN 34.12's own?",
+         "opts": ["It crosses between two genuinely different registers of meditative skill, not two structural moves",
+                  "It is identical in kind to the earlier pairings", "It pairs entering against immersion itself",
+                  "It introduces an entirely new quality not named before"],
+         "correct": 0,
+         "expl": "Structure compared against an inner disposition, for the first time in this combinatorial set."},
+        {"q": "Where does this discourse fall in entering's own combinatorial set?",
+         "opts": ["Third of nine", "First", "Last", "Not part of that set at all"],
+         "correct": 0,
+         "expl": "SN 34.11 through SN 34.19 pair entering against each of the other nine qualities."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses, though given here only by cross-reference."},
+    ],
+    marginalia=[
+        ("Structure meets disposition", [
+            "entering, then gladdening &mdash;",
+            "the first pairing to cross registers",
+        ]),
+        ("Competence without warmth", [
+            "skilled at entry, not at encouragement &mdash;",
+            "a real gap this pairing implies",
+        ]),
+        ("Third of entering's own nine", [
+            "six more pairings still ahead &mdash;",
+            "before remaining becomes the next anchor",
+        ]),
+        ("Compression, unbroken", [
+            "one line survives, the rest implied &mdash;",
+            "carried over from SN 34.11's own shape",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.13/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.12.html">SN 34.12 &middot; Entering and '
+        "Emerging</a> &mdash; the previous discourse, continuing this "
+        "saṃyutta's own combinatorial phase.",
+        '<a href="sn-34.14.html">SN 34.14 &middot; Entering and '
+        "Supports</a> &mdash; the next discourse, continuing this "
+        "same combinatorial set.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.14 — Samāpattimūlakaārammaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 14, "Samāpattimūlakaārammaṇa", "Entering and Supports",
+    vagga="Jhānavagga",
+    meta_title="SN 34.14 — Entering and Supports | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samāpattimūlakaārammaṇasutta &mdash; pairing entering "
+        "against supports, the fourth of nine combinations built on "
+        "entering. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha addressing the mendicants (by "
+                     "cross-reference)"),
+        ("Form", "A peyyāla stub, identical in shape to SN "
+                 "34.11&ndash;13"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 34.1 and SN "
+                       "34.11"),
+    ],
+    why=(
+        "The fourth combination built on entering: samāpatti "
+        "(\"entering\") paired against ārammaṇa (\"supports\") "
+        "&mdash; the skill of reaching an immersive state compared "
+        "against the skill of selecting or sustaining the conditions "
+        "that hold it once reached."
+    ),
+    guide=[
+        ("Reaching a state versus sustaining its own conditions", [
+            "This pairing implies a meditator could be skilled at "
+            "the initial move into immersion yet weak at maintaining "
+            "the supportive conditions &mdash; or the reverse, strong "
+            "on supports but clumsy at entry.",
+        ]),
+        ("A pairing between two structural, non-dispositional qualities", [
+            "Unlike SN 34.13's cross into disposition (gladdening), "
+            "this pairing returns to two more structurally-oriented "
+            "qualities &mdash; entering and supports &mdash; both "
+            "concerned with the mechanics of achieving and "
+            "maintaining a state.",
+        ]),
+        ("Fourth of nine, entering's own combinatorial set continuing", [
+            "This is the fourth of nine discourses (SN "
+            "34.11&ndash;19) pairing entering against each of the "
+            "other nine qualities in turn.",
+        ]),
+        ("The same compressed shape, unbroken", [
+            "As with the preceding three discourses in this "
+            "combinatorial set, this discourse compresses to a "
+            "single surviving line, the underlying structure carried "
+            "over by cross-reference to SN 34.1.",
+        ]),
+    ],
+    terms=[
+        ("samāpatti", "entering &mdash; this combinatorial set's own "
+                       "shared anchor quality"),
+        ("ārammaṇa", "supports &mdash; the second quality named in "
+                      "this specific discourse"),
+        ("kallita", "gladdening &mdash; the previous discourse's own "
+                     "second quality, replaced here by ārammaṇa"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the fourfold structure and the closing simile "
+                     "to a single surviving line"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.14:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What two qualities does this discourse pair?",
+         "opts": ["Entering and supports", "Entering and gladdening", "Entering and emerging",
+                  "Supports and territory"],
+         "correct": 0,
+         "expl": "The skill of reaching a state compared against the skill of sustaining its own conditions."},
+        {"q": "How does this pairing differ from SN 34.13's own?",
+         "opts": ["It returns to two structurally-oriented qualities, not a cross into disposition",
+                  "It is identical in kind to SN 34.13's own pairing", "It pairs entering against immersion itself",
+                  "It introduces an entirely new quality not named before"],
+         "correct": 0,
+         "expl": "Both entering and supports concern the mechanics of achieving and maintaining a state."},
+        {"q": "What possibility does this pairing imply?",
+         "opts": ["A meditator could be skilled at entering yet weak at maintaining supportive conditions, or the reverse",
+                  "That entering and supports are always identical skills", "That supports are irrelevant to immersion",
+                  "That only one meditator type can ever exist"],
+         "correct": 0,
+         "expl": "The same fourfold logic applied to this specific pair."},
+        {"q": "Where does this discourse fall in entering's own combinatorial set?",
+         "opts": ["Fourth of nine", "First", "Last", "Not part of that set at all"],
+         "correct": 0,
+         "expl": "SN 34.11 through SN 34.19 pair entering against each of the other nine qualities."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses, though given here only by cross-reference."},
+    ],
+    marginalia=[
+        ("Reaching a state, sustaining its conditions", [
+            "entering, then supports &mdash;",
+            "two mechanics of the same process",
+        ]),
+        ("Back to structural pairings", [
+            "not a cross into disposition this time &mdash;",
+            "both qualities concern the state's own mechanics",
+        ]),
+        ("Fourth of entering's own nine", [
+            "five more pairings still ahead &mdash;",
+            "before remaining becomes the next anchor",
+        ]),
+        ("Compression, unbroken", [
+            "one line survives, the rest implied &mdash;",
+            "carried over from SN 34.11's own shape",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.14/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.13.html">SN 34.13 &middot; Entering and '
+        "Gladdening</a> &mdash; the previous discourse, continuing "
+        "this saṃyutta's own combinatorial phase.",
+        '<a href="sn-34.15.html">SN 34.15 &middot; Entering and '
+        "Territory</a> &mdash; the next discourse, continuing this "
+        "same combinatorial set.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.15 — Samāpattimūlakagocarasutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 15, "Samāpattimūlakagocara", "Entering and Territory",
+    vagga="Jhānavagga",
+    meta_title="SN 34.15 — Entering and Territory | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samāpattimūlakagocarasutta &mdash; pairing entering "
+        "against territory, the fifth of nine combinations built on "
+        "entering. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha addressing the mendicants (by "
+                     "cross-reference)"),
+        ("Form", "A peyyāla stub, identical in shape to SN "
+                 "34.11&ndash;14"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 34.1 and SN "
+                       "34.11"),
+    ],
+    why=(
+        "The fifth combination built on entering: samāpatti "
+        "(\"entering\") paired against gocara (\"territory\") "
+        "&mdash; the skill of reaching an immersive state compared "
+        "against the skill of discerning that state's own proper "
+        "boundaries once occupied."
+    ),
+    guide=[
+        ("Reaching a state versus knowing its boundaries", [
+            "This pairing implies a meditator could enter a state "
+            "readily yet remain unclear about what genuinely belongs "
+            "within it &mdash; skilled at arrival, uncertain about "
+            "the terrain once there.",
+        ]),
+        ("The midpoint of entering's own nine-part combinatorial set", [
+            "With this discourse, entering has now been paired "
+            "against remaining, emerging, gladdening, supports, and "
+            "now territory &mdash; the midpoint of its own nine-part "
+            "set, four further pairings still to come.",
+        ]),
+        ("A structural quality meeting a discernment quality", [
+            "As at SN 34.6, gocara names a skill of discernment "
+            "rather than a structural move &mdash; this pairing "
+            "crosses registers in a similar way to SN 34.13's own "
+            "entering-gladdening pairing.",
+        ]),
+        ("The same compressed shape, unbroken", [
+            "As with the preceding four discourses in this "
+            "combinatorial set, this discourse compresses to a "
+            "single surviving line, the underlying structure carried "
+            "over by cross-reference to SN 34.1.",
+        ]),
+    ],
+    terms=[
+        ("samāpatti", "entering &mdash; this combinatorial set's own "
+                       "shared anchor quality"),
+        ("gocara", "territory &mdash; the second quality named in "
+                    "this specific discourse, a skill of discernment"),
+        ("ārammaṇa", "supports &mdash; the previous discourse's own "
+                      "second quality, replaced here by gocara"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the fourfold structure and the closing simile "
+                     "to a single surviving line"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.15:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What two qualities does this discourse pair?",
+         "opts": ["Entering and territory", "Entering and supports", "Entering and gladdening",
+                  "Territory and projecting"],
+         "correct": 0,
+         "expl": "The skill of reaching a state compared against the skill of discerning its own boundaries."},
+        {"q": "Where does this discourse fall in entering's own nine-part combinatorial set?",
+         "opts": ["The midpoint, fifth of nine", "The very first", "The very last", "Not part of that set"],
+         "correct": 0,
+         "expl": "Four further pairings still to come after this one."},
+        {"q": "How does gocara's own nature compare to ārammaṇa's, the previous discourse's second term?",
+         "opts": ["Gocara names a skill of discernment, more like SN 34.13's own cross into disposition",
+                  "They are identical in kind", "Gocara is a purely physical skill unrelated to meditation",
+                  "Ārammaṇa also names a discernment skill, identically"],
+         "correct": 0,
+         "expl": "Crossing registers in a similar way to SN 34.13's own entering-gladdening pairing."},
+        {"q": "What possibility does this pairing imply?",
+         "opts": ["A meditator could enter a state readily yet remain unclear about its own proper boundaries",
+                  "That entering and territory are the same skill", "That territory is irrelevant to meditation",
+                  "That only one meditator type can ever exist"],
+         "correct": 0,
+         "expl": "Skilled at arrival, uncertain about the terrain once there."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses, though given here only by cross-reference."},
+    ],
+    marginalia=[
+        ("Arrival, then the terrain's own boundaries", [
+            "entering, then territory &mdash;",
+            "skilled at reaching, unclear once there",
+        ]),
+        ("The midpoint of entering's own set", [
+            "five down, four more pairings ahead &mdash;",
+            "the combinatorial phase continues",
+        ]),
+        ("A second cross into discernment", [
+            "gocara, like kallita before it &mdash;",
+            "not a purely structural quality",
+        ]),
+        ("Compression, unbroken", [
+            "one line survives, the rest implied &mdash;",
+            "carried over from SN 34.11's own shape",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.15/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.14.html">SN 34.14 &middot; Entering and '
+        "Supports</a> &mdash; the previous discourse, continuing this "
+        "saṃyutta's own combinatorial phase.",
+        '<a href="sn-34.16.html">SN 34.16 &middot; Entering and '
+        "Projecting</a> &mdash; the next discourse, continuing this "
+        "same combinatorial set.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.16 — Samāpattimūlakaabhinīhārasutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 16, "Samāpattimūlakaabhinīhāra", "Entering and Projecting",
+    vagga="Jhānavagga",
+    meta_title="SN 34.16 — Entering and Projecting | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samāpattimūlakaabhinīhārasutta &mdash; pairing entering "
+        "against projecting the purified mind, the sixth of nine "
+        "combinations built on entering. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha addressing the mendicants (by "
+                     "cross-reference)"),
+        ("Form", "A peyyāla stub, identical in shape to SN "
+                 "34.11&ndash;15"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 34.1 and SN "
+                       "34.11"),
+    ],
+    why=(
+        "The sixth combination built on entering: samāpatti "
+        "(\"entering\") paired against abhinīhāra (\"projecting the "
+        "mind purified by immersion\") &mdash; the skill of reaching "
+        "an immersive state compared against the skill of deploying "
+        "the clarity that state produces."
+    ),
+    guide=[
+        ("Reaching a state versus using its own product", [
+            "This pairing implies a meditator could be skilled at "
+            "entering immersion yet unable to make productive use of "
+            "the resulting clarity &mdash; entry without application, "
+            "in effect.",
+        ]),
+        ("The reverse direction is equally implied", [
+            "The fourfold logic also names the opposite case: someone "
+            "skilled at projecting a purified mind toward some "
+            "further task, yet clumsy at reaching the immersive state "
+            "that purification in the first place requires.",
+        ]),
+        ("Sixth of nine, entering's own combinatorial set continuing", [
+            "This is the sixth of nine discourses (SN "
+            "34.11&ndash;19) pairing entering against each of the "
+            "other nine qualities in turn, three further pairings "
+            "still to come.",
+        ]),
+        ("The same compressed shape, unbroken", [
+            "As with the preceding five discourses in this "
+            "combinatorial set, this discourse compresses to a "
+            "single surviving line, the underlying structure carried "
+            "over by cross-reference to SN 34.1.",
+        ]),
+    ],
+    terms=[
+        ("samāpatti", "entering &mdash; this combinatorial set's own "
+                       "shared anchor quality"),
+        ("abhinīhāra", "projecting, or directing forth &mdash; the "
+                        "second quality named in this specific "
+                        "discourse"),
+        ("gocara", "territory &mdash; the previous discourse's own "
+                    "second quality, replaced here by abhinīhāra"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the fourfold structure and the closing simile "
+                     "to a single surviving line"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.16:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What two qualities does this discourse pair?",
+         "opts": ["Entering and projecting", "Entering and territory", "Entering and supports",
+                  "Projecting and carefulness"],
+         "correct": 0,
+         "expl": "The skill of reaching a state compared against the skill of deploying its resulting clarity."},
+        {"q": "What possibility does this pairing imply in one direction?",
+         "opts": ["A meditator skilled at entering yet unable to make productive use of the resulting clarity",
+                  "That entering and projecting are the same skill", "That projecting is irrelevant to meditation",
+                  "That only one meditator type can ever exist"],
+         "correct": 0,
+         "expl": "Entry without application, in effect."},
+        {"q": "Does the fourfold logic also name the reverse case?",
+         "opts": ["Yes — skilled at projecting a purified mind yet unable to reach the immersive state in the first place",
+                  "No — only one direction is ever named", "The reverse case is explicitly denied",
+                  "The reverse case applies to a different quality entirely"],
+         "correct": 0,
+         "expl": "The same fourfold structure always names both directions of skill imbalance."},
+        {"q": "Where does this discourse fall in entering's own combinatorial set?",
+         "opts": ["Sixth of nine", "First", "Last", "Not part of that set at all"],
+         "correct": 0,
+         "expl": "Three further pairings still to come after this one."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses, though given here only by cross-reference."},
+    ],
+    marginalia=[
+        ("Reaching a state, using its product", [
+            "entering, then projecting &mdash;",
+            "clarity reached, but not yet deployed",
+        ]),
+        ("Both directions, always implied", [
+            "skilled at aim, clumsy at entry &mdash;",
+            "the reverse case named too",
+        ]),
+        ("Sixth of entering's own nine", [
+            "three more pairings still ahead &mdash;",
+            "before remaining becomes the next anchor",
+        ]),
+        ("Compression, unbroken", [
+            "one line survives, the rest implied &mdash;",
+            "carried over from SN 34.11's own shape",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.16/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.15.html">SN 34.15 &middot; Entering and '
+        "Territory</a> &mdash; the previous discourse, continuing "
+        "this saṃyutta's own combinatorial phase.",
+        '<a href="sn-34.17.html">SN 34.17 &middot; Entering and '
+        "Carefulness</a> &mdash; the next discourse, continuing this "
+        "same combinatorial set.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.17 — Samāpattimūlakasakkaccasutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 17, "Samāpattimūlakasakkacca", "Entering and Carefulness",
+    vagga="Jhānavagga",
+    meta_title="SN 34.17 — Entering and Carefulness | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samāpattimūlakasakkaccasutta &mdash; pairing entering "
+        "against practicing carefully, the seventh of nine "
+        "combinations built on entering. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha addressing the mendicants (by "
+                     "cross-reference)"),
+        ("Form", "A peyyāla stub, identical in shape to SN "
+                 "34.11&ndash;16"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 34.1 and SN "
+                       "34.11"),
+    ],
+    why=(
+        "The seventh combination built on entering: samāpatti "
+        "(\"entering\") paired against sakkaccakārī (\"practicing "
+        "carefully\") &mdash; the first of entering's own three "
+        "pairings with the -kārī cluster of manner-of-practice "
+        "qualities."
+    ),
+    guide=[
+        ("A technical skill meeting a quality of attention", [
+            "This pairing compares entering &mdash; a specific "
+            "structural competence &mdash; against sakkaccakārī, a "
+            "quality describing how one practices generally, echoing "
+            "SN 34.13's own earlier cross into disposition.",
+        ]),
+        ("Opening entering's own final trio of pairings", [
+            "This discourse begins the last three pairings in "
+            "entering's own combinatorial set (SN 34.17&ndash;19), "
+            "each pairing entering against one member of the -kārī "
+            "cluster: carefulness, persistence, and conducive.",
+        ]),
+        ("Seventh of nine, entering's own combinatorial set nearly done", [
+            "With this discourse, only two further pairings remain "
+            "before this saṃyutta moves on to remaining as its own "
+            "next combinatorial anchor at SN 34.20.",
+        ]),
+        ("The same compressed shape, unbroken", [
+            "As with the preceding six discourses in this "
+            "combinatorial set, this discourse compresses to a "
+            "single surviving line, the underlying structure carried "
+            "over by cross-reference to SN 34.1.",
+        ]),
+    ],
+    terms=[
+        ("samāpatti", "entering &mdash; this combinatorial set's own "
+                       "shared anchor quality"),
+        ("sakkaccakārī", "practicing carefully &mdash; the second "
+                          "quality named in this specific discourse, "
+                          "the first of the -kārī cluster"),
+        ("abhinīhāra", "projecting &mdash; the previous discourse's "
+                        "own second quality, replaced here by "
+                        "sakkaccakārī"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the fourfold structure and the closing simile "
+                     "to a single surviving line"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.17:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What two qualities does this discourse pair?",
+         "opts": ["Entering and practicing carefully", "Entering and projecting", "Entering and territory",
+                  "Carefulness and persistence"],
+         "correct": 0,
+         "expl": "A structural competence compared against a manner-of-practice quality."},
+        {"q": "What trio of pairings does this discourse open?",
+         "opts": ["Entering paired against each member of the -kārī cluster (carefulness, persistence, conducive)",
+                  "A trio unrelated to entering", "The final trio of this entire saṃyutta",
+                  "A trio pairing carefulness against three other qualities"],
+         "correct": 0,
+         "expl": "The last three pairings in entering's own combinatorial set."},
+        {"q": "Where does this discourse fall in entering's own combinatorial set?",
+         "opts": ["Seventh of nine", "First", "Last", "Not part of that set at all"],
+         "correct": 0,
+         "expl": "Only two further pairings remain after this one."},
+        {"q": "What happens after entering's own combinatorial set is fully complete?",
+         "opts": ["This saṃyutta moves on to remaining as its own next combinatorial anchor at SN 34.20",
+                  "The saṃyutta ends entirely", "The same nine pairings repeat again",
+                  "A completely new set of qualities is introduced"],
+         "correct": 0,
+         "expl": "Continuing the systematic combinatorial sweep through all ten qualities."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses, though given here only by cross-reference."},
+    ],
+    marginalia=[
+        ("A technical skill meets a manner of attention", [
+            "entering, then careful practice &mdash;",
+            "echoing the earlier cross into disposition",
+        ]),
+        ("The final trio begins", [
+            "carefulness, persistence, conducive &mdash;",
+            "entering's own last three pairings",
+        ]),
+        ("Seventh of entering's own nine", [
+            "two more pairings still ahead &mdash;",
+            "before remaining becomes the next anchor",
+        ]),
+        ("Compression, unbroken", [
+            "one line survives, the rest implied &mdash;",
+            "carried over from SN 34.11's own shape",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.17/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.16.html">SN 34.16 &middot; Entering and '
+        "Projecting</a> &mdash; the previous discourse, continuing "
+        "this saṃyutta's own combinatorial phase.",
+        '<a href="sn-34.18.html">SN 34.18 &middot; Entering and '
+        "Persistence</a> &mdash; the next discourse, continuing this "
+        "same combinatorial set.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.18 — Samāpattimūlakasātaccasutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 18, "Samāpattimūlakasātacca", "Entering and Persistence",
+    vagga="Jhānavagga",
+    meta_title="SN 34.18 — Entering and Persistence | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samāpattimūlakasātaccasutta &mdash; pairing entering "
+        "against practicing persistently, the eighth of nine "
+        "combinations built on entering. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha addressing the mendicants (by "
+                     "cross-reference)"),
+        ("Form", "A peyyāla stub, identical in shape to SN "
+                 "34.11&ndash;17"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 34.1 and SN "
+                       "34.11"),
+    ],
+    why=(
+        "The eighth combination built on entering: samāpatti "
+        "(\"entering\") paired against sātaccakārī (\"practicing "
+        "persistently\") &mdash; the second of entering's own three "
+        "pairings with the -kārī cluster, comparing a single-session "
+        "structural skill against consistency across many sessions "
+        "over time."
+    ),
+    guide=[
+        ("A single session's own skill versus consistency over time", [
+            "This pairing compares entering &mdash; achievable or not "
+            "within any single sitting &mdash; against sātaccakārī, "
+            "which concerns whether a meditator keeps returning to "
+            "practice session after session, a genuinely different "
+            "timescale of competence.",
+        ]),
+        ("Someone reliably skilled at entry, yet inconsistent over time", [
+            "The fourfold logic implies a meditator could be reliably "
+            "good at entering immersion whenever they do sit, yet "
+            "irregular about actually showing up to practice in the "
+            "first place &mdash; or the reverse, a consistent but "
+            "clumsy practitioner.",
+        ]),
+        ("Eighth of nine, entering's own combinatorial set nearly closed", [
+            "With this discourse, only one further pairing remains "
+            "before entering's own nine-part set closes at SN 34.19.",
+        ]),
+        ("The same compressed shape, unbroken", [
+            "As with the preceding seven discourses in this "
+            "combinatorial set, this discourse compresses to a "
+            "single surviving line, the underlying structure carried "
+            "over by cross-reference to SN 34.1.",
+        ]),
+    ],
+    terms=[
+        ("samāpatti", "entering &mdash; this combinatorial set's own "
+                       "shared anchor quality"),
+        ("sātaccakārī", "practicing persistently &mdash; the second "
+                         "quality named in this specific discourse, "
+                         "the second of the -kārī cluster"),
+        ("sakkaccakārī", "practicing carefully &mdash; the previous "
+                          "discourse's own second quality, replaced "
+                          "here by sātaccakārī"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the fourfold structure and the closing simile "
+                     "to a single surviving line"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.18:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What two qualities does this discourse pair?",
+         "opts": ["Entering and practicing persistently", "Entering and practicing carefully",
+                  "Entering and projecting", "Persistence and conducive"],
+         "correct": 0,
+         "expl": "A single-session structural skill compared against consistency across time."},
+        {"q": "What possibility does this pairing imply?",
+         "opts": ["A meditator could be reliably skilled at entry whenever they sit, yet irregular about actually practicing at all",
+                  "That entering and persistence are the same skill", "That persistence is irrelevant to meditation",
+                  "That only one meditator type can ever exist"],
+         "correct": 0,
+         "expl": "Or the reverse — a consistent but clumsy practitioner."},
+        {"q": "Where does this discourse fall in entering's own combinatorial set?",
+         "opts": ["Eighth of nine", "First", "Last", "Not part of that set at all"],
+         "correct": 0,
+         "expl": "Only one further pairing remains before this set closes at SN 34.19."},
+        {"q": "What genuinely different timescale does sātaccakārī introduce, compared to samāpatti?",
+         "opts": ["Consistency across many sessions over time, rather than competence within a single sitting",
+                  "No difference in timescale at all", "A timescale of centuries rather than sessions",
+                  "Sātaccakārī has no temporal dimension whatsoever"],
+         "correct": 0,
+         "expl": "Whether a meditator keeps returning to practice, session after session."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses, though given here only by cross-reference."},
+    ],
+    marginalia=[
+        ("One session versus consistency over time", [
+            "entering, then persistence &mdash;",
+            "a genuinely different timescale",
+        ]),
+        ("Reliable at entry, irregular at showing up", [
+            "or the reverse, consistent but clumsy &mdash;",
+            "the fourfold logic names both directions",
+        ]),
+        ("Eighth of entering's own nine", [
+            "one more pairing still ahead &mdash;",
+            "closing this set at SN 34.19",
+        ]),
+        ("Compression, unbroken", [
+            "one line survives, the rest implied &mdash;",
+            "carried over from SN 34.11's own shape",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.18/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.17.html">SN 34.17 &middot; Entering and '
+        "Carefulness</a> &mdash; the previous discourse, continuing "
+        "this saṃyutta's own combinatorial phase.",
+        '<a href="sn-34.19.html">SN 34.19 &middot; Entering and '
+        "What&rsquo;s Conducive</a> &mdash; the next and final "
+        "discourse in entering's own combinatorial set.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.19 — Samāpattimūlakasappāyakārīsutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 19, "Samāpattimūlakasappāyakārī", "Entering and What&rsquo;s "
+    "Conducive",
+    vagga="Jhānavagga",
+    meta_title="SN 34.19 — Entering and What’s Conducive | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samāpattimūlakasappāyakārīsutta &mdash; closing "
+        "entering's own nine-part combinatorial set with what's "
+        "conducive, before this saṃyutta moves on to remaining as its "
+        "own next anchor. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha addressing the mendicants (by "
+                     "cross-reference)"),
+        ("Form", "A peyyāla stub, identical in shape to SN "
+                 "34.11&ndash;18, closing entering's own nine-part "
+                 "combinatorial set"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 34.1 and SN "
+                       "34.11"),
+    ],
+    why=(
+        "This discourse closes entering's own nine-part combinatorial "
+        "set, pairing samāpatti (\"entering\") against sappāyakārī "
+        "(\"doing what's conducive\") &mdash; the ninth and final "
+        "pairing built on entering. With this discourse, entering has "
+        "now been paired against every one of the other nine "
+        "qualities; SN 34.20 will begin remaining's own combinatorial "
+        "set against the eight qualities that follow it."
+    ),
+    guide=[
+        ("The ninth and final pairing built on entering", [
+            "Sappāyakārī closes the -kārī trio begun at SN 34.17 "
+            "(carefulness) and continued at SN 34.18 (persistence), "
+            "completing entering's own full run through all nine "
+            "remaining qualities.",
+        ]),
+        ("Entering's own combinatorial set, now fully closed", [
+            "SN 34.11&ndash;19 together account for nine of this "
+            "saṃyutta's own forty-five combinatorial pairings, every "
+            "one of them anchored on entering as the shared first "
+            "term.",
+        ]),
+        ("A shift to remaining as the next combinatorial anchor", [
+            "SN 34.20 will open a new merged block pairing remaining "
+            "against the eight qualities that follow it "
+            "alphabetically in this saṃyutta's own sequence "
+            "(emerging through conducive), the second of this "
+            "saṃyutta's own ten combinatorial anchor points.",
+        ]),
+        ("A shrinking pattern from here forward", [
+            "Where entering's own set spanned nine discourses, "
+            "remaining's own set will span only eight (since entering "
+            "is already covered), then emerging's own seven, and so "
+            "on down to a final single discourse &mdash; the "
+            "triangular-number shape (9+8+7+6+5+4+3+2+1=45) "
+            "underlying this saṃyutta's own remaining structure.",
+        ]),
+    ],
+    terms=[
+        ("samāpatti", "entering &mdash; this combinatorial set's own "
+                       "shared anchor quality, now fully paired"),
+        ("sappāyakārī", "doing what's conducive &mdash; the second "
+                         "quality named in this specific discourse, "
+                         "closing the -kārī trio"),
+        ("sātaccakārī", "practicing persistently &mdash; the "
+                         "previous discourse's own second quality, "
+                         "replaced here by sappāyakārī"),
+        ("ṭhiti", "remaining &mdash; the second quality, whose own "
+                   "combinatorial set against the remaining eight "
+                   "qualities begins at SN 34.20"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the fourfold structure and the closing simile "
+                     "to a single surviving line"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line, closing entering's own "
+        "nine-part combinatorial set. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.19:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What two qualities does this discourse pair?",
+         "opts": ["Entering and doing what's conducive", "Entering and practicing persistently",
+                  "Entering and practicing carefully", "Conducive and territory"],
+         "correct": 0,
+         "expl": "The ninth and final pairing built on entering."},
+        {"q": "What does this discourse close?",
+         "opts": ["Entering's own nine-part combinatorial set against the other nine qualities",
+                  "The entire saṃyutta", "Only the -kārī trio, with more of entering's pairings still to come",
+                  "Nothing significant"],
+         "correct": 0,
+         "expl": "Entering has now been paired against every one of the other nine qualities."},
+        {"q": "What begins at SN 34.20?",
+         "opts": ["Remaining's own combinatorial set against the eight qualities that follow it",
+                  "A repeat of entering's own nine pairings", "The saṃyutta's own closing colophon",
+                  "A completely new set of qualities"],
+         "correct": 0,
+         "expl": "The second of this saṃyutta's own ten combinatorial anchor points."},
+        {"q": "What numerical pattern underlies this saṃyutta's remaining combinatorial structure?",
+         "opts": ["A shrinking triangular-number shape: 9+8+7+6+5+4+3+2+1=45",
+                  "Each anchor's own set is identical in size", "The pattern grows larger with each anchor",
+                  "There is no discernible numerical pattern"],
+         "correct": 0,
+         "expl": "Each successive anchor pairs against one fewer remaining quality."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses, though given here only by cross-reference."},
+    ],
+    marginalia=[
+        ("The ninth and final pairing on entering", [
+            "conducive, closing the -kārī trio &mdash;",
+            "entering's own set now fully closed",
+        ]),
+        ("Nine pairings, one shared anchor", [
+            "SN 34.11–19, all built on entering &mdash;",
+            "nine of forty-five combinations done",
+        ]),
+        ("Remaining becomes the next anchor", [
+            "eight more qualities still to pair &mdash;",
+            "SN 34.20 opens a new merged block",
+        ]),
+        ("A shrinking triangular shape", [
+            "nine, then eight, then seven ... &mdash;",
+            "9+8+7+...+1 equals forty-five",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.19/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.18.html">SN 34.18 &middot; Entering and '
+        "Persistence</a> &mdash; the previous discourse, continuing "
+        "this saṃyutta's own combinatorial phase.",
+        '<a href="sn-34.20-27.html">SN 34.20&ndash;27 &middot; Eight '
+        "on Remaining and Emergence, Etc.</a> &mdash; the next page, "
+        "opening remaining's own combinatorial set.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.20–27 — Ṭhitimūlakavuṭṭhānasuttādiaṭṭhaka
+# --------------------------------------------------------------------------- #
+page_range(
+    34, 20, 27, "Ṭhitimūlakavuṭṭhānādi", "Eight on Remaining and "
+    "Emergence, Etc.",
+    vagga="Jhānavagga",
+    meta_title="SN 34.20–27 · Eight on Remaining and Emergence, Etc. "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 34.20 through "
+        "34.27 &mdash; eight discourses, preserved in the source as "
+        "a single peyyāla block, pairing remaining against each of "
+        "the eight qualities that follow it. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "Eight discourses compressed by bilara-data into a "
+                 "single file: one opening pairing given, plus an "
+                 "explicit editorial instruction covering the rest"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial once SN 34.11&ndash;19's own pattern "
+                       "is understood"),
+    ],
+    why=(
+        "This merged file opens remaining's own combinatorial set, "
+        "pairing ṭhiti (\"remaining\") against each of the eight "
+        "qualities that follow it in this saṃyutta's own sequence "
+        "&mdash; emerging, gladdening, supports, territory, "
+        "projecting, carefulness, persistence, and conducive. Unlike "
+        "entering's own nine-discourse spread across SN "
+        "34.11&ndash;19, bilara-data compresses this entire eight-"
+        "discourse set into a single file, giving only the first "
+        "pairing before an explicit editorial note covers the rest."
+    ),
+    guide=[
+        ("The second combinatorial anchor, now compressed into one file", [
+            "Where entering's own nine pairings each received their "
+            "own discourse-number and individual file, remaining's "
+            "own eight pairings are compressed together, the source "
+            "itself judging this stretch worth less individual "
+            "treatment than the first.",
+        ]),
+        ("One pairing given, seven left to an explicit instruction", [
+            "\"One meditator is skilled in remaining in immersion but "
+            "not in emerging from it …\" opens this file, followed by "
+            "\"(These eight discourses should be told in full as the "
+            "previous set)\" &mdash; an explicit editorial pointer "
+            "back to SN 34.11&ndash;19's own fuller pattern.",
+        ]),
+        ("Why entering was already excluded here", [
+            "Remaining's own pairing with entering was already "
+            "covered at SN 34.11 (\"Entering and Remaining\"); this "
+            "file's own eight pairings run only through the "
+            "qualities that follow remaining in sequence, avoiding "
+            "duplication.",
+        ]),
+        ("Second of ten anchors, confirming the shrinking pattern", [
+            "With entering's nine and remaining's eight both now "
+            "accounted for, this saṃyutta's own triangular-number "
+            "structure (9+8+7+6+5+4+3+2+1=45) continues exactly as "
+            "predicted at SN 34.19.",
+        ]),
+    ],
+    terms=[
+        ("ṭhiti", "remaining &mdash; this combinatorial set's own "
+                   "shared anchor quality"),
+        ("vuṭṭhāna", "emerging &mdash; the first quality named in "
+                      "this file, paired against remaining"),
+        ("samāpatti", "entering &mdash; already paired with remaining "
+                       "at SN 34.11, excluded from this file's own "
+                       "eight pairings"),
+        ("peyyāla", "an elision mark &mdash; here compressing an "
+                     "entire eight-discourse set to a single opening "
+                     "pairing plus editorial note"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The complete merged file: the opening pairing "
+        "(remaining and emerging) and the source's own explicit "
+        "editorial instruction covering the remaining seven. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.20-27:1.1-1.4"),
+        ("p", "&sect;2", "sn34.20-27:1.11"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Eight — SN 34.20 through SN 34.27", "Nine", "Forty-five", "One"],
+         "correct": 0,
+         "expl": "Remaining's own combinatorial set against the eight qualities that follow it."},
+        {"q": "Which pairing is given in full at the start of this file?",
+         "opts": ["Remaining and emerging", "Remaining and entering", "Entering and emerging",
+                  "Remaining and conducive"],
+         "correct": 0,
+         "expl": "The only pairing spelled out before the editorial note takes over."},
+        {"q": "Why doesn't this file include a pairing between remaining and entering?",
+         "opts": ["That pairing was already covered at SN 34.11", "Remaining cannot be paired with entering at all",
+                  "It was accidentally omitted by the compiler", "Entering is not part of this saṃyutta's own quality list"],
+         "correct": 0,
+         "expl": "Avoiding duplication with entering's own combinatorial set."},
+        {"q": "How does this file's compression compare to entering's own nine-discourse spread?",
+         "opts": ["More severely compressed — eight discourses in one file, rather than nine individual pages",
+                  "Identical in scope", "Less compressed, with more content than entering's own set",
+                  "This file contains no compression at all"],
+         "correct": 0,
+         "expl": "The source itself judging this stretch worth less individual treatment."},
+        {"q": "What structural pattern does this file's own scale confirm?",
+         "opts": ["This saṃyutta's own shrinking triangular-number structure (9+8+7+...+1=45)",
+                  "That every combinatorial anchor has the identical number of pairings", "A growing pattern, not shrinking",
+                  "No discernible pattern at all"],
+         "correct": 0,
+         "expl": "Predicted at SN 34.19 and confirmed here."},
+    ],
+    marginalia=[
+        ("A second anchor, compressed into one file", [
+            "eight pairings, one file &mdash;",
+            "unlike entering's own nine individual pages",
+        ]),
+        ("One pairing, then an explicit pointer", [
+            "\"told in full as the previous set\" &mdash;",
+            "the rest left to cross-reference",
+        ]),
+        ("Entering already excluded", [
+            "that pairing covered at SN 34.11 &mdash;",
+            "no duplication across anchor points",
+        ]),
+        ("The shrinking pattern, confirmed", [
+            "nine, then eight &mdash;",
+            "the triangular structure holding steady",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.20-27/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.19.html">SN 34.19 &middot; Entering and '
+        "What&rsquo;s Conducive</a> &mdash; the previous discourse, "
+        "closing entering's own combinatorial set.",
+        '<a href="sn-34.28-34.html">SN 34.28&ndash;34 &middot; Seven '
+        "on Emergence and Gladdening, Etc.</a> &mdash; the next page, "
+        "opening emerging's own combinatorial set.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.28–34 — Vuṭṭhānamūlakakallitasuttādisattaka
+# --------------------------------------------------------------------------- #
+page_range(
+    34, 28, 34, "Vuṭṭhānamūlakakallitādi", "Seven on Emergence and "
+    "Gladdening, Etc.",
+    vagga="Jhānavagga",
+    meta_title="SN 34.28–34 · Seven on Emergence and Gladdening, Etc. "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 34.28 through "
+        "34.34 &mdash; seven discourses, preserved in the source as "
+        "a single peyyāla block, pairing emerging against each of "
+        "the seven qualities that follow it. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "Seven discourses compressed by bilara-data into a "
+                 "single file, matching SN 34.20&ndash;27's own "
+                 "shape at one discourse smaller"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial once SN 34.20&ndash;27's own pattern "
+                       "is understood"),
+    ],
+    why=(
+        "This merged file opens emerging's own combinatorial set, "
+        "pairing vuṭṭhāna (\"emerging\") against each of the seven "
+        "qualities that follow it &mdash; gladdening, supports, "
+        "territory, projecting, carefulness, persistence, and "
+        "conducive &mdash; continuing this saṃyutta's own shrinking "
+        "triangular pattern one discourse smaller than "
+        "remaining's own set."
+    ),
+    guide=[
+        ("The third combinatorial anchor, one discourse smaller", [
+            "Where remaining's own set spanned eight discourses, "
+            "emerging's own spans seven &mdash; entering and "
+            "remaining both already paired with emerging at earlier "
+            "points, so this file's own pairings begin at gladdening.",
+        ]),
+        ("The same compressed shape as SN 34.20–27", [
+            "\"One meditator is skilled in emerging from immersion "
+            "but not in positivity for immersion …\" opens this file, "
+            "followed by the identical editorial note pointing back "
+            "to the previous set's own full pattern.",
+        ]),
+        ("Kallita's own two glosses, recalled here", [
+            "As at SN 34.4, this file's opening pairing translates "
+            "kallita as \"positivity for immersion,\" matching that "
+            "earlier discourse's own body-text rendering rather than "
+            "its title's \"gladdening.\"",
+        ]),
+        ("Third of ten anchors, the shrinking pattern continuing", [
+            "With entering's nine, remaining's eight, and now "
+            "emerging's seven all accounted for, this saṃyutta's own "
+            "triangular structure continues exactly as predicted.",
+        ]),
+    ],
+    terms=[
+        ("vuṭṭhāna", "emerging &mdash; this combinatorial set's own "
+                      "shared anchor quality"),
+        ("kallita", "gladdening, or positivity &mdash; the first "
+                     "quality named in this file, paired against "
+                     "emerging"),
+        ("ṭhiti", "remaining &mdash; already paired with emerging at "
+                   "SN 34.20&ndash;27, excluded from this file's own "
+                   "seven pairings"),
+        ("peyyāla", "an elision mark &mdash; here compressing an "
+                     "entire seven-discourse set to a single opening "
+                     "pairing plus editorial note"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The complete merged file: the opening pairing "
+        "(emerging and gladdening) and the source's own explicit "
+        "editorial instruction covering the remaining six. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.28-34:1.1-1.4"),
+        ("p", "&sect;2", "sn34.28-34:1.11"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Seven — SN 34.28 through SN 34.34", "Eight", "Forty-five", "One"],
+         "correct": 0,
+         "expl": "Emerging's own combinatorial set against the seven qualities that follow it."},
+        {"q": "Which pairing is given in full at the start of this file?",
+         "opts": ["Emerging and gladdening", "Emerging and remaining", "Emerging and supports",
+                  "Gladdening and territory"],
+         "correct": 0,
+         "expl": "The only pairing spelled out before the editorial note takes over."},
+        {"q": "Why does this file's own combinatorial set begin at gladdening rather than entering or remaining?",
+         "opts": ["Emerging's pairings with entering and remaining were already covered at earlier anchor points",
+                  "Entering and remaining cannot be paired with emerging at all", "The compiler made an error",
+                  "Gladdening always comes first regardless of the anchor quality"],
+         "correct": 0,
+         "expl": "Avoiding duplication across this saṃyutta's own combinatorial anchors."},
+        {"q": "How does kallita's translation in this file compare to SN 34.4's own?",
+         "opts": ["It matches SN 34.4's own body-text rendering (\"positivity for immersion\"), not its title (\"gladdening\")",
+                  "It uses an entirely new, third rendering", "It contradicts SN 34.4's own translation",
+                  "Kallita is not mentioned in this file at all"],
+         "correct": 0,
+         "expl": "A minor translation variance already noted at SN 34.4."},
+        {"q": "How many discourses does emerging's own combinatorial set span, compared to remaining's own eight?",
+         "opts": ["Seven, one discourse smaller, continuing this saṃyutta's own shrinking pattern",
+                  "Eight, identical to remaining's own set", "Nine, larger than remaining's own set", "Forty-five"],
+         "correct": 0,
+         "expl": "Exactly as predicted by this saṃyutta's own triangular structure."},
+    ],
+    marginalia=[
+        ("A third anchor, one discourse smaller", [
+            "seven pairings, not eight &mdash;",
+            "entering and remaining already excluded",
+        ]),
+        ("The same compressed shape again", [
+            "one opening pairing, then a pointer &mdash;",
+            "matching SN 34.20–27's own structure",
+        ]),
+        ("A translation nuance recalled", [
+            "kallita as \"positivity\" here &mdash;",
+            "matching SN 34.4's own body text",
+        ]),
+        ("The shrinking pattern, still on track", [
+            "nine, eight, now seven &mdash;",
+            "the triangular structure confirmed again",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.28-34/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.20-27.html">SN 34.20&ndash;27 &middot; Eight '
+        "on Remaining and Emergence, Etc.</a> &mdash; the previous "
+        "page, remaining's own combinatorial set.",
+        '<a href="sn-34.35-40.html">SN 34.35&ndash;40 &middot; Six '
+        "on Gladdening and Support, Etc.</a> &mdash; the next page, "
+        "opening gladdening's own combinatorial set.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.35–40 — Kallitamūlakaārammaṇasuttādichakka
+# --------------------------------------------------------------------------- #
+page_range(
+    34, 35, 40, "Kallitamūlakaārammaṇādi", "Six on Gladdening and "
+    "Support, Etc.",
+    vagga="Jhānavagga",
+    meta_title="SN 34.35–40 · Six on Gladdening and Support, Etc. | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 34.35 through "
+        "34.40 &mdash; six discourses, preserved in the source as a "
+        "single peyyāla block, pairing gladdening against each of "
+        "the six qualities that follow it. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "Six discourses compressed into a single file, "
+                 "compressed even further than SN 34.20&ndash;27 and "
+                 "SN 34.28&ndash;34 &mdash; no explicit editorial "
+                 "note survives"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial once SN 34.28&ndash;34's own pattern "
+                       "is understood"),
+    ],
+    why=(
+        "This merged file opens gladdening's own combinatorial set, "
+        "pairing kallita (\"gladdening\") against each of the six "
+        "qualities that follow it &mdash; supports, territory, "
+        "projecting, carefulness, persistence, and conducive. "
+        "Compression tightens further here: this file preserves only "
+        "the opening pairing and a bare closing marker, without even "
+        "SN 34.20&ndash;27's and SN 34.28&ndash;34's own explicit "
+        "\"told in full\" instruction."
+    ),
+    guide=[
+        ("Compression tightening a further notch", [
+            "This file drops even the explicit editorial pointer "
+            "seen at SN 34.20&ndash;27 and SN 34.28&ndash;34, leaving "
+            "only the opening pairing and a bare closing peyyāla mark "
+            "&mdash; the source trusting the reader's own familiarity "
+            "with this saṃyutta's pattern by this point.",
+        ]),
+        ("The fourth combinatorial anchor, three discourses smaller than the first", [
+            "Gladdening's own six pairings continue the shrinking "
+            "sequence: nine (entering), eight (remaining), seven "
+            "(emerging), and now six.",
+        ]),
+        ("Supports, the first quality paired against gladdening", [
+            "\"One meditator is skilled in positivity for immersion "
+            "but not in the supports for immersion …\" &mdash; the "
+            "sole surviving pairing in this file, opening gladdening's "
+            "own combinatorial set.",
+        ]),
+        ("Fourth of ten anchors, the pattern holding firm", [
+            "With entering, remaining, emerging, and now gladdening "
+            "all accounted for, four of this saṃyutta's own ten "
+            "combinatorial anchors are complete, six more still to "
+            "come.",
+        ]),
+    ],
+    terms=[
+        ("kallita", "gladdening, or positivity &mdash; this "
+                     "combinatorial set's own shared anchor quality"),
+        ("ārammaṇa", "supports &mdash; the first quality named in "
+                      "this file, paired against gladdening"),
+        ("vuṭṭhāna", "emerging &mdash; already paired with "
+                      "gladdening at SN 34.28&ndash;34, excluded from "
+                      "this file's own six pairings"),
+        ("peyyāla", "an elision mark &mdash; here compressing an "
+                     "entire six-discourse set to a single opening "
+                     "pairing with no explicit editorial note"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The complete merged file: the opening pairing "
+        "(gladdening and supports) and its own bare closing marker. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.35-40:1.1-1.2"),
+        ("p", "&sect;2", "sn34.35-40:1.9"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Six — SN 34.35 through SN 34.40", "Seven", "Forty-five", "One"],
+         "correct": 0,
+         "expl": "Gladdening's own combinatorial set against the six qualities that follow it."},
+        {"q": "Which pairing is given in full at the start of this file?",
+         "opts": ["Gladdening and supports", "Gladdening and emerging", "Gladdening and territory",
+                  "Supports and territory"],
+         "correct": 0,
+         "expl": "The only pairing spelled out before compression takes over."},
+        {"q": "How does this file's compression compare to SN 34.20–27's and SN 34.28–34's own?",
+         "opts": ["Tighter — it drops even the explicit \"told in full\" editorial pointer", "Identical in scope",
+                  "Looser, with more content preserved", "This file contains no compression at all"],
+         "correct": 0,
+         "expl": "The source trusting the reader's own familiarity with this saṃyutta's pattern by this point."},
+        {"q": "How many discourses does gladdening's own combinatorial set span?",
+         "opts": ["Six, continuing the shrinking sequence after nine, eight, and seven",
+                  "Nine, identical to entering's own set", "Eight", "Forty-five"],
+         "correct": 0,
+         "expl": "Exactly as predicted by this saṃyutta's own triangular structure."},
+        {"q": "How many of this saṃyutta's own ten combinatorial anchors are complete after this file?",
+         "opts": ["Four — entering, remaining, emerging, and gladdening", "Ten, all of them",
+                  "One", "Six"],
+         "correct": 0,
+         "expl": "Six more anchors still to come."},
+    ],
+    marginalia=[
+        ("Compression, one notch tighter", [
+            "no explicit \"told in full\" note now &mdash;",
+            "just the opening pairing and a bare marker",
+        ]),
+        ("A fourth anchor, three discourses smaller", [
+            "nine, eight, seven, now six &mdash;",
+            "the shrinking sequence continuing",
+        ]),
+        ("Supports, the sole surviving pairing", [
+            "gladdening paired against supports &mdash;",
+            "the rest left entirely to inference",
+        ]),
+        ("Four anchors done, six to go", [
+            "entering through gladdening complete &mdash;",
+            "territory still ahead as the next anchor",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.35-40/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.28-34.html">SN 34.28&ndash;34 &middot; Seven '
+        "on Emergence and Gladdening, Etc.</a> &mdash; the previous "
+        "page, emerging's own combinatorial set.",
+        '<a href="sn-34.41-45.html">SN 34.41&ndash;45 &middot; Five '
+        "on Support and Territory, Etc.</a> &mdash; the next page, "
+        "opening supports' own combinatorial set.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.41–45 — Ārammaṇamūlakagocarasuttādipañcaka
+# --------------------------------------------------------------------------- #
+page_range(
+    34, 41, 45, "Ārammaṇamūlakagocarādi", "Five on Support and "
+    "Territory, Etc.",
+    vagga="Jhānavagga",
+    meta_title="SN 34.41–45 · Five on Support and Territory, Etc. | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 34.41 through "
+        "34.45 &mdash; five discourses, preserved in the source as a "
+        "single peyyāla block, pairing supports against each of the "
+        "five qualities that follow it. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "Five discourses compressed into a single file, "
+                 "matching SN 34.35&ndash;40's own minimal shape"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial once SN 34.35&ndash;40's own pattern "
+                       "is understood"),
+    ],
+    why=(
+        "This merged file opens supports' own combinatorial set, "
+        "pairing ārammaṇa (\"supports\") against each of the five "
+        "qualities that follow it &mdash; territory, projecting, "
+        "carefulness, persistence, and conducive &mdash; continuing "
+        "this saṃyutta's own shrinking pattern at exactly the scale "
+        "predicted."
+    ),
+    guide=[
+        ("The fifth combinatorial anchor, halfway through the sequence", [
+            "With entering, remaining, emerging, and gladdening's own "
+            "anchor sets already complete, supports opens the fifth "
+            "of this saṃyutta's own ten combinatorial anchors, "
+            "roughly the halfway point of the full ten-anchor "
+            "sequence.",
+        ]),
+        ("Territory, the sole surviving pairing", [
+            "\"One meditator is skilled in the supports for immersion "
+            "but not in the territory of immersion …\" &mdash; the "
+            "only pairing given in full, matching SN "
+            "34.35&ndash;40's own minimal shape.",
+        ]),
+        ("The same tight compression as the previous file", [
+            "As at SN 34.35&ndash;40, this file drops the explicit "
+            "\"told in full\" instruction, preserving only the "
+            "opening pairing and a bare closing marker.",
+        ]),
+        ("Five of ten anchors complete, five more still to come", [
+            "SN 34.46&ndash;49 will open territory's own "
+            "combinatorial set next, continuing the shrinking "
+            "sequence at four discourses.",
+        ]),
+    ],
+    terms=[
+        ("ārammaṇa", "supports &mdash; this combinatorial set's own "
+                      "shared anchor quality"),
+        ("gocara", "territory &mdash; the first quality named in "
+                    "this file, paired against supports"),
+        ("kallita", "gladdening &mdash; already paired with supports "
+                     "at SN 34.35&ndash;40, excluded from this file's "
+                     "own five pairings"),
+        ("peyyāla", "an elision mark &mdash; here compressing an "
+                     "entire five-discourse set to a single opening "
+                     "pairing with no explicit editorial note"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The complete merged file: the opening pairing "
+        "(supports and territory) and its own bare closing marker. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.41-45:1.1-1.2"),
+        ("p", "&sect;2", "sn34.41-45:1.9"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Five — SN 34.41 through SN 34.45", "Six", "Forty-five", "One"],
+         "correct": 0,
+         "expl": "Supports' own combinatorial set against the five qualities that follow it."},
+        {"q": "Which pairing is given in full at the start of this file?",
+         "opts": ["Supports and territory", "Supports and gladdening", "Territory and projecting",
+                  "Supports and conducive"],
+         "correct": 0,
+         "expl": "The only pairing spelled out before compression takes over."},
+        {"q": "Roughly where does this discourse fall in this saṃyutta's own ten-anchor sequence?",
+         "opts": ["The fifth anchor, roughly the halfway point", "The very first anchor",
+                  "The very last anchor", "Not part of the anchor sequence at all"],
+         "correct": 0,
+         "expl": "Entering, remaining, emerging, and gladdening are already complete."},
+        {"q": "How does this file's compression compare to SN 34.35–40's own?",
+         "opts": ["Matches it — the same minimal shape, no explicit editorial pointer", "Considerably fuller",
+                  "Considerably more compressed still", "Entirely different in structure"],
+         "correct": 0,
+         "expl": "Only the opening pairing and a bare closing marker survive."},
+        {"q": "What opens next, at SN 34.46–49?",
+         "opts": ["Territory's own combinatorial set, four discourses", "A return to entering's own set",
+                  "The saṃyutta's own closing colophon", "An entirely unrelated saṃyutta"],
+         "correct": 0,
+         "expl": "Continuing the shrinking sequence one discourse smaller."},
+    ],
+    marginalia=[
+        ("The fifth anchor, roughly halfway", [
+            "supports, opening a new set &mdash;",
+            "five of ten anchors now underway",
+        ]),
+        ("Territory, the sole surviving pairing", [
+            "supports paired against territory &mdash;",
+            "the rest left entirely to inference",
+        ]),
+        ("The same tight compression continues", [
+            "no explicit \"told in full\" note &mdash;",
+            "matching SN 34.35–40's own shape",
+        ]),
+        ("Five down, five to go", [
+            "entering through supports complete &mdash;",
+            "territory still ahead as the next anchor",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.41-45/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.35-40.html">SN 34.35&ndash;40 &middot; Six '
+        "on Gladdening and Support, Etc.</a> &mdash; the previous "
+        "page, gladdening's own combinatorial set.",
+        '<a href="sn-34.46-49.html">SN 34.46&ndash;49 &middot; Four '
+        "on Territory and Projection, Etc.</a> &mdash; the next page, "
+        "opening territory's own combinatorial set.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.46–49 — Gocaramūlakaabhinīhārasuttādicatukka
+# --------------------------------------------------------------------------- #
+page_range(
+    34, 46, 49, "Gocaramūlakaabhinīhārādi", "Four on Territory and "
+    "Projection, Etc.",
+    vagga="Jhānavagga",
+    meta_title="SN 34.46–49 · Four on Territory and Projection, Etc. "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 34.46 through "
+        "34.49 &mdash; four discourses, preserved in the source with "
+        "each sub-discourse keeping its own individual key prefix, "
+        "pairing territory against each of the four qualities that "
+        "follow it. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "Four discourses, each keeping its own individual "
+                 "key prefix rather than sharing one unified prefix"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial once SN 34.41&ndash;45's own pattern "
+                       "is understood"),
+    ],
+    why=(
+        "This merged file opens territory's own combinatorial set, "
+        "pairing gocara (\"territory\") against each of the four "
+        "qualities that follow it &mdash; projecting, carefulness, "
+        "persistence, and conducive. Unlike the unified-prefix "
+        "encoding at SN 34.20&ndash;45, bilara-data switches back "
+        "here to per-sutta-prefix encoding, each of this file's four "
+        "sub-discourses keeping its own individual key &mdash; the "
+        "same mixed-encoding pattern already observed within "
+        "Vacchagottasaṃyutta."
+    ),
+    guide=[
+        ("A return to per-sutta-prefix encoding", [
+            "Each of this file's four sub-discourses (sn34.46:, "
+            "sn34.47:, sn34.48:, sn34.49:) keeps its own individual "
+            "key prefix, rather than sharing SN 34.20&ndash;45's own "
+            "unified-prefix convention &mdash; confirming this "
+            "saṃyutta, like SN 33 before it, mixes both known "
+            "encoding conventions across its own merged files.",
+        ]),
+        ("Four pairings, three given some surviving content", [
+            "Unlike SN 34.35&ndash;45's own single-pairing-only shape, "
+            "this file preserves a full opening line for the first "
+            "three sub-discourses (projecting, carefulness, "
+            "persistence), with only the fourth (conducive) reduced "
+            "to its own bare pairing.",
+        ]),
+        ("Sixth of ten anchors, four more still to come", [
+            "With entering, remaining, emerging, gladdening, and "
+            "supports all complete, territory opens the sixth of this "
+            "saṃyutta's own ten combinatorial anchors.",
+        ]),
+        ("A four-discourse set, matching the -kārī trio's own scale", [
+            "Territory's own remaining pairings (projecting, "
+            "carefulness, persistence, conducive) happen to include "
+            "all three members of this saṃyutta's -kārī cluster, "
+            "confirming that cluster's own three qualities sit "
+            "consecutively at the end of this saṃyutta's ten-quality "
+            "list.",
+        ]),
+    ],
+    terms=[
+        ("gocara", "territory &mdash; this combinatorial set's own "
+                    "shared anchor quality"),
+        ("abhinīhāra", "projecting &mdash; the first quality named in "
+                        "this file, paired against territory"),
+        ("ārammaṇa", "supports &mdash; already paired with territory "
+                      "at SN 34.41&ndash;45, excluded from this "
+                      "file's own four pairings"),
+        ("sappāyakārī", "doing what's conducive &mdash; the fourth "
+                         "and final quality named in this file, "
+                         "closing territory's own set"),
+        ("peyyāla", "an elision mark &mdash; here compressing four "
+                     "sub-discourses, three with partial surviving "
+                     "content"),
+    ],
+    text_intro=("The complete merged file: territory paired against "
+        "projecting, carefulness, persistence, and conducive, exactly "
+        "as bilara-data preserves each. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.46:1.1-1.2"),
+        ("p", "&sect;2", "sn34.47:1.1"),
+        ("p", "&sect;3", "sn34.47:1.2"),
+        ("p", "&sect;4", "sn34.48:1.1"),
+        ("p", "&sect;5", "sn34.49:1.1"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Four — SN 34.46 through SN 34.49", "Five", "Forty-five", "One"],
+         "correct": 0,
+         "expl": "Territory's own combinatorial set against the four qualities that follow it."},
+        {"q": "How does this file's key encoding compare to SN 34.20–45's own?",
+         "opts": ["A return to per-sutta-prefix encoding, each sub-discourse keeping its own individual key",
+                  "Identical unified-prefix encoding", "No encoding convention at all",
+                  "A brand new third encoding scheme"],
+         "correct": 0,
+         "expl": "Confirming this saṃyutta mixes both known encoding conventions, as SN 33 did before it."},
+        {"q": "Which qualities does territory pair against in this file?",
+         "opts": ["Projecting, carefulness, persistence, and conducive", "Entering, remaining, emerging, and gladdening",
+                  "Only projecting, with the rest omitted entirely", "Supports and gocara itself"],
+         "correct": 0,
+         "expl": "The four qualities that follow territory in this saṃyutta's own sequence."},
+        {"q": "What do these four qualities happen to include, confirming an earlier observation?",
+         "opts": ["All three members of this saṃyutta's -kārī cluster, sitting consecutively at the list's end",
+                  "None of the -kārī cluster's members", "Only two of the three -kārī qualities",
+                  "A cluster unrelated to the -kārī suffix"],
+         "correct": 0,
+         "expl": "Confirming those three qualities' own consecutive position in the full ten-quality list."},
+        {"q": "How many of this saṃyutta's own ten combinatorial anchors are complete after this file?",
+         "opts": ["Six — entering, remaining, emerging, gladdening, supports, and territory", "Ten, all of them",
+                  "Four", "One"],
+         "correct": 0,
+         "expl": "Four more anchors still to come."},
+    ],
+    marginalia=[
+        ("Per-sutta prefixes, once more", [
+            "sn34.46, sn34.47, sn34.48 ... &mdash;",
+            "matching SN 33's own mixed-encoding pattern",
+        ]),
+        ("More surviving content than the last two files", [
+            "three of four pairings partially preserved &mdash;",
+            "not just a single opening line",
+        ]),
+        ("Sixth of ten anchors", [
+            "entering through territory now complete &mdash;",
+            "projecting still ahead as the next anchor",
+        ]),
+        ("The -kārī cluster, confirmed consecutive", [
+            "carefulness, persistence, conducive &mdash;",
+            "all three sitting at the list's own end",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.46-49/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.41-45.html">SN 34.41&ndash;45 &middot; Five '
+        "on Support and Territory, Etc.</a> &mdash; the previous "
+        "page, supports' own combinatorial set.",
+        '<a href="sn-34.50-52.html">SN 34.50&ndash;52 &middot; Three '
+        "on Projection and Carefulness</a> &mdash; the next page, "
+        "opening projecting's own combinatorial set.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.50–52 — Abhinīhāramūlakasakkaccasuttāditika
+# --------------------------------------------------------------------------- #
+page_range(
+    34, 50, 52, "Abhinīhāramūlakasakkaccādi", "Three on Projection and "
+    "Carefulness",
+    vagga="Jhānavagga",
+    meta_title="SN 34.50–52 · Three on Projection and Carefulness | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 34.50 through "
+        "34.52 &mdash; three discourses pairing projecting against "
+        "each of the three remaining -kārī qualities. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "Three discourses, each keeping its own individual "
+                 "key prefix, matching SN 34.46&ndash;49's own "
+                 "encoding"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial once SN 34.46&ndash;49's own pattern "
+                       "is understood"),
+    ],
+    why=(
+        "This merged file opens projecting's own combinatorial set, "
+        "pairing abhinīhāra (\"projecting\") against each of the "
+        "three qualities that follow it &mdash; all three members of "
+        "this saṃyutta's own -kārī cluster: carefulness, persistence, "
+        "and conducive."
+    ),
+    guide=[
+        ("Projecting meets the entire -kārī cluster", [
+            "With this file, projecting is paired in turn against "
+            "carefulness, persistence, and conducive &mdash; the same "
+            "three qualities already confirmed at SN 34.46&ndash;49 "
+            "to sit consecutively at this saṃyutta's own list's end.",
+        ]),
+        ("Per-sutta-prefix encoding, matching the previous file", [
+            "As at SN 34.46&ndash;49, each of this file's three "
+            "sub-discourses (sn34.50:, sn34.51:, sn34.52:) keeps its "
+            "own individual key prefix.",
+        ]),
+        ("Seventh of ten anchors, three more still to come", [
+            "With entering, remaining, emerging, gladdening, "
+            "supports, and territory all complete, projecting opens "
+            "the seventh of this saṃyutta's own ten combinatorial "
+            "anchors.",
+        ]),
+        ("The countdown nearing its own end", [
+            "After this file, only two anchor sets remain: "
+            "carefulness's own two pairings (SN 34.53&ndash;54) and "
+            "persistence's own single pairing (SN 34.55), the last "
+            "of which closes this entire saṃyutta.",
+        ]),
+    ],
+    terms=[
+        ("abhinīhāra", "projecting &mdash; this combinatorial set's "
+                        "own shared anchor quality"),
+        ("sakkaccakārī", "practicing carefully &mdash; the first "
+                          "quality named in this file, paired against "
+                          "projecting"),
+        ("sātaccakārī", "practicing persistently &mdash; the second "
+                         "quality named in this file"),
+        ("sappāyakārī", "doing what's conducive &mdash; the third and "
+                         "final quality named in this file, closing "
+                         "projecting's own set"),
+        ("peyyāla", "an elision mark &mdash; here compressing three "
+                     "sub-discourses, each preserving only its own "
+                     "opening line"),
+    ],
+    text_intro=("The complete merged file: projecting paired against "
+        "carefulness, persistence, and conducive, exactly as bilara-"
+        "data preserves each. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.50:1.1-1.2"),
+        ("p", "&sect;2", "sn34.51:1.1"),
+        ("p", "&sect;3", "sn34.52:1.1"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Three — SN 34.50 through SN 34.52", "Four", "Forty-five", "One"],
+         "correct": 0,
+         "expl": "Projecting's own combinatorial set against the three qualities that follow it."},
+        {"q": "Which qualities does projecting pair against in this file?",
+         "opts": ["Carefulness, persistence, and conducive — all three members of the -kārī cluster",
+                  "Entering, remaining, and emerging", "Only carefulness, with the rest omitted",
+                  "Territory and supports"],
+         "correct": 0,
+         "expl": "The three qualities that follow projecting in this saṃyutta's own sequence."},
+        {"q": "What key encoding does this file use?",
+         "opts": ["Per-sutta-prefix encoding, matching SN 34.46–49's own convention",
+                  "Unified-prefix encoding, matching SN 34.20–45's own convention",
+                  "No prefix convention at all", "A brand new encoding scheme"],
+         "correct": 0,
+         "expl": "Each sub-discourse keeping its own individual key."},
+        {"q": "How many of this saṃyutta's own ten combinatorial anchors are complete after this file?",
+         "opts": ["Seven — entering, remaining, emerging, gladdening, supports, territory, and projecting",
+                  "Ten, all of them", "Three", "One"],
+         "correct": 0,
+         "expl": "Three more anchors still to come."},
+        {"q": "What two anchor sets remain after this file, closing this entire saṃyutta?",
+         "opts": ["Carefulness's own two pairings, then persistence's own single closing pairing",
+                  "A return to entering's own set", "An entirely new set of qualities", "Nothing — this file is the last"],
+         "correct": 0,
+         "expl": "SN 34.53–54 and SN 34.55, the latter closing the whole saṃyutta and Book III."},
+    ],
+    marginalia=[
+        ("Projecting meets the -kārī trio", [
+            "carefulness, persistence, conducive &mdash;",
+            "all three qualities paired here in turn",
+        ]),
+        ("The same per-sutta encoding", [
+            "sn34.50, sn34.51, sn34.52 &mdash;",
+            "matching SN 34.46–49's own convention",
+        ]),
+        ("Seventh of ten anchors", [
+            "only three anchor sets left &mdash;",
+            "carefulness, persistence, then the close",
+        ]),
+        ("The countdown nearing its own end", [
+            "three, then two, then one &mdash;",
+            "the triangular structure almost complete",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.50-52/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.46-49.html">SN 34.46&ndash;49 &middot; Four '
+        "on Territory and Projection, Etc.</a> &mdash; the previous "
+        "page, territory's own combinatorial set.",
+        '<a href="sn-34.53-54.html">SN 34.53&ndash;54 &middot; Two '
+        "on Carefulness and Persistence</a> &mdash; the next page, "
+        "opening carefulness's own combinatorial set.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.53–54 — Sakkaccamūlakasātaccakārīsuttadukādi
+# --------------------------------------------------------------------------- #
+page_range(
+    34, 53, 54, "Sakkaccamūlakasātaccakārī", "Two on Carefulness and "
+    "Persistence",
+    vagga="Jhānavagga",
+    meta_title="SN 34.53–54 · Two on Carefulness and Persistence | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 34.53 through "
+        "34.54 &mdash; two discourses pairing carefulness against "
+        "persistence and conducive, the second-to-last combinatorial "
+        "anchor set. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "Two discourses, each keeping its own individual "
+                 "key prefix, matching SN 34.46&ndash;52's own "
+                 "encoding"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial once SN 34.50&ndash;52's own pattern "
+                       "is understood"),
+    ],
+    why=(
+        "This merged file opens carefulness's own combinatorial set, "
+        "pairing sakkaccakārī (\"practicing carefully\") against the "
+        "two qualities that follow it &mdash; persistence and "
+        "conducive. With only two pairings remaining after this file "
+        "closes, this saṃyutta's own triangular countdown "
+        "(9+8+7+6+5+4+3+2+1) has nearly reached its own final term."
+    ),
+    guide=[
+        ("The second-to-last combinatorial anchor set", [
+            "With entering, remaining, emerging, gladdening, "
+            "supports, territory, and projecting all complete, "
+            "carefulness opens the ninth of this saṃyutta's own ten "
+            "combinatorial anchors, pairing against only two "
+            "remaining qualities.",
+        ]),
+        ("Two qualities from the same -kārī cluster, paired against each other", [
+            "This file pairs carefulness against persistence "
+            "(sātaccakārī) and conducive (sappāyakārī) &mdash; all "
+            "three members of this saṃyutta's own -kārī cluster now "
+            "systematically paired against each other in turn, "
+            "completing that small family's own internal "
+            "combinations.",
+        ]),
+        ("Per-sutta-prefix encoding, unbroken through this saṃyutta's own closing stretch", [
+            "As at SN 34.46&ndash;52, each of this file's two sub-"
+            "discourses (sn34.53:, sn34.54:) keeps its own individual "
+            "key prefix.",
+        ]),
+        ("One pairing left, closing this entire saṃyutta", [
+            "After this file, only a single combination remains "
+            "&mdash; persistence paired against conducive &mdash; "
+            "closing this saṃyutta's own triangular countdown at SN "
+            "34.55, the same discourse that closes Jhānasaṃyutta and "
+            "Book III itself.",
+        ]),
+    ],
+    terms=[
+        ("sakkaccakārī", "practicing carefully &mdash; this "
+                          "combinatorial set's own shared anchor "
+                          "quality"),
+        ("sātaccakārī", "practicing persistently &mdash; the first "
+                         "quality named in this file, paired against "
+                         "carefulness"),
+        ("sappāyakārī", "doing what's conducive &mdash; the second "
+                         "and final quality named in this file, "
+                         "closing carefulness's own set"),
+        ("peyyāla", "an elision mark &mdash; here compressing two "
+                     "sub-discourses, each preserving only its own "
+                     "opening line"),
+        ("jhāyī", "meditator &mdash; the general term for the four "
+                   "types this discourse classifies, by cross-"
+                   "reference to SN 34.1"),
+    ],
+    text_intro=("The complete merged file: carefulness paired against "
+        "persistence and conducive, exactly as bilara-data preserves "
+        "each. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.53:1.1-1.2"),
+        ("p", "&sect;2", "sn34.54:1.1"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Two — SN 34.53 through SN 34.54", "Three", "Forty-five", "One"],
+         "correct": 0,
+         "expl": "Carefulness's own combinatorial set against the two qualities that follow it."},
+        {"q": "Which qualities does carefulness pair against in this file?",
+         "opts": ["Persistence and conducive — the remaining two members of the -kārī cluster",
+                  "Entering and remaining", "Territory and projecting", "Only persistence, with conducive omitted"],
+         "correct": 0,
+         "expl": "Completing the -kārī cluster's own internal combinations."},
+        {"q": "What key encoding does this file use?",
+         "opts": ["Per-sutta-prefix encoding, matching SN 34.46–52's own convention",
+                  "Unified-prefix encoding", "No prefix convention at all", "A brand new encoding scheme"],
+         "correct": 0,
+         "expl": "Unbroken through this saṃyutta's own closing stretch."},
+        {"q": "How many of this saṃyutta's own ten combinatorial anchors are complete after this file?",
+         "opts": ["Nine — every anchor except persistence's own final pairing", "Ten, all of them",
+                  "Two", "One"],
+         "correct": 0,
+         "expl": "Only one combination remains after this file."},
+        {"q": "What single pairing remains after this file, closing the entire saṃyutta?",
+         "opts": ["Persistence paired against conducive, at SN 34.55", "A repeat of entering and remaining",
+                  "An entirely new, previously unnamed quality", "No pairing remains — this file is the last"],
+         "correct": 0,
+         "expl": "The same discourse that closes Jhānasaṃyutta and Book III itself."},
+    ],
+    marginalia=[
+        ("The second-to-last anchor set", [
+            "carefulness, paired against two &mdash;",
+            "the ninth of ten combinatorial anchors",
+        ]),
+        ("The -kārī cluster, paired within itself", [
+            "carefulness, persistence, conducive &mdash;",
+            "all three now combined against each other",
+        ]),
+        ("Per-sutta prefixes, still holding", [
+            "sn34.53, sn34.54 &mdash;",
+            "matching this saṃyutta's own closing stretch",
+        ]),
+        ("One combination left", [
+            "persistence against conducive, still to come &mdash;",
+            "closing this entire saṃyutta at SN 34.55",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.53-54/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.50-52.html">SN 34.50&ndash;52 &middot; Three '
+        "on Projection and Carefulness</a> &mdash; the previous page, "
+        "projecting's own combinatorial set.",
+        '<a href="sn-34.55.html">SN 34.55 &middot; Persistence and '
+        "What&rsquo;s Conducive</a> &mdash; the next and final "
+        "discourse, closing this entire saṃyutta and Book III itself.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 34.55 — Sātaccamūlakasappāyakārīsutta
+# --------------------------------------------------------------------------- #
+page(
+    34, 55, "Sātaccamūlakasappāyakārī", "Persistence and "
+    "What&rsquo;s Conducive",
+    vagga="Jhānavagga",
+    meta_title="SN 34.55 — Persistence and What’s Conducive | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sātaccamūlakasappāyakārīsutta &mdash; the final "
+        "combination of this saṃyutta's own forty-five-pair matrix, "
+        "closing Jhānasaṃyutta and, with it, the entire Book of the "
+        "Aggregates (SN 22&ndash;34). From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The complete fourfold typology and cream-of-ghee "
+                 "simile, given in full for the last combination in "
+                 "this saṃyutta's own matrix"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in itself, but closes an unusually "
+                       "large structure worth appreciating in full"),
+    ],
+    why=(
+        "This discourse closes three nested structures at once: "
+        "SN 34.53&ndash;55's own final combinatorial anchor set, "
+        "Jhānasaṃyutta's own fifty-five-discourse matrix (ten "
+        "qualities, forty-five pairwise combinations, closing here "
+        "with persistence against conducive), and &mdash; because "
+        "Jhānasaṃyutta is Khandhavagga's own thirteenth and final "
+        "saṃyutta &mdash; Book III of the Saṃyutta Nikāya itself. "
+        "The Pāli text's own closing material makes all three levels "
+        "explicit: a vagga colophon, this saṃyutta's own colophon, a "
+        "second uddāna listing all thirteen saṃyuttas of Khandhavagga "
+        "by name, and the book's own final closing line, genuinely "
+        "translated as \"The Book of the Aggregates is finished.\""
+    ),
+    guide=[
+        ("The final cell of a forty-five-pair combinatorial matrix", [
+            "\"One meditator is skilled in practicing persistently "
+            "for immersion but not in doing what's conducive to it "
+            "…\" &mdash; the very last of forty-five combinations "
+            "this saṃyutta has worked through among its own ten "
+            "named qualities, given here in full, mirroring SN 34.1's "
+            "own opening treatment.",
+        ]),
+        ("Given in full, book-ending SN 34.1's own opening treatment", [
+            "Unlike most of this saṃyutta's own combinatorial "
+            "discourses, this one restates the complete fourfold "
+            "typology and the full cream-of-ghee simile, closing the "
+            "saṃyutta with the same fullness it opened with at SN "
+            "34.1&ndash;2.",
+        ]),
+        ("Two nested colophons, in careful sequence", [
+            "The untranslated Pāli text first gives \"Khandhavaggo "
+            "tatiyo\" (\"the Khandha book, the third, finished\") "
+            "&mdash; using vagga here in its highest sense, one of "
+            "the five great books of the entire Saṃyutta Nikāya, not "
+            "the smaller chapter-groupings seen inside individual "
+            "saṃyuttas. Then follows this saṃyutta's own uddāna "
+            "(naming all ten qualities in verse) and its own "
+            "colophon, \"Jhānasaṃyuttaṃ samattaṃ\" (\"the Linked "
+            "Discourses on Absorption are complete,\" genuinely "
+            "translated). Only after both of these does a second, "
+            "higher-level uddāna list all thirteen saṃyuttas of "
+            "Khandhavagga by name (Khandha, Rādha, Diṭṭhi, Okkanta, "
+            "Uppāda, Kilesa, Sāriputta, Nāga, Supaṇṇa, Gandhabba, "
+            "Valāha, Vaccha, Jhāna), closing with "
+            "\"Khandhavaggasaṃyuttapāḷi niṭṭhitā\" (\"The Book of the "
+            "Aggregates is finished,\" also genuinely translated).",
+        ]),
+        ("Thirteen saṃyuttas confirmed by the source itself", [
+            "This closing uddāna's own list of thirteen names "
+            "confirms, directly from the Pāli text rather than from "
+            "any external reference, that Book III (Khandhavagga) "
+            "consists of exactly the thirteen saṃyuttas this project "
+            "has worked through in sequence: SN 22 (Khandha) through "
+            "SN 34 (Jhāna).",
+        ]),
+        ("A milestone closing this project's coverage of Book III", [
+            "With this discourse, this project's coverage of "
+            "Khandhavagga (SN 22&ndash;34) is complete &mdash; the "
+            "second of the Saṃyutta Nikāya's five major books this "
+            "project has finished, after Nidānavagga (Book II), "
+            "before moving on to Saḷāyatanavagga (Book IV, beginning "
+            "at SN 35).",
+        ]),
+    ],
+    terms=[
+        ("sātaccakārī", "practicing persistently &mdash; the first "
+                         "quality in this discourse's own final "
+                         "pairing"),
+        ("sappāyakārī", "doing what's conducive &mdash; the second "
+                         "quality, closing this saṃyutta's own "
+                         "forty-five-pair matrix"),
+        ("Khandhavaggo tatiyo", "\"the Khandha book, the third, "
+                                 "finished\" &mdash; an untranslated "
+                                 "marker using vagga in its highest "
+                                 "sense, one of the five great books "
+                                 "of the Saṃyutta Nikāya, appearing "
+                                 "before this saṃyutta's own colophon"),
+        ("Jhānasaṁyuttaṁ samattaṁ", "\"the Linked Discourses on "
+                                     "Absorption are complete\" "
+                                     "&mdash; this saṃyutta's own "
+                                     "officially Sujato-translated "
+                                     "closing line"),
+        ("Khandhavaggasaṁyuttapāḷi niṭṭhitā", "\"the text of the "
+                                               "linked discourses of "
+                                               "the aggregates chapter "
+                                               "is finished\" &mdash; "
+                                               "rendered in English as "
+                                               "\"The Book of the "
+                                               "Aggregates is "
+                                               "finished,\" closing "
+                                               "Book III itself, whose "
+                                               "own preceding uddāna "
+                                               "names all thirteen "
+                                               "saṃyuttas from SN 22 "
+                                               "through SN 34"),
+    ],
+    text_intro=("The complete discourse, including the source's own "
+        "editorial arithmetic note, this saṃyutta's own translated "
+        "closing line, and Book III's own translated closing line. "
+        "The intervening untranslated vagga colophon, this "
+        "saṃyutta's own uddāna, and the higher-level thirteen-"
+        "saṃyutta uddāna are described above rather than quoted, "
+        "since the source itself leaves them untranslated. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn34.55:1.1-1.10"),
+        ("p", "&sect;2", "sn34.55:1.11-1.12"),
+        ("p", "&sect;3", "sn34.55:1.14"),
+        ("p", "&sect;4", "sn34.55:2.5"),
+        ("p", "&sect;5", "sn34.55:3.7"),
+    ],
+    quiz=[
+        {"q": "What two qualities does this discourse's own final combinatorial pairing involve?",
+         "opts": ["Persistence and doing what's conducive", "Entering and remaining",
+                  "Carefulness and territory", "Immersion and entering"],
+         "correct": 0,
+         "expl": "The very last of forty-five combinations among this saṃyutta's own ten named qualities."},
+        {"q": "How does this discourse's own treatment compare to most of this saṃyutta's combinatorial discourses?",
+         "opts": ["Given in full, restating the complete fourfold typology and simile, mirroring SN 34.1's own opening",
+                  "Even more compressed than the middle cycles", "Identical in compression to SN 34.20–54",
+                  "Entirely omitted, with only a colophon surviving"],
+         "correct": 0,
+         "expl": "Closing the saṃyutta with the same fullness it opened with."},
+        {"q": "How many structural levels does this discourse's own closing material address?",
+         "opts": ["Three — this saṃyutta's own close, a thirteen-saṃyutta list, and Book III's own close",
+                  "Only one — this saṃyutta's own close alone", "Four, including a fourth unrelated saṃyutta",
+                  "None — no closing material survives"],
+         "correct": 0,
+         "expl": "A vagga-level note, this saṃyutta's colophon, a higher uddāna, and the book's own final line."},
+        {"q": "How many saṃyuttas does the closing uddāna's own list confirm make up Khandhavagga (Book III)?",
+         "opts": ["Thirteen, from SN 22 (Khandha) through SN 34 (Jhāna)", "Twelve", "Fourteen", "Fifty-five"],
+         "correct": 0,
+         "expl": "Confirmed directly from the Pāli text's own closing verse, not from any external reference."},
+        {"q": "What does the officially translated final line of this discourse say?",
+         "opts": ["\"The Book of the Aggregates is finished\"", "\"The Linked Discourses on Absorption are complete\" only",
+                  "No book-level closing line is translated in the source", "\"The ten qualities are now exhausted\""],
+         "correct": 0,
+         "expl": "Genuinely translated by Sujato, closing Book III itself, quoted verbatim in this page's text."},
+        {"q": "What milestone does this discourse mark for this project's own coverage?",
+         "opts": ["The completion of Khandhavagga (SN 22–34), this project's second of the Saṃyutta Nikāya's five major books",
+                  "The completion of the entire Saṃyutta Nikāya", "The very first book this project has completed",
+                  "No particular milestone — coverage continues unchanged"],
+         "correct": 0,
+         "expl": "Before moving on to Saḷāyatanavagga, Book IV, beginning at SN 35."},
+    ],
+    marginalia=[
+        ("The final cell of forty-five", [
+            "persistence against conducive &mdash;",
+            "the last of this saṃyutta's own combinations",
+        ]),
+        ("Full treatment, closing as it opened", [
+            "the complete typology and simile again &mdash;",
+            "mirroring SN 34.1's own opening fullness",
+        ]),
+        ("Three colophons, nested together", [
+            "this saṃyutta's close, then a book's own close &mdash;",
+            "both genuinely translated, quoted verbatim",
+        ]),
+        ("Thirteen saṃyuttas, confirmed by the text itself", [
+            "Khandha through Jhāna, named in the uddāna &mdash;",
+            "Book III's own contents, stated explicitly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn34.55/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-34.53-54.html">SN 34.53&ndash;54 &middot; Two on '
+        "Carefulness and Persistence</a> &mdash; the previous page, "
+        "the second-to-last combinatorial anchor set.",
+        '<a href="sn-34.1.html">SN 34.1 &middot; Entering '
+        "Immersion</a> &mdash; this saṃyutta's own opening discourse, "
+        "whose fourfold typology and simile every later discourse, "
+        "including this closing one, ultimately builds on.",
+    ],
+)
