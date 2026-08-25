@@ -52567,3 +52567,998 @@ page_range(
         "closing one, ultimately builds on.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 31.1 — Suddhikasutta
+# --------------------------------------------------------------------------- #
+page(
+    31, 1, "Suddhika", "Plain Version",
+    vagga="Gandhabbavagga",
+    meta_title="SN 31.1 — Plain Version | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Suddhikasutta &mdash; opening Gandhabbakāyasaṃyutta with "
+        "a tenfold taxonomy of centaur-gods (gandhabbā), each class "
+        "dwelling in a different fragrant part of a tree. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                     "monastery"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A single flat statement naming ten classes of "
+                 "tree-dwelling gods, with no ranking and no "
+                 "narrative frame"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a straightforward list, easy to follow"),
+    ],
+    why=(
+        "This discourse opens Gandhabbakāyasaṃyutta (\"Linked "
+        "Discourses on Centaurs\") with a genuinely new taxonomy, "
+        "structurally distinct from Nāgasaṃyutta's and "
+        "Supaṇṇasaṃyutta's own fourfold birth-mode classification: "
+        "rather than four modes of reproduction, this discourse lists "
+        "ten classes of gandhabbā (centaur-gods, associated in Indian "
+        "myth with music and fragrance), each dwelling in a different "
+        "fragrant part of a tree &mdash; roots, heartwood, softwood, "
+        "bark, shoots, leaves, flowers, fruit, sap, and scents. This "
+        "tenfold structure, not the fourfold one, is what the rest of "
+        "this saṃyutta's 111 remaining discourses build on."
+    ),
+    guide=[
+        ("Ten dwelling-places, not four birth-modes", [
+            "\"There are gods who live in fragrant roots, fragrant "
+            "heartwood, fragrant softwood, fragrant bark, fragrant "
+            "shoots, fragrant leaves, fragrant flowers, fragrant "
+            "fruit, fragrant sap, and fragrant scents\" &mdash; a "
+            "tenfold list organized by which part of a fragrant tree "
+            "each class of god inhabits, not by mode of "
+            "reproduction as at SN 29&ndash;30.",
+        ]),
+        ("Gandhabbā, music and fragrance both", [
+            "Gandhabbā (\"centaurs\" in this translation) are "
+            "traditionally associated with both celestial music and "
+            "fragrance in Indian myth; this discourse's own list "
+            "leans entirely into the fragrance association, naming "
+            "gods defined purely by which aromatic part of a tree "
+            "they occupy.",
+        ]),
+        ("A tenfold structure this saṃyutta's remaining discourses assume", [
+            "As with SN 29.1's fourfold taxonomy and SN 30.1's own "
+            "restatement of it, every one of the remaining 111 "
+            "discourses in this saṃyutta takes this tenfold division "
+            "for granted rather than restating it in full, making "
+            "this short opening discourse this saṃyutta's own "
+            "structural foundation.",
+        ]),
+        ("Setting the scale for what follows", [
+            "Because this taxonomy has ten categories rather than "
+            "four, the giving-formula discourses later in this "
+            "saṃyutta (SN 31.13&ndash;112) will span ninety "
+            "discourses where Nāgasaṃyutta's and Supaṇṇasaṃyutta's "
+            "equivalent sets spanned only thirty and forty &mdash; a "
+            "direct consequence of this discourse's own tenfold "
+            "opening list.",
+        ]),
+    ],
+    terms=[
+        ("gandhabba", "\"centaur\" in this translation &mdash; a "
+                       "class of celestial being traditionally "
+                       "associated with music and fragrance"),
+        ("sāragandha", "fragrant heartwood &mdash; the second of the "
+                        "ten dwelling-places named here"),
+        ("mūlagandha", "fragrant roots &mdash; the first of the ten "
+                        "dwelling-places, and the subject of SN 31.3's "
+                        "own full treatment"),
+        ("gandhagandha", "fragrant scents themselves &mdash; the "
+                          "tenth and final dwelling-place named"),
+        ("devā", "gods &mdash; the general term this discourse uses "
+                  "for the gandhabbā throughout"),
+    ],
+    text_intro=("The discourse in full &mdash; genuinely this short "
+        "in the source, a single flat tenfold taxonomy. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn31.1:1.1-1.16"),
+    ],
+    quiz=[
+        {"q": "How many classes of gandhabbā (centaur-gods) does this discourse name?",
+         "opts": ["Ten, one per fragrant part of a tree", "Four, matching SN 29's and SN 30's own taxonomy",
+                  "Only two", "Twelve"],
+         "correct": 0,
+         "expl": "A genuinely different structure from Nāgasaṃyutta's and Supaṇṇasaṃyutta's own fourfold birth-mode taxonomy."},
+        {"q": "What organizes this discourse's tenfold list?",
+         "opts": ["Which part of a fragrant tree each class of god dwells in",
+                  "Each god's mode of reproduction", "Each god's lifespan", "Each god's musical instrument"],
+         "correct": 0,
+         "expl": "Roots, heartwood, softwood, bark, shoots, leaves, flowers, fruit, sap, and scents."},
+        {"q": "What two things are gandhabbā traditionally associated with in Indian myth?",
+         "opts": ["Music and fragrance", "War and conquest", "Agriculture and rain", "Writing and knowledge"],
+         "correct": 0,
+         "expl": "This discourse's own list leans entirely into the fragrance association."},
+        {"q": "How do the remaining 111 discourses of this saṃyutta treat this tenfold taxonomy?",
+         "opts": ["They assume it without restating it in full",
+                  "They each introduce a new, different taxonomy", "They reduce it to only two classes",
+                  "They ignore gandhabbā entirely after this discourse"],
+         "correct": 0,
+         "expl": "This short opening discourse functions as the saṃyutta's own structural foundation."},
+        {"q": "Why does this saṃyutta's later giving-formula set (SN 31.13–112) span ninety discourses, more than Nāgasaṃyutta's or Supaṇṇasaṃyutta's own equivalent sets?",
+         "opts": ["Because this discourse's taxonomy has ten categories rather than four",
+                  "Because gandhabbā require more elaborate gifts than dragons or phoenixes",
+                  "It is simply a scribal error", "Because this saṃyutta covers a longer time span"],
+         "correct": 0,
+         "expl": "A direct structural consequence of this opening discourse's own tenfold list."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery", "Rājagaha, the Bamboo Grove",
+                  "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Given in full here, unlike most of this saṃyutta's other, more abbreviated discourses."},
+    ],
+    marginalia=[
+        ("Ten dwellings, not four births", [
+            "roots, heartwood, ... scents &mdash;",
+            "a genuinely new organizing structure",
+        ]),
+        ("Music and fragrance, one leaned into", [
+            "gandhabbā traditionally both &mdash;",
+            "this list names only the fragrant half",
+        ]),
+        ("The foundation this saṃyutta assumes", [
+            "111 discourses still to come &mdash;",
+            "none restate this opening taxonomy",
+        ]),
+        ("Ten categories, ninety discourses later", [
+            "this list's own scale, felt downstream &mdash;",
+            "SN 31.13–112's own larger giving set",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn31.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-30.17-46.html">SN 30.17&ndash;46 &middot; How '
+        "Giving Helps to Become Womb-Born, Etc.</a> &mdash; the "
+        "previous page, closing Supaṇṇasaṃyutta.",
+        '<a href="sn-31.2.html">SN 31.2 &middot; Good Conduct</a> '
+        "&mdash; the next discourse, shifting to hearsay-driven "
+        "aspiration toward the gandhabba realm.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 31.2 — Sucaritasutta
+# --------------------------------------------------------------------------- #
+page(
+    31, 2, "Sucarita", "Good Conduct",
+    vagga="Gandhabbavagga",
+    meta_title="SN 31.2 — Good Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sucaritasutta &mdash; someone aspiring to rebirth among "
+        "the gandhabbā generally, on the strength of good conduct "
+        "alone rather than SN 29's and SN 30's own mixed conduct. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "A mendicant questions the Buddha, who answers "
+                     "by describing an unnamed aspirant's own "
+                     "reasoning"),
+        ("Form", "A question-and-answer dialogue tracing hearsay to "
+                 "aspiration to rebirth, with no specific "
+                 "dwelling-place named"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a plain causal chain, easy to follow"),
+    ],
+    why=(
+        "This discourse opens Gandhabbakāyasaṃyutta's second "
+        "motivational register, and its own title already signals a "
+        "genuine formula change from SN 29 and SN 30: where dragons "
+        "and phoenixes were both reborn through dvayakārī (\"doing "
+        "both kinds of deeds,\" ordinary mixed conduct), this "
+        "discourse's aspirant does sucaritaṁ &mdash; good conduct "
+        "alone &mdash; by body, speech, and mind. The discourse also "
+        "targets the gandhabba realm generally, with no specific "
+        "dwelling-place named, leaving that specificity to SN "
+        "31.3&ndash;12's own set."
+    ),
+    guide=[
+        ("A genuine formula change: good conduct, not mixed conduct", [
+            "\"It's when someone does good things (sucaritaṁ) by "
+            "way of body, speech, and mind\" &mdash; a real "
+            "departure from SN 29.7's and SN 30.3's own dvayakārī "
+            "(\"both kinds of deeds\") formula, suggesting rebirth "
+            "among gandhabbā is associated with a purer moral "
+            "profile than rebirth among dragons or phoenixes.",
+        ]),
+        ("The same hearsay-and-wish structure otherwise", [
+            "Apart from this one substitution, the discourse follows "
+            "the identical hearsay-and-wish structure already seen "
+            "at SN 29.7 and SN 30.3: hearing the destination's "
+            "reputation, forming the wish, and being reborn there.",
+        ]),
+        ("No specific dwelling-place named", [
+            "Unlike SN 31.3, which will specify root-dwelling gods "
+            "by name, this discourse aims only at \"the gods of the "
+            "centaur realm\" as a general category &mdash; a "
+            "deliberately unspecific companion to the ten "
+            "dwelling-specific discourses that follow.",
+        ]),
+        ("Opening this saṃyutta's own multi-stage giving theme", [
+            "This discourse's hearsay-and-wish frame, without any "
+            "act of giving attached, sets up SN 31.3 to add the "
+            "first of two entirely different giving registers this "
+            "saṃyutta will explore &mdash; matching-substance gifts "
+            "(SN 31.3&ndash;12) and the standard ten-item formula (SN "
+            "31.13&ndash;112).",
+        ]),
+    ],
+    terms=[
+        ("sucaritaṁ", "good conduct &mdash; this discourse's own "
+                       "title-word, replacing SN 29's and SN 30's "
+                       "own dvayakārī (\"both kinds of deeds\")"),
+        ("gandhabbakāyikā devā", "\"the gods of the centaur realm\" "
+                                  "&mdash; the general, unspecific "
+                                  "rebirth destination this discourse "
+                                  "targets"),
+        ("sutaṁ", "\"heard\" &mdash; the specific trigger for the "
+                   "aspirant's wish, matching SN 29.7's and SN 30.3's "
+                   "own formula"),
+        ("dīghāyukā vaṇṇavanto sukhabahulā", "\"long-lived, "
+                                              "beautiful, and very "
+                                              "happy\" &mdash; the "
+                                              "specific reputation "
+                                              "the aspirant has heard"),
+        ("aho vata", "\"if only\" &mdash; the aspirant's own wishful "
+                      "exclamation, quoted directly"),
+    ],
+    text_intro=("The complete discourse: the mendicant's question and "
+        "the aspirant's own reported hearsay-driven reasoning in "
+        "full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn31.2:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What kind of conduct does this discourse attribute to the aspirant?",
+         "opts": ["Good conduct alone (sucaritaṁ), a genuine change from SN 29's and SN 30's own mixed conduct",
+                  "Ordinary mixed conduct, identical to SN 29's and SN 30's own formula",
+                  "Exclusively harmful conduct", "No conduct is mentioned at all"],
+         "correct": 0,
+         "expl": "Suggesting rebirth among gandhabbā is associated with a purer moral profile."},
+        {"q": "What term did SN 29.7 and SN 30.3 use for the aspirant's conduct, which this discourse replaces?",
+         "opts": ["Dvayakārī — \"doing both kinds of deeds\"", "Sucaritaṁ — good conduct",
+                  "Duccaritaṁ — bad conduct", "No prior term existed"],
+         "correct": 0,
+         "expl": "This discourse's own title marks the substitution directly."},
+        {"q": "What specific dwelling-place does this discourse's aspirant aim to be reborn among?",
+         "opts": ["None specifically — only the gandhabba realm generally", "Fragrant roots specifically",
+                  "Fragrant scents specifically", "All ten dwelling-places simultaneously"],
+         "correct": 0,
+         "expl": "A deliberately unspecific companion to the ten dwelling-specific discourses that follow at SN 31.3–12."},
+        {"q": "Apart from the conduct term, how does this discourse's structure compare to SN 29.7's and SN 30.3's own?",
+         "opts": ["Identical — the same hearsay-and-wish structure", "Entirely different", "No relation at all",
+                  "This discourse omits the hearsay element entirely"],
+         "correct": 0,
+         "expl": "Hearing the destination's reputation, forming the wish, and being reborn there."},
+        {"q": "What does this discourse set up for SN 31.3 to add?",
+         "opts": ["A specific dwelling-place plus the first of two giving registers this saṃyutta explores",
+                  "A rejection of giving as a valid cause", "An entirely unrelated theme",
+                  "The end of this saṃyutta's coverage"],
+         "correct": 0,
+         "expl": "Matching-substance gifts at SN 31.3–12, and the standard ten-item formula at SN 31.13–112."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("A formula genuinely changed", [
+            "good conduct, not mixed conduct &mdash;",
+            "a purer profile for this rebirth",
+        ]),
+        ("The same hearsay, a new target", [
+            "long-lived, beautiful, very happy &mdash;",
+            "now heard of gandhabbā, not dragons",
+        ]),
+        ("Deliberately unspecific", [
+            "no dwelling-place named yet &mdash;",
+            "ten specific discourses still ahead",
+        ]),
+        ("Setting up two different giving registers", [
+            "matching gifts, then the standard ten &mdash;",
+            "both still to come in this saṃyutta",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn31.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-31.1.html">SN 31.1 &middot; Plain Version</a> '
+        "&mdash; the previous discourse, giving the tenfold "
+        "dwelling-place taxonomy.",
+        '<a href="sn-31.3.html">SN 31.3 &middot; A Giver of Fragrant '
+        "Roots</a> &mdash; the next discourse, adding both a specific "
+        "dwelling-place and a specific act of giving.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 31.3 — Mūlagandhadātāsutta
+# --------------------------------------------------------------------------- #
+page(
+    31, 3, "Mūlagandhadātā", "A Giver of Fragrant Roots",
+    vagga="Gandhabbavagga",
+    meta_title="SN 31.3 — A Giver of Fragrant Roots | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mūlagandhadātāsutta &mdash; someone aspiring to rebirth "
+        "among the root-dwelling gandhabbā, giving gifts of fragrant "
+        "roots specifically to match the destination sought. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "A mendicant questions the Buddha, who answers "
+                     "by describing an unnamed aspirant's own "
+                     "reasoning"),
+        ("Form", "A question-and-answer dialogue adding a specific "
+                 "act of giving to SN 31.2's own hearsay-and-wish "
+                 "frame"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a plain causal chain, easy to follow"),
+    ],
+    why=(
+        "This discourse introduces the first of two entirely "
+        "different giving registers this saṃyutta explores: rather "
+        "than SN 29's and SN 30's own standard ten-item list (food, "
+        "drink, clothing, and so on), the aspirant here gives gifts "
+        "of fragrant roots specifically &mdash; the exact substance "
+        "the root-dwelling gods themselves inhabit &mdash; a "
+        "matching-substance logic genuinely distinct from anything "
+        "seen in Nāgasaṃyutta or Supaṇṇasaṃyutta. This same "
+        "matching-substance formula will be applied to the remaining "
+        "nine dwelling-places at SN 31.4&ndash;12."
+    ),
+    guide=[
+        ("A gift that matches the destination itself", [
+            "\"They give gifts of fragrant roots\" &mdash; unlike SN "
+            "29's and SN 30's own generic ten-item list, this gift "
+            "is the exact substance the sought-after gods themselves "
+            "dwell in, a matching-substance logic genuinely new to "
+            "this saṃyutta.",
+        ]),
+        ("This discourse's own title, naming the giver directly", [
+            "Mūlagandhadātā (\"a giver of fragrant roots\") names the "
+            "aspirant's own specific act directly in its title, "
+            "rather than the conduct-type as at SN 31.2's Sucarita "
+            "(\"good conduct\") &mdash; the first of this saṃyutta's "
+            "titles to name a gift-item specifically.",
+        ]),
+        ("Adding specificity to SN 31.2's own general frame", [
+            "Where SN 31.2 aimed only at \"the gods of the centaur "
+            "realm\" generally, this discourse specifies both a "
+            "particular dwelling-place (root-dwelling gods) and a "
+            "particular gift (fragrant roots) that matches it "
+            "&mdash; the first of ten such pairings this saṃyutta "
+            "will work through.",
+        ]),
+        ("Opening a nine-discourse compressed companion set", [
+            "This discourse alone treats root-dwelling gods in full; "
+            "SN 31.4&ndash;12 will apply the identical matching-"
+            "substance formula to the remaining nine dwelling-places "
+            "(heartwood through scents) in a single merged file.",
+        ]),
+    ],
+    terms=[
+        ("mūlagandha", "fragrant roots &mdash; both the dwelling-"
+                        "place sought and the specific gift given, "
+                        "matched to each other"),
+        ("dātā", "\"giver\" &mdash; this discourse's own title-word, "
+                  "naming the aspirant by their specific act"),
+        ("sucaritaṁ", "good conduct &mdash; carried over from SN "
+                       "31.2, still the baseline conduct attributed "
+                       "to this aspirant"),
+        ("sutaṁ", "\"heard\" &mdash; the specific trigger for the "
+                   "aspirant's wish, as at SN 31.2"),
+        ("dāna", "giving &mdash; the specific added element this "
+                  "discourse contributes beyond SN 31.2's own bare "
+                  "hearsay-and-wish frame"),
+    ],
+    text_intro=("The complete discourse: the mendicant's question and "
+        "the aspirant's own reported reasoning, including the "
+        "specific gift given. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn31.3:1.1-1.11"),
+    ],
+    quiz=[
+        {"q": "What specific gift does this discourse's aspirant give?",
+         "opts": ["Fragrant roots — matching the destination they seek", "Food and drink, the standard SN 29/30 list",
+                  "A house and a lamp", "No gift is given at all"],
+         "correct": 0,
+         "expl": "A matching-substance logic genuinely distinct from SN 29's and SN 30's own generic ten-item list."},
+        {"q": "How does this discourse's gift relate to the destination sought?",
+         "opts": ["It matches exactly — fragrant roots given, to be reborn among root-dwelling gods",
+                  "It has no relation to the destination", "It is the opposite of the destination",
+                  "It matches a different, unrelated dwelling-place"],
+         "correct": 0,
+         "expl": "The exact substance the sought-after gods themselves dwell in."},
+        {"q": "What does this discourse's own title, Mūlagandhadātā, mean?",
+         "opts": ["\"A giver of fragrant roots\"", "\"Good conduct\"", "\"Plain version\"", "\"They carry off\""],
+         "correct": 0,
+         "expl": "Naming the aspirant's own specific act directly, the first title in this saṃyutta to do so."},
+        {"q": "How does this discourse add to SN 31.2's own general frame?",
+         "opts": ["It specifies both a particular dwelling-place and a matching gift, where SN 31.2 named neither",
+                  "It removes the hearsay element entirely", "It contradicts SN 31.2's own conduct formula",
+                  "It has no relation to SN 31.2"],
+         "correct": 0,
+         "expl": "The first of ten such dwelling-and-gift pairings this saṃyutta will work through."},
+        {"q": "What compressed companion set does this discourse open?",
+         "opts": ["SN 31.4–12, applying the identical matching-substance formula to the remaining nine dwelling-places",
+                  "SN 31.13–22, the standard ten-item giving formula", "No further discourses follow this one",
+                  "A return to the bare taxonomy of SN 31.1"],
+         "correct": 0,
+         "expl": "Heartwood through scents, compressed into a single merged file."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("A gift that matches its own destination", [
+            "fragrant roots given, root-dwellers sought &mdash;",
+            "a genuinely new giving logic",
+        ]),
+        ("A title naming the act itself", [
+            "\"a giver of fragrant roots\" &mdash;",
+            "this saṃyutta's first gift-specific title",
+        ]),
+        ("Specificity added, twice over", [
+            "one dwelling-place, one matching gift &mdash;",
+            "the first of ten such pairings",
+        ]),
+        ("Nine more dwelling-places, compressed ahead", [
+            "roots given in full here &mdash;",
+            "heartwood through scents merged next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn31.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-31.2.html">SN 31.2 &middot; Good Conduct</a> '
+        "&mdash; the previous discourse, the general hearsay-and-wish "
+        "frame this discourse specifies.",
+        '<a href="sn-31.4-12.html">SN 31.4&ndash;12 &middot; Nine '
+        "Discourses On Givers of Fragrant Heartwood, Etc.</a> "
+        "&mdash; the next page, applying this same matching-"
+        "substance formula to the remaining nine dwelling-places.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 31.4–12 — Sāragandhādidātāsuttanavaka
+# --------------------------------------------------------------------------- #
+page_range(
+    31, 4, 12, "Sāragandhādidātā", "Nine Discourses On Givers of "
+    "Fragrant Heartwood, Etc.",
+    vagga="Gandhabbavagga",
+    meta_title="SN 31.4–12 · Nine Discourses On Givers of Fragrant "
+                "Heartwood, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 31.4 through "
+        "31.12 &mdash; nine discourses, preserved in the source as a "
+        "single peyyāla block, applying SN 31.3's own matching-"
+        "substance giving formula to the remaining nine "
+        "dwelling-places. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing an unnamed mendicant"),
+        ("Form", "Nine discourses compressed by bilara-data into a "
+                 "single file, one shared frame with nine "
+                 "dwelling-places and their matching gifts elided as "
+                 "a peyyāla list"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single repeated frame, easy to follow once "
+                       "the peyyāla list is recognized"),
+    ],
+    why=(
+        "This merged file completes SN 31.3's own matching-substance "
+        "giving theme, applying the identical formula &mdash; give "
+        "the exact fragrant substance a class of gods dwells in, to "
+        "be reborn among them &mdash; to the remaining nine "
+        "dwelling-places: heartwood, softwood, bark, shoots, leaves, "
+        "flowers, fruit, sap, and scents. Bilara-data preserves the "
+        "entire set as a single file using the identical unified-"
+        "prefix peyyāla encoding already seen at SN "
+        "12.72&ndash;81, SN 24.20&ndash;35, and SN "
+        "29.11&ndash;20/29.21&ndash;50."
+    ),
+    guide=[
+        ("The identical matching-substance logic, nine more times", [
+            "As at SN 31.3, each of these nine discourses gives the "
+            "exact fragrant substance sought &mdash; heartwood given "
+            "to be reborn among heartwood-dwelling gods, softwood "
+            "given for softwood-dwelling gods, and so on through "
+            "scents &mdash; the same matched pairing applied "
+            "systematically.",
+        ]),
+        ("Only the first and last items given in full", [
+            "The file's own opening question and closing gift-item "
+            "(fragrant scents) are given in full, with the middle "
+            "seven dwelling-places elided as bare named nouns "
+            "&mdash; a structure genuinely different from SN "
+            "29.11&ndash;20's own ten-item list, since here every "
+            "single item is itself a full sub-discourse, not one "
+            "component of a shared list.",
+        ]),
+        ("Closing this saṃyutta's first giving register", [
+            "With this file, all ten dwelling-places have now been "
+            "paired with their own matching gift across SN "
+            "31.3&ndash;12, closing this saṃyutta's own first giving "
+            "register before SN 31.13&ndash;22 opens a second, "
+            "entirely different one: the standard ten-item formula "
+            "already familiar from SN 29 and SN 30.",
+        ]),
+        ("The same unified-prefix encoding, again", [
+            "As with SN 12.72&ndash;81, SN 24.20&ndash;35, and SN "
+            "29's own merged files, this file uses a single unified "
+            "key prefix (sn31.4-12:) for its entire content rather "
+            "than nine individually prefixed sub-discourses.",
+        ]),
+    ],
+    terms=[
+        ("sāragandha", "fragrant heartwood &mdash; the first of the "
+                        "nine remaining dwelling-places, given in "
+                        "full at the start of this file"),
+        ("gandhagandha", "fragrant scents themselves &mdash; the "
+                          "ninth and final dwelling-place, given in "
+                          "full to close this file"),
+        ("dātā", "\"giver\" &mdash; the aspirant's own role, "
+                  "carried over from SN 31.3's title"),
+        ("peyyāla", "an elision mark &mdash; here compressing nine "
+                     "discourses' worth of matching dwelling-place-"
+                     "and-gift pairs into a single sequence"),
+        ("sucaritaṁ", "good conduct &mdash; the baseline conduct "
+                       "attributed to each aspirant, carried over "
+                       "from SN 31.2 and SN 31.3"),
+    ],
+    text_intro=("The complete merged file: the shared frame, the "
+        "first dwelling-place (heartwood) in full, the eliided middle "
+        "seven, and the ninth and final dwelling-place (scents) in "
+        "full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn31.4-12:1.1-1.16"),
+        ("p", "&sect;2", "sn31.4-12:1.24-1.25"),
+        ("p", "&sect;3", "sn31.4-12:1.33-1.35"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Nine — SN 31.4 through SN 31.12", "Ten", "Ninety", "Four"],
+         "correct": 0,
+         "expl": "Completing SN 31.3's own set of ten matching dwelling-place-and-gift pairs."},
+        {"q": "What logic governs the gift given in each of these nine discourses?",
+         "opts": ["Matching substance — the exact fragrant part sought is the exact gift given",
+                  "The standard ten-item list (food, drink, clothing, etc.)", "No gift is given at all",
+                  "A randomly assigned, unrelated gift each time"],
+         "correct": 0,
+         "expl": "The identical matching-substance formula already established at SN 31.3."},
+        {"q": "Which two dwelling-places are given in full in this file, rather than elided?",
+         "opts": ["The first (heartwood) and the last (scents)", "Only the first (heartwood)",
+                  "Only the last (scents)", "All nine are given in full"],
+         "correct": 0,
+         "expl": "Marking the elided list's own beginning and end."},
+        {"q": "What theme does this file close, before SN 31.13–22 opens a new one?",
+         "opts": ["This saṃyutta's first giving register — matching-substance gifts across all ten dwelling-places",
+                  "The bare taxonomy of SN 31.1", "This saṃyutta's entire coverage",
+                  "The hearsay-driven aspiration theme"],
+         "correct": 0,
+         "expl": "SN 31.13–22 will open a second, entirely different giving register: the standard ten-item formula."},
+        {"q": "What encoding convention does this merged file share with SN 12.72–81 and SN 29's own merged files?",
+         "opts": ["A single unified key prefix for its entire content, rather than individual prefixes per sub-discourse",
+                  "Each sub-discourse keeping its own individual key prefix", "No prefix convention at all",
+                  "A prefix unique to this file alone"],
+         "correct": 0,
+         "expl": "Now confirmed across multiple separate merged files in this project's SN coverage."},
+    ],
+    marginalia=[
+        ("Nine more matched pairs", [
+            "heartwood given for heartwood-dwellers &mdash;",
+            "the same logic, systematically applied",
+        ]),
+        ("First and last given in full", [
+            "heartwood opens, scents closes &mdash;",
+            "the middle seven elided between them",
+        ]),
+        ("One giving register closed", [
+            "all ten dwelling-places now paired &mdash;",
+            "a second, different register begins next",
+        ]),
+        ("The now-familiar unified-prefix shape", [
+            "sn31.4-12: one prefix for nine &mdash;",
+            "matching SN 12.72–81's own convention",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn31.4-12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-31.3.html">SN 31.3 &middot; A Giver of Fragrant '
+        "Roots</a> &mdash; the previous discourse, giving this same "
+        "matching-substance formula in full for root-dwelling gods.",
+        '<a href="sn-31.13-22.html">SN 31.13&ndash;22 &middot; Ten '
+        "Discourses On How Giving Helps Rebirth in Fragrant Roots</a> "
+        "&mdash; the next page, opening this saṃyutta's second "
+        "giving register: the standard ten-item formula.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 31.13–22 — Mūlagandhadānūpakārasuttadasaka
+# --------------------------------------------------------------------------- #
+page_range(
+    31, 13, 22, "Mūlagandhadānūpakāra", "Ten Discourses On How Giving "
+    "Helps Rebirth in Fragrant Roots",
+    vagga="Gandhabbavagga",
+    meta_title="SN 31.13–22 · Ten Discourses On How Giving Helps "
+                "Rebirth in Fragrant Roots | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 31.13 through "
+        "31.22 &mdash; ten discourses, preserved in the source as a "
+        "single peyyāla block, applying the standard ten-item giving "
+        "formula from SN 29 and SN 30 to root-dwelling gandhabbā. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing an unnamed mendicant"),
+        ("Form", "Ten discourses compressed by bilara-data into a "
+                 "single file, one shared frame with the standard "
+                 "ten gift-items elided as a peyyāla list"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single repeated frame, easy to follow once "
+                       "the peyyāla list is recognized"),
+    ],
+    why=(
+        "This merged file opens Gandhabbakāyasaṃyutta's second and "
+        "genuinely distinct giving register: rather than SN "
+        "31.3&ndash;12's own matching-substance gifts, this set "
+        "returns to the identical ten-item formula already seen at "
+        "SN 29.11&ndash;20 and SN 30.7&ndash;16 &mdash; food, drink, "
+        "clothing, a vehicle, a garland, fragrance, makeup, a bed, a "
+        "house, and a lamp &mdash; now applied specifically to "
+        "root-dwelling gods, the first of this saṃyutta's ten "
+        "dwelling-places to receive this treatment."
+    ),
+    guide=[
+        ("The same standard ten items, a third saṃyutta", [
+            "Food, drink, clothing, a vehicle, a garland, fragrance, "
+            "makeup, a bed, a house, and a lamp &mdash; identical to "
+            "SN 29.11&ndash;20's and SN 30.7&ndash;16's own list, "
+            "confirming this formula as a genuinely standard "
+            "template recurring across at least three saṃyuttas.",
+        ]),
+        ("Two giving registers for the same dwelling-place", [
+            "Root-dwelling gods are now the subject of two distinct "
+            "giving formulas: SN 31.3's own matching-substance gift "
+            "(fragrant roots given for root-dwellers) and this file's "
+            "own generic ten-item list &mdash; two independently "
+            "sufficient causal paths to the identical rebirth.",
+        ]),
+        ("A pattern this saṃyutta will repeat nine more times", [
+            "This file treats only root-dwelling gods; SN "
+            "31.23&ndash;112 will apply the identical ten-item "
+            "formula to the remaining nine dwelling-places at nine "
+            "times the scale, closing this saṃyutta's own coverage.",
+        ]),
+        ("The same unified-prefix encoding, a fourth time", [
+            "As with SN 12.72&ndash;81, SN 29's own merged files, and "
+            "SN 31.4&ndash;12, this file uses a single unified key "
+            "prefix (sn31.13-22:) for its entire content.",
+        ]),
+    ],
+    terms=[
+        ("dāna", "giving or generosity &mdash; the specific act each "
+                  "of these ten discourses treats as sufficient to "
+                  "help produce root-dwelling rebirth"),
+        ("annaṁ deti", "\"gives food\" &mdash; the first of the ten "
+                        "gift-items named in this file"),
+        ("padīpeyyaṁ deti", "\"gives a lamp\" &mdash; the tenth and "
+                             "final gift-item, closing the list"),
+        ("mūlagandha", "fragrant roots &mdash; the shared "
+                        "dwelling-place all ten discourses here trace "
+                        "to specific acts of giving"),
+        ("sucaritaṁ", "good conduct &mdash; the baseline conduct "
+                       "attributed to the aspirant in each discourse"),
+    ],
+    text_intro=("The complete merged file: the shared hearsay-and-"
+        "wish frame, followed by the ten standard gift-items exactly "
+        "as bilara-data gives them. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn31.13-22:1.1-1.8"),
+        ("p", "&sect;2", "sn31.13-22:1.9-1.20"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Ten — SN 31.13 through SN 31.22", "Ninety", "Nine", "Four"],
+         "correct": 0,
+         "expl": "Bilara-data itself preserves these ten as a single peyyāla-encoded file."},
+        {"q": "How does this file's ten-item gift list compare to SN 29.11–20's and SN 30.7–16's own?",
+         "opts": ["Identical — the same standard ten items, now applied to root-dwelling gandhabbā",
+                  "A completely different set of ten items", "Only five items are shared",
+                  "This file uses twenty items instead of ten"],
+         "correct": 0,
+         "expl": "Confirming the formula recurs across at least three separate saṃyuttas."},
+        {"q": "How many independent giving formulas does this saṃyutta now offer for reaching root-dwelling rebirth?",
+         "opts": ["Two — SN 31.3's matching-substance gift and this file's own generic ten-item list",
+                  "Only one", "Three", "None — giving plays no role for root-dwellers"],
+         "correct": 0,
+         "expl": "Two independently sufficient causal paths to the identical rebirth destination."},
+        {"q": "What does this file set up for SN 31.23–112 to complete?",
+         "opts": ["The identical ten-item formula applied to the remaining nine dwelling-places, at nine times the scale",
+                  "A return to the bare taxonomy of SN 31.1", "No further discourses follow this file",
+                  "A shift to an entirely unrelated saṃyutta"],
+         "correct": 0,
+         "expl": "Closing this saṃyutta's own coverage at ninety further discourses."},
+        {"q": "What encoding convention does this merged file share with SN 12.72–81, SN 29's merged files, and SN 31.4–12?",
+         "opts": ["A single unified key prefix for its entire content, rather than individual prefixes per sub-discourse",
+                  "Each sub-discourse keeping its own individual key prefix", "No prefix convention at all",
+                  "A prefix unique to this file alone"],
+         "correct": 0,
+         "expl": "Now confirmed across multiple separate merged files across this project's SN coverage."},
+    ],
+    marginalia=[
+        ("The same ten gifts, a third saṃyutta", [
+            "food, drink, ... a house, a lamp &mdash;",
+            "verbatim from SN 29.11–20 and SN 30.7–16",
+        ]),
+        ("Two paths to the same rebirth", [
+            "matching roots, or the standard ten &mdash;",
+            "either independently sufficient",
+        ]),
+        ("One dwelling-place done, nine more to scale", [
+            "roots covered here &mdash;",
+            "SN 31.23–112 apply this to the rest",
+        ]),
+        ("A now-familiar encoding, once more", [
+            "sn31.13-22: one prefix for ten &mdash;",
+            "the fourth merged file to use it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn31.13-22/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-31.4-12.html">SN 31.4&ndash;12 &middot; Nine '
+        "Discourses On Givers of Fragrant Heartwood, Etc.</a> "
+        "&mdash; the previous page, closing this saṃyutta's first "
+        "giving register.",
+        '<a href="sn-31.23-112.html">SN 31.23&ndash;112 &middot; '
+        "Ninety Discourses On How Giving Helps Rebirth in Fragrant "
+        "Heartwood, etc.</a> &mdash; the next and final page, "
+        "applying this identical ten-item formula to the remaining "
+        "nine dwelling-places and closing this entire saṃyutta.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 31.23–112 — Sāragandhādidānūpakārasuttanavutika
+# --------------------------------------------------------------------------- #
+page_range(
+    31, 23, 112, "Sāragandhādidānūpakāra", "Ninety Discourses On How "
+    "Giving Helps Rebirth in Fragrant Heartwood, etc.",
+    vagga="Gandhabbavagga",
+    meta_title="SN 31.23–112 · Ninety Discourses On How Giving Helps "
+                "Rebirth in Fragrant Heartwood, etc. | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 31.23 through "
+        "31.112 &mdash; ninety discourses, preserved in the source "
+        "as a single peyyāla block, closing Gandhabbakāyasaṃyutta "
+        "and Book III's Khandhavagga with the collection's own "
+        "translated colophon. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing an unnamed mendicant"),
+        ("Form", "Ninety discourses compressed by bilara-data into a "
+                 "single file, one complete worked example (fragrant "
+                 "scents) given in full"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial once SN 31.13&ndash;22's own formula "
+                       "is understood"),
+    ],
+    why=(
+        "This is the single largest merged file this project has "
+        "encountered in the Saṃyutta Nikāya: ninety discourses "
+        "&mdash; SN 31.13&ndash;22's own standard ten-item giving "
+        "formula applied to the remaining nine dwelling-places "
+        "(heartwood, softwood, bark, shoots, leaves, flowers, fruit, "
+        "sap, and scents) &mdash; compressed to a single worked "
+        "thread through the last dwelling-place, fragrant scents, "
+        "given in full. Unlike SN 30.17&ndash;46's own equivalent "
+        "file, this file's English translation does preserve the "
+        "complete worked example rather than reducing it to a bare "
+        "\"tell in full\" instruction, closing both the vagga and "
+        "the saṃyutta with its own translated colophon."
+    ),
+    guide=[
+        ("A complete worked example, unlike SN 30.17–46's own", [
+            "This file gives the entire question, answer, and "
+            "closing statement for the last dwelling-place (fragrant "
+            "scents) in full English translation &mdash; a genuinely "
+            "different editorial choice from SN 30.17&ndash;46's own "
+            "bare \"tell all in full\" stub, matching SN "
+            "29.21&ndash;50's own more complete approach instead.",
+        ]),
+        ("Nine dwelling-places, one worked thread standing for all", [
+            "The opening question chains all nine remaining "
+            "dwelling-places into a single sentence, then works only "
+            "the last one (scents) through to its own complete "
+            "ending &mdash; the other eight are left entirely to "
+            "inference from this one worked example and SN "
+            "31.13&ndash;22's own explicit ten-item list.",
+        ]),
+        ("The largest scale multiplication in this project's SN coverage", [
+            "Ten gift-items times nine remaining dwelling-places "
+            "yields exactly ninety discourses, the largest such "
+            "multiplication this project has generated a single page "
+            "for &mdash; surpassing SN 29.21&ndash;50's own thirty "
+            "and SN 24.46&ndash;69's own twenty-four, a direct "
+            "consequence of this saṃyutta's own tenfold taxonomy at "
+            "SN 31.1.",
+        ]),
+        ("Vagga and saṃyutta colophons coinciding, a third time", [
+            "As at SN 29.21&ndash;50 and SN 30.17&ndash;46, because "
+            "Gandhabbakāyasaṃyutta consists of exactly one vagga "
+            "(Gandhabbavagga), the untranslated Pāli line "
+            "\"Gandhabbavaggo paṭhamo\" and the saṃyutta's own close "
+            "both fall in this same file.",
+        ]),
+        ("An officially translated closing line, and Book III's own close", [
+            "The file's final line &mdash; \"the Linked Discourses on "
+            "the centaur realm are completed\" &mdash; is genuinely "
+            "translated by Sujato and quoted here verbatim. With "
+            "Gandhabbakāyasaṃyutta's own close, SN 22&ndash;31 "
+            "together mark this project's coverage of Book III's "
+            "Khandhavagga so far, before its next steps move on to "
+            "the saṃyuttas beyond SN 31.",
+        ]),
+    ],
+    terms=[
+        ("sāragandha", "fragrant heartwood &mdash; the first of the "
+                        "nine remaining dwelling-places named in this "
+                        "file's opening question"),
+        ("gandhagandha", "fragrant scents themselves &mdash; the "
+                          "last of the nine, and the only one worked "
+                          "through to a complete answer in this file"),
+        ("piṇḍakena", "\"by this summary\" or \"in condensed form\" "
+                       "&mdash; this file's own untranslated editorial "
+                       "term for its compression method, matching SN "
+                       "30.17&ndash;46's own wording"),
+        ("Gandhabbavaggo paṭhamo", "\"Gandhabbavagga, the first, "
+                                    "finished\" &mdash; the untranslated "
+                                    "vagga colophon, coinciding here "
+                                    "with the saṃyutta's own close"),
+        ("Gandhabbakāyasaṁyuttaṁ samattaṁ", "\"the Linked Discourses "
+                                             "on the centaur realm are "
+                                             "complete\" &mdash; this "
+                                             "saṃyutta's own "
+                                             "officially Sujato-"
+                                             "translated closing "
+                                             "line, quoted verbatim "
+                                             "in the text below"),
+    ],
+    text_intro=("The complete merged file exactly as translated: the "
+        "shared frame for the nine remaining dwelling-places, the "
+        "full worked example for fragrant scents, and this "
+        "saṃyutta's own closing line. The compiler's arithmetic note "
+        "and the untranslated vagga colophon and uddāna verse are "
+        "described above rather than quoted, since the source's own "
+        "English translation leaves them untranslated. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn31.23-112:1.1-1.11"),
+        ("p", "&sect;2", "sn31.23-112:1.12-1.28"),
+        ("p", "&sect;3", "sn31.23-112:3.5"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Ninety — SN 31.23 through SN 31.112", "Ten", "Nine", "Forty"],
+         "correct": 0,
+         "expl": "SN 31.13–22's own ten-item formula applied to the remaining nine dwelling-places."},
+        {"q": "How does this file's English translation compare to SN 30.17–46's own equivalent file?",
+         "opts": ["It gives a complete worked example in full, unlike SN 30.17–46's bare \"tell in full\" instruction",
+                  "It is equally bare, with no worked example at all", "It is identical in every respect",
+                  "It contains less content than SN 30.17–46"],
+         "correct": 0,
+         "expl": "A genuinely different editorial choice, matching SN 29.21–50's own more complete approach instead."},
+        {"q": "Which single dwelling-place does this file work through to a complete ending?",
+         "opts": ["Fragrant scents, the last of the nine remaining dwelling-places",
+                  "Fragrant heartwood, the first of the nine", "All nine equally", "None — the file is entirely a stub"],
+         "correct": 0,
+         "expl": "The other eight are left entirely to inference from this worked example and SN 31.13–22's own list."},
+        {"q": "Why does this file compress the largest number of discourses in this project's SN coverage so far?",
+         "opts": ["Ten gift-items times nine remaining dwelling-places, a direct consequence of this saṃyutta's own tenfold taxonomy",
+                  "A scribal error inflated the count", "This saṃyutta actually has more birth-modes than SN 29 or SN 30",
+                  "The compression method itself is unique to this file"],
+         "correct": 0,
+         "expl": "Surpassing SN 29.21–50's own thirty and SN 24.46–69's own twenty-four."},
+        {"q": "Why do a vagga colophon and a saṃyutta colophon coincide in this single file?",
+         "opts": ["Because Gandhabbakāyasaṃyutta consists of exactly one vagga (Gandhabbavagga)",
+                  "Because this file spans two different saṃyuttas", "Because the source made an error",
+                  "Because this saṃyutta has no vagga structure at all"],
+         "correct": 0,
+         "expl": "The same structural coincidence already seen closing Nāgasaṃyutta and Supaṇṇasaṃyutta."},
+        {"q": "What does the officially translated closing line of this saṃyutta say?",
+         "opts": ["\"The Linked Discourses on the centaur realm are completed\"",
+                  "\"The eighteen expositions are finished\"", "No closing line is translated in the source",
+                  "\"The ten dwelling-places are now exhausted\""],
+         "correct": 0,
+         "expl": "Genuinely translated by Sujato, quoted verbatim in this page's text."},
+        {"q": "What does this saṃyutta's own close mark for this project's coverage of Book III?",
+         "opts": ["This project's coverage of Book III's Khandhavagga so far (SN 22–31), before moving on to the saṃyuttas beyond SN 31",
+                  "The midpoint of Book III, with much more still to come under this same heading",
+                  "Nothing significant — Khandhavagga continues unchanged", "The start of an entirely new book"],
+         "correct": 0,
+         "expl": "Before this project's next steps move on to the saṃyuttas beyond SN 31."},
+    ],
+    marginalia=[
+        ("A complete example, not a bare stub", [
+            "fragrant scents, worked through in full &mdash;",
+            "unlike SN 30.17–46's own bare instruction",
+        ]),
+        ("Nine dwelling-places, one thread", [
+            "scents alone given a full ending &mdash;",
+            "the other eight left to inference",
+        ]),
+        ("The largest multiplication yet", [
+            "ten gifts times nine dwellings &mdash;",
+            "ninety discourses, this saṃyutta's own tenfold scale",
+        ]),
+        ("A closing line genuinely translated", [
+            "\"the Linked Discourses on the centaur realm are complete\" &mdash;",
+            "Sujato's own words, quoted verbatim",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn31.23-112/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-31.13-22.html">SN 31.13&ndash;22 &middot; Ten '
+        "Discourses On How Giving Helps Rebirth in Fragrant Roots</a> "
+        "&mdash; the previous page, giving this same ten-item formula "
+        "in full for root-dwelling gods.",
+        '<a href="sn-31.1.html">SN 31.1 &middot; Plain Version</a> '
+        "&mdash; this saṃyutta's own opening discourse, whose "
+        "tenfold dwelling-place taxonomy every later discourse, "
+        "including this closing one, ultimately builds on.",
+    ],
+)
