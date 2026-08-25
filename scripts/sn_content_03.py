@@ -46469,3 +46469,1539 @@ page(
         "equally translated colophon.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 27.1 — Cakkhusutta
+# --------------------------------------------------------------------------- #
+page(
+    27, 1, "Cakkhu", "The Eye",
+    vagga="Kilesavagga",
+    meta_title="SN 27.1 — The Eye | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Cakkhusutta &mdash; opening Kilesasaṃyutta, the third of "
+        "this book's trio of sister saṃyuttas built on the same "
+        "ten-category sequence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A compact statement: desire and greed for the six "
+                 "sense faculties corrupts the mind; giving it up "
+                 "readies the mind for insight work"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and direct, its three-step logic worth "
+                       "reading slowly even so"),
+    ],
+    why=(
+        "Opens Kilesasaṃyutta (\"Linked Discourses on Corruptions\") "
+        "&mdash; the third of this book's trio of sister saṃyuttas "
+        "built on the identical ten-category sequence already walked "
+        "twice, at SN 25 (who is progressing toward stream-entry) and "
+        "SN 26 (what suffering itself consists of). This saṃyutta "
+        "asks a third question of the same material: what corrupts "
+        "the mind, and what readies it for the work of insight."
+    ),
+    guide=[
+        ("Not the faculties themselves, but desire for them", [
+            "\"Desire and greed for the eye, ear, nose, tongue, body, "
+            "or mind is a corruption of the mind\" &mdash; a crucial "
+            "distinction from SN 26's own framing: that saṃyutta "
+            "identified the faculties' own arising with suffering's "
+            "arising; this one locates the corruption specifically in "
+            "desire and greed (chandarāga) for them, not in the "
+            "faculties as such.",
+        ]),
+        ("Renunciation as the mind's own natural inclination once corruption lifts", [
+            "\"When a mendicant has given up mental corruption in "
+            "these six cases, their mind inclines to renunciation\" "
+            "&mdash; nekkhamma (renunciation) presented not as an "
+            "effortful achievement imposed on the mind, but as where "
+            "the mind naturally tends once the specific corruption "
+            "(desire and greed for the six faculties) is removed.",
+        ]),
+        ("A mind fit for insight work", [
+            "\"A mind imbued with renunciation is said to be fit for "
+            "work regarding anything that can be realized by insight\" "
+            "&mdash; abhiññā (insight, direct knowledge) requiring a "
+            "particular quality of mind as its precondition, this "
+            "discourse's own closing claim about what kind of "
+            "instrument the mind must become before it can do this "
+            "particular work.",
+        ]),
+        ("A third lens on the same ten categories", [
+            "SN 25 asked who has stepped onto the sure path; SN 26 "
+            "asked what suffering directly consists of; this saṃyutta "
+            "asks what corrupts the mind and what prepares it for "
+            "insight &mdash; three distinct questions, the identical "
+            "ten-category sequence (sense faculties through the "
+            "aggregates) serving as the shared material for all "
+            "three.",
+        ]),
+    ],
+    terms=[
+        ("kilesa", "corruption — the term giving this saṃyutta its own name, the mental defilement this discourse locates specifically in desire and greed"),
+        ("chandarāga", "desire and greed — the specific corrupting factor this discourse identifies, not the six faculties themselves"),
+        ("nekkhamma", "renunciation — where the mind naturally inclines once this specific corruption is given up"),
+        ("abhiññā", "insight, direct knowledge — the work this discourse says a renunciation-imbued mind becomes fit for"),
+        ("upakkilesa", "corruption, defilement — the fuller technical term behind this discourse's opening claim, occasionally rendered \"defilement\" elsewhere in this same saṃyutta"),
+    ],
+    text_intro=("The complete discourse: desire and greed for the six sense "
+        "faculties named a corruption of the mind, and the path from "
+        "giving it up to fitness for insight work. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn27.1:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What does this discourse identify as a corruption of the mind?",
+         "opts": ["Desire and greed for the six sense faculties, not the faculties themselves", "The six sense faculties themselves", "The absence of any sense faculties", "The mind's own natural inclination"],
+         "correct": 0,
+         "expl": "A crucial distinction from SN 26's own framing of the same category."},
+        {"q": "What does the mind naturally incline to once this corruption is given up?",
+         "opts": ["Renunciation (nekkhamma)", "Further craving", "A neutral, unchanged state", "Complete cessation of consciousness"],
+         "correct": 0,
+         "expl": "Presented as where the mind naturally tends, not an effortful achievement imposed on it."},
+        {"q": "What is a mind imbued with renunciation said to be fit for?",
+         "opts": ["Work regarding anything that can be realized by insight", "Only ordinary daily tasks", "Nothing in particular", "Further corruption"],
+         "correct": 0,
+         "expl": "Abhiññā (insight, direct knowledge) requiring this particular quality of mind as its precondition."},
+        {"q": "How does this saṃyutta's question differ from SN 25 and SN 26's own, applied to the identical ten categories?",
+         "opts": ["It asks what corrupts the mind and readies it for insight, rather than who is progressing or what suffering consists of", "It asks the identical question as SN 25", "It asks the identical question as SN 26", "It abandons the ten-category sequence entirely"],
+         "correct": 0,
+         "expl": "A third distinct lens on the same shared material."},
+        {"q": "What six items does this discourse examine?",
+         "opts": ["The eye, ear, nose, tongue, body, and mind — the six internal sense faculties", "The six sense objects", "The five aggregates", "The six elements"],
+         "correct": 0,
+         "expl": "Opening a saṃyutta that will apply the same formula to nine further categories."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What term gives this saṃyutta its own name?",
+         "opts": ["Kilesa, \"corruption\"", "Okkanta, \"stepping into\"", "Uppāda, \"arising\"", "Dukkha alone"],
+         "correct": 0,
+         "expl": "This book's seventh saṃyutta, third of a trio sharing the identical ten-category sequence."},
+        {"q": "What two sister saṃyuttas share this saṃyutta's identical ten-category sequence?",
+         "opts": ["SN 25 (Okkantasaṃyutta) and SN 26 (Uppādasaṃyutta)", "SN 22 and SN 23", "SN 24's own four vaggas alone", "No sister saṃyuttas share this sequence"],
+         "correct": 0,
+         "expl": "Three complementary readings of the same underlying material."},
+        {"q": "What nine further categories will this saṃyutta's remaining discourses examine?",
+         "opts": ["Sense objects, consciousness, contact, feeling, perception, intention, craving, elements, and the aggregates",
+                  "A repeat of the six sense faculties", "The four named-teacher doctrines", "The ten undetermined questions"],
+         "correct": 0,
+         "expl": "The identical sequence already established at SN 25 and SN 26."},
+        {"q": "What does this discourse's own three-step structure describe?",
+         "opts": ["Corruption identified, corruption given up, resulting fitness for insight work", "A four-step structure, not three", "A structure identical to SN 26's own arising/cessation formula", "No discernible structure at all"],
+         "correct": 0,
+         "expl": "A compact logical progression in a single short paragraph."},
+    ],
+    marginalia=[
+        ("Not the faculty, the desire for it", [
+            "chandarāga corrupts, not the eye itself &mdash;",
+            "a precise distinction from SN 26's own framing",
+        ]),
+        ("Where the mind naturally tends", [
+            "renunciation, once corruption lifts &mdash;",
+            "not forced, but the mind's own inclination",
+        ]),
+        ("Fit for a particular kind of work", [
+            "abhiññā requires this quality of mind &mdash;",
+            "renunciation as insight's own precondition",
+        ]),
+        ("A third lens, the same ten categories", [
+            "who progresses, what suffering is, what corrupts &mdash;",
+            "three questions, one shared body of material",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn27.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-26.10.html">SN 26.10 &middot; The Aggregates</a> '
+        "&mdash; the previous discourse, closing Uppādasaṃyutta "
+        "entirely.",
+        '<a href="sn-27.2.html">SN 27.2 &middot; Sights</a> '
+        "&mdash; the next discourse, applying the identical formula "
+        "to the six sense objects.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 27.2 — Rūpasutta
+# --------------------------------------------------------------------------- #
+page(
+    27, 2, "Rūpa", "Sights",
+    vagga="Kilesavagga",
+    meta_title="SN 27.2 — Sights | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Rūpasutta &mdash; the same corruption-of-the-mind "
+        "formula applied to the six sense objects. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The identical corruption/renunciation/insight "
+                 "formula, now applied to the six sense objects"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "familiar territory immediately after SN 27.1"),
+    ],
+    why=(
+        "The second step in this saṃyutta's ten-part sequence: "
+        "desire and greed for the six sense objects (sights, sounds, "
+        "smells, tastes, touches, ideas) named a corruption of the "
+        "mind, completing with SN 27.1 the classic twelve sense bases "
+        "in this saṃyutta's own frame."
+    ),
+    guide=[
+        ("The other half of the twelve sense bases, a third time", [
+            "\"Desire and greed for sights, sounds, smells, tastes, "
+            "touches, or ideas is a corruption of the mind\" &mdash; "
+            "the identical formula from SN 27.1, applied here to the "
+            "external half of the twelve āyatana already examined "
+            "twice before (SN 25.2, SN 26.2) under two different "
+            "formulas.",
+        ]),
+        ("A fixed formula, held constant a third time", [
+            "As with SN 25 and SN 26's own working methods, this "
+            "saṃyutta repeats a fixed formula word for word across "
+            "its discourses, changing only the opening category "
+            "&mdash; confirming this saṃyutta's structure mirrors its "
+            "two siblings' exactly, down to the level of formulaic "
+            "repetition.",
+        ]),
+        ("Desire for any of the six, equally corrupting", [
+            "The discourse gives no priority among the six objects "
+            "&mdash; desire for sights corrupts the mind no more or "
+            "less directly than desire for sounds, smells, tastes, "
+            "touches, or ideas. All six receive identical treatment.",
+        ]),
+        ("Eight categories still to come", [
+            "This saṃyutta's remaining eight discourses will proceed "
+            "through the same chain SN 25 and SN 26 already walked: "
+            "consciousness, contact, feeling, perception, intention, "
+            "craving, the elements, and finally the five aggregates.",
+        ]),
+    ],
+    terms=[
+        ("rūpa", "sights, visible forms — the first of the six external sense objects named in this discourse"),
+        ("āyatana", "sense base — the internal faculties (SN 27.1) and external objects (this discourse) together comprise the classic twelve sense bases"),
+        ("chandarāga", "desire and greed — this saṃyutta's own standing corrupting factor, unchanged from SN 27.1"),
+        ("nekkhamma", "renunciation — where the mind inclines once this corruption is given up"),
+        ("abhiññā", "insight, direct knowledge — the work a renunciation-imbued mind becomes fit for"),
+    ],
+    text_intro=("The complete discourse: the six sense objects named a "
+        "corruption of the mind, and the path to fitness for insight "
+        "work. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn27.2:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What six items does this discourse examine?",
+         "opts": ["Sights, sounds, smells, tastes, touches, and ideas — the six external sense objects",
+                  "The six internal sense faculties", "The five aggregates", "The six sense-consciousnesses"],
+         "correct": 0,
+         "expl": "Completing the classic twelve sense bases together with SN 27.1's own six internal faculties."},
+        {"q": "How does this discourse's formula compare to SN 27.1's own?",
+         "opts": ["Identical, word for word, with only the opening category changed", "Substantially rewritten", "Reduced to a single clause", "Reversed in meaning"],
+         "correct": 0,
+         "expl": "Confirming this saṃyutta's own fixed-formula working method, mirroring its two siblings'."},
+        {"q": "Does this discourse treat any of the six sense objects as more corrupting than the others?",
+         "opts": ["No — all six receive identical treatment", "Yes, sights are given special priority", "Yes, ideas are treated as uniquely corrupting", "The discourse only examines one object"],
+         "correct": 0,
+         "expl": "The equivalence holds regardless of which sense door is in question."},
+        {"q": "How many times has this project now examined the twelve sense bases under different formulas?",
+         "opts": ["Three times — SN 25, SN 26, and now SN 27", "Only once, here", "Twice, but not including this discourse", "This is the first examination of the twelve sense bases"],
+         "correct": 0,
+         "expl": "Three complementary formulas applied to the identical categories."},
+        {"q": "What eight further categories will this saṃyutta's remaining discourses proceed through?",
+         "opts": ["Consciousness, contact, feeling, perception, intention, craving, elements, and the aggregates",
+                  "A repeat of the twelve sense bases", "The four named-teacher doctrines", "The ten undetermined questions"],
+         "correct": 0,
+         "expl": "The identical sequence already established at SN 25 and SN 26."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What does giving up corruption in these six cases lead to, according to this discourse?",
+         "opts": ["The mind inclining to renunciation", "Further desire and greed", "No change in the mind's disposition", "Immediate full awakening"],
+         "correct": 0,
+         "expl": "The same claim made at SN 27.1, unchanged here."},
+        {"q": "What is a mind imbued with renunciation said to be fit for?",
+         "opts": ["Work regarding anything that can be realized by insight", "Only ordinary daily tasks", "Nothing in particular", "Further corruption"],
+         "correct": 0,
+         "expl": "Unchanged from SN 27.1's own closing claim."},
+        {"q": "What discourse comes next in this saṃyutta's sequence?",
+         "opts": ["SN 27.3, applying the formula to the six sense-consciousnesses", "SN 27.10, skipping ahead to the close", "SN 27.1, repeated", "A return to SN 26's own content"],
+         "correct": 0,
+         "expl": "Continuing the standard analytical chain."},
+        {"q": "What is this saṃyutta's own standing corrupting factor?",
+         "opts": ["Chandarāga — desire and greed", "Avijjā — ignorance alone", "Māna — conceit alone", "Diṭṭhi — wrong view alone"],
+         "correct": 0,
+         "expl": "The specific factor this saṃyutta locates the corruption in, not the categories themselves."},
+    ],
+    marginalia=[
+        ("The other half, a third time", [
+            "sights, sounds, smells, tastes, touches, ideas &mdash;",
+            "completing the twelve sense bases with SN 27.1",
+        ]),
+        ("A fixed formula, held constant again", [
+            "word for word, only the topic changes &mdash;",
+            "mirroring SN 25 and SN 26's own exact method",
+        ]),
+        ("No priority among the six", [
+            "each object equally corrupting &mdash;",
+            "the equivalence holds at every sense door",
+        ]),
+        ("Eight more categories ahead", [
+            "consciousness, contact, feeling, perception &mdash;",
+            "intention, craving, elements, aggregates",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn27.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-27.1.html">SN 27.1 &middot; The Eye</a> '
+        "&mdash; the previous discourse, this saṃyutta's own opening "
+        "and source for the shared formula.",
+        '<a href="sn-27.3.html">SN 27.3 &middot; Consciousness</a> '
+        "&mdash; the next discourse, applying the formula to the six "
+        "sense-consciousnesses.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 27.3 — Viññāṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    27, 3, "Viññāṇa", "Consciousness",
+    vagga="Kilesavagga",
+    meta_title="SN 27.3 — Consciousness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Viññāṇasutta &mdash; the same formula applied to the six "
+        "sense-consciousnesses, this saṃyutta's last discourse given "
+        "in full before compression begins. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The complete corruption/renunciation/insight "
+                 "formula, spelled out in full one last time before "
+                 "compression begins at SN 27.4"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and familiar after SN 27.1–2"),
+    ],
+    why=(
+        "The third step in this saṃyutta's sequence, completing the "
+        "eighteen elements together with SN 27.1&ndash;2 &mdash; and, "
+        "notably, this saṃyutta's own last discourse given in full "
+        "before compression begins. Where both SN 25 and SN 26 "
+        "started compressing at this exact category, this saṃyutta "
+        "holds off one discourse longer, compressing only from "
+        "SN 27.4 onward."
+    ),
+    guide=[
+        ("Consciousness, completing the eighteen elements a third time", [
+            "\"Desire and greed for eye consciousness, ear "
+            "consciousness, nose consciousness, tongue consciousness, "
+            "body consciousness, or mind consciousness is a "
+            "corruption of the mind\" &mdash; the same six-"
+            "consciousness set examined twice before, now given this "
+            "saṃyutta's own corruption/renunciation formula in full.",
+        ]),
+        ("A small but real structural difference from its two siblings", [
+            "Both SN 25.3 and SN 26.3 marked the point where their "
+            "own sources began compressing. This discourse instead "
+            "receives the complete, unelided formula &mdash; this "
+            "saṃyutta holds its full treatment one discourse longer "
+            "than either sibling before compression sets in at "
+            "SN 27.4.",
+        ]),
+        ("Why this might be", [
+            "This saṃyutta's own base formula is itself considerably "
+            "shorter than SN 25's three-tier definition or SN 26's own "
+            "doubled arising-and-cessation statement &mdash; a single "
+            "compact paragraph rather than two parallel ones. A "
+            "shorter base unit may simply tolerate one more discourse "
+            "of full repetition before the source text's compiler "
+            "judged compression worthwhile.",
+        ]),
+        ("Seven categories still to come, now compressed", [
+            "SN 27.4 through SN 27.9 will proceed through contact, "
+            "feeling, perception, intention, craving, and the "
+            "elements in compressed form, before SN 27.10 returns to "
+            "full treatment for this saṃyutta's own close.",
+        ]),
+    ],
+    terms=[
+        ("cakkhuviññāṇa", "eye-consciousness — the first of the six sense-consciousnesses named in this discourse"),
+        ("dhātu", "element — faculty, object, and consciousness together comprise the classic eighteen elements"),
+        ("chandarāga", "desire and greed — this saṃyutta's own standing corrupting factor"),
+        ("nekkhamma", "renunciation — where the mind inclines once this corruption is given up"),
+        ("abhiññā", "insight, direct knowledge — the work a renunciation-imbued mind becomes fit for"),
+    ],
+    text_intro=("The complete discourse: the six sense-consciousnesses named "
+        "a corruption of the mind, given in full one last time before "
+        "compression begins. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn27.3:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What six items does this discourse examine?",
+         "opts": ["Eye-consciousness, ear-consciousness, and the other four sense-consciousnesses",
+                  "The six sense faculties", "The six sense objects", "The five aggregates"],
+         "correct": 0,
+         "expl": "Completing the eighteen elements together with SN 27.1–2."},
+        {"q": "How does this discourse's treatment differ from SN 25.3 and SN 26.3's own treatment of the identical category?",
+         "opts": ["This discourse is given in full, while both sibling saṃyuttas began compressing at this exact point", "This discourse is compressed, unlike its two siblings", "All three saṃyuttas compress identically at this point", "None of the three saṃyuttas ever compress"],
+         "correct": 0,
+         "expl": "A small but real structural difference between this saṃyutta and its two siblings."},
+        {"q": "What possible reason does this reading guide suggest for this saṃyutta holding off compression one discourse longer?",
+         "opts": ["Its own base formula is considerably shorter than SN 25 or SN 26's own, tolerating more full repetition", "There is no discernible reason at all", "This saṃyutta actually never compresses anywhere", "The source text is simply corrupted at this point"],
+         "correct": 0,
+         "expl": "A single compact paragraph rather than two parallel arising/cessation statements."},
+        {"q": "At what discourse does this saṃyutta's own compression finally begin?",
+         "opts": ["SN 27.4", "SN 27.3, matching its two siblings", "SN 27.1, from the very start", "This saṃyutta never compresses"],
+         "correct": 0,
+         "expl": "One discourse later than either SN 25 or SN 26's own compression point."},
+        {"q": "What do SN 27.1, 27.2, and this discourse together comprise?",
+         "opts": ["The eighteen elements (dhātu)", "The five aggregates", "The four noble truths", "The twelve links of dependent origination"],
+         "correct": 0,
+         "expl": "Six faculties, six objects, six consciousnesses."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What seven categories will SN 27.4–9 proceed through, in compressed form?",
+         "opts": ["Contact, feeling, perception, intention, craving, and the elements (six categories across six discourses, plus one more before the close)", "A repeat of the eighteen elements", "The four named-teacher doctrines", "The ten undetermined questions"],
+         "correct": 0,
+         "expl": "Completing this saṃyutta's own ten-part sequence before SN 27.10 returns to full treatment."},
+        {"q": "What is the first of the six sense-consciousnesses named in this discourse?",
+         "opts": ["Eye-consciousness", "Mind-consciousness", "Ear-consciousness", "Body-consciousness"],
+         "correct": 0,
+         "expl": "Followed by ear, nose, tongue, body, and mind consciousness."},
+        {"q": "What discourse comes next in this saṃyutta's sequence?",
+         "opts": ["SN 27.4, applying the formula to the six kinds of contact", "SN 27.10, skipping ahead to the close", "SN 27.1, repeated", "A return to SN 26's own content"],
+         "correct": 0,
+         "expl": "Continuing the standard analytical chain, now compressed."},
+        {"q": "What is this saṃyutta's own standing corrupting factor?",
+         "opts": ["Chandarāga — desire and greed", "Avijjā — ignorance alone", "Māna — conceit alone", "Diṭṭhi — wrong view alone"],
+         "correct": 0,
+         "expl": "Unchanged from SN 27.1 and SN 27.2."},
+    ],
+    marginalia=[
+        ("The third leg of the eighteen elements", [
+            "eye-consciousness through mind-consciousness &mdash;",
+            "completing faculty and object with consciousness itself",
+        ]),
+        ("One discourse longer, before compression", [
+            "SN 25.3 and SN 26.3 compressed here &mdash;",
+            "this saṃyutta holds off until SN 27.4",
+        ]),
+        ("A shorter base formula, perhaps why", [
+            "one compact paragraph, not two &mdash;",
+            "tolerating a little more full repetition",
+        ]),
+        ("Seven categories ahead, now compressed", [
+            "contact, feeling, perception, intention &mdash;",
+            "craving, elements, then the close in full",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn27.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-27.2.html">SN 27.2 &middot; Sights</a> '
+        "&mdash; the previous discourse, this saṃyutta's own sense-"
+        "object half of the eighteen elements.",
+        '<a href="sn-27.4.html">SN 27.4 &middot; Contact</a> '
+        "&mdash; the next discourse, moving beyond the eighteen "
+        "elements and into this saṃyutta's own compressed treatment.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 27.4 — Phassasutta
+# --------------------------------------------------------------------------- #
+page(
+    27, 4, "Phassa", "Contact",
+    vagga="Kilesavagga",
+    meta_title="SN 27.4 — Contact | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Phassasutta &mdash; the same formula applied to the six "
+        "kinds of contact, the first discourse in this saṃyutta's own "
+        "compressed treatment. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The compressed corruption formula, this saṃyutta's "
+                 "own compression pattern beginning here"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and familiar by this point"),
+    ],
+    why=(
+        "The fourth step, and the point where this saṃyutta's own "
+        "compression finally begins &mdash; one discourse later than "
+        "either SN 25 or SN 26's own compression point. Contact "
+        "(phassa) receives the identical desire-and-greed-as-"
+        "corruption treatment as the eighteen elements before it."
+    ),
+    guide=[
+        ("Six contacts, desire for each a corruption", [
+            "\"Desire and greed for eye contact, ear contact, nose "
+            "contact, tongue contact, body contact, or mind contact "
+            "is a corruption of the mind. …\" &mdash; the six-item "
+            "list given in full, with the renunciation-and-insight "
+            "conclusion now trusted to memory from SN 27.1&ndash;3.",
+        ]),
+        ("Compression arrives one discourse later than its siblings", [
+            "As noted at SN 27.3, this saṃyutta's own compression "
+            "begins here rather than at the consciousness discourse "
+            "&mdash; a small structural offset from SN 25 and SN 26's "
+            "own identical compression points, though the underlying "
+            "principle (trust the reader after enough repetition) is "
+            "the same.",
+        ]),
+        ("Desire for contact itself, not merely its downstream effects", [
+            "As with every category in this saṃyutta, the corruption "
+            "is located in desire and greed for contact itself, not "
+            "in whatever contact might lead to afterward &mdash; "
+            "consistent with this saṃyutta's own framing since "
+            "SN 27.1.",
+        ]),
+        ("Six categories still to come", [
+            "SN 27.5 through SN 27.9 will continue through feeling, "
+            "perception, intention, craving, and the elements in the "
+            "same compressed form, before SN 27.10 closes this "
+            "saṃyutta in full.",
+        ]),
+    ],
+    terms=[
+        ("phassa", "contact — the meeting of faculty, object, and consciousness, the subject of this discourse"),
+        ("chandarāga", "desire and greed — this saṃyutta's own standing corrupting factor"),
+        ("peyyāla", "an elision mark — marking this saṃyutta's own compression, beginning here rather than at consciousness"),
+        ("nekkhamma", "renunciation — where the mind inclines once this corruption is given up, implied though not restated here"),
+        ("cakkhusamphassa", "eye contact — the first of the six contacts named in this discourse"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the six "
+        "kinds of contact named a corruption of the mind. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn27.4:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What six items does this discourse examine?",
+         "opts": ["Eye contact, ear contact, and the other four kinds of contact", "The six sense faculties", "The six sense objects", "The five aggregates"],
+         "correct": 0,
+         "expl": "The meeting-point of faculty, object, and consciousness."},
+        {"q": "At what discourse does this saṃyutta's own compression begin?",
+         "opts": ["This discourse (SN 27.4), one later than SN 25 and SN 26's own compression point", "SN 27.3, matching its two siblings", "SN 27.1, from the very start", "This saṃyutta never compresses"],
+         "correct": 0,
+         "expl": "A small structural offset noted already at SN 27.3."},
+        {"q": "Where is the corruption located, according to this saṃyutta's own consistent framing?",
+         "opts": ["In desire and greed for contact itself, not in whatever contact might lead to afterward", "In contact's own downstream effects only", "In the absence of contact", "In consciousness alone"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's framing since SN 27.1."},
+        {"q": "What does this discourse trust the reader to supply, given its own compression?",
+         "opts": ["The renunciation-and-insight conclusion established in full at SN 27.1–3", "An entirely different conclusion unique to this discourse", "No conclusion at all", "The four named-teacher doctrines"],
+         "correct": 0,
+         "expl": "The identical closing formula, no longer spelled out in full."},
+        {"q": "What six categories remain after this discourse?",
+         "opts": ["Feeling, perception, intention, craving, the elements, and the aggregates", "A repeat of the eighteen elements", "Only craving remains", "No categories remain"],
+         "correct": 0,
+         "expl": "Completing this saṃyutta's own ten-part sequence."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What earlier discourse in this project examined this same category with a different formula?",
+         "opts": ["SN 25.4 and SN 26.4, using two different formulas", "No earlier discourse examined contact", "SN 22.151, using the self-view formula", "SN 24.1, using the undetermined-questions formula"],
+         "correct": 0,
+         "expl": "The identical category, examined a third time under this saṃyutta's own formula."},
+        {"q": "What is the first of the six contacts named in this discourse?",
+         "opts": ["Eye contact", "Mind contact", "Ear contact", "Body contact"],
+         "correct": 0,
+         "expl": "Followed by ear, nose, tongue, body, and mind contact."},
+        {"q": "What discourse comes next in this saṃyutta's sequence?",
+         "opts": ["SN 27.5, examining feeling", "SN 27.10, skipping ahead to the close", "SN 27.1, repeated", "SN 27.8, skipping ahead to craving"],
+         "correct": 0,
+         "expl": "Continuing one link at a time through the standard chain."},
+        {"q": "What is this saṃyutta's own standing corrupting factor?",
+         "opts": ["Chandarāga — desire and greed", "Avijjā — ignorance alone", "Māna — conceit alone", "Diṭṭhi — wrong view alone"],
+         "correct": 0,
+         "expl": "Unchanged from SN 27.1 through SN 27.3."},
+    ],
+    marginalia=[
+        ("Where three elements converge", [
+            "faculty, object, consciousness, meeting &mdash;",
+            "contact, named for the mind's own corruption",
+        ]),
+        ("Compression, one discourse later", [
+            "not at consciousness, but here &mdash;",
+            "a small offset from SN 25 and SN 26's own pattern",
+        ]),
+        ("Desire for contact, not contact itself", [
+            "the corruption lies in chandarāga &mdash;",
+            "consistent with this saṃyutta's own framing throughout",
+        ]),
+        ("Six categories still to walk", [
+            "feeling, perception, intention, craving &mdash;",
+            "elements, then the close in full",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn27.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-27.3.html">SN 27.3 &middot; Consciousness</a> '
+        "&mdash; the previous discourse, completing the eighteen "
+        "elements this discourse's own contact arises from.",
+        '<a href="sn-27.5.html">SN 27.5 &middot; Feeling</a> '
+        "&mdash; the next discourse, the link that arises directly "
+        "from contact.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 27.5 — Vedanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    27, 5, "Vedanā", "Feeling",
+    vagga="Kilesavagga",
+    meta_title="SN 27.5 — Feeling | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vedanāsutta &mdash; the same formula applied to the six "
+        "feelings born of contact, with a small translation "
+        "inconsistency worth noting. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The compressed corruption formula, matching "
+                 "SN 27.4's own treatment"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and familiar by this point"),
+    ],
+    why=(
+        "The fifth step: feeling (vedanā) born of each of the six "
+        "contacts, given this saṃyutta's own corruption/renunciation "
+        "treatment &mdash; and a small but worth-noting moment where "
+        "Sujato's translation shifts from \"corruption\" to "
+        "\"defilement\" for the identical underlying Pāli term."
+    ),
+    guide=[
+        ("Six feelings, each traced to its own contact", [
+            "\"Desire and greed for feeling born of eye contact, "
+            "feeling born of ear contact, feeling born of nose "
+            "contact, feeling born of tongue contact, feeling born of "
+            "body contact, or feeling born of mind contact is a "
+            "defilement of the mind. …\" &mdash; each feeling "
+            "explicitly traced back to its producing contact, exactly "
+            "as SN 25.5 and SN 26.5's own phrasing at this category.",
+        ]),
+        ("A translation inconsistency worth flagging honestly", [
+            "This discourse's translation reads \"is a defilement of "
+            "the mind\" rather than the \"corruption of the mind\" "
+            "used at every other discourse in this saṃyutta &mdash; "
+            "almost certainly the identical Pāli term (upakkilesa) "
+            "rendered with a different English word at this one point, "
+            "an inconsistency in Sujato's own translation rather than "
+            "a deliberate variation in the source. This reading guide "
+            "notes it rather than silently smoothing it over.",
+        ]),
+        ("Feeling, no exception to the pattern", [
+            "Despite feeling's own special status elsewhere in the "
+            "Nikāyas as the hinge point where craving can be "
+            "interrupted, this discourse gives it no different "
+            "treatment than any other category &mdash; the same "
+            "six-item structure, the same compression, the same "
+            "underlying corrupting factor.",
+        ]),
+        ("Four categories still to come", [
+            "SN 27.6 through SN 27.9 will continue through perception, "
+            "intention, craving, and the elements, before SN 27.10 "
+            "closes this saṃyutta in full.",
+        ]),
+    ],
+    terms=[
+        ("vedanā", "feeling — the sensation born of contact, the subject of this discourse"),
+        ("cakkhusamphassajā vedanā", "feeling born of eye contact — the first of the six feelings named, each explicitly traced to its producing contact"),
+        ("upakkilesa", "corruption, defilement — the underlying term this discourse's translation renders \"defilement,\" inconsistently with \"corruption\" used elsewhere in this saṃyutta"),
+        ("chandarāga", "desire and greed — this saṃyutta's own standing corrupting factor"),
+        ("taṇhā", "craving — the link several steps ahead in this saṃyutta's sequence (SN 27.8)"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the six "
+        "feelings named a corruption (rendered \"defilement\" here) "
+        "of the mind. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn27.5:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What six items does this discourse examine?",
+         "opts": ["The six feelings, each born of its own corresponding contact", "The six sense faculties", "The six sense objects", "The five aggregates"],
+         "correct": 0,
+         "expl": "Feeling born of eye contact, ear contact, and the other four."},
+        {"q": "What translation inconsistency does this discourse show, compared to the rest of this saṃyutta?",
+         "opts": ["It reads \"defilement of the mind\" rather than the \"corruption of the mind\" used everywhere else", "It omits the word entirely", "It uses a third, entirely different word", "There is no inconsistency at all"],
+         "correct": 0,
+         "expl": "Almost certainly the identical Pāli term rendered differently at this one point in Sujato's translation."},
+        {"q": "How does this reading guide handle this inconsistency?",
+         "opts": ["It notes the inconsistency honestly rather than silently smoothing it over", "It silently corrects the translation to match the rest of the saṃyutta", "It ignores the discrepancy entirely", "It claims the inconsistency reveals a different underlying Pāli term"],
+         "correct": 0,
+         "expl": "Consistent with this project's general practice of flagging rather than hiding textual quirks."},
+        {"q": "Does this discourse give feeling any special treatment, despite its significance elsewhere in the Nikāyas?",
+         "opts": ["No — the same six-item structure, compression, and corrupting factor as every other category", "Yes, feeling receives uniquely extensive treatment here", "Feeling is omitted from this saṃyutta entirely", "Feeling is treated as unrelated to corruption"],
+         "correct": 0,
+         "expl": "No different treatment despite feeling's own status as the hinge point elsewhere in the Nikāyas."},
+        {"q": "What four categories remain after this discourse?",
+         "opts": ["Perception, intention, craving, and the elements", "A repeat of the eighteen elements", "Only craving remains", "No categories remain"],
+         "correct": 0,
+         "expl": "Completing this saṃyutta's own ten-part sequence."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What is the first of the six feelings named in this discourse?",
+         "opts": ["Feeling born of eye contact", "Feeling born of mind contact", "Feeling born of body contact", "An unspecified generic feeling"],
+         "correct": 0,
+         "expl": "Followed by feeling born of ear, nose, tongue, body, and mind contact."},
+        {"q": "What discourse comes next in this saṃyutta's sequence?",
+         "opts": ["SN 27.6, examining perception", "SN 27.10, skipping ahead to the close", "SN 27.1, repeated", "SN 27.8, skipping ahead to craving"],
+         "correct": 0,
+         "expl": "Continuing one link at a time through the standard chain."},
+        {"q": "What underlying Pāli term likely lies behind both \"corruption\" and \"defilement\" in this saṃyutta's translation?",
+         "opts": ["Upakkilesa", "Taṇhā", "Chandarāga", "Nekkhamma"],
+         "correct": 0,
+         "expl": "The technical term this saṃyutta's own name (kilesa) derives from, in its fuller form."},
+        {"q": "What discourse in this project's earlier coverage examined feeling with a different formula?",
+         "opts": ["SN 25.5 and SN 26.5, using two other formulas", "No earlier discourse examined feeling", "SN 22.151", "SN 24.1"],
+         "correct": 0,
+         "expl": "The identical category, now examined a third time."},
+    ],
+    marginalia=[
+        ("Six feelings, six sources", [
+            "each traced back to its own contact &mdash;",
+            "the same phrasing pattern seen at SN 25.5 and 26.5",
+        ]),
+        ("A word slips, just once", [
+            "\"defilement\" here, \"corruption\" elsewhere &mdash;",
+            "the same term, rendered inconsistently",
+        ]),
+        ("No special treatment for the hinge point", [
+            "feeling, no exception to the rule &mdash;",
+            "the identical formula as every other category",
+        ]),
+        ("Four categories still to walk", [
+            "perception, intention, craving &mdash;",
+            "elements, then the close in full",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn27.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-27.4.html">SN 27.4 &middot; Contact</a> '
+        "&mdash; the previous discourse, this discourse's own direct "
+        "condition.",
+        '<a href="sn-27.6.html">SN 27.6 &middot; Perception</a> '
+        "&mdash; the next discourse, continuing this saṃyutta's chain "
+        "one link further.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 27.6 — Saññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    27, 6, "Saññā", "Perception",
+    vagga="Kilesavagga",
+    meta_title="SN 27.6 — Perception | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saññāsutta &mdash; the same formula applied to the six "
+        "perceptions of sense objects, this saṃyutta's own halfway "
+        "point. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The compressed corruption formula, matching "
+                 "SN 27.4–5's own treatment"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and familiar by this point"),
+    ],
+    why=(
+        "This saṃyutta's own halfway point: perception (saññā) of "
+        "each of the six sense objects, given the same corruption/"
+        "renunciation identity as every category before it, at the "
+        "identical sequence position where both SN 25.6 and SN 26.6 "
+        "marked their own halfway points."
+    ),
+    guide=[
+        ("Six perceptions, framed by object", [
+            "\"Desire and greed for perception of sights, perception "
+            "of sounds, perception of smells, perception of tastes, "
+            "perception of touches, or perception of ideas is a "
+            "corruption of the mind. …\" &mdash; naming perception by "
+            "its object, matching both sibling saṃyuttas' own framing "
+            "at this identical category.",
+        ]),
+        ("A third saṃyutta reaching its own midpoint at the same category", [
+            "SN 25.6, SN 26.6, and now this discourse all mark their "
+            "respective saṃyuttas' halfway points &mdash; a "
+            "structural regularity that holds because all three "
+            "saṃyuttas share the identical ten-category sequence in "
+            "the identical order.",
+        ]),
+        ("Recognition, held to the same standard as everything else", [
+            "Perception's usual role in the standard chain &mdash; "
+            "identifying and labeling experience &mdash; receives no "
+            "gentler treatment in this saṃyutta's own formula than "
+            "the sense faculties did at SN 27.1: desire for it "
+            "corrupts the mind just as directly.",
+        ]),
+        ("Three categories still to come", [
+            "SN 27.7 through SN 27.9 will continue through intention, "
+            "craving, and the elements, before SN 27.10 closes this "
+            "saṃyutta in full.",
+        ]),
+    ],
+    terms=[
+        ("saññā", "perception — the cognitive act of recognizing and labeling sense experience, the subject of this discourse"),
+        ("rūpasaññā", "perception of sights — the first of the six perceptions named, framed by object as at SN 25.6 and 26.6"),
+        ("chandarāga", "desire and greed — this saṃyutta's own standing corrupting factor"),
+        ("nekkhamma", "renunciation — where the mind inclines once this corruption is given up, implied though not restated here"),
+        ("cetanā", "intention — the next link in this saṃyutta's own sequence (SN 27.7)"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the six "
+        "perceptions named a corruption of the mind. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn27.6:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What six items does this discourse examine?",
+         "opts": ["The six perceptions — of sights, sounds, smells, tastes, touches, and ideas", "The six sense faculties", "The six kinds of feeling", "The five aggregates"],
+         "correct": 0,
+         "expl": "Framed by object, matching both sibling saṃyuttas' own framing at this category."},
+        {"q": "What milestone does this discourse mark, mirroring SN 25.6 and SN 26.6?",
+         "opts": ["This saṃyutta's own halfway point — five of ten categories now complete", "The final discourse in the saṃyutta", "The saṃyutta's own opening discourse", "No particular milestone"],
+         "correct": 0,
+         "expl": "All three saṃyuttas mark their own halfway points at the identical category."},
+        {"q": "Why does this structural regularity hold across all three saṃyuttas?",
+         "opts": ["All three share the identical ten-category sequence in the identical order", "It is pure coincidence with no underlying reason", "Only two of the three saṃyuttas actually share this structure", "The three saṃyuttas have different category counts"],
+         "correct": 0,
+         "expl": "Confirmed repeatedly across SN 25, SN 26, and now SN 27."},
+        {"q": "Does this saṃyutta treat perception's arising as less significant than earlier categories?",
+         "opts": ["No — desire for perception corrupts the mind just as directly as desire for the sense faculties did", "Yes, perception is treated as harmless", "The discourse doesn't address perception at all", "Perception is treated as uniquely corrupting"],
+         "correct": 0,
+         "expl": "No distinction in severity is drawn between the earliest and latest links in the chain."},
+        {"q": "What three categories remain after this discourse?",
+         "opts": ["Intention, craving, and the elements", "A repeat of the eighteen elements", "Only craving remains", "No categories remain"],
+         "correct": 0,
+         "expl": "Completing this saṃyutta's own ten-part sequence."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What is the first of the six perceptions named in this discourse?",
+         "opts": ["Perception of sights", "Perception of ideas", "Perception of sounds", "An unspecified generic perception"],
+         "correct": 0,
+         "expl": "Followed by perception of sounds, smells, tastes, touches, and ideas."},
+        {"q": "What discourse comes next in this saṃyutta's sequence?",
+         "opts": ["SN 27.7, examining intention", "SN 27.10, skipping ahead to the close", "SN 27.1, repeated", "SN 27.8, skipping ahead to craving"],
+         "correct": 0,
+         "expl": "Continuing one link at a time through the standard chain."},
+        {"q": "What is this saṃyutta's own standing corrupting factor?",
+         "opts": ["Chandarāga — desire and greed", "Avijjā — ignorance alone", "Māna — conceit alone", "Diṭṭhi — wrong view alone"],
+         "correct": 0,
+         "expl": "Unchanged throughout this saṃyutta's ten discourses."},
+        {"q": "What role does perception play in the standard analytical chain?",
+         "opts": ["Recognizing and labeling experience", "Generating craving directly, bypassing all other links", "An identical function to feeling itself", "No defined role at all"],
+         "correct": 0,
+         "expl": "A cognitive act of identification, given no gentler treatment here than any other link."},
+    ],
+    marginalia=[
+        ("Six perceptions, named by object", [
+            "sights, sounds, smells, tastes, touches, ideas &mdash;",
+            "the same framing SN 25.6 and 26.6 used here",
+        ]),
+        ("A third midpoint, the same category", [
+            "five of ten, in all three saṃyuttas &mdash;",
+            "confirming their shared underlying structure",
+        ]),
+        ("No gentler treatment", [
+            "perception's desire corrupts too &mdash;",
+            "the same urgency as every earlier link",
+        ]),
+        ("Three categories still to walk", [
+            "intention, craving, elements &mdash;",
+            "then this saṃyutta's own full close",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn27.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-27.5.html">SN 27.5 &middot; Feeling</a> '
+        "&mdash; the previous discourse, the link preceding "
+        "perception in this saṃyutta's own sequence.",
+        '<a href="sn-27.7.html">SN 27.7 &middot; Intention</a> '
+        "&mdash; the next discourse, continuing this saṃyutta's chain "
+        "one link further.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 27.7 — Cetanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    27, 7, "Cetanā", "Intention",
+    vagga="Kilesavagga",
+    meta_title="SN 27.7 — Intention | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Cetanāsutta &mdash; the same formula applied to the six "
+        "intentions regarding sense objects, the link directly "
+        "preceding craving. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The compressed corruption formula, matching "
+                 "SN 27.4–6's own treatment"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and familiar by this point"),
+    ],
+    why=(
+        "The seventh step, and the last link this saṃyutta examines "
+        "before craving itself: intention (cetanā) regarding each of "
+        "the six sense objects, given the identical corruption "
+        "treatment as every category before it."
+    ),
+    guide=[
+        ("Six intentions, the same corruption once more", [
+            "\"Desire and greed for intention regarding sights, "
+            "intention regarding sounds, intention regarding smells, "
+            "intention regarding tastes, intention regarding touches, "
+            "or intention regarding ideas is a corruption of the "
+            "mind. …\" &mdash; volitional intention, framed by object "
+            "as at SN 27.6, given no different treatment than any "
+            "other category.",
+        ]),
+        ("Desire for intention itself, a step removed from craving", [
+            "Worth distinguishing carefully: this discourse names "
+            "desire and greed for intention as the corruption, not "
+            "intention's own volitional character as inherently "
+            "corrupt &mdash; the same structure this saṃyutta has "
+            "applied consistently since SN 27.1, now reaching the "
+            "category standing immediately upstream of craving.",
+        ]),
+        ("One step from this saṃyutta's own climax", [
+            "This discourse closes the contact-feeling-perception-"
+            "intention sequence walked one link at a time since "
+            "SN 27.4; SN 27.8 will name craving itself next.",
+        ]),
+        ("The same compressed treatment, unchanged", [
+            "As with the three discourses before it, the six-item "
+            "list is given in full, with the renunciation-and-insight "
+            "conclusion trusted to memory from SN 27.1&ndash;3.",
+        ]),
+    ],
+    terms=[
+        ("cetanā", "intention — the volitional response to perceived experience, the subject of this discourse"),
+        ("rūpasañcetanā", "intention regarding sights — the first of the six intentions named, framed by object as at SN 27.6"),
+        ("chandarāga", "desire and greed — this saṃyutta's own standing corrupting factor, located in desire for intention, not intention's own volitional character"),
+        ("peyyāla", "an elision mark — continuing this saṃyutta's compression pattern from SN 27.4–6"),
+        ("taṇhā", "craving — the very next link in this saṃyutta's sequence (SN 27.8)"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the six "
+        "intentions named a corruption of the mind. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn27.7:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What six items does this discourse examine?",
+         "opts": ["The six intentions — regarding sights, sounds, smells, tastes, touches, and ideas", "The six sense faculties", "The six kinds of perception", "The five aggregates"],
+         "correct": 0,
+         "expl": "Volitional intention, framed by object as at SN 27.6."},
+        {"q": "What exactly does this discourse name as the corruption, regarding intention?",
+         "opts": ["Desire and greed for intention, not intention's own volitional character as inherently corrupt", "Intention itself, regardless of any desire toward it", "The complete absence of intention", "Only intentions regarding ideas specifically"],
+         "correct": 0,
+         "expl": "The same structure applied consistently since SN 27.1."},
+        {"q": "What position does this discourse occupy in this saṃyutta's sequence?",
+         "opts": ["The last of the contact-feeling-perception-intention chain, immediately before craving", "The saṃyutta's own opening discourse", "The final discourse in the entire saṃyutta", "A discourse unrelated to the surrounding chain"],
+         "correct": 0,
+         "expl": "SN 27.8 will name craving next."},
+        {"q": "How does this discourse's compression compare to SN 27.4–6's own?",
+         "opts": ["The same compressed treatment throughout", "Considerably fuller", "Considerably more compressed", "A return to SN 27.1's full treatment"],
+         "correct": 0,
+         "expl": "The six-item list given in full, closing formula trusted to memory."},
+        {"q": "What earlier discourse in this project examined this same category with a different formula?",
+         "opts": ["SN 25.7 and SN 26.7, using two other formulas", "No earlier discourse examined intention", "SN 22.151", "SN 24.1"],
+         "correct": 0,
+         "expl": "The identical category, examined a third time under this saṃyutta's own formula."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What discourse examines the link that follows intention in this sequence?",
+         "opts": ["SN 27.8, examining craving", "SN 27.10, skipping ahead to the close", "SN 27.1, repeated", "SN 27.9, skipping ahead to the elements"],
+         "correct": 0,
+         "expl": "Reaching this sequence's own climax before two final, broader categories."},
+        {"q": "What is the first of the six intentions named in this discourse?",
+         "opts": ["Intention regarding sights", "Intention regarding ideas", "Intention regarding sounds", "An unspecified generic intention"],
+         "correct": 0,
+         "expl": "Followed by intention regarding sounds, smells, tastes, touches, and ideas."},
+        {"q": "What distinguishes intention from perception in the standard chain?",
+         "opts": ["Intention is volitional, already moving toward response, unlike perception's more passive recognition", "There is no meaningful distinction between them", "Intention precedes perception in the standard order", "Perception is more karmically significant"],
+         "correct": 0,
+         "expl": "A step closer to active response than perception's own recognition."},
+        {"q": "What is this saṃyutta's own standing corrupting factor?",
+         "opts": ["Chandarāga — desire and greed", "Avijjā — ignorance alone", "Māna — conceit alone", "Diṭṭhi — wrong view alone"],
+         "correct": 0,
+         "expl": "Unchanged throughout this saṃyutta's ten discourses."},
+    ],
+    marginalia=[
+        ("Six intentions, one per object", [
+            "sights, sounds, smells, tastes, touches, ideas &mdash;",
+            "desire for volition, still the corruption",
+        ]),
+        ("Not volition itself, desire for it", [
+            "the same careful distinction as elsewhere &mdash;",
+            "chandarāga names the fault, not intention itself",
+        ]),
+        ("This chain's own climax, one step away", [
+            "contact, feeling, perception, intention &mdash;",
+            "craving named next, the point it all builds toward",
+        ]),
+        ("The same compression, still unbroken", [
+            "six items in full, closing trusted to memory &mdash;",
+            "the pattern holding since SN 27.4",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn27.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-27.6.html">SN 27.6 &middot; Perception</a> '
+        "&mdash; the previous discourse, the link preceding intention "
+        "in this saṃyutta's own sequence.",
+        '<a href="sn-27.8.html">SN 27.8 &middot; Craving</a> '
+        "&mdash; the next discourse, this sequence's own climax.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 27.8 — Taṇhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    27, 8, "Taṇhā", "Craving",
+    vagga="Kilesavagga",
+    meta_title="SN 27.8 — Craving | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Taṇhāsutta &mdash; the same formula applied to the six "
+        "cravings, closing this saṃyutta's own contact-to-craving "
+        "chain. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The compressed corruption formula, matching "
+                 "SN 27.4–7's own treatment"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in text, though worth pausing on what "
+                       "it means for desire toward craving itself"),
+    ],
+    why=(
+        "The climax of this saṃyutta's own contact-to-craving chain: "
+        "craving (taṇhā) for each of the six sense objects, and a "
+        "genuinely striking claim &mdash; not merely that craving "
+        "corrupts, but that desire and greed for craving itself "
+        "corrupts the mind, a second-order relationship worth pausing "
+        "on."
+    ),
+    guide=[
+        ("Six cravings, and desire for craving itself named the corruption", [
+            "\"Desire and greed for craving for sights, craving for "
+            "sounds, craving for smells, craving for tastes, craving "
+            "for touches, or craving for ideas is a corruption of the "
+            "mind. …\" &mdash; this saṃyutta's own consistent structure "
+            "applied here to its most striking case: not craving "
+            "itself, but desire and greed directed at craving, which "
+            "is what this discourse actually names as corrupting.",
+        ]),
+        ("A second-order relationship worth pausing on", [
+            "Every other discourse in this saṃyutta names desire for "
+            "some experiential category (a faculty, an object, a "
+            "feeling) as the corruption. This discourse does the "
+            "identical thing one level up: craving toward one's own "
+            "craving, wanting to keep wanting, is itself corrupting "
+            "&mdash; a subtler and more self-referential case than any "
+            "of the nine categories before it.",
+        ]),
+        ("Consistency of form over special emphasis", [
+            "Despite this conceptual subtlety, the discourse gives "
+            "craving no different formal treatment than any earlier "
+            "category &mdash; same six-item list, same compression, "
+            "same closing formula trusted to memory. The structure "
+            "itself doesn't signal that anything unusual is happening "
+            "here; only attentive reading catches it.",
+        ]),
+        ("Two broader categories still to come", [
+            "With the sense-experience chain complete across eight "
+            "discourses (SN 27.1&ndash;8), this saṃyutta's final two "
+            "discourses step back to the elements (SN 27.9) and the "
+            "five aggregates (SN 27.10), exactly as both sibling "
+            "saṃyuttas did.",
+        ]),
+    ],
+    terms=[
+        ("taṇhā", "craving — the subject of this discourse's own six-item list"),
+        ("rūpataṇhā", "craving for sights — the first of the six cravings named, framed by object as at SN 27.6–7"),
+        ("chandarāga taṇhāya", "desire and greed for craving itself — this discourse's own second-order relationship, distinct from craving simply being corrupt on its own terms"),
+        ("peyyāla", "an elision mark — continuing this saṃyutta's compression pattern from SN 27.4–7"),
+        ("kilesa", "corruption — this saṃyutta's own name, applied here to its most self-referential case"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the six "
+        "cravings named a corruption of the mind. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn27.8:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What does this discourse actually name as the corruption of the mind?",
+         "opts": ["Desire and greed for craving itself, not craving on its own terms", "Craving itself, directly", "The complete absence of craving", "Only craving for ideas specifically"],
+         "correct": 0,
+         "expl": "This saṃyutta's own consistent structure applied one level up: desire directed at craving."},
+        {"q": "Why is this discourse's structure described as \"second-order\"?",
+         "opts": ["It names desire toward one's own craving — wanting to keep wanting — rather than a first-order experiential category", "It examines two separate categories at once", "It repeats the same formula twice", "It introduces an entirely new, unrelated formula"],
+         "correct": 0,
+         "expl": "A subtler, more self-referential case than any of the nine categories before it."},
+        {"q": "Does the discourse's formal treatment signal that anything unusual is happening at this category?",
+         "opts": ["No — the same six-item list, compression, and closing formula as every other discourse", "Yes, it uses an entirely different structure", "Yes, it is given unique emphasis and extra length", "The discourse explicitly flags its own second-order nature"],
+         "correct": 0,
+         "expl": "Only attentive reading catches the conceptual subtlety; the form itself doesn't signal it."},
+        {"q": "What completes with this discourse, across SN 27.1–8?",
+         "opts": ["The sense-experience chain — faculties, objects, consciousness, contact, feeling, perception, intention, and craving", "The entire saṃyutta", "Only the eighteen elements", "Nothing — this discourse stands alone"],
+         "correct": 0,
+         "expl": "Eight discourses walking one continuous chain, mirroring both sibling saṃyuttas' own structure."},
+        {"q": "What two broader categories remain for this saṃyutta's final two discourses?",
+         "opts": ["The elements (SN 27.9) and the five aggregates (SN 27.10)", "A repeat of the sense-experience chain", "The four named-teacher doctrines", "The ten undetermined questions"],
+         "correct": 0,
+         "expl": "Closing on the broadest possible frame, exactly as both sibling saṃyuttas did."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "How does this discourse's compression compare to SN 27.4–7's own?",
+         "opts": ["The same compressed treatment throughout", "Considerably fuller", "Considerably more compressed", "A return to SN 27.1's full treatment"],
+         "correct": 0,
+         "expl": "The six-item list given in full, closing formula trusted to memory, unchanged since SN 27.4."},
+        {"q": "What is the first of the six cravings named in this discourse?",
+         "opts": ["Craving for sights", "Craving for ideas", "Craving for sounds", "An unspecified generic craving"],
+         "correct": 0,
+         "expl": "Followed by craving for sounds, smells, tastes, touches, and ideas."},
+        {"q": "What technical role does craving occupy in the four noble truths, as examined elsewhere in this project?",
+         "opts": ["The second noble truth's own named cause of suffering", "The first noble truth, suffering itself", "The third noble truth, cessation", "The fourth noble truth, the path"],
+         "correct": 0,
+         "expl": "Named directly at SN 26.8's own treatment of the identical category."},
+        {"q": "What is this saṃyutta's own standing corrupting factor?",
+         "opts": ["Chandarāga — desire and greed", "Avijjā — ignorance alone", "Māna — conceit alone", "Diṭṭhi — wrong view alone"],
+         "correct": 0,
+         "expl": "Unchanged throughout this saṃyutta's ten discourses, applied here to its most self-referential case."},
+    ],
+    marginalia=[
+        ("Desire for desire itself", [
+            "not craving, but wanting to want &mdash;",
+            "this saṃyutta's own most self-referential case",
+        ]),
+        ("A subtlety the form doesn't announce", [
+            "the same list, the same compression &mdash;",
+            "only careful reading catches what's happening",
+        ]),
+        ("The chain's own destination, once more", [
+            "six cravings, one per sense object &mdash;",
+            "the point contact, feeling, intention build toward",
+        ]),
+        ("Two broader categories ahead", [
+            "the elements, then the aggregates &mdash;",
+            "closing on the widest possible frame",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn27.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-27.7.html">SN 27.7 &middot; Intention</a> '
+        "&mdash; the previous discourse, the link this discourse's "
+        "own craving arises from.",
+        '<a href="sn-27.9.html">SN 27.9 &middot; Elements</a> '
+        "&mdash; the next discourse, stepping back to a broader "
+        "analytical category.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 27.9 — Dhātusutta
+# --------------------------------------------------------------------------- #
+page(
+    27, 9, "Dhātu", "Elements",
+    vagga="Kilesavagga",
+    meta_title="SN 27.9 — Elements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dhātusutta &mdash; the same formula applied to the six "
+        "physical and mental elements, stepping back from the "
+        "sense-experience chain. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The compressed corruption formula, matching "
+                 "SN 27.4–8's own treatment"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and familiar, though the six-element "
+                       "list itself is worth noting"),
+    ],
+    why=(
+        "Steps back from the sense-experience chain completed at "
+        "SN 27.8 to the six elements (dhātu) &mdash; earth, water, "
+        "fire, air, space, and consciousness &mdash; given this "
+        "saṃyutta's own corruption formula, and, unlike SN 26.9's own "
+        "full treatment of the identical category, kept in this "
+        "saṃyutta's now-standard compressed form."
+    ),
+    guide=[
+        ("Six elements, the same corruption formula", [
+            "\"Desire and greed for the earth element, the water "
+            "element, the fire element, the air element, the space "
+            "element, or the consciousness element is a corruption of "
+            "the mind. …\" &mdash; the standard six-element analysis "
+            "(also found at MN 140) given this saṃyutta's own "
+            "consistent treatment.",
+        ]),
+        ("A third data point on where compression does and doesn't apply", [
+            "SN 25.9's elements were compressed, SN 26.9's were given "
+            "in full, and this discourse returns to compression "
+            "&mdash; three saṃyuttas, three different choices at the "
+            "identical category, confirming that compression "
+            "decisions in these texts don't follow a single "
+            "predictable rule across sister saṃyuttas even when "
+            "everything else about their structure matches closely.",
+        ]),
+        ("Not the eighteen elements again, but the physical six", [
+            "As at SN 25.9 and SN 26.9, this discourse's six elements "
+            "&mdash; four classical physical elements plus space and "
+            "consciousness &mdash; are a coarser, more physical "
+            "analysis than the eighteen sense elements examined at "
+            "SN 27.1&ndash;3.",
+        ]),
+        ("One discourse remains", [
+            "SN 27.10 will close this saṃyutta with the five "
+            "aggregates, in full, carrying the saṃyutta's own "
+            "confirmed colophon.",
+        ]),
+    ],
+    terms=[
+        ("pathavīdhātu / āpodhātu / tejodhātu / vāyodhātu", "the earth, water, fire, and air elements — the four classical physical elements"),
+        ("ākāsadhātu", "the space element — the fifth of the six elements named in this discourse"),
+        ("viññāṇadhātu", "the consciousness element — the sixth and only mental element in this discourse's list"),
+        ("chandarāga", "desire and greed — this saṃyutta's own standing corrupting factor"),
+        ("peyyāla", "an elision mark — continuing this saṃyutta's compression pattern, unlike SN 26.9's own full treatment of the identical category"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: the six "
+        "elements named a corruption of the mind. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn27.9:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What six items does this discourse examine?",
+         "opts": ["Earth, water, fire, air, space, and consciousness — the six elements", "The eighteen sense-experience elements", "The five aggregates", "The six kinds of craving"],
+         "correct": 0,
+         "expl": "The standard sixfold analysis also found at MN 140."},
+        {"q": "How does this discourse's compression compare across all three sister saṃyuttas at this identical category?",
+         "opts": ["Three different choices — SN 25.9 compressed, SN 26.9 given in full, this discourse compressed again", "All three saṃyuttas compress identically", "All three saṃyuttas give this category in full", "Only this saṃyutta addresses the elements at all"],
+         "correct": 0,
+         "expl": "Confirming compression decisions don't follow a single predictable rule even across closely matched sister saṃyuttas."},
+        {"q": "How does this discourse's six elements differ from SN 27.1–3's own eighteen sense elements?",
+         "opts": ["A coarser, more physical analysis of bodily and mental composition", "Identical in every respect", "This discourse doesn't use the term dhātu at all", "SN 27.1–3 actually used this same six-element list"],
+         "correct": 0,
+         "expl": "Two different standard analyses sharing the same Pāli term."},
+        {"q": "Where else in the Nikāyas does this same six-element analysis appear?",
+         "opts": ["MN 140, the Dhātuvibhaṅga Sutta", "DN 2, the Sāmaññaphala Sutta", "MN 72, the Aggivacchagottasutta", "Nowhere else in the Canon"],
+         "correct": 0,
+         "expl": "The standard sixfold analysis, cited at SN 25.9 and SN 26.9's own treatments as well."},
+        {"q": "What is the only mental element among the six named here?",
+         "opts": ["Consciousness (viññāṇadhātu)", "Space (ākāsadhātu)", "Earth (pathavīdhātu)", "None — all six are physical"],
+         "correct": 0,
+         "expl": "The sixth element in this discourse's list, alongside five physical or spatial ones."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What discourse closes this saṃyutta, following this one?",
+         "opts": ["SN 27.10, examining the five aggregates in full", "SN 27.1, repeated", "A return to SN 26's own content", "No further discourse follows"],
+         "correct": 0,
+         "expl": "This saṃyutta's own final and most familiar category."},
+        {"q": "What four classical physical elements does this discourse name?",
+         "opts": ["Earth, water, fire, and air, representing solidity, cohesion, heat, and motion", "Four separate deities", "Four types of craving", "Four stages of meditation"],
+         "correct": 0,
+         "expl": "The standard technical Buddhist sense of these four terms."},
+        {"q": "What is this saṃyutta's own standing corrupting factor?",
+         "opts": ["Chandarāga — desire and greed", "Avijjā — ignorance alone", "Māna — conceit alone", "Diṭṭhi — wrong view alone"],
+         "correct": 0,
+         "expl": "Unchanged throughout this saṃyutta's ten discourses, including here."},
+        {"q": "How does SN 27.10's treatment compare to this discourse's own?",
+         "opts": ["In full, unlike this discourse's compressed treatment", "Equally compressed", "Even more compressed than this discourse", "SN 27.10 doesn't exist"],
+         "correct": 0,
+         "expl": "Closing the saṃyutta with its fullest treatment since SN 27.1–3."},
+    ],
+    marginalia=[
+        ("Four physical, one spatial, one mental", [
+            "earth, water, fire, air, space, consciousness &mdash;",
+            "the standard sixfold analysis, given the same formula",
+        ]),
+        ("Three saṃyuttas, three choices", [
+            "compressed, full, compressed again &mdash;",
+            "no single rule governs where elision falls",
+        ]),
+        ("A familiar list from elsewhere", [
+            "MN 140's own six-element analysis &mdash;",
+            "recurring at several points in the Nikāyas",
+        ]),
+        ("One discourse left", [
+            "the five aggregates, in full &mdash;",
+            "closing this saṃyutta with its own colophon",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn27.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-27.8.html">SN 27.8 &middot; Craving</a> '
+        "&mdash; the previous discourse, closing this saṃyutta's own "
+        "sense-experience chain.",
+        '<a href="sn-27.10.html">SN 27.10 &middot; The Aggregates</a> '
+        "&mdash; the next and final discourse, closing this entire "
+        "saṃyutta.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 27.10 — Khandhasutta
+# --------------------------------------------------------------------------- #
+page(
+    27, 10, "Khandha", "The Aggregates",
+    vagga="Kilesavagga",
+    meta_title="SN 27.10 — The Aggregates | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Khandhasutta &mdash; closing Kilesasaṃyutta, and this "
+        "book's trio of sister saṃyuttas, with the five aggregates "
+        "and a translated colophon. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The five aggregates given in full, closing with the "
+                 "saṃyutta's own translated colophon"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "familiar content, closing on the most "
+                       "recognizable category in the canon"),
+    ],
+    why=(
+        "Closes Kilesasaṃyutta, and with it this book's own trio of "
+        "sister saṃyuttas (SN 25&ndash;27) built on the identical "
+        "ten-category sequence, on the same category SN 25.10 and "
+        "SN 26.10 each closed with: the five aggregates, given in "
+        "full, followed by a colophon Sujato did translate: \"The "
+        "Linked Discourses on corruptions are complete.\""
+    ),
+    guide=[
+        ("The five aggregates, desire for them the mind's own corruption", [
+            "\"Desire and greed for form, feeling, perception, "
+            "choices, or consciousness is a corruption of the mind\" "
+            "&mdash; the aggregates receiving the identical formula "
+            "given to all nine categories before them, in full, "
+            "unelided, closing this saṃyutta's own version of the "
+            "shared ten-category sequence.",
+        ]),
+        ("The complete arc, restated one final time", [
+            "\"When a mendicant has given up mental corruption in "
+            "these five cases, their mind inclines to renunciation. A "
+            "mind imbued with renunciation is said to be fit for work "
+            "regarding anything that can be realized by insight\" "
+            "&mdash; the full three-step arc from corruption through "
+            "renunciation to fitness for insight, given completely one "
+            "final time.",
+        ]),
+        ("A colophon Sujato actually translated", [
+            "\"The Linked Discourses on corruptions are complete\" "
+            "(sn27.10:2.5) &mdash; quotable here exactly as Sujato "
+            "rendered it, confirming this saṃyutta's official name "
+            "and its complete ten discourses, matching SN 25.10 and "
+            "SN 26.10's own translated closing colophons.",
+        ]),
+        ("Three sister saṃyuttas, one shared body of material, three questions", [
+            "Looking back across SN 25, 26, and 27 together: the "
+            "identical ten-category sequence (sense faculties through "
+            "the aggregates), examined through who is progressing "
+            "toward stream-entry (Okkantasaṃyutta), what suffering "
+            "itself directly consists of (Uppādasaṃyutta), and now "
+            "what corrupts the mind and readies it for insight "
+            "(Kilesasaṃyutta) &mdash; thirty discourses total, one "
+            "shared analytical spine, three complementary readings.",
+        ]),
+    ],
+    terms=[
+        ("khandha", "aggregate — form, feeling, perception, choices, and consciousness, this discourse's own closing category"),
+        ("rūpa/vedanā/saññā/saṅkhāra/viññāṇa", "form / feeling / perception / choices / consciousness — the five aggregates, named in full one final time"),
+        ("kilesasaṃyuttaṁ samattaṁ", "\"the Linked Discourses on corruptions are complete\" — this saṃyutta's own colophon, translated by Sujato and quoted here exactly as it stands"),
+        ("chandarāga / nekkhamma / abhiññā", "desire-and-greed / renunciation / insight — this saṃyutta's own three-step arc, given completely one final time"),
+        ("kilesa", "corruption — this saṃyutta's own recurring term, closing all ten discourses"),
+    ],
+    text_intro=("The complete discourse: the five aggregates named a "
+        "corruption of the mind, the full three-step arc, and the "
+        "saṃyutta's own translated closing colophon. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn27.10:1.1-1.4"),
+        ("p", "&sect;2", "sn27.10:2.5"),
+    ],
+    quiz=[
+        {"q": "What five items does this discourse examine?",
+         "opts": ["Form, feeling, perception, choices, and consciousness — the five aggregates", "The six sense faculties", "The six elements", "The six kinds of craving"],
+         "correct": 0,
+         "expl": "This saṃyutta's tenth and final analytical category."},
+        {"q": "How does this discourse's treatment compare to SN 27.4–9's own compressed pages?",
+         "opts": ["Full elaboration, unelided, given one final time", "Equally compressed", "Even more compressed than SN 27.4–9", "This discourse has no formula at all"],
+         "correct": 0,
+         "expl": "The complete three-step arc given in full, closing this saṃyutta's own sequence."},
+        {"q": "What is unique about this discourse's closing colophon?",
+         "opts": ["Sujato actually translated it into English, quotable exactly as it stands", "It is left entirely untranslated", "It doesn't exist in the source text", "It is written only in Chinese"],
+         "correct": 0,
+         "expl": "\"The Linked Discourses on corruptions are complete.\""},
+        {"q": "What does this colophon confirm?",
+         "opts": ["This saṃyutta's official name and its complete ten discourses", "That the saṃyutta actually contains twenty discourses", "Nothing about the saṃyutta's structure", "That this is only the first of several sub-collections"],
+         "correct": 0,
+         "expl": "Matching SN 25.10 and SN 26.10's own translated closing colophons."},
+        {"q": "What three complementary questions do SN 25, 26, and 27 together ask of the identical ten-category sequence?",
+         "opts": ["Who is progressing toward stream-entry, what suffering directly consists of, and what corrupts the mind and readies it for insight",
+                  "Three identical questions with no meaningful difference", "Only one shared question across all three saṃyuttas", "The three saṃyuttas don't actually share any common structure"],
+         "correct": 0,
+         "expl": "Okkantasaṃyutta, Uppādasaṃyutta, and Kilesasaṃyutta's own three distinct lenses."},
+        {"q": "How many total discourses do SN 25, 26, and 27 together comprise?",
+         "opts": ["Thirty — ten in each of the three sister saṃyuttas", "Only ten total", "Ninety-six, matching Diṭṭhisaṃyutta", "Twenty"],
+         "correct": 0,
+         "expl": "One shared analytical spine, three complementary readings."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What three-step arc does this discourse give in full one final time?",
+         "opts": ["Corruption identified, corruption given up, resulting fitness for insight work", "A four-step structure, not three", "A structure identical to SN 26's own arising/cessation formula", "No discernible arc at all"],
+         "correct": 0,
+         "expl": "Chandarāga, nekkhamma, and abhiññā, this saṃyutta's own standing sequence."},
+        {"q": "What saṃyutta does this discourse close?",
+         "opts": ["Kilesasaṃyutta, \"Linked Discourses on Corruptions\"", "Okkantasaṃyutta", "Uppādasaṃyutta", "Diṭṭhisaṃyutta"],
+         "correct": 0,
+         "expl": "This book's eighth saṃyutta, now complete in ten discourses."},
+        {"q": "What did Khandhavagga (SN 22) already devote 159 discourses to examining?",
+         "opts": ["The five aggregates, this discourse's own closing category", "The six elements", "The tathāgata foursome", "The named-teacher doctrines"],
+         "correct": 0,
+         "expl": "This discourse revisits the same category most readers of this project will already recognize."},
+    ],
+    marginalia=[
+        ("The most familiar category, saved for last", [
+            "form, feeling, perception, choices, consciousness &mdash;",
+            "one item among ten, given in full one final time",
+        ]),
+        ("The full arc, restated", [
+            "corruption, renunciation, fitness for insight &mdash;",
+            "the complete three-step sequence, one last time",
+        ]),
+        ("A colophon, translated at last", [
+            "\"The Linked Discourses on corruptions are complete\" &mdash;",
+            "Sujato's own words, quoted exactly as they stand",
+        ]),
+        ("Three saṃyuttas, one spine, three readings", [
+            "who progresses, what suffering is, what corrupts &mdash;",
+            "thirty discourses, one shared body of material",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn27.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-27.9.html">SN 27.9 &middot; Elements</a> '
+        "&mdash; the previous discourse, this saṃyutta's own "
+        "penultimate category.",
+        '<a href="sn-26.10.html">SN 26.10 &middot; The Aggregates</a> '
+        "&mdash; Uppādasaṃyutta's own closing discourse, sharing this "
+        "discourse's identical final category and an equally "
+        "translated colophon.",
+    ],
+)
