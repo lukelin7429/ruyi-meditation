@@ -52470,3 +52470,766 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Book of the Twenties (numbered Thag 16 — the collection now skips 17-19)
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# Thag 16.1 — Adhimutta (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    16, 1, "Adhimutta (2nd)", "Adhimutta (2nd)",
+    meta_title="Thag 16.1 — Adhimutta (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Adhimutta's verse, opening the Book of the Twenties with "
+        "this collection's most dramatic narrative &mdash; captured "
+        "by bandits and facing death, his fearlessness so astonishes "
+        "his captors that they lay down their weapons and some go "
+        "forth themselves. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twenties &middot; Chapter One &middot; Poem 1 of 10",
+    glance=[
+        ("Setting", "Captured by bandits, facing likely death"),
+        ("Speaker", "Two voices: the bandit chief questioning, and "
+                    "Adhimutta answering at length"),
+        ("Form", "Twenty-one verses, moving from dialogue into a "
+                 "narrated conversion"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "an extended narrative with a large cast of "
+                       "similes"),
+    ],
+    why=(
+        "&lsquo;Those who we killed in the past... trembled and "
+        "squealed. But you're not scared; you look even calmer than "
+        "before. Why don't you cry out?&rsquo; a bandit chief asks "
+        "&mdash; and Adhimutta's answer, building through more than "
+        "a dozen similes for fearlessness in the face of death, so "
+        "astonishes his captors that they lay down their swords on "
+        "the spot, some abandoning banditry, others going forth and "
+        "attaining awakening themselves, within the span of this "
+        "single poem."),
+    guide=[
+        ("Opening a new book with this collection's most sustained narrative", [
+            "Where most poems in this collection open on reflection "
+            "or a brief episode, this poem opens the Book of the "
+            "Twenties with a full scene: a bandit gang who has just "
+            "killed before, now facing a captive who shows no fear "
+            "at all. The dialogue runs for four full exchanges before "
+            "Adhimutta's own extended teaching even begins."]),
+        ("A dozen similes for fearlessness, in rapid succession", [
+            "Verses four through ten pile up distinct images for why "
+            "death holds no terror: laying down a burden, a disease "
+            "finally passing, poison tasted then spat out, escaping "
+            "a burning house, refusing to grab a red-hot iron ball. "
+            "No single simile is asked to carry the whole argument; "
+            "instead the poem overwhelms by sheer accumulation."]),
+        ("A brief rehearsal of not-self, before the crisis resolves", [
+            "The eleventh verse states plainly: &lsquo;it doesn't "
+            "occur to me, &ldquo;I existed in the past&rdquo;; nor, "
+            "&ldquo;I will exist in the future&rdquo;. Conditions "
+            "will vanish &mdash; why weep over that?&rsquo; A doctrine "
+            "usually unpacked at length elsewhere in the canon is "
+            "compressed here into a single verse, delivered under "
+            "genuine threat of death rather than in seated "
+            "reflection."]),
+        ("An instruction for his own corpse", [
+            "The fifteenth verse offers the bandits explicit "
+            "permission: &lsquo;do what you want with my corpse. I "
+            "won't be angry or attached on account of that.&rsquo; "
+            "This isn't merely philosophical detachment stated in the "
+            "abstract; it's addressed directly to the people about to "
+            "decide his body's fate."]),
+        ("Conversion narrated within the poem itself, not just claimed by the speaker", [
+            "The final three verses report an outcome most poems in "
+            "this collection leave implicit or don't address at all: "
+            "the bandits, astonished, lay down their weapons; some "
+            "abandon their former way of life, others go forth "
+            "&lsquo;in the teaching of the Holy One&rsquo; and "
+            "themselves &lsquo;realized the state of extinguishment, "
+            "the unconditioned&rsquo;. A single poem narrates not "
+            "only Adhimutta's own equanimity but a group conversion "
+            "and, implicitly, several further attainments."]),
+        ("A second Adhimutta, sharing only the name", [
+            "This site's own Thag 1.114 already gives an entirely "
+            "different Adhimutta a single sharp verse rebuking "
+            "someone's false claim to ascetic contentment &mdash; "
+            "unrelated in content, register, and setting to this "
+            "poem's extended bandit narrative, disambiguated here "
+            "by the same ordinal convention used throughout this "
+            "collection for repeated names."]),
+    ],
+    terms=[
+        ("gāmaṇi",
+         "&ldquo;village chief&rdquo; &mdash; the bandit leader "
+         "questioning Adhimutta, addressed by this title throughout."),
+        ("bhāranikkhepane yathā",
+         "&ldquo;like laying down a burden&rdquo; &mdash; the first "
+         "of this poem's extended sequence of similes for "
+         "fearlessness."),
+        ("sutattaṁva ayoguḷaṁ",
+         "&ldquo;like you wouldn't grab a hot iron ball&rdquo; "
+         "&mdash; the image for refusing to grasp at any new "
+         "existence."),
+        ("tiṇakaṭṭhasamaṁ lokaṁ",
+         "&ldquo;the world is like grass and sticks&rdquo; &mdash; "
+         "the thirteenth verse's image for a world holding nothing "
+         "to call &lsquo;mine&rsquo;."),
+        ("phusiṁsu nibbānapadaṁ asaṅkhataṁ",
+         "&ldquo;they realized the state of extinguishment, the "
+         "unconditioned&rdquo; &mdash; the poem's closing report of "
+         "the converted bandits' own attainment."),
+    ],
+    text_intro=(
+        "The text in full: twenty-one verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag16.1:1.1-1.4"),
+        ("p", "&sect;2", "thag16.1:2.1-2.4"),
+        ("p", "&sect;3", "thag16.1:3.1-3.4"),
+        ("p", "&sect;4", "thag16.1:4.1-4.4"),
+        ("p", "&sect;5", "thag16.1:5.1-5.4"),
+        ("p", "&sect;6", "thag16.1:6.1-6.4"),
+        ("p", "&sect;7", "thag16.1:7.1-7.4"),
+        ("p", "&sect;8", "thag16.1:8.1-8.4"),
+        ("p", "&sect;9", "thag16.1:9.1-9.4"),
+        ("p", "&sect;10", "thag16.1:10.1-10.4"),
+        ("p", "&sect;11", "thag16.1:11.1-11.4"),
+        ("p", "&sect;12", "thag16.1:12.1-12.4"),
+        ("p", "&sect;13", "thag16.1:13.1-13.4"),
+        ("p", "&sect;14", "thag16.1:14.1-14.4"),
+        ("p", "&sect;15", "thag16.1:15.1-15.4"),
+        ("p", "&sect;16", "thag16.1:16.1-16.4"),
+        ("p", "&sect;17", "thag16.1:17.1-17.4"),
+        ("p", "&sect;18", "thag16.1:18.1-18.4"),
+        ("p", "&sect;19", "thag16.1:19.1-19.4"),
+        ("p", "&sect;20", "thag16.1:20.1-20.4"),
+        ("p", "&sect;21", "thag16.1:21.1-21.4"),
+    ],
+    quiz=[
+        {"q": "What situation does this poem open on?",
+         "opts": [
+             "Adhimutta captured by bandits, facing likely death, showing no fear",
+             "A quiet forest meditation retreat",
+             "A dispute between two monks",
+             "A royal court proceeding"],
+         "correct": 0,
+         "expl": "The bandit chief, having killed before, is struck by his captive's calm."},
+        {"q": "What does the bandit chief ask Adhimutta?",
+         "opts": [
+             "What his family name is",
+             "Why he doesn't cry out in such a terrifying situation",
+             "Where he has hidden his valuables",
+             "Why he became a monk"],
+         "correct": 1,
+         "expl": "'You're not scared; you look even calmer than before. Why don't you cry out?'"},
+        {"q": "How does Adhimutta's answer build its argument, across verses four through ten?",
+         "opts": [
+             "A direct denial that he feels calm at all",
+             "A single sustained simile",
+             "A dozen distinct similes for fearlessness in rapid succession — burden laid down, disease passing, poison discarded, burning house escaped",
+             "A formal doctrinal lecture with no imagery"],
+         "correct": 2,
+         "expl": "The poem overwhelms by sheer accumulation rather than resting on one image."},
+        {"q": "What does the eleventh verse compress into a single verse?",
+         "opts": [
+             "A description of the bandits' weapons",
+             "A list of his own past crimes",
+             "The precepts",
+             "The not-self teaching — no fixed self existing in past or future, so nothing to weep over when conditions vanish"],
+         "correct": 3,
+         "expl": "Delivered under genuine threat of death, not in seated reflection."},
+        {"q": "What does Adhimutta tell the bandits to do with his body, in the fifteenth verse?",
+         "opts": [
+             "Whatever they want — he won't be angry or attached on account of it",
+             "Return it to his family",
+             "Nothing — the topic isn't addressed",
+             "Bury it with full honors"],
+         "correct": 0,
+         "expl": "Addressed directly to the people about to decide his fate, not stated abstractly."},
+        {"q": "What happens after the bandits hear Adhimutta's words?",
+         "opts": [
+             "Nothing changes",
+             "They lay down their weapons; some abandon banditry, others go forth and attain awakening themselves",
+             "They kill him anyway",
+             "They demand he prove his claims"],
+         "correct": 1,
+         "expl": "A group conversion and further attainments narrated within the poem itself."},
+        {"q": "Who does Adhimutta name as his teacher, when the bandits ask?",
+         "opts": [
+             "His own father",
+             "A local hermit",
+             "The Buddha — 'the knower of all, the seer of all... healer of the whole world'",
+             "No teacher — he claims to be self-taught"],
+         "correct": 2,
+         "expl": "'Following his instructions, you can gain the sorrowless state.'"},
+        {"q": "How does this poem's Adhimutta relate to this site's Thag 1.114?",
+         "opts": [
+             "Thag 1.114 narrates this same bandit episode",
+             "Thag 1.114 does not feature anyone named Adhimutta",
+             "The same content, retold at greater length",
+             "A different individual sharing only the name, unrelated in content and register, disambiguated by ordinal"],
+         "correct": 3,
+         "expl": "Thag 1.114 is a single sharp verse rebuking a false claim to contentment, unrelated to this narrative."},
+        {"q": "What image does the eighth verse use for realizing the supreme Dhamma and facing death?",
+         "opts": [
+             "Like escaping from a burning house",
+             "Like entering a locked room",
+             "Like climbing a mountain",
+             "No image is used"],
+         "correct": 0,
+         "expl": "'Ādittāva gharā mutto, maraṇasmiṁ na socati.'"},
+        {"q": "How many poems make up the Book of the Twenties, and how does its own closing tally treat their actual length?",
+         "opts": [
+             "Five poems, each forty verses",
+             "Ten poems, with a stated tally openly acknowledging 245 verses rather than a clean 200 — poems vary widely beyond the nominal twenty",
+             "Twenty poems, each exactly twenty verses",
+             "Ten poems, each exactly twenty verses with no variation"],
+         "correct": 1,
+         "expl": "This poem alone runs to twenty-one verses, one line over the book's nominal count."},
+    ],
+    marginalia=[
+        ("No fear, and a captor's real question", [
+            "'why don't you cry out?' —",
+            "asked with genuine astonishment, not mockery"
+        ]),
+        ("A dozen images, none asked to carry it alone", [
+            "burden, disease, poison, burning house, hot iron —",
+            "argument by sheer accumulation"
+        ]),
+        ("Permission given for his own corpse", [
+            "'do what you want with it' —",
+            "detachment addressed to the ones deciding his fate"
+        ]),
+        ("A conversion narrated, not just claimed", [
+            "weapons laid down, some going forth —",
+            "attainment reported within the poem itself"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag16.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.114.html">Thag 1.114 &mdash; Adhimutta '
+        "(1st)</a> &mdash; a different elder sharing only the name.",
+        '<a href="thag-15.2.html">Thag 15.2 &mdash; Udāyī</a> '
+        "&mdash; the closing poem of the book immediately before "
+        "this one.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 16.2 — Pārāsariya (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    16, 2, "P&amacr;r&amacr;sariya (2nd)", "P&amacr;r&amacr;sariya (2nd)",
+    meta_title="Thag 16.2 — Pārāsariya (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Pārāsariya's verse on guarding the six sense faculties "
+        "&mdash; a razor's edge smeared with honey, a body decorated "
+        "like a painted casket, and a striking pun on pegs knocking "
+        "out pegs. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twenties &middot; Chapter One &middot; Poem 2 of 10",
+    glance=[
+        ("Setting", "Solitary meditation, opening on a private "
+                    "reflection"),
+        ("Speaker", "Pārāsariya (2nd), reasoning through sense-"
+                    "restraint systematically"),
+        ("Form", "Twenty-one verses, moving from question through "
+                 "each sense faculty in turn"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "systematic structure, several vivid images"),
+    ],
+    why=(
+        "&lsquo;Following what procedure, what observance, what "
+        "conduct, may a person do what they need for themselves, "
+        "without harming anyone else?&rsquo; Pārāsariya asks himself "
+        "in seclusion &mdash; then answers systematically, working "
+        "through sight, hearing, smell, taste, and touch in turn, "
+        "closing on the striking image of a body &lsquo;decorated "
+        "like a lovely painted casket&rsquo; despite being &lsquo;full "
+        "of pus and blood&rsquo;."),
+    guide=[
+        ("A third Pārāsariya, and a clan name rather than a given one", [
+            "This site's own Thag 1.116 already introduces "
+            "Pārāsariya (1st) with Sujato's comment tracing the name "
+            "to the ancient sage Parāśara &mdash; a clan or gotra "
+            "name rather than a personal one, explaining why it "
+            "recurs across unrelated individuals. This poem is the "
+            "second Pārāsariya in this collection; a third appears "
+            "later in this very book, at Thag 16.10."]),
+        ("A question posed to no one, answered systematically", [
+            "Unlike Thag 16.1's dramatic dialogue, this poem opens "
+            "entirely in solitude: a question Pārāsariya poses to "
+            "himself while meditating alone, then answers "
+            "methodically across the poem's full length, working "
+            "through each of the five physical sense faculties in "
+            "strict sequence &mdash; sight, hearing, smell, taste, "
+            "touch &mdash; each given its own verse or pair of "
+            "verses on the danger of leaving it unguarded."]),
+        ("A razor's edge smeared with honey", [
+            "The twelfth verse's image for attachment's cost is "
+            "unusually vivid: &lsquo;the sweetness of honey turns "
+            "bitter, and the bonds to those we love cause pain, like "
+            "a razor's edge smeared with honey&rsquo; &mdash; "
+            "pleasure and injury delivered by the identical motion, "
+            "not sequentially but simultaneously."]),
+        ("A body compared to a painted casket, not condemned outright", [
+            "The eleventh verse doesn't simply repeat this "
+            "collection's familiar body-repulsion catalogue; it adds "
+            "a specific social observation: &lsquo;this body is full "
+            "of pus and blood, home to many carcasses; but cunning "
+            "people decorate it like a lovely painted casket&rsquo;. "
+            "The critique targets not the body alone but the "
+            "deliberate art of disguising it."]),
+        ("Knocking out a peg with a peg", [
+            "The nineteenth verse's simile is technical and "
+            "practical rather than visceral: &lsquo;just as a strong "
+            "person when building knocks out a peg with a peg, so "
+            "the skillful person knocks out the faculties with the "
+            "faculties&rsquo; &mdash; using disciplined sense "
+            "engagement itself as the tool for overcoming "
+            "undisciplined sense engagement, not simply suppressing "
+            "the faculties outright."]),
+        ("A closing verse naming five wholesome qualities against five dangers", [
+            "The twentieth verse answers the poem's opening "
+            "five-faculty catalogue of danger with a matching "
+            "five-item catalogue of remedy: faith, energy, immersion, "
+            "mindfulness, and wisdom, &lsquo;destroying the five with "
+            "the five&rsquo; &mdash; the poem's structure itself "
+            "enacting the balance it describes, danger and remedy "
+            "each given equal weight and equal count."]),
+    ],
+    terms=[
+        ("indriyāni",
+         "&ldquo;faculties&rdquo; &mdash; the five physical senses "
+         "this poem examines in systematic turn."),
+        ("khuraṁva madhunā littaṁ",
+         "&ldquo;like a razor's edge smeared with honey&rdquo; "
+         "&mdash; the image for pleasure and injury delivered "
+         "together."),
+        ("samuggamiva cittitaṁ",
+         "&ldquo;like a lovely painted casket&rdquo; &mdash; the "
+         "image for a body's impurity artfully disguised."),
+        ("āṇiyā āṇiṁ nihanti",
+         "&ldquo;knocks out a peg with a peg&rdquo; &mdash; the "
+         "practical simile for disciplined sense-engagement "
+         "overcoming undisciplined engagement."),
+        ("saddhaṁ vīriyaṁ samādhiñca satipaññañca",
+         "&ldquo;faith, energy, immersion, mindfulness, and "
+         "wisdom&rdquo; &mdash; the five qualities matched against "
+         "the five faculties' dangers in the closing verses."),
+    ],
+    text_intro=(
+        "The text in full: twenty-one verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag16.2:1.1-1.4"),
+        ("p", "&sect;2", "thag16.2:2.1-2.4"),
+        ("p", "&sect;3", "thag16.2:3.1-3.4"),
+        ("p", "&sect;4", "thag16.2:4.1-4.4"),
+        ("p", "&sect;5", "thag16.2:5.1-5.4"),
+        ("p", "&sect;6", "thag16.2:6.1-6.4"),
+        ("p", "&sect;7", "thag16.2:7.1-7.4"),
+        ("p", "&sect;8", "thag16.2:8.1-8.4"),
+        ("p", "&sect;9", "thag16.2:9.1-9.4"),
+        ("p", "&sect;10", "thag16.2:10.1-10.4"),
+        ("p", "&sect;11", "thag16.2:11.1-11.4"),
+        ("p", "&sect;12", "thag16.2:12.1-12.4"),
+        ("p", "&sect;13", "thag16.2:13.1-13.4"),
+        ("p", "&sect;14", "thag16.2:14.1-14.4"),
+        ("p", "&sect;15", "thag16.2:15.1-15.4"),
+        ("p", "&sect;16", "thag16.2:16.1-16.4"),
+        ("p", "&sect;17", "thag16.2:17.1-17.4"),
+        ("p", "&sect;18", "thag16.2:18.1-18.4"),
+        ("p", "&sect;19", "thag16.2:19.1-19.4"),
+        ("p", "&sect;20", "thag16.2:20.1-20.4"),
+        ("p", "&sect;21", "thag16.2:21.1-21.4"),
+    ],
+    quiz=[
+        {"q": "What does Pārāsariya's name most likely indicate, per Sujato's comment on this site's Thag 1.116?",
+         "opts": [
+             "A physical description",
+             "A clan or gotra name tracing to the ancient sage Parāśara, not a personal name",
+             "A place of birth only",
+             "A monastic rank"],
+         "correct": 1,
+         "expl": "Explaining why the name recurs across unrelated individuals in this collection."},
+        {"q": "How many elders named Pārāsariya appear in this collection, including this poem's speaker?",
+         "opts": [
+             "This is the only occurrence",
+             "One",
+             "Three — Thag 1.116, this poem, and Thag 16.10 later in this same book",
+             "Five"],
+         "correct": 2,
+         "expl": "A clan name recurring three times across the collection."},
+        {"q": "How does this poem's opening differ from Thag 16.1's dramatic bandit dialogue?",
+         "opts": [
+             "It also opens with a bandit confrontation",
+             "It opens with a royal audience",
+             "It has no opening at all",
+             "It opens in complete solitude — a question the speaker poses to himself while meditating alone"],
+         "correct": 3,
+         "expl": "Then answered methodically across the poem's full length."},
+        {"q": "In what order does the poem examine the senses?",
+         "opts": [
+             "In strict sequence — sight, hearing, smell, taste, touch",
+             "Touch first, then sight",
+             "It examines only one sense",
+             "Randomly, with no clear sequence"],
+         "correct": 0,
+         "expl": "Each given its own verse or pair of verses on the danger of leaving it unguarded."},
+        {"q": "What image describes attachment's simultaneous pleasure and injury, in the twelfth verse?",
+         "opts": [
+             "No image is used",
+             "A razor's edge smeared with honey",
+             "A gentle breeze",
+             "A calm lake"],
+         "correct": 1,
+         "expl": "Pleasure and injury delivered by the identical motion, not one after the other."},
+        {"q": "What social observation does the eleventh verse add to the usual body-repulsion imagery?",
+         "opts": [
+             "That only wealthy people have impure bodies",
+             "None — it simply repeats the standard catalogue",
+             "That cunning people deliberately decorate the body like a lovely painted casket, disguising its impurity",
+             "That the body cannot be described at all"],
+         "correct": 2,
+         "expl": "The critique targets the deliberate art of disguise, not the body alone."},
+        {"q": "What does the nineteenth verse's 'peg knocking out a peg' simile describe?",
+         "opts": [
+             "A literal carpentry lesson with no further meaning",
+             "Avoiding all physical activity",
+             "Complete suppression of all sense engagement",
+             "Using disciplined sense engagement itself as the tool for overcoming undisciplined engagement"],
+         "correct": 3,
+         "expl": "A technical, practical image rather than a visceral one."},
+        {"q": "What five qualities does the twentieth verse name against the five faculties' dangers?",
+         "opts": [
+             "Faith, energy, immersion, mindfulness, and wisdom",
+             "Only meditation, with nothing else named",
+             "No qualities are named",
+             "Wealth, status, fame, power, and pleasure"],
+         "correct": 0,
+         "expl": "The poem's structure enacting the balance it describes, danger and remedy in equal count."},
+        {"q": "What happens to someone who indulges the eye among sights without check, per the fifth verse?",
+         "opts": [
+             "Nothing — indulgence is harmless",
+             "Not seeing the danger, they are not freed from suffering",
+             "They gain wisdom automatically",
+             "They become more compassionate"],
+         "correct": 1,
+         "expl": "'Anādīnavadassāvī, so dukkhā na hi muccati.'"},
+        {"q": "What does the final verse say about one who fulfills the Buddha's instructions in every respect?",
+         "opts": [
+             "The verse doesn't address the outcome",
+             "They gain nothing",
+             "That person prospers in happiness",
+             "They must still struggle constantly"],
+         "correct": 2,
+         "expl": "'Sabbena sabbaṁ buddhassa, so naro sukhamedhati.'"},
+    ],
+    marginalia=[
+        ("A question asked in solitude", [
+            "no dialogue, no audience —",
+            "answered systematically, sense by sense"
+        ]),
+        ("Honey smeared on a razor's edge", [
+            "pleasure and injury, the same motion —",
+            "not one after the other"
+        ]),
+        ("A casket, carefully painted", [
+            "pus and blood dressed up as beauty —",
+            "the art of disguise, named directly"
+        ]),
+        ("Five dangers, five remedies", [
+            "faith, energy, mindfulness, wisdom, immersion —",
+            "matched in equal count to what they overcome"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag16.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.116.html">Thag 1.116 &mdash; Pārāsariya '
+        "(1st)</a> &mdash; the earlier poem tracing this clan name to "
+        "the sage Parāśara.",
+        '<a href="thag-16.1.html">Thag 16.1 &mdash; Adhimutta '
+        "(2nd)</a> &mdash; the poem immediately before this one, in "
+        "the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 16.3 — Telakāni
+# --------------------------------------------------------------------------- #
+page(
+    16, 3, "Telak&amacr;ni", "Telak&amacr;ni",
+    meta_title="Thag 16.3 — Telakāni | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Telakāni's verse &mdash; one of this collection's most "
+        "anguished searches for peace, a dart lodged in the "
+        "ribcage, drowning in a lake of mud, and a single "
+        "interjected line of counsel before the resolution. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Twenties &middot; Chapter One &middot; Poem 3 of 10",
+    glance=[
+        ("Setting", "Long, unresolved searching, opening on a "
+                    "confession of failure"),
+        ("Speaker", "Telakāni, narrating his own crisis at length, "
+                    "with one interjected line from another voice"),
+        ("Form", "Twenty-two verses, overwhelmingly one voice, "
+                 "briefly interrupted"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "dense, cascading metaphor, an unusually "
+                       "anguished register"),
+    ],
+    why=(
+        "&lsquo;For a long time, sadly, though I keenly contemplated "
+        "the teaching, I gained no peace of mind,&rsquo; Telakāni "
+        "confesses &mdash; opening one of this collection's most "
+        "sustained accounts of spiritual crisis: hooked like a fish, "
+        "a dart lodged in his ribcage, plunged into a lake of mud he "
+        "cannot wash off, before a single line of outside counsel "
+        "and a resolution built from a ladder, a tower, and a ship."),
+    guide=[
+        ("A confession of failure, not a testimony of success", [
+            "Where most poems in this collection open on either "
+            "crisis-resolved or teaching-already-mastered, "
+            "Telakāni's opens on unresolved failure: years of "
+            "contemplating the teaching, &lsquo;keenly&rsquo;, with "
+            "nothing to show for it. The poem spends its first "
+            "fifteen verses inside this unresolved state before any "
+            "turn toward relief begins."]),
+        ("Bound like a defeated titan in Indra's own trap", [
+            "The third verse reaches for specific myth rather than "
+            "generic simile: &lsquo;bound like the titan Vepacitti in "
+            "Mahinda's trap&rsquo;. Sujato's comment identifies "
+            "&lsquo;Mahinda&rsquo;, &lsquo;Great Indra&rsquo;, as "
+            "Sakka, and Vepacitti as his defeated asura rival &mdash; "
+            "a specific, learned allusion rather than an everyday "
+            "image, expecting real familiarity with this figure's "
+            "story."]),
+        ("A dart counted against the ribs, and a translator's disagreement with tradition", [
+            "The seventh verse locates the arrow of craving "
+            "precisely: stuck in &lsquo;my twice-fifteen "
+            "ribcage&rsquo;. Sujato's comment states plainly that "
+            "the traditional commentary's reading &mdash; twenty "
+            "kinds of substantialist view plus ten kinds of wrong "
+            "view &mdash; is &lsquo;implausible&rsquo;, offering "
+            "instead his own anatomical count: twenty-four ribs plus "
+            "six further bones (collarbones, shoulder-blades, and a "
+            "divided sternum), reaching thirty. This reading guide "
+            "notes the translator's explicit departure from "
+            "commentary without adjudicating which count is correct."]),
+        ("Drowning in mud that won't wash off", [
+            "Verses twelve through fifteen build a sustained water "
+            "metaphor distinct from this collection's more common "
+            "flood imagery: plunged into a lake, unable to wash off "
+            "the clinging mud, &lsquo;full of deceit, jealousy, "
+            "aggression, dullness&rsquo;, with streams flowing "
+            "everywhere and a weed that keeps springing back up. The "
+            "crisis is not sudden danger but a slow, sticky "
+            "inability to get clean."]),
+        ("One line of counsel, quoted rather than paraphrased", [
+            "The sixteenth verse breaks the poem's single-voice "
+            "structure with a brief, direct quotation: &lsquo;build a "
+            "dam, block the streams. Don't let your mind-made streams "
+            "cut you down suddenly like a tree.&rsquo; Unlike Thag "
+            "16.1's extended back-and-forth dialogue, this poem gives "
+            "the outside voice only this one interjected line before "
+            "returning fully to Telakāni's own account of what "
+            "followed."]),
+        ("Resolution built from a ladder, a tower, and a landing-place", [
+            "The closing verses assemble a sequence of constructed "
+            "images rather than a single culminating one: a "
+            "&lsquo;ladder made of the heartwood of Dhamma&rsquo; "
+            "handed to him mid-current, a &lsquo;tower of mindfulness "
+            "meditation&rsquo; climbed for perspective, and finally "
+            "&lsquo;the supreme landing-place&rsquo; sighted while "
+            "boarding a ship. The poem closes on the same cure/poison "
+            "image that opened its turn toward hope in verse twelve, "
+            "&lsquo;the Buddha cast aside the knot, curing the damage "
+            "of poison&rsquo;, framing the whole resolution."]),
+    ],
+    terms=[
+        ("Vepacityasuro",
+         "&ldquo;the titan Vepacitti&rdquo; &mdash; Sakka's defeated "
+         "asura rival, named directly in the third verse's simile."),
+        ("dve ca pannarasāyutaṁ",
+         "&ldquo;my twice-fifteen ribcage&rdquo; &mdash; the "
+         "location of the dart of craving, counted by Sujato as "
+         "thirty bones against the traditional commentary's "
+         "different reading."),
+        ("rahadehamasmi ogāḷho",
+         "&ldquo;I've plunged into a lake&rdquo; &mdash; the opening "
+         "image of the poem's sustained drowning-in-mud metaphor."),
+        ("velaṁ karotha",
+         "&ldquo;build a dam&rdquo; &mdash; the single interjected "
+         "line of outside counsel, quoted directly in the sixteenth "
+         "verse."),
+        ("dhammasāramayaṁ",
+         "&ldquo;made of the heartwood of Dhamma&rdquo; &mdash; the "
+         "ladder handed to Telakāni as he was being swept away."),
+    ],
+    text_intro=(
+        "The text in full: twenty-two verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag16.3:1.1-1.4"),
+        ("p", "&sect;2", "thag16.3:2.1-2.4"),
+        ("p", "&sect;3", "thag16.3:3.1-3.4"),
+        ("p", "&sect;4", "thag16.3:4.1-4.4"),
+        ("p", "&sect;5", "thag16.3:5.1-5.4"),
+        ("p", "&sect;6", "thag16.3:6.1-6.4"),
+        ("p", "&sect;7", "thag16.3:7.1-7.4"),
+        ("p", "&sect;8", "thag16.3:8.1-8.4"),
+        ("p", "&sect;9", "thag16.3:9.1-9.4"),
+        ("p", "&sect;10", "thag16.3:10.1-10.4"),
+        ("p", "&sect;11", "thag16.3:11.1-11.4"),
+        ("p", "&sect;12", "thag16.3:12.1-12.4"),
+        ("p", "&sect;13", "thag16.3:13.1-13.4"),
+        ("p", "&sect;14", "thag16.3:14.1-14.4"),
+        ("p", "&sect;15", "thag16.3:15.1-15.4"),
+        ("p", "&sect;16", "thag16.3:16.1-16.4"),
+        ("p", "&sect;17", "thag16.3:17.1-17.4"),
+        ("p", "&sect;18", "thag16.3:18.1-18.4"),
+        ("p", "&sect;19", "thag16.3:19.1-19.4"),
+        ("p", "&sect;20", "thag16.3:20.1-20.4"),
+        ("p", "&sect;21", "thag16.3:21.1-21.4"),
+        ("p", "&sect;22", "thag16.3:22.1-22.4"),
+    ],
+    quiz=[
+        {"q": "What does the opening verse confess?",
+         "opts": [
+             "Complete indifference to spiritual practice",
+             "Immediate success upon first hearing the teaching",
+             "Years of keenly contemplating the teaching with no peace of mind gained",
+             "A refusal to ever contemplate the teaching"],
+         "correct": 2,
+         "expl": "The poem spends its first fifteen verses inside this unresolved state before any turn toward relief."},
+        {"q": "What mythological figure does the third verse's simile invoke?",
+         "opts": [
+             "A reference to a specific king",
+             "A reference to a river deity",
+             "No mythological reference is used",
+             "Vepacitti, the defeated asura rival of Sakka (Mahinda, 'Great Indra')"],
+         "correct": 3,
+         "expl": "A specific, learned allusion rather than an everyday image."},
+        {"q": "What does Sujato's comment say about the traditional commentary's reading of the seventh verse's 'twice-fifteen'?",
+         "opts": [
+             "It calls the commentary's reading 'implausible', offering instead an anatomical count of thirty ribcage bones",
+             "It refuses to discuss the phrase at all",
+             "It claims the phrase has no clear meaning",
+             "It agrees completely with the commentary's reading"],
+         "correct": 0,
+         "expl": "A translator explicitly departing from traditional commentary with his own reasoning."},
+        {"q": "What sustained metaphor do verses twelve through fifteen build?",
+         "opts": [
+             "Being trapped in a burning building",
+             "Drowning in a lake of mud that won't wash off, with streams flowing everywhere and a weed that keeps growing back",
+             "Climbing a mountain",
+             "Crossing a desert"],
+         "correct": 1,
+         "expl": "A slow, sticky inability to get clean, distinct from this collection's more common flood imagery."},
+        {"q": "What breaks the poem's otherwise single-voice structure, in the sixteenth verse?",
+         "opts": [
+             "A shift to third-person narration for the rest of the poem",
+             "Nothing — the poem is entirely one voice throughout",
+             "A brief, directly quoted line of counsel: 'build a dam, block the streams'",
+             "An extended dialogue matching Thag 16.1's structure"],
+         "correct": 2,
+         "expl": "Only this one interjected line, unlike Thag 16.1's extended back-and-forth."},
+        {"q": "What is Telakāni given, mid-current, in the eighteenth verse?",
+         "opts": [
+             "A weapon to fight the current",
+             "Nothing — he is left to struggle alone",
+             "A boat with no further description",
+             "A ladder made of the heartwood of Dhamma, with the words 'do not fear'"],
+         "correct": 3,
+         "expl": "'Pādāsi vuyhamānassa, 'mā bhāyī'ti ca mabravi.'"},
+        {"q": "What does Telakāni climb in the nineteenth verse?",
+         "opts": [
+             "The tower of mindfulness meditation, to look back down at his former state",
+             "A tree",
+             "No climbing is described",
+             "A mountain peak"],
+         "correct": 0,
+         "expl": "'Satipaṭṭhānapāsādaṁ, āruyha paccavekkhisaṁ.'"},
+        {"q": "What image closes the poem, echoing the cure/poison language from earlier in the poem?",
+         "opts": [
+             "A sunset over the water",
+             "'The Buddha cast aside the knot, curing the damage of poison'",
+             "A description of a meal",
+             "No closing image is given"],
+         "correct": 1,
+         "expl": "Framing the whole resolution by returning to the same image that opened the turn toward hope."},
+        {"q": "What does the twelfth verse say the 'Lord of the Dhamma' would show, if found?",
+         "opts": [
+             "A map of the region",
+             "Nothing — the verse describes no specific action",
+             "His hand and the shore, when Telakāni has fallen into deep waters",
+             "A list of monastic rules"],
+         "correct": 2,
+         "expl": "'Gambhīre patitassa me, thalaṁ pāṇiñca dassaye.'"},
+        {"q": "What does the twentieth verse say Telakāni saw when embarking on the ship, without fixating on the self?",
+         "opts": [
+             "A storm approaching",
+             "A return to his former home",
+             "Nothing — the journey continued without resolution",
+             "The supreme landing-place"],
+         "correct": 3,
+         "expl": "'Anadhiṭṭhāya attānaṁ, titthamaddakkhimuttamaṁ.'"},
+    ],
+    marginalia=[
+        ("Years of contemplation, no peace found", [
+            "a confession of failure, not success —",
+            "fifteen verses before any turn toward relief"
+        ]),
+        ("A dart counted against the ribs", [
+            "thirty bones, against tradition's reading of twenty plus ten —",
+            "the translator's own disagreement, noted plainly"
+        ]),
+        ("Mud that will not wash off", [
+            "plunged into a lake, streams everywhere —",
+            "a slow crisis, not a sudden one"
+        ]),
+        ("A ladder, a tower, a landing-place", [
+            "three constructed images build the resolution —",
+            "closing where the poem's hope first began"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag16.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-16.2.html">Thag 16.2 &mdash; Pārāsariya '
+        "(2nd)</a> &mdash; the poem immediately before this one, in "
+        "the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
