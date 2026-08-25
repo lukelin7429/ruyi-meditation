@@ -48005,3 +48005,1594 @@ page(
         "translated colophon.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 28.1 — Vivekajasutta
+# --------------------------------------------------------------------------- #
+page(
+    28, 1, "Vivekaja", "Born of Seclusion",
+    vagga="Sāriputtavagga",
+    meta_title="SN 28.1 — Born of Seclusion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vivekajasutta &mdash; opening Sāriputtasaṃyutta, where "
+        "Ānanda notices Sāriputta's radiant complexion and learns he "
+        "has attained the first absorption without a trace of "
+        "\"I am entering it.\" From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove"),
+        ("Speakers", "Venerable Ānanda questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "A brief narrative frame (Sāriputta returns radiant "
+                 "from meditation) followed by his own first-person "
+                 "report and Ānanda's own diagnosis of why"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the narrative is simple, but the absence it "
+                       "describes rewards careful attention"),
+    ],
+    why=(
+        "Opens Sāriputtasaṃyutta (\"Linked Discourses with "
+        "Sāriputta\") &mdash; ten discourses centered on a single "
+        "disciple rather than a shared analytical formula, a "
+        "structural departure from the three sister saṃyuttas just "
+        "completed (SN 25&ndash;27). This first discourse establishes "
+        "the frame all but the last will repeat: Ānanda notices "
+        "Sāriputta's clear faculties and bright complexion after "
+        "meditation, asks what he was practicing, and receives an "
+        "answer notable as much for what it lacks as for what it "
+        "contains."
+    ),
+    guide=[
+        ("A familiar day's routine, told in full for the first time", [
+            "\"Then Venerable Sāriputta robed up in the morning and, "
+            "taking his bowl and robe, entered Sāvatthī for alms... "
+            "he went to the Dark Forest for the day's meditation, "
+            "plunged deep into it, and sat at the root of a tree to "
+            "meditate\" &mdash; this opening narrative sequence, given "
+            "in full only here, will be assumed rather than repeated "
+            "in the discourses that follow.",
+        ]),
+        ("Ānanda notices something in the face", [
+            "\"Reverend Sāriputta, your faculties are so very clear, "
+            "and your complexion is pure and bright. What meditation "
+            "were you practicing today?\" &mdash; a question this "
+            "saṃyutta will repeat with only minor variation across "
+            "eight further discourses, each time prompted by the same "
+            "visible sign.",
+        ]),
+        ("The first absorption, and a striking absence", [
+            "Sāriputta describes the first absorption precisely, then "
+            "adds: \"it didn't occur to me: 'I am entering the first "
+            "absorption' or 'I have entered the first absorption' or "
+            "'I am emerging from the first absorption'\" &mdash; not "
+            "merely accomplishing the meditative state, but doing so "
+            "without any accompanying self-referential narration "
+            "about the accomplishment.",
+        ]),
+        ("Ānanda's own diagnosis", [
+            "\"That must be because Venerable Sāriputta has long ago "
+            "totally eradicated I-making, mine-making, and the "
+            "underlying tendency to conceit\" &mdash; Ānanda doesn't "
+            "merely accept the report, he explains it: the absence of "
+            "self-referential thought during deep meditation is "
+            "itself evidence of a much deeper, already-accomplished "
+            "eradication, not a special trick reserved for jhāna "
+            "alone.",
+        ]),
+    ],
+    terms=[
+        ("vivekaja pīti-sukha", "the rapture and bliss born of seclusion — the first absorption's own defining quality"),
+        ("ahaṅkāra, mamaṅkāra, mānānusaya", "I-making, mine-making, and the underlying tendency to conceit — the three things Ānanda says Sāriputta long ago eradicated"),
+        ("vitakka / vicāra", "placing the mind and keeping it connected — the first absorption's own two remaining active mental factors"),
+        ("Dark Forest (Andhavana)", "the forest near Sāvatthī where Sāriputta goes for his day's meditation, the setting for this saṃyutta's opening scene"),
+        ("indriyāni... vippasannāni", "faculties so very clear — Ānanda's own observed sign, prompting his question in this discourse and throughout this saṃyutta"),
+    ],
+    text_intro=("The complete discourse: Sāriputta's day, Ānanda's question, "
+        "and the report of the first absorption entered without any "
+        "trace of self-referential thought. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn28.1:1.1-1.4"),
+        ("p", "&sect;2", "sn28.1:2.1-2.5"),
+        ("p", "&sect;3", "sn28.1:3.1-3.6"),
+    ],
+    quiz=[
+        {"q": "What does Ānanda notice about Sāriputta that prompts his question?",
+         "opts": ["His faculties are very clear and his complexion is pure and bright", "He is limping from a long walk", "He is carrying an unusual object", "He is accompanied by other mendicants"],
+         "correct": 0,
+         "expl": "A visible sign this saṃyutta will use to open eight further discourses."},
+        {"q": "What meditative attainment does Sāriputta report in this discourse?",
+         "opts": ["The first absorption (jhāna)", "The second absorption", "The dimension of infinite space", "The cessation of perception and feeling"],
+         "correct": 0,
+         "expl": "Opening this saṃyutta's own ascending sequence of meditative attainments."},
+        {"q": "What did NOT occur to Sāriputta while in this attainment?",
+         "opts": ["'I am entering,' 'I have entered,' or 'I am emerging from' the first absorption", "The content of the meditation itself", "Any awareness of his surroundings", "The passage of time"],
+         "correct": 0,
+         "expl": "The attainment's own absence of accompanying self-referential narration."},
+        {"q": "How does Ānanda explain this absence?",
+         "opts": ["Sāriputta long ago totally eradicated I-making, mine-making, and the underlying tendency to conceit", "It was a temporary effect specific to this one meditation session", "Ānanda offers no explanation at all", "It was due to physical exhaustion"],
+         "correct": 0,
+         "expl": "A much deeper, already-accomplished eradication, not a special trick reserved for jhāna alone."},
+        {"q": "What narrative sequence does this discourse give in full that later discourses will assume rather than repeat?",
+         "opts": ["Sāriputta's morning almsround and journey to the Dark Forest for meditation", "The full biography of Sāriputta", "A description of the monastery's architecture", "A list of all of Sāriputta's past meditation teachers"],
+         "correct": 0,
+         "expl": "This saṃyutta's own opening frame, established once and referenced afterward."},
+        {"q": "Where is Sāriputta staying at the start of this discourse?",
+         "opts": ["Near Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery", "Near Rājagaha, in the Bamboo Grove", "Near Vesālī", "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The setting for this saṃyutta's first nine discourses, before SN 28.10 shifts to Rājagaha."},
+        {"q": "What saṃyutta does this discourse open?",
+         "opts": ["Sāriputtasaṃyutta, \"Linked Discourses with Sāriputta\"", "Kilesasaṃyutta", "Uppādasaṃyutta", "Okkantasaṃyutta"],
+         "correct": 0,
+         "expl": "This book's ninth saṃyutta, centered on a single disciple rather than a shared analytical formula."},
+        {"q": "How does this saṃyutta's structure differ from SN 25–27's own?",
+         "opts": ["Narrative, centered on one disciple, rather than a shared formula applied across ten fixed categories", "Identical in every structural respect", "This saṃyutta also uses the ten-category sequence", "This saṃyutta has no discernible structure at all"],
+         "correct": 0,
+         "expl": "A genuine departure from the three sister saṃyuttas just completed."},
+        {"q": "What two mental factors does the first absorption still retain, according to this discourse's own description?",
+         "opts": ["Placing the mind and keeping it connected (vitakka and vicāra)", "Equanimity and mindfulness alone", "No mental factors remain active", "Perception and feeling alone"],
+         "correct": 0,
+         "expl": "Factors the second absorption (SN 28.2) will describe as stilled."},
+        {"q": "What discourse comes next in this saṃyutta's sequence?",
+         "opts": ["SN 28.2, reporting the second absorption", "SN 28.10, skipping ahead to the close", "SN 28.1, repeated", "A return to SN 27's own content"],
+         "correct": 0,
+         "expl": "Continuing this saṃyutta's own ascending sequence of meditative attainments."},
+    ],
+    marginalia=[
+        ("A face that gives it away", [
+            "clear faculties, bright complexion &mdash;",
+            "the sign that opens this saṃyutta's own question",
+        ]),
+        ("Absorption, without narration", [
+            "no \"I am entering,\" no \"I have entered\" &mdash;",
+            "the attainment itself, minus any self-story about it",
+        ]),
+        ("A diagnosis, not just an acceptance", [
+            "\"long ago totally eradicated\" &mdash;",
+            "Ānanda explains the absence, doesn't merely note it",
+        ]),
+        ("A frame this saṃyutta will lean on", [
+            "morning almsround, the Dark Forest, a tree's root &mdash;",
+            "given in full once, assumed from here on",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn28.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-27.10.html">SN 27.10 &middot; The Aggregates</a> '
+        "&mdash; the previous discourse, closing Kilesasaṃyutta and "
+        "this book's trio of sister saṃyuttas.",
+        '<a href="sn-28.2.html">SN 28.2 &middot; Without Placing the '
+        "Mind</a> &mdash; the next discourse, the second absorption.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 28.2 — Avitakkasutta
+# --------------------------------------------------------------------------- #
+page(
+    28, 2, "Avitakka", "Without Placing the Mind",
+    vagga="Sāriputtavagga",
+    meta_title="SN 28.2 — Without Placing the Mind | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Avitakkasutta &mdash; Sāriputta's own report of the "
+        "second absorption, again entered without any trace of "
+        "self-referential thought. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Ānanda questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "The same recurring frame, now applied to the "
+                 "second absorption"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "familiar territory immediately after SN 28.1"),
+    ],
+    why=(
+        "The second step in this saṃyutta's ascending sequence: "
+        "placing the mind and keeping it connected, the first "
+        "absorption's own remaining active factors, now stilled, "
+        "giving way to the second absorption's own internal clarity "
+        "and unified mind &mdash; reported, once again, without any "
+        "self-referential narration about the attainment."
+    ),
+    guide=[
+        ("The frame, now assumed rather than retold", [
+            "This discourse opens directly with Ānanda's question, "
+            "skipping SN 28.1's own fuller account of Sāriputta's "
+            "morning almsround and journey to the forest &mdash; the "
+            "narrative scaffolding, established once, is trusted to "
+            "carry forward.",
+        ]),
+        ("What stills, and what remains", [
+            "\"As the placing of the mind and keeping it connected "
+            "were stilled, I entered and remained in the second "
+            "absorption, which has the rapture and bliss born of "
+            "immersion, with internal clarity and mind at one, "
+            "without placing the mind and keeping it connected\" "
+            "&mdash; the two factors distinguishing the first "
+            "absorption from ordinary experience have themselves now "
+            "quieted, replaced by an even more unified internal "
+            "clarity.",
+        ]),
+        ("The identical absence, one level deeper", [
+            "\"It didn't occur to me: 'I am entering the second "
+            "absorption' or 'I have entered the second absorption' or "
+            "'I am emerging from the second absorption'\" &mdash; the "
+            "exact same pattern as SN 28.1, now demonstrated at a "
+            "subtler level of absorption, confirming this isn't a "
+            "one-time fluke but a consistent feature of how Sāriputta "
+            "meditates.",
+        ]),
+        ("The same diagnosis, repeated verbatim", [
+            "Ānanda's own explanation &mdash; long-eradicated I-making, "
+            "mine-making, and the underlying tendency to conceit "
+            "&mdash; repeats word for word from SN 28.1, reinforcing "
+            "that what's being demonstrated is a stable trait, not an "
+            "attainment-specific curiosity.",
+        ]),
+    ],
+    terms=[
+        ("avitakka avicāra", "without placing the mind and keeping it connected — the second absorption's own defining absence, giving this discourse its name"),
+        ("samādhija pīti-sukha", "the rapture and bliss born of immersion — the second absorption's own defining quality, distinct from the first absorption's rapture born of seclusion"),
+        ("ajjhattaṁ sampasādanaṁ", "internal clarity — the second absorption's own further quality, alongside mind at one (cetaso ekodibhāva)"),
+        ("ahaṅkāra, mamaṅkāra, mānānusaya", "I-making, mine-making, and the underlying tendency to conceit — Ānanda's own repeated diagnosis, unchanged from SN 28.1"),
+        ("cetaso ekodibhāva", "mind at one — the second absorption's own unified quality, replacing the first absorption's still-active mental factors"),
+    ],
+    text_intro=("The complete discourse: Ānanda's question and Sāriputta's "
+        "report of the second absorption, again without any trace of "
+        "self-referential thought. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn28.2:1.1-1.4"),
+        ("p", "&sect;2", "sn28.2:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What meditative attainment does Sāriputta report in this discourse?",
+         "opts": ["The second absorption", "The first absorption", "The dimension of infinite space", "The cessation of perception and feeling"],
+         "correct": 0,
+         "expl": "The second step in this saṃyutta's own ascending sequence."},
+        {"q": "What stills to produce the second absorption, according to this discourse?",
+         "opts": ["Placing the mind and keeping it connected (vitakka and vicāra)", "Rapture and bliss entirely", "Perception and feeling", "Equanimity and mindfulness"],
+         "correct": 0,
+         "expl": "The first absorption's own remaining active factors, now quieted."},
+        {"q": "What replaces those stilled factors in the second absorption?",
+         "opts": ["Internal clarity and mind at one", "A return to ordinary waking consciousness", "Increased mental effort", "Physical discomfort"],
+         "correct": 0,
+         "expl": "A more unified internal state than the first absorption's own."},
+        {"q": "What narrative element does this discourse skip, unlike SN 28.1?",
+         "opts": ["The fuller account of Sāriputta's morning almsround and journey to the forest", "Ānanda's own question entirely", "Sāriputta's report of his meditation", "Ānanda's own diagnosis"],
+         "correct": 0,
+         "expl": "The narrative scaffolding established once at SN 28.1 is trusted to carry forward."},
+        {"q": "What did NOT occur to Sāriputta during this attainment?",
+         "opts": ["'I am entering,' 'I have entered,' or 'I am emerging from' the second absorption", "Any awareness of his own breathing", "The content of the meditation itself", "Any memory of his training"],
+         "correct": 0,
+         "expl": "The same self-referential absence demonstrated at SN 28.1, now shown at a subtler level."},
+        {"q": "How does Ānanda's explanation in this discourse compare to SN 28.1's own?",
+         "opts": ["Repeated word for word", "Substantially different", "Entirely absent this time", "Reversed in meaning"],
+         "correct": 0,
+         "expl": "Reinforcing that what's demonstrated is a stable trait, not an attainment-specific curiosity."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What quality does the second absorption's own rapture and bliss derive from, distinct from the first absorption's own?",
+         "opts": ["Immersion (samādhi), rather than seclusion (viveka)", "An identical source to the first absorption's own", "External sensory stimulation", "No rapture or bliss is present at all"],
+         "correct": 0,
+         "expl": "A shift in source even as the qualities themselves (rapture and bliss) persist across both attainments."},
+        {"q": "What discourse comes next in this saṃyutta's sequence?",
+         "opts": ["SN 28.3, reporting the third absorption", "SN 28.10, skipping ahead to the close", "SN 28.1, repeated", "A return to SN 27's own content"],
+         "correct": 0,
+         "expl": "Continuing this saṃyutta's own ascending sequence."},
+        {"q": "What is this saṃyutta's own recurring narrative frame?",
+         "opts": ["Ānanda notices Sāriputta's clear faculties and bright complexion and asks what he was practicing", "A formal debate between two named teachers", "A direct address from the Buddha to the assembled mendicants", "A dialogue with an outside wanderer"],
+         "correct": 0,
+         "expl": "Established at SN 28.1, repeated with variation across this saṃyutta's first nine discourses."},
+    ],
+    marginalia=[
+        ("The frame, now assumed", [
+            "no retelling of the morning's almsround &mdash;",
+            "straight to Ānanda's question this time",
+        ]),
+        ("What stills, what remains", [
+            "placing and keeping connected, quieted &mdash;",
+            "internal clarity and mind at one, arising instead",
+        ]),
+        ("The same absence, one level deeper", [
+            "no \"I am entering\" here either &mdash;",
+            "confirming a trait, not a one-time occurrence",
+        ]),
+        ("Ānanda's diagnosis, repeated", [
+            "word for word from SN 28.1 &mdash;",
+            "eradicated long ago, not freshly demonstrated",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn28.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-28.1.html">SN 28.1 &middot; Born of Seclusion</a> '
+        "&mdash; the previous discourse, this saṃyutta's own opening "
+        "and source for the shared narrative frame.",
+        '<a href="sn-28.3.html">SN 28.3 &middot; Rapture</a> '
+        "&mdash; the next discourse, the third absorption.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 28.3 — Pītisutta
+# --------------------------------------------------------------------------- #
+page(
+    28, 3, "Pīti", "Rapture",
+    vagga="Sāriputtavagga",
+    meta_title="SN 28.3 — Rapture | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pītisutta &mdash; Sāriputta's own report of the third "
+        "absorption, where rapture itself fades and equanimous bliss "
+        "remains. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Ānanda questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "The same recurring frame, now applied to the third "
+                 "absorption"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "familiar territory, though the third "
+                       "absorption's own quoted verse rewards notice"),
+    ],
+    why=(
+        "The third step in this saṃyutta's ascending sequence: with "
+        "the fading of rapture itself, Sāriputta enters the third "
+        "absorption, meditating in a bliss the discourse quotes the "
+        "noble ones as describing directly &mdash; and again, without "
+        "any trace of self-referential thought about the attainment."
+    ),
+    guide=[
+        ("Rapture itself now fades", [
+            "\"With the fading away of rapture, I entered and remained "
+            "in the third absorption, where I meditated with "
+            "equanimity, mindful and aware, personally experiencing "
+            "the bliss of which the noble ones declare, 'Equanimous "
+            "and mindful, one meditates in bliss'\" &mdash; the "
+            "rapture that characterized both the first and second "
+            "absorptions has itself now given way, leaving a subtler, "
+            "equanimity-grounded bliss.",
+        ]),
+        ("A quoted verse, not just a description", [
+            "This discourse's title (\"Rapture\") names what falls "
+            "away rather than what remains &mdash; and uniquely among "
+            "this saṃyutta's first three discourses, quotes a "
+            "standing canonical formula (\"the noble ones declare...\") "
+            "rather than describing the attainment purely in "
+            "Sāriputta's own first-person terms.",
+        ]),
+        ("The identical absence, now at the third level", [
+            "\"It didn't occur to me: 'I am entering the third "
+            "absorption'...\" &mdash; the same self-referential "
+            "absence demonstrated twice already, holding steady as "
+            "the attainments themselves grow progressively subtler.",
+        ]),
+        ("A pattern now firmly established", [
+            "By this third repetition, the discourse's own rhythm is "
+            "fully set: report the attainment, note the absence of "
+            "self-narration, receive Ānanda's identical diagnosis "
+            "&mdash; a structure this saṃyutta will continue through "
+            "SN 28.4 before compressing.",
+        ]),
+    ],
+    terms=[
+        ("pīti", "rapture — what fades away to produce the third absorption, giving this discourse its name"),
+        ("upekkhako satimā sampajāno sukhaṁ viharati", "\"equanimous and mindful, one meditates in bliss\" — the canonical verse this discourse quotes the noble ones as declaring"),
+        ("upekkhā", "equanimity — the third absorption's own defining quality, replacing rapture"),
+        ("sato sampajāno", "mindful and aware — the third absorption's own accompanying mental clarity"),
+        ("ahaṅkāra, mamaṅkāra, mānānusaya", "I-making, mine-making, and the underlying tendency to conceit — Ānanda's own repeated diagnosis"),
+    ],
+    text_intro=("The complete discourse: Ānanda's question and Sāriputta's "
+        "report of the third absorption, again without any trace of "
+        "self-referential thought. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn28.3:1.1-1.4"),
+        ("p", "&sect;2", "sn28.3:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What meditative attainment does Sāriputta report in this discourse?",
+         "opts": ["The third absorption", "The second absorption", "The dimension of nothingness", "The cessation of perception and feeling"],
+         "correct": 0,
+         "expl": "The third step in this saṃyutta's own ascending sequence."},
+        {"q": "What fades away to produce the third absorption?",
+         "opts": ["Rapture (pīti)", "Equanimity", "Mindfulness", "All feeling whatsoever"],
+         "correct": 0,
+         "expl": "Giving this discourse its own name."},
+        {"q": "What canonical formula does this discourse quote, uniquely among the first three?",
+         "opts": ["\"Equanimous and mindful, one meditates in bliss\" — attributed to the noble ones", "A verse from the four noble truths", "A quotation from a named outside teacher", "No formula is quoted in this discourse"],
+         "correct": 0,
+         "expl": "Rather than describing the attainment purely in Sāriputta's own first-person terms."},
+        {"q": "What did NOT occur to Sāriputta during this attainment?",
+         "opts": ["'I am entering,' 'I have entered,' or 'I am emerging from' the third absorption", "Any awareness of equanimity itself", "The passage of time", "Any memory of the first two absorptions"],
+         "correct": 0,
+         "expl": "The same self-referential absence demonstrated at SN 28.1–2, holding steady as attainments grow subtler."},
+        {"q": "What two qualities characterize the third absorption, according to this discourse?",
+         "opts": ["Equanimity and bliss, along with mindfulness and awareness", "Rapture and bliss, unchanged from the second absorption", "Placing the mind and keeping it connected", "Neither pleasure nor pain"],
+         "correct": 0,
+         "expl": "Rapture has faded; equanimity-grounded bliss remains."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "How does Ānanda's explanation in this discourse compare to SN 28.1–2's own?",
+         "opts": ["Repeated word for word", "Substantially different", "Entirely absent this time", "Reversed in meaning"],
+         "correct": 0,
+         "expl": "The identical diagnosis, holding across all three attainments so far."},
+        {"q": "What pattern does this reading guide say is now firmly established by this third repetition?",
+         "opts": ["Report the attainment, note the absence of self-narration, receive Ānanda's identical diagnosis", "A pattern that changes substantially with each discourse", "No discernible pattern at all", "A pattern unique to only this one discourse"],
+         "correct": 0,
+         "expl": "A structure this saṃyutta will continue through SN 28.4 before compressing."},
+        {"q": "What discourse comes next in this saṃyutta's sequence?",
+         "opts": ["SN 28.4, reporting the fourth absorption", "SN 28.10, skipping ahead to the close", "SN 28.1, repeated", "A return to SN 27's own content"],
+         "correct": 0,
+         "expl": "Continuing this saṃyutta's own ascending sequence."},
+        {"q": "What did rapture and bliss both characterize, before the third absorption's own further refinement?",
+         "opts": ["Both the first and second absorptions", "Only the first absorption", "Only the second absorption", "Neither of the first two absorptions"],
+         "correct": 0,
+         "expl": "The quality now refined further as rapture itself subsides."},
+    ],
+    marginalia=[
+        ("What fades this time", [
+            "rapture itself, giving way &mdash;",
+            "equanimity and bliss remaining in its place",
+        ]),
+        ("A verse, not just a description", [
+            "\"the noble ones declare\" &mdash;",
+            "a canonical formula quoted for the first time here",
+        ]),
+        ("Still no self-narration", [
+            "no \"I am entering\" at this level either &mdash;",
+            "the same absence, three attainments running",
+        ]),
+        ("A rhythm now fully set", [
+            "report, absence noted, diagnosis given &mdash;",
+            "the pattern this saṃyutta will carry forward",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn28.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-28.2.html">SN 28.2 &middot; Without Placing the '
+        "Mind</a> &mdash; the previous discourse, the second "
+        "absorption.",
+        '<a href="sn-28.4.html">SN 28.4 &middot; Equanimity</a> '
+        "&mdash; the next discourse, the fourth and final absorption "
+        "given in full.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 28.4 — Upekkhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    28, 4, "Upekkhā", "Equanimity",
+    vagga="Sāriputtavagga",
+    meta_title="SN 28.4 — Equanimity | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Upekkhāsutta &mdash; Sāriputta's own report of the "
+        "fourth absorption, the last of the four jhānas given in "
+        "full before this saṃyutta's own compression begins. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Ānanda questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "The same recurring frame, now applied to the "
+                 "fourth and final absorption, this saṃyutta's own "
+                 "last full discourse before compression begins"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "familiar territory, closing the four "
+                       "absorptions proper"),
+    ],
+    why=(
+        "The fourth and final step of the classic four absorptions "
+        "(jhāna): with pleasure and pain both given up, and former "
+        "happiness and sadness ended, Sāriputta enters a state of "
+        "pure equanimity and mindfulness &mdash; the last discourse "
+        "in this saṃyutta given in full before SN 28.5&ndash;8 "
+        "compress the four formless attainments that follow."
+    ),
+    guide=[
+        ("Pleasure and pain both given up", [
+            "\"With the giving up of pleasure and pain, and the ending "
+            "of former happiness and sadness, I entered and remained "
+            "in the fourth absorption, without pleasure or pain, with "
+            "pure equanimity and mindfulness\" &mdash; not merely "
+            "rapture and bliss refining further, but the entire "
+            "pleasure/pain polarity itself set aside.",
+        ]),
+        ("Completing the classic four absorptions", [
+            "SN 28.1&ndash;4 together walk through the complete "
+            "standard sequence of jhāna: seclusion's rapture and "
+            "bliss, immersion's rapture and bliss without active "
+            "thought, equanimous bliss with rapture faded, and finally "
+            "pure equanimity beyond pleasure and pain altogether "
+            "&mdash; a four-stage refinement well known throughout the "
+            "Nikāyas, here demonstrated entirely through Sāriputta's "
+            "own reports.",
+        ]),
+        ("The absence, held at its most refined point yet", [
+            "\"It didn't occur to me: 'I am entering the fourth "
+            "absorption'...\" &mdash; the identical self-referential "
+            "absence, now demonstrated at what is, among the four "
+            "jhānas, considered the most refined and stable.",
+        ]),
+        ("What compression signals about what follows", [
+            "That SN 28.5 onward compresses to a bare description "
+            "plus ellipsis suggests the four formless attainments to "
+            "come will receive lighter individual treatment than the "
+            "four jhānas just completed &mdash; not because they "
+            "matter less, but because the reporting pattern itself is "
+            "by now fully established.",
+        ]),
+    ],
+    terms=[
+        ("adukkham asukhaṁ upekkhāsatipārisuddhiṁ", "without pleasure or pain, with pure equanimity and mindfulness — the fourth absorption's own defining formula"),
+        ("pubbeva somanassadomanassānaṁ atthaṅgamā", "with the ending of former happiness and sadness — the fourth absorption's own further completion of what the third absorption began"),
+        ("cattāri jhānāni", "the four absorptions — the complete classic sequence SN 28.1–4 together demonstrate"),
+        ("ahaṅkāra, mamaṅkāra, mānānusaya", "I-making, mine-making, and the underlying tendency to conceit — Ānanda's own repeated diagnosis, holding through all four absorptions"),
+        ("āruppa", "the formless attainments — the four states SN 28.5–8 will examine next, beyond form altogether"),
+    ],
+    text_intro=("The complete discourse: Ānanda's question and Sāriputta's "
+        "report of the fourth absorption, completing the classic four "
+        "jhānas. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn28.4:1.1-1.4"),
+        ("p", "&sect;2", "sn28.4:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What meditative attainment does Sāriputta report in this discourse?",
+         "opts": ["The fourth absorption", "The third absorption", "The dimension of infinite consciousness", "The cessation of perception and feeling"],
+         "correct": 0,
+         "expl": "The fourth and final of the classic jhānas."},
+        {"q": "What is given up entirely to produce the fourth absorption?",
+         "opts": ["Both pleasure and pain, along with former happiness and sadness", "Only mindfulness", "Only equanimity", "Rapture alone, unchanged from the third absorption"],
+         "correct": 0,
+         "expl": "Not merely refinement, but the entire pleasure/pain polarity set aside."},
+        {"q": "What do SN 28.1–4 together demonstrate?",
+         "opts": ["The complete classic sequence of the four absorptions (jhāna)", "Only the first two absorptions", "The four formless attainments", "The nine progressive dwellings in full"],
+         "correct": 0,
+         "expl": "A four-stage refinement well known throughout the Nikāyas."},
+        {"q": "What did NOT occur to Sāriputta during this attainment?",
+         "opts": ["'I am entering,' 'I have entered,' or 'I am emerging from' the fourth absorption", "Any awareness of equanimity itself", "The passage of time", "Any bodily sensation whatsoever"],
+         "correct": 0,
+         "expl": "The identical self-referential absence, now at the most refined of the four jhānas."},
+        {"q": "What happens to this saṃyutta's treatment starting with the next discourse?",
+         "opts": ["Compression begins — SN 28.5 onward gives a bare description plus ellipsis", "Full treatment continues unchanged through SN 28.10", "The saṃyutta ends here", "The narrative frame is abandoned entirely"],
+         "correct": 0,
+         "expl": "The four formless attainments to come will receive lighter individual treatment."},
+        {"q": "Why might this compression happen, according to this reading guide?",
+         "opts": ["Not because the formless attainments matter less, but because the reporting pattern itself is by now fully established", "Because the formless attainments are considered unimportant", "Because the source text is corrupted at this point", "Because Sāriputta never actually attained the formless states"],
+         "correct": 0,
+         "expl": "A structural rather than a substantive judgment."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "How does Ānanda's explanation in this discourse compare to SN 28.1–3's own?",
+         "opts": ["Repeated word for word", "Substantially different", "Entirely absent this time", "Reversed in meaning"],
+         "correct": 0,
+         "expl": "The identical diagnosis, holding across all four absorptions."},
+        {"q": "What four attainments will SN 28.5–8 examine next?",
+         "opts": ["The dimensions of infinite space, infinite consciousness, nothingness, and neither perception nor non-perception", "A repeat of the four jhānas", "The five aggregates", "The ten undetermined questions"],
+         "correct": 0,
+         "expl": "The four formless attainments (āruppa), beyond form altogether."},
+        {"q": "What discourse follows SN 28.8, before this saṃyutta's own narrative close?",
+         "opts": ["SN 28.9, the cessation of perception and feeling, given in full", "SN 28.10 directly, skipping SN 28.9", "A return to the four jhānas", "No further discourse follows"],
+         "correct": 0,
+         "expl": "The ninth and highest of the traditional progressive dwellings, given special full treatment despite its position in the compressed zone."},
+    ],
+    marginalia=[
+        ("Beyond pleasure and pain entirely", [
+            "not refinement, but complete setting-aside &mdash;",
+            "pure equanimity and mindfulness remaining",
+        ]),
+        ("Four jhānas, fully walked through", [
+            "seclusion, immersion, equanimous bliss, purity &mdash;",
+            "the classic sequence, entirely in Sāriputta's own words",
+        ]),
+        ("The absence, at its most refined", [
+            "no self-narration even here &mdash;",
+            "the pattern holding through the deepest jhāna",
+        ]),
+        ("What compression signals next", [
+            "the formless attainments, more lightly told &mdash;",
+            "not less important, just a pattern now established",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn28.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-28.3.html">SN 28.3 &middot; Rapture</a> '
+        "&mdash; the previous discourse, the third absorption.",
+        '<a href="sn-28.5.html">SN 28.5 &middot; The Dimension of '
+        "Infinite Space</a> &mdash; the next discourse, the first of "
+        "the four formless attainments.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 28.5 — Ākāsānañcāyatanasutta
+# --------------------------------------------------------------------------- #
+page(
+    28, 5, "Ākāsānañcāyatana", "The Dimension of Infinite Space",
+    vagga="Sāriputtavagga",
+    meta_title="SN 28.5 — The Dimension of Infinite Space | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ākāsānañcāyatanasutta &mdash; Sāriputta's report of the "
+        "first formless attainment, going entirely beyond perceptions "
+        "of form. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Ānanda questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "The same recurring frame, now compressed, applied "
+                 "to the first of the four formless attainments"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in text, though the shift beyond form "
+                       "itself is worth pausing on"),
+    ],
+    why=(
+        "The fifth step, and the first of the four formless "
+        "attainments (āruppa): going entirely beyond perceptions of "
+        "form, Sāriputta enters the dimension of infinite space "
+        "&mdash; a genuine categorical shift from the four jhānas just "
+        "completed, which remained grounded in a body still capable "
+        "of being described in terms of form."
+    ),
+    guide=[
+        ("Beyond form altogether", [
+            "\"Going totally beyond perceptions of form, with the "
+            "disappearance of perceptions of impingement, not "
+            "focusing on perceptions of diversity, aware that 'space "
+            "is infinite', I entered and remained in the dimension of "
+            "infinite space\" &mdash; a different kind of transition "
+            "than any between the four jhānas: not a refinement within "
+            "form-based experience, but a move beyond form as a "
+            "category entirely.",
+        ]),
+        ("Compression begins, exactly where predicted", [
+            "As anticipated at SN 28.4, this discourse's own source "
+            "text compresses to the bare attainment formula plus "
+            "ellipsis, trusting the reader to supply Ānanda's opening "
+            "question and closing diagnosis from the pattern already "
+            "established four times over.",
+        ]),
+        ("Three perceptions given up in sequence", [
+            "The formula names three things left behind in turn: "
+            "perceptions of form itself, perceptions of impingement "
+            "(the sense of resistance or contact), and perceptions of "
+            "diversity (the sense of multiplicity) &mdash; each "
+            "progressively subtler than the last, clearing the way for "
+            "the bare awareness of space as infinite.",
+        ]),
+        ("Three formless attainments still to come", [
+            "SN 28.6 through SN 28.8 will continue through infinite "
+            "consciousness, nothingness, and neither perception nor "
+            "non-perception, before SN 28.9 returns to full treatment "
+            "for the cessation of perception and feeling.",
+        ]),
+    ],
+    terms=[
+        ("rūpasaññānaṁ samatikkamā", "going totally beyond perceptions of form — the first condition for entering the formless attainments"),
+        ("paṭighasaññānaṁ atthaṅgamā", "the disappearance of perceptions of impingement — the second condition, the sense of resistance or contact falling away"),
+        ("nānattasaññānaṁ amanasikārā", "not focusing on perceptions of diversity — the third condition, the sense of multiplicity set aside"),
+        ("ākāsānañcāyatana", "the dimension of infinite space — the first of the four formless attainments, giving this discourse its name"),
+        ("āruppa", "the formless attainments — the four states beyond form this discourse opens, distinct in kind from the four jhānas already examined"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: "
+        "Sāriputta's report of the dimension of infinite space. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn28.5:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What meditative attainment does Sāriputta report in this discourse?",
+         "opts": ["The dimension of infinite space", "The fourth absorption", "The dimension of infinite consciousness", "The cessation of perception and feeling"],
+         "correct": 0,
+         "expl": "The first of the four formless attainments (āruppa)."},
+        {"q": "How does this transition differ from the transitions between the four jhānas?",
+         "opts": ["A move beyond form as a category entirely, not merely a refinement within form-based experience", "An identical kind of refinement, just one step further", "A regression to a less refined state", "No meaningful transition occurs at all"],
+         "correct": 0,
+         "expl": "A genuine categorical shift, distinct from the four jhānas' own internal refinements."},
+        {"q": "What happens to this saṃyutta's treatment starting with this discourse?",
+         "opts": ["Compression begins, exactly as anticipated at SN 28.4", "Full treatment continues unchanged", "The narrative frame is abandoned entirely", "The saṃyutta ends here"],
+         "correct": 0,
+         "expl": "Trusting the reader to supply Ānanda's question and diagnosis from the established pattern."},
+        {"q": "What three perceptions does this discourse's formula name as given up in sequence?",
+         "opts": ["Perceptions of form, impingement, and diversity", "Perceptions of pleasure, pain, and neutrality", "Perceptions of past, present, and future", "Only a single perception is named"],
+         "correct": 0,
+         "expl": "Each progressively subtler, clearing the way for infinite space's own bare awareness."},
+        {"q": "What is left after these three perceptions are given up?",
+         "opts": ["Awareness that 'space is infinite'", "A return to ordinary sensory experience", "Complete unconsciousness", "The four jhānas repeated"],
+         "correct": 0,
+         "expl": "The dimension of infinite space itself, this discourse's own defining attainment."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What three formless attainments remain after this discourse?",
+         "opts": ["Infinite consciousness, nothingness, and neither perception nor non-perception", "A repeat of the four jhānas", "The five aggregates", "The ten undetermined questions"],
+         "correct": 0,
+         "expl": "Completing the four formless attainments before the cessation of perception and feeling."},
+        {"q": "What discourse will return to full treatment after the formless attainments are complete?",
+         "opts": ["SN 28.9, the cessation of perception and feeling", "SN 28.6, immediately following this discourse", "SN 28.10, the saṃyutta's own narrative close", "No discourse returns to full treatment"],
+         "correct": 0,
+         "expl": "The ninth and highest of the traditional progressive dwellings, given special emphasis despite its position."},
+        {"q": "What is this saṃyutta's own recurring narrative frame, trusted to memory here?",
+         "opts": ["Ānanda notices Sāriputta's clear faculties and bright complexion and asks what he was practicing", "A formal debate with an outside teacher", "A direct address from the Buddha", "A dialogue with a female wanderer"],
+         "correct": 0,
+         "expl": "Established at SN 28.1, now compressed away but still implied."},
+        {"q": "What discourse comes next in this saṃyutta's sequence?",
+         "opts": ["SN 28.6, examining the dimension of infinite consciousness", "SN 28.10, skipping ahead to the close", "SN 28.1, repeated", "SN 28.9, skipping ahead to cessation"],
+         "correct": 0,
+         "expl": "Continuing this saṃyutta's own ascending sequence one attainment at a time."},
+    ],
+    marginalia=[
+        ("A move beyond form entirely", [
+            "not a refinement within it &mdash;",
+            "a genuinely different kind of transition",
+        ]),
+        ("Compression, right on schedule", [
+            "the bare formula, an ellipsis standing in &mdash;",
+            "the pattern trusted after four full repetitions",
+        ]),
+        ("Three perceptions, given up in turn", [
+            "form, impingement, diversity &mdash;",
+            "clearing the way for infinite space itself",
+        ]),
+        ("Three more formless states ahead", [
+            "consciousness, nothingness, neither-nor &mdash;",
+            "then cessation, given full treatment once more",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn28.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-28.4.html">SN 28.4 &middot; Equanimity</a> '
+        "&mdash; the previous discourse, completing the four jhānas "
+        "before this saṃyutta moves beyond form.",
+        '<a href="sn-28.6.html">SN 28.6 &middot; The Dimension of '
+        "Infinite Consciousness</a> &mdash; the next discourse, the "
+        "second formless attainment.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 28.6 — Viññāṇañcāyatanasutta
+# --------------------------------------------------------------------------- #
+page(
+    28, 6, "Viññāṇañcāyatana", "The Dimension of Infinite Consciousness",
+    vagga="Sāriputtavagga",
+    meta_title="SN 28.6 — The Dimension of Infinite Consciousness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Viññāṇañcāyatanasutta &mdash; Sāriputta's report of the "
+        "second formless attainment, going beyond infinite space "
+        "itself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Ānanda questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "The compressed formula, matching SN 28.5's own "
+                 "treatment"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and familiar after SN 28.5"),
+    ],
+    why=(
+        "The sixth step: going totally beyond the dimension of "
+        "infinite space itself, Sāriputta enters the dimension of "
+        "infinite consciousness &mdash; each formless attainment "
+        "defined not by what it newly contains, but by going "
+        "completely beyond the attainment just before it."
+    ),
+    guide=[
+        ("Beyond infinite space itself", [
+            "\"Going totally beyond the dimension of infinite space, "
+            "aware that 'consciousness is infinite', I entered and "
+            "remained in the dimension of infinite consciousness\" "
+            "&mdash; the formless attainments' own characteristic "
+            "structure: each one defined as a complete transcendence "
+            "of the one before it, not an addition to it.",
+        ]),
+        ("A structural pattern worth naming", [
+            "Where the four jhānas each added or refined a specific "
+            "quality (rapture, then its stilling, then equanimity, "
+            "then equanimity's own purification), the formless "
+            "attainments instead each simply move past their "
+            "predecessor entirely &mdash; a different logic of "
+            "progression, worth distinguishing from the jhānas' own.",
+        ]),
+        ("The same brevity, the same trust", [
+            "As at SN 28.5, only the bare attainment formula survives "
+            "in the source, Ānanda's question and diagnosis both "
+            "left to the reader's own memory of the pattern.",
+        ]),
+        ("Two formless attainments still to come", [
+            "SN 28.7 and SN 28.8 will continue through nothingness and "
+            "neither perception nor non-perception, before SN 28.9 "
+            "returns to full treatment.",
+        ]),
+    ],
+    terms=[
+        ("ākāsānañcāyatanaṁ samatikkamma", "going totally beyond the dimension of infinite space — this discourse's own defining transition"),
+        ("viññāṇañcāyatana", "the dimension of infinite consciousness — the second of the four formless attainments, giving this discourse its name"),
+        ("āruppa", "the formless attainments — each defined by transcending the one before it, not by adding a new quality"),
+        ("ahaṅkāra, mamaṅkāra, mānānusaya", "I-making, mine-making, and the underlying tendency to conceit — Ānanda's own diagnosis, implied though not restated here"),
+        ("peyyāla", "an elision mark — continuing this saṃyutta's compression pattern from SN 28.5"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: "
+        "Sāriputta's report of the dimension of infinite "
+        "consciousness. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn28.6:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What meditative attainment does Sāriputta report in this discourse?",
+         "opts": ["The dimension of infinite consciousness", "The dimension of infinite space", "The dimension of nothingness", "The cessation of perception and feeling"],
+         "correct": 0,
+         "expl": "The second of the four formless attainments."},
+        {"q": "What does this discourse say Sāriputta goes beyond to reach this attainment?",
+         "opts": ["The dimension of infinite space itself", "The four jhānas directly", "Ordinary waking consciousness", "The dimension of nothingness"],
+         "correct": 0,
+         "expl": "Each formless attainment defined as a complete transcendence of the one before it."},
+        {"q": "How does the formless attainments' structure of progression differ from the four jhānas' own?",
+         "opts": ["Each simply moves past its predecessor entirely, rather than adding or refining a specific quality", "The two follow an identical logic of progression", "The formless attainments add new qualities, just as the jhānas do", "There is no meaningful structural difference"],
+         "correct": 0,
+         "expl": "A different logic of progression worth distinguishing explicitly."},
+        {"q": "What does this discourse's source preserve, given its own compression?",
+         "opts": ["Only the bare attainment formula, with Ānanda's question and diagnosis left to memory", "The full narrative frame and diagnosis, unabridged", "Nothing at all", "A different formula entirely"],
+         "correct": 0,
+         "expl": "Matching SN 28.5's own compressed treatment."},
+        {"q": "What two formless attainments remain after this discourse?",
+         "opts": ["Nothingness and neither perception nor non-perception", "A repeat of the four jhānas", "Only cessation remains", "No further attainments remain"],
+         "correct": 0,
+         "expl": "Completing the four formless attainments before SN 28.9's own full treatment."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What is the awareness that characterizes this attainment?",
+         "opts": ["That 'consciousness is infinite'", "That 'space is infinite'", "That 'there is nothing at all'", "No specific awareness is named"],
+         "correct": 0,
+         "expl": "The dimension of infinite consciousness's own defining perception."},
+        {"q": "What discourse comes next in this saṃyutta's sequence?",
+         "opts": ["SN 28.7, examining the dimension of nothingness", "SN 28.10, skipping ahead to the close", "SN 28.1, repeated", "SN 28.9, skipping ahead to cessation"],
+         "correct": 0,
+         "expl": "Continuing this saṃyutta's own ascending sequence one attainment at a time."},
+        {"q": "What did the previous discourse (SN 28.5) go beyond to reach its own attainment?",
+         "opts": ["Perceptions of form, impingement, and diversity", "The dimension of infinite consciousness", "The four jhānas directly", "Nothing — SN 28.5 required no transition"],
+         "correct": 0,
+         "expl": "The three perceptions given up to reach infinite space, this discourse's own predecessor."},
+        {"q": "What is this saṃyutta's own recurring narrative frame, trusted to memory here?",
+         "opts": ["Ānanda notices Sāriputta's clear faculties and bright complexion and asks what he was practicing", "A formal debate with an outside teacher", "A direct address from the Buddha", "A dialogue with a female wanderer"],
+         "correct": 0,
+         "expl": "Established at SN 28.1, compressed away here but still implied."},
+    ],
+    marginalia=[
+        ("Beyond space itself", [
+            "not adding, but transcending &mdash;",
+            "each formless state moving past the one before",
+        ]),
+        ("A different logic of progression", [
+            "not refinement, but complete passing-beyond &mdash;",
+            "distinct from the four jhānas' own structure",
+        ]),
+        ("The same brevity as SN 28.5", [
+            "bare formula, question and diagnosis implied &mdash;",
+            "trusted to memory by this point",
+        ]),
+        ("Two more formless states ahead", [
+            "nothingness, then neither-nor &mdash;",
+            "then cessation, given full treatment once more",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn28.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-28.5.html">SN 28.5 &middot; The Dimension of '
+        "Infinite Space</a> &mdash; the previous discourse, this "
+        "discourse's own predecessor and point of transcendence.",
+        '<a href="sn-28.7.html">SN 28.7 &middot; The Dimension of '
+        "Nothingness</a> &mdash; the next discourse, the third "
+        "formless attainment.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 28.7 — Ākiñcaññāyatanasutta
+# --------------------------------------------------------------------------- #
+page(
+    28, 7, "Ākiñcaññāyatana", "The Dimension of Nothingness",
+    vagga="Sāriputtavagga",
+    meta_title="SN 28.7 — The Dimension of Nothingness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ākiñcaññāyatanasutta &mdash; Sāriputta's report of the "
+        "third formless attainment, aware that there is nothing at "
+        "all. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Ānanda questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "The compressed formula, matching SN 28.5–6's own "
+                 "treatment"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and familiar by this point"),
+    ],
+    why=(
+        "The seventh step: going totally beyond the dimension of "
+        "infinite consciousness, Sāriputta enters the dimension of "
+        "nothingness &mdash; a further transcendence in the same "
+        "structural pattern already established at SN 28.5&ndash;6, "
+        "the third of the four formless attainments."
+    ),
+    guide=[
+        ("Beyond infinite consciousness itself", [
+            "\"Going totally beyond the dimension of infinite "
+            "consciousness, aware that 'there is nothing at all', I "
+            "entered and remained in the dimension of nothingness\" "
+            "&mdash; the same pattern as SN 28.6: not adding a new "
+            "quality, but transcending the attainment just reached.",
+        ]),
+        ("A name that could mislead", [
+            "\"Nothingness\" here names a specific meditative "
+            "attainment with its own defining awareness (\"there is "
+            "nothing at all\"), not a state of blankness or absence of "
+            "experience altogether &mdash; it remains, like every "
+            "attainment in this saṃyutta, something Sāriputta "
+            "\"entered and remained in,\" an actively sustained state "
+            "rather than a mere gap.",
+        ]),
+        ("The same brevity, holding steady", [
+            "As with SN 28.5&ndash;6, only the bare formula survives, "
+            "the surrounding narrative entirely trusted to the "
+            "reader's memory by this point in the saṃyutta.",
+        ]),
+        ("One formless attainment remains", [
+            "SN 28.8 will complete the four formless attainments with "
+            "neither perception nor non-perception, before SN 28.9 "
+            "returns to full treatment for the cessation of "
+            "perception and feeling.",
+        ]),
+    ],
+    terms=[
+        ("viññāṇañcāyatanaṁ samatikkamma", "going totally beyond the dimension of infinite consciousness — this discourse's own defining transition"),
+        ("natthi kiñcīti", "\"there is nothing at all\" — the awareness defining this attainment, not a claim of blank unconsciousness"),
+        ("ākiñcaññāyatana", "the dimension of nothingness — the third of the four formless attainments, giving this discourse its name"),
+        ("āruppa", "the formless attainments — each an actively sustained state Sāriputta \"enters and remains in,\" not a mere gap in experience"),
+        ("peyyāla", "an elision mark — continuing this saṃyutta's compression pattern from SN 28.5–6"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: "
+        "Sāriputta's report of the dimension of nothingness. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn28.7:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What meditative attainment does Sāriputta report in this discourse?",
+         "opts": ["The dimension of nothingness", "The dimension of infinite consciousness", "The dimension of neither perception nor non-perception", "The cessation of perception and feeling"],
+         "correct": 0,
+         "expl": "The third of the four formless attainments."},
+        {"q": "What does this discourse say Sāriputta goes beyond to reach this attainment?",
+         "opts": ["The dimension of infinite consciousness", "The dimension of infinite space directly", "The four jhānas directly", "Ordinary waking consciousness"],
+         "correct": 0,
+         "expl": "The same structural pattern as SN 28.6: transcending the attainment just reached."},
+        {"q": "What does \"nothingness\" actually name in this discourse?",
+         "opts": ["A specific meditative attainment with its own defining awareness, not blank unconsciousness", "A complete absence of any experience whatsoever", "A synonym for the cessation of perception and feeling", "A state identical to ordinary sleep"],
+         "correct": 0,
+         "expl": "Something Sāriputta actively \"entered and remained in,\" not a mere gap."},
+        {"q": "What awareness defines this attainment?",
+         "opts": ["That 'there is nothing at all'", "That 'consciousness is infinite'", "That 'space is infinite'", "No specific awareness is named"],
+         "correct": 0,
+         "expl": "The dimension of nothingness's own defining perception."},
+        {"q": "What does this discourse's source preserve, given its own compression?",
+         "opts": ["Only the bare attainment formula, with the surrounding narrative trusted to memory", "The full narrative frame and diagnosis, unabridged", "Nothing at all", "A different formula entirely"],
+         "correct": 0,
+         "expl": "Matching SN 28.5–6's own compressed treatment."},
+        {"q": "What one formless attainment remains after this discourse?",
+         "opts": ["Neither perception nor non-perception", "A repeat of the four jhānas", "Infinite space, repeated", "No further attainments remain"],
+         "correct": 0,
+         "expl": "Completing the four formless attainments before SN 28.9's own full treatment."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What discourse comes next in this saṃyutta's sequence?",
+         "opts": ["SN 28.8, examining the dimension of neither perception nor non-perception", "SN 28.10, skipping ahead to the close", "SN 28.1, repeated", "SN 28.9, skipping ahead to cessation"],
+         "correct": 0,
+         "expl": "Continuing this saṃyutta's own ascending sequence one attainment at a time."},
+        {"q": "What structural principle governs how each formless attainment relates to the one before it?",
+         "opts": ["Each is defined by completely transcending its predecessor, not by adding a new quality", "Each adds a specific new quality, exactly as the jhānas do", "The four formless attainments are unrelated to each other", "Each formless attainment is identical to the one before it"],
+         "correct": 0,
+         "expl": "Confirmed already at SN 28.6, holding here as well."},
+        {"q": "What is this saṃyutta's own recurring narrative frame, trusted to memory here?",
+         "opts": ["Ānanda notices Sāriputta's clear faculties and bright complexion and asks what he was practicing", "A formal debate with an outside teacher", "A direct address from the Buddha", "A dialogue with a female wanderer"],
+         "correct": 0,
+         "expl": "Established at SN 28.1, compressed away here but still implied."},
+    ],
+    marginalia=[
+        ("Beyond infinite consciousness", [
+            "not a new quality, but transcendence &mdash;",
+            "the same pattern as SN 28.6's own transition",
+        ]),
+        ("A name that could mislead", [
+            "\"nothingness,\" yet actively sustained &mdash;",
+            "not blankness, but a specific entered state",
+        ]),
+        ("The same brevity, holding", [
+            "bare formula, narrative implied &mdash;",
+            "trusted to memory by this point",
+        ]),
+        ("One formless state left", [
+            "neither perception nor non-perception &mdash;",
+            "then cessation, given full treatment once more",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn28.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-28.6.html">SN 28.6 &middot; The Dimension of '
+        "Infinite Consciousness</a> &mdash; the previous discourse, "
+        "this discourse's own predecessor and point of transcendence.",
+        '<a href="sn-28.8.html">SN 28.8 &middot; The Dimension of '
+        "Neither Perception Nor Non-Perception</a> &mdash; the next "
+        "discourse, the fourth and final formless attainment.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 28.8 — Nevasaññānāsaññāyatanasutta
+# --------------------------------------------------------------------------- #
+page(
+    28, 8, "Nevasaññānāsaññāyatana", "The Dimension of Neither Perception Nor Non-Perception",
+    vagga="Sāriputtavagga",
+    meta_title="SN 28.8 — The Dimension of Neither Perception Nor Non-Perception | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nevasaññānāsaññāyatanasutta &mdash; Sāriputta's report "
+        "of the fourth and final formless attainment, at the very "
+        "edge of describable experience. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Ānanda questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "The compressed formula, matching SN 28.5–7's own "
+                 "treatment, closing the four formless attainments"),
+        ("Length", "Under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in text, though what it names sits at "
+                       "the very limit of ordinary description"),
+    ],
+    why=(
+        "The eighth step, and the last of the four formless "
+        "attainments: going totally beyond the dimension of "
+        "nothingness, Sāriputta enters a state whose own name "
+        "acknowledges the difficulty of describing it &mdash; neither "
+        "perception nor non-perception, at the very edge of what "
+        "ordinary categories can capture."
+    ),
+    guide=[
+        ("Beyond nothingness itself", [
+            "\"Going totally beyond the dimension of nothingness, I "
+            "entered and remained in the dimension of neither "
+            "perception nor non-perception\" &mdash; this discourse's "
+            "own source, uniquely among the four formless attainments, "
+            "gives no accompanying awareness-formula (no \"aware that "
+            "X\") for what this state actually consists of, unlike "
+            "infinite space's \"space is infinite\" or nothingness's "
+            "\"there is nothing at all.\"",
+        ]),
+        ("A name built from its own difficulty to describe", [
+            "The attainment's very name states what it is not, twice "
+            "over, rather than what it is: not perception, and not "
+            "the absence of perception either. Traditional commentary "
+            "treats this as the most refined attainment within the "
+            "sphere of ordinary meditative experience, so subtle that "
+            "perception itself becomes too faint to confidently call "
+            "\"present\" or \"absent.\"",
+        ]),
+        ("Completing the four formless attainments", [
+            "With this discourse, SN 28.5&ndash;8 together complete "
+            "the classic four āruppa: infinite space, infinite "
+            "consciousness, nothingness, and neither perception nor "
+            "non-perception &mdash; the traditional upper reaches of "
+            "meditative attainment short of the cessation of "
+            "perception and feeling itself.",
+        ]),
+        ("What comes next breaks the compression", [
+            "SN 28.9 will return to full treatment for the ninth and "
+            "final attainment in this traditional sequence &mdash; a "
+            "deliberate choice to give this saṃyutta's own climax the "
+            "same full narrative weight as the four jhānas received.",
+        ]),
+    ],
+    terms=[
+        ("ākiñcaññāyatanaṁ samatikkamma", "going totally beyond the dimension of nothingness — this discourse's own defining transition"),
+        ("nevasaññānāsaññāyatana", "the dimension of neither perception nor non-perception — the fourth and final formless attainment, giving this discourse its name"),
+        ("āruppa", "the formless attainments — SN 28.5–8 together completing the classic set of four"),
+        ("saññāvedayitanirodha", "the cessation of perception and feeling — the ninth attainment, examined next at SN 28.9, beyond even this discourse's own state"),
+        ("peyyāla", "an elision mark — continuing this saṃyutta's compression pattern, closing the formless attainments"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it: "
+        "Sāriputta's report of the dimension of neither perception "
+        "nor non-perception. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn28.8:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What meditative attainment does Sāriputta report in this discourse?",
+         "opts": ["The dimension of neither perception nor non-perception", "The dimension of nothingness", "The cessation of perception and feeling", "The fourth absorption"],
+         "correct": 0,
+         "expl": "The fourth and final of the classic formless attainments."},
+        {"q": "What does this discourse's formula uniquely lack, compared to SN 28.5–7's own?",
+         "opts": ["An accompanying awareness-formula describing what the state actually consists of", "Any mention of what is transcended to reach it", "Any reference to Sāriputta at all", "A title of any kind"],
+         "correct": 0,
+         "expl": "Unlike infinite space's \"space is infinite\" or nothingness's \"there is nothing at all.\""},
+        {"q": "What does this attainment's own name state about it?",
+         "opts": ["What it is not, twice over — not perception, and not the absence of perception either", "A precise positive description of its contents", "That it is identical to ordinary waking consciousness", "That it is a synonym for cessation itself"],
+         "correct": 0,
+         "expl": "Naming the difficulty of describing a state this refined."},
+        {"q": "How does traditional commentary treat this attainment, according to this reading guide?",
+         "opts": ["The most refined attainment within the sphere of ordinary meditative experience", "A relatively unremarkable, minor state", "Identical in every respect to the cessation of perception and feeling", "A state accessible without any meditative training at all"],
+         "correct": 0,
+         "expl": "So subtle that perception itself becomes too faint to confidently call present or absent."},
+        {"q": "What do SN 28.5–8 together complete?",
+         "opts": ["The classic four formless attainments (āruppa)", "The four jhānas", "The five aggregates", "The nine progressive dwellings in full"],
+         "correct": 0,
+         "expl": "Infinite space, infinite consciousness, nothingness, and neither perception nor non-perception."},
+        {"q": "What happens to this saṃyutta's treatment starting with the next discourse?",
+         "opts": ["Compression breaks — SN 28.9 returns to full treatment", "Compression continues unchanged", "The saṃyutta ends here", "The narrative frame shifts to a new speaker"],
+         "correct": 0,
+         "expl": "A deliberate choice to give this saṃyutta's own climax full narrative weight."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What attainment lies beyond even this discourse's own state, examined next?",
+         "opts": ["The cessation of perception and feeling (saññāvedayitanirodha)", "A return to the four jhānas", "Nothing lies beyond this attainment", "A return to ordinary waking consciousness alone"],
+         "correct": 0,
+         "expl": "SN 28.9's own subject, the ninth and highest of the traditional sequence."},
+        {"q": "What does this discourse say Sāriputta goes beyond to reach this attainment?",
+         "opts": ["The dimension of nothingness", "The dimension of infinite consciousness directly", "The four jhānas directly", "Ordinary waking consciousness"],
+         "correct": 0,
+         "expl": "The immediately preceding attainment in this saṃyutta's own sequence."},
+        {"q": "What is this saṃyutta's own recurring narrative frame, trusted to memory here?",
+         "opts": ["Ānanda notices Sāriputta's clear faculties and bright complexion and asks what he was practicing", "A formal debate with an outside teacher", "A direct address from the Buddha", "A dialogue with a female wanderer"],
+         "correct": 0,
+         "expl": "Established at SN 28.1, compressed away here but still implied."},
+    ],
+    marginalia=[
+        ("A state without its own description", [
+            "no \"aware that X\" formula this time &mdash;",
+            "unlike every formless attainment before it",
+        ]),
+        ("Named by what it isn't", [
+            "not perception, not its absence either &mdash;",
+            "the difficulty of description built into the name",
+        ]),
+        ("Four formless states, now complete", [
+            "space, consciousness, nothingness, neither-nor &mdash;",
+            "the traditional upper reaches, fully walked",
+        ]),
+        ("Compression about to break", [
+            "one more attainment still ahead &mdash;",
+            "given the same full weight as the four jhānas",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn28.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-28.7.html">SN 28.7 &middot; The Dimension of '
+        "Nothingness</a> &mdash; the previous discourse, this "
+        "discourse's own predecessor and point of transcendence.",
+        '<a href="sn-28.9.html">SN 28.9 &middot; The Attainment of '
+        "Cessation</a> &mdash; the next discourse, given full "
+        "treatment for this saṃyutta's own climax.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 28.9 — Nirodhasamāpattisutta
+# --------------------------------------------------------------------------- #
+page(
+    28, 9, "Nirodhasamāpatti", "The Attainment of Cessation",
+    vagga="Sāriputtavagga",
+    meta_title="SN 28.9 — The Attainment of Cessation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nirodhasamāpattisutta &mdash; Sāriputta's report of the "
+        "cessation of perception and feeling, the ninth and highest "
+        "of the traditional progressive dwellings. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Ānanda questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "Full treatment restored, closing this saṃyutta's "
+                 "own ascending sequence of nine meditative "
+                 "attainments"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the attainment itself is the most extreme in "
+                       "this saṃyutta's own sequence, worth reading "
+                       "slowly"),
+    ],
+    why=(
+        "The ninth and final attainment in this saṃyutta's own "
+        "ascending sequence: the cessation of perception and feeling "
+        "(saññāvedayitanirodha), traditionally the highest of the "
+        "nine progressive dwellings and the only one this saṃyutta "
+        "gives full treatment to despite falling within the "
+        "otherwise-compressed zone &mdash; a deliberate signal of its "
+        "own special weight."
+    ),
+    guide=[
+        ("Beyond even neither perception nor non-perception", [
+            "\"Going totally beyond the dimension of neither "
+            "perception nor non-perception, I entered and remained in "
+            "the cessation of perception and feeling\" &mdash; the "
+            "final transcendence in this saṃyutta's sequence, moving "
+            "past even the subtlest formless attainment into a state "
+            "where perception and feeling themselves entirely cease.",
+        ]),
+        ("Full treatment restored, and why it matters here", [
+            "Unlike SN 28.5&ndash;8's own compressed treatment, this "
+            "discourse spells out the complete formula &mdash; "
+            "including the self-referential absence and Ānanda's own "
+            "diagnosis, both given in full one final time &mdash; "
+            "marking this attainment as this saṃyutta's own true "
+            "climax rather than simply the ninth item in a list.",
+        ]),
+        ("The identical absence, at the most extreme point yet", [
+            "\"It didn't occur to me: 'I am entering the cessation of "
+            "perception and feeling' or 'I have entered the cessation "
+            "of perception and feeling' or 'I am emerging from the "
+            "cessation of perception and feeling'\" &mdash; the same "
+            "pattern demonstrated across all four jhānas now shown "
+            "holding even at the very limit of meditative experience, "
+            "where perception and feeling themselves are absent.",
+        ]),
+        ("A traditional sequence, now complete", [
+            "SN 28.1&ndash;9 together walk through what tradition "
+            "calls the nine progressive dwellings (anupubbavihāra): "
+            "the four jhānas, the four formless attainments, and "
+            "finally cessation itself &mdash; the same sequence "
+            "described in more analytical detail at MN 111 (the "
+            "Anupada Sutta), but here demonstrated purely through "
+            "Sāriputta's own first-person reports to Ānanda.",
+        ]),
+    ],
+    terms=[
+        ("nevasaññānāsaññāyatanaṁ samatikkamma", "going totally beyond the dimension of neither perception nor non-perception — this discourse's own defining transition"),
+        ("saññāvedayitanirodha", "the cessation of perception and feeling — the ninth and highest of the traditional progressive dwellings, this discourse's own subject"),
+        ("anupubbavihāra", "the progressive dwellings — the traditional name for the nine-stage sequence SN 28.1–9 together demonstrate"),
+        ("ahaṅkāra, mamaṅkāra, mānānusaya", "I-making, mine-making, and the underlying tendency to conceit — Ānanda's own diagnosis, given in full one final time"),
+        ("Anupadasutta", "MN 111 — the discourse elsewhere in the Canon giving a more analytical, factor-by-factor account of this same nine-stage sequence"),
+    ],
+    text_intro=("The complete discourse: Ānanda's question and Sāriputta's "
+        "report of the cessation of perception and feeling, given in "
+        "full one final time. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn28.9:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What meditative attainment does Sāriputta report in this discourse?",
+         "opts": ["The cessation of perception and feeling", "The dimension of neither perception nor non-perception", "The fourth absorption", "The dimension of infinite space"],
+         "correct": 0,
+         "expl": "The ninth and highest of the traditional progressive dwellings."},
+        {"q": "How does this discourse's treatment compare to SN 28.5–8's own compressed treatment?",
+         "opts": ["Full elaboration restored, including the self-referential absence and Ānanda's diagnosis in full", "Equally compressed", "Even more compressed than SN 28.5–8", "This discourse has no formula at all"],
+         "correct": 0,
+         "expl": "Marking this attainment as this saṃyutta's own true climax."},
+        {"q": "What did NOT occur to Sāriputta during this attainment?",
+         "opts": ["'I am entering,' 'I have entered,' or 'I am emerging from' the cessation of perception and feeling", "Any awareness of his own body", "The passage of time", "Any memory of the preceding eight attainments"],
+         "correct": 0,
+         "expl": "The same pattern demonstrated across all four jhānas, now holding at the very limit of experience."},
+        {"q": "What traditional name covers the nine-stage sequence SN 28.1–9 together demonstrate?",
+         "opts": ["The progressive dwellings (anupubbavihāra)", "The four noble truths", "The eighteen elements", "The twelve links of dependent origination"],
+         "correct": 0,
+         "expl": "Four jhānas, four formless attainments, and cessation itself."},
+        {"q": "What earlier discourse elsewhere in the Canon gives a more analytical account of this same sequence?",
+         "opts": ["MN 111, the Anupada Sutta", "DN 2, the Sāmaññaphala Sutta", "MN 72, the Aggivacchagottasutta", "No earlier discourse addresses this sequence"],
+         "correct": 0,
+         "expl": "A factor-by-factor account, distinct from this saṃyutta's own purely narrative presentation."},
+        {"q": "What does Sāriputta go beyond to reach this attainment?",
+         "opts": ["The dimension of neither perception nor non-perception", "The dimension of nothingness directly", "The four jhānas directly", "Ordinary waking consciousness"],
+         "correct": 0,
+         "expl": "The immediately preceding attainment, SN 28.8's own subject."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Matching the setting of most discourses in this saṃyutta."},
+        {"q": "What does Ānanda's diagnosis in this discourse repeat, unchanged from the four jhānas?",
+         "opts": ["That Sāriputta long ago totally eradicated I-making, mine-making, and the underlying tendency to conceit", "A completely new explanation unique to this attainment", "No diagnosis is given in this discourse", "A denial that Sāriputta actually attained this state"],
+         "correct": 0,
+         "expl": "The identical explanation, now confirmed holding even at cessation's own extreme."},
+        {"q": "What discourse comes next, closing this saṃyutta?",
+         "opts": ["SN 28.10, a different narrative entirely, featuring the wanderer Sucimukhī", "SN 28.1, repeated", "No further discourse follows", "A return to the formless attainments"],
+         "correct": 0,
+         "expl": "This saṃyutta's own final discourse, shifting to an entirely different scene and speaker."},
+        {"q": "What is uniquely absent during the cessation of perception and feeling, compared to the eight attainments before it?",
+         "opts": ["Perception and feeling themselves", "Only feeling, with perception remaining intact", "Only perception, with feeling remaining intact", "Nothing is absent — this attainment is identical to the eighth"],
+         "correct": 0,
+         "expl": "The state's own defining characteristic, distinguishing it from every attainment preceding it."},
+    ],
+    marginalia=[
+        ("Beyond even neither-nor", [
+            "perception and feeling themselves ceasing &mdash;",
+            "the final transcendence in this saṃyutta's sequence",
+        ]),
+        ("Full treatment, restored", [
+            "the complete formula, one last time &mdash;",
+            "marking this attainment as the true climax",
+        ]),
+        ("Still no self-narration", [
+            "even here, no \"I am entering\" &mdash;",
+            "the pattern holding at experience's own limit",
+        ]),
+        ("Nine dwellings, fully walked", [
+            "four jhānas, four formless states, cessation &mdash;",
+            "the same sequence MN 111 examines more analytically",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn28.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-28.8.html">SN 28.8 &middot; The Dimension of '
+        "Neither Perception Nor Non-Perception</a> &mdash; the "
+        "previous discourse, this discourse's own predecessor.",
+        '<a href="sn-28.10.html">SN 28.10 &middot; With Sucimukhī</a> '
+        "&mdash; the next and final discourse, an entirely different "
+        "scene closing this saṃyutta.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 28.10 — Sucimukhīsutta
+# --------------------------------------------------------------------------- #
+page(
+    28, 10, "Sucimukhī", "With Sucimukhī",
+    vagga="Sāriputtavagga",
+    meta_title="SN 28.10 — With Sucimukhī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sucimukhīsutta &mdash; closing Sāriputtasaṃyutta with an "
+        "entirely different scene: a wanderer's riddle about which "
+        "direction Sāriputta eats facing, and his precise, principled "
+        "answer. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, the Bamboo Grove"),
+        ("Speakers", "The wanderer Sucimukhī questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "A riddle-based challenge (four coded questions "
+                 "about eating \"facing\" different directions), "
+                 "Sāriputta's own point-by-point decoding, and the "
+                 "wanderer's public vindication of him"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the riddle format is genuinely playful, worth "
+                       "working through before reading Sāriputta's own "
+                       "answer"),
+    ],
+    why=(
+        "Closes Sāriputtasaṃyutta with a completely different kind of "
+        "discourse: not a report of meditative attainment to Ānanda "
+        "in Sāvatthī, but a public challenge from the wanderer "
+        "Sucimukhī in Rājagaha, testing whether Sāriputta's own way of "
+        "eating alms secretly matches one of four disreputable "
+        "livelihoods &mdash; and his precise, principled answer, "
+        "which turns a hostile question into a public vindication."
+    ),
+    guide=[
+        ("A new city, a new kind of scene", [
+            "\"At one time Venerable Sāriputta was staying near "
+            "Rājagaha, in the Bamboo Grove... After wandering "
+            "indiscriminately for almsfood in Rājagaha, he ate his "
+            "almsfood by a wall\" &mdash; a genuine narrative shift "
+            "from the Sāvatthī-based Ānanda scenes of SN 28.1&ndash;9, "
+            "introducing this saṃyutta's only outside challenger.",
+        ]),
+        ("Four questions, each a coded accusation", [
+            "\"Ascetic, do you eat facing downwards?... facing "
+            "upwards?... facing the cardinal directions?... facing the "
+            "intermediate directions?\" &mdash; Sāriputta answers "
+            "\"no, sister\" four times running, without yet knowing (or "
+            "at least without yet explaining) what any of these odd "
+            "questions actually mean.",
+        ]),
+        ("The riddle decoded, each direction a specific wrong livelihood", [
+            "Pressed to explain, Sāriputta names what each direction "
+            "secretly refers to: \"facing downwards\" means earning a "
+            "living by geomancy (reading the earth), \"facing upwards\" "
+            "means astrology (reading the sky), \"facing the cardinal "
+            "directions\" means running errands and messages, \"facing "
+            "the intermediate directions\" means limb-reading &mdash; "
+            "four specific disreputable trades in Sucimukhī's own "
+            "world, each condemned as \"a low lore, a wrong "
+            "livelihood.\"",
+        ]),
+        ("A simple answer, and a public proclamation", [
+            "\"I don't earn a living by any of these means. I seek "
+            "alms in a principled manner, and I eat it in a "
+            "principled manner\" &mdash; Sucimukhī doesn't merely "
+            "accept this, she goes street to street through Rājagaha "
+            "proclaiming it publicly: \"the ascetics who follow the "
+            "Sakyan eat food in a principled manner! Give almsfood to "
+            "the ascetics who follow the Sakyan!\" A hostile riddle "
+            "becomes, by discourse's end, free publicity from a "
+            "convert.",
+        ]),
+    ],
+    terms=[
+        ("adhomukha / ummukha / disāmukha / vidisāmukha", "facing downwards / upwards / the cardinal directions / the intermediate directions — Sucimukhī's own four coded questions, each naming a specific disreputable livelihood"),
+        ("micchājīva", "wrong livelihood — the technical category each of the four coded practices (geomancy, astrology, message-running, limb-reading) falls under"),
+        ("dhammena bhikkhaṁ pariyesāmi, dhammena bhikkhaṁ bhuñjāmi", "\"I seek alms in a principled manner, and I eat it in a principled manner\" — Sāriputta's own direct, unadorned answer"),
+        ("Sucimukhī", "the wanderer (paribbājikā) who challenges Sāriputta, later proclaiming his blamelessness publicly through Rājagaha"),
+        ("sakyaputtiyā samaṇā", "\"the ascetics who follow the Sakyan\" — Sucimukhī's own public phrase for the Buddhist mendicants, in her street-by-street proclamation"),
+    ],
+    text_intro=("The complete discourse: Sucimukhī's fourfold riddle, "
+        "Sāriputta's own decoding and answer, and her public "
+        "proclamation through Rājagaha, closing with the saṃyutta's "
+        "own translated colophon. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn28.10:1.1-1.4"),
+        ("p", "&sect;2", "sn28.10:2.1-2.8"),
+        ("p", "&sect;3", "sn28.10:3.1"),
+        ("p", "&sect;4", "sn28.10:4.1-4.5"),
+        ("p", "&sect;5", "sn28.10:5.1-5.3"),
+        ("p", "&sect;6", "sn28.10:6.1-6.4"),
+        ("p", "&sect;7", "sn28.10:7.7"),
+    ],
+    quiz=[
+        {"q": "Where is this discourse set, unlike SN 28.1–9's own Sāvatthī scenes?",
+         "opts": ["Rājagaha, the Bamboo Grove", "Vesālī", "Kapilavatthu", "The same Dark Forest near Sāvatthī"],
+         "correct": 0,
+         "expl": "A genuine narrative shift, introducing this saṃyutta's only outside challenger."},
+        {"q": "What four questions does Sucimukhī ask Sāriputta?",
+         "opts": ["Whether he eats facing downwards, upwards, the cardinal directions, or the intermediate directions",
+                  "Whether he has attained the four jhānas", "Whether he knows the four noble truths", "Whether he follows four specific ascetic vows"],
+         "correct": 0,
+         "expl": "Four coded questions, each secretly naming a disreputable livelihood."},
+        {"q": "What does \"eating facing downwards\" secretly refer to?",
+         "opts": ["Earning a living by geomancy", "Earning a living by astrology", "Running errands and messages", "Limb-reading"],
+         "correct": 0,
+         "expl": "The first of four specific wrong livelihoods Sāriputta decodes."},
+        {"q": "What does Sāriputta answer to all four of Sucimukhī's initial questions?",
+         "opts": ["\"No, sister\" to each one", "\"Yes, sister\" to each one", "He refuses to answer any of them", "He answers only the first question"],
+         "correct": 0,
+         "expl": "Without yet explaining what the questions actually mean."},
+        {"q": "How does Sāriputta finally describe his own way of eating alms?",
+         "opts": ["\"I seek alms in a principled manner, and I eat it in a principled manner\"", "He refuses to describe his own practice at all", "He claims to follow one of the four named livelihoods", "He redirects the question to the Buddha"],
+         "correct": 0,
+         "expl": "A simple, direct answer closing the riddle."},
+        {"q": "What does Sucimukhī do after receiving this answer?",
+         "opts": ["She goes street to street through Rājagaha publicly proclaiming Sāriputta's blamelessness", "She leaves without further comment", "She challenges him with a fifth question", "She reports him to the local authorities"],
+         "correct": 0,
+         "expl": "A hostile riddle becomes free publicity from a convert."},
+        {"q": "What technical category do all four of the coded livelihoods fall under?",
+         "opts": ["Wrong livelihood (micchājīva)", "Right livelihood, the eightfold path's own factor", "Meditative attainment", "Monastic discipline"],
+         "correct": 0,
+         "expl": "Each specifically condemned as \"a low lore, a wrong livelihood.\""},
+        {"q": "What phrase does Sucimukhī use publicly for the Buddhist mendicants in her proclamation?",
+         "opts": ["\"The ascetics who follow the Sakyan\"", "\"The followers of Sāriputta\"", "\"The forest-dwelling meditators\"", "No specific phrase is used"],
+         "correct": 0,
+         "expl": "Repeated street to street through Rājagaha."},
+        {"q": "What colophon closes this discourse and the entire saṃyutta?",
+         "opts": ["\"The Linked Discourses on Sāriputta are complete\"", "\"The Linked Discourses on corruptions are complete\"", "No colophon appears in the source text", "\"The eighteen expositions are finished\""],
+         "correct": 0,
+         "expl": "Translated by Sujato, confirming this saṃyutta's official name and full completion."},
+        {"q": "How does this discourse's tone compare to SN 28.1–9's own?",
+         "opts": ["Playful and dialogical, a genuine narrative shift from the meditation reports before it", "Identical in tone and structure to the preceding nine discourses", "More solemn and doctrinally dense than the preceding discourses", "Entirely unrelated to Sāriputta as a character"],
+         "correct": 0,
+         "expl": "Closing this saṃyutta with a different register — public challenge and vindication rather than private meditative report."},
+    ],
+    marginalia=[
+        ("A new city, a new challenger", [
+            "Rājagaha, not Sāvatthī this time &mdash;",
+            "a wanderer, not Ānanda, poses the question",
+        ]),
+        ("Four riddles, none yet explained", [
+            "\"no, sister\" four times running &mdash;",
+            "before the meaning of any question is given",
+        ]),
+        ("Directions decoded as disreputable trades", [
+            "geomancy, astrology, errands, limb-reading &mdash;",
+            "each a specific \"low lore, wrong livelihood\"",
+        ]),
+        ("A hostile question, ending in publicity", [
+            "\"give almsfood to the ascetics who follow the Sakyan\" &mdash;",
+            "vindication proclaimed street to street",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn28.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-28.9.html">SN 28.9 &middot; The Attainment of '
+        "Cessation</a> &mdash; the previous discourse, closing this "
+        "saṃyutta's own nine-stage meditative sequence.",
+        '<a href="sn-28.1.html">SN 28.1 &middot; Born of Seclusion</a> '
+        "&mdash; this saṃyutta's own opening discourse, whose "
+        "Sāvatthī-based frame this closing discourse's Rājagaha scene "
+        "departs from entirely.",
+    ],
+)
