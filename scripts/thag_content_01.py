@@ -50349,3 +50349,264 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Book of the Elevens
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# Thag 11.1 — Saṅkicca
+# --------------------------------------------------------------------------- #
+page(
+    11, 1, "Sa&#7749;kicca", "Sa&#7749;kicca",
+    meta_title="Thag 11.1 — Saṅkicca | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Saṅkicca's verse &mdash; the entire Book of the Elevens in "
+        "a single poem, closing on one of the most celebrated lines "
+        "in the whole Theragātha: I don't long for death, I don't "
+        "long for life, I await my time, like a worker waiting for "
+        "their wages. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Elevens &middot; Chapter One &middot; Poem 1 of 1",
+    glance=[
+        ("Setting", "A forest in the monsoon rains, opening as "
+                    "dialogue"),
+        ("Speaker", "Two voices: an unnamed questioner, and Saṅkicca "
+                    "answering at length"),
+        ("Form", "Eleven four-line verses, the entire content of "
+                 "this book"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "vivid imagery, one of this collection's most "
+                       "quoted closing verses"),
+    ],
+    why=(
+        "&lsquo;What good does it do you to be in the grove, my "
+        "dear? You're like a little bird in the monsoon!&rsquo; a "
+        "voice asks Saṅkicca &mdash; and his answer, across ten "
+        "verses of forest imagery and fearless solitude, arrives at "
+        "one of the most widely quoted lines anywhere in the "
+        "Theragātha: &lsquo;I don't long for death; I don't long for "
+        "life; I await my time, like a worker waiting for their "
+        "wages,&rsquo; repeated with only its final line changed, "
+        "closing this book's only poem twice over."),
+    guide=[
+        ("A question posed with real concern, not hostility", [
+            "The poem opens as dialogue: someone &mdash; addressing "
+            "Saṅkicca as &lsquo;tāta&rsquo;, &lsquo;dear&rsquo; or "
+            "&lsquo;my child&rsquo;, a term of affection &mdash; asks "
+            "why he stays exposed to the monsoon rains like &lsquo;a "
+            "little bird&rsquo;, when the city of Verambhā would "
+            "offer comfort instead. This isn't a hostile challenge "
+            "but a real question about hardship, voiced with concern."]),
+        ("A pun turning the questioner's own image against the city", [
+            "Saṅkicca's reply in the second verse plays on the "
+            "questioner's own word: just as the wind at Verambhā "
+            "scatters the monsoon clouds, so &lsquo;the city "
+            "scatters my perception of seclusion&rsquo;. The city "
+            "offered as refuge from harsh weather is reframed as "
+            "itself the greater danger &mdash; not to comfort, but to "
+            "the very state of mind he's cultivating."]),
+        ("A crow in a charnel ground, prompting mindfulness", [
+            "The third verse's image is unusual even within this "
+            "collection's body-contemplation poems: not a corpse "
+            "directly observed, but &lsquo;the crow whose abode is "
+            "the charnel ground&rsquo; itself &mdash; the scavenger, "
+            "not the scavenged &mdash; rousing &lsquo;mindfulness, "
+            "based on dispassion for the body&rsquo;. A single "
+            "glimpsed bird becomes the occasion for reflection, "
+            "without any corpse needing to be present at all."]),
+        ("A verse shared with a story told to a king", [
+            "Sujato's comment on the fourth verse notes a nearly "
+            "identical verse in Ja 10, there addressed to a king "
+            "rather than a monk &mdash; and observes that the "
+            "Jātaka's clearly vocative grammar (addressing &lsquo;O "
+            "king&rsquo; directly) supports reading this poem's own "
+            "&lsquo;bhikkhu&rsquo; the same way, as a direct address "
+            "to the mendicant, against the traditional commentary's "
+            "different grammatical reading. This reading guide "
+            "records the textual question as Sujato states it, "
+            "without resolving it further."]),
+        ("Fearlessness stated plainly, even toward predators", [
+            "Having described dwelling &lsquo;frequented by beasts "
+            "of prey&rsquo; &mdash; the same phrase already found "
+            "describing ideal retreat lodgings in this site's own "
+            "Thag 10.6 (Upasena) &mdash; the seventh verse makes a "
+            "striking claim: even surrounded by creatures that could "
+            "kill him, Saṅkicca denies ever having harbored a wish "
+            "for their harm, &lsquo;may these beings be killed... I'm "
+            "not aware of having any such ignoble, hateful "
+            "thoughts&rsquo;. Non-malice here extends specifically to "
+            "the animals most capable of causing his own death."]),
+        ("A closing line among the Theragātha's most celebrated", [
+            "The tenth and eleventh verses share their first three "
+            "lines verbatim, closing only on a different final "
+            "phrase: &lsquo;like a worker waiting for their "
+            "wages&rsquo;, then &lsquo;aware and mindful&rsquo;. "
+            "&lsquo;I don't long for death; I don't long for life; I "
+            "await my time&rsquo; is among the most frequently quoted "
+            "single images in the entire collection, independent of "
+            "its source &mdash; equanimity toward death expressed "
+            "not as resignation, but as a worker's calm, ordinary "
+            "patience for something owed and expected."]),
+    ],
+    terms=[
+        ("tāta",
+         "&ldquo;dear&rdquo;, &ldquo;my child&rdquo; &mdash; the "
+         "term of affection opening the questioner's concerned "
+         "address."),
+        ("vivekapaṭisaññutā",
+         "&ldquo;my perception of seclusion&rdquo; &mdash; what the "
+         "city, not the storm, is said to scatter."),
+        ("apa&#7751;&#7693;aro a&#7751;&#7693;asambhavo",
+         "&ldquo;all black and born of an egg&rdquo; &mdash; the "
+         "crow of the charnel ground, prompting mindfulness in the "
+         "third verse."),
+        ("vāḷamiganisevite",
+         "&ldquo;frequented by beasts of prey&rdquo; &mdash; the "
+         "same phrase describing ideal retreat lodgings in this "
+         "site's own Thag 10.6."),
+        ("nibbisaṁ bhatako yathā",
+         "&ldquo;like a worker waiting for their wages&rdquo; "
+         "&mdash; the tenth verse's closing image, among this "
+         "collection's most widely quoted lines."),
+    ],
+    text_intro=(
+        "The text in full: eleven verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag11.1:1.1-1.4"),
+        ("p", "&sect;2", "thag11.1:2.1-2.4"),
+        ("p", "&sect;3", "thag11.1:3.1-3.4"),
+        ("p", "&sect;4", "thag11.1:4.1-4.4"),
+        ("p", "&sect;5", "thag11.1:5.1-5.4"),
+        ("p", "&sect;6", "thag11.1:6.1-6.4"),
+        ("p", "&sect;7", "thag11.1:7.1-7.4"),
+        ("p", "&sect;8", "thag11.1:8.1-8.4"),
+        ("p", "&sect;9", "thag11.1:9.1-9.4"),
+        ("p", "&sect;10", "thag11.1:10.1-10.4"),
+        ("p", "&sect;11", "thag11.1:11.1-11.4"),
+    ],
+    quiz=[
+        {"q": "What does the poem's opening question ask Saṅkicca?",
+         "opts": [
+             "Why he is exposed to the monsoon rains in the grove, when the city of Verambhā offers comfort",
+             "Why he has abandoned his robes",
+             "Why he refuses to speak",
+             "Why he has quarreled with another monk"],
+         "correct": 0,
+         "expl": "Voiced with real concern, addressing him as 'dear' or 'my child'."},
+        {"q": "How does Saṅkicca's reply in the second verse use the questioner's own image?",
+         "opts": [
+             "It ignores the image entirely",
+             "It turns it around — just as wind scatters clouds, the city scatters his perception of seclusion",
+             "It simply agrees with the questioner",
+             "It denies that Verambhā has any wind at all"],
+         "correct": 1,
+         "expl": "Reframing the city as the greater danger, not to comfort, but to his cultivated state of mind."},
+        {"q": "What image does the third verse use to prompt mindfulness?",
+         "opts": [
+             "A collapsing house",
+             "A directly observed corpse",
+             "A crow whose home is the charnel ground",
+             "A dying flower"],
+         "correct": 2,
+         "expl": "The scavenger itself, not the scavenged, becomes the occasion for reflection."},
+        {"q": "What does Sujato's comment on the fourth verse note?",
+         "opts": [
+             "That this verse is entirely unique in the canon",
+             "That the verse contains a scribal error",
+             "Nothing — there is no comment on this verse",
+             "A nearly identical verse in Ja 10, there addressed to a king, supporting a vocative reading of 'bhikkhu' here"],
+         "correct": 3,
+         "expl": "A textual question this reading guide records without resolving further."},
+        {"q": "What phrase does the seventh verse share with this site's own Thag 10.6 (Upasena)?",
+         "opts": [
+             "'Frequented by beasts of prey' (vāḷamiganisevite)",
+             "'Tisso vijjā anuppattā'",
+             "No shared phrase exists",
+             "'Etaṁ samaṇassa patirūpaṁ'"],
+         "correct": 0,
+         "expl": "The same description of ideal, dangerous retreat lodgings."},
+        {"q": "What striking claim does the seventh verse make about Saṅkicca's own mind toward dangerous predators?",
+         "opts": [
+             "He wishes them driven away",
+             "He denies ever having harbored a wish for their harm, despite living among creatures that could kill him",
+             "He avoids all forests because of them",
+             "He hunts them for food"],
+         "correct": 1,
+         "expl": "Non-malice extending specifically to the animals most capable of causing his own death."},
+        {"q": "What do the tenth and eleventh verses share?",
+         "opts": [
+             "The exact same four lines, with no variation at all",
+             "Nothing — they are entirely unrelated",
+             "Their first three lines verbatim, differing only in their final phrase",
+             "Only their final line"],
+         "correct": 2,
+         "expl": "'I don't long for death; I don't long for life; I await my time' — repeated, closing differently each time."},
+        {"q": "What image closes the tenth verse?",
+         "opts": [
+             "A closing door",
+             "A river reaching the sea",
+             "A sunset over the mountains",
+             "Like a worker waiting for their wages"],
+         "correct": 3,
+         "expl": "Among the most widely quoted single images anywhere in the Theragātha."},
+        {"q": "How does this reading guide characterize the tone of that closing image?",
+         "opts": [
+             "As a worker's calm, ordinary patience for something owed and expected — not resignation",
+             "As fear of what comes next",
+             "As indifference to the outcome of practice",
+             "As despairing resignation"],
+         "correct": 0,
+         "expl": "Equanimity expressed through an entirely ordinary, unglamorous comparison."},
+        {"q": "How many poems make up the entire Book of the Elevens?",
+         "opts": [
+             "Twenty",
+             "One — matching the Book of the Nines as this collection's shortest books",
+             "Eleven",
+             "Seven"],
+         "correct": 1,
+         "expl": "A single elder's single poem, eleven verses in one chapter."},
+    ],
+    marginalia=[
+        ("A little bird in the monsoon", [
+            "a question asked with real concern —",
+            "not a challenge, but a worry voiced"
+        ]),
+        ("The city, not the storm, as danger", [
+            "wind scatters clouds, the city scatters seclusion —",
+            "comfort reframed as the greater risk"
+        ]),
+        ("No ill will, even toward what could kill him", [
+            "dwelling among beasts of prey —",
+            "never once wishing them harm"
+        ]),
+        ("Like a worker awaiting wages", [
+            "neither longing for death nor for life —",
+            "among the Theragātha's most quoted lines"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag11.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="%s/ja10/en/sujato" target="_blank" rel="noopener">'
+        "Ja 10 on SuttaCentral</a> &mdash; the near-identical verse "
+        "addressed to a king, cited in Sujato's comment on this "
+        "poem's fourth verse." % SC,
+        '<a href="thag-10.6.html">Thag 10.6 &mdash; Upasena '
+        "(Vaṅgantaputta)</a> &mdash; shares this poem's description "
+        "of lodgings frequented by beasts of prey.",
+        '<a href="thag-10.7.html">Thag 10.7 &mdash; Gotama (3rd)</a> '
+        "&mdash; the closing poem of the book immediately before "
+        "this one.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
