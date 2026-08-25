@@ -53562,3 +53562,1373 @@ page_range(
         "including this closing one, ultimately builds on.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 32.1 — Suddhikasutta
+# --------------------------------------------------------------------------- #
+page(
+    32, 1, "Suddhika", "Plain Version",
+    vagga="Valāhakavagga",
+    meta_title="SN 32.1 — Plain Version | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Suddhikasutta &mdash; opening Valāhakasaṃyutta with a "
+        "fivefold taxonomy of thundercloud gods: cool, warm, stormy, "
+        "windy, and rainy. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A single flat statement naming five classes of "
+                 "weather-gods, with no ranking and no narrative "
+                 "frame"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a straightforward list, easy to follow"),
+    ],
+    why=(
+        "This discourse opens Valāhakasaṃyutta (\"Linked Discourses "
+        "on Cloud Gods\") with yet another genuinely distinct "
+        "taxonomy: valāhakā (thundercloud gods, weather deities) "
+        "come in five kinds &mdash; cool, warm, stormy, windy, and "
+        "rainy &mdash; a classification organized by weather "
+        "phenomenon rather than SN 29's fourfold birth-mode or SN "
+        "31's tenfold dwelling-place scheme. Unlike either of those "
+        "saṃyuttas, Valāhakasaṃyutta will close with a genuinely new "
+        "kind of discourse (SN 32.53&ndash;57) explaining these same "
+        "five weather-types as the gods' own present-tense "
+        "meteorological activity, not merely a rebirth destination."
+    ),
+    guide=[
+        ("Five weather-types, not four births or ten dwellings", [
+            "\"There are gods of the cool thunderclouds, warm "
+            "thunderclouds, stormy thunderclouds, windy thunderclouds, "
+            "and rainy thunderclouds\" &mdash; a fivefold "
+            "classification organized entirely around weather "
+            "phenomena, a third distinct organizing principle after "
+            "SN 29's birth-modes and SN 31's dwelling-places.",
+        ]),
+        ("Valāhakā, gods identified with the weather itself", [
+            "Unlike dragons, phoenixes, or centaurs, valāhakā are "
+            "named directly for the weather conditions they're "
+            "associated with &mdash; their very identity as a class "
+            "of god is inseparable from a specific meteorological "
+            "phenomenon.",
+        ]),
+        ("A taxonomy this saṃyutta's remaining discourses assume", [
+            "As with SN 29.1's, SN 30.1's, and SN 31.1's own opening "
+            "taxonomies, every one of the remaining 56 discourses in "
+            "this saṃyutta takes this fivefold division for granted "
+            "rather than restating it, making this short opening "
+            "discourse this saṃyutta's own structural foundation.",
+        ]),
+        ("A saṃyutta with its own genuinely distinct closing arc", [
+            "Where Nāgasaṃyutta, Supaṇṇasaṃyutta, and "
+            "Gandhabbakāyasaṃyutta all close purely on rebirth-cause "
+            "material, this saṃyutta will close instead with five "
+            "short discourses (SN 32.53&ndash;57) explaining why "
+            "weather itself happens &mdash; a genuinely new kind of "
+            "content for this project's SN coverage, not covered by "
+            "this discourse's own opening taxonomy alone.",
+        ]),
+    ],
+    terms=[
+        ("valāhaka", "thundercloud &mdash; the class of weather-god "
+                      "this entire saṃyutta concerns"),
+        ("sītavalāhaka", "cool thundercloud gods &mdash; the first "
+                          "of the five classes named here"),
+        ("uṇhavalāhaka", "warm thundercloud gods &mdash; the second "
+                          "class"),
+        ("vassavalāhaka", "rainy thundercloud gods &mdash; the fifth "
+                           "and final class, and the subject of SN "
+                           "32.57's own closing discourse"),
+        ("devā", "gods &mdash; the general term this discourse uses "
+                  "for the valāhakā throughout"),
+    ],
+    text_intro=("The discourse in full &mdash; genuinely this short "
+        "in the source, a single flat fivefold taxonomy. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn32.1:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "How many classes of thundercloud gods does this discourse name?",
+         "opts": ["Five: cool, warm, stormy, windy, and rainy", "Four, matching SN 29's own fourfold taxonomy",
+                  "Ten, matching SN 31's own tenfold taxonomy", "Only two"],
+         "correct": 0,
+         "expl": "A third distinct organizing principle after SN 29's birth-modes and SN 31's dwelling-places."},
+        {"q": "What organizes this discourse's fivefold list?",
+         "opts": ["Weather phenomena", "Modes of reproduction", "Dwelling-places in trees", "Lifespan"],
+         "correct": 0,
+         "expl": "Valāhakā are named directly for the weather conditions they're associated with."},
+        {"q": "How does this saṃyutta's closing arc (SN 32.53–57) differ from Nāgasaṃyutta's, Supaṇṇasaṃyutta's, and Gandhabbakāyasaṃyutta's own closings?",
+         "opts": ["It explains why weather itself happens, not just rebirth causes",
+                  "It is identical in content to the other three saṃyuttas' closings",
+                  "It omits any closing material entirely", "It introduces a sixth class of god"],
+         "correct": 0,
+         "expl": "A genuinely new kind of content for this project's SN coverage."},
+        {"q": "How do the remaining 56 discourses of this saṃyutta treat this fivefold taxonomy?",
+         "opts": ["They assume it without restating it",
+                  "They each introduce a new, different taxonomy", "They ignore valāhakā entirely after this discourse",
+                  "They reduce it to only two classes"],
+         "correct": 0,
+         "expl": "This short opening discourse functions as the saṃyutta's own structural foundation."},
+        {"q": "What makes valāhakā distinct from dragons, phoenixes, or centaurs as a class of being?",
+         "opts": ["Their identity is inseparable from a specific weather phenomenon",
+                  "They are entirely human in form", "They cannot be reborn among at all",
+                  "They have no distinguishing feature at all"],
+         "correct": 0,
+         "expl": "Named directly for the weather conditions they're associated with."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("Five weather-types, a new organizing scheme", [
+            "cool, warm, stormy, windy, rainy &mdash;",
+            "a third distinct taxonomy after SN 29 and 31",
+        ]),
+        ("Identity inseparable from weather itself", [
+            "gods named for the conditions they bring &mdash;",
+            "unlike dragons, phoenixes, or centaurs",
+        ]),
+        ("The foundation this saṃyutta assumes", [
+            "56 discourses still to come &mdash;",
+            "none restate this opening taxonomy",
+        ]),
+        ("A closing arc genuinely unlike the rest", [
+            "not just rebirth-cause material &mdash;",
+            "SN 32.53–57 explain weather's own cause",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn32.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-31.23-112.html">SN 31.23&ndash;112 &middot; '
+        "Ninety Discourses On How Giving Helps Rebirth in Fragrant "
+        "Heartwood, etc.</a> &mdash; the previous page, closing "
+        "Gandhabbakāyasaṃyutta.",
+        '<a href="sn-32.2.html">SN 32.2 &middot; Good Conduct</a> '
+        "&mdash; the next discourse, shifting to hearsay-driven "
+        "aspiration toward the thundercloud host.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 32.2 — Sucaritasutta
+# --------------------------------------------------------------------------- #
+page(
+    32, 2, "Sucarita", "Good Conduct",
+    vagga="Valāhakavagga",
+    meta_title="SN 32.2 — Good Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sucaritasutta &mdash; someone aspiring to rebirth among "
+        "the thundercloud host generally, on the strength of good "
+        "conduct and hearsay alone. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "A mendicant questions the Buddha, who answers "
+                     "by describing an unnamed aspirant's own "
+                     "reasoning"),
+        ("Form", "A question-and-answer dialogue tracing hearsay to "
+                 "aspiration to rebirth, with no specific weather-"
+                 "type named"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a plain causal chain, easy to follow"),
+    ],
+    why=(
+        "This discourse opens Valāhakasaṃyutta's second motivational "
+        "register, using sucaritaṁ (\"good conduct\") &mdash; the "
+        "same term SN 31.2 used for gandhabba rebirth, not SN 29's "
+        "and SN 30's own dvayakārī (\"both kinds of deeds\") &mdash; "
+        "confirming that the purer conduct-formula first seen at SN "
+        "31.2 is not unique to gandhabbā but recurs for valāhakā as "
+        "well. The discourse targets the thundercloud host generally, "
+        "with no specific weather-type named, leaving that "
+        "specificity to SN 32.3&ndash;12's own set."
+    ),
+    guide=[
+        ("The same purer conduct-formula as SN 31.2", [
+            "\"It's when someone does good things (sucaritaṁ) by "
+            "way of body, speech, and mind\" &mdash; identical "
+            "wording to SN 31.2's own formula for gandhabba rebirth, "
+            "confirming this project's earlier observation that the "
+            "purer conduct-formula wasn't unique to gandhabbā.",
+        ]),
+        ("The same hearsay-and-wish structure otherwise", [
+            "Apart from sharing this conduct-term with SN 31.2, the "
+            "discourse follows the identical hearsay-and-wish "
+            "structure already seen at SN 29.7, SN 30.3, and SN "
+            "31.2: hearing the destination's reputation, forming the "
+            "wish, and being reborn there.",
+        ]),
+        ("No specific weather-type named", [
+            "Unlike SN 32.3&ndash;12, which will specify cool "
+            "thundercloud gods by name, this discourse aims only at "
+            "\"the gods of the thundercloud host\" as a general "
+            "category &mdash; a deliberately unspecific companion to "
+            "the weather-specific discourses that follow.",
+        ]),
+        ("Opening this saṃyutta's own single giving register", [
+            "Unlike Gandhabbakāyasaṃyutta's two distinct giving "
+            "registers (matching-substance gifts and the standard "
+            "ten-item list), this saṃyutta will use only the "
+            "standard ten-item formula, beginning at SN 32.3, with no "
+            "matching-substance equivalent &mdash; weather has no "
+            "obvious substance to match a gift to, unlike a "
+            "tree-dwelling god's own fragrant part.",
+        ]),
+    ],
+    terms=[
+        ("sucaritaṁ", "good conduct &mdash; this discourse's own "
+                       "title-word, matching SN 31.2's own formula "
+                       "rather than SN 29's and SN 30's dvayakārī"),
+        ("valāhakakāyikā devā", "\"the gods of the thundercloud "
+                                 "host\" &mdash; the general, "
+                                 "unspecific rebirth destination this "
+                                 "discourse targets"),
+        ("sutaṁ", "\"heard\" &mdash; the specific trigger for the "
+                   "aspirant's wish, matching this project's earlier "
+                   "SN discourses"),
+        ("dīghāyukā vaṇṇavanto sukhabahulā", "\"long-lived, "
+                                              "beautiful, and very "
+                                              "happy\" &mdash; the "
+                                              "specific reputation "
+                                              "the aspirant has heard"),
+        ("aho vata", "\"if only\" &mdash; the aspirant's own wishful "
+                      "exclamation, quoted directly"),
+    ],
+    text_intro=("The complete discourse: the mendicant's question and "
+        "the aspirant's own reported hearsay-driven reasoning in "
+        "full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn32.2:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What conduct-term does this discourse use for the aspirant, and where else has this project seen it?",
+         "opts": ["Sucaritaṁ (\"good conduct\"), matching SN 31.2's own formula for gandhabba rebirth",
+                  "Dvayakārī (\"both kinds of deeds\"), matching SN 29's and SN 30's own formula",
+                  "An entirely new term never seen before", "No conduct term is used at all"],
+         "correct": 0,
+         "expl": "Confirming the purer conduct-formula first seen at SN 31.2 recurs for valāhakā as well."},
+        {"q": "What specific weather-type does this discourse's aspirant aim to be reborn among?",
+         "opts": ["None specifically — only the thundercloud host generally", "Cool thunderclouds specifically",
+                  "Rainy thunderclouds specifically", "All five weather-types simultaneously"],
+         "correct": 0,
+         "expl": "A deliberately unspecific companion to the weather-specific discourses that follow at SN 32.3–12."},
+        {"q": "How many distinct giving registers will this saṃyutta use, compared to Gandhabbakāyasaṃyutta's two?",
+         "opts": ["Only one — the standard ten-item formula, with no matching-substance equivalent",
+                  "Two, identical to Gandhabbakāyasaṃyutta", "Three", "None — giving plays no role in this saṃyutta"],
+         "correct": 0,
+         "expl": "Weather has no obvious substance to match a gift to, unlike a tree-dwelling god's own fragrant part."},
+        {"q": "Apart from the conduct term, how does this discourse's structure compare to SN 29.7's, SN 30.3's, and SN 31.2's own?",
+         "opts": ["Identical — the same hearsay-and-wish structure", "Entirely different", "No relation at all",
+                  "This discourse omits the hearsay element entirely"],
+         "correct": 0,
+         "expl": "Hearing the destination's reputation, forming the wish, and being reborn there."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("A conduct-term recurring, not unique to SN 31", [
+            "good conduct, not mixed conduct &mdash;",
+            "confirmed again for valāhakā",
+        ]),
+        ("Deliberately unspecific", [
+            "no weather-type named yet &mdash;",
+            "five specific discourses still ahead",
+        ]),
+        ("One giving register, not two", [
+            "no matching-substance equivalent here &mdash;",
+            "weather has nothing to match a gift to",
+        ]),
+        ("The same hearsay, a new target", [
+            "long-lived, beautiful, very happy &mdash;",
+            "now heard of valāhakā, not gandhabbā",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn32.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-32.1.html">SN 32.1 &middot; Plain Version</a> '
+        "&mdash; the previous discourse, giving the fivefold "
+        "weather-type taxonomy.",
+        '<a href="sn-32.3-12.html">SN 32.3&ndash;12 &middot; Ten '
+        "Discourses On How Giving Helps to Become a Cool Thundercloud "
+        "God</a> &mdash; the next page, adding both a specific "
+        "weather-type and the standard ten-item giving formula.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 32.3–12 — Sītavalāhakadānūpakārasuttadasaka
+# --------------------------------------------------------------------------- #
+page_range(
+    32, 3, 12, "Sītavalāhakadānūpakāra", "Ten Discourses On How Giving "
+    "Helps to Become a Cool Thundercloud God",
+    vagga="Valāhakavagga",
+    meta_title="SN 32.3–12 · Ten Discourses On How Giving Helps to "
+                "Become a Cool Thundercloud God | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 32.3 through "
+        "32.12 &mdash; ten discourses, preserved in the source as a "
+        "single peyyāla block, applying the standard ten-item giving "
+        "formula from SN 29&ndash;31 to cool thundercloud gods. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing an unnamed mendicant"),
+        ("Form", "Ten discourses compressed by bilara-data into a "
+                 "single file, one shared frame with the standard "
+                 "ten gift-items elided as a peyyāla list"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single repeated frame, easy to follow once "
+                       "the peyyāla list is recognized"),
+    ],
+    why=(
+        "This merged file opens this saṃyutta's own single giving "
+        "register, using the identical ten-item formula already seen "
+        "at SN 29.11&ndash;20, SN 30.7&ndash;16, and SN "
+        "31.13&ndash;22 &mdash; food, drink, clothing, a vehicle, a "
+        "garland, fragrance, makeup, a bed, a house, and a lamp "
+        "&mdash; now applied specifically to cool thundercloud gods, "
+        "the first of this saṃyutta's five weather-types to receive "
+        "this treatment."
+    ),
+    guide=[
+        ("The same standard ten items, a fourth saṃyutta", [
+            "Food, drink, clothing, a vehicle, a garland, fragrance, "
+            "makeup, a bed, a house, and a lamp &mdash; identical to "
+            "this same list already seen in three earlier saṃyuttas, "
+            "confirming it as a genuinely standard template that "
+            "recurs regardless of what kind of rebirth is sought.",
+        ]),
+        ("No matching-substance alternative here", [
+            "Unlike Gandhabbakāyasaṃyutta's SN 31.3&ndash;12, which "
+            "offered a second giving register matching the exact "
+            "substance sought, this saṃyutta offers only this "
+            "standard ten-item list &mdash; weather, unlike a "
+            "tree-part, has no substance to match a gift against.",
+        ]),
+        ("A pattern this saṃyutta will repeat four more times", [
+            "This file treats only cool thundercloud gods; SN "
+            "32.13&ndash;52 will apply the identical ten-item formula "
+            "to the remaining four weather-types at four times the "
+            "scale.",
+        ]),
+        ("The same unified-prefix encoding, again", [
+            "As with SN 12.72&ndash;81, SN 29&ndash;31's own merged "
+            "files, this file uses a single unified key prefix "
+            "(sn32.3-12:) for its entire content.",
+        ]),
+    ],
+    terms=[
+        ("dāna", "giving or generosity &mdash; the specific act each "
+                  "of these ten discourses treats as sufficient to "
+                  "help produce cool-thundercloud rebirth"),
+        ("annaṁ deti", "\"gives food\" &mdash; the first of the ten "
+                        "gift-items named in this file"),
+        ("padīpeyyaṁ deti", "\"gives a lamp\" &mdash; the tenth and "
+                             "final gift-item, closing the list"),
+        ("sītavalāhaka", "cool thundercloud gods &mdash; the shared "
+                          "rebirth destination all ten discourses in "
+                          "this set trace to specific acts of "
+                          "giving"),
+        ("sucaritaṁ", "good conduct &mdash; the baseline conduct "
+                       "attributed to the aspirant in each discourse"),
+    ],
+    text_intro=("The complete merged file: the shared hearsay-and-"
+        "wish frame, followed by the ten standard gift-items exactly "
+        "as bilara-data gives them. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn32.3-12:1.1-1.8"),
+        ("p", "&sect;2", "sn32.3-12:1.9-1.12"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Ten — SN 32.3 through SN 32.12", "Forty", "Five", "Fifty-seven"],
+         "correct": 0,
+         "expl": "Bilara-data itself preserves these ten as a single peyyāla-encoded file."},
+        {"q": "How does this file's ten-item gift list compare to SN 29's, SN 30's, and SN 31's own equivalents?",
+         "opts": ["Identical — the same standard ten items, now applied to cool thundercloud gods",
+                  "A completely different set of ten items", "Only five items are shared",
+                  "This file uses twenty items instead of ten"],
+         "correct": 0,
+         "expl": "Confirming the formula recurs across at least four separate saṃyuttas."},
+        {"q": "What giving register does this saṃyutta lack, unlike Gandhabbakāyasaṃyutta?",
+         "opts": ["A matching-substance alternative to the standard ten-item list",
+                  "The standard ten-item list itself", "Any giving register at all",
+                  "The hearsay-driven aspiration register"],
+         "correct": 0,
+         "expl": "Weather, unlike a tree-part, has no substance to match a gift against."},
+        {"q": "What does this file set up for SN 32.13–52 to complete?",
+         "opts": ["The identical ten-item formula applied to the remaining four weather-types, at four times the scale",
+                  "A return to the bare taxonomy of SN 32.1", "No further discourses follow this file",
+                  "A shift to an entirely unrelated saṃyutta"],
+         "correct": 0,
+         "expl": "Closing this saṃyutta's own giving theme at forty further discourses."},
+        {"q": "What encoding convention does this merged file share with SN 12.72–81 and SN 29–31's own merged files?",
+         "opts": ["A single unified key prefix for its entire content, rather than individual prefixes per sub-discourse",
+                  "Each sub-discourse keeping its own individual key prefix", "No prefix convention at all",
+                  "A prefix unique to this file alone"],
+         "correct": 0,
+         "expl": "Now confirmed across multiple separate merged files across this project's SN coverage."},
+    ],
+    marginalia=[
+        ("The same ten gifts, a fourth saṃyutta", [
+            "food, drink, ... a house, a lamp &mdash;",
+            "verbatim from SN 29, SN 30, and SN 31",
+        ]),
+        ("No matching-substance option here", [
+            "unlike Gandhabbakāyasaṃyutta's own second register &mdash;",
+            "weather has nothing to match a gift to",
+        ]),
+        ("One weather-type done, four more to scale", [
+            "cool thunderclouds covered here &mdash;",
+            "SN 32.13–52 apply this to the rest",
+        ]),
+        ("A now-familiar encoding, once more", [
+            "sn32.3-12: one prefix for ten &mdash;",
+            "the same convention as SN 12.72–81",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn32.3-12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-32.2.html">SN 32.2 &middot; Good Conduct</a> '
+        "&mdash; the previous discourse, the general hearsay-and-"
+        "wish frame this file specifies.",
+        '<a href="sn-32.13-52.html">SN 32.13&ndash;52 &middot; How '
+        "Giving Helps to Become a Warm Thundercloud God, Etc.</a> "
+        "&mdash; the next page, applying this identical ten-item "
+        "formula to the remaining four weather-types.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 32.13–52 — Uṇhavalāhakadānūpakārasutta
+# --------------------------------------------------------------------------- #
+page_range(
+    32, 13, 52, "Uṇhavalāhakadānūpakāra", "How Giving Helps to Become a "
+    "Warm Thundercloud God, Etc.",
+    vagga="Valāhakavagga",
+    meta_title="SN 32.13–52 · How Giving Helps to Become a Warm "
+                "Thundercloud God, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 32.13 through "
+        "32.52 &mdash; forty discourses, preserved in the source as "
+        "a single peyyāla block, applying the standard ten-item "
+        "giving formula to the remaining four thundercloud "
+        "weather-types. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing an unnamed mendicant"),
+        ("Form", "Forty discourses compressed by bilara-data into a "
+                 "single file, one complete worked example (rainy "
+                 "thunderclouds) given in full"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial once SN 32.3&ndash;12's own formula "
+                       "is understood"),
+    ],
+    why=(
+        "This merged file completes this saṃyutta's own giving "
+        "register, applying SN 32.3&ndash;12's own standard ten-item "
+        "formula to the remaining four weather-types &mdash; warm, "
+        "stormy, windy, and rainy thunderclouds &mdash; compressed to "
+        "a single worked thread through the last type, rainy "
+        "thunderclouds, given in full. Ten gift-items times four "
+        "remaining weather-types yields exactly forty discourses, "
+        "matching the same scale already seen at SN 29.21&ndash;50."
+    ),
+    guide=[
+        ("A complete worked example, closing on rainy thunderclouds", [
+            "This file gives the entire question, answer, and "
+            "closing statement for the last weather-type (rainy "
+            "thunderclouds) in full English translation &mdash; the "
+            "same complete-example approach already seen at SN "
+            "29.21&ndash;50 and SN 31.23&ndash;112, rather than SN "
+            "30.17&ndash;46's own bare stub.",
+        ]),
+        ("Four weather-types, one worked thread standing for all", [
+            "The opening question chains all four remaining "
+            "weather-types into a single sentence, then works only "
+            "the last one (rainy thunderclouds) through to its own "
+            "complete ending &mdash; the other three are left "
+            "entirely to inference from this one worked example and "
+            "SN 32.3&ndash;12's own explicit ten-item list.",
+        ]),
+        ("A scale matching Nāgasaṃyutta's own equivalent set", [
+            "Ten gift-items times four remaining weather-types "
+            "yields exactly forty discourses &mdash; the same scale "
+            "as SN 29.21&ndash;50's own thirty-discourse block would "
+            "reach if Nāgasaṃyutta's fourfold taxonomy were scaled up "
+            "by one more birth-mode, though the two saṃyuttas' "
+            "underlying taxonomies (four birth-modes vs. five "
+            "weather-types) remain genuinely distinct.",
+        ]),
+        ("Setting up this saṃyutta's own distinct final act", [
+            "Unlike SN 29's and SN 31's own closing merged files, "
+            "which each carry the vagga and saṃyutta colophons "
+            "directly, this file's close hands off to five further "
+            "individual discourses (SN 32.53&ndash;57) before this "
+            "saṃyutta's own colophon finally appears &mdash; "
+            "Valāhakasaṃyutta's own closing arc is not yet complete "
+            "here.",
+        ]),
+    ],
+    terms=[
+        ("uṇhavalāhaka", "warm thundercloud gods &mdash; the first "
+                          "of the four remaining weather-types named "
+                          "in this file's opening question"),
+        ("vassavalāhaka", "rainy thundercloud gods &mdash; the last "
+                           "of the four, and the only one worked "
+                           "through to a complete answer in this "
+                           "file"),
+        ("peyyāla", "an elision mark &mdash; here compressing forty "
+                     "discourses' worth of weather-type-and-gift "
+                     "pairs into a single sequence"),
+        ("sucaritaṁ", "good conduct &mdash; the baseline conduct "
+                       "attributed to the aspirant in each discourse"),
+        ("dāna", "giving &mdash; the specific act this file, like SN "
+                  "32.3&ndash;12 before it, treats as sufficient to "
+                  "help produce each specific rebirth"),
+    ],
+    text_intro=("The complete merged file: the shared frame for the "
+        "four remaining weather-types, and the full worked example "
+        "for rainy thunderclouds. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn32.13-52:1.1-1.15"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Forty — SN 32.13 through SN 32.52", "Ten", "Four", "Fifty-seven"],
+         "correct": 0,
+         "expl": "SN 32.3–12's own ten-item formula applied to the remaining four weather-types."},
+        {"q": "Which single weather-type does this file work through to a complete ending?",
+         "opts": ["Rainy thunderclouds, the last of the four remaining weather-types",
+                  "Warm thunderclouds, the first of the four", "All four equally",
+                  "None — the file is entirely a bare stub"],
+         "correct": 0,
+         "expl": "The other three are left entirely to inference from this worked example and SN 32.3–12's own list."},
+        {"q": "How does this file's English translation compare to SN 30.17–46's own equivalent file?",
+         "opts": ["It gives a complete worked example in full, unlike SN 30.17–46's bare \"tell in full\" instruction",
+                  "It is equally bare, with no worked example at all", "It is identical in every respect",
+                  "It contains less content than SN 30.17–46"],
+         "correct": 0,
+         "expl": "Matching SN 29.21–50's and SN 31.23–112's own more complete approach instead."},
+        {"q": "What does this file's close hand off to, unlike SN 29's and SN 31's own closing merged files?",
+         "opts": ["Five further individual discourses (SN 32.53–57) before this saṃyutta's own colophon appears",
+                  "This saṃyutta's own colophon directly, with nothing further", "A return to the bare taxonomy",
+                  "An entirely unrelated saṃyutta"],
+         "correct": 0,
+         "expl": "Valāhakasaṃyutta's own closing arc is not yet complete at this file's own end."},
+        {"q": "How many total discourses does ten gift-items times four remaining weather-types yield?",
+         "opts": ["Forty", "Fifty", "Thirty", "Ten"],
+         "correct": 0,
+         "expl": "The scale this merged file compresses into a single page."},
+    ],
+    marginalia=[
+        ("A complete example, closing on rain", [
+            "rainy thunderclouds, worked through in full &mdash;",
+            "matching SN 29.21–50's own approach",
+        ]),
+        ("Four weather-types, one thread", [
+            "rain alone given a full ending &mdash;",
+            "the other three left to inference",
+        ]),
+        ("Forty discourses, ten times four", [
+            "the same scale as SN 29's own thirty &mdash;",
+            "but a genuinely different underlying taxonomy",
+        ]),
+        ("Not the saṃyutta's own true close", [
+            "no colophon appears here yet &mdash;",
+            "five more discourses still remain",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn32.13-52/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-32.3-12.html">SN 32.3&ndash;12 &middot; Ten '
+        "Discourses On How Giving Helps to Become a Cool Thundercloud "
+        "God</a> &mdash; the previous page, giving this same ten-item "
+        "formula in full for cool thundercloud gods.",
+        '<a href="sn-32.53.html">SN 32.53 &middot; Gods of the Cool '
+        "Thunderclouds</a> &mdash; the next discourse, opening this "
+        "saṃyutta's own distinct closing arc on the present-tense "
+        "cause of weather.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 32.53 — Sītavalāhakasutta
+# --------------------------------------------------------------------------- #
+page(
+    32, 53, "Sītavalāhaka", "Gods of the Cool Thunderclouds",
+    vagga="Valāhakavagga",
+    meta_title="SN 32.53 — Gods of the Cool Thunderclouds | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sītavalāhakasutta &mdash; the Buddha explains why it "
+        "sometimes becomes cool: the cool thundercloud gods simply "
+        "wish to revel in their own kind of enjoyment. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "A mendicant questions the Buddha directly"),
+        ("Form", "A short question-and-answer, explaining a present-"
+                 "tense weather phenomenon rather than a rebirth "
+                 "cause"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and playful, easy to follow"),
+    ],
+    why=(
+        "This discourse opens Valāhakasaṃyutta's own genuinely "
+        "distinct closing arc, shifting entirely away from the "
+        "rebirth-cause questions that dominated SN 32.2&ndash;52: "
+        "rather than asking why someone is reborn among the cool "
+        "thundercloud gods, the mendicant here asks why it sometimes "
+        "becomes cool at all &mdash; and the Buddha's answer "
+        "attributes the weather itself to the gods' own whimsical "
+        "wish to enjoy their own kind of pleasure. Weather, in this "
+        "discourse, is divine leisure made visible."
+    ),
+    guide=[
+        ("A different question entirely", [
+            "\"What is the cause, what is the reason why sometimes "
+            "it becomes cool?\" &mdash; not why is someone reborn "
+            "among the cool thundercloud gods, as in every earlier "
+            "discourse of this saṃyutta, but why does the weather "
+            "phenomenon itself occur.",
+        ]),
+        ("Weather as the gods' own leisure activity", [
+            "\"Why don't we revel in our own kind of enjoyment?\" "
+            "&mdash; the cool thundercloud gods' own thought, "
+            "attributed directly as the cause: cool weather happens "
+            "because these gods wish, in that moment, to indulge in "
+            "the specific pleasure their nature affords them.",
+        ]),
+        ("A charming, non-karmic explanation of causation", [
+            "Unlike every other discourse in this saṃyutta's own "
+            "causal-explanation register (SN 32.2&ndash;52), this "
+            "discourse's causal chain has nothing to do with karma, "
+            "conduct, or giving &mdash; it is simply divine whim, a "
+            "genuinely different kind of \"cause and reason\" than "
+            "this saṃyutta has offered before.",
+        ]),
+        ("First of a five-discourse closing set", [
+            "This discourse opens SN 32.53&ndash;57, five short "
+            "discourses that will apply the identical structure to "
+            "each of this saṃyutta's five weather-types in turn, "
+            "closing with SN 32.57's own saṃyutta colophon.",
+        ]),
+    ],
+    terms=[
+        ("sītavalāhaka", "cool thundercloud gods &mdash; the subject "
+                          "of this specific discourse"),
+        ("sakāya ratiyā", "\"our own kind of enjoyment\" &mdash; the "
+                           "gods' own phrase for the pleasure their "
+                           "nature affords them"),
+        ("cetopaṇidhi", "wish or resolve of mind &mdash; the "
+                         "technical term for the gods' own intention, "
+                         "which the weather is said to follow"),
+        ("hetu", "cause &mdash; the mendicant's own opening word, "
+                  "now asking about weather rather than rebirth"),
+        ("paccayo", "reason or condition &mdash; paired with hetu in "
+                     "the standard formula this discourse shares with "
+                     "the rest of this saṃyutta"),
+    ],
+    text_intro=("The discourse in full. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn32.53:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What question does the mendicant ask in this discourse?",
+         "opts": ["Why it sometimes becomes cool", "Why someone is reborn among the cool thundercloud gods",
+                  "How long the cool thundercloud gods live", "Where the cool thundercloud gods dwell"],
+         "correct": 0,
+         "expl": "A genuinely different kind of question from every earlier discourse in this saṃyutta."},
+        {"q": "What does the Buddha say causes cool weather?",
+         "opts": ["The cool thundercloud gods' own wish to revel in their own kind of enjoyment",
+                  "The good conduct of mendicants", "A specific act of giving", "Karmic retribution for past deeds"],
+         "correct": 0,
+         "expl": "Weather, in this discourse, is divine leisure made visible."},
+        {"q": "How does this discourse's causal explanation differ from SN 32.2–52's own?",
+         "opts": ["It has nothing to do with karma, conduct, or giving — it is simply divine whim",
+                  "It is identical to SN 32.2's own explanation", "It denies that any cause exists at all",
+                  "It attributes the cause to human conduct"],
+         "correct": 0,
+         "expl": "A genuinely different kind of \"cause and reason\" than this saṃyutta has offered before."},
+        {"q": "What five-discourse set does this discourse open?",
+         "opts": ["SN 32.53–57, applying this structure to each of the five weather-types in turn",
+                  "A return to the giving formula of SN 32.3–12", "An entirely new saṃyutta",
+                  "A repeat of SN 32.1's own taxonomy"],
+         "correct": 0,
+         "expl": "Closing with SN 32.57's own saṃyutta colophon."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("A new kind of question", [
+            "not why is someone reborn &mdash;",
+            "but why does it become cool at all",
+        ]),
+        ("Weather as divine leisure", [
+            "\"our own kind of enjoyment\" &mdash;",
+            "the gods' own wish, made visible as cold",
+        ]),
+        ("No karma in this causal chain", [
+            "not conduct, not giving &mdash;",
+            "simply whim, a genuinely different cause",
+        ]),
+        ("First of a five-part closing set", [
+            "cool weather explained here &mdash;",
+            "four more weather-types still to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn32.53/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-32.13-52.html">SN 32.13&ndash;52 &middot; How '
+        "Giving Helps to Become a Warm Thundercloud God, Etc.</a> "
+        "&mdash; the previous page, closing this saṃyutta's giving "
+        "theme.",
+        '<a href="sn-32.54.html">SN 32.54 &middot; Gods of the Warm '
+        "Thunderclouds</a> &mdash; the next discourse, applying this "
+        "identical structure to warm weather.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 32.54 — Uṇhavalāhakasutta
+# --------------------------------------------------------------------------- #
+page(
+    32, 54, "Uṇhavalāhaka", "Gods of the Warm Thunderclouds",
+    vagga="Valāhakavagga",
+    meta_title="SN 32.54 — Gods of the Warm Thunderclouds | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Uṇhavalāhakasutta &mdash; the Buddha explains why it "
+        "sometimes becomes warm, applying SN 32.53's own structure "
+        "to the second weather-type. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "A mendicant questions the Buddha directly"),
+        ("Form", "Identical in structure to SN 32.53, with only the "
+                 "weather-type changed"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and playful, easy to follow"),
+    ],
+    why=(
+        "The second of this saṃyutta's five closing discourses, "
+        "applying SN 32.53's own structure word for word to warm "
+        "weather: the warm thundercloud gods wish to revel in their "
+        "own kind of enjoyment, and the weather follows their wish "
+        "&mdash; confirming that SN 32.53's own causal logic is a "
+        "genuine template, not a one-off explanation specific to "
+        "cool weather alone."
+    ),
+    guide=[
+        ("The identical structure, one word changed", [
+            "Every element of SN 32.53's own discourse recurs here "
+            "unchanged except the weather-type itself: warm "
+            "thundercloud gods, in place of cool thundercloud gods, "
+            "wishing to revel in their own kind of enjoyment.",
+        ]),
+        ("Confirming a genuine template, not a one-off", [
+            "With this second discourse matching the first almost "
+            "word for word, SN 32.53's own explanation of weather as "
+            "divine leisure is confirmed as this saṃyutta's own "
+            "standing template for its closing arc, not a single "
+            "special case.",
+        ]),
+        ("Warm weather, the same whimsical cause", [
+            "As with coolness, warmth is attributed here to the "
+            "gods' own present-tense wish rather than to any deeper "
+            "cosmological mechanism &mdash; a consistently light, "
+            "non-technical explanation running through this entire "
+            "closing set.",
+        ]),
+        ("Third of five weather-types still to come", [
+            "This discourse leaves stormy, windy, and rainy weather "
+            "still to be explained at SN 32.55&ndash;57, each "
+            "following the identical pattern established here and at "
+            "SN 32.53.",
+        ]),
+    ],
+    terms=[
+        ("uṇhavalāhaka", "warm thundercloud gods &mdash; the subject "
+                          "of this specific discourse"),
+        ("sakāya ratiyā", "\"our own kind of enjoyment\" &mdash; "
+                           "identical phrasing to SN 32.53's own "
+                           "discourse"),
+        ("cetopaṇidhi", "wish or resolve of mind &mdash; the "
+                         "technical term for the gods' own intention"),
+        ("hetu", "cause &mdash; the mendicant's own opening word, "
+                  "unchanged from SN 32.53"),
+        ("paccayo", "reason or condition &mdash; paired with hetu in "
+                     "the standard formula shared across this "
+                     "closing set"),
+    ],
+    text_intro=("The discourse in full. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn32.54:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What single element changes between SN 32.53 and this discourse?",
+         "opts": ["Only the weather-type — warm instead of cool", "The entire causal explanation is different",
+                  "The gods involved are entirely unrelated", "The mendicant's question is different in structure"],
+         "correct": 0,
+         "expl": "Every other element recurs unchanged, confirming a genuine shared template."},
+        {"q": "What does this discourse confirm about SN 32.53's own explanation of weather?",
+         "opts": ["It is a genuine standing template for this closing arc, not a one-off explanation",
+                  "It was a unique explanation specific to cool weather alone", "It contradicts SN 32.53's own claim",
+                  "It introduces an entirely new causal mechanism"],
+         "correct": 0,
+         "expl": "The second discourse matching the first almost word for word."},
+        {"q": "What causes warm weather, according to this discourse?",
+         "opts": ["The warm thundercloud gods' own wish to revel in their own kind of enjoyment",
+                  "The good conduct of mendicants", "A deep cosmological mechanism", "Karmic retribution"],
+         "correct": 0,
+         "expl": "The same whimsical, non-technical cause already given for cool weather at SN 32.53."},
+        {"q": "How many weather-types remain to be explained after this discourse?",
+         "opts": ["Three — stormy, windy, and rainy", "None — this is the last", "Four", "One"],
+         "correct": 0,
+         "expl": "At SN 32.55–57, each following the identical pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("One word changed, the rest identical", [
+            "warm in place of cool &mdash;",
+            "SN 32.53's own template, confirmed",
+        ]),
+        ("A genuine template, not a one-off", [
+            "the same structure, twice now &mdash;",
+            "standing for this entire closing set",
+        ]),
+        ("Warmth, the same whimsical cause", [
+            "\"our own kind of enjoyment\" &mdash;",
+            "no deeper mechanism offered",
+        ]),
+        ("Three weather-types still ahead", [
+            "stormy, windy, rainy &mdash;",
+            "each following this identical pattern",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn32.54/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-32.53.html">SN 32.53 &middot; Gods of the Cool '
+        "Thunderclouds</a> &mdash; the previous discourse, "
+        "establishing this closing set's own shared template.",
+        '<a href="sn-32.55.html">SN 32.55 &middot; Gods of the '
+        "Stormy Thunderclouds</a> &mdash; the next discourse, "
+        "applying this same structure to storms.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 32.55 — Abbhavalāhakasutta
+# --------------------------------------------------------------------------- #
+page(
+    32, 55, "Abbhavalāhaka", "Gods of the Stormy Thunderclouds",
+    vagga="Valāhakavagga",
+    meta_title="SN 32.55 — Gods of the Stormy Thunderclouds | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Abbhavalāhakasutta &mdash; the Buddha explains why it "
+        "sometimes becomes stormy, the third application of this "
+        "closing arc's shared template. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "A mendicant questions the Buddha directly"),
+        ("Form", "Identical in structure to SN 32.53 and SN 32.54, "
+                 "with only the weather-type changed"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and playful, easy to follow"),
+    ],
+    why=(
+        "The third of this saṃyutta's five closing discourses, "
+        "applying the identical template to stormy weather: the "
+        "stormy thundercloud gods wish to revel in their own kind of "
+        "enjoyment, and storms follow. With three discourses now "
+        "sharing this exact structure, the pattern is fully "
+        "established as this closing arc's own standing form, one "
+        "weather-type at a time."
+    ),
+    guide=[
+        ("A third confirmation of the same template", [
+            "Stormy weather (abbha) receives the identical "
+            "treatment already given to cool and warm weather at SN "
+            "32.53 and SN 32.54 &mdash; the same gods'-own-wish "
+            "causal chain, applied without variation.",
+        ]),
+        ("Storms, no more dramatic in cause than calm weather", [
+            "Despite the greater intensity of a storm compared to "
+            "ordinary coolness or warmth, this discourse offers no "
+            "escalated or more elaborate explanation &mdash; the "
+            "stormy thundercloud gods' own whim is treated as an "
+            "equally sufficient cause.",
+        ]),
+        ("A structural midpoint in this closing set", [
+            "With cool, warm, and now stormy weather covered, this "
+            "discourse marks the midpoint of SN 32.53&ndash;57's "
+            "five-discourse set, windy and rainy weather still to "
+            "come.",
+        ]),
+        ("The template's own consistency as the point worth noting", [
+            "As with SN 22.6's own brief peyyāla stub earlier in this "
+            "project's coverage, this discourse's real interest lies "
+            "in its very sameness: the compiler evidently judged each "
+            "weather-type worth its own discourse-number despite "
+            "changing nothing but the type itself.",
+        ]),
+    ],
+    terms=[
+        ("abbhavalāhaka", "stormy thundercloud gods &mdash; the "
+                           "subject of this specific discourse"),
+        ("sakāya ratiyā", "\"our own kind of enjoyment\" &mdash; "
+                           "identical phrasing to SN 32.53's and SN "
+                           "32.54's own discourses"),
+        ("cetopaṇidhi", "wish or resolve of mind &mdash; the "
+                         "technical term for the gods' own intention"),
+        ("hetu", "cause &mdash; the mendicant's own opening word, "
+                  "unchanged across this closing set"),
+        ("paccayo", "reason or condition &mdash; paired with hetu in "
+                     "the standard formula shared across this "
+                     "closing set"),
+    ],
+    text_intro=("The discourse in full. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn32.55:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What weather phenomenon does this discourse explain?",
+         "opts": ["Why it sometimes becomes stormy", "Why it sometimes becomes cool", "Why it sometimes rains",
+                  "Why it sometimes becomes windy"],
+         "correct": 0,
+         "expl": "The third application of this closing arc's shared template."},
+        {"q": "Does this discourse offer a more elaborate explanation for storms than SN 32.53 gave for coolness?",
+         "opts": ["No — the identical whim-based explanation, with no escalation despite the greater intensity",
+                  "Yes, a significantly more detailed cosmological account", "Yes, storms are attributed to a different cause entirely",
+                  "No explanation is offered at all"],
+         "correct": 0,
+         "expl": "The stormy thundercloud gods' own whim is treated as an equally sufficient cause."},
+        {"q": "Where does this discourse fall within the SN 32.53–57 closing set?",
+         "opts": ["The midpoint — third of five, with windy and rainy weather still to come",
+                  "The very first", "The very last", "Outside this set entirely"],
+         "correct": 0,
+         "expl": "Cool, warm, and now stormy weather are covered; two more remain."},
+        {"q": "What is this discourse's real point of interest, according to this reading guide?",
+         "opts": ["Its very sameness — the compiler judged each weather-type worth its own discourse-number",
+                  "A dramatic plot twist unique to this discourse", "A contradiction of SN 32.53's own claim",
+                  "An entirely new causal mechanism"],
+         "correct": 0,
+         "expl": "Comparable to earlier brief peyyāla stubs in this project's coverage."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("A third confirmation", [
+            "stormy weather, the same template &mdash;",
+            "no variation in the causal chain",
+        ]),
+        ("No escalation for greater intensity", [
+            "storms no more dramatic in cause &mdash;",
+            "than ordinary coolness or warmth",
+        ]),
+        ("The midpoint of five", [
+            "cool, warm, stormy now done &mdash;",
+            "windy and rainy still ahead",
+        ]),
+        ("Sameness itself, worth noticing", [
+            "one word changed each time &mdash;",
+            "yet each given its own discourse-number",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn32.55/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-32.54.html">SN 32.54 &middot; Gods of the Warm '
+        "Thunderclouds</a> &mdash; the previous discourse, applying "
+        "this same structure to warm weather.",
+        '<a href="sn-32.56.html">SN 32.56 &middot; Gods of the Windy '
+        "Thunderclouds</a> &mdash; the next discourse, applying this "
+        "same structure to wind.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 32.56 — Vātavalāhakasutta
+# --------------------------------------------------------------------------- #
+page(
+    32, 56, "Vātavalāhaka", "Gods of the Windy Thunderclouds",
+    vagga="Valāhakavagga",
+    meta_title="SN 32.56 — Gods of the Windy Thunderclouds | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vātavalāhakasutta &mdash; the Buddha explains why it "
+        "sometimes becomes windy, the fourth application of this "
+        "closing arc's shared template. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "A mendicant questions the Buddha directly"),
+        ("Form", "Identical in structure to SN 32.53&ndash;55, with "
+                 "only the weather-type changed"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and playful, easy to follow"),
+    ],
+    why=(
+        "The fourth of this saṃyutta's five closing discourses, "
+        "applying the identical template to windy weather: the windy "
+        "thundercloud gods wish to revel in their own kind of "
+        "enjoyment, and wind follows. Only rainy weather remains "
+        "after this discourse, whose own treatment at SN 32.57 will "
+        "close this saṃyutta entirely."
+    ),
+    guide=[
+        ("A fourth confirmation of the same template", [
+            "Windy weather (vāta) receives the identical treatment "
+            "already given to cool, warm, and stormy weather at SN "
+            "32.53&ndash;55 &mdash; the same gods'-own-wish causal "
+            "chain, applied without variation for a fourth time.",
+        ]),
+        ("Wind, one of the four elements, given no special treatment", [
+            "Despite vāta's own significance elsewhere in the canon "
+            "as one of the four great elements, this discourse "
+            "treats windy weather with exactly the same brevity and "
+            "the same whimsical cause as every other weather-type in "
+            "this set, with no added doctrinal weight.",
+        ]),
+        ("Second-to-last in this closing set", [
+            "With cool, warm, stormy, and now windy weather all "
+            "covered, only rainy weather remains before this "
+            "saṃyutta's own close at SN 32.57.",
+        ]),
+        ("Setting up the saṃyutta's own final discourse", [
+            "SN 32.57 will complete this five-part set and, unlike "
+            "this discourse and its three predecessors, carry the "
+            "saṃyutta's own closing colophon as well &mdash; the "
+            "final weather-type doubling as this saṃyutta's own "
+            "final word.",
+        ]),
+    ],
+    terms=[
+        ("vātavalāhaka", "windy thundercloud gods &mdash; the "
+                          "subject of this specific discourse"),
+        ("vāta", "wind &mdash; one of the four great elements "
+                  "(mahābhūta) elsewhere in the canon, though given "
+                  "no special doctrinal treatment here"),
+        ("sakāya ratiyā", "\"our own kind of enjoyment\" &mdash; "
+                           "identical phrasing across this entire "
+                           "closing set"),
+        ("cetopaṇidhi", "wish or resolve of mind &mdash; the "
+                         "technical term for the gods' own intention"),
+        ("hetu", "cause &mdash; the mendicant's own opening word, "
+                  "unchanged across this closing set"),
+    ],
+    text_intro=("The discourse in full. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn32.56:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What weather phenomenon does this discourse explain?",
+         "opts": ["Why it sometimes becomes windy", "Why it sometimes becomes cool", "Why it sometimes rains",
+                  "Why it sometimes becomes stormy"],
+         "correct": 0,
+         "expl": "The fourth application of this closing arc's shared template."},
+        {"q": "Does this discourse give wind any special doctrinal weight, given vāta's significance as one of the four great elements elsewhere in the canon?",
+         "opts": ["No — it treats windy weather with exactly the same brevity and whimsical cause as the others",
+                  "Yes, it launches into an extended discussion of the four elements", "Yes, wind is treated as uniquely important",
+                  "It denies that wind is one of the four elements"],
+         "correct": 0,
+         "expl": "No added doctrinal weight beyond this closing set's own shared template."},
+        {"q": "How many weather-types remain to be explained after this discourse?",
+         "opts": ["One — rainy weather", "Two", "None — this is the last", "Three"],
+         "correct": 0,
+         "expl": "SN 32.57 will complete this five-part set."},
+        {"q": "What will SN 32.57 carry that this discourse and its predecessors do not?",
+         "opts": ["This saṃyutta's own closing colophon", "A different causal explanation entirely",
+                  "A return to the giving formula", "A sixth weather-type"],
+         "correct": 0,
+         "expl": "The final weather-type doubling as this saṃyutta's own final word."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("A fourth confirmation", [
+            "windy weather, the same template &mdash;",
+            "no variation in the causal chain",
+        ]),
+        ("One of four elements, no special treatment", [
+            "vāta elsewhere carries doctrinal weight &mdash;",
+            "here, just another whim-caused weather-type",
+        ]),
+        ("Second-to-last of five", [
+            "cool, warm, stormy, windy now done &mdash;",
+            "only rain remains",
+        ]),
+        ("Setting up the saṃyutta's own close", [
+            "SN 32.57 still ahead &mdash;",
+            "the final weather-type, and the final word",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn32.56/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-32.55.html">SN 32.55 &middot; Gods of the Stormy '
+        "Thunderclouds</a> &mdash; the previous discourse, applying "
+        "this same structure to storms.",
+        '<a href="sn-32.57.html">SN 32.57 &middot; Gods of the Rainy '
+        "Thunderclouds</a> &mdash; the next and final discourse, "
+        "closing this entire saṃyutta.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 32.57 — Vassavalāhakasutta
+# --------------------------------------------------------------------------- #
+page(
+    32, 57, "Vassavalāhaka", "Gods of the Rainy Thunderclouds",
+    vagga="Valāhakavagga",
+    meta_title="SN 32.57 — Gods of the Rainy Thunderclouds | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vassavalāhakasutta &mdash; the Buddha explains why it "
+        "sometimes rains, closing this five-discourse arc and "
+        "Valāhakasaṃyutta itself with its own translated colophon. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "A mendicant questions the Buddha directly"),
+        ("Form", "Identical in structure to SN 32.53&ndash;56, closing "
+                 "with this saṃyutta's own translated colophon"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and playful, easy to follow"),
+    ],
+    why=(
+        "This discourse closes both SN 32.53&ndash;57's own five-part "
+        "set and Valāhakasaṃyutta itself, applying the identical "
+        "template one final time to rain: the rainy thundercloud "
+        "gods wish to revel in their own kind of enjoyment, and the "
+        "heavens rain down. Because Valāhakasaṃyutta consists of "
+        "exactly one vagga (Valāhakavagga), this discourse's own "
+        "closing material carries both the untranslated vagga "
+        "colophon and the saṃyutta's own officially translated "
+        "closing line."
+    ),
+    guide=[
+        ("A fifth and final confirmation of the same template", [
+            "Rainy weather (vassa) receives the identical treatment "
+            "already given to cool, warm, stormy, and windy weather "
+            "&mdash; the same gods'-own-wish causal chain, completing "
+            "this project's fifth and final application of this "
+            "closing arc's shared template.",
+        ]),
+        ("Rain, this saṃyutta's own most consequential weather", [
+            "Of the five weather-types this saṃyutta names, rain is "
+            "arguably the most practically significant for daily "
+            "life &mdash; yet it receives no more elaborate treatment "
+            "than coolness or wind, closing this saṃyutta's arc on a "
+            "note of consistent, deliberate understatement.",
+        ]),
+        ("A vagga colophon coinciding with a saṃyutta colophon", [
+            "As at SN 29's, SN 30's, and SN 31's own closing files, "
+            "because Valāhakasaṃyutta consists of exactly one vagga "
+            "(Valāhakavagga), the untranslated Pāli line "
+            "\"Valāhakavaggo paṭhamo\" and the saṃyutta's own close "
+            "both fall at this same discourse.",
+        ]),
+        ("An officially translated closing line", [
+            "This discourse's final line &mdash; \"the Linked "
+            "Discourses on gods of the clouds are complete\" &mdash; "
+            "is genuinely translated by Sujato and quoted here "
+            "verbatim, the same kind of officially rendered closing "
+            "line this project has already collected at the end of "
+            "several earlier saṃyuttas.",
+        ]),
+        ("Closing this saṃyutta's own three-part structure", [
+            "With this discourse, Valāhakasaṃyutta's full arc is "
+            "complete: bare taxonomy and hearsay-driven aspiration "
+            "(SN 32.1&ndash;2), the standard ten-item giving formula "
+            "(SN 32.3&ndash;52), and this saṃyutta's own genuinely "
+            "distinct closing arc explaining weather's own "
+            "present-tense cause (SN 32.53&ndash;57) &mdash; a "
+            "structure that shares its opening two registers with "
+            "earlier saṃyuttas but adds a third, wholly its own.",
+        ]),
+    ],
+    terms=[
+        ("vassavalāhaka", "rainy thundercloud gods &mdash; the "
+                           "subject of this closing discourse"),
+        ("sakāya ratiyā", "\"our own kind of enjoyment\" &mdash; "
+                           "identical phrasing across this entire "
+                           "closing set, given here for the fifth and "
+                           "final time"),
+        ("Valāhakavaggo paṭhamo", "\"Valāhakavagga, the first, "
+                                   "finished\" &mdash; the untranslated "
+                                   "vagga colophon, coinciding here "
+                                   "with the saṃyutta's own close"),
+        ("Valāhakasaṁyuttaṁ samattaṁ", "\"the Linked Discourses on "
+                                        "gods of the clouds are "
+                                        "complete\" &mdash; this "
+                                        "saṃyutta's own officially "
+                                        "Sujato-translated closing "
+                                        "line, quoted verbatim in the "
+                                        "text below"),
+        ("hetu", "cause &mdash; the mendicant's own opening word, "
+                  "unchanged across all five discourses of this "
+                  "closing set"),
+    ],
+    text_intro=("The complete discourse, including this saṃyutta's "
+        "own closing line. The untranslated vagga colophon and "
+        "uddāna verse are described above rather than quoted, since "
+        "the source itself leaves them untranslated. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn32.57:1.1-1.7"),
+        ("p", "&sect;2", "sn32.57:2.5"),
+    ],
+    quiz=[
+        {"q": "What weather phenomenon does this discourse explain?",
+         "opts": ["Why it sometimes rains", "Why it sometimes becomes cool", "Why it sometimes becomes windy",
+                  "Why it sometimes becomes stormy"],
+         "correct": 0,
+         "expl": "The fifth and final application of this closing arc's shared template."},
+        {"q": "Does rain, arguably the most practically significant of the five weather-types, receive more elaborate treatment than the others?",
+         "opts": ["No — it closes this saṃyutta's arc on a note of consistent, deliberate understatement",
+                  "Yes, it receives a significantly longer and more detailed treatment", "Yes, rain is attributed to a different cause entirely",
+                  "No explanation is offered for rain at all"],
+         "correct": 0,
+         "expl": "The same brevity and whimsical cause as coolness or wind."},
+        {"q": "Why do a vagga colophon and a saṃyutta colophon coincide in this discourse?",
+         "opts": ["Because Valāhakasaṃyutta consists of exactly one vagga (Valāhakavagga)",
+                  "Because this discourse spans two different saṃyuttas", "Because the source made an error",
+                  "Because this saṃyutta has no vagga structure at all"],
+         "correct": 0,
+         "expl": "The same structural coincidence already seen closing SN 29, SN 30, and SN 31."},
+        {"q": "What does the officially translated closing line of this saṃyutta say?",
+         "opts": ["\"The Linked Discourses on gods of the clouds are complete\"",
+                  "\"The eighteen expositions are finished\"", "No closing line is translated in the source",
+                  "\"The five weather-types are now exhausted\""],
+         "correct": 0,
+         "expl": "Genuinely translated by Sujato, quoted verbatim in this page's text."},
+        {"q": "What three-part structure does Valāhakasaṃyutta's full arc show, according to this reading guide?",
+         "opts": ["Taxonomy and hearsay, the standard giving formula, and a genuinely distinct closing arc on weather's own cause",
+                  "Only the standard giving formula, repeated three times", "Only taxonomy, with no giving or closing arc at all",
+                  "A structure identical in every respect to SN 29's own"],
+         "correct": 0,
+         "expl": "Sharing its opening two registers with earlier saṃyuttas but adding a third, wholly its own."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("A fifth and final confirmation", [
+            "rain, the same template &mdash;",
+            "closing this five-part closing set",
+        ]),
+        ("The most consequential weather, no special treatment", [
+            "rain matters most practically &mdash;",
+            "yet gets the same brief, whimsical cause",
+        ]),
+        ("Two colophons, one discourse", [
+            "Valāhakavaggo paṭhamo &mdash;",
+            "vagga and saṃyutta, closing together",
+        ]),
+        ("A closing line genuinely translated", [
+            "\"the Linked Discourses on gods of the clouds are complete\" &mdash;",
+            "Sujato's own words, quoted verbatim",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn32.57/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-32.56.html">SN 32.56 &middot; Gods of the Windy '
+        "Thunderclouds</a> &mdash; the previous discourse, applying "
+        "this same structure to wind.",
+        '<a href="sn-32.1.html">SN 32.1 &middot; Plain Version</a> '
+        "&mdash; this saṃyutta's own opening discourse, whose "
+        "fivefold weather-type taxonomy every later discourse, "
+        "including this closing one, ultimately builds on.",
+    ],
+)
