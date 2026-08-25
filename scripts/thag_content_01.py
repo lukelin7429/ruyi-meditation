@@ -51914,3 +51914,559 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Book of the Sixteens (numbered Thag 15 — no Book of the Fifteens exists)
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# Thag 15.1 — Koṇḍañña Who Understood
+# --------------------------------------------------------------------------- #
+page(
+    15, 1, "Aññāsiko&#7751;&#7693;a&ntilde;&ntilde;a", "Ko&#7751;&#7693;a&ntilde;&ntilde;a Who Understood",
+    meta_title="Thag 15.1 — Koṇḍañña Who Understood | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Koṇḍañña Who Understood's verse &mdash; the very first "
+        "person to grasp the Buddha's teaching, at the first sermon, "
+        "already named foremost in long standing on this site's own "
+        "AN 1.188&ndash;197, with a verse of Vaṅgīsa's own praise "
+        "embedded inside his poem. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sixteens &middot; Chapter One &middot; Poem 1 of 2",
+    glance=[
+        ("Setting", "General reflection, opening with a memory of "
+                    "the first sermon"),
+        ("Speaker", "Koṇḍañña, with one verse of another elder's "
+                    "praise embedded within his own poem"),
+        ("Form", "Sixteen verses, several abbreviated in the Pali "
+                 "source"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, unusually significant "
+                       "historical standing"),
+    ],
+    why=(
+        "&lsquo;My confidence grew as I heard the teaching, so full "
+        "of flavor. Dispassion is what was taught, without any "
+        "grasping at all&rsquo; &mdash; Koṇḍañña opens, recalling "
+        "the very moment that made him the first person in history "
+        "to understand the Buddha's teaching, at the first sermon. "
+        "His epithet, &lsquo;Aññāsi&rsquo;, &lsquo;he "
+        "understood&rsquo;, commemorates the Buddha's own exclamation "
+        "on witnessing it."),
+    guide=[
+        ("A book number that skips a size, and the reason why", [
+            "This site's file and citation numbering continues "
+            "sequentially from Book 14 to Book 15, but this book's "
+            "actual name is &lsquo;Soḷasakanipāta&rsquo;, the Book of "
+            "the Sixteens: no elder in this collection happens to "
+            "have exactly fifteen verses attributed to them, so the "
+            "traditional numbering of nipātas by book-count simply "
+            "has no fifteenth size to name &mdash; it moves directly "
+            "from fourteen-verse poems to sixteen-verse ones, while "
+            "this site's own sequential citation (following "
+            "SuttaCentral's own file numbering) still calls this "
+            "&lsquo;Thag 15&rsquo;. This reading guide flags the "
+            "mismatch directly rather than silently calling it "
+            "&lsquo;the Book of the Fifteens&rsquo;, which would "
+            "misdescribe its actual verse count."]),
+        ("The first person in history to understand", [
+            "Koṇḍañña's own epithet, &lsquo;Aññāsi&rsquo;, "
+            "&lsquo;he understood&rsquo;, commemorates the exact "
+            "moment the Buddha exclaimed over him at the first "
+            "sermon &mdash; already documented on this site's own "
+            "<a href=\"../anguttara-nikaya/an-1.188-197.html\">AN "
+            "1.188&ndash;197</a>, which names &lsquo;Koṇḍañña Who "
+            "Understood&rsquo; as &lsquo;foremost in long "
+            "standing&rsquo;, &lsquo;the first of the five ascetics "
+            "to grasp the first teaching&rsquo;. This poem's opening "
+            "verse, &lsquo;my confidence grew as I heard the "
+            "teaching&rsquo;, is very plausibly a direct memory of "
+            "that founding event."]),
+        ("A triad on impermanence, suffering, and non-self", [
+            "The fourth through sixth verses form a tight formulaic "
+            "triad, each identical but for a single opening word: "
+            "&lsquo;all conditions are impermanent&rsquo;, "
+            "&lsquo;all conditions are suffering&rsquo;, &lsquo;all "
+            "things are not-self&rsquo;, each closing &lsquo;when "
+            "this is seen with wisdom, one grows disillusioned with "
+            "suffering: this is the path to purity&rsquo;. The three "
+            "characteristics (tilakkhaṇa) of existence, run through "
+            "in sequence as a single formula rather than treated "
+            "separately."]),
+        ("Another elder's praise, embedded inside his own poem", [
+            "The seventh verse abruptly shifts into third person: "
+            "&lsquo;the senior monk awakened after the Buddha, "
+            "Koṇḍañña, is keenly energetic&rsquo;. Sujato's comment "
+            "identifies this verse's first two lines as words "
+            "originally spoken by Vaṅgīsa about Koṇḍañña, already "
+            "found on this site's own "
+            "<a href=\"../samyutta-nikaya/sn-8.9.html\">SN 8.9, With "
+            "Koṇḍañña</a>, and also preserved in Vaṅgīsa's own much "
+            "later verses (Thag 21.1, not yet reached in this "
+            "collection). Someone else's praise, spoken on a "
+            "separate occasion, has been folded directly into what "
+            "otherwise reads as Koṇḍañña's own first-person "
+            "testimony."]),
+        ("An elephant at the head of battle, enduring mosquitoes", [
+            "The twelfth verse's image is memorably homely rather "
+            "than grand: pestered by flies and mosquitoes in the "
+            "wilderness, &lsquo;one should mindfully endure, like an "
+            "elephant at the head of the battle&rsquo; &mdash; the "
+            "same register as the eleventh verse's unglamorous "
+            "physical description, &lsquo;knobbly knees, thin and "
+            "veiny&rsquo;, &lsquo;this person's spirit is "
+            "undaunted&rsquo;."]),
+        ("This collection's most repeated closing sequence, extended further", [
+            "Verses thirteen and fourteen reproduce the "
+            "&lsquo;worker waiting for their wages&rsquo; closing "
+            "couplet-pair already found in full at Thag 11.1 "
+            "(Saṅkicca) and Thag 14.1 (Revata), abbreviated here with "
+            "peyyāla &mdash; the third instance of this specific "
+            "Pali-source shorthand in this collection, after Thag 7.1 "
+            "and Thag 14.1. The fifteenth verse then abbreviates a "
+            "further shared formula, &lsquo;the heavy burden is laid "
+            "down, the leash to existence is eradicated&rsquo;, "
+            "which appeared written out in full in both Thag 11.1 and "
+            "Thag 14.1 &mdash; the first time this particular "
+            "sub-formula has itself been abbreviated rather than "
+            "spelled out."]),
+        ("A closing line unlike any other in this collection", [
+            "Rather than this collection's more common "
+            "&lsquo;sabbasaṁyojanakkhayo&rsquo;, &lsquo;the ending of "
+            "all fetters&rsquo;, this poem's final line asks a "
+            "pointed rhetorical question: &lsquo;kiṁ me "
+            "saddhivihārinā&rsquo;, &lsquo;what use do I have for "
+            "protégés?&rsquo; &mdash; a senior, foundational figure "
+            "declining even the role of teacher to resident students, "
+            "closing on solitary disposition rather than "
+            "communal standing."]),
+    ],
+    terms=[
+        ("Aññāsi",
+         "&ldquo;he understood&rdquo; &mdash; the epithet "
+         "commemorating the Buddha's own exclamation when Koṇḍañña "
+         "grasped the first teaching."),
+        ("sabbe sa&#7749;khārā aniccāti",
+         "&ldquo;all conditions are impermanent&rdquo; &mdash; the "
+         "first of the three-characteristics triad in verses four "
+         "through six."),
+        ("Buddhānubuddho",
+         "&ldquo;awakened after the Buddha&rdquo; &mdash; the "
+         "opening phrase of Vaṅgīsa's praise, embedded as this "
+         "poem's seventh verse."),
+        ("nāgo saṅgāmasīseva",
+         "&ldquo;like an elephant at the head of the battle&rdquo; "
+         "&mdash; the image for enduring hardship in the "
+         "wilderness."),
+        ("kiṁ me saddhivihārinā",
+         "&ldquo;what use do I have for protégés?&rdquo; &mdash; "
+         "this poem's distinctive closing line, unlike any other "
+         "closing formula in this collection."),
+    ],
+    text_intro=(
+        "The text in full: sixteen verses, several abbreviated in "
+        "the Pali source, with no separate attribution line in this "
+        "chapter. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag15.1:1.1-1.4"),
+        ("p", "&sect;2", "thag15.1:2.1-2.4"),
+        ("p", "&sect;3", "thag15.1:3.1-3.4"),
+        ("p", "&sect;4", "thag15.1:4.1-4.4"),
+        ("p", "&sect;5", "thag15.1:5.1-5.4"),
+        ("p", "&sect;6", "thag15.1:6.1-6.4"),
+        ("p", "&sect;7", "thag15.1:7.1-7.4"),
+        ("p", "&sect;8", "thag15.1:8.1-8.6"),
+        ("p", "&sect;9", "thag15.1:9.1-9.4"),
+        ("p", "&sect;10", "thag15.1:10.1-10.4"),
+        ("p", "&sect;11", "thag15.1:11.1-11.4"),
+        ("p", "&sect;12", "thag15.1:12.1-12.4"),
+        ("p", "&sect;13", "thag15.1:13.1-13.4"),
+        ("p", "&sect;14", "thag15.1:14.1-14.4"),
+        ("p", "&sect;15", "thag15.1:15.1-15.4"),
+        ("p", "&sect;16", "thag15.1:16.1-16.4"),
+    ],
+    quiz=[
+        {"q": "Why does this book's citation number ('Thag 15') not match its actual name?",
+         "opts": [
+             "No elder in this collection has exactly fifteen attributed verses, so the traditional nipāta sizes skip from fourteen straight to sixteen, while sequential citation continues as 'Thag 15'",
+             "This book was renamed for unknown reasons",
+             "The site made an error in numbering",
+             "A scribal error in the manuscript"],
+         "correct": 0,
+         "expl": "This is actually 'Soḷasakanipāta', the Book of the Sixteens, per its own text."},
+        {"q": "What does Koṇḍañña's own epithet, 'Aññāsi', commemorate?",
+         "opts": [
+             "A place name",
+             "The Buddha's own exclamation when Koṇḍañña became the first person to understand the teaching",
+             "A family name",
+             "A physical description"],
+         "correct": 1,
+         "expl": "Already documented on this site's own AN 1.188–197, which names him 'foremost in long standing.'"},
+        {"q": "What do the fourth through sixth verses form together?",
+         "opts": [
+             "A description of a specific place",
+             "Three unrelated teachings",
+             "A tight formulaic triad on the three characteristics — impermanence, suffering, and non-self",
+             "A dialogue between two speakers"],
+         "correct": 2,
+         "expl": "Each verse identical but for a single opening word, closing on the same refrain."},
+        {"q": "What does Sujato's comment identify about the seventh verse?",
+         "opts": [
+             "It is a later scribal addition with no source",
+             "It contradicts the rest of the poem",
+             "Nothing — there is no comment on this verse",
+             "Its first two lines were originally spoken by Vaṅgīsa about Koṇḍañña, already found on this site's SN 8.9"],
+         "correct": 3,
+         "expl": "Someone else's praise, spoken on a separate occasion, folded directly into Koṇḍañña's own first-person testimony."},
+        {"q": "What image does the twelfth verse use for enduring mosquitoes and flies in the wilderness?",
+         "opts": [
+             "Like an elephant at the head of the battle",
+             "Like a sleeping child",
+             "Like a fleeing deer",
+             "No image is used"],
+         "correct": 0,
+         "expl": "The same homely register as the eleventh verse's unglamorous physical description."},
+        {"q": "What closing sequence do verses thirteen through fifteen reproduce, in abbreviated form?",
+         "opts": [
+             "A sequence unique to this poem",
+             "The 'worker waiting for wages' couplet-pair and the 'heavy burden laid down' formula, already found written out in full in Thag 11.1 and Thag 14.1",
+             "A direct quotation from the Dhammapada",
+             "Nothing — these verses are entirely original"],
+         "correct": 1,
+         "expl": "The third instance in this collection of peyyāla abbreviation, after Thag 7.1 and Thag 14.1."},
+        {"q": "What is new about this poem's use of abbreviation, compared to Thag 11.1 and Thag 14.1?",
+         "opts": [
+             "This poem abbreviates material found nowhere else",
+             "Nothing is different",
+             "The 'heavy burden laid down' formula is itself abbreviated here, where it was spelled out in full in the two earlier poems",
+             "This poem doesn't abbreviate anything"],
+         "correct": 2,
+         "expl": "The first time this particular sub-formula has itself been abbreviated rather than spelled out."},
+        {"q": "What does this poem's final line ask, unlike this collection's more common closing formula?",
+         "opts": [
+             "A request for more teaching",
+             "A description of a future rebirth",
+             "'The ending of all fetters' (sabbasaṁyojanakkhayo), matching most other poems",
+             "'What use do I have for protégés?' — a senior figure declining the role of teacher to resident students"],
+         "correct": 3,
+         "expl": "Closing on solitary disposition rather than communal standing, unlike any other closing formula in this collection."},
+        {"q": "What does the eleventh verse say about Koṇḍañña's physical appearance?",
+         "opts": [
+             "'Knobbly knees, thin and veiny' — yet his spirit is undaunted",
+             "Youthful and unblemished",
+             "No physical description is given",
+             "Strong and imposing"],
+         "correct": 0,
+         "expl": "A vivid, unglamorous image paired with unshaken resolve."},
+        {"q": "What warning does the ninth verse give?",
+         "opts": [
+             "No warning is given",
+             "A haughty, fickle mendicant relying on bad friends sinks in the great flood",
+             "A warning about specific foods",
+             "A warning about a particular season"],
+         "correct": 1,
+         "expl": "'Saṁsīdati mahoghasmiṁ, ūmiyā paṭikujjito.'"},
+    ],
+    marginalia=[
+        ("A number that skips a size", [
+            "no elder has exactly fifteen verses —",
+            "'Thag 15' names the Book of the Sixteens"
+        ]),
+        ("The first to understand, in history", [
+            "'my confidence grew as I heard the teaching' —",
+            "the memory behind his own epithet"
+        ]),
+        ("Another elder's praise, folded in", [
+            "Vaṅgīsa's own words, on a different occasion —",
+            "now sitting inside Koṇḍañña's first-person poem"
+        ]),
+        ("'What use do I have for protégés?'", [
+            "a closing line unlike any other in this collection —",
+            "solitude chosen even at the height of seniority"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag15.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../anguttara-nikaya/an-1.188-197.html">AN '
+        "1.188&ndash;197 &mdash; Foremost Monks (I)</a> &mdash; "
+        "already names Koṇḍañña foremost in long standing.",
+        '<a href="../samyutta-nikaya/sn-8.9.html">SN 8.9 &mdash; With '
+        "Koṇḍañña</a> &mdash; the source of the praise-verse embedded "
+        "in this poem's seventh verse.",
+        '<a href="thag-11.1.html">Thag 11.1 &mdash; Saṅkicca</a> '
+        "&mdash; shares this poem's closing couplet-pair in full, "
+        "written out rather than abbreviated.",
+        '<a href="thag-14.2.html">Thag 14.2 &mdash; Godatta</a> '
+        "&mdash; the closing poem of the book immediately before "
+        "this one.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 15.2 — Udāyī
+# --------------------------------------------------------------------------- #
+page(
+    15, 2, "Ud&amacr;y&imacr;", "Ud&amacr;y&imacr;",
+    meta_title="Thag 15.2 — Udāyī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Udāyī's verse, closing the Book of the Sixteens with an "
+        "extended elephant allegory for the Buddha's own qualities, "
+        "the famous lotus-unstained-by-water simile already told on "
+        "this site's AN 4.36, and the classic fire-going-out image "
+        "for nibbāna. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sixteens &middot; Chapter One &middot; Poem 2 of 2",
+    glance=[
+        ("Setting", "Sustained third-person praise of the Buddha, "
+                    "closing this book's single chapter"),
+        ("Speaker", "Udāyī, describing the Buddha entirely in the "
+                    "third person"),
+        ("Form", "Sixteen four-line verses, built almost entirely "
+                 "from extended similes"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, an unusually elaborate "
+                       "extended metaphor"),
+    ],
+    why=(
+        "&lsquo;I shall extol the giant for you, for he does nothing "
+        "monstrous&rsquo; &mdash; Udāyī's poem contains no "
+        "autobiographical content at all, unlike almost every other "
+        "poem in this collection. Instead, across sixteen verses, it "
+        "maps the Buddha's own qualities onto the body of an "
+        "elephant, part by part, before closing on the lotus and "
+        "fire similes already told on this site elsewhere."),
+    guide=[
+        ("A poem with no first-person testimony at all", [
+            "Unlike nearly every other poem in this collection, "
+            "Udāyī's verse contains no account of his own crisis, "
+            "ordination, or attainment. Every verse describes the "
+            "Buddha in the third person; the speaker's own experience "
+            "never enters the poem directly, a structural choice "
+            "shared with relatively few other poems here (among them "
+            "Thag 10.5, Kappa's pure body-contemplation poem, though "
+            "there the subject is the body rather than a specific "
+            "person)."]),
+        ("An elephant's body, mapped onto spiritual qualities part by part", [
+            "Verses five through nine build the poem's central "
+            "conceit in careful anatomical sequence: gentleness and "
+            "harmlessness as the elephant's two front feet, "
+            "mindfulness and awareness as its two hind feet, faith as "
+            "its trunk, equanimity as its white tusks, mindfulness "
+            "again as its neck, wisdom as its head, investigation and "
+            "reflection on principles, the Dhamma as its belly "
+            "&mdash; &lsquo;the sacred hearth&rsquo; &mdash; and "
+            "seclusion as its tail. Few extended metaphors anywhere "
+            "in this collection sustain this much specific, "
+            "part-by-part correspondence."]),
+        ("A great giant among all things called giant", [
+            "The fourth verse plays on nāga's double meaning "
+            "&mdash; elephant, and more broadly anything of towering "
+            "size or stature: &lsquo;that giant outshines all, like "
+            "the Himalaya beside other mountains. Of all those named "
+            "&ldquo;giant&rdquo;, he is truly named, supreme&rsquo;. "
+            "The word itself becomes an argument: many things are "
+            "called nāga, but only one deserves the name without "
+            "qualification."]),
+        ("The lotus unstained by water, already told on this site", [
+            "The twelfth and thirteenth verses give one of early "
+            "Buddhism's best-known images: &lsquo;a white lotus... "
+            "sprouts in water and grows there, but the water doesn't "
+            "cling to it. Just so the Buddha is born in the world, "
+            "and lives in the world, but the world doesn't stick to "
+            "him&rsquo;. This site's own "
+            "<a href=\"../anguttara-nikaya/an-4.36.html\">AN 4.36, "
+            "Doṇa</a>, already gives this identical simile in the "
+            "Buddha's own words, describing himself directly rather "
+            "than being described by a disciple."]),
+        ("Fire going out for lack of fuel: the classic image for nibbāna", [
+            "The fourteenth verse gives the equally well-known "
+            "complementary image: &lsquo;a great blazing fire dies "
+            "down when the fuel runs out. And when the coals have "
+            "gone out it's said to be &ldquo;quenched&rdquo;&rsquo; "
+            "&mdash; not extinguished by force, but settling "
+            "naturally once nothing remains to sustain it, the root "
+            "sense of nibbāna itself."]),
+        ("Closing the Book of the Sixteens, an eighth consecutive tally", [
+            "This single-chapter book closes, like every book since "
+            "the Threes, moving directly from Udāyī's own self-naming "
+            "to &lsquo;Soḷasakanipāto niṭṭhito&rsquo;, &lsquo;the "
+            "Book of the Sixteens is concluded&rsquo;, with no "
+            "separate chapter marker. The Tatruddāna names both "
+            "elders &mdash; Koṇḍañña and Udāyī &mdash; under the "
+            "identical collective epithet already used to close "
+            "Books 12 and 14: &lsquo;therā dve te mahiddhikā&rsquo;. "
+            "The stated tally, &lsquo;thirty-two verses&rsquo;, "
+            "matches two poems of sixteen verses each exactly, an "
+            "eighth consecutive book with a closing count that adds "
+            "up cleanly."]),
+    ],
+    terms=[
+        ("nāga",
+         "&ldquo;giant&rdquo;, &ldquo;elephant&rdquo; &mdash; the "
+         "poem's central image, used both literally and as an "
+         "honorific for towering spiritual stature."),
+        ("soraccaṁ avihiṁsā ca",
+         "&ldquo;gentleness and harmlessness&rdquo; &mdash; the "
+         "elephant's two front feet, in the poem's extended "
+         "allegory."),
+        ("dhammakucchisamāvāso",
+         "&ldquo;the sacred hearth of the Dhamma&rdquo; &mdash; the "
+         "elephant's belly, in the same extended allegory."),
+        ("Nopalippati toyena",
+         "&ldquo;the water doesn't cling to it&rdquo; &mdash; the "
+         "lotus simile, matching this site's own AN 4.36."),
+        ("nibbutoti pavuccati",
+         "&ldquo;it's said to be &lsquo;quenched&rsquo;&rdquo; "
+         "&mdash; the fire simile for nibbāna, closing the fourteenth "
+         "verse."),
+    ],
+    text_intro=(
+        "The text in full: sixteen verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag15.2:1.1-1.4"),
+        ("p", "&sect;2", "thag15.2:2.1-2.4"),
+        ("p", "&sect;3", "thag15.2:3.1-3.4"),
+        ("p", "&sect;4", "thag15.2:4.1-4.4"),
+        ("p", "&sect;5", "thag15.2:5.1-5.4"),
+        ("p", "&sect;6", "thag15.2:6.1-6.4"),
+        ("p", "&sect;7", "thag15.2:7.1-7.4"),
+        ("p", "&sect;8", "thag15.2:8.1-8.4"),
+        ("p", "&sect;9", "thag15.2:9.1-9.4"),
+        ("p", "&sect;10", "thag15.2:10.1-10.4"),
+        ("p", "&sect;11", "thag15.2:11.1-11.4"),
+        ("p", "&sect;12", "thag15.2:12.1-12.4"),
+        ("p", "&sect;13", "thag15.2:13.1-13.4"),
+        ("p", "&sect;14", "thag15.2:14.1-14.4"),
+        ("p", "&sect;15", "thag15.2:15.1-15.4"),
+        ("p", "&sect;16", "thag15.2:16.1-16.4"),
+    ],
+    quiz=[
+        {"q": "How does this poem differ structurally from nearly every other poem in this collection?",
+         "opts": [
+             "It describes a specific charnel-ground scene",
+             "It contains no first-person testimony at all — every verse describes the Buddha in the third person",
+             "It is the only poem written as a dialogue",
+             "It is the only poem with a narrative frame"],
+         "correct": 1,
+         "expl": "The speaker's own experience never enters the poem directly."},
+        {"q": "What extended conceit do verses five through nine build?",
+         "opts": [
+             "A list of monastic rules",
+             "A description of a specific building",
+             "The Buddha's qualities mapped onto an elephant's body, part by part",
+             "A genealogy of past Buddhas"],
+         "correct": 2,
+         "expl": "Gentleness and harmlessness as feet, faith as trunk, equanimity as tusks, wisdom as head, seclusion as tail."},
+        {"q": "What does the fourth verse's wordplay on 'nāga' argue?",
+         "opts": [
+             "That elephants are dangerous and should be avoided",
+             "Nothing — the verse is purely descriptive",
+             "That the word has no special meaning",
+             "That many things are called 'giant', but only the Buddha deserves the name without qualification"],
+         "correct": 3,
+         "expl": "'Sabbesaṁ nāganāmānaṁ, saccanāmo anuttaro.'"},
+        {"q": "What simile do the twelfth and thirteenth verses give?",
+         "opts": [
+             "A lotus growing in water, untouched by the water that surrounds it, just as the Buddha lives in the world unstained by it",
+             "A river reaching the sea",
+             "A bird building a nest",
+             "A mountain unmoved by storms"],
+         "correct": 0,
+         "expl": "Already told in the Buddha's own words on this site's AN 4.36, Doṇa."},
+        {"q": "Where is this same lotus simile already found on this site?",
+         "opts": [
+             "Nowhere else on this site",
+             "AN 4.36, Doṇa — there spoken by the Buddha about himself directly",
+             "Only in the Dhammapada",
+             "Only in the Vinaya"],
+         "correct": 1,
+         "expl": "This poem gives it from a disciple's perspective; AN 4.36 gives it in the Buddha's own words."},
+        {"q": "What image does the fourteenth verse use for nibbāna?",
+         "opts": [
+             "A tree being cut down",
+             "A river drying up",
+             "A great fire dying down naturally when its fuel runs out, called 'quenched' once the coals go out",
+             "A door closing"],
+         "correct": 2,
+         "expl": "Not extinguished by force, but settling naturally — the root sense of nibbāna itself."},
+        {"q": "What does the fifteenth verse say about who will understand this simile?",
+         "opts": [
+             "Only the Buddha himself understands it",
+             "It requires no understanding at all",
+             "No one will ever understand it",
+             "'Great giants will understand what the giant taught the giant' — those of similarly towering understanding"],
+         "correct": 3,
+         "expl": "'Viññissanti mahānāgā, nāgaṁ nāgena desitaṁ.'"},
+        {"q": "What marks this book's transition from Udāyī's own poem to the book's close?",
+         "opts": [
+             "No separate chapter marker — moving directly to 'the Book of the Sixteens is concluded'",
+             "Another full poem inserted before the close",
+             "No closing marker at all",
+             "A separate chapter-closing marker"],
+         "correct": 0,
+         "expl": "Matching the pattern established in every single-chapter book since the Threes."},
+        {"q": "What epithet does the closing uddāna give both elders of this book?",
+         "opts": [
+             "'Ekova', 'alone', for both",
+             "'Therā dve te mahiddhikā' — the same collective epithet already used to close Books 12 and 14",
+             "Two entirely different epithets",
+             "No epithet at all"],
+         "correct": 1,
+         "expl": "The identical exact phrase recurring across three non-adjacent books now."},
+        {"q": "What is the running total of poems completed on this site after this poem, out of 264?",
+         "opts": [
+             "243 of 264",
+             "245 of 264",
+             "247 of 264",
+             "264 of 264 — the collection is complete"],
+         "correct": 2,
+         "expl": "245 + 2 poems in this book."},
+    ],
+    marginalia=[
+        ("A poem with no story of its own", [
+            "every verse turned outward, toward the Buddha —",
+            "the speaker's own experience never entering it"
+        ]),
+        ("An elephant's whole body, mapped in turn", [
+            "feet, trunk, tusks, head, tail —",
+            "an unusually sustained extended metaphor"
+        ]),
+        ("A lotus, untouched by its own water", [
+            "already told in the Buddha's own words elsewhere on this site —",
+            "here given from a disciple's view"
+        ]),
+        ("A fire that simply runs out of fuel", [
+            "not forced out, but naturally quenched —",
+            "the root image behind the word itself"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag15.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../anguttara-nikaya/an-4.36.html">AN 4.36 &mdash; '
+        "Doṇa</a> &mdash; the same lotus simile, spoken there by the "
+        "Buddha about himself.",
+        '<a href="thag-15.1.html">Thag 15.1 &mdash; Koṇḍañña Who '
+        "Understood</a> &mdash; the poem immediately before this "
+        "one, in the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
