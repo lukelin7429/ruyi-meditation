@@ -51123,3 +51123,274 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Book of the Thirteens
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# Thag 13.1 — Soṇakoḷivisa
+# --------------------------------------------------------------------------- #
+page(
+    13, 1, "So&#7751;ako&#7789;ivisa", "So&#7751;ako&#7789;ivisa",
+    meta_title="Thag 13.1 — Soṇakoḷivisa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Soṇakoḷivisa's verse &mdash; the entire Book of the "
+        "Thirteens in a single poem, telling the famous story behind "
+        "the Buddha's harp-string simile for balanced effort, "
+        "already told in this site's own AN 6.55. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Thirteens &middot; Chapter One &middot; Poem 1 of 1",
+    glance=[
+        ("Setting", "A shift from worldly eminence to spiritual "
+                    "attainment, then a specific teaching episode"),
+        ("Speaker", "Soṇakoḷivisa, the entire content of this book"),
+        ("Form", "Thirteen four-line verses, the seventh recounting "
+                 "a specific teaching from the Buddha"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "dense doctrinal vocabulary, one well-known "
+                       "narrative episode"),
+    ],
+    why=(
+        "&lsquo;He who was special in the kingdom, the footman to "
+        "the king of Aṅga, today is special in the Dhamma &mdash; "
+        "Soṇa has gone beyond suffering,&rsquo; the poem opens, "
+        "before its seventh verse recounts one of early Buddhism's "
+        "best-known teaching moments: &lsquo;when my energy was "
+        "over-exerted, the supreme Teacher... created the simile of "
+        "the arched harp for me&rsquo; &mdash; the same episode "
+        "already told in prose on this site's own AN 6.55."),
+    guide=[
+        ("An eminence transferred, not simply abandoned", [
+            "The opening verse doesn't describe Soṇakoḷivisa's "
+            "worldly standing as something discarded for spiritual "
+            "life; it transfers the very same word, "
+            "&lsquo;ukkaṭṭho&rsquo;, &lsquo;special&rsquo; or "
+            "&lsquo;eminent&rsquo;, from his former royal service to "
+            "his present standing in the Dhamma. The poem's opening "
+            "move is a rhyme of status, not a renunciation of it."]),
+        ("A whole earlier poem quoted as a single verse", [
+            "The second verse &mdash; &lsquo;five to cut, five to "
+            "drop, and five more to develop... when a mendicant "
+            "slips five chains, they're said to have crossed the "
+            "flood&rsquo; &mdash; is not paraphrase but exact "
+            "quotation: this is the entire text of this site's own "
+            "Thag 1.15 (Kuṇḍadhāna), a single-verse poem in the Book "
+            "of the Ones, incorporated here word for word as this "
+            "poem's own second verse. The same formulaic couplet also "
+            "opens this site's SN 1.5, Cut How Many?, where a deity "
+            "poses the riddle this verse answers."]),
+        ("The famous harp-string episode, told from inside", [
+            "The seventh verse recounts, in first person, the "
+            "teaching moment this elder is best remembered for: over "
+            "-exerting himself in effort, he was taught through "
+            "&lsquo;the simile of the arched harp&rsquo; &mdash; a "
+            "string too taut or too slack producing no good sound, "
+            "just as spiritual effort too intense or too lax fails to "
+            "produce results. This site's own "
+            "<a href=\"../anguttara-nikaya/an-6.55.html\">AN 6.55, "
+            "With Soṇa</a>, already tells this same episode in full "
+            "prose narrative; this poem gives its aftermath from the "
+            "elder's own first-person perspective in four brief "
+            "lines, where the prose account gives the teaching itself "
+            "at length."]),
+        ("A structural pivot from narrative to sustained doctrine", [
+            "After the seventh and eighth verses complete Soṇakoḷivisa's "
+            "own story (the harp-string teaching, then the standard "
+            "attainment formula), the poem's final five verses shift "
+            "register entirely, addressing the reader directly in "
+            "second person &mdash; &lsquo;when you're dedicated to "
+            "renunciation... your mind is rightly freed&rsquo; "
+            "&mdash; before returning to third-person description "
+            "for its closing images. A single poem moves through "
+            "first-person narrative, second-person address, and "
+            "third-person description in succession."]),
+        ("A solid rock, unmoved by wind: the poem's closing image", [
+            "The twelfth and thirteenth verses close on a sustained "
+            "simile: just as wind cannot stir &lsquo;a solid mass of "
+            "rock&rsquo;, so sights, tastes, sounds, smells, touches, "
+            "and ideas &mdash; liked or disliked alike &mdash; "
+            "&lsquo;don't disturb the unaffected one&rsquo;, whose "
+            "&lsquo;mind is steady and unfettered as they observe "
+            "fall&rsquo;. This final stillness closes a poem that "
+            "began with a string tuned to exactly the right "
+            "tension."]),
+        ("Closing the Book of the Thirteens, a sixth exact tally", [
+            "This single-chapter book moves directly from "
+            "Soṇakoḷivisa's own self-naming to &lsquo;Terasanipāto "
+            "niṭṭhito&rsquo;, &lsquo;the Book of the Thirteens is "
+            "concluded&rsquo;, with no separate chapter marker. The "
+            "Tatruddāna gives &lsquo;ekoyeva mahiddhiko&rsquo;, "
+            "&lsquo;the only one, of great psychic power&rsquo; "
+            "&mdash; echoing the same &lsquo;mahiddhika&rsquo; "
+            "epithet already given collectively in Thag 12's closing "
+            "uddāna. The stated tally, &lsquo;thirteen verses&rsquo;, "
+            "matches this single thirteen-verse poem exactly, a "
+            "sixth consecutive book (after the Sixes through Twelves) "
+            "with a closing count that adds up cleanly."]),
+    ],
+    terms=[
+        ("ukka&#7789;&#7789;ho",
+         "&ldquo;special&rdquo;, &ldquo;eminent&rdquo; &mdash; the "
+         "word transferred from worldly to spiritual standing across "
+         "the opening verse."),
+        ("pañca chinde pañca jahe",
+         "&ldquo;five to cut, five to drop&rdquo; &mdash; the exact "
+         "text of this site's own Thag 1.15, quoted whole as this "
+         "poem's second verse."),
+        ("vīṇopamaṁ",
+         "&ldquo;the simile of the arched harp&rdquo; &mdash; the "
+         "Buddha's teaching on balanced effort, already narrated in "
+         "full on this site's AN 6.55."),
+        ("selo yathā ekagghano",
+         "&ldquo;as a solid mass of rock&rdquo; &mdash; the closing "
+         "simile for a mind unmoved by any sense experience."),
+        ("vayañcassānupassati",
+         "&ldquo;as they observe fall&rdquo; &mdash; the poem's "
+         "final image of steady, unfettered awareness."),
+    ],
+    text_intro=(
+        "The text in full: thirteen verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag13.1:1.1-1.4"),
+        ("p", "&sect;2", "thag13.1:2.1-2.4"),
+        ("p", "&sect;3", "thag13.1:3.1-3.4"),
+        ("p", "&sect;4", "thag13.1:4.1-4.4"),
+        ("p", "&sect;5", "thag13.1:5.1-5.6"),
+        ("p", "&sect;6", "thag13.1:6.1-6.4"),
+        ("p", "&sect;7", "thag13.1:7.1-7.6"),
+        ("p", "&sect;8", "thag13.1:8.1-8.4"),
+        ("p", "&sect;9", "thag13.1:9.1-9.4"),
+        ("p", "&sect;10", "thag13.1:10.1-10.4"),
+        ("p", "&sect;11", "thag13.1:11.1-11.4"),
+        ("p", "&sect;12", "thag13.1:12.1-12.4"),
+        ("p", "&sect;13", "thag13.1:13.1-13.4"),
+    ],
+    quiz=[
+        {"q": "What was Soṇakoḷivisa's status before going forth, per the opening verse?",
+         "opts": [
+             "An unknown commoner",
+             "Special/eminent in the kingdom, footman to the king of Aṅga",
+             "A foreign merchant",
+             "A wandering ascetic already"],
+         "correct": 0,
+         "expl": "The poem transfers the same word for eminence to his new standing in the Dhamma, rather than framing it as renunciation."},
+        {"q": "What is this poem's second verse?",
+         "opts": [
+             "An original composition unique to this poem",
+             "The exact text of this site's own Thag 1.15 (Kuṇḍadhāna), quoted whole",
+             "A direct quotation from the Buddha's biography",
+             "A description of a specific meal"],
+         "correct": 1,
+         "expl": "'Five to cut, five to drop, and five more to develop' — also opening this site's SN 1.5."},
+        {"q": "What episode does the seventh verse recount?",
+         "opts": [
+             "His own ordination ceremony",
+             "His first meeting with his family",
+             "The Buddha teaching him through the simile of the arched harp, after over-exerting his energy",
+             "A dispute with another monk"],
+         "correct": 2,
+         "expl": "Already narrated in full prose on this site's own AN 6.55, With Soṇa."},
+        {"q": "How does this poem's first-person account of the harp-string episode compare to AN 6.55's version?",
+         "opts": [
+             "This poem gives far more detail than AN 6.55",
+             "The two accounts contradict each other",
+             "Identical in every detail and length",
+             "Brief — four lines giving the aftermath, where the prose sutta gives the teaching itself at length"],
+         "correct": 3,
+         "expl": "A first-person compression of an episode told at greater length in prose elsewhere on this site."},
+        {"q": "How does the poem's grammatical voice shift after its narrative section?",
+         "opts": [
+             "It shifts to second-person direct address, before returning to third-person description",
+             "It shifts to third person only, never returning",
+             "The poem is written entirely in questions",
+             "It remains in first person throughout"],
+         "correct": 0,
+         "expl": "First-person narrative, second-person address, then third-person description in succession."},
+        {"q": "What image closes the poem?",
+         "opts": [
+             "A river reaching the sea",
+             "A solid mass of rock, unmoved by wind, just as the unaffected one is undisturbed by any sense experience",
+             "A dying flame",
+             "An empty house"],
+         "correct": 1,
+         "expl": "Closing a poem that began with a string tuned to exactly the right tension."},
+        {"q": "What marks this book's transition from Soṇakoḷivisa's own poem to the book's close?",
+         "opts": [
+             "No closing marker at all",
+             "A separate chapter-closing marker",
+             "No separate chapter marker — moving directly to 'the Book of the Thirteens is concluded'",
+             "Another full poem inserted before the close"],
+         "correct": 2,
+         "expl": "Matching the pattern established in every single-chapter book since the Threes."},
+        {"q": "What epithet does the closing uddāna give Soṇakoḷivisa?",
+         "opts": [
+             "No epithet at all",
+             "'Thero' alone, with no further description",
+             "'Foremost among teachers'",
+             "'The only one, of great psychic power' (ekoyeva mahiddhiko)"],
+         "correct": 3,
+         "expl": "Echoing the same 'mahiddhika' epithet already given collectively in Book 12's closing uddāna."},
+        {"q": "What does this book's closing tally state, and how does it compare to its actual content?",
+         "opts": [
+             "Thirteen verses — matching exactly, since the book is a single thirteen-verse poem",
+             "Twenty verses, a mismatch",
+             "No number is given",
+             "Ten verses, a mismatch"],
+         "correct": 0,
+         "expl": "A sixth consecutive book, after the Sixes through Twelves, with an accurate closing tally."},
+        {"q": "What is the running total of poems completed on this site after this poem, out of 264?",
+         "opts": [
+             "242 of 264",
+             "243 of 264",
+             "264 of 264 — the collection is complete",
+             "239 of 264"],
+         "correct": 1,
+         "expl": "242 + 1 poem in the Book of the Thirteens."},
+    ],
+    marginalia=[
+        ("Eminence, transferred not discarded", [
+            "'special' once at court, 'special' now in the Dhamma —",
+            "the same word, a new object"
+        ]),
+        ("A whole earlier poem, folded in", [
+            "Thag 1.15's entire text, as one verse here —",
+            "also opening this site's SN 1.5"
+        ]),
+        ("The harp string, tuned just right", [
+            "neither too taut nor too slack —",
+            "already told in full in this site's AN 6.55"
+        ]),
+        ("A rock the wind cannot move", [
+            "liked and disliked alike, unable to disturb it —",
+            "closing on stillness, after a story about tension"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag13.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../anguttara-nikaya/an-6.55.html">AN 6.55 &mdash; '
+        "With Soṇa</a> &mdash; the full prose account of the "
+        "harp-string teaching this poem's seventh verse recounts.",
+        '<a href="thag-1.15.html">Thag 1.15 &mdash; Kuṇḍadhāna</a> '
+        "&mdash; whose entire text is quoted whole as this poem's "
+        "second verse.",
+        '<a href="../samyutta-nikaya/sn-1.5.html">SN 1.5 &mdash; Cut '
+        "How Many?</a> &mdash; the same formulaic verse, posed there "
+        "as a deity's riddle.",
+        '<a href="thag-12.2.html">Thag 12.2 &mdash; Sunīta</a> '
+        "&mdash; the closing poem of the book immediately before "
+        "this one.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
