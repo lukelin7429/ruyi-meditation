@@ -49596,3 +49596,1984 @@ page(
         "departs from entirely.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 29.1 — Suddhikasutta
+# --------------------------------------------------------------------------- #
+page(
+    29, 1, "Suddhika", "Plain Version",
+    vagga="Nāgavagga",
+    meta_title="SN 29.1 — Plain Version | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Suddhikasutta &mdash; opening Nāgasaṃyutta with the "
+        "canon's plain fourfold taxonomy of dragon (nāga) birth: "
+        "egg-born, womb-born, moisture-born, and spontaneously born. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A single flat statement naming four modes of "
+                 "reproduction, with no ranking and no narrative frame"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the simplest possible opening, a bare "
+                       "fourfold list"),
+    ],
+    why=(
+        "This discourse opens Nāgasaṃyutta (\"Linked Discourses on "
+        "Dragons\") with the taxonomy every later discourse in this "
+        "fifty-discourse saṃyutta assumes without restating: nāgas, "
+        "like all beings born into the round according to this "
+        "scheme, reproduce in one of four ways &mdash; from an egg "
+        "(aṇḍaja), from a womb (jalābuja), from moisture (saṃsedaja), "
+        "or spontaneously (opapātika). The same fourfold taxonomy "
+        "reappears applied to other beings elsewhere in the canon; "
+        "here it simply sets the terms this entire saṃyutta will "
+        "keep returning to, unranked and undiscussed."
+    ),
+    guide=[
+        ("A bare taxonomy, nothing more", [
+            "\"Dragons are born from eggs, from a womb, from "
+            "moisture, or spontaneously\" &mdash; the discourse "
+            "states the fourfold division and stops, offering no "
+            "ranking, no cause, and no further elaboration.",
+        ]),
+        ("The plain version, named against its own sequel", [
+            "This discourse's own title, Suddhika (\"plain\" or "
+            "\"unmixed\"), only makes sense read against SN 29.2 "
+            "immediately following it: this is the taxonomy given "
+            "flat, before the very next discourse ranks the same "
+            "four modes against one another.",
+        ]),
+        ("A taxonomy the rest of the saṃyutta assumes", [
+            "Every one of the remaining forty-eight discourses in "
+            "Nāgasaṃyutta &mdash; on sabbath-observance, on hearsay-"
+            "driven aspiration, on giving &mdash; takes this fourfold "
+            "division for granted rather than restating it, making "
+            "this short opening discourse this saṃyutta's own "
+            "structural foundation.",
+        ]),
+        ("Nāgas as a category of rebirth destination, not myth", [
+            "The discourse treats dragons matter-of-factly as one "
+            "possible destination of rebirth among others, the same "
+            "register this saṃyutta maintains throughout &mdash; not "
+            "as legendary creatures but as a class of being one "
+            "could, through specific causes explored in the "
+            "discourses that follow, actually be reborn among.",
+        ]),
+    ],
+    terms=[
+        ("nāga", "dragon or serpent-being &mdash; the class of "
+                 "non-human rebirth destination this entire saṃyutta "
+                 "concerns"),
+        ("aṇḍaja", "egg-born &mdash; the first of the four modes "
+                    "named here"),
+        ("jalābuja", "womb-born &mdash; the second mode"),
+        ("saṃsedaja", "moisture-born &mdash; the third mode"),
+        ("opapātika", "spontaneously born &mdash; the fourth mode, "
+                       "reborn instantaneously without gestation"),
+    ],
+    text_intro=("The discourse in full &mdash; genuinely this short "
+        "in the source, a single flat taxonomy with no further "
+        "elaboration. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn29.1:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What four modes of reproduction does this discourse name for dragons?",
+         "opts": ["Egg-born, womb-born, moisture-born, and spontaneously born",
+                  "Egg-born, water-born, fire-born, and air-born",
+                  "Only egg-born and womb-born", "Human-born and divine-born"],
+         "correct": 0,
+         "expl": "The canon's standard fourfold taxonomy of birth, applied here to dragons."},
+        {"q": "Does this discourse rank any of the four modes above the others?",
+         "opts": ["No — it states the taxonomy flatly with no ranking",
+                  "Yes, it ranks spontaneous birth as best", "Yes, it ranks egg-born as best",
+                  "It ranks them by lifespan"],
+         "correct": 0,
+         "expl": "That ranking is left to the very next discourse, SN 29.2."},
+        {"q": "What does this discourse's own title, Suddhika, mean?",
+         "opts": ["\"Plain\" or \"unmixed\"", "\"Ranked\"", "\"Egg-born\"", "\"Complete\""],
+         "correct": 0,
+         "expl": "Making sense only in contrast with SN 29.2's ranked version of the same taxonomy."},
+        {"q": "How do the remaining forty-eight discourses of this saṃyutta treat this fourfold taxonomy?",
+         "opts": ["They assume it without restating it",
+                  "They each introduce a new, different taxonomy",
+                  "They ignore dragons entirely after this discourse", "They reduce it to only two modes"],
+         "correct": 0,
+         "expl": "This short opening discourse functions as the saṃyutta's own structural foundation."},
+        {"q": "In what register does this discourse treat dragons?",
+         "opts": ["Matter-of-factly, as a genuine rebirth destination",
+                  "As purely mythological figures with no doctrinal role",
+                  "As a metaphor for human vices", "As enemies of the Buddhist teaching"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's register throughout — a real rebirth destination, not legend."},
+        {"q": "What does opapātika (spontaneous birth) mean?",
+         "opts": ["Reborn instantaneously, without gestation", "Born from an egg", "Born from a womb", "Born from moisture"],
+         "correct": 0,
+         "expl": "The fourth and last of the four modes named."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "The setting this saṃyutta's other Sāvatthī-based discourses share."},
+        {"q": "Who speaks in this discourse?",
+         "opts": ["The Buddha, addressing the mendicants directly",
+                  "A mendicant questioning the Buddha", "Venerable Sāriputta", "A dragon king"],
+         "correct": 0,
+         "expl": "A direct statement, not a dialogue — unlike most of the discourses that follow it."},
+    ],
+    marginalia=[
+        ("A bare fourfold list, nothing more", [
+            "egg, womb, moisture, spontaneous &mdash;",
+            "no ranking, no cause, no elaboration",
+        ]),
+        ("\"Plain\" only makes sense next to its sequel", [
+            "Suddhika, the unmixed version &mdash;",
+            "SN 29.2 ranks the same four next",
+        ]),
+        ("The foundation the whole saṃyutta assumes", [
+            "forty-eight discourses still to come &mdash;",
+            "none restate this opening taxonomy",
+        ]),
+        ("Dragons treated as a real destination", [
+            "not myth, but a class of rebirth &mdash;",
+            "this saṃyutta's register throughout",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn29.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-28.10.html">SN 28.10 &middot; With Sucimukhī</a> '
+        "&mdash; the previous discourse, closing Sāriputtasaṃyutta.",
+        '<a href="sn-29.2.html">SN 29.2 &middot; Better</a> '
+        "&mdash; the next discourse, ranking this same fourfold "
+        "taxonomy.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 29.2 — Paṇītatarasutta
+# --------------------------------------------------------------------------- #
+page(
+    29, 2, "Paṇītatara", "Better",
+    vagga="Nāgavagga",
+    meta_title="SN 29.2 — Better | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṇītatarasutta &mdash; the same fourfold dragon "
+        "taxonomy as SN 29.1, now ranked in three cascading "
+        "comparisons ending with spontaneous birth as best. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The same fourfold taxonomy as SN 29.1, followed by "
+                 "three cascading comparative statements"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the cascading comparison rewards close, slow "
+                       "reading"),
+    ],
+    why=(
+        "Directly following SN 29.1's flat, unranked taxonomy, this "
+        "discourse takes the identical four modes and ranks them "
+        "through three progressively narrowing comparisons: womb-, "
+        "moisture-, and spontaneously-born dragons are better than "
+        "egg-born ones; moisture- and spontaneously-born are better "
+        "than egg- and womb-born; and spontaneously-born are better "
+        "than all three others. The cascade lands on a single "
+        "ranking &mdash; spontaneous birth as the highest of the "
+        "four &mdash; that recurs as an assumed background fact for "
+        "the rest of the saṃyutta, even though no later discourse "
+        "explains why this hierarchy holds."
+    ),
+    guide=[
+        ("Three comparisons, each narrower than the last", [
+            "The discourse doesn't rank all four modes in a single "
+            "sentence; it narrows in three steps, first setting "
+            "three modes above egg-birth, then two modes above the "
+            "first two, then one mode above all the rest &mdash; a "
+            "cascading structure rather than a flat list.",
+        ]),
+        ("Spontaneous birth as the discourse's own endpoint", [
+            "Each comparison eliminates one mode from further "
+            "ranking until only opapātika (spontaneous) birth "
+            "remains at the top, matching a broader canonical pattern "
+            "in which spontaneous rebirth &mdash; requiring no "
+            "gestation at all &mdash; is treated as the least "
+            "encumbered of the four modes.",
+        ]),
+        ("No stated reason for the ranking", [
+            "Unlike the discourses immediately following, which "
+            "explain specific causes for specific rebirths, this "
+            "discourse offers the ranking itself with no supporting "
+            "argument &mdash; it simply asserts the hierarchy and "
+            "moves on, leaving the causal discourses that follow to "
+            "supply the mechanism.",
+        ]),
+        ("A companion pair opening the saṃyutta", [
+            "Read together, SN 29.1 and SN 29.2 form a deliberate "
+            "pair &mdash; the same fourfold taxonomy given first "
+            "plain, then ranked &mdash; before the saṃyutta moves on "
+            "to sabbath-observance in SN 29.3 and onward.",
+        ]),
+    ],
+    terms=[
+        ("paṇītatara", "\"better\" or \"more refined\" &mdash; this "
+                        "discourse's own title, naming its "
+                        "comparative structure directly"),
+        ("aṇḍaja", "egg-born &mdash; ranked lowest of the four modes "
+                    "in every comparison here"),
+        ("opapātika", "spontaneously born &mdash; ranked highest in "
+                       "the final, narrowest comparison"),
+        ("jalābuja", "womb-born &mdash; ranked above egg-born but "
+                      "below moisture- and spontaneously-born"),
+        ("saṃsedaja", "moisture-born &mdash; ranked above egg- and "
+                       "womb-born but below spontaneously-born"),
+    ],
+    text_intro=("The discourse in full, including its three "
+        "cascading comparisons. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn29.2:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "How many cascading comparisons does this discourse make?",
+         "opts": ["Three, each narrower than the last", "One single ranking of all four",
+                  "Four, one per mode", "Two"],
+         "correct": 0,
+         "expl": "A cascading structure that eliminates one mode at each step."},
+        {"q": "Which mode of birth ends up ranked highest of all?",
+         "opts": ["Spontaneous birth (opapātika)", "Egg-born (aṇḍaja)",
+                  "Womb-born (jalābuja)", "Moisture-born (saṃsedaja)"],
+         "correct": 0,
+         "expl": "The endpoint of all three cascading comparisons."},
+        {"q": "Which mode of birth is ranked lowest in every comparison?",
+         "opts": ["Egg-born (aṇḍaja)", "Spontaneous birth (opapātika)",
+                  "Womb-born (jalābuja)", "Moisture-born (saṃsedaja)"],
+         "correct": 0,
+         "expl": "Consistently placed below the other three modes throughout."},
+        {"q": "Does this discourse explain why spontaneous birth ranks highest?",
+         "opts": ["No — it asserts the ranking without supporting argument",
+                  "Yes, it cites a specific karmic cause", "Yes, it cites lifespan directly",
+                  "Yes, it cites physical beauty directly"],
+         "correct": 0,
+         "expl": "The causal mechanism is left to later discourses in this saṃyutta."},
+        {"q": "What does this discourse's own title, Paṇītatara, mean?",
+         "opts": ["\"Better\" or \"more refined\"", "\"Plain\"", "\"Complete\"", "\"Egg-born\""],
+         "correct": 0,
+         "expl": "Naming its own comparative structure directly."},
+        {"q": "How does this discourse relate to SN 29.1?",
+         "opts": ["It ranks the identical fourfold taxonomy SN 29.1 gave flat and unranked",
+                  "It introduces an entirely new taxonomy", "It contradicts SN 29.1's taxonomy",
+                  "It has no relation to SN 29.1"],
+         "correct": 0,
+         "expl": "A deliberate companion pair opening this saṃyutta."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "The same setting as SN 29.1."},
+    ],
+    marginalia=[
+        ("Three steps, not one flat ranking", [
+            "three narrows above egg, two above egg and womb &mdash;",
+            "one alone above all three others",
+        ]),
+        ("Spontaneous birth, the cascade's endpoint", [
+            "no gestation at all required &mdash;",
+            "ranked highest of the four modes",
+        ]),
+        ("A ranking with no stated cause", [
+            "the hierarchy simply asserted &mdash;",
+            "later discourses supply the mechanism",
+        ]),
+        ("A deliberate opening pair", [
+            "plain, then ranked &mdash;",
+            "the same four modes, two treatments",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn29.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-29.1.html">SN 29.1 &middot; Plain Version</a> '
+        "&mdash; the previous discourse, giving the same taxonomy "
+        "unranked.",
+        '<a href="sn-29.3.html">SN 29.3 &middot; Sabbath</a> '
+        "&mdash; the next discourse, shifting to egg-born dragons' "
+        "own sabbath-observance.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 29.3 — Uposathasutta
+# --------------------------------------------------------------------------- #
+page(
+    29, 3, "Uposatha", "Sabbath",
+    vagga="Nāgavagga",
+    meta_title="SN 29.3 — Sabbath | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Uposathasutta &mdash; egg-born dragons themselves "
+        "reflecting on their own past mixed conduct and resolving to "
+        "keep the sabbath for a better rebirth. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                     "monastery"),
+        ("Speakers", "A mendicant questions the Buddha, who answers "
+                     "by describing egg-born dragons' own reasoning"),
+        ("Form", "A question-and-answer dialogue, the answer given as "
+                 "reported first-person reasoning attributed to the "
+                 "dragons themselves"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "straightforward once the reported-speech "
+                       "structure is clear"),
+    ],
+    why=(
+        "This discourse opens a new register for this saṃyutta: "
+        "rather than simply naming a taxonomy, it explains why "
+        "egg-born dragons keep the sabbath (uposatha) at all, "
+        "putting the reasoning directly into the dragons' own mouths "
+        "&mdash; they recall doing mixed good and bad deeds in the "
+        "past, recognize that this mixed conduct is exactly what "
+        "produced their present egg-born state, and resolve to do "
+        "good now for a better rebirth to come. It is a portrait of "
+        "beings already reborn as dragons using the very same moral "
+        "logic that governs human rebirth, applied reflexively to "
+        "their own condition."
+    ),
+    guide=[
+        ("A question about a puzzling practice", [
+            "A mendicant asks the Buddha directly why some egg-born "
+            "dragons keep the sabbath \"having transformed their "
+            "bodies\" &mdash; dragons, already reborn as dragons, "
+            "voluntarily undertaking a practice associated with "
+            "moral self-improvement.",
+        ]),
+        ("The dragons' own reported reasoning", [
+            "The Buddha's answer is framed as the dragons' own "
+            "first-person thought: \"in the past we did both kinds "
+            "of deeds by body, speech, and mind\" &mdash; mixed "
+            "conduct, neither purely good nor purely bad, which "
+            "produced their present rebirth among egg-born dragons.",
+        ]),
+        ("Recognizing cause, and resolving to change it", [
+            "Having identified their own mixed past conduct as the "
+            "specific cause of their present state, the dragons "
+            "reason forward: good conduct now could produce \"a "
+            "good place, a heavenly realm\" as their next rebirth "
+            "&mdash; the same causal logic this project has already "
+            "traced across many earlier saṃyuttas, now voiced by "
+            "non-human beings about themselves.",
+        ]),
+        ("The first of a four-part set", [
+            "This discourse treats only egg-born dragons; SN "
+            "29.4&ndash;6 apply the identical reasoning to womb-, "
+            "moisture-, and spontaneously-born dragons in turn, with "
+            "SN 29.4 and 29.5 compressed to editorial stubs and SN "
+            "29.6 given in full, mirroring this discourse's own "
+            "wording almost exactly.",
+        ]),
+    ],
+    terms=[
+        ("uposatha", "sabbath &mdash; a periodic observance day "
+                      "associated with heightened moral discipline, "
+                      "here undertaken by dragons themselves"),
+        ("vikubbamānā", "\"having transformed their bodies\" &mdash; "
+                         "the dragons' own shape-shifting ability, "
+                         "assumed rather than explained in the "
+                         "question"),
+        ("dvayakārī", "one who does both kinds of deeds &mdash; the "
+                       "mixed good-and-bad conduct the dragons "
+                       "identify as their own past cause"),
+        ("kāyassa bhedā paraṁ maraṇā", "\"when the body breaks up, "
+                                        "after death\" &mdash; the "
+                                        "standard formula marking the "
+                                        "transition to a new rebirth"),
+        ("saggaṁ lokaṁ", "\"a heavenly realm\" &mdash; the better "
+                          "rebirth the dragons hope their present "
+                          "good conduct will produce"),
+    ],
+    text_intro=("The complete discourse: the mendicant's question and "
+        "the dragons' own reported reasoning in full. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn29.3:1.1-1.3"),
+        ("p", "&sect;2", "sn29.3:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What practice does this discourse explain some egg-born dragons undertaking?",
+         "opts": ["Keeping the sabbath (uposatha)", "Fasting for seven days",
+                  "Reciting the monastic code", "Undertaking a pilgrimage"],
+         "correct": 0,
+         "expl": "A practice associated with heightened moral discipline, here voluntarily kept by dragons."},
+        {"q": "What do the egg-born dragons recall about their own past conduct?",
+         "opts": ["That they did both good and bad deeds by body, speech, and mind",
+                  "That they did only good deeds", "That they did only bad deeds",
+                  "That they cannot remember their past conduct at all"],
+         "correct": 0,
+         "expl": "Mixed conduct, which they identify as the specific cause of their present egg-born state."},
+        {"q": "What do the dragons hope their present good conduct will produce?",
+         "opts": ["A good place, a heavenly realm, as their next rebirth",
+                  "Immediate liberation from rebirth entirely",
+                  "A return to human form", "Nothing — the discourse doesn't say"],
+         "correct": 0,
+         "expl": "The same forward-looking causal reasoning applied reflexively by the dragons to themselves."},
+        {"q": "How is the Buddha's answer framed in this discourse?",
+         "opts": ["As the dragons' own first-person reported reasoning",
+                  "As a direct third-person description with no reported speech",
+                  "As a question redirected back to the mendicant",
+                  "As a refusal to answer"],
+         "correct": 0,
+         "expl": "\"It's when some egg-born dragons think...\" — their own voice, reported."},
+        {"q": "Which birth-mode of dragon does this specific discourse concern?",
+         "opts": ["Egg-born", "Womb-born", "Moisture-born", "Spontaneously born"],
+         "correct": 0,
+         "expl": "The first of four parallel discourses (SN 29.3–6), one per birth mode."},
+        {"q": "How do SN 29.4 and SN 29.5 treat this same theme for the other birth modes?",
+         "opts": ["As compressed editorial stubs pointing back to this discourse",
+                  "With entirely new reasoning not found here", "By denying that other modes keep the sabbath",
+                  "With longer, more elaborate treatments than this one"],
+         "correct": 0,
+         "expl": "Only SN 29.6 (spontaneously-born) is given in full alongside this discourse."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery",
+                  "Rājagaha, the Bamboo Grove", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Given in full here, unlike most of this saṃyutta's other discourses, which abbreviate the setting."},
+        {"q": "What does this discourse's portrait of dragons reveal about how the text treats them?",
+         "opts": ["As beings governed by the identical moral and causal logic that governs human rebirth",
+                  "As beings entirely exempt from karmic causation", "As purely symbolic, non-literal figures",
+                  "As beings incapable of moral reasoning"],
+         "correct": 0,
+         "expl": "The dragons reason about their own past and future rebirths using the same causal framework applied to humans elsewhere in the canon."},
+    ],
+    marginalia=[
+        ("A puzzling question, plainly asked", [
+            "why would dragons keep the sabbath? &mdash;",
+            "the mendicant simply asks outright",
+        ]),
+        ("The dragons' own voice, reported", [
+            "\"in the past we did both kinds of deeds\" &mdash;",
+            "first-person reasoning, not third-person description",
+        ]),
+        ("Cause identified, and resolve to change it", [
+            "mixed conduct made them egg-born &mdash;",
+            "now they resolve toward a heavenly realm",
+        ]),
+        ("First of four parallel discourses", [
+            "egg-born here, three more birth modes ahead &mdash;",
+            "SN 29.4–6 apply the identical reasoning",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn29.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-29.2.html">SN 29.2 &middot; Better</a> '
+        "&mdash; the previous discourse, ranking the same fourfold "
+        "taxonomy.",
+        '<a href="sn-29.4.html">SN 29.4 &middot; Sabbath (2nd)</a> '
+        "&mdash; the next discourse, applying this same reasoning to "
+        "womb-born dragons.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 29.4 — Dutiyauposathasutta
+# --------------------------------------------------------------------------- #
+page(
+    29, 4, "Dutiyauposatha", "Sabbath (2nd)",
+    vagga="Nāgavagga",
+    meta_title="SN 29.4 — Sabbath (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyauposathasutta &mdash; a compressed stub applying "
+        "SN 29.3's egg-born sabbath-observance reasoning to "
+        "womb-born dragons. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "A mendicant questions the Buddha"),
+        ("Form", "A peyyāla stub &mdash; only the opening question is "
+                 "given, with the source itself instructing readers "
+                 "to fill in the rest from SN 29.3"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 29.3"),
+    ],
+    why=(
+        "This is a plain peyyāla stub: bilara-data preserves only the "
+        "opening question &mdash; why do some womb-born dragons keep "
+        "the sabbath, having transformed their bodies &mdash; "
+        "followed by a direct editorial instruction, \"tell all in "
+        "full,\" pointing back to SN 29.3's own answer with only the "
+        "birth-mode swapped from egg-born to womb-born. Nothing is "
+        "fabricated to fill the gap; the discourse is read exactly "
+        "as short as the source leaves it."
+    ),
+    guide=[
+        ("One word swapped, the rest pointed back", [
+            "The question is identical in structure to SN 29.3's own "
+            "opening, with only \"womb-born\" (jalābuja) replacing "
+            "\"egg-born\" (aṇḍaja) &mdash; and rather than restating "
+            "the dragons' own reasoning a second time, the source "
+            "simply instructs: tell all in full.",
+        ]),
+        ("A genuine feature of transmission", [
+            "This kind of compression, seen already at earlier "
+            "peyyāla stubs in this project's coverage of the "
+            "Saṃyutta Nikāya, is quoted here exactly as the source "
+            "gives it rather than expanded into invented prose.",
+        ]),
+        ("The same causal logic, a different birth mode", [
+            "Applying SN 29.3's reasoning here implies that "
+            "womb-born dragons, too, recall their own mixed past "
+            "conduct as the cause of their present state, and "
+            "resolve toward a better rebirth &mdash; the identical "
+            "moral logic, simply relocated to a different class of "
+            "dragon.",
+        ]),
+        ("Second of four parallel discourses", [
+            "This is the second of SN 29.3&ndash;6's four-part set, "
+            "one discourse per birth mode &mdash; SN 29.5 will "
+            "compress moisture-born dragons the same way before SN "
+            "29.6 returns to full treatment for spontaneously-born "
+            "dragons.",
+        ]),
+    ],
+    terms=[
+        ("jalābuja", "womb-born &mdash; the birth mode this stub "
+                      "substitutes for SN 29.3's egg-born dragons"),
+        ("vitthāretabbaṁ", "\"should be told in full\" &mdash; this "
+                            "discourse's own closing editorial "
+                            "instruction"),
+        ("uposatha", "sabbath &mdash; the same practice at issue in "
+                      "SN 29.3, carried over by cross-reference"),
+        ("peyyāla", "the formal term for a passage the source itself "
+                     "elides, directing the reader elsewhere for its "
+                     "full wording"),
+        ("dvayakārī", "one who does both kinds of deeds &mdash; the "
+                       "mixed conduct implied here, though not "
+                       "restated, from SN 29.3"),
+    ],
+    text_intro=(
+        "The discourse in full &mdash; genuinely this short in the "
+        "source, including its closing editorial instruction. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn29.4:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "Which birth mode of dragon does this discourse's opening question concern?",
+         "opts": ["Womb-born", "Egg-born", "Moisture-born", "Spontaneously born"],
+         "correct": 0,
+         "expl": "The one substantive change from SN 29.3's own opening question."},
+        {"q": "How does the source handle the rest of this discourse's content?",
+         "opts": ["With an explicit editorial note: \"tell all in full\"",
+                  "By spelling out the full reasoning a second time", "By omitting any indication content is missing",
+                  "By replacing it with unrelated material"],
+         "correct": 0,
+         "expl": "A genuine transmission feature, pointing back to SN 29.3."},
+        {"q": "What does this reading guide do with the editorial shortcut?",
+         "opts": ["Quotes it exactly as the source gives it, without fabricating the elided material",
+                  "Reconstructs the full reasoning and presents it as this discourse's own text",
+                  "Skips the discourse entirely", "Invents new content unrelated to SN 29.3"],
+         "correct": 0,
+         "expl": "Consistent with this project's practice on other short peyyāla stubs."},
+        {"q": "Which discourse's own answer does this stub point back to?",
+         "opts": ["SN 29.3", "SN 29.1", "SN 29.7", "SN 29.11–20"],
+         "correct": 0,
+         "expl": "The full reasoning for egg-born dragons, now applied by cross-reference to womb-born ones."},
+        {"q": "Where does this discourse fall in the SN 29.3–6 four-part set?",
+         "opts": ["Second, applying the reasoning to womb-born dragons",
+                  "First, introducing the reasoning for the first time", "Third", "Fourth and final"],
+         "correct": 0,
+         "expl": "SN 29.5 will compress moisture-born dragons the same way; SN 29.6 returns to full treatment."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other Sāvatthī-based discourses."},
+    ],
+    marginalia=[
+        ("One word swapped, nothing else restated", [
+            "womb-born in place of egg-born &mdash;",
+            "the rest simply pointed back to SN 29.3",
+        ]),
+        ("A genuine feature of transmission", [
+            "\"tell all in full\" &mdash;",
+            "reciters' own shorthand, preserved as-is",
+        ]),
+        ("The same logic, relocated", [
+            "mixed conduct, a hoped-for better rebirth &mdash;",
+            "implied here, not restated",
+        ]),
+        ("Second of a four-part set", [
+            "egg-born, then womb-born &mdash;",
+            "moisture- and spontaneous-born still ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn29.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-29.3.html">SN 29.3 &middot; Sabbath</a> '
+        "&mdash; the discourse this one's editorial note points back "
+        "to for its full wording.",
+        '<a href="sn-29.5.html">SN 29.5 &middot; Sabbath (3rd)</a> '
+        "&mdash; the next discourse, applying the identical reasoning "
+        "to moisture-born dragons.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 29.5 — Tatiyauposathasutta
+# --------------------------------------------------------------------------- #
+page(
+    29, 5, "Tatiyauposatha", "Sabbath (3rd)",
+    vagga="Nāgavagga",
+    meta_title="SN 29.5 — Sabbath (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyauposathasutta &mdash; a compressed stub applying "
+        "SN 29.3's sabbath-observance reasoning to moisture-born "
+        "dragons. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "A mendicant questions the Buddha"),
+        ("Form", "A peyyāla stub &mdash; only the opening question is "
+                 "given, with the source itself instructing readers "
+                 "to fill in the rest from SN 29.3"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 29.3"),
+    ],
+    why=(
+        "The third of SN 29.3&ndash;6's four-part set, compressed "
+        "identically to SN 29.4: only the opening question is given "
+        "&mdash; why do some moisture-born dragons keep the sabbath "
+        "&mdash; with the same \"tell all in full\" instruction "
+        "pointing back to SN 29.3's own reasoning, this time with "
+        "moisture-born (saṃsedaja) substituted for egg-born."
+    ),
+    guide=[
+        ("One word swapped, the rest pointed back", [
+            "The question is identical in structure to SN 29.3 and "
+            "SN 29.4, with only \"moisture-born\" (saṃsedaja) "
+            "replacing the earlier birth mode &mdash; the source "
+            "again simply instructs: tell all in full.",
+        ]),
+        ("Third of four parallel discourses", [
+            "With this discourse, three of the four birth modes "
+            "have now been paired with sabbath-observance &mdash; "
+            "egg-born in full at SN 29.3, womb-born compressed at SN "
+            "29.4, and moisture-born compressed here &mdash; leaving "
+            "only spontaneously-born still to come at SN 29.6.",
+        ]),
+        ("A pattern of alternating compression", [
+            "This saṃyutta's four-part sets consistently give the "
+            "first and last birth modes in full while compressing "
+            "the middle two &mdash; the same shape already seen in "
+            "SN 29.3&ndash;6 and repeated again at SN 29.7&ndash;10.",
+        ]),
+        ("A genuine feature of transmission, not an omission", [
+            "As with SN 29.4, this compression is quoted here "
+            "exactly as the source gives it rather than expanded "
+            "into invented prose.",
+        ]),
+    ],
+    terms=[
+        ("saṃsedaja", "moisture-born &mdash; the birth mode this "
+                       "stub substitutes for SN 29.3's egg-born "
+                       "dragons"),
+        ("vitthāretabbaṁ", "\"should be told in full\" &mdash; this "
+                            "discourse's own closing editorial "
+                            "instruction"),
+        ("uposatha", "sabbath &mdash; the same practice at issue in "
+                      "SN 29.3, carried over by cross-reference"),
+        ("peyyāla", "the formal term for a passage the source itself "
+                     "elides, directing the reader elsewhere for its "
+                     "full wording"),
+        ("dvayakārī", "one who does both kinds of deeds &mdash; the "
+                       "mixed conduct implied here, though not "
+                       "restated, from SN 29.3"),
+    ],
+    text_intro=(
+        "The discourse in full &mdash; genuinely this short in the "
+        "source, including its closing editorial instruction. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn29.5:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "Which birth mode of dragon does this discourse's opening question concern?",
+         "opts": ["Moisture-born", "Egg-born", "Womb-born", "Spontaneously born"],
+         "correct": 0,
+         "expl": "The one substantive change from SN 29.3's own opening question."},
+        {"q": "How does the source handle the rest of this discourse's content?",
+         "opts": ["With an explicit editorial note: \"tell all in full\"",
+                  "By spelling out the full reasoning a second time", "By omitting any indication content is missing",
+                  "By replacing it with unrelated material"],
+         "correct": 0,
+         "expl": "Pointing back to SN 29.3's own full answer."},
+        {"q": "Where does this discourse fall in the SN 29.3–6 four-part set?",
+         "opts": ["Third, applying the reasoning to moisture-born dragons",
+                  "First", "Second", "Fourth and final"],
+         "correct": 0,
+         "expl": "With egg-born, womb-born, and now moisture-born covered, only spontaneously-born remains at SN 29.6."},
+        {"q": "What compression pattern does this saṃyutta's four-part sets consistently follow?",
+         "opts": ["The first and last birth modes given in full, the middle two compressed",
+                  "All four birth modes given in full", "All four birth modes compressed",
+                  "Only the first birth mode given, the other three omitted entirely"],
+         "correct": 0,
+         "expl": "The same shape recurs at SN 29.3–6 and again at SN 29.7–10."},
+        {"q": "Which discourse gives the full reasoning this stub points back to?",
+         "opts": ["SN 29.3", "SN 29.1", "SN 29.6", "SN 29.10"],
+         "correct": 0,
+         "expl": "SN 29.3's egg-born reasoning, cross-referenced rather than restated."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other Sāvatthī-based discourses."},
+    ],
+    marginalia=[
+        ("One word swapped, nothing else restated", [
+            "moisture-born in place of egg-born &mdash;",
+            "the rest simply pointed back to SN 29.3",
+        ]),
+        ("Third of a four-part set", [
+            "egg-born, womb-born, now moisture-born &mdash;",
+            "only spontaneous-born still ahead",
+        ]),
+        ("A consistent compression pattern", [
+            "first and last given in full &mdash;",
+            "the middle two always compressed",
+        ]),
+        ("A genuine feature of transmission", [
+            "\"tell all in full\" &mdash;",
+            "reciters' own shorthand, preserved as-is",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn29.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-29.4.html">SN 29.4 &middot; Sabbath (2nd)</a> '
+        "&mdash; the previous discourse, applying the same reasoning "
+        "to womb-born dragons.",
+        '<a href="sn-29.6.html">SN 29.6 &middot; Sabbath (4th)</a> '
+        "&mdash; the next discourse, closing this set with "
+        "spontaneously-born dragons, given in full.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 29.6 — Catutthauposathasutta
+# --------------------------------------------------------------------------- #
+page(
+    29, 6, "Catutthauposatha", "Sabbath (4th)",
+    vagga="Nāgavagga",
+    meta_title="SN 29.6 — Sabbath (4th) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Catutthauposathasutta &mdash; closing SN 29.3&ndash;6's "
+        "four-part set with spontaneously-born dragons' own full "
+        "sabbath-observance reasoning. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "A mendicant questions the Buddha, who answers "
+                     "by describing spontaneously-born dragons' own "
+                     "reasoning"),
+        ("Form", "Given in full, mirroring SN 29.3's wording almost "
+                 "exactly with the birth mode swapped"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "straightforward, closely mirroring SN 29.3"),
+    ],
+    why=(
+        "This discourse closes SN 29.3&ndash;6's four-part set by "
+        "returning to full treatment, applying the identical "
+        "reasoning already given for egg-born dragons at SN 29.3 to "
+        "spontaneously-born dragons instead: they recall their own "
+        "mixed past conduct as the cause of their present state, and "
+        "resolve toward a better rebirth. Bracketing the two "
+        "compressed stubs of SN 29.4 and SN 29.5 with full treatment "
+        "at both ends is this saṃyutta's own consistent structural "
+        "choice, confirmed here for a second four-part set."
+    ),
+    guide=[
+        ("The same reasoning, a fourth birth mode", [
+            "This discourse's wording matches SN 29.3's own almost "
+            "word for word, with only \"spontaneously-born\" "
+            "(opapātika) substituted throughout for \"egg-born\" "
+            "(aṇḍaja) &mdash; confirming that SN 29.4 and SN 29.5's "
+            "compressed \"tell all in full\" instructions genuinely "
+            "did mean exactly this.",
+        ]),
+        ("Bookending a four-part set", [
+            "With SN 29.3 (egg-born) and this discourse "
+            "(spontaneously-born) both given in full, and SN 29.4 "
+            "(womb-born) and SN 29.5 (moisture-born) compressed "
+            "between them, this saṃyutta's own structural preference "
+            "&mdash; full treatment at both ends, compression in the "
+            "middle &mdash; is now confirmed across a complete "
+            "four-part set.",
+        ]),
+        ("Closing the sabbath-observance theme", [
+            "With all four birth modes now covered, this discourse "
+            "closes Nāgasaṃyutta's sabbath-observance theme before "
+            "the saṃyutta shifts to a new motivational register at "
+            "SN 29.7&ndash;10: aspiration driven by hearsay rather "
+            "than by reflection on one's own past conduct.",
+        ]),
+        ("Spontaneous birth, again the highest-ranked mode", [
+            "That spontaneously-born dragons, too, engage in this "
+            "same moral self-improvement is notable given SN 29.2's "
+            "own ranking of spontaneous birth as best among the "
+            "four &mdash; even the highest-ranked mode is not "
+            "treated as exempt from further striving.",
+        ]),
+    ],
+    terms=[
+        ("opapātika", "spontaneously born &mdash; the birth mode "
+                       "this discourse substitutes for SN 29.3's "
+                       "egg-born dragons"),
+        ("uposatha", "sabbath &mdash; the practice all four birth "
+                      "modes are now shown observing across SN "
+                      "29.3&ndash;6"),
+        ("dvayakārī", "one who does both kinds of deeds &mdash; the "
+                       "mixed conduct the spontaneously-born dragons "
+                       "identify as their own past cause"),
+        ("saggaṁ lokaṁ", "\"a heavenly realm\" &mdash; the better "
+                          "rebirth these dragons hope their present "
+                          "good conduct will produce"),
+        ("kāyassa bhedā paraṁ maraṇā", "\"when the body breaks up, "
+                                        "after death\" &mdash; the "
+                                        "standard formula marking the "
+                                        "transition to a new rebirth"),
+    ],
+    text_intro=("The complete discourse: the mendicant's question and "
+        "the spontaneously-born dragons' own reported reasoning in "
+        "full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn29.6:1.1-1.3"),
+        ("p", "&sect;2", "sn29.6:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "Which birth mode of dragon does this discourse concern?",
+         "opts": ["Spontaneously born", "Egg-born", "Womb-born", "Moisture-born"],
+         "correct": 0,
+         "expl": "Closing the SN 29.3–6 four-part set."},
+        {"q": "How closely does this discourse's wording match SN 29.3's own?",
+         "opts": ["Almost word for word, with only the birth mode substituted",
+                  "Entirely different reasoning", "Only loosely related", "Identical, with no substitution at all"],
+         "correct": 0,
+         "expl": "Confirming exactly what SN 29.4 and SN 29.5's compressed stubs pointed back to."},
+        {"q": "What structural pattern does this discourse confirm across SN 29.3–6?",
+         "opts": ["Full treatment at both ends (SN 29.3 and this discourse), compression in the middle (SN 29.4–5)",
+                  "Compression at both ends, full treatment in the middle",
+                  "All four discourses given in full", "All four discourses compressed"],
+         "correct": 0,
+         "expl": "This saṃyutta's own consistent structural choice for four-part sets."},
+        {"q": "What theme does this discourse close before the saṃyutta shifts register at SN 29.7–10?",
+         "opts": ["Sabbath-observance, reasoned from the dragons' own reflection on their past conduct",
+                  "The fourfold taxonomy of birth modes", "Giving specific gifts to attain rebirth as a dragon",
+                  "A debate between two named disciples"],
+         "correct": 0,
+         "expl": "SN 29.7–10 shift to aspiration driven by hearsay rather than reflection on one's own conduct."},
+        {"q": "Why is it notable that spontaneously-born dragons also keep the sabbath?",
+         "opts": ["Because SN 29.2 ranked spontaneous birth as the highest of the four modes, yet it is not treated as exempt from further striving",
+                  "Because spontaneously-born dragons were previously said never to observe any practices",
+                  "Because this contradicts SN 29.1's taxonomy", "It isn't notable — no ranking was ever given"],
+         "correct": 0,
+         "expl": "Even the highest-ranked mode still engages in moral self-improvement."},
+        {"q": "What do the spontaneously-born dragons hope their present good conduct will produce?",
+         "opts": ["A good place, a heavenly realm, as their next rebirth",
+                  "Immediate liberation from rebirth entirely", "A return to human form", "Nothing — the discourse doesn't say"],
+         "correct": 0,
+         "expl": "The identical hope voiced by the egg-born dragons at SN 29.3."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("The fourth birth mode, given in full", [
+            "spontaneously-born, not egg-born &mdash;",
+            "SN 29.3's wording, almost unchanged",
+        ]),
+        ("A pattern now confirmed", [
+            "full treatment at both ends &mdash;",
+            "compression only in the middle two",
+        ]),
+        ("Even the highest-ranked mode still strives", [
+            "SN 29.2 called spontaneous birth best &mdash;",
+            "yet these dragons still keep the sabbath",
+        ]),
+        ("A theme closed, a new register ahead", [
+            "sabbath-observance now complete &mdash;",
+            "hearsay-driven aspiration begins next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn29.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-29.5.html">SN 29.5 &middot; Sabbath (3rd)</a> '
+        "&mdash; the previous discourse, compressed for moisture-born "
+        "dragons.",
+        '<a href="sn-29.7.html">SN 29.7 &middot; They&rsquo;ve '
+        "Heard</a> &mdash; the next discourse, shifting to a new "
+        "motivational register: aspiration driven by hearsay.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 29.7 — Sutasutta
+# --------------------------------------------------------------------------- #
+page(
+    29, 7, "Suta", "They&rsquo;ve Heard",
+    vagga="Nāgavagga",
+    meta_title="SN 29.7 — They’ve Heard | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sutasutta &mdash; someone aspiring to egg-born dragon "
+        "rebirth purely from having heard that egg-born dragons are "
+        "long-lived, beautiful, and happy. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "A mendicant questions the Buddha, who answers "
+                     "by describing an unnamed aspirant's own "
+                     "reasoning"),
+        ("Form", "A question-and-answer dialogue tracing hearsay to "
+                 "aspiration to rebirth"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a plain causal chain, easy to follow"),
+    ],
+    why=(
+        "This discourse opens Nāgasaṃyutta's second motivational "
+        "register, distinct from SN 29.3&ndash;6's sabbath-"
+        "observance: here, an unnamed person &mdash; someone who "
+        "already does both good and bad deeds &mdash; simply hears "
+        "that egg-born dragons are long-lived, beautiful, and happy, "
+        "forms the wish to be reborn among them, and (the discourse "
+        "implies) achieves exactly that rebirth on the strength of "
+        "hearsay-driven aspiration alone, without any of SN 29.3's "
+        "reflective self-examination."
+    ),
+    guide=[
+        ("A different cause than SN 29.3's own", [
+            "Where SN 29.3's egg-born dragons reflect on their own "
+            "past conduct as dragons already reborn, this "
+            "discourse's aspirant is a still-unreborn person, "
+            "reasoning forward from something merely heard about a "
+            "rebirth destination, not yet experienced.",
+        ]),
+        ("Hearsay as the explicit trigger", [
+            "\"They've heard: 'the egg-born dragons are long-lived, "
+            "beautiful, and very happy'\" &mdash; the discourse names "
+            "hearsay itself, not direct knowledge or reflection, as "
+            "the specific trigger for the aspirant's wish.",
+        ]),
+        ("Ordinary mixed conduct, not specifically virtuous conduct", [
+            "The aspirant is described only as someone who \"does "
+            "both kinds of deeds by body, speech, and mind\" &mdash; "
+            "the same mixed conduct SN 29.3's dragons recalled from "
+            "their own past, here treated as sufficient background "
+            "for a hearsay-driven wish to actually produce this "
+            "specific rebirth.",
+        ]),
+        ("Opening a second four-part set", [
+            "This discourse begins SN 29.7&ndash;10, the second "
+            "four-part set built on this saṃyutta's now-familiar "
+            "pattern &mdash; full treatment for egg-born (this "
+            "discourse) and spontaneously-born (SN 29.10), "
+            "compressed stubs for womb-born and moisture-born "
+            "between them.",
+        ]),
+    ],
+    terms=[
+        ("sutaṁ", "\"heard\" &mdash; this discourse's own title-word, "
+                   "naming hearsay as the aspirant's specific trigger"),
+        ("dīghāyukā vaṇṇavanto sukhabahulā", "\"long-lived, "
+                                              "beautiful, and very "
+                                              "happy\" &mdash; the "
+                                              "specific reputation "
+                                              "the aspirant has heard "
+                                              "about egg-born dragons"),
+        ("dvayakārī", "one who does both kinds of deeds &mdash; the "
+                       "ordinary mixed conduct attributed to this "
+                       "aspirant"),
+        ("aho vata", "\"if only\" &mdash; the aspirant's own wishful "
+                      "exclamation, quoted directly"),
+        ("aṇḍaja", "egg-born &mdash; the specific rebirth destination "
+                    "this aspirant's hearsay-driven wish targets"),
+    ],
+    text_intro=("The complete discourse: the mendicant's question and "
+        "the aspirant's own reported hearsay-driven reasoning in "
+        "full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn29.7:1.1-1.3"),
+        ("p", "&sect;2", "sn29.7:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What specifically triggers the aspirant's wish to be reborn as an egg-born dragon?",
+         "opts": ["Having heard that egg-born dragons are long-lived, beautiful, and very happy",
+                  "A direct vision of the dragon realm", "Instruction from the Buddha himself",
+                  "A past life memory of having been a dragon"],
+         "correct": 0,
+         "expl": "Hearsay, not direct knowledge or reflection, is named as the explicit trigger."},
+        {"q": "How does this discourse's cause differ from SN 29.3's own?",
+         "opts": ["SN 29.3's dragons reflect on their own already-lived past; this discourse's aspirant reasons forward from hearsay about a destination not yet experienced",
+                  "There is no difference — the two discourses describe an identical cause",
+                  "This discourse's aspirant has already died and been reborn as a dragon before the discourse begins",
+                  "SN 29.3 also relies on hearsay"],
+         "correct": 0,
+         "expl": "Two genuinely distinct motivational registers within the same saṃyutta."},
+        {"q": "What kind of conduct does this discourse attribute to the aspirant?",
+         "opts": ["Ordinary mixed conduct — both good and bad deeds by body, speech, and mind",
+                  "Exclusively virtuous conduct", "Exclusively harmful conduct", "No conduct is mentioned at all"],
+         "correct": 0,
+         "expl": "The same mixed-conduct baseline as SN 29.3's dragons, here applied to a still-unreborn aspirant."},
+        {"q": "What does this discourse's own title, Suta, mean?",
+         "opts": ["\"Heard\"", "\"Sabbath\"", "\"Plain\"", "\"Given\""],
+         "correct": 0,
+         "expl": "Naming hearsay as this discourse's own specific trigger."},
+        {"q": "Which four-part set does this discourse open?",
+         "opts": ["SN 29.7–10, on hearsay-driven aspiration", "SN 29.3–6, on sabbath-observance",
+                  "SN 29.11–20, on giving specific gifts", "SN 29.1–2, on the bare taxonomy"],
+         "correct": 0,
+         "expl": "The second of this saṃyutta's four-part sets, following the same full-compressed-compressed-full pattern."},
+        {"q": "What outcome does the discourse describe for the aspirant's wish?",
+         "opts": ["Rebirth in the company of the egg-born dragons, when the body breaks up after death",
+                  "The wish is explicitly denied", "The aspirant is reborn as a human instead", "No outcome is stated"],
+         "correct": 0,
+         "expl": "The wish, formed on hearsay, is described as actually producing this specific rebirth."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("A different trigger than SN 29.3's own", [
+            "not reflection on one's own past &mdash;",
+            "hearsay about a destination unseen",
+        ]),
+        ("A specific reputation, named directly", [
+            "long-lived, beautiful, very happy &mdash;",
+            "exactly what the aspirant has heard",
+        ]),
+        ("Ordinary mixed conduct, sufficient background", [
+            "both good and bad deeds &mdash;",
+            "no special virtue required to aspire",
+        ]),
+        ("A second four-part set begins", [
+            "egg-born here, three more birth modes ahead &mdash;",
+            "the same full-compressed-compressed-full shape",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn29.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-29.6.html">SN 29.6 &middot; Sabbath (4th)</a> '
+        "&mdash; the previous discourse, closing the sabbath-"
+        "observance theme.",
+        '<a href="sn-29.8.html">SN 29.8 &middot; They&rsquo;ve Heard '
+        "(2nd)</a> &mdash; the next discourse, applying this same "
+        "hearsay-driven reasoning to womb-born dragons.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 29.8 — Dutiyasutasutta
+# --------------------------------------------------------------------------- #
+page(
+    29, 8, "Dutiyasuta", "They&rsquo;ve Heard (2nd)",
+    vagga="Nāgavagga",
+    meta_title="SN 29.8 — They’ve Heard (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasutasutta &mdash; a compressed stub applying SN "
+        "29.7's hearsay-driven aspiration to womb-born dragons. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "A mendicant questions the Buddha"),
+        ("Form", "A peyyāla stub &mdash; only the opening question is "
+                 "given, with the source itself instructing readers "
+                 "to fill in the rest from SN 29.7"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 29.7"),
+    ],
+    why=(
+        "The second of SN 29.7&ndash;10's four-part set, compressed "
+        "identically to SN 29.4 and SN 29.5's own earlier pattern: "
+        "only the opening question is given &mdash; why is someone "
+        "reborn among womb-born dragons &mdash; with the same "
+        "\"tell all in full\" instruction pointing back to SN 29.7's "
+        "own hearsay-driven reasoning, this time with womb-born "
+        "substituted for egg-born."
+    ),
+    guide=[
+        ("One word swapped, the rest pointed back", [
+            "The question is identical in structure to SN 29.7's "
+            "own, with only \"womb-born\" (jalābuja) replacing "
+            "\"egg-born\" (aṇḍaja) &mdash; the source again simply "
+            "instructs: tell all in full.",
+        ]),
+        ("The same compression pattern as SN 29.4", [
+            "This is the second birth mode this saṃyutta has now "
+            "compressed within a four-part set &mdash; confirming "
+            "the identical full-compressed-compressed-full shape "
+            "already seen at SN 29.3&ndash;6 recurs here at SN "
+            "29.7&ndash;10.",
+        ]),
+        ("The implied hearsay, unspecified but assumed", [
+            "By cross-reference to SN 29.7, this discourse implies "
+            "someone has heard that womb-born dragons, too, are "
+            "long-lived, beautiful, and happy, though the specific "
+            "wording is never restated here.",
+        ]),
+        ("A genuine feature of transmission, not an omission", [
+            "As with SN 29.4 and SN 29.5, this compression is quoted "
+            "here exactly as the source gives it rather than "
+            "expanded into invented prose.",
+        ]),
+    ],
+    terms=[
+        ("jalābuja", "womb-born &mdash; the birth mode this stub "
+                      "substitutes for SN 29.7's egg-born dragons"),
+        ("vitthāretabbaṁ", "\"should be told in full\" &mdash; this "
+                            "discourse's own closing editorial "
+                            "instruction"),
+        ("sutaṁ", "\"heard\" &mdash; the trigger named in SN 29.7's "
+                   "own title, carried over here by cross-reference"),
+        ("peyyāla", "the formal term for a passage the source itself "
+                     "elides, directing the reader elsewhere for its "
+                     "full wording"),
+        ("dvayakārī", "one who does both kinds of deeds &mdash; the "
+                       "ordinary mixed conduct implied here, though "
+                       "not restated, from SN 29.7"),
+    ],
+    text_intro=(
+        "The discourse in full &mdash; genuinely this short in the "
+        "source, including its closing editorial instruction. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn29.8:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "Which birth mode of dragon does this discourse's opening question concern?",
+         "opts": ["Womb-born", "Egg-born", "Moisture-born", "Spontaneously born"],
+         "correct": 0,
+         "expl": "The one substantive change from SN 29.7's own opening question."},
+        {"q": "How does the source handle the rest of this discourse's content?",
+         "opts": ["With an explicit editorial note: \"tell all in full\"",
+                  "By spelling out the full reasoning a second time", "By omitting any indication content is missing",
+                  "By replacing it with unrelated material"],
+         "correct": 0,
+         "expl": "Pointing back to SN 29.7's own hearsay-driven reasoning."},
+        {"q": "Where does this discourse fall in the SN 29.7–10 four-part set?",
+         "opts": ["Second, applying the reasoning to womb-born dragons",
+                  "First", "Third", "Fourth and final"],
+         "correct": 0,
+         "expl": "The same compression position as SN 29.4 held within SN 29.3–6."},
+        {"q": "What compression pattern does this discourse confirm recurs from SN 29.3–6?",
+         "opts": ["Full treatment at both ends, compression in the middle two discourses",
+                  "Compression at both ends, full treatment in the middle",
+                  "All four discourses given in full", "All four discourses compressed"],
+         "correct": 0,
+         "expl": "The identical shape now confirmed across two separate four-part sets."},
+        {"q": "Which discourse's own reasoning does this stub point back to?",
+         "opts": ["SN 29.7", "SN 29.3", "SN 29.10", "SN 29.1"],
+         "correct": 0,
+         "expl": "SN 29.7's hearsay-driven reasoning, cross-referenced rather than restated."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("One word swapped, nothing else restated", [
+            "womb-born in place of egg-born &mdash;",
+            "the rest simply pointed back to SN 29.7",
+        ]),
+        ("The same compression shape, recurring", [
+            "second of a four-part set &mdash;",
+            "matching SN 29.4's own position exactly",
+        ]),
+        ("Hearsay implied, not restated", [
+            "long-lived, beautiful, happy &mdash;",
+            "assumed here by cross-reference alone",
+        ]),
+        ("A genuine feature of transmission", [
+            "\"tell all in full\" &mdash;",
+            "reciters' own shorthand, preserved as-is",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn29.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-29.7.html">SN 29.7 &middot; They&rsquo;ve '
+        "Heard</a> &mdash; the discourse this one's editorial note "
+        "points back to for its full wording.",
+        '<a href="sn-29.9.html">SN 29.9 &middot; They&rsquo;ve Heard '
+        "(3rd)</a> &mdash; the next discourse, applying the identical "
+        "reasoning to moisture-born dragons.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 29.9 — Tatiyasutasutta
+# --------------------------------------------------------------------------- #
+page(
+    29, 9, "Tatiyasuta", "They&rsquo;ve Heard (3rd)",
+    vagga="Nāgavagga",
+    meta_title="SN 29.9 — They’ve Heard (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyasutasutta &mdash; a compressed stub applying SN "
+        "29.7's hearsay-driven aspiration to moisture-born dragons. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "A mendicant questions the Buddha"),
+        ("Form", "A peyyāla stub &mdash; only the opening question is "
+                 "given, with the source itself instructing readers "
+                 "to fill in the rest from SN 29.7"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 29.7"),
+    ],
+    why=(
+        "The third of SN 29.7&ndash;10's four-part set, compressed "
+        "identically to SN 29.8: only the opening question is given "
+        "&mdash; why is someone reborn among moisture-born dragons "
+        "&mdash; with the same \"tell all in full\" instruction "
+        "pointing back to SN 29.7, this time with moisture-born "
+        "substituted for egg-born."
+    ),
+    guide=[
+        ("One word swapped, the rest pointed back", [
+            "The question is identical in structure to SN 29.7 and "
+            "SN 29.8, with only \"moisture-born\" (saṃsedaja) "
+            "replacing the earlier birth mode &mdash; the source "
+            "again simply instructs: tell all in full.",
+        ]),
+        ("Third of four parallel discourses", [
+            "With this discourse, three of the four birth modes "
+            "have now been paired with hearsay-driven aspiration "
+            "&mdash; egg-born in full at SN 29.7, womb-born "
+            "compressed at SN 29.8, and moisture-born compressed "
+            "here &mdash; leaving only spontaneously-born still to "
+            "come at SN 29.10.",
+        ]),
+        ("The same alternating pattern, confirmed twice over", [
+            "This saṃyutta's four-part sets now show the identical "
+            "full-compressed-compressed-full shape across both SN "
+            "29.3&ndash;6 and SN 29.7&ndash;10, a structural "
+            "regularity worth watching for again should later "
+            "portions of this saṃyutta introduce further four-part "
+            "sets.",
+        ]),
+        ("A genuine feature of transmission, not an omission", [
+            "As with the other compressed stubs in this saṃyutta, "
+            "this discourse is quoted here exactly as the source "
+            "gives it rather than expanded into invented prose.",
+        ]),
+    ],
+    terms=[
+        ("saṃsedaja", "moisture-born &mdash; the birth mode this "
+                       "stub substitutes for SN 29.7's egg-born "
+                       "dragons"),
+        ("vitthāretabbaṁ", "\"should be told in full\" &mdash; this "
+                            "discourse's own closing editorial "
+                            "instruction"),
+        ("sutaṁ", "\"heard\" &mdash; the trigger named in SN 29.7's "
+                   "own title, carried over here by cross-reference"),
+        ("peyyāla", "the formal term for a passage the source itself "
+                     "elides, directing the reader elsewhere for its "
+                     "full wording"),
+        ("dvayakārī", "one who does both kinds of deeds &mdash; the "
+                       "ordinary mixed conduct implied here, though "
+                       "not restated, from SN 29.7"),
+    ],
+    text_intro=(
+        "The discourse in full &mdash; genuinely this short in the "
+        "source, including its closing editorial instruction. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn29.9:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "Which birth mode of dragon does this discourse's opening question concern?",
+         "opts": ["Moisture-born", "Egg-born", "Womb-born", "Spontaneously born"],
+         "correct": 0,
+         "expl": "The one substantive change from SN 29.7's own opening question."},
+        {"q": "How does the source handle the rest of this discourse's content?",
+         "opts": ["With an explicit editorial note: \"tell all in full\"",
+                  "By spelling out the full reasoning a second time", "By omitting any indication content is missing",
+                  "By replacing it with unrelated material"],
+         "correct": 0,
+         "expl": "Pointing back to SN 29.7's own hearsay-driven reasoning."},
+        {"q": "Where does this discourse fall in the SN 29.7–10 four-part set?",
+         "opts": ["Third, applying the reasoning to moisture-born dragons",
+                  "First", "Second", "Fourth and final"],
+         "correct": 0,
+         "expl": "With egg-born, womb-born, and now moisture-born covered, only spontaneously-born remains at SN 29.10."},
+        {"q": "What structural regularity does this discourse help confirm?",
+         "opts": ["The identical full-compressed-compressed-full shape across both SN 29.3–6 and SN 29.7–10",
+                  "That every four-part set in this saṃyutta is fully written out", "That no pattern connects the two four-part sets",
+                  "That this saṃyutta contains no compressed discourses at all"],
+         "correct": 0,
+         "expl": "A structural regularity worth watching for in any later four-part sets."},
+        {"q": "Which discourse's own reasoning does this stub point back to?",
+         "opts": ["SN 29.7", "SN 29.3", "SN 29.10", "SN 29.1"],
+         "correct": 0,
+         "expl": "SN 29.7's hearsay-driven reasoning, cross-referenced rather than restated."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("One word swapped, nothing else restated", [
+            "moisture-born in place of egg-born &mdash;",
+            "the rest simply pointed back to SN 29.7",
+        ]),
+        ("Third of a four-part set", [
+            "egg-born, womb-born, now moisture-born &mdash;",
+            "only spontaneous-born still ahead",
+        ]),
+        ("A pattern confirmed twice over", [
+            "full-compressed-compressed-full &mdash;",
+            "identical shape at both four-part sets",
+        ]),
+        ("A genuine feature of transmission", [
+            "\"tell all in full\" &mdash;",
+            "reciters' own shorthand, preserved as-is",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn29.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-29.8.html">SN 29.8 &middot; They&rsquo;ve Heard '
+        "(2nd)</a> &mdash; the previous discourse, applying the same "
+        "reasoning to womb-born dragons.",
+        '<a href="sn-29.10.html">SN 29.10 &middot; They&rsquo;ve '
+        "Heard (4th)</a> &mdash; the next discourse, closing this set "
+        "with spontaneously-born dragons, given in full.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 29.10 — Catutthasutasutta
+# --------------------------------------------------------------------------- #
+page(
+    29, 10, "Catutthasuta", "They&rsquo;ve Heard (4th)",
+    vagga="Nāgavagga",
+    meta_title="SN 29.10 — They’ve Heard (4th) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Catutthasutasutta &mdash; closing SN 29.7&ndash;10's "
+        "four-part set with spontaneously-born dragons' own full "
+        "hearsay-driven aspiration. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "A mendicant questions the Buddha, who answers "
+                     "by describing an unnamed aspirant's own "
+                     "reasoning"),
+        ("Form", "Given in full, mirroring SN 29.7's wording almost "
+                 "exactly with the birth mode swapped"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "straightforward, closely mirroring SN 29.7"),
+    ],
+    why=(
+        "This discourse closes SN 29.7&ndash;10's four-part set by "
+        "returning to full treatment, applying the identical "
+        "hearsay-driven reasoning already given for egg-born dragons "
+        "at SN 29.7 to spontaneously-born dragons instead: someone "
+        "hears that spontaneously-born dragons are long-lived, "
+        "beautiful, and happy, forms the wish, and is reborn among "
+        "them. With this discourse, Nāgasaṃyutta's first ten "
+        "discourses &mdash; taxonomy, ranking, sabbath-observance, "
+        "and hearsay-driven aspiration &mdash; are complete, before "
+        "the saṃyutta shifts to its final theme of specific giving "
+        "at SN 29.11&ndash;50."
+    ),
+    guide=[
+        ("The same reasoning, a fourth birth mode", [
+            "This discourse's wording matches SN 29.7's own almost "
+            "word for word, with only \"spontaneously-born\" "
+            "(opapātika) substituted throughout for \"egg-born\" "
+            "(aṇḍaja) &mdash; confirming exactly what SN 29.8 and SN "
+            "29.9's compressed instructions pointed back to.",
+        ]),
+        ("Bookending a second four-part set", [
+            "With SN 29.7 (egg-born) and this discourse "
+            "(spontaneously-born) both given in full, and SN 29.8 "
+            "(womb-born) and SN 29.9 (moisture-born) compressed "
+            "between them, this saṃyutta's structural preference "
+            "&mdash; full treatment at both ends, compression in the "
+            "middle &mdash; now holds across two complete four-part "
+            "sets.",
+        ]),
+        ("Ten discourses, three registers, one saṃyutta closed off", [
+            "SN 29.1&ndash;10 as a whole moves through three "
+            "distinct registers on the same fourfold taxonomy: bare "
+            "classification (SN 29.1&ndash;2), reflective self-"
+            "examination by beings already reborn (SN "
+            "29.3&ndash;6), and hearsay-driven aspiration by beings "
+            "not yet reborn (SN 29.7&ndash;10) &mdash; a "
+            "three-dimensional structure distinct from anything seen "
+            "in the topic-catalog saṃyuttas (SN 25&ndash;27) or the "
+            "personal narrative of SN 28.",
+        ]),
+        ("A third register still to come", [
+            "SN 29.11&ndash;50, covered on a single further page for "
+            "each of the four birth modes' own ten-item giving "
+            "formula, will add a third and final motivational "
+            "register &mdash; specific acts of giving &mdash; "
+            "closing this saṃyutta's own catalog of causes for "
+            "dragon rebirth.",
+        ]),
+    ],
+    terms=[
+        ("opapātika", "spontaneously born &mdash; the birth mode "
+                       "this discourse substitutes for SN 29.7's "
+                       "egg-born dragons"),
+        ("sutaṁ", "\"heard\" &mdash; the trigger this discourse "
+                   "shares with SN 29.7, now applied to a fourth "
+                   "birth mode"),
+        ("dvayakārī", "one who does both kinds of deeds &mdash; the "
+                       "ordinary mixed conduct attributed to this "
+                       "aspirant, as at SN 29.7"),
+        ("aho vata", "\"if only\" &mdash; the aspirant's own wishful "
+                      "exclamation, quoted directly, as at SN 29.7"),
+        ("kāyassa bhedā paraṁ maraṇā", "\"when the body breaks up, "
+                                        "after death\" &mdash; the "
+                                        "standard formula marking the "
+                                        "transition to a new rebirth"),
+    ],
+    text_intro=("The complete discourse: the mendicant's question and "
+        "the aspirant's own reported hearsay-driven reasoning in "
+        "full, closing this saṃyutta's first ten discourses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn29.10:1.1-1.3"),
+        ("p", "&sect;2", "sn29.10:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "Which birth mode of dragon does this discourse concern?",
+         "opts": ["Spontaneously born", "Egg-born", "Womb-born", "Moisture-born"],
+         "correct": 0,
+         "expl": "Closing the SN 29.7–10 four-part set."},
+        {"q": "How closely does this discourse's wording match SN 29.7's own?",
+         "opts": ["Almost word for word, with only the birth mode substituted",
+                  "Entirely different reasoning", "Only loosely related", "Identical, with no substitution at all"],
+         "correct": 0,
+         "expl": "Confirming exactly what SN 29.8 and SN 29.9's compressed stubs pointed back to."},
+        {"q": "What structural pattern does this discourse confirm across two complete four-part sets?",
+         "opts": ["Full treatment at both ends, compression in the middle two discourses",
+                  "Compression at both ends, full treatment in the middle",
+                  "All discourses given in full", "All discourses compressed"],
+         "correct": 0,
+         "expl": "The same shape now confirmed at both SN 29.3–6 and SN 29.7–10."},
+        {"q": "What three registers does SN 29.1–10 move through on the same fourfold taxonomy?",
+         "opts": ["Bare classification, reflective self-examination, and hearsay-driven aspiration",
+                  "Only bare classification, repeated ten times", "Only hearsay-driven aspiration, from the first discourse onward",
+                  "A single unchanging register throughout"],
+         "correct": 0,
+         "expl": "A three-dimensional structure distinct from the topic-catalog saṃyuttas or SN 28's personal narrative."},
+        {"q": "What theme does SN 29.11–50 add as this saṃyutta's third and final motivational register?",
+         "opts": ["Specific acts of giving", "A return to bare classification", "A debate between named disciples",
+                  "A denial that dragon rebirth is possible at all"],
+         "correct": 0,
+         "expl": "Closing this saṃyutta's own catalog of causes for dragon rebirth."},
+        {"q": "What does the aspirant in this discourse hope their wish, formed on hearsay, will produce?",
+         "opts": ["Rebirth in the company of the spontaneously-born dragons",
+                  "Immediate liberation from rebirth entirely", "A return to human form", "Nothing — the discourse doesn't say"],
+         "correct": 0,
+         "expl": "The identical outcome described at SN 29.7, now for a fourth birth mode."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("The fourth birth mode, given in full", [
+            "spontaneously-born, not egg-born &mdash;",
+            "SN 29.7's wording, almost unchanged",
+        ]),
+        ("A pattern confirmed across two sets", [
+            "full treatment at both ends &mdash;",
+            "compression only in the middle two",
+        ]),
+        ("Ten discourses, three registers", [
+            "classification, reflection, hearsay &mdash;",
+            "one taxonomy, three ways of reaching it",
+        ]),
+        ("A third register still ahead", [
+            "sabbath and hearsay now both closed &mdash;",
+            "specific giving begins at SN 29.11",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn29.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-29.9.html">SN 29.9 &middot; They&rsquo;ve Heard '
+        "(3rd)</a> &mdash; the previous discourse, compressed for "
+        "moisture-born dragons.",
+        '<a href="sn-29.11-20.html">SN 29.11&ndash;20 &middot; Ten '
+        "Discourses On How Giving Helps to Become Egg-Born</a> "
+        "&mdash; the next page, opening this saṃyutta's third "
+        "motivational register: specific acts of giving.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 29.11–20 — Aṇḍajadānūpakārasuttadasaka
+# --------------------------------------------------------------------------- #
+page_range(
+    29, 11, 20, "Aṇḍajadānūpakāra", "Ten Discourses On How Giving Helps "
+    "to Become Egg-Born",
+    vagga="Nāgavagga",
+    meta_title="SN 29.11–20 · Ten Discourses On How Giving Helps to "
+                "Become Egg-Born | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 29.11 through "
+        "29.20 &mdash; ten discourses, preserved in the source as a "
+        "single peyyāla block, on how giving ten specific kinds of "
+        "gifts each independently helps produce rebirth among "
+        "egg-born dragons. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by shared frame)"),
+        ("Speakers", "The Buddha, addressing an unnamed mendicant"),
+        ("Form", "Ten discourses compressed by bilara-data into a "
+                 "single file, one shared narrative frame with ten "
+                 "specific gift-items elided as a peyyāla list"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single repeated frame, easy to follow once "
+                       "the peyyāla list is recognized"),
+    ],
+    why=(
+        "This merged file opens Nāgasaṃyutta's third and final "
+        "motivational register: rather than reflection on one's own "
+        "past conduct (SN 29.3&ndash;6) or aspiration triggered "
+        "purely by hearsay (SN 29.7&ndash;10), this set of ten "
+        "traces rebirth as an egg-born dragon to ten specific acts "
+        "of giving &mdash; food, drink, clothing, a vehicle, a "
+        "garland, fragrance, makeup, a bed, a house, and a lamp "
+        "&mdash; each one, given by someone who has heard the same "
+        "reputation named at SN 29.7 and formed the same wish, "
+        "sufficient on its own to produce this specific rebirth. "
+        "Bilara-data preserves the entire set as a single file using "
+        "the unified-prefix peyyāla encoding already seen at SN "
+        "12.72&ndash;81 and SN 24.20&ndash;35."
+    ),
+    guide=[
+        ("One shared frame, ten items elided in sequence", [
+            "The file opens with the identical hearsay-and-wish "
+            "structure already seen at SN 29.7, then names the "
+            "first gift (food) in full before eliding the remaining "
+            "nine as a bare peyyāla list &mdash; drink, clothing, a "
+            "vehicle, a garland, fragrance, makeup, a bed, a house, "
+            "and finally a lamp, given in full to mark the list's "
+            "own end.",
+        ]),
+        ("Giving alone, without the earlier hearsay dropped", [
+            "Unlike a wholly new cause, this set folds giving into "
+            "the same hearsay-and-wish frame already established at "
+            "SN 29.7 &mdash; the aspirant still hears the dragons' "
+            "reputation and forms the wish, but now also performs a "
+            "specific act of generosity, which the discourse treats "
+            "as what actually completes the causal chain to "
+            "rebirth.",
+        ]),
+        ("Ten ordinary items, not ten ranked virtues", [
+            "The ten gifts named &mdash; food, drink, clothing, a "
+            "vehicle, a garland, fragrance, makeup, a bed, a house, "
+            "a lamp &mdash; are ordinary household and hospitality "
+            "items, not doctrinal categories, giving this set a "
+            "concretely practical register distinct from the "
+            "abstract topic-catalogs of SN 25&ndash;27.",
+        ]),
+        ("The same unified-prefix encoding as SN 12.72–81", [
+            "As with SN 12.72&ndash;81 and SN 24.20&ndash;35, this "
+            "file uses a single unified key prefix "
+            "(sn29.11-20:) for its entire content rather than ten "
+            "individually prefixed sub-discourses, confirming this "
+            "encoding convention recurs in Book III's final "
+            "saṃyutta as well.",
+        ]),
+        ("Setting up a much larger companion set", [
+            "This ten-item formula, applied here only to egg-born "
+            "dragons, is the exact template SN 29.21&ndash;50 will "
+            "apply to the remaining three birth modes at triple the "
+            "scale &mdash; thirty further discourses compressed even "
+            "more severely into a single file.",
+        ]),
+    ],
+    terms=[
+        ("dāna", "giving or generosity &mdash; the specific act each "
+                  "of these ten discourses treats as sufficient to "
+                  "help produce egg-born dragon rebirth"),
+        ("annaṁ deti", "\"gives food\" &mdash; the first of the ten "
+                        "gift-items, given in full before the "
+                        "remaining nine are elided"),
+        ("padīpeyyaṁ deti", "\"gives a lamp\" &mdash; the tenth and "
+                             "final gift-item, given in full to mark "
+                             "the elided list's own end"),
+        ("peyyāla", "an elision mark &mdash; here compressing ten "
+                     "gift-items into a single sequence of bare "
+                     "named nouns"),
+        ("aṇḍaja", "egg-born &mdash; the shared rebirth destination "
+                    "all ten discourses in this set trace to specific "
+                    "acts of giving"),
+    ],
+    text_intro=("The complete merged file: the shared hearsay-and-wish "
+        "frame, followed by the ten gift-items exactly as bilara-"
+        "data elides them, with the first (food) and last (a lamp) "
+        "given in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn29.11-20:1.1-1.2"),
+        ("p", "&sect;2", "sn29.11-20:2.1-2.19"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Ten — SN 29.11 through SN 29.20", "Thirty", "Four", "Fifty"],
+         "correct": 0,
+         "expl": "Bilara-data itself preserves these ten as a single peyyāla-encoded file."},
+        {"q": "What ten items does this set name as gifts, each sufficient to help produce egg-born rebirth?",
+         "opts": ["Food, drink, clothing, a vehicle, a garland, fragrance, makeup, a bed, a house, and a lamp",
+                  "Ten different meditation techniques", "Ten different monastic robes", "Ten coins of varying value"],
+         "correct": 0,
+         "expl": "Ordinary household and hospitality items, not doctrinal categories."},
+        {"q": "How does this set relate to SN 29.7's own hearsay-and-wish frame?",
+         "opts": ["It folds giving into the same frame, adding a specific act of generosity as what completes the causal chain",
+                  "It rejects the hearsay-and-wish frame entirely", "It has no relation to SN 29.7",
+                  "It replaces hearsay with direct instruction from the Buddha"],
+         "correct": 0,
+         "expl": "The aspirant still hears the dragons' reputation and forms the wish, as at SN 29.7."},
+        {"q": "Which two of the ten gift-items are given in full rather than elided?",
+         "opts": ["The first (food) and the last (a lamp)", "Only the first (food)", "Only the last (a lamp)",
+                  "All ten are given in full"],
+         "correct": 0,
+         "expl": "Marking the elided list's own beginning and end."},
+        {"q": "What encoding convention does this merged file share with SN 12.72–81 and SN 24.20–35?",
+         "opts": ["A single unified key prefix for its entire content, rather than individual prefixes per sub-discourse",
+                  "Each sub-discourse keeping its own individual key prefix", "No prefix convention at all",
+                  "A prefix unique to this file alone"],
+         "correct": 0,
+         "expl": "Confirming this encoding convention recurs in Book III's final saṃyutta."},
+        {"q": "What larger companion set does this ten-item formula set up?",
+         "opts": ["SN 29.21–50, applying the identical formula to the remaining three birth modes",
+                  "A return to the bare taxonomy of SN 29.1–2", "No further discourses follow this set",
+                  "A shift to an entirely unrelated saṃyutta"],
+         "correct": 0,
+         "expl": "Thirty further discourses at triple the scale, compressed even more severely."},
+        {"q": "What convention does this project follow for a merged file of this kind?",
+         "opts": ["Still generating one dedicated page, using page_range() to cover the full sutta-number span",
+                  "Silently skipping the range entirely", "Splitting it into ten separately fabricated pages",
+                  "Merging it into an adjacent saṃyutta's own page"],
+         "correct": 0,
+         "expl": "Matching this project's standing practice for peyyāla-compressed ranges."},
+    ],
+    marginalia=[
+        ("One frame, ten gifts elided", [
+            "food named first, a lamp named last &mdash;",
+            "nine items compressed to bare nouns between them",
+        ]),
+        ("Giving added to hearsay, not replacing it", [
+            "the same wish as SN 29.7 &mdash;",
+            "now completed by a specific act of generosity",
+        ]),
+        ("Ordinary items, a practical register", [
+            "food, drink, a bed, a lamp &mdash;",
+            "not abstract categories but household gifts",
+        ]),
+        ("A template for thirty more discourses ahead", [
+            "this formula applied to one birth mode &mdash;",
+            "SN 29.21–50 apply it to three more",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn29.11-20/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-29.10.html">SN 29.10 &middot; They&rsquo;ve '
+        "Heard (4th)</a> &mdash; the previous discourse, closing this "
+        "saṃyutta's second motivational register.",
+        '<a href="sn-29.21-50.html">SN 29.21&ndash;50 &middot; '
+        "Thirty Discourses On How Giving Helps to Become Womb-Born, "
+        "Etc.</a> &mdash; the next and final page, applying this "
+        "identical ten-item formula to the remaining three birth "
+        "modes and closing this entire saṃyutta.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 29.21–50 — Jalābujādidānūpakārasuttattiṁsaka
+# --------------------------------------------------------------------------- #
+page_range(
+    29, 21, 50, "Jalābujādidānūpakāra", "Thirty Discourses On How Giving "
+    "Helps to Become Womb-Born, Etc.",
+    vagga="Nāgavagga",
+    meta_title="SN 29.21–50 · Thirty Discourses On How Giving Helps to "
+                "Become Womb-Born, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 29.21 through "
+        "29.50 &mdash; thirty discourses, preserved in the source as "
+        "a single peyyāla block, applying SN 29.11&ndash;20's own "
+        "ten-item giving formula to womb-born, moisture-born, and "
+        "spontaneously-born dragons, closing Nāgasaṃyutta and this "
+        "book with its own translated colophon. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing an unnamed mendicant"),
+        ("Form", "Thirty discourses compressed by bilara-data into a "
+                 "single file: one worked example (spontaneously-"
+                 "born) given in full, plus an explicit editorial "
+                 "multiplier covering the other two birth modes"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial once SN 29.11&ndash;20's own formula "
+                       "is understood"),
+    ],
+    why=(
+        "This is the most severely compressed file in Nāgasaṃyutta: "
+        "thirty discourses &mdash; SN 29.11&ndash;20's own ten-item "
+        "giving formula applied to womb-born, moisture-born, and "
+        "spontaneously-born dragons in turn &mdash; reduced to one "
+        "fully worked example (the tenth item, a lamp, for "
+        "spontaneously-born dragons) plus a single explicit editorial "
+        "note: this same method should be used to make ten "
+        "discourses each, so that across the four wombs there are "
+        "forty expositions, which together with the previous ten "
+        "discourses make fifty discourses in all. This file also "
+        "closes Nāgasaṃyutta itself, carrying both this saṃyutta's "
+        "own untranslated vagga colophon and its officially "
+        "Sujato-translated closing line."
+    ),
+    guide=[
+        ("A single worked example standing for thirty discourses", [
+            "Rather than spelling out any of the thirty discourses "
+            "in the detail SN 29.11&ndash;20 gave its own ten, this "
+            "file gives only one thread through to its very end "
+            "&mdash; the tenth gift-item (a lamp), for "
+            "spontaneously-born dragons &mdash; and elides everything "
+            "else, including the other two birth modes and the "
+            "first nine gift-items, entirely.",
+        ]),
+        ("The source's own explicit arithmetic", [
+            "Bilara-data preserves an untranslated editorial "
+            "parenthetical spelling out exactly what this "
+            "compression stands for: \"by this peyyāla method, ten "
+            "discourses each are to be made; thus for the four "
+            "wombs there are forty expositions; together with the "
+            "previous ten discourses there are fifty discourses\" "
+            "&mdash; the compiler's own confirmation of this "
+            "saṃyutta's full fifty-discourse count.",
+        ]),
+        ("A vagga colophon coinciding with a saṃyutta colophon", [
+            "Because Nāgasaṃyutta consists of exactly one vagga "
+            "(Nāgavagga), the untranslated Pali line "
+            "\"Nāgavaggo paṭhamo\" (\"Nāgavagga, the first, "
+            "finished\") and the saṃyutta's own closing both appear "
+            "in this same file &mdash; a structural coincidence "
+            "unique to a single-vagga saṃyutta, not seen in "
+            "SN 22&ndash;24's multi-vagga structure earlier in this "
+            "book.",
+        ]),
+        ("An officially translated closing line", [
+            "Unlike the untranslated vagga colophon and uddāna "
+            "verse immediately preceding it, the file's final line "
+            "&mdash; \"the Linked Discourses on dragons are "
+            "complete\" &mdash; is genuinely translated by Sujato, "
+            "the same kind of officially rendered closing line this "
+            "project has already collected at the end of SN 24 and "
+            "SN 28, and is quoted here verbatim.",
+        ]),
+        ("Closing Nāgasaṃyutta's own three-register structure", [
+            "With this file, Nāgasaṃyutta's full arc is complete: "
+            "bare taxonomy (SN 29.1&ndash;2), reflective sabbath-"
+            "observance (SN 29.3&ndash;6), hearsay-driven aspiration "
+            "(SN 29.7&ndash;10), and now giving (SN "
+            "29.11&ndash;50) &mdash; four causal registers, all "
+            "built on the identical fourfold birth taxonomy this "
+            "saṃyutta opened with.",
+        ]),
+    ],
+    terms=[
+        ("iminā peyyālena", "\"by this peyyāla method\" &mdash; the "
+                             "source's own untranslated instruction "
+                             "explaining how to reconstruct the "
+                             "thirty elided discourses"),
+        ("cattālīsaṁ veyyākaraṇā", "forty expositions &mdash; the "
+                                    "compiler's own arithmetic for "
+                                    "the three remaining birth modes' "
+                                    "ten discourses each"),
+        ("paṇṇāsasuttantā", "fifty discourses &mdash; this "
+                              "saṃyutta's own total count, confirmed "
+                              "explicitly by its compiler"),
+        ("Nāgavaggo paṭhamo", "\"Nāgavagga, the first, finished\" "
+                               "&mdash; the untranslated vagga "
+                               "colophon, coinciding here with the "
+                               "saṃyutta's own close"),
+        ("Nāgasaṃyuttaṃ samattaṃ", "\"the Linked Discourses on "
+                                    "dragons are complete\" &mdash; "
+                                    "this saṃyutta's own officially "
+                                    "Sujato-translated closing line, "
+                                    "quoted verbatim in the text "
+                                    "below"),
+    ],
+    text_intro=("The complete merged file: the shared frame for "
+        "spontaneously-born dragons, the tenth gift-item given in "
+        "full, and the saṃyutta's own closing line, exactly as "
+        "bilara-data preserves it. The editorial arithmetic and the "
+        "untranslated vagga colophon and uddāna verse are described "
+        "above rather than quoted, since the source itself leaves "
+        "them untranslated. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn29.21-50:1.1-1.5"),
+        ("p", "&sect;2", "sn29.21-50:2.1-2.10"),
+        ("p", "&sect;3", "sn29.21-50:3.1"),
+        ("p", "&sect;4", "sn29.21-50:4.7"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Thirty — SN 29.21 through SN 29.50", "Ten", "Fifty", "Four"],
+         "correct": 0,
+         "expl": "SN 29.11–20's own ten-item formula applied to the three remaining birth modes."},
+        {"q": "Which single thread does this file work through to its own end, standing for all thirty discourses?",
+         "opts": ["The tenth gift-item (a lamp) for spontaneously-born dragons",
+                  "The first gift-item (food) for womb-born dragons", "All thirty discourses in full",
+                  "A discourse unrelated to giving"],
+         "correct": 0,
+         "expl": "Everything else — the other birth modes and the first nine gift-items — is elided entirely."},
+        {"q": "What total discourse count does the source's own editorial arithmetic confirm for this saṃyutta?",
+         "opts": ["Fifty discourses in all", "Twelve, matching an earlier rough estimate", "Ten only",
+                  "One hundred"],
+         "correct": 0,
+         "expl": "Forty new expositions across the three remaining birth modes, plus the previous ten from SN 29.11–20."},
+        {"q": "Why do a vagga colophon and a saṃyutta colophon coincide in this single file?",
+         "opts": ["Because Nāgasaṃyutta consists of exactly one vagga (Nāgavagga)",
+                  "Because this file spans two different saṃyuttas", "Because the source made an error",
+                  "Because this saṃyutta has no vagga structure at all"],
+         "correct": 0,
+         "expl": "A structural coincidence unique to a single-vagga saṃyutta, unlike SN 22–24's multi-vagga structure earlier in this book."},
+        {"q": "What does the officially translated closing line of this saṃyutta say?",
+         "opts": ["\"The Linked Discourses on dragons are complete\"",
+                  "\"The eighteen expositions are finished\"", "No closing line is translated in the source",
+                  "\"The four wombs are now exhausted\""],
+         "correct": 0,
+         "expl": "Genuinely translated by Sujato, quoted verbatim in this page's text."},
+        {"q": "What four causal registers does Nāgasaṃyutta's full arc move through, according to this reading guide?",
+         "opts": ["Bare taxonomy, reflective sabbath-observance, hearsay-driven aspiration, and giving",
+                  "Only bare taxonomy, repeated four times", "Only giving, from the first discourse onward",
+                  "A single unchanging register throughout"],
+         "correct": 0,
+         "expl": "All four built on the identical fourfold birth taxonomy this saṃyutta opened with at SN 29.1."},
+        {"q": "How does the untranslated Pali material in this file compare to the officially translated closing line?",
+         "opts": ["The vagga colophon and uddāna verse are untranslated and described rather than quoted; only the final closing line is genuinely translated",
+                  "All of the closing material is fully translated", "None of the closing material is translated",
+                  "Only the uddāna verse is translated"],
+         "correct": 0,
+         "expl": "This reading guide follows the source's own translation boundary exactly, quoting only what Sujato rendered."},
+    ],
+    marginalia=[
+        ("Thirty discourses, one worked thread", [
+            "a lamp, for spontaneously-born dragons &mdash;",
+            "everything else elided entirely",
+        ]),
+        ("The compiler's own arithmetic, preserved", [
+            "forty new expositions, plus ten before &mdash;",
+            "fifty discourses, confirmed in the source itself",
+        ]),
+        ("One vagga, one saṃyutta, one close", [
+            "Nāgavaggo paṭhamo &mdash;",
+            "vagga and saṃyutta colophons, coinciding",
+        ]),
+        ("A closing line genuinely translated", [
+            "\"the Linked Discourses on dragons are complete\" &mdash;",
+            "Sujato's own words, quoted verbatim",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn29.21-50/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-29.11-20.html">SN 29.11&ndash;20 &middot; Ten '
+        "Discourses On How Giving Helps to Become Egg-Born</a> "
+        "&mdash; the previous page, giving this same ten-item formula "
+        "in full for egg-born dragons.",
+        '<a href="sn-29.1.html">SN 29.1 &middot; Plain Version</a> '
+        "&mdash; this saṃyutta's own opening discourse, whose bare "
+        "fourfold taxonomy every later discourse, including this "
+        "closing one, ultimately builds on.",
+    ],
+)
