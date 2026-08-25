@@ -54932,3 +54932,2440 @@ page(
         "including this closing one, ultimately builds on.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 33.1 — Rūpaaññāṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    33, 1, "Rūpaaññāṇa", "Not Knowing Form",
+    vagga="Vacchagottavagga",
+    meta_title="SN 33.1 — Not Knowing Form | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Rūpaaññāṇasutta &mdash; opening Vacchagottasaṃyutta with "
+        "the wanderer Vacchagotta's own question: why do the ten "
+        "classic speculative views about self and cosmos arise? The "
+        "Buddha traces them to not knowing form. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                     "monastery"),
+        ("Speakers", "The wanderer Vacchagotta questions the Buddha "
+                     "directly, addressing him as \"worthy Gotama\""),
+        ("Form", "A single question spelling out all ten classic "
+                 "speculative views in full, met with a single, "
+                 "compact diagnostic answer"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the ten views take real attention to parse "
+                       "even though the answer itself is compact"),
+    ],
+    why=(
+        "This discourse opens Vacchagottasaṃyutta (\"Linked "
+        "Discourses with Vacchagotta\") with the wanderer's own "
+        "signature question, spelling out in full the ten classic "
+        "speculative views that recur throughout the canon's "
+        "avyākata (\"undeclared\") material &mdash; is the cosmos "
+        "eternal or not, finite or infinite; are the soul and body "
+        "one thing or different things; does a realized one exist, "
+        "not exist, both, or neither after death. Rather than "
+        "engaging any single view on its own terms, the Buddha's "
+        "answer diagnoses the entire family of views at once: they "
+        "arise from not knowing form, its origin, its cessation, and "
+        "the practice leading to its cessation. This single "
+        "discourse establishes the template every one of this "
+        "saṃyutta's remaining 54 discourses will vary only slightly."
+    ),
+    guide=[
+        ("Ten views, spelled out in full for the only time", [
+            "This is the one discourse in the entire saṃyutta where "
+            "Vacchagotta's own question names all ten views in "
+            "full: eternal/not eternal, finite/infinite, soul-and-"
+            "body-one/soul-and-body-different, and the four-cornered "
+            "question about a realized one's existence after death "
+            "&mdash; every later discourse elides this same list with "
+            "an ellipsis, trusting the reader to recall it from here.",
+        ]),
+        ("A diagnosis, not a debate", [
+            "The Buddha doesn't argue against any of the ten views "
+            "individually; instead, he identifies a single root "
+            "condition &mdash; not knowing form, its origin, its "
+            "cessation, and the path to its cessation &mdash; that "
+            "he claims produces the entire family of views at once, "
+            "regardless of which particular position someone lands "
+            "on.",
+        ]),
+        ("Form, the first of five aggregates this saṃyutta will cycle through", [
+            "This discourse addresses only form (rūpa); SN "
+            "33.2&ndash;5 will apply the identical diagnostic "
+            "structure to feeling, perception, choices, and "
+            "consciousness in turn, establishing the five-aggregate "
+            "cycle this entire saṃyutta is built on.",
+        ]),
+        ("\"Worthy Gotama,\" a wanderer's own form of address", [
+            "Vacchagotta addresses the Buddha as \"worthy Gotama\" "
+            "(bho Gotama) rather than \"sir\" (bhante) &mdash; the "
+            "respectful but non-committal address of an outside "
+            "wanderer, not yet a disciple, consistent with "
+            "Vacchagotta's own recurring role elsewhere in the canon "
+            "as a genuinely curious but unconverted questioner.",
+        ]),
+    ],
+    terms=[
+        ("aññāṇa", "not knowing &mdash; the diagnostic term this "
+                    "discourse's own title uses, the first of eleven "
+                    "near-synonymous verbs this saṃyutta will cycle "
+                    "through"),
+        ("rūpa", "form &mdash; the first of the five aggregates this "
+                  "saṃyutta addresses in turn"),
+        ("diṭṭhigatāni", "\"views\" or \"resorts of views\" &mdash; "
+                          "the technical term for the ten speculative "
+                          "positions Vacchagotta names in full"),
+        ("sassato loko", "\"the cosmos is eternal\" &mdash; the "
+                          "first of the ten views, opening the "
+                          "classic avyākata list"),
+        ("hoti tathāgato paraṁ maraṇā", "\"a realized one still "
+                                         "exists after death\" "
+                                         "&mdash; the first of the "
+                                         "four-cornered questions "
+                                         "closing the list"),
+    ],
+    text_intro=("The complete discourse: Vacchagotta's own question, "
+        "naming all ten views in full, and the Buddha's compact "
+        "diagnostic answer. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn33.1:1.1-1.7"),
+        ("p", "&sect;2", "sn33.1:1.10"),
+    ],
+    quiz=[
+        {"q": "What does Vacchagotta ask the Buddha at the start of this discourse?",
+         "opts": ["Why various speculative views about the cosmos, self, and the afterlife arise",
+                  "How to meditate on the aggregates", "Whether the Buddha accepts him as a disciple",
+                  "What the Buddha eats for almsfood"],
+         "correct": 0,
+         "expl": "The ten classic avyākata (undeclared) views, spelled out in full here."},
+        {"q": "How does the Buddha's answer treat the ten views?",
+         "opts": ["It diagnoses a single root cause behind the entire family, rather than debating any one view",
+                  "It endorses one of the ten views as correct", "It refuses to answer at all",
+                  "It lists ten separate causes, one per view"],
+         "correct": 0,
+         "expl": "Not knowing form, its origin, its cessation, and the path to its cessation."},
+        {"q": "Why is this discourse the only one in the saṃyutta to name all ten views in full?",
+         "opts": ["Every later discourse elides the same list with an ellipsis, trusting the reader to recall it from here",
+                  "The ten views only apply to form, not the other aggregates", "Later discourses use a different list entirely",
+                  "This discourse is a later addition not found in the original text"],
+         "correct": 0,
+         "expl": "This discourse establishes the template every remaining discourse varies only slightly."},
+        {"q": "Which aggregate does this specific discourse address?",
+         "opts": ["Form (rūpa)", "Feeling", "Perception", "Consciousness"],
+         "correct": 0,
+         "expl": "SN 33.2–5 will apply the identical structure to the remaining four aggregates."},
+        {"q": "How does Vacchagotta address the Buddha?",
+         "opts": ["\"Worthy Gotama\" (bho Gotama), a wanderer's respectful but non-committal address",
+                  "\"Sir\" (bhante), a disciple's own address", "By his given name alone", "He does not address him directly"],
+         "correct": 0,
+         "expl": "Consistent with Vacchagotta's recurring role elsewhere in the canon as an unconverted questioner."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery", "Rājagaha, the Bamboo Grove",
+                  "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Given in full here, this saṃyutta's opening discourse."},
+    ],
+    marginalia=[
+        ("Ten views, named once in full", [
+            "eternal or not, finite or infinite &mdash;",
+            "every later discourse just says \"etc.\"",
+        ]),
+        ("One diagnosis for an entire family", [
+            "not knowing form, its rise and fall &mdash;",
+            "no single view debated on its own terms",
+        ]),
+        ("Form, the first of five", [
+            "feeling, perception, choices, consciousness &mdash;",
+            "the same structure repeats four more times",
+        ]),
+        ("A wanderer, not yet a disciple", [
+            "\"worthy Gotama,\" not \"sir\" &mdash;",
+            "genuinely curious, still unconverted",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn33.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-32.57.html">SN 32.57 &middot; Gods of the Rainy '
+        "Thunderclouds</a> &mdash; the previous page, closing "
+        "Valāhakasaṃyutta.",
+        '<a href="sn-33.2.html">SN 33.2 &middot; Not Knowing '
+        "Feeling</a> &mdash; the next discourse, applying this same "
+        "diagnosis to the second aggregate.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 33.2 — Vedanāaññāṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    33, 2, "Vedanāaññāṇa", "Not Knowing Feeling",
+    vagga="Vacchagottavagga",
+    meta_title="SN 33.2 — Not Knowing Feeling | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vedanāaññāṇasutta &mdash; applying SN 33.1's own "
+        "diagnostic structure to feeling, the second of five "
+        "aggregates. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The wanderer Vacchagotta questions the Buddha"),
+        ("Form", "Identical to SN 33.1's own structure, with the ten "
+                 "views elided and only the aggregate changed"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 33.1"),
+    ],
+    why=(
+        "The second of this saṃyutta's five-aggregate cycle, applying "
+        "SN 33.1's own diagnostic structure to feeling: the same ten "
+        "views, now elided rather than spelled out, arise from not "
+        "knowing feeling, its origin, its cessation, and the practice "
+        "leading to its cessation. Confirms that SN 33.1's own "
+        "diagnosis was never specific to form but a template meant to "
+        "be run across the whole aggregate set."
+    ),
+    guide=[
+        ("The ten views, now elided", [
+            "Where SN 33.1 spelled out all ten views in full, this "
+            "discourse compresses them to \"the cosmos is eternal, "
+            "or not eternal … after death, a realized one neither "
+            "still exists nor no longer exists\" &mdash; naming only "
+            "the first and last of the list, trusting the reader to "
+            "supply the rest from SN 33.1.",
+        ]),
+        ("One word changed, the diagnosis otherwise identical", [
+            "\"It is because of not knowing feeling, its origin, its "
+            "cessation, and the practice that leads to its "
+            "cessation\" &mdash; word for word the same structure as "
+            "SN 33.1, with only rūpa (form) replaced by vedanā "
+            "(feeling).",
+        ]),
+        ("Confirming a genuine five-aggregate template", [
+            "This discourse's own near-identical repetition of SN "
+            "33.1's structure confirms the underlying claim was "
+            "never specific to form: the same diagnostic logic "
+            "applies uniformly across all five aggregates, feeling "
+            "included.",
+        ]),
+        ("Second of five, three more still to come", [
+            "SN 33.3&ndash;5 will apply this identical structure to "
+            "perception, choices, and consciousness, closing this "
+            "saṃyutta's own first five-discourse set before the "
+            "cycle repeats with a new diagnostic verb at SN "
+            "33.6&ndash;10.",
+        ]),
+    ],
+    terms=[
+        ("vedanā", "feeling &mdash; the second of the five "
+                    "aggregates, the subject of this specific "
+                    "discourse"),
+        ("aññāṇa", "not knowing &mdash; the same diagnostic verb as "
+                    "SN 33.1, carried over unchanged"),
+        ("peyyāla", "an elision mark &mdash; here compressing the "
+                     "ten-view list to its first and last members "
+                     "only"),
+        ("rūpa", "form &mdash; the aggregate this discourse replaces, "
+                  "carried over by cross-reference from SN 33.1"),
+        ("hetu", "cause &mdash; Vacchagotta's own opening word, "
+                  "unchanged from SN 33.1"),
+    ],
+    text_intro=("The complete discourse, with the ten-view list elided "
+        "as the source itself elides it. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn33.2:1.1-1.7"),
+        ("p", "&sect;2", "sn33.2:1.10"),
+    ],
+    quiz=[
+        {"q": "Which aggregate does this discourse address?",
+         "opts": ["Feeling (vedanā)", "Form", "Perception", "Consciousness"],
+         "correct": 0,
+         "expl": "The second of this saṃyutta's five-aggregate cycle."},
+        {"q": "How does this discourse present the ten classic views, compared to SN 33.1?",
+         "opts": ["Elided to only the first and last members, trusting the reader to recall the rest from SN 33.1",
+                  "Spelled out in full again", "Reduced to a completely different list", "Omitted entirely"],
+         "correct": 0,
+         "expl": "SN 33.1 remains the only discourse to name all ten views in full."},
+        {"q": "What single word changes in the diagnostic answer, compared to SN 33.1?",
+         "opts": ["Vedanā (feeling) replaces rūpa (form)", "The diagnostic verb itself changes",
+                  "The setting changes", "Vacchagotta's own question changes"],
+         "correct": 0,
+         "expl": "The rest of the diagnostic structure is word for word identical."},
+        {"q": "What does this discourse's near-identical repetition confirm about SN 33.1's own claim?",
+         "opts": ["It was never specific to form — the same logic applies uniformly across all five aggregates",
+                  "It applied only to form and this discourse contradicts it", "It has no relation to SN 33.1 at all",
+                  "It introduces an entirely new diagnostic claim"],
+         "correct": 0,
+         "expl": "A genuine five-aggregate template, not a one-off claim about form alone."},
+        {"q": "How many more aggregate-discourses complete this saṃyutta's first five-discourse set?",
+         "opts": ["Three — perception, choices, and consciousness", "One", "Five", "None — this is the last"],
+         "correct": 0,
+         "expl": "At SN 33.3–5, before a new diagnostic verb begins at SN 33.6–10."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("Ten views, now just a shadow", [
+            "eternal, or not eternal ... neither exists &mdash;",
+            "first and last only, the rest implied",
+        ]),
+        ("One word swapped, nothing else", [
+            "feeling in place of form &mdash;",
+            "the diagnosis otherwise unchanged",
+        ]),
+        ("A template confirmed, not a special case", [
+            "the same logic, a second aggregate &mdash;",
+            "not knowing itself is the constant",
+        ]),
+        ("Second of five, three more to come", [
+            "perception, choices, consciousness ahead &mdash;",
+            "then a new verb begins the cycle again",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn33.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-33.1.html">SN 33.1 &middot; Not Knowing '
+        "Form</a> &mdash; the previous discourse, giving the ten "
+        "views in full and establishing this template.",
+        '<a href="sn-33.3.html">SN 33.3 &middot; Not Knowing '
+        "Perception</a> &mdash; the next discourse, applying this "
+        "same diagnosis to the third aggregate.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 33.3 — Saññāaññāṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    33, 3, "Saññāaññāṇa", "Not Knowing Perception",
+    vagga="Vacchagottavagga",
+    meta_title="SN 33.3 — Not Knowing Perception | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saññāaññāṇasutta &mdash; a further compressed stub "
+        "applying SN 33.1's own diagnosis to perception, the third "
+        "aggregate. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The wanderer Vacchagotta questions the Buddha "
+                     "(by cross-reference)"),
+        ("Form", "A peyyāla stub &mdash; both the question and the "
+                 "answer reduced to a bare cross-reference"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 33.1"),
+    ],
+    why=(
+        "This discourse compresses further than SN 33.2's own already "
+        "-elided treatment: both Vacchagotta's question and the "
+        "Buddha's answer are reduced to bare cross-reference marks, "
+        "with only the aggregate name (perception) and the diagnostic "
+        "verb (not knowing) surviving in full. The claim itself is "
+        "unchanged &mdash; not knowing perception, its origin, its "
+        "cessation, and the path to its cessation produces the same "
+        "family of speculative views."
+    ),
+    guide=[
+        ("An even more compressed stub than SN 33.2", [
+            "Where SN 33.2 at least restated the first and last of "
+            "the ten views, this discourse elides Vacchagotta's own "
+            "question down to \"What is the cause ... why these "
+            "various misconceptions arise in the world? …\" with "
+            "nothing further spelled out.",
+        ]),
+        ("The diagnosis, still given in full", [
+            "Despite the question's own extreme compression, the "
+            "Buddha's diagnostic formula &mdash; \"it is because of "
+            "not knowing perception, its origin, its cessation, and "
+            "the practice that leads to its cessation\" &mdash; is "
+            "still spelled out here, unlike later discourses in this "
+            "saṃyutta that will compress even this.",
+        ]),
+        ("Perception, the third of five aggregates", [
+            "This discourse continues the identical five-aggregate "
+            "cycle begun at SN 33.1, now applied to saññā "
+            "(perception), with choices and consciousness still to "
+            "come.",
+        ]),
+        ("A genuine feature of transmission, not an omission", [
+            "As with other short peyyāla stubs elsewhere in this "
+            "project's coverage of the Saṃyutta Nikāya, this "
+            "discourse's brevity is quoted here exactly as the source "
+            "gives it rather than expanded into invented prose.",
+        ]),
+    ],
+    terms=[
+        ("saññā", "perception &mdash; the third of the five "
+                   "aggregates, the subject of this specific "
+                   "discourse"),
+        ("aññāṇa", "not knowing &mdash; the same diagnostic verb as "
+                    "SN 33.1 and SN 33.2, carried over unchanged"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "Vacchagotta's question and much of the "
+                     "surrounding frame"),
+        ("vedanā", "feeling &mdash; the aggregate this discourse "
+                    "replaces, carried over by cross-reference from "
+                    "SN 33.2"),
+        ("hetu", "cause &mdash; Vacchagotta's own opening word, "
+                  "unchanged across this five-discourse set"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its bare essentials. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn33.3:1.1-1.3"),
+        ("p", "&sect;2", "sn33.3:1.6"),
+    ],
+    quiz=[
+        {"q": "Which aggregate does this discourse address?",
+         "opts": ["Perception (saññā)", "Form", "Feeling", "Consciousness"],
+         "correct": 0,
+         "expl": "The third of this saṃyutta's five-aggregate cycle."},
+        {"q": "How does this discourse's question compare to SN 33.2's own?",
+         "opts": ["Even more compressed — reduced to a bare cross-reference with nothing further spelled out",
+                  "Expanded, restating the full ten-view list", "Identical in every respect",
+                  "The question is omitted entirely"],
+         "correct": 0,
+         "expl": "SN 33.2 at least restated the first and last of the ten views; this discourse does not."},
+        {"q": "Is the Buddha's diagnostic answer also compressed in this discourse?",
+         "opts": ["No — it is still spelled out in full, unlike some later discourses in this saṃyutta",
+                  "Yes, it is reduced to a single word", "The answer is omitted entirely",
+                  "It contradicts SN 33.1's own diagnostic claim"],
+         "correct": 0,
+         "expl": "\"Not knowing perception, its origin, its cessation, and the practice that leads to its cessation.\""},
+        {"q": "What does this reading guide do with this discourse's own brevity?",
+         "opts": ["Quotes it exactly as the source gives it, without fabricating the elided material",
+                  "Reconstructs the full question and presents it as this discourse's own text",
+                  "Skips the discourse entirely", "Invents new content unrelated to SN 33.1"],
+         "correct": 0,
+         "expl": "Consistent with this project's practice on other short peyyāla stubs elsewhere in the Saṃyutta Nikāya."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses, though given here only by cross-reference."},
+    ],
+    marginalia=[
+        ("A question reduced to almost nothing", [
+            "\"why these misconceptions arise? ...\" &mdash;",
+            "nothing further spelled out",
+        ]),
+        ("The answer, still given in full", [
+            "not knowing perception, its rise and fall &mdash;",
+            "the diagnosis itself not yet compressed",
+        ]),
+        ("Third of five, the cycle continues", [
+            "form, feeling, now perception &mdash;",
+            "choices and consciousness still ahead",
+        ]),
+        ("A genuine feature of transmission", [
+            "brevity itself the point &mdash;",
+            "not an omission introduced by this reading guide",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn33.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-33.2.html">SN 33.2 &middot; Not Knowing '
+        "Feeling</a> &mdash; the previous discourse, applying this "
+        "same diagnosis to the second aggregate.",
+        '<a href="sn-33.4.html">SN 33.4 &middot; Not Knowing '
+        "Choices</a> &mdash; the next discourse, applying this same "
+        "diagnosis to the fourth aggregate.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 33.4 — Saṅkhāraaññāṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    33, 4, "Saṅkhāraaññāṇa", "Not Knowing Choices",
+    vagga="Vacchagottavagga",
+    meta_title="SN 33.4 — Not Knowing Choices | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saṅkhāraaññāṇasutta &mdash; the identical compressed "
+        "stub applying SN 33.1's own diagnosis to choices, the "
+        "fourth aggregate. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The wanderer Vacchagotta questions the Buddha "
+                     "(by cross-reference)"),
+        ("Form", "A peyyāla stub, identical in shape to SN 33.3"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 33.1"),
+    ],
+    why=(
+        "The fourth of this saṃyutta's five-aggregate cycle, "
+        "compressed in exactly the same shape as SN 33.3: not knowing "
+        "choices (saṅkhārā), their origin, their cessation, and the "
+        "practice leading to their cessation produces the same family "
+        "of speculative views &mdash; the identical diagnostic claim, "
+        "now in its fourth application."
+    ),
+    guide=[
+        ("The same compression shape as SN 33.3", [
+            "This discourse's question and answer are elided in "
+            "exactly the same pattern as SN 33.3's own, with only "
+            "the aggregate name changed from perception to choices "
+            "(saṅkhārā).",
+        ]),
+        ("Choices, the fourth of the five aggregates", [
+            "Saṅkhārā (\"choices\" or \"volitional formations\") is "
+            "the fourth aggregate in the standard five-aggregate "
+            "list this saṃyutta cycles through, following form, "
+            "feeling, and perception.",
+        ]),
+        ("A pattern now fully established across four discourses", [
+            "With form, feeling, perception, and now choices all "
+            "receiving the identical diagnostic treatment, the "
+            "five-aggregate template is confirmed a fourth time, "
+            "leaving only consciousness to complete this saṃyutta's "
+            "own opening set.",
+        ]),
+        ("One discourse remaining in this first set", [
+            "SN 33.5 will close this saṃyutta's own first "
+            "five-discourse cycle, applying the identical diagnosis "
+            "to consciousness before a new diagnostic verb begins the "
+            "cycle again at SN 33.6&ndash;10.",
+        ]),
+    ],
+    terms=[
+        ("saṅkhāra", "choices, or volitional formations &mdash; the "
+                      "fourth of the five aggregates, the subject of "
+                      "this specific discourse"),
+        ("aññāṇa", "not knowing &mdash; the same diagnostic verb "
+                    "carried over from SN 33.1&ndash;3"),
+        ("peyyāla", "an elision mark &mdash; here compressing both "
+                     "the question and much of the surrounding frame"),
+        ("saññā", "perception &mdash; the aggregate this discourse "
+                   "replaces, carried over by cross-reference from SN "
+                   "33.3"),
+        ("hetu", "cause &mdash; Vacchagotta's own opening word, "
+                  "unchanged across this five-discourse set"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its bare essentials. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn33.4:1.1-1.3"),
+        ("p", "&sect;2", "sn33.4:1.6"),
+    ],
+    quiz=[
+        {"q": "Which aggregate does this discourse address?",
+         "opts": ["Choices (saṅkhārā)", "Form", "Feeling", "Consciousness"],
+         "correct": 0,
+         "expl": "The fourth of this saṃyutta's five-aggregate cycle."},
+        {"q": "How does this discourse's compression compare to SN 33.3's own?",
+         "opts": ["The identical shape, with only the aggregate name changed",
+                  "Considerably more compressed", "Considerably less compressed, restating the full ten views",
+                  "An entirely different compression pattern"],
+         "correct": 0,
+         "expl": "Both question and answer elided in exactly the same pattern."},
+        {"q": "What does saṅkhārā mean in this context?",
+         "opts": ["Choices, or volitional formations", "Physical form", "Bare sense-perception", "Consciousness itself"],
+         "correct": 0,
+         "expl": "The fourth aggregate in the standard five-aggregate list."},
+        {"q": "How many discourses have now confirmed the identical diagnostic template across different aggregates?",
+         "opts": ["Four — form, feeling, perception, and choices", "Only two", "All five, including this one",
+                  "None — each discourse uses a different diagnosis"],
+         "correct": 0,
+         "expl": "Leaving only consciousness to complete this saṃyutta's own opening set at SN 33.5."},
+        {"q": "What happens after SN 33.5 closes this saṃyutta's first five-discourse cycle?",
+         "opts": ["A new diagnostic verb begins the cycle again at SN 33.6–10",
+                  "The saṃyutta ends entirely", "The five-aggregate cycle is abandoned",
+                  "SN 33.6 returns to form with the same verb"],
+         "correct": 0,
+         "expl": "This saṃyutta cycles through eleven different diagnostic verbs, five aggregates each."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses, though given here only by cross-reference."},
+    ],
+    marginalia=[
+        ("The same compressed shape again", [
+            "choices in place of perception &mdash;",
+            "identical elision, fourth time now",
+        ]),
+        ("Volitional formations, the fourth aggregate", [
+            "saṅkhārā, choices themselves &mdash;",
+            "following form, feeling, perception",
+        ]),
+        ("A template confirmed a fourth time", [
+            "not knowing, applied uniformly &mdash;",
+            "only consciousness still to come",
+        ]),
+        ("One discourse left in this first set", [
+            "SN 33.5 closes this cycle &mdash;",
+            "then a new verb begins it again",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn33.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-33.3.html">SN 33.3 &middot; Not Knowing '
+        "Perception</a> &mdash; the previous discourse, applying "
+        "this same diagnosis to the third aggregate.",
+        '<a href="sn-33.5.html">SN 33.5 &middot; Not Knowing '
+        "Consciousness</a> &mdash; the next discourse, closing this "
+        "saṃyutta's own first five-discourse cycle.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 33.5 — Viññāṇaaññāṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    33, 5, "Viññāṇaaññāṇa", "Not Knowing Consciousness",
+    vagga="Vacchagottavagga",
+    meta_title="SN 33.5 — Not Knowing Consciousness | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Viññāṇaaññāṇasutta &mdash; closing this saṃyutta's own "
+        "first five-discourse cycle with consciousness, the fifth "
+        "and final aggregate. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The wanderer Vacchagotta questions the Buddha "
+                     "(by cross-reference)"),
+        ("Form", "A peyyāla stub, identical in shape to SN 33.3 and "
+                 "SN 33.4"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 33.1"),
+    ],
+    why=(
+        "This discourse closes SN 33.1&ndash;5's own first five-"
+        "discourse cycle, applying the identical \"not knowing\" "
+        "diagnosis to consciousness (viññāṇa), the fifth and final "
+        "aggregate. With all five aggregates now confirmed to produce "
+        "the same family of speculative views through the same "
+        "diagnostic mechanism, this discourse completes the template "
+        "the remaining ten diagnostic verbs (SN 33.6&ndash;55) will "
+        "each apply across the same five aggregates in turn."
+    ),
+    guide=[
+        ("The same compression shape, a fifth time", [
+            "This discourse's question and answer are elided in the "
+            "identical pattern as SN 33.3 and SN 33.4, with only the "
+            "aggregate name changed to consciousness (viññāṇa).",
+        ]),
+        ("Consciousness, completing the standard five-aggregate list", [
+            "Viññāṇa closes the canon's standard fivefold division of "
+            "a person &mdash; form, feeling, perception, choices, and "
+            "consciousness &mdash; the same list this project has "
+            "already traced across many earlier saṃyuttas, especially "
+            "SN 22's own Khandhasaṃyutta.",
+        ]),
+        ("A cycle completed, ten more still to come", [
+            "With this discourse, SN 33.1&ndash;5's own \"not "
+            "knowing\" cycle across all five aggregates is complete; "
+            "SN 33.6&ndash;10 will now begin the identical cycle "
+            "again using a new diagnostic verb, \"not seeing,\" the "
+            "first of ten further verbs this saṃyutta will work "
+            "through.",
+        ]),
+        ("Eleven verbs total, the uddāna's own confirmation", [
+            "The untranslated Pāli uddāna verse closing SN 33.55 "
+            "later lists all eleven diagnostic verbs by name &mdash; "
+            "aññāṇa (\"not knowing\"), adassana (\"not seeing\"), and "
+            "nine further near-synonyms &mdash; confirming this "
+            "saṃyutta's own eleven-times-five structure explicitly.",
+        ]),
+    ],
+    terms=[
+        ("viññāṇa", "consciousness &mdash; the fifth and final "
+                     "aggregate in the standard list, closing this "
+                     "saṃyutta's first cycle"),
+        ("aññāṇa", "not knowing &mdash; the diagnostic verb this "
+                    "entire first cycle (SN 33.1&ndash;5) has used"),
+        ("khandha", "aggregate &mdash; the general term for the five "
+                     "components (form, feeling, perception, choices, "
+                     "consciousness) this saṃyutta cycles through"),
+        ("saṅkhāra", "choices &mdash; the aggregate this discourse "
+                      "replaces, carried over by cross-reference from "
+                      "SN 33.4"),
+        ("hetu", "cause &mdash; Vacchagotta's own opening word, "
+                  "unchanged across this entire five-discourse set"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its bare essentials, closing this saṃyutta's "
+        "own first five-discourse cycle. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn33.5:1.1-1.3"),
+        ("p", "&sect;2", "sn33.5:1.6"),
+    ],
+    quiz=[
+        {"q": "Which aggregate does this discourse address?",
+         "opts": ["Consciousness (viññāṇa)", "Form", "Feeling", "Choices"],
+         "correct": 0,
+         "expl": "The fifth and final aggregate in the standard list, closing this saṃyutta's first cycle."},
+        {"q": "What does this discourse complete?",
+         "opts": ["SN 33.1–5's own \"not knowing\" cycle across all five aggregates",
+                  "The entire saṃyutta", "Only the form-related discourses", "Nothing — it begins a new theme entirely"],
+         "correct": 0,
+         "expl": "SN 33.6–10 will begin the identical cycle again with a new diagnostic verb."},
+        {"q": "How many diagnostic verbs does this saṃyutta cycle through in total, according to the closing uddāna?",
+         "opts": ["Eleven", "Five", "Ten", "Fifty-five"],
+         "correct": 0,
+         "expl": "Confirmed explicitly in the untranslated Pāli uddāna verse closing SN 33.55."},
+        {"q": "What five-aggregate list does viññāṇa complete here?",
+         "opts": ["Form, feeling, perception, choices, and consciousness",
+                  "Earth, water, fire, air, and space", "Sight, sound, smell, taste, and touch",
+                  "Birth, aging, sickness, death, and rebirth"],
+         "correct": 0,
+         "expl": "The same standard fivefold division already traced across many earlier saṃyuttas, especially SN 22."},
+        {"q": "What comes immediately after this discourse?",
+         "opts": ["SN 33.6–10, beginning the identical five-aggregate cycle with a new diagnostic verb, \"not seeing\"",
+                  "The end of this saṃyutta entirely", "A return to SN 33.1's own full ten-view list",
+                  "An unrelated saṃyutta"],
+         "correct": 0,
+         "expl": "The first of ten further diagnostic verbs this saṃyutta will work through."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses, though given here only by cross-reference."},
+    ],
+    marginalia=[
+        ("The same compressed shape, a fifth time", [
+            "consciousness in place of choices &mdash;",
+            "identical elision, closing the cycle",
+        ]),
+        ("Five aggregates, one diagnosis each", [
+            "form, feeling, perception, choices, consciousness &mdash;",
+            "all traced to the same not-knowing",
+        ]),
+        ("One cycle done, ten more to come", [
+            "\"not knowing\" now complete &mdash;",
+            "\"not seeing\" begins the cycle again",
+        ]),
+        ("Eleven verbs, confirmed by the uddāna", [
+            "the closing verse names them all &mdash;",
+            "eleven times five equals fifty-five",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn33.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-33.4.html">SN 33.4 &middot; Not Knowing '
+        "Choices</a> &mdash; the previous discourse, applying this "
+        "same diagnosis to the fourth aggregate.",
+        '<a href="sn-33.6-10.html">SN 33.6&ndash;10 &middot; Five '
+        "Discourses on Not Seeing Form, Etc.</a> &mdash; the next "
+        "page, beginning this saṃyutta's second diagnostic-verb "
+        "cycle.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 33.6–10 — Rūpaadassanādisuttapañcaka
+# --------------------------------------------------------------------------- #
+page_range(
+    33, 6, 10, "Rūpaadassanādi", "Five Discourses on Not Seeing Form, "
+    "Etc.",
+    vagga="Vacchagottavagga",
+    meta_title="SN 33.6–10 · Five Discourses on Not Seeing Form, Etc. "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 33.6 through "
+        "33.10 &mdash; five discourses, preserved in the source as a "
+        "single peyyāla block, applying \"not seeing\" (the second of "
+        "eleven diagnostic verbs) across all five aggregates. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The wanderer Vacchagotta questions the Buddha"),
+        ("Form", "Five discourses compressed by bilara-data into a "
+                 "single file, one shared frame with the second "
+                 "diagnostic verb applied across all five aggregates"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial once SN 33.1&ndash;5's own cycle is "
+                       "understood"),
+    ],
+    why=(
+        "This merged file opens this saṃyutta's second diagnostic-"
+        "verb cycle, replacing SN 33.1&ndash;5's own aññāṇa (\"not "
+        "knowing\") with adassana (\"not seeing\") &mdash; a near-"
+        "synonym, applied identically across all five aggregates. "
+        "Bilara-data preserves this cycle as a single unified-prefix "
+        "file (sn33.6-10:), unlike SN 33.11&ndash;15's and SN "
+        "33.16&ndash;20's own per-sutta-prefix encoding immediately "
+        "following it."
+    ),
+    guide=[
+        ("A new verb, the same five-aggregate structure", [
+            "\"It is because of not seeing form … feeling … "
+            "perception … choices … consciousness, its origin, its "
+            "cessation, and the practice that leads to its "
+            "cessation\" &mdash; the identical diagnostic claim as SN "
+            "33.1&ndash;5, with adassana (\"not seeing\") replacing "
+            "aññāṇa (\"not knowing\").",
+        ]),
+        ("All five aggregates named within a single file", [
+            "Unlike SN 33.1&ndash;5's own five separate files, this "
+            "cycle compresses all five aggregates into one merged "
+            "file, naming form in full before eliding feeling, "
+            "perception, choices, and consciousness as a bare "
+            "sequence.",
+        ]),
+        ("A unified-prefix encoding, distinct from the files that follow", [
+            "This file uses a single unified key prefix (sn33.6-10:) "
+            "for its entire content &mdash; the same convention "
+            "already seen at SN 12.72&ndash;81 and SN "
+            "29&ndash;32's own merged files &mdash; while SN "
+            "33.11&ndash;15 and SN 33.16&ndash;20 immediately "
+            "following it switch to per-sutta-prefix encoding "
+            "instead, confirming both conventions coexist even within "
+            "a single saṃyutta.",
+        ]),
+        ("Second of eleven diagnostic-verb cycles", [
+            "With \"not knowing\" and now \"not seeing\" both applied "
+            "across all five aggregates, this saṃyutta's own eleven-"
+            "verb structure is confirmed a second time, nine further "
+            "near-synonymous verbs still to come.",
+        ]),
+    ],
+    terms=[
+        ("adassana", "not seeing &mdash; the second of eleven near-"
+                      "synonymous diagnostic verbs this saṃyutta "
+                      "cycles through"),
+        ("rūpa", "form &mdash; the first aggregate, given in full "
+                  "before the remaining four are elided"),
+        ("viññāṇa", "consciousness &mdash; the fifth and final "
+                     "aggregate, closing this file's own elided list"),
+        ("peyyāla", "an elision mark &mdash; here compressing four of "
+                     "the five aggregates into a bare sequence"),
+        ("aññāṇa", "not knowing &mdash; the previous cycle's own "
+                    "diagnostic verb, replaced here by adassana"),
+    ],
+    text_intro=("The complete merged file: the shared question, form "
+        "given in full, and the remaining four aggregates elided as "
+        "bilara-data preserves them. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn33.6-10:1.1-1.3"),
+        ("p", "&sect;2", "sn33.6-10:1.6"),
+        ("p", "&sect;3", "sn33.6-10:1.8-1.11"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Five — SN 33.6 through SN 33.10", "Ten", "Eleven", "One"],
+         "correct": 0,
+         "expl": "The second of this saṃyutta's eleven five-discourse diagnostic-verb cycles."},
+        {"q": "What diagnostic verb does this cycle use, replacing SN 33.1–5's own aññāṇa?",
+         "opts": ["Adassana (\"not seeing\")", "Anabhisamaya (\"not comprehending\")",
+                  "Ananubodha (\"not understanding\")", "The same aññāṇa, unchanged"],
+         "correct": 0,
+         "expl": "A near-synonym, the second of eleven this saṃyutta cycles through."},
+        {"q": "How does this file's encoding differ from SN 33.11–15's and SN 33.16–20's own?",
+         "opts": ["A single unified key prefix, where the two files immediately following it use per-sutta prefixes instead",
+                  "Identical encoding throughout", "This file uses per-sutta prefixes and the others use a unified prefix",
+                  "No encoding convention is used at all"],
+         "correct": 0,
+         "expl": "Confirming both conventions coexist even within a single saṃyutta."},
+        {"q": "What structural claim does this file confirm a second time?",
+         "opts": ["This saṃyutta's own eleven-verb, five-aggregate structure",
+                  "That only form produces speculative views", "That the ten classic views no longer apply",
+                  "That this saṃyutta has no repeating structure at all"],
+         "correct": 0,
+         "expl": "Nine further near-synonymous diagnostic verbs still to come."},
+        {"q": "Which aggregate is given in full in this file, with the rest elided?",
+         "opts": ["Form, the first of the five", "Consciousness, the last of the five",
+                  "Feeling, the second of the five", "All five are given in full"],
+         "correct": 0,
+         "expl": "Feeling, perception, choices, and consciousness are compressed into a bare sequence after it."},
+    ],
+    marginalia=[
+        ("A new verb, the same structure", [
+            "not seeing, in place of not knowing &mdash;",
+            "the identical five-aggregate cycle",
+        ]),
+        ("Two encodings, side by side", [
+            "unified prefix here &mdash;",
+            "per-sutta prefix in the files just after",
+        ]),
+        ("Second of eleven cycles confirmed", [
+            "aññāṇa, then adassana &mdash;",
+            "nine more diagnostic verbs still ahead",
+        ]),
+        ("Form named, four more elided", [
+            "one aggregate spelled out &mdash;",
+            "the rest compressed to a bare sequence",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn33.6-10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-33.5.html">SN 33.5 &middot; Not Knowing '
+        "Consciousness</a> &mdash; the previous discourse, closing "
+        "this saṃyutta's first diagnostic-verb cycle.",
+        '<a href="sn-33.11-15.html">SN 33.11&ndash;15 &middot; Five '
+        "Discourses on Not Comprehending Form, Etc.</a> &mdash; the "
+        "next page, beginning this saṃyutta's third diagnostic-verb "
+        "cycle.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 33.11–15 — Rūpaanabhisamayādisuttapañcaka
+# --------------------------------------------------------------------------- #
+page_range(
+    33, 11, 15, "Rūpaanabhisamayādi", "Five Discourses on Not "
+    "Comprehending Form, Etc.",
+    vagga="Vacchagottavagga",
+    meta_title="SN 33.11–15 · Five Discourses on Not Comprehending "
+                "Form, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 33.11 through "
+        "33.15 &mdash; five discourses applying \"not comprehending\" "
+        "(the third of eleven diagnostic verbs) across all five "
+        "aggregates, this time each sub-discourse keeping its own "
+        "individual key prefix. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The wanderer Vacchagotta questions the Buddha"),
+        ("Form", "Five discourses, each keeping its own individual "
+                 "key prefix rather than sharing one unified prefix"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial once SN 33.1&ndash;5's own cycle is "
+                       "understood"),
+    ],
+    why=(
+        "This merged file opens this saṃyutta's third diagnostic-verb "
+        "cycle, using anabhisamaya (\"not comprehending\") in place "
+        "of adassana (\"not seeing\"), applied identically across all "
+        "five aggregates. Unlike SN 33.6&ndash;10's own unified-"
+        "prefix encoding, bilara-data preserves this cycle with each "
+        "of its five sub-discourses keeping its own individual key "
+        "prefix (sn33.11:, sn33.12:, and so on) &mdash; the same "
+        "per-sutta-prefix convention this project has previously seen "
+        "at SN 23's own merged files."
+    ),
+    guide=[
+        ("A third diagnostic verb, the same structure", [
+            "\"It is because of not comprehending form … feeling … "
+            "This is the cause, this is the reason\" &mdash; the "
+            "identical five-aggregate diagnostic claim, now using "
+            "anabhisamaya (\"not comprehending\").",
+        ]),
+        ("Per-sutta prefixes, not a single unified one", [
+            "Each of this file's five sub-discourses keeps its own "
+            "individual key prefix &mdash; sn33.11:, sn33.12:, "
+            "sn33.13:, sn33.14:, sn33.15: &mdash; rather than sharing "
+            "SN 33.6&ndash;10's own single unified prefix, confirming "
+            "this saṃyutta itself mixes both known encoding "
+            "conventions from one merged file to the next.",
+        ]),
+        ("Only the opening discourse carries any real content", [
+            "Of the five sub-discourses, only sn33.11 preserves the "
+            "opening frame (\"at Sāvatthī\") and the diagnostic "
+            "answer's first line; sn33.12&ndash;15 each contribute "
+            "only their own single aggregate-name, trusting the "
+            "reader to supply the rest.",
+        ]),
+        ("Third of eleven cycles, eight more still to come", [
+            "With \"not knowing,\" \"not seeing,\" and now \"not "
+            "comprehending\" all confirmed across the five aggregates, "
+            "this saṃyutta's own eleven-verb structure continues, "
+            "eight further diagnostic verbs still ahead.",
+        ]),
+    ],
+    terms=[
+        ("anabhisamaya", "not comprehending, or not fully "
+                          "penetrating &mdash; the third of eleven "
+                          "near-synonymous diagnostic verbs"),
+        ("rūpa", "form &mdash; the only aggregate given any surviving "
+                  "frame in this file's own opening sub-discourse"),
+        ("adassana", "not seeing &mdash; the previous cycle's own "
+                      "diagnostic verb, replaced here by "
+                      "anabhisamaya"),
+        ("viññāṇa", "consciousness &mdash; the fifth and final "
+                     "aggregate, closing this file's own five-part "
+                     "set at sn33.15"),
+        ("peyyāla", "an elision mark &mdash; here compressing four of "
+                     "the five sub-discourses to a single aggregate-"
+                     "name each"),
+    ],
+    text_intro=("The complete merged file: the opening sub-discourse "
+        "with its surviving frame, and the remaining four "
+        "sub-discourses' own bare aggregate-names. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn33.11:1.1-1.2"),
+        ("p", "&sect;2", "sn33.12:1.2"),
+        ("p", "&sect;3", "sn33.13:1.2"),
+        ("p", "&sect;4", "sn33.14:1.2"),
+        ("p", "&sect;5", "sn33.15:1.2"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Five — SN 33.11 through SN 33.15", "Ten", "One", "Fifty-five"],
+         "correct": 0,
+         "expl": "The third of this saṃyutta's eleven five-discourse diagnostic-verb cycles."},
+        {"q": "What diagnostic verb does this cycle use?",
+         "opts": ["Anabhisamaya (\"not comprehending\")", "Adassana (\"not seeing\")",
+                  "Aññāṇa (\"not knowing\")", "Ananubodha (\"not understanding\")"],
+         "correct": 0,
+         "expl": "The third of eleven near-synonymous diagnostic verbs this saṃyutta cycles through."},
+        {"q": "How does this file's key encoding differ from SN 33.6–10's own?",
+         "opts": ["Each of the five sub-discourses keeps its own individual key prefix, rather than sharing one unified prefix",
+                  "It uses the identical unified-prefix encoding", "It uses no key prefix at all",
+                  "It merges all five discourses into a single undivided key"],
+         "correct": 0,
+         "expl": "Confirming this saṃyutta mixes both known encoding conventions across its own merged files."},
+        {"q": "How much content survives for the four sub-discourses after the first one?",
+         "opts": ["Only their own single aggregate-name each", "The full question and answer, unchanged",
+                  "Nothing at all — the four sub-discourses are entirely blank", "A completely different diagnostic claim each"],
+         "correct": 0,
+         "expl": "Trusting the reader to supply the rest from the opening sub-discourse."},
+        {"q": "How many diagnostic-verb cycles remain after this one?",
+         "opts": ["Eight", "Zero — this is the last", "Two", "Eleven"],
+         "correct": 0,
+         "expl": "This saṃyutta's own eleven-verb structure continues well beyond this third confirmation."},
+    ],
+    marginalia=[
+        ("A third verb, the same structure", [
+            "not comprehending, this time &mdash;",
+            "the identical five-aggregate cycle",
+        ]),
+        ("Individual prefixes, not one shared", [
+            "sn33.11, sn33.12, sn33.13 ... &mdash;",
+            "each sub-discourse keeping its own key",
+        ]),
+        ("Only the first sub-discourse survives in full", [
+            "the rest reduced to a single word each &mdash;",
+            "trusting the reader to fill in the frame",
+        ]),
+        ("Third of eleven, eight more to come", [
+            "not knowing, not seeing, not comprehending &mdash;",
+            "the cycle far from finished",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn33.11-15/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-33.6-10.html">SN 33.6&ndash;10 &middot; Five '
+        "Discourses on Not Seeing Form, Etc.</a> &mdash; the previous "
+        "page, this saṃyutta's second diagnostic-verb cycle.",
+        '<a href="sn-33.16-20.html">SN 33.16&ndash;20 &middot; Five '
+        "Discourses on Not Understanding Form, Etc.</a> &mdash; the "
+        "next page, beginning this saṃyutta's fourth diagnostic-verb "
+        "cycle.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 33.16–20 — Rūpaananubodhādisuttapañcaka
+# --------------------------------------------------------------------------- #
+page_range(
+    33, 16, 20, "Rūpaananubodhādi", "Five Discourses on Not "
+    "Understanding Form, Etc.",
+    vagga="Vacchagottavagga",
+    meta_title="SN 33.16–20 · Five Discourses on Not Understanding "
+                "Form, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 33.16 through "
+        "33.20 &mdash; five discourses applying \"not understanding\" "
+        "(the fourth of eleven diagnostic verbs) across all five "
+        "aggregates, again with each sub-discourse keeping its own "
+        "individual key prefix. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The wanderer Vacchagotta questions the Buddha"),
+        ("Form", "Five discourses, each keeping its own individual "
+                 "key prefix, matching SN 33.11&ndash;15's own "
+                 "encoding"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial once SN 33.1&ndash;5's own cycle is "
+                       "understood"),
+    ],
+    why=(
+        "This merged file opens this saṃyutta's fourth diagnostic-"
+        "verb cycle, using ananubodha (\"not understanding\") in "
+        "place of anabhisamaya (\"not comprehending\"), applied "
+        "identically across all five aggregates. Like SN "
+        "33.11&ndash;15 immediately before it, bilara-data preserves "
+        "this cycle with per-sutta-prefix encoding rather than a "
+        "single unified prefix."
+    ),
+    guide=[
+        ("A fourth diagnostic verb, the same structure", [
+            "\"It is because of not understanding form … This is "
+            "the cause, this is the reason\" &mdash; the identical "
+            "five-aggregate diagnostic claim, now using ananubodha "
+            "(\"not understanding\").",
+        ]),
+        ("The opening frame restored, briefly", [
+            "Unlike SN 33.11&ndash;15's own opening sub-discourse, "
+            "which preserved only \"at Sāvatthī\" and the diagnostic "
+            "answer, this file's own opening sub-discourse (sn33.16) "
+            "keeps just the setting and the answer's first line, with "
+            "the question itself elided even here.",
+        ]),
+        ("Confirming per-sutta-prefix encoding recurs, not a one-off", [
+            "With this file matching SN 33.11&ndash;15's own encoding "
+            "choice rather than SN 33.6&ndash;10's unified prefix, "
+            "the per-sutta-prefix convention is confirmed as a "
+            "genuine recurring pattern within this saṃyutta, not an "
+            "isolated exception.",
+        ]),
+        ("Fourth of eleven cycles, seven more still to come", [
+            "With \"not knowing,\" \"not seeing,\" \"not "
+            "comprehending,\" and now \"not understanding\" all "
+            "confirmed, this saṃyutta's own eleven-verb structure "
+            "continues, seven further diagnostic verbs still ahead.",
+        ]),
+    ],
+    terms=[
+        ("ananubodha", "not understanding, or not awakening to "
+                        "&mdash; the fourth of eleven near-"
+                        "synonymous diagnostic verbs"),
+        ("rūpa", "form &mdash; the only aggregate given any surviving "
+                  "frame in this file's own opening sub-discourse"),
+        ("anabhisamaya", "not comprehending &mdash; the previous "
+                          "cycle's own diagnostic verb, replaced here "
+                          "by ananubodha"),
+        ("viññāṇa", "consciousness &mdash; the fifth and final "
+                     "aggregate, closing this file's own five-part "
+                     "set at sn33.20"),
+        ("peyyāla", "an elision mark &mdash; here compressing four of "
+                     "the five sub-discourses to a single aggregate-"
+                     "name each"),
+    ],
+    text_intro=("The complete merged file: the opening sub-discourse "
+        "with its surviving frame, and the remaining four "
+        "sub-discourses' own bare aggregate-names. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn33.16:1.1"),
+        ("p", "&sect;2", "sn33.16:1.4"),
+        ("p", "&sect;3", "sn33.17:1.2"),
+        ("p", "&sect;4", "sn33.18:1.2"),
+        ("p", "&sect;5", "sn33.19:1.2"),
+        ("p", "&sect;6", "sn33.20:1.2"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Five — SN 33.16 through SN 33.20", "Ten", "One", "Four"],
+         "correct": 0,
+         "expl": "The fourth of this saṃyutta's eleven five-discourse diagnostic-verb cycles."},
+        {"q": "What diagnostic verb does this cycle use?",
+         "opts": ["Ananubodha (\"not understanding\")", "Anabhisamaya (\"not comprehending\")",
+                  "Adassana (\"not seeing\")", "Aññāṇa (\"not knowing\")"],
+         "correct": 0,
+         "expl": "The fourth of eleven near-synonymous diagnostic verbs this saṃyutta cycles through."},
+        {"q": "How does this file's encoding compare to SN 33.11–15's own?",
+         "opts": ["It matches — per-sutta-prefix encoding rather than a single unified prefix",
+                  "It differs — a single unified prefix is used instead", "No encoding convention is used at all",
+                  "Each file uses a completely different, unrelated encoding"],
+         "correct": 0,
+         "expl": "Confirming per-sutta-prefix encoding as a genuine recurring pattern, not an isolated exception."},
+        {"q": "Is Vacchagotta's own question preserved in this file's opening sub-discourse?",
+         "opts": ["No — even the question is elided here, unlike SN 33.11's own partial preservation",
+                  "Yes, in full", "Yes, but only the first half", "The question is replaced with an entirely different one"],
+         "correct": 0,
+         "expl": "Only the setting and the answer's first line survive."},
+        {"q": "How many diagnostic-verb cycles remain after this one?",
+         "opts": ["Seven", "Zero — this is the last", "Two", "Eleven"],
+         "correct": 0,
+         "expl": "This saṃyutta's own eleven-verb structure continues well beyond this fourth confirmation."},
+    ],
+    marginalia=[
+        ("A fourth verb, the same structure", [
+            "not understanding, this time &mdash;",
+            "the identical five-aggregate cycle",
+        ]),
+        ("Even the question elided now", [
+            "only the setting and the answer survive &mdash;",
+            "less than SN 33.11's own opening kept",
+        ]),
+        ("Per-sutta prefixes, confirmed again", [
+            "sn33.16, sn33.17, sn33.18 ... &mdash;",
+            "matching SN 33.11–15's own choice",
+        ]),
+        ("Fourth of eleven, seven more to come", [
+            "knowing, seeing, comprehending, understanding &mdash;",
+            "the cycle still far from finished",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn33.16-20/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-33.11-15.html">SN 33.11&ndash;15 &middot; Five '
+        "Discourses on Not Comprehending Form, Etc.</a> &mdash; the "
+        "previous page, this saṃyutta's third diagnostic-verb cycle.",
+        '<a href="sn-33.21-25.html">SN 33.21&ndash;25 &middot; Five '
+        "Discourses on Not Penetrating Form, Etc.</a> &mdash; the "
+        "next page, beginning this saṃyutta's fifth diagnostic-verb "
+        "cycle.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 33.21–25 — Rūpaappaṭivedhādisuttapañcaka
+# --------------------------------------------------------------------------- #
+page_range(
+    33, 21, 25, "Rūpaappaṭivedhādi", "Five Discourses on Not "
+    "Penetrating Form, Etc.",
+    vagga="Vacchagottavagga",
+    meta_title="SN 33.21–25 · Five Discourses on Not Penetrating "
+                "Form, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 33.21 through "
+        "33.25 &mdash; five discourses applying \"not penetrating\" "
+        "(the fifth of eleven diagnostic verbs), compressed here to "
+        "the source's most extreme peyyāla shorthand yet. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The wanderer Vacchagotta questions the Buddha "
+                     "(by cross-reference)"),
+        ("Form", "The most severely compressed cycle yet: a single "
+                 "line naming only the setting and the diagnostic "
+                 "verb applied to form"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 33.1&ndash;20"),
+    ],
+    why=(
+        "This merged file marks a further escalation in compression: "
+        "where SN 33.6&ndash;20's own three cycles each preserved at "
+        "least a fragment of the opening question or the diagnostic "
+        "answer's own closing line, this file &mdash; and the five "
+        "further cycles following it through SN 33.50 &mdash; reduce "
+        "to a single line: \"At Sāvatthī. 'Vaccha, it is because of "
+        "not penetrating form …'\" The claim itself is unchanged; "
+        "only the source's own tolerance for restating it has "
+        "shrunk further."
+    ),
+    guide=[
+        ("The most compressed cycle so far", [
+            "This file's entire surviving content is a single "
+            "sentence: the setting, and the diagnostic verb "
+            "(appaṭivedha, \"not penetrating\") applied to form, with "
+            "everything else &mdash; the question, the remaining four "
+            "aggregates, the closing line &mdash; left to inference.",
+        ]),
+        ("A pattern that will hold for six consecutive cycles", [
+            "This same single-line shape recurs identically at SN "
+            "33.26&ndash;30, 31&ndash;35, 36&ndash;40, 41&ndash;45, "
+            "and 46&ndash;50 &mdash; six diagnostic-verb cycles in a "
+            "row compressed to their absolute minimum, each "
+            "differing from its neighbors by only the one verb.",
+        ]),
+        ("Fifth of eleven diagnostic verbs", [
+            "Appaṭivedha (\"not penetrating\") is the fifth verb in "
+            "this saṃyutta's own eleven-verb sequence, following not "
+            "knowing, not seeing, not comprehending, and not "
+            "understanding.",
+        ]),
+        ("A genuine feature of transmission, not an omission", [
+            "As with other severely compressed peyyāla ranges "
+            "elsewhere in this project's coverage of the Saṃyutta "
+            "Nikāya, this discourse's extreme brevity is quoted here "
+            "exactly as the source gives it rather than expanded into "
+            "invented prose.",
+        ]),
+    ],
+    terms=[
+        ("appaṭivedha", "not penetrating &mdash; the fifth of eleven "
+                         "near-synonymous diagnostic verbs"),
+        ("rūpa", "form &mdash; the only aggregate named at all in "
+                  "this file's own single surviving line"),
+        ("ananubodha", "not understanding &mdash; the previous "
+                        "cycle's own diagnostic verb, replaced here "
+                        "by appaṭivedha"),
+        ("peyyāla", "an elision mark &mdash; here compressing an "
+                     "entire five-discourse cycle to a single line"),
+        ("hetu", "cause &mdash; the diagnostic frame's own recurring "
+                  "opening word, implied here though not restated"),
+    ],
+    text_intro=("The discourse exactly as the source preserves it: a "
+        "single surviving line. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn33.21-25:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "How much content survives for this entire five-discourse cycle?",
+         "opts": ["A single line: the setting and the diagnostic verb applied to form",
+                  "The full question and answer, unchanged", "Nothing at all",
+                  "A completely different diagnostic claim from earlier cycles"],
+         "correct": 0,
+         "expl": "The most compressed cycle in this saṃyutta so far."},
+        {"q": "What diagnostic verb does this cycle use?",
+         "opts": ["Appaṭivedha (\"not penetrating\")", "Ananubodha (\"not understanding\")",
+                  "Adassana (\"not seeing\")", "Aññāṇa (\"not knowing\")"],
+         "correct": 0,
+         "expl": "The fifth of eleven near-synonymous diagnostic verbs."},
+        {"q": "How many further cycles will repeat this exact same single-line compression?",
+         "opts": ["Five — SN 33.26–30, 31–35, 36–40, 41–45, and 46–50",
+                  "None — this is the only one this compressed", "Ten", "Fifty-five"],
+         "correct": 0,
+         "expl": "Six diagnostic-verb cycles in a row compressed to their absolute minimum."},
+        {"q": "What does this reading guide do with this file's extreme brevity?",
+         "opts": ["Quotes it exactly as the source gives it, without fabricating the elided material",
+                  "Reconstructs the full question and answer and presents it as this file's own text",
+                  "Skips the discourse entirely", "Invents new content unrelated to earlier cycles"],
+         "correct": 0,
+         "expl": "Consistent with this project's practice on other severely compressed peyyāla ranges."},
+        {"q": "What single element changes between this cycle and SN 33.16–20's own?",
+         "opts": ["Only the diagnostic verb itself", "The aggregate involved", "The setting",
+                  "The identity of the questioner"],
+         "correct": 0,
+         "expl": "The underlying five-aggregate diagnostic claim remains entirely unchanged."},
+    ],
+    marginalia=[
+        ("One line, an entire cycle", [
+            "\"not penetrating form ...\" &mdash;",
+            "nothing else survives in translation",
+        ]),
+        ("Six cycles, the same minimal shape", [
+            "SN 33.26–50 all compress this far &mdash;",
+            "only the verb itself changes each time",
+        ]),
+        ("Fifth of eleven verbs", [
+            "knowing, seeing, comprehending, understanding, penetrating &mdash;",
+            "six more still to come after this",
+        ]),
+        ("Brevity as the point, not the gap", [
+            "quoted exactly as the source leaves it &mdash;",
+            "nothing fabricated to fill the space",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn33.21-25/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-33.16-20.html">SN 33.16&ndash;20 &middot; Five '
+        "Discourses on Not Understanding Form, Etc.</a> &mdash; the "
+        "previous page, this saṃyutta's fourth diagnostic-verb cycle.",
+        '<a href="sn-33.26-30.html">SN 33.26&ndash;30 &middot; Five '
+        "Discourses on Not Distinguishing Form, Etc.</a> &mdash; the "
+        "next page, repeating this identical minimal shape with a "
+        "sixth diagnostic verb.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 33.26–30 — Rūpaasallakkhaṇādisuttapañcaka
+# --------------------------------------------------------------------------- #
+page_range(
+    33, 26, 30, "Rūpaasallakkhaṇādi", "Five Discourses on Not "
+    "Distinguishing Form, Etc.",
+    vagga="Vacchagottavagga",
+    meta_title="SN 33.26–30 · Five Discourses on Not Distinguishing "
+                "Form, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 33.26 through "
+        "33.30 &mdash; the sixth diagnostic-verb cycle, \"not "
+        "distinguishing,\" repeating SN 33.21&ndash;25's own minimal "
+        "single-line shape. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The wanderer Vacchagotta questions the Buddha "
+                     "(by cross-reference)"),
+        ("Form", "A single surviving line, identical in shape to SN "
+                 "33.21&ndash;25"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 33.1&ndash;25"),
+    ],
+    why=(
+        "The sixth diagnostic-verb cycle, using asallakkhaṇa (\"not "
+        "distinguishing\") in place of appaṭivedha (\"not "
+        "penetrating\"), compressed to the identical single-line "
+        "shape as SN 33.21&ndash;25 &mdash; confirming this minimal "
+        "compression is now this saṃyutta's own standing convention "
+        "for its middle cycles, not a one-time reduction."
+    ),
+    guide=[
+        ("The identical minimal shape, a second time", [
+            "\"At Sāvatthī. 'Vaccha, it is because of not "
+            "distinguishing form …'\" &mdash; word for word the same "
+            "compression as SN 33.21&ndash;25, with only the "
+            "diagnostic verb changed.",
+        ]),
+        ("Confirming a standing convention, not an isolated case", [
+            "With two consecutive cycles now compressed to this exact "
+            "single line, the extreme brevity first seen at SN "
+            "33.21&ndash;25 is confirmed as this saṃyutta's own "
+            "standard shape for its middle stretch of cycles, not an "
+            "isolated one-off reduction.",
+        ]),
+        ("Sixth of eleven diagnostic verbs", [
+            "Asallakkhaṇa (\"not distinguishing\") is the sixth verb "
+            "in this saṃyutta's own sequence, with four further "
+            "near-synonyms still to come before SN 33.51&ndash;55's "
+            "own final verb and this saṃyutta's own close.",
+        ]),
+        ("A cycle worth reading for its own repetition", [
+            "As with earlier brief peyyāla stubs elsewhere in this "
+            "project's coverage, this file's real interest lies "
+            "precisely in its sameness: the compiler evidently judged "
+            "each diagnostic verb worth its own discourse-range "
+            "despite changing nothing else at all.",
+        ]),
+    ],
+    terms=[
+        ("asallakkhaṇa", "not distinguishing, or not discerning "
+                          "&mdash; the sixth of eleven near-"
+                          "synonymous diagnostic verbs"),
+        ("rūpa", "form &mdash; the only aggregate named in this "
+                  "file's own single surviving line"),
+        ("appaṭivedha", "not penetrating &mdash; the previous "
+                         "cycle's own diagnostic verb, replaced here "
+                         "by asallakkhaṇa"),
+        ("peyyāla", "an elision mark &mdash; here compressing an "
+                     "entire five-discourse cycle to a single line"),
+        ("hetu", "cause &mdash; the diagnostic frame's own recurring "
+                  "opening word, implied here though not restated"),
+    ],
+    text_intro=("The discourse exactly as the source preserves it: a "
+        "single surviving line. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn33.26-30:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What diagnostic verb does this cycle use?",
+         "opts": ["Asallakkhaṇa (\"not distinguishing\")", "Appaṭivedha (\"not penetrating\")",
+                  "Ananubodha (\"not understanding\")", "Aññāṇa (\"not knowing\")"],
+         "correct": 0,
+         "expl": "The sixth of eleven near-synonymous diagnostic verbs."},
+        {"q": "How does this file's compression compare to SN 33.21–25's own?",
+         "opts": ["Identical — the same single-line shape, only the verb changed",
+                  "Considerably more compressed", "Considerably less compressed, restating the full question",
+                  "An entirely different compression pattern"],
+         "correct": 0,
+         "expl": "Confirming this minimal shape as a standing convention, not an isolated reduction."},
+        {"q": "What does this file's own consistency confirm about this saṃyutta's middle cycles?",
+         "opts": ["That this extreme compression is the standard shape for this stretch, not a one-off",
+                  "That every cycle in this saṃyutta is compressed identically", "That this is a scribal error",
+                  "That this saṃyutta abandons its own five-aggregate structure here"],
+         "correct": 0,
+         "expl": "Two consecutive cycles now compressed to this exact single line."},
+        {"q": "How many diagnostic verbs remain after this one?",
+         "opts": ["Five", "Zero — this is the last", "Eleven", "One"],
+         "correct": 0,
+         "expl": "Four further near-synonyms before SN 33.51–55's own final verb and this saṃyutta's own close."},
+        {"q": "Where does this reading guide say this file's real interest lies?",
+         "opts": ["In its very sameness — the compiler judged each verb worth its own discourse-range despite no other change",
+                  "In a dramatic plot development unique to this file", "In a contradiction of earlier cycles",
+                  "In an entirely new causal mechanism"],
+         "correct": 0,
+         "expl": "Comparable to earlier brief peyyāla stubs elsewhere in this project's coverage."},
+    ],
+    marginalia=[
+        ("The same minimal shape again", [
+            "not distinguishing, this time &mdash;",
+            "one line, unchanged apart from the verb",
+        ]),
+        ("A convention confirmed, not a one-off", [
+            "two cycles now this compressed &mdash;",
+            "the standard shape for this stretch",
+        ]),
+        ("Sixth of eleven verbs", [
+            "knowing through distinguishing now covered &mdash;",
+            "four more before this saṃyutta's own close",
+        ]),
+        ("Sameness itself, worth noticing", [
+            "one word changed each cycle &mdash;",
+            "yet each given its own discourse-range",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn33.26-30/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-33.21-25.html">SN 33.21&ndash;25 &middot; Five '
+        "Discourses on Not Penetrating Form, Etc.</a> &mdash; the "
+        "previous page, establishing this minimal shape.",
+        '<a href="sn-33.31-35.html">SN 33.31&ndash;35 &middot; Five '
+        "Discourses on Not Detecting Form, Etc.</a> &mdash; the next "
+        "page, repeating this identical minimal shape with a seventh "
+        "diagnostic verb.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 33.31–35 — Rūpaanupalakkhaṇādisuttapañcaka
+# --------------------------------------------------------------------------- #
+page_range(
+    33, 31, 35, "Rūpaanupalakkhaṇādi", "Five Discourses on Not "
+    "Detecting Form, Etc.",
+    vagga="Vacchagottavagga",
+    meta_title="SN 33.31–35 · Five Discourses on Not Detecting Form, "
+                "Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 33.31 through "
+        "33.35 &mdash; the seventh diagnostic-verb cycle, \"not "
+        "detecting,\" continuing this saṃyutta's minimal single-line "
+        "compression. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The wanderer Vacchagotta questions the Buddha "
+                     "(by cross-reference)"),
+        ("Form", "A single surviving line, identical in shape to SN "
+                 "33.21&ndash;30"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 33.1&ndash;30"),
+    ],
+    why=(
+        "The seventh diagnostic-verb cycle, using anupalakkhaṇa "
+        "(\"not detecting\") in place of asallakkhaṇa (\"not "
+        "distinguishing\"), continuing the identical single-line "
+        "compression already established at SN 33.21&ndash;30."
+    ),
+    guide=[
+        ("A third consecutive cycle at this minimal shape", [
+            "\"At Sāvatthī. 'Vaccha, it is because of not detecting "
+            "form …'\" &mdash; the same single-line compression, now "
+            "confirmed across three consecutive cycles.",
+        ]),
+        ("Anupalakkhaṇa, a close cousin of asallakkhaṇa", [
+            "The Pāli terms for \"not distinguishing\" (asallakkhaṇa) "
+            "and \"not detecting\" (anupalakkhaṇa) share the same "
+            "root (lakkh-, \"to mark\" or \"characterize\"), "
+            "illustrating how closely these eleven diagnostic verbs "
+            "cluster in meaning even as each receives its own "
+            "discourse-range.",
+        ]),
+        ("Seventh of eleven diagnostic verbs", [
+            "With this cycle, seven of this saṃyutta's eleven "
+            "diagnostic verbs have now been applied across all five "
+            "aggregates, leaving four more still to come.",
+        ]),
+        ("This project's own practice, held consistently", [
+            "As at SN 33.21&ndash;30, this discourse's extreme "
+            "brevity is quoted here exactly as the source gives it "
+            "rather than expanded into invented prose.",
+        ]),
+    ],
+    terms=[
+        ("anupalakkhaṇa", "not detecting, or not marking &mdash; the "
+                           "seventh of eleven near-synonymous "
+                           "diagnostic verbs"),
+        ("rūpa", "form &mdash; the only aggregate named in this "
+                  "file's own single surviving line"),
+        ("asallakkhaṇa", "not distinguishing &mdash; the previous "
+                          "cycle's own diagnostic verb, sharing the "
+                          "same root as anupalakkhaṇa"),
+        ("lakkhaṇa", "mark or characteristic &mdash; the shared root "
+                      "underlying both asallakkhaṇa and "
+                      "anupalakkhaṇa"),
+        ("peyyāla", "an elision mark &mdash; here compressing an "
+                     "entire five-discourse cycle to a single line"),
+    ],
+    text_intro=("The discourse exactly as the source preserves it: a "
+        "single surviving line. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn33.31-35:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What diagnostic verb does this cycle use?",
+         "opts": ["Anupalakkhaṇa (\"not detecting\")", "Asallakkhaṇa (\"not distinguishing\")",
+                  "Appaṭivedha (\"not penetrating\")", "Aññāṇa (\"not knowing\")"],
+         "correct": 0,
+         "expl": "The seventh of eleven near-synonymous diagnostic verbs."},
+        {"q": "What do asallakkhaṇa and anupalakkhaṇa share?",
+         "opts": ["The same root (lakkh-, \"to mark\" or \"characterize\")", "No relationship at all",
+                  "They are the same word with different spelling conventions", "They apply to different aggregates"],
+         "correct": 0,
+         "expl": "Illustrating how closely these eleven diagnostic verbs cluster in meaning."},
+        {"q": "How many consecutive cycles has this saṃyutta now compressed to a single line?",
+         "opts": ["Three — SN 33.21–25, 26–30, and now 31–35", "Only this one", "Five", "Eleven"],
+         "correct": 0,
+         "expl": "Confirming this minimal shape as a genuine standing convention."},
+        {"q": "How many diagnostic verbs remain after this one?",
+         "opts": ["Four", "Zero — this is the last", "Seven", "Eleven"],
+         "correct": 0,
+         "expl": "Seven of eleven now confirmed across all five aggregates."},
+        {"q": "What does this reading guide do with this file's extreme brevity?",
+         "opts": ["Quotes it exactly as the source gives it, without fabricating the elided material",
+                  "Reconstructs the full question and presents it as this file's own text",
+                  "Skips the discourse entirely", "Invents new content unrelated to earlier cycles"],
+         "correct": 0,
+         "expl": "Held consistently across every compressed cycle in this saṃyutta."},
+    ],
+    marginalia=[
+        ("A third consecutive minimal cycle", [
+            "not detecting, this time &mdash;",
+            "the same single line, one word changed",
+        ]),
+        ("Two verbs sharing one root", [
+            "asallakkhaṇa, anupalakkhaṇa &mdash;",
+            "both built on lakkh-, \"to mark\"",
+        ]),
+        ("Seven of eleven now confirmed", [
+            "knowing through detecting covered &mdash;",
+            "four more diagnostic verbs still ahead",
+        ]),
+        ("Consistency held, cycle after cycle", [
+            "quoted exactly as the source leaves it &mdash;",
+            "no fabrication to fill the compressed space",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn33.31-35/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-33.26-30.html">SN 33.26&ndash;30 &middot; Five '
+        "Discourses on Not Distinguishing Form, Etc.</a> &mdash; the "
+        "previous page, the sixth diagnostic-verb cycle.",
+        '<a href="sn-33.36-40.html">SN 33.36&ndash;40 &middot; Five '
+        "Discourses on Not Differentiating Form, Etc.</a> &mdash; the "
+        "next page, an eighth diagnostic verb in this same minimal "
+        "shape.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 33.36–40 — Rūpaappaccupalakkhaṇādisuttapañcaka
+# --------------------------------------------------------------------------- #
+page_range(
+    33, 36, 40, "Rūpaappaccupalakkhaṇādi", "Five Discourses on Not "
+    "Differentiating Form, Etc.",
+    vagga="Vacchagottavagga",
+    meta_title="SN 33.36–40 · Five Discourses on Not Differentiating "
+                "Form, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 33.36 through "
+        "33.40 &mdash; the eighth diagnostic-verb cycle, \"not "
+        "differentiating,\" continuing this saṃyutta's minimal "
+        "single-line compression. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The wanderer Vacchagotta questions the Buddha "
+                     "(by cross-reference)"),
+        ("Form", "A single surviving line, identical in shape to SN "
+                 "33.21&ndash;35"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 33.1&ndash;35"),
+    ],
+    why=(
+        "The eighth diagnostic-verb cycle, using appaccupalakkhaṇa "
+        "(\"not differentiating\") &mdash; a further intensified form "
+        "of the same lakkh- root already seen at SN 33.26&ndash;30 "
+        "and SN 33.31&ndash;35 &mdash; continuing the identical "
+        "single-line compression."
+    ),
+    guide=[
+        ("A fourth consecutive cycle at this minimal shape", [
+            "\"At Sāvatthī. 'Vaccha, it is because of not "
+            "differentiating form …'\" &mdash; the same single-line "
+            "compression, now confirmed across four consecutive "
+            "cycles.",
+        ]),
+        ("A third verb sharing the lakkh- root", [
+            "Appaccupalakkhaṇa joins asallakkhaṇa (SN 33.26&ndash;30) "
+            "and anupalakkhaṇa (SN 33.31&ndash;35) as a third "
+            "near-synonym built on the same lakkh- root, with an "
+            "added pati- and pacca- prefix intensifying the sense of "
+            "close, careful discernment.",
+        ]),
+        ("A cluster of related verbs within the larger set of eleven", [
+            "This saṃyutta's eleven diagnostic verbs are not eleven "
+            "unrelated words but include at least one visible cluster "
+            "of etymologically related terms &mdash; a texture worth "
+            "noticing even as the underlying diagnostic claim itself "
+            "never varies.",
+        ]),
+        ("Eighth of eleven diagnostic verbs", [
+            "With this cycle, eight of eleven diagnostic verbs have "
+            "now been applied, leaving only three more before SN "
+            "33.51&ndash;55's own final verb and this saṃyutta's own "
+            "close.",
+        ]),
+    ],
+    terms=[
+        ("appaccupalakkhaṇa", "not differentiating, or not closely "
+                               "discerning &mdash; the eighth of "
+                               "eleven near-synonymous diagnostic "
+                               "verbs"),
+        ("rūpa", "form &mdash; the only aggregate named in this "
+                  "file's own single surviving line"),
+        ("anupalakkhaṇa", "not detecting &mdash; the previous "
+                           "cycle's own diagnostic verb, sharing the "
+                           "same lakkh- root"),
+        ("lakkhaṇa", "mark or characteristic &mdash; the shared root "
+                      "underlying this cluster of related verbs"),
+        ("peyyāla", "an elision mark &mdash; here compressing an "
+                     "entire five-discourse cycle to a single line"),
+    ],
+    text_intro=("The discourse exactly as the source preserves it: a "
+        "single surviving line. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn33.36-40:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What diagnostic verb does this cycle use?",
+         "opts": ["Appaccupalakkhaṇa (\"not differentiating\")", "Anupalakkhaṇa (\"not detecting\")",
+                  "Asallakkhaṇa (\"not distinguishing\")", "Aññāṇa (\"not knowing\")"],
+         "correct": 0,
+         "expl": "The eighth of eleven near-synonymous diagnostic verbs."},
+        {"q": "What root does this verb share with two earlier cycles' own verbs?",
+         "opts": ["The lakkh- root (\"to mark\" or \"characterize\")", "No shared root at all",
+                  "A root meaning \"to see\"", "A root meaning \"to know\""],
+         "correct": 0,
+         "expl": "Joining asallakkhaṇa and anupalakkhaṇa as a third near-synonym built on this same root."},
+        {"q": "What does this cluster of related verbs reveal about this saṃyutta's eleven diagnostic verbs?",
+         "opts": ["They include at least one visible etymological cluster, not eleven entirely unrelated words",
+                  "They are all entirely unrelated with no shared roots", "They are actually the same word repeated eleven times",
+                  "Only this one verb has any etymological history"],
+         "correct": 0,
+         "expl": "A texture worth noticing even as the underlying diagnostic claim itself never varies."},
+        {"q": "How many diagnostic verbs remain after this one?",
+         "opts": ["Three", "Zero — this is the last", "Eight", "Eleven"],
+         "correct": 0,
+         "expl": "Before SN 33.51–55's own final verb and this saṃyutta's own close."},
+        {"q": "How many consecutive cycles has this saṃyutta now compressed to this exact single-line shape?",
+         "opts": ["Four", "One", "Eight", "Eleven"],
+         "correct": 0,
+         "expl": "SN 33.21–25, 26–30, 31–35, and now 36–40."},
+    ],
+    marginalia=[
+        ("A fourth consecutive minimal cycle", [
+            "not differentiating, this time &mdash;",
+            "the same single line, one word changed",
+        ]),
+        ("A third verb on the same root", [
+            "asallakkhaṇa, anupalakkhaṇa, now this &mdash;",
+            "all built on lakkh-, \"to mark\"",
+        ]),
+        ("A visible cluster within eleven verbs", [
+            "not eleven unrelated words &mdash;",
+            "at least one family of near-synonyms",
+        ]),
+        ("Eighth of eleven, three more to come", [
+            "the cycle nearing its own end &mdash;",
+            "SN 33.51 still ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn33.36-40/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-33.31-35.html">SN 33.31&ndash;35 &middot; Five '
+        "Discourses on Not Detecting Form, Etc.</a> &mdash; the "
+        "previous page, the seventh diagnostic-verb cycle.",
+        '<a href="sn-33.41-45.html">SN 33.41&ndash;45 &middot; Five '
+        "Discourses on Not Examining Form, Etc.</a> &mdash; the next "
+        "page, a ninth diagnostic verb in this same minimal shape.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 33.41–45 — Rūpaasamapekkhaṇādisuttapañcaka
+# --------------------------------------------------------------------------- #
+page_range(
+    33, 41, 45, "Rūpaasamapekkhaṇādi", "Five Discourses on Not "
+    "Examining Form, Etc.",
+    vagga="Vacchagottavagga",
+    meta_title="SN 33.41–45 · Five Discourses on Not Examining Form, "
+                "Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 33.41 through "
+        "33.45 &mdash; the ninth diagnostic-verb cycle, \"not "
+        "examining,\" continuing this saṃyutta's minimal single-line "
+        "compression. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The wanderer Vacchagotta questions the Buddha "
+                     "(by cross-reference)"),
+        ("Form", "A single surviving line, identical in shape to SN "
+                 "33.21&ndash;40"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 33.1&ndash;40"),
+    ],
+    why=(
+        "The ninth diagnostic-verb cycle, using asamapekkhaṇa (\"not "
+        "examining\") &mdash; a verb built on a different root "
+        "(ikkh-, \"to look\") from the lakkh- cluster seen at SN "
+        "33.26&ndash;40, marking a return to a fresh etymological "
+        "family even as the underlying compression stays identical."
+    ),
+    guide=[
+        ("The identical minimal shape, a fifth consecutive time", [
+            "\"At Sāvatthī. 'Vaccha, it is because of not examining "
+            "form …'\" &mdash; the same single-line compression, now "
+            "confirmed across five consecutive cycles.",
+        ]),
+        ("A new root, breaking the lakkh- cluster", [
+            "Asamapekkhaṇa is built on ikkh- (\"to look\" or \"to "
+            "regard\"), not lakkh- &mdash; a genuinely different word-"
+            "family from the three-verb cluster spanning SN "
+            "33.26&ndash;40, showing this saṃyutta's eleven verbs "
+            "aren't organized into one single continuous etymological "
+            "progression.",
+        ]),
+        ("Ninth of eleven diagnostic verbs", [
+            "With this cycle, nine of eleven diagnostic verbs have "
+            "now been applied, leaving only two more before this "
+            "saṃyutta's own close: appaccupekkhaṇa (SN "
+            "33.46&ndash;50) and appaccakkhakamma (SN "
+            "33.51&ndash;55).",
+        ]),
+        ("A pair of verbs sharing this new root still to come", [
+            "This same ikkh- root will recur in the very next cycle "
+            "(appaccupekkhaṇa, \"not scrutinizing,\" at SN "
+            "33.46&ndash;50), forming a second small cluster of two "
+            "related verbs closing out this saṃyutta's own sequence.",
+        ]),
+    ],
+    terms=[
+        ("asamapekkhaṇa", "not examining, or not surveying &mdash; "
+                           "the ninth of eleven near-synonymous "
+                           "diagnostic verbs"),
+        ("rūpa", "form &mdash; the only aggregate named in this "
+                  "file's own single surviving line"),
+        ("ikkhaṇa", "looking or regarding &mdash; the root "
+                     "underlying asamapekkhaṇa, distinct from the "
+                     "lakkh- cluster seen at SN 33.26&ndash;40"),
+        ("appaccupekkhaṇa", "not scrutinizing &mdash; the next "
+                             "cycle's own diagnostic verb, sharing "
+                             "this same ikkh- root"),
+        ("peyyāla", "an elision mark &mdash; here compressing an "
+                     "entire five-discourse cycle to a single line"),
+    ],
+    text_intro=("The discourse exactly as the source preserves it: a "
+        "single surviving line. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn33.41-45:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What diagnostic verb does this cycle use?",
+         "opts": ["Asamapekkhaṇa (\"not examining\")", "Appaccupalakkhaṇa (\"not differentiating\")",
+                  "Anupalakkhaṇa (\"not detecting\")", "Aññāṇa (\"not knowing\")"],
+         "correct": 0,
+         "expl": "The ninth of eleven near-synonymous diagnostic verbs."},
+        {"q": "What root is this verb built on, distinct from SN 33.26–40's own lakkh- cluster?",
+         "opts": ["Ikkh- (\"to look\" or \"to regard\")", "The same lakkh- root", "Jñā- (\"to know\")",
+                  "No identifiable root at all"],
+         "correct": 0,
+         "expl": "A genuinely different word-family, showing this saṃyutta's verbs aren't one continuous progression."},
+        {"q": "Which upcoming cycle shares this same ikkh- root?",
+         "opts": ["SN 33.46–50 (appaccupekkhaṇa, \"not scrutinizing\")", "SN 33.21–25", "SN 33.51–55",
+                  "None — this root appears only once"],
+         "correct": 0,
+         "expl": "Forming a second small cluster of two related verbs closing out this saṃyutta's own sequence."},
+        {"q": "How many diagnostic verbs remain after this one?",
+         "opts": ["Two", "Zero — this is the last", "Nine", "Eleven"],
+         "correct": 0,
+         "expl": "Appaccupekkhaṇa and appaccakkhakamma, closing this saṃyutta's own eleven-verb sequence."},
+        {"q": "How many consecutive cycles has this saṃyutta now compressed to this exact single-line shape?",
+         "opts": ["Five", "One", "Nine", "Eleven"],
+         "correct": 0,
+         "expl": "SN 33.21–25 through 33.41–45, all five compressed identically."},
+    ],
+    marginalia=[
+        ("A fifth consecutive minimal cycle", [
+            "not examining, this time &mdash;",
+            "the same single line, one word changed",
+        ]),
+        ("A new root, not the lakkh- cluster", [
+            "ikkh-, \"to look\" &mdash;",
+            "a fresh word-family, not a continuation",
+        ]),
+        ("Ninth of eleven, two more to come", [
+            "appaccupekkhaṇa and appaccakkhakamma ahead &mdash;",
+            "the sequence nearing its own close",
+        ]),
+        ("A second small cluster, still ahead", [
+            "this ikkh- root recurs once more &mdash;",
+            "at SN 33.46–50, the very next cycle",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn33.41-45/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-33.36-40.html">SN 33.36&ndash;40 &middot; Five '
+        "Discourses on Not Differentiating Form, Etc.</a> &mdash; the "
+        "previous page, the eighth diagnostic-verb cycle.",
+        '<a href="sn-33.46-50.html">SN 33.46&ndash;50 &middot; Five '
+        "Discourses on Not Scrutinizing Form, Etc.</a> &mdash; the "
+        "next page, sharing this cycle's own ikkh- root.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 33.46–50 — Rūpaappaccupekkhaṇādisuttapañcaka
+# --------------------------------------------------------------------------- #
+page_range(
+    33, 46, 50, "Rūpaappaccupekkhaṇādi", "Five Discourses on Not "
+    "Scrutinizing Form, Etc.",
+    vagga="Vacchagottavagga",
+    meta_title="SN 33.46–50 · Five Discourses on Not Scrutinizing "
+                "Form, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 33.46 through "
+        "33.50 &mdash; the tenth diagnostic-verb cycle, \"not "
+        "scrutinizing,\" closing this saṃyutta's run of minimal "
+        "single-line compressions. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The wanderer Vacchagotta questions the Buddha "
+                     "(by cross-reference)"),
+        ("Form", "A single surviving line, closing the run of six "
+                 "identically compressed cycles begun at SN "
+                 "33.21&ndash;25"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 33.1&ndash;45"),
+    ],
+    why=(
+        "The tenth diagnostic-verb cycle, using appaccupekkhaṇa "
+        "(\"not scrutinizing\") &mdash; sharing SN 33.41&ndash;45's "
+        "own ikkh- root, forming this saṃyutta's second small "
+        "etymological cluster &mdash; and closing the run of six "
+        "consecutive cycles compressed to an identical single-line "
+        "shape before SN 33.51&ndash;55's own final verb restores "
+        "somewhat fuller content."
+    ),
+    guide=[
+        ("The identical minimal shape, a sixth and final time", [
+            "\"At Sāvatthī. 'Vaccha, it is because of not "
+            "scrutinizing form …'\" &mdash; the same single-line "
+            "compression, closing a run of six consecutive cycles "
+            "compressed identically.",
+        ]),
+        ("Completing the second etymological cluster", [
+            "Appaccupekkhaṇa shares SN 33.41&ndash;45's own ikkh- "
+            "root, confirming this saṃyutta's second small cluster of "
+            "two related verbs, distinct from the earlier three-verb "
+            "lakkh- cluster at SN 33.26&ndash;40.",
+        ]),
+        ("Tenth of eleven diagnostic verbs", [
+            "With this cycle, ten of eleven diagnostic verbs have now "
+            "been applied across all five aggregates, leaving only "
+            "appaccakkhakamma (\"not directly experiencing\") to "
+            "close this saṃyutta at SN 33.51&ndash;55.",
+        ]),
+        ("A shift in compression still to come", [
+            "SN 33.51&ndash;55 will restore somewhat fuller content "
+            "than this run of six minimal cycles &mdash; the "
+            "saṃyutta's own final verb receiving Vacchagotta's full "
+            "greeting-and-approach scene once more, before this "
+            "saṃyutta's own colophon.",
+        ]),
+    ],
+    terms=[
+        ("appaccupekkhaṇa", "not scrutinizing, or not closely "
+                             "surveying &mdash; the tenth of eleven "
+                             "near-synonymous diagnostic verbs"),
+        ("rūpa", "form &mdash; the only aggregate named in this "
+                  "file's own single surviving line"),
+        ("asamapekkhaṇa", "not examining &mdash; the previous "
+                           "cycle's own diagnostic verb, sharing this "
+                           "same ikkh- root"),
+        ("appaccakkhakamma", "not directly experiencing &mdash; the "
+                              "eleventh and final diagnostic verb, "
+                              "closing this saṃyutta at SN "
+                              "33.51&ndash;55"),
+        ("peyyāla", "an elision mark &mdash; here compressing an "
+                     "entire five-discourse cycle to a single line"),
+    ],
+    text_intro=("The discourse exactly as the source preserves it: a "
+        "single surviving line. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn33.46-50:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What diagnostic verb does this cycle use?",
+         "opts": ["Appaccupekkhaṇa (\"not scrutinizing\")", "Asamapekkhaṇa (\"not examining\")",
+                  "Appaccupalakkhaṇa (\"not differentiating\")", "Aññāṇa (\"not knowing\")"],
+         "correct": 0,
+         "expl": "The tenth of eleven near-synonymous diagnostic verbs."},
+        {"q": "What root does this cycle's verb share with SN 33.41–45's own?",
+         "opts": ["Ikkh- (\"to look\" or \"to regard\")", "The lakkh- root instead",
+                  "Jñā- (\"to know\")", "No shared root at all"],
+         "correct": 0,
+         "expl": "Confirming this saṃyutta's second small cluster of two related verbs."},
+        {"q": "How many consecutive cycles does this file close out at the identical single-line compression?",
+         "opts": ["Six — SN 33.21–25 through 33.46–50", "One", "Eleven", "Three"],
+         "correct": 0,
+         "expl": "The longest run of identically compressed cycles in this saṃyutta."},
+        {"q": "What single diagnostic verb remains after this cycle?",
+         "opts": ["Appaccakkhakamma (\"not directly experiencing\")", "Aññāṇa (\"not knowing\")",
+                  "Adassana (\"not seeing\")", "None — this is the last"],
+         "correct": 0,
+         "expl": "Closing this saṃyutta at SN 33.51–55."},
+        {"q": "What does this reading guide say will happen to the compression level at SN 33.51–55?",
+         "opts": ["It will restore somewhat fuller content, including Vacchagotta's full greeting-and-approach scene",
+                  "It will compress even further than this run of six cycles", "It will remain identically compressed",
+                  "The saṃyutta ends without any further discourses"],
+         "correct": 0,
+         "expl": "The saṃyutta's own final verb receives fuller treatment before its own colophon."},
+    ],
+    marginalia=[
+        ("A sixth and final minimal cycle", [
+            "not scrutinizing, closing the run &mdash;",
+            "six cycles compressed identically",
+        ]),
+        ("A second cluster, completed", [
+            "asamapekkhaṇa, appaccupekkhaṇa &mdash;",
+            "both built on ikkh-, \"to look\"",
+        ]),
+        ("Tenth of eleven, one verb left", [
+            "appaccakkhakamma still to come &mdash;",
+            "closing this saṃyutta's own sequence",
+        ]),
+        ("Fuller content, just ahead", [
+            "the minimal run ends here &mdash;",
+            "SN 33.51–55 restores more detail",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn33.46-50/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-33.41-45.html">SN 33.41&ndash;45 &middot; Five '
+        "Discourses on Not Examining Form, Etc.</a> &mdash; the "
+        "previous page, sharing this cycle's own ikkh- root.",
+        '<a href="sn-33.51-54.html">SN 33.51&ndash;54 &middot; Four '
+        "Discourses on Not Directly Experiencing Form, Etc.</a> "
+        "&mdash; the next page, this saṃyutta's own eleventh and "
+        "final diagnostic verb.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 33.51–54 — Rūpaappaccakkhakammādisuttacatukka
+# --------------------------------------------------------------------------- #
+page_range(
+    33, 51, 54, "Rūpaappaccakkhakammādi", "Four Discourses on Not "
+    "Directly Experiencing Form, Etc.",
+    vagga="Vacchagottavagga",
+    meta_title="SN 33.51–54 · Four Discourses on Not Directly "
+                "Experiencing Form, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 33.51 through "
+        "33.54 &mdash; the eleventh and final diagnostic-verb cycle, "
+        "\"not directly experiencing,\" restoring Vacchagotta's full "
+        "greeting scene before this saṃyutta's own close. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, given in full for the first time since "
+                     "SN 33.1"),
+        ("Speakers", "The wanderer Vacchagotta approaches, greets, "
+                     "and questions the Buddha, given in full"),
+        ("Form", "Four discourses, each keeping its own individual "
+                 "key prefix, covering the first four aggregates"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the fullest treatment since SN 33.1, worth "
+                       "reading closely"),
+    ],
+    why=(
+        "This merged file opens this saṃyutta's eleventh and final "
+        "diagnostic-verb cycle, using appaccakkhakamma (\"not "
+        "directly experiencing\") &mdash; and genuinely breaks the "
+        "compression pattern of the preceding six cycles by restoring "
+        "Vacchagotta's own full greeting-and-approach scene, not seen "
+        "in this much detail since SN 33.1. Covering only four "
+        "aggregates (form, feeling, perception, choices), this file "
+        "leaves consciousness to SN 33.55's own closing discourse, "
+        "which will carry this saṃyutta's own colophon."
+    ),
+    guide=[
+        ("A genuine return to fuller content", [
+            "\"The wanderer Vacchagotta went up to the Buddha and "
+            "exchanged greetings with him. When the greetings and "
+            "polite conversation were over, he sat down to one side, "
+            "and said to the Buddha\" &mdash; the full approach scene, "
+            "restored here for the first time since SN 33.1, after "
+            "six consecutive cycles reduced to a single line.",
+        ]),
+        ("The final diagnostic verb, a genuinely distinct meaning", [
+            "Appaccakkhakamma (\"not directly experiencing\") shifts "
+            "register from the preceding ten verbs' own cognitive-"
+            "perceptual sense (knowing, seeing, comprehending, and so "
+            "on) toward something closer to direct, lived experience "
+            "&mdash; arguably the deepest and most experiential of "
+            "the eleven diagnostic terms.",
+        ]),
+        ("Only four aggregates, not five", [
+            "Unlike every earlier cycle, this file covers only form, "
+            "feeling, perception, and choices &mdash; consciousness "
+            "is deliberately held back for SN 33.55's own individual "
+            "closing discourse, giving this saṃyutta's own final "
+            "aggregate its own dedicated page.",
+        ]),
+        ("Per-sutta-prefix encoding, one final time", [
+            "As at SN 33.11&ndash;15 and SN 33.16&ndash;20, this "
+            "file's four sub-discourses each keep their own "
+            "individual key prefix (sn33.51:, sn33.52:, sn33.53:, "
+            "sn33.54:) rather than sharing one unified prefix.",
+        ]),
+    ],
+    terms=[
+        ("appaccakkhakamma", "not directly experiencing &mdash; the "
+                              "eleventh and final diagnostic verb, "
+                              "closing this saṃyutta's own sequence"),
+        ("rūpa", "form &mdash; the first of four aggregates covered "
+                  "in this file, given in full"),
+        ("saṅkhāra", "choices &mdash; the fourth and last aggregate "
+                      "covered here, closing this file's own "
+                      "four-part set"),
+        ("appaccupekkhaṇa", "not scrutinizing &mdash; the previous "
+                             "cycle's own diagnostic verb, replaced "
+                             "here by appaccakkhakamma"),
+        ("viññāṇa", "consciousness &mdash; deliberately held back "
+                     "for SN 33.55's own individual closing discourse"),
+    ],
+    text_intro=("The complete merged file: Vacchagotta's own full "
+        "approach scene, form given in full, and feeling, perception, "
+        "and choices elided as bilara-data preserves them. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn33.51:1.1-1.4"),
+        ("p", "&sect;2", "sn33.51:1.7"),
+        ("p", "&sect;3", "sn33.52:1.2"),
+        ("p", "&sect;4", "sn33.53:1.2"),
+        ("p", "&sect;5", "sn33.54:1.2"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Four — SN 33.51 through SN 33.54", "Five", "One", "Ten"],
+         "correct": 0,
+         "expl": "Covering only form, feeling, perception, and choices — not all five aggregates."},
+        {"q": "What genuinely breaks with the preceding six cycles' own compression pattern here?",
+         "opts": ["Vacchagotta's full greeting-and-approach scene is restored, not seen since SN 33.1",
+                  "The diagnostic claim itself is reversed", "The setting changes to a new location",
+                  "No break occurs — the compression continues identically"],
+         "correct": 0,
+         "expl": "After six consecutive cycles reduced to a single line."},
+        {"q": "Which aggregate is deliberately held back from this file, for SN 33.55's own dedicated page?",
+         "opts": ["Consciousness", "Form", "Feeling", "Perception"],
+         "correct": 0,
+         "expl": "Giving this saṃyutta's own final aggregate its own individual closing discourse."},
+        {"q": "What does appaccakkhakamma (\"not directly experiencing\") shift toward, compared to the preceding ten verbs?",
+         "opts": ["Something closer to direct, lived experience, arguably the deepest of the eleven terms",
+                  "A purely intellectual, abstract sense identical to the others", "A completely unrelated meaning",
+                  "A denial that any of the eleven verbs matter"],
+         "correct": 0,
+         "expl": "The preceding ten verbs share a more cognitive-perceptual register."},
+        {"q": "What encoding convention does this file share with SN 33.11–15 and SN 33.16–20?",
+         "opts": ["Each sub-discourse keeps its own individual key prefix, rather than one unified prefix",
+                  "A single unified key prefix for the entire file", "No prefix convention at all",
+                  "A prefix unique to this file alone"],
+         "correct": 0,
+         "expl": "Confirming per-sutta-prefix encoding as a recurring pattern in this saṃyutta."},
+    ],
+    marginalia=[
+        ("Fuller content, restored", [
+            "the full greeting scene, once more &mdash;",
+            "not seen since SN 33.1 itself",
+        ]),
+        ("The deepest of eleven verbs", [
+            "not directly experiencing &mdash;",
+            "lived experience, not just cognition",
+        ]),
+        ("Four aggregates, not five", [
+            "consciousness deliberately held back &mdash;",
+            "its own dedicated page still ahead",
+        ]),
+        ("The eleventh verb, nearly done", [
+            "one more discourse to go &mdash;",
+            "SN 33.55 closes the entire saṃyutta",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn33.51-54/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-33.46-50.html">SN 33.46&ndash;50 &middot; Five '
+        "Discourses on Not Scrutinizing Form, Etc.</a> &mdash; the "
+        "previous page, closing this saṃyutta's run of minimal "
+        "single-line cycles.",
+        '<a href="sn-33.55.html">SN 33.55 &middot; Not Directly '
+        "Experiencing Consciousness</a> &mdash; the next and final "
+        "discourse, closing this entire saṃyutta.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 33.55 — Viññāṇaappaccakkhakammasutta
+# --------------------------------------------------------------------------- #
+page(
+    33, 55, "Viññāṇaappaccakkhakamma", "Not Directly Experiencing "
+    "Consciousness",
+    vagga="Vacchagottavagga",
+    meta_title="SN 33.55 — Not Directly Experiencing Consciousness "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Viññāṇaappaccakkhakammasutta &mdash; closing "
+        "Vacchagottasaṃyutta's own eleven-verb, five-aggregate cycle "
+        "and this book's own coverage so far with the collection's "
+        "translated colophon. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The wanderer Vacchagotta and the Buddha, by "
+                     "cross-reference to SN 33.51's own full scene"),
+        ("Form", "A compact individual discourse closing this "
+                 "saṃyutta's entire fifty-five-discourse structure"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but closes a genuinely large "
+                       "structure worth appreciating in full"),
+    ],
+    why=(
+        "This discourse closes Vacchagottasaṃyutta's entire fifty-"
+        "five-discourse arc: the eleventh and final diagnostic verb, "
+        "appaccakkhakamma (\"not directly experiencing\"), applied to "
+        "consciousness, the fifth and final aggregate. With this "
+        "discourse, all eleven near-synonymous diagnostic verbs have "
+        "now been run across all five aggregates &mdash; a genuine "
+        "eleven-by-five matrix, the largest single matrix this "
+        "project has traced in the Saṃyutta Nikāya so far, closing "
+        "with the collection's own translated colophon."
+    ),
+    guide=[
+        ("The final cell of an eleven-by-five matrix", [
+            "\"It is because of not directly experiencing "
+            "consciousness, its origin, its cessation, and the "
+            "practice that leads to its cessation, that these various "
+            "misconceptions arise in the world\" &mdash; the very "
+            "last combination of eleven diagnostic verbs and five "
+            "aggregates this saṃyutta has systematically worked "
+            "through.",
+        ]),
+        ("A structure this project hasn't seen at this scale before", [
+            "Where SN 24's own four-round structure and SN "
+            "29&ndash;32's own birth-mode-times-gift-item "
+            "multiplications each produced large but bounded totals, "
+            "Vacchagottasaṃyutta's own eleven-times-five design is "
+            "this project's first genuine two-dimensional matrix "
+            "saṃyutta, methodically exhausting every combination of "
+            "cause-verb and aggregate.",
+        ]),
+        ("A single, unwavering claim underlying every combination", [
+            "Despite fifty-five discourses and eleven different "
+            "verbs, the underlying claim never varies: speculative "
+            "views about the cosmos, the self, and the afterlife all "
+            "trace to some form of not-knowing the five aggregates "
+            "&mdash; the verb changes, the aggregate changes, but the "
+            "diagnosis itself is one single idea, restated fifty-five "
+            "ways.",
+        ]),
+        ("An officially translated closing line", [
+            "This discourse's final line &mdash; \"the Linked "
+            "Discourses with Vacchagotta are completed\" &mdash; is "
+            "genuinely translated by Sujato and quoted here verbatim, "
+            "the same kind of officially rendered closing line this "
+            "project has already collected at the end of several "
+            "earlier saṃyuttas.",
+        ]),
+        ("Vacchagottasaṃyutta's place among the wanderer's own recurring appearances", [
+            "Vacchagotta reappears across the canon in several other "
+            "well-known discourses (including his famous unanswered "
+            "question about whether the self exists at all, SN "
+            "44.10) &mdash; this saṃyutta represents his own most "
+            "sustained, systematic engagement with the Buddha across "
+            "any single collection.",
+        ]),
+    ],
+    terms=[
+        ("appaccakkhakamma", "not directly experiencing &mdash; the "
+                              "eleventh and final diagnostic verb, "
+                              "closing this saṃyutta's own sequence"),
+        ("viññāṇa", "consciousness &mdash; the fifth and final "
+                     "aggregate, closing this saṃyutta's own matrix"),
+        ("Vacchagottavaggo paṭhamo", "\"Vacchagottavagga, the first, "
+                                      "finished\" &mdash; the "
+                                      "untranslated vagga colophon, "
+                                      "coinciding here with the "
+                                      "saṃyutta's own close"),
+        ("Vacchagottasaṁyuttaṁ samattaṁ", "\"the Linked Discourses "
+                                           "with Vacchagotta are "
+                                           "complete\" &mdash; this "
+                                           "saṃyutta's own officially "
+                                           "Sujato-translated closing "
+                                           "line, quoted verbatim in "
+                                           "the text below"),
+        ("diṭṭhigatāni", "\"views\" or \"resorts of views\" &mdash; "
+                          "the technical term this entire saṃyutta "
+                          "traces back to not-knowing across all "
+                          "eleven verbs and five aggregates"),
+    ],
+    text_intro=("The complete discourse, closing this saṃyutta's own "
+        "eleven-by-five matrix with its officially translated closing "
+        "line. The untranslated vagga colophon and uddāna verse "
+        "(which names all eleven diagnostic verbs) are described "
+        "above rather than quoted, since the source itself leaves "
+        "them untranslated. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn33.55:1.1-1.3"),
+        ("p", "&sect;2", "sn33.55:1.6"),
+        ("p", "&sect;3", "sn33.55:2.7"),
+    ],
+    quiz=[
+        {"q": "What diagnostic verb and aggregate combination does this discourse close?",
+         "opts": ["Not directly experiencing (appaccakkhakamma), applied to consciousness",
+                  "Not knowing (aññāṇa), applied to form", "Not seeing (adassana), applied to feeling",
+                  "A completely new combination not seen elsewhere in this saṃyutta"],
+         "correct": 0,
+         "expl": "The eleventh and final diagnostic verb, the fifth and final aggregate."},
+        {"q": "What kind of structure does this saṃyutta's full eleven-verb, five-aggregate design represent?",
+         "opts": ["This project's first genuine two-dimensional matrix saṃyutta, exhausting every combination systematically",
+                  "A simple linear list with no repeating structure", "An identical structure to SN 29's own birth-mode taxonomy",
+                  "A structure with no discernible pattern at all"],
+         "correct": 0,
+         "expl": "Distinct from SN 24's four rounds or SN 29–32's own multiplication patterns."},
+        {"q": "Does the underlying diagnostic claim ever change across this saṃyutta's fifty-five discourses?",
+         "opts": ["No — only the verb and aggregate change; the core claim (not-knowing the aggregates produces speculative views) stays constant",
+                  "Yes, each combination produces an entirely different claim", "Yes, later discourses contradict earlier ones",
+                  "The claim changes only for consciousness, not the other aggregates"],
+         "correct": 0,
+         "expl": "One single idea, restated fifty-five ways."},
+        {"q": "What does the officially translated closing line of this saṃyutta say?",
+         "opts": ["\"The Linked Discourses with Vacchagotta are completed\"",
+                  "\"The eleven verbs are now exhausted\"", "No closing line is translated in the source",
+                  "\"The five aggregates are now understood\""],
+         "correct": 0,
+         "expl": "Genuinely translated by Sujato, quoted verbatim in this page's text."},
+        {"q": "Where else does Vacchagotta appear in the canon, according to this reading guide?",
+         "opts": ["Several other well-known discourses, including his famous unanswered question at SN 44.10",
+                  "Nowhere else — this saṃyutta is his only appearance", "Only as a background character with no direct speech",
+                  "Exclusively in the Vinaya, not the Sutta Piṭaka"],
+         "correct": 0,
+         "expl": "This saṃyutta represents his most sustained, systematic engagement with the Buddha across any single collection."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("The final cell of the matrix", [
+            "not directly experiencing consciousness &mdash;",
+            "the last of fifty-five combinations",
+        ]),
+        ("Eleven verbs, five aggregates, one idea", [
+            "the verb changes, the aggregate changes &mdash;",
+            "the underlying claim never does",
+        ]),
+        ("This project's first true matrix saṃyutta", [
+            "eleven times five, exhaustively worked &mdash;",
+            "a genuinely two-dimensional structure",
+        ]),
+        ("A closing line genuinely translated", [
+            "\"the Linked Discourses with Vacchagotta are complete\" &mdash;",
+            "Sujato's own words, quoted verbatim",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn33.55/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-33.51-54.html">SN 33.51&ndash;54 &middot; Four '
+        "Discourses on Not Directly Experiencing Form, Etc.</a> "
+        "&mdash; the previous page, this saṃyutta's own final "
+        "diagnostic-verb cycle for its first four aggregates.",
+        '<a href="sn-33.1.html">SN 33.1 &middot; Not Knowing '
+        "Form</a> &mdash; this saṃyutta's own opening discourse, "
+        "whose ten-view question and diagnostic template every later "
+        "discourse, including this closing one, ultimately builds "
+        "on.",
+    ],
+)
