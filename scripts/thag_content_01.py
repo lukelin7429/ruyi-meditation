@@ -53762,3 +53762,539 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thag 16.6 — Sela
+# --------------------------------------------------------------------------- #
+page(
+    16, 6, "Sela", "Sela",
+    meta_title="Thag 16.6 — Sela | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sela's verse &mdash; a brahmin teacher urges the Buddha to "
+        "become a world-conquering king instead, and is answered "
+        "with a different kind of kingship entirely. The same "
+        "episode already told in full on this site's MN 92 and Snp "
+        "3.7. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twenties &middot; Chapter One &middot; Poem 6 of 10",
+    glance=[
+        ("Setting", "A brahmin teacher's first encounter with the "
+                    "Buddha, before an audience of his own students"),
+        ("Speaker", "Two voices in formal, explicitly tagged "
+                    "dialogue: Sela and the Buddha, with a narrator's "
+                    "closing frame"),
+        ("Form", "Twenty-four verses, almost entirely spoken "
+                 "dialogue"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "formal dialogue structure, several cross-"
+                       "referenced episodes"),
+    ],
+    why=(
+        "&lsquo;You're fit to be a king, a wheel-turning monarch... "
+        "Gotama, you should reign as king of kings, lord of "
+        "mankind!&rsquo; the brahmin Sela urges, reading the marks of "
+        "greatness on the Buddha's body &mdash; and receives an "
+        "answer that accepts the premise while redirecting it "
+        "entirely: &lsquo;I am a king, Sela... the supreme king of "
+        "the teaching. By the teaching I roll forth the wheel which "
+        "cannot be rolled back.&rsquo;"),
+    guide=[
+        ("A dialogue with its speakers formally tagged inside the verse itself", [
+            "Unlike this collection's other dialogue poems, several "
+            "verses here embed an explicit speaker-tag directly "
+            "within the Pali line itself &mdash; &lsquo;(selāti "
+            "bhagavā)&rsquo;, &lsquo;said the Buddha to "
+            "Sela&rsquo;; &lsquo;(iti selo brāhmaṇo)&rsquo;, &lsquo;said "
+            "Sela the brahmin&rsquo; &mdash; a formal attribution "
+            "convention distinct from the plainer alternating voices "
+            "found elsewhere in this collection."]),
+        ("Marks of greatness, read two different ways", [
+            "Sela's opening six verses catalogue the traditional "
+            "marks of a great man on the Buddha's body &mdash; "
+            "golden skin, white teeth, formidable bearing &mdash; "
+            "concluding these marks point toward universal kingship, "
+            "not asceticism. The same physical description recurs, "
+            "per Sujato's comment, at this site's own "
+            "<a href=\"../majjhima-nikaya/mn-091.html\">MN 91, With "
+            "Brahmāyu</a>, where another brahmin reads the identical "
+            "signs."]),
+        ("A king who names a different general entirely", [
+            "When Sela presses further &mdash; who is your general, "
+            "the one who keeps your wheel rolling? &mdash; the "
+            "Buddha names Sāriputta directly. Sujato's comment notes "
+            "the title &lsquo;General of the Dhamma&rsquo; belongs "
+            "specifically to Sāriputta, also found at this site's own "
+            "Thag 18.1, not yet reached in this collection. The "
+            "&lsquo;wheel that cannot be rolled back&rsquo; itself "
+            "echoes the first sermon, already told on this site's "
+            "<a href=\"../samyutta-nikaya/sn-56.11.html\">SN 56.11, "
+            "Rolling Forth the Wheel of Dhamma</a>."]),
+        ("An explicit claim that the path holds regardless of birth", [
+            "The narrator's brief interjection in verse sixteen asks "
+            "&lsquo;who would not be inspired by him, even one born "
+            "in a dark class?&rsquo; Sujato's comment identifies "
+            "&lsquo;dark class&rsquo; as referring to those born in "
+            "an unfortunate state, and reads the line as Sela "
+            "affirming that the Buddha's path is open to everyone, "
+            "not reserved for the fortunate."]),
+        ("A near-instant conversion of an entire following", [
+            "Once Sela decides to go forth, his three hundred "
+            "brahmin students immediately follow &mdash; &lsquo;may "
+            "we lead the spiritual life in your presence?&rsquo; "
+            "&mdash; and the poem's closing verses report they were "
+            "&lsquo;tamed&rsquo; within seven days of taking refuge. "
+            "This site's own "
+            "<a href=\"../majjhima-nikaya/mn-092.html\">MN 92, With "
+            "Sela</a>, and "
+            "<a href=\"../sutta-nipata/snp-3.7.html\">Snp 3.7, With "
+            "Sela</a>, both already tell this same episode in full "
+            "prose narrative."]),
+        ("Two verses shared with another elder's own conversion praise", [
+            "Sujato's comment on verse twenty-two notes that this "
+            "verse and the next are also found at this site's own "
+            "Snp 3.7's parallel text, Snp 3.6 &mdash; the account of "
+            "Sabhiya, another figure already represented in this "
+            "collection at Thag 3.6. The closing praise-formula "
+            "&lsquo;you are the Buddha, you are the Teacher... "
+            "you've crossed over, and you bring humanity across&rsquo; "
+            "belongs to a shared repertoire of conversion-praise "
+            "language rather than to Sela alone."]),
+    ],
+    terms=[
+        ("mahāpurisalakkhaṇā",
+         "&ldquo;the marks of a great man&rdquo; &mdash; the "
+         "traditional physical signs Sela reads as pointing toward "
+         "kingship."),
+        ("dhammena cakkaṁ vattemi, cakkaṁ appaṭivattiyaṁ",
+         "&ldquo;by the teaching I roll forth the wheel which cannot "
+         "be rolled back&rdquo; &mdash; echoing this site's own SN "
+         "56.11, the first sermon."),
+        ("senāpati",
+         "&ldquo;general&rdquo; &mdash; the title Sela asks after, "
+         "answered by the Buddha naming Sāriputta directly."),
+        ("kaṇhābhijātiko",
+         "&ldquo;born in a dark class&rdquo; &mdash; the narrator's "
+         "phrase affirming the path's availability regardless of "
+         "birth."),
+        ("brāhmaṇā tisatā",
+         "&ldquo;these three hundred brahmins&rdquo; &mdash; Sela's "
+         "entire following, converting alongside their teacher."),
+    ],
+    text_intro=(
+        "The text in full: twenty-four verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag16.6:1.1-1.4"),
+        ("p", "&sect;2", "thag16.6:2.1-2.4"),
+        ("p", "&sect;3", "thag16.6:3.1-3.4"),
+        ("p", "&sect;4", "thag16.6:4.1-4.4"),
+        ("p", "&sect;5", "thag16.6:5.1-5.4"),
+        ("p", "&sect;6", "thag16.6:6.1-6.4"),
+        ("p", "&sect;7", "thag16.6:7.1-7.5"),
+        ("p", "&sect;8", "thag16.6:8.1-8.5"),
+        ("p", "&sect;9", "thag16.6:9.1-9.4"),
+        ("p", "&sect;10", "thag16.6:10.1-10.5"),
+        ("p", "&sect;11", "thag16.6:11.1-11.4"),
+        ("p", "&sect;12", "thag16.6:12.1-12.4"),
+        ("p", "&sect;13", "thag16.6:13.1-13.4"),
+        ("p", "&sect;14", "thag16.6:14.1-14.4"),
+        ("p", "&sect;15", "thag16.6:15.1-15.4"),
+        ("p", "&sect;16", "thag16.6:16.1-16.4"),
+        ("p", "&sect;17", "thag16.6:17.1-17.4"),
+        ("p", "&sect;18", "thag16.6:18.1-18.4"),
+        ("p", "&sect;19", "thag16.6:19.1-19.4"),
+        ("p", "&sect;20", "thag16.6:20.1-20.5"),
+        ("p", "&sect;21", "thag16.6:21.1-21.4"),
+        ("p", "&sect;22", "thag16.6:22.1-22.4"),
+        ("p", "&sect;23", "thag16.6:23.1-23.4"),
+        ("p", "&sect;24", "thag16.6:24.1-24.4"),
+    ],
+    quiz=[
+        {"q": "What formal convention distinguishes this poem's dialogue from other dialogue poems in this collection?",
+         "opts": [
+             "Speakers are never identified anywhere in the poem",
+             "Speaker-tags embedded directly within several Pali lines themselves — '(selāti bhagavā)', '(iti selo brāhmaṇo)'",
+             "The poem has no dialogue at all",
+             "It is written entirely as one continuous monologue"],
+         "correct": 1,
+         "expl": "A formal attribution convention distinct from the plainer alternating voices found elsewhere in this collection."},
+        {"q": "What does Sela urge the Buddha to become, based on reading the marks on his body?",
+         "opts": [
+             "A famous poet",
+             "A military general only",
+             "A wheel-turning monarch, king of kings",
+             "A wealthy merchant"],
+         "correct": 2,
+         "expl": "'Rājā arahasi bhavituṁ, cakkavattī rathesabho.'"},
+        {"q": "How does the Buddha answer Sela's claim about kingship?",
+         "opts": [
+             "By refusing to answer",
+             "By claiming to already rule an earthly kingdom",
+             "By denying he is any kind of king",
+             "By accepting the premise while redirecting it — 'I am a king, Sela... the supreme king of the teaching'"],
+         "correct": 3,
+         "expl": "'By the teaching I roll forth the wheel which cannot be rolled back.'"},
+        {"q": "Who does the Buddha name as his 'general', the one who keeps the wheel of teaching rolling?",
+         "opts": [
+             "Sāriputta",
+             "No one — he claims to do it all himself",
+             "Sela himself",
+             "Ānanda"],
+         "correct": 0,
+         "expl": "Sujato's comment notes 'General of the Dhamma' belongs specifically to Sāriputta."},
+        {"q": "What does the narrator's interjection in verse sixteen affirm?",
+         "opts": [
+             "That only brahmins can follow the path",
+             "That the path is open to everyone, even one born in an unfortunate state ('a dark class')",
+             "That wealth is required for awakening",
+             "That the path is closed to Sela's students"],
+         "correct": 1,
+         "expl": "Sela affirming the Buddha's path is not reserved for the fortunate."},
+        {"q": "What happens once Sela decides to go forth?",
+         "opts": [
+             "Nothing further is described",
+             "He goes alone, leaving his students behind",
+             "His three hundred brahmin students immediately ask to follow as well",
+             "His students reject his decision"],
+         "correct": 2,
+         "expl": "A near-instant conversion of an entire following, reported within the poem itself."},
+        {"q": "Where is this same episode already told in full prose narrative on this site?",
+         "opts": [
+             "Only in the Dhammapada",
+             "Only in the Vinaya",
+             "Nowhere else on this site",
+             "MN 92 and Snp 3.7, both titled 'With Sela'"],
+         "correct": 3,
+         "expl": "Both already translated on this site."},
+        {"q": "What does Sujato's comment note about verses twenty-two and twenty-three?",
+         "opts": [
+             "They also appear in this site's Snp 3.7's parallel text, Snp 3.6 — the account of Sabhiya, already represented in this collection at Thag 3.6",
+             "They were added by a later editor with no source",
+             "They contradict the rest of the poem",
+             "They are entirely unique to this poem"],
+         "correct": 0,
+         "expl": "A shared repertoire of conversion-praise language rather than language unique to Sela."},
+        {"q": "How quickly does the poem report Sela's students became 'tamed' in the teaching?",
+         "opts": [
+             "The poem doesn't specify a timeframe",
+             "Within seven days of taking refuge",
+             "After many years",
+             "Immediately, with no time elapsed"],
+         "correct": 1,
+         "expl": "'Sattarattena bhagavā, dantāmha tava sāsane.'"},
+        {"q": "What does the Buddha's own declaration in verses eleven through fourteen echo, per Sujato's comment?",
+         "opts": [
+             "A completely unrelated sutta",
+             "Only the Vinaya",
+             "This site's own MN 91, With Brahmāyu",
+             "No parallel is noted"],
+         "correct": 2,
+         "expl": "Another brahmin reading the identical physical marks on the Buddha's body."},
+    ],
+    marginalia=[
+        ("Speakers named inside the verse itself", [
+            "'said the Buddha to Sela', 'said Sela the brahmin' —",
+            "a formal tag unlike this collection's other dialogues"
+        ]),
+        ("Marks of greatness, read toward two different thrones", [
+            "kingship of the earth, or kingship of the teaching —",
+            "the same signs, redirected entirely"
+        ]),
+        ("A general named, not claimed for himself", [
+            "Sāriputta, keeping the wheel rolling —",
+            "the same title found again at Thag 18.1"
+        ]),
+        ("Three hundred students, seven days", [
+            "an entire following converting alongside their teacher —",
+            "already told in full prose on MN 92 and Snp 3.7"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag16.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-092.html">MN 92 &mdash; With '
+        "Sela</a> &mdash; this same episode, told in full prose "
+        "narrative.",
+        '<a href="../sutta-nipata/snp-3.7.html">Snp 3.7 &mdash; With '
+        "Sela</a> &mdash; the Sutta Nipāta's own version of this "
+        "episode.",
+        '<a href="../samyutta-nikaya/sn-56.11.html">SN 56.11 &mdash; '
+        "Rolling Forth the Wheel of Dhamma</a> &mdash; the first "
+        "sermon this poem's central image recalls.",
+        '<a href="thag-16.5.html">Thag 16.5 &mdash; Māluṅkyaputta '
+        "(2nd)</a> &mdash; the poem immediately before this one, in "
+        "the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 16.7 — Kāḷigodhāputta Bhaddiya
+# --------------------------------------------------------------------------- #
+page(
+    16, 7, "K&amacr;&#7735;igodh&amacr;puttabhaddiya", "K&amacr;&#7735;igodh&amacr;puttabhaddiya",
+    meta_title="Thag 16.7 — Kāḷigodhāputta Bhaddiya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Bhaddiya's verse &mdash; a former king who versifies all "
+        "thirteen traditional ascetic practices in strict canonical "
+        "order, the Pali source abbreviating seventeen consecutive "
+        "verses, the most extensive use of this shorthand anywhere "
+        "in this collection. His own famous exclamation, already "
+        "told on this site's Ud 2.10, closes the poem. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Twenties &middot; Chapter One &middot; Poem 7 of 10",
+    glance=[
+        ("Setting", "A former king's own retrospective, contrasting "
+                    "two ways of life"),
+        ("Speaker", "Bhaddiya, son of Godhā, in the first person "
+                    "throughout"),
+        ("Form", "Twenty-four verses, seventeen consecutive verses "
+                 "sharing one template"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "highly repetitive structure, specific "
+                       "technical vocabulary"),
+    ],
+    why=(
+        "&lsquo;I rode on an elephant's neck, wearing luxurious "
+        "clothes... today I am fortunate, persistent, happy with the "
+        "scraps in my bowl,&rsquo; Bhaddiya opens &mdash; a former "
+        "king (or crown prince) who then versifies, in strict "
+        "canonical order, the complete traditional list of thirteen "
+        "ascetic practices, before closing on the same fearless "
+        "contentment already told on this site's own Ud 2.10, where "
+        "his repeated exclamation &lsquo;what bliss!&rsquo; puzzled "
+        "his fellow monks."),
+    guide=[
+        ("The complete traditional list of ascetic practices, in canonical order", [
+            "Verses three through fifteen name, one per verse and in "
+            "exactly their standard sequence, all thirteen of the "
+            "traditional dhutaṅga (ascetic observances): rag-robes, "
+            "alms-food, three robes only, indiscriminate alms-"
+            "gathering, eating in one sitting, eating only from the "
+            "bowl, refusing food offered later, forest-dwelling, "
+            "living at a tree's root, living in the open, living in "
+            "a charnel ground, accepting whatever seat is given, and "
+            "never lying down to sleep. Verses sixteen through twenty "
+            "add five further qualities &mdash; few wishes, "
+            "contentment, seclusion, aloofness, energy &mdash; as a "
+            "coda beyond the formal thirteen."]),
+        ("The most extensive peyyāla abbreviation anywhere in this collection", [
+            "After verses two and three establish the template in "
+            "full, the Pali source abbreviates the second, third, and "
+            "fourth lines of all seventeen following verses "
+            "(verses four through twenty) with &lsquo;… pe …&rsquo;, "
+            "trusting the reader to supply the identical refrain each "
+            "time, with only the opening word naming a different "
+            "quality. This is by far the longest run of peyyāla "
+            "shorthand in this collection, dwarfing the single- or "
+            "few-verse cases already found in Thag 7.1, Thag 14.1, "
+            "and Thag 15.1. Sujato's English translation reconstructs "
+            "the full refrain at every occurrence regardless."]),
+        ("A former king, and the specific weight of what he gave up", [
+            "The twenty-first verse names the exact objects "
+            "surrendered with unusual specificity: &lsquo;giving up a "
+            "valuable bronze bowl, and a precious golden one, too, I "
+            "took a bowl made of clay&rsquo;, calling it his "
+            "&lsquo;second initiation&rsquo;. Few poems in this "
+            "collection itemize a renunciation this concretely."]),
+        ("Fear behind high walls, versus fearlessness in the open forest", [
+            "The twenty-second and twenty-third verses draw the "
+            "poem's central contrast directly: once living in "
+            "&lsquo;a citadel with walls so high... guarded by "
+            "swordsmen&rsquo; yet &lsquo;trembling with fear&rsquo;, "
+            "now &lsquo;free of cowardice, with fear and dread given "
+            "up&rsquo;, having &lsquo;plunged into the forest&rsquo;. "
+            "Security and fear turn out to have been directly "
+            "proportional, not inversely so."]),
+        ("The same elder already heard exclaiming 'what bliss!'", [
+            "This site's own "
+            "<a href=\"../udana/ud-2.10.html\">Ud 2.10, With "
+            "Bhaddiya</a>, already tells of this same former king "
+            "repeatedly exclaiming &lsquo;Oh, what bliss!&rsquo; alone "
+            "in the forest, puzzling fellow monks who assumed he must "
+            "be pining for his old royal comforts &mdash; until asked "
+            "directly, he explains the opposite is true. This poem's "
+            "own contrast between guarded fear and unguarded "
+            "fearlessness is the same realization stated in first-"
+            "person testimony."]),
+    ],
+    terms=[
+        ("sātatiko",
+         "&ldquo;persistent&rdquo; &mdash; the word repeated at the "
+         "head of all seventeen templated verses, regardless of "
+         "which specific practice each names."),
+        ("dhutaṅga",
+         "the traditional thirteen ascetic observances, versified "
+         "here in full canonical order across verses three through "
+         "fifteen."),
+        ("peyyāla",
+         "the Pali convention of abbreviating a repeated passage as "
+         "&lsquo;… pe …&rsquo; &mdash; used here across seventeen "
+         "consecutive verses, this collection's most extensive case."),
+        ("idaṁ dutiyābhisecanaṁ",
+         "&ldquo;this is my second initiation&rdquo; &mdash; "
+         "Bhaddiya's own description of exchanging golden and bronze "
+         "bowls for one of plain clay."),
+        ("pahīnabhayabheravo",
+         "&ldquo;fear and dread given up&rdquo; &mdash; the state "
+         "contrasted directly with his former life trembling behind "
+         "guarded walls."),
+    ],
+    text_intro=(
+        "The text in full: twenty-four verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag16.7:1.1-1.4"),
+        ("p", "&sect;2", "thag16.7:2.1-2.4"),
+        ("p", "&sect;3", "thag16.7:3.1-3.4"),
+        ("p", "&sect;4", "thag16.7:4.1-4.4"),
+        ("p", "&sect;5", "thag16.7:5.1-5.4"),
+        ("p", "&sect;6", "thag16.7:6.1-6.4"),
+        ("p", "&sect;7", "thag16.7:7.1-7.4"),
+        ("p", "&sect;8", "thag16.7:8.1-8.4"),
+        ("p", "&sect;9", "thag16.7:9.1-9.4"),
+        ("p", "&sect;10", "thag16.7:10.1-10.4"),
+        ("p", "&sect;11", "thag16.7:11.1-11.4"),
+        ("p", "&sect;12", "thag16.7:12.1-12.4"),
+        ("p", "&sect;13", "thag16.7:13.1-13.4"),
+        ("p", "&sect;14", "thag16.7:14.1-14.4"),
+        ("p", "&sect;15", "thag16.7:15.1-15.4"),
+        ("p", "&sect;16", "thag16.7:16.1-16.4"),
+        ("p", "&sect;17", "thag16.7:17.1-17.4"),
+        ("p", "&sect;18", "thag16.7:18.1-18.4"),
+        ("p", "&sect;19", "thag16.7:19.1-19.4"),
+        ("p", "&sect;20", "thag16.7:20.1-20.4"),
+        ("p", "&sect;21", "thag16.7:21.1-21.4"),
+        ("p", "&sect;22", "thag16.7:22.1-22.4"),
+        ("p", "&sect;23", "thag16.7:23.1-23.4"),
+        ("p", "&sect;24", "thag16.7:24.1-24.4"),
+    ],
+    quiz=[
+        {"q": "What do verses three through fifteen name, one per verse and in strict order?",
+         "opts": [
+             "Thirteen different meditation postures only",
+             "A random list of unrelated virtues",
+             "The complete traditional list of thirteen ascetic practices (dhutaṅga), in their standard canonical sequence",
+             "Thirteen different named teachers"],
+         "correct": 2,
+         "expl": "Rag-robes, alms-food, three robes, forest-dwelling, charnel-ground dwelling, and more, in exact traditional order."},
+        {"q": "What happens in the Pali source across verses four through twenty?",
+         "opts": [
+             "The verses are entirely missing from the manuscript",
+             "Only one verse uses abbreviation",
+             "Each verse is written out in full, with no abbreviation",
+             "The second through fourth lines are abbreviated with peyyāla ('… pe …') across all seventeen verses — this collection's most extensive case"],
+         "correct": 3,
+         "expl": "Dwarfing the single- or few-verse cases already found in Thag 7.1, Thag 14.1, and Thag 15.1."},
+        {"q": "What does Bhaddiya call giving up his golden and bronze bowls for one of clay, in verse twenty-one?",
+         "opts": [
+             "His 'second initiation'",
+             "A temporary measure",
+             "The verse doesn't describe this exchange",
+             "A minor inconvenience"],
+         "correct": 0,
+         "expl": "Few poems in this collection itemize a renunciation this concretely."},
+        {"q": "What contrast do verses twenty-two and twenty-three draw?",
+         "opts": [
+             "Between two different meditation techniques",
+             "Between trembling with fear behind guarded citadel walls, and fearlessness after plunging into the open forest",
+             "Between two different teachers",
+             "No contrast is drawn"],
+         "correct": 1,
+         "expl": "Security and fear turn out to have been directly proportional, not inversely so."},
+        {"q": "Where is this same elder already heard exclaiming 'what bliss!' on this site?",
+         "opts": [
+             "Only in the Vinaya",
+             "Nowhere else on this site",
+             "Ud 2.10, With Bhaddiya",
+             "Only in the Dhammapada"],
+         "correct": 2,
+         "expl": "Puzzling fellow monks who assumed he was pining for his old royal comforts."},
+        {"q": "What does Ud 2.10 reveal about why Bhaddiya kept exclaiming this, per this reading guide?",
+         "opts": [
+             "It was a meaningless habit with no explanation",
+             "He refused to explain it at all",
+             "He genuinely missed his royal life",
+             "The opposite of what others assumed — he explains it directly when asked"],
+         "correct": 3,
+         "expl": "The same realization about fearlessness stated here in first-person testimony."},
+        {"q": "What word opens each of the seventeen templated verses, regardless of which specific practice is named?",
+         "opts": [
+             "'Sātatiko' — 'persistent'",
+             "A different word each time",
+             "No shared opening word",
+             "'Bhaddiyo' every time"],
+         "correct": 0,
+         "expl": "The one constant across all seventeen near-identical verses."},
+        {"q": "What did Bhaddiya eat in his former royal life, per the opening verse?",
+         "opts": [
+             "Simple bread and water",
+             "Boiled fine rice with pure meat sauce",
+             "Nothing is described",
+             "Only fruit"],
+         "correct": 1,
+         "expl": "Contrasted directly with his current contentment with 'scraps in my bowl.'"},
+        {"q": "What does the poem's closing verse describe him as gradually attaining?",
+         "opts": [
+             "Nothing — the poem ends without resolution",
+             "Wealth and status once again",
+             "The ending of all fetters, established in ethics and developing mindfulness and wisdom",
+             "A return to royal life"],
+         "correct": 2,
+         "expl": "'Sīlakkhandhe patiṭṭhāya, satiṁ paññañca bhāvayaṁ... sabbasaṁyojanakkhayaṁ.'"},
+        {"q": "What is Bhaddiya's full name, indicating his mother?",
+         "opts": [
+             "No family name is given",
+             "Only 'Bhaddiya the King'",
+             "Bhaddiya of the Acacia Wood",
+             "Kāḷigodhāputta Bhaddiya — 'Bhaddiya, son of Godhā'"],
+         "correct": 3,
+         "expl": "Repeated as a refrain throughout the poem's templated verses."},
+    ],
+    marginalia=[
+        ("Thirteen practices, one per verse", [
+            "the complete traditional list, in canonical order —",
+            "versified here as a single sustained recitation"
+        ]),
+        ("Seventeen verses, the same three lines assumed", [
+            "the longest run of '… pe …' in this collection —",
+            "the manuscript trusting the reader entirely"
+        ]),
+        ("A clay bowl, called a second initiation", [
+            "gold and bronze given up deliberately —",
+            "renunciation itemized with unusual specificity"
+        ]),
+        ("Guarded walls, trembling; open forest, fearless", [
+            "security and fear running in the same direction —",
+            "the same realization already told on Ud 2.10"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag16.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../udana/ud-2.10.html">Ud 2.10 &mdash; With '
+        "Bhaddiya</a> &mdash; this same former king, exclaiming "
+        "'what bliss!' alone in the forest.",
+        '<a href="thag-16.6.html">Thag 16.6 &mdash; Sela</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
