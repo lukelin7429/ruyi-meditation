@@ -50610,3 +50610,516 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Book of the Twelves
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# Thag 12.1 — Sīlava
+# --------------------------------------------------------------------------- #
+page(
+    12, 1, "S&imacr;lava", "S&imacr;lava",
+    meta_title="Thag 12.1 — Sīlava | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sīlava's verse, opening the Book of the Twelves with this "
+        "collection's most sustained cascade of metaphors for "
+        "ethical conduct &mdash; boundary, weapon, ornament, "
+        "bridge, perfume, provision, vehicle &mdash; a dozen images "
+        "in a dozen verses. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twelves &middot; Chapter One &middot; Poem 1 of 2",
+    glance=[
+        ("Setting", "General instruction on ethical conduct, "
+                    "without further attribution"),
+        ("Speaker", "Sīlava, whose own name means &lsquo;the "
+                    "virtuous one&rsquo;"),
+        ("Form", "Twelve four-line verses, almost entirely built "
+                 "from a single extended metaphor"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, an unusually dense "
+                       "concentration of similes"),
+    ],
+    why=(
+        "&lsquo;Ethics are the matchless power; ethics are the "
+        "ultimate weapon; ethics are the best ornament; ethics are a "
+        "marvelous coat of armor&rsquo; &mdash; Sīlava, whose own "
+        "name means &lsquo;the virtuous one&rsquo;, doesn't argue for "
+        "ethical conduct so much as simply pile up images for it, "
+        "verse after verse, until sīla has been compared to nearly "
+        "everything valuable a listener might imagine."),
+    guide=[
+        ("A name that states its own subject", [
+            "Sīlava &mdash; &lsquo;possessed of ethics&rsquo;, "
+            "&lsquo;the virtuous one&rsquo; &mdash; opens this book "
+            "with a poem whose entire content is his own name's "
+            "subject matter, its twelve verses devoted almost "
+            "exclusively to praising sīla in one image after "
+            "another."]),
+        ("A cascade of metaphors, rarely repeating an image twice", [
+            "Across verses six through nine alone, ethics is "
+            "compared to a boundary, a restraint, an enjoyment for "
+            "the mind, the ford where all Buddhas cross, matchless "
+            "power, the ultimate weapon, the best ornament, a "
+            "marvelous coat of armor, a mighty bridge, the unsurpassed "
+            "scent, the best perfume, the best provision, the "
+            "unsurpassed supply for a journey, and the best vehicle. "
+            "Few single-theme poems anywhere in this collection "
+            "sustain such variety of comparison for one subject "
+            "without repeating an image."]),
+        ("Practical benefits named before the metaphors begin", [
+            "The second through fifth verses ground the later "
+            "metaphor-cascade in concrete outcomes: praise, "
+            "prosperity, delight in heaven; many friends versus "
+            "friends driven away; good reputation versus infamy. "
+            "Before ethics becomes armor or perfume, it is first "
+            "shown to simply work, in ordinary social and karmic "
+            "terms."]),
+        ("Both this life and what follows, held together", [
+            "The tenth and eleventh verses pair present and future "
+            "consequences directly: the unethical are criticized "
+            "&lsquo;in this life&rsquo; and grieve &lsquo;in a lower "
+            "realm&rsquo; after death; the ethical are renowned now "
+            "and happy in heaven later. The poem refuses to separate "
+            "immediate social benefit from long-term karmic "
+            "consequence, treating them as two faces of one "
+            "principle."]),
+        ("A final verse that quietly ranks wisdom above ethics itself", [
+            "After twelve verses building ethics up as foundation, "
+            "power, ornament, and vehicle all at once, the closing "
+            "verse adds a qualification: &lsquo;ethical conduct is "
+            "best in this life, but one with wisdom is supreme... "
+            "victorious among men and gods&rsquo;. The poem's own "
+            "structure enacts this ranking &mdash; eleven verses on "
+            "ethics, then a twelfth that places wisdom one step "
+            "higher, without undoing anything the eleven verses "
+            "before it established."]),
+    ],
+    terms=[
+        ("sabbasampatti&#7749;",
+         "&ldquo;all success&rdquo; &mdash; what well-cultivated "
+         "ethical conduct is said to provide, in the opening verse."),
+        ("titthañca sabbabuddhānaṁ",
+         "&ldquo;the ford where all the Buddhas cross over&rdquo; "
+         "&mdash; one of the poem's central images for ethics."),
+        ("sīlaṁ āvudhamuttamaṁ",
+         "&ldquo;ethics are the ultimate weapon&rdquo; &mdash; one "
+         "of several martial images used for ethical conduct."),
+        ("sīlaṁ seṭṭho ativāho",
+         "&ldquo;ethics are the best vehicle&rdquo; &mdash; the "
+         "poem's final metaphor before its closing verse."),
+        ("sīlapaññāṇato jayaṁ",
+         "&ldquo;victorious... through virtue and wisdom&rdquo; "
+         "&mdash; the closing verse's qualification, ranking wisdom "
+         "one step above ethics alone."),
+    ],
+    text_intro=(
+        "The text in full: twelve verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag12.1:1.1-1.4"),
+        ("p", "&sect;2", "thag12.1:2.1-2.4"),
+        ("p", "&sect;3", "thag12.1:3.1-3.4"),
+        ("p", "&sect;4", "thag12.1:4.1-4.4"),
+        ("p", "&sect;5", "thag12.1:5.1-5.4"),
+        ("p", "&sect;6", "thag12.1:6.1-6.4"),
+        ("p", "&sect;7", "thag12.1:7.1-7.4"),
+        ("p", "&sect;8", "thag12.1:8.1-8.4"),
+        ("p", "&sect;9", "thag12.1:9.1-9.4"),
+        ("p", "&sect;10", "thag12.1:10.1-10.4"),
+        ("p", "&sect;11", "thag12.1:11.1-11.4"),
+        ("p", "&sect;12", "thag12.1:12.1-12.4"),
+    ],
+    quiz=[
+        {"q": "What does the name 'Sīlava' mean?",
+         "opts": [
+             "'The wanderer'",
+             "'The virtuous one', 'possessed of ethics'",
+             "'The teacher'",
+             "'The solitary one'"],
+         "correct": 0,
+         "expl": "A name matching the poem's entire subject matter."},
+        {"q": "What structural approach does this poem take to its subject?",
+         "opts": [
+             "A single sustained argument with no repetition",
+             "A cascade of metaphors — ethics compared to a weapon, ornament, bridge, perfume, vehicle, and more",
+             "A personal narrative of the speaker's own ordination",
+             "A dialogue between two speakers"],
+         "correct": 1,
+         "expl": "Few single-theme poems in this collection sustain such variety of comparison without repeating an image."},
+        {"q": "What concrete benefits does the poem name before its metaphor-cascade begins?",
+         "opts": [
+             "Wealth accumulation only",
+             "None — the poem opens directly with metaphors",
+             "Praise, prosperity, many friends, and good reputation versus infamy",
+             "Physical strength alone"],
+         "correct": 2,
+         "expl": "Grounding the later imagery in concrete, ordinary social and karmic outcomes."},
+        {"q": "How do the tenth and eleventh verses relate present and future consequences?",
+         "opts": [
+             "They deny any connection between conduct and rebirth",
+             "They discuss only the afterlife, ignoring this life",
+             "They treat the two as entirely unrelated",
+             "They pair them directly — criticism now and a lower realm later for the unethical; renown now and heaven later for the ethical"],
+         "correct": 3,
+         "expl": "Treating immediate social benefit and long-term karmic consequence as two faces of one principle."},
+        {"q": "What does the closing verse add to the poem's praise of ethics?",
+         "opts": [
+             "A qualification: ethics is best, but one with wisdom is supreme, victorious among men and gods",
+             "A denial that ethics matters at all",
+             "A claim that wisdom is worthless without wealth",
+             "Nothing — it simply repeats the opening verse"],
+         "correct": 0,
+         "expl": "The poem's structure enacts this ranking — eleven verses on ethics, then a twelfth ranking wisdom one step higher."},
+        {"q": "What image describes ethics in the sixth verse, alongside boundary and restraint?",
+         "opts": [
+             "No image is given in this verse",
+             "An enjoyment for the mind, and the ford where all Buddhas cross over",
+             "A burden to be endured",
+             "An obstacle to be overcome"],
+         "correct": 1,
+         "expl": "'Titthañca sabbabuddhānaṁ' — a mighty, universal image."},
+        {"q": "What happens to someone lacking ethics, according to the third verse?",
+         "opts": [
+             "They become wealthy",
+             "Nothing changes for them",
+             "They drive away their friends through bad conduct",
+             "They gain many new friends"],
+         "correct": 2,
+         "expl": "'Dussīlo pana mittehi, dhaṁsate pāpamācaraṁ.'"},
+        {"q": "What martial images does the seventh verse use for ethics?",
+         "opts": [
+             "A fragile vessel",
+             "A retreat from battle",
+             "No martial imagery is used anywhere in the poem",
+             "Matchless power and the ultimate weapon"],
+         "correct": 3,
+         "expl": "'Sīlaṁ balaṁ appaṭimaṁ, sīlaṁ āvudhamuttamaṁ.'"},
+        {"q": "What does the ninth verse compare ethics to, regarding travel?",
+         "opts": [
+             "The best provision, the unsurpassed supply, and the best vehicle for a journey",
+             "A reason to never leave home",
+             "Nothing related to travel",
+             "An obstacle blocking the road"],
+         "correct": 0,
+         "expl": "'Sīlaṁ sambalamevaggaṁ, sīlaṁ pātheyyamuttamaṁ.'"},
+        {"q": "What does the fifth verse call ethical conduct, in relation to all good things?",
+         "opts": [
+             "An afterthought, unrelated to other virtues",
+             "The starting point and foundation, the mother at the head of all good things",
+             "A hindrance to good things",
+             "Something only relevant to monastics"],
+         "correct": 1,
+         "expl": "'Ādi sīlaṁ patiṭṭhā ca, kalyāṇānañca mātukaṁ.'"},
+    ],
+    marginalia=[
+        ("A name, and its whole subject", [
+            "'the virtuous one,' twelve verses on virtue —",
+            "little else besides"
+        ]),
+        ("Weapon, ornament, bridge, perfume", [
+            "one image after another, rarely repeating —",
+            "an unusually dense cascade of comparison"
+        ]),
+        ("This life and the next, held together", [
+            "praise now, heaven later; criticism now, a lower realm later —",
+            "one principle, not two separate claims"
+        ]),
+        ("A twelfth verse, quietly reordering the first eleven", [
+            "ethics best, but wisdom supreme —",
+            "the structure itself performs the ranking"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag12.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-11.1.html">Thag 11.1 &mdash; Saṅkicca</a> '
+        "&mdash; the closing poem of the book immediately before "
+        "this one.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 12.2 — Sunīta
+# --------------------------------------------------------------------------- #
+page(
+    12, 2, "Sun&imacr;ta", "Sun&imacr;ta",
+    meta_title="Thag 12.2 — Sunīta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sunīta's verse, closing the Book of the Twelves &mdash; a "
+        "man born to a despised, low occupation, personally welcomed "
+        "by the Buddha, awakened in a single night, and honored by "
+        "the king of the gods himself. Closes on the Buddha's own "
+        "redefinition of what makes a true brahmin, echoing this "
+        "site's Snp 1.7 and Dhammapada Chapter 26. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Twelves &middot; Chapter One &middot; Poem 2 of 2",
+    glance=[
+        ("Setting", "A roadside encounter with the Buddha entering "
+                    "the Magadhan capital, then a night of solitary "
+                    "practice"),
+        ("Speaker", "Sunīta, closing this book's single chapter"),
+        ("Form", "Twelve four-line verses, in clear chronological "
+                 "sequence"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain narrative vocabulary, one of this "
+                       "collection's most striking social reversals"),
+    ],
+    why=(
+        "&lsquo;I was born in a low-class family. We were poor, with "
+        "little to eat. My job was lowly &mdash; I threw out the old "
+        "flowers,&rsquo; Sunīta opens &mdash; &lsquo;shunned by "
+        "people... disregarded and held in contempt&rsquo;. What "
+        "follows is one of this collection's most complete reversals: "
+        "a personal welcome from the Buddha himself, awakening within "
+        "a single night, and homage from Indra and Brahmā, closing on "
+        "the Buddha's own declaration of what actually makes someone "
+        "a brahmin."),
+    guide=[
+        ("A despised occupation, named without euphemism", [
+            "The opening two verses state Sunīta's circumstances "
+            "plainly: low birth, poverty, &lsquo;I threw out the old "
+            "flowers&rsquo;, &lsquo;shunned... disregarded and held "
+            "in contempt&rsquo;. Rather than softening this "
+            "description, the poem states it directly as the "
+            "starting condition the rest of the narrative will "
+            "answer."]),
+        ("The supreme man stops, out of sympathy for the lowest", [
+            "The fourth verse's central action is small but "
+            "significant: Sunīta drops the tool of his despised work "
+            "to approach the passing Buddha, and &lsquo;out of "
+            "sympathy for me, the supreme man stood still&rsquo;. The "
+            "Buddha, entering a capital city at the head of the "
+            "Saṅgha, pauses specifically for the person society has "
+            "placed lowest."]),
+        ("Ordination in four words", [
+            "&lsquo;Come, monk!&rsquo; &mdash; &lsquo;that was my "
+            "ordination&rsquo;, Sunīta reports, echoing the same "
+            "immediate, spoken formula already found elsewhere in "
+            "this collection (Thag 7.3, Thag 7.4). No distinction of "
+            "birth interrupts or delays the process; the invitation "
+            "is identical to the one given to anyone else the Buddha "
+            "ordains this way."]),
+        ("Full awakening across the three watches of a single night", [
+            "The eighth verse structures Sunīta's attainment "
+            "precisely: past lives recollected in the first watch, "
+            "clairvoyance purified in the middle watch, &lsquo;the "
+            "mass of darkness&rsquo; shattered in the last watch "
+            "&mdash; the classical three-stage sequence of a single "
+            "night's breakthrough, achieved &lsquo;staying alone in "
+            "the wilderness&rsquo; with no further training period "
+            "described."]),
+        ("Homage from the king of the gods himself", [
+            "At dawn, &lsquo;Indra and the Divinity&rsquo; (Brahmā) "
+            "come in person to revere the newly awakened Sunīta "
+            "&mdash; &lsquo;homage to you, supreme among men... you, "
+            "good fellow, are worthy of a religious donation&rsquo;. "
+            "The poem places the very deities that traditional "
+            "brahminical religion held supreme in the position of "
+            "worshippers before a man that same social order had "
+            "placed at its lowest rank."]),
+        ("A closing verse redefining brahminhood itself", [
+            "Seeing Sunīta honored by the assembly of gods, the "
+            "Buddha smiles and declares: &lsquo;by fervor and "
+            "spiritual practice, by restraint and by self-control: "
+            "that's how to become a brahmin, this is the supreme "
+            "brahmin&rsquo;. This directly echoes the argument "
+            "already found on this site in "
+            "<a href=\"../sutta-nipata/snp-1.7.html\">Snp 1.7, The "
+            "Lowlife</a>, and throughout "
+            "<a href=\"../dhammapada/dhp-26.html\">Dhammapada "
+            "Chapter 26, Brahmins</a> &mdash; that birth determines "
+            "nothing about spiritual worth, and the word "
+            "&lsquo;brahmin&rsquo; itself, the highest social rank in "
+            "the culture surrounding this teaching, is reclaimed "
+            "here for conduct alone."]),
+        ("Closing the Book of the Twelves, with a collective epithet", [
+            "This single-chapter book closes, like every book since "
+            "the Threes, moving directly from Sunīta's own "
+            "self-naming to &lsquo;Dvādasakanipāto niṭṭhito&rsquo;, "
+            "&lsquo;the Book of the Twelves is concluded&rsquo;, with "
+            "no separate chapter marker. The Tatruddāna names both "
+            "elders together &mdash; Sīlava and Sunīta &mdash; under "
+            "a single shared epithet, &lsquo;therā dve te "
+            "mahiddhikā&rsquo;, &lsquo;these two elders, of great "
+            "psychic power&rsquo;, rather than naming either "
+            "individually: a ninth distinct epithet-placement pattern "
+            "in this collection, and the first to describe both "
+            "elders of a book with one collective phrase instead of "
+            "separate epithets. The stated tally, &lsquo;twenty-four "
+            "verses&rsquo;, matches two poems of twelve verses each "
+            "exactly, a fifth consecutive book with a closing count "
+            "that adds up cleanly."]),
+    ],
+    terms=[
+        ("pupphachaḍḍako",
+         "&ldquo;flower-disposer&rdquo; &mdash; Sunīta's own "
+         "description of his low-status occupation before going "
+         "forth."),
+        ("‘ehi bhikkhū’ti",
+         "&ldquo;Come, monk!&rdquo; &mdash; the Buddha's entire "
+         "ordination formula for Sunīta, identical to the invitation "
+         "given elsewhere in this collection regardless of birth."),
+        ("rattiyā paṭhamaṁ yāmaṁ... pacchime yāme",
+         "&ldquo;the first watch of the night... the last "
+         "watch&rdquo; &mdash; the three-stage structure of Sunīta's "
+         "single-night awakening."),
+        ("Indo brahmā ca",
+         "&ldquo;Indra and the Divinity [Brahmā]&rdquo; &mdash; the "
+         "two deities who come personally to honor the newly "
+         "awakened Sunīta at dawn."),
+        ("etaṁ brāhmaṇamuttamaṁ",
+         "&ldquo;this is the supreme brahmin&rdquo; &mdash; the "
+         "Buddha's own closing redefinition, echoing this site's Snp "
+         "1.7 and Dhammapada Chapter 26."),
+    ],
+    text_intro=(
+        "The text in full: twelve verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag12.2:1.1-1.4"),
+        ("p", "&sect;2", "thag12.2:2.1-2.4"),
+        ("p", "&sect;3", "thag12.2:3.1-3.4"),
+        ("p", "&sect;4", "thag12.2:4.1-4.4"),
+        ("p", "&sect;5", "thag12.2:5.1-5.4"),
+        ("p", "&sect;6", "thag12.2:6.1-6.4"),
+        ("p", "&sect;7", "thag12.2:7.1-7.4"),
+        ("p", "&sect;8", "thag12.2:8.1-8.6"),
+        ("p", "&sect;9", "thag12.2:9.1-9.4"),
+        ("p", "&sect;10", "thag12.2:10.1-10.4"),
+        ("p", "&sect;11", "thag12.2:11.1-11.4"),
+        ("p", "&sect;12", "thag12.2:12.1-12.4"),
+    ],
+    quiz=[
+        {"q": "How does Sunīta describe his circumstances in the opening verses?",
+         "opts": [
+             "As a foreign traveler",
+             "Born low, poor, in a despised occupation — 'I threw out the old flowers'",
+             "Born into wealth and privilege",
+             "As a respected village elder"],
+         "correct": 1,
+         "expl": "Stated directly and plainly, without euphemism, as the starting condition the poem will answer."},
+        {"q": "What happens when Sunīta approaches the passing Buddha, in the fourth verse?",
+         "opts": [
+             "He is arrested",
+             "He is turned away",
+             "Out of sympathy, the Buddha stops and stands still for him",
+             "He is ignored entirely"],
+         "correct": 2,
+         "expl": "The Buddha, at the head of the Saṅgha entering a capital city, pauses for the person society placed lowest."},
+        {"q": "What is Sunīta's entire ordination formula?",
+         "opts": [
+             "A written certificate",
+             "No ordination is described",
+             "A lengthy formal ceremony lasting days",
+             "'Come, monk!' — identical to the invitation given elsewhere in this collection regardless of birth"],
+         "correct": 3,
+         "expl": "Echoing the same immediate, spoken formula already found in Thag 7.3 and Thag 7.4."},
+        {"q": "How does the eighth verse structure Sunīta's awakening?",
+         "opts": [
+             "Across the three watches of a single night — past lives, clairvoyance, then the shattering of darkness",
+             "In a single instant with no process described",
+             "The verse doesn't describe his awakening",
+             "Across many years of gradual practice"],
+         "correct": 0,
+         "expl": "The classical three-stage sequence of a single night's breakthrough."},
+        {"q": "Who comes to honor the newly awakened Sunīta at dawn?",
+         "opts": [
+             "A group of local villagers",
+             "Indra and Brahmā themselves",
+             "No one — he remains alone",
+             "A group of rival ascetics"],
+         "correct": 1,
+         "expl": "The very deities traditional religion held supreme, now paying homage to a man once held in contempt."},
+        {"q": "What does the Buddha declare, seeing Sunīta honored by the gods?",
+         "opts": [
+             "Nothing — the poem ends without comment",
+             "That birth determines spiritual worth after all",
+             "'By fervor and spiritual practice, by restraint and by self-control: that's how to become a brahmin'",
+             "That Sunīta should return to his former occupation"],
+         "correct": 2,
+         "expl": "Directly echoing this site's own Snp 1.7 and Dhammapada Chapter 26."},
+        {"q": "Where else on this site is the argument that birth doesn't determine brahminhood already found?",
+         "opts": [
+             "Only in the Book of the Ones",
+             "Only in the Vinaya",
+             "Nowhere else on this site",
+             "Snp 1.7 (The Lowlife) and Dhammapada Chapter 26 (Brahmins)"],
+         "correct": 3,
+         "expl": "The word 'brahmin' itself, the highest social rank in the surrounding culture, reclaimed here for conduct alone."},
+        {"q": "What did Sunīta drop in order to approach the Buddha?",
+         "opts": [
+             "His flail — the tool of his despised occupation",
+             "A weapon",
+             "A begging bowl",
+             "Nothing is mentioned"],
+         "correct": 0,
+         "expl": "'Nikkhipitvāna byābhaṅgiṁ' — dropping his work to pay homage."},
+        {"q": "Where was the Buddha entering, when Sunīta first saw him?",
+         "opts": [
+             "A remote forest hermitage",
+             "The capital city of the Magadhans, at the head of the mendicant Saṅgha",
+             "A small border village",
+             "A royal palace only, with no Saṅgha present"],
+         "correct": 1,
+         "expl": "'Pavisantaṁ mahāvīraṁ, magadhānaṁ puruttamaṁ.'"},
+        {"q": "What is the running total of poems completed on this site after this poem, out of 264?",
+         "opts": [
+             "232 of 264",
+             "240 of 264",
+             "242 of 264",
+             "264 of 264 — the collection is complete"],
+         "correct": 2,
+         "expl": "240 + 2 poems in the Book of the Twelves."},
+    ],
+    marginalia=[
+        ("A despised job, named plainly", [
+            "flowers thrown out, contempt held openly —",
+            "the starting point the rest of the poem answers"
+        ]),
+        ("The supreme man stood still", [
+            "for the one society placed lowest —",
+            "sympathy, not procedure, in a single gesture"
+        ]),
+        ("One night, three watches, full awakening", [
+            "past lives, clairvoyance, darkness shattered —",
+            "no further training period described"
+        ]),
+        ("Gods bowing to a flower-disposer", [
+            "Indra and Brahmā, come to pay homage —",
+            "birth reclaimed by conduct, not blood"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag12.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../sutta-nipata/snp-1.7.html">Snp 1.7 &mdash; The '
+        "Lowlife</a> &mdash; the same argument that birth doesn't "
+        "determine spiritual worth.",
+        '<a href="../dhammapada/dhp-26.html">Dhammapada Chapter 26 '
+        "&mdash; Brahmins</a> &mdash; an entire chapter on what "
+        "actually makes a true brahmin.",
+        '<a href="thag-12.1.html">Thag 12.1 &mdash; Sīlava</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
