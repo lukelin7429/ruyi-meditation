@@ -51394,3 +51394,523 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Book of the Fourteens
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# Thag 14.1 — Revata of the Acacia Wood
+# --------------------------------------------------------------------------- #
+page(
+    14, 1, "Khadiravaniya", "Revata of the Acacia Wood",
+    meta_title="Thag 14.1 — Revata of the Acacia Wood | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Revata of the Acacia Wood's verse &mdash; a second poem in "
+        "this collection for the same elder already met in Thag "
+        "1.42, sharing extensive verbatim material with this "
+        "collection's own Thag 11.1, including its celebrated "
+        "closing image of a worker awaiting wages. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Fourteens &middot; Chapter One &middot; Poem 1 of 2",
+    glance=[
+        ("Setting", "General reflection on his own practice, "
+                    "without further attribution"),
+        ("Speaker", "Revata of the Acacia Wood, the same elder "
+                    "already met in this site's Thag 1.42"),
+        ("Form", "Fourteen four-line verses, the eleventh partly "
+                 "abbreviated in the Pali source"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, extensive material shared "
+                       "with another poem in this collection"),
+    ],
+    why=(
+        "&lsquo;Since I've gone forth from the lay life to "
+        "homelessness, I've not been aware of any thought that is "
+        "ignoble and hateful,&rsquo; Revata opens &mdash; the same "
+        "elder this site already met in Thag 1.42, addressing his "
+        "sisters Cālā, Upacālā, and Sīsupacālā. This longer poem "
+        "shares extensive material verbatim with this collection's "
+        "own Thag 11.1 (Saṅkicca), including its celebrated closing "
+        "image: &lsquo;I await my time, like a worker waiting for "
+        "their wages.&rsquo;"),
+    guide=[
+        ("The same elder, a second poem in a later book", [
+            "This site's own Thag 1.42 already gives Revata of the "
+            "Acacia Wood a single verse, addressing his three "
+            "sisters Cālā, Upacālā, and Sīsupacālā directly: "
+            "&lsquo;meditate mindfully! I've come to you like a "
+            "hair-splitter&rsquo;. The identical specific epithet, "
+            "&lsquo;Khadiravaniya&rsquo;, &lsquo;of the Acacia "
+            "Wood&rsquo;, attached to both poems marks this as the "
+            "same individual rather than a namesake, unlike the "
+            "ordinal-disambiguated repeated names (Sopāka, Sumana, "
+            "Gotama) found elsewhere in this collection &mdash; a "
+            "single elder given both a short utterance in the Book "
+            "of the Ones and a fuller testimony here."]),
+        ("Three lines shared verbatim with Thag 11.1", [
+            "The second verse &mdash; &lsquo;May these beings be "
+            "killed! May they be slaughtered! May they suffer! I've "
+            "not been aware of any such thought&rsquo; &mdash; "
+            "matches Thag 11.1 (Saṅkicca)'s seventh verse word for "
+            "word across three full lines, differing only in its "
+            "closing phrase (&lsquo;in all this long while&rsquo; "
+            "here, against &lsquo;ignoble, hateful&rsquo; there)."]),
+        ("A famous closing image, shared entirely, abbreviation and all", [
+            "The tenth and eleventh verses reproduce Thag 11.1's "
+            "closing couplet-pair in full: &lsquo;I don't long for "
+            "death; I don't long for life; I await my time, like a "
+            "worker waiting for their wages&rsquo;, then repeated "
+            "with only its final phrase changed. Remarkably, the "
+            "eleventh verse's Pali source abbreviates itself with "
+            "&lsquo;… pe …&rsquo;, exactly as Thag 7.1 "
+            "(Sundarasamudda) did &mdash; the second case in this "
+            "collection of a poem's own manuscript relying on "
+            "peyyāla shorthand rather than spelling out a repeated "
+            "formula. Between these two poems, this specific "
+            "closing image is now this collection's most extensively "
+            "duplicated passage: two full verses, shared twice over, "
+            "with the identical textual convention marking the "
+            "repetition both times."]),
+        ("A hairsbreadth of evil, seen as a stormcloud", [
+            "The eighth verse's image stands out for its "
+            "psychological precision: to someone genuinely seeking "
+            "purity, &lsquo;even a hair-tip of evil seems as big as a "
+            "stormcloud&rsquo;. This isn't a claim about objective "
+            "severity but about a scrupulous mind's own scale of "
+            "perception, where moral sensitivity makes small lapses "
+            "loom disproportionately large."]),
+        ("Loving-kindness as sustained, technical practice", [
+            "Verses three through five describe mettā not as a "
+            "passing sentiment but as cultivated technique: "
+            "&lsquo;limitless and well-developed... gradually "
+            "consolidated as it was taught by the Buddha&rsquo;, "
+            "named explicitly as one of the brahmavihāras "
+            "(&lsquo;divine meditations&rsquo;) &lsquo;which "
+            "reprobates do not cultivate&rsquo; &mdash; friendliness "
+            "treated with the same systematic seriousness this "
+            "collection elsewhere gives to insight practice."]),
+    ],
+    terms=[
+        ("Khadiravaniya",
+         "&ldquo;of the Acacia Wood&rdquo; &mdash; the specific "
+         "epithet shared by this poem and this site's Thag 1.42, "
+         "marking them as the same individual."),
+        ("brahmavihāraṁ",
+         "&ldquo;divine meditation&rdquo; &mdash; the technical term "
+         "for loving-kindness practice, named directly in the fifth "
+         "verse."),
+        ("vālaggamattaṁ pāpassa",
+         "&ldquo;even a hair-tip of evil&rdquo; &mdash; the eighth "
+         "verse's image for a scrupulous mind's heightened "
+         "sensitivity to small lapses."),
+        ("peyyāla",
+         "the Pali convention of abbreviating a repeated passage as "
+         "&lsquo;… pe …&rsquo; &mdash; used in this poem's eleventh "
+         "verse, as in Thag 7.1, rather than spelling out the "
+         "formula in full."),
+        ("nibbisaṁ bhatako yathā",
+         "&ldquo;like a worker waiting for their wages&rdquo; "
+         "&mdash; the closing image shared in full with Thag 11.1."),
+    ],
+    text_intro=(
+        "The text in full: fourteen verses, the eleventh partly "
+        "abbreviated in the Pali source, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag14.1:1.1-1.4"),
+        ("p", "&sect;2", "thag14.1:2.1-2.4"),
+        ("p", "&sect;3", "thag14.1:3.1-3.4"),
+        ("p", "&sect;4", "thag14.1:4.1-4.4"),
+        ("p", "&sect;5", "thag14.1:5.1-5.4"),
+        ("p", "&sect;6", "thag14.1:6.1-6.4"),
+        ("p", "&sect;7", "thag14.1:7.1-7.4"),
+        ("p", "&sect;8", "thag14.1:8.1-8.4"),
+        ("p", "&sect;9", "thag14.1:9.1-9.4"),
+        ("p", "&sect;10", "thag14.1:10.1-10.4"),
+        ("p", "&sect;11", "thag14.1:11.1-11.4"),
+        ("p", "&sect;12", "thag14.1:12.1-12.4"),
+        ("p", "&sect;13", "thag14.1:13.1-13.4"),
+        ("p", "&sect;14", "thag14.1:14.1-14.4"),
+    ],
+    quiz=[
+        {"q": "How does this poem's speaker relate to this site's Thag 1.42?",
+         "opts": [
+             "The same individual — the identical specific epithet 'Khadiravaniya' marks them as one person, not two",
+             "Thag 1.42 does not feature anyone named Revata",
+             "This poem explicitly denies any connection to Thag 1.42",
+             "An unrelated namesake, like Sopāka or Sumana elsewhere in this collection"],
+         "correct": 0,
+         "expl": "A single elder given both a short utterance in the Book of the Ones and a fuller testimony here."},
+        {"q": "What does the second verse share with Thag 11.1 (Saṅkicca)?",
+         "opts": [
+             "Nothing — the two poems are unrelated",
+             "Three full lines, word for word — denying any wish for others' harm",
+             "Only a single shared word",
+             "A contradictory claim"],
+         "correct": 1,
+         "expl": "Differing only in the closing phrase: 'in all this long while' here, against 'ignoble, hateful' there."},
+        {"q": "What do the tenth and eleventh verses share with Thag 11.1?",
+         "opts": [
+             "A directly contradictory closing",
+             "Nothing related to that poem",
+             "The entire closing couplet-pair, including the famous 'worker waiting for wages' image",
+             "Only the poem's title"],
+         "correct": 2,
+         "expl": "This collection's most extensively duplicated passage — two full verses, shared twice over."},
+        {"q": "What textual convention does the eleventh verse's Pali source use, matching Thag 7.1?",
+         "opts": [
+             "It is missing entirely from the manuscript",
+             "It uses a completely different metre",
+             "It writes out the full text in unique wording",
+             "Peyyāla abbreviation ('… pe …'), relying on a stock formula rather than spelling it out"],
+         "correct": 3,
+         "expl": "The second case in this collection of a poem's own manuscript abbreviating itself this way."},
+        {"q": "What image does the eighth verse use for a scrupulous person's perception of small faults?",
+         "opts": [
+             "A hair-tip of evil seeming as big as a stormcloud",
+             "A grain of sand in an ocean, barely noticed",
+             "No image is used",
+             "A single drop in a full river"],
+         "correct": 0,
+         "expl": "A claim about a scrupulous mind's own scale of perception, not about objective severity."},
+        {"q": "How do verses three through five describe loving-kindness practice?",
+         "opts": [
+             "As a passing, uncultivated sentiment",
+             "As sustained, technical practice — limitless, well-developed, and gradually consolidated as the Buddha taught",
+             "As something only laypeople should practice",
+             "As irrelevant to serious meditation"],
+         "correct": 1,
+         "expl": "Named explicitly as one of the brahmavihāras, 'which reprobates do not cultivate.'"},
+        {"q": "What simile does the seventh verse use for a monk whose delusion has ended?",
+         "opts": [
+             "A river changing course",
+             "A leaf blown by the wind",
+             "A rocky mountain, unwavering and well grounded",
+             "A candle flickering in a draft"],
+         "correct": 2,
+         "expl": "'Evaṁ mohakkhayā bhikkhu, pabbatova na vedhati.'"},
+        {"q": "What does the ninth verse compare careful self-guarding to?",
+         "opts": [
+             "An open field with no boundaries",
+             "A locked box never opened",
+             "No comparison is made",
+             "A frontier city, guarded inside and out"],
+         "correct": 3,
+         "expl": "'Nagaraṁ yathā paccantaṁ, guttaṁ santarabāhiraṁ.'"},
+        {"q": "What closes this poem's final verse?",
+         "opts": [
+             "A declaration of full liberation — 'I'll be fully quenched, I'm liberated in every way'",
+             "An expression of doubt",
+             "A description of a future rebirth",
+             "A request for further teaching"],
+         "correct": 0,
+         "expl": "'Handāhaṁ parinibbissaṁ, vippamuttomhi sabbadhī.'"},
+        {"q": "What instruction does the fourteenth verse's opening line give?",
+         "opts": [
+             "No instruction is given",
+             "'Persist with diligence: this is my instruction'",
+             "A specific meditation posture",
+             "A request for alms"],
+         "correct": 1,
+         "expl": "'Sampādethappamādena, esā me anusāsanī.'"},
+    ],
+    marginalia=[
+        ("One elder, two poems", [
+            "a single verse in Book One, addressed to his sisters —",
+            "now a fuller testimony here"
+        ]),
+        ("Three lines shared with another poem entirely", [
+            "no wish for harm toward any being —",
+            "matching Thag 11.1 almost word for word"
+        ]),
+        ("A closing image, doubled and abbreviated", [
+            "like a worker awaiting wages, said twice —",
+            "the manuscript itself trusting the reader to know it"
+        ]),
+        ("A hairsbreadth seen as a stormcloud", [
+            "scrupulousness measured on its own scale —",
+            "not about the fault's real size"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag14.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.42.html">Thag 1.42 &mdash; Revata of the '
+        "Acacia Wood</a> &mdash; this same elder's earlier, single-"
+        "verse poem, addressed to his three sisters.",
+        '<a href="thag-11.1.html">Thag 11.1 &mdash; Saṅkicca</a> '
+        "&mdash; shares extensive verbatim material with this poem, "
+        "including its closing image.",
+        '<a href="thag-7.1.html">Thag 7.1 &mdash; Sundarasamudda</a> '
+        "&mdash; the other poem in this collection whose Pali source "
+        "uses peyyāla abbreviation.",
+        '<a href="thag-13.1.html">Thag 13.1 &mdash; Soṇakoḷivisa</a> '
+        "&mdash; the closing poem of the book immediately before "
+        "this one.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 14.2 — Godatta
+# --------------------------------------------------------------------------- #
+page(
+    14, 2, "Godatta", "Godatta",
+    meta_title="Thag 14.2 — Godatta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Godatta's verse, closing the Book of the Fourteens with a "
+        "sustained run of paradoxical value-inversions &mdash; "
+        "disrepute better than fame, painful seclusion better than "
+        "sensual pleasure, righteous death better than unrighteous "
+        "life. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Fourteens &middot; Chapter One &middot; Poem 2 of 2",
+    glance=[
+        ("Setting", "General teaching on equanimity and value, "
+                    "closing this book's single chapter"),
+        ("Speaker", "Godatta, cataloguing a run of paradoxical "
+                    "value-comparisons"),
+        ("Form", "Fourteen four-line verses, moving from similes of "
+                 "steadiness to a sustained series of gnomic "
+                 "couplets"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, a distinctive run of "
+                       "paradoxical comparisons"),
+    ],
+    why=(
+        "&lsquo;Righteous non-gain is better than unrighteous gain... "
+        "disrepute among the wise is better than fame among "
+        "fools&rsquo; &mdash; Godatta's poem builds toward a "
+        "sustained series of five paradoxical value-inversions, each "
+        "one declaring the ordinarily undesirable option actually "
+        "superior, closing on the starkest of them all: "
+        "&lsquo;righteous death is better than unrighteous life&rsquo;."),
+    guide=[
+        ("An overburdened draft-ox, opening the poem", [
+            "The first verse compares someone crushed by excess to a "
+            "fine thoroughbred ox so overloaded it can't manage its "
+            "yoke &mdash; an image of capacity exceeded, setting up "
+            "the poem's larger concern with what a person can bear "
+            "without breaking."]),
+        ("Unmoved as a boundary post, untouched as a water-drop", [
+            "Verses five through seven build two images of "
+            "equanimity in quick succession: the wise stand "
+            "&lsquo;like a boundary post&rsquo; (indakhīla), neither "
+            "raised by success nor lowered by failure, and remain "
+            "untouched everywhere, &lsquo;like a drop of water on a "
+            "lotus leaf&rsquo; &mdash; unaffected by gain or loss, "
+            "fame or disrepute, praise or blame, pleasure or pain, "
+            "listed as five explicit pairs in the sixth verse alone."]),
+        ("A sustained run of paradoxical value-inversions", [
+            "Verses eight through twelve depart from simile "
+            "entirely into five consecutive gnomic couplets, each "
+            "declaring an ordinarily undesirable option actually "
+            "superior: righteous non-gain over unrighteous gain; "
+            "disrepute among the wise over fame among fools; censure "
+            "from the wise over praise from fools; the pain of "
+            "seclusion over sensual pleasure; and, most starkly, "
+            "righteous death over unrighteous life. Few passages "
+            "anywhere in this collection sustain this specific "
+            "rhetorical form &mdash; not simile, not narrative, but "
+            "flat paradoxical assertion &mdash; across so many "
+            "consecutive verses."]),
+        ("Value relocated from outcome to conduct", [
+            "Each of the five inversions performs the same "
+            "underlying move: replacing an evaluation based on "
+            "result (gain, fame, praise, pleasure, life itself) with "
+            "one based on how that result was reached or what "
+            "accompanies it (righteousness, wisdom's judgment, "
+            "seclusion's discomfort). The poem's paradoxes only hold "
+            "because they've already redefined what counts as a "
+            "genuinely good outcome in the first place."]),
+        ("A closing formula shared with this book's opening poem", [
+            "The final verse names the awakening factors, the "
+            "faculties, and the powers before &lsquo;attaining "
+            "ultimate peace&rsquo; and full quenching &mdash; a "
+            "doctrinal checklist echoing, without quoting directly, "
+            "the closing register of Thag 14.1's own final verses in "
+            "the same chapter."]),
+        ("Closing the Book of the Fourteens, a familiar collective epithet", [
+            "This single-chapter book closes, like every book since "
+            "the Threes, moving directly from Godatta's own "
+            "self-naming to &lsquo;Cuddasakanipāto niṭṭhito&rsquo;, "
+            "&lsquo;the Book of the Fourteens is concluded&rsquo;, "
+            "with no separate chapter marker. The Tatruddāna names "
+            "both elders under the identical collective epithet "
+            "already used to close Book 12: &lsquo;therā dve te "
+            "mahiddhikā&rsquo;, &lsquo;these two elders, of great "
+            "psychic power&rsquo; &mdash; the same exact phrase "
+            "recurring across two non-adjacent books. The stated "
+            "tally, &lsquo;twenty-eight verses&rsquo;, matches two "
+            "poems of fourteen verses each exactly, a seventh "
+            "consecutive book with a closing count that adds up "
+            "cleanly."]),
+    ],
+    terms=[
+        ("dhure yutto dhurassaho",
+         "&ldquo;yoked to the shafts, bearing the load&rdquo; "
+         "&mdash; the draft-ox image opening the poem."),
+        ("indakhīlova",
+         "&ldquo;like a boundary post&rdquo; &mdash; the fifth "
+         "verse's image for a mind unmoved by high or low fortune."),
+        ("udabinduva pokkhare",
+         "&ldquo;like a drop of water on a lotus leaf&rdquo; "
+         "&mdash; the image for being untouched everywhere, in the "
+         "seventh verse."),
+        ("alābho dhammiko seyyo",
+         "&ldquo;righteous non-gain is better&rdquo; &mdash; the "
+         "first of five consecutive paradoxical value-inversions."),
+        ("mara&#7751;a&#7749; dhammika&#7749; seyyo",
+         "&ldquo;righteous death is better [than unrighteous "
+         "life]&rdquo; &mdash; the starkest and final of the five "
+         "inversions."),
+    ],
+    text_intro=(
+        "The text in full: fourteen verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag14.2:1.1-1.4"),
+        ("p", "&sect;2", "thag14.2:2.1-2.4"),
+        ("p", "&sect;3", "thag14.2:3.1-3.4"),
+        ("p", "&sect;4", "thag14.2:4.1-4.4"),
+        ("p", "&sect;5", "thag14.2:5.1-5.4"),
+        ("p", "&sect;6", "thag14.2:6.1-6.4"),
+        ("p", "&sect;7", "thag14.2:7.1-7.4"),
+        ("p", "&sect;8", "thag14.2:8.1-8.4"),
+        ("p", "&sect;9", "thag14.2:9.1-9.4"),
+        ("p", "&sect;10", "thag14.2:10.1-10.4"),
+        ("p", "&sect;11", "thag14.2:11.1-11.4"),
+        ("p", "&sect;12", "thag14.2:12.1-12.4"),
+        ("p", "&sect;13", "thag14.2:13.1-13.4"),
+        ("p", "&sect;14", "thag14.2:14.1-14.4"),
+    ],
+    quiz=[
+        {"q": "What image opens this poem?",
+         "opts": [
+             "An empty road",
+             "A fine draft-ox so overloaded it can't manage its yoke",
+             "A calm river",
+             "A blossoming tree"],
+         "correct": 1,
+         "expl": "An image of capacity exceeded, setting up the poem's concern with what can be borne without breaking."},
+        {"q": "What five explicit pairs does the sixth verse list, all failing to move the wise?",
+         "opts": [
+             "A single pair — youth and old age",
+             "No pairs are listed",
+             "Gain and loss, fame and disrepute, praise and blame, pleasure and pain (and their combinations)",
+             "Only wealth and poverty"],
+         "correct": 2,
+         "expl": "Building toward the image of being untouched everywhere, like a drop of water on a lotus leaf."},
+        {"q": "What rhetorical form do verses eight through twelve depart into?",
+         "opts": [
+             "A dialogue between two speakers",
+             "A description of a specific place",
+             "A personal narrative of the speaker's own ordination",
+             "A sustained run of five consecutive paradoxical 'X is better than Y' value-inversions"],
+         "correct": 3,
+         "expl": "Not simile, not narrative, but flat paradoxical assertion — few passages in this collection sustain this form so long."},
+        {"q": "What is the first of the five paradoxical inversions?",
+         "opts": [
+             "Righteous non-gain is better than unrighteous gain",
+             "Wealth is better than poverty",
+             "Fame is better than obscurity",
+             "Comfort is better than hardship"],
+         "correct": 0,
+         "expl": "'Alābho dhammiko seyyo, yañce lābho adhammiko.'"},
+        {"q": "What is the final and starkest of the five inversions?",
+         "opts": [
+             "No final inversion is given",
+             "Righteous death is better than unrighteous life",
+             "Wealth is better than righteousness",
+             "Long life is better than any principle"],
+         "correct": 1,
+         "expl": "'Maraṇaṁ dhammikaṁ seyyo, yañce jīve adhammikaṁ.'"},
+        {"q": "What underlying move does each of the five inversions share, per this reading guide?",
+         "opts": [
+             "Each is unrelated to the others in theme",
+             "Each simply restates the previous one",
+             "Each replaces an evaluation based on outcome with one based on how that outcome was reached",
+             "Each contradicts the others"],
+         "correct": 2,
+         "expl": "The paradoxes hold only because they've already redefined what counts as a genuinely good outcome."},
+        {"q": "What does the closing verse name before 'attaining ultimate peace'?",
+         "opts": [
+             "A list of monastic rules",
+             "A genealogy of teachers",
+             "Nothing — the verse jumps straight to peace",
+             "The awakening factors, the faculties, and the powers"],
+         "correct": 3,
+         "expl": "A doctrinal checklist echoing, without quoting directly, Thag 14.1's own closing register."},
+        {"q": "What marks this book's transition from Godatta's own poem to the book's close?",
+         "opts": [
+             "No separate chapter marker — moving directly to 'the Book of the Fourteens is concluded'",
+             "Another full poem inserted before the close",
+             "No closing marker at all",
+             "A separate chapter-closing marker"],
+         "correct": 0,
+         "expl": "Matching the pattern established in every single-chapter book since the Threes."},
+        {"q": "What epithet does the closing uddāna give both elders of this book?",
+         "opts": [
+             "'Ekova', 'alone', for both",
+             "'Therā dve te mahiddhikā' — the identical collective epithet already used to close Book 12",
+             "Two entirely different epithets, one each",
+             "No epithet at all"],
+         "correct": 1,
+         "expl": "The same exact phrase recurring across two non-adjacent books."},
+        {"q": "What is the running total of poems completed on this site after this poem, out of 264?",
+         "opts": [
+             "239 of 264",
+             "243 of 264",
+             "245 of 264",
+             "264 of 264 — the collection is complete"],
+         "correct": 2,
+         "expl": "243 + 2 poems in the Book of the Fourteens."},
+    ],
+    marginalia=[
+        ("An ox too heavily loaded", [
+            "capacity exceeded, opening the poem —",
+            "the larger concern with what can be borne"
+        ]),
+        ("Untouched, like water on a lotus leaf", [
+            "gain, loss, fame, blame, pleasure, pain —",
+            "none of it moving the wise"
+        ]),
+        ("Five paradoxes, stated flatly", [
+            "disrepute, censure, painful seclusion, righteous death —",
+            "each better than its ordinary opposite"
+        ]),
+        ("A second book closed with the same phrase", [
+            "'these two elders, of great psychic power' —",
+            "echoing Book 12's own uddāna exactly"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag14.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-14.1.html">Thag 14.1 &mdash; Revata of the '
+        "Acacia Wood</a> &mdash; the poem immediately before this "
+        "one, in the same chapter.",
+        '<a href="thag-12.2.html">Thag 12.2 &mdash; Sunīta</a> '
+        "&mdash; the closing poem of Book 12, whose uddāna shares "
+        "this book's identical collective epithet.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
