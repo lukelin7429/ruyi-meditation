@@ -51577,3 +51577,993 @@ page_range(
         "closing one, ultimately builds on.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 30.1 — Suddhikasutta
+# --------------------------------------------------------------------------- #
+page(
+    30, 1, "Suddhika", "Plain Version",
+    vagga="Supaṇṇavagga",
+    meta_title="SN 30.1 — Plain Version | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Suddhikasutta &mdash; opening Supaṇṇasaṃyutta with the "
+        "identical fourfold birth taxonomy already seen at SN 29.1, "
+        "now applied to phoenixes (supaṇṇa/garuḍa). From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A single flat statement naming four modes of "
+                 "reproduction, with no ranking and no narrative frame"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the simplest possible opening, a bare "
+                       "fourfold list"),
+    ],
+    why=(
+        "This discourse opens Supaṇṇasaṃyutta (\"Linked Discourses "
+        "on Phoenixes\") immediately after Nāgasaṃyutta closes, and "
+        "restates the identical fourfold taxonomy SN 29.1 gave for "
+        "dragons &mdash; egg-born, womb-born, moisture-born, and "
+        "spontaneously born &mdash; now applied to supaṇṇā (also "
+        "called garuḍā), the great bird-spirits Indian mythology "
+        "treats as dragons' natural antagonists. The word-for-word "
+        "match with SN 29.1 (only \"dragons\" swapped for "
+        "\"phoenixes\") signals from this saṃyutta's very first "
+        "discourse that its structure will closely parallel its "
+        "immediate predecessor, even before the predator-prey "
+        "relationship between the two species is made explicit at "
+        "SN 30.2."
+    ),
+    guide=[
+        ("A bare taxonomy, word for word with SN 29.1", [
+            "\"Phoenixes are born from eggs, from a womb, from "
+            "moisture, or spontaneously\" &mdash; identical in "
+            "structure to SN 29.1's own opening statement, with only "
+            "the species name changed.",
+        ]),
+        ("Supaṇṇa and garuḍa, the same being under two names", [
+            "This saṃyutta's own title-word, supaṇṇa (\"well-"
+            "feathered\"), and the more familiar garuḍa refer to the "
+            "same class of being &mdash; a great mythical bird, "
+            "recurring across Indian religious traditions as a "
+            "predator of nāgas.",
+        ]),
+        ("A structural echo, not a coincidence", [
+            "Because Supaṇṇasaṃyutta directly follows Nāgasaṃyutta "
+            "and concerns a species defined by its relationship to "
+            "dragons, this opening discourse's near-identical wording "
+            "to SN 29.1 is a deliberate structural echo, setting up "
+            "readers to compare the two saṃyuttas' shapes as this "
+            "one unfolds.",
+        ]),
+        ("A taxonomy this saṃyutta's own remaining discourses assume", [
+            "As with SN 29.1 in Nāgasaṃyutta, every one of the "
+            "remaining forty-five discourses here takes this fourfold "
+            "division for granted rather than restating it, making "
+            "this short opening discourse this saṃyutta's own "
+            "structural foundation as well.",
+        ]),
+    ],
+    terms=[
+        ("supaṇṇa", "\"well-feathered\" &mdash; this saṃyutta's own "
+                     "name for the great mythical birds it concerns, "
+                     "more familiarly known as garuḍa"),
+        ("garuḍa", "the more widely recognized name for the same "
+                    "class of being, traditionally dragons' natural "
+                    "antagonist"),
+        ("aṇḍaja", "egg-born &mdash; the first of the four modes "
+                    "named here"),
+        ("jalābuja", "womb-born &mdash; the second mode"),
+        ("opapātika", "spontaneously born &mdash; the fourth mode, "
+                       "reborn instantaneously without gestation"),
+    ],
+    text_intro=("The discourse in full &mdash; genuinely this short "
+        "in the source, a single flat taxonomy word for word with "
+        "SN 29.1's own opening. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn30.1:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What four modes of reproduction does this discourse name for phoenixes?",
+         "opts": ["Egg-born, womb-born, moisture-born, and spontaneously born",
+                  "Egg-born, water-born, fire-born, and air-born",
+                  "Only egg-born and womb-born", "Human-born and divine-born"],
+         "correct": 0,
+         "expl": "Identical to SN 29.1's own fourfold taxonomy, with the species name changed."},
+        {"q": "What is another familiar name for the supaṇṇā this saṃyutta concerns?",
+         "opts": ["Garuḍa", "Yakkha", "Asura", "Gandhabba"],
+         "correct": 0,
+         "expl": "The more widely recognized name for the same class of mythical bird-being."},
+        {"q": "What relationship do supaṇṇā traditionally have with nāgas (dragons)?",
+         "opts": ["Natural antagonists — supaṇṇā prey on nāgas", "Close allies",
+                  "No relationship at all", "Supaṇṇā are simply another name for nāgas"],
+         "correct": 0,
+         "expl": "Made explicit at SN 30.2, this saṃyutta's very next discourse."},
+        {"q": "How does this discourse's wording compare to SN 29.1's own opening?",
+         "opts": ["Word for word identical, apart from the species name",
+                  "Entirely different content", "Only loosely similar", "It directly contradicts SN 29.1"],
+         "correct": 0,
+         "expl": "A deliberate structural echo, given Supaṇṇasaṃyutta directly follows Nāgasaṃyutta."},
+        {"q": "How do the remaining forty-five discourses of this saṃyutta treat this fourfold taxonomy?",
+         "opts": ["They assume it without restating it",
+                  "They each introduce a new, different taxonomy",
+                  "They ignore phoenixes entirely after this discourse", "They reduce it to only two modes"],
+         "correct": 0,
+         "expl": "This short opening discourse functions as the saṃyutta's own structural foundation, as at SN 29.1."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "The same setting as SN 29.1 and this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("A bare fourfold list, word for word", [
+            "egg, womb, moisture, spontaneous &mdash;",
+            "identical wording to SN 29.1's own opening",
+        ]),
+        ("Two names, one class of being", [
+            "supaṇṇa, or garuḍa &mdash;",
+            "the great bird-spirits of Indian myth",
+        ]),
+        ("A deliberate echo of Nāgasaṃyutta's own start", [
+            "dragons swapped for phoenixes &mdash;",
+            "inviting comparison from this discourse on",
+        ]),
+        ("The foundation this saṃyutta assumes", [
+            "forty-five discourses still to come &mdash;",
+            "none restate this opening taxonomy",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn30.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-29.21-50.html">SN 29.21&ndash;50 &middot; '
+        "Thirty Discourses On How Giving Helps to Become Womb-Born, "
+        "Etc.</a> &mdash; the previous page, closing Nāgasaṃyutta.",
+        '<a href="sn-30.2.html">SN 30.2 &middot; They Carry Off</a> '
+        "&mdash; the next discourse, making the predator-prey "
+        "relationship with dragons explicit.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 30.2 — Harantisutta
+# --------------------------------------------------------------------------- #
+page(
+    30, 2, "Haranti", "They Carry Off",
+    vagga="Supaṇṇavagga",
+    meta_title="SN 30.2 — They Carry Off | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Harantisutta &mdash; a predator-prey matrix matching "
+        "each of the four phoenix birth-modes against exactly which "
+        "dragon birth-modes it can carry off. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The same fourfold taxonomy as SN 30.1, followed by "
+                 "a four-step cascading predator-prey matrix"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the matrix rewards close, slow reading"),
+    ],
+    why=(
+        "This discourse is Supaṇṇasaṃyutta's own genuinely new "
+        "content, with no direct counterpart at SN 29.2: rather than "
+        "simply ranking the four phoenix birth-modes against one "
+        "another, it specifies exactly which dragon birth-modes each "
+        "phoenix birth-mode is capable of carrying off &mdash; "
+        "egg-born phoenixes can only carry off egg-born dragons; "
+        "womb-born phoenixes can carry off egg- and womb-born "
+        "dragons; moisture-born phoenixes can carry off egg-, womb-, "
+        "and moisture-born dragons; and spontaneously-born phoenixes "
+        "can carry off dragons of all four modes. This cascading "
+        "capability matrix makes the predator-prey relationship "
+        "between the two saṃyuttas' own subjects explicit for the "
+        "first and only time in either collection."
+    ),
+    guide=[
+        ("A four-step cascading capability, not a simple ranking", [
+            "Rather than SN 29.2's three comparative statements "
+            "ranking phoenix birth-modes against each other, this "
+            "discourse gives four separate statements, one per "
+            "phoenix birth-mode, each specifying a widening set of "
+            "dragon birth-modes that phoenix mode can prey upon.",
+        ]),
+        ("The identical rank order as SN 29.2, read from a new angle", [
+            "The widening capability &mdash; egg-born phoenixes "
+            "weakest, spontaneously-born phoenixes able to carry off "
+            "any dragon &mdash; tracks the exact same hierarchy SN "
+            "29.2 established for dragons themselves, now expressed "
+            "as predatory capability rather than abstract rank.",
+        ]),
+        ("A capability ceiling, not a guaranteed outcome", [
+            "The discourse specifies only which dragon birth-modes "
+            "each phoenix birth-mode is capable of carrying off, not "
+            "that it always does so &mdash; a ceiling on capability, "
+            "phrased identically for all four steps: \"can carry off "
+            "... but not ...\"",
+        ]),
+        ("The one discourse connecting the two saṃyuttas directly", [
+            "Nowhere else in either Nāgasaṃyutta or Supaṇṇasaṃyutta "
+            "do the two species interact this explicitly &mdash; "
+            "every other discourse in both collections concerns each "
+            "species' own rebirth causes in isolation, making this "
+            "the sole point of direct contact between them.",
+        ]),
+    ],
+    terms=[
+        ("haranti", "\"they carry off\" &mdash; this discourse's own "
+                     "title-word, naming the predatory act at issue"),
+        ("supaṇṇa", "phoenix &mdash; the predator species in this "
+                     "discourse's own capability matrix"),
+        ("nāga", "dragon &mdash; the prey species, this discourse's "
+                  "own explicit link back to Nāgasaṃyutta"),
+        ("opapātika", "spontaneously born &mdash; the phoenix "
+                       "birth-mode capable of carrying off dragons of "
+                       "all four modes"),
+        ("aṇḍaja", "egg-born &mdash; the phoenix birth-mode capable "
+                    "of carrying off only egg-born dragons, the "
+                    "narrowest capability in this matrix"),
+    ],
+    text_intro=("The discourse in full, including its four-step "
+        "cascading capability matrix. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn30.2:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's capability matrix specify?",
+         "opts": ["Exactly which dragon birth-modes each phoenix birth-mode is capable of carrying off",
+                  "Which phoenix birth-mode is most beautiful", "How long each phoenix birth-mode lives",
+                  "Which dragon birth-mode is most dangerous to phoenixes"],
+         "correct": 0,
+         "expl": "A four-step cascading predator-prey capability, not a simple abstract ranking."},
+        {"q": "Which dragon birth-modes can egg-born phoenixes carry off?",
+         "opts": ["Only egg-born dragons", "All four dragon birth-modes", "Egg- and womb-born dragons only",
+                  "No dragons at all"],
+         "correct": 0,
+         "expl": "The narrowest capability in this matrix, belonging to the phoenix mode ranked lowest at SN 29.2's equivalent hierarchy."},
+        {"q": "Which phoenix birth-mode can carry off dragons of all four modes?",
+         "opts": ["Spontaneously-born phoenixes", "Egg-born phoenixes", "Womb-born phoenixes", "Moisture-born phoenixes"],
+         "correct": 0,
+         "expl": "The widest capability, matching the same birth-mode ranked highest for dragons at SN 29.2."},
+        {"q": "How does this discourse's structure compare to SN 29.2's own ranking of dragon birth-modes?",
+         "opts": ["It tracks the identical hierarchy, now expressed as predatory capability rather than abstract rank",
+                  "It contradicts SN 29.2's ranking entirely", "It has no relation to SN 29.2",
+                  "It ranks all four phoenix birth-modes as equal"],
+         "correct": 0,
+         "expl": "The same widening order, read from a new angle."},
+        {"q": "What kind of claim does this discourse make about phoenix predation?",
+         "opts": ["A capability ceiling — what a phoenix birth-mode can do, not that it always does",
+                  "A guarantee that every phoenix always preys on dragons", "A claim that phoenixes never prey on dragons",
+                  "A claim about phoenix diet unrelated to dragons"],
+         "correct": 0,
+         "expl": "Phrased identically across all four steps: \"can carry off ... but not ...\""},
+        {"q": "How does this discourse relate to Nāgasaṃyutta, the previous saṃyutta?",
+         "opts": ["It is the one discourse in either saṃyutta where the two species interact directly",
+                  "It has no connection to Nāgasaṃyutta at all", "It denies that dragons and phoenixes are related",
+                  "Every discourse in both saṃyuttas describes this same interaction"],
+         "correct": 0,
+         "expl": "Elsewhere, both saṃyuttas treat each species' rebirth causes entirely in isolation."},
+    ],
+    marginalia=[
+        ("Four steps, not one flat ranking", [
+            "egg-born weakest, spontaneous strongest &mdash;",
+            "a widening capability, one step at a time",
+        ]),
+        ("The same hierarchy, a new angle", [
+            "SN 29.2 ranked dragons this way &mdash;",
+            "now expressed as what phoenixes can catch",
+        ]),
+        ("A ceiling, not a guarantee", [
+            "\"can carry off ... but not ...\" &mdash;",
+            "capability stated, not certainty",
+        ]),
+        ("The one point the two saṃyuttas touch", [
+            "nowhere else do the species meet &mdash;",
+            "every other discourse treats each alone",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn30.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-30.1.html">SN 30.1 &middot; Plain Version</a> '
+        "&mdash; the previous discourse, giving the same taxonomy "
+        "unranked.",
+        '<a href="sn-30.3.html">SN 30.3 &middot; Both Kinds of '
+        "Deeds</a> &mdash; the next discourse, shifting to "
+        "hearsay-driven aspiration toward egg-born phoenix rebirth.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 30.3 — Dvayakārīsutta
+# --------------------------------------------------------------------------- #
+page(
+    30, 3, "Dvayakārī", "Both Kinds of Deeds",
+    vagga="Supaṇṇavagga",
+    meta_title="SN 30.3 — Both Kinds of Deeds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dvayakārīsutta &mdash; someone aspiring to egg-born "
+        "phoenix rebirth purely from having heard that egg-born "
+        "phoenixes are long-lived, beautiful, and happy, matching SN "
+        "29.7's own formula. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "A mendicant questions the Buddha, who answers "
+                     "by describing an unnamed aspirant's own "
+                     "reasoning"),
+        ("Form", "A question-and-answer dialogue tracing hearsay to "
+                 "aspiration to rebirth"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a plain causal chain, easy to follow"),
+    ],
+    why=(
+        "This discourse opens Supaṇṇasaṃyutta's second motivational "
+        "register and immediately reveals a structural difference "
+        "from Nāgasaṃyutta: where SN 29.3&ndash;10 gave dragons two "
+        "full four-part sets &mdash; sabbath-observance, then "
+        "hearsay-driven aspiration &mdash; this saṃyutta skips "
+        "sabbath-observance for phoenixes entirely and moves directly "
+        "from the taxonomy (SN 30.1&ndash;2) to hearsay-driven "
+        "aspiration alone, using wording that otherwise matches SN "
+        "29.7's own formula almost exactly."
+    ),
+    guide=[
+        ("The same hearsay-and-wish formula as SN 29.7", [
+            "\"They've heard: 'the egg-born phoenixes are long-"
+            "lived, beautiful, and very happy'\" &mdash; identical in "
+            "structure to SN 29.7's own aspirant, reasoning forward "
+            "from something merely heard about a rebirth destination "
+            "not yet experienced.",
+        ]),
+        ("A theme genuinely missing from this saṃyutta", [
+            "Unlike Nāgasaṃyutta, no discourse in Supaṇṇasaṃyutta "
+            "gives phoenixes SN 29.3&ndash;6's own sabbath-observance "
+            "theme &mdash; phoenixes reflecting on their own past "
+            "mixed conduct is simply absent here, confirming this "
+            "saṃyutta's own leaner three-part shape: taxonomy, "
+            "hearsay-driven aspiration, and giving.",
+        ]),
+        ("This discourse's own title, naming the aspirant's conduct", [
+            "Dvayakārī (\"one who does both kinds of deeds\") names "
+            "the aspirant's own ordinary mixed conduct directly in "
+            "its title, rather than the hearsay itself as at SN "
+            "29.7's Suta (\"heard\") &mdash; the same underlying "
+            "formula, given a different title-word.",
+        ]),
+        ("Opening a compressed four-part treatment", [
+            "This discourse alone treats egg-born phoenixes in full; "
+            "SN 30.4&ndash;6 will compress the remaining three birth "
+            "modes (womb-, moisture-, and spontaneously-born) into a "
+            "single further merged file, unlike SN 29.7&ndash;10's "
+            "own four separate discourses.",
+        ]),
+    ],
+    terms=[
+        ("dvayakārī", "one who does both kinds of deeds &mdash; this "
+                       "discourse's own title, naming the aspirant's "
+                       "ordinary mixed conduct"),
+        ("sutaṁ", "\"heard\" &mdash; the specific trigger for the "
+                   "aspirant's wish, matching SN 29.7's own formula"),
+        ("dīghāyukā vaṇṇavanto sukhabahulā", "\"long-lived, "
+                                              "beautiful, and very "
+                                              "happy\" &mdash; the "
+                                              "specific reputation "
+                                              "the aspirant has heard "
+                                              "about egg-born "
+                                              "phoenixes"),
+        ("aho vata", "\"if only\" &mdash; the aspirant's own wishful "
+                      "exclamation, quoted directly"),
+        ("aṇḍaja", "egg-born &mdash; the specific rebirth destination "
+                    "this aspirant's hearsay-driven wish targets"),
+    ],
+    text_intro=("The complete discourse: the mendicant's question and "
+        "the aspirant's own reported hearsay-driven reasoning in "
+        "full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn30.3:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What specifically triggers the aspirant's wish to be reborn as an egg-born phoenix?",
+         "opts": ["Having heard that egg-born phoenixes are long-lived, beautiful, and very happy",
+                  "A direct vision of the phoenix realm", "Instruction from the Buddha himself",
+                  "A past life memory of having been a phoenix"],
+         "correct": 0,
+         "expl": "Identical to SN 29.7's own hearsay-driven trigger."},
+        {"q": "What theme, present in Nāgasaṃyutta, is genuinely missing from Supaṇṇasaṃyutta?",
+         "opts": ["Sabbath-observance — phoenixes reflecting on their own past mixed conduct",
+                  "The fourfold birth taxonomy", "Hearsay-driven aspiration", "Specific acts of giving"],
+         "correct": 0,
+         "expl": "Confirming this saṃyutta's own leaner three-part shape compared to Nāgasaṃyutta's four parts."},
+        {"q": "What does this discourse's own title, Dvayakārī, mean?",
+         "opts": ["\"One who does both kinds of deeds\"", "\"Heard\"", "\"Plain\"", "\"They carry off\""],
+         "correct": 0,
+         "expl": "Naming the aspirant's ordinary mixed conduct directly, unlike SN 29.7's Suta (\"heard\")."},
+        {"q": "How do SN 30.4–6 treat the remaining three phoenix birth modes, compared to SN 29.7–10's own treatment?",
+         "opts": ["Compressed into a single further merged file, rather than four separate discourses",
+                  "Given the same four separate full discourses as SN 29.7–10", "Omitted entirely",
+                  "Expanded into even more discourses than SN 29.7–10"],
+         "correct": 0,
+         "expl": "A more compressed structure than Nāgasaṃyutta's own equivalent set."},
+        {"q": "What kind of conduct does this discourse attribute to the aspirant?",
+         "opts": ["Ordinary mixed conduct — both good and bad deeds by body, speech, and mind",
+                  "Exclusively virtuous conduct", "Exclusively harmful conduct", "No conduct is mentioned at all"],
+         "correct": 0,
+         "expl": "The same mixed-conduct baseline already seen at SN 29.7."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("The same formula, a different title-word", [
+            "SN 29.7 was named for hearsay &mdash;",
+            "this one for the aspirant's own mixed deeds",
+        ]),
+        ("A theme quietly dropped", [
+            "no sabbath-observance for phoenixes &mdash;",
+            "this saṃyutta's own leaner three-part shape",
+        ]),
+        ("Hearsay, the same trigger as before", [
+            "long-lived, beautiful, very happy &mdash;",
+            "exactly what the aspirant has heard",
+        ]),
+        ("One full treatment, three compressed ahead", [
+            "egg-born here, in full &mdash;",
+            "the remaining three modes merged next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn30.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-30.2.html">SN 30.2 &middot; They Carry Off</a> '
+        "&mdash; the previous discourse, the predator-prey capability "
+        "matrix.",
+        '<a href="sn-30.4-6.html">SN 30.4&ndash;6 &middot; Both '
+        "Kinds of Deeds (2nd&ndash;4th)</a> &mdash; the next page, "
+        "compressing the remaining three phoenix birth modes into a "
+        "single merged file.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 30.4–6 — Dutiyādidvayakārīsuttattika
+# --------------------------------------------------------------------------- #
+page_range(
+    30, 4, 6, "Dutiyādidvayakārī", "Both Kinds of Deeds (2nd&ndash;4th)",
+    vagga="Supaṇṇavagga",
+    meta_title="SN 30.4–6 · Both Kinds of Deeds (2nd–4th) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 30.4 through "
+        "30.6 &mdash; three discourses, preserved in the source as a "
+        "single peyyāla block, applying SN 30.3's own hearsay-driven "
+        "aspiration to womb-, moisture-, and spontaneously-born "
+        "phoenixes. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing an unnamed mendicant"),
+        ("Form", "Three discourses compressed by bilara-data into a "
+                 "single file: one worked example (spontaneously-"
+                 "born) given in full, the other two birth modes "
+                 "elided into the opening question alone"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial once SN 30.3's own formula is "
+                       "understood"),
+    ],
+    why=(
+        "This merged file compresses the remaining three phoenix "
+        "birth modes' own hearsay-driven aspiration into a single "
+        "peyyāla block, unlike Nāgasaṃyutta's own SN 29.8&ndash;10, "
+        "which gave womb-, moisture-, and spontaneously-born dragons "
+        "three separate discourses (two compressed stubs plus one "
+        "full treatment). Here, all three phoenix birth modes are "
+        "folded into one file: the opening question elides womb- and "
+        "moisture-born into a single chained sentence, and only "
+        "spontaneously-born phoenixes receive the full worked "
+        "answer, closing this saṃyutta's hearsay-driven-aspiration "
+        "theme in three discourses' worth of space rather than four."
+    ),
+    guide=[
+        ("Three questions chained into one sentence", [
+            "Rather than SN 29.8&ndash;10's own three separate "
+            "opening questions, this file elides all three remaining "
+            "birth modes into a single chained sentence &mdash; "
+            "\"the womb-born phoenixes ... moisture-born phoenixes "
+            "... or spontaneously-born phoenixes?\" &mdash; before "
+            "giving only one full answer.",
+        ]),
+        ("A single worked example, not a full-compressed-compressed-full shape", [
+            "Where SN 29.7&ndash;10 gave egg-born and spontaneously-"
+            "born phoenixes each their own full discourse "
+            "bracketing two compressed stubs, this file's only full "
+            "answer belongs to spontaneously-born phoenixes alone, "
+            "with womb- and moisture-born left entirely to inference "
+            "from SN 30.3's own pattern.",
+        ]),
+        ("Confirming this saṃyutta's own leaner shape", [
+            "With this file, Supaṇṇasaṃyutta's hearsay-driven-"
+            "aspiration theme closes having used only four "
+            "discourse-numbers' worth of content (SN 30.3&ndash;6) "
+            "compressed into two pages, compared to Nāgasaṃyutta's "
+            "four discourse-numbers spread across four separate "
+            "pages (SN 29.7&ndash;10) &mdash; a genuinely more "
+            "economical treatment of the identical theme.",
+        ]),
+        ("Setting up this saṃyutta's own giving theme", [
+            "As at SN 29.10&ndash;11's own transition, this file's "
+            "close hands off directly to SN 30.7&ndash;16's ten-item "
+            "giving formula, this saṃyutta's own third and final "
+            "motivational register.",
+        ]),
+    ],
+    terms=[
+        ("jalābuja", "womb-born &mdash; the first of the two elided "
+                      "birth modes in this file's opening question"),
+        ("saṃsedaja", "moisture-born &mdash; the second of the two "
+                       "elided birth modes"),
+        ("opapātika", "spontaneously born &mdash; the only birth "
+                       "mode given a full worked answer in this file"),
+        ("dvayakārī", "one who does both kinds of deeds &mdash; the "
+                       "ordinary mixed conduct attributed to the "
+                       "aspirant, as at SN 30.3"),
+        ("peyyāla", "an elision mark &mdash; here compressing three "
+                     "discourses' worth of question and answer into "
+                     "a single file"),
+    ],
+    text_intro=("The complete merged file: the chained three-mode "
+        "question, and the full worked answer for spontaneously-born "
+        "phoenixes. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn30.4-6:1.1-1.5"),
+        ("p", "&sect;2", "sn30.4-6:1.6-1.12"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Three — SN 30.4 through SN 30.6", "Ten", "Thirty", "Four"],
+         "correct": 0,
+         "expl": "Bilara-data itself preserves these three as a single peyyāla-encoded file."},
+        {"q": "How does this file's opening question differ from SN 29.8–10's own three separate questions?",
+         "opts": ["It chains all three remaining birth modes into a single sentence, rather than asking about each separately",
+                  "It asks about only one birth mode", "It omits the question entirely",
+                  "It repeats SN 30.3's own question verbatim with no change"],
+         "correct": 0,
+         "expl": "A more compressed presentation than Nāgasaṃyutta's own equivalent set."},
+        {"q": "Which single phoenix birth mode receives a full worked answer in this file?",
+         "opts": ["Spontaneously-born", "Womb-born", "Moisture-born", "Egg-born"],
+         "correct": 0,
+         "expl": "Womb- and moisture-born are left entirely to inference from SN 30.3's own pattern."},
+        {"q": "How does this file's overall compression compare to Nāgasaṃyutta's SN 29.7–10?",
+         "opts": ["More economical — the same theme closes using fewer discourse-numbers' worth of content",
+                  "Identical in scope", "Considerably less compressed", "This file contains more content than SN 29.7–10"],
+         "correct": 0,
+         "expl": "Four discourse-numbers compressed into two pages here, versus four separate pages at SN 29.7–10."},
+        {"q": "What theme does this file's close hand off to?",
+         "opts": ["SN 30.7–16's ten-item giving formula", "A return to the bare taxonomy",
+                  "A debate between named disciples", "The end of this saṃyutta entirely"],
+         "correct": 0,
+         "expl": "This saṃyutta's own third and final motivational register."},
+    ],
+    marginalia=[
+        ("Three questions, one sentence", [
+            "womb-born ... moisture-born ... or spontaneous &mdash;",
+            "chained together, not asked separately",
+        ]),
+        ("One worked answer for three discourses", [
+            "spontaneously-born alone given in full &mdash;",
+            "the other two left to inference",
+        ]),
+        ("A leaner shape than Nāgasaṃyutta's own", [
+            "four discourse-numbers, two pages &mdash;",
+            "versus four separate pages at SN 29.7–10",
+        ]),
+        ("Handing off to this saṃyutta's own giving theme", [
+            "hearsay-driven aspiration now closed &mdash;",
+            "SN 30.7–16's ten gifts begin next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn30.4-6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-30.3.html">SN 30.3 &middot; Both Kinds of '
+        "Deeds</a> &mdash; the previous discourse, giving this same "
+        "formula in full for egg-born phoenixes.",
+        '<a href="sn-30.7-16.html">SN 30.7&ndash;16 &middot; Ten '
+        "Discourses On How Giving Helps to Become Egg-Born</a> "
+        "&mdash; the next page, opening this saṃyutta's third "
+        "motivational register: specific acts of giving.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 30.7–16 — Aṇḍajadānūpakārasuttadasaka
+# --------------------------------------------------------------------------- #
+page_range(
+    30, 7, 16, "Aṇḍajadānūpakāra", "Ten Discourses On How Giving Helps "
+    "to Become Egg-Born",
+    vagga="Supaṇṇavagga",
+    meta_title="SN 30.7–16 · Ten Discourses On How Giving Helps to "
+                "Become Egg-Born | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 30.7 through "
+        "30.16 &mdash; ten discourses, preserved in the source as a "
+        "single peyyāla block, on how giving ten specific kinds of "
+        "gifts each independently helps produce rebirth among "
+        "egg-born phoenixes. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing an unnamed mendicant"),
+        ("Form", "Ten discourses compressed by bilara-data into a "
+                 "single file, one shared narrative frame with ten "
+                 "specific gift-items elided as a peyyāla list"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single repeated frame, easy to follow once "
+                       "the peyyāla list is recognized"),
+    ],
+    why=(
+        "This merged file opens Supaṇṇasaṃyutta's third and final "
+        "motivational register, using exactly the same ten-item "
+        "giving formula already seen at SN 29.11&ndash;20: food, "
+        "drink, clothing, a vehicle, a garland, fragrance, makeup, a "
+        "bed, a house, and a lamp, each independently sufficient, "
+        "given by someone who has heard the same reputation named at "
+        "SN 30.3, to help produce rebirth as an egg-born phoenix. "
+        "Bilara-data preserves the entire set as a single file using "
+        "the identical unified-prefix peyyāla encoding already seen "
+        "at SN 12.72&ndash;81, SN 24.20&ndash;35, and SN "
+        "29.11&ndash;20."
+    ),
+    guide=[
+        ("The identical ten-item formula as SN 29.11–20", [
+            "Food, drink, clothing, a vehicle, a garland, fragrance, "
+            "makeup, a bed, a house, and a lamp &mdash; the exact "
+            "same ten ordinary household and hospitality items "
+            "already catalogued for dragons, now applied verbatim to "
+            "phoenixes.",
+        ]),
+        ("Giving folded into the same hearsay-and-wish frame", [
+            "As at SN 29.11&ndash;20, this set folds giving into the "
+            "same hearsay-and-wish frame already established at SN "
+            "30.3 &mdash; the aspirant still hears the phoenixes' "
+            "reputation and forms the wish, but now also performs a "
+            "specific act of generosity to complete the causal chain.",
+        ]),
+        ("A formula this project has now seen twice, verbatim", [
+            "That this exact ten-item list recurs unchanged between "
+            "Nāgasaṃyutta and Supaṇṇasaṃyutta confirms it functioned "
+            "as a genuinely standard, reusable template within this "
+            "portion of the canon, not a one-off list invented for "
+            "dragons alone.",
+        ]),
+        ("The same unified-prefix encoding, a third time", [
+            "As with SN 12.72&ndash;81, SN 24.20&ndash;35, and SN "
+            "29.11&ndash;20, this file uses a single unified key "
+            "prefix (sn30.7-16:) for its entire content rather than "
+            "ten individually prefixed sub-discourses.",
+        ]),
+        ("Setting up a larger, more severely compressed companion set", [
+            "This ten-item formula, applied here only to egg-born "
+            "phoenixes, is the template SN 30.17&ndash;46 will apply "
+            "to the remaining three birth modes at triple the scale "
+            "&mdash; compressed even more severely than its "
+            "Nāgasaṃyutta counterpart, SN 29.21&ndash;50.",
+        ]),
+    ],
+    terms=[
+        ("dāna", "giving or generosity &mdash; the specific act each "
+                  "of these ten discourses treats as sufficient to "
+                  "help produce egg-born phoenix rebirth"),
+        ("annaṁ deti", "\"gives food\" &mdash; the first of the ten "
+                        "gift-items named in this file"),
+        ("padīpeyyaṁ deti", "\"gives a lamp\" &mdash; the tenth and "
+                             "final gift-item, closing the list"),
+        ("peyyāla", "an elision mark &mdash; here compressing ten "
+                     "gift-items into a single sequence"),
+        ("aṇḍaja", "egg-born &mdash; the shared rebirth destination "
+                    "all ten discourses in this set trace to specific "
+                    "acts of giving"),
+    ],
+    text_intro=("The complete merged file: the shared hearsay-and-"
+        "wish frame, followed by the ten gift-items exactly as "
+        "bilara-data gives them. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn30.7-16:1.1-1.8"),
+        ("p", "&sect;2", "sn30.7-16:1.9-1.20"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Ten — SN 30.7 through SN 30.16", "Thirty", "Four", "Forty-six"],
+         "correct": 0,
+         "expl": "Bilara-data itself preserves these ten as a single peyyāla-encoded file."},
+        {"q": "How does this file's ten-item gift list compare to SN 29.11–20's own?",
+         "opts": ["Identical — the same ten items, applied to phoenixes instead of dragons",
+                  "A completely different set of ten items", "Only five items are shared",
+                  "This file uses twenty items instead of ten"],
+         "correct": 0,
+         "expl": "Confirming the formula functioned as a genuinely standard, reusable template."},
+        {"q": "What does the recurrence of this exact formula across two saṃyuttas suggest?",
+         "opts": ["It was a standard, reusable template within this portion of the canon, not invented specifically for dragons",
+                  "It was a scribal error, mistakenly copied", "Phoenixes and dragons are actually the same species",
+                  "Only one of the two saṃyuttas' versions is authentic"],
+         "correct": 0,
+         "expl": "A genuine cross-saṃyutta template, not a one-off list."},
+        {"q": "What encoding convention does this merged file share with SN 12.72–81, SN 24.20–35, and SN 29.11–20?",
+         "opts": ["A single unified key prefix for its entire content, rather than individual prefixes per sub-discourse",
+                  "Each sub-discourse keeping its own individual key prefix", "No prefix convention at all",
+                  "A prefix unique to this file alone"],
+         "correct": 0,
+         "expl": "Now confirmed across four separate merged files in this project's SN coverage."},
+        {"q": "What larger companion set does this ten-item formula set up?",
+         "opts": ["SN 30.17–46, applying the identical formula to the remaining three birth modes, even more severely compressed",
+                  "A return to the bare taxonomy of SN 30.1–2", "No further discourses follow this set",
+                  "A shift to an entirely unrelated saṃyutta"],
+         "correct": 0,
+         "expl": "Thirty further discourses at triple the scale, compressed more severely than SN 29.21–50."},
+    ],
+    marginalia=[
+        ("The same ten gifts, a different species", [
+            "food, drink, ... a house, a lamp &mdash;",
+            "verbatim from SN 29.11–20",
+        ]),
+        ("A genuine reusable template, confirmed", [
+            "identical across two saṃyuttas &mdash;",
+            "not invented specifically for dragons",
+        ]),
+        ("Giving added to hearsay, not replacing it", [
+            "the same wish as SN 30.3 &mdash;",
+            "now completed by a specific act of generosity",
+        ]),
+        ("A larger, more compressed set still ahead", [
+            "this formula for one birth mode &mdash;",
+            "SN 30.17–46 apply it to three more",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn30.7-16/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-30.4-6.html">SN 30.4&ndash;6 &middot; Both '
+        "Kinds of Deeds (2nd&ndash;4th)</a> &mdash; the previous "
+        "page, closing this saṃyutta's second motivational register.",
+        '<a href="sn-30.17-46.html">SN 30.17&ndash;46 &middot; How '
+        "Giving Helps to Become Womb-Born, Etc.</a> &mdash; the next "
+        "and final page, applying this identical ten-item formula to "
+        "the remaining three birth modes and closing this entire "
+        "saṃyutta.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 30.17–46 — Jalābujadānūpakārasutta
+# --------------------------------------------------------------------------- #
+page_range(
+    30, 17, 46, "Jalābujadānūpakāra", "How Giving Helps to Become "
+    "Womb-Born, Etc.",
+    vagga="Supaṇṇavagga",
+    meta_title="SN 30.17–46 · How Giving Helps to Become Womb-Born, "
+                "Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 30.17 through "
+        "30.46 &mdash; thirty discourses, preserved in the source as "
+        "a single, severely compressed peyyāla block, closing "
+        "Supaṇṇasaṃyutta and Book III's Khandhavagga with the "
+        "collection's own translated colophon. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing an unnamed mendicant"),
+        ("Form", "Thirty discourses compressed to a bare question "
+                 "stub plus a single editorial instruction, with no "
+                 "worked example translated at all"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial once SN 30.7&ndash;16's own formula "
+                       "is understood"),
+    ],
+    why=(
+        "This is the single most compressed file this project has "
+        "yet encountered in the Saṃyutta Nikāya: thirty discourses "
+        "&mdash; SN 30.7&ndash;16's own ten-item giving formula "
+        "applied to womb-, moisture-, and spontaneously-born "
+        "phoenixes in turn &mdash; reduced in English translation to "
+        "only the opening question (with the three remaining birth "
+        "modes chained together) and a bare \"(Tell all in full.)\" "
+        "instruction, with no worked example translated at all. "
+        "Where SN 29.21&ndash;50, this file's Nāgasaṃyutta "
+        "counterpart, at least worked one complete thread through to "
+        "its own end, this file's English translation omits even "
+        "that, moving straight from the question to the compiler's "
+        "instruction to this book's own closing colophon."
+    ),
+    guide=[
+        ("Not even one worked example translated", [
+            "Unlike SN 29.21&ndash;50, which gave one complete "
+            "thread (the tenth gift-item, for spontaneously-born "
+            "dragons) in full, this file's English translation "
+            "leaves the entire body of its worked example untranslated "
+            "&mdash; only the question and the closing instruction "
+            "survive in English.",
+        ]),
+        ("The root Pāli still preserves the worked example", [
+            "Bilara-data's Pāli root text for this file does contain "
+            "a full worked example for spontaneously-born phoenixes, "
+            "following the identical ten-item formula already seen "
+            "at SN 30.7&ndash;16 &mdash; only the English translation "
+            "leaves it untranslated, a genuinely different editorial "
+            "choice from SN 29.21&ndash;50's own translator.",
+        ]),
+        ("A shorter compiler's note than SN 29.21–50's own", [
+            "The untranslated Pāli editorial note here uses "
+            "piṇḍakena (\"by this summary\") to state simply that "
+            "forty-six discourses exist in total &mdash; a plainer "
+            "arithmetic note than Nāgasaṃyutta's own more explicit "
+            "\"forty expositions ... fifty discourses\" statement at "
+            "SN 29.21&ndash;50.",
+        ]),
+        ("Vagga and saṃyutta colophons coinciding, again", [
+            "As at SN 29.21&ndash;50, because Supaṇṇasaṃyutta "
+            "consists of exactly one vagga (Supaṇṇavagga), the "
+            "untranslated Pāli line \"Supaṇṇavaggo paṭhamo\" and the "
+            "saṃyutta's own close both fall in this same file "
+            "&mdash; the same structural coincidence already seen "
+            "closing Nāgasaṃyutta.",
+        ]),
+        ("An officially translated closing line, and Khandhavagga's own end", [
+            "The file's final line &mdash; \"the Linked Discourses "
+            "on phoenixes are complete\" &mdash; is genuinely "
+            "translated by Sujato and quoted here verbatim. With "
+            "Supaṇṇasaṃyutta's own close, SN 22&ndash;30 together "
+            "close out this book's own coverage under Khandhavagga's "
+            "own heading, before this project's next steps move on "
+            "to the saṃyuttas beyond SN 30.",
+        ]),
+    ],
+    terms=[
+        ("piṇḍakena", "\"by this summary\" or \"in condensed form\" "
+                       "&mdash; this file's own untranslated editorial "
+                       "term for its compression method, distinct "
+                       "from SN 29.21&ndash;50's own wording"),
+        ("chacattālīsaṁ suttantā", "forty-six discourses &mdash; this "
+                                    "saṃyutta's own total count, "
+                                    "confirmed explicitly though "
+                                    "untranslated in the compiler's "
+                                    "own note"),
+        ("Supaṇṇavaggo paṭhamo", "\"Supaṇṇavagga, the first, "
+                                  "finished\" &mdash; the untranslated "
+                                  "vagga colophon, coinciding here "
+                                  "with the saṃyutta's own close"),
+        ("Supaṇṇasaṁyuttaṁ samattaṁ", "\"the Linked Discourses on "
+                                       "phoenixes are complete\" "
+                                       "&mdash; this saṃyutta's own "
+                                       "officially Sujato-translated "
+                                       "closing line, quoted verbatim "
+                                       "in the text below"),
+        ("opapātika", "spontaneously born &mdash; the birth mode "
+                       "given a full worked example in the "
+                       "untranslated Pāli root, though not in this "
+                       "file's own English translation"),
+    ],
+    text_intro=("The complete merged file exactly as translated: the "
+        "shared frame for the three remaining birth modes, the bare "
+        "editorial instruction, and this saṃyutta's own closing "
+        "line. The worked example itself, the compiler's arithmetic "
+        "note, and the untranslated vagga colophon and uddāna verse "
+        "are described above rather than quoted, since the source's "
+        "own English translation leaves them untranslated. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn30.17-46:1.1-1.5"),
+        ("p", "&sect;2", "sn30.17-46:1.17"),
+        ("p", "&sect;3", "sn30.17-46:2.5"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged file compress?",
+         "opts": ["Thirty — SN 30.17 through SN 30.46", "Ten", "Forty-six", "Four"],
+         "correct": 0,
+         "expl": "SN 30.7–16's own ten-item formula applied to the three remaining birth modes."},
+        {"q": "How does this file's English translation compare to SN 29.21–50's own?",
+         "opts": ["More severely compressed — no worked example is translated at all, only the question and a bare instruction",
+                  "Less compressed — a full worked example is translated", "Identical in scope",
+                  "This file contains more translated content than SN 29.21–50"],
+         "correct": 0,
+         "expl": "SN 29.21–50 at least worked one complete thread through to its own end in English; this file does not."},
+        {"q": "Does the untranslated Pāli root text for this file contain a worked example?",
+         "opts": ["Yes — a full worked example for spontaneously-born phoenixes exists in the Pāli, just not translated into English",
+                  "No — the Pāli root is equally bare", "The Pāli root contains no content of any kind",
+                  "The worked example only exists in an entirely different language"],
+         "correct": 0,
+         "expl": "A genuinely different editorial choice by this file's own translator, compared to SN 29.21–50's."},
+        {"q": "What term does this file's untranslated compiler's note use for its own compression method?",
+         "opts": ["Piṇḍakena (\"by this summary\")", "Peyyālena (\"by this elision\")", "Vitthārena (\"in detail\")",
+                  "No compiler's note exists in the Pāli at all"],
+         "correct": 0,
+         "expl": "A plainer arithmetic note than Nāgasaṃyutta's own more explicit statement at SN 29.21–50."},
+        {"q": "Why do a vagga colophon and a saṃyutta colophon coincide in this single file?",
+         "opts": ["Because Supaṇṇasaṃyutta consists of exactly one vagga (Supaṇṇavagga)",
+                  "Because this file spans two different saṃyuttas", "Because the source made an error",
+                  "Because this saṃyutta has no vagga structure at all"],
+         "correct": 0,
+         "expl": "The same structural coincidence already seen closing Nāgasaṃyutta at SN 29.21–50."},
+        {"q": "What does the officially translated closing line of this saṃyutta say?",
+         "opts": ["\"The Linked Discourses on phoenixes are complete\"",
+                  "\"The eighteen expositions are finished\"", "No closing line is translated in the source",
+                  "\"The four wombs are now exhausted\""],
+         "correct": 0,
+         "expl": "Genuinely translated by Sujato, quoted verbatim in this page's text."},
+        {"q": "What does this saṃyutta's own close mark for this project's coverage of Book III?",
+         "opts": ["The end of this book's own coverage under Khandhavagga's heading, SN 22–30",
+                  "The midpoint of Book III, with much more still to come under this same heading",
+                  "Nothing significant — Khandhavagga continues unchanged", "The start of an entirely new book"],
+         "correct": 0,
+         "expl": "Before this project's next steps move on to the saṃyuttas beyond SN 30."},
+    ],
+    marginalia=[
+        ("Even less translated than its own counterpart", [
+            "no worked example in English at all &mdash;",
+            "just the question, then \"tell all in full\"",
+        ]),
+        ("The Pāli root still has the example", [
+            "a spontaneously-born phoenix, in full &mdash;",
+            "left untranslated in this file's own English",
+        ]),
+        ("A plainer arithmetic note", [
+            "\"by this summary\" &mdash;",
+            "forty-six discourses, stated but untranslated",
+        ]),
+        ("A closing line genuinely translated", [
+            "\"the Linked Discourses on phoenixes are complete\" &mdash;",
+            "Sujato's own words, quoted verbatim",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn30.17-46/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-30.7-16.html">SN 30.7&ndash;16 &middot; Ten '
+        "Discourses On How Giving Helps to Become Egg-Born</a> "
+        "&mdash; the previous page, giving this same ten-item formula "
+        "in full for egg-born phoenixes.",
+        '<a href="sn-30.1.html">SN 30.1 &middot; Plain Version</a> '
+        "&mdash; this saṃyutta's own opening discourse, whose bare "
+        "fourfold taxonomy every later discourse, including this "
+        "closing one, ultimately builds on.",
+    ],
+)
