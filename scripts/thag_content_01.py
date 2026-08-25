@@ -53233,3 +53233,532 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thag 16.4 — Raṭṭhapāla
+# --------------------------------------------------------------------------- #
+page(
+    16, 4, "Ra&#7789;&#7789;hap&amacr;la", "Ra&#7789;&#7789;hap&amacr;la",
+    meta_title="Thag 16.4 — Raṭṭhapāla | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Raṭṭhapāla's verse &mdash; the same elder whose renunciation "
+        "against his parents' fierce opposition, and his father's "
+        "later attempt to lure him back with dressed-up former "
+        "wives, is already told in full on this site's MN 82. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Twenties &middot; Chapter One &middot; Poem 4 of 10",
+    glance=[
+        ("Setting", "A direct rebuff of temptation, moving into "
+                    "extended teaching addressed to a king"),
+        ("Speaker", "Raṭṭhapāla, addressing an unnamed audience, "
+                    "then a king directly"),
+        ("Form", "Twenty-five verses, moving from rebuke through "
+                 "doctrine to personal testimony"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "sustained doctrinal argument, vivid imagery "
+                       "throughout"),
+    ],
+    why=(
+        "&lsquo;See this fancy puppet, a body built of sores... may "
+        "be enough to beguile a fool, but not a seeker of the far "
+        "shore&rsquo; &mdash; Raṭṭhapāla opens with a direct rebuff, "
+        "before comparing himself to a deer that ate the bait but "
+        "evaded the trap, &lsquo;leaving the trapper to lament&rsquo;. "
+        "This is the same elder whose renunciation against his "
+        "parents' desperate opposition, and his father's later "
+        "attempt to win him back with his own former wives dressed "
+        "to seduce him, is already told in full on this site's own "
+        "MN 82."),
+    guide=[
+        ("A rebuff addressed to a specific, if unnamed, temptation", [
+            "The opening three verses' catalogue of adornment "
+            "&mdash; rouged feet, powdered face, eyeshadow, hair in "
+            "eight braids &mdash; reads less like this collection's "
+            "more general body-contemplation poems (Thag 6.4, Thag "
+            "10.5, Thag 16.2) and more like a direct response to a "
+            "specific attempt at seduction, each verse closing on the "
+            "identical refrain: &lsquo;enough to beguile a fool, but "
+            "not a seeker of the far shore&rsquo;."]),
+        ("A deer that ate the bait but evaded the trap", [
+            "Verses six and seven turn to a hunting simile with an "
+            "unmistakably self-referential edge: &lsquo;the hunter "
+            "laid his snare, but the deer didn't spring the trap. "
+            "I've eaten the bait and now I go, leaving the trapper to "
+            "lament&rsquo;. This site's own "
+            "<a href=\"../majjhima-nikaya/mn-082.html\">MN 82, With "
+            "Raṭṭhapāla</a>, already tells the episode this simile "
+            "appears to recall directly: his father's attempt to win "
+            "him back to lay life by dressing his former wives to "
+            "seduce him, an attempt Raṭṭhapāla saw through entirely."]),
+        ("An extended teaching, addressed directly to a king", [
+            "From the eighth verse onward, the poem shifts audience: "
+            "&lsquo;I see rich people in the world who, because of "
+            "delusion, give not the money they've earned&rsquo;, "
+            "building through a king who &lsquo;conquered the earth "
+            "by force&rsquo; yet still yearns for more, to the "
+            "universal fact that wealth cannot buy longevity, ward "
+            "off old age, or follow anyone past death. Twice the "
+            "poem addresses &lsquo;rāja&rsquo;, &lsquo;O King&rsquo;, "
+            "directly &mdash; this same royal audience is already "
+            "documented in MN 82, where Raṭṭhapāla's teaching to King "
+            "Koravya is narrated at length in prose."]),
+        ("A funeral scene narrated in unflinching physical detail", [
+            "Verses eleven and twelve don't merely mention death; "
+            "they stage it: relatives with disheveled hair lamenting, "
+            "the body wrapped in a shroud, placed on a pyre, "
+            "&lsquo;poked with stakes while being burnt, in just a "
+            "single cloth, all wealth gone&rsquo;. Few passages "
+            "anywhere in this collection narrate a cremation this "
+            "specifically."]),
+        ("A bandit caught and punished: karma as inevitable consequence", [
+            "The eighteenth verse's simile is procedural rather than "
+            "visceral: &lsquo;as a bandit caught in a window is "
+            "punished for his own bad deeds, so after departing, in "
+            "the world beyond, people are punished for their own bad "
+            "deeds&rsquo; &mdash; karma described not as cosmic "
+            "justice from outside but as the same ordinary "
+            "consequence that follows any caught wrongdoer."]),
+        ("A closing that names the king explicitly, twice", [
+            "Unlike most poems in this collection, whose closing "
+            "testimony addresses no one in particular, verses "
+            "nineteen and twenty explicitly name &lsquo;rāja&rsquo; "
+            "as the poem's addressee at the exact hinge point where "
+            "Raṭṭhapāla turns from general teaching to his own "
+            "personal reason for going forth: &lsquo;seeing danger in "
+            "sensual stimulations, I went forth, O King.&rsquo;"]),
+    ],
+    terms=[
+        ("alaṁ bālassa mohāya, no ca pāragavesino",
+         "&ldquo;enough to beguile a fool, but not a seeker of the "
+         "far shore&rdquo; &mdash; the refrain closing each of the "
+         "opening body-adornment verses."),
+        ("bhutvā nivāpaṁ gacchāma",
+         "&ldquo;I've eaten the bait and now I go&rdquo; &mdash; the "
+         "self-referential deer simile recalling the episode told in "
+         "full on this site's MN 82."),
+        ("kāme ādittato disvā",
+         "&ldquo;I saw sensual pleasures as burning&rdquo; &mdash; "
+         "part of the specific catalogue of dangers Raṭṭhapāla names "
+         "for his own going forth."),
+        ("coro yathā sandhimukhe gahīto",
+         "&ldquo;as a bandit caught in a window&rdquo; &mdash; the "
+         "simile for karma as ordinary, inevitable consequence."),
+        ("apaṇṇakaṁ sāmaññameva seyyo",
+         "&ldquo;it's a sure bet that the ascetic life is "
+         "better&rdquo; &mdash; the conclusion closing the "
+         "king-directed teaching, immediately before Raṭṭhapāla's "
+         "own personal testimony begins."),
+    ],
+    text_intro=(
+        "The text in full: twenty-five verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag16.4:1.1-1.4"),
+        ("p", "&sect;2", "thag16.4:2.1-2.4"),
+        ("p", "&sect;3", "thag16.4:3.1-3.4"),
+        ("p", "&sect;4", "thag16.4:4.1-4.4"),
+        ("p", "&sect;5", "thag16.4:5.1-5.4"),
+        ("p", "&sect;6", "thag16.4:6.1-6.4"),
+        ("p", "&sect;7", "thag16.4:7.1-7.4"),
+        ("p", "&sect;8", "thag16.4:8.1-8.4"),
+        ("p", "&sect;9", "thag16.4:9.1-9.4"),
+        ("p", "&sect;10", "thag16.4:10.1-10.4"),
+        ("p", "&sect;11", "thag16.4:11.1-11.4"),
+        ("p", "&sect;12", "thag16.4:12.1-12.4"),
+        ("p", "&sect;13", "thag16.4:13.1-13.4"),
+        ("p", "&sect;14", "thag16.4:14.1-14.4"),
+        ("p", "&sect;15", "thag16.4:15.1-15.4"),
+        ("p", "&sect;16", "thag16.4:16.1-16.4"),
+        ("p", "&sect;17", "thag16.4:17.1-17.4"),
+        ("p", "&sect;18", "thag16.4:18.1-18.4"),
+        ("p", "&sect;19", "thag16.4:19.1-19.4"),
+        ("p", "&sect;20", "thag16.4:20.1-20.4"),
+        ("p", "&sect;21", "thag16.4:21.1-21.4"),
+        ("p", "&sect;22", "thag16.4:22.1-22.4"),
+        ("p", "&sect;23", "thag16.4:23.1-23.4"),
+        ("p", "&sect;24", "thag16.4:24.1-24.4"),
+        ("p", "&sect;25", "thag16.4:25.1-25.4"),
+    ],
+    quiz=[
+        {"q": "What refrain closes each of the opening three verses' catalogue of adornment?",
+         "opts": [
+             "A different refrain each time",
+             "No refrain — each verse stands alone",
+             "A request for further ornaments",
+             "'Enough to beguile a fool, but not a seeker of the far shore'"],
+         "correct": 3,
+         "expl": "Reading less like general body-contemplation and more like a direct response to a specific temptation."},
+        {"q": "What does the deer-and-hunter simile in verses six and seven recall?",
+         "opts": [
+             "His father's attempt to win him back to lay life with his dressed-up former wives, already told on this site's MN 82",
+             "A story about an actual deer he once saw",
+             "Nothing specific — it's a generic teaching image",
+             "A childhood memory unrelated to his own life"],
+         "correct": 0,
+         "expl": "'I've eaten the bait and now I go, leaving the trapper to lament.'"},
+        {"q": "From the eighth verse onward, who does the poem address?",
+         "opts": [
+             "No one in particular",
+             "A king, directly — the same royal audience documented in MN 82's account of his teaching to King Koravya",
+             "His own parents",
+             "A group of fellow monks"],
+         "correct": 1,
+         "expl": "The poem twice addresses 'rāja', 'O King', directly."},
+        {"q": "How does the eleventh and twelfth verse present death?",
+         "opts": [
+             "The poem does not discuss death",
+             "Abstractly, with no specific detail",
+             "As a specifically staged funeral scene — disheveled relatives, a shroud, a pyre, the body poked with stakes while burning",
+             "As something to be feared and avoided at all costs"],
+         "correct": 2,
+         "expl": "Few passages anywhere in this collection narrate a cremation this specifically."},
+        {"q": "What does the eighteenth verse's bandit simile describe?",
+         "opts": [
+             "A warning against banditry specifically",
+             "An argument against punishment of any kind",
+             "A specific historical crime",
+             "Karma as ordinary, inevitable consequence — like a bandit caught in a window, punished for his own deeds"],
+         "correct": 3,
+         "expl": "Karma described as the same ordinary consequence that follows any caught wrongdoer, not cosmic justice from outside."},
+        {"q": "What does the sixteenth verse claim is better than wealth?",
+         "opts": [
+             "Wisdom, since by wisdom one reaches consummation in this life",
+             "Physical strength",
+             "Nothing is claimed better than wealth",
+             "Fame"],
+         "correct": 0,
+         "expl": "'Tasmā hi paññāva dhanena seyyā.'"},
+        {"q": "What does the poem say wealth cannot do, in the fourteenth verse?",
+         "opts": [
+             "The verse doesn't discuss wealth's limits",
+             "Gain longevity or banish old age",
+             "Purchase land",
+             "Buy loyalty"],
+         "correct": 1,
+         "expl": "'Na dīghamāyuṁ labhate dhanena, na cāpi vittena jaraṁ vihanti.'"},
+        {"q": "What personal reason does Raṭṭhapāla give for going forth, addressing the king directly?",
+         "opts": [
+             "No reason is given",
+             "Family pressure alone",
+             "Seeing danger in sensual pleasures",
+             "A desire for wealth"],
+         "correct": 2,
+         "expl": "'Ādīnavaṁ kāmaguṇesu disvā, tasmā ahaṁ pabbajitomhi rāja.'"},
+        {"q": "What does the twentieth verse compare the fall of young and old, at death, to?",
+         "opts": [
+             "A river drying up",
+             "A candle going out",
+             "No comparison is made",
+             "Fruit falling from a tree"],
+         "correct": 3,
+         "expl": "'Dumapphalānīva patanti māṇavā, daharā ca vuḍḍhā ca sarīrabhedā.'"},
+        {"q": "Where is Raṭṭhapāla's renunciation against his parents' opposition, and his father's later temptation attempt, already told in full?",
+         "opts": [
+             "This site's own MN 82, With Raṭṭhapāla",
+             "Only in the Dhammapada",
+             "Only in the Vinaya",
+             "Nowhere else on this site"],
+         "correct": 0,
+         "expl": "Already narrated at length in prose, including the teaching to King Koravya."},
+    ],
+    marginalia=[
+        ("Adornment, rebuffed verse by verse", [
+            "enough to fool a fool, not a seeker of the far shore —",
+            "reading like a direct answer to a specific attempt"
+        ]),
+        ("A deer that ate the bait and walked free", [
+            "leaving the trapper to lament —",
+            "recalling the episode told in full on MN 82"
+        ]),
+        ("A cremation, staged in specific detail", [
+            "stakes, a single cloth, all wealth gone —",
+            "few passages this unflinching elsewhere"
+        ]),
+        ("A king addressed by name, twice", [
+            "the same audience already met in MN 82's prose —",
+            "teaching turning to personal testimony at the hinge"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag16.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-082.html">MN 82 &mdash; With '
+        "Raṭṭhapāla</a> &mdash; this same elder's renunciation "
+        "story and teaching to King Koravya, told in full prose.",
+        '<a href="thag-16.3.html">Thag 16.3 &mdash; Telakāni</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 16.5 — Māluṅkyaputta (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    16, 5, "M&amacr;lu&#7749;kyaputta (2nd)", "M&amacr;lu&#7749;kyaputta (2nd)",
+    meta_title="Thag 16.5 — Māluṅkyaputta (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Māluṅkyaputta's verse, this collection's most rigidly "
+        "systematic poem &mdash; the six sense doors run through "
+        "twice, once heedless and once mindful, closing each half on "
+        "a matched pair of refrains. Companion to this site's MN 64, "
+        "as Thag 6.5 companions MN 63. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twenties &middot; Chapter One &middot; Poem 5 of 10",
+    glance=[
+        ("Setting", "No narrative setting; a purely systematic "
+                    "teaching"),
+        ("Speaker", "Māluṅkyaputta (2nd), with no personal episode "
+                    "narrated"),
+        ("Form", "Twenty-four verses in twelve matched pairs, split "
+                 "into two mirrored halves"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "highly repetitive structure, systematic "
+                       "vocabulary"),
+    ],
+    why=(
+        "&lsquo;When you see a sight, mindfulness is lost as you "
+        "focus on a pleasant feature... heaping up suffering like "
+        "this, you're said to be far from extinguishment&rsquo; "
+        "&mdash; Māluṅkyaputta's poem runs this exact pattern six "
+        "times, once for each sense door, then runs it again in "
+        "mirror image for mindful engagement, closing each of the "
+        "twelve pairs on one of two matched refrains: far from "
+        "extinguishment, or in its presence."),
+    guide=[
+        ("The most rigidly systematic poem in this collection", [
+            "No poem elsewhere in this collection sustains this "
+            "level of structural repetition: twenty-four verses "
+            "organized into twelve near-identical pairs, one pair "
+            "for each of the six sense doors (sight, sound, smell, "
+            "taste, touch, and mental phenomena), with only the "
+            "specific sense-object word changing from pair to pair. "
+            "The poem contains no personal narrative at all, joining "
+            "this collection's small cluster of purely doctrinal "
+            "verse (alongside Thag 10.5 and Thag 15.2)."]),
+        ("Two exact mirror halves, one word apart", [
+            "The first twelve verses (six pairs) each open "
+            "&lsquo;mindfulness is lost&rsquo;, describe clinging "
+            "arising, and close &lsquo;you're said to be far from "
+            "extinguishment&rsquo; (ārā nibbāna vuccati). The second "
+            "twelve verses run the identical structure in reverse: "
+            "&lsquo;there's no desire&rsquo;, mindful engagement "
+            "without clinging, closing &lsquo;you're said to be in "
+            "the presence of extinguishment&rsquo; (santike nibbāna "
+            "vuccati). The two halves differ by the smallest possible "
+            "margin needed to invert their entire meaning."]),
+        ("A companion poem to Thag 6.5, matching a companion pair of suttas", [
+            "This site's own Thag 6.5 already gives Māluṅkyaputta "
+            "(1st) a poem linked to "
+            "<a href=\"../majjhima-nikaya/mn-063.html\">MN 63, The "
+            "Shorter Discourse with Māluṅkya</a>, the poisoned-arrow "
+            "parable. This poem's own systematic sense-door teaching "
+            "connects instead to "
+            "<a href=\"../majjhima-nikaya/mn-064.html\">MN 64, The "
+            "Longer Discourse with Māluṅkya</a>, where the Buddha "
+            "teaches an aged Māluṅkyaputta to abandon the five lower "
+            "fetters through exactly this kind of disciplined "
+            "sense-engagement. MN 63 and MN 64 are themselves a "
+            "matched short-and-long pair of suttas for the same "
+            "figure &mdash; and this collection now holds a matched "
+            "pair of poems mirroring them."]),
+        ("Wearing away rather than heaping up", [
+            "The second half's own internal refrain names the "
+            "mechanism directly: &lsquo;khīyati nopacīyati&rsquo;, "
+            "&lsquo;you wear away, you don't heap up&rsquo;. Both "
+            "halves describe the identical event &mdash; a sense "
+            "contacted, a feeling arising &mdash; with the entire "
+            "difference between suffering's growth and its erosion "
+            "resting on whether mindfulness accompanies the contact."]),
+        ("Ideas treated as a sixth sense on equal footing", [
+            "The final pair (verses eleven-twelve and twenty-three-"
+            "twenty-four) extends the same treatment to "
+            "&lsquo;dhammā&rsquo;, mental phenomena or ideas "
+            "themselves, alongside the five physical senses &mdash; "
+            "the mind's own objects subject to the identical dynamic "
+            "of clinging or non-clinging as sights, sounds, smells, "
+            "tastes, and touches."]),
+    ],
+    terms=[
+        ("piyaṁ nimittaṁ manasi karoto",
+         "&ldquo;as you focus on a pleasant feature&rdquo; &mdash; "
+         "the recurring phrase marking where mindfulness is lost, "
+         "across the poem's first half."),
+        ("ārā nibbāna vuccati",
+         "&ldquo;you're said to be far from extinguishment&rdquo; "
+         "&mdash; the refrain closing all six pairs of the poem's "
+         "first half."),
+        ("khīyati nopacīyati",
+         "&ldquo;you wear away, you don't heap up&rdquo; &mdash; "
+         "the mechanism named directly in the poem's second half."),
+        ("santike nibbāna vuccati",
+         "&ldquo;you're said to be in the presence of "
+         "extinguishment&rdquo; &mdash; the mirrored refrain closing "
+         "the second half."),
+        ("dhammaṁ ñatvā",
+         "&ldquo;when you know an idea&rdquo; &mdash; the sixth "
+         "sense door, mental phenomena, treated identically to the "
+         "five physical senses."),
+    ],
+    text_intro=(
+        "The text in full: twenty-four verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag16.5:1.1-1.4"),
+        ("p", "&sect;2", "thag16.5:2.1-2.6"),
+        ("p", "&sect;3", "thag16.5:3.1-3.4"),
+        ("p", "&sect;4", "thag16.5:4.1-4.6"),
+        ("p", "&sect;5", "thag16.5:5.1-5.4"),
+        ("p", "&sect;6", "thag16.5:6.1-6.6"),
+        ("p", "&sect;7", "thag16.5:7.1-7.4"),
+        ("p", "&sect;8", "thag16.5:8.1-8.6"),
+        ("p", "&sect;9", "thag16.5:9.1-9.4"),
+        ("p", "&sect;10", "thag16.5:10.1-10.6"),
+        ("p", "&sect;11", "thag16.5:11.1-11.4"),
+        ("p", "&sect;12", "thag16.5:12.1-12.6"),
+        ("p", "&sect;13", "thag16.5:13.1-13.4"),
+        ("p", "&sect;14", "thag16.5:14.1-14.6"),
+        ("p", "&sect;15", "thag16.5:15.1-15.4"),
+        ("p", "&sect;16", "thag16.5:16.1-16.6"),
+        ("p", "&sect;17", "thag16.5:17.1-17.4"),
+        ("p", "&sect;18", "thag16.5:18.1-18.6"),
+        ("p", "&sect;19", "thag16.5:19.1-19.4"),
+        ("p", "&sect;20", "thag16.5:20.1-20.6"),
+        ("p", "&sect;21", "thag16.5:21.1-21.4"),
+        ("p", "&sect;22", "thag16.5:22.1-22.6"),
+        ("p", "&sect;23", "thag16.5:23.1-23.4"),
+        ("p", "&sect;24", "thag16.5:24.1-24.6"),
+    ],
+    quiz=[
+        {"q": "How is this poem structured across its twenty-four verses?",
+         "opts": [
+             "As twelve near-identical pairs, one pair for each of the six sense doors, with only the sense-object word changing",
+             "As a dialogue between two speakers",
+             "As a single continuous argument with no repetition",
+             "As a personal narrative of the speaker's own crisis"],
+         "correct": 0,
+         "expl": "The most rigidly systematic poem in this collection, containing no personal narrative at all."},
+        {"q": "What refrain closes each of the first six pairs?",
+         "opts": [
+             "No refrain is used",
+             "'You're said to be far from extinguishment' (ārā nibbāna vuccati)",
+             "A different refrain each time",
+             "'I've attained the three knowledges'"],
+         "correct": 1,
+         "expl": "Describing mindfulness lost and clinging arising at each sense door."},
+        {"q": "What refrain closes each of the second six pairs?",
+         "opts": [
+             "A refrain about wealth",
+             "The identical refrain as the first half",
+             "'You're said to be in the presence of extinguishment' (santike nibbāna vuccati)",
+             "No refrain is used in the second half"],
+         "correct": 2,
+         "expl": "Mirroring the first half's structure exactly, but inverting the entire meaning."},
+        {"q": "What does this poem's own second half name as the mechanism distinguishing suffering's growth from its erosion?",
+         "opts": [
+             "Wealth accumulation",
+             "No mechanism is named",
+             "Physical strength",
+             "'You wear away, you don't heap up' (khīyati nopacīyati) — whether mindfulness accompanies contact"],
+         "correct": 3,
+         "expl": "Both halves describe the identical event; the entire difference rests on mindfulness."},
+        {"q": "Where is this poem's sister poem, Thag 6.5 (Māluṅkyaputta 1st), linked on this site?",
+         "opts": [
+             "MN 63, the poisoned-arrow parable",
+             "MN 82",
+             "This poem denies any connection to Thag 6.5",
+             "Nowhere else on this site"],
+         "correct": 0,
+         "expl": "The Shorter Discourse with Māluṅkya, already translated on this site."},
+        {"q": "What does this poem itself connect to, on this site?",
+         "opts": [
+             "A completely unrelated sutta about a different topic",
+             "MN 64, The Longer Discourse with Māluṅkya, where an aged Māluṅkyaputta learns to abandon the five lower fetters through sense-restraint",
+             "No connection exists on this site",
+             "The same MN 63 as Thag 6.5"],
+         "correct": 1,
+         "expl": "MN 63 and MN 64 are themselves a matched short-and-long pair for the same figure."},
+        {"q": "What sixth sense door does the final pair of verses treat alongside the five physical senses?",
+         "opts": [
+             "A sense unique to advanced meditators",
+             "No sixth sense is mentioned",
+             "Mental phenomena or ideas (dhammā), on equal footing with sights, sounds, smells, tastes, and touches",
+             "A sense of balance"],
+         "correct": 2,
+         "expl": "The mind's own objects subject to the identical dynamic of clinging or non-clinging."},
+        {"q": "What phrase marks where mindfulness is lost, across the poem's first half?",
+         "opts": [
+             "A different phrase each time",
+             "No phrase is used",
+             "'As you meditate deeply'",
+             "'As you focus on a pleasant feature' (piyaṁ nimittaṁ manasi karoto)"],
+         "correct": 3,
+         "expl": "The recurring hinge-point where each of the six sense-door verses turns toward clinging."},
+        {"q": "What collection-wide cluster does this poem join, given its complete lack of personal narrative?",
+         "opts": [
+             "A small cluster of purely doctrinal verse, alongside Thag 10.5 and Thag 15.2",
+             "Every poem in this collection lacks personal narrative",
+             "Only poems from the Book of the Ones share this feature",
+             "It is entirely unique — no other poem shares this feature"],
+         "correct": 0,
+         "expl": "Joining a small, identifiable pattern within this otherwise mostly autobiographical collection."},
+        {"q": "What happens to feelings, according to the second verse, when mindfulness is lost at a sense door?",
+         "opts": [
+             "They immediately cease",
+             "Many feelings grow, and the mind is damaged by covetousness and cruelty",
+             "Nothing changes",
+             "They transform into wisdom automatically"],
+         "correct": 1,
+         "expl": "'Tassa vaḍḍhanti vedanā... cittamassūpahaññati.'"},
+    ],
+    marginalia=[
+        ("Twelve pairs, one word changing each time", [
+            "sight, sound, smell, taste, touch, and idea —",
+            "the most systematic poem in this collection"
+        ]),
+        ("Two halves, mirrored exactly", [
+            "far from extinguishment, then its presence —",
+            "the smallest change inverting everything"
+        ]),
+        ("A companion poem to a companion pair of suttas", [
+            "MN 63 for the first Māluṅkyaputta, MN 64 for this one —",
+            "the same short-and-long pairing, echoed here"
+        ]),
+        ("Wearing away, not heaping up", [
+            "the same contact, the same feeling —",
+            "mindfulness alone deciding which way it goes"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag16.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-064.html">MN 64 &mdash; The '
+        "Longer Discourse with Māluṅkya</a> &mdash; the teaching on "
+        "sense-restraint this poem appears to versify.",
+        '<a href="thag-6.5.html">Thag 6.5 &mdash; Māluṅkyaputta '
+        "(1st)</a> &mdash; this collection's other Māluṅkyaputta "
+        "poem, linked to MN 63.",
+        '<a href="thag-16.4.html">Thag 16.4 &mdash; Raṭṭhapāla</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
