@@ -1943,3 +1943,1555 @@ page(
         "third vagga.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 35.13 — Paṭhamapubbesambodhasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 13, "Paṭhamapubbesambodha", "Before My Awakening (Interior)",
+    vagga="Yamakavagga",
+    meta_title="SN 35.13 — Before My Awakening (Interior) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamapubbesambodhasutta &mdash; opening Yamakavagga "
+        "with the Buddha's own pre-awakening reflection on the "
+        "gratification, drawback, and escape of the six interior "
+        "sense fields. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, recounting his own pre-awakening "
+                     "reflection in the first person"),
+        ("Form", "A first-person memory of a threefold question and "
+                 "its own threefold answer, applied to all six "
+                 "interior sense fields"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the three-part gratification/drawback/escape "
+                       "structure rewards careful reading"),
+    ],
+    why=(
+        "This discourse opens Yamakavagga (\"the Chapter of Pairs\"), "
+        "Saḷāyatanasaṃyutta's own second vagga, introducing a "
+        "genuinely new analytical triad distinct from Aniccavagga's "
+        "own impermanent-suffering-not-self chain: assāda "
+        "(gratification), ādīnava (drawback), and nissaraṇa (escape). "
+        "Rather than a general teaching to the mendicants, this "
+        "discourse is framed as the Buddha's own first-person memory "
+        "of the question he asked himself before his awakening, "
+        "applied to the six interior sense fields &mdash; and his own "
+        "declaration that only once he'd genuinely understood all "
+        "three for what they are did he announce his own awakening to "
+        "the world."
+    ),
+    guide=[
+        ("A pre-awakening question, remembered and recounted", [
+            "\"Before my awakening&mdash;when I was still unawakened "
+            "but intent on awakening&mdash;I thought: 'What's the "
+            "gratification, the drawback, and the escape when it "
+            "comes to the eye … ?'\" &mdash; a rare first-person "
+            "autobiographical frame, the Buddha recalling his own "
+            "pre-enlightenment inquiry rather than teaching an "
+            "audience directly.",
+        ]),
+        ("A three-part analytical structure, this vagga's own opening formula", [
+            "Gratification: \"the pleasure and happiness that arise "
+            "from the eye.\" Drawback: \"that the eye is impermanent, "
+            "suffering, and perishable.\" Escape: \"removing and "
+            "giving up desire and greed for the eye.\" &mdash; a "
+            "structure genuinely distinct from Aniccavagga's own "
+            "impermanent-suffering-not-self chain, though drawback "
+            "itself echoes that earlier vagga's own vocabulary.",
+        ]),
+        ("Awakening made conditional on this specific understanding", [
+            "The discourse's own closing claim is striking: the "
+            "Buddha states he did not announce his supreme "
+            "awakening to the world until he had truly understood "
+            "all six interior sense fields' own gratification, "
+            "drawback, and escape &mdash; making this specific "
+            "sixfold, threefold analysis a condition of awakening "
+            "itself, not merely a teaching offered afterward.",
+        ]),
+        ("Opening this vagga's own first pair", [
+            "This discourse treats the interior sense fields in "
+            "full; SN 35.14 will apply the identical structure to the "
+            "exterior sense objects, compressed &mdash; the first of "
+            "five interior-exterior pairs this vagga's own name "
+            "(\"Pairs\") refers to.",
+        ]),
+    ],
+    terms=[
+        ("assāda", "gratification &mdash; the first term in this "
+                    "vagga's own analytical triad, the pleasure a "
+                    "sense field genuinely offers"),
+        ("ādīnava", "drawback, or danger &mdash; the second term, "
+                     "the sense field's own impermanent, suffering, "
+                     "and perishable nature"),
+        ("nissaraṇa", "escape &mdash; the third term, removing and "
+                       "giving up desire and greed for the sense "
+                       "field"),
+        ("pubbe sambodhā", "\"before my awakening\" &mdash; this "
+                            "discourse's own autobiographical frame, "
+                            "naming its title"),
+        ("anuttaraṁ sammāsambodhiṁ", "\"supreme perfect "
+                                      "awakening\" &mdash; what the "
+                                      "Buddha declares he would not "
+                                      "announce until this specific "
+                                      "understanding was complete"),
+    ],
+    text_intro=("The complete discourse: the pre-awakening question, "
+        "its own threefold answer applied to the six interior sense "
+        "fields, and the closing declaration of awakening. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.13:1.1-1.15"),
+        ("p", "&sect;2", "sn35.13:1.18-1.21"),
+        ("p", "&sect;3", "sn35.13:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What question does the Buddha recall asking himself before his awakening?",
+         "opts": ["What's the gratification, the drawback, and the escape when it comes to the six interior sense fields?",
+                  "How can I attain immediate liberation?", "What is the nature of the self?",
+                  "How should mendicants be ordained?"],
+         "correct": 0,
+         "expl": "A rare first-person autobiographical frame, distinct from Aniccavagga's own direct teaching to mendicants."},
+        {"q": "What is gratification (assāda), according to this discourse's own definition?",
+         "opts": ["The pleasure and happiness that arise from a sense field", "The impermanence of a sense field",
+                  "The act of giving up desire for a sense field", "A synonym for suffering"],
+         "correct": 0,
+         "expl": "The first of this vagga's own three-term analytical structure."},
+        {"q": "What condition does the Buddha place on his own announcement of awakening?",
+         "opts": ["Not announcing it until he had truly understood all six interior sense fields' gratification, drawback, and escape",
+                  "No condition at all — awakening was announced immediately", "Understanding only the eye, not the other five fields",
+                  "Waiting for his first five disciples to arrive"],
+         "correct": 0,
+         "expl": "Making this specific sixfold, threefold analysis a condition of awakening itself."},
+        {"q": "How does this vagga's own analytical triad differ from Aniccavagga's own impermanent-suffering-not-self chain?",
+         "opts": ["Gratification, drawback, and escape — a genuinely distinct three-term structure, though drawback echoes the earlier vocabulary",
+                  "It is identical in every respect", "It applies only to the exterior sense fields, never the interior",
+                  "It rejects Aniccavagga's own claims outright"],
+         "correct": 0,
+         "expl": "A new analytical frame opening this vagga's own first pair of discourses."},
+        {"q": "What does this discourse open?",
+         "opts": ["This vagga's own first interior-exterior pair, with SN 35.14 applying the same structure to the exterior sense objects",
+                  "The entire saṃyutta", "A pair unrelated to the sense fields", "The saṃyutta's own closing discourse"],
+         "correct": 0,
+         "expl": "The first of five such pairs giving this vagga its own name, \"Pairs.\""},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("A memory, not a direct teaching", [
+            "\"before my awakening, I thought ...\" &mdash;",
+            "the Buddha's own first-person recollection",
+        ]),
+        ("A new triad opens this vagga", [
+            "gratification, drawback, escape &mdash;",
+            "distinct from Aniccavagga's own chain",
+        ]),
+        ("Awakening made conditional", [
+            "not announced until fully understood &mdash;",
+            "this analysis itself part of the path",
+        ]),
+        ("The first of five pairs", [
+            "interior here, exterior next &mdash;",
+            "giving this vagga its own name",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.13/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.12.html">SN 35.12 &middot; The Exterior as '
+        "Not-Self in the Three Times</a> &mdash; the previous page, "
+        "closing Aniccavagga.",
+        '<a href="sn-35.14.html">SN 35.14 &middot; Before My '
+        "Awakening (Exterior)</a> &mdash; the next discourse, "
+        "applying this same reflection to the six exterior sense "
+        "objects.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.14 — Dutiyapubbesambodhasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 14, "Dutiyapubbesambodha", "Before My Awakening (Exterior)",
+    vagga="Yamakavagga",
+    meta_title="SN 35.14 — Before My Awakening (Exterior) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyapubbesambodhasutta &mdash; the same pre-awakening "
+        "reflection applied to the six exterior sense objects, "
+        "completing this vagga's own first pair. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha, by cross-reference to SN 35.13's "
+                     "own first-person frame"),
+        ("Form", "A peyyāla stub, giving only the opening question "
+                 "before eliding the rest to SN 35.13's own answer"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 35.13"),
+    ],
+    why=(
+        "This discourse completes this vagga's own first pair, "
+        "applying SN 35.13's own pre-awakening question to the six "
+        "exterior sense objects rather than the six interior "
+        "faculties &mdash; but unlike SN 35.13's own full treatment, "
+        "this discourse compresses to just the opening question, "
+        "trusting readers to supply the full gratification-drawback-"
+        "escape answer and the closing awakening declaration from the "
+        "interior discourse just before it."
+    ),
+    guide=[
+        ("The same pre-awakening question, redirected outward", [
+            "\"What's the gratification, the drawback, and the "
+            "escape when it comes to sights … sounds … smells … "
+            "tastes … touches … and ideas?\" &mdash; the identical "
+            "question as SN 35.13, now asked of what the six senses "
+            "perceive rather than the faculties themselves.",
+        ]),
+        ("Only the question survives, not the answer", [
+            "Where SN 35.13 gave both the question and its own full "
+            "threefold answer, this discourse elides everything past "
+            "the question itself, including the closing declaration "
+            "of awakening &mdash; a genuinely different compression "
+            "point than Aniccavagga's own equivalent pairs.",
+        ]),
+        ("Completing this vagga's own first named pair", [
+            "With this discourse, the \"Before My Awakening\" pair "
+            "(SN 35.13&ndash;14) is complete &mdash; the first of "
+            "five such interior-exterior pairs this vagga will work "
+            "through, giving Yamakavagga its own name.",
+        ]),
+        ("A genuine feature of transmission, not an omission", [
+            "As with other short peyyāla stubs elsewhere in this "
+            "project's coverage of the Saṃyutta Nikāya, this "
+            "discourse's brevity is quoted here exactly as the source "
+            "gives it rather than expanded into invented prose.",
+        ]),
+    ],
+    terms=[
+        ("pubbe sambodhā", "\"before my awakening\" &mdash; the same "
+                            "autobiographical frame as SN 35.13, "
+                            "carried over by cross-reference"),
+        ("rūpa", "sights &mdash; the first exterior sense object "
+                  "named, standing in for all six"),
+        ("dhamma", "ideas, or mental objects &mdash; the sixth and "
+                    "final exterior sense object named"),
+        ("assāda", "gratification &mdash; the first term of the "
+                    "triad this discourse's own question implies but "
+                    "does not spell out"),
+        ("peyyāla", "an elision mark &mdash; here compressing the "
+                     "full threefold answer and the closing awakening "
+                     "declaration to nothing beyond the question "
+                     "itself"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening question. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.14:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What question does this discourse ask, applied to the exterior sense objects?",
+         "opts": ["What's the gratification, the drawback, and the escape when it comes to sights, sounds, smells, tastes, touches, and ideas?",
+                  "How should mendicants meditate on sights alone?", "What is the nature of the self?",
+                  "An unrelated question about monastic discipline"],
+         "correct": 0,
+         "expl": "The identical question as SN 35.13, now asked of the six exterior sense objects."},
+        {"q": "How much of SN 35.13's own content survives in this discourse?",
+         "opts": ["Only the opening question — the full threefold answer and closing declaration are elided",
+                  "The entire discourse, restated in full", "Only the closing declaration, with the question omitted",
+                  "Nothing at all survives"],
+         "correct": 0,
+         "expl": "A genuinely different compression point than Aniccavagga's own equivalent pairs."},
+        {"q": "What does this discourse complete?",
+         "opts": ["This vagga's own first named pair, \"Before My Awakening\" (SN 35.13–14)",
+                  "The entire saṃyutta", "A pair unrelated to SN 35.13", "This vagga's own final pair"],
+         "correct": 0,
+         "expl": "The first of five interior-exterior pairs giving Yamakavagga its own name."},
+        {"q": "What does this reading guide do with this discourse's own brevity?",
+         "opts": ["Quotes it exactly as the source gives it, without fabricating the elided material",
+                  "Reconstructs the full answer and presents it as this discourse's own text",
+                  "Skips the discourse entirely", "Invents new content unrelated to SN 35.13"],
+         "correct": 0,
+         "expl": "Consistent with this project's practice on other short peyyāla stubs."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses, though given here only by cross-reference."},
+    ],
+    marginalia=[
+        ("The same question, redirected", [
+            "sights, sounds, smells, tastes, touches, ideas &mdash;",
+            "what is perceived, not what perceives",
+        ]),
+        ("Only the question survives", [
+            "no threefold answer restated &mdash;",
+            "not even the closing declaration",
+        ]),
+        ("A pair completed", [
+            "\"Before My Awakening,\" interior and exterior &mdash;",
+            "the first of five such pairs",
+        ]),
+        ("A genuine feature of transmission", [
+            "brevity itself the point &mdash;",
+            "not an omission introduced by this reading guide",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.14/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.13.html">SN 35.13 &middot; Before My '
+        "Awakening (Interior)</a> &mdash; the previous discourse, "
+        "giving the full question and answer.",
+        '<a href="sn-35.15.html">SN 35.15 &middot; In Search of '
+        "Gratification (Interior)</a> &mdash; the next discourse, "
+        "this vagga's own second named pair.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.15 — Paṭhamaassādapariyesanasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 15, "Paṭhamaassādapariyesana", "In Search of Gratification "
+    "(Interior)",
+    vagga="Yamakavagga",
+    meta_title="SN 35.15 — In Search of Gratification (Interior) | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamaassādapariyesanasutta &mdash; the Buddha's own "
+        "active search for gratification, drawback, and escape in "
+        "the six interior sense fields, and his claim to have found "
+        "all three. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, describing his own past search in "
+                     "the first person"),
+        ("Form", "A threefold search-and-discovery formula applied to "
+                 "all six interior sense fields, closing with the "
+                 "same awakening declaration as SN 35.13"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "straightforward once SN 35.13's own triad is "
+                       "clear"),
+    ],
+    why=(
+        "This discourse opens this vagga's own second named pair, "
+        "reusing SN 35.13's own gratification-drawback-escape triad "
+        "but reframing it as an active search rather than a "
+        "reflective question: \"I went in search of the eye's "
+        "gratification, and I found it. I've seen clearly with wisdom "
+        "the full extent of the eye's gratification\" &mdash; the "
+        "same threefold structure, now emphasizing discovery and "
+        "thorough comprehension rather than initial inquiry."
+    ),
+    guide=[
+        ("A search, not merely a question", [
+            "\"I went in search of the eye's gratification, and I "
+            "found it\" &mdash; where SN 35.13 asked what "
+            "gratification, drawback, and escape might be, this "
+            "discourse describes actively seeking each one out and "
+            "genuinely finding it.",
+        ]),
+        ("Emphasis on the full extent, seen with wisdom", [
+            "Each of the three terms receives its own claim of "
+            "complete comprehension: \"I've seen clearly with wisdom "
+            "the full extent of the eye's gratification\" &mdash; "
+            "repeated for drawback and escape too, stressing "
+            "thoroughness rather than merely first contact.",
+        ]),
+        ("The identical closing declaration as SN 35.13", [
+            "This discourse closes with the same structure as SN "
+            "35.13's own ending: awakening withheld until this "
+            "specific sixfold, threefold understanding was complete, "
+            "confirming this vagga's own second pair shares the "
+            "first pair's closing formula even while varying its own "
+            "opening framing.",
+        ]),
+        ("Second of this vagga's own five named pairs", [
+            "SN 35.16 will apply this identical search-and-discovery "
+            "structure to the exterior sense objects, compressed as "
+            "before, completing this vagga's own \"In Search of "
+            "Gratification\" pair.",
+        ]),
+    ],
+    terms=[
+        ("pariyesana", "search, or seeking &mdash; this discourse's "
+                        "own title-word, distinguishing its active "
+                        "framing from SN 35.13's own reflective "
+                        "question"),
+        ("assāda", "gratification &mdash; the first term sought and "
+                    "found, as at SN 35.13"),
+        ("ādīnava", "drawback &mdash; the second term, likewise "
+                     "sought and found"),
+        ("nissaraṇa", "escape &mdash; the third term, likewise "
+                       "sought and found"),
+        ("paññāya sudiṭṭho", "\"seen clearly with wisdom\" &mdash; "
+                              "this discourse's own recurring phrase "
+                              "for the depth of each discovery"),
+    ],
+    text_intro=("The complete discourse: the threefold search for "
+        "gratification, drawback, and escape applied to all six "
+        "interior sense fields, closing with the awakening "
+        "declaration. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.15:1.1-1.12"),
+        ("p", "&sect;2", "sn35.15:1.20-1.29"),
+        ("p", "&sect;3", "sn35.15:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's framing differ from SN 35.13's own?",
+         "opts": ["It describes actively searching for and finding gratification, drawback, and escape, not merely asking about them",
+                  "It is identical in every respect to SN 35.13", "It denies gratification, drawback, and escape can be found at all",
+                  "It applies only to the exterior sense fields"],
+         "correct": 0,
+         "expl": "A search-and-discovery framing rather than SN 35.13's own reflective question."},
+        {"q": "What recurring phrase emphasizes the depth of each discovery?",
+         "opts": ["\"I've seen clearly with wisdom the full extent\"", "\"This is not mine, I am not this\"",
+                  "\"Let alone the present\"", "\"There is nothing further for this place\""],
+         "correct": 0,
+         "expl": "Repeated for gratification, drawback, and escape, stressing thoroughness."},
+        {"q": "How does this discourse's closing compare to SN 35.13's own?",
+         "opts": ["Identical — awakening withheld until this sixfold, threefold understanding was complete",
+                  "Entirely different, with no mention of awakening", "Shortened to a single line",
+                  "Contradicts SN 35.13's own claim"],
+         "correct": 0,
+         "expl": "Confirming the two pairs share the same closing formula despite varying their own opening framing."},
+        {"q": "What does this discourse open?",
+         "opts": ["This vagga's own second named pair, \"In Search of Gratification\"",
+                  "This vagga's own final pair", "An entirely unrelated theme",
+                  "A pair with no counterpart discourse to follow"],
+         "correct": 0,
+         "expl": "SN 35.16 will apply this same structure to the exterior sense objects, compressed."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("A search, actively undertaken", [
+            "\"I went in search ... and I found it\" &mdash;",
+            "not merely asked, but sought and discovered",
+        ]),
+        ("Thoroughness, stressed three times over", [
+            "\"seen clearly with wisdom, the full extent\" &mdash;",
+            "for gratification, drawback, and escape alike",
+        ]),
+        ("The same closing formula as SN 35.13", [
+            "awakening withheld until fully understood &mdash;",
+            "shared across this vagga's own first two pairs",
+        ]),
+        ("Second of five named pairs", [
+            "interior here, exterior next &mdash;",
+            "the search-and-discovery pair",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.15/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.14.html">SN 35.14 &middot; Before My '
+        "Awakening (Exterior)</a> &mdash; the previous discourse, "
+        "closing this vagga's own first pair.",
+        '<a href="sn-35.16.html">SN 35.16 &middot; In Search of '
+        "Gratification (Exterior)</a> &mdash; the next discourse, "
+        "completing this vagga's own second pair.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.16 — Dutiyaassādapariyesanasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 16, "Dutiyaassādapariyesana", "In Search of Gratification "
+    "(Exterior)",
+    vagga="Yamakavagga",
+    meta_title="SN 35.16 — In Search of Gratification (Exterior) | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaassādapariyesanasutta &mdash; the same search-and-"
+        "discovery formula applied to the six exterior sense objects, "
+        "completing this vagga's own second pair. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha, by cross-reference to SN 35.15's "
+                     "own first-person frame"),
+        ("Form", "A peyyāla stub, giving only the opening line before "
+                 "eliding the rest to SN 35.15's own full treatment"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 35.15"),
+    ],
+    why=(
+        "This discourse completes this vagga's own second named pair, "
+        "applying SN 35.15's own search-and-discovery formula to the "
+        "six exterior sense objects, compressed to just the opening "
+        "line: \"I went in search of the gratification of sights, and "
+        "I found it …\""
+    ),
+    guide=[
+        ("The same search, redirected outward", [
+            "\"I went in search of the gratification of sights, and "
+            "I found it …\" &mdash; the identical opening as SN "
+            "35.15's own treatment of the eye, now applied to sights "
+            "instead.",
+        ]),
+        ("Everything past the opening line elided", [
+            "The remaining five sense objects, the drawback and "
+            "escape terms, and the closing awakening declaration are "
+            "all compressed here, trusting the reader to reconstruct "
+            "them from SN 35.15's own full treatment.",
+        ]),
+        ("Completing this vagga's own second named pair", [
+            "With this discourse, \"In Search of Gratification\" (SN "
+            "35.15&ndash;16) closes, the second of five interior-"
+            "exterior pairs this vagga works through.",
+        ]),
+        ("A genuine feature of transmission, not an omission", [
+            "As with other short peyyāla stubs elsewhere in this "
+            "project's coverage of the Saṃyutta Nikāya, this "
+            "discourse's brevity is quoted here exactly as the source "
+            "gives it rather than expanded into invented prose.",
+        ]),
+    ],
+    terms=[
+        ("pariyesana", "search &mdash; the same title-word as SN "
+                        "35.15, carried over by cross-reference"),
+        ("assāda", "gratification &mdash; the sole term named "
+                    "explicitly in this discourse's own surviving "
+                    "line"),
+        ("rūpa", "sights &mdash; the first exterior sense object "
+                  "named, standing in for all six"),
+        ("ādīnava", "drawback &mdash; implied but not restated, "
+                     "carried over from SN 35.15"),
+        ("peyyāla", "an elision mark &mdash; here compressing "
+                     "everything past the opening line"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.16:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's opening line describe?",
+         "opts": ["Searching for and finding the gratification of sights", "Searching for the drawback of sights only",
+                  "A rejection of SN 35.15's own claim", "An entirely unrelated search"],
+         "correct": 0,
+         "expl": "The identical opening as SN 35.15's own treatment of the eye, now applied to sights."},
+        {"q": "How much of SN 35.15's own content survives in this discourse?",
+         "opts": ["Only the opening line — the remaining sense objects, drawback, escape, and closing declaration are all elided",
+                  "The entire discourse, restated in full", "Only the closing declaration",
+                  "Nothing at all survives"],
+         "correct": 0,
+         "expl": "Trusting the reader to reconstruct the rest from SN 35.15's own full treatment."},
+        {"q": "What does this discourse complete?",
+         "opts": ["This vagga's own second named pair, \"In Search of Gratification\" (SN 35.15–16)",
+                  "The entire saṃyutta", "This vagga's own final pair", "A pair unrelated to SN 35.15"],
+         "correct": 0,
+         "expl": "The second of five interior-exterior pairs this vagga works through."},
+        {"q": "What does this reading guide do with this discourse's own brevity?",
+         "opts": ["Quotes it exactly as the source gives it, without fabricating the elided material",
+                  "Reconstructs the full treatment and presents it as this discourse's own text",
+                  "Skips the discourse entirely", "Invents new content unrelated to SN 35.15"],
+         "correct": 0,
+         "expl": "Consistent with this project's practice on other short peyyāla stubs."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses, though given here only by cross-reference."},
+    ],
+    marginalia=[
+        ("The same search, redirected", [
+            "gratification of sights, found &mdash;",
+            "the identical opening as SN 35.15",
+        ]),
+        ("Everything past the opening elided", [
+            "no further sense objects restated &mdash;",
+            "carried over by cross-reference alone",
+        ]),
+        ("A pair completed", [
+            "\"In Search of Gratification,\" both halves &mdash;",
+            "the second of five such pairs",
+        ]),
+        ("A genuine feature of transmission", [
+            "brevity itself the point &mdash;",
+            "not an omission introduced by this reading guide",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.16/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.15.html">SN 35.15 &middot; In Search of '
+        "Gratification (Interior)</a> &mdash; the previous discourse, "
+        "giving the full search-and-discovery treatment.",
+        '<a href="sn-35.17.html">SN 35.17 &middot; If There Were No '
+        "Gratification (Interior)</a> &mdash; the next discourse, "
+        "this vagga's own third named pair.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.17 — Paṭhamanoceassādasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 17, "Paṭhamanoceassāda", "If There Were No Gratification "
+    "(Interior)",
+    vagga="Yamakavagga",
+    meta_title="SN 35.17 — If There Were No Gratification (Interior) "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamanoceassādasutta &mdash; a counterfactual argument: "
+        "without gratification, drawback, and escape, sentient "
+        "beings couldn't be aroused, disillusioned, or freed by the "
+        "six interior sense fields. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A counterfactual argument &mdash; \"if there were "
+                 "no X, Y wouldn't happen; but since there is X, Y "
+                 "does happen\" &mdash; applied to all three terms of "
+                 "this vagga's own triad"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the counterfactual logic takes real attention "
+                       "to follow closely"),
+    ],
+    why=(
+        "This discourse opens this vagga's own third named pair with a "
+        "genuinely different logical move: rather than describing a "
+        "search or a question, it argues counterfactually. If the eye "
+        "had no gratification, sentient beings simply wouldn't be "
+        "drawn to it; but since gratification genuinely exists, they "
+        "are. The same conditional logic runs through drawback "
+        "(producing disillusionment) and escape (producing genuine "
+        "release), demonstrating that all three terms are real "
+        "features of experience, not arbitrary categories imposed on "
+        "it."
+    ),
+    guide=[
+        ("A counterfactual proof for each term in turn", [
+            "\"If there were no gratification in the eye, sentient "
+            "beings wouldn't be aroused by it. But since there is "
+            "gratification in the eye, sentient beings are aroused by "
+            "it\" &mdash; the same conditional structure repeated for "
+            "drawback (producing disillusionment) and escape "
+            "(producing genuine release).",
+        ]),
+        ("An argument from observed behavior to underlying reality", [
+            "Rather than simply asserting that gratification, "
+            "drawback, and escape exist, this discourse argues from "
+            "what beings actually do &mdash; being aroused, growing "
+            "disillusioned, escaping &mdash; back to the reality of "
+            "the three terms that must underlie those observable "
+            "behaviors.",
+        ]),
+        ("A different closing than SN 35.13's and SN 35.15's own", [
+            "This discourse closes not with the Buddha's own "
+            "personal awakening declaration but with a general claim "
+            "about all sentient beings: without this threefold "
+            "understanding, they haven't escaped the world; with it, "
+            "they live detached, liberated, with mind free of "
+            "boundaries.",
+        ]),
+        ("Third of this vagga's own five named pairs", [
+            "SN 35.18 will apply this identical counterfactual "
+            "argument to the exterior sense objects, compressed as "
+            "before, completing this vagga's own \"If There Were No "
+            "Gratification\" pair.",
+        ]),
+    ],
+    terms=[
+        ("assāda", "gratification &mdash; the first term this "
+                    "discourse's own counterfactual argument "
+                    "addresses"),
+        ("sattā abhinandanti", "\"sentient beings are aroused\" "
+                                "&mdash; the observable consequence "
+                                "of gratification's own genuine "
+                                "existence"),
+        ("nibbindanti", "\"grow disillusioned\" &mdash; the "
+                         "observable consequence of drawback's own "
+                         "genuine existence"),
+        ("nissaranti", "\"escape\" &mdash; the observable consequence "
+                        "of escape's own genuine existence, echoing "
+                        "the term nissaraṇa itself"),
+        ("visaṃyuttā vippamuttā vimariyādikatena cetasā", "\"detached, "
+                                                            "liberated, "
+                                                            "with mind "
+                                                            "free of "
+                                                            "boundaries\" "
+                                                            "&mdash; "
+                                                            "this "
+                                                            "discourse's "
+                                                            "own closing "
+                                                            "description "
+                                                            "of full "
+                                                            "understanding"),
+    ],
+    text_intro=("The complete discourse: the threefold counterfactual "
+        "argument applied to all six interior sense fields, closing "
+        "with the general claim about liberated beings. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.17:1.1-1.9"),
+        ("p", "&sect;2", "sn35.17:1.15-1.21"),
+        ("p", "&sect;3", "sn35.17:2.1-2.2"),
+    ],
+    quiz=[
+        {"q": "What kind of argument does this discourse make?",
+         "opts": ["A counterfactual argument: if there were no gratification, beings wouldn't be aroused; but since there is, they are",
+                  "A direct assertion with no supporting argument", "An argument from authority alone",
+                  "A rejection of gratification's own existence"],
+         "correct": 0,
+         "expl": "The same conditional structure repeated for drawback and escape."},
+        {"q": "What does this discourse argue from, to establish the reality of gratification, drawback, and escape?",
+         "opts": ["Observed behavior — beings being aroused, growing disillusioned, and escaping", "Scriptural authority alone",
+                  "A direct vision granted only to the Buddha", "Logical proof unrelated to observation"],
+         "correct": 0,
+         "expl": "Arguing from what beings actually do back to the reality underlying those behaviors."},
+        {"q": "How does this discourse's closing differ from SN 35.13's and SN 35.15's own?",
+         "opts": ["A general claim about all sentient beings, not the Buddha's own personal awakening declaration",
+                  "Identical to SN 35.13's own closing", "No closing statement at all",
+                  "A rejection of the earlier discourses' own claims"],
+         "correct": 0,
+         "expl": "Without this understanding, beings haven't escaped the world; with it, they live liberated."},
+        {"q": "What does this discourse open?",
+         "opts": ["This vagga's own third named pair, \"If There Were No Gratification\"",
+                  "This vagga's own final pair", "An entirely unrelated theme", "A pair with no counterpart discourse"],
+         "correct": 0,
+         "expl": "SN 35.18 will apply this same counterfactual argument to the exterior sense objects."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("A counterfactual, not a mere assertion", [
+            "\"if there were no gratification ...\" &mdash;",
+            "argued from what beings actually do",
+        ]),
+        ("Three terms, three observable consequences", [
+            "aroused, disillusioned, escaped &mdash;",
+            "each tracing back to a real underlying feature",
+        ]),
+        ("A different close than the first two pairs", [
+            "not the Buddha's own declaration &mdash;",
+            "a general claim about all liberated beings",
+        ]),
+        ("Third of five named pairs", [
+            "interior here, exterior next &mdash;",
+            "the counterfactual pair",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.17/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.16.html">SN 35.16 &middot; In Search of '
+        "Gratification (Exterior)</a> &mdash; the previous discourse, "
+        "closing this vagga's own second pair.",
+        '<a href="sn-35.18.html">SN 35.18 &middot; If There Were No '
+        "Gratification (Exterior)</a> &mdash; the next discourse, "
+        "completing this vagga's own third pair.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.18 — Dutiyanoceassādasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 18, "Dutiyanoceassāda", "If There Were No Gratification "
+    "(Exterior)",
+    vagga="Yamakavagga",
+    meta_title="SN 35.18 — If There Were No Gratification (Exterior) "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyanoceassādasutta &mdash; the same counterfactual "
+        "argument applied to the six exterior sense objects, "
+        "compressed to a single line. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha, by cross-reference to SN 35.17's "
+                     "own full argument"),
+        ("Form", "A peyyāla stub, the most compressed discourse in "
+                 "this vagga so far, reduced to a single line"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 35.17"),
+    ],
+    why=(
+        "This discourse completes this vagga's own third named pair, "
+        "compressed to the single most minimal shape yet seen in "
+        "Yamakavagga: only the opening conditional clause survives, "
+        "\"if there were no gratification in sights, sentient beings "
+        "wouldn't be aroused by them …\" &mdash; everything else, "
+        "including the drawback and escape halves of SN 35.17's own "
+        "argument, elided entirely."
+    ),
+    guide=[
+        ("The most minimal discourse in this vagga so far", [
+            "Where SN 35.14, SN 35.16, and this discourse each "
+            "compress, this one preserves only a single line "
+            "&mdash; not even completing the full gratification "
+            "clause's own \"but since there is …\" counterpart before "
+            "eliding to cross-reference.",
+        ]),
+        ("The identical counterfactual logic, redirected outward", [
+            "\"If there were no gratification in sights, sentient "
+            "beings wouldn't be aroused by them …\" &mdash; the same "
+            "conditional structure as SN 35.17's own opening clause, "
+            "now applied to sights instead of the eye.",
+        ]),
+        ("Completing this vagga's own third named pair", [
+            "With this discourse, \"If There Were No Gratification\" "
+            "(SN 35.17&ndash;18) closes, the third of five interior-"
+            "exterior pairs this vagga works through.",
+        ]),
+        ("A genuine feature of transmission, not an omission", [
+            "As with other short peyyāla stubs elsewhere in this "
+            "project's coverage of the Saṃyutta Nikāya, this "
+            "discourse's brevity is quoted here exactly as the source "
+            "gives it rather than expanded into invented prose.",
+        ]),
+    ],
+    terms=[
+        ("assāda", "gratification &mdash; the sole term explicitly "
+                    "named in this discourse's own single surviving "
+                    "line"),
+        ("rūpa", "sights &mdash; the first exterior sense object "
+                  "named, standing in for all six"),
+        ("abhinandanti", "\"are aroused\" &mdash; the observable "
+                          "consequence this discourse's own opening "
+                          "clause names"),
+        ("ādīnava", "drawback &mdash; implied but not restated, "
+                     "carried over from SN 35.17"),
+        ("peyyāla", "an elision mark &mdash; here compressing this "
+                     "vagga's own most minimal surviving discourse"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to a single opening clause. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.18:1.1"),
+    ],
+    quiz=[
+        {"q": "How much of this discourse survives in the source's own English translation?",
+         "opts": ["A single line — the most minimal discourse in this vagga so far",
+                  "The full counterfactual argument, restated in complete form", "Two full paragraphs",
+                  "Nothing at all survives"],
+         "correct": 0,
+         "expl": "Not even completing the full clause's own counterpart before eliding to cross-reference."},
+        {"q": "What does this discourse's single surviving line say?",
+         "opts": ["If there were no gratification in sights, sentient beings wouldn't be aroused by them",
+                  "The full drawback and escape argument for sights", "A rejection of SN 35.17's own claim",
+                  "An entirely unrelated statement"],
+         "correct": 0,
+         "expl": "The same conditional structure as SN 35.17's own opening clause, applied to sights."},
+        {"q": "What does this discourse complete?",
+         "opts": ["This vagga's own third named pair, \"If There Were No Gratification\" (SN 35.17–18)",
+                  "The entire saṃyutta", "This vagga's own final pair", "A pair unrelated to SN 35.17"],
+         "correct": 0,
+         "expl": "The third of five interior-exterior pairs this vagga works through."},
+        {"q": "What does this reading guide do with this discourse's own brevity?",
+         "opts": ["Quotes it exactly as the source gives it, without fabricating the elided material",
+                  "Reconstructs the full argument and presents it as this discourse's own text",
+                  "Skips the discourse entirely", "Invents new content unrelated to SN 35.17"],
+         "correct": 0,
+         "expl": "Consistent with this project's practice on other short peyyāla stubs."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses, though given here only by cross-reference."},
+    ],
+    marginalia=[
+        ("The most minimal discourse yet", [
+            "one line, no further restatement &mdash;",
+            "even less than SN 35.14's and 35.16's own",
+        ]),
+        ("The same counterfactual, redirected", [
+            "gratification in sights, its own arousal &mdash;",
+            "mirroring SN 35.17's own opening clause",
+        ]),
+        ("A pair completed", [
+            "\"If There Were No Gratification,\" both halves &mdash;",
+            "the third of five such pairs",
+        ]),
+        ("A genuine feature of transmission", [
+            "brevity itself the point &mdash;",
+            "not an omission introduced by this reading guide",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.18/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.17.html">SN 35.17 &middot; If There Were No '
+        "Gratification (Interior)</a> &mdash; the previous discourse, "
+        "giving the full counterfactual argument.",
+        '<a href="sn-35.19.html">SN 35.19 &middot; Taking Pleasure '
+        "(Interior)</a> &mdash; the next discourse, this vagga's own "
+        "fourth named pair.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.19 — Paṭhamābhinandasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 19, "Paṭhamābhinanda", "Taking Pleasure (Interior)",
+    vagga="Yamakavagga",
+    meta_title="SN 35.19 — Taking Pleasure (Interior) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamābhinandasutta &mdash; taking pleasure in the six "
+        "interior sense fields is taking pleasure in suffering "
+        "itself, stated and its own precise converse both given in "
+        "full. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A direct equation (pleasure in the senses equals "
+                 "pleasure in suffering) stated first positively, "
+                 "then in its own precise negative converse"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the equation is simple but its own "
+                       "implications repay reflection"),
+    ],
+    why=(
+        "This discourse opens this vagga's own fourth named pair with "
+        "its own sharpest, most compact claim yet: \"if you take "
+        "pleasure in the eye, you take pleasure in suffering. If you "
+        "take pleasure in suffering, you're not free from suffering, "
+        "I say.\" Unlike the earlier pairs' own gratification-"
+        "drawback-escape triad, this discourse collapses the "
+        "argument to a single equation, then states its own precise "
+        "converse: freedom from taking pleasure in the six sense "
+        "fields is freedom from suffering itself."
+    ),
+    guide=[
+        ("A direct equation, not a threefold analysis", [
+            "\"If you take pleasure in the eye, you take pleasure in "
+            "suffering\" &mdash; this discourse skips past the "
+            "gratification-drawback-escape structure entirely, "
+            "asserting instead that pleasure in a sense field simply "
+            "is pleasure in suffering, full stop.",
+        ]),
+        ("A conclusion following directly from the equation", [
+            "\"If you take pleasure in suffering, you're not free "
+            "from suffering, I say\" &mdash; the Buddha's own explicit "
+            "attribution (\"I say\") marking this as his own direct "
+            "claim, not a general observation.",
+        ]),
+        ("The precise converse, given in equally full detail", [
+            "Unlike most of this vagga's own discourses, which state "
+            "a claim and let its own opposite go unstated, this "
+            "discourse gives the negative converse in full: \"if you "
+            "don't take pleasure in the eye, you don't take pleasure "
+            "in suffering … you're free from suffering, I say.\"",
+        ]),
+        ("Fourth of this vagga's own five named pairs", [
+            "SN 35.20 will apply this identical positive-then-"
+            "negative structure to the exterior sense objects, "
+            "compressed as before, completing this vagga's own "
+            "\"Taking Pleasure\" pair.",
+        ]),
+    ],
+    terms=[
+        ("abhinandati", "to take pleasure in, to delight in &mdash; "
+                         "this discourse's own title-word, naming the "
+                         "act this equation concerns"),
+        ("dukkha", "suffering &mdash; what taking pleasure in a sense "
+                    "field is directly equated with here"),
+        ("na parimuccati dukkhasmā", "\"not free from suffering\" "
+                                      "&mdash; the direct consequence "
+                                      "of taking pleasure, stated as "
+                                      "the Buddha's own claim"),
+        ("parimuccati dukkhasmā", "\"free from suffering\" &mdash; "
+                                   "the direct consequence of not "
+                                   "taking pleasure, this discourse's "
+                                   "own precise converse"),
+        ("vadāmi", "\"I say\" &mdash; the Buddha's own explicit "
+                    "attribution, marking both halves of this "
+                    "equation as his direct claim"),
+    ],
+    text_intro=("The complete discourse: the positive equation and "
+        "its own precise negative converse, both applied to all six "
+        "interior sense fields. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.19:1.1-1.5"),
+        ("p", "&sect;2", "sn35.19:1.7-1.9"),
+        ("p", "&sect;3", "sn35.19:2.1-2.5"),
+        ("p", "&sect;4", "sn35.19:2.7-2.9"),
+    ],
+    quiz=[
+        {"q": "What direct equation does this discourse make?",
+         "opts": ["Taking pleasure in a sense field is taking pleasure in suffering itself",
+                  "Taking pleasure in a sense field leads to eventual liberation", "Suffering and gratification are entirely unrelated",
+                  "Only the eye, not the other five sense fields, produces suffering when enjoyed"],
+         "correct": 0,
+         "expl": "A direct equation, skipping past the gratification-drawback-escape structure entirely."},
+        {"q": "What phrase marks this as the Buddha's own direct claim?",
+         "opts": ["\"I say\" (vadāmi)", "\"Thus have I heard\"", "\"This is not mine, I am not this\"",
+                  "\"Let alone the present\""],
+         "correct": 0,
+         "expl": "Explicit attribution, appearing after both the positive and negative halves of the equation."},
+        {"q": "How does this discourse's own converse compare to most of this vagga's other discourses?",
+         "opts": ["It gives the negative converse in equally full detail, unlike most discourses which leave the opposite unstated",
+                  "It omits the converse entirely", "The converse directly contradicts the positive claim",
+                  "This discourse has no converse structure at all"],
+         "correct": 0,
+         "expl": "\"If you don't take pleasure ... you're free from suffering, I say.\""},
+        {"q": "What does this discourse open?",
+         "opts": ["This vagga's own fourth named pair, \"Taking Pleasure\"", "This vagga's own final pair",
+                  "An entirely unrelated theme", "A pair with no counterpart discourse"],
+         "correct": 0,
+         "expl": "SN 35.20 will apply this same structure to the exterior sense objects."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("A direct equation, not a triad", [
+            "pleasure in the senses equals pleasure in suffering &mdash;",
+            "no gratification-drawback-escape structure here",
+        ]),
+        ("\"I say\" — the Buddha's own claim", [
+            "explicit attribution, twice over &mdash;",
+            "marking both halves of the equation",
+        ]),
+        ("The converse, given in full", [
+            "not taking pleasure means freedom &mdash;",
+            "stated as fully as the positive claim",
+        ]),
+        ("Fourth of five named pairs", [
+            "interior here, exterior next &mdash;",
+            "the sharpest, most compact pair yet",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.19/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.18.html">SN 35.18 &middot; If There Were No '
+        "Gratification (Exterior)</a> &mdash; the previous discourse, "
+        "closing this vagga's own third pair.",
+        '<a href="sn-35.20.html">SN 35.20 &middot; Taking Pleasure '
+        "(Exterior)</a> &mdash; the next discourse, completing this "
+        "vagga's own fourth pair.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.20 — Dutiyābhinandasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 20, "Dutiyābhinanda", "Taking Pleasure (Exterior)",
+    vagga="Yamakavagga",
+    meta_title="SN 35.20 — Taking Pleasure (Exterior) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyābhinandasutta &mdash; the same pleasure-equals-"
+        "suffering equation applied to the six exterior sense "
+        "objects, compressed after SN 35.19's own full treatment. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha, by cross-reference to SN 35.19's "
+                     "own full equation"),
+        ("Form", "A peyyāla stub, giving only the positive equation's "
+                 "opening line before eliding the rest"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "understood only alongside SN 35.19"),
+    ],
+    why=(
+        "This discourse completes this vagga's own fourth named pair, "
+        "applying SN 35.19's own pleasure-equals-suffering equation to "
+        "the six exterior sense objects, compressed to the opening "
+        "positive claim alone: \"if you take pleasure in sights, you "
+        "take pleasure in suffering …\""
+    ),
+    guide=[
+        ("The same equation, redirected outward", [
+            "\"If you take pleasure in sights, you take pleasure in "
+            "suffering. If you take pleasure in suffering, you're not "
+            "free from suffering, I say\" &mdash; the identical "
+            "opening claim as SN 35.19's own treatment of the eye, "
+            "now applied to sights.",
+        ]),
+        ("The converse elided here, unlike SN 35.19's own full treatment", [
+            "Where SN 35.19 gave both the positive equation and its "
+            "own precise negative converse in equal detail, this "
+            "discourse compresses to the positive half alone, "
+            "trusting the reader to supply the converse from the "
+            "interior discourse.",
+        ]),
+        ("Completing this vagga's own fourth named pair", [
+            "With this discourse, \"Taking Pleasure\" (SN "
+            "35.19&ndash;20) closes, the fourth of five interior-"
+            "exterior pairs this vagga works through.",
+        ]),
+        ("Setting up this vagga's own final, genuinely unusual pair", [
+            "SN 35.21&ndash;22 will close this vagga with its own "
+            "fifth pair &mdash; and, unlike every pair so far, both "
+            "halves will be given in full rather than one compressed.",
+        ]),
+    ],
+    terms=[
+        ("abhinandati", "to take pleasure in &mdash; the same "
+                         "title-word as SN 35.19, carried over by "
+                         "cross-reference"),
+        ("dukkha", "suffering &mdash; what taking pleasure in sights "
+                    "is directly equated with"),
+        ("rūpa", "sights &mdash; the first exterior sense object "
+                  "named, standing in for all six"),
+        ("vadāmi", "\"I say\" &mdash; the Buddha's own explicit "
+                    "attribution, carried over from SN 35.19"),
+        ("peyyāla", "an elision mark &mdash; here compressing the "
+                     "remaining five sense objects and the entire "
+                     "negative converse half"),
+    ],
+    text_intro=("The discourse as the source itself preserves it, "
+        "compressed to its opening line. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.20:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's opening line claim?",
+         "opts": ["Taking pleasure in sights is taking pleasure in suffering", "Taking pleasure in sights leads to liberation",
+                  "Sights alone, unlike the other senses, produce no suffering", "A rejection of SN 35.19's own claim"],
+         "correct": 0,
+         "expl": "The identical opening claim as SN 35.19's own treatment of the eye, applied to sights."},
+        {"q": "What does this discourse elide, unlike SN 35.19's own full treatment?",
+         "opts": ["The entire negative converse half, given in full at SN 35.19", "The positive equation itself",
+                  "Nothing — this discourse is identical in length to SN 35.19", "The Buddha's own attribution, \"I say\""],
+         "correct": 0,
+         "expl": "Trusting the reader to supply the converse from the interior discourse."},
+        {"q": "What does this discourse complete?",
+         "opts": ["This vagga's own fourth named pair, \"Taking Pleasure\" (SN 35.19–20)",
+                  "The entire saṃyutta", "This vagga's own final pair", "A pair unrelated to SN 35.19"],
+         "correct": 0,
+         "expl": "The fourth of five interior-exterior pairs this vagga works through."},
+        {"q": "What makes the vagga's own fifth and final pair genuinely unusual, compared to the first four?",
+         "opts": ["Both interior and exterior halves will be given in full, unlike every pair so far",
+                  "It will be compressed even further than this discourse", "It introduces a sixth sense field",
+                  "It contradicts everything said in the first four pairs"],
+         "correct": 0,
+         "expl": "SN 35.21–22 will close this vagga with its own genuinely different treatment."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses, though given here only by cross-reference."},
+    ],
+    marginalia=[
+        ("The same equation, redirected", [
+            "pleasure in sights, pleasure in suffering &mdash;",
+            "mirroring SN 35.19's own opening claim",
+        ]),
+        ("The converse, elided this time", [
+            "not restated in full here &mdash;",
+            "carried over from SN 35.19 by cross-reference",
+        ]),
+        ("A pair completed", [
+            "\"Taking Pleasure,\" interior and exterior &mdash;",
+            "the fourth of five such pairs",
+        ]),
+        ("A genuinely different pair, just ahead", [
+            "both halves given in full this time &mdash;",
+            "closing this vagga at SN 35.21–22",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.20/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.19.html">SN 35.19 &middot; Taking Pleasure '
+        "(Interior)</a> &mdash; the previous discourse, giving both "
+        "the equation and its own precise converse.",
+        '<a href="sn-35.21.html">SN 35.21 &middot; The Arising of '
+        "Suffering (Interior)</a> &mdash; the next discourse, this "
+        "vagga's own fifth and final named pair.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.21 — Paṭhamadukkhuppādasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 21, "Paṭhamadukkhuppāda", "The Arising of Suffering (Interior)",
+    vagga="Yamakavagga",
+    meta_title="SN 35.21 — The Arising of Suffering (Interior) | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamadukkhuppādasutta &mdash; the arising of the six "
+        "interior sense fields is the arising of suffering itself, "
+        "their cessation is suffering's own cessation. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "Two matched claims, arising and cessation, each "
+                 "applied to all six interior sense fields in full"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the arising/cessation parallel rewards close "
+                       "reading"),
+    ],
+    why=(
+        "This discourse opens this vagga's own fifth and final named "
+        "pair, equating the very arising of the six interior sense "
+        "fields with the arising of suffering, disease, and old age "
+        "and death &mdash; and their cessation with the cessation of "
+        "all three. Unlike this vagga's own first four pairs, both "
+        "the interior discourse here and its exterior counterpart at "
+        "SN 35.22 are given in full, without compression &mdash; a "
+        "genuine structural break from the pattern this vagga has "
+        "otherwise held throughout."
+    ),
+    guide=[
+        ("Arising itself equated with suffering's own arising", [
+            "\"The arising, continuation, and manifestation and "
+            "regeneration of the eye is the arising of suffering, the "
+            "continuation of diseases, and the manifestation of old "
+            "age and death\" &mdash; not merely that the eye produces "
+            "suffering, but that the eye's own coming-into-being is "
+            "identical with suffering's own coming-into-being.",
+        ]),
+        ("Cessation given the identical structure, in full", [
+            "\"The cessation, settling, and disappearance of the eye "
+            "is the cessation of suffering, the settling of diseases, "
+            "and the disappearance of old age and death\" &mdash; the "
+            "precise mirror image of the arising claim, applied "
+            "identically across all six interior sense fields.",
+        ]),
+        ("A genuine structural break from this vagga's own pattern", [
+            "Every one of this vagga's first four pairs compressed "
+            "its own exterior half; this final pair breaks that "
+            "pattern, with SN 35.22 also given in full &mdash; "
+            "perhaps because this pair's own claim, equating the "
+            "senses' arising with suffering's arising, was judged "
+            "significant enough to warrant complete restatement on "
+            "both sides.",
+        ]),
+        ("This vagga's own fifth and final named pair", [
+            "SN 35.22 will complete \"The Arising of Suffering\" pair "
+            "for the exterior sense objects, closing this vagga's own "
+            "structure of five pairs (ten discourses) before its own "
+            "colophon and uddāna.",
+        ]),
+    ],
+    terms=[
+        ("uppāda", "arising &mdash; the first half of this "
+                    "discourse's own matched pair, equated directly "
+                    "with suffering's own arising"),
+        ("nirodha", "cessation &mdash; the second half, equated "
+                     "directly with suffering's own cessation"),
+        ("rogānaṁ ṭhiti", "\"the continuation of diseases\" &mdash; "
+                           "one of three parallel terms this "
+                           "discourse names alongside suffering "
+                           "itself"),
+        ("jarāmaraṇassa pātubhāvo", "\"the manifestation of old age "
+                                     "and death\" &mdash; the third "
+                                     "parallel term, closing the "
+                                     "arising half of this "
+                                     "discourse's own claim"),
+        ("abhinibbatti", "regeneration, or re-arising &mdash; one of "
+                          "four near-synonyms (arising, continuation, "
+                          "manifestation, regeneration) this "
+                          "discourse uses together to describe a "
+                          "sense field's own coming-into-being"),
+    ],
+    text_intro=("The complete discourse: the arising and cessation of "
+        "the six interior sense fields, each equated with suffering's "
+        "own arising and cessation. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.21:1.1-1.6"),
+        ("p", "&sect;2", "sn35.21:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What does this discourse equate with the very arising of the six interior sense fields?",
+         "opts": ["The arising of suffering, disease, and old age and death themselves",
+                  "The arising of liberation", "Nothing — arising is treated as neutral",
+                  "The arising of gratification alone"],
+         "correct": 0,
+         "expl": "Not merely that the senses produce suffering, but that their own coming-into-being is identical with suffering's own."},
+        {"q": "What does this discourse claim about the cessation of the six interior sense fields?",
+         "opts": ["It is identical with the cessation of suffering, disease, and old age and death",
+                  "Cessation is impossible", "Cessation produces further suffering", "Cessation applies only to the eye"],
+         "correct": 0,
+         "expl": "The precise mirror image of the arising claim."},
+        {"q": "What genuine structural break does this discourse's own pair represent?",
+         "opts": ["Unlike this vagga's first four pairs, both interior and exterior halves are given in full, without compression",
+                  "It is the only pair with no exterior counterpart at all", "It contradicts every earlier pair in this vagga",
+                  "It introduces a sixth sense field beyond the standard six"],
+         "correct": 0,
+         "expl": "SN 35.22 will also be given in full, unlike the compressed exterior discourses of the first four pairs."},
+        {"q": "What does this discourse open?",
+         "opts": ["This vagga's own fifth and final named pair, \"The Arising of Suffering\"",
+                  "This vagga's own first pair", "An entirely unrelated theme", "A pair with no counterpart discourse"],
+         "correct": 0,
+         "expl": "SN 35.22 will complete this pair, closing Yamakavagga's own full structure."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Rājagaha", "Vesālī", "Kapilavatthu"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's other discourses."},
+    ],
+    marginalia=[
+        ("Arising itself, equated with suffering", [
+            "not merely producing suffering &mdash;",
+            "the senses' own coming-into-being is suffering's",
+        ]),
+        ("Cessation, the precise mirror", [
+            "settling, disappearance, ending &mdash;",
+            "identical structure, opposite direction",
+        ]),
+        ("A structural break, at last", [
+            "both halves given in full this time &mdash;",
+            "unlike every one of the four pairs before it",
+        ]),
+        ("The vagga's own fifth and final pair", [
+            "interior here, exterior next &mdash;",
+            "closing Yamakavagga's own full structure",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.21/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.20.html">SN 35.20 &middot; Taking Pleasure '
+        "(Exterior)</a> &mdash; the previous discourse, closing this "
+        "vagga's own fourth pair.",
+        '<a href="sn-35.22.html">SN 35.22 &middot; The Arising of '
+        "Suffering (Exterior)</a> &mdash; the next and final "
+        "discourse, closing this entire vagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.22 — Dutiyadukkhuppādasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 22, "Dutiyadukkhuppāda", "The Arising of Suffering (Exterior)",
+    vagga="Yamakavagga",
+    meta_title="SN 35.22 — The Arising of Suffering (Exterior) | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyadukkhuppādasutta &mdash; the same arising/cessation "
+        "equation given in full for the six exterior sense objects, "
+        "closing Yamakavagga with its own colophon and uddāna. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The identical full arising/cessation treatment as "
+                 "SN 35.21, applied to the six exterior sense objects, "
+                 "closing with this vagga's own untranslated colophon "
+                 "and uddāna"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the arising/cessation parallel rewards close "
+                       "reading"),
+    ],
+    why=(
+        "This discourse closes Yamakavagga (\"the Chapter of Pairs\"), "
+        "Saḷāyatanasaṃyutta's own second vagga, giving the exterior "
+        "sense objects the identical full arising-equals-suffering, "
+        "cessation-equals-suffering's-cessation treatment as SN "
+        "35.21 &mdash; genuinely uncompressed, unlike every one of "
+        "this vagga's own four earlier exterior discourses. Bilara-"
+        "data itself carries this vagga's own untranslated Pāli "
+        "colophon (\"Yamakavaggo dutiyo\") and its own uddāna, which "
+        "explicitly names all five pairs by their own shared theme "
+        "and confirms the vagga's own name derives directly from its "
+        "own five-times-two structure."
+    ),
+    guide=[
+        ("The full treatment, held to the very end", [
+            "\"The arising, continuation, and manifestation and "
+            "regeneration of sights is the arising of suffering …\" "
+            "&mdash; genuinely uncompressed, matching SN 35.21's own "
+            "fullness rather than following the pattern of SN "
+            "35.14, 35.16, 35.18, and 35.20's own compressed shape.",
+        ]),
+        ("This vagga's own colophon and uddāna, untranslated", [
+            "Unlike SN 34.55's own genuinely translated closing "
+            "lines, this vagga's own colophon (\"Yamakavaggo "
+            "dutiyo,\" \"Yamakavagga, the second, finished\") and its "
+            "own uddāna are both left untranslated in the English "
+            "source, and are described here rather than quoted.",
+        ]),
+        ("The uddāna's own explicit confirmation of this vagga's design", [
+            "This vagga's own untranslated uddāna names all five "
+            "pairs by their shared theme &mdash; awakening, "
+            "gratification, the counterfactual, taking pleasure, and "
+            "arising &mdash; each explicitly marked \"duve\" (\"two\"), "
+            "and closes with \"vaggo tena pavuccati\" (\"thus the "
+            "vagga is so called\"), confirming this vagga's own name, "
+            "\"Pairs,\" derives directly from its five-times-two "
+            "structure.",
+        ]),
+        ("Ten discourses, five pairs, this vagga's own design complete", [
+            "With this discourse, Yamakavagga's own full ten-"
+            "discourse, five-pair structure stands confirmed: two "
+            "pairs compressed on their own exterior half only (SN "
+            "35.13&ndash;16), two more compressed the same way (SN "
+            "35.17&ndash;20), and one final pair given in full on "
+            "both sides (SN 35.21&ndash;22) &mdash; a genuine variation "
+            "this vagga's own compiler introduced at its own close.",
+        ]),
+    ],
+    terms=[
+        ("uppāda", "arising &mdash; the first half of this "
+                    "discourse's own matched pair, applied here to "
+                    "the exterior sense objects"),
+        ("nirodha", "cessation &mdash; the second half, the precise "
+                     "mirror of arising"),
+        ("Yamakavaggo dutiyo", "\"Yamakavagga, the second, "
+                                "finished\" &mdash; the untranslated "
+                                "vagga colophon closing this "
+                                "discourse"),
+        ("vaggo tena pavuccati", "\"thus the vagga is so called\" "
+                                  "&mdash; the uddāna's own closing "
+                                  "line, explicitly deriving this "
+                                  "vagga's name from its five-pair "
+                                  "structure"),
+        ("Sabbavagga", "\"the Chapter on Everything\" &mdash; this "
+                        "saṃyutta's own third vagga, opening next at "
+                        "SN 35.23"),
+    ],
+    text_intro=("The complete discourse, given in full to match SN "
+        "35.21's own treatment. This vagga's own untranslated colophon "
+        "and uddāna are described above rather than quoted, since the "
+        "source itself leaves them untranslated. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.22:1.1-1.6"),
+        ("p", "&sect;2", "sn35.22:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's treatment compare to SN 35.14's, 35.16's, 35.18's, and 35.20's own compressed shape?",
+         "opts": ["It is given in full, genuinely uncompressed, matching SN 35.21's own fullness",
+                  "It is even more compressed than those four discourses", "It is identical in compression to those four",
+                  "It omits the content entirely"],
+         "correct": 0,
+         "expl": "A genuine structural break, shared only with SN 35.21."},
+        {"q": "Is this vagga's own closing colophon translated in the source?",
+         "opts": ["No — \"Yamakavaggo dutiyo\" is left untranslated, described rather than quoted here",
+                  "Yes, fully translated and quoted verbatim", "Only partially translated",
+                  "No colophon exists for this vagga at all"],
+         "correct": 0,
+         "expl": "Unlike SN 34.55's own genuinely translated closing lines."},
+        {"q": "What does this vagga's own uddāna explicitly confirm?",
+         "opts": ["That the vagga's name, \"Pairs,\" derives directly from its own five-times-two structure",
+                  "That this saṃyutta has only one vagga total", "That this vagga contains twenty discourses, not ten",
+                  "Nothing about this vagga's own structure"],
+         "correct": 0,
+         "expl": "Naming all five pairs by theme, each marked \"duve\" (\"two\"), closing with \"thus the vagga is so called.\""},
+        {"q": "What overall pattern does Yamakavagga's own ten discourses confirm?",
+         "opts": ["Four pairs compressed on their own exterior half, one final pair given in full on both sides",
+                  "All five pairs compressed identically", "All five pairs given in full", "No discernible pattern at all"],
+         "correct": 0,
+         "expl": "A genuine variation this vagga's own compiler introduced at its own close."},
+        {"q": "What opens next, at SN 35.23?",
+         "opts": ["Sabbavagga (\"the Chapter on Everything\"), this saṃyutta's own third vagga",
+                  "A repeat of Yamakavagga's own ten discourses", "The saṃyutta's own closing discourse",
+                  "An entirely unrelated saṃyutta"],
+         "correct": 0,
+         "expl": "Sabbavagga also contains the pre-existing SN 35.28, requiring the fragile-junction treatment noted in this module's own header."},
+    ],
+    marginalia=[
+        ("Full treatment, held to the close", [
+            "sights, sounds, smells given in full &mdash;",
+            "matching SN 35.21's own fullness",
+        ]),
+        ("A colophon left untranslated", [
+            "\"Yamakavaggo dutiyo\" &mdash;",
+            "described here, not quoted verbatim",
+        ]),
+        ("The name explained by its own uddāna", [
+            "five pairs, each marked \"two\" &mdash;",
+            "\"thus the vagga is so called\"",
+        ]),
+        ("Ten discourses, a pattern with one late variation", [
+            "four pairs compressed, one given in full &mdash;",
+            "a genuine choice at this vagga's own close",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.22/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.21.html">SN 35.21 &middot; The Arising of '
+        "Suffering (Interior)</a> &mdash; the previous discourse, "
+        "giving the same full treatment.",
+        '<a href="sn-35.28.html">SN 35.28 &middot; Burning</a> '
+        "&mdash; already published on this site, sitting mid-vagga "
+        "inside Sabbavagga (SN 35.23&ndash;32), this saṃyutta's own "
+        "third vagga, opening next.",
+    ],
+)
