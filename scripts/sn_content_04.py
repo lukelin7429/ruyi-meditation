@@ -36,10 +36,15 @@ INDEX_HEADING = "IV. Saḷāyatanavagga — The Book of the Six Sense Fields"
 # this module currently covers -- moved forward as later vaggas are
 # completed, exactly as sn_content_01.py's, sn_content_02.py's, and
 # sn_content_03.py's own TAIL were moved across the course of Books
-# I-III. It starts at SN 35.28, the nearest already-published page
-# beyond Aniccavagga (SN 35.1-12).
+# I-III. It started at SN 35.28, the nearest already-published page
+# beyond Aniccavagga (SN 35.1-12); now that Sabbavagga (SN 35.23-32,
+# including SN 35.28 itself, mid-vagga) is fully generated, SN 35.28
+# is absorbed into this module's own PAGES sequence (hand-patched, not
+# auto-chained -- see the fragile-junction note above) and TAIL moves
+# to SN 36.6, the next already-published page beyond this module's own
+# current coverage.
 HEAD = ("sn-34.55.html", "SN 34.55 &middot; Persistence and What&rsquo;s Conducive")
-TAIL = ("sn-35.28.html", "SN 35.28 &middot; Burning")
+TAIL = ("sn-36.6.html", "SN 36.6 &middot; An Arrow")
 INDEX_EXTRA = [
     ("sn-35.28", "Āditta", "Burning"),
     ("sn-36.6", "Sallatha", "An Arrow"),
@@ -3493,5 +3498,1485 @@ page(
         "&mdash; already published on this site, sitting mid-vagga "
         "inside Sabbavagga (SN 35.23&ndash;32), this saṃyutta's own "
         "third vagga, opening next.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.23 — Sabbasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 23, "Sabba", "The All",
+    vagga="Sabbavagga",
+    meta_title="SN 35.23 — The All | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sabbasutta, opening Sabbavagga with the Buddha's own "
+        "definition of \"the all\" as nothing more than the six "
+        "interior sense fields paired with their six exterior "
+        "objects &mdash; and a challenge to anyone who would claim a "
+        "different one. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A short definitional discourse, closing with a "
+                 "direct challenge to anyone who would propose a "
+                 "different \"all\""),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a single, compact claim with a sharp edge"),
+    ],
+    why=(
+        "This discourse opens Sabbavagga (\"the Chapter on "
+        "Everything\"), Saḷāyatanasaṃyutta's own third vagga, and "
+        "gives the vagga its own name directly: sabba, \"the all.\" "
+        "Where Aniccavagga opened with a fourfold matrix and "
+        "Yamakavagga with a threefold gratification-drawback-escape "
+        "analysis, this discourse instead states outright what "
+        "\"the all\" names for the Buddha's own purposes &mdash; and "
+        "forecloses, in advance, any attempt to substitute a "
+        "different one."
+    ),
+    guide=[
+        ("\"The all\", defined by exhaustive enumeration", [
+            "Twelve items, no more and no fewer: the eye and sights, "
+            "the ear and sounds, the nose and smells, the tongue and "
+            "tastes, the body and touches, and the mind and ideas. "
+            "\"This is called the all,\" the discourse states flatly "
+            "&mdash; a deliberately narrow definition that makes no "
+            "claim to describe the universe in some cosmological "
+            "sense, only the total range of what can be known through "
+            "the six sense doors.",
+        ]),
+        ("A boundary-setting claim, not merely a descriptive one", [
+            "The discourse's own closing lines go further than simple "
+            "definition: anyone who said, \"I'll deny this all and "
+            "describe another all,\" would have no grounds for the "
+            "claim, would be stumped by questions, and would end up "
+            "frustrated &mdash; \"because they're out of their own "
+            "element\" (avisayasmiṃ, literally outside their own "
+            "domain or range). The Buddha isn't only proposing a "
+            "definition here; he's ruling out alternatives in "
+            "advance.",
+        ]),
+        ("This vagga's own name, supplied by its own first discourse", [
+            "Unlike Naḷavagga, whose name came from its own closing "
+            "simile, or Nandanavagga and Sattivagga, whose names came "
+            "from images in their own opening lines, Sabbavagga takes "
+            "its name from this discourse's own central term, stated "
+            "outright in its own first substantive sentence &mdash; a "
+            "third distinct pattern for how a vagga's own name can "
+            "arise from its own content.",
+        ]),
+        ("A single claim, opening a much longer investigation", [
+            "The nine discourses that follow build directly on this "
+            "exact twelve-item schema, applying it with progressively "
+            "richer vocabulary: what should be given up, how it "
+            "should be understood, what happens when it isn't, and "
+            "what it means to stop conceiving anything about it at "
+            "all.",
+        ]),
+    ],
+    terms=[
+        ("sabba", "\"the all\" &mdash; this discourse's own title "
+                   "term, and this vagga's own name"),
+        ("cakkhuñceva rūpā ca", "\"the eye and sights\" &mdash; the "
+                                  "first of six paired items making "
+                                  "up the enumeration"),
+        ("avisayasmiṃ", "\"out of one's own element,\" or \"outside "
+                          "one's own domain\" &mdash; the reason given "
+                          "for why any alternative \"all\" must fail"),
+        ("vācāvatthu", "\"grounds for a claim\" (literally, \"a basis "
+                         "for speech\") &mdash; what the proponent of "
+                         "a different \"all\" would lack"),
+        ("sotañca saddā ca", "\"the ear and sounds\" &mdash; the "
+                               "second of six paired items in this "
+                               "discourse's own enumeration"),
+    ],
+    text_intro=("The complete discourse: the definition of \"the "
+        "all,\" and the challenge to anyone who would propose a "
+        "different one. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.23:1.1-1.6"),
+        ("p", "&sect;2", "sn35.23:1.7-1.11"),
+    ],
+    quiz=[
+        {"q": "What twelve items make up \"the all\" in this discourse's own definition?",
+         "opts": ["The eye and sights, ear and sounds, nose and smells, tongue and tastes, body and touches, and mind and ideas",
+                  "The five aggregates and consciousness", "The four elements and space", "The three characteristics"],
+         "correct": 0,
+         "expl": "A deliberately narrow definition, limited to what can be known through the six sense doors."},
+        {"q": "What happens, according to this discourse, to someone who claims a different \"all\"?",
+         "opts": ["They'd have no grounds for the claim, be stumped by questions, and end up frustrated",
+                  "They would be praised for their originality", "The mendicants would immediately refute them in debate",
+                  "Nothing — the Buddha allows for other definitions of \"all\""],
+         "correct": 0,
+         "expl": "Because, the text says, \"they're out of their own element.\""},
+        {"q": "What does avisayasmiṃ mean, and what does it explain?",
+         "opts": ["\"Out of one's own element\" — the reason an alternative \"all\" must fail",
+                  "\"Beyond doubt\" — confirming the definition's own certainty", "\"Without limit\" — describing the all's own scope",
+                  "\"By convention\" — describing how the definition was reached"],
+         "correct": 0,
+         "expl": "Literally, outside one's own domain or range."},
+        {"q": "How does Sabbavagga's own naming pattern compare to Naḷavagga's and Nandanavagga's?",
+         "opts": ["A third distinct pattern — the name comes from this discourse's own central term, stated in its own first substantive sentence",
+                  "Identical to Naḷavagga's own closing-simile pattern", "Identical to Nandanavagga's own opening-image pattern",
+                  "This vagga has no discernible naming pattern"],
+         "correct": 0,
+         "expl": "Naḷavagga's name came from a closing simile; Nandanavagga's and Sattivagga's from an opening image."},
+        {"q": "What do the nine discourses that follow do with this twelve-item schema?",
+         "opts": ["Build directly on it, applying progressively richer vocabulary — giving up, understanding, and no longer conceiving",
+                  "Abandon it entirely for a new list", "Reduce it to a six-item list", "Apply it only to future, not present, experience"],
+         "correct": 0,
+         "expl": "This discourse's own definition becomes the shared foundation for the rest of Sabbavagga."},
+    ],
+    marginalia=[
+        ("Twelve items, no more", [
+            "eye and sights, ear and sounds &mdash;",
+            "the total range of the knowable",
+        ]),
+        ("A claim that forecloses its own alternatives", [
+            "stumped by questions, frustrated &mdash;",
+            "\"out of their own element\"",
+        ]),
+        ("A vagga named by its own first line", [
+            "not a closing simile, not an opening image &mdash;",
+            "the term itself, stated outright",
+        ]),
+        ("Nine discourses yet to come", [
+            "a single claim, a long investigation &mdash;",
+            "given up, understood, no longer conceived",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.23/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.22.html">SN 35.22 &middot; The Arising of '
+        "Suffering (Exterior)</a> &mdash; the previous discourse, "
+        "closing Yamakavagga.",
+        '<a href="sn-35.24.html">SN 35.24 &middot; Giving Up</a> '
+        "&mdash; the next discourse, applying this same twelve-item "
+        "schema to what should be relinquished.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.24 — Pahānasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 24, "Pahāna", "Giving Up",
+    vagga="Sabbavagga",
+    meta_title="SN 35.24 — Giving Up | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pahānasutta, applying Sabbavagga's own opening "
+        "definition of \"the all\" to a genuinely more granular, "
+        "five-part-per-sense schema, each part prescribed for "
+        "giving up. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single prescriptive formula, repeated across a "
+                 "five-part breakdown of all six sense fields"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single repeated formula"),
+    ],
+    why=(
+        "This discourse takes SN 35.23's own twelve-item \"all\" and "
+        "reworks it into a genuinely more granular schema: each "
+        "sense field is broken into five parts &mdash; the base "
+        "itself, its object, the consciousness it gives rise to, the "
+        "contact built from all three, and the feeling that arises "
+        "dependent on that contact &mdash; thirty items in total, "
+        "each one prescribed, flatly, for giving up."
+    ),
+    guide=[
+        ("From twelve items to a five-part breakdown per sense", [
+            "Where SN 35.23 named only the sense base and its object "
+            "(\"the eye and sights\"), this discourse expands each "
+            "sense field into five: the eye, sights, eye "
+            "consciousness, eye contact, and the painful, pleasant, "
+            "or neutral feeling that arises dependent on eye contact "
+            "&mdash; and the same five-part breakdown for each of the "
+            "remaining five sense fields, thirty items altogether.",
+        ]),
+        ("A single imperative, repeated exactly thirty times", [
+            "Pahātabbaṁ, \"should be given up\" &mdash; the same verb "
+            "applied without variation to every one of the thirty "
+            "items, compressed in the source with peyyāla ellipsis "
+            "for the ear, nose, tongue, and body once the pattern is "
+            "established for the eye.",
+        ]),
+        ("Setting up this trio's own next refinement", [
+            "SN 35.25 will repeat this exact formula, adding only one "
+            "phrase &mdash; \"by direct knowledge and complete "
+            "understanding\" &mdash; turning a bare instruction to "
+            "relinquish into a claim about how that relinquishing "
+            "must be grounded.",
+        ]),
+    ],
+    terms=[
+        ("pahātabbaṁ", "\"should be given up\" &mdash; this "
+                        "discourse's own single repeated imperative"),
+        ("cakkhusamphasso", "eye contact &mdash; the fourth of five "
+                              "parts in this discourse's own "
+                              "breakdown of each sense field"),
+        ("vedayitaṁ", "\"what is felt\" &mdash; the fifth part, the "
+                        "feeling that arises dependent on contact"),
+        ("sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā", "\"pleasant, "
+            "painful, or neutral\" &mdash; the threefold classification "
+            "of that feeling"),
+        ("cakkhuviññāṇaṁ", "eye consciousness &mdash; the third of "
+                             "five parts in this discourse's own "
+                             "breakdown of each sense field"),
+    ],
+    text_intro=("The complete discourse, with the ear, nose, tongue, "
+        "and body sections compressed in the source once the pattern "
+        "is established for the eye. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.24:1.1-1.3"),
+        ("p", "&sect;2", "sn35.24:1.4-1.8"),
+        ("p", "&sect;3", "sn35.24:1.9-1.9"),
+    ],
+    quiz=[
+        {"q": "How many parts does this discourse break each sense field into, and what are they?",
+         "opts": ["Five — the base, its object, its consciousness, its contact, and the feeling arising from that contact",
+                  "Two — the base and its object, as in SN 35.23", "Three — past, present, and future",
+                  "Six — adding a separate category for \"mind\" itself"],
+         "correct": 0,
+         "expl": "A genuinely more granular schema than SN 35.23's own twelve-item pairing."},
+        {"q": "What single verb governs every one of the thirty items in this discourse?",
+         "opts": ["Pahātabbaṁ, \"should be given up\"", "Maññati, \"conceives\"",
+                  "Nibbindati, \"grows disillusioned\"", "Jānāti, \"knows\""],
+         "correct": 0,
+         "expl": "Applied without variation across all thirty items."},
+        {"q": "How is the ear, nose, tongue, and body section handled in the source?",
+         "opts": ["Compressed with peyyāla ellipsis, once the pattern is established for the eye",
+                  "Given in full, identically to the eye section", "Omitted entirely from the discourse",
+                  "Replaced with a summary table"],
+         "correct": 0,
+         "expl": "A standard compression device, once the formula's shape is clear."},
+        {"q": "What single addition will SN 35.25 make to this exact formula?",
+         "opts": ["\"By direct knowledge and complete understanding\"", "A fourth new sense field",
+                  "A denial that giving up is possible", "A first-person narrative frame"],
+         "correct": 0,
+         "expl": "Turning a bare instruction to relinquish into a claim about how that relinquishing must be grounded."},
+        {"q": "What is vedayitaṁ, the fifth part of this discourse's own breakdown?",
+         "opts": ["The feeling — pleasant, painful, or neutral — that arises dependent on contact",
+                  "The sense consciousness itself", "The physical sense organ", "The external object"],
+         "correct": 0,
+         "expl": "Classified threefold: pleasant, painful, or neutral."},
+    ],
+    marginalia=[
+        ("A dozen becomes thirty", [
+            "base, object, consciousness, contact, feeling &mdash;",
+            "five parts for each of six sense fields",
+        ]),
+        ("One verb, unvaried", [
+            "pahātabbaṁ, pahātabbaṁ, pahātabbaṁ &mdash;",
+            "should be given up, should be given up",
+        ]),
+        ("A formula waiting for its own refinement", [
+            "next comes the same list again &mdash;",
+            "with one phrase added",
+        ]),
+        ("Five parts, not two", [
+            "base, object, consciousness, contact, feeling &mdash;",
+            "a finer grain than SN 35.23's own pairing",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.24/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.23.html">SN 35.23 &middot; The All</a> '
+        "&mdash; the previous discourse, supplying the twelve-item "
+        "definition this discourse expands.",
+        '<a href="sn-35.25.html">SN 35.25 &middot; Giving Up by '
+        "Direct Knowledge and Complete Understanding</a> &mdash; the "
+        "next discourse, repeating this exact formula with one "
+        "phrase added.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.25 — Abhiññāpariññāpahānasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 25, "Abhiññāpariññāpahāna",
+    "Giving Up by Direct Knowledge and Complete Understanding",
+    vagga="Sabbavagga",
+    meta_title="SN 35.25 — Giving Up by Direct Knowledge and Complete "
+                "Understanding | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Abhiññāpariññāpahānasutta, repeating SN 35.24's own "
+        "thirty-item formula with a single phrase added &mdash; "
+        "grounding the instruction to give up in direct knowledge "
+        "and complete understanding. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The same single formula as SN 35.24, repeated with "
+                 "one phrase added throughout"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single repeated formula, one phrase richer "
+                       "than SN 35.24's own"),
+    ],
+    why=(
+        "This discourse takes SN 35.24's own thirty-item \"should be "
+        "given up\" formula and inserts a single addition into every "
+        "instance of it: \"by direct knowledge and complete "
+        "understanding\" (abhiññā pariññā). The claim is no longer "
+        "simply that the all should be relinquished, but that this "
+        "relinquishing must itself be grounded in a specific kind of "
+        "knowing &mdash; introducing the exact two-term pair that "
+        "structures this trio's own next pair of discourses (SN "
+        "35.26&ndash;27)."
+    ),
+    guide=[
+        ("The same thirty-item schema, word for word", [
+            "Every item from SN 35.24 &mdash; the base, its object, "
+            "its consciousness, its contact, and the feeling arising "
+            "from that contact, across all six sense fields &mdash; "
+            "reappears here unchanged, down to the same peyyāla "
+            "compression for the ear, nose, tongue, and body.",
+        ]),
+        ("One addition: abhiññā pariññā", [
+            "\"Direct knowledge\" (abhiññā) and \"complete "
+            "understanding\" (pariññā), inserted before pahātabbaṁ "
+            "throughout: not \"the eye should be given up\" but \"the "
+            "eye should be given up by direct knowledge and complete "
+            "understanding.\" A single phrase, repeated thirty times, "
+            "changes the character of the instruction from a bare "
+            "imperative to a claim about the epistemic work that "
+            "relinquishing requires.",
+        ]),
+        ("An escalation across this trio's own first three discourses", [
+            "SN 35.23 defines the all; SN 35.24 says it should be "
+            "given up; this discourse says it should be given up by "
+            "direct knowledge and complete understanding &mdash; not "
+            "renunciation for its own sake, but renunciation grounded "
+            "in a specific, named kind of knowing, which the next "
+            "pair of discourses (SN 35.26&ndash;27) will turn into a "
+            "diagnostic.",
+        ]),
+    ],
+    terms=[
+        ("abhiññā", "direct knowledge &mdash; the first of two terms "
+                     "added to SN 35.24's own single verb"),
+        ("pariññā", "complete understanding &mdash; the second added "
+                     "term, paired with abhiññā throughout"),
+        ("pahātabbaṁ", "\"should be given up\" &mdash; the verb "
+                        "carried over unchanged from SN 35.24"),
+        ("cakkhusamphasso", "eye contact &mdash; the fourth part of "
+                              "the same five-part schema carried over "
+                              "from SN 35.24"),
+        ("vedayitaṁ", "\"what is felt\" &mdash; the fifth part, now "
+                        "also qualified \"by direct knowledge and "
+                        "complete understanding\""),
+    ],
+    text_intro=("The complete discourse, with the same peyyāla "
+        "compression as SN 35.24 for the ear, nose, tongue, and "
+        "body. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.25:1.1-1.3"),
+        ("p", "&sect;2", "sn35.25:1.4-1.8"),
+        ("p", "&sect;3", "sn35.25:1.9-1.9"),
+    ],
+    quiz=[
+        {"q": "What single change distinguishes this discourse's own formula from SN 35.24's?",
+         "opts": ["The addition of \"by direct knowledge and complete understanding\" to every instance of the verb",
+                  "A reduction from thirty items to twelve", "The introduction of a first-person narrative frame",
+                  "A denial that giving up is actually possible"],
+         "correct": 0,
+         "expl": "The same thirty-item schema, with abhiññā pariññā added throughout."},
+        {"q": "What do abhiññā and pariññā mean, and how are they used here?",
+         "opts": ["\"Direct knowledge\" and \"complete understanding\" — the grounds on which giving up must rest",
+                  "\"Doubt\" and \"certainty\" — a contrasting pair", "Two different sense fields not covered by SN 35.24",
+                  "Two different classes of feeling"],
+         "correct": 0,
+         "expl": "Inserted before pahātabbaṁ throughout, turning a bare imperative into an epistemically grounded one."},
+        {"q": "How does this discourse's own claim escalate beyond SN 35.24's?",
+         "opts": ["Not renunciation for its own sake, but renunciation grounded in a specific, named kind of knowing",
+                  "It reverses SN 35.24's own claim entirely", "It applies only to advanced practitioners",
+                  "It removes the requirement to give anything up at all"],
+         "correct": 0,
+         "expl": "Setting up SN 35.26–27's own diagnostic use of this exact same pair of terms."},
+        {"q": "How is the ear, nose, tongue, and body section handled here?",
+         "opts": ["Compressed with the same peyyāla ellipsis used in SN 35.24",
+                  "Given in full, unlike SN 35.24's own compression", "Omitted entirely",
+                  "Replaced with a cross-reference to SN 35.23"],
+         "correct": 0,
+         "expl": "The identical compression device, once the formula's shape is established for the eye."},
+        {"q": "What do the next two discourses of this trio (SN 35.26–27) do with abhiññā and pariññā?",
+         "opts": ["Turn them into a diagnostic — what happens without them applied to the all",
+                  "Drop them entirely and return to SN 35.23's own bare definition", "Apply them only to feeling, not the other four parts",
+                  "Replace them with an entirely different pair of terms"],
+         "correct": 0,
+         "expl": "SN 35.26–27 invert this discourse's own positive prescription into a negative-and-positive diagnostic pair."},
+    ],
+    marginalia=[
+        ("Thirty items, one phrase added", [
+            "not simply given up &mdash;",
+            "given up by direct knowledge, complete understanding",
+        ]),
+        ("A pair of terms that will return", [
+            "abhiññā, pariññā &mdash;",
+            "the next two discourses' own diagnostic hinge",
+        ]),
+        ("Renunciation, epistemically grounded", [
+            "not relinquishing for its own sake &mdash;",
+            "relinquishing that knows what it relinquishes",
+        ]),
+        ("The same thirty items, once more", [
+            "eye, sights, consciousness, contact, feeling &mdash;",
+            "unchanged, save for one added phrase",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.25/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.24.html">SN 35.24 &middot; Giving Up</a> '
+        "&mdash; the previous discourse, supplying the exact formula "
+        "this discourse adds one phrase to.",
+        '<a href="sn-35.26.html">SN 35.26 &middot; Without Completely '
+        "Understanding (1st)</a> &mdash; the next discourse, turning "
+        "abhiññā and pariññā into a diagnostic.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.26 — Paṭhamaaparijānanasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 26, "Paṭhamaaparijānana", "Without Completely Understanding (1st)",
+    vagga="Sabbavagga",
+    meta_title="SN 35.26 — Without Completely Understanding (1st) | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamaaparijānanasutta, inverting this trio's own "
+        "positive prescription into a two-part negative-and-positive "
+        "diagnostic built on a genuinely new fourfold verb chain. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A two-part diagnostic — first the negative "
+                 "condition, then its exact positive mirror — applied "
+                 "to the same thirty-item schema as SN 35.24&ndash;25"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a genuinely new fourfold verb chain"),
+    ],
+    why=(
+        "This discourse opens Sabbavagga's own second pair, and "
+        "inverts SN 35.24&ndash;25's own positive prescription "
+        "(\"should be given up\") into a two-part diagnostic: first "
+        "the negative condition &mdash; without a fourfold work "
+        "applied to the all, suffering cannot end &mdash; then its "
+        "exact positive mirror. The fourfold verb chain introduced "
+        "here (directly knowing, completely understanding, having "
+        "dispassion for, and giving up) is genuinely richer than "
+        "anything used earlier in this vagga."
+    ),
+    guide=[
+        ("A two-part structure: negative condition, then positive mirror", [
+            "The first half states flatly: \"without directly knowing "
+            "and completely understanding the all, without dispassion "
+            "for it and giving it up, you can't end suffering\" "
+            "&mdash; applied to each of the same thirty items SN "
+            "35.24&ndash;25 already used. The second half restates "
+            "the identical list with every negation reversed: \"by "
+            "directly knowing and completely understanding the all, "
+            "having dispassion for it and giving it up, you can end "
+            "suffering.\"",
+        ]),
+        ("A fourfold verb chain, new to this vagga", [
+            "Abhijānaṁ (directly knowing), parijānaṁ (completely "
+            "understanding), virāgā (having dispassion), and pajahaṁ "
+            "(giving up) &mdash; four operations, not SN 35.24's own "
+            "single \"give up\" or SN 35.25's compound \"give up by "
+            "direct knowledge and understanding.\" This is the "
+            "richest diagnostic vocabulary this vagga has used so "
+            "far.",
+        ]),
+        ("The stakes stated explicitly: dukkhakkhayāya", [
+            "Where SN 35.23&ndash;25 stated instructions without "
+            "naming their own outcome, this discourse names it "
+            "directly: dukkhakkhayāya, \"for the ending of "
+            "suffering\" &mdash; the fourfold work is not free-"
+            "standing advice but the explicit condition for ending "
+            "suffering at all.",
+        ]),
+        ("Paired with SN 35.27, which follows immediately", [
+            "This discourse's own title carries \"(1st)\"; SN 35.27 "
+            "repeats its exact two-part structure and fourfold verb "
+            "chain, changing only the definition of \"the all\" "
+            "itself.",
+        ]),
+    ],
+    terms=[
+        ("anabhijānaṁ", "not directly knowing &mdash; the first term "
+                          "of this discourse's own fourfold negative "
+                          "chain"),
+        ("aparijānaṁ", "not completely understanding &mdash; the "
+                         "second term, and this discourse's own "
+                         "title word"),
+        ("avirājayaṁ", "without dispassion &mdash; the third term"),
+        ("appajahaṁ", "not giving up &mdash; the fourth term"),
+        ("dukkhakkhayāya", "\"for the ending of suffering\" &mdash; "
+                             "the explicit stakes this discourse "
+                             "names for its own fourfold work"),
+    ],
+    text_intro=("The complete discourse: the negative condition, "
+        "then its exact positive mirror, both applied to the same "
+        "thirty-item schema used since SN 35.24. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.26:1.1-1.19"),
+        ("p", "&sect;2", "sn35.26:2.1-2.19"),
+    ],
+    quiz=[
+        {"q": "What two-part structure does this discourse use?",
+         "opts": ["A negative condition (suffering can't end without the fourfold work), then its exact positive mirror",
+                  "A single positive instruction, as in SN 35.24", "A first-person narrative, as in SN 35.28",
+                  "A direct question-and-answer catechism"],
+         "correct": 0,
+         "expl": "The identical thirty-item list restated twice, with every negation reversed the second time."},
+        {"q": "What four terms make up this discourse's own new verb chain?",
+         "opts": ["Directly knowing, completely understanding, having dispassion for, and giving up",
+                  "Seeing, hearing, smelling, and tasting", "Gratification, drawback, escape, and equanimity",
+                  "Conceiving as, conceiving in, conceiving from, and conceiving as mine"],
+         "correct": 0,
+         "expl": "Richer than SN 35.24's own single \"give up\" or SN 35.25's compound \"give up by direct knowledge and understanding.\""},
+        {"q": "What explicit stakes does this discourse name for its own fourfold work?",
+         "opts": ["Dukkhakkhayāya — \"for the ending of suffering\"", "Rebirth in a heavenly realm",
+                  "Acquiring supernormal powers", "Approval from the mendicant community"],
+         "correct": 0,
+         "expl": "Unlike SN 35.23–25, which stated instructions without naming this outcome explicitly."},
+        {"q": "What does this discourse's own title term, aparijānaṁ, mean?",
+         "opts": ["Not completely understanding", "Not directly knowing", "Without dispassion", "Not giving up"],
+         "correct": 0,
+         "expl": "The second term in the fourfold negative chain, and the discourse's own title word."},
+        {"q": "How does SN 35.27, which follows immediately, relate to this discourse?",
+         "opts": ["It repeats this exact two-part structure and fourfold verb chain, changing only the definition of \"the all\"",
+                  "It abandons this discourse's own structure entirely", "It applies only to the positive half, dropping the negative",
+                  "It returns to SN 35.23's own bare twelve-item definition unchanged"],
+         "correct": 0,
+         "expl": "Marked \"(1st)\" here and \"(2nd)\" there — a genuine pair."},
+    ],
+    marginalia=[
+        ("Two halves, exact mirrors", [
+            "without this fourfold work, no ending &mdash;",
+            "with it, suffering ends",
+        ]),
+        ("Four verbs, richer than before", [
+            "directly know, understand, grow dispassionate, give up &mdash;",
+            "this vagga's own densest chain yet",
+        ]),
+        ("Named stakes", [
+            "dukkhakkhayāya &mdash;",
+            "for the ending of suffering, stated outright",
+        ]),
+        ("A pair, waiting for its own twin", [
+            "\"(1st)\" in this discourse's own title &mdash;",
+            "SN 35.27 repeats the structure, changes the scope",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.26/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.25.html">SN 35.25 &middot; Giving Up by '
+        "Direct Knowledge and Complete Understanding</a> &mdash; the "
+        "previous discourse, supplying abhiññā and pariññā, now put "
+        "to diagnostic use.",
+        '<a href="sn-35.27.html">SN 35.27 &middot; Without Completely '
+        "Understanding (2nd)</a> &mdash; the next discourse, repeating "
+        "this exact structure with a leaner definition of \"the "
+        "all.\"",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.27 — Dutiyaaparijānanasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 27, "Dutiyaaparijānana", "Without Completely Understanding (2nd)",
+    vagga="Sabbavagga",
+    meta_title="SN 35.27 — Without Completely Understanding (2nd) | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaaparijānanasutta, repeating SN 35.26's own "
+        "two-part diagnostic and fourfold verb chain word for word, "
+        "but with a leaner, four-item definition of \"the all.\" "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "SN 35.26's own two-part diagnostic, repeated with a "
+                 "leaner four-item definition of \"the all\""),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the same diagnostic as SN 35.26, with a "
+                       "changed scope"),
+    ],
+    why=(
+        "This discourse repeats SN 35.26's own two-part negative-and-"
+        "positive diagnostic and fourfold verb chain (directly "
+        "knowing, completely understanding, having dispassion for, "
+        "giving up) word for word &mdash; but replaces the five-part-"
+        "per-sense definition of \"the all\" used since SN 35.24 with "
+        "a leaner four-item one: the base, its object, its "
+        "consciousness, and, closing each list, \"things knowable by "
+        "that consciousness.\" The argument repeats exactly; what "
+        "counts as \"the all\" changes."
+    ),
+    guide=[
+        ("The same fourfold verb chain, the same two-part structure", [
+            "Anabhijānaṁ, aparijānaṁ, avirājayaṁ, appajahaṁ &mdash; "
+            "the identical four terms from SN 35.26, in the identical "
+            "negative-then-positive arrangement, applied once again "
+            "to \"the all.\" At the level of argument, this is a "
+            "genuine repeat.",
+        ]),
+        ("A changed definition of \"the all\": four items, not five", [
+            "\"The eye, sights, eye consciousness, and things "
+            "knowable by eye consciousness\" (cakkhuviññāṇaviññātabbā "
+            "dhammā) &mdash; dropping SN 35.24&ndash;26's own \"eye "
+            "contact\" and \"the feeling that arises dependent on eye "
+            "contact,\" and adding instead a single closing category "
+            "that folds in whatever consciousness itself can know.",
+        ]),
+        ("Two definitions of \"the all\" now stand side by side", [
+            "SN 35.26 used the five-part breakdown (base, object, "
+            "consciousness, contact, feeling) carried over from SN "
+            "35.24&ndash;25; this discourse instead uses the leaner "
+            "four-item version, closing on \"things knowable\" rather "
+            "than feeling &mdash; the same diagnostic claim, applied "
+            "to two genuinely different scopes of \"the all\" within "
+            "the same trio.",
+        ]),
+        ("Handing off to this vagga's own narrative pair", [
+            "Immediately after this discourse, Sabbavagga arrives at "
+            "its own two pre-existing narrative discourses, SN 35.28 "
+            "(\"Burning\") and SN 35.29 (\"Overcome\") &mdash; the "
+            "vagga's midpoint, where the register shifts from bare "
+            "formula to specific place, audience, and image.",
+        ]),
+    ],
+    terms=[
+        ("cakkhuviññāṇaviññātabbā dhammā", "\"things knowable by eye "
+            "consciousness\" &mdash; the closing category of this "
+            "discourse's own leaner, four-item definition of \"the "
+            "all\""),
+        ("anabhijānaṁ aparijānaṁ avirājayaṁ appajahaṁ", "the same "
+            "fourfold negative chain introduced at SN 35.26, repeated "
+            "here unchanged"),
+        ("dukkhakkhayāya", "\"for the ending of suffering\" &mdash; "
+                             "the same stakes named in SN 35.26, "
+                             "carried over unchanged"),
+        ("cakkhuviññāṇaṁ", "eye consciousness &mdash; the third of "
+                             "this discourse's own four-item "
+                             "definition of \"the all\""),
+        ("abhabbo dukkhakkhayāya / bhabbo dukkhakkhayāya", "\"incapable "
+            "of the ending of suffering\" / \"capable of the ending "
+            "of suffering\" &mdash; this discourse's own negative and "
+            "positive halves, differing only in this single verb "
+            "pair"),
+    ],
+    text_intro=("The complete discourse: the negative condition, "
+        "then its exact positive mirror, applied to a four-item "
+        "definition of \"the all.\" Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.27:1.1-1.7"),
+        ("p", "&sect;2", "sn35.27:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What stays identical between this discourse and SN 35.26?",
+         "opts": ["The fourfold verb chain and the two-part negative-then-positive structure",
+                  "The definition of \"the all\"", "The setting", "Nothing — this discourse is entirely new"],
+         "correct": 0,
+         "expl": "A genuine repeat of argument, applied to a changed scope."},
+        {"q": "What four items make up this discourse's own definition of \"the all\"?",
+         "opts": ["The eye, sights, eye consciousness, and things knowable by eye consciousness",
+                  "The eye, sights, eye consciousness, and eye contact, exactly as in SN 35.26",
+                  "The five aggregates", "Gratification, drawback, escape, and equanimity"],
+         "correct": 0,
+         "expl": "Dropping SN 35.24–26's own \"contact\" and \"feeling,\" closing instead on a category folding in whatever consciousness can know."},
+        {"q": "How does this discourse's own definition of \"the all\" compare to SN 35.26's?",
+         "opts": ["Leaner — four items instead of five, closing on \"things knowable\" rather than feeling",
+                  "Identical in every respect", "Richer — six items instead of five", "Unrelated to SN 35.26's own definition"],
+         "correct": 0,
+         "expl": "Two genuinely different scopes of \"the all\" now stand side by side within the same trio."},
+        {"q": "What comes immediately after this discourse in Sabbavagga?",
+         "opts": ["SN 35.28 (\"Burning\") and SN 35.29 (\"Overcome\"), this vagga's own narrative pair",
+                  "A return to SN 35.23's own bare definition", "The vagga's own closing colophon",
+                  "A jump to the next saṃyutta, SN 36"],
+         "correct": 0,
+         "expl": "The vagga's midpoint, where the register shifts to specific place, audience, and image."},
+        {"q": "What does cakkhuviññāṇaviññātabbā dhammā mean?",
+         "opts": ["\"Things knowable by eye consciousness\"", "\"The eye and its object\"",
+                  "\"Feeling arising from eye contact\"", "\"The ending of suffering\""],
+         "correct": 0,
+         "expl": "The closing category of this discourse's own leaner, four-item definition."},
+    ],
+    marginalia=[
+        ("Same argument, changed scope", [
+            "the same four verbs, the same two halves &mdash;",
+            "but a leaner \"all\"",
+        ]),
+        ("Contact and feeling dropped", [
+            "eye, sights, consciousness &mdash;",
+            "and whatever consciousness can know",
+        ]),
+        ("A vagga's own midpoint, just ahead", [
+            "bare formula gives way &mdash;",
+            "to a specific place, an audience, an image",
+        ]),
+        ("One verb pair, two outcomes", [
+            "abhabbo, bhabbo &mdash;",
+            "incapable, capable, of ending suffering",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.27/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.26.html">SN 35.26 &middot; Without Completely '
+        "Understanding (1st)</a> &mdash; the previous discourse, "
+        "supplying the same two-part diagnostic with a richer, "
+        "five-item definition of \"the all.\"",
+        '<a href="sn-35.28.html">SN 35.28 &middot; Burning</a> '
+        "&mdash; already published on this site, opening this "
+        "vagga's own narrative pair.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.29 — Addhabhūtasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 29, "Addhabhūta", "Overcome",
+    vagga="Sabbavagga",
+    meta_title="SN 35.29 — Overcome | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Addhabhūtasutta, the narrative twin of SN 35.28's own "
+        "\"Burning,\" replacing that discourse's fire imagery with a "
+        "different image &mdash; being overcome &mdash; while closing "
+        "on this vagga's own more usual, generic formula rather than "
+        "SN 35.28's unique mass-liberation climax. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, the Bamboo Grove, the squirrels' "
+                     "feeding ground"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A narrative-framed discourse structurally identical "
+                 "to SN 35.28, with a different central image"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a familiar structure, a new image, a quieter "
+                       "close"),
+    ],
+    why=(
+        "This discourse is the narrative twin of SN 35.28 "
+        "(\"Burning\"), already published on this site: the same "
+        "framing convention (a specific place, the Buddha directly "
+        "addressing the mendicants), the same \"X is [image]. "
+        "[Image] with what? With the fires of greed, hate, and "
+        "delusion\" structure, applied to the identical thirty-item "
+        "sense-field schema &mdash; but with a different central "
+        "image (addhabhūta, \"overcome,\" replacing āditta, "
+        "\"burning\") and, notably, without SN 35.28's own unique "
+        "closing climax."
+    ),
+    guide=[
+        ("A different setting, the same narrative convention", [
+            "Where SN 35.28 opens at Gayā Head with a thousand "
+            "mendicants, this discourse opens at Rājagaha's Bamboo "
+            "Grove, the squirrels' feeding ground &mdash; no audience "
+            "size given here. Both discourses share the same "
+            "convention of naming a specific place before the Buddha "
+            "addresses the mendicants directly, distinct from this "
+            "vagga's earlier discourses (SN 35.23&ndash;27), none of "
+            "which name a location beyond Sāvatthī.",
+        ]),
+        ("Overcome, not burning: a different image, an identical structure", [
+            "\"All is overcome. And what is the all that is "
+            "overcome? The eye is overcome … Overcome by what? "
+            "Overcome by the fires of greed, hate, and delusion. "
+            "Overcome by rebirth, old age, and death …\" &mdash; the "
+            "same call-and-response shape as SN 35.28's \"burning "
+            "with what,\" applied to the identical thirty-item "
+            "breakdown, with addhabhūta (\"overcome\") standing in "
+            "for āditta (\"burning\").",
+        ]),
+        ("A quieter close than SN 35.28's own", [
+            "SN 35.28 closes with a unique, specific event: \"while "
+            "this discourse was being spoken, the minds of the "
+            "thousand mendicants were freed from defilements by not "
+            "grasping.\" This discourse instead closes with the more "
+            "usual, generic third-person formula &mdash; \"a learned "
+            "noble disciple grows disillusioned … they understand: "
+            "'Rebirth is ended …'\" &mdash; describing what happens "
+            "for any disciple who hears this teaching rightly, not a "
+            "specific, narrated congregation.",
+        ]),
+    ],
+    terms=[
+        ("addhabhūtaṁ", "\"overcome\" &mdash; this discourse's own "
+                          "title term and central image, replacing SN "
+                          "35.28's āditta, \"burning\""),
+        ("rājagahe veḷuvane kalandakanivāpe", "\"at Rājagaha, in the "
+            "Bamboo Grove, the squirrels' feeding ground\" &mdash; "
+            "this discourse's own setting, distinct from SN 35.28's "
+            "Gayā Head"),
+        ("nibbindati", "\"grows disillusioned\" &mdash; the generic "
+                         "closing verb this discourse uses, rather "
+                         "than SN 35.28's own unique narrated event"),
+        ("kena addhabhūtaṁ", "\"overcome by what?\" &mdash; this "
+                               "discourse's own call-and-response "
+                               "question, mirroring SN 35.28's own "
+                               "\"burning with what?\""),
+        ("kalandakanivāpe", "\"the squirrels' feeding ground\" "
+                              "&mdash; part of this discourse's own "
+                              "setting within Rājagaha's Bamboo "
+                              "Grove"),
+    ],
+    text_intro=("The complete discourse, with the ear, nose, and "
+        "tongue sections compressed once the pattern is established "
+        "for the eye. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.29:1.1-1.3"),
+        ("p", "&sect;2", "sn35.29:1.4-1.15"),
+        ("p", "&sect;3", "sn35.29:1.16-1.19"),
+    ],
+    quiz=[
+        {"q": "What image does this discourse use in place of SN 35.28's own \"burning\"?",
+         "opts": ["Addhabhūta, \"overcome\"", "Nibbāna, \"extinguishment\"", "Ādīnava, \"drawback\"", "Sāruppa, \"fit\""],
+         "correct": 0,
+         "expl": "Replacing āditta, though the surrounding structure — \"overcome by what?\" — matches SN 35.28's \"burning with what?\" exactly."},
+        {"q": "Where is this discourse set, and how does that compare to SN 35.28's own setting?",
+         "opts": ["Rājagaha's Bamboo Grove, distinct from SN 35.28's Gayā Head",
+                  "The same Gayā Head as SN 35.28", "Sāvatthī, as in SN 35.23–27", "No setting is given at all"],
+         "correct": 0,
+         "expl": "A different place, though both share the convention of naming a specific location, unlike SN 35.23–27."},
+        {"q": "How does this discourse's own close differ from SN 35.28's?",
+         "opts": ["It uses the more usual generic third-person formula, not SN 35.28's own unique mass-liberation event",
+                  "It has no closing formula at all", "It closes identically, with the same thousand mendicants freed",
+                  "It closes with a direct question-and-answer catechism"],
+         "correct": 0,
+         "expl": "SN 35.28 narrates a specific event (a thousand mendicants freed while listening); this discourse describes what happens generally for \"a learned noble disciple.\""},
+        {"q": "What structure does this discourse share with SN 35.28?",
+         "opts": ["The \"X is [image]. Overcome/burning by what? By the fires of greed, hate, and delusion\" call-and-response shape",
+                  "A direct catechism of permanent/impermanent questions", "A fourfold not-conceiving formula",
+                  "Nothing structural — only the setting is shared"],
+         "correct": 0,
+         "expl": "Applied to the identical thirty-item sense-field breakdown used since SN 35.24."},
+        {"q": "What distinguishes this discourse's own opening from SN 35.23–27's?",
+         "opts": ["It names a specific place (Rājagaha) before the Buddha addresses the mendicants, unlike SN 35.23–27's bare Sāvatthī setting",
+                  "It is delivered to a lay audience, not mendicants", "It opens with a question from a mendicant, not a direct teaching",
+                  "It has no opening frame at all"],
+         "correct": 0,
+         "expl": "Matching SN 35.28's own narrative convention rather than the plainer openings of this vagga's first five discourses."},
+    ],
+    marginalia=[
+        ("A different fire, the same shape", [
+            "not burning, but overcome &mdash;",
+            "overcome by greed, hate, and delusion",
+        ]),
+        ("A new setting for this vagga", [
+            "Rājagaha's Bamboo Grove &mdash;",
+            "the squirrels' feeding ground",
+        ]),
+        ("A quieter ending", [
+            "no thousand minds freed at once &mdash;",
+            "only \"a learned noble disciple,\" generically",
+        ]),
+        ("A question that echoes SN 35.28's own", [
+            "\"overcome by what?\" &mdash;",
+            "the same three fires, greed, hate, delusion",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.29/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.28.html">SN 35.28 &middot; Burning</a> '
+        "&mdash; already published on this site, this discourse's own "
+        "narrative twin.",
+        '<a href="sn-35.30.html">SN 35.30 &middot; The Practice Fit '
+        "for Uprooting</a> &mdash; the next discourse, opening this "
+        "vagga's own closing trio.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.30 — Samugghātasāruppasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 30, "Samugghātasāruppa", "The Practice Fit for Uprooting",
+    vagga="Sabbavagga",
+    meta_title="SN 35.30 — The Practice Fit for Uprooting | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samugghātasāruppasutta, opening Sabbavagga's own closing "
+        "trio with a genuinely new fourfold not-conceiving formula, "
+        "applied to all six sense fields and, uniquely, to \"the all\" "
+        "itself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A fourfold not-conceiving formula, applied to all "
+                 "six sense fields and, at its own close, to \"the "
+                 "all\" as an explicit totality"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a new verb and a fourfold formula reward "
+                       "careful reading"),
+    ],
+    why=(
+        "This discourse opens Sabbavagga's own closing trio (SN "
+        "35.30&ndash;32) with a genuinely new verb, maññati (\"to "
+        "conceive\"), and a fourfold negation built around it, "
+        "applied across all six sense fields &mdash; and, uniquely "
+        "among this vagga's ten discourses, folds its own opening "
+        "term (sabba, from SN 35.23) back into its own closing "
+        "formula, explicitly extending the not-conceiving instruction "
+        "to \"the all\" as a totality, not only to its six component "
+        "fields."
+    ),
+    guide=[
+        ("Maññati: a new verb, a fourfold negation", [
+            "For each sense field, a mendicant \"does not conceive "
+            "anything to be the eye, does not conceive it in the eye, "
+            "does not conceive it as the eye, and does not conceive "
+            "that 'the eye is mine'\" &mdash; four distinct angles of "
+            "possessive or identifying thought, all four negated in "
+            "turn, repeated for sights, eye consciousness, eye "
+            "contact, and the feeling arising from eye contact, then "
+            "for each of the remaining five sense fields.",
+        ]),
+        ("\"The all\" itself, folded back into its own closing formula", [
+            "At its own close, this discourse extends the identical "
+            "fourfold negation to \"the all\" as an explicit totality "
+            "&mdash; not conceiving anything to be all, in all, as "
+            "all, or that \"all is mine\" &mdash; the only discourse "
+            "in Sabbavagga to explicitly reapply its own vagga-naming "
+            "term (SN 35.23's own sabba) to its own closing "
+            "instruction.",
+        ]),
+        ("A closing chain: not conceiving, to personal extinguishment", [
+            "Not conceiving &rarr; not grasping at anything in the "
+            "world &rarr; not anxious &rarr; personally extinguished "
+            "(parinibbāyati) &rarr; the standard declaration, "
+            "\"Rebirth is ended, the spiritual journey has been "
+            "completed …\" &mdash; a chain of consequence distinct "
+            "from SN 35.28&ndash;29's own disillusionment-freedom "
+            "sequence, though ending in the same declaration.",
+        ]),
+        ("Three near-synonyms for one closing trio", [
+            "This discourse's own title word, sāruppa (\"fit,\" "
+            "\"suitable\"), gives way to sappāya (\"conducive,\" "
+            "\"beneficial\") in the two discourses that follow &mdash; "
+            "three treatments of \"the practice for uprooting all "
+            "conceiving,\" not one, distinguished by these near-"
+            "synonymous qualifiers.",
+        ]),
+    ],
+    terms=[
+        ("maññati", "\"conceives\" &mdash; the new verb this "
+                      "discourse's own fourfold negation is built "
+                      "around"),
+        ("sāruppa", "\"fit,\" or \"suitable\" &mdash; this "
+                      "discourse's own title qualifier for the "
+                      "uprooting practice"),
+        ("samugghāta", "\"uprooting\" &mdash; shared across all three "
+                         "titles of this vagga's own closing trio"),
+        ("parinibbāyati", "\"is personally extinguished\" &mdash; the "
+                            "closing step of this discourse's own "
+                            "consequence chain"),
+        ("cakkhusmiṁ na maññati", "\"does not conceive [anything] in "
+                                    "the eye\" &mdash; the second of "
+                                    "this discourse's own fourfold "
+                                    "negation"),
+    ],
+    text_intro=("The complete discourse, with the ear, nose, tongue, "
+        "and body sections compressed once the pattern is established "
+        "for the eye. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.30:1.1-1.3"),
+        ("p", "&sect;2", "sn35.30:1.4-1.19"),
+        ("p", "&sect;3", "sn35.30:1.20-1.23"),
+    ],
+    quiz=[
+        {"q": "What new verb does this discourse introduce, and how is it negated?",
+         "opts": ["Maññati, \"conceives\" — negated four ways: as it, in it, from it, and as \"mine\"",
+                  "Jānāti, \"knows\" — negated only once per sense field", "Nibbindati, \"grows disillusioned\" — negated twice",
+                  "Pajahati, \"gives up\" — negated three ways"],
+         "correct": 0,
+         "expl": "Four distinct angles of possessive or identifying thought, applied to every sense field."},
+        {"q": "What makes this discourse unique among Sabbavagga's ten discourses?",
+         "opts": ["It folds SN 35.23's own opening term, sabba, back into its own closing formula, applied as an explicit totality",
+                  "It is the only discourse set outside Sāvatthī", "It is the only discourse with no closing formula",
+                  "It is the only discourse that names the three Kassapa brothers"],
+         "correct": 0,
+         "expl": "Not conceiving anything to be, in, as, or \"mine\" regarding \"the all\" itself, not only its six component fields."},
+        {"q": "What is the closing consequence chain this discourse describes?",
+         "opts": ["Not conceiving, to not grasping, to not being anxious, to personal extinguishment",
+                  "Disillusionment, to dispassion, to freedom, as in SN 35.28–29", "Direct knowledge, to complete understanding, to giving up",
+                  "Gratification, to drawback, to escape"],
+         "correct": 0,
+         "expl": "A chain distinct from SN 35.28–29's own disillusionment-freedom sequence, though ending in the same declaration."},
+        {"q": "What does this discourse's own title word, sāruppa, mean?",
+         "opts": ["\"Fit,\" or \"suitable\"", "\"Conducive,\" or \"beneficial\"", "\"Overcome\"", "\"Burning\""],
+         "correct": 0,
+         "expl": "Distinguished from sappāya (\"conducive\"), the qualifier used in the two discourses that follow."},
+        {"q": "How do the two discourses that follow (SN 35.31–32) relate to this one?",
+         "opts": ["Three near-synonymous treatments of \"the practice for uprooting all conceiving,\" not one",
+                  "They abandon the maññati formula entirely", "They apply the formula only to feeling, not the other sense-field parts",
+                  "They return to SN 35.23's own bare definition"],
+         "correct": 0,
+         "expl": "Sāruppa here, sappāya in SN 35.31 and 35.32 — near-synonyms distinguishing three separate treatments."},
+    ],
+    marginalia=[
+        ("A new verb for this vagga", [
+            "maññati &mdash; \"conceives\" &mdash;",
+            "negated four ways, sense field by sense field",
+        ]),
+        ("\"The all\" folded back on itself", [
+            "not conceiving all as all &mdash;",
+            "the vagga's own opening term, reapplied",
+        ]),
+        ("A chain to extinguishment", [
+            "no conceiving, no grasping, no anxiety &mdash;",
+            "parinibbāyati",
+        ]),
+        ("Four angles, one sense field", [
+            "as it, in it, from it, mine &mdash;",
+            "all four negated, for each of six fields",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.30/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.29.html">SN 35.29 &middot; Overcome</a> '
+        "&mdash; the previous discourse, closing this vagga's own "
+        "narrative pair.",
+        '<a href="sn-35.31.html">SN 35.31 &middot; The Practice '
+        "Conducive to Uprooting (1st)</a> &mdash; the next discourse, "
+        "repeating this formula with a new explanatory clause added.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.31 — Paṭhamasamugghātasappāyasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 31, "Paṭhamasamugghātasappāya",
+    "The Practice Conducive to Uprooting (1st)",
+    vagga="Sabbavagga",
+    meta_title="SN 35.31 — The Practice Conducive to Uprooting (1st) "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasamugghātasappāyasutta, repeating SN 35.30's own "
+        "fourfold not-conceiving formula with a new explanatory "
+        "clause added, and broadening its own closing scope to the "
+        "aggregates, elements, and sense fields. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "SN 35.30's own fourfold not-conceiving formula, "
+                 "with a new explanatory clause inserted twice"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the same formula as SN 35.30, with a genuinely "
+                       "new explanatory clause"),
+    ],
+    why=(
+        "This discourse repeats SN 35.30's own fourfold not-"
+        "conceiving formula almost word for word, but inserts a new "
+        "explanatory clause after both the eye-block and the mind-"
+        "block: \"for whatever you conceive it to be … that becomes "
+        "something else. The world is attached to being, taking "
+        "pleasure only in being, yet it becomes something else\" "
+        "&mdash; a diagnosis of why conceiving fails at all. Its own "
+        "closing scope also broadens beyond SN 35.30's single \"the "
+        "all\" to \"the aggregates, elements, and sense fields\" "
+        "named explicitly together."
+    ),
+    guide=[
+        ("The same fourfold not-conceiving formula, carried over", [
+            "Does not conceive anything to be the eye, in the eye, "
+            "as the eye, or that \"the eye is mine\" &mdash; identical "
+            "to SN 35.30, applied once again across all six sense "
+            "fields.",
+        ]),
+        ("A new clause: aññathā hoti, \"becomes something else\"", [
+            "Inserted twice &mdash; once after the eye-block, once "
+            "after the mind-block &mdash; a diagnosis of why "
+            "conceiving fails in the first place: \"for whatever you "
+            "conceive it to be, whatever you conceive it in, whatever "
+            "you conceive it as, and whatever you conceive to be "
+            "'mine': that becomes something else. The world is "
+            "attached to being, taking pleasure only in being, yet it "
+            "becomes something else.\" Whatever's conceived doesn't "
+            "hold still long enough to be pinned down as \"this\" or "
+            "\"mine.\"",
+        ]),
+        ("A closing scope broader than SN 35.30's own", [
+            "Where SN 35.30 closed by folding \"the all\" back into "
+            "its own formula, this discourse closes instead on "
+            "\"the aggregates, elements, and sense fields\" "
+            "(khandhadhātuāyatanaṁ) &mdash; three of the Nikāyas' own "
+            "standard doctrinal categories, named together and "
+            "explicitly, wider than this vagga's own recurring six-"
+            "sense-field frame.",
+        ]),
+        ("Paired with SN 35.32, delivered in a wholly different form", [
+            "This discourse's own title carries \"(1st)\"; SN 35.32 "
+            "will deliver this same content &mdash; the practice "
+            "conducive to uprooting all conceiving &mdash; through a "
+            "wholly different form: direct catechism, not declarative "
+            "teaching.",
+        ]),
+    ],
+    terms=[
+        ("aññathā hoti", "\"becomes something else\" &mdash; this "
+                           "discourse's own new diagnostic clause, "
+                           "explaining why conceiving fails"),
+        ("bhavasatto loko bhavamevābhinandati", "\"the world is "
+            "attached to being, taking pleasure only in being\" "
+            "&mdash; the clause's own second half"),
+        ("khandhadhātuāyatanaṁ", "\"the aggregates, elements, and "
+                                    "sense fields\" &mdash; this "
+                                    "discourse's own broadened closing "
+                                    "scope, wider than SN 35.30's "
+                                    "single \"the all\""),
+        ("sappāya", "\"conducive,\" or \"beneficial\" &mdash; this "
+                      "discourse's own title qualifier, replacing SN "
+                      "35.30's sāruppa"),
+        ("sabbamaññitasamugghātasappāyaṁ", "\"the practice conducive "
+            "to uprooting all conceiving\" &mdash; this discourse's "
+            "own full title phrase, repeated at its own close"),
+    ],
+    text_intro=("The complete discourse, with the ear, nose, tongue, "
+        "and body sections compressed once the pattern is established "
+        "for the eye. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.31:1.1-1.3"),
+        ("p", "&sect;2", "sn35.31:1.4-1.8"),
+        ("p", "&sect;3", "sn35.31:1.9-1.21"),
+        ("p", "&sect;4", "sn35.31:1.22-1.25"),
+    ],
+    quiz=[
+        {"q": "What new clause does this discourse insert that SN 35.30 does not have?",
+         "opts": ["\"For whatever you conceive it to be … that becomes something else. The world is attached to being …\"",
+                  "A direct question-and-answer catechism", "A first-person narrative frame",
+                  "A denial that not-conceiving is possible at all"],
+         "correct": 0,
+         "expl": "Inserted twice — after the eye-block and after the mind-block — diagnosing why conceiving fails."},
+        {"q": "What does aññathā hoti mean in this discourse's own new clause?",
+         "opts": ["\"Becomes something else\"", "\"Is permanent\"", "\"Is my own self\"", "\"Ceases entirely\""],
+         "correct": 0,
+         "expl": "Whatever's conceived doesn't hold still long enough to be pinned down as \"this\" or \"mine.\""},
+        {"q": "How does this discourse's own closing scope compare to SN 35.30's?",
+         "opts": ["Broader — \"the aggregates, elements, and sense fields,\" rather than SN 35.30's single \"the all\"",
+                  "Narrower — only the eye and mind, dropping the other four sense fields", "Identical to SN 35.30's own closing scope",
+                  "This discourse has no closing statement at all"],
+         "correct": 0,
+         "expl": "Three of the Nikāyas' own standard doctrinal categories, named together and explicitly."},
+        {"q": "What does this discourse's own title word, sappāya, mean, and how does it relate to SN 35.30's sāruppa?",
+         "opts": ["\"Conducive\" or \"beneficial\" — a near-synonym replacing SN 35.30's \"fit\" or \"suitable\"",
+                  "\"Burning\" — an entirely unrelated term", "The exact same word as SN 35.30's sāruppa",
+                  "\"Overcome\" — echoing SN 35.29"],
+         "correct": 0,
+         "expl": "Three near-synonymous qualifiers distinguish this vagga's own closing trio of discourses."},
+        {"q": "How does SN 35.32, which follows, relate to this discourse?",
+         "opts": ["It delivers the same content through a wholly different form — direct catechism, not declarative teaching",
+                  "It repeats this discourse verbatim with no changes", "It abandons the not-conceiving formula entirely",
+                  "It returns to SN 35.28's own narrative frame"],
+         "correct": 0,
+         "expl": "Marked \"(1st)\" here and \"(2nd)\" there — a genuine pair, differing in form rather than content."},
+    ],
+    marginalia=[
+        ("A formula, plus a diagnosis", [
+            "not only what not to conceive &mdash;",
+            "but why conceiving fails at all",
+        ]),
+        ("The world, attached to being", [
+            "taking pleasure only in being &mdash;",
+            "yet it becomes something else",
+        ]),
+        ("A wider closing scope", [
+            "aggregates, elements, sense fields &mdash;",
+            "named together, explicitly",
+        ]),
+        ("A title repeated at its own close", [
+            "the practice conducive to uprooting all conceiving "
+            "&mdash;",
+            "named, then delivered, then named again",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.31/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.30.html">SN 35.30 &middot; The Practice Fit '
+        "for Uprooting</a> &mdash; the previous discourse, supplying "
+        "the fourfold formula this discourse adds a new clause to.",
+        '<a href="sn-35.32.html">SN 35.32 &middot; The Practice '
+        "Conducive to Uprooting (2nd)</a> &mdash; the next discourse "
+        "and this vagga's own close, delivering the same content as "
+        "direct catechism.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.32 — Dutiyasamugghātasappāyasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 32, "Dutiyasamugghātasappāya",
+    "The Practice Conducive to Uprooting (2nd)",
+    vagga="Sabbavagga",
+    meta_title="SN 35.32 — The Practice Conducive to Uprooting (2nd) "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasamugghātasappāyasutta, closing Sabbavagga with a "
+        "direct three-question catechism on impermanence, suffering, "
+        "and not-self &mdash; this vagga's own final discourse, "
+        "carrying its own untranslated colophon. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, in direct call-and-response with the "
+                     "mendicants"),
+        ("Form", "A three-question catechism — permanent or "
+                 "impermanent? suffering or happiness? fit to be "
+                 "regarded as self? — applied to all six sense fields"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a genuinely new form for a familiar content, "
+                       "closing this vagga"),
+    ],
+    why=(
+        "This discourse closes both this trio (SN 35.30&ndash;32) "
+        "and Sabbavagga itself, delivering \"the practice conducive "
+        "to uprooting all conceiving\" through a wholly different "
+        "form: not declarative teaching but direct catechism, the "
+        "three-question chain &mdash; permanent or impermanent? "
+        "suffering or happiness? fit to be regarded as self? &mdash; "
+        "applied across all six sense fields, the first time this "
+        "specific instrument appears anywhere in this vagga. It also "
+        "carries Sabbavagga's own closing colophon and uddāna, both "
+        "left untranslated in the source."
+    ),
+    guide=[
+        ("A new form for familiar content: direct question and answer", [
+            "\"What do you think, mendicants? Is the eye permanent or "
+            "impermanent?\" — \"Impermanent, sir.\" — \"But "
+            "if it's impermanent, is it suffering or happiness?\" "
+            "— \"Suffering, sir.\" — \"But if it's "
+            "impermanent, suffering, and perishable, is it fit to be "
+            "regarded thus: 'This is mine, I am this, this is my "
+            "self'?\" — \"No, sir.\" Three questions, three "
+            "answers, repeated across the same five-part-per-sense "
+            "breakdown used since SN 35.24&ndash;27.",
+        ]),
+        ("A diagnostic instrument new to this vagga", [
+            "This permanent?/suffering?/fit-to-regard-as-self? chain "
+            "doesn't appear anywhere earlier in Sabbavagga; it is "
+            "genuinely distinct from SN 35.26&ndash;27's own fourfold "
+            "verb chain and SN 35.30&ndash;31's own fourfold not-"
+            "conceiving formula, arriving only at this trio's own "
+            "close &mdash; though the underlying three-mark structure "
+            "(impermanence, suffering, not-self) recurs throughout "
+            "the wider Nikāyas as the standard route to seeing "
+            "anything as not fit to call one's own.",
+        ]),
+        ("A closing formula echoing this vagga's own narrative pair", [
+            "\"Seeing this, a learned noble disciple grows "
+            "disillusioned … Being disillusioned, desire fades away. "
+            "When desire fades away they're freed\" &mdash; the same "
+            "disillusionment-freedom sequence SN 35.28&ndash;29 used, "
+            "tying this trio's own catechism back to this vagga's "
+            "earlier narrative pair, even though the diagnostic "
+            "leading up to it differs entirely.",
+        ]),
+        ("This vagga's own colophon and uddāna, untranslated", [
+            "As at SN 35.22's own close for Yamakavagga, this "
+            "discourse's own closing colophon (\"Sabbavaggo tatiyo,\" "
+            "\"Sabbavagga, the third, finished\") and its own uddāna "
+            "are both left untranslated in the English source, and "
+            "are described here rather than quoted.",
+        ]),
+        ("The uddāna's own tally of all ten discourses", [
+            "Unlike Yamakavagga's own uddāna, which simply marked "
+            "each of its five pairs \"duve\" (\"two\"), this vagga's "
+            "own untranslated uddāna instead names each of its ten "
+            "discourses by an abbreviated tag &mdash; roughly, \"the "
+            "all, and the two on giving up; the two on failing to "
+            "completely understand; burning and overcome; and the two "
+            "on what's fit and conducive\" &mdash; before its own "
+            "closing line, \"thus the vagga is so called.\" A tally, "
+            "not a pairing scheme, fitting this vagga's own trio-duo-"
+            "duo-trio design rather than Yamakavagga's five-times-two "
+            "one.",
+        ]),
+        ("Sabbavagga complete: ten discourses, a trio-duo-duo-trio design", [
+            "With this discourse, Sabbavagga's own ten-discourse "
+            "structure stands confirmed: a trio defining and "
+            "prescribing (SN 35.23&ndash;25), a duo diagnosing (SN "
+            "35.26&ndash;27), a duo narrating (SN 35.28&ndash;29), "
+            "and a closing trio on uprooting conceiving (SN "
+            "35.30&ndash;32) &mdash; a shape shared with neither "
+            "Aniccavagga's own 2&times;2&times;3 matrix nor "
+            "Yamakavagga's own five interior-exterior pairs. Next "
+            "comes Jātidhammavagga (SN 35.33&ndash;42), this "
+            "saṃyutta's own fourth vagga.",
+        ]),
+    ],
+    terms=[
+        ("aniccaṁ", "impermanent &mdash; the first term of this "
+                      "discourse's own three-question chain"),
+        ("dukkhaṁ", "suffering &mdash; the second term"),
+        ("etaṁ mama, esohamasmi, eso me attā", "\"this is mine, I am "
+            "this, this is my self\" &mdash; the self-view this "
+            "discourse's own third question rules out for every item "
+            "examined"),
+        ("Sabbavaggo tatiyo", "\"Sabbavagga, the third, finished\" "
+                                "&mdash; the untranslated vagga "
+                                "colophon closing this discourse"),
+        ("Jātidhammavagga", "\"the Chapter on What's Liable to "
+                              "Rebirth\" &mdash; this saṃyutta's own "
+                              "fourth vagga, opening next at SN 35.33"),
+    ],
+    text_intro=("The complete discourse, with the ear, nose, tongue, "
+        "and body sections compressed once the pattern is established "
+        "for the eye, stopping short of this vagga's own untranslated "
+        "colophon and uddāna, described above rather than quoted. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.32:1.1-1.3"),
+        ("p", "&sect;2", "sn35.32:2.1-7.1"),
+        ("p", "&sect;3", "sn35.32:8.1-15.1"),
+        ("p", "&sect;4", "sn35.32:16.1-27.1"),
+        ("p", "&sect;5", "sn35.32:28.1-28.8"),
+    ],
+    quiz=[
+        {"q": "What three questions make up this discourse's own catechism?",
+         "opts": ["Permanent or impermanent? Suffering or happiness? Fit to be regarded as self?",
+                  "Gratification? Drawback? Escape?", "Directly known? Completely understood? Given up?",
+                  "Conceived as? Conceived in? Conceived as mine?"],
+         "correct": 0,
+         "expl": "A genuinely new diagnostic instrument, appearing for the first time in this vagga."},
+        {"q": "How does this discourse's own diagnostic form compare to earlier discourses in this vagga?",
+         "opts": ["It is a direct question-and-answer catechism, distinct from SN 35.26–27's verb chain and SN 35.30–31's not-conceiving formula",
+                  "It is identical to SN 35.30's own fourfold not-conceiving formula", "It is identical to SN 35.28's own narrative form",
+                  "It uses no dialogue at all, only declarative statements"],
+         "correct": 0,
+         "expl": "The first appearance of this specific three-question chain anywhere in Sabbavagga."},
+        {"q": "What closing sequence does this discourse share with SN 35.28–29?",
+         "opts": ["The disillusionment-freedom sequence — growing disillusioned, desire fading, and being freed",
+                  "The mass-liberation event unique to SN 35.28", "The fourfold not-conceiving formula",
+                  "An identical opening narrative frame"],
+         "correct": 0,
+         "expl": "Tying this trio's own catechism back to this vagga's earlier narrative pair, despite a different diagnostic leading up to it."},
+        {"q": "What does this vagga's own untranslated uddāna do differently from Yamakavagga's?",
+         "opts": ["It names each of the ten discourses by an abbreviated tag, rather than simply marking pairs \"duve\"",
+                  "It is fully translated into English, unlike Yamakavagga's own uddāna", "It names no discourses at all",
+                  "It repeats Yamakavagga's own uddāna word for word"],
+         "correct": 0,
+         "expl": "A tally fitting this vagga's own trio-duo-duo-trio design, not Yamakavagga's five-times-two pairing scheme."},
+        {"q": "What overall structure does Sabbavagga's own ten discourses confirm, and what comes next?",
+         "opts": ["A trio-duo-duo-trio design (define/prescribe, diagnose, narrate, uproot); Jātidhammavagga opens next at SN 35.33",
+                  "Aniccavagga's own 2×2×3 matrix, repeated exactly; SN 36 opens next", "Yamakavagga's own five interior-exterior pairs, repeated; this saṃyutta ends here",
+                  "No discernible structure; an unrelated saṃyutta follows"],
+         "correct": 0,
+         "expl": "A shape distinct from both of this saṃyutta's earlier vaggas."},
+    ],
+    marginalia=[
+        ("Three questions, six times over", [
+            "impermanent? suffering? fit to call mine? &mdash;",
+            "no, sir; no, sir; no, sir",
+        ]),
+        ("A colophon left untranslated", [
+            "\"Sabbavaggo tatiyo\" &mdash;",
+            "described here, not quoted verbatim",
+        ]),
+        ("A tally, not a pairing scheme", [
+            "ten discourses, each named by a tag &mdash;",
+            "\"thus the vagga is so called\"",
+        ]),
+        ("A trio-duo-duo-trio design, now complete", [
+            "define, diagnose, narrate, uproot &mdash;",
+            "a shape this saṃyutta has not used before",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.32/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.31.html">SN 35.31 &middot; The Practice '
+        "Conducive to Uprooting (1st)</a> &mdash; the previous "
+        "discourse, giving the same content as declarative teaching.",
+        '<a href="sn-35.28.html">SN 35.28 &middot; Burning</a> '
+        "&mdash; already published on this site, sitting mid-vagga "
+        "inside Sabbavagga, now behind this discourse rather than "
+        "ahead of it.",
     ],
 )
