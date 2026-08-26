@@ -8244,3 +8244,2035 @@ page(
         "index.",
     ],
 )
+# -*- coding: utf-8 -*-
+
+# --------------------------------------------------------------------------- #
+# Ja 41 — Losaka (About Losaka)
+# --------------------------------------------------------------------------- #
+page(
+    41, "Losaka", "About Losaka",
+    meta_title="Ja 41 — About Losaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 41, opening the Atthakāmavagga — the first of five "
+        "poems sharing a refrain about ignoring good advice, this one "
+        "illustrated by an absurd fate 'hanging off a goat's foot'. "
+        "From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Five (Atthakāmavagga) &middot; Poem 1 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza, opening a five-poem refrain "
+                 "sequence"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse, part of a formulaic sequence"),
+    ],
+    why=(
+        "This poem opens a run of five consecutive poems (Ja "
+        "41&ndash;45) sharing an identical two-line opening refrain "
+        "&mdash; about ignoring the advice of someone who genuinely "
+        "wants your good &mdash; each completed by a different, "
+        "increasingly specific illustrative comparison. This "
+        "chapter's very structure is worth noticing before reading "
+        "any single poem within it."),
+    guide=[
+        ("A refrain that will repeat across the next four poems", [
+            "The verse opens: &lsquo;one who does not follow advice "
+            "when instructed by an ally who desires their good...&rsquo; "
+            "&mdash; a couplet that recurs, word for word, at the "
+            "opening of Ja 42, 43, and in modified form at 44 and 45. "
+            "Only the second half changes each time, supplying a "
+            "different example of what happens to someone who ignores "
+            "good counsel."]),
+        ("This poem's own absurd example", [
+            "Here the illustration is deliberately strange: "
+            "&lsquo;grieves like Mittaka hanging off a goat's "
+            "foot.&rsquo; Per Sujato's comment, the full explanation "
+            "of how Mittaka (also called Mittavindaka, or Losaka "
+            "Tissa in a later life) came to be in that position is "
+            "&lsquo;absurd and too complex to relate here&rsquo; "
+            "&mdash; the comment notes this collates several "
+            "archetypal scapegoat stories, using absurdity for "
+            "humorous effect while still subsuming the tale under the "
+            "doctrine of kamma. His troubles, per the comment, trace "
+            "back across many lives to an act of jealousy toward an "
+            "arahant."]),
+    ],
+    terms=[
+        ("atthakāmassa hitānukampino",
+         "&ldquo;an ally who desires their good&rdquo; &mdash; the "
+         "figure whose advice, ignored, sets up each poem's "
+         "consequence, giving this whole chapter its name."),
+        ("Mittaka / Mittavindaka / Losaka Tissa",
+         "per Sujato's comment, three names for the same figure "
+         "across different points of his story &mdash; his past-life "
+         "name, his more common name, and his name in the present-"
+         "life story."),
+        ("ajiyā pādamolamba",
+         "&ldquo;hanging off a goat's foot&rdquo; &mdash; the "
+         "poem's own deliberately strange central image."),
+        ("Losakajātaka",
+         "the traditional title of this tale, opening the "
+         "Atthakāmavagga."),
+        ("scapegoat archetype",
+         "an ancient mythic and ritual pattern that, per Sujato's "
+         "comment, this tale's absurd events draw on and recast "
+         "under the doctrine of kamma."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, opening a five-poem "
+        "refrain sequence. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja41:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this poem's opening refrain share with the next several poems?",
+         "opts": [
+             'Nothing — it is unique to this poem',
+             'An identical or closely related two-line opening about ignoring good advice, repeated with variations across Ja 41-45',
+             'The same closing image each time',
+             "The same speaker's name",
+         ],
+         "correct": 0,
+         "expl": 'Only the second half of each poem changes, supplying a different illustrative example.'},
+        {"q": "What image completes this particular poem's refrain?",
+         "opts": [
+             'A description of a storm',
+             "Grieving like Mittaka, hanging off a goat's foot",
+             'A description of a shipwreck',
+             'No specific image is given',
+         ],
+         "correct": 1,
+         "expl": "A deliberately strange, absurd image per Sujato's own comment."},
+        {"q": "What three names does Sujato's comment give for this poem's central figure?",
+         "opts": [
+             'No specific names are given',
+             'Only one name is used throughout',
+             'Mittaka, Mittavindaka, and Losaka Tissa, across different points of his story',
+             'Two unrelated figures with similar names',
+         ],
+         "correct": 2,
+         "expl": 'His past-life name, his more common name, and his name in the present-life story.'},
+        {"q": "What does Sujato's comment say about the full explanation of the goat's-foot detail?",
+         "opts": [
+             'It does not exist in any source',
+             'It is a modern invention',
+             'It is simple and easily summarized',
+             "It is 'absurd and too complex to relate here'",
+         ],
+         "correct": 3,
+         "expl": 'The comment instead explains the broader pattern the story draws on.'},
+        {"q": "What ancient pattern does Sujato's comment say this tale's absurd events collate?",
+         "opts": [
+             'Several archetypal scapegoat stories, subsumed under the doctrine of kamma',
+             'A coronation ceremony',
+             'No pattern is identified',
+             'A harvest ritual',
+         ],
+         "correct": 0,
+         "expl": 'Using absurdity for humorous effect while still fitting within Buddhist doctrine.'},
+        {"q": "What does the comment say is the root cause, across many lives, of Mittaka's troubles?",
+         "opts": [
+             'Simple bad luck',
+             'An act of jealousy toward an arahant in a distant past life',
+             'A curse from a king',
+             'No cause is given',
+         ],
+         "correct": 1,
+         "expl": 'His bad character, as much as his bad kamma, resulted in a series of extravagant tragedies.'},
+        {"q": 'What chapter does this poem open?',
+         "opts": [
+             'It does not open a chapter',
+             'The Kulāvakavagga',
+             'The Atthakāmavagga',
+             'The Āsīsavagga',
+         ],
+         "correct": 2,
+         "expl": "This collection's fifth ten-poem chapter."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Pole Acrobat',
+             'The Mosquito',
+             'The Pigeon',
+             'About Losaka (Losakajātaka)',
+         ],
+         "correct": 3,
+         "expl": 'The forty-first poem overall, and the first of the Atthakāmavagga.'},
+        {"q": "What tone does Sujato's comment attribute to this tale's absurdity?",
+         "opts": [
+             'Used for humorous effect, while still serving a doctrinal point',
+             'Entirely nonsensical with no deeper meaning',
+             'Meant to be taken as literal historical fact',
+             'Purely tragic, with no humor',
+         ],
+         "correct": 0,
+         "expl": 'Drawing on surreal, fantastical narratives associated with Vedic ritual, reframed under kamma.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The final poem of the Kulāvakavagga',
+             'The first poem of the fifth chapter (Atthakāmavagga), following the completed Kulāvakavagga',
+             'It stands outside any chapter',
+             'The final poem of the Atthakāmavagga',
+         ],
+         "correct": 1,
+         "expl": "Opening this collection's fifth ten-poem chapter, and its first refrain sequence."},
+    ],
+    marginalia=[
+        ("A refrain that will repeat four more times", [
+            "the same opening couplet, poem after poem —",
+            "only the illustration changes each time"
+        ]),
+        ("An absurd fate, deliberately so", [
+            "hanging off a goat's foot, too complex to explain —",
+            "humor doing doctrinal work"
+        ]),
+        ("Three names, one long story", [
+            "Mittaka, Mittavindaka, Losaka Tissa —",
+            "one figure traced across many lives"
+        ]),
+        ("An old archetype, given a new frame", [
+            "scapegoat myths recast as karma —",
+            "ancient story-shapes still doing new work"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja41/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-40.html">Ja 40 &mdash; The Pit of Acacia '
+        "Coals</a> &mdash; the closing poem of the previous chapter.",
+        '<a href="ja-42.html">Ja 42 &mdash; The Pigeon</a> &mdash; '
+        "the next poem, continuing this chapter's refrain sequence.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 42 — Kapota (The Pigeon)
+# --------------------------------------------------------------------------- #
+page(
+    42, "Kapota", "The Pigeon",
+    meta_title="Ja 42 — The Pigeon | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 42 — the second of five poems sharing a refrain about "
+        "ignoring good advice, here a greedy crow ignoring a wise "
+        "pigeon's warning. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Five (Atthakāmavagga) &middot; Poem 2 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza, continuing this chapter's "
+                 "refrain sequence"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse, part of a formulaic sequence"),
+    ],
+    why=(
+        "This is the second poem in this chapter's refrain sequence "
+        "begun at Ja 41, and its illustration is disarmingly simple: "
+        "a greedy crow ignores a wise pigeon's own good counsel and "
+        "pays the ordinary, predictable price."),
+    guide=[
+        ("The refrain continues, with a plain animal example", [
+            "The verse repeats the chapter's opening formula "
+            "&mdash; &lsquo;one who does not follow advice when "
+            "instructed by an ally who wants to help&rsquo; &mdash; "
+            "then supplies its own illustration: &lsquo;not following "
+            "the pigeon's counsel, ends up in the hands of their "
+            "foes.&rsquo; Per Sujato's comment, a greedy crow ignores "
+            "the warning of the wise pigeon and continues to steal "
+            "food from the kitchen, with predictable consequences."]),
+        ("A simpler counterpart to the previous poem's absurdity", [
+            "Where Ja 41's illustration required an elaborate, "
+            "&lsquo;too complex to relate&rsquo; backstory, this "
+            "poem's crow-and-pigeon story is straightforward and "
+            "immediately legible &mdash; showing the range this "
+            "chapter's shared refrain can accommodate, from the "
+            "surreal to the mundane."]),
+    ],
+    terms=[
+        ("kapotakassa vacanaṁ",
+         "&ldquo;the pigeon's counsel&rdquo; &mdash; the good advice "
+         "given and ignored, giving this poem its traditional title."),
+        ("amittahatthatthagatova seti",
+         "&ldquo;ends up in the hands of their foes&rdquo; &mdash; "
+         "the crow's predictable fate."),
+        ("Kapotajātaka",
+         "the traditional title of this tale, &lsquo;The "
+         "Pigeon&rsquo;."),
+        ("Ja 41",
+         "the previous poem, opening this chapter's shared refrain "
+         "sequence, which this poem continues."),
+        ("crow",
+         "per Sujato's comment, the greedy party in this tale, "
+         "repeatedly stealing food despite the pigeon's warning."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, continuing the refrain "
+        "sequence begun at Ja 41. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja42:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this poem's opening repeat?",
+         "opts": [
+             'No refrain is used',
+             'A completely new formula',
+             "The chapter's shared refrain about ignoring the advice of an ally who wants to help",
+             'A refrain about kingship',
+         ],
+         "correct": 1,
+         "expl": "The second poem in this chapter's five-poem refrain sequence begun at Ja 41."},
+        {"q": "Who ignores good advice in this poem's illustration?",
+         "opts": [
+             'No specific animal is named',
+             'A wise pigeon',
+             "A greedy crow, ignoring the pigeon's warning",
+             'A hunter',
+         ],
+         "correct": 2,
+         "expl": 'Continuing to steal food from the kitchen despite being warned.'},
+        {"q": "What is the crow's fate, per the verse?",
+         "opts": [
+             'It is rewarded',
+             'The verse does not specify',
+             'It escapes unharmed',
+             'It ends up in the hands of its foes',
+         ],
+         "correct": 3,
+         "expl": "The predictable consequence of ignoring the pigeon's counsel."},
+        {"q": "How does this poem's illustration compare to Ja 41's in complexity?",
+         "opts": [
+             'Much simpler and more straightforward — an ordinary, immediately legible story',
+             'Even more complex',
+             'There is no notable difference',
+             'Equally complex and absurd',
+         ],
+         "correct": 0,
+         "expl": "Showing the range this chapter's shared refrain can accommodate."},
+        {"q": 'What specifically does the crow keep doing despite the warning?',
+         "opts": [
+             'Building a nest in the wrong place',
+             'Stealing food from the kitchen',
+             'Attacking other birds',
+             'Flying too close to a predator',
+         ],
+         "correct": 1,
+         "expl": "Its persistent greed despite the pigeon's counsel."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Mosquito',
+             'About Losaka',
+             'The Pigeon (Kapotajātaka)',
+             'The Pole Acrobat',
+         ],
+         "correct": 2,
+         "expl": 'The forty-second poem overall, and the second of the Atthakāmavagga.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The second poem of the Atthakāmavagga, following Ja 41',
+         ],
+         "correct": 3,
+         "expl": 'Part of the same refrain sequence as Ja 41, 43, 44, and 45.'},
+        {"q": 'What role does the pigeon play in this tale?',
+         "opts": [
+             'The wise advisor whose counsel is ignored',
+             'An uninvolved bystander',
+             'The one who punishes the crow',
+             'The greedy party',
+         ],
+         "correct": 0,
+         "expl": 'Giving this poem its traditional title.'},
+        {"q": 'What general theme does this poem share with Ja 41?',
+         "opts": [
+             'No shared theme',
+             'The consequence of ignoring the advice of someone who genuinely wants your good',
+             'A theme about royal succession',
+             'A theme about seasonal change',
+         ],
+         "correct": 1,
+         "expl": 'Both poems are variations on the same shared refrain.'},
+        {"q": "How many poems total make up this chapter's refrain sequence, including this one?",
+         "opts": [
+             'Three',
+             'Two',
+             'Five (Ja 41 through 45)',
+             'Ten',
+         ],
+         "correct": 2,
+         "expl": 'Each supplying a different illustrative example of the same underlying warning.'},
+    ],
+    marginalia=[
+        ("The same warning, a simpler case", [
+            "no absurd goat's-foot tale needed here —",
+            "just a crow who wouldn't listen"
+        ]),
+        ("Greed, repeated until it costs everything", [
+            "the kitchen raided again and again —",
+            "the pigeon's counsel ignored each time"
+        ]),
+        ("A wise bird, unheeded", [
+            "the pigeon warns, the crow persists —",
+            "the outcome exactly as predicted"
+        ]),
+        ("The chapter's range on display", [
+            "from surreal to plainly ordinary —",
+            "the same refrain fits both kinds of story"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja42/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-41.html">Ja 41 &mdash; About Losaka</a> '
+        "&mdash; the poem immediately before this one, opening this "
+        "chapter's refrain sequence.",
+        '<a href="ja-43.html">Ja 43 &mdash; The Pole Acrobat</a> '
+        "&mdash; the next poem, continuing the sequence.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 43 — Veḷuka (The Pole Acrobat)
+# --------------------------------------------------------------------------- #
+page(
+    43, "Ve&#7789;uka", "The Pole Acrobat",
+    meta_title="Ja 43 — The Pole Acrobat | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 43 — a pet viper's betrayal echoing Aesop's fable, "
+        "and a contrasting image of trust rewarded at this site's own "
+        "SN 42.8. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Five (Atthakāmavagga) &middot; Poem 3 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza, continuing this chapter's "
+                 "refrain sequence"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse with a cross-cultural fable "
+                       "parallel"),
+    ],
+    why=(
+        "This poem's tale of a pet viper turning on its keeper closely "
+        "resembles Aesop's fable The Farmer and the Viper, a "
+        "similarity Sujato's own comment notes directly, adding that "
+        "this same story pattern continues to be retold in modern "
+        "songs and politics."),
+    guide=[
+        ("A warning ignored, ending in destruction", [
+            "The verse continues the chapter's refrain, closing: "
+            "&lsquo;ends up destroyed like the pole acrobat's "
+            "father.&rsquo; Per Sujato's comment, the underlying "
+            "story concerns an ascetic who kept a viper as a pet, "
+            "despite being warned it would turn on him one day "
+            "&mdash; caring for it, the comment notes, &lsquo;like a "
+            "father.&rsquo;"]),
+        ("A story paralleled well beyond this collection", [
+            "Sujato's comment observes this tale is &lsquo;similar to "
+            "Aesop's fable The Farmer and the Viper&rsquo;, and that "
+            "the same underlying pattern &lsquo;is retold in modern "
+            "songs and politics&rsquo; &mdash; a rare case in this "
+            "partial selection where a comment explicitly reaches "
+            "outside the Buddhist canon entirely to note a "
+            "cross-cultural parallel."]),
+        ("A contrasting picture of trust well placed", [
+            "Sujato's comment also points to this site's own SN 42.8, "
+            "where a different pole acrobat and student are protected "
+            "specifically because they do listen to each other's wise "
+            "advice &mdash; the same acrobatic image used there to "
+            "show trust rewarded, in direct contrast to this poem's "
+            "story of trust betrayed."]),
+    ],
+    terms=[
+        ("veḷuka",
+         "&ldquo;pole acrobat&rdquo;, also the name given to the "
+         "pet viper in the underlying story, per Sujato's comment "
+         "named for the bamboo tube (veḷu) it lived in."),
+        ("nihato seti",
+         "&ldquo;ends up destroyed&rdquo; &mdash; the fate of "
+         "someone who ignores good counsel, closing this poem's "
+         "refrain."),
+        ("Aesop's The Farmer and the Viper",
+         "a Western fable Sujato's comment identifies as closely "
+         "similar to this tale's underlying story."),
+        ("Veḷukajātaka",
+         "the traditional title of this tale, &lsquo;The Pole "
+         "Acrobat&rsquo;."),
+        ("SN 42.8",
+         "the already-completed page on this site with a "
+         "contrasting pole-acrobat image, where mutual trust is "
+         "rewarded rather than betrayed."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, continuing the refrain "
+        "sequence begun at Ja 41. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja43:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this poem's illustration concern, per Sujato's comment?",
+         "opts": [
+             'No specific story is given',
+             'A dispute between two kings',
+             'An ascetic who kept a viper as a pet, despite warnings it would turn on him',
+             "A merchant's failed voyage",
+         ],
+         "correct": 2,
+         "expl": "Cared for 'like a father', per the comment."},
+        {"q": "What Western fable does Sujato's comment identify this tale as similar to?",
+         "opts": [
+             'The Boy Who Cried Wolf',
+             'No Western parallel is noted',
+             'The Tortoise and the Hare',
+             "Aesop's The Farmer and the Viper",
+         ],
+         "correct": 3,
+         "expl": 'A rare case where the comment reaches outside the Buddhist canon to note a cross-cultural parallel.'},
+        {"q": "What does Sujato's comment say about this story pattern's later use?",
+         "opts": [
+             'That it continues to be retold in modern songs and politics',
+             'That it was only ever used once',
+             'The comment does not address later use',
+             'That it disappeared from use entirely',
+         ],
+         "correct": 0,
+         "expl": 'A pattern still recognizable and referenced today.'},
+        {"q": "What already-completed page on this site does Sujato's comment point to for a contrasting image?",
+         "opts": [
+             'MN 51',
+             'SN 42.8, where mutual trust between a pole acrobat and student is rewarded',
+             'AN 8.13',
+             'No contrasting page is noted',
+         ],
+         "correct": 1,
+         "expl": 'The same acrobatic image, used there to show trust rewarded rather than betrayed.'},
+        {"q": "Why was the viper named Veḷuka, per Sujato's comment?",
+         "opts": [
+             'No explanation is given',
+             'After its color',
+             'Because it lived in a tube of bamboo (veḷu)',
+             "After the ascetic's own name",
+         ],
+         "correct": 2,
+         "expl": 'Giving this poem its traditional title.'},
+        {"q": 'What is the fate of the person who ignored the warning in this poem?',
+         "opts": [
+             'He successfully tames the viper permanently',
+             'The verse does not specify',
+             'He is unharmed',
+             'He ends up destroyed',
+         ],
+         "correct": 3,
+         "expl": "Closing this poem's version of the chapter's shared refrain."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Pole Acrobat (Veḷukajātaka)',
+             'The Mosquito',
+             'About Rohinī',
+             'The Pigeon',
+         ],
+         "correct": 0,
+         "expl": 'The forty-third poem overall, and the third of the Atthakāmavagga.'},
+        {"q": "How did the ascetic treat the viper, per Sujato's comment?",
+         "opts": [
+             'With constant suspicion',
+             "With care, 'like a father'",
+             'With cruelty',
+             'With indifference',
+         ],
+         "correct": 1,
+         "expl": 'Making the eventual betrayal more poignant.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The third poem of the Atthakāmavagga, following Ja 41 and Ja 42',
+             'The final poem of its chapter',
+         ],
+         "correct": 2,
+         "expl": 'Part of the same refrain sequence as Ja 41, 42, 44, and 45.'},
+        {"q": "What term does Sujato's comment note is used for 'pole acrobat' at SN 42.8, differing from this poem's term?",
+         "opts": [
+             'A completely unrelated word',
+             'No comparison of terms is made',
+             'An identical term with no variation',
+             "'Vaṁsika', a synonym for this poem's 'veḷuka'",
+         ],
+         "correct": 3,
+         "expl": 'Two different words for the same profession, appearing in contrasting stories.'},
+    ],
+    marginalia=[
+        ("A pet cared for like a child", [
+            "warned it would turn on him one day —",
+            "he kept it close regardless"
+        ]),
+        ("A fable that crosses cultures", [
+            "Aesop told nearly the same story —",
+            "still echoed in songs and politics today"
+        ]),
+        ("Trust betrayed, trust rewarded", [
+            "here, destruction follows misplaced care —",
+            "at SN 42.8, the same image ends differently"
+        ]),
+        ("A name that tells its own story", [
+            "Veḷuka, for the bamboo tube it lived in —",
+            "the tale's title carries its own small detail"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja43/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../samyutta-nikaya/sn-42.8.html">SN 42.8</a> '
+        "&mdash; a contrasting pole-acrobat image already complete "
+        "on this site, where trust is rewarded rather than betrayed.",
+        "<a href=\"ja-42.html\">Ja 42 &mdash; The Pigeon</a> &mdash; "
+        "the poem immediately before this one.",
+        '<a href="ja-44.html">Ja 44 &mdash; The Mosquito</a> '
+        "&mdash; the next poem, continuing this chapter's sequence.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 44 — Makasa (The Mosquito)
+# --------------------------------------------------------------------------- #
+page(
+    44, "Makasa", "The Mosquito",
+    meta_title="Ja 44 — The Mosquito | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 44 — an idiot son's fatal overcorrection while trying "
+        "to help his father, and a proverb preferring a considerate "
+        "foe to a careless friend. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Five (Atthakāmavagga) &middot; Poem 4 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza, a variant of this chapter's "
+                 "refrain sequence"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short, darkly comic verse"),
+    ],
+    why=(
+        "This poem shifts the chapter's refrain from ignoring good "
+        "advice to a related but distinct danger: well-meaning help "
+        "delivered without judgment, illustrated by one of this "
+        "collection's most darkly comic single images &mdash; a son "
+        "who kills the mosquito on his father's head with an axe, "
+        "killing his father in the process."),
+    guide=[
+        ("A modified refrain, and its own grim proof", [
+            "The verse restates the chapter's underlying concern in "
+            "new terms: &lsquo;better is a considerate foe than an "
+            "inconsiderate friend&rsquo; &mdash; then delivers its "
+            "proof: &lsquo;thinking, “I shall kill the mosquito”, the "
+            "idiot son split open his father's head.&rsquo;"]),
+        ("Good intentions, applied without any judgment", [
+            "Per Sujato's comment, when the carpenter asked his son "
+            "to rid him of a troublesome mosquito on his scalp, "
+            "&lsquo;he did not think he would do it with an axe.&rsquo; "
+            "The tragedy is not malice but a complete absence of "
+            "proportion or judgment &mdash; the son genuinely wants to "
+            "help, and that is precisely what makes the outcome "
+            "possible."]),
+    ],
+    terms=[
+        ("seyyo amitto matiyā upeto",
+         "&ldquo;better is a considerate foe&rdquo; &mdash; the "
+         "poem's opening proverb, reframing this chapter's concern in "
+         "terms of judgment rather than loyalty."),
+        ("mativippahīno",
+         "&ldquo;inconsiderate&rdquo;, literally &ldquo;devoid of "
+         "judgment&rdquo; &mdash; the disqualifying flaw in the "
+         "well-meaning friend."),
+        ("putto pitu abbhidā uttamaṅgaṁ",
+         "&ldquo;the son split open his father's head&rdquo; "
+         "&mdash; the poem's darkly comic proof of its own proverb."),
+        ("Makasajātaka",
+         "the traditional title of this tale, &lsquo;The "
+         "Mosquito&rsquo;."),
+        ("eḷamūgo",
+         "&ldquo;idiot&rdquo; &mdash; the verse's own blunt "
+         "description of the son."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, continuing this chapter's "
+        "sequence in modified form. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja44:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What proverb does this poem's opening state?",
+         "opts": [
+             'That a considerate foe is better than an inconsiderate friend',
+             'That mosquitoes are more dangerous than they appear',
+             'No proverb is stated',
+             'That family is always more trustworthy than strangers',
+         ],
+         "correct": 3,
+         "expl": "Reframing this chapter's underlying concern in terms of judgment rather than loyalty."},
+        {"q": "What does the son do, trying to kill the mosquito on his father's head?",
+         "opts": [
+             "He splits open his father's head with an axe",
+             'He asks someone else for help',
+             'He fails to find the mosquito',
+             'He successfully swats it away',
+         ],
+         "correct": 0,
+         "expl": "The poem's own darkly comic proof of its opening proverb."},
+        {"q": "What does Sujato's comment say the father expected?",
+         "opts": [
+             'That his son would use an axe',
+             'He did not think his son would use an axe to solve the problem',
+             'He expected to be killed',
+             'No expectation is described',
+         ],
+         "correct": 1,
+         "expl": 'Making the outcome a genuine, tragic surprise.'},
+        {"q": "What is identified as the real flaw in the son's action?",
+         "opts": [
+             'Cowardice',
+             'Malice',
+             'A complete absence of proportion or judgment, despite genuinely good intentions',
+             'Physical weakness',
+         ],
+         "correct": 2,
+         "expl": 'The tragedy is precisely that he wanted to help.'},
+        {"q": "How does this proverb relate to the previous poems' shared refrain?",
+         "opts": [
+             'It directly repeats the exact same words',
+             'It contradicts the previous poems entirely',
+             'It has no relationship at all',
+             "It's a related but distinct danger — not ignoring advice, but well-meaning help delivered without judgment",
+         ],
+         "correct": 3,
+         "expl": "A modification of the chapter's underlying concern about the risks connected to trusted relationships."},
+        {"q": 'What word does the verse use to describe the son directly?',
+         "opts": [
+             "'Idiot' (eḷamūgo)",
+             'Careful',
+             'Cruel',
+             'Wise',
+         ],
+         "correct": 0,
+         "expl": 'A blunt assessment matching the outcome.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Pole Acrobat',
+             'The Mosquito (Makasajātaka)',
+             'About Rohinī',
+             'Spoiling the Park',
+         ],
+         "correct": 1,
+         "expl": 'The forty-fourth poem overall, and the fourth of the Atthakāmavagga.'},
+        {"q": "What profession did the father have, per Sujato's comment?",
+         "opts": [
+             'A merchant',
+             'A farmer',
+             'A carpenter',
+             'A fisherman',
+         ],
+         "correct": 2,
+         "expl": 'Asking his son for a simple favor with unexpectedly fatal results.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The fourth poem of the Atthakāmavagga, following Ja 41 through Ja 43',
+         ],
+         "correct": 3,
+         "expl": 'Part of the same refrain sequence, with this and the next poem sharing a modified opening.'},
+        {"q": "What tone does this reading guide identify in this poem's central image?",
+         "opts": [
+             'Darkly comic',
+             'Lighthearted with no serious point',
+             'Entirely absurdist with no moral',
+             'Purely solemn with no humor',
+         ],
+         "correct": 0,
+         "expl": "One of this collection's most darkly comic single images."},
+    ],
+    marginalia=[
+        ("A favor that turns fatal", [
+            "kill the mosquito, the father asked —",
+            "not expecting an axe as the answer"
+        ]),
+        ("Good intentions, no judgment at all", [
+            "not malice, just a total absence of proportion —",
+            "the tragedy is that he wanted to help"
+        ]),
+        ("A proverb proven in the darkest way", [
+            "better an enemy who thinks —",
+            "than a friend who doesn't"
+        ]),
+        ("One of this collection's bleakest jokes", [
+            "the image lands as both comic and horrifying —",
+            "a single line doing double duty"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja44/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-43.html">Ja 43 &mdash; The Pole Acrobat</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="ja-45.html">Ja 45 &mdash; About Rohinī</a> '
+        "&mdash; the next poem, closing this chapter's refrain "
+        "sequence.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 45 — Rohiṇī (About Rohinī)
+# --------------------------------------------------------------------------- #
+page(
+    45, "Rohi&#7751;&imacr;", "About Rohinī",
+    meta_title="Ja 45 — About Rohinī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 45, closing this chapter's refrain sequence — a "
+        "servant girl's accidental matricide while trying to swat "
+        "flies away from her mother. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Five (Atthakāmavagga) &middot; Poem 5 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza, closing this chapter's "
+                 "refrain sequence"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; a grim companion to Ja 44, with a "
+                       "genuine textual puzzle"),
+    ],
+    why=(
+        "This poem closes the five-poem refrain sequence begun at Ja "
+        "41 with a tale strikingly similar to the previous poem's "
+        "&mdash; a well-meaning act of care, misapplied, causing "
+        "exactly the death it was meant to prevent &mdash; and "
+        "Sujato's comment flags a specific word in the opening line "
+        "that even the traditional commentary cannot satisfactorily "
+        "explain."),
+    guide=[
+        ("A second version of the same tragic pattern", [
+            "The verse restates the proverb once more: &lsquo;better "
+            "is an intelligent foe than a foolish sympathizer&rsquo; "
+            "&mdash; then delivers its own grim proof: &lsquo;see that "
+            "wretched Rohinī, grieving after killing her "
+            "mother.&rsquo; Per Sujato's comment, this tale is "
+            "&lsquo;similar to the previous story&rsquo;: a servant "
+            "girl kills her mother with a pestle while trying to rid "
+            "her of flies."]),
+        ("A word even the tradition itself struggles with", [
+            "Sujato's comment flags a specific difficulty: the "
+            "opening word &lsquo;yañce&rsquo; is &lsquo;hard to "
+            "explain&rsquo;, with the traditional commentary offering "
+            "&lsquo;several options, none of which are terribly "
+            "convincing&rsquo;. Sujato's own suggestion is that it "
+            "might be &lsquo;an old corruption&rsquo; of a phrase used "
+            "in the previous poem, &lsquo;na tveva&rsquo; &mdash; an "
+            "honest acknowledgment that not every textual puzzle in "
+            "this collection has a fully satisfying answer."]),
+    ],
+    terms=[
+        ("seyyo amitto medhāvī",
+         "&ldquo;better is an intelligent foe&rdquo; &mdash; this "
+         "poem's version of the chapter's closing proverb pair "
+         "(shared with Ja 44)."),
+        ("bālānukampako",
+         "&ldquo;a foolish sympathizer&rdquo; &mdash; the "
+         "disqualified alternative, echoing Ja 44's 'inconsiderate "
+         "friend'."),
+        ("yañce",
+         "an opening word Sujato's comment describes as "
+         "&ldquo;hard to explain&rdquo;, possibly an old corruption "
+         "of &lsquo;na tveva&rsquo; from the previous poem."),
+        ("Rohiṇijātaka",
+         "the traditional title of this tale, named for the servant "
+         "girl at its center."),
+        ("Ja 44",
+         "the previous poem, sharing both this poem's proverb "
+         "structure and its underlying pattern of well-meaning harm."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, closing this chapter's "
+        "refrain sequence, with a genuine textual puzzle discussed "
+        "above. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja45:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the verse's opening proverb state?",
+         "opts": [
+             'That an intelligent foe is better than a foolish sympathizer',
+             'That flies are more dangerous than they appear',
+             'No proverb is stated',
+             'That family is always trustworthy',
+         ],
+         "correct": 0,
+         "expl": "Closing the chapter's refrain sequence with a variant of Ja 44's own proverb."},
+        {"q": "What does Rohinī do, per the verse and Sujato's comment?",
+         "opts": [
+             'She successfully protects her mother',
+             'She kills her mother with a pestle while trying to rid her of flies',
+             'She abandons her mother',
+             'She injures herself instead',
+         ],
+         "correct": 1,
+         "expl": 'A well-meaning act of care causing exactly the death it was meant to prevent.'},
+        {"q": "How does Sujato's comment describe this tale's relationship to the previous poem, Ja 44?",
+         "opts": [
+             'An earlier version later revised into Ja 44',
+             'Completely unrelated',
+             "'Similar to the previous story' — the same underlying pattern of well-meaning harm",
+             'A direct contradiction',
+         ],
+         "correct": 2,
+         "expl": 'Both poems share the pattern of good intentions applied without proportion or judgment.'},
+        {"q": "What specific word does Sujato's comment say is 'hard to explain'?",
+         "opts": [
+             "The word for 'mother'",
+             "The word for 'pestle'",
+             'No word is flagged as difficult',
+             "'Yañce', the opening word, with even the traditional commentary's explanations unconvincing",
+         ],
+         "correct": 3,
+         "expl": 'An honest acknowledgment that not every textual puzzle has a fully satisfying answer.'},
+        {"q": "What does Sujato's own comment suggest 'yañce' might be?",
+         "opts": [
+             "An old corruption of 'na tveva' from the previous poem",
+             'A scribal addition with no meaning',
+             'The comment offers no suggestion at all',
+             'A completely unrelated new word',
+         ],
+         "correct": 0,
+         "expl": 'A tentative, honestly-flagged hypothesis rather than a confident claim.'},
+        {"q": "What does the traditional commentary offer for this word's meaning?",
+         "opts": [
+             'A single, confident, convincing explanation',
+             'Several options, none of which Sujato finds terribly convincing',
+             'No explanation is offered by the commentary either',
+             "A completely different reading than Sujato's",
+         ],
+         "correct": 1,
+         "expl": 'A rare case where the comment openly notes the limits of available scholarship.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Spoiling the Toddy',
+             'The Mosquito',
+             'About Rohinī (Rohiṇijātaka)',
+             'Spoiling the Park',
+         ],
+         "correct": 2,
+         "expl": "The forty-fifth poem overall, and the fifth and final poem of this chapter's refrain sequence."},
+        {"q": 'What tool does Rohinī use, per the underlying story?',
+         "opts": [
+             'Her bare hands',
+             'A stick',
+             'A knife',
+             'A pestle',
+         ],
+         "correct": 3,
+         "expl": 'Meant to swat away flies, with fatal results.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The fifth poem of the Atthakāmavagga, closing the refrain sequence begun at Ja 41',
+             'The final poem of the whole chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+         ],
+         "correct": 0,
+         "expl": 'Five poems remain in this ten-poem chapter after this one.'},
+        {"q": 'What does the verse call Rohinī, describing her state after the killing?',
+         "opts": [
+             'Triumphant',
+             "'Wretched', grieving after killing her mother",
+             'Indifferent',
+             'Proud',
+         ],
+         "correct": 1,
+         "expl": 'The poem does not treat her harshly as a villain, but as someone grieving a tragic accident.'},
+    ],
+    marginalia=[
+        ("A second version of the same tragedy", [
+            "flies swatted with a pestle, not an axe —",
+            "the same fatal lack of proportion"
+        ]),
+        ("A word the tradition can't quite explain", [
+            "even the commentary offers only guesses —",
+            "Sujato names the difficulty honestly"
+        ]),
+        ("Grief, not villainy", [
+            "the verse calls her wretched, not wicked —",
+            "an accident, mourned rather than condemned"
+        ]),
+        ("Closing five poems on one theme", [
+            "the last of the chapter's shared refrain —",
+            "five different proofs of the same warning"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja45/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-44.html">Ja 44 &mdash; The Mosquito</a> '
+        "&mdash; the poem immediately before this one, sharing this "
+        "poem's underlying pattern.",
+        '<a href="ja-46.html">Ja 46 &mdash; Spoiling the Park</a> '
+        "&mdash; the next poem, opening a new, shorter refrain pair.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 46 — Ārāmadūsaka (Spoiling the Park)
+# --------------------------------------------------------------------------- #
+page(
+    46, "&Amacr;r&amacr;mad&umacr;saka", "Spoiling the Park",
+    meta_title="Ja 46 — Spoiling the Park | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 46 — well-meaning monkeys who ruin a whole park by "
+        "misunderstanding simple instructions, and a wordplay-rich "
+        "verse about two senses of 'good'. From Ru-Yi Meditation "
+        "Center."),
+    vagga="Book of the Ones &middot; Chapter Five (Atthakāmavagga) &middot; Poem 6 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza, opening a new two-poem "
+                 "refrain pair"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse built on deliberate wordplay"),
+    ],
+    why=(
+        "This poem opens a new, shorter two-poem refrain pair "
+        "(continuing at Ja 47), shifting the chapter's concern from "
+        "ignored advice to misunderstood instructions &mdash; and "
+        "Sujato's comment unpacks a deliberate play on two different "
+        "senses of a single Pali word that the English translation "
+        "alone cannot fully capture."),
+    guide=[
+        ("Good intentions undone by literal-minded misunderstanding", [
+            "The verse opens a new refrain: &lsquo;surely not with "
+            "one who misunderstands the meaning does good conduct "
+            "lead to happiness. The simpleton destroys the good, like "
+            "the monkey groundskeeper.&rsquo; Per Sujato's comment, a "
+            "lazy groundskeeper asks monkeys in the park to water the "
+            "trees in his absence; they set to work with genuine good "
+            "cheer, but misconstrue the instructions and pull up each "
+            "tree to examine its roots before watering &mdash; ruining "
+            "the whole park through good intentions alone."]),
+        ("A single word carrying two different senses at once", [
+            "Sujato's comment explains that the verse plays on two "
+            "meanings of &lsquo;attha&rsquo;: in the opening line it "
+            "means &lsquo;meaning, basis&rsquo; (glossed as "
+            "&lsquo;reason, cause&rsquo;), while later it means "
+            "&lsquo;good, benefit&rsquo; &mdash; the same word doing "
+            "double duty, a wordplay the English translation must "
+            "render with two different words, losing the original's "
+            "single-word pun."]),
+    ],
+    terms=[
+        ("anatthakusalena",
+         "&ldquo;one who misunderstands the meaning&rdquo; &mdash; "
+         "the flawed figure at the center of this poem's warning."),
+        ("attha",
+         "a Pali word Sujato's comment identifies as carrying two "
+         "distinct senses within this single verse: "
+         "&lsquo;meaning/basis&rsquo; and &lsquo;good/benefit&rsquo;."),
+        ("kapi ārāmiko",
+         "&ldquo;the monkey groundskeeper&rdquo; &mdash; the "
+         "well-meaning but literal-minded figures at the center of "
+         "the underlying story."),
+        ("Ārāmadūsakajātaka",
+         "the traditional title of this tale, &lsquo;Spoiling the "
+         "Park&rsquo;."),
+        ("Ja 47",
+         "the next poem in this chapter, sharing this poem's exact "
+         "opening and closing formula with a different illustration."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, opening a two-poem "
+        "refrain pair built on deliberate wordplay, discussed above. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja46:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What do the monkeys do, per Sujato's comment?",
+         "opts": [
+             'They refuse the task entirely',
+             'They misconstrue the watering instructions and pull up each tree to examine its roots, ruining the park',
+             'They water the trees perfectly',
+             'They abandon the park to predators',
+         ],
+         "correct": 1,
+         "expl": 'Despite setting to work with genuine good cheer.'},
+        {"q": "What wordplay does Sujato's comment identify in this verse?",
+         "opts": [
+             "A pun on the word for 'monkey'",
+             'No wordplay is present',
+             "The word 'attha' carries two distinct senses within the same verse — 'meaning/basis' and 'good/benefit'",
+             "A pun on the groundskeeper's name",
+         ],
+         "correct": 2,
+         "expl": 'A single word doing double duty, which the English translation must render with two different words.'},
+        {"q": 'Who asks the monkeys to water the trees?',
+         "opts": [
+             'A visiting merchant',
+             'No one — they act on their own',
+             'The king',
+             'A lazy groundskeeper, in his own absence',
+         ],
+         "correct": 3,
+         "expl": 'Setting up the well-meaning but disastrous misunderstanding.'},
+        {"q": "What is the underlying cause of the park's destruction?",
+         "opts": [
+             'Good intentions combined with a literal-minded misunderstanding of the instructions',
+             'A natural disaster',
+             'Deliberate sabotage by a rival groundskeeper',
+             'Malicious intent by the monkeys',
+         ],
+         "correct": 0,
+         "expl": 'The monkeys genuinely wanted to help, but misconstrued what helping actually required.'},
+        {"q": 'What relationship does this poem have to Ja 47?',
+         "opts": [
+             'No relationship at all',
+             'They share the exact same opening and closing formula, illustrated by a different example',
+             'Ja 47 predates this poem',
+             'They tell contradictory morals',
+         ],
+         "correct": 1,
+         "expl": 'A new, shorter two-poem refrain pair within this chapter.'},
+        {"q": "What does the verse's opening line claim about someone who misunderstands the meaning?",
+         "opts": [
+             'No claim is made',
+             'That their good conduct still leads to happiness regardless',
+             'That good conduct does not lead to happiness for such a person',
+             'That they cannot act at all',
+         ],
+         "correct": 2,
+         "expl": "Setting up the poem's central warning about action without understanding."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Spoiling the Toddy',
+             'About Vedabbha',
+             'About Rohinī',
+             'Spoiling the Park (Ārāmadūsakajātaka)',
+         ],
+         "correct": 3,
+         "expl": 'The forty-sixth poem overall, and the sixth of the Atthakāmavagga.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The sixth poem of the Atthakāmavagga, following the five-poem refrain sequence of Ja 41-45',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+         ],
+         "correct": 0,
+         "expl": 'Opening a new, shorter refrain pair within the same chapter.'},
+        {"q": "How does this poem's concern differ from the previous five poems' shared refrain?",
+         "opts": [
+             'It is identical in every respect',
+             'It shifts from ignoring good advice to misunderstanding instructions despite good intentions',
+             'It concerns a completely unrelated topic',
+             'It focuses on royal succession',
+         ],
+         "correct": 1,
+         "expl": 'A related but distinct kind of failure within the same broader chapter theme.'},
+        {"q": "What animal is specifically responsible for the park's ruin?",
+         "opts": [
+             'Deer',
+             'Elephants',
+             'Monkeys',
+             'Birds',
+         ],
+         "correct": 2,
+         "expl": 'Acting as groundskeepers in the absence of the human keeper.'},
+    ],
+    marginalia=[
+        ("Good cheer, disastrous results", [
+            "the monkeys set to work happily —",
+            "and ruin the whole park by trying too hard"
+        ]),
+        ("One word, two meanings at once", [
+            "'attha' shifting sense within the same line —",
+            "a pun the translation can't fully carry over"
+        ]),
+        ("Understanding as the missing ingredient", [
+            "not malice, just misunderstood instructions —",
+            "good intentions alone were never enough"
+        ]),
+        ("A new pair begins", [
+            "Ja 46 and 47 share the same frame —",
+            "a shorter echo of the chapter's first sequence"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja46/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-45.html">Ja 45 &mdash; About Rohinī</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="ja-47.html">Ja 47 &mdash; Spoiling the Toddy</a> '
+        "&mdash; the next poem, completing this refrain pair.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 47 — Vāruṇidūsaka (Spoiling the Toddy)
+# --------------------------------------------------------------------------- #
+page(
+    47, "V&amacr;ru&#7751;id&umacr;saka", "Spoiling the Toddy",
+    meta_title="Ja 47 — Spoiling the Toddy | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 47 — a brewer's apprentice ruining a batch of drink "
+        "through misunderstood instructions, completing this "
+        "chapter's second refrain pair. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Five (Atthakāmavagga) &middot; Poem 7 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza, completing this chapter's "
+                 "second refrain pair"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse, part of a two-poem pair"),
+    ],
+    why=(
+        "This poem completes the two-poem refrain pair begun at Ja "
+        "46, illustrating the same warning about misunderstood "
+        "instructions with an entirely different, everyday setting "
+        "&mdash; a brewery instead of a park."),
+    guide=[
+        ("The same refrain, a human rather than animal example", [
+            "The verse repeats its companion poem's opening and "
+            "closing formula exactly, changing only the illustration: "
+            "&lsquo;the simpleton destroys the good, as Koṇḍañña did "
+            "the toddy.&rsquo; Per Sujato's comment, a brewer's "
+            "apprentice ruins an entire batch of toddy due to simply "
+            "misunderstanding the instructions he was given."]),
+        ("Two illustrations, one shared lesson", [
+            "Where Ja 46 used monkeys destroying a park through "
+            "misapplied enthusiasm, this poem uses a human apprentice "
+            "destroying a batch of drink through the same underlying "
+            "failure &mdash; showing that this chapter's warning "
+            "about misunderstanding is not limited to animal folly, "
+            "but applies equally to ordinary human error."]),
+    ],
+    terms=[
+        ("koṇḍañño",
+         "the name of the brewer's apprentice in this tale's "
+         "underlying story &mdash; unrelated to the elder Koṇḍañña "
+         "elsewhere in the canon."),
+        ("vāruṇiṁ",
+         "&ldquo;toddy&rdquo; &mdash; the fermented drink ruined by "
+         "the apprentice's misunderstanding, giving this poem its "
+         "traditional title."),
+        ("hāpeti atthaṁ dummedho",
+         "&ldquo;the simpleton destroys the good&rdquo; &mdash; the "
+         "refrain shared word for word with Ja 46."),
+        ("Vāruṇidūsakajātaka",
+         "the traditional title of this tale, &lsquo;Spoiling the "
+         "Toddy&rsquo;."),
+        ("Ja 46",
+         "the previous poem, sharing this poem's exact opening and "
+         "closing formula with a different illustration."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, completing the refrain "
+        "pair begun at Ja 46. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja47:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the brewer's apprentice ruin, per this poem?",
+         "opts": [
+             'A garden',
+             'A batch of bread',
+             'A batch of toddy (fermented drink)',
+             'A shipment of grain',
+         ],
+         "correct": 2,
+         "expl": "Giving this poem its traditional title, 'Spoiling the Toddy'."},
+        {"q": "Why does the apprentice ruin the batch, per Sujato's comment?",
+         "opts": [
+             'A lack of ingredients',
+             'Bad weather',
+             'Deliberate sabotage',
+             'Simply misunderstanding the instructions he was given',
+         ],
+         "correct": 3,
+         "expl": "The same underlying pattern as Ja 46's monkey groundskeepers."},
+        {"q": "How does this poem's opening and closing relate to Ja 46's?",
+         "opts": [
+             'The exact same formula, with only the illustration changed',
+             'A loose paraphrase with significant differences',
+             'No relationship at all',
+             'Completely different wording throughout',
+         ],
+         "correct": 0,
+         "expl": 'Completing a matched two-poem refrain pair.'},
+        {"q": "What is the significance of this poem using a human example after Ja 46's animal one?",
+         "opts": [
+             'No particular significance',
+             'It shows the same warning about misunderstanding applies equally to human error, not just animal folly',
+             "It contradicts Ja 46's message",
+             'It suggests only humans can misunderstand instructions',
+         ],
+         "correct": 1,
+         "expl": "Broadening the lesson's apparent scope through a paired but distinct illustration."},
+        {"q": "Is the 'Koṇḍañña' in this tale related to the well-known elder Koṇḍañña elsewhere in the canon?",
+         "opts": [
+             'They are explicitly identified as brothers',
+             'Yes, the same figure',
+             'No — an unrelated figure sharing only the name',
+             'The comment does not address this',
+         ],
+         "correct": 2,
+         "expl": 'A coincidence of naming, not a narrative connection.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'About Vedabbha',
+             'Constellations',
+             'Spoiling the Park',
+             'Spoiling the Toddy (Vāruṇidūsakajātaka)',
+         ],
+         "correct": 3,
+         "expl": 'The forty-seventh poem overall, and the seventh of the Atthakāmavagga.'},
+        {"q": "What profession is involved in this poem's illustration?",
+         "opts": [
+             "A brewer's apprentice",
+             "A ship's captain",
+             'A royal minister',
+             'A farmer',
+         ],
+         "correct": 0,
+         "expl": "An ordinary trade, contrasting with Ja 46's park setting."},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The seventh poem of the Atthakāmavagga, completing the refrain pair begun at Ja 46',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+         ],
+         "correct": 1,
+         "expl": 'Part of the same ten-poem Atthakāmavagga.'},
+        {"q": "What common thread connects this poem's illustration to Ja 46's?",
+         "opts": [
+             'No common thread exists',
+             'Both involve royalty',
+             'Both involve well-meaning effort undone by misunderstanding, in different settings',
+             'Both involve the same specific characters',
+         ],
+         "correct": 2,
+         "expl": 'The same underlying lesson given twice, in animal and human form.'},
+        {"q": 'How many poems remain in the Atthakāmavagga after this one?',
+         "opts": [
+             'Five',
+             'One',
+             'None',
+             'Three (Ja 48, 49, and 50)',
+         ],
+         "correct": 3,
+         "expl": "The chapter's closing stretch, each a standalone poem rather than part of a refrain sequence."},
+    ],
+    marginalia=[
+        ("The same lesson, a different setting", [
+            "not a park this time, but a brewery —",
+            "the same misunderstanding, the same ruin"
+        ]),
+        ("A human error, matching an animal one", [
+            "the apprentice fares no better than the monkeys —",
+            "misunderstanding spares no one"
+        ]),
+        ("A shared name, no shared story", [
+            "Koṇḍañña here is not the famous elder —",
+            "just a coincidence of naming"
+        ]),
+        ("A matched pair, closed out", [
+            "Ja 46 and 47, the same frame twice —",
+            "three standalone poems still remain in this chapter"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja47/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-46.html">Ja 46 &mdash; Spoiling the Park</a> '
+        "&mdash; the poem immediately before this one, sharing this "
+        "poem's exact formula.",
+        '<a href="ja-48.html">Ja 48 &mdash; About Vedabbha</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 48 — Vedabba (About Vedabbha)
+# --------------------------------------------------------------------------- #
+page(
+    48, "Vedabba", "About Vedabbha",
+    meta_title="Ja 48 — About Vedabbha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 48 — a warning against profit by inappropriate means, "
+        "where Sujato's comment directly questions whether the "
+        "traditional commentary's story actually matches the verse. "
+        "From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Five (Atthakāmavagga) &middot; Poem 8 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; a case where the traditional story "
+                       "itself is called into question"),
+    ],
+    why=(
+        "This poem offers a rare, direct look at how this collection "
+        "was assembled: Sujato's own comment states plainly that the "
+        "traditional commentary's elaborate story of bandits, spells, "
+        "and a captured brahmin does not actually appear anywhere in "
+        "the verse itself, and proposes a simpler, more historically "
+        "grounded alternative."),
+    guide=[
+        ("A warning against profit through improper means", [
+            "The verse states its principle directly: &lsquo;who "
+            "wishes to profit by inappropriate means is tormented. "
+            "The Cetans who killed Vedabbha all fell into "
+            "ruin.&rsquo; The consequence named is total: not "
+            "partial loss, but ruin for everyone involved."]),
+        ("A traditional story the verse itself does not actually tell", [
+            "Sujato's comment reports that the traditional "
+            "commentary describes a brahmin named Vedabbha, captured "
+            "by bandits from Cetī, who pays his ransom using a "
+            "wealth-granting spell also called Vedabbha &mdash; only "
+            "for the spell to inflame the bandits' greed until they "
+            "kill him and then each other. But the comment adds a "
+            "striking caveat: &lsquo;despite the commentary, however, "
+            "the verse does not mention bandits, spells, or "
+            "brahmins.&rsquo;"]),
+        ("A simpler, more historically grounded alternative reading", [
+            "Sujato's comment proposes instead that "
+            "&lsquo;Vedabbha&rsquo; (Sanskrit vaidarbha) is simply a "
+            "name for the king of Vidarbha, a country south of Cetī "
+            "&mdash; suggesting the verse's original context may have "
+            "been a real historical raid by the Cetans resulting in "
+            "the death of the king of Vidarbha, a framework that could "
+            "convey the same underlying moral without any of the "
+            "commentary's elaborate later embellishment."]),
+    ],
+    terms=[
+        ("anupāyena... atthaṁ icchati",
+         "&ldquo;wishes to profit by inappropriate means&rdquo; "
+         "&mdash; the verse's central warning."),
+        ("vedabbaṁ",
+         "&ldquo;Vedabbha&rdquo;, Sanskrit vaidarbha &mdash; per "
+         "Sujato's comment, likely a name for the king of Vidarbha, "
+         "rather than the brahmin of the traditional commentary's "
+         "story."),
+        ("cetā",
+         "&ldquo;the Cetans&rdquo; &mdash; per Sujato's comment, "
+         "likely raiders from Cetī, a country neighboring Vidarbha."),
+        ("Vedabbajātaka",
+         "the traditional title of this tale, &lsquo;About "
+         "Vedabbha&rsquo;."),
+        ("Vidarbha",
+         "a country south of Cetī, per Sujato's comment the likely "
+         "true referent of &lsquo;Vedabbha&rsquo;, rather than an "
+         "individual brahmin."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, with Sujato's own comment "
+        "directly questioning whether the traditional commentary's "
+        "story actually matches it, discussed above. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja48:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What does the verse warn against?',
+         "opts": [
+             'Traveling too far from home',
+             'No specific warning is given',
+             'Excessive generosity',
+             'Wishing to profit by inappropriate means',
+         ],
+         "correct": 3,
+         "expl": 'Illustrated by the total ruin of the Cetans who killed Vedabbha.'},
+        {"q": "What story does the traditional commentary tell about this verse, per Sujato's comment?",
+         "opts": [
+             "A brahmin named Vedabbha captured by bandits, who ransoms himself with a wealth-granting spell, inflaming the bandits' greed until they kill him and each other",
+             "A story about a merchant's voyage",
+             'No commentarial story exists',
+             "A story about a king's coronation",
+         ],
+         "correct": 0,
+         "expl": "The traditional elaboration Sujato's comment then directly questions."},
+        {"q": "What striking observation does Sujato's comment make about this traditional story?",
+         "opts": [
+             'That it perfectly matches every detail of the verse',
+             'That the verse itself does not actually mention bandits, spells, or brahmins',
+             'That it is confirmed by multiple independent sources',
+             'That it predates the verse itself',
+         ],
+         "correct": 1,
+         "expl": "A rare, direct questioning of whether the traditional commentary's story matches its own verse."},
+        {"q": "What alternative reading does Sujato's comment propose for 'Vedabbha'?",
+         "opts": [
+             'No alternative is proposed',
+             'A type of ritual object',
+             'A name for the king of Vidarbha, a country south of Cetī',
+             'A brand of spell with no historical basis',
+         ],
+         "correct": 2,
+         "expl": 'Suggesting a simpler, more historically grounded original context for the verse.'},
+        {"q": "What historical framework does Sujato's comment suggest instead?",
+         "opts": [
+             'A dispute over agricultural land',
+             'No alternative framework is suggested',
+             'A purely mythological event with no historical basis',
+             'A real raid by the Cetans resulting in the death of the king of Vidarbha',
+         ],
+         "correct": 3,
+         "expl": "A framework that could convey the same underlying moral without the commentary's later embellishment."},
+        {"q": 'What fate does the verse say befell the Cetans who killed Vedabbha?',
+         "opts": [
+             'They all fell into ruin',
+             'They were forgiven',
+             'The verse does not specify their fate',
+             'They prospered afterward',
+         ],
+         "correct": 0,
+         "expl": "A total consequence, matching the verse's opening warning about the torment of improper profit-seeking."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Spoiling the Toddy',
+             'About Vedabbha (Vedabbajātaka)',
+             'Constellations',
+             'The Simpleton',
+         ],
+         "correct": 1,
+         "expl": 'The forty-eighth poem overall, and the eighth of the Atthakāmavagga.'},
+        {"q": 'What does this poem illustrate about the relationship between canonical verses and their traditional commentaries generally?',
+         "opts": [
+             'That verses never require any commentary at all',
+             'That they always match perfectly with no discrepancy',
+             "That a commentary's elaborate story can sometimes diverge from what the bare verse itself actually says",
+             'That commentaries are always more reliable than verses',
+         ],
+         "correct": 2,
+         "expl": 'A rare, explicit case of this general tension being directly named by the translator.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The eighth poem of the Atthakāmavagga, following the two refrain sequences of Ja 41-45 and 46-47',
+         ],
+         "correct": 3,
+         "expl": 'A standalone poem, not part of either preceding refrain sequence.'},
+        {"q": 'Does this poem form part of a refrain sequence like several earlier poems in this chapter?',
+         "opts": [
+             'No — it stands alone, unlike Ja 41-45 and Ja 46-47',
+             'It shares a refrain with only one other poem',
+             'The question does not apply to this poem',
+             'Yes, sharing a refrain with several other poems',
+         ],
+         "correct": 0,
+         "expl": 'Marking a shift to standalone poems for the remainder of this chapter.'},
+    ],
+    marginalia=[
+        ("A story the verse doesn't actually tell", [
+            "bandits, spells, a brahmin — all from the commentary —",
+            "'the verse does not mention' any of it"
+        ]),
+        ("A simpler history, proposed instead", [
+            "not a magic spell, but a king's own name —",
+            "a raid, a death, a moral that still holds"
+        ]),
+        ("Total ruin, for everyone involved", [
+            "not one bandit spared —",
+            "'all fell into ruin', the verse says plainly"
+        ]),
+        ("A translator's honest caveat", [
+            "'despite the commentary, however' —",
+            "scholarship questioning its own tradition"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja48/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        "<a href=\"ja-47.html\">Ja 47 &mdash; Spoiling the "
+        "Toddy</a> &mdash; the poem immediately before this one.",
+        '<a href="ja-49.html">Ja 49 &mdash; Constellations</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 49 — Nakkhatta (Constellations)
+# --------------------------------------------------------------------------- #
+page(
+    49, "Nakkhatta", "Constellations",
+    meta_title="Ja 49 — Constellations | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 49 — a sharp dismissal of astrological superstition "
+        "over practical good, echoed at this site's own DN 4. From "
+        "Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Five (Atthakāmavagga) &middot; Poem 9 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short, pointed dismissal of superstition"),
+    ],
+    why=(
+        "This poem's dismissal of astrological timing &mdash; "
+        "&lsquo;the good is the constellation of the good; for what "
+        "do the stars matter?&rsquo; &mdash; is echoed in structure by "
+        "a comparable rhetorical question at this site's own DN 4, "
+        "adding this to a small but consistent pattern of skepticism "
+        "toward ritual and superstitious practice across this partial "
+        "Jātaka selection."),
+    guide=[
+        ("A fool who lets practical good slip away, waiting on the stars", [
+            "The verse delivers its point in two matched halves: "
+            "&lsquo;waiting for a constellation, a fool lets the good "
+            "pass them by. The good is the constellation of the good; "
+            "for what do the stars matter?&rsquo; Per Sujato's "
+            "comment, a family reneges on an already-set marriage date "
+            "when told it falls under an unlucky constellation, so the "
+            "intended bride ends up marrying someone else instead."]),
+        ("An echo of the same rhetorical dismissal elsewhere on this site", [
+            "Sujato's comment directly compares this poem's closing "
+            "question to a comparable line at this site's own DN 4: "
+            "&lsquo;what do the hymns matter?&rsquo; &mdash; both "
+            "verses use the same rhetorical structure to dismiss a "
+            "ritual or traditional practice in favor of a more direct, "
+            "practical good."]),
+    ],
+    terms=[
+        ("nakkhattaṁ paṭimānentaṁ",
+         "&ldquo;waiting for a constellation&rdquo; &mdash; the "
+         "superstitious delay the verse criticizes."),
+        ("attho bālaṁ upaccagā",
+         "&ldquo;a fool lets the good pass them by&rdquo; &mdash; "
+         "the direct cost of that superstitious waiting."),
+        ("attho atthassa nakkhattaṁ",
+         "&ldquo;the good is the constellation of the good&rdquo; "
+         "&mdash; the verse's own redefinition of what actually "
+         "determines auspiciousness."),
+        ("Nakkhattajātaka",
+         "the traditional title of this tale, "
+         "&lsquo;Constellations&rsquo;."),
+        ("DN 4",
+         "the already-completed page on this site with a "
+         "comparable rhetorical dismissal &mdash; &lsquo;what do the "
+         "hymns matter?&rsquo; &mdash; per Sujato's own comment."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, echoed in structure by a "
+        "comparable line already complete on this site's own DN 4. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja49:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What does the verse criticize?',
+         "opts": [
+             'Waiting for an auspicious constellation before acting, letting practical good pass by',
+             'Traveling too far',
+             'No specific criticism is given',
+             'Excessive generosity',
+         ],
+         "correct": 0,
+         "expl": 'A fool lets the good pass them by while waiting for the stars to align.'},
+        {"q": "What does the verse propose as the real 'constellation of the good'?",
+         "opts": [
+             'A specific favorable star pattern',
+             'The good itself — practical benefit, not astrological timing',
+             'The advice of an elder',
+             'No alternative is proposed',
+         ],
+         "correct": 1,
+         "expl": "'For what do the stars matter?' — a direct rhetorical dismissal."},
+        {"q": "What happens in the commentarial story, per Sujato's comment?",
+         "opts": [
+             'No specific story is given',
+             'A wedding proceeds exactly as planned',
+             'A family reneges on an already-set marriage date over an unlucky constellation, and the bride marries someone else',
+             'A king cancels a coronation',
+         ],
+         "correct": 2,
+         "expl": 'A concrete illustration of practical opportunity lost to superstition.'},
+        {"q": "What already-completed page on this site does Sujato's comment compare this verse's closing question to?",
+         "opts": [
+             'MN 83',
+             'No comparison is made',
+             'AN 8.29',
+             "DN 4, with its comparable line 'what do the hymns matter?'",
+         ],
+         "correct": 3,
+         "expl": 'Both use the same rhetorical structure to dismiss ritual practice in favor of practical good.'},
+        {"q": 'What broader pattern does this poem add to, per this reading guide?',
+         "opts": [
+             'A small but consistent pattern of skepticism toward ritual and superstitious practice across this selection',
+             'A pattern unrelated to any other poem',
+             'A pattern specifically about marriage customs',
+             'A pattern of praising ritual practice',
+         ],
+         "correct": 0,
+         "expl": 'Connecting this poem to a wider thread across this partial Jātaka selection.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'About Vedabbha',
+             'Constellations (Nakkhattajātaka)',
+             'The Simpleton',
+             'About Losaka',
+         ],
+         "correct": 1,
+         "expl": 'The forty-ninth poem overall, and the ninth of the Atthakāmavagga.'},
+        {"q": 'What structure does the verse use in its second half?',
+         "opts": [
+             'A list of examples',
+             'A narrative continuation',
+             'A rhetorical question dismissing the value of the thing just named',
+             'A direct command',
+         ],
+         "correct": 2,
+         "expl": "'For what do the stars matter?' — mirrored by DN 4's own rhetorical dismissal."},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The ninth poem of the Atthakāmavagga, following Ja 41 through Ja 48',
+         ],
+         "correct": 3,
+         "expl": 'The second-to-last poem of this ten-poem chapter.'},
+        {"q": 'What specifically caused the marriage plans to fall through, per the commentarial story?',
+         "opts": [
+             'Being told the set date fell under an unlucky constellation',
+             'A change of heart by the groom',
+             'A family dispute unrelated to astrology',
+             'A disagreement over dowry',
+         ],
+         "correct": 0,
+         "expl": 'Superstition directly costing a real, practical opportunity.'},
+        {"q": 'What tone does this verse take toward astrological practice?',
+         "opts": [
+             'Respectful and affirming',
+             'Sharp and dismissive',
+             'Neutral and purely descriptive',
+             'Ambiguous with no clear position',
+         ],
+         "correct": 1,
+         "expl": 'A pointed rhetorical question rather than a measured discussion.'},
+    ],
+    marginalia=[
+        ("A wedding lost to bad timing, literally", [
+            "the date called unlucky, so it's canceled —",
+            "and she marries someone else instead"
+        ]),
+        ("The only constellation that matters", [
+            "not the stars, but the good itself —",
+            "a redefinition delivered as a question"
+        ]),
+        ("The same dismissal, echoed elsewhere", [
+            "'what do the hymns matter?' at DN 4 —",
+            "the same rhetorical move, a different ritual"
+        ]),
+        ("Skepticism, running quietly through this selection", [
+            "not the first poem to question ritual timing —",
+            "part of a small, consistent thread"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja49/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../digha-nikaya/dn-04.html">DN 4 &mdash; With '
+        "Soṇadaṇḍa</a> &mdash; the already-completed page with a "
+        "comparable rhetorical dismissal.",
+        '<a href="ja-48.html">Ja 48 &mdash; About Vedabbha</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="ja-50.html">Ja 50 &mdash; The Simpleton</a> '
+        "&mdash; the next poem, closing this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 50 — Dummedha (The Simpleton)
+# --------------------------------------------------------------------------- #
+page(
+    50, "Dummedha", "The Simpleton",
+    meta_title="Ja 50 — The Simpleton | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 50, closing the Atthakāmavagga and the first fifty "
+        "poems of the Ekakanipāta — a king's calculated bluff about "
+        "sacrificing evildoers, which works precisely because no one "
+        "dares test it. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Five (Atthakāmavagga) &middot; Poem 10 of 10 (closing the chapter, and the first fifty poems)",
+    glance=[
+        ("Setting", "A newly crowned king, addressing his kingdom"),
+        ("Speaker", "The Bodhisatta, as a new king"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse built on a clever bluff"),
+    ],
+    why=(
+        "This poem closes both the Atthakāmavagga and the first fifty "
+        "poems of the entire Ekakanipāta selection with an unusually "
+        "clever twist: a threat that works precisely because it is "
+        "never actually carried out, since simply announcing it "
+        "eliminated the problem it was meant to solve."),
+    guide=[
+        ("A threat announced, and never needing to be fulfilled", [
+            "The verse gives the king's own announcement: &lsquo;a "
+            "sacrifice of simpletons by the thousand was pledged by "
+            "me. Now I shall sacrifice many an unrighteous "
+            "man.&rsquo; Per Sujato's comment, the Bodhisatta, though "
+            "personally an unbeliever, had regularly offered flowers "
+            "to a deity while still crown prince; upon ascending the "
+            "throne, he announces he must repay the deity by "
+            "sacrificing a thousand evildoers."]),
+        ("A calculated bluff that achieves its goal without violence", [
+            "Sujato's comment delivers the poem's real point: "
+            "&lsquo;the bluff had the intended effect, for from that "
+            "day not a single evildoer was to be found.&rsquo; The "
+            "threat of sacrifice was never carried out, because "
+            "announcing it was itself sufficient to eliminate the "
+            "wrongdoing it targeted &mdash; a solution achieved "
+            "entirely through calculated announcement rather than any "
+            "actual violence."]),
+        ("A technical term shared with a poem outside this selection", [
+            "Sujato's comment notes that &lsquo;upayācita&rsquo; "
+            "(&lsquo;pledged&rsquo;), meaning a promise made to "
+            "propitiate a deity, also occurs at Ja 544, which lies "
+            "outside this site's own 82-poem selection; this reading "
+            "guide notes the cross-reference without a linked page."]),
+        ("Closing the Atthakāmavagga, and the first fifty poems of the collection", [
+            "This poem closes the Atthakāmavagga, the fifth of eight "
+            "chapters this site's selection draws from within the "
+            "Ekakanipāta &mdash; and, per the source text's own "
+            "structural marker, &lsquo;paṭhamo paṇṇāsako&rsquo;, the "
+            "first fifty poems of the entire Ekakanipāta as well. The "
+            "source text's own untranslated summary verse (uddāna) "
+            "immediately follows, naming all ten poems of this "
+            "chapter in sequence &mdash; not presented here as quoted "
+            "text, since it carries no separate translation, but "
+            "noted for completeness, as at the close of the previous "
+            "four chapters."]),
+    ],
+    terms=[
+        ("dummedhānaṁ sahassena",
+         "&ldquo;a sacrifice of simpletons by the thousand&rdquo; "
+         "&mdash; the king's own opening pledge, giving this poem its "
+         "traditional title."),
+        ("upayācita",
+         "&ldquo;pledged&rdquo; &mdash; per Sujato's comment, a "
+         "promise made to propitiate a deity, also found at Ja 544 "
+         "(outside this site's own selection)."),
+        ("adhammiko jano",
+         "&ldquo;unrighteous man&rdquo; &mdash; the actual, "
+         "unspoken target of the king's announced threat."),
+        ("Dummedhajātaka",
+         "the traditional title of this tale, &lsquo;The "
+         "Simpleton&rsquo;."),
+        ("paṭhamo paṇṇāsako",
+         "&ldquo;the first fifty&rdquo; &mdash; the source text's "
+         "own structural marker, following this poem, dividing the "
+         "Ekakanipāta into blocks of fifty poems."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. The chapter's own "
+        "untranslated closing summary verse (uddāna), which follows "
+        "immediately in the source text, is not quoted here since it "
+        "carries no English translation, but its content &mdash; the "
+        "ten poem titles of this chapter in sequence &mdash; matches "
+        "this reading guide's own further reading list below. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja50:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What does the newly crowned king announce?',
+         "opts": [
+             'A festival of celebration',
+             'That he must sacrifice a thousand evildoers to repay a deity',
+             'A tax reduction',
+             'A new law code',
+         ],
+         "correct": 1,
+         "expl": 'Fulfilling a promise made while he was still crown prince, offering flowers to the deity.'},
+        {"q": "What does Sujato's comment reveal about the actual outcome of this threat?",
+         "opts": [
+             'No outcome is described',
+             'The king carried out the sacrifice as announced',
+             'The bluff had the intended effect — from that day not a single evildoer was to be found',
+             'The kingdom rebelled against the king',
+         ],
+         "correct": 2,
+         "expl": 'The threat achieved its goal entirely through announcement, without any actual violence.'},
+        {"q": "What was the king's real, unspoken goal?",
+         "opts": [
+             'To honor the deity for its own sake',
+             'To expand his territory',
+             'To increase his own wealth',
+             'To eliminate wrongdoing in his kingdom',
+         ],
+         "correct": 3,
+         "expl": 'Achieved by framing evildoers as the sacrificial targets, making everyone afraid to be classified as one.'},
+        {"q": "What does Sujato's comment say about the term 'upayācita'?",
+         "opts": [
+             "It means a promise made to propitiate a deity, also found at Ja 544, outside this site's own selection",
+             'It refers to a specific ritual object',
+             'It is a modern coinage',
+             'It has no meaning outside this poem',
+         ],
+         "correct": 0,
+         "expl": "Noted for completeness without a linked page, since Ja 544 falls outside this site's 82-poem selection."},
+        {"q": 'What two things does this poem close, per this reading guide?',
+         "opts": [
+             'Nothing significant',
+             "The Atthakāmavagga, and the first fifty poems of the entire Ekakanipāta ('paṭhamo paṇṇāsako')",
+             "Only a single poem's own internal structure",
+             'The entire Jātaka collection',
+         ],
+         "correct": 1,
+         "expl": 'A double closing marker in the source text itself.'},
+        {"q": "Is the chapter's closing summary verse (uddāna) presented as quoted text in this reading guide?",
+         "opts": [
+             'It is presented as spoken by the deity',
+             'Yes, quoted in full',
+             'No — it carries no separate English translation, so it is only noted for completeness',
+             'It does not exist for this chapter',
+         ],
+         "correct": 2,
+         "expl": 'Consistent with the same practice at the close of the previous four chapters.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'About Vedabbha',
+             'Spoiling the Toddy',
+             'Constellations',
+             'The Simpleton (Dummedhajātaka)',
+         ],
+         "correct": 3,
+         "expl": 'The fiftieth poem overall, and the tenth and final poem of the Atthakāmavagga.'},
+        {"q": "What personal detail does Sujato's comment give about the Bodhisatta's own beliefs?",
+         "opts": [
+             'He was, personally, an unbeliever, despite regularly offering flowers to the deity',
+             'He converted to belief only after becoming king',
+             'The comment does not address this',
+             'He was a devout believer in the deity',
+         ],
+         "correct": 0,
+         "expl": "Making his eventual 'sacrifice' announcement a calculated strategy rather than genuine religious devotion."},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The first poem of the Atthakāmavagga',
+             'The tenth and final poem of the Atthakāmavagga, closing this chapter and the first fifty poems overall',
+             'It stands outside any chapter',
+             'The first poem of a later chapter',
+         ],
+         "correct": 1,
+         "expl": "Its closing position is directly confirmed by the chapter's own summary verse and the 'first fifty' marker following immediately after."},
+        {"q": "What makes this poem's solution to wrongdoing distinctive?",
+         "opts": [
+             'It fails to achieve any effect',
+             'It relies entirely on physical punishment',
+             'It achieves its goal purely through calculated announcement, never requiring actual violence',
+             'It relies on a lengthy legal process',
+         ],
+         "correct": 2,
+         "expl": "One of this collection's cleverer illustrations of psychological rather than physical solutions to a social problem."},
+    ],
+    marginalia=[
+        ("A threat that never has to be kept", [
+            "announce the sacrifice, and the evildoers vanish —",
+            "the bluff does all the actual work"
+        ]),
+        ("An unbeliever's calculated offering", [
+            "flowers given without real faith —",
+            "used later as leverage for a clever threat"
+        ]),
+        ("Fifty poems, closed together", [
+            "the Atthakāmavagga's own summary follows —",
+            "and the source text's own 'first fifty' marker with it"
+        ]),
+        ("Wrongdoing solved by fear alone", [
+            "not a single evildoer found after that day —",
+            "the announcement was the whole solution"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja50/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-49.html">Ja 49 &mdash; Constellations</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="./">Jataka</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
