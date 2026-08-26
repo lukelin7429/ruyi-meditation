@@ -5167,3 +5167,374 @@ page_range(
         "35.43&ndash;52), not yet built.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 35.43-51 — Aniccādisuttanavaka
+# --------------------------------------------------------------------------- #
+page_range(
+    35, 43, 51, "Aniccādi", "Nine Discourses on Impermanence, Etc.",
+    vagga="Sabbaaniccavagga",
+    meta_title="SN 35.43-51 · Nine Discourses on Impermanence, Etc. | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 35.43 through "
+        "35.51 &mdash; nine of Sabbaaniccavagga's own ten discourses, "
+        "preserved in bilara-data as a single file: one full worked "
+        "example (all is impermanent) followed by eight one-line "
+        "variants applying the identical formula to suffering, "
+        "not-self, and five further tasks. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "Nine discourses compressed by bilara-data into a "
+                 "single file &mdash; one full worked example followed "
+                 "by eight one-line substitutions; the vagga's own "
+                 "tenth discourse is held back in its own separate "
+                 "file"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single repeated frame, easy to follow once "
+                       "the compressed structure is recognized"),
+    ],
+    why=(
+        "This file opens Sabbaaniccavagga &mdash; Saḷāyatanasaṃyutta's "
+        "own fifth vagga, and the first vagga in this book whose "
+        "bilara-data source splits its ten discourses across two "
+        "separate files rather than keeping every discourse "
+        "individually (Aniccavagga, Yamakavagga, Sabbavagga) or "
+        "merging the whole vagga into one (Jātidhammavagga). The "
+        "opening discourse, SN 35.43, declares that everything is "
+        "\"impermanent\" (aniccaṁ) across the six sense fields &mdash; "
+        "the same claim Aniccavagga opened this book with, back at "
+        "SN 35.1; the eight discourses that follow apply the "
+        "identical claim, one substituted word at a time, to "
+        "suffering, not-self, and five further tasks."
+    ),
+    guide=[
+        ("One full worked example: all is impermanent", [
+            "SN 35.43 opens with the standard six-sense-field "
+            "declaration: the eye, sights, eye consciousness, eye "
+            "contact, and the feeling that arises from eye contact "
+            "are all impermanent &mdash; spelled out for the eye, "
+            "compressed for the ear, nose, and tongue together, then "
+            "spelled out again for the mind, closing with this "
+            "project's own familiar disillusionment-to-liberation "
+            "formula.",
+        ]),
+        ("Eight more claims, one line each", [
+            "SN 35.44 through 35.51 each substitute a single word "
+            "into the identical frame &mdash; \"all is suffering … "
+            "not-self … to be directly known … to be completely "
+            "understood … to be given up … to be realized … to be "
+            "directly known and completely understood … harried\" "
+            "&mdash; trusting the reader to supply SN 35.43's own "
+            "full six-sense-field elaboration and closing formula "
+            "for each.",
+        ]),
+        ("A synthesis, not only a new theme", [
+            "Impermanence, suffering, and not-self are this "
+            "project's own three marks, already the whole subject of "
+            "Aniccavagga; three of the remaining five words &mdash; "
+            "to be completely understood, to be given up, to be "
+            "realized &mdash; are the very verbs traditionally paired "
+            "elsewhere in the canon with the four noble truths' own "
+            "three tasks (suffering to be completely understood, its "
+            "origin to be given up, its cessation to be realized). "
+            "Here all five are applied instead to \"the all\" itself "
+            "&mdash; the twelve-item schema Sabbavagga's own opening "
+            "discourse (SN 35.23) defined &mdash; folding two of this "
+            "book's own earlier themes into a single nine-part list.",
+        ]),
+        ("Each discourse counted, not translated", [
+            "The root text closes each of these nine discourses with "
+            "its own Pāli ordinal &mdash; paṭhamaṁ, dutiyaṁ, tatiyaṁ, "
+            "and on through navamaṁ (\"first\" through \"ninth\") "
+            "&mdash; left blank in Sujato's own English throughout, "
+            "the same guide-only treatment this project gives every "
+            "other untranslated closing marker.",
+        ]),
+    ],
+    terms=[
+        ("sabba", "\"the all\" &mdash; the recurring subject of every "
+                   "discourse in this file, defined at SN 35.23 as "
+                   "the six interior sense fields paired with their "
+                   "six exterior objects"),
+        ("anicca", "impermanent &mdash; SN 35.43's own opening claim, "
+                     "and Aniccavagga's own subject at the start of "
+                     "this book"),
+        ("pariññeyya", "to be completely understood &mdash; SN "
+                        "35.47's own substituted word, elsewhere "
+                        "paired with suffering itself as the first "
+                        "of the four tasks"),
+        ("pahātabba", "to be given up &mdash; SN 35.48's own "
+                       "substituted word, elsewhere paired with "
+                       "craving as the second of the four tasks"),
+        ("peyyāla", "an elision mark &mdash; here compressing eight "
+                     "of this file's nine discourses to a single "
+                     "substituted word each"),
+    ],
+    text_intro=("The complete file's own nine discourses: SN 35.43's "
+        "own full worked example (eye and mind spelled out, the rest "
+        "compressed), followed by SN 35.44 through 35.51's eight "
+        "one-line variants. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "SN 35.43 &mdash; all is impermanent"),
+        ("p", "&sect;1", "sn35.43:1.1-1.9"),
+        ("p", "&sect;2", "sn35.43:1.10-1.17"),
+        ("h3", "SN 35.44-51 &mdash; eight more, one line each"),
+        ("p", "&sect;3", "sn35.44:1.1"),
+        ("p", "&sect;4", "sn35.45:1.1"),
+        ("p", "&sect;5", "sn35.46:1.1"),
+        ("p", "&sect;6", "sn35.47:1.1"),
+        ("p", "&sect;7", "sn35.48:1.1"),
+        ("p", "&sect;8", "sn35.49:1.1"),
+        ("p", "&sect;9", "sn35.50:1.1"),
+        ("p", "&sect;10", "sn35.51:1.1"),
+    ],
+    quiz=[
+        {"q": "How does this file's own ten-discourse vagga split across bilara-data's files, and what's new about that for Book IV?",
+         "opts": ["Nine discourses in this file, the tenth held back in its own separate file &mdash; a shape none of the previous four vaggas used",
+                  "All ten kept individually separate, like Aniccavagga and Yamakavagga", "All ten merged into a single file, like Jātidhammavagga",
+                  "Split evenly, five and five"],
+         "correct": 0,
+         "expl": "A fifth distinct shape for a Book IV vagga: nine here, one held back in its own file."},
+        {"q": "What does the one full worked example, SN 35.43, declare, and where has this project seen that claim before?",
+         "opts": ["That all is impermanent (aniccaṁ) &mdash; the same claim Aniccavagga opened this book with, at SN 35.1",
+                  "That all is suffering", "That all is not-self", "That all is to be given up"],
+         "correct": 0,
+         "expl": "SN 35.43 reprises this book's own opening claim before the file moves on to eight further substitutions."},
+        {"q": "What do SN 35.44 through 35.51 each do?",
+         "opts": ["Apply the identical formula to one more word in a single compressed line each &mdash; suffering, not-self, and five further tasks",
+                  "Introduce eight entirely new discourse frames", "Repeat SN 35.43 word for word, eight more times",
+                  "Apply the formula only to the exterior sense objects"],
+         "correct": 0,
+         "expl": "Eight substitutions on SN 35.43's own frame, completing nine of this vagga's own ten discourses."},
+        {"q": "Three of the substituted words in this file are traditionally paired elsewhere with what?",
+         "opts": ["The four noble truths' own three tasks &mdash; suffering to be completely understood, its origin given up, its cessation realized",
+                  "The five aggregates", "The three characteristics of conditioned existence", "The noble eightfold path's own eight factors"],
+         "correct": 0,
+         "expl": "To be completely understood, to be given up, and to be realized are the classic task-verbs of the four noble truths, here applied instead to “the all.”"},
+        {"q": "How are this file's own nine closing ordinals (paṭhamaṁ, dutiyaṁ, and so on) handled here, and why?",
+         "opts": ["Left untranslated and only described in the guide, since Sujato's own English leaves each one blank",
+                  "Quoted verbatim in English translation", "Omitted from the guide entirely", "Translated freshly for this reading guide"],
+         "correct": 0,
+         "expl": "The same guide-only treatment this project gives every other untranslated closing marker."},
+    ],
+    marginalia=[
+        ("A vagga split two ways", [
+            "nine discourses in one file &mdash;",
+            "the tenth held back, on its own",
+        ]),
+        ("Impermanent, suffering, not-self", [
+            "this book's own three marks &mdash;",
+            "reprised before five more tasks",
+        ]),
+        ("Understood, given up, realized", [
+            "the four truths' own task-verbs &mdash;",
+            "applied here to “the all” itself",
+        ]),
+        ("Nine ordinals, none translated", [
+            "paṭhamaṁ through navamaṁ &mdash;",
+            "described here, not quoted verbatim",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.43-51/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.33-42.html">SN 35.33&ndash;42 &middot; Ten '
+        "Discourses on Liable to Be Reborn, Etc.</a> &mdash; the "
+        "previous file, closing Jātidhammavagga.",
+        '<a href="sn-35.52.html">SN 35.52 &middot; Contaminated</a> '
+        "&mdash; this vagga's own tenth discourse, held back in its "
+        "own file, closing both Sabbaaniccavagga and this book's own "
+        "first fifty.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.52 — Upassaṭṭhasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 52, "Upassaṭṭha", "Contaminated",
+    vagga="Sabbaaniccavagga",
+    meta_title="SN 35.52 — Contaminated | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Upassaṭṭhasutta &mdash; Sabbaaniccavagga's own tenth "
+        "discourse, restoring the full worked example one last time "
+        "and, in its own untranslated closing lines, marking both "
+        "this vagga's own close and the first fifty of "
+        "Saḷāyatanasaṃyutta's own two hundred and forty-eight. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A full worked example, restored to complete form as "
+                 "this vagga's own closing discourse, followed by an "
+                 "untranslated vagga colophon, a paṇṇāsaka (\"fifty\") "
+                 "landmark, and two untranslated uddāna verses"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a simple text carrying real structural weight "
+                       "in its own closing lines"),
+    ],
+    why=(
+        "This discourse is Sabbaaniccavagga's own tenth and closing "
+        "discourse &mdash; held back in its own separate bilara-data "
+        "file, apart from the nine that precede it, because it does "
+        "more than supply the vagga's own tenth substituted word. Its "
+        "own closing lines carry a colophon for the vagga itself and, "
+        "beyond that, a landmark this book has not yet reached: the "
+        "close of Saḷāyatanasaṃyutta's own first paṇṇāsaka, its own "
+        "first fifty discourses, exactly as SN 22.52 marked Book "
+        "III's own Mūlapaṇṇāsaka."
+    ),
+    guide=[
+        ("The tenth quality, restored to full text", [
+            "SN 35.52 returns to SN 35.43's own full six-sense-field "
+            "shape one last time, substituting \"contaminated\" "
+            "(upassaṭṭhaṁ) for \"impermanent\" &mdash; the same "
+            "pattern this project has now seen close several of "
+            "Book IV's own vaggas: a compressed middle, then a full "
+            "worked example restored at the very end. Sujato's own "
+            "comment on this word explains its root sense as "
+            "something \"poured upon,\" or on which something has "
+            "been \"let loose\" (citing AN 5.192), and even draws a "
+            "parallel to the Bṛhadāraṇyaka Upaniṣad's own use of the "
+            "cognate upāsṛjan &mdash; a rare case in this project "
+            "where Sujato's own working notes are available to quote "
+            "directly on a translation choice.",
+        ]),
+        ("This file's own vagga colophon", [
+            "The discourse closes with its own untranslated colophon, "
+            "\"Sabbaaniccavaggo pañcamo\" (\"Sabbaaniccavagga is the "
+            "fifth\"), confirming this vagga's own position exactly "
+            "as this module's own header already recorded it before "
+            "a single word of this vagga was written.",
+        ]),
+        ("A landmark new to Book IV: the first fifty, complete", [
+            "Beyond the vagga's own colophon, this file adds a line "
+            "this book has not carried before: \"Saḷāyatanavagge "
+            "paṭhamapaṇṇāsako samatto\" (\"in Saḷāyatanasaṃyutta, "
+            "the first fifty is complete\") &mdash; the same "
+            "paṇṇāsaka (\"fifty\") landmark this project first met "
+            "at SN 22.52's own \"Mūlapaṇṇāsako samatto,\" now "
+            "reappearing here. Aniccavagga (12) plus Yamakavagga "
+            "(10) plus Sabbavagga (10) plus Jātidhammavagga (10) "
+            "plus Sabbaaniccavagga (10) total exactly fifty-two "
+            "discourses, confirming this book will carry further "
+            "paṇṇāsaka landmarks of its own as its remaining "
+            "fourteen vaggas unfold.",
+        ]),
+        ("Two uddāna verses, both untranslated", [
+            "The file closes with two further untranslated verses: "
+            "a tassuddānaṁ naming this vagga's own ten qualities in "
+            "order (impermanent, suffering, not-self; to be directly "
+            "known, completely understood; given up, realized; "
+            "directly known and completely understood; harried, "
+            "contaminated), and a vagguddānaṁ naming this fifty's "
+            "own five vaggas in order (Aniccavagga, Yamaka, Sabba, "
+            "Jātidhamma, and this vagga itself, called \"the fifth\") "
+            "&mdash; a second, larger-scale verse this project has "
+            "not encountered before in Book IV, matching the same "
+            "guide-only treatment given every other untranslated "
+            "closing marker.",
+        ]),
+    ],
+    terms=[
+        ("upassaṭṭha", "afflicted, or contaminated &mdash; this "
+                         "discourse's own title term, glossed by "
+                         "Sujato's own comment as rooted in the sense "
+                         "of being \"poured upon\" or \"let loose "
+                         "upon\""),
+        ("paṇṇāsaka", "a fifty &mdash; a block of fifty discourses; "
+                        "this file marks the close of Saḷāyatanasaṃyutta's "
+                        "own first one"),
+        ("uddāna", "a mnemonic summary verse &mdash; this file "
+                     "carries two, one naming ten discourses and one "
+                     "naming five vaggas"),
+        ("vaggo", "a chapter, at two different scales in the same "
+                    "closing lines &mdash; naming this discourse's own "
+                    "small ten-discourse vagga and, in the paṇṇāsaka "
+                    "line, the whole saṃyutta as a larger \"book\""),
+        ("samatta", "completed, finished &mdash; the word marking "
+                      "both this vagga's own close and, separately, "
+                      "the first fifty's own close"),
+    ],
+    text_intro=("The complete discourse: the full worked example for "
+        "\"contaminated,\" restored one last time before this vagga's "
+        "own close. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.52:1.1-1.9"),
+        ("p", "&sect;2", "sn35.52:1.10-1.15"),
+    ],
+    quiz=[
+        {"q": "What does SN 35.52 do that the eight compressed discourses before it (SN 35.44-51) do not?",
+         "opts": ["Restore the full six-sense-field text one last time, closing the vagga the same way several Book IV vaggas have already closed",
+                  "Introduce an entirely new formula", "Skip the six sense fields entirely", "Merge back into the same file as SN 35.43-51"],
+         "correct": 0,
+         "expl": "Held back in its own separate file, restoring full form as this vagga's own closer."},
+        {"q": "How does Sujato's own comment explain the root sense of upassaṭṭha, translated here as “contaminated”?",
+         "opts": ["Something “poured upon” or “let loose upon,” citing AN 5.192 and a Bṛhadāraṇyaka Upaniṣad parallel",
+                  "Something burned away by fire", "Something bound by a fetter", "Something hidden from view"],
+         "correct": 0,
+         "expl": "A rare case where Sujato's own working notes on a translation choice are directly available to quote."},
+        {"q": "What does this file's own vagga colophon, “Sabbaaniccavaggo pañcamo,” confirm?",
+         "opts": ["That Sabbaaniccavagga is the fifth vagga &mdash; matching this module's own header, recorded before this vagga was written",
+                  "That this is the fifth discourse of the vagga", "That this vagga has five more discourses still to come",
+                  "Nothing about this vagga's own position"],
+         "correct": 0,
+         "expl": "“Pañcamo”, “the fifth”, confirming Sabbaaniccavagga's own place in this book's nineteen-vagga sequence."},
+        {"q": "What landmark does “Saḷāyatanavagge paṭhamapaṇṇāsako samatto” mark, and where has this project met this kind of landmark before?",
+         "opts": ["The close of Saḷāyatanasaṃyutta's own first fifty discourses &mdash; the same kind of landmark SN 22.52 marked for Book III's own Mūlapaṇṇāsaka",
+                  "The close of the entire saṃyutta", "The close of the entire book (Saḷāyatanavagga)", "Nothing &mdash; it is simply a discourse title"],
+         "correct": 0,
+         "expl": "Aniccavagga, Yamakavagga, Sabbavagga, Jātidhammavagga, and Sabbaaniccavagga together total fifty-two discourses."},
+        {"q": "How are this file's own two uddāna verses (naming ten qualities, then five vaggas) handled here?",
+         "opts": ["Left untranslated and only described in the guide, since Sujato's own English leaves both blank",
+                  "Quoted verbatim in English translation", "Only the first verse is described, the second omitted", "Translated freshly for this reading guide"],
+         "correct": 0,
+         "expl": "The same guide-only treatment this project gives every other untranslated closing marker, now applied to two verses in a single file."},
+    ],
+    marginalia=[
+        ("The tenth quality, full text restored", [
+            "“contaminated” &mdash; poured upon,",
+            "or let loose upon, Sujato's own note explains",
+        ]),
+        ("A vagga closes", [
+            "“Sabbaaniccavaggo pañcamo” &mdash;",
+            "the fifth, described, not quoted",
+        ]),
+        ("A landmark bigger than one vagga", [
+            "the first fifty, complete &mdash;",
+            "fifty-two discourses in five vaggas",
+        ]),
+        ("Two verses, still untranslated", [
+            "ten qualities, then five vaggas &mdash;",
+            "both left blank in English",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.52/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.43-51.html">SN 35.43&ndash;51 &middot; Nine '
+        "Discourses on Impermanence, Etc.</a> &mdash; the previous "
+        "file, this vagga's own opening nine discourses.",
+        '<a href="sn-36.6.html">SN 36.6 &middot; An Arrow</a> '
+        "&mdash; already published on this site, standing ahead of "
+        "this book's own next vagga, Avijjāvagga (SN 35.53&ndash;62), "
+        "not yet built.",
+    ],
+)
