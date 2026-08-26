@@ -6233,3 +6233,2014 @@ page(
         "index.",
     ],
 )
+# -*- coding: utf-8 -*-
+
+# --------------------------------------------------------------------------- #
+# Ja 31 — Kulāvaka (Nests)
+# --------------------------------------------------------------------------- #
+page(
+    31, "Kul&amacr;vaka", "Nests",
+    meta_title="Ja 31 — Nests | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 31, opening the Kulāvakavagga — Sakka's own refusal "
+        "to destroy bird nests even at the cost of losing a war, "
+        "nearly identical to this site's own SN 11.6. From Ru-Yi "
+        "Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Four (Kulāvakavagga) &middot; Poem 1 of 10",
+    glance=[
+        ("Setting", "A battlefield or its approach, addressed to a "
+                    "charioteer"),
+        ("Speaker", "Sakka, ruler of the gods, addressing his "
+                    "charioteer Mātali"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse of striking ethical priority"),
+    ],
+    why=(
+        "This verse's central claim &mdash; that Sakka, ruler of the "
+        "gods, would rather lose a war to the titans than let his own "
+        "chariot destroy a stand of bird nests &mdash; is nearly "
+        "identical to a verse already complete on this site at SN "
+        "11.6, Bird Nests, and directly names the ecological cost of "
+        "warfare as unacceptable, even to a divine king."),
+    guide=[
+        ("A war-god's priority, stated plainly", [
+            "The verse is spoken by Sakka to his own charioteer: "
+            "&lsquo;Mātali, don't ram the bird nests in the red "
+            "silk-cotton woods with your draft-pole. I'd rather give "
+            "up our lives to the titans than deprive these birds of "
+            "their nests.&rsquo; Per Sujato's comment, this verse is "
+            "nearly identical to one already complete on this site's "
+            "own SN 11.6, only a couple of variant readings apart."]),
+        ("An early, explicit acknowledgment of war's ecological cost", [
+            "Sujato's comment observes that Sakka is directly "
+            "&lsquo;acknowledging the unacceptable ecological damage "
+            "of warfare&rsquo; &mdash; identifying Mātali as the "
+            "traditional charioteer of Indra/Sakka in both Buddhist "
+            "and Brahmanical literature. The verse's priority is "
+            "strikingly absolute: not merely regret at collateral "
+            "harm, but a willingness to lose the entire battle rather "
+            "than cause it."]),
+    ],
+    terms=[
+        ("kulāvakā",
+         "&ldquo;nests&rdquo; &mdash; the bird nests Sakka refuses "
+         "to let his charioteer destroy, giving this poem its "
+         "traditional title."),
+        ("mātali",
+         "the traditional charioteer of Indra/Sakka in both Buddhist "
+         "and Brahmanical literature, addressed directly in this "
+         "verse."),
+        ("asuresu pāṇaṁ cajāma",
+         "&ldquo;I'd rather give up our lives to the titans&rdquo; "
+         "&mdash; Sakka's own absolute statement of priority."),
+        ("Kulāvakajātaka",
+         "the traditional title of this tale, opening the "
+         "Kulāvakavagga."),
+        ("SN 11.6",
+         "&ldquo;Bird Nests&rdquo; &mdash; the already-completed page "
+         "on this site with a verse Sujato's own comment identifies "
+         "as nearly identical to this one."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, nearly identical to a "
+        "verse already complete on this site's own SN 11.6. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja31:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What already-completed page on this site does Sujato's comment identify as nearly identical to this verse?",
+         "opts": [
+             'MN 83',
+             'No such parallel exists',
+             'AN 8.29',
+             'SN 11.6, Bird Nests',
+         ],
+         "correct": 2,
+         "expl": 'Only a couple of variant readings apart, per the comment.'},
+        {"q": 'Who speaks this verse, and to whom?',
+         "opts": [
+             'A hunter, to his companion',
+             'A bird, to another bird',
+             'A king, to his minister',
+             'Sakka, ruler of the gods, to his charioteer Mātali',
+         ],
+         "correct": 3,
+         "expl": 'Mātali is the traditional charioteer of Indra/Sakka in both Buddhist and Brahmanical literature.'},
+        {"q": 'What does Sakka say he would rather do than have his chariot destroy the bird nests?',
+         "opts": [
+             "Give up his and his charioteer's lives to the titans (asuras) in battle",
+             'Order the birds relocated',
+             'Nothing — the verse gives no alternative',
+             'Turn back entirely',
+         ],
+         "correct": 0,
+         "expl": 'An absolute statement of priority, not merely regret at collateral harm.'},
+        {"q": "What does Sujato's comment say this verse acknowledges directly?",
+         "opts": [
+             'The importance of military strategy',
+             'The unacceptable ecological damage of warfare',
+             'The superiority of the titans',
+             'Nothing beyond the literal story',
+         ],
+         "correct": 1,
+         "expl": 'A striking, explicit priority from a war-god himself.'},
+        {"q": 'Where were the nests located, per the verse?',
+         "opts": [
+             'In a mountain cave',
+             'In an ordinary forest',
+             'In the red silk-cotton woods',
+             'By a riverbank',
+         ],
+         "correct": 2,
+         "expl": 'The specific setting Sakka warns his charioteer to avoid.'},
+        {"q": 'What chapter does this poem open?',
+         "opts": [
+             'The Atthakāmavagga',
+             'It does not open a chapter',
+             'The Kuruṅgavagga',
+             'The Kulāvakavagga',
+         ],
+         "correct": 3,
+         "expl": "This collection's fourth ten-poem chapter."},
+        {"q": "Who are the 'titans' (asuras) mentioned in the verse?",
+         "opts": [
+             "Sakka's traditional enemies in battle",
+             'A group of birds',
+             'The verse does not mention any titans',
+             "Sakka's own allies",
+         ],
+         "correct": 0,
+         "expl": 'The very battle Sakka is willing to lose rather than harm the nests.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Dancing',
+             'Nests (Kulāvakajātaka)',
+             'Agreement',
+             'The Fish',
+         ],
+         "correct": 1,
+         "expl": 'The thirty-first poem overall, and the first of the Kulāvakavagga.'},
+        {"q": 'What instrument does Sakka warn his charioteer not to use against the nests?',
+         "opts": [
+             'No specific instrument is named',
+             'A sword',
+             'The draft-pole of the chariot',
+             'A bow',
+         ],
+         "correct": 2,
+         "expl": 'The literal mechanism by which the nests would be destroyed in passing.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The final poem of the Kulāvakavagga',
+             'The final poem of the Kuruṅgavagga',
+             'The first poem of the fourth chapter (Kulāvakavagga), following the completed Kuruṅgavagga',
+         ],
+         "correct": 3,
+         "expl": "Opening this collection's fourth ten-poem chapter."},
+    ],
+    marginalia=[
+        ("A war-god's unexpected priority", [
+            "not victory first, but the nests spared —",
+            "even at the cost of losing everything"
+        ]),
+        ("Nearly the same verse, twice on this site", [
+            "SN 11.6 tells it almost word for word —",
+            "confirmed directly in Sujato's own comment"
+        ]),
+        ("Warfare's cost, named plainly", [
+            "not just human loss, but nests destroyed —",
+            "an ancient acknowledgment of collateral harm"
+        ]),
+        ("Opening the fourth chapter", [
+            "Kulāvakavagga begins with mercy over conquest —",
+            "ten more poems of animal and human wisdom follow"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja31/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../samyutta-nikaya/sn-11.6.html">SN 11.6 &mdash; '
+        "Bird Nests</a> &mdash; the nearly identical verse already "
+        "complete on this site.",
+        '<a href="ja-30.html">Ja 30 &mdash; The Pig Named Munika</a> '
+        "&mdash; the closing poem of the previous chapter.",
+        '<a href="ja-32.html">Ja 32 &mdash; Dancing</a> &mdash; the '
+        "next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 32 — Nacca (Dancing)
+# --------------------------------------------------------------------------- #
+page(
+    32, "Nacca", "Dancing",
+    meta_title="Ja 32 — Dancing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 32 — a golden swan-king's rejection of a peacock "
+        "suitor, the traditional source of an old idea about the "
+        "peacock as splendid but foolish. From Ru-Yi Meditation "
+        "Center."),
+    vagga="Book of the Ones &middot; Chapter Four (Kulāvakavagga) &middot; Poem 2 of 10",
+    glance=[
+        ("Setting", "A grand ball to choose a husband for a "
+                    "princess"),
+        ("Speaker", "The Golden Swan, king of all birds, addressing "
+                    "a peacock suitor"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse of gentle rejection"),
+    ],
+    why=(
+        "This is the traditional origin of a long-running idea in "
+        "Indian storytelling: the peacock as visually magnificent but "
+        "foolish and undignified &mdash; a suitor rejected not for "
+        "any flaw in beauty, but for immodest self-display at the "
+        "worst possible moment."),
+    guide=[
+        ("Beauty praised in full, then a rejection", [
+            "The verse first lavishes genuine praise: &lsquo;your cry "
+            "is sweet, your back brilliant, your neck the color of "
+            "sapphire, and your feathers a full fathom long&rsquo; "
+            "&mdash; before the turn: &lsquo;still, because of your "
+            "dancing, I will not give you my daughter.&rsquo; The "
+            "rejection is not about appearance at all, but about "
+            "behavior."]),
+        ("A princess's own preference, overruled by a dance", [
+            "Per Sujato's comment, when the Golden Swan was elected "
+            "king of all the birds, he held a great ball to choose a "
+            "husband for his daughter the princess. She herself "
+            "favored the glorious peacock &mdash; but when he danced, "
+            "immodestly displaying himself before the assembly, her "
+            "father turned down the &lsquo;shameless suitor.&rsquo; "
+            "Sujato's comment notes this story draws on an Indian "
+            "tradition of the peacock as visually splendid but "
+            "foolish and clumsy."]),
+    ],
+    terms=[
+        ("rudaṁ manuññaṁ",
+         "&ldquo;your cry is sweet&rdquo; &mdash; the first of "
+         "several genuine compliments the verse pays the peacock."),
+        ("naccena te dhītaraṁ no dadāmi",
+         "&ldquo;because of your dancing, I will not give you my "
+         "daughter&rdquo; &mdash; the verse's turn from praise to "
+         "rejection."),
+        ("Golden Swan",
+         "per Sujato's comment, the king of all birds, presiding "
+         "over the ball to choose his daughter's husband."),
+        ("Naccajātaka",
+         "the traditional title of this tale, &lsquo;Dancing&rsquo;."),
+        ("peacock as splendid but foolish",
+         "an established Indian storytelling tradition, per Sujato's "
+         "comment, that this tale draws on and helps establish."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja32:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the verse's opening praise?",
+         "opts": [
+             "The peacock's cry, back, neck, and feathers — genuine physical beauty",
+             "The peacock's intelligence",
+             "The peacock's family lineage",
+             "The peacock's wealth",
+         ],
+         "correct": 3,
+         "expl": 'Setting up a turn from praise to rejection.'},
+        {"q": 'Why does the Golden Swan ultimately refuse the peacock as a suitor?',
+         "opts": [
+             'Because of his dancing — immodest self-display',
+             'Because of his family background',
+             'No reason is given',
+             'Because of his appearance',
+         ],
+         "correct": 0,
+         "expl": 'The rejection is about behavior, not beauty.'},
+        {"q": "Who originally favored the peacock as a suitor, per Sujato's comment?",
+         "opts": [
+             'No one favored him',
+             'The princess herself',
+             'The Golden Swan',
+             'A rival bird',
+         ],
+         "correct": 1,
+         "expl": "Her father overruled her preference after witnessing the peacock's dance."},
+        {"q": 'What occasion, per the comment, brings the birds together?',
+         "opts": [
+             'A hunting expedition',
+             'A funeral',
+             'A great ball held by the Golden Swan to choose a husband for his daughter',
+             'A war council',
+         ],
+         "correct": 2,
+         "expl": "Setting the scene for the peacock's disqualifying dance."},
+        {"q": "What Indian storytelling tradition does Sujato's comment say this tale draws on?",
+         "opts": [
+             'The peacock as a symbol of royalty alone',
+             'No tradition is mentioned',
+             'The peacock as wise and dignified',
+             'The peacock as visually splendid but foolish and clumsy',
+         ],
+         "correct": 3,
+         "expl": 'This tale is identified as a traditional origin point for that idea.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Dancing (Naccajātaka)',
+             'Agreement',
+             'The Fish',
+             'Nests',
+         ],
+         "correct": 0,
+         "expl": 'The thirty-second poem overall, and the second of the Kulāvakavagga.'},
+        {"q": 'Who speaks this verse?',
+         "opts": [
+             'The princess',
+             'The Golden Swan, king of all birds',
+             'The peacock himself',
+             'An unnamed narrator',
+         ],
+         "correct": 1,
+         "expl": 'Addressing the peacock directly with both praise and rejection.'},
+        {"q": "What color is the peacock's neck compared to in the verse?",
+         "opts": [
+             'No color comparison is made',
+             'Gold',
+             'Sapphire',
+             'Emerald',
+         ],
+         "correct": 2,
+         "expl": 'One of several genuine compliments preceding the rejection.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The second poem of the Kulāvakavagga, following Ja 31',
+         ],
+         "correct": 3,
+         "expl": 'Part of the same ten-poem Kulāvakavagga.'},
+        {"q": 'What overall lesson does this tale suggest about outward beauty?',
+         "opts": [
+             'That beauty alone is not enough — conduct and dignity matter as much or more',
+             'That beauty is irrelevant entirely',
+             'No lesson is suggested',
+             'That beauty alone always wins approval',
+         ],
+         "correct": 0,
+         "expl": "The peacock's genuine beauty is fully acknowledged, yet still insufficient."},
+    ],
+    marginalia=[
+        ("Praised fully, then turned down", [
+            "sweet cry, sapphire neck, fathom-long feathers —",
+            "none of it enough, after the dance"
+        ]),
+        ("A daughter's own choice, overruled", [
+            "she favored him first —",
+            "her father saw something else entirely"
+        ]),
+        ("The origin of an old idea", [
+            "splendid but foolish, still told today —",
+            "this tale among its earliest sources"
+        ]),
+        ("A dance that cost everything", [
+            "immodest display before the whole assembly —",
+            "beauty alone couldn't undo it"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja32/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-31.html">Ja 31 &mdash; Nests</a> &mdash; the '
+        "poem immediately before this one.",
+        '<a href="ja-33.html">Ja 33 &mdash; Agreement</a> &mdash; '
+        "the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 33 — Sammodamāna (Agreement)
+# --------------------------------------------------------------------------- #
+page(
+    33, "Sammodam&amacr;na", "Agreement",
+    meta_title="Ja 33 — Agreement | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 33 — a hunter's patient wait for a flock of birds to "
+        "start arguing, one of this collection's most famous fables "
+        "about unity. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Four (Kulāvakavagga) &middot; Poem 3 of 10",
+    glance=[
+        ("Setting", "A hunter, watching birds escape his own net"),
+        ("Speaker", "The hunter"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short, widely recognized fable"),
+    ],
+    why=(
+        "This is one of this collection's most recognizable single "
+        "images: a flock of birds lifting an entire net into the air "
+        "together, escaping a hunter who nonetheless remains "
+        "confident &mdash; because he knows unity, not strength, is "
+        "the only thing keeping them free."),
+    guide=[
+        ("Escape through unity, and a hunter's patient confidence", [
+            "The verse gives the hunter's own calculation: &lsquo;in "
+            "agreement, the birds fly, taking away the net. But when "
+            "they start arguing, they'll come under my sway.&rsquo; "
+            "Per Sujato's comment, a flock of birds escapes the "
+            "hunter by lifting off his net in unison &mdash; but the "
+            "hunter knows their cooperation is fragile, and simply "
+            "waits."]),
+        ("A fable whose lesson needs no explanation", [
+            "Unlike several other tales in this partial selection, "
+            "this one requires almost no commentarial backstory to "
+            "land its point: the image itself &mdash; a shared "
+            "burden lifted together, then lost the moment cooperation "
+            "breaks down &mdash; carries its own complete meaning "
+            "about the fragility and power of collective action."]),
+    ],
+    terms=[
+        ("sammodamānā",
+         "&ldquo;in agreement&rdquo; &mdash; the condition under "
+         "which the birds succeed, giving this poem its traditional "
+         "title."),
+        ("jālamādāya pakkhino",
+         "&ldquo;the birds, taking away the net&rdquo; &mdash; the "
+         "verse's central image of collective escape."),
+        ("yadā te vivadissanti",
+         "&ldquo;when they start arguing&rdquo; &mdash; the "
+         "condition under which the hunter expects to reclaim his "
+         "advantage."),
+        ("Sammodamānajātaka",
+         "the traditional title of this tale, &lsquo;Agreement&rsquo;."),
+        ("tadā ehinti me vasaṁ",
+         "&ldquo;then they'll come under my sway&rdquo; &mdash; the "
+         "hunter's own confident, patient prediction."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja33:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How do the birds initially escape the hunter's net?",
+         "opts": [
+             'By breaking it apart individually',
+             'By lifting it off together in unison',
+             'By waiting for the hunter to leave',
+             'They do not escape',
+         ],
+         "correct": 0,
+         "expl": "'In agreement, the birds fly, taking away the net.'"},
+        {"q": 'What does the hunter believe will eventually happen?',
+         "opts": [
+             'That the birds will escape permanently',
+             'That the birds will start arguing, and then come under his sway',
+             'That he will lose interest and leave',
+             'That another hunter will catch them first',
+         ],
+         "correct": 1,
+         "expl": "The hunter's patient, confident calculation."},
+        {"q": 'Does this poem require an extensive commentarial backstory to understand?',
+         "opts": [
+             'The poem cannot be understood without the comment',
+             'Yes, extensively',
+             'No — the image itself carries a complete, self-sufficient meaning',
+             'Only partially',
+         ],
+         "correct": 2,
+         "expl": 'Unlike several other tales in this selection, this one needs almost no additional context.'},
+        {"q": "What condition does the verse identify as the birds' actual vulnerability?",
+         "opts": [
+             "The hunter's superior equipment",
+             'Bad weather',
+             'Physical weakness',
+             'The fragility of their own cooperation — the moment they start arguing',
+         ],
+         "correct": 3,
+         "expl": 'Not strength, but unity, is what keeps them free.'},
+        {"q": "What broader lesson does this fable's image carry?",
+         "opts": [
+             'The fragility and power of collective action, dependent on continued cooperation',
+             'That hunters are always successful',
+             'That birds cannot be caught at all',
+             'That individual strength always wins',
+         ],
+         "correct": 0,
+         "expl": "One of this collection's most recognizable single images."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Dancing',
+             'Agreement (Sammodamānajātaka)',
+             'The Fish',
+             'The Quail',
+         ],
+         "correct": 1,
+         "expl": 'The thirty-third poem overall, and the third of the Kulāvakavagga.'},
+        {"q": 'What tool does the hunter use to try to catch the birds?',
+         "opts": [
+             'No tool is mentioned',
+             'A bow',
+             'A net',
+             'A trap made of sticks',
+         ],
+         "correct": 2,
+         "expl": 'The very net the birds lift off together in escape.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The third poem of the Kulāvakavagga, following Ja 31 and Ja 32',
+         ],
+         "correct": 3,
+         "expl": 'Part of the same ten-poem Kulāvakavagga.'},
+        {"q": 'Who speaks this verse?',
+         "opts": [
+             'The hunter',
+             'An unnamed narrator',
+             'A third-party observer',
+             'One of the birds',
+         ],
+         "correct": 0,
+         "expl": 'Voicing his own patient strategy directly.'},
+        {"q": "What emotion does the hunter's tone convey?",
+         "opts": [
+             'Despair at losing his prey',
+             'Patient confidence that his opportunity will eventually come',
+             'Anger',
+             'Indifference',
+         ],
+         "correct": 1,
+         "expl": 'He does not chase — he simply waits for their unity to break.'},
+    ],
+    marginalia=[
+        ("A net, lifted by many wings", [
+            "unity turns a trap into an escape —",
+            "the verse's whole image in one line"
+        ]),
+        ("A hunter who only has to wait", [
+            "no chase, no force needed —",
+            "just patience, until agreement breaks"
+        ]),
+        ("A fable that explains itself", [
+            "no backstory needed to land the point —",
+            "the image alone carries the whole lesson"
+        ]),
+        ("Cooperation as the only real defense", [
+            "not strength, not speed —",
+            "just staying in agreement"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja33/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-32.html">Ja 32 &mdash; Dancing</a> &mdash; the '
+        "poem immediately before this one.",
+        '<a href="ja-34.html">Ja 34 &mdash; The Fish</a> &mdash; '
+        "the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 34 — Maccha (The Fish)
+# --------------------------------------------------------------------------- #
+page(
+    34, "Maccha", "The Fish",
+    meta_title="Ja 34 — The Fish | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 34 — a caught fish's poignant, almost wry concern for "
+        "what his wife thinks of him, more than for his own imminent "
+        "death. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Four (Kulāvakavagga) &middot; Poem 4 of 10",
+    glance=[
+        ("Setting", "A fish caught in a net, his wife having escaped"),
+        ("Speaker", "The caught fish"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short, wry, emotionally specific verse"),
+    ],
+    why=(
+        "This poem's small, human irony &mdash; a creature facing "
+        "death, yet more anxious about a misunderstanding with his "
+        "wife than about that death itself &mdash; gives this "
+        "collection one of its most emotionally specific and quietly "
+        "funny moments."),
+    guide=[
+        ("Not fear of death, but fear of being misjudged", [
+            "The verse states its priority with startling clarity: "
+            "&lsquo;it's not the cold or heat for me, nor the being "
+            "caught in the net; it's that my lady, the fish, thinks "
+            "of me, “he went for joy to another.”&rsquo; Per Sujato's "
+            "comment, when a fish is caught in the net while his wife "
+            "escapes, he worries more about what she thinks of him "
+            "than of his own imminent fate."]),
+        ("A specific, recognizable kind of anxiety", [
+            "The verse's power lies in its specificity: not a general "
+            "lament about death, but a precise worry about "
+            "reputation and misunderstanding within a relationship "
+            "&mdash; a distinctly human anxiety placed, with a touch "
+            "of gentle irony, inside a fish facing its own death."]),
+    ],
+    terms=[
+        ("na maṁ sītaṁ na maṁ uṇhaṁ",
+         "&ldquo;it's not the cold or heat for me&rdquo; &mdash; the "
+         "fish's opening dismissal of the obvious physical "
+         "discomforts."),
+        ("jālasmi bādhanaṁ",
+         "&ldquo;being caught in the net&rdquo; &mdash; the literal "
+         "danger the fish also dismisses as not his real concern."),
+        ("aññaṁ so ratiyā gato",
+         "&ldquo;he went for joy to another&rdquo; &mdash; the "
+         "misunderstanding the fish fears his wife now believes."),
+        ("macchī",
+         "&ldquo;my lady, the fish&rdquo; &mdash; the fish's own "
+         "wife, whose opinion concerns him more than his own fate."),
+        ("Macchajātaka",
+         "the traditional title of this tale, &lsquo;The "
+         "Fish&rsquo;."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja34:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What does the fish say is NOT his real concern, facing death in the net?',
+         "opts": [
+             'Nothing — the verse gives no dismissals',
+             'The cold, the heat, or being caught in the net itself',
+             'His own hunger',
+             'The location of the net',
+         ],
+         "correct": 1,
+         "expl": 'All plainly stated as secondary to his actual worry.'},
+        {"q": "What is the fish's real concern, per the verse?",
+         "opts": [
+             'That the net will break',
+             'That he will be eaten',
+             "That his wife now believes he 'went for joy to another'",
+             'That he will never be found',
+         ],
+         "correct": 2,
+         "expl": 'A precise worry about being misjudged by someone he cares about.'},
+        {"q": "What happened to the fish's wife, per Sujato's comment?",
+         "opts": [
+             'She was never present',
+             'The comment does not mention her',
+             'She was also caught',
+             'She escaped the net',
+         ],
+         "correct": 3,
+         "expl": 'Leaving him caught alone, and anxious about how she now interprets his absence.'},
+        {"q": 'What kind of anxiety does this verse place inside a fish facing death?',
+         "opts": [
+             'A specific, recognizably human worry about reputation and misunderstanding within a relationship',
+             'A fear of physical pain',
+             'No anxiety is described',
+             'A general fear of death',
+         ],
+         "correct": 0,
+         "expl": 'Giving the verse its distinctive, quietly ironic tone.'},
+        {"q": 'What tone does this reading guide identify in this verse?',
+         "opts": [
+             'Purely tragic, with no lighter element',
+             'Poignant with a touch of gentle irony',
+             'Comic and lighthearted throughout',
+             'Angry and accusatory',
+         ],
+         "correct": 1,
+         "expl": 'A small, specific human irony rather than a general lament.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Bird',
+             'Agreement',
+             'The Fish (Macchajātaka)',
+             'The Quail',
+         ],
+         "correct": 2,
+         "expl": 'The thirty-fourth poem overall, and the fourth of the Kulāvakavagga.'},
+        {"q": 'Who speaks this verse?',
+         "opts": [
+             'An unnamed narrator',
+             'A fisherman',
+             "The fish's wife",
+             'The caught fish himself',
+         ],
+         "correct": 3,
+         "expl": 'Giving direct voice to his own priorities in the moment of capture.'},
+        {"q": 'What specific accusation does the fish fear his wife believes?',
+         "opts": [
+             "That he 'went for joy to another' — implying infidelity or abandonment",
+             'That he was cowardly',
+             'That he was greedy',
+             'That he was careless',
+         ],
+         "correct": 0,
+         "expl": 'The precise misunderstanding driving his anxiety.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The fourth poem of the Kulāvakavagga, following Ja 31 through Ja 33',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+         ],
+         "correct": 1,
+         "expl": 'Part of the same ten-poem Kulāvakavagga.'},
+        {"q": "How does this verse's approach differ from a straightforward lament about mortality?",
+         "opts": [
+             'It focuses entirely on anger at the hunter',
+             'It does not differ',
+             'It redirects the entire emotional weight onto a specific relational anxiety instead of death itself',
+             'It focuses entirely on physical suffering',
+         ],
+         "correct": 2,
+         "expl": "The verse's distinctive, specific emotional focus."},
+    ],
+    marginalia=[
+        ("Not death, but a misunderstanding", [
+            "the net, the cold, the heat — none of it matters —",
+            "only what she now believes of him"
+        ]),
+        ("A fish's very human worry", [
+            "reputation outlasting even fear of dying —",
+            "a small irony placed gently inside a big one"
+        ]),
+        ("An escape that leaves a question behind", [
+            "she got away, he did not —",
+            "and now he can't explain himself"
+        ]),
+        ("A quietly funny kind of tragedy", [
+            "facing death, and still worried about being misjudged —",
+            "recognizable, even across species"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja34/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-33.html">Ja 33 &mdash; Agreement</a> &mdash; '
+        "the poem immediately before this one.",
+        '<a href="ja-35.html">Ja 35 &mdash; The Quail</a> &mdash; '
+        "the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 35 — Vaṭṭaka (The Quail)
+# --------------------------------------------------------------------------- #
+page(
+    35, "Va&#7789;&#7789;aka", "The Quail",
+    meta_title="Ja 35 — The Quail | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 35 — a helpless quail chick's protection chant "
+        "turning back a wall of fire, shared word for word with this "
+        "site's own Cp 29. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Four (Kulāvakavagga) &middot; Poem 5 of 10",
+    glance=[
+        ("Setting", "A young quail, alone, facing an advancing "
+                    "wildfire"),
+        ("Speaker", "The quail chick itself"),
+        ("Form", "One four-line stanza, a chant still used today"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short, still-living protection chant"),
+    ],
+    why=(
+        "This verse is not merely an old story: per Sujato's comment, "
+        "it &lsquo;remains a popular protection chant&rsquo; used to "
+        "this day, and appears word for word at this site's own "
+        "already-completed Cp 29, giving this collection a rare case "
+        "of a single verse serving simultaneously as narrative, "
+        "theology, and living religious practice."),
+    guide=[
+        ("A helpless creature's own declaration of truth", [
+            "The verse gives the quail chick's own words, facing a "
+            "wall of flame: &lsquo;I have wings that do not fly! I "
+            "have feet that do not walk! Mother and father have fled! "
+            "Jātaveda the fire: go back!&rsquo; Per Sujato's comment, "
+            "the little quail, alone and helpless, turns back the "
+            "fire through &lsquo;the power of truth&rsquo; &mdash; not "
+            "through any physical action, since by its own admission "
+            "it is entirely incapable of any."]),
+        ("A word from the Rig Veda, still alive in the Jātaka", [
+            "Sujato's comment identifies &lsquo;Jātaveda&rsquo;, "
+            "addressed here as the fire itself, as a name found "
+            "commonly in the Rig Veda but only rarely in the Pali "
+            "canon &mdash; mostly in the Jātakas, showing how "
+            "&lsquo;Vedic ideas are still alive in this "
+            "collection.&rsquo; Here it is addressed directly as an "
+            "agent capable of responding to the chick's plea, "
+            "identified with the god Agni."]),
+        ("A verse shared word for word with this site's own Cariyapitaka", [
+            "Sujato's comment notes this same verse &lsquo;is also "
+            "found at Cp 29:10.1&rsquo; &mdash; this site's own "
+            "already-completed page, The Baby Quail's Conduct, "
+            "confirming this is the identical past-life story told "
+            "in two different canonical collections."]),
+    ],
+    terms=[
+        ("saccakiriyā",
+         "&ldquo;truth-act&rdquo; or &ldquo;power of truth&rdquo; "
+         "&mdash; the mechanism, per Sujato's comment, by which the "
+         "quail's honest statement of its own helplessness turns "
+         "back the fire."),
+        ("jātaveda",
+         "a name found commonly in the Rig Veda and rarely in the "
+         "Pali canon (mostly in the Jātakas), here addressed as the "
+         "fire itself, identified with the god Agni."),
+        ("santi pakkhā apatanā",
+         "&ldquo;I have wings that do not fly!&rdquo; &mdash; the "
+         "chick's own honest admission of total helplessness."),
+        ("Vaṭṭakajātaka",
+         "the traditional title of this tale, &lsquo;The "
+         "Quail&rsquo;."),
+        ("Cp 29",
+         "&ldquo;The Baby Quail's Conduct&rdquo; &mdash; the "
+         "already-completed page on this site sharing this verse "
+         "word for word."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, still used today as a "
+        "protection chant and shared word for word with this site's "
+        "own Cp 29. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja35:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does Sujato's comment say about this verse's ongoing use?",
+         "opts": [
+             'The comment does not address its later use',
+             'That it fell out of use centuries ago',
+             "That it 'remains a popular protection chant' used to this day",
+             'That it was only ever a literary device',
+         ],
+         "correct": 2,
+         "expl": 'A rare case of a Jātaka verse still functioning as living religious practice.'},
+        {"q": 'What already-completed page on this site shares this verse word for word?',
+         "opts": [
+             'MN 83',
+             'No such match exists',
+             'SN 11.6',
+             "Cp 29, The Baby Quail's Conduct",
+         ],
+         "correct": 3,
+         "expl": 'Confirming this is the identical past-life story told in two different canonical collections.'},
+        {"q": 'What does the quail chick admit about its own physical ability?',
+         "opts": [
+             'That it has wings that do not fly and feet that do not walk — total helplessness',
+             'That it can run quickly',
+             'No admission is made',
+             'That it is strong and capable',
+         ],
+         "correct": 0,
+         "expl": "The chick's honest statement of complete incapacity."},
+        {"q": "What mechanism, per Sujato's comment, actually turns back the fire?",
+         "opts": [
+             'Physical strength',
+             'The power of truth (saccakiriyā) — an honest declaration',
+             'A weapon',
+             "Divine intervention unrelated to the chick's own words",
+         ],
+         "correct": 1,
+         "expl": 'Not through any physical action, since the chick openly admits it is incapable of any.'},
+        {"q": "What is 'Jātaveda', per Sujato's comment?",
+         "opts": [
+             'A type of fire specifically',
+             'A place name',
+             'A name found commonly in the Rig Veda and rarely in the Pali canon, mostly in the Jātakas, identified with the god Agni',
+             "The quail's own name",
+         ],
+         "correct": 2,
+         "expl": 'Showing how Vedic ideas are still alive within this collection.'},
+        {"q": 'What does the chick say happened to its parents?',
+         "opts": [
+             'They were killed by the fire',
+             'The verse does not mention them',
+             'They stayed to protect it',
+             'They fled',
+         ],
+         "correct": 3,
+         "expl": 'Leaving the chick entirely alone to face the fire.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Quail (Vaṭṭakajātaka)',
+             'Bird',
+             'The Partridge',
+             'The Fish',
+         ],
+         "correct": 0,
+         "expl": 'The thirty-fifth poem overall, and the fifth of the Kulāvakavagga.'},
+        {"q": "What species does Sujato's comment suggest the quail likely is?",
+         "opts": [
+             'A completely mythical bird',
+             'Probably the jungle bush quail, which roosts on the ground',
+             'A domesticated chicken',
+             'No species is suggested',
+         ],
+         "correct": 1,
+         "expl": 'A small, ground-dwelling bird, adding to the vividness of its vulnerability.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The fifth poem of the Kulāvakavagga, following Ja 31 through Ja 34',
+             'The final poem of its chapter',
+         ],
+         "correct": 2,
+         "expl": 'Part of the same ten-poem Kulāvakavagga.'},
+        {"q": 'How is Jātaveda addressed in the verse — as a distant force, or a responsive agent?',
+         "opts": [
+             'The verse does not address it directly at all',
+             'As an enemy to be defeated',
+             'As a distant, impersonal force with no agency',
+             'As a responsive agent who can hear and respond to a direct plea',
+         ],
+         "correct": 3,
+         "expl": "Directly commanded, 'go back!', as one might address a listening being."},
+    ],
+    marginalia=[
+        ("A chant still spoken today", [
+            "not just an old story, but living practice —",
+            "Sujato's own comment confirms its ongoing use"
+        ]),
+        ("Total helplessness, stated as truth", [
+            "no wings that fly, no feet that walk —",
+            "and the fire turns back anyway"
+        ]),
+        ("A word from the Rig Veda, still alive", [
+            "Jātaveda, rare in the canon but common here —",
+            "old ideas persisting inside a new tradition"
+        ]),
+        ("The same story, two collections", [
+            "word for word with this site's own Cp 29 —",
+            "one tale, told twice in the canon"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja35/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../cariyapitaka/cp-29.html">Cp 29 &mdash; The Baby '
+        "Quail's Conduct</a> &mdash; this site's own already-"
+        "completed page sharing this verse word for word.",
+        '<a href="ja-34.html">Ja 34 &mdash; The Fish</a> &mdash; '
+        "the poem immediately before this one.",
+        '<a href="ja-36.html">Ja 36 &mdash; Bird</a> &mdash; the '
+        "next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 36 — Sakuṇa (Bird)
+# --------------------------------------------------------------------------- #
+page(
+    36, "Sakuṇa", "Bird",
+    meta_title="Ja 36 — Bird | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 36 — an urgent warning about a spreading fire, "
+        "dismissed by a flock too complacent to listen. From Ru-Yi "
+        "Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Four (Kulāvakavagga) &middot; Poem 6 of 10",
+    glance=[
+        ("Setting", "A tree sheltering a flock of birds, catching "
+                    "fire"),
+        ("Speaker", "The Bodhisatta, warning the flock"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short, urgent verse"),
+    ],
+    why=(
+        "This tale gives voice to a familiar frustration: an urgent, "
+        "correct warning dismissed by those too complacent to act on "
+        "it &mdash; per Sujato's comment, the birds mock the "
+        "Bodhisatta as someone who is &lsquo;always seeing crocodiles "
+        "in a drop of water&rsquo; even as their own shelter begins "
+        "to burn around them."),
+    guide=[
+        ("An urgent warning, addressed directly", [
+            "The verse gives the warning itself: &lsquo;you "
+            "sky-flyers staying near the great evergreen, this fire "
+            "is emerging! Geese! Flee to the quarters! The threat is "
+            "born from the refuge!&rsquo; The final line's paradox "
+            "&mdash; danger arising from the very shelter meant to "
+            "protect &mdash; gives the warning its particular urgency."]),
+        ("A warning dismissed as excessive caution", [
+            "Per Sujato's comment, noticing a fire starting in the "
+            "tree under which the flock shelters, the Bodhisatta "
+            "tries to warn them &mdash; but the foolish birds dismiss "
+            "him, mocking him as someone who is &lsquo;always seeing "
+            "crocodiles in a drop of water&rsquo;, a vivid idiom for "
+            "chronic, unwarranted alarm. The verse itself does not "
+            "record whether the flock ultimately listens in time."]),
+        ("An identified species and a poetic term for a tree", [
+            "Sujato's comment identifies &lsquo;vakkaṅga&rsquo; "
+            "(named for its curved neck) as the cakravāka or "
+            "Brahminy goose, and notes that &lsquo;jagatirūha&rsquo; "
+            "(literally &lsquo;planet-growth&rsquo;) is simply a "
+            "poetic term for a tree, rather than referring to any "
+            "specific species."]),
+    ],
+    terms=[
+        ("jagatirūha",
+         "&ldquo;evergreen&rdquo;, literally &ldquo;planet-"
+         "growth&rdquo; &mdash; per Sujato's comment, a poetic term "
+         "for a tree in general, not a specific species."),
+        ("vakkaṅga",
+         "&ldquo;geese&rdquo;, per Sujato's comment the cakravāka or "
+         "Brahminy goose, named for its curved neck."),
+        ("jātaṁ saraṇato bhayaṁ",
+         "&ldquo;the threat is born from the refuge!&rdquo; &mdash; "
+         "the verse's central paradox, danger arising from the very "
+         "place meant to provide safety."),
+        ("Sakuṇajātaka",
+         "the traditional title of this tale, simply "
+         "&lsquo;Bird&rsquo;."),
+        ("always seeing crocodiles in a drop of water",
+         "the flock's own mocking idiom, per Sujato's comment, "
+         "dismissing the Bodhisatta's warning as excessive, "
+         "unwarranted alarm."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja36:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the Bodhisatta notice, per Sujato's comment?",
+         "opts": [
+             'A storm approaching',
+             'A rival flock nearby',
+             'A predator approaching',
+             'A fire starting in the tree the flock shelters under',
+         ],
+         "correct": 3,
+         "expl": 'Prompting his urgent warning to the flock.'},
+        {"q": "How does the flock respond to the Bodhisatta's warning?",
+         "opts": [
+             "They dismiss him, mocking him as someone always 'seeing crocodiles in a drop of water'",
+             'They attack him',
+             'They ask him to explain further',
+             'They immediately flee',
+         ],
+         "correct": 0,
+         "expl": 'A vivid idiom for chronic, unwarranted alarm — even as the danger was real.'},
+        {"q": "What paradox does the verse's final line state?",
+         "opts": [
+             'That safety comes only from danger',
+             'That the threat is born from the very refuge meant to provide safety',
+             'That birds cannot fly from fire',
+             'No paradox is stated',
+         ],
+         "correct": 1,
+         "expl": 'Giving the warning its particular urgency — the shelter itself has become the danger.'},
+        {"q": "What does Sujato's comment identify 'vakkaṅga' as?",
+         "opts": [
+             'No specific bird is identified',
+             'A mythical bird',
+             'The cakravāka or Brahminy goose, named for its curved neck',
+             'A type of crow',
+         ],
+         "correct": 2,
+         "expl": "One of several precise naturalist identifications across this chapter's comments."},
+        {"q": "What does 'jagatirūha' (evergreen) actually mean, per the comment?",
+         "opts": [
+             'A type of flower',
+             'The name of a specific location',
+             'A specific rare tree species',
+             "A general poetic term for a tree, literally 'planet-growth'",
+         ],
+         "correct": 3,
+         "expl": 'Not referring to any particular species.'},
+        {"q": 'Does the verse itself confirm whether the flock ultimately escapes in time?',
+         "opts": [
+             'No — the verse does not record whether they listen in time',
+             'Yes, but only implicitly',
+             'The verse states they all perish',
+             'Yes, explicitly',
+         ],
+         "correct": 0,
+         "expl": "Consistent with this collection's typically compressed, unresolved verse form."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Quail',
+             'Bird (Sakuṇajātaka)',
+             'The Partridge',
+             'The Crane',
+         ],
+         "correct": 1,
+         "expl": 'The thirty-sixth poem overall, and the sixth of the Kulāvakavagga.'},
+        {"q": 'Who speaks the warning in this verse?',
+         "opts": [
+             'An outside observer',
+             'A single ordinary bird',
+             'The Bodhisatta',
+             'The flock collectively',
+         ],
+         "correct": 2,
+         "expl": 'Attempting, per the comment, to save the flock from complacency.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The sixth poem of the Kulāvakavagga, following Ja 31 through Ja 35',
+         ],
+         "correct": 3,
+         "expl": 'Part of the same ten-poem Kulāvakavagga.'},
+        {"q": 'What familiar human frustration does this tale give voice to?',
+         "opts": [
+             'An urgent, correct warning dismissed by those too complacent to act on it',
+             'The frustration of losing a competition',
+             'No particular frustration is depicted',
+             'The frustration of being unable to fly',
+         ],
+         "correct": 0,
+         "expl": 'A recognizable dynamic well beyond the literal birds of the story.'},
+    ],
+    marginalia=[
+        ("A fire in the very shelter", [
+            "danger born from the place meant to protect —",
+            "the verse's whole paradox in one line"
+        ]),
+        ("Mocked for sounding the alarm", [
+            "'always seeing crocodiles in a drop of water' —",
+            "even when the alarm turns out to be real"
+        ]),
+        ("A named species, precisely identified", [
+            "the curved-necked cakravāka, not a generic goose —",
+            "naturalist detail grounding the fable"
+        ]),
+        ("No confirmed ending given", [
+            "the verse stops before we learn if they listened —",
+            "left open, like much of this collection's brief verse"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja36/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-35.html">Ja 35 &mdash; The Quail</a> &mdash; '
+        "the poem immediately before this one.",
+        '<a href="ja-37.html">Ja 37 &mdash; The Partridge</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 37 — Tittira (The Partridge)
+# --------------------------------------------------------------------------- #
+page(
+    37, "Tittira", "The Partridge",
+    meta_title="Ja 37 — The Partridge | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 37 — the traditional source for the famous story of "
+        "a partridge, monkey, and elephant who found happiness by "
+        "honoring their eldest. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Four (Kulāvakavagga) &middot; Poem 7 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse, source of a widely known "
+                       "story"),
+    ],
+    why=(
+        "This poem is the traditional source for one of the "
+        "best-known friendship stories associated with the Jātaka "
+        "tradition &mdash; three animals of unequal size and status "
+        "who found lasting happiness together simply by determining, "
+        "and then honoring, who among them was eldest."),
+    guide=[
+        ("A general principle about honoring elders", [
+            "The verse states its principle in general terms: "
+            "&lsquo;those people who honor the elder are experts in "
+            "the teaching; praised in this life, they're destined for "
+            "happiness in the next.&rsquo; On its own, the verse "
+            "makes no mention of any specific animals."]),
+        ("The specific story behind a general teaching", [
+            "Per Sujato's comment, the underlying story concerns a "
+            "partridge, a monkey, and an elephant who were friends "
+            "and lived happily because they honored the eldest among "
+            "them. This tale &mdash; determining seniority not by "
+            "size or strength but by whichever animal remembered the "
+            "oldest landmark or memory &mdash; became one of the most "
+            "widely retold friendship stories associated with this "
+            "collection, though the verse itself states only the "
+            "general principle the story illustrates."]),
+    ],
+    terms=[
+        ("vuḍḍham apacāyanti",
+         "&ldquo;honor the elder&rdquo; &mdash; the verse's central "
+         "principle."),
+        ("dhammassa kovidā",
+         "&ldquo;experts in the teaching&rdquo; &mdash; what those "
+         "who honor the elder are said to become."),
+        ("diṭṭheva dhamme pāsaṁsā",
+         "&ldquo;praised in this life&rdquo; &mdash; the immediate "
+         "reward the verse names, alongside a future one."),
+        ("Tittirajātaka",
+         "the traditional title of this tale, &lsquo;The "
+         "Partridge&rsquo; &mdash; though the verse itself concerns "
+         "a principle shared by a partridge, monkey, and elephant "
+         "together."),
+        ("partridge, monkey, and elephant",
+         "the three animal friends of the underlying commentarial "
+         "story, per Sujato's comment, who found happiness by "
+         "honoring whichever of them was eldest."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja37:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What principle does the verse state, in general terms?',
+         "opts": [
+             'That those who honor the elder are experts in the teaching, praised now and destined for future happiness',
+             'That strength determines status',
+             'No principle is stated',
+             'That wealth brings happiness',
+         ],
+         "correct": 0,
+         "expl": 'Stated generally, without naming any specific animals.'},
+        {"q": 'What three animals does the underlying commentarial story involve?',
+         "opts": [
+             'A tiger, a snake, and a bird',
+             'A partridge, a monkey, and an elephant',
+             'A fish, a crab, and a crane',
+             'The comment names no specific animals',
+         ],
+         "correct": 1,
+         "expl": 'Friends who lived happily by honoring the eldest among them.'},
+        {"q": 'Does the verse itself name these three specific animals?',
+         "opts": [
+             'Only the elephant is named',
+             'Yes, all three are named directly',
+             'No — the verse states only the general principle the story illustrates',
+             'Only the partridge is named',
+         ],
+         "correct": 2,
+         "expl": 'The specific story comes entirely from the commentarial tradition, not the canonical verse.'},
+        {"q": 'How, per the wider tradition, did the three animals determine seniority?',
+         "opts": [
+             'By strength alone',
+             'By a formal vote',
+             'By size alone',
+             'By whichever animal remembered the oldest landmark or memory, not by size or strength',
+         ],
+         "correct": 3,
+         "expl": 'A distinctive method that made the story widely memorable.'},
+        {"q": 'What reward does the verse promise for honoring the elder?',
+         "opts": [
+             'Both being praised in this life and happiness destined for the next',
+             'Only a this-life reward',
+             'No reward is mentioned',
+             'Only a future-life reward',
+         ],
+         "correct": 0,
+         "expl": 'A double benefit spanning both present and future.'},
+        {"q": 'How well-known is this tale, per this reading guide?',
+         "opts": [
+             'Largely obscure and rarely retold',
+             'One of the best-known friendship stories associated with the Jātaka tradition',
+             'Known only to specialists',
+             'Not connected to any wider tradition',
+         ],
+         "correct": 1,
+         "expl": 'Its traditional source lies in this compact verse.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Nanda',
+             'Bird',
+             'The Partridge (Tittirajātaka)',
+             'The Crane',
+         ],
+         "correct": 2,
+         "expl": 'The thirty-seventh poem overall, and the seventh of the Kulāvakavagga — named for one of the three friends, though the verse itself is general.'},
+        {"q": 'What relationship do the three animals have to each other in the underlying story?',
+         "opts": [
+             'They are strangers',
+             'They are predator and prey',
+             'They are rivals',
+             'They are friends',
+         ],
+         "correct": 3,
+         "expl": 'Living happily together through mutual respect for seniority.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The seventh poem of the Kulāvakavagga, following Ja 31 through Ja 36',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+         ],
+         "correct": 0,
+         "expl": 'Part of the same ten-poem Kulāvakavagga.'},
+        {"q": 'What does this poem illustrate about the relationship between canonical verse and commentarial story in this collection?',
+         "opts": [
+             'They are always identical in detail',
+             'A general canonical principle can correspond to a much more specific and memorable commentarial narrative',
+             'The verse and story are always unrelated',
+             'The verse always contains more detail than the story',
+         ],
+         "correct": 1,
+         "expl": 'A pattern seen repeatedly across this partial Jātaka selection.'},
+    ],
+    marginalia=[
+        ("A principle, stated without a story", [
+            "the verse alone just says 'honor the elder' —",
+            "the specific tale lives only in commentary"
+        ]),
+        ("Three friends, one method of seniority", [
+            "not size, not strength, but memory —",
+            "whoever recalled the oldest landmark led"
+        ]),
+        ("A widely retold tale, traced to one verse", [
+            "the partridge, monkey, and elephant's fame —",
+            "traced back to these four compact lines"
+        ]),
+        ("A double reward for a simple respect", [
+            "praised now, destined well later —",
+            "honoring an elder pays twice over"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja37/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-36.html">Ja 36 &mdash; Bird</a> &mdash; the '
+        "poem immediately before this one.",
+        '<a href="ja-38.html">Ja 38 &mdash; The Crane</a> &mdash; '
+        "the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 38 — Baka (The Crane)
+# --------------------------------------------------------------------------- #
+page(
+    38, "Baka", "The Crane",
+    meta_title="Ja 38 — The Crane | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 38 — a scheming crane outplayed by the very crab it "
+        "tried to deceive, and a proverb about the limits of "
+        "cleverness. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Four (Kulāvakavagga) &middot; Poem 8 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short proverb about the limits of "
+                       "cheating"),
+    ],
+    why=(
+        "This poem's proverb &mdash; that a clever cheat can never "
+        "achieve real happiness through cheating &mdash; is "
+        "sharpened by its own punchline: the crane's fraud succeeds "
+        "only in getting him exactly what a crab, of all creatures, "
+        "was able to do to him instead."),
+    guide=[
+        ("A proverb about the ceiling on what cheating can achieve", [
+            "The verse states its principle, then delivers its own "
+            "ironic proof: &lsquo;the clever cheat cannot achieve "
+            "ultimate happiness by cheating. The clever cheat "
+            "succeeds only in getting what the crane did from the "
+            "crab.&rsquo; The final line is deliberately withholding "
+            "&mdash; the reader must already know, or find out via "
+            "the commentary, exactly what the crab did to the "
+            "crane."]),
+        ("A trickster outplayed by its own intended victim", [
+            "Per Sujato's comment, the crane, appearing to "
+            "contemplate deeply as it waits beside the pond, catches "
+            "fish by means of fraud &mdash; but is ultimately "
+            "&lsquo;outplayed by the canny crab&rsquo;, a creature it "
+            "presumably expected to be an easy target. The specific "
+            "irony is that the crane's downfall comes not from a "
+            "stronger predator, but from the very kind of victim it "
+            "assumed it could deceive without consequence."]),
+    ],
+    terms=[
+        ("nikatippañño",
+         "&ldquo;the clever cheat&rdquo; &mdash; the verse's own "
+         "term for someone whose intelligence is put entirely toward "
+         "deception."),
+        ("nāccantaṁ... sukhamedhati",
+         "&ldquo;cannot achieve ultimate happiness&rdquo; &mdash; "
+         "the verse's central claim about the limits of cheating."),
+        ("bako kakkaṭakāmiva",
+         "&ldquo;what the crane did from the crab&rdquo; &mdash; the "
+         "verse's own withheld punchline, requiring outside context "
+         "to fully land."),
+        ("Bakajātaka",
+         "the traditional title of this tale, &lsquo;The "
+         "Crane&rsquo;."),
+        ("kakkaṭaka",
+         "&ldquo;crab&rdquo; &mdash; per Sujato's comment, the "
+         "seemingly easy target who ultimately outplays the "
+         "scheming crane."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja38:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the verse claim about the 'clever cheat'?",
+         "opts": [
+             'That cheating always leads to lasting happiness',
+             'That the clever cheat cannot achieve ultimate happiness by cheating',
+             'That cheating is impossible to detect',
+             'No claim is made about cheating',
+         ],
+         "correct": 1,
+         "expl": "The verse's central proverb about the limits of deception."},
+        {"q": "How does the crane catch fish, per Sujato's comment?",
+         "opts": [
+             "The comment does not describe the crane's method",
+             'Through honest effort',
+             'By fraud, appearing to contemplate deeply while waiting beside the pond',
+             'By asking politely',
+         ],
+         "correct": 2,
+         "expl": 'A deceptive appearance masking predatory intent.'},
+        {"q": 'Who ultimately outplays the crane?',
+         "opts": [
+             'Another crane',
+             'The fish themselves',
+             'A larger predator',
+             'The crab, a seemingly easy target',
+         ],
+         "correct": 3,
+         "expl": 'The specific irony central to this tale.'},
+        {"q": "What does the verse's final line deliberately withhold?",
+         "opts": [
+             'The specific detail of what happened between the crane and the crab, requiring outside context to fully understand',
+             "The crane's name",
+             'The location of the pond',
+             'Nothing is withheld',
+         ],
+         "correct": 0,
+         "expl": 'A compact reference assuming the audience already knows or will learn the fuller story.'},
+        {"q": 'What kind of victim did the crane presumably expect the crab to be?',
+         "opts": [
+             'A dangerous and difficult target',
+             'An easy target, no different from the fish it had already deceived',
+             'Not a target at all',
+             'The verse does not address this',
+         ],
+         "correct": 1,
+         "expl": "Making its downfall at the crab's hands especially ironic."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Pit of Acacia Coals',
+             'The Partridge',
+             'The Crane (Bakajātaka)',
+             'Nanda',
+         ],
+         "correct": 2,
+         "expl": 'The thirty-eighth poem overall, and the eighth of the Kulāvakavagga.'},
+        {"q": 'What broader point does this proverb make about intelligence used for deception?',
+         "opts": [
+             'That it is morally neutral',
+             'That it only fails against stronger creatures',
+             'That it always succeeds',
+             "That it has a ceiling — it cannot deliver 'ultimate happiness', and can be turned back on the cheat by an unexpected opponent",
+         ],
+         "correct": 3,
+         "expl": "The crane's fraud is defeated not by strength but by a cleverness matching or exceeding its own."},
+        {"q": 'What method does the crane use to appear non-threatening while hunting?',
+         "opts": [
+             'Standing still, appearing to contemplate deeply',
+             'Approaching loudly',
+             'No specific method is described',
+             'Hiding entirely',
+         ],
+         "correct": 0,
+         "expl": 'A deceptive posture that presumably worked on the fish, but not on the crab.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The eighth poem of the Kulāvakavagga, following Ja 31 through Ja 37',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+         ],
+         "correct": 1,
+         "expl": 'Part of the same ten-poem Kulāvakavagga.'},
+        {"q": "How does this verse's structure use compression for effect?",
+         "opts": [
+             'It repeats the same line four times',
+             'It spells out every detail explicitly',
+             'It states a general principle, then delivers a specific, withheld punchline that requires outside knowledge to appreciate',
+             'It avoids any specific reference entirely',
+         ],
+         "correct": 2,
+         "expl": 'A technique found across several poems in this partial selection.'},
+    ],
+    marginalia=[
+        ("A cheat's own ceiling", [
+            "cleverness in deception only goes so far —",
+            "'ultimate happiness' stays out of reach"
+        ]),
+        ("Outplayed by the expected easy mark", [
+            "not a stronger predator, but a crab —",
+            "the irony is the whole point"
+        ]),
+        ("A punchline the verse won't spell out", [
+            "'what the crane did from the crab' —",
+            "you already have to know the story"
+        ]),
+        ("Contemplation as a mask for hunting", [
+            "stillness that looked like wisdom —",
+            "fooling fish, but not this one crab"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja38/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-37.html">Ja 37 &mdash; The Partridge</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="ja-39.html">Ja 39 &mdash; Nanda</a> &mdash; the '
+        "next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 39 — Nanda
+# --------------------------------------------------------------------------- #
+page(
+    39, "Nanda", "Nanda",
+    meta_title="Ja 39 — Nanda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 39 — a coded verse hiding a buried inheritance behind "
+        "a resentful servant's curses. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Four (Kulāvakavagga) &middot; Poem 9 of 10",
+    glance=[
+        ("Setting", "A son and a trusted family servant, standing at "
+                    "a hidden location"),
+        ("Speaker", "The son, working out the meaning behind the "
+                    "servant's odd behavior"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; a genuine riddle requiring the "
+                       "comment to unpack"),
+    ],
+    why=(
+        "This tale hinges on a genuinely clever piece of behavioral "
+        "reading: a servant's odd, hostile behavior is not what it "
+        "first appears, and Sujato's comment unpacks exactly how a "
+        "coded curse reveals the very information it seems to be "
+        "hiding."),
+    guide=[
+        ("A son's suspicion, and a riddle solved through inference", [
+            "The verse gives the son's own reasoning: &lsquo;I "
+            "suspect the heap of gold and golden chains is where the "
+            "house-born slave Nandaka stands yelling curses.&rsquo; "
+            "Per Sujato's comment, before his death the father had "
+            "entrusted only his servant Nanda with the location of "
+            "his buried wealth, fearing his young wife would waste "
+            "the inheritance on a new man rather than pass it to her "
+            "son. When the servant arrives at the location with the "
+            "heir, conceit leads him to curse rather than simply "
+            "reveal the treasure &mdash; but his very presence and "
+            "hostility at that specific spot gives the location "
+            "away."]),
+        ("The real motivation hidden inside an insult", [
+            "Sujato's comment adds a further layer: having served the "
+            "father since birth, Nanda was addressed as &lsquo;my "
+            "dear&rsquo; and even &lsquo;uncle&rsquo;, treated almost "
+            "as family. His curse against the young wife and son "
+            "&mdash; calling the son &lsquo;you bastard son of a "
+            "slave girl&rsquo; &mdash; reveals, per the comment, his "
+            "real resentment: not simple loyalty being tested, but a "
+            "servant who felt he deserved more standing than he was "
+            "given, and who is finally saying so, however "
+            "indirectly."]),
+    ],
+    terms=[
+        ("sovaṇṇayo rāsi",
+         "&ldquo;heap of gold&rdquo; &mdash; the buried inheritance "
+         "the son is trying to locate."),
+        ("āmajāto",
+         "&ldquo;house-born&rdquo; &mdash; per Sujato's comment, "
+         "from a Vedic root meaning &lsquo;house&rsquo;, though the "
+         "traditional commentary explains it as &lsquo;with "
+         "consent&rsquo;."),
+        ("thullāni gajjati",
+         "&ldquo;stands yelling curses&rdquo; &mdash; the servant's "
+         "own hostile behavior, which paradoxically gives away the "
+         "treasure's location."),
+        ("Nandajātaka",
+         "the traditional title of this tale, named for the servant "
+         "Nanda."),
+        ("tāta / mātula",
+         "&ldquo;my dear&rdquo; and &ldquo;uncle&rdquo; &mdash; the "
+         "affectionate, near-familial terms the servant was "
+         "traditionally addressed with, per Sujato's comment, making "
+         "his eventual resentment more pointed."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, requiring Sujato's "
+        "comment to unpack its riddling logic, discussed above. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja39:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What information did the father entrust only to his servant Nanda, per Sujato's comment?",
+         "opts": [
+             'The location of a hidden weapon',
+             'The identity of a rival',
+             'The location of his buried wealth',
+             'A secret family recipe',
+         ],
+         "correct": 2,
+         "expl": 'Fearing his young wife would waste the inheritance rather than pass it to her son.'},
+        {"q": "How does the son ultimately work out the treasure's location?",
+         "opts": [
+             'Through a written map',
+             'By digging randomly until he finds it',
+             'The servant tells him directly',
+             "By recognizing that the servant's hostile cursing at a specific spot reveals that location",
+         ],
+         "correct": 3,
+         "expl": "The very location of Nanda's outburst gives away what he seems to be trying to withhold."},
+        {"q": 'Why, per the comment, does Nanda curse instead of simply revealing the treasure?',
+         "opts": [
+             'Out of conceit, and underlying resentment at his own status',
+             "He is testing the son's patience",
+             'He genuinely wants to keep the gold for himself',
+             'He has completely forgotten the location',
+         ],
+         "correct": 0,
+         "expl": 'Revealed further by the specific insult he directs at the son and his mother.'},
+        {"q": 'What insult does Nanda direct at the son, per the comment?',
+         "opts": [
+             'A comment about his intelligence',
+             "'You bastard son of a slave girl'",
+             'A comment about his appearance',
+             'No specific insult is recorded',
+         ],
+         "correct": 1,
+         "expl": 'Revealing his real feelings toward the young wife and her son.'},
+        {"q": "How was Nanda traditionally treated by the family, per Sujato's comment?",
+         "opts": [
+             'The comment does not address this',
+             'As an ordinary servant with no special regard',
+             "Almost as family, addressed as 'my dear' and even 'uncle'",
+             'With open hostility from the start',
+         ],
+         "correct": 2,
+         "expl": 'Making his eventual resentment and hostile outburst more pointed.'},
+        {"q": "What does Sujato's comment say about the term 'āmajāto'?",
+         "opts": [
+             'It is a proper name',
+             'The comment does not address this term',
+             'It has an uncontested single meaning',
+             "It derives from a Vedic root meaning 'house', though traditionally explained as 'with consent'",
+         ],
+         "correct": 3,
+         "expl": "One of several philological notes threaded through this chapter's comments."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Nanda (Nandajātaka)',
+             'The Pit of Acacia Coals',
+             'The Partridge',
+             'The Crane',
+         ],
+         "correct": 0,
+         "expl": 'The thirty-ninth poem overall, and the ninth of the Kulāvakavagga, named for the servant.'},
+        {"q": 'Why did the father specifically fear entrusting the location to his young wife?',
+         "opts": [
+             'He did not trust her intelligence',
+             'He feared she would waste the inheritance on a new man rather than pass it to her son',
+             'She had already betrayed him once',
+             'No specific fear is given',
+         ],
+         "correct": 1,
+         "expl": "The underlying motive for the father's unusual arrangement with his servant instead."},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The ninth poem of the Kulāvakavagga, following Ja 31 through Ja 38',
+             'The final poem of its chapter',
+         ],
+         "correct": 2,
+         "expl": 'The second-to-last poem of this ten-poem chapter.'},
+        {"q": "What makes this poem's central riddle distinctive among this chapter's other poems?",
+         "opts": [
+             'It is the only poem in the chapter about a human, not an animal',
+             'It is the shortest poem in the chapter',
+             'It requires no interpretation at all',
+             'It hinges on a genuinely clever piece of behavioral reading — hostile behavior paradoxically revealing hidden information',
+         ],
+         "correct": 3,
+         "expl": "A different kind of cleverness from this chapter's animal fables — psychological rather than purely moral."},
+    ],
+    marginalia=[
+        ("A curse that gives away the secret", [
+            "yelling at exactly the wrong spot —",
+            "the outburst reveals what silence would have hidden"
+        ]),
+        ("Resentment, finally spoken", [
+            "'my dear', 'uncle' — until this moment —",
+            "the insult reveals what was always beneath the surface"
+        ]),
+        ("A father's careful, distrustful plan", [
+            "the location entrusted to a servant, not a wife —",
+            "protecting an inheritance he feared would be squandered"
+        ]),
+        ("Inference as the real solution", [
+            "no confession needed, just careful reading —",
+            "the son works it out from behavior alone"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja39/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-38.html">Ja 38 &mdash; The Crane</a> &mdash; '
+        "the poem immediately before this one.",
+        '<a href="ja-40.html">Ja 40 &mdash; The Pit of Acacia '
+        "Coals</a> &mdash; the next poem, closing this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 40 — Khadiraṅgāra (The Pit of Acacia Coals)
+# --------------------------------------------------------------------------- #
+page(
+    40, "Khadira&#7749;g&amacr;ra", "The Pit of Acacia Coals",
+    meta_title="Ja 40 — The Pit of Acacia Coals | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 40, closing the Kulāvakavagga — the Bodhisatta's "
+        "unshaken resolve to give alms even facing an illusory pit of "
+        "burning coals conjured by Māra. From Ru-Yi Meditation "
+        "Center."),
+    vagga="Book of the Ones &middot; Chapter Four (Kulāvakavagga) &middot; Poem 10 of 10 (closing the chapter)",
+    glance=[
+        ("Setting", "The edge of what appears to be a vast pit of "
+                    "burning coals"),
+        ("Speaker", "The Bodhisatta"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse of absolute resolve"),
+    ],
+    why=(
+        "This poem closes the Kulāvakavagga with one of this "
+        "collection's clearest declarations of unshaken generosity: "
+        "the Bodhisatta, confronted with what appears to be certain "
+        "death by fire, chooses to give rather than retreat, framing "
+        "the refusal to act nobly as a worse fate than hell itself."),
+    guide=[
+        ("Choosing generosity over self-preservation, even facing hell itself", [
+            "The verse states its resolve without hesitation: "
+            "&lsquo;fine, let me fall head over heels into hell, but "
+            "I shall not do what is ignoble. Please accept my alms "
+            "offering.&rsquo; The logic inverts ordinary "
+            "self-preservation entirely: falling into hell is treated "
+            "as an acceptable cost, while failing to act nobly is "
+            "not."]),
+        ("An illusion created specifically to block generosity", [
+            "Per Sujato's comment, Māra, in order to prevent the "
+            "Bodhisatta from giving alms to a Paccekabuddha (a "
+            "solitary awakened being), creates an illusion of a vast "
+            "pit burning with coals of acacia wood directly in his "
+            "path. The obstacle is not incidental danger but a "
+            "deliberate attempt to intimidate the Bodhisatta out of "
+            "his own generosity &mdash; and, per the comment, "
+            "&lsquo;the Bodhisatta is not intimidated.&rsquo;"]),
+        ("Closing the Kulāvakavagga", [
+            "This poem closes the Kulāvakavagga, the fourth of eight "
+            "chapters this site's selection draws from within the "
+            "Ekakanipāta. The source text's own untranslated summary "
+            "verse (uddāna) immediately follows, naming all ten poems "
+            "of this chapter in sequence &mdash; not presented here "
+            "as quoted text, since it carries no separate translation, "
+            "but noted for completeness, as at the close of the "
+            "previous three chapters."]),
+    ],
+    terms=[
+        ("kāmaṁ patāmi nirayaṁ",
+         "&ldquo;fine, let me fall into hell&rdquo; &mdash; the "
+         "Bodhisatta's own opening statement of resolve."),
+        ("nānariyaṁ karissāmi",
+         "&ldquo;I shall not do what is ignoble&rdquo; &mdash; the "
+         "verse's central commitment, prioritized above even hell "
+         "itself."),
+        ("handa piṇḍaṁ paṭiggaha",
+         "&ldquo;please accept my alms offering&rdquo; &mdash; the "
+         "Bodhisatta's direct request, addressed to the "
+         "Paccekabuddha, even as the illusory pit burns before him."),
+        ("Khadiraṅgārajātaka",
+         "the traditional title of this tale, &lsquo;The Pit of "
+         "Acacia Coals&rsquo;, closing the Kulāvakavagga."),
+        ("Paccekabuddha",
+         "a solitary awakened being, per Sujato's comment the "
+         "intended recipient of the Bodhisatta's alms, whose gift "
+         "Māra attempts to prevent through illusion."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. The chapter's own "
+        "untranslated closing summary verse (uddāna), which follows "
+        "immediately in the source text, is not quoted here since it "
+        "carries no English translation, but its content &mdash; the "
+        "ten poem titles of this chapter in sequence &mdash; matches "
+        "this reading guide's own further reading list below. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja40:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What does the Bodhisatta say he is willing to do rather than act ignobly?',
+         "opts": [
+             'Abandon the alms offering',
+             'Retreat immediately',
+             'Nothing — he refuses to take any risk',
+             'Fall head over heels into hell',
+         ],
+         "correct": 3,
+         "expl": 'An inversion of ordinary self-preservation, prioritizing noble action above even that extreme cost.'},
+        {"q": "Who created the illusion of the burning pit, per Sujato's comment?",
+         "opts": [
+             'Māra, specifically to prevent the Bodhisatta from giving alms',
+             'The Paccekabuddha himself',
+             'No specific source is given',
+             'A hostile king',
+         ],
+         "correct": 0,
+         "expl": 'A deliberate obstacle, not incidental danger.'},
+        {"q": 'Who was the Bodhisatta trying to give alms to?',
+         "opts": [
+             'A king',
+             'A Paccekabuddha (a solitary awakened being)',
+             'A group of beggars',
+             'His own family',
+         ],
+         "correct": 1,
+         "expl": "The generosity Māra's illusion was specifically designed to prevent."},
+        {"q": 'How does the Bodhisatta respond to the illusory pit?',
+         "opts": [
+             'He calls for help',
+             'He is intimidated and turns back',
+             'He is not intimidated, and proceeds to offer the alms',
+             'He attacks the illusion directly',
+         ],
+         "correct": 2,
+         "expl": "Per Sujato's comment, stated directly: 'the Bodhisatta is not intimidated.'"},
+        {"q": 'What chapter does this poem close?',
+         "opts": [
+             'The final chapter of the whole Jātaka',
+             'It does not close a chapter',
+             'The Sīlavagga',
+             "The Kulāvakavagga, the fourth of eight chapters this site's selection draws from",
+         ],
+         "correct": 3,
+         "expl": "The source text's own untranslated summary verse (uddāna) follows immediately after."},
+        {"q": "Is the chapter's closing summary verse (uddāna) presented as quoted text in this reading guide?",
+         "opts": [
+             'No — it carries no separate English translation, so it is only noted for completeness',
+             'It does not exist for this chapter',
+             'It is presented as spoken by Māra',
+             'Yes, quoted in full',
+         ],
+         "correct": 0,
+         "expl": 'Consistent with the same practice at the close of the previous three chapters.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Nanda',
+             'The Pit of Acacia Coals (Khadiraṅgārajātaka)',
+             'The Crane',
+             'The Partridge',
+         ],
+         "correct": 1,
+         "expl": 'The fortieth poem overall, and the tenth and final poem of the Kulāvakavagga.'},
+        {"q": "What material was the illusory pit's coals made of?",
+         "opts": [
+             'The verse does not specify',
+             'Ordinary charcoal',
+             'Acacia wood',
+             'Sandalwood',
+         ],
+         "correct": 2,
+         "expl": 'Giving this poem its traditional title.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The first poem of a later chapter',
+             'The first poem of the Kulāvakavagga',
+             'The tenth and final poem of the Kulāvakavagga, closing this chapter',
+         ],
+         "correct": 3,
+         "expl": "Its closing position is directly confirmed by the chapter's own summary verse following immediately after."},
+        {"q": "How many poems of this site's 82-poem Jātaka selection are complete after this one?",
+         "opts": [
+             'Forty',
+             'Sixty',
+             'All eighty-two',
+             'Twenty',
+         ],
+         "correct": 0,
+         "expl": 'Four of eight Ekakanipāta chapters now complete.'},
+    ],
+    marginalia=[
+        ("Hell accepted, ignobility refused", [
+            "the verse's whole priority in one line —",
+            "'I shall not do what is ignoble'"
+        ]),
+        ("An illusion built to stop generosity", [
+            "Māra's own deliberate obstacle —",
+            "not incidental danger, but a targeted attempt"
+        ]),
+        ("Not intimidated, and still giving", [
+            "the offering completed anyway —",
+            "the pit proves to be exactly what it was: an illusion"
+        ]),
+        ("Forty poems, four chapters closed", [
+            "the Kulāvakavagga's own summary follows —",
+            "not quoted, since it has no translation"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja40/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-39.html">Ja 39 &mdash; Nanda</a> &mdash; the '
+        "poem immediately before this one.",
+        '<a href="./">Jataka</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
