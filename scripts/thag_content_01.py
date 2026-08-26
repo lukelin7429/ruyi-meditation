@@ -56339,3 +56339,335 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thag 19.1 — Tālapuṭa
+# --------------------------------------------------------------------------- #
+page(
+    19, 1, "T&amacr;laput&#7789;a", "T&amacr;laput&#7789;a",
+    meta_title="Thag 19.1 — Tālapuṭa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Tālapuṭa's verse, the sole poem of the Book of the Fifties "
+        "&mdash; a former head of a traveling theatrical troupe whose "
+        "fifty-five verses form this collection's most sustained "
+        "direct address to his own mind, arguing with, taming, and "
+        "finally controlling it like a trainer breaks in an elephant. "
+        "From Ru-Yi Meditation Center."),
+    vagga="The Book of the Fifties &middot; Chapter One &middot; Poem 1 of 1 (the whole book)",
+    glance=[
+        ("Setting", "An extended two-part monologue: first a litany "
+                    "of yearning, then a sustained argument addressed "
+                    "directly to his own mind"),
+        ("Speaker", "Tālapuṭa, entirely first-person, with the mind "
+                    "itself (citta) quoted at length"),
+        ("Form", "Fifty-five verses, the entire Book of the Fifties "
+                 "in a single poem"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "long, structurally unusual, and psychologically "
+                       "direct"),
+    ],
+    why=(
+        "No other poem in this collection sustains a direct address "
+        "to the speaker's own mind for this long. Where this site's "
+        "own Dhammapada Chapter 3, The Mind, states the general "
+        "teaching that the mind is hard to tame, Tālapuṭa's poem "
+        "dramatizes it: he scolds his own mind for enticing him to "
+        "renounce the world and then refusing to settle, quotes its "
+        "own past promises back at it verse by verse, and ends by "
+        "binding it like an elephant to a post &mdash; a single "
+        "sustained psychological drama unmatched elsewhere in this "
+        "collection."),
+    guide=[
+        ("Two distinct movements in one long poem", [
+            "The poem falls into two clear parts: a litany of "
+            "sixteen verses (1&ndash;16), each closing on the "
+            "refrain &lsquo;when will it be?&rsquo;, yearning for a "
+            "renunciant life not yet achieved; and then, from verse "
+            "seventeen, an extended direct address to his own mind "
+            "(citta) that occupies the rest of the poem &mdash; "
+            "unique in scale among this collection's poems."]),
+        ("A litany of yearning, verse after verse", [
+            "The opening sixteen verses each ask, in some form, "
+            "&lsquo;when will it be?&rsquo;: for solitude in a "
+            "mountain cave, for greed, hate, and delusion destroyed, "
+            "for the sword of wisdom to cut the creeper of craving, "
+            "for defeating Māra and his army, for equanimity toward "
+            "praise and blame, for the monsoon rain to soak him in "
+            "the forest, for hearing the peacock's cry in a mountain "
+            "cave, and &mdash; per Sujato's comment on verse "
+            "14.3 &mdash; for crossing by psychic power even &lsquo;the "
+            "horrifying Mare's Mouth&rsquo;, a mythical entrance to "
+            "the underworld."]),
+        ("Turning to confront the mind directly", [
+            "From verse seventeen, the poem's tone shifts entirely: "
+            "&lsquo;for many years you begged me, mind: “enough "
+            "of living in a house for you!”... now that I've "
+            "gone forth as an ascetic, why do you not urge me "
+            "on?&rsquo; Tālapuṭa accuses his own mind of having "
+            "enticed him into renunciation with visions of birds, "
+            "thunder, and mountain solitude, only to lose interest "
+            "once he actually went forth."]),
+        ("The mind's own old promises, quoted back at itself", [
+            "Verses twenty-three through thirty quote, at length and "
+            "in the mind's own voice, everything it once urged him "
+            "to do: develop the absorptions and awakening factors, "
+            "realize the three knowledges, develop the eightfold "
+            "path, reflect on the aggregates as suffering, be a "
+            "wilderness-dweller and rag-robe wearer who never lies "
+            "down. Verse thirty-one delivers the accusation directly: "
+            "the mind is like &lsquo;someone who plants trees, then, "
+            "when they're about to fruit, wishes to cut down the very "
+            "same trees.&rsquo; Verse twenty-one interjects a "
+            "teaching attributed to the Buddha himself: &lsquo;the "
+            "mind fidgets like a monkey, so it's very hard to control "
+            "if you are not free of lust&rsquo; &mdash; the same "
+            "underlying concern already treated in general terms in "
+            "this site's own Dhammapada Chapter 3, The Mind."]),
+        ("A declaration of independence, and an extraordinary claim about the mind's power", [
+            "Verse thirty-two turns decisively: &lsquo;I won't do "
+            "your bidding any more... I'll wander with my mind "
+            "focused only on extinguishment.&rsquo; Verses "
+            "thirty-seven and thirty-eight then make an extraordinary "
+            "claim &mdash; that the mind alone determines every "
+            "possible rebirth destiny: &lsquo;only you, mind, make a "
+            "brahmin; you make an aristocrat... sometimes we become "
+            "peasants or menials, and life as a god is also on "
+            "account of you... you alone make us titans; because of "
+            "you we're born in hell... life as a ghost is also on "
+            "account of you.&rsquo; Every realm of Buddhist "
+            "cosmology, in this account, traces back to the workings "
+            "of a single untamed mind."]),
+        ("Taming the mind like an elephant, a horse, a bellows", [
+            "The poem's closing movement (from around verse forty) "
+            "shifts from accusation to mastery, reclaiming the same "
+            "mountain and forest imagery from the opening litany but "
+            "now under his own control: &lsquo;now I'll carefully "
+            "guide it, as a trainer with a hook guides a rutting "
+            "elephant&rsquo;, &lsquo;I shall strongly fasten you to a "
+            "meditation subject, as an elephant is tied to a post "
+            "with firm rope&rsquo;, and, most strikingly, &lsquo;I'd "
+            "never touch a bellows with a mouth open at each "
+            "end&rsquo; &mdash; refusing ever again to be blown "
+            "about by his own mind's shifting winds."]),
+        ("A closing verdict on everyone who lives by the mind's whims", [
+            "The poem's final verse turns outward to a general "
+            "judgment: &lsquo;the men and women who live under your "
+            "will and command, mind... they are ignorant and fall "
+            "under Māra's control; loving life, they're your "
+            "disciples, mind.&rsquo; The entire fifty-five-verse "
+            "argument closes not on Tālapuṭa's own victory alone, but "
+            "on a diagnosis of everyone still ruled by an untamed "
+            "mind."]),
+    ],
+    terms=[
+        ("taṁ nu kadā bhavissati",
+         "&ldquo;when will it be?&rdquo; &mdash; the refrain closing "
+         "each verse of the poem's opening sixteen-verse litany."),
+        ("cittaṁ calaṁ makkaṭasannibhaṁ",
+         "&ldquo;the mind fidgets like a monkey&rdquo; &mdash; a "
+         "teaching attributed to the Buddha, quoted within the poem "
+         "at verse 21."),
+        ("itissu maṁ citta pure niyuñjasi",
+         "&ldquo;so you used to urge me, mind&rdquo; &mdash; the "
+         "refrain closing each verse in which the mind's own past "
+         "promises are quoted back at it."),
+        ("nāhaṁ alaṁ tuyha vase nivattituṁ",
+         "&ldquo;nothing could make me return to your control&rdquo; "
+         "&mdash; Tālapuṭa's declaration of independence from his own "
+         "mind's whims."),
+        ("hatthippabhinnaṁ viya aṅkusaggaho",
+         "&ldquo;as a trainer with a hook guides a rutting "
+         "elephant&rdquo; &mdash; one of several taming similes "
+         "closing out the poem."),
+    ],
+    text_intro=(
+        "The text in full: fifty-five verses, the entire Book of the "
+        "Fifties in a single poem, moving from a litany of yearning "
+        "to an extended direct address to the speaker's own mind. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag19.1:1.1-1.4"),
+        ("p", "&sect;2", "thag19.1:2.1-2.4"),
+        ("p", "&sect;3", "thag19.1:3.1-3.4"),
+        ("p", "&sect;4", "thag19.1:4.1-4.4"),
+        ("p", "&sect;5", "thag19.1:5.1-5.4"),
+        ("p", "&sect;6", "thag19.1:6.1-6.4"),
+        ("p", "&sect;7", "thag19.1:7.1-7.4"),
+        ("p", "&sect;8", "thag19.1:8.1-8.4"),
+        ("p", "&sect;9", "thag19.1:9.1-9.4"),
+        ("p", "&sect;10", "thag19.1:10.1-10.4"),
+        ("p", "&sect;11", "thag19.1:11.1-11.4"),
+        ("p", "&sect;12", "thag19.1:12.1-12.4"),
+        ("p", "&sect;13", "thag19.1:13.1-13.4"),
+        ("p", "&sect;14", "thag19.1:14.1-14.4"),
+        ("p", "&sect;15", "thag19.1:15.1-15.4"),
+        ("p", "&sect;16", "thag19.1:16.1-16.4"),
+        ("p", "&sect;17", "thag19.1:17.1-17.4"),
+        ("p", "&sect;18", "thag19.1:18.1-18.4"),
+        ("p", "&sect;19", "thag19.1:19.1-19.4"),
+        ("p", "&sect;20", "thag19.1:20.1-20.4"),
+        ("p", "&sect;21", "thag19.1:21.1-21.4"),
+        ("p", "&sect;22", "thag19.1:22.1-22.4"),
+        ("p", "&sect;23", "thag19.1:23.1-23.4"),
+        ("p", "&sect;24", "thag19.1:24.1-24.4"),
+        ("p", "&sect;25", "thag19.1:25.1-25.4"),
+        ("p", "&sect;26", "thag19.1:26.1-26.4"),
+        ("p", "&sect;27", "thag19.1:27.1-27.4"),
+        ("p", "&sect;28", "thag19.1:28.1-28.4"),
+        ("p", "&sect;29", "thag19.1:29.1-29.4"),
+        ("p", "&sect;30", "thag19.1:30.1-30.4"),
+        ("p", "&sect;31", "thag19.1:31.1-31.4"),
+        ("p", "&sect;32", "thag19.1:32.1-32.4"),
+        ("p", "&sect;33", "thag19.1:33.1-33.4"),
+        ("p", "&sect;34", "thag19.1:34.1-34.4"),
+        ("p", "&sect;35", "thag19.1:35.1-35.4"),
+        ("p", "&sect;36", "thag19.1:36.1-36.4"),
+        ("p", "&sect;37", "thag19.1:37.1-37.4"),
+        ("p", "&sect;38", "thag19.1:38.1-38.4"),
+        ("p", "&sect;39", "thag19.1:39.1-39.4"),
+        ("p", "&sect;40", "thag19.1:40.1-40.4"),
+        ("p", "&sect;41", "thag19.1:41.1-41.4"),
+        ("p", "&sect;42", "thag19.1:42.1-42.4"),
+        ("p", "&sect;43", "thag19.1:43.1-43.4"),
+        ("p", "&sect;44", "thag19.1:44.1-44.4"),
+        ("p", "&sect;45", "thag19.1:45.1-45.4"),
+        ("p", "&sect;46", "thag19.1:46.1-46.4"),
+        ("p", "&sect;47", "thag19.1:47.1-47.4"),
+        ("p", "&sect;48", "thag19.1:48.1-48.4"),
+        ("p", "&sect;49", "thag19.1:49.1-49.4"),
+        ("p", "&sect;50", "thag19.1:50.1-50.4"),
+        ("p", "&sect;51", "thag19.1:51.1-51.4"),
+        ("p", "&sect;52", "thag19.1:52.1-52.4"),
+        ("p", "&sect;53", "thag19.1:53.1-53.4"),
+        ("p", "&sect;54", "thag19.1:54.1-54.4"),
+        ("p", "&sect;55", "thag19.1:55.1-55.4"),
+    ],
+    quiz=[
+        {"q": 'How much of the Book of the Fifties does this poem cover?',
+         "opts": [
+             'Half of the book',
+             'This is one of several poems in the book',
+             'A small fraction',
+             'The entire book — Tālapuṭa is its sole poem',
+         ],
+         "correct": 2,
+         "expl": 'The smallest single-poem book, alongside Book 18 (Mahākassapa).'},
+        {"q": "What refrain closes each verse of the poem's opening sixteen-verse litany?",
+         "opts": [
+             "'This is impossible'",
+             'No refrain is used',
+             "'I have already attained this'",
+             "'When will it be?' — a litany of yearning for renunciant life",
+         ],
+         "correct": 3,
+         "expl": 'Sixteen verses of yearning, before the poem shifts entirely at verse seventeen.'},
+        {"q": 'What does the poem do from verse seventeen onward that is unique in scale among this collection?',
+         "opts": [
+             "It sustains an extended direct address to the speaker's own mind (citta)",
+             'It shifts to third-person narration',
+             'It becomes a series of unrelated short sayings',
+             'It becomes a dialogue with another elder',
+         ],
+         "correct": 0,
+         "expl": 'No other poem in this collection sustains this kind of address to the mind for this long.'},
+        {"q": 'What accusation does Tālapuṭa make against his own mind?',
+         "opts": [
+             'That it never wanted him to renounce at all',
+             'That it enticed him into renunciation with promises, then lost interest once he actually went forth',
+             'That it made him too generous',
+             'No accusation is made',
+         ],
+         "correct": 1,
+         "expl": "'For many years you begged me, mind... now that I've gone forth as an ascetic, why do you not urge me on?'"},
+        {"q": 'What teaching, attributed to the Buddha, is quoted within the poem at verse 21?',
+         "opts": [
+             'No such teaching is quoted',
+             'A teaching about generosity',
+             "'The mind fidgets like a monkey, so it's very hard to control if you are not free of lust'",
+             'A teaching about almsfood',
+         ],
+         "correct": 2,
+         "expl": "The same underlying concern already treated in general terms in this site's own Dhammapada Chapter 3, The Mind."},
+        {"q": 'What image does verse thirty-one use to accuse the mind of inconsistency?',
+         "opts": [
+             'A comparison to a changing season',
+             'No image is used',
+             'A comparison to a river changing course',
+             "Someone who plants trees, then wishes to cut them down just as they're about to fruit",
+         ],
+         "correct": 3,
+         "expl": "Following a long section quoting the mind's own past promises back at it."},
+        {"q": 'What extraordinary claim do verses thirty-seven and thirty-eight make about the mind?',
+         "opts": [
+             'That the mind alone determines every possible rebirth destiny — brahmin, aristocrat, peasant, god, titan, hell-being, animal, or ghost',
+             'That only karma determines rebirth, not the mind',
+             'No claim about rebirth is made',
+             'That the mind has no real power over anything',
+         ],
+         "correct": 0,
+         "expl": 'Every realm of Buddhist cosmology, in this account, traces back to the workings of a single untamed mind.'},
+        {"q": "What similes describe the poem's closing shift from accusation to mastery over the mind?",
+         "opts": [
+             'No similes are used',
+             'A trainer with a hook guiding a rutting elephant, and an elephant tied to a post with firm rope',
+             'A gardener pruning a tree',
+             'A fisherman casting a net',
+         ],
+         "correct": 1,
+         "expl": 'Reclaiming the same mountain and forest imagery from the opening litany, but now under his own control.'},
+        {"q": "What striking refusal does Tālapuṭa state — 'I'd never touch a...'?",
+         "opts": [
+             'A sharp blade',
+             'A poisoned cup',
+             "A bellows with a mouth open at each end — refusing to be blown about by his own mind's shifting winds",
+             'A burning coal',
+         ],
+         "correct": 2,
+         "expl": "One of the poem's most vivid single images for refusing to be controlled any longer."},
+        {"q": "What does the poem's final verse conclude about people who live under the mind's will?",
+         "opts": [
+             'That they will always find happiness',
+             'No conclusion is drawn',
+             'That they are wise and free',
+             "That they are ignorant, fall under Māra's control, and are the mind's disciples",
+         ],
+         "correct": 3,
+         "expl": 'The entire fifty-five-verse argument closes on a diagnosis of everyone still ruled by an untamed mind.'},
+    ],
+    marginalia=[
+        ("The whole book, one long argument", [
+            "fifty-five verses, addressed to the mind itself —",
+            "unique in scale across this whole collection"
+        ]),
+        ("A litany of not-yet", [
+            "sixteen verses asking 'when will it be?' —",
+            "solitude, wisdom's sword, the peacock's cry"
+        ]),
+        ("The mind's own old promises", [
+            "quoted back, verse after verse —",
+            "'so you used to urge me, mind'"
+        ]),
+        ("Elephant, horse, and bellows", [
+            "taming similes closing the poem out —",
+            "never again blown by the mind's shifting winds"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag19.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../dhammapada/dhp-03.html">Dhammapada Chapter 3 '
+        "&mdash; The Mind</a> &mdash; this site's own general "
+        "treatment of the same theme this poem dramatizes at length.",
+        '<a href="thag-18.1.html">Thag 18.1 &mdash; Mahākassapa</a> '
+        "&mdash; the closing poem of the previous book.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
