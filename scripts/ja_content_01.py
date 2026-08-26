@@ -4243,3 +4243,1993 @@ page(
         "index.",
     ],
 )
+# -*- coding: utf-8 -*-
+
+# --------------------------------------------------------------------------- #
+# Ja 21 — Kuruṅgamiga (The Four-horned Antelope)
+# --------------------------------------------------------------------------- #
+page(
+    21, "Kuru&#7749;gamiga", "The Four-horned Antelope",
+    meta_title="Ja 21 — The Four-horned Antelope | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 21, opening the Kuruṅgavagga — a wary antelope's "
+        "verse refusing bait from a hidden hunter. From Ru-Yi "
+        "Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Three (Kuruṅgavagga) &middot; Poem 1 of 10",
+    glance=[
+        ("Setting", "An antelope addressing a hunter hidden in a "
+                    "tree"),
+        ("Speaker", "The four-horned antelope"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse of alert self-preservation"),
+    ],
+    why=(
+        "This verse opens the Kuruṅgavagga with a model of wariness "
+        "rewarded: the antelope sees through a hunter's disguise and "
+        "simply declines the trap, without confrontation or drama "
+        "&mdash; Sujato's comment grounds the animal itself in a "
+        "specific, real species and its documented natural "
+        "behavior."),
+    guide=[
+        ("Seeing through a trap, and simply walking away", [
+            "The verse is spoken directly to the hidden hunter: "
+            "&lsquo;the four-horned antelope knows that it's you who "
+            "tosses fruit from the beechwood tree. I'll go to another "
+            "beechwood, I don't like your fruit.&rsquo; Per Sujato's "
+            "comment, a wary antelope spots a hunter hiding in a tree "
+            "dropping bait, and simply seeks food elsewhere rather "
+            "than confronting the danger directly."]),
+        ("A specific, documented animal and tree", [
+            "Sujato's comment identifies the &lsquo;kuruṅga&rsquo; as "
+            "the four-horned antelope (Tetracerus quadricornis), "
+            "citing the Mṛgapakṣiśāstra's description of it as short "
+            "and red, with branched horns, wide eyes, shrewd and "
+            "patient, grazing mostly on grass &mdash; and the "
+            "&lsquo;sepaṇṇi&rsquo; as the beechwood or gamhar tree "
+            "(Gmelina arborea), which grows to 30 metres and bears "
+            "edible fruit. This kind of concrete natural detail "
+            "grounds the verse's simple lesson in an identifiable "
+            "real setting."]),
+    ],
+    terms=[
+        ("kuruṅga",
+         "the four-horned antelope (Tetracerus quadricornis), per "
+         "Sujato's comment described in the Mṛgapakṣiśāstra as "
+         "shrewd and patient."),
+        ("sepaṇṇi",
+         "the beechwood or gamhar tree (Gmelina arborea), whose "
+         "fruit the hunter uses as bait."),
+        ("na me te ruccate phalaṁ",
+         "&ldquo;I don't like your fruit&rdquo; &mdash; the "
+         "antelope's plain, undramatic refusal."),
+        ("Kuruṅgamigajātaka",
+         "the traditional title of this tale, opening the "
+         "Kuruṅgavagga."),
+        ("Mṛgapakṣiśāstra",
+         "a medieval Sanskrit text on animals and birds, cited "
+         "repeatedly in Sujato's comments across this chapter for "
+         "naturalist detail."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja21:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'Who is the verse addressed to?',
+         "opts": [
+             'A fellow antelope',
+             'A hunter hidden in a tree, dropping bait',
+             'A king',
+             'No addressee is named',
+         ],
+         "correct": 0,
+         "expl": "'The four-horned antelope knows that it's you who tosses fruit from the beechwood tree.'"},
+        {"q": 'How does the antelope respond to recognizing the trap?',
+         "opts": [
+             'By confronting the hunter directly',
+             'By simply going to another beechwood tree instead',
+             'By warning other animals loudly',
+             'By eating the bait anyway',
+         ],
+         "correct": 1,
+         "expl": 'A model of wariness rewarded, without confrontation or drama.'},
+        {"q": "What species does Sujato's comment identify the 'kuruṅga' as?",
+         "opts": [
+             'A type of goat',
+             'A type of deer with no specific identification',
+             'The four-horned antelope (Tetracerus quadricornis)',
+             'A wild boar',
+         ],
+         "correct": 2,
+         "expl": 'Described in the cited Mṛgapakṣiśāstra as shrewd and patient.'},
+        {"q": "What tree does the comment identify as the 'sepaṇṇi'?",
+         "opts": [
+             'A palm tree',
+             'No specific tree is identified',
+             'A banyan tree',
+             'The beechwood or gamhar tree (Gmelina arborea)',
+         ],
+         "correct": 3,
+         "expl": 'Growing to 30 metres and bearing edible fruit, used here as bait.'},
+        {"q": "What medieval text does Sujato's comment cite for naturalist detail about the antelope?",
+         "opts": [
+             'The Mṛgapakṣiśāstra',
+             'The Rig Veda',
+             'No text is cited',
+             'The Arthaśāstra',
+         ],
+         "correct": 0,
+         "expl": "Cited repeatedly across this chapter's comments for naturalist detail."},
+        {"q": 'What chapter does this poem open?',
+         "opts": [
+             'The Sīlavagga',
+             'The Kuruṅgavagga',
+             'The Kulāvakavagga',
+             'It does not open a chapter',
+         ],
+         "correct": 1,
+         "expl": "This collection's third ten-poem chapter."},
+        {"q": "What quality does the verse model in the antelope's behavior?",
+         "opts": [
+             'Indifference to danger',
+             'Aggression toward danger',
+             'Wariness and calm self-preservation',
+             'Recklessness',
+         ],
+         "correct": 2,
+         "expl": 'Recognizing danger and simply avoiding it, without unnecessary confrontation.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             "The King's Thoroughbred",
+             'Fords',
+             'Hounds',
+             'The Four-horned Antelope (Kuruṅgamigajātaka)',
+         ],
+         "correct": 3,
+         "expl": 'The twenty-first poem overall, and the first of the Kuruṅgavagga.'},
+        {"q": "What does the antelope's final line state plainly?",
+         "opts": [
+             "'I don't like your fruit' — a simple, undramatic refusal",
+             'A request for help',
+             'A promise to return later',
+             'A threat against the hunter',
+         ],
+         "correct": 0,
+         "expl": 'Ending the encounter without conflict.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The final poem of the Sīlavagga',
+             'The first poem of the third chapter (Kuruṅgavagga), following the completed Sīlavagga',
+             'It stands outside any chapter',
+             'The final poem of the Kuruṅgavagga',
+         ],
+         "correct": 1,
+         "expl": "Opening this collection's third ten-poem chapter."},
+    ],
+    marginalia=[
+        ("A trap seen through, not sprung", [
+            "no confrontation, just a quiet refusal —",
+            "'I'll go to another beechwood'"
+        ]),
+        ("A real animal, precisely described", [
+            "short, red, branch-horned, patient —",
+            "grounded in documented naturalist detail"
+        ]),
+        ("Opening the third chapter", [
+            "Kuruṅgavagga begins with wariness rewarded —",
+            "ten more poems of animal wisdom follow"
+        ]),
+        ("Bait recognized for what it is", [
+            "fruit from a tree, dropped by a hidden hand —",
+            "the antelope simply isn't fooled"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja21/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-20.html">Ja 20 &mdash; The Reed Drink</a> '
+        "&mdash; the closing poem of the previous chapter.",
+        '<a href="ja-22.html">Ja 22 &mdash; Hounds</a> &mdash; the '
+        "next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 22 — Kukkura (Hounds)
+# --------------------------------------------------------------------------- #
+page(
+    22, "Kukkura", "Hounds",
+    meta_title="Ja 22 — Hounds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 22 — a wild dog's protest against the unjust killing "
+        "of the weak for the crimes of the privileged. From Ru-Yi "
+        "Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Three (Kuruṅgavagga) &middot; Poem 2 of 10",
+    glance=[
+        ("Setting", "A protest, spoken on behalf of wild dogs facing "
+                    "unjust punishment"),
+        ("Speaker", "The Bodhisatta, born as a leader of a pack of "
+                    "dogs"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short protest verse"),
+    ],
+    why=(
+        "This verse gives voice to a plain and still-relevant "
+        "grievance: that the powerful escape consequences for their "
+        "own wrongdoing while the powerless are punished in their "
+        "place. Sujato's own comment identifies the story's setting "
+        "&mdash; a cemetery dog-pack leader speaking against the "
+        "court's own pedigreed hounds &mdash; as the real target of "
+        "the protest."),
+    guide=[
+        ("A protest against punishing the wrong party", [
+            "The verse states its grievance directly: &lsquo;the "
+            "hounds raised in the royal family, pedigreed, handsome "
+            "and strong, are not slaughtered, we are slaughtered "
+            "&mdash; this is not the dogs deserving death, this is "
+            "the killing of the weak.&rsquo; Per Sujato's comment, "
+            "the Bodhisatta, born as the leader of a pack of dogs "
+            "living in a cemetery, protests the unjust slaughter of "
+            "wild dogs when it is actually the fancy hounds of the "
+            "royal court who are responsible for the wrongdoing being "
+            "punished."]),
+        ("A grievance about power and consequence", [
+            "The verse's underlying logic is not really about dogs at "
+            "all: it names a pattern where those with status and "
+            "protection (&lsquo;raised in the royal family, "
+            "pedigreed&rsquo;) escape the consequences of their own "
+            "actions, while those without such standing bear "
+            "punishment meant for someone else entirely."]),
+    ],
+    terms=[
+        ("koleyyakā",
+         "&ldquo;pedigreed&rdquo; &mdash; per Sujato's comment, a "
+         "term also found at this site's own AN 7.63, describing the "
+         "privileged royal hounds."),
+        ("teme na vajjhā mayamasma vajjhā",
+         "&ldquo;they are not slaughtered, we are slaughtered&rdquo; "
+         "&mdash; the verse's stark central complaint."),
+        ("dubbalaghātikāyaṁ",
+         "&ldquo;the killing of the weak&rdquo; &mdash; the verse's "
+         "closing description of what is actually happening, "
+         "against the pretense of justice."),
+        ("Kukkurajātaka",
+         "the traditional title of this tale, &lsquo;Hounds&rsquo;."),
+        ("Bodhisatta",
+         "the Buddha-to-be in this and other Jātaka tales; here, "
+         "born as the leader of a cemetery-dwelling pack of dogs."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja22:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What grievance does the verse state?',
+         "opts": [
+             'That all dogs should be treated equally well',
+             "That the royal family's pedigreed hounds are not slaughtered while others are, though it is the pedigreed hounds who did wrong",
+             'That dogs should not be kept as pets',
+             'No specific grievance is stated',
+         ],
+         "correct": 1,
+         "expl": "'This is not the dogs deserving death, this is the killing of the weak.'"},
+        {"q": "Where, per Sujato's comment, was the Bodhisatta born in this story?",
+         "opts": [
+             'As a human observer',
+             'In the royal palace',
+             'As the leader of a pack of dogs living in a cemetery',
+             'As a single stray dog with no pack',
+         ],
+         "correct": 2,
+         "expl": 'Protesting the unjust slaughter of dogs like himself.'},
+        {"q": 'Who is actually responsible for the wrongdoing being punished, per the story?',
+         "opts": [
+             'A group of hunters',
+             'The story does not specify',
+             'The wild dogs themselves',
+             "The royal court's own pedigreed hounds",
+         ],
+         "correct": 3,
+         "expl": 'The wild dogs are punished in their place, despite being innocent.'},
+        {"q": "What already-completed page on this site does Sujato's comment cite for the term 'koleyyakā' (pedigreed)?",
+         "opts": [
+             'AN 7.63',
+             'SN 9.8',
+             'No cross-reference is given',
+             'MN 51',
+         ],
+         "correct": 0,
+         "expl": "A linguistic cross-reference for the term's usage."},
+        {"q": "What broader pattern does this verse's grievance describe?",
+         "opts": [
+             'A pattern specific only to dogs',
+             'The powerful escaping consequences for their own wrongdoing while the powerless are punished instead',
+             'A pattern of animal loyalty',
+             'No broader pattern is implied',
+         ],
+         "correct": 1,
+         "expl": "The verse's underlying point extends well beyond the literal dogs it describes."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Fords',
+             'The Four-horned Antelope',
+             'Hounds (Kukkurajātaka)',
+             "The King's Thoroughbred",
+         ],
+         "correct": 2,
+         "expl": 'The twenty-second poem overall, and the second of the Kuruṅgavagga.'},
+        {"q": "How does the verse describe the royal family's own hounds?",
+         "opts": [
+             'As wild and untrained',
+             'The verse does not describe them',
+             'As poorly treated',
+             'As pedigreed, handsome, and strong',
+         ],
+         "correct": 3,
+         "expl": 'Contrasted directly with the wild dogs facing unjust punishment.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The second poem of the Kuruṅgavagga, following Ja 21',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+         ],
+         "correct": 0,
+         "expl": 'Part of the same ten-poem Kuruṅgavagga.'},
+        {"q": 'What tone does this verse take — resigned or protesting?',
+         "opts": [
+             'Entirely resigned, with no objection raised',
+             'Directly protesting, naming the injustice plainly',
+             'Celebratory',
+             'Indifferent',
+         ],
+         "correct": 1,
+         "expl": 'A clear, pointed statement of grievance rather than passive acceptance.'},
+        {"q": "What does this verse's protest still resonate with, beyond its literal setting?",
+         "opts": [
+             'A specific legal code no longer in use',
+             'Nothing beyond the literal story',
+             'A still-relevant grievance about status shielding the privileged from consequence',
+             'A purely historical curiosity with no modern relevance',
+         ],
+         "correct": 2,
+         "expl": "Noted in this reading guide's own framing of the verse's underlying logic."},
+    ],
+    marginalia=[
+        ("Punished for someone else's crime", [
+            "the pedigreed hounds go free —",
+            "the wild dogs pay the price instead"
+        ]),
+        ("A cemetery-dwelling protest", [
+            "the Bodhisatta, leader of the unwanted pack —",
+            "speaking plainly against injustice"
+        ]),
+        ("Status shielding the guilty", [
+            "'raised in the royal family' means safety —",
+            "the weak bear what the strong deserve"
+        ]),
+        ("A grievance that still lands", [
+            "not really about dogs at all —",
+            "a pattern recognizable well beyond this tale"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja22/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../anguttara-nikaya/an-7.63.html">AN 7.63 &mdash; '
+        "Kinds of Wives</a> &mdash; cited in Sujato's comment for the "
+        "term 'koleyyakā'.",
+        '<a href="ja-21.html">Ja 21 &mdash; The Four-horned '
+        "Antelope</a> &mdash; the poem immediately before this one.",
+        "<a href=\"ja-23.html\">Ja 23 &mdash; The King's "
+        "Thoroughbred</a> &mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 23 — Bhojājānīya (The King's Thoroughbred)
+# --------------------------------------------------------------------------- #
+page(
+    23, "Bhoj&amacr;j&amacr;n&imacr;ya", "The King's Thoroughbred",
+    meta_title="Ja 23 — The King's Thoroughbred | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 23 — a wounded warhorse's own plea to fight on, the "
+        "first half of a matched pair with the next poem. From Ru-Yi "
+        "Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Three (Kuruṅgavagga) &middot; Poem 3 of 10",
+    glance=[
+        ("Setting", "A battlefield, a warhorse pierced by arrows"),
+        ("Speaker", "The wounded warhorse itself, addressing its "
+                    "rider"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse of resolute determination"),
+    ],
+    why=(
+        "This verse begins a matched pair with the next poem, Ja 24 "
+        "&mdash; both give voice to a warhorse's own unbroken resolve "
+        "under fire, and Sujato's comment on the companion poem "
+        "explicitly notes the similarity: &lsquo;similar to the "
+        "previous story, a warhorse declares its determination to go "
+        "on.&rsquo;"),
+    guide=[
+        ("A wounded horse asking to be sent back into battle", [
+            "The verse gives the warhorse its own voice: &lsquo;though "
+            "lying on my side, pierced by many arrows, the king's "
+            "stallion beats a gelding &mdash; harness me now, "
+            "charioteer.&rsquo; Per Sujato's comment, a wounded "
+            "warhorse urges its rider to take one last stand, "
+            "confident that even wounded, a thoroughbred outperforms "
+            "an ordinary horse."]),
+        ("A technical note on an unusual grammatical form", [
+            "Sujato's comment flags that &lsquo;vaḷavā&rsquo; is "
+            "normally the word for &lsquo;mare&rsquo;, but here "
+            "appears in a masculine ablative form, glossed elsewhere "
+            "with a term for &lsquo;wild colt&rsquo; &mdash; a "
+            "grammatical detail that shapes how the comparison "
+            "between the wounded thoroughbred and an ordinary horse "
+            "should actually be read."]),
+    ],
+    terms=[
+        ("sallalīkato",
+         "&ldquo;pierced by many arrows&rdquo; &mdash; the "
+         "warhorse's own wounded condition."),
+        ("vaḷavā bhojjo",
+         "&ldquo;the king's stallion... a gelding&rdquo; &mdash; per "
+         "Sujato's comment, an unusual grammatical construction "
+         "comparing the wounded thoroughbred favorably to an "
+         "ordinary horse."),
+        ("yuñja maññeva sārathī",
+         "&ldquo;harness me now, charioteer&rdquo; &mdash; the "
+         "warhorse's own direct request."),
+        ("Bhojājānīyajātaka",
+         "the traditional title of this tale, &lsquo;The King's "
+         "Thoroughbred&rsquo;."),
+        ("Ja 24",
+         "the next poem in this chapter, explicitly noted by "
+         "Sujato's own comment as similar to this one."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, with a technical "
+        "grammatical note discussed above. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja23:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What condition is the warhorse in when it speaks this verse?',
+         "opts": [
+             'Its condition is not described',
+             'Fully healthy and rested',
+             'Lying on its side, pierced by many arrows',
+             'Already dead',
+         ],
+         "correct": 2,
+         "expl": 'Yet still requesting to be sent back into battle.'},
+        {"q": 'What does the warhorse ask its rider to do?',
+         "opts": [
+             'Find a replacement horse',
+             'Rest before continuing',
+             'Retreat immediately',
+             'Harness it now, for one last stand',
+         ],
+         "correct": 3,
+         "expl": 'Confident that even wounded, it outperforms an ordinary horse.'},
+        {"q": "What does Sujato's comment say about this poem's relationship to Ja 24?",
+         "opts": [
+             "Ja 24's comment explicitly notes it is 'similar to the previous story' — both are warhorses declaring determination",
+             'Ja 24 contradicts this poem directly',
+             'Ja 24 was written far earlier',
+             'They are unrelated',
+         ],
+         "correct": 0,
+         "expl": 'A matched pair of warhorse-resolve poems.'},
+        {"q": "What grammatical detail does Sujato's comment flag about 'vaḷavā'?",
+         "opts": [
+             'No unusual grammar is present',
+             "Though normally meaning 'mare', it appears here in a masculine ablative form glossed with 'wild colt'",
+             'It is a proper name',
+             'It is a foreign loanword',
+         ],
+         "correct": 1,
+         "expl": 'Shaping how the comparison between the wounded thoroughbred and an ordinary horse should be read.'},
+        {"q": 'What comparison does the verse draw about the wounded warhorse?',
+         "opts": [
+             'No comparison is drawn',
+             'That it is now useless',
+             'That even wounded, it still beats an ordinary horse (gelding)',
+             'That it should be retired',
+         ],
+         "correct": 2,
+         "expl": 'The basis for its confident request to be sent back into the fight.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Thoroughbred',
+             'Fords',
+             'Hounds',
+             "The King's Thoroughbred (Bhojājānīyajātaka)",
+         ],
+         "correct": 3,
+         "expl": 'The twenty-third poem overall, and the third of the Kuruṅgavagga — not to be confused with the similarly-named next poem.'},
+        {"q": 'Who speaks this verse?',
+         "opts": [
+             'The warhorse itself',
+             'The king',
+             'An unnamed narrator',
+             'The charioteer',
+         ],
+         "correct": 0,
+         "expl": "Giving voice directly to the wounded animal's own resolve."},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The third poem of the Kuruṅgavagga, following Ja 21 and Ja 22',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+         ],
+         "correct": 1,
+         "expl": 'Immediately followed by its thematically matched companion, Ja 24.'},
+        {"q": "What quality does this verse's warhorse model?",
+         "opts": [
+             'Anger at its rider',
+             'Fear and retreat',
+             'Unbroken resolve and determination despite injury',
+             'Indifference to the battle',
+         ],
+         "correct": 2,
+         "expl": 'A quality the next poem, Ja 24, develops further with a different warhorse.'},
+        {"q": "What does 'Bhoja' refer to, per Sujato's comment?",
+         "opts": [
+             'A type of weapon',
+             'The comment does not address this term',
+             'A place name only',
+             'A common name or term for a king',
+         ],
+         "correct": 3,
+         "expl": "Giving this poem its traditional title, 'The King's Thoroughbred'."},
+    ],
+    marginalia=[
+        ("Pierced, but not finished", [
+            "lying on its side, arrows still in it —",
+            "still asking to be harnessed again"
+        ]),
+        ("A wounded champion, still favored", [
+            "even hurt, better than an unwounded ordinary horse —",
+            "the verse's whole claim in one comparison"
+        ]),
+        ("The first half of a matched pair", [
+            "the same resolve returns in the next poem —",
+            "Sujato's comment confirms the echo"
+        ]),
+        ("One last stand, requested plainly", [
+            "no complaint, no hesitation —",
+            "'harness me now, charioteer'"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja23/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        "<a href=\"ja-22.html\">Ja 22 &mdash; Hounds</a> &mdash; the "
+        "poem immediately before this one.",
+        '<a href="ja-24.html">Ja 24 &mdash; The Thoroughbred</a> '
+        "&mdash; this poem's matched companion.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 24 — Ājañña (The Thoroughbred)
+# --------------------------------------------------------------------------- #
+page(
+    24, "&Amacr;ja&ntilde;&ntilde;a", "The Thoroughbred",
+    meta_title="Ja 24 — The Thoroughbred | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 24 — a second warhorse's declaration of unbroken "
+        "drive, matching the previous poem and playing with repeated "
+        "words. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Three (Kuruṅgavagga) &middot; Poem 4 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "A warhorse, per the commentarial story, "
+                    "declaring its own determination"),
+        ("Form", "One four-line stanza, built almost entirely on "
+                 "repetition"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "unusual repetitive structure, simple point"),
+    ],
+    why=(
+        "Where the previous poem, Ja 23, gave a wounded warhorse's "
+        "direct plea, this companion poem makes essentially the same "
+        "point through an unusual and striking device: its opening "
+        "two lines are built almost entirely from the repetition of "
+        "just four words, an emphatic style rare in this "
+        "collection."),
+    guide=[
+        ("A thoroughbred that keeps going, wherever and whenever", [
+            "The verse's opening lines pile up repetition for "
+            "emphasis: &lsquo;whenever whenever, wherever whenever, "
+            "wherever wherever, whenever whenever&rsquo; &mdash; "
+            "before landing its point: &lsquo;the thoroughbred drives "
+            "onward, while the geldings fade right there.&rsquo; Per "
+            "Sujato's comment, this is, like the previous poem, "
+            "&lsquo;a warhorse declares its determination to go "
+            "on.&rsquo;"]),
+        ("An unusual grammatical form matching its companion poem", [
+            "Sujato's comment notes that &lsquo;vāḷavā&rsquo; here is "
+            "a masculine nominative plural, a secondary derivation "
+            "related to &lsquo;mare&rsquo; but understood as "
+            "&lsquo;reckoned as ordinary horses&rsquo; &mdash; the "
+            "same underlying grammatical pattern already discussed at "
+            "Ja 23, reinforcing that these two poems share not just a "
+            "theme but specific technical vocabulary."]),
+    ],
+    terms=[
+        ("yadā yadā yattha yadā",
+         "&ldquo;whenever whenever, wherever whenever&rdquo; "
+         "&mdash; the verse's striking opening repetition, building "
+         "emphasis before its point."),
+        ("ājañño kurute vegaṁ",
+         "&ldquo;the thoroughbred drives onward&rdquo; &mdash; the "
+         "verse's central claim."),
+        ("hāyanti tattha vāḷavā",
+         "&ldquo;the geldings fade right there&rdquo; &mdash; the "
+         "verse's contrasting close."),
+        ("Ājaññajātaka",
+         "the traditional title of this tale, &lsquo;The "
+         "Thoroughbred&rsquo; &mdash; not to be confused with the "
+         "similarly named previous poem, Ja 23, The King's "
+         "Thoroughbred."),
+        ("Ja 23",
+         "the previous poem in this chapter, explicitly identified "
+         "by Sujato's own comment as this poem's close companion."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, built on unusual repeated "
+        "phrasing, discussed above. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja24:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What unusual device does this verse's opening two lines use?",
+         "opts": [
+             'A dialogue between two speakers',
+             'No unusual device is used',
+             'A rhyme scheme unique in this collection',
+             'Heavy repetition of just four words, piled up for emphasis',
+         ],
+         "correct": 3,
+         "expl": "'Whenever whenever, wherever whenever, wherever wherever, whenever whenever.'"},
+        {"q": 'What does the verse claim about the thoroughbred, compared to ordinary horses?',
+         "opts": [
+             'That it drives onward while the geldings fade',
+             'That it is slower but steadier',
+             'No comparison is made',
+             'That it tires just as quickly',
+         ],
+         "correct": 0,
+         "expl": "The verse's central point, following the repetitive buildup."},
+        {"q": "What does Sujato's comment say about this poem's relationship to Ja 23?",
+         "opts": [
+             'They are entirely unrelated',
+             "Sujato's comment describes this poem as 'similar to the previous story' — both are warhorses declaring determination",
+             'This poem predates Ja 23',
+             'They tell contradictory stories',
+         ],
+         "correct": 1,
+         "expl": 'A close companion poem, matching theme and technical vocabulary.'},
+        {"q": "What grammatical detail does Sujato's comment note about 'vāḷavā' here?",
+         "opts": [
+             'A proper name',
+             'No grammatical detail is noted',
+             "A masculine nominative plural, a secondary derivation related to 'mare' but meaning ordinary horses",
+             'A completely unrelated word with no connection to Ja 23',
+         ],
+         "correct": 2,
+         "expl": 'The same underlying grammatical pattern already discussed at Ja 23, reinforcing the shared vocabulary between the two poems.'},
+        {"q": "How should this poem's title be distinguished from Ja 23's?",
+         "opts": [
+             'This poem has no traditional title',
+             'Ja 23 has no traditional title',
+             'They are identical titles with no distinction needed',
+             "Ja 23 is 'The King's Thoroughbred'; this poem is simply 'The Thoroughbred' — similarly named but separate poems",
+         ],
+         "correct": 3,
+         "expl": 'Both concern warhorses, but are distinct poems with distinct (if similar) titles.'},
+        {"q": 'What is the overall point of this verse?',
+         "opts": [
+             "That a true thoroughbred's drive persists in any circumstance, unlike an ordinary horse",
+             'That circumstances alone determine performance',
+             'That horses should not be used in battle',
+             'That all horses perform equally',
+         ],
+         "correct": 0,
+         "expl": 'Matching the resolve theme of its companion poem, Ja 23.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             "The King's Thoroughbred",
+             'The Thoroughbred (Ājaññajātaka)',
+             'Fords',
+             'The Elephant Named Ladyface',
+         ],
+         "correct": 1,
+         "expl": 'The twenty-fourth poem overall, and the fourth of the Kuruṅgavagga.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The fourth poem of the Kuruṅgavagga, immediately following its companion poem Ja 23',
+             'The final poem of its chapter',
+         ],
+         "correct": 2,
+         "expl": 'Part of the same ten-poem Kuruṅgavagga.'},
+        {"q": "How does this verse's structure differ from most other poems in this collection?",
+         "opts": [
+             'It is written entirely in prose',
+             'It contains no verbs',
+             'It does not differ at all',
+             'It relies unusually heavily on repeated words for its emphasis, rather than varied imagery',
+         ],
+         "correct": 3,
+         "expl": "Flagged directly in this reading guide's own form and difficulty notes."},
+        {"q": "What word describes horses that 'fade' compared to the thoroughbred?",
+         "opts": [
+             'Geldings (vāḷavā)',
+             'Foals',
+             'Mares specifically',
+             'Stallions',
+         ],
+         "correct": 0,
+         "expl": 'Contrasted with the enduring thoroughbred throughout both this poem and its companion, Ja 23.'},
+    ],
+    marginalia=[
+        ("Repetition building to a point", [
+            "whenever, wherever, four words piled up —",
+            "then the claim: the thoroughbred never fades"
+        ]),
+        ("A companion poem, confirmed", [
+            "Sujato's own comment says so directly —",
+            "the same resolve, a different horse"
+        ]),
+        ("Shared grammar, shared theme", [
+            "the same unusual word form as Ja 23 —",
+            "two poems built from matching materials"
+        ]),
+        ("Two similarly named poems, kept distinct", [
+            "'The King's Thoroughbred' and 'The Thoroughbred' —",
+            "close cousins, not the same poem twice"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja24/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        "<a href=\"ja-23.html\">Ja 23 &mdash; The King's "
+        "Thoroughbred</a> &mdash; this poem's close companion, "
+        "immediately before it.",
+        '<a href="ja-25.html">Ja 25 &mdash; Fords</a> &mdash; the '
+        "next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 25 — Tittha (Fords)
+# --------------------------------------------------------------------------- #
+page(
+    25, "Tittha", "Fords",
+    meta_title="Ja 25 — Fords | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 25 — a canny horse-keeper's insight, paired with a "
+        "brief closing observation about overeating. From Ru-Yi "
+        "Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Three (Kuruṅgavagga) &middot; Poem 5 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself, "
+                    "addressed to a 'rider' (sārathi)"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse pairing two loosely related "
+                       "observations"),
+    ],
+    why=(
+        "This poem pairs a practical observation about a fussy "
+        "horse's changing preferences with a second, only loosely "
+        "connected remark about overeating &mdash; an example of how "
+        "these terse single-verse tales can carry more than one idea "
+        "at once, without spelling out how they relate."),
+    guide=[
+        ("A canny keeper's practical adjustment", [
+            "The verse's first half is a simple instruction: "
+            "&lsquo;at one ford or another, lead the horse to drink, "
+            "rider.&rsquo; Per Sujato's comment, when a fussy horse "
+            "refuses to drink at one ford, its canny keeper realizes "
+            "the problem is not the horse's thirst but the specific "
+            "location, and simply looks elsewhere."]),
+        ("A second observation about excess", [
+            "The verse's second half turns to a different point "
+            "entirely: &lsquo;for a man who overeats, even milk-rice "
+            "&mdash; a prized delicacy &mdash; becomes a torment.&rsquo; "
+            "This reading guide presents both halves as the verse "
+            "itself gives them, without asserting a specific "
+            "connective logic beyond what the bare text supports; "
+            "readers may notice their own resonance between a "
+            "creature refusing what's wrong for it and a person "
+            "spoiling even what's good through excess."]),
+    ],
+    terms=[
+        ("tittha",
+         "&ldquo;ford&rdquo; &mdash; a river crossing point, one of "
+         "which the fussy horse eventually accepts."),
+        ("accāsana",
+         "&ldquo;overeating&rdquo; &mdash; per Sujato's comment, "
+         "literally &lsquo;ati&rsquo; (over) plus &lsquo;asana&rsquo; "
+         "(eating)."),
+        ("pāyāsassapi tappati",
+         "&ldquo;even milk-rice is a torment&rdquo; &mdash; the "
+         "verse's closing point about how excess spoils even what is "
+         "good."),
+        ("Titthajātaka",
+         "the traditional title of this tale, &lsquo;Fords&rsquo;."),
+        ("sārathi",
+         "&ldquo;rider&rdquo; (or charioteer) &mdash; the addressee "
+         "of the verse's first-half instruction."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, pairing two loosely "
+        "related observations, discussed above. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja25:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What practical problem does the verse's first half address?",
+         "opts": [
+             'A horse that refuses all food',
+             'A horse refusing to drink at one particular ford',
+             'A horse that will not be ridden',
+             'No practical problem is addressed',
+         ],
+         "correct": 0,
+         "expl": "'At one ford or another, lead the horse to drink, rider.'"},
+        {"q": "What insight does the canny keeper have, per Sujato's comment?",
+         "opts": [
+             'That the horse is simply not thirsty',
+             "That the problem is the specific location, not the horse's thirst, so he looks elsewhere",
+             'That the horse needs to be punished',
+             'That the horse should be replaced',
+         ],
+         "correct": 1,
+         "expl": 'A simple adjustment rather than forcing the issue.'},
+        {"q": "What does the verse's second half address?",
+         "opts": [
+             'A different animal entirely',
+             'A description of the ford itself',
+             'A completely unrelated topic — overeating spoiling even good food',
+             "The same horse's diet specifically",
+         ],
+         "correct": 2,
+         "expl": "'For a man who overeats, even milk-rice is a torment.'"},
+        {"q": "Does this reading guide assert a specific logical connection between the verse's two halves?",
+         "opts": [
+             'The guide claims they are entirely unrelated',
+             'The guide claims the second half is a later addition',
+             'Yes, a definitive connection is asserted',
+             'No — it presents both halves as given, without asserting a connective logic beyond what the text supports',
+         ],
+         "correct": 3,
+         "expl": "Consistent with this collection's practice of not overclaiming meaning beyond the bare text."},
+        {"q": "What does 'accāsana' mean, per Sujato's comment?",
+         "opts": [
+             "'Overeating' — literally 'over' plus 'eating'",
+             'A type of food',
+             'A place name',
+             "'Under-eating'",
+         ],
+         "correct": 0,
+         "expl": "Breaking down the term's literal construction."},
+        {"q": "What is milk-rice (pāyāsa) generally regarded as, that makes the verse's point sharper?",
+         "opts": [
+             'A plain, ordinary food',
+             'A prized delicacy, which even so becomes a torment when overeaten',
+             'A punishment food',
+             'An unusual, rarely eaten dish',
+         ],
+         "correct": 1,
+         "expl": 'Even the best food becomes unpleasant in excess.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Frequent',
+             'The Thoroughbred',
+             'Fords (Titthajātaka)',
+             'The Elephant Named Ladyface',
+         ],
+         "correct": 2,
+         "expl": 'The twenty-fifth poem overall, and the fifth of the Kuruṅgavagga.'},
+        {"q": "Who is addressed directly in the verse's first half?",
+         "opts": [
+             'The horse itself',
+             'No one is addressed',
+             'The king',
+             'The rider (sārathi)',
+         ],
+         "correct": 3,
+         "expl": 'Given the practical instruction to try a different ford.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The fifth poem of the Kuruṅgavagga, following Ja 21 through Ja 24',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+         ],
+         "correct": 0,
+         "expl": 'Part of the same ten-poem Kuruṅgavagga.'},
+        {"q": "What kind of resonance might a reader notice between the verse's two halves, without the guide asserting it as definitive?",
+         "opts": [
+             'No possible resonance exists',
+             "A parallel between a creature refusing what's wrong for it and excess spoiling even what's good",
+             'A resonance about royal authority',
+             'A resonance about seasonal change',
+         ],
+         "correct": 1,
+         "expl": "Offered as a possible reading, not an asserted fact about the verse's composition."},
+    ],
+    marginalia=[
+        ("Not thirst, just the wrong ford", [
+            "a canny keeper reads the real problem —",
+            "and simply tries somewhere else"
+        ]),
+        ("Even a delicacy, ruined by excess", [
+            "milk-rice, prized and still spoiled —",
+            "too much undoes even the best thing"
+        ]),
+        ("Two observations, left unconnected", [
+            "the verse doesn't explain the link —",
+            "the reader is left to notice it, or not"
+        ]),
+        ("A short poem carrying two ideas", [
+            "practical adjustment, then a warning about excess —",
+            "more packed into four lines than it first appears"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja25/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-24.html">Ja 24 &mdash; The Thoroughbred</a> '
+        "&mdash; the poem immediately before this one.",
+        "<a href=\"ja-26.html\">Ja 26 &mdash; The Elephant Named "
+        "Ladyface</a> &mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 26 — Mahiḷāmukha (The Elephant Named Ladyface)
+# --------------------------------------------------------------------------- #
+page(
+    26, "Mahi&#7693;&amacr;mukha", "The Elephant Named Ladyface",
+    meta_title="Ja 26 — The Elephant Named Ladyface | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 26 — a good-natured royal elephant corrupted by "
+        "overheard bandit talk, and restored by overheard virtue. "
+        "From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Three (Kuruṅgavagga) &middot; Poem 6 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short contrast verse"),
+    ],
+    why=(
+        "This tale gives a vivid image for a universal concern: how "
+        "easily character can be shaped by what one merely overhears "
+        "&mdash; a good-natured elephant turned violent by bandits' "
+        "talk, then restored to virtue by the speech of the "
+        "well-restrained, with no direct instruction involved either "
+        "time."),
+    guide=[
+        ("Corrupted by overheard evil, restored by overheard virtue", [
+            "The verse states its contrast directly: &lsquo;before, "
+            "hearing the speech of the bandits, Ladyface went on a "
+            "rampage. But hearing the speech of the well-restrained, "
+            "the supreme elephant is established in all good "
+            "qualities.&rsquo; Per Sujato's comment, a good-natured "
+            "royal elephant was corrupted after overhearing bandits "
+            "speaking evilly &mdash; and, the verse implies, was later "
+            "restored by the reverse influence."]),
+        ("Character shaped without direct instruction", [
+            "In neither direction &mdash; corruption or restoration "
+            "&mdash; is the elephant directly taught or trained; both "
+            "changes happen simply through what it happens to "
+            "overhear. The tale's underlying point concerns the "
+            "quiet, cumulative power of environment and company on "
+            "character, for better or worse."]),
+    ],
+    terms=[
+        ("purāṇacorāna vaco",
+         "&ldquo;the speech of the bandits&rdquo; &mdash; the "
+         "corrupting influence the elephant first overhears."),
+        ("susaññatānaṁ vaco",
+         "&ldquo;the speech of the well-restrained&rdquo; &mdash; "
+         "the restorative influence the elephant later overhears."),
+        ("gajuttamo",
+         "&ldquo;the supreme elephant&rdquo; &mdash; Ladyface, once "
+         "restored to good qualities."),
+        ("Mahiḷāmukhajātaka",
+         "the traditional title of this tale, &lsquo;The Elephant "
+         "Named Ladyface&rsquo;."),
+        ("Mahiḷāmukha",
+         "&ldquo;Ladyface&rdquo; &mdash; the elephant's own name, "
+         "given as the title of this tale."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja26:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What causes Ladyface the elephant to go on a rampage, per the verse?',
+         "opts": [
+             'Physical mistreatment',
+             'Overhearing the speech of bandits',
+             'A lack of food',
+             'No cause is given',
+         ],
+         "correct": 1,
+         "expl": 'A good-natured elephant corrupted purely by what it overheard.'},
+        {"q": 'What restores Ladyface to good qualities?',
+         "opts": [
+             'No restoration is described',
+             'Direct training by a keeper',
+             'Overhearing the speech of the well-restrained',
+             'Being given more food',
+         ],
+         "correct": 2,
+         "expl": 'The same kind of influence that corrupted it, now working in reverse.'},
+        {"q": 'In either direction, is the elephant directly taught or trained?',
+         "opts": [
+             'Only the corruption is direct; the restoration is not',
+             'Only the restoration is direct; the corruption is not',
+             'Yes, always directly instructed',
+             'No — both changes happen simply through what it happens to overhear',
+         ],
+         "correct": 3,
+         "expl": 'Highlighting the quiet, cumulative power of environment and company.'},
+        {"q": 'What underlying concern does this tale illustrate?',
+         "opts": [
+             'How easily character can be shaped by what one merely overhears',
+             'The danger of elephants specifically',
+             'The importance of royal status',
+             'The importance of physical strength',
+         ],
+         "correct": 0,
+         "expl": 'A concern that extends well beyond the literal elephant of the story.'},
+        {"q": "What does Sujato's comment say about the elephant's original nature?",
+         "opts": [
+             'It was naturally violent',
+             'It was good-natured before being corrupted',
+             'Its nature is not described',
+             'It had no fixed nature',
+         ],
+         "correct": 1,
+         "expl": 'Making the corruption purely a matter of external influence, not an inherent trait.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Ox Named Nandivisāla',
+             'Fords',
+             'The Elephant Named Ladyface (Mahiḷāmukhajātaka)',
+             'Frequent',
+         ],
+         "correct": 2,
+         "expl": 'The twenty-sixth poem overall, and the sixth of the Kuruṅgavagga.'},
+        {"q": 'What does the verse call the elephant once restored?',
+         "opts": [
+             'An ordinary elephant',
+             'No description is given',
+             'A dangerous beast',
+             "'The supreme elephant', established in all good qualities",
+         ],
+         "correct": 3,
+         "expl": 'Emphasizing the completeness of its restoration.'},
+        {"q": 'Who does the elephant overhear the second time, restoring its virtue?',
+         "opts": [
+             'The well-restrained',
+             'A king',
+             'No one — it changes on its own',
+             'Bandits again',
+         ],
+         "correct": 0,
+         "expl": 'The direct contrast to the bandits it overheard the first time.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The sixth poem of the Kuruṅgavagga, following Ja 21 through Ja 25',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+         ],
+         "correct": 1,
+         "expl": 'Part of the same ten-poem Kuruṅgavagga.'},
+        {"q": "Is the elephant's transformation, in either direction, framed as sudden or the result of a process?",
+         "opts": [
+             'The verse denies any transformation occurred',
+             'The verse specifies a long, gradual process each time',
+             'The verse presents both changes concisely, without detailing the process, simply crediting the overheard speech',
+             'The verse specifies the process took exactly one year',
+         ],
+         "correct": 2,
+         "expl": "Consistent with this collection's typically terse, compressed verse form."},
+    ],
+    marginalia=[
+        ("A rampage, caused by overheard words", [
+            "no direct provocation needed —",
+            "bandit talk alone was enough"
+        ]),
+        ("Restored the same way it was corrupted", [
+            "not by training, but by better company —",
+            "virtue overheard, just like the vice was"
+        ]),
+        ("A name that names the story", [
+            "Ladyface, given the tale's own title —",
+            "his character the whole point"
+        ]),
+        ("Environment shaping without instruction", [
+            "no lesson given directly, either time —",
+            "just what happened to be overheard"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja26/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        "<a href=\"ja-25.html\">Ja 25 &mdash; Fords</a> &mdash; the "
+        "poem immediately before this one.",
+        '<a href="ja-27.html">Ja 27 &mdash; Frequent</a> &mdash; '
+        "the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 27 — Abhiṇha (Frequent)
+# --------------------------------------------------------------------------- #
+page(
+    27, "Abhi&#7751;ha", "Frequent",
+    meta_title="Ja 27 — Frequent | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 27 — a royal elephant's grief for its missing friend, "
+        "a dog, and the quiet power of simply being seen often. From "
+        "Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Three (Kuruṅgavagga) &middot; Poem 7 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself, "
+                    "reflecting on the elephant's grief"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short, tender observation"),
+    ],
+    why=(
+        "This brief tale offers a gentle, cross-species picture of "
+        "friendship &mdash; a state elephant pining for a dog it has "
+        "grown fond of, per the verse's own reasoning, simply through "
+        "frequent, unremarkable proximity, not through any grand "
+        "gesture or dramatic bond."),
+    guide=[
+        ("A friendship explained by simple frequency", [
+            "The verse reflects on an unusual bond: &lsquo;it's not "
+            "enough to give him a morsel, a bite, some grass, or a "
+            "rubbing-down. I think by seeing the dog often, the "
+            "elephant grew fond of him.&rsquo; Per Sujato's comment, "
+            "a state elephant pines when his friend, a dog, goes "
+            "missing &mdash; and the verse's own explanation for the "
+            "bond is disarmingly simple: not favors or care alone, "
+            "but the accumulated effect of frequent, ordinary "
+            "presence."]),
+        ("A quiet counterpoint to this chapter's more dramatic tales", [
+            "Compared to the self-sacrifice, injustice, and battlefield "
+            "resolve found elsewhere in this chapter, this poem's "
+            "observation is small and domestic &mdash; grief for a "
+            "missing companion, and an attempt to understand where "
+            "that attachment actually came from."]),
+    ],
+    terms=[
+        ("kabaḷaṁ / piṇḍaṁ / kuse / ghaṁsituṁ",
+         "&ldquo;a morsel... a bite, some grass, or a "
+         "rubbing-down&rdquo; &mdash; the list of favors the verse "
+         "rules out as the source of the elephant's attachment."),
+        ("abhiṇhadassanā",
+         "&ldquo;by seeing... often&rdquo; &mdash; the verse's own "
+         "proposed explanation for the bond, giving this poem its "
+         "traditional title."),
+        ("sneha",
+         "&ldquo;fondness&rdquo; &mdash; the affection the elephant "
+         "developed for the dog."),
+        ("Abhiṇhajātaka",
+         "the traditional title of this tale, &lsquo;Frequent&rsquo;."),
+        ("nāgo",
+         "&ldquo;elephant&rdquo; &mdash; here, the state elephant "
+         "pining for its missing friend."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja27:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What does the elephant do when its friend, a dog, goes missing?',
+         "opts": [
+             'It finds a replacement immediately',
+             'It shows no reaction',
+             'It pines',
+             'It searches aggressively',
+         ],
+         "correct": 2,
+         "expl": "Per Sujato's comment, a state elephant pining for its missing companion."},
+        {"q": "What does the verse rule out as the source of the elephant's attachment?",
+         "opts": [
+             "The dog's appearance",
+             "The elephant's own personality",
+             'Nothing is ruled out',
+             'Favors such as a morsel of food, a bite, grass, or a rubbing-down',
+         ],
+         "correct": 3,
+         "expl": "'It's not enough to give him a morsel... a bite, some grass, or a rubbing-down.'"},
+        {"q": 'What does the verse propose as the actual source of the bond?',
+         "opts": [
+             'Simply seeing the dog often (abhiṇhadassanā)',
+             'Shared meals specifically',
+             'No explanation is proposed',
+             'A single dramatic rescue',
+         ],
+         "correct": 0,
+         "expl": "Giving this poem its traditional title, 'Frequent'."},
+        {"q": "How does this poem's tone compare to other tales in this chapter, such as Ja 22's protest or Ja 23's battlefield resolve?",
+         "opts": [
+             'Equally dramatic',
+             'Smaller and more domestic — a quiet observation about grief and ordinary attachment',
+             'More violent',
+             'There is no notable difference',
+         ],
+         "correct": 1,
+         "expl": "A gentle counterpoint within this chapter's broader range of tone."},
+        {"q": "What two species does this tale's friendship involve?",
+         "opts": [
+             'An elephant and a bird',
+             'Two elephants',
+             'An elephant and a dog',
+             'A horse and a dog',
+         ],
+         "correct": 2,
+         "expl": 'An unusual, tender cross-species bond.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Ox Named Nandivisāla',
+             'The Ox Named Black',
+             'The Elephant Named Ladyface',
+             'Frequent (Abhiṇhajātaka)',
+         ],
+         "correct": 3,
+         "expl": 'The twenty-seventh poem overall, and the seventh of the Kuruṅgavagga.'},
+        {"q": "What role did the elephant hold, per Sujato's comment?",
+         "opts": [
+             'A state (royal) elephant',
+             'A temple elephant',
+             'The comment does not specify',
+             'A wild, untamed elephant',
+         ],
+         "correct": 0,
+         "expl": 'Adding a note of unexpected tenderness to its bond with an ordinary dog.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The seventh poem of the Kuruṅgavagga, following Ja 21 through Ja 26',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+         ],
+         "correct": 1,
+         "expl": 'Part of the same ten-poem Kuruṅgavagga.'},
+        {"q": "What quality does this verse's explanation for the bond emphasize?",
+         "opts": [
+             'Shared danger',
+             'Dramatic, singular events',
+             'The accumulated effect of ordinary, repeated presence',
+             'Material exchange alone',
+         ],
+         "correct": 2,
+         "expl": 'A disarmingly simple account of how attachment forms.'},
+        {"q": 'How long is this poem?',
+         "opts": [
+             'A two-line couplet',
+             'A prose passage',
+             'A ten-verse narrative',
+             'A single four-line stanza',
+         ],
+         "correct": 3,
+         "expl": "Consistent with this chapter's typically terse verse form."},
+    ],
+    marginalia=[
+        ("Not favors, just presence", [
+            "no morsel, no rubbing-down explains it —",
+            "just seeing each other, often"
+        ]),
+        ("An elephant pining for a dog", [
+            "an unusual pair, a genuine bond —",
+            "grief when the smaller friend goes missing"
+        ]),
+        ("A quiet poem among louder ones", [
+            "no battle, no injustice, no sacrifice —",
+            "just an ordinary attachment, examined gently"
+        ]),
+        ("Frequency as its own kind of care", [
+            "not grand gestures, just showing up —",
+            "the verse's whole theory of friendship"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja27/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        "<a href=\"ja-26.html\">Ja 26 &mdash; The Elephant Named "
+        "Ladyface</a> &mdash; the poem immediately before this one.",
+        "<a href=\"ja-28.html\">Ja 28 &mdash; The Ox Named "
+        "Nandivisāla</a> &mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 28 — Nandivisāla (The Ox Named Nandivisāla)
+# --------------------------------------------------------------------------- #
+page(
+    28, "Nandivis&amacr;la", "The Ox Named Nandivisāla",
+    meta_title="Ja 28 — The Ox Named Nandivisāla | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 28 — a famous ox's proof that kind speech accomplishes "
+        "what harsh speech cannot, and the origin story for a "
+        "monastic rule outside this site's scope. From Ru-Yi "
+        "Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Three (Kuruṅgavagga) &middot; Poem 8 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "The ox Nandivisāla, reflecting on why he pulled "
+                    "the load"),
+        ("Form", "One stanza (six lines)"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse with a well-known story behind "
+                       "it"),
+    ],
+    why=(
+        "This is among the most well-known of this collection's "
+        "animal tales, and Sujato's comment adds an unusual detail: "
+        "it is also the origin story for a specific rule in the "
+        "Buddhist monastic code (Vinaya) &mdash; a rare direct link "
+        "between a Jātaka verse and monastic legislation, though that "
+        "Vinaya text itself falls outside this site's own selections."),
+    guide=[
+        ("A bet won by kindness, not force", [
+            "The verse gives the ox's own reflection: &lsquo;one "
+            "should only speak sweetly, never not sweetly. For the "
+            "one speaking sweetly, a large load was pulled, earning "
+            "him money, and he was satisfied with that.&rsquo; Per "
+            "Sujato's comment, a brahmin wagers that his ox, "
+            "Nandivisāla, can pull a hundred carts. When yelled at, "
+            "the ox refuses to pull; but when spoken to kindly, he "
+            "pulls the load and wins the bet."]),
+        ("An unusual link to a specific monastic rule", [
+            "Sujato's comment adds that this tale is &lsquo;the "
+            "origin story&rsquo; for a specific rule in the Buddhist "
+            "monastic code, where &lsquo;the verse has some different "
+            "readings.&rsquo; This site does not currently include "
+            "the Vinaya (monastic legal code) among its own text "
+            "selections, so this reading guide notes the connection "
+            "without a linked page, but the detail illustrates how "
+            "widely a single memorable verse could circulate across "
+            "different parts of the early canon."]),
+    ],
+    terms=[
+        ("manuññameva bhāseyya",
+         "&ldquo;one should only speak sweetly&rdquo; &mdash; the "
+         "ox's own opening principle."),
+        ("garuṁ bhāraṁ udaddhari",
+         "&ldquo;a large load was pulled&rdquo; &mdash; the direct "
+         "result of being spoken to kindly."),
+        ("Nandivisāla",
+         "the ox's own name, giving this poem its traditional title "
+         "&mdash; the subject of a famous wager over whether he could "
+         "pull a hundred carts."),
+        ("Nandivisālajātaka",
+         "the traditional title of this tale, &lsquo;The Ox Named "
+         "Nandivisāla&rsquo;."),
+        ("Bu Pc 2",
+         "a specific rule in the Buddhist monastic code (Vinaya), "
+         "for which Sujato's comment identifies this tale as the "
+         "origin story &mdash; not part of this site's own current "
+         "selections."),
+    ],
+    text_intro=(
+        "The text in full: a single six-line verse, also serving, "
+        "per Sujato's comment, as the origin story for a specific "
+        "monastic rule outside this site's own selections. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja28:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What wager does the brahmin make, per Sujato's comment?",
+         "opts": [
+             'That his ox is the strongest in the region',
+             'No specific wager is described',
+             'That his ox cannot be trained',
+             'That his ox, Nandivisāla, can pull a hundred carts',
+         ],
+         "correct": 3,
+         "expl": 'Setting up the test of kind versus harsh speech.'},
+        {"q": 'What happens when the ox is yelled at?',
+         "opts": [
+             'He refuses to pull',
+             'He runs away',
+             'No reaction is described',
+             'He pulls even harder',
+         ],
+         "correct": 0,
+         "expl": 'Contrasted directly with his response to kind speech.'},
+        {"q": 'What happens when the ox is spoken to kindly?',
+         "opts": [
+             'No change occurs',
+             'He pulls the load and wins the bet',
+             'He becomes agitated',
+             'He refuses regardless',
+         ],
+         "correct": 1,
+         "expl": "Proving the verse's own principle about the power of sweet speech."},
+        {"q": "What unusual detail does Sujato's comment add about this tale?",
+         "opts": [
+             'That it exists in no other form anywhere',
+             'That it has no further significance',
+             'That it is the origin story for a specific rule in the Buddhist monastic code (Vinaya)',
+             'That it was later disproven',
+         ],
+         "correct": 2,
+         "expl": 'A rare direct link between a Jātaka verse and monastic legislation.'},
+        {"q": "Is the Vinaya text this tale connects to included among this site's own selections?",
+         "opts": [
+             'Only partially translated',
+             'The question does not apply',
+             'Yes, fully translated and linked',
+             'No — this site does not currently include the Vinaya among its own text selections',
+         ],
+         "correct": 3,
+         "expl": 'This reading guide notes the connection without a linked page.'},
+        {"q": "What principle does the ox's own reflection state?",
+         "opts": [
+             'That one should only speak sweetly, never harshly',
+             'That wagers should be avoided entirely',
+             'That oxen cannot be reasoned with',
+             'That strength alone determines success',
+         ],
+         "correct": 0,
+         "expl": 'Proven directly by the outcome of the wager.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Frequent',
+             'The Ox Named Nandivisāla (Nandivisālajātaka)',
+             'The Ox Named Black',
+             'The Pig Named Munika',
+         ],
+         "correct": 1,
+         "expl": 'The twenty-eighth poem overall, and the eighth of the Kuruṅgavagga.'},
+        {"q": 'How many lines make up this verse?',
+         "opts": [
+             'Eight lines',
+             'Four lines',
+             'Six lines',
+             'Two lines',
+         ],
+         "correct": 2,
+         "expl": 'Slightly longer than the four-line form most common in this chapter.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The eighth poem of the Kuruṅgavagga, following Ja 21 through Ja 27',
+         ],
+         "correct": 3,
+         "expl": 'Part of the same ten-poem Kuruṅgavagga.'},
+        {"q": 'What does the outcome of the wager suggest about kindness as a practical strategy, not just an ethical ideal?',
+         "opts": [
+             'That kindness can accomplish tangible results that harshness cannot, even in a purely practical wager',
+             'That kindness only matters in spiritual contexts',
+             "That the wager's outcome was accidental",
+             'That kindness has no practical effect',
+         ],
+         "correct": 0,
+         "expl": "The ox's own satisfaction and the money earned both follow directly from being spoken to sweetly."},
+    ],
+    marginalia=[
+        ("A hundred carts, won by kindness", [
+            "yelled at, he refused entirely —",
+            "spoken to sweetly, he pulled it all"
+        ]),
+        ("A verse that traveled into monastic law", [
+            "the origin story for a Vinaya rule —",
+            "outside this site, but noted here"
+        ]),
+        ("Practical proof, not just principle", [
+            "money earned, a bet won —",
+            "kindness tested and shown to work"
+        ]),
+        ("An ox's own name remembered", [
+            "Nandivisāla, still the tale's title —",
+            "one of this collection's most famous animals"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja28/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        "<a href=\"ja-27.html\">Ja 27 &mdash; Frequent</a> &mdash; "
+        "the poem immediately before this one.",
+        "<a href=\"ja-29.html\">Ja 29 &mdash; The Ox Named Black</a> "
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 29 — Kaṇha (The Ox Named Black)
+# --------------------------------------------------------------------------- #
+page(
+    29, "Ka&#7751;ha", "The Ox Named Black",
+    meta_title="Ja 29 — The Ox Named Black | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 29 — a reliable ox's steady labor for the elderly "
+        "woman who raised him, whatever the load or terrain. From "
+        "Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Three (Kuruṅgavagga) &middot; Poem 9 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse of steady reliability"),
+    ],
+    why=(
+        "Following the previous poem's proof that kindness "
+        "accomplishes what harshness cannot, this poem offers a "
+        "complementary picture: an ox whose sheer reliability, "
+        "whatever the difficulty of the task, becomes itself an act "
+        "of devotion to the one who raised him."),
+    guide=[
+        ("An ox who always pulls through, regardless of difficulty", [
+            "The verse states its point plainly: &lsquo;no matter how "
+            "heavy the load, or how deep the passage, when they "
+            "harness Black, he pulls that load.&rsquo; Per Sujato's "
+            "comment, an ox raised by an elderly woman earns money "
+            "for his &lsquo;mother&rsquo; by pulling a heavy load "
+            "across a deep river &mdash; a specific, difficult "
+            "instance of the general reliability the verse "
+            "describes."]),
+        ("A quiet act of devotion, expressed through labor", [
+            "The verse gives no dramatic speech or explicit statement "
+            "of feeling; the ox's devotion to the woman who raised him "
+            "is expressed entirely through consistent, effortful work, "
+            "regardless of how heavy the load or how difficult the "
+            "terrain."]),
+    ],
+    terms=[
+        ("garu dhuraṁ",
+         "&ldquo;heavy the load&rdquo; &mdash; the first of two "
+         "difficulties the verse names."),
+        ("gambhīravattanī",
+         "&ldquo;deep the passage&rdquo; &mdash; the second "
+         "difficulty, referring to a deep river crossing per Sujato's "
+         "comment."),
+        ("kaṇha",
+         "&ldquo;Black&rdquo; &mdash; the ox's own name, giving this "
+         "poem its traditional title."),
+        ("Kaṇhajātaka",
+         "the traditional title of this tale, &lsquo;The Ox Named "
+         "Black&rsquo;."),
+        ("&ldquo;mother&rdquo;",
+         "per Sujato's comment, the elderly woman who raised the ox "
+         "and for whom he earns money through his labor."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja29:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the verse say about the ox Black's reliability?",
+         "opts": [
+             'That no matter how heavy the load or deep the passage, he pulls it',
+             'That he refuses difficult tasks',
+             'No specific claim about reliability is made',
+             'That he only pulls light loads',
+         ],
+         "correct": 0,
+         "expl": 'Consistent effort regardless of the difficulty of the task.'},
+        {"q": "Who raised the ox, per Sujato's comment?",
+         "opts": [
+             'A brahmin',
+             'An elderly woman',
+             'A king',
+             'The comment does not specify',
+         ],
+         "correct": 1,
+         "expl": "Referred to in the comment as his 'mother', for whom he earns money through his labor."},
+        {"q": 'What specific difficult task does the commentarial story describe?',
+         "opts": [
+             'No specific task is described',
+             'Plowing a field',
+             'Pulling a heavy load across a deep river',
+             'Carrying goods up a mountain',
+         ],
+         "correct": 2,
+         "expl": 'A concrete instance of the general reliability the verse describes.'},
+        {"q": "How is the ox's devotion to the woman expressed in this verse?",
+         "opts": [
+             'Through a formal ceremony',
+             'The verse does not address devotion at all',
+             'Through explicit spoken declarations',
+             'Entirely through consistent, effortful labor, without dramatic speech',
+         ],
+         "correct": 3,
+         "expl": 'A quiet act expressed through work rather than words.'},
+        {"q": 'How does this poem relate to the previous poem, Ja 28?',
+         "opts": [
+             "It offers a complementary picture — reliability as its own form of devotion, following Ja 28's proof of kindness's power",
+             'It has no relationship to Ja 28',
+             'It retells the exact same story',
+             "It contradicts Ja 28's message entirely",
+         ],
+         "correct": 0,
+         "expl": 'Both poems concern draft animals whose behavior carries a moral about how effort and relationship intersect.'},
+        {"q": 'What two specific difficulties does the verse name?',
+         "opts": [
+             'Heat and cold',
+             'A heavy load and a deep passage (river crossing)',
+             'Hunger and thirst',
+             'Distance and time',
+         ],
+         "correct": 1,
+         "expl": 'Both overcome consistently by the ox Black.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Frequent',
+             'The Ox Named Nandivisāla',
+             'The Ox Named Black (Kaṇhajātaka)',
+             'The Pig Named Munika',
+         ],
+         "correct": 2,
+         "expl": 'The twenty-ninth poem overall, and the ninth of the Kuruṅgavagga.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The ninth poem of the Kuruṅgavagga, following Ja 21 through Ja 28',
+         ],
+         "correct": 3,
+         "expl": 'The second-to-last poem of this ten-poem chapter.'},
+        {"q": "What does the ox earn through his labor, per Sujato's comment?",
+         "opts": [
+             'Money for the elderly woman who raised him',
+             'His own freedom',
+             'A better living situation for himself',
+             'Nothing — the labor is unrewarded',
+         ],
+         "correct": 0,
+         "expl": 'His labor directly benefits the one who raised him.'},
+        {"q": 'What overall quality does this verse celebrate?',
+         "opts": [
+             'Cleverness',
+             'Steady, unconditional reliability regardless of difficulty',
+             'Physical strength alone, without regard to purpose',
+             'Cunning and trickery',
+         ],
+         "correct": 1,
+         "expl": "The ox's consistent performance, whatever the challenge, is the verse's whole point."},
+    ],
+    marginalia=[
+        ("Whatever the load, whatever the depth", [
+            "no exceptions named, no conditions attached —",
+            "'when they harness Black, he pulls that load'"
+        ]),
+        ("Devotion, expressed through work alone", [
+            "no speech, no declaration —",
+            "just labor, consistently given"
+        ]),
+        ("A deep river, crossed for her sake", [
+            "the specific difficulty behind the general claim —",
+            "earning money for the one who raised him"
+        ]),
+        ("A companion piece to the previous poem", [
+            "kindness proved its power in Ja 28 —",
+            "here, reliability proves its own"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja29/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        "<a href=\"ja-28.html\">Ja 28 &mdash; The Ox Named "
+        "Nandivisāla</a> &mdash; the poem immediately before this "
+        "one.",
+        "<a href=\"ja-30.html\">Ja 30 &mdash; The Pig Named "
+        "Munika</a> &mdash; the next poem, closing this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 30 — Munika (The Pig Named Munika)
+# --------------------------------------------------------------------------- #
+page(
+    30, "Munika", "The Pig Named Munika",
+    meta_title="Ja 30 — The Pig Named Munika | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 30, closing the Kuruṅgavagga — a hardworking ox's "
+        "envy of a well-fed pig, and his brother's warning about what "
+        "that rich diet actually means. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Three (Kuruṅgavagga) &middot; Poem 10 of 10 (closing the chapter)",
+    glance=[
+        ("Setting", "One ox addressing another, comparing their "
+                    "situation to a nearby pig's"),
+        ("Speaker", "An ox, warning his brother against envy"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse with a dark twist beneath its "
+                       "surface"),
+    ],
+    why=(
+        "This poem closes the Kuruṅgavagga with a sharp reversal: "
+        "what looks like an enviable, easy life &mdash; rich food, "
+        "no hard labor &mdash; turns out, once its real cause is "
+        "understood, to be nothing worth envying at all."),
+    guide=[
+        ("Contentment urged, with a hidden reason behind it", [
+            "The verse gives one ox's advice to another: &lsquo;envy "
+            "not what is Munika's, for he eats the food of the "
+            "terminally ill. Don't worry, just eat your chaff, this "
+            "is a mark of long life.&rsquo; On its surface, this "
+            "reads as simple advice toward contentment &mdash; but the "
+            "verse's own reasoning already hints that something is "
+            "not quite as it first appears."]),
+        ("A dark reason for the pig's rich diet, per the commentarial story", [
+            "Per Sujato's comment, a hard-working ox is jealous of the "
+            "rice scoffed by the pig Munika, but his brother tells him "
+            "not to worry, since the pig is being fattened for a "
+            "feast. The pig's rich food is not a reward or good "
+            "fortune at all &mdash; it is preparation for slaughter. "
+            "The ox's own plain chaff, by contrast, is genuinely "
+            "&lsquo;a mark of long life&rsquo;: unremarkable, but "
+            "safe."]),
+        ("Closing the Kuruṅgavagga", [
+            "This poem closes the Kuruṅgavagga, the third of eight "
+            "chapters this site's selection draws from within the "
+            "Ekakanipāta. The source text's own untranslated summary "
+            "verse (uddāna) immediately follows, naming all ten poems "
+            "of this chapter in sequence &mdash; not presented here "
+            "as quoted text, since it carries no separate translation, "
+            "but noted for completeness, as at the close of the "
+            "previous two chapters."]),
+    ],
+    terms=[
+        ("mā munikassa pihayi",
+         "&ldquo;envy not what is Munika's&rdquo; &mdash; the "
+         "verse's opening warning against envy."),
+        ("āturannāni bhuñjati",
+         "&ldquo;he eats the food of the terminally ill&rdquo; "
+         "&mdash; the verse's own hint that the pig's rich diet has "
+         "a hidden, unwelcome cause."),
+        ("dīghāyulakkhaṇaṁ",
+         "&ldquo;a mark of long life&rdquo; &mdash; the verse's own "
+         "reframing of the plain chaff the ox actually eats."),
+        ("Munika",
+         "the pig's own name, giving this poem its traditional title "
+         "&mdash; secretly being fattened for slaughter, not enjoying "
+         "genuine good fortune."),
+        ("Munikajātaka",
+         "the traditional title of this tale, closing the "
+         "Kuruṅgavagga."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. The chapter's own "
+        "untranslated closing summary verse (uddāna), which follows "
+        "immediately in the source text, is not quoted here since it "
+        "carries no English translation, but its content &mdash; the "
+        "ten poem titles of this chapter in sequence &mdash; matches "
+        "this reading guide's own further reading list below. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja30:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What advice does the speaking ox give?',
+         "opts": [
+             'To demand better food',
+             'Not to envy the pig Munika, and to be content eating chaff',
+             'To flee the farm',
+             'To fight the pig for its food',
+         ],
+         "correct": 1,
+         "expl": 'Advice toward contentment, though the reasoning behind it holds a twist.'},
+        {"q": 'What does the verse reveal about why the pig eats rich food?',
+         "opts": [
+             'No explanation is given',
+             'The pig simply prefers rich food',
+             "The pig eats 'the food of the terminally ill' — a hint that something is not as it first appears",
+             'The pig stole the food',
+         ],
+         "correct": 2,
+         "expl": 'Setting up the darker reveal confirmed by the commentarial story.'},
+        {"q": "What does the commentarial story reveal is the real reason for the pig's rich diet?",
+         "opts": [
+             'The pig won a competition',
+             'No further explanation is given in the comment',
+             'The pig is a family pet',
+             'The pig is being fattened for a feast — the rich food is preparation for slaughter, not good fortune',
+         ],
+         "correct": 3,
+         "expl": 'Reframing what looked like an enviable situation as something genuinely undesirable.'},
+        {"q": "How does the verse reframe the ox's own plain diet of chaff?",
+         "opts": [
+             "As 'a mark of long life' — unremarkable, but safe",
+             'As a temporary situation soon to change',
+             'The verse does not reframe it',
+             'As a punishment',
+         ],
+         "correct": 0,
+         "expl": "The ox's own hard, unglamorous labor is actually the safer position."},
+        {"q": 'What chapter does this poem close?',
+         "opts": [
+             'The Sīlavagga',
+             "The Kuruṅgavagga, the third of eight chapters this site's selection draws from",
+             'The final chapter of the whole Jātaka',
+             'It does not close a chapter',
+         ],
+         "correct": 1,
+         "expl": "The source text's own untranslated summary verse (uddāna) follows immediately after."},
+        {"q": "Is the chapter's closing summary verse (uddāna) presented as quoted text in this reading guide?",
+         "opts": [
+             'It is presented as spoken by the pig',
+             'Yes, quoted in full',
+             'No — it carries no separate English translation, so it is only noted for completeness',
+             'It does not exist for this chapter',
+         ],
+         "correct": 2,
+         "expl": 'Consistent with the same practice at the close of the previous two chapters.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Ox Named Nandivisāla',
+             'Frequent',
+             'The Ox Named Black',
+             'The Pig Named Munika (Munikajātaka)',
+         ],
+         "correct": 3,
+         "expl": 'The thirtieth poem overall, and the tenth and final poem of the Kuruṅgavagga.'},
+        {"q": "What sharp reversal does this poem's closing structure demonstrate?",
+         "opts": [
+             "What looks enviable (the pig's rich food) turns out, once understood, to be far worse than the plain but safe alternative",
+             "The ox's own situation turns out to be worse",
+             'Both animals end up in the same situation',
+             'No reversal occurs',
+         ],
+         "correct": 0,
+         "expl": "The poem's core irony, delivered in just four lines."},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The first poem of the Kuruṅgavagga',
+             'The tenth and final poem of the Kuruṅgavagga, closing this chapter',
+             'It stands outside any chapter',
+             'The first poem of a later chapter',
+         ],
+         "correct": 1,
+         "expl": "Its closing position is directly confirmed by the chapter's own summary verse following immediately after."},
+        {"q": "How many chapters of the Ekakanipāta does this site's selection now cover, after this poem?",
+         "opts": [
+             'Five',
+             'One',
+             'Three — the Apaṇṇakavagga, Sīlavagga, and now the Kuruṅgavagga',
+             'All eight',
+         ],
+         "correct": 2,
+         "expl": "Thirty poems complete, out of this site's 82-poem selection."},
+    ],
+    marginalia=[
+        ("Rich food, dark purpose", [
+            "not fortune, but fattening for the feast —",
+            "the reveal the verse only half-conceals"
+        ]),
+        ("Chaff reframed as safety", [
+            "plain, unremarkable, and long-lived for it —",
+            "the ox's own diet, worth more than it looks"
+        ]),
+        ("A warning against envy, well-earned", [
+            "don't wish for what you don't understand —",
+            "the pig's apparent luck is nothing of the kind"
+        ]),
+        ("Thirty poems, three chapters closed", [
+            "the Kuruṅgavagga's own summary follows —",
+            "not quoted, since it has no translation"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja30/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        "<a href=\"ja-29.html\">Ja 29 &mdash; The Ox Named Black</a> "
+        "&mdash; the poem immediately before this one.",
+        '<a href="./">Jataka</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
