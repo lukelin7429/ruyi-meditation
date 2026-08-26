@@ -55166,3 +55166,858 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thag 17.1 — Phussa
+# --------------------------------------------------------------------------- #
+page(
+    17, 1, "Phussa", "Phussa",
+    meta_title="Thag 17.1 — Phussa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Phussa's verse, opening the Book of the Thirties &mdash; a "
+        "detailed prophecy of monastic decline, complete with an "
+        "embedded Jātaka story of a wounded six-tusked elephant, "
+        "echoing this collection's own closing poem of the book "
+        "before it. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Thirties &middot; Chapter One &middot; Poem 1 of 3",
+    glance=[
+        ("Setting", "An unnamed seer of the Paṇḍara clan asks Phussa "
+                    "what the future holds for the monastic community"),
+        ("Speaker", "The seer asks in verses 1&ndash;2; Phussa answers "
+                    "for the remainder"),
+        ("Form", "Thirty-two verses, mostly prophecy, with an embedded "
+                 "Jātaka story"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "plain language, but historically dense"),
+    ],
+    why=(
+        "This poem opens the Book of the Thirties on almost exactly "
+        "the same note that closed the Book of the Twenties: a "
+        "detailed forecast of monastic decline. Where this site's own "
+        "Thag 16.10 spoke in general terms of eroding discipline, "
+        "Phussa's prophecy is startlingly specific &mdash; disputes "
+        "over robe color, factions forming, and (per Sujato's own "
+        "comment) probable indirect references to the historical "
+        "Second Buddhist Council, where the community first divided "
+        "over the handling of money by monastics."),
+    guide=[
+        ("A question about the future, asked at the poem's start", [
+            "An unnamed seer of the Paṇḍara clan puts a single "
+            "question to Phussa: in future times, what desire, "
+            "motivation, and behavior will people have? Everything "
+            "from verse three onward is Phussa's extended answer."]),
+        ("A specific, dispiriting forecast", [
+            "Phussa predicts anger, hostility, and jealousy (4); "
+            "shallow understanding mistaken for depth (5); the "
+            "unlearned becoming powerful in running Saṅgha affairs "
+            "while the conscientious grow weak (7&ndash;8); monastics "
+            "accepting money, land, livestock, and servants (9); and "
+            "fools who find fault in others while unsteady in their "
+            "own ethics (10)."]),
+        ("A historical dispute over robe color, per Sujato's comment", [
+            "Verses eleven through eighteen describe monastics "
+            "abandoning the ocher robe for robes of blue or white, "
+            "wanting to look like ascetics of other religions rather "
+            "than wear the deep-dyed banner of the perfected ones. "
+            "Sujato's own comment identifies this as likely reflecting "
+            "real historical tensions &mdash; the Mahīśāsaka school is "
+            "recorded elsewhere as having worn blue robes, and two "
+            "specific verses (7.4, 9.2) are flagged as probable "
+            "indirect references to the Second Buddhist Council, whose "
+            "central dispute concerned monastics accepting money."]),
+        ("An embedded Jātaka story about a wounded elephant", [
+            "Verses nineteen through twenty-two shift abruptly to tell "
+            "of a six-tusked elephant, struck by a hunter's arrow, who "
+            "spontaneously speaks two verses about who is and isn't "
+            "worthy of the ocher robe &mdash; only those free of "
+            "stains, possessing self-control and truth, deserve to "
+            "wear it. Sujato's comment identifies this as the story "
+            "told at Ja 514, with the same two verses also found at "
+            "Dhp 9&ndash;10; this reading guide does not currently "
+            "have that Jātaka's fuller narrative among its selections, "
+            "so only the two verses embedded here are given."]),
+        ("Closing on exhortation rather than despair", [
+            "Like this site's own Thag 16.10, this poem does not end "
+            "on its bleak forecast. Its final verses (30&ndash;32) "
+            "turn to direct instruction &mdash; be easy to admonish, "
+            "courteous, and respectful; have hearts of love and "
+            "compassion; be energetic and vigorous; see negligence as "
+            "fearful and diligence as a sanctuary &mdash; before the "
+            "poem closes with 'develop the eightfold path, realizing "
+            "the state free of death.'"]),
+    ],
+    terms=[
+        ("isi paṇḍarasagotto",
+         "&ldquo;the seer of the Paṇḍara clan&rdquo; &mdash; the "
+         "unnamed figure who asks Phussa the poem's opening question."),
+        ("kāsāvaṁ arahati",
+         "&ldquo;worthy of the ocher robe&rdquo; &mdash; the poem's "
+         "recurring test for genuine renunciation, repeated across "
+         "both Phussa's own words and the embedded elephant's verses."),
+        ("chaddanto",
+         "&ldquo;six-tusked&rdquo; &mdash; the mystical elephant of "
+         "the embedded Jātaka story, wounded by a hunter's arrow."),
+        ("milakkhurajanaṁ rattaṁ",
+         "&ldquo;dyed a vermilion color&rdquo; &mdash; the ocher robe "
+         "that future monastics will come to disparage in favor of "
+         "other colors."),
+        ("phusantā amataṁ padaṁ",
+         "&ldquo;realizing the state free of death&rdquo; &mdash; the "
+         "poem's closing phrase, turning from prophecy to instruction."),
+    ],
+    text_intro=(
+        "The text in full: thirty-two verses, an opening question "
+        "followed by Phussa's extended answer with an embedded Jātaka "
+        "story. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag17.1:1.1-1.4"),
+        ("p", "&sect;2", "thag17.1:2.1-2.4"),
+        ("p", "&sect;3", "thag17.1:3.1-3.4"),
+        ("p", "&sect;4", "thag17.1:4.1-4.4"),
+        ("p", "&sect;5", "thag17.1:5.1-5.4"),
+        ("p", "&sect;6", "thag17.1:6.1-6.4"),
+        ("p", "&sect;7", "thag17.1:7.1-7.4"),
+        ("p", "&sect;8", "thag17.1:8.1-8.4"),
+        ("p", "&sect;9", "thag17.1:9.1-9.4"),
+        ("p", "&sect;10", "thag17.1:10.1-10.4"),
+        ("p", "&sect;11", "thag17.1:11.1-11.4"),
+        ("p", "&sect;12", "thag17.1:12.1-12.4"),
+        ("p", "&sect;13", "thag17.1:13.1-13.4"),
+        ("p", "&sect;14", "thag17.1:14.1-14.4"),
+        ("p", "&sect;15", "thag17.1:15.1-15.4"),
+        ("p", "&sect;16", "thag17.1:16.1-16.4"),
+        ("p", "&sect;17", "thag17.1:17.1-17.4"),
+        ("p", "&sect;18", "thag17.1:18.1-18.4"),
+        ("p", "&sect;19", "thag17.1:19.1-19.4"),
+        ("p", "&sect;20", "thag17.1:20.1-20.4"),
+        ("p", "&sect;21", "thag17.1:21.1-21.4"),
+        ("p", "&sect;22", "thag17.1:22.1-22.4"),
+        ("p", "&sect;23", "thag17.1:23.1-23.4"),
+        ("p", "&sect;24", "thag17.1:24.1-24.4"),
+        ("p", "&sect;25", "thag17.1:25.1-25.4"),
+        ("p", "&sect;26", "thag17.1:26.1-26.4"),
+        ("p", "&sect;27", "thag17.1:27.1-27.4"),
+        ("p", "&sect;28", "thag17.1:28.1-28.4"),
+        ("p", "&sect;29", "thag17.1:29.1-29.4"),
+        ("p", "&sect;30", "thag17.1:30.1-30.4"),
+        ("p", "&sect;31", "thag17.1:31.1-31.4"),
+        ("p", "&sect;32", "thag17.1:32.1-32.4"),
+    ],
+    quiz=[
+        {"q": 'What question opens the poem?',
+         "opts": [
+             'A question about the nature of nibbāna',
+             'What desire, motivation, and behavior people will have in future times',
+             'A question about a specific miracle',
+             'A question about the correct almsround route',
+         ],
+         "correct": 0,
+         "expl": "Asked by an unnamed seer of the Paṇḍara clan; everything from verse 3 onward is Phussa's answer."},
+        {"q": 'What does Phussa predict will happen to the unlearned versus the conscientious in Saṅgha affairs?',
+         "opts": [
+             'Both will fare equally',
+             'The unlearned will become powerful in running Saṅgha proceedings while the conscientious grow weak',
+             'The conscientious will always prevail',
+             'Saṅgha affairs will cease entirely',
+         ],
+         "correct": 1,
+         "expl": 'One of several specific forecasts about eroding monastic governance.'},
+        {"q": "What does Sujato's comment identify verses 7.4 and 9.2 as probable references to?",
+         "opts": [
+             'No historical event is suggested',
+             'A later Chinese council',
+             'The Second Buddhist Council, whose central dispute concerned monastics accepting money',
+             'A modern historical event',
+         ],
+         "correct": 2,
+         "expl": "One of this poem's most historically concrete details."},
+        {"q": "What historical detail does Sujato's comment note about the Mahīśāsaka school?",
+         "opts": [
+             'They rejected robes entirely',
+             'No specific school is mentioned',
+             'They wore yellow robes',
+             'They are recorded elsewhere as having worn blue robes',
+         ],
+         "correct": 3,
+         "expl": "Connecting the poem's robe-color dispute to a real historical schism."},
+        {"q": 'What story is embedded in verses nineteen through twenty-two?',
+         "opts": [
+             "A six-tusked elephant, wounded by a hunter's arrow, spontaneously speaking verses about the ocher robe",
+             'A story about a merchant',
+             'No story is embedded',
+             'A story about a king',
+         ],
+         "correct": 0,
+         "expl": "Identified by Sujato's comment as the story told at Ja 514, with the same verses also found at Dhp 9-10."},
+        {"q": "According to the embedded elephant's verses, who is worthy of the ocher robe?",
+         "opts": [
+             'Anyone who wears it',
+             'Only those free of stains, possessing self-control and truth',
+             'Only those of noble birth',
+             'No one is worthy of it',
+         ],
+         "correct": 1,
+         "expl": 'A direct test for genuine renunciation, contrasted with mere outward appearance.'},
+        {"q": 'What test does the poem apply to a fool with no ethics, regarding robe color?',
+         "opts": [
+             'They are exempt from wearing any robe',
+             'They are worthy of the ocher robe regardless',
+             'They are worthy of a white robe — what use is an ocher robe for them?',
+             'The poem makes no such comparison',
+         ],
+         "correct": 2,
+         "expl": 'A pointed dismissal of outward appearance without inward substance.'},
+        {"q": 'Does the poem end in despair or in exhortation?',
+         "opts": [
+             'It simply repeats the opening question',
+             'It ends mid-sentence',
+             'In despair, with no path forward offered',
+             'In exhortation — be courteous, loving, energetic, and develop the eightfold path',
+         ],
+         "correct": 3,
+         "expl": "Its final verses turn from bleak forecast to direct instruction, closing on 'realizing the state free of death'."},
+        {"q": "What does this poem's overall theme echo from the previous book?",
+         "opts": [
+             "This site's own Thag 16.10, which also forecasts a decline in monastic discipline",
+             'A dispute about meditation technique',
+             "A story about a king's conversion",
+             'Nothing — it is unrelated',
+         ],
+         "correct": 0,
+         "expl": 'Both poems close and open their respective books on the theme of Saṅgha decline.'},
+        {"q": "Who asks Phussa the poem's opening question?",
+         "opts": [
+             'The Buddha himself',
+             'An unnamed seer of the Paṇḍara clan',
+             'A group of householders',
+             'King Pasenadi',
+         ],
+         "correct": 1,
+         "expl": "Their own name is never given — only their clan, per Sujato's comment probably indicating white-robed ascetics."},
+    ],
+    marginalia=[
+        ("Opening the next book", [
+            "one question about the future —",
+            "thirty verses of specific, dispiriting answer"
+        ]),
+        ("A robe worth wearing", [
+            "ocher for the free, blue and white for the rest —",
+            "even a wounded elephant knows the test"
+        ]),
+        ("History behind the verse", [
+            "money, councils, schools in dispute —",
+            "Sujato's comment names the historical root"
+        ]),
+        ("Not despair, but instruction", [
+            "diligence as sanctuary, negligence as fear —",
+            "the eightfold path, closing the forecast"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag17.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-16.10.html">Thag 16.10 &mdash; Pārāsariya '
+        "(3rd)</a> &mdash; the closing poem of the previous book, "
+        "sharing this poem's concern with Saṅgha decline.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 17.2 — Sāriputta
+# --------------------------------------------------------------------------- #
+page(
+    17, 2, "S&amacr;riputta", "S&amacr;riputta",
+    meta_title="Thag 17.2 — Sāriputta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sāriputta's verse &mdash; the Buddha's chief disciple, "
+        "foremost in wisdom, already named in this site's own AN "
+        "1.188&ndash;197, here addressed by his birth name Upatissa "
+        "and praised as the elder who keeps the wheel of the Dhamma "
+        "rolling. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Thirties &middot; Chapter One &middot; Poem 2 of 3",
+    glance=[
+        ("Setting", "A composite of exchanges and reflections, not a "
+                    "single continuous scene"),
+        ("Speaker", "Multiple voices in dialogue, with Sāriputta's own "
+                    "first-person verses interspersed and predominant"),
+        ("Form", "Thirty-seven verses, alternating between dialogue, "
+                 "reflection, and third-person praise"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "plain language, but a shifting cast of voices"),
+    ],
+    why=(
+        "This site's own AN 1.188&ndash;197 already names Sāriputta "
+        "&lsquo;foremost in great wisdom&rsquo;, one of the two chief "
+        "disciples always named as a pair with Mahāmoggallāna. This "
+        "poem confirms the same reputation from the inside: addressed "
+        "once by his birth name Upatissa (verse 18) as &lsquo;the "
+        "senior monk foremost in wisdom&rsquo;, and later praised as "
+        "&lsquo;the senior monk who keeps the wheel rolling&rsquo; "
+        "(verse 34) &mdash; a direct echo of this site's own MN 141, "
+        "The Analysis of the Truths, the discourse in which Sāriputta "
+        "himself elaborates the Buddha's own first teaching."),
+    guide=[
+        ("A composite poem, not a single scene", [
+            "Unlike most poems in this collection, this one shifts "
+            "voice and topic verse by verse rather than following one "
+            "continuous narrative: general reflections on what makes "
+            "a mendicant (1&ndash;5), a question-and-answer exchange "
+            "(6&ndash;10), advice on choosing companions "
+            "(11&ndash;14), Sāriputta's own testimony (15&ndash;23), "
+            "further dialogue and reflection (24&ndash;33), and a "
+            "closing declaration (36&ndash;37)."]),
+        ("Named by his birth name, and by his reputation", [
+            "Verse eighteen addresses him directly: &lsquo;his only "
+            "shelter is the foot of a tree; shaven, wrapped in his "
+            "outer robe, the senior monk foremost in wisdom, Upatissa "
+            "himself practices absorption.&rsquo; Upatissa was "
+            "Sāriputta's own birth name, from his home village; this "
+            "reading guide's own already-completed AN 1.188&ndash;197 "
+            "names the reputation being invoked here directly."]),
+        ("What he did not seek", [
+            "Verse seventeen makes an unusual, specific renunciation: "
+            "&lsquo;not for knowledge of past lives, nor even for "
+            "clairvoyance; not for psychic powers, or encompassing "
+            "the minds of others; nor for knowing people's passing "
+            "away and being reborn; not for purifying the power of "
+            "clairaudience, did I have any wish.&rsquo; Where this "
+            "site's own Thag 16.9 (Anuruddha) prizes the divine eye "
+            "as his own foremost quality, Sāriputta's verse "
+            "explicitly disclaims interest in exactly that family of "
+            "attainments, in favor of wisdom and freedom alone."]),
+        ("The worker awaiting wages, again", [
+            "Verses twenty-two and twenty-three give this collection's "
+            "recurring closing formula once more &mdash; &lsquo;I "
+            "don't long for death; I don't long for life... I await "
+            "my time, like a worker waiting for their wages&rsquo; "
+            "&mdash; already tracked across this site's Thag 11.1, "
+            "14.1, 15.1, and 17.2 itself now marking its most "
+            "frequent full recurrence yet."]),
+        ("A comparison to a rocky mountain, and to the wheel itself", [
+            "Verse twenty praises stillness with a mountain simile "
+            "&mdash; &lsquo;as a rocky mountain is unwavering and well "
+            "grounded, so when delusion ends, a monk, like a "
+            "mountain, doesn't tremble&rsquo; &mdash; while verse "
+            "thirty-four names Sāriputta directly as &lsquo;the "
+            "senior monk who keeps the wheel rolling&rsquo;, a direct "
+            "reference to his role continuing and elaborating the "
+            "Buddha's own teaching, exemplified in this site's own "
+            "MN 141."]),
+        ("A closing declaration shared with other elders", [
+            "The poem's final two verses (36&ndash;37) close with the "
+            "same &lsquo;burden laid down&rsquo; formula heard "
+            "throughout this collection: &lsquo;I've served the "
+            "teacher and fulfilled the Buddha's instructions. The "
+            "heavy burden is laid down, the leash to existence is "
+            "eradicated... Come, I'll be fully quenched &mdash; I am "
+            "everywhere free.&rsquo;"]),
+    ],
+    terms=[
+        ("upatissova jhāyati",
+         "&ldquo;Upatissa himself practices absorption&rdquo; "
+         "&mdash; Sāriputta addressed directly by his birth name."),
+        ("cakkānuvattako thero",
+         "&ldquo;the senior monk who keeps the wheel rolling&rdquo; "
+         "&mdash; praising Sāriputta's role continuing the Buddha's "
+         "own teaching."),
+        ("paññāpāramitaṁ patto",
+         "&ldquo;attained the perfection of wisdom&rdquo; &mdash; "
+         "matching this site's own AN 1.188&ndash;197, naming "
+         "Sāriputta foremost in great wisdom."),
+        ("nibbisaṁ bhatako yathā",
+         "&ldquo;like a worker waiting for their wages&rdquo; "
+         "&mdash; this collection's recurring closing formula, given "
+         "here in full once more."),
+        ("ohito garuko bhāro",
+         "&ldquo;the heavy burden is laid down&rdquo; &mdash; the "
+         "poem's closing declaration of completed practice."),
+    ],
+    text_intro=(
+        "The text in full: thirty-seven verses, shifting between "
+        "dialogue, reflection, and direct address, with a brief "
+        "peyyāla abbreviation at verse 36 (reconstructed in English "
+        "regardless). No separate comment note bears on the verses "
+        "themselves. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag17.2:1.1-1.4"),
+        ("p", "&sect;2", "thag17.2:2.1-2.4"),
+        ("p", "&sect;3", "thag17.2:3.1-3.4"),
+        ("p", "&sect;4", "thag17.2:4.1-4.4"),
+        ("p", "&sect;5", "thag17.2:5.1-5.4"),
+        ("p", "&sect;6", "thag17.2:6.1-6.4"),
+        ("p", "&sect;7", "thag17.2:7.1-7.4"),
+        ("p", "&sect;8", "thag17.2:8.1-8.4"),
+        ("p", "&sect;9", "thag17.2:9.1-9.4"),
+        ("p", "&sect;10", "thag17.2:10.1-10.4"),
+        ("p", "&sect;11", "thag17.2:11.1-11.4"),
+        ("p", "&sect;12", "thag17.2:12.1-12.4"),
+        ("p", "&sect;13", "thag17.2:13.1-13.6"),
+        ("p", "&sect;14", "thag17.2:14.1-14.4"),
+        ("p", "&sect;15", "thag17.2:15.1-15.4"),
+        ("p", "&sect;16", "thag17.2:16.1-16.2"),
+        ("p", "&sect;17", "thag17.2:17.1-17.6"),
+        ("p", "&sect;18", "thag17.2:18.1-18.4"),
+        ("p", "&sect;19", "thag17.2:19.1-19.4"),
+        ("p", "&sect;20", "thag17.2:20.1-20.4"),
+        ("p", "&sect;21", "thag17.2:21.1-21.4"),
+        ("p", "&sect;22", "thag17.2:22.1-22.4"),
+        ("p", "&sect;23", "thag17.2:23.1-23.4"),
+        ("p", "&sect;24", "thag17.2:24.1-24.4"),
+        ("p", "&sect;25", "thag17.2:25.1-25.6"),
+        ("p", "&sect;26", "thag17.2:26.1-26.4"),
+        ("p", "&sect;27", "thag17.2:27.1-27.4"),
+        ("p", "&sect;28", "thag17.2:28.1-28.4"),
+        ("p", "&sect;29", "thag17.2:29.1-29.4"),
+        ("p", "&sect;30", "thag17.2:30.1-30.4"),
+        ("p", "&sect;31", "thag17.2:31.1-31.4"),
+        ("p", "&sect;32", "thag17.2:32.1-32.4"),
+        ("p", "&sect;33", "thag17.2:33.1-33.4"),
+        ("p", "&sect;34", "thag17.2:34.1-34.4"),
+        ("p", "&sect;35", "thag17.2:35.1-35.4"),
+        ("p", "&sect;36", "thag17.2:36.1-36.4"),
+        ("p", "&sect;37", "thag17.2:37.1-37.4"),
+    ],
+    quiz=[
+        {"q": "What does this site's own AN 1.188–197 already say about Sāriputta?",
+         "opts": [
+             'AN 1.188–197 does not mention him',
+             'That he is foremost in psychic power',
+             'That he is foremost in great wisdom, one of the two chief disciples paired with Mahāmoggallāna',
+             'That he is foremost in generosity',
+         ],
+         "correct": 1,
+         "expl": "This poem confirms the same reputation from the inside, addressing him directly as 'foremost in wisdom'."},
+        {"q": 'By what name is Sāriputta addressed directly in verse eighteen?',
+         "opts": [
+             'Moggallāna',
+             'Gotama',
+             'Upatissa, his own birth name from his home village',
+             'Kassapa',
+         ],
+         "correct": 2,
+         "expl": "'Upatissa himself practices absorption' — his shelter only the foot of a tree."},
+        {"q": 'What does verse seventeen explicitly disclaim interest in?',
+         "opts": [
+             'Almsfood and robes',
+             'Nothing is disclaimed',
+             'Wisdom and freedom',
+             "Psychic powers, clairvoyance, and clairaudience — the very family of attainments this site's own Thag 16.9 (Anuruddha) prizes",
+         ],
+         "correct": 3,
+         "expl": "Sāriputta's verse favors wisdom and freedom alone over that family of attainments."},
+        {"q": 'What recurring closing formula appears in verses twenty-two and twenty-three?',
+         "opts": [
+             "'I await my time, like a worker waiting for their wages' — already tracked across several other poems on this site",
+             'A formula about generosity',
+             'No formula is used',
+             'A unique formula found nowhere else in this collection',
+         ],
+         "correct": 0,
+         "expl": "Already seen at this site's own Thag 11.1, 14.1, and 15.1."},
+        {"q": 'What simile does verse twenty use for stillness after delusion ends?',
+         "opts": [
+             'A candle flame',
+             'A rocky mountain, unwavering and well grounded',
+             'A river',
+             'A bird in flight',
+         ],
+         "correct": 1,
+         "expl": "'So when delusion ends, a monk, like a mountain, doesn't tremble.'"},
+        {"q": 'What does verse thirty-four call Sāriputta?',
+         "opts": [
+             'A layperson',
+             'A simple forest dweller with no particular role',
+             "'The senior monk who keeps the wheel rolling' — his role continuing the Buddha's own teaching",
+             'A wandering ascetic with no fixed community',
+         ],
+         "correct": 2,
+         "expl": "A direct reference echoed in this site's own MN 141, where Sāriputta himself elaborates the Buddha's first teaching."},
+        {"q": 'Is this poem a single continuous narrative scene?',
+         "opts": [
+             'It is a single question and single answer only',
+             'It has no discernible structure at all',
+             'Yes, entirely one uninterrupted scene',
+             'No — it is a composite, shifting between dialogue, reflection, and direct address verse by verse',
+         ],
+         "correct": 3,
+         "expl": "Unusual among this collection's poems for its shifting voice and topic."},
+        {"q": "What does the poem's final two verses declare?",
+         "opts": [
+             "'The heavy burden is laid down... I'll be fully quenched — I am everywhere free'",
+             'A complaint about old age',
+             'A description of a future rebirth',
+             'A request for more teaching',
+         ],
+         "correct": 0,
+         "expl": "The same 'burden laid down' formula heard throughout this collection at its most decisive moments."},
+        {"q": "What comparison does verse thirty-five use for Sāriputta's wisdom?",
+         "opts": [
+             'A comparison to a child',
+             "'He has attained the perfection of wisdom, so intelligent and thoughtful'",
+             'A comparison to a simple farmer',
+             'No comparison for wisdom is given',
+         ],
+         "correct": 1,
+         "expl": "Matching this site's own AN 1.188–197 designation of Sāriputta as foremost in great wisdom."},
+        {"q": 'What does verse twenty-nine observe about trustworthiness?',
+         "opts": [
+             'Only renunciants can be trusted',
+             'All householders and renunciants are equally trustworthy',
+             'Some who were good later become bad, while some who were bad become good — not everyone is to be trusted blindly',
+             'No one can ever change',
+         ],
+         "correct": 2,
+         "expl": "A note of realism amid the poem's otherwise instructive tone."},
+    ],
+    marginalia=[
+        ("Called by his birth name", [
+            "not Sāriputta here, but Upatissa —",
+            "the senior monk foremost in wisdom"
+        ]),
+        ("What he did not seek", [
+            "not the divine eye, not clairaudience —",
+            "wisdom and freedom alone were the wish"
+        ]),
+        ("Keeper of the wheel", [
+            "the elder who keeps it rolling —",
+            "echoing his own Analysis of the Truths"
+        ]),
+        ("A worker's wage, awaited once more", [
+            "not longing for death, not longing for life —",
+            "the same formula, now at its most frequent yet"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag17.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../anguttara-nikaya/an-1.188-197.html">AN '
+        "1.188&ndash;197</a> &mdash; naming Sāriputta foremost in "
+        "great wisdom, the reputation this poem confirms from the "
+        "inside.",
+        '<a href="../majjhima-nikaya/mn-141.html">MN 141 &mdash; The '
+        "Analysis of the Truths</a> &mdash; Sāriputta's own "
+        "elaboration of the Buddha's first teaching, echoed by this "
+        "poem's &lsquo;keeps the wheel rolling&rsquo; praise.",
+        '<a href="thag-17.1.html">Thag 17.1 &mdash; Phussa</a> '
+        "&mdash; the poem immediately before this one, opening the "
+        "Book of the Thirties.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 17.3 — Ānanda
+# --------------------------------------------------------------------------- #
+page(
+    17, 3, "&Amacr;nanda", "&Amacr;nanda",
+    meta_title="Thag 17.3 — Ānanda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Ānanda's verse, closing the Book of the Thirties and this "
+        "site's Theragatha selections so far at 257 of 264 poems "
+        "&mdash; the Buddha's attendant of twenty-five years, foremost "
+        "in learning, recording his own grief at the Buddha's "
+        "parinibbāna already told in full in this site's own DN 16. "
+        "From Ru-Yi Meditation Center."),
+    vagga="The Book of the Thirties &middot; Chapter One &middot; Poem 3 of 3 (closing the book)",
+    glance=[
+        ("Setting", "A composite spanning Ānanda's years of service, "
+                    "the Buddha's death, and eulogies after his own "
+                    "death"),
+        ("Speaker", "Multiple voices, with Ānanda's own testimony "
+                    "predominant through the poem's middle section"),
+        ("Form", "Thirty-seven verses, closing the Book of the "
+                 "Thirties and this book's own three-poem chapter"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "emotionally direct, shifting voices and "
+                       "time-frames"),
+    ],
+    why=(
+        "This poem closes the Book of the Thirties, bringing this "
+        "site's Theragatha selections to 257 of 264 poems. Its "
+        "subject, Ānanda, is already named &lsquo;foremost in "
+        "learning&rsquo; in this site's own AN 1.188&ndash;197; here "
+        "he speaks in his own voice about a grief this site has "
+        "already told in full elsewhere &mdash; his own account of "
+        "the Buddha's death, companion to the far longer narrative in "
+        "this site's own DN 16, The Great Discourse on the Buddha's "
+        "Extinguishment, where Ānanda is himself a central figure."),
+    guide=[
+        ("A composite spanning decades, not one scene", [
+            "Like this site's own Thag 17.2 (Sāriputta), this poem "
+            "moves between distinct moments rather than a single "
+            "continuous narrative: reflections on choosing friends "
+            "wisely (1&ndash;2), impermanence verses about the body "
+            "using a peyyāla-abbreviated refrain (3&ndash;7), praise "
+            "of Ānanda by name (8&ndash;11), reflections on learning "
+            "(12&ndash;19), his grief after the Buddha's death "
+            "(20&ndash;33), and a closing eulogy after his own death "
+            "(34&ndash;37)."]),
+        ("A famous, specific claim about how much he had learned", [
+            "Verse eleven states a striking figure: &lsquo;82,000 "
+            "from the Buddha, and 2,000 more from the monks: 84,000 "
+            "teachings I've learned, and these are what I "
+            "promulgate.&rsquo; This is among the most quoted verses "
+            "attributed to Ānanda across Buddhist literature, and "
+            "matches this site's own AN 1.188&ndash;197 naming him "
+            "foremost in learning."]),
+        ("Twenty-five years, like a shadow that never left", [
+            "Verses twenty-six through thirty-one give this poem's "
+            "most celebrated passage: for twenty-five years as a "
+            "trainee, &lsquo;no sensual perception has arisen in me... "
+            "no malicious perception has arisen in me&rsquo;, and for "
+            "twenty-five years he attended the Buddha &lsquo;with "
+            "loving deeds... with loving words... with loving "
+            "thoughts, like a shadow that never left.&rsquo; The "
+            "three-fold repetition (body, speech, mind) is one of the "
+            "most sustained single formulas in this collection."]),
+        ("Grief, told from the inside, already told at length elsewhere", [
+            "Verses twenty-one through twenty-three record raw grief "
+            "after losing &lsquo;our good friend&rsquo; (understood as "
+            "the Buddha): &lsquo;I'm completely disorientated! The "
+            "teachings don't spring to mind!... everything seems "
+            "dark.&rsquo; He resolves to rely on mindfulness of the "
+            "body as the only remaining friend, and closes, &lsquo;the "
+            "old have passed away, and I don't agree with the new... "
+            "today I meditate alone like a bird snug in its nest.&rsquo; "
+            "This same event &mdash; and Ānanda's own central role "
+            "within it &mdash; is already told at far greater length "
+            "in this site's own DN 16."]),
+        ("A confession that he was still a trainee when the Buddha died", [
+            "Verses thirty-two and thirty-three record a striking "
+            "admission: &lsquo;I'm a trainee, who has more to do; my "
+            "heart's desire is still unfulfilled&rsquo; at the exact "
+            "moment &lsquo;the Teacher... has become completely "
+            "quenched&rsquo;, provoking terror and goosebumps. Unlike "
+            "most elders in this collection, whose verses record "
+            "attainment already achieved, Ānanda's own testimony "
+            "here captures the vulnerability of witnessing the "
+            "Buddha's death while his own path remained incomplete."]),
+        ("A eulogy after his own death, closing both poem and book", [
+            "Verses thirty-four through thirty-six shift to "
+            "third-person praise after Ānanda's own passing: "
+            "&lsquo;a keeper of the great seer's treasury, a visionary "
+            "for the entire world... Ānanda was a mine of gems.&rsquo; "
+            "The poem's final verse (37) returns to his own "
+            "first-person voice for this collection's familiar "
+            "closing declaration: &lsquo;the heavy burden is laid "
+            "down, now there'll be no more future lives.&rsquo;"]),
+    ],
+    terms=[
+        ("dvāsīti buddhato gaṇhiṁ",
+         "&ldquo;82,000 from the Buddha&rdquo; &mdash; the opening of "
+         "Ānanda's famous claim to have learned 84,000 teachings in "
+         "total."),
+        ("chāyāva anapāyinī",
+         "&ldquo;like a shadow that never left&rdquo; &mdash; the "
+         "refrain closing each verse of the three-fold "
+         "twenty-five-years formula (deeds, words, thoughts)."),
+        ("gate kalyāṇamittamhi",
+         "&ldquo;with the passing of our good friend&rdquo; &mdash; "
+         "Ānanda's own grief after the Buddha's death, companion to "
+         "this site's own DN 16."),
+        ("ahaṁ sakaraṇīyomhi",
+         "&ldquo;I'm a trainee, who has more to do&rdquo; &mdash; "
+         "Ānanda's own confession of incomplete attainment at the "
+         "moment of the Buddha's parinibbāna."),
+        ("saddhammadhārako thero",
+         "&ldquo;the senior monk who memorized the teaching&rdquo; "
+         "&mdash; part of the third-person eulogy given after "
+         "Ānanda's own death, matching this site's own AN "
+         "1.188&ndash;197 designation of him as foremost in learning."),
+    ],
+    text_intro=(
+        "The text in full: thirty-seven verses, moving between "
+        "reflection, testimony, and eulogy, with a peyyāla "
+        "abbreviation at verses 3&ndash;7 (reconstructed in English "
+        "regardless). No separate comment note bears on the verses "
+        "themselves. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag17.3:1.1-1.4"),
+        ("p", "&sect;2", "thag17.3:2.1-2.4"),
+        ("p", "&sect;3", "thag17.3:3.1-3.4"),
+        ("p", "&sect;4", "thag17.3:4.1-4.4"),
+        ("p", "&sect;5", "thag17.3:5.1-5.4"),
+        ("p", "&sect;6", "thag17.3:6.1-6.4"),
+        ("p", "&sect;7", "thag17.3:7.1-7.4"),
+        ("p", "&sect;8", "thag17.3:8.1-8.4"),
+        ("p", "&sect;9", "thag17.3:9.1-9.4"),
+        ("p", "&sect;10", "thag17.3:10.1-10.4"),
+        ("p", "&sect;11", "thag17.3:11.1-11.4"),
+        ("p", "&sect;12", "thag17.3:12.1-12.4"),
+        ("p", "&sect;13", "thag17.3:13.1-13.4"),
+        ("p", "&sect;14", "thag17.3:14.1-14.4"),
+        ("p", "&sect;15", "thag17.3:15.1-15.4"),
+        ("p", "&sect;16", "thag17.3:16.1-16.4"),
+        ("p", "&sect;17", "thag17.3:17.1-17.4"),
+        ("p", "&sect;18", "thag17.3:18.1-18.4"),
+        ("p", "&sect;19", "thag17.3:19.1-19.4"),
+        ("p", "&sect;20", "thag17.3:20.1-20.4"),
+        ("p", "&sect;21", "thag17.3:21.1-21.4"),
+        ("p", "&sect;22", "thag17.3:22.1-22.4"),
+        ("p", "&sect;23", "thag17.3:23.1-23.4"),
+        ("p", "&sect;24", "thag17.3:24.1-24.4"),
+        ("p", "&sect;25", "thag17.3:25.1-25.4"),
+        ("p", "&sect;26", "thag17.3:26.1-26.4"),
+        ("p", "&sect;27", "thag17.3:27.1-27.4"),
+        ("p", "&sect;28", "thag17.3:28.1-28.4"),
+        ("p", "&sect;29", "thag17.3:29.1-29.4"),
+        ("p", "&sect;30", "thag17.3:30.1-30.4"),
+        ("p", "&sect;31", "thag17.3:31.1-31.4"),
+        ("p", "&sect;32", "thag17.3:32.1-32.4"),
+        ("p", "&sect;33", "thag17.3:33.1-33.4"),
+        ("p", "&sect;34", "thag17.3:34.1-34.4"),
+        ("p", "&sect;35", "thag17.3:35.1-35.4"),
+        ("p", "&sect;36", "thag17.3:36.1-36.4"),
+        ("p", "&sect;37", "thag17.3:37.1-37.4"),
+    ],
+    quiz=[
+        {"q": "What does this poem's completion mean for this site's Theragatha selections?",
+         "opts": [
+             'It marks the halfway point of the collection',
+             'It is the final poem of the entire collection',
+             'Nothing in particular',
+             'It closes the Book of the Thirties, bringing the total to 257 of 264 poems',
+         ],
+         "correct": 2,
+         "expl": 'One of the last five books remaining after this one.'},
+        {"q": "What does this site's own AN 1.188–197 already say about Ānanda?",
+         "opts": [
+             'That he is foremost in generosity',
+             'AN 1.188–197 does not mention him',
+             'That he is foremost in psychic power',
+             'That he is foremost in learning',
+         ],
+         "correct": 3,
+         "expl": "Confirmed from the inside by this poem's own repeated 'bahussuto' (learned) epithet."},
+        {"q": 'What famous specific figure does verse eleven give?',
+         "opts": [
+             '84,000 teachings learned — 82,000 from the Buddha and 2,000 more from the monks',
+             'A count of his almsrounds',
+             'No specific figure is given',
+             'A count of his years in robes',
+         ],
+         "correct": 0,
+         "expl": 'Among the most quoted verses attributed to Ānanda across Buddhist literature.'},
+        {"q": 'What does the twenty-five-years formula (verses 26–31) repeat three times?',
+         "opts": [
+             'Three different numbers',
+             "Loving deeds, loving words, and loving thoughts, each closing 'like a shadow that never left'",
+             'Three different teachers',
+             'Three different locations',
+         ],
+         "correct": 1,
+         "expl": 'One of the most sustained single formulas in this collection.'},
+        {"q": 'What event do verses twenty-one through twenty-three record grief over?',
+         "opts": [
+             'A famine',
+             'A minor dispute',
+             "The passing of 'our good friend' — understood as the Buddha's death, already told at length in this site's own DN 16",
+             'A lost object',
+         ],
+         "correct": 2,
+         "expl": "'I'm completely disorientated! The teachings don't spring to mind!... everything seems dark.'"},
+        {"q": 'What does Ānanda resolve to rely on after this loss?',
+         "opts": [
+             'His own memory alone',
+             "The congregation's opinion",
+             'Another teacher',
+             'Mindfulness of the body, as the only remaining friend',
+         ],
+         "correct": 3,
+         "expl": "'There's no friend like mindfulness of the body.'"},
+        {"q": 'What striking admission do verses thirty-two and thirty-three record?',
+         "opts": [
+             "That he was still a trainee with unfulfilled attainment at the exact moment of the Buddha's death",
+             'That he regretted becoming a monk',
+             'That he had forgotten the teachings',
+             'That he had already fully attained awakening',
+         ],
+         "correct": 0,
+         "expl": 'Unlike most elders in this collection whose verses record attainment already achieved.'},
+        {"q": 'What form do verses thirty-four through thirty-six take?',
+         "opts": [
+             "Ānanda's own first-person account",
+             "Third-person eulogy given after Ānanda's own death",
+             'A dialogue with the Buddha',
+             'A prophecy of the future',
+         ],
+         "correct": 1,
+         "expl": "'A keeper of the great seer's treasury... Ānanda was a mine of gems.'"},
+        {"q": "How does the poem's final verse (37) close?",
+         "opts": [
+             'With an unresolved question',
+             'With a request for further teaching',
+             "'The heavy burden is laid down, now there'll be no more future lives' — Ānanda's own closing declaration",
+             'With a description of a future rebirth',
+         ],
+         "correct": 2,
+         "expl": "Returning to his own first-person voice for this collection's familiar closing formula."},
+        {"q": 'What refrain closes verses three through seven, using a peyyāla abbreviation?',
+         "opts": [
+             'A refrain about almsfood',
+             'No refrain is used',
+             "A refrain about the Buddha's teaching",
+             "'But not a seeker of the far shore' — closing a series of body-impermanence verses about outward beauty",
+         ],
+         "correct": 3,
+         "expl": "The Pali is abbreviated with '…pe…' while the English translation reconstructs the full text throughout."},
+    ],
+    marginalia=[
+        ("Closing the book", [
+            "three poems named in one summary verse —",
+            "257 of 264, five books left"
+        ]),
+        ("84,000, by his own count", [
+            "learned from the Buddha and from the monks —",
+            "'these are what I promulgate'"
+        ]),
+        ("Like a shadow that never left", [
+            "twenty-five years, deeds and words and thoughts —",
+            "no sensual perception arising once"
+        ]),
+        ("Still a trainee, at the hardest moment", [
+            "'my heart's desire is still unfulfilled' —",
+            "terror and goosebumps, told from the inside"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag17.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../digha-nikaya/dn-16.html">DN 16 &mdash; The '
+        "Great Discourse on the Buddha's Extinguishment</a> &mdash; "
+        "the fuller narrative of the event this poem's grief responds "
+        "to, with Ānanda himself a central figure.",
+        '<a href="../anguttara-nikaya/an-1.188-197.html">AN '
+        "1.188&ndash;197</a> &mdash; naming Ānanda foremost in "
+        "learning, the reputation this poem confirms from the inside.",
+        '<a href="thag-17.2.html">Thag 17.2 &mdash; Sāriputta</a> '
+        "&mdash; the poem immediately before this one, closing the "
+        "Book of the Thirties together.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
