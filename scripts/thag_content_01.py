@@ -54866,3 +54866,303 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thag 16.10 — Pārāsariya (3rd)
+# --------------------------------------------------------------------------- #
+page(
+    16, 10, "P&amacr;r&amacr;sariya (3rd)", "P&amacr;r&amacr;sariya (3rd)",
+    meta_title="Thag 16.10 — Pārāsariya (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Pārāsariya's closing verse of the Book of the Twenties &mdash; "
+        "a sustained, unusually direct lament on the decline of the "
+        "Saṅgha's discipline since the Buddha's own day, closing out "
+        "both this book and this reading guide's Theragatha selections "
+        "so far. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twenties &middot; Chapter One &middot; Poem 10 of 10 (closing the book)",
+    glance=[
+        ("Setting", "A solitary ascetic, seated in a flowering forest, "
+                    "reflects on how much monastic conduct has changed"),
+        ("Speaker", "An unnamed ascetic (samaṇo), identified only in "
+                    "the closing colophon as the elder Pārāsariya"),
+        ("Form", "Twenty-nine verses of direct social critique, framed "
+                 "by a two-verse narrative opening and closing"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "plain language throughout, but an unusually "
+                       "long sustained argument"),
+    ],
+    why=(
+        "This poem closes the Book of the Twenties, and with it, this "
+        "site's Theragatha selections so far reach 256 of 264 poems. "
+        "Its content matches its position: a sober, almost weary "
+        "survey of how far monastic conduct has drifted from the "
+        "discipline of &lsquo;when the protector of the world, the "
+        "best of men, was still here&rsquo; &mdash; the most sustained "
+        "single critique of Saṅgha behavior anywhere in this "
+        "collection, closing on the same theme already treated at "
+        "greater length in this site's own SN 16.13, The Counterfeit "
+        "of the True Teaching."),
+    guide=[
+        ("A third-person frame around a first-person complaint", [
+            "The poem opens (verse 1) and closes (verse 29) in the "
+            "third person, describing an unnamed ascetic seated alone "
+            "in a flowering forest. Everything in between (verses "
+            "2&ndash;28) is that ascetic's own extended first-person "
+            "reflection, presented as a single continuous thought "
+            "rather than a dialogue."]),
+        ("How things used to be", [
+            "Verses three through nine recall, admiringly, the "
+            "discipline of the earliest monastics: robes worn only "
+            "for covering and warmth, eating in moderation whether "
+            "food was fine or coarse, little concern for medicine or "
+            "requisites beyond what ended defilement, living in "
+            "forests and caves, gentle and unpompous, their conduct "
+            "&lsquo;as smooth as a stream of oil&rsquo;."]),
+        ("How things stand now", [
+            "From verse ten, the tone shifts to sustained critique: "
+            "monks quarreling over doctrine and clinging to wrong "
+            "views (14), going forth yet still scheming for a mere "
+            "spoonful of almsfood (15), sleeping on their backs after "
+            "overeating and gossiping about matters the Teacher "
+            "himself criticized (16), training in arts and crafts "
+            "instead of settling the mind (17), and currying favor "
+            "with householders through gifts of oil, tooth-picks, and "
+            "fruit in hope of return (18&ndash;19)."]),
+        ("A list of unflattering comparisons", [
+            "Verse twenty compresses the critique into four sharp "
+            "comparisons: monks behaving in medicine like doctors, in "
+            "business like householders, in cosmetics like "
+            "prostitutes, in authority like aristocrats &mdash; none "
+            "of them describing the conduct of a renunciant."]),
+        ("Naming the same decline treated elsewhere on this site", [
+            "This poem's underlying concern &mdash; that the true "
+            "teaching itself &lsquo;falls apart&rsquo; (verse 10) as "
+            "discipline and understanding erode &mdash; is treated at "
+            "greater length in this site's own "
+            "<a href=\"../samyutta-nikaya/sn-16.13.html\">SN 16.13, "
+            "The Counterfeit of the True Teaching</a>, where the "
+            "Buddha explains to Kassapa exactly how the true "
+            "teaching disappears: not all at once, but gradually, as "
+            "counterfeit versions of it multiply among people who no "
+            "longer respect the Saṅgha, the training, and "
+            "meditation."]),
+        ("Closing on a note of continued possibility", [
+            "The poem does not end in despair. Its final two verses "
+            "(27&ndash;28) turn from complaint to instruction: a "
+            "monk should walk through the village as carefully as "
+            "someone walking barefoot on a thorny path, and &mdash; "
+            "&lsquo;remembering the meditators of old&rsquo; &mdash; "
+            "&lsquo;even in the latter days, it's still possible to "
+            "realize freedom from death.&rsquo; The closing narrative "
+            "verse then confirms: the ascetic himself, &lsquo;the "
+            "brahmin, the seer,&rsquo; became fully extinguished "
+            "there in the sāl tree grove."]),
+        ("A closing tally for the whole book", [
+            "An untranslated Pali colophon follows the poem itself, "
+            "naming the speaker as the elder Pārāsariya and marking "
+            "&lsquo;Vīsatinipāto niṭṭhito&rsquo; &mdash; the Book of "
+            "the Twenties is finished. A further untranslated summary "
+            "verse (uddāna) lists all ten elders of this book by name "
+            "&mdash; Adhimutta, Pārāsariya, Telakāni, Raṭṭhapāla, "
+            "Māluṅkyaputta, Sela, Bhaddiya, Aṅgulimāla, and Anuruddha "
+            "(named here by his epithet &lsquo;one with the divine "
+            "eye&rsquo;), with Pārāsariya named a second time to close "
+            "the book &mdash; and states the book's total verse count "
+            "as &lsquo;two hundred and forty-five&rsquo;, an unusually "
+            "specific figure for a book whose traditional name "
+            "promises a round two hundred (ten poems of twenty verses "
+            "each), reflecting how much longer than twenty verses most "
+            "of these ten poems actually run."]),
+    ],
+    terms=[
+        ("samaṇassa ahu cintā",
+         "&ldquo;this thought came to the ascetic&rdquo; &mdash; the "
+         "poem's opening line, framing everything that follows as a "
+         "single sustained reflection."),
+        ("lujjate jinasāsanaṁ",
+         "&ldquo;the victor's teaching falls apart&rdquo; &mdash; the "
+         "poem's central diagnosis, echoed at greater length in this "
+         "site's own SN 16.13."),
+        ("kaṭacchubhikkhahetūpi",
+         "&ldquo;for the sake of a measly spoon of almsfood&rdquo; "
+         "&mdash; one of the poem's sharpest single images of "
+         "misplaced priorities."),
+        ("phuseyya amataṁ padaṁ",
+         "&ldquo;it's still possible to realize freedom from "
+         "death&rdquo; &mdash; the poem's turn from complaint to "
+         "renewed possibility, in its next-to-last verse."),
+        ("Vīsatinipāto niṭṭhito",
+         "&ldquo;the Book of the Twenties is finished&rdquo; &mdash; "
+         "the untranslated Pali colophon closing out this book, "
+         "followed by a summary verse naming all ten elders and the "
+         "book's total verse count."),
+    ],
+    text_intro=(
+        "The text in full: twenty-nine verses, framed by a third-person "
+        "narrative opening and closing, followed by an untranslated "
+        "closing colophon and summary verse (paraphrased above rather "
+        "than quoted, since no English translation exists for that "
+        "portion). No separate comment note bears on the verses "
+        "themselves. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag16.10:1.1-1.4"),
+        ("p", "&sect;2", "thag16.10:2.1-2.4"),
+        ("p", "&sect;3", "thag16.10:3.1-3.4"),
+        ("p", "&sect;4", "thag16.10:4.1-4.4"),
+        ("p", "&sect;5", "thag16.10:5.1-5.4"),
+        ("p", "&sect;6", "thag16.10:6.1-6.4"),
+        ("p", "&sect;7", "thag16.10:7.1-7.4"),
+        ("p", "&sect;8", "thag16.10:8.1-8.4"),
+        ("p", "&sect;9", "thag16.10:9.1-9.4"),
+        ("p", "&sect;10", "thag16.10:10.1-10.4"),
+        ("p", "&sect;11", "thag16.10:11.1-11.4"),
+        ("p", "&sect;12", "thag16.10:12.1-12.4"),
+        ("p", "&sect;13", "thag16.10:13.1-13.4"),
+        ("p", "&sect;14", "thag16.10:14.1-14.4"),
+        ("p", "&sect;15", "thag16.10:15.1-15.4"),
+        ("p", "&sect;16", "thag16.10:16.1-16.4"),
+        ("p", "&sect;17", "thag16.10:17.1-17.4"),
+        ("p", "&sect;18", "thag16.10:18.1-18.4"),
+        ("p", "&sect;19", "thag16.10:19.1-19.4"),
+        ("p", "&sect;20", "thag16.10:20.1-20.4"),
+        ("p", "&sect;21", "thag16.10:21.1-21.4"),
+        ("p", "&sect;22", "thag16.10:22.1-22.4"),
+        ("p", "&sect;23", "thag16.10:23.1-23.4"),
+        ("p", "&sect;24", "thag16.10:24.1-24.4"),
+        ("p", "&sect;25", "thag16.10:25.1-25.4"),
+        ("p", "&sect;26", "thag16.10:26.1-26.4"),
+        ("p", "&sect;27", "thag16.10:27.1-27.4"),
+        ("p", "&sect;28", "thag16.10:28.1-28.4"),
+        ("p", "&sect;29", "thag16.10:29.1-29.4"),
+    ],
+    quiz=[
+        {"q": 'What does this poem close?',
+         "opts": [
+             'Only the first chapter of a larger book',
+             'Only itself, with no wider significance',
+             "Both the Book of the Twenties and this site's Theragatha selections so far (256 of 264 poems)",
+             'The entire Theragātha collection',
+         ],
+         "correct": 1,
+         "expl": "Bringing this book's ten poems to completion."},
+        {"q": 'What structure frames the poem?',
+         "opts": [
+             'A question-and-answer catechism',
+             'A dialogue between two named speakers',
+             'A third-person narrative opening and closing around a first-person reflection in between',
+             'Entirely first-person throughout with no frame',
+         ],
+         "correct": 2,
+         "expl": "Verses 1 and 29 are third-person narration; verses 2 through 28 are the ascetic's own extended thought."},
+        {"q": 'What do verses three through nine recall?',
+         "opts": [
+             'A dispute with a rival teacher',
+             'A description of a royal court',
+             'A specific miracle',
+             'The discipline of the earliest monastics — simple robes, moderate eating, forest dwelling',
+         ],
+         "correct": 3,
+         "expl": "Their conduct is described as 'as smooth as a stream of oil'."},
+        {"q": 'What sharp image does verse fifteen use for misplaced priorities?',
+         "opts": [
+             'Going forth, yet still scheming for a measly spoon of almsfood',
+             'A comparison to a burning house',
+             'A comparison to a sinking ship',
+             'No specific image is used',
+         ],
+         "correct": 0,
+         "expl": "One of the poem's sharpest single images of monks who have abandoned their original purpose."},
+        {"q": 'What four unflattering comparisons does verse twenty draw?',
+         "opts": [
+             'Comparisons to different animals',
+             'Monks behaving like doctors, householders, prostitutes, and aristocrats',
+             'Comparisons to different seasons',
+             'No comparisons are made',
+         ],
+         "correct": 1,
+         "expl": 'None of these roles describes the conduct of a renunciant.'},
+        {"q": 'What already-completed text on this site treats the same underlying concern at greater length?',
+         "opts": [
+             'The Heart Sutra',
+             'This site does not have a related text',
+             'SN 16.13, The Counterfeit of the True Teaching',
+             'The Dhammapada',
+         ],
+         "correct": 2,
+         "expl": 'Where the Buddha explains to Kassapa how the true teaching disappears gradually, not all at once.'},
+        {"q": 'How does the poem end — with despair or with continued possibility?',
+         "opts": [
+             'With a request for the reader to give up',
+             'The ending is ambiguous',
+             'With despair, offering no path forward',
+             "With continued possibility — 'even in the latter days, it's still possible to realize freedom from death'",
+         ],
+         "correct": 3,
+         "expl": 'Its final two verses turn from complaint to instruction, drawing on the memory of past meditators.'},
+        {"q": 'What comparison does the poem use for how a monk should walk through the village?',
+         "opts": [
+             'As carefully as someone walking barefoot on a thorny path',
+             'Like a merchant surveying goods',
+             'No comparison is given',
+             'Like a soldier marching',
+         ],
+         "correct": 0,
+         "expl": "A specific instruction on mindful conduct, appearing just before the poem's close."},
+        {"q": 'What does the untranslated closing colophon state?',
+         "opts": [
+             'Nothing of significance',
+             'That the speaker was the elder Pārāsariya, and that the Book of the Twenties is finished',
+             'A request for donations',
+             'A dedication to a specific king',
+         ],
+         "correct": 1,
+         "expl": "'Vīsatinipāto niṭṭhito' — the Book of the Twenties is finished."},
+        {"q": 'What total verse count does the closing summary verse (uddāna) give for the whole book?',
+         "opts": [
+             'The uddāna gives no total',
+             'An even two hundred',
+             'Two hundred and forty-five',
+             'One hundred',
+         ],
+         "correct": 2,
+         "expl": "An unusually specific figure, reflecting how much longer than twenty verses most of the book's ten poems actually run."},
+    ],
+    marginalia=[
+        ("Closing the book", [
+            "ten poems named in one summary verse —",
+            "245 lines where 200 were promised"
+        ]),
+        ("How it used to be", [
+            "robes for covering, food for sustenance only —",
+            "conduct as smooth as a stream of oil"
+        ]),
+        ("How it stands now", [
+            "doctors, householders, prostitutes, aristocrats —",
+            "four comparisons, none of them fitting"
+        ]),
+        ("Not despair, but a path", [
+            "barefoot on thorns, walking mindfully —",
+            "'even in the latter days,' still possible"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag16.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../samyutta-nikaya/sn-16.13.html">SN 16.13 &mdash; '
+        "The Counterfeit of the True Teaching</a> &mdash; the "
+        "Buddha's own fuller explanation of the same decline this "
+        "poem laments.",
+        '<a href="thag-16.9.html">Thag 16.9 &mdash; Anuruddha</a> '
+        "&mdash; the poem immediately before this one, closing out "
+        "the Book of the Twenties together.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
