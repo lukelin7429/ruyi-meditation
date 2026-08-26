@@ -56021,3 +56021,321 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thag 18.1 — Mahākassapa
+# --------------------------------------------------------------------------- #
+page(
+    18, 1, "Mah&amacr;kassapa", "Mah&amacr;kassapa",
+    meta_title="Thag 18.1 — Mahākassapa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Mahākassapa's verse &mdash; the sole poem of the Book of the "
+        "Forties, and this collection's fullest self-portrait of the "
+        "elder already named foremost in austerities in this site's "
+        "own AN 1.188&ndash;197, including the famous leper's-alms "
+        "story and an extended praise of mountain solitude. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Forties &middot; Chapter One &middot; Poem 1 of 1 (the whole book)",
+    glance=[
+        ("Setting", "A first-person account moving through renunciant "
+                    "practice, mountain solitude, and teaching"),
+        ("Speaker", "Mahākassapa, mostly first-person, with an "
+                    "embedded third-person scene involving Sāriputta "
+                    "and Mahākappina"),
+        ("Form", "Forty verses, the entire Book of the Forties in a "
+                 "single poem"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "vivid, concrete imagery throughout"),
+    ],
+    why=(
+        "This site's own AN 1.188&ndash;197 already names Mahākassapa "
+        "&lsquo;foremost among those who advocate austerities&rsquo;. "
+        "This single, full poem &mdash; the entire Book of the Forties "
+        "&mdash; gives that reputation its fullest first-person "
+        "portrait anywhere in this collection: the famous story of "
+        "accepting a morsel of food from a leper's disintegrating "
+        "hand, a sustained praise of mountain solitude, and, per "
+        "Sujato's own comment, the legend that Mahākassapa still sits "
+        "in absorption on that same mountain today, waiting to hand "
+        "the Buddha's own robe &mdash; received in this site's own SN "
+        "16.11 &mdash; to the future Buddha Metteyya."),
+    guide=[
+        ("Renouncing popularity itself, not just possessions", [
+            "The poem opens (1&ndash;3) with an unusual warning: not "
+            "against wealth or pleasure, but against having a "
+            "following, visiting respectable families, and accepting "
+            "homage &mdash; &lsquo;honor is a subtle dart, hard to "
+            "extract, and hard for a reprobate to give up.&rsquo; This "
+            "concern with the dangers of social prestige, rather than "
+            "sensual pleasure, is distinctive among this collection's "
+            "opening themes."]),
+        ("The leper's alms, accepted without disgust", [
+            "Verses four through six give this poem's most famous "
+            "passage: Mahākassapa courteously stood by while a leper "
+            "ate, was offered a morsel with the leper's own "
+            "&lsquo;putrid hand&rsquo;, and as the morsel was placed "
+            "in his bowl the leper's finger dropped off. Mahākassapa "
+            "ate the alms regardless, stating plainly, &lsquo;I did "
+            "not feel any disgust while eating or afterwards.&rsquo; "
+            "Verse seven generalizes the principle into a catalogue "
+            "of the ascetic practices (dhutaṅga) he is known for: "
+            "living on leftovers, rancid urine as medicine, a tree's "
+            "root as lodging, cast-off rags as robes."]),
+        ("Ascending the mountain, three times over", [
+            "Verses eight through eleven repeat a refrain three times "
+            "&mdash; &lsquo;returning from almsround, Kassapa ascends "
+            "the mountain&rsquo; &mdash; each time closing on a "
+            "different quality of his absorption: mindful and aware, "
+            "quenched amid those who burn, his task completed and "
+            "free of defilements."]),
+        ("An extended, celebrated praise of mountain solitude", [
+            "Verses twelve through twenty form one of this "
+            "collection's most sustained passages of nature poetry: "
+            "nine verses (with one further echo at 18&ndash;20) all "
+            "closing on the same refrain, &lsquo;these rocky crags "
+            "delight me!&rsquo; &mdash; garlanded with musk-rose, "
+            "echoing with elephants and peacocks, glistening like "
+            "stormclouds, empty of householders and frequented only "
+            "by deer. Verse twenty-one then makes the point directly: "
+            "&lsquo;even the music of a five-piece band can never "
+            "give such pleasure as when, with unified mind, you "
+            "rightly discern the Dhamma.&rsquo;"]),
+        ("A monkey in a lion's skin, and a lion in a mountain cave", [
+            "Verses thirty and thirty-one give one of this "
+            "collection's sharpest single images: a restless, fickle "
+            "mendicant wearing rag-robes &lsquo;doesn't make them "
+            "shine &mdash; they're like a monkey in a lion "
+            "skin&rsquo;, while an alert, restrained one wearing the "
+            "very same robes &lsquo;shines like a lion in a mountain "
+            "cave&rsquo; &mdash; the identical outward practice, "
+            "entirely different depending on what's inside it."]),
+        ("An embedded scene involving Sāriputta and Mahākappina", [
+            "Verses thirty-two through thirty-six shift, without "
+            "explanation, to a third-person scene: 10,000 gods of the "
+            "Brahmā-world stand with palms cupped, honoring Sāriputta "
+            "&mdash; already named foremost in wisdom in this site's "
+            "own AN 1.188&ndash;197 and Thag 17.2 &mdash; confessing "
+            "they cannot comprehend the basis of his absorption; "
+            "seeing this homage, the elder Mahākappina (this site's own "
+            "already-completed Thag 10.3) simply smiles. The poem "
+            "offers no transition or explanation for this shift in "
+            "subject before returning, in verse thirty-seven, to "
+            "Mahākassapa's own first-person voice."]),
+        ("His own claim to foremost austerity, and the legend that follows him", [
+            "Verse thirty-seven states directly: &lsquo;as far as the "
+            "range of the Buddha extends... I am distinguished in "
+            "austerities. I have no equal, apart from the great sage "
+            "himself&rsquo; &mdash; confirming, in his own words, this "
+            "site's own AN 1.188&ndash;197 designation. Sujato's own "
+            "comment on verse 11.4 adds a legend not found in the "
+            "poem itself: that Mahākassapa still sits in deepest "
+            "absorption on that same mountain today, waiting for the "
+            "future Buddha Metteyya, to whom he will present the "
+            "very rag robes he received from the Buddha Gotama, told "
+            "in this site's own SN 16.11, Robes."]),
+    ],
+    terms=[
+        ("gaṇena purakkhato",
+         "&ldquo;for the adulation of a following&rdquo; &mdash; the "
+         "poem's opening warning, against popularity rather than "
+         "possessions."),
+        ("sa ve cātuddiso naro",
+         "&ldquo;is at ease in any quarter&rdquo; &mdash; the closing "
+         "line of the poem's catalogue of ascetic practices."),
+        ("te selā ramayanti maṁ",
+         "&ldquo;these rocky crags delight me!&rdquo; &mdash; the "
+         "refrain closing this poem's extended nature-praise passage."),
+        ("kapīva sīhacammena",
+         "&ldquo;like a monkey in a lion skin&rdquo; &mdash; the "
+         "poem's sharp image for outward practice without inward "
+         "substance."),
+        ("dhutaguṇe visiṭṭhohaṁ",
+         "&ldquo;I am distinguished in austerities&rdquo; &mdash; "
+         "Mahākassapa's own claim, matching this site's own AN "
+         "1.188&ndash;197 designation."),
+    ],
+    text_intro=(
+        "The text in full: forty verses, the entire Book of the "
+        "Forties in a single poem. No separate comment note bears on "
+        "the verses themselves, apart from the legend attached to "
+        "verse 11.4 discussed above. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag18.1:1.1-1.4"),
+        ("p", "&sect;2", "thag18.1:2.1-2.4"),
+        ("p", "&sect;3", "thag18.1:3.1-3.4"),
+        ("p", "&sect;4", "thag18.1:4.1-4.4"),
+        ("p", "&sect;5", "thag18.1:5.1-5.4"),
+        ("p", "&sect;6", "thag18.1:6.1-6.4"),
+        ("p", "&sect;7", "thag18.1:7.1-7.6"),
+        ("p", "&sect;8", "thag18.1:8.1-8.6"),
+        ("p", "&sect;9", "thag18.1:9.1-9.4"),
+        ("p", "&sect;10", "thag18.1:10.1-10.4"),
+        ("p", "&sect;11", "thag18.1:11.1-11.4"),
+        ("p", "&sect;12", "thag18.1:12.1-12.4"),
+        ("p", "&sect;13", "thag18.1:13.1-13.4"),
+        ("p", "&sect;14", "thag18.1:14.1-14.4"),
+        ("p", "&sect;15", "thag18.1:15.1-15.4"),
+        ("p", "&sect;16", "thag18.1:16.1-16.4"),
+        ("p", "&sect;17", "thag18.1:17.1-17.4"),
+        ("p", "&sect;18", "thag18.1:18.1-18.4"),
+        ("p", "&sect;19", "thag18.1:19.1-19.4"),
+        ("p", "&sect;20", "thag18.1:20.1-20.4"),
+        ("p", "&sect;21", "thag18.1:21.1-21.4"),
+        ("p", "&sect;22", "thag18.1:22.1-22.4"),
+        ("p", "&sect;23", "thag18.1:23.1-23.4"),
+        ("p", "&sect;24", "thag18.1:24.1-24.4"),
+        ("p", "&sect;25", "thag18.1:25.1-25.4"),
+        ("p", "&sect;26", "thag18.1:26.1-26.4"),
+        ("p", "&sect;27", "thag18.1:27.1-27.4"),
+        ("p", "&sect;28", "thag18.1:28.1-28.4"),
+        ("p", "&sect;29", "thag18.1:29.1-29.4"),
+        ("p", "&sect;30", "thag18.1:30.1-30.4"),
+        ("p", "&sect;31", "thag18.1:31.1-31.4"),
+        ("p", "&sect;32", "thag18.1:32.1-32.4"),
+        ("p", "&sect;33", "thag18.1:33.1-33.4"),
+        ("p", "&sect;34", "thag18.1:34.1-34.4"),
+        ("p", "&sect;35", "thag18.1:35.1-35.4"),
+        ("p", "&sect;36", "thag18.1:36.1-36.4"),
+        ("p", "&sect;37", "thag18.1:37.1-37.4"),
+        ("p", "&sect;38", "thag18.1:38.1-38.4"),
+        ("p", "&sect;39", "thag18.1:39.1-39.6"),
+        ("p", "&sect;40", "thag18.1:40.1-40.4"),
+    ],
+    quiz=[
+        {"q": "What does this site's own AN 1.188–197 already say about Mahākassapa?",
+         "opts": [
+             'That he is foremost among those who advocate austerities',
+             'That he is foremost in generosity',
+             'AN 1.188–197 does not mention him',
+             'That he is foremost in psychic power',
+         ],
+         "correct": 3,
+         "expl": 'This poem gives that reputation its fullest first-person portrait in the collection.'},
+        {"q": 'What does the poem warn against in its opening three verses?',
+         "opts": [
+             "Popularity and having a following — 'honor is a subtle dart, hard to extract'",
+             'Physical exhaustion',
+             'Speaking too much',
+             'Sensual pleasure',
+         ],
+         "correct": 0,
+         "expl": 'A distinctive concern with social prestige rather than the more common warning against sensuality.'},
+        {"q": "What happens in the poem's famous leper's-alms story (verses 4–6)?",
+         "opts": [
+             'Mahākassapa refuses alms from a leper',
+             "A leper's finger drops off while offering him a morsel of food, and Mahākassapa eats it without disgust",
+             'A leper is miraculously healed',
+             'The story does not appear in this poem',
+         ],
+         "correct": 1,
+         "expl": "'I did not feel any disgust while eating or afterwards.'"},
+        {"q": "What refrain closes the poem's extended nature-praise passage (verses 12–20)?",
+         "opts": [
+             'No refrain is used',
+             "'The Buddha is my refuge'",
+             "'These rocky crags delight me!'",
+             "'All is impermanent'",
+         ],
+         "correct": 2,
+         "expl": "One of this collection's most sustained passages of nature poetry."},
+        {"q": 'What image contrasts a restless mendicant in rag-robes with a restrained one in the same robes?',
+         "opts": [
+             'A comparison to different birds',
+             'A comparison to different seasons',
+             'No such contrast is made',
+             'A monkey in a lion skin, versus a lion in a mountain cave',
+         ],
+         "correct": 3,
+         "expl": "The identical outward practice, entirely different depending on what's inside it."},
+        {"q": 'What unexplained shift occurs in verses thirty-two through thirty-six?',
+         "opts": [
+             'A third-person scene of 10,000 gods honoring Sāriputta, with the elder Mahākappina smiling as he watches',
+             'A dialogue with the Buddha',
+             'A description of a different mountain',
+             'The poem simply ends early',
+         ],
+         "correct": 0,
+         "expl": "The poem offers no transition before returning to Mahākassapa's own voice in verse 37."},
+        {"q": 'What does verse thirty-seven state directly?',
+         "opts": [
+             'A claim to be foremost in wisdom',
+             "'I am distinguished in austerities. I have no equal, apart from the great sage himself'",
+             'A claim to be foremost in generosity',
+             'No specific claim is made',
+         ],
+         "correct": 1,
+         "expl": "Confirming, in his own words, this site's own AN 1.188–197 designation."},
+        {"q": "What legend does Sujato's comment on verse 11.4 add, not found in the poem itself?",
+         "opts": [
+             'That the mountain will disappear',
+             'No legend is mentioned',
+             "That Mahākassapa still sits in absorption on the mountain, waiting to give the Buddha's robe to the future Buddha Metteyya",
+             'That Mahākassapa will be reborn as a king',
+         ],
+         "correct": 2,
+         "expl": "The robe in question was received from the Buddha Gotama in this site's own SN 16.11, Robes."},
+        {"q": 'How much of the Book of the Forties does this single poem cover?',
+         "opts": [
+             'Half of the book',
+             "This is the book's closing poem among several",
+             'Only a small portion',
+             'The entire book — Mahākassapa is its sole poem',
+         ],
+         "correct": 3,
+         "expl": 'The smallest single-poem book completed so far, alongside Book 9, 11, and 13.'},
+        {"q": 'What does verse twenty-one claim about meditation compared to music?',
+         "opts": [
+             "That even a five-piece band's music can never give such pleasure as rightly discerning the Dhamma with a unified mind",
+             'That the two are equivalent',
+             'No comparison is made',
+             'That music is superior',
+         ],
+         "correct": 0,
+         "expl": 'Directly following the extended mountain-praise passage.'},
+    ],
+    marginalia=[
+        ("The whole book, in one poem", [
+            "forty verses, the Book of the Forties entire —",
+            "the fullest self-portrait of the ascetic"
+        ]),
+        ("A leper's morsel, eaten without disgust", [
+            "a finger drops off into the bowl —",
+            "'I did not feel any disgust'"
+        ]),
+        ("Rocky crags, delighting still", [
+            "nine verses, one refrain repeated —",
+            "elephants, peacocks, musk-rose garlands"
+        ]),
+        ("A robe kept waiting", [
+            "legend says he sits there yet —",
+            "for a Buddha not yet come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag18.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../samyutta-nikaya/sn-16.11.html">SN 16.11 &mdash; '
+        "Robes</a> &mdash; the discourse in which Mahākassapa "
+        "receives the robe the legend says he still guards, waiting "
+        "for the future Buddha.",
+        '<a href="../anguttara-nikaya/an-1.188-197.html">AN '
+        "1.188&ndash;197</a> &mdash; naming Mahākassapa foremost "
+        "among those who advocate austerities, the reputation this "
+        "poem confirms from the inside.",
+        '<a href="thag-10.3.html">Thag 10.3 &mdash; Mahākappina</a> '
+        "&mdash; the elder who appears smiling in this poem's "
+        "embedded third-person scene.",
+        '<a href="thag-17.3.html">Thag 17.3 &mdash; Ānanda</a> '
+        "&mdash; the closing poem of the previous book.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
