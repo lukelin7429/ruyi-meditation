@@ -4980,3 +4980,190 @@ page(
         "ahead of it.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 35.33-42 — Jātidhammādisuttadasaka
+# --------------------------------------------------------------------------- #
+page_range(
+    35, 33, 42, "Jātidhammādi", "Ten Discourses on Liable to Be Reborn, "
+    "Etc.",
+    vagga="Jātidhammavagga",
+    meta_title="SN 35.33-42 · Ten Discourses on Liable to Be Reborn, "
+                "Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 35.33 through "
+        "35.42 &mdash; Jātidhammavagga in its entirety, preserved in "
+        "bilara-data as a single file: one full worked example (all "
+        "is liable to be reborn) and nine one-line variants applying "
+        "the identical formula to old age, illness, death, sorrow, "
+        "corruption, ending, falling, originating, and ceasing. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "Ten discourses compressed by bilara-data into a "
+                 "single file &mdash; the entire vagga, not a "
+                 "sub-range &mdash; one full worked example followed "
+                 "by nine one-line substitutions"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single repeated frame, easy to follow once "
+                       "the compressed structure is recognized"),
+    ],
+    why=(
+        "This single file is Jātidhammavagga in its entirety &mdash; "
+        "Saḷāyatanasaṃyutta's own fourth vagga, and the first vagga "
+        "in this book whose bilara-data source merges its whole "
+        "ten-discourse content into one file rather than keeping each "
+        "discourse (Aniccavagga, Yamakavagga) or even each "
+        "sub-range (Sabbavagga's own narrative pair) separate. The "
+        "opening discourse, SN 35.33, declares that everything is "
+        "\"liable to be reborn\" (jātidhammaṁ) across the six sense "
+        "fields; the nine discourses that follow apply the identical "
+        "claim, one substituted quality at a time, to old age, "
+        "illness, death, sorrow, corruption, ending, falling, "
+        "originating, and ceasing."
+    ),
+    guide=[
+        ("One full worked example: liable to be reborn", [
+            "SN 35.33 opens with the standard six-sense-field "
+            "declaration: the eye, sights, eye consciousness, eye "
+            "contact, and the feeling that arises from eye contact "
+            "are all \"liable to be reborn\" &mdash; spelled out in "
+            "full for the eye, then again in full for the mind, "
+            "closing with this project's own familiar disillusionment-"
+            "to-liberation formula.",
+        ]),
+        ("Compressed further in translation than in the root", [
+            "The Pāli root text still spells out the tongue's own "
+            "full five-part chain (jivhā, rasā, jivhāviññāṇaṁ, "
+            "jivhāsamphasso, and the feeling it gives rise to) before "
+            "eliding the body &mdash; but Sujato's own English "
+            "rendering compresses the ear, nose, and tongue together "
+            "into a single line (\"The ear … nose … tongue …\"), "
+            "leaving only the eye and the mind actually spelled out "
+            "in the translation this project quotes, the same kind "
+            "of translator's-choice compression this project first "
+            "noticed at SN 30.17&ndash;46.",
+        ]),
+        ("Nine more qualities, one line each", [
+            "SN 35.34 through 35.42 each substitute a single word "
+            "into the identical frame &mdash; \"all is liable to grow "
+            "old … fall sick … die … sorrow … corruption … end … "
+            "fall … originate … cease\" &mdash; trusting the reader "
+            "to supply SN 35.33's own full six-sense-field elaboration "
+            "and closing formula for each.",
+        ]),
+        ("A colophon and uddāna left untranslated, as always", [
+            "The file closes with its own untranslated colophon, "
+            "\"Jātidhammavaggo catuttho\" (\"Jātidhammavagga is the "
+            "fourth\"), and an untranslated uddāna verse naming all "
+            "ten qualities in order &mdash; birth, aging, illness, "
+            "death, sorrow, and corruption; ending, falling, "
+            "originating, and, with cessation, the tenth &mdash; "
+            "matching the same guide-only treatment this project has "
+            "given every other vagga-closing colophon in Book IV.",
+        ]),
+    ],
+    terms=[
+        ("jātidhamma", "liable to be reborn &mdash; SN 35.33's own "
+                         "opening declaration, and this file's full "
+                         "worked example"),
+        ("jarādhamma", "liable to grow old &mdash; SN 35.34's own "
+                         "substituted quality, the second of ten"),
+        ("saṅkilesikadhamma", "liable to corruption &mdash; SN "
+                                "35.38's own substituted quality, the "
+                                "only one of the ten naming a moral "
+                                "rather than physical or emotional "
+                                "event"),
+        ("nirodhadhamma", "liable to cease &mdash; SN 35.42's own "
+                            "closing quality, sharing its root "
+                            "(nirodha) with the third noble truth"),
+        ("peyyāla", "an elision mark &mdash; here compressing nine of "
+                     "this file's ten discourses to a single "
+                     "substituted word each"),
+    ],
+    text_intro=("The complete merged file: SN 35.33's own full "
+        "worked example (eye and mind spelled out, the rest elided), "
+        "followed by SN 35.34 through 35.42's nine one-line "
+        "variants. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "SN 35.33 &mdash; liable to be reborn"),
+        ("p", "&sect;1", "sn35.33:1.1-1.9"),
+        ("p", "&sect;2", "sn35.33:1.10-1.17"),
+        ("p", "&sect;3", "sn35.33:1.18-1.19"),
+        ("h3", "SN 35.34-42 &mdash; nine more, one line each"),
+        ("p", "&sect;4", "sn35.34:1.1"),
+        ("p", "&sect;5", "sn35.35:1.1"),
+        ("p", "&sect;6", "sn35.36:1.1"),
+        ("p", "&sect;7", "sn35.37:1.1"),
+        ("p", "&sect;8", "sn35.38:1.1"),
+        ("p", "&sect;9", "sn35.39:1.1"),
+        ("p", "&sect;10", "sn35.40:1.1"),
+        ("p", "&sect;11", "sn35.41:1.1"),
+        ("p", "&sect;12", "sn35.42:1.1"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single file compress, and what's new about that for Book IV?",
+         "opts": ["All ten &mdash; the entire vagga, not a sub-range, unlike Aniccavagga, Yamakavagga, and Sabbavagga's own all-individual files",
+                  "Only two, with the other eight left unwritten", "Sixty, matching Saṭṭhipeyyālavagga's own later scale",
+                  "Five, split into two separate files"],
+         "correct": 0,
+         "expl": "The first vagga in this book whose bilara-data source merges its whole ten-discourse content into one file."},
+        {"q": "What does the one full worked example, SN 35.33, declare \"liable to\"?",
+         "opts": ["Being reborn (jātidhammaṁ), applied across the six sense fields", "Growing old", "Ceasing",
+                  "Nothing &mdash; SN 35.33 is itself only a one-line summary"],
+         "correct": 0,
+         "expl": "The frame every later discourse in this file will substitute a single word into."},
+        {"q": "Which sense fields are actually spelled out in full in the rendered English text of SN 35.33?",
+         "opts": ["The eye and the mind; the ear, nose, tongue, and body are all elided in translation",
+                  "All six, given in full", "Only the mind", "Only the eye and the ear"],
+         "correct": 0,
+         "expl": "Sujato's own English compresses the tongue's full root-Pāli chain along with the ear and nose, a translator's choice this project first noticed at SN 30.17–46."},
+        {"q": "What do SN 35.34 through 35.42 each do?",
+         "opts": ["Apply the identical formula to one more quality in a single compressed line each &mdash; old age, illness, death, sorrow, corruption, ending, falling, originating, and cessation",
+                  "Introduce nine entirely new discourse frames", "Repeat SN 35.33 word for word, nine more times",
+                  "Apply the formula only to the exterior sense objects"],
+         "correct": 0,
+         "expl": "Nine substitutions on SN 35.33's own frame, completing this vagga's own set of ten."},
+        {"q": "How does this file's closing colophon and uddāna get handled here, and why?",
+         "opts": ["Left untranslated and only described in the guide, since Sujato's own English leaves both blank, matching every other vagga-close in this project",
+                  "Quoted verbatim in English translation", "Omitted from the guide entirely", "Translated freshly for this reading guide"],
+         "correct": 0,
+         "expl": "The same guide-only treatment this project has given Aniccavaggo paṭhamo, Yamakavaggo dutiyo, and Sabbavaggo tatiyo."},
+    ],
+    marginalia=[
+        ("One file, one whole vagga", [
+            "ten discourses, no sub-range &mdash;",
+            "the smallest-grain vagga yet",
+        ]),
+        ("Eye and mind spelled out; the rest elided", [
+            "even the tongue, given in the root &mdash;",
+            "compressed away in translation",
+        ]),
+        ("Nine qualities, one line each", [
+            "old age, illness, death, sorrow &mdash;",
+            "corruption, ending, falling, arising, cessation",
+        ]),
+        ("A colophon left untranslated", [
+            "\"Jātidhammavaggo catuttho\" &mdash;",
+            "described here, not quoted verbatim",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.33-42/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.32.html">SN 35.32 &middot; The Practice '
+        "Conducive to Uprooting (2nd)</a> &mdash; the previous "
+        "discourse, closing Sabbavagga.",
+        '<a href="sn-36.6.html">SN 36.6 &middot; An Arrow</a> '
+        "&mdash; already published on this site, standing ahead of "
+        "this book's own next vagga, Sabbaaniccavagga (SN "
+        "35.43&ndash;52), not yet built.",
+    ],
+)
