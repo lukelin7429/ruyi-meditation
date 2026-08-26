@@ -56671,3 +56671,378 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thag 20.1 — Mahāmoggallāna
+# --------------------------------------------------------------------------- #
+page(
+    20, 1, "Mah&amacr;moggall&amacr;na", "Mah&amacr;moggall&amacr;na",
+    meta_title="Thag 20.1 — Mahāmoggallāna | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Mahāmoggallāna's verse, the sole poem of the Book of the "
+        "Sixties &mdash; the Buddha's other chief disciple, foremost "
+        "in psychic power, whose closing verses retell in full this "
+        "site's own MN 50, The Rebuke of Māra, and echo MN 49's "
+        "Brahmā story. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sixties &middot; Chapter One &middot; Poem 1 of 1 (the whole book)",
+    glance=[
+        ("Setting", "A composite spanning body-meditation, Māra's "
+                    "harassment, praise scenes, and a full confrontation "
+                    "with Māra"),
+        ("Speaker", "Mahāmoggallāna, mostly first-person, with several "
+                    "other voices quoted within"),
+        ("Form", "Sixty-nine verses, the entire Book of the Sixties in "
+                 "a single poem"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "long, with several distinct episodes"),
+    ],
+    why=(
+        "This site's own AN 1.188&ndash;197 already names Mahāmoggallāna "
+        "foremost in psychic power, &lsquo;the two chief disciples, "
+        "always named as a pair&rsquo; with Sāriputta. This poem's "
+        "closing section (from verse 48) retells, almost in full, this "
+        "site's own MN 50, The Rebuke of Māra &mdash; the famous "
+        "episode in which Moggallāna confronts Māra directly, warns "
+        "him with the story of Dūsī roasted in hell, and lists his own "
+        "psychic feats one by one &mdash; while an earlier episode "
+        "(verses 59&ndash;61) echoes this site's own MN 49, On the "
+        "Invitation of Brahmā, in which even a Brahmā admits his old "
+        "eternalist view no longer holds."),
+    guide=[
+        ("A composite of several distinct episodes", [
+            "Like this site's own Thag 17.2 (Sāriputta) and Thag 18.1 "
+            "(Mahākassapa), this poem moves through several separable "
+            "scenes rather than one continuous narrative: an opening "
+            "exhortation to fellow forest monks (1&ndash;4), a "
+            "confrontation with an unnamed attacker later revealed as "
+            "Māra (5&ndash;18), Sāriputta's death (19&ndash;20), "
+            "impermanence teachings (21&ndash;24), the famous "
+            "toe-shaking of Migāra's mother's palace (25), an embedded "
+            "scene defending Mahākassapa against a hostile brahmin "
+            "(26&ndash;36), praise of Sāriputta and then of Moggallāna "
+            "himself by 10,000 gods (37&ndash;47), and a full, direct "
+            "confrontation with Māra (48&ndash;69) closing the poem."]),
+        ("Disgust for the body, turned into a weapon against an attacker", [
+            "Verses five through eight give one of this collection's "
+            "most visceral body-disgust passages &mdash; &lsquo;you "
+            "sack of dung encased in skin! You demoness with horns on "
+            "your chest!&rsquo; &mdash; addressed not inward as "
+            "self-reflection but outward, at an unnamed attacker who "
+            "responds, tellingly, &lsquo;so it is, great hero!&rsquo; "
+            "Verses ten and eleven then reveal the confrontation's "
+            "true stakes: &lsquo;this mind is like the sky, serene "
+            "inside itself. Evil-minded one, don't attack me, you'll "
+            "end up like a moth in a mass of fire&rsquo; &mdash; the "
+            "poem's first hint that Moggallāna is being harassed by "
+            "Māra himself, a threat that returns and resolves fully "
+            "in the poem's closing section."]),
+        ("Sāriputta's death, echoing this collection's own recurring formula", [
+            "Verses nineteen and twenty record, in language nearly "
+            "identical to this site's own Thag 17.3 (Ānanda) "
+            "describing the Buddha's own death, the death of "
+            "Sāriputta: &lsquo;then there was terror! Then they had "
+            "goosebumps!... conditions are impermanent, their nature "
+            "is to rise and fall.&rsquo; Sāriputta and Moggallāna, "
+            "tradition holds, died within months of each other and "
+            "of the Buddha himself; this poem is the collection's "
+            "own record of that first loss."]),
+        ("Shaking a palace with a single toe", [
+            "Verse twenty-five states directly: &lsquo;urged by the "
+            "developed one, who bore his final body, I shook the "
+            "stilt longhouse of Migāra's mother with my big toe&rsquo; "
+            "&mdash; the same celebrated feat of psychic power told at "
+            "greater length in this site's own MN 37, The Shorter "
+            "Discourse on the Ending of Craving, where Moggallāna "
+            "uses it to test whether Sakka has understood the "
+            "Buddha's teaching. The poem's closing section (verse 53) "
+            "repeats the same feat almost verbatim."]),
+        ("An embedded scene defending Mahākassapa", [
+            "Verses twenty-seven through thirty-six shift, without "
+            "explanation, into a scene defending &lsquo;Kassapa&rsquo; "
+            "&mdash; this site's own already-completed Thag 18.1, "
+            "Mahākassapa &mdash; against a brahmin who values ritual "
+            "and lineage over attainment: &lsquo;even if someone were "
+            "to be born again and again a hundred times... a master of "
+            "the three Vedas: honoring such a person isn't worth a "
+            "sixteenth&rsquo; of honoring one who has attained the "
+            "eight liberations. &lsquo;Don't attack such a mendicant! "
+            "Don't ruin yourself, brahmin!&rsquo; A striking, obscure "
+            "line follows in the brahmin's dismissive reply &mdash; "
+            "naming someone called Poṭṭhila as &lsquo;consumed by "
+            "gain and honor... hollow&rsquo; &mdash; which this "
+            "reading guide presents as stated in the text without "
+            "asserting a specific identity behind the name."]),
+        ("Two mirrored homage scenes, echoing Mahākassapa's own poem", [
+            "Verses thirty-seven through forty-seven closely mirror "
+            "the embedded homage scene in this site's own Thag 18.1: "
+            "first praise of Sāriputta passing by (&lsquo;freed in "
+            "both ways, serene inside himself&rsquo;), then "
+            "10,000 gods honoring Moggallāna himself with the identical "
+            "formula (&lsquo;homage to you, O thoroughbred!&rsquo;), "
+            "and finally Moggallāna's own direct comparison of himself "
+            "to Sāriputta: &lsquo;Sāriputta is full of wisdom... but in "
+            "a moment I can create the likenesses of ten million times "
+            "100,000 people! I'm skilled in transformations; I'm a "
+            "master of psychic powers&rsquo; &mdash; the same "
+            "wisdom/psychic-power pairing already named in this site's "
+            "own AN 1.188&ndash;197."]),
+        ("A full confrontation with Māra, retelling MN 50 almost whole", [
+            "The poem's closing section (48&ndash;69) retells, nearly "
+            "verse for verse, this site's own MN 50, The Rebuke of "
+            "Māra: the story of Dūsī, a Māra of a past age, roasted "
+            "in a hundred-spiked hell for attacking the disciple "
+            "Vidhura under the Buddha Kakusandha; a refrain warning "
+            "the current Māra, &lsquo;Dark One, if you attack a "
+            "mendicant who directly knows this, you'll fall into "
+            "suffering&rsquo;, repeated after each of Moggallāna's own "
+            "psychic feats &mdash; shaking Migāra's mother's palace, "
+            "shaking Sakka's Palace of Victory, questioning Sakka "
+            "directly, and (verses 59&ndash;61) questioning a Brahmā "
+            "in the Hall of Clear Right, who admits, &lsquo;I don't "
+            "have that view that I had in the past... how could I say "
+            "today that I am permanent and eternal?&rsquo;, closely "
+            "echoing this site's own MN 49, On the Invitation of "
+            "Brahmā. The poem closes on a fire simile: &lsquo;attacking "
+            "the Realized One, you'll only burn yourself, like a fool "
+            "touching the flames&rsquo;, and a narrator's note that "
+            "Māra, downcast, &lsquo;disappeared right there.&rsquo;"]),
+    ],
+    terms=[
+        ("aggikhandhaṁva pakkhimā",
+         "&ldquo;like a moth in a mass of fire&rdquo; &mdash; "
+         "Moggallāna's early warning to his unnamed attacker, later "
+         "revealed to be Māra."),
+        ("migāramātupāsādaṁ pādaṅguṭṭhena kampayiṁ",
+         "&ldquo;I shook the stilt longhouse of Migāra's mother with "
+         "my big toe&rdquo; &mdash; the feat of psychic power told at "
+         "greater length in this site's own MN 37."),
+        ("dussī apaccatha",
+         "&ldquo;Dūsī was roasted&rdquo; &mdash; the past Māra whose "
+         "fate warns the present Māra, retold from this site's own "
+         "MN 50."),
+        ("kaṇha dukkhaṁ nigacchasi",
+         "&ldquo;Dark One... you'll fall into suffering&rdquo; "
+         "&mdash; the refrain warning Māra, repeated after each of "
+         "Moggallāna's psychic feats."),
+        ("vikubbanāsu kusalo",
+         "&ldquo;skilled in transformations&rdquo; &mdash; "
+         "Moggallāna's own claim to psychic mastery, matching this "
+         "site's own AN 1.188&ndash;197."),
+    ],
+    text_intro=(
+        "The text in full: sixty-nine verses, the entire Book of the "
+        "Sixties in a single poem, with a peyyāla abbreviation "
+        "repeating the &lsquo;Dark One&rsquo; refrain across several "
+        "verses (reconstructed in English regardless). Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag20.1:1.1-1.4"),
+        ("p", "&sect;2", "thag20.1:2.1-2.4"),
+        ("p", "&sect;3", "thag20.1:3.1-3.4"),
+        ("p", "&sect;4", "thag20.1:4.1-4.4"),
+        ("p", "&sect;5", "thag20.1:5.1-5.4"),
+        ("p", "&sect;6", "thag20.1:6.1-6.4"),
+        ("p", "&sect;7", "thag20.1:7.1-7.4"),
+        ("p", "&sect;8", "thag20.1:8.1-8.4"),
+        ("p", "&sect;9", "thag20.1:9.1-9.4"),
+        ("p", "&sect;10", "thag20.1:10.1-10.4"),
+        ("p", "&sect;11", "thag20.1:11.1-11.4"),
+        ("p", "&sect;12", "thag20.1:12.1-12.4"),
+        ("p", "&sect;13", "thag20.1:13.1-13.4"),
+        ("p", "&sect;14", "thag20.1:14.1-14.4"),
+        ("p", "&sect;15", "thag20.1:15.1-15.4"),
+        ("p", "&sect;16", "thag20.1:16.1-16.4"),
+        ("p", "&sect;17", "thag20.1:17.1-17.4"),
+        ("p", "&sect;18", "thag20.1:18.1-18.4"),
+        ("p", "&sect;19", "thag20.1:19.1-19.4"),
+        ("p", "&sect;20", "thag20.1:20.1-20.4"),
+        ("p", "&sect;21", "thag20.1:21.1-21.4"),
+        ("p", "&sect;22", "thag20.1:22.1-22.4"),
+        ("p", "&sect;23", "thag20.1:23.1-23.4"),
+        ("p", "&sect;24", "thag20.1:24.1-24.4"),
+        ("p", "&sect;25", "thag20.1:25.1-25.4"),
+        ("p", "&sect;26", "thag20.1:26.1-26.4"),
+        ("p", "&sect;27", "thag20.1:27.1-27.4"),
+        ("p", "&sect;28", "thag20.1:28.1-28.4"),
+        ("p", "&sect;29", "thag20.1:29.1-29.4"),
+        ("p", "&sect;30", "thag20.1:30.1-30.4"),
+        ("p", "&sect;31", "thag20.1:31.1-31.4"),
+        ("p", "&sect;32", "thag20.1:32.1-32.4"),
+        ("p", "&sect;33", "thag20.1:33.1-33.4"),
+        ("p", "&sect;34", "thag20.1:34.1-34.6"),
+        ("p", "&sect;35", "thag20.1:35.1-35.4"),
+        ("p", "&sect;36", "thag20.1:36.1-36.4"),
+        ("p", "&sect;37", "thag20.1:37.1-37.4"),
+        ("p", "&sect;38", "thag20.1:38.1-38.4"),
+        ("p", "&sect;39", "thag20.1:39.1-39.6"),
+        ("p", "&sect;40", "thag20.1:40.1-40.4"),
+        ("p", "&sect;41", "thag20.1:41.1-41.4"),
+        ("p", "&sect;42", "thag20.1:42.1-42.4"),
+        ("p", "&sect;43", "thag20.1:43.1-43.4"),
+        ("p", "&sect;44", "thag20.1:44.1-44.4"),
+        ("p", "&sect;45", "thag20.1:45.1-45.4"),
+        ("p", "&sect;46", "thag20.1:46.1-46.4"),
+        ("p", "&sect;47", "thag20.1:47.1-47.4"),
+        ("p", "&sect;48", "thag20.1:48.1-48.4"),
+        ("p", "&sect;49", "thag20.1:49.1-49.6"),
+        ("p", "&sect;50", "thag20.1:50.1-50.4"),
+        ("p", "&sect;51", "thag20.1:51.1-51.6"),
+        ("p", "&sect;52", "thag20.1:52.1-52.4"),
+        ("p", "&sect;53", "thag20.1:53.1-53.4"),
+        ("p", "&sect;54", "thag20.1:54.1-54.4"),
+        ("p", "&sect;55", "thag20.1:55.1-55.4"),
+        ("p", "&sect;56", "thag20.1:56.1-56.4"),
+        ("p", "&sect;57", "thag20.1:57.1-57.6"),
+        ("p", "&sect;58", "thag20.1:58.1-58.4"),
+        ("p", "&sect;59", "thag20.1:59.1-59.6"),
+        ("p", "&sect;60", "thag20.1:60.1-60.4"),
+        ("p", "&sect;61", "thag20.1:61.1-61.4"),
+        ("p", "&sect;62", "thag20.1:62.1-62.4"),
+        ("p", "&sect;63", "thag20.1:63.1-63.4"),
+        ("p", "&sect;64", "thag20.1:64.1-64.4"),
+        ("p", "&sect;65", "thag20.1:65.1-65.4"),
+        ("p", "&sect;66", "thag20.1:66.1-66.4"),
+        ("p", "&sect;67", "thag20.1:67.1-67.4"),
+        ("p", "&sect;68", "thag20.1:68.1-68.4"),
+        ("p", "&sect;69", "thag20.1:69.1-69.4"),
+    ],
+    quiz=[
+        {"q": "What does this site's own AN 1.188–197 already say about Mahāmoggallāna?",
+         "opts": [
+             'That he is foremost in psychic power, the two chief disciples always named as a pair with Sāriputta',
+             'That he is foremost in generosity',
+             'AN 1.188–197 does not mention him',
+             'That he is foremost in wisdom',
+         ],
+         "correct": 3,
+         "expl": "This poem's closing section confirms the reputation with an extended retelling of MN 50."},
+        {"q": 'What does verse twenty-five describe?',
+         "opts": [
+             "Shaking the stilt longhouse of Migāra's mother with his big toe, urged by the Buddha",
+             'A dispute with another monk',
+             'A description of a mountain',
+             'A meal offered by a householder',
+         ],
+         "correct": 0,
+         "expl": "The same feat told at greater length in this site's own MN 37, and repeated again in the poem's closing section."},
+        {"q": "What event do verses nineteen and twenty record, in language echoing this site's own Thag 17.3?",
+         "opts": [
+             'A minor illness',
+             "Sāriputta's death — 'then there was terror! Then they had goosebumps!'",
+             'A festival',
+             'No specific event is recorded',
+         ],
+         "correct": 1,
+         "expl": 'Sāriputta and Moggallāna died within months of each other and of the Buddha himself.'},
+        {"q": 'What does the embedded scene in verses 27–36 defend?',
+         "opts": [
+             'A defense of Sāriputta',
+             'Nothing in particular',
+             "Mahākassapa (this site's own Thag 18.1), against a brahmin who values ritual and lineage over attainment",
+             'A dispute about food',
+         ],
+         "correct": 2,
+         "expl": "Mirroring the embedded homage scene in Mahākassapa's own poem, but in reverse."},
+        {"q": "What does verse forty-four claim about Moggallāna's own psychic ability?",
+         "opts": [
+             'That he can only levitate briefly',
+             'No specific claim is made',
+             'That he has no special ability',
+             'That in a moment he can create the likenesses of ten million times 100,000 people',
+         ],
+         "correct": 3,
+         "expl": "Directly following a comparison to Sāriputta's foremost wisdom, matching AN 1.188–197's pairing of the two chief disciples."},
+        {"q": "What does the poem's closing section (48–69) retell almost in full?",
+         "opts": [
+             "This site's own MN 50, The Rebuke of Māra",
+             'A story about a king',
+             'Nothing from elsewhere on this site',
+             'A story from the Jātaka',
+         ],
+         "correct": 0,
+         "expl": "Including the story of Dūsī, a past Māra roasted in hell for attacking the Buddha Kakusandha's disciple Vidhura."},
+        {"q": "What refrain repeats after each of Moggallāna's psychic feats in the poem's closing section?",
+         "opts": [
+             'A blessing for long life',
+             "'Dark One, if you attack a mendicant who directly knows this, you'll fall into suffering'",
+             'A request for alms',
+             'No refrain is used',
+         ],
+         "correct": 1,
+         "expl": 'Directed at Māra throughout the confrontation.'},
+        {"q": "What does the Brahmā in verses 59–61 admit, echoing this site's own MN 49?",
+         "opts": [
+             'Nothing is admitted',
+             'That he has always known impermanence',
+             "That he no longer holds the eternalist view he once had — 'how could I say today that I am permanent and eternal?'",
+             "That he disagrees with the Buddha's teaching",
+         ],
+         "correct": 2,
+         "expl": 'Directly echoing the Baka Brahmā story told at greater length in MN 49, On the Invitation of Brahmā.'},
+        {"q": "What simile closes the poem's confrontation with Māra?",
+         "opts": [
+             'A comparison to a falling tree',
+             'No simile is used',
+             'A comparison to a river',
+             'A fool who attacks a fire only burns himself',
+         ],
+         "correct": 3,
+         "expl": 'Warning Māra that attacking the Realized One only harms the attacker.'},
+        {"q": "How does the poem's narrator close the confrontation with Māra?",
+         "opts": [
+             'Māra, downcast, disappeared right there in the Bhesakaḷā grove',
+             'The confrontation continues indefinitely',
+             'No resolution is given',
+             'Māra converts and becomes a disciple',
+         ],
+         "correct": 0,
+         "expl": "A brief narrator's note closing this collection's most extended direct confrontation with Māra."},
+    ],
+    marginalia=[
+        ("The whole book, one long poem", [
+            "sixty-nine verses, several scenes in one —",
+            "mirrored praise for both chief disciples"
+        ]),
+        ("A toe against a palace", [
+            "shaking Migāra's mother's longhouse —",
+            "the same feat, told twice within one poem"
+        ]),
+        ("Dūsī, roasted for an old attack", [
+            "a hundred spikes, each uniquely painful —",
+            "the warning Māra hears and heeds at last"
+        ]),
+        ("A fire that burns the fool who touches it", [
+            "attack the Realized One, burn only yourself —",
+            "downcast, Māra disappears right there"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag20.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-050.html">MN 50 &mdash; The '
+        "Rebuke of Māra</a> &mdash; the fuller prose account this "
+        "poem's closing section retells almost in full.",
+        '<a href="../majjhima-nikaya/mn-049.html">MN 49 &mdash; On the '
+        "Invitation of Brahmā</a> &mdash; echoed by this poem's "
+        "Brahmā episode in verses 59&ndash;61.",
+        '<a href="../majjhima-nikaya/mn-037.html">MN 37 &mdash; The '
+        "Shorter Discourse on the Ending of Craving</a> &mdash; the "
+        "fuller story behind this poem's famous toe-shaking feat.",
+        '<a href="../anguttara-nikaya/an-1.188-197.html">AN '
+        "1.188&ndash;197</a> &mdash; naming Mahāmoggallāna foremost "
+        "in psychic power.",
+        '<a href="thag-18.1.html">Thag 18.1 &mdash; Mahākassapa</a> '
+        "&mdash; the elder defended in this poem's embedded scene.",
+        '<a href="thag-19.1.html">Thag 19.1 &mdash; Tālapuṭa</a> '
+        "&mdash; the closing poem of the previous book.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
