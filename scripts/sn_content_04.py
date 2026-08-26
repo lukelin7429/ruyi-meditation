@@ -5538,3 +5538,1544 @@ page(
         "not yet built.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 35.53 — Avijjāpahānasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 53, "Avijjāpahāna", "Giving Up Ignorance",
+    vagga="Avijjāvagga",
+    meta_title="SN 35.53 — Giving Up Ignorance | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Avijjāpahānasutta &mdash; opening Avijjāvagga, "
+        "Saḷāyatanasaṃyutta's own sixth vagga, with the six sense "
+        "fields' impermanence tied directly to knowledge replacing "
+        "ignorance. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "An unnamed mendicant questioning the Buddha"),
+        ("Form", "A question-and-answer opening this vagga, then the "
+                 "standard sixfold sense-field sweep &mdash; closing "
+                 "on knowledge replacing ignorance rather than the "
+                 "usual liberation formula"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the same six-field chain as Aniccavagga, "
+                       "redirected toward a new closing claim"),
+    ],
+    why=(
+        "This discourse opens Avijjāvagga (\"Ignorance\"), "
+        "Saḷāyatanasaṃyutta's own sixth vagga (SN 35.53&ndash;62) "
+        "&mdash; and, as its own vagga colophon at SN 35.62 will "
+        "later confirm, the first vagga of this saṃyutta's own "
+        "second paṇṇāsaka, its own second fifty discourses, "
+        "following directly on Sabbaaniccavagga's close of the first "
+        "fifty at SN 35.52. Where Aniccavagga's own opening discourse "
+        "(SN 35.1) closed on the full disillusionment-to-liberation "
+        "formula, this discourse closes on something narrower and "
+        "more epistemic: not liberation itself, but the exchange of "
+        "ignorance (avijjā) for knowledge (vijjā) &mdash; the single "
+        "move this vagga's own remaining nine discourses will vary "
+        "across three further targets (fetters, defilements, "
+        "underlying tendencies) before pivoting, in its own final "
+        "three discourses, to a second formula built on grasping "
+        "(upādāna) instead."
+    ),
+    guide=[
+        ("A mendicant's own question opens the vagga", [
+            "An unnamed mendicant approaches the Buddha and asks how "
+            "one knows and sees so that ignorance is given up and "
+            "knowledge arises &mdash; this vagga's own opening move, "
+            "a question rather than an unprompted declaration.",
+        ]),
+        ("Six sense fields, one shared closing claim", [
+            "The same sixfold sweep this project has already traced "
+            "across Aniccavagga applies here: eye, sights, eye "
+            "consciousness, eye contact, and the feeling that arises "
+            "from it, then the same set for ear, nose, tongue, body, "
+            "and mind &mdash; but every instance closes not on "
+            "suffering or not-self, but on ignorance given up and "
+            "knowledge arising.",
+        ]),
+        ("Impermanence is this discourse's own lens", [
+            "\"Aniccato jānato passato\" &mdash; knowing and seeing "
+            "as impermanent &mdash; is the mode this discourse "
+            "specifies throughout. This project will trace, "
+            "beginning at SN 35.55, how this vagga's later "
+            "\"uprooting\" discourses switch this same lens to "
+            "not-self instead.",
+        ]),
+        ("The pattern this vagga is about to vary", [
+            "Ignorance stands alone here, without a matching "
+            "\"uprooting\" companion discourse &mdash; but the three "
+            "targets that follow (fetters, defilements, underlying "
+            "tendencies) will each receive both a \"giving up\" and "
+            "an \"uprooting\" discourse in turn, this vagga's own "
+            "structural design now beginning to unfold.",
+        ]),
+    ],
+    terms=[
+        ("avijjā", "ignorance &mdash; this vagga's own name and "
+                    "opening target, given up rather than uprooted "
+                    "here"),
+        ("vijjā", "knowledge, true knowledge &mdash; the state this "
+                    "discourse pairs with ignorance's own ending"),
+        ("pahāna", "giving up, abandoning &mdash; the gentler of two "
+                    "verbs this vagga applies to its four targets, "
+                    "this discourse's own verb"),
+        ("samugghāta", "uprooting, complete extraction &mdash; the "
+                        "more thorough companion verb this vagga "
+                        "will apply beginning at SN 35.55"),
+        ("aniccato", "as impermanent &mdash; the mode of knowing and "
+                      "seeing this discourse specifies throughout"),
+    ],
+    text_intro=("The complete discourse: a mendicant's question and "
+        "the Buddha's own sixfold answer, closing not on liberation "
+        "but on knowledge replacing ignorance. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.53:1.1-1.3"),
+        ("p", "&sect;2", "sn35.53:2.1-2.5"),
+        ("p", "&sect;3", "sn35.53:2.6"),
+        ("p", "&sect;4", "sn35.53:2.7"),
+        ("p", "&sect;5", "sn35.53:2.8"),
+        ("p", "&sect;6", "sn35.53:2.9"),
+        ("p", "&sect;7", "sn35.53:2.10-2.14"),
+        ("p", "&sect;8", "sn35.53:2.15"),
+    ],
+    quiz=[
+        {"q": "What does the mendicant ask the Buddha at the start of this discourse?",
+         "opts": ["How one knows and sees so that ignorance is given up and knowledge arises",
+                  "How to attain stream-entry", "How to enter the four jhānas", "How to identify the five aggregates"],
+         "correct": 0,
+         "expl": "This vagga's own opening question, answered with the standard sixfold sweep."},
+        {"q": "What does this discourse's answer apply, identically, to all six sense fields?",
+         "opts": ["Knowing and seeing each field, and what arises from it, as impermanent",
+                  "A vow of silence", "A description of the four jhānas", "A list of past Buddhas"],
+         "correct": 0,
+         "expl": "Aniccato jānato passato — knowing and seeing as impermanent — this discourse's own lens."},
+        {"q": "What replaces the usual disillusionment-to-liberation formula at this discourse's close?",
+         "opts": ["A direct statement that ignorance is given up and knowledge arises",
+                  "A declaration that rebirth is ended", "A dedication of merit", "Nothing — the discourse ends mid-sentence"],
+         "correct": 0,
+         "expl": "Narrower and more epistemic than Aniccavagga's own closing formula."},
+        {"q": "What position does this discourse's own vagga occupy within Saḷāyatanasaṃyutta, confirmed later at SN 35.62?",
+         "opts": ["The first vagga of the saṃyutta's own second paṇṇāsaka, following Sabbaaniccavagga's close of the first fifty",
+                  "The final vagga of the entire saṃyutta", "The first vagga of the entire saṃyutta", "A vagga outside any paṇṇāsaka"],
+         "correct": 0,
+         "expl": "Confirmed by this vagga's own closing colophon at SN 35.62, \"Avijjāvaggo paṭhamo.\""},
+        {"q": "Which two verbs will this vagga apply to its remaining three targets (fetters, defilements, underlying tendencies)?",
+         "opts": ["Pahāna (giving up) and samugghāta (uprooting)", "Pariññā (understanding) and pariyādāna (depletion)",
+                  "Nibbāna (extinguishment) and vimutti (freedom)", "Bhāvanā (development) and pahāna (giving up) only"],
+         "correct": 0,
+         "expl": "Each of the three later targets receives both a gentler and a more thorough companion discourse."},
+    ],
+    marginalia=[
+        ("A question opens the vagga", [
+            "a mendicant asks &mdash;",
+            "how ignorance itself is given up",
+        ]),
+        ("Six fields, one lens throughout", [
+            "eye through mind, unchanged &mdash;",
+            "aniccato, as impermanent",
+        ]),
+        ("Knowledge in ignorance's place", [
+            "not liberation, here &mdash;",
+            "vijjā arising where avijjā stood",
+        ]),
+        ("Two verbs still to come", [
+            "pahāna given, now &mdash;",
+            "samugghāta waits at 35.55",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.53/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.52.html">SN 35.52 &middot; The Vagga’s Own '
+        "First Fifty, Complete</a> &mdash; the previous discourse, "
+        "closing Sabbaaniccavagga and Saḷāyatanasaṃyutta's own first "
+        "fifty.",
+        '<a href="sn-35.54.html">SN 35.54 &middot; Giving Up '
+        "Fetters</a> &mdash; the next discourse, substituting a new "
+        "target on this discourse's own template.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.54 — Saṁyojanappahānasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 54, "Saṁyojanappahāna", "Giving Up Fetters",
+    vagga="Avijjāvagga",
+    meta_title="SN 35.54 — Giving Up Fetters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saṁyojanappahānasutta &mdash; this vagga's second "
+        "discourse, substituting the fetters for ignorance in SN "
+        "35.53's own template. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "An unnamed mendicant questioning the Buddha"),
+        ("Form", "A single substitution on SN 35.53's own template "
+                 "&mdash; the fetters (saṁyojanā) replacing ignorance "
+                 "as what's given up &mdash; compressed by Sujato's "
+                 "own English into one collapsed sentence"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a direct single-word substitution on the "
+                       "discourse immediately before it"),
+    ],
+    why=(
+        "Where SN 35.53 established this vagga's own opening "
+        "template &mdash; knowing and seeing the six sense fields as "
+        "impermanent, closing on a stated result rather than the "
+        "standard liberation formula &mdash; this discourse simply "
+        "substitutes a new target: the fetters (saṁyojanā) in place "
+        "of ignorance (avijjā). Sujato's own English translation "
+        "compresses the entire sixfold sweep into a single sentence "
+        "marked with an ellipsis, trusting the reader to supply the "
+        "same six-field pattern SN 35.53 just spelled out in full "
+        "&mdash; the \"template established, then assumed\" move "
+        "this project has already traced repeatedly across Book "
+        "IV's own vaggas."
+    ),
+    guide=[
+        ("One word changes; the chain does not", [
+            "The same aniccato (as impermanent) lens carries over "
+            "unchanged from SN 35.53 &mdash; only the target noun "
+            "changes, from avijjā to saṁyojanā.",
+        ]),
+        ("Sujato's own English compresses what the Pali root still spells out", [
+            "Unlike some later discourses in this vagga, the Pali "
+            "root here still writes out the full six-field chain "
+            "across seventeen segments; only Sujato's own English "
+            "translation collapses it into a single sentence with an "
+            "ellipsis, extending the \"root fuller than translation\" "
+            "pattern this project already met at SN 35.33.",
+        ]),
+        ("A pattern of pairs begins", [
+            "Unlike avijjā, the fetters will receive a second, "
+            "companion discourse immediately following &mdash; SN "
+            "35.55, applying \"uprooting\" rather than \"giving up\" "
+            "to the same target.",
+        ]),
+    ],
+    terms=[
+        ("saṁyojana", "fetter &mdash; the target substituted in for "
+                        "avijjā here, this discourse's own subject"),
+        ("pahāna", "giving up &mdash; the same verb carried over "
+                    "from SN 35.53"),
+        ("aniccato", "as impermanent &mdash; the unchanged lens "
+                      "this discourse retains from SN 35.53"),
+        ("avijjā", "ignorance &mdash; this vagga's own opening "
+                    "target, absent from this discourse"),
+        ("peyyāla", "formula-repetition &mdash; the elision mark "
+                     "Sujato's own English uses to abbreviate this "
+                     "discourse's own sixfold sweep"),
+    ],
+    text_intro=("The complete discourse, as Sujato's own English "
+        "gives it: the question, and a single collapsed sentence "
+        "carrying the answer, its ellipsis marking the six-field "
+        "sweep SN 35.53 already spelled out in full. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.54:1.1"),
+        ("p", "&sect;2", "sn35.54:1.2-1.16"),
+    ],
+    quiz=[
+        {"q": "What single change does this discourse make to SN 35.53's own template?",
+         "opts": ["The fetters (saṁyojanā) replace ignorance as what's given up", "Not-self replaces impermanence as the lens",
+                  "The setting moves from Sāvatthī to Rājagaha", "A new speaker replaces the mendicant"],
+         "correct": 0,
+         "expl": "The chain and its aniccato lens carry over unchanged; only the target noun changes."},
+        {"q": "What does Sujato's own English translation do with the sixfold sense-field sweep here?",
+         "opts": ["Compresses it into a single sentence marked with an ellipsis", "Spells it out in full, exactly as SN 35.53 does",
+                  "Omits the discourse's own answer entirely", "Translates it into verse"],
+         "correct": 0,
+         "expl": "The reader is trusted to supply SN 35.53's own full pattern."},
+        {"q": "Does the Pali root itself also compress the sixfold sweep here?",
+         "opts": ["No — the root spells it out in full across seventeen segments; only the English translation compresses it",
+                  "Yes — both root and translation compress it equally", "The root compresses it even further than the translation",
+                  "The root omits the sixfold sweep entirely"],
+         "correct": 0,
+         "expl": "The same \"root fuller than translation\" divergence this project already met at SN 35.33."},
+        {"q": "What discourse immediately follows, completing the fetters' own pair?",
+         "opts": ["SN 35.55, applying \"uprooting\" rather than \"giving up\" to the same target",
+                  "SN 35.56, moving on to defilements", "SN 35.1, returning to Aniccavagga", "No companion discourse follows"],
+         "correct": 0,
+         "expl": "Unlike ignorance, the fetters receive both a giving-up and an uprooting discourse."},
+        {"q": "What lens (mode of knowing and seeing) does this discourse retain from SN 35.53?",
+         "opts": ["Aniccato, “as impermanent”", "Anattato, “as not-self”",
+                  "Dukkhato, “as suffering”", "No lens is specified"],
+         "correct": 0,
+         "expl": "The switch to anattato begins only at SN 35.55, this vagga's first uprooting discourse."},
+    ],
+    marginalia=[
+        ("One word swapped in", [
+            "fetters, not ignorance &mdash;",
+            "the same chain, a new target",
+        ]),
+        ("English compresses; Pali does not", [
+            "seventeen segments in the root &mdash;",
+            "one collapsed sentence in translation",
+        ]),
+        ("A companion piece waits", [
+            "giving up, here &mdash;",
+            "uprooting follows next",
+        ]),
+        ("The lens, unchanged", [
+            "aniccato still &mdash;",
+            "as impermanent, as before",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.54/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.53.html">SN 35.53 &middot; Giving Up '
+        "Ignorance</a> &mdash; the previous discourse, this vagga's "
+        "own opening template.",
+        '<a href="sn-35.55.html">SN 35.55 &middot; Uprooting the '
+        "Fetters</a> &mdash; the next discourse, completing this "
+        "target's own pair.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.55 — Saṁyojanasamugghātasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 55, "Saṁyojanasamugghāta", "Uprooting the Fetters",
+    vagga="Avijjāvagga",
+    meta_title="SN 35.55 — Uprooting the Fetters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saṁyojanasamugghātasutta &mdash; the fetters uprooted "
+        "rather than merely given up, and the lens shifting from "
+        "impermanence to not-self. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "An unnamed mendicant questioning the Buddha"),
+        ("Form", "A second substitution on SN 35.53's own template, "
+                 "pairing with SN 35.54 &mdash; but changing two "
+                 "things at once, not one"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the verb changes and, with it, the lens "
+                       "itself changes; easy to read past both "
+                       "shifts at once"),
+    ],
+    why=(
+        "This discourse completes the fetters' own pair, begun at "
+        "SN 35.54: where that discourse asked how the fetters are "
+        "given up (pahīyati), this one asks how they are uprooted "
+        "(samugghātaṁ gacchanti) &mdash; a stronger, more complete "
+        "removal than mere abandonment. The shift is not only in the "
+        "verb: this discourse's own lens changes too, from aniccato "
+        "(as impermanent, SN 35.53 and SN 35.54's own shared lens) "
+        "to anattato (as not-self) &mdash; the first confirmation, "
+        "within this vagga, that “giving up” runs on "
+        "impermanence while “uprooting” runs on not-self, "
+        "a distinction this vagga's own remaining pahāna/samugghāta "
+        "pairs (defilements, underlying tendencies) will repeat."
+    ),
+    guide=[
+        ("Two changes at once, not one", [
+            "This discourse doesn't merely swap in a new verb; it "
+            "swaps the lens as well, moving from aniccato to "
+            "anattato in the same stroke as pahāna gives way to "
+            "samugghāta.",
+        ]),
+        ("Giving up sees impermanence; uprooting sees not-self", [
+            "This is the first place in Avijjāvagga where the "
+            "distinction becomes visible: the gentler removal "
+            "(pahāna) is reached by seeing impermanence, while the "
+            "more thorough removal (samugghāta) requires seeing "
+            "not-self instead &mdash; a real content difference this "
+            "vagga's own remaining pairs will confirm again.",
+        ]),
+        ("Compressed exactly like its companion", [
+            "Sujato's own English collapses this discourse into a "
+            "single sentence with an ellipsis, exactly as it did for "
+            "SN 35.54, even though (as with SN 35.54) the Pali root "
+            "still spells out the full six-field chain.",
+        ]),
+    ],
+    terms=[
+        ("samugghāta", "uprooting &mdash; this discourse's own verb, "
+                        "the more thorough companion to pahāna"),
+        ("anattato", "as not-self &mdash; the lens this discourse "
+                      "introduces in place of aniccato"),
+        ("saṁyojana", "fetter &mdash; carried over from SN 35.54, "
+                        "this pair's own shared target"),
+        ("aniccato", "as impermanent &mdash; SN 35.53 and SN 35.54's "
+                      "own shared lens, named here for contrast"),
+        ("pahāna", "giving up &mdash; the gentler companion verb, "
+                    "SN 35.54's own"),
+    ],
+    text_intro=("The complete discourse, as Sujato's own English "
+        "gives it: the question, and a single collapsed sentence "
+        "carrying the answer, its lens now shifted to not-self. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.55:1.1"),
+        ("p", "&sect;2", "sn35.55:1.2-1.16"),
+    ],
+    quiz=[
+        {"q": "What verb does this discourse use for the fetters' removal, in place of SN 35.54's “given up”?",
+         "opts": ["Uprooted (samugghāta)", "Understood (pariññā)", "Depleted (pariyādāna)", "Abandoned (cāga)"],
+         "correct": 0,
+         "expl": "A stronger, more complete removal than SN 35.54's own pahāna."},
+        {"q": "What lens does this discourse specify, in place of SN 35.53 and SN 35.54's shared “as impermanent”?",
+         "opts": ["As not-self (anattato)", "As suffering (dukkhato)", "As empty (suññato)", "No lens is specified"],
+         "correct": 0,
+         "expl": "The first confirmed instance of this vagga's own giving-up/uprooting, impermanence/not-self pairing."},
+        {"q": "What pattern does this shift establish for the rest of this vagga?",
+         "opts": ["Giving up runs on impermanence; uprooting runs on not-self", "Giving up runs on not-self; uprooting runs on impermanence",
+                  "Both verbs always use the same lens", "No consistent pattern emerges"],
+         "correct": 0,
+         "expl": "Confirmed again at this vagga's later defilement and underlying-tendency pairs."},
+        {"q": "Which discourse does this one complete a pair with?",
+         "opts": ["SN 35.54", "SN 35.53", "SN 35.56", "SN 35.60"],
+         "correct": 0,
+         "expl": "Both discourses share the fetters (saṁyojanā) as their own target."},
+        {"q": "How does Sujato's own English translation present the sixfold sense-field sweep here?",
+         "opts": ["Compressed into a single collapsed sentence, exactly as SN 35.54's own translation is",
+                  "Spelled out in full, unlike SN 35.54", "Omitted from the translation entirely", "Rendered only in Pali, untranslated"],
+         "correct": 0,
+         "expl": "Both fetter discourses receive the same English-side compression, even as the root retains the full chain."},
+    ],
+    marginalia=[
+        ("Given up becomes uprooted", [
+            "pahāna to samugghāta &mdash;",
+            "a stronger removal, named",
+        ]),
+        ("The lens itself shifts", [
+            "aniccato to anattato &mdash;",
+            "impermanence gives way to not-self",
+        ]),
+        ("A rule this vagga will repeat", [
+            "giving up sees impermanence &mdash;",
+            "uprooting sees not-self",
+        ]),
+        ("Same compression as before", [
+            "one collapsed sentence, again &mdash;",
+            "the root still spells it out",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.55/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.54.html">SN 35.54 &middot; Giving Up '
+        "Fetters</a> &mdash; the previous discourse, this pair's "
+        "own gentler half.",
+        '<a href="sn-35.56.html">SN 35.56 &middot; Giving Up '
+        "Defilements</a> &mdash; the next discourse, moving to a "
+        "third target.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.56 — Āsavapahānasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 56, "Āsavapahāna", "Giving Up Defilements",
+    vagga="Avijjāvagga",
+    meta_title="SN 35.56 — Giving Up Defilements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for the "
+        "Āsavapahānasutta &mdash; the shortest discourse in "
+        "Avijjāvagga so far, its answer left entirely to peyyāla "
+        "cross-reference. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "An unnamed mendicant questioning the Buddha"),
+        ("Form", "A bare question, its answer left entirely unspoken "
+                 "&mdash; the most compressed discourse so far in "
+                 "this vagga, not even one substituted sentence "
+                 "written out"),
+        ("Length", "a few seconds to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "nothing but a single sentence, its own "
+                       "content assumed rather than stated"),
+    ],
+    why=(
+        "Where SN 35.53 through SN 35.55 each still gave at least "
+        "one written-out sentence of their own answer (even if "
+        "compressed), this discourse gives none at all &mdash; only "
+        "the question, “Sir, how does one know and see so that "
+        "the defilements (āsavā) are given up?”, closed with a "
+        "peyyāla ellipsis and nothing further. Both the Pali root "
+        "and Sujato's own English agree on this: the entire answer "
+        "is assumed, not written, trusting the reader to supply SN "
+        "35.53's own template with āsavā substituted for avijjā and "
+        "&mdash; given the pattern SN 35.54 already established "
+        "&mdash; aniccato as the lens, this being a pahāna (giving "
+        "up) discourse, not a samugghāta (uprooting) one."
+    ),
+    guide=[
+        ("The shortest discourse in this vagga so far", [
+            "A single question, and nothing more &mdash; not even "
+            "one collapsed answer sentence, as SN 35.54 and SN 35.55 "
+            "each still gave.",
+        ]),
+        ("What the reader is trusted to supply", [
+            "SN 35.53's own six-field chain, with āsavā substituted "
+            "for avijjā, and aniccato (as impermanent) as the lens, "
+            "following the giving-up/uprooting, "
+            "impermanence/not-self pattern SN 35.55 already "
+            "confirmed.",
+        ]),
+    ],
+    terms=[
+        ("āsava", "defilement &mdash; rendered “grasping” "
+                    "is Sujato's own word for upādāna elsewhere in "
+                    "this vagga, but here āsava is his own "
+                    "“defilements”, this discourse's own "
+                    "target"),
+        ("pahāna", "giving up &mdash; this discourse's own "
+                    "(unwritten) verb, following the pattern this "
+                    "vagga has already established"),
+        ("peyyāla", "formula-repetition &mdash; the ellipsis mark "
+                     "this discourse consists almost entirely of"),
+        ("avijjā", "ignorance &mdash; this vagga's own opening "
+                    "target, the template this discourse silently "
+                    "assumes"),
+        ("aniccato", "as impermanent &mdash; the lens this "
+                      "discourse's own unwritten answer is presumed "
+                      "to use"),
+    ],
+    text_intro=("The complete discourse, exactly as both the Pali "
+        "root and Sujato's own English give it: a single question, "
+        "closed with a peyyāla ellipsis and no written answer. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.56:1.1"),
+    ],
+    quiz=[
+        {"q": "How much of this discourse's answer is actually written out, in either the Pali root or Sujato's own English?",
+         "opts": ["None — only the question is given, closed with a peyyāla ellipsis",
+                  "The full six-field chain, exactly as SN 35.53 gives it", "One collapsed sentence, as SN 35.54 and SN 35.55 give",
+                  "Half of the six-field chain"],
+         "correct": 0,
+         "expl": "The shortest discourse in this vagga so far."},
+        {"q": "What target does this discourse apply “giving up” to?",
+         "opts": ["The defilements (āsavā)", "The fetters (saṁyojanā)", "Ignorance (avijjā)", "The underlying tendencies (anusayā)"],
+         "correct": 0,
+         "expl": "This vagga's own third target, after ignorance and the fetters."},
+        {"q": "What template is the reader trusted to supply for this discourse's own unwritten answer?",
+         "opts": ["SN 35.53's own six-field chain, with āsavā substituted for avijjā",
+                  "SN 35.60's own dependent-origination chain", "An entirely new formula, unrelated to this vagga's earlier discourses",
+                  "No template — the discourse is genuinely incomplete"],
+         "correct": 0,
+         "expl": "The same “template established, then assumed” move this vagga has already used."},
+        {"q": "Which lens does the giving-up/uprooting pattern this vagga has already established predict for this discourse?",
+         "opts": ["Impermanence (aniccato), since this is a “giving up” (pahāna) discourse",
+                  "Not-self (anattato), since this is a “giving up” discourse", "Suffering (dukkhato)", "No lens can be predicted"],
+         "correct": 0,
+         "expl": "SN 35.55 already confirmed: giving up runs on impermanence, uprooting on not-self."},
+        {"q": "What discourse immediately follows, completing this target's own pair?",
+         "opts": ["SN 35.57, applying “uprooting” to the same target",
+                  "SN 35.58, moving on to underlying tendencies", "SN 35.60, moving on to grasping", "No companion discourse follows"],
+         "correct": 0,
+         "expl": "The defilements, like the fetters before them, receive both halves of the pair."},
+    ],
+    marginalia=[
+        ("A question, and nothing more", [
+            "no written answer at all &mdash;",
+            "only peyyāla, an ellipsis",
+        ]),
+        ("A third target arrives", [
+            "āsavā, defilements &mdash;",
+            "after ignorance, after fetters",
+        ]),
+        ("The pattern still holds", [
+            "giving up, so impermanence &mdash;",
+            "by inference, not by statement",
+        ]),
+        ("A pair still to complete", [
+            "uprooting waits next &mdash;",
+            "at SN 35.57",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.56/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.55.html">SN 35.55 &middot; Uprooting the '
+        "Fetters</a> &mdash; the previous discourse, completing the "
+        "fetters' own pair.",
+        '<a href="sn-35.57.html">SN 35.57 &middot; Uprooting '
+        "Defilements</a> &mdash; the next discourse, completing "
+        "this target's own pair.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.57 — Āsavasamugghātasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 57, "Āsavasamugghāta", "Uprooting Defilements",
+    vagga="Avijjāvagga",
+    meta_title="SN 35.57 — Uprooting Defilements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for the "
+        "Āsavasamugghātasutta &mdash; completing the defilements' "
+        "own pair, as bare as its companion before it. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "An unnamed mendicant questioning the Buddha"),
+        ("Form", "A bare question, exactly like SN 35.56 before it "
+                 "&mdash; its own answer again left entirely to "
+                 "peyyāla cross-reference"),
+        ("Length", "a few seconds to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "as bare as SN 35.56, completing rather than "
+                       "opening a pair"),
+    ],
+    why=(
+        "This discourse completes the defilements' own pair, begun "
+        "at SN 35.56: the same bare question-and-peyyāla treatment, "
+        "now asking how the defilements are uprooted (samugghātaṁ "
+        "gacchanti) rather than given up (pahīyati). Nothing beyond "
+        "the question is written out in either the Pali root or "
+        "Sujato's own English &mdash; the reader is trusted to "
+        "supply SN 35.55's own template (anattato, as not-self, "
+        "being the lens “uprooting” discourses use "
+        "throughout this vagga) with āsavā substituted for "
+        "saṁyojanā."
+    ),
+    guide=[
+        ("A pair completes, just as bare", [
+            "Where SN 35.55 at least gave one collapsed answer "
+            "sentence to complete the fetters' own pair, this "
+            "discourse gives none at all, matching SN 35.56's own "
+            "bareness rather than SN 35.55's.",
+        ]),
+        ("Not-self, assumed rather than stated", [
+            "By the pattern this vagga has already confirmed twice "
+            "over, this discourse's own unwritten answer is presumed "
+            "to use anattato (as not-self), the lens every "
+            "“uprooting” discourse in this vagga has used "
+            "so far.",
+        ]),
+    ],
+    terms=[
+        ("samugghāta", "uprooting &mdash; this discourse's own "
+                        "(unwritten) verb"),
+        ("anattato", "as not-self &mdash; the lens this discourse's "
+                      "own unwritten answer is presumed to use"),
+        ("āsava", "defilement &mdash; carried over from SN 35.56, "
+                    "this pair's own shared target"),
+        ("peyyāla", "formula-repetition &mdash; the ellipsis mark "
+                     "this discourse again consists almost entirely "
+                     "of"),
+        ("saṁyojana", "fetter &mdash; the previous target, whose own "
+                        "uprooting discourse (SN 35.55) supplies "
+                        "this discourse's assumed template"),
+    ],
+    text_intro=("The complete discourse, exactly as both the Pali "
+        "root and Sujato's own English give it: a single question, "
+        "closed with a peyyāla ellipsis and no written answer. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.57:1.1"),
+    ],
+    quiz=[
+        {"q": "What pair does this discourse complete?",
+         "opts": ["The defilements' own pair, begun at SN 35.56", "The fetters' own pair", "Ignorance's own pair", "The grasping trio"],
+         "correct": 0,
+         "expl": "Both discourses share the defilements (āsavā) as their own target."},
+        {"q": "What verb does this discourse use for the defilements' removal?",
+         "opts": ["Uprooted (samugghāta)", "Given up (pahāna)", "Understood (pariññā)", "Depleted (pariyādāna)"],
+         "correct": 0,
+         "expl": "Completing the gentler/stronger pair SN 35.54-55 already established for the fetters."},
+        {"q": "What lens does the established pattern predict for this discourse's own unwritten answer?",
+         "opts": ["Not-self (anattato), since this is an “uprooting” discourse",
+                  "Impermanence (aniccato), since this is an “uprooting” discourse", "Suffering (dukkhato)", "No lens can be predicted"],
+         "correct": 0,
+         "expl": "Every “uprooting” discourse in this vagga so far has used anattato."},
+        {"q": "How much of this discourse's own answer is written out?",
+         "opts": ["None — only the question, closed with a peyyāla ellipsis", "One collapsed sentence", "The full six-field chain", "Half the chain"],
+         "correct": 0,
+         "expl": "As bare as SN 35.56, its own companion piece."},
+        {"q": "What discourse immediately follows, introducing this vagga's own fourth and final target?",
+         "opts": ["SN 35.58, moving to the underlying tendencies (anusayā)",
+                  "SN 35.60, moving to grasping", "SN 35.1, returning to Aniccavagga", "No discourse follows"],
+         "correct": 0,
+         "expl": "The underlying tendencies close out this vagga's own pahāna/samugghāta design."},
+    ],
+    marginalia=[
+        ("A pair, completed", [
+            "uprooting, now &mdash;",
+            "as bare as giving up was",
+        ]),
+        ("Not-self, assumed", [
+            "no lens written down &mdash;",
+            "the pattern supplies it"
+        ]),
+        ("Third target closes", [
+            "defilements, given up and uprooted &mdash;",
+            "one target left"
+        ]),
+        ("Underlying tendencies, next", [
+            "this vagga's own fourth target &mdash;",
+            "waiting at SN 35.58",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.57/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.56.html">SN 35.56 &middot; Giving Up '
+        "Defilements</a> &mdash; the previous discourse, this "
+        "pair's own gentler half.",
+        '<a href="sn-35.58.html">SN 35.58 &middot; Giving Up '
+        "Tendencies</a> &mdash; the next discourse, opening this "
+        "vagga's own fourth and final pahāna/samugghāta target.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.58 — Anusayapahānasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 58, "Anusayapahāna", "Giving Up Tendencies",
+    vagga="Avijjāvagga",
+    meta_title="SN 35.58 — Giving Up Tendencies | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for the "
+        "Anusayapahānasutta &mdash; this vagga's fourth target, and "
+        "its most compressed discourse yet, eliding even its own "
+        "question. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "An unnamed mendicant questioning the Buddha"),
+        ("Form", "Even briefer than SN 35.56&ndash;57 before it "
+                 "&mdash; the question itself is now partly elided, "
+                 "not only the answer"),
+        ("Length", "a few seconds to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the single sparest discourse in this vagga"),
+    ],
+    why=(
+        "This discourse introduces this vagga's own fourth and final "
+        "target before it turns to grasping (upādāna) in its closing "
+        "three discourses: the underlying tendencies (anusayā). It "
+        "is also, by a small but real margin, the most compressed "
+        "discourse in Avijjāvagga so far &mdash; where SN 35.56 and "
+        "SN 35.57 at least spelled out their own full question "
+        "before eliding the answer, this discourse elides part of "
+        "the question itself (“Kathaṁ nu kho …pe… "
+        "anusayā pahīyantī”ti …pe….”, “How "
+        "does one know … the underlying tendencies are given "
+        "up?” …), trusting the reader to supply not only "
+        "the answer but even the missing clause of the question, "
+        "straight from SN 35.53's own opening template."
+    ),
+    guide=[
+        ("A fourth target, the sparest discourse yet", [
+            "The underlying tendencies (anusayā) join ignorance, the "
+            "fetters, and the defilements as this vagga's own fourth "
+            "and final pahāna/samugghāta target &mdash; introduced "
+            "in this vagga's own most compressed discourse so far.",
+        ]),
+        ("Even the question is now assumed", [
+            "SN 35.56 and SN 35.57 each still wrote out their own "
+            "full question before eliding the answer; this "
+            "discourse elides part of the question itself, leaning "
+            "on SN 35.53's own opening template to supply the "
+            "missing clause.",
+        ]),
+    ],
+    terms=[
+        ("anusaya", "underlying tendency &mdash; this discourse's "
+                      "own new target, the last of this vagga's own "
+                      "four"),
+        ("pahāna", "giving up &mdash; this discourse's own "
+                    "(unwritten) verb"),
+        ("peyyāla", "formula-repetition &mdash; here eliding part of "
+                     "the question itself, not only the answer"),
+        ("āsava", "defilement &mdash; the previous target, for "
+                    "comparison"),
+        ("avijjā", "ignorance &mdash; this vagga's own opening "
+                    "target and ultimate template source"),
+    ],
+    text_intro=("The complete discourse, exactly as both the Pali "
+        "root and Sujato's own English give it: a single, partly "
+        "elided question, and no written answer. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.58:1.1"),
+    ],
+    quiz=[
+        {"q": "What new target does this discourse introduce?",
+         "opts": ["The underlying tendencies (anusayā)", "Grasping (upādāna)", "Craving (taṇhā)", "Conceit (māna)"],
+         "correct": 0,
+         "expl": "This vagga's own fourth and final pahāna/samugghāta target."},
+        {"q": "What makes this discourse more compressed than SN 35.56 and SN 35.57 before it?",
+         "opts": ["Part of the question itself is elided, not only the answer",
+                  "It has no question at all", "It is written entirely in verse", "It repeats the previous discourse word for word"],
+         "correct": 0,
+         "expl": "The sparest discourse in this vagga so far."},
+        {"q": "What is the reader trusted to supply for this discourse's own missing question clause?",
+         "opts": ["SN 35.53's own opening template", "A newly invented formula", "Nothing — the discourse is genuinely incomplete",
+                  "SN 35.60's own dependent-origination chain"],
+         "correct": 0,
+         "expl": "The same source template every discourse in this vagga's opening run draws on."},
+        {"q": "By this vagga's own established pattern, what lens does this discourse's unwritten answer presumably use?",
+         "opts": ["Impermanence (aniccato), since this is a “giving up” discourse",
+                  "Not-self (anattato), since this is a “giving up” discourse", "No lens can be inferred", "Suffering (dukkhato)"],
+         "correct": 0,
+         "expl": "Giving up runs on impermanence throughout this vagga."},
+        {"q": "What discourse immediately follows, completing the underlying tendencies' own pair?",
+         "opts": ["SN 35.59, restoring full text in the Pali root", "SN 35.60, moving on to grasping",
+                  "SN 35.53, returning to ignorance", "No companion discourse follows"],
+         "correct": 0,
+         "expl": "SN 35.59 restores this vagga's own full sixfold chain in Pali, though not in English."},
+    ],
+    marginalia=[
+        ("Fourth target arrives", [
+            "anusayā, tendencies &mdash;",
+            "the last of this vagga's own four"
+        ]),
+        ("Even the question thins", [
+            "peyyāla reaches the question now &mdash;",
+            "not only the answer"
+        ]),
+        ("The sparest discourse yet", [
+            "a fragment of a question &mdash;",
+            "nothing written in reply"
+        ]),
+        ("Restoration waits next", [
+            "the Pali root returns in full &mdash;",
+            "at SN 35.59"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.58/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.57.html">SN 35.57 &middot; Uprooting '
+        "Defilements</a> &mdash; the previous discourse, closing "
+        "the defilements' own pair.",
+        '<a href="sn-35.59.html">SN 35.59 &middot; Uprooting '
+        "Tendencies</a> &mdash; the next discourse, completing this "
+        "vagga's own final pahāna/samugghāta pair.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.59 — Anusayasamugghātasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 59, "Anusayasamugghāta", "Uprooting Tendencies",
+    vagga="Avijjāvagga",
+    meta_title="SN 35.59 — Uprooting Tendencies | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for the "
+        "Anusayasamugghātasutta &mdash; the Pali root restoring full "
+        "text after four compressed discourses, while Sujato's own "
+        "English still elides it. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "An unnamed mendicant questioning the Buddha"),
+        ("Form", "The Pali root restores this vagga's own full "
+                 "sixfold chain for the first time since SN 35.55 "
+                 "&mdash; but Sujato's own English still compresses "
+                 "it to a single line"),
+        ("Length", "a few seconds to read (in English); the Pali "
+                    "root itself runs to seventeen segments"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a real content point (root versus "
+                       "translation) hiding inside an apparently "
+                       "bare page"),
+    ],
+    why=(
+        "This discourse completes the underlying tendencies' own "
+        "pair and, with it, this vagga's own run of pahāna/"
+        "samugghāta pairs (fetters, defilements, underlying "
+        "tendencies &mdash; ignorance alone, at SN 35.53, never "
+        "received a matching uprooting discourse of its own). Its "
+        "own Pali root restores the full sixfold sense-field chain "
+        "in seventeen segments, confirming (as SN 35.55 already "
+        "showed) that anattato, not aniccato, is this vagga's own "
+        "lens for every samugghāta discourse. But Sujato's own "
+        "English translation does not follow the root's own "
+        "restoration: it compresses the entire discourse to a "
+        "single elided sentence, exactly as SN 35.56 through SN "
+        "35.58 were compressed &mdash; the same “root fuller "
+        "than its own English translation” divergence this "
+        "project already met at SN 35.33, now recurring here."
+    ),
+    guide=[
+        ("A pair completes, and with it, three pairs entire", [
+            "Fetters, defilements, and now the underlying tendencies "
+            "each receive both a “giving up” and an "
+            "“uprooting” discourse &mdash; only ignorance, "
+            "this vagga's own opening target, stands without a "
+            "matching uprooting companion.",
+        ]),
+        ("The root restores; the translation still does not", [
+            "Seventeen Pali segments spell out the full six-field "
+            "chain here, exactly as SN 35.53 first did &mdash; but "
+            "Sujato's own English collapses all of it into one "
+            "elided sentence, the same divergence this project "
+            "already traced at SN 35.33.",
+        ]),
+        ("Not-self, confirmed a second time", [
+            "The restored Pali root specifies anattato throughout, "
+            "confirming beyond SN 35.55 alone that every "
+            "“uprooting” discourse in this vagga runs on "
+            "not-self rather than impermanence.",
+        ]),
+    ],
+    terms=[
+        ("anusaya", "underlying tendency &mdash; this discourse's "
+                      "own target, completing this vagga's own "
+                      "fourth pair"),
+        ("samugghāta", "uprooting &mdash; this discourse's own "
+                        "verb"),
+        ("anattato", "as not-self &mdash; confirmed here for a "
+                      "second time as this vagga's own lens for "
+                      "every uprooting discourse"),
+        ("peyyāla", "formula-repetition &mdash; the mark Sujato's "
+                     "own English still uses here, even where the "
+                     "Pali root does not"),
+        ("saṁyojana", "fetter &mdash; cross-referenced back to SN "
+                        "35.55, the first confirmed anattato "
+                        "discourse"),
+    ],
+    text_intro=("The discourse exactly as Sujato's own English "
+        "gives it: a single elided sentence, even though the Pali "
+        "root itself restores the full sixfold chain in seventeen "
+        "segments. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.59:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse complete, alongside SN 35.55 and SN 35.57 before it?",
+         "opts": ["This vagga's own run of three pahāna/samugghāta pairs (fetters, defilements, underlying tendencies)",
+                  "The five aggregates", "This vagga's own three grasping discourses", "The four noble truths"],
+         "correct": 0,
+         "expl": "Only ignorance, at SN 35.53, stands without a matching uprooting companion."},
+        {"q": "What does this discourse's own Pali root do that SN 35.56-58's own root files do not?",
+         "opts": ["Restores the full sixfold sense-field chain across seventeen segments", "Elides the question itself",
+                  "Switches to verse", "Omits the discourse's own colophon"],
+         "correct": 0,
+         "expl": "The first full Pali restoration in this vagga since SN 35.55."},
+        {"q": "Does Sujato's own English translation follow the Pali root's own restoration here?",
+         "opts": ["No — it still compresses the entire discourse into a single elided sentence",
+                  "Yes — it spells out the full chain in English as well", "It restores only half the chain", "There is no English translation of this discourse at all"],
+         "correct": 0,
+         "expl": "The “root fuller than translation” divergence this project already met at SN 35.33."},
+        {"q": "What lens does the restored Pali root confirm for this discourse?",
+         "opts": ["Anattato, as not-self", "Aniccato, as impermanent", "Dukkhato, as suffering", "No lens is specified"],
+         "correct": 0,
+         "expl": "Confirming, for a second time in this vagga, that uprooting discourses run on not-self."},
+        {"q": "Which earlier discourse in this book already showed the same root-fuller-than-translation divergence?",
+         "opts": ["SN 35.33", "SN 35.1", "SN 35.28", "SN 35.52"],
+         "correct": 0,
+         "expl": "Jātidhammavagga's own single merged file, where the English similarly compressed more than the Pali root."},
+    ],
+    marginalia=[
+        ("Three pairs, complete", [
+            "fetters, taints, tendencies &mdash;",
+            "each given up and uprooted"
+        ]),
+        ("The root restores, in Pali", [
+            "seventeen segments return &mdash;",
+            "the full chain, once more"
+        ]),
+        ("English stays compressed", [
+            "one elided sentence still &mdash;",
+            "as SN 35.33 already showed"
+        ]),
+        ("Not-self, confirmed again", [
+            "anattato, throughout &mdash;",
+            "uprooting's own lens, twice over"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.59/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.58.html">SN 35.58 &middot; Giving Up '
+        "Tendencies</a> &mdash; the previous discourse, this "
+        "pair's own gentler half.",
+        '<a href="sn-35.60.html">SN 35.60 &middot; The Complete '
+        "Understanding of All Grasping</a> &mdash; the next "
+        "discourse, pivoting this vagga toward its own closing "
+        "subject.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.60 — Sabbupādānapariññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 60, "Sabbupādānapariññā", "The Complete Understanding of All Grasping",
+    vagga="Avijjāvagga",
+    meta_title="SN 35.60 — The Complete Understanding of All Grasping "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sabbupādānapariññāsutta &mdash; this vagga's pivot from "
+        "ignorance, fetters, defilements, and tendencies to grasping "
+        "itself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha addressing the mendicants directly, "
+                      "with no question this time"),
+        ("Form", "A new formula entirely &mdash; a short chain of "
+                 "dependent origination, then this project's own "
+                 "familiar disillusionment-to-freedom sequence, "
+                 "closing on complete understanding of grasping"),
+        ("Length", "~1&ndash;2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a genuinely new formula, not a substitution "
+                       "on what came before"),
+    ],
+    why=(
+        "This discourse pivots Avijjāvagga away from the four "
+        "pahāna/samugghāta targets that filled its first seven "
+        "discourses (ignorance, fetters, defilements, underlying "
+        "tendencies) toward a new and final subject: grasping "
+        "(upādāna) itself, which this discourse and its two "
+        "companions (SN 35.61&ndash;62) will treat across this "
+        "vagga's own closing three discourses. The form changes "
+        "too: rather than a mendicant's question, the Buddha "
+        "announces the teaching directly (“Mendicants, I will "
+        "teach you the principle for the complete understanding of "
+        "all grasping”), and rather than the pahāna/samugghāta "
+        "chain's own knowing-and-seeing formula, this discourse "
+        "builds a short chain of dependent origination &mdash; "
+        "consciousness arising dependent on a sense faculty and its "
+        "object, their meeting as contact, contact as a requirement "
+        "for feeling &mdash; before closing on this project's own "
+        "familiar disillusionment-to-freedom sequence, now landing "
+        "on a specific realization: “I have completely "
+        "understood grasping.”"
+    ),
+    guide=[
+        ("A new subject: grasping itself", [
+            "After four targets built on knowing and seeing a "
+            "quality (impermanence or not-self), this discourse "
+            "turns to grasping (upādāna) directly &mdash; this "
+            "vagga's own closing subject, carried through its final "
+            "three discourses.",
+        ]),
+        ("A different opening: announcement, not question", [
+            "Unlike every discourse from SN 35.53 through SN 35.59, "
+            "no mendicant asks a question here; the Buddha announces "
+            "the teaching directly, the same shift in form this "
+            "vagga's own closing run will keep.",
+        ]),
+        ("A short chain of dependent origination", [
+            "Consciousness arises dependent on a sense faculty and "
+            "its object; their meeting is contact; contact is a "
+            "requirement for feeling &mdash; a compact restatement "
+            "of dependent origination's own early links, here "
+            "serving as the platform for disillusionment rather "
+            "than an end in itself.",
+        ]),
+        ("This project's own familiar formula, with a new landing point", [
+            "Disillusionment, fading desire, and freedom &mdash; the "
+            "same sequence this project has traced since Book III "
+            "&mdash; here lands not on the standard “rebirth is "
+            "ended” declaration but on a narrower realization: "
+            "“I have completely understood grasping.”",
+        ]),
+    ],
+    terms=[
+        ("upādāna", "grasping &mdash; this discourse's own new "
+                      "subject, replacing the four pahāna/"
+                      "samugghāta targets that came before it"),
+        ("pariññā", "complete understanding &mdash; this "
+                      "discourse's own closing achievement, the "
+                      "gentler of two verbs this vagga's closing "
+                      "three discourses apply to grasping"),
+        ("nibbindati", "grows disillusioned &mdash; the first link "
+                         "in this project's own familiar liberation "
+                         "sequence, here applied to grasping "
+                         "specifically"),
+        ("phassa", "contact &mdash; the meeting of faculty, object, "
+                     "and consciousness, the pivot point this "
+                     "discourse's own short dependent-origination "
+                     "chain turns on"),
+        ("vedanā", "feeling &mdash; arising dependent on contact, "
+                     "the last link before disillusionment sets in"),
+    ],
+    text_intro=("The complete discourse: the Buddha's own direct "
+        "announcement, a short chain of dependent origination, and "
+        "this project's own familiar disillusionment sequence, "
+        "closing on grasping fully understood. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.60:1.1-1.3"),
+        ("p", "&sect;2", "sn35.60:1.4-1.7"),
+        ("p", "&sect;3", "sn35.60:1.8"),
+        ("p", "&sect;4", "sn35.60:1.9"),
+        ("p", "&sect;5", "sn35.60:1.10"),
+        ("p", "&sect;6", "sn35.60:1.11"),
+        ("p", "&sect;7", "sn35.60:1.12-1.15"),
+        ("p", "&sect;8", "sn35.60:1.16"),
+    ],
+    quiz=[
+        {"q": "What new subject does this discourse introduce, replacing this vagga's own first four targets?",
+         "opts": ["Grasping (upādāna)", "Craving (taṇhā)", "Conceit (māna)", "Wrong view (diṭṭhi)"],
+         "correct": 0,
+         "expl": "Carried through this vagga's own closing three discourses."},
+        {"q": "How does this discourse open, unlike SN 35.53-59 before it?",
+         "opts": ["The Buddha announces the teaching directly, rather than answering a mendicant's question",
+                  "A mendicant asks a new kind of question", "The discourse opens with a simile", "It opens exactly as SN 35.53 does"],
+         "correct": 0,
+         "expl": "This vagga's own closing three discourses all share this new form."},
+        {"q": "What short chain does this discourse build before its own closing formula?",
+         "opts": ["Dependent origination: consciousness arising from a faculty and object, their meeting as contact, contact requiring feeling",
+                  "The four noble truths", "The eightfold path", "The five hindrances"],
+         "correct": 0,
+         "expl": "A compact restatement of dependent origination's own early links."},
+        {"q": "What does the noble disciple realize at this discourse's own close?",
+         "opts": ["“I have completely understood grasping”", "“Rebirth is ended, the spiritual journey has been completed”",
+                  "“I have attained the four jhānas”", "“The fetters are given up”"],
+         "correct": 0,
+         "expl": "A narrower landing point than the standard full liberation declaration."},
+        {"q": "How many more discourses in this vagga will also treat grasping?",
+         "opts": ["Two (SN 35.61-62), completing a three-discourse close", "None — this is the only one",
+                  "Five", "Nine, the rest of this vagga"],
+         "correct": 0,
+         "expl": "SN 35.61 and SN 35.62 complete this vagga's own closing trio."},
+        {"q": "What formula does this discourse's own closing draw on, familiar from elsewhere in this project?",
+         "opts": ["Disillusionment, fading desire, and freedom — the same liberation sequence traced since Book III",
+                  "The three marks (impermanence, suffering, not-self)", "The four right efforts", "The seven factors of awakening"],
+         "correct": 0,
+         "expl": "The same sequence, here landing on grasping understood rather than rebirth ended."},
+    ],
+    marginalia=[
+        ("A pivot, mid-vagga", [
+            "four targets, now behind &mdash;",
+            "grasping itself, ahead"
+        ]),
+        ("An announcement, not a question", [
+            "the Buddha speaks first, here &mdash;",
+            "no mendicant asks"
+        ]),
+        ("A short chain of origination", [
+            "faculty and object meet &mdash;",
+            "contact, then feeling, then release"
+        ]),
+        ("A familiar formula, new ground", [
+            "disillusion, fade, be free &mdash;",
+            "grasping, understood"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.60/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.59.html">SN 35.59 &middot; Uprooting '
+        "Tendencies</a> &mdash; the previous discourse, closing "
+        "this vagga's own pahāna/samugghāta run.",
+        '<a href="sn-35.61.html">SN 35.61 &middot; The Depletion of '
+        "All Fuel for Grasping (1st)</a> &mdash; the next "
+        "discourse, repeating this discourse's own chain with a new "
+        "closing verb.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.61 — Paṭhamasabbupādānapariyādānasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 61, "Paṭhamasabbupādānapariyādāna",
+    "The Depletion of All Fuel for Grasping (1st)",
+    vagga="Avijjāvagga",
+    meta_title="SN 35.61 — The Depletion of All Fuel for Grasping "
+                "(1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasabbupādānapariyādānasutta &mdash; the same "
+        "chain as SN 35.60, closing on grasping's fuel depleted "
+        "rather than merely understood. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha addressing the mendicants directly"),
+        ("Form", "SN 35.60's own dependent-origination chain and "
+                 "disillusionment formula, repeated with a new "
+                 "closing verb: fuel for grasping depleted, not "
+                 "merely understood"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a substitution on SN 35.60's own template, "
+                       "but with a real change of verb"),
+    ],
+    why=(
+        "This discourse repeats SN 35.60's own template almost "
+        "exactly &mdash; the same short chain of dependent "
+        "origination, the same familiar disillusionment-to-freedom "
+        "sequence &mdash; but closes on a different achievement: not "
+        "pariññā (complete understanding) but pariyādāna, the "
+        "depletion or exhaustion of “fuel” (again "
+        "upādāna, though here better read as what feeds continued "
+        "existence) for grasping. Sujato's own English marks this "
+        "discourse “(1st)”, already signaling its own "
+        "paired companion, SN 35.62, still to come &mdash; this "
+        "vagga's own closing discourse."
+    ),
+    guide=[
+        ("Same chain, new verb", [
+            "The same dependent-origination platform and "
+            "disillusionment sequence carry over unchanged from SN "
+            "35.60; only the closing achievement changes, from "
+            "pariññā to pariyādāna.",
+        ]),
+        ("Fuel exhausted, not merely understood", [
+            "Where SN 35.60 closed on “I have completely "
+            "understood grasping”, this discourse closes on "
+            "“I have completely depleted fuel for grasping” "
+            "&mdash; a stronger claim, paralleling the pahāna/"
+            "samugghāta pattern's own gentler-to-stronger shape "
+            "earlier in this vagga.",
+        ]),
+        ("A marked pair begins", [
+            "Sujato's own English title marks this discourse "
+            "“(1st)”, the same convention this project has "
+            "already met at SN 35.26-27 and SN 35.31-32, signaling "
+            "its own companion (SN 35.62, marked “(2nd)”) "
+            "is still to come.",
+        ]),
+    ],
+    terms=[
+        ("pariyādāna", "depletion, exhaustion &mdash; this "
+                          "discourse's own closing achievement, "
+                          "“fuel” for grasping used up "
+                          "rather than merely understood"),
+        ("upādāna", "grasping &mdash; carried over from SN 35.60, "
+                      "here read as “fuel” for continued "
+                      "existence"),
+        ("nibbindati", "grows disillusioned &mdash; the same first "
+                         "link in this project's own familiar "
+                         "liberation sequence"),
+        ("phassa", "contact &mdash; carried over from SN 35.60's "
+                     "own dependent-origination chain"),
+        ("vedanā", "feeling &mdash; carried over from SN 35.60, "
+                     "arising dependent on contact"),
+    ],
+    text_intro=("The complete discourse: the same dependent-"
+        "origination chain and disillusionment sequence as SN "
+        "35.60, closing instead on grasping's own fuel depleted. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.61:1.1-1.3"),
+        ("p", "&sect;2", "sn35.61:1.4-1.7"),
+        ("p", "&sect;3", "sn35.61:1.8"),
+        ("p", "&sect;4", "sn35.61:1.9-1.12"),
+        ("p", "&sect;5", "sn35.61:1.13"),
+    ],
+    quiz=[
+        {"q": "What verb replaces SN 35.60's own “complete understanding” (pariññā) here?",
+         "opts": ["Pariyādāna, depletion or exhaustion of fuel for grasping", "Samugghāta, uprooting", "Pahāna, giving up", "Nirodha, cessation"],
+         "correct": 0,
+         "expl": "A stronger claim than mere understanding, closing this discourse's own chain."},
+        {"q": "What does “(1st)” in this discourse's own title signal?",
+         "opts": ["A paired companion discourse (SN 35.62, marked “2nd”) is still to come",
+                  "This is the very first discourse in the entire saṃyutta", "A scribal numbering error", "Nothing of significance"],
+         "correct": 0,
+         "expl": "The same convention this project already met at SN 35.26-27 and SN 35.31-32."},
+        {"q": "What chain repeats from SN 35.60 largely unchanged?",
+         "opts": ["The short dependent-origination platform and the disillusionment-to-freedom sequence",
+                  "The pahāna/samugghāta knowing-and-seeing formula", "The four noble truths", "The ten fetters"],
+         "correct": 0,
+         "expl": "Only the closing achievement differs."},
+        {"q": "How does this discourse compress the middle four sense fields (ear, nose, tongue, body), compared with SN 35.60?",
+         "opts": ["Into a single combined line, unlike SN 35.60's own four separate one-liners",
+                  "It doesn't compress them at all", "It omits them entirely", "It spells each out in full, unlike SN 35.60"],
+         "correct": 0,
+         "expl": "A further compression this discourse introduces on SN 35.60's own already-compressed template."},
+        {"q": "What discourse follows, completing this pair?",
+         "opts": ["SN 35.62, marked “(2nd)” and closing this vagga", "SN 35.53, returning to ignorance",
+                  "SN 36.1, opening the next saṃyutta", "No companion discourse follows"],
+         "correct": 0,
+         "expl": "SN 35.62 both completes this pair and closes Avijjāvagga itself."},
+    ],
+    marginalia=[
+        ("Same chain, once more", [
+            "origination, then release &mdash;",
+            "SN 35.60's own template"
+        ]),
+        ("A new verb: depleted", [
+            "not merely understood, now &mdash;",
+            "fuel for grasping, exhausted"
+        ]),
+        ("Marked first, of two", [
+            "“(1st)” in this discourse's own title &mdash;",
+            "SN 35.62 completes the pair"
+        ]),
+        ("One combined line, not four", [
+            "ear, nose, tongue, body, together &mdash;",
+            "more compressed than SN 35.60"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.61/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.60.html">SN 35.60 &middot; The Complete '
+        "Understanding of All Grasping</a> &mdash; the previous "
+        "discourse, this chain's own first appearance.",
+        '<a href="sn-35.62.html">SN 35.62 &middot; The Depletion of '
+        "All Fuel for Grasping (2nd)</a> &mdash; the next discourse, "
+        "completing this pair and closing Avijjāvagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.62 — Dutiyasabbupādānapariyādānasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 62, "Dutiyasabbupādānapariyādāna",
+    "The Depletion of All Fuel for Grasping (2nd)",
+    vagga="Avijjāvagga",
+    meta_title="SN 35.62 — The Depletion of All Fuel for Grasping "
+                "(2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasabbupādānapariyādānasutta &mdash; closing "
+        "Avijjāvagga in dialogue form, and confirming this vagga "
+        "opens Saḷāyatanasaṃyutta's own second paṇṇāsaka. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by cross-reference)"),
+        ("Speakers", "The Buddha questioning the mendicants directly, "
+                      "who answer in turn"),
+        ("Form", "The same subject as SN 35.61, now cast as a "
+                 "direct question-and-answer catechism rather than a "
+                 "declarative announcement &mdash; closing this "
+                 "vagga with its own colophon and uddāna"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the dialogic form and the closing colophon "
+                       "both reward careful attention"),
+    ],
+    why=(
+        "This discourse closes Avijjāvagga, completing the pair "
+        "begun at SN 35.61 (both titled for depleting “fuel "
+        "for grasping”) but recasting it entirely in dialogue: "
+        "rather than the Buddha announcing the teaching and reciting "
+        "the chain of dependent origination and disillusionment, he "
+        "questions the mendicants directly &mdash; “Is the eye "
+        "permanent or impermanent?”, “Suffering, "
+        "sir”, “fit to be regarded thus: ‘This is "
+        "mine, I am this, this is my self’?” &mdash; the "
+        "same catechism form this project already met at SN 35.32, "
+        "closing Sabbavagga. And where SN 35.60&ndash;61 closed on "
+        "grasping specifically understood or depleted, this "
+        "discourse restores this project's own full standard "
+        "liberation formula in its closing lines: disillusionment, "
+        "fading desire, freedom, the knowledge of that freedom, and "
+        "the declaration that rebirth is ended &mdash; the same "
+        "complete formula SN 35.1 itself used to open Aniccavagga, "
+        "now closing Avijjāvagga in turn. Beyond the discourse "
+        "itself, this file's own closing lines carry a colophon "
+        "reading “Avijjāvaggo paṭhamo” &mdash; "
+        "“Avijjāvagga is the first” &mdash; which, at "
+        "first glance, seems to contradict this vagga's own "
+        "position as the sixth of Saḷāyatanasaṃyutta's own nineteen "
+        "vaggas. It does not: as this project already confirmed at "
+        "SN 22.52 and SN 35.52, vagga colophons number a vagga's "
+        "own position within its own paṇṇāsaka (fifty), not across "
+        "the whole saṃyutta &mdash; and Avijjāvagga, opening "
+        "immediately after Sabbaaniccavagga closed the first fifty "
+        "at SN 35.52, is indeed the first vagga of "
+        "Saḷāyatanasaṃyutta's own second paṇṇāsaka."
+    ),
+    guide=[
+        ("A pair completes, recast as dialogue", [
+            "SN 35.61's own declarative chain becomes, here, a "
+            "direct question-and-answer catechism &mdash; the "
+            "Buddha asking whether the eye (and each of the "
+            "remaining five sense fields, and what arises from each) "
+            "is permanent, whether what's impermanent is suffering, "
+            "and whether what's impermanent and suffering is fit to "
+            "be regarded as self, the mendicants answering in turn.",
+        ]),
+        ("The same catechism this project already met at Sabbavagga's own close", [
+            "This question-and-answer form is not new to Book IV: "
+            "SN 35.32, closing Sabbavagga, already used the "
+            "identical structure &mdash; the same three questions "
+            "(permanent?, suffering?, self?), asked and answered in "
+            "sequence for each sense field.",
+        ]),
+        ("The full liberation formula, restored", [
+            "Unlike SN 35.60 and SN 35.61, which each closed "
+            "narrowly on grasping specifically understood or "
+            "depleted, this discourse goes the rest of the way: "
+            "disillusionment, fading desire, freedom, the knowledge "
+            "of that freedom, and the standard declaration that "
+            "rebirth is ended &mdash; the same complete sequence SN "
+            "35.1 used to open this book.",
+        ]),
+        ("A colophon that seems to contradict itself, and doesn't", [
+            "This file's own closing colophon, “Avijjāvaggo "
+            "paṭhamo” (“Avijjāvagga is the first”), "
+            "does not claim this is the saṃyutta's own first vagga "
+            "&mdash; it is the sixth. As already confirmed at SN "
+            "22.52 (Book III's own Mūlapaṇṇāsaka) and SN 35.52 "
+            "(this book's own first paṇṇāsaka), such colophons "
+            "number a vagga's own position within its own "
+            "paṇṇāsaka, not across the whole saṃyutta.",
+        ]),
+        ("A second paṇṇāsaka begins, confirmed from the text itself", [
+            "This file's own closing uddāna names all ten of this "
+            "vagga's own discourses in order &mdash; ignorance, two "
+            "on the fetters, two more on the defilements, two more "
+            "again on the underlying tendencies, and finally "
+            "understanding and two depletions on grasping &mdash; "
+            "the same ten discourses this reading guide has now "
+            "traced individually. Left untranslated in Sujato's own "
+            "English, this reading guide describes rather than "
+            "quotes its content, exactly as this project has treated "
+            "every other untranslated closing marker.",
+        ]),
+    ],
+    terms=[
+        ("paṇṇāsaka", "a fifty &mdash; a block of fifty discourses; "
+                        "this vagga's own colophon confirms it opens "
+                        "Saḷāyatanasaṃyutta's own second one"),
+        ("avijjā", "ignorance &mdash; this vagga's own name and "
+                     "opening target, tying together the whole "
+                     "vagga at its own close"),
+        ("pariyādāna", "depletion &mdash; this discourse's own "
+                          "closing achievement, completing the pair "
+                          "with SN 35.61"),
+        ("uddāna", "a mnemonic summary verse &mdash; this file's "
+                     "own closing verse, naming this vagga's own ten "
+                     "discourses by target"),
+        ("vaggo tena pavuccati", "“by that the chapter is "
+                                    "called” &mdash; a standard "
+                                    "closing formula found across "
+                                    "many vagga-uddānas in the Pali "
+                                    "canon, closing this one as "
+                                    "well"),
+    ],
+    text_intro=("The complete discourse: a direct question-and-"
+        "answer catechism, closing on this project's own full "
+        "standard liberation formula rather than SN 35.60-61's own "
+        "narrower closings on grasping alone. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.62:1.1-1.3"),
+        ("p", "&sect;2", "sn35.62:2.1-7.1"),
+        ("p", "&sect;3", "sn35.62:8.1-13.1"),
+        ("p", "&sect;4", "sn35.62:14.1-15.1"),
+        ("p", "&sect;5", "sn35.62:16.1-19.1"),
+        ("p", "&sect;6", "sn35.62:20.1-20.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's form differ from SN 35.60-61 before it?",
+         "opts": ["A direct question-and-answer catechism (the Buddha questions, the mendicants answer), not a declarative announcement",
+                  "It is spoken entirely by a mendicant, not the Buddha", "It abandons the six sense fields entirely",
+                  "It is identical in form to SN 35.60"],
+         "correct": 0,
+         "expl": "The Buddha asks whether each field is permanent, suffering, and self, the mendicants answering in turn."},
+        {"q": "Which earlier discourse in this book already used the same catechism form?",
+         "opts": ["SN 35.32, closing Sabbavagga", "SN 35.1, opening Aniccavagga", "SN 35.53, opening Avijjāvagga", "SN 35.28, the Fire Sermon"],
+         "correct": 0,
+         "expl": "The identical three-question sequence, asked and answered for each sense field."},
+        {"q": "How does this discourse's own closing formula differ from SN 35.60-61's own closings?",
+         "opts": ["It restores the full standard liberation sequence (disillusionment, fading desire, freedom, rebirth ended), not grasping alone",
+                  "It omits any closing formula entirely", "It closes on the four noble truths instead", "It repeats SN 35.60's own closing verbatim"],
+         "correct": 0,
+         "expl": "The same complete sequence SN 35.1 itself used to open this book."},
+        {"q": "What does this discourse's own vagga colophon, “Avijjāvaggo paṭhamo,” actually mean, given that Avijjāvagga is this saṃyutta's own sixth vagga?",
+         "opts": ["It marks Avijjāvagga as the first vagga of the saṃyutta's own second paṇṇāsaka (fifty), not the first vagga overall",
+                  "It is a scribal error", "It means Avijjāvagga is in fact the saṃyutta's own first vagga", "It refers to this being the first of ten discourses"],
+         "correct": 0,
+         "expl": "Vagga colophons number a vagga's own position within its own paṇṇāsaka, not across the whole saṃyutta."},
+        {"q": "Which earlier discourse in this project already established that vagga colophons number within their own paṇṇāsaka?",
+         "opts": ["SN 22.52 (and this book's own SN 35.52)", "SN 34.55", "SN 29.50", "SN 35.1"],
+         "correct": 0,
+         "expl": "Both marked the close of their own saṃyutta's own first fifty."},
+        {"q": "How many discourses make up Avijjāvagga, confirmed by its own closing uddāna?",
+         "opts": ["Ten — one on ignorance, two each on the fetters, defilements, and underlying tendencies, and three on grasping",
+                  "Eleven", "Twelve", "Eight"],
+         "correct": 0,
+         "expl": "Matching the count this reading guide has traced page by page across SN 35.53-62."},
+    ],
+    marginalia=[
+        ("A catechism closes the vagga", [
+            "question, answer, in turn &mdash;",
+            "the same form SN 35.32 used"
+        ]),
+        ("The full formula, restored", [
+            "rebirth ended, this time &mdash;",
+            "not grasping alone"
+        ]),
+        ("“The first”, of a new fifty", [
+            "Avijjāvaggo paṭhamo &mdash;",
+            "first of the second paṇṇāsaka"
+        ]),
+        ("Ten discourses, named in verse", [
+            "ignorance, fetters, taints, tendencies &mdash;",
+            "grasping, understood and depleted"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.62/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.61.html">SN 35.61 &middot; The Depletion of '
+        "All Fuel for Grasping (1st)</a> &mdash; the previous "
+        "discourse, this pair's own first half.",
+        '<a href="sn-36.6.html">SN 36.6 &middot; An Arrow</a> '
+        "&mdash; already published on this site, standing ahead of "
+        "this book's own next vagga, Migajālavagga (SN "
+        "35.63&ndash;73), not yet built.",
+    ],
+)
