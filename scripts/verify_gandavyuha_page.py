@@ -12,7 +12,7 @@ Checks:
 """
 import sys, re, difflib
 
-BASE = "/Users/hayashikisshou/Library/Mobile Documents/iCloud~md~obsidian/Documents/第二個大腦/知識庫/佛法/大正藏/05_華嚴部/T0278_大方廣佛華嚴經.md"
+BASE = "/Users/hayashikisshou/Library/Mobile Documents/iCloud~md~obsidian/Documents/第二大腦/知識庫/佛法/大正藏/05_華嚴部/T0278_大方廣佛華嚴經.md"
 
 TAG_RE = re.compile(r'<(/?)div\b([^>]*)>')
 
