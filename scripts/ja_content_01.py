@@ -2160,3 +2160,2086 @@ page(
         "index.",
     ],
 )
+# -*- coding: utf-8 -*-
+
+# --------------------------------------------------------------------------- #
+# Ja 11 — Lakkhaṇamiga (The Deer Named Lucky Spot)
+# --------------------------------------------------------------------------- #
+page(
+    11, "Lakkha&#7751;amiga", "The Deer Named Lucky Spot",
+    meta_title="Ja 11 — The Deer Named Lucky Spot | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 11, opening the Sīlavagga — a verse contrasting a "
+        "wise, protective deer-king with a careless one who loses his "
+        "whole herd. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Two (Sīlavagga) &middot; Poem 1 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One stanza (six lines)"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short contrast verse"),
+    ],
+    why=(
+        "This verse opens the Sīlavagga (&lsquo;Ethics Chapter&rsquo;) "
+        "with a direct contrast between two named deer-kings, one "
+        "prospering through virtuous, protective leadership and one "
+        "brought low by carelessness &mdash; setting the ethical "
+        "theme this whole second chapter of the collection develops."),
+    guide=[
+        ("Two deer-kings, two fates", [
+            "The verse states its principle, then shows it: "
+            "&lsquo;the virtuous ones prosper, who live extending "
+            "protection. See Lucky Spot coming, surrounded by their "
+            "family circle; then see this Black Mark, bereft of "
+            "family.&rsquo; Per Sujato's comment, the traditional "
+            "story explains the contrast directly &mdash; the wise "
+            "and prudent deer-king Lucky Spot kept his herd safe on "
+            "their journey, while the foolish and careless Black "
+            "Mark lost his whole herd."]),
+        ("Names that carry their own meaning", [
+            "Sujato's comment notes that &lsquo;lakkhaṇa&rsquo; "
+            "(Lucky Spot) means &lsquo;possessing beautiful or "
+            "auspicious marks&rsquo;, fitting the common spotted "
+            "(Chital) deer, elegant and gregarious; &lsquo;kāḷa&rsquo; "
+            "(Black Mark) carries the opposite sense, "
+            "&lsquo;unlucky&rsquo;. The two deer-kings' names "
+            "themselves foreshadow their contrasting fates before the "
+            "verse even describes them."]),
+    ],
+    terms=[
+        ("sīlavataṁ attho",
+         "&ldquo;the virtuous ones prosper&rdquo; &mdash; the "
+         "verse's opening principle."),
+        ("paṭisanthāravuttinaṁ",
+         "&ldquo;who live extending protection&rdquo; &mdash; the "
+         "specific virtue the verse credits for that prospering."),
+        ("lakkhaṇa",
+         "&ldquo;Lucky Spot&rdquo; &mdash; per Sujato's comment, "
+         "&ldquo;possessing beautiful or auspicious marks&rdquo;, "
+         "fitting a spotted (Chital) deer."),
+        ("kāḷa",
+         "&ldquo;Black Mark&rdquo; &mdash; the contrasting, "
+         "&ldquo;unlucky&rdquo; name of the careless deer-king."),
+        ("Lakkhaṇamigajātaka",
+         "the traditional title of this tale, opening the "
+         "Sīlavagga."),
+    ],
+    text_intro=(
+        "The text in full: a single six-line verse. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja11:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What does the verse's opening line state as a general principle?",
+         "opts": [
+             'That only the strong survive',
+             'No general principle is stated',
+             'That wealth alone brings prosperity',
+             'That the virtuous ones prosper, who live extending protection',
+         ],
+         "correct": 2,
+         "expl": 'Illustrated immediately by the contrast between the two deer-kings that follows.'},
+        {"q": "What happened, per Sujato's comment on the commentarial story, to Lucky Spot's herd?",
+         "opts": [
+             'It scattered before the story begins',
+             'No story is given for Lucky Spot',
+             'It was lost entirely',
+             'It was kept safe on their journey through his wisdom and prudence',
+         ],
+         "correct": 3,
+         "expl": "Contrasted directly with Black Mark's fate."},
+        {"q": "What happened to Black Mark's herd?",
+         "opts": [
+             'It was lost entirely, through his foolishness and carelessness',
+             "It merged with Lucky Spot's herd",
+             "The verse does not mention Black Mark's herd",
+             'It also prospered',
+         ],
+         "correct": 0,
+         "expl": "The verse's direct contrast: 'this Black Mark, bereft of family'."},
+        {"q": "What does Sujato's comment say about the meaning of the name 'lakkhaṇa'?",
+         "opts": [
+             "It means 'swift runner'",
+             "'Possessing beautiful or auspicious marks', fitting a spotted (Chital) deer",
+             "It means 'leader of the herd'",
+             'No meaning is given for the name',
+         ],
+         "correct": 1,
+         "expl": "The name itself foreshadows the deer-king's fortunate fate."},
+        {"q": "What does the name 'kāḷa' (Black Mark) mean, per the comment?",
+         "opts": [
+             'No meaning is given',
+             "'Strong and swift'",
+             "'Dark', carrying the opposite sense, 'unlucky'",
+             "'Wise elder'",
+         ],
+         "correct": 2,
+         "expl": "Contrasting directly with Lucky Spot's own auspicious name."},
+        {"q": 'What chapter does this poem open?',
+         "opts": [
+             'The Kuruṅgavagga',
+             'It does not open a chapter',
+             'The Apaṇṇakavagga',
+             'The Sīlavagga (Ethics Chapter)',
+         ],
+         "correct": 3,
+         "expl": 'Setting the ethical theme this second chapter develops.'},
+        {"q": 'How many deer-kings does the verse contrast?',
+         "opts": [
+             'Two — Lucky Spot and Black Mark',
+             'Three',
+             'None; the verse names no specific deer',
+             'One',
+         ],
+         "correct": 0,
+         "expl": "Their contrasting fortunes illustrate the verse's opening principle."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Deer Named Banyan',
+             'The Deer Named Lucky Spot (Lakkhaṇamigajātaka)',
+             'The Arrow',
+             'Gales',
+         ],
+         "correct": 1,
+         "expl": 'The eleventh poem overall, and the first of the Sīlavagga.'},
+        {"q": "What kind of deer does Sujato's comment suggest 'Lucky Spot' describes?",
+         "opts": [
+             'No specific species is suggested',
+             'A solitary predator',
+             'A common spotted (Chital) deer, elegant and gregarious, roaming in herds',
+             'A mythical, one-of-a-kind creature',
+         ],
+         "correct": 2,
+         "expl": "Grounding the verse's imagery in an identifiable real animal."},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The final poem of the Sīlavagga',
+             'The final poem of the Ekakanipāta',
+             'The first poem of the second chapter (Sīlavagga), following the completed Apaṇṇakavagga',
+         ],
+         "correct": 3,
+         "expl": "Opening this collection's second ten-poem chapter."},
+    ],
+    marginalia=[
+        ("Two names, two fates", [
+            "Lucky Spot and Black Mark, side by side —",
+            "the names themselves already tell the story"
+        ]),
+        ("A herd kept, a herd lost", [
+            "wisdom on one journey, carelessness on the other —",
+            "the verse's principle made concrete"
+        ]),
+        ("Opening the ethics chapter", [
+            "protection extended is protection returned —",
+            "ten poems on this theme begin here"
+        ]),
+        ("A spotted deer, elegantly named", [
+            "auspicious marks give an auspicious name —",
+            "unlucky in name, unlucky in fortune"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-10.html">Ja 10 &mdash; Living at Ease</a> '
+        "&mdash; the closing poem of the previous chapter.",
+        '<a href="ja-12.html">Ja 12 &mdash; The Deer Named '
+        "Banyan</a> &mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 12 — Nigrodhamiga (The Deer Named Banyan)
+# --------------------------------------------------------------------------- #
+page(
+    12, "Nigrodhamiga", "The Deer Named Banyan",
+    meta_title="Ja 12 — The Deer Named Banyan | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 12 — a verse of resolute loyalty, paired with a "
+        "commentarial story of a noble deer-king's self-sacrifice for "
+        "a pregnant doe. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Two (Sīlavagga) &middot; Poem 2 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse of resolute preference"),
+    ],
+    why=(
+        "This tale's commentarial story &mdash; a noble deer-king "
+        "offering himself in place of a pregnant doe about to be "
+        "sacrificed &mdash; is one of the most affecting acts of "
+        "self-sacrifice among this whole partial selection, and the "
+        "verse's own stark preference (&lsquo;better death with "
+        "Banyan than life with Branch&rsquo;) distills it into a "
+        "single memorable line."),
+    guide=[
+        ("A stark preference between two leaders", [
+            "The verse states its choice directly: &lsquo;befriend "
+            "only Banyan, stay away from Branch. Better is death with "
+            "Banyan than life with Branch.&rsquo; The names stand for "
+            "two contrasting kinds of leadership, one worth dying "
+            "under and the other not worth living under."]),
+        ("A commentarial story of self-sacrifice", [
+            "Per Sujato's comment, a meat-loving king hunted deer "
+            "daily, until the deer made a pact to offer one animal "
+            "from each herd by lot. When the lot fell on a pregnant "
+            "doe in Branch's herd, the wicked deer-king Branch "
+            "insisted she give herself up anyway &mdash; but Banyan, "
+            "the noble deer-king of the other herd, intervened and "
+            "went in her place himself. Moved by this act of "
+            "self-sacrifice, the king spared not only Banyan's life "
+            "but the lives of all the deer."]),
+    ],
+    terms=[
+        ("nigrodha",
+         "&ldquo;Banyan&rdquo; &mdash; the noble deer-king who "
+         "offers himself in the pregnant doe's place."),
+        ("sākha",
+         "&ldquo;Branch&rdquo; &mdash; the wicked deer-king who "
+         "insists the doe give herself up despite her condition."),
+        ("nigrodhasmiṁ mataṁ seyyo",
+         "&ldquo;better is death with Banyan&rdquo; &mdash; the "
+         "verse's stark central preference."),
+        ("Nigrodhamigajātaka",
+         "the traditional title of this tale, &lsquo;The Deer Named "
+         "Banyan&rsquo;."),
+        ("self-sacrifice",
+         "the act at the center of this tale's commentarial story "
+         "&mdash; Banyan taking the doe's place, moving the king to "
+         "spare every deer's life."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja12:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What choice does the verse state directly?',
+         "opts": [
+             'To befriend only Banyan and stay away from Branch — better death with Banyan than life with Branch',
+             'To prefer Branch over Banyan',
+             'No specific preference is stated',
+             'To avoid both deer-kings equally',
+         ],
+         "correct": 3,
+         "expl": 'A stark preference distilled into a single memorable line.'},
+        {"q": "What pact, per Sujato's comment, did the deer make with the hunting king?",
+         "opts": [
+             'To offer one animal from each herd by lot, in exchange for the rest being spared',
+             "To fight the king's hunters",
+             'No such pact is described',
+             'To flee the kingdom entirely',
+         ],
+         "correct": 0,
+         "expl": 'Setting up the crisis when the lot fell on a pregnant doe.'},
+        {"q": "What happened when the lot fell on a pregnant doe in Branch's herd?",
+         "opts": [
+             'Branch offered himself instead',
+             'Branch, the wicked deer-king, insisted she give herself up anyway',
+             'The king canceled the pact',
+             'The doe was spared automatically due to her pregnancy',
+         ],
+         "correct": 1,
+         "expl": "Prompting Banyan's intervention from the other herd."},
+        {"q": 'What did Banyan do in response?',
+         "opts": [
+             'He challenged Branch to a fight',
+             'Nothing — he was uninvolved',
+             "He intervened and offered himself in the pregnant doe's place",
+             'He fled with his own herd',
+         ],
+         "correct": 2,
+         "expl": "An act of self-sacrifice that moved the king to spare every deer's life."},
+        {"q": "What was the ultimate outcome of Banyan's self-sacrifice, per the commentarial story?",
+         "opts": [
+             'The king was unmoved and proceeded with the sacrifice',
+             'The story does not describe an outcome',
+             'Banyan alone was spared, but the doe still died',
+             "The king spared not only Banyan's life but the lives of all the deer",
+         ],
+         "correct": 3,
+         "expl": 'One of the most affecting acts of self-sacrifice among this whole partial selection.'},
+        {"q": "What do the names 'Banyan' and 'Branch' represent in this verse?",
+         "opts": [
+             'Two contrasting kinds of leadership — one worth dying under, one not worth living under',
+             'Two rival kingdoms',
+             'No particular significance',
+             'Two types of trees with no further significance',
+         ],
+         "correct": 0,
+         "expl": "The verse's stark preference distills this contrast into a single line."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Deer Named Lucky Spot',
+             'The Deer Named Banyan (Nigrodhamigajātaka)',
+             'The Arrow',
+             'The Wind-deer',
+         ],
+         "correct": 1,
+         "expl": 'The twelfth poem overall, and the second of the Sīlavagga.'},
+        {"q": 'How many lines make up this verse?',
+         "opts": [
+             'Eight lines',
+             'Six lines',
+             'Four lines',
+             'Two lines',
+         ],
+         "correct": 2,
+         "expl": "A standard single stanza, like most poems in this collection's Ekakanipāta selection."},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The second poem of the Sīlavagga, following Ja 11',
+         ],
+         "correct": 3,
+         "expl": 'Part of the same ten-poem Sīlavagga as Ja 11.'},
+        {"q": "What broader theme does this tale's self-sacrifice illustrate, fitting the Sīlavagga's own name (Ethics Chapter)?",
+         "opts": [
+             'Noble leadership and self-sacrifice for the sake of others',
+             'The danger of trusting kings',
+             'The value of solitude',
+             'The importance of wealth',
+         ],
+         "correct": 0,
+         "expl": "Continuing the ethical theme opened by Ja 11's contrast of two deer-kings."},
+    ],
+    marginalia=[
+        ("A pact, and a cruel loophole", [
+            "one from each herd, by lot —",
+            "Branch would not spare even a pregnant doe"
+        ]),
+        ("Better death with the noble one", [
+            "the verse's whole preference in one line —",
+            "Banyan over Branch, no exceptions"
+        ]),
+        ("A king moved by self-sacrifice", [
+            "one deer's offer spares an entire herd —",
+            "mercy answering mercy"
+        ]),
+        ("Two deer-kings, two chapters apart", [
+            "Lucky Spot and Black Mark came first —",
+            "now Banyan and Branch, the same lesson again"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-11.html">Ja 11 &mdash; The Deer Named Lucky '
+        "Spot</a> &mdash; the poem immediately before this one.",
+        '<a href="ja-13.html">Ja 13 &mdash; The Arrow</a> &mdash; '
+        "the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 13 — Kaṇḍi (The Arrow)
+# --------------------------------------------------------------------------- #
+page(
+    13, "Ka&#7751;&#7693;i", "The Arrow",
+    meta_title="Ja 13 — The Arrow | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 13 — a verse voicing an ancient misogynistic "
+        "prejudice, presented here alongside Sujato's own direct "
+        "critical comment on it. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Two (Sīlavagga) &middot; Poem 3 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One stanza (six lines)"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but ethically difficult content"),
+    ],
+    why=(
+        "This verse voices an explicit prejudice against women's "
+        "leadership, and this reading guide presents it honestly "
+        "rather than passing over it &mdash; including Sujato's own "
+        "direct comment, which states plainly that &lsquo;reality has "
+        "disproven this ancient prejudice&rsquo; and identifies this "
+        "as the first of several misogynistic verses in this "
+        "collection, reflecting the adaptation of pre-Buddhist "
+        "material into the Jātaka tradition."),
+    guide=[
+        ("A verse that curses women's rule alongside an arrow's wound", [
+            "The verse links three curses together: &lsquo;curse the "
+            "dart, the arrow that deeply strikes a man. Curse the "
+            "nation where women rule. Those creatures are cursed who "
+            "fall to women's sway.&rsquo; The underlying story, per "
+            "Sujato's comment, tells of a naive mountain buck who "
+            "falls for a doe skilled in the ways of men; when the "
+            "path grows dangerous, she lets him lead the way, so that "
+            "he alone falls to the arrow."]),
+        ("Sujato's own direct comment on this verse's prejudice", [
+            "Sujato's comment does not pass over this verse's "
+            "misogyny in silence. It states directly: &lsquo;reality "
+            "has disproven this ancient prejudice, as women leaders "
+            "are at least as successful as men in both perception and "
+            "results. This is the first of many misogynistic "
+            "Jātakas. These show how Jātaka stories were adapted from "
+            "non-Buddhist sources, introducing bigotry into "
+            "Buddhism.&rsquo; This reading guide includes that "
+            "comment in full, rather than presenting the verse's "
+            "claim without context."]),
+        ("A story about one deer's specific betrayal, not a general truth", [
+            "Read against its own commentarial story, the verse's "
+            "generalization is itself undercut by the specifics of "
+            "the tale: the doe in the story is not condemned for "
+            "being a leader, but for a personal act of self-interest "
+            "in a moment of danger &mdash; the verse's broader claim "
+            "about &lsquo;the nation where women rule&rsquo; does not "
+            "actually follow from the story it is attached to."]),
+    ],
+    terms=[
+        ("dhiratthu",
+         "&ldquo;cursed be!&rdquo; &mdash; the imprecation repeated "
+         "three times across the verse."),
+        ("itthī pariṇāyikā",
+         "&ldquo;where women rule&rdquo; &mdash; the target of the "
+         "verse's second curse, explicitly identified by Sujato's "
+         "comment as an ancient prejudice disproven by reality."),
+        ("dhikkitā",
+         "&ldquo;cursed&rdquo; &mdash; per Sujato's comment, a word "
+         "of unique occurrence in Pali, from the same root as "
+         "&lsquo;dhiratthu&rsquo;."),
+        ("Kaṇḍijātaka",
+         "the traditional title of this tale, &lsquo;The "
+         "Arrow&rsquo;."),
+        ("misogynistic Jātakas",
+         "Sujato's own term, in his comment on this verse, for a "
+         "category of tales adapted from non-Buddhist sources that "
+         "introduced this kind of bigotry into the tradition."),
+    ],
+    text_intro=(
+        "The text in full: a single six-line verse, presented here "
+        "alongside Sujato's own direct critical comment on its "
+        "content, discussed above. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja13:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What does Sujato's own comment say about this verse's claim regarding women's leadership?",
+         "opts": [
+             "That 'reality has disproven this ancient prejudice, as women leaders are at least as successful as men'",
+             'Sujato offers no opinion on this verse',
+             'That the verse should be removed from the translation',
+             'That it is confirmed by later evidence',
+         ],
+         "correct": 0,
+         "expl": 'A direct, unambiguous critical comment included in full in this reading guide.'},
+        {"q": "What does Sujato's comment identify this verse as an example of?",
+         "opts": [
+             'A unique, isolated case',
+             'The first of many misogynistic Jātakas, showing how such stories were adapted from non-Buddhist sources',
+             'A later scribal error with no historical significance',
+             'A verse later removed from the canon',
+         ],
+         "correct": 1,
+         "expl": 'Reflecting the introduction of bigotry into Buddhism through adapted pre-Buddhist material.'},
+        {"q": 'What does the commentarial story actually describe?',
+         "opts": [
+             'No commentarial story exists for this verse',
+             'A woman ruling a nation unjustly',
+             'A naive mountain buck falling for a doe skilled in the ways of men, who lets him lead into danger to save herself',
+             'A battle between two kingdoms',
+         ],
+         "correct": 2,
+         "expl": "A specific, personal act of self-interest, not a general case about women's rule."},
+        {"q": "How does this reading guide characterize the relationship between the story and the verse's broader curse against 'women's rule'?",
+         "opts": [
+             'The story fully justifies the generalization',
+             'There is no connection between them at all',
+             'They match perfectly',
+             "The verse's broader generalization does not actually follow from the specific story it is attached to",
+         ],
+         "correct": 3,
+         "expl": 'The doe is condemned for a personal betrayal, not for being a leader.'},
+        {"q": 'How many curses does this verse link together?',
+         "opts": [
+             "Three — the arrow, the nation where women rule, and those who fall under women's sway",
+             'Five',
+             'None; the verse contains no curses',
+             'One',
+         ],
+         "correct": 0,
+         "expl": "All three are marked with the repeated imprecation 'dhiratthu' (cursed be)."},
+        {"q": "What does 'dhikkitā' mean, per Sujato's comment?",
+         "opts": [
+             'A term of blessing',
+             "'Cursed', a word of unique occurrence in Pali sharing a root with 'dhiratthu'",
+             'A proper name',
+             'A type of weapon',
+         ],
+         "correct": 1,
+         "expl": "Reinforcing the verse's repeated cursing language."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Gales',
+             'The Deer Named Banyan',
+             'The Arrow (Kaṇḍijātaka)',
+             'The Wind-deer',
+         ],
+         "correct": 2,
+         "expl": 'The thirteenth poem overall, and the third of the Sīlavagga.'},
+        {"q": "Why does this reading guide include Sujato's critical comment in full, rather than presenting the verse alone?",
+         "opts": [
+             'Because the verse is not actually part of the canonical text',
+             'There is no particular reason given',
+             "To pad the page's length",
+             "To present the verse's difficult content honestly, with its own translator's direct critical response, rather than passing over it in silence",
+         ],
+         "correct": 3,
+         "expl": "Consistent with this site's practice of engaging honestly with ethically difficult historical material."},
+        {"q": 'What specifically betrays the mountain buck, per the commentarial story?',
+         "opts": [
+             'The doe, who lets him lead the dangerous path so that he alone falls to the arrow',
+             'The hunter directly',
+             'No betrayal is described',
+             'A rival buck',
+         ],
+         "correct": 0,
+         "expl": 'The specific act of self-interest the story actually turns on.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The third poem of the Sīlavagga, following Ja 11 and Ja 12',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+         ],
+         "correct": 1,
+         "expl": 'Part of the same ten-poem Sīlavagga.'},
+    ],
+    marginalia=[
+        ("A curse the translator won't let stand", [
+            "'reality has disproven this ancient prejudice' —",
+            "Sujato's own comment, stated plainly"
+        ]),
+        ("One betrayal, generalized unfairly", [
+            "a single doe's self-interest —",
+            "stretched into a curse on a whole nation"
+        ]),
+        ("Named honestly as bigotry", [
+            "'the first of many misogynistic Jātakas' —",
+            "adapted from sources outside the tradition"
+        ]),
+        ("A story that undercuts its own verse", [
+            "read closely, the tale doesn't prove the claim —",
+            "personal fault, not proof of anything general"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja13/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment, including the full comment "
+        "discussed above." % SC,
+        '<a href="ja-12.html">Ja 12 &mdash; The Deer Named Banyan</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="ja-14.html">Ja 14 &mdash; The Wind-deer</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 14 — Vātamiga (The Wind-deer)
+# --------------------------------------------------------------------------- #
+page(
+    14, "V&amacr;tamiga", "The Wind-deer",
+    meta_title="Ja 14 — The Wind-deer | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 14 — a verse on how even an elusive, wary creature "
+        "can be trapped by desire for taste, cross-linked to this "
+        "site's own SN 9.8. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Two (Sīlavagga) &middot; Poem 4 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse with a naturalist's aside"),
+    ],
+    why=(
+        "Sujato's comment on this verse cites a specific "
+        "thirteenth-century naturalist text describing the "
+        "&lsquo;wind-deer&rsquo; as an exceptionally fast, elusive "
+        "creature, and cross-references this site's own SN 9.8 for a "
+        "related description of the same animal &mdash; an unusually "
+        "concrete zoological note anchoring this verse's teaching "
+        "about the power of desire."),
+    guide=[
+        ("Even the elusive can be caught by taste", [
+            "The verse states its point directly: &lsquo;nothing, it "
+            "seems, is worse than tastes in monasteries or meeting "
+            "places. The domesticated Wind-deer was brought under "
+            "Victor's sway by tastes.&rsquo; Per Sujato's comment, "
+            "the story behind it is simple: even the elusive "
+            "wind-deer was trapped by honey left out by a groundskeeper "
+            "named Victor, who released the deer once he had made his "
+            "point about the pull of desire."]),
+        ("A naturalist's note on a specific, fast creature", [
+            "Sujato's comment cites Haṁsadeva's thirteenth-century "
+            "Mṛgapakṣiśāstra to describe the &lsquo;wind-deer&rsquo; "
+            "as fast, skilled at escaping weapons, and adept at "
+            "vanishing from sight &mdash; lean, long-legged, and "
+            "branch-antlered, dwelling in deep forests. The comment "
+            "further cross-references this site's own SN 9.8, where "
+            "the same creature is described as flighty and easily "
+            "startled &mdash; making the verse's point sharper: if "
+            "even so wary a creature can be caught by desire for "
+            "taste, no one is beyond that risk."]),
+        ("A philological note on a single word", [
+            "Sujato's comment prefers the reading &lsquo;gehanissitaṁ&rsquo; "
+            "(&lsquo;domesticated&rsquo;, connected to home comforts) "
+            "over the metrically incorrect variant "
+            "&lsquo;gahananissitaṁ&rsquo;, noting the confusion "
+            "between the two readings is an old one, reflected even "
+            "in the traditional commentary itself."]),
+    ],
+    terms=[
+        ("vātamiga",
+         "&ldquo;Wind-deer&rdquo; &mdash; per Sujato's comment, a "
+         "fast, elusive forest creature described in a thirteenth-"
+         "century naturalist text and cross-referenced at this "
+         "site's own SN 9.8."),
+        ("rasehi",
+         "&ldquo;by tastes&rdquo; &mdash; the specific temptation "
+         "that overcomes even the wariest creature."),
+        ("gehanissitaṁ",
+         "&ldquo;domesticated&rdquo; &mdash; Sujato's preferred "
+         "reading, connected to the comforts of home life, over a "
+         "metrically incorrect variant."),
+        ("Vātamigajātaka",
+         "the traditional title of this tale, &lsquo;The "
+         "Wind-deer&rsquo;."),
+        ("SN 9.8",
+         "&ldquo;The Mistress of the House&rdquo; &mdash; the "
+         "already-completed page on this site cross-referenced in "
+         "Sujato's comment for a related description of the same "
+         "creature."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, with a naturalist's aside "
+        "in Sujato's comment discussed above. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja14:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the verse identify as 'worse than' anything else, in monasteries or meeting places?",
+         "opts": [
+             'Loud noise',
+             'Tastes',
+             'Crowds',
+             'Poor lighting',
+         ],
+         "correct": 1,
+         "expl": 'The temptation that even overcomes the elusive wind-deer.'},
+        {"q": "What already-completed page on this site does Sujato's comment cross-reference for the same creature?",
+         "opts": [
+             'No cross-reference is given',
+             'MN 51',
+             'SN 9.8, The Mistress of the House',
+             'AN 8.13',
+         ],
+         "correct": 2,
+         "expl": 'Describing the wind-deer there as flighty and easily startled.'},
+        {"q": "What thirteenth-century text does Sujato's comment cite for a description of the wind-deer?",
+         "opts": [
+             'The Dhammapada commentary',
+             'No specific text is cited',
+             'The Arthaśāstra',
+             "Haṁsadeva's Mṛgapakṣiśāstra",
+         ],
+         "correct": 3,
+         "expl": 'Describing the creature as fast, elusive, and skilled at vanishing from sight.'},
+        {"q": 'How was the wind-deer trapped, per the commentarial story?',
+         "opts": [
+             'By honey left out by a groundskeeper named Victor',
+             'By being chased down',
+             'No trapping method is described',
+             'By a physical cage',
+         ],
+         "correct": 0,
+         "expl": 'Once Victor had made his point, he released the deer.'},
+        {"q": "What philological choice does Sujato's comment prefer for one word in this verse?",
+         "opts": [
+             'No such choice is discussed',
+             "'Domesticated' (gehanissitaṁ) over the metrically incorrect variant 'gahananissitaṁ'",
+             'A completely different reading unrelated to either option',
+             "The commentary's reading over Sujato's own",
+         ],
+         "correct": 1,
+         "expl": 'Noting the confusion between the two readings is an old one, reflected even in the traditional commentary.'},
+        {"q": 'What overall point does this verse make?',
+         "opts": [
+             'That groundskeepers cannot be trusted',
+             'That deer are untrainable',
+             'That even an elusive, wary creature can be trapped by desire for taste',
+             'That honey should never be used as bait',
+         ],
+         "correct": 2,
+         "expl": 'Sharpened by the naturalist detail that the wind-deer is unusually fast and hard to catch.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Accept the Ass',
+             'Gales',
+             'The Arrow',
+             'The Wind-deer (Vātamigajātaka)',
+         ],
+         "correct": 3,
+         "expl": 'The fourteenth poem overall, and the fourth of the Sīlavagga.'},
+        {"q": 'What happened to the wind-deer after the groundskeeper made his point?',
+         "opts": [
+             'It was released',
+             'It was sold',
+             'The story does not say',
+             'It was kept in captivity',
+         ],
+         "correct": 0,
+         "expl": 'The trapping was a lesson, not a permanent capture.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The fourth poem of the Sīlavagga, following Ja 11 through Ja 13',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+         ],
+         "correct": 1,
+         "expl": 'Part of the same ten-poem Sīlavagga.'},
+        {"q": 'What physical qualities does the naturalist text ascribe to the wind-deer?',
+         "opts": [
+             'No physical description is given',
+             'Slow and heavy-set',
+             'Lean, long-legged, and branch-antlered, dwelling in deep forests',
+             'Small and hornless',
+         ],
+         "correct": 2,
+         "expl": "Grounding the verse's point in a specific, identifiable creature."},
+    ],
+    marginalia=[
+        ("Faster than weapons, slower than desire", [
+            "a creature skilled at vanishing from sight —",
+            "caught anyway, by a taste for honey"
+        ]),
+        ("A named groundskeeper's lesson", [
+            "Victor traps, then releases —",
+            "the point made, the deer set free"
+        ]),
+        ("The same animal, two pages apart", [
+            "flighty and easily startled at SN 9.8 —",
+            "and here, undone by a single taste"
+        ]),
+        ("A word restored against a scribal slip", [
+            "'domesticated', not 'in the thicket' —",
+            "an old confusion, carefully corrected"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja14/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../samyutta-nikaya/sn-9.8.html">SN 9.8 &mdash; The '
+        "Mistress of the House</a> &mdash; cross-referenced in "
+        "Sujato's own comment for the same creature.",
+        '<a href="ja-13.html">Ja 13 &mdash; The Arrow</a> &mdash; '
+        "the poem immediately before this one.",
+        '<a href="ja-15.html">Ja 15 &mdash; Accept the Ass</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 15 — Kharādiya (Accept the Ass)
+# --------------------------------------------------------------------------- #
+page(
+    15, "Khar&amacr;diya", "Accept the Ass",
+    meta_title="Ja 15 — Accept the Ass | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 15 — a terse verse about giving up on an unteachable "
+        "pupil, the first half of a deliberately paired set with the "
+        "next poem, and cross-linked to this site's own MN 51 and AN "
+        "8.13. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Two (Sīlavagga) &middot; Poem 5 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza, exchanging two short "
+                 "statements"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; unusually compressed, with a genuine "
+                       "textual dispute"),
+    ],
+    why=(
+        "Sujato's own comment identifies this poem as deliberately "
+        "paired with the next (Ja 16) &mdash; composed together "
+        "despite different meters, sharing terms, ideas, and poetic "
+        "play &mdash; and flags a genuine dispute with the "
+        "traditional commentary over whether a key word names an "
+        "animal or a person."),
+    guide=[
+        ("Giving up on an unteachable pupil", [
+            "The verse presents two short statements: an offer "
+            "&mdash; &lsquo;please accept the eight-hooved ass, the "
+            "deer more wily than the wily&rsquo; &mdash; met with a "
+            "refusal: &lsquo;he has skipped the appointment seven "
+            "times &mdash; I'll make no effort to instruct him.&rsquo; "
+            "Per Sujato's comment, the story tells how the Bodhisatta "
+            "declared a deer unteachable after it failed to show up "
+            "for lessons on the ruses of deer, seven times running."]),
+        ("A genuine dispute over one word's meaning", [
+            "Sujato's comment flags real disagreement with the "
+            "traditional commentary here: where the commentary reads "
+            "&lsquo;kharādiye&rsquo; as a vocative address to "
+            "&lsquo;Kharādiyā&rsquo;, the name of the Bodhisatta's "
+            "own sister, Sujato instead reads &lsquo;khara&rsquo; as "
+            "&lsquo;ass, mule&rsquo; and &lsquo;ādiye&rsquo; as a "
+            "verb form meaning &lsquo;you should accept&rsquo; "
+            "&mdash; giving two genuinely different readings of who "
+            "or what is actually being discussed."]),
+        ("Deliberately composed as a pair with the next poem", [
+            "Sujato's comment states directly that this poem and the "
+            "next (Ja 16) &lsquo;form a pair&rsquo; &mdash; though "
+            "written in different meters, the &lsquo;prevalence of "
+            "shared terms, ideas, and poetic play shows they must "
+            "have been composed together.&rsquo; This reading guide "
+            "notes the connection here and reprises it on the "
+            "following page."]),
+        ("A cross-linked theme of animal ruses", [
+            "The theme of deer employing deceptive tricks to survive "
+            "connects to already-completed pages on this site: "
+            "Sujato's comment on the next verse's imagery points to "
+            "MN 51 and AN 8.13, both of which discuss animal "
+            "cunning and deceptive ruses in ways that illuminate this "
+            "pair of poems."]),
+    ],
+    terms=[
+        ("kharādiye",
+         "read by the traditional commentary as a vocative address "
+         "to the Bodhisatta's sister Kharādiyā, but by Sujato as "
+         "&ldquo;you should accept the ass&rdquo; &mdash; see the "
+         "guide above."),
+        ("vaṅkātivaṅkinaṁ",
+         "&ldquo;more wily than the wily&rdquo; &mdash; describing "
+         "the deer's cunning, possibly meant as praise rather than "
+         "criticism, per Sujato's comment."),
+        ("sattahi kālātikkantaṁ",
+         "&ldquo;he has skipped the appointment seven times&rdquo; "
+         "&mdash; the specific reason given for abandoning the "
+         "pupil."),
+        ("Kharādiyajātaka",
+         "the traditional title of this tale, &lsquo;Accept the "
+         "Ass&rsquo;."),
+        ("Ja 16",
+         "the next poem in this chapter, which Sujato's own comment "
+         "identifies as deliberately composed as a pair with this "
+         "one."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, with a genuine "
+        "interpretive dispute discussed above. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja15:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does Sujato's comment say about this poem's relationship to the next poem, Ja 16?",
+         "opts": [
+             'This poem is a later addition based on Ja 16',
+             'They are entirely unrelated',
+             'They form a deliberately composed pair — despite different meters, they share terms, ideas, and poetic play',
+             'Ja 16 was written centuries later as a response',
+         ],
+         "correct": 2,
+         "expl": "Sujato's comment states they 'must have been composed together'."},
+        {"q": "What genuine dispute does Sujato's comment raise about the word 'kharādiye'?",
+         "opts": [
+             'Whether it refers to a place or a person',
+             'Whether it is even a real word',
+             'No dispute exists — the meaning is settled',
+             "Whether it addresses the Bodhisatta's sister by name, or means 'you should accept the ass'",
+         ],
+         "correct": 3,
+         "expl": "The traditional commentary and Sujato's own reading genuinely diverge here."},
+        {"q": 'Why, per the commentarial story, does the Bodhisatta refuse to instruct the deer?',
+         "opts": [
+             'The deer skipped the appointment seven times',
+             'The deer was too old to learn',
+             'No reason is given',
+             'The deer insulted him',
+         ],
+         "correct": 0,
+         "expl": "'I'll make no effort to instruct him' — a direct, terse refusal."},
+        {"q": "What does Sujato's comment suggest 'more wily than the wily' might actually be, despite sounding critical?",
+         "opts": [
+             'A definite insult with no other reading',
+             'Possibly meant as praise, referring to legitimate animal survival ruses',
+             "A description of the deer's physical appearance only",
+             'A mistranslation with no clear sense',
+         ],
+         "correct": 1,
+         "expl": 'Connecting to the theme of animal cunning discussed further at Ja 16.'},
+        {"q": 'What lessons was the deer supposed to attend, per the commentarial story?',
+         "opts": [
+             'No specific lessons are mentioned',
+             'Lessons on finding water',
+             'Lessons on the ruses of deer',
+             'Lessons on herd migration',
+         ],
+         "correct": 2,
+         "expl": "Directly connecting to the pair's shared theme, developed further in Ja 16."},
+        {"q": 'What already-completed pages on this site does the theme of animal ruses connect to?',
+         "opts": [
+             'Only the Dhammapada',
+             'SN 9.8 alone',
+             'No related pages exist',
+             'MN 51 and AN 8.13',
+         ],
+         "correct": 3,
+         "expl": 'Both discuss animal cunning in ways that illuminate this pair of poems.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Accept the Ass (Kharādiyajātaka)',
+             'The Triply Collapsed Deer',
+             'Gales',
+             'The Wind-deer',
+         ],
+         "correct": 0,
+         "expl": 'The fifteenth poem overall, and the fifth of the Sīlavagga.'},
+        {"q": 'What form does this verse take?',
+         "opts": [
+             'A single continuous statement',
+             'Two short exchanged statements — an offer and a refusal',
+             'A ten-line narrative',
+             'A prose passage',
+         ],
+         "correct": 1,
+         "expl": "Unusually compressed even for this collection's typically terse verses."},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The fifth poem of the Sīlavagga, following Ja 11 through Ja 14',
+             'The final poem of its chapter',
+         ],
+         "correct": 2,
+         "expl": 'Part of the same ten-poem Sīlavagga, immediately preceding its deliberately paired companion.'},
+        {"q": "How does the traditional commentary read 'khara' in 'kharādiye'?",
+         "opts": [
+             "As 'wisdom'",
+             'As a place name',
+             'The commentary offers no reading',
+             "As part of the name Kharādiyā, the Bodhisatta's sister",
+         ],
+         "correct": 3,
+         "expl": "Differing from Sujato's own preferred reading of 'khara' as 'ass, mule'."},
+    ],
+    marginalia=[
+        ("Seven missed appointments", [
+            "the teacher's patience finally runs out —",
+            "'I'll make no effort to instruct him'"
+        ]),
+        ("An ass, or a sister?", [
+            "the commentary and Sujato genuinely disagree —",
+            "one word, two entirely different readings"
+        ]),
+        ("Composed as a matched set", [
+            "different meters, shared terms and play —",
+            "this poem and the next, written together"
+        ]),
+        ("Wily, and maybe worth praising for it", [
+            "cunning that sounds like criticism —",
+            "but might be admiration in disguise"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja15/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-051.html">MN 51 &mdash; With '
+        "Kandaraka</a> &mdash; connected to this pair's theme of "
+        "animal ruses.",
+        '<a href="../anguttara-nikaya/an-8.13.html">AN 8.13 &mdash; '
+        "A Thoroughbred</a> &mdash; likewise connected to that theme.",
+        '<a href="ja-14.html">Ja 14 &mdash; The Wind-deer</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="ja-16.html">Ja 16 &mdash; The Triply Collapsed '
+        "Deer</a> &mdash; this poem's deliberately composed "
+        "companion.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 16 — Tipallattha (The Triply Collapsed Deer)
+# --------------------------------------------------------------------------- #
+page(
+    16, "Tipallattha", "The Triply Collapsed Deer",
+    meta_title="Ja 16 — The Triply Collapsed Deer | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 16 — a compressed catalog of a clever deer's six "
+        "survival tricks, completing this collection's deliberately "
+        "paired set with Ja 15. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Two (Sīlavagga) &middot; Poem 6 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza, densely packed with "
+                 "wordplay"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the most densely wordplay-packed verse "
+                       "in this chapter"),
+    ],
+    why=(
+        "This poem completes the deliberately composed pair begun at "
+        "Ja 15, cataloging in just four lines a set of six survival "
+        "tricks for a clever deer &mdash; each phrase, per Sujato's "
+        "comment, doing double duty as wordplay chiming against terms "
+        "in its companion verse."),
+    guide=[
+        ("A deer's earned second chance, densely described", [
+            "Where Ja 15 ended in refusal, this verse describes a "
+            "deer who has, per Sujato's comment, attentively learned "
+            "the ruses of deer after all: &lsquo;triply collapsed "
+            "with many illusions, eight-hooved, a midnight drinker "
+            "&mdash; he's breathing on the ground through one "
+            "nostril! Excelling with these six tricks, he deserves a "
+            "chance.&rsquo;"]),
+        ("Six specific tricks, named by the comment", [
+            "Sujato's comment spells out what the verse only "
+            "compresses: the &lsquo;six tricks&rsquo; are the three "
+            "ways of playing dead, the eight hooves (making little "
+            "sound with a dainty tread), sneaking a drink at "
+            "midnight, and breathing through one nostril &mdash; a "
+            "full catalog of deceptive survival behavior packed into "
+            "a single dense stanza."]),
+        ("Wordplay linking this poem to its companion", [
+            "Sujato's comment traces deliberate verbal echoes between "
+            "this verse and Ja 15: &lsquo;aṭṭha&rsquo; (eight) chimes "
+            "with &lsquo;aḍḍha&rsquo; (midnight) here, just as "
+            "&lsquo;chahi kalāhi&rsquo; (six tricks) chimes with "
+            "&lsquo;sattahi kālāti&rsquo; (seven times) in the "
+            "previous poem &mdash; confirming, at the level of "
+            "individual sound, that these two verses were composed "
+            "as a matched set."]),
+    ],
+    terms=[
+        ("tipallattha",
+         "&ldquo;triply collapsed&rdquo; &mdash; the first of the "
+         "deer's six survival tricks, one of three distinct ways of "
+         "playing dead."),
+        ("aṭṭhakkhuraṁ",
+         "&ldquo;eight-hooved&rdquo; &mdash; per Sujato's comment, "
+         "possibly referring to a dainty, quiet tread rather than a "
+         "literal extra pair of hooves."),
+        ("aḍḍharattāpapāyiṁ",
+         "&ldquo;a midnight drinker&rdquo; &mdash; one of the six "
+         "tricks, sneaking a drink under cover of darkness."),
+        ("chahi kalāhi",
+         "&ldquo;with these six tricks&rdquo; &mdash; the verse's "
+         "own summary count, chiming deliberately with "
+         "&lsquo;sattahi kālāti&rsquo; (seven times) in Ja 15."),
+        ("Tipallatthamigajātaka",
+         "the traditional title of this tale, &lsquo;The Triply "
+         "Collapsed Deer&rsquo;."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, densely packed with "
+        "wordplay chiming against its companion poem, Ja 15, "
+        "discussed above. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja16:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this verse describe, following on from Ja 15's refusal?",
+         "opts": [
+             'A deer who has attentively learned the ruses of deer, earning a second chance',
+             'A different animal entirely',
+             'The same refusal repeated',
+             'A completely unrelated story',
+         ],
+         "correct": 3,
+         "expl": "'Excelling with these six tricks, he deserves a chance.'"},
+        {"q": "How many specific survival tricks does Sujato's comment identify in this verse?",
+         "opts": [
+             'Six — three ways of playing dead, eight hooves, midnight drinking, and breathing through one nostril',
+             'Ten',
+             'The comment gives no specific count',
+             'Three',
+         ],
+         "correct": 0,
+         "expl": 'A full catalog of deceptive survival behavior packed into a single dense stanza.'},
+        {"q": "What wordplay does Sujato's comment identify linking this verse to Ja 15?",
+         "opts": [
+             'No wordplay is identified',
+             "'Aṭṭha' (eight) chiming with 'aḍḍha' (midnight), and 'chahi kalāhi' (six tricks) chiming with 'sattahi kālāti' (seven times)",
+             'Only a shared rhyme scheme',
+             'A shared refrain repeated word for word',
+         ],
+         "correct": 1,
+         "expl": 'Confirming, at the level of individual sound, that the two poems were composed as a matched set.'},
+        {"q": "What might 'eight-hooved' actually refer to, per Sujato's comment?",
+         "opts": [
+             'The comment does not address this term',
+             'A literal extra pair of hooves',
+             'Possibly a dainty, quiet tread making little sound, rather than a literal anatomical detail',
+             'A completely unrelated meaning',
+         ],
+         "correct": 2,
+         "expl": "One of several places where the verse's compressed language requires the comment to unpack it."},
+        {"q": "What is one of the deer's six tricks, according to the comment?",
+         "opts": [
+             'Swimming across rivers',
+             'Changing color',
+             'Climbing trees',
+             'Sneaking a drink at midnight',
+         ],
+         "correct": 3,
+         "expl": 'Listed alongside three ways of playing dead, eight hooves, and breathing through one nostril.'},
+        {"q": "What is this poem's relationship to Ja 15?",
+         "opts": [
+             'A deliberately composed pair, sharing terms, ideas, and poetic wordplay despite different meters',
+             'This poem was written centuries earlier',
+             'They contradict each other directly',
+             'No relationship — they are entirely separate',
+         ],
+         "correct": 0,
+         "expl": "Confirmed by Sujato's own comment on both poems."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Accept the Ass',
+             'The Triply Collapsed Deer (Tipallatthamigajātaka)',
+             'Gales',
+             'The Feast for the Dead',
+         ],
+         "correct": 1,
+         "expl": 'The sixteenth poem overall, and the sixth of the Sīlavagga.'},
+        {"q": "How would you describe this verse's density, compared to most others in this chapter?",
+         "opts": [
+             'The longest verse in the whole collection',
+             'Unusually sparse and simple',
+             'Unusually dense, packing six distinct tricks and layered wordplay into four lines',
+             'About average for this chapter',
+         ],
+         "correct": 2,
+         "expl": "Flagged directly in this reading guide's own difficulty rating as the chapter's most compressed verse."},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The sixth poem of the Sīlavagga, immediately following its companion poem Ja 15',
+         ],
+         "correct": 3,
+         "expl": 'Part of the same ten-poem Sīlavagga.'},
+        {"q": "Why does the verse's conclusion say the deer 'deserves a chance'?",
+         "opts": [
+             'Because he has excelled at the six survival tricks he was meant to learn',
+             'Because no reason is given',
+             'Because the teacher relented out of pity alone',
+             'Because he is young',
+         ],
+         "correct": 0,
+         "expl": 'Reversing the outcome of the paired poem, Ja 15, where the same pupil was given up on.'},
+    ],
+    marginalia=[
+        ("Six tricks, four lines", [
+            "playing dead three ways, drinking by night —",
+            "a whole survival curriculum, compressed"
+        ]),
+        ("A second chance, earned this time", [
+            "where Ja 15 ended in refusal —",
+            "this poem answers with 'he deserves a chance'"
+        ]),
+        ("Sound linking two poems", [
+            "'aṭṭha' echoing 'aḍḍha', six echoing seven —",
+            "composed together, and it shows"
+        ]),
+        ("The densest verse in the chapter", [
+            "wordplay layered on wordplay —",
+            "needing the comment to unpack it fully"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja16/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-15.html">Ja 15 &mdash; Accept the Ass</a> '
+        "&mdash; this poem's deliberately composed companion, "
+        "immediately before it.",
+        '<a href="ja-17.html">Ja 17 &mdash; Gales</a> &mdash; the '
+        "next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 17 — Māluta (Gales)
+# --------------------------------------------------------------------------- #
+page(
+    17, "M&amacr;luta", "Gales",
+    meta_title="Ja 17 — Gales | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 17 — a verse resolving a friendly dispute by showing "
+        "both sides were right, prompted by two friends arguing about "
+        "when the cold comes. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Two (Sīlavagga) &middot; Poem 7 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "The Bodhisatta, per the commentarial story, "
+                    "settling a dispute between two friends"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short, gently humorous verse"),
+    ],
+    why=(
+        "Unlike this chapter's more dramatic tales of sacrifice and "
+        "betrayal, this poem resolves a small, almost comic dispute "
+        "&mdash; and Sujato's own comment draws out a gentle, "
+        "self-aware moral: that even close friends can end up "
+        "arguing over trivial things."),
+    guide=[
+        ("A dispute resolved by finding both sides right", [
+            "The verse settles a disagreement directly: &lsquo;whether "
+            "the moon is waning or waxing, it is cool when the gale "
+            "blows. Since the wind brings the cool, both are "
+            "undefeated in this instance.&rsquo; Per Sujato's comment, "
+            "two friends had been arguing about whether the cold came "
+            "in the dark or bright phase of the moon, and the "
+            "Bodhisatta's answer dissolves the argument rather than "
+            "declaring a winner: neither is wrong, since the wind "
+            "brings coolness at any time."]),
+        ("A gentle moral about friends arguing over trivial things", [
+            "Sujato's own comment draws out the poem's underlying "
+            "point with a touch of humor: &lsquo;the moral of the "
+            "story would seem to be that even close friends can end "
+            "up arguing over stupid things.&rsquo; Compared to this "
+            "chapter's other poems &mdash; involving self-sacrifice, "
+            "betrayal, and unteachable pupils &mdash; this one settles "
+            "for a lighter, more good-humored kind of wisdom."]),
+    ],
+    terms=[
+        ("kāḷe vā yadi vā juṇhe",
+         "&ldquo;whether the moon is waning or waxing&rdquo; "
+         "&mdash; the two positions the friends had been arguing "
+         "over."),
+        ("vātajāni sītāni",
+         "&ldquo;the wind brings the cool&rdquo; &mdash; the "
+         "verse's actual explanation, bypassing the dispute "
+         "entirely."),
+        ("ubhotthamaparājitā",
+         "&ldquo;both are undefeated&rdquo; &mdash; the verse's "
+         "resolution, finding both friends correct rather than "
+         "declaring a winner."),
+        ("Mālutajātaka",
+         "the traditional title of this tale, &lsquo;Gales&rsquo;."),
+        ("Bodhisatta",
+         "the Buddha-to-be in this and other Jātaka tales; here, the "
+         "one who settles the friends' dispute."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja17:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What were the two friends arguing about, per Sujato's comment?",
+         "opts": [
+             'Which season was best',
+             'Whether the cold came in the dark or bright phase of the moon',
+             'Who was the better hunter',
+             'The comment does not describe a dispute',
+         ],
+         "correct": 0,
+         "expl": 'A small, almost comic dispute the verse then resolves.'},
+        {"q": 'How does the verse resolve the dispute?',
+         "opts": [
+             'By declaring one friend the clear winner',
+             "By showing the wind brings coolness at any time, so both are 'undefeated'",
+             'By refusing to answer at all',
+             'By dismissing the question as unimportant',
+         ],
+         "correct": 1,
+         "expl": 'Dissolving the argument rather than declaring a winner.'},
+        {"q": "What gentle moral does Sujato's own comment draw from this story?",
+         "opts": [
+             'No moral is drawn',
+             'That arguments should always be settled by an authority',
+             'That even close friends can end up arguing over stupid things',
+             'That the moon controls the weather',
+         ],
+         "correct": 2,
+         "expl": "A touch of self-aware humor distinct from this chapter's more dramatic poems."},
+        {"q": 'Who resolves the dispute, per the commentarial story?',
+         "opts": [
+             'A third friend',
+             'No one resolves it',
+             'A king',
+             'The Bodhisatta',
+         ],
+         "correct": 3,
+         "expl": 'Settling the argument with an answer that satisfies both sides.'},
+        {"q": "How does this poem's tone compare to this chapter's other tales, such as Ja 12 or Ja 13?",
+         "opts": [
+             'Lighter and more good-humored, settling for a gentler kind of wisdom',
+             'Darker and more tragic',
+             'There is no notable difference in tone',
+             'Equally dramatic and weighty',
+         ],
+         "correct": 0,
+         "expl": 'A contrast noted directly in this reading guide.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Triply Collapsed Deer',
+             'Gales (Mālutajātaka)',
+             'The Feast for the Dead',
+             'The Vowed Feast',
+         ],
+         "correct": 1,
+         "expl": 'The seventeenth poem overall, and the seventh of the Sīlavagga.'},
+        {"q": "What single natural force does the verse credit for bringing the cold, regardless of the moon's phase?",
+         "opts": [
+             'Cloud cover',
+             'Rain',
+             'The gale (wind)',
+             'The stars',
+         ],
+         "correct": 2,
+         "expl": "'Since the wind brings the cool, both are undefeated in this instance.'"},
+        {"q": 'Does the verse declare either friend to be wrong?',
+         "opts": [
+             'Yes, both friends are declared wrong',
+             'The verse does not address the dispute directly',
+             'Yes, one friend is clearly wrong',
+             'No — the verse finds a way for both positions to be correct',
+         ],
+         "correct": 3,
+         "expl": 'A diplomatic resolution rather than a declared winner.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The seventh poem of the Sīlavagga, following Ja 11 through Ja 16',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+         ],
+         "correct": 0,
+         "expl": 'Part of the same ten-poem Sīlavagga.'},
+        {"q": "What role does 'Bodhisatta' refer to in this and other Jātaka tales?",
+         "opts": [
+             'A title for any wise elder',
+             'The Buddha-to-be, in his past lives',
+             'A specific historical king',
+             'A term with no fixed meaning',
+         ],
+         "correct": 1,
+         "expl": "Here, the figure who settles the friends' small dispute."},
+    ],
+    marginalia=[
+        ("An argument about the moon", [
+            "waning or waxing, which brings the cold? —",
+            "a dispute settled by looking past the question"
+        ]),
+        ("Both sides declared undefeated", [
+            "not a winner and a loser —",
+            "just a truer explanation than either guessed"
+        ]),
+        ("A moral with a wink", [
+            "'even close friends argue over stupid things' —",
+            "Sujato's own comment, lightly amused"
+        ]),
+        ("A break from this chapter's heavier tales", [
+            "no sacrifice, no betrayal here —",
+            "just wind, and a small dispute resolved"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja17/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-16.html">Ja 16 &mdash; The Triply Collapsed '
+        "Deer</a> &mdash; the poem immediately before this one.",
+        '<a href="ja-18.html">Ja 18 &mdash; The Feast for the '
+        "Dead</a> &mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 18 — Matakabhatta (The Feast for the Dead)
+# --------------------------------------------------------------------------- #
+page(
+    18, "Matakabhatta", "The Feast for the Dead",
+    meta_title="Ja 18 — The Feast for the Dead | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 18 — a verse against animal sacrifice, paired with a "
+        "commentarial story of a goat who laughs and weeps before "
+        "being killed. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Two (Sīlavagga) &middot; Poem 8 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse with a striking commentarial "
+                       "image"),
+    ],
+    why=(
+        "This verse's argument against killing is direct and "
+        "compassionate on its own, but Sujato's comment adds a "
+        "striking, unsettling image behind it &mdash; a sacrificial "
+        "goat who alternates between laughing and weeping, each for "
+        "its own reason &mdash; and situates the practice of animal "
+        "sacrifice in a documented ancient context reaching back to "
+        "Vedic ritual texts."),
+    guide=[
+        ("An argument against killing, grounded in shared suffering", [
+            "The verse states its case plainly: &lsquo;if beings only "
+            "knew how this suffering is created by birth, no creature "
+            "would kill another, for the slayer of creatures "
+            "grieves.&rsquo; The argument does not appeal to rules or "
+            "commandments, but to a shared, honest recognition of "
+            "what killing costs both the killed and the killer."]),
+        ("A goat who laughs and weeps for different reasons", [
+            "Per Sujato's comment, the commentarial story tells of a "
+            "goat being prepared for a sacrificial offering to the "
+            "departed, who startles those present by alternating "
+            "between laughter and tears. It laughs, the story "
+            "explains, because it knows its own bad karma is about "
+            "to be expiated through this death; it weeps because it "
+            "knows the one performing the sacrifice will suffer as it "
+            "has &mdash; a single image carrying both the verse's "
+            "compassion for the victim and its warning to the "
+            "killer."]),
+        ("A documented ancient practice", [
+            "Sujato's comment situates this story within real "
+            "documented history: goat sacrifice, it notes, was known "
+            "since Vedic times, citing the Rig Veda and the "
+            "Śatapatha Brāhmaṇa as textual evidence &mdash; grounding "
+            "this tale's critique in an actually attested ancient "
+            "ritual practice, not a hypothetical one."]),
+    ],
+    terms=[
+        ("dukkhāyaṁ jātisambhavo",
+         "&ldquo;how this suffering is created by birth&rdquo; "
+         "&mdash; the shared condition the verse asks its audience "
+         "to recognize."),
+        ("pāṇaghātī hi socati",
+         "&ldquo;the slayer of creatures grieves&rdquo; &mdash; the "
+         "verse's closing warning to whoever kills."),
+        ("matakabhatta",
+         "&ldquo;the feast for the dead&rdquo; &mdash; the "
+         "sacrificial offering ritual this tale's commentarial story "
+         "concerns."),
+        ("Matakabhattajātaka",
+         "the traditional title of this tale, &lsquo;The Feast for "
+         "the Dead&rsquo;."),
+        ("Rig Veda / Śatapatha Brāhmaṇa",
+         "ancient Vedic textual sources Sujato's comment cites as "
+         "documented evidence that goat sacrifice was practiced "
+         "since Vedic times."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja18:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What argument does the verse make against killing?',
+         "opts": [
+             'No argument is made',
+             'That it violates a specific commandment',
+             'That if beings knew how suffering is created by birth, no creature would kill another, since the killer also grieves',
+             'That killing is only wrong for certain species',
+         ],
+         "correct": 1,
+         "expl": 'An appeal to shared recognition rather than rules.'},
+        {"q": "What striking image does the commentarial story add, per Sujato's comment?",
+         "opts": [
+             'No such image is described',
+             'A goat that speaks in human language',
+             'A goat who alternates between laughing and weeping before its sacrifice, each for a different reason',
+             'A goat that escapes the sacrifice',
+         ],
+         "correct": 2,
+         "expl": 'Carrying both compassion for the victim and a warning to the killer in a single image.'},
+        {"q": 'Why does the goat laugh, per the commentarial story?',
+         "opts": [
+             'Because it finds the ritual absurd',
+             'The story gives no reason',
+             'Because it does not understand what is happening',
+             'Because it knows its own bad karma is about to be expiated through this death',
+         ],
+         "correct": 3,
+         "expl": "One half of the goat's dual reaction."},
+        {"q": 'Why does the goat weep?',
+         "opts": [
+             'Because it knows the one performing the sacrifice will suffer as it has',
+             'Because it wants to be spared',
+             'The story gives no reason',
+             'Out of fear alone',
+         ],
+         "correct": 0,
+         "expl": "The other half of the goat's dual reaction, carrying the verse's warning to the killer."},
+        {"q": "What ancient texts does Sujato's comment cite as evidence that goat sacrifice dates to Vedic times?",
+         "opts": [
+             'No texts are cited',
+             'The Rig Veda and the Śatapatha Brāhmaṇa',
+             'The Dhammapada',
+             'The Arthaśāstra',
+         ],
+         "correct": 1,
+         "expl": "Grounding this tale's critique in a documented, attested ancient ritual practice."},
+        {"q": "What does the verse's closing line state about the one who kills?",
+         "opts": [
+             'No statement is made about the killer',
+             'That they are rewarded',
+             'That the slayer of creatures grieves',
+             'That they feel nothing',
+         ],
+         "correct": 2,
+         "expl": "The verse's final, direct warning."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Vowed Feast',
+             'The Reed Drink',
+             'Gales',
+             'The Feast for the Dead (Matakabhattajātaka)',
+         ],
+         "correct": 3,
+         "expl": 'The eighteenth poem overall, and the eighth of the Sīlavagga.'},
+        {"q": "What kind of ritual does this tale's commentarial story concern?",
+         "opts": [
+             'An animal sacrifice offered as a feast for the departed',
+             'A harvest festival',
+             'A coronation',
+             'A wedding ceremony',
+         ],
+         "correct": 0,
+         "expl": "Giving this poem its traditional title, 'The Feast for the Dead'."},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The eighth poem of the Sīlavagga, following Ja 11 through Ja 17',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+         ],
+         "correct": 1,
+         "expl": 'Part of the same ten-poem Sīlavagga, sharing an anti-sacrifice theme with the next poem, Ja 19.'},
+        {"q": "What is the basis of the verse's argument — rules, or shared suffering?",
+         "opts": [
+             'Purely a matter of ritual purity',
+             'A specific prohibition handed down by authority',
+             'A shared recognition of the suffering created by birth, applying to both victim and killer',
+             'Neither — the verse gives no basis',
+         ],
+         "correct": 2,
+         "expl": 'An appeal to empathy and honest recognition, not commandment.'},
+    ],
+    marginalia=[
+        ("Two reasons, one animal", [
+            "laughter for karma about to be paid —",
+            "tears for the suffering still to come"
+        ]),
+        ("A grief that runs both ways", [
+            "'the slayer of creatures grieves' —",
+            "the verse's warning as much as its plea"
+        ]),
+        ("A practice documented, not imagined", [
+            "the Rig Veda, the Śatapatha Brāhmaṇa —",
+            "real ritual, real critique"
+        ]),
+        ("Understanding as the only real deterrent", [
+            "not a rule, but recognition —",
+            "if beings only knew, no one would kill"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja18/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-17.html">Ja 17 &mdash; Gales</a> &mdash; the '
+        "poem immediately before this one.",
+        '<a href="ja-19.html">Ja 19 &mdash; The Vowed Feast</a> '
+        "&mdash; the next poem in this chapter, sharing this poem's "
+        "anti-sacrifice theme.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 19 — Āyācitabhatta (The Vowed Feast)
+# --------------------------------------------------------------------------- #
+page(
+    19, "&Amacr;y&amacr;citabhatta", "The Vowed Feast",
+    meta_title="Ja 19 — The Vowed Feast | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 19 — a deliberately riddling verse against seeking "
+        "release from a vow through sacrifice, with Sujato's own "
+        "comment supplying the paraphrase the verse withholds. From "
+        "Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Two (Sīlavagga) &middot; Poem 9 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza, deliberately riddling"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; deliberately paradoxical, requiring "
+                       "the comment's paraphrase"),
+    ],
+    why=(
+        "Sujato's own comment states outright that this verse's "
+        "riddling wordplay on &lsquo;release&rsquo; and "
+        "&lsquo;binding&rsquo; is difficult enough that he translates "
+        "literally and supplies a separate paraphrase &mdash; making "
+        "this an unusually transparent look at the gap between a "
+        "compressed canonical verse and the plain sense it is meant "
+        "to carry."),
+    guide=[
+        ("A riddle built on the words 'release' and 'binding'", [
+            "The verse plays on paradox: &lsquo;if you would be "
+            "released, after death might you be released, because "
+            "releasing binds. That's not how the attentive are "
+            "released; such release is the fool's bondage.&rsquo; "
+            "Sujato's comment acknowledges the verse is "
+            "&lsquo;riddling&rsquo;, and offers a direct paraphrase: "
+            "&lsquo;if you want to be released from your vow, only in "
+            "some future life might you find release... because "
+            "releasing yourself from a vow by sacrificing an animal "
+            "only binds you to suffering.&rsquo;"]),
+        ("A vow to sacrifice, and the trap it creates", [
+            "Per Sujato's comment, the underlying story concerns a "
+            "merchant who makes a sacrifice to ensure the success of "
+            "his voyage, vowing that on his return he will perform "
+            "another sacrifice, freeing him from that first vow. The "
+            "verse's point is that this apparent &lsquo;release&rsquo; "
+            "is no release at all: each sacrificial killing only "
+            "creates further bondage to suffering, for both animal "
+            "and vower."]),
+        ("A companion piece to the previous poem's critique of sacrifice", [
+            "This verse continues directly from Ja 18's argument "
+            "against killing, applying the same underlying concern to "
+            "a different specific case: not a feast honoring the "
+            "dead, but a vow made to secure a safe journey. Together, "
+            "the two poems form a short internal pair critiquing "
+            "sacrificial practice from two angles."]),
+    ],
+    terms=[
+        ("sace mucce pecca mucce",
+         "&ldquo;if you would be released, after death might you be "
+         "released&rdquo; &mdash; the verse's opening riddle, per "
+         "Sujato's comment deliberately paradoxical."),
+        ("muccamāno hi bajjhati",
+         "&ldquo;because releasing binds&rdquo; &mdash; the verse's "
+         "central paradox, resolved only by Sujato's separate "
+         "paraphrase in his comment."),
+        ("mutti bālassa bandhanaṁ",
+         "&ldquo;such release is the fool's bondage&rdquo; &mdash; "
+         "the verse's closing statement of its own paradox."),
+        ("Āyācitabhattajātaka",
+         "the traditional title of this tale, &lsquo;The Vowed "
+         "Feast&rsquo;."),
+        ("Ja 18",
+         "the previous poem in this chapter, forming a short "
+         "internal pair with this one, both critiquing sacrificial "
+         "practice."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, deliberately riddling, "
+        "which Sujato's own comment translates literally before "
+        "supplying a separate paraphrase, discussed above. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja19:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does Sujato's comment say directly about this verse's style?",
+         "opts": [
+             'That its meaning is permanently lost',
+             'That it is perfectly clear and needs no explanation',
+             "That it is 'riddling', requiring a literal translation plus a separate paraphrase",
+             'That it is a later, corrupted addition',
+         ],
+         "correct": 2,
+         "expl": 'An unusually transparent look at the gap between a compressed verse and its intended sense.'},
+        {"q": "What paraphrase does Sujato's comment supply for the verse's central paradox?",
+         "opts": [
+             'That all vows should be broken immediately',
+             'That vows made before a journey are meaningless',
+             'No paraphrase is given',
+             'That releasing yourself from a vow by sacrificing an animal only binds you to suffering',
+         ],
+         "correct": 3,
+         "expl": "Resolving the wordplay on 'release' and 'binding' that the bare verse leaves compressed."},
+        {"q": "What vow does the underlying story concern, per Sujato's comment?",
+         "opts": [
+             "A merchant's vow to perform another sacrifice upon his safe return from a voyage",
+             'A vow to never sacrifice again',
+             'No specific vow is described',
+             'A vow of silence',
+         ],
+         "correct": 0,
+         "expl": 'Made to ensure the success of his voyage, with a second sacrifice promised to release him from it.'},
+        {"q": 'According to the verse, does completing the second sacrifice actually release the merchant?',
+         "opts": [
+             'Yes, completely and immediately',
+             'No — the verse argues this apparent release only creates further bondage to suffering',
+             'The verse does not address this',
+             'Only if performed at a specific shrine',
+         ],
+         "correct": 1,
+         "expl": "'Releasing binds' — each sacrificial killing creates further bondage, not less."},
+        {"q": 'How does this poem relate to Ja 18, the previous poem in this chapter?',
+         "opts": [
+             'It retells the exact same story',
+             'It contradicts Ja 18 directly',
+             "It continues Ja 18's critique of sacrifice, applied to a different specific case (a vow before a journey)",
+             'It has no relationship to Ja 18',
+         ],
+         "correct": 2,
+         "expl": 'Together forming a short internal pair critiquing sacrificial practice from two angles.'},
+        {"q": "What does the verse call 'the fool's bondage'?",
+         "opts": [
+             'Marriage',
+             'Silence',
+             'Wealth',
+             'The kind of release the fool pursues through further sacrifice',
+         ],
+         "correct": 3,
+         "expl": "Contrasted with how 'the attentive are released' — not through this paradoxical means."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Vowed Feast (Āyācitabhattajātaka)',
+             'The Reed Drink',
+             'Gales',
+             'The Feast for the Dead',
+         ],
+         "correct": 0,
+         "expl": 'The nineteenth poem overall, and the ninth of the Sīlavagga.'},
+        {"q": "Why does this reading guide rate this poem's difficulty higher than most others in this chapter?",
+         "opts": [
+             'Because it is unusually long',
+             "Because its deliberately paradoxical wordplay requires the comment's separate paraphrase to fully understand",
+             'Because it uses an unusual meter',
+             'Because no translation exists',
+         ],
+         "correct": 1,
+         "expl": "One of the more overtly difficult verses in this collection's whole partial selection."},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The ninth poem of the Sīlavagga, following Ja 11 through Ja 18',
+             'The final poem of its chapter',
+         ],
+         "correct": 2,
+         "expl": 'The second-to-last poem of this ten-poem chapter.'},
+        {"q": "What two occasions for sacrifice does this poem's underlying story involve?",
+         "opts": [
+             'A wedding and a funeral',
+             'No occasions are specified',
+             'Two harvest festivals',
+             'One sacrifice to ensure a safe voyage, and a second vowed sacrifice to release him from the first',
+         ],
+         "correct": 3,
+         "expl": "The verse's paradox turns on this second, apparently liberating sacrifice actually creating further bondage."},
+    ],
+    marginalia=[
+        ("A riddle the translator admits is a riddle", [
+            "Sujato translates literally, then explains separately —",
+            "the verse alone won't give up its meaning"
+        ]),
+        ("Release that only binds tighter", [
+            "a second sacrifice, meant to free him —",
+            "the verse says it does the opposite"
+        ]),
+        ("Two poems, one target", [
+            "Ja 18's feast, this poem's vow —",
+            "sacrifice critiqued from two directions"
+        ]),
+        ("The fool's own kind of freedom", [
+            "not real release, just further bondage —",
+            "the attentive find a different way"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja19/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-18.html">Ja 18 &mdash; The Feast for the '
+        "Dead</a> &mdash; this poem's companion in critiquing "
+        "sacrificial practice.",
+        '<a href="ja-20.html">Ja 20 &mdash; The Reed Drink</a> '
+        "&mdash; the next poem, closing this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 20 — Naḷapāna (The Reed Drink)
+# --------------------------------------------------------------------------- #
+page(
+    20, "Na&#7789;ap&amacr;na", "The Reed Drink",
+    meta_title="Ja 20 — The Reed Drink | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 20, closing the Sīlavagga — a verse of collective "
+        "ingenuity outwitting a lake monster by drinking through "
+        "hollow reeds. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Two (Sīlavagga) &middot; Poem 10 of 10 (closing the chapter)",
+    glance=[
+        ("Setting", "A group speaking together, warning a hidden "
+                    "danger by a body of water"),
+        ("Speaker", "A collective &lsquo;we&rsquo;, per the "
+                    "commentarial story, animals led by the "
+                    "Bodhisatta"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse of practical ingenuity"),
+    ],
+    why=(
+        "This poem closes the Sīlavagga on a note of collective, "
+        "practical wisdom &mdash; noticing danger through simple "
+        "observation, and solving it through method rather than force "
+        "&mdash; before the source text's own untranslated closing "
+        "summary verse names all ten poems of this chapter in "
+        "sequence."),
+    guide=[
+        ("Danger read from footprints, and outwitted by method", [
+            "The verse states the observation and the solution "
+            "together: &lsquo;seeing footprints go down into the "
+            "water, and none that return, we shall drink water "
+            "through a reed: no way shall you kill me.&rsquo; The "
+            "logic is entirely practical &mdash; tracks entering the "
+            "water with none coming back out are proof enough of "
+            "danger, and the response is not to avoid the water "
+            "altogether but to find a way around the danger itself."]),
+        ("A monster in the lake, and a collective solution", [
+            "Per Sujato's comment, a monster dwells in the lake, but "
+            "the Bodhisatta thwarts it and keeps his people safe by "
+            "having them drink through long hollow reeds rather than "
+            "bending down to the water's surface &mdash; solving the "
+            "danger through ingenuity rather than confrontation."]),
+        ("Closing the Sīlavagga", [
+            "This poem closes the Sīlavagga, the second of eight "
+            "chapters this site's selection draws from within the "
+            "Ekakanipāta. The source text's own untranslated summary "
+            "verse (uddāna) immediately follows, naming all ten poems "
+            "of this chapter in sequence &mdash; not presented here "
+            "as quoted text, since it carries no separate translation, "
+            "but noted for completeness, just as at the close of the "
+            "previous chapter (Ja 10)."]),
+    ],
+    terms=[
+        ("padamanuttiṇṇaṁ",
+         "&ldquo;footprints go down into the water&rdquo; &mdash; "
+         "the observed evidence of danger the verse opens with."),
+        ("naḷena vāriṁ pissāma",
+         "&ldquo;we shall drink water through a reed&rdquo; "
+         "&mdash; the collective, practical solution the verse "
+         "proposes."),
+        ("neva maṁ tvaṁ vadhissasi",
+         "&ldquo;no way shall you kill me&rdquo; &mdash; the verse's "
+         "direct address to the danger itself, defeated by method "
+         "rather than confrontation."),
+        ("Naḷapānajātaka",
+         "the traditional title of this tale, &lsquo;The Reed "
+         "Drink&rsquo;, closing the Sīlavagga."),
+        ("Sīlavaggo dutiyo",
+         "&ldquo;the Sīlavagga, the second [chapter]&rdquo; &mdash; "
+         "the source text's own untranslated closing marker for this "
+         "chapter, followed immediately by its summary verse."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. The chapter's own "
+        "untranslated closing summary verse (uddāna), which follows "
+        "immediately in the source text, is not quoted here since it "
+        "carries no English translation, but its content &mdash; the "
+        "ten poem titles of this chapter in sequence &mdash; matches "
+        "this reading guide's own further reading list below. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja20:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What evidence of danger does the verse open with?',
+         "opts": [
+             'A warning from another animal',
+             'No specific evidence is mentioned',
+             'A strange sound from the water',
+             'Footprints going down into the water, with none that return',
+         ],
+         "correct": 3,
+         "expl": 'Simple observation providing proof enough of danger.'},
+        {"q": 'What solution does the verse propose?',
+         "opts": [
+             'Drinking water through a reed, rather than bending down to the surface',
+             'Fighting the danger directly',
+             'Waiting until the danger leaves',
+             'Avoiding the water entirely',
+         ],
+         "correct": 0,
+         "expl": 'Solving the danger through ingenuity rather than confrontation or avoidance.'},
+        {"q": "What does Sujato's comment say lives in the lake?",
+         "opts": [
+             'A group of fish',
+             'A monster',
+             'A rival herd',
+             'The comment does not specify',
+         ],
+         "correct": 1,
+         "expl": "Thwarted by the Bodhisatta's practical solution rather than direct confrontation."},
+        {"q": 'Who proposes and carries out the solution, per the commentarial story?',
+         "opts": [
+             'No solution is actually carried out',
+             'A single individual acting alone',
+             'The Bodhisatta, keeping his people safe collectively',
+             'The monster itself',
+         ],
+         "correct": 2,
+         "expl": "Matching the verse's own collective 'we shall drink water through a reed'."},
+        {"q": 'What chapter does this poem close?',
+         "opts": [
+             'The final chapter of the whole Jātaka',
+             'It does not close a chapter',
+             'The Apaṇṇakavagga',
+             "The Sīlavagga, the second of eight chapters this site's selection draws from",
+         ],
+         "correct": 3,
+         "expl": "The source text's own untranslated summary verse (uddāna) follows immediately after."},
+        {"q": "Is the chapter's closing summary verse (uddāna) presented as quoted text in this reading guide?",
+         "opts": [
+             'No — it carries no separate English translation, so it is only noted for completeness',
+             'It does not exist for this chapter',
+             'It is presented as spoken by the Buddha',
+             'Yes, quoted in full',
+         ],
+         "correct": 0,
+         "expl": 'Consistent with the same practice at the close of the previous chapter, Ja 10.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Vowed Feast',
+             'The Reed Drink (Naḷapānajātaka)',
+             'The Feast for the Dead',
+             'Gales',
+         ],
+         "correct": 1,
+         "expl": 'The twentieth poem overall, and the tenth and final poem of the Sīlavagga.'},
+        {"q": "How does the verse's problem-solving approach compare to force or direct confrontation?",
+         "opts": [
+             'It relies on simply ignoring the danger',
+             'It relies entirely on force',
+             'It relies on practical ingenuity — finding a way around the danger rather than confronting it directly',
+             'It relies on prayer alone',
+         ],
+         "correct": 2,
+         "expl": "The reed-drinking method avoids the danger's reach entirely."},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The first poem of a later chapter',
+             'The first poem of the Sīlavagga',
+             'The tenth and final poem of the Sīlavagga, closing this chapter',
+         ],
+         "correct": 3,
+         "expl": "Its closing position is directly confirmed by the chapter's own summary verse following immediately after."},
+        {"q": "What broader quality does this poem's solution illustrate, closing out the Sīlavagga's ethical theme?",
+         "opts": [
+             'Practical wisdom and care for the safety of the group',
+             'Individual heroism alone',
+             'Resignation to fate',
+             'Blind courage',
+         ],
+         "correct": 0,
+         "expl": "Echoing the chapter's opening poem, Ja 11, on virtue and protection extended to others."},
+    ],
+    marginalia=[
+        ("Tracks that never come back", [
+            "proof enough, without a single word from the water —",
+            "danger read plainly, from footprints alone"
+        ]),
+        ("A reed instead of a fight", [
+            "no confrontation needed —",
+            "just a way around what waits below"
+        ]),
+        ("Safety, kept collective", [
+            "'we shall drink', not 'I alone will' —",
+            "the whole group protected by one idea"
+        ]),
+        ("Ten poems, one chapter closed", [
+            "the Sīlavagga's own summary follows —",
+            "not quoted, since it has no translation"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja20/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-19.html">Ja 19 &mdash; The Vowed Feast</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="./">Jataka</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
