@@ -57046,3 +57046,352 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thag 21.1 — Vaṅgīsa
+# --------------------------------------------------------------------------- #
+page(
+    21, 1, "Va&#7749;g&imacr;sa", "Va&#7749;g&imacr;sa",
+    meta_title="Thag 21.1 — Vaṅgīsa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Vaṅgīsa's verse, the Great Book and closing poem of the "
+        "entire Theragātha &mdash; a former wandering poet turned "
+        "monk whose seventy-one verses gather nearly this "
+        "collection's whole spontaneous-eulogy repertoire, echoing "
+        "this site's own complete Vaṅgīsasaṃyutta (SN 8), and closing "
+        "with the Theragātha's own traditional tally: 1,360 verses, "
+        "264 elders. From Ru-Yi Meditation Center."),
+    vagga="The Great Book &middot; Chapter One &middot; Poem 1 of 1 &mdash; the closing poem of the entire Theragātha",
+    glance=[
+        ("Setting", "A composite of many separate occasions across "
+                    "Vaṅgīsa's monastic life, strung together as one "
+                    "poem"),
+        ("Speaker", "Vaṅgīsa, mostly first-person, in verse dialogues "
+                    "with the Buddha and in eulogies of other elders"),
+        ("Form", "Seventy-one verses, the entire Great Book and the "
+                 "final poem of the Theragātha"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "long, but composed of shorter, self-contained "
+                       "episodes"),
+    ],
+    why=(
+        "This is the final poem of the entire Theragātha, closing "
+        "out this site's 264-poem selection from this collection. "
+        "Its speaker, Vaṅgīsa, called &lsquo;paṭibhāṇavā&rsquo; "
+        "(gifted with inspiration) in the closing summary verse, "
+        "gathers here nearly the whole repertoire already told at "
+        "greater length across this site's own complete "
+        "Vaṅgīsasaṃyutta (SN 8, all twelve suttas) &mdash; his "
+        "confrontation with Māra, his praise of fellow elders, his "
+        "own conversion from a wandering poet, and his final question "
+        "to the Buddha about a departed friend &mdash; before the "
+        "text itself closes with the Theragātha's own traditional "
+        "tally: 1,360 verses in all, spoken by 264 elders."),
+    guide=[
+        ("A composite gathering nearly a whole existing chapter of this site", [
+            "Like this site's own Thag 17.2 (Sāriputta) and Thag 20.1 "
+            "(Mahāmoggallāna), this poem strings together many "
+            "separately-occasioned episodes. Several correspond "
+            "closely, in both content and title, to suttas already "
+            "complete in this site's own SN 8, the Vaṅgīsasaṃyutta: "
+            "the opening confrontation with Māra (1&ndash;5, echoing "
+            "SN 8.1, Renounced), a teaching on well-spoken speech "
+            "(19&ndash;22, echoing SN 8.5, Well-Spoken Words), praise "
+            "of Sāriputta (23&ndash;25, echoing SN 8.6), the report "
+            "that &lsquo;over a thousand mendicants&rsquo; revere the "
+            "Buddha (30, echoing SN 8.8, Over a Thousand), praise of "
+            "Koṇḍañña (38&ndash;40, echoing SN 8.9), praise of "
+            "Moggallāna (41&ndash;43, echoing SN 8.10), and Vaṅgīsa's "
+            "own conversion story (45&ndash;49, echoing SN 8.12, With "
+            "Vaṅgīsa, which bears his own name)."]),
+        ("Standing firm against Māra from the very first verse", [
+            "The poem opens with Vaṅgīsa &lsquo;overrun by the rude "
+            "thoughts of the Dark One&rsquo;, but answering with "
+            "defiance: even a thousand archers surrounding him, or "
+            "however many women might come, &lsquo;won't bother me, "
+            "for I stand firm in the teaching&rsquo;, closing "
+            "&lsquo;I'll make sure that you, Death, won't even see "
+            "the path I take.&rsquo;"]),
+        ("A former wandering poet, drunk on poetry, converted by hearing the Dhamma", [
+            "Verses forty-five through forty-nine give this poem's "
+            "own autobiographical core: &lsquo;we used to wander, "
+            "drunk on poetry, from village to village, town to "
+            "town&rsquo; &mdash; until seeing the Buddha and hearing "
+            "him teach the aggregates, sense-fields, and elements, "
+            "&lsquo;faith arose in us&rsquo;, and Vaṅgīsa went forth. "
+            "This is the collection's own account of how a "
+            "professional composer of verse became this collection's "
+            "own final, and by traditional reckoning most gifted, "
+            "poet."]),
+        ("Praise for fellow elders already met throughout this collection", [
+            "The poem's middle section eulogizes several elders this "
+            "site has already featured in their own poems: Sāriputta "
+            "(this site's own Thag 17.2), whose &lsquo;call, like a "
+            "myna bird, overflows with inspiration&rsquo;; Koṇḍañña "
+            "(this site's own Thag 15.1), &lsquo;the senior monk "
+            "awakened after the Buddha... heir to the Buddha&rsquo;; "
+            "and Moggallāna (this site's own Thag 20.1), who "
+            "&lsquo;encompasses with his mind, scrutinizing&rsquo; the "
+            "liberated minds of fellow disciples meditating on a "
+            "mountain slope."]),
+        ("A final question, asked on behalf of the whole assembly", [
+            "The poem's closing episode (55&ndash;71) has Vaṅgīsa "
+            "asking the Buddha directly about a monk named "
+            "Nigrodhakappa, who has died at Āḷavī &mdash; "
+            "&lsquo;well-known, famous, and quenched&rsquo;. Speaking "
+            "for &lsquo;all&rsquo; who are gathered, &lsquo;our ears "
+            "are eager to hear&rsquo;, Vaṅgīsa presses the Buddha for "
+            "a definitive answer, and receives one: &lsquo;he cut off "
+            "craving for name and form right here... he has entirely "
+            "crossed over birth and death.&rsquo; The poem, and with "
+            "it the entire Theragātha, closes on Vaṅgīsa's own bow of "
+            "homage to the Buddha and to Nigrodhakappa, &lsquo;a "
+            "giant, true-born son of a giant.&rsquo;"]),
+        ("The Theragātha's own closing tally, in its own words", [
+            "Following the poem itself, two untranslated summary "
+            "verses close out the entire collection in the source "
+            "text: the Great Book's own tally (a single elder, "
+            "seventy-one verses), and then the Theragātha's complete "
+            "traditional count &mdash; &lsquo;the verses total one "
+            "thousand three hundred and sixty; the elders are two "
+            "hundred and sixty-four&rsquo; &mdash; before a final "
+            "closing line: &lsquo;having roared the lion's roar, the "
+            "Buddha's undefiled sons, having reached the sanctuary, "
+            "are quenched like a mass of fire&rsquo;, and the "
+            "single closing word: &lsquo;Theragāthāpāḷi niṭṭhitā, the "
+            "Theragātha text is finished.&rsquo; This reading guide's "
+            "own 264-poem selection closes here as well."]),
+    ],
+    terms=[
+        ("kaṇhato pagabbhā vitakkā",
+         "&ldquo;the rude thoughts of the Dark One&rdquo; &mdash; "
+         "Vaṅgīsa's own description of Māra's harassment, opening "
+         "the poem."),
+        ("kāveyyamattā vicarimha pubbe",
+         "&ldquo;we used to wander, drunk on poetry&rdquo; &mdash; "
+         "Vaṅgīsa's own account of his former life as a wandering "
+         "poet, before his conversion."),
+        ("paṭibhāṇavā",
+         "&ldquo;gifted with inspiration&rdquo; &mdash; the epithet "
+         "given to Vaṅgīsa in the poem's own closing summary verse."),
+        ("acchecchi taṇhaṁ idha nāmarūpe",
+         "&ldquo;he cut off craving for name and form right "
+         "here&rdquo; &mdash; the Buddha's own answer about "
+         "Nigrodhakappa's fate, closing the poem's final episode."),
+        ("gāthāyo sahassaṁ tīṇi saṭṭhisatāni ca, therā ca dve satā saṭṭhi cattāro ca",
+         "&ldquo;the verses total one thousand three hundred and "
+         "sixty; the elders are two hundred and sixty-four&rdquo; "
+         "&mdash; the Theragātha's own traditional closing tally, "
+         "given in the untranslated summary verse following this "
+         "poem."),
+    ],
+    text_intro=(
+        "The text in full: seventy-one verses, the entire Great Book "
+        "and the final poem of the Theragātha, gathering many "
+        "separately-occasioned episodes from Vaṅgīsa's monastic life. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag21.1:1.1-1.4"),
+        ("p", "&sect;2", "thag21.1:2.1-2.4"),
+        ("p", "&sect;3", "thag21.1:3.1-3.4"),
+        ("p", "&sect;4", "thag21.1:4.1-4.4"),
+        ("p", "&sect;5", "thag21.1:5.1-5.4"),
+        ("p", "&sect;6", "thag21.1:6.1-6.4"),
+        ("p", "&sect;7", "thag21.1:7.1-7.4"),
+        ("p", "&sect;8", "thag21.1:8.1-8.4"),
+        ("p", "&sect;9", "thag21.1:9.1-9.4"),
+        ("p", "&sect;10", "thag21.1:10.1-10.4"),
+        ("p", "&sect;11", "thag21.1:11.1-11.4"),
+        ("p", "&sect;12", "thag21.1:12.1-12.4"),
+        ("p", "&sect;13", "thag21.1:13.1-13.4"),
+        ("p", "&sect;14", "thag21.1:14.1-14.4"),
+        ("p", "&sect;15", "thag21.1:15.1-15.4"),
+        ("p", "&sect;16", "thag21.1:16.1-16.4"),
+        ("p", "&sect;17", "thag21.1:17.1-17.4"),
+        ("p", "&sect;18", "thag21.1:18.1-18.4"),
+        ("p", "&sect;19", "thag21.1:19.1-19.4"),
+        ("p", "&sect;20", "thag21.1:20.1-20.4"),
+        ("p", "&sect;21", "thag21.1:21.1-21.4"),
+        ("p", "&sect;22", "thag21.1:22.1-22.4"),
+        ("p", "&sect;23", "thag21.1:23.1-23.4"),
+        ("p", "&sect;24", "thag21.1:24.1-24.4"),
+        ("p", "&sect;25", "thag21.1:25.1-25.6"),
+        ("p", "&sect;26", "thag21.1:26.1-26.4"),
+        ("p", "&sect;27", "thag21.1:27.1-27.4"),
+        ("p", "&sect;28", "thag21.1:28.1-28.4"),
+        ("p", "&sect;29", "thag21.1:29.1-29.4"),
+        ("p", "&sect;30", "thag21.1:30.1-30.4"),
+        ("p", "&sect;31", "thag21.1:31.1-31.4"),
+        ("p", "&sect;32", "thag21.1:32.1-32.4"),
+        ("p", "&sect;33", "thag21.1:33.1-33.4"),
+        ("p", "&sect;34", "thag21.1:34.1-34.4"),
+        ("p", "&sect;35", "thag21.1:35.1-35.4"),
+        ("p", "&sect;36", "thag21.1:36.1-36.4"),
+        ("p", "&sect;37", "thag21.1:37.1-37.4"),
+        ("p", "&sect;38", "thag21.1:38.1-38.4"),
+        ("p", "&sect;39", "thag21.1:39.1-39.4"),
+        ("p", "&sect;40", "thag21.1:40.1-40.4"),
+        ("p", "&sect;41", "thag21.1:41.1-41.4"),
+        ("p", "&sect;42", "thag21.1:42.1-42.4"),
+        ("p", "&sect;43", "thag21.1:43.1-43.4"),
+        ("p", "&sect;44", "thag21.1:44.1-44.4"),
+        ("p", "&sect;45", "thag21.1:45.1-45.4"),
+        ("p", "&sect;46", "thag21.1:46.1-46.4"),
+        ("p", "&sect;47", "thag21.1:47.1-47.4"),
+        ("p", "&sect;48", "thag21.1:48.1-48.4"),
+        ("p", "&sect;49", "thag21.1:49.1-49.4"),
+        ("p", "&sect;50", "thag21.1:50.1-50.4"),
+        ("p", "&sect;51", "thag21.1:51.1-51.4"),
+        ("p", "&sect;52", "thag21.1:52.1-52.4"),
+        ("p", "&sect;53", "thag21.1:53.1-53.4"),
+        ("p", "&sect;54", "thag21.1:54.1-54.4"),
+        ("p", "&sect;55", "thag21.1:55.1-55.4"),
+        ("p", "&sect;56", "thag21.1:56.1-56.4"),
+        ("p", "&sect;57", "thag21.1:57.1-57.4"),
+        ("p", "&sect;58", "thag21.1:58.1-58.4"),
+        ("p", "&sect;59", "thag21.1:59.1-59.4"),
+        ("p", "&sect;60", "thag21.1:60.1-60.4"),
+        ("p", "&sect;61", "thag21.1:61.1-61.4"),
+        ("p", "&sect;62", "thag21.1:62.1-62.4"),
+        ("p", "&sect;63", "thag21.1:63.1-63.4"),
+        ("p", "&sect;64", "thag21.1:64.1-64.4"),
+        ("p", "&sect;65", "thag21.1:65.1-65.4"),
+        ("p", "&sect;66", "thag21.1:66.1-66.4"),
+        ("p", "&sect;67", "thag21.1:67.1-67.5"),
+        ("p", "&sect;68", "thag21.1:68.1-68.4"),
+        ("p", "&sect;69", "thag21.1:69.1-69.4"),
+        ("p", "&sect;70", "thag21.1:70.1-70.4"),
+        ("p", "&sect;71", "thag21.1:71.1-71.4"),
+    ],
+    quiz=[
+        {"q": "What does this poem's completion mean for this site's Theragatha selections?",
+         "opts": [
+             'Nothing in particular',
+             'It is the final poem — the Great Book closes out the entire 264-poem collection',
+             'It marks only the halfway point',
+             'Another book still follows it',
+         ],
+         "correct": 0,
+         "expl": "Bringing this site's Theragatha selections to their full traditional count."},
+        {"q": 'What already-completed collection on this site does this poem gather much of its material from?',
+         "opts": [
+             'The Dhammapada',
+             "This site's own complete SN 8, the Vaṅgīsasaṃyutta (all twelve suttas)",
+             'The Jātaka',
+             'No related collection exists on this site',
+         ],
+         "correct": 1,
+         "expl": 'Several episodes correspond closely in both content and title to suttas already complete there.'},
+        {"q": 'How does the poem open?',
+         "opts": [
+             'With a dialogue about robes',
+             'With a peaceful meditation scene',
+             "With Vaṅgīsa 'overrun by the rude thoughts of the Dark One' — Māra — and answering with defiance",
+             'With a description of a meal',
+         ],
+         "correct": 2,
+         "expl": "'I'll make sure that you, Death, won't even see the path I take.'"},
+        {"q": "What does Vaṅgīsa's own autobiographical account (verses 45–49) reveal about his past?",
+         "opts": [
+             'He was a royal minister',
+             'No past life is described',
+             'He was a farmer before ordaining',
+             "He and companions 'used to wander, drunk on poetry, from village to village, town to town' before hearing the Buddha teach",
+         ],
+         "correct": 3,
+         "expl": 'Faith arose on hearing the Dhamma taught, and Vaṅgīsa went forth.'},
+        {"q": "Which already-completed elders from this site does the poem's middle section eulogize?",
+         "opts": [
+             'Sāriputta (Thag 17.2), Koṇḍañña (Thag 15.1), and Moggallāna (Thag 20.1)',
+             'Only Ānanda',
+             'Only Mahākassapa',
+             'None — it only discusses the Buddha',
+         ],
+         "correct": 0,
+         "expl": 'All three already have their own completed poems elsewhere in this collection.'},
+        {"q": "What does the poem's closing episode (55–71) concern?",
+         "opts": [
+             'A dispute over robes',
+             'Vaṅgīsa asking the Buddha, on behalf of the whole assembly, about the fate of the deceased monk Nigrodhakappa',
+             'A description of a festival',
+             'A story about a king',
+         ],
+         "correct": 1,
+         "expl": "'Our ears are eager to hear, for you are the most excellent teacher.'"},
+        {"q": 'What answer does the Buddha give about Nigrodhakappa?',
+         "opts": [
+             'No direct answer is given',
+             'That his fate is unknown',
+             "'He cut off craving for name and form right here... he has entirely crossed over birth and death'",
+             'That he was reborn as a god',
+         ],
+         "correct": 2,
+         "expl": "Closing the poem's final episode with a definitive confirmation of his full liberation."},
+        {"q": "What epithet does the poem's own closing summary verse give Vaṅgīsa?",
+         "opts": [
+             "'The wanderer'",
+             'No epithet is given',
+             "'The silent one'",
+             "'Paṭibhāṇavā' — gifted with inspiration",
+         ],
+         "correct": 3,
+         "expl": "Fitting for the collection's own final and, by this account, most naturally gifted poet."},
+        {"q": "What traditional tally does the Theragātha's own untranslated closing verse give for the whole collection?",
+         "opts": [
+             '1,360 verses in all, spoken by 264 elders',
+             '500 verses and 100 elders',
+             'No tally is given',
+             'An even 1,000 verses and 200 elders',
+         ],
+         "correct": 0,
+         "expl": "This reading guide's own 264-poem selection matches the collection's own traditional elder-count exactly."},
+        {"q": "What is the very last line of the source text, following the collection's own closing tally?",
+         "opts": [
+             'A request for donations',
+             "'Having roared the lion's roar, the Buddha's undefiled sons, having reached the sanctuary, are quenched like a mass of fire' — then 'the Theragātha text is finished'",
+             'A dedication to a specific king',
+             'An unfinished sentence',
+         ],
+         "correct": 1,
+         "expl": "The Theragātha's own closing words, marking the end of the entire collection in the source text itself."},
+    ],
+    marginalia=[
+        ("The Great Book, the collection's own last word", [
+            "seventy-one verses closing out 264 —",
+            "'the Theragātha text is finished'"
+        ]),
+        ("A poet before he was a monk", [
+            "'drunk on poetry, town to town' —",
+            "then a single teaching changed everything"
+        ]),
+        ("Elders already met, praised once more", [
+            "Sāriputta, Koṇḍañña, Moggallāna —",
+            "three poems converging in one closing poem"
+        ]),
+        ("1,360 verses, 264 elders", [
+            "the collection's own traditional count —",
+            "matching this site's own full selection, exactly"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag21.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../samyutta-nikaya/sn-8.1.html">SN 8 &mdash; The '
+        "Vaṅgīsasaṃyutta (starting at SN 8.1)</a> &mdash; this site's "
+        "own complete twelve-sutta chapter, telling much of this "
+        "poem's material at greater length and in prose.",
+        '<a href="thag-17.2.html">Thag 17.2 &mdash; Sāriputta</a>, '
+        '<a href="thag-15.1.html">Thag 15.1 &mdash; Koṇḍañña</a>, and '
+        '<a href="thag-20.1.html">Thag 20.1 &mdash; Mahāmoggallāna</a> '
+        "&mdash; the three elders eulogized within this closing poem.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index, now complete.",
+    ],
+)
