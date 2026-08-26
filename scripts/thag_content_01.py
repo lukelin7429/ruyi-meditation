@@ -54298,3 +54298,571 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thag 16.8 — Aṅgulimāla
+# --------------------------------------------------------------------------- #
+page(
+    16, 8, "A&#7749;gulim&amacr;la", "A&#7749;gulim&amacr;la",
+    meta_title="Thag 16.8 — Aṅgulimāla | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Aṅgulimāla's verse &mdash; the famous exchange with a "
+        "pursuing bandit about what it really means to have "
+        "&lsquo;stopped&rsquo;, already told in more detail on this "
+        "site's own MN 86, plus verses about his life after "
+        "ordination that Sujato's comment notes aren't found there "
+        "at all. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twenties &middot; Chapter One &middot; Poem 8 of 10",
+    glance=[
+        ("Setting", "A chase through the wilderness, resolving into "
+                    "immediate ordination"),
+        ("Speaker", "Two voices at first &mdash; Aṅgulimāla and the "
+                    "Buddha &mdash; then Aṅgulimāla alone for the "
+                    "poem's remainder"),
+        ("Form", "Twenty-six verses, the second half extending "
+                 "beyond the episode most commonly told elsewhere"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "one of the canon's most famous exchanges, "
+                       "with substantial material beyond it"),
+    ],
+    why=(
+        "&lsquo;While walking, ascetic, you say &ldquo;I've "
+        "stopped.&rdquo; And I have stopped, but you tell me I've "
+        "not,&rsquo; the pursuing bandit demands &mdash; and receives "
+        "one of the canon's most celebrated replies: &lsquo;I have "
+        "forever stopped &mdash; I've laid aside violence towards all "
+        "creatures. But you can't stop yourself from harming living "
+        "creatures; that's why I've stopped, but you have not.&rsquo; "
+        "Sujato's comment notes that everything after verse "
+        "twenty-one &mdash; Aṅgulimāla's own account of his life "
+        "after ordination &mdash; isn't found in this site's own more "
+        "detailed prose telling at all."),
+    guide=[
+        ("A pun resolved into the poem's whole meaning", [
+            "The opening exchange turns entirely on one word: "
+            "&lsquo;ṭhita&rsquo;, &lsquo;stopped&rsquo;. Aṅgulimāla "
+            "means it literally &mdash; the ascetic he's chasing "
+            "claims to have stopped while still walking. The Buddha's "
+            "answer redefines the word entirely: he has "
+            "&lsquo;forever stopped&rsquo; harming living beings, "
+            "while Aṅgulimāla, mid-pursuit with a sword in hand, has "
+            "not. Sujato's comment notes this same story is told in "
+            "far more narrative detail, including most of this "
+            "poem's verses, on this site's own "
+            "<a href=\"../majjhima-nikaya/mn-086.html\">MN 86, With "
+            "Aṅgulimāla</a>."]),
+        ("Weapons thrown into an abyss, ordination granted on the spot", [
+            "Four short verses carry the entire conversion: "
+            "Aṅgulimāla hurls his sword down a cliff, bows at the "
+            "Buddha's feet, asks for the going-forth immediately, and "
+            "receives it in four words, &lsquo;Come, monk!&rsquo; "
+            "&mdash; the same instant, spoken formula already found "
+            "elsewhere in this collection (Thag 7.3, Thag 7.4, Thag "
+            "12.2), here granted to a man whose name was, until "
+            "moments before, a byword for terror."]),
+        ("A wish for well-being extended specifically to his own enemies", [
+            "Verses nine through eleven make an extraordinary "
+            "request: &lsquo;may even my enemies hear a Dhamma "
+            "talk... may even my enemies devote themselves to the "
+            "Buddha's teaching&rsquo;, so that &lsquo;they'd never "
+            "wish harm upon myself or others&rsquo;. Given "
+            "Aṅgulimāla's own history, this is loving-kindness "
+            "extended precisely toward the people with the strongest "
+            "possible grievance against him."]),
+        ("Karmic debt described as already paid, in his own words", [
+            "The seventeenth verse states plainly: &lsquo;the result "
+            "of my deeds has already struck me, so I enjoy my food "
+            "free of debt&rsquo; &mdash; a first-person acknowledgment "
+            "that consequences for his former violence had already "
+            "found him, spoken without elaboration on what those "
+            "consequences were, in the same matter-of-fact register "
+            "as the rest of his testimony."]),
+        ("A wordplay on his own new name", [
+            "The fourteenth verse plays directly on identity: "
+            "&lsquo;my name is &ldquo;Harmless&rdquo; "
+            "(Ahiṁsaka), though I used to be harmful. The name I bear "
+            "today is true, for I do no harm to anyone&rsquo; "
+            "&mdash; Aṅgulimāla's actual given name, ironic in his "
+            "bandit years, finally accurate."]),
+        ("Verses that go beyond the story told elsewhere on this site", [
+            "Sujato's comment states directly that the verses from "
+            "twenty-two onward &lsquo;are not found in MN 86&rsquo;. "
+            "This closing section reveals new material: an anxious "
+            "mind &lsquo;wherever he stood&rsquo; in his early days as "
+            "a monk, later resolving into genuinely happy, "
+            "untroubled living; and a detail absent from the more "
+            "famous telling entirely &mdash; that Aṅgulimāla was "
+            "&lsquo;of brahmin birth, highborn on both sides&rsquo; "
+            "before his life as a bandit."]),
+    ],
+    terms=[
+        ("ṭhito",
+         "&ldquo;stopped&rdquo; &mdash; the single word the opening "
+         "exchange's entire meaning turns on, redefined from literal "
+         "motion to the cessation of harm."),
+        ("‘tamehi bhikkhū’ti",
+         "&ldquo;Come, monk!&rdquo; &mdash; the Buddha's entire "
+         "ordination formula, the same instant pattern found "
+         "elsewhere in this collection."),
+        ("disāpi me... hiṁse",
+         "&ldquo;may even my enemies... never wish harm&rdquo; "
+         "&mdash; loving-kindness extended toward those with the "
+         "strongest grievance against him."),
+        ("phuṭṭho kammavipākena",
+         "&ldquo;the result of my deeds has already struck me&rdquo; "
+         "&mdash; his own first-person acknowledgment of karmic "
+         "consequence already experienced."),
+        ("‘Ahiṁsako’ti me nāmaṁ",
+         "&ldquo;my name is &lsquo;Harmless&rsquo;&rdquo; &mdash; "
+         "his own given name, ironic through his bandit years, "
+         "finally made accurate."),
+    ],
+    text_intro=(
+        "The text in full: twenty-six verses, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag16.8:1.1-1.4"),
+        ("p", "&sect;2", "thag16.8:2.1-2.4"),
+        ("p", "&sect;3", "thag16.8:3.1-3.4"),
+        ("p", "&sect;4", "thag16.8:4.1-4.4"),
+        ("p", "&sect;5", "thag16.8:5.1-5.4"),
+        ("p", "&sect;6", "thag16.8:6.1-6.4"),
+        ("p", "&sect;7", "thag16.8:7.1-7.4"),
+        ("p", "&sect;8", "thag16.8:8.1-8.4"),
+        ("p", "&sect;9", "thag16.8:9.1-9.4"),
+        ("p", "&sect;10", "thag16.8:10.1-10.4"),
+        ("p", "&sect;11", "thag16.8:11.1-11.4"),
+        ("p", "&sect;12", "thag16.8:12.1-12.4"),
+        ("p", "&sect;13", "thag16.8:13.1-13.4"),
+        ("p", "&sect;14", "thag16.8:14.1-14.4"),
+        ("p", "&sect;15", "thag16.8:15.1-15.4"),
+        ("p", "&sect;16", "thag16.8:16.1-16.4"),
+        ("p", "&sect;17", "thag16.8:17.1-17.4"),
+        ("p", "&sect;18", "thag16.8:18.1-18.4"),
+        ("p", "&sect;19", "thag16.8:19.1-19.4"),
+        ("p", "&sect;20", "thag16.8:20.1-20.4"),
+        ("p", "&sect;21", "thag16.8:21.1-21.4"),
+        ("p", "&sect;22", "thag16.8:22.1-22.4"),
+        ("p", "&sect;23", "thag16.8:23.1-23.4"),
+        ("p", "&sect;24", "thag16.8:24.1-24.4"),
+        ("p", "&sect;25", "thag16.8:25.1-25.4"),
+        ("p", "&sect;26", "thag16.8:26.1-26.4"),
+    ],
+    quiz=[
+        {"q": "What single word does the poem's opening exchange turn entirely on?",
+         "opts": [
+             "'Buddho'",
+             "'Dhammo'",
+             'No single word — the exchange is purely about weapons',
+             "'Ṭhito' — 'stopped', redefined from literal motion to the cessation of harm",
+         ],
+         "correct": 3,
+         "expl": 'Aṅgulimāla means it literally; the Buddha redefines it entirely.'},
+        {"q": "Where is this same story told in more narrative detail, including most of this poem's verses?",
+         "opts": [
+             'MN 86, With Aṅgulimāla',
+             'Only in the Dhammapada',
+             'Only in the Vinaya',
+             'Nowhere else on this site',
+         ],
+         "correct": 0,
+         "expl": "Per Sujato's own comment on this poem."},
+        {"q": "What is the Buddha's entire ordination formula for Aṅgulimāla?",
+         "opts": [
+             'A lengthy formal ceremony',
+             "'Come, monk!' — the same instant formula found elsewhere in this collection",
+             'No ordination is described',
+             'A written certificate',
+         ],
+         "correct": 1,
+         "expl": 'Also found in Thag 7.3, Thag 7.4, and Thag 12.2.'},
+        {"q": 'What extraordinary wish do verses nine through eleven express?',
+         "opts": [
+             'A wish for wealth and status',
+             'A wish for revenge against his former victims',
+             'That even his own enemies might hear the Dhamma and never wish harm on anyone',
+             'A wish to return to his former life',
+         ],
+         "correct": 2,
+         "expl": 'Loving-kindness extended precisely toward those with the strongest grievance against him.'},
+        {"q": 'What does the seventeenth verse say about karmic consequence?',
+         "opts": [
+             'That consequences are irrelevant to practice',
+             "The verse doesn't address this topic",
+             'That he escaped all consequences entirely',
+             "'The result of my deeds has already struck me, so I enjoy my food free of debt'",
+         ],
+         "correct": 3,
+         "expl": 'A first-person acknowledgment stated without elaboration on the specific details.'},
+        {"q": "What does the fourteenth verse's wordplay involve?",
+         "opts": [
+             "His own given name, 'Harmless' (Ahiṁsaka), ironic through his bandit years but now accurate",
+             'A pun unrelated to his own identity',
+             'A joke about his pursuers',
+             'No wordplay is present',
+         ],
+         "correct": 0,
+         "expl": "'My name is Harmless, though I used to be harmful. The name I bear today is true.'"},
+        {"q": "What does Sujato's comment say about the verses from twenty-two onward?",
+         "opts": [
+             "They are identical to MN 86's account",
+             'They are not found in MN 86 at all',
+             'They contradict everything stated earlier in the poem',
+             'No comment addresses these verses',
+         ],
+         "correct": 1,
+         "expl": 'Revealing material about his post-ordination life not told in the more famous prose version.'},
+        {"q": "What detail about Aṅgulimāla's origins appears in this poem but not in MN 86, per this reading guide?",
+         "opts": [
+             'No new biographical detail appears',
+             'His exact age',
+             'That he was of brahmin birth, highborn on both sides, before his life as a bandit',
+             'The name of his hometown',
+         ],
+         "correct": 2,
+         "expl": "New material revealed only in this poem's closing section."},
+        {"q": 'How does the twenty-second verse describe his early days after ordination?',
+         "opts": [
+             'He immediately returned to violence',
+             "The verse doesn't describe this period",
+             'Immediately peaceful with no difficulty',
+             "His mind was anxious wherever he stood, in the wilderness, at a tree's root, on mountains, or in caves",
+         ],
+         "correct": 3,
+         "expl": 'Later resolving into genuinely happy, untroubled living, described in the following verse.'},
+        {"q": 'What does the twelfth verse compare the wise taming themselves to?',
+         "opts": [
+             'Irrigators guiding water, fletchers straightening arrows, carpenters carving timber',
+             'A doctor treating illness',
+             'A farmer planting seeds',
+             'No comparison is made',
+         ],
+         "correct": 0,
+         "expl": "'Attānaṁ damayanti paṇḍitā' — the astute tame themselves, without rod or sword, unlike him."},
+    ],
+    marginalia=[
+        ("One word, its whole meaning redefined", [
+            "'I've stopped' — literally, then completely differently —",
+            "violence laid aside, not merely footsteps"
+        ]),
+        ("A sword thrown down a cliff", [
+            "ordination granted in four words —",
+            "the same instant formula found elsewhere in this collection"
+        ]),
+        ("Loving-kindness aimed at his own enemies", [
+            "those with the strongest grievance against him —",
+            "wished only well-being, nothing else"
+        ]),
+        ("Verses beyond the famous telling", [
+            "anxious mind, then genuine peace; brahmin birth revealed —",
+            "material Sujato notes isn't in MN 86 at all"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag16.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-086.html">MN 86 &mdash; With '
+        "Aṅgulimāla</a> &mdash; the fuller narrative telling of this "
+        "same conversion, including most of this poem's verses.",
+        '<a href="thag-16.7.html">Thag 16.7 &mdash; Kāḷigodhāputta '
+        "Bhaddiya</a> &mdash; the poem immediately before this one, "
+        "in the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 16.9 — Anuruddha
+# --------------------------------------------------------------------------- #
+page(
+    16, 9, "Anuruddha", "Anuruddha",
+    meta_title="Thag 16.9 — Anuruddha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Anuruddha's verse &mdash; already announced as forthcoming "
+        "back when this collection reached Thag 6.10 and Thag 7.3, "
+        "his own poem contains this collection's only first-person "
+        "eyewitness account of the Buddha's parinibbāna, already "
+        "told at length on this site's DN 16, plus a detailed "
+        "catalogue of his own past lives. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Book of the Twenties &middot; Chapter One &middot; Poem 9 of 10",
+    glance=[
+        ("Setting", "Third-person praise shifting to first-person "
+                    "testimony, including a direct account of the "
+                    "Buddha's death"),
+        ("Speaker", "An unnamed voice praising Anuruddha, then "
+                    "Anuruddha himself for the remainder"),
+        ("Form", "Twenty-eight verses, moving through practice, "
+                 "the Buddha's parinibbāna, and a detailed past-life "
+                 "catalogue"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "historically significant content, several "
+                       "distinct sections"),
+    ],
+    why=(
+        "This site's own Thag 6.10 and Thag 7.3 both already "
+        "mentioned that Anuruddha's own extensive verses lay far "
+        "ahead in this collection &mdash; and here they are, "
+        "containing something no other poem in this collection has: "
+        "a first-person eyewitness account of the Buddha's own death. "
+        "&lsquo;There was no more breathing for the unaffected one of "
+        "steady heart... the Clear-eyed One was fully quenched,&rsquo; "
+        "Anuruddha reports, the same event told at greater length on "
+        "this site's own DN 16."),
+    guide=[
+        ("Praise from another voice, before the speaker's own testimony begins", [
+            "The first nine verses describe Anuruddha in the third "
+            "person, contrasting his former life &lsquo;surrounded by "
+            "song and dance, awakened by cymbals and gongs&rsquo; with "
+            "his current rag-robe practice, closing each verse on the "
+            "refrain &lsquo;Anuruddha practices absorption&rsquo;. "
+            "Only from the tenth verse does his own voice take over "
+            "for the remainder of the poem."]),
+        ("Fifty-five years without lying down to sleep", [
+            "The thirteenth verse states a specific, dramatic claim: "
+            "&lsquo;for the last fifty-five years I have not lain "
+            "down to sleep. Twenty-five years have passed since I "
+            "eradicated drowsiness.&rsquo; Few claims of sustained "
+            "physical discipline anywhere in this collection are this "
+            "concretely quantified."]),
+        ("An eyewitness account of the Buddha's own parinibbāna", [
+            "Verses fourteen through seventeen narrate, directly and "
+            "without ceremony, the moment of the Buddha's death: "
+            "&lsquo;there was no more breathing for the unaffected "
+            "one of steady heart... imperturbable, committed to "
+            "peace, the Clear-eyed One was fully quenched&rsquo;, "
+            "&lsquo;the liberation of his heart was like the "
+            "extinguishing of a lamp&rsquo;. This site's own "
+            "<a href=\"../digha-nikaya/dn-16.html\">DN 16, The Great "
+            "Discourse on the Buddha's Extinguishment</a>, already "
+            "gives the fullest surviving account of this same event; "
+            "no other poem in this collection offers a comparable "
+            "first-person witness statement of it."]),
+        ("A name Sujato renders as a classical allusion", [
+            "The seventeenth verse's English translation addresses "
+            "&lsquo;O Penelope, weaver of the web&rsquo; &mdash; "
+            "Sujato's own rendering of &lsquo;jālinī&rsquo;, &lsquo;she "
+            "of the net&rsquo;, into a Western literary reference "
+            "rather than a literal name. This reading guide notes the "
+            "translation choice without asserting a specific identity "
+            "for the figure addressed."]),
+        ("A detailed catalogue of the speaker's own past lives", [
+            "Verses nineteen through twenty-four trace a specific "
+            "chain of prior existences: a poor fodder-carrier named "
+            "Annabhāra who once gave alms to an ascetic; later reborn "
+            "as Sakka among the Thirty-Three gods; then a human king "
+            "seven times over, &lsquo;governing by principle, without "
+            "rod or sword&rsquo;; and finally as Anuruddha of the "
+            "Sakyan clan &mdash; &lsquo;fourteen transmigrations in "
+            "all&rsquo;. Few poems in this collection name this many "
+            "specific prior identities in sequence."]),
+        ("Foremost in the divine eye, and a foretold place of death", [
+            "The closing verses attain &lsquo;complete tranquility... "
+            "my clairvoyance is purified&rsquo;, matching this site's "
+            "own AN 1.188&ndash;197, which already names Anuruddha "
+            "&lsquo;foremost in clairvoyance, the divine eye&rsquo;. "
+            "The poem's final verse then states, plainly, where his "
+            "own life will end: &lsquo;in the Vajjian village of "
+            "Veḷuva... beneath a thicket of bamboos, being undefiled, "
+            "I will be fully extinguished&rsquo;."]),
+    ],
+    terms=[
+        ("anuruddhova jhāyati",
+         "&ldquo;Anuruddha practices absorption&rdquo; &mdash; the "
+         "refrain closing each of the poem's opening third-person "
+         "verses."),
+        ("nippapañca",
+         "&ldquo;non-proliferation&rdquo; &mdash; the specific "
+         "teaching the Buddha gives Anuruddha directly, arriving in "
+         "a mind-made body."),
+        ("cakkhumā parinibbuto",
+         "&ldquo;the Clear-eyed One was fully quenched&rdquo; "
+         "&mdash; Anuruddha's own eyewitness statement of the "
+         "Buddha's death."),
+        ("Annabhāro",
+         "&ldquo;Annabhāra&rdquo; &mdash; the name of a poor "
+         "fodder-carrier, the earliest identity named in Anuruddha's "
+         "own catalogue of past lives."),
+        ("dibbacakkhu visujjhi me",
+         "&ldquo;my clairvoyance is purified&rdquo; &mdash; matching "
+         "this site's own AN 1.188&ndash;197, naming Anuruddha "
+         "foremost in the divine eye."),
+    ],
+    text_intro=(
+        "The text in full: twenty-eight verses, the twenty-seventh "
+        "partly abbreviated in the Pali source, with no separate "
+        "attribution line in this chapter. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag16.9:1.1-1.4"),
+        ("p", "&sect;2", "thag16.9:2.1-2.4"),
+        ("p", "&sect;3", "thag16.9:3.1-3.4"),
+        ("p", "&sect;4", "thag16.9:4.1-4.4"),
+        ("p", "&sect;5", "thag16.9:5.1-5.4"),
+        ("p", "&sect;6", "thag16.9:6.1-6.4"),
+        ("p", "&sect;7", "thag16.9:7.1-7.4"),
+        ("p", "&sect;8", "thag16.9:8.1-8.4"),
+        ("p", "&sect;9", "thag16.9:9.1-9.4"),
+        ("p", "&sect;10", "thag16.9:10.1-10.4"),
+        ("p", "&sect;11", "thag16.9:11.1-11.4"),
+        ("p", "&sect;12", "thag16.9:12.1-12.4"),
+        ("p", "&sect;13", "thag16.9:13.1-13.4"),
+        ("p", "&sect;14", "thag16.9:14.1-14.4"),
+        ("p", "&sect;15", "thag16.9:15.1-15.4"),
+        ("p", "&sect;16", "thag16.9:16.1-16.4"),
+        ("p", "&sect;17", "thag16.9:17.1-17.4"),
+        ("p", "&sect;18", "thag16.9:18.1-18.4"),
+        ("p", "&sect;19", "thag16.9:19.1-19.4"),
+        ("p", "&sect;20", "thag16.9:20.1-20.4"),
+        ("p", "&sect;21", "thag16.9:21.1-21.4"),
+        ("p", "&sect;22", "thag16.9:22.1-22.4"),
+        ("p", "&sect;23", "thag16.9:23.1-23.6"),
+        ("p", "&sect;24", "thag16.9:24.1-24.4"),
+        ("p", "&sect;25", "thag16.9:25.1-25.4"),
+        ("p", "&sect;26", "thag16.9:26.1-26.4"),
+        ("p", "&sect;27", "thag16.9:27.1-27.4"),
+        ("p", "&sect;28", "thag16.9:28.1-28.4"),
+    ],
+    quiz=[
+        {"q": "Where was Anuruddha's own poem first flagged as forthcoming in this collection?",
+         "opts": [
+             'Back when this collection reached Thag 6.10 and Thag 7.3',
+             'Only in the Book of the Ones',
+             'In the Dhammapada',
+             'It was never mentioned before this page',
+         ],
+         "correct": 0,
+         "expl": 'Both poems noted his own extensive verses lay far ahead in this collection.'},
+        {"q": "What refrain closes each of the poem's opening third-person verses?",
+         "opts": [
+             "'I've attained the three knowledges'",
+             "'Anuruddha practices absorption' (anuruddhova jhāyati)",
+             'A different refrain each time',
+             'No refrain is used',
+         ],
+         "correct": 1,
+         "expl": 'Contrasting his former life of song and dance with his current rag-robe practice.'},
+        {"q": 'What specific claim does the thirteenth verse make?',
+         "opts": [
+             'A single day of intense practice',
+             'No specific claim is made',
+             'Fifty-five years without lying down to sleep, twenty-five years since eradicating drowsiness',
+             'A vague, unquantified claim about diligence',
+         ],
+         "correct": 2,
+         "expl": 'Among the most concretely quantified claims of physical discipline in this collection.'},
+        {"q": 'What unique content do verses fourteen through seventeen contain?',
+         "opts": [
+             'A dispute with another monk',
+             'A description of a specific building',
+             'A description of a meal',
+             "A first-person eyewitness account of the Buddha's own parinibbāna (death)",
+         ],
+         "correct": 3,
+         "expl": 'No other poem in this collection offers a comparable first-person witness statement of this event.'},
+        {"q": "Where is this same event, the Buddha's death, told at greater length on this site?",
+         "opts": [
+             "DN 16, The Great Discourse on the Buddha's Extinguishment",
+             'Only in the Dhammapada',
+             'Only in the Vinaya',
+             'Nowhere else on this site',
+         ],
+         "correct": 0,
+         "expl": "Already giving the fullest surviving account of the Buddha's final months and death."},
+        {"q": "What does Sujato's translation do with the name 'jālinī' in the seventeenth verse?",
+         "opts": [
+             'Translates it literally with no interpretation',
+             "Renders it as 'Penelope, weaver of the web', a Western literary allusion",
+             'Omits it entirely',
+             'Leaves it entirely untranslated',
+         ],
+         "correct": 1,
+         "expl": 'This reading guide notes the translation choice without asserting a specific identity for the figure addressed.'},
+        {"q": 'What do verses nineteen through twenty-four trace?',
+         "opts": [
+             'A list of his students',
+             'A single unchanging identity across all time',
+             "A detailed catalogue of Anuruddha's own past lives — a poor fodder-carrier, then Sakka among the gods, then a human king seven times",
+             'A description of his current monastery',
+         ],
+         "correct": 2,
+         "expl": 'Fourteen transmigrations in all, few poems in this collection naming this many specific prior identities.'},
+        {"q": "What does AN 1.188–197 already say about Anuruddha, matching this poem's closing verses?",
+         "opts": [
+             'That he is foremost in wisdom',
+             'That he is foremost in generosity',
+             'Nothing related to this poem',
+             'That he is foremost in clairvoyance, the divine eye',
+         ],
+         "correct": 3,
+         "expl": 'Matching the attainment described in verses twenty-five and twenty-six.'},
+        {"q": "What does the poem's final verse state?",
+         "opts": [
+             'Where his own life will end — the Vajjian village of Veḷuva, beneath a thicket of bamboos',
+             'A request for further teaching',
+             'A description of his own funeral',
+             'Uncertainty about the future',
+         ],
+         "correct": 0,
+         "expl": "An unusual case of a poem containing the speaker's own foretold place of death."},
+        {"q": 'How did the poor fodder-carrier Annabhāra, named in verse nineteen, come to be reborn favorably?',
+         "opts": [
+             'Through wealth accumulated in that life',
+             'Through practicing generosity, giving alms to an ascetic named Upariṭṭha',
+             'Through royal favor',
+             "The poem doesn't explain the connection",
+         ],
+         "correct": 1,
+         "expl": 'The earliest identity in a chain leading eventually to rebirth as Anuruddha of the Sakyan clan.'},
+    ],
+    marginalia=[
+        ("Long promised, finally arrived", [
+            "flagged as forthcoming back at Thag 6.10 —",
+            "his own extensive verses, reached at last"
+        ]),
+        ("Fifty-five years, no lying down", [
+            "a claim quantified with unusual precision —",
+            "few poems in this collection this concrete"
+        ]),
+        ("A death, witnessed and reported", [
+            "'the Clear-eyed One was fully quenched' —",
+            "no other poem here offers this first-person account"
+        ]),
+        ("Fourteen transmigrations, named in sequence", [
+            "a poor fodder-carrier, then a god-king, then this one —",
+            "closing on a foretold place of his own death"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag16.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../digha-nikaya/dn-16.html">DN 16 &mdash; The '
+        "Great Discourse on the Buddha's Extinguishment</a> &mdash; "
+        "the fullest surviving account of the event Anuruddha "
+        "witnesses in this poem.",
+        '<a href="thag-6.10.html">Thag 6.10 &mdash; Sumana (2nd)</a> '
+        "&mdash; where Anuruddha's own forthcoming verses were first "
+        "flagged, as his student's teacher.",
+        '<a href="thag-16.8.html">Thag 16.8 &mdash; Aṅgulimāla</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
