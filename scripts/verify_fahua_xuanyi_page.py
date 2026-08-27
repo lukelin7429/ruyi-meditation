@@ -14,7 +14,7 @@ Checks:
 """
 import sys, re, difflib
 
-BASE = "/Users/hayashikisshou/Library/Mobile Documents/iCloud~md~obsidian/Documents/第二個大腦/知識庫/佛法/大正藏/16_經疏部/T1716_妙法蓮華經玄義.md"
+BASE = "/Users/hayashikisshou/Library/Mobile Documents/iCloud~md~obsidian/Documents/第二大腦/知識庫/佛法/大正藏/16_經疏部/T1716_妙法蓮華經玄義.md"
 
 TAG_RE = re.compile(r'<(/?)div\b([^>]*)>')
 
