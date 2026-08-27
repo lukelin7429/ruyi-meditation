@@ -12360,3 +12360,2091 @@ page(
         "index.",
     ],
 )
+# -*- coding: utf-8 -*-
+
+# --------------------------------------------------------------------------- #
+# Ja 61 — Asātamanta (The Spell of the Unpleasant)
+# --------------------------------------------------------------------------- #
+page(
+    61, "As&amacr;tamanta", "The Spell of the Unpleasant",
+    meta_title="Ja 61 — The Spell of the Unpleasant | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 61, opening the Itthivagga — a fictional 'spell' "
+        "invented to teach a student his mother's own prejudice "
+        "against women, presented honestly as historical material "
+        "rather than an endorsed view. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Seven (Itthivagga) &middot; Poem 1 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "A student, resolving to leave lay life behind"),
+        ("Form", "One stanza (six lines), opening a chapter with "
+                 "difficult historical content"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but opening a chapter with genuinely "
+                       "difficult content"),
+    ],
+    why=(
+        "This poem opens the Itthivagga (&lsquo;Women Chapter&rsquo;), "
+        "whose first several poems voice explicit misogynistic "
+        "attitudes from ancient source material. This reading guide "
+        "presents that content honestly, as this site does throughout "
+        "&mdash; describing what the text says and what Sujato's own "
+        "comments observe about it, without treating the attitudes "
+        "themselves as endorsed teaching."),
+    guide=[
+        ("A fictional pretext for teaching an existing prejudice", [
+            "The verse gives a student's resolution: &lsquo;the women "
+            "in the world called unclaimed &mdash; there is no "
+            "confining them. They are rude and full of desires, like "
+            "an all-consuming flame. Leaving them behind, I shall go "
+            "forth and foster seclusion.&rsquo; Per Sujato's comment, "
+            "a young student is told by his mother that his education "
+            "is incomplete until he learns a mysterious &lsquo;spell "
+            "of the unpleasant&rsquo;. His teacher knows no such spell "
+            "exists, but recognizes what the mother actually wants: "
+            "for her son to learn of what she considers &lsquo;the "
+            "wickedness of women.&rsquo;"]),
+        ("The story's own framing device, worth noticing", [
+            "The tale itself is built around a fiction: there is no "
+            "real &lsquo;spell&rsquo;, only a mother's existing "
+            "prejudice, delivered to her son through an invented "
+            "teaching device by a teacher who privately knows better. "
+            "This reading guide notes that structure plainly, without "
+            "presenting the resulting verse's sweeping claims about "
+            "&lsquo;women in the world&rsquo; as this site's own "
+            "position."]),
+    ],
+    terms=[
+        ("asā",
+         "&ldquo;unclaimed&rdquo;, per Sujato's comment resolved as "
+         "&lsquo;a&rsquo; + &lsquo;sva&rsquo;, &ldquo;without an "
+         "owner&rdquo;."),
+        ("asātamanta",
+         "&ldquo;the spell of the unpleasant&rdquo; &mdash; a "
+         "fictional teaching device, per Sujato's comment invented to "
+         "deliver an existing prejudice rather than a real spell."),
+        ("sikhī sabbaghaso",
+         "&ldquo;an all-consuming flame&rdquo; &mdash; one of the "
+         "verse's sweeping images, given here as the text states it, "
+         "not as an endorsed claim."),
+        ("Asātamantajātaka",
+         "the traditional title of this tale, opening the "
+         "Itthivagga."),
+        ("Itthivagga",
+         "&ldquo;Women Chapter&rdquo; &mdash; this collection's "
+         "seventh chapter, whose first several poems voice "
+         "misogynistic attitudes from ancient source material, "
+         "presented here as historical content rather than endorsed "
+         "teaching."),
+    ],
+    text_intro=(
+        "The text in full: a single six-line verse, opening a "
+        "chapter with genuinely difficult historical content, "
+        "discussed above. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja61:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What does the mother in this poem's underlying story tell her son, per Sujato's comment?",
+         "opts": [
+             "That his education is incomplete until he learns a mysterious 'spell of the unpleasant'",
+             'That he should marry immediately',
+             'That he should abandon his studies',
+             'That his education is complete',
+         ],
+         "correct": 0,
+         "expl": "Setting up the poem's fictional framing device."},
+        {"q": 'Does the teacher believe such a spell actually exists?',
+         "opts": [
+             'Yes, and teaches it as real magic',
+             'No — he knows there is no such spell, but recognizes what the mother actually wants taught',
+             'The comment does not address this',
+             'The teacher invents the spell independently',
+         ],
+         "correct": 1,
+         "expl": "A fictional pretext for delivering the mother's own existing prejudice."},
+        {"q": "How does this reading guide characterize the sweeping claims this verse makes about 'women in the world'?",
+         "opts": [
+             'The guide avoids addressing this question',
+             "As this site's own endorsed teaching",
+             'As historical content presented honestly, not as an endorsed position',
+             'As claims this site asserts to be literally true',
+         ],
+         "correct": 2,
+         "expl": "Consistent with this site's practice of presenting difficult historical material honestly rather than silently or as endorsed."},
+        {"q": 'What chapter does this poem open?',
+         "opts": [
+             'The Kulāvakavagga',
+             'It does not open a chapter',
+             'The Āsīsavagga',
+             'The Itthivagga (Women Chapter)',
+         ],
+         "correct": 3,
+         "expl": 'Whose first several poems voice misogynistic attitudes from ancient source material.'},
+        {"q": 'What structural device does the underlying story use, worth noticing according to this guide?',
+         "opts": [
+             "A fictional teaching device (the invented 'spell') used to deliver an already-existing prejudice",
+             'A direct scholarly treatise',
+             'No particular structure is noted',
+             'A dialogue between equals',
+         ],
+         "correct": 0,
+         "expl": "The 'spell' itself is acknowledged within the story as fictional."},
+        {"q": 'What resolution does the student reach in the verse?',
+         "opts": [
+             'To marry as soon as possible',
+             'To leave women behind and go forth into seclusion',
+             'To confront his mother directly',
+             'No resolution is stated',
+         ],
+         "correct": 1,
+         "expl": "The verse's own closing action."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Hard to Understand',
+             'Since Infancy',
+             'The Spell of the Unpleasant (Asātamantajātaka)',
+             'The Philosopher',
+         ],
+         "correct": 2,
+         "expl": 'The sixty-first poem overall, and the first of the Itthivagga.'},
+        {"q": 'How many lines make up this verse?',
+         "opts": [
+             'Two lines',
+             'Eight lines',
+             'Four lines',
+             'Six lines',
+         ],
+         "correct": 3,
+         "expl": 'Slightly longer than the four-line form most common in this collection.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The first poem of the seventh chapter (Itthivagga), following the completed Āsīsavagga',
+             'It stands outside any chapter',
+             'The final poem of the Itthivagga',
+             'The final poem of the Āsīsavagga',
+         ],
+         "correct": 0,
+         "expl": "Opening this collection's seventh ten-poem chapter."},
+        {"q": "What approach does this reading guide take toward this chapter's difficult content generally?",
+         "opts": [
+             'Silently omitting it',
+             'Presenting it honestly, including any critical comments Sujato himself offers, without treating it as endorsed',
+             'Presenting it as fully accurate and endorsed',
+             'Refusing to translate the affected poems at all',
+         ],
+         "correct": 1,
+         "expl": 'Consistent with the approach already established at Ja 13 earlier in this collection.'},
+    ],
+    marginalia=[
+        ("A spell that doesn't exist", [
+            "invented to deliver a mother's own view —",
+            "the teacher knows it, and teaches it anyway"
+        ]),
+        ("A fiction built to carry a prejudice", [
+            "no real magic, just an existing attitude —",
+            "given a mysterious name to make it stick"
+        ]),
+        ("A chapter that opens honestly, not silently", [
+            "difficult content, presented as what it is —",
+            "described, not endorsed"
+        ]),
+        ("A resolution to withdraw entirely", [
+            "leaving behind what he's just been taught to fear —",
+            "seclusion chosen as the response"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja61/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-60.html">Ja 60 &mdash; The Horn-Blower</a> '
+        "&mdash; the closing poem of the previous chapter.",
+        '<a href="ja-62.html">Ja 62 &mdash; Since Infancy</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 62 — Aṇḍabhūta (Since Infancy)
+# --------------------------------------------------------------------------- #
+page(
+    62, "A&#7751;&#7693;abh&umacr;ta", "Since Infancy",
+    meta_title="Ja 62 — Since Infancy | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 62 — a woman deliberately entrapped through cruelty "
+        "and deception to 'prove' a claim about her own nature, "
+        "presented here with the coercion it actually involved made "
+        "explicit. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Seven (Itthivagga) &middot; Poem 2 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; disturbing underlying content, "
+                       "presented with the coercion made explicit"),
+    ],
+    why=(
+        "This poem's underlying story is genuinely troubling once "
+        "read closely: a woman held in captivity her whole life is "
+        "then deliberately, cruelly deceived into infidelity in order "
+        "to &lsquo;prove&rsquo; a man's claim about women's nature "
+        "&mdash; meaning the verse's conclusion is not evidence of "
+        "anything about women at all, but a record of the harm done "
+        "to secure it."),
+    guide=[
+        ("A verse presenting a conclusion as if it were simply observed", [
+            "The verse states its point as though self-evident: "
+            "&lsquo;the brahmin who played the harp while blindfolded "
+            "had raised his wife since infancy &mdash; who would ever "
+            "trust such women?&rsquo; Read on its own, this sounds "
+            "like a simple cautionary proverb."]),
+        ("A story of captivity and engineered betrayal, not natural weakness", [
+            "Per Sujato's comment, the full story is considerably "
+            "darker: an innocent baby girl was sold into slavery and "
+            "kept locked up under guard her entire life by a brahmin "
+            "who married her &mdash; done specifically to feed his "
+            "gambling addiction, refuting a rival's own lucky charm "
+            "(an oath asserting that all women are faithless). When "
+            "the brahmin began winning, his adversary employed a "
+            "&lsquo;knave&rsquo; who cruelly deceived the "
+            "imprisoned woman's own attendant in order to engineer "
+            "exactly the infidelity the wager required."]),
+        ("What the story actually demonstrates, read honestly", [
+            "Read in full, this story does not show a natural "
+            "tendency in the woman at its center &mdash; it shows a "
+            "woman held captive her entire life, then deliberately "
+            "and cruelly manipulated by outside actors specifically "
+            "to produce a predetermined result for a gambling bet "
+            "between two men. This reading guide presents that fuller "
+            "context directly, since the bare verse alone conceals "
+            "far more than it reveals about what actually happened."]),
+    ],
+    terms=[
+        ("bhatā bhariyā",
+         "&ldquo;had raised his wife since infancy&rdquo; &mdash; "
+         "the verse's own description of a woman held captive from "
+         "childhood, giving this poem its traditional title."),
+        ("ko jātu vissase",
+         "&ldquo;who would ever trust such women?&rdquo; &mdash; the "
+         "verse's rhetorical conclusion, presented by the text as "
+         "though self-evidently proven."),
+        ("dice wager",
+         "per Sujato's comment, the actual motive behind the "
+         "brahmin's marriage: an attempt to refute a rival gambler's "
+         "lucky charm asserting all women are faithless."),
+        ("Aṇḍabhūtajātaka",
+         "the traditional title of this tale, &lsquo;Since "
+         "Infancy&rsquo;."),
+        ("knave",
+         "per Sujato's comment, the agent employed by the brahmin's "
+         "rival to deceive the captive woman's attendant, "
+         "deliberately engineering the outcome the wager required."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, whose fuller context "
+        "Sujato's own comment reveals to be considerably more "
+        "disturbing than the bare text alone suggests, discussed "
+        "above. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja62:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What does the bare verse present as though self-evident?',
+         "opts": [
+             'A specific historical fact about one couple',
+             "A general rhetorical conclusion — 'who would ever trust such women?' — as though naturally proven",
+             'A neutral description with no conclusion',
+             'A question with no implied answer',
+         ],
+         "correct": 1,
+         "expl": 'Read on its own, without the fuller story, it sounds like a simple cautionary proverb.'},
+        {"q": "What was actually done to the woman at the center of this story, per Sujato's comment?",
+         "opts": [
+             'The comment gives no details of her life',
+             'She lived a normal, free life',
+             'She was sold into slavery as an infant and kept locked up under guard her entire life',
+             'She chose her own circumstances freely',
+         ],
+         "correct": 2,
+         "expl": 'Held captive from infancy by the man who later married her.'},
+        {"q": "What was the brahmin's actual motive for this marriage, per the comment?",
+         "opts": [
+             'A political alliance',
+             'Religious obligation',
+             'Genuine affection',
+             "To feed his gambling addiction, refuting a rival's lucky charm about women's faithlessness",
+         ],
+         "correct": 3,
+         "expl": 'Using her as a pawn in an ongoing wager with another gambler.'},
+        {"q": "How was the 'infidelity' the verse alludes to actually brought about?",
+         "opts": [
+             "A rival deliberately employed a knave to cruelly deceive the woman's own attendant, engineering the outcome",
+             'The woman herself initiated it freely',
+             'The comment does not explain how it occurred',
+             'It arose naturally with no outside involvement',
+         ],
+         "correct": 0,
+         "expl": 'A deliberate, calculated act of deception and manipulation by outside parties.'},
+        {"q": 'What does this reading guide conclude the story actually demonstrates, read in full?',
+         "opts": [
+             "That the verse's claim about women is proven true",
+             'That the woman was held captive and then deliberately manipulated to produce a predetermined result for a gambling bet — not evidence of any natural tendency',
+             "That the brahmin's suspicions were entirely justified",
+             'Nothing beyond what the bare verse states',
+         ],
+         "correct": 1,
+         "expl": 'The bare verse alone conceals far more than it reveals about what actually happened.'},
+        {"q": 'Why does this reading guide present the fuller context of this story rather than just the bare verse?',
+         "opts": [
+             "To defend the brahmin's actions",
+             'To make the story more entertaining',
+             'Because the bare verse alone conceals the coercion and deception underlying its stated conclusion',
+             'There is no particular reason given',
+         ],
+         "correct": 2,
+         "expl": "Consistent with this site's practice of engaging honestly with difficult historical material."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Philosopher',
+             'Dissatisfaction',
+             'The Spell of the Unpleasant',
+             'Since Infancy (Aṇḍabhūtajātaka)',
+         ],
+         "correct": 3,
+         "expl": 'The sixty-second poem overall, and the second of the Itthivagga.'},
+        {"q": "What visual record does Sujato's comment mention for this story?",
+         "opts": [
+             'The brahmin of this story is depicted in a Bharhut sculpture',
+             'A painting in a specific temple',
+             'A modern illustration only',
+             'No visual record exists',
+         ],
+         "correct": 0,
+         "expl": "Evidence of the story's circulation and recognition in ancient Buddhist art."},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The second poem of the Itthivagga, following Ja 61',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+         ],
+         "correct": 1,
+         "expl": 'Part of the same ten-poem Itthivagga.'},
+        {"q": 'Who bears the moral responsibility, per the fuller context this reading guide presents?',
+         "opts": [
+             "The woman's attendant alone",
+             'The captive woman alone',
+             'The brahmin and his rival, who together engineered her captivity and manipulation',
+             'No one — the outcome was inevitable',
+         ],
+         "correct": 2,
+         "expl": 'The men who orchestrated both her lifelong captivity and the deception that produced the outcome they wanted.'},
+    ],
+    marginalia=[
+        ("A conclusion stated as if self-evident", [
+            "'who would ever trust such women?' —",
+            "a question that hides everything that came before it"
+        ]),
+        ("A life spent locked away, from infancy on", [
+            "sold as a baby, guarded her whole life —",
+            "not a choice, a captivity"
+        ]),
+        ("A bet between two men, and a woman as its pawn", [
+            "gambling debts settled through cruelty —",
+            "a knave hired specifically to engineer betrayal"
+        ]),
+        ("What the story actually proves", [
+            "not a fact about women, but about coercion —",
+            "the verse's conclusion built on manufactured evidence"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja62/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-61.html">Ja 61 &mdash; The Spell of the '
+        "Unpleasant</a> &mdash; the poem immediately before this one.",
+        '<a href="ja-63.html">Ja 63 &mdash; The Philosopher</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 63 — Takkapaṇḍita (The Philosopher)
+# --------------------------------------------------------------------------- #
+page(
+    63, "Takkapa&#7751;&#7693;ita", "The Philosopher",
+    meta_title="Ja 63 — The Philosopher | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 63 — an imprecation the traditional commentary reads "
+        "as aimed at women, though Sujato's own comment finds "
+        "grammatical grounds to doubt that reading. From Ru-Yi "
+        "Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Seven (Itthivagga) &middot; Poem 3 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; a case where the traditional target of "
+                       "an imprecation is genuinely uncertain"),
+    ],
+    why=(
+        "This poem is placed within the Itthivagga by the traditional "
+        "commentary, which reads its opening imprecation as directed "
+        "at women &mdash; but Sujato's own comment finds a genuine "
+        "grammatical basis to doubt that reading, noting that the "
+        "verse's grammar does not actually require it and may not "
+        "have originally concerned women at all."),
+    guide=[
+        ("An imprecation, and advice to live above it", [
+            "The verse opens sharply: &lsquo;hateful ingrates! "
+            "Slanderous traitors!&rsquo; &mdash; before turning to "
+            "instruction: &lsquo;live the spiritual life, mendicant, "
+            "you will not be bereft of happiness.&rsquo; Per Sujato's "
+            "comment, the traditional commentary explains these "
+            "opening lines as directed against women."]),
+        ("A grammatical basis for genuine doubt", [
+            "Sujato's comment observes something the traditional "
+            "reading passes over: the grammatical gender across these "
+            "lines is ambiguous, except for one word "
+            "(&lsquo;akataññū&rsquo;, &lsquo;ingrates&rsquo;), which "
+            "is masculine plural. The comment concludes that "
+            "&lsquo;either a non-standard form is used, or the verse "
+            "was not originally about women&rsquo; at all &mdash; an "
+            "honest acknowledgment that the traditional interpretive "
+            "framing of this whole chapter may, in this specific "
+            "case, rest on shakier ground than it first appears."]),
+        ("A parallel already on this site", [
+            "Sujato's comment also points to a parallel at this "
+            "site's own AN 5.230, connecting this verse's second half "
+            "to a broader, already-completed discussion of monastic "
+            "conduct and its rewards."]),
+    ],
+    terms=[
+        ("kodhanā akataññū ca",
+         "&ldquo;hateful ingrates!&rdquo; &mdash; the verse's "
+         "opening imprecation, with &lsquo;akataññū&rsquo; "
+         "grammatically masculine plural, per Sujato's comment "
+         "casting doubt on the traditional reading that it targets "
+         "women."),
+        ("takka",
+         "normally &ldquo;logic&rdquo;, giving this poem its "
+         "traditional title, &lsquo;The Philosopher&rsquo;."),
+        ("brahmacariyaṁ cara",
+         "&ldquo;live the spiritual life&rdquo; &mdash; the verse's "
+         "positive instruction, following its opening imprecation."),
+        ("Takkapaṇḍitajātaka",
+         "the traditional title of this tale, &lsquo;The "
+         "Philosopher&rsquo;."),
+        ("AN 5.230",
+         "the already-completed page on this site Sujato's comment "
+         "connects to this verse's second half."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, whose traditional framing "
+        "Sujato's own comment casts genuine grammatical doubt on, "
+        "discussed above. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja63:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does the traditional commentary read this verse's opening imprecation, per Sujato's comment?",
+         "opts": [
+             'As having no specific target',
+             'As directed against kings',
+             'As directed against women',
+             'As directed against animals',
+         ],
+         "correct": 2,
+         "expl": "The reading this reading guide's own discussion goes on to question."},
+        {"q": "What grammatical detail does Sujato's comment note about this verse?",
+         "opts": [
+             'That the verse contains no gendered forms at all',
+             'That the verse is grammatically incomplete',
+             'That the grammar is entirely unambiguous throughout',
+             'That the gender is ambiguous except for one word, which is masculine plural',
+         ],
+         "correct": 3,
+         "expl": "A detail the traditional commentary's reading passes over."},
+        {"q": "What conclusion does Sujato's comment draw from this grammatical observation?",
+         "opts": [
+             'That either a non-standard form is used, or the verse was not originally about women at all',
+             "That the verse's meaning is now permanently lost",
+             'No conclusion is drawn',
+             'That the traditional reading is certainly correct',
+         ],
+         "correct": 0,
+         "expl": 'An honest acknowledgment that the traditional framing may rest on shakier ground than it first appears.'},
+        {"q": "What already-completed page on this site does Sujato's comment connect to this verse's second half?",
+         "opts": [
+             'Snp 3.12',
+             'AN 5.230',
+             'Dhp 179',
+             'No connection is made',
+         ],
+         "correct": 1,
+         "expl": "Linking this verse's positive instruction to a broader already-completed discussion."},
+        {"q": 'What positive instruction does the verse turn to after its opening imprecation?',
+         "opts": [
+             'No positive instruction follows',
+             'A call to violence',
+             "'Live the spiritual life, mendicant, you will not be bereft of happiness'",
+             'A call to abandon all relationships',
+         ],
+         "correct": 2,
+         "expl": "The verse's constructive turn, regardless of who or what its opening imprecation targets."},
+        {"q": "What does 'takka' normally mean, giving this poem its title?",
+         "opts": [
+             "'War'",
+             "'Marriage'",
+             "'Wealth'",
+             "'Logic', with an alternate title referring to a philosopher",
+         ],
+         "correct": 3,
+         "expl": "The traditional title, 'The Philosopher'."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Philosopher (Takkapaṇḍitajātaka)',
+             'Hard to Understand',
+             'Dissatisfaction',
+             'Since Infancy',
+         ],
+         "correct": 0,
+         "expl": 'The sixty-third poem overall, and the third of the Itthivagga.'},
+        {"q": "Why does this reading guide highlight the grammatical ambiguity Sujato's comment raises?",
+         "opts": [
+             'To dismiss the comment as unreliable',
+             "Because it offers a genuine, scholarly basis for doubting whether this poem's traditional placement in the 'women' theme is accurate",
+             'For no particular reason',
+             'To argue the traditional reading is definitely wrong',
+         ],
+         "correct": 1,
+         "expl": 'An honest engagement with uncertainty, rather than treating the traditional framing as settled fact.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The third poem of the Itthivagga, following Ja 61 and Ja 62',
+             'The final poem of its chapter',
+         ],
+         "correct": 2,
+         "expl": 'Part of the same ten-poem Itthivagga.'},
+        {"q": "What is the verse's reading uncertain about, per Sujato's comment on 'vihāhasi'?",
+         "opts": [
+             "Only the poem's title is uncertain",
+             "The entire verse's authenticity is disputed",
+             'Nothing — every word is certain',
+             "The reading of 'vihāhasi' itself is uncertain, and Sujato follows the commentary's interpretation there",
+         ],
+         "correct": 3,
+         "expl": 'A further layer of textual uncertainty noted honestly in the comment.'},
+    ],
+    marginalia=[
+        ("An imprecation, and a doubt about its target", [
+            "the tradition says 'women' —",
+            "the grammar itself isn't so sure"
+        ]),
+        ("One masculine word, undoing a whole reading", [
+            "'akataññū' doesn't fit the traditional claim —",
+            "Sujato names the problem plainly"
+        ]),
+        ("Advice that stands regardless", [
+            "live the spiritual life, whoever the target —",
+            "the constructive turn survives the uncertainty"
+        ]),
+        ("Honesty about what isn't settled", [
+            "not every reading in this tradition is certain —",
+            "this guide says so, rather than pretending otherwise"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja63/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../anguttara-nikaya/an-5.230.html">AN 5.230</a> '
+        "&mdash; connected in Sujato's comment to this verse's "
+        "second half.",
+        '<a href="ja-62.html">Ja 62 &mdash; Since Infancy</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="ja-64.html">Ja 64 &mdash; Hard to Understand</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 64 — Durājāna (Hard to Understand)
+# --------------------------------------------------------------------------- #
+page(
+    64, "Dur&amacr;j&amacr;na", "Hard to Understand",
+    meta_title="Ja 64 — Hard to Understand | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 64 — a husband advised to stop trying to understand "
+        "his wife, in a verse whose closing image is echoed almost "
+        "verbatim to describe the Dhamma itself. From Ru-Yi "
+        "Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Seven (Itthivagga) &middot; Poem 4 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified, offering counsel to a confused "
+                    "husband"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but resting on a reductive premise "
+                       "worth naming honestly"),
+    ],
+    why=(
+        "This poem's underlying advice deserves a plain, unflattering "
+        "summary: rather than making any effort to actually "
+        "understand his wife, a confused husband is told simply to "
+        "stop trying &mdash; and yet its closing image, describing "
+        "human complexity as hard to fathom, is used almost word for "
+        "word elsewhere in this site's own Sutta Nipāta to describe "
+        "the Dhamma itself."),
+    guide=[
+        ("Advice to stop trying, rather than to understand", [
+            "The verse counsels indifference directly: &lsquo;do not "
+            "rejoice, “she loves me,” nor lament, “she loves me "
+            "not.” The mood of women is hard to understand, like the "
+            "track of fish in water.&rsquo; Per Sujato's comment, a "
+            "husband, confused by his wife's shifting behavior "
+            "toward him, seeks counsel &mdash; and rather than being "
+            "encouraged to make any effort to actually understand "
+            "her, he is advised simply to disregard her feelings "
+            "altogether."]),
+        ("A closing image echoed elsewhere for something entirely different", [
+            "Sujato's comment notes that the phrase &lsquo;hard to "
+            "understand&rsquo; is also applied, at this site's own "
+            "Snp 3.12, to the Dhamma itself &mdash; an unexpected "
+            "resonance: the same language used dismissively here to "
+            "excuse not trying is used elsewhere to honor something "
+            "worth the deepest possible effort to understand."]),
+    ],
+    terms=[
+        ("thīnaṁ bhāvo durājāno",
+         "&ldquo;the mood of women is hard to understand&rdquo; "
+         "&mdash; the verse's central claim, echoed at this site's "
+         "own Snp 3.12 in reference to the Dhamma."),
+        ("macchasseva udake gataṁ",
+         "&ldquo;like the track of fish in water&rdquo; &mdash; the "
+         "verse's closing image for something too elusive to trace."),
+        ("Durājānajātaka",
+         "the traditional title of this tale, &lsquo;Hard to "
+         "Understand&rsquo;."),
+        ("Snp 3.12",
+         "&ldquo;Contemplating Pairs&rdquo; &mdash; the "
+         "already-completed page on this site where the same phrase "
+         "&lsquo;hard to understand&rsquo; describes the Dhamma."),
+        ("mativippahīno",
+         "a term from this site's own Ja 44 for an absence of "
+         "judgment; this poem's advice to simply stop trying shares "
+         "something of that same underlying failure of effort."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, whose closing image "
+        "recurs elsewhere on this site in a very different context, "
+        "discussed above. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja64:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What advice does the verse give a husband confused by his wife's behavior?",
+         "opts": [
+             'To seek a divorce immediately',
+             'To confront her directly and demand an explanation',
+             'To make a greater effort to understand her',
+             'To stop trying to interpret her feelings at all — neither rejoicing nor lamenting',
+         ],
+         "correct": 3,
+         "expl": 'A reductive response that this reading guide names plainly rather than dressing up.'},
+        {"q": "What behavior pattern does Sujato's comment describe as prompting the husband's confusion?",
+         "opts": [
+             'Shifting behavior depending on whether she has behaved well or badly toward him',
+             'No specific pattern is described',
+             'Total silence on her part',
+             'A completely static, unchanging demeanor',
+         ],
+         "correct": 0,
+         "expl": 'A complexity the advice given responds to by simply disengaging rather than engaging.'},
+        {"q": "What already-completed page on this site does Sujato's comment connect to this verse's closing phrase?",
+         "opts": [
+             'AN 5.230',
+             'Snp 3.12, where the same phrase describes the Dhamma itself',
+             'Dhp 179',
+             'No connection is made',
+         ],
+         "correct": 1,
+         "expl": 'An unexpected resonance between two very different uses of the same language.'},
+        {"q": 'How does this reading guide characterize the advice this poem gives?',
+         "opts": [
+             'The guide offers no characterization',
+             'As wise and worth following',
+             'As reductive — telling the husband to stop trying rather than to actually understand',
+             'As deeply compassionate',
+         ],
+         "correct": 2,
+         "expl": 'A plain, unflattering summary rather than a dressed-up one.'},
+        {"q": "What image does the verse use for the difficulty of understanding the wife's mood?",
+         "opts": [
+             'The pattern of falling leaves',
+             'The shape of clouds',
+             'The path of a bird in the sky',
+             'The track of fish in water',
+         ],
+         "correct": 3,
+         "expl": 'Something that leaves no trace to follow, closing the verse.'},
+        {"q": 'What does the same closing phrase describe when it appears at Snp 3.12?',
+         "opts": [
+             'The Dhamma itself',
+             "A king's decree",
+             'A natural disaster',
+             'A different woman entirely',
+         ],
+         "correct": 0,
+         "expl": 'Language used dismissively here, but used elsewhere to honor something worth the deepest effort to understand.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Philosopher',
+             'Hard to Understand (Durājānajātaka)',
+             'Dissatisfaction',
+             'Queen Sweetheart',
+         ],
+         "correct": 1,
+         "expl": 'The sixty-fourth poem overall, and the fourth of the Itthivagga.'},
+        {"q": "Does the verse's advice ask the husband to change his own behavior toward his wife?",
+         "opts": [
+             'It asks him to seek outside counsel repeatedly',
+             'Yes, extensively',
+             'No — it asks him only to disengage emotionally from trying to interpret her',
+             'It asks him to apologize',
+         ],
+         "correct": 2,
+         "expl": 'A response of withdrawal rather than genuine engagement or understanding.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The fourth poem of the Itthivagga, following Ja 61 through Ja 63',
+         ],
+         "correct": 3,
+         "expl": 'Part of the same ten-poem Itthivagga.'},
+        {"q": 'What irony does this reading guide draw out from the Snp 3.12 connection?',
+         "opts": [
+             'The same phrase dismisses human complexity here, while honoring something worth deep effort elsewhere',
+             'Both uses are equally dismissive',
+             "The connection undermines Snp 3.12's own teaching",
+             'No irony is present',
+         ],
+         "correct": 0,
+         "expl": 'A resonance worth noticing rather than passing over.'},
+    ],
+    marginalia=[
+        ("Advice to simply stop trying", [
+            "not understanding, just disengaging —",
+            "a reductive answer to a real confusion"
+        ]),
+        ("A phrase that means something else, elsewhere", [
+            "'hard to understand' — used here dismissively —",
+            "at Snp 3.12, the same words honor the Dhamma"
+        ]),
+        ("A track no one can follow", [
+            "fish leaving no trace in water —",
+            "the verse's own image for what it won't try to read"
+        ]),
+        ("Complexity, met with withdrawal", [
+            "not engagement, but simple avoidance —",
+            "this guide names the advice for what it is"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja64/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../sutta-nipata/snp-3.12.html">Snp 3.12 &mdash; '
+        "Contemplating Pairs</a> &mdash; where the same phrase "
+        "&lsquo;hard to understand&rsquo; describes the Dhamma "
+        "itself.",
+        '<a href="ja-63.html">Ja 63 &mdash; The Philosopher</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="ja-65.html">Ja 65 &mdash; Dissatisfaction</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 65 — Anabhirati (Dissatisfaction)
+# --------------------------------------------------------------------------- #
+page(
+    65, "Anabhirati", "Dissatisfaction",
+    meta_title="Ja 65 — Dissatisfaction | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 65 — a verse comparing women to public taverns, met "
+        "with Sujato's own sharpest direct rebuttal in this whole "
+        "collection: 'contrary to the story, studies consistently "
+        "indicate that men cheat more than women.' From Ru-Yi "
+        "Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Seven (Itthivagga) &middot; Poem 5 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but paired with the translator's own "
+                       "direct factual rebuttal"),
+    ],
+    why=(
+        "Sujato's own comment on this verse offers this whole "
+        "chapter's most direct, unambiguous factual correction: "
+        "against a verse comparing women to public taverns available "
+        "to all, the comment states plainly, &lsquo;contrary to the "
+        "story, studies consistently indicate that men cheat more "
+        "than women.&rsquo; This reading guide features that "
+        "rebuttal prominently, exactly as it appears in the source "
+        "material."),
+    guide=[
+        ("A comparison meant to justify indifference to infidelity", [
+            "The verse states its claim through comparison: "
+            "&lsquo;just like rivers and roads, taverns, hotels, and "
+            "pubs, are those called women in the world. Sages do not "
+            "get angry with them.&rsquo; Per Sujato's comment, the "
+            "underlying story holds that women are, by their nature, "
+            "&lsquo;available to all&rsquo;, so a wise man should not "
+            "be upset when his own wife is unfaithful."]),
+        ("Sujato's own direct, factual rebuttal", [
+            "Sujato's comment does not let this pass unremarked. It "
+            "states plainly: &lsquo;contrary to the story, studies "
+            "consistently indicate that men cheat more than "
+            "women.&rsquo; This is the most direct, unambiguous "
+            "factual correction found anywhere in this whole "
+            "collection's comments &mdash; naming the verse's "
+            "underlying claim as simply false, rather than merely "
+            "noting historical context or textual ambiguity."]),
+        ("A cross-reference to this site's own SN 9.8", [
+            "Sujato's comment also compares this poem to this site's "
+            "own already-completed SN 9.8, connecting this verse's "
+            "underlying theme to a discourse already treated "
+            "elsewhere on this site."]),
+    ],
+    terms=[
+        ("lokitthiyo",
+         "&ldquo;women in the world&rdquo; &mdash; the verse's own "
+         "sweeping comparison, given here as the text states it, not "
+         "as an endorsed claim."),
+        ("nāsaṁ kujjhanti paṇḍitā",
+         "&ldquo;sages do not get angry with them&rdquo; &mdash; the "
+         "verse's own conclusion, built on the comparison Sujato's "
+         "comment directly rebuts."),
+        ("studies consistently indicate",
+         "the opening of Sujato's own direct factual correction to "
+         "this verse's underlying premise, quoted in full above."),
+        ("Anabhiratijātaka",
+         "the traditional title of this tale, "
+         "&lsquo;Dissatisfaction&rsquo;."),
+        ("SN 9.8",
+         "&ldquo;The Mistress of the House&rdquo; &mdash; the "
+         "already-completed page on this site Sujato's comment "
+         "compares to this poem, previously cross-linked from this "
+         "site's own Ja 14."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, accompanied by this whole "
+        "collection's most direct factual rebuttal in Sujato's own "
+        "comment, quoted in full above. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja65:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What comparison does the verse draw?',
+         "opts": [
+             'Women compared to rivers, roads, taverns, hotels, and pubs — available to all',
+             'Women compared to fortified cities',
+             'No comparison is made',
+             'Women compared to precious jewels',
+         ],
+         "correct": 0,
+         "expl": "Used to argue that a wise man should not be upset by his wife's infidelity."},
+        {"q": "What does Sujato's own comment state directly in response to this verse's premise?",
+         "opts": [
+             "Full agreement with the verse's claim",
+             "'Contrary to the story, studies consistently indicate that men cheat more than women'",
+             'That the question cannot be answered',
+             'No response is given',
+         ],
+         "correct": 1,
+         "expl": "The most direct, unambiguous factual correction found anywhere in this collection's comments."},
+        {"q": "How does this rebuttal differ from Sujato's comments on earlier poems in this chapter, such as Ja 63's grammatical doubt?",
+         "opts": [
+             'It avoids taking any position at all',
+             'It is essentially the same kind of comment',
+             "It names the verse's underlying claim as simply false, based on evidence, rather than raising textual or grammatical uncertainty",
+             'It is less direct than the earlier comments',
+         ],
+         "correct": 2,
+         "expl": 'A direct, factual correction rather than a philological observation.'},
+        {"q": "What already-completed page does Sujato's comment compare this poem to?",
+         "opts": [
+             'Snp 3.12',
+             'No comparison is made',
+             'AN 5.230',
+             "SN 9.8, previously cross-linked from this site's own Ja 14",
+         ],
+         "correct": 3,
+         "expl": "Connecting this verse's underlying theme to a discourse already treated elsewhere on this site."},
+        {"q": 'What conclusion does the verse draw from its comparison?',
+         "opts": [
+             'That sages do not get angry when their wives are unfaithful',
+             'That women should never marry',
+             'No conclusion is drawn',
+             'That women should be punished for infidelity',
+         ],
+         "correct": 0,
+         "expl": "The verse's own closing line, following its comparison."},
+        {"q": "Why does this reading guide feature Sujato's rebuttal prominently?",
+         "opts": [
+             'To avoid discussing the verse at all',
+             "Because it is the source material's own translator directly correcting the verse's underlying factual claim, presented exactly as it appears",
+             'To argue the rebuttal itself is mistaken',
+             'There is no particular reason',
+         ],
+         "correct": 1,
+         "expl": "Consistent with this site's practice of presenting difficult content honestly, including the translator's own critical response."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'In My Lap',
+             'Hard to Understand',
+             'Dissatisfaction (Anabhiratijātaka)',
+             'Queen Sweetheart',
+         ],
+         "correct": 2,
+         "expl": 'The sixty-fifth poem overall, and the fifth of the Itthivagga.'},
+        {"q": "What specific method does Sujato's comment use to rebut the verse's claim?",
+         "opts": [
+             'A personal opinion with no supporting basis',
+             'No method is specified',
+             'An appeal to religious authority alone',
+             'A reference to modern studies and their consistent findings',
+         ],
+         "correct": 3,
+         "expl": "Citing empirical evidence directly against the verse's stated premise."},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The fifth poem of the Itthivagga, following Ja 61 through Ja 64',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+         ],
+         "correct": 0,
+         "expl": 'Part of the same ten-poem Itthivagga.'},
+        {"q": "What pattern does this poem, alongside Ja 63, establish about how this reading guide handles this chapter's difficult content?",
+         "opts": [
+             'It ignores all critical comments',
+             "It presents the verses honestly while also foregrounding Sujato's own critical responses where they exist",
+             "It presents only the verses' claims as settled fact",
+             'It refuses to translate any further poems in this chapter',
+         ],
+         "correct": 1,
+         "expl": 'A consistent approach carried through this entire difficult chapter.'},
+    ],
+    marginalia=[
+        ("A comparison meant to excuse indifference", [
+            "women likened to taverns, open to all —",
+            "used to argue a husband shouldn't mind betrayal"
+        ]),
+        ("The sharpest rebuttal in this whole collection", [
+            "'studies consistently indicate' otherwise —",
+            "Sujato's own comment, stated without hedging"
+        ]),
+        ("Evidence answering assertion", [
+            "not textual doubt this time, but a factual correction —",
+            "the verse's premise named simply false"
+        ]),
+        ("A rebuttal quoted, not buried", [
+            "featured here exactly as the source gives it —",
+            "honesty about what the translator himself objected to"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja65/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment, including the full comment "
+        "discussed above." % SC,
+        '<a href="../samyutta-nikaya/sn-9.8.html">SN 9.8 &mdash; The '
+        "Mistress of the House</a> &mdash; compared to this poem in "
+        "Sujato's own comment.",
+        '<a href="ja-64.html">Ja 64 &mdash; Hard to Understand</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="ja-66.html">Ja 66 &mdash; Queen Sweetheart</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 66 — Mudulakkhaṇa (Queen Sweetheart)
+# --------------------------------------------------------------------------- #
+page(
+    66, "Mudulakkha&#7751;a", "Queen Sweetheart",
+    meta_title="Ja 66 — Queen Sweetheart | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 66 — not about women's nature but about craving's "
+        "own, discovering that getting exactly what you wanted only "
+        "multiplies the wanting. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Seven (Itthivagga) &middot; Poem 6 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "An ascetic, reflecting on his own desire "
+                    "fulfilled"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse about the nature of craving "
+                       "itself"),
+    ],
+    why=(
+        "Unlike several of this chapter's other poems, this verse's "
+        "real target is not women at all, but the nature of craving "
+        "itself &mdash; using one man's desire as its occasion to "
+        "observe something that applies equally to any object of "
+        "want: getting exactly what you wished for does not shrink "
+        "your wanting, but multiplies it."),
+    guide=[
+        ("Desire fulfilled, only to multiply", [
+            "The verse gives its own honest reversal: &lsquo;one wish "
+            "I had in the past, before I won Queen Sweetheart. But "
+            "when I won the moon-eyed lady, wish upon wish was "
+            "born.&rsquo; Per Sujato's comment, an ascetic desires "
+            "the queen, but once he actually gains her, he finds his "
+            "list of desires does not shrink but grows."]),
+        ("A verse about craving's own logic, not about her character", [
+            "This poem's insight does not concern anything about the "
+            "queen herself &mdash; it concerns the structure of "
+            "craving, which by its own nature never resolves through "
+            "satisfaction, only multiplies. Unlike several of this "
+            "chapter's other poems, the object of desire here is "
+            "incidental to the point being made, which could equally "
+            "apply to any object of longing."]),
+    ],
+    terms=[
+        ("mudulakkhaṇa",
+         "&ldquo;Queen Sweetheart&rdquo;, literally &ldquo;of soft, "
+         "gentle characteristics&rdquo; &mdash; giving this poem its "
+         "traditional title."),
+        ("icchā icchaṁ vijāyatha",
+         "&ldquo;wish upon wish was born&rdquo; &mdash; the verse's "
+         "own central observation about the self-multiplying nature "
+         "of craving."),
+        ("aḷārakkhī",
+         "&ldquo;moon-eyed&rdquo;, per Sujato's comment a term "
+         "meaning wide-open, expressive eyes."),
+        ("Mudulakkhaṇajātaka",
+         "the traditional title of this tale, &lsquo;Queen "
+         "Sweetheart&rsquo;."),
+        ("craving's own structure",
+         "the poem's actual subject, per this reading guide, using a "
+         "specific desire as its occasion without the verse's insight "
+         "depending on anything about its particular object."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja66:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the ascetic discover after winning the queen he desired, per Sujato's comment?",
+         "opts": [
+             'That his desires are now completely satisfied',
+             'That his list of desires does not shrink but grows',
+             'That he no longer wants anything at all',
+             'The comment does not address the outcome',
+         ],
+         "correct": 1,
+         "expl": "'Wish upon wish was born.'"},
+        {"q": "What does this reading guide say this poem's real target is?",
+         "opts": [
+             'A specific historical event',
+             "The queen's own character specifically",
+             'The nature and structure of craving itself, not anything about the object of desire',
+             'A general condemnation of marriage',
+         ],
+         "correct": 2,
+         "expl": "Unlike several of this chapter's other poems, the object of desire is incidental to the point."},
+        {"q": "How does this poem's underlying insight compare to earlier poems in this chapter?",
+         "opts": [
+             "It is unrelated to any of this chapter's other themes",
+             "It repeats Ja 65's argument exactly",
+             'It makes the same misogynistic claim in different words',
+             "It shifts focus away from women's nature entirely, toward the self-multiplying nature of craving generally",
+         ],
+         "correct": 3,
+         "expl": 'A notable shift within this difficult chapter, toward a universal teaching about desire itself.'},
+        {"q": "What does 'aḷārakkhī' mean, per Sujato's comment?",
+         "opts": [
+             "'Moon-eyed', describing wide-open, expressive eyes",
+             "'Golden-haired'",
+             'A proper name unrelated to appearance',
+             "'Sharp-tongued'",
+         ],
+         "correct": 0,
+         "expl": "A descriptive epithet for the queen, giving color to the verse's imagery."},
+        {"q": "Could this poem's central insight apply equally to objects of desire other than a person?",
+         "opts": [
+             'No, it applies only to romantic desire specifically',
+             "Yes — the insight about craving's self-multiplying nature could apply to any object of longing",
+             'The poem restricts its scope explicitly',
+             'The question does not apply',
+         ],
+         "correct": 1,
+         "expl": "The verse's insight concerns the structure of craving generally, not anything specific to its particular object."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'At Sāketa',
+             'Dissatisfaction',
+             'Queen Sweetheart (Mudulakkhaṇajātaka)',
+             'In My Lap',
+         ],
+         "correct": 2,
+         "expl": 'The sixty-sixth poem overall, and the sixth of the Itthivagga.'},
+        {"q": "What is the ascetic's own role in this poem's underlying story?",
+         "opts": [
+             'A judge presiding over a dispute',
+             'An unrelated bystander',
+             'A passive observer',
+             'The one who desires the queen and eventually attains her',
+         ],
+         "correct": 3,
+         "expl": "His own experience of unsatisfied craving after apparent success is the poem's whole subject."},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The sixth poem of the Itthivagga, following Ja 61 through Ja 65',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+         ],
+         "correct": 0,
+         "expl": 'Part of the same ten-poem Itthivagga.'},
+        {"q": 'What general teaching about craving does this poem illustrate, familiar from Buddhist doctrine broadly?',
+         "opts": [
+             'That craving is satisfied once its object is obtained',
+             'That craving does not resolve through satisfaction but tends to multiply',
+             'That craving has no relationship to suffering',
+             'That craving only affects certain people',
+         ],
+         "correct": 1,
+         "expl": "A core observation about the nature of desire itself, illustrated through one man's specific experience."},
+        {"q": "What time span does the verse's contrast span?",
+         "opts": [
+             'No time span is indicated',
+             'A single moment only',
+             'Before and after winning the queen he desired',
+             'An entire lifetime in detail',
+         ],
+         "correct": 2,
+         "expl": "The verse's own before-and-after structure delivering its insight about craving."},
+    ],
+    marginalia=[
+        ("One wish, then many", [
+            "before winning her, only a single desire —",
+            "afterward, wish upon wish, endlessly born"
+        ]),
+        ("Not about her, but about wanting itself", [
+            "the queen is incidental to the real point —",
+            "craving multiplies, whatever its object"
+        ]),
+        ("Satisfaction that never actually satisfies", [
+            "getting exactly what he wished for —",
+            "and finding the wanting only grows"
+        ]),
+        ("A shift within a difficult chapter", [
+            "not another verse about women's nature —",
+            "a universal observation about desire"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja66/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-65.html">Ja 65 &mdash; Dissatisfaction</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="ja-67.html">Ja 67 &mdash; In My Lap</a> &mdash; '
+        "the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 67 — Ucchaṅga (In My Lap)
+# --------------------------------------------------------------------------- #
+page(
+    67, "Uccha&#7749;ga", "In My Lap",
+    meta_title="Ja 67 — In My Lap | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 67, closing this chapter's 'women' theme on a "
+        "different note — a woman's own shrewd reasoning under an "
+        "impossible choice, admired rather than criticized. From "
+        "Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Seven (Itthivagga) &middot; Poem 7 of 10",
+    glance=[
+        ("Setting", "A royal court, an impossible choice forced on a "
+                    "woman"),
+        ("Speaker", "The woman herself, explaining her reasoning to "
+                    "the king"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse of admired, clear-headed "
+                       "reasoning"),
+    ],
+    why=(
+        "This poem closes out this chapter's run of poems concerning "
+        "women on a genuinely different note: rather than voicing a "
+        "prejudice against a woman's character, it presents a "
+        "woman's own clear, shrewd reasoning under an impossible "
+        "forced choice &mdash; reasoning a king finds so persuasive "
+        "that he releases everyone involved."),
+    guide=[
+        ("An impossible choice, and unflinching logic", [
+            "The verse gives the woman's own explanation: &lsquo;a "
+            "son in my lap, your highness, or a husband while walking "
+            "the street &mdash; but I don't see the place from where "
+            "I can fetch a brother.&rsquo; Per Sujato's comment, a "
+            "king holds a woman's son, husband, and brother captive, "
+            "forcing her to choose only one to save. She chooses her "
+            "brother, reasoning that a son or husband may, in "
+            "principle, be had again, but a brother, once lost, "
+            "cannot be replaced."]),
+        ("Reasoning admired, not condemned", [
+            "The king, per Sujato's comment, is &lsquo;impressed with "
+            "her reasoning&rsquo; and releases all three captives "
+            "&mdash; a clear reversal of this chapter's earlier "
+            "pattern. Here a woman's own careful, unsentimental logic "
+            "under genuine duress is precisely what the story "
+            "celebrates, closing this chapter's run of poems "
+            "concerning women with real admiration rather than "
+            "suspicion."]),
+        ("A frank note on the verse's own opening image", [
+            "Sujato's comment notes directly that &lsquo;ucchaṅge&rsquo; "
+            "(&lsquo;lap&rsquo;) carries a sexual innuendo in this "
+            "context, likened by the traditional commentary to a "
+            "&lsquo;bag&rsquo; in which vegetables are kept &mdash; "
+            "the woman's own opening line making a frank, practical "
+            "point about how easily a son or husband might be "
+            "acquired again, before her reasoning turns to what "
+            "genuinely cannot be replaced."]),
+    ],
+    terms=[
+        ("ucchaṅge",
+         "&ldquo;in my lap&rdquo;, per Sujato's comment carrying a "
+         "sexual innuendo, giving this poem its traditional title."),
+        ("sodariyaṁ ānaye",
+         "&ldquo;fetch a brother&rdquo; &mdash; the impossibility at "
+         "the center of the woman's reasoning, since a brother, "
+         "unlike a son or husband, cannot be replaced."),
+        ("Ucchaṅgajātaka",
+         "the traditional title of this tale, &lsquo;In My "
+         "Lap&rsquo;."),
+        ("the king",
+         "per Sujato's comment, the one who forces this impossible "
+         "choice, then releases all three captives once persuaded by "
+         "her reasoning."),
+        ("reasoning admired",
+         "the outcome this reading guide highlights: a woman's own "
+         "clear-headed logic under duress, presented for genuine "
+         "admiration rather than suspicion, closing this chapter's "
+         "run of poems concerning women."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja67:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What impossible choice does the king force on the woman, per Sujato's comment?",
+         "opts": [
+             'No specific choice is described',
+             'To choose between two kingdoms',
+             'To choose which of her son, husband, or brother to save, since he holds all three captive',
+             'To choose her own punishment',
+         ],
+         "correct": 2,
+         "expl": 'Setting up her carefully reasoned response.'},
+        {"q": 'Which family member does she choose to save?',
+         "opts": [
+             'Her husband',
+             'She refuses to choose',
+             'Her son',
+             'Her brother',
+         ],
+         "correct": 3,
+         "expl": 'Reasoning that a son or husband may, in principle, be had again, but a brother cannot be replaced.'},
+        {"q": "How does the king respond to her reasoning, per Sujato's comment?",
+         "opts": [
+             'He is impressed and releases all three captives',
+             'He releases only her brother',
+             'He dismisses her reasoning entirely',
+             'He punishes her regardless',
+         ],
+         "correct": 0,
+         "expl": "A clear reversal of this chapter's earlier pattern of suspicion toward women."},
+        {"q": "How does this poem's treatment of a woman's reasoning differ from several earlier poems in this chapter?",
+         "opts": [
+             'It is identical in its suspicion',
+             'It presents her clear-headed logic with genuine admiration rather than suspicion',
+             'It ignores her perspective entirely',
+             'It criticizes her reasoning as flawed',
+         ],
+         "correct": 1,
+         "expl": "Closing this chapter's run of poems concerning women on a notably different note."},
+        {"q": "What does Sujato's comment say about the word 'ucchaṅge' (lap) in this context?",
+         "opts": [
+             'It is a term of formal address',
+             'It has no particular connotation',
+             "It carries a sexual innuendo, likened by the traditional commentary to a 'bag' for keeping vegetables",
+             'It refers only to a physical location with no further meaning',
+         ],
+         "correct": 2,
+         "expl": 'A frank note on the practical point her opening line makes.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'At Sāketa',
+             'Vomited Poison',
+             'Queen Sweetheart',
+             'In My Lap (Ucchaṅgajātaka)',
+         ],
+         "correct": 3,
+         "expl": 'The sixty-seventh poem overall, and the seventh of the Itthivagga.'},
+        {"q": 'Why, in her own reasoning, is a brother irreplaceable while a son or husband are not?',
+         "opts": [
+             'Because a son could be conceived again and a husband found again, but once parents are gone, no new brother can be had',
+             'The verse gives no explanation for this distinction',
+             'Because of a specific religious rule',
+             'Because brothers are more valuable in general',
+         ],
+         "correct": 0,
+         "expl": 'A frank, practical distinction rather than a sentimental one.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The seventh poem of the Itthivagga, following Ja 61 through Ja 66',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+         ],
+         "correct": 1,
+         "expl": "Part of the same ten-poem Itthivagga, and per Sujato's own comment on the next poem, the last of this chapter's poems actually concerning women."},
+        {"q": "What genre convention does this poem follow, involving a ruler testing a subject's wisdom?",
+         "opts": [
+             'A battle narrative',
+             'No such convention is present',
+             "A wise-judgment story, where a ruler tests and then rewards someone's clear reasoning under pressure",
+             'A romance narrative',
+         ],
+         "correct": 2,
+         "expl": "The king's own admiration and release of all three captives confirms this pattern."},
+        {"q": "What does this poem's placement, closing this chapter's 'women' theme, suggest about the chapter's overall range?",
+         "opts": [
+             'That this poem is a later, unrelated addition',
+             'That no variation exists at all',
+             'That the chapter is uniformly hostile throughout',
+             "That the chapter's difficult content is not monolithic — including at least one poem presenting a woman's wisdom with genuine admiration",
+         ],
+         "correct": 3,
+         "expl": "Worth noting honestly alongside the chapter's more troubling earlier poems."},
+    ],
+    marginalia=[
+        ("An impossible choice, met with clear logic", [
+            "son, husband, or brother — choose only one —",
+            "her reasoning cuts straight to what can't be replaced"
+        ]),
+        ("A king persuaded, not just obeyed", [
+            "impressed enough to release all three —",
+            "reasoning rewarded, not merely permitted"
+        ]),
+        ("A frank opening line, plainly noted", [
+            "'lap' carrying its own innuendo —",
+            "Sujato's comment names it directly"
+        ]),
+        ("A different note, closing this theme", [
+            "not suspicion this time, but admiration —",
+            "this chapter's range is wider than its worst poems"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja67/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-66.html">Ja 66 &mdash; Queen Sweetheart</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="ja-68.html">Ja 68 &mdash; At Sāketa</a> &mdash; '
+        "the next poem, where this chapter's remaining poems shift "
+        "away from the theme of women entirely.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 68 — Sāketa (At Sāketa)
+# --------------------------------------------------------------------------- #
+page(
+    68, "S&amacr;keta", "At Sāketa",
+    meta_title="Ja 68 — At Sāketa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 68 — an old couple's instinctive trust in the Buddha, "
+        "confirmed as their own son across many past lives; the first "
+        "of this chapter's remaining poems unrelated to its 'women' "
+        "theme. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Seven (Itthivagga) &middot; Poem 8 of 10",
+    glance=[
+        ("Setting", "The town of Sāketa, an elderly couple meeting "
+                    "the Buddha"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse on instinctive, well-founded "
+                       "trust"),
+    ],
+    why=(
+        "Sujato's comment states directly that &lsquo;the remaining "
+        "stories of this chapter do not concern women&rsquo; &mdash; "
+        "this poem marks that shift, and is unusual in its own right: "
+        "a story set entirely in the present, confirming an "
+        "instinctive bond that turns out to be rooted in many past "
+        "lives together."),
+    guide=[
+        ("Trust that settles on someone never met before", [
+            "The verse states its principle: &lsquo;in whom the mind "
+            "settles, and the heart too is confident &mdash; gladly "
+            "one would trust in that man not seen before.&rsquo; Per "
+            "Sujato's comment, this poem concerns only present-day "
+            "events, with no proper past-life story behind it: an old "
+            "couple dote on the Buddha as though he were their own "
+            "son, and he confirms directly that they were, in fact, "
+            "his parents across many past lives."]),
+        ("A shift away from this chapter's earlier theme", [
+            "Sujato's comment states plainly: &lsquo;the remaining "
+            "stories of this chapter do not concern women.&rsquo; "
+            "Despite belonging to the Itthivagga by its position in "
+            "the traditional numbering, this poem and the two that "
+            "follow it turn to entirely different subjects, closing "
+            "out the chapter on themes unrelated to the difficult "
+            "material found in its opening poems."]),
+    ],
+    terms=[
+        ("mano nivisati",
+         "&ldquo;the mind settles&rdquo; &mdash; the verse's own "
+         "description of instinctive trust, not built on prior "
+         "acquaintance."),
+        ("adiṭṭhapubbake pose",
+         "&ldquo;that man not seen before&rdquo; &mdash; the "
+         "stranger the verse says can nonetheless be trusted, when "
+         "the mind and heart both settle."),
+        ("Sāketajātaka",
+         "the traditional title of this tale, &lsquo;At "
+         "Sāketa&rsquo;, named for the town where the events take "
+         "place."),
+        ("no proper story",
+         "per Sujato's comment, this poem's own unusual status: it "
+         "concerns only present-day events, with no separate "
+         "past-life narrative of the kind most other tales in this "
+         "collection are built around."),
+        ("the remaining stories of this chapter",
+         "per Sujato's comment, this poem and the two that follow "
+         "it, which do not concern the theme of women found in this "
+         "chapter's opening poems."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, marking a shift to themes "
+        "unrelated to this chapter's earlier poems, discussed above. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja68:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does Sujato's comment say directly about this poem and the two that follow it?",
+         "opts": [
+             'That they were later additions with no comment available',
+             'That they repeat earlier poems exactly',
+             "That they continue the chapter's earlier theme",
+             "That 'the remaining stories of this chapter do not concern women'",
+         ],
+         "correct": 3,
+         "expl": "Marking a clear shift away from this chapter's opening poems."},
+        {"q": "What is unusual about this poem's underlying story, per the comment?",
+         "opts": [
+             "It has 'no proper story' — it concerns only present-day events, unlike most Jātaka tales",
+             'It has multiple past-life narratives',
+             'No story exists for this poem at all',
+             'It has an unusually long past-life narrative',
+         ],
+         "correct": 0,
+         "expl": 'A distinctive structural feature compared to most other tales in this collection.'},
+        {"q": "What happens in this poem's present-day events, per Sujato's comment?",
+         "opts": [
+             'A dispute between merchants',
+             'An old couple dotes on the Buddha as their own son, which he confirms across many past lives',
+             'A battle between two kingdoms',
+             'A trial before a king',
+         ],
+         "correct": 1,
+         "expl": 'Confirming an instinctive bond rooted in a long history together.'},
+        {"q": 'What principle does the verse itself state?',
+         "opts": [
+             'No principle is stated',
+             'That trust should never be given to strangers',
+             'That when the mind settles and the heart is confident, one may gladly trust even someone not seen before',
+             'That trust must always be earned over time',
+         ],
+         "correct": 2,
+         "expl": 'An instinctive form of trust the story then grounds in a much deeper history.'},
+        {"q": 'Where is this poem set, giving it its traditional title?',
+         "opts": [
+             'Rājagaha',
+             'No location is specified',
+             'Varanasi',
+             'Sāketa',
+         ],
+         "correct": 3,
+         "expl": "'At Sāketa' — named for the town where the events take place."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'At Sāketa (Sāketajātaka)',
+             'Vomited Poison',
+             'The Spade',
+             'In My Lap',
+         ],
+         "correct": 0,
+         "expl": 'The sixty-eighth poem overall, and the eighth of the Itthivagga.'},
+        {"q": 'How does this poem relate to the Buddha specifically, unlike most Jātaka tales?',
+         "opts": [
+             'It has no connection to the Buddha',
+             'The Buddha himself appears directly in the present-day frame and confirms the past-life relationship',
+             'It only concerns his distant ancestors',
+             "It predates the Buddha's own lifetime entirely",
+         ],
+         "correct": 1,
+         "expl": 'A direct present-day confirmation rather than a purely past-life narrative.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The eighth poem of the Itthivagga, following Ja 61 through Ja 67',
+             'The final poem of its chapter',
+         ],
+         "correct": 2,
+         "expl": 'Part of the same ten-poem Itthivagga, despite its unrelated subject matter.'},
+        {"q": "Why does this poem remain classified within the 'Itthivagga' despite not concerning women?",
+         "opts": [
+             'It was misclassified by a later editor and should be moved',
+             'The question is not addressed',
+             'This reading guide asserts a hidden connection to the theme',
+             'Its position in the traditional numbering places it in this chapter regardless of its actual subject matter',
+         ],
+         "correct": 3,
+         "expl": "Noted plainly rather than forcing an artificial connection to the chapter's title theme."},
+        {"q": 'What quality does the trust described in this verse depend on?',
+         "opts": [
+             'An instinctive settling of the mind and confidence of heart, even toward someone not seen before',
+             'A formal introduction',
+             'Financial obligation',
+             'Prior long acquaintance',
+         ],
+         "correct": 0,
+         "expl": 'Later revealed by the story to be grounded in a far deeper history than either party consciously knew.'},
+    ],
+    marginalia=[
+        ("A stranger who feels instantly familiar", [
+            "the mind settles before any explanation is given —",
+            "trust that arrives before understanding does"
+        ]),
+        ("A story with no story", [
+            "unusual among these tales: no separate past-life narrative —",
+            "just present-day events, confirmed directly"
+        ]),
+        ("An old couple's son, confirmed by the Buddha himself", [
+            "not a metaphor, but many actual past lives —",
+            "instinct grounded in real history"
+        ]),
+        ("Where this chapter turns elsewhere", [
+            "'the remaining stories do not concern women' —",
+            "Sujato's comment marks the shift plainly"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja68/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-67.html">Ja 67 &mdash; In My Lap</a> &mdash; '
+        "the poem immediately before this one.",
+        '<a href="ja-69.html">Ja 69 &mdash; Vomited Poison</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 69 — Visavanta (Vomited Poison)
+# --------------------------------------------------------------------------- #
+page(
+    69, "Visavanta", "Vomited Poison",
+    meta_title="Ja 69 — Vomited Poison | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 69 — a snake who refuses, even under threat of death, "
+        "to take back the poison it has already given up, and a "
+        "genuine ambiguity in how the verse should even be read. "
+        "From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Seven (Itthivagga) &middot; Poem 9 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "A snake, addressing its own discarded poison"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; a case where the verse's grammar "
+                       "supports two different readings"),
+    ],
+    why=(
+        "This poem's snake makes an absolute commitment: having given "
+        "up its poison once, it will not take it back, even under "
+        "threat of death &mdash; but Sujato's own comment reveals the "
+        "Pali grammar genuinely supports two different readings of "
+        "just how firm that refusal actually is."),
+    guide=[
+        ("Death preferred to reclaiming what was given up", [
+            "The verse gives the snake's own resolve: &lsquo;curse "
+            "that vomited poison, which I vomited for the sake of "
+            "life, and now shall consume again. Death is better for "
+            "me than life!&rsquo; Per Sujato's comment, a snake "
+            "refuses to take back its own poison even on pain of "
+            "death."]),
+        ("A genuine grammatical fork in how to read the refusal", [
+            "Sujato's comment identifies real ambiguity here: the "
+            "story assumes the snake simply refuses to take the "
+            "poison back, but the verse itself contains no negative "
+            "particle qualifying the verb, so it could instead be "
+            "read as a rhetorical question &mdash; &lsquo;I shall "
+            "take back what I have vomited?&rsquo; &mdash; implying "
+            "the snake is horrified at even having to ask, rather "
+            "than flatly stating a refusal. Under either reading, "
+            "the snake's underlying commitment to what it has already "
+            "relinquished remains absolute, but the grammar leaves "
+            "genuinely open exactly how that commitment is voiced."]),
+    ],
+    terms=[
+        ("visaṁ vantaṁ",
+         "&ldquo;vomited poison&rdquo; &mdash; the discarded poison "
+         "the snake refuses to reclaim, giving this poem its "
+         "traditional title."),
+        ("mataṁ me jīvitā varaṁ",
+         "&ldquo;death is better for me than life!&rdquo; &mdash; "
+         "the snake's own absolute statement of commitment."),
+        ("rhetorical question",
+         "per Sujato's comment, one of two genuinely possible "
+         "grammatical readings of the verse's central line, since no "
+         "negative particle qualifies the verb."),
+        ("Visavantajātaka",
+         "the traditional title of this tale, &lsquo;Vomited "
+         "Poison&rsquo;."),
+        ("jīvitakāraṇā",
+         "&ldquo;for the sake of life&rdquo;, a phrase Sujato's "
+         "comment cross-references to Ps 1.1, outside this site's own "
+         "selections."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, whose central line "
+        "Sujato's own comment identifies as genuinely ambiguous in "
+        "its grammar, discussed above. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja69:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the snake refuse to do, per Sujato's comment?",
+         "opts": [
+             'Take back its own poison, even on pain of death',
+             'Leave its territory',
+             'Speak to anyone else',
+             'Attack anyone further',
+         ],
+         "correct": 0,
+         "expl": 'An absolute commitment to what it has already given up.'},
+        {"q": "What grammatical detail does Sujato's comment identify in the verse's central line?",
+         "opts": [
+             'No ambiguity exists',
+             'There is no negative particle qualifying the verb, so it could be a flat refusal or a rhetorical question',
+             'The line is grammatically incomplete',
+             'The verb is in an unusual tense with no clear meaning',
+         ],
+         "correct": 1,
+         "expl": "A genuine fork in how the verse's central line should actually be read."},
+        {"q": "What are the two readings Sujato's comment identifies?",
+         "opts": [
+             'Only one reading is actually possible',
+             'Two completely unrelated meanings',
+             'A flat refusal to take the poison back, or a rhetorical question expressing horror at even being asked',
+             'A statement about food and a statement about weather',
+         ],
+         "correct": 2,
+         "expl": 'Under either reading, the underlying commitment remains absolute.'},
+        {"q": 'What does the snake say about death compared to life in this situation?',
+         "opts": [
+             'That neither matters to it',
+             'No comparison is made',
+             'That life is always preferable',
+             'That death is better for it than reclaiming the poison and living',
+         ],
+         "correct": 3,
+         "expl": "The verse's own absolute closing statement."},
+        {"q": "What external text does Sujato's comment cross-reference for the phrase 'jīvitakāraṇā'?",
+         "opts": [
+             "Ps 1.1, outside this site's own selections",
+             'AN 5.230',
+             'No external text is cited',
+             'The Dhammapada',
+         ],
+         "correct": 0,
+         "expl": 'Noted for completeness without a linked page.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'At Sāketa',
+             'Vomited Poison (Visavantajātaka)',
+             'The Spade',
+             'In My Lap',
+         ],
+         "correct": 1,
+         "expl": 'The sixty-ninth poem overall, and the ninth of the Itthivagga.'},
+        {"q": "Does this poem concern the theme of women found in this chapter's opening poems?",
+         "opts": [
+             'The question is not addressed',
+             'Yes, directly',
+             "No — per Sujato's comment on Ja 68, this is one of the chapter's remaining poems on an unrelated theme",
+             'Only indirectly through allegory',
+         ],
+         "correct": 2,
+         "expl": "Continuing the shift away from this chapter's opening subject matter."},
+        {"q": "What broader principle does this poem's snake illustrate?",
+         "opts": [
+             'That poison should always be reclaimed if possible',
+             'No general principle is illustrated',
+             'That commitments should be easily reversed under pressure',
+             'Unwavering commitment to a decision already made, even under threat of death',
+         ],
+         "correct": 3,
+         "expl": 'A vivid, absolute image for holding firm to a relinquished harm.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The ninth poem of the Itthivagga, following Ja 61 through Ja 68',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+         ],
+         "correct": 0,
+         "expl": 'The second-to-last poem of this ten-poem chapter.'},
+        {"q": "Under either of the two possible grammatical readings, does the snake's underlying position change?",
+         "opts": [
+             'Yes, the two readings imply opposite positions',
+             'No — under either reading, its commitment to not reclaiming the poison remains absolute',
+             "The readings are unrelated to the snake's position",
+             'Only one reading involves the snake at all',
+         ],
+         "correct": 1,
+         "expl": 'The ambiguity concerns how the commitment is voiced, not whether it holds.'},
+    ],
+    marginalia=[
+        ("Poison, once given up, refused again", [
+            "even death preferred to taking it back —",
+            "an absolute line, once crossed, not recrossed"
+        ]),
+        ("A question, or a refusal?", [
+            "the grammar itself won't settle it —",
+            "Sujato names both readings honestly"
+        ]),
+        ("Either way, the same resolve", [
+            "flat statement or rhetorical horror —",
+            "the commitment holds regardless"
+        ]),
+        ("A theme already left behind", [
+            "no women in this poem's story at all —",
+            "the chapter's later poems turn elsewhere"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja69/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-68.html">Ja 68 &mdash; At Sāketa</a> &mdash; '
+        "the poem immediately before this one.",
+        '<a href="ja-70.html">Ja 70 &mdash; The Spade</a> &mdash; '
+        "the next poem, closing this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 70 — Kuddāla (The Spade)
+# --------------------------------------------------------------------------- #
+page(
+    70, "Kudd&amacr;la", "The Spade",
+    meta_title="Ja 70 — The Spade | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 70, closing the Itthivagga — a gardener-turned-ascetic "
+        "who can't stop thinking about his favorite spade, and a "
+        "verse on what makes a victory permanent, echoed at this "
+        "site's own Dhammapada. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Seven (Itthivagga) &middot; Poem 10 of 10 (closing the chapter)",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse on what makes a victory last"),
+    ],
+    why=(
+        "This poem closes the Itthivagga on a note wholly unrelated "
+        "to its opening theme &mdash; a small, almost comic attachment "
+        "(a gardener-turned-ascetic who can't stop thinking about his "
+        "favorite spade) used to make a serious point about the "
+        "difference between a victory that holds and one that "
+        "doesn't, echoed nearly word for word at this site's own "
+        "Dhammapada."),
+    guide=[
+        ("An ascetic who can't quite let go of one small thing", [
+            "Per Sujato's comment, a gardener goes forth as an "
+            "ascetic, but cannot stop thinking about his favorite "
+            "spade &mdash; a small, ordinary attachment standing in "
+            "for the larger, harder-to-notice ones renunciation is "
+            "actually meant to address."]),
+        ("What separates a real victory from a temporary one", [
+            "The verse delivers its teaching directly: &lsquo;that "
+            "victory is not a good victory which may be undone. That "
+            "victory is a good victory which may not be undone.&rsquo; "
+            "Applied to the gardener's own small case, giving up "
+            "possessions or habits only outwardly, while still "
+            "quietly attached within, is not yet the kind of victory "
+            "that holds."]),
+        ("A near-identical teaching already on this site, and closing this chapter", [
+            "Sujato's comment compares this verse directly to this "
+            "site's own already-completed Dhp 179, in the Buddhas "
+            "chapter of the Dhammapada &mdash; the same underlying "
+            "concern with permanence versus reversal appearing in two "
+            "different collections. This poem closes the Itthivagga, "
+            "the seventh of eight chapters this site's selection "
+            "draws from within the Ekakanipāta. The source text's own "
+            "untranslated summary verse (uddāna) immediately follows, "
+            "naming all ten poems of this chapter in sequence "
+            "&mdash; not presented here as quoted text, since it "
+            "carries no separate translation, but noted for "
+            "completeness, as at the close of the previous six "
+            "chapters."]),
+    ],
+    terms=[
+        ("na taṁ jitaṁ sādhu jitaṁ",
+         "&ldquo;that victory is not a good victory&rdquo; &mdash; "
+         "the verse's opening half of its central contrast."),
+        ("yaṁ jitaṁ nāvajīyati",
+         "&ldquo;which may not be undone&rdquo; &mdash; the "
+         "defining quality of a genuine, lasting victory."),
+        ("Kuddāla",
+         "&ldquo;spade&rdquo; &mdash; the small object of the "
+         "gardener's lingering attachment, giving this poem its "
+         "traditional title."),
+        ("Kuddālajātaka",
+         "the traditional title of this tale, &lsquo;The "
+         "Spade&rsquo;, closing the Itthivagga."),
+        ("Dhp 179",
+         "the already-completed page on this site, in the Buddhas "
+         "chapter of the Dhammapada, that Sujato's comment compares "
+         "directly to this verse."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, echoed nearly word for "
+        "word at this site's own Dhp 179. The chapter's own "
+        "untranslated closing summary verse (uddāna), which follows "
+        "immediately in the source text, is not quoted here since it "
+        "carries no English translation, but its content &mdash; the "
+        "ten poem titles of this chapter in sequence &mdash; matches "
+        "this reading guide's own further reading list below. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja70:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What can't the gardener-turned-ascetic stop thinking about, per Sujato's comment?",
+         "opts": [
+             'His former house',
+             'His favorite spade',
+             'A former friend',
+             'His previous income',
+         ],
+         "correct": 1,
+         "expl": 'A small, ordinary attachment standing in for larger, harder-to-notice ones.'},
+        {"q": 'What distinction does the verse draw between two kinds of victory?',
+         "opts": [
+             'No distinction is drawn',
+             'Victories won by force versus by negotiation',
+             'A victory that may be undone versus one that may not be undone',
+             'Public versus private victories',
+         ],
+         "correct": 2,
+         "expl": 'Only the second kind counts, per the verse, as a genuinely good victory.'},
+        {"q": "What already-completed page on this site does Sujato's comment compare this verse to?",
+         "opts": [
+             'Snp 3.12',
+             'No comparison is made',
+             'AN 5.230',
+             'Dhp 179, in the Buddhas chapter of the Dhammapada',
+         ],
+         "correct": 3,
+         "expl": 'The same underlying concern with permanence versus reversal, appearing in two different collections.'},
+        {"q": "How does the gardener's attachment to his spade relate to the verse's teaching about victory?",
+         "opts": [
+             'Outwardly giving up possessions while remaining quietly attached within is not yet the kind of victory that holds',
+             'The spade represents a literal battle he must win',
+             'The connection is left entirely unexplained',
+             'It has no relationship at all',
+         ],
+         "correct": 0,
+         "expl": 'A small, almost comic case illustrating a serious point about incomplete renunciation.'},
+        {"q": 'What chapter does this poem close?',
+         "opts": [
+             'The Āsīsavagga',
+             "The Itthivagga, the seventh of eight chapters this site's selection draws from",
+             'The final chapter of the whole Jātaka',
+             'It does not close a chapter',
+         ],
+         "correct": 1,
+         "expl": "The source text's own untranslated summary verse (uddāna) follows immediately after."},
+        {"q": "Is the chapter's closing summary verse (uddāna) presented as quoted text in this reading guide?",
+         "opts": [
+             'It is presented as spoken by the gardener',
+             'Yes, quoted in full',
+             'No — it carries no separate English translation, so it is only noted for completeness',
+             'It does not exist for this chapter',
+         ],
+         "correct": 2,
+         "expl": 'Consistent with the same practice at the close of the previous six chapters.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'At Sāketa',
+             'In My Lap',
+             'Vomited Poison',
+             'The Spade (Kuddālajātaka)',
+         ],
+         "correct": 3,
+         "expl": 'The seventieth poem overall, and the tenth and final poem of the Itthivagga.'},
+        {"q": "What was the gardener's profession before becoming an ascetic?",
+         "opts": [
+             'A gardener',
+             'A soldier',
+             'A scribe',
+             'A merchant',
+         ],
+         "correct": 0,
+         "expl": 'Explaining his particular, occupation-specific attachment to a spade.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The first poem of the Itthivagga',
+             'The tenth and final poem of the Itthivagga, closing this chapter',
+             'It stands outside any chapter',
+             'The first poem of a later chapter',
+         ],
+         "correct": 1,
+         "expl": "Its closing position is directly confirmed by the chapter's own summary verse following immediately after."},
+        {"q": "How does this poem's subject matter relate to this chapter's opening poems on women?",
+         "opts": [
+             'It explicitly criticizes the earlier poems',
+             'It directly continues that same theme',
+             'It is entirely unrelated, part of the shift away from that theme beginning at Ja 68',
+             'It retells the same story from a different angle',
+         ],
+         "correct": 2,
+         "expl": 'Closing the Itthivagga on a note wholly unrelated to its difficult opening content.'},
+    ],
+    marginalia=[
+        ("A spade that won't stay let go of", [
+            "renunciation, outwardly complete —",
+            "but the mind keeps circling back to one small tool"
+        ]),
+        ("Two kinds of victory, only one that lasts", [
+            "undone, or truly won — the verse draws the line —",
+            "outward giving-up isn't always the real thing"
+        ]),
+        ("The same teaching, echoed elsewhere on this site", [
+            "Dhp 179 makes nearly the same point —",
+            "permanence, not appearance, is what counts"
+        ]),
+        ("Ten poems, one chapter closed", [
+            "the Itthivagga's own summary follows —",
+            "not quoted, since it has no translation"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja70/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../dhammapada/dhp-14.html">Dhammapada Chapter 14 '
+        "&mdash; The Buddhas</a> &mdash; containing Dhp 179, "
+        "compared directly to this verse in Sujato's own comment.",
+        '<a href="ja-69.html">Ja 69 &mdash; Vomited Poison</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="./">Jataka</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
