@@ -44,7 +44,7 @@ INDEX_HEADING = "IV. Saḷāyatanavagga — The Book of the Six Sense Fields"
 # to SN 36.6, the next already-published page beyond this module's own
 # current coverage.
 HEAD = ("sn-34.55.html", "SN 34.55 &middot; Persistence and What&rsquo;s Conducive")
-TAIL = ("sn-36.6.html", "SN 36.6 &middot; An Arrow")
+TAIL = ("sn-41.1.html", "SN 41.1 &middot; The Fetter")
 INDEX_EXTRA = [
     ("sn-35.28", "Āditta", "Burning"),
     ("sn-36.6", "Sallatha", "An Arrow"),
@@ -87,6 +87,38 @@ INDEX_EXTRA = [
 # peyyāla ranges, unified-prefix vs per-sutta-prefix encoding) must
 # still be confirmed independently before writing it -- do not assume
 # any later vagga repeats an earlier one's own shape.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 36 (Vedanāsaṃyutta, "Linked Discourses on Feeling") is this book's
+# second saṃyutta, confirmed against BOTH bilara-data's own root-Pali
+# vagga labels AND SuttaCentral's own menu API this time -- unlike SN
+# 35, the two sources agree exactly, so no cross-check discrepancy to
+# flag here: 31 discourses across 3 vaggas, all individual files, no
+# peyyāla merges anywhere in the whole saṃyutta:
+#
+#   1. Sagāthāvagga              SN 36.1-10  (10) -- contains the
+#                                              pre-existing SN 36.6
+#   2. Rahogatavagga              SN 36.11-20 (10)
+#   3. Aṭṭhasatapariyāyavagga    SN 36.21-31 (11)
+#
+# Total: 10+10+11=31, confirmed against bilara-data's own maximum sutta
+# number (sn36.31). SN 36.6 (Sallasutta, "An Arrow"), one of the four
+# pre-existing pages registered in INDEX_EXTRA above, falls squarely
+# mid-vagga at position 6 of 10 in Sagāthāvagga -- this book's second
+# "fragile junction" after SN 35.28: once Sagāthāvagga is generated,
+# sn_build.py's auto-chain will skip straight over SN 36.6's own
+# pre-existing page, and its neighbours' (SN 36.5, SN 36.7) prev/next
+# must be hand-patched after every single build of this module from
+# that point on, exactly as SN 35.27/28/29 already requires. Sagāthāvagga
+# itself reuses the same vagga name as SN 1's own opening vagga
+# (Naḷavagga aside, most of this project's "Sagāthāvagga"-named vaggas
+# turn out to be verse collections) -- confirmed here too: SN 36.1-6
+# are short verse-and-refrain pieces on the three feelings, SN 36.7-8
+# are a matched narrative pair (the Buddha teaching in the infirmary,
+# feelings traced to the body vs to contact), and SN 36.9-10 close the
+# vagga with two brief prose statements. Do not assume Rahogatavagga or
+# Aṭṭhasatapariyāyavagga repeat this shape.
 # --------------------------------------------------------------------------- #
 
 PAGES = []
@@ -31974,5 +32006,1465 @@ page(
         "&mdash; already published on this site, standing ahead of "
         "this project's next saṃyutta, SN 36 (Vedanāsaṃyutta), not "
         "yet built.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.1 — Samādhisutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 1, "Samādhi", "Immersion",
+    vagga="Sagāthāvagga",
+    meta_title="SN 36.1 &mdash; Immersion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samādhisutta &mdash; opening Vedanāsaṃyutta and Book "
+        "IV's second saṃyutta with the three feelings and a four-"
+        "line verse tracing them to their ending. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A prose definition of the three feelings followed "
+                 "by a single three-line verse"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a short, foundational statement"),
+    ],
+    why=(
+        "This discourse opens Vedanāsaṃyutta (\"Linked Discourses on "
+        "Feeling\"), the second saṃyutta of Book IV (Saḷāyatanavagga), "
+        "with the threefold classification that will run through "
+        "every discourse in the 31 that follow: pleasant, painful, "
+        "and neutral feeling. Its own closing verse compresses an "
+        "entire path into three lines &mdash; a stilled, aware "
+        "disciple understands feelings and their origin, where they "
+        "cease, and the path leading to that ending, becoming, at the "
+        "end of feelings, &ldquo;hungerless, quenched.&rdquo; This "
+        "discourse's own title, &ldquo;Immersion,&rdquo; reflects the "
+        "verse's own opening word, samāhito, &ldquo;stilled&rdquo; or "
+        "&ldquo;composed&rdquo; &mdash; the same root as samādhi "
+        "&mdash; though the word itself never appears in the prose "
+        "definition that precedes it."
+    ),
+    guide=[
+        ("Three feelings, stated as this saṃyutta's own foundation",
+         [
+            "Pleasant, painful, and neutral (adukkhamasukhā, literally "
+            "&ldquo;neither painful nor pleasant&rdquo;) feeling are "
+            "named here exactly as they will be in nearly every "
+            "discourse of this saṃyutta &mdash; a threefold "
+            "classification distinct from the five aggregates' own "
+            "single feeling-aggregate (vedanākkhandha) already "
+            "covered in Book III, now given a saṃyutta of its own.",
+        ]),
+        ("A four-part chain compressed into three lines", [
+            "The verse names four things a stilled, aware disciple "
+            "understands in sequence: feelings themselves, their "
+            "origin (sambhava), where they cease, and the path "
+            "leading to that ending &mdash; the same "
+            "arising/ceasing/path structure this project has met "
+            "applied to the five aggregates and the six sense fields, "
+            "now applied to feeling.",
+        ]),
+        ("Hungerless, quenched: an ending stated, not described", [
+            "The verse's own closing pair, nicchāto parinibbuto "
+            "(&ldquo;hungerless, quenched&rdquo;), states the "
+            "outcome directly rather than describing a process "
+            "&mdash; the same terse, declarative ending style this "
+            "project has already met at the close of many opening "
+            "discourses in this book.",
+        ]),
+        ("A title drawn from one word in the verse, not the prose",
+         [
+            "Unlike most opening discourses in this project's "
+            "coverage, whose titles typically name their own subject "
+            "matter directly, this discourse's title, "
+            "&ldquo;Immersion,&rdquo; is drawn from a single word in "
+            "the verse (samāhito) rather than from the three-feelings "
+            "definition that makes up most of the discourse's actual "
+            "content.",
+        ]),
+    ],
+    terms=[
+        ("tisso vedanā", "the three feelings &mdash; pleasant "
+             "(sukhā), painful (dukkhā), and neutral (adukkhamasukhā) "
+             "&mdash; this saṃyutta's own foundational classification"),
+        ("samāhito sampajāno", "&ldquo;stilled, aware&rdquo; &mdash; "
+             "the verse's own opening description of the disciple, "
+             "giving this discourse its title"),
+        ("vedanānañca sambhavaṁ", "&ldquo;the cause of "
+             "feelings&rdquo; &mdash; the second link in the "
+             "verse's own four-part chain"),
+        ("maggañca khayagāminaṁ", "&ldquo;the path that leads to "
+             "their ending&rdquo; &mdash; the verse's own fourth link, "
+             "completing the arising/ceasing/path structure"),
+        ("nicchāto parinibbuto", "&ldquo;hungerless, quenched&rdquo; "
+             "&mdash; the verse's own closing description of a "
+             "mendicant at the ending of feelings"),
+    ],
+    text_intro=("The complete discourse: the definition of the three "
+        "feelings and the closing verse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.1:1.1-1.4"),
+        ("p", "&sect;2", "sn36.1:2.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What three feelings does this discourse name, opening Vedanāsaṃyutta?",
+         "opts": ["Pleasant, painful, and neutral feeling", "Physical, mental, and spiritual feeling", "Wholesome, unwholesome, and neutral feeling", "Past, present, and future feeling"],
+         "correct": 0,
+         "expl": "Sukhā, dukkhā, and adukkhamasukhā vedanā — the classification this whole saṃyutta is built on."},
+        {"q": "What four things does the closing verse say a stilled, aware disciple understands?",
+         "opts": ["Feelings, their cause, where they cease, and the path to their ending", "The four noble truths as a separate list", "The four elements underlying all feeling", "The four postures of walking, standing, sitting, and lying down"],
+         "correct": 0,
+         "expl": "An arising/ceasing/path structure applied to feeling, the same pattern met elsewhere applied to the aggregates and sense fields."},
+        {"q": "What does the verse say happens at the ending of feelings?",
+         "opts": ["A mendicant becomes \"hungerless, quenched\"", "A mendicant is reborn in a higher heaven", "Feelings simply resume in a subtler form", "The verse does not describe an ending"],
+         "correct": 0,
+         "expl": "\"With the ending of feelings, a mendicant is hungerless, quenched\" — nicchāto parinibbuto."},
+        {"q": "Where does this discourse's own title, \"Immersion,\" come from?",
+         "opts": ["A single word (samāhito, \"stilled\") in the closing verse, not the prose definition", "The Pali word for the three feelings themselves", "A meditation technique described step by step in the prose", "The name of the location where the discourse was given"],
+         "correct": 0,
+         "expl": "Samāhito shares its root with samādhi, though the word for immersion itself never appears in the prose definition."},
+        {"q": "How does \"neutral feeling\" (adukkhamasukhā) translate literally?",
+         "opts": ["\"Neither painful nor pleasant\"", "\"Beyond all feeling\"", "\"The feeling of complete peace\"", "\"Painful and pleasant combined\""],
+         "correct": 0,
+         "expl": "A literal, negative construction — neither of the other two, rather than a positive third category."},
+    ],
+    marginalia=[
+        ("Three feelings, one foundation", [
+            "pleasant, painful, neither —",
+            "the classification for 31 discourses",
+        ]),
+        ("Four links in three lines", [
+            "feeling, cause, ending, path —",
+            "the same chain met elsewhere, compressed",
+        ]),
+        ("An ending stated outright", [
+            "hungerless, quenched —",
+            "no description, just the outcome",
+        ]),
+        ("A title borrowed from one word", [
+            "\"stilled,\" in the verse alone —",
+            "not the prose that precedes it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.248.html">SN 35.248 &middot; The Sheaf of '
+        "Barley</a> &mdash; already published on this site, closing "
+        "the previous saṃyutta, Saḷāyatanasaṃyutta.",
+        '<a href="sn-36.2.html">SN 36.2 &middot; Pleasure</a> '
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.2 — Sukhasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 2, "Sukha", "Pleasure",
+    vagga="Sagāthāvagga",
+    meta_title="SN 36.2 &mdash; Pleasure | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sukhasutta &mdash; all three feelings, internal and "
+        "external alike, seen as suffering, deceptive, and breaking "
+        "apart, dissolving desire each time they're experienced. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A prose definition of the three feelings followed "
+                 "by a single three-line verse"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a compact verse repaying close reading"),
+    ],
+    why=(
+        "This discourse repeats SN 36.1's own opening definition of "
+        "the three feelings before turning to a verse that treats all "
+        "three &mdash; pleasure, pain, and neutral feeling alike, "
+        "whether felt internally or externally &mdash; as a single "
+        "unified object of insight: known as suffering, deceptive, "
+        "and breaking apart. Rather than treating pleasant feeling as "
+        "something to seek and painful feeling as something to avoid, "
+        "the verse collapses the distinction, applying the identical "
+        "diagnosis to all three and to their arising \"again and "
+        "again,\" concluding this is how one becomes free of desire "
+        "for them."
+    ),
+    guide=[
+        ("All three feelings named together, not treated separately",
+         [
+            "Where many discourses in this saṃyutta will treat "
+            "pleasant, painful, and neutral feeling with separate "
+            "prescriptions, this verse names all three together in a "
+            "single breath (\"pleasure or pain as well as what's "
+            "neutral\") before applying one shared diagnosis to all "
+            "of them at once.",
+        ]),
+        ("Internal and external, without distinction", [
+            "The verse specifies feeling \"internally and "
+            "externally\" (ajjhattañca bahiddhā ca) &mdash; whatever "
+            "is felt, regardless of source, falls under the same "
+            "diagnosis, a scope broader than discourses that treat "
+            "only feeling arisen through the body's own six sense "
+            "doors.",
+        ]),
+        ("Three words for one diagnosis", [
+            "Suffering (dukkha), deceptive (mosadhamma), and breaking "
+            "apart (palokina) are given together as a single "
+            "compound description, not three separate faults to "
+            "weigh &mdash; the verse's own economy suggests these are "
+            "three ways of naming one underlying instability rather "
+            "than three distinct problems.",
+        ]),
+        ("Freedom through repeated seeing, not a single insight", [
+            "The verse's own phrase &ldquo;as they're experienced "
+            "again and again&rdquo; (phussa phussa vayaṁ passaṁ, "
+            "literally &ldquo;touching and touching, seeing their "
+            "passing away&rdquo;) frames freedom from desire as the "
+            "product of a repeated observation across many "
+            "occurrences of feeling, not one decisive realization.",
+        ]),
+    ],
+    terms=[
+        ("ajjhattañca bahiddhā ca", "&ldquo;internally and "
+             "externally&rdquo; &mdash; the verse's own scope, "
+             "covering feeling regardless of its source"),
+        ("mosadhammaṁ palokinaṁ", "&ldquo;deceptive, breaking "
+             "apart&rdquo; &mdash; two of the three qualities the "
+             "verse assigns jointly to all three feelings"),
+        ("phussa phussa vayaṁ passaṁ", "&ldquo;as they're "
+             "experienced again and again&rdquo; &mdash; literally "
+             "&ldquo;touching and touching, seeing their passing "
+             "away,&rdquo; the verse's own description of repeated "
+             "observation"),
+        ("virajjati", "&ldquo;to be free of desire&rdquo; &mdash; "
+             "the outcome the verse names for one who sees feeling "
+             "this way"),
+        ("yaṁ kiñci atthi veditaṁ", "&ldquo;whatever is felt&rdquo; "
+             "&mdash; the verse's own maximally inclusive scope, "
+             "naming no feeling as exempt from the diagnosis"),
+    ],
+    text_intro=("The complete discourse: the definition of the three "
+        "feelings and the closing verse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.2:1.1-1.4"),
+        ("p", "&sect;2", "sn36.2:2.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's verse treat the three feelings, compared to prescribing separate responses to each?",
+         "opts": ["It names all three together and applies one shared diagnosis to them at once", "It recommends seeking pleasant feeling while avoiding the other two", "It treats only painful feeling as worth examining", "It denies that neutral feeling exists at all"],
+         "correct": 0,
+         "expl": "Pleasure, pain, and neutral feeling are named together before the shared diagnosis of suffering, deception, and breaking apart is applied."},
+        {"q": "What scope does the verse specify for the feelings it discusses?",
+         "opts": ["Feeling both internally and externally, without distinction", "Only feeling arisen through the eye and ear", "Only feeling experienced during meditation", "Only pleasant feeling, since it alone leads to desire"],
+         "correct": 0,
+         "expl": "Ajjhattañca bahiddhā ca — \"internally and externally,\" a scope broader than feeling from the six sense doors alone."},
+        {"q": "What three qualities does the verse jointly assign to all three feelings?",
+         "opts": ["Suffering, deceptive, and breaking apart", "Permanent, stable, and reliable", "Pleasant, memorable, and rare", "Physical, mental, and spiritual"],
+         "correct": 0,
+         "expl": "Dukkha, mosadhamma, and palokina — given together as one compound diagnosis, not three separate faults."},
+        {"q": "What does the phrase \"as they're experienced again and again\" suggest about how freedom from desire arises?",
+         "opts": ["Through repeated observation across many occurrences of feeling, not one single insight", "Through avoiding feeling altogether", "Through a single decisive moment of realization", "The phrase describes the increasing intensity of feeling over time"],
+         "correct": 0,
+         "expl": "Phussa phussa vayaṁ passaṁ — \"touching and touching, seeing their passing away\" — repetition, not a one-time event."},
+        {"q": "What outcome does the verse name for someone who sees feeling this way?",
+         "opts": ["Being free of desire for feeling (virajjati)", "Rebirth in a realm without feeling", "The complete cessation of all sensory contact", "Immunity from ever experiencing painful feeling again"],
+         "correct": 0,
+         "expl": "\"That's how to be free of desire for them\" — the verse's own closing line."},
+    ],
+    marginalia=[
+        ("One diagnosis, all three feelings", [
+            "pleasure, pain, neutral, together —",
+            "not three separate prescriptions",
+        ]),
+        ("No source exempted", [
+            "internal and external alike —",
+            "whatever is felt, at all",
+        ]),
+        ("Three words, one instability", [
+            "suffering, deceptive, breaking apart —",
+            "named as a single compound",
+        ]),
+        ("Freedom through repetition", [
+            "touching and touching, seeing it pass —",
+            "not one insight but many",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.1.html">SN 36.1 &middot; Immersion</a> '
+        "&mdash; the previous discourse, opening this saṃyutta.",
+        '<a href="sn-36.3.html">SN 36.3 &middot; Giving Up</a> '
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.3 — Pahānasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 3, "Pahāna", "Giving Up",
+    vagga="Sagāthāvagga",
+    meta_title="SN 36.3 &mdash; Giving Up | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pahānasutta &mdash; three underlying tendencies matched "
+        "one each to the three feelings, and what it means for a "
+        "mendicant to give up all three. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A threefold prose prescription followed by a "
+                 "five-verse elaboration"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a clean three-way mapping, worth holding in "
+                       "mind together"),
+    ],
+    why=(
+        "This discourse matches each of the three feelings to a "
+        "specific underlying tendency (anusaya) that must be given "
+        "up: the tendency to greed for pleasant feeling, the tendency "
+        "to aversion for painful feeling, and the tendency to "
+        "ignorance for neutral feeling. A mendicant who has given up "
+        "all three is described in a formula this project has "
+        "already met applied to other objects &mdash; seeing rightly, "
+        "cutting off craving, casting off the fetters, and making an "
+        "end of suffering. The five-verse elaboration that follows "
+        "reverses the frame, describing the danger of not "
+        "understanding feeling rather than the achievement of "
+        "understanding it, before closing on the same firm, "
+        "unreckonable knowledge master this project has already met "
+        "in other closing verses."
+    ),
+    guide=[
+        ("Three feelings, three distinct tendencies", [
+            "Greed (rāga) underlies pleasant feeling, aversion "
+            "(paṭigha) underlies painful feeling, and ignorance "
+            "(avijjā) underlies neutral feeling &mdash; a precise, "
+            "non-interchangeable mapping rather than a single "
+            "tendency applied loosely across all three.",
+        ]),
+        ("A mendicant defined by absence, not by achievement", [
+            "The formula naming someone who has given up all three "
+            "tendencies &mdash; &ldquo;without underlying "
+            "tendencies&rdquo; (niranusaya), who &ldquo;sees "
+            "rightly&rdquo; (sammaddasa) &mdash; describes a state "
+            "purely in terms of what has been removed, not any new "
+            "faculty gained.",
+        ]),
+        ("The verses reverse the frame: danger, not achievement", [
+            "Where the prose describes what should be given up, the "
+            "verses describe what happens when it isn't: a person who "
+            "doesn't understand feeling develops the underlying "
+            "tendency, and even someone who correctly identifies "
+            "neutral feeling as peaceful still isn't released from "
+            "suffering if they take pleasure (abhinandati) in it "
+            "&mdash; correct identification alone is shown to be "
+            "insufficient without also giving up delight.",
+        ]),
+        ("A closing formula this project has already met elsewhere",
+         [
+            "The verses' own closing lines &mdash; complete "
+            "understanding, freedom from defilements in this life, a "
+            "&ldquo;knowledge master&rdquo; (vedagū) who "
+            "&ldquo;can't be reckoned&rdquo; (na saṅkhyaṁ upeti) when "
+            "the body breaks up &mdash; recur nearly word for word in "
+            "SN 36.5, this saṃyutta's own fifth discourse, "
+            "suggesting these two discourses share a common closing "
+            "template this saṃyutta will return to more than once.",
+        ]),
+    ],
+    terms=[
+        ("rāgānusayo / paṭighānusayo / avijjānusayo", "the "
+             "underlying tendencies to greed, aversion, and ignorance "
+             "&mdash; matched respectively to pleasant, painful, and "
+             "neutral feeling"),
+        ("niranusayo sammaddaso", "&ldquo;without underlying "
+             "tendencies&rdquo; and &ldquo;who sees rightly&rdquo; "
+             "&mdash; the discourse's own description of a mendicant "
+             "who has given up all three tendencies"),
+        ("anissaraṇadassino", "&ldquo;not seeing the escape&rdquo; "
+             "&mdash; the condition the verses name for someone whose "
+             "underlying tendency remains active"),
+        ("abhinandati", "&ldquo;takes pleasure in&rdquo; &mdash; the "
+             "verse's own precise failure point: correctly seeing "
+             "neutral feeling as peaceful is not enough if one still "
+             "delights in it"),
+        ("vedagū", "&ldquo;knowledge master&rdquo; &mdash; the "
+             "verse's own closing epithet for one who has completely "
+             "understood feeling, &ldquo;unreckonable&rdquo; at the "
+             "body's breaking up"),
+    ],
+    text_intro=("The complete discourse: the threefold prescription "
+        "and the five-verse elaboration. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.3:1.1-1.5"),
+        ("p", "&sect;2", "sn36.3:2.1-2.4"),
+        ("p", "&sect;3", "sn36.3:3.1-3.4"),
+        ("p", "&sect;4", "sn36.3:4.1-4.4"),
+        ("p", "&sect;5", "sn36.3:5.1-5.4"),
+        ("p", "&sect;6", "sn36.3:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "Which underlying tendency does this discourse match to each of the three feelings?",
+         "opts": ["Greed to pleasant, aversion to painful, ignorance to neutral", "Greed to all three feelings equally", "Aversion to pleasant, greed to painful, ignorance to neutral", "The discourse does not specify a mapping"],
+         "correct": 0,
+         "expl": "A precise, non-interchangeable pairing: rāga/pleasant, paṭigha/painful, avijjā/neutral."},
+        {"q": "How is a mendicant who has given up all three tendencies described?",
+         "opts": ["Purely in terms of absence — \"without underlying tendencies,\" who \"sees rightly\"", "As having gained a new supernatural faculty", "As no longer able to feel any of the three feelings", "As having achieved a specific meditative absorption"],
+         "correct": 0,
+         "expl": "Niranusayo sammaddaso — defined by what has been removed, not by any new faculty gained."},
+        {"q": "What does the discourse say about someone who correctly identifies neutral feeling as peaceful but still takes pleasure in it?",
+         "opts": ["They are still not released from suffering", "They have already achieved complete liberation", "Correct identification alone is sufficient for release", "This scenario is not addressed in the discourse"],
+         "correct": 0,
+         "expl": "\"If you relish it, you're still not released from suffering\" — correct identification without giving up delight is insufficient."},
+        {"q": "What happens to someone who doesn't understand feeling, according to the verses?",
+         "opts": ["The underlying tendency for that feeling remains active in them", "They automatically develop wisdom over time regardless", "They become incapable of experiencing that feeling again", "Nothing in particular — the verses focus only on positive outcomes"],
+         "correct": 0,
+         "expl": "\"When you feel pleasure without understanding feeling, the underlying tendency to greed is there.\""},
+        {"q": "What closing epithet does the final verse use for someone who has completely understood feeling?",
+         "opts": ["\"Knowledge master\" (vedagū), unreckonable when the body breaks up", "\"World conqueror\"", "\"Free of the five aggregates\"", "The verse gives no epithet"],
+         "correct": 0,
+         "expl": "A formula this discourse shares closely with SN 36.5's own closing verse."},
+    ],
+    marginalia=[
+        ("Three feelings, three exact tendencies", [
+            "greed, aversion, ignorance —",
+            "no single tendency for all three",
+        ]),
+        ("Defined by what's removed", [
+            "\"without underlying tendencies\" —",
+            "not a faculty gained, but shed",
+        ]),
+        ("Identifying isn't enough", [
+            "seeing neutral feeling as peaceful —",
+            "still not released, if delight remains",
+        ]),
+        ("A closing template, shared ahead", [
+            "\"knowledge master,\" unreckonable —",
+            "recurring almost word for word at SN 36.5",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.2.html">SN 36.2 &middot; Pleasure</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-36.4.html">SN 36.4 &middot; The Abyss</a> '
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.4 — Pātālasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 4, "Pātāla", "The Abyss",
+    vagga="Sagāthāvagga",
+    meta_title="SN 36.4 &mdash; The Abyss | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pātālasutta &mdash; the ocean's mythical abyss declared "
+        "nonexistent, and reinterpreted outright as a term for "
+        "painful physical feeling. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A flat denial of a popular belief, a direct "
+                 "reinterpretation, and a three-verse elaboration"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a striking reinterpretation, plainly "
+                       "explained"),
+    ],
+    why=(
+        "This discourse opens by flatly denying a claim &ldquo;an "
+        "unlearned ordinary person&rdquo; makes about the physical "
+        "world: that there is an abyss (pātāla) beneath the great "
+        "ocean. The Buddha calls this &ldquo;something that doesn't "
+        "exist,&rdquo; then immediately redirects the word itself: "
+        "&ldquo;abyss&rdquo; is properly a term for painful physical "
+        "feelings. An unlearned person who sorrows, wails, and falls "
+        "into confusion when touched by pain has &ldquo;not stood up "
+        "in the abyss and found no footing,&rdquo; while a learned "
+        "disciple who remains composed has &ldquo;stood up in the "
+        "abyss and found a footing&rdquo; &mdash; the mythical hazard "
+        "relocated entirely from geography to the body's own "
+        "experience of pain."
+    ),
+    guide=[
+        ("A popular belief named and dismissed outright", [
+            "The discourse opens unusually directly for this "
+            "saṃyutta: rather than starting from the three feelings, "
+            "it starts from a specific claim about the natural world "
+            "&mdash; a bottomless abyss under the ocean &mdash; and "
+            "states plainly that whoever says this &ldquo;speaks of "
+            "something that doesn't exist,&rdquo; asantaṁ "
+            "avijjamānaṁ, before repurposing the word for something "
+            "the Buddha says does exist: painful physical feeling.",
+        ]),
+        ("Standing up and finding footing as the real measure", [
+            "The distinguishing mark between an unlearned and a "
+            "learned person isn't whether painful feeling arises "
+            "&mdash; both experience it &mdash; but whether they "
+            "&ldquo;stand up&rdquo; (paccuṭṭhāsi) and &ldquo;find a "
+            "footing&rdquo; (gādhaṁ ajjhagā) in it, images drawn "
+            "directly from someone caught in an actual abyss rather "
+            "than abstract composure.",
+        ]),
+        ("Trembling and enduring, both physically described", [
+            "The verses render both failure and success in bodily "
+            "terms &mdash; weeping and wailing versus trembling or "
+            "not trembling at the feeling's touch (phuṭṭho pavedhati "
+            "/ na vedhati) &mdash; keeping the abyss metaphor's "
+            "physical, almost visceral register consistent from the "
+            "prose through the verse.",
+        ]),
+        ("A shared closing structure this vagga will use again", [
+            "The verses' own contrastive pairing &mdash; one who "
+            "can't abide painful feeling versus one who can endure it "
+            "&mdash; repeats nearly word for word with only the "
+            "closing clause changed, a compact two-verse mirror "
+            "structure this project has already met in other closing "
+            "verse-pairs across this book.",
+        ]),
+    ],
+    terms=[
+        ("mahāsamudde pātālo", "&ldquo;an abyss under the great "
+             "ocean&rdquo; &mdash; the popular belief the discourse "
+             "opens by denying outright, asantaṁ avijjamānaṁ, "
+             "&ldquo;something that doesn't exist&rdquo;"),
+        ("sārīrikānaṁ dukkhānaṁ vedanānaṁ adhivacanaṁ", "&ldquo;a "
+             "term for painful physical feelings&rdquo; &mdash; the "
+             "discourse's own direct reassignment of the word "
+             "&ldquo;abyss&rdquo;"),
+        ("pātāle paccuṭṭhāsi, gādhañca ajjhagā", "&ldquo;stood up in "
+             "the abyss and found a footing&rdquo; &mdash; the "
+             "discourse's own description of a learned noble "
+             "disciple's composure under painful feeling"),
+        ("na sammohaṁ āpajjati", "&ldquo;doesn't fall into "
+             "confusion&rdquo; &mdash; part of the fourfold contrast "
+             "(sorrow/wail/beat the breast/fall into confusion) "
+             "between the unlearned and the learned"),
+        ("phuṭṭho pavedhati", "&ldquo;trembles at their touch&rdquo; "
+             "&mdash; the verses' own bodily description of failing "
+             "to endure painful feeling, contrasted with na vedhati, "
+             "&ldquo;doesn't tremble&rdquo;"),
+    ],
+    text_intro=("The complete discourse: the denial and "
+        "reinterpretation of the abyss, and the three-verse "
+        "elaboration. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.4:1.1-1.9"),
+        ("p", "&sect;2", "sn36.4:2.1-2.4"),
+        ("p", "&sect;3", "sn36.4:3.1-3.4"),
+        ("p", "&sect;4", "sn36.4:4.1-4.6"),
+    ],
+    quiz=[
+        {"q": "What claim does the discourse open by flatly denying?",
+         "opts": ["That there is a mythical abyss beneath the great ocean", "That painful feeling ever ends", "That the Buddha himself experiences physical pain", "That the three feelings are impermanent"],
+         "correct": 0,
+         "expl": "\"Speaking of something that doesn't exist\" — the geographical claim is denied outright before the word is reassigned."},
+        {"q": "What does the discourse say \"abyss\" is properly a term for?",
+         "opts": ["Painful physical feelings", "The five aggregates as a whole", "A specific meditative hindrance", "Ignorance about the four noble truths"],
+         "correct": 0,
+         "expl": "Sārīrikānaṁ dukkhānaṁ vedanānaṁ adhivacanaṁ — the word relocated from geography to bodily experience."},
+        {"q": "What distinguishes a learned noble disciple from an unlearned ordinary person when painful feeling arises, according to this discourse?",
+         "opts": ["Whether they \"stand up\" and \"find a footing\" in it, not whether they feel it at all", "Only the learned disciple ever feels pain", "The learned disciple feels less physical pain due to training", "There is no distinction described in this discourse"],
+         "correct": 0,
+         "expl": "Both experience the painful feeling; the difference is composure — standing up and finding footing versus falling into confusion."},
+        {"q": "How do the verses describe someone who fails to endure painful feeling?",
+         "opts": ["Weeping, wailing, and trembling at the feeling's touch", "Calmly analyzing the feeling's causes", "Immediately falling asleep to avoid it", "Seeking out a teacher for guidance"],
+         "correct": 0,
+         "expl": "Phuṭṭho pavedhati — \"trembles at their touch,\" a bodily, visceral description matching the abyss metaphor's register."},
+        {"q": "How do the two verses relate to each other structurally?",
+         "opts": ["They repeat nearly word for word, with only the outcome clause reversed", "They present two entirely unrelated similes", "The second verse contradicts the first", "Only one verse survives in bilara-data; the other is a later addition"],
+         "correct": 0,
+         "expl": "A compact mirror-pair structure — not abiding versus abiding, with the wording otherwise identical."},
+    ],
+    marginalia=[
+        ("A myth denied, then repurposed", [
+            "no abyss under the ocean —",
+            "the word reassigned to painful feeling",
+        ]),
+        ("Composure, not immunity", [
+            "both feel the pain alike —",
+            "only one stands up and finds footing",
+        ]),
+        ("The body itself as the register", [
+            "trembling versus not trembling —",
+            "the metaphor kept physical throughout",
+        ]),
+        ("A mirror pair of verses", [
+            "nearly word for word, reversed —",
+            "a structure this book will use again",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.3.html">SN 36.3 &middot; Giving Up</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-36.5.html">SN 36.5 &middot; Should Be Seen</a> '
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.5 — Daṭṭhabbasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 5, "Daṭṭhabba", "Should Be Seen",
+    vagga="Sagāthāvagga",
+    meta_title="SN 36.5 &mdash; Should Be Seen | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Daṭṭhabbasutta &mdash; pleasant feeling seen as "
+        "suffering, painful feeling as a dart, and neutral feeling "
+        "as impermanent, immediately preceding this book's own "
+        "famous two-arrows discourse. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A threefold prescription for how each feeling "
+                 "should be seen, followed by a two-verse "
+                 "elaboration"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "three sharp reframings, easy to state, worth "
+                       "sitting with"),
+    ],
+    why=(
+        "This discourse gives each of the three feelings a single, "
+        "specific way it &ldquo;should be seen&rdquo; (daṭṭhabba): "
+        "pleasant feeling as suffering, painful feeling as a dart "
+        "(salla), and neutral feeling as impermanent. This is the "
+        "immediate predecessor to SN 36.6, this book's own famous "
+        "&ldquo;two arrows&rdquo; discourse already published on this "
+        "site &mdash; and the shared image of a salla, a dart or "
+        "arrow, for painful feeling here anticipates the more "
+        "elaborate arrow simile that discourse develops at length. A "
+        "mendicant who sees all three feelings this way is described "
+        "in language nearly identical to SN 36.3's own closing "
+        "formula: seeing rightly, cutting off craving, casting off "
+        "the fetters, and making an end of suffering."
+    ),
+    guide=[
+        ("Three feelings, three sharp specific reframings", [
+            "Rather than a shared diagnosis applied to all three "
+            "feelings equally (as in SN 36.2) or a matched tendency "
+            "to be given up (as in SN 36.3), this discourse assigns "
+            "each feeling its own distinct lens: pleasant feeling as "
+            "suffering, painful feeling as a dart, neutral feeling as "
+            "impermanent &mdash; three different reasons for the same "
+            "underlying non-attachment.",
+        ]),
+        ("A dart for painful feeling, anticipating the next discourse",
+         [
+            "The word salla (dart, or arrow) applied here to painful "
+            "feeling directly anticipates SN 36.6's own extended "
+            "&ldquo;struck by an arrow&rdquo; simile for the same "
+            "feeling &mdash; this discourse supplies the single word, "
+            "the next discourse builds an entire narrative image "
+            "around it.",
+        ]),
+        ("Pleasant feeling reframed as suffering, not merely limited",
+         [
+            "Calling pleasant feeling itself &ldquo;suffering&rdquo; "
+            "(dukkhato daṭṭhabbā) is a stronger claim than saying "
+            "pleasant feeling is impermanent or leads to suffering "
+            "eventually &mdash; the discourse asks it to be seen as "
+            "suffering directly, in the manner it should be seen "
+            "right now.",
+        ]),
+        ("A closing formula shared almost verbatim with SN 36.3", [
+            "The verses' closing lines &mdash; complete "
+            "understanding of feelings, freedom from defilements in "
+            "this very life, a &ldquo;knowledge master&rdquo; "
+            "(vedagū) &ldquo;unreckonable&rdquo; when the body breaks "
+            "up &mdash; repeat SN 36.3's own closing verse almost "
+            "word for word, confirming this saṃyutta uses a shared "
+            "closing template across more than one discourse in this "
+            "vagga.",
+        ]),
+    ],
+    terms=[
+        ("daṭṭhabbā", "&ldquo;should be seen&rdquo; &mdash; the "
+             "discourse's own governing verb, giving each feeling a "
+             "specific way it ought to be viewed"),
+        ("sukhā vedanā dukkhato daṭṭhabbā", "&ldquo;pleasant feeling "
+             "should be seen as suffering&rdquo; &mdash; a direct "
+             "reframing, not merely a warning about its impermanence"),
+        ("dukkhā vedanā sallato daṭṭhabbā", "&ldquo;painful feeling "
+             "should be seen as a dart&rdquo; &mdash; the same word, "
+             "salla, that SN 36.6's own two-arrows simile will build "
+             "an entire discourse around"),
+        ("adukkhamasukhā vedanā aniccato daṭṭhabbā", "&ldquo;neutral "
+             "feeling should be seen as impermanent&rdquo; &mdash; "
+             "the third of the three distinct reframings"),
+        ("vedagū", "&ldquo;knowledge master&rdquo; &mdash; the "
+             "closing verse's own epithet, shared almost word for "
+             "word with SN 36.3's own closing verse"),
+    ],
+    text_intro=("The complete discourse: the threefold prescription "
+        "for how each feeling should be seen, and the closing "
+        "verses. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.5:1.1-1.6"),
+        ("p", "&sect;2", "sn36.5:2.1-3.6"),
+    ],
+    quiz=[
+        {"q": "What three ways does this discourse say pleasant, painful, and neutral feeling should each be seen?",
+         "opts": ["Pleasant as suffering, painful as a dart, neutral as impermanent", "All three should be seen as equally neutral", "Pleasant as good, painful as bad, neutral as irrelevant", "The discourse gives one shared way of seeing for all three"],
+         "correct": 0,
+         "expl": "Three distinct, specific reframings — not a single shared diagnosis applied uniformly."},
+        {"q": "What word does this discourse use for painful feeling that the very next discourse, SN 36.6, builds an extended simile around?",
+         "opts": ["Salla — a dart or arrow", "Pātāla — an abyss", "Kaṇṭaka — a thorn", "Aggi — fire"],
+         "correct": 0,
+         "expl": "This discourse supplies the single word; SN 36.6 develops an entire \"struck by an arrow\" narrative from it."},
+        {"q": "How strong a claim is \"pleasant feeling should be seen as suffering,\" compared to saying it merely leads to suffering eventually?",
+         "opts": ["Stronger — it asks pleasant feeling to be seen as suffering directly, not just eventually", "Weaker — it only suggests mild caution about pleasant feeling", "Identical in strength — the two phrasings mean exactly the same thing", "The discourse does not make this claim about pleasant feeling"],
+         "correct": 0,
+         "expl": "Dukkhato daṭṭhabbā — a direct reframing in the present, not a warning about a future outcome."},
+        {"q": "How does this discourse's closing verse relate to SN 36.3's own closing verse?",
+         "opts": ["They repeat almost word for word, confirming a shared closing template in this vagga", "They contradict each other directly", "SN 36.3 has no closing verse to compare", "This discourse's verse is entirely unrelated in content"],
+         "correct": 0,
+         "expl": "Both close on complete understanding, freedom from defilements, and the \"knowledge master\" (vedagū) epithet."},
+        {"q": "What formula describes a mendicant who has seen all three feelings this way?",
+         "opts": ["Seeing rightly, cutting off craving, casting off the fetters, and making an end of suffering", "Achieving the four jhānas in sequence", "Becoming incapable of feeling pain ever again", "Being reborn immediately in a heavenly realm"],
+         "correct": 0,
+         "expl": "A formula nearly identical to SN 36.3's own description of a mendicant who has given up the three underlying tendencies."},
+    ],
+    marginalia=[
+        ("Three feelings, three distinct lenses", [
+            "suffering, a dart, impermanent —",
+            "not one diagnosis for all three",
+        ]),
+        ("A word borrowed by the next discourse", [
+            "salla, \"dart,\" named here first —",
+            "SN 36.6 builds an entire simile from it",
+        ]),
+        ("Suffering now, not suffering later", [
+            "pleasant feeling seen as suffering directly —",
+            "a stronger claim than mere warning",
+        ]),
+        ("A closing verse, reused nearly whole", [
+            "\"knowledge master,\" unreckonable —",
+            "almost identical to SN 36.3's own close",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.4.html">SN 36.4 &middot; The Abyss</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-36.6.html">SN 36.6 &middot; An Arrow</a> '
+        "&mdash; already published on this site, the next "
+        "discourse, developing the salla (dart/arrow) image named "
+        "here into a full narrative simile.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.7 — Paṭhamagelaññasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 7, "Paṭhamagelañña", "The Infirmary (1st)",
+    vagga="Sagāthāvagga",
+    meta_title="SN 36.7 &mdash; The Infirmary (1st) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamagelaññasutta &mdash; the Buddha teaches at an "
+        "infirmary in Vesālī, tracing every feeling back to the "
+        "impermanent body itself, closing with an oil lamp running "
+        "out of fuel. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, the Great Wood, the hall with the "
+                     "peaked roof, and the infirmary itself"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A four-satipatthāna instruction, a threefold "
+                 "analysis of feeling traced to the body, and a "
+                 "closing lamp simile"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a long discourse built from a few clear "
+                       "moving parts"),
+    ],
+    why=(
+        "This discourse is set at a specific place unusual for this "
+        "saṃyutta so far: the Buddha comes out of retreat in the "
+        "late afternoon and goes directly to the infirmary at "
+        "Vesālī's Great Wood, sitting down to instruct the mendicants "
+        "there. The instruction itself has two halves: how to be "
+        "mindful (the four satipatthānas, applied here specifically "
+        "to a mendicant &ldquo;awaiting their time&rdquo;) and how to "
+        "be aware (situational awareness applied to every ordinary "
+        "bodily action). The discourse then traces each of the three "
+        "feelings back to its dependence on &ldquo;this very "
+        "body&rdquo; &mdash; itself impermanent, conditioned, "
+        "dependently originated &mdash; before closing with the image "
+        "of an oil lamp that goes out simply because its oil and wick "
+        "run out, not through any separate act of extinguishing."
+    ),
+    guide=[
+        ("A specific setting for a discourse about awaiting one's "
+         "time", [
+            "The infirmary setting is not incidental: &ldquo;a "
+            "mendicant should await their time mindful and "
+            "aware&rdquo; (kālaṁ āgameyya) is instruction for facing "
+            "illness and death directly, delivered in the very place "
+            "where sick mendicants would be cared for, rather than as "
+            "abstract doctrine delivered in the ordinary teaching "
+            "hall.",
+        ]),
+        ("Mindfulness and awareness, two distinct instructions", [
+            "The four satipatthānas (observing the body, feelings, "
+            "the mind, and principles) define what it means to be "
+            "&ldquo;mindful&rdquo; (sato); a separate, more granular "
+            "list &mdash; awareness during literally every posture "
+            "and bodily function, from bending a limb to urinating "
+            "&mdash; defines what it means to be &ldquo;aware&rdquo; "
+            "(sampajāno). The two are named as distinct qualities, "
+            "not synonyms.",
+        ]),
+        ("Every feeling traced to the same dependency", [
+            "The identical reasoning is run three times, once for "
+            "each feeling: a feeling has arisen dependent on "
+            "&ldquo;this very body,&rdquo; but the body is "
+            "impermanent, conditioned, and dependently originated "
+            "&mdash; so how could the feeling arisen from it be "
+            "permanent? Observing this dissolves the underlying "
+            "tendency proper to each feeling (greed for pleasant, "
+            "aversion for painful, ignorance for neutral), matching "
+            "SN 36.3's own threefold mapping.",
+        ]),
+        ("An oil lamp that simply runs out, not one that's snuffed "
+         "out", [
+            "The closing simile is precise: the lamp goes out "
+            "(nibbāyeyya) because its oil and wick are used up "
+            "(pariyādānā) and it is no longer fed (anāhāro), not "
+            "because anyone extinguishes it &mdash; applied to a "
+            "mendicant feeling the end of life draw close, all that's "
+            "felt becomes cool right here because it is no longer "
+            "taken pleasure in, an ending by exhaustion of fuel "
+            "rather than by any separate act.",
+        ]),
+    ],
+    terms=[
+        ("gilānasālā", "the infirmary &mdash; where the Buddha "
+             "delivers this teaching, giving the discourse its "
+             "title"),
+        ("sato... sampajāno", "mindful... aware &mdash; the "
+             "discourse's own two distinct qualities, mindfulness "
+             "defined by the four satipatthānas and awareness by "
+             "situational attentiveness in every action"),
+        ("imameva kāyaṁ paṭicca", "&ldquo;dependent on this very "
+             "body&rdquo; &mdash; the discourse's own answer, run "
+             "three times, to what each feeling depends on"),
+        ("aniccānupassī... paṭinissaggānupassī", "observing "
+             "impermanence... observing letting go &mdash; the "
+             "five-part contemplation applied to the body and each "
+             "feeling in turn"),
+        ("telañca paṭicca vaṭṭiñca paṭicca... anāhāro nibbāyeyya",
+             "&ldquo;depended on oil and a wick... it would be "
+             "extinguished due to not being fed&rdquo; &mdash; the "
+             "closing simile, an ending by exhaustion rather than "
+             "active extinguishing"),
+    ],
+    text_intro=("The complete discourse: the setting at the "
+        "infirmary, the mindfulness and awareness instructions, the "
+        "threefold analysis of feeling, and the closing lamp simile. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.7:1.1-2.2"),
+        ("p", "&sect;2", "sn36.7:3.1-3.6"),
+        ("p", "&sect;3", "sn36.7:4.1-4.5"),
+        ("p", "&sect;4", "sn36.7:5.1-5.9"),
+        ("p", "&sect;5", "sn36.7:6.1-6.10"),
+        ("p", "&sect;6", "sn36.7:7.1-7.9"),
+        ("p", "&sect;7", "sn36.7:8.1-8.8"),
+        ("p", "&sect;8", "sn36.7:9.1-9.4"),
+    ],
+    quiz=[
+        {"q": "Where is this discourse set, and why is that setting significant?",
+         "opts": ["At the infirmary in Vesālī, where sick mendicants were cared for — fitting for instruction on awaiting one's time", "In the ordinary teaching hall, no different from most discourses", "At the Buddha's own deathbed", "In a forest hermitage far from any settlement"],
+         "correct": 0,
+         "expl": "The Buddha comes out of retreat and goes directly to the infirmary before teaching."},
+        {"q": "How does this discourse distinguish being \"mindful\" from being \"aware\"?",
+         "opts": ["Mindful is defined by the four satipatthānas; aware is defined by situational attentiveness in every bodily action", "The two words are used as complete synonyms", "Mindful applies only to feelings; aware applies only to the body", "Awareness is a higher, later-stage development of mindfulness"],
+         "correct": 0,
+         "expl": "Two distinct, separately defined qualities, not one collapsed into the other."},
+        {"q": "What does this discourse say every feeling ultimately depends on?",
+         "opts": ["This very body, which is itself impermanent, conditioned, and dependently originated", "The mind alone, independent of the body", "External objects encountered through the six senses", "Past karma from previous lives"],
+         "correct": 0,
+         "expl": "The identical reasoning run three times, once for each of the three feelings."},
+        {"q": "What does the closing lamp simile emphasize about how the lamp goes out?",
+         "opts": ["It simply runs out of fuel (oil and wick) rather than being actively extinguished by anyone", "Someone deliberately blows it out", "It is knocked over and breaks", "The oil is stolen, causing it to go dark early"],
+         "correct": 0,
+         "expl": "Anāhāro nibbāyeyya — extinguished through not being fed, an ending by exhaustion rather than active action."},
+        {"q": "What underlying tendency does observing a feeling's dependence on the body dissolve, according to this discourse?",
+         "opts": ["The tendency proper to each feeling — greed for pleasant, aversion for painful, ignorance for neutral", "All tendencies are dissolved identically regardless of which feeling is observed", "No underlying tendency is mentioned in this discourse", "Only the tendency to ignorance, regardless of feeling type"],
+         "correct": 0,
+         "expl": "Matching SN 36.3's own threefold mapping of tendency to feeling type."},
+    ],
+    marginalia=[
+        ("A teaching delivered where it's needed", [
+            "the infirmary itself, not a hall —",
+            "instruction for awaiting one's time",
+        ]),
+        ("Two qualities, not one", [
+            "mindful by the four observations —",
+            "aware in every single motion",
+        ]),
+        ("One dependency, three feelings", [
+            "this very body, impermanent —",
+            "the same reasoning run three times",
+        ]),
+        ("A lamp that runs dry, not one snuffed out", [
+            "no separate act of ending —",
+            "just oil and wick, used up",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.6.html">SN 36.6 &middot; An Arrow</a> '
+        "&mdash; already published on this site, the previous "
+        "discourse.",
+        '<a href="sn-36.8.html">SN 36.8 &middot; The Infirmary '
+        "(2nd)</a> &mdash; the next discourse, the same teaching "
+        "traced to contact rather than the body.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.8 — Dutiyagelaññasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 8, "Dutiyagelañña", "The Infirmary (2nd)",
+    vagga="Sagāthāvagga",
+    meta_title="SN 36.8 &mdash; The Infirmary (2nd) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyagelaññasutta &mdash; the same infirmary teaching "
+        "as SN 36.7, restated with one variable changed: every "
+        "feeling now traced to contact rather than to the body "
+        "itself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, the Great Wood, the hall with the "
+                     "peaked roof, and the infirmary itself"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "The same structure as SN 36.7, with contact "
+                 "(phassa) substituted for the body throughout, "
+                 "heavily compressed by bilara-data's own peyyāla "
+                 "markers"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief on the page, but the single substitution "
+                       "carries real weight"),
+    ],
+    why=(
+        "This discourse restates SN 36.7 in the identical setting "
+        "&mdash; the same infirmary, the same time of day, the same "
+        "mindfulness and awareness instructions &mdash; with one "
+        "systematic substitution: where the previous discourse traced "
+        "every feeling's dependence to &ldquo;this very body&rdquo; "
+        "(kāya), this one traces it to &ldquo;this very contact&rdquo; "
+        "(phassa) instead. Bilara-data compresses most of the shared "
+        "material with peyyāla markers and, at one point, an explicit "
+        "instruction to the reciter &mdash; &ldquo;tell in full as in "
+        "the previous discourse&rdquo; &mdash; rather than writing out "
+        "the identical passage a second time."
+    ),
+    guide=[
+        ("The identical frame, one variable changed", [
+            "The setting, the two-part mindfulness/awareness "
+            "instruction, and the closing lamp simile all recur "
+            "unchanged from SN 36.7; only the dependency named for "
+            "each feeling changes, from the body to contact.",
+        ]),
+        ("Contact as the more proximate cause", [
+            "Where SN 36.7 traced feeling back to the body as a "
+            "whole, this discourse names contact (phassa) specifically "
+            "&mdash; the point of meeting between a sense faculty and "
+            "its object &mdash; a more immediate link in the causal "
+            "chain, one step closer to the feeling itself than the "
+            "body that makes contact possible in the first place.",
+        ]),
+        ("The compiler's own instruction left visible", [
+            "Bilara-data preserves an editorial note not meant for "
+            "the audience but for whoever recites or copies the text: "
+            "&ldquo;yathā purimasutte, tathā vitthāretabbo&rdquo; "
+            "(&ldquo;tell in full as in the previous discourse&rdquo;) "
+            "&mdash; a rare moment where the mechanics of oral "
+            "transmission are visible directly in the source rather "
+            "than only inferred from a peyyāla marker.",
+        ]),
+        ("A twin discourse, not a new teaching", [
+            "As with SN 35.241/242's own paired tree-trunk twins "
+            "earlier in this book, this discourse's own value lies "
+            "in the single substitution it makes rather than in new "
+            "content: body and contact are shown to be equally valid "
+            "starting points for the identical impermanence "
+            "reasoning.",
+        ]),
+    ],
+    terms=[
+        ("imameva phassaṁ paṭicca", "&ldquo;dependent on this very "
+             "contact&rdquo; &mdash; this discourse's own single "
+             "substitution for SN 36.7's &ldquo;this very body&rdquo;"),
+        ("phasso anicco saṅkhato paṭiccasamuppanno", "&ldquo;contact "
+             "is impermanent, conditioned, dependently "
+             "originated&rdquo; &mdash; the same threefold "
+             "description SN 36.7 applied to the body, now applied "
+             "to contact"),
+        ("yathā purimasutte, tathā vitthāretabbo", "&ldquo;tell in "
+             "full as in the previous discourse&rdquo; &mdash; an "
+             "editorial instruction to the reciter, preserved "
+             "directly in bilara-data's own root text"),
+        ("…pe…", "the peyyāla (repetition) marker compressing most "
+             "of the shared material with SN 36.7 rather than "
+             "restating it"),
+        ("aṭṭhamaṁ", "&ldquo;eighth&rdquo; &mdash; this discourse's "
+             "own untranslated closing marker, its position within "
+             "Sagāthāvagga"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it "
+        "&mdash; compressed throughout except for the contact "
+        "substitution and the closing lamp simile. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.8:1.1-2.2"),
+        ("p", "&sect;2", "sn36.8:3.1-3.6"),
+        ("p", "&sect;3", "sn36.8:4.1-4.5"),
+        ("p", "&sect;4", "sn36.8:5.1-5.10"),
+        ("p", "&sect;5", "sn36.8:6.1-6.10"),
+        ("p", "&sect;6", "sn36.8:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What single variable does this discourse change from SN 36.7?",
+         "opts": ["Every feeling's dependency is traced to contact (phassa) instead of the body (kāya)", "The setting changes from Vesālī to Sāvatthī", "The mindfulness instructions are entirely different", "The closing simile changes from a lamp to a river"],
+         "correct": 0,
+         "expl": "The frame, instructions, and closing simile all recur unchanged — only the named dependency shifts."},
+        {"q": "Why might contact be considered a more proximate cause of feeling than the body?",
+         "opts": ["Contact is the immediate point of meeting between a sense faculty and its object, one step closer to feeling itself", "Contact and the body are identical in this discourse's reasoning", "The body has nothing to do with the arising of feeling", "Contact only applies to mental feelings, not physical ones"],
+         "correct": 0,
+         "expl": "The body makes contact possible in the first place; contact is the more immediate link in the causal chain."},
+        {"q": "What unusual textual feature does bilara-data preserve in this discourse?",
+         "opts": ["An explicit editorial instruction to the reciter: \"tell in full as in the previous discourse\"", "A second, entirely different ending not found in any other version", "A direct quotation from SN 36.7 with attribution", "An apology from the compiler for repeating material"],
+         "correct": 0,
+         "expl": "Yathā purimasutte, tathā vitthāretabbo — the mechanics of oral transmission made visible in the source."},
+        {"q": "How does this discourse compare to SN 35.241/242's own paired tree-trunk twins earlier in this book?",
+         "opts": ["Both pairs derive their value from a single substitution rather than new content", "The two pairs share no structural similarity", "SN 35.241/242 introduced new content while this pair does not", "This pair is unrelated in form to any earlier discourse in the book"],
+         "correct": 0,
+         "expl": "A recurring pattern in this book: twin discourses whose meaning lies in what single element changes."},
+        {"q": "What does this discourse conclude, following the same reasoning as SN 36.7?",
+         "opts": ["That a feeling arisen dependent on impermanent, conditioned contact cannot itself be permanent", "That contact should be entirely avoided through sensory withdrawal", "That the body is irrelevant to the arising of feeling", "That painful feeling arises only from contact, never from the body"],
+         "correct": 0,
+         "expl": "The identical impermanence reasoning, run with contact substituted for the body throughout."},
+    ],
+    marginalia=[
+        ("One word changed, everything else the same", [
+            "contact, not the body —",
+            "the frame otherwise unchanged",
+        ]),
+        ("A step closer in the chain", [
+            "the body enables it, contact IS it —",
+            "the more immediate dependency",
+        ]),
+        ("The compiler's own note, left visible", [
+            "\"tell in full as before\" —",
+            "oral transmission, showing its seams",
+        ]),
+        ("A twin, not new teaching", [
+            "body and contact, equally valid starts —",
+            "the same reasoning, either way",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.7.html">SN 36.7 &middot; The Infirmary '
+        "(1st)</a> &mdash; the previous discourse, given in full.",
+        '<a href="sn-36.9.html">SN 36.9 &middot; Impermanent</a> '
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.9 — Aniccasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 9, "Anicca", "Impermanent",
+    vagga="Sagāthāvagga",
+    meta_title="SN 36.9 &mdash; Impermanent | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aniccasutta &mdash; this book's shortest discourse so "
+        "far, a single sentence naming all three feelings "
+        "impermanent, conditioned, and bound to cease. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A single prose sentence, restated once to name "
+                 "the three feelings, with no verse"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief enough to read in one breath"),
+    ],
+    why=(
+        "This discourse is the shortest this project has met in Book "
+        "IV so far: a single claim, stated once and then restated "
+        "verbatim after naming the three feelings, that pleasant, "
+        "painful, and neutral feeling are &ldquo;impermanent, "
+        "conditioned, dependently originated, liable to end, vanish, "
+        "fade away, and cease.&rdquo; Six near-synonymous terms for "
+        "impermanence are stacked together rather than a single word "
+        "standing alone, and no verse, simile, or narrative frame "
+        "accompanies the claim at all &mdash; a pure, unadorned "
+        "doctrinal statement standing between two more elaborate "
+        "discourses on either side."
+    ),
+    guide=[
+        ("Six words for one idea, not six separate claims", [
+            "Aniccā (impermanent), saṅkhatā (conditioned), "
+            "paṭiccasamuppannā (dependently originated), khayadhammā "
+            "(liable to end), vayadhammā (liable to vanish), "
+            "virāgadhammā (liable to fade away), and nirodhadhammā "
+            "(liable to cease) are strung together as one cumulative "
+            "description rather than seven distinct properties to "
+            "weigh separately &mdash; repetition and accumulation "
+            "doing the work a longer argument might otherwise do.",
+        ]),
+        ("No verse, no simile, no narrative frame", [
+            "Unlike every other discourse in this vagga so far, this "
+            "one offers no closing verse, no simile, and no "
+            "setting &mdash; a bare doctrinal statement, restated "
+            "once for confirmation, and nothing more.",
+        ]),
+        ("A shared property across all three feelings, not a "
+         "distinguishing one", [
+            "Where SN 36.3 and SN 36.5 assigned each feeling its own "
+            "distinct tendency or way of being seen, this discourse "
+            "returns to treating all three identically, applying the "
+            "same sevenfold impermanence description to pleasant, "
+            "painful, and neutral feeling without distinction.",
+        ]),
+        ("A brief statement, positioned deliberately between longer "
+         "discourses", [
+            "Following the extended twin infirmary discourses (SN "
+            "36.7&ndash;8) and preceding this vagga's own closing "
+            "discourse (SN 36.10), this brief statement functions as "
+            "a compact restatement of the vagga's underlying premise "
+            "before the vagga's final discourse develops a new "
+            "dimension (feeling's dependence on contact) at greater "
+            "length.",
+        ]),
+    ],
+    terms=[
+        ("aniccā saṅkhatā paṭiccasamuppannā", "impermanent, "
+             "conditioned, dependently originated &mdash; the first "
+             "three of the discourse's own seven cumulative "
+             "descriptions"),
+        ("khayadhammā vayadhammā", "liable to end, liable to "
+             "vanish &mdash; two more of the seven, distinguishing "
+             "finality (khaya) from the process of fading (vaya)"),
+        ("virāgadhammā nirodhadhammā", "liable to fade away, liable "
+             "to cease &mdash; the final two of the seven, closing on "
+             "cessation itself"),
+        ("tisso vedanā", "the three feelings &mdash; named once, "
+             "with the sevenfold description applied to all three "
+             "without distinction"),
+        ("navamaṁ", "&ldquo;ninth&rdquo; &mdash; this discourse's "
+             "own untranslated closing marker, its position within "
+             "Sagāthāvagga"),
+    ],
+    text_intro=("The complete discourse: a single sentence, stated "
+        "once. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.9:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How many near-synonymous terms for impermanence does this discourse stack together?",
+         "opts": ["Seven", "Three", "One", "Twelve"],
+         "correct": 0,
+         "expl": "Aniccā, saṅkhatā, paṭiccasamuppannā, khayadhammā, vayadhammā, virāgadhammā, and nirodhadhammā — cumulative repetition rather than a single term."},
+        {"q": "What structural elements does this discourse lack, unlike every other discourse in this vagga so far?",
+         "opts": ["A closing verse, a simile, and a narrative setting", "A statement of the three feelings", "Any reference to impermanence", "An opening address to the mendicants"],
+         "correct": 0,
+         "expl": "A bare doctrinal statement, restated once, with nothing else attached."},
+        {"q": "Does this discourse assign a distinct property to each of the three feelings, as SN 36.3 and SN 36.5 did?",
+         "opts": ["No — it applies the identical sevenfold description to all three feelings without distinction", "Yes — pleasant, painful, and neutral each get a unique description", "It only addresses painful feeling, ignoring the other two", "It denies that three feelings exist at all"],
+         "correct": 0,
+         "expl": "A return to treating all three feelings identically, in contrast to the two preceding discourses' distinct mappings."},
+        {"q": "Where is this discourse positioned within Sagāthāvagga?",
+         "opts": ["Between the extended twin infirmary discourses and the vagga's own closing discourse", "As the vagga's very first discourse", "Immediately after SN 36.6's arrow simile with no discourses between", "As an appendix after the vagga's colophon"],
+         "correct": 0,
+         "expl": "A brief restatement functioning as a pause before the vagga's final, more developed discourse."},
+        {"q": "What distinguishes khayadhammā (\"liable to end\") from vayadhammā (\"liable to vanish\") in this discourse's own list?",
+         "opts": ["A distinction between finality and the ongoing process of fading, though both describe the same underlying impermanence", "They are entirely unrelated concepts placed together by accident", "Khayadhammā applies only to pleasant feeling", "Vayadhammā is a later scribal addition not in the original text"],
+         "correct": 0,
+         "expl": "Two angles on the same impermanence, stacked together rather than treated as separate claims."},
+    ],
+    marginalia=[
+        ("Seven words, one idea", [
+            "impermanent, conditioned, bound to end —",
+            "repetition doing the work of argument",
+        ]),
+        ("Nothing else attached", [
+            "no verse, no simile, no setting —",
+            "the bare claim, restated once",
+        ]),
+        ("All three, treated alike", [
+            "no distinct property this time —",
+            "the same sevenfold description for each",
+        ]),
+        ("A pause between longer discourses", [
+            "after the twin infirmary teaching —",
+            "before the vagga's own closing turn",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.8.html">SN 36.8 &middot; The Infirmary '
+        "(2nd)</a> &mdash; the previous discourse.",
+        '<a href="sn-36.10.html">SN 36.10 &middot; Rooted in '
+        "Contact</a> &mdash; the next and final discourse of "
+        "Sagāthāvagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.10 — Phassamūlakasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 10, "Phassamūlaka", "Rooted in Contact",
+    vagga="Sagāthāvagga",
+    meta_title="SN 36.10 &mdash; Rooted in Contact | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Phassamūlakasutta &mdash; all three feelings traced to "
+        "contact, illustrated by heat generated only as long as two "
+        "sticks are rubbed together, closing Sagāthāvagga. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A threefold prose analysis of feeling's dependence "
+                 "on contact, closed by a fire-making simile"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a clean cause-and-cessation structure, "
+                       "closing the vagga cleanly"),
+    ],
+    why=(
+        "This discourse closes Sagāthāvagga, this saṃyutta's own "
+        "first vagga, by developing at full length the dependency SN "
+        "36.8 introduced in compressed form: each of the three "
+        "feelings arises dependent on its own corresponding contact "
+        "(a contact &ldquo;to be experienced as&rdquo; pleasant, "
+        "painful, or neutral), and ceases the instant that "
+        "corresponding contact ceases. The discourse illustrates this "
+        "with a simple, self-contained image: rubbing two sticks "
+        "together generates heat, but the moment the sticks are "
+        "parted, the heat simply stops &mdash; no separate act "
+        "required to end it, only the ending of what produced it in "
+        "the first place. The vagga's own untranslated colophon "
+        "confirms Sagāthāvagga as Vedanāsaṃyutta's first vagga and "
+        "lists all ten of its discourses by name."
+    ),
+    guide=[
+        ("Each feeling matched to its own corresponding contact", [
+            "The discourse doesn't say feeling in general depends on "
+            "contact in general; it specifies a contact-to-be-"
+            "experienced-as-pleasant producing pleasant feeling, and "
+            "likewise for painful and neutral &mdash; a precise, "
+            "one-to-one correspondence rather than one shared cause "
+            "for three effects.",
+        ]),
+        ("Cessation as simply the absence of what caused arising", [
+            "Feeling doesn't require a separate mechanism to stop; "
+            "&ldquo;with the cessation of that contact... the "
+            "corresponding feeling ceases and stops&rdquo; states "
+            "cessation as nothing more than the withdrawal of the "
+            "originating condition, the same structure this project "
+            "has already met describing how feeling depends on the "
+            "body or on contact in SN 36.7&ndash;8.",
+        ]),
+        ("Two sticks, rubbed and then parted", [
+            "The fire-making simile is deliberately minimal: friction "
+            "between two sticks (dvinnaṁ kaṭṭhānaṁ saṅghaṭṭana) "
+            "produces heat, and parting them (nānābhāvā vinikkhepā) "
+            "ends it &mdash; no third factor, no residue, no delay, "
+            "matching the discourse's own claim that the corresponding "
+            "feeling ceases exactly when its corresponding contact "
+            "does.",
+        ]),
+        ("A vagga closing with its own untranslated colophon and "
+         "uddāna", [
+            "Following this project's established convention, the "
+            "vagga's own closing marker &mdash; &ldquo;Vedanāsaṁyuttassa "
+            "sagāthāvaggo paṭhamo&rdquo; (&ldquo;Sagāthāvagga of "
+            "Vedanāsaṃyutta, the first&rdquo;) &mdash; and its uddāna "
+            "naming all ten discourses by name are left untranslated "
+            "in the Pali root and described here rather than quoted, "
+            "confirming this vagga's own position as the first of "
+            "three in this saṃyutta.",
+        ]),
+    ],
+    terms=[
+        ("phassajā phassamūlakā phassanidānā phassapaccayā", "&ldquo;"
+             "born, rooted, sourced, and dependent on contact&rdquo; "
+             "&mdash; four near-synonymous terms opening the "
+             "discourse, giving it its title"),
+        ("sukhavedaniyaṁ phassaṁ paṭicca", "&ldquo;dependent on a "
+             "contact to be experienced as pleasant&rdquo; &mdash; "
+             "the discourse's own precise, one-to-one pairing of "
+             "contact type to feeling type"),
+        ("nirujjhati... vūpasammati", "&ldquo;ceases... stops&rdquo; "
+             "&mdash; the paired verbs describing what happens to a "
+             "feeling when its corresponding contact ends"),
+        ("dvinnaṁ kaṭṭhānaṁ saṅghaṭṭanasamodhānā usmā jāyati", "&ldquo;"
+             "when you rub two sticks together, heat is "
+             "generated&rdquo; &mdash; the discourse's own closing "
+             "simile for feeling's dependence on contact"),
+        ("Vedanāsaṁyuttassa sagāthāvaggo paṭhamo", "&ldquo;Sagāthāvagga "
+             "of Vedanāsaṃyutta, the first&rdquo; &mdash; this "
+             "discourse's own untranslated closing colophon, "
+             "confirming Sagāthāvagga's position as this saṃyutta's "
+             "first vagga"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "colophon and uddāna (both left untranslated in the Pali "
+        "root and described, not quoted, above): the threefold "
+        "analysis of feeling's dependence on contact and the closing "
+        "fire-making simile. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.10:1.1-1.9"),
+        ("p", "&sect;2", "sn36.10:1.10-1.13"),
+    ],
+    quiz=[
+        {"q": "How does this discourse pair each feeling with its cause?",
+         "opts": ["Each feeling arises dependent on its own precisely corresponding type of contact", "All three feelings share one single, undifferentiated cause", "Feelings arise independently of contact entirely", "The pairing is left ambiguous in this discourse"],
+         "correct": 0,
+         "expl": "A contact to be experienced as pleasant produces pleasant feeling, and likewise for painful and neutral — a one-to-one correspondence."},
+        {"q": "What does this discourse say happens to a feeling when its corresponding contact ceases?",
+         "opts": ["The feeling simply ceases and stops, with no separate mechanism required", "The feeling persists independently for some time afterward", "The feeling transforms into a different type of feeling", "This discourse does not address cessation"],
+         "correct": 0,
+         "expl": "\"With the cessation of that contact... the corresponding feeling ceases and stops\" — cessation as the withdrawal of the originating condition."},
+        {"q": "What does the two-sticks simile illustrate?",
+         "opts": ["Heat arises from friction and ends the instant the sticks are parted, with no third factor or delay", "Fire, once started, continues indefinitely regardless of its source", "Two separate causes are needed to produce any single effect", "The simile illustrates the four elements, not feeling's cause"],
+         "correct": 0,
+         "expl": "A deliberately minimal image, matching the discourse's claim that feeling ceases exactly when its contact does."},
+        {"q": "What does this discourse's own closing colophon confirm?",
+         "opts": ["That Sagāthāvagga is the first vagga of Vedanāsaṃyutta", "That this is the tenth vagga of the entire saṃyutta", "That Vedanāsaṃyutta itself is now complete", "The colophon carries no positional information"],
+         "correct": 0,
+         "expl": "\"Vedanāsaṁyuttassa sagāthāvaggo paṭhamo\" — untranslated in the Pali root, described rather than quoted here."},
+        {"q": "How many discourses does this vagga's own closing uddāna name?",
+         "opts": ["All ten of Sagāthāvagga's own discourses", "Only the final three discourses", "All 31 discourses of the entire saṃyutta", "The uddāna does not list any discourses by name"],
+         "correct": 0,
+         "expl": "Matching this reading guide's own independent count of the vagga's contents."},
+    ],
+    marginalia=[
+        ("One cause, precisely matched", [
+            "pleasant contact, pleasant feeling —",
+            "not one shared cause for three effects",
+        ]),
+        ("Ceasing needs no extra step", [
+            "the contact ends, so does the feeling —",
+            "no separate mechanism required",
+        ]),
+        ("Two sticks, parted", [
+            "heat only while they're rubbed together —",
+            "no residue, no delay",
+        ]),
+        ("A vagga closes, its contents named", [
+            "\"the first,\" ten discourses listed —",
+            "described here, not quoted",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.9.html">SN 36.9 &middot; Impermanent</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-41.1.html">SN 41.1 &middot; The Fetter</a> '
+        "&mdash; already published on this site, standing ahead of "
+        "this saṃyutta's own second vagga, Rahogatavagga (SN 36.11"
+        "&ndash;20), not yet built.",
     ],
 )
