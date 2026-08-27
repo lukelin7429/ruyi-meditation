@@ -28261,3 +28261,1797 @@ page(
         "&ndash;237), not yet built.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 35.228 — Paṭhamasamuddasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 228, "Paṭhamasamudda", "The Ocean (1st)",
+    vagga="Samuddavagga",
+    meta_title="SN 35.228 &mdash; The Ocean (1st) | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasamuddasutta &mdash; opening Samuddavagga, this "
+        "book's eighteenth vagga, with the eye, tongue, and mind "
+        "themselves declared an ocean whose currents a person can "
+        "cross. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A redefinition of &ldquo;ocean&rdquo; away from "
+                 "its ordinary sense, run for the eye, tongue, and "
+                 "mind, closing with a four-line verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a single image, unpacked directly"),
+    ],
+    why=(
+        "This discourse opens Samuddavagga, this book's own "
+        "eighteenth vagga, and supplies its name outright: &ldquo;"
+        "samudda,&rdquo; the ocean. Unlike Saṭṭhipeyyālavagga just "
+        "finished, this vagga returns to ordinary prose, no "
+        "combinatorial peyyāla in sight &mdash; ten independent "
+        "discourses, bilara-data confirms, none of them merged. An "
+        "unlearned ordinary person, the Buddha opens by saying, "
+        "speaks of &ldquo;the ocean&rdquo; and means only a large "
+        "body of water. But in the training of the Noble One the "
+        "word names something else entirely: for a person, the eye "
+        "is itself an ocean, its currents made of sights; the tongue "
+        "is an ocean, its currents made of tastes; the mind is an "
+        "ocean, its currents made of ideas. Someone who can prevail "
+        "over those currents is said to have crossed the ocean of "
+        "the eye &mdash; or of the tongue, or of the mind &mdash; "
+        "with its waves and whirlpools, its saltwater crocodiles and "
+        "monsters, and to stand on solid ground at last."
+    ),
+    guide=[
+        ("Redefining a word, not describing the sea", [
+            "The discourse opens by naming and setting aside the "
+            "ordinary meaning of &ldquo;ocean&rdquo; &mdash; a large "
+            "body of water &mdash; before installing its own "
+            "meaning in the training of the Noble One. This "
+            "opening move (naming the common usage, then replacing "
+            "it) recurs identically in the very next discourse, SN "
+            "35.229, which defines the same word again from a "
+            "different angle.",
+        ]),
+        ("Eye, tongue, mind &mdash; not all six fields spelled out",
+         [
+            "Where many discourses in this book run explicitly "
+            "through all six sense fields, this one gives the eye "
+            "and mind in full and lets the tongue stand as the "
+            "compressed middle term for ear, nose, tongue, and body "
+            "together, following bilara-data's own peyyāla marker "
+            "at that point &mdash; a compression this project has "
+            "met many times before, though usually resolving to a "
+            "full six-way list rather than settling on the tongue "
+            "specifically as the named placeholder.",
+        ]),
+        ("Waves, whirlpools, crocodiles, monsters", [
+            "The image of crossing carries its own full cast of "
+            "hazards &mdash; saūmiṁ (with its waves), sāvaṭṭaṁ (its "
+            "whirlpools), sagāhaṁ (its saltwater crocodiles), "
+            "sarakkhasaṁ (its monsters) &mdash; repeated for each "
+            "sense field crossed, then gathered again in the "
+            "closing verse.",
+        ]),
+        ("A verse restating the crossing, not extending it", [
+            "The Buddha's own four-line verse that closes the "
+            "discourse restates the same crossing in poetic form, "
+            "using vedagū (&ldquo;knowledge master&rdquo;) for the "
+            "one who has crossed and closing on the same standing-"
+            "on-solid-ground image the prose already used for each "
+            "sense field individually.",
+        ]),
+    ],
+    terms=[
+        ("samuddo", "the ocean &mdash; the word this discourse "
+             "redefines away from its ordinary sense of a body of "
+             "water, and the name it gives this vagga"),
+        ("cakkhu&hellip; purisassa samuddo", "&ldquo;for a person, "
+             "the eye is an ocean&rdquo; &mdash; the discourse's own "
+             "central redefinition, repeated for the tongue and the "
+             "mind"),
+        ("rūpamayo vego", "currents made of sights &mdash; what "
+             "flows in the ocean of the eye, paralleled by tastes "
+             "for the tongue and ideas for the mind"),
+        ("atari&hellip;samuddaṁ saūmiṁ sāvaṭṭaṁ sagāhaṁ sarakkhasaṁ",
+             "&ldquo;crossed over the ocean, with its waves and "
+             "whirlpools, its saltwater crocodiles and monsters"
+             "&rdquo; &mdash; the discourse's own full description "
+             "of what has been overcome"),
+        ("tiṇṇo pāraṅgato thale tiṭṭhati brāhmaṇo", "&ldquo;crossed "
+             "over, gone to the far shore, the brahmin stands on "
+             "solid ground&rdquo; &mdash; the closing formula for "
+             "each crossing, &ldquo;brahmin&rdquo; used here as an "
+             "honorific for one who has completed the path, not as "
+             "a caste term"),
+    ],
+    text_intro=("The complete discourse: the redefinition of "
+        "&ldquo;ocean&rdquo; for the eye, tongue, and mind, and the "
+        "closing verse restating the same crossing. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.228:1.1-1.5"),
+        ("p", "&sect;2", "sn35.228:2.1-2.12"),
+        ("p", "&sect;3", "sn35.228:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse redefine &ldquo;ocean&rdquo; away from an unlearned ordinary person's usage?",
+         "opts": ["As the eye, tongue, and mind themselves, each with currents made of sights, tastes, and ideas", "As a metaphor for the deep, dark ignorance of the unenlightened mind in general", "As the totality of saṃsāra across countless lifetimes", "The discourse does not offer any redefinition, only describing the literal sea"],
+         "correct": 0,
+         "expl": "\"For a person, the eye is an ocean, and its currents are made of sights\" — repeated for the tongue and mind."},
+        {"q": "Which sense fields does this discourse spell out explicitly, letting the rest stand compressed?",
+         "opts": ["The eye, the tongue, and the mind", "All six sense fields, given in full", "Only the eye and the mind, with no middle term at all", "The ear, nose, and body, with eye and mind compressed"],
+         "correct": 0,
+         "expl": "Bilara-data's own peyyāla marker resolves the middle compressed term to the tongue specifically."},
+        {"q": "What hazards does the crossing formula name as part of this ocean?",
+         "opts": ["Waves, whirlpools, saltwater crocodiles, and monsters", "Storms, shipwrecks, and drowning", "Thirst, hunger, and exhaustion", "No hazards are named, only the crossing itself"],
+         "correct": 0,
+         "expl": "Saūmiṁ sāvaṭṭaṁ sagāhaṁ sarakkhasaṁ — waves, whirlpools, crocodiles, and monsters, named for each sense field crossed."},
+        {"q": "What does the closing verse's own word &ldquo;vedagū&rdquo; name?",
+         "opts": ["The knowledge master who has crossed the ocean", "A type of sea monster mentioned in the prose", "The far shore itself", "An epithet exclusive to the Buddha, not applicable to disciples"],
+         "correct": 0,
+         "expl": "The verse's own term for one who has completed the crossing and the spiritual journey."},
+        {"q": "How does this discourse open, before giving its own redefinition?",
+         "opts": ["By naming the ordinary meaning of &ldquo;ocean&rdquo; and setting it aside as not the ocean meant here", "By asking the assembled mendicants what they think the ocean represents", "By describing an actual voyage the Buddha once took", "By quoting a verse from an unnamed earlier sage"],
+         "correct": 0,
+         "expl": "\"An unlearned ordinary person speaks of the ocean. But that's not the ocean in the training of the Noble One.\""},
+    ],
+    marginalia=[
+        ("A word, redefined", [
+            "not a body of water at all —",
+            "the eye itself, an ocean",
+        ]),
+        ("Currents made of sights", [
+            "and of tastes, and of ideas —",
+            "three fields stand for six",
+        ]),
+        ("Crocodiles, monsters, whirlpools", [
+            "the hazards of each crossing —",
+            "named again in the closing verse",
+        ]),
+        ("A vagga opens with its own name", [
+            "samudda, ocean, given outright —",
+            "no combinatorial peyyāla here",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.228/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.227.html">SN 35.227 &middot; The Exterior '
+        "as Not-Self</a> &mdash; the previous discourse, closing "
+        "Saṭṭhipeyyālavagga.",
+        '<a href="sn-35.229.html">SN 35.229 &middot; The Ocean '
+        "(2nd)</a> &mdash; the next discourse, redefining the same "
+        "word from a different angle.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.229 — Dutiyasamuddasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 229, "Dutiyasamudda", "The Ocean (2nd)",
+    vagga="Samuddavagga",
+    meta_title="SN 35.229 &mdash; The Ocean (2nd) | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Dutiyasamuddasutta &mdash; a second redefinition of "
+        "&ldquo;ocean&rdquo; as the six sense objects themselves, "
+        "where most of the world lies sunk and tangled. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A second redefinition of &ldquo;ocean,&rdquo; this "
+                 "time as the six sense objects rather than the six "
+                 "sense faculties, closing with a four-line verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a second redefinition of the same word, easy "
+                       "to conflate with the first if read too "
+                       "quickly"),
+    ],
+    why=(
+        "This discourse opens with the identical formula as SN "
+        "35.228 just before it &mdash; &ldquo;an unlearned ordinary "
+        "person speaks of the ocean&hellip;but that's not the ocean "
+        "in the training of the Noble One&rdquo; &mdash; and then "
+        "supplies a different redefinition entirely. Where SN 35.228 "
+        "made the sense faculties themselves (eye, tongue, mind) "
+        "into an ocean with currents made of their objects, this "
+        "discourse instead makes the six sense objects themselves "
+        "&mdash; sights, sounds, smells, tastes, touches, ideas, "
+        "each one &ldquo;likable, desirable, agreeable, pleasant, "
+        "sensual, and arousing&rdquo; &mdash; into the ocean, and "
+        "then states outright that it is here, in exactly this "
+        "ocean, that the world with its gods and Māras and humans "
+        "lies for the most part sunk: tangled like string, knotted "
+        "like a ball of thread, matted like rushes and reeds, unable "
+        "to escape transmigration."
+    ),
+    guide=[
+        ("The same opening, a different redefinition", [
+            "Both this discourse and SN 35.228 open with the "
+            "identical sentence rejecting the ordinary sense of "
+            "&ldquo;ocean.&rdquo; What differs is what replaces it: "
+            "there, the sense faculties themselves; here, the six "
+            "objects the faculties encounter &mdash; sights, sounds, "
+            "smells, tastes, touches, and ideas that are likable, "
+            "desirable, agreeable, pleasant, sensual, and arousing.",
+        ]),
+        ("Sunk, tangled, and matted", [
+            "A single sentence, repeated for both halves of the "
+            "sixfold list, states that it is here &mdash; in this "
+            "ocean of pleasant objects &mdash; that the world with "
+            "its gods, Māras, and divinities, its ascetics, "
+            "brahmins, gods, and humans, is for the most part sunk: "
+            "&ldquo;tangled like string, knotted like a ball of "
+            "thread, and matted like rushes and reeds,&rdquo; unable "
+            "to escape the places of loss, transmigration itself.",
+        ]),
+        ("A stock image of entanglement, not unique to this "
+         "discourse", [
+            "The same three-part image &mdash; tangled string, "
+            "knotted thread, matted reeds &mdash; is a recognizable "
+            "formula in the wider early-Buddhist corpus for "
+            "describing how deeply beings are caught in saṃsāra; "
+            "this reading guide notes the image's own stock "
+            "character honestly rather than treating its appearance "
+            "here as unique to this discourse.",
+        ]),
+        ("A verse naming the crossing by what has faded, not what "
+         "has been prevailed over", [
+            "Unlike SN 35.228's closing verse, which named the "
+            "crossing in terms of currents overcome, this "
+            "discourse's own closing verse names it by what has "
+            "faded away first &mdash; greed, hate, and ignorance "
+            "&mdash; before describing the one who has crossed as "
+            "having slipped their chains, given up death, and "
+            "confounded the King of Death himself.",
+        ]),
+    ],
+    terms=[
+        ("ariyassa vinaye samuddo", "&ldquo;the ocean in the "
+             "training of the Noble One&rdquo; &mdash; the phrase "
+             "this discourse uses to install its own redefinition, "
+             "identical in wording to SN 35.228's own"),
+        ("iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā",
+             "&ldquo;likable, desirable, agreeable, pleasant, "
+             "sensual, and arousing&rdquo; &mdash; the sixfold "
+             "description of what makes a sense object this "
+             "discourse's own ocean"),
+        ("tantākulakajātā kulagaṇṭhikajātā muñjapabbajabhūtā",
+             "&ldquo;tangled like string, knotted like a ball of "
+             "thread, and matted like rushes and reeds&rdquo; "
+             "&mdash; a stock image for how deeply beings are caught "
+             "in saṃsāra, not unique to this discourse"),
+        ("apāyaṁ duggatiṁ vinipātaṁ saṁsāraṁ nātivattati", "&ldquo;"
+             "doesn't escape the places of loss, the bad places, "
+             "the underworld, transmigration&rdquo; &mdash; the "
+             "consequence of remaining sunk in this ocean"),
+        ("saṅgātigo maccujaho nirupadhi", "&ldquo;slipped their "
+             "chains, given up death, and have no attachments"
+             "&rdquo; &mdash; the closing verse's own description of "
+             "one who has crossed, framed by what has faded rather "
+             "than what has been overcome"),
+    ],
+    text_intro=("The complete discourse: the redefinition of "
+        "&ldquo;ocean&rdquo; as the six sense objects, the world "
+        "sunk within it, and the closing verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.229:1.1-1.6"),
+        ("p", "&sect;2", "sn35.229:2.1-2.3"),
+        ("p", "&sect;3", "sn35.229:3.1-4.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own redefinition of &ldquo;ocean&rdquo; differ from SN 35.228's?",
+         "opts": ["It makes the six sense objects themselves the ocean, rather than the six sense faculties", "It makes the six sense faculties the ocean, exactly as SN 35.228 did", "It redefines the ocean as literal water after all, reversing SN 35.228", "It applies the redefinition only to the mind, not to any of the five physical senses"],
+         "correct": 0,
+         "expl": "SN 35.228 made the faculties (eye, tongue, mind) the ocean; this discourse makes their objects (sights, tastes, ideas, and the rest) the ocean instead."},
+        {"q": "What sixfold description does this discourse give of the sense objects that make up its own ocean?",
+         "opts": ["Likable, desirable, agreeable, pleasant, sensual, and arousing", "Impermanent, suffering, not-self, empty, signless, and wishless", "Visible, audible, tangible, and three others left unnamed", "The discourse gives no description, only naming the six kinds"],
+         "correct": 0,
+         "expl": "Iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā — the sixfold formula repeated for both halves of the sense-object list."},
+        {"q": "What does this discourse say is true of most of the world, precisely because of this ocean?",
+         "opts": ["It is for the most part sunk, tangled like string and matted like reeds, unable to escape transmigration", "It has already fully crossed to the far shore", "It remains neutral, neither sunk nor free", "The discourse does not describe the world's condition at all"],
+         "correct": 0,
+         "expl": "\"This world...is for the most part sunk...and doesn't escape...transmigration.\""},
+        {"q": "How does the tangled-string, knotted-thread, matted-reeds image function in the wider early-Buddhist corpus, according to this reading guide?",
+         "opts": ["As a recognizable stock formula for how deeply beings are caught in saṃsāra, not unique to this discourse", "As an image invented specifically for this discourse and found nowhere else", "As a technical meditation instruction for untangling physical knots", "As a description reserved exclusively for describing hell realms"],
+         "correct": 0,
+         "expl": "This reading guide notes the image's stock character honestly rather than treating it as unique here."},
+        {"q": "What does this discourse's own closing verse name as having faded away in the one who has crossed?",
+         "opts": ["Greed, hate, and ignorance", "Hunger, thirst, and fatigue", "Fear, doubt, and restlessness", "The verse names nothing as having faded, only what has been overcome"],
+         "correct": 0,
+         "expl": "\"Those in whom greed, hate, and ignorance have faded away...have crossed the ocean so hard to cross.\""},
+    ],
+    marginalia=[
+        ("A second redefinition", [
+            "not the faculties this time —",
+            "the objects themselves, the ocean",
+        ]),
+        ("Likable, desirable, arousing", [
+            "six words for what pulls a mind under —",
+            "and the world, for the most part, sunk",
+        ]),
+        ("Tangled like string", [
+            "a stock image, not this discourse's own invention —",
+            "knotted thread, matted reeds",
+        ]),
+        ("Faded, not overcome", [
+            "greed, hate, and ignorance fade away —",
+            "a different verb for the same crossing",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.229/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.228.html">SN 35.228 &middot; The Ocean '
+        "(1st)</a> &mdash; the previous discourse, redefining the "
+        "same word around the sense faculties instead.",
+        '<a href="sn-35.230.html">SN 35.230 &middot; The Simile of '
+        "the Angler</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.230 — Bāḷisikopamasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 230, "Bāḷisikopama", "The Simile of the Angler",
+    vagga="Samuddavagga",
+    meta_title="SN 35.230 &mdash; The Simile of the Angler | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Bāḷisikopamasutta &mdash; six hooks baited with "
+        "pleasant sense objects, and what it means for a mendicant "
+        "to swallow, or to break, Māra's hook. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A simile (an angler's baited hook) applied "
+                 "directly to the six sense objects, then run in "
+                 "both a positive and a negative direction"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a vivid, self-explaining image"),
+    ],
+    why=(
+        "Samuddavagga's opening pair redefined &ldquo;ocean&rdquo; "
+        "twice over; this third discourse leaves the ocean itself "
+        "behind for a scene that could happen on any lake &mdash; an "
+        "angler casting a baited hook into deep water, a fish "
+        "swallowing the bait and meeting tragedy and disaster, "
+        "wholly at the angler's mercy afterward. The Buddha turns "
+        "this into a direct simile: there are six hooks in the "
+        "world, baited with sights, sounds, smells, tastes, touches, "
+        "and ideas that are &ldquo;likable, desirable, agreeable, "
+        "pleasant, sensual, and arousing&rdquo; &mdash; the identical "
+        "sixfold formula SN 35.229 just used to describe its own "
+        "ocean of sense objects. A mendicant who approves, welcomes, "
+        "and keeps clinging to any of the six has swallowed Māra's "
+        "hook; one who doesn't has broken it, destroyed it, and "
+        "stands beyond the Wicked One's power."
+    ),
+    guide=[
+        ("A shared formula, a new image", [
+            "This discourse reuses SN 35.229's own sixfold "
+            "description of pleasant sense objects &mdash; likable, "
+            "desirable, agreeable, pleasant, sensual, arousing "
+            "&mdash; word for word, but wraps it in a new simile: "
+            "not an ocean to be crossed, but a baited hook to be "
+            "swallowed or refused.",
+        ]),
+        ("An angler, a fish, and total vulnerability", [
+            "The frame simile is stark: a fish that swallows the "
+            "bait meets tragedy and disaster, and the angler can do "
+            "with it whatever he wants. The discourse transfers this "
+            "total vulnerability directly onto a mendicant who "
+            "clings to a pleasant sense object &mdash; they become "
+            "one the Wicked One can do with as he wishes.",
+        ]),
+        ("Six hooks, run twice: swallowed, then broken", [
+            "The discourse states its case in both directions for "
+            "all six sense fields: approving, welcoming, and "
+            "clinging makes a mendicant &ldquo;one who has swallowed "
+            "Māra's hook&rdquo;; not approving, not welcoming, and "
+            "not clinging makes them &ldquo;one who hasn't swallowed "
+            "Māra's hook&rdquo; &mdash; who has, in fact, broken it "
+            "and destroyed it outright.",
+        ]),
+        ("No closing verse", [
+            "Unlike the two Ocean discourses just before it, this "
+            "one ends directly on its own prose formula for the "
+            "unclinging mendicant, with no verse restating the "
+            "teaching in poetic form.",
+        ]),
+    ],
+    terms=[
+        ("bāḷisiko&hellip;āmisagatabaḷisaṁ", "an angler&hellip;a "
+             "baited hook &mdash; the frame image cast into a deep "
+             "lake, source of this discourse's own title"),
+        ("cha&hellip;baḷisā lokasmiṁ", "the six hooks in the world "
+             "&mdash; sights, sounds, smells, tastes, touches, and "
+             "ideas, each baited to mean tragedy and slaughter for "
+             "living creatures"),
+        ("iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā",
+             "&ldquo;likable, desirable, agreeable, pleasant, "
+             "sensual, and arousing&rdquo; &mdash; the same sixfold "
+             "formula SN 35.229 used for its own ocean, reused here "
+             "for the bait on each of the six hooks"),
+        ("gilitabaḷiso&hellip;anayaṁ āpanno byasanaṁ āpanno "
+             "yathākāmakaraṇīyo pāpimato", "&ldquo;one who has "
+             "swallowed the hook&hellip;met with tragedy and "
+             "disaster, and the Wicked One can do with them what he "
+             "wants&rdquo; &mdash; the discourse's own description "
+             "of a mendicant who clings"),
+        ("abhedi baḷisaṁ paribhedi baḷisaṁ", "&ldquo;broken the "
+             "hook, destroyed it&rdquo; &mdash; the discourse's own "
+             "description of a mendicant who does not cling, beyond "
+             "the reach of the Wicked One's power"),
+    ],
+    text_intro=("The complete discourse: the angler's baited hook, "
+        "the six hooks in the world, and the mendicant who either "
+        "swallows or breaks Māra's hook, run for all six sense "
+        "fields. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.230:1.1-1.3"),
+        ("p", "&sect;2", "sn35.230:2.1-2.6"),
+        ("p", "&sect;3", "sn35.230:3.1-3.3"),
+        ("p", "&sect;4", "sn35.230:4.1-4.2"),
+        ("p", "&sect;5", "sn35.230:5.1-5.3"),
+    ],
+    quiz=[
+        {"q": "What happens to the fish in this discourse's own frame simile, once it swallows the baited hook?",
+         "opts": ["It meets tragedy and disaster, wholly at the angler's mercy afterward", "It manages to spit out the hook and escape unharmed", "It grows larger and becomes harder for the angler to catch", "The simile does not describe the fish's fate at all"],
+         "correct": 0,
+         "expl": "\"The fish that swallowed the hook would meet with tragedy and disaster, and the angler can do what he wants with it.\""},
+        {"q": "What sixfold description of the bait on each of the six hooks does this discourse reuse from SN 35.229?",
+         "opts": ["Likable, desirable, agreeable, pleasant, sensual, and arousing", "Bright, colorful, fragrant, sweet, soft, and vivid", "Rare, precious, costly, refined, elegant, and prized", "The discourse gives no shared description with SN 35.229"],
+         "correct": 0,
+         "expl": "The identical sixfold formula for pleasant sense objects, reused word for word from the discourse immediately before."},
+        {"q": "What does this discourse call a mendicant who approves, welcomes, and keeps clinging to a pleasant sense object?",
+         "opts": ["One who has swallowed Māra's hook", "One who has broken Māra's hook", "One who has become the angler themselves", "The discourse does not name such a mendicant"],
+         "correct": 0,
+         "expl": "\"They're called a mendicant who has swallowed Māra's hook. They've met with tragedy and disaster.\""},
+        {"q": "What does this discourse call a mendicant who does not approve, welcome, or cling to a pleasant sense object?",
+         "opts": ["One who has broken the hook and destroyed it", "One who has swallowed the hook but survived it", "One who has become invisible to Māra entirely", "The discourse leaves this case undescribed"],
+         "correct": 0,
+         "expl": "\"They're called a mendicant who hasn't swallowed Māra's hook. They've broken the hook, destroyed it.\""},
+        {"q": "How does this discourse close, compared to the two Ocean discourses immediately before it?",
+         "opts": ["Directly on its own closing prose formula, with no verse", "With a four-line verse restating the same teaching", "With a report that a thousand mendicants became arahants", "With an unresolved question left for the listener"],
+         "correct": 0,
+         "expl": "Unlike SN 35.228 and SN 35.229, this discourse ends on prose alone, without a closing verse."},
+    ],
+    marginalia=[
+        ("An angler, a lake, a hook", [
+            "the fish that swallows meets disaster —",
+            "wholly at another's mercy",
+        ]),
+        ("Six hooks in the world", [
+            "sights, sounds, smells, tastes, touches, ideas —",
+            "each one baited the same way",
+        ]),
+        ("Swallowed, or broken", [
+            "clinging makes the hook take hold —",
+            "not clinging breaks it outright",
+        ]),
+        ("No verse this time", [
+            "the prose formula stands alone —",
+            "unlike the two oceans just before it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.230/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.229.html">SN 35.229 &middot; The Ocean '
+        "(2nd)</a> &mdash; the previous discourse, source of the "
+        "sixfold formula this discourse reuses for its own bait.",
+        '<a href="sn-35.231.html">SN 35.231 &middot; The Simile of '
+        "the Latex-Producing Tree</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.231 — Khīrarukkhopamasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 231, "Khīrarukkhopama", "The Simile of the Latex-Producing "
+    "Tree",
+    vagga="Samuddavagga",
+    meta_title="SN 35.231 &mdash; The Simile of the Latex-Producing "
+                "Tree | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Khīrarukkhopamasutta &mdash; a young latex tree "
+        "that bleeds at the lightest cut, and a dried, decrepit one "
+        "that yields nothing at all, as similes for greed, hate, and "
+        "delusion present or abandoned. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A simile in two mirrored halves &mdash; a young, "
+                 "sap-filled tree and a dried, withered one &mdash; "
+                 "each applied to how readily sense objects overcome "
+                 "the mind"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a concrete, almost botanical image with a "
+                       "precise logical structure"),
+    ],
+    why=(
+        "This discourse takes any monk or nun who still has greed, "
+        "hate, and delusion &mdash; and has not given them up "
+        "&mdash; and states a striking claim: if even trivial sense "
+        "objects come into their range, those objects overcome the "
+        "mind, let alone compelling ones. The simile that follows "
+        "makes the logic concrete: a young, tender sapling of a "
+        "latex-producing tree (a peepal, a banyan, a wavy leaf fig, "
+        "or a cluster fig) bleeds latex the instant it's cut "
+        "anywhere at all, because the latex is simply there, waiting "
+        "in the wood. The discourse then reverses the claim for one "
+        "who has given up greed, hate, and delusion: even compelling "
+        "objects don't overcome such a mind, let alone trivial ones "
+        "&mdash; because, like a tree dried up, withered, and "
+        "decrepit for years, there is no latex left to draw out no "
+        "matter where the axe falls."
+    ),
+    guide=[
+        ("Trivial overcomes, or compelling doesn't, and why", [
+            "The discourse's own logic is precise, not merely "
+            "poetic: it isn't that unabandoned greed, hate, and "
+            "delusion make a mind vulnerable to strong objects "
+            "specifically &mdash; even trivial ones suffice, "
+            "&ldquo;let alone those that are compelling.&rdquo; The "
+            "reverse claim is equally precise: an abandoned mind "
+            "resists even compelling objects, &ldquo;let alone those "
+            "that are trivial.&rdquo;",
+        ]),
+        ("Four named tree species, not a generic tree", [
+            "The simile names four specific latex-producing "
+            "fig-family trees &mdash; assattho (peepal), nigrodho "
+            "(banyan), pilakkho (wavy leaf fig), udumbaro (cluster "
+            "fig) &mdash; the same family associated elsewhere in "
+            "this canon with awakening trees for various Buddhas, "
+            "chosen here simply for their latex, not for any such "
+            "association.",
+        ]),
+        ("Young and sappy, or dried and decrepit", [
+            "The mirrored simile turns on a single variable, age and "
+            "condition: &ldquo;daharo taruṇo komārako&rdquo; "
+            "(tender, young, freshly grown) versus &ldquo;sukkho "
+            "kolāpo terovassiko&rdquo; (dried up, withered, and "
+            "decrepit for a year or more) &mdash; the tree's own "
+            "physical state standing in directly for whether greed, "
+            "hate, and delusion remain present or have been given "
+            "up.",
+        ]),
+        ("A dialogue embedded in an otherwise solitary teaching", [
+            "Unlike SN 35.228&ndash;230 just before it, this "
+            "discourse briefly shifts from pure monologue into a "
+            "short confirming exchange &mdash; &ldquo;would latex "
+            "come out?&rdquo;&hellip;&ldquo;Yes, sir&rdquo; &mdash; "
+            "before the Buddha draws the parallel explicitly, a "
+            "small structural variation within the vagga.",
+        ]),
+    ],
+    terms=[
+        ("khīrarukkho", "a latex-producing tree &mdash; the source "
+             "image for this discourse's own title and its central "
+             "simile"),
+        ("daharo taruṇo komārako", "tender, young, freshly grown "
+             "&mdash; the condition of the sapling that bleeds "
+             "latex at the lightest cut, paired with unabandoned "
+             "greed, hate, and delusion"),
+        ("sukkho kolāpo terovassiko", "dried up, withered, and "
+             "decrepit for a year or more &mdash; the condition of "
+             "the tree that yields no latex at all, paired with "
+             "greed, hate, and delusion already given up"),
+        ("parittā cepi&hellip;āpāthaṁ āgacchanti pariyādiyantevassa "
+             "cittaṁ", "&ldquo;if even trivial [objects] come into "
+             "their range&hellip;they overcome their mind&rdquo; "
+             "&mdash; the discourse's own claim for the unabandoned "
+             "mind, and its mirror-image negation for the abandoned "
+             "one"),
+        ("ko pana vādo adhimattānaṁ", "&ldquo;let alone those that "
+             "are compelling&rdquo; (or, in the mirrored half, "
+             "&ldquo;let alone those that are trivial&rdquo;) "
+             "&mdash; the discourse's own a fortiori closing clause "
+             "for each half"),
+    ],
+    text_intro=("The complete discourse: the claim and simile for "
+        "the mind still gripped by greed, hate, and delusion, then "
+        "the mirrored claim and simile for the mind that has given "
+        "them up. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.231:1.1-3.3"),
+        ("p", "&sect;2", "sn35.231:4.1-5.3"),
+        ("p", "&sect;3", "sn35.231:6.1-7.3"),
+        ("p", "&sect;4", "sn35.231:8.1-9.8"),
+        ("p", "&sect;5", "sn35.231:10.1-12.3"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse make about a mendicant who still has unabandoned greed, hate, and delusion?",
+         "opts": ["Even trivial sense objects overcome their mind, let alone compelling ones", "Only the most compelling sense objects can overcome their mind", "Sense objects have no effect on such a mendicant either way", "The claim applies only to sights, not to any other sense field"],
+         "correct": 0,
+         "expl": "\"If even trivial sights come into their range of vision they overcome their mind, let alone those that are compelling.\""},
+        {"q": "Which four tree species does the simile name as latex-producing?",
+         "opts": ["Peepal, banyan, wavy leaf fig, and cluster fig", "Oak, pine, cedar, and willow", "Mango, jackfruit, banana, and coconut", "The simile names only a single, unspecified tree species"],
+         "correct": 0,
+         "expl": "Assattho, nigrodho, pilakkho, udumbaro — four named members of the fig family."},
+        {"q": "What single variable distinguishes the two halves of this simile's own tree?",
+         "opts": ["Whether the tree is young and sap-filled, or dried up and decrepit", "Whether the tree is tall or short", "Whether the tree grows near water or on dry land", "Whether the tree bears fruit or not"],
+         "correct": 0,
+         "expl": "Daharo taruṇo komārako (tender, young) versus sukkho kolāpo terovassiko (dried up, withered, decrepit)."},
+        {"q": "What claim does this discourse make about a mendicant who has already given up greed, hate, and delusion?",
+         "opts": ["Even compelling sense objects don't overcome their mind, let alone trivial ones", "Trivial sense objects still overcome their mind occasionally", "Such a mendicant no longer perceives sense objects at all", "The discourse makes no claim about this case"],
+         "correct": 0,
+         "expl": "The mirrored claim: \"If even compelling sights come into their range of vision they don't overcome their mind, let alone those that are trivial.\""},
+        {"q": "How does this discourse's own structure differ briefly from SN 35.228&ndash;230 just before it?",
+         "opts": ["It includes a short confirming exchange (\"would latex come out?\"...\"Yes, sir\") rather than pure monologue", "It is spoken entirely in verse, unlike the three discourses before it", "It names a specific interlocutor by name, unlike any discourse in this vagga so far", "It is set at a named location, unlike the discourses before it"],
+         "correct": 0,
+         "expl": "A brief question-and-answer moment breaks the otherwise solitary teaching, before the Buddha draws the parallel explicitly."},
+    ],
+    marginalia=[
+        ("Trivial enough to overcome", [
+            "if the latex is still there —",
+            "even a light cut draws it out",
+        ]),
+        ("Four named trees", [
+            "peepal, banyan, wavy fig, cluster fig —",
+            "chosen here only for their sap",
+        ]),
+        ("Young, or dried for years", [
+            "one variable carries the whole simile —",
+            "condition standing in for the mind",
+        ]),
+        ("A brief exchange, mid-monologue", [
+            "&ldquo;would latex come out?&rdquo; —",
+            "&ldquo;yes, sir&rdquo;, before the parallel is drawn",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.231/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.230.html">SN 35.230 &middot; The Simile of '
+        "the Angler</a> &mdash; the previous discourse.",
+        '<a href="sn-35.232.html">SN 35.232 &middot; With '
+        "Koṭṭhita</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.232 — Koṭṭhikasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 232, "Koṭṭhika", "With Koṭṭhita",
+    vagga="Samuddavagga",
+    meta_title="SN 35.232 &mdash; With Koṭṭhita | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Koṭṭhikasutta &mdash; Sāriputta and Mahākoṭṭhita on "
+        "whether the eye is the fetter of sights, resolved with the "
+        "same ox-yoke simile this site already published in the "
+        "Cittasaṃyutta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Varanasi, in the deer park at Isipatana"),
+        ("Speakers", "The venerables Mahākoṭṭhita, asking, and "
+                      "Sāriputta, answering"),
+        ("Form", "A question-and-answer dialogue between two senior "
+                 "disciples, resolved by a simile and closed with a "
+                 "description of the Buddha's own freed mind"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "a precise philosophical distinction, worth "
+                       "reading slowly"),
+    ],
+    why=(
+        "This discourse asks a question this project has already "
+        "seen answered once before, almost word for word, in a "
+        "different saṃyutta entirely: is the eye the fetter of "
+        "sights, or are sights the fetter of the eye &mdash; and the "
+        "same for ear, nose, tongue, body, and mind? Mahākoṭṭhita "
+        "puts the question to Sāriputta at Isipatana; Sāriputta "
+        "answers, and then illustrates the answer, with the "
+        "identical simile already published on this site at the "
+        "opening of the Cittasaṃyutta (SN 41.1, &ldquo;The "
+        "Fetter&rdquo;): a black ox and a white ox yoked by a single "
+        "harness are not each other's fetter &mdash; the fetter is "
+        "the harness itself, the single thing binding the pair "
+        "together. Applied back to the six sense fields, neither the "
+        "eye nor sights is the fetter of the other; the fetter is "
+        "the desire and greed (chandarāga) that arises dependent on "
+        "the pair of them together. The discourse closes by applying "
+        "this to the Buddha himself: he has an eye, sees a sight "
+        "with it, hears, smells, tastes, touches, and knows ideas "
+        "with the rest &mdash; but has no desire and greed, and so "
+        "his mind is well freed."
+    ),
+    guide=[
+        ("A question, and a simile, met once before on this site",
+         [
+            "SN 41.1, opening the Cittasaṃyutta, already gives this "
+            "exact question and this exact ox-yoke simile on this "
+            "site, there argued between the householder Citta and "
+            "the mendicant Isidatta rather than between two senior "
+            "monks. This is the second time this project has "
+            "published the identical simile settling the identical "
+            "question, carried across two different saṃyuttas by "
+            "two entirely different pairs of speakers.",
+        ]),
+        ("Neither side of the pair, but what arises between them",
+         [
+            "Sāriputta's answer refuses both halves of Mahākoṭṭhita's "
+            "either-or question outright: not the eye, not sights "
+            "&mdash; the fetter is &ldquo;the desire and greed that "
+            "arises from the pair of them,&rdquo; run identically "
+            "for all six sense fields.",
+        ]),
+        ("Black ox, white ox, one harness", [
+            "The simile is exact: a black ox and a white ox yoked "
+            "by a single harness or yoke are not each other's "
+            "fetter. Neither ox binds the other; the single harness "
+            "binding both of them is the fetter. Sāriputta then "
+            "restates the six-fold sense-field claim in exactly "
+            "this same shape.",
+        ]),
+        ("Why the distinction matters: the spiritual life itself", [
+            "Sāriputta goes further than simply restating the "
+            "answer: if the eye actually were the fetter of sights, "
+            "or sights the fetter of the eye, then living the "
+            "spiritual life for the complete ending of suffering "
+            "would not be found at all &mdash; because the senses "
+            "and their objects can never be eliminated, only the "
+            "craving that arises dependent on them. The discourse "
+            "then closes on the Buddha himself, who still sees, "
+            "hears, and thinks, but without that craving, his mind "
+            "well freed.",
+        ]),
+    ],
+    terms=[
+        ("saṁyojanaṁ", "the fetter &mdash; the term Mahākoṭṭhita's "
+             "own question turns on, asked of the eye and sights and "
+             "each of the remaining five sense-field pairs"),
+        ("yañca tattha tadubhayaṁ paṭicca uppajjati chandarāgo taṁ "
+             "tattha saṁyojanaṁ", "&ldquo;the fetter there is the "
+             "desire and greed that arises from the pair of "
+             "them&rdquo; &mdash; Sāriputta's own answer, repeated "
+             "for all six sense fields"),
+        ("kāḷo ca balībaddo odāto ca balībaddo&hellip;dāmena vā "
+             "yottena vā saṁyuttā", "a black ox and a white ox yoked "
+             "by a single harness or yoke &mdash; the simile "
+             "identical to the one already published on this site "
+             "at SN 41.1"),
+        ("nayidaṁ brahmacariyavāso paññāyetha sammā dukkhakkhayāya",
+             "&ldquo;this living of the spiritual life for the "
+             "complete ending of suffering would not be found"
+             "&rdquo; &mdash; the stakes Sāriputta names for getting "
+             "this distinction wrong"),
+        ("chandarāgo bhagavato natthi&hellip;suvimuttacitto bhagavā",
+             "&ldquo;he has no desire and greed&hellip;his mind is "
+             "well freed&rdquo; &mdash; the discourse's own closing "
+             "description of the Buddha, who still senses but does "
+             "not crave"),
+    ],
+    text_intro=("The complete discourse: Mahākoṭṭhita's question, "
+        "Sāriputta's answer, the ox-yoke simile applied and "
+        "restated, and the closing description of the Buddha's own "
+        "freed mind. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.232:1.1-2.3"),
+        ("p", "&sect;2", "sn35.232:3.1-3.6"),
+        ("p", "&sect;3", "sn35.232:4.1-4.6"),
+        ("p", "&sect;4", "sn35.232:5.1-8.3"),
+        ("p", "&sect;5", "sn35.232:9.1-9.5"),
+        ("p", "&sect;6", "sn35.232:10.1-10.24"),
+        ("p", "&sect;7", "sn35.232:11.1-11.9"),
+    ],
+    quiz=[
+        {"q": "What question does Mahākoṭṭhita put to Sāriputta, run for all six sense fields?",
+         "opts": ["Whether the sense faculty is the fetter of its object, or the object is the fetter of the faculty", "Whether the sense faculties are permanent or impermanent", "Whether the Buddha himself still has sense faculties at all", "Whether craving arises before or after contact"],
+         "correct": 0,
+         "expl": "\"Is the eye the fetter of sights, or are sights the fetter of the eye?\" — and the same for the remaining five fields."},
+        {"q": "What does Sāriputta identify as the actual fetter, refusing both halves of the either-or question?",
+         "opts": ["The desire and greed (chandarāga) that arises dependent on the pair of them together", "The eye alone, regardless of its objects", "The object alone, regardless of the faculty perceiving it", "Neither the faculty nor the object nor anything arising from them"],
+         "correct": 0,
+         "expl": "\"The fetter there is the desire and greed that arises from the pair of them\" — repeated for all six fields."},
+        {"q": "Where has this project already published the identical simile Sāriputta uses here?",
+         "opts": ["SN 41.1, opening the Cittasaṃyutta, already published on this site", "SN 12.1, opening the Nidānasaṃyutta", "This discourse is the simile's first appearance anywhere on this site", "SN 22.1, opening the Khandhasaṃyutta"],
+         "correct": 0,
+         "expl": "SN 41.1 already gives the identical black-ox/white-ox/single-harness simile, there argued between Citta and Isidatta."},
+        {"q": "What does Sāriputta say would follow if the eye actually were the fetter of sights, or sights the fetter of the eye?",
+         "opts": ["Living the spiritual life for the complete ending of suffering would not be found", "The Buddha would never have attained awakening", "Sense contact itself would become impossible", "Nothing would follow; the distinction is purely academic"],
+         "correct": 0,
+         "expl": "Because the senses and their objects can never be eliminated outright — only the craving arising dependent on them can."},
+        {"q": "How does this discourse describe the Buddha's own relationship to the six senses?",
+         "opts": ["He still sees, hears, smells, tastes, touches, and knows ideas, but has no desire and greed, so his mind is well freed", "He has transcended having any sense faculties at all", "He has sense faculties but deliberately never uses them", "The discourse does not describe the Buddha's own case"],
+         "correct": 0,
+         "expl": "\"The Buddha has an eye...with which he sees a sight. But he has no desire and greed, for his mind is well freed.\""},
+    ],
+    marginalia=[
+        ("A question met once before", [
+            "the same fetter, asked again —",
+            "this time between two monks",
+        ]),
+        ("Not the eye, not the sight", [
+            "the fetter is what arises between them —",
+            "desire and greed, dependent on the pair",
+        ]),
+        ("One harness, two oxen", [
+            "the identical simile, SN 41.1 —",
+            "carried into a different saṃyutta",
+        ]),
+        ("Senses intact, craving gone", [
+            "the Buddha still sees and hears —",
+            "well freed, without desire",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.232/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.231.html">SN 35.231 &middot; The Simile of '
+        "the Latex-Producing Tree</a> &mdash; the previous "
+        "discourse.",
+        '<a href="sn-35.233.html">SN 35.233 &middot; With '
+        "Kāmabhū</a> &mdash; the next discourse, restating this "
+        "same dialogue between different speakers.",
+        '<a href="sn-41.1.html">SN 41.1 &middot; The Fetter</a> '
+        "&mdash; already published on this site, the identical "
+        "question and ox-yoke simile, there argued between the "
+        "householder Citta and the mendicant Isidatta.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.233 — Kāmabhūsutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 233, "Kāmabhū", "With Kāmabhū",
+    vagga="Samuddavagga",
+    meta_title="SN 35.233 &mdash; With Kāmabhū | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Kāmabhūsutta &mdash; the identical fetter question "
+        "and ox-yoke simile as SN 35.232, restated word for word "
+        "between Ānanda and Kāmabhū. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Kosambī, in Ghosita's Monastery"),
+        ("Speakers", "The venerable Kāmabhū, asking, and Ānanda, "
+                      "answering"),
+        ("Form", "The identical question-and-answer dialogue and "
+                 "simile as SN 35.232, restated with a new pair of "
+                 "speakers and no closing description of the "
+                 "Buddha"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the same content as SN 35.232, in more "
+                       "compressed form"),
+    ],
+    why=(
+        "This discourse restates SN 35.232 almost word for word "
+        "&mdash; the identical question about whether the eye is "
+        "the fetter of sights, the identical answer naming "
+        "chandarāga as the true fetter, and the identical black-ox, "
+        "white-ox, single-harness simile &mdash; but moves the scene "
+        "from Isipatana to Ghosita's Monastery near Kosambī and "
+        "swaps the speakers: here it is Kāmabhū who asks, and Ānanda "
+        "who answers. This discourse is more compressed than SN "
+        "35.232, omitting both the counterfactual argument about "
+        "what would follow if the fetter claim were reversed and the "
+        "closing description of the Buddha's own freed mind."
+    ),
+    guide=[
+        ("The same dialogue, different speakers", [
+            "Every element of SN 35.232's own dialogue recurs here "
+            "unchanged in substance: the either-or question about "
+            "the eye and sights, the chandarāga answer, and the "
+            "ox-yoke simile. Only the setting (Ghosita's Monastery "
+            "rather than Isipatana) and the speakers (Kāmabhū and "
+            "Ānanda rather than Mahākoṭṭhita and Sāriputta) change.",
+        ]),
+        ("A shorter telling", [
+            "This discourse omits two elements SN 35.232 included: "
+            "the counterfactual argument that the spiritual life "
+            "for the ending of suffering would not be found if the "
+            "fetter claim ran the other way, and the closing "
+            "description of the Buddha's own sensing-but-unfettered "
+            "mind. The core question, answer, and simile stand "
+            "alone.",
+        ]),
+        ("A pattern already met in this project", [
+            "The same teaching restated between different named "
+            "speakers, with only setting and cast changed, is a "
+            "pattern this project has already met more than once "
+            "&mdash; most recently, for example, in Book III's own "
+            "Kukkuḷavagga and in this book's own earlier vaggas, "
+            "where identical formulas recur across successive "
+            "discourses.",
+        ]),
+        ("A third telling to follow", [
+            "This is the second of three consecutive dialogues in "
+            "Samuddavagga built on questions between named senior "
+            "disciples &mdash; the third, SN 35.234 immediately "
+            "following, keeps the Kosambī setting and the same pair "
+            "of speakers who feature here, but turns to a different "
+            "question entirely.",
+        ]),
+    ],
+    terms=[
+        ("saṁyojanaṁ", "the fetter &mdash; Kāmabhū's own question to "
+             "Ānanda, identical in wording to Mahākoṭṭhita's "
+             "question to Sāriputta in SN 35.232"),
+        ("yañca tattha tadubhayaṁ paṭicca uppajjati chandarāgo, taṁ "
+             "tattha saṁyojanaṁ", "&ldquo;the fetter there is the "
+             "desire and greed that arises from the pair of "
+             "them&rdquo; &mdash; Ānanda's answer, word for word "
+             "identical to Sāriputta's in SN 35.232"),
+        ("kāḷo ca balībaddo odāto ca balībaddo", "a black ox and a "
+             "white ox &mdash; the simile repeated unchanged from "
+             "SN 35.232 and from the already-published SN 41.1"),
+        ("evameva kho, āvuso, na cakkhu rūpānaṁ saṁyojanaṁ",
+             "&ldquo;in the same way, reverend, the eye is not the "
+             "fetter of sights&rdquo; &mdash; the simile's own "
+             "application back to the six sense fields, given here "
+             "in more compressed form than SN 35.232's"),
+        ("ghositārāme", "Ghosita's Monastery &mdash; the setting "
+             "near Kosambī shared by this discourse and the two "
+             "following it, SN 35.234 and beyond"),
+    ],
+    text_intro=("The complete discourse: Kāmabhū's question, "
+        "Ānanda's answer, and the ox-yoke simile applied. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.233:1.1-2.3"),
+        ("p", "&sect;2", "sn35.233:3.1-3.5"),
+        ("p", "&sect;3", "sn35.233:4.1-4.10"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own content compare to SN 35.232's?",
+         "opts": ["It restates the identical question, answer, and simile, with a new setting and new speakers", "It reaches the opposite conclusion, arguing the eye is the fetter after all", "It introduces an entirely new simile unrelated to oxen and yokes", "It has no connection to SN 35.232 beyond sharing this vagga"],
+         "correct": 0,
+         "expl": "The same fetter question, the same chandarāga answer, and the same ox-yoke simile, restated between Kāmabhū and Ānanda."},
+        {"q": "Who asks the question in this discourse, and who answers?",
+         "opts": ["Kāmabhū asks; Ānanda answers", "Mahākoṭṭhita asks; Sāriputta answers", "Sāriputta asks; Mahākoṭṭhita answers", "The Buddha himself both asks and answers"],
+         "correct": 0,
+         "expl": "The roles from SN 35.232 (Koṭṭhita asking, Sāriputta answering) are replaced by Kāmabhū asking and Ānanda answering."},
+        {"q": "What two elements does this discourse omit that SN 35.232 included?",
+         "opts": ["The counterfactual argument about the spiritual life, and the closing description of the Buddha's own freed mind", "The ox-yoke simile itself", "The initial either-or question about the eye and sights", "The setting near Kosambī"],
+         "correct": 0,
+         "expl": "This discourse is more compressed, giving the core question, answer, and simile without SN 35.232's extra material."},
+        {"q": "Where is this discourse set, compared to SN 35.232?",
+         "opts": ["Near Kosambī, in Ghosita's Monastery, rather than Isipatana near Varanasi", "In the same location as SN 35.232, Isipatana", "At Sāvatthī, the setting most common across this book", "The discourse does not name a setting at all"],
+         "correct": 0,
+         "expl": "SN 35.232 is set at Isipatana's deer park; this discourse moves to Ghosita's Monastery near Kosambī."},
+        {"q": "What pattern does this reading guide identify in this discourse's own restatement of SN 35.232?",
+         "opts": ["The same teaching recurring between different named speakers, a pattern this project has met before", "A pattern unique to this discourse, not seen anywhere else in this project", "A scribal error, duplicating the previous discourse by mistake", "A parody or deliberate misquotation of the previous discourse"],
+         "correct": 0,
+         "expl": "This reading guide notes the pattern honestly as a recognized recurring device, not an anomaly."},
+    ],
+    marginalia=[
+        ("The same dialogue again", [
+            "question, answer, simile unchanged —",
+            "only the speakers are new",
+        ]),
+        ("Kosambī, not Isipatana", [
+            "Ghosita's Monastery, this time —",
+            "the setting this vagga returns to next",
+        ]),
+        ("Shorter than before", [
+            "no counterfactual, no closing Buddha —",
+            "the core alone, restated",
+        ]),
+        ("A pattern already known", [
+            "identical teaching, different names —",
+            "this project has met it before",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.233/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.232.html">SN 35.232 &middot; With '
+        "Koṭṭhita</a> &mdash; the previous discourse, giving the "
+        "fuller telling of this same dialogue.",
+        '<a href="sn-35.234.html">SN 35.234 &middot; With '
+        "Udāyī</a> &mdash; the next discourse, keeping the Kosambī "
+        "setting and Ānanda as a speaker, turning to a new "
+        "question.",
+        '<a href="sn-41.1.html">SN 41.1 &middot; The Fetter</a> '
+        "&mdash; already published on this site, the same ox-yoke "
+        "simile's first appearance on this project.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.234 — Udāyīsutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 234, "Udāyī", "With Udāyī",
+    vagga="Samuddavagga",
+    meta_title="SN 35.234 &mdash; With Udāyī | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Udāyīsutta &mdash; can consciousness be explained "
+        "as not-self the way the body already has been? Ānanda "
+        "answers with dependent origination and the same banana-"
+        "trunk simile this site already published for choices in "
+        "SN 22.95. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Kosambī, in Ghosita's Monastery"),
+        ("Speakers", "The venerable Udāyī, asking, and Ānanda, "
+                      "answering"),
+        ("Form", "A question extending an already-established "
+                 "not-self argument to consciousness, answered "
+                 "through dependent origination and closed with a "
+                 "simile"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "a genuinely subtle argument, worth reading "
+                       "twice"),
+    ],
+    why=(
+        "Udāyī poses a question to Ānanda at Ghosita's Monastery: "
+        "the Buddha has explained, in many ways, how the body is "
+        "not-self &mdash; can consciousness be explained the same "
+        "way? Ānanda answers yes, but not by repeating the body's "
+        "own argument (typically an appeal to impermanence); instead "
+        "he reasons through dependent origination directly. Eye "
+        "consciousness arises dependent on the eye and sights; if "
+        "the cause and condition giving rise to it were to totally "
+        "and utterly cease, would eye consciousness still be found? "
+        "No. That itself, Ānanda says, is a way to understand how "
+        "consciousness is not-self &mdash; run the same way for ear, "
+        "nose, tongue, body, and mind consciousness. Ānanda then "
+        "closes with a simile this project has already published on "
+        "this site, applied there to a different aggregate entirely: "
+        "someone searching for heartwood cuts down a banana trunk, "
+        "cuts off its base and top, unrolls its coiled sheaths "
+        "&mdash; and finds no sapwood, much less heartwood. So too a "
+        "mendicant sees the six fields of contact as neither self "
+        "nor belonging to self."
+    ),
+    guide=[
+        ("Not-self by causation, not by impermanence directly", [
+            "Ānanda's argument does not simply repeat &ldquo;"
+            "consciousness is impermanent, therefore not-self&rdquo; "
+            "&mdash; it reasons through dependent arising: "
+            "consciousness depends on a cause and condition; if that "
+            "cause and condition were to cease totally and without "
+            "remainder, consciousness would not be found; therefore "
+            "consciousness, being conditioned and dependent, is "
+            "not-self.",
+        ]),
+        ("The same question, six times, compressed", [
+            "The dependent-origination argument is run explicitly "
+            "for eye consciousness and mind consciousness, with ear, "
+            "nose, tongue, and body consciousness compressed between "
+            "them by bilara-data's own peyyāla marker &mdash; the "
+            "identical eye&hellip;tongue&hellip;mind compression "
+            "pattern this vagga's own SN 35.228 already used.",
+        ]),
+        ("A simile already published on this site, for a different "
+         "aggregate", [
+            "The banana-trunk-with-no-heartwood simile closing this "
+            "discourse is not new to this project: SN 22.95, already "
+            "on this site, uses the identical image &mdash; word for "
+            "word, down to cutting the base, cutting the top, and "
+            "unrolling the coiled sheaths &mdash; but applies it "
+            "there to saṅkhāra (choices, formations), one of five "
+            "similes given in sequence for the five aggregates. Here "
+            "the same simile stands alone, applied instead to the "
+            "six fields of contact directly, in a dialogue rather "
+            "than a catalog.",
+        ]),
+        ("Not grasping, not anxious, personally extinguished", [
+            "The discourse's own closing sequence &mdash; seeing the "
+            "six fields of contact as neither self nor belonging to "
+            "self, therefore grasping nothing in the world, "
+            "therefore free of anxiety, therefore personally "
+            "extinguished &mdash; ends on the standard closing "
+            "formula for full awakening, identical in form to "
+            "countless other closings across this project.",
+        ]),
+    ],
+    terms=[
+        ("kāyo&hellip;anattā", "the body&hellip;not-self &mdash; "
+             "Udāyī's own starting point, an argument the Buddha has "
+             "already made &ldquo;in many ways&rdquo; before this "
+             "discourse opens"),
+        ("cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ",
+             "&ldquo;eye consciousness arises dependent on the eye "
+             "and sights&rdquo; &mdash; Ānanda's own opening premise "
+             "for the dependent-origination argument, run for all "
+             "six kinds of consciousness"),
+        ("yo hetu, yo paccayo&hellip;sabbena sabbaṁ sabbathā sabbaṁ "
+             "aparisesaṁ nirujjheyya", "&ldquo;if the cause and "
+             "reason&hellip;were to totally and utterly cease "
+             "without remainder&rdquo; &mdash; the counterfactual "
+             "test at the center of Ānanda's argument for "
+             "consciousness's own not-self status"),
+        ("sāratthiko sāragavesī&hellip;kadalikkhandhaṁ&hellip;pheggum"
+             "pi nādhigaccheyya, kuto sāraṁ", "one in need of "
+             "heartwood, cutting down a banana trunk&hellip;finding "
+             "not even sapwood, much less heartwood &mdash; the "
+             "identical simile already published on this site at SN "
+             "22.95, there applied to choices rather than to the six "
+             "fields of contact"),
+        ("chasu phassāyatanesu nevattānaṁ na attaniyaṁ samanupassati",
+             "&ldquo;sees these six fields of contact as neither "
+             "self nor belonging to self&rdquo; &mdash; the "
+             "discourse's own application of the simile, leading "
+             "directly to the closing liberation formula"),
+    ],
+    text_intro=("The complete discourse: Udāyī's question, Ānanda's "
+        "dependent-origination argument for consciousness, and the "
+        "banana-trunk simile closing on full awakening. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.234:1.1-2.2"),
+        ("p", "&sect;2", "sn35.234:3.1-3.2"),
+        ("p", "&sect;3", "sn35.234:4.1-6.5"),
+        ("p", "&sect;4", "sn35.234:7.1-7.5"),
+    ],
+    quiz=[
+        {"q": "What question does Udāyī put to Ānanda, extending an argument the Buddha has already made about the body?",
+         "opts": ["Whether consciousness can likewise be explained as not-self", "Whether the body is actually self after all, reversing the Buddha's teaching", "Whether consciousness is permanent or impermanent", "Whether the six sense fields are real or illusory"],
+         "correct": 0,
+         "expl": "\"Is it possible to explain consciousness in the same way? ...how consciousness is not-self?\""},
+        {"q": "What kind of argument does Ānanda use to establish that consciousness is not-self, rather than simply repeating an appeal to impermanence?",
+         "opts": ["A dependent-origination argument: if the cause and condition for consciousness's arising ceased totally, consciousness would not be found", "An argument from consciousness's supposed unchanging permanence", "An argument that consciousness cannot be perceived at all", "Ānanda declines to answer, deferring the question to the Buddha"],
+         "correct": 0,
+         "expl": "Ānanda reasons through dependent arising directly: consciousness depends on cause and condition, so it cannot be self."},
+        {"q": "Where has this project already published the identical banana-trunk-with-no-heartwood simile that closes this discourse?",
+         "opts": ["SN 22.95, already on this site, there applied to choices (saṅkhāra) as one of five similes for the five aggregates", "This is the simile's first appearance anywhere on this site", "SN 12.1, opening the Nidānasaṃyutta", "SN 1.10, closing Naḷavagga in Book I"],
+         "correct": 0,
+         "expl": "SN 22.95 uses the identical image, word for word, but applies it there to saṅkhāra within a catalog of five aggregate similes."},
+        {"q": "How does this discourse apply the banana-trunk simile differently from SN 22.95?",
+         "opts": ["It applies the single simile to the six fields of contact directly, in a dialogue rather than a five-part catalog", "It applies the simile identically, with no difference at all", "It reverses the simile's meaning entirely", "It applies the simile only to consciousness, excluding the other five fields"],
+         "correct": 0,
+         "expl": "Here the simile stands alone, applied to the six fields of contact, rather than one entry in SN 22.95's own sequence of five."},
+        {"q": "What sequence closes this discourse, following the application of the simile?",
+         "opts": ["Not grasping anything in the world, therefore free of anxiety, therefore personally extinguished", "A report that a thousand mendicants attained awakening on the spot", "An unresolved debate, left open for the reader", "A request from Udāyī for further clarification"],
+         "correct": 0,
+         "expl": "\"They don't grasp anything in the world. Not grasping, they're not anxious. Not being anxious, they personally become extinguished.\""},
+    ],
+    marginalia=[
+        ("A question extending an argument", [
+            "the body already shown not-self —",
+            "can consciousness be shown the same way?",
+        ]),
+        ("Cause ceases, consciousness ceases", [
+            "not impermanence directly argued —",
+            "dependent arising itself, the proof",
+        ]),
+        ("A simile met once before", [
+            "SN 22.95's own banana trunk —",
+            "no heartwood, there or here",
+        ]),
+        ("From simile to extinguishing", [
+            "neither self nor self's belonging —",
+            "grasping nothing, personally extinguished",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.234/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.233.html">SN 35.233 &middot; With '
+        "Kāmabhū</a> &mdash; the previous discourse, keeping the "
+        "Kosambī setting.",
+        '<a href="sn-35.235.html">SN 35.235 &middot; The Exposition '
+        "on Burning</a> &mdash; the next discourse.",
+        '<a href="sn-22.95.html">SN 22.95 &middot; A Lump of Foam '
+        "&mdash; Five Similes for the Five Aggregates</a> &mdash; "
+        "already published on this site, the identical banana-trunk "
+        "simile's first appearance, there applied to choices "
+        "(saṅkhāra) rather than to the six fields of contact.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.235 — Ādittapariyāyasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 235, "Ādittapariyāya", "The Exposition on Burning",
+    vagga="Samuddavagga",
+    meta_title="SN 35.235 &mdash; The Exposition on Burning | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Ādittapariyāyasutta &mdash; not to be confused with "
+        "the famous Fire Sermon already published on this site at "
+        "SN 35.28, a different discourse sharing only the word "
+        "&ldquo;burning.&rdquo; From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A hyperbolic comparison &mdash; self-mutilation "
+                 "preferred to sensory entanglement &mdash; followed "
+                 "by the noble disciple's own actual response: "
+                 "reflection on impermanence"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "vivid and startling in its opening image, "
+                       "but its actual instruction is straightforward"),
+    ],
+    why=(
+        "This discourse shares a single word with SN 35.28, already "
+        "published on this site as &ldquo;Burning&rdquo; and known "
+        "far outside Buddhist circles as &ldquo;The Fire Sermon"
+        "&rdquo; &mdash; and nothing else. SN 35.28 declares that "
+        "everything experienced through the six senses is burning "
+        "with the fires of greed, hatred, and delusion, and with "
+        "birth, aging, and death themselves; this discourse, whose "
+        "own title Sujato renders &ldquo;the exposition on burning,"
+        "&rdquo; instead argues by hyperbole: you would be better "
+        "off mutilating each sense faculty with a red-hot iron than "
+        "getting caught up in the features and details of what that "
+        "faculty perceives, because dying with consciousness still "
+        "tied to that gratification risks rebirth in hell or the "
+        "animal realm. The two discourses are entirely distinct "
+        "texts, and this reading guide keeps them carefully "
+        "separate rather than treating their shared vocabulary as "
+        "evidence of any relationship."
+    ),
+    guide=[
+        ("Not the Fire Sermon", [
+            "This discourse's own Pali title, ādittapariyāya, "
+            "literally &ldquo;the exposition on burning,&rdquo; "
+            "shares its root word with SN 35.28's āditta "
+            "(&ldquo;burning&rdquo;) &mdash; but the two discourses "
+            "make entirely different claims. SN 35.28 says "
+            "everything is burning, right now, with greed, hatred, "
+            "and delusion. This discourse instead compares getting "
+            "entangled in sense objects unfavorably to a specific "
+            "act of physical self-harm, using &ldquo;burning&rdquo; "
+            "only to describe the red-hot instrument in its own "
+            "hyperbolic image, not the senses themselves.",
+        ]),
+        ("A hyperbole, not an instruction to self-harm", [
+            "The discourse's own repeated formula &mdash; &ldquo;"
+            "you'd be better off mutilating your eye faculty with a "
+            "red-hot iron nail&hellip;than getting caught up in the "
+            "features&hellip;in sights known by the eye&rdquo; "
+            "&mdash; is a comparative, not a literal command: its "
+            "own logic is that self-mutilation, though itself "
+            "terrible, causes at most a single painful death, while "
+            "dying still gripped by gratification in sense-object "
+            "details risks a far worse outcome, rebirth in hell or "
+            "the animal realm.",
+        ]),
+        ("A striking aside on sleep", [
+            "Before turning to the noble disciple's own actual "
+            "response, the discourse adds a stark claim of its own: "
+            "&ldquo;you'd be better off sleeping&rdquo; than falling "
+            "under the sway of thoughts that would cause a schism "
+            "in the Saṅgha &mdash; even though sleep itself is "
+            "called useless, fruitless, and folly for the living. "
+            "This reading guide notes the claim as written, without "
+            "speculating about which historical episode, if any, "
+            "prompted it.",
+        ]),
+        ("What the noble disciple actually does instead", [
+            "Having named the hyperbolic alternative and set it "
+            "aside twelve times over (&ldquo;forget mutilating the "
+            "eye faculty&hellip;&rdquo;), the discourse turns to "
+            "what a learned noble disciple actually does: reflect "
+            "that the faculty, its object, its consciousness, its "
+            "contact, and the feeling arising from that contact are "
+            "all impermanent &mdash; run for all six sense doors "
+            "&mdash; leading directly to disillusionment, dispassion, "
+            "and liberation.",
+        ]),
+    ],
+    terms=[
+        ("ādittapariyāyo, dhammapariyāyo", "&ldquo;the exposition on "
+             "burning, the exposition of the teaching&rdquo; "
+             "&mdash; this discourse's own title and self-"
+             "description, not to be confused with SN 35.28's "
+             "Ādittasutta, &ldquo;the Fire Sermon,&rdquo; already "
+             "published on this site"),
+        ("varaṁ&hellip;sampalimaṭṭhaṁ, na tveva&hellip;anubyañjanaso "
+             "nimittaggāho", "&ldquo;you'd be better off mutilating "
+             "&hellip;than getting caught up in the features by way "
+             "of the details&rdquo; &mdash; the discourse's own "
+             "repeated hyperbolic comparison, run for all six sense "
+             "faculties"),
+        ("nirayaṁ vā, tiracchānayoniṁ vā", "hell or the animal realm "
+             "&mdash; the two destinations risked by dying with "
+             "consciousness still tied to gratification in a sense "
+             "object's features or details"),
+        ("varaṁ, bhikkhave, sottaṁ", "&ldquo;you'd be better off "
+             "sleeping&rdquo; &mdash; a striking aside preferring "
+             "sleep, itself called useless and fruitless for the "
+             "living, over thoughts that would cause a schism in "
+             "the Saṅgha"),
+        ("iti cakkhu aniccaṁ, rūpā aniccā, cakkhuviññāṇaṁ aniccaṁ,"
+             " cakkhusamphasso anicco", "&ldquo;the eye, sights, eye "
+             "consciousness, and eye contact are impermanent&rdquo; "
+             "&mdash; the noble disciple's own actual reflection, "
+             "replacing the hyperbolic alternative, run for all six "
+             "sense doors"),
+    ],
+    text_intro=("The complete discourse: the hyperbolic comparison "
+        "for all six sense faculties, the aside on sleep, and the "
+        "noble disciple's own reflection on impermanence leading to "
+        "liberation. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.235:1.1-1.7"),
+        ("p", "&sect;2", "sn35.235:2.1-5.5"),
+        ("p", "&sect;3", "sn35.235:6.1-6.3"),
+        ("p", "&sect;4", "sn35.235:7.1-9.3"),
+        ("p", "&sect;5", "sn35.235:10.1-12.3"),
+        ("p", "&sect;6", "sn35.235:13.1-13.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 35.28, the famous &ldquo;Fire Sermon&rdquo; already published on this site?",
+         "opts": ["They are entirely distinct discourses sharing only the word &ldquo;burning&rdquo; in their titles", "This discourse is a longer, expanded version of SN 35.28", "SN 35.28 is a summary of this discourse", "They are the same discourse under two different sutta numbers"],
+         "correct": 0,
+         "expl": "This reading guide keeps the two carefully separate rather than treating their shared vocabulary as a relationship."},
+        {"q": "What comparison does this discourse's own repeated formula make?",
+         "opts": ["You'd be better off mutilating a sense faculty with a red-hot iron than getting caught up in the features and details of what it perceives", "You'd be better off never using your senses at all under any circumstance", "You'd be better off avoiding all human contact entirely", "The discourse makes no such comparison, only describing burning directly"],
+         "correct": 0,
+         "expl": "The comparative logic: self-mutilation is terrible, but dying gripped by gratification in sense-object details risks something worse."},
+        {"q": "What two destinations does this discourse say are risked by dying with consciousness still tied to gratification in sense-object details?",
+         "opts": ["Hell or the animal realm", "An unfavorable human rebirth only", "Permanent unconsciousness", "The discourse does not specify any destination"],
+         "correct": 0,
+         "expl": "Nirayaṁ vā, tiracchānayoniṁ vā — hell or the animal realm."},
+        {"q": "What striking aside does this discourse make about sleep?",
+         "opts": ["You'd be better off sleeping than falling under the sway of thoughts that would cause a schism in the Saṅgha, even though sleep itself is called useless and fruitless", "Sleep is praised as the ideal state for attaining awakening", "Sleep is condemned outright with no qualification at all", "The discourse does not mention sleep"],
+         "correct": 0,
+         "expl": "A rare aside: sleep is called useless and fruitless, yet still preferable to Saṅgha-splitting thoughts."},
+        {"q": "What does the noble disciple actually do, in place of the hyperbolic self-mutilation the discourse names and sets aside?",
+         "opts": ["Reflects that the faculty, its object, its consciousness, its contact, and the resulting feeling are all impermanent", "Follows through on the self-mutilation literally", "Seeks out a teacher to resolve the dilemma", "The discourse leaves this unanswered"],
+         "correct": 0,
+         "expl": "\"Forget mutilating the eye faculty...I'd better focus on the fact that the eye, sights, eye consciousness, and eye contact are impermanent.\""},
+    ],
+    marginalia=[
+        ("A shared word, not a shared text", [
+            "&ldquo;burning&rdquo; in both titles —",
+            "SN 35.28 is a different discourse",
+        ]),
+        ("Hyperbole, not instruction", [
+            "better a hot iron than clinging —",
+            "the comparison, not a command",
+        ]),
+        ("Sleep, useless yet preferred", [
+            "better off sleeping, even so —",
+            "than thoughts that split the Saṅgha",
+        ]),
+        ("What the noble disciple does instead", [
+            "forget the hot iron entirely —",
+            "impermanence, reflected on directly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.235/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.234.html">SN 35.234 &middot; With '
+        "Udāyī</a> &mdash; the previous discourse.",
+        '<a href="sn-35.236.html">SN 35.236 &middot; The Simile of '
+        "Hands and Feet (1st)</a> &mdash; the next discourse.",
+        '<a href="sn-35.28.html">SN 35.28 &middot; Burning</a> '
+        "&mdash; already published on this site, the famous "
+        "&ldquo;Fire Sermon,&rdquo; a genuinely distinct discourse "
+        "sharing only the word &ldquo;burning&rdquo; with this one.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.236 — Paṭhamahatthapādopamasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 236, "Paṭhamahatthapādopama", "The Simile of Hands and Feet "
+    "(1st)",
+    vagga="Samuddavagga",
+    meta_title="SN 35.236 &mdash; The Simile of Hands and Feet "
+                "(1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Paṭhamahatthapādopamasutta &mdash; hands, feet, "
+        "joints, and belly as a structural, not causal, image for "
+        "how the mere presence of a sense faculty makes feeling "
+        "possible. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A fourfold bodily simile (hands, feet, joints, "
+                 "belly) applied directly to the presence or "
+                 "absence of the sense faculties, in two mirrored "
+                 "halves"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and immediately graspable"),
+    ],
+    why=(
+        "This discourse's own simile is disarmingly concrete: when "
+        "there are hands, picking up and putting down are found; "
+        "when there are feet, coming and going are found; when "
+        "there are joints, contracting and extending are found; "
+        "when there's a belly, hunger and thirst are found. None of "
+        "this is a causal claim in the usual sense &mdash; hands "
+        "don't produce picking-up the way a fire produces smoke; "
+        "picking-up simply cannot occur, structurally, without "
+        "hands to do it. The discourse then applies exactly this "
+        "structural logic to the six senses: when there's an eye, "
+        "pleasure and pain arise internally, conditioned by "
+        "eye-contact &mdash; and when there's no eye, they don't. "
+        "The mere existence of the faculty is what makes the arising "
+        "of feeling possible at all, run for all six sense doors in "
+        "both a positive and a negative direction."
+    ),
+    guide=[
+        ("A structural image, not a causal chain", [
+            "The four-part bodily simile &mdash; hands, feet, "
+            "joints, belly &mdash; each names an anatomical part "
+            "whose mere presence or absence determines whether a "
+            "certain kind of activity or experience is even "
+            "possible, not one that actively causes it moment to "
+            "moment. The discourse transfers this same "
+            "possibility-condition logic to the sense faculties "
+            "themselves.",
+        ]),
+        ("Two mirrored halves, presence and absence", [
+            "The discourse states its case twice: first for the "
+            "presence of hands, feet, joints, belly, and the six "
+            "senses (each &ldquo;is found&rdquo;), then for their "
+            "absence (each &ldquo;isn't found&rdquo;) &mdash; the "
+            "identical two-directional shape this vagga's own SN "
+            "35.230 and SN 35.231 have already used for other "
+            "claims.",
+        ]),
+        ("Pleasure and pain, not merely contact", [
+            "Where many discourses in this book stop at naming "
+            "contact itself as what depends on the sense faculty's "
+            "presence, this discourse specifically names "
+            "&ldquo;pleasure and pain arising internally, "
+            "conditioned by contact&rdquo; &mdash; ajjhattaṁ sukhaṁ "
+            "dukkhaṁ &mdash; as what the faculty's presence makes "
+            "structurally possible.",
+        ]),
+        ("A twin discourse to follow", [
+            "This is the first of a paired &ldquo;twin&rdquo; "
+            "discourse, a pattern this project has met often "
+            "throughout this book: SN 35.237 immediately following "
+            "restates the identical content with a single "
+            "grammatical substitution, closing both this discourse's "
+            "own pair and Samuddavagga itself.",
+        ]),
+    ],
+    terms=[
+        ("hatthesu sati ādānanikkhepanaṁ paññāyati", "&ldquo;when "
+             "there are hands, picking up and putting down are "
+             "found&rdquo; &mdash; the discourse's own opening term "
+             "of the fourfold bodily simile"),
+        ("pabbesu sati samiñjanapasāraṇaṁ paññāyati", "&ldquo;when "
+             "there are joints, contracting and extending are "
+             "found&rdquo; &mdash; the simile's third term, "
+             "completing hands and feet before the sense-faculty "
+             "application"),
+        ("cakkhusmiṁ sati cakkhusamphassapaccayā uppajjati ajjhattaṁ "
+             "sukhaṁ dukkhaṁ", "&ldquo;when there's an eye, pleasure "
+             "and pain arise internally conditioned by eye contact"
+             "&rdquo; &mdash; the discourse's own application of the "
+             "bodily simile's structural logic to the six senses"),
+        ("paññāyati", "&ldquo;is found&rdquo; &mdash; the verb this "
+             "discourse's own title-bearing recension uses "
+             "throughout, distinguishing it from SN 35.237's own use "
+             "of hoti (&ldquo;there is&rdquo;) for the identical "
+             "content"),
+        ("asati&hellip;na paññāyati", "&ldquo;when there is no "
+             "[X]&hellip;[Y] isn't found&rdquo; &mdash; the "
+             "discourse's own mirrored negative half, run for the "
+             "bodily simile and then for all six senses"),
+    ],
+    text_intro=("The complete discourse: the fourfold bodily simile "
+        "and its application to the six senses, given first for "
+        "presence and then for absence. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.236:1.1-1.7"),
+        ("p", "&sect;2", "sn35.236:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What kind of relationship does the hands-feet-joints-belly simile illustrate?",
+         "opts": ["A structural, possibility-enabling relationship, not an active causal chain", "A causal chain in which hands actively produce picking-up moment to moment", "A metaphor for spiritual progress with no literal bodily reference", "A description of the physical body's impermanence"],
+         "correct": 0,
+         "expl": "The presence of hands makes picking-up possible at all — it doesn't actively cause each instance of it, the way fire causes smoke."},
+        {"q": "What does this discourse say arises internally, conditioned by contact, when a sense faculty like the eye exists?",
+         "opts": ["Pleasure and pain (ajjhattaṁ sukhaṁ dukkhaṁ)", "Contact itself, with no further mention of feeling", "Craving, directly and immediately", "Nothing is specified beyond the faculty's mere existence"],
+         "correct": 0,
+         "expl": "\"When there's an eye, pleasure and pain arise internally conditioned by eye contact.\""},
+        {"q": "In what two directions does this discourse state its case?",
+         "opts": ["Presence (each element \"is found\") and absence (each element \"isn't found\")", "Past and future only, with no present-tense statement", "Positive and negative valuation of pleasure versus pain", "The discourse states its case only once, in a single direction"],
+         "correct": 0,
+         "expl": "The mirrored two-part structure this vagga has already used for other claims, run here for the bodily simile and the six senses alike."},
+        {"q": "What Pali verb does this specific discourse use throughout, distinguishing it from its own twin discourse immediately following?",
+         "opts": ["Paññāyati (\"is found\")", "Hoti (\"there is\")", "Uppajjati (\"arises\") used exclusively, with no other verb", "The two discourses use identical verbs throughout, with no distinguishing feature"],
+         "correct": 0,
+         "expl": "This discourse uses paññāyati; SN 35.237 restates the identical content using hoti instead."},
+        {"q": "What discourse immediately follows this one, according to this reading guide?",
+         "opts": ["SN 35.237, a paired \"twin\" discourse restating the same content with a single grammatical substitution", "SN 36.1, opening the next saṃyutta", "SN 35.238, opening the next vagga", "No discourse follows; this closes Samuddavagga"],
+         "correct": 0,
+         "expl": "SN 35.237 closes both this discourse's own pair and Samuddavagga itself."},
+    ],
+    marginalia=[
+        ("Hands, feet, joints, belly", [
+            "presence makes the activity possible —",
+            "not a cause, but a condition",
+        ]),
+        ("Pleasure and pain, named directly", [
+            "not just contact, but what contact yields —",
+            "conditioned, arising internally",
+        ]),
+        ("Found, and not found", [
+            "the same claim, twice mirrored —",
+            "presence, then absence",
+        ]),
+        ("A twin discourse waiting", [
+            "paññāyati here, hoti next —",
+            "one word changed, the rest unchanged",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.236/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.235.html">SN 35.235 &middot; The Exposition '
+        "on Burning</a> &mdash; the previous discourse.",
+        '<a href="sn-35.237.html">SN 35.237 &middot; The Simile of '
+        "Hands and Feet (2nd)</a> &mdash; the next discourse, "
+        "restating this same content and closing Samuddavagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.237 — Dutiyahatthapādopamasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 237, "Dutiyahatthapādopama", "The Simile of Hands and Feet "
+    "(2nd)",
+    vagga="Samuddavagga",
+    meta_title="SN 35.237 &mdash; The Simile of Hands and Feet "
+                "(2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Dutiyahatthapādopamasutta &mdash; the twin of SN "
+        "35.236, closing Samuddavagga with its own untranslated "
+        "colophon confirming this vagga as the fourth paṇṇāsaka's "
+        "third. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "The identical fourfold bodily simile as SN 35.236, "
+                 "restated with a single grammatical substitution, "
+                 "closing Samuddavagga"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in content, but its closing colophon "
+                       "rewards close attention"),
+    ],
+    why=(
+        "This discourse restates SN 35.236 word for word, with a "
+        "single systematic substitution: where the previous "
+        "discourse used paññāyati (&ldquo;is found&rdquo;) "
+        "throughout, this one uses hoti (&ldquo;there is,&rdquo; "
+        "&ldquo;comes to be&rdquo;) instead, for the bodily simile "
+        "and its application to the six senses alike. The content "
+        "and structure are otherwise identical. What distinguishes "
+        "this discourse is what follows it: its own untranslated "
+        "closing colophon, &ldquo;Samuddavaggo tatiyo&rdquo; "
+        "&mdash; &ldquo;Samuddavagga, the third&rdquo; &mdash; "
+        "settles a question this project's own reading guides have "
+        "carried open since Saṭṭhipeyyālavagga's unusual close. That "
+        "vagga's own colophon, &ldquo;Saṭṭhipeyyālo samatto&rdquo; "
+        "(&ldquo;the sixty abbreviated texts are complete&rdquo;), "
+        "broke this book's consistent &ldquo;[Vagga name]vaggo "
+        "[ordinal]&rdquo; pattern and left its own position within "
+        "the fourth paṇṇāsaka unconfirmed. Now that this discourse "
+        "names Samuddavagga itself &ldquo;tatiyo&rdquo; (third), "
+        "following directly after Nandikkhayavagga's own confirmed "
+        "&ldquo;paṭhamo&rdquo; (first, SN 35.167), the count closes "
+        "by elimination: Saṭṭhipeyyālavagga must occupy the second "
+        "position, even though its own colophon never used that "
+        "word directly."
+    ),
+    guide=[
+        ("The same content, one verb changed throughout", [
+            "Every clause of SN 35.236 recurs here with paññāyati "
+            "replaced by hoti: &ldquo;when there are hands, picking "
+            "up and putting down there is&rdquo; rather than "
+            "&ldquo;&hellip;are found,&rdquo; run consistently "
+            "through both the bodily simile and its application to "
+            "the six senses, in both the positive and negative "
+            "direction.",
+        ]),
+        ("A closing colophon that resolves an open question", [
+            "&ldquo;Samuddavaggo tatiyo&rdquo; &mdash; this vagga is "
+            "the third &mdash; is the first ordinal-bearing colophon "
+            "this project has read since Nandikkhayavagga's own "
+            "confirmed &ldquo;paṭhamo.&rdquo; Saṭṭhipeyyālavagga, "
+            "standing directly between the two, never supplied an "
+            "ordinal of its own; this discourse's own count now "
+            "closes that gap by simple elimination, without this "
+            "project needing to assert anything Saṭṭhipeyyālavagga's "
+            "own text did not itself state.",
+        ]),
+        ("An untranslated uddāna naming all ten discourses", [
+            "This discourse's own closing uddāna, left untranslated "
+            "in the Pali root exactly as this book's convention has "
+            "held throughout, names the vagga's own ten discourses "
+            "in sequence: &ldquo;two oceans, the angler, with the "
+            "latex-tree, Koṭṭhika; Kāmabhū and Udāyī indeed, and "
+            "with burning the eighth; the simile of hands and feet, "
+            "two &mdash; by this the vagga is called.&rdquo; The "
+            "count matches this reading guide's own independent "
+            "reconstruction of the vagga exactly.",
+        ]),
+        ("No fourth paṇṇāsaka landmark yet, and none expected here",
+         [
+            "Unlike SN 35.52, SN 35.103, and SN 35.155 &mdash; each "
+            "of which closed its own paṇṇāsaka with an explicit "
+            "meta-uddāna naming that fifty outright &mdash; this "
+            "discourse's colophon carries only the vagga-level "
+            "ordinal, consistent with this project's now-repeated "
+            "observation that such landmarks appear solely at a "
+            "paṇṇāsaka's own final vagga, not partway through. "
+            "Samuddavagga is this paṇṇāsaka's third of what its own "
+            "final vagga, Āsīvisavagga, may or may not confirm as "
+            "five.",
+        ]),
+    ],
+    terms=[
+        ("hatthesu sati ādānanikkhepanaṁ hoti", "&ldquo;when there "
+             "are hands, there's picking up and putting down"
+             "&rdquo; &mdash; the discourse's own opening clause, "
+             "identical in content to SN 35.236's but using hoti in "
+             "place of paññāyati throughout"),
+        ("Samuddavaggo tatiyo", "&ldquo;Samuddavagga, the "
+             "third&rdquo; &mdash; this discourse's own untranslated "
+             "closing colophon, resolving Saṭṭhipeyyālavagga's own "
+             "unconfirmed position by elimination as this "
+             "paṇṇāsaka's second vagga"),
+        ("dve samuddā bāḷisiko, khīrarukkhena koṭṭhiko", "&ldquo;"
+             "two oceans, the angler, with the latex-tree, "
+             "Koṭṭhika&rdquo; &mdash; the closing uddāna's own first "
+             "line, naming SN 35.228&ndash;232"),
+        ("kāmabhū udāyī ceva, ādittena ca aṭṭhamaṁ", "&ldquo;Kāmabhū "
+             "and Udāyī indeed, and with burning the eighth&rdquo; "
+             "&mdash; the uddāna's second line, naming SN "
+             "35.233&ndash;235 and confirming SN 35.235's own "
+             "position as the vagga's eighth discourse"),
+        ("hatthapādūpamā dveti, vaggo tena pavuccatīti", "&ldquo;the "
+             "simile of hands and feet, two &mdash; by this the "
+             "vagga is called,&rdquo; closing the uddāna &mdash; "
+             "though Sujato's own English title for this vagga, "
+             "&ldquo;The Ocean,&rdquo; in fact follows the vagga's "
+             "own name rather than this final pair"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "colophon and uddāna (both left untranslated in the Pali "
+        "root and described, not quoted, above): the fourfold "
+        "bodily simile and its application to the six senses, using "
+        "hoti throughout in place of SN 35.236's paññāyati. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.237:1.1-1.7"),
+        ("p", "&sect;2", "sn35.237:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own content compare to SN 35.236's?",
+         "opts": ["Identical, apart from a systematic substitution of hoti for paññāyati throughout", "Entirely different, introducing a new simile", "A summary, compressing SN 35.236's content", "This discourse reverses SN 35.236's own claim"],
+         "correct": 0,
+         "expl": "Every clause recurs with the single verb substituted, content and structure otherwise unchanged."},
+        {"q": "What does this discourse's own closing colophon, &ldquo;Samuddavaggo tatiyo,&rdquo; state?",
+         "opts": ["That Samuddavagga is the third vagga of its own paṇṇāsaka", "That this is the third discourse of Samuddavagga", "That Samuddavagga is the third vagga of the entire book", "The colophon carries no ordinal information at all"],
+         "correct": 0,
+         "expl": "&ldquo;Samuddavagga, the third&rdquo; — the vagga-level ordinal within its own paṇṇāsaka."},
+        {"q": "How does this colophon resolve Saṭṭhipeyyālavagga's own previously unconfirmed position?",
+         "opts": ["By elimination — since Nandikkhayavagga is confirmed first and Samuddavagga is now confirmed third, Saṭṭhipeyyālavagga standing between them must be second", "It does not resolve the question; it remains open", "Saṭṭhipeyyālavagga's colophon is retroactively corrected to say &ldquo;dutiyo&rdquo;", "This discourse asserts Saṭṭhipeyyālavagga is not part of the same paṇṇāsaka at all"],
+         "correct": 0,
+         "expl": "This reading guide reaches the conclusion by elimination, without asserting anything Saṭṭhipeyyālavagga's own text did not itself state."},
+        {"q": "What does this discourse's own closing uddāna do?",
+         "opts": ["Names all ten of the vagga's own discourses in sequence, left untranslated in the Pali root", "Provides an English translation of every discourse title", "Introduces an eleventh, previously unmentioned discourse", "The discourse carries no uddāna at all"],
+         "correct": 0,
+         "expl": "\"Two oceans, the angler, with the latex-tree, Koṭṭhika...\" — matching this reading guide's own independent reconstruction exactly."},
+        {"q": "Does this discourse's colophon carry an explicit paṇṇāsaka-level landmark, as SN 35.52, SN 35.103, and SN 35.155 each did for their own paṇṇāsakas?",
+         "opts": ["No — such landmarks appear only at a paṇṇāsaka's own final vagga, and Samuddavagga is not confirmed as final", "Yes, an explicit landmark is given, naming the fourth paṇṇāsaka as five vaggas", "Yes, but only in the English translation, not the Pali root", "The question cannot be answered from this discourse alone"],
+         "correct": 0,
+         "expl": "Consistent with the project's repeated observation, this vagga-ordinal colophon carries no paṇṇāsaka-level landmark of its own."},
+    ],
+    marginalia=[
+        ("One verb, systematically swapped", [
+            "hoti in place of paññāyati —",
+            "the same claim, differently worded",
+        ]),
+        ("&ldquo;Tatiyo,&rdquo; not left open", [
+            "Samuddavagga, confirmed third —",
+            "an ordinal this vagga does supply",
+        ]),
+        ("A gap closed by elimination", [
+            "first, then this one third —",
+            "Saṭṭhipeyyāla's own place, second",
+        ]),
+        ("Ten titles, exactly as reconstructed", [
+            "the uddāna confirms the count —",
+            "read independently, matched exactly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.237/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.236.html">SN 35.236 &middot; The Simile of '
+        "Hands and Feet (1st)</a> &mdash; the previous discourse.",
+        '<a href="sn-36.6.html">SN 36.6 &middot; An Arrow</a> '
+        "&mdash; already published on this site, standing ahead of "
+        "this book's own final vagga, Āsīvisavagga (SN 35.238"
+        "&ndash;248), not yet built.",
+    ],
+)
