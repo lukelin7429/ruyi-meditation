@@ -14448,3 +14448,1936 @@ page(
         "index.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# Ja 71 — Varuṇa (The Warding Tree)
+# --------------------------------------------------------------------------- #
+page(
+    71, "Varu&#7751;a", "The Warding Tree",
+    meta_title="Ja 71 — The Warding Tree | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 71, opening the Varuṇavagga &mdash; a verse on "
+        "deferred regret, a careless pupil, and a tree with real "
+        "Vedic ritual associations, echoed in this site's own Ja 38. "
+        "From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Eight (Varu&#7751;avagga) &middot; Poem 1 of 9",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a short verse, but its central image draws on "
+                       "real Vedic ritual practice worth unpacking"),
+    ],
+    why=(
+        "This poem opens the eighth and final chapter this site's "
+        "selection draws from within the Ekakanipāta &mdash; a verse "
+        "on deferred regret whose central image, a broken branch of "
+        "the &lsquo;Warding Tree&rsquo;, turns out to reflect genuine "
+        "Vedic ritual practice around that tree, and whose "
+        "commentarial story reappears, differently, at this site's "
+        "own already-completed Ja 38."),
+    guide=[
+        ("A verse about putting things off", [
+            "The verse states its point directly: whoever wishes to "
+            "do afterwards the tasks they should have done before "
+            "&lsquo;is tormented by regrets&rsquo;, like someone who "
+            "broke a branch off the Warding Tree. The comparison "
+            "assumes the reader already knows why breaking that "
+            "particular branch was a costly mistake."]),
+        ("Per Sujato's comment, a careless pupil and a sacred tree", [
+            "A lazy pupil takes a nap while others gather firewood. "
+            "At the last moment, he carelessly snaps a green branch "
+            "off the Warding Tree, hurting his eye in the process; "
+            "and when it comes time for breakfast, the fire will not "
+            "light &mdash; the wrong wood, used carelessly and too "
+            "late, fails at the one task it was needed for."]),
+        ("The tree's own Vedic background, and an echo elsewhere on this site", [
+            "Sujato's comment traces &lsquo;Varuṇa&rsquo; (or "
+            "&lsquo;varaṇa&rsquo;, <i lang=\"pi\" translate=\"no\">"
+            "Crateva religiosa</i>) to a root meaning &lsquo;to "
+            "ward&rsquo;: the tree is associated with Vedic rites of "
+            "the dead and with warding off demons, foes, and ills "
+            "(Atharva Veda 10.3), and its wood, precisely because of "
+            "that funerary association, was not to be used in the "
+            "life-giving Homa fire ritual. Sujato suggests this verse "
+            "may originally have warned against using the wrong wood "
+            "for the wrong ritual. The same tree's association with "
+            "death carries into this site's own already-completed "
+            "Ja 38, where a crane kills fish on one of its branches."]),
+    ],
+    terms=[
+        ("Varu&#7751;akaṭṭhabhañjova",
+         "&ldquo;like the one who broke a branch off the Warding "
+         "Tree&rdquo; &mdash; the verse's central simile, giving this "
+         "poem its traditional title."),
+        ("sa pacchā manutappati",
+         "&ldquo;afterwards is tormented by regrets&rdquo; &mdash; "
+         "the fate of anyone who defers what should have been done "
+         "before."),
+        ("Varu&#7751;a",
+         "the tree itself (<i lang=\"pi\" translate=\"no\">Crateva "
+         "religiosa</i>), per Sujato's comment associated in Vedic "
+         "ritual with warding off demons, foes, and ills, and barred "
+         "from the life-giving Homa fire due to its funerary "
+         "associations."),
+        ("Varu&#7751;avagga",
+         "&ldquo;Chapter of the Warding Tree&rdquo; &mdash; the "
+         "eighth and final chapter this site's selection draws from "
+         "within the Ekakanipāta, named for this opening poem."),
+        ("Ja 38",
+         "this site's already-completed page, &lsquo;The "
+         "Crane&rsquo;, where the same tree's association with death "
+         "reappears in a different story."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja71:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What does the verse say happens to someone who defers what should have been done before?',
+         "opts": [
+             'They are praised for patience',
+             'They succeed anyway',
+             'They are tormented by regrets afterwards',
+             'Nothing in particular',
+         ],
+         "correct": 2,
+         "expl": 'The verse states its point directly, with no exceptions offered.'},
+        {"q": 'What central image does the verse use for this regret?',
+         "opts": [
+             'A broken promise',
+             'A lost coin',
+             'A missed harvest',
+             'Someone who broke a branch off the Warding Tree',
+         ],
+         "correct": 3,
+         "expl": 'A comparison that assumes the reader already knows why the mistake was costly.'},
+        {"q": "Per Sujato's comment, what was the pupil doing while others gathered firewood?",
+         "opts": [
+             'Taking a nap',
+             'Studying',
+             'Cooking breakfast',
+             'Traveling home',
+         ],
+         "correct": 0,
+         "expl": 'Laziness that leads directly to the carelessness that follows.'},
+        {"q": 'What happened when the pupil finally, carelessly snapped a branch off the tree?',
+         "opts": [
+             'He was praised for his effort',
+             'He hurt his eye, and the breakfast fire would not light',
+             'Nothing unusual',
+             'The tree fell over',
+         ],
+         "correct": 1,
+         "expl": 'The wrong wood, used carelessly and too late, fails at the one task it was needed for.'},
+        {"q": "What does Sujato's comment say the Warding Tree was associated with in Vedic ritual?",
+         "opts": [
+             'No particular ritual use',
+             'Agricultural festivals only',
+             'Rites of the dead and warding off demons, foes, and ills',
+             'Weddings and celebrations only',
+         ],
+         "correct": 2,
+         "expl": 'Citing the Atharva Veda for this association.'},
+        {"q": "Why, per the comment, was this tree's wood barred from the life-giving Homa fire ritual?",
+         "opts": [
+             'It burned too quickly',
+             'It was too rare to obtain',
+             'It produced too much smoke',
+             'Precisely because of its association with death and funerary rites',
+         ],
+         "correct": 3,
+         "expl": 'A tree bound up with death was unfit to feed a fire meant to give life.'},
+        {"q": 'What does Sujato suggest this verse may originally have been about?',
+         "opts": [
+             'A warning against using the wrong wood for the wrong ritual',
+             'A warning about theft',
+             'A warning about travel',
+             'A political allegory',
+         ],
+         "correct": 0,
+         "expl": "Sujato's own suggested reading of the verse's original point."},
+        {"q": "What already-completed page on this site does this tree's death association also appear in?",
+         "opts": [
+             'No such page exists',
+             'Ja 38, The Crane, where a crane kills fish on one of its branches',
+             'Ja 34, The Fish',
+             'Ja 11, The Deer Named Lucky Spot',
+         ],
+         "correct": 1,
+         "expl": 'The same tree, a different story, elsewhere in this collection.'},
+        {"q": 'What chapter does this poem open?',
+         "opts": [
+             'The Āsīsavagga',
+             'It does not open a chapter',
+             "The Varuṇavagga, the eighth and final chapter this site's selection draws from within the Ekakanipāta",
+             'The Itthivagga',
+         ],
+         "correct": 2,
+         "expl": 'Named for this opening poem, per standard Jātaka convention.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Virtuous Elephant',
+             'Sixteen Great Dreams',
+             'Herring, the Miser',
+             'The Warding Tree (Varuṇajātaka)',
+         ],
+         "correct": 3,
+         "expl": 'The seventy-first poem overall, and the first of the Varuṇavagga.'},
+    ],
+    marginalia=[
+        ("A branch snapped too late, too carelessly", [
+            "the fire that should have lit, doesn't —",
+            "the wrong wood, at the wrong moment"
+        ]),
+        ("A tree with a real ritual history", [
+            "not just a plot device —",
+            "Vedic rites of the dead, warding off ills"
+        ]),
+        ("Barred from the life-giving fire", [
+            "the same tree that wards off death —",
+            "unfit, for that reason, to feed the fire that gives life"
+        ]),
+        ("The same tree, a different story, elsewhere on this site", [
+            "a crane, fish, a branch —",
+            "Ja 38 picks up the same dark thread"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja71/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-70.html">Ja 70 &mdash; The Spade</a> '
+        "&mdash; the closing poem of the previous chapter.",
+        '<a href="ja-38.html">Ja 38 &mdash; The Crane</a> '
+        "&mdash; where the same tree's death association reappears.",
+        '<a href="ja-72.html">Ja 72 &mdash; The Virtuous '
+        "Elephant</a> &mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 72 — Sīlavahatthi (The Virtuous Elephant)
+# --------------------------------------------------------------------------- #
+page(
+    72, "S&imacr;lavahatthi", "The Virtuous Elephant",
+    meta_title="Ja 72 — The Virtuous Elephant | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 72 &mdash; a noble elephant freely gives up his own "
+        "tusks to the ungrateful man he rescued, opening a pair of "
+        "poems on ingratitude continued at Ja 73. From Ru-Yi "
+        "Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Eight (Varu&#7751;avagga) &middot; Poem 2 of 9",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse on the bottomless demands of "
+                       "an ungrateful person"),
+    ],
+    why=(
+        "This poem opens a matched pair with the next, Ja 73, both "
+        "on the theme of ingratitude &mdash; here, a magnificent "
+        "elephant freely gives up his own ivory to the very man he "
+        "just rescued, once that man's gratitude curdles into "
+        "greed."),
+    guide=[
+        ("A verse on the bottomless demands of ingratitude", [
+            "The verse states its point in the sharpest possible "
+            "terms: an ungrateful person, always looking for "
+            "opportunity, would still not be satisfied even if given "
+            "the whole earth. The generosity of whoever they depend "
+            "on is treated as inexhaustible, and used accordingly."]),
+        ("Per Sujato's comment, a rescue repaid with greed", [
+            "A magnificent white elephant rescues a lost man and "
+            "carries him home on his own back. But, falling prey to "
+            "greed, the man then asks the elephant for ivory from "
+            "his own tusks &mdash; and the noble creature freely "
+            "gives them up to the very person who had just been "
+            "saved by him. This poem and the next, Ja 73, form a "
+            "back-to-back pair on ingratitude toward a rescuer, each "
+            "approaching the theme from a different angle."]),
+    ],
+    terms=[
+        ("akataññussa posassa",
+         "&ldquo;an ungrateful person&rdquo; &mdash; the verse's "
+         "opening description, its subject throughout."),
+        ("niccaṁ vivaradassino",
+         "&ldquo;always looking for opportunity&rdquo; &mdash; the "
+         "ungrateful person's defining habit of mind."),
+        ("sabbañce pathaviṁ dajjā",
+         "&ldquo;even if given the whole earth&rdquo; &mdash; the "
+         "verse's extreme measure of how much would still not be "
+         "enough."),
+        ("S&imacr;lavahatthijātaka",
+         "the traditional title of this tale, &lsquo;The Virtuous "
+         "Elephant&rsquo;."),
+        ("Ja 73",
+         "the next poem in this chapter, forming a matched pair with "
+         "this one on the theme of ingratitude toward a rescuer."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja72:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What does the verse say about an ungrateful person, even if given the whole earth?',
+         "opts": [
+             'They would become generous in return',
+             'They would stop asking for more',
+             'They would share it with others',
+             'They would still not be satisfied',
+         ],
+         "correct": 3,
+         "expl": "The verse's own extreme measure of ingratitude's bottomless demands."},
+        {"q": 'What habit of mind does the verse attribute to the ungrateful person?',
+         "opts": [
+             'Always looking for opportunity',
+             'Contentment',
+             'Fear of loss',
+             'Generosity',
+         ],
+         "correct": 0,
+         "expl": 'A restless watchfulness for what more can be extracted.'},
+        {"q": "Per Sujato's comment, what does the elephant do for the lost man?",
+         "opts": [
+             'Leads him further into the wilderness',
+             'Rescues him and carries him home on his own back',
+             'Ignores him',
+             'Chases him away',
+         ],
+         "correct": 1,
+         "expl": 'An act of pure, freely given generosity, no request made in return.'},
+        {"q": 'What does the rescued man then ask the elephant for?',
+         "opts": [
+             'Food',
+             'Directions home',
+             "Ivory from the elephant's own tusks",
+             'Nothing at all',
+         ],
+         "correct": 2,
+         "expl": 'Greed replacing whatever gratitude the rescue itself might have earned.'},
+        {"q": 'How does the elephant respond to this request?',
+         "opts": [
+             'He refuses',
+             'He attacks the man',
+             'He asks for something in return',
+             'He freely gives up his own tusks',
+         ],
+         "correct": 3,
+         "expl": "The elephant's own generosity remains undiminished by the man's ingratitude."},
+        {"q": 'What poem immediately follows this one, forming a matched pair on ingratitude?',
+         "opts": [
+             'Ja 73',
+             'Ja 71',
+             'Ja 74',
+             'Ja 79',
+         ],
+         "correct": 0,
+         "expl": 'Together, the two poems approach the same theme from different angles.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Unsuspecting',
+             'The Virtuous Elephant (Sīlavahatthijātaka)',
+             'The Warding Tree',
+             'The Law of Trees',
+         ],
+         "correct": 1,
+         "expl": 'The seventy-second poem overall, and the second of the Varuṇavagga.'},
+        {"q": "Where does this poem sit in the chapter's structure?",
+         "opts": [
+             'The final poem of the chapter',
+             'It stands outside any chapter',
+             'The second poem of the chapter, following Ja 71',
+             'The first poem of the chapter',
+         ],
+         "correct": 2,
+         "expl": 'Part of the same nine-poem selection from the Varuṇavagga.'},
+        {"q": "What broader theme does the verse illustrate through the elephant's generosity?",
+         "opts": [
+             'The value of physical strength',
+             'The importance of travel',
+             'The dangers of the wilderness',
+             'The bottomless demands of an ungrateful recipient',
+         ],
+         "correct": 3,
+         "expl": "The elephant's own conduct is almost incidental to the verse's real target."},
+        {"q": "How does the elephant's own conduct contrast with the man's, per this reading guide?",
+         "opts": [
+             "The elephant's freely-given generosity stands against the man's greedy, ungrateful demand",
+             'They behave identically',
+             'Neither is generous',
+             'The contrast is not drawn',
+         ],
+         "correct": 0,
+         "expl": 'The story pairs an ideal of generosity against a portrait of ingratitude.'},
+    ],
+    marginalia=[
+        ("A rescue, repaid with greed", [
+            "carried home on the elephant's own back —",
+            "then asked to give up his tusks besides"
+        ]),
+        ("A generosity with no limit but the man's demand", [
+            "not the elephant's giving that runs out —",
+            "it's the asking that never stops"
+        ]),
+        ("Even the whole earth, not enough", [
+            "the verse's own measure of ingratitude —",
+            "no gift satisfies a bottomless want"
+        ]),
+        ("A pair of poems, one theme", [
+            "this one, and the next —",
+            "ingratitude toward a rescuer, seen twice"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja72/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-71.html">Ja 71 &mdash; The Warding Tree</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="ja-73.html">Ja 73 &mdash; The Truth, It '
+        "Seems</a> &mdash; the next poem, continuing this theme.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 73 — Saccaṅkira (The Truth, It Seems)
+# --------------------------------------------------------------------------- #
+page(
+    73, "Sacca&#7749;kira", "The Truth, It Seems",
+    meta_title="Ja 73 — The Truth, It Seems | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 73 &mdash; an ascetic rescues a prince and three "
+        "animals from a flood, feeding the animals first since they "
+        "were in greater need, and the prince's grudge outlasts their "
+        "gratitude. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Eight (Varu&#7751;avagga) &middot; Poem 3 of 9",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a harsh verse whose full story context "
+                       "explains its bitterness"),
+    ],
+    why=(
+        "Completing the pair begun at Ja 72, this poem's harsh "
+        "preference &mdash; a floating log over a certain person "
+        "&mdash; comes from a story of an ascetic who saves a prince "
+        "and three animals from a flood, feeding the animals first "
+        "since they were in greater need, only to have the prince "
+        "nurse a grudge over the imagined slight for years, until he "
+        "has the power to act on it."),
+    guide=[
+        ("A verse preferring a log to a person", [
+            "The verse states, starkly: the truth, it seems, was "
+            "spoken by certain people here &mdash; better a floating "
+            "log than a certain person. Sujato's comment notes the "
+            "translation is literal, but the verse seems to need the "
+            "verb &lsquo;rescue&rsquo; supplied from the commentary "
+            "to make full sense: better to trust a floating log to "
+            "rescue you than to trust a certain kind of person."]),
+        ("Per Sujato's comment, a rescue, animals fed first, and a grudge that outlasts gratitude", [
+            "An ascetic saves a prince, a parrot, a rat, and a snake "
+            "from a flood. Since the animals were in greater need, he "
+            "feeds them first. All three animals are grateful for "
+            "this. The prince, however, conceives a hatred over being "
+            "made to wait, which he nurses for years until he "
+            "ascends the throne and seeks revenge for what was, in "
+            "the end, only ever an imagined slight."]),
+        ("A matched pair, back to back", [
+            "Together with Ja 72, this poem completes a two-poem "
+            "sequence on ingratitude toward a rescuer &mdash; there, "
+            "an elephant's generosity meeting a man's greed; here, an "
+            "ascetic's evenhanded rescue meeting a prince's wounded "
+            "pride. In both, it is the one already given the most who "
+            "demands, or resents, the most."]),
+    ],
+    terms=[
+        ("Kaṭṭhaṁ niplavitaṁ seyyo",
+         "&ldquo;better a floating log&rdquo; &mdash; the verse's own "
+         "measure of preference, set against a certain kind of "
+         "person."),
+        ("na tveva ekacciyo naro",
+         "&ldquo;than a certain person&rdquo; &mdash; left "
+         "deliberately unnamed in the verse itself; the story "
+         "supplies who is meant."),
+        ("uttāretvā",
+         "&ldquo;having rescued&rdquo; &mdash; the verb Sujato's "
+         "comment supplies to complete the verse's otherwise elliptical "
+         "sense."),
+        ("Sacca&#7749;kirajātaka",
+         "the traditional title of this tale, &lsquo;The Truth, It "
+         "Seems&rsquo;."),
+        ("Ja 72",
+         "the poem immediately before this one, forming a matched "
+         "pair on ingratitude toward a rescuer."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja73:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What does the verse say is better than a certain person?',
+         "opts": [
+             'A floating log',
+             'A loyal friend',
+             'A wise teacher',
+             'A faithful servant',
+         ],
+         "correct": 0,
+         "expl": "The verse's own stark, deliberately harsh preference."},
+        {"q": "What verb does Sujato's comment say the verse seems to need supplied?",
+         "opts": [
+             '‘Praise’',
+             '‘Rescue’',
+             '‘Betray’',
+             '‘Forget’',
+         ],
+         "correct": 1,
+         "expl": "Completing the verse's otherwise elliptical literal sense."},
+        {"q": "Per Sujato's comment, whom does the ascetic save from the flood?",
+         "opts": [
+             'Only animals, no humans',
+             'A merchant and his goods',
+             'A prince, a parrot, a rat, and a snake',
+             'Only the prince',
+         ],
+         "correct": 2,
+         "expl": 'Four rescued lives, one human and three animal.'},
+        {"q": 'Why does the ascetic feed the animals before the prince?',
+         "opts": [
+             'He forgets about the prince',
+             'The prince refuses food',
+             'There is no stated reason',
+             'The animals were in greater need',
+         ],
+         "correct": 3,
+         "expl": "A judgment of need, not of rank, guiding the ascetic's order of care."},
+        {"q": 'How do the three animals respond to being rescued and fed first?',
+         "opts": [
+             'With gratitude',
+             'With grievance',
+             'With indifference',
+             'They are not mentioned again',
+         ],
+         "correct": 0,
+         "expl": "Their gratitude stands in direct contrast to the prince's response."},
+        {"q": 'How does the prince respond, by contrast?',
+         "opts": [
+             'He thanks the ascetic publicly',
+             'He nurses a grudge over being made to wait, for years',
+             'With equal gratitude',
+             'He forgets the incident entirely',
+         ],
+         "correct": 1,
+         "expl": 'A grievance kept alive far longer than the wait that caused it.'},
+        {"q": 'What does the prince eventually do once he ascends the throne?',
+         "opts": [
+             'Forgets the ascetic entirely',
+             'Frees the three animals',
+             'Seeks revenge for the imagined slight',
+             'Rewards the ascetic',
+         ],
+         "correct": 2,
+         "expl": 'The grudge outlasts the years and finally finds an outlet in power.'},
+        {"q": 'How does this poem relate to Ja 72, the poem before it?',
+         "opts": [
+             'No relation at all',
+             'It directly contradicts Ja 72',
+             'It retells the same story from a different angle',
+             'It completes a matched pair on ingratitude toward a rescuer',
+         ],
+         "correct": 3,
+         "expl": 'Two poems, back to back, approaching the same theme from different angles.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Truth, It Seems (Saccaṅkirajātaka)',
+             'The Virtuous Elephant',
+             'The Law of Trees',
+             'The Fish',
+         ],
+         "correct": 0,
+         "expl": 'The seventy-third poem overall, and the third of the Varuṇavagga.'},
+        {"q": "Where does this poem sit in the chapter's structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The third poem of the chapter, following Ja 72',
+             'The first poem of the chapter',
+             'The final poem of the chapter',
+         ],
+         "correct": 1,
+         "expl": 'Part of the same nine-poem selection from the Varuṇavagga.'},
+    ],
+    marginalia=[
+        ("Animals fed first, and grateful for it", [
+            "greater need, met first —",
+            "no resentment in the parrot, the rat, the snake"
+        ]),
+        ("A prince who waited, and never forgot it", [
+            "a grudge nursed for years —",
+            "over being made to wait his turn"
+        ]),
+        ("A log, trusted over a person", [
+            "the verse's own harsh measure —",
+            "wood doesn't scheme, doesn't wait to strike back"
+        ]),
+        ("Two poems, one lesson about rescue", [
+            "an elephant's tusks, an ascetic's evenhandedness —",
+            "both met with something other than gratitude"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja73/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-72.html">Ja 72 &mdash; The Virtuous '
+        "Elephant</a> &mdash; the poem immediately before this one.",
+        '<a href="ja-74.html">Ja 74 &mdash; The Law of Trees</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 74 — Rukkhadhamma (The Law of Trees)
+# --------------------------------------------------------------------------- #
+page(
+    74, "Rukkhadhamma", "The Law of Trees",
+    meta_title="Ja 74 — The Law of Trees | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 74 &mdash; a proverb on safety in numbers, whose "
+        "underlying story is really about tree-dwelling deities "
+        "advised against settling alone, echoing this site's own "
+        "Ja 31. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Eight (Varu&#7751;avagga) &middot; Poem 4 of 9",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a simple proverb about trees, standing in for "
+                       "a story about something else entirely"),
+    ],
+    why=(
+        "The verse speaks only of trees, but per Sujato's comment the "
+        "underlying story is about tree-dwelling deities, advised to "
+        "cluster together in the forest rather than set up home alone "
+        "in villages out of greed for offerings &mdash; a case where "
+        "the verse's surface image and its story's real subject "
+        "diverge, echoing the safety-in-numbers theme already opened "
+        "at this site's own Ja 31."),
+    guide=[
+        ("A proverb about solitary trees and the wind", [
+            "The verse states its proverb plainly: it is well for "
+            "many relatives, even trees born in the forest &mdash; "
+            "the wind sweeps off one standing alone, even the "
+            "enormous lord of the forest itself. Size alone is no "
+            "protection against isolation."]),
+        ("Per Sujato's comment, the verse is about trees, but the story is about something else", [
+            "Sujato's comment notes that while the verse speaks only "
+            "of trees, the story it illustrates is about the deities "
+            "who live in trees: they are advised to dwell only in "
+            "those clustered together in the forest. Some deities, "
+            "however, greedy for human offerings, set up home instead "
+            "in trees worshipped as shrines by villages &mdash; "
+            "standing alone, and so exposed. This reading guide notes "
+            "a resonance, without asserting a direct textual "
+            "connection, with this site's own Ja 31, which opens its "
+            "own chapter on the same underlying theme: safety found "
+            "in clustering together rather than settling alone."]),
+    ],
+    terms=[
+        ("Sādhū sambahulā ñātī",
+         "&ldquo;it is well for the many relatives&rdquo; &mdash; "
+         "the verse's opening statement of its proverb."),
+        ("Vāto vahati ekaṭṭhaṁ",
+         "&ldquo;the wind sweeps off one standing alone&rdquo; "
+         "&mdash; the verse's central image of isolated vulnerability."),
+        ("brahantampi vanappatiṁ",
+         "&ldquo;even the enormous lord of the forest&rdquo; "
+         "&mdash; the verse's point that size alone offers no "
+         "protection against standing alone."),
+        ("Rukkhadhammajātaka",
+         "the traditional title of this tale, &lsquo;The Law of "
+         "Trees&rsquo;."),
+        ("Ja 31",
+         "this site's already-completed page, &lsquo;Nests&rsquo;, "
+         "opening its own chapter on a resonant theme of safety found "
+         "in clustering together."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja74:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What does the verse say is well, even for trees born in the forest?',
+         "opts": [
+             'Growing near a village',
+             'Many relatives, standing together',
+             'Standing entirely alone',
+             'Growing as tall as possible',
+         ],
+         "correct": 1,
+         "expl": "The verse's opening statement of its own proverb."},
+        {"q": 'What does the wind do to a tree standing alone, per the verse?',
+         "opts": [
+             'Makes it grow stronger',
+             'Spreads its seeds further',
+             'Sweeps it off, even if it is the enormous lord of the forest',
+             'Nothing in particular',
+         ],
+         "correct": 2,
+         "expl": 'Size alone offers no protection against standing alone.'},
+        {"q": "Per Sujato's comment, who is the story actually about, though the verse speaks only of trees?",
+         "opts": [
+             'Farmers',
+             'Traveling merchants',
+             'Woodcutters',
+             'Deities who live in trees',
+         ],
+         "correct": 3,
+         "expl": "A case where the verse's surface image and the story's real subject diverge."},
+        {"q": 'What are these tree-dwelling deities advised to do, per the comment?',
+         "opts": [
+             'Dwell only in trees clustered together in the forest',
+             'Live alone for greater independence',
+             'Move to the mountains',
+             'Abandon trees altogether',
+         ],
+         "correct": 0,
+         "expl": 'The same clustering-for-safety principle the verse states about trees.'},
+        {"q": 'Why do some deities instead set up home alone in village shrine-trees, per the comment?',
+         "opts": [
+             'The comment gives no reason',
+             'Out of greed for human offerings',
+             'By simple accident',
+             'Because they are forced to',
+         ],
+         "correct": 1,
+         "expl": 'A motive that leaves them standing alone, and so exposed.'},
+        {"q": 'What already-completed page on this site does this reading guide note a resonance with?',
+         "opts": [
+             'Ja 38, The Crane',
+             'No resonance is noted',
+             'Ja 31, Nests',
+             'Ja 11',
+         ],
+         "correct": 2,
+         "expl": 'Both open their own chapters on the same underlying theme of safety in numbers.'},
+        {"q": 'How does this reading guide frame that resonance?',
+         "opts": [
+             'As a direct textual connection Sujato himself draws',
+             'As entirely unrelated',
+             'As a contradiction between the two poems',
+             'As a noted resonance in theme, without asserting a direct textual connection',
+         ],
+         "correct": 3,
+         "expl": "Consistent with this site's practice of not overclaiming connections the source material doesn't itself assert."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Law of Trees (Rukkhadhammajātaka)',
+             'The Truth, It Seems',
+             'The Fish',
+             'Unsuspecting',
+         ],
+         "correct": 0,
+         "expl": 'The seventy-fourth poem overall, and the fourth of the Varuṇavagga.'},
+        {"q": "Where does this poem sit in the chapter's structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The fourth poem of the chapter, following Ja 73',
+             'The first poem of the chapter',
+             'The final poem of the chapter',
+         ],
+         "correct": 1,
+         "expl": 'Part of the same nine-poem selection from the Varuṇavagga.'},
+        {"q": "What is the relationship between the verse's surface image and the story's real subject, per this reading guide?",
+         "opts": [
+             'The verse and story are unrelated',
+             'The story never explains the verse',
+             "The verse speaks only of trees, while the story's real subject is tree-dwelling deities",
+             'They are identical',
+         ],
+         "correct": 2,
+         "expl": "A distinction this reading guide draws out explicitly, per Sujato's own comment."},
+    ],
+    marginalia=[
+        ("A verse about trees, a story about something else", [
+            "the surface image, and the real subject —",
+            "deities standing in for the trees they live in"
+        ]),
+        ("Size is no protection, standing alone", [
+            "even the enormous lord of the forest —",
+            "swept off, same as any lesser tree"
+        ]),
+        ("Greed for offerings, and the cost of isolation", [
+            "some deities choose the village shrine-tree alone —",
+            "exposed, for the sake of what it brings them"
+        ]),
+        ("A theme this site has met before", [
+            "not the same text, not the same story —",
+            "but Ja 31 opens on the very same note"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja74/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-73.html">Ja 73 &mdash; The Truth, It '
+        "Seems</a> &mdash; the poem immediately before this one.",
+        '<a href="ja-31.html">Ja 31 &mdash; Nests</a> &mdash; a '
+        "resonant theme, opening its own chapter of this collection.",
+        '<a href="ja-75.html">Ja 75 &mdash; The Fish\'s '
+        "Prayer</a> &mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 75 — Maccha (The Fish's Prayer)
+# --------------------------------------------------------------------------- #
+page(
+    75, "Maccha", "The Fish's Prayer",
+    meta_title="Ja 75 — The Fish's Prayer | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 75 — a drought-stranded fish's prayer to the rain "
+        "god Pajjuna, with a genuine textual variant discussed "
+        "against this site's own Cp 30 and a cross-reference to "
+        "DN 20. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Eight (Varu&#7751;avagga) &middot; Poem 5 of 9",
+    glance=[
+        ("Setting", "A drought-stranded pond"),
+        ("Speaker", "A fish, praying to the rain god Pajjuna"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a short prayer with a genuine textual puzzle "
+                       "worth unpacking"),
+    ],
+    why=(
+        "A quick note first: this poem's traditional Pali title, "
+        "Macchajātaka, is shared with the already-completed Ja 34 "
+        "elsewhere in this collection; this reading guide uses "
+        "&lsquo;The Fish's Prayer&rsquo; here to keep the two "
+        "distinct. Beyond that, Sujato's comment on this poem opens "
+        "onto a genuine textual puzzle: the parallel text at this "
+        "site's own Cp 30 has a different word at the exact point "
+        "where this verse's own sense turns."),
+    guide=[
+        ("A prayer from a drought-stranded pond", [
+            "The verse is a fish's own prayer, addressed directly to "
+            "Pajjuna, the god of rain and thunder: &lsquo;thunder "
+            "forth, Pajjuna! Wipe out the trove of the crow! Subject "
+            "the crow to sorrow, and free me from sorrow!&rsquo; Per "
+            "Sujato's comment, a pond has dried out in a drought, and "
+            "crows are feasting on the stranded fish; the "
+            "commentary explains the fish's own &lsquo;trove&rsquo; "
+            "is being &lsquo;wiped out&rsquo; simply by being covered "
+            "again with rescuing water."]),
+        ("A Vedic pairing, and a cross-reference to DN 20", [
+            "Sujato's comment notes that Pajjuna also appears at "
+            "this site's own DN 20, and that the previous poem in "
+            "this same traditional sequence featured Vāta, the wind "
+            "— wind and thunderstorm going together often in the "
+            "Vedas. Pajjuna himself, per the comment, is both "
+            "fructifying and blessed, and fearful and destructive "
+            "(Rig Veda 5.83); the fish's prayer draws on this second, "
+            "destructive aspect, asked to fall specifically on the "
+            "crow."]),
+        ("A genuine textual variant, against this site's own Cp 30", [
+            "The same story and verse also appear at this site's "
+            "already-completed Cp 30, illustrating the perfection of "
+            "truth — but with one difference Sujato's comment flags "
+            "directly: where this verse has <i lang=\"pi\" "
+            "translate=\"no\">mañca</i> (&lsquo;me&rsquo;), Cp 30 has "
+            "<i lang=\"pi\" translate=\"no\">macche</i> "
+            "(&lsquo;the fish&rsquo;). If <i lang=\"pi\" "
+            "translate=\"no\">mañca</i> is accepted, as this "
+            "translation does, the verse itself never actually "
+            "mentions fish at all — the word only enters by way of "
+            "the poem's traditional title. Sujato further notes that "
+            "the wish to harm the crow specifically is distinctly "
+            "un-Buddhist, closer in spirit to the Atharva Veda's own "
+            "invocation of the waters against Nirṛti, the dread "
+            "goddess of black death."]),
+    ],
+    terms=[
+        ("Abhitthanaya pajjunna",
+         "&ldquo;thunder forth, Pajjuna!&rdquo; &mdash; the verse's "
+         "opening invocation of the rain and thunder god."),
+        ("nidhiṁ kākassa nāsaya",
+         "&ldquo;wipe out the trove of the crow!&rdquo; &mdash; per "
+         "Sujato's comment, the stranded fish are themselves the "
+         "crow's &lsquo;trove&rsquo;, wiped out by being covered with "
+         "rescuing water."),
+        ("mañca / macche",
+         "&ldquo;me&rdquo; versus &ldquo;the fish&rdquo; &mdash; the "
+         "genuine textual variant Sujato's comment flags between this "
+         "verse and the parallel text at this site's own Cp 30."),
+        ("Cp 30",
+         "this site's already-completed page, &lsquo;The Fish "
+         "King's Conduct&rsquo;, carrying the same story and verse "
+         "with one differing word."),
+        ("DN 20",
+         "this site's already-completed page where Pajjuna also "
+         "appears, cited directly in Sujato's comment."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. A note on this poem's "
+        "traditional title: it is Macchajātaka, shared with the "
+        "already-completed Ja 34 elsewhere in this collection; this "
+        "reading guide's own title, &lsquo;The Fish's Prayer&rsquo;, "
+        "keeps the two distinct here on this site. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja75:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'Who is the speaker of this verse, and what are they doing?',
+         "opts": [
+             'An unnamed narrator describing a drought',
+             'A king addressing his court',
+             'A fish, praying to the rain god Pajjuna',
+             'A crow, boasting of its catch',
+         ],
+         "correct": 2,
+         "expl": 'A direct prayer, addressed by name to the god invoked.'},
+        {"q": 'What does the fish ask Pajjuna to do to the crow?',
+         "opts": [
+             'Reward it',
+             'Ignore it',
+             'Turn it into rain',
+             'Subject it to sorrow',
+         ],
+         "correct": 3,
+         "expl": "The fish's prayer asks for the crow's own suffering, in exchange for its own relief."},
+        {"q": "Per Sujato's comment, what has caused the crisis behind this prayer?",
+         "opts": [
+             'A drought has dried out a pond, and crows are feasting on the stranded fish',
+             'A flood has scattered the fish',
+             'A fisherman is netting the pond',
+             'The comment gives no cause',
+         ],
+         "correct": 0,
+         "expl": 'The stranded fish are exposed, and the crow is taking advantage of it.'},
+        {"q": "What does the comment say the fish's own 'trove' (nidhi) refers to?",
+         "opts": [
+             "The crow's own nest",
+             "The stranded fish themselves, as the crow's feast, 'wiped out' by being covered with water again",
+             'A hidden treasure in the pond',
+             'The pond itself',
+         ],
+         "correct": 1,
+         "expl": "A grim image: the fish describe themselves as the crow's own stockpile."},
+        {"q": "What does Sujato's comment say Pajjuna also appears in, elsewhere on this site?",
+         "opts": [
+             'SN 12.70',
+             'AN 5.196',
+             'DN 20',
+             'MN 12',
+         ],
+         "correct": 2,
+         "expl": 'A confirmed cross-reference, already completed on this site.'},
+        {"q": "What genuine textual variant does Sujato's comment flag between this verse and Cp 30?",
+         "opts": [
+             'There is no variant at all',
+             'The two texts use entirely different verses',
+             'Only the ending differs',
+             "This verse has 'mañca' (me), Cp 30 has 'macche' (the fish), at the same point in an otherwise matching verse",
+         ],
+         "correct": 3,
+         "expl": "If 'mañca' is accepted, this verse never actually mentions fish directly."},
+        {"q": "What does Sujato's comment say about the wish to harm the crow, in Buddhist terms?",
+         "opts": [
+             "It is distinctly un-Buddhist, closer to the Atharva Veda's invocation against Nirṛti",
+             'It is a standard Buddhist teaching',
+             'The comment does not address this',
+             'It is presented as an ideal to emulate',
+         ],
+         "correct": 0,
+         "expl": "A moment where the verse's own content sits uneasily against Buddhist ethical teaching, honestly noted."},
+        {"q": "Why does this reading guide title this poem 'The Fish's Prayer' rather than its traditional title's literal translation?",
+         "opts": [
+             'There is no reason given',
+             'Because its traditional Pali title, Macchajātaka, is shared with the already-completed Ja 34, and this keeps the two distinct on this site',
+             'The traditional title is unknown',
+             'Sujato himself renamed it',
+         ],
+         "correct": 1,
+         "expl": 'A deliberate disambiguation, since both poems share the same Pali title.'},
+        {"q": 'What already-completed page on this site carries the same story and verse, with one differing word?',
+         "opts": [
+             'Dhp 179',
+             'AN 5.196',
+             "Cp 30, The Fish King's Conduct",
+             'Ja 34, The Fish',
+         ],
+         "correct": 2,
+         "expl": 'The two texts match closely except for the mañca/macche variant.'},
+        {"q": "Where does this poem sit in the chapter's structure?",
+         "opts": [
+             'The first poem of the chapter',
+             'The final poem of the chapter',
+             'It stands outside any chapter',
+             'The fifth poem of the chapter, following Ja 74',
+         ],
+         "correct": 3,
+         "expl": 'Part of the same nine-poem selection from the Varuṇavagga.'},
+    ],
+    marginalia=[
+        ("A prayer aimed specifically at one target", [
+            "not rain in general, but rain against the crow —",
+            "a fish's plea for a very particular kind of relief"
+        ]),
+        ("A trove that is really a stranding", [
+            "the fish call themselves the crow's own stockpile —",
+            "wiped out only by being covered with water again"
+        ]),
+        ("One word, and the verse changes entirely", [
+            "mañca or macche — 'me' or 'the fish' —",
+            "a variant this site can show side by side with Cp 30"
+        ]),
+        ("A wish this reading guide doesn't smooth over", [
+            "harm wished on the crow, plainly stated —",
+            "Sujato's own comment calls it distinctly un-Buddhist"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja75/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../digha-nikaya/dn-20.html">DN 20 &mdash; The '
+        "Great Assembly</a> &mdash; where Pajjuna also appears, per "
+        "Sujato's comment.",
+        '<a href="../cariyapitaka/cp-30.html">Cp 30 &mdash; The '
+        "Fish King's Conduct</a> &mdash; the same story and verse, "
+        "with the mañca/macche variant discussed above.",
+        '<a href="ja-74.html">Ja 74 &mdash; The Law of Trees</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="ja-76.html">Ja 76 &mdash; Unsuspecting</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 76 — Asaṅkiya (Unsuspecting)
+# --------------------------------------------------------------------------- #
+page(
+    76, "Asa&#7749;kiya", "Unsuspecting",
+    meta_title="Ja 76 — Unsuspecting | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 76 — an ascetic's declaration of fearlessness even "
+        "among bandits, protected by having nothing to lose and by "
+        "living with love and compassion, with a cross-reference to "
+        "MN 12. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Eight (Varu&#7751;avagga) &middot; Poem 6 of 9",
+    glance=[
+        ("Setting", "Village and wilderness alike"),
+        ("Speaker", "An ascetic, in the first person"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a short, direct declaration of fearlessness"),
+    ],
+    why=(
+        "Per Sujato's comment, an ascetic is unafraid even in the "
+        "presence of bandits, for the simple reason that he has "
+        "nothing to lose &mdash; a fearlessness this reading guide "
+        "notes, without overstating the connection, as a kind of "
+        "answer to Ja 70's gardener two chapters back, whose "
+        "renunciation was never quite complete."),
+    guide=[
+        ("A declaration of fearlessness, in the first person", [
+            "The verse speaks directly, in the ascetic's own voice: "
+            "&lsquo;I am unsuspecting in the village; in the "
+            "wilderness there's no peril for me: I ride upon the "
+            "straight path with love and compassion.&rsquo; Two "
+            "supports for this fearlessness are named together "
+            "&mdash; having nothing left to lose, and a settled "
+            "practice of love and compassion toward whoever he "
+            "meets."]),
+        ("Per Sujato's comment, a cross-reference and a modest resonance", [
+            "Sujato's comment points to the same idiom for "
+            "&lsquo;mounted&rsquo; (<i lang=\"pi\" translate=\"no\">"
+            "samārūḷha</i>, literally travelling along as if riding a "
+            "horse) at this site's own MN 12. This reading guide also "
+            "notes, without asserting a direct textual connection, a "
+            "resonance with Ja 70 two chapters back: there, a "
+            "gardener-turned-ascetic could not quite let go of his "
+            "own spade; here, an ascetic genuinely without possessions "
+            "has, correspondingly, genuinely nothing left to fear."]),
+    ],
+    terms=[
+        ("Asa&#7749;kiyomhi gāmamhi",
+         "&ldquo;I am unsuspecting in the village&rdquo; &mdash; the "
+         "verse's opening declaration, giving this poem its "
+         "traditional title."),
+        ("araññe natthi me bhayaṁ",
+         "&ldquo;in the wilderness there's no peril for me&rdquo; "
+         "&mdash; the same fearlessness extended from village to "
+         "wilderness alike."),
+        ("Ujuṁ maggaṁ samārūḷho",
+         "&ldquo;I ride upon the straight path&rdquo; &mdash; the "
+         "same idiom Sujato's comment cross-references at this "
+         "site's own MN 12."),
+        ("mettāya karuṇāya",
+         "&ldquo;with love and compassion&rdquo; &mdash; named "
+         "alongside having nothing to lose as the second support for "
+         "this fearlessness."),
+        ("Asa&#7749;kiyajātaka",
+         "the traditional title of this tale, &lsquo;Unsuspecting"
+         "&rsquo;."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja76:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'Who speaks this verse, and in what voice?',
+         "opts": [
+             'A narrator describing someone else',
+             'A group of bandits',
+             'A king addressing his court',
+             'An ascetic, in the first person',
+         ],
+         "correct": 3,
+         "expl": 'A direct, personal declaration of fearlessness.'},
+        {"q": 'Where does the speaker say they feel unsuspecting or unafraid?',
+         "opts": [
+             'Both in the village and in the wilderness',
+             'Only in the village',
+             'Only in the wilderness',
+             'Nowhere in particular',
+         ],
+         "correct": 0,
+         "expl": 'The fearlessness extends across both settings alike.'},
+        {"q": "Per Sujato's comment, why is an ascetic unafraid even among bandits?",
+         "opts": [
+             'The comment gives no reason',
+             'He has nothing left to lose',
+             'He is physically stronger',
+             'He carries a weapon',
+         ],
+         "correct": 1,
+         "expl": 'A fearlessness rooted in genuine renunciation, not in defense.'},
+        {"q": 'What two things does the verse name together as supports for this fearlessness?',
+         "opts": [
+             'Physical strength and weaponry',
+             'Political connections',
+             'Having nothing to lose, and a settled practice of love and compassion',
+             'Wealth and status',
+         ],
+         "correct": 2,
+         "expl": "Two supports named together, neither one alone sufficient in the verse's own framing."},
+        {"q": "What does Sujato's comment cross-reference for the idiom 'mounted on a path'?",
+         "opts": [
+             'DN 20',
+             'SN 12.70',
+             'MN 76',
+             'MN 12',
+         ],
+         "correct": 3,
+         "expl": 'A confirmed cross-reference, already completed on this site.'},
+        {"q": "What does 'samārūḷha' literally mean, per the comment?",
+         "opts": [
+             'Mounted, as if travelling along on a horse',
+             'Walking slowly',
+             'Standing still',
+             'Running quickly',
+         ],
+         "correct": 0,
+         "expl": 'A literal image of riding, applied metaphorically to the straight path.'},
+        {"q": 'What resonance does this reading guide note with Ja 70, two chapters back?',
+         "opts": [
+             'A contradiction between the two poems',
+             "That poem's gardener could not quite let go of his spade, while this ascetic genuinely has nothing left to fear",
+             'A direct textual quotation of Ja 70',
+             'No resonance is noted',
+         ],
+         "correct": 1,
+         "expl": 'A noted resonance in theme, without asserting a direct textual connection.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Law of Trees',
+             'Sixteen Great Dreams',
+             'Unsuspecting (Asaṅkiyajātaka)',
+             "The Fish's Prayer",
+         ],
+         "correct": 2,
+         "expl": 'The seventy-sixth poem overall, and the sixth of the Varuṇavagga.'},
+        {"q": "Where does this poem sit in the chapter's structure?",
+         "opts": [
+             'The first poem of the chapter',
+             'The final poem of the chapter',
+             'It stands outside any chapter',
+             'The sixth poem of the chapter, following Ja 75',
+         ],
+         "correct": 3,
+         "expl": 'Part of the same nine-poem selection from the Varuṇavagga.'},
+        {"q": 'What kind of fearlessness does this verse describe, overall?',
+         "opts": [
+             'A fearlessness grounded in renunciation and compassion, not in physical defense',
+             'A fearlessness grounded in physical strength',
+             'A fearlessness grounded in wealth',
+             'A fearlessness grounded in political power',
+         ],
+         "correct": 0,
+         "expl": "The verse's own two named supports, taken together."},
+    ],
+    marginalia=[
+        ("Nothing left to lose, nothing left to fear", [
+            "the bandit finds no purchase —",
+            "there's simply nothing here worth taking"
+        ]),
+        ("Two supports, named together", [
+            "having nothing, and loving anyway —",
+            "neither one alone is quite the whole picture"
+        ]),
+        ("A path 'ridden', not merely walked", [
+            "the same idiom appears at this site's own MN 12 —",
+            "travelling along as though mounted"
+        ]),
+        ("An answer, of sorts, to an earlier poem", [
+            "Ja 70's gardener still circled back to his spade —",
+            "here, the letting-go is genuinely complete"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja76/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-012.html">MN 12 &mdash; '
+        "The Longer Discourse on the Lion's Roar</a> &mdash; sharing "
+        "the same idiom for 'mounted on a path', per Sujato's "
+        "comment.",
+        '<a href="ja-75.html">Ja 75 &mdash; The Fish\'s '
+        "Prayer</a> &mdash; the poem immediately before this one.",
+        '<a href="ja-77.html">Ja 77 &mdash; Sixteen Great '
+        "Dreams</a> &mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 77 — Mahāsupina (Sixteen Great Dreams)
+# --------------------------------------------------------------------------- #
+page(
+    77, "Mah&amacr;supina", "Sixteen Great Dreams",
+    meta_title="Ja 77 — Sixteen Great Dreams | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 77, the longest and most structurally complex poem "
+        "in this site's Jātaka selection — King Pasenadi's sixteen "
+        "dream-omens of a world turned upside down, and the Buddha's "
+        "reassurance. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Eight (Varu&#7751;avagga) &middot; Poem 7 of 9",
+    glance=[
+        ("Setting", "King Pasenadi's court, per Sujato's comment"),
+        ("Speaker", "Unspecified in the canonical verse itself, "
+                    "cataloging the king's sixteen dreams"),
+        ("Form", "Two stanzas (seven lines total) in three different "
+                 "metres, plus a one-line prose addendum"),
+        ("Length", "2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures. Readers may "
+                              "notice this site's own AN 5.196 shares "
+                              "the title &lsquo;The Great "
+                              "Dreams&rsquo;, but that text concerns "
+                              "an entirely different set of five "
+                              "dreams, the Buddha's own before his "
+                              "awakening &mdash; not this story."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the longest, densest poem in this site's "
+                       "Jātaka selection, cataloging sixteen distinct "
+                       "images across three metres"),
+    ],
+    why=(
+        "This is the longest and most structurally complex poem in "
+        "this site's Jātaka selection &mdash; sixteen dream-omens of "
+        "a world turned upside down, each depicting a reversal of "
+        "the natural or moral order, catalogued across seven lines "
+        "in three different metres, with the Buddha's own "
+        "reassurance that none of it threatens the dreamer "
+        "personally."),
+    guide=[
+        ("King Pasenadi's sixteen dreams, and the Buddha's reassurance", [
+            "Per Sujato's comment, King Pasenadi is perturbed by "
+            "sixteen dreams, but the Buddha assures him that these do "
+            "not affect him personally &mdash; they are portents of "
+            "times to come, not personal threats. Each dream depicts "
+            "an inversion or perversion of the just order of things: "
+            "young saplings flower out of season; the weak nurse the "
+            "strong instead of the reverse; ordinary vessels overflow "
+            "while fine ones sit empty."]),
+        ("Cataloguing the sixteen inversions", [
+            "The verse moves rapidly through its catalogue: four "
+            "snorting black bulls depart without fighting; sapling "
+            "trees flower; cows suckle at their own newborn calves; "
+            "oxen are unyoked and calves given the reins; a horse "
+            "eats from two mouths; people beg a jackal to defecate in "
+            "a fine goblet; a she-jackal eats a rope as it is being "
+            "spun; people pour water into an already-full pitcher; a "
+            "lotus-pond is muddy in the middle yet clear at its "
+            "edges; rice will not cook; people barter sour milk for "
+            "sandalwood; pumpkins sink while stones float; frogs "
+            "swallow black snakes; a crow is surrounded by golden "
+            "geese (the text itself reads &lsquo;phoenix&rsquo;, per "
+            "Sujato's comment, though the commentary reads "
+            "&lsquo;golden&rsquo;, explained as golden royal geese); "
+            "and a wolf trembles in fear of sheep."]),
+        ("The verse's own unusual structure, and a title this site shares but does not repeat", [
+            "Sujato's comment notes the verse has seven lines, each "
+            "pair using a different metre &mdash; <i lang=\"pi\" "
+            "translate=\"no\">opacchandasaka</i>, then <i lang=\"pi\" "
+            "translate=\"no\">vetālīya</i>, then <i lang=\"pi\" "
+            "translate=\"no\">tuṭṭhubha</i> for the last three lines "
+            "&mdash; and closes with a one-line prose addendum, "
+            "&lsquo;no perversion of reality is happening here for "
+            "me&rsquo;, which reads as a reassurance formula for "
+            "anyone troubled by bad dreams generally, not only "
+            "Pasenadi's own. Sujato's comment offers no confirmed "
+            "cross-reference for this poem elsewhere; readers "
+            "searching this site should note that AN 5.196, also "
+            "titled &lsquo;The Great Dreams&rsquo;, is an entirely "
+            "different text &mdash; the Buddha's own five dreams "
+            "before his awakening, not King Pasenadi's sixteen."]),
+    ],
+    terms=[
+        ("Vipariyāso vattati nayidha matthi",
+         "&ldquo;no perversion of reality is happening here for "
+         "me&rdquo; &mdash; the verse's closing prose addendum, read "
+         "as a general reassurance formula."),
+        ("suva&#7751;&#7751;arājahaṁsa",
+         "&ldquo;golden royal geese&rdquo; &mdash; the commentary's "
+         "own reading of a word the text itself gives as "
+         "&lsquo;phoenix&rsquo; (<i lang=\"pi\" translate=\"no\">"
+         "supaṇṇa</i>), surrounding the dream's crow."),
+        ("opacchandasaka, vet&amacr;l&imacr;ya, tu&#7789;&#7789;hubha",
+         "the three different metres Sujato's comment identifies "
+         "across this verse's seven lines, unusual density even "
+         "within this collection."),
+        ("Mah&amacr;supinajātaka",
+         "the traditional title of this tale, &lsquo;Sixteen Great "
+         "Dreams&rsquo;."),
+        ("AN 5.196",
+         "this site's already-completed page sharing the English "
+         "title &lsquo;The Great Dreams&rsquo;, but concerning an "
+         "entirely different set of dreams &mdash; not a parallel to "
+         "this poem, despite the shared title."),
+    ],
+    text_intro=(
+        "The text in full: two stanzas, seven lines total, in three "
+        "different metres, closing with a one-line prose addendum. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja77:1.1-1.4"),
+        ("p", "&sect;2", "ja77:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "Who is troubled by sixteen dreams, per Sujato's comment?",
+         "opts": [
+             'King Pasenadi',
+             'The Buddha himself',
+             'An unnamed ascetic',
+             'A merchant',
+         ],
+         "correct": 0,
+         "expl": 'The dreams are his; the reassurance comes from the Buddha.'},
+        {"q": 'What does the Buddha assure the king about these dreams?',
+         "opts": [
+             'They should be ignored entirely',
+             'They are portents of times to come, not personal threats',
+             'They mean nothing at all',
+             'They predict his own death',
+         ],
+         "correct": 1,
+         "expl": "A reassurance that separates the dreams' meaning from any personal danger."},
+        {"q": 'What single pattern do all sixteen dream-images share?',
+         "opts": [
+             'Each depicts a battle',
+             'Each depicts a wedding',
+             'Each depicts an inversion or perversion of the just order of things',
+             'Each depicts a natural disaster',
+         ],
+         "correct": 2,
+         "expl": 'A catalogue of the world turned upside down, image after image.'},
+        {"q": 'Which of these is one of the sixteen dream-images?',
+         "opts": [
+             'A king losing his crown',
+             'A river running dry',
+             'A forest catching fire',
+             'A horse eating from two mouths',
+         ],
+         "correct": 3,
+         "expl": 'One of the more vivid inversions in the catalogue.'},
+        {"q": 'What does the text itself read for the bird surrounding the crow, and what does the commentary read instead?',
+         "opts": [
+             "The text reads 'phoenix', the commentary reads 'golden', explained as golden royal geese",
+             'Both agree on the same word',
+             'The text reads a color, the commentary a species',
+             'Neither mentions a bird',
+         ],
+         "correct": 0,
+         "expl": "A textual variant Sujato's comment flags explicitly."},
+        {"q": "How many different metres does Sujato's comment identify across this verse's seven lines?",
+         "opts": [
+             'Two',
+             'Three',
+             'One',
+             'Seven',
+         ],
+         "correct": 1,
+         "expl": 'Opacchandasaka, then vetālīya, then tuṭṭhubha for the last three lines.'},
+        {"q": "What does the verse's closing prose addendum say?",
+         "opts": [
+             "'The king must act at once'",
+             "'These dreams belong to no one'",
+             "'No perversion of reality is happening here for me'",
+             "'All these dreams will come true'",
+         ],
+         "correct": 2,
+         "expl": 'Read as a general reassurance formula for anyone troubled by bad dreams.'},
+        {"q": "What does this reading guide caution about AN 5.196, also titled 'The Great Dreams'?",
+         "opts": [
+             'It is the direct source for this poem',
+             'It is a mistranslation of this same text',
+             'It confirms every detail of this poem',
+             "It is an entirely different text, the Buddha's own five dreams before his awakening, not a parallel to this poem",
+         ],
+         "correct": 3,
+         "expl": 'A shared English title masking two unrelated texts — worth flagging explicitly.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Sixteen Great Dreams (Mahāsupinajātaka)',
+             'Unsuspecting',
+             'Herring, the Miser',
+             'The Harsh Sound',
+         ],
+         "correct": 0,
+         "expl": 'The seventy-seventh poem overall, and the seventh of the Varuṇavagga.'},
+        {"q": 'How does this poem compare in length and structure to the others in this chapter?',
+         "opts": [
+             'It has no stanzas at all',
+             'It is the longest and most structurally complex, with two stanzas across three metres plus a prose addendum',
+             'It is identical in structure to the rest',
+             'It is the shortest poem in the chapter',
+         ],
+         "correct": 1,
+         "expl": 'Every other poem in this chapter is a single four-line stanza.'},
+    ],
+    marginalia=[
+        ("A world briefly, deliberately upside down", [
+            "sixteen images, one after another —",
+            "the weak nursing the strong, the full made fuller"
+        ]),
+        ("Not a threat, per the Buddha's own reassurance", [
+            "portents of a distant future —",
+            "not a warning meant for this dreamer personally"
+        ]),
+        ("Three metres in seven lines", [
+            "a density this chapter's other poems don't attempt —",
+            "matched only by the catalogue's own length"
+        ]),
+        ("Same title, different text — worth saying plainly", [
+            "AN 5.196 shares a name, not a story —",
+            "five dreams, not sixteen; the Buddha's own, not a king's"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja77/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-76.html">Ja 76 &mdash; Unsuspecting</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="ja-78.html">Ja 78 &mdash; Herring, the '
+        "Miser</a> &mdash; the next poem in this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 78 — Illisa (Herring, the Miser)
+# --------------------------------------------------------------------------- #
+page(
+    78, "Illisa", "Herring, the Miser",
+    meta_title="Ja 78 — Herring, the Miser | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 78 — Sakka disguises himself as an exact double of a "
+        "miser to force his vaults open for the people, and even the "
+        "king cannot tell them apart. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Eight (Varu&#7751;avagga) &middot; Poem 8 of 9",
+    glance=[
+        ("Setting", "A rich man's household, and the king's court"),
+        ("Speaker", "The king, unable to distinguish the two figures "
+                    "before him"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a clever, almost comic trick played on a "
+                       "miser"),
+    ],
+    why=(
+        "Per Sujato's comment, a miserly rich man is so tight-fisted "
+        "that Sakka, king of the gods, takes on his exact physical "
+        "form &mdash; lameness, crossed eyes, warts, and all &mdash; "
+        "in order to force the man's own vaults open for the people; "
+        "even the king, asked to judge between them, cannot tell "
+        "which is which."),
+    guide=[
+        ("A double so exact that even the king is fooled", [
+            "The verse is spoken from the king's own bewildered "
+            "vantage point: &lsquo;both are lame, both crippled, both "
+            "cross-eyed, and both covered in warts: I see not which "
+            "is Herring.&rsquo; The verse's entire force rests on "
+            "this single admission &mdash; the disguise is not "
+            "merely convincing, it is total."]),
+        ("Per Sujato's comment, a name built from a fish, and a rich man's real-world namesake", [
+            "A rich man was so miserly that Sakka took on his form, "
+            "crippled though it was, specifically to open the "
+            "miser's own vaults for the people; asked to adjudicate "
+            "between the two identical figures, the king simply "
+            "cannot. Sujato's comment traces the man's name, Illisa, "
+            "to the Ilish herring &mdash; still popular eating today, "
+            "and consequently threatened in modern times by "
+            "overfishing, pollution, and global warming &mdash; and "
+            "suggests it arose as wordplay on <i lang=\"pi\" "
+            "translate=\"no\">maccariya</i> (&lsquo;miserly&rsquo;) "
+            "by way of <i lang=\"pi\" translate=\"no\">maccha</i> "
+            "(&lsquo;fish&rsquo;); his misadventures, in fact, were "
+            "sparked by seeing a man eating rotten fish."]),
+    ],
+    terms=[
+        ("Ubho khañjā ubho kuṇī",
+         "&ldquo;both are lame, both crippled&rdquo; &mdash; the "
+         "king's own opening description of the impossible choice "
+         "before him."),
+        ("nāhaṁ passāmi illisan",
+         "&ldquo;I see not which is Herring&rdquo; &mdash; the "
+         "verse's closing admission, giving this poem its "
+         "traditional title."),
+        ("Illisa",
+         "the rich miser's name, per Sujato's comment traced to the "
+         "Ilish herring, still popular eating today and now "
+         "threatened by overfishing, pollution, and global warming."),
+        ("maccariya / maccha",
+         "&ldquo;miserly&rdquo; and &ldquo;fish&rdquo; &mdash; the "
+         "wordplay Sujato's comment suggests lies behind the miser's "
+         "own name."),
+        ("Illisajātaka",
+         "the traditional title of this tale, &lsquo;Herring, the "
+         "Miser&rsquo;."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja78:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'Who speaks this verse, and from what position?',
+         "opts": [
+             'A narrator describing the scene from outside',
+             'The king, unable to distinguish two identical figures before him',
+             'Sakka himself, boasting of his disguise',
+             'The miser, protesting his innocence',
+         ],
+         "correct": 1,
+         "expl": "The verse is built entirely around the king's own admission of defeat."},
+        {"q": 'What does the king say about the two figures before him?',
+         "opts": [
+             'One is clearly the impostor',
+             'The king refuses to look at them',
+             'Both are lame, crippled, cross-eyed, and covered in warts',
+             'They look nothing alike',
+         ],
+         "correct": 2,
+         "expl": 'A disguise so exact that every distinguishing mark is duplicated.'},
+        {"q": "Per Sujato's comment, who takes on the miser's exact physical form, and why?",
+         "opts": [
+             'A rival merchant, out of jealousy',
+             "The miser's own son",
+             'No one; the verse describes an illusion only',
+             "Sakka, king of the gods, to force the miser's vaults open for the people",
+         ],
+         "correct": 3,
+         "expl": "A trick aimed squarely at the miser's own tight-fistedness."},
+        {"q": 'What happens when the king is asked to adjudicate between the two?',
+         "opts": [
+             'He cannot tell which is which',
+             'He immediately identifies the real miser',
+             'He refuses to rule at all',
+             'He rules in favor of Sakka openly',
+         ],
+         "correct": 0,
+         "expl": 'The very admission that gives the verse its force.'},
+        {"q": "What does Sujato's comment trace the miser's name, Illisa, to?",
+         "opts": [
+             'A color',
+             'The Ilish herring',
+             'A river in the story',
+             'A season of the year',
+         ],
+         "correct": 1,
+         "expl": 'A fish still popular for eating today.'},
+        {"q": 'What does the comment say about this fish in modern times?',
+         "opts": [
+             'It is no longer eaten anywhere',
+             'The comment says nothing about its modern status',
+             'It is now threatened by overfishing, pollution, and global warming',
+             'It has gone fully extinct',
+         ],
+         "correct": 2,
+         "expl": 'A real-world aside connecting an ancient tale to a present-day concern.'},
+        {"q": "What wordplay does Sujato's comment suggest lies behind the miser's own name?",
+         "opts": [
+             'No wordplay is suggested',
+             'A pun on his birthplace',
+             'A pun on his family lineage',
+             "'Miserly' (maccariya), by way of 'fish' (maccha)",
+         ],
+         "correct": 3,
+         "expl": 'Reinforced by what the comment says sparked his misadventures: seeing a man eating rotten fish.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Herring, the Miser (Illisajātaka)',
+             'Sixteen Great Dreams',
+             'Unsuspecting',
+             'The Harsh Sound',
+         ],
+         "correct": 0,
+         "expl": 'The seventy-eighth poem overall, and the eighth of the Varuṇavagga.'},
+        {"q": "Where does this poem sit in the chapter's structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The eighth poem of the chapter, following Ja 77',
+             'The first poem of the chapter',
+             "The final poem of this site's selection from the chapter",
+         ],
+         "correct": 1,
+         "expl": "One poem remains after this in this site's selection from the Varuṇavagga."},
+        {"q": 'What gives this verse its particular force, per this reading guide?',
+         "opts": [
+             'A long philosophical argument',
+             'A surprise ending unrelated to the disguise',
+             'The completeness of the disguise, admitted directly by the one person whose job is to tell them apart',
+             'A dramatic battle scene',
+         ],
+         "correct": 2,
+         "expl": "The king's own bewildered admission carries the entire verse."},
+    ],
+    marginalia=[
+        ("A disguise total enough to fool a king", [
+            "same lameness, same warts, same crossed eyes —",
+            "nothing left to tell the two apart by"
+        ]),
+        ("A trick aimed at exactly the right target", [
+            "not force, but mimicry —",
+            "the miser's own vaults, opened by his own double"
+        ]),
+        ("A name that turns out to be a joke", [
+            "Illisa, the herring —",
+            "miserliness and fish, folded into one word"
+        ]),
+        ("An old tale, a present-day footnote", [
+            "the fish that gave the miser his name —",
+            "now itself endangered, per Sujato's own aside"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja78/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-77.html">Ja 77 &mdash; Sixteen Great '
+        "Dreams</a> &mdash; the poem immediately before this one.",
+        '<a href="ja-79.html">Ja 79 &mdash; The Harsh Sound</a> '
+        "&mdash; the final poem in this site's selection from this "
+        "chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 79 — Kharassara (The Harsh Sound)
+# --------------------------------------------------------------------------- #
+page(
+    79, "Kharassara", "The Harsh Sound",
+    meta_title="Ja 79 — The Harsh Sound | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 79 — a village headman's betrayal and the drumbeat "
+        "of its aftermath, closing this site's selection from the "
+        "Varuṇavagga and the whole Ekakanipāta. From Ru-Yi Meditation "
+        "Center."),
+    vagga="Book of the Ones &middot; Chapter Eight (Varu&#7751;avagga) &middot; Poem 9 of 9 in this site's selection",
+    glance=[
+        ("Setting", "A plundered village, per Sujato's comment"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a grim closing image, with two confirmed "
+                       "cross-references elsewhere on this site"),
+    ],
+    why=(
+        "This poem closes this site's selection from the Varuṇavagga "
+        "&mdash; and, with it, this site's entire Jātaka selection "
+        "from the Ekakanipāta &mdash; on a genuinely grim note: a "
+        "village headman's betrayal, and the drumbeat that follows "
+        "its aftermath, with two phrases Sujato's own comment "
+        "traces directly to this site's already-completed MN 76 and "
+        "SN 12.70."),
+    guide=[
+        ("A village left defenseless, and the aftermath", [
+            "The verse depicts the aftermath directly: cows "
+            "plundered and killed, houses burned down, people "
+            "abducted &mdash; and then comes &lsquo;the son of she "
+            "whose son is dead&rsquo;, sounding the harsh drum of "
+            "war. Per Sujato's comment, a village headman had "
+            "conspired with bandits to leave his own village "
+            "helpless and ripe for exactly this plunder."]),
+        ("Two confirmed cross-references, per Sujato's comment", [
+            "Sujato's comment notes a nearly identical phrase at this "
+            "site's own MN 76, differing only between <i lang=\"pi\" "
+            "translate=\"no\">puttahatāya</i> and <i lang=\"pi\" "
+            "translate=\"no\">puttamatāya</i> &mdash; both meaning "
+            "the same thing. The comment also cross-references this "
+            "site's own SN 12.70 for the expression <i lang=\"pi\" "
+            "translate=\"no\">kharassara</i> itself, used specifically "
+            "for the beating of a drum to announce an execution "
+            "&mdash; giving this poem's closing image its full, grim "
+            "weight."]),
+        ("Closing this chapter, and this site's selection from the whole Ekakanipāta", [
+            "This is the ninth poem of this site's own selection from "
+            "the Varuṇavagga, and, with it, of this site's entire "
+            "selection from the Ekakanipāta itself. The chapter's own "
+            "traditional tenth poem, Bhīmasenajātaka (Ja 80), has no "
+            "Sujato CC0 translation and is therefore not included "
+            "here &mdash; consistent with this project's entire scope "
+            "from the start. The Varuṇavagga's own untranslated "
+            "closing summary verse (uddāna), which follows "
+            "immediately in the source text and names all ten tales "
+            "of the chapter including the untranslated Bhīmasena, is "
+            "not quoted here since it carries no English translation, "
+            "but is noted for completeness, as at the close of every "
+            "previous chapter in this selection. With this poem, "
+            "seventy-nine of this site's selected poems now cover the "
+            "entire Ekakanipāta as far as Sujato's translation "
+            "allows; three further, standalone poems from later, "
+            "larger nipātas &mdash; Ja 126, Ja 159, and Ja 466 "
+            "&mdash; remain to complete this site's Jātaka selection "
+            "at its own maximum of 82."]),
+    ],
+    terms=[
+        ("puttahatāya putto",
+         "&ldquo;the son of she whose son is dead&rdquo; &mdash; the "
+         "verse's own grim epithet for the drummer, per Sujato's "
+         "comment nearly identical to a phrase at this site's own "
+         "MN 76."),
+        ("kharassaraṁ ḍiṇḍimaṁ",
+         "&ldquo;the harsh drum of war&rdquo; &mdash; per Sujato's "
+         "comment, cross-referenced at this site's own SN 12.70 as "
+         "the specific idiom for a drum beaten to announce an "
+         "execution, giving this poem its traditional title."),
+        ("Bhīmasenajātaka (Ja 80)",
+         "the Varuṇavagga's own traditional tenth poem, with no "
+         "Sujato CC0 translation and therefore not included in this "
+         "site's selection."),
+        ("Tassuddānaṁ",
+         "the Varuṇavagga's own untranslated closing summary verse, "
+         "naming all ten tales of the chapter including the "
+         "untranslated Bhīmasena; noted here, not quoted, since it "
+         "carries no English translation."),
+        ("Kharassarajātaka",
+         "the traditional title of this tale, &lsquo;The Harsh "
+         "Sound&rsquo;, closing this site's selection from the "
+         "Ekakanipāta."),
+    ],
+    text_intro=(
+        "The text in full: a single verse. The chapter's own "
+        "untranslated closing summary verse (uddāna), which follows "
+        "immediately in the source text, is not quoted here since it "
+        "carries no English translation, but its content &mdash; the "
+        "ten poem titles of this chapter in sequence, including the "
+        "untranslated Bhīmasenajātaka &mdash; matches this reading "
+        "guide's own discussion above. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja79:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the verse depict as the aftermath of the village's plunder?",
+         "opts": [
+             'A festival celebration',
+             'An empty, undisturbed village',
+             'Cows plundered and killed, houses burned down, people abducted',
+             'A peaceful negotiation',
+         ],
+         "correct": 2,
+         "expl": "The verse's own grim catalogue of what was done."},
+        {"q": 'Who arrives at the end of the verse, and what do they do?',
+         "opts": [
+             'A merchant, offering to help',
+             'The village headman, offering an apology',
+             'A group of monks, offering blessings',
+             "'The son of she whose son is dead', beating the harsh drum of war",
+         ],
+         "correct": 3,
+         "expl": "The verse's own closing, ominous image."},
+        {"q": "Per Sujato's comment, who conspired with bandits to leave the village defenseless?",
+         "opts": [
+             "The village's own headman",
+             'A rival village',
+             'A foreign army',
+             'The comment gives no explanation',
+         ],
+         "correct": 0,
+         "expl": 'A betrayal from within, not an outside attack alone.'},
+        {"q": "What nearly identical phrase does Sujato's comment cross-reference at this site's own MN 76?",
+         "opts": [
+             'No cross-reference is given',
+             "'The son of she whose son is dead', differing only in one word with the same meaning",
+             'An entirely unrelated phrase',
+             'A phrase about a different village',
+         ],
+         "correct": 1,
+         "expl": 'Puttahatāya versus puttamatāya — different words, identical meaning.'},
+        {"q": "What does Sujato's comment say the expression 'kharassara' specifically refers to, per SN 12.70?",
+         "opts": [
+             'A musical performance',
+             'A call to prayer',
+             'The beating of a drum to announce an execution',
+             'A general term for any loud noise',
+         ],
+         "correct": 2,
+         "expl": "Giving the poem's closing image its full, grim weight."},
+        {"q": "What is this poem's relationship to the Varuṇavagga's traditional tenth poem, Bhīmasenajātaka (Ja 80)?",
+         "opts": [
+             'Ja 80 is included immediately after this poem',
+             'Ja 80 and this poem are the same text',
+             'Ja 80 does not exist in the source text at all',
+             "Ja 80 has no Sujato CC0 translation and is not included in this site's selection",
+         ],
+         "correct": 3,
+         "expl": 'A genuine root Pali text for Ja 80 exists, but with no accompanying translation.'},
+        {"q": "What does this reading guide say about the Varuṇavagga's own closing uddāna (summary verse)?",
+         "opts": [
+             'It is noted, not quoted, since it carries no English translation, and names all ten tales including the untranslated Bhīmasena',
+             'It is quoted here in full English translation',
+             'No such summary verse exists',
+             'It only names nine of the ten tales',
+         ],
+         "correct": 0,
+         "expl": 'Consistent with the same practice at the close of every previous chapter.'},
+        {"q": "What milestone does this poem mark for this site's Jātaka selection?",
+         "opts": [
+             'No particular milestone',
+             "The completion of this site's selection from the entire Ekakanipāta, as far as Sujato's translation allows",
+             'The complete end of the Jātaka project, with nothing further planned',
+             "The midpoint of this site's Jātaka selection",
+         ],
+         "correct": 1,
+         "expl": 'Three further standalone poems from later nipātas remain before the full 82-poem selection is complete.'},
+        {"q": "What three standalone poems remain to complete this site's Jātaka selection at its own maximum of 82?",
+         "opts": [
+             'No further poems remain',
+             'Ja 1, Ja 2, and Ja 3',
+             'Ja 126, Ja 159, and Ja 466',
+             'Ja 80, Ja 81, and Ja 82',
+         ],
+         "correct": 2,
+         "expl": 'Each from a later, larger traditional nipāta outside the Ekakanipāta.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Herring, the Miser',
+             "The Fish's Prayer",
+             'The Warding Tree',
+             'The Harsh Sound (Kharassarajātaka)',
+         ],
+         "correct": 3,
+         "expl": "The seventy-ninth poem overall, and the ninth and final poem of this site's Varuṇavagga selection."},
+    ],
+    marginalia=[
+        ("A betrayal from within, not just an attack from without", [
+            "the headman conspired with the bandits himself —",
+            "the village left helpless by its own protector"
+        ]),
+        ("A drumbeat with a specific, grim meaning", [
+            "not just noise, but an announcement —",
+            "the same beat used elsewhere for an execution"
+        ]),
+        ("One poem left untranslated, and honestly noted", [
+            "Ja 80 exists in the source text —",
+            "but no English translation carries it here"
+        ]),
+        ("A chapter closes, and so does this site's Ekakanipāta", [
+            "seventy-nine poems, as far as translation allows —",
+            "three standalone tales still ahead, elsewhere in the canon"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja79/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-076.html">MN 76 &mdash; '
+        "With Sandaka</a> &mdash; sharing a nearly identical phrase, "
+        "per Sujato's comment.",
+        '<a href="../samyutta-nikaya/sn-12.70.html">SN 12.70 '
+        "&mdash; The Wanderer Susīma</a> &mdash; source of the "
+        "kharassara idiom's specific meaning.",
+        '<a href="ja-78.html">Ja 78 &mdash; Herring, the '
+        "Miser</a> &mdash; the poem immediately before this one.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
