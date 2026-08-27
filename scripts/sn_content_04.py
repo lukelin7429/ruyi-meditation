@@ -8779,3 +8779,1618 @@ page(
         "35.74&ndash;83), not yet built.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 35.74 — Paṭhamagilānasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 74, "Paṭhamagilāna", "Sick (1st)",
+    vagga="Gilānavagga",
+    meta_title="SN 35.74 — Sick (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamagilānasutta &mdash; a sick mendicant&rsquo;s "
+        "remorse traced to a misunderstood goal, and a catechism "
+        "that ends in the arising of the Dhamma-eye. Opening "
+        "Gilānavagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, at the bedside of a sick mendicant "
+                     "elsewhere in the city"),
+        ("Speakers", "The Buddha questioning; a junior, "
+                      "little-known mendicant confessing and "
+                      "answering"),
+        ("Form", "A pastoral visit prompted by a third party&rsquo;s "
+                 "report, a remorse diagnosed and corrected, then "
+                 "a six-faculty catechism (permanent? suffering? "
+                 "self?) closing on the arising of the Dhamma-eye"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the remorse dialogue and the closing "
+                       "outcome both reward careful attention"),
+    ],
+    why=(
+        "This discourse opens Gilānavagga (&ldquo;Sick&rdquo;), "
+        "and its own opening scene explains the vagga&rsquo;s name: "
+        "a mendicant reports to the Buddha that an unnamed junior "
+        "monk, not well-known, is gravely ill elsewhere in "
+        "Sāvatthī, and asks him to visit out of sympathy. The "
+        "Buddha goes unprompted by the sick monk himself. What "
+        "follows is a careful diagnosis: the sick monk has no "
+        "remorse over his ethical conduct, yet admits to remorse "
+        "all the same &mdash; not because he has broken any "
+        "precept, but because he had understood the Buddha&rsquo;s "
+        "teaching to aim merely at ethical purity. The Buddha "
+        "corrects this: the Dhamma is taught for the sake of the "
+        "fading away of greed (rāgavirāga), not ethical purity for "
+        "its own sake. A catechism on the six sense faculties "
+        "alone &mdash; eye, ear, nose, tongue, body, mind, each "
+        "asked whether permanent, whether suffering, whether fit "
+        "to be regarded as self &mdash; follows, and the discourse "
+        "closes not with the full liberation formula this project "
+        "has met many times before, but with the arising of "
+        "&ldquo;the dustless, stainless vision of the "
+        "Dhamma&rdquo; in the sick mendicant: stream-entry, not "
+        "full awakening. This narrower catechism and narrower "
+        "outcome will matter directly for reading SN 35.75, which "
+        "repeats this same visit almost word for word but extends "
+        "both the catechism and the goal further, and closes on "
+        "full liberation instead."
+    ),
+    guide=[
+        ("A visit prompted by report, not request", [
+            "The sick mendicant never asks for the Buddha himself "
+            "&mdash; another mendicant reports his condition and "
+            "asks the Buddha to go &ldquo;out of sympathy.&rdquo; "
+            "The Buddha, hearing that the monk is junior and "
+            "little-known, goes anyway; the sick monk stirs to "
+            "rise and is told to stay as he is.",
+        ]),
+        ("Remorse traced to a misunderstood goal", [
+            "The sick monk has &ldquo;no reason to blame "
+            "himself&rdquo; over ethical conduct, yet confesses "
+            "real remorse. The Buddha&rsquo;s questioning uncovers "
+            "why: the monk had understood the teaching to aim at "
+            "ethical purity alone. The Buddha corrects this "
+            "directly &mdash; the Dhamma is taught for the fading "
+            "away of greed, not for ethical purity as an end in "
+            "itself.",
+        ]),
+        ("A catechism on the six faculties alone", [
+            "The three-question catechism (permanent or "
+            "impermanent? suffering or happiness? fit to be "
+            "regarded as self?) here covers only the six sense "
+            "faculties themselves &mdash; eye, ear, nose, tongue, "
+            "body, mind &mdash; not the extended chain through "
+            "consciousness, contact, and feeling that SN 35.75 "
+            "will use for the same visit repeated.",
+        ]),
+        ("A first stirring, not full release", [
+            "The discourse closes with the disillusionment formula "
+            "and the arising of &ldquo;the dustless, stainless "
+            "vision of the Dhamma&rdquo; in the sick mendicant "
+            "&mdash; the standard mark of stream-entry, not the "
+            "fuller declaration of freedom this project has met at "
+            "the close of many other discourses. Read alongside SN "
+            "35.75, this narrower outcome tracks the narrower "
+            "catechism and narrower statement of the goal that "
+            "preceded it.",
+        ]),
+    ],
+    terms=[
+        ("kukkucca", "remorse, worry &mdash; what the Buddha asks "
+                       "after and the sick monk confesses to, "
+                       "despite having no fault in conduct"),
+        ("rāgavirāga", "the fading away of greed &mdash; what the "
+                          "sick monk comes to understand as the "
+                          "real purpose of the teaching"),
+        ("anicca", "impermanent &mdash; the catechism&rsquo;s own "
+                      "first question, applied to each of the six "
+                      "sense faculties"),
+        ("dukkha", "suffering &mdash; what is impermanent is, by "
+                      "the catechism&rsquo;s own logic, necessarily "
+                      "this"),
+        ("dhammacakkhu", "the vision (or eye) of the Dhamma &mdash; "
+                            "what arises in the sick mendicant at "
+                            "the close, the classic mark of "
+                            "stream-entry"),
+    ],
+    text_intro=("The complete discourse: a pastoral visit, a "
+        "remorse diagnosed and corrected, a six-faculty catechism, "
+        "and the arising of the Dhamma-eye. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.74:1.1-1.4"),
+        ("p", "&sect;2", "sn35.74:2.1-3.1"),
+        ("p", "&sect;3", "sn35.74:4.1-11.1"),
+        ("p", "&sect;4", "sn35.74:12.1-15.1"),
+        ("p", "&sect;5", "sn35.74:16.1-19.1"),
+        ("p", "&sect;6", "sn35.74:20.1-21.4"),
+    ],
+    quiz=[
+        {"q": "Who first reports the sick mendicant&rsquo;s condition to the Buddha?",
+         "opts": ["Another mendicant, asking the Buddha to visit out of sympathy", "The sick mendicant himself", "Venerable Ānanda", "A lay supporter"],
+         "correct": 0,
+         "expl": "The sick monk never asks for the visit himself &mdash; a third party reports his condition."},
+        {"q": "Why does the sick monk feel remorse, given he has no fault in ethical conduct?",
+         "opts": ["He had understood the teaching to aim merely at ethical purity", "He broke a minor precept", "He fears death", "He doubts the Buddha&rsquo;s enlightenment"],
+         "correct": 0,
+         "expl": "His remorse traces to a misunderstood goal, not a broken precept."},
+        {"q": "What does the Buddha say the Dhamma is actually taught for?",
+         "opts": ["The fading away of greed", "Ethical purity as an end in itself", "Rebirth in a heavenly realm", "Mastery of concentration"],
+         "correct": 0,
+         "expl": "Rāgavirāga &mdash; the fading away of greed &mdash; not ethical purity for its own sake."},
+        {"q": "Which sense factors does this discourse&rsquo;s own catechism cover?",
+         "opts": ["The six sense faculties alone (eye, ear, nose, tongue, body, mind)", "The six faculties plus consciousness, contact, and feeling", "Only the eye and mind", "The five aggregates"],
+         "correct": 0,
+         "expl": "A narrower catechism than SN 35.75&rsquo;s repeat of this same visit."},
+        {"q": "What arises in the sick mendicant at the discourse&rsquo;s close?",
+         "opts": ["The dustless, stainless vision of the Dhamma (stream-entry)", "Full arahantship, freed from all defilements", "Nothing &mdash; the discourse ends without stating an outcome", "A vision of a past life"],
+         "correct": 0,
+         "expl": "Stream-entry, not full liberation &mdash; a narrower outcome than SN 35.75&rsquo;s."},
+        {"q": "How does this discourse&rsquo;s outcome set up SN 35.75, which follows immediately?",
+         "opts": ["SN 35.75 repeats the same visit with a fuller catechism and closes on full liberation instead", "SN 35.75 is unrelated in content", "SN 35.75 features the same monk recovering from illness", "SN 35.75 retells this discourse from the Buddha&rsquo;s own point of view"],
+         "correct": 0,
+         "expl": "The pairing rewards reading both discourses together, as this reading guide does."},
+    ],
+    marginalia=[
+        ("A visit, prompted by report", [
+            "compassion without a request",
+        ]),
+        ("Remorse, misdiagnosed", [
+            "not ethics &mdash; the goal itself",
+        ]),
+        ("Six faculties, three questions", [
+            "permanent, suffering, not-self",
+        ]),
+        ("The Dhamma-eye, not full release", [
+            "stream-entry, not arahantship",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.74/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.73.html">SN 35.73 &middot; Six Fields of '
+        "Contact (3rd)</a> &mdash; the previous discourse, closing "
+        "Migajālavagga.",
+        '<a href="sn-35.75.html">SN 35.75 &middot; Sick (2nd)</a> '
+        "&mdash; the same visit repeated, its catechism and goal "
+        "both extended, closing on full liberation.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.75 — Dutiyagilānasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 75, "Dutiyagilāna", "Sick (2nd)",
+    vagga="Gilānavagga",
+    meta_title="SN 35.75 — Sick (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Dutiyagilānasutta &mdash; the same pastoral visit "
+        "as SN 35.74, its catechism and goal both extended, closing "
+        "this time on full liberation. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī, at the bedside of another sick "
+                     "mendicant (by the discourse&rsquo;s own "
+                     "close parallel to SN 35.74)"),
+        ("Speakers", "The Buddha questioning; a junior, "
+                      "little-known mendicant confessing and "
+                      "answering"),
+        ("Form", "SN 35.74&rsquo;s own visit and remorse dialogue "
+                 "repeated almost word for word, its goal restated "
+                 "more fully and its catechism extended through "
+                 "consciousness, contact, and feeling, closing on "
+                 "full liberation rather than the Dhamma-eye"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "best read directly against SN 35.74, which "
+                       "it deliberately echoes"),
+    ],
+    why=(
+        "This discourse is SN 35.74&rsquo;s own close companion: "
+        "the identical scene (a junior, little-known mendicant "
+        "reported gravely ill, the Buddha visiting out of sympathy, "
+        "the same remorse confessed despite no fault in conduct), "
+        "repeated almost word for word &mdash; but with two "
+        "deliberate extensions. First, where SN 35.74&rsquo;s sick "
+        "monk understood the goal as &ldquo;the fading away of "
+        "greed,&rdquo; this discourse&rsquo;s sick monk understands "
+        "it more fully still, as &ldquo;complete extinguishment "
+        "without grasping fuel&rdquo; (anupādāparinibbāna) &mdash; "
+        "nibbāna itself, named directly. Second, where SN "
+        "35.74&rsquo;s catechism covered only the six sense "
+        "faculties, this discourse extends it through "
+        "consciousness, contact, and the feeling that arises "
+        "dependent on contact, for every one of the six fields "
+        "&mdash; the full analytical chain this project has met "
+        "in its most complete form elsewhere in this book. The "
+        "outcome matches the extension: rather than the arising of "
+        "the Dhamma-eye, this sick mendicant&rsquo;s &ldquo;mind "
+        "was freed from defilements by not grasping&rdquo; &mdash; "
+        "full liberation, on the spot, at the sickbed. Read as a "
+        "pair, SN 35.74 and SN 35.75 form a diagnostic couplet: the "
+        "same pastoral occasion, the same opening remorse, but a "
+        "fuller articulation of the goal and a fuller catechism "
+        "yield a fuller result."
+    ),
+    guide=[
+        ("The same visit, repeated almost word for word", [
+            "SN 35.74&rsquo;s opening scene recurs nearly "
+            "unchanged: a junior, little-known mendicant reported "
+            "gravely ill, the Buddha visiting unprompted by the "
+            "sick monk himself, the same seat spread out, the same "
+            "greeting, the same confession of remorse despite no "
+            "fault in ethical conduct.",
+        ]),
+        ("The goal, restated more fully", [
+            "Where SN 35.74&rsquo;s sick monk understood the "
+            "Dhamma as taught for &ldquo;the fading away of "
+            "greed,&rdquo; this discourse&rsquo;s sick monk names "
+            "the goal directly as &ldquo;complete extinguishment "
+            "without grasping fuel&rdquo; (anupādāparinibbāna) "
+            "&mdash; nibbāna itself.",
+        ]),
+        ("The catechism, extended through the full chain", [
+            "Rather than stopping at the six sense faculties, this "
+            "discourse&rsquo;s catechism runs each field&rsquo;s "
+            "full chain &mdash; faculty, object, consciousness, "
+            "contact, and the feeling dependent on contact &mdash; "
+            "through all three questions, for every one of the six "
+            "fields.",
+        ]),
+        ("Full liberation, on the spot", [
+            "The discourse closes not with the arising of the "
+            "Dhamma-eye, as at SN 35.74, but with the sick "
+            "mendicant&rsquo;s mind freed from defilements by not "
+            "grasping &mdash; the standard formula for full "
+            "liberation, achieved at the sickbed itself. Read "
+            "against SN 35.74, this project&rsquo;s own diagnostic "
+            "couplet: fuller goal, fuller catechism, fuller "
+            "result.",
+        ]),
+    ],
+    terms=[
+        ("anupādāparinibbāna", "complete extinguishment without "
+                                  "grasping fuel &mdash; the goal "
+                                  "this discourse&rsquo;s sick monk "
+                                  "names, fuller than SN 35.74&rsquo;s "
+                                  "&ldquo;fading away of greed&rdquo;"),
+        ("phassa", "contact &mdash; one of the links this "
+                     "discourse&rsquo;s own extended catechism adds "
+                     "to SN 35.74&rsquo;s narrower six-faculty "
+                     "version"),
+        ("vedanā", "feeling &mdash; the pleasant, painful, or "
+                      "neutral feeling arising dependent on contact, "
+                      "the chain&rsquo;s own final link"),
+        ("nibbindati", "grows disillusioned &mdash; the first step "
+                          "of this project&rsquo;s own familiar "
+                          "liberation sequence, run here across the "
+                          "full extended chain"),
+        ("anupādā vimuccati", "freed by not grasping &mdash; this "
+                                 "discourse&rsquo;s own closing "
+                                 "achievement, full liberation rather "
+                                 "than SN 35.74&rsquo;s Dhamma-eye"),
+    ],
+    text_intro=("The complete discourse: the same visit as SN "
+        "35.74, its catechism extended through consciousness, "
+        "contact, and feeling, closing on full liberation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.75:1.1-1.3"),
+        ("p", "&sect;2", "sn35.75:2.1-3.2"),
+        ("p", "&sect;3", "sn35.75:4.1-9.2"),
+        ("p", "&sect;4", "sn35.75:10.1-12.1"),
+        ("p", "&sect;5", "sn35.75:13.1-16.1"),
+        ("p", "&sect;6", "sn35.75:17.1-18.3"),
+    ],
+    quiz=[
+        {"q": "How does this discourse&rsquo;s opening scene compare with SN 35.74&rsquo;s?",
+         "opts": ["Nearly identical &mdash; the same visit, the same remorse confessed", "A completely different setting and cast", "The sick monk this time requests the visit himself", "This discourse opens with a group of mendicants, not one"],
+         "correct": 0,
+         "expl": "SN 35.75 deliberately echoes SN 35.74&rsquo;s own opening almost word for word."},
+        {"q": "How does this discourse&rsquo;s sick monk name the goal of the teaching, fuller than SN 35.74&rsquo;s?",
+         "opts": ["Complete extinguishment without grasping fuel (anupādāparinibbāna)", "The fading away of greed alone", "Rebirth in a heavenly realm", "Mastery of the four absorptions"],
+         "correct": 0,
+         "expl": "Nibbāna named directly, fuller than SN 35.74&rsquo;s narrower &ldquo;fading away of greed.&rdquo;"},
+        {"q": "What does this discourse&rsquo;s catechism add to SN 35.74&rsquo;s six-faculty version?",
+         "opts": ["Consciousness, contact, and the feeling dependent on contact, for each field", "Nothing &mdash; the catechism is identical", "The five aggregates", "A comparison with other ascetics&rsquo; teachings"],
+         "correct": 0,
+         "expl": "The full analytical chain, not just the six bare faculties."},
+        {"q": "What outcome closes this discourse, unlike SN 35.74&rsquo;s Dhamma-eye?",
+         "opts": ["Full liberation: the mind freed from defilements by not grasping", "A rebirth as a deity", "No stated outcome", "A relapse of the illness"],
+         "correct": 0,
+         "expl": "Full arahantship at the sickbed, not stream-entry."},
+        {"q": "How do SN 35.74 and SN 35.75 relate as a pair, in this reading guide&rsquo;s own account?",
+         "opts": ["A diagnostic couplet: fuller goal, fuller catechism, fuller result", "Two unrelated discourses placed side by side by coincidence", "SN 35.75 retells SN 35.74 from the sick monk&rsquo;s own point of view", "SN 35.75 corrects an error in SN 35.74"],
+         "correct": 0,
+         "expl": "The same occasion, deliberately extended, yielding a fuller outcome."},
+        {"q": "What Pali term names the specific mode of release that closes this discourse?",
+         "opts": ["Anupādā vimuccati &mdash; freed by not grasping", "Dhammacakkhu &mdash; the vision of the Dhamma", "Sotāpatti &mdash; stream-entry", "Jhāna &mdash; absorption"],
+         "correct": 0,
+         "expl": "The standard formula for full liberation, distinct from SN 35.74&rsquo;s stream-entry outcome."},
+    ],
+    marginalia=[
+        ("The same visit, again", [
+            "echoed almost word for word",
+        ]),
+        ("A fuller goal", [
+            "extinguishment without fuel",
+        ]),
+        ("The full chain", [
+            "faculty, object, consciousness,",
+            "contact, feeling",
+        ]),
+        ("Full release, at the sickbed", [
+            "freed by not grasping",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.75/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.74.html">SN 35.74 &middot; Sick (1st)</a> '
+        "&mdash; the previous discourse, this project&rsquo;s own "
+        "narrower half of the couplet.",
+        '<a href="sn-35.76.html">SN 35.76 &middot; With Rādha on '
+        "Impermanence</a> &mdash; the next discourse, opening a "
+        "triad of brief teachings to the Venerable Rādha.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.76 — Rādhaaniccasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 76, "Rādhaanicca", "With Rādha on Impermanence",
+    vagga="Gilānavagga",
+    meta_title="SN 35.76 — With Rādha on Impermanence | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Rādhaaniccasutta &mdash; a brief teaching to the "
+        "Venerable Rādha, opening a triad naming impermanence, "
+        "suffering, and not-self in turn. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Venerable Rādha requesting; the Buddha "
+                      "teaching"),
+        ("Form", "A brief teaching requested and granted in full: "
+                 "give up desire for what is impermanent, run "
+                 "across the six sense fields and what arises "
+                 "dependent on each"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and direct, best read alongside SN "
+                       "35.77-78, which recast it"),
+    ],
+    why=(
+        "The Venerable Rādha, already the central figure of this "
+        "project&rsquo;s own SN 23 (Rādhasaṃyutta), reappears here "
+        "for a brief three-discourse cameo. He asks for a teaching "
+        "&ldquo;in brief&rdquo; so that he can go and practice "
+        "alone, diligent and resolute &mdash; the same request "
+        "form this project has met from other mendicants elsewhere "
+        "&mdash; and receives one: give up desire "
+        "(chandarāgapahānaṁ) for what is impermanent, named field "
+        "by field across the six senses and what arises dependent "
+        "on each (object, consciousness, contact, and the feeling "
+        "born of contact). This discourse gives the full text; SN "
+        "35.77 and SN 35.78 will repeat the identical structure "
+        "with only the target word changed &mdash; suffering, then "
+        "not-self &mdash; each so heavily elided in Sujato&rsquo;s "
+        "own English that only their opening line survives "
+        "untranslated ellipsis. Together the three discourses form "
+        "a tight triad, running the three characteristics "
+        "(impermanence, suffering, not-self) through the same "
+        "&ldquo;give up desire&rdquo; frame in turn."
+    ),
+    guide=[
+        ("A request Rādha has made before", [
+            "&ldquo;Teach me the Dhamma in brief&rdquo; is a "
+            "request this project has already met from other "
+            "mendicants; Rādha, the central figure of this "
+            "project&rsquo;s own SN 23, makes it here for a brief "
+            "cameo appearance inside Book IV.",
+        ]),
+        ("Give up desire for what is impermanent", [
+            "The teaching itself is compact: whatever is "
+            "impermanent, desire for it should be given up. The "
+            "target is named field by field across the six senses "
+            "&mdash; the faculty, its object, consciousness, "
+            "contact, and the feeling that arises dependent on "
+            "contact &mdash; for each of the six.",
+        ]),
+        ("The first of a triad", [
+            "This discourse gives the teaching in full; SN 35.77 "
+            "and SN 35.78 repeat the identical frame with only the "
+            "target word changed, running the three characteristics "
+            "&mdash; impermanence, suffering, not-self &mdash; in "
+            "turn.",
+        ]),
+    ],
+    terms=[
+        ("chandarāga", "desire and greed &mdash; what is to be "
+                          "given up for whatever is impermanent"),
+        ("anicca", "impermanent &mdash; this discourse&rsquo;s own "
+                      "target, the first of the coming triad&rsquo;s "
+                      "three"),
+        ("saṅkhittena", "in brief &mdash; how Rādha asks the "
+                            "Buddha to teach him"),
+        ("appamatta", "diligent &mdash; part of how Rādha describes "
+                         "the practice he intends to undertake alone "
+                         "after hearing the teaching"),
+        ("phassajā vedanā", "feeling born of contact &mdash; the "
+                                "final link in the chain named for "
+                                "each of the six sense fields"),
+    ],
+    text_intro=("The complete discourse: Rādha&rsquo;s request and "
+        "the Buddha&rsquo;s brief teaching, run across all six "
+        "sense fields. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.76:1.1-1.3"),
+        ("p", "&sect;2", "sn35.76:1.4-1.8"),
+        ("p", "&sect;3", "sn35.76:1.9-1.16"),
+    ],
+    quiz=[
+        {"q": "What does Rādha ask the Buddha for at this discourse&rsquo;s opening?",
+         "opts": ["A teaching in brief, so he can practice alone", "Ordination for a new disciple", "A ruling on a monastic dispute", "An explanation of a vision he had"],
+         "correct": 0,
+         "expl": "The same &ldquo;teach me in brief&rdquo; request this project has met from other mendicants."},
+        {"q": "What does the Buddha say should be given up for whatever is impermanent?",
+         "opts": ["Desire (chandarāga)", "Ethical conduct", "Meditation itself", "The teaching itself"],
+         "correct": 0,
+         "expl": "Chandarāgapahānaṁ &mdash; give up desire and greed for what is impermanent."},
+        {"q": "Across how many sense fields does this discourse run its teaching?",
+         "opts": ["Six &mdash; eye, ear, nose, tongue, body, mind", "Five &mdash; the five aggregates", "Four &mdash; the four elements", "One &mdash; the mind alone"],
+         "correct": 0,
+         "expl": "All six sense fields, each with its object, consciousness, contact, and feeling."},
+        {"q": "What earlier part of this project already centers on Rādha?",
+         "opts": ["SN 23, Rādhasaṃyutta", "SN 22, Khandhasaṃyutta", "SN 1, Devatāsaṃyutta", "SN 34, Jhānasaṃyutta"],
+         "correct": 0,
+         "expl": "Rādha is the central figure of this project&rsquo;s own SN 23, and reappears here briefly."},
+        {"q": "How do SN 35.77 and SN 35.78, immediately following, relate to this discourse?",
+         "opts": ["They repeat the identical frame with the target changed to suffering, then not-self", "They contradict this discourse&rsquo;s teaching", "They are unrelated discourses to different mendicants", "They retell this same discourse from Rādha&rsquo;s own point of view"],
+         "correct": 0,
+         "expl": "A triad running the three characteristics in turn through the same &ldquo;give up desire&rdquo; frame."},
+    ],
+    marginalia=[
+        ("A familiar request", [
+            "teach me in brief",
+        ]),
+        ("Give up desire", [
+            "for what is impermanent",
+        ]),
+        ("Six fields, one frame", [
+            "faculty through feeling",
+        ]),
+        ("First of three", [
+            "suffering and not-self follow",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.76/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.75.html">SN 35.75 &middot; Sick (2nd)</a> '
+        "&mdash; the previous discourse, closing this project&rsquo;s "
+        "own diagnostic couplet.",
+        '<a href="sn-35.77.html">SN 35.77 &middot; With Rādha on '
+        "Suffering</a> &mdash; the next discourse, the same frame "
+        "recast on suffering.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.77 — Rādhadukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 77, "Rādhadukkha", "With Rādha on Suffering",
+    vagga="Gilānavagga",
+    meta_title="SN 35.77 — With Rādha on Suffering | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Rādhadukkhasutta &mdash; SN 35.76&rsquo;s own "
+        "frame recast on suffering, elided in Sujato&rsquo;s own "
+        "English to its opening line. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha teaching Rādha (by continuation "
+                      "from SN 35.76)"),
+        ("Form", "SN 35.76&rsquo;s own frame repeated with a single "
+                 "word changed &mdash; suffering in place of "
+                 "impermanence &mdash; elided in Sujato&rsquo;s own "
+                 "English to its opening line alone"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a one-line stub, transparent once SN 35.76 "
+                       "is understood"),
+    ],
+    why=(
+        "This discourse is the second of the Rādha triad opened "
+        "at SN 35.76, and it changes exactly one word: "
+        "&ldquo;impermanent&rdquo; becomes &ldquo;suffering.&rdquo; "
+        "Sujato&rsquo;s own English preserves only the opening "
+        "line &mdash; &ldquo;Rādha, you should give up desire for "
+        "what is suffering&rdquo; &mdash; and elides the rest of "
+        "the discourse to an ellipsis, exactly as bilara-data "
+        "itself stores it, trusting the reader to supply SN "
+        "35.76&rsquo;s own full six-field chain (faculty, object, "
+        "consciousness, contact, feeling) with the new target word "
+        "substituted throughout. The Pali root confirms the same "
+        "elision on its own side; this is not a gap in this "
+        "project&rsquo;s own sourcing but bilara-data&rsquo;s own "
+        "encoding of a peyyāla (formula-repetition) passage."
+    ),
+    guide=[
+        ("One word changed", [
+            "SN 35.76&rsquo;s own &ldquo;give up desire for what "
+            "is impermanent&rdquo; becomes, here, &ldquo;give up "
+            "desire for what is suffering&rdquo; &mdash; the "
+            "identical six-field chain understood to follow, "
+            "unstated.",
+        ]),
+        ("An elision on both sides", [
+            "Both Sujato&rsquo;s own English and the Pali root "
+            "preserve only this discourse&rsquo;s opening line, "
+            "trusting the reader to supply the rest from SN "
+            "35.76&rsquo;s own full text &mdash; the standard "
+            "peyyāla convention this project has met many times "
+            "before.",
+        ]),
+        ("The middle term of three", [
+            "Impermanence (SN 35.76), suffering (this discourse), "
+            "and not-self (SN 35.78) complete a triad running the "
+            "three characteristics through the same &ldquo;give up "
+            "desire&rdquo; frame.",
+        ]),
+    ],
+    terms=[
+        ("dukkha", "suffering &mdash; this discourse&rsquo;s own "
+                      "target, replacing SN 35.76&rsquo;s "
+                      "impermanence"),
+        ("chandapahāna", "giving up desire &mdash; the same "
+                            "instruction as SN 35.76&rsquo;s, now "
+                            "applied to suffering"),
+        ("peyyāla", "a formula-repetition passage &mdash; bilara-"
+                       "data&rsquo;s own encoding for this "
+                       "discourse, preserved untranslated after its "
+                       "opening line"),
+        ("cakkhu", "the eye &mdash; the first sense field named "
+                      "before the elided remainder of the six-field "
+                      "chain"),
+        ("phassajā vedanā", "feeling born of contact &mdash; the "
+                                "final link of the chain this "
+                                "discourse&rsquo;s elision assumes"),
+    ],
+    text_intro=("The discourse as bilara-data itself preserves it: "
+        "one line stated, the six-field chain elided exactly as in "
+        "the source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.77:1.1-1.13"),
+    ],
+    quiz=[
+        {"q": "What single word changes between SN 35.76 and this discourse?",
+         "opts": ["Impermanent becomes suffering", "Rādha becomes another mendicant", "Six fields becomes five aggregates", "Desire becomes ignorance"],
+         "correct": 0,
+         "expl": "The identical frame, one target word substituted."},
+        {"q": "How much of this discourse does Sujato&rsquo;s own English preserve?",
+         "opts": ["Only the opening line; the rest is elided", "The complete text, in full", "Half the discourse", "None &mdash; it is entirely untranslated"],
+         "correct": 0,
+         "expl": "A peyyāla elision, matching bilara-data&rsquo;s own encoding of the Pali root."},
+        {"q": "What convention explains this discourse&rsquo;s brevity?",
+         "opts": ["Peyyāla &mdash; a formula-repetition passage trusting the reader to supply the rest", "A textual loss with no explanation", "A scribal error", "A deliberate riddle for advanced students"],
+         "correct": 0,
+         "expl": "The standard peyyāla convention this project has met many times before."},
+        {"q": "Where in the Rādha triad does this discourse sit?",
+         "opts": ["Second, between impermanence (SN 35.76) and not-self (SN 35.78)", "First, opening the triad", "Third, closing the triad", "It is not part of the triad"],
+         "correct": 0,
+         "expl": "The middle term, suffering, between the triad&rsquo;s outer two."},
+        {"q": "What chain does this discourse&rsquo;s elision assume the reader will supply, per SN 35.76?",
+         "opts": ["Faculty, object, consciousness, contact, and feeling, for each of six sense fields", "The five aggregates alone", "The four noble truths", "The eightfold path"],
+         "correct": 0,
+         "expl": "SN 35.76&rsquo;s own full six-field chain, substituting the new target word."},
+    ],
+    marginalia=[
+        ("One word changed", [
+            "impermanent to suffering",
+        ]),
+        ("An elision, in the source itself", [
+            "not a gap in translation",
+        ]),
+        ("Middle of three", [
+            "the second of the triad",
+        ]),
+        ("The chain, assumed", [
+            "faculty through feeling",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.77/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.76.html">SN 35.76 &middot; With Rādha on '
+        "Impermanence</a> &mdash; the previous discourse, giving "
+        "this frame&rsquo;s own full text.",
+        '<a href="sn-35.78.html">SN 35.78 &middot; With Rādha on '
+        "Not-Self</a> &mdash; the next discourse, closing the "
+        "triad.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.78 — Rādhaanattasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 78, "Rādhaanatta", "With Rādha on Not-Self",
+    vagga="Gilānavagga",
+    meta_title="SN 35.78 — With Rādha on Not-Self | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Rādhaanattasutta &mdash; closing the Rādha triad "
+        "with not-self, the same elided frame as SN 35.77. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha teaching Rādha (by continuation "
+                      "from SN 35.76-77)"),
+        ("Form", "SN 35.76&rsquo;s own frame repeated a third and "
+                 "final time &mdash; not-self in place of "
+                 "impermanence and suffering &mdash; elided to its "
+                 "opening line exactly as SN 35.77"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a one-line stub, closing a triad already "
+                       "explained at SN 35.76"),
+    ],
+    why=(
+        "This discourse closes the Rādha triad opened at SN 35.76: "
+        "the identical &ldquo;give up desire&rdquo; frame, now run "
+        "on not-self (anattā) in place of impermanence or "
+        "suffering, elided in Sujato&rsquo;s own English (and in "
+        "the Pali root alike) to its opening line, exactly as SN "
+        "35.77 before it. With this discourse the triad completes "
+        "the three characteristics &mdash; anicca, dukkha, anattā "
+        "&mdash; the same trio this project has met repeatedly "
+        "across Book IV&rsquo;s own catechisms, here delivered not "
+        "as a question-and-answer but as three short direct "
+        "instructions to a single named disciple. Rādha&rsquo;s "
+        "own brief appearance inside Gilānavagga ends here; the "
+        "vagga turns next to a different device for the same "
+        "underlying concern, giving up ignorance."
+    ),
+    guide=[
+        ("The third characteristic, the third word changed", [
+            "Not-self (anattā) replaces SN 35.77&rsquo;s suffering "
+            "and SN 35.76&rsquo;s impermanence, completing the "
+            "standard trio &mdash; anicca, dukkha, anattā &mdash; "
+            "this project has met repeatedly across Book IV.",
+        ]),
+        ("The same elision, a second time", [
+            "As at SN 35.77, both Sujato&rsquo;s own English and "
+            "the Pali root preserve only this discourse&rsquo;s "
+            "opening line, trusting the reader to supply SN "
+            "35.76&rsquo;s own full six-field chain with the new "
+            "target word.",
+        ]),
+        ("Rādha&rsquo;s cameo closes", [
+            "This discourse ends Rādha&rsquo;s own brief "
+            "appearance inside Gilānavagga; the vagga turns next to "
+            "a different pair of discourses on giving up ignorance, "
+            "addressed to unnamed mendicants rather than a single "
+            "named disciple.",
+        ]),
+    ],
+    terms=[
+        ("anattā", "not-self &mdash; this discourse&rsquo;s own "
+                      "target, the third and final term of the "
+                      "triad"),
+        ("anicca, dukkha, anattā", "impermanent, suffering, "
+                                       "not-self &mdash; the "
+                                       "standard trio this triad "
+                                       "completes across its three "
+                                       "discourses"),
+        ("chandapahāna", "giving up desire &mdash; the same "
+                            "instruction repeated a third time, now "
+                            "applied to not-self"),
+        ("peyyāla", "a formula-repetition passage &mdash; "
+                       "bilara-data&rsquo;s own encoding for this "
+                       "discourse, matching SN 35.77&rsquo;s own "
+                       "elision"),
+        ("mano", "the mind &mdash; the sixth and final sense field "
+                    "named before the elided remainder of the "
+                    "chain"),
+    ],
+    text_intro=("The discourse as bilara-data itself preserves it: "
+        "one line stated, the six-field chain elided exactly as at "
+        "SN 35.77. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.78:1.1-1.13"),
+    ],
+    quiz=[
+        {"q": "What is this discourse&rsquo;s own target, closing the Rādha triad?",
+         "opts": ["Not-self (anattā)", "Suffering (dukkha)", "Impermanence (anicca)", "Ignorance (avijjā)"],
+         "correct": 0,
+         "expl": "The third term of the standard trio, after SN 35.76&rsquo;s impermanence and SN 35.77&rsquo;s suffering."},
+        {"q": "What standard trio does this discourse complete, together with SN 35.76 and SN 35.77?",
+         "opts": ["Anicca, dukkha, anattā", "The four noble truths", "The five aggregates", "The three characteristics of a Buddha"],
+         "correct": 0,
+         "expl": "Impermanence, suffering, not-self &mdash; the three characteristics this triad runs in turn."},
+        {"q": "How is this discourse elided in Sujato&rsquo;s own English, and why?",
+         "opts": ["To its opening line, matching bilara-data&rsquo;s own peyyāla encoding", "It is not elided at all", "Only the closing line survives", "The entire discourse is untranslated"],
+         "correct": 0,
+         "expl": "The same elision pattern as SN 35.77, in both the English and the Pali root."},
+        {"q": "What happens to Rādha&rsquo;s own appearance in Gilānavagga after this discourse?",
+         "opts": ["It ends; the vagga turns to a different pair of discourses on giving up ignorance", "Rādha becomes the vagga&rsquo;s central figure for its remainder", "Rādha is ordained a second time", "Rādha departs to teach in another city"],
+         "correct": 0,
+         "expl": "This discourse closes Rādha&rsquo;s own brief cameo inside this vagga."},
+        {"q": "To whom are the next two discourses in Gilānavagga addressed, unlike this triad?",
+         "opts": ["Unnamed mendicants, not a single named disciple", "King Pasenadi", "A group of wanderers of other religions", "Venerable Sāriputta"],
+         "correct": 0,
+         "expl": "SN 35.79-80 shift to unnamed mendicants and a different device: giving up ignorance."},
+    ],
+    marginalia=[
+        ("Third of three", [
+            "not-self, closing the trio",
+        ]),
+        ("The same elision again", [
+            "opening line only",
+        ]),
+        ("Rādha&rsquo;s cameo ends", [
+            "a different device follows",
+        ]),
+        ("Anicca, dukkha, anattā", [
+            "the triad now complete",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.78/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.77.html">SN 35.77 &middot; With Rādha on '
+        "Suffering</a> &mdash; the previous discourse, the "
+        "triad&rsquo;s own middle term.",
+        '<a href="sn-35.79.html">SN 35.79 &middot; Giving Up '
+        "Ignorance (1st)</a> &mdash; the next discourse, a "
+        "different device for unnamed mendicants.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.79 — Paṭhamaavijjāpahānasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 79, "Paṭhamaavijjāpahāna", "Giving Up Ignorance (1st)",
+    vagga="Gilānavagga",
+    meta_title="SN 35.79 — Giving Up Ignorance (1st) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Paṭhamaavijjāpahānasutta &mdash; a mendicant asks "
+        "for the one thing whose giving up gives up ignorance "
+        "itself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "An unnamed mendicant questioning; the Buddha "
+                      "answering"),
+        ("Form", "A direct question-and-answer: is there one thing "
+                 "whose giving up gives up ignorance itself? "
+                 "&mdash; answered, then explained through the "
+                 "six-field catechism of impermanence"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the question&rsquo;s own circular framing "
+                       "rewards a careful first read"),
+    ],
+    why=(
+        "This discourse opens a pair on giving up ignorance, "
+        "shifting Gilānavagga away from named individuals (the "
+        "sick mendicants, Rādha) back to an unnamed questioner. "
+        "The question itself has a deliberately circular shape: is "
+        "there one thing whose giving up gives up ignorance and "
+        "gives rise to knowledge? The Buddha&rsquo;s answer is, at "
+        "first glance, unhelpful &mdash; ignorance itself is that "
+        "one thing &mdash; but the explanation that follows makes "
+        "the point concrete: a mendicant gives up ignorance and "
+        "gives rise to knowledge precisely by knowing and seeing "
+        "each of the six sense fields, and what arises dependent on "
+        "each, as impermanent. Ignorance is not removed by adding "
+        "some new possession or attainment; it dissolves under "
+        "direct, correct seeing of what is already present. SN "
+        "35.80 will ask the identical opening question again and "
+        "answer it through a different device entirely."
+    ),
+    guide=[
+        ("A circular question, answered directly", [
+            "Is there one thing whose giving up gives up ignorance "
+            "itself? The Buddha answers without hesitation: "
+            "ignorance is that one thing &mdash; not a paradox, but "
+            "a way of insisting that no other possession or "
+            "attainment stands between a mendicant and knowledge.",
+        ]),
+        ("How ignorance actually dissolves", [
+            "The explanation that follows makes the answer "
+            "concrete: knowing and seeing each of the six sense "
+            "fields, and what arises dependent on each, as "
+            "impermanent &mdash; the same catechism content this "
+            "book has run many times before, now offered as the "
+            "mechanism by which ignorance itself is given up.",
+        ]),
+        ("The first of a pair", [
+            "This discourse opens a pair with SN 35.80, which asks "
+            "the identical opening question again but answers it "
+            "through a different device &mdash; not knowing "
+            "impermanence directly, but hearing a specific "
+            "teaching and seeing all things as &ldquo;other.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("avijjā", "ignorance &mdash; what this discourse&rsquo;s "
+                      "own question asks how to give up"),
+        ("vijjā", "knowledge, true knowing &mdash; what arises when "
+                     "ignorance is given up"),
+        ("pajānāti", "understands, knows &mdash; part of the "
+                        "explanatory formula (&ldquo;knows and "
+                        "sees&rdquo;) this discourse uses"),
+        ("passati", "sees &mdash; paired with knowing in the "
+                       "formula that explains how ignorance is "
+                       "actually given up"),
+        ("anicca", "impermanent &mdash; what a mendicant must know "
+                      "and see each of the six sense fields to be, "
+                      "for ignorance to be given up"),
+    ],
+    text_intro=("The complete discourse: a mendicant&rsquo;s "
+        "circular question, the Buddha&rsquo;s direct answer, and "
+        "the explanation through the six-field catechism of "
+        "impermanence. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.79:1.1-1.3"),
+        ("p", "&sect;2", "sn35.79:2.1-5.1"),
+        ("p", "&sect;3", "sn35.79:6.1-6.5"),
+    ],
+    quiz=[
+        {"q": "What question does the mendicant ask at this discourse&rsquo;s opening?",
+         "opts": ["Is there one thing whose giving up gives up ignorance and gives rise to knowledge?", "How many kinds of ignorance are there?", "Can ignorance ever be fully overcome?", "What is the origin of ignorance?"],
+         "correct": 0,
+         "expl": "A deliberately circular question, answered directly by the Buddha."},
+        {"q": "What does the Buddha identify as that one thing?",
+         "opts": ["Ignorance itself", "Concentration", "Ethical conduct", "Faith"],
+         "correct": 0,
+         "expl": "Not a paradox, but an insistence that nothing else stands between a mendicant and knowledge."},
+        {"q": "How, concretely, does a mendicant give up ignorance according to this discourse?",
+         "opts": ["By knowing and seeing each of the six sense fields as impermanent", "By reciting a specific formula daily", "By taking a vow of silence", "By studying with a teacher for many years"],
+         "correct": 0,
+         "expl": "Direct knowing and seeing of impermanence across the six sense fields."},
+        {"q": "How does SN 35.80, immediately following, relate to this discourse?",
+         "opts": ["It asks the identical opening question but answers it through a different device", "It contradicts this discourse&rsquo;s answer", "It is addressed to a different questioner with an unrelated topic", "It retells this discourse from the Buddha&rsquo;s own point of view"],
+         "correct": 0,
+         "expl": "A pair: the same question, two different explanatory devices."},
+        {"q": "What shift in cast marks the transition from SN 35.76-78 to this discourse?",
+         "opts": ["From the named disciple Rādha back to an unnamed questioning mendicant", "From the Buddha teaching to a disciple teaching", "From Sāvatthī to Rājagaha", "From prose to verse"],
+         "correct": 0,
+         "expl": "Gilānavagga shifts away from Rādha&rsquo;s own brief cameo back to an anonymous questioner."},
+    ],
+    marginalia=[
+        ("A circular question", [
+            "answered without hesitation",
+        ]),
+        ("Ignorance, giving up ignorance", [
+            "nothing else stands between",
+        ]),
+        ("Knowing, seeing", [
+            "the six fields as impermanent",
+        ]),
+        ("First of a pair", [
+            "a different device follows",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.79/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.78.html">SN 35.78 &middot; With Rādha on '
+        "Not-Self</a> &mdash; the previous discourse, closing the "
+        "Rādha triad.",
+        '<a href="sn-35.80.html">SN 35.80 &middot; Giving Up '
+        "Ignorance (2nd)</a> &mdash; the next discourse, the same "
+        "question answered through a different device.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.80 — Dutiyaavijjāpahānasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 80, "Dutiyaavijjāpahāna", "Giving Up Ignorance (2nd)",
+    vagga="Gilānavagga",
+    meta_title="SN 35.80 — Giving Up Ignorance (2nd) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Dutiyaavijjāpahānasutta &mdash; the same question "
+        "as SN 35.79, answered this time through hearing "
+        "&ldquo;nothing is worth insisting on&rdquo; and seeing "
+        "all things as other. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "An unnamed mendicant questioning; the Buddha "
+                      "answering"),
+        ("Form", "SN 35.79&rsquo;s own opening question repeated, "
+                 "answered this time through a different device: "
+                 "hearing a specific teaching and coming to see all "
+                 "things as &ldquo;other&rdquo;"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the &ldquo;seeing as other&rdquo; device is "
+                       "distinctive and rewards careful attention"),
+    ],
+    why=(
+        "This discourse asks SN 35.79&rsquo;s own opening question "
+        "again &mdash; is there one thing whose giving up gives up "
+        "ignorance and gives rise to knowledge? &mdash; and answers "
+        "it identically at first (ignorance itself), but the "
+        "explanation that follows takes an entirely different "
+        "route. Rather than knowing and seeing the six sense fields "
+        "directly as impermanent, this discourse describes a "
+        "mendicant who has heard the teaching &ldquo;nothing is "
+        "worth insisting on&rdquo; (sabbe dhammā nālaṁ "
+        "abhinivesāya). Having heard this, he directly knows all "
+        "things, completely understands all things, and so comes to "
+        "see all signs &mdash; the eye, sights, eye consciousness, "
+        "eye contact, and so on through the mind &mdash; as "
+        "&ldquo;other&rdquo; (aññato) rather than naming them "
+        "impermanent, suffering, or not-self outright. This exact "
+        "formula, &ldquo;nothing is worth insisting on,&rdquo; is "
+        "traditionally associated with the Cūḷataṇhāsaṅkhayasutta "
+        "(MN 37), where the Buddha teaches it to Sakka while "
+        "Venerable Mahāmoggallāna listens and Venerable Sāriputta, "
+        "overhearing it from outside, is said to attain full "
+        "liberation on the spot &mdash; though this reading guide "
+        "notes that association without claiming this SN discourse "
+        "itself narrates that famous scene."
+    ),
+    guide=[
+        ("The same question, a different door", [
+            "SN 35.79&rsquo;s own opening question recurs "
+            "unchanged, and the immediate answer is identical "
+            "&mdash; ignorance itself &mdash; but the explanation "
+            "that follows takes a route this book has not used "
+            "before.",
+        ]),
+        ("Nothing is worth insisting on", [
+            "A mendicant who has heard the teaching &ldquo;nothing "
+            "is worth insisting on&rdquo; (sabbe dhammā nālaṁ "
+            "abhinivesāya) directly knows and completely "
+            "understands all things &mdash; a formula this reading "
+            "guide notes is traditionally associated with MN 37, "
+            "the Cūḷataṇhāsaṅkhayasutta, without asserting this "
+            "discourse itself retells that scene.",
+        ]),
+        ("Seeing all things as other, not naming them impermanent", [
+            "Rather than the direct catechism of SN 35.79 (know and "
+            "see as impermanent), this discourse describes seeing "
+            "all signs &mdash; the eye, sights, eye consciousness, "
+            "eye contact, and so through the mind &mdash; as "
+            "&ldquo;other&rdquo; (aññato), a distinct verb of "
+            "insight this book has not used elsewhere.",
+        ]),
+    ],
+    terms=[
+        ("sabbe dhammā nālaṁ abhinivesāya", "nothing is worth "
+                                                "insisting on "
+                                                "&mdash; the "
+                                                "teaching this "
+                                                "discourse says a "
+                                                "mendicant has "
+                                                "heard, traditionally "
+                                                "associated with MN "
+                                                "37"),
+        ("abhijānāti", "directly knows &mdash; the first step once "
+                          "the teaching has been heard"),
+        ("parijānāti", "completely understands &mdash; the second "
+                          "step, following direct knowledge"),
+        ("aññato passati", "sees as other &mdash; the distinct verb "
+                              "of insight this discourse uses in "
+                              "place of naming things impermanent "
+                              "outright"),
+        ("nimitta", "sign, mark &mdash; what a mendicant, having "
+                       "heard the teaching, comes to see as "
+                       "other"),
+    ],
+    text_intro=("The complete discourse: the same opening question "
+        "as SN 35.79, answered through hearing that nothing is "
+        "worth insisting on and seeing all signs as other. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.80:1.1-1.2"),
+        ("p", "&sect;2", "sn35.80:2.1-5.1"),
+        ("p", "&sect;3", "sn35.80:6.1-6.5"),
+        ("p", "&sect;4", "sn35.80:6.6-6.13"),
+    ],
+    quiz=[
+        {"q": "What question opens this discourse, matching SN 35.79?",
+         "opts": ["Is there one thing whose giving up gives up ignorance and gives rise to knowledge?", "What is the origin of the world?", "How does a mendicant attain the four absorptions?", "Why do wanderers of other religions dispute the Buddha&rsquo;s teaching?"],
+         "correct": 0,
+         "expl": "The identical opening question as SN 35.79, answered through a different device."},
+        {"q": "What teaching does this discourse say a mendicant must hear first?",
+         "opts": ["Nothing is worth insisting on (sabbe dhammā nālaṁ abhinivesāya)", "The four noble truths, in full", "A prophecy of the mendicant&rsquo;s own future rebirth", "The list of the six sense fields"],
+         "correct": 0,
+         "expl": "This specific formula, traditionally associated with MN 37."},
+        {"q": "What verb of insight does this discourse use, distinct from SN 35.79&rsquo;s?",
+         "opts": ["Seeing all signs as &ldquo;other&rdquo; (aññato)", "Seeing all signs as impermanent", "Seeing all signs as suffering", "Seeing all signs as self"],
+         "correct": 0,
+         "expl": "A distinct device from SN 35.79&rsquo;s direct catechism of impermanence."},
+        {"q": "With which discourse elsewhere in the canon does this reading guide note a traditional association for &ldquo;nothing is worth insisting on&rdquo;?",
+         "opts": ["MN 37, the Cūḷataṇhāsaṅkhayasutta", "DN 2, the Sāmaññaphalasutta", "MN 1, the Mūlapariyāyasutta", "SN 12.1, the Paṭiccasamuppādasutta"],
+         "correct": 0,
+         "expl": "Noted as a traditional association, not claimed as this discourse&rsquo;s own retelling of that scene."},
+        {"q": "How does this discourse&rsquo;s own answer to the opening question compare with SN 35.79&rsquo;s?",
+         "opts": ["The immediate answer is identical (ignorance itself), but the explanation differs", "The answer itself differs completely", "This discourse refuses to answer the question", "This discourse answers with a different one thing entirely"],
+         "correct": 0,
+         "expl": "Same immediate answer, a different explanatory route."},
+    ],
+    marginalia=[
+        ("The same question again", [
+            "a different explanatory door",
+        ]),
+        ("Nothing worth insisting on", [
+            "associated with MN 37",
+        ]),
+        ("Seeing as other", [
+            "not naming impermanent",
+        ]),
+        ("Two devices, one pair", [
+            "SN 35.79 and this discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.80/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.79.html">SN 35.79 &middot; Giving Up '
+        "Ignorance (1st)</a> &mdash; the previous discourse, this "
+        "pair&rsquo;s own first device.",
+        '<a href="sn-35.81.html">SN 35.81 &middot; Several '
+        "Mendicants</a> &mdash; the next discourse, a group of "
+        "mendicants preparing an answer for other wanderers.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.81 — Sambahulabhikkhusutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 81, "Sambahulabhikkhu", "Several Mendicants",
+    vagga="Gilānavagga",
+    meta_title="SN 35.81 — Several Mendicants | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Sambahulabhikkhusutta &mdash; several mendicants "
+        "prepare an answer for wanderers of other religions: the "
+        "goal of the spiritual life is to completely understand "
+        "suffering. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "Several unnamed mendicants questioning; the "
+                      "Buddha confirming and elaborating"),
+        ("Form", "A defensive catechism: mendicants report how they "
+                 "answer other wanderers, the Buddha confirms their "
+                 "answer and supplies the elaboration across the "
+                 "six sense fields"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a clear, defensible formula for stating the "
+                       "goal of the teaching"),
+    ],
+    why=(
+        "This discourse addresses a practical problem several "
+        "mendicants report facing: wanderers of other religions ask "
+        "them directly what the goal of living the spiritual life "
+        "under the ascetic Gotama actually is. Their own answer "
+        "&mdash; &ldquo;to completely understand suffering&rdquo; "
+        "&mdash; is confirmed word for word by the Buddha himself, "
+        "who then supplies the fuller elaboration they can use if "
+        "pressed further: the eye is suffering, and the goal is to "
+        "completely understand this; the same for what arises "
+        "dependent on the eye, and the same again for each of the "
+        "remaining five sense fields. This gives the whole vagga's "
+        "core concern &mdash; the six sense fields, examined under "
+        "impermanence, suffering, and not-self &mdash; a single, "
+        "portable, defensible formula that these mendicants (and, "
+        "implicitly, this reading guide's own readers) can carry "
+        "into a direct challenge from an outsider."
+    ),
+    guide=[
+        ("A question these mendicants have actually faced", [
+            "Rather than a hypothetical, the discourse opens with "
+            "several mendicants reporting a real situation: "
+            "wanderers of other religions ask them directly what "
+            "the goal of the spiritual life under the Buddha is, "
+            "and they want to know if their own answer holds up.",
+        ]),
+        ("An answer confirmed, not corrected", [
+            "The mendicants&rsquo; own answer &mdash; to "
+            "completely understand suffering &mdash; is confirmed "
+            "by the Buddha exactly as given, with no correction "
+            "needed: a rare moment in this project where "
+            "disciples&rsquo; own formulation is affirmed rather "
+            "than refined.",
+        ]),
+        ("A portable formula for a direct challenge", [
+            "The Buddha supplies the fuller version these "
+            "mendicants can use if pressed: the eye is suffering, "
+            "and the goal of the spiritual life is to completely "
+            "understand this &mdash; repeated for what arises "
+            "dependent on the eye, and for each of the remaining "
+            "five sense fields in turn.",
+        ]),
+    ],
+    terms=[
+        ("aññatitthiyā paribbājakā", "wanderers of other religions "
+                                         "&mdash; the outside "
+                                         "questioners these "
+                                         "mendicants report facing"),
+        ("brahmacariya", "the spiritual life, holy life &mdash; "
+                            "what these mendicants are asked the "
+                            "goal of"),
+        ("dukkhassa pariññā", "the complete understanding of "
+                                 "suffering &mdash; the answer "
+                                 "confirmed by the Buddha as the "
+                                 "goal of the spiritual life"),
+        ("vippaṭicoditā", "grounds for rebuttal or criticism "
+                             "&mdash; what the mendicants trust "
+                             "their answer to be free of"),
+        ("dhammānudhammā", "in line with the teaching &mdash; how "
+                              "the Buddha confirms the "
+                              "mendicants&rsquo; own answer to "
+                              "outsiders"),
+    ],
+    text_intro=("The complete discourse: several mendicants report "
+        "their own answer to outside questioners, and the Buddha "
+        "confirms and elaborates it across the six sense fields. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.81:1.1-1.6"),
+        ("p", "&sect;2", "sn35.81:2.1-2.9"),
+        ("p", "&sect;3", "sn35.81:2.10-2.14"),
+    ],
+    quiz=[
+        {"q": "What situation prompts these mendicants to approach the Buddha?",
+         "opts": ["Wanderers of other religions ask them the goal of the spiritual life", "A dispute has broken out within the Sangha", "One of them has fallen seriously ill", "They wish to request ordination for a new disciple"],
+         "correct": 0,
+         "expl": "A real challenge from outside questioners, not a hypothetical."},
+        {"q": "What answer do the mendicants report giving, which the Buddha then confirms?",
+         "opts": ["The goal of the spiritual life is to completely understand suffering", "The goal is to attain the four absorptions", "The goal is rebirth in a heavenly realm", "The goal is to master ethical conduct alone"],
+         "correct": 0,
+         "expl": "Confirmed word for word, without correction."},
+        {"q": "How does the Buddha's response to these mendicants differ from many other discourses in this project?",
+         "opts": ["He confirms their own formulation rather than correcting or refining it", "He rebukes them for asking", "He refuses to answer directly", "He redirects the question to Sāriputta"],
+         "correct": 0,
+         "expl": "A rare moment of direct affirmation rather than correction."},
+        {"q": "What fuller formula does the Buddha supply for these mendicants to use if pressed further?",
+         "opts": ["The eye is suffering, and each remaining sense field in turn, each to be completely understood", "A list of the four noble truths", "A refutation of each rival ascetic school by name", "A biography of the Buddha's own awakening"],
+         "correct": 0,
+         "expl": "The six sense fields, each declared suffering and each the object of complete understanding."},
+        {"q": "How does this discourse connect to Gilānavagga's own broader concern with the six sense fields?",
+         "opts": ["It gives a single, portable, defensible formula built on the same six-field analysis", "It abandons the six-field analysis entirely", "It focuses only on the mind, not the other five fields", "It replaces the six fields with the five aggregates"],
+         "correct": 0,
+         "expl": "The vagga's own recurring six-field concern, now framed as a formula for defending the teaching to outsiders."},
+    ],
+    marginalia=[
+        ("A real challenge", [
+            "from outside questioners",
+        ]),
+        ("Confirmed, not corrected", [
+            "the mendicants' own answer",
+        ]),
+        ("A portable formula", [
+            "each field, understood",
+        ]),
+        ("Suffering, completely understood", [
+            "the goal, stated plainly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.81/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.80.html">SN 35.80 &middot; Giving Up '
+        "Ignorance (2nd)</a> &mdash; the previous discourse, "
+        "closing the ignorance pair.",
+        '<a href="sn-35.82.html">SN 35.82 &middot; A Question on '
+        "the World</a> &mdash; the next discourse, a folk "
+        "etymology defining &ldquo;the world&rdquo; itself.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.82 — Lokapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 82, "Lokapañhā", "A Question on the World",
+    vagga="Gilānavagga",
+    meta_title="SN 35.82 — A Question on the World | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Lokapañhāsutta &mdash; the famous folk etymology "
+        "defining &ldquo;the world&rdquo; as what wears away, run "
+        "across the six sense fields. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "An unnamed mendicant questioning; the Buddha "
+                      "answering"),
+        ("Form", "A single question &mdash; how is &ldquo;the "
+                 "world&rdquo; defined? &mdash; answered with a "
+                 "wordplay etymology, then run across the six sense "
+                 "fields"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; a short discourse carrying real "
+                       "philosophical weight"),
+    ],
+    why=(
+        "This discourse asks one of the most consequential "
+        "questions a mendicant could put to the Buddha: how is "
+        "&ldquo;the world&rdquo; (loka) defined? The answer turns "
+        "on a wordplay the Pali itself preserves &mdash; "
+        "lujjati, &ldquo;it wears away,&rdquo; is offered as the "
+        "reason the word loka is used at all. This is not a "
+        "cosmological claim about planets or realms; it redefines "
+        "&ldquo;world&rdquo; entirely in terms of the six sense "
+        "fields wearing away moment by moment &mdash; the eye, "
+        "sights, eye consciousness, eye contact, and the feeling "
+        "born of it, and the same chain for each remaining field. "
+        "This connects directly back to Sabbavagga&rsquo;s own "
+        "definition of &ldquo;the all&rdquo; (sabba) at SN 35.23, "
+        "already met earlier in this book: both discourses insist "
+        "that a totalizing term the mendicant might otherwise take "
+        "as cosmic or external actually names nothing more, and "
+        "nothing less, than the process of the six sense fields "
+        "themselves."
+    ),
+    guide=[
+        ("A single question, a wordplay answer", [
+            "How is &ldquo;the world&rdquo; defined? The Buddha "
+            "answers with an etymology the Pali itself carries: "
+            "lujjati (it wears away) is offered as the reason the "
+            "word loka is used &mdash; not a definition drawn from "
+            "cosmology.",
+        ]),
+        ("The world redefined as the six sense fields", [
+            "&ldquo;What is wearing away?&rdquo; The eye is wearing "
+            "away; sights, eye consciousness, eye contact, and the "
+            "feeling born of it are wearing away; the same chain "
+            "repeats for ear, nose, tongue, body, and mind.",
+        ]),
+        ("Echoing Sabbavagga's own definition of &ldquo;the all&rdquo;", [
+            "This discourse&rsquo;s own move &mdash; taking a term "
+            "(&ldquo;the world&rdquo;) a mendicant might expect to "
+            "mean something cosmic or external, and redefining it "
+            "strictly as the six sense fields &mdash; directly "
+            "echoes SN 35.23&rsquo;s own definition of &ldquo;the "
+            "all&rdquo; (sabba), already met earlier in this book.",
+        ]),
+    ],
+    terms=[
+        ("loka", "the world &mdash; the term this discourse&rsquo;s "
+                    "own question asks to define"),
+        ("lujjati", "it wears away &mdash; the wordplay the Pali "
+                       "offers as the reason the word loka is "
+                       "used"),
+        ("cakkhu", "the eye &mdash; the first sense field named as "
+                      "wearing away, opening the six-field chain"),
+        ("phassajā vedanā", "feeling born of contact &mdash; the "
+                                "final link named as wearing away, "
+                                "for each of the six fields"),
+        ("sabba", "the all &mdash; the term SN 35.23, earlier in "
+                     "this book, defines identically in terms of "
+                     "the six sense fields alone"),
+    ],
+    text_intro=("The complete discourse: a single question on the "
+        "definition of &ldquo;the world,&rdquo; answered by "
+        "wordplay and run across the six sense fields. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.82:1.1-2.3"),
+        ("p", "&sect;2", "sn35.82:2.4-2.9"),
+    ],
+    quiz=[
+        {"q": "What question does the unnamed mendicant ask at this discourse's opening?",
+         "opts": ["How is &ldquo;the world&rdquo; defined?", "Where does the world end?", "Who created the world?", "How many worlds exist?"],
+         "correct": 0,
+         "expl": "A question about definition, not cosmology."},
+        {"q": "What wordplay does the Buddha use to answer?",
+         "opts": ["Lujjati (it wears away) as the reason the word loka is used", "A comparison of loka to a lotus flower", "An acronym built from the six sense fields", "A quotation from an earlier discourse"],
+         "correct": 0,
+         "expl": "A Pali etymological wordplay: loka explained through lujjati."},
+        {"q": "What, according to this discourse, is actually wearing away?",
+         "opts": ["The six sense fields and what arises dependent on each", "The physical earth itself", "The moral order of the cosmos", "The Buddha's own teaching, over time"],
+         "correct": 0,
+         "expl": "The eye and its chain, repeated for each of the six sense fields."},
+        {"q": "Which earlier discourse in this book does this reading guide connect to this one?",
+         "opts": ["SN 35.23, defining &ldquo;the all&rdquo; (sabba) identically", "SN 35.1, opening Aniccavagga", "SN 35.53, opening Avijjāvagga", "SN 35.74, opening Gilānavagga"],
+         "correct": 0,
+         "expl": "Both discourses redefine a totalizing term strictly as the six sense fields."},
+        {"q": "What kind of claim does this discourse's definition of &ldquo;the world&rdquo; avoid making?",
+         "opts": ["A cosmological claim about planets or realms", "Any claim about the six sense fields", "A claim involving the Pali language itself", "A claim connecting to any other discourse"],
+         "correct": 0,
+         "expl": "The definition is entirely experiential, not cosmological."},
+    ],
+    marginalia=[
+        ("A wordplay definition", [
+            "loka, because it wears away",
+        ]),
+        ("Not cosmology", [
+            "the six sense fields themselves",
+        ]),
+        ("Echoing &ldquo;the all&rdquo;", [
+            "SN 35.23's own move, repeated",
+        ]),
+        ("Wearing away, moment by moment", [
+            "faculty through feeling",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.82/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.81.html">SN 35.81 &middot; Several '
+        "Mendicants</a> &mdash; the previous discourse, a portable "
+        "formula for outside questioners.",
+        '<a href="sn-35.83.html">SN 35.83 &middot; Phagguna&rsquo;s '
+        "Question</a> &mdash; the next discourse, closing "
+        "Gilānavagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.83 — Phaggunapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 83, "Phaggunapañhā", "Phagguna's Question",
+    vagga="Gilānavagga",
+    meta_title="SN 35.83 — Phagguna's Question | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Phaggunapañhāsutta &mdash; whether any faculty "
+        "exists by which the fully quenched Buddhas of the past "
+        "could be described, closing Gilānavagga. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Venerable Phagguna questioning; the "
+                      "Buddha answering"),
+        ("Form", "A question run across all six sense faculties "
+                 "&mdash; does any exist by which past, fully "
+                 "quenched Buddhas could be described? &mdash; "
+                 "answered no for each, closing this vagga with its "
+                 "own colophon and uddāna"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; a genuinely difficult question about "
+                       "describing what has gone beyond description"),
+    ],
+    why=(
+        "This discourse closes Gilānavagga with its own hardest "
+        "question. Venerable Phagguna asks whether there exists any "
+        "eye, ear, nose, tongue, body, or mind by which the fully "
+        "quenched Buddhas of the past &mdash; those who have "
+        "&ldquo;cut off proliferation, cut off the course, finished "
+        "off the cycle, and passed beyond all suffering&rdquo; "
+        "&mdash; could be described (paññāpeyya). The Buddha "
+        "answers no, for each faculty in turn: no such eye, no such "
+        "mind exists by which they could be described. This is not "
+        "a claim that the fully quenched Buddhas of the past have "
+        "ceased to exist or continue to exist in some other form "
+        "&mdash; the discourse does not put the question that way "
+        "&mdash; but a refusal of the terms in which the question "
+        "assumes a describable faculty must persist. This "
+        "resonates with this project's own earlier encounter, in "
+        "Diṭṭhisaṃyutta (SN 24.9-18), with the traditional ten "
+        "undetermined questions, several of which ask whether the "
+        "Tathāgata exists, does not exist, both, or neither after "
+        "death: both discourses treat ordinary descriptive "
+        "categories as unable to reach what has gone beyond "
+        "proliferation (papañca), though this discourse frames the "
+        "problem through the six sense faculties specifically "
+        "rather than as one of the ten questions directly. Beyond "
+        "the discourse itself, this file's own closing lines carry "
+        "a colophon reading &ldquo;Gilānavaggo tatiyo&rdquo; "
+        "&mdash; &ldquo;Gilānavagga is the third&rdquo; &mdash; "
+        "confirming, as this project's own established pattern (SN "
+        "22.52, SN 35.52, SN 35.62, SN 35.73) predicts, that this "
+        "vagga is the third vagga of Saḷāyatanasaṃyutta's own "
+        "second paṇṇāsaka, following Avijjāvagga (first, SN "
+        "35.53-62) and Migajālavagga (second, SN 35.63-73). The "
+        "closing uddāna, left untranslated in Sujato's own English "
+        "exactly as at SN 35.62 and SN 35.73, groups this vagga's "
+        "own ten discourses explicitly by count &mdash; two on the "
+        "sick, three more with Rādha, two more told on ignorance, "
+        "then a mendicant, the world, and Phagguna &mdash; matching "
+        "this reading guide's own discourse-by-discourse count "
+        "precisely."
+    ),
+    guide=[
+        ("A question about describing what has gone beyond description", [
+            "Phagguna asks whether any of the six sense faculties "
+            "exists by which the fully quenched Buddhas of the past "
+            "could be described. The Buddha answers no for each in "
+            "turn &mdash; not asserting that they have ceased or "
+            "continue to exist in some other form, but refusing the "
+            "terms in which the question assumes a describable "
+            "faculty must persist.",
+        ]),
+        ("Cut off proliferation, cut off the course, finished off the cycle", [
+            "The three-part description of a fully quenched Buddha "
+            "&mdash; papañca (proliferation) cut off, vaṭuma (the "
+            "course) cut off, vaṭṭa (the cycle) finished &mdash; "
+            "names what has ended without asserting what, if "
+            "anything, remains to be described.",
+        ]),
+        ("An echo of the ten undetermined questions", [
+            "This project's own earlier encounter with the ten "
+            "undetermined questions (SN 24.9-18, in Diṭṭhisaṃyutta) "
+            "included whether the Tathāgata exists, does not exist, "
+            "both, or neither after death. This discourse does not "
+            "pose the question in that exact form, but shares its "
+            "underlying refusal: ordinary descriptive categories "
+            "cannot reach what has gone beyond proliferation.",
+        ]),
+        ("A colophon confirming the second fifty's own third vagga", [
+            "This file's own closing colophon, &ldquo;Gilānavaggo "
+            "tatiyo&rdquo; (&ldquo;Gilānavagga is the third"
+            "&rdquo;), confirms &mdash; following the same pattern "
+            "already established at SN 22.52, SN 35.52, SN 35.62, "
+            "and SN 35.73 &mdash; that this vagga is the third "
+            "vagga of Saḷāyatanasaṃyutta's own second paṇṇāsaka, "
+            "after Avijjāvagga and Migajālavagga opened it in "
+            "turn.",
+        ]),
+        ("Ten discourses, grouped explicitly by count", [
+            "This file's own closing uddāna groups this vagga's own "
+            "ten discourses by number &mdash; two on the sick, "
+            "three more with Rādha, two more told on ignorance, "
+            "then a mendicant, the world, and Phagguna &mdash; a "
+            "more explicit grouping than most vagga-uddānas this "
+            "project has met, matching this reading guide's own "
+            "count exactly. Left untranslated in Sujato's own "
+            "English, this reading guide describes rather than "
+            "quotes its content.",
+        ]),
+    ],
+    terms=[
+        ("paññāpeyya", "could be described, made known &mdash; what "
+                          "Phagguna asks whether any faculty could "
+                          "achieve, of the fully quenched Buddhas "
+                          "of the past"),
+        ("papañca", "proliferation &mdash; what a fully quenched "
+                       "Buddha of the past has cut off, part of the "
+                       "three-fold closing description"),
+        ("vaṭṭa", "the cycle &mdash; what a fully quenched Buddha "
+                     "of the past has finished off, completing the "
+                     "three-fold description"),
+        ("paṇṇāsaka", "a fifty &mdash; this vagga's own colophon "
+                         "confirms it is the third vagga of "
+                         "Saḷāyatanasaṃyutta's own second one"),
+        ("uddāna", "a mnemonic summary verse &mdash; this file's "
+                      "own closing verse, grouping all ten "
+                      "discourses of this vagga explicitly by "
+                      "count"),
+    ],
+    text_intro=("The complete discourse: Phagguna's question run "
+        "across all six sense faculties, and the Buddha's answer "
+        "denying each in turn. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.83:1.1-1.1"),
+        ("p", "&sect;2", "sn35.83:2.1-2.3"),
+        ("p", "&sect;3", "sn35.83:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What does Venerable Phagguna ask the Buddha at this discourse's opening?",
+         "opts": ["Whether any of the six sense faculties exists by which fully quenched Buddhas of the past could be described", "Whether the Buddha will attain final nibbāna soon", "Whether he himself is ready for ordination", "Whether the world has a beginning"],
+         "correct": 0,
+         "expl": "A question about describing what has gone beyond ordinary categories."},
+        {"q": "How does the Buddha answer, for each of the six faculties in turn?",
+         "opts": ["No such faculty exists by which they could be described", "Yes, the mind alone persists", "The question cannot be answered either way", "Only the eye of wisdom remains"],
+         "correct": 0,
+         "expl": "A denial for each faculty, not an assertion of continued or ceased existence."},
+        {"q": "What three-part description does this discourse use for a fully quenched Buddha of the past?",
+         "opts": ["Cut off proliferation, cut off the course, finished off the cycle", "Perfected wisdom, compassion, and skillful means", "Free of greed, hatred, and delusion", "Endowed with the ten powers"],
+         "correct": 0,
+         "expl": "Papañca, vaṭuma, and vaṭṭa, each named as ended."},
+        {"q": "Which earlier part of this project does this reading guide connect to this discourse's underlying refusal?",
+         "opts": ["The ten undetermined questions in SN 24.9-18 (Diṭṭhisaṃyutta)", "The Nāgasaṃyutta's four kinds of dragon birth", "The Jhānasaṃyutta's ten meditation skills", "The Rādhasaṃyutta's eleven-word catalog"],
+         "correct": 0,
+         "expl": "Both share a refusal of ordinary descriptive categories, though phrased differently."},
+        {"q": "What does this discourse's own closing colophon, &ldquo;Gilānavaggo tatiyo,&rdquo; confirm?",
+         "opts": ["Gilānavagga is the third vagga of Saḷāyatanasaṃyutta's own second paṇṇāsaka", "Gilānavagga is the third vagga of the entire saṃyutta", "This is the third discourse of the vagga", "This colophon is a scribal error"],
+         "correct": 0,
+         "expl": "Following Avijjāvagga (first) and Migajālavagga (second) in the second fifty."},
+        {"q": "How does this vagga's own closing uddāna group its ten discourses, unlike most vagga-uddānas this project has met?",
+         "opts": ["Explicitly by count &mdash; two, three, two, then three single topics", "It names all ten individually with no grouping", "It omits several discourses entirely", "It groups them by which sense field each concerns"],
+         "correct": 0,
+         "expl": "A more explicit numerical grouping, matching this reading guide's own count."},
+    ],
+    marginalia=[
+        ("Describing the indescribable", [
+            "no faculty reaches that far",
+        ]),
+        ("Cut off, cut off, finished", [
+            "proliferation, course, cycle",
+        ]),
+        ("&ldquo;The third&rdquo;", [
+            "third vagga of the second fifty",
+        ]),
+        ("Ten, grouped by count", [
+            "two, three, two, and three singles",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.83/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.82.html">SN 35.82 &middot; A Question on '
+        "the World</a> &mdash; the previous discourse, this "
+        "vagga's own penultimate teaching.",
+        '<a href="sn-36.6.html">SN 36.6 &middot; An Arrow</a> '
+        "&mdash; already published on this site, standing ahead of "
+        "this book's own next vagga, Channavagga (SN "
+        "35.84&ndash;93), not yet built.",
+    ],
+)
