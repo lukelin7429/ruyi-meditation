@@ -17084,3 +17084,1698 @@ page(
         "35.124&ndash;133), not yet built.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 35.124 - Vesalisutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 124, "Vesālī", "At Vesālī",
+    vagga="Gahapativagga",
+    meta_title="SN 35.124 &mdash; At Vesālī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vesālīsutta &mdash; the discourse opening Gahapativagga, "
+        "this book's own thirteenth vagga, with the householder "
+        "Ugga of Vesālī's question about what causes full "
+        "extinguishment in this very life. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Vesālī, at the Great Wood, in the hall with the "
+                     "peaked roof (Kūṭāgārasālā)"),
+        ("Speakers", "The Buddha and the householder Ugga of Vesālī"),
+        ("Form", "A full catechism, run twice &mdash; bound, then "
+                  "freed &mdash; across all six sense doors, with "
+                  "sound, smell, taste, and touch folded into a "
+                  "single ellipsis but the eye and the mind spelled "
+                  "out in full"),
+        ("Length", "~1&ndash;2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a familiar catechism in an unfamiliar "
+                       "collection"),
+    ],
+    why=(
+        "This discourse opens Gahapativagga, this book's own "
+        "thirteenth vagga &mdash; and, after twelve vaggas each "
+        "built around a single distinct structural device (a "
+        "matrix, a paired title, a diagnostic formula, a purely "
+        "independent anthology of named narratives), this one turns "
+        "out to be something new again: a loose collection unified "
+        "only by its own title, &ldquo;Householders,&rdquo; not by "
+        "any shared logical shape. Ten episodes follow, with "
+        "different visitors, different settings, and (unusually for "
+        "this book) genuinely different questions. This first "
+        "discourse gives the vagga's single most-repeated element in "
+        "full: the catechism asking what causes some beings to reach "
+        "full extinguishment in this very life and others not to. "
+        "Four more discourses ahead reuse this exact question "
+        "&mdash; three of them (SN 35.125, 126, 128) as bare "
+        "cross-references back to a fuller telling, and one (SN "
+        "35.131) restating it in full a second time."
+    ),
+    guide=[
+        ("The catechism itself", [
+            "The mechanism is this book's oldest: a mendicant who "
+            "approves, welcomes, and keeps clinging to a likable, "
+            "desirable sight, sound, smell, taste, touch, or idea "
+            "has consciousness dependent on it as fuel for grasping, "
+            "and does not become extinguished. A mendicant who does "
+            "not approve, welcome, or cling has no such dependency, "
+            "and does become extinguished. Both halves are given in "
+            "full here, run across the eye, then a single ellipsis "
+            "standing in for the ear, nose, tongue, and body, then "
+            "the mind.",
+        ]),
+        ("An anthology vagga, not a formula matrix", [
+            "Every one of the past twelve vaggas in this saṃyutta "
+            "was organized around one shape &mdash; a matrix of "
+            "combinations, a pair of companion titles, a diagnostic "
+            "formula applied identically ten times over. Gahapativagga "
+            "has no single shape at all. Its ten discourses share a "
+            "cast of recurring devices (this catechism, a second "
+            "question about the &ldquo;diversity of elements,&rdquo; "
+            "and three fully independent narrative episodes) without "
+            "any one logic governing the whole collection &mdash; a "
+            "genuinely new, fourteenth structure for this book.",
+        ]),
+        ("This vagga's own most-repeated template", [
+            "This exact question and catechism recurs, in whole or "
+            "in bare cross-reference, at four more discourses ahead: "
+            "SN 35.125 and SN 35.126 both point back for their full "
+            "wording (one to &ldquo;the previous discourse,&rdquo; "
+            "the other explicitly to this one), SN 35.128 points "
+            "instead to an already-published discourse in a "
+            "different vagga entirely, and SN 35.131 restates the "
+            "full catechism a second time, unabbreviated.",
+        ]),
+        ("A named lay questioner opens the vagga", [
+            "Ugga of Vesālī is simply named as the questioner here, "
+            "with no further biographical claim made by this reading "
+            "guide &mdash; the discourse itself gives only his name "
+            "and city. He is the first of several householders and "
+            "other lay figures who open this vagga's individual "
+            "episodes, none of them elaborated on beyond what the "
+            "text itself states.",
+        ]),
+    ],
+    terms=[
+        ("gahapati", "&ldquo;householder&rdquo; &mdash; the term "
+             "giving this vagga its own name, and the first of "
+             "several different lay and non-monastic figures who "
+             "appear across its ten discourses"),
+        ("diṭṭheva dhamme parinibbāyanti", "fully extinguished in "
+             "this very life &mdash; the catechism's own key phrase, "
+             "asked and answered in both directions"),
+        ("abhinandati abhivadati ajjhosāya tiṭṭhati", "approves, "
+             "welcomes, and keeps clinging to &mdash; the three-part "
+             "verb chain determining whether an object becomes fuel "
+             "for grasping"),
+        ("upādāniyaṃ...anupādāno", "fuel for grasping...free of "
+             "grasping &mdash; the two conditions this catechism "
+             "sets against each other, unchanged from this book's "
+             "very first vagga"),
+        ("tannissitaṃ viññāṇaṃ hoti", "consciousness has that as "
+             "its support &mdash; the dependency link joining "
+             "clinging to non-extinguishment"),
+    ],
+    text_intro=("The complete discourse: the not-extinguished "
+        "condition, then the extinguished condition, each run "
+        "across the eye, the four senses folded into a single "
+        "ellipsis, and the mind. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.124:1.1-1.4"),
+        ("p", "&sect;2", "sn35.124:2.1-2.8"),
+        ("p", "&sect;3", "sn35.124:3.1-3.8"),
+    ],
+    quiz=[
+        {"q": "What question does the householder Ugga of Vesālī ask the Buddha in this discourse?",
+         "opts": ["What causes some beings to reach full extinguishment in this very life, and others not to", "How to become wealthy", "Whether rebirth exists", "How long the Buddha will remain in Vesālī"],
+         "correct": 0,
+         "expl": "The catechism this vagga returns to four more times, in whole or by cross-reference."},
+        {"q": "According to the Buddha's answer, what makes a mendicant's consciousness dependent on a sense object as fuel for grasping?",
+         "opts": ["Approving, welcoming, and keeping clinging to it", "Merely perceiving it", "Being a householder rather than a mendicant", "Living in Vesālī"],
+         "correct": 0,
+         "expl": "The three-part verb chain — abhinandati, abhivadati, ajjhosāya tiṭṭhati."},
+        {"q": "How does this discourse treat the sense doors, compared to a fully spelled-out declaration?",
+         "opts": ["Eye and mind in full, with ear, nose, tongue, and body folded into a single ellipsis", "All six doors fully spelled out", "Only the mind is discussed", "Only the eye is discussed"],
+         "correct": 0,
+         "expl": "The book's standard shorthand for the four remaining senses."},
+        {"q": "What makes Gahapativagga, this vagga, structurally different from all twelve vaggas before it in this saṃyutta?",
+         "opts": ["It has no single shared shape — an anthology of recurring devices rather than one formula", "It is the shortest vagga so far", "It contains no householders at all", "It repeats Aniccavagga's own 2×2×3 design"],
+         "correct": 0,
+         "expl": "Each earlier vagga was built on one structural device; this one gathers several without a single governing logic."},
+        {"q": "How many more discourses ahead in this vagga reuse this exact catechism, in whole or by cross-reference?",
+         "opts": ["Four (SN 35.125, 126, 128, and 131)", "None — this is the only one", "All nine remaining discourses", "Two"],
+         "correct": 0,
+         "expl": "Three point back for their full wording, and one restates it in full a second time."},
+    ],
+    marginalia=[
+        ("An old mechanism, a new vagga", [
+            "clinging binds, non-clinging frees —",
+            "the book's oldest catechism, once more",
+        ]),
+        ("No single shape this time", [
+            "twelve vaggas, twelve matrices —",
+            "this one is simply a gathering",
+        ]),
+        ("A question that will return", [
+            "four more discourses ahead —",
+            "some in full, some by pointer alone",
+        ]),
+        ("A name, and nothing more claimed", [
+            "Ugga of Vesālī asks —",
+            "the text gives no more than that",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.124/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.123.html">SN 35.123 &middot; Things That '
+        "Tighten Fetters</a> &mdash; the previous discourse, and the "
+        "close of Lokakāmaguṇavagga.",
+        '<a href="sn-35.125.html">SN 35.125 &middot; In the Land of '
+        "the Vajjis</a> &mdash; the next discourse, a bare "
+        "cross-reference back to this one.",
+        '<a href="sn-35.131.html">SN 35.131 &middot; Nakula&rsquo;s '
+        "Father</a> &mdash; later in this vagga, restating this "
+        "discourse's own catechism in full a second time.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.125 - Vajjisutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 125, "Vajjī", "In the Land of the Vajjis",
+    vagga="Gahapativagga",
+    meta_title="SN 35.125 &mdash; In the Land of the Vajjis | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Vajjīsutta &mdash; a brief peyyāla stub asking the "
+        "previous discourse's question and pointing back to it for "
+        "the full answer. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The land of the Vajjis, at Hatthigāma "
+                     "(Elephant Village)"),
+        ("Speakers", "The Buddha and the householder Uggata of "
+                      "Elephant Village"),
+        ("Form", "A peyyāla stub &mdash; the same question as the "
+                  "previous discourse, with the source itself "
+                  "instructing readers to fill in the answer from "
+                  "there"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the shortest discourse in this vagga so far, "
+                       "understood only alongside SN 35.124"),
+    ],
+    why=(
+        "This is the first of this vagga's own peyyāla stubs: the "
+        "householder Uggata of Elephant Village asks the identical "
+        "question Ugga of Vesālī asked in the previous discourse, "
+        "and the source itself, rather than repeating the full "
+        "catechism a second time, simply instructs the reader "
+        "&mdash; tell in full as in the previous discourse. Nothing "
+        "is invented to fill the gap here; the discourse is read "
+        "exactly as short as bilara-data leaves it, in keeping with "
+        "this project's practice on other peyyāla stubs encountered "
+        "throughout the Saṃyutta Nikāya."
+    ),
+    guide=[
+        ("A different questioner, a different place, an identical question", [
+            "Only the householder's name (Uggata, not Ugga) and the "
+            "location (Elephant Village in the Vajji country, not "
+            "Vesālī) change. The question itself, word for word, is "
+            "SN 35.124's own opening question.",
+        ]),
+        ("An editorial shortcut, not an omission", [
+            "&ldquo;Tell in full as in the previous discourse&rdquo; "
+            "is a genuine feature of how this material was preserved, "
+            "not an editorial addition made for this website. It is "
+            "quoted here exactly as the source gives it, rather than "
+            "expanded into invented prose.",
+        ]),
+        ("The nearest full telling, not a fixed formula", [
+            "&ldquo;The previous discourse&rdquo; here means exactly "
+            "what it says &mdash; SN 35.124, sitting directly before "
+            "this one. The next discourse in this vagga (SN 35.126) "
+            "will use the identical editorial phrase but resolve it, "
+            "in translation, to a different target than its own "
+            "immediately preceding discourse, worth watching for.",
+        ]),
+    ],
+    terms=[
+        ("uggato gahapati hatthigāmako", "the householder Uggata of "
+             "Elephant Village &mdash; this discourse's questioner, "
+             "distinguished by name only from SN 35.124's Ugga of "
+             "Vesālī"),
+        ("peyyāla", "the formal term for a passage the source itself "
+             "elides, instructing the reader to supply the full "
+             "wording from elsewhere &mdash; exactly what this "
+             "discourse consists of"),
+        ("yathā purimasuttantaṃ, evaṃ vitthāretabbaṃ", "&ldquo;as in "
+             "the previous discourse, so it should be elaborated&rdquo; "
+             "&mdash; the Pali root's own editorial instruction"),
+        ("vajjīsu...hatthigāme", "in the land of the Vajjis, at "
+             "Elephant Village &mdash; the one substantive setting "
+             "change from SN 35.124"),
+        ("dutiyaṃ", "&ldquo;second&rdquo; &mdash; this discourse's "
+             "own closing colophon, marking its place as the "
+             "vagga's second"),
+    ],
+    text_intro=(
+        "The discourse exactly as short as the source leaves it, "
+        "including its own editorial instruction. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.125:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What question does the householder Uggata of Elephant Village ask, compared to SN 35.124's question?",
+         "opts": ["The identical question, word for word", "A completely different question about ethics", "Nothing — he asks no question at all", "Whether elephants can attain awakening"],
+         "correct": 0,
+         "expl": "Only the questioner's name and location change from the previous discourse."},
+        {"q": "How does the source handle the rest of the answer, rather than repeating it in full?",
+         "opts": ["With an explicit editorial note: \"tell in full as in the previous discourse\"", "By spelling out the entire catechism a second time", "By omitting any indication that content is missing", "By replacing it with an unrelated teaching"],
+         "correct": 0,
+         "expl": "A genuine transmission feature, quoted here rather than expanded."},
+        {"q": "What does this reading guide do with the elided content, rather than reconstructing it?",
+         "opts": ["Quotes the source's own editorial shortcut exactly, without fabricating the missing catechism", "Writes out the full catechism as if it were this discourse's own text", "Skips the discourse entirely", "Invents unrelated content"],
+         "correct": 0,
+         "expl": "Consistent with this project's practice on peyyāla stubs elsewhere in the Saṃyutta Nikāya."},
+        {"q": "In this discourse, \"the previous discourse\" that the editorial note points back to is which sutta?",
+         "opts": ["SN 35.124, sitting directly before this one", "SN 35.118, in a different vagga", "SN 22.1", "There is no specific referent"],
+         "correct": 0,
+         "expl": "Unlike the next discourse in this vagga, whose own cross-reference resolves to a different target."},
+        {"q": "What does this discourse's own closing colophon mark it as?",
+         "opts": ["“Dutiyaṃ” — second", "“Paṭhamaṃ” — first", "“Tatiyaṃ” — third", "The colophon names no ordinal"],
+         "correct": 0,
+         "expl": "This vagga's second discourse, following Vesālīsutta."},
+    ],
+    marginalia=[
+        ("Same question, new name", [
+            "Uggata for Ugga —",
+            "Elephant Village for Vesālī",
+        ]),
+        ("An editorial shortcut, not a gap", [
+            "“tell in full as before” —",
+            "a real feature of the source itself",
+        ]),
+        ("Nothing invented here", [
+            "the guide quotes, not fills in —",
+            "as short as bilara-data leaves it",
+        ]),
+        ("A pointer that means exactly what it says", [
+            "“the previous discourse” —",
+            "here, truly just the one before",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.125/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.124.html">SN 35.124 &middot; At Vesālī</a> '
+        "&mdash; the previous discourse, and the fully spelled-out "
+        "version this discourse points back to.",
+        '<a href="sn-35.126.html">SN 35.126 &middot; At '
+        "Nāḷandā</a> &mdash; the next discourse, another bare "
+        "cross-reference.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.126 - Nalandasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 126, "Nāḷanda", "At Nāḷandā",
+    vagga="Gahapativagga",
+    meta_title="SN 35.126 &mdash; At Nāḷandā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Nāḷandasutta &mdash; another peyyāla stub asking "
+        "the same question a third time, its cross-reference "
+        "resolved in translation to SN 35.124 rather than the "
+        "discourse directly before it. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Nāḷandā, in Pāvārika's mango grove"),
+        ("Speakers", "The Buddha and the householder Upāli of "
+                      "Nāḷandā &mdash; not the Vinaya-elder Upāli, "
+                      "despite the shared name"),
+        ("Form", "A peyyāla stub, its own approach formula further "
+                  "elided with a mid-sentence ellipsis, its "
+                  "cross-reference resolved in translation to SN "
+                  "35.124 specifically"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "another short stub, this time worth reading "
+                       "alongside its own cross-reference"),
+    ],
+    why=(
+        "This vagga's third discourse asks the same "
+        "full-extinguishment question a third time, from a "
+        "householder named Upāli &mdash; a name this project's "
+        "readers will already associate with the Vinaya elder Upāli, "
+        "though nothing here identifies him with that far more "
+        "famous figure. What makes this stub worth its own page, "
+        "rather than a footnote to SN 35.125, is where its own "
+        "editorial pointer lands: not &ldquo;the previous "
+        "discourse&rdquo; (which would be SN 35.125, itself a stub), "
+        "but explicitly SN 35.124 by name, in Sujato's translation. "
+        "The compiler, or the translator resolving the compiler's "
+        "shorthand, reached past the nearer stub to point at the "
+        "nearest full telling instead."
+    ),
+    guide=[
+        ("A pointer that skips the nearer discourse", [
+            "SN 35.125 sits directly before this one, but it is "
+            "itself only a stub &mdash; pointing a reader there for "
+            "&ldquo;the full wording&rdquo; would simply hand them "
+            "another pointer. Sujato's translation resolves this "
+            "discourse's own generic Pali instruction "
+            "(&ldquo;as in the previous discourse&rdquo;) to SN "
+            "35.124 by name, the nearest discourse that actually "
+            "spells the catechism out.",
+        ]),
+        ("An additional layer of elision", [
+            "Even the approach formula is compressed further here "
+            "than in SN 35.124 or SN 35.125: &ldquo;went up to the "
+            "Buddha &hellip; and asked him&rdquo; folds the sitting "
+            "down, bowing, and greeting into a single mid-sentence "
+            "ellipsis, a small additional compression layered on top "
+            "of the peyyāla stub itself.",
+        ]),
+        ("A second Upāli, not the Vinaya elder", [
+            "The name Upāli belongs, most famously in this "
+            "tradition, to the monk foremost in expert knowledge of "
+            "monastic discipline. This discourse's Upāli is instead "
+            "a householder of Nāḷandā, entirely unconnected in the "
+            "text to that other figure &mdash; a genuine name "
+            "collision worth flagging rather than silently passing "
+            "over.",
+        ]),
+    ],
+    terms=[
+        ("upāli gahapati", "the householder Upāli &mdash; this "
+             "discourse's questioner, sharing a name with, but "
+             "textually unconnected to, the Vinaya elder Upāli"),
+        ("nāḷandāyaṃ...pāvārikambavane", "at Nāḷandā, in Pāvārika's "
+             "mango grove &mdash; a setting this book has not used "
+             "before"),
+        ("&hellip;pe&hellip;", "the peyyāla ellipsis mark, here "
+             "compressing even the approach-and-greeting formula, "
+             "not only the catechism itself"),
+        ("yathā purimasuttantaṃ", "&ldquo;as in the previous "
+             "discourse&rdquo; &mdash; the Pali root's generic "
+             "instruction, resolved in Sujato's translation to a "
+             "named target (SN 35.124) rather than left as a bare "
+             "pointer to whatever precedes it"),
+        ("tatiyaṃ", "&ldquo;third&rdquo; &mdash; this discourse's "
+             "own closing colophon"),
+    ],
+    text_intro=(
+        "The discourse exactly as short as the source leaves it, "
+        "including its own compressed approach formula and editorial "
+        "instruction. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.126:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "In Sujato's translation, which discourse does this stub's own editorial note explicitly resolve its cross-reference to?",
+         "opts": ["SN 35.124, by name", "SN 35.125, the discourse directly before it", "SN 35.118", "No specific discourse is named"],
+         "correct": 0,
+         "expl": "Reaching past the nearer stub (SN 35.125) to the nearest full telling instead."},
+        {"q": "Why would pointing to SN 35.125 instead have been unhelpful?",
+         "opts": ["SN 35.125 is itself only a peyyāla stub, not a full telling", "SN 35.125 asks a different question entirely", "SN 35.125 has been lost", "There is no SN 35.125"],
+         "correct": 0,
+         "expl": "A pointer to a pointer would not actually supply the missing content."},
+        {"q": "What additional compression appears in this discourse beyond the catechism itself being elided?",
+         "opts": ["The approach-and-greeting formula is folded into a mid-sentence ellipsis", "The setting is left unstated", "The questioner's name is omitted", "The Buddha's presence is only implied"],
+         "correct": 0,
+         "expl": "“Went up to the Buddha … and asked him,” compressing sitting down, bowing, and greeting."},
+        {"q": "How is this discourse's questioner, the householder Upāli, related to the famous Vinaya-elder Upāli?",
+         "opts": ["Not connected in the text at all — a name collision only", "He is the same person, later ordained", "He is Upāli's father", "He is Upāli's teacher"],
+         "correct": 0,
+         "expl": "A genuine name collision this reading guide flags rather than passing over silently."},
+        {"q": "What does this discourse's own closing colophon mark it as?",
+         "opts": ["“Tatiyaṃ” — third", "“Dutiyaṃ” — second", "“Catutthaṃ” — fourth", "The colophon names no ordinal"],
+         "correct": 0,
+         "expl": "This vagga's third discourse."},
+    ],
+    marginalia=[
+        ("A pointer that reaches further back", [
+            "past the nearer stub —",
+            "to where the full telling actually stands",
+        ]),
+        ("Compression on compression", [
+            "even the greeting is elided now —",
+            "not only the catechism itself",
+        ]),
+        ("Two Upālis, one name", [
+            "a householder here, not the elder —",
+            "the text draws no line between them, so this guide does",
+        ]),
+        ("Third in the vagga's own count", [
+            "“tatiyaṃ” closes it —",
+            "the same question, a third time asked",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.126/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.125.html">SN 35.125 &middot; In the Land of '
+        "the Vajjis</a> &mdash; the previous discourse, itself only "
+        "a stub.",
+        '<a href="sn-35.124.html">SN 35.124 &middot; At Vesālī</a> '
+        "&mdash; the discourse this one's own cross-reference "
+        "actually points to, in translation.",
+        '<a href="sn-35.127.html">SN 35.127 &middot; With '
+        "Bhāradvāja</a> &mdash; the next discourse, a fully "
+        "independent narrative.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.127 - Bharadvajasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 127, "Bhāradvāja", "With Bhāradvāja",
+    vagga="Gahapativagga",
+    meta_title="SN 35.127 &mdash; With Bhāradvāja | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Bhāradvājasutta &mdash; King Udena's three-round "
+        "questioning of Venerable Piṇḍola Bhāradvāja on why young "
+        "monks keep the celibate life, ending in the king's own "
+        "confession and conversion. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kosambī, at Ghosita's Monastery"),
+        ("Speakers", "King Udena and Venerable Piṇḍola Bhāradvāja "
+                      "&mdash; the Buddha does not appear in this "
+                      "discourse at all"),
+        ("Form", "A three-round dialogue &mdash; question, teaching, "
+                  "royal pushback, repeated three times &mdash; "
+                  "closing with the king's own confession and refuge-"
+                  "going"),
+        ("Length", "~3&ndash;4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a fully independent narrative, longer and "
+                       "more layered than this vagga's catechism "
+                       "stubs"),
+    ],
+    why=(
+        "This discourse breaks entirely from the vagga's opening "
+        "template &mdash; no householder, no full-extinguishment "
+        "catechism, and, unusually for this book, no appearance by "
+        "the Buddha at all. Instead King Udena of Kosambī questions "
+        "Venerable Piṇḍola Bhāradvāja &mdash; &ldquo;the "
+        "Alms-Gatherer&rdquo; &mdash; about why young monks, in the "
+        "prime of life and never having tasted sensual pleasure, "
+        "manage to keep the full celibate life for as long as they "
+        "live. Three answers are offered, each explicitly credited "
+        "to the Buddha's own words rather than claimed as "
+        "Bhāradvāja's independent teaching, and the king pushes back "
+        "twice before the third answer &mdash; sense-door restraint "
+        "&mdash; finally satisfies him, grounded in his own "
+        "confession about his royal harem."
+    ),
+    guide=[
+        ("Three answers, each attributed rather than invented", [
+            "Bhāradvāja never claims originality. Each of his three "
+            "answers opens with the same formula &mdash; &ldquo;this "
+            "has been stated by the Blessed One&rdquo; &mdash; "
+            "presenting himself as a transmitter of the Buddha's own "
+            "words rather than an independent teacher answering a "
+            "king on his own authority.",
+        ]),
+        ("The king pushes back twice", [
+            "The first answer (regard women your mother's, sister's, "
+            "or daughter's age as family) does not satisfy Udena, "
+            "who objects that the mind is wanton and such thoughts "
+            "arise anyway. The second answer (contemplate the body's "
+            "thirty-one parts, foulness by foulness) does not satisfy "
+            "him either, who confesses that when he tries this, only "
+            "beauty comes to mind. Only the third answer &mdash; "
+            "guarding the six sense doors so that covetousness and "
+            "displeasure cannot overwhelm an unrestrained faculty "
+            "&mdash; draws no further objection.",
+        ]),
+        ("A king's own confession grounds the abstract teaching", [
+            "Udena does not merely accept the third answer "
+            "intellectually. He matches it against his own "
+            "experience in his harem: unguarded in body, speech, "
+            "mind, mindfulness, and senses, powerful desire "
+            "overtakes him; guarded in the same five ways, it does "
+            "not. The teaching is confirmed, in his own words, "
+            "against his own life rather than left as abstract "
+            "doctrine.",
+        ]),
+        ("A familiar closing simile, and a lay conversion", [
+            "Udena's closing praise uses this book's standard closing "
+            "simile &mdash; righting the overturned, revealing the "
+            "hidden, pointing out the path to the lost, lighting a "
+            "lamp in the dark &mdash; already seen at other "
+            "conversion scenes across this saṃyutta, before going "
+            "for refuge as a lay follower rather than seeking "
+            "ordination.",
+        ]),
+    ],
+    terms=[
+        ("piṇḍolabhāradvājo", "Bhāradvāja &ldquo;the "
+             "Alms-Gatherer&rdquo; &mdash; this discourse's monk, "
+             "distinguished by epithet from other monks sharing the "
+             "clan name Bhāradvāja elsewhere in the canon"),
+        ("mātumattī bhaginimattī dhītumattī", "as one's mother's "
+             "age, one's sister's age, one's daughter's age &mdash; "
+             "the first teaching's three-part reframing of how a "
+             "monk should regard women he encounters"),
+        ("paṭikūlamanasikāro", "reflection on the body's foulness "
+             "&mdash; the second teaching, listing the body's parts "
+             "from head hair to urine, which the king admits fails "
+             "him in practice"),
+        ("indriyesu guttadvāratā", "guarding the doors of the "
+             "senses &mdash; the third and decisive teaching, "
+             "restraining sight, sound, smell, taste, touch, and "
+             "mind so that their unrestrained pursuit cannot let "
+             "covetousness and displeasure overwhelm the mind"),
+        ("upāsakaṃ maṃ...saraṇaṃ gataṃ", "&ldquo;may he remember me "
+             "as a lay follower who has gone for refuge&rdquo; "
+             "&mdash; Udena's own closing declaration, refuge rather "
+             "than ordination"),
+    ],
+    text_intro=("The complete discourse: the king's question, three "
+        "rounds of answer and pushback, and his closing confession "
+        "and refuge-going. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.127:1.1-1.7"),
+        ("p", "&sect;2", "sn35.127:2.1-3.4"),
+        ("p", "&sect;3", "sn35.127:3.5-4.11"),
+        ("p", "&sect;4", "sn35.127:5.1-5.9"),
+    ],
+    quiz=[
+        {"q": "Who does King Udena question in this discourse, and who is notably absent from it?",
+         "opts": ["Venerable Piṇḍola Bhāradvāja; the Buddha does not appear", "The Buddha himself, with no monk present", "Venerable Ānanda; Bhāradvāja does not appear", "Venerable Mahākaccāna; the Buddha does not appear"],
+         "correct": 0,
+         "expl": "Unusual for this book — an entire discourse without the Buddha's own presence."},
+        {"q": "How does Bhāradvāja frame each of his three answers to the king?",
+         "opts": ["As statements made by the Buddha, not as his own independent teaching", "As his own personal opinion", "As ancient brahmanical wisdom", "As something he read in a text"],
+         "correct": 0,
+         "expl": "Each answer opens: \"this has been stated by the Blessed One.\""},
+        {"q": "What finally satisfies King Udena, after two answers he pushes back against?",
+         "opts": ["Guarding the six sense doors against unrestrained pursuit of their objects", "Regarding all women as family", "Contemplating the body's foulness", "None of the three answers satisfy him"],
+         "correct": 0,
+         "expl": "The third answer, confirmed against his own experience in his royal harem."},
+        {"q": "How does King Udena confirm the third teaching's truth for himself?",
+         "opts": ["By matching it against his own experience: guarded senses in his harem, no overpowering desire; unguarded, desire overtakes him", "By asking Bhāradvāja to demonstrate it", "By consulting his ministers", "He never confirms it — he simply defers to authority"],
+         "correct": 0,
+         "expl": "A king's own confession grounding the abstract teaching in lived experience."},
+        {"q": "How does King Udena end the discourse?",
+         "opts": ["Going for refuge as a lay follower, using this book's standard closing simile of praise", "Ordaining as a monk on the spot", "Rejecting all three of Bhāradvāja's answers", "Executing Bhāradvāja for insolence"],
+         "correct": 0,
+         "expl": "Refuge-going, not ordination — and the familiar \"righting the overturned\" simile."},
+    ],
+    marginalia=[
+        ("A discourse without the Buddha", [
+            "a king questions a monk directly —",
+            "each answer still credited upward",
+        ]),
+        ("Two answers rejected, honestly", [
+            "family-thoughts still arise —",
+            "and only beauty comes to a foul-body mind",
+        ]),
+        ("A harem as evidence", [
+            "guarded senses, no desire —",
+            "unguarded, it overtakes him at once",
+        ]),
+        ("Refuge, not robes", [
+            "a king stays a king —",
+            "and goes for refuge all the same",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.127/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.126.html">SN 35.126 &middot; At '
+        "Nāḷandā</a> &mdash; the previous discourse.",
+        '<a href="sn-35.128.html">SN 35.128 &middot; With Soṇa</a> '
+        "&mdash; the next discourse, a return to the vagga's "
+        "opening catechism.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.128 - Sonasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 128, "Soṇa", "With Soṇa",
+    vagga="Gahapativagga",
+    meta_title="SN 35.128 &mdash; With Soṇa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Soṇasutta &mdash; a peyyāla stub whose "
+        "cross-reference, in translation, points not backward within "
+        "this vagga but forward to an already-published discourse "
+        "in a different vagga entirely. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Rājagaha, at the Bamboo Grove, the squirrels' "
+                     "feeding ground"),
+        ("Speakers", "The Buddha and the householder Soṇa"),
+        ("Form", "A peyyāla stub, its cross-reference resolved in "
+                  "translation to SN 35.118 &mdash; already published "
+                  "on this site, in Lokakāmaguṇavagga, this book's "
+                  "twelfth vagga"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "another short stub, this time pointing "
+                       "outside this vagga entirely"),
+    ],
+    why=(
+        "This is the vagga's most striking cross-reference. The "
+        "Pali root itself says only &ldquo;as in the previous "
+        "discourse&rdquo; &mdash; the same generic phrase used at "
+        "SN 35.125 and SN 35.126 &mdash; but Sujato's translation "
+        "resolves it here to a specific, named target: SN 35.118, "
+        "the Question of Sakka, already published on this site in "
+        "Lokakāmaguṇavagga, this book's twelfth vagga. Whoever is "
+        "doing the resolving (compiler tradition or translator) is "
+        "reaching past this vagga's own boundary entirely, to "
+        "wherever the fullest matching telling of the identical "
+        "catechism happens to sit &mdash; confirming that the "
+        "&ldquo;previous discourse&rdquo; formula in this literature "
+        "functions as a pointer to the nearest full statement, not a "
+        "strict reference to sequential numbering."
+    ),
+    guide=[
+        ("A pointer that crosses vagga lines", [
+            "SN 35.124, 35.125, and 35.126 all sit within this same "
+            "vagga, any one of which could in principle supply the "
+            "full wording. Instead, this discourse's own "
+            "cross-reference is resolved to SN 35.118, a discourse "
+            "in the previous vagga, where the lord of gods Sakka "
+            "asked the Buddha the identical question directly.",
+        ]),
+        ("Confirming a pattern across three stubs", [
+            "SN 35.125 pointed to the discourse truly before it; SN "
+            "35.126 reached past a nearer stub to a named full "
+            "telling within this vagga; this discourse reaches past "
+            "this vagga's own boundary entirely. Together the three "
+            "stubs show &ldquo;the previous discourse&rdquo; "
+            "functioning as shorthand for &ldquo;wherever the "
+            "matching full text is,&rdquo; not as a literal claim "
+            "about sequence.",
+        ]),
+        ("The same catechism, a fourth and fifth time", [
+            "With this discourse, the full-extinguishment catechism "
+            "has now been asked by five different figures across "
+            "this vagga and the one before it &mdash; a householder "
+            "of Vesālī, one of Elephant Village, one of Nāḷandā, the "
+            "king of the gods, and now the householder Soṇa &mdash; "
+            "confirming this is treated as a standard question posed "
+            "to the Buddha, not tied to any one questioner's identity.",
+        ]),
+    ],
+    terms=[
+        ("soṇo gahapatiputto", "the householder's son Soṇa &mdash; "
+             "this discourse's questioner, given the fuller title "
+             "gahapatiputta rather than simply gahapati"),
+        ("rājagahe...veḷuvane kalandakanivāpe", "at Rājagaha, in the "
+             "Bamboo Grove, the squirrels' feeding ground &mdash; a "
+             "familiar setting used often across this project"),
+        ("purimasuttantaṃ", "&ldquo;the previous discourse&rdquo; "
+             "&mdash; the Pali root's generic phrase, here resolved "
+             "in translation to a discourse outside this vagga "
+             "altogether"),
+        ("sakko devānamindo", "Sakka, lord of gods &mdash; the "
+             "questioner of SN 35.118, the discourse this one's own "
+             "cross-reference actually targets"),
+        ("pañcamaṃ", "&ldquo;fifth&rdquo; &mdash; this discourse's "
+             "own closing colophon"),
+    ],
+    text_intro=(
+        "The discourse exactly as short as the source leaves it, "
+        "including its own editorial instruction. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.128:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "In Sujato's translation, which already-published discourse does this stub's cross-reference actually resolve to?",
+         "opts": ["SN 35.118, in Lokakāmaguṇavagga — a different vagga entirely", "SN 35.124, in this same vagga", "SN 35.125, the discourse directly before it", "SN 22.1"],
+         "correct": 0,
+         "expl": "Reaching past this vagga's own boundary to the Question of Sakka."},
+        {"q": "Who asked the Buddha the identical question at SN 35.118?",
+         "opts": ["Sakka, lord of gods", "King Udena", "The householder Ugga", "Venerable Ānanda"],
+         "correct": 0,
+         "expl": "A deity's question, already published, standing in for this discourse's own missing wording."},
+        {"q": "What does the pattern across this vagga's three peyyāla stubs (SN 35.125, 126, 128) suggest about \"the previous discourse\" as an editorial phrase?",
+         "opts": ["It points to wherever the fullest matching text is, not strictly to what comes immediately before", "It always means the literally preceding discourse", "It is a scribal error with no consistent meaning", "It refers only to discourses within the same vagga"],
+         "correct": 0,
+         "expl": "One stub points truly backward, one reaches within-vagga, one reaches across vaggas — all resolving to the nearest full telling."},
+        {"q": "How many different figures, across this vagga and the previous one, have now asked this same full-extinguishment catechism?",
+         "opts": ["Five — householders of Vesālī, Elephant Village, and Nāḷandā, the god Sakka, and now Soṇa", "Only one, repeated verbatim", "Three", "Ten"],
+         "correct": 0,
+         "expl": "A standard question, not tied to any one questioner's identity."},
+        {"q": "What title does this discourse's questioner Soṇa carry, distinct from the plain \"gahapati\" used for earlier questioners?",
+         "opts": ["Gahapatiputta — householder's son", "Upāsaka — lay follower", "Seṭṭhi — treasurer", "Brāhmaṇa — brahmin"],
+         "correct": 0,
+         "expl": "A slightly fuller title than the vagga's other householder-questioners."},
+    ],
+    marginalia=[
+        ("A pointer that leaves the vagga", [
+            "not backward within these ten —",
+            "but forward, to a god's own question",
+        ]),
+        ("Three stubs, one real pattern", [
+            "each points to the nearest full text —",
+            "not to whatever merely comes before",
+        ]),
+        ("A fifth questioner, the same question", [
+            "Vesālī, Elephant Village, Nāḷandā —",
+            "a god, and now a householder's son",
+        ]),
+        ("Already on this site", [
+            "Sakka's own question, published before —",
+            "this stub simply points the way back",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.128/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.118.html">SN 35.118 &middot; The Question of '
+        "Sakka</a> &mdash; already published on this site, the "
+        "discourse this one's own cross-reference actually points "
+        "to.",
+        '<a href="sn-35.127.html">SN 35.127 &middot; With '
+        "Bhāradvāja</a> &mdash; the previous discourse.",
+        '<a href="sn-35.129.html">SN 35.129 &middot; With '
+        "Ghosita</a> &mdash; the next discourse, this vagga's own "
+        "second recurring question.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.129 - Ghositasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 129, "Ghosita", "With Ghosita",
+    vagga="Gahapativagga",
+    meta_title="SN 35.129 &mdash; With Ghosita | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Ghositasutta &mdash; the householder Ghosita's "
+        "question to Venerable Ānanda about the &ldquo;diversity of "
+        "elements,&rdquo; this vagga's own second recurring "
+        "question. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kosambī, at Ghosita's Monastery &mdash; the "
+                     "same monastery as the previous discourse's own "
+                     "setting, though centuries of narrative distance "
+                     "apart"),
+        ("Speakers", "Venerable Ānanda and the householder Ghosita "
+                      "&mdash; the Buddha does not appear"),
+        ("Form", "A direct Q&amp;A defining &ldquo;diversity of "
+                  "elements&rdquo; as a three-way correlation "
+                  "&mdash; agreeable, disagreeable, or "
+                  "equanimity-based &mdash; between object, "
+                  "consciousness, and feeling, across the six sense "
+                  "doors"),
+        ("Length", "~1&ndash;2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a new technical term, defined plainly"),
+    ],
+    why=(
+        "This discourse introduces this vagga's second recurring "
+        "question, distinct from the full-extinguishment catechism "
+        "running through SN 35.124&ndash;128: what does the Buddha "
+        "mean by &ldquo;diversity of elements&rdquo; (dhātunānattaṃ)? "
+        "The householder Ghosita puts the question not to the "
+        "Buddha but to Venerable Ānanda, at the very monastery "
+        "bearing Ghosita's own name in Kosambī &mdash; the same "
+        "monastery, incidentally, where the previous discourse's "
+        "Piṇḍola Bhāradvāja was staying when King Udena questioned "
+        "him. Ānanda's answer gives the basic form of this concept; "
+        "the next discourse (SN 35.130) will extend it into an "
+        "explicit causal chain."
+    ),
+    guide=[
+        ("A new question, a new respondent", [
+            "Unlike the vagga's opening five discourses, this one "
+            "does not ask about extinguishment at all. Ghosita asks "
+            "what the Buddha means by &ldquo;the diversity of "
+            "elements,&rdquo; and it is Ānanda, not the Buddha, who "
+            "answers &mdash; the third discourse in this vagga where "
+            "someone other than the Buddha does the teaching.",
+        ]),
+        ("Three feelings, six doors, one correlation", [
+            "The eye element, an agreeable sight, and eye "
+            "consciousness together give rise to pleasant feeling; "
+            "the same eye element with a disagreeable sight gives "
+            "rise to painful feeling; with a sight that is merely a "
+            "basis for equanimity, neutral feeling. This three-way "
+            "pattern (agreeable/disagreeable/equanimity-based, "
+            "mapping to pleasant/painful/neutral feeling) repeats "
+            "across all six sense doors, with the four senses in "
+            "between compressed into a blank ellipsis and only the "
+            "eye and mind spelled out.",
+        ]),
+        ("A monastery shared across two discourses", [
+            "Ghosita's Monastery, named for the same householder who "
+            "asks this question, was also the setting of the "
+            "previous discourse's King Udena narrative &mdash; the "
+            "same physical location doing double duty within this "
+            "vagga's own run of otherwise unconnected episodes.",
+        ]),
+        ("The basic form of a concept this vagga will extend", [
+            "This discourse states the diversity of elements as a "
+            "flat correlation: a given element, paired with a given "
+            "kind of object, simply comes with a given kind of "
+            "feeling. The next discourse restates the same concept "
+            "as an explicit two-step causal chain, worth reading "
+            "immediately alongside this one.",
+        ]),
+    ],
+    terms=[
+        ("dhātunānattaṃ", "&ldquo;diversity of elements&rdquo; "
+             "&mdash; the technical term this discourse and the next "
+             "one both define, this vagga's own second recurring "
+             "question"),
+        ("cakkhudhātu", "the eye element &mdash; a term distinct "
+             "from cakkhundriya (the eye faculty) used more often "
+             "elsewhere in this book, naming the eye as one of the "
+             "eighteen elements (dhātu) rather than as a bare sense "
+             "faculty"),
+        ("iṭṭhā...upekkhāṭṭhāniyā", "agreeable...a basis for "
+             "equanimity &mdash; the three-way classification of "
+             "sense objects introduced here, distinct from this "
+             "book's more common six-part &ldquo;likable, desirable, "
+             "agreeable&hellip;&rdquo; description"),
+        ("sukhā...adukkhamasukhā vedanā", "pleasant...neither-"
+             "painful-nor-pleasant feeling &mdash; the standard "
+             "three-way feeling classification this discourse "
+             "correlates directly with the three-way object "
+             "classification"),
+        ("āyasmā ānando", "Venerable Ānanda &mdash; this discourse's "
+             "respondent, teaching in the Buddha's absence at the "
+             "monastery named for his own questioner"),
+    ],
+    text_intro=("The complete discourse: Ghosita's question, and "
+        "Ānanda's answer run across the eye, the four senses folded "
+        "into a single ellipsis, and the mind. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.129:1.1-1.4"),
+        ("p", "&sect;2", "sn35.129:1.5-1.23"),
+    ],
+    quiz=[
+        {"q": "What question does the householder Ghosita ask in this discourse, distinct from the vagga's opening five discourses?",
+         "opts": ["What the Buddha means by \"the diversity of elements\"", "What causes full extinguishment in this very life", "How to become a monk", "What causes rebirth"],
+         "correct": 0,
+         "expl": "This vagga's own second recurring question, distinct from the full-extinguishment catechism."},
+        {"q": "Who answers Ghosita's question, rather than the Buddha?",
+         "opts": ["Venerable Ānanda", "Venerable Mahākaccāna", "Venerable Piṇḍola Bhāradvāja", "The householder answers his own question"],
+         "correct": 0,
+         "expl": "The third discourse in this vagga where someone other than the Buddha teaches."},
+        {"q": "According to this discourse, what three-way pattern correlates with pleasant, painful, and neutral feeling?",
+         "opts": ["Agreeable, disagreeable, or equanimity-based sense objects", "Morning, noon, and evening", "Monks, nuns, and lay followers", "Past, present, and future"],
+         "correct": 0,
+         "expl": "The eye element, a given kind of object, and eye consciousness together determine the feeling that arises."},
+        {"q": "What setting does this discourse share with the previous one (SN 35.128's neighbor, SN 35.127)?",
+         "opts": ["Ghosita's Monastery at Kosambī", "The Bamboo Grove at Rājagaha", "Vesālī's Great Wood", "Nāḷandā's mango grove"],
+         "correct": 0,
+         "expl": "The same monastery, named for this discourse's own questioner."},
+        {"q": "How does this discourse's account of \"diversity of elements\" differ from the next discourse's (SN 35.130) account?",
+         "opts": ["This one states a flat correlation; the next restates it as an explicit two-step causal chain", "This one is about ethics; the next is about metaphysics", "They contradict each other", "There is no difference — they are identical"],
+         "correct": 0,
+         "expl": "Worth reading the two discourses immediately alongside each other."},
+    ],
+    marginalia=[
+        ("A new question enters the vagga", [
+            "not extinguishment this time —",
+            "but what \"diversity of elements\" means",
+        ]),
+        ("Three objects, three feelings", [
+            "agreeable, disagreeable, or neither —",
+            "each maps straight to its own feeling",
+        ]),
+        ("A monastery doing double duty", [
+            "Ghosita's own name on the gate —",
+            "and Bhāradvāja stayed here too",
+        ]),
+        ("A concept about to be extended", [
+            "a flat correlation, stated plainly —",
+            "the next discourse will make it a chain",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.129/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.128.html">SN 35.128 &middot; With Soṇa</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-35.130.html">SN 35.130 &middot; With '
+        "Hāliddikāni</a> &mdash; the next discourse, extending this "
+        "one's own concept into a causal chain.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.130 - Haliddikanisutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 130, "Hāliddikāni", "With Hāliddikāni",
+    vagga="Gahapativagga",
+    meta_title="SN 35.130 &mdash; With Hāliddikāni | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Hāliddikānisutta &mdash; Venerable Mahākaccāna's "
+        "extended, causal-chain account of the &ldquo;diversity of "
+        "elements,&rdquo; paired with the previous discourse's "
+        "simpler version. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The land of the Avantis, near Kuraraghara, on "
+                     "Steep Mountain (Papāta Pabbata)"),
+        ("Speakers", "Venerable Mahākaccāna and the householder "
+                      "Hāliddikāni &mdash; the Buddha does not "
+                      "appear"),
+        ("Form", "An extended Q&amp;A, restating the previous "
+                  "discourse's concept as an explicit two-step "
+                  "causal chain, with the mendicant's own judgment "
+                  "of an object determining the feeling that follows"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the same concept as the previous discourse, "
+                       "reasoned through an extra causal step"),
+    ],
+    why=(
+        "This discourse pairs directly with the previous one, both "
+        "addressing &ldquo;the diversity of elements,&rdquo; but "
+        "from a different distance and to a different respondent: "
+        "the householder Hāliddikāni puts the question to Venerable "
+        "Mahākaccāna, quoting back a saying he attributes to the "
+        "Buddha himself &mdash; diversity of elements gives rise to "
+        "diversity of contacts, and diversity of contacts gives rise "
+        "to diversity of feelings &mdash; and asking how. "
+        "Mahākaccāna's answer makes explicit the two-step causal "
+        "chain that SN 35.129's flatter correlation left implicit, "
+        "and shifts the deciding factor from the object's own nature "
+        "to how the mendicant judges it."
+    ),
+    guide=[
+        ("An explicit two-step chain, not a flat correlation", [
+            "Where SN 35.129 stated the element, the object, and the "
+            "feeling as a single three-way match, this discourse "
+            "spells out the intermediate step: diversity of elements "
+            "gives rise to diversity of contacts, and diversity of "
+            "contacts gives rise to diversity of feelings &mdash; two "
+            "distinct causal links rather than one flat correlation.",
+        ]),
+        ("The mendicant's own judgment, not the object's fixed nature", [
+            "This discourse frames the three-way split differently: "
+            "a mendicant sees a sight and understands it to be "
+            "agreeable, disagreeable, or a basis for equanimity. The "
+            "judgment belongs to the perceiving mendicant, not to "
+            "some fixed property of the object itself, a subtle shift "
+            "from the previous discourse's own framing.",
+        ]),
+        ("Mahākaccāna, twice in one vagga", [
+            "Venerable Mahākaccāna answers a householder's question "
+            "here and will do so again at SN 35.132 later in this "
+            "vagga, on an entirely different subject &mdash; the "
+            "only monk besides the Buddha to appear twice as "
+            "respondent within Gahapativagga.",
+        ]),
+        ("A basic form, then an extended form, side by side", [
+            "Read together, SN 35.129 and this discourse function as "
+            "a matched pair &mdash; not a paṭhama/dutiya-titled pair "
+            "like this book has used before, but a genuine "
+            "basic-then-extended presentation of the identical "
+            "underlying concept, to two different respondents at two "
+            "different locations.",
+        ]),
+    ],
+    terms=[
+        ("dhātunānattaṃ paṭicca uppajjati phassanānattaṃ", "diversity "
+             "of elements gives rise to diversity of contacts "
+             "&mdash; the first link in this discourse's own causal "
+             "chain, quoted by Hāliddikāni as the Buddha's own "
+             "saying"),
+        ("phassanānattaṃ paṭicca uppajjati vedanānānattaṃ",
+             "diversity of contacts gives rise to diversity of "
+             "feelings &mdash; the second link, completing the "
+             "chain from element to feeling"),
+        ("pajānāti", "understands, discerns &mdash; the verb "
+             "governing the mendicant's own judgment of an object as "
+             "agreeable, disagreeable, or a basis for equanimity, "
+             "central to this discourse's own framing"),
+        ("āyasmā mahākaccāno", "Venerable Mahākaccāna &mdash; this "
+             "discourse's respondent, the only monk besides the "
+             "Buddha to answer a householder's question twice within "
+             "this vagga"),
+        ("kuraraghare papāte pabbate", "at Kuraraghara, on Steep "
+             "Mountain &mdash; a distinctive place-name in the "
+             "Avanti country, this book's westernmost setting so far"),
+    ],
+    text_intro=("The complete discourse: Hāliddikāni's question "
+        "quoting the Buddha's own causal-chain saying, and "
+        "Mahākaccāna's answer run across the eye, the four senses "
+        "folded into a single ellipsis, and the mind. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.130:1.1-1.5"),
+        ("p", "&sect;2", "sn35.130:1.6-2.11"),
+    ],
+    quiz=[
+        {"q": "What two-step causal chain does the householder Hāliddikāni quote back to Mahākaccāna, attributing it to the Buddha?",
+         "opts": ["Diversity of elements gives rise to diversity of contacts, which gives rise to diversity of feelings", "Diversity of feelings gives rise to diversity of elements", "Craving gives rise to suffering", "Ignorance gives rise to formations"],
+         "correct": 0,
+         "expl": "The explicit two-step chain this discourse's answer unpacks."},
+        {"q": "How does this discourse's account of the three-way object classification differ from SN 35.129's?",
+         "opts": ["It is framed as the mendicant's own judgment (\"understands it to be\"), not a fixed property of the object", "It uses entirely different terms with no overlap", "It applies to only one sense door instead of six", "It removes the neutral/equanimity category entirely"],
+         "correct": 0,
+         "expl": "A subtle shift from object-based framing to the perceiving mendicant's own discernment."},
+        {"q": "Which monk answers a householder's question twice within Gahapativagga, here and later at SN 35.132?",
+         "opts": ["Venerable Mahākaccāna", "Venerable Ānanda", "Venerable Piṇḍola Bhāradvāja", "Venerable Udāyī"],
+         "correct": 0,
+         "expl": "The only monk besides the Buddha to appear twice as respondent in this vagga."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Near Kuraraghara, on Steep Mountain, in the Avanti country", "Kosambī, at Ghosita's Monastery", "Rājagaha, at the Bamboo Grove", "Vesālī, at the Great Wood"],
+         "correct": 0,
+         "expl": "This book's westernmost setting so far."},
+        {"q": "How do SN 35.129 and this discourse relate to each other?",
+         "opts": ["A basic form and an extended form of the identical underlying concept, to different respondents", "They contradict each other outright", "They are unrelated discourses placed side by side by coincidence", "This discourse retracts SN 35.129's teaching"],
+         "correct": 0,
+         "expl": "Not a paṭhama/dutiya-titled pair, but a genuine basic-then-extended presentation."},
+    ],
+    marginalia=[
+        ("A chain made explicit", [
+            "element to contact to feeling —",
+            "two links, spelled out this time",
+        ]),
+        ("Judgment, not fixed nature", [
+            "the mendicant decides agreeable or not —",
+            "not some property baked into the object",
+        ]),
+        ("One monk, twice in ten discourses", [
+            "Mahākaccāna answers again —",
+            "a different householder, later on",
+        ]),
+        ("Two tellings, one concept", [
+            "basic, then extended —",
+            "no shared title marks them as a pair",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.130/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.129.html">SN 35.129 &middot; With '
+        "Ghosita</a> &mdash; the previous discourse, this same "
+        "concept's simpler telling.",
+        '<a href="sn-35.131.html">SN 35.131 &middot; Nakula&rsquo;s '
+        "Father</a> &mdash; the next discourse, a return to the "
+        "vagga's opening catechism, in full a second time.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.131 - Nakulapitusutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 131, "Nakulapitu", "Nakula&rsquo;s Father",
+    vagga="Gahapativagga",
+    meta_title="SN 35.131 &mdash; Nakula&rsquo;s Father | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Nakulapitusutta &mdash; the vagga's own catechism "
+        "restated in full a second time, asked by the householder "
+        "Nakula's father, who already appears elsewhere on this "
+        "site at SN 22.1, at this identical location. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "The Bhagga country, at Crocodile's Bellow, in "
+                     "the deer park at Bhesakaḷā's Wood &mdash; "
+                     "worded identically to SN 22.1's own opening, "
+                     "already published on this site"),
+        ("Speakers", "The Buddha and the householder Nakula's "
+                      "father"),
+        ("Form", "Full catechism, matching SN 35.124's own template "
+                  "exactly a second time, unabbreviated"),
+        ("Length", "~1&ndash;2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the vagga's opening catechism, familiar by "
+                       "now, asked by a familiar face"),
+    ],
+    why=(
+        "This is the vagga's eighth discourse, and the second (after "
+        "SN 35.124) to give the full-extinguishment catechism "
+        "entirely unabbreviated &mdash; the last time this template "
+        "appears in full within Gahapativagga. Its questioner, "
+        "Nakula's father, is not new to this project: he asks the "
+        "Buddha a very different question &mdash; how to bear an "
+        "aging, ailing body without an ailing mind &mdash; already "
+        "published on this site as SN 22.1, this project's own "
+        "opening discourse of Book III. Both discourses share the "
+        "identical setting, worded practically the same way: the "
+        "Bhagga country, at Crocodile's Bellow, in the deer park at "
+        "Bhesakaḷā's Wood. The same householder, at the same place, "
+        "asking two unrelated questions across two different books "
+        "of this saṃyutta &mdash; a genuine recurring character, not "
+        "a coincidence of shared vocabulary."
+    ),
+    guide=[
+        ("The catechism's own template, exactly once more", [
+            "This discourse restates SN 35.124's full catechism "
+            "&mdash; approving, welcoming, and clinging binds "
+            "consciousness to an object as fuel for grasping and "
+            "prevents extinguishment; not doing so frees it &mdash; "
+            "word for word, run across the eye, a single ellipsis "
+            "for the four senses in between, and the mind, in both "
+            "directions.",
+        ]),
+        ("A recurring householder, not a coincidence", [
+            "Nakula's father and his wife Nakula's mother are a "
+            "well-known elderly couple across this canon, and this "
+            "project has already met him: SN 22.1 opens with this "
+            "same householder, at this same location, worded almost "
+            "identically down to the place-names, asking the Buddha "
+            "how to keep his mind healthy while his body ages and "
+            "ails. Here, at a different point in the canon's own "
+            "arrangement, he asks an entirely unrelated question "
+            "about extinguishment.",
+        ]),
+        ("Two questions, one questioner, no connection drawn", [
+            "The text itself makes no link between these two "
+            "appearances &mdash; SN 22.1 and this discourse were "
+            "compiled into different saṃyuttas entirely, organized "
+            "by subject matter (aggregates, then sense fields) "
+            "rather than by character. This reading guide draws the "
+            "connection only because both are now published on this "
+            "same site, not because the canon itself cross-references "
+            "them.",
+        ]),
+        ("The template's last full telling in this vagga", [
+            "After this discourse, none of the remaining two "
+            "discourses in Gahapativagga (SN 35.132, 35.133) return "
+            "to this catechism at all &mdash; the vagga moves on "
+            "permanently to its remaining independent narrative "
+            "episodes.",
+        ]),
+    ],
+    terms=[
+        ("nakulapitā gahapati", "the householder Nakula's father "
+             "&mdash; already this project's own questioner at SN "
+             "22.1, here asking an unrelated question at the "
+             "identical location"),
+        ("susumāragire bhesakaḷāvane migadāye", "at Crocodile's "
+             "Bellow, in the deer park at Bhesakaḷā's Wood &mdash; "
+             "worded practically identically to SN 22.1's own "
+             "opening line"),
+        ("saupādāno...anupādāno bhikkhu", "a mendicant with fuel for "
+             "grasping...free of grasping &mdash; the catechism's "
+             "own two conditions, restated here exactly as at SN "
+             "35.124"),
+        ("aṭṭhamaṃ", "&ldquo;eighth&rdquo; &mdash; this discourse's "
+             "own closing colophon, marking the vagga's own halfway "
+             "point just passed"),
+        ("bhaggesu", "in the Bhagga country &mdash; a region this "
+             "project has now visited twice, at two points in the "
+             "canon's own arrangement, through the same householder"),
+    ],
+    text_intro=("The complete discourse: the not-extinguished "
+        "condition, then the extinguished condition, each run "
+        "across the eye, the four senses folded into a single "
+        "ellipsis, and the mind &mdash; matching SN 35.124's own "
+        "template exactly. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.131:1.1-1.14"),
+        ("p", "&sect;2", "sn35.131:2.1-2.10"),
+    ],
+    quiz=[
+        {"q": "Where else on this site has this discourse's questioner, Nakula's father, already appeared?",
+         "opts": ["SN 22.1, this project's own opening discourse of Book III", "SN 1.1", "SN 12.1", "He has not appeared elsewhere on this site"],
+         "correct": 0,
+         "expl": "The same householder, asking an entirely different question about aging and illness."},
+        {"q": "How does this discourse's setting compare to SN 22.1's own opening?",
+         "opts": ["Worded practically identically — the Bhagga country, Crocodile's Bellow, the deer park at Bhesakaḷā's Wood", "A completely different country and setting", "SN 22.1 gives no setting at all", "This discourse is set in Vesālī, like SN 35.124"],
+         "correct": 0,
+         "expl": "The same householder, at the same location, across two different books of the Saṃyutta Nikāya."},
+        {"q": "Does the canon itself draw any explicit connection between this discourse and SN 22.1?",
+         "opts": ["No — the connection is drawn only by this reading guide, since both are now published on this same site", "Yes, this discourse explicitly cross-references SN 22.1 by number", "Yes, but only in the closing colophon", "The two discourses are actually the same text"],
+         "correct": 0,
+         "expl": "Compiled into different saṃyuttas entirely, organized by subject rather than by character."},
+        {"q": "What does this discourse restate in full, matching SN 35.124's own template exactly?",
+         "opts": ["The full-extinguishment catechism", "The diversity-of-elements teaching", "The sense-door-restraint teaching from SN 35.127", "A new teaching not seen before in this vagga"],
+         "correct": 0,
+         "expl": "The last time this particular template appears in full within Gahapativagga."},
+        {"q": "What happens to the full-extinguishment catechism in the two discourses that follow this one (SN 35.132, 35.133)?",
+         "opts": ["It does not return — the vagga moves permanently to independent narrative episodes", "It is restated a third time", "It becomes the sole subject of the rest of the vagga", "It is explicitly contradicted"],
+         "correct": 0,
+         "expl": "This discourse's own full telling is the template's last appearance in this vagga."},
+    ],
+    marginalia=[
+        ("A familiar face returns", [
+            "Nakula's father, once more —",
+            "same householder, different question",
+        ]),
+        ("The identical setting, twice", [
+            "Crocodile's Bellow, Bhesakaḷā's Wood —",
+            "worded almost the same both times",
+        ]),
+        ("A connection this guide draws, not the canon", [
+            "no cross-reference in the text itself —",
+            "only two pages on one site, side by side",
+        ]),
+        ("The template's last full telling", [
+            "eighth in the vagga's own count —",
+            "the last time this shape appears here",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.131/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.1.html">SN 22.1 &middot; Nakula&rsquo;s '
+        "Father</a> &mdash; already published on this site, this "
+        "same householder's other appearance, at this identical "
+        "location, asking an entirely different question.",
+        '<a href="sn-35.130.html">SN 35.130 &middot; With '
+        "Hāliddikāni</a> &mdash; the previous discourse.",
+        '<a href="sn-35.132.html">SN 35.132 &middot; With '
+        "Lohicca</a> &mdash; the next discourse, a fully "
+        "independent narrative.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.132 - Lohiccasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 132, "Lohicca", "With Lohicca",
+    vagga="Gahapativagga",
+    meta_title="SN 35.132 &mdash; With Lohicca | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Lohiccasutta &mdash; Venerable Mahākaccāna's verses "
+        "on brahmin decline, silencing a heckling gang of students "
+        "and, once their teacher Lohicca investigates for himself, "
+        "unpacking sense-door restraint into paired definitions. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The land of the Avantis, at a wilderness hut "
+                     "near Makkarakaṭa"),
+        ("Speakers", "Venerable Mahākaccāna, a gang of the brahmin "
+                      "Lohicca's students, and Lohicca himself "
+                      "&mdash; the Buddha does not appear"),
+        ("Form", "A frame narrative &mdash; heckling, then six "
+                  "verses, then a teacher's own investigation, "
+                  "closing with two paired technical definitions"),
+        ("Length", "~4&ndash;5 minutes to read &mdash; the longest "
+                    "discourse in this vagga"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "verse, narrative, and technical definition "
+                       "combined, this vagga's richest discourse"),
+    ],
+    why=(
+        "This vagga's longest and most eventful discourse opens with "
+        "an insult: a gang of young brahmin students, out gathering "
+        "firewood, surround Venerable Mahākaccāna's forest hut and "
+        "jeer at him as a shaveling and fake ascetic. Mahākaccāna's "
+        "response is not to argue but to recite six verses "
+        "contrasting the brahmins of old &mdash; who guarded their "
+        "senses and prized virtue and meditative absorption &mdash; "
+        "with brahmins of the present, who chase ritual, wealth, and "
+        "anger while forgetting what their own tradition once "
+        "valued. When the humiliated students report this to their "
+        "teacher, the brahmin Lohicca, he does not simply take their "
+        "word for it: he goes himself, hears the verses in full, and "
+        "presses Mahākaccāna to define, in plain terms, exactly what "
+        "it means to have one's sense doors guarded or unguarded "
+        "&mdash; a technical unpacking of the very restraint theme "
+        "this vagga already raised at SN 35.127."
+    ),
+    guide=[
+        ("An insult answered with verse, not argument", [
+            "Mahākaccāna does not defend himself against the "
+            "students' jeers directly. He silences them, then "
+            "recites verses that redirect the whole confrontation "
+            "onto different ground entirely &mdash; not who deserves "
+            "respect by birth, but what kind of conduct actually "
+            "earns it.",
+        ]),
+        ("Brahmins of old, brahmins now", [
+            "The verses' central move is a contrast: earlier "
+            "brahmins guarded their sense doors, mastered anger, and "
+            "valued virtue and meditative absorption; the present "
+            "generation recites by rote, judges by clan, takes up "
+            "weapons in anger, and treats brahminical emblems "
+            "&mdash; hides, dreadlocks, austerities, sipping water "
+            "&mdash; as mere tools for profit. The verses close on a "
+            "striking, universalist line: a mind that is serene, "
+            "clear, and kind to all creatures is itself the true "
+            "path to attaining divinity, not birth or ritual at all.",
+        ]),
+        ("A teacher who investigates rather than assumes", [
+            "Lohicca's own response to his students' outrage is "
+            "notable in itself: rather than condemning Mahākaccāna "
+            "on hearsay, he reasons that abusing someone based only "
+            "on what he has heard secondhand would be improper, and "
+            "goes to ask Mahākaccāna directly &mdash; a small, "
+            "humanizing detail of intellectual honesty embedded "
+            "inside the narrative.",
+        ]),
+        ("Sense-door restraint, defined both ways", [
+            "Pressed by Lohicca, Mahākaccāna defines the unguarded "
+            "mendicant first (holding on to the pleasant, disliking "
+            "the unpleasant, mindfulness of the body unestablished, "
+            "a limited heart, no true understanding of freedom of "
+            "heart and freedom by wisdom) and then the guarded "
+            "mendicant as its exact mirror &mdash; the same "
+            "sense-door restraint theme SN 35.127 raised through King "
+            "Udena, here given precise technical definitions rather "
+            "than a king's own testimony.",
+        ]),
+    ],
+    terms=[
+        ("kaṭṭhahārakā māṇavakā", "young students gathering firewood "
+             "&mdash; the vivid, ordinary detail opening this "
+             "discourse's confrontation"),
+        ("pubbe brāhmaṇā", "the brahmins of old &mdash; the verses' "
+             "own idealized figures, guarding sense doors and "
+             "valuing virtue and absorption, set against the present "
+             "generation's decline"),
+        ("santaṃ cittaṃ...sabbabhūtānukampinaṃ", "a mind that's "
+             "serene...kind to all creatures &mdash; the verses' own "
+             "closing definition of the true path to attainment of "
+             "divinity, replacing birth and ritual with conduct and "
+             "mental quality"),
+        ("indriyesu aguttadvāro...guttadvāro", "one who doesn't "
+             "guard the sense doors...one who does &mdash; the "
+             "paired technical definitions Lohicca presses Mahākaccāna "
+             "for, echoing SN 35.127's own restraint theme in more "
+             "precise terms"),
+        ("cetovimutti paññāvimutti", "freedom of heart and freedom "
+             "by wisdom &mdash; the payoff distinguishing the "
+             "guarded mendicant, who truly understands it, from the "
+             "unguarded, who does not"),
+    ],
+    text_intro=("The complete discourse: the students' heckling, "
+        "Mahākaccāna's six verses, Lohicca's own investigation and "
+        "the verses repeated, and the paired definitions of guarded "
+        "and unguarded sense doors. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.132:1.1-1.8"),
+        ("p", "&sect;2", "sn35.132:2.1-7.4"),
+        ("p", "&sect;3", "sn35.132:8.1-9.8"),
+        ("p", "&sect;4", "sn35.132:12.1-12.13"),
+        ("p", "&sect;5", "sn35.132:13.1-14.8"),
+    ],
+    quiz=[
+        {"q": "How do the brahmin students first approach Venerable Mahākaccāna in this discourse?",
+         "opts": ["Heckling him as a shaveling and fake ascetic while gathering firewood near his hut", "Respectfully requesting teaching", "Attacking him physically", "Ignoring him entirely"],
+         "correct": 0,
+         "expl": "The confrontation opening this, this vagga's longest discourse."},
+        {"q": "What contrast do Mahākaccāna's six verses draw?",
+         "opts": ["Brahmins of old, who guarded their senses and valued virtue and absorption, against the present generation's ritualism and anger", "Monks against householders", "Kings against commoners", "Men against women"],
+         "correct": 0,
+         "expl": "A redirection of the whole confrontation onto conduct rather than birth."},
+        {"q": "What do the verses name as the true path to attainment of divinity, replacing birth or ritual?",
+         "opts": ["A mind that is serene, clear, and kind to all creatures", "Reciting the three Vedas correctly", "Wearing rough hides and dreadlocks", "Sipping water at the proper hour"],
+         "correct": 0,
+         "expl": "The verses' own striking, universalist closing line."},
+        {"q": "How does the brahmin Lohicca respond when his students report the insult to their tradition?",
+         "opts": ["He investigates for himself rather than condemning Mahākaccāna on hearsay", "He immediately punishes Mahākaccāna", "He dismisses his students without listening", "He orders his students to retaliate"],
+         "correct": 0,
+         "expl": "A small but notable detail of intellectual honesty within the narrative."},
+        {"q": "What does Mahākaccāna define at Lohicca's own request, closing this discourse?",
+         "opts": ["The unguarded and guarded sense doors, as exact mirrors of each other", "The rules of brahmin ritual", "The geography of the Avanti country", "The history of the Vedas"],
+         "correct": 0,
+         "expl": "Echoing SN 35.127's own restraint theme, here given precise technical definitions."},
+    ],
+    marginalia=[
+        ("An insult, answered in verse", [
+            "not argument, but six verses —",
+            "redirecting what \"deserving respect\" means",
+        ]),
+        ("Old brahmins, and these ones now", [
+            "guarded senses once, now rote and anger —",
+            "\"kind to all creatures\" closes it",
+        ]),
+        ("A teacher who checks for himself", [
+            "not hearsay alone —",
+            "Lohicca goes and asks directly",
+        ]),
+        ("Restraint, defined precisely this time", [
+            "a king confessed it at SN 35.127 —",
+            "here, a monk defines both sides exactly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.132/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.127.html">SN 35.127 &middot; With '
+        "Bhāradvāja</a> &mdash; earlier in this vagga, this "
+        "discourse's own counterpart on sense-door restraint, there "
+        "confirmed by a king's confession rather than defined "
+        "technically.",
+        '<a href="sn-35.131.html">SN 35.131 &middot; Nakula&rsquo;s '
+        "Father</a> &mdash; the previous discourse.",
+        '<a href="sn-35.133.html">SN 35.133 &middot; '
+        "Verahaccānī</a> &mdash; the next discourse, and this "
+        "vagga's own close.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.133 - Verahaccanisutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 133, "Verahaccāni", "Verahaccānī",
+    vagga="Gahapativagga",
+    meta_title="SN 35.133 &mdash; Verahaccānī | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Verahaccānisutta &mdash; a brahmin lady's repeated "
+        "failure to invite the teaching properly, corrected by her "
+        "own pupil, resolving into a terse exchange on the six "
+        "sense bases, and this vagga's own closing colophon "
+        "confirming the third paṇṇāsaka. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Kāmaṇḍā, in the brahmin Todeyya's mango grove"),
+        ("Speakers", "Venerable Udāyī, an unnamed brahmin pupil, and "
+                      "the brahmin lady of the Verahaccāni clan"),
+        ("Form", "A frame narrative built on a repeated etiquette "
+                  "failure, resolving into a single terse "
+                  "philosophical exchange, then this vagga's own "
+                  "closing colophon and uddāna"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a warm domestic narrative, closing on a "
+                       "genuinely difficult question"),
+    ],
+    why=(
+        "Gahapativagga closes on a narrative about manners, not "
+        "metaphysics, until its very last exchange. A young brahmin "
+        "pupil, moved by Venerable Udāyī's teaching, twice arranges a "
+        "meal invitation from his own teacher's wife, the brahmin "
+        "lady of the Verahaccāni clan &mdash; and twice she demands "
+        "&ldquo;preach the Dhamma&rdquo; while wearing slippers, "
+        "seated on a high seat, her head covered, and twice Udāyī "
+        "simply leaves without teaching. Only when her pupil "
+        "explains why &mdash; good people show respect for the "
+        "teaching itself before receiving it &mdash; does she correct "
+        "her posture, and only then does Udāyī answer a real "
+        "question: on what does the very possibility of declaring "
+        "pleasure and pain depend? This discourse's own closing "
+        "colophon, &ldquo;Gahapativaggo tatiyo,&rdquo; confirms what "
+        "the previous two vaggas' own colophons already suggested "
+        "&mdash; that Yogakkhemivagga, Lokakāmaguṇavagga, and this "
+        "vagga together form Saḷāyatanasaṃyutta's third paṇṇāsaka."
+    ),
+    guide=[
+        ("A lesson repeated until it lands", [
+            "The narrative's structure is patient rather than "
+            "didactic: the same failure (disrespectful posture, "
+            "Udāyī's silent refusal to teach) happens twice before "
+            "anyone explains why, and only the pupil's own plain "
+            "words &mdash; &ldquo;good fellows respect the "
+            "teaching&rdquo; &mdash; finally break the pattern.",
+        ]),
+        ("Posture as the entire argument", [
+            "The text sets the failed and successful invitations "
+            "against each other almost word for word: slippers on, "
+            "a high seat, head covered, versus slippers off, a low "
+            "seat, head uncovered. No further moral is drawn "
+            "&mdash; the contrast in bodily posture is left to carry "
+            "the entire point about respect for the teaching.",
+        ]),
+        ("A terse question, answered by the six sense bases", [
+            "Once she finally asks properly, the brahmin lady's own "
+            "question is genuinely abstract: on what does it depend "
+            "that perfected ones (arahants) declare pleasure and "
+            "pain to exist at all? Udāyī's answer returns this "
+            "vagga, and this book, to its foundational ground "
+            "&mdash; when the eye exists, and likewise the ear, "
+            "nose, tongue, body, and mind, pleasure and pain can be "
+            "declared; when it doesn't, they cannot.",
+        ]),
+        ("The vagga's own close, confirming a paṇṇāsaka", [
+            "This discourse's own untranslated closing colophon, "
+            "&ldquo;Gahapativaggo tatiyo&rdquo; (Gahapativagga, the "
+            "third), together with its own uddāna naming all ten "
+            "discourses by title, confirms &mdash; not merely "
+            "suggests, as at SN 35.113 &mdash; that Yogakkhemivagga "
+            "(&ldquo;paṭhamo&rdquo;), Lokakāmaguṇavagga "
+            "(&ldquo;dutiyo&rdquo;), and Gahapativagga "
+            "(&ldquo;tatiyo&rdquo;) together make up "
+            "Saḷāyatanasaṃyutta's own third paṇṇāsaka, thirty "
+            "discourses across three vaggas, though still without any "
+            "single explicit paṇṇāsaka-level label of its own, "
+            "exactly as this project inferred two vaggas ago.",
+        ]),
+    ],
+    terms=[
+        ("pādukā ārohitvā ucce āsane nisīditvā sīsaṃ oguṇṭhitvā",
+             "slippers on, seated on a high seat, head covered "
+             "&mdash; the brahmin lady's disrespectful posture, set "
+             "word for word against its later mirror"),
+        ("dhammagaruno hi te bhavanto dhammagāravā", "&ldquo;good "
+             "fellows respect the teaching&rdquo; &mdash; the "
+             "pupil's own plain explanation, the narrative's moral, "
+             "stated once and left to do its work"),
+        ("kismiṃ sati...kismiṃ asati", "when what exists...when what "
+             "doesn't exist &mdash; the brahmin lady's own question "
+             "form, distinct from every other question asked "
+             "elsewhere in this vagga"),
+        ("sukhadukkhaṃ paññapenti", "declare, designate pleasure and "
+             "pain to exist &mdash; the verb paññapeti (to make "
+             "known, prescribe) rather than the plainer vuttaṃ "
+             "(spoken) used for most of this vagga's other teachings"),
+        ("gahapativaggo tatiyo", "Gahapativagga, the third &mdash; "
+             "this vagga's own closing colophon, confirming, "
+             "alongside Yogakkhemivagga's own &ldquo;paṭhamo&rdquo; "
+             "and Lokakāmaguṇavagga's own &ldquo;dutiyo,&rdquo; that "
+             "these three vaggas together form Saḷāyatanasaṃyutta's "
+             "third paṇṇāsaka"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "colophon and uddāna (both left untranslated in the Pali "
+        "root and described, not quoted, above): the pupil's report, "
+        "two failed invitations, the pupil's own explanation, the "
+        "successful third invitation, and the exchange on the six "
+        "sense bases. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.133:1.1-1.7"),
+        ("p", "&sect;2", "sn35.133:2.1-2.9"),
+        ("p", "&sect;3", "sn35.133:3.1-4.9"),
+        ("p", "&sect;4", "sn35.133:5.1-6.3"),
+        ("p", "&sect;5", "sn35.133:7.1-7.5"),
+    ],
+    quiz=[
+        {"q": "What happens the first two times the brahmin lady of the Verahaccāni clan invites Venerable Udāyī and asks him to preach?",
+         "opts": ["She asks while wearing slippers, seated high, head covered — a disrespectful posture — and he leaves without teaching", "He teaches at length both times", "She refuses to feed him", "He refuses the invitation outright"],
+         "correct": 0,
+         "expl": "The repeated failure the narrative is built on, corrected only the third time."},
+        {"q": "Who explains to the brahmin lady why Udāyī left without teaching?",
+         "opts": ["Her own pupil, the young brahmin student", "Udāyī explains it himself", "The Buddha appears and explains it", "No explanation is ever given"],
+         "correct": 0,
+         "expl": "\"Good fellows respect the teaching\" — the pupil's own plain words."},
+        {"q": "What question does the brahmin lady finally ask, once she corrects her posture?",
+         "opts": ["On what does it depend that perfected ones declare pleasure and pain to exist?", "How does one become a brahmin?", "What is the best way to prepare a meal?", "How long will the Buddha remain in the region?"],
+         "correct": 0,
+         "expl": "A genuinely abstract question, distinct from the vagga's other, more concrete questions."},
+        {"q": "What does Udāyī name as the condition for declaring pleasure and pain to exist?",
+         "opts": ["The six sense bases — the eye, ear, nose, tongue, body, and mind", "Wealth and social status", "The presence of a teacher", "The season of the year"],
+         "correct": 0,
+         "expl": "Returning this vagga, and this book, to its foundational ground."},
+        {"q": "What does this discourse's own closing colophon, \"Gahapativaggo tatiyo,\" confirm?",
+         "opts": ["That Yogakkhemivagga, Lokakāmaguṇavagga, and Gahapativagga together form the third paṇṇāsaka", "That this is the final vagga of the entire Saḷāyatanasaṃyutta", "That Gahapativagga has only three discourses", "Nothing — the colophon is untranslated and unusable"],
+         "correct": 0,
+         "expl": "Confirming, not merely suggesting as at SN 35.113, the third-paṇṇāsaka reading."},
+    ],
+    marginalia=[
+        ("Twice wrong, then corrected", [
+            "slippers, high seat, covered head —",
+            "the third time, everything reversed",
+        ]),
+        ("A pupil's plain explanation", [
+            "\"good fellows respect the teaching\" —",
+            "nothing more needed to be said",
+        ]),
+        ("A question worth the wait", [
+            "on what does \"pleasure and pain\" depend? —",
+            "the six sense bases, once more, at the close",
+        ]),
+        ("A vagga's own confirmation", [
+            "\"tatiyo\" — the third, now certain —",
+            "thirty discourses, three vaggas, one paṇṇāsaka",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.133/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.132.html">SN 35.132 &middot; With '
+        "Lohicca</a> &mdash; the previous discourse.",
+        '<a href="sn-36.6.html">SN 36.6 &middot; An Arrow</a> '
+        "&mdash; already published on this site, standing ahead of "
+        "this book's own next vagga, Devadahavagga (SN "
+        "35.134&ndash;145), not yet built.",
+    ],
+)
