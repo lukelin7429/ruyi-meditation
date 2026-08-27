@@ -33468,3 +33468,1642 @@ page(
         "&ndash;20), not yet built.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 36.11 — Rahogatasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 11, "Rahogata", "In Private",
+    vagga="Rahogatavagga",
+    meta_title="SN 36.11 &mdash; In Private | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Rahogatasutta &mdash; opening Rahogatavagga with a "
+        "mendicant's own private puzzle: how can three feelings be "
+        "taught alongside &ldquo;whatever is felt is included in "
+        "suffering&rdquo;? From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated beyond the mendicant's approach to "
+                     "the Buddha"),
+        ("Speakers", "An unnamed mendicant and the Buddha"),
+        ("Form", "A question arising from private reflection, "
+                 "answered with a clarification and a threefold "
+                 "graduated list run over three near-synonymous "
+                 "verbs"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "a long enumerated list rewards careful "
+                       "tracking of what changes at each pass"),
+    ],
+    why=(
+        "This discourse opens Rahogatavagga (&ldquo;the chapter on "
+        "being in private&rdquo;) with a puzzle a mendicant brings "
+        "back from private retreat: the Buddha has taught three "
+        "feelings (pleasant, painful, neutral), yet has also said "
+        "&ldquo;whatever is felt is included in suffering.&rdquo; How "
+        "can pleasant feeling itself be suffering? The Buddha's own "
+        "answer redirects the statement away from feeling's felt "
+        "quality entirely: it refers to the impermanence of "
+        "conditions (saṅkhārā) themselves, not to any claim that "
+        "pleasant feeling feels bad. The discourse then unfolds a "
+        "long graduated list &mdash; the progressive ending of "
+        "specific activities across the four absorptions, the four "
+        "formless attainments, the cessation of perception and "
+        "feeling, and an arahant's ending of greed, hate, and "
+        "delusion &mdash; run three times over with three different "
+        "verbs: ceased, settled, and tranquilized."
+    ),
+    guide=[
+        ("A puzzle solved by redirection, not by softening the claim",
+         [
+            "The Buddha doesn't qualify or retract &ldquo;whatever is "
+            "felt is included in suffering&rdquo;; he clarifies what "
+            "it was actually about &mdash; the impermanence, "
+            "perishability, and changeability of conditions "
+            "themselves (saṅkhārā), stacking six near-synonymous "
+            "terms for this instability, echoing the sevenfold "
+            "impermanence list this project has already met at SN "
+            "36.9, but applied here to conditions rather than "
+            "feeling directly.",
+        ]),
+        ("Ten items, each losing one specific thing", [
+            "The first pass names what ceases at each of ten "
+            "successive attainments: speech at the first absorption, "
+            "placing and keeping the mind at the second, rapture at "
+            "the third, breathing at the fourth, the perception of "
+            "form at the dimension of infinite space, and so on "
+            "through each formless attainment, up to the cessation of "
+            "perception and feeling itself &mdash; closing with a "
+            "tenth item standing apart from the meditative sequence: "
+            "an arahant's ending of greed, hate, and delusion.",
+        ]),
+        ("Three verbs, but not three identical passes", [
+            "The list recurs with &ldquo;ceased&rdquo; (niruddha), "
+            "then &ldquo;settled&rdquo; (vūpasanta), then "
+            "&ldquo;tranquilized&rdquo; (paṭippassaddha) &mdash; but "
+            "the third pass is explicitly narrower, introduced as "
+            "&ldquo;these six kinds of tranquility,&rdquo; openly "
+            "skipping all four formless attainments rather than "
+            "merely compressing them with an ellipsis marker as the "
+            "second pass does. This is a genuine structural "
+            "narrowing the text itself names, not just a "
+            "typographical shortcut.",
+        ]),
+        ("A closing item that isn't a meditative attainment at all",
+         [
+            "Every item but the last describes something that "
+            "ceases, settles, or is tranquilized within a specific "
+            "meditative attainment. The final item &mdash; an "
+            "arahant's greed, hate, and delusion &mdash; belongs to a "
+            "different category entirely: a moral and liberative "
+            "culmination, not a jhāna or formless state, closing the "
+            "list on a note the meditative sequence alone could not "
+            "reach.",
+        ]),
+    ],
+    terms=[
+        ("rahogatassa paṭisallīnassa", "&ldquo;in private retreat, "
+             "withdrawn&rdquo; &mdash; the setting in which the "
+             "mendicant's own puzzle arose, giving this vagga its "
+             "name"),
+        ("yaṁ kiñci vedayitaṁ taṁ dukkhasmiṁ", "&ldquo;whatever is "
+             "felt is included in suffering&rdquo; &mdash; the "
+             "Buddha's own earlier statement the mendicant asks "
+             "about"),
+        ("saṅkhārānaṁyeva aniccataṁ sandhāya bhāsitaṁ", "&ldquo;said "
+             "with reference to the impermanence of conditions "
+             "themselves&rdquo; &mdash; the Buddha's own clarification, "
+             "redirecting the claim away from feeling's felt quality"),
+        ("anupubbasaṅkhārānaṁ nirodho", "&ldquo;the progressive "
+             "cessation of activities&rdquo; &mdash; the discourse's "
+             "own name for the first of the three graduated passes"),
+        ("saññāvedayitanirodha", "the cessation of perception and "
+             "feeling &mdash; the ninth and culminating attainment in "
+             "the graduated list, appearing in all three passes"),
+    ],
+    text_intro=("The complete discourse: the mendicant's question, "
+        "the Buddha's clarification, and the threefold graduated "
+        "list. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.11:1.1-1.8"),
+        ("p", "&sect;2", "sn36.11:2.1-2.15"),
+        ("p", "&sect;3", "sn36.11:2.16-2.25"),
+        ("p", "&sect;4", "sn36.11:2.26-2.30"),
+        ("p", "&sect;5", "sn36.11:2.31-2.37"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha resolve the apparent tension between three feelings and \"whatever is felt is included in suffering\"?",
+         "opts": ["By clarifying the statement refers to the impermanence of conditions, not to feeling's felt quality", "By retracting the statement about feeling and suffering entirely", "By claiming pleasant feeling doesn't actually exist", "By saying only painful feeling counts as \"felt\""],
+         "correct": 0,
+         "expl": "Saṅkhārānaṁyeva aniccataṁ sandhāya bhāsitaṁ — a redirection, not a softening."},
+        {"q": "What does the first pass of the graduated list name at each of the four absorptions?",
+         "opts": ["Speech ceases at the first, placing and keeping the mind at the second, rapture at the third, breathing at the fourth", "The same single thing ceases identically at all four", "Nothing specific ceases until the formless attainments begin", "Feeling itself ceases entirely at the first absorption"],
+         "correct": 0,
+         "expl": "A precise, escalating sequence of what falls away at each successive attainment."},
+        {"q": "How does the third pass (\"tranquilized\") differ structurally from the first pass?",
+         "opts": ["It is explicitly narrower, openly skipping all four formless attainments and naming itself \"these six kinds of tranquility\"", "It is identical in every respect to the first pass", "It adds new attainments not present in the first pass", "It applies only to the arahant's ending of defilements"],
+         "correct": 0,
+         "expl": "A genuine narrowing the text itself names, not merely a typographical ellipsis."},
+        {"q": "What is the tenth and final item in the graduated list, and how does it differ from the others?",
+         "opts": ["An arahant's ending of greed, hate, and delusion — a moral culmination, not a meditative attainment", "The dimension of neither perception nor non-perception", "A repetition of the cessation of perception and feeling", "The list contains only nine items, not ten"],
+         "correct": 0,
+         "expl": "Every other item belongs to a specific jhāna or formless state; this one stands apart as a liberative achievement."},
+        {"q": "How many near-synonymous terms does the Buddha stack together to describe the impermanence his earlier statement referred to?",
+         "opts": ["Six", "One", "Three", "Twelve"],
+         "correct": 0,
+         "expl": "Aniccatā, khayadhammatā, vayadhammatā, virāgadhammatā, nirodhadhammatā, and vipariṇāmadhammatā — echoing SN 36.9's own sevenfold list, applied here to conditions."},
+    ],
+    marginalia=[
+        ("A puzzle redirected, not softened", [
+            "not feeling's quality at fault —",
+            "the impermanence of conditions instead",
+        ]),
+        ("Ten items, each losing one thing", [
+            "speech, then thought, then rapture, then breath —",
+            "one precise loss at each attainment",
+        ]),
+        ("Three verbs, not three identical lists", [
+            "ceased, settled, tranquilized —",
+            "the third pass openly narrower, \"six\" not ten",
+        ]),
+        ("A closing item outside the sequence", [
+            "greed, hate, delusion ended —",
+            "not a jhāna, but its culmination",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.10.html">SN 36.10 &middot; Rooted in '
+        "Contact</a> &mdash; already published on this site, closing "
+        "the previous vagga, Sagāthāvagga.",
+        '<a href="sn-36.12.html">SN 36.12 &middot; In the '
+        "Atmosphere (1st)</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.12 — Paṭhamaākāsasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 12, "Paṭhamaākāsa", "In the Atmosphere (1st)",
+    vagga="Rahogatavagga",
+    meta_title="SN 36.12 &mdash; In the Atmosphere (1st) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamaākāsasutta &mdash; winds blowing from every "
+        "direction, dusty and dustless, cool and warm, compared to "
+        "the varied feelings that arise in this body. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A prose simile of winds followed by a two-verse "
+                 "elaboration"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a vivid image, plainly applied"),
+    ],
+    why=(
+        "This discourse compares the varied feelings arising in the "
+        "body to the varied winds that blow through open air: winds "
+        "come from every direction &mdash; east, west, north, south "
+        "&mdash; and vary in kind &mdash; dusty or dustless, cool or "
+        "warm, weak or strong. In the same way, pleasant, painful, "
+        "and neutral feelings simply arise in the body, from no "
+        "single direction and in no fixed pattern. The closing verses "
+        "add the same conclusion this project has already met "
+        "elsewhere in this vagga's own opening pages: a keen, aware "
+        "mendicant who completely understands all these feelings is "
+        "free of defilements in this very life."
+    ),
+    guide=[
+        ("No single source, no fixed direction", [
+            "The wind simile's own point is the sheer variety and "
+            "unpredictability of what arises: four directions, three "
+            "pairs of qualities (dusty/dustless, cool/warm, weak/"
+            "strong) &mdash; feelings, like winds, don't arise from "
+            "one place or in one form.",
+        ]),
+        ("The body as an open field, not a controlled chamber", [
+            "Unlike similes elsewhere in this saṃyutta that locate "
+            "feeling's cause precisely (contact, the body, the "
+            "senses), this simile pictures the body itself as "
+            "something more like open atmosphere &mdash; a space "
+            "feelings simply move through, arising and passing "
+            "without the mendicant summoning or directing them.",
+        ]),
+        ("Three pairs of qualities, mapped loosely onto three "
+         "feelings", [
+            "The wind simile's own three qualities (dusty/dustless, "
+            "cool/warm, weak/strong) are not explicitly mapped one-"
+            "to-one onto pleasant/painful/neutral feeling in the "
+            "text; the comparison works at the level of variety and "
+            "unpredictability in general, not through a precise "
+            "point-by-point correspondence.",
+        ]),
+        ("A closing formula shared with this vagga's own opening "
+         "pages", [
+            "The verses' own closing lines &mdash; understanding all "
+            "feelings, freedom from defilements, a &ldquo;knowledge "
+            "master&rdquo; (vedagū) &ldquo;unreckonable&rdquo; when "
+            "the body breaks up &mdash; repeat SN 36.3 and SN 36.5's "
+            "own closing verses from Sagāthāvagga almost word for "
+            "word, confirming this closing template recurs across "
+            "vagga boundaries, not only within a single vagga.",
+        ]),
+    ],
+    terms=[
+        ("ākāse vividhā vātā vāyanti", "&ldquo;various winds blow in "
+             "the atmosphere&rdquo; &mdash; the discourse's own "
+             "opening image, giving it its title"),
+        ("rajānipi arajānipi", "&ldquo;dusty and dustless&rdquo; "
+             "&mdash; one of three paired qualities describing the "
+             "winds"),
+        ("sītāpi uṇhāpi", "&ldquo;cool and warm&rdquo; &mdash; the "
+             "second paired quality"),
+        ("appamattāpi adhimattāpi", "&ldquo;weak and strong&rdquo; "
+             "&mdash; the third paired quality, completing the "
+             "wind simile's own range"),
+        ("vedagū", "&ldquo;knowledge master&rdquo; &mdash; the "
+             "closing verse's own epithet, shared with SN 36.3 and SN "
+             "36.5's closing verses in the previous vagga"),
+    ],
+    text_intro=("The complete discourse: the wind simile and the "
+        "closing verses. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.12:1.1-1.3"),
+        ("p", "&sect;2", "sn36.12:2.1-3.4"),
+        ("p", "&sect;3", "sn36.12:4.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What varied qualities does the wind simile describe?",
+         "opts": ["Winds from four directions, dusty/dustless, cool/warm, weak/strong", "Only winds from the east and west", "A single unchanging wind that never varies", "Winds that only blow during specific seasons"],
+         "correct": 0,
+         "expl": "Sheer variety and unpredictability is the simile's own point, not a fixed pattern."},
+        {"q": "How does this simile's picture of the body differ from similes elsewhere in this saṃyutta that trace feeling to a precise cause?",
+         "opts": ["It pictures the body as an open field feelings simply move through, rather than locating one precise cause", "It identifies contact as the single, precise cause of all feeling", "It denies that feelings arise in the body at all", "It claims only painful feelings arise unpredictably"],
+         "correct": 0,
+         "expl": "Unlike the body/contact dependency of SN 36.7-8 or SN 36.10, this simile emphasizes variety without pinpointing a mechanism."},
+        {"q": "Does the text map the wind simile's three paired qualities one-to-one onto the three feelings?",
+         "opts": ["No — the comparison works at the level of general variety and unpredictability, not a precise correspondence", "Yes — dusty winds correspond exactly to painful feeling", "Yes — each pair maps to one specific feeling type", "The discourse does not mention three feelings at all"],
+         "correct": 0,
+         "expl": "The three qualities illustrate variety in general rather than serving as a precise mapping."},
+        {"q": "How does this discourse's closing verse relate to earlier discourses in this saṃyutta?",
+         "opts": ["It repeats SN 36.3 and SN 36.5's own closing verses from Sagāthāvagga almost word for word", "It introduces an entirely new closing formula never seen before", "It contradicts the closing formulas used earlier", "This discourse has no closing verse"],
+         "correct": 0,
+         "expl": "Confirming the closing template recurs across vagga boundaries, not only within a single vagga."},
+        {"q": "What three feelings does this discourse compare to the varied winds?",
+         "opts": ["Pleasant, painful, and neutral feeling", "Only pleasant and painful feeling", "Physical and mental feeling", "Feelings of the flesh and not of the flesh"],
+         "correct": 0,
+         "expl": "The same threefold classification this whole saṃyutta is built on."},
+    ],
+    marginalia=[
+        ("No fixed direction, no single source", [
+            "east, west, north, south —",
+            "feelings arise just as unpredictably",
+        ]),
+        ("The body as open air", [
+            "not a controlled chamber —",
+            "a space feelings simply move through",
+        ]),
+        ("Variety illustrated, not mapped", [
+            "three paired qualities, three feelings —",
+            "no precise one-to-one correspondence",
+        ]),
+        ("A closing verse, borrowed across vaggas", [
+            "\"knowledge master,\" unreckonable —",
+            "shared with Sagāthāvagga's own closes",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.11.html">SN 36.11 &middot; In Private</a> '
+        "&mdash; the previous discourse, opening this vagga.",
+        '<a href="sn-36.13.html">SN 36.13 &middot; In the '
+        "Atmosphere (2nd)</a> &mdash; the next discourse, the same "
+        "simile without the closing verses.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.13 — Dutiyaākāsasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 13, "Dutiyaākāsa", "In the Atmosphere (2nd)",
+    vagga="Rahogatavagga",
+    meta_title="SN 36.13 &mdash; In the Atmosphere (2nd) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaākāsasutta &mdash; the same wind simile as SN "
+        "36.12, stripped down to bare prose with no verse at all. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A single prose sentence, the wind simile stated "
+                 "and applied, with no verse whatsoever"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief enough to read in one breath"),
+    ],
+    why=(
+        "This discourse restates SN 36.12's own wind simile "
+        "word for word in its prose portion, then stops &mdash; no "
+        "verse, no closing formula about understanding feelings or "
+        "becoming a knowledge master, nothing beyond the bare "
+        "comparison itself. Where SN 36.8 compressed its shared "
+        "material with SN 36.7 using peyyāla markers and an explicit "
+        "note to the reciter, this discourse simply omits an entire "
+        "structural component (the verse) rather than compressing "
+        "it, a different kind of twin relationship from the ones this "
+        "project has met so far."
+    ),
+    guide=[
+        ("The identical simile, minus its own conclusion", [
+            "Every word of the prose wind simile matches SN 36.12 "
+            "exactly: four directions, three paired qualities, and "
+            "the direct comparison to feelings arising in the body. "
+            "What's absent is everything that follows in the "
+            "previous discourse &mdash; the verses restating the "
+            "simile and drawing out its liberative conclusion.",
+        ]),
+        ("Omission, not compression", [
+            "Unlike SN 36.8's own peyyāla-compressed twin of SN "
+            "36.7, which preserves an editorial note directing the "
+            "reciter to &ldquo;tell in full as in the previous "
+            "discourse,&rdquo; this discourse's own bilara-data file "
+            "simply ends after the prose &mdash; no marker, no "
+            "instruction, nothing indicating an omitted verse is "
+            "assumed.",
+        ]),
+        ("A comparison that stands complete without its own "
+         "moral", [
+            "The prose simile alone &mdash; winds vary "
+            "unpredictably, so do feelings &mdash; makes its point "
+            "without needing the verse's added conclusion about "
+            "understanding and liberation, suggesting the comparison "
+            "itself was considered sufficient content for a discourse "
+            "on its own.",
+        ]),
+        ("A different kind of twin from this project's earlier "
+         "pairs", [
+            "SN 35.241/242's tree-trunk twins varied their "
+            "questioner; SN 36.7/8's infirmary twins varied their "
+            "named dependency (body vs. contact). This pair varies "
+            "neither content nor variable &mdash; only completeness, "
+            "one discourse simply shorter than its twin by an entire "
+            "structural component.",
+        ]),
+    ],
+    terms=[
+        ("vividhā vātā vāyanti", "&ldquo;various winds blow&rdquo; "
+             "&mdash; the simile's own opening phrase, identical to "
+             "SN 36.12's"),
+        ("imasmiṁ kāyasmiṁ vividhā vedanā uppajjanti", "&ldquo;"
+             "various feelings arise in this body&rdquo; &mdash; the "
+             "discourse's own direct application, matching SN "
+             "36.12's prose exactly"),
+        ("…pe…", "the peyyāla (repetition) marker compressing the "
+             "middle two directions (west, north) in the wind "
+             "description itself, though not the verse's own absence"),
+        ("tatiyaṁ", "&ldquo;third&rdquo; &mdash; this discourse's "
+             "own untranslated closing marker, its position within "
+             "Rahogatavagga"),
+        ("dukkhāpi vedanā uppajjati, adukkhamasukhāpi vedanā "
+             "uppajjati", "&ldquo;painful feeling also arises, "
+             "neutral feeling also arises&rdquo; &mdash; the "
+             "discourse's own closing clause, ending on the "
+             "application itself with no verse to follow"),
+    ],
+    text_intro=("The complete discourse: a single sentence, the "
+        "wind simile stated and applied. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.13:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's prose compare to SN 36.12's own prose simile?",
+         "opts": ["Word for word identical", "Entirely different in content", "Similar but applied to a different body part", "This discourse denies the wind simile entirely"],
+         "correct": 0,
+         "expl": "Four directions, three paired qualities, the same direct comparison to feeling."},
+        {"q": "What does this discourse lack that SN 36.12 includes?",
+         "opts": ["The closing verses restating the simile and drawing out its liberative conclusion", "The wind simile itself", "Any mention of the three feelings", "The discourse's own title"],
+         "correct": 0,
+         "expl": "The prose stands alone, with nothing following it."},
+        {"q": "How does this discourse's relationship to SN 36.12 differ from SN 36.8's relationship to SN 36.7?",
+         "opts": ["This discourse omits a whole structural component outright, rather than compressing it with an editorial note", "Both discourses use identical compression techniques", "This discourse adds new content not found in its twin", "There is no meaningful difference between the two pairs"],
+         "correct": 0,
+         "expl": "SN 36.8 preserves an explicit \"tell in full as before\" instruction; this discourse's file simply ends."},
+        {"q": "How does this pairing differ from SN 35.241/242's own tree-trunk twins?",
+         "opts": ["It varies neither content nor a named variable — only completeness, one discourse shorter by an entire component", "It varies the questioner, exactly as SN 35.241/242 did", "It varies the setting from one city to another", "The two pairs are structurally identical in every way"],
+         "correct": 0,
+         "expl": "A different kind of twin relationship from the questioner-variation and dependency-variation twins met earlier."},
+        {"q": "What point does the prose simile make on its own, without the verse's added conclusion?",
+         "opts": ["That feelings, like winds, arise unpredictably from no single direction or fixed pattern", "That only painful feelings arise unpredictably", "That winds and feelings share no meaningful similarity", "That feelings originate exclusively from the four directions"],
+         "correct": 0,
+         "expl": "The comparison alone makes its point, without needing the verse's conclusion about understanding and liberation."},
+    ],
+    marginalia=[
+        ("The same words, minus the ending", [
+            "four directions, three pairings —",
+            "identical prose, nothing follows",
+        ]),
+        ("Omitted, not compressed", [
+            "no editorial note left behind —",
+            "the file simply ends after the prose",
+        ]),
+        ("A comparison complete on its own", [
+            "winds vary, so do feelings —",
+            "no added moral required",
+        ]),
+        ("A twin unlike the earlier pairs", [
+            "not questioner, not dependency —",
+            "only completeness, this time",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.13/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.12.html">SN 36.12 &middot; In the '
+        "Atmosphere (1st)</a> &mdash; the previous discourse, given "
+        "with its own closing verses.",
+        '<a href="sn-36.14.html">SN 36.14 &middot; A Guest '
+        "House</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.14 — Agārasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 14, "Agāra", "A Guest House",
+    vagga="Rahogatavagga",
+    meta_title="SN 36.14 &mdash; A Guest House | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Agārasutta &mdash; a guest house sheltering travelers "
+        "from every direction and every caste, compared to feelings "
+        "that arise both of the flesh and not of the flesh. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A single prose simile, stated once with no verse"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "introduces a new sixfold distinction worth "
+                       "sitting with"),
+    ],
+    why=(
+        "A guest house welcomes lodgers from every direction and "
+        "every social rank &mdash; aristocrats, brahmins, peasants, "
+        "and menials alike, arriving from east, west, north, and "
+        "south. This discourse compares the body to that guest house: "
+        "varied feelings arrive in it without regard for a single "
+        "source or category. But this discourse also introduces a "
+        "distinction none of this vagga's earlier discourses have "
+        "drawn: each of the three feelings can arise either "
+        "&ldquo;of the flesh&rdquo; (sāmisa, literally &ldquo;with "
+        "meat/bait,&rdquo; meaning tied to sensuality) or &ldquo;not "
+        "of the flesh&rdquo; (nirāmisa) &mdash; doubling the "
+        "threefold classification into six, a distinction SN 36.19's "
+        "own famous enumeration of two/three/five/six/eighteen/"
+        "thirty-six/108 feelings will build on directly."
+    ),
+    guide=[
+        ("A house that turns no one away", [
+            "The guest house doesn't select for a specific class of "
+            "traveler; aristocrats, brahmins, peasants, and menials "
+            "all lodge there indiscriminately, from all four "
+            "directions &mdash; extending the openness already met in "
+            "SN 36.12's wind simile from four directions alone to "
+            "four directions plus four social categories.",
+        ]),
+        ("A new distinction: of the flesh, and not of the flesh", [
+            "Sāmisa (&ldquo;of the flesh,&rdquo; or &ldquo;carnal"
+            "&rdquo;) and nirāmisa (&ldquo;not of the flesh,&rdquo; "
+            "or &ldquo;spiritual&rdquo;) apply to each of the three "
+            "feelings independently &mdash; a pleasant feeling tied "
+            "to sensuality and a pleasant feeling free of it are "
+            "named as two distinct things, not the same feeling under "
+            "two descriptions.",
+        ]),
+        ("Six feelings, not three, once this distinction is drawn",
+         [
+            "Applying sāmisa and nirāmisa to each of the three basic "
+            "feelings yields six: carnal and spiritual versions of "
+            "pleasant, painful, and neutral feeling alike &mdash; the "
+            "first doubling this saṃyutta has introduced beyond its "
+            "own founding threefold classification.",
+        ]),
+        ("A distinction this vagga will return to at greater scale",
+         [
+            "SN 36.19, later in this vagga, will explicitly enumerate "
+            "two, three, five, six, eighteen, thirty-six, and a "
+            "hundred and eight feelings as equally valid teachings "
+            "&mdash; this discourse's own sixfold sāmisa/nirāmisa "
+            "split supplies the concrete mechanism (doubling the "
+            "three basic feelings) behind at least one of those "
+            "larger numbers.",
+        ]),
+    ],
+    terms=[
+        ("āgantukāgāraṁ", "a guest house &mdash; giving this "
+             "discourse its title, sheltering travelers from every "
+             "direction and social rank"),
+        ("khattiyā... brāhmaṇā... vessā... suddā", "aristocrats, "
+             "brahmins, peasants, and menials &mdash; the guest "
+             "house's own indiscriminate lodgers, extending the "
+             "simile's openness beyond direction alone to social "
+             "category"),
+        ("sāmisā... vedanā", "&ldquo;feelings of the flesh&rdquo; "
+             "&mdash; pleasant, painful, or neutral feeling tied to "
+             "sensuality"),
+        ("nirāmisā... vedanā", "&ldquo;feelings not of the "
+             "flesh&rdquo; &mdash; the same three feelings, free of "
+             "sensuality, named as a distinct category"),
+        ("catutthaṁ", "&ldquo;fourth&rdquo; &mdash; this discourse's "
+             "own untranslated closing marker, its position within "
+             "Rahogatavagga"),
+    ],
+    text_intro=("The complete discourse: the guest house simile and "
+        "its application, including the sāmisa/nirāmisa distinction. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.14:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "Who does the guest house in this simile welcome?",
+         "opts": ["Travelers from every direction and every social rank, without discrimination", "Only travelers from the east", "Only aristocrats and brahmins", "The simile does not specify who is welcomed"],
+         "correct": 0,
+         "expl": "Aristocrats, brahmins, peasants, and menials alike, from all four directions."},
+        {"q": "What new distinction does this discourse introduce beyond the three basic feelings?",
+         "opts": ["Feelings \"of the flesh\" (sāmisa) and \"not of the flesh\" (nirāmisa)", "A distinction between feelings felt by monks versus laypeople", "A distinction between feelings that last long versus briefly", "This discourse introduces no new distinction"],
+         "correct": 0,
+         "expl": "Sāmisa and nirāmisa apply to each of the three feelings independently, tied to or free of sensuality."},
+        {"q": "How many total feelings result from applying the sāmisa/nirāmisa distinction to the three basic feelings?",
+         "opts": ["Six", "Three", "Nine", "Two"],
+         "correct": 0,
+         "expl": "Carnal and spiritual versions of pleasant, painful, and neutral feeling — the first doubling introduced in this saṃyutta."},
+        {"q": "How does this discourse's guest house simile extend SN 36.12's own wind simile?",
+         "opts": ["It extends openness from four directions alone to four directions plus four social categories", "It contradicts the wind simile's claim about variety", "It restricts the simile to only two directions", "It removes the directional element entirely"],
+         "correct": 0,
+         "expl": "Aristocrats, brahmins, peasants, and menials add a social dimension the wind simile alone did not include."},
+        {"q": "Which later discourse in this vagga builds on this sixfold sāmisa/nirāmisa distinction?",
+         "opts": ["SN 36.19, which enumerates two, three, five, six, eighteen, thirty-six, and 108 feelings", "SN 36.11, which precedes this discourse", "No later discourse references this distinction again", "SN 36.10, in the previous vagga"],
+         "correct": 0,
+         "expl": "This discourse's sixfold split supplies a concrete mechanism behind at least one of SN 36.19's larger enumerated numbers."},
+    ],
+    marginalia=[
+        ("A house that turns no one away", [
+            "every direction, every rank —",
+            "openness extended beyond mere geography",
+        ]),
+        ("Carnal and spiritual, named apart", [
+            "sāmisa and nirāmisa —",
+            "two distinct things, not one under two names",
+        ]),
+        ("Three feelings become six", [
+            "each one doubled —",
+            "the saṃyutta's first such split",
+        ]),
+        ("A mechanism for a larger number ahead", [
+            "not just doubling for its own sake —",
+            "SN 36.19 will build on it directly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.14/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.13.html">SN 36.13 &middot; In the '
+        "Atmosphere (2nd)</a> &mdash; the previous discourse.",
+        '<a href="sn-36.15.html">SN 36.15 &middot; With Ānanda '
+        "(1st)</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.15 — Paṭhamaānandasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 15, "Paṭhamaānanda", "With Ānanda (1st)",
+    vagga="Rahogatavagga",
+    meta_title="SN 36.15 &mdash; With Ānanda (1st) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamaānandasutta &mdash; Venerable Ānanda's own "
+        "sevenfold question about feeling, answered with contact as "
+        "its origin, the eightfold path as its ending, and the "
+        "graduated cessation already met at SN 36.11. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated beyond Ānanda's approach to the "
+                     "Buddha"),
+        ("Speakers", "Venerable Ānanda and the Buddha"),
+        ("Form", "A sevenfold catechism question, answered point by "
+                 "point, followed by the graduated cessation list "
+                 "already met at SN 36.11"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a compact catechism opening onto a longer "
+                       "list already familiar from this vagga"),
+    ],
+    why=(
+        "Venerable Ānanda asks a sevenfold question this project has "
+        "already met applied to other objects in Book III: what is "
+        "feeling, its origin, its cessation, the practice leading to "
+        "its cessation, and its gratification, drawback, and escape. "
+        "The Buddha's own answer is compact and precise &mdash; "
+        "feeling originates from contact and ceases when contact "
+        "ceases, the noble eightfold path is the practice leading to "
+        "its cessation, and its gratification, drawback, and escape "
+        "follow the same three-part formula this project has already "
+        "met for the five aggregates. The discourse then closes by "
+        "repeating SN 36.11's own graduated cessation/settling/"
+        "tranquilizing list in full, this time answering Ānanda "
+        "directly rather than an unnamed mendicant."
+    ),
+    guide=[
+        ("A sevenfold question with a single-word answer at its core",
+         [
+            "Origin and cessation both resolve to the same single "
+            "term: contact (phassa) &mdash; feeling originates from "
+            "contact, and when contact ceases, feeling ceases, "
+            "matching SN 36.10's own conclusion in the previous "
+            "vagga but now folded into this catechism's broader "
+            "sevenfold frame.",
+        ]),
+        ("The eightfold path named as feeling's own ending practice",
+         [
+            "Where SN 36.10 stopped at describing feeling's "
+            "dependence on contact, this discourse adds what practice "
+            "leads to that cessation: the noble eightfold path, "
+            "named in full &mdash; the same practice this project has "
+            "already met as the ending practice for craving, "
+            "ignorance, and the five aggregates alike.",
+        ]),
+        ("Gratification, drawback, and escape, applied to feeling "
+         "itself", [
+            "The pleasure feeling brings is its gratification; "
+            "feeling's own impermanence, suffering, and "
+            "perishability are its drawback; giving up desire and "
+            "greed for feeling is its escape &mdash; the identical "
+            "three-part diagnostic formula this project has already "
+            "met applied to the five aggregates, now applied "
+            "reflexively to feeling itself.",
+        ]),
+        ("The same graduated list, now answering Ānanda by name", [
+            "Rather than summarizing or shortening SN 36.11's own "
+            "long graduated cessation/settling/tranquilizing list, "
+            "this discourse repeats it in essentially full form, "
+            "confirming the list functions as a standard answer this "
+            "saṃyutta gives to more than one questioner rather than a "
+            "one-time response to a single mendicant's private "
+            "puzzle.",
+        ]),
+    ],
+    terms=[
+        ("kā vedanā, ko vedanāsamudayo", "&ldquo;what is feeling? "
+             "what's the origin of feeling?&rdquo; &mdash; the "
+             "opening two of Ānanda's own sevenfold question"),
+        ("vedanāsamudayo phassasamudayā", "&ldquo;feeling originates "
+             "from contact&rdquo; &mdash; the Buddha's own single-"
+             "word answer to both origin and cessation"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path "
+             "&mdash; named as the practice leading to feeling's own "
+             "cessation"),
+        ("assādo... ādīnavo... nissaraṇaṁ", "gratification, "
+             "drawback, and escape &mdash; the three-part diagnostic "
+             "formula this project has already met applied to the "
+             "five aggregates, now applied to feeling"),
+        ("anupubbasaṅkhārānaṁ nirodho", "&ldquo;the progressive "
+             "cessation of activities&rdquo; &mdash; the graduated "
+             "list already met in full at SN 36.11, repeated here "
+             "for Ānanda"),
+    ],
+    text_intro=("The complete discourse: Ānanda's sevenfold "
+        "question, the Buddha's compact answer, and the graduated "
+        "cessation/settling/tranquilizing list. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.15:1.1-1.13"),
+        ("p", "&sect;2", "sn36.15:1.14-1.17"),
+        ("p", "&sect;3", "sn36.15:1.18-1.21"),
+        ("p", "&sect;4", "sn36.15:1.22-1.29"),
+    ],
+    quiz=[
+        {"q": "What single term does the Buddha give as both feeling's origin and what ends it when it ceases?",
+         "opts": ["Contact (phassa)", "The body", "Craving", "Ignorance"],
+         "correct": 0,
+         "expl": "\"Feeling originates from contact. When contact ceases, feeling ceases\" — matching SN 36.10's own conclusion."},
+        {"q": "What practice does the Buddha name as leading to feeling's own cessation?",
+         "opts": ["The noble eightfold path", "A specific breathing technique", "Complete sensory withdrawal", "The four immeasurables"],
+         "correct": 0,
+         "expl": "Named in full, the same practice this project has already met applied to craving, ignorance, and the five aggregates."},
+        {"q": "What formula does the Buddha apply to feeling's own gratification, drawback, and escape?",
+         "opts": ["The pleasure it brings, its impermanence and suffering, and giving up desire for it — the same three-part formula met for the five aggregates", "A formula unique to feeling, unlike anything applied elsewhere", "Only gratification is discussed; drawback and escape are omitted", "The formula denies that feeling has any gratification at all"],
+         "correct": 0,
+         "expl": "Reflexively applied to feeling itself, the identical structure this project has already met for the aggregates."},
+        {"q": "How does this discourse handle SN 36.11's own graduated cessation list?",
+         "opts": ["It repeats the list in essentially full form for Ānanda", "It omits the list entirely", "It shortens the list to only three items", "It replaces the list with an entirely different teaching"],
+         "correct": 0,
+         "expl": "Confirming the list functions as a standard answer given to more than one questioner."},
+        {"q": "How many parts does Ānanda's own opening question have?",
+         "opts": ["Seven — what feeling is, its origin, cessation, the practice to its cessation, and its gratification, drawback, and escape", "Three", "Only one, about feeling's origin alone", "Twelve"],
+         "correct": 0,
+         "expl": "A sevenfold catechism this project has already met applied to other objects in Book III."},
+    ],
+    marginalia=[
+        ("One word, two answers", [
+            "contact — both origin and ending —",
+            "matching SN 36.10's own conclusion",
+        ]),
+        ("The path named outright", [
+            "the noble eightfold path —",
+            "feeling's own ending practice",
+        ]),
+        ("The same formula, turned inward", [
+            "gratification, drawback, escape —",
+            "applied now to feeling itself",
+        ]),
+        ("A standard answer, not a one-off", [
+            "the graduated list, given again —",
+            "this time for Ānanda by name",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.15/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.14.html">SN 36.14 &middot; A Guest '
+        "House</a> &mdash; the previous discourse.",
+        '<a href="sn-36.16.html">SN 36.16 &middot; With Ānanda '
+        "(2nd)</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.16 — Dutiyaānandasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 16, "Dutiyaānanda", "With Ānanda (2nd)",
+    vagga="Rahogatavagga",
+    meta_title="SN 36.16 &mdash; With Ānanda (2nd) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaānandasutta &mdash; the Buddha this time asks "
+        "Ānanda the sevenfold question himself, with Ānanda "
+        "deferring the answer straight back. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated beyond Ānanda's approach to the "
+                     "Buddha"),
+        ("Speakers", "Venerable Ānanda and the Buddha"),
+        ("Form", "The same sevenfold catechism as SN 36.15, with the "
+                 "roles of questioner and respondent reversed, "
+                 "compressed by peyyāla"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but the reversed roles are worth "
+                       "noting"),
+    ],
+    why=(
+        "This discourse restates SN 36.15's own sevenfold question "
+        "and answer, but with the roles reversed: rather than Ānanda "
+        "asking the Buddha, the Buddha this time puts the same "
+        "question to Ānanda directly. Ānanda doesn't attempt an "
+        "answer of his own; he immediately defers, using the formula "
+        "this project has already met from other mendicants asked to "
+        "answer difficult questions &mdash; &ldquo;our teachings are "
+        "rooted in the Buddha&rdquo; &mdash; before the Buddha "
+        "answers his own question in full."
+    ),
+    guide=[
+        ("The same question, now asked rather than received", [
+            "The sevenfold catechism &mdash; what is feeling, its "
+            "origin, cessation, the practice to its cessation, and "
+            "its gratification, drawback, and escape &mdash; recurs "
+            "word for word from SN 36.15, but this time the Buddha "
+            "poses it to Ānanda rather than the reverse.",
+        ]),
+        ("A deference this project has already met elsewhere", [
+            "Ānanda's own response &mdash; &ldquo;our teachings are "
+            "rooted in the Buddha... may the Buddha himself please "
+            "clarify the meaning of this&rdquo; &mdash; is the "
+            "identical formula this project has already met from "
+            "several mendicants asked to answer in the Buddha's "
+            "presence, most recently SN 36.6's own opening exchange "
+            "in Sagāthāvagga.",
+        ]),
+        ("Not a test Ānanda fails, but a formal courtesy observed",
+         [
+            "Nothing in the discourse suggests Ānanda couldn't "
+            "answer &mdash; he has, after all, just asked this exact "
+            "question himself in SN 36.15. The deference reads as "
+            "established etiquette in the Buddha's presence rather "
+            "than genuine uncertainty.",
+        ]),
+        ("A compressed answer, assumed rather than restated", [
+            "Bilara-data compresses the Buddha's own answer here "
+            "with a peyyāla marker after the opening lines, "
+            "assuming the reader already holds SN 36.15's own full "
+            "answer in mind rather than restating the contact/"
+            "eightfold-path/gratification-drawback-escape formula "
+            "and the graduated cessation list a second time.",
+        ]),
+    ],
+    terms=[
+        ("āyasmā ānando bhagavantaṁ etadavoca", "&ldquo;Venerable "
+             "Ānanda said to the Buddha&rdquo; &mdash; SN 36.15's own "
+             "framing, reversed here to the Buddha addressing Ānanda"),
+        ("mūlakā no, bhante, dhammā bhagavappaṭisaraṇā", "&ldquo;our "
+             "teachings are rooted in the Buddha, he is our guide and "
+             "refuge&rdquo; &mdash; Ānanda's own deferring formula, "
+             "matching other mendicants met elsewhere in this "
+             "project"),
+        ("tena hānanda, suṇāhi, sādhukaṁ manasi karohi", "&ldquo;"
+             "well then, Ānanda, listen and apply your mind well, I "
+             "will speak&rdquo; &mdash; the Buddha's own response, "
+             "taking up the question he himself posed"),
+        ("…pe…", "the peyyāla (repetition) marker compressing the "
+             "Buddha's own answer, assuming SN 36.15's full response"),
+        ("khīṇāsavassa bhikkhuno... rāgo, doso, moho vūpasantā", "the "
+             "closing line preserved in full: an arahant's greed, "
+             "hate, and delusion tranquilized"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it "
+        "&mdash; the reversed sevenfold question in full, and the "
+        "Buddha's own answer compressed by peyyāla. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.16:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "How does the framing of this discourse's question differ from SN 36.15's?",
+         "opts": ["The Buddha asks Ānanda the sevenfold question, reversing SN 36.15's roles", "The question itself is entirely different in content", "No question is asked at all in this discourse", "Ānanda asks the same question a second time"],
+         "correct": 0,
+         "expl": "The same sevenfold catechism, with questioner and respondent switched."},
+        {"q": "How does Ānanda respond when the Buddha asks him the question?",
+         "opts": ["He defers, using the \"our teachings are rooted in the Buddha\" formula", "He answers in full immediately, matching SN 36.15's own answer", "He remains completely silent", "He asks the Buddha to repeat the question"],
+         "correct": 0,
+         "expl": "The identical deferring formula met from other mendicants elsewhere in this project, most recently SN 36.6."},
+        {"q": "Does the discourse suggest Ānanda's deference reflects genuine inability to answer?",
+         "opts": ["No — Ānanda had just asked this exact question himself in SN 36.15, suggesting established etiquette rather than uncertainty", "Yes — Ānanda clearly does not understand the question", "The discourse explicitly states Ānanda has forgotten the answer", "This question cannot be determined from the text"],
+         "correct": 0,
+         "expl": "A formal courtesy observed in the Buddha's presence, not a test Ānanda fails."},
+        {"q": "How does bilara-data handle the Buddha's own answer in this discourse?",
+         "opts": ["It compresses the answer with a peyyāla marker, assuming SN 36.15's full response", "It gives an entirely new, different answer", "It omits the answer entirely with no marker at all", "It repeats the full answer word for word without compression"],
+         "correct": 0,
+         "expl": "A compression assuming the reader already holds SN 36.15's own answer in mind."},
+        {"q": "What formula does Ānanda use, matching mendicants met elsewhere in this project?",
+         "opts": ["\"Our teachings are rooted in the Buddha; he is our guide and refuge\"", "\"I have already answered this question once\"", "\"This question is beyond my understanding\"", "Ānanda uses no formula and answers directly"],
+         "correct": 0,
+         "expl": "Matching, among other instances, SN 36.6's own opening exchange in Sagāthāvagga."},
+    ],
+    marginalia=[
+        ("Roles reversed", [
+            "the Buddha asks, Ānanda is asked —",
+            "the identical sevenfold question",
+        ]),
+        ("A courtesy, not a test", [
+            "\"rooted in the Buddha\" —",
+            "etiquette, not genuine uncertainty",
+        ]),
+        ("An answer assumed, not restated", [
+            "the peyyāla marker stands in —",
+            "SN 36.15's own answer, held in mind",
+        ]),
+        ("One line preserved in full", [
+            "greed, hate, delusion tranquilized —",
+            "the closing note, spelled out to the end",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.16/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.15.html">SN 36.15 &middot; With Ānanda '
+        "(1st)</a> &mdash; the previous discourse, given in full.",
+        '<a href="sn-36.17.html">SN 36.17 &middot; With Several '
+        "Mendicants (1st)</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.17 — Paṭhamasambahulasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 17, "Paṭhamasambahula", "With Several Mendicants (1st)",
+    vagga="Rahogatavagga",
+    meta_title="SN 36.17 &mdash; With Several Mendicants (1st) | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasambahulasutta &mdash; the same sevenfold "
+        "question on feeling this time asked by a group of "
+        "mendicants together, not by Ānanda alone. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated beyond the mendicants' approach to "
+                     "the Buddha"),
+        ("Speakers", "Several unnamed mendicants and the Buddha"),
+        ("Form", "The same sevenfold catechism as SN 36.15, asked by "
+                 "a group rather than an individual, given in full"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "familiar content, worth noting who now asks "
+                       "it"),
+    ],
+    why=(
+        "This discourse repeats SN 36.15's own sevenfold catechism "
+        "on feeling &mdash; its identity, origin, cessation, the "
+        "practice leading to that cessation, and its gratification, "
+        "drawback, and escape &mdash; and the Buddha's own full "
+        "answer, including the graduated cessation/settling/"
+        "tranquilizing list already met twice in this vagga. What "
+        "changes is only the questioner: not Venerable Ānanda by "
+        "name, but &ldquo;several mendicants&rdquo; (sambahulā "
+        "bhikkhū) approaching together, confirming this catechism "
+        "circulated as a standard teaching this project has now met "
+        "given to three different kinds of audience in a row."
+    ),
+    guide=[
+        ("A third audience for the identical catechism", [
+            "SN 36.15 gave this sevenfold question to Ānanda; SN "
+            "36.16 reversed it back onto Ānanda from the Buddha; this "
+            "discourse now gives it to an unnamed group of several "
+            "mendicants together, the third distinct questioner "
+            "configuration in three consecutive discourses.",
+        ]),
+        ("A group question, not a private one", [
+            "Unlike SN 36.11's private mendicant or SN 36.15's named "
+            "individual, this discourse's questioners approach "
+            "&ldquo;together&rdquo; and ask as a collective &mdash; "
+            "the same content delivered to a communal rather than "
+            "individual audience.",
+        ]),
+        ("The full answer restated, not assumed", [
+            "Unlike SN 36.16's own compressed twin of SN 36.15, this "
+            "discourse gives the Buddha's complete answer again in "
+            "full &mdash; contact as origin and cessation, the "
+            "eightfold path, the threefold gratification/drawback/"
+            "escape formula, and the entire graduated cessation list "
+            "&mdash; suggesting the group setting here calls for full "
+            "restatement rather than compression.",
+        ]),
+        ("A teaching confirmed as genuinely standard, not occasional",
+         [
+            "Three consecutive discourses giving the identical "
+            "sevenfold catechism to three different configurations of "
+            "questioner (an individual, that same individual "
+            "reversed, and a group) makes clear this is a "
+            "standardized teaching device this saṃyutta returns to "
+            "deliberately, not a coincidental repetition.",
+        ]),
+    ],
+    terms=[
+        ("sambahulā bhikkhū", "&ldquo;several mendicants&rdquo; "
+             "&mdash; this discourse's own questioners, approaching "
+             "the Buddha together rather than individually"),
+        ("kā vedanā... ko vedanānirodhagāminī paṭipadā", "the "
+             "sevenfold question repeated in full: what is feeling, "
+             "its origin, cessation, and the practice leading to its "
+             "cessation"),
+        ("assādo... ādīnavo... nissaraṇaṁ", "gratification, "
+             "drawback, and escape &mdash; the threefold diagnostic "
+             "formula, restated here in full rather than compressed"),
+        ("anupubbasaṅkhārānaṁ nirodho... vūpasamo... passaddhiyo",
+             "the progressive cessation, settling, and tranquilizing "
+             "of activities &mdash; the graduated list given in full "
+             "for a third time in this vagga"),
+        ("chaṭṭhaṁ", "&ldquo;sixth&rdquo; &mdash; this discourse's "
+             "own untranslated closing marker, its position within "
+             "Rahogatavagga"),
+    ],
+    text_intro=("The complete discourse: the sevenfold question "
+        "asked by several mendicants together, and the Buddha's own "
+        "full answer. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.17:1.1-1.13"),
+        ("p", "&sect;2", "sn36.17:2.1-2.6"),
+        ("p", "&sect;3", "sn36.17:2.7-2.13"),
+    ],
+    quiz=[
+        {"q": "Who asks the sevenfold catechism in this discourse?",
+         "opts": ["Several mendicants together, not a single named individual", "Venerable Ānanda, exactly as in SN 36.15", "The Buddha himself, with no mendicant asking", "A single unnamed mendicant, exactly as in SN 36.11"],
+         "correct": 0,
+         "expl": "Sambahulā bhikkhū — a group, not an individual, the third distinct questioner configuration in a row."},
+        {"q": "How does this discourse's questioner configuration compare to SN 36.15 and SN 36.16's?",
+         "opts": ["It is the third distinct configuration in three consecutive discourses: an individual, that individual reversed, then a group", "It is identical to SN 36.15's configuration", "It reverses SN 36.16's configuration back to the original", "No comparison is possible; this is the first discourse to ask this question"],
+         "correct": 0,
+         "expl": "Confirming the catechism circulates as a standard teaching across varied audiences."},
+        {"q": "How does this discourse handle the Buddha's own answer, compared to SN 36.16?",
+         "opts": ["It restates the complete answer in full, rather than compressing it with a peyyāla marker", "It compresses the answer even further than SN 36.16 did", "It omits the answer entirely", "It gives an answer that contradicts SN 36.15's own answer"],
+         "correct": 0,
+         "expl": "Suggesting the group setting here calls for full restatement rather than compression."},
+        {"q": "What does the pattern of three consecutive discourses using the identical catechism suggest?",
+         "opts": ["That this is a standardized teaching device this saṃyutta returns to deliberately, not coincidental repetition", "That the compilers made a copying error, repeating content by accident", "That only one of the three discourses is historically authentic", "That the catechism changes meaning depending on who asks it"],
+         "correct": 0,
+         "expl": "A teaching confirmed as genuinely standard across three different questioner configurations."},
+        {"q": "What single term does the Buddha again give as feeling's own origin and what ends it?",
+         "opts": ["Contact (phassa)", "The mind", "The five aggregates", "The body alone"],
+         "correct": 0,
+         "expl": "Consistent with SN 36.10 and SN 36.15's own conclusions."},
+    ],
+    marginalia=[
+        ("A third questioner, a fourth angle", [
+            "individual, reversed, now a group —",
+            "the identical question, three ways",
+        ]),
+        ("Together, not alone", [
+            "several mendicants, approaching as one —",
+            "a communal rather than private question",
+        ]),
+        ("Full restatement, not compression", [
+            "the complete answer, given again —",
+            "unlike SN 36.16's own peyyāla shortcut",
+        ]),
+        ("A standard, not a coincidence", [
+            "three discourses, one catechism —",
+            "deliberate, not accidental repetition",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.17/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.16.html">SN 36.16 &middot; With Ānanda '
+        "(2nd)</a> &mdash; the previous discourse.",
+        '<a href="sn-36.18.html">SN 36.18 &middot; With Several '
+        "Mendicants (2nd)</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.18 — Dutiyasambahulasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 18, "Dutiyasambahula", "With Several Mendicants (2nd)",
+    vagga="Rahogatavagga",
+    meta_title="SN 36.18 &mdash; With Several Mendicants (2nd) | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasambahulasutta &mdash; the same sevenfold "
+        "catechism as SN 36.17, this time with the deferring formula "
+        "and a peyyāla compression closing this vagga's own set of "
+        "four catechism discourses. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated beyond the mendicants' approach to "
+                     "the Buddha"),
+        ("Speakers", "Several unnamed mendicants and the Buddha"),
+        ("Form", "The same sevenfold catechism as SN 36.17, "
+                 "compressed by peyyāla after the deferring formula"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, closing this vagga's own catechism "
+                       "set"),
+    ],
+    why=(
+        "This discourse closes this vagga's own set of four "
+        "catechism discourses (SN 36.15&ndash;18) with the same "
+        "sevenfold question asked once more by several mendicants "
+        "&mdash; but this time, unlike SN 36.17, the mendicants first "
+        "defer with the &ldquo;our teachings are rooted in the "
+        "Buddha&rdquo; formula before the Buddha answers, and "
+        "bilara-data compresses the Buddha's own answer with an "
+        "explicit instruction to the reciter: &ldquo;tell in full as "
+        "in the previous discourse.&rdquo;"
+    ),
+    guide=[
+        ("A deference SN 36.17's own mendicants didn't use", [
+            "Where SN 36.17's several mendicants asked their "
+            "question and received a direct answer, this discourse's "
+            "mendicants first defer to the Buddha with the same "
+            "formula Ānanda used in SN 36.16, before the Buddha "
+            "answers &mdash; a small but real difference between two "
+            "discourses that otherwise share a nearly identical "
+            "questioner configuration.",
+        ]),
+        ("The compiler's own instruction, visible again", [
+            "As with SN 36.8's own compressed twin of SN 36.7, this "
+            "discourse's bilara-data file preserves an explicit "
+            "editorial note: &ldquo;tell in full as in the previous "
+            "discourse&rdquo; &mdash; the same mechanism of oral "
+            "transmission made visible a second time in this "
+            "saṃyutta.",
+        ]),
+        ("Four catechism discourses, closing as a set", [
+            "SN 36.15 through SN 36.18 together form a deliberate set "
+            "of four variations on one sevenfold question &mdash; "
+            "individual asking, individual asked, group asking "
+            "directly, group asking with deference &mdash; each a "
+            "distinct configuration of the same underlying content.",
+        ]),
+        ("A pivot toward this vagga's own closing discourse", [
+            "Having exhausted the catechism's own questioner "
+            "variations, the vagga's two remaining discourses (SN "
+            "36.19&ndash;20) turn to an entirely different subject: "
+            "a debate over how many feelings the Buddha has actually "
+            "taught, and an extended account of successively finer "
+            "pleasures culminating in the cessation of perception and "
+            "feeling itself.",
+        ]),
+    ],
+    terms=[
+        ("mūlakā no, bhante, dhammā", "&ldquo;our teachings are "
+             "rooted in the Buddha&rdquo; &mdash; the deferring "
+             "formula this discourse's mendicants use, absent from "
+             "SN 36.17's own otherwise similar exchange"),
+        ("tathāgatappaṭisaraṇā", "&ldquo;the Realized One is our "
+             "refuge&rdquo; &mdash; part of the same deferring "
+             "formula, naming the Buddha directly"),
+        ("vitthāretabbo", "&ldquo;should be told in full&rdquo; "
+             "&mdash; the editorial instruction bilara-data preserves "
+             "here, directing the reciter to SN 36.17's own complete "
+             "answer"),
+        ("sattamaṁ", "&ldquo;seventh&rdquo; &mdash; this discourse's "
+             "own untranslated closing marker, its position within "
+             "Rahogatavagga"),
+        ("kā vedanā", "&ldquo;what is feeling?&rdquo; &mdash; the "
+             "opening word of the sevenfold catechism, closing out "
+             "its own fourth and final appearance in this vagga"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it "
+        "&mdash; the deferring formula and the question in full, the "
+        "Buddha's own answer compressed by peyyāla. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.18:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's mendicants do that SN 36.17's did not?",
+         "opts": ["They defer to the Buddha with the \"our teachings are rooted in the Buddha\" formula before he answers", "They refuse to ask the question at all", "They answer their own question without the Buddha's help", "They ask a completely different question"],
+         "correct": 0,
+         "expl": "A small but real difference between two otherwise similarly configured discourses."},
+        {"q": "What editorial note does bilara-data preserve in this discourse?",
+         "opts": ["\"Tell in full as in the previous discourse\"", "A note apologizing for repetition", "A note claiming this discourse is more important than SN 36.17", "No editorial note is preserved"],
+         "correct": 0,
+         "expl": "The same mechanism of oral transmission this project has already met at SN 36.8."},
+        {"q": "How many discourses together form this vagga's own set of catechism variations?",
+         "opts": ["Four — SN 36.15 through SN 36.18", "Only this one discourse", "All ten discourses in the vagga", "Two — this discourse and SN 36.17 only"],
+         "correct": 0,
+         "expl": "Individual asking, individual asked, group asking directly, group asking with deference — four distinct configurations."},
+        {"q": "What subject do this vagga's two remaining discourses (SN 36.19-20) turn to?",
+         "opts": ["A debate over how many feelings the Buddha has taught, and successively finer pleasures culminating in cessation of perception and feeling", "A continuation of the same sevenfold catechism a fifth time", "An entirely unrelated teaching on ethical conduct", "The vagga ends immediately after this discourse"],
+         "correct": 0,
+         "expl": "A pivot away from the catechism set toward new content closing out the vagga."},
+        {"q": "What formula do the mendicants use, matching Ānanda's own words in SN 36.16?",
+         "opts": ["\"Our teachings are rooted in the Buddha; he is our guide and refuge\"", "\"We have no further questions to ask\"", "\"The Realized One has already explained this to us\"", "The mendicants use no formula in this discourse"],
+         "correct": 0,
+         "expl": "The identical deferring formula recurring across this vagga's catechism discourses."},
+    ],
+    marginalia=[
+        ("A deference added this time", [
+            "\"rooted in the Buddha\" —",
+            "absent from SN 36.17's own exchange",
+        ]),
+        ("The compiler's note, again", [
+            "\"tell in full as before\" —",
+            "oral transmission, visible a second time",
+        ]),
+        ("Four variations, one question", [
+            "asking, asked, group, group deferring —",
+            "a deliberate set, now complete",
+        ]),
+        ("A pivot ahead", [
+            "the catechism set exhausted —",
+            "a debate and a pleasure-ladder follow",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.18/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.17.html">SN 36.17 &middot; With Several '
+        "Mendicants (1st)</a> &mdash; the previous discourse, given "
+        "in full.",
+        '<a href="sn-36.19.html">SN 36.19 &middot; With '
+        "Pañcakaṅga</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.19 — Pañcakaṅgasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 19, "Pañcakaṅga", "With Pañcakaṅga",
+    vagga="Rahogatavagga",
+    meta_title="SN 36.19 &mdash; With Pañcakaṅga | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pañcakaṅgasutta &mdash; an unresolved debate over two "
+        "feelings or three, a resolution naming numbering as a mere "
+        "manner of speaking, and a ladder of finer and finer "
+        "pleasures ending in a feelingless state still called "
+        "happiness. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated beyond Pañcakaṅga's approach to "
+                     "Venerable Udāyī"),
+        ("Speakers", "The chamberlain Pañcakaṅga, Venerable Udāyī, "
+                      "Venerable Ānanda, and the Buddha"),
+        ("Form", "An unresolved three-round debate, an authoritative "
+                 "resolution, and a fourteen-rung ladder of "
+                 "successively finer pleasure"),
+        ("Length", "~7 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; "
+                       "this vagga's own longest and most "
+                       "philosophically demanding discourse"),
+    ],
+    why=(
+        "The chamberlain Pañcakaṅga asks Venerable Udāyī how many "
+        "feelings the Buddha has taught. Udāyī says three; Pañcakaṅga "
+        "insists it's two, since neutral feeling is really just a "
+        "subtle, peaceful form of pleasure. Three times each repeats "
+        "his own position; neither budges. When Ānanda reports the "
+        "impasse, the Buddha rules that both men were &ldquo;quite "
+        "correct&rdquo; &mdash; two, three, five, six, eighteen, "
+        "thirty-six, or a hundred and eight feelings are all valid "
+        "teachings, each a distinct pariyāya (manner of exposition), "
+        "and disputing over which count is the real one misses the "
+        "point entirely. The discourse then climbs a long ladder of "
+        "progressively finer pleasures &mdash; sensual pleasure, then "
+        "each of the four absorptions, then each of the four formless "
+        "attainments &mdash; declining at every rung to call it the "
+        "highest, until reaching the cessation of perception and "
+        "feeling itself, which the Buddha still calls &ldquo;"
+        "happiness&rdquo; even though nothing is felt there at all."
+    ),
+    guide=[
+        ("A debate neither side can win, because both are right", [
+            "Pañcakaṅga and Udāyī each restate their own position "
+            "three times without budging, and the discourse doesn't "
+            "resolve this by declaring a winner: the Buddha instead "
+            "tells Ānanda that Udāyī's explanation (three), which "
+            "Pañcakaṅga didn't accept, was quite correct &mdash; and "
+            "so was Pañcakaṅga's explanation (two), which Udāyī "
+            "didn't accept.",
+        ]),
+        ("Numbering as a manner of speaking, not a fact to settle",
+         [
+            "The word pariyāya (a particular explanation, method, or "
+            "angle) is the discourse's own key: &ldquo;in one "
+            "explanation I've spoken of two feelings. In another "
+            "explanation I've spoken of three... or five, six, "
+            "eighteen, thirty-six, or a hundred and eight.&rdquo; The "
+            "sixfold sāmisa/nirāmisa distinction this project has "
+            "already met at SN 36.14 supplies the concrete mechanism "
+            "behind at least one of these larger numbers.",
+        ]),
+        ("Harmony and discord as the real subject of the teaching",
+         [
+            "The Buddha's own moral isn't really about feeling at "
+            "all: those who won't &ldquo;concede, approve, or agree "
+            "with what has been well spoken&rdquo; across different "
+            "valid explanations will fight and dispute, wounding each "
+            "other with words; those who do will live in harmony, "
+            "&ldquo;blending like milk and water.&rdquo; The Pañcakaṅga/"
+            "Udāyī debate is a concrete case study for this abstract "
+            "principle.",
+        ]),
+        ("Fourteen rungs, each declining to be called the finest", [
+            "Starting from ordinary sensual pleasure and climbing "
+            "through all four absorptions and all four formless "
+            "attainments, each rung's own claim to be &ldquo;the "
+            "highest pleasure and happiness that sentient beings "
+            "experience&rdquo; is met with the identical refrain: "
+            "&ldquo;I don't grant them that... because there is "
+            "another pleasure that is finer than that&rdquo; &mdash; "
+            "a structure that keeps deferring the summit rather than "
+            "naming it early.",
+        ]),
+        ("A feelingless state still called happiness", [
+            "The ladder's own final rung, the cessation of perception "
+            "and feeling, involves no feeling whatsoever &mdash; yet "
+            "the discourse still calls it a finer pleasure than "
+            "everything before it. The closing lines resolve this "
+            "directly: the Buddha doesn't restrict &ldquo;happiness"
+            "&rdquo; to pleasant feeling alone; wherever happiness is "
+            "found, in whatever context, that is what the term names, "
+            "even where ordinary felt pleasure is entirely absent.",
+        ]),
+    ],
+    terms=[
+        ("pariyāyena", "&ldquo;as a manner of speaking&rdquo; or "
+             "&ldquo;by a particular explanation&rdquo; &mdash; the "
+             "discourse's own key term resolving the two-versus-"
+             "three feelings debate: different valid angles, not "
+             "competing facts"),
+        ("dve vedanā... sukhā vedanā, dukkhā vedanā", "&ldquo;two "
+             "feelings... pleasant and painful&rdquo; &mdash; "
+             "Pañcakaṅga's own position, folding neutral feeling into "
+             "a subtle form of pleasure"),
+        ("khīrodakībhūtā", "&ldquo;blending like milk and "
+             "water&rdquo; &mdash; the Buddha's own image for harmony "
+             "among those who accept different valid explanations"),
+        ("etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca",
+             "&ldquo;a pleasure that is finer and more sublime than "
+             "that&rdquo; &mdash; the refrain repeated at every rung "
+             "of the ladder, deferring the summit rather than naming "
+             "it"),
+        ("yattha yattha sukhaṁ upalabbhati... sukhasmiṁ paññapeti",
+             "&ldquo;wherever happiness is found... the Realized One "
+             "designates it as happiness&rdquo; &mdash; the closing "
+             "resolution explaining how a feelingless attainment can "
+             "still be called a pleasure"),
+    ],
+    text_intro=("The complete discourse: the Pañcakaṅga/Udāyī "
+        "debate, Ānanda's report, the Buddha's resolution, and the "
+        "full fourteen-rung ladder of successively finer pleasures "
+        "with its closing explanation. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.19:1.1-1.10"),
+        ("p", "&sect;2", "sn36.19:2.1-2.8"),
+        ("p", "&sect;3", "sn36.19:3.1-3.12"),
+        ("p", "&sect;4", "sn36.19:4.1-4.2"),
+        ("p", "&sect;5", "sn36.19:5.1-5.13"),
+        ("p", "&sect;6", "sn36.19:6.1-6.12"),
+        ("p", "&sect;7", "sn36.19:7.1-7.8"),
+        ("p", "&sect;8", "sn36.19:8.1-8.8"),
+        ("p", "&sect;9", "sn36.19:9.1-9.8"),
+        ("p", "&sect;10", "sn36.19:10.1-10.8"),
+        ("p", "&sect;11", "sn36.19:11.1-11.8"),
+        ("p", "&sect;12", "sn36.19:12.1-12.8"),
+        ("p", "&sect;13", "sn36.19:13.1-13.8"),
+        ("p", "&sect;14", "sn36.19:14.1-14.8"),
+        ("p", "&sect;15", "sn36.19:15.1-15.3"),
+        ("p", "&sect;16", "sn36.19:16.1-16.6"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha resolve the Pañcakaṅga/Udāyī debate over two feelings versus three?",
+         "opts": ["Both are declared quite correct, since numbering feeling is a manner of speaking (pariyāya), not a fact to settle", "Udāyī is declared right and Pañcakaṅga wrong", "Pañcakaṅga is declared right and Udāyī wrong", "The Buddha refuses to answer the question at all"],
+         "correct": 0,
+         "expl": "\"The explanation by the mendicant Udāyī... was quite correct. But the explanation by Pañcakaṅga... was also quite correct.\""},
+        {"q": "What numbers of feelings does the Buddha say he has taught across different explanations?",
+         "opts": ["Two, three, five, six, eighteen, thirty-six, or a hundred and eight", "Only ever exactly three, with no other valid count", "Only two, since three is a later addition", "An infinite, unspecified number"],
+         "correct": 0,
+         "expl": "Each a distinct pariyāya, not competing claims to be adjudicated against each other."},
+        {"q": "What refrain repeats at every rung of the pleasure ladder before the next rung is introduced?",
+         "opts": ["\"I don't grant them that, because there is another pleasure that is finer than that\"", "\"This is undoubtedly the highest pleasure of all\"", "\"No further pleasure exists beyond this point\"", "The ladder has no repeated refrain"],
+         "correct": 0,
+         "expl": "Deferring the summit at every stage rather than naming it early, all the way through all four absorptions and formless attainments."},
+        {"q": "What is unusual about the ladder's own final rung, the cessation of perception and feeling?",
+         "opts": ["It involves no feeling whatsoever, yet is still called a finer pleasure than everything before it", "It is identical in every respect to ordinary sensual pleasure", "It is explicitly excluded from being called a pleasure at all", "It only applies to laypeople, not mendicants"],
+         "correct": 0,
+         "expl": "A feelingless attainment named as the ladder's own highest \"pleasure,\" requiring explanation."},
+        {"q": "How does the discourse explain calling a feelingless state \"happiness\"?",
+         "opts": ["The Buddha doesn't restrict \"happiness\" to pleasant feeling alone; wherever happiness is found, in whatever context, that is what the term names", "It admits this is a contradiction the teaching cannot resolve", "It claims the cessation of perception and feeling secretly still involves feeling", "It redefines \"feeling\" to exclude the cessation attainment entirely"],
+         "correct": 0,
+         "expl": "\"Wherever happiness is found, in whatever context, the Realized One designates it as happiness.\""},
+    ],
+    marginalia=[
+        ("A debate with no loser", [
+            "three times each, neither budges —",
+            "both declared quite correct in the end",
+        ]),
+        ("Numbering as an angle, not a fact", [
+            "two, three, five, six, eighteen, thirty-six, 108 —",
+            "each a manner of speaking, not a rival claim",
+        ]),
+        ("Fourteen rungs, the summit deferred", [
+            "\"finer than that\" at every stage —",
+            "sensual pleasure to the formless attainments",
+        ]),
+        ("Happiness without a single feeling", [
+            "the ladder's own final rung, feelingless —",
+            "still named for wherever happiness is found",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.19/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.18.html">SN 36.18 &middot; With Several '
+        "Mendicants (2nd)</a> &mdash; the previous discourse.",
+        '<a href="sn-36.20.html">SN 36.20 &middot; A Mendicant</a> '
+        "&mdash; the next and final discourse of Rahogatavagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.20 — Bhikkhusutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 20, "Bhikkhu", "A Mendicant",
+    vagga="Rahogatavagga",
+    meta_title="SN 36.20 &mdash; A Mendicant | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhikkhusutta &mdash; SN 36.19's own teaching on multiple "
+        "valid feeling-counts and happiness beyond feeling, delivered "
+        "directly to the mendicants with no narrative frame, closing "
+        "Rahogatavagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "SN 36.19's own second half, delivered directly "
+                 "with no debate or narrative frame, compressed by "
+                 "peyyāla"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "familiar content from the previous discourse, "
+                       "now closing the vagga"),
+    ],
+    why=(
+        "This discourse closes Rahogatavagga by giving the "
+        "mendicants directly the same teaching SN 36.19 reached "
+        "through the Pañcakaṅga/Udāyī debate and Ānanda's report: "
+        "that the Buddha has taught two, three, five, six, eighteen, "
+        "thirty-six, or a hundred and eight feelings across different "
+        "valid explanations, that harmony depends on accepting this "
+        "rather than disputing which count is the real one, and that "
+        "happiness names something wider than pleasant feeling alone "
+        "&mdash; extending even to the cessation of perception and "
+        "feeling, where nothing is felt at all. With no debate to "
+        "resolve and no questioner to answer, the teaching stands on "
+        "its own as a direct address to the assembly."
+    ),
+    guide=[
+        ("The same content, no narrative required", [
+            "Every element of SN 36.19's own resolution &mdash; the "
+            "multiple valid feeling-counts, the harmony-versus-"
+            "discord teaching, the five kinds of sensual stimulation, "
+            "and the closing explanation of happiness beyond feeling "
+            "&mdash; recurs here without the Pañcakaṅga/Udāyī debate "
+            "or Ānanda's report that motivated it in the previous "
+            "discourse.",
+        ]),
+        ("Compression standing in for the full pleasure ladder", [
+            "Bilara-data compresses the fourteen-rung ladder of "
+            "successively finer pleasures with a peyyāla marker after "
+            "naming the five kinds of sensual stimulation, assuming "
+            "the reader holds SN 36.19's own full climb through the "
+            "absorptions and formless attainments in mind.",
+        ]),
+        ("A teaching that stands independent of its own occasion", [
+            "Unlike the sevenfold catechism discourses earlier in "
+            "this vagga (SN 36.15&ndash;18), which varied their own "
+            "questioner while keeping the content fixed, this "
+            "discourse shows the same content can stand entirely on "
+            "its own, delivered with no occasion, questioner, or "
+            "debate prompting it at all.",
+        ]),
+        ("A vagga closing on harmony, not on any single feeling",
+         [
+            "Rahogatavagga opened with a mendicant's private puzzle "
+            "about a single statement on feeling (SN 36.11) and "
+            "closes here on a teaching about accepting many valid "
+            "descriptions of feeling without dispute &mdash; a vagga "
+            "that moves from resolving one apparent contradiction to "
+            "dissolving the very idea that these different "
+            "descriptions need to compete. The vagga's own untranslated "
+            "colophon, &ldquo;Rahogatavaggo dutiyo&rdquo; "
+            "(&ldquo;Rahogatavagga, the second&rdquo;), confirms its "
+            "position as this saṃyutta's second vagga.",
+        ]),
+    ],
+    terms=[
+        ("pariyāyena mayā dhammo desito", "&ldquo;I've taught the "
+             "Dhamma with all these explanations&rdquo; &mdash; the "
+             "discourse's own restatement of SN 36.19's key "
+             "resolution, delivered with no debate to prompt it"),
+        ("khīrodakībhūtā", "&ldquo;blending like milk and "
+             "water&rdquo; &mdash; the same image for harmony met at "
+             "SN 36.19, recurring here unchanged"),
+        ("pañca kāmaguṇā", "the five kinds of sensual stimulation "
+             "&mdash; named here before the peyyāla marker compresses "
+             "the full pleasure ladder that follows"),
+        ("yattha yattha sukhaṁ upalabbhati", "&ldquo;wherever "
+             "happiness is found&rdquo; &mdash; the closing "
+             "explanation recurring from SN 36.19, resolving how a "
+             "feelingless attainment can still be named a pleasure"),
+        ("Rahogatavaggo dutiyo", "&ldquo;Rahogatavagga, the "
+             "second&rdquo; &mdash; this discourse's own untranslated "
+             "closing colophon, confirming this vagga's position as "
+             "Vedanāsaṃyutta's second"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it "
+        "&mdash; the multiple-explanations teaching and the five "
+        "kinds of sensual stimulation given in full, the pleasure "
+        "ladder compressed by peyyāla, and the closing explanation of "
+        "happiness beyond feeling. The vagga's own closing colophon "
+        "and uddāna, left untranslated in the Pali root, are "
+        "described rather than quoted above. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.20:1.1-1.5"),
+        ("p", "&sect;2", "sn36.20:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content relate to SN 36.19's own resolution?",
+         "opts": ["It restates the same teaching directly to the mendicants, with no debate or narrative frame required", "It contradicts SN 36.19's own conclusions", "It introduces an entirely new, unrelated teaching", "It only repeats the opening debate, omitting the resolution"],
+         "correct": 0,
+         "expl": "The multiple valid feeling-counts, the harmony teaching, and the happiness-beyond-feeling explanation all recur, without Pañcakaṅga, Udāyī, or Ānanda."},
+        {"q": "How does bilara-data handle the fourteen-rung pleasure ladder in this discourse?",
+         "opts": ["It compresses the ladder with a peyyāla marker, assuming SN 36.19's own full version", "It expands the ladder with additional new rungs", "It omits any mention of the five kinds of sensual stimulation", "It gives the ladder in exactly the same full detail as SN 36.19"],
+         "correct": 0,
+         "expl": "Named after the five kinds of sensual stimulation, then compressed rather than restated in full."},
+        {"q": "What does this discourse demonstrate about SN 36.19's own content, compared to the catechism discourses earlier in this vagga?",
+         "opts": ["That the same content can stand independently, with no occasion, questioner, or debate prompting it", "That the content only makes sense within a debate context", "That the teaching requires Ānanda's presence to be valid", "That the catechism discourses and this teaching are unrelated"],
+         "correct": 0,
+         "expl": "Unlike SN 36.15-18's varied questioners, this discourse needs no narrative occasion at all."},
+        {"q": "What does this vagga's own closing colophon, \"Rahogatavaggo dutiyo,\" confirm?",
+         "opts": ["That Rahogatavagga is the second vagga of Vedanāsaṃyutta", "That this is the second discourse of the vagga", "That this is the second paṇṇāsaka of the saṃyutta", "The colophon carries no positional information"],
+         "correct": 0,
+         "expl": "Left untranslated in the Pali root, described rather than quoted in this reading guide."},
+        {"q": "How does the overall arc of Rahogatavagga move, from its opening discourse to this closing one?",
+         "opts": ["From resolving one apparent contradiction about feeling to dissolving the idea that different valid descriptions need to compete at all", "From a single teaching to an increasingly narrow, more restrictive one", "The vagga shows no meaningful development between its opening and closing discourses", "From a philosophical teaching to a purely narrative one"],
+         "correct": 0,
+         "expl": "SN 36.11's private puzzle about one statement gives way to SN 36.19-20's teaching on harmony across many valid descriptions."},
+    ],
+    marginalia=[
+        ("The same teaching, no debate needed", [
+            "no Pañcakaṅga, no Udāyī —",
+            "the resolution stands on its own",
+        ]),
+        ("A ladder compressed, not omitted", [
+            "the five kinds of stimulation named —",
+            "then the climb assumed, not restated",
+        ]),
+        ("Content that needs no occasion", [
+            "unlike the catechism's varied questioners —",
+            "this teaching requires no prompt at all",
+        ]),
+        ("A vagga's own arc, traced end to end", [
+            "one puzzle resolved, then dissolved —",
+            "\"the second,\" its own position confirmed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.20/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.19.html">SN 36.19 &middot; With '
+        "Pañcakaṅga</a> &mdash; the previous discourse, with the "
+        "full debate and pleasure ladder.",
+        '<a href="sn-41.1.html">SN 41.1 &middot; The Fetter</a> '
+        "&mdash; already published on this site, standing ahead of "
+        "this saṃyutta's own third and final vagga, "
+        "Aṭṭhasatapariyāyavagga (SN 36.21&ndash;31), not yet built.",
+    ],
+)
