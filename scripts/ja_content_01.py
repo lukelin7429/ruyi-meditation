@@ -16381,3 +16381,684 @@ page(
         '<a href="./">Jataka</a> &mdash; back to the collection index.',
     ],
 )
+# --------------------------------------------------------------------------- #
+# Ja 126 — Asilakkhaṇa (The Mark on the Sword)
+# --------------------------------------------------------------------------- #
+page(
+    126, "Asilakkha&#7751;a", "The Mark on the Sword",
+    meta_title="Ja 126 — The Mark on the Sword | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 126, a standalone selection — one plain-spoken verse "
+        "about how nothing is wholly good or bad for everyone, whose "
+        "own comment admits it does not supply the story behind it. "
+        "From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Kusan&amacr;&#7789;ivagga (Reed-stalk Chapter), Poem 6 of 10 &mdash; the only poem in this later vagga with a Sujato translation",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a plain verse, but its own comment openly "
+                       "admits the story behind it is missing"),
+    ],
+    why=(
+        "This is the first of this site's three standalone Jātaka "
+        "selections, each drawn from a much later vagga where only "
+        "this one poem, among its ten, happens to carry a Sujato "
+        "translation. Unusually for this collection, Sujato's own "
+        "comment here does not supply the commentarial story at all "
+        "&mdash; only a wry aside about its tone &mdash; and this "
+        "reading guide says so plainly rather than inventing what "
+        "isn't there."),
+    guide=[
+        ("A plain-spoken verse about mixed fortune", [
+            "The verse states its point with no ornament: &lsquo;that "
+            "is good for some, ill for others. Therefore not all is "
+            "good, nor is all ill.&rsquo; Whatever event or "
+            "circumstance the verse originally illustrated, its own "
+            "content is a bare, general observation &mdash; the same "
+            "thing can be a blessing to one person and a misfortune "
+            "to another."]),
+        ("Per Sujato's comment, a story this reading guide cannot supply", [
+            "Sujato's own comment on this verse is unusually brief: "
+            "&lsquo;this innocuous verse is wryly deadpan in the "
+            "context of the rather outrageous slapstick of the "
+            "origin story.&rsquo; No further detail of that origin "
+            "story is given. This reading guide states that plainly "
+            "rather than guessing at what the &lsquo;outrageous "
+            "slapstick&rsquo; might have been &mdash; the traditional "
+            "title itself, &lsquo;The Mark on the Sword&rsquo;, hints "
+            "that a blemish or marking on a sword was somehow central "
+            "to it, but this site has no translated source that says "
+            "more. This poem is also this site's most isolated "
+            "Jātaka selection: it is the sole translated poem among "
+            "all ten of its own vagga, so unlike every other poem in "
+            "this collection, it arrives with no translated "
+            "neighbors on either side to supply context."]),
+    ],
+    terms=[
+        ("Tadevekassa kaly&amacr;&#7751;aṁ",
+         "&ldquo;that is good for some&rdquo; &mdash; the verse's "
+         "opening half of its central contrast."),
+        ("sabbaṁ na kaly&amacr;&#7751;aṁ",
+         "&ldquo;not all is good&rdquo; &mdash; the verse's summary "
+         "conclusion, paired with its mirror, &lsquo;nor is all "
+         "ill&rsquo;."),
+        ("outrageous slapstick",
+         "Sujato's own phrase for the tone of this poem's untranslated "
+         "origin story &mdash; describing its tone, not its plot, "
+         "which this reading guide does not have access to."),
+        ("Asilakkha&#7751;ajātaka",
+         "the traditional title of this tale, literally &lsquo;the "
+         "mark on the sword&rsquo;, per Sujato's own translation "
+         "&lsquo;The Mark on the Sword&rsquo;."),
+        ("Kusan&amacr;&#7789;ivagga",
+         "&ldquo;Reed-stalk Chapter&rdquo; &mdash; the thirteenth "
+         "vagga of the Ekakanipāta, otherwise entirely without a "
+         "Sujato translation apart from this one poem."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, standing alone with no "
+        "translated commentarial story to accompany it. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja126:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What does the verse say about good and ill fortune?',
+         "opts": [
+             'The verse makes no claim about fortune',
+             'The same thing can be good for one person and ill for another',
+             'Everything is good for everyone',
+             'Everything is ill for everyone',
+         ],
+         "correct": 1,
+         "expl": "The verse's own plain, general observation."},
+        {"q": 'What conclusion does the verse draw from this?',
+         "opts": [
+             'Fortune cannot be discussed at all',
+             'Only the wise experience good fortune',
+             'Not all is good, nor is all ill',
+             'Everything is predetermined',
+         ],
+         "correct": 2,
+         "expl": 'A summary statement following directly from the opening contrast.'},
+        {"q": "What does Sujato's own comment say about this verse's tone, relative to its origin story?",
+         "opts": [
+             "It matches the story's tone exactly",
+             'The comment says nothing about tone',
+             'It is described as tragic',
+             "It is wryly deadpan against the story's outrageous slapstick",
+         ],
+         "correct": 3,
+         "expl": "Sujato's own characterization, in his own words."},
+        {"q": "Does Sujato's comment supply the plot of this poem's commentarial story?",
+         "opts": [
+             'No — only a brief remark about its tone is given',
+             'Yes, in full detail',
+             'Only the ending is given',
+             'Only the main character is named',
+         ],
+         "correct": 0,
+         "expl": 'Unusual for this collection; this reading guide states that plainly rather than inventing details.'},
+        {"q": "What does the traditional title, 'The Mark on the Sword', hint at, without confirming it?",
+         "opts": [
+             'Nothing at all — the title is unrelated to any object',
+             'That a blemish or marking on a sword was somehow central to the untold story',
+             'A specific historical battle',
+             'A named swordsmith',
+         ],
+         "correct": 1,
+         "expl": 'A hint from the title alone, since no translated source confirms more.'},
+        {"q": 'What makes this poem unusually isolated compared to most others in this collection?',
+         "opts": [
+             'It is the only verse-only poem in the collection',
+             'It has more translated neighbors than any other poem here',
+             'It is the sole translated poem among all ten of its own vagga',
+             'It has no traditional title at all',
+         ],
+         "correct": 2,
+         "expl": "Unlike most of this collection's poems, it has no translated neighbors on either side."},
+        {"q": 'What vagga (chapter) does this poem belong to?',
+         "opts": [
+             'Varuṇavagga',
+             'Itthivagga',
+             'Daḷhavagga',
+             'Kusanāḷivagga, the Reed-stalk Chapter',
+         ],
+         "correct": 3,
+         "expl": 'The thirteenth vagga of the Ekakanipāta.'},
+        {"q": "Is this poem still part of the Ekakanipāta (Book of the Ones), despite coming after this site's earlier eight-chapter selection?",
+         "opts": [
+             'Yes — it belongs to a later vagga within the same Ekakanipāta',
+             'No, it belongs to the Book of the Twos',
+             'No, it belongs to the Book of the Twelves',
+             'It belongs to no identifiable nipāta',
+         ],
+         "correct": 0,
+         "expl": "A correction worth noting: this poem's own nipāta is the same one covered earlier, just a much later chapter within it."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Harsh Sound',
+             'The Mark on the Sword (Asilakkhaṇajātaka)',
+             'The Peacock',
+             'The Sea Merchants',
+         ],
+         "correct": 1,
+         "expl": "The poem's own traditional Pali title, per Sujato's translation."},
+        {"q": "How does this reading guide handle the missing story context, per this site's general practice?",
+         "opts": [
+             'By ignoring the issue entirely',
+             'By presenting a guess as though it were confirmed fact',
+             'By stating plainly that the story is not available, rather than inventing one',
+             'By inventing a plausible story',
+         ],
+         "correct": 2,
+         "expl": "Consistent with this site's practice of not asserting more than the source material supports."},
+    ],
+    marginalia=[
+        ("A verse without its story", [
+            "the punchline survives, the joke is lost —",
+            "Sujato's own comment admits as much"
+        ]),
+        ("Mixed fortune, stated plainly", [
+            "good for one, ill for another —",
+            "no further claim than that"
+        ]),
+        ("The loneliest poem in this collection", [
+            "nine untranslated neighbors on either side —",
+            "this one alone made it across"
+        ]),
+        ("A title that hints, but doesn't explain", [
+            "a mark on a sword, somewhere in a story we don't have —",
+            "named for a detail whose context is gone"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja126/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-79.html">Ja 79 &mdash; The Harsh Sound</a> '
+        "&mdash; the previous poem in this site's Jātaka selection, "
+        "closing the earlier eight-chapter sequence.",
+        '<a href="ja-159.html">Ja 159 &mdash; The Peacock</a> '
+        "&mdash; the next of this site's three standalone selections.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 159 — Mora (The Peacock)
+# --------------------------------------------------------------------------- #
+page(
+    159, "Mora", "The Peacock",
+    meta_title="Ja 159 — The Peacock | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 159, the Mora Paritta — a golden peacock's twice-"
+        "daily protective chant, blending straightforward Vedic solar "
+        "worship with separate Buddhist verses. From Ru-Yi Meditation "
+        "Center."),
+    vagga="Book of the Twos &middot; Da&#7789;havagga (Chapter on the Strong), Poem 9 of 10 &mdash; the only poem in this vagga with a Sujato translation",
+    glance=[
+        ("Setting", "Deep in the mountains, at dawn and at dusk"),
+        ("Speaker", "A golden peacock-king, per Sujato's comment"),
+        ("Form", "Four short stanzas, in two mirrored pairs"),
+        ("Length", "1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "dense with Vedic solar-worship vocabulary "
+                       "worth unpacking"),
+    ],
+    why=(
+        "This poem is the traditional source of the Mora Paritta, "
+        "still recited today as a protective chant: a golden "
+        "peacock, having fled to the mountains for safety, invokes "
+        "the rising and setting sun in language borrowed directly "
+        "from Vedic solar worship, then adds an entirely separate set "
+        "of Buddhist homage verses alongside it."),
+    guide=[
+        ("A chant recited twice a day, for safety", [
+            "Per Sujato's comment, a golden peacock-king, having fled "
+            "deep in the mountains for safety, recites this verse "
+            "every day. The first pair of stanzas is spoken at "
+            "sunrise, invoking the sun as protection through the "
+            "coming day; the second pair mirrors it almost exactly at "
+            "sunset, asking the same protection through the night. "
+            "Each half closes with the same narrative line marking "
+            "what the peacock then does &mdash; wanders out searching "
+            "for food by day, settles in for the night."]),
+        ("Vedic solar worship, with Buddhist verses laid alongside it", [
+            "Sujato's comment is direct: &lsquo;the poem takes "
+            "straightforward solar worship in the Vedic style and "
+            "adds quite separate Buddhistic verses.&rsquo; The "
+            "sun is addressed as &lsquo;ekarāja&rsquo;, &lsquo;the one "
+            "king&rsquo; &mdash; per the comment, a title given to "
+            "Indra himself at Rig Veda 8.37.3, and used of actual "
+            "kings elsewhere in the Jātaka tradition (Ja 303 and "
+            "Ja 542, neither part of this site's own selection). "
+            "&lsquo;Harissavaṇṇo&rsquo;, &lsquo;palomino-"
+            "colored&rsquo;, likewise echoes the Vedic "
+            "&lsquo;haryaśva&rsquo;, &lsquo;he of the yellow "
+            "horses&rsquo;, itself a name for Indra in solar hymns at "
+            "Rig Veda 3.30 and 3.44. Set directly against this "
+            "borrowed Vedic vocabulary, the peacock's own chant adds "
+            "lines with no Vedic counterpart at all: homage to the "
+            "Awakened Ones, to Awakening itself, to the freed ones, "
+            "and to freedom."]),
+        ("A single grammatical detail, and a confirmed cross-reference", [
+            "Sujato's comment notes one further detail: though the "
+            "peacock speaks in the singular (&lsquo;I worship&rsquo;), "
+            "the safety he asks for is plural (&lsquo;let us live out "
+            "this day&rsquo;) &mdash; his own protection extended, in "
+            "the asking, to others besides himself. The comment also "
+            "cross-references this site's own Snp 5.5 for the "
+            "repeated construction &lsquo;taṁ taṁ&rsquo;, a linguistic "
+            "note rather than a thematic one."]),
+    ],
+    terms=[
+        ("ekarāja",
+         "&ldquo;the one king&rdquo; &mdash; here an epithet for the "
+         "sun, per Sujato's comment also used of Indra (Rig Veda "
+         "8.37.3) and of actual kings elsewhere in the Jātaka "
+         "tradition."),
+        ("Harissava&#7751;&#7751;o",
+         "&ldquo;palomino-colored&rdquo; &mdash; echoing the Vedic "
+         "&lsquo;haryaśva&rsquo;, a name for Indra in solar hymns, "
+         "applied here to the sun."),
+        ("Namo vimuttānaṁ, namo vimuttiyā",
+         "&ldquo;homage to the freed ones, homage to freedom&rdquo; "
+         "&mdash; one of the chant's own Buddhist verses, with no "
+         "counterpart in the Vedic material it otherwise draws on."),
+        ("parittaṁ",
+         "&ldquo;protection&rdquo; &mdash; the chant's own "
+         "self-description, giving this poem its traditional "
+         "association as the Mora Paritta."),
+        ("Morajātaka",
+         "the traditional title of this tale, &lsquo;The "
+         "Peacock&rsquo;."),
+    ],
+    text_intro=(
+        "The text in full: four short stanzas in two mirrored pairs, "
+        "morning and evening. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja159:1.1-1.4"),
+        ("p", "&sect;2", "ja159:2.1-2.6"),
+        ("p", "&sect;3", "ja159:3.1-3.4"),
+        ("p", "&sect;4", "ja159:4.1-4.6"),
+    ],
+    quiz=[
+        {"q": "Who recites this chant, per Sujato's comment?",
+         "opts": [
+             'A king addressing his court',
+             'A group of brahmins',
+             'A golden peacock-king, having fled to the mountains for safety',
+             'A wandering ascetic',
+         ],
+         "correct": 2,
+         "expl": 'The chant is his own daily protective recitation.'},
+        {"q": 'When is this chant recited, per its own structure?',
+         "opts": [
+             'Only once, at noon',
+             'Only during a full moon',
+             'Only in times of danger',
+             'Twice daily, at sunrise and sunset',
+         ],
+         "correct": 3,
+         "expl": 'Two mirrored pairs of stanzas, one for each moment.'},
+        {"q": "What does Sujato's comment say the poem combines?",
+         "opts": [
+             'Straightforward Vedic solar worship with quite separate Buddhist verses',
+             'Two unrelated Buddhist teachings',
+             'A purely secular nature poem',
+             'A purely Vedic text with no Buddhist content at all',
+         ],
+         "correct": 0,
+         "expl": "Sujato's own direct characterization of the poem's composition."},
+        {"q": "What does 'ekarāja' ('the one king') refer to in this poem?",
+         "opts": [
+             'A specific deity unrelated to the sun',
+             'The sun',
+             'An actual reigning king',
+             'The peacock himself',
+         ],
+         "correct": 1,
+         "expl": 'Per the comment, elsewhere applied to Indra or to actual kings, but here it is the sun.'},
+        {"q": "What Vedic figure does 'Harissavaṇṇo' ('palomino-colored') echo, per the comment?",
+         "opts": [
+             'Agni',
+             'No specific figure is named',
+             'Indra, under the epithet haryaśva',
+             'Varuṇa',
+         ],
+         "correct": 2,
+         "expl": "'He of the yellow horses' — a solar-hymn epithet transferred here to the sun itself."},
+        {"q": 'What Buddhist elements does the chant add that have no Vedic counterpart, per this reading guide?',
+         "opts": [
+             'A prayer for wealth',
+             'A curse against enemies',
+             'No Buddhist elements are present',
+             'Homage to the Awakened Ones, Awakening, the freed ones, and freedom',
+         ],
+         "correct": 3,
+         "expl": 'Laid directly alongside the borrowed Vedic solar-worship vocabulary.'},
+        {"q": "What detail does Sujato's comment note about the grammatical number of 'I worship' versus 'let us live'?",
+         "opts": [
+             'The peacock speaks in the singular but asks safety for others as well, in the plural',
+             'Both are singular throughout',
+             'Both are plural throughout',
+             'The comment does not address grammar',
+         ],
+         "correct": 0,
+         "expl": 'His own protection extended, in the asking, to others besides himself.'},
+        {"q": "What confirmed cross-reference does Sujato's comment give for the construction 'taṁ taṁ'?",
+         "opts": [
+             'No cross-reference is given',
+             'Snp 5.5, already completed on this site',
+             'DN 20',
+             'MN 12',
+         ],
+         "correct": 1,
+         "expl": 'A linguistic note, not a thematic connection.'},
+        {"q": "What is this poem's traditional title, and what living practice is it associated with?",
+         "opts": [
+             'The Mark on the Sword, with no living ritual association',
+             'The Harsh Sound, associated with funeral rites',
+             'The Peacock (Morajātaka), traditional source of the still-recited Mora Paritta',
+             'The Sea Merchants, with no living ritual association',
+         ],
+         "correct": 2,
+         "expl": "A protective chant still recited today, per this reading guide's introduction."},
+        {"q": "What two references does the comment cite for 'ekarāja' used of actual kings, and are they part of this site's own selection?",
+         "opts": [
+             'Ja 303 and Ja 542, both already completed on this site',
+             'MN 76 and SN 12.70, both already completed on this site',
+             'No such references are cited',
+             "Ja 303 and Ja 542, neither part of this site's own Jātaka selection",
+         ],
+         "correct": 3,
+         "expl": 'Noted for completeness, consistent with how external, uncollected references are handled elsewhere on this site.'},
+    ],
+    marginalia=[
+        ("A chant said twice, morning and night", [
+            "sunrise and sunset, mirrored almost exactly —",
+            "the same request for safety, twice over"
+        ]),
+        ("Two traditions, laid side by side", [
+            "Vedic solar worship, word for word —",
+            "Buddhist homage lines with no counterpart in it"
+        ]),
+        ("A single voice, asking for more than itself", [
+            "'I worship', but 'let us live out this day' —",
+            "his own safety extended past himself"
+        ]),
+        ("A verse that outlived its own story", [
+            "still recited as a paritta today —",
+            "a peacock's daily chant, still spoken by others now"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja159/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../sutta-nipata/snp-5.5.html">Snp 5.5 &mdash; '
+        "The Questions of Mettagū</a> &mdash; sharing the "
+        "&lsquo;taṁ taṁ&rsquo; construction, per Sujato's comment.",
+        '<a href="ja-126.html">Ja 126 &mdash; The Mark on the '
+        "Sword</a> &mdash; the previous of this site's three "
+        "standalone selections.",
+        '<a href="ja-466.html">Ja 466 &mdash; The Sea '
+        "Merchants</a> &mdash; the final poem in this site's Jātaka "
+        "selection.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 466 — Samuddavāṇija (The Sea Merchants)
+# --------------------------------------------------------------------------- #
+page(
+    466, "Samuddav&amacr;&#7751;ija", "The Sea Merchants",
+    meta_title="Ja 466 — The Sea Merchants | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 466, the longest poem and final entry in this site's "
+        "Jātaka selection — shipwrecked refugees caught between two "
+        "contradictory gods, and a wise hedge against an uncertain "
+        "future. From Ru-Yi Meditation Center."),
+    vagga="Book of the Twelves &middot; C&umacr;&#7789;akuṇālavagga (Chapter With Cūḷakuṇāla), Poem 3 of 10 &mdash; the only poem in this vagga with a Sujato translation",
+    glance=[
+        ("Setting", "A remote island, after a shipwreck"),
+        ("Speaker", "Multiple voices: castaways, two contending "
+                    "gods, two refugees, and closing verses "
+                    "attributed to the Buddha"),
+        ("Form", "Twelve stanzas, the longest single poem in this "
+                 "site's Jātaka selection"),
+        ("Length", "3 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the longest and most structurally layered "
+                       "poem in this collection, with several "
+                       "distinct speakers"),
+    ],
+    why=(
+        "The final poem in this site's Jātaka selection is also its "
+        "longest and most structurally ambitious: shipwrecked "
+        "refugees on a remote island receive two flatly contradictory "
+        "warnings from two gods, and must decide how to act without "
+        "yet knowing which one is telling the truth &mdash; a "
+        "genuine parable about preparing for an uncertain future, "
+        "closing with verses the comment attributes directly to the "
+        "Buddha."),
+    guide=[
+        ("Shipwrecked refugees, and two gods who disagree", [
+            "Per Sujato's comment, castaways reflect on the abundance "
+            "of their remote, lonely isle: full of food and drink, "
+            "with no one else laying claim to it &mdash; better, they "
+            "say, than the mainland (Jambudīpā) they came from. A "
+            "righteous god then appears in the north, warning that a "
+            "great flood will drown the island when the fifteenth-day "
+            "full moon rises, and urging them to leave for another "
+            "haven. A second god then appears in the south, flatly "
+            "contradicting the first: no flood is coming, he has seen "
+            "as much through many signs, and the refugees should stay "
+            "and celebrate. A foolish refugee, per the comment, "
+            "endorses the reassuring southern god, certain his "
+            "message is the true one."]),
+        ("A wise refugee's hedge, and a lesson about which voice to trust", [
+            "A second, wiser refugee counsels differently: since the "
+            "two gods directly contradict each other, and there is no "
+            "way yet to know which one is right, the group should "
+            "build a strong boat regardless. If the reassuring "
+            "southern god turns out to be right, the boat goes "
+            "unused and nothing is lost; if the warning northern god "
+            "is right, the boat alone saves them. The poem then draws "
+            "its own explicit general lesson: best not to simply "
+            "accept the last word one happens to hear, when what was "
+            "spoken first may in fact have been the true account "
+            "&mdash; whoever examines a claim for its truth, rather "
+            "than simply trusting whoever spoke most recently, "
+            "reaches the better outcome."]),
+        ("Verses attributed to the Buddha, and the close of this site's Jātaka selection", [
+            "Sujato's comment identifies the poem's final three "
+            "stanzas as &lsquo;editorializing verses&rsquo; "
+            "attributed directly to the Buddha, drawing the story's "
+            "particular case out into a general teaching: prepare "
+            "now for what the future will demand of you, so that the "
+            "duty does not catch you unprepared when its time comes; "
+            "those who fail to do so, distracted by present comforts, "
+            "sink just as the foolish refugees nearly did. Despite "
+            "belonging to the Cūḷakuṇālavagga, a chapter named for "
+            "the far more famous Kuṇāla story, this poem is an "
+            "entirely separate, unrelated tale. With this poem, "
+            "this site's Jātaka selection reaches its own full extent "
+            "of 82 poems &mdash; the maximum available given Sujato's "
+            "own translation coverage of the traditional 547."]),
+    ],
+    terms=[
+        ("Jambudīp&amacr;",
+         "the Indian mainland, contrasted by the shipwrecked "
+         "castaways with the abundance of their remote island refuge."),
+        ("dakkhi&#7751;o / uttaro",
+         "&ldquo;southern&rdquo; and &ldquo;northern&rdquo; &mdash; "
+         "the two contending gods, one reassuring and false, one "
+         "warning and true, per the poem's own resolution at its "
+         "ninth stanza."),
+        ("Na ve sug&#7751;haṁ paṭhamena seṭṭhaṁ",
+         "&ldquo;best not accept the last word... when what was "
+         "spoken by the first was best&rdquo; &mdash; the poem's own "
+         "explicit general lesson about weighing contradictory "
+         "claims."),
+        ("Anāgataṁ paṭikayirātha kiccaṁ",
+         "&ldquo;prepare what must be done for the future&rdquo; "
+         "&mdash; the opening line of the closing verses Sujato's "
+         "comment attributes to the Buddha."),
+        ("C&umacr;&#7789;akuṇālavagga",
+         "&ldquo;Chapter With Cūḷakuṇāla&rdquo; &mdash; this poem's "
+         "own vagga, named for a different, far more famous story "
+         "that this poem itself is unrelated to."),
+    ],
+    text_intro=(
+        "The text in full: twelve stanzas, the longest single poem in "
+        "this site's Jātaka selection, moving through several "
+        "distinct speakers. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja466:1.1-1.4"),
+        ("p", "&sect;2", "ja466:2.1-2.4"),
+        ("p", "&sect;3", "ja466:3.1-4.4"),
+        ("p", "&sect;4", "ja466:5.1-5.4"),
+        ("p", "&sect;5", "ja466:6.1-9.4"),
+        ("p", "&sect;6", "ja466:10.1-12.4"),
+    ],
+    quiz=[
+        {"q": "Where are the castaways at the start of this poem, per Sujato's comment?",
+         "opts": [
+             'A mountain village',
+             'A remote, abundant island, after a shipwreck',
+             'The Indian mainland',
+             'A boat at sea',
+         ],
+         "correct": 1,
+         "expl": "The scene the entire poem's dilemma is built around."},
+        {"q": 'What does the god in the north warn the refugees about?',
+         "opts": [
+             'A famine',
+             'Nothing — the northern god gives no warning',
+             'A coming flood that will drown the island',
+             'An attack by bandits',
+         ],
+         "correct": 2,
+         "expl": "Per the comment, a righteous god's warning, timed to the fifteenth-day full moon."},
+        {"q": 'What does the god in the south say, in direct contradiction?',
+         "opts": [
+             'The same warning as the northern god',
+             'Nothing at all',
+             'That the refugees should leave immediately',
+             'No flood is coming; stay and celebrate',
+         ],
+         "correct": 3,
+         "expl": "Per the comment, a wicked god's false reassurance."},
+        {"q": "What does the foolish refugee do, per Sujato's comment?",
+         "opts": [
+             'Endorses the reassuring southern god',
+             'Endorses the warning northern god',
+             'Refuses to take either side',
+             'Leaves the island alone',
+         ],
+         "correct": 0,
+         "expl": 'Trusting the more comforting message over the more cautious one.'},
+        {"q": 'What does the wise refugee propose instead?',
+         "opts": [
+             'Splitting the group in half',
+             'Building a strong boat regardless of which god is right',
+             'Ignoring both gods entirely',
+             'Fighting the two gods',
+         ],
+         "correct": 1,
+         "expl": 'A hedge that costs little if unneeded, but saves everyone if the warning proves true.'},
+        {"q": "According to the poem's own ninth stanza, which god turns out to have spoken the truth?",
+         "opts": [
+             'Neither — the poem leaves it unresolved',
+             'Both, in different ways',
+             'The first one to speak, the warning northern god',
+             'The second one to speak, the reassuring southern god',
+         ],
+         "correct": 2,
+         "expl": "The poem's own explicit lesson: don't simply trust whoever spoke last."},
+        {"q": 'What general lesson does the poem draw from this outcome?',
+         "opts": [
+             'Always trust the most recent speaker',
+             'Gods should never be trusted at all',
+             'No general lesson is drawn',
+             'Best not to simply accept the last word heard, when the first account may have been true',
+         ],
+         "correct": 3,
+         "expl": "The poem's own stated principle, directly following from the story's resolution."},
+        {"q": "Who does Sujato's comment attribute the poem's final three stanzas to?",
+         "opts": [
+             'The Buddha, as editorializing verses',
+             'The wise refugee',
+             'The northern god',
+             'An unnamed narrator',
+         ],
+         "correct": 0,
+         "expl": 'A direct attribution given in the comment itself.'},
+        {"q": "What is this poem's relationship to the Cūḷakuṇālavagga, the chapter it belongs to?",
+         "opts": [
+             'There is no relationship at all',
+             'The chapter is named for a different, far more famous, unrelated story',
+             'This poem is itself the famous Kuṇāla story',
+             'The chapter is named directly after this poem',
+         ],
+         "correct": 1,
+         "expl": "A vagga name doesn't always describe every poem within it."},
+        {"q": "What milestone does this poem mark for this site's Jātaka selection?",
+         "opts": [
+             'It marks the midpoint of the selection',
+             'No particular milestone',
+             "It is the final poem, completing this site's selection at its own full extent of 82",
+             'It is the first poem of a new sub-collection',
+         ],
+         "correct": 2,
+         "expl": "The maximum available given Sujato's own translation coverage of the traditional 547."},
+    ],
+    marginalia=[
+        ("Two gods, two flatly opposite warnings", [
+            "one says flee, one says celebrate —",
+            "and no way yet to know which one is lying"
+        ]),
+        ("A boat built just in case", [
+            "costs little if unneeded —",
+            "saves everyone if the warning was true"
+        ]),
+        ("Don't trust whoever spoke last", [
+            "the poem's own explicit lesson —",
+            "the first account, examined, was the true one"
+        ]),
+        ("The longest poem, saved for last", [
+            "twelve stanzas closing this whole selection —",
+            "82 of the traditional 547, as far as translation allows"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja466/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-159.html">Ja 159 &mdash; The Peacock</a> '
+        "&mdash; the previous of this site's three standalone "
+        "selections.",
+        '<a href="./">Jataka</a> &mdash; back to the collection '
+        "index, this site's complete 82-poem Jātaka selection.",
+    ],
+)
