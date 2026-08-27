@@ -30055,3 +30055,1924 @@ page(
         "&ndash;248), not yet built.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 35.238 — Āsīvisopamasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 238, "Āsīvisopama", "The Simile of the Vipers",
+    vagga="Āsīvisavagga",
+    meta_title="SN 35.238 &mdash; The Simile of the Vipers | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āsīvisopamasutta &mdash; opening Āsīvisavagga, this "
+        "book's nineteenth and final vagga, with one of the "
+        "Nikāyas' most fully-worked allegories: four vipers, five "
+        "murderers, a hidden sixth, an empty village, a flood, and a "
+        "raft. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "An escalating narrative allegory of six mounting "
+                 "terrors, a flight to the far shore, and an "
+                 "exhaustive term-by-term decode"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a long chain of images, but the discourse "
+                       "supplies its own complete key"),
+    ],
+    why=(
+        "This discourse opens Āsīvisavagga (\"the chapter on "
+        "vipers\"), this book's own nineteenth and final vagga, "
+        "closing out Saḷāyatanasaṃyutta's own 248-discourse span. It "
+        "is also one of the most elaborately worked allegories in "
+        "this project's coverage so far: a single fleeing man is "
+        "chased in succession by four venomous vipers, five armed "
+        "murderers, and a sixth hidden killer, before finding an "
+        "empty village raided by bandits, then a flood with no "
+        "bridge or boat, which he crosses on a raft he builds "
+        "himself from grass and branches. The discourse then works "
+        "back through every element of the story and assigns it a "
+        "precise doctrinal meaning, leaving nothing to inference: "
+        "the vipers are the four elements, the murderers are the "
+        "five grasping aggregates, the hidden sixth is relishing and "
+        "greed, the empty village is the six interior sense fields, "
+        "the bandits are the six exterior sense fields, the flood is "
+        "the four floods, the near shore is substantial reality, the "
+        "far shore is extinguishment, and the raft is the noble "
+        "eightfold path itself."
+    ),
+    guide=[
+        ("Six mounting terrors, each named only as the last recedes",
+         [
+            "The narrative builds in strict sequence &mdash; four "
+            "vipers, then five murderers, then a sixth hidden killer "
+            "with a drawn sword &mdash; each new danger introduced "
+            "only once the man is already fleeing the one before it. "
+            "No single threat is ever faced in isolation; the man is "
+            "always running from the whole accumulated weight of "
+            "everything that has chased him so far.",
+        ]),
+        ("An empty village that offers no refuge", [
+            "Every house the man enters and every vessel he touches "
+            "is &ldquo;vacant, hollow, and empty&rdquo; &mdash; and "
+            "even this illusory refuge turns out to be under raid by "
+            "bandits. The discourse later identifies the village "
+            "itself as the six interior sense fields: investigated "
+            "closely by &ldquo;an astute, competent, clever "
+            "person,&rdquo; the eye, ear, nose, tongue, body, and "
+            "mind each appear exactly as empty as those houses.",
+        ]),
+        ("A raft built, not found, and released once the crossing "
+         "is done", [
+            "Facing a flood with no ferry or bridge, the man gathers "
+            "grass, sticks, branches, and leaves and binds them into "
+            "a raft himself, paddling across with his own hands and "
+            "feet. The discourse's own decode names the raft the "
+            "noble eightfold path and the paddling the roused "
+            "energy of practice &mdash; the crossing is made, not "
+            "given, and the story stops the instant the far shore is "
+            "reached, without any instruction about what becomes of "
+            "the raft afterward.",
+        ]),
+        ("A complete decode, term by term, left with nothing implicit",
+         [
+            "Unlike many similes in this project's coverage that "
+            "leave part of the mapping to the reader, this discourse "
+            "explicitly glosses every element in turn: four vipers = "
+            "the four elements; five murderers = the five grasping "
+            "aggregates; the sixth hidden killer = relishing and "
+            "greed; the empty village = the six interior sense "
+            "fields; the bandits = the six exterior sense fields; "
+            "the flood = the four floods (sensuality, desire to be "
+            "reborn, views, and ignorance); the near shore = "
+            "substantial reality (sakkāya); the far shore = "
+            "extinguishment; the raft = the noble eightfold path; "
+            "the paddling = roused energy; and the man who stands on "
+            "solid ground at last = a perfected one, an arahant.",
+        ]),
+    ],
+    terms=[
+        ("cattāro āsīvisā uggatejā ghoravisā", "&ldquo;four venomous "
+             "vipers of awesome might&rdquo; &mdash; later glossed "
+             "as the four principal states, the elements of earth, "
+             "water, fire, and air"),
+        ("pañca vadhakā paccatthikā", "&ldquo;five deadly "
+             "enemies&rdquo; &mdash; the five grasping aggregates: "
+             "form, feeling, perception, choices, and consciousness"),
+        ("chaṭṭho antaracaro vadhako ukkhittāsiko", "&ldquo;the "
+             "sixth hidden killer with a drawn sword&rdquo; &mdash; "
+             "glossed as nandīrāga, relishing and greed, the one "
+             "danger among the six with no plural form of its own"),
+        ("suñño gāmo", "the empty village &mdash; the six interior "
+             "sense fields, found &ldquo;vacant, hollow, and "
+             "empty&rdquo; on close investigation by anyone astute, "
+             "competent, and clever"),
+        ("kullaṁ bandhitvā", "&ldquo;having bound a raft&rdquo; from "
+             "gathered grass, sticks, branches, and leaves &mdash; "
+             "glossed as the noble eightfold path itself, built and "
+             "used rather than simply found"),
+    ],
+    text_intro=("The complete discourse: the six-part narrative of "
+        "escalating flight and crossing, followed by the discourse's "
+        "own full term-by-term decode. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.238:1.1-1.6"),
+        ("p", "&sect;2", "sn35.238:2.1-2.4"),
+        ("p", "&sect;3", "sn35.238:3.1-3.4"),
+        ("p", "&sect;4", "sn35.238:4.1-4.7"),
+        ("p", "&sect;5", "sn35.238:5.1-5.6"),
+        ("p", "&sect;6", "sn35.238:6.1"),
+        ("p", "&sect;7", "sn35.238:7.1-9.1"),
+        ("p", "&sect;8", "sn35.238:10.1-11.7"),
+        ("p", "&sect;9", "sn35.238:12.1-14.1"),
+        ("p", "&sect;10", "sn35.238:15.1-17.1"),
+    ],
+    quiz=[
+        {"q": "In what order does the fleeing man encounter the six mounting terrors?",
+         "opts": ["Four vipers, then five murderers, then a sixth hidden killer", "The sixth hidden killer first, then the five murderers, then the four vipers", "All six threats appear simultaneously from the outset", "The five murderers first, then the four vipers"],
+         "correct": 0,
+         "expl": "Each new danger is introduced only once the man is already fleeing everything that came before it."},
+        {"q": "What does the discourse's own decode identify the five murderers as?",
+         "opts": ["The five grasping aggregates: form, feeling, perception, choices, and consciousness", "The five kinds of sensual stimulation", "The five spiritual faculties", "Five specific named individuals from the Buddha's own past"],
+         "correct": 0,
+         "expl": "&ldquo;Five deadly enemies&rdquo; is a term for the five grasping aggregates, that is: form, feeling, perception, choices, and consciousness."},
+        {"q": "What single danger, unlike the other five, has no plural form of its own?",
+         "opts": ["The sixth hidden killer, glossed as relishing and greed", "The four vipers", "The bandits raiding the village", "The flood itself"],
+         "correct": 0,
+         "expl": "&ldquo;The sixth hidden killer with a drawn sword&rdquo; is a term for relishing and greed (nandīrāga) — one danger, not a set."},
+        {"q": "How does the man cross the flood that blocks his way to the far shore?",
+         "opts": ["By binding a raft himself from gathered grass, sticks, branches, and leaves", "By finding an existing ferryboat", "By walking across a natural bridge", "The discourse does not say — he remains stranded"],
+         "correct": 0,
+         "expl": "\"Why don't I gather grass, sticks, branches, and leaves and make a raft?\" — built and paddled with his own hands and feet."},
+        {"q": "What does the discourse's own decode say the raft itself represents?",
+         "opts": ["The noble eightfold path", "The Buddha's own teaching in general, without further specification", "The five grasping aggregates", "Right mindfulness alone"],
+         "correct": 0,
+         "expl": "\"'The raft' is a term for the noble eightfold path\" — named outright, with all eight factors listed."},
+    ],
+    marginalia=[
+        ("Six terrors, never faced alone", [
+            "vipers, murderers, a hidden sixth —",
+            "each new one added to all before it",
+        ]),
+        ("A village with nothing inside it", [
+            "every house and vessel empty —",
+            "later named the six interior fields",
+        ]),
+        ("A raft built, not found", [
+            "grass and branches, bound by hand —",
+            "paddled across, then simply released",
+        ]),
+        ("A decode that leaves nothing implicit", [
+            "every image assigned its own term —",
+            "vipers to floods, decoded outright",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.238/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.237.html">SN 35.237 &middot; The Simile of '
+        "Hands and Feet (2nd)</a> &mdash; the previous discourse, "
+        "closing Samuddavagga.",
+        '<a href="sn-35.239.html">SN 35.239 &middot; The Simile of '
+        "the Chariot</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.239 — Rathopamasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 239, "Rathopama", "The Simile of the Chariot",
+    vagga="Āsīvisavagga",
+    meta_title="SN 35.239 &mdash; The Simile of the Chariot | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Rathopamasutta &mdash; three qualities for joy in this "
+        "very life, with sense restraint compared to a master "
+        "charioteer's total control of a chariot at a crossroads. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "Three named qualities, each unpacked in turn with "
+                 "its own supporting simile"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "three practical qualities, plainly explained"),
+    ],
+    why=(
+        "This discourse sets out three qualities that bring "
+        "&ldquo;joy and happiness in this very life&rdquo; and lay "
+        "the groundwork for ending the defilements: guarding the "
+        "sense doors, eating in moderation, and being committed to "
+        "wakefulness. Each receives its own worked-out simile &mdash; "
+        "sense restraint compared to a master charioteer's full "
+        "command of a chariot at a crossroads, moderate eating "
+        "compared to oiling an axle only enough to carry its load, "
+        "and wakefulness spelled out as a specific division of the "
+        "day and night into meditation and a mindful, timed rest. "
+        "None of the three is exotic; together they describe an "
+        "ordinary daily discipline."
+    ),
+    guide=[
+        ("Guarding the sense doors, without shutting them", [
+            "The formula &mdash; not getting &ldquo;caught up in the "
+            "features and details&rdquo; of what is seen, heard, "
+            "smelled, tasted, touched, or thought &mdash; is a "
+            "recurring one in this project's coverage of Book IV, "
+            "run here for all six senses before its own dedicated "
+            "simile.",
+        ]),
+        ("A chariot at a crossroads, going wherever it's steered",
+         [
+            "&ldquo;A deft horse trainer, a master charioteer&rdquo; "
+            "who can drive a harnessed chariot &ldquo;out and back "
+            "wherever he wishes, whenever he wishes&rdquo; stands for "
+            "the trained mendicant's own control over the six senses "
+            "&mdash; restraint pictured as full command, not "
+            "restriction.",
+        ]),
+        ("Eating for the body's sake, not for pleasure", [
+            "The reflection on food &mdash; not for fun, indulgence, "
+            "adornment, or decoration, but only to sustain the body, "
+            "avoid harm, and support the practice &mdash; is "
+            "compared to putting ointment on a wound only so it can "
+            "heal, or oiling an axle only so it can carry its load: "
+            "food as maintenance, not gratification.",
+        ]),
+        ("A night divided into three watches", [
+            "Wakefulness is given a concrete daily shape: walking "
+            "and sitting meditation by day; the same through the "
+            "first watch of the night; lying down mindfully in the "
+            "lion's posture through the middle watch, timed to wake; "
+            "and meditation resumed through the last watch &mdash; a "
+            "specific schedule, not a vague exhortation to stay "
+            "alert.",
+        ]),
+    ],
+    terms=[
+        ("diṭṭheva dhamme sukhasomanassabahulo", "&ldquo;full of joy "
+             "and happiness in this very life&rdquo; &mdash; what "
+             "the three qualities together produce, alongside laying "
+             "the groundwork for ending the defilements"),
+        ("indriyesu guttadvāro", "guarding the sense doors &mdash; "
+             "the first of the three qualities, unpacked for all six "
+             "senses in turn"),
+        ("bhojane mattaññū", "eating in moderation &mdash; the "
+             "second quality, reflected on with the ointment-and-"
+             "axle similes"),
+        ("jāgariyaṁ anuyutto", "committed to wakefulness &mdash; the "
+             "third quality, given its own three-watch division of "
+             "the night"),
+        ("dakkho yoggācariyo assadammasārathi", "&ldquo;a deft horse "
+             "trainer, a master charioteer&rdquo; &mdash; the "
+             "simile's own central figure, driving &ldquo;wherever "
+             "he wishes, whenever he wishes&rdquo;"),
+    ],
+    text_intro=("The complete discourse: the three qualities named, "
+        "then each unpacked in turn with its own simile. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.239:1.1-1.3"),
+        ("p", "&sect;2", "sn35.239:2.1-2.12"),
+        ("p", "&sect;3", "sn35.239:3.1-3.7"),
+        ("p", "&sect;4", "sn35.239:4.1-4.7"),
+    ],
+    quiz=[
+        {"q": "What three qualities does this discourse say bring joy and happiness in this very life?",
+         "opts": ["Guarding the sense doors, eating in moderation, and being committed to wakefulness", "Generosity, ethical conduct, and meditation", "Faith, energy, and wisdom", "Renunciation, seclusion, and silence"],
+         "correct": 0,
+         "expl": "Named at the outset and then unpacked one by one, each with its own simile."},
+        {"q": "What does the master charioteer simile illustrate?",
+         "opts": ["Full command over the six senses, pictured as control rather than restriction", "The danger of moving too quickly through life", "The need for a teacher to guide every decision", "The four floods that carry a person along"],
+         "correct": 0,
+         "expl": "Driving \"out and back wherever he wishes, whenever he wishes\" — restraint as mastery, not suppression."},
+        {"q": "What two similes describe eating in moderation?",
+         "opts": ["Putting ointment on a wound and oiling an axle", "Watering a plant and feeding a fire", "Filling a lamp with oil and trimming its wick", "No simile is given for this quality"],
+         "correct": 0,
+         "expl": "Both similes emphasize maintenance for a functional purpose, not indulgence."},
+        {"q": "How does the discourse divide the night for the third quality, wakefulness?",
+         "opts": ["Into three watches, with meditation in the first and last and mindful rest in the middle", "Into two equal halves of unbroken meditation", "The night is set aside entirely for sleep", "Wakefulness applies only to daytime, not night"],
+         "correct": 0,
+         "expl": "First watch: meditation. Middle watch: mindful rest in the lion's posture, timed to wake. Last watch: meditation resumed."},
+        {"q": "What does \"not getting caught up in the features and details\" describe?",
+         "opts": ["The core formula for guarding each of the six sense doors", "A warning against studying scripture too closely", "The danger of rushing through walking meditation", "A description of moderate eating"],
+         "correct": 0,
+         "expl": "Applied identically to sights, sounds, odors, flavors, touches, and ideas."},
+    ],
+    marginalia=[
+        ("Restraint pictured as mastery", [
+            "a charioteer, not a cage —",
+            "steering wherever he wishes",
+        ]),
+        ("Food as maintenance, not pleasure", [
+            "ointment for healing, oil for an axle —",
+            "just enough, no more",
+        ]),
+        ("A night in three watches", [
+            "meditation, mindful rest, meditation —",
+            "wakefulness given a schedule",
+        ]),
+        ("Three ordinary disciplines", [
+            "nothing exotic in any of them —",
+            "yet joy in this very life, the text says",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.239/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.238.html">SN 35.238 &middot; The Simile of '
+        "the Vipers</a> &mdash; the previous discourse, opening "
+        "Āsīvisavagga.",
+        '<a href="sn-35.240.html">SN 35.240 &middot; The Simile of '
+        "the Tortoise</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.240 — Kummopamasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 240, "Kummopama", "The Simile of the Tortoise",
+    vagga="Āsīvisavagga",
+    meta_title="SN 35.240 &mdash; The Simile of the Tortoise | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kummopamasutta &mdash; a tortoise withdrawn into its "
+        "shell defeats a waiting jackal, just as sense restraint "
+        "leaves Māra unable to find any vulnerability. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A short animal fable, its application to the six "
+                 "senses, and a closing four-line verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a simple, vivid image"),
+    ],
+    why=(
+        "A tortoise grazing by a riverbank draws its limbs and neck "
+        "inside its shell the moment it spots a hunting jackal "
+        "nearby; the jackal waits for an opening that never comes, "
+        "and eventually leaves disappointed. The discourse applies "
+        "this directly: Māra the Wicked is always waiting nearby, "
+        "hoping to find a vulnerability in the eye, ear, nose, "
+        "tongue, body, or mind. A mendicant who guards the sense "
+        "doors &mdash; not getting caught up in the features and "
+        "details of what is seen, heard, smelled, tasted, touched, "
+        "or thought &mdash; leaves Māra as disappointed as the "
+        "jackal, unable to find any way in."
+    ),
+    guide=[
+        ("A predator that waits, not one that attacks outright", [
+            "The jackal never attacks the tortoise directly; it "
+            "simply waits nearby for the tortoise to expose a limb "
+            "or its neck. The danger described is passive and "
+            "patient, matching how the discourse frames Māra as "
+            "&ldquo;always waiting nearby,&rdquo; hoping for an "
+            "opening rather than forcing one.",
+        ]),
+        ("Six senses, one shell", [
+            "The application runs the same sense-restraint formula "
+            "already familiar from this vagga's own second discourse "
+            "(SN 35.239) across all six senses, framing each as a "
+            "limb the tortoise can choose to withdraw.",
+        ]),
+        ("A jackal that leaves, not one that gives up trying", [
+            "The text is precise: the jackal leaves "
+            "&ldquo;disappointed, since it couldn't find a "
+            "vulnerability&rdquo; &mdash; not because it abandoned "
+            "its intent, but because the tortoise gave it no "
+            "opportunity. The same wording is used for Māra: he "
+            "leaves not by choice but by lack of opening.",
+        ]),
+        ("A closing verse naming the practice directly", [
+            "The four-line verse that closes the discourse instructs "
+            "the mendicant to &ldquo;collect their thoughts as a "
+            "tortoise draws its limbs into its shell,&rdquo; adding "
+            "two further qualities not spelled out in the prose "
+            "fable itself: being independent, not disturbing others, "
+            "and quenched enough to blame no one.",
+        ]),
+    ],
+    terms=[
+        ("kummo kacchapo", "the tortoise &mdash; drawing its limbs "
+             "and neck inside its shell the moment it spots the "
+             "hunting jackal"),
+        ("māro pāpimā satataṁ samitaṁ paccupaṭṭhito", "&ldquo;Māra "
+             "the Wicked is always waiting nearby&rdquo; &mdash; "
+             "the discourse's own direct application of the jackal's "
+             "patient waiting"),
+        ("otāraṁ alabhamāno", "&ldquo;unable to find a "
+             "vulnerability&rdquo; &mdash; the exact condition under "
+             "which Māra leaves disappointed, echoing the jackal's "
+             "own failed hunt"),
+        ("kummova aṅgāni sake kapāle", "&ldquo;as a tortoise draws "
+             "its limbs into its shell&rdquo; &mdash; the closing "
+             "verse's own central image, applied to a mendicant "
+             "collecting their thoughts"),
+        ("anissito anaññadatthu", "&ldquo;independent, not "
+             "disturbing others&rdquo; &mdash; a quality the closing "
+             "verse adds beyond what the prose fable states outright"),
+    ],
+    text_intro=("The complete discourse: the tortoise-and-jackal "
+        "fable, its application to the six senses, and the closing "
+        "verse. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.240:1.1-1.8"),
+        ("p", "&sect;2", "sn35.240:2.1-2.15"),
+        ("p", "&sect;3", "sn35.240:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How does the tortoise defeat the waiting jackal?",
+         "opts": ["By withdrawing its limbs and neck into its shell, giving the jackal no opening", "By fleeing into the river", "By fighting the jackal off directly", "The tortoise does not defeat the jackal in this fable"],
+         "correct": 0,
+         "expl": "The jackal waits nearby, hoping for an exposed limb, but the tortoise never gives it the chance."},
+        {"q": "What does the discourse say Māra is always doing?",
+         "opts": ["Waiting nearby, hoping to find a vulnerability in one of the six senses", "Actively attacking mendicants without warning", "Sleeping, uninterested in the mendicants' practice", "Directly forbidden from approaching a mendicant"],
+         "correct": 0,
+         "expl": "\"Māra the Wicked is always waiting nearby\" — patient, not forceful, exactly like the jackal."},
+        {"q": "Why does the jackal eventually leave the tortoise?",
+         "opts": ["It leaves disappointed, unable to find a vulnerability, not because it gave up its intent", "It is scared away by another animal", "It finds a different, easier target nearby", "The tortoise physically drives it away"],
+         "correct": 0,
+         "expl": "The same wording — unable to find an opening — is applied to both the jackal and to Māra."},
+        {"q": "What two qualities does the closing verse add beyond the prose fable?",
+         "opts": ["Being independent and not disturbing others", "Being generous and eloquent", "Being physically strong and swift", "The verse adds no new qualities"],
+         "correct": 0,
+         "expl": "Alongside collecting one's thoughts like a withdrawn tortoise, the verse names independence and not disturbing others."},
+        {"q": "Which senses does the discourse's own application cover?",
+         "opts": ["All six — eye, ear, nose, tongue, body, and mind", "Only the eye and the mind", "Only the physical senses, excluding the mind", "The discourse does not specify which senses"],
+         "correct": 0,
+         "expl": "Māra is said to hope for an opening \"in the eye, ear, nose, tongue, body, or mind\" — all six named."},
+    ],
+    marginalia=[
+        ("A predator that only waits", [
+            "no attack, just patience —",
+            "hoping for one exposed limb",
+        ]),
+        ("A shell with six openings", [
+            "eye, ear, nose, tongue, body, mind —",
+            "each one a limb that can withdraw",
+        ]),
+        ("Disappointed, not defeated", [
+            "the jackal's intent never changes —",
+            "only its opportunity, denied",
+        ]),
+        ("A verse that adds two qualities", [
+            "independent, undisturbing —",
+            "beyond what the fable states outright",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.240/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.239.html">SN 35.239 &middot; The Simile of '
+        "the Chariot</a> &mdash; the previous discourse.",
+        '<a href="sn-35.241.html">SN 35.241 &middot; The Simile of '
+        "the Tree Trunk (1st)</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.241 — Paṭhamadārukkhandhopamasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 241, "Paṭhamadārukkhandhopama", "The Simile of the Tree Trunk "
+    "(1st)",
+    vagga="Āsīvisavagga",
+    meta_title="SN 35.241 &mdash; The Simile of the Tree Trunk (1st) "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamadārukkhandhopamasutta &mdash; a log drifting down "
+        "the Ganges toward the ocean, seven ways it could go wrong, "
+        "and Nanda the cowherd's on-the-spot ordination. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Kosambī, on the bank of the Ganges river"),
+        ("Speakers", "The Buddha, an unnamed mendicant, and Nanda "
+                      "the cowherd"),
+        ("Form", "A river-borne log simile, a sevenfold list of "
+                 "ways to go astray, each decoded in turn, and a "
+                 "closing narrative of on-the-spot ordination"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a sevenfold list rewards careful tracking"),
+    ],
+    why=(
+        "Watching a large tree trunk carried along by the Ganges "
+        "current, the Buddha observes that if it avoids seven "
+        "specific mishaps &mdash; drifting to either shore, sinking "
+        "in the middle, getting stranded on high ground, being taken "
+        "by humans or non-humans, getting caught in a whirlpool, or "
+        "rotting away &mdash; it will inevitably reach the ocean, "
+        "simply because the river's current itself inclines that "
+        "way. Applied to a mendicant, the same seven hazards are "
+        "decoded one by one, and the discourse closes with an "
+        "unexpected scene: Nanda the cowherd, sitting nearby, "
+        "declares he is already free of all seven and asks for "
+        "ordination on the spot &mdash; though the Buddha still "
+        "requires him to return his cows to their owners first."
+    ),
+    guide=[
+        ("A trajectory, not an effort", [
+            "The log doesn't have to swim toward the ocean; it only "
+            "has to avoid seven specific failures, because the "
+            "river's current already inclines that way. The parallel "
+            "claim for the mendicant is equally passive in form: "
+            "avoiding the same seven hazards is enough, because "
+            "&ldquo;right view slants, slopes, and inclines towards "
+            "extinguishment&rdquo; on its own.",
+        ]),
+        ("Seven hazards, each given its own precise gloss", [
+            "The near shore and far shore are the six interior and "
+            "six exterior sense fields; sinking in the middle is "
+            "greed and relishing; being stranded on high ground is "
+            "the conceit &ldquo;I am&rdquo;; getting taken by humans "
+            "is over-involvement in laypeople's business; getting "
+            "taken by non-humans is practicing for the sake of "
+            "rebirth as a god; getting caught in a whirlpool is the "
+            "five kinds of sensual stimulation; and rotting away is "
+            "unethical, corrupt conduct concealed behind an "
+            "ascetic's appearance.",
+        ]),
+        ("A layperson who claims the whole list at once", [
+            "Nanda the cowherd, previously silent, speaks up only "
+            "after hearing the full sevenfold decode, declaring in "
+            "one unbroken sentence that none of the seven applies to "
+            "him &mdash; the discourse's only instance of someone "
+            "outside the monastic audience directly answering back "
+            "in the terms just given.",
+        ]),
+        ("A concrete condition before ordination is granted", [
+            "The Buddha doesn't ordain Nanda immediately despite his "
+            "declaration; he first requires the very practical step "
+            "of returning the borrowed cows to their owners. Nanda's "
+            "own reasoning &mdash; that the cows would return to "
+            "their calves by themselves &mdash; is overruled, and "
+            "only after he completes the errand and reports back is "
+            "he ordained, becoming one of the perfected "
+            "&ldquo;not long after.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("samuddaninno samuddapoṇo samuddapabbhāro", "&ldquo;slant, "
+             "slope, and incline towards the ocean&rdquo; &mdash; "
+             "the log's own trajectory, paralleled by right view's "
+             "own inclination towards extinguishment"),
+        ("orimaṁ tīraṁ / pārimaṁ tīraṁ", "the near shore and the far "
+             "shore &mdash; glossed as the six interior and six "
+             "exterior sense fields respectively"),
+        ("majjhe saṁsādo", "&ldquo;sinking in the middle&rdquo; "
+             "&mdash; glossed as greed and relishing (nandīrāga)"),
+        ("thale ussādo", "&ldquo;stranded on high ground&rdquo; "
+             "&mdash; glossed as the conceit &ldquo;asmi,&rdquo; "
+             "&ldquo;I am&rdquo;"),
+        ("gamissanti, bhante, gāvo vacchagiddhiniyo", "&ldquo;the "
+             "cows will go back by themselves, since they love their "
+             "calves&rdquo; &mdash; Nanda's own overruled reasoning, "
+             "before the Buddha repeats the instruction unchanged"),
+    ],
+    text_intro=("The complete discourse: the log simile, the "
+        "sevenfold decode, and Nanda the cowherd's ordination. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.241:1.1-1.9"),
+        ("p", "&sect;2", "sn35.241:2.1-2.7"),
+        ("p", "&sect;3", "sn35.241:3.1-3.4"),
+        ("p", "&sect;4", "sn35.241:4.1-4.3"),
+        ("p", "&sect;5", "sn35.241:5.1-5.4"),
+        ("p", "&sect;6", "sn35.241:6.1-6.3"),
+        ("p", "&sect;7", "sn35.241:7.1-7.13"),
+    ],
+    quiz=[
+        {"q": "Why will the log inevitably reach the ocean, according to the Buddha's opening claim?",
+         "opts": ["Because the river's current itself already inclines toward the ocean, provided the log avoids seven specific mishaps", "Because someone actively pushes it the whole way", "Because it is lighter than water and floats directly there", "The Buddha does not say the log will reach the ocean"],
+         "correct": 0,
+         "expl": "\"Because the current of the Ganges river slants, slopes, and inclines towards the ocean\" — a trajectory, not an effort."},
+        {"q": "What does \"sinking in the middle\" represent in the sevenfold decode?",
+         "opts": ["Greed and relishing", "Physical illness", "Loss of faith in the teacher", "Excessive study without practice"],
+         "correct": 0,
+         "expl": "\"'Sinking in the middle' is a term for greed and relishing.\""},
+        {"q": "How does Nanda the cowherd respond after hearing the full sevenfold decode?",
+         "opts": ["He declares that none of the seven hazards applies to him and asks for ordination", "He asks the Buddha to repeat the teaching a second time", "He remains silent and leaves without comment", "He disputes one of the seven items as inapplicable to laypeople"],
+         "correct": 0,
+         "expl": "Nanda answers back in the discourse's own terms, claiming freedom from all seven hazards at once."},
+        {"q": "What condition does the Buddha require before ordaining Nanda?",
+         "opts": ["That he first return the cows in his care to their owners", "That he wait one full year as a lay follower", "That he first learn to read the scriptures", "No condition is required; he is ordained immediately"],
+         "correct": 0,
+         "expl": "Nanda's own reasoning that the cows would return themselves is overruled — he must complete the errand first."},
+        {"q": "What happens to Nanda shortly after his ordination?",
+         "opts": ["He becomes one of the perfected (an arahant) not long afterward", "He disrobes and returns to cattle-herding", "He is never mentioned again in the discourse", "He becomes a teacher to other mendicants immediately"],
+         "correct": 0,
+         "expl": "\"Not long after his ordination, Venerable Nanda became one of the perfected.\""},
+    ],
+    marginalia=[
+        ("A trajectory, not a swim", [
+            "avoid seven mishaps, nothing more —",
+            "the current does the rest",
+        ]),
+        ("Seven hazards, seven glosses", [
+            "shores, whirlpool, high ground, rot —",
+            "each assigned its own precise meaning",
+        ]),
+        ("A cowherd answers back", [
+            "none of the seven applies to me —",
+            "spoken in the discourse's own terms",
+        ]),
+        ("An errand before ordination", [
+            "return the cows first, Nanda —",
+            "then, not long after, an arahant",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.241/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.240.html">SN 35.240 &middot; The Simile of '
+        "the Tortoise</a> &mdash; the previous discourse.",
+        '<a href="sn-35.242.html">SN 35.242 &middot; The Simile of '
+        "the Tree Trunk (2nd)</a> &mdash; the next discourse, "
+        "restating the same simile in a different setting.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.242 — Dutiyadārukkhandhopamasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 242, "Dutiyadārukkhandhopama", "The Simile of the Tree Trunk "
+    "(2nd)",
+    vagga="Āsīvisavagga",
+    meta_title="SN 35.242 &mdash; The Simile of the Tree Trunk (2nd) "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyadārukkhandhopamasutta &mdash; the same river-log "
+        "simile restated at Kimibilā, compressed throughout except "
+        "for Venerable Kimbila's own question about what counts as "
+        "&ldquo;rotting away.&rdquo; From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kimibilā, on the bank of the Ganges river"),
+        ("Speakers", "The Buddha and Venerable Kimbila"),
+        ("Form", "The same log simile as SN 35.241, given in "
+                 "compressed form except for one fully restated "
+                 "item"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, leaning on the previous discourse"),
+    ],
+    why=(
+        "This discourse restates SN 35.241's own log-and-Ganges "
+        "simile in a new setting, Kimibilā, with a new questioner, "
+        "Venerable Kimbila. Bilara-data compresses almost the entire "
+        "exchange with an ellipsis marker, assuming the reader "
+        "already has the previous discourse's full sevenfold list in "
+        "mind, and gives only one item in full: Kimbila's own "
+        "question about &ldquo;rotting away,&rdquo; answered this "
+        "time with a specifically monastic example &mdash; committing "
+        "an offense so corrupt that no rehabilitation is possible "
+        "&mdash; rather than SN 35.241's more general description of "
+        "an unethical pretender."
+    ),
+    guide=[
+        ("A compressed repeat, not a new simile", [
+            "The setting and questioner change, but the log, the "
+            "river, and the sevenfold list of hazards are identical "
+            "to SN 35.241's own; bilara-data itself marks the "
+            "repeated portions with an ellipsis rather than spelling "
+            "them out a second time.",
+        ]),
+        ("One item singled out for a full restatement", [
+            "Of the sevenfold list, only &ldquo;rotting away&rdquo; "
+            "is given a complete answer here, suggesting this "
+            "particular exchange with Kimbila was remembered "
+            "specifically for that one detail rather than the whole "
+            "simile.",
+        ]),
+        ("A monastic answer, not a general one", [
+            "SN 35.241 defined rotting away broadly, as anyone "
+            "unethical, filthy, and depraved while claiming to be a "
+            "genuine ascetic. Here the same term is defined "
+            "specifically as a mendicant committing &ldquo;the kind "
+            "of corrupt offense for which no rehabilitation is "
+            "possible&rdquo; &mdash; the same underlying image, "
+            "narrowed to a concrete monastic-discipline case.",
+        ]),
+        ("Named for its questioner, not its content", [
+            "This project's own reading of the discourse's title, "
+            "&ldquo;The Simile of the Tree Trunk (2nd),&rdquo; "
+            "reflects its relationship to SN 35.241 as a paired twin "
+            "rather than any difference in the simile's own content, "
+            "which remains the same log carried by the same river.",
+        ]),
+    ],
+    terms=[
+        ("kimibilāyaṁ", "Kimibilā &mdash; this discourse's own "
+             "setting, on the bank of the Ganges, distinct from "
+             "Kosambī in SN 35.241"),
+        ("āyasmā kimbilo", "Venerable Kimbila &mdash; the questioner "
+             "here, in place of the unnamed mendicant of SN 35.241"),
+        ("…pe…", "the peyyāla (repetition) marker bilara-data uses "
+             "to compress the sevenfold list already given in full "
+             "at SN 35.241, assumed rather than restated"),
+        ("saṅkiliṭṭhaṁ āpattiṁ āpanno... na vuṭṭhānaṁ paññāyati",
+             "&ldquo;committed the kind of corrupt offense for which "
+             "no rehabilitation is possible&rdquo; &mdash; the one "
+             "item given in full, narrowing SN 35.241's broader "
+             "definition of &ldquo;rotting away&rdquo; to a specific "
+             "monastic case"),
+        ("dutiyaṁ", "&ldquo;second&rdquo; &mdash; this discourse's "
+             "own untranslated closing marker, confirming its status "
+             "as SN 35.241's paired twin"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it "
+        "&mdash; compressed throughout except for the one fully "
+        "restated exchange about &ldquo;rotting away.&rdquo; "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.242:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 35.241?",
+         "opts": ["It restates the same log-and-Ganges simile in a new setting, compressed except for one item", "It introduces an entirely unrelated simile", "It directly contradicts SN 35.241's own sevenfold list", "It is a summary written by a later compiler, not attributed to the Buddha"],
+         "correct": 0,
+         "expl": "Bilara-data itself marks the repeated portions with an ellipsis, assuming SN 35.241's full list."},
+        {"q": "Who asks the question in this discourse, in place of SN 35.241's unnamed mendicant?",
+         "opts": ["Venerable Kimbila", "Venerable Ānanda", "Nanda the cowherd", "No question is asked in this discourse"],
+         "correct": 0,
+         "expl": "The setting also changes, from Kosambī to Kimibilā."},
+        {"q": "Which single item from the sevenfold list is given a full restatement here?",
+         "opts": ["\"Rotting away\"", "\"Sinking in the middle\"", "\"Stranded on high ground\"", "\"Caught up in a whirlpool\""],
+         "correct": 0,
+         "expl": "All other items are compressed with an ellipsis marker, assumed from SN 35.241."},
+        {"q": "How does this discourse's definition of \"rotting away\" differ from SN 35.241's?",
+         "opts": ["It narrows the definition to a specific monastic case: an offense too corrupt for rehabilitation", "It broadens the definition to include laypeople as well as mendicants", "It removes the concept of \"rotting away\" from the list entirely", "The two definitions are worded identically with no difference"],
+         "correct": 0,
+         "expl": "SN 35.241 gave a general description of an unethical pretender; here the same term is defined via a specific monastic-discipline case."},
+        {"q": "What does this discourse's own closing marker, \"dutiyaṁ,\" confirm?",
+         "opts": ["That this discourse is the second of a paired twin with SN 35.241", "That this is the second vagga of the book", "That this is the second paṇṇāsaka of the saṃyutta", "The marker carries no numerical information"],
+         "correct": 0,
+         "expl": "\"Second\" — pairing this discourse directly with SN 35.241 as its twin."},
+    ],
+    marginalia=[
+        ("Same log, new setting", [
+            "Kimibilā, not Kosambī —",
+            "the river and its current unchanged",
+        ]),
+        ("One item, restated in full", [
+            "everything else compressed —",
+            "only \"rotting away\" spelled out again",
+        ]),
+        ("A general pretender, narrowed", [
+            "SN 35.241's broad description —",
+            "now a specific monastic offense",
+        ]),
+        ("A twin, not a new teaching", [
+            "\"dutiyaṁ,\" second —",
+            "paired outright with what came before",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.242/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.241.html">SN 35.241 &middot; The Simile of '
+        "the Tree Trunk (1st)</a> &mdash; the previous discourse, "
+        "with the sevenfold list given in full.",
+        '<a href="sn-35.243.html">SN 35.243 &middot; The Explanation '
+        "on the Festering</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.243 — Avassutapariyāyasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 243, "Avassutapariyāya", "The Explanation on the Festering",
+    vagga="Āsīvisavagga",
+    meta_title="SN 35.243 &mdash; The Explanation on the Festering | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Avassutapariyāyasutta &mdash; Venerable Mahāmoggallāna "
+        "teaches at the Buddha's own invitation, at a newly built "
+        "town hall the Sakyans offer the Buddha to use first. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kapilavatthu, the Banyan Tree Monastery, and a "
+                     "newly constructed Sakyan town hall"),
+        ("Speakers", "The Sakyans of Kapilavatthu, the Buddha, and "
+                      "Venerable Mahāmoggallāna"),
+        ("Form", "An extended narrative frame, then Mahāmoggallāna's "
+                 "own teaching, in matched contrasting halves, each "
+                 "with its own supporting simile"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a long frame narrative around a compact "
+                       "teaching"),
+    ],
+    why=(
+        "This discourse opens with an unusually detailed narrative: "
+        "the Sakyans of Kapilavatthu have just built a new town hall "
+        "and ask the Buddha to be the very first to use it, before "
+        "any other ascetic, brahmin, or layperson. The Buddha "
+        "consents, teaches the Sakyans deep into the night, and then "
+        "&mdash; citing a sore back &mdash; asks Venerable "
+        "Mahāmoggallāna to take over and teach the remaining "
+        "mendicants. Mahāmoggallāna's own teaching, delivered while "
+        "the Buddha rests in the lion's posture nearby, distinguishes "
+        "someone &ldquo;festering&rdquo; (avassuta) from someone "
+        "&ldquo;not festering&rdquo; (anavassuta) at the six sense "
+        "doors, using a matched pair of house-fire similes: a dried-"
+        "out reed house that catches fire from any direction versus "
+        "a still-wet clay hall that a torch cannot ignite from any "
+        "direction at all."
+    ),
+    guide=[
+        ("A town hall offered to the Buddha first", [
+            "The Sakyans' own request &mdash; that the Buddha use "
+            "their new town hall before anyone else does, "
+            "&ldquo;for the lasting welfare and happiness of the "
+            "Sakyans&rdquo; &mdash; and their careful preparations "
+            "(carpets, seats, a water jar, an oil lamp) are given in "
+            "unusual narrative detail for this book, more typical of "
+            "the Dīgha or Majjhima than the compact discourses this "
+            "vagga has run through so far.",
+        ]),
+        ("A sore back, and a deliberate handoff", [
+            "The Buddha's own reason for stepping back &mdash; "
+            "&ldquo;my back is sore, I'll stretch it&rdquo; &mdash; "
+            "is stated plainly rather than as any teaching device, "
+            "and he lies down in the same lion's posture this "
+            "project has already met as the standard description of "
+            "mindful rest (SN 35.239's own third watch), while "
+            "Mahāmoggallāna teaches in his place.",
+        ]),
+        ("Festering: holding on, disliking, and an unestablished "
+         "heart", [
+            "Someone &ldquo;festering&rdquo; holds on to a pleasant "
+            "sight, sound, smell, taste, touch, or idea and dislikes "
+            "an unpleasant one, all with mindfulness of the body "
+            "unestablished &mdash; a condition Mahāmoggallāna "
+            "compares to a dried-out reed-and-straw house that a "
+            "grass torch can ignite from any of six directions "
+            "(east, west, north, south, below, above), exactly "
+            "matching the six sense doors it fails to guard.",
+        ]),
+        ("Not festering: the identical structure, inverted", [
+            "The &ldquo;not festering&rdquo; half repeats the exact "
+            "same structure &mdash; the same six senses, the same "
+            "six directions &mdash; but every term is reversed: not "
+            "holding on, not disliking, mindfulness established, and "
+            "a wet-clay hall that no torch from any direction can "
+            "ignite. The discourse closes with the Buddha's own "
+            "approval and the assembly's satisfaction, confirming "
+            "Mahāmoggallāna's teaching directly.",
+        ]),
+    ],
+    terms=[
+        ("avassutapariyāyaṁ...anavassutapariyāyaṁ", "&ldquo;the "
+             "explanation of the festering and the not "
+             "festering&rdquo; &mdash; Mahāmoggallāna's own stated "
+             "subject, giving this discourse its title"),
+        ("kāyagatāya satiyā anupaṭṭhitāya parittacetaso", "&ldquo;"
+             "mindfulness of the body unestablished and their heart "
+             "stunted&rdquo; &mdash; the defining condition of "
+             "someone festering, at each of the six sense doors"),
+        ("naḷāgārena vā tiṇāgārena vā... sukkhena kotthena", "the "
+             "dried-out reed-or-straw house &mdash; ignitable from "
+             "any of six directions, glossed as the festering "
+             "mendicant's own vulnerability at each sense door"),
+        ("kūṭāgārena... allena mattikālepanena", "the bungalow or "
+             "hall of thick, still-wet clay &mdash; unable to be "
+             "ignited from any direction, glossed as the "
+             "not-festering mendicant's own security"),
+        ("sādhu sādhu, moggallāna", "&ldquo;good, good, "
+             "Moggallāna!&rdquo; &mdash; the Buddha's own direct "
+             "approval on rising, confirming the teaching just given "
+             "in his place"),
+    ],
+    text_intro=("The complete discourse: the Sakyans' town hall "
+        "narrative, the Buddha's handoff to Mahāmoggallāna, and "
+        "Mahāmoggallāna's own matched teaching on festering and not "
+        "festering. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.243:1.1-1.8"),
+        ("p", "&sect;2", "sn35.243:2.1-2.10"),
+        ("p", "&sect;3", "sn35.243:3.1-3.15"),
+        ("p", "&sect;4", "sn35.243:4.1-4.12"),
+        ("p", "&sect;5", "sn35.243:5.1-5.19"),
+        ("p", "&sect;6", "sn35.243:6.1-6.11"),
+        ("p", "&sect;7", "sn35.243:7.1-7.18"),
+        ("p", "&sect;8", "sn35.243:8.1-9.3"),
+    ],
+    quiz=[
+        {"q": "What do the Sakyans of Kapilavatthu ask of the Buddha at the discourse's opening?",
+         "opts": ["That he be the first to use their newly built town hall, before any other ascetic, brahmin, or layperson", "That he settle a dispute between two Sakyan clans", "That he ordain a specific relative of theirs", "That he relocate permanently to Kapilavatthu"],
+         "correct": 0,
+         "expl": "\"For the lasting welfare and happiness of the Sakyans of Kapilavatthu\" — a request the Buddha consents to with silence."},
+        {"q": "Why does the Buddha ask Mahāmoggallāna to take over the teaching?",
+         "opts": ["His back is sore and he wishes to stretch it and rest", "He has lost his voice from teaching too long", "He wants to test Mahāmoggallāna's own teaching ability", "The text gives no reason"],
+         "correct": 0,
+         "expl": "\"My back is sore, I'll stretch it\" — stated plainly, followed by the Buddha lying down in the lion's posture."},
+        {"q": "What defines someone \"festering\" at a sense door, according to Mahāmoggallāna?",
+         "opts": ["Holding on to what's pleasant, disliking what's unpleasant, with mindfulness of the body unestablished", "Excessive fasting and self-mortification", "An inability to concentrate during meditation", "Speaking too much in the company of laypeople"],
+         "correct": 0,
+         "expl": "The same formula is applied identically across all six senses."},
+        {"q": "What simile illustrates someone \"festering\"?",
+         "opts": ["A dried-out reed-or-straw house that a torch can ignite from any of six directions", "A boat with a hole in its hull", "A tree with rotten roots", "A lamp that has run out of oil"],
+         "correct": 0,
+         "expl": "The six directions (east, west, north, south, below, above) match the six sense doors it fails to guard."},
+        {"q": "How does the discourse confirm Mahāmoggallāna's teaching at its close?",
+         "opts": ["The Buddha rises and says \"Good, good, Moggallāna!\", and the assembly approves", "The Buddha corrects several points Mahāmoggallāna got wrong", "The discourse ends abruptly with no confirmation", "Another senior disciple is called to verify the teaching"],
+         "correct": 0,
+         "expl": "\"This is what Venerable Mahāmoggallāna said, and the teacher approved. Satisfied, the mendicants approved.\""},
+    ],
+    marginalia=[
+        ("A hall offered first to the Buddha", [
+            "carpets, seats, a lamp, a jar —",
+            "prepared before he ever arrives",
+        ]),
+        ("A sore back, a deliberate handoff", [
+            "\"I'll stretch it,\" plainly said —",
+            "Moggallāna teaches in his place",
+        ]),
+        ("Six senses, six directions, one house", [
+            "dried reed catches fire from anywhere —",
+            "wet clay from nowhere at all",
+        ]),
+        ("The same structure, every term reversed", [
+            "holding on becomes not holding on —",
+            "festering becomes its exact opposite",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.243/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.242.html">SN 35.242 &middot; The Simile of '
+        "the Tree Trunk (2nd)</a> &mdash; the previous discourse.",
+        '<a href="sn-35.244.html">SN 35.244 &middot; Entailing '
+        "Suffering</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.244 — Dukkhadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 244, "Dukkhadhamma", "Entailing Suffering",
+    vagga="Āsīvisavagga",
+    meta_title="SN 35.244 &mdash; Entailing Suffering | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dukkhadhammasutta &mdash; sensual pleasures as a pit of "
+        "glowing coals, the world's pleasant things as thorns, and a "
+        "mind as unmovable toward a lesser life as the Ganges is "
+        "toward the sea. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "Two questions unpacked in turn, each with its own "
+                 "simile, followed by a restraint/non-restraint "
+                 "pairing and a closing simile of unshakeable "
+                 "direction"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "four distinct similes woven into one "
+                       "argument"),
+    ],
+    why=(
+        "This discourse opens by naming a single achievement "
+        "&mdash; truly understanding the origin and disappearance of "
+        "&ldquo;all things that entail suffering&rdquo; (the five "
+        "aggregates) &mdash; and then unpacks two things this "
+        "understanding produces: seeing sensual pleasures with no "
+        "underlying tendency toward them, and living in a way bad "
+        "qualities can't overwhelm. Each receives its own simile: "
+        "sensual pleasures compared to a pit of glowing coals that a "
+        "person struggles against being dragged into even against "
+        "their will, and worldly pleasantness compared to walking "
+        "through a thicket of thorns, needing constant mindfulness "
+        "in every direction. A closing image compares a mendicant's "
+        "settled mind to the Ganges river itself: a crowd trying to "
+        "reverse its course with spades and baskets would only tire "
+        "themselves out."
+    ),
+    guide=[
+        ("One understanding, two consequences", [
+            "The discourse's own structure is careful: first it "
+            "names the shared foundation (truly understanding the "
+            "five aggregates' arising and ceasing), then treats "
+            "seeing sensual pleasures rightly and living without "
+            "being overwhelmed as two separate, sequential questions "
+            "built on that same foundation, each unpacked with its "
+            "own simile rather than left as abstract claims.",
+        ]),
+        ("A pit of coals, and a struggle even against instinct", [
+            "The person dragged toward the pit of glowing coals by "
+            "two strong men &ldquo;writhes and struggles to and "
+            "fro,&rdquo; not out of choice but because they know "
+            "&ldquo;if I fall in that pit... that will result in my "
+            "death.&rdquo; The simile pictures aversion to sensual "
+            "pleasure not as a preference but as something closer to "
+            "an instinctive, bodily resistance to mortal danger.",
+        ]),
+        ("A thicket of thorns in every direction", [
+            "The image of thorns before and behind, left and right, "
+            "below and above, glosses &ldquo;whatever in the world "
+            "seems nice and pleasant&rdquo; as itself a thorn "
+            "&mdash; not a trap hidden among pleasant things, but "
+            "pleasantness itself named as the hazard, requiring "
+            "mindful movement in every direction at once.",
+        ]),
+        ("A river that cannot be turned by a crowd with tools", [
+            "The closing simile pictures a large crowd trying to "
+            "reverse the Ganges' own eastward flow with spades and "
+            "baskets, doomed only to exhaust themselves. Applied to "
+            "a mendicant whose mind has long inclined toward "
+            "seclusion, the same futility describes any attempt "
+            "&mdash; even from family, friends, or rulers offering "
+            "wealth &mdash; to draw them back to a lesser life.",
+        ]),
+    ],
+    terms=[
+        ("sabbesaṁyeva dukkhadhammānaṁ samudayañca atthaṅgamañca",
+             "&ldquo;the origin and disappearance of all things that "
+             "entail suffering&rdquo; &mdash; the shared foundation "
+             "this discourse's own title names, referring to the "
+             "five aggregates"),
+        ("aṅgārakāsūpamā kāmā", "sensual pleasures compared to a pit "
+             "of glowing coals &mdash; deeper than a person's own "
+             "height, neither flaming nor smoking, yet still lethal"),
+        ("ariyassa vinaye kaṇṭako", "&ldquo;a thorn in the training "
+             "of the Noble One&rdquo; &mdash; the discourse's own "
+             "term for whatever in the world seems nice and pleasant"),
+        ("iticīticeva kāyaṁ sannāmeyya", "&ldquo;they'd writhe and "
+             "struggle to and fro&rdquo; &mdash; the involuntary "
+             "physical resistance of the person being dragged toward "
+             "the coal pit"),
+        ("dīgharattaṁ vivekaninnaṁ vivekapoṇaṁ vivekapabbhāraṁ", "a "
+             "mind that has &ldquo;for a long time... slanted, "
+             "sloped, and inclined to seclusion&rdquo; &mdash; the "
+             "closing simile's own basis for comparison with the "
+             "Ganges' unshakeable eastward course"),
+    ],
+    text_intro=("The complete discourse: the shared foundation, the "
+        "coal-pit and thicket-of-thorns similes, the restraint/"
+        "non-restraint pairing, and the closing Ganges simile. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.244:1.1-1.3"),
+        ("p", "&sect;2", "sn35.244:2.1-2.7"),
+        ("p", "&sect;3", "sn35.244:3.1-3.5"),
+        ("p", "&sect;4", "sn35.244:4.1-4.4"),
+        ("p", "&sect;5", "sn35.244:5.1-5.7"),
+        ("p", "&sect;6", "sn35.244:6.1-6.7"),
+        ("p", "&sect;7", "sn35.244:7.1-8.8"),
+        ("p", "&sect;8", "sn35.244:9.1-9.15"),
+    ],
+    quiz=[
+        {"q": "What shared foundation does this discourse open by naming?",
+         "opts": ["Truly understanding the origin and disappearance of the five aggregates", "Mastery of the four jhānas", "Ordination under a qualified preceptor", "Memorizing the eightfold path in sequence"],
+         "correct": 0,
+         "expl": "Named as \"all things that entail suffering,\" giving the discourse its title, dukkhadhamma."},
+        {"q": "What does the pit-of-glowing-coals simile illustrate?",
+         "opts": ["An almost involuntary, bodily resistance to sensual pleasures once seen rightly", "The literal danger of walking near open fires", "A punishment reserved for unethical mendicants", "The four floods that carry beings along"],
+         "correct": 0,
+         "expl": "The person dragged toward the pit \"writhes and struggles,\" resisting out of something closer to instinct than deliberate choice."},
+        {"q": "What does the discourse name as \"a thorn in the training of the Noble One\"?",
+         "opts": ["Whatever in the world seems nice and pleasant", "Physical illness and old age", "Criticism from other ascetics", "Long journeys on foot"],
+         "correct": 0,
+         "expl": "Pleasantness itself, not something hidden among pleasant things, is named as the hazard."},
+        {"q": "What does the closing Ganges simile compare to a large crowd trying to reverse the river's course?",
+         "opts": ["Any attempt, even from family or rulers offering wealth, to draw a settled mendicant back to a lesser life", "The difficulty of learning the Dhamma without a teacher", "The impossibility of attaining full awakening in one lifetime", "A warning against traveling against the current on a river journey"],
+         "correct": 0,
+         "expl": "\"That large crowd will eventually get weary and frustrated\" — as futile as trying to redirect a mind long inclined to seclusion."},
+        {"q": "How does the person in the coal-pit simile resist, according to the text?",
+         "opts": ["Involuntarily, writhing and struggling to and fro, knowing it means death or deadly pain", "Calmly and deliberately reasoning through the danger", "Not at all — they walk into the pit willingly", "By calling out for help from bystanders"],
+         "correct": 0,
+         "expl": "\"They'd writhe and struggle to and fro\" — an instinctive resistance, not a calm choice."},
+    ],
+    marginalia=[
+        ("One foundation, two consequences", [
+            "the five aggregates, understood —",
+            "sensual pleasures seen rightly, and more",
+        ]),
+        ("A pit that resists no argument", [
+            "writhing, struggling, even unwilled —",
+            "resistance closer to instinct than choice",
+        ]),
+        ("Pleasantness itself, the thorn", [
+            "not hidden among nice things —",
+            "the nice thing itself, named the hazard",
+        ]),
+        ("A river no crowd can reverse", [
+            "spades and baskets, exhausted in vain —",
+            "a settled mind, just as unmovable",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.244/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.243.html">SN 35.243 &middot; The Explanation '
+        "on the Festering</a> &mdash; the previous discourse.",
+        '<a href="sn-35.245.html">SN 35.245 &middot; The Simile of '
+        "the Parrot Tree</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.245 — Kiṁsukopamasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 245, "Kiṁsukopama", "The Simile of the Parrot Tree",
+    vagga="Āsīvisavagga",
+    meta_title="SN 35.245 &mdash; The Simile of the Parrot Tree | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kiṁsukopamasutta &mdash; four mendicants describe a "
+        "tree they've each partly seen, four answers about "
+        "purified vision, and a citadel with six gates guarded by a "
+        "single gatekeeper. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "A series of unnamed mendicants, then the "
+                      "Buddha"),
+        ("Form", "A framing question repeated across five "
+                 "increasingly frustrated attempts, an embedded "
+                 "parable within the Buddha's own answer, and a "
+                 "closing decoded citadel simile"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "two nested similes answering one question"),
+    ],
+    why=(
+        "A mendicant asks, &ldquo;At what point is a mendicant's "
+        "vision well purified?&rdquo; and receives four different "
+        "answers from four different mendicants &mdash; understanding "
+        "the six fields of contact, the five grasping aggregates, "
+        "the four principal states, or simply that everything liable "
+        "to arise is liable to cease. Not content with any of them, "
+        "he takes the question to the Buddha, who answers with two "
+        "nested similes: people who have each seen only part of a "
+        "kiṁsuka tree (a parrot tree, known for its bright red "
+        "flowers) each describe it differently and are each partly "
+        "right, and a fortified citadel with six gates receives "
+        "identical true messages from four directions no matter "
+        "which gate the messenger enters."
+    ),
+    guide=[
+        ("Four answers, none of them wrong", [
+            "The Buddha's own resolution doesn't declare any of the "
+            "four mendicants' answers mistaken; instead, the parrot-"
+            "tree simile explains why several different, apparently "
+            "conflicting descriptions can each be accurate: someone "
+            "who saw the tree only as a &ldquo;blackish, charred "
+            "stump,&rdquo; another who saw it reddish &ldquo;like a "
+            "scrap of meat,&rdquo; another who saw its flaking bark "
+            "&ldquo;like a lebbeck tree,&rdquo; and another who saw "
+            "its shady foliage &ldquo;like a banyan&rdquo; were each "
+            "simply describing the tree as it appeared to them at "
+            "that particular time.",
+        ]),
+        ("Focused on what they were focused on", [
+            "The Buddha's own gloss is precise: &ldquo;those true "
+            "persons each answered according to what they were "
+            "focused on when their vision was well purified&rdquo; "
+            "&mdash; the four earlier mendicants' answers (contact, "
+            "aggregates, elements, impermanence) are treated as four "
+            "genuine angles on the same purified vision, not four "
+            "competing claims to be adjudicated.",
+        ]),
+        ("A citadel with six gates and one gatekeeper", [
+            "The second simile answers the same question from a "
+            "different structural angle: a fortified citadel with "
+            "six gates, an astute gatekeeper who keeps strangers out "
+            "and lets known people in, and swift messenger pairs "
+            "arriving from all four directions to deliver "
+            "&ldquo;a message of truth&rdquo; to the city's lord at "
+            "its central square.",
+        ]),
+        ("A decode naming the body itself as the city", [
+            "The Buddha's own closing decode identifies the city as "
+            "this body itself, &ldquo;produced by mother and father... "
+            "liable to breaking up and destruction&rdquo;; the six "
+            "gates as the six interior sense fields; the gatekeeper "
+            "as mindfulness; the messengers as serenity and "
+            "discernment; the lord of the city as consciousness; the "
+            "central square as the four elements; the message of "
+            "truth as extinguishment; and the messengers' own return "
+            "route as the noble eightfold path.",
+        ]),
+    ],
+    terms=[
+        ("kiṁsuka", "the parrot tree &mdash; known for its bright "
+             "red flowers, described differently by each person who "
+             "has seen only part of it at a different time"),
+        ("yathāsakaṁ manasikāraṁ byākaṁsu", "&ldquo;those true "
+             "persons each answered according to what they were "
+             "focused on&rdquo; &mdash; the Buddha's own gloss "
+             "reconciling the four earlier, seemingly conflicting "
+             "answers"),
+        ("channaṁ dvārānaṁ nagaraṁ", "a citadel with six gates "
+             "&mdash; the second simile's own central image, "
+             "glossed as this body and its six interior sense fields"),
+        ("dovāriko", "the gatekeeper &mdash; &ldquo;astute, "
+             "competent, and clever,&rdquo; who keeps strangers out "
+             "and lets known people in, glossed as mindfulness"),
+        ("saccaṁ vacanaṁ", "&ldquo;a message of truth&rdquo; "
+             "&mdash; what the swift messengers deliver to the "
+             "city's lord, glossed as extinguishment (nibbāna) "
+             "itself"),
+    ],
+    text_intro=("The complete discourse: the repeated question and "
+        "its four earlier answers, the parrot-tree simile, and the "
+        "citadel-with-six-gates simile and its decode. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.245:1.1-1.3"),
+        ("p", "&sect;2", "sn35.245:2.1-2.3"),
+        ("p", "&sect;3", "sn35.245:3.1-4.3"),
+        ("p", "&sect;4", "sn35.245:5.1-5.12"),
+        ("p", "&sect;5", "sn35.245:6.1-7.16"),
+        ("p", "&sect;6", "sn35.245:8.1-8.14"),
+        ("p", "&sect;7", "sn35.245:9.1-9.12"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha treat the four mendicants' different answers about purified vision?",
+         "opts": ["As four genuine angles on the same purified vision, each accurate to what that person was focused on", "As three correct answers and one mistaken one", "As entirely wrong, replaced by his own single correct answer", "As a test the mendicants failed by disagreeing"],
+         "correct": 0,
+         "expl": "\"Those true persons each answered according to what they were focused on when their vision was well purified.\""},
+        {"q": "What does the parrot-tree simile illustrate?",
+         "opts": ["That people who have seen only part of something at different times can each describe it accurately yet differently", "That parrot trees are dangerous and should be avoided", "That vision itself is an unreliable sense faculty", "That trees are a poor subject for meditation similes"],
+         "correct": 0,
+         "expl": "Blackish stump, reddish meat-scrap, flaking bark, shady foliage — each description matched the tree as that person actually saw it."},
+        {"q": "What does the citadel's gatekeeper represent in the second simile's decode?",
+         "opts": ["Mindfulness", "The Buddha himself", "The six exterior sense fields", "Ethical conduct"],
+         "correct": 0,
+         "expl": "\"'Gatekeeper' is a term for mindfulness\" — astute, competent, and clever, admitting only what is known."},
+        {"q": "What does \"a message of truth,\" delivered by the swift messengers, represent?",
+         "opts": ["Extinguishment (nibbāna)", "The five aggregates", "A warning of approaching danger", "The Buddha's own teaching in general"],
+         "correct": 0,
+         "expl": "Delivered to the city's lord (consciousness) at the central square (the four elements)."},
+        {"q": "What does the decode identify \"the way they came\" — the messengers' own return route — as?",
+         "opts": ["The noble eightfold path", "The six exterior sense fields", "The four floods", "The path back to lay life"],
+         "correct": 0,
+         "expl": "Named outright, with all eight factors listed, just as in SN 35.238's own raft simile."},
+    ],
+    marginalia=[
+        ("Four descriptions, none of them wrong", [
+            "a stump, a scrap of meat, bark, foliage —",
+            "each true to what was actually seen",
+        ]),
+        ("Focused on what they focused on", [
+            "not four competing claims —",
+            "four genuine angles on one thing",
+        ]),
+        ("Six gates, one gatekeeper", [
+            "strangers kept out, the known let in —",
+            "mindfulness at the body's own threshold",
+        ]),
+        ("A body named a city outright", [
+            "produced by mother and father —",
+            "liable to breaking up and destruction",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.245/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.244.html">SN 35.244 &middot; Entailing '
+        "Suffering</a> &mdash; the previous discourse.",
+        '<a href="sn-35.238.html">SN 35.238 &middot; The Simile of '
+        "the Vipers</a> &mdash; already published on this site, "
+        "whose own decode names the noble eightfold path in the "
+        "identical wording used here for the messengers' return "
+        "route.",
+        '<a href="sn-35.246.html">SN 35.246 &middot; The Simile of '
+        "the Harp</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.246 — Vīṇopamasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 246, "Vīṇopama", "The Simile of the Harp",
+    vagga="Āsīvisavagga",
+    meta_title="SN 35.246 &mdash; The Simile of the Harp | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vīṇopamasutta &mdash; a king who smashes an arched harp "
+        "searching for its sound, and an ox that stops raiding crops "
+        "only after learning what a beating feels like. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A direct instruction to shield the mind, two "
+                 "agricultural similes about an ox and ripened "
+                 "crops, and a closing simile of a king dismantling "
+                 "a harp"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "three similes building toward one "
+                       "conclusion"),
+    ],
+    why=(
+        "This discourse opens with a direct instruction: when desire, "
+        "greed, hatred, delusion, or aversion arises for any of the "
+        "six senses, a mendicant should shield the mind by naming the "
+        "path they're on as &ldquo;dangerous and perilous, thorny and "
+        "tangled... not worthy of you.&rdquo; Two similes about an ox "
+        "raiding ripened crops contrast a negligent caretaker who "
+        "lets the ox indulge freely with a diligent one who "
+        "repeatedly disciplines it until it never returns. The "
+        "discourse then closes with its own most memorable image: a "
+        "king who, hearing an arched harp for the first time, insists "
+        "on having &ldquo;just the sound&rdquo; itself fetched to "
+        "him, and when told this is impossible, smashes the "
+        "instrument into pieces, burns the splinters, and scatters "
+        "the ashes &mdash; concluding there was never anything to "
+        "the harp at all."
+    ),
+    guide=[
+        ("Shielding the mind with a named judgment", [
+            "The opening instruction is a specific verbal formula, "
+            "not a vague resolve: naming the path itself &ldquo;a "
+            "wrong turn, a bad path, in poor condition,&rdquo; "
+            "frequented by untrue persons, and declaring it "
+            "&ldquo;not worthy of you&rdquo; &mdash; run identically "
+            "for all six senses.",
+        ]),
+        ("An ox, disciplined until it remembers the beating", [
+            "The diligent caretaker doesn't merely chase the ox away "
+            "once; the text specifies a second and even a third "
+            "repetition of grabbing it by the muzzle, holding it by "
+            "the hump, and giving it &ldquo;a good thrashing&rdquo; "
+            "before it finally learns, through memory of the pain, "
+            "never to return &mdash; paralleled by a mendicant's mind "
+            "becoming genuinely stilled and immersed in samādhi only "
+            "through repeated, not single, restraint at the six "
+            "fields of contact.",
+        ]),
+        ("A king who wants the sound without the harp", [
+            "The king's demand &mdash; &ldquo;I've had enough of "
+            "that arched harp! Just fetch me the sound&rdquo; "
+            "&mdash; treats the sound as something separable from "
+            "the instrument that produces it, a category error the "
+            "simile deliberately sets up before dismantling it.",
+        ]),
+        ("Searching for the aggregates, and finding nothing to hold",
+         [
+            "The harp, explained as &ldquo;made of many components "
+            "assembled together... the soundbox, the leather "
+            "resonator, the neck, the tuning cords, the strings, the "
+            "plectrum, and a person to play it,&rdquo; is directly "
+            "compared to a mendicant searching for form, feeling, "
+            "perception, choices, and consciousness &ldquo;anywhere "
+            "they might be reborn&rdquo; and finding, at the end of "
+            "the search, that ideas of &ldquo;I&rdquo; or "
+            "&ldquo;mine&rdquo; or &ldquo;I am&rdquo; are no more "
+            "&mdash; just as there was, in the end, nothing separable "
+            "called an arched harp.",
+        ]),
+    ],
+    terms=[
+        ("cittaṁ nivāretabbaṁ", "&ldquo;the mind should be "
+             "shielded&rdquo; &mdash; the discourse's own opening "
+             "instruction, run identically across all six senses"),
+        ("kummaggo ca duhitiko ca", "&ldquo;a wrong turn, a bad "
+             "path, in poor condition&rdquo; &mdash; part of the "
+             "exact verbal formula used to name and reject the path "
+             "of desire, greed, hatred, delusion, or aversion"),
+        ("gopālako appamatto", "the diligent caretaker &mdash; who "
+             "repeatedly disciplines the crop-raiding ox until it "
+             "never returns, paralleled with genuine stilling of the "
+             "mind through repeated restraint"),
+        ("saddameva me āharā'ti", "&ldquo;just fetch me the "
+             "sound&rdquo; &mdash; the king's own impossible demand, "
+             "treating the harp's sound as separable from the "
+             "instrument"),
+        ("ahanti vā mamanti vā asmīti vā", "&ldquo;I,&rdquo; "
+             "&ldquo;mine,&rdquo; or &ldquo;I am&rdquo; &mdash; the "
+             "ideas the discourse says are &ldquo;no more&rdquo; once "
+             "the search through the five aggregates finds nothing "
+             "to hold, exactly as no separable harp survives the "
+             "king's own search"),
+    ],
+    text_intro=("The complete discourse: the shielding instruction, "
+        "the two ox-and-crops similes, and the closing harp simile. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.246:1.1-1.11"),
+        ("p", "&sect;2", "sn35.246:2.1-2.3"),
+        ("p", "&sect;3", "sn35.246:3.1-3.14"),
+        ("p", "&sect;4", "sn35.246:4.1-4.29"),
+    ],
+    quiz=[
+        {"q": "What verbal formula does this discourse instruct a mendicant to use to shield the mind?",
+         "opts": ["Naming the path of desire or aversion as \"dangerous and perilous... not worthy of you\"", "Reciting the four noble truths from memory", "Requesting the help of a senior mendicant immediately", "Counting the breath until the feeling passes"],
+         "correct": 0,
+         "expl": "Run identically across all six senses whenever desire, greed, hatred, delusion, or aversion arises."},
+        {"q": "How does the diligent caretaker eventually stop the ox from raiding the crops?",
+         "opts": ["Through repeated discipline — a second and third thrashing — until the ox remembers the pain and never returns", "By building a fence around the crops", "By giving the ox food elsewhere so it loses interest", "The diligent caretaker never succeeds in this discourse"],
+         "correct": 0,
+         "expl": "Not a single correction but a repeated one, paralleled with genuine stilling of the mind through repeated restraint."},
+        {"q": "What does the king demand after first hearing the harp's sound?",
+         "opts": ["That just the sound itself, separate from the instrument, be fetched to him", "That the harp be given to him as a gift", "That the musician be brought to the palace permanently", "That the harp be copied and reproduced"],
+         "correct": 0,
+         "expl": "\"I've had enough of that arched harp! Just fetch me the sound\" — treating the sound as separable from its source."},
+        {"q": "What does the king conclude after smashing the harp and finding no separable sound within it?",
+         "opts": ["That there was never anything to \"an arched harp\" at all, and people waste their time with it", "That the harp must be rebuilt using better materials", "That the sound had already escaped before he could catch it", "That musicians deceive their audiences"],
+         "correct": 0,
+         "expl": "\"It seems that there's nothing to this thing called an arched harp!\" — a search that finds no separable essence."},
+        {"q": "What does the harp simile directly parallel in a mendicant's own search?",
+         "opts": ["Searching for form, feeling, perception, choices, and consciousness and finding no \"I,\" \"mine,\" or \"I am\"", "Searching for a qualified meditation teacher", "Searching for the four noble truths in written scripture", "Searching for the ideal location to build a monastery"],
+         "correct": 0,
+         "expl": "Just as no separable harp survives the king's search, no \"I\" or \"mine\" survives the search through the five aggregates."},
+    ],
+    marginalia=[
+        ("A path named, and rejected outright", [
+            "\"not worthy of you\" —",
+            "the same formula, all six senses",
+        ]),
+        ("An ox that needs more than one lesson", [
+            "a second thrashing, then a third —",
+            "restraint repeated, not restraint once",
+        ]),
+        ("A king who wants the sound alone", [
+            "separate from the instrument itself —",
+            "an impossible request, deliberately set up",
+        ]),
+        ("Nothing separable, in the end", [
+            "no harp survives the search —",
+            "no \"I\" survives it either",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.246/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.245.html">SN 35.245 &middot; The Simile of '
+        "the Parrot Tree</a> &mdash; the previous discourse.",
+        '<a href="sn-35.247.html">SN 35.247 &middot; The Simile of '
+        "Six Animals</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.247 — Chappāṇakopamasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 247, "Chappāṇakopama", "The Simile of Six Animals",
+    vagga="Āsīvisavagga",
+    meta_title="SN 35.247 &mdash; The Simile of Six Animals | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Chappāṇakopamasutta &mdash; six animals with six "
+        "different domains, tied together and let loose, each "
+        "pulling toward its own territory until exhaustion sets in. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A thorn-thicket opening, a restraint/non-restraint "
+                 "pairing, and a matched pair of six-animal similes "
+                 "differing only in the ending"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a vivid image, repeated with one changed "
+                       "outcome"),
+    ],
+    why=(
+        "A person with wounded, festering limbs who enters a thicket "
+        "of reeds only makes their own pain worse &mdash; the "
+        "discourse's own opening image for a mendicant scolded as a "
+        "&ldquo;filthy village thorn.&rdquo; The main simile that "
+        "follows imagines six different animals (a snake, a dolphin, "
+        "a bird, a dog, a jackal, and a monkey), each with its own "
+        "distinct territory, caught and tied together by a single "
+        "rope. Told once with the animals simply released and once "
+        "with the rope tethered to a strong post, the same setup "
+        "produces two opposite outcomes: in the first telling, "
+        "whichever animal is strongest eventually drags the rest "
+        "into its own domain; in the second, all six eventually "
+        "settle down right where the post is planted."
+    ),
+    guide=[
+        ("A wound made worse by the wrong path", [
+            "The reed-thicket image at the opening (kusa thorns "
+            "piercing the feet, reed leaves scratching the limbs) "
+            "sets up a mendicant already vulnerable &mdash; "
+            "&ldquo;wounded and festering&rdquo; &mdash; being "
+            "criticized and made to suffer further, before the "
+            "discourse turns to its own main simile.",
+        ]),
+        ("Six domains, six different pulls", [
+            "Each animal thinks only of its own territory the "
+            "instant it's released: the snake toward a termite "
+            "mound, the dolphin toward water, the bird toward the "
+            "sky, the dog toward the village, the jackal toward the "
+            "charnel ground, and the monkey toward the jungle "
+            "&mdash; a direct parallel, the discourse states plainly, "
+            "to the eye pulling toward pleasant sights and each of "
+            "the other five senses pulling the same way toward its "
+            "own pleasant objects.",
+        ]),
+        ("Without a post, the strongest one wins", [
+            "When the six animals are simply tied together and "
+            "released, exhaustion doesn't produce peace: it produces "
+            "submission to whichever animal happens to be strongest, "
+            "matched directly to a mendicant whose eye and other "
+            "senses, when mindfulness of the body is undeveloped, "
+            "simply pull toward whatever is most pleasant and shy "
+            "from whatever is not.",
+        ]),
+        ("The same six animals, now settled by one post", [
+            "The second telling changes only one detail &mdash; the "
+            "rope is tethered to &ldquo;a strong post or pillar&rdquo; "
+            "&mdash; and the outcome inverts completely: all six "
+            "animals eventually stand, sit, or lie down right beside "
+            "it, exactly as a mendicant's six senses, once "
+            "mindfulness of the body is developed and cultivated, "
+            "stop pulling toward the pleasant and shying from the "
+            "unpleasant. The discourse's own closing line names the "
+            "post directly: &ldquo;a strong post or pillar is a term "
+            "for mindfulness of the body.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("bahukaṇṭakaṁ dāyaṁ", "a thicket full of thorns &mdash; "
+             "entered by a person already wounded, its thorns before "
+             "and behind, left and right, below and above"),
+        ("chappāṇakā nānāvisayā nānāgocarā", "&ldquo;six animals, "
+             "with diverse territories and feeding grounds&rdquo; "
+             "&mdash; a snake, a dolphin, a bird, a dog, a jackal, "
+             "and a monkey, each pulling toward its own domain"),
+        ("yo nesaṁ pāṇakānaṁ balavataro", "&ldquo;the strongest of "
+             "them&rdquo; &mdash; whichever animal the other five "
+             "are forced to submit to once exhausted, when the rope "
+             "is simply released rather than tethered"),
+        ("daḷhe thambhe vā khīle vā upanibandheyya", "&ldquo;tether "
+             "them to a strong post or pillar&rdquo; &mdash; the one "
+             "change between the two tellings, producing an entirely "
+             "different outcome"),
+        ("kāyagatāsati", "mindfulness of the body &mdash; what the "
+             "discourse's own closing line names the post itself, "
+             "the single quality that settles all six senses"),
+    ],
+    text_intro=("The complete discourse: the thorn-thicket opening, "
+        "the restraint/non-restraint pairing, and both tellings of "
+        "the six-animals simile. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.247:1.1-1.6"),
+        ("p", "&sect;2", "sn35.247:2.1-2.9"),
+        ("p", "&sect;3", "sn35.247:3.1-3.14"),
+        ("p", "&sect;4", "sn35.247:4.1-4.6"),
+        ("p", "&sect;5", "sn35.247:5.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What six animals does the main simile involve?",
+         "opts": ["A snake, a dolphin, a bird, a dog, a jackal, and a monkey", "A tiger, a fish, an eagle, a wolf, a fox, and a gorilla", "Six unnamed generic animals", "A snake, a lizard, a fish, a cat, a rat, and an ox"],
+         "correct": 0,
+         "expl": "Each with its own distinct territory: a termite mound, water, the sky, the village, the charnel ground, and the jungle."},
+        {"q": "What happens when the six tied-together animals are simply released without a post?",
+         "opts": ["Whichever animal is strongest eventually drags the rest into its own domain", "All six calmly agree to compromise on a shared domain", "The rope breaks and all six escape freely", "The animals fall asleep from exhaustion and nothing further happens"],
+         "correct": 0,
+         "expl": "Exhaustion produces submission to the strongest, not peace — paralleling undeveloped mindfulness of the body."},
+        {"q": "What single change distinguishes the second telling of the simile from the first?",
+         "opts": ["The rope is tethered to a strong post or pillar instead of simply released", "A seventh animal is added to the group", "The animals are released one at a time instead of together", "The setting changes from a village to a forest"],
+         "correct": 0,
+         "expl": "One detail changed, producing an entirely different, opposite outcome."},
+        {"q": "What does the discourse's own closing line identify the strong post or pillar as?",
+         "opts": ["Mindfulness of the body", "The Buddha himself", "The noble eightfold path", "The five precepts"],
+         "correct": 0,
+         "expl": "\"'A strong post or pillar' is a term for mindfulness of the body\" — stated directly at the close."},
+        {"q": "What does the six animals pulling toward six domains represent?",
+         "opts": ["The six senses each pulling toward what is pleasant to them and shying from what is not", "Six different schools of ascetic practice competing for followers", "The six realms of rebirth in Buddhist cosmology", "Six stages of meditative absorption"],
+         "correct": 0,
+         "expl": "Stated plainly: the eye pulls toward pleasant sights, and each of the other five senses pulls the same way."},
+    ],
+    marginalia=[
+        ("A wound made worse by thorns", [
+            "already festering, then scratched further —",
+            "the setup before the main simile begins",
+        ]),
+        ("Six ropes, six different pulls", [
+            "a termite mound, water, the sky —",
+            "each animal toward its own domain",
+        ]),
+        ("Exhaustion without a post", [
+            "the strongest one wins, not peace —",
+            "undeveloped mindfulness, the same outcome",
+        ]),
+        ("One post, six animals settled", [
+            "one detail changed, one word named —",
+            "mindfulness of the body, stated outright",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.247/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.246.html">SN 35.246 &middot; The Simile of '
+        "the Harp</a> &mdash; the previous discourse.",
+        '<a href="sn-35.248.html">SN 35.248 &middot; The Sheaf of '
+        "Barley</a> &mdash; the next and final discourse of "
+        "Āsīvisavagga, closing Saḷāyatanasaṃyutta itself.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.248 — Yavakalāpisutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 248, "Yavakalāpi", "The Sheaf of Barley",
+    vagga="Āsīvisavagga",
+    meta_title="SN 35.248 &mdash; The Sheaf of Barley | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Yavakalāpisutta &mdash; a threshed sheaf of barley, "
+        "Vepacitti bound by his own thoughts, and a fivefold "
+        "declaration against conceiving, closing Āsīvisavagga, its "
+        "own paṇṇāsaka, and Saḷāyatanasaṃyutta itself, 248 "
+        "discourses and 19 vaggas. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A threshing simile, a narrative simile of the gods "
+                 "and titans, and a fivefold declaration against "
+                 "self-referential thought, closed by a five-layer "
+                 "nested colophon"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "three distinct teachings, plus a colophon "
+                       "worth reading as closely as the sutta itself"),
+    ],
+    why=(
+        "This discourse closes three nested structures at once: "
+        "Āsīvisavagga itself (SN 35.238&ndash;248, this book's "
+        "nineteenth and final vagga), the fourth and final "
+        "paṇṇāsaka of Saḷāyatanasaṃyutta (SN 35.156&ndash;248, four "
+        "vaggas rather than the five each of the first three "
+        "paṇṇāsakas ran), and Saḷāyatanasaṃyutta itself &mdash; 248 "
+        "discourses across 19 vaggas, the largest saṃyutta this "
+        "project has yet worked through. Its own content stands on "
+        "its own merits: an unlearned person struck by both pleasant "
+        "and unpleasant experience at all six senses is compared to "
+        "a sheaf of barley threshed by six flails and then, worse "
+        "still, a seventh; Vepacitti, lord of the titans, is shown "
+        "bound and freed by nothing but his own shifting loyalty, "
+        "illustrating a bond &ldquo;more subtle&rdquo; than any "
+        "physical one; and a fivefold declaration &mdash; conceived, "
+        "perturbed, trembled, proliferated, and gone to conceit "
+        "&mdash; applies the identical ninefold self-referential "
+        "formula (&ldquo;I am,&rdquo; &ldquo;I am this,&rdquo; "
+        "&ldquo;I will be&rdquo;...) five times over, each time "
+        "closing with the same three-word diagnosis: &ldquo;a "
+        "disease, a boil, a dart.&rdquo;"
+    ),
+    guide=[
+        ("A seventh thresh, worse than the first six", [
+            "The sheaf of barley threshed by six people is already "
+            "&ldquo;thoroughly threshed,&rdquo; yet a seventh "
+            "thresher makes it &ldquo;even more thoroughly "
+            "threshed&rdquo; still. The discourse applies this "
+            "directly to rebirth: an unlearned person already struck "
+            "at all six senses by both pleasant and unpleasant "
+            "experience is struck &ldquo;even more thoroughly&rdquo; "
+            "still if they intend to be reborn in a new state of "
+            "existence &mdash; craving for future existence adds a "
+            "seventh blow to an already complete threshing.",
+        ]),
+        ("A bond made and broken by nothing but a thought", [
+            "Vepacitti, lord of the titans, is bound by his limbs and "
+            "neck after losing a battle to Sakka, lord of the gods "
+            "&mdash; and yet the story's own turn comes entirely "
+            "from within: the instant Vepacitti thinks &ldquo;it's "
+            "the gods who are principled,&rdquo; he finds himself "
+            "free and enjoying heavenly pleasures; the instant he "
+            "thinks the titans are principled instead, he finds "
+            "himself bound again. No jailer moves him either way. "
+            "The discourse's own conclusion names this precisely: "
+            "&ldquo;the bonds of Māra are even more subtle than "
+            "that&rdquo; &mdash; conceiving itself is the bond, "
+            "conceiving's absence the only freedom.",
+        ]),
+        ("Five words, one formula, one refrain, five times over", [
+            "Conceived (maññita), perturbed (iñjita), trembled "
+            "(phandita), proliferated (papañcita), and gone to "
+            "conceit (mānagata) are each applied, in turn, to the "
+            "identical ninefold list &mdash; &ldquo;I am,&rdquo; "
+            "&ldquo;I am this,&rdquo; &ldquo;I will be,&rdquo; "
+            "&ldquo;I will not be,&rdquo; and onward through form, "
+            "formlessness, and the three modes of perception &mdash; "
+            "and each of the five closes with the identical "
+            "diagnosis, &ldquo;a disease, a boil, a dart,&rdquo; and "
+            "the identical resolve to train the heart free of "
+            "exactly that condition. Papañcita in particular names "
+            "the same conceptual proliferation (papañca) at the root "
+            "of one of the tradition's best-known diagnoses of how "
+            "concepts run away from direct experience &mdash; though "
+            "this project has not yet reached the text where that "
+            "term receives its fullest treatment, and offers no "
+            "specific cross-link here.",
+        ]),
+        ("A five-layer colophon, read without assuming any layer "
+         "in advance", [
+            "The untranslated Pali closes with, in order: "
+            "&ldquo;Ekādasamaṁ&rdquo; (this is the vagga's own "
+            "eleventh discourse); &ldquo;Āsīvisavaggo catuttho&rdquo; "
+            "(Āsīvisavagga is the fourth vagga of its own paṇṇāsaka "
+            "&mdash; not fifth, since unlike the first three "
+            "paṇṇāsakas of this saṃyutta, which each ran five "
+            "vaggas, this final one runs only four: Nandikkhaya, "
+            "Saṭṭhipeyyāla, Samudda, Āsīvisa); an uddāna naming all "
+            "eleven of this vagga's own discourses in sequence; "
+            "&ldquo;Saḷāyatanavagge catutthapaṇṇāsako samatto&rdquo; "
+            "(the fourth paṇṇāsaka of Saḷāyatanavagga is complete); "
+            "a second, higher uddāna naming all four vaggas of that "
+            "paṇṇāsaka by name (Nandikkhaya, the sixty-method "
+            "[Saṭṭhipeyyāla], Samudda, and &ldquo;with the "
+            "viper&rdquo; [Āsīvisa]); and finally, genuinely "
+            "translated by Sujato rather than left in Pali, "
+            "&ldquo;Saḷāyatanasaṁyuttaṁ samattaṁ&rdquo; &mdash; "
+            "&ldquo;The Linked Discourses on the six sense fields are "
+            "complete.&rdquo; No higher, book-level marker appears "
+            "here, and none is expected: unlike SN 34.55, which "
+            "closed Book III itself, Saḷāyatanasaṃyutta is only the "
+            "first of Book IV's ten saṃyuttas, with SN 36 still to "
+            "come.",
+        ]),
+    ],
+    terms=[
+        ("yavakalāpī cātumahāpathe", "a sheaf of barley placed at a "
+             "crossroads &mdash; threshed by six people, then a "
+             "seventh, giving this discourse its title"),
+        ("tato sukhumataraṁ mārabandhanaṁ", "&ldquo;the bonds of "
+             "Māra are even more subtle than that&rdquo; &mdash; the "
+             "discourse's own conclusion drawn from Vepacitti's story, "
+             "naming conceiving itself, not any physical restraint, "
+             "as the true bond"),
+        ("maññitaṁ...iñjitaṁ...phanditaṁ...papañcitaṁ...mānagataṁ",
+             "conceived, perturbed, trembled, proliferated, and gone "
+             "to conceit &mdash; five terms applied in strict "
+             "sequence to the identical ninefold self-referential "
+             "formula, each closing with the same refrain"),
+        ("rogo, gaṇḍo, sallaṁ", "&ldquo;a disease, a boil, a "
+             "dart&rdquo; &mdash; the identical three-word diagnosis "
+             "closing all five of the discourse's declarations"),
+        ("Saḷāyatanasaṁyuttaṁ samattaṁ", "&ldquo;the Linked "
+             "Discourses on the Six Sense Fields are complete&rdquo; "
+             "&mdash; this saṃyutta's own genuinely Sujato-translated "
+             "closing line, following four untranslated colophon "
+             "layers this reading guide describes rather than quotes"),
+    ],
+    text_intro=("The complete discourse, apart from the four "
+        "untranslated intervening colophon layers (the vagga's own "
+        "ordinal, its uddāna, the paṇṇāsaka-complete marker, and the "
+        "paṇṇāsaka's own higher uddāna), described rather than "
+        "quoted above, together with this saṃyutta's own genuinely "
+        "translated final line. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.248:1.1-1.11"),
+        ("p", "&sect;2", "sn35.248:2.1-2.17"),
+        ("p", "&sect;3", "sn35.248:3.1-3.4"),
+        ("p", "&sect;4", "sn35.248:4.1-4.4"),
+        ("p", "&sect;5", "sn35.248:5.1-5.4"),
+        ("p", "&sect;6", "sn35.248:6.1-6.4"),
+        ("p", "&sect;7", "sn35.248:7.1-7.4"),
+        ("p", "&sect;8", "sn35.248:9.5"),
+    ],
+    quiz=[
+        {"q": "What does the seventh thresher add to the already-threshed sheaf of barley?",
+         "opts": ["An even more thorough threshing, paralleling craving for future rebirth added to an already complete striking at all six senses", "Nothing — the seventh thresher is turned away", "A different type of grain entirely", "The seventh thresher undoes the previous six threshings"],
+         "correct": 0,
+         "expl": "\"That futile person is even more thoroughly struck\" — a seventh blow layered onto an already complete one."},
+        {"q": "What frees and rebinds Vepacitti in the story of the gods and titans?",
+         "opts": ["Nothing but his own shifting thought about which side is principled", "Sakka's direct intervention each time", "A ritual performed by the titans", "The passage of a fixed period of time"],
+         "correct": 0,
+         "expl": "Thinking the gods principled frees him; thinking the titans principled rebinds him — no external jailer acts either way."},
+        {"q": "What does the discourse conclude the bonds of Māra are, compared to Vepacitti's own binding?",
+         "opts": ["Even more subtle — conceiving itself is the bond, not conceiving the only freedom", "Identical in every respect", "Weaker and easier to break", "Entirely unrelated to Vepacitti's story"],
+         "correct": 0,
+         "expl": "\"The bonds of Māra are even more subtle than that. When you conceive, you're bound by Māra.\""},
+        {"q": "What five terms does the fivefold declaration apply to the same ninefold self-referential formula?",
+         "opts": ["Conceived, perturbed, trembled, proliferated, and gone to conceit", "Born, aged, sick, dying, and reborn", "Greedy, hateful, deluded, prideful, and doubtful", "Seen, heard, smelled, tasted, and touched"],
+         "correct": 0,
+         "expl": "Each of the five closes with the identical refrain: \"a disease, a boil, a dart.\""},
+        {"q": "What does this discourse's own vagga-level colophon, \"Āsīvisavaggo catuttho,\" state?",
+         "opts": ["That Āsīvisavagga is the fourth vagga of its own paṇṇāsaka, since this final paṇṇāsaka runs only four vaggas rather than five", "That this is the fourth discourse of Āsīvisavagga", "That Āsīvisavagga is the fourth vagga of the entire book", "The colophon carries no ordinal information"],
+         "correct": 0,
+         "expl": "Unlike the first three paṇṇāsakas of this saṃyutta, which each ran five vaggas, the fourth runs only four: Nandikkhaya, Saṭṭhipeyyāla, Samudda, Āsīvisa."},
+        {"q": "What does this discourse's own final, genuinely translated line say, and what does it NOT also announce?",
+         "opts": ["\"The Linked Discourses on the six sense fields are complete\" — with no higher book-level marker, since Book IV continues at SN 36", "\"The Book of the Six Sense Fields is finished,\" closing all of Book IV outright", "Nothing is translated; the entire close remains in Pali", "\"The training is now complete for all mendicants present\""],
+         "correct": 0,
+         "expl": "Unlike SN 34.55, which closed Book III itself, this discourse closes only Saḷāyatanasaṃyutta — the first of Book IV's ten saṃyuttas, with SN 36 still ahead."},
+    ],
+    marginalia=[
+        ("A seventh blow, not a fresh one", [
+            "already thoroughly threshed —",
+            "craving for rebirth strikes once more",
+        ]),
+        ("Bound by a thought, freed by another", [
+            "no jailer moves Vepacitti either way —",
+            "conceiving itself, the only chain",
+        ]),
+        ("Five words, one refrain repeated", [
+            "conceived, perturbed, trembled, proliferated, conceit —",
+            "each one \"a disease, a boil, a dart\"",
+        ]),
+        ("Four vaggas closing, not five", [
+            "catuttho, not pañcamo —",
+            "the pattern itself, finally broken",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.248/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.247.html">SN 35.247 &middot; The Simile of '
+        "Six Animals</a> &mdash; the previous discourse.",
+        '<a href="sn-34.55.html">SN 34.55 &middot; Persistence and '
+        "What&rsquo;s Conducive</a> &mdash; already published on "
+        "this site, the only other discourse in this project's "
+        "coverage so far to close a saṃyutta, a paṇṇāsaka or vagga "
+        "grouping, and a still-higher structure all at once.",
+        '<a href="sn-36.6.html">SN 36.6 &middot; An Arrow</a> '
+        "&mdash; already published on this site, standing ahead of "
+        "this project's next saṃyutta, SN 36 (Vedanāsaṃyutta), not "
+        "yet built.",
+    ],
+)
