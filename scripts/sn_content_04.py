@@ -10394,3 +10394,1790 @@ page(
         "35.84&ndash;93), not yet built.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 35.84 — Palokadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 84, "Palokadhamma", "Liable to Wear Out",
+    vagga="Channavagga",
+    meta_title="SN 35.84 — Liable to Wear Out | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Palokadhammasutta — Venerable Ānanda’s "
+        "question on how “the world” is defined, opening "
+        "Channavagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Ānanda questioning; the Buddha "
+                      "answering"),
+        ("Form", "A single question &mdash; how is &ldquo;the "
+                 "world&rdquo; defined? &mdash; answered by "
+                 "definition, then run across the six sense fields"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama "
+                              "(T99), though this reading guide does "
+                              "not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "short and formulaic, once the six-field "
+                       "chain is familiar"),
+    ],
+    why=(
+        "This discourse opens Channavagga with Ānanda &mdash; a "
+        "questioner this project has already met across several "
+        "earlier vaggas of this book &mdash; asking the Buddha "
+        "directly how “the world” (loka) is defined. "
+        "This is the same question Gilānavagga's own SN "
+        "35.82 already answered, there through an unnamed "
+        "mendicant and a wordplay etymology (lujjati, “it "
+        "wears away”). Here the Buddha instead defines "
+        "“the world” directly as “that which is "
+        "liable to wear out” (palokadhamma) &mdash; a "
+        "different formulation reaching the identical conclusion, "
+        "run across the same six sense fields. Sujato's own "
+        "note on this discourse's opening term cross-references SN "
+        "22.93 and SN 35.82 directly, confirming this project's own "
+        "sense that these are restatements of one teaching rather "
+        "than independent claims."
+    ),
+    guide=[
+        ("Ānanda's own question, opening a new vagga", [
+            "Ānanda approaches the Buddha and asks plainly how "
+            "“the world” is defined &mdash; the first "
+            "of three questions he will put to the Buddha across "
+            "this vagga's own opening trio (SN 35.84&ndash;86).",
+        ]),
+        ("The world defined without etymology", [
+            "“That which is liable to wear out is called the "
+            "world,” the Buddha answers, then names what wears "
+            "out: the eye, sights, eye consciousness, eye contact, "
+            "and the feeling born of it &mdash; repeated for each "
+            "of the remaining five sense fields in turn.",
+        ]),
+        ("The same move as SN 35.82, without repeating its wordplay", [
+            "SN 35.82, met earlier in Gilānavagga, reached this "
+            "identical conclusion through the Pali pun on lujjati. "
+            "This discourse reaches it again by direct definition "
+            "instead &mdash; two different routes to the same "
+            "six-field redefinition of “the world.”",
+        ]),
+    ],
+    terms=[
+        ("loka", "the world &mdash; the term Ānanda asks the "
+                    "Buddha to define, opening this vagga exactly as "
+                    "it opened SN 35.82 in Gilānavagga"),
+        ("palokadhamma", "liable to wear out &mdash; the Buddha's "
+                            "own definition of “the "
+                            "world,” a noun form of "
+                            "palujjati (Sujato's own note "
+                            "cross-references SN 22.93 and SN "
+                            "35.82)"),
+        ("Ānanda", "the questioner throughout this vagga's own "
+                           "opening trio (SN 35.84&ndash;86), "
+                           "continuing his recurring role across "
+                           "this project"),
+        ("cakkhu", "the eye &mdash; the first sense field named as "
+                      "liable to wear out, opening the six-field "
+                      "chain"),
+        ("phassajā vedanā", "feeling born of contact "
+                                          "&mdash; the final link in "
+                                          "the chain, also liable to "
+                                          "wear out, for each of the "
+                                          "six fields"),
+    ],
+    text_intro=("The complete discourse: Ānanda's question on "
+        "the definition of “the world,” and the "
+        "Buddha's answer run across the six sense fields. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.84:1.1-1.2"),
+        ("p", "&sect;2", "sn35.84:2.1-2.4"),
+        ("p", "&sect;3", "sn35.84:2.5-2.8"),
+    ],
+    quiz=[
+        {"q": "What question does Ānanda put to the Buddha at this discourse's opening?",
+         "opts": ["How is “the world” defined?", "How is “emptiness” defined?", "What is the goal of the spiritual life?", "How many sense fields exist?"],
+         "correct": 0,
+         "expl": "The first of three questions Ānanda asks across this vagga's own opening trio."},
+        {"q": "How does the Buddha define “the world” in this discourse?",
+         "opts": ["That which is liable to wear out (palokadhamma)", "That which can be seen with the eye alone", "The sum of all living beings", "A term with no fixed definition"],
+         "correct": 0,
+         "expl": "A direct definition, not the etymological wordplay SN 35.82 used."},
+        {"q": "What does this discourse name as liable to wear out?",
+         "opts": ["The eye and each of the six sense fields, with what arises dependent on each", "Only physical objects, not the mind", "Only feelings, not the sense faculties themselves", "The Buddha's own teaching over time"],
+         "correct": 0,
+         "expl": "The eye, sights, eye consciousness, eye contact, and feeling &mdash; repeated for all six fields."},
+        {"q": "Which earlier discourse in this book reaches the identical conclusion by a different route?",
+         "opts": ["SN 35.82, using the lujjati wordplay", "SN 35.1, opening Aniccavagga", "SN 35.53, opening Avijjāvagga", "SN 35.74, opening Gilānavagga"],
+         "correct": 0,
+         "expl": "Two different arguments, met earlier and now again, reaching the same six-field redefinition."},
+        {"q": "What does Sujato's own note on this discourse's opening term cross-reference?",
+         "opts": ["SN 22.93 and SN 35.82", "MN 144 and MN 145", "The Bṛhadāraṇyaka Upaniṣad", "The ten undetermined questions of SN 24"],
+         "correct": 0,
+         "expl": "Confirming these three discourses restate one teaching rather than making independent claims."},
+    ],
+    marginalia=[
+        ("Ānanda's first question", [
+            "how is the world defined?",
+        ]),
+        ("Wearing out, defined directly", [
+            "no wordplay needed this time",
+        ]),
+        ("Echoing SN 35.82", [
+            "the same conclusion, a new route",
+        ]),
+        ("Six fields, one chain", [
+            "eye through feeling, repeated",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.84/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.83.html">SN 35.83 &middot; Phagguna&rsquo;s '
+        "Question</a> &mdash; the previous discourse, closing "
+        "Gilānavagga.",
+        '<a href="sn-35.85.html">SN 35.85 &middot; The World Is '
+        "Empty</a> &mdash; the next discourse, Ānanda&rsquo;s "
+        "second question.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.85 — Suññatalokasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 85, "Suññataloka", "The World Is Empty",
+    vagga="Channavagga",
+    meta_title="SN 35.85 — The World Is Empty | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Suññatalokasutta — Ānanda's second "
+        "question, on the famous saying that “the world is "
+        "empty.” From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "Venerable Ānanda questioning; the Buddha "
+                      "answering"),
+        ("Form", "A single question on a well-known saying &mdash; "
+                 "“the world is empty” &mdash; answered "
+                 "by definition, then run across the six sense "
+                 "fields"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama "
+                              "(T99), though this reading guide does "
+                              "not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; a short discourse carrying real "
+                       "philosophical weight"),
+    ],
+    why=(
+        "Ānanda's second question in this vagga's own opening "
+        "trio asks about one of early Buddhism's most quoted "
+        "sayings: “the world is empty.” The Buddha's "
+        "answer is precise, not a general claim of nonexistence: "
+        "the world is empty “of self or what belongs to "
+        "self” (attā vā attaniyena vā), run "
+        "across the same six sense fields this book returns to "
+        "again and again. Sujato's own note situates this "
+        "discourse's own use of “emptiness” within its "
+        "early Buddhist context: primarily a meditation approach "
+        "for realizing not-self, cross-referencing SN 41.7 (= MN "
+        "43 = MN 106) and Snp 5.16, and pointing to MN 121 (the "
+        "Cūḷasuññatasutta) for a more expansive "
+        "treatment of the same theme."
+    ),
+    guide=[
+        ("Ānanda's second question", [
+            "Following his question on “the world” at "
+            "SN 35.84, Ānanda now asks what the saying "
+            "“the world is empty” refers to &mdash; a "
+            "phrase evidently already in circulation, which the "
+            "Buddha's answer sharpens rather than introduces.",
+        ]),
+        ("Empty of self, not empty of matter", [
+            "The Buddha's definition is exact: the world is empty "
+            "“of self or what belongs to self,” not "
+            "empty of substance or existence &mdash; a meditation "
+            "claim about not-self, not a metaphysical claim of "
+            "nonexistence.",
+        ]),
+        ("A practice, not a doctrine to be debated", [
+            "Sujato's own note situates this teaching among a "
+            "cluster of parallel discourses (SN 41.7 = MN 43 = MN "
+            "106, Snp 5.16) and points to MN 121's own fuller "
+            "treatment &mdash; framing “emptiness” here "
+            "as primarily something to be realized in meditation, "
+            "not settled by argument.",
+        ]),
+    ],
+    terms=[
+        ("suñña", "empty &mdash; the description "
+                                   "Ānanda asks the Buddha to "
+                                   "explain"),
+        ("attā", "self &mdash; what the world is said to be "
+                          "empty of"),
+        ("attaniya", "what belongs to self &mdash; the second half "
+                        "of the definition, paired with attā"),
+        ("Cūḷasuññatasutta", "MN 121, cited "
+                                                          "in "
+                                                          "Sujato's "
+                                                          "own note "
+                                                          "as the "
+                                                          "fuller "
+                                                          "treatment "
+                                                          "of this "
+                                                          "same "
+                                                          "emptiness "
+                                                          "teaching"),
+        ("cakkhu", "the eye &mdash; the first field declared empty "
+                      "of self, opening the same six-field chain "
+                      "met throughout this book"),
+    ],
+    text_intro=("The complete discourse: Ānanda's question on "
+        "the saying “the world is empty,” and the "
+        "Buddha's answer run across the six sense fields. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.85:1.1-1.3"),
+        ("p", "&sect;2", "sn35.85:1.4-1.5"),
+        ("p", "&sect;3", "sn35.85:1.6-1.9"),
+    ],
+    quiz=[
+        {"q": "What saying does Ānanda ask the Buddha to explain in this discourse?",
+         "opts": ["“The world is empty”", "“The world is liable to wear out”", "“The all is the six sense fields”", "“Turbulence is a disease”"],
+         "correct": 0,
+         "expl": "Ānanda's second question in this vagga's own opening trio."},
+        {"q": "What, precisely, does the Buddha say the world is empty of?",
+         "opts": ["Self, or what belongs to self", "Matter and physical substance", "Suffering entirely", "Other beings"],
+         "correct": 0,
+         "expl": "Not a claim of nonexistence, but a not-self teaching."},
+        {"q": "According to Sujato's own note, what role does “emptiness” primarily play in early Buddhism?",
+         "opts": ["A meditation approach for realizing not-self", "A cosmological description of empty space", "A synonym for annihilation after death", "A term unique to this single discourse"],
+         "correct": 0,
+         "expl": "Cross-referenced to SN 41.7 (= MN 43 = MN 106) and Snp 5.16."},
+        {"q": "Which discourse does Sujato's own note point to for a more expansive treatment of this same theme?",
+         "opts": ["MN 121, the Cūḷasuññatasutta", "MN 144, the Channovādasutta", "DN 16, the Mahāparinibbānasutta", "SN 12.15, the Kātiyāyanasutta"],
+         "correct": 0,
+         "expl": "The “Shorter Discourse on Emptiness.”"},
+        {"q": "How does this discourse's structure compare to SN 35.84, the previous discourse?",
+         "opts": ["The same shape &mdash; a single question, then the same six-field chain", "It abandons the six-field chain entirely", "It adds a narrative frame absent from SN 35.84", "It is addressed to a group of mendicants, not to Ānanda alone"],
+         "correct": 0,
+         "expl": "The second of three near-identically shaped questions from Ānanda."},
+    ],
+    marginalia=[
+        ("A well-known saying", [
+            "“the world is empty”",
+        ]),
+        ("Empty of self", [
+            "not empty of substance",
+        ]),
+        ("A meditation, not a debate", [
+            "Sujato's own note points onward",
+        ]),
+        ("The same six fields", [
+            "eye through mind, again",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.85/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.84.html">SN 35.84 &middot; Liable to Wear '
+        "Out</a> &mdash; the previous discourse, Ānanda&rsquo;s "
+        "first question.",
+        '<a href="sn-35.86.html">SN 35.86 &middot; A Teaching In '
+        "Brief</a> &mdash; the next discourse, Ānanda&rsquo;s "
+        "third and final question in this trio.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.86 — Saṅkhittadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 86, "Saṅkhittadhamma", "A Teaching In Brief",
+    vagga="Channavagga",
+    meta_title="SN 35.86 — A Teaching In Brief | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saṅkhittadhammasutta — Ānanda's third "
+        "question, a request for a teaching in brief answered with "
+        "the full three-marks catechism. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "Venerable Ānanda requesting; the Buddha "
+                      "teaching"),
+        ("Form", "A request for a brief teaching, answered with the "
+                 "full impermanent&ndash;suffering&ndash;not-self "
+                 "catechism run across all six sense fields, "
+                 "closing in the standard liberation refrain"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama "
+                              "(T99), though this reading guide does "
+                              "not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; a familiar formula, once the "
+                       "three-marks catechism is recognized"),
+    ],
+    why=(
+        "Ānanda's third question closes this vagga's own "
+        "opening trio with a different register entirely: not "
+        "&ldquo;how is X defined,&rdquo; but a direct request "
+        "&mdash; &ldquo;may the Buddha please teach me Dhamma in "
+        "brief&rdquo; &mdash; so that he can go and meditate alone, "
+        "withdrawn, diligent, keen, and resolute. The Buddha's "
+        "answer is the project's own familiar three-marks "
+        "catechism (impermanent, therefore suffering, therefore not "
+        "fit to be regarded as self) run across the eye and its "
+        "downstream links, then the remaining five sense fields, "
+        "closing in the standard disillusionment-to-liberation "
+        "refrain. This exact opening request &mdash; &ldquo;teach "
+        "me Dhamma in brief&rdquo; &mdash; recurs twice more within "
+        "this very vagga, put by Puṇṇa (SN 35.88) and Bāhiya "
+        "(SN 35.89) in turn, each triggering a differently shaped "
+        "response: this discourse's own full catechism is only the "
+        "first of the three answers this formula receives here."
+    ),
+    guide=[
+        ("A different kind of request closes the opening trio", [
+            "Where SN 35.84 and SN 35.85 asked how a term is "
+            "defined, this discourse's own request is practical: "
+            "Ānanda wants a teaching he can carry into solitary "
+            "meditation, &ldquo;in brief&rdquo; (saṅkhittena).",
+        ]),
+        ("The full three-marks catechism, eye through mind", [
+            "Is the eye permanent or impermanent? Impermanent. "
+            "Suffering, then. Fit to be regarded as &ldquo;mine, I, "
+            "my self&rdquo;? No &mdash; the same three-step question "
+            "run first for the eye and its downstream links, then "
+            "repeated for the remaining five sense fields in turn.",
+        ]),
+        ("A closing refrain, and a foreshadowing", [
+            "Seeing this, a learned noble disciple grows "
+            "disillusioned, desire fades, and freedom is known. "
+            "This same &ldquo;teach me Dhamma in brief&rdquo; "
+            "opening will recur twice more in this very vagga "
+            "&mdash; for Puṇṇa (SN 35.88) and Bāhiya (SN 35.89) "
+            "&mdash; each drawing a differently shaped answer from "
+            "the Buddha.",
+        ]),
+    ],
+    terms=[
+        ("saṅkhittena", "in brief &mdash; Ānanda's own request, "
+                            "contrasting the definitional questions "
+                            "of SN 35.84&ndash;85"),
+        ("anicca", "impermanent &mdash; the first term of the "
+                      "three-marks catechism run across all six "
+                      "fields"),
+        ("dukkha", "suffering &mdash; the second term, following "
+                      "directly from impermanence"),
+        ("etaṁ mama", "&ldquo;this is mine&rdquo; &mdash; the "
+                          "opening clause of the self-view formula "
+                          "denied at each step of the catechism"),
+        ("nibbindati", "grows disillusioned &mdash; the closing "
+                           "movement toward liberation, the common "
+                           "refrain word"),
+    ],
+    text_intro=("The complete discourse: Ānanda's request for a "
+        "teaching in brief, answered with the full three-marks "
+        "catechism across the six sense fields. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.86:1.1-1.2"),
+        ("p", "&sect;2", "sn35.86:2.1-7.1"),
+        ("p", "&sect;3", "sn35.86:8.1-15.1"),
+        ("p", "&sect;4", "sn35.86:16.1-23.1"),
+        ("p", "&sect;5", "sn35.86:24.1-24.4"),
+    ],
+    quiz=[
+        {"q": "What does Ānanda request from the Buddha, unlike his questions at SN 35.84 and SN 35.85?",
+         "opts": ["A teaching in brief, to carry into solitary meditation", "A definition of &ldquo;the world&rdquo;", "A definition of &ldquo;emptiness&rdquo;", "Permission to ordain a new disciple"],
+         "correct": 0,
+         "expl": "A practical request, not a definitional question."},
+        {"q": "What three-step question does the Buddha run across each of the six sense fields?",
+         "opts": ["Impermanent? Suffering, then? Fit to regard as self?", "Pleasant? Painful? Neutral?", "Seen, heard, sensed, or cognized?", "Arisen, ceased, or both?"],
+         "correct": 0,
+         "expl": "The project's own familiar three-marks catechism."},
+        {"q": "What does the catechism conclude for each of the six fields?",
+         "opts": ["Not fit to be regarded as &ldquo;mine, I, my self&rdquo;", "Fit to be regarded as self under certain conditions", "The question cannot be settled", "Only the mind qualifies as self"],
+         "correct": 0,
+         "expl": "&ldquo;No, sir&rdquo; &mdash; consistently, for every field."},
+        {"q": "What closing movement does the discourse describe once the catechism is seen through?",
+         "opts": ["Disillusionment, fading desire, and freedom known", "A return to the definitional questions of SN 35.84&ndash;85", "A debate with outside questioners", "A journey to a distant country"],
+         "correct": 0,
+         "expl": "The standard liberation refrain closing the catechism."},
+        {"q": "Where does this discourse's own opening request &mdash; &ldquo;teach me Dhamma in brief&rdquo; &mdash; recur within this vagga?",
+         "opts": ["At SN 35.88 (Puṇṇa) and SN 35.89 (Bāhiya)", "Nowhere else in this vagga", "Only in the Channasutta, SN 35.87", "At SN 35.90 and SN 35.91, the turbulence pair"],
+         "correct": 0,
+         "expl": "The identical formula, drawing two differently shaped answers in turn."},
+    ],
+    marginalia=[
+        ("A practical request", [
+            "&ldquo;teach me in brief&rdquo;",
+        ]),
+        ("Impermanent, suffering, not self", [
+            "the three-step catechism",
+        ]),
+        ("Six fields, one question", [
+            "run twice, eye and mind",
+        ]),
+        ("A formula that will return", [
+            "Puṇṇa and Bāhiya ask it too",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.86/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.85.html">SN 35.85 &middot; The World Is '
+        "Empty</a> &mdash; the previous discourse, Ānanda&rsquo;s "
+        "second question.",
+        '<a href="sn-35.87.html">SN 35.87 &middot; With Channa</a> '
+        "&mdash; the next discourse, this vagga&rsquo;s own "
+        "namesake.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.87 — Channasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 87, "Channa", "With Channa",
+    vagga="Channavagga",
+    meta_title="SN 35.87 — With Channa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Channasutta — a terminally ill mendicant's decision "
+        "to end his own life, and the Buddha's own verdict on it, "
+        "giving this vagga its name. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha; the Buddha at the Bamboo Grove, the "
+                     "three mendicants of this discourse on "
+                     "Vulture's Peak Mountain nearby"),
+        ("Speakers", "Venerables Sāriputta, Mahācunda, and Channa"),
+        ("Form", "A sick-visit narrative in three movements: a "
+                 "plea and a catechism at Channa's bedside, his "
+                 "death after the visitors leave, and the Buddha's "
+                 "own verdict once Sāriputta reports it"),
+        ("Length", "~6 minutes to read &mdash; the longest "
+                    "discourse in this vagga"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama "
+                              "(T99), though this reading guide does "
+                              "not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; "
+                       "&mdash; terminal illness and a mendicant's "
+                       "own decision to end his life, handled "
+                       "directly by the text and by this guide"),
+    ],
+    why=(
+        "This discourse gives Channavagga its name, and it is the "
+        "one place in this vagga where the title's own promise of "
+        "a named individual is fully delivered. Venerable Channa is "
+        "gravely ill, in agonizing pain, and tells the visiting "
+        "Sāriputta and Mahācunda plainly: &ldquo;I will commit "
+        "suicide. I don't wish to live.&rdquo; Sāriputta pleads "
+        "with him not to, offering to find food, medicine, or a "
+        "carer &mdash; but Channa already has all three. What he "
+        "declares instead is that he has served the Teacher with "
+        "love, not without love, and that his own death will be "
+        "blameless. A catechism follows, confirming Channa's own "
+        "freedom from any view of self in the six sense fields "
+        "&mdash; seen, he says, &ldquo;after seeing cessation.&rdquo; "
+        "Mahācunda closes with a teaching chain quoted from the "
+        "Buddha (matching Ud 8.4 elsewhere in the canon), and the "
+        "two visitors leave. Not long after, Channa takes his own "
+        "life. When Sāriputta reports this and asks where Channa "
+        "has been reborn, the Buddha refuses the terms of the "
+        "question directly: this is not about whether Channa had "
+        "friendly families nearby (a wordplay Sāriputta's own "
+        "answer walks into, since the word for such families "
+        "&mdash; upavajjakulāni &mdash; sounds like the word for "
+        "&ldquo;blameworthy&rdquo;), but about whether someone lays "
+        "down one body and takes up another. Channa did no such "
+        "thing. Sujato's own note on this discourse's close is "
+        "worth stating plainly, in the terms it uses itself: "
+        "suicide is generally condemned in Buddhism as the taking "
+        "of a human life, but this discourse and similar ones (SN "
+        "4.23, SN 22.87) are widely read as allowing it for an "
+        "arahant in the final throes of a terminal illness, since "
+        "such a person is, by definition, incapable of a blameworthy "
+        "act. The discourse itself does not frame this as license "
+        "for anyone in pain to end their own life &mdash; its own "
+        "logic turns specifically on Channa's confirmed freedom "
+        "from clinging, verified by his own answers under "
+        "questioning before he acts, not on the severity of his "
+        "suffering alone."
+    ),
+    guide=[
+        ("Two visitors, a warning already spoken", [
+            "Sāriputta comes out of retreat, collects Mahācunda, "
+            "and the two go to ask after Channa's illness. "
+            "Channa's own report is unsparing: winds piercing his "
+            "head like a drill, a strap tightening around his "
+            "skull, a blade slicing his belly, coals burning his "
+            "body. &ldquo;I will commit suicide. I don't wish to "
+            "live,&rdquo; he tells them directly.",
+        ]),
+        ("&ldquo;Please don't&rdquo; &mdash; and a declaration made in advance", [
+            "Sāriputta pleads with Channa to keep going, offering "
+            "food, medicine, a carer &mdash; all of which Channa "
+            "already has. What he offers instead is a different "
+            "kind of assurance: he has served the Teacher with "
+            "love, and asks Sāriputta to remember, before anything "
+            "happens, that &ldquo;the mendicant Channa will commit "
+            "suicide blamelessly.&rdquo;",
+        ]),
+        ("A catechism, and an answer from having seen cessation", [
+            "Sāriputta asks whether Channa regards the eye, the "
+            "mind, and each faculty between as &ldquo;mine, I, my "
+            "self.&rdquo; Channa denies it for all six, and when "
+            "asked what he has seen to ground that denial, answers: "
+            "&ldquo;after seeing cessation, after directly knowing "
+            "cessation in these things.&rdquo;",
+        ]),
+        ("Mahācunda's parting teaching", [
+            "Mahācunda quotes a chain the Buddha himself taught "
+            "(matching Ud 8.4 elsewhere in the canon): for the "
+            "dependent there is agitation, for the independent none; "
+            "no agitation brings tranquility, no inclination, no "
+            "coming and going, no passing away and reappearing, no "
+            "this life or the next or between the two. &ldquo;Just "
+            "this is the end of suffering.&rdquo;",
+        ]),
+        ("After the visitors leave", [
+            "Not long after Sāriputta and Mahācunda depart, Channa "
+            "takes his own life. Sāriputta returns to the Buddha "
+            "and asks the question that follows naturally from a "
+            "death: where has Channa been reborn?",
+        ]),
+        ("Not about hospitable families, but about taking up another body", [
+            "The Buddha turns the question back to Sāriputta: "
+            "didn't Channa declare his own blamelessness in person? "
+            "Sāriputta mentions a Vajjian village where Channa had "
+            "friendly families &mdash; upavajjakulāni, which the "
+            "Buddha's own answer plays against upavajja "
+            "(&ldquo;blameworthy&rdquo;), a wordplay Sujato's own "
+            "note explains directly. That is not the Buddha's own "
+            "criterion, though: &ldquo;when someone lays down this "
+            "body and takes up another body, I call them "
+            "'blameworthy'. But the mendicant Channa did no such "
+            "thing.&rdquo; The verdict &mdash; blameless &mdash; is "
+            "confirmed, on those specific terms.",
+        ]),
+        ("A caution this reading guide states directly", [
+            "Sujato's own note on this discourse's close observes "
+            "that suicide is generally condemned in Buddhism as the "
+            "taking of a human life, and that this discourse and "
+            "similar ones (SN 4.23, SN 22.87) are widely read as "
+            "allowing it specifically for an arahant facing a "
+            "terminal illness, whose freedom from clinging has "
+            "already been confirmed &mdash; not as a general "
+            "endorsement extended to anyone in pain. Compassion for "
+            "suffering, not a simple rule, is what this discourse "
+            "asks of its reader.",
+        ]),
+        ("Which Channa is this?", [
+            "Sujato's own note is explicit that this Channa appears "
+            "only in this discourse, and is not the same person as "
+            "the Buddha's former charioteer &mdash; the Channa "
+            "famously admonished on the Buddha's deathbed at DN 16 "
+            "&mdash; a distinct figure this discourse does not "
+            "concern.",
+        ]),
+    ],
+    terms=[
+        ("satthaṁ āharissāmi", "&ldquo;I will commit "
+                                    "suicide&rdquo; &mdash; Channa's "
+                                    "own declared intention, spoken "
+                                    "plainly to Sāriputta"),
+        ("anupavajja", "blameless &mdash; Channa's own advance "
+                          "declaration, confirmed twice over by the "
+                          "Buddha at this discourse's close"),
+        ("upavajja / upavajjakulāni", "blameworthy / families "
+                                          "worth approaching "
+                                          "&mdash; the wordplay "
+                                          "Sāriputta's own answer "
+                                          "walks into, and the "
+                                          "Buddha's own answer sets "
+                                          "aside"),
+        ("nissita / anissita", "dependent / independent &mdash; "
+                                    "the opening pair of Mahācunda's "
+                                    "parting teaching, matching Ud "
+                                    "8.4 elsewhere in the canon"),
+        ("kāyaṁ nikkhipati...aññaṁ kāyaṁ upādiyati", "&ldquo;lays "
+             "down this body and takes up another&rdquo; &mdash; "
+             "the Buddha's own criterion for &ldquo;blameworthy,"
+             "&rdquo; which Channa's death does not meet"),
+    ],
+    text_intro=("The complete discourse: Channa's illness and "
+        "declared intention, the catechism confirming his freedom "
+        "from self-view, his death, and the Buddha's own verdict. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.87:1.1-1.6"),
+        ("p", "&sect;2", "sn35.87:2.1-2.2"),
+        ("p", "&sect;3", "sn35.87:3.1-3.10"),
+        ("p", "&sect;4", "sn35.87:4.1-4.7"),
+        ("p", "&sect;5", "sn35.87:5.1-5.9"),
+        ("p", "&sect;6", "sn35.87:6.1-7.3"),
+        ("p", "&sect;7", "sn35.87:8.1-10.3"),
+        ("p", "&sect;8", "sn35.87:11.1-11.9"),
+        ("p", "&sect;9", "sn35.87:12.1-12.2"),
+        ("p", "&sect;10", "sn35.87:13.1-13.12"),
+    ],
+    quiz=[
+        {"q": "What does Channa declare to Sāriputta and Mahācunda when they visit him?",
+         "opts": ["That he will commit suicide, unable to bear his illness", "That he has fully recovered", "That he wishes to be ordained by them", "That he no longer believes in the Buddha's teaching"],
+         "correct": 0,
+         "expl": "Spoken plainly, after describing his agonizing symptoms."},
+        {"q": "What does Sāriputta offer, and what is Channa's response?",
+         "opts": ["Food, medicine, and a carer &mdash; all of which Channa already has", "A transfer to a different monastery", "A direct plea that goes unanswered", "An offer Channa accepts, delaying his decision"],
+         "correct": 0,
+         "expl": "Channa's own decision is not about lacking material support."},
+        {"q": "What does Channa say grounds his freedom from any view of self, when Sāriputta asks?",
+         "opts": ["Having seen and directly known cessation", "A teaching he has not yet fully understood", "His own long years of monastic seniority", "Nothing &mdash; he declines to answer"],
+         "correct": 0,
+         "expl": "&ldquo;After seeing cessation, after directly knowing cessation in these things.&rdquo;"},
+        {"q": "What is the Buddha's own criterion for calling someone's death &ldquo;blameworthy,&rdquo; according to his verdict on Channa?",
+         "opts": ["Laying down this body and taking up another", "Having no friendly families nearby", "Dying without warning", "Dying in physical pain"],
+         "correct": 0,
+         "expl": "Not about family ties &mdash; the wordplay Sāriputta's answer walks into is explicitly set aside."},
+        {"q": "How does Sujato's own note frame this discourse's relationship to suicide in general?",
+         "opts": ["Generally condemned, but widely read as allowable here specifically for an arahant facing terminal illness whose freedom from clinging is confirmed", "A straightforward general endorsement of suicide for the terminally ill", "A condemnation of Channa's own decision, contradicted by the Buddha's later verdict", "A question the discourse leaves entirely unresolved"],
+         "correct": 0,
+         "expl": "Not a general rule &mdash; turning specifically on Channa's confirmed freedom from clinging."},
+        {"q": "Is this Channa the same person as the Buddha's former charioteer admonished on his deathbed at DN 16?",
+         "opts": ["No &mdash; Sujato's own note confirms this Channa appears only in this discourse and is a different person", "Yes, this is the same well-known charioteer", "The discourse leaves this deliberately ambiguous", "They are the same person under two different names"],
+         "correct": 0,
+         "expl": "A common point of confusion the note addresses directly."},
+    ],
+    marginalia=[
+        ("&ldquo;I will commit suicide&rdquo;", [
+            "spoken plainly, pain unsparing",
+        ]),
+        ("Not lacking support", [
+            "food, medicine, care all present",
+        ]),
+        ("&ldquo;After seeing cessation&rdquo;", [
+            "no self found in six fields",
+        ]),
+        ("Not blameworthy families", [
+            "but taking up another body",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.87/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.86.html">SN 35.86 &middot; A Teaching In '
+        "Brief</a> &mdash; the previous discourse, closing "
+        "Ānanda&rsquo;s own opening trio.",
+        '<a href="sn-35.88.html">SN 35.88 &middot; With '
+        "Puṇṇa</a> &mdash; the next discourse, following this one "
+        "immediately in both the Majjhima and Saṃyutta "
+        "collections alike.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.88 — Puṇṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 88, "Puṇṇa", "With Puṇṇa",
+    vagga="Channavagga",
+    meta_title="SN 35.88 — With Puṇṇa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Puṇṇasutta — a brief teaching, a five-step "
+        "catechism testing tolerance for violence, and Puṇṇa's own "
+        "mission to a rough frontier country. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse; Puṇṇa's own "
+                     "mission is to Sunāparanta, a frontier "
+                     "country"),
+        ("Speakers", "Venerable Puṇṇa requesting and answering; the "
+                      "Buddha teaching and questioning"),
+        ("Form", "A brief teaching on relishing, an escalating "
+                 "five-step catechism testing tolerance for "
+                 "violence up to death, and a closing report of "
+                 "Puṇṇa's own mission and final passing"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "Sujato's own note reports two known "
+                              "parallels in the Chinese "
+                              "Saṃyukta-āgama tradition for this "
+                              "narrative, plus retellings in the "
+                              "Mūlasarvāstivāda Vinaya, the "
+                              "Divyāvadāna, and surviving artwork"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; escalating violence, met with a "
+                       "calm that this reading guide does not "
+                       "soften"),
+    ],
+    why=(
+        "Venerable Puṇṇa asks for a teaching in brief &mdash; the "
+        "identical opening formula Ānanda used at SN 35.86, met "
+        "here for the second time in this vagga &mdash; and "
+        "receives one on relishing (nandī) as the origin of "
+        "suffering, run across the six sense fields. He then "
+        "announces his plan to live in Sunāparanta, a country "
+        "Sujato's own note identifies with the historical trading "
+        "port of Suppāraka (modern Nallasopara, north of Mumbai), "
+        "which the Buddha warns is wild and rough. What follows is "
+        "a five-step escalation: if the people abuse him, then hit "
+        "him, then throw stones, then beat him with a club, then "
+        "stab him with a knife, then kill him outright &mdash; at "
+        "each step, Puṇṇa answers that he will consider them "
+        "gracious for not doing something worse, and at the last "
+        "step, that finding death this way would be a gift, since "
+        "&ldquo;there are disciples of the Buddha who looked for a "
+        "suicide weapon&rdquo; out of revulsion for the body, "
+        "&ldquo;and I have found this without looking.&rdquo; "
+        "Sujato's own note traces this final line to the notorious "
+        "incident of Migalaṇḍika (told in the Vinaya and briefly at "
+        "SN 54.9), where mendicants meditating improperly on the "
+        "body's unattractiveness sought death as an escape, "
+        "prompting the Buddha to teach mindfulness of breathing "
+        "instead. This discourse recurs at MN 145, immediately "
+        "following the Channovādasutta (MN 144, this project's own "
+        "SN 35.87) in both collections alike &mdash; the same "
+        "pairing this vagga preserves by placing this discourse "
+        "directly after Channa's."
+    ),
+    guide=[
+        ("A brief teaching before a dangerous journey", [
+            "Puṇṇa's request opens with the same formula Ānanda "
+            "used at SN 35.86: &ldquo;may the Buddha please teach "
+            "me Dhamma in brief.&rdquo; The answer given is on "
+            "relishing (nandī) &mdash; approving, welcoming, and "
+            "clinging to what is pleasant &mdash; named as the "
+            "origin of suffering, and its absence as suffering's "
+            "cessation, across all six sense fields.",
+        ]),
+        ("Sunāparanta, a rough frontier country", [
+            "Asked where he will go, Puṇṇa names Sunāparanta. "
+            "Sujato's own note identifies this with the historical "
+            "port of Suppāraka, near modern Mumbai &mdash; a "
+            "far-sighted choice, since it became a major trading "
+            "hub from the time of Ashoka onward, though nothing in "
+            "the discourse itself says Puṇṇa knew this.",
+        ]),
+        ("Five steps toward death, each met with gratitude", [
+            "The Buddha warns that the people there are wild. "
+            "Puṇṇa answers, step by step, that he will judge them "
+            "gracious &mdash; for not throwing stones once they've "
+            "hit him with their fists, not clubbing him once "
+            "they've thrown stones, not stabbing him once they've "
+            "clubbed him, not killing him once they've stabbed him "
+            "&mdash; each answer naming the worse harm not yet done.",
+        ]),
+        ("An echo of Migalaṇḍika, and a different outcome", [
+            "At the final step &mdash; if they do take his life "
+            "&mdash; Puṇṇa says he would consider it a gift found "
+            "&ldquo;without looking.&rdquo; Sujato's own note "
+            "connects this directly to the Migalaṇḍika incident: "
+            "mendicants who sought death from revulsion with the "
+            "body, redirected instead by the Buddha toward "
+            "mindfulness of breathing. Here, unlike there, the "
+            "Buddha does not redirect Puṇṇa &mdash; he simply "
+            "approves his self-control and sends him on his way.",
+        ]),
+        ("A mission completed within a single rainy season", [
+            "Puṇṇa travels to Sunāparanta, confirms five hundred "
+            "male and five hundred female lay followers, realizes "
+            "full awakening, and passes into final "
+            "nibbāna &mdash; all within that same rainy season. "
+            "Asked where he has been reborn, the Buddha answers "
+            "simply: &ldquo;Puṇṇa has become completely quenched.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("nandī", "relishing &mdash; arises when a mendicant "
+                     "approves, welcomes, and keeps clinging to "
+                     "what is pleasant; &ldquo;the origin of "
+                     "suffering,&rdquo; the Buddha's own brief "
+                     "teaching to Puṇṇa"),
+        ("Sunāparanta", "the rough frontier country Puṇṇa chooses, "
+                            "identified by Sujato's own note with "
+                            "the historical trading port of "
+                            "Suppāraka, near modern Mumbai"),
+        ("satthahāraka", "rendered &ldquo;suicide weapon&rdquo; by "
+                             "Sujato, a genuinely difficult idiom "
+                             "his own note traces through a "
+                             "proposed Sanskrit cognate meaning "
+                             "&ldquo;breath&rdquo; or "
+                             "&ldquo;life&rdquo;"),
+        ("upāsaka / upāsikā", "lay follower, male and female "
+                                  "&mdash; the five hundred of each "
+                                  "Puṇṇa confirms within a single "
+                                  "rainy season"),
+        ("parinibbāyi", "became completely extinguished &mdash; "
+                            "Puṇṇa's own attainment, within that "
+                            "same rainy season"),
+    ],
+    text_intro=("The complete discourse: Puṇṇa's brief teaching, "
+        "his mission to Sunāparanta, the five-step catechism, and "
+        "the report of his final passing. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.88:1.1-1.2"),
+        ("p", "&sect;2", "sn35.88:2.1-3.6"),
+        ("p", "&sect;3", "sn35.88:4.1-5.3"),
+        ("p", "&sect;4", "sn35.88:6.1-7.1"),
+        ("p", "&sect;5", "sn35.88:8.1-9.1"),
+        ("p", "&sect;6", "sn35.88:10.1-11.1"),
+        ("p", "&sect;7", "sn35.88:12.1-13.1"),
+        ("p", "&sect;8", "sn35.88:14.1-15.1"),
+        ("p", "&sect;9", "sn35.88:16.1-17.3"),
+        ("p", "&sect;10", "sn35.88:18.1-18.7"),
+        ("p", "&sect;11", "sn35.88:19.1-20.2"),
+    ],
+    quiz=[
+        {"q": "What brief teaching does the Buddha give Puṇṇa, using the same opening formula met at SN 35.86?",
+         "opts": ["Relishing is the origin of suffering, across the six sense fields", "The world is empty of self", "The all is the six sense fields", "Turbulence is a disease, a boil, a dart"],
+         "correct": 0,
+         "expl": "Nandī (relishing), named across all six fields as suffering's origin and, absent, its cessation."},
+        {"q": "What does Sujato's own note identify Sunāparanta with?",
+         "opts": ["The historical trading port of Suppāraka, near modern Mumbai", "A fictional country invented for this discourse alone", "The Buddha's own birthplace", "A country never otherwise mentioned in the canon"],
+         "correct": 0,
+         "expl": "A major trading hub from the time of Ashoka onward."},
+        {"q": "How does Puṇṇa answer each step of the Buddha's escalating warnings about violence?",
+         "opts": ["He judges the people gracious for not yet doing something worse", "He refuses to go, reconsidering his plan", "He asks the Buddha to accompany him for protection", "He argues that the warnings must be exaggerated"],
+         "correct": 0,
+         "expl": "Gratitude at each step, naming the worse harm still avoided."},
+        {"q": "What incident does Sujato's own note connect to Puṇṇa's final answer, about finding death &ldquo;without looking&rdquo;?",
+         "opts": ["The Migalaṇḍika incident, where mendicants sought death from revulsion with the body", "The Buddha's own encounter with Māra", "Channa's death in the previous discourse", "An incident not otherwise identified in the note"],
+         "correct": 0,
+         "expl": "There, the Buddha redirected mendicants toward mindfulness of breathing; here, he does not need to."},
+        {"q": "What does Puṇṇa accomplish within a single rainy season in Sunāparanta?",
+         "opts": ["Five hundred male and five hundred female lay followers confirmed, and his own final passing", "Only his own attainment, with no lay followers mentioned", "A debate defeating the region's own ascetic teachers", "A return to Sāvatthī before winter"],
+         "correct": 0,
+         "expl": "Confirmed directly by the discourse's own closing report."},
+        {"q": "In which two collections does this discourse recur as an immediate pair with the Channa narrative?",
+         "opts": ["The Majjhima Nikāya (MN 144&ndash;145) and the Saṃyutta Nikāya (SN 35.87&ndash;88)", "The Dīgha Nikāya and the Aṅguttara Nikāya", "Only the Saṃyutta Nikāya, with no Majjhima parallel", "The Udāna and the Sutta Nipāta"],
+         "correct": 0,
+         "expl": "The same pairing this vagga itself preserves."},
+    ],
+    marginalia=[
+        ("Relishing, the origin", [
+            "the same &ldquo;in brief&rdquo; request",
+        ]),
+        ("A rough frontier country", [
+            "Sunāparanta, far-sighted choice",
+        ]),
+        ("Gracious at every step", [
+            "insults through the knife itself",
+        ]),
+        ("A mission, and a passing", [
+            "one thousand followers, one season",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.88/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.87.html">SN 35.87 &middot; With '
+        "Channa</a> &mdash; the previous discourse, preserving the "
+        "same MN 144&ndash;145 pairing.",
+        '<a href="sn-35.89.html">SN 35.89 &middot; With '
+        "Bāhiya</a> &mdash; the next discourse, a third "
+        "&ldquo;teach me in brief&rdquo; request.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.89 — Bāhiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 89, "Bāhiya", "With Bāhiya",
+    vagga="Channavagga",
+    meta_title="SN 35.89 — With Bāhiya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bāhiyasutta — a third &ldquo;teach me in "
+        "brief&rdquo; request, the full three-marks catechism, and "
+        "this Bāhiya's own attainment of arahantship. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "Venerable Bāhiya requesting; the Buddha "
+                      "teaching"),
+        ("Form", "A request for a brief teaching, the full "
+                 "three-marks catechism (as at SN 35.86), and "
+                 "Bāhiya's own attainment of arahantship narrated "
+                 "within this same discourse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama "
+                              "(T99), though this reading guide does "
+                              "not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; a familiar catechism, with a "
+                       "genuinely rare identity question attached"),
+    ],
+    why=(
+        "This Bāhiya closes the vagga's own trio of &ldquo;teach me "
+        "Dhamma in brief&rdquo; requests (SN 35.86, 88, 89), and his "
+        "own request draws the same full three-marks catechism SN "
+        "35.86 already gave Ānanda &mdash; is the eye permanent? "
+        "No. Suffering, then? Yes. Fit to regard as self? No "
+        "&mdash; run across all six fields and closing in the same "
+        "disillusionment refrain. What this discourse adds is an "
+        "ending: Bāhiya walks away and, &ldquo;living alone, "
+        "withdrawn, diligent, keen, and resolute,&rdquo; realizes "
+        "arahantship &ldquo;soon,&rdquo; within this very "
+        "discourse's own telling. Sujato's own note raises a "
+        "genuine identity question this reading guide takes "
+        "seriously: this Bāhiya is not the far more famous Bāhiya "
+        "Dārucīriya of Ud 1.10, who attained the same goal from an "
+        "even briefer teaching but died almost immediately "
+        "afterward &mdash; &ldquo;must be a different person, since "
+        "he died immediately,&rdquo; the note states. A monk named "
+        "Bāhiya appears in a similar discourse at SN 47.15, also "
+        "said to become an arahant there; Sujato's own note "
+        "suggests these might be different tellings of the same "
+        "event. This vagga has now raised the identical kind of "
+        "question twice &mdash; Channa disambiguated from the "
+        "Buddha's former charioteer at SN 35.87, and now this "
+        "Bāhiya from Ud 1.10's own famous bark-cloth ascetic &mdash; "
+        "a recurring pattern of same-named figures this reading "
+        "guide has not manufactured, but simply followed where "
+        "Sujato's own notes lead."
+    ),
+    guide=[
+        ("A third request, the same catechism as SN 35.86", [
+            "Bāhiya's opening request &mdash; &ldquo;teach me "
+            "Dhamma in brief&rdquo; &mdash; is now the third heard "
+            "in this vagga. The Buddha's answer is the identical "
+            "three-marks catechism given Ānanda at SN 35.86: "
+            "impermanent, therefore suffering, therefore not fit "
+            "to be regarded as self, run across all six fields.",
+        ]),
+        ("An attainment narrated within the discourse itself", [
+            "Unlike SN 35.86, this discourse does not end with the "
+            "catechism alone: Bāhiya bows, leaves, and &ldquo;soon "
+            "realized the supreme end of the spiritual path,&rdquo; "
+            "declaring the standard arahantship formula &mdash; a "
+            "rare case in this project where the disciple's own "
+            "liberation is confirmed in the very file recording the "
+            "request that led to it.",
+        ]),
+        ("Which Bāhiya is this?", [
+            "Sujato's own note is direct: this Bāhiya is not Bāhiya "
+            "Dārucīriya, the far more famous ascetic of Ud 1.10, who "
+            "attained the goal from an even shorter teaching but "
+            "died almost immediately afterward &mdash; &ldquo;must "
+            "be a different person, since he died immediately.&rdquo; "
+            "A monk of the same name appears in a similar discourse "
+            "at SN 47.15, also said to become an arahant; the note "
+            "raises, without settling, whether these are two "
+            "tellings of one event.",
+        ]),
+        ("A second disambiguation in one vagga", [
+            "This is the second time in Channavagga that a named "
+            "figure has needed distinguishing from a far more "
+            "famous same-named counterpart elsewhere in the canon "
+            "&mdash; Channa from the Buddha's former charioteer at "
+            "SN 35.87, and now this Bāhiya from Ud 1.10's own "
+            "bark-cloth ascetic. Both distinctions come directly "
+            "from Sujato's own notes, not from speculation.",
+        ]),
+    ],
+    terms=[
+        ("Bāhiya", "a name shared with the far more famous Bāhiya "
+                       "Dārucīriya of Ud 1.10; Sujato's own note "
+                       "confirms these are different people"),
+        ("saṅkhittena", "in brief &mdash; the identical opening "
+                            "request shared with Ānanda (SN 35.86) "
+                            "and Puṇṇa (SN 35.88)"),
+        ("vūpakaṭṭho", "withdrawn, secluded &mdash; part of the "
+                           "standing formula (&ldquo;living alone, "
+                           "withdrawn, diligent, keen, and "
+                           "resolute&rdquo;) Bāhiya requests, then "
+                           "is shown fulfilling"),
+        ("nibbindati", "grows disillusioned &mdash; the same "
+                           "closing movement of the catechism met "
+                           "at SN 35.86"),
+        ("khīṇā jāti", "&ldquo;rebirth is ended&rdquo; &mdash; "
+                           "the opening line of the standard "
+                           "arahantship declaration, confirming "
+                           "Bāhiya's own attainment within this "
+                           "discourse"),
+    ],
+    text_intro=("The complete discourse: Bāhiya's request for a "
+        "teaching in brief, the three-marks catechism, and his own "
+        "attainment of arahantship. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.89:1.1-1.2"),
+        ("p", "&sect;2", "sn35.89:2.1-7.1"),
+        ("p", "&sect;3", "sn35.89:8.1-14.1"),
+        ("p", "&sect;4", "sn35.89:15.1-15.4"),
+        ("p", "&sect;5", "sn35.89:16.1-16.4"),
+    ],
+    quiz=[
+        {"q": "What catechism does the Buddha give Bāhiya, matching an earlier discourse in this same vagga?",
+         "opts": ["The full three-marks catechism given Ānanda at SN 35.86", "The five-step violence catechism given Puṇṇa at SN 35.88", "The Channa narrative's own catechism on self-view", "A catechism unique to this discourse alone"],
+         "correct": 0,
+         "expl": "Impermanent, suffering, not fit to regard as self &mdash; run across all six fields, identically to SN 35.86."},
+        {"q": "What does this discourse narrate that SN 35.86 does not?",
+         "opts": ["Bāhiya's own attainment of arahantship, within this same discourse", "A dispute between Bāhiya and another mendicant", "Bāhiya's own death shortly afterward", "A refusal by Bāhiya to accept the teaching"],
+         "correct": 0,
+         "expl": "A rare case where the disciple's own liberation is confirmed in the same file as the request."},
+        {"q": "According to Sujato's own note, is this Bāhiya the same person as the famous Bāhiya Dārucīriya of Ud 1.10?",
+         "opts": ["No &mdash; that Bāhiya died almost immediately after his own teaching, so must be a different person", "Yes, explicitly confirmed by the note", "The discourse itself states they are different, without any note needed", "The question cannot be raised, since no other Bāhiya exists in the canon"],
+         "correct": 0,
+         "expl": "A disambiguation the note draws from Ud 1.10's own account of that Bāhiya's death."},
+        {"q": "Where else might this same Bāhiya, or a version of the same event, appear according to Sujato's own note?",
+         "opts": ["SN 47.15, where a monk of the same name also becomes an arahant", "MN 144, the Channovādasutta", "Thag 1.70, the same verse cited for Puṇṇa", "Nowhere else in the canon"],
+         "correct": 0,
+         "expl": "The note raises, without settling, whether these are two tellings of one event."},
+        {"q": "What second disambiguation has this vagga now raised, alongside this one?",
+         "opts": ["Channa (SN 35.87), distinguished from the Buddha's former charioteer", "Puṇṇa (SN 35.88), distinguished from a Koliyan ascetic", "Ānanda, distinguished from a different disciple of the same name", "Mahācunda, distinguished from Mahā Kassapa"],
+         "correct": 0,
+         "expl": "Both distinctions come directly from Sujato's own notes on this vagga's discourses."},
+    ],
+    marginalia=[
+        ("The same catechism", [
+            "as Ānanda's, at SN 35.86",
+        ]),
+        ("An attainment, narrated here", [
+            "soon, within this file itself",
+        ]),
+        ("Which Bāhiya?", [
+            "not the bark-cloth ascetic",
+        ]),
+        ("A second disambiguation", [
+            "Channa, and now Bāhiya",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.89/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.88.html">SN 35.88 &middot; With '
+        "Puṇṇa</a> &mdash; the previous discourse, the second "
+        "&ldquo;teach me in brief&rdquo; request.",
+        '<a href="sn-35.90.html">SN 35.90 &middot; Turbulence '
+        "(1st)</a> &mdash; the next discourse, this vagga's own "
+        "fourth pair.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.90 — Paṭhamaejāsutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 90, "Paṭhamaejā", "Turbulence (1st)",
+    vagga="Channavagga",
+    meta_title="SN 35.90 — Turbulence (1st) | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamaejāsutta — turbulence diagnosed as "
+        "disease, boil, and dart, met with a &ldquo;do not "
+        "conceive&rdquo; formula across the six sense fields and "
+        "&ldquo;the all.&rdquo; From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants "
+                      "directly"),
+        ("Form", "A direct teaching &mdash; turbulence named as "
+                 "disease, boil, and dart &mdash; followed by a "
+                 "&ldquo;do not conceive&rdquo; formula run across "
+                 "the six sense fields and &ldquo;the all&rdquo;"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama "
+                              "(T99), though this reading guide does "
+                              "not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; an unusual verb (&ldquo;does not "
+                       "conceive&rdquo;) carrying real weight"),
+    ],
+    why=(
+        "This discourse opens this vagga's own fourth pair, "
+        "turning from named disciples (Channa, Puṇṇa, Bāhiya) back "
+        "to a direct address to the mendicants as a group. "
+        "Turbulence (ejā) is diagnosed bluntly: &ldquo;a disease, a "
+        "boil, a dart&rdquo; &mdash; which is why the Realized One "
+        "&ldquo;lives unperturbed, with dart drawn out.&rdquo; The "
+        "practice that follows is a &ldquo;do not conceive&rdquo; "
+        "(na maññati) formula, echoing the Mūlapariyāyasutta's own "
+        "famous refrain (MN 1) in miniature: not conceiving "
+        "anything to be the eye, in the eye, as the eye, or "
+        "&ldquo;the eye is mine&rdquo; &mdash; repeated for each "
+        "field, and then, in this discourse's own closing line, for "
+        "&ldquo;the all&rdquo; (sabba) itself, the same totalizing "
+        "term this book has already defined at SN 35.23 and "
+        "revisited at SN 35.82. Sujato's own note distinguishes "
+        "this discourse's own concern from the fourth "
+        "absorption's own reputation for being &ldquo;imperturbable"
+        "&rdquo;: that stillness comes from freedom out of "
+        "pleasure and pain's own reactivity, while this discourse "
+        "&ldquo;deals with the ultimate imperturbability of the "
+        "perfected one&rdquo; &mdash; a stillness beyond even "
+        "jhāna's own."
+    ),
+    guide=[
+        ("Turbulence named as disease, boil, and dart", [
+            "The mendicants are addressed directly, without a "
+            "questioner: turbulence (ejā) is a disease, a boil, a "
+            "dart, and it is because of this that &ldquo;the "
+            "Realized One lives unperturbed, with dart drawn "
+            "out.&rdquo;",
+        ]),
+        ("Not conceiving, across the six fields and &ldquo;the all&rdquo;", [
+            "The practice for a mendicant who wishes the same "
+            "unperturbed state: do not conceive anything to be the "
+            "eye, in the eye, as the eye, or &ldquo;the eye is "
+            "mine&rdquo; &mdash; run for each of the six fields, "
+            "then for &ldquo;the all&rdquo; itself, the identical "
+            "totalizing term this book has already defined at SN "
+            "35.23 and revisited at SN 35.82.",
+        ]),
+        ("Beyond even the fourth absorption's own stillness", [
+            "Sujato's own note draws a real distinction: the fourth "
+            "absorption is called &ldquo;imperturbable&rdquo; "
+            "because it is free of ordinary reactivity to pleasure "
+            "and pain, but this discourse's own concern is with "
+            "&ldquo;the ultimate imperturbability of the perfected "
+            "one&rdquo; &mdash; a stillness this project has not yet "
+            "needed to distinguish from jhāna's own so explicitly.",
+        ]),
+    ],
+    terms=[
+        ("ejā", "turbulence &mdash; diagnosed at this discourse's "
+                   "own opening as a disease, a boil, and a dart"),
+        ("anejo", "unperturbed &mdash; how the Realized One is "
+                     "said to live, dart already drawn out"),
+        ("na maññati", "does not conceive &mdash; the recurring "
+                           "negative formula run across the six "
+                           "fields and &ldquo;the all,&rdquo; "
+                           "echoing the Mūlapariyāyasutta's (MN 1) "
+                           "own famous refrain of the same verb"),
+        ("sabba", "the all &mdash; the same totalizing term this "
+                     "book has already defined at SN 35.23 and "
+                     "revisited at SN 35.82, now folded into this "
+                     "non-conceiving formula"),
+        ("parinibbāyati", "personally becomes extinguished "
+                              "&mdash; the closing movement, from "
+                              "not-grasping through not-anxious to "
+                              "full quenching"),
+    ],
+    text_intro=("The complete discourse: turbulence diagnosed as "
+        "disease, boil, and dart, and the non-conceiving formula "
+        "run across the six sense fields and &ldquo;the all.&rdquo; "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.90:1.1-1.8"),
+        ("p", "&sect;2", "sn35.90:2.1-3.7"),
+        ("p", "&sect;3", "sn35.90:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "How does this discourse diagnose turbulence (ejā) at its own opening?",
+         "opts": ["As a disease, a boil, and a dart", "As a form of wisdom to be cultivated", "As synonymous with the four absorptions", "As a term left undefined"],
+         "correct": 0,
+         "expl": "Naming why the Realized One lives &ldquo;unperturbed, with dart drawn out.&rdquo;"},
+        {"q": "What practice does the Buddha recommend for a mendicant who wishes to live the same way?",
+         "opts": ["Not conceiving anything to be, in, as, or belonging to the eye and each sense field", "Suppressing all sensory experience entirely", "Avoiding contact with the six sense fields physically", "Debating the nature of turbulence with outside questioners"],
+         "correct": 0,
+         "expl": "The na maññati (&ldquo;does not conceive&rdquo;) formula, run across the six fields."},
+        {"q": "What totalizing term does this discourse's own closing line fold into the same formula?",
+         "opts": ["Sabba, &ldquo;the all&rdquo;", "Loka, &ldquo;the world&rdquo;", "Dvaya, &ldquo;a duality&rdquo;", "Khandha, &ldquo;an aggregate&rdquo;"],
+         "correct": 0,
+         "expl": "The same term this book already defined at SN 35.23 and revisited at SN 35.82."},
+        {"q": "According to Sujato's own note, how does this discourse's own concern differ from the fourth absorption's reputation for being &ldquo;imperturbable&rdquo;?",
+         "opts": ["This discourse deals with the ultimate imperturbability of the perfected one, beyond jhāna's own stillness", "There is no real difference between the two", "The fourth absorption is described as more stable than what this discourse teaches", "This discourse denies that any absorption can be called imperturbable"],
+         "correct": 0,
+         "expl": "A distinction Sujato's own note draws explicitly."},
+        {"q": "What earlier discourse's own famous refrain does &ldquo;does not conceive&rdquo; (na maññati) echo?",
+         "opts": ["The Mūlapariyāyasutta (MN 1)", "The Cūḷasuññatasutta (MN 121)", "The Channovādasutta (MN 144)", "No earlier discourse uses this verb"],
+         "correct": 0,
+         "expl": "The same verb, applied here in miniature to the six sense fields and &ldquo;the all.&rdquo;"},
+    ],
+    marginalia=[
+        ("Disease, boil, dart", [
+            "turbulence, named without softening",
+        ]),
+        ("Do not conceive", [
+            "not the eye, not mine",
+        ]),
+        ("&ldquo;The all,&rdquo; again", [
+            "folded into this same formula",
+        ]),
+        ("Beyond the fourth absorption", [
+            "the perfected one's own stillness",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.90/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.89.html">SN 35.89 &middot; With '
+        "Bāhiya</a> &mdash; the previous discourse, closing this "
+        "vagga's own trio of &ldquo;in brief&rdquo; requests.",
+        '<a href="sn-35.91.html">SN 35.91 &middot; Turbulence '
+        "(2nd)</a> &mdash; the next discourse, the same teaching "
+        "with an added refrain.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.91 — Dutiyaejāsutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 91, "Dutiyaejā", "Turbulence (2nd)",
+    vagga="Channavagga",
+    meta_title="SN 35.91 — Turbulence (2nd) | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaejāsutta — the same non-conceiving "
+        "teaching as SN 35.90, with an added refrain naming the "
+        "world's own instability, and aggregates, elements, and "
+        "sense fields named together. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants "
+                      "directly"),
+        ("Form", "The same non-conceiving teaching as SN 35.90, "
+                 "with an added refrain after each field-group and "
+                 "a closing clause naming three analytical "
+                 "frameworks together"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama "
+                              "(T99), though this reading guide does "
+                              "not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; the same teaching as SN 35.90, "
+                       "with a genuinely new closing move"),
+    ],
+    why=(
+        "This discourse repeats SN 35.90's own non-conceiving "
+        "formula almost verbatim, but interpolates a couplet after "
+        "each field-group: &ldquo;whatever you conceive it to be, "
+        "whatever you conceive it in, whatever you conceive it as, "
+        "and whatever you conceive to be 'mine': that becomes "
+        "something else. The world is attached to being, taking "
+        "pleasure only in being, yet it becomes something "
+        "else.&rdquo; This names the instability of conceiving "
+        "itself, not only its object. The discourse then closes "
+        "with a clause this vagga has not offered before: "
+        "&ldquo;as far as the aggregates, elements, and sense "
+        "fields extend&rdquo; &mdash; the first place in Channavagga "
+        "where khandhā (aggregates), dhātuyo (elements), and "
+        "āyatanāni (sense fields) are named together, gathering up "
+        "in one line the three major analytical frameworks this "
+        "book, and this project's own Book III (Khandhavagga) "
+        "before it, have each explored on their own separate "
+        "terms."
+    ),
+    guide=[
+        ("The same formula, an added refrain", [
+            "Word for word, the non-conceiving teaching of SN "
+            "35.90 repeats here &mdash; but after each field-group, "
+            "a new couplet appears, naming what happens to anything "
+            "conceived at all.",
+        ]),
+        ("&ldquo;It becomes something else&rdquo;", [
+            "&ldquo;For whatever you conceive it to be...that "
+            "becomes something else. The world is attached to "
+            "being, taking pleasure only in being, yet it becomes "
+            "something else&rdquo; &mdash; the instability named "
+            "directly, twice over, once for the eye's own chain and "
+            "once for the mind's.",
+        ]),
+        ("Aggregates, elements, and sense fields named together", [
+            "This discourse's own closing clause &mdash; "
+            "&ldquo;as far as the aggregates, elements, and sense "
+            "fields extend&rdquo; &mdash; is the first place in this "
+            "vagga where all three of this project's own major "
+            "analytical frameworks appear side by side in a single "
+            "line, rather than each explored separately across its "
+            "own saṃyutta.",
+        ]),
+    ],
+    terms=[
+        ("aññathā bhavati", "&ldquo;becomes something else&rdquo; "
+                                "&mdash; the refrain added twice "
+                                "over in this discourse, absent "
+                                "from its twin at SN 35.90"),
+        ("bhavarato", "delighting only in being &mdash; how "
+                          "&ldquo;the world&rdquo; is characterized "
+                          "in the same added refrain"),
+        ("khandhā", "aggregates &mdash; the first of three "
+                        "analytical frameworks named together in "
+                        "this discourse's own closing clause"),
+        ("dhātuyo", "elements &mdash; the second of the three, "
+                        "alongside khandhā and āyatanāni"),
+        ("āyatanāni", "sense fields &mdash; the third framework, "
+                          "and this book's own primary concern "
+                          "throughout"),
+    ],
+    text_intro=("The complete discourse: the non-conceiving "
+        "teaching repeated with an added refrain, closing with "
+        "aggregates, elements, and sense fields named together. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.91:1.1-1.10"),
+        ("p", "&sect;2", "sn35.91:2.1-3.6"),
+        ("p", "&sect;3", "sn35.91:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own non-conceiving formula relate to SN 35.90's?",
+         "opts": ["The same formula, repeated almost verbatim, with an added refrain", "An entirely different teaching, sharing only its title's numbering", "A shortened summary of SN 35.90", "A refutation of SN 35.90's own teaching"],
+         "correct": 0,
+         "expl": "This vagga's own second half of the turbulence pair."},
+        {"q": "What does the added refrain say happens to whatever is conceived?",
+         "opts": ["It becomes something else", "It remains permanently fixed", "It is destroyed outright", "It transforms into &ldquo;the all&rdquo;"],
+         "correct": 0,
+         "expl": "&ldquo;Aññathā bhavati&rdquo; &mdash; naming instability in conceiving itself, not only its object."},
+        {"q": "How is &ldquo;the world&rdquo; characterized in this same added refrain?",
+         "opts": ["Attached to being, taking pleasure only in being, yet becoming something else", "Empty of self, as at SN 35.85", "Liable to wear out, as at SN 35.84", "A duality, as at SN 35.92&ndash;93"],
+         "correct": 0,
+         "expl": "A restless attachment to being that does not hold still."},
+        {"q": "What three frameworks does this discourse's own closing clause name together, for the first time in this vagga?",
+         "opts": ["Aggregates, elements, and sense fields", "The three marks: impermanence, suffering, not-self", "The three fetters broken by a stream-enterer", "The three kinds of feeling"],
+         "correct": 0,
+         "expl": "Khandhā, dhātuyo, and āyatanāni, gathered in a single line."},
+        {"q": "Why is this closing clause notable within this project's own larger structure?",
+         "opts": ["It is the first place in this vagga where all three major analytical frameworks appear side by side", "It contradicts the aggregates already explored in Book III", "It replaces the six sense fields entirely with the aggregates", "It is the only place in the entire project where aggregates are mentioned"],
+         "correct": 0,
+         "expl": "Frameworks this project has otherwise explored one saṃyutta at a time."},
+    ],
+    marginalia=[
+        ("The same formula", [
+            "as SN 35.90, word for word",
+        ]),
+        ("&ldquo;Becomes something else&rdquo;", [
+            "conceiving itself, unstable",
+        ]),
+        ("Attached to being", [
+            "yet never holding still",
+        ]),
+        ("Three frameworks, one line", [
+            "aggregates, elements, fields",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.91/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.90.html">SN 35.90 &middot; Turbulence '
+        "(1st)</a> &mdash; the previous discourse, this pair's own "
+        "first half.",
+        '<a href="sn-35.92.html">SN 35.92 &middot; A Duality '
+        "(1st)</a> &mdash; the next discourse, this vagga's own "
+        "closing pair.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.92 — Paṭhamadvayasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 92, "Paṭhamadvaya", "A Duality (1st)",
+    vagga="Channavagga",
+    meta_title="SN 35.92 — A Duality (1st) | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamadvayasutta — a short, sharp definition of "
+        "&ldquo;a duality&rdquo; as the six sense faculties paired "
+        "with their objects, and a refusal of any alternative. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants "
+                      "directly"),
+        ("Form", "A short, sharp definition of &ldquo;a "
+                 "duality,&rdquo; followed by a refusal in advance "
+                 "of any claim to describe an alternative one"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama "
+                              "(T99), though this reading guide does "
+                              "not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; deceptively short, genuinely "
+                       "difficult once its own target is "
+                       "understood"),
+    ],
+    why=(
+        "This discourse opens the vagga's own closing pair with a "
+        "definition so brief it can be missed on a first reading: "
+        "&ldquo;a duality&rdquo; (dvayaṁ) is simply each sense "
+        "faculty paired with its own object &mdash; the eye and "
+        "sights, the ear and sounds, and so on through the mind and "
+        "ideas. Anyone who claims to reject this duality and "
+        "&ldquo;describe another duality&rdquo; instead, the "
+        "Buddha says, would have &ldquo;no grounds for that "
+        "claim,&rdquo; would be &ldquo;stumped by questions,&rdquo; "
+        "and would only grow frustrated &mdash; because they are "
+        "&ldquo;out of their element.&rdquo; Sujato's own note, "
+        "shared across this discourse and its twin (SN 35.93), "
+        "reads this as a pointed engagement with a specific rival "
+        "position: the Upanishadic sage Yājñavalkya's own doctrine "
+        "of a single, infinite, non-dual consciousness, taught "
+        "especially at Bṛhadāraṇyaka Upaniṣad 2.4 (= 4.5) and "
+        "4.3. Where Yājñavalkya held that ultimate reality dissolves "
+        "all subject-object duality into one undivided Self, the "
+        "Buddha's own move here is to treat the dualistic structure "
+        "of the six senses as primary and inescapable &mdash; there "
+        "is no duality-free vantage point to assert instead. This "
+        "is, as far as this reading guide can trace, the first "
+        "point in this project where a rival philosophical current "
+        "is engaged this specifically, rather than through the "
+        "six wandering teachers this project already met in "
+        "Diṭṭhisaṃyutta's own SN 24.5&ndash;8."
+    ),
+    guide=[
+        ("A duality defined narrowly and precisely", [
+            "&ldquo;A duality&rdquo; is named, without ceremony, as "
+            "nothing more than each of the six sense faculties "
+            "paired with its own object: the eye and sights, the "
+            "ear and sounds, the nose and smells, the tongue and "
+            "tastes, the body and touches, the mind and ideas.",
+        ]),
+        ("No grounds for an alternative", [
+            "Anyone who claims to reject this duality in favor of "
+            "another, the Buddha says, would have no real grounds "
+            "for the claim, would be stumped under questioning, "
+            "and would only grow frustrated &mdash; &ldquo;because "
+            "they're out of their element.&rdquo;",
+        ]),
+        ("Sujato's own note: a debate with Yājñavalkya", [
+            "Shared across this discourse and its twin at SN 35.93, "
+            "Sujato's own note reads both as engaging &mdash; from "
+            "internal evidence, without the rival being named "
+            "directly &mdash; the Upanishadic sage Yājñavalkya's own "
+            "doctrine of a single, infinite, non-dual consciousness "
+            "(Bṛhadāraṇyaka Upaniṣad 2.4 = 4.5, and 4.3).",
+        ]),
+        ("The senses as inescapably dual", [
+            "Where Yājñavalkya held that duality itself dissolves in "
+            "the true Self, this discourse's own move is to treat "
+            "the paired structure of the six senses as simply how "
+            "experience is built &mdash; leaving no duality-free "
+            "position from which an alternative could even be "
+            "stated.",
+        ]),
+    ],
+    terms=[
+        ("dvayaṁ", "a duality &mdash; defined here as strictly the "
+                       "pairing of each sense faculty with its own "
+                       "object, and nothing more"),
+        ("vācāvatthukaṁ", "&ldquo;a mere matter of words&rdquo; "
+                              "&mdash; what any claim to an "
+                              "alternative duality amounts to, on "
+                              "the Buddha's own account"),
+        ("avisaya", "out of one's element, out of one's depth "
+                        "&mdash; why such a claim collapses under "
+                        "questioning"),
+        ("Yājñavalkya", "the Upanishadic sage whose doctrine of "
+                            "non-dual consciousness Sujato's own "
+                            "note identifies as this discourse's "
+                            "likely, though unnamed, target"),
+        ("Bṛhadāraṇyaka Upaniṣad", "the text (2.4 = 4.5, and "
+                                        "4.3) Sujato's own note "
+                                        "cites for Yājñavalkya's own "
+                                        "claim that duality itself "
+                                        "dissolves in the true "
+                                        "Self"),
+    ],
+    text_intro=("The complete discourse: a short definition of "
+        "&ldquo;a duality,&rdquo; and a refusal of any claim to "
+        "describe an alternative one. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.92:1.1-1.5"),
+        ("p", "&sect;2", "sn35.92:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse define &ldquo;a duality&rdquo; (dvayaṁ)?",
+         "opts": ["Each of the six sense faculties paired with its own object", "The pairing of self and world", "The pairing of past and future", "A term left undefined until SN 35.93"],
+         "correct": 0,
+         "expl": "The eye and sights, the ear and sounds, and so on through the mind and ideas."},
+        {"q": "What happens, according to the Buddha, to anyone who claims to reject this duality and describe another?",
+         "opts": ["They have no real grounds for the claim and are stumped under questioning", "They succeed, and a second duality is confirmed", "The Buddha refuses to respond to the claim at all", "They are praised for their philosophical insight"],
+         "correct": 0,
+         "expl": "&ldquo;Out of their element&rdquo; &mdash; the claim collapses in advance."},
+        {"q": "According to Sujato's own note, which rival doctrine does this discourse (and its twin, SN 35.93) most likely engage?",
+         "opts": ["Yājñavalkya's doctrine of a single, non-dual consciousness", "The six wandering teachers met in SN 24.5&ndash;8", "Jain doctrines of the soul's own weight", "A doctrine not otherwise identified in the note"],
+         "correct": 0,
+         "expl": "Traced especially to Bṛhadāraṇyaka Upaniṣad 2.4 (= 4.5) and 4.3."},
+        {"q": "How does this discourse's own move differ from Yājñavalkya's, as the note frames it?",
+         "opts": ["It treats the senses' dualistic structure as primary, with no duality-free position to assert instead", "It agrees that duality dissolves in a unified Self", "It denies that the six senses are paired at all", "It refuses to take any position on duality"],
+         "correct": 0,
+         "expl": "No alternative vantage point is available, on the Buddha's own account."},
+        {"q": "How does this reading guide characterize this discourse's significance within the wider project?",
+         "opts": ["As, so far as it can trace, the first point engaging a specific rival philosophical current this directly", "As a simple repetition of the six-field chain met throughout this book", "As unrelated to any other discourse in this project", "As a direct rebuttal of the Channa narrative earlier in this vagga"],
+         "correct": 0,
+         "expl": "Distinct from the six wandering teachers already met in SN 24.5&ndash;8."},
+    ],
+    marginalia=[
+        ("A duality, defined", [
+            "faculty and object, nothing more",
+        ]),
+        ("No alternative available", [
+            "stumped, out of their element",
+        ]),
+        ("A debate with Yājñavalkya", [
+            "Sujato's own note, unnamed target",
+        ]),
+        ("Duality as primary", [
+            "no duality-free vantage point",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.92/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.91.html">SN 35.91 &middot; Turbulence '
+        "(2nd)</a> &mdash; the previous discourse, this vagga's "
+        "own fourth pair.",
+        '<a href="sn-35.93.html">SN 35.93 &middot; A Duality '
+        "(2nd)</a> &mdash; the next discourse, completing the "
+        "argument and closing this vagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.93 — Dutiyadvayasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 93, "Dutiyadvaya", "A Duality (2nd)",
+    vagga="Channavagga",
+    meta_title="SN 35.93 — A Duality (2nd) | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyadvayasutta — consciousness shown to arise "
+        "dependent on a duality, not as an eternal witnessing self, "
+        "closing Channavagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants "
+                      "directly"),
+        ("Form", "Dependent origination run through each sense "
+                 "duality &mdash; consciousness, contact, and the "
+                 "co-arisen mental factors, each declared "
+                 "impermanent in turn &mdash; closing this vagga "
+                 "with its own colophon and uddāna"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama "
+                              "(T99), though this reading guide does "
+                              "not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; the companion argument to SN 35.92, "
+                       "carrying the same weight"),
+    ],
+    why=(
+        "This discourse completes the argument SN 35.92 opened, "
+        "and closes Channavagga. Consciousness (viññāṇa) is shown "
+        "arising dependent on a duality &mdash; eye consciousness "
+        "dependent on the eye and sights, and so on &mdash; and "
+        "since both halves of every such pairing are &ldquo;"
+        "impermanent, decaying, and perishing,&rdquo; the "
+        "consciousness that arises from them cannot itself be "
+        "permanent: &ldquo;since eye consciousness has arisen "
+        "dependent on conditions that are impermanent, how could it "
+        "be permanent?&rdquo; The same reasoning extends to contact, "
+        "and to the feeling, intention, and perception contact gives "
+        "rise to. Sujato's own note, continuing directly from SN "
+        "35.92, names the target this argument answers: "
+        "Yājñavalkya's own description of the ultimate Self as "
+        "&ldquo;this great reality, infinite, unbounded, a sheer "
+        "mass of consciousness&rdquo; (Bṛhadāraṇyaka Upaniṣad "
+        "2.4.12) &mdash; an eternal, changeless &ldquo;uncognized "
+        "cognizer&rdquo; beneath the world's own passing forms. "
+        "Against this, the Buddha's own argument here is structural, "
+        "not merely assertive: consciousness just is what depends "
+        "on a duality, so no version of it could be the "
+        "changeless witness Yājñavalkya describes. The English "
+        "translation compresses the middle of this discourse's own "
+        "six-field chain (ear through body given only as ellipsis, "
+        "with no text supplied), even though the Pali root itself "
+        "carries the full parallel wording throughout &mdash; the "
+        "third time this book has met this exact pattern, after SN "
+        "35.33 and SN 35.59. This file's own closing lines carry a "
+        "colophon reading &ldquo;Channavaggo catuttho&rdquo; "
+        "&mdash; &ldquo;Channavagga is the fourth&rdquo; &mdash; "
+        "confirming, as this project's own established pattern (SN "
+        "22.52, SN 35.52, SN 35.62, SN 35.73) predicts, that this "
+        "vagga is the fourth vagga of Saḷāyatanasaṃyutta's own "
+        "second paṇṇāsaka, following Avijjāvagga, Migajālavagga, "
+        "and Gilānavagga in turn. The closing uddāna, left "
+        "untranslated in Sujato's own English exactly as at SN "
+        "35.62, 35.73, and 35.83, groups this vagga's own ten "
+        "discourses precisely as this reading guide has followed "
+        "them: wearing-out, emptiness, and the brief teaching (three "
+        "together), Channa, Puṇṇa, and Bāhiya (named individually), "
+        "turbulence (a pair), and duality (a further pair)."
+    ),
+    guide=[
+        ("The companion discourse completes the argument", [
+            "Where SN 35.92 defined &ldquo;a duality&rdquo; and "
+            "refused any alternative, this discourse shows what "
+            "depends on that duality: consciousness itself, arising "
+            "only where a sense faculty meets its own object.",
+        ]),
+        ("Consciousness, dependently arisen &mdash; not a &ldquo;sheer mass of consciousness&rdquo;", [
+            "Eye and sights are each impermanent; the duality they "
+            "form is therefore &ldquo;tottering and toppling&rdquo;; "
+            "and eye consciousness, arisen dependent on impermanent "
+            "conditions, cannot itself be permanent. The same "
+            "reasoning runs through contact, feeling, intention, and "
+            "perception in turn.",
+        ]),
+        ("Sujato's own note: naming the target directly", [
+            "Continuing from SN 35.92, the note now quotes "
+            "Yājñavalkya's own words for the ultimate Self: "
+            "&ldquo;this great reality, infinite, unbounded, a "
+            "sheer mass of consciousness&rdquo; (Bṛhadāraṇyaka "
+            "Upaniṣad 2.4.12), an eternal witness beneath the "
+            "world's changing forms. This discourse's own structural "
+            "argument &mdash; consciousness just is what depends on "
+            "a duality &mdash; answers that claim without needing to "
+            "name it.",
+        ]),
+        ("English more compressed than Pali, a third time in this book", [
+            "The English translation supplies no text for ear "
+            "through body in this discourse's own middle section, "
+            "leaving only an ellipsis, even though the Pali root "
+            "itself carries the full parallel wording &mdash; the "
+            "same editorial choice this project has already met "
+            "twice before in this book, at SN 35.33 and SN 35.59.",
+        ]),
+        ("A colophon confirming the second fifty's own fourth vagga", [
+            "This file's own closing colophon, &ldquo;Channavaggo "
+            "catuttho&rdquo; (&ldquo;Channavagga is the "
+            "fourth&rdquo;), confirms &mdash; following the "
+            "pattern already established at SN 22.52, SN 35.52, SN "
+            "35.62, and SN 35.73 &mdash; that this vagga is the "
+            "fourth vagga of Saḷāyatanasaṃyutta's own second "
+            "paṇṇāsaka, after Avijjāvagga, Migajālavagga, and "
+            "Gilānavagga opened it in turn.",
+        ]),
+        ("Ten discourses, and the uddāna's own grouping", [
+            "This file's own closing uddāna, left untranslated "
+            "exactly as at SN 35.62, 35.73, and 35.83, names this "
+            "vagga's own contents by a shape this reading guide has "
+            "followed exactly: wearing-out, emptiness, and the brief "
+            "teaching together; then Channa, Puṇṇa, and Bāhiya each "
+            "named individually; then turbulence, &ldquo;told in "
+            "two&rdquo;; then duality, &ldquo;another two.&rdquo; "
+            "Channavagga's own title advertises a single named "
+            "figure, and delivers exactly one discourse built around "
+            "him &mdash; but the vagga as a whole ranges across five "
+            "distinct units, not a single narrative arc.",
+        ]),
+    ],
+    terms=[
+        ("viññāṇa", "consciousness &mdash; shown arising dependent "
+                        "on a duality, not as an eternal witnessing "
+                        "self"),
+        ("aniccā vipariṇāmino aññathābhāvino", "impermanent, "
+             "decaying, and perishing &mdash; the refrain applied "
+             "to every link in the chain, faculty through feeling"),
+        ("Yājñavalkya", "again the implicit target; Sujato's own "
+                            "note quotes his own description of the "
+                            "ultimate Self as &ldquo;a sheer mass "
+                            "of consciousness&rdquo; directly from "
+                            "Bṛhadāraṇyaka Upaniṣad 2.4.12"),
+        ("Channavaggo catuttho", "&ldquo;Channavagga is the "
+                                     "fourth&rdquo; &mdash; this "
+                                     "file's own untranslated "
+                                     "closing colophon, confirming "
+                                     "this vagga's place as the "
+                                     "fourth of Saḷāyatanasaṃyutta's "
+                                     "own second paṇṇāsaka"),
+        ("tassuddānaṁ", "&ldquo;its own summary&rdquo; &mdash; the "
+                            "untranslated closing verse naming all "
+                            "ten discourses by content, confirming "
+                            "the three-one-two-two grouping"),
+    ],
+    text_intro=("The complete discourse: consciousness shown "
+        "arising dependent on a duality, and each link in the chain "
+        "declared impermanent in turn. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.93:1.1-1.15"),
+        ("p", "&sect;2", "sn35.93:2.1-2.13"),
+        ("p", "&sect;3", "sn35.93:3.1-3.14"),
+    ],
+    quiz=[
+        {"q": "What does this discourse show arising dependent on a duality?",
+         "opts": ["Consciousness (viññāṇa)", "The self (attā)", "Turbulence (ejā)", "The world (loka)"],
+         "correct": 0,
+         "expl": "Eye consciousness dependent on the eye and sights, and so on through the mind."},
+        {"q": "Why can eye consciousness not be permanent, on this discourse's own reasoning?",
+         "opts": ["Because it arises dependent on conditions that are themselves impermanent", "Because the eye itself is permanent but consciousness is not", "The discourse does not address permanence directly", "Because consciousness precedes the eye and sights"],
+         "correct": 0,
+         "expl": "A structural argument, not a bare assertion."},
+        {"q": "What does Sujato's own note identify as this discourse's own implicit target, quoting his words directly?",
+         "opts": ["Yājñavalkya's description of the Self as &ldquo;a sheer mass of consciousness&rdquo;", "The six wandering teachers of SN 24.5&ndash;8", "The Jain doctrine of the soul's own weight", "A target the note declines to identify"],
+         "correct": 0,
+         "expl": "Quoted from Bṛhadāraṇyaka Upaniṣad 2.4.12."},
+        {"q": "What editorial pattern does this discourse's own English translation repeat for a third time in this book?",
+         "opts": ["Compressing a middle section to ellipsis where the Pali root carries the full parallel text", "Omitting the discourse's own closing refrain entirely", "Translating a term two different ways within one file", "Leaving the entire discourse untranslated"],
+         "correct": 0,
+         "expl": "Already met at SN 35.33 and SN 35.59, earlier in this book."},
+        {"q": "What does this file's own closing colophon, &ldquo;Channavaggo catuttho,&rdquo; confirm?",
+         "opts": ["Channavagga is the fourth vagga of Saḷāyatanasaṃyutta's own second paṇṇāsaka", "Channavagga is the fourth vagga of the entire saṃyutta", "This is the fourth discourse of the vagga", "This colophon is a scribal error"],
+         "correct": 0,
+         "expl": "Following Avijjāvagga, Migajālavagga, and Gilānavagga in the second fifty."},
+        {"q": "How does this vagga's own closing uddāna group its ten discourses, matching this reading guide's own account?",
+         "opts": ["Three together (wearing-out, emptiness, brief teaching), then Channa, Puṇṇa, and Bāhiya individually, then turbulence as a pair, then duality as a further pair", "All ten named individually with no grouping", "By which sense field each discourse concerns", "It omits several discourses entirely"],
+         "correct": 0,
+         "expl": "A shape this vagga's own title only partly advertises."},
+    ],
+    marginalia=[
+        ("Consciousness, dependently arisen", [
+            "not a sheer mass, eternal",
+        ]),
+        ("Naming Yājñavalkya's own words", [
+            "&ldquo;infinite, unbounded&rdquo;",
+        ]),
+        ("&ldquo;The fourth&rdquo;", [
+            "fourth vagga of the second fifty",
+        ]),
+        ("Ten discourses, five units", [
+            "three, one, two, and two",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.93/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.92.html">SN 35.92 &middot; A Duality '
+        "(1st)</a> &mdash; the previous discourse, this vagga's own "
+        "penultimate teaching.",
+        '<a href="sn-36.6.html">SN 36.6 &middot; An Arrow</a> '
+        "&mdash; already published on this site, standing ahead of "
+        "this book's own next vagga, Saḷavagga (SN "
+        "35.94&ndash;103), not yet built.",
+    ],
+)
