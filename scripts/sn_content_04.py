@@ -24209,3 +24209,4055 @@ page(
         "35.168&ndash;227), not yet built.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 35.168 — Ajjhattaaniccachandasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 168, "Ajjhattaaniccachanda", "Desire for the Impermanent Interior",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.168 &mdash; Desire for the Impermanent Interior | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Ajjhattaaniccachandasutta &mdash; opening Saṭṭhipeyyālavagga, "
+        "Saḷāyatanasaṃyutta's own largest vagga, sixty discourses built "
+        "from a single combinatorial matrix. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A single instruction: give up desire for the six "
+                 "interior sense fields, each declared impermanent"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "opens this book's largest vagga, whose own name "
+                       "announces its scale"),
+    ],
+    why=(
+        "This discourse opens Saṭṭhipeyyālavagga (&ldquo;the sixty "
+        "abbreviated texts&rdquo;), Saḷāyatanasaṃyutta's own seventeenth "
+        "vagga and, at sixty discourses, its largest by a wide margin. "
+        "The vagga's own closing colophon (at SN 35.227) later spells "
+        "out its arithmetic in an untranslated summary verse: sixty "
+        "discourses built from four combinatorial rounds of "
+        "eighteen-eighteen-eighteen-six, each round crossing interior "
+        "and exterior sense fields with impermanence, suffering, and "
+        "not-self. This discourse is round one's own opening item: give "
+        "up <em>desire</em> (chanda) for the interior sense fields, "
+        "declared impermanent."
+    ),
+    guide=[
+        ("The vagga's own name, confirmed from the root text", [
+            "Bilara-data's own heading for this discourse (&ldquo;17. "
+            "Saṭṭhipeyyālavagga&rdquo;, rendered by Sujato as "
+            "&ldquo;Sixty Abbreviated Texts&rdquo;) confirms both this "
+            "vagga's position (seventeenth) and its own defining "
+            "feature &mdash; almost all of its sixty discourses are "
+            "peyyāla, elided formula-texts, not narrative material.",
+        ]),
+        ("Round one's first variable: desire, greed, or both", [
+            "This discourse and its two immediate companions (SN "
+            "35.169-170) share the same subject &mdash; the interior "
+            "sense fields (eye, ear, nose, tongue, body, mind), each "
+            "declared impermanent &mdash; and differ only in what is "
+            "to be given up: desire (chanda) here, greed (rāga) next, "
+            "and both together (chandarāga) the discourse after.",
+        ]),
+        ("A three-item unit, kept as three separate files here", [
+            "This is the only one of round one's six interior/exterior "
+            "&times; impermanent/suffering/not-self combinations that "
+            "bilara-data preserves as three separate one-line files "
+            "rather than merging desire, greed, and both-together into "
+            "a single elided sentence &mdash; the remaining five "
+            "combinations (SN 35.171 onward) each compress the same "
+            "three-item unit into one file.",
+        ]),
+    ],
+    terms=[
+        ("chando pahātabbo", "&ldquo;desire should be given "
+             "up&rdquo; &mdash; this discourse's own instruction, the "
+             "first of round one's three variants"),
+        ("anicca", "impermanent &mdash; the quality declared of the "
+             "six interior sense fields in this discourse"),
+        ("ajjhattikāyatana", "the six interior sense fields (eye, ear, "
+             "nose, tongue, body, mind) &mdash; this discourse's own "
+             "subject, as opposed to the six exterior fields addressed "
+             "from SN 35.177 onward"),
+        ("rāga", "greed &mdash; the second variant, substituted in at "
+             "SN 35.169"),
+        ("chandarāga", "desire-and-greed together &mdash; the third "
+             "variant, at SN 35.170"),
+    ],
+    text_intro=("The complete discourse: the instruction, then the "
+        "definition of what is impermanent. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.168:1.1-1.2"),
+        ("p", "&sect;2", "sn35.168:1.3-1.6"),
+    ],
+    quiz=[
+        {"q": "What does this discourse instruct mendicants to give up?",
+         "opts": ["Desire (chanda) for what is impermanent", "Greed (rāga) for what is impermanent", "Desire and greed together for what is impermanent", "All craving for existence"],
+         "correct": 0,
+         "expl": "Chando pahātabbo — the first of round one's three variants."},
+        {"q": "Which six sense fields does this discourse name?",
+         "opts": ["The eye, ear, nose, tongue, body, and mind — the six interior fields", "Sights, sounds, smells, tastes, touches, and ideas", "Only the eye and the mind", "The four elements and space and consciousness"],
+         "correct": 0,
+         "expl": "Ajjhattikāyatana, the six interior sense fields; the exterior fields follow from SN 35.177."},
+        {"q": "How does this discourse's own bilara-data file differ from its two immediate companions, SN 35.169-170?",
+         "opts": ["It is the only one of the three kept as its own separate file rather than merged with the others", "It is the only one with a title", "It is the only one addressed to mendicants", "It alone mentions the exterior sense fields"],
+         "correct": 0,
+         "expl": "SN 35.168-170 are three separate one-line files; every other combination in round one merges its three variants into a single file."},
+        {"q": "What does this vagga's own name, Saṭṭhipeyyālavagga, mean?",
+         "opts": ["The sixty abbreviated texts", "The vagga of the six sense fields", "The vagga of desire and greed", "The final vagga of Saḷāyatanasaṃyutta"],
+         "correct": 0,
+         "expl": "Confirmed from bilara-data's own heading, Sujato's own rendering of the vagga title."},
+        {"q": "What two variables does this discourse's own closing colophon (at SN 35.227) confirm structure the whole vagga's sixty discourses?",
+         "opts": ["Interior/exterior sense fields, crossed with impermanent/suffering/not-self, across four combinatorial rounds", "Past, present, and future only", "The four noble truths", "Desire and greed alone, repeated sixty times"],
+         "correct": 0,
+         "expl": "The colophon's own untranslated arithmetic verse (eighteen-eighteen-eighteen-six) confirms this two-axis combinatorial design."},
+    ],
+    marginalia=[
+        ("The largest vagga opens", [
+            "sixty texts, its own name says so —",
+            "Saṭṭhipeyyālavagga begins",
+        ]),
+        ("Desire, for what does not last", [
+            "chando pahātabbo —",
+            "give up desire for the impermanent",
+        ]),
+        ("Six interior fields, named in full", [
+            "eye, ear, nose, tongue, body, mind —",
+            "the exterior six wait until SN 35.177",
+        ]),
+        ("Three variants, one kept separate", [
+            "desire, then greed, then both together —",
+            "only this trio stays three files, not one",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.168/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.167.html">SN 35.167 &middot; Giving Up '
+        "Theory of Self</a> &mdash; the previous discourse, closing "
+        "Nandikkhayavagga.",
+        '<a href="sn-35.169.html">SN 35.169 &middot; Greed for the '
+        "Impermanent Interior</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.169 — Ajjhattaaniccarāgasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 169, "Ajjhattaaniccarāga", "Greed for the Impermanent Interior",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.169 &mdash; Greed for the Impermanent Interior | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ajjhattaaniccarāgasutta &mdash; the second of round one's "
+        "three variants, substituting greed (rāga) for SN 35.168's own "
+        "desire (chanda). From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 35.168, with greed "
+                 "(rāga) substituted for desire (chanda)"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single substitution on SN 35.168's own "
+                       "frame"),
+    ],
+    why=(
+        "This discourse is round one's second variant: the identical "
+        "interior sense fields, the identical declaration of "
+        "impermanence, but greed (rāga) substituted for SN 35.168's "
+        "own desire (chanda). Sujato's own English compresses the "
+        "repeated material with an ellipsis once the substitution is "
+        "made, trusting the reader to supply SN 35.168's own full "
+        "six-field elaboration."
+    ),
+    guide=[
+        ("One substitution: rāga for chanda", [
+            "&ldquo;You should give up greed for what is "
+            "impermanent&rdquo; replaces SN 35.168's own "
+            "&ldquo;desire&rdquo; &mdash; the sense fields, the "
+            "declaration of impermanence, and the closing repetition "
+            "are otherwise unchanged.",
+        ]),
+        ("A pair, not yet a trio", [
+            "Desire (chanda) and greed (rāga) name two related but "
+            "distinct afflictive responses &mdash; chanda the wish or "
+            "inclination toward an object, rāga the stronger pull of "
+            "attachment. This project has not previously needed to "
+            "distinguish them this explicitly; here they are named as "
+            "separate targets before SN 35.170 combines them.",
+        ]),
+    ],
+    terms=[
+        ("rāgo pahātabbo", "&ldquo;greed should be given up&rdquo; "
+             "&mdash; this discourse's own substitution for SN "
+             "35.168's chando pahātabbo"),
+        ("chanda", "desire &mdash; SN 35.168's own term, distinguished "
+             "here from rāga"),
+        ("anicca", "impermanent &mdash; the quality declared of the "
+             "six interior sense fields, unchanged from SN 35.168"),
+        ("ajjhattikāyatana", "the six interior sense fields &mdash; "
+             "eye, ear, nose, tongue, body, mind, unchanged from SN "
+             "35.168"),
+        ("chandarāga", "desire-and-greed together &mdash; the third "
+             "variant, following at SN 35.170"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "ellipsis (Sujato's own English elides the repeated material, "
+        "identical to SN 35.168's own): the instruction, then the "
+        "definition of what is impermanent. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.169:1.1-1.2"),
+        ("p", "&sect;2", "sn35.169:1.3-1.8"),
+    ],
+    quiz=[
+        {"q": "What single word does this discourse substitute for SN 35.168's own &ldquo;desire&rdquo; (chanda)?",
+         "opts": ["Greed (rāga)", "Craving (taṇhā)", "Ignorance (avijjā)", "Conceit (māna)"],
+         "correct": 0,
+         "expl": "Rāgo pahātabbo, the second of round one's three variants."},
+        {"q": "What sense fields does this discourse address?",
+         "opts": ["The six interior fields, unchanged from SN 35.168", "The six exterior fields", "Only the eye", "All twelve interior and exterior fields together"],
+         "correct": 0,
+         "expl": "Ajjhattikāyatana, exactly as in SN 35.168; only the target of abandonment changes."},
+        {"q": "What third variant follows this discourse, at SN 35.170?",
+         "opts": ["Desire and greed together (chandarāga)", "Craving and conceit together", "A return to desire alone", "A shift to the exterior sense fields"],
+         "correct": 0,
+         "expl": "SN 35.170 combines desire and greed into a single compound term, completing round one's first three-item unit."},
+        {"q": "How does Sujato's own English handle the repeated material in this discourse?",
+         "opts": ["It compresses it with an ellipsis, trusting the reader to supply SN 35.168's own full elaboration", "It repeats every word in full", "It omits the sense fields entirely", "It translates the Pāli root differently for each field"],
+         "correct": 0,
+         "expl": "A single-substitution compression, the same technique this project has traced across many other peyyāla ranges."},
+        {"q": "How does this discourse's own bilara-data file relate to SN 35.168's?",
+         "opts": ["It is kept as its own separate file, the second of three in this trio", "It is merged with SN 35.168 into one file", "It is merged with all sixty discourses of the vagga", "It does not exist as a separate file"],
+         "correct": 0,
+         "expl": "SN 35.168-170 are the vagga's only three-item unit kept as three separate files rather than one merged file."},
+    ],
+    marginalia=[
+        ("One word changes", [
+            "rāga replaces chanda —",
+            "greed, not desire, given up",
+        ]),
+        ("Same fields, same frame", [
+            "eye, ear, nose, tongue, body, mind —",
+            "unchanged from the discourse before",
+        ]),
+        ("A pair distinguished", [
+            "desire and greed, named apart —",
+            "before SN 35.170 joins them",
+        ]),
+        ("Compression begins", [
+            "an ellipsis stands in —",
+            "for what SN 35.168 spelled out",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.169/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.168.html">SN 35.168 &middot; Desire for the '
+        "Impermanent Interior</a> &mdash; the previous discourse.",
+        '<a href="sn-35.170.html">SN 35.170 &middot; Desire and '
+        "Greed for the Impermanent Interior</a> &mdash; the next "
+        "discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.170 — Ajjhattaaniccachandarāgasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 170, "Ajjhattaaniccachandarāga",
+    "Desire and Greed for the Impermanent Interior",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.170 &mdash; Desire and Greed for the Impermanent "
+                "Interior | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ajjhattaaniccachandarāgasutta &mdash; closing round one's "
+        "first three-item unit by combining SN 35.168's desire and SN "
+        "35.169's greed into a single compound term. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 35.168-169, with the "
+                 "compound chandarāga (desire-and-greed) substituted"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "closes the three-file opening unit"),
+    ],
+    why=(
+        "This discourse closes round one's opening three-item unit: "
+        "desire (SN 35.168), greed (SN 35.169), and now desire-and-"
+        "greed together (chandarāga) &mdash; the same compound term "
+        "that every one of round one's remaining five, merged "
+        "combinations (SN 35.171 onward) will fold into a single "
+        "elided sentence rather than spelling out as its own file."
+    ),
+    guide=[
+        ("The compound that unifies the trio", [
+            "Chandarāga is not a fourth, separate affliction but "
+            "desire and greed named together &mdash; the term every "
+            "later merged file in round one (SN 35.171 onward) will "
+            "use once, compressing what this trio spells out across "
+            "three separate discourses into a single elided "
+            "sentence.",
+        ]),
+        ("Why this trio alone gets three files", [
+            "SN 35.168-170 is the only combination in round one kept "
+            "as three separate files; every other interior/exterior "
+            "&times; impermanent/suffering/not-self pairing merges "
+            "its own desire/greed/both trio directly. This trio's "
+            "own separateness may simply preserve, at this vagga's "
+            "opening, the individual shape each variant would "
+            "otherwise take before the pattern is established and "
+            "compression begins.",
+        ]),
+    ],
+    terms=[
+        ("chandarāgo pahātabbo", "&ldquo;desire and greed should be "
+             "given up&rdquo; &mdash; this discourse's own compound "
+             "term, uniting SN 35.168's chanda and SN 35.169's rāga"),
+        ("chanda", "desire &mdash; SN 35.168's own term"),
+        ("rāga", "greed &mdash; SN 35.169's own term"),
+        ("anicca", "impermanent &mdash; the quality declared of the "
+             "six interior sense fields, unchanged across all three "
+             "discourses of this unit"),
+        ("ajjhattikāyatana", "the six interior sense fields &mdash; "
+             "unchanged across SN 35.168-170, before SN 35.177 turns "
+             "to the exterior fields"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "ellipsis (Sujato's own English elides the repeated "
+        "material): the instruction, then the definition of what is "
+        "impermanent. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.170:1.1-1.2"),
+        ("p", "&sect;2", "sn35.170:1.3-1.8"),
+    ],
+    quiz=[
+        {"q": "What compound term does this discourse use, combining SN 35.168's and SN 35.169's own targets?",
+         "opts": ["Chandarāga, desire and greed together", "Taṇhā, craving", "Upādāna, grasping", "Avijjā, ignorance"],
+         "correct": 0,
+         "expl": "Chandarāgo pahātabbo, uniting chanda and rāga into a single compound."},
+        {"q": "How many discourses does round one's opening unit (SN 35.168-170) contain, and how are they stored in bilara-data?",
+         "opts": ["Three, kept as three separate files, unlike every other combination in round one", "Three, merged into one file", "Sixty, all merged together", "One, with two variants only implied"],
+         "correct": 0,
+         "expl": "The only three-item unit in round one kept as three separate files rather than one merged file."},
+        {"q": "What does every one of round one's remaining five combinations (SN 35.171 onward) do with this same three-item pattern?",
+         "opts": ["Merges desire, greed, and desire-and-greed into a single elided sentence within one file", "Splits it into six separate files instead of three", "Drops the desire-and-greed compound entirely", "Repeats this discourse verbatim"],
+         "correct": 0,
+         "expl": "SN 35.171 onward compress the identical three-item pattern this trio spells out across separate files."},
+        {"q": "What sense fields and quality does this discourse share with SN 35.168-169?",
+         "opts": ["The six interior sense fields, declared impermanent", "The six exterior sense fields, declared suffering", "The five aggregates, declared not-self", "The four noble truths"],
+         "correct": 0,
+         "expl": "Ajjhattikāyatana and anicca, unchanged across all three discourses of this opening unit."},
+        {"q": "What begins at SN 35.171, immediately following this discourse?",
+         "opts": ["Round one's second combination: the interior sense fields declared suffering, with the same three-item unit merged into one file", "Round two's kālattaya (three-times) formula", "Round three's yad-aniccaṁ chain", "The vagga's own closing colophon"],
+         "correct": 0,
+         "expl": "SN 35.171-173 is the first of round one's five merged combinations, moving from impermanent to suffering."},
+    ],
+    marginalia=[
+        ("Two become one term", [
+            "chandarāga — desire and greed —",
+            "closing the opening trio",
+        ]),
+        ("Three files, then compression", [
+            "168, 169, 170 —",
+            "the last combination spelled out in full",
+        ]),
+        ("A pattern about to compress", [
+            "five more combinations follow —",
+            "each merged into a single file",
+        ]),
+        ("Still the interior, still impermanent", [
+            "eye, ear, nose, tongue, body, mind —",
+            "unchanged since SN 35.168",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.170/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.169.html">SN 35.169 &middot; Greed for the '
+        "Impermanent Interior</a> &mdash; the previous discourse.",
+        '<a href="sn-35.171-173.html">SN 35.171&ndash;173 &middot; '
+        "Desire, Etc. for the Suffering Interior</a> &mdash; the next "
+        "discourse, round one's first merged combination.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.171-173 — Dukkhachandādisutta
+# --------------------------------------------------------------------------- #
+page_range(
+    35, 171, 173, "Dukkhachandādi",
+    "Desire, Etc. for the Suffering Interior",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.171-173 &mdash; Desire, Etc. for the Suffering "
+                "Interior | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 35.171 through "
+        "35.173 &mdash; round one's second combination, the six "
+        "interior sense fields declared suffering, with desire, "
+        "greed, and desire-and-greed compressed into a single elided "
+        "sentence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "Three discourses compressed by bilara-data into a "
+                 "single file, the same three-item desire/greed/both "
+                 "unit SN 35.168-170 spelled out separately, now "
+                 "elided into one sentence"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single elided sentence standing in for "
+                       "three discourses"),
+    ],
+    why=(
+        "This is round one's first merged file: the interior sense "
+        "fields, now declared <em>suffering</em> rather than SN "
+        "35.168-170's own impermanent, with desire, greed, and "
+        "desire-and-greed compressed by Sujato's own English into a "
+        "single elided sentence (&ldquo;desire &hellip; greed "
+        "&hellip; desire and greed&rdquo;) rather than kept as three "
+        "separate discourses."
+    ),
+    guide=[
+        ("Suffering replaces impermanence", [
+            "The only change from SN 35.168-170's own frame: "
+            "&ldquo;suffering&rdquo; (dukkha) replaces "
+            "&ldquo;impermanent&rdquo; (anicca) as the quality "
+            "declared of the six interior sense fields.",
+        ]),
+        ("Three variants, compressed into one sentence", [
+            "Where SN 35.168-170 spelled out desire, greed, and "
+            "desire-and-greed as three separate files, this merged "
+            "file compresses all three into a single opening line: "
+            "&ldquo;you should give up desire &hellip; greed &hellip; "
+            "desire and greed for what is suffering&rdquo; &mdash; "
+            "the compression pattern round one's remaining four "
+            "combinations will also follow.",
+        ]),
+    ],
+    terms=[
+        ("dukkha", "suffering &mdash; the quality declared here, "
+             "replacing SN 35.168-170's own anicca"),
+        ("chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo",
+             "&ldquo;desire should be given up, greed should be "
+             "given up, desire and greed should be given up&rdquo; "
+             "&mdash; all three variants compressed into this file's "
+             "single opening line"),
+        ("ajjhattikāyatana", "the six interior sense fields &mdash; "
+             "unchanged from SN 35.168-170"),
+        ("peyyāla", "an elision mark &mdash; here compressing three "
+             "discourses' worth of material into one file"),
+        ("anicca", "impermanent &mdash; SN 35.168-170's own quality, "
+             "distinguished from this file's dukkha"),
+    ],
+    text_intro=("The complete merged file: the instruction, then the "
+        "definition of what is suffering. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.171-173:1.1-1.2"),
+        ("p", "&sect;2", "sn35.171-173:1.3-1.5"),
+    ],
+    quiz=[
+        {"q": "What quality does this file declare of the six interior sense fields, replacing SN 35.168-170's own impermanence?",
+         "opts": ["Suffering (dukkha)", "Not-self (anatta)", "Emptiness (suññatā)", "Conditioned-ness (saṅkhata)"],
+         "correct": 0,
+         "expl": "Dukkha replaces anicca as this combination's own declared quality."},
+        {"q": "How does this file compress the desire/greed/desire-and-greed trio, compared to SN 35.168-170?",
+         "opts": ["Into a single elided sentence within one file, rather than three separate discourses", "It drops greed and desire-and-greed entirely, keeping only desire", "It expands each variant into a full separate paragraph", "It merges all sixty discourses of the vagga into this one file"],
+         "correct": 0,
+         "expl": "SN 35.168-170's own three-file pattern compresses here into a single opening line."},
+        {"q": "How many discourse numbers does this single file cover?",
+         "opts": ["Three — SN 35.171, 172, and 173", "One", "Ten", "Sixty"],
+         "correct": 0,
+         "expl": "The file's own slug (171-173) names the three discourse numbers it represents."},
+        {"q": "What sense fields does this file address?",
+         "opts": ["The six interior fields, unchanged from SN 35.168-170", "The six exterior fields", "Only the eye and mind", "All twelve sense fields together"],
+         "correct": 0,
+         "expl": "Ajjhattikāyatana, the same six interior fields as the opening three discourses."},
+        {"q": "What compression pattern does this file establish for round one's remaining combinations?",
+         "opts": ["Every later combination in round one will also merge its own desire/greed/both trio into a single file", "No further compression occurs in this vagga", "Later combinations expand back into three separate files", "Later combinations drop the desire/greed distinction entirely"],
+         "correct": 0,
+         "expl": "SN 35.174 onward each follow this same merged, single-file pattern."},
+    ],
+    marginalia=[
+        ("Suffering, not impermanence", [
+            "dukkha replaces anicca —",
+            "the same interior fields, a new quality",
+        ]),
+        ("Three variants, one sentence", [
+            "desire … greed … desire and greed —",
+            "compressed where SN 35.168-170 spelled out",
+        ]),
+        ("A pattern now set", [
+            "the first of round one's five merged files —",
+            "four more combinations follow this shape",
+        ]),
+        ("Still six fields, still interior", [
+            "eye, ear, nose, tongue, body, mind —",
+            "unchanged since the vagga opened",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.171-173/en/sujato" target="_blank" '
+        'rel="noopener">Full Sujato translation on SuttaCentral</a> '
+        "&mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.170.html">SN 35.170 &middot; Desire and '
+        "Greed for the Impermanent Interior</a> &mdash; the previous "
+        "discourse.",
+        '<a href="sn-35.174-176.html">SN 35.174&ndash;176 &middot; '
+        "Desire, Etc. for the Not-Self Interior</a> &mdash; the next "
+        "discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.174-176 — Anattachandādisutta
+# --------------------------------------------------------------------------- #
+page_range(
+    35, 174, 176, "Anattachandādi",
+    "Desire, Etc. for the Not-Self Interior",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.174-176 &mdash; Desire, Etc. for the Not-Self "
+                "Interior | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 35.174 through "
+        "35.176 &mdash; round one's third combination, completing the "
+        "interior sense fields' own impermanent/suffering/not-self "
+        "cycle. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "Three discourses compressed into a single file, "
+                 "identical in shape to SN 35.171-173"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the third and final quality in round one's "
+                       "interior half"),
+    ],
+    why=(
+        "This file completes round one's interior half: the six "
+        "interior sense fields now declared <em>not-self</em> "
+        "(anattā), the third of the three qualities cycled through "
+        "&mdash; impermanent at SN 35.168-170, suffering at SN "
+        "35.171-173, not-self here &mdash; with the identical "
+        "desire/greed/both compression."
+    ),
+    guide=[
+        ("Not-self completes the three-mark cycle", [
+            "&ldquo;Yo, bhikkhave, anattā&hellip;&rdquo; (&ldquo;what "
+            "is not-self&hellip;&rdquo;) opens this file, using a "
+            "different interrogative pronoun (yo/ko, "
+            "&ldquo;who/what&rdquo;) than SN 35.168-173's own "
+            "yaṁ/kiñca (&ldquo;which/what&rdquo;) &mdash; a small "
+            "grammatical adjustment the not-self declaration "
+            "requires, that impermanence and suffering do not.",
+        ]),
+        ("Interior half of round one now complete", [
+            "SN 35.168-176 together give round one's own three "
+            "interior combinations (impermanent, suffering, "
+            "not-self), each crossed with desire/greed/both. SN "
+            "35.177 turns to the same three qualities applied to the "
+            "exterior sense fields.",
+        ]),
+    ],
+    terms=[
+        ("anattā", "not-self &mdash; the quality declared here, "
+             "completing round one's three-mark cycle after anicca "
+             "and dukkha"),
+        ("yo, bhikkhave, anattā", "&ldquo;what, mendicants, is "
+             "not-self&rdquo; &mdash; this file's own opening "
+             "question, using yo rather than the yaṁ used for "
+             "anicca and dukkha"),
+        ("chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo",
+             "the same three-variant compression as SN 35.171-173, "
+             "unchanged apart from the quality declared"),
+        ("ajjhattikāyatana", "the six interior sense fields &mdash; "
+             "completing their own three-quality cycle with this "
+             "file"),
+        ("bāhirāyatana", "the six exterior sense fields &mdash; "
+             "taken up next, starting at SN 35.177"),
+    ],
+    text_intro=("The complete merged file: the instruction, then the "
+        "definition of what is not-self. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.174-176:1.1-1.2"),
+        ("p", "&sect;2", "sn35.174-176:1.3-1.5"),
+    ],
+    quiz=[
+        {"q": "What quality does this file declare of the six interior sense fields, completing round one's three-mark cycle?",
+         "opts": ["Not-self (anattā)", "Impermanent (anicca)", "Suffering (dukkha)", "Conditioned (saṅkhata)"],
+         "correct": 0,
+         "expl": "Anattā, following anicca at SN 35.168-170 and dukkha at SN 35.171-173."},
+        {"q": "What small grammatical difference marks this file's opening question, compared to the impermanence and suffering files?",
+         "opts": ["It uses yo/ko (&ldquo;what/who&rdquo;) rather than yaṁ/kiñca (&ldquo;which/what&rdquo;)", "It is phrased as a command rather than a question", "It omits the interrogative entirely", "It switches from second to third person"],
+         "correct": 0,
+         "expl": "A grammatical adjustment the not-self declaration itself requires."},
+        {"q": "What does this file complete, together with SN 35.168-173?",
+         "opts": ["Round one's own three interior combinations — impermanent, suffering, and not-self", "The entire Saṭṭhipeyyālavagga", "Round two's kālattaya formula", "The exterior half of round one"],
+         "correct": 0,
+         "expl": "SN 35.168-176 together give the interior half of round one's own combinatorial matrix."},
+        {"q": "What begins immediately after this file, at SN 35.177?",
+         "opts": ["The same three-quality cycle, now applied to the six exterior sense fields", "Round two's past/future/present formula", "The vagga's own closing colophon", "A return to the interior sense fields"],
+         "correct": 0,
+         "expl": "SN 35.177-185 give round one's exterior half, cycling through the same three qualities again."},
+        {"q": "How is the desire/greed/both compression handled in this file, compared to SN 35.171-173?",
+         "opts": ["Identically — the same three-variant elided sentence, unchanged apart from the quality declared", "It is dropped entirely, leaving only desire", "It is expanded into three separate discourses", "It is replaced with a new formula unique to not-self"],
+         "correct": 0,
+         "expl": "The same compression pattern established at SN 35.171-173 continues unchanged."},
+    ],
+    marginalia=[
+        ("Not-self, the third mark", [
+            "anattā, after anicca and dukkha —",
+            "the cycle completes",
+        ]),
+        ("A small grammatical shift", [
+            "yo replaces yaṁ —",
+            "not-self needs a different question",
+        ]),
+        ("Interior half now finished", [
+            "SN 35.168 through 176 —",
+            "three qualities, crossed with three variants",
+        ]),
+        ("The exterior fields wait", [
+            "sights, sounds, smells next —",
+            "the same cycle, starting at SN 35.177",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.174-176/en/sujato" target="_blank" '
+        'rel="noopener">Full Sujato translation on SuttaCentral</a> '
+        "&mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.171-173.html">SN 35.171&ndash;173 &middot; '
+        "Desire, Etc. for the Suffering Interior</a> &mdash; the "
+        "previous discourse.",
+        '<a href="sn-35.177-179.html">SN 35.177&ndash;179 &middot; '
+        "Desire, Etc. for the Impermanent Exterior</a> &mdash; the "
+        "next discourse, opening round one's exterior half.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.177-179 — Bāhirāniccachandādisutta
+# --------------------------------------------------------------------------- #
+page_range(
+    35, 177, 179, "Bāhirāniccachandādi",
+    "Desire, Etc. for the Impermanent Exterior",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.177-179 &mdash; Desire, Etc. for the Impermanent "
+                "Exterior | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 35.177 through "
+        "35.179 &mdash; opening round one's exterior half, repeating "
+        "the interior half's own three-quality cycle for sights, "
+        "sounds, smells, tastes, touches, and ideas. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "Three discourses compressed into a single file, "
+                 "now addressing the six exterior sense fields"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the identical formula, one variable "
+                       "switched"),
+    ],
+    why=(
+        "This file opens round one's exterior half: the identical "
+        "desire/greed/both, impermanent/suffering/not-self matrix "
+        "already run for the interior sense fields (SN 35.168-176), "
+        "now applied to the six exterior sense fields &mdash; sights, "
+        "sounds, smells, tastes, touches, and ideas."
+    ),
+    guide=[
+        ("The exterior sense fields, named in full", [
+            "Where the interior half's files elide the middle sense "
+            "fields (&ldquo;the eye, ear, nose, tongue, body, and "
+            "mind&rdquo; compressed with &ldquo;&hellip;pe&hellip;"
+            "&rdquo; in the root), this exterior file spells out all "
+            "six &mdash; sights, sounds, smells, tastes, touches, "
+            "and ideas &mdash; each on its own line before the "
+            "closing repetition.",
+        ]),
+        ("One matrix, two halves", [
+            "Round one's own full structure is now visible: two "
+            "halves (interior, SN 35.168-176; exterior, SN "
+            "35.177-185), each crossing three qualities "
+            "(impermanent, suffering, not-self) with three variants "
+            "(desire, greed, both) &mdash; eighteen discourses per "
+            "half, thirty-six total... but not quite, since the "
+            "opening interior-impermanent-desire/greed/both trio "
+            "alone stays unmerged across three files rather than "
+            "one.",
+        ]),
+    ],
+    terms=[
+        ("bāhirāyatana", "the six exterior sense fields &mdash; "
+             "sights, sounds, smells, tastes, touches, and ideas, "
+             "this file's own new subject"),
+        ("rūpā, saddā, gandhā, rasā, phoṭṭhabbā, dhammā", "sights, "
+             "sounds, smells, tastes, touches, and ideas &mdash; the "
+             "six exterior sense fields, each spelled out on its own "
+             "line in this file"),
+        ("anicca", "impermanent &mdash; the quality declared here, "
+             "the first of the exterior half's own three-quality "
+             "cycle"),
+        ("chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo",
+             "the same three-variant compression carried over from "
+             "the interior half"),
+        ("ajjhattikāyatana", "the six interior sense fields &mdash; "
+             "already completed at SN 35.168-176, contrasted here "
+             "with the exterior fields"),
+    ],
+    text_intro=("The complete merged file: the instruction, then the "
+        "definition of what is impermanent, naming each of the six "
+        "exterior sense fields in turn. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.177-179:1.1-1.2"),
+        ("p", "&sect;2", "sn35.177-179:1.3-1.8"),
+    ],
+    quiz=[
+        {"q": "What sense fields does this file address, opening round one's second half?",
+         "opts": ["The six exterior sense fields — sights, sounds, smells, tastes, touches, and ideas", "The six interior sense fields", "The five aggregates", "The four elements"],
+         "correct": 0,
+         "expl": "Bāhirāyatana, following the interior half's own completion at SN 35.168-176."},
+        {"q": "How does this file's own treatment of the six sense fields differ from the interior files?",
+         "opts": ["It spells out all six exterior fields individually rather than eliding the middle ones", "It elides all six fields entirely", "It names only two of the six fields", "It merges the exterior fields with the interior fields"],
+         "correct": 0,
+         "expl": "Sights, sounds, smells, tastes, touches, and ideas each get their own line, unlike the interior files' elision."},
+        {"q": "What quality does this file declare of the exterior sense fields?",
+         "opts": ["Impermanent (anicca), opening the exterior half's own three-quality cycle", "Suffering (dukkha)", "Not-self (anattā)", "Empty (suñña)"],
+         "correct": 0,
+         "expl": "The exterior half repeats the identical anicca/dukkha/anattā cycle already run for the interior fields."},
+        {"q": "How many discourses does round one's exterior half (SN 35.177-185) cover in total?",
+         "opts": ["Nine, across three merged files", "Three", "Eighteen, across three merged files", "Six, across two merged files"],
+         "correct": 0,
+         "expl": "SN 35.177-185 spans nine discourse numbers across three merged three-item files, mirroring SN 35.171-176's own two later interior combinations."},
+        {"q": "What compression carries over unchanged from the interior half?",
+         "opts": ["The desire/greed/desire-and-greed three-variant elision", "The elision of the exterior sense fields themselves", "The vagga's own closing colophon", "The past/future/present time division"],
+         "correct": 0,
+         "expl": "Only the sense-field set changes; the desire/greed/both compression is identical to SN 35.171-176's own."},
+    ],
+    marginalia=[
+        ("The exterior fields, in full", [
+            "sights, sounds, smells, tastes, touches, ideas —",
+            "each spelled out, none elided",
+        ]),
+        ("Impermanence returns", [
+            "the same quality as SN 35.168-170 —",
+            "now applied outward, not inward",
+        ]),
+        ("One matrix, two halves", [
+            "interior finished, exterior begins —",
+            "the identical desire/greed/both cycle",
+        ]),
+        ("Six more to come", [
+            "suffering and not-self still ahead —",
+            "for the exterior fields, at SN 35.180 and 183",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.177-179/en/sujato" target="_blank" '
+        'rel="noopener">Full Sujato translation on SuttaCentral</a> '
+        "&mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.174-176.html">SN 35.174&ndash;176 &middot; '
+        "Desire, Etc. for the Not-Self Interior</a> &mdash; the "
+        "previous discourse.",
+        '<a href="sn-35.180-182.html">SN 35.180&ndash;182 &middot; '
+        "Desire, Etc. for the Suffering Exterior</a> &mdash; the "
+        "next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.180-182 — Bāhiradukkhachandādisutta
+# --------------------------------------------------------------------------- #
+page_range(
+    35, 180, 182, "Bāhiradukkhachandādi",
+    "Desire, Etc. for the Suffering Exterior",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.180-182 &mdash; Desire, Etc. for the Suffering "
+                "Exterior | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 35.180 through "
+        "35.182 &mdash; the exterior sense fields declared suffering, "
+        "the second of round one's three exterior combinations. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 35.177-179, with "
+                 "suffering (dukkha) substituted for impermanence"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single substitution on SN 35.177-179's own "
+                       "frame"),
+    ],
+    why=(
+        "This file is the exterior half's second combination: "
+        "sights, sounds, smells, tastes, touches, and ideas now "
+        "declared <em>suffering</em> rather than SN 35.177-179's own "
+        "impermanent, with the identical desire/greed/both "
+        "compression and the same six fields spelled out on their "
+        "own lines."
+    ),
+    guide=[
+        ("Suffering, applied outward", [
+            "The same substitution SN 35.171-173 made for the "
+            "interior fields (suffering replacing impermanence) "
+            "repeats here for the exterior fields &mdash; the "
+            "identical two-step pattern (impermanent, then "
+            "suffering, then not-self) now running its second lap.",
+        ]),
+        ("A compressed root, elided in translation", [
+            "The Pāli root spells out saddā (sounds), gandhā "
+            "(smells), rasā (tastes), and phoṭṭhabbā (touches) with "
+            "an elision mark after each; Sujato's own English "
+            "compresses these four into a single &ldquo;Saddā "
+            "&hellip;&rdquo;, listing only sights and ideas in full, "
+            "the same kind of translator's-choice compression this "
+            "project has noted since SN 30.17&ndash;46.",
+        ]),
+    ],
+    terms=[
+        ("dukkha", "suffering &mdash; the quality declared here, "
+             "replacing SN 35.177-179's own anicca"),
+        ("rūpā, dhammā", "sights, ideas &mdash; the two exterior "
+             "fields Sujato's own English spells out in full here, "
+             "the middle four compressed with an ellipsis"),
+        ("saddā, gandhā, rasā, phoṭṭhabbā", "sounds, smells, tastes, "
+             "touches &mdash; elided in Sujato's own translation, "
+             "though the Pāli root marks each separately"),
+        ("chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo",
+             "the same three-variant compression carried over "
+             "unchanged"),
+        ("anicca", "impermanent &mdash; SN 35.177-179's own quality, "
+             "distinguished from this file's dukkha"),
+    ],
+    text_intro=("The complete merged file: the instruction, then the "
+        "definition of what is suffering. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.180-182:1.1-1.2"),
+        ("p", "&sect;2", "sn35.180-182:1.3-1.8"),
+    ],
+    quiz=[
+        {"q": "What quality does this file declare of the exterior sense fields, replacing SN 35.177-179's own impermanence?",
+         "opts": ["Suffering (dukkha)", "Not-self (anattā)", "Emptiness (suññatā)", "Conditioned-ness (saṅkhata)"],
+         "correct": 0,
+         "expl": "Dukkha, the exterior half's second combination, mirroring SN 35.171-173's own interior sequence."},
+        {"q": "How does Sujato's own English render the middle four exterior sense fields (sounds, smells, tastes, touches) in this file?",
+         "opts": ["Compressed with an ellipsis, though the Pāli root marks each separately", "Spelled out in full, one per line", "Omitted entirely", "Merged with sights and ideas into a single term"],
+         "correct": 0,
+         "expl": "Only sights and ideas are spelled out in full; the same translator's-choice compression noted since SN 30.17-46."},
+        {"q": "What variant compression carries over unchanged from SN 35.177-179?",
+         "opts": ["Desire, greed, and desire-and-greed compressed into one elided sentence", "The elision of all six exterior sense fields", "A shift back to the interior sense fields", "The vagga's own closing colophon"],
+         "correct": 0,
+         "expl": "The desire/greed/both compression is identical across every file in round one."},
+        {"q": "What combination follows this file, completing the exterior half's three-quality cycle?",
+         "opts": ["Not-self (anattā), at SN 35.183-185", "A return to impermanence", "Round two's kālattaya formula", "The vagga's own closing colophon"],
+         "correct": 0,
+         "expl": "SN 35.183-185 completes round one entirely, cycling not-self through the exterior fields."},
+        {"q": "What pattern does this file's own substitution (suffering for impermanence) mirror?",
+         "opts": ["The identical substitution SN 35.171-173 made for the interior fields", "A pattern unique to the exterior half, with no interior counterpart", "SN 22.9-11's own kālattaya formula", "The vagga's own closing uddāna"],
+         "correct": 0,
+         "expl": "The exterior half runs the identical three-quality cycle the interior half already completed."},
+    ],
+    marginalia=[
+        ("Suffering, outward this time", [
+            "dukkha, applied to sights and sounds —",
+            "the second lap of the same cycle",
+        ]),
+        ("Two named, four elided", [
+            "sights and ideas spelled out —",
+            "sounds, smells, tastes, touches compressed",
+        ]),
+        ("The same three variants", [
+            "desire, greed, desire-and-greed —",
+            "unchanged since round one began",
+        ]),
+        ("One combination left", [
+            "not-self, still ahead —",
+            "closing round one at SN 35.183",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.180-182/en/sujato" target="_blank" '
+        'rel="noopener">Full Sujato translation on SuttaCentral</a> '
+        "&mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.177-179.html">SN 35.177&ndash;179 &middot; '
+        "Desire, Etc. for the Impermanent Exterior</a> &mdash; the "
+        "previous discourse.",
+        '<a href="sn-35.183-185.html">SN 35.183&ndash;185 &middot; '
+        "Desire, Etc. for the Not-Self Exterior</a> &mdash; the next "
+        "discourse, closing round one.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.183-185 — Bāhirānattachandādisutta
+# --------------------------------------------------------------------------- #
+page_range(
+    35, 183, 185, "Bāhirānattachandādi",
+    "Desire, Etc. for the Not-Self Exterior",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.183-185 &mdash; Desire, Etc. for the Not-Self "
+                "Exterior | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 35.183 through "
+        "35.185 &mdash; closing round one of Saṭṭhipeyyālavagga's own "
+        "combinatorial matrix, eighteen discourses of desire/greed/"
+        "both crossed with impermanent/suffering/not-self. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 35.177-182, with "
+                 "not-self (anattā) substituted, closing round one"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "closes round one's own eighteen-discourse "
+                       "matrix"),
+    ],
+    why=(
+        "This file closes round one of Saṭṭhipeyyālavagga's own "
+        "combinatorial design: the exterior sense fields declared "
+        "<em>not-self</em>, completing a full eighteen-discourse "
+        "matrix (interior/exterior &times; impermanent/suffering/"
+        "not-self &times; desire/greed/both) that the vagga's own "
+        "closing colophon (at SN 35.227) will later confirm in its "
+        "own untranslated arithmetic: &ldquo;chandena aṭṭhārasa "
+        "honti&rdquo; (&ldquo;with desire, there are eighteen&rdquo;)."
+    ),
+    guide=[
+        ("Not-self, closing round one's exterior half", [
+            "&ldquo;Rūpā, bhikkhave, anattā&hellip;&rdquo; (&ldquo;"
+            "sights, mendicants, are not-self&hellip;&rdquo;) "
+            "completes the exterior half's own three-quality cycle "
+            "&mdash; impermanent at SN 35.177-179, suffering at SN "
+            "35.180-182, not-self here &mdash; mirroring the "
+            "identical interior sequence at SN 35.168-176.",
+        ]),
+        ("Round one complete: eighteen discourses", [
+            "SN 35.168 through 35.185 together give round one's full "
+            "matrix: two halves (interior, exterior), each crossing "
+            "three qualities with three variants of what is to be "
+            "given up &mdash; eighteen discourses total, the exact "
+            "count the vagga's own closing uddāna will later cite as "
+            "&ldquo;chandena aṭṭhārasa&rdquo; (&ldquo;with desire, "
+            "eighteen&rdquo;).",
+        ]),
+        ("Round two begins next, with a different second variable", [
+            "SN 35.186 opens round two, keeping the same interior/"
+            "exterior &times; impermanent/suffering/not-self "
+            "structure but replacing the desire/greed/both variable "
+            "with past/future/present &mdash; and, this reading "
+            "guide notes without yet asserting more, attaching the "
+            "project's own familiar full disillusionment-to-"
+            "liberation formula rather than a simple instruction to "
+            "give up.",
+        ]),
+    ],
+    terms=[
+        ("anattā", "not-self &mdash; the quality declared here, "
+             "closing the exterior half's own three-mark cycle"),
+        ("rūpā, bhikkhave, anattā", "&ldquo;sights, mendicants, are "
+             "not-self&rdquo; &mdash; this file's own opening line"),
+        ("chandena aṭṭhārasa honti", "&ldquo;with desire, there are "
+             "eighteen&rdquo; &mdash; the vagga's own closing uddāna "
+             "(at SN 35.227), confirming this round's own total "
+             "count"),
+        ("bāhirāyatana", "the six exterior sense fields &mdash; "
+             "completing their own three-quality cycle with this "
+             "file, mirroring the interior fields at SN 35.174-176"),
+        ("chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo",
+             "the same three-variant compression, unchanged across "
+             "all eighteen discourses of round one"),
+    ],
+    text_intro=("The complete merged file: the instruction, then the "
+        "definition of what is not-self. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.183-185:1.1-1.2"),
+        ("p", "&sect;2", "sn35.183-185:1.3-1.8"),
+    ],
+    quiz=[
+        {"q": "What quality does this file declare of the exterior sense fields, closing round one's own matrix?",
+         "opts": ["Not-self (anattā)", "Impermanent (anicca)", "Suffering (dukkha)", "Conditioned (saṅkhata)"],
+         "correct": 0,
+         "expl": "Anattā closes the exterior half's own three-mark cycle, following anicca and dukkha."},
+        {"q": "How many discourses does round one's full matrix (SN 35.168-185) contain in total?",
+         "opts": ["Eighteen — two halves of nine, each crossing three qualities with three variants", "Sixty, the whole vagga", "Nine", "Thirty-six"],
+         "correct": 0,
+         "expl": "The vagga's own closing uddāna (at SN 35.227) later confirms this count: &ldquo;chandena aṭṭhārasa honti.&rdquo;"},
+        {"q": "What untranslated phrase from the vagga's own closing colophon confirms round one's own count?",
+         "opts": ["&ldquo;Chandena aṭṭhārasa honti&rdquo; &mdash; &ldquo;with desire, there are eighteen&rdquo;", "&ldquo;Saṭṭhipeyyālo samatto&rdquo; &mdash; &ldquo;the sixty are complete&rdquo;", "&ldquo;Nandikkhayavaggo paṭhamo&rdquo;", "&ldquo;Suttantāni saṭṭhi&rdquo;"],
+         "correct": 0,
+         "expl": "This line from the closing uddāna specifically names round one's own eighteen-discourse total."},
+        {"q": "What changes in round two, beginning at SN 35.186?",
+         "opts": ["The desire/greed/both variable is replaced by past/future/present, alongside a fuller liberation formula", "Nothing — round two repeats round one verbatim", "The interior/exterior split is dropped entirely", "The vagga ends and Samuddavagga begins"],
+         "correct": 0,
+         "expl": "Round two keeps the same two-quality structure but swaps in a new second variable and a longer formula."},
+        {"q": "What sense fields does this file address?",
+         "opts": ["The six exterior sense fields, unchanged from SN 35.177-182", "The six interior sense fields", "All twelve sense fields together", "The five aggregates"],
+         "correct": 0,
+         "expl": "Bāhirāyatana, completing the exterior half begun at SN 35.177."},
+    ],
+    marginalia=[
+        ("Not-self, closing the exterior half", [
+            "rūpā anattā —",
+            "sights, and all six, not-self",
+        ]),
+        ("Eighteen discourses, one round", [
+            "chandena aṭṭhārasa honti —",
+            "the colophon will later confirm it",
+        ]),
+        ("Round one complete", [
+            "168 through 185 —",
+            "desire, greed, both; three qualities; two halves",
+        ]),
+        ("A new variable, next", [
+            "past, future, present await —",
+            "round two opens at SN 35.186",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.183-185/en/sujato" target="_blank" '
+        'rel="noopener">Full Sujato translation on SuttaCentral</a> '
+        "&mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.180-182.html">SN 35.180&ndash;182 &middot; '
+        "Desire, Etc. for the Suffering Exterior</a> &mdash; the "
+        "previous discourse.",
+        '<a href="sn-35.186.html">SN 35.186 &middot; The Interior '
+        "Was Impermanent in the Past</a> &mdash; the next discourse, "
+        "opening round two.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.186 — Ajjhattātītāniccasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 186, "Ajjhattātītānicca", "The Interior Was Impermanent in the Past",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.186 &mdash; The Interior Was Impermanent in the "
+                "Past | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ajjhattātītāniccasutta &mdash; opening round two of "
+        "Saṭṭhipeyyālavagga's own matrix, past/future/present replacing "
+        "round one's desire/greed/both, with the full disillusionment-"
+        "to-liberation formula spelled out. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A full worked example: the interior sense fields "
+                 "declared impermanent in the past, then the complete "
+                 "disillusionment-to-liberation formula"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "opens round two with the fullest text this "
+                       "round will offer"),
+    ],
+    why=(
+        "This discourse opens round two of Saṭṭhipeyyālavagga's own "
+        "matrix: the same interior/exterior &times; impermanent/"
+        "suffering/not-self structure round one already ran, but with "
+        "past/future/present replacing desire/greed/both as the "
+        "second variable &mdash; and, unlike round one's simple "
+        "instruction to give up, this round attaches the project's "
+        "own familiar disillusionment-to-liberation formula already "
+        "published at, among many other places, SN 22.9-11's "
+        "identical Kālattaya (&ldquo;three times&rdquo;) treatment of "
+        "the five aggregates."
+    ),
+    guide=[
+        ("A new second variable: the three times", [
+            "&ldquo;In the past the eye, ear, nose, tongue, body, and "
+            "mind were impermanent&rdquo; opens this discourse "
+            "&mdash; the interior sense fields, declared impermanent "
+            "not simply in general but specifically in the past, the "
+            "first of round two's own three time-values (past, "
+            "future, present).",
+        ]),
+        ("The full liberation formula, spelled out once more", [
+            "Where round one closed each discourse with a bare "
+            "instruction to give up desire or greed, this discourse "
+            "runs the complete formula this project has traced "
+            "across dozens of earlier discourses: seeing the sense "
+            "fields' impermanence, a learned noble disciple grows "
+            "disillusioned, disillusionment fades into dispassion, "
+            "dispassion frees, and the freed one knows they are "
+            "freed &mdash; &ldquo;rebirth is ended&hellip;&rdquo;",
+        ]),
+        ("A precise match already published: SN 22.9-11", [
+            "This discourse's own structure &mdash; a time-value "
+            "crossed with impermanence, closing in the full "
+            "liberation formula &mdash; is not new to this project. "
+            "SN 22.9 (Kālattayaaniccasutta), already published in "
+            "Book III, runs the identical three-times formula for "
+            "the five aggregates rather than the six sense fields; "
+            "SN 22.10 and 22.11 continue with suffering and not-self, "
+            "exactly mirroring the three qualities this round will "
+            "cycle through here.",
+        ]),
+    ],
+    terms=[
+        ("atīta", "past &mdash; this discourse's own time-value, the "
+             "first of round two's three (past, future, present)"),
+        ("cakkhu&hellip;aniccaṁ atītaṁ", "&ldquo;the eye&hellip;was "
+             "impermanent [in the past]&rdquo; &mdash; this "
+             "discourse's own opening declaration"),
+        ("nibbindati", "grows disillusioned &mdash; the first step "
+             "of the liberation formula this discourse spells out in "
+             "full"),
+        ("vimuttasmiṁ vimuttamiti ñāṇaṁ hoti", "&ldquo;when they're "
+             "freed, they know they're freed&rdquo; &mdash; the "
+             "formula's own closing recognition, before the arahant "
+             "declaration"),
+        ("kālattaya", "the three times (past, present, future) "
+             "&mdash; the name this project has already used for the "
+             "identical formula at SN 22.9-11, applied there to the "
+             "five aggregates"),
+    ],
+    text_intro=("The complete discourse: the declaration, then the "
+        "full disillusionment-to-liberation formula. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.186:1.1"),
+        ("p", "&sect;2", "sn35.186:1.2"),
+        ("p", "&sect;3", "sn35.186:1.3-1.4"),
+    ],
+    quiz=[
+        {"q": "What new second variable does this discourse introduce, replacing round one's desire/greed/both?",
+         "opts": ["Past, future, present (the three times)", "Interior and exterior", "The four elements", "The five aggregates"],
+         "correct": 0,
+         "expl": "Atīta (past) is the first of round two's three time-values."},
+        {"q": "How does this discourse's own closing formula differ from round one's?",
+         "opts": ["It spells out the complete disillusionment-to-liberation formula, not a bare instruction to give up", "It is shorter than round one's own formula", "It omits the arahant declaration", "It repeats round one's instruction verbatim"],
+         "correct": 0,
+         "expl": "This project's familiar nibbidā-virāga-vimutti-ñāṇa sequence, closing with the arahant declaration."},
+        {"q": "What already-published discourse runs the identical three-times-plus-liberation formula for the five aggregates?",
+         "opts": ["SN 22.9 (Kālattayaaniccasutta), in Book III", "SN 12.1", "SN 45.8", "SN 56.11"],
+         "correct": 0,
+         "expl": "SN 22.9-11 already ran this same formula for the five aggregates; this discourse applies it to the six sense fields instead."},
+        {"q": "What time-value does this specific discourse (SN 35.186) address?",
+         "opts": ["The past", "The future", "The present", "All three times at once"],
+         "correct": 0,
+         "expl": "Atītaṁ — the past, the first of three, before future (SN 35.187) and present (SN 35.188) follow."},
+        {"q": "Why does this discourse receive the fullest text of round two's opening trio?",
+         "opts": ["As the first worked example, it spells out the formula in full before SN 35.187-188 compress it with an ellipsis", "Because it is the only discourse in round two with any content at all", "Because the past tense requires more words than future or present", "Because it also covers the exterior sense fields"],
+         "correct": 0,
+         "expl": "The same worked-example pattern this project has traced across every combinatorial vagga: the first item spelled out, later items compressed."},
+    ],
+    marginalia=[
+        ("A new variable: time", [
+            "past, future, present —",
+            "replacing desire, greed, and both",
+        ]),
+        ("The full formula returns", [
+            "disillusioned, dispassionate, freed —",
+            "spelled out once more, in full",
+        ]),
+        ("Already met, for the aggregates", [
+            "SN 22.9's own kālattaya —",
+            "now run for the six sense fields",
+        ]),
+        ("Two more times to come", [
+            "future and present follow —",
+            "compressed, at SN 35.187 and 188",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.186/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.183-185.html">SN 35.183&ndash;185 &middot; '
+        "Desire, Etc. for the Not-Self Exterior</a> &mdash; the "
+        "previous discourse, closing round one.",
+        '<a href="sn-35.187.html">SN 35.187 &middot; The Interior '
+        "Will Be Impermanent in the Future</a> &mdash; the next "
+        "discourse.",
+        '<a href="sn-22.9.html">SN 22.9 &middot; Impermanence in the '
+        "Three Times</a> &mdash; already published on this site, the "
+        "identical formula applied to the five aggregates rather "
+        "than the six sense fields.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.187 — Ajjhattānāgatāniccasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 187, "Ajjhattānāgatānicca",
+    "The Interior Will Be Impermanent in the Future",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.187 &mdash; The Interior Will Be Impermanent in "
+                "the Future | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ajjhattānāgatāniccasutta &mdash; the second of round "
+        "two's three time-values, compressing SN 35.186's own full "
+        "formula with an ellipsis. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 35.186, with "
+                 "&ldquo;future&rdquo; substituted for &ldquo;"
+                 "past&rdquo;, compressed with an ellipsis"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single substitution on SN 35.186's own "
+                       "frame"),
+    ],
+    why=(
+        "This discourse is round two's second time-value: the "
+        "identical interior sense fields, now declared impermanent "
+        "in the <em>future</em> rather than SN 35.186's own past, "
+        "with the full liberation formula compressed by Sujato's own "
+        "English into a trailing ellipsis rather than spelled out "
+        "again."
+    ),
+    guide=[
+        ("One substitution: anāgata for atīta", [
+            "&ldquo;In the future the eye, ear, nose, tongue, body, "
+            "and mind will be impermanent&hellip;&rdquo; replaces SN "
+            "35.186's own past-tense declaration; the formula that "
+            "follows is trusted to the reader's own memory of SN "
+            "35.186's full text.",
+        ]),
+    ],
+    terms=[
+        ("anāgata", "future &mdash; this discourse's own time-value, "
+             "the second of round two's three"),
+        ("cakkhu&hellip;aniccaṁ anāgataṁ", "&ldquo;the eye&hellip;"
+             "will be impermanent [in the future]&rdquo; &mdash; "
+             "this discourse's own opening declaration"),
+        ("atīta", "past &mdash; SN 35.186's own time-value, "
+             "distinguished here from anāgata"),
+        ("paccuppanna", "present &mdash; the third time-value, "
+             "following next at SN 35.188"),
+        ("peyyāla", "an elision mark &mdash; here compressing this "
+             "discourse's own repeated liberation formula down to a "
+             "trailing ellipsis"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "ellipsis (Sujato's own English elides the liberation "
+        "formula already spelled out at SN 35.186): the declaration. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.187:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What time-value does this discourse substitute for SN 35.186's own past?",
+         "opts": ["Future (anāgata)", "Present (paccuppanna)", "All three times at once", "Timeless (kāla-vimutta)"],
+         "correct": 0,
+         "expl": "Anāgataṁ — the second of round two's three time-values."},
+        {"q": "How does this discourse handle the liberation formula SN 35.186 spelled out in full?",
+         "opts": ["It compresses it into a trailing ellipsis", "It repeats it word for word", "It omits the arahant declaration only", "It replaces it with round one's own bare instruction"],
+         "correct": 0,
+         "expl": "Sujato's own English trusts the reader to supply SN 35.186's own full formula."},
+        {"q": "What third time-value follows this discourse, at SN 35.188?",
+         "opts": ["Present (paccuppanna)", "A return to the past", "Timelessness", "The five aggregates"],
+         "correct": 0,
+         "expl": "SN 35.188 completes round two's opening trio with the present tense."},
+        {"q": "What sense fields does this discourse address?",
+         "opts": ["The six interior sense fields, unchanged from SN 35.186", "The six exterior sense fields", "Only the mind", "The five aggregates"],
+         "correct": 0,
+         "expl": "Ajjhattikāyatana, exactly as in SN 35.186; only the time-value changes."},
+        {"q": "How does this discourse's own bilara-data file relate to SN 35.186's?",
+         "opts": ["It is kept as its own separate file, the second of round two's opening trio", "It is merged with SN 35.186 into one file", "It is merged with all sixty discourses of the vagga", "It does not exist as a separate file"],
+         "correct": 0,
+         "expl": "SN 35.186-188, like SN 35.168-170, are kept as three separate one-line files."},
+    ],
+    marginalia=[
+        ("One word changes", [
+            "anāgata replaces atīta —",
+            "future, not past",
+        ]),
+        ("The formula, trusted to memory", [
+            "an ellipsis stands in —",
+            "for what SN 35.186 spelled out",
+        ]),
+        ("Same fields, same frame", [
+            "eye, ear, nose, tongue, body, mind —",
+            "unchanged from the discourse before",
+        ]),
+        ("One time-value left", [
+            "present still to come —",
+            "at SN 35.188",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.187/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.186.html">SN 35.186 &middot; The Interior '
+        "Was Impermanent in the Past</a> &mdash; the previous "
+        "discourse, with the full formula this discourse compresses.",
+        '<a href="sn-35.188.html">SN 35.188 &middot; The Interior Is '
+        "Impermanent in the Present</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.188 — Ajjhattapaccuppannāniccasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 188, "Ajjhattapaccuppannānicca",
+    "The Interior Is Impermanent in the Present",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.188 &mdash; The Interior Is Impermanent in the "
+                "Present | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ajjhattapaccuppannāniccasutta &mdash; closing round two's "
+        "opening trio with the present tense, before the four "
+        "remaining combinations merge all three times into a single "
+        "line each. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 35.186-187, with "
+                 "&ldquo;present&rdquo; substituted"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "closes the three-file opening unit"),
+    ],
+    why=(
+        "This discourse closes round two's opening trio, declaring "
+        "the interior sense fields impermanent in the <em>present</em> "
+        "&mdash; completing past (SN 35.186), future (SN 35.187), and "
+        "present here &mdash; before SN 35.189 begins merging all "
+        "three time-values into a single line per file, exactly as "
+        "round one's own desire/greed/both trio gave way to merged "
+        "files after its own opening three."
+    ),
+    guide=[
+        ("The present, completing the opening trio", [
+            "&ldquo;In the present the eye, ear, nose, tongue, body, "
+            "and mind are impermanent&hellip;&rdquo; completes the "
+            "three time-values this opening trio spells out one file "
+            "each &mdash; past, future, present &mdash; before the "
+            "compression pattern this project has now seen twice "
+            "(round one's own SN 35.171 onward) repeats itself.",
+        ]),
+        ("A pattern confirmed a second time", [
+            "Round two's own opening three-item unit (SN 35.186-188), "
+            "kept as three separate files exactly as round one's own "
+            "opening trio (SN 35.168-170) was, confirms this is a "
+            "structural feature of the whole vagga: whichever "
+            "combination sits first within a round gets three "
+            "separate files, and every later combination in that "
+            "round merges its own three-item unit into one.",
+        ]),
+    ],
+    terms=[
+        ("paccuppanna", "present &mdash; this discourse's own "
+             "time-value, the third and last of round two's opening "
+             "trio"),
+        ("cakkhu&hellip;aniccaṁ paccuppannaṁ", "&ldquo;the eye&hellip;"
+             "is impermanent [in the present]&rdquo; &mdash; this "
+             "discourse's own opening declaration"),
+        ("atīta, anāgata", "past, future &mdash; SN 35.186's and "
+             "35.187's own time-values, now joined by this "
+             "discourse's present"),
+        ("ajjhattikāyatana", "the six interior sense fields &mdash; "
+             "unchanged across all three discourses of this opening "
+             "trio"),
+        ("peyyāla", "an elision mark &mdash; the compression that "
+             "will merge all three time-values into a single line "
+             "beginning at SN 35.189"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "ellipsis (Sujato's own English elides the liberation "
+        "formula already spelled out at SN 35.186): the declaration. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.188:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What time-value does this discourse address, completing round two's opening trio?",
+         "opts": ["Present (paccuppanna)", "Past (atīta)", "Future (anāgata)", "Timeless (kāla-vimutta)"],
+         "correct": 0,
+         "expl": "Paccuppannaṁ, the third of three, completing past (SN 35.186) and future (SN 35.187)."},
+        {"q": "What compression pattern does SN 35.189 begin, immediately after this discourse?",
+         "opts": ["Merging all three time-values into a single line per file, mirroring round one's own compression at SN 35.171", "Splitting each time-value into its own separate file", "Returning to the desire/greed/both variable", "Ending the vagga entirely"],
+         "correct": 0,
+         "expl": "The same structural pattern round one already established: three separate files first, then merged files for the remaining combinations."},
+        {"q": "What does the repetition of this three-separate-files-then-merge pattern across both round one and round two confirm?",
+         "opts": ["It is a structural feature of the whole vagga, not a one-time coincidence", "Round two has no relationship to round one's own structure", "Only round one uses this pattern", "The pattern applies only to the interior sense fields"],
+         "correct": 0,
+         "expl": "Both rounds open with three separate files before compressing their remaining combinations into merged files."},
+        {"q": "What sense fields does this discourse address?",
+         "opts": ["The six interior sense fields, unchanged from SN 35.186-187", "The six exterior sense fields", "Only the eye", "The five aggregates"],
+         "correct": 0,
+         "expl": "Ajjhattikāyatana, exactly as in SN 35.186-187; only the time-value changes."},
+        {"q": "What quality is declared of the interior sense fields across SN 35.186-188?",
+         "opts": ["Impermanent (anicca), across all three time-values", "Suffering (dukkha)", "Not-self (anattā)", "A different quality at each time-value"],
+         "correct": 0,
+         "expl": "Anicca stays constant across this opening trio; only the time-value varies, exactly as round one held anicca constant while desire/greed/both varied."},
+    ],
+    marginalia=[
+        ("The present, completing the trio", [
+            "past, future, and now present —",
+            "three time-values, three files",
+        ]),
+        ("A pattern confirmed twice", [
+            "opening trio, then merged files —",
+            "round two repeats round one's own shape",
+        ]),
+        ("Still impermanence", [
+            "anicca holds constant —",
+            "only the time-value moves",
+        ]),
+        ("Merging begins next", [
+            "SN 35.189 folds all three times —",
+            "into a single line, as round one did",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.188/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.187.html">SN 35.187 &middot; The Interior '
+        "Will Be Impermanent in the Future</a> &mdash; the previous "
+        "discourse.",
+        '<a href="sn-35.189-191.html">SN 35.189&ndash;191 &middot; '
+        "The Interior as Suffering in the Three Times</a> &mdash; "
+        "the next discourse, round two's first merged combination.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.189-191 — Ajjhattātītādidukkhasutta
+# --------------------------------------------------------------------------- #
+page_range(
+    35, 189, 191, "Ajjhattātītādidukkha",
+    "The Interior as Suffering in the Three Times",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.189-191 &mdash; The Interior as Suffering in the "
+                "Three Times | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 35.189 through "
+        "35.191 &mdash; round two's second combination, the interior "
+        "sense fields declared suffering across past, future, and "
+        "present, all three time-values merged into a single line. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "Three discourses compressed into a single file, "
+                 "merging past, future, and present into one opening "
+                 "line"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single compressed line standing in for "
+                       "three discourses"),
+    ],
+    why=(
+        "This is round two's first merged file: the interior sense "
+        "fields, now declared <em>suffering</em> rather than SN "
+        "35.186-188's own impermanent, with past, future, and "
+        "present compressed into a single opening line (&ldquo;in "
+        "the past &hellip; future &hellip; present&rdquo;) rather "
+        "than kept as three separate discourses &mdash; the same "
+        "compression already published at SN 22.10 for the five "
+        "aggregates."
+    ),
+    guide=[
+        ("Suffering replaces impermanence, three times over", [
+            "&ldquo;The eye, ear, nose, tongue, body, and mind are "
+            "suffering&rdquo; replaces SN 35.186-188's own "
+            "impermanent, with all three time-values folded into "
+            "this single line rather than spelled out across three "
+            "files.",
+        ]),
+        ("A precise match already published: SN 22.10", [
+            "This file's own combination &mdash; suffering, across "
+            "the three times &mdash; exactly mirrors SN 22.10 "
+            "(Kālattayadukkhasutta), already published in Book III "
+            "for the five aggregates rather than the six sense "
+            "fields.",
+        ]),
+    ],
+    terms=[
+        ("dukkha", "suffering &mdash; the quality declared here, "
+             "replacing SN 35.186-188's own anicca"),
+        ("atītaṁ anāgataṁ paccuppannaṁ", "&ldquo;past, future, "
+             "present&rdquo; &mdash; all three time-values merged "
+             "into this file's own single opening line"),
+        ("ajjhattikāyatana", "the six interior sense fields &mdash; "
+             "unchanged from SN 35.186-188"),
+        ("kālattaya", "the three times &mdash; the name this "
+             "project has already used for the identical structure "
+             "at SN 22.9-11"),
+        ("anicca", "impermanent &mdash; SN 35.186-188's own quality, "
+             "distinguished from this file's dukkha"),
+    ],
+    text_intro=("The complete merged file, apart from its own "
+        "closing ellipsis (Sujato's own English elides the "
+        "liberation formula already spelled out at SN 35.186): the "
+        "declaration. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.189-191:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What quality does this file declare of the interior sense fields, replacing SN 35.186-188's own impermanence?",
+         "opts": ["Suffering (dukkha)", "Not-self (anattā)", "Emptiness (suññatā)", "Conditioned-ness (saṅkhata)"],
+         "correct": 0,
+         "expl": "Dukkha replaces anicca as this combination's own declared quality."},
+        {"q": "How does this file compress round two's own three time-values, compared to SN 35.186-188?",
+         "opts": ["Into a single opening line, rather than three separate discourses", "It drops future and present, keeping only the past", "It expands each time-value into a full separate paragraph", "It merges all sixty discourses of the vagga into this one file"],
+         "correct": 0,
+         "expl": "SN 35.186-188's own three-file pattern compresses here into a single line, exactly as round one's SN 35.171-173 did."},
+        {"q": "What already-published discourse runs the identical suffering-across-three-times formula for the five aggregates?",
+         "opts": ["SN 22.10 (Kālattayadukkhasutta), in Book III", "SN 22.9", "SN 12.15", "SN 45.8"],
+         "correct": 0,
+         "expl": "SN 22.10 already ran this same formula for the five aggregates."},
+        {"q": "How many discourse numbers does this single file cover?",
+         "opts": ["Three — SN 35.189, 190, and 191", "One", "Ten", "Sixty"],
+         "correct": 0,
+         "expl": "The file's own slug (189-191) names the three discourse numbers it represents."},
+        {"q": "What combination follows this file, at SN 35.192-194?",
+         "opts": ["Not-self, across the three times, completing round two's interior half", "A return to impermanence", "The exterior sense fields", "The vagga's own closing colophon"],
+         "correct": 0,
+         "expl": "SN 35.192-194 completes round two's interior half, cycling not-self through the three time-values."},
+    ],
+    marginalia=[
+        ("Suffering, three times over", [
+            "past, future, present, merged —",
+            "one line standing in for three files",
+        ]),
+        ("Already met, for the aggregates", [
+            "SN 22.10's own kālattaya —",
+            "now run for the six sense fields",
+        ]),
+        ("A pattern repeats", [
+            "round two's first merged file —",
+            "mirroring round one's own SN 35.171",
+        ]),
+        ("Still the interior fields", [
+            "eye, ear, nose, tongue, body, mind —",
+            "unchanged since SN 35.186",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.189-191/en/sujato" target="_blank" '
+        'rel="noopener">Full Sujato translation on SuttaCentral</a> '
+        "&mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.188.html">SN 35.188 &middot; The Interior Is '
+        "Impermanent in the Present</a> &mdash; the previous "
+        "discourse.",
+        '<a href="sn-35.192-194.html">SN 35.192&ndash;194 &middot; '
+        "The Interior as Not-Self in the Three Times</a> &mdash; the "
+        "next discourse.",
+        '<a href="sn-22.10.html">SN 22.10 &middot; Suffering in the '
+        "Three Times</a> &mdash; already published on this site, the "
+        "identical formula applied to the five aggregates.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.192-194 — Ajjhattātītādianattasutta
+# --------------------------------------------------------------------------- #
+page_range(
+    35, 192, 194, "Ajjhattātītādianatta",
+    "The Interior as Not-Self in the Three Times",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.192-194 &mdash; The Interior as Not-Self in the "
+                "Three Times | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 35.192 through "
+        "35.194 &mdash; completing round two's interior half, "
+        "mirroring the already-published SN 22.11 for the five "
+        "aggregates. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "Three discourses compressed into a single file, "
+                 "identical in shape to SN 35.189-191"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the third and final quality in round two's "
+                       "interior half"),
+    ],
+    why=(
+        "This file completes round two's interior half: the six "
+        "interior sense fields declared <em>not-self</em>, across "
+        "past, future, and present &mdash; mirroring SN 22.11 "
+        "(Kālattayaanattasutta), already published in Book III for "
+        "the five aggregates, and completing the identical "
+        "impermanent/suffering/not-self cycle round one already ran "
+        "with a different second variable."
+    ),
+    guide=[
+        ("Not-self, across all three times", [
+            "&ldquo;The eye, ear, nose, tongue, body, and mind are "
+            "not-self&rdquo;, with past, future, and present merged "
+            "into the same single-line pattern as SN 35.189-191's "
+            "own suffering.",
+        ]),
+        ("Interior half of round two now complete", [
+            "SN 35.186-194 together give round two's own three "
+            "interior combinations (impermanent, suffering, "
+            "not-self), each crossed with past/future/present, "
+            "mirroring SN 22.9-11's identical three-discourse set "
+            "for the five aggregates. SN 35.195 turns to the "
+            "exterior sense fields.",
+        ]),
+    ],
+    terms=[
+        ("anattā", "not-self &mdash; the quality declared here, "
+             "completing round two's three-mark cycle"),
+        ("atītaṁ anāgataṁ paccuppannaṁ", "past, future, present "
+             "&mdash; merged into this file's own single line, "
+             "unchanged from SN 35.189-191"),
+        ("ajjhattikāyatana", "the six interior sense fields &mdash; "
+             "completing their own three-quality cycle in round two "
+             "with this file"),
+        ("bāhirāyatana", "the six exterior sense fields &mdash; "
+             "taken up next, starting at SN 35.195"),
+        ("kālattaya", "the three times &mdash; the structure this "
+             "file shares with SN 22.9-11's own identical set"),
+    ],
+    text_intro=("The complete merged file, apart from its own "
+        "closing ellipsis: the declaration. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.192-194:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What quality does this file declare of the interior sense fields, completing round two's three-mark cycle?",
+         "opts": ["Not-self (anattā)", "Impermanent (anicca)", "Suffering (dukkha)", "Conditioned (saṅkhata)"],
+         "correct": 0,
+         "expl": "Anattā, following anicca at SN 35.186-188 and dukkha at SN 35.189-191."},
+        {"q": "What already-published discourse runs the identical not-self-across-three-times formula for the five aggregates?",
+         "opts": ["SN 22.11 (Kālattayaanattasutta), in Book III", "SN 22.9", "SN 22.10", "SN 35.165"],
+         "correct": 0,
+         "expl": "SN 22.11 completes the identical three-discourse set (SN 22.9-11) this project already published."},
+        {"q": "What does this file complete, together with SN 35.186-191?",
+         "opts": ["Round two's own three interior combinations — impermanent, suffering, and not-self", "The entire Saṭṭhipeyyālavagga", "Round one's desire/greed/both matrix", "The exterior half of round two"],
+         "correct": 0,
+         "expl": "SN 35.186-194 together give the interior half of round two's own combinatorial matrix."},
+        {"q": "What begins immediately after this file, at SN 35.195?",
+         "opts": ["The same three-quality cycle, now applied to the six exterior sense fields", "Round three's yad-aniccaṁ chain", "The vagga's own closing colophon", "A return to the interior sense fields"],
+         "correct": 0,
+         "expl": "SN 35.195-203 gives round two's exterior half, cycling through the same three qualities again."},
+        {"q": "How does this file's own compression compare to SN 35.189-191's own?",
+         "opts": ["Identically — the same three-time-value elided line, unchanged apart from the quality declared", "It is dropped entirely, leaving only the past", "It is expanded into three separate discourses", "It is replaced with a new formula unique to not-self"],
+         "correct": 0,
+         "expl": "The same compression pattern established at SN 35.189-191 continues unchanged."},
+    ],
+    marginalia=[
+        ("Not-self, the third mark", [
+            "anattā, after anicca and dukkha —",
+            "round two's interior cycle completes",
+        ]),
+        ("SN 22.11, already met", [
+            "the same formula, for the aggregates —",
+            "now run for the six sense fields",
+        ]),
+        ("Interior half now finished", [
+            "SN 35.186 through 194 —",
+            "three qualities, crossed with three times",
+        ]),
+        ("The exterior fields wait", [
+            "sights, sounds, smells next —",
+            "the same cycle, starting at SN 35.195",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.192-194/en/sujato" target="_blank" '
+        'rel="noopener">Full Sujato translation on SuttaCentral</a> '
+        "&mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.189-191.html">SN 35.189&ndash;191 &middot; '
+        "The Interior as Suffering in the Three Times</a> &mdash; "
+        "the previous discourse.",
+        '<a href="sn-35.195-197.html">SN 35.195&ndash;197 &middot; '
+        "The Exterior as Impermanent in the Three Times</a> &mdash; "
+        "the next discourse, opening round two's exterior half.",
+        '<a href="sn-22.11.html">SN 22.11 &middot; Not-Self in the '
+        "Three Times</a> &mdash; already published on this site, the "
+        "identical formula applied to the five aggregates.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.195-197 — Bāhirātītādianiccasutta
+# --------------------------------------------------------------------------- #
+page_range(
+    35, 195, 197, "Bāhirātītādianicca",
+    "The Exterior as Impermanent in the Three Times",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.195-197 &mdash; The Exterior as Impermanent in "
+                "the Three Times | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 35.195 through "
+        "35.197 &mdash; opening round two's exterior half, repeating "
+        "the interior half's own three-quality, three-time cycle for "
+        "sights, sounds, smells, tastes, touches, and ideas. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "Three discourses compressed into a single file, "
+                 "now addressing the six exterior sense fields across "
+                 "the three times"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the identical formula, one variable "
+                       "switched"),
+    ],
+    why=(
+        "This file opens round two's exterior half: the identical "
+        "past/future/present, impermanent/suffering/not-self matrix "
+        "already run for the interior sense fields (SN 35.186-194), "
+        "now applied to the six exterior sense fields &mdash; "
+        "sights, sounds, smells, tastes, touches, and ideas, all six "
+        "spelled out together on a single line."
+    ),
+    guide=[
+        ("The exterior sense fields, all six on one line", [
+            "&ldquo;Sights, mendicants, are impermanent in the past, "
+            "future, and present. Sounds &hellip; smells &hellip; "
+            "tastes &hellip; touches &hellip; and ideas are "
+            "impermanent&hellip;&rdquo; &mdash; unlike round one's "
+            "own exterior files (SN 35.177-185), which spelled out "
+            "each of the six fields on its own line, this file's "
+            "own greater compression (three time-values already "
+            "folded in) elides the middle four fields as well.",
+        ]),
+        ("Round two's own matrix now fully visible", [
+            "Round two mirrors round one's own two-half structure "
+            "(interior, then exterior), each crossing three "
+            "qualities with the new time-value variable &mdash; "
+            "eighteen discourses per round, the same total round "
+            "one's own closing uddāna will cite for its own matrix.",
+        ]),
+    ],
+    terms=[
+        ("bāhirāyatana", "the six exterior sense fields &mdash; "
+             "sights, sounds, smells, tastes, touches, and ideas, "
+             "this file's own new subject"),
+        ("rūpā&hellip;dhammā", "sights&hellip;ideas &mdash; the six "
+             "exterior sense fields, compressed onto a single line "
+             "in this file, unlike round one's own exterior files"),
+        ("anicca", "impermanent &mdash; the quality declared here, "
+             "the first of the exterior half's own three-quality "
+             "cycle in round two"),
+        ("atītaṁ anāgataṁ paccuppannaṁ", "past, future, present "
+             "&mdash; the same three-time compression carried over "
+             "from the interior half"),
+        ("ajjhattikāyatana", "the six interior sense fields &mdash; "
+             "already completed at SN 35.186-194, contrasted here "
+             "with the exterior fields"),
+    ],
+    text_intro=("The complete merged file, apart from its own "
+        "closing ellipsis: the declaration, naming each of the six "
+        "exterior sense fields. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.195-197:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What sense fields does this file address, opening round two's second half?",
+         "opts": ["The six exterior sense fields — sights, sounds, smells, tastes, touches, and ideas", "The six interior sense fields", "The five aggregates", "The four elements"],
+         "correct": 0,
+         "expl": "Bāhirāyatana, following the interior half's own completion at SN 35.186-194."},
+        {"q": "How does this file's own treatment of the six sense fields compare to round one's own exterior files (SN 35.177-185)?",
+         "opts": ["It compresses all six fields onto a single line, more tightly than round one's own field-by-field spelling", "It spells out each field on its own line, exactly like round one", "It addresses only two of the six fields", "It merges the exterior fields with the interior fields"],
+         "correct": 0,
+         "expl": "Round two's own greater compression (already carrying three time-values) elides the middle four fields as well."},
+        {"q": "What quality does this file declare of the exterior sense fields?",
+         "opts": ["Impermanent (anicca), opening the exterior half's own three-quality cycle in round two", "Suffering (dukkha)", "Not-self (anattā)", "Empty (suñña)"],
+         "correct": 0,
+         "expl": "The exterior half repeats the identical anicca/dukkha/anattā cycle already run for the interior fields."},
+        {"q": "What time-values does this file compress into a single line?",
+         "opts": ["Past, future, and present", "Only the past", "Only the present", "There is no time-value in this file"],
+         "correct": 0,
+         "expl": "Atītaṁ anāgataṁ paccuppannaṁ, carried over unchanged from the interior half."},
+        {"q": "How many discourses does round two's exterior half (SN 35.195-203) cover in total?",
+         "opts": ["Nine, across three merged files", "Three", "Eighteen", "Six"],
+         "correct": 0,
+         "expl": "SN 35.195-203 spans nine discourse numbers across three merged three-item files."},
+    ],
+    marginalia=[
+        ("The exterior fields, compressed", [
+            "sights, sounds, smells — one line —",
+            "tighter than round one's own spelling",
+        ]),
+        ("Impermanence returns", [
+            "the same quality as SN 35.186-188 —",
+            "now applied outward, not inward",
+        ]),
+        ("One matrix, two halves, again", [
+            "interior finished, exterior begins —",
+            "the identical three-time cycle",
+        ]),
+        ("Six more to come", [
+            "suffering and not-self still ahead —",
+            "for the exterior fields, at SN 35.198 and 201",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.195-197/en/sujato" target="_blank" '
+        'rel="noopener">Full Sujato translation on SuttaCentral</a> '
+        "&mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.192-194.html">SN 35.192&ndash;194 &middot; '
+        "The Interior as Not-Self in the Three Times</a> &mdash; the "
+        "previous discourse.",
+        '<a href="sn-35.198-200.html">SN 35.198&ndash;200 &middot; '
+        "The Exterior as Suffering in the Three Times</a> &mdash; "
+        "the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.198-200 — Bāhirātītādidukkhasutta
+# --------------------------------------------------------------------------- #
+page_range(
+    35, 198, 200, "Bāhirātītādidukkha",
+    "The Exterior as Suffering in the Three Times",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.198-200 &mdash; The Exterior as Suffering in the "
+                "Three Times | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 35.198 through "
+        "35.200 &mdash; the exterior sense fields declared suffering "
+        "across past, future, and present, the second of round two's "
+        "three exterior combinations. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 35.195-197, with "
+                 "suffering (dukkha) substituted for impermanence"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single substitution on SN 35.195-197's own "
+                       "frame"),
+    ],
+    why=(
+        "This file is the exterior half's second combination in "
+        "round two: sights, sounds, smells, tastes, touches, and "
+        "ideas declared <em>suffering</em> across all three times, "
+        "mirroring SN 35.189-191's own interior treatment and "
+        "completing this round's second lap through the "
+        "three-quality cycle."
+    ),
+    guide=[
+        ("Suffering, applied outward, across all three times", [
+            "The same substitution SN 35.189-191 made for the "
+            "interior fields (suffering replacing impermanence) "
+            "repeats here for the exterior fields, with past, "
+            "future, and present already folded into the single "
+            "opening line.",
+        ]),
+    ],
+    terms=[
+        ("dukkha", "suffering &mdash; the quality declared here, "
+             "replacing SN 35.195-197's own anicca"),
+        ("rūpā&hellip;dhammā", "sights&hellip;ideas &mdash; the six "
+             "exterior sense fields, unchanged from SN 35.195-197"),
+        ("atītaṁ anāgataṁ paccuppannaṁ", "past, future, present "
+             "&mdash; carried over unchanged"),
+        ("anicca", "impermanent &mdash; SN 35.195-197's own quality, "
+             "distinguished from this file's dukkha"),
+        ("anattā", "not-self &mdash; the third and final "
+             "combination, following next at SN 35.201-203"),
+    ],
+    text_intro=("The complete merged file, apart from its own "
+        "closing ellipsis: the declaration. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.198-200:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What quality does this file declare of the exterior sense fields, replacing SN 35.195-197's own impermanence?",
+         "opts": ["Suffering (dukkha)", "Not-self (anattā)", "Emptiness (suññatā)", "Conditioned-ness (saṅkhata)"],
+         "correct": 0,
+         "expl": "Dukkha, mirroring SN 35.189-191's own interior treatment."},
+        {"q": "What time-values does this file compress into its own single opening line?",
+         "opts": ["Past, future, and present", "Only the present", "Only the past and future", "No time-value is named"],
+         "correct": 0,
+         "expl": "Atītaṁ anāgataṁ paccuppannaṁ, unchanged from every other file in round two."},
+        {"q": "What combination follows this file, completing round two's exterior half?",
+         "opts": ["Not-self (anattā), at SN 35.201-203", "A return to impermanence", "Round three's yad-aniccaṁ chain", "The vagga's own closing colophon"],
+         "correct": 0,
+         "expl": "SN 35.201-203 completes round two entirely, cycling not-self through the exterior fields across all three times."},
+        {"q": "What interior-half discourse does this file mirror?",
+         "opts": ["SN 35.189-191, suffering across the interior fields' own three times", "SN 35.186-188, the opening trio", "SN 35.168-170, round one's opening trio", "SN 35.227, the vagga's own closing colophon"],
+         "correct": 0,
+         "expl": "The exterior half repeats the identical suffering-across-three-times combination already run for the interior fields."},
+        {"q": "What sense fields does this file address?",
+         "opts": ["The six exterior sense fields, unchanged from SN 35.195-197", "The six interior sense fields", "All twelve sense fields together", "The five aggregates"],
+         "correct": 0,
+         "expl": "Bāhirāyatana, continuing the exterior half opened at SN 35.195."},
+    ],
+    marginalia=[
+        ("Suffering, outward, all three times", [
+            "dukkha, applied to sights and sounds —",
+            "past, future, present, one line",
+        ]),
+        ("Mirroring the interior half", [
+            "SN 35.189-191's own combination —",
+            "now run for the exterior fields",
+        ]),
+        ("The same three time-values", [
+            "atīta, anāgata, paccuppanna —",
+            "unchanged since SN 35.186",
+        ]),
+        ("One combination left", [
+            "not-self, still ahead —",
+            "closing round two at SN 35.201",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.198-200/en/sujato" target="_blank" '
+        'rel="noopener">Full Sujato translation on SuttaCentral</a> '
+        "&mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.195-197.html">SN 35.195&ndash;197 &middot; '
+        "The Exterior as Impermanent in the Three Times</a> &mdash; "
+        "the previous discourse.",
+        '<a href="sn-35.201-203.html">SN 35.201&ndash;203 &middot; '
+        "The Exterior as Not-Self in the Three Times</a> &mdash; the "
+        "next discourse, closing round two.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.201-203 — Bāhirātītādianattasutta
+# --------------------------------------------------------------------------- #
+page_range(
+    35, 201, 203, "Bāhirātītādianatta",
+    "The Exterior as Not-Self in the Three Times",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.201-203 &mdash; The Exterior as Not-Self in the "
+                "Three Times | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 35.201 through "
+        "35.203 &mdash; closing round two of Saṭṭhipeyyālavagga's own "
+        "matrix, another eighteen discourses of past/future/present "
+        "crossed with impermanent/suffering/not-self. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 35.195-200, with "
+                 "not-self (anattā) substituted, closing round two"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "closes round two's own eighteen-discourse "
+                       "matrix"),
+    ],
+    why=(
+        "This file closes round two of Saṭṭhipeyyālavagga's own "
+        "matrix: the exterior sense fields declared <em>not-self</em> "
+        "across past, future, and present, completing a second "
+        "eighteen-discourse round &mdash; the count the vagga's own "
+        "closing colophon (at SN 35.227) will later confirm as "
+        "&ldquo;atītena ca dve nava&rdquo; (&ldquo;and with the "
+        "past [set], two nines&rdquo;, i.e. eighteen)."
+    ),
+    guide=[
+        ("Not-self, closing round two's exterior half", [
+            "&ldquo;Sights, mendicants, are not-self in the past, "
+            "future, and present&hellip;&rdquo; completes the "
+            "exterior half's own three-quality cycle in round two, "
+            "mirroring the identical interior sequence at SN "
+            "35.186-194.",
+        ]),
+        ("Round two complete: eighteen more discourses", [
+            "SN 35.186 through 35.203 together give round two's full "
+            "matrix &mdash; the identical structure as round one, "
+            "with past/future/present now standing in for desire/"
+            "greed/both. Eighteen discourses total, matching the "
+            "vagga's own closing uddāna: &ldquo;atītena ca dve "
+            "nava&rdquo;.",
+        ]),
+        ("Round three begins next: the yad-aniccaṁ chain", [
+            "SN 35.204 opens round three, keeping the interior/"
+            "exterior split and the past/future/present variable, "
+            "but replacing round two's simple declaration with the "
+            "well-known chain formula (&ldquo;what's impermanent is "
+            "suffering, what's suffering is not-self&hellip;&rdquo;) "
+            "already published in Book III at SN 22.15-17 for the "
+            "five aggregates.",
+        ]),
+    ],
+    terms=[
+        ("anattā", "not-self &mdash; the quality declared here, "
+             "closing round two's exterior half"),
+        ("atītena ca dve nava", "&ldquo;and with the past [set], "
+             "two nines&rdquo; &mdash; the vagga's own closing "
+             "uddāna (at SN 35.227), confirming round two's own "
+             "eighteen-discourse total (2 &times; 9)"),
+        ("bāhirāyatana", "the six exterior sense fields &mdash; "
+             "completing their own three-quality cycle in round two "
+             "with this file"),
+        ("atītaṁ anāgataṁ paccuppannaṁ", "past, future, present "
+             "&mdash; unchanged across all eighteen discourses of "
+             "round two"),
+        ("yadaniccaṁ taṁ dukkhaṁ", "&ldquo;what's impermanent is "
+             "suffering&rdquo; &mdash; the chain formula opening "
+             "round three at SN 35.204, already published in this "
+             "project at SN 22.15"),
+    ],
+    text_intro=("The complete merged file, apart from its own "
+        "closing ellipsis: the declaration. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.201-203:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What quality does this file declare of the exterior sense fields, closing round two's own matrix?",
+         "opts": ["Not-self (anattā)", "Impermanent (anicca)", "Suffering (dukkha)", "Conditioned (saṅkhata)"],
+         "correct": 0,
+         "expl": "Anattā closes the exterior half's own three-mark cycle in round two."},
+        {"q": "What untranslated phrase from the vagga's own closing colophon confirms round two's own count?",
+         "opts": ["&ldquo;Atītena ca dve nava&rdquo; — &ldquo;and with the past [set], two nines&rdquo;, i.e. eighteen", "&ldquo;Chandena aṭṭhārasa honti&rdquo;", "&ldquo;Saṭṭhipeyyālo samatto&rdquo;", "&ldquo;Suttantāni saṭṭhi&rdquo;"],
+         "correct": 0,
+         "expl": "This line from the closing uddāna specifically names round two's own eighteen-discourse total, phrased as two nines."},
+        {"q": "What changes in round three, beginning at SN 35.204?",
+         "opts": ["Round two's simple declaration is replaced by the yad-aniccaṁ chain formula already published at SN 22.15-17", "Nothing — round three repeats round two verbatim", "The interior/exterior split is dropped entirely", "The vagga ends and Samuddavagga begins"],
+         "correct": 0,
+         "expl": "Round three keeps the same two-axis structure but adds the well-known impermanent-suffering-not-self chain."},
+        {"q": "How many discourses does round two's full matrix (SN 35.186-203) contain in total?",
+         "opts": ["Eighteen — mirroring round one's own eighteen-discourse count", "Sixty, the whole vagga", "Nine", "Thirty-six"],
+         "correct": 0,
+         "expl": "The identical eighteen-discourse structure as round one, with a different second variable."},
+        {"q": "What sense fields does this file address?",
+         "opts": ["The six exterior sense fields, unchanged from SN 35.195-200", "The six interior sense fields", "All twelve sense fields together", "The five aggregates"],
+         "correct": 0,
+         "expl": "Bāhirāyatana, completing the exterior half begun at SN 35.195."},
+    ],
+    marginalia=[
+        ("Not-self, closing the exterior half", [
+            "sights, not-self, all three times —",
+            "round two's own cycle completes",
+        ]),
+        ("Two nines, the colophon says", [
+            "atītena ca dve nava —",
+            "eighteen, confirmed later at SN 35.227",
+        ]),
+        ("Round two complete", [
+            "186 through 203 —",
+            "past, future, present; three qualities; two halves",
+        ]),
+        ("The chain formula, next", [
+            "yad-aniccaṁ taṁ dukkhaṁ awaits —",
+            "round three opens at SN 35.204",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.201-203/en/sujato" target="_blank" '
+        'rel="noopener">Full Sujato translation on SuttaCentral</a> '
+        "&mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.198-200.html">SN 35.198&ndash;200 &middot; '
+        "The Exterior as Suffering in the Three Times</a> &mdash; "
+        "the previous discourse.",
+        '<a href="sn-35.204.html">SN 35.204 &middot; The Interior '
+        "and What&rsquo;s Impermanent in the Past</a> &mdash; the "
+        "next discourse, opening round three.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.204 — Ajjhattātītayadaniccasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 204, "Ajjhattātītayadanicca",
+    "The Interior and What&rsquo;s Impermanent in the Past",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.204 &mdash; The Interior and What&rsquo;s "
+                "Impermanent in the Past | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ajjhattātītayadaniccasutta &mdash; opening round three, "
+        "combining the past tense with the well-known impermanent-"
+        "suffering-not-self chain formula already published at SN "
+        "22.15. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A full worked example: the interior sense fields "
+                 "impermanent in the past, then the chain formula "
+                 "(impermanent&rarr;suffering&rarr;not-self&rarr;"
+                 "&ldquo;not mine&rdquo;) run for the eye and the "
+                 "mind"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "opens round three, combining two formulas "
+                       "this project has already met separately"),
+    ],
+    why=(
+        "This discourse opens round three of Saṭṭhipeyyālavagga's own "
+        "matrix, combining round two's past/future/present with a "
+        "formula this project has not yet seen crossed with a "
+        "time-value: the four-step chain &mdash; &ldquo;what's "
+        "impermanent is suffering, what's suffering is not-self, and "
+        "what's not-self should be seen: &lsquo;this is not "
+        "mine&hellip;&rsquo;&rdquo; &mdash; already published at SN "
+        "22.15 for the five aggregates, timelessly. Here, for the "
+        "first time in this project, the chain is run specifically "
+        "for the past."
+    ),
+    guide=[
+        ("A formula this project already knows, given a new variable", [
+            "SN 22.15 (Yadaniccasutta), already published in Book "
+            "III, runs this identical chain &mdash; impermanent, "
+            "therefore suffering, therefore not-self, therefore "
+            "&ldquo;this is not mine, I am not this, this is not my "
+            "self&rdquo; &mdash; for the five aggregates, without any "
+            "time-value attached. This discourse crosses the same "
+            "chain with round two's own past/future/present "
+            "variable, a combination SN 22 itself never makes.",
+        ]),
+        ("The longest text in this vagga so far", [
+            "Sujato's own English spells out the full chain twice "
+            "&mdash; once for the eye, once for the mind &mdash; "
+            "before eliding the remaining four interior fields, "
+            "making this discourse's own rendered text the fullest "
+            "in Saṭṭhipeyyālavagga to date, even though the Pāli "
+            "root itself runs the chain in full for all six fields.",
+        ]),
+        ("A combination round two and SN 22 each keep separate", [
+            "Book III keeps its own kālattaya formula (SN 22.9-11) "
+            "and its own chain formula (SN 22.12-17) as two distinct "
+            "sets, never crossed. Saṭṭhipeyyālavagga's own round "
+            "three is the first place this project has found the two "
+            "formulas combined into a single discourse.",
+        ]),
+    ],
+    terms=[
+        ("yadaniccaṁ, taṁ dukkhaṁ", "&ldquo;what's impermanent is "
+             "suffering&rdquo; &mdash; the chain's own first step, "
+             "already published at SN 22.15"),
+        ("yaṁ dukkhaṁ, tadanattā", "&ldquo;what's suffering is "
+             "not-self&rdquo; &mdash; the chain's own second step, "
+             "at SN 22.16"),
+        ("netaṁ mama, nesohamasmi, na meso attā", "&ldquo;this is "
+             "not mine, I am not this, this is not my self&rdquo; "
+             "&mdash; the chain's own closing formula of right "
+             "understanding"),
+        ("atīta", "past &mdash; the time-value this discourse "
+             "attaches to the chain, a combination not found "
+             "elsewhere in this project"),
+        ("sammappaññā", "right understanding &mdash; the faculty by "
+             "which the chain's own final step should be seen"),
+    ],
+    text_intro=("The complete discourse: the chain formula, run in "
+        "full for the eye, then again for the mind (the four "
+        "remaining interior fields elided in translation, though "
+        "the root spells out each in turn). Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.204:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What formula does this discourse combine with round two's own past/future/present variable?",
+         "opts": ["The yadaniccaṁ chain (impermanent&rarr;suffering&rarr;not-self&rarr;&ldquo;not mine&rdquo;), already published at SN 22.15-17", "Round one's desire/greed/both formula", "The four noble truths", "The seven factors of awakening"],
+         "correct": 0,
+         "expl": "The chain formula already familiar from SN 22.15-17, here crossed with a time-value for the first time in this project."},
+        {"q": "What does SN 22.15-17, already published in Book III, run this identical chain for?",
+         "opts": ["The five aggregates, without any time-value attached", "The six sense fields, with all three time-values", "The four elements", "The twelve links of dependent origination"],
+         "correct": 0,
+         "expl": "Book III keeps the chain formula and the three-times formula as two separate sets, never crossed — this vagga is the first to combine them."},
+        {"q": "How does this discourse's own rendered English text compare to earlier discourses in this vagga?",
+         "opts": ["It is the fullest so far, spelling out the chain twice (for the eye and the mind) before eliding the rest", "It is the shortest, using a single line", "It omits the chain entirely, using only round two's own formula", "It is identical in length to SN 35.186"],
+         "correct": 0,
+         "expl": "Sujato's own English spells out the four-step chain in full for two sense fields before compressing the remainder."},
+        {"q": "What time-value does this specific discourse (SN 35.204) address?",
+         "opts": ["The past", "The future", "The present", "All three times at once"],
+         "correct": 0,
+         "expl": "Atītaṁ — the past, the first of round three's own three time-values, before future (SN 35.205) and present (SN 35.206)."},
+        {"q": "What closing formula does the chain's own final step name?",
+         "opts": ["&ldquo;This is not mine, I am not this, this is not my self&rdquo;", "&ldquo;Rebirth is ended, the spiritual journey has been completed&rdquo;", "&ldquo;I take refuge in the Buddha, the teaching, and the Saṅgha&rdquo;", "&ldquo;May all beings be free from suffering&rdquo;"],
+         "correct": 0,
+         "expl": "Netaṁ mama, nesohamasmi, na meso attā — the classic three-part formula of not-self understanding."},
+    ],
+    marginalia=[
+        ("Two formulas, combined for the first time", [
+            "the chain, plus a time-value —",
+            "SN 22 keeps these two apart",
+        ]),
+        ("Impermanent, therefore suffering", [
+            "yadaniccaṁ taṁ dukkhaṁ —",
+            "already met at SN 22.15",
+        ]),
+        ("This is not mine", [
+            "netaṁ mama, nesohamasmi —",
+            "the chain's own closing formula",
+        ]),
+        ("The fullest text so far", [
+            "spelled out twice, eye and mind —",
+            "before the remaining fields elide",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.204/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.201-203.html">SN 35.201&ndash;203 &middot; '
+        "The Exterior as Not-Self in the Three Times</a> &mdash; the "
+        "previous discourse, closing round two.",
+        '<a href="sn-35.205.html">SN 35.205 &middot; The Interior '
+        "and What&rsquo;s Impermanent in the Future</a> &mdash; the "
+        "next discourse.",
+        '<a href="sn-22.15.html">SN 22.15 &middot; That Which is '
+        "Impermanent</a> &mdash; already published on this site, the "
+        "identical chain formula applied to the five aggregates, "
+        "without any time-value.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.205 — Ajjhattānāgatayadaniccasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 205, "Ajjhattānāgatayadanicca",
+    "The Interior and What&rsquo;s Impermanent in the Future",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.205 &mdash; The Interior and What&rsquo;s "
+                "Impermanent in the Future | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ajjhattānāgatayadaniccasutta &mdash; the second of round "
+        "three's three time-values, compressing SN 35.204's own full "
+        "chain with an ellipsis. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 35.204, with "
+                 "&ldquo;future&rdquo; substituted, compressed with "
+                 "an ellipsis"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single substitution on SN 35.204's own "
+                       "frame"),
+    ],
+    why=(
+        "This discourse is round three's second time-value: the "
+        "identical chain formula, now attached to the "
+        "<em>future</em> rather than SN 35.204's own past, "
+        "compressed by Sujato's own English into two short lines "
+        "rather than the fuller text SN 35.204 spelled out."
+    ),
+    guide=[
+        ("One substitution: anāgata for atīta", [
+            "&ldquo;In the future the eye, ear, nose, tongue, body, "
+            "and mind will be impermanent. What's impermanent is "
+            "suffering&hellip;&rdquo; replaces SN 35.204's own "
+            "past-tense declaration; the remainder of the chain is "
+            "trusted to the reader's own memory of SN 35.204's full "
+            "text.",
+        ]),
+    ],
+    terms=[
+        ("anāgata", "future &mdash; this discourse's own time-value, "
+             "the second of round three's three"),
+        ("yadaniccaṁ, taṁ dukkhaṁ", "&ldquo;what's impermanent is "
+             "suffering&rdquo; &mdash; the one step of the chain "
+             "still spelled out here before the ellipsis takes over"),
+        ("atīta", "past &mdash; SN 35.204's own time-value, "
+             "distinguished here from anāgata"),
+        ("paccuppanna", "present &mdash; the third time-value, "
+             "following next at SN 35.206"),
+        ("peyyāla", "an elision mark &mdash; here compressing three "
+             "of the chain's own four steps down to a trailing "
+             "ellipsis"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "ellipsis (Sujato's own English elides the chain's remaining "
+        "steps, already spelled out at SN 35.204): the declaration "
+        "and the chain's own first step. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.205:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What time-value does this discourse substitute for SN 35.204's own past?",
+         "opts": ["Future (anāgata)", "Present (paccuppanna)", "All three times at once", "Timeless (kāla-vimutta)"],
+         "correct": 0,
+         "expl": "Anāgataṁ — the second of round three's three time-values."},
+        {"q": "How much of the chain formula does this discourse's own rendered text still spell out, before the ellipsis?",
+         "opts": ["Only the first step — &ldquo;what's impermanent is suffering&rdquo;", "The full four-step chain", "None of the chain at all", "Only the closing &ldquo;not mine&rdquo; formula"],
+         "correct": 0,
+         "expl": "Sujato's own English keeps one step visible before compressing the rest."},
+        {"q": "What third time-value follows this discourse, at SN 35.206?",
+         "opts": ["Present (paccuppanna)", "A return to the past", "Timelessness", "The five aggregates"],
+         "correct": 0,
+         "expl": "SN 35.206 completes round three's opening trio with the present tense."},
+        {"q": "What sense fields does this discourse address?",
+         "opts": ["The six interior sense fields, unchanged from SN 35.204", "The six exterior sense fields", "Only the mind", "The five aggregates"],
+         "correct": 0,
+         "expl": "Ajjhattikāyatana, exactly as in SN 35.204; only the time-value changes."},
+        {"q": "How does this discourse's own bilara-data file relate to SN 35.204's?",
+         "opts": ["It is kept as its own separate file, the second of round three's opening trio", "It is merged with SN 35.204 into one file", "It is merged with all sixty discourses of the vagga", "It does not exist as a separate file"],
+         "correct": 0,
+         "expl": "SN 35.204-206, like SN 35.168-170 and 186-188 before it, are kept as three separate one-line files."},
+    ],
+    marginalia=[
+        ("One word changes", [
+            "anāgata replaces atīta —",
+            "future, not past",
+        ]),
+        ("One step still shown", [
+            "yadaniccaṁ taṁ dukkhaṁ —",
+            "the rest trusted to memory",
+        ]),
+        ("Same fields, same chain", [
+            "eye, ear, nose, tongue, body, mind —",
+            "unchanged from the discourse before",
+        ]),
+        ("One time-value left", [
+            "present still to come —",
+            "at SN 35.206",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.205/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.204.html">SN 35.204 &middot; The Interior '
+        "and What&rsquo;s Impermanent in the Past</a> &mdash; the "
+        "previous discourse, with the full chain this discourse "
+        "compresses.",
+        '<a href="sn-35.206.html">SN 35.206 &middot; The Interior '
+        "and What&rsquo;s Impermanent in the Present</a> &mdash; the "
+        "next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.206 — Ajjhattapaccuppannayadaniccasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 206, "Ajjhattapaccuppannayadanicca",
+    "The Interior and What&rsquo;s Impermanent in the Present",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.206 &mdash; The Interior and What&rsquo;s "
+                "Impermanent in the Present | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ajjhattapaccuppannayadaniccasutta &mdash; closing round "
+        "three's opening trio with the present tense, before the "
+        "remaining five combinations merge all three times into a "
+        "single line each. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 35.204-205, with "
+                 "&ldquo;present&rdquo; substituted"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "closes the three-file opening unit"),
+    ],
+    why=(
+        "This discourse closes round three's opening trio, attaching "
+        "the chain formula to the <em>present</em> &mdash; completing "
+        "past (SN 35.204), future (SN 35.205), and present here "
+        "&mdash; before SN 35.207 begins merging all three "
+        "time-values into a single line per file, exactly as round "
+        "two's own opening trio gave way to merged files at SN "
+        "35.189."
+    ),
+    guide=[
+        ("The present, completing the opening trio", [
+            "&ldquo;In the present the eye, ear, nose, tongue, body, "
+            "and mind are impermanent. What's impermanent is "
+            "suffering&hellip;&rdquo; completes the three time-values "
+            "this opening trio spells out one file each &mdash; past, "
+            "future, present &mdash; before the compression pattern "
+            "this project has now seen three times in this vagga "
+            "alone repeats itself.",
+        ]),
+        ("The third confirmation of a vagga-wide pattern", [
+            "Round three's own opening three-item unit (SN "
+            "35.204-206) is the third time this vagga has opened a "
+            "round with three separate files before merging the "
+            "rest &mdash; after round one's SN 35.168-170 and round "
+            "two's SN 35.186-188. The shape is now firmly "
+            "established: three files first, then compression.",
+        ]),
+    ],
+    terms=[
+        ("paccuppanna", "present &mdash; this discourse's own "
+             "time-value, the third and last of round three's "
+             "opening trio"),
+        ("yadaniccaṁ, taṁ dukkhaṁ", "&ldquo;what's impermanent is "
+             "suffering&rdquo; &mdash; the chain's own first step, "
+             "still spelled out here"),
+        ("atīta, anāgata", "past, future &mdash; SN 35.204's and "
+             "35.205's own time-values, now joined by this "
+             "discourse's present"),
+        ("ajjhattikāyatana", "the six interior sense fields &mdash; "
+             "unchanged across all three discourses of this opening "
+             "trio"),
+        ("peyyāla", "an elision mark &mdash; the compression that "
+             "will merge all three time-values into a single line "
+             "beginning at SN 35.207"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "ellipsis: the declaration and the chain's own first step. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.206:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What time-value does this discourse address, completing round three's opening trio?",
+         "opts": ["Present (paccuppanna)", "Past (atīta)", "Future (anāgata)", "Timeless (kāla-vimutta)"],
+         "correct": 0,
+         "expl": "Paccuppannaṁ, the third of three, completing past (SN 35.204) and future (SN 35.205)."},
+        {"q": "What compression pattern does SN 35.207 begin, immediately after this discourse?",
+         "opts": ["Merging all three time-values into a single line per file, mirroring rounds one and two's own compression pattern", "Splitting each time-value into its own separate file", "Returning to the desire/greed/both variable", "Ending the vagga entirely"],
+         "correct": 0,
+         "expl": "The same structural pattern this vagga has now used three times: three separate files first, then merged files."},
+        {"q": "How many times has this vagga now opened a round with three separate files before merging the rest?",
+         "opts": ["Three times — SN 35.168-170, 186-188, and 204-206", "Once, only in round one", "Twice, in rounds one and two only", "This is the first occurrence"],
+         "correct": 0,
+         "expl": "The pattern is now firmly established across all three rounds so far."},
+        {"q": "What sense fields does this discourse address?",
+         "opts": ["The six interior sense fields, unchanged from SN 35.204-205", "The six exterior sense fields", "Only the eye", "The five aggregates"],
+         "correct": 0,
+         "expl": "Ajjhattikāyatana, exactly as in SN 35.204-205; only the time-value changes."},
+        {"q": "What formula step does this discourse's own text still spell out, before the ellipsis?",
+         "opts": ["&ldquo;What's impermanent is suffering&rdquo; — the chain's own first step", "The full four-step chain", "Only the closing &ldquo;not mine&rdquo; formula", "None of the chain formula"],
+         "correct": 0,
+         "expl": "The same single visible step as SN 35.205, with the rest compressed."},
+    ],
+    marginalia=[
+        ("The present, completing the trio", [
+            "past, future, and now present —",
+            "three time-values, three files",
+        ]),
+        ("A pattern confirmed a third time", [
+            "opening trio, then merged files —",
+            "round three repeats the same shape",
+        ]),
+        ("The chain's first step, still shown", [
+            "yadaniccaṁ taṁ dukkhaṁ —",
+            "the rest compressed, as in SN 35.205",
+        ]),
+        ("Merging begins next", [
+            "SN 35.207 folds all three times —",
+            "into a single line, as before",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.206/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.205.html">SN 35.205 &middot; The Interior '
+        "and What&rsquo;s Impermanent in the Future</a> &mdash; the "
+        "previous discourse.",
+        '<a href="sn-35.207-209.html">SN 35.207&ndash;209 &middot; '
+        "The Interior and What&rsquo;s Suffering in the Three "
+        "Times</a> &mdash; the next discourse, round three's first "
+        "merged combination.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.207-209 — Ajjhattātītādiyaṁdukkhasutta
+# --------------------------------------------------------------------------- #
+page_range(
+    35, 207, 209, "Ajjhattātītādiyaṁdukkha",
+    "The Interior and What&rsquo;s Suffering in the Three Times",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.207-209 &mdash; The Interior and What&rsquo;s "
+                "Suffering in the Three Times | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 35.207 through "
+        "35.209 &mdash; round three's second combination, starting "
+        "the chain formula from suffering rather than impermanence, "
+        "already published at SN 22.16 for the five aggregates. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "Three discourses compressed into a single file, "
+                 "merging past, future, and present, with the chain "
+                 "now starting from suffering rather than "
+                 "impermanence"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a shortened, three-step chain"),
+    ],
+    why=(
+        "This file is round three's second combination: the "
+        "interior sense fields declared <em>suffering</em> across "
+        "past, future, and present, with the chain now starting one "
+        "step later than SN 35.204-206 &mdash; &ldquo;what's "
+        "suffering is not-self&hellip;&rdquo; rather than &ldquo;"
+        "what's impermanent is suffering&hellip;&rdquo; &mdash; the "
+        "identical shortened entry point SN 22.16 already used in "
+        "Book III for the five aggregates."
+    ),
+    guide=[
+        ("A shorter chain, entered one step later", [
+            "Where SN 35.204-206 declared the interior fields "
+            "impermanent and ran the full four-step chain, this file "
+            "declares them suffering directly and runs only the "
+            "remaining two steps: &ldquo;what's suffering is "
+            "not-self&hellip; this is not mine&hellip;&rdquo; "
+            "&mdash; the same economy SN 22.16 (Yaṁdukkhasutta) "
+            "already showed for the five aggregates.",
+        ]),
+        ("All three times, merged", [
+            "Past, future, and present are folded into this file's "
+            "own single opening line, exactly as round two's own "
+            "merged files (SN 35.189 onward) compressed the same "
+            "three time-values.",
+        ]),
+    ],
+    terms=[
+        ("yaṁ dukkhaṁ, tadanattā", "&ldquo;what's suffering is "
+             "not-self&rdquo; &mdash; this file's own entry point "
+             "into the chain, one step later than SN 35.204-206's "
+             "own"),
+        ("dukkha", "suffering &mdash; declared directly here, rather "
+             "than derived from impermanence as in SN 35.204-206"),
+        ("atītaṁ anāgataṁ paccuppannaṁ", "past, future, present "
+             "&mdash; merged into this file's own single line"),
+        ("netaṁ mama, nesohamasmi, na meso attā", "&ldquo;this is "
+             "not mine, I am not this, this is not my self&rdquo; "
+             "&mdash; the chain's own closing formula, unchanged"),
+        ("ajjhattikāyatana", "the six interior sense fields &mdash; "
+             "unchanged from SN 35.204-206"),
+    ],
+    text_intro=("The complete merged file, apart from its own "
+        "closing ellipsis: the declaration and the chain's own "
+        "remaining two steps. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.207-209:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "Where does this file's own chain formula begin, compared to SN 35.204-206's own?",
+         "opts": ["One step later — directly from &ldquo;what's suffering is not-self&rdquo;, skipping the impermanence step", "At the identical starting point", "Two steps later, skipping straight to &ldquo;not mine&rdquo;", "It does not use the chain formula at all"],
+         "correct": 0,
+         "expl": "Suffering is declared directly, without deriving it from impermanence first — the same economy as SN 22.16."},
+        {"q": "What already-published discourse uses this identical shortened entry point for the five aggregates?",
+         "opts": ["SN 22.16 (Yaṁdukkhasutta), in Book III", "SN 22.15", "SN 22.17", "SN 35.204"],
+         "correct": 0,
+         "expl": "SN 22.16 already ran this same two-step chain, starting from suffering rather than impermanence."},
+        {"q": "What time-values does this file merge into a single line?",
+         "opts": ["Past, future, and present", "Only the present", "Only the past", "No time-value is named"],
+         "correct": 0,
+         "expl": "Atītaṁ anāgataṁ paccuppannaṁ, the same compression pattern round two's own merged files established."},
+        {"q": "What combination follows this file, at SN 35.210-212?",
+         "opts": ["Not-self, entered at the chain's own final step, completing round three's interior half", "A return to the full four-step chain", "The exterior sense fields", "The vagga's own closing colophon"],
+         "correct": 0,
+         "expl": "SN 35.210-212 completes round three's interior half with the shortest entry point yet."},
+        {"q": "What sense fields does this file address?",
+         "opts": ["The six interior sense fields, unchanged from SN 35.204-206", "The six exterior sense fields", "The five aggregates", "Only the eye and mind"],
+         "correct": 0,
+         "expl": "Ajjhattikāyatana, continuing the interior half opened at SN 35.204."},
+    ],
+    marginalia=[
+        ("A shorter entry point", [
+            "yaṁ dukkhaṁ, tadanattā —",
+            "one step later than SN 35.204",
+        ]),
+        ("Already met, for the aggregates", [
+            "SN 22.16's own economy —",
+            "now run for the six sense fields",
+        ]),
+        ("Three times, one line", [
+            "past, future, present, merged —",
+            "the same compression as round two",
+        ]),
+        ("Still shorter, next", [
+            "not-self alone follows —",
+            "at SN 35.210",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.207-209/en/sujato" target="_blank" '
+        'rel="noopener">Full Sujato translation on SuttaCentral</a> '
+        "&mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.206.html">SN 35.206 &middot; The Interior '
+        "and What&rsquo;s Impermanent in the Present</a> &mdash; the "
+        "previous discourse.",
+        '<a href="sn-35.210-212.html">SN 35.210&ndash;212 &middot; '
+        "The Interior and What&rsquo;s Not-Self in the Three "
+        "Times</a> &mdash; the next discourse.",
+        '<a href="sn-22.16.html">SN 22.16 &middot; That Which is '
+        "Suffering</a> &mdash; already published on this site, the "
+        "identical shortened chain applied to the five aggregates.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.210-212 — Ajjhattātītādiyadanattasutta
+# --------------------------------------------------------------------------- #
+page_range(
+    35, 210, 212, "Ajjhattātītādiyadanatta",
+    "The Interior and What&rsquo;s Not-Self in the Three Times",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.210-212 &mdash; The Interior and What&rsquo;s "
+                "Not-Self in the Three Times | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 35.210 through "
+        "35.212 &mdash; completing round three's interior half with "
+        "the chain's own shortest entry point, already published at "
+        "SN 22.17 for the five aggregates. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "Three discourses compressed into a single file, "
+                 "the chain reduced to its own single closing step"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the shortest chain entry point in this "
+                       "round"),
+    ],
+    why=(
+        "This file completes round three's interior half: the "
+        "chain reduced to its own single final step &mdash; "
+        "&ldquo;what's not-self should be seen: &lsquo;this is not "
+        "mine&hellip;&rsquo;&rdquo; &mdash; declared directly of the "
+        "interior fields across past, future, and present, "
+        "mirroring SN 22.17 (Yadanattāsutta), already published in "
+        "Book III for the five aggregates."
+    ),
+    guide=[
+        ("The chain's own shortest entry point", [
+            "Where SN 35.204-206 ran all four steps and SN "
+            "35.207-209 entered at the second, this file enters at "
+            "the chain's own final step directly: not-self declared "
+            "outright, followed immediately by &ldquo;this is not "
+            "mine, I am not this, this is not my self&rdquo;.",
+        ]),
+        ("Interior half of round three now complete", [
+            "SN 35.204-212 together give round three's own three "
+            "interior combinations, each entering the chain one "
+            "step later than the last &mdash; mirroring SN 22.15-17's "
+            "identical three-discourse progression for the five "
+            "aggregates. SN 35.213 turns to the exterior sense "
+            "fields.",
+        ]),
+    ],
+    terms=[
+        ("yadanattā, taṁ netaṁ mama&hellip;", "&ldquo;what's "
+             "not-self, this is not mine&hellip;&rdquo; &mdash; this "
+             "file's own single-step entry into the chain, the "
+             "shortest of round three's three interior combinations"),
+        ("anattā", "not-self &mdash; declared directly here, rather "
+             "than derived through the chain's earlier steps"),
+        ("atītaṁ anāgataṁ paccuppannaṁ", "past, future, present "
+             "&mdash; merged into this file's own single line, "
+             "unchanged from SN 35.207-209"),
+        ("ajjhattikāyatana", "the six interior sense fields &mdash; "
+             "completing their own chain-formula cycle in round "
+             "three with this file"),
+        ("bāhirāyatana", "the six exterior sense fields &mdash; "
+             "taken up next, starting at SN 35.213"),
+    ],
+    text_intro=("The complete merged file, apart from its own "
+        "closing ellipsis: the declaration and the chain's own final "
+        "step. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.210-212:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "How does this file's own entry point into the chain compare to SN 35.207-209's own?",
+         "opts": ["It is shorter still — not-self declared directly, entering at the chain's own final step", "It is identical to SN 35.207-209's own entry point", "It restores the full four-step chain", "It drops the chain formula entirely"],
+         "correct": 0,
+         "expl": "The shortest of round three's three interior combinations, mirroring SN 22.17's own economy."},
+        {"q": "What already-published discourse uses this identical single-step entry for the five aggregates?",
+         "opts": ["SN 22.17 (Yadanattāsutta), in Book III", "SN 22.15", "SN 22.16", "SN 35.204"],
+         "correct": 0,
+         "expl": "SN 22.15-17 together show this same progressive shortening this vagga's SN 35.204-212 now mirrors."},
+        {"q": "What does this file complete, together with SN 35.204-209?",
+         "opts": ["Round three's own three interior combinations, each entering the chain one step later than the last", "The entire Saṭṭhipeyyālavagga", "Round two's own past/future/present matrix", "The exterior half of round three"],
+         "correct": 0,
+         "expl": "SN 35.204-212 together give the interior half of round three's own combinatorial matrix."},
+        {"q": "What begins immediately after this file, at SN 35.213?",
+         "opts": ["The same chain-formula cycle, now applied to the six exterior sense fields", "Round four's timeless individual discourses", "The vagga's own closing colophon", "A return to the interior sense fields"],
+         "correct": 0,
+         "expl": "SN 35.213-221 gives round three's exterior half, cycling through the same progressive shortening again."},
+        {"q": "What time-values does this file merge into a single line?",
+         "opts": ["Past, future, and present", "Only the present", "Only the future", "No time-value is named"],
+         "correct": 0,
+         "expl": "Atītaṁ anāgataṁ paccuppannaṁ, unchanged from SN 35.207-209."},
+    ],
+    marginalia=[
+        ("The shortest entry point", [
+            "not-self, declared directly —",
+            "no derivation needed",
+        ]),
+        ("SN 22.17, already met", [
+            "the same economy, for the aggregates —",
+            "now run for the six sense fields",
+        ]),
+        ("Interior half now finished", [
+            "SN 35.204 through 212 —",
+            "the chain, entered later each time",
+        ]),
+        ("The exterior fields wait", [
+            "sights, sounds, smells next —",
+            "the same cycle, starting at SN 35.213",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.210-212/en/sujato" target="_blank" '
+        'rel="noopener">Full Sujato translation on SuttaCentral</a> '
+        "&mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.207-209.html">SN 35.207&ndash;209 &middot; '
+        "The Interior and What&rsquo;s Suffering in the Three "
+        "Times</a> &mdash; the previous discourse.",
+        '<a href="sn-35.213-215.html">SN 35.213&ndash;215 &middot; '
+        "The Exterior and What&rsquo;s Impermanent in the Three "
+        "Times</a> &mdash; the next discourse, opening round three's "
+        "exterior half.",
+        '<a href="sn-22.17.html">SN 22.17 &middot; That Which is '
+        "Not-Self</a> &mdash; already published on this site, the "
+        "identical single-step chain applied to the five aggregates.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.213-215 — Bāhirātītādiyadaniccasutta
+# --------------------------------------------------------------------------- #
+page_range(
+    35, 213, 215, "Bāhirātītādiyadanicca",
+    "The Exterior and What&rsquo;s Impermanent in the Three Times",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.213-215 &mdash; The Exterior and What&rsquo;s "
+                "Impermanent in the Three Times | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 35.213 through "
+        "35.215 &mdash; opening round three's exterior half, running "
+        "the full four-step chain for sights, sounds, smells, "
+        "tastes, touches, and ideas. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "Three discourses compressed into a single file, "
+                 "the full four-step chain applied to the exterior "
+                 "sense fields"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the identical formula, one variable "
+                       "switched"),
+    ],
+    why=(
+        "This file opens round three's exterior half: the identical "
+        "chain formula already run for the interior sense fields (SN "
+        "35.204-212), now applied to the six exterior sense fields, "
+        "beginning again from the full four-step version &mdash; "
+        "impermanent, therefore suffering, therefore not-self, "
+        "therefore &ldquo;not mine&rdquo; &mdash; exactly as SN "
+        "35.204 opened the interior half."
+    ),
+    guide=[
+        ("The exterior fields, compressed onto one line", [
+            "&ldquo;Sights, sounds, smells, tastes, touches, and "
+            "ideas are impermanent in the past, future, and "
+            "present&hellip;&rdquo; opens this file, all six exterior "
+            "fields folded into a single sentence &mdash; unlike "
+            "round one's own exterior files (SN 35.177-185), which "
+            "spelled out each field on its own line, but matching "
+            "round two's own tighter exterior compression (SN "
+            "35.195-203). The Pāli root still marks each field "
+            "separately; only Sujato's own English compresses them "
+            "together here.",
+        ]),
+        ("The full chain, restored", [
+            "Just as round three's interior half opened with the "
+            "full four-step chain (SN 35.204) before shortening "
+            "across SN 35.207-212, this exterior file restores the "
+            "full chain at its own opening, beginning the same "
+            "progressive shortening again for the exterior fields.",
+        ]),
+    ],
+    terms=[
+        ("bāhirāyatana", "the six exterior sense fields &mdash; "
+             "sights, sounds, smells, tastes, touches, and ideas, "
+             "this file's own new subject"),
+        ("rūpā&hellip;dhammā", "sights&hellip;ideas &mdash; the six "
+             "exterior sense fields, folded into a single sentence "
+             "in Sujato's own English here, though the Pāli root "
+             "still marks each separately"),
+        ("yadaniccaṁ, taṁ dukkhaṁ", "&ldquo;what's impermanent is "
+             "suffering&rdquo; &mdash; the chain's own first step, "
+             "restored here after round three's interior half "
+             "shortened it away"),
+        ("atītaṁ anāgataṁ paccuppannaṁ", "past, future, present "
+             "&mdash; the same three-time compression carried over "
+             "from the interior half"),
+        ("ajjhattikāyatana", "the six interior sense fields &mdash; "
+             "already completed at SN 35.204-212, contrasted here "
+             "with the exterior fields"),
+    ],
+    text_intro=("The complete merged file, apart from its own "
+        "closing ellipsis: the declaration, naming each of the six "
+        "exterior sense fields, then the chain's own remaining "
+        "steps. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.213-215:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What sense fields does this file address, opening round three's second half?",
+         "opts": ["The six exterior sense fields — sights, sounds, smells, tastes, touches, and ideas", "The six interior sense fields", "The five aggregates", "The four elements"],
+         "correct": 0,
+         "expl": "Bāhirāyatana, following the interior half's own completion at SN 35.204-212."},
+        {"q": "How does this file's own chain formula compare to SN 35.204's own opening?",
+         "opts": ["It restores the full four-step chain, beginning the same progressive shortening again for the exterior fields", "It uses only the chain's own final step", "It drops the chain formula entirely", "It merges past, future, and present differently than round three's interior half"],
+         "correct": 0,
+         "expl": "Just as SN 35.204 opened with the full chain before SN 35.207-212 shortened it, this file restores the full version at the exterior half's own opening."},
+        {"q": "How does this file's own treatment of the six sense fields compare to round two's own exterior files (SN 35.195-203)?",
+         "opts": ["It matches round two's own compression, all six fields folded into a single sentence", "It spells out each field individually, unlike round two's own compression", "It addresses only two of the six fields", "It merges the exterior fields with the interior fields"],
+         "correct": 0,
+         "expl": "Round three's own exterior files match round two's tighter compression, not round one's field-by-field spelling."},
+        {"q": "What time-values does this file merge into a single opening declaration?",
+         "opts": ["Past, future, and present", "Only the past", "Only the present", "There is no time-value in this file"],
+         "correct": 0,
+         "expl": "Atītaṁ anāgataṁ paccuppannaṁ, carried over unchanged from the interior half."},
+        {"q": "What combination follows this file, at SN 35.216-218?",
+         "opts": ["Suffering, entered one step later, mirroring SN 35.207-209's own interior treatment", "A return to the interior sense fields", "Round four's timeless individual discourses", "The vagga's own closing colophon"],
+         "correct": 0,
+         "expl": "SN 35.216-218 continues the exterior half's own progressive shortening, exactly mirroring the interior half's shape."},
+    ],
+    marginalia=[
+        ("The exterior fields, one line", [
+            "sights, sounds, smells, folded together —",
+            "matching round two's own compression",
+        ]),
+        ("The full chain, restored", [
+            "impermanent, therefore suffering —",
+            "beginning again, as SN 35.204 did",
+        ]),
+        ("One matrix, two halves, a third time", [
+            "interior finished, exterior begins —",
+            "the identical progressive shortening",
+        ]),
+        ("Two shorter entries to come", [
+            "suffering and not-self alone —",
+            "for the exterior fields, at SN 35.216 and 219",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.213-215/en/sujato" target="_blank" '
+        'rel="noopener">Full Sujato translation on SuttaCentral</a> '
+        "&mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.210-212.html">SN 35.210&ndash;212 &middot; '
+        "The Interior and What&rsquo;s Not-Self in the Three "
+        "Times</a> &mdash; the previous discourse.",
+        '<a href="sn-35.216-218.html">SN 35.216&ndash;218 &middot; '
+        "The Exterior and What&rsquo;s Suffering in the Three "
+        "Times</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.216-218 — Bāhirātītādiyaṁdukkhasutta
+# --------------------------------------------------------------------------- #
+page_range(
+    35, 216, 218, "Bāhirātītādiyaṁdukkha",
+    "The Exterior and What&rsquo;s Suffering in the Three Times",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.216-218 &mdash; The Exterior and What&rsquo;s "
+                "Suffering in the Three Times | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 35.216 through "
+        "35.218 &mdash; the exterior sense fields entering the chain "
+        "at suffering, the second of round three's three exterior "
+        "combinations. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 35.213-215, entering "
+                 "the chain one step later"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a shortened, two-step chain"),
+    ],
+    why=(
+        "This file is the exterior half's second combination in "
+        "round three: the exterior sense fields declared "
+        "<em>suffering</em> directly, entering the chain one step "
+        "later than SN 35.213-215's own full version, mirroring SN "
+        "35.207-209's own interior treatment."
+    ),
+    guide=[
+        ("Suffering, entered directly, applied outward", [
+            "The same shortened entry SN 35.207-209 used for the "
+            "interior fields repeats here for the exterior fields, "
+            "with past, future, and present already folded into the "
+            "single opening line.",
+        ]),
+    ],
+    terms=[
+        ("yaṁ dukkhaṁ, tadanattā", "&ldquo;what's suffering is "
+             "not-self&rdquo; &mdash; this file's own entry point, "
+             "unchanged from SN 35.207-209's own"),
+        ("rūpā&hellip;dhammā", "sights&hellip;ideas &mdash; the six "
+             "exterior sense fields, folded into a single sentence, "
+             "as in SN 35.213-215"),
+        ("atītaṁ anāgataṁ paccuppannaṁ", "past, future, present "
+             "&mdash; carried over unchanged"),
+        ("anicca", "impermanent &mdash; SN 35.213-215's own opening "
+             "quality, skipped here as the chain enters one step "
+             "later"),
+        ("anattā", "not-self &mdash; the third and final "
+             "combination, following next at SN 35.219-221"),
+    ],
+    text_intro=("The complete merged file, apart from its own "
+        "closing ellipsis: the declaration, naming each of the six "
+        "exterior sense fields, then the chain's own remaining "
+        "steps. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.216-218:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "Where does this file's own chain formula begin, compared to SN 35.213-215's own?",
+         "opts": ["One step later — directly from &ldquo;what's suffering is not-self&rdquo;", "At the identical starting point", "Two steps later, skipping to &ldquo;not mine&rdquo;", "It does not use the chain formula"],
+         "correct": 0,
+         "expl": "Mirroring SN 35.207-209's own interior treatment, this file skips the impermanence step."},
+        {"q": "What time-values does this file compress into its own opening declaration?",
+         "opts": ["Past, future, and present", "Only the present", "Only the past and future", "No time-value is named"],
+         "correct": 0,
+         "expl": "Atītaṁ anāgataṁ paccuppannaṁ, unchanged from every other file in round three."},
+        {"q": "What combination follows this file, completing round three's exterior half?",
+         "opts": ["Not-self, entered at the chain's own final step, at SN 35.219-221", "A return to the full four-step chain", "Round four's timeless individual discourses", "The vagga's own closing colophon"],
+         "correct": 0,
+         "expl": "SN 35.219-221 completes round three entirely, cycling the shortest chain entry through the exterior fields."},
+        {"q": "What interior-half discourse does this file mirror?",
+         "opts": ["SN 35.207-209, entering the chain at suffering for the interior fields", "SN 35.204-206, the full chain's opening trio", "SN 35.168-170, round one's opening trio", "SN 35.227, the vagga's own closing colophon"],
+         "correct": 0,
+         "expl": "The exterior half repeats the identical shortened entry point already run for the interior fields."},
+        {"q": "What sense fields does this file address?",
+         "opts": ["The six exterior sense fields, unchanged from SN 35.213-215", "The six interior sense fields", "All twelve sense fields together", "The five aggregates"],
+         "correct": 0,
+         "expl": "Bāhirāyatana, continuing the exterior half opened at SN 35.213."},
+    ],
+    marginalia=[
+        ("Suffering, entered directly", [
+            "yaṁ dukkhaṁ, tadanattā —",
+            "one step later, as with the interior fields",
+        ]),
+        ("Mirroring the interior half", [
+            "SN 35.207-209's own economy —",
+            "now run for the exterior fields",
+        ]),
+        ("The same three time-values", [
+            "atīta, anāgata, paccuppanna —",
+            "unchanged since SN 35.204",
+        ]),
+        ("One combination left", [
+            "not-self, still ahead —",
+            "closing round three at SN 35.219",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.216-218/en/sujato" target="_blank" '
+        'rel="noopener">Full Sujato translation on SuttaCentral</a> '
+        "&mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.213-215.html">SN 35.213&ndash;215 &middot; '
+        "The Exterior and What&rsquo;s Impermanent in the Three "
+        "Times</a> &mdash; the previous discourse.",
+        '<a href="sn-35.219-221.html">SN 35.219&ndash;221 &middot; '
+        "The Exterior and What&rsquo;s Not-Self in the Three "
+        "Times</a> &mdash; the next discourse, closing round three.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.219-221 — Bāhirātītādiyadanattasutta
+# --------------------------------------------------------------------------- #
+page_range(
+    35, 219, 221, "Bāhirātītādiyadanatta",
+    "The Exterior and What&rsquo;s Not-Self in the Three Times",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.219-221 &mdash; The Exterior and What&rsquo;s "
+                "Not-Self in the Three Times | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 35.219 through "
+        "35.221 &mdash; closing round three of Saṭṭhipeyyālavagga's "
+        "own matrix, entering the chain at its own shortest, final "
+        "step. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 35.213-218, with "
+                 "not-self declared directly, closing round three"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "closes round three's own eighteen-discourse "
+                       "matrix"),
+    ],
+    why=(
+        "This file closes round three of Saṭṭhipeyyālavagga's own "
+        "matrix: the exterior sense fields declared <em>not-self</em> "
+        "directly, entering the chain at its own shortest, final "
+        "step, across past, future, and present &mdash; completing a "
+        "third eighteen-discourse round, the count the vagga's own "
+        "closing colophon will confirm as &ldquo;yadaniccā aṭṭhārasa "
+        "vuttā&rdquo; (&ldquo;&lsquo;whatever is impermanent,&rsquo; "
+        "eighteen are told&rdquo;)."
+    ),
+    guide=[
+        ("Not-self, closing round three's exterior half", [
+            "&ldquo;Sights, mendicants, are not-self in the past, "
+            "future, and present&hellip;&rdquo; completes the "
+            "exterior half's own progressive shortening in round "
+            "three, mirroring the identical interior sequence at SN "
+            "35.204-212.",
+        ]),
+        ("Round three complete: a third eighteen-discourse round", [
+            "SN 35.204 through 35.221 together give round three's "
+            "full matrix &mdash; the chain formula, crossed with "
+            "past/future/present, entered one step later at each of "
+            "the six combinations. Eighteen discourses total, "
+            "matching the vagga's own closing uddāna: &ldquo;"
+            "yadaniccā aṭṭhārasa vuttā, tayo ajjhattabāhirā&rdquo; "
+            "(&ldquo;&lsquo;whatever is impermanent,&rsquo; eighteen "
+            "are told, three each for interior and exterior&rdquo;).",
+        ]),
+        ("Round four begins next: the timeless individual set", [
+            "SN 35.222 opens round four, the vagga's own final "
+            "round and, at only six discourses, its smallest "
+            "&mdash; the interior/exterior split crossed with "
+            "impermanent/suffering/not-self one final time, now "
+            "timeless and each combination kept as its own separate "
+            "file, mirroring SN 22.12-14's identical timeless, "
+            "individual treatment of the five aggregates.",
+        ]),
+    ],
+    terms=[
+        ("anattā", "not-self &mdash; the quality declared here, "
+             "closing round three's exterior half"),
+        ("yadaniccā aṭṭhārasa vuttā", "&ldquo;&lsquo;whatever is "
+             "impermanent,&rsquo; eighteen are told&rdquo; &mdash; "
+             "the vagga's own closing uddāna (at SN 35.227), "
+             "confirming round three's own eighteen-discourse total"),
+        ("bāhirāyatana", "the six exterior sense fields &mdash; "
+             "completing their own chain-formula cycle in round "
+             "three with this file"),
+        ("atītaṁ anāgataṁ paccuppannaṁ", "past, future, present "
+             "&mdash; unchanged across all eighteen discourses of "
+             "round three"),
+        ("tayo ajjhattabāhirā", "&ldquo;three each for interior and "
+             "exterior&rdquo; &mdash; the closing uddāna's own gloss "
+             "on how round three's eighteen discourses divide"),
+    ],
+    text_intro=("The complete merged file, apart from its own "
+        "closing ellipsis: the declaration, naming each of the six "
+        "exterior sense fields, then the chain's own final step. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.219-221:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What quality does this file declare of the exterior sense fields, closing round three's own matrix?",
+         "opts": ["Not-self (anattā), declared directly", "Impermanent (anicca)", "Suffering (dukkha)", "Conditioned (saṅkhata)"],
+         "correct": 0,
+         "expl": "Anattā, entered at the chain's own shortest, final step, closing round three's exterior half."},
+        {"q": "What untranslated phrase from the vagga's own closing colophon confirms round three's own count?",
+         "opts": ["&ldquo;Yadaniccā aṭṭhārasa vuttā&rdquo; — &ldquo;whatever is impermanent, eighteen are told&rdquo;", "&ldquo;Chandena aṭṭhārasa honti&rdquo;", "&ldquo;Atītena ca dve nava&rdquo;", "&ldquo;Suttantāni saṭṭhi&rdquo;"],
+         "correct": 0,
+         "expl": "This line from the closing uddāna specifically names round three's own eighteen-discourse total, naming it for the chain formula's own key term, yadaniccaṁ."},
+        {"q": "What changes in round four, beginning at SN 35.222?",
+         "opts": ["The formula becomes timeless, and each combination returns to its own separate file, mirroring SN 22.12-14", "Nothing — round four repeats round three verbatim", "The interior/exterior split is dropped entirely", "Round four is larger than any previous round"],
+         "correct": 0,
+         "expl": "Round four is the vagga's own smallest round, six discourses, each kept as its own file."},
+        {"q": "How many discourses does round three's full matrix (SN 35.204-221) contain in total?",
+         "opts": ["Eighteen — mirroring rounds one and two's own eighteen-discourse counts", "Sixty, the whole vagga", "Nine", "Six"],
+         "correct": 0,
+         "expl": "The identical eighteen-discourse structure as rounds one and two, with the chain formula as this round's own addition."},
+        {"q": "What sense fields does this file address?",
+         "opts": ["The six exterior sense fields, unchanged from SN 35.213-218", "The six interior sense fields", "All twelve sense fields together", "The five aggregates"],
+         "correct": 0,
+         "expl": "Bāhirāyatana, completing the exterior half begun at SN 35.213."},
+    ],
+    marginalia=[
+        ("Not-self, closing the exterior half", [
+            "sights, not-self, all three times —",
+            "round three's own cycle completes",
+        ]),
+        ("Eighteen, the colophon says", [
+            "yadaniccā aṭṭhārasa vuttā —",
+            "confirmed later at SN 35.227",
+        ]),
+        ("Round three complete", [
+            "204 through 221 —",
+            "the chain, entered later at each turn",
+        ]),
+        ("The smallest round, next", [
+            "six discourses, timeless —",
+            "round four opens at SN 35.222",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.219-221/en/sujato" target="_blank" '
+        'rel="noopener">Full Sujato translation on SuttaCentral</a> '
+        "&mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.216-218.html">SN 35.216&ndash;218 &middot; '
+        "The Exterior and What&rsquo;s Suffering in the Three "
+        "Times</a> &mdash; the previous discourse.",
+        '<a href="sn-35.222.html">SN 35.222 &middot; The Interior as '
+        "Impermanent</a> &mdash; the next discourse, opening round "
+        "four.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.222 — Ajjhattāyatanaaniccasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 222, "Ajjhattāyatanānicca", "The Interior as Impermanent",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.222 &mdash; The Interior as Impermanent | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ajjhattāyatanaaniccasutta &mdash; opening round four, "
+        "the vagga's own final and smallest round, returning to a "
+        "timeless declaration mirroring SN 22.12 for the five "
+        "aggregates. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "A timeless declaration: the interior sense fields "
+                 "are impermanent, followed by the disillusionment-"
+                 "to-liberation formula in compressed form"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "opens the vagga's own smallest and final "
+                       "round"),
+    ],
+    why=(
+        "This discourse opens round four, Saṭṭhipeyyālavagga's own "
+        "final and smallest round: the same interior/exterior "
+        "&times; impermanent/suffering/not-self structure the first "
+        "three rounds already ran, but with no second variable at "
+        "all &mdash; no desire/greed/both, no past/future/present, no "
+        "chain formula, simply a timeless declaration &mdash; "
+        "mirroring SN 22.12 (Aniccasutta), already published in Book "
+        "III for the five aggregates."
+    ),
+    guide=[
+        ("The simplest declaration in the vagga", [
+            "&ldquo;The eye, ear, nose, tongue, body, and mind are "
+            "impermanent&rdquo; &mdash; no time-value, no chain, no "
+            "variant to give up. Six discourses (SN 35.222-227) will "
+            "complete this round: interior and exterior, crossed "
+            "with the three marks, one discourse each, with no "
+            "further compression needed since there is no second "
+            "axis left to compress.",
+        ]),
+        ("A precise match already published: SN 22.12", [
+            "SN 22.12 (Aniccasutta), already published in Book III, "
+            "runs this identical timeless declaration for the five "
+            "aggregates, closing with the same disillusionment-to-"
+            "liberation formula this discourse's own &ldquo;seeing "
+            "this&hellip;&rdquo; compresses. Round four's own six "
+            "discourses mirror SN 22.12-14's own three-discourse set, "
+            "doubled by the interior/exterior split the aggregates "
+            "themselves do not have.",
+        ]),
+        ("Why this round needs no merged files", [
+            "Every earlier round in this vagga opened with three "
+            "separate files before compressing later combinations "
+            "into merged ones. Round four has no such compression to "
+            "make: with no second variable, the six interior/"
+            "exterior &times; impermanent/suffering/not-self "
+            "combinations are already the smallest unit possible, so "
+            "all six stay as their own separate files.",
+        ]),
+    ],
+    terms=[
+        ("anicca", "impermanent &mdash; the quality declared here, "
+             "the first of round four's own three-mark cycle"),
+        ("cakkhu&hellip;aniccaṁ", "&ldquo;the eye&hellip;is "
+             "impermanent&rdquo; &mdash; this discourse's own "
+             "timeless declaration, without any time-value attached"),
+        ("nibbindati", "grows disillusioned &mdash; the liberation "
+             "formula's own first step, compressed here with an "
+             "ellipsis"),
+        ("ajjhattikāyatana", "the six interior sense fields &mdash; "
+             "this discourse's own subject, before the exterior "
+             "fields follow at SN 35.225"),
+        ("aniccasutta", "&ldquo;The Discourse on Impermanence&rdquo; "
+             "&mdash; the same title SN 22.12 already carries for "
+             "the five aggregates, now given to the six sense fields "
+             "here"),
+    ],
+    text_intro=("The complete discourse: the declaration, then the "
+        "liberation formula in compressed form. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.222:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What does this discourse declare of the six interior sense fields?",
+         "opts": ["That they are impermanent, with no time-value attached", "That they are impermanent specifically in the past", "That they are suffering", "That desire for them should be given up"],
+         "correct": 0,
+         "expl": "A timeless declaration, unlike round two and three's own past/future/present variants."},
+        {"q": "What already-published discourse runs the identical timeless declaration for the five aggregates?",
+         "opts": ["SN 22.12 (Aniccasutta), in Book III", "SN 22.9", "SN 22.15", "SN 35.204"],
+         "correct": 0,
+         "expl": "SN 22.12-14 already ran this same timeless, individual treatment for the five aggregates."},
+        {"q": "Why does round four need no merged files, unlike rounds one through three?",
+         "opts": ["With no second variable to compress, the six combinations are already the smallest possible unit", "Because round four is the vagga's own largest round", "Because bilara-data never merges timeless discourses", "Because round four repeats round three's own merged files"],
+         "correct": 0,
+         "expl": "Every earlier round had a second variable (desire/greed/both, past/future/present, or the chain) to compress; round four has none."},
+        {"q": "How many discourses does round four contain in total?",
+         "opts": ["Six — the vagga's own smallest round", "Eighteen, matching rounds one through three", "Sixty, the whole vagga", "Three"],
+         "correct": 0,
+         "expl": "SN 35.222-227, doubling SN 22.12-14's own three-discourse set with the interior/exterior split."},
+        {"q": "What sense fields does this discourse address?",
+         "opts": ["The six interior sense fields", "The six exterior sense fields", "The five aggregates", "All twelve sense fields together"],
+         "correct": 0,
+         "expl": "Ajjhattikāyatana; the exterior fields follow at SN 35.225."},
+    ],
+    marginalia=[
+        ("The smallest round begins", [
+            "no time-value, no variant to give up —",
+            "just impermanence, declared plainly",
+        ]),
+        ("SN 22.12, already met", [
+            "the same timeless declaration —",
+            "now run for the six sense fields",
+        ]),
+        ("No compression needed", [
+            "six discourses, six files —",
+            "the smallest unit already reached",
+        ]),
+        ("Five more to come", [
+            "suffering, not-self, and the exterior fields —",
+            "closing the vagga at SN 35.227",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.222/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.219-221.html">SN 35.219&ndash;221 &middot; '
+        "The Exterior and What&rsquo;s Not-Self in the Three "
+        "Times</a> &mdash; the previous discourse, closing round "
+        "three.",
+        '<a href="sn-35.223.html">SN 35.223 &middot; The Interior as '
+        "Suffering</a> &mdash; the next discourse.",
+        '<a href="sn-22.12.html">SN 22.12 &middot; '
+        "Impermanence</a> &mdash; already published on this site, "
+        "the identical timeless declaration applied to the five "
+        "aggregates.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.223 — Ajjhattāyatanadukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 223, "Ajjhattāyatanadukkha", "The Interior as Suffering",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.223 &mdash; The Interior as Suffering | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ajjhattāyatanadukkhasutta &mdash; round four's second "
+        "discourse, mirroring SN 22.13 for the five aggregates. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 35.222, with "
+                 "suffering (dukkha) substituted for impermanence"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single substitution on SN 35.222's own "
+                       "frame"),
+    ],
+    why=(
+        "This discourse is round four's second combination: the "
+        "interior sense fields declared <em>suffering</em> rather "
+        "than SN 35.222's own impermanent, timelessly &mdash; "
+        "mirroring SN 22.13 (Dukkhasutta), already published in Book "
+        "III for the five aggregates."
+    ),
+    guide=[
+        ("One substitution: dukkha for anicca", [
+            "&ldquo;The eye, ear, nose, tongue, body, and mind are "
+            "suffering&rdquo; replaces SN 35.222's own impermanent "
+            "&mdash; the declaration, the compressed liberation "
+            "formula, and the sense fields addressed are otherwise "
+            "unchanged.",
+        ]),
+    ],
+    terms=[
+        ("dukkha", "suffering &mdash; the quality declared here, "
+             "replacing SN 35.222's own anicca"),
+        ("cakkhu&hellip;dukkhaṁ", "&ldquo;the eye&hellip;is "
+             "suffering&rdquo; &mdash; this discourse's own timeless "
+             "declaration"),
+        ("anicca", "impermanent &mdash; SN 35.222's own quality, "
+             "distinguished here from dukkha"),
+        ("ajjhattikāyatana", "the six interior sense fields &mdash; "
+             "unchanged from SN 35.222"),
+        ("dukkhasutta", "&ldquo;The Discourse on Suffering&rdquo; "
+             "&mdash; the same title SN 22.13 already carries for "
+             "the five aggregates"),
+    ],
+    text_intro=("The complete discourse: the declaration, then the "
+        "liberation formula in compressed form. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.223:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What does this discourse substitute for SN 35.222's own &ldquo;impermanent&rdquo;?",
+         "opts": ["Suffering (dukkha)", "Not-self (anattā)", "Conditioned (saṅkhata)", "Empty (suñña)"],
+         "correct": 0,
+         "expl": "Dukkha, the second of round four's three-mark cycle."},
+        {"q": "What already-published discourse runs the identical timeless suffering declaration for the five aggregates?",
+         "opts": ["SN 22.13 (Dukkhasutta), in Book III", "SN 22.12", "SN 22.14", "SN 35.223's own exterior counterpart, SN 35.226"],
+         "correct": 0,
+         "expl": "SN 22.13 completes the middle term of SN 22.12-14's own three-discourse set."},
+        {"q": "What sense fields does this discourse address?",
+         "opts": ["The six interior sense fields, unchanged from SN 35.222", "The six exterior sense fields", "The five aggregates", "Only the mind"],
+         "correct": 0,
+         "expl": "Ajjhattikāyatana, exactly as in SN 35.222; only the quality declared changes."},
+        {"q": "What third quality follows this discourse, at SN 35.224?",
+         "opts": ["Not-self (anattā)", "A return to impermanence", "Emptiness (suññatā)", "The exterior sense fields"],
+         "correct": 0,
+         "expl": "SN 35.224 completes round four's interior half with not-self, mirroring SN 22.14."},
+        {"q": "How does this discourse's own closing formula compare to SN 35.222's?",
+         "opts": ["Identical — the same compressed disillusionment-to-liberation formula", "It omits the liberation formula entirely", "It spells out the liberation formula in full, unlike SN 35.222", "It uses round one's own bare instruction to give up"],
+         "correct": 0,
+         "expl": "The compressed &ldquo;seeing this…&rdquo; formula is unchanged from SN 35.222."},
+    ],
+    marginalia=[
+        ("One word changes", [
+            "dukkha replaces anicca —",
+            "suffering, not impermanence",
+        ]),
+        ("SN 22.13, already met", [
+            "the same declaration, for the aggregates —",
+            "now run for the six sense fields",
+        ]),
+        ("Same fields, same frame", [
+            "eye, ear, nose, tongue, body, mind —",
+            "unchanged from SN 35.222",
+        ]),
+        ("One quality left", [
+            "not-self still to come —",
+            "at SN 35.224",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.223/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.222.html">SN 35.222 &middot; The Interior as '
+        "Impermanent</a> &mdash; the previous discourse.",
+        '<a href="sn-35.224.html">SN 35.224 &middot; The Interior as '
+        "Not-Self</a> &mdash; the next discourse.",
+        '<a href="sn-22.13.html">SN 22.13 &middot; Suffering</a> '
+        "&mdash; already published on this site, the identical "
+        "timeless declaration applied to the five aggregates.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.224 — Ajjhattāyatanaanattasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 224, "Ajjhattāyatanaanatta", "The Interior as Not-Self",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.224 &mdash; The Interior as Not-Self | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ajjhattāyatanaanattasutta &mdash; completing round "
+        "four's interior half, mirroring SN 22.14 for the five "
+        "aggregates. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 35.222-223, with "
+                 "not-self (anattā) substituted"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the third and final quality in round four's "
+                       "interior half"),
+    ],
+    why=(
+        "This discourse completes round four's interior half: the "
+        "six interior sense fields declared <em>not-self</em>, "
+        "timelessly, mirroring SN 22.14 (Anattasutta), already "
+        "published in Book III for the five aggregates, and "
+        "completing this project's fourth full traversal of the "
+        "three-mark cycle within a single vagga."
+    ),
+    guide=[
+        ("Not-self completes the cycle, a fourth time", [
+            "&ldquo;The eye, ear, nose, tongue, body, and mind are "
+            "not-self&rdquo; completes round four's own three-mark "
+            "cycle &mdash; and, more broadly, the fourth complete "
+            "impermanent/suffering/not-self traversal this vagga has "
+            "now run, after rounds one through three each cycled "
+            "through the same three marks with a different second "
+            "variable.",
+        ]),
+        ("Interior half of round four now complete", [
+            "SN 35.222-224 together give round four's own three "
+            "interior combinations, mirroring SN 22.12-14's "
+            "identical three-discourse set for the five aggregates. "
+            "SN 35.225 turns to the exterior sense fields, "
+            "completing the vagga's own final round.",
+        ]),
+    ],
+    terms=[
+        ("anattā", "not-self &mdash; the quality declared here, "
+             "completing round four's three-mark cycle"),
+        ("cakkhu&hellip;anattā", "&ldquo;the eye&hellip;is "
+             "not-self&rdquo; &mdash; this discourse's own timeless "
+             "declaration"),
+        ("ajjhattikāyatana", "the six interior sense fields &mdash; "
+             "completing their own three-quality cycle in round four "
+             "with this discourse"),
+        ("bāhirāyatana", "the six exterior sense fields &mdash; "
+             "taken up next, starting at SN 35.225, the vagga's own "
+             "final three discourses"),
+        ("anattasutta", "&ldquo;The Discourse on Not-Self&rdquo; "
+             "&mdash; the same title SN 22.14 already carries for "
+             "the five aggregates"),
+    ],
+    text_intro=("The complete discourse: the declaration, then the "
+        "liberation formula in compressed form. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.224:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What does this discourse declare of the six interior sense fields, completing round four's interior half?",
+         "opts": ["That they are not-self (anattā)", "That they are impermanent", "That they are suffering", "That desire for them should be given up"],
+         "correct": 0,
+         "expl": "Anattā, following anicca at SN 35.222 and dukkha at SN 35.223."},
+        {"q": "What already-published discourse runs the identical timeless not-self declaration for the five aggregates?",
+         "opts": ["SN 22.14 (Anattasutta), in Book III", "SN 22.12", "SN 22.13", "SN 35.224's own exterior counterpart, SN 35.227"],
+         "correct": 0,
+         "expl": "SN 22.14 completes the identical three-discourse set (SN 22.12-14) this project already published."},
+        {"q": "How many times has this vagga now run a complete impermanent/suffering/not-self traversal, counting this discourse?",
+         "opts": ["Four times — once each in rounds one through four, each with a different second variable", "Once, only in this discourse", "Twice, in rounds three and four only", "This is the vagga's only such traversal"],
+         "correct": 0,
+         "expl": "Every round in this vagga cycles through the same three marks with a different second axis."},
+        {"q": "What begins immediately after this discourse, at SN 35.225?",
+         "opts": ["The same three-quality cycle, now applied to the six exterior sense fields, closing the vagga", "Round three's yad-aniccaṁ chain", "A new saṃyutta, SN 36", "A return to the interior sense fields"],
+         "correct": 0,
+         "expl": "SN 35.225-227 gives round four's exterior half, the vagga's own final three discourses."},
+        {"q": "What sense fields does this discourse address?",
+         "opts": ["The six interior sense fields, unchanged from SN 35.222-223", "The six exterior sense fields", "All twelve sense fields together", "The five aggregates"],
+         "correct": 0,
+         "expl": "Ajjhattikāyatana, completing the interior half opened at SN 35.222."},
+    ],
+    marginalia=[
+        ("Not-self, the third mark", [
+            "anattā, after anicca and dukkha —",
+            "round four's own cycle completes",
+        ]),
+        ("A fourth traversal", [
+            "impermanent, suffering, not-self —",
+            "run once more, the vagga's fourth time",
+        ]),
+        ("Interior half now finished", [
+            "SN 35.222 through 224 —",
+            "three qualities, no second variable needed",
+        ]),
+        ("The exterior fields, and the close", [
+            "sights, sounds, smells next —",
+            "closing the vagga at SN 35.227",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.224/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.223.html">SN 35.223 &middot; The Interior as '
+        "Suffering</a> &mdash; the previous discourse.",
+        '<a href="sn-35.225.html">SN 35.225 &middot; The Exterior as '
+        "Impermanent</a> &mdash; the next discourse.",
+        '<a href="sn-22.14.html">SN 22.14 &middot; Not-Self</a> '
+        "&mdash; already published on this site, the identical "
+        "timeless declaration applied to the five aggregates.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.225 — Bāhirāyatanaaniccasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 225, "Bāhirāyatanānicca", "The Exterior as Impermanent",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.225 &mdash; The Exterior as Impermanent | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bāhirāyatanaaniccasutta &mdash; opening round four's "
+        "exterior half, the vagga's own final three discourses. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical timeless structure as SN 35.222, now "
+                 "addressing the six exterior sense fields"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the identical formula, one variable "
+                       "switched"),
+    ],
+    why=(
+        "This discourse opens round four's exterior half &mdash; and, "
+        "with it, the vagga's own final three discourses: the "
+        "identical timeless impermanent/suffering/not-self cycle "
+        "already run for the interior sense fields (SN 35.222-224), "
+        "now applied to sights, sounds, smells, tastes, touches, and "
+        "ideas, all six named together on a single line."
+    ),
+    guide=[
+        ("The exterior sense fields, named together", [
+            "&ldquo;Sights, mendicants, are impermanent. Sounds "
+            "&hellip; smells &hellip; tastes &hellip; touches "
+            "&hellip; and ideas are impermanent&hellip;&rdquo; "
+            "&mdash; the root text still marks each field "
+            "separately, but Sujato's own English compresses them "
+            "into a compact, single-sentence list.",
+        ]),
+        ("Three discourses from the vagga's own close", [
+            "SN 35.225-227 will complete round four, this vagga, and "
+            "&mdash; unlike any other round in this vagga &mdash; "
+            "carry the vagga's own closing colophon and uddāna at "
+            "their own final discourse, SN 35.227.",
+        ]),
+    ],
+    terms=[
+        ("bāhirāyatana", "the six exterior sense fields &mdash; "
+             "sights, sounds, smells, tastes, touches, and ideas, "
+             "this discourse's own new subject"),
+        ("rūpā&hellip;dhammā", "sights&hellip;ideas &mdash; the six "
+             "exterior sense fields, named together in this "
+             "discourse's own compact list"),
+        ("anicca", "impermanent &mdash; the quality declared here, "
+             "the first of the exterior half's own three-quality "
+             "cycle in round four"),
+        ("ajjhattikāyatana", "the six interior sense fields &mdash; "
+             "already completed at SN 35.222-224, contrasted here "
+             "with the exterior fields"),
+        ("aniccasutta", "&ldquo;The Discourse on Impermanence&rdquo; "
+             "&mdash; sharing its own title with SN 35.222's own "
+             "interior counterpart and, further back, SN 22.12"),
+    ],
+    text_intro=("The complete discourse: the declaration, naming "
+        "each of the six exterior sense fields, then the liberation "
+        "formula in compressed form. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.225:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What sense fields does this discourse address, opening round four's second half?",
+         "opts": ["The six exterior sense fields — sights, sounds, smells, tastes, touches, and ideas", "The six interior sense fields", "The five aggregates", "The four elements"],
+         "correct": 0,
+         "expl": "Bāhirāyatana, following the interior half's own completion at SN 35.222-224."},
+        {"q": "What quality does this discourse declare of the exterior sense fields?",
+         "opts": ["Impermanent (anicca), opening the exterior half's own three-quality cycle in round four", "Suffering (dukkha)", "Not-self (anattā)", "Empty (suñña)"],
+         "correct": 0,
+         "expl": "The exterior half repeats the identical anicca/dukkha/anattā cycle already run for the interior fields."},
+        {"q": "What three discourses complete this vagga, and what unique feature does the last one carry?",
+         "opts": ["SN 35.225-227; SN 35.227 alone carries the vagga's own closing colophon and uddāna", "SN 35.222-224; SN 35.224 carries the colophon", "SN 35.225-227; none of them carry a colophon", "The vagga does not have a defined closing set"],
+         "correct": 0,
+         "expl": "SN 35.227, the vagga's own final discourse, is where the closing colophon and summary uddāna appear."},
+        {"q": "How does Sujato's own English render the six exterior sense fields in this discourse?",
+         "opts": ["Named together in a compact single-sentence list", "Each spelled out across a full separate paragraph", "Omitted, leaving only the interior fields", "Merged with the five aggregates"],
+         "correct": 0,
+         "expl": "A compact list, though the Pāli root still marks each field separately."},
+        {"q": "What combination follows this discourse, at SN 35.226?",
+         "opts": ["Suffering, applied to the exterior fields", "A return to the interior fields", "Not-self, skipping suffering entirely", "The vagga's own closing colophon, arriving early"],
+         "correct": 0,
+         "expl": "SN 35.226 continues round four's exterior half with suffering, before SN 35.227 closes with not-self."},
+    ],
+    marginalia=[
+        ("The exterior fields, named together", [
+            "sights, sounds, smells, in one list —",
+            "the root still marks each apart",
+        ]),
+        ("Impermanence, once more", [
+            "the same quality as SN 35.222 —",
+            "now applied outward",
+        ]),
+        ("Three discourses from the close", [
+            "225, 226, 227 —",
+            "the vagga's own final stretch",
+        ]),
+        ("A colophon waits at the end", [
+            "SN 35.227 alone will carry it —",
+            "the sixty, finally counted",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.225/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.224.html">SN 35.224 &middot; The Interior as '
+        "Not-Self</a> &mdash; the previous discourse.",
+        '<a href="sn-35.226.html">SN 35.226 &middot; The Exterior as '
+        "Suffering</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.226 — Bāhirāyatanadukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 226, "Bāhirāyatanadukkha", "The Exterior as Suffering",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.226 &mdash; The Exterior as Suffering | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bāhirāyatanadukkhasutta &mdash; round four's second "
+        "exterior discourse, the vagga's own second-to-last. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical structure as SN 35.225, with "
+                 "suffering (dukkha) substituted for impermanence"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the vagga's own second-to-last discourse"),
+    ],
+    why=(
+        "This discourse is round four's second exterior combination, "
+        "the vagga's own second-to-last: the exterior sense fields "
+        "declared <em>suffering</em>, timelessly, mirroring SN "
+        "35.223's own interior treatment and, further back, SN 22.13 "
+        "for the five aggregates."
+    ),
+    guide=[
+        ("Suffering, applied outward, one discourse from the close", [
+            "The same substitution SN 35.223 made for the interior "
+            "fields (suffering replacing impermanence) repeats here "
+            "for the exterior fields &mdash; one discourse remains "
+            "before Saṭṭhipeyyālavagga's own sixty-discourse matrix "
+            "is complete.",
+        ]),
+    ],
+    terms=[
+        ("dukkha", "suffering &mdash; the quality declared here, "
+             "replacing SN 35.225's own anicca"),
+        ("rūpā&hellip;dhammā", "sights&hellip;ideas &mdash; the six "
+             "exterior sense fields, named together, as in SN "
+             "35.225"),
+        ("anicca", "impermanent &mdash; SN 35.225's own quality, "
+             "distinguished here from dukkha"),
+        ("anattā", "not-self &mdash; the vagga's own final quality, "
+             "closing everything at SN 35.227"),
+        ("dukkhasutta", "&ldquo;The Discourse on Suffering&rdquo; "
+             "&mdash; sharing its own title with SN 35.223's own "
+             "interior counterpart and, further back, SN 22.13"),
+    ],
+    text_intro=("The complete discourse: the declaration, naming "
+        "each of the six exterior sense fields, then the liberation "
+        "formula in compressed form. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.226:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What does this discourse declare of the exterior sense fields, replacing SN 35.225's own impermanence?",
+         "opts": ["Suffering (dukkha)", "Not-self (anattā)", "Emptiness (suññatā)", "Conditioned-ness (saṅkhata)"],
+         "correct": 0,
+         "expl": "Dukkha, mirroring SN 35.223's own interior treatment."},
+        {"q": "How many discourses remain in this vagga after this one?",
+         "opts": ["One — SN 35.227, which also carries the vagga's own closing colophon", "None; this is the vagga's own final discourse", "Nine", "Eighteen"],
+         "correct": 0,
+         "expl": "SN 35.227 alone remains, closing round four, this vagga, and carrying its own colophon."},
+        {"q": "What interior-half discourse does this discourse mirror?",
+         "opts": ["SN 35.223, suffering declared of the interior fields", "SN 35.222, the opening declaration", "SN 35.224, not-self", "SN 35.227, the vagga's own close"],
+         "correct": 0,
+         "expl": "The exterior half repeats the identical suffering combination already run for the interior fields."},
+        {"q": "What already-published discourse, further back in this project, shares this same declaration for the five aggregates?",
+         "opts": ["SN 22.13 (Dukkhasutta)", "SN 22.12", "SN 22.14", "SN 12.15"],
+         "correct": 0,
+         "expl": "The chain of mirrors traces back through SN 35.223 to SN 22.13, already published in Book III."},
+        {"q": "What sense fields does this discourse address?",
+         "opts": ["The six exterior sense fields, unchanged from SN 35.225", "The six interior sense fields", "All twelve sense fields together", "The five aggregates"],
+         "correct": 0,
+         "expl": "Bāhirāyatana, continuing the exterior half opened at SN 35.225."},
+    ],
+    marginalia=[
+        ("Suffering, outward, one from the end", [
+            "dukkha, applied to sights and sounds —",
+            "one discourse left in the vagga",
+        ]),
+        ("Mirroring the interior half", [
+            "SN 35.223's own declaration —",
+            "now run for the exterior fields",
+        ]),
+        ("The chain of mirrors", [
+            "SN 22.13, then SN 35.223, then this —",
+            "the same declaration, three times over",
+        ]),
+        ("Not-self, and the close, next", [
+            "SN 35.227 alone remains —",
+            "closing the vagga's own matrix",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.226/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.225.html">SN 35.225 &middot; The Exterior as '
+        "Impermanent</a> &mdash; the previous discourse.",
+        '<a href="sn-35.227.html">SN 35.227 &middot; The Exterior as '
+        "Not-Self</a> &mdash; the next and final discourse of this "
+        "vagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.227 — Bāhirāyatanaanattasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 227, "Bāhirāyatanaanatta", "The Exterior as Not-Self",
+    vagga="Saṭṭhipeyyālavagga",
+    meta_title="SN 35.227 &mdash; The Exterior as Not-Self | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bāhirāyatanaanattasutta &mdash; closing Saṭṭhipeyyālavagga, "
+        "with its own untranslated closing colophon and uddāna "
+        "verse spelling out the exact arithmetic (18+18+18+6=60) of "
+        "this vagga's own sixty discourses. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical timeless structure as SN 35.222-226, "
+                 "with not-self substituted, followed by the vagga's "
+                 "own closing colophon and summary uddāna"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes the vagga, with an untranslated "
+                       "colophon this guide describes rather than "
+                       "quotes"),
+    ],
+    why=(
+        "This discourse closes Saṭṭhipeyyālavagga, the vagga's own "
+        "sixtieth and final discourse: the exterior sense fields "
+        "declared not-self, timelessly, mirroring SN 22.14's own "
+        "not-self declaration once more. Its own closing colophon "
+        "carries this project's most precise piece of "
+        "self-documentation yet &mdash; an untranslated uddāna verse "
+        "that spells out, in the Pāli root itself, the exact "
+        "arithmetic (18+18+18+6=60) this reading guide has "
+        "reconstructed independently across all four rounds of this "
+        "vagga's own combinatorial matrix."
+    ),
+    guide=[
+        ("Not-self, closing the vagga's own timeless round", [
+            "&ldquo;Sights, sounds, smells, tastes, touches, and "
+            "ideas are not-self&hellip;&rdquo; completes round four's "
+            "own three-quality cycle and, with it, "
+            "Saṭṭhipeyyālavagga's own sixty-discourse matrix &mdash; "
+            "the fourth and final time this vagga runs the "
+            "impermanent/suffering/not-self sequence to its own "
+            "close.",
+        ]),
+        ("A colophon unlike any other in this project: &ldquo;samatto,&rdquo; not &ldquo;X-o&rdquo;", [
+            "Every earlier vagga-closing colophon in this project "
+            "(Yamakavaggo dutiyo, Sabbavaggo tatiyo, Nandikkhayavaggo "
+            "paṭhamo, and so on) names the vagga and gives it an "
+            "ordinal position within its own paṇṇāsaka. This "
+            "discourse's own colophon instead reads &ldquo;"
+            "Saṭṭhipeyyālo samatto&rdquo; &mdash; &ldquo;the sixty "
+            "abbreviated [texts] are complete&rdquo; &mdash; dropping "
+            "both the &ldquo;-vagga&rdquo; suffix and any ordinal "
+            "position, marking completion of a named set rather than "
+            "a vagga's own place in sequence. This reading guide "
+            "does not know why this one vagga alone receives this "
+            "different shape of colophon, though its own unusually "
+            "formulaic, peyyāla-heavy character may be the reason: a "
+            "matrix of sixty elided texts may have felt to its own "
+            "compilers more like a completed set to be tallied than "
+            "a vagga to be numbered.",
+        ]),
+        ("A prediction not confirmed: no &ldquo;dutiyo&rdquo; appears", [
+            "This project's own working notes, following the ordinal "
+            "pattern already confirmed at Yogakkhemivagga "
+            "(&ldquo;paṭhamo,&rdquo; opening the third paṇṇāsaka) and "
+            "Nandikkhayavagga (&ldquo;paṭhamo,&rdquo; opening the "
+            "fourth), had anticipated this vagga's own colophon would "
+            "read &ldquo;Saṭṭhipeyyālavaggo dutiyo&rdquo; &mdash; "
+            "confirming it as the fourth paṇṇāsaka's own second "
+            "vagga. That prediction is not confirmed: this "
+            "discourse's own colophon carries no vagga-ordinal "
+            "language at all, only the &ldquo;samatto&rdquo; "
+            "completion-marker described above. This reading guide "
+            "states this honestly rather than forcing the earlier "
+            "prediction onto a colophon that does not, in fact, "
+            "supply it &mdash; the fourth paṇṇāsaka's own internal "
+            "vagga count remains, for now, unconfirmed by this "
+            "particular discourse.",
+        ]),
+        ("An uddāna that does its own arithmetic", [
+            "This discourse's own closing uddāna, left untranslated "
+            "in the Pāli root exactly as every other vagga-summary "
+            "verse in this project, is unusually explicit about its "
+            "own count: &ldquo;chandena aṭṭhārasa honti&rdquo; "
+            "(&ldquo;with desire, there are eighteen&rdquo;, "
+            "round one), &ldquo;atītena ca dve nava&rdquo; "
+            "(&ldquo;and with the past [set], two nines&rdquo;, "
+            "round two's eighteen), &ldquo;yadaniccā aṭṭhārasa "
+            "vuttā, tayo ajjhattabāhirā&rdquo; (&ldquo;&lsquo;"
+            "whatever is impermanent,&rsquo; eighteen are told, "
+            "three each for interior and exterior&rdquo;, round "
+            "three's eighteen), closing with &ldquo;peyyālo saṭṭhiko "
+            "vutto buddhena ādiccabandhunā&rdquo; (&ldquo;the "
+            "sixty-fold abbreviated formula was spoken by the "
+            "Buddha, kinsman of the sun&rdquo;) and &ldquo;"
+            "suttantāni saṭṭhi&rdquo; (&ldquo;the discourses: "
+            "sixty&rdquo;). Eighteen plus eighteen plus eighteen "
+            "plus six equals sixty &mdash; the uddāna's own "
+            "arithmetic matches, segment for segment, the "
+            "combinatorial structure this reading guide independently "
+            "reconstructed by reading each of this vagga's own "
+            "thirty pages against bilara-data directly, without "
+            "having read this colophon in advance.",
+        ]),
+    ],
+    terms=[
+        ("saṭṭhipeyyālo samatto", "&ldquo;the sixty abbreviated "
+             "[texts] are complete&rdquo; &mdash; this discourse's "
+             "own closing colophon, left untranslated in the Pāli "
+             "root, marking completion of a named set rather than "
+             "giving a vagga its own ordinal position"),
+        ("chandena aṭṭhārasa honti", "&ldquo;with desire, there are "
+             "eighteen&rdquo; &mdash; the closing uddāna's own first "
+             "line, confirming round one's own eighteen-discourse "
+             "count"),
+        ("atītena ca dve nava", "&ldquo;and with the past [set], two "
+             "nines&rdquo; &mdash; confirming round two's own "
+             "eighteen (2 &times; 9)"),
+        ("yadaniccā aṭṭhārasa vuttā, tayo ajjhattabāhirā", "&ldquo;"
+             "&lsquo;whatever is impermanent,&rsquo; eighteen are "
+             "told, three each for interior and exterior&rdquo; "
+             "&mdash; confirming round three's own eighteen and, in "
+             "its own final clause, round four's own six"),
+        ("suttantāni saṭṭhi", "&ldquo;the discourses: sixty&rdquo; "
+             "&mdash; the uddāna's own closing tally, 18+18+18+6=60"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "colophon and uddāna (both left untranslated in the Pāli "
+        "root and described, not quoted, above): the declaration, "
+        "naming each of the six exterior sense fields, then the "
+        "liberation formula in compressed form. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.227:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What does this discourse declare of the exterior sense fields, closing round four's own cycle?",
+         "opts": ["That they are not-self (anattā)", "That they are impermanent", "That they are suffering", "That desire for them should be given up"],
+         "correct": 0,
+         "expl": "Anattā, completing round four's own three-mark cycle for the exterior fields."},
+        {"q": "How does this discourse's own closing colophon, &ldquo;Saṭṭhipeyyālo samatto,&rdquo; differ in shape from every other vagga-closing colophon in this project?",
+         "opts": ["It drops the &ldquo;-vagga&rdquo; suffix and any ordinal position, marking completion of a named set rather than a vagga's own sequence number", "It is the only colophon in this project translated into English by Sujato", "It is identical in wording to Nandikkhayavagga's own colophon", "It names a fifth paṇṇāsaka, not yet reached elsewhere in this project"],
+         "correct": 0,
+         "expl": "Every earlier colophon reads &ldquo;[Vagga name]vaggo [ordinal]&rdquo;; this one reads &ldquo;Saṭṭhipeyyālo samatto&rdquo; instead."},
+        {"q": "Does this discourse's own colophon confirm this project's working prediction of &ldquo;Saṭṭhipeyyālavaggo dutiyo&rdquo; (the fourth paṇṇāsaka's second vagga)?",
+         "opts": ["No — the colophon carries no vagga-ordinal language at all, so the prediction is not confirmed", "Yes, exactly as predicted", "Yes, but using &ldquo;tatiyo&rdquo; (third) instead of &ldquo;dutiyo&rdquo;", "The question cannot be answered because the colophon is entirely untranslated"],
+         "correct": 0,
+         "expl": "This reading guide states honestly that the earlier prediction is not confirmed by this particular colophon's own different shape."},
+        {"q": "What arithmetic does the closing uddāna's own untranslated verse spell out?",
+         "opts": ["18 (round one) + 18 (round two) + 18 (round three) + 6 (round four) = 60", "10 discourses per vagga, six vaggas total", "60 divided evenly into six groups of ten", "The uddāna contains no arithmetic, only discourse titles"],
+         "correct": 0,
+         "expl": "Chandena aṭṭhārasa honti, atītena ca dve nava, yadaniccā aṭṭhārasa vuttā tayo ajjhattabāhirā, suttantāni saṭṭhi — the colophon's own line-by-line count."},
+        {"q": "How does the uddāna's own arithmetic relate to this reading guide's own independent reconstruction of the vagga's structure?",
+         "opts": ["It matches exactly, confirming the four-round combinatorial design reconstructed by reading each page against bilara-data directly", "It contradicts the reading guide's own reconstruction, requiring a correction", "It cannot be compared, since the uddāna was read before any pages were written", "It only covers round one, leaving rounds two through four unconfirmed"],
+         "correct": 0,
+         "expl": "The uddāna's own segment-by-segment count matches the structure this reading guide worked out independently before consulting this colophon."},
+    ],
+    marginalia=[
+        ("Not-self, closing the matrix", [
+            "sights, not-self, the fourth traversal —",
+            "round four, and the vagga, complete",
+        ]),
+        ("&ldquo;Samatto,&rdquo; not &ldquo;vaggo dutiyo&rdquo;", [
+            "a different shape of colophon —",
+            "completion, not a sequence number",
+        ]),
+        ("A prediction, honestly unconfirmed", [
+            "&ldquo;dutiyo&rdquo; does not appear —",
+            "the fourth paṇṇāsaka's count stays open",
+        ]),
+        ("The uddāna does the arithmetic", [
+            "eighteen, eighteen, eighteen, six —",
+            "sixty, exactly as this guide found",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.227/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.226.html">SN 35.226 &middot; The Exterior as '
+        "Suffering</a> &mdash; the previous discourse.",
+        '<a href="sn-22.14.html">SN 22.14 &middot; Not-Self</a> '
+        "&mdash; already published on this site, the identical "
+        "timeless declaration applied to the five aggregates.",
+        '<a href="sn-36.6.html">SN 36.6 &middot; An Arrow</a> '
+        "&mdash; already published on this site, standing ahead of "
+        "this book's own next vagga, Samuddavagga (SN 35.228"
+        "&ndash;237), not yet built.",
+    ],
+)
