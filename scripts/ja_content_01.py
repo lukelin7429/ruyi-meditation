@@ -10276,3 +10276,2087 @@ page(
         "index.",
     ],
 )
+# -*- coding: utf-8 -*-
+
+# --------------------------------------------------------------------------- #
+# Ja 51 — Mahāsīlava (The Great Virtuous One)
+# --------------------------------------------------------------------------- #
+page(
+    51, "Mah&amacr;s&imacr;lava", "The Great Virtuous One",
+    meta_title="Ja 51 — The Great Virtuous One | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 51, opening the Āsīsavagga — a deposed king's "
+        "unbroken hope through torture, the first of five matched "
+        "pairs structuring this whole chapter. From Ru-Yi Meditation "
+        "Center."),
+    vagga="Book of the Ones &middot; Chapter Six (Āsīsavagga) &middot; Poem 1 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "The king himself, reflecting after his ordeal"),
+        ("Form", "One four-line stanza, the first half of a matched "
+                 "pair with Ja 52"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse opening a matched-pair "
+                       "structure"),
+    ],
+    why=(
+        "This poem opens the Āsīsavagga (&lsquo;Hope Chapter&rsquo;), "
+        "the first of five back-to-back matched pairs that structure "
+        "this entire chapter &mdash; each pair sharing nearly "
+        "identical wording, differing in one key term or image. This "
+        "poem's own theme, hope surviving brutal reversal, sets the "
+        "tone the whole chapter will develop."),
+    guide=[
+        ("Hope vindicated after brutal reversal", [
+            "The verse states its conclusion plainly: &lsquo;a man "
+            "should have hope, the astute should not be disillusioned. "
+            "Now I truly see myself &mdash; as I wished, so I "
+            "became.&rsquo; Per Sujato's comment, a good king, "
+            "deposed by a violent foe, is subjected to brutal torture "
+            "&mdash; yet neither slips from his own virtue nor loses "
+            "hope, persevering until he eventually regains the "
+            "crown."]),
+        ("The first of five matched pairs structuring this chapter", [
+            "This poem forms a matched pair with the next, Ja 52 (A "
+            "Short Tale of Janaka): both share the identical second "
+            "half &mdash; &lsquo;now I truly see myself...&rsquo; "
+            "&mdash; differing only in their opening verb (hope "
+            "versus effort) and their closing image. This same "
+            "pattern &mdash; near-identical twin verses completing a "
+            "single idea from two angles &mdash; recurs four more "
+            "times across this chapter (Ja 53/54, 55/56, 57/58, "
+            "59/60)."]),
+    ],
+    terms=[
+        ("āsīsetha",
+         "&ldquo;should have hope&rdquo; &mdash; the verse's opening "
+         "instruction, giving this whole chapter its name "
+         "(Āsīsavagga)."),
+        ("na nibbindeyya paṇḍito",
+         "&ldquo;the astute should not be disillusioned&rdquo; "
+         "&mdash; shared word for word with the next poem, Ja 52."),
+        ("yathā icchiṁ tathā ahū",
+         "&ldquo;as I wished, so I became&rdquo; &mdash; the king's "
+         "own vindication after enduring torture and reclaiming his "
+         "throne."),
+        ("Mahāsīlavajātaka",
+         "the traditional title of this tale, opening the "
+         "Āsīsavagga."),
+        ("Ja 52",
+         "the next poem, forming this chapter's first matched pair "
+         "with this one."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, opening the first of five "
+        "matched pairs structuring this chapter. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja51:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What structural pattern does this poem open, unique to this chapter?',
+         "opts": [
+             'A pattern shared with no other poem in the chapter',
+             'No particular structure is present',
+             'A single long narrative spanning all ten poems',
+             'Five matched pairs of poems, each pair sharing nearly identical wording differing in one key term',
+         ],
+         "correct": 2,
+         "expl": 'This same pattern recurs at Ja 53/54, 55/56, 57/58, and 59/60.'},
+        {"q": "What happens to the king in this poem's underlying story, per Sujato's comment?",
+         "opts": [
+             'He willingly abdicates',
+             'He is exiled peacefully',
+             'He is never challenged',
+             'He is deposed by a violent foe and subjected to brutal torture, yet never loses hope',
+         ],
+         "correct": 3,
+         "expl": 'Persevering until he eventually regains the crown.'},
+        {"q": "What does the verse's closing line state?",
+         "opts": [
+             "'Now I truly see myself — as I wished, so I became'",
+             'A description of his torture',
+             'A request for revenge',
+             'A statement of regret',
+         ],
+         "correct": 0,
+         "expl": 'Vindication after enduring the ordeal with unbroken hope.'},
+        {"q": 'What does this poem share word for word with Ja 52?',
+         "opts": [
+             'Nothing at all',
+             "The line 'the astute should not be disillusioned', and the opening structure of the poem's second half",
+             'The entire verse identically',
+             'Only the title',
+         ],
+         "correct": 1,
+         "expl": "Differing in the opening verb and closing image, per this chapter's matched-pair structure."},
+        {"q": "What does the verse's opening word, 'āsīsetha' (should have hope), give to this chapter?",
+         "opts": [
+             'No connection to the chapter title',
+             'Nothing in particular',
+             "Its own name — the Āsīsavagga, 'Hope Chapter'",
+             "A different chapter's name",
+         ],
+         "correct": 2,
+         "expl": "This poem's opening word directly names the whole chapter."},
+        {"q": 'What chapter does this poem open?',
+         "opts": [
+             'The Itthivagga',
+             'It does not open a chapter',
+             'The Atthakāmavagga',
+             'The Āsīsavagga',
+         ],
+         "correct": 3,
+         "expl": "This collection's sixth ten-poem chapter."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Great Virtuous One (Mahāsīlavajātaka)',
+             'The Full Cups',
+             'The What-fruit',
+             'A Short Tale of Janaka',
+         ],
+         "correct": 0,
+         "expl": 'The fifty-first poem overall, and the first of the Āsīsavagga.'},
+        {"q": 'What quality does the king in the underlying story maintain throughout his ordeal?',
+         "opts": [
+             'Anger and vengefulness',
+             'His own virtue and hope',
+             'Despair',
+             'Indifference',
+         ],
+         "correct": 1,
+         "expl": 'Neither slipping from virtue nor losing hope despite brutal torture.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The final poem of the Āsīsavagga',
+             'The final poem of the Atthakāmavagga',
+             'The first poem of the sixth chapter (Āsīsavagga), following the completed Atthakāmavagga',
+             'It stands outside any chapter',
+         ],
+         "correct": 2,
+         "expl": "Opening this collection's sixth ten-poem chapter, and its first matched pair."},
+        {"q": 'How many matched pairs, including this one, structure the whole Āsīsavagga?',
+         "opts": [
+             'Ten',
+             'One',
+             'Two',
+             'Five',
+         ],
+         "correct": 3,
+         "expl": 'Ja 51/52, 53/54, 55/56, 57/58, and 59/60.'},
+    ],
+    marginalia=[
+        ("Torture endured, the crown regained", [
+            "hope kept through brutal reversal —",
+            "'as I wished, so I became'"
+        ]),
+        ("A chapter named by its own first word", [
+            "'āsīsetha' — should have hope —",
+            "the Āsīsavagga takes its name from here"
+        ]),
+        ("The first of five twin poems", [
+            "nearly identical wording, one key term changed —",
+            "a structure repeated four more times in this chapter"
+        ]),
+        ("Virtue that survived the worst test", [
+            "neither slipping nor despairing —",
+            "the throne regained through persistence alone"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja51/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-50.html">Ja 50 &mdash; The Simpleton</a> '
+        "&mdash; the closing poem of the previous chapter.",
+        '<a href="ja-52.html">Ja 52 &mdash; A Short Tale of '
+        "Janaka</a> &mdash; the next poem, completing this chapter's "
+        "first matched pair.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 52 — Cūḷajanaka (A Short Tale of Janaka)
+# --------------------------------------------------------------------------- #
+page(
+    52, "C&umacr;&#7789;ajanaka", "A Short Tale of Janaka",
+    meta_title="Ja 52 — A Short Tale of Janaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 52 — a shipwrecked king's unremitting effort, "
+        "completing this chapter's first matched pair, and "
+        "cross-linked to this site's own Thag 1.88 and MN 83. From "
+        "Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Six (Āsīsavagga) &middot; Poem 2 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "King Janaka himself, reflecting after his "
+                    "ordeal"),
+        ("Form", "One four-line stanza, completing this chapter's "
+                 "first matched pair"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse, part of a matched pair"),
+    ],
+    why=(
+        "This poem completes Ja 51's matched pair, shifting from hope "
+        "to effort as the operative virtue, and connects directly to "
+        "this site's own already-completed Thag 1.88 and MN 83 "
+        "&mdash; a rare case of a single Jātaka verse threading "
+        "through two entirely different collections already on this "
+        "site."),
+    guide=[
+        ("Effort rewarded, after apparent disaster", [
+            "The verse pairs with Ja 51 almost exactly: &lsquo;a man "
+            "should make an effort, the astute should not be "
+            "disillusioned. Now I truly see myself, lifted from the "
+            "water to the shore.&rsquo; Per Sujato's comment, this "
+            "brief telling relates how Janaka of Videha regained his "
+            "kingdom through unremitting effort; the fuller version of "
+            "the same story is told at Ja 539 (Mahājanakajātaka), "
+            "outside this site's own 82-poem selection."]),
+        ("A famous royal house, and a connection to this site's own MN 83", [
+            "Sujato's comment identifies the Janakas as &lsquo;the "
+            "famed kingly house of Videha&rsquo;, and notes that at "
+            "this site's own MN 83, a different King Janaka is "
+            "framed as the source of that kingdom's decline &mdash; "
+            "the same royal name recurring across different "
+            "generations and different moral roles within the wider "
+            "tradition."]),
+        ("A specific line shared with an already-completed Theragātha poem", [
+            "Sujato's comment directly compares this poem's central "
+            "lines to this site's own already-completed Thag 1.88 "
+            "(Ajjuna) &mdash; a case of the same imagery of being "
+            "rescued or lifted to safety appearing across two "
+            "entirely separate collections within this site's own "
+            "selections."]),
+    ],
+    terms=[
+        ("vāyametha",
+         "&ldquo;should make an effort&rdquo; &mdash; this poem's "
+         "own variation on Ja 51's opening word, shifting the "
+         "emphasis from hope to active effort."),
+        ("udakā thalamubbhataṁ",
+         "&ldquo;lifted from the water to the shore&rdquo; &mdash; "
+         "the poem's own image of rescue after apparent disaster."),
+        ("Cūḷajanakajātaka",
+         "the traditional title of this tale, &lsquo;A Short Tale of "
+         "Janaka&rsquo; &mdash; distinguished from the fuller "
+         "Mahājanakajātaka at Ja 539, outside this site's own "
+         "selection."),
+        ("Thag 1.88",
+         "Ajjuna &mdash; the already-completed page on this site "
+         "Sujato's own comment compares to this poem's central "
+         "lines."),
+        ("MN 83",
+         "&ldquo;About King Maghadeva&rdquo; &mdash; the "
+         "already-completed page on this site where a different King "
+         "Janaka is framed as the source of Videha's decline."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, completing the matched "
+        "pair begun at Ja 51. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja52:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does King Janaka regain his kingdom, per Sujato's comment?",
+         "opts": [
+             'Through a marriage alliance',
+             'The comment does not specify',
+             'Through inherited right alone',
+             'Through unremitting effort',
+         ],
+         "correct": 3,
+         "expl": "Shifting this poem's emphasis from Ja 51's hope to active, sustained effort."},
+        {"q": "Where is the fuller version of this same story told, per Sujato's comment?",
+         "opts": [
+             "Ja 539 (Mahājanakajātaka), outside this site's own 82-poem selection",
+             'Within this same poem in full',
+             "In a different chapter of this site's selection",
+             'Nowhere else',
+         ],
+         "correct": 0,
+         "expl": 'This poem gives only the shorter version.'},
+        {"q": "What already-completed page on this site does Sujato's comment compare this poem's central lines to?",
+         "opts": [
+             'AN 8.29',
+             'Thag 1.88 (Ajjuna)',
+             'SN 9.8',
+             'No comparison is made',
+         ],
+         "correct": 1,
+         "expl": 'The same imagery of being rescued or lifted to safety, appearing in two separate collections on this site.'},
+        {"q": "What already-completed page connects to a different King Janaka framed as a kingdom's decline?",
+         "opts": [
+             'No such connection exists',
+             'DN 4',
+             'MN 83',
+             'SN 11.6',
+         ],
+         "correct": 2,
+         "expl": 'The same royal name recurring across different generations and moral roles in the wider tradition.'},
+        {"q": "What does the verse's closing image describe?",
+         "opts": [
+             'A coronation ceremony',
+             'A journey by land',
+             'A battle won',
+             'Being lifted from the water to the shore',
+         ],
+         "correct": 3,
+         "expl": "Per Sujato's comment, the fuller Ja 539 relates how he survived the sinking of his ship."},
+        {"q": "What word does this poem substitute for Ja 51's 'hope'?",
+         "opts": [
+             'Effort (vāyametha)',
+             'Wealth',
+             'Courage',
+             'Patience',
+         ],
+         "correct": 0,
+         "expl": "Completing the matched pair's shift in emphasis."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Great Virtuous One',
+             'A Short Tale of Janaka (Cūḷajanakajātaka)',
+             'The Full Cups',
+             'Prince Five-Weapons',
+         ],
+         "correct": 1,
+         "expl": 'The fifty-second poem overall, and the second of the Āsīsavagga, completing its first matched pair.'},
+        {"q": "What royal house are the Janakas, per Sujato's comment?",
+         "opts": [
+             'The comment does not identify them',
+             'An obscure minor family',
+             'The famed kingly house of Videha',
+             'A merchant family later ennobled',
+         ],
+         "correct": 2,
+         "expl": 'Connecting this brief tale to a well-known royal lineage within the wider tradition.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The second poem of the Āsīsavagga, completing the matched pair begun at Ja 51',
+         ],
+         "correct": 3,
+         "expl": 'Part of the same ten-poem Āsīsavagga.'},
+        {"q": "What is distinctive about this poem's cross-links compared to most other poems in this selection?",
+         "opts": [
+             'It connects to two different already-completed collections on this site (Theragātha and Majjhima Nikāya) simultaneously',
+             'It only connects to texts outside this site entirely',
+             'It connects only to another Jātaka poem',
+             'It has no cross-links at all',
+         ],
+         "correct": 0,
+         "expl": 'A relatively rare case of one verse threading through multiple already-completed collections.'},
+    ],
+    marginalia=[
+        ("From shipwreck to shore", [
+            "effort in place of hope, this time —",
+            "the same vindication, a different ordeal"
+        ]),
+        ("A royal name, two different roles", [
+            "here, effort regains a kingdom —",
+            "at MN 83, a different Janaka causes its decline"
+        ]),
+        ("The same image, two collections", [
+            "Thag 1.88 shares this poem's central lines —",
+            "one image, threading through separate texts"
+        ]),
+        ("A brief telling of a longer story", [
+            "the fuller Mahājanakajātaka lies beyond this selection —",
+            "this poem gives only the short version"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja52/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../theragatha/thag-1.88.html">Thag 1.88 &mdash; '
+        "Ajjuna</a> &mdash; the already-completed page sharing this "
+        "poem's central imagery.",
+        '<a href="../majjhima-nikaya/mn-083.html">MN 83 &mdash; '
+        "About King Maghadeva</a> &mdash; connected to a different "
+        "King Janaka within the wider Videha royal line.",
+        '<a href="ja-51.html">Ja 51 &mdash; The Great Virtuous '
+        "One</a> &mdash; the poem immediately before this one, "
+        "opening this chapter's first matched pair.",
+        '<a href="ja-53.html">Ja 53 &mdash; The Full Cups</a> '
+        "&mdash; the next poem, opening a new matched pair.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 53 — Puṇṇapāti (The Full Cups)
+# --------------------------------------------------------------------------- #
+page(
+    53, "Pu&#7751;&#7751;ap&amacr;ti", "The Full Cups",
+    meta_title="Ja 53 — The Full Cups | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 53 — a would-be robbery victim who deduces the plot "
+        "simply by watching who avoids their own drink. From Ru-Yi "
+        "Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Six (Āsīsavagga) &middot; Poem 3 of 10",
+    glance=[
+        ("Setting", "A drinking gathering, rogues among the guests"),
+        ("Speaker", "The rich man targeted by the rogues"),
+        ("Form", "One four-line stanza, opening a new matched pair "
+                 "with Ja 54"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse of quiet, careful deduction"),
+    ],
+    why=(
+        "This poem opens a new matched pair with Ja 54, both sharing "
+        "an identical deductive refrain &mdash; &lsquo;for this "
+        "reason I know&rsquo; &mdash; each illustrating a different "
+        "case of danger detected through simple, careful observation "
+        "rather than any special insight."),
+    guide=[
+        ("A plot detected by watching what others don't drink", [
+            "The verse gives the rich man's own quiet observation: "
+            "&lsquo;the cups stay just as full, while the ignorant "
+            "talk goes on. For this reason I know this is not an "
+            "excellent beer.&rsquo; Per Sujato's comment, rogues "
+            "attempt to spike a rich man's drink with a drug so they "
+            "can rob him &mdash; but he notices they do not touch "
+            "their own drinks, and deduces the danger from that alone."]),
+        ("The first of a new refrain pair", [
+            "This poem's closing structure &mdash; &lsquo;for this "
+            "reason I know... this is not...&rsquo; &mdash; recurs "
+            "exactly at the next poem, Ja 54, applied to a completely "
+            "different situation and danger, continuing this "
+            "chapter's pattern of matched pairs."]),
+    ],
+    terms=[
+        ("tatheva puṇṇā pātiyo",
+         "&ldquo;the cups stay just as full&rdquo; &mdash; the "
+         "observed detail that gives away the plot."),
+        ("ākāraṇena jānāmi",
+         "&ldquo;for this reason I know&rdquo; &mdash; the "
+         "deductive refrain shared word for word with the next poem, "
+         "Ja 54."),
+        ("bhaddikā surā",
+         "&ldquo;excellent beer&rdquo; &mdash; what the drink is "
+         "not, once the rich man's deduction is complete."),
+        ("Puṇṇapātijātaka",
+         "the traditional title of this tale, &lsquo;The Full "
+         "Cups&rsquo;."),
+        ("bhesajja",
+         "&ldquo;drug&rdquo; &mdash; per Sujato's comment, what the "
+         "rogues attempt to spike the rich man's drink with."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, opening a new matched "
+        "pair with Ja 54. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja53:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What do the rogues attempt, per Sujato's comment?",
+         "opts": [
+             "To spike a rich man's drink with a drug so they can rob him",
+             'To poison the whole gathering',
+             'To challenge him to a wager',
+             'To steal directly without deception',
+         ],
+         "correct": 0,
+         "expl": 'A plan the rich man detects before it can succeed.'},
+        {"q": 'What specific detail gives the plot away?',
+         "opts": [
+             'The rogues speaking too loudly',
+             "The rogues' own cups staying just as full — they don't drink their own",
+             'A strange smell in the drink',
+             'A warning from another guest',
+         ],
+         "correct": 1,
+         "expl": 'A simple, careful observation rather than any special insight.'},
+        {"q": 'What refrain does this poem share with Ja 54?',
+         "opts": [
+             'Only the title format',
+             'No shared refrain',
+             "'For this reason I know...', applied to a different situation",
+             'An identical full verse',
+         ],
+         "correct": 2,
+         "expl": "Continuing this chapter's pattern of matched pairs."},
+        {"q": 'What does the rich man conclude about the drink?',
+         "opts": [
+             'That it is completely safe',
+             'No conclusion is stated',
+             'That it is unusually good',
+             'That it is not an excellent beer',
+         ],
+         "correct": 3,
+         "expl": 'A polite understatement for having detected the plot.'},
+        {"q": "What quality does this poem's deduction rely on?",
+         "opts": [
+             "Simple, careful observation of others' behavior",
+             'A warning from a spirit',
+             'Torture-extracted confession',
+             'Magical foresight',
+         ],
+         "correct": 0,
+         "expl": 'Noticing what the rogues themselves avoid doing.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'A Short Tale of Janaka',
+             'The Full Cups (Puṇṇapātijātaka)',
+             'The What-fruit',
+             'Prince Five-Weapons',
+         ],
+         "correct": 1,
+         "expl": 'The fifty-third poem overall, and the third of the Āsīsavagga.'},
+        {"q": "What setting does this poem's story take place in?",
+         "opts": [
+             'A forest',
+             'A battlefield',
+             'A drinking gathering',
+             'A royal court',
+         ],
+         "correct": 2,
+         "expl": 'Among guests that include the plotting rogues.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The third poem of the Āsīsavagga, opening a new matched pair after Ja 51/52',
+         ],
+         "correct": 3,
+         "expl": 'Part of the same ten-poem Āsīsavagga.'},
+        {"q": 'What general theme connects this poem to Ja 54?',
+         "opts": [
+             'Danger detected through careful, ordinary observation rather than special insight',
+             'A theme about royal succession',
+             'A theme about seasonal change',
+             'No connection',
+         ],
+         "correct": 0,
+         "expl": 'Both poems are variations on the same deductive refrain.'},
+        {"q": "What was the rich man's advantage over the rogues in this encounter?",
+         "opts": [
+             'Physical strength',
+             'Attentiveness — noticing a small but telling behavioral detail',
+             'Wealth alone',
+             'A weapon',
+         ],
+         "correct": 1,
+         "expl": 'The entire poem turns on this single act of careful noticing.'},
+    ],
+    marginalia=[
+        ("A plot given away by inaction", [
+            "the rogues' own cups, untouched —",
+            "the tell that exposes everything"
+        ]),
+        ("Deduction, not luck", [
+            "no warning needed, no confession forced —",
+            "just watching what others don't do"
+        ]),
+        ("A refrain that will repeat once more", [
+            "'for this reason I know' returns next poem —",
+            "the same careful logic, a new danger"
+        ]),
+        ("Politeness masking a real threat detected", [
+            "'not an excellent beer' — understated —",
+            "for what was actually a plot to rob him"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja53/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-52.html">Ja 52 &mdash; A Short Tale of '
+        "Janaka</a> &mdash; the poem immediately before this one.",
+        '<a href="ja-54.html">Ja 54 &mdash; The What-fruit</a> '
+        "&mdash; the next poem, completing this matched pair.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 54 — Kiṁphala (The What-fruit)
+# --------------------------------------------------------------------------- #
+page(
+    54, "Ki&#7749;phala", "The What-fruit",
+    meta_title="Ja 54 — The What-fruit | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 54 — a caravan leader's deduction that a "
+        "mango-looking tree must be poisonous, completing this "
+        "chapter's second matched pair. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Six (Āsīsavagga) &middot; Poem 4 of 10",
+    glance=[
+        ("Setting", "A tree beside a well-traveled road, laden with "
+                    "fruit"),
+        ("Speaker", "A wise caravan leader"),
+        ("Form", "One four-line stanza, completing this chapter's "
+                 "second matched pair"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse of practical deduction"),
+    ],
+    why=(
+        "This poem completes Ja 53's matched pair with a different "
+        "kind of everyday deduction: a caravan leader reasons that "
+        "fruit growing untouched on an accessible tree, right beside "
+        "a well-traveled road, cannot possibly be as sweet as it "
+        "looks &mdash; because if it were, someone would already have "
+        "picked it clean."),
+    guide=[
+        ("A conclusion reached from what's absent, not what's present", [
+            "The verse gives the caravan leader's own reasoning: "
+            "&lsquo;this tree is not hard to climb, nor is it far "
+            "from the village. For this reason I know this tree is "
+            "not sweet-fruited.&rsquo; Per Sujato's comment, the tree "
+            "is laden with fruit that looks like mango, but the wise "
+            "caravan leader deduces it must be the poisonous "
+            "&lsquo;what-fruit&rsquo; (kiṁphala) precisely because it "
+            "is so easy to reach and so untouched."]),
+        ("The same deductive refrain, a different domain entirely", [
+            "Where Ja 53's deduction concerned a social plot detected "
+            "through human behavior, this poem's deduction is purely "
+            "practical and botanical &mdash; showing this chapter's "
+            "shared refrain applies just as well to reading nature "
+            "carefully as to reading people."]),
+    ],
+    terms=[
+        ("durāruho",
+         "&ldquo;hard to climb&rdquo; &mdash; what the tree is "
+         "notably not, contributing to the caravan leader's suspicion."),
+        ("ākāraṇena jānāmi",
+         "&ldquo;for this reason I know&rdquo; &mdash; the "
+         "deductive refrain shared word for word with the previous "
+         "poem, Ja 53."),
+        ("kiṁphala",
+         "the &ldquo;what-fruit&rdquo;, a poisonous fruit "
+         "resembling mango, giving this poem its traditional title."),
+        ("Kiṁphalajātaka",
+         "the traditional title of this tale, &lsquo;The "
+         "What-fruit&rsquo;."),
+        ("duma",
+         "&ldquo;tree&rdquo;, per Sujato's comment specially "
+         "indicating a flowering tree in this context."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, completing the matched "
+        "pair begun at Ja 53. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja54:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": 'What two facts about the tree does the caravan leader observe?',
+         "opts": [
+             'That it is diseased and withered',
+             'That it is easy to climb and not far from the village',
+             'That it is guarded',
+             'That it has no fruit at all',
+         ],
+         "correct": 1,
+         "expl": 'Precisely these accessible qualities lead to his suspicion.'},
+        {"q": "What does the caravan leader conclude about the tree's fruit?",
+         "opts": [
+             'That the tree is sacred',
+             'That it must be especially delicious',
+             'That it cannot be sweet-fruited, since it would already have been picked clean if it were',
+             'That it is entirely inedible for any reason',
+         ],
+         "correct": 2,
+         "expl": "Reasoning from the absence of prior harvesting, not from the fruit's appearance."},
+        {"q": "What is the fruit actually identified as, per Sujato's comment?",
+         "opts": [
+             'An unknown, harmless fruit',
+             'The comment does not identify it',
+             'A genuine mango',
+             "The poisonous 'what-fruit' (kiṁphala), resembling mango",
+         ],
+         "correct": 3,
+         "expl": 'Giving this poem its traditional title.'},
+        {"q": 'What refrain does this poem share with Ja 53?',
+         "opts": [
+             "'For this reason I know...', applied to a completely different situation",
+             'An identical full verse',
+             'Only the closing word',
+             'No shared refrain',
+         ],
+         "correct": 0,
+         "expl": "Completing this chapter's second matched pair."},
+        {"q": "How does this poem's kind of deduction differ from Ja 53's?",
+         "opts": [
+             'They are identical in every way',
+             "Ja 53's concerns reading human behavior; this poem's concerns reading nature and circumstance",
+             "This poem's deduction concerns human behavior instead",
+             'Neither poem involves any deduction',
+         ],
+         "correct": 1,
+         "expl": "Showing this chapter's shared refrain applies across very different domains of careful reasoning."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Mass of Gold',
+             'The Full Cups',
+             'The What-fruit (Kiṁphalajātaka)',
+             'Prince Five-Weapons',
+         ],
+         "correct": 2,
+         "expl": 'The fifty-fourth poem overall, and the fourth of the Āsīsavagga, completing its second matched pair.'},
+        {"q": "What role does the speaker hold in this poem's underlying story?",
+         "opts": [
+             'A king',
+             'A monk',
+             'A farmer',
+             'A caravan leader',
+         ],
+         "correct": 3,
+         "expl": 'Applying practical, traveled experience to avoid a hidden danger.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The fourth poem of the Āsīsavagga, completing the matched pair begun at Ja 53',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+         ],
+         "correct": 0,
+         "expl": 'Part of the same ten-poem Āsīsavagga.'},
+        {"q": "What does Sujato's comment note about the word 'duma' in this context?",
+         "opts": [
+             'It is a completely generic word for any plant',
+             'It specially indicates a flowering tree',
+             'It refers only to fruit, not trees',
+             'No note is given about this word',
+         ],
+         "correct": 1,
+         "expl": "A small philological detail refining the verse's botanical picture."},
+        {"q": "What underlying principle connects this poem's reasoning to Ja 53's?",
+         "opts": [
+             'A principle about seasonal timing',
+             'No underlying principle connects them',
+             'Reading the absence of an expected behavior (drinking, harvesting) as evidence of hidden danger',
+             'A principle about royal authority',
+         ],
+         "correct": 2,
+         "expl": "Both poems' central figures reason from what is conspicuously not happening."},
+    ],
+    marginalia=[
+        ("Untouched, and that's the giveaway", [
+            "easy to reach, right by the road —",
+            "yet no one has picked it clean"
+        ]),
+        ("A caravan leader's practiced eye", [
+            "not magic, just experience —",
+            "reading the tree's own circumstances"
+        ]),
+        ("The same logic, applied to nature", [
+            "where Ja 53 read people, this poem reads a tree —",
+            "the refrain works in either domain"
+        ]),
+        ("Poison disguised as plenty", [
+            "fruit that looks exactly like mango —",
+            "deduced as dangerous before it's ever tasted"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja54/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-53.html">Ja 53 &mdash; The Full Cups</a> '
+        "&mdash; the poem immediately before this one, opening this "
+        "matched pair.",
+        '<a href="ja-55.html">Ja 55 &mdash; Prince Five-Weapons</a> '
+        "&mdash; the next poem, opening a new matched pair.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 55 — Pañcāvudha (Prince Five-Weapons)
+# --------------------------------------------------------------------------- #
+page(
+    55, "Pa&ntilde;c&amacr;vudha", "Prince Five-Weapons",
+    meta_title="Ja 55 — Prince Five-Weapons | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 55 — one of this tradition's most famous tales, a "
+        "prince fighting a monster with five weapons and getting "
+        "stuck fast, reinterpreted as a warning about violence "
+        "itself. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Six (Āsīsavagga) &middot; Poem 5 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One stanza (six lines), opening a new matched pair "
+                 "with Ja 56"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one of this collection's most famous "
+                       "underlying stories"),
+    ],
+    why=(
+        "This is one of the most celebrated tales associated with the "
+        "Jātaka tradition &mdash; a prince named for a prophecy who "
+        "fights a monster with five weapons, only to become stuck "
+        "fast to its coat with every attack &mdash; but Sujato's own "
+        "comment reveals the verse attached to it reads the story "
+        "against itself, turning a tale of martial courage into a "
+        "warning about violence."),
+    guide=[
+        ("A prophecy fulfilled, and a hero stuck fast", [
+            "Per Sujato's comment, a prince named &lsquo;Five-"
+            "Weapons&rsquo; after a birth prophecy fulfills it when, "
+            "returning from his studies, he encounters a ferocious "
+            "native spirit in a forest and fights it with five "
+            "weapons in turn &mdash; but each attack only sticks him "
+            "tighter to the monster's own shaggy coat. The monster, "
+            "recognizing his courage even in defeat, ultimately lets "
+            "him go."]),
+        ("A verse that reads the story's own central image against itself", [
+            "The canonical verse itself makes no direct mention of "
+            "the monster or the weapons: &lsquo;he whose heart is not "
+            "stuck, a man of intrepid mind, develops skilful qualities "
+            "for the sake of sanctuary from the yoke. Gradually he "
+            "would attain the ending of all fetters.&rsquo; Sujato's "
+            "comment explains the connection: getting "
+            "&lsquo;stuck&rsquo; or &lsquo;bound&rsquo; to an "
+            "adversary can be read as a metaphor for violence itself "
+            "&mdash; one who lives by the sword becomes bound to the "
+            "kamma of killing, becoming the same as those he fights. "
+            "The verse is linked to the story precisely through the "
+            "contrasting image of a mind that is not bound at all."]),
+        ("The first of this chapter's final three matched pairs", [
+            "This poem opens a matched pair with Ja 56 (The Mass of "
+            "Gold), sharing every line except one key term &mdash; "
+            "the two poems &lsquo;almost identical&rsquo;, per "
+            "Sujato's comment on the following poem."]),
+    ],
+    terms=[
+        ("alīnena cittena",
+         "&ldquo;heart that is not stuck&rdquo; &mdash; the verse's "
+         "own reframing of the underlying story's central image of "
+         "the prince's weapons sticking to the monster."),
+        ("yogakkhemassa pattiyā",
+         "&ldquo;for the sake of sanctuary from the yoke&rdquo; "
+         "&mdash; the true, spiritual goal the verse redirects the "
+         "story's martial imagery toward."),
+        ("allīna",
+         "&ldquo;stuck, bound&rdquo; &mdash; per Sujato's comment, "
+         "read as a metaphor for the kamma of violence, binding "
+         "attacker to victim."),
+        ("Pañcāvudhajātaka",
+         "the traditional title of this tale, &lsquo;Prince "
+         "Five-Weapons&rsquo;."),
+        ("Ja 56",
+         "the next poem, forming a near-identical matched pair with "
+         "this one, differing chiefly in one key term."),
+    ],
+    text_intro=(
+        "The text in full: a single six-line verse, opening a new "
+        "matched pair with Ja 56. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja55:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What happens to Prince Five-Weapons when he fights the forest spirit, per Sujato's comment?",
+         "opts": [
+             'The comment gives no details of the fight',
+             'He defeats it immediately with his first weapon',
+             "Each attack only sticks him tighter to the monster's own shaggy coat",
+             'He flees without engaging',
+         ],
+         "correct": 2,
+         "expl": "One of the tradition's most famous images, later inspiring the monster's own choice to release him."},
+        {"q": 'Does the canonical verse itself directly mention the monster or the weapons?',
+         "opts": [
+             'It mentions the weapons but not the monster',
+             'It mentions the monster but not the weapons',
+             'Yes, in vivid detail',
+             "No — it speaks only of a heart 'not stuck' and developing skilful qualities",
+         ],
+         "correct": 3,
+         "expl": 'The connection to the story comes entirely through a reinterpreted central image.'},
+        {"q": "How does Sujato's comment explain the connection between the verse and the story?",
+         "opts": [
+             "Being 'stuck' to an adversary is read as a metaphor for violence — one who lives by the sword becomes bound to the kamma of killing",
+             'The verse simply retells the fight scene',
+             'The connection is purely coincidental wordplay with no deeper meaning',
+             'There is no real connection',
+         ],
+         "correct": 0,
+         "expl": 'The verse contrasts this with a mind that is not bound at all.'},
+        {"q": 'Why does the monster ultimately release the prince, per the comment?',
+         "opts": [
+             'It is defeated by force',
+             'It recognizes his courage even in defeat',
+             'He offers it a bribe',
+             'It is bound by a prior agreement',
+         ],
+         "correct": 1,
+         "expl": "A resolution achieved through the monster's own recognition, not through force."},
+        {"q": "What does this poem's structure share with Ja 56?",
+         "opts": [
+             'A completely different theme',
+             'No relationship at all',
+             'Nearly identical wording throughout, differing in one key term',
+             'Only the same number of lines',
+         ],
+         "correct": 2,
+         "expl": "Per Sujato's comment on Ja 56, the two verses are 'almost identical'."},
+        {"q": "What is the true goal the verse redirects toward, away from the story's literal combat?",
+         "opts": [
+             'Wealth',
+             'Physical strength',
+             'Royal power',
+             'Sanctuary from the yoke — spiritual liberation',
+         ],
+         "correct": 3,
+         "expl": "'Gradually he would attain the ending of all fetters.'"},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Prince Five-Weapons (Pañcāvudhajātaka)',
+             'The Mass of Gold',
+             'The Lord of Langurs',
+             'The What-fruit',
+         ],
+         "correct": 0,
+         "expl": 'The fifty-fifth poem overall, and the fifth of the Āsīsavagga, opening its third matched pair.'},
+        {"q": 'How many lines make up this verse?',
+         "opts": [
+             'Four lines',
+             'Six lines',
+             'Two lines',
+             'Eight lines',
+         ],
+         "correct": 1,
+         "expl": 'Slightly longer than the four-line form most common in this chapter.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The fifth poem of the Āsīsavagga, opening a new matched pair after Ja 51-54',
+             'The final poem of its chapter',
+         ],
+         "correct": 2,
+         "expl": 'Part of the same ten-poem Āsīsavagga.'},
+        {"q": "Why does the prince's name commemorate a prophecy, per Sujato's comment?",
+         "opts": [
+             'He chose the name himself as an adult',
+             'The name refers only to his royal lineage',
+             'It has no connection to any prophecy',
+             "He was named 'Five-Weapons' at birth after a prophecy that his own later encounter with the forest spirit fulfilled",
+         ],
+         "correct": 3,
+         "expl": 'The story frames his entire adventure as the fulfillment of that early prediction.'},
+    ],
+    marginalia=[
+        ("Stuck fast, weapon after weapon", [
+            "each attack only binds him tighter —",
+            "one of this tradition's most famous images"
+        ]),
+        ("A verse that reads against its own story", [
+            "no monster named directly here —",
+            "'stuck' reinterpreted as the kamma of violence"
+        ]),
+        ("Courage recognized, even in defeat", [
+            "the monster releases him, moved by his spirit —",
+            "not force, but recognition, resolves it"
+        ]),
+        ("A near-perfect twin poem follows", [
+            "Ja 56 shares this poem's structure almost entirely —",
+            "one key term changes everything"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja55/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-54.html">Ja 54 &mdash; The What-fruit</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="ja-56.html">Ja 56 &mdash; The Mass of Gold</a> '
+        "&mdash; the next poem, completing this near-identical "
+        "matched pair.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 56 — Kañcanakkhandha (The Mass of Gold)
+# --------------------------------------------------------------------------- #
+page(
+    56, "Ka&ntilde;canakkhandha", "The Mass of Gold",
+    meta_title="Ja 56 — The Mass of Gold | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 56 — a nearly identical twin to the previous poem, "
+        "where a single wordplay-rich term does the whole work of "
+        "distinguishing the two. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Six (Āsīsavagga) &middot; Poem 6 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One stanza (six lines), nearly identical to Ja 55"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; nearly identical to Ja 55, hinging on "
+                       "one deliberately ambiguous word"),
+    ],
+    why=(
+        "This poem is, per Sujato's own comment, &lsquo;almost "
+        "identical&rsquo; to the previous poem, differing only in "
+        "its key term &mdash; a term Sujato's comment shows carries a "
+        "deliberate double meaning connecting a story about "
+        "smelting gold to the verse's own spiritual sense of a "
+        "&lsquo;cheerful&rsquo; heart."),
+    guide=[
+        ("Nearly the same verse, one term changed", [
+            "The verse repeats Ja 55's structure almost exactly: "
+            "&lsquo;he whose heart is well-forged, a man of cheerful "
+            "mind, develops skilful qualities for the sake of "
+            "sanctuary from the yoke. Gradually he would attain the "
+            "ending of all fetters.&rsquo; Per Sujato's comment, the "
+            "underlying story concerns a man who discovers a large "
+            "lump of gold, but must break it into four pieces to make "
+            "it useful."]),
+        ("A single term carrying two meanings at once", [
+            "Sujato's comment explains that the key term "
+            "&lsquo;pahaṭṭha&rsquo; normally means "
+            "&lsquo;cheerful&rsquo;, but the traditional commentary "
+            "connects it instead with gold that has been "
+            "&lsquo;forged&rsquo; until luminous and radiant &mdash; "
+            "two etymologically related but distinct senses, both "
+            "meant to be heard together: a heart made bright and "
+            "cheerful, like gold made bright through smelting."]),
+        ("A twin poem, distinguished by exactly one word", [
+            "Where Ja 55 used &lsquo;alīna&rsquo; (not stuck) to "
+            "reframe a story about a monster's sticky coat, this poem "
+            "uses &lsquo;pahaṭṭha&rsquo; (forged, cheerful) to "
+            "reframe a story about smelting gold &mdash; the same "
+            "underlying spiritual teaching, delivered twice, each "
+            "time anchored to a completely different narrative through "
+            "a single well-chosen pun."]),
+    ],
+    terms=[
+        ("pahaṭṭhena cittena",
+         "&ldquo;heart that is well-forged&rdquo; (or "
+         "&ldquo;cheerful&rdquo;) &mdash; the verse's own double "
+         "meaning, per Sujato's comment connecting gold-smelting to "
+         "spiritual brightness."),
+        ("pahaṭṭha",
+         "a term Sujato's comment identifies as carrying two related "
+         "senses at once: &ldquo;cheerful&rdquo; and, per the "
+         "traditional commentary, &ldquo;forged (of gold) until "
+         "luminous&rdquo;."),
+        ("Kañcanakkhandha",
+         "&ldquo;mass of gold&rdquo; &mdash; the large lump "
+         "discovered in the underlying story, giving this poem its "
+         "traditional title."),
+        ("Kañcanakkhandhajātaka",
+         "the traditional title of this tale, &lsquo;The Mass of "
+         "Gold&rsquo;."),
+        ("Ja 55",
+         "the previous poem, sharing this poem's structure almost "
+         "entirely, differing chiefly in this one key term."),
+    ],
+    text_intro=(
+        "The text in full: a single six-line verse, nearly identical "
+        "to Ja 55, discussed above. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja56:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What does Sujato's own comment say about this poem's relationship to Ja 55?",
+         "opts": [
+             'This poem predates Ja 55',
+             'They contradict each other directly',
+             'They are entirely unrelated',
+             "'The verse is almost identical with the previous, only differing in the key term'",
+         ],
+         "correct": 3,
+         "expl": 'One of the closest textual pairs in this whole collection.'},
+        {"q": "What does the underlying story concern, per Sujato's comment?",
+         "opts": [
+             'A man who discovers a large lump of gold, which must be broken into four pieces to be useful',
+             'A shipwreck',
+             'A royal coronation',
+             'A battle with a monster',
+         ],
+         "correct": 0,
+         "expl": "A completely different narrative from Ja 55's monster-fighting prince."},
+        {"q": "What two senses does the key term 'pahaṭṭha' carry at once, per Sujato's comment?",
+         "opts": [
+             'Only a single, unambiguous sense',
+             "'Cheerful' and, per the traditional commentary, 'forged (of gold) until luminous'",
+             "'Angry' and 'sad'",
+             'No dual meaning is identified',
+         ],
+         "correct": 1,
+         "expl": 'A heart made bright and cheerful, like gold made bright through smelting.'},
+        {"q": 'What single word primarily distinguishes this poem from Ja 55?',
+         "opts": [
+             'Only the closing line differs',
+             'The title alone differs',
+             "'Alīna' (not stuck) in Ja 55 versus 'pahaṭṭha' (forged/cheerful) here",
+             'The two poems use entirely different vocabularies throughout',
+         ],
+         "correct": 2,
+         "expl": 'Each key term anchors the shared verse structure to a different underlying story.'},
+        {"q": "What does this poem's underlying story require to make the gold useful?",
+         "opts": [
+             'Selling it immediately',
+             'Burying it for safekeeping',
+             'Melting it into coins',
+             'Breaking it into four pieces',
+         ],
+         "correct": 3,
+         "expl": 'A practical detail from the commentarial story.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Mass of Gold (Kañcanakkhandhajātaka)',
+             'The Lord of Langurs',
+             'Three Qualities',
+             'Prince Five-Weapons',
+         ],
+         "correct": 0,
+         "expl": 'The fifty-sixth poem overall, and the sixth of the Āsīsavagga, completing its third matched pair.'},
+        {"q": 'What spiritual goal does this poem, like Ja 55, direct its imagery toward?',
+         "opts": [
+             'Material wealth',
+             'Sanctuary from the yoke and the ending of all fetters',
+             'Royal power',
+             'Physical strength',
+         ],
+         "correct": 1,
+         "expl": 'The shared closing lines of both poems in this matched pair.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+             'The sixth poem of the Āsīsavagga, completing the matched pair begun at Ja 55',
+             'The final poem of its chapter',
+         ],
+         "correct": 2,
+         "expl": 'Part of the same ten-poem Āsīsavagga.'},
+        {"q": 'How many lines make up this verse?',
+         "opts": [
+             'Two lines',
+             'Eight lines',
+             'Four lines',
+             'Six lines',
+         ],
+         "correct": 3,
+         "expl": "Matching Ja 55's own six-line form exactly."},
+        {"q": "What technique does this pair of poems (Ja 55/56) illustrate about this chapter's structure?",
+         "opts": [
+             'That a nearly identical verse can be anchored to entirely different stories through a single well-chosen pun on one key term',
+             'That every poem in the chapter has six lines',
+             'That this chapter contains no wordplay',
+             'That all poems in the chapter are completely unrelated',
+         ],
+         "correct": 0,
+         "expl": "One of the most tightly matched examples of this chapter's five-pair structure."},
+    ],
+    marginalia=[
+        ("Almost the same poem, told twice", [
+            "Sujato's own comment says so plainly —",
+            "one term does all the distinguishing work"
+        ]),
+        ("A word meaning two things at once", [
+            "'pahaṭṭha' — cheerful, and gold made bright —",
+            "smelting and spirit, joined in a single term"
+        ]),
+        ("Gold that must be broken to be useful", [
+            "a lump too large as it stands —",
+            "divided into four before it can serve"
+        ]),
+        ("The same ending, twice over", [
+            "sanctuary from the yoke, fetters ended —",
+            "two stories, one shared spiritual destination"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja56/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-55.html">Ja 55 &mdash; Prince Five-Weapons</a> '
+        "&mdash; the poem immediately before this one, nearly "
+        "identical in structure.",
+        '<a href="ja-57.html">Ja 57 &mdash; The Lord of Langurs</a> '
+        "&mdash; the next poem, opening a new matched pair.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 57 — Vānarinda (The Lord of Langurs)
+# --------------------------------------------------------------------------- #
+page(
+    57, "V&amacr;narinda", "The Lord of Langurs",
+    meta_title="Ja 57 — The Lord of Langurs | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 57 — a monkey king who outwits a crocodile's trick, "
+        "with a closing pun the crocodile's own body language "
+        "confirms one reading of. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Six (Āsīsavagga) &middot; Poem 7 of 10",
+    glance=[
+        ("Setting", "A river, a crocodile posing as a rock"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza, opening a new matched pair "
+                 "with Ja 58"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse with a resolved double "
+                       "meaning"),
+    ],
+    why=(
+        "This poem's underlying story is a well-known trickster tale "
+        "&mdash; a crocodile disguised as a rock, trying to catch a "
+        "monkey king &mdash; but its closing line carries a genuine "
+        "double meaning that Sujato's comment resolves by pointing "
+        "directly to the crocodile's own physical behavior in the "
+        "story."),
+    guide=[
+        ("Four qualities that let the monkey king escape", [
+            "The verse names its subject's virtues directly: "
+            "&lsquo;whoever possesses these four qualities like you, "
+            "lord of langurs &mdash; truth, principle, steadfastness, "
+            "and generosity &mdash; escapes the visible foe.&rsquo; "
+            "Per Sujato's comment, a crocodile's pregnant wife craves "
+            "the heart of the monkey king; her husband tries to "
+            "satisfy her by pretending to be a rock in the river, but "
+            "the monkey sees through the disguise."]),
+        ("A double meaning the story itself resolves", [
+            "Sujato's comment identifies a deliberate ambiguity in "
+            "the closing word &lsquo;diṭṭha&rsquo;: the traditional "
+            "commentary reads it as &lsquo;foe&rsquo; (giving "
+            "&lsquo;defeats the foe&rsquo;), but its more common sense "
+            "is simply &lsquo;seen&rsquo;. The comment resolves this "
+            "in favor of the more literal reading by pointing to the "
+            "crocodile's own action in the story: he shuts his eyes "
+            "and opens his mouth to catch the langur &mdash; making "
+            "&lsquo;escapes the one seen [with eyes shut]&rsquo; the "
+            "more pointed, story-supported reading."]),
+        ("A story from a recognized cycle of tales, and named leaders", [
+            "Sujato's comment situates this tale within &lsquo;a "
+            "cycle of dohaḷa stories&rsquo; (concerning pregnancy "
+            "cravings) in the Jātakas, and identifies the "
+            "&lsquo;vānara&rsquo; as a legendary race of aggressive, "
+            "human-like monkeys, whose leaders (such as Sugrīva or "
+            "Hanuman in the wider tradition) carry the same title, "
+            "&lsquo;lord of langurs&rsquo;, given here."]),
+    ],
+    terms=[
+        ("saccaṁ dhammo dhiti cāgo",
+         "&ldquo;truth, principle, steadfastness, and "
+         "generosity&rdquo; &mdash; the four qualities the verse "
+         "credits for the monkey king's escape."),
+        ("dohaḷa",
+         "&ldquo;pregnancy craving&rdquo; &mdash; per Sujato's "
+         "comment, the trigger for this story, part of a recognized "
+         "cycle of such tales within the Jātakas."),
+        ("diṭṭha",
+         "a deliberately ambiguous closing term, per Sujato's "
+         "comment meaning either &ldquo;foe&rdquo; (per the "
+         "traditional commentary) or, more literally, "
+         "&ldquo;seen&rdquo; &mdash; resolved by the crocodile's own "
+         "eyes-shut, mouth-open posture in the story."),
+        ("vānarinda",
+         "&ldquo;lord of langurs&rdquo;, per Sujato's comment a "
+         "traditional title for legendary monkey-king leaders such as "
+         "Sugrīva or Hanuman."),
+        ("Vānarindajātaka",
+         "the traditional title of this tale, &lsquo;The Lord of "
+         "Langurs&rsquo;."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, opening a new matched "
+        "pair with Ja 58, discussed above. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja57:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the crocodile's wife crave, per Sujato's comment?",
+         "opts": [
+             'The heart of the monkey king',
+             'A rare fruit',
+             'The comment does not specify a craving',
+             'Gold from the riverbed',
+         ],
+         "correct": 0,
+         "expl": "Setting up her husband's attempted trick."},
+        {"q": 'How does the crocodile try to catch the monkey king?',
+         "opts": [
+             'By chasing him directly',
+             'By pretending to be a rock in the river',
+             'By luring him with food',
+             'By asking him directly to cross',
+         ],
+         "correct": 1,
+         "expl": 'A disguise the monkey king ultimately sees through.'},
+        {"q": "What four qualities does the verse credit for the monkey king's escape?",
+         "opts": [
+             'No specific qualities are named',
+             'Strength, speed, cunning, and luck',
+             'Truth, principle, steadfastness, and generosity',
+             'Wealth, status, beauty, and charm',
+         ],
+         "correct": 2,
+         "expl": "Named directly in the verse's opening lines."},
+        {"q": "What deliberate double meaning does Sujato's comment identify in the closing word 'diṭṭha'?",
+         "opts": [
+             "It only ever means 'crocodile'",
+             'It is untranslatable',
+             'No ambiguity exists',
+             "It can mean either 'foe' (per the traditional commentary) or, more literally, 'seen'",
+         ],
+         "correct": 3,
+         "expl": "Resolved by pointing to a specific detail in the crocodile's own physical behavior."},
+        {"q": "What physical detail does Sujato's comment use to resolve this ambiguity?",
+         "opts": [
+             'The crocodile shuts his eyes and opens his mouth to catch the langur',
+             "The river's current",
+             'No specific detail is cited',
+             "The monkey's own actions",
+         ],
+         "correct": 0,
+         "expl": "Supporting the more literal reading of 'diṭṭha' as 'seen [with eyes shut]'."},
+        {"q": "What recognized story category does Sujato's comment place this tale within?",
+         "opts": [
+             'A unique, unprecedented story type',
+             "A cycle of 'dohaḷa' (pregnancy craving) stories within the Jātakas",
+             'A category of purely historical accounts',
+             'No category is identified',
+         ],
+         "correct": 1,
+         "expl": 'Connecting this specific tale to a broader recognized pattern in the tradition.'},
+        {"q": "Who are legendary examples of 'lord of langurs' leaders, per Sujato's comment?",
+         "opts": [
+             'The comment names no examples',
+             'Historical kings with no legendary status',
+             'Sugrīva and Hanuman',
+             'Figures unrelated to any wider tradition',
+         ],
+         "correct": 2,
+         "expl": "Situating this poem's title within a recognized legendary tradition of monkey leaders."},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'Three Qualities',
+             'The Drummer',
+             'The Mass of Gold',
+             'The Lord of Langurs (Vānarindajātaka)',
+         ],
+         "correct": 3,
+         "expl": 'The fifty-seventh poem overall, and the seventh of the Āsīsavagga, opening its fourth matched pair.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The seventh poem of the Āsīsavagga, opening a new matched pair after Ja 51-56',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+         ],
+         "correct": 0,
+         "expl": 'Part of the same ten-poem Āsīsavagga.'},
+        {"q": 'What relationship does this poem have to Ja 58?',
+         "opts": [
+             'No relationship at all',
+             'Opening a matched pair, sharing closely related structure and phrasing',
+             'A direct contradiction',
+             'An unrelated, much later composition',
+         ],
+         "correct": 1,
+         "expl": "Continuing this chapter's pattern of matched pairs."},
+    ],
+    marginalia=[
+        ("A rock that wasn't a rock", [
+            "the crocodile's disguise, nearly successful —",
+            "seen through before the trap could close"
+        ]),
+        ("Four qualities, one narrow escape", [
+            "truth, principle, steadfastness, generosity —",
+            "the verse names exactly what saved him"
+        ]),
+        ("A pun resolved by the crocodile's own posture", [
+            "eyes shut, mouth open — caught in the act —",
+            "the literal reading wins out"
+        ]),
+        ("Named leaders from a wider legend", [
+            "Sugrīva, Hanuman — the same title given here —",
+            "this monkey king joins a recognized lineage"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja57/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-56.html">Ja 56 &mdash; The Mass of Gold</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="ja-58.html">Ja 58 &mdash; Three Qualities</a> '
+        "&mdash; the next poem, completing this matched pair.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 58 — Tayodhamma (Three Qualities)
+# --------------------------------------------------------------------------- #
+page(
+    58, "Tayodhamma", "Three Qualities",
+    meta_title="Ja 58 — Three Qualities | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 58 — the same monkey-and-crocodile escape retold with "
+        "three qualities instead of four, completing this chapter's "
+        "fourth matched pair. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Six (Āsīsavagga) &middot; Poem 8 of 10",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself"),
+        ("Form", "One four-line stanza, completing this chapter's "
+                 "fourth matched pair"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse, part of a matched pair"),
+    ],
+    why=(
+        "This poem completes Ja 57's matched pair by counting a "
+        "different, shorter list of qualities &mdash; three instead "
+        "of four &mdash; for what appears to be the same underlying "
+        "escape, and Sujato's comment unpacks a piece of grammatical "
+        "wordplay building the new list's second term."),
+    guide=[
+        ("The same escape, a shorter list of qualities", [
+            "The verse closely mirrors Ja 57's structure: &lsquo;"
+            "whoever possesses these three qualities like you, lord "
+            "of langurs &mdash; adroitness, heroism, wisdom &mdash; "
+            "escapes the visible foe.&rsquo; Where the previous poem "
+            "named four qualities (truth, principle, steadfastness, "
+            "generosity), this one condenses the list to three, "
+            "closing on the identical final line."]),
+        ("A term built by analogy with another", [
+            "Sujato's comment explains that &lsquo;dakkhiyaṁ&rsquo; "
+            "(adroitness) is an abstract noun formed from "
+            "&lsquo;dakkha&rsquo;, constructed &lsquo;by analogy "
+            "with sūriyaṁ&rsquo;, which here means &lsquo;heroism&rsquo; "
+            "&mdash; comparable to the more familiar term "
+            "&lsquo;vīriya&rsquo; in the same sense. A small piece of "
+            "grammatical craftsmanship sits behind this poem's "
+            "otherwise simple list."]),
+        ("Two related lists, closing this chapter's fourth pair", [
+            "Together, Ja 57 and Ja 58 offer two different but "
+            "overlapping accountings of what saved the same monkey "
+            "king &mdash; four qualities in one telling, three in "
+            "the other, both converging on the identical closing "
+            "claim that these qualities let their possessor "
+            "&lsquo;escape the visible foe.&rsquo;"]),
+    ],
+    terms=[
+        ("dakkhiyaṁ",
+         "&ldquo;adroitness&rdquo; &mdash; per Sujato's comment, an "
+         "abstract noun formed from &lsquo;dakkha&rsquo; by analogy "
+         "with &lsquo;sūriyaṁ&rsquo;."),
+        ("sūriyaṁ",
+         "&ldquo;heroism&rdquo; in this context, per Sujato's "
+         "comment comparable to the more familiar term "
+         "&lsquo;vīriya&rsquo;."),
+        ("diṭṭhaṁ so ativattati",
+         "&ldquo;escapes the visible foe&rdquo; &mdash; the closing "
+         "line shared word for word with Ja 57."),
+        ("Tayodhammajātaka",
+         "the traditional title of this tale, &lsquo;Three "
+         "Qualities&rsquo;."),
+        ("Ja 57",
+         "the previous poem, sharing this poem's structure and "
+         "closing line, differing chiefly in the number and content "
+         "of the qualities named."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, completing the matched "
+        "pair begun at Ja 57. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja58:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How many qualities does this poem name, compared to Ja 57's four?",
+         "opts": [
+             'Five',
+             'Three',
+             'Two',
+             'The same four qualities',
+         ],
+         "correct": 1,
+         "expl": 'Adroitness, heroism, and wisdom, closing on the identical final line as Ja 57.'},
+        {"q": "What does Sujato's comment say about the formation of 'dakkhiyaṁ' (adroitness)?",
+         "opts": [
+             'It is a proper name',
+             'It is a completely unrelated loanword',
+             "It is an abstract noun formed from 'dakkha' by analogy with 'sūriyaṁ'",
+             'It has no clear grammatical formation',
+         ],
+         "correct": 2,
+         "expl": "A small piece of grammatical craftsmanship behind this poem's otherwise simple list."},
+        {"q": "What does 'sūriyaṁ' mean in this specific context, per the comment?",
+         "opts": [
+             "'Wealth'",
+             'The comment gives no gloss',
+             "'Sun' in its literal sense",
+             "'Heroism', comparable to the more familiar term 'vīriya'",
+         ],
+         "correct": 3,
+         "expl": 'One of the three qualities this poem credits for the escape.'},
+        {"q": 'What closing line does this poem share word for word with Ja 57?',
+         "opts": [
+             "'Escapes the visible foe'",
+             'A different closing line entirely',
+             "Only the poem's title matches",
+             'No shared closing line',
+         ],
+         "correct": 0,
+         "expl": 'Both poems converge on the identical final claim despite naming different numbers of qualities.'},
+        {"q": 'What relationship do Ja 57 and Ja 58 have to the same underlying escape story?',
+         "opts": [
+             'They tell completely unrelated stories',
+             'They offer two different but overlapping accountings of what saved the same monkey king',
+             'Ja 58 contradicts Ja 57 entirely',
+             'Only one of the two poems concerns the monkey king',
+         ],
+         "correct": 1,
+         "expl": 'Four qualities in one telling, three in the other, both closing identically.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Horn-Blower',
+             'The Lord of Langurs',
+             'Three Qualities (Tayodhammajātaka)',
+             'The Drummer',
+         ],
+         "correct": 2,
+         "expl": 'The fifty-eighth poem overall, and the eighth of the Āsīsavagga, completing its fourth matched pair.'},
+        {"q": 'What three qualities does this poem name?',
+         "opts": [
+             'Wealth, status, and cunning',
+             'Patience, silence, and speed',
+             'Truth, principle, and generosity',
+             'Adroitness, heroism, and wisdom',
+         ],
+         "correct": 3,
+         "expl": "A condensed version of Ja 57's four-quality list."},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'The eighth poem of the Āsīsavagga, completing the matched pair begun at Ja 57',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+             'It stands outside any chapter',
+         ],
+         "correct": 0,
+         "expl": 'Part of the same ten-poem Āsīsavagga.'},
+        {"q": 'How many matched pairs remain in this chapter after Ja 57/58?',
+         "opts": [
+             'None — this is the final pair',
+             'One more (Ja 59/60)',
+             'Two more',
+             'Three more',
+         ],
+         "correct": 1,
+         "expl": 'The fifth and final matched pair of this ten-poem chapter.'},
+        {"q": 'What technique does this poem, alongside Ja 57, illustrate?',
+         "opts": [
+             'That wordplay is absent from this chapter',
+             'That this chapter avoids any repeated structure',
+             'That the same story can be honored with slightly different, overlapping lists of virtues while still closing on an identical claim',
+             'That all poems in this chapter must have exactly four lines',
+         ],
+         "correct": 2,
+         "expl": "A variant form of this chapter's broader pattern of matched pairs."},
+    ],
+    marginalia=[
+        ("Three qualities instead of four", [
+            "adroitness, heroism, wisdom this time —",
+            "a shorter list, the same escape"
+        ]),
+        ("A word built by analogy", [
+            "'dakkhiyaṁ' shaped after 'sūriyaṁ' —",
+            "small grammatical craft behind a simple list"
+        ]),
+        ("Two tellings, one shared ending", [
+            "four qualities here, three there —",
+            "'escapes the visible foe', unchanged either way"
+        ]),
+        ("The fourth pair, now complete", [
+            "Ja 57 and 58, closely matched —",
+            "one more pair remains in this chapter"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja58/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-57.html">Ja 57 &mdash; The Lord of Langurs</a> '
+        "&mdash; the poem immediately before this one, opening this "
+        "matched pair.",
+        '<a href="ja-59.html">Ja 59 &mdash; The Drummer</a> '
+        "&mdash; the next poem, opening this chapter's final matched "
+        "pair.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 59 — Bherivādaka (The Drummer)
+# --------------------------------------------------------------------------- #
+page(
+    59, "Bheriv&amacr;daka", "The Drummer",
+    meta_title="Ja 59 — The Drummer | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 59 — a boy's excessive drumming that draws the "
+        "attention of bandits, and a proverb about moderation with a "
+        "hidden second meaning. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Six (Āsīsavagga) &middot; Poem 9 of 10",
+    glance=[
+        ("Setting", "A road home from a festival, after a successful "
+                    "day of earnings"),
+        ("Speaker", "The drummer, addressing his own son"),
+        ("Form", "One four-line stanza, opening this chapter's final "
+                 "matched pair"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short proverb with an embedded second "
+                       "meaning"),
+    ],
+    why=(
+        "This poem opens the last of this chapter's five matched "
+        "pairs with a memorable onomatopoetic refrain, and Sujato's "
+        "comment uncovers a wordplay hiding beneath its literal "
+        "warning: the same word used for the earnings lost can also "
+        "mean &lsquo;the good, the true&rsquo;, quietly widening the "
+        "proverb's reach well beyond drumming."),
+    guide=[
+        ("Excess undoing what moderation had earned", [
+            "The verse gives its own refrain: &lsquo;blow, blow, "
+            "don't overblow, for overblowing is bad. By blowing a "
+            "hundred was gained, by overblowing it was lost.&rsquo; "
+            "Per Sujato's comment, a drummer and his boy earned money "
+            "playing at a festival, but on the return journey the "
+            "boy's incessant, excessive drumming attracted the "
+            "attention of bandits, undoing their whole day's profit."]),
+        ("A word doing double duty beneath the surface", [
+            "Sujato's comment notes that &lsquo;sataṁ&rsquo; "
+            "(explained literally as &lsquo;a hundred dollars&rsquo;) "
+            "carries a second sense at the same time: &lsquo;the "
+            "good, the true&rsquo;. The proverb's warning about "
+            "excess ruining earned gain quietly widens, through this "
+            "single word, into a warning about excess ruining any "
+            "good thing at all."]),
+        ("An instrument, and an onomatopoetic verb, in creative tension", [
+            "Sujato's comment also observes that while the story and "
+            "title speak of a &lsquo;drum&rsquo; (bheri), the verse "
+            "itself uses &lsquo;dhamati&rsquo;, which normally means "
+            "&lsquo;blows&rsquo; &mdash; the repeated idiom recalling "
+            "an onomatopoetic Sanskrit root, applied here to "
+            "percussion rather than the wind instrument it would more "
+            "naturally describe, in a playful mismatch the "
+            "translation's own choice of &lsquo;blow&rsquo; preserves."]),
+    ],
+    terms=[
+        ("dhame dhame nātidhame",
+         "&ldquo;blow, blow, don't overblow&rdquo; &mdash; the "
+         "verse's onomatopoetic refrain, shared word for word with "
+         "the next poem, Ja 60."),
+        ("sataṁ",
+         "&ldquo;a hundred&rdquo;, per Sujato's comment carrying a "
+         "second sense at once: &ldquo;the good, the true&rdquo;."),
+        ("dhamati",
+         "&ldquo;blows&rdquo; &mdash; the verb the verse uses for "
+         "the boy's drumming, per Sujato's comment normally "
+         "describing a wind instrument rather than a drum."),
+        ("Bherivādakajātaka",
+         "the traditional title of this tale, &lsquo;The "
+         "Drummer&rsquo;."),
+        ("Ja 60",
+         "the next poem, closing this chapter with the identical "
+         "opening refrain applied to a different instrument and "
+         "family member."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, opening this chapter's "
+        "final matched pair. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja59:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the boy's excessive drumming cause, per Sujato's comment?",
+         "opts": [
+             'It scares away potential customers',
+             'Nothing significant',
+             "It attracts the attention of bandits, undoing the day's earned profit",
+             'It wakes up the whole village',
+         ],
+         "correct": 2,
+         "expl": "Excess turning a successful day's earnings into a loss."},
+        {"q": "What second meaning does Sujato's comment identify for 'sataṁ' (a hundred)?",
+         "opts": [
+             "'Danger' or 'threat'",
+             'A specific place name',
+             'No second meaning exists',
+             "'The good, the true' — widening the proverb beyond literal money",
+         ],
+         "correct": 3,
+         "expl": "Quietly extending the poem's warning about excess to any good thing at all, not just earnings."},
+        {"q": "What mismatch does Sujato's comment note between the story's title and the verse's own vocabulary?",
+         "opts": [
+             "The story and title speak of a 'drum' (bheri), but the verse uses 'dhamati', a verb normally meaning 'blows' (as with a wind instrument)",
+             'The verse never mentions any instrument',
+             'The title refers to a different instrument entirely',
+             'No mismatch exists',
+         ],
+         "correct": 0,
+         "expl": "A playful mismatch the English translation's own choice of 'blow' preserves."},
+        {"q": 'What refrain does this poem open, shared with the next poem, Ja 60?',
+         "opts": [
+             'No shared refrain',
+             "'Blow, blow, don't overblow, for overblowing is bad'",
+             'A refrain about silence',
+             'A refrain about generosity',
+         ],
+         "correct": 1,
+         "expl": "Opening this chapter's final matched pair."},
+        {"q": 'How did the drummer and his son earn money, per the underlying story?',
+         "opts": [
+             'By farming',
+             'By begging',
+             'By playing drums at a festival',
+             'By trading goods',
+         ],
+         "correct": 2,
+         "expl": 'Successful earnings later undone on the return journey home.'},
+        {"q": "What specifically drew the bandits' attention?",
+         "opts": [
+             'A loud argument',
+             'Following the pair from the festival itself',
+             'Visible wealth being displayed',
+             "The boy's incessant, excessive drumming",
+         ],
+         "correct": 3,
+         "expl": 'The very excess the proverb warns against.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Drummer (Bherivādakajātaka)',
+             'The Horn-Blower',
+             'The Lord of Langurs',
+             'Three Qualities',
+         ],
+         "correct": 0,
+         "expl": 'The fifty-ninth poem overall, and the ninth of the Āsīsavagga, opening its fifth and final matched pair.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The ninth poem of the Āsīsavagga, opening the final matched pair after Ja 51-58',
+             'The final poem of its chapter',
+             'The first poem of a later chapter',
+         ],
+         "correct": 1,
+         "expl": 'The second-to-last poem of this ten-poem chapter.'},
+        {"q": 'Who speaks this verse, addressing whom?',
+         "opts": [
+             'An unnamed narrator with no addressee',
+             'A stranger, addressing the drummer',
+             'The drummer, addressing his own son',
+             'A bandit, addressing his victims',
+         ],
+         "correct": 2,
+         "expl": "A father's warning, delivered too late to prevent the loss."},
+        {"q": "What broader lesson does this poem's wordplay on 'sataṁ' suggest?",
+         "opts": [
+             'That drumming should never be practiced',
+             'No broader lesson is suggested',
+             'That money is the only thing that matters',
+             "That the danger of excess applies not just to earnings but to 'the good, the true' more generally",
+         ],
+         "correct": 3,
+         "expl": "A single word quietly widening the proverb's reach."},
+    ],
+    marginalia=[
+        ("A hundred earned, a hundred lost", [
+            "moderation gained it, excess threw it away —",
+            "the whole story in one tight proverb"
+        ]),
+        ("A word meaning more than money", [
+            "'sataṁ' — a hundred, but also 'the good, the true' —",
+            "the warning reaches further than it first seems"
+        ]),
+        ("A drum called a wind instrument", [
+            "the verb says 'blows', the title says 'drum' —",
+            "a playful mismatch, preserved in translation"
+        ]),
+        ("The final pair of this chapter begins", [
+            "one more matched poem to come —",
+            "the same refrain, a different instrument"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja59/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-58.html">Ja 58 &mdash; Three Qualities</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="ja-60.html">Ja 60 &mdash; The Horn-Blower</a> '
+        "&mdash; the next poem, closing this chapter.",
+        '<a href="./">Jataka</a> &mdash; back to the collection index.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Ja 60 — Saṅkhadhama (The Horn-Blower)
+# --------------------------------------------------------------------------- #
+page(
+    60, "Sa&#7749;khadhama", "The Horn-Blower",
+    meta_title="Ja 60 — The Horn-Blower | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jātaka 60, closing the Āsīsavagga — this time a father, not "
+        "a son, squanders the family's earnings by overblowing his "
+        "own horn. From Ru-Yi Meditation Center."),
+    vagga="Book of the Ones &middot; Chapter Six (Āsīsavagga) &middot; Poem 10 of 10 (closing the chapter)",
+    glance=[
+        ("Setting", "No narrative scene in the canonical verse itself"),
+        ("Speaker", "Unspecified in the canonical verse itself, "
+                    "addressed as if to a son about his father"),
+        ("Form", "One four-line stanza, closing this chapter's final "
+                 "matched pair"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "one short verse closing a matched pair, with "
+                       "its own pun"),
+    ],
+    why=(
+        "This poem closes the Āsīsavagga by reversing Ja 59's family "
+        "roles: here it is the father, not the son, whose excess "
+        "squanders what had been earned &mdash; and its closing line "
+        "carries its own deliberate pun that the English translation "
+        "manages to preserve almost exactly."),
+    guide=[
+        ("The same lesson, the roles reversed", [
+            "The verse repeats its companion's opening refrain, then "
+            "closes differently: &lsquo;by blowing riches were "
+            "earned, but your blowing dad blew it.&rsquo; Per "
+            "Sujato's comment, this story is similar to the previous "
+            "one, except here the instrument is a conch or horn, and "
+            "&lsquo;the father is the overplayer, not the son.&rsquo;"]),
+        ("A pun the English translation manages to carry over intact", [
+            "Sujato's comment highlights the play on words between "
+            "&lsquo;dhama&rsquo; (&lsquo;blowing&rsquo;) and "
+            "&lsquo;vidhamī&rsquo; (&lsquo;squandered it&rsquo;, "
+            "literally &lsquo;blew it&rsquo;) &mdash; a rare case "
+            "where the English idiom &lsquo;blew it&rsquo;, meaning "
+            "to squander an opportunity, happens to preserve almost "
+            "exactly the same double meaning the Pali original plays "
+            "on."]),
+        ("A citation reaching outside the Jātaka, and closing this chapter", [
+            "Sujato's comment also notes that a work outside this "
+            "site's own selections, the Milinda Pañha (Mil 3.1.4), "
+            "discusses what happens when a horn player breathes out "
+            "too much &mdash; a technical parallel to this poem's own "
+            "concern, noted here without a linked page. This poem "
+            "closes the Āsīsavagga, the sixth of eight chapters this "
+            "site's selection draws from within the Ekakanipāta. The "
+            "source text's own untranslated summary verse (uddāna) "
+            "immediately follows, naming all ten poems of this "
+            "chapter in sequence &mdash; not presented here as quoted "
+            "text, since it carries no separate translation, but "
+            "noted for completeness, as at the close of the previous "
+            "five chapters."]),
+    ],
+    terms=[
+        ("dhama",
+         "&ldquo;blowing&rdquo; &mdash; the shared opening refrain's "
+         "own key verb."),
+        ("vidhamī",
+         "&ldquo;squandered it&rdquo;, literally &ldquo;blew "
+         "it&rdquo; &mdash; per Sujato's comment, a pun the English "
+         "idiom happens to preserve almost exactly."),
+        ("Saṅkhadhamajātaka",
+         "the traditional title of this tale, &lsquo;The "
+         "Horn-Blower&rsquo;, closing the Āsīsavagga."),
+        ("Mil 3.1.4",
+         "the Milinda Pañha, a work outside this site's own "
+         "selections, cited in Sujato's comment for a technical "
+         "parallel about excessive horn-blowing."),
+        ("Āsīsavaggo chaṭṭho",
+         "&ldquo;the Āsīsavagga, the sixth [chapter]&rdquo; &mdash; "
+         "the source text's own untranslated closing marker for this "
+         "chapter, followed immediately by its summary verse."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, closing this chapter's "
+        "final matched pair with its own preserved pun, discussed "
+        "above. The chapter's own untranslated closing summary verse "
+        "(uddāna), which follows immediately in the source text, is "
+        "not quoted here since it carries no English translation, but "
+        "its content &mdash; the ten poem titles of this chapter in "
+        "sequence &mdash; matches this reading guide's own further "
+        "reading list below. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "ja60:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does this poem's story differ from Ja 59's, per Sujato's comment?",
+         "opts": [
+             'It concerns an entirely unrelated family',
+             'No difference is noted',
+             'It is identical in every detail',
+             'The instrument is a conch or horn instead of a drum, and the father is the overplayer instead of the son',
+         ],
+         "correct": 3,
+         "expl": "A reversal of family roles completing this chapter's final matched pair."},
+        {"q": "What pun does Sujato's comment highlight in this poem's closing line?",
+         "opts": [
+             "The play between 'dhama' (blowing) and 'vidhamī' (squandered it, literally 'blew it')",
+             "A pun on the father's name",
+             "A pun unrelated to the poem's theme",
+             'No pun is present',
+         ],
+         "correct": 0,
+         "expl": "A rare case where the English idiom 'blew it' preserves almost exactly the same double meaning as the Pali original."},
+        {"q": "What external work does Sujato's comment cite for a technical parallel about horn-blowing?",
+         "opts": [
+             'The Rig Veda',
+             "The Milinda Pañha (Mil 3.1.4), outside this site's own selections",
+             'The Dhammapada',
+             'No external work is cited',
+         ],
+         "correct": 1,
+         "expl": "Noted here without a linked page, since it falls outside this site's own text selections."},
+        {"q": 'What chapter does this poem close?',
+         "opts": [
+             'It does not close a chapter',
+             'The Atthakāmavagga',
+             "The Āsīsavagga, the sixth of eight chapters this site's selection draws from",
+             'The final chapter of the whole Jātaka',
+         ],
+         "correct": 2,
+         "expl": "The source text's own untranslated summary verse (uddāna) follows immediately after."},
+        {"q": "Is the chapter's closing summary verse (uddāna) presented as quoted text in this reading guide?",
+         "opts": [
+             'It does not exist for this chapter',
+             'It is presented as spoken by the father',
+             'Yes, quoted in full',
+             'No — it carries no separate English translation, so it is only noted for completeness',
+         ],
+         "correct": 3,
+         "expl": 'Consistent with the same practice at the close of the previous five chapters.'},
+        {"q": "What is this poem's traditional title?",
+         "opts": [
+             'The Horn-Blower (Saṅkhadhamajātaka)',
+             'Three Qualities',
+             'The Lord of Langurs',
+             'The Drummer',
+         ],
+         "correct": 0,
+         "expl": 'The sixtieth poem overall, and the tenth and final poem of the Āsīsavagga.'},
+        {"q": 'What refrain does this poem open with, shared with Ja 59?',
+         "opts": [
+             'No shared refrain',
+             "'Blow, blow, don't overblow, for overblowing is bad'",
+             'A refrain about wealth alone',
+             'A refrain about silence',
+         ],
+         "correct": 1,
+         "expl": "Completing this chapter's fifth and final matched pair."},
+        {"q": "Who is the 'overplayer' in this poem's version of the tale?",
+         "opts": [
+             'Both father and son equally',
+             'The son',
+             'The father',
+             'A stranger',
+         ],
+         "correct": 2,
+         "expl": 'Reversing the family roles from Ja 59, where the son was the excessive player.'},
+        {"q": "Where does this poem sit in the collection's own chapter structure?",
+         "opts": [
+             'It stands outside any chapter',
+             'The first poem of a later chapter',
+             'The first poem of the Āsīsavagga',
+             'The tenth and final poem of the Āsīsavagga, closing this chapter',
+         ],
+         "correct": 3,
+         "expl": "Its closing position is directly confirmed by the chapter's own summary verse following immediately after."},
+        {"q": 'How many total matched pairs structured this entire chapter?',
+         "opts": [
+             'Five (Ja 51/52, 53/54, 55/56, 57/58, 59/60)',
+             'Ten, with each poem paired to itself',
+             'None — the chapter had no repeated structure',
+             'Two',
+         ],
+         "correct": 0,
+         "expl": "The most tightly paired chapter structure found across this site's Jātaka selection so far."},
+    ],
+    marginalia=[
+        ("Roles reversed, same lesson learned", [
+            "not the son this time, but the father —",
+            "excess costs the family either way"
+        ]),
+        ("A pun that survives translation", [
+            "'dhama' and 'vidhamī' — blowing and 'blew it' —",
+            "English keeps almost the exact same joke"
+        ]),
+        ("A citation reaching beyond this collection", [
+            "the Milinda Pañha on breathless horn-blowers —",
+            "noted, though outside this site's own texts"
+        ]),
+        ("Five pairs, ten poems, one chapter closed", [
+            "the Āsīsavagga's own summary follows —",
+            "not quoted, since it has no translation"
+        ]),
+    ],
+    further=[
+        '<a href="%s/ja60/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="ja-59.html">Ja 59 &mdash; The Drummer</a> '
+        "&mdash; the poem immediately before this one, opening this "
+        "matched pair.",
+        '<a href="./">Jataka</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
