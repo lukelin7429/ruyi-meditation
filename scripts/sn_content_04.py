@@ -12181,3 +12181,1542 @@ page(
         "35.94&ndash;103), not yet built.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 35.94 — Adantaaguttasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 94, "Adantaagutta", "Untamed, Unguarded",
+    vagga="Saḷavagga",
+    meta_title="SN 35.94 — Untamed, Unguarded | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Adantaaguttasutta &mdash; the opening discourse of "
+        "Saḷavagga, &ldquo;the sixes,&rdquo; naming this book's "
+        "tenth vagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī"),
+        ("Speakers", "The Buddha alone, no interlocutor named"),
+        ("Form", "A prose statement in two mirrored halves &mdash; "
+                 "suffering when untamed, happiness when tamed "
+                 "&mdash; followed by the Buddha's own eight verses "
+                 "restating the same teaching"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a plain teaching, but the closing verses "
+                       "reward close reading"),
+    ],
+    why=(
+        "This discourse opens Saḷavagga, this book's own tenth "
+        "vagga &mdash; and, unlike Migajālavagga, Gilānavagga, or "
+        "Channavagga just before it, this vagga is not named for a "
+        "person. Sujato's own English renders it simply &ldquo;The "
+        "Sixes,&rdquo; and this opening discourse supplies the "
+        "reason: it turns on the six fields of contact "
+        "(phassāyatana), untamed and unguarded on one hand, well "
+        "tamed and well guarded on the other. The prose states the "
+        "teaching twice, mirrored; the Buddha's own verses then "
+        "restate it a third time, working through each sense "
+        "field's own pair of pleasant and unpleasant objects in "
+        "turn. One verse's own mention of &ldquo;duality&rdquo; "
+        "&mdash; pleasant and painful touches held with equanimity "
+        "&mdash; echoes the closing discourses of the vagga just "
+        "finished, where a duality of eye and sights was shown "
+        "giving rise to consciousness."
+    ),
+    guide=[
+        ("A vagga named for a number, not a person", [
+            "Saḷavagga &mdash; &ldquo;the six(es)&rdquo; &mdash; "
+            "breaks the pattern of Migajālavagga, Gilānavagga, and "
+            "Channavagga, each named for a person met in its own "
+            "first discourse. This vagga's own opening turns on the "
+            "six fields of contact themselves, tamed or untamed, "
+            "supplying the number that names it.",
+        ]),
+        ("Suffering and happiness, mirrored", [
+            "The prose gives the same structure twice: the six "
+            "fields of contact (eye through mind) bring suffering "
+            "when untamed, unguarded, unprotected, and unrestrained "
+            "&mdash; and bring happiness when the same four "
+            "qualities are reversed. Nothing else changes between "
+            "the two halves but the outcome.",
+        ]),
+        ("Eight verses, each sense in turn", [
+            "The Buddha's own verses that follow work through sight, "
+            "sound, smell, taste, and touch, each with the same "
+            "instruction: neither cling to the pleasant nor hate the "
+            "unpleasant. The touch verse's own mention of "
+            "&ldquo;duality&rdquo; &mdash; looking with equanimity "
+            "at pleasant and painful contacts together &mdash; picks "
+            "up the same word Channavagga's own closing pair "
+            "(SN 35.92&ndash;93) used for eye and sights giving rise "
+            "to consciousness, bridging the two vaggas.",
+        ]),
+        ("Proliferation and renunciation", [
+            "The closing verses turn from the six senses individually "
+            "to how perception in general is handled: people let "
+            "perception proliferate (papañca, the same term MN 18 "
+            "treats at length) and so become attracted, where the "
+            "alternative is casting aside the mental constructions of "
+            "domestic life and wandering intent on renunciation.",
+        ]),
+    ],
+    terms=[
+        ("phassāyatana", "field of contact &mdash; this vagga's own "
+                           "namesake target, six in number"),
+        ("danta&hellip;gutta", "tamed&hellip;guarded &mdash; the "
+                                 "positive pair this discourse's own "
+                                 "title negates"),
+        ("dvayaṁ", "duality &mdash; named at the touch verse, "
+                     "echoing Channavagga's own closing pair"),
+        ("papañca", "proliferation &mdash; treated at length in "
+                      "MN 18, named here as ordinary people's own "
+                      "habit with perception"),
+        ("nekkhamma", "renunciation &mdash; what the closing verse "
+                        "sets against proliferation and domestic "
+                        "mental constructions"),
+    ],
+    text_intro=("The complete discourse: the prose teaching in two "
+        "mirrored halves, followed by the Buddha's own eight verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.94:1.1-1.7"),
+        ("p", "&sect;2", "sn35.94:2.1-2.8"),
+        ("p", "&sect;3", "sn35.94:3.1-3.4"),
+        ("p", "&sect;4", "sn35.94:4.1-4.4"),
+        ("p", "&sect;5", "sn35.94:5.1-5.4"),
+        ("p", "&sect;6", "sn35.94:6.1-6.4"),
+        ("p", "&sect;7", "sn35.94:7.1-7.4"),
+        ("p", "&sect;8", "sn35.94:8.1-8.4"),
+        ("p", "&sect;9", "sn35.94:9.1-9.4"),
+        ("p", "&sect;10", "sn35.94:10.1-10.4"),
+    ],
+    quiz=[
+        {"q": "What brings suffering when untamed, unguarded, unprotected, and unrestrained, according to this discourse's own opening?",
+         "opts": ["The six fields of contact", "The five aggregates", "The four elements", "The three characteristics"],
+         "correct": 0,
+         "expl": "Phassāyatana &mdash; the same target that gives this vagga its own name."},
+        {"q": "What does Sujato's own English render this vagga's Pali name, Saḷavagga, as?",
+         "opts": ["&ldquo;The Sixes&rdquo;", "&ldquo;The Untamed&rdquo;", "&ldquo;Contact&rdquo;", "It is left untranslated"],
+         "correct": 0,
+         "expl": "Unlike the person-named vaggas just before it, this one is named for a number."},
+        {"q": "What word in the touch verse echoes Channavagga's own closing pair of discourses?",
+         "opts": ["Dvayaṁ (duality)", "Anicca (impermanence)", "Anattā (not-self)", "Nibbāna (extinguishment)"],
+         "correct": 0,
+         "expl": "SN 35.92&ndash;93 used the same word for eye and sights giving rise to consciousness."},
+        {"q": "What term does this discourse's closing verses use for how ordinary people handle perception, a term MN 18 treats at length?",
+         "opts": ["Papañca (proliferation)", "Vitakka (thought)", "Taṇhā (craving)", "Māna (conceit)"],
+         "correct": 0,
+         "expl": "Perceiving and proliferating, people become attracted &mdash; the alternative is renunciation."},
+        {"q": "How many verses does the Buddha add after the mirrored prose teaching?",
+         "opts": ["Eight", "Four", "Twelve", "None &mdash; the discourse is prose only"],
+         "correct": 0,
+         "expl": "Restating the same teaching a third time, sense field by sense field."},
+    ],
+    marginalia=[
+        ("A number, not a name", [
+            "&ldquo;the sixes&rdquo; &mdash;",
+            "unlike the vaggas just before",
+        ]),
+        ("Suffering, then happiness", [
+            "untamed versus tamed,",
+            "mirrored exactly",
+        ]),
+        ("Duality, again", [
+            "the touch verse echoes",
+            "Channavagga's own close",
+        ]),
+        ("Proliferation or renunciation", [
+            "papañca, from MN 18 &mdash;",
+            "or casting it all aside",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.94/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.93.html">SN 35.93 &middot; A Duality '
+        "(2nd)</a> &mdash; the previous discourse, closing "
+        "Channavagga.",
+        '<a href="sn-35.95.html">SN 35.95 &middot; Māluṅkyaputta</a> '
+        "&mdash; the next discourse, this vagga's own longest.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.95 — Mālukyaputtasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 95, "Mālukyaputta", "Māluṅkyaputta",
+    vagga="Saḷavagga",
+    meta_title="SN 35.95 — Māluṅkyaputta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Mālukyaputtasutta &mdash; the elderly Venerable "
+        "Māluṅkyaputta's request for a brief teaching, answered "
+        "with the same formula later given to Bāhiya. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī"),
+        ("Speakers", "The elderly Venerable Māluṅkyaputta "
+                      "requesting; the Buddha teaching"),
+        ("Form", "A full frame story: request, examination across "
+                 "the six senses, a compact formula, the elder's "
+                 "own verse restatement approved and repeated, and "
+                 "his attainment of arahantship"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the single most famous formula in this "
+                       "vagga, worth reading slowly"),
+    ],
+    why=(
+        "Māluṅkyaputta is best known elsewhere (MN 63, MN 64) for a "
+        "much sharper encounter with the Buddha &mdash; pressing him "
+        "on the ten undetermined questions and receiving the "
+        "poisoned-arrow parable in reply. Here, old and near the end "
+        "of his life, he asks instead for a teaching &ldquo;in "
+        "brief&rdquo; so that he can go and practice alone. The "
+        "Buddha first checks that Māluṅkyaputta has no desire for "
+        "sense objects never yet encountered, then gives the "
+        "formula: in the seen, merely the seen; in the heard, merely "
+        "the heard; in the thought, merely the thought; in the "
+        "known, merely the known &mdash; the identical instruction "
+        "later given, word for word, to Bāhiya at the roadside "
+        "(Ud 1.10), and referenced at MN 1. Sujato's own note "
+        "identifies the implicit target as Yājñavalkya's own claim "
+        "that the Self is known through exactly this fourfold set "
+        "&mdash; the same Upaniṣadic sage this book's own Channavagga "
+        "named directly, two discourses earlier."
+    ),
+    guide=[
+        ("A gentler request than usual", [
+            "Māluṅkyaputta's other appearances in the Suttas "
+            "(MN 63, MN 64) show him pressing the Buddha for answers "
+            "on metaphysical questions the Buddha declines to settle. "
+            "Here, elderly and near life's end, he asks only for a "
+            "brief teaching to practice alone with &mdash; the same "
+            "request form other mendicants have made elsewhere in "
+            "this project.",
+        ]),
+        ("The epistemic tetrad", [
+            "Before teaching, the Buddha checks Māluṅkyaputta's own "
+            "desire toward sights, sounds, smells, tastes, touches, "
+            "and ideas never yet encountered. This fourfold set "
+            "&mdash; seen, heard, thought, known &mdash; does not "
+            "map neatly onto the six senses (there is no separate "
+            "term for smell or taste within it); it is the same set "
+            "MN 1 treats at length.",
+        ]),
+        ("In the seen, just the seen", [
+            "The formula itself: in what is seen there will be "
+            "merely the seen, and so through heard, thought, and "
+            "known &mdash; with the consequence that one is not "
+            "identified &ldquo;by that,&rdquo; not located "
+            "&ldquo;in that,&rdquo; and so not anywhere at all. This "
+            "is the identical instruction Bāhiya receives at the "
+            "roadside in Ud 1.10, where it triggers immediate "
+            "awakening; here Māluṅkyaputta instead goes away to "
+            "practice and attains arahantship only after further "
+            "effort.",
+        ]),
+        ("Refuting a Self derived from the tetrad", [
+            "Sujato's own note traces this formula to a direct "
+            "target: Yājñavalkya's own claim, in the "
+            "Bṛhadāraṇyaka Upaniṣad, that when the Self is seen, "
+            "heard, thought, and known, all is known through it. "
+            "This book's own Channavagga (SN 35.93) already named "
+            "Yājñavalkya directly over his &ldquo;sheer mass of "
+            "consciousness&rdquo;; this discourse continues the same "
+            "argument from the opposite direction, denying that the "
+            "tetrad yields any Self to be found at all.",
+        ]),
+        ("Twelve verses, mirrored, then arahantship", [
+            "Māluṅkyaputta's own verses run the same &ldquo;losing "
+            "mindfulness&rdquo; and &ldquo;keeping mindfulness&rdquo; "
+            "pattern across all six senses in turn &mdash; the "
+            "Buddha approves and, per the Pali root, repeats them in "
+            "full a second time (left untranslated in Sujato's own "
+            "English as pure repetition). Māluṅkyaputta then leaves "
+            "to practice alone and, the discourse closes, becomes "
+            "one of the perfected.",
+        ]),
+    ],
+    terms=[
+        ("diṭṭhe diṭṭhamattaṁ", "&ldquo;in the seen, merely the "
+             "seen&rdquo; &mdash; the formula's own opening clause, "
+             "identical to the instruction later given to Bāhiya"),
+        ("na tena", "&ldquo;not by that&rdquo; &mdash; the "
+             "consequence drawn from the formula: not identified "
+             "through what is seen, heard, thought, or known"),
+        ("adiṭṭhapubba", "&ldquo;unseen, unseen before&rdquo; "
+             "&mdash; the epistemic tetrad's own qualifier, tested "
+             "before the formula is given"),
+        ("Yājñavalkya", "the implicit target, per Sujato's own note "
+             "&mdash; already named directly two discourses earlier "
+             "at SN 35.93, over his claim that the tetrad yields a "
+             "knowable Self"),
+        ("arahaṁ", "one of the perfected &mdash; what Māluṅkyaputta "
+             "becomes at this discourse's own close, after "
+             "practicing alone on this teaching"),
+    ],
+    text_intro=("The complete discourse: Māluṅkyaputta's request, "
+        "the epistemic tetrad, the famous formula, his own verses, "
+        "and his attainment of arahantship. The Pali root's own "
+        "repeat of the full verse set (the Buddha repeating "
+        "Māluṅkyaputta's exposition back to him) is left untranslated "
+        "in Sujato's own English as pure repetition and is not "
+        "duplicated here. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.95:1.1-3.2"),
+        ("p", "&sect;2", "sn35.95:4.1-9.2"),
+        ("p", "&sect;3", "sn35.95:10.1-10.8"),
+        ("p", "&sect;4", "sn35.95:11.1-11.1"),
+        ("h3", "The verses: losing mindfulness"),
+        ("p", "&sect;5", "sn35.95:12.1-13.6"),
+        ("p", "&sect;6", "sn35.95:14.1-15.6"),
+        ("p", "&sect;7", "sn35.95:16.1-17.6"),
+        ("p", "&sect;8", "sn35.95:18.1-19.6"),
+        ("p", "&sect;9", "sn35.95:20.1-21.6"),
+        ("p", "&sect;10", "sn35.95:22.1-23.6"),
+        ("h3", "The verses: keeping mindfulness"),
+        ("p", "&sect;11", "sn35.95:24.1-25.6"),
+        ("p", "&sect;12", "sn35.95:26.1-27.6"),
+        ("p", "&sect;13", "sn35.95:28.1-29.6"),
+        ("p", "&sect;14", "sn35.95:30.1-31.6"),
+        ("p", "&sect;15", "sn35.95:32.1-33.6"),
+        ("p", "&sect;16", "sn35.95:34.1-35.6"),
+        ("p", "&sect;17", "sn35.95:36.1-36.3"),
+        ("p", "&sect;18", "sn35.95:41.1-41.1"),
+        ("p", "&sect;19", "sn35.95:42.1-42.4"),
+    ],
+    quiz=[
+        {"q": "What is Māluṅkyaputta best known for elsewhere in the Suttas (MN 63, MN 64)?",
+         "opts": ["Pressing the Buddha on the ten undetermined questions, answered with the poisoned-arrow parable", "Being the Buddha's personal attendant", "Composing the verses of the Theragāthā's longest chapter", "A dispute over monastic discipline"],
+         "correct": 0,
+         "expl": "Here, elderly, he instead asks only for a brief teaching to practice alone with."},
+        {"q": "What does the Buddha check before giving the teaching?",
+         "opts": ["Whether Māluṅkyaputta has any desire for sense objects never yet encountered", "Whether Māluṅkyaputta has broken any precepts", "Whether Māluṅkyaputta understands dependent origination", "Whether Māluṅkyaputta is physically strong enough to meditate"],
+         "correct": 0,
+         "expl": "The epistemic tetrad's own qualifier: unseen, unseen before."},
+        {"q": "What later, more famous episode gives the identical formula word for word?",
+         "opts": ["The Buddha's brief instruction to Bāhiya at the roadside (Ud 1.10)", "The first sermon at the Deer Park (SN 56.11)", "The Buddha's last words (DN 16)", "The teaching to Rāhula (MN 62)"],
+         "correct": 0,
+         "expl": "Bāhiya awakens on the spot; Māluṅkyaputta instead goes to practice further."},
+        {"q": "Whose claim does Sujato's own note identify as this formula's implicit target?",
+         "opts": ["Yājñavalkya's claim that the Self is known through the seen, heard, thought, and known", "The Jain doctrine of the soul's own weight", "Makkhali Gosāla's determinism", "Ajita Kesakambalī's materialism"],
+         "correct": 0,
+         "expl": "The same Upaniṣadic sage this book's own SN 35.93 already named directly."},
+        {"q": "What happens to Māluṅkyaputta at this discourse's own close?",
+         "opts": ["He goes to practice alone and becomes one of the perfected", "He asks a further question the Buddha declines to answer", "He returns to lay life", "He is ordained for the first time"],
+         "correct": 0,
+         "expl": "Arahantship, reached through further effort rather than on the spot as Bāhiya does."},
+    ],
+    marginalia=[
+        ("A gentler request", [
+            "no undetermined questions here &mdash;",
+            "just a teaching to live by",
+        ]),
+        ("The same words as Bāhiya", [
+            "in the seen, just the seen &mdash;",
+            "identical, elsewhere immediate",
+        ]),
+        ("Yājñavalkya again", [
+            "the tetrad yields no Self &mdash;",
+            "continuing SN 35.93's own case",
+        ]),
+        ("Arahantship, this time earned slowly", [
+            "not on the spot &mdash;",
+            "through practice, afterward",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.95/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.94.html">SN 35.94 &middot; Untamed, '
+        "Unguarded</a> &mdash; the previous discourse, opening this "
+        "vagga.",
+        '<a href="sn-35.96.html">SN 35.96 &middot; Liable to '
+        "Decline</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.96 — Parihānadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 96, "Parihānadhamma", "Liable to Decline",
+    vagga="Saḷavagga",
+    meta_title="SN 35.96 — Liable to Decline | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Parihānadhammasutta &mdash; three teachings in "
+        "one on who is liable to decline, who is not, and the six "
+        "fields of mastery. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, no interlocutor named"),
+        ("Form", "Three teachings in sequence, sharing one "
+                 "structure: decline, non-decline, and mastery, "
+                 "each run across all six senses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a clear diagnostic, not a difficult "
+                       "argument"),
+    ],
+    why=(
+        "This discourse offers a practical diagnostic rather than a "
+        "doctrinal argument: when bad, unskillful states arise on "
+        "contact with any of the six senses, tolerating them "
+        "&mdash; not giving them up, not eliminating them &mdash; "
+        "is decline; giving them up is non-decline; and a third, "
+        "higher case is named besides &mdash; the six fields of "
+        "mastery, where such states simply do not arise in the "
+        "first place. The same topic is addressed elsewhere in the "
+        "Suttas (AN 6.62, AN 10.55), and a related discourse states "
+        "plainly that a stream-enterer is no longer liable to "
+        "decline at all (AN 6.97) &mdash; this discourse supplies "
+        "the diagnostic such a claim depends on."
+    ),
+    guide=[
+        ("Three teachings, one structure", [
+            "Liability to decline, freedom from it, and full mastery "
+            "are each defined in turn, all three run identically "
+            "across the six senses: eye given in full, ear through "
+            "body compressed by ellipsis, mind given in full again.",
+        ]),
+        ("Liable to decline: tolerating what arises", [
+            "When bad, unskillful states &mdash; memories and "
+            "thoughts that tighten fetters &mdash; arise on contact, "
+            "a mendicant who tolerates them, not giving them up, "
+            "getting rid of them, eliminating them, or obliterating "
+            "them, should recognize skillful qualities are "
+            "declining.",
+        ]),
+        ("Not liable to decline: the same states, refused", [
+            "The identical bad states may arise; the difference is "
+            "entirely in the response. Not tolerating them, but "
+            "giving them up at once, marks non-decline &mdash; the "
+            "same four-verb formula (give up, get rid of, eliminate, "
+            "obliterate) used for uprooting elsewhere in this book.",
+        ]),
+        ("The six fields of mastery: a further case still", [
+            "A third case is named besides the first two: bad "
+            "states simply failing to arise at all on contact. This "
+            "is called a field mastered &mdash; not merely handled "
+            "well after arising, but no longer arising in the first "
+            "place, the highest of the three cases this discourse "
+            "distinguishes.",
+        ]),
+    ],
+    terms=[
+        ("parihāni", "decline &mdash; this discourse's own first "
+                        "target, defined by what a mendicant "
+                        "tolerates rather than gives up"),
+        ("saṅkappavitakkā saṁyojaniyā", "memories and thoughts "
+             "that tighten fetters &mdash; what arises on contact "
+             "in every one of the three cases this discourse "
+             "distinguishes"),
+        ("pajahati vinodeti byantīkaroti anabhāvaṁ gameti", "give "
+             "up, get rid of, eliminate, obliterate &mdash; the "
+             "four-verb formula marking the difference between "
+             "decline and non-decline"),
+        ("abhibhāyatana", "field of mastery &mdash; this "
+             "discourse's own third and highest case, where bad "
+             "states do not arise on contact at all"),
+        ("sotāpanna", "stream-enterer &mdash; named in a related "
+             "discourse (AN 6.97) as no longer liable to decline, "
+             "the stakes this diagnostic ultimately serves"),
+    ],
+    text_intro=("The complete discourse: three teachings on "
+        "decline, non-decline, and the six fields of mastery, each "
+        "run across all six senses. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.96:1.1-1.7"),
+        ("p", "&sect;2", "sn35.96:2.1-2.6"),
+        ("p", "&sect;3", "sn35.96:3.1-3.5"),
+        ("p", "&sect;4", "sn35.96:4.1-4.6"),
+        ("p", "&sect;5", "sn35.96:5.1-5.10"),
+    ],
+    quiz=[
+        {"q": "What marks someone as &ldquo;liable to decline,&rdquo; on this discourse's own account?",
+         "opts": ["Tolerating bad states that arise on contact, rather than giving them up", "Never experiencing any sense contact at all", "Breaking a monastic precept", "Disagreeing with the Buddha's teaching"],
+         "correct": 0,
+         "expl": "The same bad states may arise for anyone; the difference is entirely in the response."},
+        {"q": "What four-verb formula marks the difference between decline and non-decline?",
+         "opts": ["Give up, get rid of, eliminate, obliterate", "See, hear, think, know", "Arise, remain, cease, return", "Question, doubt, investigate, resolve"],
+         "correct": 0,
+         "expl": "Used for uprooting elsewhere in this book as well."},
+        {"q": "What third case does this discourse name besides decline and non-decline?",
+         "opts": ["The six fields of mastery, where bad states do not arise at all", "The six fields of contact, defined generically", "A fourth, intermediate case", "No third case &mdash; only two are named"],
+         "correct": 0,
+         "expl": "Not merely handling bad states well, but their failing to arise on contact in the first place."},
+        {"q": "What does a related discourse (AN 6.97) say about a stream-enterer's own liability to decline?",
+         "opts": ["A stream-enterer is no longer liable to decline at all", "A stream-enterer is still fully liable to decline", "The question does not apply to stream-enterers", "Decline only applies to lay followers"],
+         "correct": 0,
+         "expl": "The stakes this discourse's own diagnostic ultimately serves."},
+        {"q": "Across how many senses does each of the three teachings run?",
+         "opts": ["Six &mdash; eye, ear, nose, tongue, body, mind", "Five &mdash; the five aggregates", "One &mdash; the mind alone", "Three &mdash; body, speech, mind"],
+         "correct": 0,
+         "expl": "Eye given in full, ear through body compressed, mind given in full again."},
+    ],
+    marginalia=[
+        ("Same states, different response", [
+            "tolerate, and it's decline &mdash;",
+            "give up, and it isn't",
+        ]),
+        ("A third, higher case", [
+            "mastery: nothing arises &mdash;",
+            "not just handled well",
+        ]),
+        ("The four-verb formula", [
+            "give up, eliminate,",
+            "obliterate",
+        ]),
+        ("What a stream-enterer escapes", [
+            "AN 6.97: no longer",
+            "liable to decline at all",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.96/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.95.html">SN 35.95 &middot; '
+        "Māluṅkyaputta</a> &mdash; the previous discourse.",
+        '<a href="sn-35.97.html">SN 35.97 &middot; One Who Lives '
+        "Negligently</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.97 — Pamādavihārīsutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 97, "Pamādavihārī", "One Who Lives Negligently",
+    vagga="Saḷavagga",
+    meta_title="SN 35.97 — One Who Lives Negligently | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Pamādavihārīsutta &mdash; a seven-link causal "
+        "chain from unrestrained senses to unclear principles, and "
+        "its mirrored positive chain. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, no interlocutor named"),
+        ("Form", "Two mirrored causal chains, seven links each, run "
+                 "across all six senses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a chain worth tracing link by link"),
+    ],
+    why=(
+        "Pamāda &mdash; negligence &mdash; comes from a root meaning "
+        "to be mad or drunk, and is usually an ethical term; this "
+        "discourse extends it across the entire path. Living with "
+        "the senses unrestrained pollutes the mind on contact, and "
+        "from there a seven-link chain runs downhill: no joy, no "
+        "rapture, no tranquility, suffering, no immersion in "
+        "samādhi, and finally principles (dhammā &mdash; the four "
+        "noble truths, dependent origination, and the like) failing "
+        "to become clear. The same chain, mirrored, runs uphill from "
+        "restraint to clarity. A related discourse (SN 12.23) links "
+        "this same uplifting process to samādhi as a supporting "
+        "condition, already part of this project's own Book II."
+    ),
+    guide=[
+        ("An ethical term extended to the whole path", [
+            "Pamāda's own root sense is being mad or drunk; here it "
+            "names not a lapse in conduct but the entire downhill "
+            "consequence of leaving the senses unrestrained, "
+            "traced link by link to its final result.",
+        ]),
+        ("The downhill chain: negligence", [
+            "Unrestrained eye faculty pollutes the mind on contact "
+            "with sights; a polluted mind has no joy; no joy, no "
+            "rapture; no rapture, no tranquility; no tranquility, "
+            "suffering; suffering, no immersion in samādhi; no "
+            "samādhi, principles remain unclear. The same seven "
+            "links repeat for ear through mind.",
+        ]),
+        ("The uphill chain: diligence", [
+            "Restrained faculties leave the mind unpolluted on "
+            "contact; an unpolluted mind gives rise to joy; joy to "
+            "rapture; rapture to bodily tranquility; tranquility to "
+            "bliss; bliss to immersion in samādhi; samādhi to clear "
+            "principles &mdash; the identical seven links, reversed "
+            "at every step.",
+        ]),
+    ],
+    terms=[
+        ("pamāda", "negligence &mdash; from a root meaning to be "
+                      "mad or drunk, here extended across the "
+                      "entire path rather than confined to ethical "
+                      "lapses"),
+        ("appamāda", "diligence &mdash; the mirrored positive term, "
+                        "this discourse's own second chain"),
+        ("pāmojja&hellip;pīti&hellip;passaddhi", "joy&hellip;"
+             "rapture&hellip;tranquility &mdash; three consecutive "
+             "links in the uphill chain, each a supporting "
+             "condition for the next"),
+        ("samādhi", "immersion &mdash; the chain's own penultimate "
+                      "link, the condition for principles becoming "
+                      "clear"),
+        ("dhammā", "principles &mdash; the four noble truths, "
+                      "dependent origination, and the like, this "
+                      "chain's own final result in both directions"),
+    ],
+    text_intro=("The complete discourse: the downhill chain from "
+        "unrestrained senses to unclear principles, and the "
+        "identical chain reversed. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.97:1.1-1.23"),
+        ("p", "&sect;2", "sn35.97:2.1-2.20"),
+    ],
+    quiz=[
+        {"q": "What is pamāda's own root meaning, per Sujato's note?",
+         "opts": ["To be mad or drunk", "To be lazy", "To be angry", "To be forgetful"],
+         "correct": 0,
+         "expl": "Usually an ethical term; here extended across the entire path."},
+        {"q": "What is the first link in the downhill chain, following an unrestrained faculty?",
+         "opts": ["The mind becomes polluted on contact", "Suffering arises immediately", "Rapture is lost", "Principles become unclear"],
+         "correct": 0,
+         "expl": "Everything else in the seven-link chain follows from this."},
+        {"q": "What is the chain's own final result, in both directions?",
+         "opts": ["Whether principles (dhammā) become clear or remain unclear", "Whether the mendicant is reborn well or poorly", "Whether the senses themselves are destroyed", "Whether joy or suffering predominates"],
+         "correct": 0,
+         "expl": "The four noble truths, dependent origination, and the like."},
+        {"q": "What comes immediately before immersion in samādhi in the uphill chain?",
+         "opts": ["Bliss", "Rapture", "Tranquility", "Joy"],
+         "correct": 0,
+         "expl": "Joy, rapture, bodily tranquility, bliss, then samādhi &mdash; each a condition for the next."},
+        {"q": "What related discourse, already part of this project, links the uphill process to samādhi as a supporting condition?",
+         "opts": ["SN 12.23", "SN 22.5", "SN 12.15", "SN 35.28"],
+         "correct": 0,
+         "expl": "Already translated in this project's own Book II (Nidānavagga)."},
+    ],
+    marginalia=[
+        ("A drunk man's own word", [
+            "pamāda: mad or drunk &mdash;",
+            "extended to the whole path",
+        ]),
+        ("Seven links, downhill", [
+            "polluted, joyless, rapture-less &mdash;",
+            "to unclear principles",
+        ]),
+        ("The same chain, reversed", [
+            "restrained, joyful, tranquil &mdash;",
+            "to clear principles",
+        ]),
+        ("A related chain, already told", [
+            "SN 12.23's own account",
+            "of samādhi as condition",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.97/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.96.html">SN 35.96 &middot; Liable to '
+        "Decline</a> &mdash; the previous discourse.",
+        '<a href="sn-35.98.html">SN 35.98 &middot; Restraint</a> '
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.98 — Saṁvarasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 98, "Saṁvara", "Restraint",
+    vagga="Saḷavagga",
+    meta_title="SN 35.98 — Restraint | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Saṁvarasutta &mdash; restraint and its absence "
+        "defined by response to what is likable, desirable, and "
+        "arousing across the six senses. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, no interlocutor named"),
+        ("Form", "Two mirrored definitions, unrestrained and "
+                 "restrained, run across all six senses"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a compact pair of definitions"),
+    ],
+    why=(
+        "Where SN 35.96 diagnosed decline by response to bad states "
+        "already arisen, this discourse diagnoses restraint by "
+        "response to sense objects themselves &mdash; sights, "
+        "sounds, smells, tastes, touches, and ideas that are "
+        "likable, desirable, agreeable, pleasant, sensual, and "
+        "arousing. Approving, welcoming, and clinging to them marks "
+        "decline; withholding approval marks its absence. The same "
+        "six-adjective description of an attractive object recurs "
+        "elsewhere in this book, naming precisely what restraint "
+        "must hold steady against."
+    ),
+    guide=[
+        ("A companion diagnostic to SN 35.96", [
+            "Where the previous discourse asked how a mendicant "
+            "responds to bad states already arisen, this one asks "
+            "how a mendicant responds to attractive sense objects "
+            "themselves &mdash; a different diagnostic question, "
+            "sharing the same decline/non-decline vocabulary.",
+        ]),
+        ("Six adjectives for an attractive object", [
+            "Likable, desirable, agreeable, pleasant, sensual, and "
+            "arousing &mdash; the same sixfold description applied "
+            "to each of the six sense objects in turn, naming "
+            "exactly what restraint must hold steady against.",
+        ]),
+        ("Unrestrained: approving, welcoming, clinging", [
+            "A mendicant who approves, welcomes, and keeps clinging "
+            "to what is likable and arousing should recognize "
+            "skillful qualities are declining &mdash; the identical "
+            "verdict SN 35.96 attaches to tolerating bad states.",
+        ]),
+        ("Restrained: the same objects, the same response withheld", [
+            "The identical attractive objects may be encountered; "
+            "not approving, not welcoming, not clinging marks "
+            "non-decline. Restraint is not the absence of "
+            "attractive objects but a withheld response to them.",
+        ]),
+    ],
+    terms=[
+        ("saṁvara", "restraint &mdash; this discourse's own title "
+                       "and central term, defined by response rather "
+                       "than by circumstance"),
+        ("piyarūpaṁ sātarūpaṁ", "likable, agreeable &mdash; part of "
+             "the sixfold description of an attractive sense "
+             "object"),
+        ("rajanīya", "arousing &mdash; the final adjective in the "
+                        "sixfold description, naming the pull "
+                        "restraint must resist"),
+        ("sādiyati", "approves &mdash; the first of three verbs "
+                        "(approving, welcoming, clinging) marking "
+                        "the unrestrained response"),
+        ("kusalā dhammā parihāyanti", "skillful qualities are "
+             "declining &mdash; the verdict shared with SN 35.96's "
+             "own diagnostic"),
+    ],
+    text_intro=("The complete discourse: restraint and its absence, "
+        "each defined by response to attractive sense objects "
+        "across all six senses. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.98:1.1-1.13"),
+        ("p", "&sect;2", "sn35.98:2.1-2.11"),
+    ],
+    quiz=[
+        {"q": "What six adjectives describe an attractive sense object in this discourse?",
+         "opts": ["Likable, desirable, agreeable, pleasant, sensual, and arousing", "Impermanent, suffering, not-self, empty, signless, and wishless", "Visible, audible, tangible, and three others", "The discourse gives no such list"],
+         "correct": 0,
+         "expl": "Applied identically to each of the six sense objects in turn."},
+        {"q": "What three verbs mark the unrestrained response to an attractive object?",
+         "opts": ["Approves, welcomes, keeps clinging", "Sees, hears, knows", "Grasps, holds, refuses to release", "Desires, pursues, obtains"],
+         "correct": 0,
+         "expl": "Restraint withholds exactly this threefold response, not the encounter itself."},
+        {"q": "How does this discourse's own diagnostic differ from SN 35.96's?",
+         "opts": ["It asks about response to attractive objects themselves, not to bad states already arisen", "It applies only to monastics, not laypeople", "It concerns the five aggregates rather than the six senses", "There is no meaningful difference"],
+         "correct": 0,
+         "expl": "A companion diagnostic sharing the same decline/non-decline vocabulary."},
+        {"q": "What does this discourse imply restraint actually consists of?",
+         "opts": ["A withheld response to attractive objects, not their absence", "Avoiding all sense contact entirely", "Physical isolation from arousing objects", "A vow never to look at anything pleasant"],
+         "correct": 0,
+         "expl": "The identical attractive objects may be encountered by the restrained and unrestrained alike."},
+        {"q": "What verdict does approving, welcoming, and clinging to an attractive object carry?",
+         "opts": ["Skillful qualities are declining", "Rebirth in a lower realm is certain", "The mendicant has broken a precept", "No verdict is given"],
+         "correct": 0,
+         "expl": "The identical verdict SN 35.96 attaches to tolerating bad states rather than giving them up."},
+    ],
+    marginalia=[
+        ("A different question", [
+            "not bad states arisen &mdash;",
+            "attractive objects themselves",
+        ]),
+        ("Six words for &ldquo;attractive&rdquo;", [
+            "likable through arousing,",
+            "the same set each time",
+        ]),
+        ("Three verbs to withhold", [
+            "approve, welcome, cling &mdash;",
+            "restraint holds them back",
+        ]),
+        ("Not absence, but response", [
+            "the object may still appear &mdash;",
+            "restraint is what happens next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.98/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.97.html">SN 35.97 &middot; One Who Lives '
+        "Negligently</a> &mdash; the previous discourse.",
+        '<a href="sn-35.99.html">SN 35.99 &middot; Immersion</a> '
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.99 — Samādhisutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 99, "Samādhi", "Immersion",
+    vagga="Saḷavagga",
+    meta_title="SN 35.99 — Immersion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Samādhisutta &mdash; developing immersion as the "
+        "condition for truly understanding the impermanence of "
+        "each sense field. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, no interlocutor named"),
+        ("Form", "A brief instruction and its rationale, run across "
+                 "eye and mind as representative sense fields"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a short, direct instruction"),
+    ],
+    why=(
+        "&ldquo;Mendicants, develop immersion&rdquo; opens this "
+        "discourse, followed by its own rationale: a mendicant who "
+        "has immersion truly understands &mdash; specifically, the "
+        "impermanence of the eye, sights, eye consciousness, eye "
+        "contact, and the feeling born of eye contact, run in full "
+        "for the eye and then, by the same chain, for the mind. "
+        "Sujato's own note points to a parallel already published on "
+        "this site, SN 22.5, which opens Book III's own treatment of "
+        "immersion and clear seeing together."
+    ),
+    guide=[
+        ("A four-word instruction, then its rationale", [
+            "&ldquo;Develop immersion&rdquo; is the entire "
+            "instruction; everything else in this short discourse "
+            "explains what develops from it &mdash; true "
+            "understanding, specified precisely as understanding "
+            "impermanence.",
+        ]),
+        ("Five links, twice named", [
+            "The eye, sights, eye consciousness, eye contact, and "
+            "the feeling born of eye contact are each declared "
+            "impermanent in turn; the identical five-link chain "
+            "repeats for the mind, ideas, mind consciousness, mind "
+            "contact, and mind-born feeling, with the four "
+            "intervening senses left to inference.",
+        ]),
+        ("A parallel already on this site", [
+            "Sujato's own note connects this discourse to SN 22.5, "
+            "which opens this project's own treatment (in Book III, "
+            "Khandhavagga) of immersion and clear seeing run "
+            "together &mdash; already published, and worth reading "
+            "alongside this shorter companion.",
+        ]),
+    ],
+    terms=[
+        ("samādhi", "immersion &mdash; this discourse's own single "
+                      "instruction, developed as a condition rather "
+                      "than an end in itself"),
+        ("yathābhūtaṁ pajānāti", "truly understands &mdash; what "
+             "immersion is said to make possible, specified here as "
+             "understanding impermanence"),
+        ("cakkhu&hellip;rūpā&hellip;cakkhuviññāṇaṁ&hellip;"
+         "cakkhusamphasso", "eye&hellip;sights&hellip;eye "
+             "consciousness&hellip;eye contact &mdash; the first "
+             "four links of the five-link chain declared "
+             "impermanent"),
+        ("phassajā vedanā", "the feeling born of contact &mdash; "
+             "the chain's own fifth and final link"),
+        ("anicca", "impermanent &mdash; what true understanding, "
+                      "made possible by immersion, discloses about "
+                      "every link in the chain"),
+    ],
+    text_intro=("The complete discourse: the instruction to develop "
+        "immersion, and its rationale run for the eye and the mind. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.99:1.1-1.15"),
+    ],
+    quiz=[
+        {"q": "What is this discourse's own single instruction?",
+         "opts": ["Develop immersion (samādhi)", "Give up craving", "Practice generosity", "Recite the discourses"],
+         "correct": 0,
+         "expl": "Everything else in the discourse explains what develops from it."},
+        {"q": "What does a mendicant with immersion truly understand, per this discourse?",
+         "opts": ["The impermanence of the eye, sights, eye consciousness, eye contact, and eye-born feeling", "The four noble truths in the abstract", "The biography of past Buddhas", "The rules of monastic discipline"],
+         "correct": 0,
+         "expl": "The same five-link chain repeats for the mind, ideas, mind consciousness, mind contact, and mind-born feeling."},
+        {"q": "How many links make up the chain declared impermanent for each sense?",
+         "opts": ["Five", "Three", "Seven", "Ten"],
+         "correct": 0,
+         "expl": "Faculty, object, consciousness, contact, and the feeling born of contact."},
+        {"q": "What parallel discourse, already published on this site, does Sujato's own note connect this to?",
+         "opts": ["SN 22.5", "SN 12.15", "SN 22.59", "SN 34.55"],
+         "correct": 0,
+         "expl": "Opening this project's own Book III treatment of immersion and clear seeing together."},
+        {"q": "For which two senses does this discourse give the chain explicitly, leaving the rest to inference?",
+         "opts": ["Eye and mind", "Ear and nose", "Tongue and body", "All six are given in full"],
+         "correct": 0,
+         "expl": "The first and last of the six, with ear through body compressed by ellipsis."},
+    ],
+    marginalia=[
+        ("Four words, one instruction", [
+            "&ldquo;develop immersion&rdquo; &mdash;",
+            "everything else explains why",
+        ]),
+        ("Five links, declared impermanent", [
+            "faculty through feeling,",
+            "twice named",
+        ]),
+        ("A companion already told", [
+            "SN 22.5's own opening",
+            "of Book III",
+        ]),
+        ("A short discourse, paired next", [
+            "SN 35.100 gives",
+            "the same chain from retreat",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.99/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.98.html">SN 35.98 &middot; Restraint</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-35.100.html">SN 35.100 &middot; Retreat</a> '
+        "&mdash; the next discourse, the identical rationale from "
+        "solitary meditation.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.100 — Paṭisallānasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 100, "Paṭisallāna", "Retreat",
+    vagga="Saḷavagga",
+    meta_title="SN 35.100 — Retreat | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Paṭisallānasutta &mdash; SN 35.99's own companion, "
+        "the identical rationale run from meditating in retreat "
+        "rather than developing immersion. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, no interlocutor named"),
+        ("Form", "A brief instruction and its rationale, identical "
+                 "in shape to the discourse immediately before it"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a short, direct instruction, paired with the "
+                       "one before it"),
+    ],
+    why=(
+        "This discourse is SN 35.99's own close companion: the "
+        "identical rationale &mdash; true understanding of "
+        "impermanence, running through the eye and its four "
+        "companions, then the mind and its own four &mdash; but "
+        "opened with a different instruction, meditating in retreat "
+        "(paṭisallāna) rather than developing immersion (samādhi). "
+        "Sujato's own note points to SN 22.6 as the parallel, sitting "
+        "beside SN 22.5 just as this discourse sits beside SN 35.99 "
+        "&mdash; the same paired structure recurring across two "
+        "different books of this project."
+    ),
+    guide=[
+        ("A companion discourse, not a repeat", [
+            "Where SN 35.99 opens &ldquo;develop immersion,&rdquo; "
+            "this discourse opens &ldquo;meditate in retreat&rdquo; "
+            "&mdash; a different practice named, but the same "
+            "outcome claimed: true understanding of impermanence.",
+        ]),
+        ("The same five-link chain", [
+            "Eye, sights, eye consciousness, eye contact, and "
+            "eye-born feeling are declared impermanent, exactly as "
+            "in the discourse before this one; the mind's own "
+            "parallel chain follows.",
+        ]),
+        ("A pairing that mirrors Book III's own opening", [
+            "Sujato's own note connects this discourse to SN 22.6, "
+            "which sits immediately beside SN 22.5 (already linked "
+            "from SN 35.99) &mdash; the same paired structure, "
+            "immersion beside retreat, recurring here in Book IV.",
+        ]),
+    ],
+    terms=[
+        ("paṭisallāna", "retreat, seclusion for meditation &mdash; "
+             "this discourse's own instruction, paired with SN "
+             "35.99's samādhi"),
+        ("yathābhūtaṁ pajānāti", "truly understands &mdash; the "
+             "identical outcome claimed for both retreat and "
+             "immersion"),
+        ("cakkhu&hellip;rūpā", "eye&hellip;sights &mdash; the "
+             "chain's own first two links, declared impermanent"),
+        ("cakkhusamphassajā vedanā", "the feeling born of eye "
+             "contact &mdash; the chain's own final link"),
+        ("anicca", "impermanent &mdash; what retreat, no less than "
+                      "immersion, is said to disclose about every "
+                      "link in the chain"),
+    ],
+    text_intro=("The complete discourse: the instruction to "
+        "meditate in retreat, and its rationale run for the eye and "
+        "the mind. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.100:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What instruction opens this discourse, in place of SN 35.99's &ldquo;develop immersion&rdquo;?",
+         "opts": ["Meditate in retreat (paṭisallāna)", "Recite the discourses", "Practice generosity", "Observe the precepts"],
+         "correct": 0,
+         "expl": "A different practice named, the same outcome claimed."},
+        {"q": "What outcome does this discourse claim for meditating in retreat?",
+         "opts": ["True understanding of the impermanence of each sense field", "Immediate rebirth in a heavenly realm", "Freedom from all future illness", "Mastery of the monastic code"],
+         "correct": 0,
+         "expl": "The identical five-link chain SN 35.99 already gave for immersion."},
+        {"q": "What parallel discourse, already published on this site, does Sujato's own note connect this to?",
+         "opts": ["SN 22.6", "SN 22.5", "SN 12.23", "SN 35.28"],
+         "correct": 0,
+         "expl": "Sitting immediately beside SN 22.5, just as this discourse sits beside SN 35.99."},
+        {"q": "How does this discourse's own five-link chain compare to SN 35.99's?",
+         "opts": ["Identical in content, differing only in the opening instruction", "Entirely different targets", "Six links instead of five", "It omits the mind entirely"],
+         "correct": 0,
+         "expl": "Eye, sights, eye consciousness, eye contact, and eye-born feeling, then the mind's own parallel."},
+        {"q": "What pattern does the SN 35.99/SN 35.100 pairing recall from elsewhere in this project?",
+         "opts": ["The SN 22.5/SN 22.6 pairing opening Book III's own treatment of immersion and retreat", "The SN 12.15 fragile-junction pattern", "The SN 22.58&ndash;60 reset pattern", "No comparable pattern exists elsewhere"],
+         "correct": 0,
+         "expl": "The same paired structure recurring across two different books of this project."},
+    ],
+    marginalia=[
+        ("A different door, same room", [
+            "retreat instead of immersion &mdash;",
+            "the same understanding follows",
+        ]),
+        ("The identical chain", [
+            "eye through feeling,",
+            "declared impermanent again",
+        ]),
+        ("A pairing recalled", [
+            "SN 22.5 and SN 22.6 &mdash;",
+            "the same shape, another book",
+        ]),
+        ("Two short discourses, one lesson", [
+            "immersion or retreat &mdash;",
+            "either door opens it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.100/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.99.html">SN 35.99 &middot; Immersion</a> '
+        "&mdash; the previous discourse, this one's own close "
+        "companion.",
+        '<a href="sn-35.101.html">SN 35.101 &middot; It&rsquo;s Not '
+        "Yours (1st)</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.101 — Paṭhamanatumhākasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 101, "Paṭhamanatumhāka", "It's Not Yours (1st)",
+    vagga="Saḷavagga",
+    meta_title="SN 35.101 — It's Not Yours (1st) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Paṭhamanatumhākasutta &mdash; the six sense "
+        "fields given up as not belonging to self, with the same "
+        "Jeta's Grove simile already met applied to the five "
+        "aggregates. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, in Jeta's Grove"),
+        ("Speakers", "The Buddha alone; mendicants answering briefly "
+                      "when asked"),
+        ("Form", "The give-up formula run across all six sense "
+                 "fields, illustrated with a simile and reapplied"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a familiar formula in a new application"),
+    ],
+    why=(
+        "This project has already met this exact teaching once "
+        "before: SN 22.33, in Book III's own Natumhākavagga, "
+        "applies the identical &ldquo;give up what's not "
+        "yours&rdquo; formula and the identical Jeta's Grove simile "
+        "&mdash; a person carrying off or burning the grove's own "
+        "grass, sticks, branches, and leaves, which no one there "
+        "claims as self or belonging to self &mdash; to the five "
+        "aggregates. Here the same formula and the same simile are "
+        "reapplied to the six sense fields instead: eye, sights, "
+        "eye consciousness, eye contact, and eye-born feeling, run "
+        "through all six senses, none of it yours, all of it fit to "
+        "give up for one's own welfare and happiness."
+    ),
+    guide=[
+        ("A formula and simile already met once", [
+            "SN 22.33, already published in this project's own "
+            "Book III, gives the identical &ldquo;give up what's "
+            "not yours&rdquo; instruction and the identical Jeta's "
+            "Grove simile applied to the five aggregates. This "
+            "discourse reapplies both, unchanged, to the six sense "
+            "fields.",
+        ]),
+        ("Give it up: welfare and happiness", [
+            "The eye, sights, eye consciousness, eye contact, and "
+            "the feeling born of eye contact are each declared not "
+            "yours in turn, with giving each up said to serve one's "
+            "own welfare and happiness &mdash; the identical chain "
+            "then repeated for the mind.",
+        ]),
+        ("The grass, sticks, branches, and leaves", [
+            "Suppose someone carried off, burned, or otherwise did "
+            "as they liked with the grass, sticks, branches, and "
+            "leaves in Jeta's Grove itself: would the mendicants "
+            "listening think themselves carried off or burned? No "
+            "&mdash; because none of it is self or belonging to "
+            "self, exactly as SN 22.33 already established for the "
+            "aggregates.",
+        ]),
+        ("The same conclusion, reapplied", [
+            "&ldquo;In the same way,&rdquo; the discourse closes, "
+            "the eye and all that depends on it are not "
+            "yours &mdash; the simile's own conclusion carried over "
+            "directly from aggregates to sense fields, closing where "
+            "the discourse opened.",
+        ]),
+    ],
+    terms=[
+        ("na tumhākaṁ", "&ldquo;not yours&rdquo; &mdash; this "
+             "discourse's own title and central claim, applied to "
+             "each of the six sense fields in turn"),
+        ("hitāya sukhāya", "for welfare and happiness &mdash; what "
+             "giving up each sense field is said to serve"),
+        ("tiṇakaṭṭhasākhāpalāsa", "grass, sticks, branches, and "
+             "leaves &mdash; the Jeta's Grove simile's own objects, "
+             "identical to SN 22.33's own wording"),
+        ("na attā na attaniya", "neither self nor belonging to "
+             "self &mdash; the simile's own verdict, carried over "
+             "unchanged from aggregates to sense fields"),
+        ("phassajā vedanā", "the feeling born of contact &mdash; "
+             "the chain's own final link, given up along with "
+             "faculty, object, and consciousness"),
+    ],
+    text_intro=("The complete discourse: the give-up formula run "
+        "across all six sense fields, the Jeta's Grove simile, and "
+        "its reapplication. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.101:1.1-3.15"),
+        ("p", "&sect;2", "sn35.101:4.1-7.1"),
+        ("p", "&sect;3", "sn35.101:8.1-8.9"),
+    ],
+    quiz=[
+        {"q": "What earlier discourse in this project already gives this identical formula and simile, applied to the five aggregates?",
+         "opts": ["SN 22.33", "SN 22.59", "SN 12.15", "SN 34.55"],
+         "correct": 0,
+         "expl": "Already published in this project's own Book III, Natumhākavagga."},
+        {"q": "What does this discourse say giving up each sense field serves?",
+         "opts": ["One's own welfare and happiness", "Rebirth in a heavenly realm", "Release from a specific vow", "Nothing &mdash; no reason is given"],
+         "correct": 0,
+         "expl": "Hitāya sukhāya &mdash; the same phrase repeated after every sense field named."},
+        {"q": "What does the Jeta's Grove simile ask the listening mendicants to imagine?",
+         "opts": ["Someone carrying off or burning the grove's own grass, sticks, branches, and leaves", "A fire destroying the entire monastery", "A thief stealing their almsbowls", "A flood sweeping through the grove"],
+         "correct": 0,
+         "expl": "None of it is self or belonging to self &mdash; so its loss provokes no claim of ownership."},
+        {"q": "What is the simile's own verdict, applied to the six sense fields?",
+         "opts": ["Neither self nor belonging to self", "Partially self, partially not", "Self only for the enlightened", "The simile does not reach a verdict"],
+         "correct": 0,
+         "expl": "Carried over unchanged from SN 22.33's own application to the five aggregates."},
+        {"q": "What does the discourse immediately following (SN 35.102) do with this same teaching?",
+         "opts": ["Repeats it in a single compressed paragraph, without the simile", "Extends it to a seventh sense field", "Contradicts this discourse's own conclusion", "Applies it to a named individual for the first time"],
+         "correct": 0,
+         "expl": "The same shape as SN 22.34's own compressed companion to SN 22.33."},
+    ],
+    marginalia=[
+        ("A teaching met once before", [
+            "SN 22.33's own formula &mdash;",
+            "aggregates, now sense fields",
+        ]),
+        ("Give it up for your own good", [
+            "hitāya sukhāya &mdash;",
+            "welfare and happiness",
+        ]),
+        ("Grass, sticks, branches, leaves", [
+            "no one claims them as self &mdash;",
+            "the grove's own simile",
+        ]),
+        ("The same verdict, carried over", [
+            "neither self nor belonging &mdash;",
+            "unchanged from aggregates",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.101/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.100.html">SN 35.100 &middot; Retreat</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-35.102.html">SN 35.102 &middot; It&rsquo;s Not '
+        "Yours (2nd)</a> &mdash; the next discourse, this one's own "
+        "compressed companion.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.102 — Dutiyanatumhākasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 102, "Dutiyanatumhāka", "It's Not Yours (2nd)",
+    vagga="Saḷavagga",
+    meta_title="SN 35.102 — It's Not Yours (2nd) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Dutiyanatumhākasutta &mdash; SN 35.101's own "
+        "compressed companion, the identical give-up formula "
+        "without the simile. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, no interlocutor named"),
+        ("Form", "The give-up formula alone, without the simile or "
+                 "narrative frame of the discourse just before it"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the shortest form of a formula already "
+                       "met"),
+    ],
+    why=(
+        "This discourse is SN 35.101's own compressed twin, exactly "
+        "as SN 22.34 already stood beside SN 22.33 in this "
+        "project's own Book III: the identical give-up formula, run "
+        "across the same six sense fields, with the Jeta's Grove "
+        "simile and its narrative frame dropped entirely. Where SN "
+        "22.34 closes a pair opening Natumhākavagga's own fourth "
+        "vagga, this discourse closes the identical pair's "
+        "reapplication here in Saḷavagga, one book later."
+    ),
+    guide=[
+        ("A formula stripped to its bones", [
+            "Everything the discourse just before this one narrates "
+            "&mdash; the simile, the mendicants' own reply, the "
+            "&ldquo;in the same way&rdquo; reapplication &mdash; is "
+            "gone. What remains is the bare instruction: give up "
+            "what's not yours, run through the six sense fields.",
+        ]),
+        ("The identical companion pattern as SN 22.33/34", [
+            "This project has already met this exact shape once: SN "
+            "22.34 stands as SN 22.33's own compressed companion in "
+            "Book III's Natumhākavagga. This discourse repeats the "
+            "same relationship to SN 35.101, one book later, for the "
+            "six sense fields instead of the five aggregates.",
+        ]),
+    ],
+    terms=[
+        ("na tumhākaṁ", "&ldquo;not yours&rdquo; &mdash; the same "
+             "central claim as the discourse just before this one, "
+             "here without its simile"),
+        ("hitāya sukhāya", "for welfare and happiness &mdash; the "
+             "same phrase repeated after each sense field, unchanged "
+             "from SN 35.101"),
+        ("saḷāyatana", "the six sense fields &mdash; this "
+             "discourse's own target, run through in the same order "
+             "as its companion"),
+        ("Natumhākavagga", "the fourth vagga of this project's own "
+             "Book III, where SN 22.33 and SN 22.34 already "
+             "established this exact companion pattern for the five "
+             "aggregates"),
+        ("saṅkhittena", "in brief &mdash; the register this "
+             "discourse adopts throughout, matching SN 22.34's own "
+             "compression"),
+    ],
+    text_intro=("The complete discourse: the give-up formula run "
+        "across all six sense fields, without the simile of the "
+        "discourse before it. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.102:1.1-1.20"),
+    ],
+    quiz=[
+        {"q": "What does this discourse drop, compared to SN 35.101 just before it?",
+         "opts": ["The Jeta's Grove simile and its narrative frame", "The mind, from the six sense fields", "The phrase &ldquo;for welfare and happiness&rdquo;", "Nothing &mdash; the two discourses are identical"],
+         "correct": 0,
+         "expl": "What remains is the bare give-up formula alone."},
+        {"q": "What earlier pair in this project already established this exact companion pattern?",
+         "opts": ["SN 22.33 and SN 22.34", "SN 12.14 and SN 12.15", "SN 22.58 and SN 22.59", "SN 35.27 and SN 35.28"],
+         "correct": 0,
+         "expl": "In Book III's own Natumhākavagga, applied to the five aggregates rather than the six sense fields."},
+        {"q": "What target does this discourse's own give-up formula run through?",
+         "opts": ["The six sense fields", "The five aggregates", "The four elements", "The three characteristics"],
+         "correct": 0,
+         "expl": "The same target as SN 35.101, its own uncompressed companion."},
+        {"q": "What phrase repeats after every sense field named, unchanged from SN 35.101?",
+         "opts": ["&ldquo;For welfare and happiness&rdquo;", "&ldquo;This is not self&rdquo;", "&ldquo;As it truly is&rdquo;", "&ldquo;In the seen, just the seen&rdquo;"],
+         "correct": 0,
+         "expl": "Hitāya sukhāya &mdash; the reason given for giving each field up."},
+        {"q": "What discourse follows next, closing this vagga and this book's own second paṇṇāsaka?",
+         "opts": ["SN 35.103, About Uddaka", "SN 35.104, opening Yogakkhemivagga", "SN 35.93, closing Channavagga", "There is no further discourse in this book"],
+         "correct": 0,
+         "expl": "Saḷavagga's own closing discourse, carrying more than one landmark at once."},
+    ],
+    marginalia=[
+        ("Stripped to the bones", [
+            "no simile, no narrative &mdash;",
+            "just the formula itself",
+        ]),
+        ("A pattern met once already", [
+            "SN 22.33 and 34's own shape,",
+            "repeated one book later",
+        ]),
+        ("Six fields, one phrase", [
+            "hitāya sukhāya,",
+            "after each in turn",
+        ]),
+        ("This vagga's own close, next", [
+            "SN 35.103 waits &mdash;",
+            "more than one ending at once",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.102/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.101.html">SN 35.101 &middot; It&rsquo;s Not '
+        "Yours (1st)</a> &mdash; the previous discourse, this one's "
+        "own uncompressed companion.",
+        '<a href="sn-35.103.html">SN 35.103 &middot; About '
+        "Uddaka</a> &mdash; the next discourse, closing this vagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.103 — Udakasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 103, "Udaka", "About Uddaka",
+    vagga="Saḷavagga",
+    meta_title="SN 35.103 — About Uddaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Udakasutta &mdash; the Buddha reclaiming Uddaka "
+        "Rāmaputta's own boastful verse for a mendicant who has "
+        "actually dug out craving's root, closing Saḷavagga and "
+        "this book's own second paṇṇāsaka. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, quoting and then correcting "
+                      "Uddaka Rāmaputta's own words"),
+        ("Form", "A quoted verse, a critique of its speaker, a "
+                 "corrected version, and three definitions run "
+                 "against the six fields of contact"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "rewards reading against MN 26's own account "
+                       "of Uddaka"),
+    ],
+    why=(
+        "Uddaka son of Rāma was the second of the Bodhisatta's two "
+        "teachers before his awakening, according to MN 26 &mdash; "
+        "a Brahmanical sage whose own enigmatic verse, quoted here, "
+        "boasts of being a knowledge master, a conqueror of all, and "
+        "one who has dug out the undug root of the &ldquo;boil&rdquo; "
+        "(craving's own hiding place in the body). The Buddha's "
+        "verdict is blunt: Uddaka was none of these things, only "
+        "claimed to be &mdash; and then reclaims the identical verse, "
+        "unaltered, as something a mendicant might rightly say, "
+        "defining each of its three claims against the six fields of "
+        "contact's own origin, disappearance, gratification, "
+        "drawback, and escape. The discourse closes this vagga, this "
+        "book's own second paṇṇāsaka (fifty), and &mdash; its own "
+        "untranslated closing colophon confirms &mdash; a further, "
+        "larger landmark this project has not yet named: "
+        "&ldquo;Paṭhamasatakaṁ,&rdquo; the first hundred."
+    ),
+    guide=[
+        ("The Bodhisatta's second teacher", [
+            "MN 26 names Uddaka Rāmaputta as the second sage under "
+            "whom the Bodhisatta studied before his own awakening, "
+            "after Āḷāra Kālāma. No teaching attributed to Uddaka "
+            "survives in the Vedic corpus itself, but Sujato's own "
+            "note traces striking parallels in the Jain "
+            "Isibhāsiyāiṁ's own twenty-third chapter, attributed to "
+            "a certain Rāmaputta likely the same figure &mdash; rare "
+            "textual contact between the early Buddhist and Jain "
+            "collections.",
+        ]),
+        ("A boast, quoted and refused", [
+            "Uddaka's own verse claims three things at once: "
+            "knowledge mastery (vedagū), conquest of all "
+            "(sabbajī), and the undug root of the &ldquo;boil&rdquo; "
+            "dug out. The Buddha states plainly that Uddaka was none "
+            "of these &mdash; he only said so.",
+        ]),
+        ("The same verse, reclaimed", [
+            "Rather than discard Uddaka's words, the Buddha "
+            "corrects only their tense and repeats them "
+            "unaltered otherwise as something a mendicant might "
+            "rightly say &mdash; the boast becomes true, not by "
+            "changing its wording, but by changing who has earned "
+            "the right to speak it.",
+        ]),
+        ("Three claims, defined against six fields", [
+            "Knowledge mastery, conquest of all, and digging out the "
+            "boil's root are each defined in turn: a knowledge "
+            "master truly understands the six fields of contact's "
+            "own origin, disappearance, gratification, drawback, "
+            "and escape; a conqueror of all is freed by not grasping "
+            "after understanding the same five; and the "
+            "&ldquo;boil&rdquo; itself is named as this body, its "
+            "root as craving, dug out only when craving is cut off "
+            "at the root and made incapable of arising again.",
+        ]),
+        ("More than one ending at once", [
+            "This discourse's own untranslated closing colophon "
+            "names Saḷavagga as the fifth vagga of this book's own "
+            "second paṇṇāsaka, and a meta-uddāna names all five "
+            "vaggas of that fifty (Avijjā, Migajāla, Gilāna, Channa, "
+            "Saḷa) in turn &mdash; but a further line follows, "
+            "naming a landmark this project has not yet met: "
+            "&ldquo;Paṭhamasatakaṁ,&rdquo; the first hundred, left "
+            "as untranslated as the rest and not claimed here as "
+            "more than what the Pali root itself states.",
+        ]),
+    ],
+    terms=[
+        ("vedagū", "knowledge master &mdash; Uddaka's own first "
+                      "false claim, redefined as truly understanding "
+                      "the six fields of contact's own five-part "
+                      "cycle"),
+        ("sabbajī", "conqueror of all &mdash; Uddaka's own second "
+                       "claim, redefined as freedom reached by not "
+                       "grasping after that same understanding"),
+        ("gaṇḍa&hellip;gaṇḍamūla", "boil&hellip;boil's root "
+             "&mdash; this body itself, and craving as what must be "
+             "dug out at its root"),
+        ("assādaṁ ādīnavaṁ nissaraṇaṁ", "gratification, drawback, "
+             "and escape &mdash; two of the five terms (with origin "
+             "and disappearance) the discourse defines each claim "
+             "against"),
+        ("Paṭhamasatakaṁ", "&ldquo;the first hundred&rdquo; "
+             "&mdash; this discourse's own final, untranslated line, "
+             "a landmark beyond the paṇṇāsaka this project has not "
+             "previously named"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "colophon (the vagga-, paṇṇāsaka-, and satakaṁ-level "
+        "landmarks, all left untranslated in the Pali root and "
+        "described above rather than quoted): Uddaka's boast "
+        "quoted and refused, reclaimed, and its three claims "
+        "defined against the six fields of contact. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.103:1.1-1.11"),
+        ("p", "&sect;2", "sn35.103:2.1-2.3"),
+        ("p", "&sect;3", "sn35.103:3.1-3.3"),
+        ("p", "&sect;4", "sn35.103:4.1-4.5"),
+        ("p", "&sect;5", "sn35.103:5.1-5.11"),
+    ],
+    quiz=[
+        {"q": "Who was Uddaka son of Rāma, according to MN 26?",
+         "opts": ["The second of the Bodhisatta's two teachers before his own awakening", "A rival ascetic the Buddha never met", "One of the Buddha's own first five disciples", "A king who sponsored the early saṅgha"],
+         "correct": 0,
+         "expl": "After Āḷāra Kālāma, per the Bodhisatta's own account of his pre-awakening studentship."},
+        {"q": "What does the Buddha say about Uddaka's own three boasts &mdash; knowledge master, conqueror of all, and one who dug out the boil's root?",
+         "opts": ["Uddaka was none of these things, only claimed to be", "All three claims were true", "The claims cannot be evaluated", "Uddaka never actually made these claims"],
+         "correct": 0,
+         "expl": "The Buddha's verdict is stated plainly before the verse is corrected and reclaimed."},
+        {"q": "What does the Buddha do with Uddaka's own verse, rather than discard it?",
+         "opts": ["Repeats it essentially unaltered as something a mendicant might rightly say", "Rewrites every line with new wording", "Forbids mendicants from ever quoting it", "Attributes it instead to Āḷāra Kālāma"],
+         "correct": 0,
+         "expl": "The boast becomes true by who has earned the right to speak it, not by changing its wording."},
+        {"q": "What is &ldquo;the boil&rdquo; and its &ldquo;root,&rdquo; as this discourse defines them?",
+         "opts": ["This body, and craving as its root", "A physical ailment, and its medical cause", "Ignorance, and wrong view as its root", "The six sense fields, and contact as their root"],
+         "correct": 0,
+         "expl": "Dug out only when craving is cut off at the root, made incapable of arising again."},
+        {"q": "What landmark does this discourse's own untranslated closing colophon name, beyond Saḷavagga and this book's second paṇṇāsaka?",
+         "opts": ["&ldquo;Paṭhamasatakaṁ&rdquo; &mdash; the first hundred", "The close of the entire Saḷāyatanasaṃyutta", "The close of the entire Saṃyutta Nikāya", "No further landmark is named"],
+         "correct": 0,
+         "expl": "Left as untranslated as the rest of the colophon, and not claimed here as more than the Pali root itself states."},
+    ],
+    marginalia=[
+        ("The Bodhisatta's second teacher", [
+            "Uddaka Rāmaputta &mdash;",
+            "named already at MN 26",
+        ]),
+        ("A boast, refused then reclaimed", [
+            "not by new words &mdash;",
+            "by who has earned them",
+        ]),
+        ("The boil and its root", [
+            "this body, and craving &mdash;",
+            "dug out, not merely named",
+        ]),
+        ("More than one ending", [
+            "vagga, paṇṇāsaka, and &mdash;",
+            "&ldquo;the first hundred,&rdquo; untranslated",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.103/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.102.html">SN 35.102 &middot; It&rsquo;s Not '
+        "Yours (2nd)</a> &mdash; the previous discourse.",
+        '<a href="sn-36.6.html">SN 36.6 &middot; An Arrow</a> '
+        "&mdash; already published on this site, standing ahead of "
+        "this book's own next vagga, Yogakkhemivagga (SN "
+        "35.104&ndash;113), not yet built.",
+    ],
+)
