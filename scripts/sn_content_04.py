@@ -35107,3 +35107,1765 @@ page(
         "Aṭṭhasatapariyāyavagga (SN 36.21&ndash;31), not yet built.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 36.21 — Sīvakasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 21, "Sīvaka", "With Sīvaka",
+    vagga="Aṭṭhasatapariyāyavagga",
+    meta_title="SN 36.21 &mdash; With Sīvaka | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sīvakasutta &mdash; opening Aṭṭhasatapariyāyavagga with "
+        "the Buddha's own rejection of the view that every feeling "
+        "comes from past deeds, naming seven other causes first. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, the Bamboo Grove, the squirrels' "
+                     "feeding ground"),
+        ("Speakers", "The wanderer Moḷiyasīvaka and the Buddha"),
+        ("Form", "A question about a rival doctrine, an eightfold "
+                 "list of causes, a conversion, and a closing verse"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a clear list with real consequences for how "
+                       "illness and misfortune are understood"),
+    ],
+    why=(
+        "This discourse opens Aṭṭhasatapariyāyavagga (&ldquo;the "
+        "chapter on the exposition of the hundred and eight,&rdquo; "
+        "named for SN 36.22 just ahead) with a wanderer's report of a "
+        "rival view: some ascetics and brahmins hold that everything "
+        "a person experiences &mdash; pleasant, painful, or neutral "
+        "&mdash; is entirely because of past deeds. The Buddha "
+        "rejects this outright, not by denying karma any role but by "
+        "naming seven other causes of feeling first &mdash; bile, "
+        "phlegm, and wind disorders, their conjunction, change in "
+        "weather, not taking care of oneself, and overexertion "
+        "&mdash; each confirmed by personal experience and by what is "
+        "generally deemed true, before finally naming karma as an "
+        "eighth cause among these, not the sole cause of all."
+    ),
+    guide=[
+        ("A rival doctrine named precisely before being addressed",
+         [
+            "The wanderer's report is exact: &ldquo;everything this "
+            "individual person experiences... is because of past "
+            "deeds&rdquo; (sabbaṁ taṁ pubbekatahetu) &mdash; a strong, "
+            "totalizing claim the Buddha addresses directly rather "
+            "than reframing into something easier to dismiss.",
+        ]),
+        ("Seven ordinary causes named before karma at all", [
+            "Bile, phlegm, and wind disorders; their conjunction; "
+            "change in weather; carelessness; and overexertion are "
+            "each introduced with the identical formula &mdash; "
+            "&ldquo;you can know this from your own personal "
+            "experience, and it is generally deemed to be true&rdquo; "
+            "&mdash; grounding the refutation in ordinary, checkable "
+            "observation rather than doctrinal authority alone.",
+        ]),
+        ("Karma named as one cause among eight, not erased", [
+            "The Buddha doesn't deny that some feelings result from "
+            "past deeds (kammavipākaja); he lists this as the eighth "
+            "and final cause, given the identical evidentiary "
+            "treatment as the other seven. The error he names isn't "
+            "believing karma causes some feelings &mdash; it's "
+            "claiming karma causes all of them.",
+        ]),
+        ("Going beyond what's known and what's agreed", [
+            "The precise charge against the all-karma view is that "
+            "it &ldquo;goes beyond personal experience and beyond "
+            "what is generally deemed to be true&rdquo; (atidhāvati) "
+            "&mdash; overreaching past the evidence itself, not merely "
+            "holding an unfashionable opinion. The wanderer's own "
+            "conversion at the discourse's close suggests this "
+            "evidentiary appeal, not any appeal to authority, is what "
+            "persuades him.",
+        ]),
+    ],
+    terms=[
+        ("sabbaṁ taṁ pubbekatahetu", "&ldquo;all of it is because of "
+             "past deeds&rdquo; &mdash; the rival doctrine the "
+             "discourse addresses and rejects as an overreach"),
+        ("pittasamuṭṭhāna / semhasamuṭṭhāna / vātasamuṭṭhāna", "bile, "
+             "phlegm, and wind disorders &mdash; the first three of "
+             "the eight named causes of feeling"),
+        ("sannipātika", "&ldquo;their conjunction&rdquo; &mdash; the "
+             "fourth cause, the combined effect of the three bodily "
+             "humors"),
+        ("kammavipākaja", "&ldquo;the result of past deeds&rdquo; "
+             "&mdash; the eighth and final cause named, given the "
+             "same evidentiary treatment as the other seven, not "
+             "erased but not sole either"),
+        ("atidhāvati", "&ldquo;overreaches, goes beyond&rdquo; "
+             "&mdash; the discourse's own precise charge against the "
+             "all-karma view: exceeding personal experience and "
+             "common agreement, not merely holding an unpopular view"),
+    ],
+    text_intro=("The complete discourse: Sīvaka's question, the "
+        "eightfold list of causes, his conversion, and the closing "
+        "verse. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.21:1.1-1.6"),
+        ("p", "&sect;2", "sn36.21:2.1-2.7"),
+        ("p", "&sect;3", "sn36.21:3.1-3.15"),
+        ("p", "&sect;4", "sn36.21:4.1-4.3"),
+        ("p", "&sect;5", "sn36.21:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What rival doctrine does the wanderer Moḷiyasīvaka report to the Buddha?",
+         "opts": ["That everything a person experiences is entirely because of past deeds", "That feeling does not exist at all", "That only painful feeling has any cause", "That karma has no effect on feeling whatsoever"],
+         "correct": 0,
+         "expl": "Sabbaṁ taṁ pubbekatahetu — a strong, totalizing claim addressed directly."},
+        {"q": "How many causes of feeling does the Buddha name in total, including karma?",
+         "opts": ["Eight", "Three", "One — karma alone", "Twelve"],
+         "correct": 0,
+         "expl": "Bile, phlegm, wind, their conjunction, weather, carelessness, overexertion, and karma-result — the closing verse confirms karma as \"the eighth.\""},
+        {"q": "Does the Buddha deny that karma causes any feeling at all?",
+         "opts": ["No — he includes karma as the eighth cause, with the same evidentiary treatment as the other seven", "Yes — he denies karma has any role in feeling", "The discourse does not address karma at all", "He claims karma causes feeling only in animals, not humans"],
+         "correct": 0,
+         "expl": "The error targeted is claiming karma causes ALL feeling, not that it causes some."},
+        {"q": "What precise charge does the Buddha bring against the all-karma view?",
+         "opts": ["That it overreaches, going beyond personal experience and what is generally deemed true", "That it is simply an unfashionable opinion", "That it was invented by a specific rival teacher by name", "That it contradicts a specific verse of scripture"],
+         "correct": 0,
+         "expl": "Atidhāvati — exceeding the evidence itself, an evidentiary charge rather than an appeal to authority."},
+        {"q": "How does Moḷiyasīvaka respond to the Buddha's explanation?",
+         "opts": ["He converts, declaring himself a lay follower for life", "He rejects the explanation and leaves unconvinced", "He asks a further, unrelated question", "The discourse does not record his response"],
+         "correct": 0,
+         "expl": "\"From this day forth, may the worthy Gotama remember me as a lay follower who has gone for refuge for life.\""},
+    ],
+    marginalia=[
+        ("A strong claim, addressed directly", [
+            "\"all of it, past deeds\" —",
+            "not softened before being answered",
+        ]),
+        ("Seven ordinary causes, named first", [
+            "bile, phlegm, wind, weather, carelessness —",
+            "grounded in what can be checked",
+        ]),
+        ("Karma included, not erased", [
+            "the eighth cause, not the only one —",
+            "the same evidentiary weight as the rest",
+        ]),
+        ("An overreach, not just an opinion", [
+            "beyond experience, beyond agreement —",
+            "an evidentiary charge, not a doctrinal one",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.21/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.20.html">SN 36.20 &middot; A Mendicant</a> '
+        "&mdash; already published on this site, closing the "
+        "previous vagga, Rahogatavagga.",
+        '<a href="sn-36.22.html">SN 36.22 &middot; The Explanation '
+        "of the Hundred and Eight</a> &mdash; the next discourse, "
+        "giving this vagga its name.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.22 — Aṭṭhasatasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 22, "Aṭṭhasata", "The Explanation of the Hundred and Eight",
+    vagga="Aṭṭhasatapariyāyavagga",
+    meta_title="SN 36.22 &mdash; The Explanation of the Hundred and "
+                "Eight | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aṭṭhasatasutta &mdash; the arithmetic behind SN 36.19's "
+        "own open-ended list of feeling-counts, working from two "
+        "feelings up to a hundred and eight through six clean "
+        "doublings and multiplications. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A named teaching (the &ldquo;exposition on the "
+                 "hundred and eight&rdquo;) unpacked through seven "
+                 "successive definitions"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "clean arithmetic, worth tracking term by "
+                       "term"),
+    ],
+    why=(
+        "This discourse gives the vagga its name and finally supplies "
+        "the exact mechanism behind SN 36.19's own open-ended list "
+        "&mdash; &ldquo;two, three, five, six, eighteen, thirty-six, "
+        "or a hundred and eight feelings&rdquo; &mdash; that this "
+        "project noted at the time without full explanation. Each "
+        "count is defined in turn: two (physical and mental), three "
+        "(pleasant, painful, neutral), five (the faculties of "
+        "pleasure, pain, happiness, sadness, and equanimity), six "
+        "(feeling born of contact at each of the six senses), "
+        "eighteen (six preoccupations each with happiness, sadness, "
+        "and equanimity), thirty-six (each of those eighteen split "
+        "into a domestic and a renunciate version), and finally a "
+        "hundred and eight (those thirty-six multiplied across past, "
+        "future, and present)."
+    ),
+    guide=[
+        ("An arithmetic answer to an earlier open question", [
+            "SN 36.19 named seven possible feeling-counts without "
+            "showing how the larger ones were built; this discourse "
+            "supplies the missing derivation, confirming each number "
+            "was never arbitrary but the product of a specific, "
+            "traceable expansion.",
+        ]),
+        ("From two to eighteen: three genuinely new distinctions",
+         [
+            "Two (physical/mental) and three (pleasant/painful/"
+            "neutral) are already familiar from this saṃyutta's own "
+            "opening pages. Five introduces feeling-faculties "
+            "(indriya) that split pleasant and painful into bodily "
+            "and mental versions (pleasure/happiness, pain/sadness) "
+            "plus equanimity; six locates feeling at each of the six "
+            "sense doors; eighteen multiplies happiness, sadness, and "
+            "equanimity by six &ldquo;preoccupations&rdquo; "
+            "(upavicāra) apiece &mdash; the discourse's own first "
+            "genuinely new structural idea.",
+        ]),
+        ("From eighteen to a hundred and eight: two clean "
+         "multiplications", [
+            "Thirty-six comes from splitting each of the eighteen "
+            "preoccupations into a domestic (gehasita, tied to "
+            "ordinary lay life) and a renunciate (nekkhammasita, tied "
+            "to spiritual practice) version &mdash; doubling eighteen. "
+            "A hundred and eight comes from tripling those thirty-six "
+            "across past, future, and present &mdash; the same "
+            "temporal tripling this project has already met applied "
+            "to other objects.",
+        ]),
+        ("A single concrete answer replacing what looked like "
+         "flexibility", [
+            "Where SN 36.19's own resolution treated the "
+            "multiple valid counts as different pariyāyas without "
+            "detailing them, this discourse shows every number after "
+            "three is built by strict, nameable multiplication rather "
+            "than by loose or arbitrary re-grouping &mdash; the "
+            "flexibility of &ldquo;different manners of speaking&rdquo; "
+            "turns out to rest on precise arithmetic underneath.",
+        ]),
+    ],
+    terms=[
+        ("aṭṭhasatapariyāyo dhammapariyāyo", "&ldquo;the exposition "
+             "of the teaching on the hundred and eight&rdquo; "
+             "&mdash; the discourse's own name, giving this vagga its "
+             "own title"),
+        ("kāyikā ca cetasikā ca", "&ldquo;physical and mental&rdquo; "
+             "&mdash; the twofold feeling, this saṃyutta's own "
+             "simplest possible count"),
+        ("sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ, "
+             "domanassindriyaṁ, upekkhindriyaṁ", "the five feeling "
+             "faculties &mdash; bodily pleasure, bodily pain, mental "
+             "happiness, mental sadness, and equanimity"),
+        ("cha somanassūpavicārā, cha domanassūpavicārā, cha "
+             "upekkhūpavicārā", "eighteen &ldquo;preoccupations"
+             "&rdquo; &mdash; six each of happiness, sadness, and "
+             "equanimity, the first genuinely new multiplication in "
+             "the sequence"),
+        ("gehasita / nekkhammasita", "&ldquo;domestic&rdquo; and "
+             "&ldquo;renunciate&rdquo; &mdash; the split that doubles "
+             "eighteen into thirty-six, tied respectively to "
+             "ordinary lay life and spiritual practice"),
+    ],
+    text_intro=("The complete discourse: the named teaching and its "
+        "seven successive definitions, from two feelings up to a "
+        "hundred and eight. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.22:1.1-1.4"),
+        ("p", "&sect;2", "sn36.22:2.1-2.23"),
+    ],
+    quiz=[
+        {"q": "What earlier discourse in this project's coverage does this discourse finally explain in full?",
+         "opts": ["SN 36.19, which named the same open-ended list of feeling-counts without deriving them", "SN 36.1, this saṃyutta's own opening discourse", "SN 35.238, the vipers simile", "This discourse introduces the feeling-counts for the first time"],
+         "correct": 0,
+         "expl": "SN 36.19 named \"two, three, five, six, eighteen, thirty-six, or a hundred and eight feelings\" without showing the derivation."},
+        {"q": "How does the discourse arrive at eighteen feelings?",
+         "opts": ["Six \"preoccupations\" each with happiness, sadness, and equanimity", "By simply tripling the number six", "Eighteen is defined independently, unrelated to the six feelings", "By adding twelve new feelings to the original six"],
+         "correct": 0,
+         "expl": "Cha somanassūpavicārā, cha domanassūpavicārā, cha upekkhūpavicārā — the first genuinely new structural idea in the sequence."},
+        {"q": "How does the discourse arrive at thirty-six feelings from eighteen?",
+         "opts": ["By splitting each of the eighteen into a domestic (gehasita) and a renunciate (nekkhammasita) version", "By adding eighteen new, unrelated feelings", "By tripling eighteen across past, future, and present", "Thirty-six is not derived from eighteen in this discourse"],
+         "correct": 0,
+         "expl": "Doubling eighteen through the domestic/renunciate distinction."},
+        {"q": "How does the discourse arrive at a hundred and eight feelings from thirty-six?",
+         "opts": ["By tripling thirty-six across past, future, and present", "By doubling thirty-six a second time", "By adding seventy-two new feelings", "A hundred and eight is left undefined in this discourse"],
+         "correct": 0,
+         "expl": "Atītā chattiṁsa vedanā, anāgatā chattiṁsa vedanā, paccuppannā chattiṁsa vedanā — the same temporal tripling met applied to other objects elsewhere."},
+        {"q": "What does this discourse reveal about the apparent flexibility of SN 36.19's own multiple valid feeling-counts?",
+         "opts": ["Each number after three is built by strict, nameable multiplication rather than loose or arbitrary re-grouping", "The numbers were arbitrary and never meant to be derived precisely", "Only the number three is actually valid; the others are later corruptions", "The counts contradict each other and cannot be reconciled"],
+         "correct": 0,
+         "expl": "Precise arithmetic underlies what looked like open-ended flexibility."},
+    ],
+    marginalia=[
+        ("An open question, finally closed", [
+            "SN 36.19's list, now derived —",
+            "every number traced to its source",
+        ]),
+        ("Eighteen: the first real multiplication", [
+            "six preoccupations, times three —",
+            "happiness, sadness, equanimity",
+        ]),
+        ("Thirty-six: domestic and renunciate", [
+            "each of eighteen, split in two —",
+            "ordinary life and spiritual practice",
+        ]),
+        ("A hundred and eight: three points in time", [
+            "past, future, present, times thirty-six —",
+            "arithmetic, not arbitrary flexibility",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.22/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.21.html">SN 36.21 &middot; With Sīvaka</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-36.19.html">SN 36.19 &middot; With '
+        "Pañcakaṅga</a> &mdash; already published on this site, in "
+        "the previous vagga, whose own open-ended list of feeling-"
+        "counts this discourse now fully derives.",
+        '<a href="sn-36.23.html">SN 36.23 &middot; With a '
+        "Mendicant</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.23 — Aññatarabhikkhusutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 23, "Aññatarabhikkhu", "With a Mendicant",
+    vagga="Aṭṭhasatapariyāyavagga",
+    meta_title="SN 36.23 &mdash; With a Mendicant | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aññatarabhikkhusutta &mdash; an expanded eightfold "
+        "question on feeling, now naming craving as feeling's own "
+        "arising practice alongside its origin, cessation, and the "
+        "familiar gratification/drawback/escape triad. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated beyond the mendicant's approach to "
+                     "the Buddha"),
+        ("Speakers", "An unnamed mendicant and the Buddha"),
+        ("Form", "An eightfold catechism question, answered point by "
+                 "point"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "an expanded version of a catechism already "
+                       "met in the previous vagga, worth comparing "
+                       "carefully"),
+    ],
+    why=(
+        "This discourse expands the sevenfold catechism this project "
+        "already met four times in Rahogatavagga (SN 36.15&ndash;18) "
+        "into eight parts: what is feeling, its origin, the practice "
+        "leading to its origin, its cessation, the practice leading "
+        "to its cessation, and its gratification, drawback, and "
+        "escape. The new fourth item &mdash; what practice leads to "
+        "feeling's own arising &mdash; receives a direct, single-word "
+        "answer: craving (taṇhā), added between origin (contact) and "
+        "cessation without disturbing the familiar formula for the "
+        "other seven parts."
+    ),
+    guide=[
+        ("A catechism grown by exactly one question", [
+            "Comparing this discourse directly against SN 36.15's "
+            "own sevenfold version shows precisely one addition: "
+            "&ldquo;what's the practice that leads to the origin of "
+            "feeling?&rdquo; inserted right after the origin question "
+            "itself, with every other element of the catechism "
+            "unchanged.",
+        ]),
+        ("Craving named as feeling's own arising practice", [
+            "Where contact (phassa) is feeling's origin, craving "
+            "(taṇhā) is named as what actively leads to that origin "
+            "&mdash; a distinction between the mere condition for "
+            "feeling to arise and the active force that drives its "
+            "arising forward, paralleling the second and third noble "
+            "truths' own relationship between suffering and its "
+            "cause.",
+        ]),
+        ("The eightfold path retained as the mirror-image answer",
+         [
+            "Just as craving answers the newly added question about "
+            "feeling's arising, the noble eightfold path continues "
+            "to answer the cessation question &mdash; the two "
+            "practices standing in careful symmetry, one leading "
+            "toward feeling's continuation, the other toward its "
+            "ending.",
+        ]),
+        ("A structural link this project can now name precisely",
+         [
+            "This discourse makes explicit a link the sevenfold "
+            "catechism in Rahogatavagga left implicit: feeling doesn't "
+            "just happen to arise from contact; it is actively driven "
+            "onward by craving, giving the whole catechism a fuller "
+            "shape mirroring dependent origination's own arising and "
+            "ceasing sequence.",
+        ]),
+    ],
+    terms=[
+        ("kā vedanā, ko vedanāsamudayo, kā "
+             "vedanāsamudayagāminī paṭipadā", "&ldquo;what is "
+             "feeling? what's the origin of feeling? what's the "
+             "practice leading to the origin of feeling?&rdquo; "
+             "&mdash; the discourse's own newly expanded opening "
+             "three-part question"),
+        ("vedanāsamudayagāminī paṭipadā", "&ldquo;the practice that "
+             "leads to the origin of feeling&rdquo; &mdash; the new "
+             "fourth item, absent from the sevenfold catechism met "
+             "earlier in this saṃyutta"),
+        ("taṇhā", "craving &mdash; the discourse's own single-word "
+             "answer to the newly added question"),
+        ("phassasamudayā vedanāsamudayo", "&ldquo;feeling originates "
+             "from contact&rdquo; &mdash; retained unchanged from the "
+             "earlier sevenfold catechism"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path "
+             "&mdash; retained as the answer to feeling's own "
+             "cessation, standing in symmetry with craving as the "
+             "answer to its arising"),
+    ],
+    text_intro=("The complete discourse: the expanded eightfold "
+        "question and the Buddha's own answer. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.23:1.1-1.4"),
+        ("p", "&sect;2", "sn36.23:2.1-2.11"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's catechism compare to the sevenfold version met earlier in this saṃyutta (SN 36.15)?",
+         "opts": ["It adds exactly one new question: what practice leads to feeling's own origin", "It removes several questions from the earlier version", "It is entirely unrelated in structure", "It asks the identical seven questions with no change"],
+         "correct": 0,
+         "expl": "One addition, inserted right after the origin question, with every other element unchanged."},
+        {"q": "What single-word answer does the Buddha give to the newly added question?",
+         "opts": ["Craving (taṇhā)", "Contact (phassa)", "Ignorance (avijjā)", "The five aggregates"],
+         "correct": 0,
+         "expl": "Distinguishing the mere condition for feeling (contact) from the active force driving its arising (craving)."},
+        {"q": "What noble truths pattern does the craving/origin distinction parallel?",
+         "opts": ["The relationship between suffering and its cause in the second and third noble truths", "The four jhānas in sequence", "The five aggregates and their own arising", "This discourse has no parallel to the noble truths"],
+         "correct": 0,
+         "expl": "A distinction between the condition for arising and the active force driving it forward."},
+        {"q": "What continues to answer the cessation question in this expanded catechism?",
+         "opts": ["The noble eightfold path, standing in symmetry with craving as the arising-practice answer", "Craving, used for both arising and cessation", "No practice is named for cessation in this discourse", "A completely new practice not met in earlier discourses"],
+         "correct": 0,
+         "expl": "One practice drives feeling's continuation, the other drives its ending — a careful symmetry."},
+        {"q": "What does this discourse make explicit that the earlier sevenfold catechism left implicit?",
+         "opts": ["That feeling is actively driven onward by craving, not merely arising passively from contact", "That feeling has no cause at all", "That contact and craving are the same thing", "That the eightfold path causes feeling to arise"],
+         "correct": 0,
+         "expl": "Giving the catechism a fuller shape mirroring dependent origination's own arising and ceasing sequence."},
+    ],
+    marginalia=[
+        ("One question added, precisely", [
+            "the practice leading to origin —",
+            "everything else exactly as before",
+        ]),
+        ("Craving named as the driver", [
+            "contact is the condition —",
+            "craving is what pushes it onward",
+        ]),
+        ("A symmetry of two practices", [
+            "craving drives feeling forward —",
+            "the eightfold path drives it to an end",
+        ]),
+        ("A link made explicit at last", [
+            "not passive arising, but driven —",
+            "dependent origination's own shape",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.23/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.22.html">SN 36.22 &middot; The Explanation '
+        "of the Hundred and Eight</a> &mdash; the previous discourse.",
+        '<a href="sn-36.15.html">SN 36.15 &middot; With Ānanda '
+        "(1st)</a> &mdash; already published on this site, in the "
+        "previous vagga, whose own sevenfold catechism this "
+        "discourse expands by one question.",
+        '<a href="sn-36.24.html">SN 36.24 &middot; Before</a> '
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.24 — Pubbasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 24, "Pubba", "Before",
+    vagga="Aṭṭhasatapariyāyavagga",
+    meta_title="SN 36.24 &mdash; Before | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pubbasutta &mdash; the Buddha's own first-person "
+        "recollection of asking SN 36.23's own eightfold question "
+        "before his awakening, still unenlightened but intent on "
+        "awakening. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, recounting his own "
+                      "pre-awakening reflection"),
+        ("Form", "A first-person retrospective, repeating SN 36.23's "
+                 "own eightfold question and answer"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "familiar content, notable chiefly for who is "
+                       "speaking and when"),
+    ],
+    why=(
+        "This discourse retells SN 36.23's own eightfold question and "
+        "answer as the Buddha's personal history rather than a "
+        "teaching given to someone else: &ldquo;before my "
+        "awakening&mdash;when I was still unawakened but intent on "
+        "awakening&mdash;I thought&rdquo; the same eightfold question "
+        "about feeling, and arrived at the same answer. The discourse "
+        "places the very catechism this project has now met three "
+        "times (in Rahogatavagga and twice in this vagga) at the "
+        "origin point of the Buddha's own path to awakening, rather "
+        "than treating it only as doctrine taught afterward."
+    ),
+    guide=[
+        ("The same eightfold question, now autobiographical", [
+            "Every element of SN 36.23's own catechism recurs "
+            "unchanged &mdash; feeling, its origin, the practice "
+            "leading to that origin, cessation, the practice leading "
+            "to cessation, and gratification, drawback, and escape "
+            "&mdash; but framed here as the Buddha's own private "
+            "reflection rather than an answer given to a questioner.",
+        ]),
+        ("A precise self-description before enlightenment", [
+            "&ldquo;Still unawakened but intent on awakening&rdquo; "
+            "(anabhisambuddho bodhisattova) is a careful, specific "
+            "self-description &mdash; not yet awakened, but already "
+            "oriented toward it, situating this reflection at a "
+            "definite point along the path rather than at its very "
+            "beginning or its completion.",
+        ]),
+        ("A teaching's origin placed before its transmission", [
+            "By presenting this exact catechism as something the "
+            "Buddha himself worked out before teaching anyone else, "
+            "the discourse reframes SN 36.15&ndash;18 and SN 36.23's "
+            "own versions of the same question not as invented "
+            "teaching devices but as a rediscovery, passed on rather "
+            "than newly composed for an audience.",
+        ]),
+        ("A single discourse anticipating the next", [
+            "This discourse's own closing content sets up SN 36.25 "
+            "directly: the next discourse will apply the classic "
+            "&ldquo;vision, knowledge, wisdom, realization, and "
+            "light&rdquo; formula to each of these same eight items, "
+            "describing the moment of insight this discourse only "
+            "narrates as having occurred.",
+        ]),
+    ],
+    terms=[
+        ("pubbeva sambodhā anabhisambuddho bodhisattova", "&ldquo;"
+             "before my awakening, when I was still unawakened but "
+             "intent on awakening&rdquo; &mdash; the Buddha's own "
+             "precise self-description, giving this discourse its "
+             "title"),
+        ("evaṁ me ahosi", "&ldquo;then it occurred to me&rdquo; "
+             "&mdash; marking the shift from the Buddha's own question "
+             "to his own realized answer"),
+        ("kā vedanā, ko vedanāsamudayo", "&ldquo;what is feeling? "
+             "what's the origin of feeling?&rdquo; &mdash; the same "
+             "eightfold question met at SN 36.23, now recalled as "
+             "the Buddha's own pre-awakening reflection"),
+        ("taṇhā vedanāsamudayagāminī paṭipadā", "craving as the "
+             "practice leading to feeling's origin &mdash; recalled "
+             "unchanged from SN 36.23's own answer"),
+        ("vedanāya nissaraṇaṁ", "&ldquo;the escape from feeling&rdquo; "
+             "&mdash; the final item in the recalled catechism, "
+             "closing the discourse"),
+    ],
+    text_intro=("The complete discourse: the Buddha's own "
+        "pre-awakening reflection and recalled answer. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.24:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "How does this discourse frame the eightfold question already met at SN 36.23?",
+         "opts": ["As the Buddha's own private reflection before his awakening, not a teaching given to someone else", "As a question asked by a stranger the Buddha had never met", "As a question this discourse explicitly rejects", "As an entirely different, unrelated question"],
+         "correct": 0,
+         "expl": "Retold in the first person, as personal history rather than doctrine taught afterward."},
+        {"q": "How does the Buddha describe himself at the time of this reflection?",
+         "opts": ["Still unawakened but intent on awakening (anabhisambuddho bodhisattova)", "Already fully awakened", "A young child with no spiritual aspiration", "A follower of a specific named teacher"],
+         "correct": 0,
+         "expl": "A careful, specific self-description situating the reflection at a definite point along the path."},
+        {"q": "What does presenting this catechism as the Buddha's own pre-awakening discovery suggest about the teaching itself?",
+         "opts": ["That it is a rediscovery passed on to others, not a teaching device invented for an audience", "That the teaching was actually created by a later disciple", "That the teaching only applies to the Buddha himself, not to others", "That the catechism was abandoned after the Buddha's awakening"],
+         "correct": 0,
+         "expl": "Reframing SN 36.15-18 and SN 36.23's own versions as transmission of something already found."},
+        {"q": "What discourse does this one directly anticipate?",
+         "opts": ["SN 36.25, which applies the \"vision, knowledge, wisdom, realization, and light\" formula to the same eight items", "SN 36.1, this saṃyutta's own opening discourse", "SN 35.238, the vipers simile in the previous saṃyutta", "No later discourse is anticipated by this one"],
+         "correct": 0,
+         "expl": "SN 36.25 describes the moment of insight this discourse only narrates as having occurred."},
+        {"q": "What single word answers the question of what practice leads to feeling's own origin, recalled unchanged from SN 36.23?",
+         "opts": ["Craving (taṇhā)", "Contact (phassa)", "The eightfold path", "Mindfulness"],
+         "correct": 0,
+         "expl": "The same answer given in SN 36.23, now recalled as the Buddha's own earlier realization."},
+    ],
+    marginalia=[
+        ("The same question, now personal", [
+            "not taught to another —",
+            "the Buddha's own private reflection",
+        ]),
+        ("A precise moment named", [
+            "unawakened, but intent on it —",
+            "a definite point along the path",
+        ]),
+        ("Rediscovery, not invention", [
+            "found before it was ever taught —",
+            "passed on rather than newly composed",
+        ]),
+        ("Setting up the next discourse", [
+            "the realization only narrated here —",
+            "SN 36.25 will describe it arising",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.24/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.23.html">SN 36.23 &middot; With a '
+        "Mendicant</a> &mdash; the previous discourse, with the "
+        "identical catechism given to someone else.",
+        '<a href="sn-36.25.html">SN 36.25 &middot; Knowledge</a> '
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.25 — Ñāṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 25, "Ñāṇa", "Knowledge",
+    vagga="Aṭṭhasatapariyāyavagga",
+    meta_title="SN 36.25 &mdash; Knowledge | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ñāṇasutta &mdash; the classic \"vision, knowledge, "
+        "wisdom, realization, and light\" formula applied to each of "
+        "SN 36.23-24's own eight items, describing the moment of "
+        "insight rather than its content. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, describing his own arising "
+                      "insight"),
+        ("Form", "A single formula repeated eight times, once for "
+                 "each item of the catechism"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "terse and formulaic, worth comparing to its "
+                       "famous counterpart at Dhammacakkappavattana"),
+    ],
+    why=(
+        "This discourse takes SN 36.23 and SN 36.24's own eightfold "
+        "catechism and, rather than repeating the content of each "
+        "answer, describes the arising of the insight itself: "
+        "&ldquo;'These are the feelings.' Such was the vision, "
+        "knowledge, wisdom, realization, and light that arose in me "
+        "regarding teachings not learned before from another&rdquo; "
+        "&mdash; the identical five-part formula this project "
+        "recognizes from the Buddha's own first sermon on the four "
+        "noble truths, here applied eight times over to feeling's own "
+        "identity, origin, arising-practice, cessation, cessation-"
+        "practice, gratification, drawback, and escape."
+    ),
+    guide=[
+        ("Naming the insight, not restating its content", [
+            "Unlike SN 36.23 and SN 36.24, which both state what "
+            "feeling is, what causes it, and so on, this discourse "
+            "doesn't restate the content at all &mdash; each item is "
+            "referred to only as &ldquo;'these are the feelings'&rdquo; "
+            "or &ldquo;'this is the origin of feeling'&rdquo; in "
+            "quotation, with the formula's own focus entirely on the "
+            "fact and quality of the realization.",
+        ]),
+        ("A formula shared with the Buddha's own first sermon", [
+            "&ldquo;Vision, knowledge, wisdom, realization, and "
+            "light&rdquo; (cakkhuṁ... ñāṇaṁ... paññā... vijjā... "
+            "āloko) is the identical fivefold description the "
+            "tradition uses for the Buddha's own realization of the "
+            "four noble truths &mdash; applied here to feeling's own "
+            "eightfold catechism, extending the same mode of "
+            "knowing to a different subject.",
+        ]),
+        ("Teachings not learned from another", [
+            "The formula's own closing qualifier &mdash; "
+            "&ldquo;regarding teachings not learned before from "
+            "another&rdquo; (pubbe ananussutesu dhammesu) &mdash; "
+            "marks this as original insight rather than received "
+            "doctrine, consistent with SN 36.24's own framing of this "
+            "catechism as something worked out before the Buddha's "
+            "awakening rather than taught to him.",
+        ]),
+        ("Eight repetitions, one formula, no variation", [
+            "Every one of the eight items &mdash; feeling itself, its "
+            "origin, the practice to its origin, its cessation, the "
+            "practice to its cessation, and its gratification, "
+            "drawback, and escape &mdash; receives the identical "
+            "formula with only the subject clause changed, closing "
+            "this three-discourse sequence (SN 36.23&ndash;25) with "
+            "its most compressed and formulaic member.",
+        ]),
+    ],
+    terms=[
+        ("cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā "
+             "udapādi, āloko udapādi", "&ldquo;vision, knowledge, "
+             "wisdom, realization, and light arose&rdquo; &mdash; the "
+             "discourse's own fivefold formula, shared with the "
+             "Buddha's own account of realizing the four noble truths"),
+        ("pubbe ananussutesu dhammesu", "&ldquo;regarding teachings "
+             "not learned before from another&rdquo; &mdash; the "
+             "formula's own closing qualifier, marking this as "
+             "original insight"),
+        ("‘imā vedanā’ti", "&ldquo;'these are the feelings'&rdquo; "
+             "&mdash; the first item's own quoted content, stated but "
+             "not elaborated on"),
+        ("‘ayaṁ vedanānissaraṇan’ti", "&ldquo;'this is the escape "
+             "from feeling'&rdquo; &mdash; the eighth and final "
+             "item's own quoted content, closing the sequence"),
+        ("aṭṭhamaṁ vedanāsatakaṁ", "the discourse's own implicit "
+             "eightfold structure &mdash; the same eight items met at "
+             "SN 36.23 and SN 36.24, now each given the identical "
+             "insight-formula"),
+    ],
+    text_intro=("The complete discourse: the fivefold insight "
+        "formula applied to each of the eight items in turn. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.25:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What does this discourse do differently from SN 36.23 and SN 36.24?",
+         "opts": ["It describes the arising of the insight itself rather than restating what feeling, its origin, and so on actually are", "It denies that feeling has an origin at all", "It introduces an entirely new set of eight items", "It contradicts the answers given in the previous two discourses"],
+         "correct": 0,
+         "expl": "Each item is only quoted (\"'these are the feelings'\"), with the formula's focus on the fact of realization."},
+        {"q": "What famous formula does this discourse apply to each of the eight items?",
+         "opts": ["\"Vision, knowledge, wisdom, realization, and light\" — the same formula used for the Buddha's own realization of the four noble truths", "The four noble truths themselves, restated directly", "The noble eightfold path's own eight factors", "A formula unique to this discourse, unrelated to anything else"],
+         "correct": 0,
+         "expl": "Cakkhuṁ, ñāṇaṁ, paññā, vijjā, āloko — extending the same mode of knowing to feeling's own catechism."},
+        {"q": "What does the formula's own closing qualifier, \"regarding teachings not learned before from another,\" mark?",
+         "opts": ["That this is original insight, not received doctrine", "That the Buddha learned this from a specific named teacher", "That the teaching is false or unreliable", "That the formula applies only to laypeople"],
+         "correct": 0,
+         "expl": "Consistent with SN 36.24's own framing of this catechism as pre-awakening self-discovery."},
+        {"q": "How many times does the fivefold formula repeat in this discourse?",
+         "opts": ["Eight times, once for each item of the catechism", "Only once, for feeling as a whole", "Four times, matching the four noble truths", "Twelve times"],
+         "correct": 0,
+         "expl": "Feeling itself, its origin, the practice to its origin, cessation, the practice to cessation, and gratification, drawback, and escape."},
+        {"q": "How does this discourse close the three-discourse sequence begun at SN 36.23?",
+         "opts": ["As its most compressed and formulaic member, naming the insight without restating its content", "By expanding the catechism with new items not met before", "By contradicting SN 36.23 and SN 36.24's own answers", "This discourse is unrelated to SN 36.23-24"],
+         "correct": 0,
+         "expl": "Terse and formulaic, closing out the sequence on the fact and quality of realization itself."},
+    ],
+    marginalia=[
+        ("The fact of insight, not its content", [
+            "\"these are the feelings\" — quoted, not explained —",
+            "the formula's own focus is the arising itself",
+        ]),
+        ("A formula shared with the four noble truths", [
+            "vision, knowledge, wisdom, light —",
+            "the same mode of knowing, a new subject",
+        ]),
+        ("Original, not received", [
+            "\"not learned before from another\" —",
+            "self-discovery, not inherited doctrine",
+        ]),
+        ("Eight repetitions, no variation", [
+            "the identical formula, eight times over —",
+            "the sequence's most compressed member",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.25/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.24.html">SN 36.24 &middot; Before</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-36.26.html">SN 36.26 &middot; With Several '
+        "Mendicants</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.26 — Sambahulabhikkhusutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 26, "Sambahulabhikkhu", "With Several Mendicants",
+    vagga="Aṭṭhasatapariyāyavagga",
+    meta_title="SN 36.26 &mdash; With Several Mendicants | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sambahulabhikkhusutta &mdash; SN 36.23's own expanded "
+        "eightfold catechism asked by a group of mendicants, closing "
+        "the three-discourse sequence on feeling's arising practice. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated beyond the mendicants' approach to "
+                     "the Buddha"),
+        ("Speakers", "Several unnamed mendicants and the Buddha"),
+        ("Form", "The same eightfold catechism as SN 36.23, asked "
+                 "by a group, given in full"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "familiar content, confirming a pattern this "
+                       "saṃyutta has now used twice"),
+    ],
+    why=(
+        "This discourse gives SN 36.23's own expanded eightfold "
+        "catechism &mdash; feeling, its origin, the practice leading "
+        "to that origin (craving), cessation, the practice leading to "
+        "cessation (the eightfold path), and gratification, drawback, "
+        "and escape &mdash; to a group of several mendicants together, "
+        "rather than to a single unnamed individual. This mirrors "
+        "exactly the pattern this saṃyutta already used for the "
+        "sevenfold version of the same catechism in Rahogatavagga (SN "
+        "36.15&ndash;18): an individual question followed, further "
+        "along, by the identical question asked collectively."
+    ),
+    guide=[
+        ("A now-familiar pattern, confirmed a second time", [
+            "Rahogatavagga cycled its own sevenfold catechism through "
+            "an individual (Ānanda), that individual reversed, and a "
+            "group; this vagga's own eightfold version has so far "
+            "given the question to an individual mendicant (SN "
+            "36.23) and, now, a group &mdash; the same underlying "
+            "structural habit recurring at a different scale.",
+        ]),
+        ("No deference, unlike some earlier group exchanges", [
+            "Unlike SN 36.18's own mendicants, who deferred with "
+            "&ldquo;our teachings are rooted in the Buddha&rdquo; "
+            "before their question was answered, this discourse's "
+            "several mendicants ask directly and receive a direct "
+            "answer, matching SN 36.17's own more direct group "
+            "exchange rather than SN 36.18's more deferential one.",
+        ]),
+        ("The full eightfold answer restated, not compressed", [
+            "Every element of the expanded catechism is given "
+            "again in complete form: contact as origin, craving as "
+            "arising-practice, the eightfold path as cessation-"
+            "practice, and the full gratification/drawback/escape "
+            "triad &mdash; no peyyāla marker shortens this exchange "
+            "the way SN 36.16 shortened its own equivalent.",
+        ]),
+        ("A discourse that quietly closes a structural sequence", [
+            "With this discourse, the eightfold catechism has now "
+            "been given to an individual mendicant and to a group, "
+            "recalled as the Buddha's own pre-awakening reflection, "
+            "and described through the insight-arising formula "
+            "&mdash; SN 36.23 through SN 36.26 forming a complete, "
+            "if quieter, structural echo of Rahogatavagga's own "
+            "four-discourse catechism cycle.",
+        ]),
+    ],
+    terms=[
+        ("sambahulā bhikkhū", "&ldquo;several mendicants&rdquo; "
+             "&mdash; this discourse's own questioners, matching the "
+             "same phrase already met at SN 36.17"),
+        ("taṇhā vedanāsamudayagāminī paṭipadā", "craving as the "
+             "practice leading to feeling's origin &mdash; restated "
+             "here in full, unchanged from SN 36.23"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path "
+             "&mdash; restated as the practice leading to feeling's "
+             "own cessation"),
+        ("assādo... ādīnavo... nissaraṇaṁ", "gratification, "
+             "drawback, and escape &mdash; the closing triad, given "
+             "in full rather than compressed"),
+        ("dasamaṁ", "&ldquo;tenth&rdquo; &mdash; this discourse's "
+             "own untranslated closing marker, its position within "
+             "Aṭṭhasatapariyāyavagga"),
+    ],
+    text_intro=("The complete discourse: the expanded eightfold "
+        "question asked by several mendicants, and the Buddha's own "
+        "full answer. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.26:1.1-1.11"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's questioner configuration compare to SN 36.23's?",
+         "opts": ["A group of several mendicants, rather than a single unnamed individual", "The identical single unnamed mendicant", "Venerable Ānanda by name", "The Buddha himself, with no mendicant asking"],
+         "correct": 0,
+         "expl": "Mirroring the individual-then-group pattern already used for the sevenfold catechism in Rahogatavagga."},
+        {"q": "How does this discourse's exchange compare to SN 36.18's own group exchange?",
+         "opts": ["No deferring formula is used; the mendicants ask directly and receive a direct answer", "The mendicants defer with \"our teachings are rooted in the Buddha,\" exactly as in SN 36.18", "No question is asked at all in this discourse", "The mendicants refuse to accept the Buddha's answer"],
+         "correct": 0,
+         "expl": "Matching SN 36.17's more direct group exchange rather than SN 36.18's deferential one."},
+        {"q": "How does bilara-data handle the Buddha's own answer in this discourse?",
+         "opts": ["It gives the full eightfold answer again, with no peyyāla compression", "It compresses the answer with a peyyāla marker", "It omits the answer entirely", "It gives a shortened three-part answer only"],
+         "correct": 0,
+         "expl": "Unlike SN 36.16's own compressed equivalent, this discourse restates every element in complete form."},
+        {"q": "What sequence of discourses does this one help complete?",
+         "opts": ["SN 36.23 through SN 36.26, giving the eightfold catechism to an individual, then recalling it as pre-awakening reflection, describing its insight-arising, and giving it to a group", "A sequence beginning at SN 36.1 and ending here", "No meaningful sequence; this discourse stands alone", "A sequence of exactly two discourses, SN 36.25 and SN 36.26 only"],
+         "correct": 0,
+         "expl": "A quieter structural echo of Rahogatavagga's own four-discourse catechism cycle."},
+        {"q": "What single word answers what practice leads to feeling's own arising, restated here from SN 36.23?",
+         "opts": ["Craving (taṇhā)", "Contact (phassa)", "The five aggregates", "Ignorance"],
+         "correct": 0,
+         "expl": "Unchanged from SN 36.23's own answer to the same expanded catechism."},
+    ],
+    marginalia=[
+        ("A pattern confirmed again", [
+            "individual, then a group —",
+            "the same habit, a different scale",
+        ]),
+        ("No deference this time", [
+            "asked directly, answered directly —",
+            "unlike SN 36.18's own exchange",
+        ]),
+        ("The full answer, not compressed", [
+            "craving, the path, the closing triad —",
+            "every element restated in full",
+        ]),
+        ("A quiet sequence, now complete", [
+            "individual, pre-awakening, insight, group —",
+            "four discourses echoing Rahogatavagga's own cycle",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.26/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.25.html">SN 36.25 &middot; Knowledge</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-36.27.html">SN 36.27 &middot; Ascetics and '
+        "Brahmins (1st)</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.27 — Paṭhamasamaṇabrāhmaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 27, "Paṭhamasamaṇabrāhmaṇa", "Ascetics and Brahmins (1st)",
+    vagga="Aṭṭhasatapariyāyavagga",
+    meta_title="SN 36.27 &mdash; Ascetics and Brahmins (1st) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasamaṇabrāhmaṇasutta &mdash; a strict test for "
+        "who counts as a true ascetic or brahmin, measured entirely "
+        "by understanding feeling's own gratification, drawback, and "
+        "escape. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A single criterion applied as a strict either/or "
+                 "test"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a plain claim with real teeth"),
+    ],
+    why=(
+        "This discourse opens a three-part series (SN 36.27&ndash;29) "
+        "testing what makes someone a genuine ascetic or brahmin, "
+        "each part using a different-sized slice of the feeling "
+        "catechism as its criterion. This first version is strict and "
+        "narrow: ascetics and brahmins who don't truly understand "
+        "feeling's gratification, drawback, and escape are not deemed "
+        "true ascetics or brahmins at all, however else they may "
+        "present themselves &mdash; while those who do understand "
+        "these three things are said to have realized the very goal "
+        "of ascetic or brahmin life with their own insight."
+    ),
+    guide=[
+        ("A title claimed by many, tested by one specific criterion",
+         [
+            "The discourse doesn't dispute anyone's right to call "
+            "themselves an ascetic or brahmin by external "
+            "appearance or self-identification; it applies a single "
+            "internal test &mdash; understanding feeling's own "
+            "gratification, drawback, and escape &mdash; and denies "
+            "the title outright to anyone who fails it.",
+        ]),
+        ("Three items, not the full catechism", [
+            "This first version of the series uses only the closing "
+            "three items of the fuller catechisms met elsewhere in "
+            "this saṃyutta (gratification, drawback, escape), "
+            "omitting feeling's own identity, origin, and cessation "
+            "entirely &mdash; the narrowest possible slice that "
+            "still makes a complete, testable claim.",
+        ]),
+        ("Realizing the goal with one's own insight, not by report",
+         [
+            "Those who pass the test are described as having "
+            "&ldquo;realized the goal of life as an ascetic or "
+            "brahmin&rdquo; and living &ldquo;having realized it with "
+            "their own insight&rdquo; (sāmaṁ), a standard of "
+            "first-hand, personal verification rather than "
+            "second-hand acceptance of doctrine.",
+        ]),
+        ("The first of a deliberately shrinking series", [
+            "This discourse sets up the fullest of the three "
+            "criteria in the series; SN 36.28 will use a five-item "
+            "version and SN 36.29 a four-item version built from "
+            "different elements again, together forming a set that "
+            "tests the same underlying claim through varied, "
+            "progressively different slices of the same catechism.",
+        ]),
+    ],
+    terms=[
+        ("samaṇā vā brāhmaṇā vā", "&ldquo;ascetics and "
+             "brahmins&rdquo; &mdash; the discourse's own subject, a "
+             "title the discourse tests rather than simply accepts"),
+        ("assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nappajānanti",
+             "&ldquo;don't truly understand [feeling's] "
+             "gratification, drawback, and escape&rdquo; &mdash; the "
+             "disqualifying condition"),
+        ("na... samaṇesu vā samaṇasammataṁ brāhmaṇesu vā "
+             "brāhmaṇasammataṁ", "&ldquo;I don't deem them as true "
+             "ascetics and brahmins&rdquo; &mdash; the discourse's "
+             "own direct denial of the title"),
+        ("sāmaṁ sacchikatvā", "&ldquo;having realized it with their "
+             "own insight&rdquo; &mdash; the standard of first-hand "
+             "verification required of those who pass the test"),
+        ("sāmaññatthaṁ vā brahmaññatthaṁ vā", "&ldquo;the goal of "
+             "life as an ascetic or brahmin&rdquo; &mdash; what "
+             "passing the test is said to accomplish"),
+    ],
+    text_intro=("The complete discourse: the threefold criterion and "
+        "its either/or application. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.27:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What single criterion does this discourse use to test whether someone is a true ascetic or brahmin?",
+         "opts": ["Understanding feeling's own gratification, drawback, and escape", "External appearance and self-identification alone", "Length of time spent in ascetic practice", "Approval from other recognized ascetics"],
+         "correct": 0,
+         "expl": "An internal test applied regardless of how someone presents themselves outwardly."},
+        {"q": "How many items from the fuller feeling-catechism does this discourse's version use?",
+         "opts": ["Three — gratification, drawback, and escape only", "All eight items of the expanded catechism", "Only one item, feeling's identity alone", "Five items"],
+         "correct": 0,
+         "expl": "The narrowest possible slice of the catechism that still makes a complete, testable claim."},
+        {"q": "What standard is required of those who pass this discourse's test?",
+         "opts": ["Realization with their own first-hand insight (sāmaṁ), not second-hand acceptance of doctrine", "Simply believing what they have been told by a teacher", "Public recognition from a religious authority", "No particular standard is specified"],
+         "correct": 0,
+         "expl": "Sāmaṁ sacchikatvā — personal verification, not received belief."},
+        {"q": "What happens to those who fail this discourse's test?",
+         "opts": ["They are denied the title of true ascetic or brahmin outright, however else they present themselves", "They are given a probationary period to improve", "The discourse does not specify any consequence", "They are only mildly criticized but still granted the title"],
+         "correct": 0,
+         "expl": "A direct denial: \"I don't deem them as true ascetics and brahmins.\""},
+        {"q": "What series does this discourse begin?",
+         "opts": ["A three-part series (SN 36.27-29) testing the same claim through progressively different slices of the feeling catechism", "A series that has no further installments", "A series unrelated to feeling entirely", "A two-part series ending at SN 36.28"],
+         "correct": 0,
+         "expl": "SN 36.28 uses five items and SN 36.29 uses four, built from different elements again."},
+    ],
+    marginalia=[
+        ("A title tested, not assumed", [
+            "appearance settles nothing —",
+            "one internal criterion decides",
+        ]),
+        ("Three items, the narrowest slice", [
+            "gratification, drawback, escape —",
+            "identity and origin left out entirely",
+        ]),
+        ("First-hand, not received", [
+            "\"with their own insight\" —",
+            "personal verification, not report",
+        ]),
+        ("The first of three shrinking tests", [
+            "three items here, five and four ahead —",
+            "the same claim, different slices",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.27/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.26.html">SN 36.26 &middot; With Several '
+        "Mendicants</a> &mdash; the previous discourse.",
+        '<a href="sn-36.28.html">SN 36.28 &middot; Ascetics and '
+        "Brahmins (2nd)</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.28 — Dutiyasamaṇabrāhmaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 28, "Dutiyasamaṇabrāhmaṇa", "Ascetics and Brahmins (2nd)",
+    vagga="Aṭṭhasatapariyāyavagga",
+    meta_title="SN 36.28 &mdash; Ascetics and Brahmins (2nd) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasamaṇabrāhmaṇasutta &mdash; the same test for a "
+        "true ascetic or brahmin, widened to five items by adding "
+        "feeling's own origin and disappearance. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "The same either/or test as SN 36.27, widened to "
+                 "five criteria, heavily compressed by peyyāla"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, building directly on SN 36.27"),
+    ],
+    why=(
+        "This discourse widens SN 36.27's own three-item test for a "
+        "true ascetic or brahmin (gratification, drawback, escape) to "
+        "five items, adding feeling's own origin (samudaya) and "
+        "disappearance (atthaṅgama) at the front. The same strict "
+        "either/or structure remains unchanged: understanding all "
+        "five disqualifies no one and understanding fewer than all "
+        "five qualifies no one, with bilara-data compressing most of "
+        "the repeated wording by ellipsis rather than restating it."
+    ),
+    guide=[
+        ("Two items added, none removed", [
+            "Origin and disappearance are added to the same three "
+            "criteria from SN 36.27, widening the test rather than "
+            "replacing it &mdash; gratification, drawback, and escape "
+            "remain necessary, now joined by understanding where "
+            "feeling comes from and where it goes.",
+        ]),
+        ("The same all-or-nothing structure, now with five parts",
+         [
+            "Just as SN 36.27 admitted no partial credit for "
+            "understanding only some of its three items, this "
+            "discourse's own five-item version requires "
+            "understanding all five together &mdash; origin, "
+            "disappearance, gratification, drawback, and escape "
+            "&mdash; before the title of true ascetic or brahmin is "
+            "granted.",
+        ]),
+        ("Compression standing in for a now-familiar wording", [
+            "Bilara-data compresses most of this discourse's own "
+            "wording with ellipsis markers, assuming the reader "
+            "already holds SN 36.27's own phrasing (&ldquo;I don't "
+            "deem them true ascetics and brahmins... those who do... "
+            "realize the goal... with their own insight&rdquo;) in "
+            "mind rather than restating it in full a second time.",
+        ]),
+        ("A middle term in a deliberately shrinking series", [
+            "With five items, this discourse sits between SN 36.27's "
+            "three and SN 36.29's own four &mdash; not a simple "
+            "descending count, since SN 36.29 will use different "
+            "elements again (feeling, origin, cessation, and the "
+            "practice to cessation) rather than a strict subset of "
+            "this discourse's own five.",
+        ]),
+    ],
+    terms=[
+        ("samudayañca atthaṅgamañca", "&ldquo;origin and "
+             "disappearance&rdquo; &mdash; the two items added to SN "
+             "36.27's own three, widening the test to five"),
+        ("assādañca ādīnavañca nissaraṇañca", "gratification, "
+             "drawback, and escape &mdash; retained unchanged from SN "
+             "36.27's own three-item version"),
+        ("…pe…", "the peyyāla (repetition) marker compressing most "
+             "of this discourse's own wording, assuming SN 36.27's "
+             "phrasing"),
+        ("yathābhūtaṁ nappajānanti / pajānanti", "&ldquo;don't truly "
+             "understand&rdquo; and &ldquo;do truly understand&rdquo; "
+             "&mdash; the same all-or-nothing verb pair from SN "
+             "36.27, now applied to all five items together"),
+        ("dutiyaṁ", "&ldquo;second&rdquo; &mdash; this discourse's "
+             "own untranslated closing marker, its position within "
+             "this three-part series"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it "
+        "&mdash; the widened five-item test, compressed by peyyāla "
+        "where its wording matches SN 36.27's own. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.28:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What two items does this discourse add to SN 36.27's own three-item test?",
+         "opts": ["Feeling's own origin and disappearance", "Feeling's own identity and cessation", "The noble eightfold path and craving", "No items are added; the test is identical"],
+         "correct": 0,
+         "expl": "Samudaya and atthaṅgama, joining gratification, drawback, and escape to make five."},
+        {"q": "Does this discourse's five-item test allow partial credit for understanding only some of the five?",
+         "opts": ["No — the same all-or-nothing structure from SN 36.27 requires understanding all five together", "Yes — understanding any three of the five is sufficient", "Yes — understanding just one item is enough", "The discourse does not specify how many items are required"],
+         "correct": 0,
+         "expl": "The strict either/or structure carries over unchanged, now applied to five items."},
+        {"q": "How does bilara-data handle most of this discourse's own wording?",
+         "opts": ["It compresses the wording with ellipsis markers, assuming SN 36.27's own phrasing", "It restates every word in full with no compression", "It gives an entirely different set of phrases", "It omits the test's conclusion entirely"],
+         "correct": 0,
+         "expl": "Assuming the reader already holds SN 36.27's own denial/affirmation phrasing in mind."},
+        {"q": "How does this discourse's five-item test relate to SN 36.29's own four-item version?",
+         "opts": ["SN 36.29 uses different elements again, not simply a smaller subset of this discourse's five", "SN 36.29 uses exactly four of this discourse's five items", "SN 36.29 and this discourse use identical criteria", "SN 36.29 does not exist as part of this series"],
+         "correct": 0,
+         "expl": "Not a simple descending count — SN 36.29 builds from feeling, origin, cessation, and the practice to cessation instead."},
+        {"q": "What three items from SN 36.27 does this discourse retain unchanged?",
+         "opts": ["Gratification, drawback, and escape", "Origin, cessation, and the practice to cessation", "Feeling's identity, the eightfold path, and craving", "None of SN 36.27's items are retained"],
+         "correct": 0,
+         "expl": "The same three criteria from SN 36.27, now joined by origin and disappearance."},
+    ],
+    marginalia=[
+        ("Two items added, three kept", [
+            "origin and disappearance, joining —",
+            "gratification, drawback, escape",
+        ]),
+        ("Still all or nothing", [
+            "five together, not some of five —",
+            "the same strict structure, widened",
+        ]),
+        ("Compression standing in for repetition", [
+            "the peyyāla marker does the work —",
+            "SN 36.27's own phrasing, assumed",
+        ]),
+        ("Not a simple countdown", [
+            "five here, four ahead —",
+            "but different elements, not a subset",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.28/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.27.html">SN 36.27 &middot; Ascetics and '
+        "Brahmins (1st)</a> &mdash; the previous discourse, with the "
+        "narrower three-item test given in full.",
+        '<a href="sn-36.29.html">SN 36.29 &middot; Ascetics and '
+        "Brahmins (3rd)</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.29 — Tatiyasamaṇabrāhmaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 29, "Tatiyasamaṇabrāhmaṇa", "Ascetics and Brahmins (3rd)",
+    vagga="Aṭṭhasatapariyāyavagga",
+    meta_title="SN 36.29 &mdash; Ascetics and Brahmins (3rd) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyasamaṇabrāhmaṇasutta &mdash; the shortest of the "
+        "three-part series, testing a true ascetic or brahmin by "
+        "understanding feeling, its origin, cessation, and the "
+        "practice leading to cessation. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "The same either/or test, built from a different "
+                 "four-item slice, this vagga's own most compressed "
+                 "discourse of the series"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, closing the series on a different "
+                       "combination"),
+    ],
+    why=(
+        "This discourse closes the three-part ascetics-and-brahmins "
+        "series with its most compressed member, testing the same "
+        "underlying claim through yet another combination: feeling "
+        "itself, its origin, its cessation, and the practice leading "
+        "to cessation &mdash; four items drawn from a different part "
+        "of the fuller catechism than either SN 36.27's own three "
+        "(gratification, drawback, escape) or SN 36.28's own five "
+        "(those three plus origin and disappearance)."
+    ),
+    guide=[
+        ("A genuinely different four items, not a subset of the "
+         "others", [
+            "Feeling, origin, cessation, and the practice to "
+            "cessation share only &ldquo;origin&rdquo; with SN "
+            "36.28's own five-item list and nothing at all with SN "
+            "36.27's own three &mdash; confirming the series tests "
+            "the same underlying claim through varied combinations "
+            "rather than simply expanding or shrinking one fixed "
+            "list.",
+        ]),
+        ("The most compressed discourse of the series", [
+            "This discourse is stated even more briefly than SN "
+            "36.28's own already-compressed version, reducing the "
+            "entire test to its shortest form yet while still "
+            "preserving the identical all-or-nothing verdict "
+            "structure.",
+        ]),
+        ("A series that resists being read as one simple progression",
+         [
+            "Read together, SN 36.27's three, SN 36.28's five, and "
+            "this discourse's own four don't form a tidy ascending or "
+            "descending sequence; they form three genuinely distinct "
+            "tests built from overlapping but non-identical parts of "
+            "the same larger catechism, each independently sufficient "
+            "to establish the same claim.",
+        ]),
+        ("Closing on the practice, not on gratification", [
+            "Where SN 36.27 and SN 36.28 both closed their own lists "
+            "on escape (nissaraṇa), this discourse closes on the "
+            "practice leading to cessation instead &mdash; a "
+            "different emphasis, ending on the path to be followed "
+            "rather than the felt sense of what is being escaped "
+            "from.",
+        ]),
+    ],
+    terms=[
+        ("vedanaṁ na pajānanti", "&ldquo;don't understand "
+             "feeling&rdquo; &mdash; the first item in this "
+             "discourse's own four-part test"),
+        ("vedanāsamudayaṁ", "feeling's own origin &mdash; the one "
+             "item this discourse's list shares with SN 36.28's own "
+             "five-item version"),
+        ("vedanānirodhaṁ", "feeling's own cessation &mdash; present "
+             "in this discourse's list but absent from both SN "
+             "36.27's and SN 36.28's own lists"),
+        ("vedanānirodhagāminiṁ paṭipadaṁ", "&ldquo;the practice that "
+             "leads to the cessation of feeling&rdquo; &mdash; the "
+             "closing item, ending on the path to be followed rather "
+             "than on escape"),
+        ("tatiyaṁ", "&ldquo;third&rdquo; &mdash; this discourse's "
+             "own untranslated closing marker, its position within "
+             "this three-part series"),
+    ],
+    text_intro=("The complete discourse: the four-item test and its "
+        "either/or application. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.29:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What four items make up this discourse's own test?",
+         "opts": ["Feeling itself, its origin, its cessation, and the practice leading to cessation", "Gratification, drawback, escape, and origin", "The same three items as SN 36.27, with one item added", "Origin, disappearance, gratification, and drawback"],
+         "correct": 0,
+         "expl": "A genuinely different combination sharing only \"origin\" with SN 36.28's own five-item list."},
+        {"q": "Does this discourse's four-item list form a simple subset of SN 36.28's own five items?",
+         "opts": ["No — it shares only one item (origin) with SN 36.28's list and none with SN 36.27's three", "Yes — it is exactly four of SN 36.28's five items", "Yes — it is identical to SN 36.27's own list", "The three discourses in this series use entirely identical criteria"],
+         "correct": 0,
+         "expl": "Confirming the series tests the same claim through varied, non-identical combinations."},
+        {"q": "Which discourse in this three-part series is the most compressed?",
+         "opts": ["This one, SN 36.29", "SN 36.27, the first in the series", "SN 36.28, the second in the series", "All three discourses are equally long"],
+         "correct": 0,
+         "expl": "Reducing the entire test to its shortest form while preserving the identical verdict structure."},
+        {"q": "What does this discourse close its own list on, unlike SN 36.27 and SN 36.28?",
+         "opts": ["The practice leading to cessation, rather than escape (nissaraṇa)", "Gratification, exactly as the other two do", "This discourse does not close on any particular item", "Origin, repeating SN 36.28's own closing item"],
+         "correct": 0,
+         "expl": "A different emphasis — ending on the path to be followed rather than the felt sense of what is escaped."},
+        {"q": "What does reading all three discourses in this series together suggest?",
+         "opts": ["They form three genuinely distinct tests from overlapping but non-identical parts of one larger catechism, not a tidy ascending or descending sequence", "They form a strict progression from three to four to five items in ascending order", "Only one of the three discourses is historically authentic", "The three discourses contradict each other's conclusions"],
+         "correct": 0,
+         "expl": "Each independently sufficient to establish the same underlying claim about true ascetics and brahmins."},
+    ],
+    marginalia=[
+        ("A fourth combination, not a subset", [
+            "feeling, origin, cessation, the practice —",
+            "sharing only one item with SN 36.28",
+        ]),
+        ("The series' shortest member", [
+            "even briefer than SN 36.28 —",
+            "the same verdict, fewest words",
+        ]),
+        ("No tidy progression", [
+            "three, five, four — not ascending or descending —",
+            "distinct tests, one shared underlying claim",
+        ]),
+        ("Ending on the path, not on escape", [
+            "the practice to cessation, closing this time —",
+            "not the felt sense of what's left behind",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.29/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.28.html">SN 36.28 &middot; Ascetics and '
+        "Brahmins (2nd)</a> &mdash; the previous discourse.",
+        '<a href="sn-36.30.html">SN 36.30 &middot; Plain '
+        "Version</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.30 — Suddhikasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 30, "Suddhika", "Plain Version",
+    vagga="Aṭṭhasatapariyāyavagga",
+    meta_title="SN 36.30 &mdash; Plain Version | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Suddhikasutta &mdash; this saṃyutta's own bare-bones "
+        "statement of the three feelings, with no simile, catechism, "
+        "or narrative frame at all. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A single plain sentence naming the three feelings, "
+                 "with nothing else attached"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "as brief as this saṃyutta gets"),
+    ],
+    why=(
+        "After eight discourses of catechisms, debates, causal "
+        "analysis, and a shrinking three-part test, this discourse "
+        "returns to the bare foundation: &ldquo;there are these three "
+        "feelings. What three? Pleasant, painful, and neutral "
+        "feelings. These are the three feelings.&rdquo; Its own Pali "
+        "title, suddhika (&ldquo;plain&rdquo; or "
+        "&ldquo;unadulterated&rdquo;), names exactly what it is: the "
+        "foundational statement stripped of every elaboration this "
+        "saṃyutta has built onto it since SN 36.1."
+    ),
+    guide=[
+        ("A title that names its own function", [
+            "Suddhika (plain, unmixed, unadulterated) is a rare "
+            "instance in this project's coverage of a discourse "
+            "titled for its own bare structural role rather than for "
+            "any image, person, or place within it &mdash; the title "
+            "itself is a description of the form.",
+        ]),
+        ("Nothing this saṃyutta has since added", [
+            "No verse, no simile, no questioner, no gratification/"
+            "drawback/escape triad, no underlying tendency, no "
+            "eightfold catechism &mdash; every elaboration this "
+            "saṃyutta has built onto the three feelings since its "
+            "own opening discourse is absent here.",
+        ]),
+        ("A deliberate return, not a lapse", [
+            "Positioned this late in the saṃyutta, after so much "
+            "structural development, this discourse's own bareness "
+            "reads as a deliberate return to the foundation rather "
+            "than an earlier draft mistakenly preserved &mdash; a "
+            "reminder of what all the elaboration has been elaborating "
+            "on.",
+        ]),
+        ("A pause before the saṃyutta's own final word", [
+            "Following this stripped-down restatement, the "
+            "saṃyutta's own closing discourse (SN 36.31) will "
+            "immediately deepen the sāmisa/nirāmisa distinction met "
+            "at SN 36.14 into a three-tiered structure closing on the "
+            "cessation of perception and feeling &mdash; this "
+            "discourse's own plainness makes that final elaboration "
+            "land with more contrast.",
+        ]),
+    ],
+    terms=[
+        ("suddhika", "&ldquo;plain&rdquo; or &ldquo;unadulterated"
+             "&rdquo; &mdash; this discourse's own title, naming its "
+             "bare structural role rather than any image or person"),
+        ("tisso imā vedanā", "&ldquo;there are these three "
+             "feelings&rdquo; &mdash; the identical opening formula "
+             "this saṃyutta has used since SN 36.1"),
+        ("sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā", "the "
+             "three feelings themselves, named with no further "
+             "elaboration"),
+        ("imā vuccanti, bhikkhave, tisso vedanā", "&ldquo;these are "
+             "called the three feelings&rdquo; &mdash; the "
+             "discourse's own closing line, ending exactly where it "
+             "began"),
+        ("cuddasamaṁ", "&ldquo;fourteenth&rdquo; &mdash; this "
+             "discourse's own untranslated closing marker, its "
+             "position within Aṭṭhasatapariyāyavagga"),
+    ],
+    text_intro=("The complete discourse: a single plain statement "
+        "of the three feelings. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.30:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own Pali title, suddhika, mean?",
+         "opts": ["\"Plain\" or \"unadulterated\"", "\"Ascetic\"", "\"Feeling\"", "\"Ocean\""],
+         "correct": 0,
+         "expl": "Naming the discourse's own bare structural role rather than any image, person, or place."},
+        {"q": "What elaborations does this discourse omit, compared to earlier discourses in this saṃyutta?",
+         "opts": ["Verse, simile, questioner, the gratification/drawback/escape triad, and the eightfold catechism", "The three feelings themselves are omitted", "Only the closing marker is omitted", "Nothing is omitted; this discourse is identical to SN 36.23"],
+         "correct": 0,
+         "expl": "Every elaboration built onto the three feelings since SN 36.1 is absent here."},
+        {"q": "How does this discourse's placement late in the saṃyutta affect how it should be read?",
+         "opts": ["As a deliberate return to the foundation, not an earlier draft mistakenly preserved", "As evidence the compilers ran out of new material", "As an error that should be corrected by adding a verse", "As unrelated to the rest of the saṃyutta"],
+         "correct": 0,
+         "expl": "A reminder of what all the surrounding elaboration has been elaborating on."},
+        {"q": "What discourse immediately follows this one, and how does it contrast?",
+         "opts": ["SN 36.31, which deepens the sāmisa/nirāmisa distinction into a three-tiered structure closing on cessation of perception and feeling", "SN 36.1, restarting the saṃyutta from its own beginning", "No discourse follows; this is the saṃyutta's own final page", "SN 36.22, repeating the hundred-and-eight framework"],
+         "correct": 0,
+         "expl": "This discourse's own plainness makes the saṃyutta's final elaboration land with more contrast."},
+        {"q": "How does this discourse's closing line relate to its opening line?",
+         "opts": ["It ends exactly where it began, naming the same three feelings with no development in between", "It reaches an entirely different conclusion than the opening suggested", "It adds a fourth feeling not named at the outset", "There is no closing line in this discourse"],
+         "correct": 0,
+         "expl": "\"These are called the three feelings\" — closing on the identical statement that opened the discourse."},
+    ],
+    marginalia=[
+        ("A title that names its own form", [
+            "\"plain,\" nothing more —",
+            "rare among this project's own titles",
+        ]),
+        ("Everything else, left out", [
+            "no verse, no simile, no questioner —",
+            "every elaboration since SN 36.1, absent",
+        ]),
+        ("A return, not an oversight", [
+            "positioned late, deliberately bare —",
+            "the foundation beneath all the development",
+        ]),
+        ("A contrast before the final word", [
+            "plainness here, elaboration next —",
+            "SN 36.31 will build three tiers atop this",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.30/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.29.html">SN 36.29 &middot; Ascetics and '
+        "Brahmins (3rd)</a> &mdash; the previous discourse.",
+        '<a href="sn-36.31.html">SN 36.31 &middot; Not of the '
+        "Flesh</a> &mdash; the next and final discourse of "
+        "Aṭṭhasatapariyāyavagga, closing Vedanāsaṃyutta itself.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 36.31 — Nirāmisasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, 31, "Nirāmisa", "Not of the Flesh",
+    vagga="Aṭṭhasatapariyāyavagga",
+    meta_title="SN 36.31 &mdash; Not of the Flesh | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nirāmisasutta &mdash; rapture, pleasure, equanimity, and "
+        "liberation each carried through three tiers, carnal to "
+        "spiritual to more spiritual still, closing "
+        "Aṭṭhasatapariyāyavagga and Vedanāsaṃyutta itself. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A four-by-three matrix, each of four qualities "
+                 "carried through three successive tiers, closed by "
+                 "a translated saṃyutta-level colophon"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "a systematic closing structure worth reading "
+                       "in full"),
+    ],
+    why=(
+        "This discourse closes Aṭṭhasatapariyāyavagga, this "
+        "saṃyutta's own third and final vagga, and with it "
+        "Vedanāsaṃyutta itself &mdash; 31 discourses across three "
+        "vaggas. It returns to the sāmisa/nirāmisa (carnal/spiritual) "
+        "distinction first met at SN 36.14, but pushes it one step "
+        "further than before: rapture, pleasure, equanimity, and "
+        "liberation are each carried through not two tiers but three "
+        "&mdash; of the flesh, not of the flesh, and &ldquo;even more "
+        "spiritual than that not of the flesh&rdquo; (nirāmisā "
+        "nirāmisatarā), a comparative degree built on the same word "
+        "doubled. The third and highest tier of every quality is "
+        "defined identically: an arahant reviewing their own mind, "
+        "found free of greed, hate, and delusion."
+    ),
+    guide=[
+        ("Four qualities, the same three-tier structure applied to "
+         "each", [
+            "Rapture (pīti), pleasure (sukha), equanimity (upekkhā), "
+            "and liberation (vimutti) each receive the identical "
+            "sāmisa/nirāmisa/nirāmisā-nirāmisatarā treatment &mdash; "
+            "not four different arguments but one structure applied "
+            "four times to four related but distinct qualities.",
+        ]),
+        ("The first tier: sensual stimulation, named identically "
+         "each time", [
+            "&ldquo;Of the flesh&rdquo; rapture, pleasure, and "
+            "equanimity are each defined by the identical five kinds "
+            "of sensual stimulation already met at SN 36.19 and SN "
+            "36.20 &mdash; sights, sounds, smells, tastes, and "
+            "touches that are likable, desirable, and arousing.",
+        ]),
+        ("The second tier: absorption, at a different depth for "
+         "each quality", [
+            "&ldquo;Not of the flesh&rdquo; rapture reaches only the "
+            "first two absorptions (where rapture itself is still "
+            "present); pleasure reaches the first three (extending "
+            "into the third absorption's own equanimous bliss); "
+            "equanimity is located specifically in the fourth "
+            "absorption alone &mdash; each quality's second tier "
+            "matched to the exact meditative stage where that "
+            "specific quality is most fully present.",
+        ]),
+        ("A comparative built on a doubled word, all pointing to "
+         "the same source", [
+            "&ldquo;Nirāmisā nirāmisatarā&rdquo; (&ldquo;not-of-the-"
+            "flesh, more not-of-the-flesh&rdquo;) is the discourse's "
+            "own way of naming a degree beyond nirāmisa itself, "
+            "rather than introducing a new term entirely. For all "
+            "four qualities, this highest tier is defined identically: "
+            "not a deeper absorption but an arahant's own reviewing "
+            "of a mind already freed from greed, hate, and delusion.",
+        ]),
+        ("Liberation's own asymmetry, and the saṃyutta's own final, "
+         "translated words", [
+            "Liberation alone skips the meditative middle tier "
+            "entirely: &ldquo;of the flesh&rdquo; liberation is "
+            "simply liberation connected with form, &ldquo;not of the "
+            "flesh&rdquo; is liberation connected with the formless "
+            "&mdash; no absorption-by-absorption breakdown as with "
+            "the other three qualities &mdash; before the identical "
+            "arahant's-review formula closes the set. The untranslated "
+            "Pali then gives this vagga's own ordinal (&ldquo;the "
+            "third&rdquo;) and uddāna, before the saṃyutta's own "
+            "closing line, genuinely translated: &ldquo;The Linked "
+            "Discourses on Feeling are complete.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("sāmisā... nirāmisā... nirāmisā nirāmisatarā", "&ldquo;of "
+             "the flesh... not of the flesh... even more spiritual "
+             "than that not of the flesh&rdquo; &mdash; the "
+             "discourse's own three-tier structure, applied to four "
+             "different qualities in turn"),
+        ("pīti, sukhaṁ, upekkhā, vimokkho", "rapture, pleasure, "
+             "equanimity, and liberation &mdash; the four qualities "
+             "each carried through the identical three tiers"),
+        ("pañca kāmaguṇā", "the five kinds of sensual stimulation "
+             "&mdash; defining the first, &ldquo;of the flesh&rdquo; "
+             "tier for rapture, pleasure, and equanimity alike"),
+        ("khīṇāsavassa bhikkhuno... cittaṁ vimuttaṁ paccavekkhato",
+             "&ldquo;a mendicant who has ended the defilements "
+             "reviews their mind... freed&rdquo; &mdash; the "
+             "identical formula defining the highest tier of all "
+             "four qualities"),
+        ("Vedanāsaṁyuttaṁ samattaṁ", "&ldquo;the Linked Discourses "
+             "on Feeling are complete&rdquo; &mdash; this saṃyutta's "
+             "own genuinely Sujato-translated closing line, following "
+             "the vagga's own untranslated ordinal and uddāna this "
+             "reading guide describes rather than quotes"),
+    ],
+    text_intro=("The complete discourse, apart from the intervening "
+        "untranslated vagga-level ordinal and uddāna (described "
+        "rather than quoted above), together with this saṃyutta's "
+        "own genuinely translated final line. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn36.31:1.1-1.11"),
+        ("p", "&sect;2", "sn36.31:2.1-2.4"),
+        ("p", "&sect;3", "sn36.31:3.1-3.2"),
+        ("p", "&sect;4", "sn36.31:4.1-4.7"),
+        ("p", "&sect;5", "sn36.31:5.1-5.5"),
+        ("p", "&sect;6", "sn36.31:6.1-6.2"),
+        ("p", "&sect;7", "sn36.31:7.1-7.7"),
+        ("p", "&sect;8", "sn36.31:8.1-8.3"),
+        ("p", "&sect;9", "sn36.31:9.1-9.2"),
+        ("p", "&sect;10", "sn36.31:10.1-10.2"),
+        ("p", "&sect;11", "sn36.31:11.1-11.2"),
+        ("p", "&sect;12", "sn36.31:12.1-12.2"),
+        ("p", "&sect;13", "sn36.31:13.5"),
+    ],
+    quiz=[
+        {"q": "What four qualities does this discourse carry through its own three-tier structure?",
+         "opts": ["Rapture, pleasure, equanimity, and liberation", "The three feelings and the noble eightfold path", "The four absorptions alone", "Craving, contact, feeling, and consciousness"],
+         "correct": 0,
+         "expl": "One structure applied four times to four related but distinct qualities."},
+        {"q": "What defines the highest, third tier for all four qualities?",
+         "opts": ["An arahant reviewing their own mind, found free of greed, hate, and delusion", "A deeper level of meditative absorption than the second tier", "A specific verse recited by the Buddha", "Direct instruction from a teacher"],
+         "correct": 0,
+         "expl": "The identical formula closes rapture, pleasure, equanimity, and liberation alike — not a deeper absorption, but self-review."},
+        {"q": "How does liberation's own treatment differ from rapture, pleasure, and equanimity?",
+         "opts": ["It skips the meditative middle tier entirely, going straight from form/formless connection to the arahant's review", "It has no highest tier at all", "It uses a completely different vocabulary throughout", "It is treated identically to rapture in every respect"],
+         "correct": 0,
+         "expl": "No absorption-by-absorption breakdown, unlike the other three qualities."},
+        {"q": "What does the term \"nirāmisā nirāmisatarā\" literally do?",
+         "opts": ["It builds a comparative degree on the same word (nirāmisa) doubled, rather than introducing an entirely new term", "It introduces a brand new word unrelated to sāmisa or nirāmisa", "It negates the nirāmisa tier entirely", "It only applies to liberation, not the other three qualities"],
+         "correct": 0,
+         "expl": "\"Not-of-the-flesh, more not-of-the-flesh\" — naming a degree beyond nirāmisa itself."},
+        {"q": "What does this discourse's own final, genuinely translated line announce?",
+         "opts": ["\"The Linked Discourses on Feeling are complete\" — closing Vedanāsaṃyutta itself", "\"The Book of the Six Sense Fields is finished,\" closing all of Book IV", "Nothing is translated; the entire close remains in Pali", "A statement announcing the start of a new saṃyutta"],
+         "correct": 0,
+         "expl": "Following the vagga's own untranslated ordinal (\"the third\") and uddāna, described rather than quoted in this reading guide."},
+    ],
+    marginalia=[
+        ("One structure, four qualities", [
+            "rapture, pleasure, equanimity, liberation —",
+            "the same three tiers, four times over",
+        ]),
+        ("A depth matched to each quality", [
+            "rapture stops at the second absorption —",
+            "equanimity waits for the fourth alone",
+        ]),
+        ("A word doubled, not replaced", [
+            "nirāmisā nirāmisatarā —",
+            "a degree built on nirāmisa itself",
+        ]),
+        ("Liberation's own shortcut", [
+            "no absorption-by-absorption climb —",
+            "form and formless, then the arahant's review",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn36.31/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.30.html">SN 36.30 &middot; Plain '
+        "Version</a> &mdash; the previous discourse.",
+        '<a href="sn-36.14.html">SN 36.14 &middot; A Guest '
+        "House</a> &mdash; already published on this site, in the "
+        "previous vagga, first introducing the sāmisa/nirāmisa "
+        "distinction this discourse carries one tier further.",
+        '<a href="sn-41.1.html">SN 41.1 &middot; The Fetter</a> '
+        "&mdash; already published on this site, standing ahead of "
+        "this project's next saṃyutta, SN 37 (Mātugāmasaṃyutta), not "
+        "yet built.",
+    ],
+)
