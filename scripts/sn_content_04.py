@@ -20690,3 +20690,1646 @@ page(
         "35.146&ndash;155), not yet built.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 35.146 — Kammanirodhasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 146, "Kammanirodha", "The Cessation of Deeds",
+    vagga="Navapurāṇavagga",
+    meta_title="SN 35.146 &mdash; The Cessation of Deeds | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Kammanirodhasutta &mdash; opening Navapurāṇavagga "
+        "with the four terms that name it: old deeds, new deeds, "
+        "the cessation of deeds, and the eightfold path that leads "
+        "there. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Four terms defined in turn against the six sense "
+                 "fields, closing on the standard forest-dwelling "
+                 "exhortation"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "four short definitions, each turning on a "
+                       "single technical distinction"),
+    ],
+    why=(
+        "This discourse opens Navapurāṇavagga (&ldquo;the old and "
+        "the new&rdquo;), this book's own fifteenth vagga and, its "
+        "own closing colophon will confirm, the fifth and final "
+        "vagga of Saḷāyatanasaṃyutta's third paṇṇāsaka. The vagga "
+        "takes its name directly from this discourse's own opening "
+        "pair of terms: old deeds (purāṇakamma) and new deeds "
+        "(navakamma), defined here alongside two further terms "
+        "&mdash; the cessation of deeds, and the path that leads to "
+        "that cessation. Rather than a doctrine about karmic result "
+        "ripening over time, the discourse gives all four terms a "
+        "sharply present-tense definition: old deeds are simply the "
+        "six sense fields themselves, already produced and now only "
+        "to be felt; new deeds are whatever one currently does by "
+        "body, speech, and mind; cessation is freedom from doing "
+        "any of that; and the path there is the familiar noble "
+        "eightfold path."
+    ),
+    guide=[
+        ("Four terms, one teaching", [
+            "\"I will teach you old deeds, new deeds, the cessation "
+            "of deeds, and the practice that leads to the cessation "
+            "of deeds\" &mdash; the discourse's own four-part "
+            "structure, announced at the outset and then defined "
+            "one term at a time.",
+        ]),
+        ("Old deeds: the six sense fields themselves", [
+            "\"The eye is old deeds. It should be seen as produced "
+            "by choices and intentions, as something to be felt\" "
+            "&mdash; run across all six interior sense fields. This "
+            "project has already met the identical Pali phrase "
+            "(purāṇakammaṁ abhisaṅkhataṁ abhisañcetayitaṁ "
+            "vedaniyaṁ) applied to the body alone at SN 12.37, "
+            "already published in Book II; this discourse extends "
+            "the same formula to all six fields, not the body only.",
+        ]),
+        ("New deeds: what's being done right now", [
+            "\"The deeds you currently perform by way of body, "
+            "speech, and mind\" &mdash; a plain, present-tense "
+            "definition, drawing the line between what has already "
+            "ripened into existence (old) and what is actively "
+            "being generated (new) without invoking future result "
+            "at all.",
+        ]),
+        ("Cessation and its path, in familiar terms", [
+            "Cessation of deeds is defined as freedom reached "
+            "through the cessation of bodily, verbal, and mental "
+            "activity; the path there is the noble eightfold path "
+            "by name, closing on the standard exhortation to "
+            "practice absorption at the roots of trees and in "
+            "empty huts &mdash; the same closing formula this "
+            "project has already met many times before, here "
+            "marking the vagga's own opening rather than any "
+            "discourse's close.",
+        ]),
+    ],
+    terms=[
+        ("purāṇakamma", "old deeds &mdash; the six sense fields "
+             "themselves, already produced by past choices and "
+             "intentions, now only to be felt"),
+        ("navakamma", "new deeds &mdash; whatever is currently done "
+             "by body, speech, and mind, in the present tense"),
+        ("kammanirodha", "the cessation of deeds &mdash; freedom "
+             "reached through the cessation of bodily, verbal, and "
+             "mental activity"),
+        ("kammanirodhagāminī paṭipadā", "the practice leading to "
+             "the cessation of deeds &mdash; named directly as the "
+             "noble eightfold path"),
+        ("abhisaṅkhataṁ abhisañcetayitaṁ vedaniyaṁ", "produced by "
+             "choices and intentions, as something to be felt "
+             "&mdash; the identical phrase this project has already "
+             "met at SN 12.37, there applied to the body alone"),
+    ],
+    text_intro=("The complete discourse: old deeds, new deeds, the "
+        "cessation of deeds, and the path there, defined in turn "
+        "and closing on the standard forest-dwelling exhortation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.146:1.1-1.2"),
+        ("p", "&sect;2", "sn35.146:1.3-1.7"),
+        ("p", "&sect;3", "sn35.146:1.8-1.10"),
+        ("p", "&sect;4", "sn35.146:1.11-1.13"),
+        ("p", "&sect;5", "sn35.146:1.14-1.17"),
+        ("p", "&sect;6", "sn35.146:1.18-1.20"),
+    ],
+    quiz=[
+        {"q": "What four terms does this discourse announce it will teach, and which vagga does it open?",
+         "opts": ["Old deeds, new deeds, the cessation of deeds, and the path there — opening Navapurāṇavagga, whose name it supplies", "The four noble truths, opening a new saṃyutta", "The four foundations of mindfulness", "The four kinds of nutriment"],
+         "correct": 0,
+         "expl": "The vagga takes its own name directly from this discourse's opening pair of terms."},
+        {"q": "How does this discourse define \"old deeds\" (purāṇakamma)?",
+         "opts": ["The six sense fields themselves, produced by past choices and intentions, now only to be felt", "Unwholesome actions committed in a previous life", "Deeds that have not yet ripened into result", "A synonym for old age and death"],
+         "correct": 0,
+         "expl": "Applied identically across all six interior sense fields, not karmic residue awaiting future ripening."},
+        {"q": "Where has this project already met the identical phrase \"produced by choices and intentions, as something to be felt,\" applied there to the body alone?",
+         "opts": ["SN 12.37, already published in Book II", "SN 22.59, already published in Book III", "This is the first time the phrase appears on this site", "SN 12.16, already published in Book II"],
+         "correct": 0,
+         "expl": "This discourse extends the same formula from the body alone to all six sense fields."},
+        {"q": "How does this discourse define \"new deeds\" (navakamma)?",
+         "opts": ["The deeds currently being performed by body, speech, and mind, in the present tense", "Deeds performed since one's ordination", "Deeds that will ripen in a future life", "A synonym for kamma in general"],
+         "correct": 0,
+         "expl": "A plain present-tense definition, distinct from old deeds' already-produced sense fields."},
+        {"q": "What is named as the practice leading to the cessation of deeds?",
+         "opts": ["The noble eightfold path, by name", "The four jhānas alone", "Fasting and other ascetic austerities", "No path is named — cessation happens spontaneously"],
+         "correct": 0,
+         "expl": "Named directly, closing the discourse's own four-part structure before the standard exhortation."},
+    ],
+    marginalia=[
+        ("Four terms, naming a vagga", [
+            "old deeds, new, their ceasing &mdash;",
+            "and the path that leads there",
+        ]),
+        ("The six fields themselves", [
+            "already produced, already felt &mdash;",
+            "this is what \"old\" deeds means",
+        ]),
+        ("A phrase met once before", [
+            "SN 12.37's own body &mdash;",
+            "now all six fields at once",
+        ]),
+        ("Present tense, not future result", [
+            "new deeds are only what's",
+            "being done right now",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.146/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.145.html">SN 35.145 &middot; Exterior and '
+        "Cause Are Not-Self</a> &mdash; the previous discourse, "
+        "closing Devadahavagga and the third paṇṇāsaka's fourth "
+        "vagga.",
+        '<a href="sn-35.147.html">SN 35.147 &middot; The Impermanent '
+        "as Conducive to Extinguishment</a> &mdash; the next "
+        "discourse.",
+        '<a href="sn-12.37.html">SN 12.37 &middot; Not Yours</a> '
+        "&mdash; already published on this site, using the "
+        "identical Pali phrase for \"old deeds\" applied there to "
+        "the body alone.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.147 — Aniccanibbānasappāyasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 147, "Aniccanibbānasappāya",
+    "The Impermanent as Conducive to Extinguishment",
+    vagga="Navapurāṇavagga",
+    meta_title="SN 35.147 &mdash; The Impermanent as Conducive to "
+                "Extinguishment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Aniccanibbānasappāyasutta &mdash; the practice "
+        "conducive to extinguishment defined as seeing all six "
+        "sense fields, their objects, and their feelings as "
+        "impermanent. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single declaration, one sense field's own "
+                 "fourfold structure (field, object, consciousness, "
+                 "contact) plus its feeling, run across all six"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and direct, the first of a matched "
+                       "trio"),
+    ],
+    why=(
+        "This discourse opens a trio (with SN 35.148 and SN 35.149 "
+        "immediately following) applying the single term "
+        "\"conducive to extinguishment\" (nibbānasappāya) to each "
+        "of the three marks in turn &mdash; impermanence first. "
+        "Rather than the eye alone, the scope here is wider than "
+        "SN 35.1's own opening declaration back at the start of "
+        "this book: each sense field's own object, consciousness, "
+        "and contact are named individually, and the feeling that "
+        "arises dependent on that contact is added as a fifth "
+        "element, all five declared impermanent together."
+    ),
+    guide=[
+        ("A named practice, defined once", [
+            "\"I will teach you a practice that's conducive to "
+            "extinguishment\" &mdash; the same announcement opens "
+            "all three discourses of this trio (SN 35.147-149), "
+            "each substituting one of the three marks for the "
+            "others.",
+        ]),
+        ("Five elements per sense field, not one", [
+            "The eye, sights, eye consciousness, and eye contact "
+            "are named individually, and the feeling arising "
+            "dependent on eye contact is added as a fifth &mdash; "
+            "a fuller enumeration than this book's own opening "
+            "discourse (SN 35.1), which named the six interior "
+            "fields alone.",
+        ]),
+        ("Impermanence, and nothing more claimed yet", [
+            "Unlike SN 35.150 (the trio's own closing catechism, "
+            "three discourses ahead), this discourse stops at "
+            "impermanence and does not yet draw out suffering or "
+            "not-self as consequences &mdash; each mark stands on "
+            "its own in this trio's first three installments.",
+        ]),
+        ("\"Conducive to extinguishment,\" a term worth noting", [
+            "Nibbānasappāya, this discourse's own key term, "
+            "frames impermanence itself not as a bare fact to "
+            "register but as something actively useful &mdash; a "
+            "practice (paṭipadā) that leads somewhere, not merely "
+            "an observation.",
+        ]),
+    ],
+    terms=[
+        ("nibbānasappāya", "conducive to extinguishment &mdash; "
+             "this trio's own shared key term, naming impermanence "
+             "(here), suffering, and not-self in turn as practices "
+             "that lead toward nibbāna"),
+        ("cakkhu, rūpā, cakkhuviññāṇaṁ, cakkhusamphasso",
+             "the eye, sights, eye consciousness, and eye contact "
+             "&mdash; four of this discourse's own five elements "
+             "per sense field"),
+        ("vedanā", "feeling &mdash; the fifth element, arising "
+             "dependent on contact and declared impermanent "
+             "alongside the other four"),
+        ("anicca", "impermanent &mdash; the first of the three "
+             "marks, this discourse's own sole focus"),
+        ("paṭipadā", "practice, or a way forward &mdash; framing "
+             "impermanence as something to be cultivated, not "
+             "merely observed"),
+    ],
+    text_intro=("The complete discourse: the practice conducive to "
+        "extinguishment defined as impermanence seen across each "
+        "sense field's own five elements. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.147:1.1-1.3"),
+        ("p", "&sect;2", "sn35.147:1.4-1.7"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse and its two immediate neighbors (SN 35.148-149) share?",
+         "opts": ["Nibbānasappāya, \"conducive to extinguishment\"", "Yogakkhema, \"sanctuary from the yoke\"", "Dhammakathika, \"a Dhamma speaker\"", "Antevāsika, \"a resident pupil\""],
+         "correct": 0,
+         "expl": "Each of the three discourses substitutes one mark — impermanence, suffering, not-self — for the term's own object."},
+        {"q": "How many elements does this discourse name per sense field, and what is the fifth?",
+         "opts": ["Five — the field, its object, consciousness, contact, and the feeling arising from that contact", "Four — the field, object, consciousness, and contact only", "Six — matching this book's own opening declaration", "Three — field, object, and feeling only"],
+         "correct": 0,
+         "expl": "A fuller enumeration than SN 35.1's own six-field-only opening declaration."},
+        {"q": "Which of the three marks does this discourse focus on exclusively?",
+         "opts": ["Impermanence (anicca) alone", "Suffering (dukkha) alone", "Not-self (anattā) alone", "All three marks, argued in sequence"],
+         "correct": 0,
+         "expl": "Suffering and not-self each receive their own separate discourse, SN 35.148 and SN 35.149."},
+        {"q": "What does the term \"nibbānasappāya\" suggest about how this discourse frames impermanence?",
+         "opts": ["As an actively useful practice leading toward extinguishment, not a bare fact to register", "As an obstacle to be overcome before practice can begin", "As a doctrine relevant only to advanced meditators", "As synonymous with suffering itself"],
+         "correct": 0,
+         "expl": "Paṭipadā, \"practice\" or \"a way forward,\" is built into the discourse's own framing."},
+        {"q": "Which discourse, three ahead, closes this trio with a catechism combining all three marks?",
+         "opts": ["SN 35.150", "SN 35.148", "SN 35.1", "SN 35.155"],
+         "correct": 0,
+         "expl": "SN 35.148 and SN 35.149 give suffering and not-self their own separate statement first."},
+    ],
+    marginalia=[
+        ("A trio begins", [
+            "conducive to extinguishment —",
+            "impermanence, first of three",
+        ]),
+        ("Five elements, not four", [
+            "field, object, knowing, touch —",
+            "and the feeling each one brings",
+        ]),
+        ("One mark at a time", [
+            "not yet suffering, not yet",
+            "not-self — those wait their turn",
+        ]),
+        ("A practice, not a fact", [
+            "nibbānasappāya —",
+            "conducive, actively useful",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.147/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.146.html">SN 35.146 &middot; The Cessation '
+        "of Deeds</a> &mdash; the previous discourse.",
+        '<a href="sn-35.148.html">SN 35.148 &middot; The Suffering '
+        "as Conducive to Extinguishment</a> &mdash; the next "
+        "discourse, the trio's second installment.",
+        '<a href="sn-35.1.html">SN 35.1 &middot; The Interior as '
+        "Impermanent</a> &mdash; already published on this site, "
+        "this book's own opening discourse, whose six-field "
+        "enumeration this discourse extends to five elements per "
+        "field.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.148 — Dukkhanibbānasappāyasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 148, "Dukkhanibbānasappāya",
+    "The Suffering as Conducive to Extinguishment",
+    vagga="Navapurāṇavagga",
+    meta_title="SN 35.148 &mdash; The Suffering as Conducive to "
+                "Extinguishment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Dukkhanibbānasappāyasutta &mdash; the trio's "
+        "second installment, the same five elements per sense "
+        "field declared suffering rather than impermanent. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The identical structure as the previous discourse, "
+                 "with one word substituted throughout"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the trio's second, near-identical "
+                       "installment"),
+    ],
+    why=(
+        "The trio's second discourse repeats SN 35.147's own "
+        "structure word for word, substituting \"suffering\" "
+        "(dukkha) for \"impermanent\" throughout: the same five "
+        "elements per sense field &mdash; the field itself, its "
+        "object, the consciousness that knows it, the contact "
+        "between them, and the feeling that contact produces "
+        "&mdash; all declared suffering rather than impermanent. "
+        "The trio's own logic depends on exactly this kind of "
+        "controlled substitution: holding the frame constant while "
+        "swapping the mark makes each discourse's own specific "
+        "claim easy to isolate, and easy to compare against its "
+        "neighbors."
+    ),
+    guide=[
+        ("One word changed, the frame held constant", [
+            "Every structural element of SN 35.147 recurs here "
+            "unaltered &mdash; the same announcement, the same "
+            "five-part enumeration per sense field &mdash; with "
+            "only \"impermanent\" replaced by \"suffering\" "
+            "throughout.",
+        ]),
+        ("Suffering, not merely painful feeling", [
+            "The discourse declares neutral and pleasant feeling "
+            "\"suffering\" here just as readily as painful feeling "
+            "&mdash; a use of dukkha broader than ordinary "
+            "unpleasantness, consistent with how this project has "
+            "already met the term applied to conditioned experience "
+            "generally, not physical or emotional pain specifically.",
+        ]),
+        ("The trio's middle term", [
+            "Positioned between SN 35.147 (impermanence) and SN "
+            "35.149 (not-self), this discourse supplies the middle "
+            "link of the canonical anicca-dukkha-anattā sequence, "
+            "each mark still standing alone rather than derived "
+            "from the one before it.",
+        ]),
+        ("A derivation withheld, for now", [
+            "Unlike the familiar three-step chain this project has "
+            "traced repeatedly since SN 35.1 (impermanent, "
+            "therefore suffering, therefore not-self), this "
+            "discourse does not explicitly derive suffering from "
+            "impermanence &mdash; it simply asserts suffering "
+            "directly, leaving the logical chain to SN 35.150's own "
+            "closing catechism three discourses ahead.",
+        ]),
+    ],
+    terms=[
+        ("dukkha", "suffering &mdash; this discourse's own sole "
+             "focus, applied to all five elements of each sense "
+             "field alike, not painful feeling specifically"),
+        ("nibbānasappāya", "conducive to extinguishment &mdash; the "
+             "trio's own shared key term, repeated unaltered from "
+             "SN 35.147"),
+        ("vedanā", "feeling &mdash; declared suffering here "
+             "regardless of whether it is itself painful, pleasant, "
+             "or neutral"),
+        ("cakkhu, rūpā, cakkhuviññāṇaṁ, cakkhusamphasso",
+             "the eye, sights, eye consciousness, and eye contact "
+             "&mdash; the same four elements as SN 35.147, now "
+             "declared suffering rather than impermanent"),
+        ("anicca &rarr; dukkha &rarr; anattā", "the canonical "
+             "sequence's middle term, here standing alone rather "
+             "than derived from impermanence"),
+    ],
+    text_intro=("The complete discourse: the practice conducive to "
+        "extinguishment defined as suffering seen across each "
+        "sense field's own five elements. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.148:1.1-1.3"),
+        ("p", "&sect;2", "sn35.148:1.4-1.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate structurally to SN 35.147, the previous discourse?",
+         "opts": ["Identical structure, with \"suffering\" substituted for \"impermanent\" throughout", "An entirely different five-part enumeration", "A catechism, unlike SN 35.147's plain declaration", "It merges SN 35.147 and SN 35.149 into one argument"],
+         "correct": 0,
+         "expl": "The trio's own logic depends on holding the frame constant while substituting one mark for another."},
+        {"q": "Does this discourse declare only painful feeling to be suffering?",
+         "opts": ["No — pleasant and neutral feeling are declared suffering here just as readily", "Yes — only painful feeling is addressed", "The discourse does not mention feeling at all", "Only neutral feeling is addressed"],
+         "correct": 0,
+         "expl": "A broader use of dukkha than ordinary unpleasantness, applied to conditioned experience generally."},
+        {"q": "Where does this discourse sit within the trio, and within the canonical three-mark sequence?",
+         "opts": ["The trio's middle discourse, supplying dukkha, the sequence's middle term", "The trio's opening discourse", "The trio's closing discourse", "Outside the trio entirely"],
+         "correct": 0,
+         "expl": "Between SN 35.147 (impermanence) and SN 35.149 (not-self)."},
+        {"q": "Does this discourse explicitly derive suffering from impermanence, the way the familiar three-step chain does?",
+         "opts": ["No — it asserts suffering directly; the derivation is left to SN 35.150's own closing catechism", "Yes — the derivation is spelled out in full", "The discourse denies any connection between the two marks", "The derivation appears only in the Pali root, not the English translation"],
+         "correct": 0,
+         "expl": "Each of the trio's first three installments lets one mark stand alone, without yet chaining it to the others."},
+        {"q": "How many elements per sense field does this discourse enumerate, matching SN 35.147?",
+         "opts": ["Five — field, object, consciousness, contact, and feeling", "Six, matching SN 35.1's own opening declaration", "Three — field, object, and feeling only", "One — the sense field alone"],
+         "correct": 0,
+         "expl": "The identical five-part structure as the trio's first installment."},
+    ],
+    marginalia=[
+        ("The trio's middle term", [
+            "impermanence, now suffering —",
+            "the same frame, one word changed",
+        ]),
+        ("Not pain alone", [
+            "pleasant, painful, neutral —",
+            "all three called suffering here",
+        ]),
+        ("A chain not yet drawn", [
+            "suffering stands on its own —",
+            "the derivation waits ahead",
+        ]),
+        ("Five elements, held constant", [
+            "field, object, knowing, touch,",
+            "feeling — only the mark shifts",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.148/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.147.html">SN 35.147 &middot; The Impermanent '
+        "as Conducive to Extinguishment</a> &mdash; the previous "
+        "discourse, the trio's first installment.",
+        '<a href="sn-35.149.html">SN 35.149 &middot; Not-Self as '
+        "Conducive to Extinguishment</a> &mdash; the next "
+        "discourse, the trio's third installment.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.149 — Anattanibbānasappāyasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 149, "Anattanibbānasappāya",
+    "Not-Self as Conducive to Extinguishment",
+    vagga="Navapurāṇavagga",
+    meta_title="SN 35.149 &mdash; Not-Self as Conducive to "
+                "Extinguishment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Anattanibbānasappāyasutta &mdash; the trio's "
+        "third and closing statement, the same five elements per "
+        "sense field declared not-self. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The identical structure as the previous two "
+                 "discourses, with the third mark substituted"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the trio's third, near-identical "
+                       "installment"),
+    ],
+    why=(
+        "The trio's third and final statement-form discourse "
+        "completes the canonical anicca-dukkha-anattā sequence: "
+        "the same five elements per sense field, now declared "
+        "not-self. With this discourse the trio has stated all "
+        "three marks separately, each on its own terms, without "
+        "yet chaining them together into the familiar derivation "
+        "&mdash; a task SN 35.150, the very next discourse, takes "
+        "up directly, restoring the catechism form and drawing out "
+        "the connections the trio's own three statement-form "
+        "discourses have so far left implicit."
+    ),
+    guide=[
+        ("The third mark, in the trio's own frame", [
+            "The same five-part enumeration &mdash; field, object, "
+            "consciousness, contact, and the feeling arising from "
+            "that contact &mdash; now declared not-self (anattā), "
+            "closing out the sequence SN 35.147 and SN 35.148 "
+            "began.",
+        ]),
+        ("Three statements, still separate", [
+            "By this discourse's own close, the trio has declared "
+            "each of the three marks in turn, but has not yet "
+            "linked them causally &mdash; \"impermanent, therefore "
+            "suffering, therefore not-self\" remains implicit, not "
+            "spelled out.",
+        ]),
+        ("A shorter close than its two neighbors", [
+            "This discourse's own final line (\"This is that "
+            "practice that's conducive to extinguishment\") ends "
+            "the statement-form trio without any further "
+            "elaboration &mdash; the shortest of the three, "
+            "closing on exactly the same words as SN 35.147 and SN "
+            "35.148 before it.",
+        ]),
+        ("What comes next: the chain, restored", [
+            "SN 35.150, the immediately following discourse, "
+            "returns to catechism form and explicitly derives "
+            "suffering from impermanence and not-self from "
+            "suffering &mdash; the logical work this trio's own "
+            "three statement-form discourses have deliberately "
+            "deferred.",
+        ]),
+    ],
+    terms=[
+        ("anattā", "not-self &mdash; the third of the three marks, "
+             "this discourse's own sole focus, closing the "
+             "statement-form trio"),
+        ("nibbānasappāya", "conducive to extinguishment &mdash; the "
+             "trio's own shared key term, repeated a third and "
+             "final time unaltered"),
+        ("vedanā", "feeling &mdash; the fifth element per sense "
+             "field, declared not-self here as it was impermanent "
+             "and suffering in the two previous discourses"),
+        ("anicca, dukkha, anattā", "impermanent, suffering, "
+             "not-self &mdash; the completed canonical sequence, "
+             "here stated as three separate discourses rather than "
+             "one linked chain"),
+        ("paṭipadā", "practice, or a way forward &mdash; the term "
+             "framing all three marks alike as something to be "
+             "cultivated, not merely observed"),
+    ],
+    text_intro=("The complete discourse: the practice conducive to "
+        "extinguishment defined as not-self seen across each sense "
+        "field's own five elements. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.149:1.1-1.3"),
+        ("p", "&sect;2", "sn35.149:1.4-1.6"),
+    ],
+    quiz=[
+        {"q": "Which of the three marks does this discourse declare, closing out the trio begun at SN 35.147?",
+         "opts": ["Not-self (anattā)", "Impermanence (anicca), repeated a second time", "Suffering (dukkha), repeated a second time", "A fourth mark not previously named"],
+         "correct": 0,
+         "expl": "Completing the canonical anicca-dukkha-anattā sequence across three separate statement-form discourses."},
+        {"q": "By the close of this discourse, has the trio yet linked the three marks into a causal chain?",
+         "opts": ["No — each mark has been stated separately; the derivation is left to SN 35.150", "Yes — SN 35.148 already spelled out the full derivation", "Yes — this discourse itself derives not-self from suffering explicitly", "The trio never draws the connection anywhere in this vagga"],
+         "correct": 0,
+         "expl": "SN 35.150, the very next discourse, restores catechism form and draws the connections out explicitly."},
+        {"q": "How does this discourse's own five-element enumeration compare to SN 35.147 and SN 35.148?",
+         "opts": ["Identical — field, object, consciousness, contact, and feeling, with only the mark itself changed", "It adds a sixth element not present before", "It drops feeling from the enumeration", "It applies only to the eye, not all six sense fields"],
+         "correct": 0,
+         "expl": "The trio's own controlled substitution: same frame, one word changed each time."},
+        {"q": "What discourse form does SN 35.150 restore, immediately after this discourse?",
+         "opts": ["Catechism (question and answer) form", "Verse form", "A first-person narrative", "A dialogue with wanderers of other religions"],
+         "correct": 0,
+         "expl": "SN 35.150 returns to the call-and-response structure this trio's three statement-form discourses set aside."},
+        {"q": "What closing line does this discourse share with SN 35.147 and SN 35.148?",
+         "opts": ["\"This is that practice that's conducive to extinguishment\"", "\"There is nothing further for this place\"", "\"Rebirth is ended, the spiritual journey has been completed\"", "\"Practice absorption, mendicants! Don't be negligent!\""],
+         "correct": 0,
+         "expl": "The trio's own shared closing formula, naming nibbānasappāya directly each time."},
+    ],
+    marginalia=[
+        ("The trio's third mark", [
+            "impermanence, suffering, now —",
+            "not-self, the sequence complete",
+        ]),
+        ("Three statements, not yet a chain", [
+            "each mark stands on its own —",
+            "the link still waits ahead",
+        ]),
+        ("The same five elements", [
+            "field, object, knowing, touch,",
+            "feeling — only the word changes",
+        ]),
+        ("What the next discourse restores", [
+            "catechism, and the derivation —",
+            "SN 35.150, immediately next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.149/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.148.html">SN 35.148 &middot; The Suffering '
+        "as Conducive to Extinguishment</a> &mdash; the previous "
+        "discourse, the trio's second installment.",
+        '<a href="sn-35.150.html">SN 35.150 &middot; A Practice '
+        "Conducive to Extinguishment</a> &mdash; the next "
+        "discourse, restoring catechism form and closing the "
+        "quartet.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.150 — Nibbānasappāyapaṭipadāsutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 150, "Nibbānasappāyapaṭipadā",
+    "A Practice Conducive to Extinguishment",
+    vagga="Navapurāṇavagga",
+    meta_title="SN 35.150 &mdash; A Practice Conducive to "
+                "Extinguishment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Nibbānasappāyapaṭipadāsutta &mdash; closing the "
+        "quartet begun at SN 35.147 with the familiar catechism, "
+        "explicitly deriving suffering and not-self from "
+        "impermanence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha and the assembled mendicants, in "
+                      "call and response"),
+        ("Form", "The standard three-mark catechism, run in full "
+                 "for the eye and compressed by peyyāla for the "
+                 "remaining five sense fields and their feelings"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a familiar catechism, closing a four-part "
+                       "quartet"),
+    ],
+    why=(
+        "This discourse closes the quartet SN 35.147 opened: where "
+        "the previous three discourses stated impermanence, "
+        "suffering, and not-self as three separate declarations, "
+        "this one restores the catechism form this project has met "
+        "many times before and explicitly performs the derivation "
+        "the trio left implicit &mdash; what's impermanent is "
+        "suffering, what's suffering and perishable is unfit to be "
+        "regarded as self, run first for the eye in full and then "
+        "compressed by peyyāla across the remaining five sense "
+        "fields. The same fivefold enumeration as SN 35.147-149 "
+        "(field, object, consciousness, contact, and feeling) is "
+        "carried through the questioning here as well, not "
+        "abandoned for the catechism's more familiar four-part "
+        "version."
+    ),
+    guide=[
+        ("The chain, drawn out explicitly at last", [
+            "\"Is the eye permanent or impermanent?\" &mdash; "
+            "\"Impermanent, sir.\" &mdash; \"But if it's "
+            "impermanent, is it suffering or happiness?\" &mdash; "
+            "\"Suffering, sir.\" &mdash; the derivation SN "
+            "35.147-149 each left as three separate statements is "
+            "here performed step by step, in the question-and-"
+            "answer form this project has already met many times.",
+        ]),
+        ("The standard threefold negation", [
+            "\"This is mine, I am this, this is my self\"? "
+            "&mdash; \"No, sir.\" &mdash; the same formula this "
+            "project has traced since Book III, now applied to the "
+            "quartet's own fivefold enumeration per sense field "
+            "rather than the five aggregates.",
+        ]),
+        ("Five elements, carried through the catechism", [
+            "Unlike many of this project's earlier catechisms, "
+            "which typically question four elements per sense "
+            "field (field, object, consciousness, contact), this "
+            "one preserves the quartet's own fifth element "
+            "&mdash; feeling &mdash; questioned in exactly the same "
+            "three-step form as the other four.",
+        ]),
+        ("A quartet completed, not a new claim", [
+            "This discourse doesn't introduce new content so much "
+            "as complete the logical work its own three "
+            "predecessors deliberately deferred &mdash; the "
+            "quartet's own structure (three separate statements, "
+            "then one full derivation) mirrors this project's "
+            "already-familiar pattern of stating marks separately "
+            "before showing how they connect.",
+        ]),
+    ],
+    terms=[
+        ("aniccaṁ...dukkhaṁ...anattā", "impermanent...suffering..."
+             "not-self &mdash; the three-step chain performed "
+             "explicitly here, after standing separately across the "
+             "quartet's own first three discourses"),
+        ("&lsquo;etaṁ mama, esohamasmi, eso me attā&rsquo;ti", "'this "
+             "is mine, I am this, this is my self' &mdash; the "
+             "standard threefold negation, already familiar from "
+             "this project's own Book III"),
+        ("nibbindati", "grows disillusioned &mdash; the pivot from "
+             "seeing correctly to the closing liberation sequence"),
+        ("nibbānasappāyapaṭipadā", "a practice conducive to "
+             "extinguishment &mdash; this discourse's own title "
+             "term, closing the quartet SN 35.147 began"),
+        ("&hellip;pe&hellip;", "an ellipsis marking bilara-data's "
+             "own peyyāla compression &mdash; the full catechism "
+             "given once for the eye, then abbreviated across the "
+             "remaining five sense fields"),
+    ],
+    text_intro=("The complete discourse, following bilara-data's own "
+        "peyyāla compression: the full catechism given for the eye, "
+        "then its result restated for all six sense fields and "
+        "their feelings together. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.150:1.1-6.1"),
+        ("p", "&sect;2", "sn35.150:7.1-14.1"),
+        ("p", "&sect;3", "sn35.150:15.1-15.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse do that SN 35.147-149 each left undone?",
+         "opts": ["Explicitly derives suffering from impermanence and draws the standard threefold negation, in catechism form", "Introduces a fourth mark beyond impermanence, suffering, and not-self", "Restates the vagga's own opening teaching on old and new deeds", "Denies that impermanence and suffering are connected"],
+         "correct": 0,
+         "expl": "Where the trio stated each mark separately, this discourse performs the derivation step by step."},
+        {"q": "What form does this discourse use, compared to the three statement-form discourses before it?",
+         "opts": ["Catechism — question and answer, the form this project has met many times before", "Verse, unlike any of its three neighbors", "A dialogue with wanderers of other religions", "A first-person narrative by a named mendicant"],
+         "correct": 0,
+         "expl": "Restoring the call-and-response structure the trio's three statement-form discourses set aside."},
+        {"q": "How many elements per sense field does this catechism question, matching the quartet's own earlier discourses?",
+         "opts": ["Five — field, object, consciousness, contact, and feeling", "Four — field, object, consciousness, and contact only, dropping feeling", "Six, matching this book's own opening declaration", "Two — field and object only"],
+         "correct": 0,
+         "expl": "Unlike many of this project's other catechisms, this one preserves feeling as a fifth questioned element."},
+        {"q": "What threefold negation does this discourse apply, once impermanence and suffering are established?",
+         "opts": ["\"This is mine, I am this, this is my self\"? — \"No, sir.\"", "\"This is real, this is true, this is certain\"? — \"No, sir.\"", "\"This is pleasant, this is lasting, this is mine to keep\"? — \"No, sir.\"", "No negation is drawn — the catechism ends at suffering"],
+         "correct": 0,
+         "expl": "The same formula this project has traced since Book III, now applied to the quartet's fivefold enumeration."},
+        {"q": "How is the eye's own full catechism handled for the remaining five sense fields?",
+         "opts": ["Compressed by bilara-data's own peyyāla ellipsis, following the standard elision convention", "Repeated in full for every sense field individually", "Omitted entirely — only the eye is questioned", "Replaced with a completely different catechism"],
+         "correct": 0,
+         "expl": "The full form given once for the eye, then abbreviated across the remaining fields, as this project has seen many times before."},
+    ],
+    marginalia=[
+        ("The chain, at last performed", [
+            "impermanent — therefore suffering —",
+            "therefore not fit to call \"self\"",
+        ]),
+        ("A familiar threefold no", [
+            "\"mine\"? \"I\"? \"my self\"? —",
+            "\"No, sir\" — met before, in Book III",
+        ]),
+        ("Five elements, kept whole", [
+            "field, object, knowing, touch,",
+            "feeling — none dropped from the questioning",
+        ]),
+        ("A quartet's own close", [
+            "three statements, then one chain —",
+            "the logic finally drawn out",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.150/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.149.html">SN 35.149 &middot; Not-Self as '
+        "Conducive to Extinguishment</a> &mdash; the previous "
+        "discourse, the trio's third and final statement-form "
+        "installment.",
+        '<a href="sn-35.151.html">SN 35.151 &middot; A Resident '
+        "Pupil</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.151 — Antevāsikasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 151, "Antevāsika", "A Resident Pupil",
+    vagga="Navapurāṇavagga",
+    meta_title="SN 35.151 &mdash; A Resident Pupil | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Antevāsikasutta &mdash; \"resident pupil\" and "
+        "\"teaching master\" turned inward, naming unskillful "
+        "qualities that arise and reside within at the six sense "
+        "doors. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A thesis stated, then defined twice over &mdash; "
+                 "the same terms applied first to a mendicant who "
+                 "has them, then to one who doesn't"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "an ordinary teacher-training vocabulary, "
+                       "given an unexpected inward turn"),
+    ],
+    why=(
+        "\"Resident pupil\" (antevāsika) and \"teaching master\" "
+        "(ācariya) ordinarily name two people: a junior monastic "
+        "living under a senior one's instruction. This discourse "
+        "repurposes both terms entirely &mdash; naming not two "
+        "people but a single mendicant's own relationship to bad, "
+        "unskillful qualities that arise at the six sense doors. A "
+        "mendicant \"has a resident pupil\" when such qualities "
+        "arise and reside within; the same mendicant \"has a "
+        "teaching master\" when those qualities master them. Living "
+        "with no such qualities arising is living without either "
+        "&mdash; and, the discourse states directly, that "
+        "unencumbered life is the happier and more comfortable one."
+    ),
+    guide=[
+        ("Two familiar roles, redefined", [
+            "\"This spiritual life is lived without a resident "
+            "pupil and without a teaching master\" &mdash; opening "
+            "on a claim that would sound strange in an ordinary "
+            "monastic context, where both roles are assumed to be "
+            "normal and necessary, before the discourse reveals "
+            "what it actually means by them.",
+        ]),
+        ("A resident pupil: what arises and stays", [
+            "\"When a mendicant sees a sight with the eye, bad, "
+            "unskillful phenomena arise: memories and thoughts that "
+            "tighten fetters. Those qualities reside within\" "
+            "&mdash; and for exactly that reason, the mendicant is "
+            "said to \"have a resident pupil,\" the unskillful "
+            "quality itself cast in the role of a live-in "
+            "dependent.",
+        ]),
+        ("A teaching master: what masters in turn", [
+            "\"Those qualities master them\" &mdash; the same "
+            "unskillful phenomena, once they've taken up residence, "
+            "are said to master the mendicant who's given them "
+            "shelter, reversing the ordinary hierarchy: the "
+            "resident pupil becomes, in effect, the teacher.",
+        ]),
+        ("Run across all six sense doors, then restated", [
+            "The identical definition repeats for each of the six "
+            "senses (compressed by peyyāla for the middle four), "
+            "then for its negative counterpart &mdash; qualities "
+            "that don't arise, don't reside, and don't master "
+            "&mdash; before the discourse closes by simply "
+            "restating its own opening thesis, now fully defined.",
+        ]),
+    ],
+    terms=[
+        ("antevāsika", "a resident pupil &mdash; ordinarily a junior "
+             "monastic living under instruction, here repurposed "
+             "for any bad, unskillful quality that arises and "
+             "resides within"),
+        ("ācariya", "a teaching master &mdash; ordinarily the senior "
+             "instructor, here repurposed for whatever unskillful "
+             "quality comes to master the mendicant who harbors it"),
+        ("pāpakā akusalā dhammā", "bad, unskillful qualities "
+             "&mdash; the discourse's own subject throughout, named "
+             "generally rather than as any specific defilement"),
+        ("saṁyojaniyā sarasaṅkappā", "memories and thoughts that "
+             "tighten fetters &mdash; the specific content of what "
+             "arises at contact, in the discourse's own phrase"),
+        ("sāta samphassa vihārī", "living in happiness and comfort "
+             "&mdash; the discourse's own verdict on the mendicant "
+             "who lives without either role"),
+    ],
+    text_intro=("The complete discourse: \"resident pupil\" and "
+        "\"teaching master\" redefined as unskillful qualities "
+        "arising and mastering at the six sense doors, run in full "
+        "for both the mendicant who has them and the one who "
+        "doesn't. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.151:1.1-3.6"),
+        ("p", "&sect;2", "sn35.151:4.1-6.9"),
+    ],
+    quiz=[
+        {"q": "What do \"resident pupil\" (antevāsika) and \"teaching master\" (ācariya) ordinarily name, and what does this discourse do with them?",
+         "opts": ["Two monastic roles, redefined here as a mendicant's own relationship to unskillful qualities arising within", "Two meditation techniques, redefined as breath stages", "Two kinds of almsfood, redefined as sense objects", "The terms are used in their ordinary sense throughout"],
+         "correct": 0,
+         "expl": "The discourse repurposes an ordinary teacher-training vocabulary for an entirely inward-facing use."},
+        {"q": "When is a mendicant said to \"have a resident pupil,\" according to this discourse?",
+         "opts": ["When bad, unskillful qualities arise at sense contact and reside within", "When they formally take on a junior monastic as a student", "When they have not yet been ordained", "When they live alone without any teacher"],
+         "correct": 0,
+         "expl": "The unskillful quality itself is cast in the role of a live-in dependent."},
+        {"q": "When is that same mendicant said to \"have a teaching master\"?",
+         "opts": ["When those same unskillful qualities come to master the mendicant who harbors them", "When they are formally appointed to teach the Dhamma", "When they memorize the discourses by heart", "When their own teacher passes away"],
+         "correct": 0,
+         "expl": "Reversing the ordinary hierarchy — the resident pupil becomes, in effect, the teacher."},
+        {"q": "What is the discourse's own verdict on a mendicant who lives without either role?",
+         "opts": ["That mendicant lives in happiness and comfort", "That mendicant lives in suffering and discomfort", "The discourse offers no verdict either way", "Such a life is impossible for an ordinary mendicant"],
+         "correct": 0,
+         "expl": "Stated directly, contrasting with the mendicant who lives with both — suffering and discomfort."},
+        {"q": "How is the definition applied across the six sense doors?",
+         "opts": ["Given in full for the eye and mind, compressed by peyyāla for the middle four senses", "Given in full for all six senses individually, with no compression", "Applied only to the mind, not the other five senses", "Applied only to hearing, as the discourse's own primary example"],
+         "correct": 0,
+         "expl": "The standard bilara-data elision convention, already familiar from many of this project's own catechisms."},
+    ],
+    marginalia=[
+        ("Two roles, turned inward", [
+            "resident pupil, teaching master —",
+            "not people, but what arises",
+        ]),
+        ("What stays, and takes root", [
+            "unskillful qualities, residing —",
+            "that alone makes a \"pupil\"",
+        ]),
+        ("The pupil becomes the master", [
+            "once it resides, it rules —",
+            "the hierarchy quietly reverses",
+        ]),
+        ("The happier, unencumbered life", [
+            "living with neither role —",
+            "comfort, the discourse's own verdict",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.151/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.150.html">SN 35.150 &middot; A Practice '
+        "Conducive to Extinguishment</a> &mdash; the previous "
+        "discourse, closing the vagga's own opening quartet.",
+        '<a href="sn-35.152.html">SN 35.152 &middot; What&rsquo;s '
+        "the goal of the spiritual life?</a> &mdash; the next "
+        "discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.152 — Kimatthiyabrahmacariyasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 152, "Kimatthiyabrahmacariya",
+    "What&rsquo;s the goal of the spiritual life?",
+    vagga="Navapurāṇavagga",
+    meta_title="SN 35.152 &mdash; What&rsquo;s the Goal of the "
+                "Spiritual Life? | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Kimatthiyabrahmacariyasutta &mdash; a scripted "
+        "answer for wanderers of other religions, naming the six "
+        "sense fields themselves as the suffering to be fully "
+        "understood. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, coaching the mendicants in "
+                      "advance for a question others might ask them"),
+        ("Form", "A scripted two-question exchange with outsiders, "
+                 "the second answer run across all six sense fields "
+                 "and their feelings"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a rehearsed answer, worth reading as "
+                       "apologetic strategy as much as doctrine"),
+    ],
+    why=(
+        "This discourse doesn't address the mendicants' own "
+        "practice directly; it scripts what they should say when "
+        "asked about it by outsiders. \"What's the goal of leading "
+        "the spiritual life under the ascetic Gotama?\" the Buddha "
+        "imagines wanderers of other religions asking, and supplies "
+        "a two-part answer in advance: first, the compact reply "
+        "(\"to completely understand suffering\"), and then, "
+        "anticipating the inevitable follow-up (\"what is that "
+        "suffering?\"), the fuller answer naming each of the six "
+        "sense fields, their objects, consciousnesses, contacts, "
+        "and feelings as suffering in turn. The discourse is "
+        "unusual in this vagga for addressing outsiders explicitly "
+        "rather than assuming an audience of mendicants alone."
+    ),
+    guide=[
+        ("A question anticipated, not yet asked", [
+            "\"If wanderers who follow another religion were to "
+            "ask you...\" &mdash; the discourse is framed entirely "
+            "as preparation, coaching mendicants in a scripted "
+            "answer before any actual outsider has posed the "
+            "question.",
+        ]),
+        ("The short answer: to completely understand suffering", [
+            "\"The goal of leading the spiritual life under the "
+            "Buddha is to completely understand suffering\" "
+            "&mdash; a single-sentence answer, given as the correct "
+            "first response before the discourse anticipates a "
+            "natural follow-up question.",
+        ]),
+        ("The long answer: the six sense fields themselves", [
+            "\"The eye is suffering... the goal of leading the "
+            "spiritual life under the Buddha is to completely "
+            "understand this\" &mdash; repeated for sights, eye "
+            "consciousness, eye contact, and the feeling arising "
+            "from that contact, then across the remaining five "
+            "sense fields, giving \"suffering\" here its widest "
+            "possible scope: not any particular experience, but "
+            "the entire apparatus of sensory experience itself.",
+        ]),
+        ("A rare address to outsiders", [
+            "Unlike most of this vagga's other discourses, which "
+            "address the mendicants' own training directly, this "
+            "one is explicitly apologetic in form &mdash; equipping "
+            "the community with a ready answer for exactly the kind "
+            "of interreligious questioning the early texts "
+            "elsewhere depict as commonplace.",
+        ]),
+    ],
+    terms=[
+        ("aññatitthiyā paribbājakā", "wanderers who follow another "
+             "religion &mdash; the imagined questioners this "
+             "discourse coaches mendicants to answer"),
+        ("kimatthiyaṁ...brahmacariyaṁ", "what's the goal of the "
+             "spiritual life &mdash; the anticipated question this "
+             "discourse's own title names directly"),
+        ("dukkhassa pariññāya", "for the complete understanding of "
+             "suffering &mdash; the short answer, given first"),
+        ("cakkhu dukkhaṁ", "the eye is suffering &mdash; the "
+             "opening line of the long answer, run across all six "
+             "sense fields and their feelings"),
+        ("pariññeyyaṁ", "to be completely understood &mdash; the "
+             "verb repeated after each element named, the "
+             "discourse's own refrain"),
+    ],
+    text_intro=("The complete discourse: the scripted short and "
+        "long answers for wanderers of other religions who ask "
+        "about the goal of the spiritual life. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.152:1.1-1.7"),
+        ("p", "&sect;2", "sn35.152:2.1-2.18"),
+    ],
+    quiz=[
+        {"q": "Who is this discourse's own scripted answer addressed to?",
+         "opts": ["Wanderers of other religions, imagined asking the mendicants about their goal", "The Buddha's own mendicant disciples, questioning their teacher directly", "A specific named king or householder", "No audience is specified"],
+         "correct": 0,
+         "expl": "The discourse coaches mendicants in advance, before any actual outsider has posed the question."},
+        {"q": "What is the short answer this discourse gives to \"what's the goal of the spiritual life?\"",
+         "opts": ["To completely understand suffering", "To attain the four jhānas", "To be reborn in a heavenly realm", "To master the Pali scriptures"],
+         "correct": 0,
+         "expl": "A single-sentence answer, given first before the discourse anticipates a natural follow-up question."},
+        {"q": "How does the discourse answer the anticipated follow-up, \"what is that suffering?\"",
+         "opts": ["Each of the six sense fields, their objects, consciousnesses, contacts, and feelings, named as suffering in turn", "A list of the eight kinds of suffering named in the four noble truths", "By redirecting to a question about kamma instead", "The discourse declines to answer the follow-up question"],
+         "correct": 0,
+         "expl": "Giving \"suffering\" its widest scope — the entire apparatus of sensory experience itself."},
+        {"q": "How does this discourse differ in form from most of this vagga's other discourses?",
+         "opts": ["It is explicitly apologetic, scripting an answer for outsiders rather than addressing mendicant training directly", "It is the only discourse in the vagga written in verse", "It is addressed to a king rather than to mendicants", "It denies that any goal exists for the spiritual life"],
+         "correct": 0,
+         "expl": "A rare address to interreligious questioning, unlike the vagga's more typical training-focused discourses."},
+        {"q": "What refrain follows each element named in the long answer?",
+         "opts": ["\"The goal of leading the spiritual life under the Buddha is to completely understand this\"", "\"This is mine, I am this, this is my self\"", "\"Rebirth is ended, the spiritual journey has been completed\"", "\"Practice absorption, mendicants! Don't be negligent!\""],
+         "correct": 0,
+         "expl": "Repeated after each of the six sense fields' own four elements and the feeling arising from contact."},
+    ],
+    marginalia=[
+        ("A question, rehearsed in advance", [
+            "outsiders may ask this one day —",
+            "here is the answer, ready",
+        ]),
+        ("The short answer", [
+            "to completely understand",
+            "suffering — nothing more, nothing less",
+        ]),
+        ("The long answer: six fields", [
+            "eye, ear, nose, tongue, body, mind —",
+            "each one named suffering in turn",
+        ]),
+        ("Apologetics, not just training", [
+            "a rare discourse turned outward —",
+            "equipping an answer for others",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.152/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.151.html">SN 35.151 &middot; A Resident '
+        "Pupil</a> &mdash; the previous discourse.",
+        '<a href="sn-35.153.html">SN 35.153 &middot; Is There a '
+        "Method?</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.153 — Atthinukhopariyāyasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 153, "Atthinukhopariyāya", "Is There a Method?",
+    vagga="Navapurāṇavagga",
+    meta_title="SN 35.153 &mdash; Is There a Method? | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Atthinukhopariyāyasutta &mdash; declaring "
+        "enlightenment on the strength of directly seeing greed, "
+        "hate, and delusion, apart from faith, oral transmission, "
+        "or reasoned deliberation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, posing his own rhetorical "
+                      "question, then answering it with the "
+                      "mendicants in call and response"),
+        ("Form", "A five-item epistemic list, a request for "
+                 "clarification, then a catechism testing that list "
+                 "against direct self-knowledge at each sense door"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "an epistemological argument, not merely a "
+                       "doctrinal claim"),
+    ],
+    why=(
+        "This discourse asks whether a mendicant can declare their "
+        "own enlightenment on some basis other than faith, "
+        "endorsement, oral transmission, reasoned inference, or "
+        "acceptance of a view after deliberation &mdash; the "
+        "identical five-item list this project has already met at "
+        "SN 12.68, already published in Book II, where the same "
+        "five terms were tested against knowledge of dependent "
+        "origination's own twelve links. There the question was "
+        "whether one could know the links leading to old age and "
+        "death without relying on any of the five; here it's "
+        "whether a mendicant can know their own greed, hate, and "
+        "delusion &mdash; or their absence &mdash; without relying "
+        "on them either. The answer in both cases is the same: yes, "
+        "by seeing with wisdom directly."
+    ),
+    guide=[
+        ("A question about how one knows, not what one knows", [
+            "\"Is there a method&mdash;apart from faith, "
+            "endorsement, oral transmission, reasoned train of "
+            "thought, or acceptance of a view after deliberation"
+            "&mdash;that a mendicant can rely on to declare their "
+            "enlightenment?\" &mdash; framing enlightenment's own "
+            "declaration as an epistemological question, not "
+            "merely a doctrinal one.",
+        ]),
+        ("The identical list, met once before", [
+            "This project has already encountered this exact "
+            "five-item list at SN 12.68 (already published in Book "
+            "II), there testing knowledge of dependent origination "
+            "rather than self-knowledge of greed, hate, and "
+            "delusion &mdash; the same epistemic standard, applied "
+            "to a different object.",
+        ]),
+        ("The test: greed, hate, and delusion, directly known", [
+            "\"When they have greed, hate, and delusion in them, "
+            "they understand 'I have greed, hate, and delusion in "
+            "me.' When they don't have greed, hate, and delusion in "
+            "them, they understand 'I don't'\" &mdash; a test run at "
+            "each of the six sense doors, confirmed each time by "
+            "the mendicants' own answer: not by faith, but by "
+            "seeing with wisdom.",
+        ]),
+        ("The sangha defers to the Buddha, then confirms his answer", [
+            "\"Our teachings are rooted in the Buddha... may the "
+            "Buddha himself please clarify the meaning of this\" "
+            "&mdash; the mendicants explicitly decline to answer "
+            "the opening question themselves, waiting for the "
+            "Buddha's own reply before confirming it step by step "
+            "in the catechism that follows.",
+        ]),
+    ],
+    terms=[
+        ("saddhā, ruci, anussava, ākāraparivitakka, "
+         "diṭṭhinijjhānakkhanti", "faith, endorsement, oral "
+             "transmission, reasoned train of thought, and "
+             "acceptance of a view after deliberation &mdash; the "
+             "five-item list this project has already met at SN "
+             "12.68"),
+        ("aññaṁ byākaroti", "declares enlightenment &mdash; the "
+             "specific act this discourse asks what basis can "
+             "justify"),
+        ("&lsquo;khīṇā jāti...n&rsquo;āparaṁ itthattāyā&rsquo;ti",
+             "'rebirth is ended, the spiritual journey has been "
+             "completed, what had to be done has been done, there "
+             "is nothing further for this place' &mdash; the "
+             "standard declaration this discourse tests the basis "
+             "for making"),
+        ("rāga, dosa, moha", "greed, hate, and delusion &mdash; the "
+             "three qualities directly known or known-absent, the "
+             "discourse's own test case"),
+        ("paññāya passataṁ", "seeing with wisdom &mdash; the "
+             "alternative basis the catechism confirms, in place of "
+             "any of the five listed"),
+    ],
+    text_intro=("The complete discourse: the Buddha's own question, "
+        "the sangha's request for clarification, and the catechism "
+        "confirming direct self-knowledge of greed, hate, and "
+        "delusion as a method independent of faith, testimony, or "
+        "inference. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.153:1.1-1.8"),
+        ("p", "&sect;2", "sn35.153:2.1-2.9"),
+        ("p", "&sect;3", "sn35.153:3.1-4.8"),
+    ],
+    quiz=[
+        {"q": "What five-item list does this discourse test against direct self-knowledge?",
+         "opts": ["Faith, endorsement, oral transmission, reasoned train of thought, and acceptance of a view after deliberation", "The five aggregates: form, feeling, perception, choices, and consciousness", "The five faculties: faith, energy, mindfulness, immersion, and wisdom", "The five precepts"],
+         "correct": 0,
+         "expl": "The identical list this project has already met at SN 12.68, there applied to dependent origination instead."},
+        {"q": "Where has this project already encountered this exact five-item epistemic list?",
+         "opts": ["SN 12.68, already published in Book II, testing knowledge of dependent origination's own twelve links", "SN 22.59, already published in Book III", "This is the first appearance of the list on this site", "SN 35.1, this book's own opening discourse"],
+         "correct": 0,
+         "expl": "The same epistemic standard, there applied to a different object of knowledge."},
+        {"q": "What does the catechism test a mendicant's ability to know directly, without relying on any of the five listed methods?",
+         "opts": ["Whether greed, hate, and delusion are present or absent in themselves", "Whether rebirth exists at all", "Whether the Buddha's teachings are historically accurate", "Whether other mendicants have attained enlightenment"],
+         "correct": 0,
+         "expl": "Confirmed at each of the six sense doors: known directly by seeing with wisdom, not by any of the five listed bases."},
+        {"q": "How does the sangha initially respond to the Buddha's own opening question?",
+         "opts": ["They defer, asking the Buddha himself to clarify rather than answering directly", "They immediately answer with a confident \"yes\"", "They immediately answer with a confident \"no\"", "They ask a different mendicant to answer on their behalf"],
+         "correct": 0,
+         "expl": "\"Our teachings are rooted in the Buddha... may the Buddha himself please clarify the meaning of this.\""},
+        {"q": "What declaration does this discourse's own method ultimately justify making?",
+         "opts": ["\"Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is nothing further for this place\"", "\"This is mine, I am this, this is my self\"", "\"The goal of the spiritual life is to completely understand suffering\"", "No declaration is discussed in this discourse"],
+         "correct": 0,
+         "expl": "The standard enlightenment declaration, whose epistemic basis this whole discourse investigates."},
+    ],
+    marginalia=[
+        ("Not what, but how one knows", [
+            "faith, hearsay, inference —",
+            "or something else entirely?",
+        ]),
+        ("A list met once before", [
+            "SN 12.68, Book II —",
+            "the same five terms, tested",
+        ]),
+        ("Greed known, or known absent", [
+            "\"I have it\" — \"I don't\" —",
+            "seen directly, not merely believed",
+        ]),
+        ("The sangha defers, then confirms", [
+            "\"let the Buddha clarify\" —",
+            "then answers each question in turn",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.153/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.152.html">SN 35.152 &middot; What&rsquo;s '
+        "the goal of the spiritual life?</a> &mdash; the previous "
+        "discourse.",
+        '<a href="sn-35.154.html">SN 35.154 &middot; Endowed With '
+        "Faculties</a> &mdash; the next discourse.",
+        '<a href="sn-12.68.html">SN 12.68 &middot; At Kosambī</a> '
+        "&mdash; already published on this site, using the "
+        "identical five-item epistemic list, there tested against "
+        "knowledge of dependent origination rather than "
+        "self-knowledge of greed, hate, and delusion.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.154 — Indriyasampannasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 154, "Indriyasampanna", "Endowed With Faculties",
+    vagga="Navapurāṇavagga",
+    meta_title="SN 35.154 &mdash; Endowed With Faculties | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Indriyasampannasutta &mdash; a mendicant's own "
+        "question about what it means to be \"accomplished in the "
+        "faculties,\" answered by observing rise and fall at each "
+        "of the six senses. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "An unnamed mendicant, questioning the Buddha; "
+                      "the Buddha replying"),
+        ("Form", "A single question, then a single declaration run "
+                 "across all six sense faculties, closing on the "
+                 "standard liberation formula"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and direct"),
+    ],
+    why=(
+        "\"Accomplished in the faculties\" (indriyasampanna) is a "
+        "phrase an unnamed mendicant reports hearing used, without "
+        "yet knowing its precise meaning &mdash; a familiar pattern "
+        "in this project's own vagga so far, where technical terms "
+        "arrive already in circulation and the discourse itself "
+        "supplies the missing definition. Here the answer is "
+        "compact: a mendicant who meditates observing rise and fall "
+        "(udayabbaya) at each of the six sense faculties, growing "
+        "disillusioned faculty by faculty, until desire fades and "
+        "freedom is reached. The faculties in question are the "
+        "sense faculties themselves (indriya used in its narrower "
+        "sense), not the five spiritual faculties (faith, energy, "
+        "mindfulness, immersion, wisdom) the same word can also "
+        "name elsewhere in the canon."
+    ),
+    guide=[
+        ("A term already in use, its meaning sought", [
+            "\"They speak of someone who is 'accomplished in the "
+            "faculties'. How is someone accomplished in the "
+            "faculties defined?\" &mdash; the mendicant's own "
+            "question assumes the phrase is already circulating, "
+            "asking only for its precise sense.",
+        ]),
+        ("Which faculties: the senses, not the five spiritual powers", [
+            "Indriya can name either the six sense faculties or the "
+            "five spiritual faculties (faith, energy, mindfulness, "
+            "immersion, wisdom) depending on context; this "
+            "discourse's own answer &mdash; eye faculty, ear "
+            "faculty, and so on through mind faculty &mdash; makes "
+            "clear which sense is meant here.",
+        ]),
+        ("Observing rise and fall, faculty by faculty", [
+            "\"If someone meditates observing rise and fall in the "
+            "eye faculty, they grow disillusioned with the eye "
+            "faculty\" &mdash; the same udayabbaya (rise and fall) "
+            "practice, run identically across all six senses, "
+            "compressed by peyyāla for the middle four.",
+        ]),
+        ("The familiar closing sequence, once again", [
+            "Disillusionment, fading desire, freedom, the knowledge "
+            "of that freedom, and the standard declaration that "
+            "rebirth is ended &mdash; this vagga's own recurring "
+            "closing formula, here the direct answer to what "
+            "\"accomplished in the faculties\" actually means.",
+        ]),
+    ],
+    terms=[
+        ("indriyasampanna", "accomplished in the faculties &mdash; "
+             "the phrase this discourse defines, naming the six "
+             "sense faculties rather than the five spiritual "
+             "faculties the same word can also indicate"),
+        ("cakkhundriya", "the eye faculty &mdash; the first of six "
+             "sense faculties this discourse questions in turn"),
+        ("udayabbayānupassī", "observing rise and fall &mdash; the "
+             "specific meditative practice this discourse names as "
+             "the path to accomplishment"),
+        ("nibbindati", "grows disillusioned &mdash; the immediate "
+             "result of observing rise and fall at each faculty"),
+        ("&lsquo;khīṇā jāti...n&rsquo;āparaṁ itthattāyā&rsquo;ti",
+             "'rebirth is ended, the spiritual journey has been "
+             "completed, what had to be done has been done, there "
+             "is nothing further for this place' &mdash; the "
+             "discourse's own closing declaration, defining "
+             "accomplishment concretely"),
+    ],
+    text_intro=("The complete discourse: an unnamed mendicant's "
+        "question, and the Buddha's answer defining accomplishment "
+        "in the faculties as disillusionment reached by observing "
+        "rise and fall at each of the six senses. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.154:1.1-1.3"),
+        ("p", "&sect;2", "sn35.154:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What phrase does the unnamed mendicant ask the Buddha to define?",
+         "opts": ["\"Accomplished in the faculties\" (indriyasampanna)", "\"Conducive to extinguishment\" (nibbānasappāya)", "\"A resident pupil\" (antevāsika)", "\"A Dhamma speaker\" (dhammakathika)"],
+         "correct": 0,
+         "expl": "A term the mendicant reports already hearing used, asking only for its precise sense."},
+        {"q": "Which sense of \"faculties\" (indriya) does this discourse's own answer make clear is meant?",
+         "opts": ["The six sense faculties (eye, ear, nose, tongue, body, mind), not the five spiritual faculties", "The five spiritual faculties (faith, energy, mindfulness, immersion, wisdom)", "Both senses simultaneously, without distinguishing them", "Neither — the discourse redefines the term entirely"],
+         "correct": 0,
+         "expl": "The answer runs through eye faculty, ear faculty, and so on through mind faculty."},
+        {"q": "What specific meditative practice does this discourse name as the path to accomplishment?",
+         "opts": ["Observing rise and fall (udayabbaya) at each sense faculty", "Reciting the discourses from memory", "Practicing loving-kindness toward all beings", "Fasting and other ascetic austerities"],
+         "correct": 0,
+         "expl": "Run identically across all six senses, compressed by peyyāla for the middle four."},
+        {"q": "How is the discourse structured across the six sense faculties?",
+         "opts": ["The full pattern given for the eye and mind, compressed by peyyāla for the middle four", "Given in full for all six senses individually", "Applied only to the mind faculty", "Applied only to the eye faculty, with the others left unaddressed"],
+         "correct": 0,
+         "expl": "The standard bilara-data elision convention, already familiar from many of this project's own catechisms."},
+        {"q": "What closing declaration defines accomplishment concretely, according to this discourse?",
+         "opts": ["\"Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is nothing further for this place\"", "\"This is mine, I am this, this is my self\"", "\"The goal of the spiritual life is to completely understand suffering\"", "No closing declaration is given"],
+         "correct": 0,
+         "expl": "This vagga's own recurring closing formula, here supplying the concrete answer to the mendicant's question."},
+    ],
+    marginalia=[
+        ("A phrase already in use", [
+            "\"accomplished in the faculties\" —",
+            "meaning sought, not yet supplied",
+        ]),
+        ("Which faculties, made clear", [
+            "the six senses, not the five —",
+            "faith, energy, and the rest",
+        ]),
+        ("Rise and fall, watched closely", [
+            "at each faculty in turn —",
+            "disillusionment follows directly",
+        ]),
+        ("A familiar close, once more", [
+            "freedom, and knowing it —",
+            "\"nothing further for this place\"",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.154/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.153.html">SN 35.153 &middot; Is There a '
+        "Method?</a> &mdash; the previous discourse.",
+        '<a href="sn-35.155.html">SN 35.155 &middot; A Dhamma '
+        "Speaker</a> &mdash; the next and final discourse of this "
+        "vagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.155 — Dhammakathikapucchāsutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 155, "Dhammakathikapucchā", "A Dhamma Speaker",
+    vagga="Navapurāṇavagga",
+    meta_title="SN 35.155 &mdash; A Dhamma Speaker | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Dhammakathikapucchāsutta &mdash; the familiar "
+        "three-title definition applied to the six sense fields, "
+        "closing Navapurāṇavagga and, its own untranslated "
+        "colophon confirms, the third paṇṇāsaka of "
+        "Saḷāyatanasaṃyutta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "An unnamed mendicant, questioning the Buddha; "
+                      "the Buddha replying"),
+        ("Form", "A single question, then three qualifications "
+                 "defined in ascending order and run across all six "
+                 "sense fields"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a short discourse carrying an outsized "
+                       "structural weight at its close"),
+    ],
+    why=(
+        "This discourse closes Navapurāṇavagga, and its own "
+        "untranslated closing colophon confirms two things at once: "
+        "first, that Navapurāṇavagga is itself &ldquo;the "
+        "fifth&rdquo; (pañcamo) vagga of a fifty now complete; and "
+        "second &mdash; settling the question this project's own "
+        "working notes have carried since Devadahavagga &mdash; "
+        "that this fifty is explicitly named &ldquo;the third&rdquo; "
+        "(tatiyapaṇṇāsaka), closing Saḷāyatanasaṃyutta's own third "
+        "paṇṇāsaka at SN 35.104&ndash;155, five vaggas (Yogakkhemi, "
+        "Lokakāmaguṇa, Gahapati, Devadaha, Navapurāṇa) across 52 "
+        "actual discourses &mdash; &ldquo;paṇṇāsaka&rdquo; naming "
+        "the unit by tradition, not by exact count. The discourse "
+        "itself, apart from this "
+        "closing landmark, applies a definition this project has "
+        "already met twice before &mdash; at SN 12.16 (Book II) and "
+        "SN 22.115&ndash;116 (Book III) &mdash; to the six sense "
+        "fields for the first time: what makes a mendicant "
+        "qualified to be called a Dhamma speaker, one who practices "
+        "in line with the teaching, and one who has attained "
+        "extinguishment in this very life."
+    ),
+    guide=[
+        ("Three titles, in ascending order", [
+            "\"If a mendicant teaches Dhamma for disillusionment... "
+            "regarding the eye, they're qualified to be called 'a "
+            "mendicant who speaks on Dhamma'\" &mdash; the first and "
+            "most accessible qualification, requiring only that the "
+            "teaching itself point the right direction, followed by "
+            "\"practices in line with the teaching\" (actually "
+            "walking it) and \"has attained extinguishment in this "
+            "very life\" (having arrived).",
+        ]),
+        ("A definition met twice before, now given a third home", [
+            "This project has already published this identical "
+            "three-title formula at SN 12.16 (Book II, applied to "
+            "the twelve links of dependent origination) and at SN "
+            "22.115 and SN 22.116 (Book III, applied to the five "
+            "aggregates) &mdash; this discourse gives the same "
+            "definition its third setting, run here across the six "
+            "sense fields instead.",
+        ]),
+        ("This vagga's own closing colophon: the fifth", [
+            "\"Navapurāṇavaggo pañcamo\" &mdash; left untranslated "
+            "in the Pali root and described, not quoted, here, "
+            "confirming Navapurāṇavagga as the fifth vagga of a "
+            "fifty, following the same ordinal pattern (paṭhamo, "
+            "dutiyo, tatiyo, catuttho) this project has already "
+            "traced across Yogakkhemivagga, Lokakāmaguṇavagga, "
+            "Gahapativagga, and Devadahavagga.",
+        ]),
+        ("A larger colophon, resolving an open question", [
+            "\"Saḷāyatanavagge tatiyapaṇṇāsako samatto\" &mdash; "
+            "\"in the Saḷāyatanavagga, the third fifty is "
+            "complete\" &mdash; the higher-level landmark this "
+            "discourse's own colophon supplies, together with a "
+            "meta-uddāna naming all five vaggas of that fifty in "
+            "turn (Yogakkhemi, Lokakāmaguṇa, Gahapati, Devadaha, "
+            "Navapurāṇa), settling as fact what Devadahavagga's own "
+            "reading guide had stated only as prediction: SN "
+            "35.104&ndash;155 is confirmed as the third paṇṇāsaka, "
+            "five vaggas across 52 actual discourses &mdash; "
+            "&ldquo;paṇṇāsaka&rdquo; naming the unit by tradition "
+            "rather than by an exact discourse count, since this "
+            "book's other two completed fifties don't count out to "
+            "fifty either (the first, SN 35.1&ndash;52, is 52 "
+            "discourses; the second, SN 35.53&ndash;103, is 51) "
+            "&mdash; but all three do share the same five-vagga "
+            "span, a consistent pattern this discourse's own "
+            "colophon confirms holds for a third time running.",
+        ]),
+    ],
+    terms=[
+        ("dhammakathiko, dhammānudhammappaṭipanno, "
+         "diṭṭhadhammanibbānappatto", "a Dhamma speaker, one who "
+             "practices in line with the teaching, one who has "
+             "attained extinguishment in this very life &mdash; the "
+             "three ascending qualifications, met twice before at "
+             "SN 12.16 and SN 22.115&ndash;116, applied here to the "
+             "six sense fields"),
+        ("nibbidāya virāgāya nirodhāya", "for disillusionment, "
+             "dispassion, and cessation &mdash; the shared standard "
+             "each of the three qualifications is measured against"),
+        ("navapurāṇavaggo pañcamo", "Navapurāṇavagga, the fifth "
+             "&mdash; this vagga's own closing colophon, left "
+             "untranslated in the Pali root, confirming its place "
+             "as the third paṇṇāsaka's fifth and final vagga"),
+        ("saḷāyatanavagge tatiyapaṇṇāsako samatto", "in the "
+             "Saḷāyatanavagga, the third fifty is complete &mdash; "
+             "the higher-level closing colophon, likewise "
+             "untranslated, confirming SN 35.104&ndash;155 as "
+             "Saḷāyatanasaṃyutta's own third paṇṇāsaka"),
+        ("tassa vagguddānaṁ", "\"its own vagga-summary verse\" "
+             "&mdash; the heading introducing the meta-uddāna that "
+             "names all five vaggas of the third paṇṇāsaka in turn, "
+             "itself left untranslated and described, not quoted, "
+             "in this reading guide"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "colophon (the vagga-, paṇṇāsaka-, and both uddāna-level "
+        "landmarks, all left untranslated in the Pali root and "
+        "described above rather than quoted): the three-title "
+        "definition of a Dhamma speaker, run across the eye and "
+        "mind. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.155:1.1-1.3"),
+        ("p", "&sect;2", "sn35.155:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What three ascending qualifications does this discourse define, applying a formula this project has already met twice before?",
+         "opts": ["A Dhamma speaker, one who practices in line with the teaching, and one who has attained extinguishment in this very life", "A resident pupil, a teaching master, and a fully liberated arahant", "Faith, endorsement, and acceptance of a view after deliberation", "The four noble truths, the noble eightfold path, and dependent origination"],
+         "correct": 0,
+         "expl": "The first requires only right-pointing teaching; the third requires having actually arrived where the teaching points."},
+        {"q": "Where has this project already published this identical three-title formula, before this discourse applies it to the six sense fields?",
+         "opts": ["SN 12.16 (Book II, dependent origination) and SN 22.115-116 (Book III, the five aggregates)", "SN 35.1 and SN 35.103, earlier in this same book", "This is the formula's first appearance anywhere on this site", "AN 4.45 and MN 147, already cross-linked earlier in this vagga"],
+         "correct": 0,
+         "expl": "This discourse gives the same three-title definition its third setting on this site."},
+        {"q": "What does this discourse's own vagga-level closing colophon, \"Navapurāṇavaggo pañcamo,\" confirm?",
+         "opts": ["That Navapurāṇavagga is the fifth vagga of a fifty, continuing the ordinal sequence from Yogakkhemivagga through Devadahavagga", "That this vagga contains exactly five discourses", "That this is the fifth paṇṇāsaka of the entire saṃyutta", "Nothing — this colophon is identical to Devadahavagga's own"],
+         "correct": 0,
+         "expl": "Following the same paṭhamo/dutiyo/tatiyo/catuttho/pañcamo sequence already traced across the previous four vaggas."},
+        {"q": "What does this discourse's own higher-level colophon, \"Saḷāyatanavagge tatiyapaṇṇāsako samatto,\" settle?",
+         "opts": ["That SN 35.104-155 is confirmed as the third paṇṇāsaka, five vaggas across 52 discourses, resolving Devadahavagga's own open prediction", "That the entire Saḷāyatanasaṃyutta is now complete", "That a fourth paṇṇāsaka begins at the very next discourse", "Nothing conclusive — the colophon remains ambiguous"],
+         "correct": 0,
+         "expl": "\"In the Saḷāyatanavagga, the third fifty is complete\" — settling as fact what had been stated only as prediction."},
+        {"q": "How does the third paṇṇāsaka's own five-vagga span compare to this book's two earlier completed fifties?",
+         "opts": ["All three of this book's completed fifties so far have spanned exactly five vaggas apiece", "The third paṇṇāsaka is the first to span more than five vaggas", "The first paṇṇāsaka spanned only three vaggas, unlike the second and third", "There is no consistent pattern across the three fifties"],
+         "correct": 0,
+         "expl": "The first (closing at SN 35.52), second (closing at SN 35.103), and third (closing here) each span five vaggas."},
+    ],
+    marginalia=[
+        ("Three titles, once more", [
+            "speaker, practitioner, arrived —",
+            "the same formula, third setting",
+        ]),
+        ("Met twice before this site", [
+            "SN 12.16, SN 22.115 —",
+            "now the six sense fields' turn",
+        ]),
+        ("\"The fifth,\" and a fifty closes", [
+            "pañcamo — Navapurāṇa's own place,",
+            "closing what Yogakkhemi opened",
+        ]),
+        ("A prediction, now confirmed", [
+            "tatiyapaṇṇāsako samatto —",
+            "the third fifty, complete at last",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.155/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.154.html">SN 35.154 &middot; Endowed With '
+        "Faculties</a> &mdash; the previous discourse.",
+        '<a href="sn-12.16.html">SN 12.16 &middot; A Dhamma '
+        "Speaker</a> &mdash; already published on this site, the "
+        "first appearance of this project's own three-title "
+        "formula, there applied to the twelve links of dependent "
+        "origination.",
+        '<a href="sn-22.115.html">SN 22.115 &middot; A Dhamma '
+        "Speaker &mdash; Three Titles, One Practice</a> &mdash; "
+        "already published on this site, the formula's second "
+        "appearance, there applied to the five aggregates.",
+        '<a href="sn-36.6.html">SN 36.6 &middot; An Arrow</a> '
+        "&mdash; already published on this site, standing ahead of "
+        "this book's own next vagga, Nandikkhayavagga (SN "
+        "35.156&ndash;167), not yet built.",
+    ],
+)
