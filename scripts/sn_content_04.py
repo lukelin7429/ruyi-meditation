@@ -22333,3 +22333,1879 @@ page(
         "35.156&ndash;167), not yet built.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 35.156 — Ajjhattanandikkhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 156, "Ajjhattanandikkhaya", "The Interior and the End of Relishing",
+    vagga="Nandikkhayavagga",
+    meta_title="SN 35.156 &mdash; The Interior and the End of "
+                "Relishing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Ajjhattanandikkhayasutta &mdash; opening "
+        "Nandikkhayavagga and supplying the vagga's own name, this "
+        "discourse states the mutual ending of relishing and greed "
+        "for the six interior sense fields. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A compact chain &mdash; seeing impermanence, "
+                 "disillusionment, and the mutual ending of "
+                 "relishing and greed &mdash; run for all six "
+                 "interior sense fields"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "opens a new vagga and supplies its own name"),
+    ],
+    why=(
+        "This discourse opens Nandikkhayavagga and supplies the "
+        "vagga's own name: &ldquo;nandikkhaya,&rdquo; the ending of "
+        "relishing. Its content is not new to this project &mdash; "
+        "the identical mutual-ending formula (&ldquo;when relishing "
+        "ends, greed ends; when greed ends, relishing ends&rdquo;) "
+        "already closed Book III's own Attadīpavagga at SN 22.51, "
+        "there applied to the five aggregates. This discourse gives "
+        "the same formula its second setting on this site, run "
+        "instead across the six interior sense fields &mdash; eye, "
+        "ear, nose, tongue, body, and mind."
+    ),
+    guide=[
+        ("A formula already met once, in a different book", [
+            "&ldquo;A mendicant sees that the eye is impermanent: "
+            "that's their right view&rdquo; opens the same "
+            "single-step chain SN 22.51 already used for form: "
+            "seeing rightly leads directly to disillusionment, with "
+            "no intervening stage.",
+        ]),
+        ("Mutual ending, not one-directional cause", [
+            "As at SN 22.51, the relationship between relishing "
+            "(nandi) and greed (rāga) is stated as fully "
+            "bidirectional, not a simple cause running one way: "
+            "&ldquo;when relishing ends, greed ends. When greed "
+            "ends, relishing ends.&rdquo; When both end together, "
+            "the mind is said to be well freed.",
+        ]),
+        ("Six fields, not five aggregates", [
+            "The chain is run in full for the eye, then compressed "
+            "through ear, nose, tongue, and body, then given in "
+            "full again for the mind &mdash; this book's own "
+            "six-field structure standing in for SN 22.51's "
+            "five-aggregate one, the same underlying claim about "
+            "relishing and greed applied to a different analytical "
+            "scheme.",
+        ]),
+        ("Supplying the vagga's own name", [
+            "&ldquo;Nandikkhaya,&rdquo; the ending of relishing, "
+            "names both this opening discourse and the vagga it "
+            "begins &mdash; a pattern this project has now met "
+            "several times, most recently at SN 35.146 opening "
+            "Navapurāṇavagga.",
+        ]),
+    ],
+    terms=[
+        ("nandikkhaya", "the ending of relishing &mdash; this "
+             "discourse's own subject, and the name it gives the "
+             "vagga it opens"),
+        ("sammā passaṁ nibbindati", "seeing rightly, they grow "
+             "disillusioned &mdash; the single-step chain, "
+             "identical to SN 22.51's own for form"),
+        ("nandikkhayā rāgakkhayo, rāgakkhayā nandikkhayo",
+             "&ldquo;when relishing ends, greed ends; when greed "
+             "ends, relishing ends&rdquo; &mdash; the mutual-ending "
+             "formula this discourse shares, unchanged, with SN "
+             "22.51"),
+        ("nandirāgakkhayā cittaṁ suvimuttaṁ", "when relishing and "
+             "greed end, the mind is well freed &mdash; the "
+             "chain's own outcome"),
+        ("ajjhattikāni āyatanāni", "the interior sense fields "
+             "&mdash; eye, ear, nose, tongue, body, and mind, this "
+             "discourse's own subject, paired with the exterior "
+             "fields in the discourse immediately following"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "count (left untranslated and not quoted): the mutual-"
+        "ending formula run for the eye, then compressed through "
+        "the remaining sense doors, then given in full again for "
+        "the mind. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.156:1.1-1.15"),
+    ],
+    quiz=[
+        {"q": "What single-step chain opens this discourse's claim about the eye?",
+         "opts": ["Seeing that it is impermanent, which is itself right view, leading directly to disillusionment", "A multi-stage sequence of faith, then diligence, then insight", "A debate between the Buddha and a wandering ascetic", "A simile comparing the eye to a burning house"],
+         "correct": 0,
+         "expl": "No intervening stage separates seeing impermanence from disillusionment."},
+        {"q": "How does this discourse characterize the relationship between relishing and greed?",
+         "opts": ["Fully mutual — each one ending causes the other to end", "Relishing simply causes greed, in one direction only", "Greed simply causes relishing, in one direction only", "The two are said to be entirely unrelated"],
+         "correct": 0,
+         "expl": "\"When relishing ends, greed ends. When greed ends, relishing ends.\""},
+        {"q": "Where has this project already published this identical mutual-ending formula, before this discourse applies it to the six sense fields?",
+         "opts": ["SN 22.51, Book III, there applied to the five aggregates", "SN 12.1, Book II, there applied to dependent origination", "This is the formula's first appearance anywhere on this site", "SN 1.10, Book I, closing Naḷavagga"],
+         "correct": 0,
+         "expl": "SN 22.51 closed Book III's own Attadīpavagga with the same claim about form."},
+        {"q": "What name does this discourse give the vagga it opens?",
+         "opts": ["Nandikkhayavagga, from its own subject, the ending of relishing", "Ajjhattavagga, from the interior sense fields alone", "Koṭṭhikavagga, from a later dialogue partner in the vagga", "The vagga is left unnamed until its final discourse"],
+         "correct": 0,
+         "expl": "This project has now met several vaggas whose own opening discourse supplies the vagga's name."},
+        {"q": "Which sense fields does this discourse's own chain run across?",
+         "opts": ["The six interior fields — eye, ear, nose, tongue, body, and mind", "The six exterior fields — sights, sounds, smells, tastes, touches, and ideas", "Only the eye and the mind, as representative fields", "The five aggregates, as in SN 22.51"],
+         "correct": 0,
+         "expl": "The exterior fields receive their own discourse immediately following."},
+    ],
+    marginalia=[
+        ("A name already known", [
+            "nandikkhaya, ending relishing —",
+            "met once before, at SN 22.51",
+        ]),
+        ("One step, not several", [
+            "seeing rightly is disillusionment —",
+            "no stage stands between them",
+        ]),
+        ("Mutual, not one-way", [
+            "relishing ends greed, greed ends relishing —",
+            "two names for one ending process",
+        ]),
+        ("A vagga names itself", [
+            "the opening discourse supplies the title —",
+            "a pattern this project keeps meeting",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.156/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.155.html">SN 35.155 &middot; A Dhamma '
+        "Speaker</a> &mdash; the previous discourse, closing "
+        "Navapurāṇavagga and the third paṇṇāsaka.",
+        '<a href="sn-35.157.html">SN 35.157 &middot; The Exterior '
+        "and the End of Relishing</a> &mdash; the next discourse.",
+        '<a href="sn-22.51.html">SN 22.51 &middot; The End of '
+        "Relishing</a> &mdash; already published on this site, the "
+        "identical mutual-ending formula's first appearance, there "
+        "applied to the five aggregates.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.157 — Bāhiranandikkhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 157, "Bāhiranandikkhaya", "The Exterior and the End of Relishing",
+    vagga="Nandikkhayavagga",
+    meta_title="SN 35.157 &mdash; The Exterior and the End of "
+                "Relishing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Bāhiranandikkhayasutta &mdash; the same mutual "
+        "relishing-and-greed formula as the discourse immediately "
+        "before it, now run for the six exterior sense fields. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "The identical chain as SN 35.156, run for the six "
+                 "exterior sense fields instead of the six interior "
+                 "ones"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a close companion to the discourse just "
+                       "before it"),
+    ],
+    why=(
+        "This discourse is SN 35.156's own close companion: the "
+        "identical chain, seeing rightly, growing disillusioned, "
+        "and the mutual ending of relishing and greed, now run for "
+        "the six exterior sense fields (sights, sounds, smells, "
+        "tastes, touches, and ideas) rather than the six interior "
+        "ones. This interior/exterior pairing is this book's own "
+        "structural feature, one SN 22.51's five-aggregate scheme "
+        "has no equivalent for &mdash; the aggregates carry no "
+        "matching split, so this discourse's own content is "
+        "genuinely new material, not simply a second application of "
+        "an aggregate-scheme discourse already on this site."
+    ),
+    guide=[
+        ("A companion, not a repeat with different words", [
+            "Where SN 35.156 ran the chain for eye, ear, nose, "
+            "tongue, body, and mind, this discourse runs the "
+            "identical chain for sights, sounds, smells, tastes, "
+            "touches, and ideas &mdash; the same claim about seeing "
+            "rightly and relishing's mutual ending, restated for the "
+            "objects rather than the doors.",
+        ]),
+        ("A split with no aggregate-scheme counterpart", [
+            "The five aggregates carry no interior/exterior "
+            "division the way the six sense fields do, so this "
+            "discourse (unlike SN 35.156) has no direct counterpart "
+            "already published on this site &mdash; it is the six-"
+            "field scheme contributing content the five-aggregate "
+            "scheme structurally cannot.",
+        ]),
+        ("The same mutual-ending claim, restated once more", [
+            "&ldquo;When relishing ends, greed ends; when greed "
+            "ends, relishing ends&rdquo; recurs unchanged, closing "
+            "with the same &ldquo;well freed&rdquo; formula as its "
+            "companion discourse.",
+        ]),
+    ],
+    terms=[
+        ("bāhirāni āyatanāni", "the exterior sense fields &mdash; "
+             "sights, sounds, smells, tastes, touches, and ideas, "
+             "this discourse's own subject"),
+        ("rūpā, saddā, gandhā, rasā, phoṭṭhabbā, dhammā", "sights, "
+             "sounds, smells, tastes, touches, ideas &mdash; the "
+             "six exterior fields named in turn"),
+        ("nandikkhayā rāgakkhayo, rāgakkhayā nandikkhayo",
+             "&ldquo;when relishing ends, greed ends; when greed "
+             "ends, relishing ends&rdquo; &mdash; the mutual-ending "
+             "formula, unchanged from SN 35.156"),
+        ("sammā passaṁ nibbindati", "seeing rightly, they grow "
+             "disillusioned &mdash; the single-step chain repeated "
+             "unchanged from the previous discourse"),
+        ("cittaṁ suvimuttaṁ", "the mind is well freed &mdash; the "
+             "chain's own outcome, shared with SN 35.156"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "count (left untranslated and not quoted): the identical "
+        "chain as SN 35.156, run for sights, then compressed "
+        "through sounds, smells, tastes, and touches, then given in "
+        "full again for ideas. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.157:1.1-1.14"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own chain differ from SN 35.156's?",
+         "opts": ["It is run for the six exterior sense fields rather than the six interior ones", "It uses a completely different formula about relishing and greed", "It adds a new dialogue partner not present in SN 35.156", "It is run only for a single sense field, not all six"],
+         "correct": 0,
+         "expl": "Sights, sounds, smells, tastes, touches, and ideas, in place of eye, ear, nose, tongue, body, and mind."},
+        {"q": "Why does this discourse have no direct counterpart among this project's already-published five-aggregate discourses?",
+         "opts": ["The five aggregates carry no interior/exterior split the way the six sense fields do", "The five-aggregate scheme has never used the relishing-and-greed formula at all", "This discourse's content has not yet been confirmed against bilara-data", "The five aggregates and six sense fields are never compared on this site"],
+         "correct": 0,
+         "expl": "This makes the discourse's content genuinely new, not a second setting of already-published material."},
+        {"q": "What relationship between relishing and greed does this discourse restate, unchanged from SN 35.156?",
+         "opts": ["A fully mutual ending — each one ending causes the other to end", "A one-directional cause, relishing producing greed", "No relationship at all between the two terms", "A relationship stated only for sights, not the other five fields"],
+         "correct": 0,
+         "expl": "The identical bidirectional phrasing repeats unchanged."},
+        {"q": "Which six fields does this discourse's own chain run across?",
+         "opts": ["Sights, sounds, smells, tastes, touches, and ideas", "Eye, ear, nose, tongue, body, and mind", "The five aggregates plus consciousness", "Only sights and ideas, as representative fields"],
+         "correct": 0,
+         "expl": "The exterior fields, paired with SN 35.156's interior ones."},
+        {"q": "What outcome does the chain claim once relishing and greed both end?",
+         "opts": ["The mind is said to be well freed", "The mendicant is immediately reborn in a heavenly realm", "All six exterior fields cease to exist", "The mendicant gains supernormal powers"],
+         "correct": 0,
+         "expl": "The same closing claim as SN 35.156's own."},
+    ],
+    marginalia=[
+        ("Objects, not doors", [
+            "sights, sounds, smells, tastes, touches, ideas —",
+            "the companion half of SN 35.156's pair",
+        ]),
+        ("No aggregate to match it", [
+            "five aggregates split no such way —",
+            "genuinely new material here",
+        ]),
+        ("Mutual ending, restated", [
+            "relishing ends greed, greed ends relishing —",
+            "unchanged from the discourse just before",
+        ]),
+        ("Well freed, once more", [
+            "the same closing claim repeats —",
+            "a pair, not two unrelated pieces",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.157/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.156.html">SN 35.156 &middot; The Interior '
+        "and the End of Relishing</a> &mdash; the previous "
+        "discourse, this discourse's own interior-field companion.",
+        '<a href="sn-35.158.html">SN 35.158 &middot; Focus, the '
+        "Interior, and the End of Relishing</a> &mdash; the next "
+        "discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.158 — Ajjhattaaniccanandikkhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 158, "Ajjhattaaniccanandikkhaya",
+    "Focus, the Interior, and the End of Relishing",
+    vagga="Nandikkhayavagga",
+    meta_title="SN 35.158 &mdash; Focus, the Interior, and the End "
+                "of Relishing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Ajjhattaaniccanandikkhayasutta &mdash; rationally "
+        "applying the mind to the impermanence of the six interior "
+        "sense fields, a two-step variant of SN 35.156's single-"
+        "step chain. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "The same chain as SN 35.156, now opened by two "
+                 "distinct acts &mdash; rationally applying the "
+                 "mind, then truly seeing &mdash; rather than one"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a small but genuine variation on the "
+                       "vagga's opening formula"),
+    ],
+    why=(
+        "This discourse restates SN 35.156's own chain with one "
+        "change: where that discourse opened with a mendicant "
+        "simply &ldquo;seeing&rdquo; that the eye is impermanent, "
+        "this one names two distinct steps &mdash; rationally "
+        "applying the mind (yoniso manasi karotha) to the eye, and "
+        "then truly seeing its impermanence. This is the identical "
+        "variation SN 22.52 already made on SN 22.51's own formula "
+        "in Book III, there applied to the five aggregates &mdash; "
+        "this discourse gives that same two-step opening its second "
+        "setting on this site, now for the six interior sense "
+        "fields."
+    ),
+    guide=[
+        ("Two acts instead of one", [
+            "&ldquo;Rationally apply the mind to the eye. Truly see "
+            "the impermanence of the eye&rdquo; replaces SN 35.156's "
+            "single &ldquo;sees that it is impermanent&rdquo; "
+            "&mdash; the same underlying claim, but naming the "
+            "cognitive act (yoniso manasikāra) that produces the "
+            "seeing, rather than the seeing alone.",
+        ]),
+        ("The identical variation, already met once before", [
+            "This is not a new move for this project: SN 22.52 "
+            "made exactly this same two-step substitution on SN "
+            "22.51's own formula, there for the five aggregates. "
+            "This discourse gives the substitution its second "
+            "setting, this time for the six interior sense fields.",
+        ]),
+        ("The rest of the chain, unchanged", [
+            "Once the eye's impermanence is truly seen, "
+            "disillusionment, the mutual ending of relishing and "
+            "greed, and the mind becoming well freed follow exactly "
+            "as in SN 35.156 &mdash; only the opening act differs.",
+        ]),
+    ],
+    terms=[
+        ("yoniso manasi karotha", "&ldquo;rationally apply the "
+             "mind&rdquo; &mdash; this discourse's own opening act, "
+             "the same substitution SN 22.52 already made on SN "
+             "22.51's simpler formula"),
+        ("yathābhūtaṁ samanupassatha", "truly see &mdash; the "
+             "second of the two acts this discourse names, "
+             "following rational attention"),
+        ("cakkhāniccatā", "the impermanence of the eye &mdash; "
+             "what rational attention and true seeing are directed "
+             "toward"),
+        ("nandikkhayā rāgakkhayo, rāgakkhayā nandikkhayo",
+             "&ldquo;when relishing ends, greed ends; when greed "
+             "ends, relishing ends&rdquo; &mdash; the mutual-ending "
+             "formula, unchanged from SN 35.156"),
+        ("nibbindati", "grows disillusioned &mdash; the outcome of "
+             "the two-step opening, exactly as of SN 35.156's own "
+             "single-step one"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "count (left untranslated and not quoted): the two-step "
+        "opening and its chain, run for the eye, compressed through "
+        "the remaining interior fields, then given in full again "
+        "for the mind. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.158:1.1-1.18"),
+    ],
+    quiz=[
+        {"q": "What two acts does this discourse name, in place of SN 35.156's single act of \"seeing\"?",
+         "opts": ["Rationally applying the mind, then truly seeing the eye's impermanence", "Reciting a formal verse, then bowing to the assembly", "Traveling to a distant grove, then meditating there", "Debating a wanderer, then conceding the point"],
+         "correct": 0,
+         "expl": "Yoniso manasi karotha, followed by samanupassatha."},
+        {"q": "Where has this project already made this identical two-step substitution, before this discourse applies it to the six interior sense fields?",
+         "opts": ["SN 22.52, Book III, there applied to the five aggregates", "SN 35.99, earlier in this same book", "This is the substitution's first appearance anywhere on this site", "SN 12.1, Book II, opening dependent origination"],
+         "correct": 0,
+         "expl": "SN 22.52 made the same move on SN 22.51's simpler formula."},
+        {"q": "What happens to the rest of the chain — disillusionment, the mutual ending of relishing and greed — once the two-step opening is complete?",
+         "opts": ["It follows exactly as in SN 35.156, unchanged", "It is replaced with an entirely new sequence", "It applies only to the eye, not the other five fields", "It is left for the listener to work out unstated"],
+         "correct": 0,
+         "expl": "Only the opening act differs between the two discourses."},
+        {"q": "Which sense fields does this discourse's own chain run across?",
+         "opts": ["The six interior fields — eye, ear, nose, tongue, body, and mind", "The six exterior fields — sights, sounds, smells, tastes, touches, and ideas", "The five aggregates, as in SN 22.52", "Only the eye, as a single representative field"],
+         "correct": 0,
+         "expl": "The interior fields, paired with the exterior version in the discourse following."},
+        {"q": "What does \"yoniso manasi karotha\" mean, as this discourse's own opening instruction?",
+         "opts": ["Rationally apply the mind", "Recite the discourse aloud", "Give up all desire immediately", "Travel into seclusion"],
+         "correct": 0,
+         "expl": "The cognitive act that produces true seeing of impermanence."},
+    ],
+    marginalia=[
+        ("One step becomes two", [
+            "rational attention, then true seeing —",
+            "the same claim, a finer-grained opening",
+        ]),
+        ("A substitution met once before", [
+            "SN 22.52 made this same move —",
+            "there for the aggregates, here the fields",
+        ]),
+        ("The rest of the chain holds firm", [
+            "disillusionment, mutual ending, freedom —",
+            "unchanged beneath the new opening",
+        ]),
+        ("Interior, once more", [
+            "eye through mind, in full and compressed —",
+            "the exterior half still to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.158/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.157.html">SN 35.157 &middot; The Exterior '
+        "and the End of Relishing</a> &mdash; the previous "
+        "discourse.",
+        '<a href="sn-35.159.html">SN 35.159 &middot; Focus, the '
+        "Exterior, and the End of Relishing</a> &mdash; the next "
+        "discourse.",
+        '<a href="sn-22.52.html">SN 22.52 &middot; The End of '
+        "Relishing (2nd)</a> &mdash; already published on this "
+        "site, the identical two-step substitution's first "
+        "appearance, there applied to the five aggregates.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.159 — Bāhiraaniccanandikkhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 159, "Bāhiraaniccanandikkhaya",
+    "Focus, the Exterior, and the End of Relishing",
+    vagga="Nandikkhayavagga",
+    meta_title="SN 35.159 &mdash; Focus, the Exterior, and the End "
+                "of Relishing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Bāhiraaniccanandikkhayasutta &mdash; closing this "
+        "vagga's opening quartet, the two-step formula run for the "
+        "six exterior sense fields. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "The same two-step chain as SN 35.158, run for the "
+                 "six exterior sense fields instead of the six "
+                 "interior ones"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "closes the vagga's opening quartet"),
+    ],
+    why=(
+        "This discourse closes the four-discourse opening set SN "
+        "35.156 began: interior and exterior, single-step and "
+        "two-step, in the four possible combinations. This one "
+        "supplies the last combination &mdash; the two-step "
+        "rational-attention opening, run for the six exterior sense "
+        "fields. As with SN 35.157, the interior/exterior split has "
+        "no counterpart in the five-aggregate scheme, so this "
+        "discourse's content, like its companion, is genuinely new "
+        "rather than a second setting of already-published material."
+    ),
+    guide=[
+        ("The quartet's fourth and final combination", [
+            "SN 35.156 (interior, single-step), SN 35.157 "
+            "(exterior, single-step), and SN 35.158 (interior, "
+            "two-step) precede this discourse's own exterior, "
+            "two-step combination &mdash; completing all four "
+            "possible pairings of the vagga's two variables.",
+        ]),
+        ("The two-step opening, restated for exterior fields", [
+            "&ldquo;Rationally apply the mind to sights. Truly see "
+            "the impermanence of sights&rdquo; opens the chain, "
+            "exactly as SN 35.158 opened it for the eye &mdash; the "
+            "same substitution, now for the exterior half of the "
+            "sense-field scheme.",
+        ]),
+        ("A quartet, not four unrelated pieces", [
+            "Read together, SN 35.156-159 form a small, complete "
+            "system: every field (interior or exterior) meets every "
+            "opening act (seeing directly, or rationally applying "
+            "attention first) exactly once, before the vagga moves "
+            "on to new material at SN 35.160.",
+        ]),
+    ],
+    terms=[
+        ("yoniso manasi karotha", "&ldquo;rationally apply the "
+             "mind&rdquo; &mdash; the same opening act as SN "
+             "35.158's, here directed at the exterior fields"),
+        ("rūpāniccatā", "the impermanence of sights &mdash; what "
+             "rational attention and true seeing are directed "
+             "toward in this discourse"),
+        ("nandikkhayā rāgakkhayo, rāgakkhayā nandikkhayo",
+             "&ldquo;when relishing ends, greed ends; when greed "
+             "ends, relishing ends&rdquo; &mdash; the mutual-ending "
+             "formula, unchanged across all four discourses of "
+             "this opening quartet"),
+        ("bāhirāni āyatanāni", "the exterior sense fields &mdash; "
+             "this discourse's own subject, completing the "
+             "quartet's four combinations"),
+        ("nibbindati", "grows disillusioned &mdash; the outcome "
+             "shared by all four discourses of this opening set"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "count (left untranslated and not quoted): the two-step "
+        "opening and its chain, run for sights, compressed through "
+        "the remaining exterior fields, then given in full again "
+        "for ideas. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.159:1.1-1.14"),
+    ],
+    quiz=[
+        {"q": "What is the fourth and final combination this discourse supplies, completing the opening quartet SN 35.156 began?",
+         "opts": ["The exterior sense fields, opened by the two-step rational-attention act", "The interior sense fields, opened by simply seeing", "A wholly new formula unrelated to the previous three discourses", "The five aggregates, opened by the two-step act"],
+         "correct": 0,
+         "expl": "Interior/exterior crossed with single-step/two-step gives exactly four combinations."},
+        {"q": "How does this discourse's own opening act compare to SN 35.158's?",
+         "opts": ["Identical — rationally apply the mind, then truly see — but directed at the exterior fields instead of the interior ones", "Completely different, using the single-step formula instead", "It adds a third step not present in SN 35.158", "It applies only to sights, not the other five exterior fields"],
+         "correct": 0,
+         "expl": "The same two-step substitution, now for sights, sounds, smells, tastes, touches, and ideas."},
+        {"q": "What do SN 35.156-159, read together, form?",
+         "opts": ["A small complete system pairing each field-type with each opening act exactly once", "Four unrelated discourses with no shared structure", "A single discourse split across four files by bilara-data", "A sequence where each discourse contradicts the one before it"],
+         "correct": 0,
+         "expl": "Every field (interior or exterior) meets every opening act (direct seeing or rational attention) exactly once."},
+        {"q": "Why does this discourse, like SN 35.157, have no direct counterpart among already-published five-aggregate discourses?",
+         "opts": ["The five aggregates carry no interior/exterior split", "The five-aggregate scheme has never used the two-step opening", "This discourse's Pali text has not survived", "Five-aggregate discourses never mention relishing and greed"],
+         "correct": 0,
+         "expl": "The exterior half of this quartet is genuinely new material, not a second setting of SN 22.52."},
+        {"q": "What follows once this quartet closes at SN 35.159?",
+         "opts": ["The vagga moves on to new material at SN 35.160", "The vagga itself closes, its colophon following immediately", "The formula repeats a fifth time for a new combination", "The saṃyutta as a whole closes"],
+         "correct": 0,
+         "expl": "Eight discourses remain in Nandikkhayavagga after this quartet."},
+    ],
+    marginalia=[
+        ("The fourth combination", [
+            "exterior fields, the two-step act —",
+            "completing what SN 35.156 began",
+        ]),
+        ("A quartet, complete", [
+            "interior/exterior, one step or two —",
+            "every pairing met exactly once",
+        ]),
+        ("Not four separate pieces", [
+            "read together, a single small system —",
+            "before new material begins",
+        ]),
+        ("New ground ahead", [
+            "SN 35.160 turns to Jīvaka's grove —",
+            "the quartet's own work now done",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.159/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.158.html">SN 35.158 &middot; Focus, the '
+        "Interior, and the End of Relishing</a> &mdash; the "
+        "previous discourse, this discourse's own interior-field "
+        "companion.",
+        '<a href="sn-35.160.html">SN 35.160 &middot; On Immersion '
+        "at J&#299;vaka&rsquo;s Mango Grove</a> &mdash; the next "
+        "discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.160 — Jīvakambavanasamādhisutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 160, "Jīvakambavanasamādhi", "On Immersion at Jīvaka's Mango Grove",
+    vagga="Nandikkhayavagga",
+    meta_title="SN 35.160 &mdash; On Immersion at Jīvaka's Mango "
+                "Grove | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Jīvakambavanasamādhisutta &mdash; developing "
+        "immersion so that all six sense fields become truly clear, "
+        "a close variant of the already-published SN 35.99. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, in Jīvaka's Mango Grove"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A brief instruction and its rationale, run in "
+                 "full for the eye and the mind, elided for the "
+                 "remaining four fields"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a short, direct instruction, closely echoing "
+                       "one already published on this site"),
+    ],
+    why=(
+        "This discourse is a near-duplicate of SN 35.99 (Saḷavagga, "
+        "already published on this site): the same &ldquo;develop "
+        "immersion&rdquo; instruction, the same claim run through "
+        "eye and mind with their four companions each, closing with "
+        "the same instruction repeated. Two things distinguish it "
+        "honestly rather than making it identical: this discourse "
+        "gives an explicit setting (Jīvaka's Mango Grove near "
+        "Rājagaha, where SN 35.99 restated nothing), and its "
+        "outcome is phrased with a different verb &mdash; "
+        "&ldquo;yathābhūtaṁ okkhāyati&rdquo; (things become truly "
+        "clear) rather than SN 35.99's &ldquo;yathābhūtaṁ "
+        "pajānāti&rdquo; (truly understands)."
+    ),
+    guide=[
+        ("A four-word instruction, restated", [
+            "&ldquo;Mendicants, develop immersion&rdquo; opens this "
+            "discourse exactly as it opened SN 35.99; the rest of "
+            "the discourse explains what immersion is said to "
+            "produce &mdash; here, things &ldquo;becoming truly "
+            "clear&rdquo; rather than being &ldquo;truly "
+            "understood.&rdquo;",
+        ]),
+        ("A genuine verb difference, not a copying error", [
+            "SN 35.99 uses &ldquo;yathābhūtaṁ pajānāti&rdquo; "
+            "(truly understands), placing the mendicant as an "
+            "active knower; this discourse uses &ldquo;yathābhūtaṁ "
+            "okkhāyati&rdquo; (becomes truly clear), a more passive "
+            "construction &mdash; things becoming evident to the "
+            "immersed mendicant rather than being actively grasped. "
+            "This reading guide notes the difference rather than "
+            "smoothing it into a single translation.",
+        ]),
+        ("The same five-link chain, for eye and mind", [
+            "Eye, sights, eye consciousness, eye contact, and the "
+            "feeling born of eye contact are declared impermanent "
+            "in full, exactly as in SN 35.99; the mind's own "
+            "parallel five links follow, with the four middle "
+            "sense doors elided between them.",
+        ]),
+        ("An explicit setting this discourse's twin lacks", [
+            "SN 35.99 restates no setting at all; this discourse "
+            "places the teaching at Jīvaka's Mango Grove near "
+            "Rājagaha &mdash; the same grove where the physician "
+            "Jīvaka, the Buddha's own doctor, is traditionally "
+            "associated, though this discourse itself makes no "
+            "mention of him.",
+        ]),
+    ],
+    terms=[
+        ("samādhiṁ bhāvetha", "&ldquo;develop immersion&rdquo; "
+             "&mdash; this discourse's own opening instruction, "
+             "identical to SN 35.99's"),
+        ("yathābhūtaṁ okkhāyati", "things become truly clear "
+             "&mdash; this discourse's own outcome verb, distinct "
+             "from SN 35.99's &ldquo;yathābhūtaṁ pajānāti&rdquo; "
+             "(truly understands)"),
+        ("jīvakambavana", "Jīvaka's Mango Grove &mdash; this "
+             "discourse's own explicit setting near Rājagaha, "
+             "absent from SN 35.99"),
+        ("cakkhusamphassapaccayā uppajjati vedayitaṁ", "the "
+             "feeling that arises dependent on eye contact "
+             "&mdash; the fifth and final link in the chain run "
+             "for the eye"),
+        ("anicca", "impermanent &mdash; what becomes truly clear "
+             "about each of the five links in the chain, for both "
+             "eye and mind"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "count (left untranslated and not quoted): the instruction "
+        "to develop immersion, and its rationale run for the eye "
+        "and the mind. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.160:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "What instruction opens this discourse, identical to SN 35.99's own opening?",
+         "opts": ["\"Mendicants, develop immersion\"", "\"Mendicants, meditate in retreat\"", "\"Mendicants, give up desire for what is impermanent\"", "\"Mendicants, rationally apply the mind\""],
+         "correct": 0,
+         "expl": "The same four-word instruction opens both discourses."},
+        {"q": "How does this discourse's outcome verb differ from SN 35.99's own?",
+         "opts": ["This discourse uses \"things become truly clear\" (okkhāyati) rather than \"truly understands\" (pajānāti)", "There is no difference — the wording is identical", "This discourse adds a third verb not present in either", "SN 35.99 uses okkhāyati and this discourse uses pajānāti — the reverse"],
+         "correct": 0,
+         "expl": "A genuine, honestly noted variation rather than a copying error."},
+        {"q": "What setting does this discourse supply that SN 35.99 does not?",
+         "opts": ["Jīvaka's Mango Grove, near Rājagaha", "The Jeta Grove, near Sāvatthī", "Vulture's Peak, near Rājagaha", "No setting — both discourses restate none"],
+         "correct": 0,
+         "expl": "SN 35.99 restates no setting at all."},
+        {"q": "Which five links does the chain run in full for the eye?",
+         "opts": ["Eye, sights, eye consciousness, eye contact, and the feeling born of eye contact", "Eye, ear, nose, tongue, and body", "Form, feeling, perception, choices, and consciousness", "Seeing, disillusionment, dispassion, cessation, and freedom"],
+         "correct": 0,
+         "expl": "The same five-link chain as SN 35.99's own, for eye and then for mind."},
+        {"q": "What discourse immediately follows this one, and what does it change?",
+         "opts": ["SN 35.161, opening with \"meditate in retreat\" instead of \"develop immersion\"", "SN 35.162, opening a new dialogue with Mahākoṭṭhita", "SN 35.99, already published elsewhere on this site", "The vagga's own closing colophon"],
+         "correct": 0,
+         "expl": "SN 35.160 and SN 35.161 form a pair, mirroring SN 35.99 and SN 35.100."},
+    ],
+    marginalia=[
+        ("A near-duplicate, honestly noted", [
+            "the same instruction as SN 35.99 —",
+            "but a different verb for its outcome",
+        ]),
+        ("Clear, not merely understood", [
+            "okkhāyati against pajānāti —",
+            "passive clarity, not active grasp",
+        ]),
+        ("A setting its twin lacks", [
+            "Jīvaka's grove, named outright —",
+            "where SN 35.99 restates nothing",
+        ]),
+        ("A pair about to form", [
+            "immersion here, retreat next —",
+            "mirroring SN 35.99 and 100",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.160/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.159.html">SN 35.159 &middot; Focus, the '
+        "Exterior, and the End of Relishing</a> &mdash; the "
+        "previous discourse, closing this vagga's opening quartet.",
+        '<a href="sn-35.161.html">SN 35.161 &middot; On Retreat at '
+        "J&#299;vaka&rsquo;s Mango Grove</a> &mdash; the next "
+        "discourse, this discourse's own close companion.",
+        '<a href="sn-35.99.html">SN 35.99 &middot; Immersion</a> '
+        "&mdash; already published on this site, earlier in this "
+        "same book, this discourse's own near-duplicate, there with "
+        "no setting restated and a different outcome verb.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.161 — Jīvakambavanapaṭisallānasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 161, "Jīvakambavanapaṭisallāna",
+    "On Retreat at Jīvaka's Mango Grove",
+    vagga="Nandikkhayavagga",
+    meta_title="SN 35.161 &mdash; On Retreat at Jīvaka's Mango "
+                "Grove | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Jīvakambavanapaṭisallānasutta &mdash; SN "
+        "35.160's own close companion, meditating in retreat rather "
+        "than developing immersion, with the identical outcome "
+        "claimed. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, in Jīvaka's Mango Grove"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "The identical rationale as SN 35.160, opened by a "
+                 "different instruction"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a short, direct instruction, paired with "
+                       "the one before it"),
+    ],
+    why=(
+        "This discourse is SN 35.160's own close companion, at the "
+        "same setting: the identical rationale &mdash; things "
+        "becoming truly clear through the eye and its four "
+        "companions, then the mind and its own four &mdash; but "
+        "opened with a different instruction, meditating in "
+        "retreat (paṭisallāna) rather than developing immersion "
+        "(samādhi). This exact pairing, immersion beside retreat at "
+        "the same setting, already recurred once in this book at SN "
+        "35.99-100, and once more in Book III at SN 22.5-6, "
+        "confirming this is a genuine recurring pair-formula rather "
+        "than coincidence."
+    ),
+    guide=[
+        ("A companion discourse, not a repeat", [
+            "Where SN 35.160 opens &ldquo;develop immersion,&rdquo; "
+            "this discourse opens &ldquo;meditate in retreat&rdquo; "
+            "&mdash; a different practice named, but the identical "
+            "outcome claimed: things becoming truly clear "
+            "(yathābhūtaṁ okkhāyati).",
+        ]),
+        ("The same five-link chain, unchanged", [
+            "Eye, sights, eye consciousness, eye contact, and "
+            "eye-born feeling are declared impermanent exactly as "
+            "in the discourse before this one; the mind's own "
+            "parallel chain follows.",
+        ]),
+        ("A pairing this project has now met three times", [
+            "Immersion beside retreat, at a single setting, is a "
+            "pattern this project has already met twice before: at "
+            "SN 22.5-6 (Book III) and at SN 35.99-100 (earlier in "
+            "this same book). This discourse's own pairing with SN "
+            "35.160 is the third instance, confirming samādhi and "
+            "paṭisallāna as a genuinely recurring duo across this "
+            "site rather than a one-off coincidence.",
+        ]),
+    ],
+    terms=[
+        ("paṭisallāna", "retreat, seclusion for meditation &mdash; "
+             "this discourse's own instruction, paired with SN "
+             "35.160's samādhi"),
+        ("yathābhūtaṁ okkhāyati", "things become truly clear "
+             "&mdash; the identical outcome claimed for both "
+             "retreat and immersion, unchanged from SN 35.160"),
+        ("jīvakambavana", "Jīvaka's Mango Grove &mdash; the shared "
+             "setting of this discourse and its companion, SN "
+             "35.160"),
+        ("cakkhu&hellip;rūpā", "eye&hellip;sights &mdash; the "
+             "chain's own first two links, declared impermanent"),
+        ("anicca", "impermanent &mdash; what retreat, no less than "
+                      "immersion, is said to disclose about every "
+                      "link in the chain"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "count (left untranslated and not quoted): the instruction "
+        "to meditate in retreat, and its rationale run for the eye "
+        "and the mind. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.161:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "What instruction opens this discourse, in place of SN 35.160's \"develop immersion\"?",
+         "opts": ["Meditate in retreat (paṭisallāna)", "Rationally apply the mind", "Give up desire for what is impermanent", "Recite the discourses in full"],
+         "correct": 0,
+         "expl": "A different practice named, the identical outcome claimed."},
+        {"q": "What outcome does this discourse claim for meditating in retreat, matching SN 35.160's own claim for immersion?",
+         "opts": ["Things become truly clear regarding each sense field", "Immediate rebirth in a heavenly realm", "Freedom from all future illness", "Mastery of the monastic code"],
+         "correct": 0,
+         "expl": "Yathābhūtaṁ okkhāyati — the identical outcome verb as SN 35.160."},
+        {"q": "How many times has this project now met the \"immersion beside retreat\" pairing, counting this discourse's own pair with SN 35.160?",
+         "opts": ["Three times — SN 22.5-6, SN 35.99-100, and now SN 35.160-161", "Only this once — a genuinely new pattern", "Twice — this pair and SN 35.99-100 only", "Four times, including a pair not yet identified"],
+         "correct": 0,
+         "expl": "SN 22.5-6 (Book III) and SN 35.99-100 (earlier in this book) precede this discourse's own pairing."},
+        {"q": "What setting do this discourse and its companion, SN 35.160, share?",
+         "opts": ["Jīvaka's Mango Grove, near Rājagaha", "The Jeta Grove, near Sāvatthī", "Vulture's Peak, near Rājagaha", "No setting is given for either discourse"],
+         "correct": 0,
+         "expl": "Both discourses restate the same explicit setting."},
+        {"q": "What does this discourse confirm about the samādhi/paṭisallāna pairing across this site?",
+         "opts": ["It is a genuinely recurring pair-formula, not a one-off coincidence", "It occurs only once, in this vagga alone", "It is unique to Book IV and never appears in earlier books", "The pairing has now been fully exhausted and will not recur again"],
+         "correct": 0,
+         "expl": "Three occurrences across two books establish a genuine pattern."},
+    ],
+    marginalia=[
+        ("A companion, once more", [
+            "retreat named, in place of immersion —",
+            "the same clarity claimed either way",
+        ]),
+        ("A third occurrence, now confirmed", [
+            "SN 22.5-6, SN 35.99-100, and this pair —",
+            "a genuine recurring formula",
+        ]),
+        ("The same grove, twice named", [
+            "Jīvaka's mango grove, shared by both —",
+            "an explicit setting for once",
+        ]),
+        ("Ten discourses closing", [
+            "Koṭṭhika's three still to come —",
+            "this pair's own work now done",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.161/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.160.html">SN 35.160 &middot; On Immersion '
+        "at J&#299;vaka&rsquo;s Mango Grove</a> &mdash; the "
+        "previous discourse, this discourse's own close companion.",
+        '<a href="sn-35.162.html">SN 35.162 &middot; With '
+        "Koṭṭhita on Impermanence</a> &mdash; the next "
+        "discourse.",
+        '<a href="sn-35.100.html">SN 35.100 &middot; Retreat</a> '
+        "&mdash; already published on this site, earlier in this "
+        "same book, the same immersion/retreat pairing's own prior "
+        "occurrence.",
+        '<a href="sn-22.6.html">SN 22.6 &middot; Retreat</a> '
+        "&mdash; already published on this site, Book III's own "
+        "earlier instance of the same pairing.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.162 — Koṭṭhikaaniccasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 162, "Koṭṭhikaanicca", "With Koṭṭhita on Impermanence",
+    vagga="Nandikkhayavagga",
+    meta_title="SN 35.162 &mdash; With Koṭṭhita on "
+                "Impermanence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Koṭṭhikaaniccasutta &mdash; Mahākoṭṭhita "
+        "requests a brief teaching before solitary retreat, and "
+        "receives \"give up desire for what is impermanent,\" run "
+        "across all six sense fields. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "Venerable Mahākoṭṭhita, questioning the "
+                      "Buddha directly"),
+        ("Form", "A request for brief teaching, then the "
+                 "&ldquo;give up desire for what is X&rdquo; "
+                 "formula run across all six sense fields, each "
+                 "expanded fivefold"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "opens a new named dialogue within the vagga"),
+    ],
+    why=(
+        "This discourse opens a three-discourse Koṭṭhika cluster "
+        "with the familiar &ldquo;teach me Dhamma in brief, so I "
+        "can live alone, withdrawn, diligent, keen, and "
+        "resolute&rdquo; request &mdash; a formula this project has "
+        "already met repeatedly, most recently at SN 35.86, 88, and "
+        "89 in Channavagga. The Buddha's reply gives the &ldquo;give "
+        "up desire for what is impermanent&rdquo; formula, run for "
+        "the eye and its four companions (sights, eye consciousness, "
+        "eye contact, and eye-born feeling), then compressed across "
+        "the remaining sense fields. This same core formula already "
+        "closed a four-discourse cluster in Book III at SN 22.66, "
+        "there applied to the five aggregates through a different "
+        "narrative frame."
+    ),
+    guide=[
+        ("A familiar request, a named questioner", [
+            "&ldquo;Sir, may the Buddha please teach me Dhamma in "
+            "brief. When I've heard it, I'll live alone, withdrawn, "
+            "diligent, keen, and resolute&rdquo; is the request "
+            "already met at SN 35.86, 88, and 89 &mdash; but this "
+            "time the questioner is named: Venerable Mahākoṭṭhita, "
+            "opening the vagga's own three-discourse cluster bearing "
+            "his name.",
+        ]),
+        ("The same formula, a different frame from SN 22.66", [
+            "&ldquo;Give up desire for what is impermanent&rdquo; "
+            "is the identical core instruction SN 22.66 already "
+            "used for the five aggregates &mdash; but there the "
+            "frame was an unnamed mendicant confirming the teaching "
+            "back to the Buddha, part of a four-discourse cluster "
+            "(SN 22.66-69) also covering suffering, not-self, and "
+            "&ldquo;not belonging to self.&rdquo; Here the frame is "
+            "Mahākoṭṭhita's direct request-and-answer, and the "
+            "cluster covers only three terms &mdash; impermanence, "
+            "suffering, and not-self &mdash; without the fourth.",
+        ]),
+        ("A fuller expansion than SN 22.66's own", [
+            "Because the six sense fields each carry an object, a "
+            "consciousness, a contact, and a contact-born feeling "
+            "in addition to the field itself, this discourse's own "
+            "expansion for the eye alone (five terms) is fuller "
+            "than SN 22.66's single term per aggregate &mdash; a "
+            "structural consequence of the two schemes' different "
+            "shapes, not a difference in teaching.",
+        ]),
+    ],
+    terms=[
+        ("eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyaṁ",
+             "&ldquo;live alone, withdrawn, diligent, keen, and "
+             "resolute&rdquo; &mdash; Mahākoṭṭhita's own stated "
+             "purpose for requesting this brief teaching, a "
+             "formula already met at SN 35.86, 88, and 89"),
+        ("yaṁ aniccaṁ tatra te chando pahātabbo", "&ldquo;you "
+             "should give up desire for what is impermanent&rdquo; "
+             "&mdash; this discourse's own core instruction, "
+             "identical to SN 22.66's, there applied to the five "
+             "aggregates"),
+        ("cakkhu, rūpā, cakkhuviññāṇaṁ, cakkhusamphasso",
+             "the eye, sights, eye consciousness, and eye contact "
+             "&mdash; the first four of the five terms expanded "
+             "for each sense field in turn"),
+        ("mahākoṭṭhika", "Mahākoṭṭhita, this discourse's own "
+             "questioner, opening a three-discourse cluster bearing "
+             "his name (impermanence, suffering, not-self)"),
+        ("vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā",
+             "the pleasant, painful, or neutral feeling &mdash; "
+             "the fifth term in each field's own expansion"),
+    ],
+    text_intro=("The complete discourse: Mahākoṭṭhita's request, "
+        "then the Buddha's reply, run in full for the eye and "
+        "compressed across the remaining five sense fields. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.162:1.1-1.2"),
+        ("p", "&sect;2", "sn35.162:2.1-2.18"),
+    ],
+    quiz=[
+        {"q": "What does Mahākoṭṭhita request, opening this discourse?",
+         "opts": ["A brief teaching, so he can live alone, withdrawn, diligent, keen, and resolute", "Ordination as a monk", "Permission to debate a wandering ascetic", "A detailed explanation of dependent origination"],
+         "correct": 0,
+         "expl": "A request formula already met at SN 35.86, 88, and 89 in Channavagga."},
+        {"q": "What core instruction does the Buddha give in reply?",
+         "opts": ["Give up desire for what is impermanent", "Develop immersion", "Meditate in retreat", "Recite the discourses daily"],
+         "correct": 0,
+         "expl": "\"Yaṁ aniccaṁ tatra te chando pahātabbo\" — identical to SN 22.66's own formula."},
+        {"q": "Where has this project already published this identical \"give up desire for X\" formula, before this discourse applies it to the six sense fields?",
+         "opts": ["SN 22.66, Book III, there applied to the five aggregates", "SN 35.99, earlier in this same book", "This is the formula's first appearance anywhere on this site", "SN 1.5, Book I"],
+         "correct": 0,
+         "expl": "SN 22.66 opened a four-discourse cluster with the same core instruction."},
+        {"q": "How does this discourse's own narrative frame differ from SN 22.66's?",
+         "opts": ["A named questioner, Mahākoṭṭhita, requesting and receiving a direct answer, rather than an unnamed mendicant confirming the teaching back", "There is no difference — both use an identical frame", "This discourse has no questioner at all", "SN 22.66 is spoken to an assembly, this discourse to a single mendicant privately, with no name given"],
+         "correct": 0,
+         "expl": "Mahākoṭṭhita's request-and-answer frame contrasts with SN 22.66's request-and-confirm-back structure."},
+        {"q": "How many terms does this discourse expand for the eye alone, and why more than SN 22.66's single term per aggregate?",
+         "opts": ["Five terms — eye, sights, consciousness, contact, and feeling — a structural consequence of the six-field scheme's own shape", "Only one term, identical to SN 22.66's", "Ten terms, doubling SN 22.66's own expansion", "Three terms, matching the three-discourse cluster's own count"],
+         "correct": 0,
+         "expl": "Each sense field carries an object, a consciousness, a contact, and a feeling in addition to the field itself."},
+    ],
+    marginalia=[
+        ("A familiar request, once more", [
+            "teach me in brief, Mahākoṭṭhita asks —",
+            "the same formula as Channavagga's",
+        ]),
+        ("The same core, a different frame", [
+            "give up desire for what's impermanent —",
+            "met once at SN 22.66, differently told",
+        ]),
+        ("Five terms, not one", [
+            "field, object, sense, contact, feeling —",
+            "the six-field scheme's own fuller shape",
+        ]),
+        ("A cluster of three begins", [
+            "impermanence first, then suffering, not-self —",
+            "Koṭṭhika's own three-discourse set",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.162/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.161.html">SN 35.161 &middot; On Retreat at '
+        "J&#299;vaka&rsquo;s Mango Grove</a> &mdash; the previous "
+        "discourse.",
+        '<a href="sn-35.163.html">SN 35.163 &middot; With '
+        "Koṭṭhita on Suffering</a> &mdash; the next "
+        "discourse.",
+        '<a href="sn-22.66.html">SN 22.66 &middot; Impermanence</a> '
+        "&mdash; already published on this site, the identical "
+        "core formula's first appearance, there applied to the "
+        "five aggregates through a different narrative frame.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.163 — Koṭṭhikadukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 163, "Koṭṭhikadukkha", "With Koṭṭhita on Suffering",
+    vagga="Nandikkhayavagga",
+    meta_title="SN 35.163 &mdash; With Koṭṭhita on Suffering "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Koṭṭhikadukkhasutta &mdash; the same request "
+        "and formula as the discourse before it, now with "
+        "suffering in place of impermanence. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "Venerable Mahākoṭṭhita, questioning the "
+                      "Buddha directly"),
+        ("Form", "The identical structure as SN 35.162, with "
+                 "suffering (dukkha) substituted for impermanence "
+                 "(anicca)"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the cluster's second discourse, substituting "
+                       "a single term"),
+    ],
+    why=(
+        "This discourse restates SN 35.162 with a single "
+        "substitution: &ldquo;give up desire for what is "
+        "suffering&rdquo; in place of &ldquo;give up desire for "
+        "what is impermanent,&rdquo; the request and the fivefold "
+        "expansion for each sense field otherwise unchanged. This "
+        "mirrors exactly the move SN 22.67 already made on SN "
+        "22.66's own formula in Book III, there for the five "
+        "aggregates &mdash; the same three-mark substitution "
+        "pattern, in a different narrative frame."
+    ),
+    guide=[
+        ("One term substituted, the rest unchanged", [
+            "Mahākoṭṭhita's own request repeats verbatim; only the "
+            "characterization changes, from &ldquo;impermanent&rdquo; "
+            "to &ldquo;suffering&rdquo; (dukkha), applied to the "
+            "same six sense fields with the same fivefold expansion "
+            "for each.",
+        ]),
+        ("The identical move SN 22.67 already made", [
+            "SN 22.67 substituted &ldquo;suffering&rdquo; for "
+            "&ldquo;impermanent&rdquo; on SN 22.66's own formula, "
+            "there for the five aggregates. This discourse makes "
+            "the same substitution on this vagga's own Koṭṭhika "
+            "formula &mdash; the three-marks pattern (impermanence, "
+            "suffering, not-self) recurring in both clusters, though "
+            "SN 22.66-69 extends to a fourth term this cluster does "
+            "not use.",
+        ]),
+        ("The cluster's middle discourse", [
+            "This discourse sits between SN 35.162 (impermanence) "
+            "and SN 35.164 (not-self), completing two of the three "
+            "marks this small cluster runs through in turn.",
+        ]),
+    ],
+    terms=[
+        ("yaṁ dukkhaṁ tatra te chando pahātabbo", "&ldquo;you "
+             "should give up desire for what is suffering&rdquo; "
+             "&mdash; this discourse's own substitution for SN "
+             "35.162's &ldquo;aniccaṁ&rdquo;"),
+        ("dukkha", "suffering &mdash; the characterization this "
+             "discourse applies to all six sense fields, matching "
+             "SN 22.67's own use for the five aggregates"),
+        ("eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyaṁ",
+             "&ldquo;live alone, withdrawn, diligent, keen, and "
+             "resolute&rdquo; &mdash; Mahākoṭṭhita's request, "
+             "repeated verbatim from SN 35.162"),
+        ("cakkhu, rūpā, cakkhuviññāṇaṁ, cakkhusamphasso",
+             "the eye, sights, eye consciousness, and eye contact "
+             "&mdash; the same fourfold expansion as SN 35.162's own"),
+        ("vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā",
+             "the pleasant, painful, or neutral feeling &mdash; "
+             "the fifth term, unchanged from SN 35.162"),
+    ],
+    text_intro=("The complete discourse: Mahākoṭṭhita's request "
+        "(elided in the source and not separately quoted here, "
+        "identical to SN 35.162's own), then the Buddha's reply, "
+        "run in full for the eye and compressed across the "
+        "remaining five sense fields. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.163:1.1-1.16"),
+    ],
+    quiz=[
+        {"q": "What single substitution distinguishes this discourse from SN 35.162?",
+         "opts": ["\"Suffering\" (dukkha) in place of \"impermanent\" (anicca)", "\"Not-self\" (anatta) in place of \"impermanent\"", "A completely different questioner, not Mahākoṭṭhita", "A different setting, now explicitly named"],
+         "correct": 0,
+         "expl": "The request and fivefold expansion otherwise repeat unchanged."},
+        {"q": "What identical move did SN 22.67 already make in Book III?",
+         "opts": ["Substituting \"suffering\" for \"impermanent\" in SN 22.66's own formula, there for the five aggregates", "Substituting \"not-self\" for \"impermanent\"", "Introducing Mahākoṭṭhita as questioner for the first time", "Adding a fourth sense field not present in SN 22.66"],
+         "correct": 0,
+         "expl": "The same three-marks substitution pattern, in a different narrative frame."},
+        {"q": "Where does this discourse sit within its own three-discourse cluster?",
+         "opts": ["Between SN 35.162 (impermanence) and SN 35.164 (not-self)", "It opens the cluster, before SN 35.162", "It closes the cluster, after SN 35.164", "It stands alone, unconnected to any cluster"],
+         "correct": 0,
+         "expl": "The middle term of the impermanence/suffering/not-self sequence."},
+        {"q": "How many terms does the expansion for each sense field carry, matching SN 35.162's own count?",
+         "opts": ["Five — the field, its object, consciousness, contact, and contact-born feeling", "Three, matching the cluster's own three discourses", "One, matching SN 22.67's single term per aggregate", "Ten, doubling SN 35.162's own count"],
+         "correct": 0,
+         "expl": "Unchanged from SN 35.162's own fivefold expansion."},
+        {"q": "What does SN 22.66-69's own four-term cluster include, that this three-discourse cluster does not?",
+         "opts": ["A fourth term, \"not belonging to self,\" beyond impermanence, suffering, and not-self", "A fifth sense field beyond the standard six", "A named questioner, where this cluster has none", "An explicit setting, where this cluster restates none"],
+         "correct": 0,
+         "expl": "This cluster runs only the three marks, without SN 22.66-69's fourth term."},
+    ],
+    marginalia=[
+        ("One word changed", [
+            "dukkha for anicca, nothing else —",
+            "the same request, the same shape",
+        ]),
+        ("A move already made once", [
+            "SN 22.67 did this for the aggregates —",
+            "here for the sense fields instead",
+        ]),
+        ("The cluster's middle term", [
+            "impermanence behind, not-self ahead —",
+            "suffering standing between them",
+        ]),
+        ("Three, not four", [
+            "no fourth term follows this cluster —",
+            "unlike SN 22.66-69's own set",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.163/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.162.html">SN 35.162 &middot; With '
+        "Koṭṭhita on Impermanence</a> &mdash; the previous "
+        "discourse.",
+        '<a href="sn-35.164.html">SN 35.164 &middot; With '
+        "Koṭṭhita on Not-Self</a> &mdash; the next discourse, "
+        "closing this cluster.",
+        '<a href="sn-22.67.html">SN 22.67 &middot; Suffering</a> '
+        "&mdash; already published on this site, the identical "
+        "substitution's earlier appearance, there applied to the "
+        "five aggregates.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.164 — Koṭṭhikaanattasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 164, "Koṭṭhikaanatta", "With Koṭṭhita on Not-Self",
+    vagga="Nandikkhayavagga",
+    meta_title="SN 35.164 &mdash; With Koṭṭhita on Not-Self "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Koṭṭhikaanattasutta &mdash; closing the "
+        "Koṭṭhita cluster, the same request and formula with "
+        "not-self in place of suffering. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "Venerable Mahākoṭṭhita, questioning the "
+                      "Buddha directly"),
+        ("Form", "The identical structure as SN 35.162-163, with "
+                 "not-self (anattā) substituted"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "closes the three-discourse Koṭṭhika cluster"),
+    ],
+    why=(
+        "This discourse closes the three-discourse Koṭṭhika "
+        "cluster, substituting &ldquo;not-self&rdquo; (anattā) for "
+        "SN 35.163's &ldquo;suffering,&rdquo; completing the same "
+        "three-marks sequence (impermanence, suffering, not-self) "
+        "SN 22.66-68 already ran for the five aggregates in Book "
+        "III &mdash; though that cluster continued to a fourth "
+        "term, &ldquo;not belonging to self,&rdquo; at SN 22.69, "
+        "where this cluster stops at three and moves to new "
+        "material at SN 35.165."
+    ),
+    guide=[
+        ("The third and final substitution", [
+            "&ldquo;You should give up desire for what is "
+            "not-self&rdquo; closes the cluster's sequence: "
+            "impermanence at SN 35.162, suffering at SN 35.163, "
+            "not-self here &mdash; the traditional three marks "
+            "(tilakkhaṇa), run once each across all six sense "
+            "fields.",
+        ]),
+        ("Three marks here, four terms in Book III", [
+            "SN 22.66-69 ran this same substitution sequence one "
+            "term further, adding &ldquo;not belonging to self&rdquo; "
+            "(na mama) at SN 22.69 as a fourth characterization "
+            "beyond the traditional three marks. This vagga's own "
+            "Koṭṭhika cluster stops at three, without that fourth "
+            "extension &mdash; a genuine structural difference "
+            "between the two clusters, not an oversight.",
+        ]),
+        ("Closing a cluster, not a vagga", [
+            "Unlike several closing discourses already met in this "
+            "book, this discourse carries no colophon of its own "
+            "&mdash; it closes only the three-discourse Koṭṭhika "
+            "cluster within the vagga, which itself continues for "
+            "three more discourses before Nandikkhayavagga's own "
+            "close at SN 35.167.",
+        ]),
+    ],
+    terms=[
+        ("yo anattā tatra te chando pahātabbo", "&ldquo;you "
+             "should give up desire for what is not-self&rdquo; "
+             "&mdash; this discourse's own substitution, closing "
+             "the three-marks sequence"),
+        ("anattā", "not-self &mdash; the third and final "
+             "characterization this cluster applies to the six "
+             "sense fields"),
+        ("tilakkhaṇa", "the three marks &mdash; impermanence, "
+             "suffering, and not-self, the traditional sequence "
+             "this cluster completes without SN 22.66-69's own "
+             "fourth extension"),
+        ("na mama", "&ldquo;not belonging to self&rdquo; &mdash; "
+             "SN 22.69's own fourth term, absent from this cluster"),
+        ("cakkhu, rūpā, cakkhuviññāṇaṁ, cakkhusamphasso",
+             "the eye, sights, eye consciousness, and eye contact "
+             "&mdash; the same fourfold expansion carried through "
+             "all three discourses of this cluster"),
+    ],
+    text_intro=("The complete discourse: the Buddha's reply, run "
+        "in full for the eye and compressed across the remaining "
+        "five sense fields (Mahākoṭṭhita's own request is elided "
+        "in the source, identical to the two discourses before "
+        "this one). Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.164:1.1-1.16"),
+    ],
+    quiz=[
+        {"q": "What single substitution closes this discourse's own cluster?",
+         "opts": ["\"Not-self\" (anattā) in place of \"suffering\"", "\"Suffering\" in place of \"impermanent\"", "A new questioner, replacing Mahākoṭṭhita", "A fourth term beyond the traditional three marks"],
+         "correct": 0,
+         "expl": "Impermanence, suffering, not-self — the traditional three marks, now complete."},
+        {"q": "How does this cluster's own scope compare to SN 22.66-69's in Book III?",
+         "opts": ["This cluster stops at three terms; SN 22.66-69 continues to a fourth, \"not belonging to self\"", "Both clusters run exactly four terms each", "This cluster runs five terms, one more than SN 22.66-69's four", "There is no relationship between the two clusters' scope"],
+         "correct": 0,
+         "expl": "SN 22.69 adds \"na mama\" as a fourth characterization this cluster does not use."},
+        {"q": "What does this discourse's own closing carry, unlike several other closing discourses already met in this book?",
+         "opts": ["No colophon of its own — it closes only the internal cluster, not the vagga", "A full vagga-level colophon and meta-uddāna", "A paṇṇāsaka-level landmark", "An explicit cross-reference to SN 22.69"],
+         "correct": 0,
+         "expl": "The vagga itself continues for three more discourses after this one."},
+        {"q": "What are the traditional three marks (tilakkhaṇa) this cluster's three discourses complete in turn?",
+         "opts": ["Impermanence, suffering, and not-self", "Faith, diligence, and wisdom", "Generosity, ethics, and meditation", "Seeing, hearing, and knowing"],
+         "correct": 0,
+         "expl": "SN 35.162, 163, and 164, one mark each."},
+        {"q": "What discourse follows this one, and what new material does it introduce?",
+         "opts": ["SN 35.165, opening a new three-discourse cluster about giving up views", "SN 35.99, already published elsewhere in this book", "The vagga's own closing colophon, arriving early", "SN 22.69, cross-linked from this discourse's own cluster"],
+         "correct": 0,
+         "expl": "SN 35.165-167 form the vagga's own final cluster, on wrong view, substantialist view, and theory of self."},
+    ],
+    marginalia=[
+        ("Three marks, complete", [
+            "impermanence, suffering, not-self —",
+            "one cluster, one mark each",
+        ]),
+        ("A fourth term this cluster skips", [
+            "SN 22.69 goes one term further —",
+            "this cluster stops at the traditional three",
+        ]),
+        ("No colophon here", [
+            "only the cluster closes, not the vagga —",
+            "three discourses of Nandikkhaya remain",
+        ]),
+        ("Views ahead, not marks", [
+            "wrong view, self-view, next in line —",
+            "a new cluster about to open",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.164/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.163.html">SN 35.163 &middot; With '
+        "Koṭṭhita on Suffering</a> &mdash; the previous "
+        "discourse.",
+        '<a href="sn-35.165.html">SN 35.165 &middot; Giving Up '
+        "Wrong View</a> &mdash; the next discourse, opening this "
+        "vagga's own final cluster.",
+        '<a href="sn-22.68.html">SN 22.68 &middot; Not-Self</a> '
+        "&mdash; already published on this site, the identical "
+        "substitution's earlier appearance, there applied to the "
+        "five aggregates.",
+        '<a href="sn-22.69.html">SN 22.69 &middot; Not Belonging '
+        "to Self</a> &mdash; already published on this site, Book "
+        "III's own fourth term in this sequence, absent from this "
+        "cluster.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.165 — Micchādiṭṭhipahānasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 165, "Micchādiṭṭhipahāna", "Giving Up Wrong View",
+    vagga="Nandikkhayavagga",
+    meta_title="SN 35.165 &mdash; Giving Up Wrong View | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Micchādiṭṭhipahānasutta &mdash; how wrong view is "
+        "given up, by knowing and seeing all six sense fields as "
+        "impermanent, mirroring in reverse the already-published "
+        "SN 22.154. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "An unnamed mendicant, questioning the Buddha; "
+                      "the Buddha replying"),
+        ("Form", "A single question, then an answer run across all "
+                 "six sense fields with their four companions each"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "opens the vagga's final cluster, best read "
+                       "beside its own Book III counterpart"),
+    ],
+    why=(
+        "This discourse opens a three-discourse cluster on giving "
+        "up views &mdash; wrong view here, substantialist view at "
+        "SN 35.166, theory of self at SN 35.167 &mdash; the "
+        "identical three-term sequence (micchādiṭṭhi, sakkāyadiṭṭhi, "
+        "attānudiṭṭhi) already published in Book III at SN "
+        "22.154-156. But the formula runs in the opposite "
+        "direction: SN 22.154 asked what conditions wrong view's "
+        "arising (&ldquo;grasping and insisting on what does wrong "
+        "view arise?&rdquo;), while this discourse asks how it is "
+        "given up (&ldquo;knowing and seeing what is wrong view "
+        "given up?&rdquo;) &mdash; arising and abandoning, the same "
+        "three technical terms examined from both ends."
+    ),
+    guide=[
+        ("A question about abandoning, not arising", [
+            "&ldquo;How does one know and see so that wrong view is "
+            "given up?&rdquo; opens this discourse &mdash; a "
+            "question about release, distinct from SN 22.154's own "
+            "question about what conditions the view's arising in "
+            "the first place.",
+        ]),
+        ("The identical three technical terms, reversed direction", [
+            "SN 22.154-156 traced micchādiṭṭhi, sakkāyadiṭṭhi, and "
+            "attānudiṭṭhi to their arising, through &ldquo;grasping "
+            "and insisting&rdquo; on each of the five aggregates in "
+            "turn. This discourse and its own two companions "
+            "(SN 35.166-167) take the same three terms and ask the "
+            "reverse question: what dissolves them. Both directions "
+            "converge on the same diagnosis &mdash; the aggregates "
+            "there, the sense fields here &mdash; are what grasping "
+            "and insisting (or their absence) turns on.",
+        ]),
+        ("Knowing and seeing X as impermanent", [
+            "The answer: knowing and seeing the eye, sights, eye "
+            "consciousness, eye contact, and eye-born feeling "
+            "&mdash; and by extension all six sense fields with "
+            "their own four companions &mdash; as impermanent, "
+            "wrong view is given up. No further elaboration is "
+            "offered; the diagnosis is compressed into a single "
+            "cognitive act repeated across all six fields.",
+        ]),
+    ],
+    terms=[
+        ("micchādiṭṭhi", "wrong view &mdash; the general category "
+             "this discourse examines, giving it its title, "
+             "identical to SN 22.154's own subject"),
+        ("jānato passato pahīyati", "&ldquo;knowing and seeing... "
+             "is given up&rdquo; &mdash; this discourse's own "
+             "abandoning formula, the reverse of SN 22.154's "
+             "arising formula"),
+        ("aniccato jānato passato", "knowing and seeing as "
+             "impermanent &mdash; the specific cognitive act this "
+             "discourse names as sufficient for wrong view's "
+             "abandonment"),
+        ("gahetvā abhinivissa (SN 22.154's own arising formula)",
+             "&ldquo;grasping and insisting on&rdquo; &mdash; the "
+             "condition SN 22.154 names for wrong view's arising, "
+             "the mirror image of this discourse's own abandoning "
+             "formula"),
+        ("cakkhu, rūpā, cakkhuviññāṇaṁ, cakkhusamphasso",
+             "the eye, sights, eye consciousness, and eye contact "
+             "&mdash; the fourfold expansion run for each of the "
+             "six sense fields"),
+    ],
+    text_intro=("The complete discourse: the mendicant's question, "
+        "then the Buddha's reply, run for the eye and (by the "
+        "source's own elision) implicitly for the remaining five "
+        "sense fields. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.165:1.1-1.3"),
+        ("p", "&sect;2", "sn35.165:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What question opens this discourse?",
+         "opts": ["How does one know and see so that wrong view is given up?", "By grasping and insisting on what does wrong view arise?", "What is the definition of right view?", "How many kinds of wrong view are there?"],
+         "correct": 0,
+         "expl": "A question about abandonment, not about arising."},
+        {"q": "How does this discourse's own formula relate to SN 22.154's, already published in Book III?",
+         "opts": ["The identical three technical terms, examined in the reverse direction — abandoning here, arising there", "There is no relationship between the two discourses", "SN 22.154 also asks about abandonment, making the two discourses identical", "This discourse introduces the term micchādiṭṭhi for the first time on this site"],
+         "correct": 0,
+         "expl": "SN 22.154 asked what conditions wrong view's arising; this discourse asks how it is given up."},
+        {"q": "What cognitive act does this discourse name as sufficient for wrong view's abandonment?",
+         "opts": ["Knowing and seeing each sense field as impermanent", "Reciting a formal renunciation verse", "Debating and defeating a wrong-view holder", "Undertaking a vow of silence"],
+         "correct": 0,
+         "expl": "Aniccato jānato passato — knowing and seeing as impermanent, run across all six sense fields."},
+        {"q": "What condition does SN 22.154 name for wrong view's arising, the mirror image of this discourse's own formula?",
+         "opts": ["Grasping and insisting on each aggregate in turn", "Simply hearing a wrong teacher speak", "A single moment of forgetfulness", "Physical proximity to a wrong-view holder"],
+         "correct": 0,
+         "expl": "The two discourses converge on the same substrate — aggregates there, sense fields here."},
+        {"q": "What two discourses follow this one, continuing the same three-term sequence?",
+         "opts": ["SN 35.166 (substantialist view) and SN 35.167 (theory of self)", "SN 35.99 and SN 35.100, already published elsewhere", "SN 22.155 and SN 22.156, cross-linked from Book III", "No further discourses continue this sequence"],
+         "correct": 0,
+         "expl": "Sakkāyadiṭṭhi and attānudiṭṭhi complete the three-term sequence SN 22.155-156 already ran for the aggregates."},
+    ],
+    marginalia=[
+        ("Abandoning, not arising", [
+            "how is wrong view given up? —",
+            "the reverse of SN 22.154's question",
+        ]),
+        ("Same terms, opposite direction", [
+            "micchādiṭṭhi met once before —",
+            "there its arising, here its end",
+        ]),
+        ("One act, compressed", [
+            "knowing and seeing as impermanent —",
+            "no further elaboration offered",
+        ]),
+        ("Two more terms to come", [
+            "sakkāyadiṭṭhi, attānudiṭṭhi next —",
+            "the same sequence, nearly complete",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.165/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.164.html">SN 35.164 &middot; With '
+        "Koṭṭhita on Not-Self</a> &mdash; the previous "
+        "discourse.",
+        '<a href="sn-35.166.html">SN 35.166 &middot; Giving Up '
+        "Substantialist View</a> &mdash; the next discourse.",
+        '<a href="sn-22.154.html">SN 22.154 &middot; Wrong '
+        "View</a> &mdash; already published on this site, the "
+        "identical term's earlier appearance, there tracing the "
+        "view's arising rather than its abandonment.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.166 — Sakkāyadiṭṭhipahānasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 166, "Sakkāyadiṭṭhipahāna", "Giving Up Substantialist View",
+    vagga="Nandikkhayavagga",
+    meta_title="SN 35.166 &mdash; Giving Up Substantialist View | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Sakkāyaḍiṭṭhipahānasutta &mdash; the "
+        "same abandoning formula as the discourse before it, now "
+        "for substantialist view, and suffering rather than "
+        "impermanence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "An unnamed mendicant, questioning the Buddha; "
+                      "the Buddha replying"),
+        ("Form", "The identical structure as SN 35.165, with "
+                 "substantialist view (sakkāyadiṭṭhi) and suffering "
+                 "(dukkha) substituted"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the cluster's second discourse, substituting "
+                       "two terms at once"),
+    ],
+    why=(
+        "This discourse restates SN 35.165's own structure with two "
+        "substitutions: &ldquo;substantialist view&rdquo; "
+        "(sakkāyadiṭṭhi) in place of &ldquo;wrong view,&rdquo; and "
+        "&ldquo;suffering&rdquo; in place of &ldquo;impermanent&rdquo; "
+        "as the cognitive act that dissolves it. Sakkāyadiṭṭhi is "
+        "this project's own most frequently recurring technical "
+        "term, already central to Book III's Diṭṭhivagga (where SN "
+        "22.155 traced its arising through the identical &ldquo;"
+        "grasping and insisting&rdquo; formula) and referenced "
+        "throughout that book's opening chapters."
+    ),
+    guide=[
+        ("Two substitutions, not one", [
+            "Where SN 35.166's companion SN 35.165 asked about "
+            "wrong view abandoned by knowing impermanence, this "
+            "discourse asks about substantialist view (sakkāyadiṭṭhi) "
+            "abandoned by knowing suffering (dukkhato) &mdash; both "
+            "the view named and the characterization used to "
+            "dissolve it change together.",
+        ]),
+        ("This book's own most central recurring term", [
+            "Sakkāyadiṭṭhi (\"substantialist view,\" sometimes "
+            "rendered \"identity view\") is a term this project has "
+            "already met repeatedly in Book III, most explicitly at "
+            "SN 22.155, which called it \"this book's own most "
+            "central recurring technical term.\" This discourse "
+            "gives the same term its own treatment in Book IV's own "
+            "six-field scheme.",
+        ]),
+        ("A pairing this project has already confirmed", [
+            "This discourse's own pairing of dukkha with "
+            "sakkāyadiṭṭhi's abandonment is not arbitrary: SN 22.155 "
+            "traced substantialist view's arising to grasping and "
+            "insisting on the aggregates as a source of suffering, "
+            "the same underlying diagnosis this discourse's own "
+            "abandoning formula addresses from the opposite direction.",
+        ]),
+    ],
+    terms=[
+        ("sakkāyadiṭṭhi", "substantialist view &mdash; this "
+             "discourse's own subject, this project's own most "
+             "frequently recurring technical term"),
+        ("dukkhato jānato passato", "knowing and seeing as "
+             "suffering &mdash; the specific cognitive act this "
+             "discourse names as sufficient for substantialist "
+             "view's abandonment"),
+        ("micchādiṭṭhi", "wrong view &mdash; SN 35.165's own more "
+             "general term, of which sakkāyadiṭṭhi is one specific "
+             "technical instance, as SN 22.154 already established"),
+        ("attānudiṭṭhi", "theory of self &mdash; the term SN "
+             "35.167 will examine next"),
+        ("cakkhu, rūpā, cakkhuviññāṇaṁ, cakkhusamphasso",
+             "the eye, sights, eye consciousness, and eye contact "
+             "&mdash; the fourfold expansion, unchanged from SN "
+             "35.165"),
+    ],
+    text_intro=("The complete discourse: the mendicant's question "
+        "(elided in the source, identical to SN 35.165's own), "
+        "then the Buddha's reply, run for the eye and by the "
+        "source's own elision implicitly for the remaining five "
+        "sense fields. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.166:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What two substitutions distinguish this discourse from SN 35.165?",
+         "opts": ["Substantialist view in place of wrong view, and suffering in place of impermanence", "Only the view named changes; the abandoning formula stays impermanence", "Only the abandoning formula changes; the view stays wrong view", "A new questioner replaces the unnamed mendicant"],
+         "correct": 0,
+         "expl": "Both the view examined and the characterization used to dissolve it change together."},
+        {"q": "How has this project already characterized sakkāyadiṭṭhi, before this discourse's own treatment?",
+         "opts": ["As this project's own most frequently recurring technical term, central to Book III's Diṭṭhivagga", "As a minor term appearing only once before, at SN 22.150", "As a term unique to this vagga, with no prior appearance", "As a synonym for micchādiṭṭhi with no distinct meaning"],
+         "correct": 0,
+         "expl": "SN 22.155 called it \"this book's own most central recurring technical term.\""},
+        {"q": "What cognitive act does this discourse name as sufficient for substantialist view's abandonment?",
+         "opts": ["Knowing and seeing each sense field as suffering", "Knowing and seeing each sense field as impermanent, as in SN 35.165", "Reciting the four noble truths in full", "Renouncing all sense-field contact permanently"],
+         "correct": 0,
+         "expl": "Dukkhato jānato passato — the discourse's own distinct characterization."},
+        {"q": "How does sakkāyadiṭṭhi relate to micchādiṭṭhi, as SN 22.154 already established?",
+         "opts": ["It is one specific technical instance of the more general category micchādiṭṭhi", "Sakkāyadiṭṭhi is broader than micchādiṭṭhi", "The two terms are unrelated", "Sakkāyadiṭṭhi replaces micchādiṭṭhi entirely from this point forward"],
+         "correct": 0,
+         "expl": "Established in Book III and unchanged here."},
+        {"q": "What discourse follows this one, completing the three-term sequence?",
+         "opts": ["SN 35.167, examining attānudiṭṭhi and closing the vagga", "SN 35.99, already published elsewhere in this book", "SN 22.156, cross-linked from Book III", "No further discourse continues this sequence"],
+         "correct": 0,
+         "expl": "Attānudiṭṭhi, theory of self, is the third and final term."},
+    ],
+    marginalia=[
+        ("Two changes at once", [
+            "substantialist view, suffering now —",
+            "both the view and its cure shift together",
+        ]),
+        ("This book's own recurring term", [
+            "sakkāyadiṭṭhi, met so often before —",
+            "central to Book III's Diṭṭhivagga",
+        ]),
+        ("One instance of a wider class", [
+            "micchādiṭṭhi the genus, this the species —",
+            "a relationship already established",
+        ]),
+        ("One term left", [
+            "attānudiṭṭhi, theory of self —",
+            "closing both cluster and vagga next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.166/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.165.html">SN 35.165 &middot; Giving Up '
+        "Wrong View</a> &mdash; the previous discourse.",
+        '<a href="sn-35.167.html">SN 35.167 &middot; Giving Up '
+        "Theory of Self</a> &mdash; the next discourse, closing "
+        "the vagga.",
+        '<a href="sn-22.155.html">SN 22.155 &middot; Substantialist '
+        "View</a> &mdash; already published on this site, the "
+        "identical term's earlier appearance, there tracing the "
+        "view's arising rather than its abandonment.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.167 — Attānudiṭṭhipahānasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 167, "Attānudiṭṭhipahāna", "Giving Up Theory of Self",
+    vagga="Nandikkhayavagga",
+    meta_title="SN 35.167 &mdash; Giving Up Theory of Self | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Attānudiṭṭhipahānasutta &mdash; closing "
+        "Nandikkhayavagga, and its own untranslated colophon "
+        "confirming this vagga opens the fourth fifty of "
+        "Saḷāyatanasaṃyutta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "An unnamed mendicant, questioning the Buddha; "
+                      "the Buddha replying"),
+        ("Form", "The identical structure as SN 35.165-166, with "
+                 "theory of self (attānudiṭṭhi) and not-self "
+                 "(anattato) substituted"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; closes the vagga and, its own "
+                       "untranslated colophon confirms, opens a new "
+                       "fifty"),
+    ],
+    why=(
+        "This discourse closes Nandikkhayavagga, completing the "
+        "three-term views-abandonment cluster (wrong view, "
+        "substantialist view, theory of self) that mirrors, in "
+        "reverse, Book III's own SN 22.154-156. Beyond this "
+        "discourse's own content &mdash; theory of self dissolved "
+        "by knowing each sense field as not-self &mdash; its "
+        "closing colophon settles a question this project's own "
+        "working notes have carried since Navapurāṇavagga: "
+        "&ldquo;Nandikkhayavaggo paṭhamo&rdquo; (&ldquo;Nandikkhaya "
+        "is the first&rdquo;) confirms this vagga opens a new "
+        "fifty, the fourth paṇṇāsaka of Saḷāyatanasaṃyutta, exactly "
+        "as predicted by the same ordinal pattern already traced "
+        "across Yogakkhemivagga's own &ldquo;paṭhamo&rdquo; opening "
+        "the third fifty."
+    ),
+    guide=[
+        ("The third and final view, dissolved by not-self", [
+            "&ldquo;Knowing and seeing the eye... as not-self, "
+            "theory of self is given up&rdquo; completes the "
+            "cluster's own sequence: wrong view/impermanence at SN "
+            "35.165, substantialist view/suffering at SN 35.166, "
+            "theory of self/not-self here &mdash; the three marks "
+            "matched one each to the three views, in a tidy "
+            "correspondence this cluster does not spell out but "
+            "leaves implicit in its own ordering.",
+        ]),
+        ("A cluster completing what SN 22.154-156 began, in reverse", [
+            "Together, SN 35.165-167 give this project's second "
+            "full treatment of the micchādiṭṭhi/sakkāyadiṭṭhi/"
+            "attānudiṭṭhi sequence, examined here from the "
+            "abandoning side rather than SN 22.154-156's arising "
+            "side &mdash; the same three terms, the same underlying "
+            "diagnosis, approached from both directions across two "
+            "different books.",
+        ]),
+        ("This vagga's own closing colophon: the first", [
+            "\"Nandikkhayavaggo paṭhamo\" &mdash; left untranslated "
+            "in the Pali root and described, not quoted, here, "
+            "confirming Nandikkhayavagga as the first vagga of a "
+            "new fifty, following the identical ordinal reset this "
+            "project already traced when Yogakkhemivagga's own "
+            "&ldquo;paṭhamo&rdquo; opened the third paṇṇāsaka "
+            "immediately after Saḷavagga's fifth-vagga close.",
+        ]),
+        ("A prediction confirmed, cautiously", [
+            "This vagga's opening discourse, SN 35.156, could not "
+            "yet confirm the fourth paṇṇāsaka's start &mdash; only "
+            "a vagga-closing colophon carries that confirmation, "
+            "and this discourse's own untranslated \"paṭhamo\" now "
+            "supplies it. As with the third paṇṇāsaka's own opening, "
+            "the Pali root itself never labels the paṇṇāsaka number "
+            "directly at a vagga's start &mdash; only a summary "
+            "count naming the vaggas thus far accumulated would "
+            "settle a still-more-precise ordinal for this fourth "
+            "fifty, and this discourse's own uddāna offers no such "
+            "count, so this reading guide states the fourth-"
+            "paṇṇāsaka reading as the same kind of confident "
+            "inference this project already made and later "
+            "confirmed for the third.",
+        ]),
+    ],
+    terms=[
+        ("attānudiṭṭhi", "theory of self &mdash; this discourse's "
+             "own subject, the third and final term of the "
+             "views-abandonment cluster"),
+        ("anattato jānato passato", "knowing and seeing as "
+             "not-self &mdash; the cognitive act this discourse "
+             "names as sufficient for theory of self's abandonment"),
+        ("nandikkhayavaggo paṭhamo", "Nandikkhayavagga, the first "
+             "&mdash; this vagga's own closing colophon, left "
+             "untranslated in the Pali root, confirming its place "
+             "as a new fifty's opening vagga"),
+        ("tassuddānaṁ", "&ldquo;its own summary verse&rdquo; "
+             "&mdash; the heading introducing this vagga's own "
+             "uddāna, naming all twelve discourses in four lines, "
+             "left untranslated and described, not quoted, in this "
+             "reading guide"),
+        ("sakkāyadiṭṭhi", "substantialist view &mdash; the middle "
+             "term of the three-part sequence this discourse "
+             "completes, examined at SN 35.166"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "colophon (the vagga-level landmark and its uddāna, both "
+        "left untranslated in the Pali root and described above "
+        "rather than quoted): the mendicant's question, then the "
+        "Buddha's reply, run in full for the eye and mind and "
+        "compressed across the remaining four sense fields. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.167:1.1-1.14"),
+    ],
+    quiz=[
+        {"q": "What cognitive act does this discourse name as sufficient for theory of self's abandonment?",
+         "opts": ["Knowing and seeing each sense field as not-self", "Knowing and seeing each sense field as impermanent, as in SN 35.165", "Knowing and seeing each sense field as suffering, as in SN 35.166", "Renouncing speech about the self entirely"],
+         "correct": 0,
+         "expl": "Anattato jānato passato — the third of three characterizations, one per view."},
+        {"q": "How do SN 35.165-167 relate to SN 22.154-156, already published in Book III?",
+         "opts": ["The identical three-term sequence, examined from the abandoning side rather than the arising side", "There is no relationship between the two clusters", "SN 22.154-156 also examines abandonment, making the clusters identical", "This cluster introduces sakkāyadiṭṭhi to the site for the first time"],
+         "correct": 0,
+         "expl": "The same underlying diagnosis, approached from both directions across two books."},
+        {"q": "What does this discourse's own closing colophon, \"Nandikkhayavaggo paṭhamo,\" confirm?",
+         "opts": ["That Nandikkhayavagga is the first vagga of a new fifty, following the third paṇṇāsaka's close at Navapurāṇavagga", "That this vagga contains exactly one discourse", "That this is the first vagga of Saḷāyatanasaṃyutta as a whole", "Nothing — this colophon is identical to Yogakkhemivagga's own"],
+         "correct": 0,
+         "expl": "The same ordinal reset already traced when Yogakkhemivagga opened the third paṇṇāsaka."},
+        {"q": "Why does this reading guide describe the \"fourth paṇṇāsaka\" reading as an inference rather than a settled fact?",
+         "opts": ["Because the Pali root never labels the paṇṇāsaka number directly at a vagga's opening — only a closing summary count would settle it precisely", "Because the colophon itself is missing from the source text", "Because this project has not yet confirmed SN 35's total vagga count", "Because \"paṭhamo\" could equally mean \"first vagga of the entire saṃyutta\""],
+         "correct": 0,
+         "expl": "The same confident-but-cautious inference this project already made, and later confirmed, for the third paṇṇāsaka."},
+        {"q": "How does this vagga's own three views (wrong view, substantialist view, theory of self) implicitly correspond to the three marks?",
+         "opts": ["Each view is matched one-to-one with a mark: impermanence, suffering, and not-self, in the same order", "There is no correspondence between the views and the marks", "All three views are dissolved by the same single characterization", "The correspondence is stated explicitly in the discourse's own text"],
+         "correct": 0,
+         "expl": "A tidy correspondence the cluster leaves implicit in its own ordering, not stated outright."},
+    ],
+    marginalia=[
+        ("The third view, dissolved", [
+            "not-self ends theory of self —",
+            "the cluster's own sequence complete",
+        ]),
+        ("Two clusters, opposite directions", [
+            "SN 22.154-156 traced arising —",
+            "this cluster traces abandonment",
+        ]),
+        ("\"The first,\" and a new fifty opens", [
+            "paṭhamo — echoing Yogakkhemi's own reset",
+            "after Navapurāṇa's fifth-vagga close",
+        ]),
+        ("A prediction, held with care", [
+            "fourth paṇṇāsaka, inferred not proven —",
+            "the same caution as the third once needed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.167/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.166.html">SN 35.166 &middot; Giving Up '
+        "Substantialist View</a> &mdash; the previous discourse.",
+        '<a href="sn-22.156.html">SN 22.156 &middot; Theory of '
+        "Self</a> &mdash; already published on this site, the "
+        "identical term's earlier appearance, there tracing the "
+        "view's arising rather than its abandonment.",
+        '<a href="sn-36.6.html">SN 36.6 &middot; An Arrow</a> '
+        "&mdash; already published on this site, standing ahead of "
+        "this book's own next vagga, Saṭṭhipeyyālavagga (SN "
+        "35.168&ndash;227), not yet built.",
+    ],
+)
