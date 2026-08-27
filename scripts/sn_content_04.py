@@ -15373,3 +15373,1714 @@ page(
         "35.114&ndash;123), not yet built.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 35.114 - Pathamamarapasasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 114, "Paṭhamamārapāsa", "Māra&rsquo;s Snare (1st)",
+    vagga="Lokakāmaguṇavagga",
+    meta_title="SN 35.114 &mdash; Māra&rsquo;s Snare (1st) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Paṭhamamārapāsasutta &mdash; the discourse "
+        "opening Lokakāmaguṇavagga, defining what it is to be "
+        "caught, or freed, from Māra's snare at each sense "
+        "door. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not stated &mdash; no location formula opens "
+                     "this discourse, unusual for this book"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A single declaration run twice &mdash; bound, "
+                  "then freed &mdash; across all six sense doors, "
+                  "spoken collectively rather than door by door"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), "
+                              "though this reading guide does not "
+                              "assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a short declaration, clear once its own "
+                       "imagery is unpacked"),
+    ],
+    why=(
+        "This discourse opens Lokakāmaguṇavagga, this book's own "
+        "twelfth vagga, with an image this project has not yet "
+        "used as a title: Māra, the Wicked One, laying a snare "
+        "(pāsa) at each sense door, and a mendicant either caught "
+        "in it or released. The mechanism is exactly the mechanism "
+        "this book has run under other names many times before "
+        "&mdash; approving, welcoming, and clinging to an agreeable "
+        "sense object versus not doing so &mdash; but the figure of "
+        "speech is new: not fuel, not fetter, not a yoke, but a "
+        "hunter's trap, with Māra himself named as the one who sets "
+        "it and, once a mendicant is caught, can do with them what "
+        "he wants. A companion discourse immediately follows (SN "
+        "35.115) restating the identical content with the sense "
+        "doors treated individually rather than collectively "
+        "&mdash; the same pairing pattern (two discourses, one "
+        "shared core, differently distributed) this book has used "
+        "before at its own paired titles."
+    ),
+    guide=[
+        ("A new image for an old mechanism", [
+            "The clinging-versus-non-clinging structure at each "
+            "sense door is the oldest formula in this book. What is "
+            "new here is only the figure of speech applied to it: "
+            "Māra's own lair, sway, and snare, rather than fuel, "
+            "fetter, or yoke.",
+        ]),
+        ("Bound entirely, or entirely free", [
+            "This discourse gives no partial state. A mendicant who "
+            "clings at even one sense door is simply trapped in "
+            "Māra's lair outright, and the Wicked One can do with "
+            "them what he wants &mdash; there is no intermediate "
+            "condition on offer.",
+        ]),
+        ("Six doors spoken as one", [
+            "Unlike many of this book's declarations, which spell "
+            "out at least the eye and the mind in full, this "
+            "discourse states its verdict once for each of the two "
+            "conditions (bound, freed) and lets a single peyyāla "
+            "ellipsis cover all six doors collectively, rather than "
+            "restating the trapped-in-Māra's-lair language door by "
+            "door.",
+        ]),
+        ("The first of a pair", [
+            "This discourse's own closing colophon marks it "
+            "&ldquo;Paṭhamaṃ&rdquo; &mdash; first &mdash; "
+            "announcing before it is even read that a second "
+            "telling follows immediately, restating the identical "
+            "content in a different distribution across the six "
+            "doors.",
+        ]),
+    ],
+    terms=[
+        ("mārapāso", "Māra's snare &mdash; the image naming this "
+             "discourse and, by extension, opening this vagga's own "
+             "gallery of figures for the same clinging mechanism"),
+        ("āvāsagato mārassa", "gone to Māra's own lair &mdash; the "
+             "discourse's own description of a mendicant who "
+             "approves and clings"),
+        ("vasaṃ gato", "fallen under [Māra's] sway &mdash; the "
+             "second of the three-part verdict for a clinging "
+             "mendicant"),
+        ("yathākāmakaraṇīyo pāpimato", "for the Wicked One to do "
+             "with as he wants &mdash; the discourse's own "
+             "description of what capture by Māra actually entails"),
+        ("iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā",
+             "likable, desirable, agreeable, pleasant, sensual, and "
+             "arousing &mdash; this book's own standard six-part "
+             "description of an object capable of triggering "
+             "clinging at any sense door"),
+    ],
+    text_intro=("The complete discourse: the bound condition, then "
+        "the freed condition, each run across the eye, the four "
+        "senses folded into a single ellipsis, and the mind. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.114:1.1-1.4"),
+        ("p", "&sect;2", "sn35.114:2.1-3.4"),
+        ("p", "&sect;3", "sn35.114:4.1-4.4"),
+        ("p", "&sect;4", "sn35.114:5.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What image does this discourse use for the clinging mechanism, new to this book's own titles?",
+         "opts": ["Māra's snare", "A fetter", "A yoke", "Fuel for grasping"],
+         "correct": 0,
+         "expl": "Pāsa, a hunter's snare, laid by Māra himself at each sense door."},
+        {"q": "According to this discourse, what happens to a mendicant caught even partially in Māra's snare?",
+         "opts": ["They are trapped outright, with no partial state offered", "They receive a warning first", "Only their eye door is affected", "Nothing, unless it happens at every door at once"],
+         "correct": 0,
+         "expl": "The discourse offers only two conditions, bound or freed, with no middle ground."},
+        {"q": "How does this discourse treat the six sense doors, compared to many other declarations in this book?",
+         "opts": ["Collectively, folded into a single ellipsis", "Each door gets its own full paragraph", "Only the eye and ear are mentioned", "The mind alone is discussed"],
+         "correct": 0,
+         "expl": "Unlike declarations that spell out the eye and mind in full, this one states its verdict once and elides all six doors together."},
+        {"q": "What does this discourse's own closing colophon mark it as?",
+         "opts": ["“Paṭhamaṃ” — first", "“Dutiyaṃ” — second", "“Pañcamaṃ” — fifth", "The colophon names no ordinal"],
+         "correct": 0,
+         "expl": "Announcing, before it is read, that a companion second telling follows immediately."},
+        {"q": "What can the Wicked One do to a mendicant caught in his snare, in this discourse's own words?",
+         "opts": ["Do with them what he wants", "Nothing further; capture alone is the point", "Only prevent their meditation", "Take their almsbowl"],
+         "correct": 0,
+         "expl": "Yathākāmakaraṇīyo pāpimato — subject entirely to Māra's own will."},
+    ],
+    marginalia=[
+        ("A hunter's image, new to this book", [
+            "not fuel, not fetter, not yoke —",
+            "a snare, and one who sets it",
+        ]),
+        ("No middle ground offered", [
+            "trapped outright, or entirely free —",
+            "the discourse allows no partial catch",
+        ]),
+        ("Six doors, spoken once", [
+            "a single ellipsis covers all —",
+            "not door by door, this time",
+        ]),
+        ("First of a pair", [
+            "“paṭhamaṃ” closes it —",
+            "a second telling follows at once",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.114/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.113.html">SN 35.113 &middot; Listening In</a> '
+        "&mdash; the previous discourse, and the close of "
+        "Yogakkhemivagga.",
+        '<a href="sn-35.115.html">SN 35.115 &middot; Māra&rsquo;s '
+        "Snare (2nd)</a> &mdash; the next discourse, restating this "
+        "one's content door by door.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.115 - Dutiyamarapasasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 115, "Dutiyamārapāsa", "Māra&rsquo;s Snare (2nd)",
+    vagga="Lokakāmaguṇavagga",
+    meta_title="SN 35.115 &mdash; Māra&rsquo;s Snare (2nd) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Dutiyamārapāsasutta &mdash; the companion "
+        "discourse restating SN 35.114's snare imagery door by "
+        "door, individually, rather than collectively. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not stated, matching the previous discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "The identical bound/freed declaration, restated "
+                  "with each sense door individually named as "
+                  "bound in or freed from that door's own objects"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), "
+                              "though this reading guide does not "
+                              "assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a short restatement, best read alongside "
+                       "its own companion"),
+    ],
+    why=(
+        "This discourse is the second half of a pair. Where SN "
+        "35.114 stated its bound/freed verdict once, covering all "
+        "six sense doors together, this discourse restates the "
+        "identical mechanism door by door: a mendicant is not "
+        "merely trapped in Māra's lair in general, but is named "
+        "as bound in sights known by the eye specifically, or "
+        "freed from sights known by the eye specifically, and the "
+        "same phrasing recurs, door by door, for the mind. The "
+        "content the two discourses teach is unchanged; only the "
+        "grammar of attribution shifts, from a single verdict "
+        "applied across all doors to a verdict pinned to each door "
+        "by name. This vagga's own closing uddāna (SN 35.123) "
+        "counts the two together as a single mnemonic unit, "
+        "&ldquo;two spoken through Māra's snare,&rdquo; confirming "
+        "the pairing was deliberate from the outset rather than "
+        "incidental."
+    ),
+    guide=[
+        ("The same verdict, pinned to each door by name", [
+            "SN 35.114 says a mendicant who clings is simply "
+            "&ldquo;trapped in Māra's lair.&rdquo; This discourse "
+            "says instead that they are &ldquo;bound in sights "
+            "known by the eye&rdquo; &mdash; and then, separately, "
+            "trapped in Māra's lair, fallen under his sway, and "
+            "caught in his snare. The verdict is stated twice where "
+            "the companion discourse stated it once.",
+        ]),
+        ("Confirmed as a pair by this vagga's own uddāna", [
+            "The mnemonic verse closing SN 35.123, this vagga's own "
+            "final discourse, opens with &ldquo;mārapāsena "
+            "dve&rdquo; &mdash; two [discourses] through Māra's "
+            "snare &mdash; treating SN 35.114 and this discourse as "
+            "one countable unit within the vagga's own ten.",
+        ]),
+        ("A pairing pattern this book has used before", [
+            "Two discourses sharing one core teaching, distributed "
+            "differently across their own texts, is not new to "
+            "this book &mdash; earlier vaggas have paired a full "
+            "telling with a compressed one, or a diagnostic with "
+            "its own remedy. Here the difference is only in "
+            "grammar, not in compression or content.",
+        ]),
+        ("Eye and mind still stand for all six", [
+            "Even in this more granular restatement, only the eye "
+            "and the mind receive their own full sentence; the four "
+            "senses between them are still folded into a peyyāla "
+            "ellipsis, exactly as SN 35.114 folded them.",
+        ]),
+    ],
+    terms=[
+        ("cakkhuviññeyyesu rūpesu saṃyutto", "bound in sights known "
+             "by the eye &mdash; this discourse's own more granular "
+             "phrasing, naming the specific sense door before "
+             "restating the general Māra's-lair verdict"),
+        ("mutto", "freed, released &mdash; the term marking a "
+             "mendicant who does not cling, mirrored against "
+             "saṃyutto (bound) for the same sense door"),
+        ("mārapāso", "Māra's snare &mdash; carried over unchanged "
+             "from the companion discourse"),
+        ("mārapāsena dve", "two [discourses] through Māra's snare "
+             "&mdash; this vagga's own uddāna, at SN 35.123, "
+             "confirming this discourse and SN 35.114 are counted "
+             "together as a deliberate pair"),
+        ("dutiyaṃ", "second &mdash; this discourse's own closing "
+             "colophon, marking it as SN 35.114's own companion "
+             "telling"),
+    ],
+    text_intro=("The complete discourse: the bound condition, then "
+        "the freed condition, each pinned to the eye specifically "
+        "before the general verdict, and to the mind. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.115:1.1-1.4"),
+        ("p", "&sect;2", "sn35.115:2.1-2.5"),
+        ("p", "&sect;3", "sn35.115:3.1-3.4"),
+        ("p", "&sect;4", "sn35.115:4.1-4.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own phrasing differ from SN 35.114's, though the underlying teaching is identical?",
+         "opts": ["It names each sense door individually, rather than covering all six at once", "It adds a new sense door not previously mentioned", "It reverses which sense doors are named", "It drops the mind from consideration"],
+         "correct": 0,
+         "expl": "SN 35.114 gives one collective verdict; this discourse pins the verdict to the eye and to the mind by name."},
+        {"q": "What does this vagga's own uddāna, at SN 35.123, call this discourse and SN 35.114 together?",
+         "opts": ["“Two [discourses] through Māra's snare”", "“The paired teaching on grasping”", "“The twin declarations”", "The uddāna does not group them together"],
+         "correct": 0,
+         "expl": "Mārapāsena dve — confirming the pairing was built into the vagga's own design."},
+        {"q": "Which two sense doors still receive a full, unelided sentence in this more granular restatement?",
+         "opts": ["The eye and the mind", "The ear and the nose", "The tongue and the body", "All six doors are given in full here"],
+         "correct": 0,
+         "expl": "The four senses between eye and mind are still folded into a peyyāla ellipsis."},
+        {"q": "What term marks a mendicant who does not cling, mirrored against saṃyutto (bound)?",
+         "opts": ["Mutto — freed, released", "Suddho — purified", "Vimutto — liberated outright", "Nibbuto — extinguished"],
+         "correct": 0,
+         "expl": "Mutto so mārabandhanena — freed from Māra's bonds."},
+        {"q": "What does this discourse's own closing colophon mark it as?",
+         "opts": ["“Dutiyaṃ” — second", "“Paṭhamaṃ” — first", "“Tatiyaṃ” — third", "The colophon names no ordinal"],
+         "correct": 0,
+         "expl": "Confirming its place as the companion telling to SN 35.114's own “paṭhamaṃ.”"},
+    ],
+    marginalia=[
+        ("One verdict, said twice", [
+            "bound in the eye's own sights —",
+            "then Māra's lair, named again",
+        ]),
+        ("A pair by the vagga's own count", [
+            "“two through Māra's snare” —",
+            "the uddāna confirms it",
+        ]),
+        ("Still, eye and mind alone", [
+            "spelled out in full —",
+            "four senses folded between them",
+        ]),
+        ("The second telling", [
+            "“dutiyaṃ” closes it —",
+            "companion to what came before",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.115/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.114.html">SN 35.114 &middot; Māra&rsquo;s '
+        "Snare (1st)</a> &mdash; the previous discourse, and this "
+        "one's own companion.",
+        '<a href="sn-35.116.html">SN 35.116 &middot; Traveling to '
+        "the End of the World</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.116 - Lokantagamanasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 116, "Lokantagamana", "Traveling to the End of the World",
+    vagga="Lokakāmaguṇavagga",
+    meta_title="SN 35.116 &mdash; Traveling to the End of the World "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Lokantagamanasutta &mdash; the Buddha's brief "
+        "declaration that the world's end cannot be reached by "
+        "traveling, explained by Ānanda through the heartwood "
+        "parable, and its own shared formula with the "
+        "already-published Rohitassa Sutta (AN 4.45). From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not stated at the outset; the mendicants later "
+                     "consult Ānanda, presumably nearby"),
+        ("Speakers", "The Buddha, who gives a brief summary and "
+                      "leaves; the assembled mendicants; Venerable "
+                      "Ānanda, who supplies the detailed explanation"),
+        ("Form", "A summary-and-departure frame: the Buddha states "
+                  "a compressed teaching, withdraws without "
+                  "elaborating, and the mendicants turn to Ānanda, "
+                  "who unpacks it using the heartwood simile"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), "
+                              "though this reading guide does not "
+                              "assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a philosophically dense definition, framed "
+                       "by a well-known narrative device"),
+    ],
+    why=(
+        "This discourse opens with a formula this project has "
+        "already met in a different collection: &ldquo;it's not "
+        "possible to know or see or reach the end of the world by "
+        "traveling&hellip;but I also say there's no making an end "
+        "of suffering without reaching the end of the world.&rdquo; "
+        "The identical core claim, in nearly identical wording, "
+        "opens the already-published Rohitassa Sutta (AN 4.45), "
+        "where a sky-walking godling named Rohitassa recounts a "
+        "hundred-year lifetime spent trying, and failing, to "
+        "outrun the world's edge, and the Buddha answers with the "
+        "famous verse locating the world, its origin, its "
+        "cessation, and the path to its cessation &ldquo;in this "
+        "fathom-long carcass with its perception and mind.&rdquo; "
+        "This discourse shares that opening claim but not that "
+        "frame: here the Buddha states it as a bare summary to the "
+        "assembled mendicants and withdraws without a word of "
+        "explanation, leaving them to work out the meaning "
+        "themselves. What follows is a device this project has not "
+        "yet used at length &mdash; mendicants unable to unpack a "
+        "compressed teaching turn to Venerable Ānanda, who declines "
+        "the honor with a heartwood parable (a person searching for "
+        "heartwood who bypasses a tree's own roots and trunk for its "
+        "branches and leaves, exactly as the mendicants bypassed the "
+        "Buddha himself to ask his student) before supplying the "
+        "answer anyway: the world, in the Noble One's own training, "
+        "is simply whatever in the world one perceives and conceives "
+        "the world through &mdash; the six sense fields themselves."
+    ),
+    guide=[
+        ("A formula already met, in a different frame", [
+            "AN 4.45, already on this site, opens with the "
+            "identical core claim &mdash; the world's end cannot be "
+            "reached by traveling, and there is no end of suffering "
+            "without reaching it &mdash; spoken to the godling "
+            "Rohitassa, who supplies his own hundred-year travel "
+            "story and receives the famous &ldquo;fathom-long "
+            "carcass&rdquo; verse in reply. This discourse states "
+            "the same claim to the assembled mendicants, then walks "
+            "away without elaborating at all.",
+        ]),
+        ("A summary given, then withheld", [
+            "The Buddha's own pattern here &mdash; a compressed "
+            "teaching, then departure without explanation &mdash; "
+            "forces the mendicants to seek out the meaning "
+            "themselves rather than receiving it directly, testing "
+            "whether the teaching has actually been understood by "
+            "requiring it to be reconstructed.",
+        ]),
+        ("The heartwood parable, and a gentle rebuke", [
+            "Ānanda's own image &mdash; someone in need of heartwood "
+            "who wanders past a tree's roots and trunk, imagining "
+            "the heartwood must be sought in the branches and "
+            "leaves &mdash; doubles as a rebuke: the mendicants had "
+            "direct access to the Buddha, the one who knows and "
+            "sees, and bypassed him for his student.",
+        ]),
+        ("The world defined as the reach of the six senses", [
+            "Ānanda's own answer, once given, is precise: whatever "
+            "in the world one perceives and conceives the world "
+            "through &mdash; eye, ear, nose, tongue, body, mind "
+            "&mdash; is called &ldquo;the world&rdquo; in the "
+            "Noble One's own training. The Buddha, on hearing this "
+            "reported back, confirms he would have answered no "
+            "differently himself.",
+        ]),
+    ],
+    terms=[
+        ("lokassa antaṃ", "the end, or limit, of the world &mdash; "
+             "the object the Buddha declares unreachable by "
+             "traveling, in wording shared with AN 4.45's own "
+             "Rohitassa Sutta"),
+        ("sāradāni", "heartwood &mdash; the object of Ānanda's own "
+             "simile, and the discourse's own image for what the "
+             "mendicants overlooked in the Buddha himself"),
+        ("cakkhunā kho, āvuso, lokasmiṃ lokasaññī "
+             "lokamānī", "through the eye in the world you perceive "
+             "the world and conceive the world &mdash; Ānanda's own "
+             "formula, repeated for each of the six sense doors, "
+             "defining &ldquo;the world&rdquo; itself"),
+        ("ariyassa vinaye", "in the discipline, or training, of the "
+             "Noble One &mdash; the frame within which Ānanda's own "
+             "definition of &ldquo;the world&rdquo; is offered"),
+        ("paṇḍito mahāpañño", "astute, of great wisdom &mdash; the "
+             "Buddha's own verdict on Ānanda once he hears the "
+             "explanation reported back"),
+    ],
+    text_intro=("The complete discourse: the Buddha's brief summary "
+        "and departure, the mendicants' deliberation, their approach "
+        "to Ānanda, the heartwood parable, Ānanda's own explanation, "
+        "and the Buddha's confirmation. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.116:1.1-1.8"),
+        ("p", "&sect;2", "sn35.116:2.1-2.4"),
+        ("p", "&sect;3", "sn35.116:3.1-4.13"),
+        ("p", "&sect;4", "sn35.116:5.1-5.6"),
+        ("p", "&sect;5", "sn35.116:6.1-7.3"),
+        ("p", "&sect;6", "sn35.116:8.1-8.21"),
+        ("p", "&sect;7", "sn35.116:9.1-10.14"),
+        ("p", "&sect;8", "sn35.116:11.1-11.3"),
+    ],
+    quiz=[
+        {"q": "What already-published discourse in a different collection opens with the identical claim that the world's end cannot be reached by traveling?",
+         "opts": ["AN 4.45 (with Rohitassa)", "MN 147 (Advice to Rāhula)", "SN 12.45 (At Ñātika)", "DN 16 (The Great Passing)"],
+         "correct": 0,
+         "expl": "AN 4.45's Rohitassa Sutta, already on this site, opens with nearly identical wording."},
+        {"q": "What does the Buddha do immediately after stating his brief summary in this discourse?",
+         "opts": ["Gets up and enters his dwelling, without explaining", "Explains it in full detail on the spot", "Asks Sāriputta to explain it", "Repeats the summary a second time"],
+         "correct": 0,
+         "expl": "The mendicants are left to seek out the meaning themselves, turning to Ānanda."},
+        {"q": "What does Ānanda's own heartwood parable illustrate?",
+         "opts": ["That the mendicants bypassed the Buddha himself to ask his student", "That the world's end is like a tree's roots", "That heartwood cannot actually be found", "That Ānanda himself lacks the wisdom to answer"],
+         "correct": 0,
+         "expl": "A person seeking heartwood who bypasses the roots and trunk for branches and leaves, as the mendicants bypassed the Buddha."},
+        {"q": "How does Ānanda define “the world,” in the Noble One's own training?",
+         "opts": ["Whatever in the world one perceives and conceives the world through — the six sense fields", "The physical cosmos of many world-systems", "The realm of human rebirth specifically", "Everything the mind can imagine"],
+         "correct": 0,
+         "expl": "Through the eye, ear, nose, tongue, body, and mind — the same reach as this book's own central subject."},
+        {"q": "How does the Buddha respond when the mendicants report Ānanda's own explanation back to him?",
+         "opts": ["He confirms he would have answered no differently himself", "He corrects several points Ānanda got wrong", "He declines to comment either way", "He asks Sāriputta to verify it first"],
+         "correct": 0,
+         "expl": "“If you came to me and asked this question, I would answer it in exactly the same way as Ānanda.”"},
+    ],
+    marginalia=[
+        ("A claim already met, elsewhere", [
+            "AN 4.45's own opening —",
+            "the same world, unreachable by foot",
+        ]),
+        ("Given, then withheld", [
+            "a summary, and a closed door —",
+            "the meaning left to be sought",
+        ]),
+        ("Heartwood in the branches", [
+            "the parable doubles as rebuke —",
+            "the teacher stood there, bypassed",
+        ]),
+        ("The world, defined at last", [
+            "six doors, and nothing further —",
+            "what is perceived, and conceived",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.116/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="../anguttara-nikaya/an-4.45.html">AN 4.45 &middot; With Rohitassa</a> '
+        "&mdash; already published on this site, sharing this "
+        "discourse's own opening claim about the world's end, in a "
+        "different frame and with the famous "
+        "&ldquo;fathom-long&rdquo; verse.",
+        '<a href="sn-35.115.html">SN 35.115 &middot; Māra&rsquo;s '
+        "Snare (2nd)</a> &mdash; the previous discourse.",
+        '<a href="sn-35.117.html">SN 35.117 &middot; The Kinds of '
+        "Sensual Stimulation</a> &mdash; the next discourse, reusing "
+        "this one's own heartwood frame.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.117 - Kamagunasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 117, "Kāmaguṇa", "The Kinds of Sensual Stimulation",
+    vagga="Lokakāmaguṇavagga",
+    meta_title="SN 35.117 &mdash; The Kinds of Sensual Stimulation "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Kāmaguṇasutta &mdash; this vagga's own "
+        "namesake discourse, the Buddha's pre-awakening resolve to "
+        "guard his mind against the five kinds of sensual "
+        "stimulation, reusing SN 35.116's own heartwood frame. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not stated at the outset"),
+        ("Speakers", "The Buddha, recounting his own pre-awakening "
+                      "reflection to the assembled mendicants; "
+                      "Venerable Ānanda, again supplying the "
+                      "detailed explanation"),
+        ("Form", "The Buddha's own first-person recollection, "
+                  "followed by the identical summary-and-departure, "
+                  "heartwood-parable frame just used in SN 35.116, "
+                  "now heavily compressed"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), "
+                              "though this reading guide does not "
+                              "assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "familiar content and frame, worth reading "
+                       "for its own title-giving term"),
+    ],
+    why=(
+        "This discourse gives Lokakāmaguṇavagga its own name: kāma "
+        "guṇa, &ldquo;kinds of sensual stimulation,&rdquo; the "
+        "term this book has used throughout for exactly the class "
+        "of likable, desirable, agreeable objects at each sense "
+        "door that recur across nearly every discourse in this "
+        "vagga. Here the Buddha recalls, in his own first-person "
+        "voice, a reflection from before his awakening: that his "
+        "own mind might stray back toward sensual stimulation "
+        "already experienced, present, or anticipated, and that "
+        "diligence, mindfulness, and protecting the mind were "
+        "needed even then. He extends the same warning to the "
+        "assembled mendicants, then reuses, almost verbatim, the "
+        "summary-and-departure frame this vagga's own previous "
+        "discourse (SN 35.116) just established &mdash; the "
+        "identical heartwood parable, heavily abbreviated here with "
+        "an ellipsis rather than spelled out again, and Ānanda "
+        "supplying the same kind of detailed explanation, this time "
+        "identifying the cessation of the six sense doors as what "
+        "the Buddha's own brief summary pointed toward."
+    ),
+    guide=[
+        ("The vagga's own name, defined by its own text", [
+            "Kāmaguṇa, the five kinds of sensual stimulation, is the "
+            "term giving this vagga its name &mdash; and this "
+            "discourse is where the term itself is used to describe "
+            "the Buddha's own pre-awakening vigilance against it, "
+            "continuing this book's pattern of a vagga taking its "
+            "title from an early discourse's own central word.",
+        ]),
+        ("The Buddha's own account of his pre-awakening practice", [
+            "Rare in this project: the Buddha describes, in his own "
+            "voice, a specific discipline he applied to himself "
+            "before his awakening &mdash; guarding against his own "
+            "mind straying toward remembered, present, or "
+            "anticipated sensual stimulation &mdash; then extends "
+            "the identical instruction to the mendicants before "
+            "him.",
+        ]),
+        ("The same frame as the previous discourse, compressed", [
+            "This discourse reuses SN 35.116's own device almost "
+            "exactly &mdash; a summary given and withheld, the "
+            "mendicants turning to Ānanda, the heartwood parable "
+            "&mdash; but abbreviates the parable itself to a bare "
+            "ellipsis, trusting the reader to recall it from the "
+            "discourse immediately preceding.",
+        ]),
+        ("Cessation named as the summary's own meaning", [
+            "Ānanda's own explanation here identifies what the "
+            "Buddha's brief summary was pointing toward: the "
+            "cessation of the six sense doors themselves, where "
+            "perception of their objects fades away &mdash; a more "
+            "specific answer than SN 35.116's own definition of "
+            "&ldquo;the world.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("kāmaguṇa", "kinds of sensual stimulation &mdash; the term "
+             "naming this discourse and this vagga as a whole, for "
+             "the class of likable objects met at each sense door"),
+        ("appamādaṃ satiṃ cittarakkhaṃ", "diligence, mindfulness, "
+             "and protecting the mind &mdash; the threefold "
+             "discipline the Buddha applied to himself before his "
+             "awakening, and now extends to the mendicants"),
+        ("atikkamma vā gataṃ, appattaṃ vā anāgataṃ",
+             "past and gone, or future and not yet arrived &mdash; "
+             "the discourse's own temporal range for the sensual "
+             "stimulation a mind might still stray toward"),
+        ("nirujjhati saññā ca nirujjhati", "ceases, and perception "
+             "fades away &mdash; the cessation Ānanda identifies as "
+             "the true target of the Buddha's own brief summary"),
+        ("sāradāni", "heartwood &mdash; the same simile SN 35.116 "
+             "used in full, here compressed to a bare ellipsis"),
+    ],
+    text_intro=("The complete discourse, its heartwood parable left "
+        "abbreviated in the Pali root exactly as it is here: the "
+        "Buddha's own pre-awakening reflection, and Ānanda's "
+        "explanation of the six sense doors' own cessation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.117:1.1-1.10"),
+        ("p", "&sect;2", "sn35.117:2.1-3.4"),
+        ("p", "&sect;3", "sn35.117:4.1-6.2"),
+        ("p", "&sect;4", "sn35.117:7.1-8.14"),
+        ("p", "&sect;5", "sn35.117:9.1-11.3"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse use, giving Lokakāmaguṇavagga its own name?",
+         "opts": ["Kāmaguṇa — kinds of sensual stimulation", "Mārapāsa — Māra's snare", "Yogakkhema — sanctuary from the yoke", "Saṃyojana — fetter"],
+         "correct": 0,
+         "expl": "The five kinds of sensual stimulation, the class of objects this whole vagga circles around."},
+        {"q": "What does the Buddha recall about his own conduct before his awakening?",
+         "opts": ["Practicing diligence, mindfulness, and protecting his mind against sensual stimulation", "Traveling in search of the world's end", "Studying under Uddaka Rāmaputta", "Teaching the six sense doors to his first students"],
+         "correct": 0,
+         "expl": "A first-person account of his own pre-awakening vigilance, then extended to the assembled mendicants."},
+        {"q": "How does this discourse treat the heartwood parable, compared to SN 35.116's own full telling?",
+         "opts": ["Heavily abbreviated to a bare ellipsis", "Told twice, once by the Buddha and once by Ānanda", "Replaced with a different simile entirely", "Omitted altogether"],
+         "correct": 0,
+         "expl": "Trusting the reader to recall it from the immediately preceding discourse."},
+        {"q": "What does Ānanda identify as the true target of the Buddha's own brief summary?",
+         "opts": ["The cessation of the six sense doors and their objects fading away", "The definition of “the world”", "The end of suffering directly", "The nature of Māra's snare"],
+         "correct": 0,
+         "expl": "A more specific answer than SN 35.116's own definition of “the world.”"},
+        {"q": "Over what temporal range does the Buddha say a mind might still stray toward sensual stimulation?",
+         "opts": ["Past, present, and future", "Only the present moment", "Only what has not yet occurred", "Only what has already passed"],
+         "correct": 0,
+         "expl": "Already experienced and passed, present, or anticipated a little in the future."},
+    ],
+    marginalia=[
+        ("The vagga's own name, here", [
+            "kāmaguṇa, spoken at last —",
+            "the word this book has used throughout",
+        ]),
+        ("Before the awakening, a discipline", [
+            "guarding his own mind —",
+            "then handed on to the assembly",
+        ]),
+        ("A frame reused, compressed", [
+            "the same heartwood, briefer now —",
+            "trusting what was just told",
+        ]),
+        ("Cessation, named precisely", [
+            "six doors, and their fading —",
+            "sharper than “the world” alone",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.117/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.116.html">SN 35.116 &middot; Traveling to '
+        "the End of the World</a> &mdash; the previous discourse, "
+        "and the source of this one's own compressed frame.",
+        '<a href="sn-35.118.html">SN 35.118 &middot; The Question of '
+        "Sakka</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.118 - Sakkapanhasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 118, "Sakkapañha", "The Question of Sakka",
+    vagga="Lokakāmaguṇavagga",
+    meta_title="SN 35.118 &mdash; The Question of Sakka | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Sakkapañhasutta &mdash; Sakka, lord of gods, asks "
+        "the Buddha at Vulture's Peak why some are not extinguished "
+        "in this very life, and some are. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, on Vulture's Peak Mountain"),
+        ("Speakers", "Sakka, lord of gods, questioning the Buddha "
+                      "directly"),
+        ("Form", "A single question, asked in both its positive and "
+                  "negative form at once, answered with the "
+                  "familiar clinging-versus-non-clinging structure "
+                  "run across all six sense doors"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), "
+                              "though this reading guide does not "
+                              "assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a direct question and a direct answer"),
+    ],
+    why=(
+        "This discourse moves the setting to Rājagaha's Vulture's "
+        "Peak, a location this book has not used before, and gives "
+        "the questioner a name familiar from elsewhere in this "
+        "canon: Sakka, lord of gods. His question is not about "
+        "cosmology or ethics but about extinguishment itself "
+        "&mdash; why do some sentient beings fail to become fully "
+        "extinguished in this very life, and why do others succeed? "
+        "The Buddha's answer restates this book's own oldest "
+        "mechanism in slightly different vocabulary: a mendicant "
+        "who approves, welcomes, and clings to an agreeable sense "
+        "object gives their own consciousness a support, a fuel for "
+        "grasping, and fuel for grasping is precisely what prevents "
+        "extinguishment; a mendicant who does not cling denies "
+        "consciousness that support, and becomes extinguished. The "
+        "same question, unchanged, is put to a different questioner "
+        "immediately afterward, at SN 35.119."
+    ),
+    guide=[
+        ("A new location for this book", [
+            "Vulture's Peak, near Rājagaha, has not served as this "
+            "book's setting before; this discourse and its own "
+            "companion (SN 35.119) both use it, breaking from the "
+            "Sāvatthī default this vagga otherwise assumes.",
+        ]),
+        ("Sakka's own question", [
+            "Not a question about ethics or cosmology but about "
+            "extinguishment directly: what causes some beings to "
+            "fail at it, and others to succeed, in this very life "
+            "&mdash; a framing this book has not used before, "
+            "though the answer draws on its oldest material.",
+        ]),
+        ("Fuel for grasping, as the deciding factor", [
+            "The Buddha's own answer names consciousness's own "
+            "support and fuel for grasping as the mechanism: "
+            "clinging to an agreeable object gives consciousness "
+            "that fuel, and a mendicant carrying it cannot become "
+            "extinguished; withholding it, they can.",
+        ]),
+        ("The first of another pair", [
+            "This discourse's own question and answer recur "
+            "essentially unchanged at the very next discourse, put "
+            "instead to the centaur Pañcasikha &mdash; another "
+            "instance of this vagga's own recurring pairing habit.",
+        ]),
+    ],
+    terms=[
+        ("sakko devānamindo", "Sakka, lord of gods &mdash; the "
+             "questioner in this discourse, a figure recurring "
+             "across this canon as chief of the Thirty-Three gods"),
+        ("gijjhakūṭe pabbate", "on Vulture's Peak Mountain &mdash; "
+             "this discourse's own setting, near Rājagaha"),
+        ("na parinibbāyanti", "are not fully extinguished &mdash; "
+             "the negative half of Sakka's own question"),
+        ("upādāniyaṃ ārammaṇaṃ", "support and fuel for grasping "
+             "&mdash; what a clinging mendicant's own consciousness "
+             "gains from an agreeable object, and what prevents "
+             "extinguishment"),
+        ("anupādāno bhikkhu parinibbāyati", "a mendicant free of "
+             "grasping becomes extinguished &mdash; the positive "
+             "half of the Buddha's own answer"),
+    ],
+    text_intro=("The complete discourse: Sakka's own question, and "
+        "the Buddha's answer, run across all six sense doors for "
+        "both the negative and positive case. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.118:1.1-1.4"),
+        ("p", "&sect;2", "sn35.118:2.1-3.6"),
+        ("p", "&sect;3", "sn35.118:4.1-5.6"),
+    ],
+    quiz=[
+        {"q": "Who asks the Buddha this discourse's own question, and where?",
+         "opts": ["Sakka, lord of gods, on Vulture's Peak", "Pañcasikha the centaur, on Vulture's Peak", "Ānanda, at Jeta's Grove", "Māra, at an unnamed location"],
+         "correct": 0,
+         "expl": "Sakka questions the Buddha directly, at Rājagaha's Vulture's Peak — a new setting for this book."},
+        {"q": "What does Sakka actually ask about?",
+         "opts": ["Why some beings are, or are not, fully extinguished in this very life", "The origin of the six sense doors", "Whether the world has an end", "How to guard the sense doors"],
+         "correct": 0,
+         "expl": "A direct question about extinguishment itself, not ethics or cosmology."},
+        {"q": "What does the Buddha say clinging to an agreeable object gives a mendicant's own consciousness?",
+         "opts": ["Support and fuel for grasping", "Freedom from Māra's snare", "A fetter that tightens over time", "Nothing; clinging is neutral"],
+         "correct": 0,
+         "expl": "Upādāniyaṃ ārammaṇaṃ — precisely what prevents extinguishment."},
+        {"q": "What happens at the very next discourse, SN 35.119?",
+         "opts": ["The identical question and answer recur, put to a different questioner", "Sakka returns with a follow-up question", "The setting moves back to Sāvatthī", "A new teaching on Māra's snare begins"],
+         "correct": 0,
+         "expl": "The centaur Pañcasikha asks Sakka's own question next, essentially unchanged."},
+        {"q": "What setting does this discourse use, breaking from this vagga's own default?",
+         "opts": ["Vulture's Peak, near Rājagaha", "Jeta's Grove, at Sāvatthī", "The Dark Forest, near Sāvatthī", "Ñātika's brick house"],
+         "correct": 0,
+         "expl": "Most of this vagga assumes Sāvatthī by default; this discourse and its companion move to Rājagaha instead."},
+    ],
+    marginalia=[
+        ("A new peak for this book", [
+            "Vulture's Peak, near Rājagaha —",
+            "not this vagga's own default",
+        ]),
+        ("Sakka's own question", [
+            "why extinguished, or not —",
+            "asked plainly, of the teacher himself",
+        ]),
+        ("Fuel, and its withholding", [
+            "cling, and consciousness is fed —",
+            "withhold, and the fire goes out",
+        ]),
+        ("A question asked again", [
+            "the very next discourse repeats it —",
+            "a different questioner, the same answer",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.118/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.117.html">SN 35.117 &middot; The Kinds of '
+        "Sensual Stimulation</a> &mdash; the previous discourse.",
+        '<a href="sn-35.119.html">SN 35.119 &middot; The Question of '
+        "Pañcasikha</a> &mdash; the next discourse, repeating this "
+        "one's own question and answer.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.119 - Pancasikhasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 119, "Pañcasikha", "The Question of Pañcasikha",
+    vagga="Lokakāmaguṇavagga",
+    meta_title="SN 35.119 &mdash; The Question of Pañcasikha | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Pañcasikhasutta &mdash; the centaur Pañcasikha "
+        "asks the Buddha the identical question Sakka just asked, "
+        "at the same Vulture's Peak, compressed to its essentials. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, on Vulture's Peak Mountain, "
+                     "matching the previous discourse"),
+        ("Speakers", "The centaur Pañcasikha, questioning the "
+                      "Buddha directly"),
+        ("Form", "The identical question and answer as SN 35.118, "
+                  "compressed with an ellipsis rather than spelled "
+                  "out door by door"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), "
+                              "though this reading guide does not "
+                              "assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and familiar, its own companion "
+                       "already having spelled out the content in "
+                       "full"),
+    ],
+    why=(
+        "This discourse is this vagga's own second Vulture's Peak "
+        "pairing: the identical question just put by Sakka, lord of "
+        "gods, at SN 35.118, is now put by a different figure "
+        "&mdash; Pañcasikha, a centaur (gandhabba), a class of "
+        "celestial musician spirit distinct from the devas. The "
+        "question and its answer are otherwise unchanged, and this "
+        "discourse compresses the six-sense-door answer that SN "
+        "35.118 spelled out in full down to a single ellipsis, "
+        "trusting the reader to recall it from the discourse "
+        "immediately preceding. The pairing gives this vagga its "
+        "own second instance (after the Māra's-snare pair at SN "
+        "35.114-115) of the same content asked, or told, twice in "
+        "immediate succession, this time by two different classes "
+        "of celestial questioner rather than in two different "
+        "grammatical distributions."
+    ),
+    guide=[
+        ("The same question, a different questioner", [
+            "Pañcasikha's own question to the Buddha is worded "
+            "identically to Sakka's, at the immediately preceding "
+            "discourse &mdash; only the speaker, and the class of "
+            "being he represents, has changed.",
+        ]),
+        ("A centaur, not a deva", [
+            "Pañcasikha is a gandhabba, a celestial musician spirit, "
+            "distinct from Sakka's own class as a deva &mdash; this "
+            "canon elsewhere gives Pañcasikha a role as messenger "
+            "and musician among the gods, though this discourse "
+            "does not develop that background.",
+        ]),
+        ("Compression, not restatement", [
+            "Where SN 35.114-115 restated identical content with "
+            "different grammar, this discourse and its own "
+            "companion restate identical content with identical "
+            "grammar, compressed the second time to a bare "
+            "ellipsis.",
+        ]),
+        ("A second pairing habit confirmed", [
+            "This vagga now shows two distinct kinds of paired "
+            "discourse: content restated differently (SN "
+            "35.114-115) and content repeated to a different "
+            "questioner (SN 35.118-119) &mdash; a vagga built, in "
+            "part, out of deliberate doublings.",
+        ]),
+    ],
+    terms=[
+        ("gandhabbo pañcasikho", "the centaur (gandhabba) "
+             "Pañcasikha &mdash; a class of celestial musician "
+             "spirit, distinct from the devas Sakka belongs to"),
+        ("gijjhakūṭe pabbate", "on Vulture's Peak Mountain &mdash; "
+             "the same setting as the immediately preceding "
+             "discourse"),
+        ("na parinibbāyanti", "are not fully extinguished &mdash; "
+             "the identical question, unchanged from SN 35.118"),
+        ("upādāniyaṃ ārammaṇaṃ", "support and fuel for grasping "
+             "&mdash; the identical mechanism named in the answer"),
+        ("pe", "the peyyāla ellipsis mark &mdash; standing in this "
+             "discourse's own root text for the full six-door "
+             "answer already spelled out at SN 35.118"),
+    ],
+    text_intro=("The complete discourse, compressed exactly as the "
+        "Pali root compresses it: Pañcasikha's own question, and the "
+        "Buddha's answer for both the negative and positive case. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.119:1.1-1.10"),
+        ("p", "&sect;2", "sn35.119:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "Who asks the question in this discourse, at the same Vulture's Peak setting as SN 35.118?",
+         "opts": ["The centaur Pañcasikha", "Sakka, lord of gods, a second time", "Māra, the Wicked One", "Venerable Ānanda"],
+         "correct": 0,
+         "expl": "A gandhabba, a class of celestial musician spirit distinct from the devas."},
+        {"q": "How does Pañcasikha's own question compare to Sakka's, at the immediately preceding discourse?",
+         "opts": ["Worded identically", "Reversed — asking why beings ARE extinguished, not why they aren't", "Broader in scope", "About a different topic entirely"],
+         "correct": 0,
+         "expl": "Only the questioner, and his class of being, has changed."},
+        {"q": "How does this discourse treat the six-sense-door answer, compared to SN 35.118's own full telling?",
+         "opts": ["Compressed to a bare ellipsis", "Expanded with additional detail", "Answered differently this time", "Left unanswered"],
+         "correct": 0,
+         "expl": "Trusting the reader to recall SN 35.118's own full spelling-out."},
+        {"q": "What kind of being is a gandhabba, as Pañcasikha is described here?",
+         "opts": ["A celestial musician spirit, distinct from the devas", "A class of deva identical to Sakka's own", "A human ascetic", "A serpent-being (nāga)"],
+         "correct": 0,
+         "expl": "A different class of celestial being from Sakka's own, though both question the Buddha at the same location."},
+        {"q": "What kind of pairing does SN 35.118-119 represent, distinct from SN 35.114-115's own pairing?",
+         "opts": ["Identical content repeated to a different questioner", "Identical content restated with different grammar", "A full telling followed by its opposite", "No pairing; the two are unrelated"],
+         "correct": 0,
+         "expl": "Where 114-115 varied the grammar, 118-119 vary only the speaker, showing this vagga's own second doubling habit."},
+    ],
+    marginalia=[
+        ("A different questioner, the same peak", [
+            "Pañcasikha now, not Sakka —",
+            "Vulture's Peak, unchanged",
+        ]),
+        ("A musician spirit, not a god", [
+            "gandhabba, distinct in kind —",
+            "yet asking the identical question",
+        ]),
+        ("Compressed, not retold", [
+            "an ellipsis stands in —",
+            "the full answer, just given once",
+        ]),
+        ("A second kind of doubling", [
+            "one question, two askers —",
+            "this vagga's own recurring habit",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.119/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.118.html">SN 35.118 &middot; The Question of '
+        "Sakka</a> &mdash; the previous discourse, and this one's "
+        "own companion.",
+        '<a href="sn-35.120.html">SN 35.120 &middot; Sāriputta and '
+        "the Protégé</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.120 - Sariputtasaddhiviharikasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 120, "Sāriputtasaddhivihārika", "Sāriputta and the Protégé",
+    vagga="Lokakāmaguṇavagga",
+    meta_title="SN 35.120 &mdash; Sāriputta and the Protégé | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Sāriputtasaddhivihārikasutta &mdash; a mendicant "
+        "reports that his protégé has disrobed, and Venerable "
+        "Sāriputta explains the three practices needed to sustain "
+        "the spiritual life. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Sāvatthī, in Jeta's Grove, "
+                     "Anāthapiṇḍika's monastery &mdash; a return to "
+                     "this vagga's own default after two discourses "
+                     "at Vulture's Peak"),
+        ("Speakers", "An unnamed mendicant, reporting a problem to "
+                      "Venerable Sāriputta, who answers"),
+        ("Form", "A pastoral consultation: a complaint, followed by "
+                  "Sāriputta's own diagnosis and a threefold "
+                  "practical teaching"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), "
+                              "though this reading guide does not "
+                              "assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "practical and direct, with no philosophical "
+                       "difficulty"),
+    ],
+    why=(
+        "This discourse returns to Sāvatthī and to a figure this "
+        "project has already met many times, Venerable Sāriputta, "
+        "here approached not by the Buddha but by an unnamed "
+        "mendicant with a pastoral problem: a protégé (saddhivihārika, "
+        "literally one who shares his own dwelling, a junior monk "
+        "under his guidance) has resigned the training and returned "
+        "to lay life. Sāriputta's own diagnosis names three failures "
+        "&mdash; not guarding the sense doors, eating without "
+        "moderation, and lacking commitment to wakefulness &mdash; "
+        "and his own remedy spells out each in turn: guarding the "
+        "senses means not seizing on the features and details of "
+        "what is seen, heard, smelled, tasted, touched, or thought; "
+        "moderate eating means rational reflection on food as "
+        "sustenance rather than indulgence; wakefulness means "
+        "structuring the day and night's three watches around "
+        "walking and sitting meditation, with only the middle watch "
+        "given to sleep, taken mindfully in the lion's posture. This "
+        "is not a discourse about a fixed philosophical formula but "
+        "about the practical scaffolding a spiritual life requires "
+        "to be sustained at all."
+    ),
+    guide=[
+        ("A pastoral problem, not a doctrinal one", [
+            "The discourse opens with a concrete complaint &mdash; "
+            "a protégé has disrobed &mdash; rather than a question "
+            "about impermanence, suffering, or not-self. Sāriputta's "
+            "own answer is correspondingly practical.",
+        ]),
+        ("Three failures, three remedies", [
+            "Sāriputta names not guarding the sense doors, eating "
+            "without moderation, and lacking commitment to "
+            "wakefulness as the cause of the protégé's own failure, "
+            "then explains each of the three positive practices in "
+            "turn.",
+        ]),
+        ("Guarding the senses, defined precisely", [
+            "Not avoiding sense experience altogether, but not "
+            "seizing on its features and details &mdash; letting "
+            "covetousness and displeasure arise unchecked is what "
+            "guarding the senses actually prevents.",
+        ]),
+        ("A structured day and night", [
+            "Wakefulness, in Sāriputta's own account, is not "
+            "sleeplessness but a schedule: walking and sitting "
+            "meditation through the day and the first and last "
+            "watches of the night, with only the middle watch given "
+            "to mindful rest in the lion's posture.",
+        ]),
+    ],
+    terms=[
+        ("saddhivihārika", "protégé, literally one who shares [his "
+             "teacher's own] dwelling &mdash; a junior mendicant "
+             "under a senior's own guidance, the discourse's own "
+             "subject"),
+        ("hīnāyāvattoti", "returned to a lesser life &mdash; the "
+             "discourse's own euphemism for disrobing, returning to "
+             "lay life"),
+        ("indriyesu aguttadvāratā", "not guarding the sense doors "
+             "&mdash; the first of the three failures Sāriputta "
+             "names as the cause"),
+        ("nimittaggāhī anubyañjanaggāhī", "seizing on the features, "
+             "seizing on the details &mdash; what guarding the "
+             "senses, properly practiced, prevents"),
+        ("sīhaseyyaṃ kappeti", "lies down in the lion's posture "
+             "&mdash; the discourse's own description of the "
+             "mindful rest taken only in the night's middle watch"),
+    ],
+    text_intro=("The complete discourse: the complaint, and "
+        "Sāriputta's own diagnosis and threefold teaching on "
+        "guarding the sense doors, eating in moderation, and "
+        "commitment to wakefulness. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.120:1.1-2.3"),
+        ("p", "&sect;2", "sn35.120:3.1-3.10"),
+        ("p", "&sect;3", "sn35.120:4.1-4.4"),
+        ("p", "&sect;4", "sn35.120:5.1-5.9"),
+    ],
+    quiz=[
+        {"q": "What problem does the unnamed mendicant report to Sāriputta?",
+         "opts": ["His protégé has resigned the training and returned to lay life", "He himself wishes to disrobe", "A dispute has broken out in the community", "He cannot understand a teaching the Buddha gave"],
+         "correct": 0,
+         "expl": "A saddhivihārika, a junior mendicant under his guidance, has disrobed."},
+        {"q": "What three failures does Sāriputta name as the cause?",
+         "opts": ["Not guarding the sense doors, eating without moderation, lacking commitment to wakefulness", "Doubt, ill will, and laziness", "Poor teachers, poor company, poor conditions", "Breaking the precepts, neglecting study, avoiding meditation"],
+         "correct": 0,
+         "expl": "The three failures Sāriputta diagnoses, each answered by its own positive practice."},
+        {"q": "What does guarding the sense doors actually mean, in Sāriputta's own explanation?",
+         "opts": ["Not seizing on the features and details of what is sensed", "Avoiding all sense experience entirely", "Keeping the eyes lowered at all times", "Refusing to speak with laypeople"],
+         "correct": 0,
+         "expl": "Preventing covetousness and displeasure from becoming overwhelming, not withdrawing from sensation altogether."},
+        {"q": "How does Sāriputta describe commitment to wakefulness?",
+         "opts": ["Walking and sitting meditation through the day and two of the night's three watches", "Never sleeping at all", "Meditating only after midnight", "Sleeping in the first watch and meditating through the rest of the night"],
+         "correct": 0,
+         "expl": "Only the middle watch is given to mindful rest, in the lion's posture."},
+        {"q": "What setting does this discourse return to, after two discourses at Vulture's Peak?",
+         "opts": ["Sāvatthī, in Jeta's Grove", "Rājagaha, on Vulture's Peak again", "Ñātika's brick house", "The Dark Forest"],
+         "correct": 0,
+         "expl": "This vagga's own default setting, resumed after SN 35.118-119's detour to Rājagaha."},
+    ],
+    marginalia=[
+        ("A practical complaint", [
+            "a protégé has disrobed —",
+            "not a question of doctrine",
+        ]),
+        ("Three failures named", [
+            "senses, food, and sleep —",
+            "each answered by its own practice",
+        ]),
+        ("Guarding, precisely defined", [
+            "not features, not details seized —",
+            "covetousness left unfed",
+        ]),
+        ("A night in three watches", [
+            "walking, sitting, and one watch of rest —",
+            "the lion's posture, mindfully kept",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.120/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.119.html">SN 35.119 &middot; The Question of '
+        "Pañcasikha</a> &mdash; the previous discourse.",
+        '<a href="sn-35.121.html">SN 35.121 &middot; Advice to '
+        "Rāhula</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.121 - Rahulovadasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 121, "Rāhulovāda", "Advice to Rāhula",
+    vagga="Lokakāmaguṇavagga",
+    meta_title="SN 35.121 &mdash; Advice to Rāhula | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Rāhulovādasutta &mdash; the Buddha leads his own "
+        "son Rāhula through the impermanent/suffering/not-self "
+        "catechism at the Dark Forest, and Rāhula attains "
+        "arahantship as he listens. A near-duplicate of the "
+        "already-published MN 147. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Sāvatthī, then the Dark Forest "
+                     "(Andhavana), where the Buddha leads Rāhula "
+                     "for the day's meditation"),
+        ("Speakers", "The Buddha and Venerable Rāhula, his own son, "
+                      "watched by many thousands of deities"),
+        ("Form", "A private catechism &mdash; is this permanent or "
+                  "impermanent, suffering or happiness, fit to be "
+                  "called mine? &mdash; run across the eye and its "
+                  "own derivatives, then the remaining five sense "
+                  "doors, ending in Rāhula's own liberation"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), "
+                              "though this reading guide does not "
+                              "assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; a long but familiar catechism, "
+                       "notable chiefly for what happens at its "
+                       "own close"),
+    ],
+    why=(
+        "This discourse is, essentially, the same event already "
+        "published on this site under a different collection's own "
+        "name: MN 147, &ldquo;The Shorter Advice to Rāhula,&rdquo; "
+        "gives the identical scene &mdash; the Buddha, noticing in "
+        "private retreat that the qualities ripening in freedom "
+        "have ripened in his own son Rāhula, leads him to the same "
+        "Dark Forest (Andhavana) followed by the same many "
+        "thousands of deities, sits him down, and runs the same "
+        "catechism to the same conclusion: Rāhula's own mind freed "
+        "from defilements as the discourse is being spoken, and the "
+        "stainless vision of the Dhamma arising in the assembled "
+        "deities. This is one of the clearer cases in this project "
+        "so far of a single event transmitted under two different "
+        "collections' own numbering &mdash; not a thematic echo, as "
+        "with SN 35.116's shared formula with AN 4.45, but the same "
+        "narrative told with the same details, down to Rāhula "
+        "fetching his own sitting cloth and following behind the "
+        "Buddha. The catechism itself extends the "
+        "impermanent/suffering/not-self formula this book's own "
+        "Saḷavagga already applied to the five aggregates at SN "
+        "35.101-102 (echoing SN 22.33-34), here run across the eye, "
+        "sights, eye consciousness, eye contact, and what arises "
+        "dependent on eye contact, then the same fivefold structure "
+        "for each remaining sense door in turn."
+    ),
+    guide=[
+        ("The same event, told under two collections", [
+            "MN 147, already on this site, gives what reads as the "
+            "identical occasion: the Dark Forest, the many "
+            "thousands of deities, Rāhula's own sitting cloth, the "
+            "same catechism, and the same outcome. This discourse "
+            "and MN 147 are best read as two transmissions of one "
+            "event, not two separate teachings.",
+        ]),
+        ("A father's private observation", [
+            "The occasion begins not with a question but with the "
+            "Buddha's own private reflection, in retreat, that "
+            "Rāhula's own qualities have ripened enough to be led "
+            "further &mdash; a rare glimpse of the Buddha initiating "
+            "a teaching from his own assessment of readiness, rather "
+            "than in response to a question.",
+        ]),
+        ("The catechism's own full range", [
+            "Is the eye permanent or impermanent? Suffering or "
+            "happiness? Fit to be regarded as mine, as I am this, as "
+            "my self? The same three questions, and the same three "
+            "answers, run first across the eye and everything "
+            "arising dependent on it, then across each remaining "
+            "sense door in turn.",
+        ]),
+        ("Liberation, witnessed by thousands", [
+            "Rāhula's own mind is freed from defilements while the "
+            "discourse is still being spoken &mdash; not afterward, "
+            "in later practice &mdash; and the same moment brings "
+            "the stainless vision of the Dhamma to the many "
+            "thousands of deities who had followed hoping to "
+            "witness exactly this.",
+        ]),
+    ],
+    terms=[
+        ("andhavana", "the Dark Forest &mdash; the grove near "
+             "Sāvatthī where this discourse and its own MN 147 "
+             "parallel both take place"),
+        ("etaṃ mama, esohamasmi, eso me attā",
+             "this is mine, I am this, this is my self &mdash; the "
+             "catechism's own closing question at each stage, "
+             "already familiar from this book's own Saḷavagga (SN "
+             "35.101-102) and from Book III's own SN 22.33-34"),
+        ("nibbindati", "grows disillusioned &mdash; the first stage "
+             "of the catechism's own conclusion, applied to each "
+             "sense door in turn"),
+        ("vimuttasmiṃ vimuttamiti ñāṇaṃ hoti",
+             "when they're freed, they know they're freed &mdash; "
+             "the discourse's own description of Rāhula's own "
+             "liberation, occurring as the teaching is spoken"),
+        ("virajaṃ vītamalaṃ dhammacakkhuṃ udapādi",
+             "the stainless, immaculate vision of the Dhamma arose "
+             "&mdash; what the many thousands of deities receive at "
+             "the identical moment as Rāhula's own liberation"),
+    ],
+    text_intro=("The complete discourse: the Buddha's own private "
+        "reflection, the walk to the Dark Forest, the catechism run "
+        "across all six sense doors, and Rāhula's own liberation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.121:1.1-1.9"),
+        ("p", "&sect;2", "sn35.121:2.1-2.5"),
+        ("p", "&sect;3", "sn35.121:3.1-20.1"),
+        ("p", "&sect;4", "sn35.121:21.1-38.1"),
+        ("p", "&sect;5", "sn35.121:39.1-50.1"),
+        ("p", "&sect;6", "sn35.121:51.1-52.3"),
+        ("p", "&sect;7", "sn35.121:53.1-53.5"),
+    ],
+    quiz=[
+        {"q": "What already-published discourse in a different collection gives what reads as the identical event as this discourse?",
+         "opts": ["MN 147 (The Shorter Advice to Rāhula)", "AN 4.45 (With Rohitassa)", "SN 12.45 (At Ñātika)", "MN 18 (The Honeyball)"],
+         "correct": 0,
+         "expl": "The same Dark Forest scene, the same thousands of deities, the same catechism and outcome."},
+        {"q": "What prompts the Buddha to lead Rāhula further, at this discourse's own opening?",
+         "opts": ["His own private reflection that Rāhula's qualities have ripened", "A direct question from Rāhula", "A request from Sāriputta", "An instruction from Sakka"],
+         "correct": 0,
+         "expl": "A rare case of the Buddha initiating a teaching from his own assessment, not in response to a question."},
+        {"q": "What three questions does the catechism ask at each stage?",
+         "opts": ["Permanent or impermanent? Suffering or happiness? Fit to be regarded as mine, I, or self?", "Wholesome or unwholesome? Skillful or unskillful? Praised or blamed?", "Seen, heard, or thought? Near or far? Past or future?", "Pleasant, painful, or neutral?"],
+         "correct": 0,
+         "expl": "The same three-question catechism this book has already used, here applied fully to all six sense doors."},
+        {"q": "When does Rāhula's own mind become freed from defilements?",
+         "opts": ["While the discourse is still being spoken", "Some years afterward, in solitary retreat", "Only after the Buddha's own passing", "The discourse does not say"],
+         "correct": 0,
+         "expl": "Liberation occurring in the moment of teaching, not as a later result."},
+        {"q": "What happens to the many thousands of deities at that same moment?",
+         "opts": ["The stainless vision of the Dhamma arises in them", "They depart in disappointment", "They ask the Buddha a further question", "They are named individually in the text"],
+         "correct": 0,
+         "expl": "The identical moment brings the Dhamma-eye to the assembled deities who had followed to witness it."},
+    ],
+    marginalia=[
+        ("One event, two collections", [
+            "MN 147's own scene, again —",
+            "the Dark Forest, retold",
+        ]),
+        ("A father's own judgment", [
+            "ripened, he judges in private —",
+            "then leads his son to test it",
+        ]),
+        ("The old catechism, run in full", [
+            "mine? I? my self? — no, sir —",
+            "six doors, and all that arises",
+        ]),
+        ("Freed while still speaking", [
+            "not later, but now —",
+            "thousands witness it happen",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.121/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="../majjhima-nikaya/mn-147.html">MN 147 &middot; The Shorter Advice to '
+        "Rāhula</a> &mdash; already published on this site, giving "
+        "what reads as the identical event under a different "
+        "collection's own numbering.",
+        '<a href="sn-35.120.html">SN 35.120 &middot; Sāriputta and '
+        "the Protégé</a> &mdash; the previous discourse.",
+        '<a href="sn-35.122.html">SN 35.122 &middot; Things That '
+        "Tighten Fetters</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.122 - Samyojaniyadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 122, "Saṃyojaniyadhamma", "Things That Tighten Fetters",
+    vagga="Lokakāmaguṇavagga",
+    meta_title="SN 35.122 &mdash; Things That Tighten Fetters | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Saṃyojaniyadhammasutta &mdash; a brief declaration "
+        "on the things that tighten the fetters, applied to sense "
+        "objects, mirroring the already-published SN 35.109's own "
+        "declaration on the six sense faculties. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not stated"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A single brief declaration, defining the things "
+                  "that tighten the fetters and the fetter itself, "
+                  "run across all six kinds of sense object"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), "
+                              "though this reading guide does not "
+                              "assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; brief and direct, best read "
+                       "alongside its own earlier counterpart"),
+    ],
+    why=(
+        "This discourse shares its own title and opening formula "
+        "word for word with SN 35.109, already published on this "
+        "site as the ninth vagga's own &ldquo;Things That Tighten "
+        "Fetters,&rdquo; with one deliberate difference: SN 35.109 "
+        "names the six sense faculties themselves &mdash; the eye, "
+        "ear, nose, tongue, body, and mind &mdash; as the things "
+        "that tighten the fetters, while this discourse names the "
+        "six kinds of sense object &mdash; sights, sounds, smells, "
+        "tastes, touches, and ideas, each described with this "
+        "book's own standard likable-desirable-agreeable formula "
+        "&mdash; instead. Both discourses agree that the fetter "
+        "itself is neither the faculty nor the object but the "
+        "desire and greed a mendicant brings to either. The pairing "
+        "spans two different vaggas of this same book, a wider "
+        "separation than this vagga's own internal pairs (SN "
+        "35.114-115, SN 35.118-119), and gives this vagga's own "
+        "closing pair (with SN 35.123 immediately following) a "
+        "structural echo of Yogakkhemivagga's own closing pair (SN "
+        "35.109-110), now applied to sense objects rather than "
+        "sense faculties."
+    ),
+    guide=[
+        ("The same title, a different anchor", [
+            "SN 35.109 already asked this exact question of the six "
+            "sense faculties themselves. This discourse asks the "
+            "identical question of what those faculties encounter "
+            "&mdash; sights, sounds, smells, tastes, touches, and "
+            "ideas &mdash; rather than the faculties doing the "
+            "encountering.",
+        ]),
+        ("Object, not organ", [
+            "Where SN 35.109 says simply &ldquo;the eye is "
+            "something that tightens the fetters,&rdquo; this "
+            "discourse instead describes sights known by the eye as "
+            "likable, desirable, agreeable, pleasant, sensual, and "
+            "arousing &mdash; this book's own recurring six-part "
+            "description of an object, not an organ.",
+        ]),
+        ("The fetter itself, unchanged either way", [
+            "Both discourses agree on what the fetter actually is: "
+            "not the faculty, not the object, but the desire and "
+            "greed (chandarāgo) a mendicant brings to either one. "
+            "The thing that tightens differs; the fetter itself does "
+            "not.",
+        ]),
+        ("A pairing spanning two vaggas", [
+            "Unlike this vagga's own internal pairs, this discourse "
+            "and SN 35.109 sit ten discourses and a vagga boundary "
+            "apart, confirmed as a deliberate matched set by their "
+            "identical title and opening formula rather than by "
+            "physical proximity.",
+        ]),
+    ],
+    terms=[
+        ("saṃyojaniyā dhammā", "things that tighten the fetters "
+             "&mdash; this discourse's own title term, shared "
+             "word for word with SN 35.109"),
+        ("saṃyojanaṃ", "the fetter itself &mdash; defined "
+             "identically in both discourses as the desire and "
+             "greed brought to whatever tightens it"),
+        ("cakkhuviññeyyā rūpā", "sights known by the eye &mdash; "
+             "this discourse's own anchor, an object, where SN "
+             "35.109 anchors on the eye itself, an organ"),
+        ("chandarāgo", "desire and greed &mdash; the single "
+             "element both discourses name as the fetter proper, "
+             "regardless of what it is directed toward"),
+        ("iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā",
+             "likable, desirable, agreeable, pleasant, sensual, and "
+             "arousing &mdash; this book's own standard formula, "
+             "here describing the sense objects SN 35.109 did not "
+             "need, since it anchored on the faculties instead"),
+    ],
+    text_intro=("The complete discourse: the announcement, then the "
+        "definition of things that tighten the fetters and the "
+        "fetter itself, run across all six kinds of sense object. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.122:1.1-1.3"),
+        ("p", "&sect;2", "sn35.122:1.4-1.10"),
+    ],
+    quiz=[
+        {"q": "What already-published discourse, in an earlier vagga of this same book, shares this discourse's own exact title and opening formula?",
+         "opts": ["SN 35.109", "SN 35.110", "SN 35.104", "SN 35.113"],
+         "correct": 0,
+         "expl": "Both titled “Things That Tighten Fetters,” with the identical opening declaration."},
+        {"q": "What does this discourse name as the things that tighten the fetters, unlike SN 35.109's own anchor?",
+         "opts": ["The six kinds of sense object (sights, sounds, etc.)", "The six sense faculties themselves", "The six kinds of consciousness", "The six kinds of contact"],
+         "correct": 0,
+         "expl": "SN 35.109 anchors on the faculties (the eye itself); this discourse anchors on what the faculties encounter."},
+        {"q": "What do both discourses agree the fetter itself actually is?",
+         "opts": ["The desire and greed brought to whatever tightens it", "The faculty itself", "The object itself", "A physical bond described elsewhere in this canon"],
+         "correct": 0,
+         "expl": "Chandarāgo — identical in both discourses, regardless of whether the anchor is faculty or object."},
+        {"q": "How far apart do this discourse and its own SN 35.109 counterpart sit?",
+         "opts": ["Ten discourses and a vagga boundary apart", "Immediately adjacent to each other", "In two entirely different saṃyuttas", "They are, in fact, the same discourse"],
+         "correct": 0,
+         "expl": "A pairing confirmed by identical wording rather than physical proximity — SN 35.109 sits in Yogakkhemivagga, this discourse in Lokakāmaguṇavagga."},
+        {"q": "What formula does this discourse use to describe each kind of sense object?",
+         "opts": ["Likable, desirable, agreeable, pleasant, sensual, and arousing", "Impermanent, suffering, and not-self", "Near, far, past, and future", "Wholesome and unwholesome"],
+         "correct": 0,
+         "expl": "This book's own standard six-part description, not needed by SN 35.109's faculty-anchored version."},
+    ],
+    marginalia=[
+        ("Same title, different anchor", [
+            "SN 35.109's own twin —",
+            "objects now, not organs",
+        ]),
+        ("What tightens, and what the fetter is", [
+            "sights, sounds, and the rest —",
+            "yet greed alone is the fetter",
+        ]),
+        ("One formula, reused", [
+            "likable, desirable, arousing —",
+            "this book's own recurring six words",
+        ]),
+        ("A pair across a vagga boundary", [
+            "ten discourses apart —",
+            "matched by wording, not by place",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.122/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.109.html">SN 35.109 &middot; Things That '
+        "Tighten Fetters</a> &mdash; already published on this "
+        "site, this discourse's own counterpart, anchored on the "
+        "six sense faculties rather than their objects.",
+        '<a href="sn-35.121.html">SN 35.121 &middot; Advice to '
+        "Rāhula</a> &mdash; the previous discourse.",
+        '<a href="sn-35.123.html">SN 35.123 &middot; Things That '
+        "Fuel Grasping</a> &mdash; the next discourse, and this "
+        "vagga's own close.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 35.123 - Upadaniyadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, 123, "Upādāniyadhamma", "Things That Fuel Grasping",
+    vagga="Lokakāmaguṇavagga",
+    meta_title="SN 35.123 &mdash; Things That Fuel Grasping | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the Upādāniyadhammasutta &mdash; closing "
+        "Lokakāmaguṇavagga with sense objects mirroring the "
+        "already-published SN 35.110, and this vagga's own closing "
+        "colophon confirming it as the second vagga of this book's "
+        "third paṇṇāsaka. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not stated"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A single brief declaration, defining the things "
+                  "that fuel grasping and the grasping itself, run "
+                  "across all six kinds of sense object, closing "
+                  "this vagga"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), "
+                              "though this reading guide does not "
+                              "assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; brief in itself, but closing a "
+                       "vagga whose own colophon settles an open "
+                       "question"),
+    ],
+    why=(
+        "This discourse closes Lokakāmaguṇavagga exactly as its own "
+        "immediately preceding companion (SN 35.122) closed the "
+        "matched pair with SN 35.109: this discourse shares its "
+        "title and opening formula word for word with SN 35.110, "
+        "already published on this site, with the same shift from "
+        "sense faculty to sense object as anchor. But this "
+        "discourse's own closing colophon carries more weight than "
+        "its own content: where the previous vagga's own closing "
+        "discourse (SN 35.113) named Yogakkhemivagga "
+        "&ldquo;paṭhamo&rdquo; &mdash; first &mdash; with only an "
+        "inference, not a direct statement, that a third paṇṇāsaka "
+        "had begun, this discourse's own colophon names "
+        "Lokakāmaguṇavagga &ldquo;dutiyo&rdquo; &mdash; second. Read "
+        "together, paṭhamo followed directly by dutiyo is exactly "
+        "the sequential vagga-within-paṇṇāsaka numbering this "
+        "project has already confirmed twice before (at "
+        "Avijjāvagga's own second-paṇṇāsaka opening, and now here), "
+        "not a coincidental repetition of &ldquo;first&rdquo; and "
+        "&ldquo;second&rdquo; in some other sense. This is the "
+        "strongest confirmation yet, short of an explicit "
+        "paṇṇāsaka-level label such as SN 35.52's or SN 35.103's "
+        "own, that Yogakkhemivagga and Lokakāmaguṇavagga together "
+        "open this book's own third paṇṇāsaka. This vagga's own "
+        "closing uddāna, left untranslated in the Pali root as "
+        "consistently as every uddāna in this book, is described "
+        "rather than quoted below, and confirms every title this "
+        "reading guide has already given: two through Māra's snare, "
+        "the world and its kinds of sensual stimulation, Sakka and "
+        "Pañcasikha, Sāriputta and Rāhula, the fetter and the "
+        "grasping."
+    ),
+    guide=[
+        ("SN 35.110's own counterpart, sense objects for faculties", [
+            "As with SN 35.122 and SN 35.109, this discourse "
+            "shares its exact title and formula with SN 35.110, "
+            "already on this site, substituting the six kinds of "
+            "sense object for the six sense faculties SN 35.110 "
+            "anchors on.",
+        ]),
+        ("A colophon that settles an open question", [
+            "This discourse's own closing colophon reads "
+            "&ldquo;Lokakāmaguṇavaggo dutiyo&rdquo; &mdash; second. "
+            "Following directly on Yogakkhemivagga's own "
+            "&ldquo;paṭhamo,&rdquo; the sequence paṭhamo, dutiyo is "
+            "exactly what a vagga-within-paṇṇāsaka count would "
+            "produce, confirming rather than merely suggesting that "
+            "a third paṇṇāsaka opened with Yogakkhemivagga.",
+        ]),
+        ("Still no explicit paṇṇāsaka-level label", [
+            "Unlike SN 35.52 and SN 35.103, whose own colophons "
+            "explicitly name a paṇṇāsaka's completion, this "
+            "discourse's colophon gives only the vagga-level "
+            "ordinal. The third-paṇṇāsaka reading rests on this "
+            "numbering pattern, now confirmed twice, rather than on "
+            "an explicit label of its own.",
+        ]),
+        ("The vagga's own uddāna, confirming every title", [
+            "The closing mnemonic verse, left untranslated as this "
+            "book's own consistent practice, names every discourse "
+            "of this vagga in sequence &mdash; Māra's snare (twice), "
+            "the world and its sensual stimulation, Sakka, "
+            "Pañcasikha, Sāriputta, Rāhula, the fetter, and the "
+            "grasping &mdash; matching this reading guide's own "
+            "count of ten discourses exactly.",
+        ]),
+    ],
+    terms=[
+        ("upādāniyā dhammā", "things that fuel grasping &mdash; "
+             "this discourse's own title term, shared word for "
+             "word with SN 35.110"),
+        ("upādānaṃ", "the grasping itself &mdash; defined "
+             "identically in both discourses as the desire and "
+             "greed brought to whatever fuels it"),
+        ("dasamaṃ", "tenth &mdash; this discourse's own place-count "
+             "within Lokakāmaguṇavagga, confirming the vagga holds "
+             "exactly ten discourses"),
+        ("lokakāmaguṇavaggo dutiyo", "Lokakāmaguṇavagga, the second "
+             "&mdash; this vagga's own closing colophon, read here "
+             "as confirming, alongside Yogakkhemivagga's own "
+             "&ldquo;paṭhamo,&rdquo; that a third paṇṇāsaka opened "
+             "with these two vaggas together"),
+        ("tassuddānaṃ", "its own mnemonic verse &mdash; the closing "
+             "uddāna naming every discourse of this vagga, left "
+             "untranslated in the Pali root and described, not "
+             "quoted, above"),
+    ],
+    text_intro=("The complete discourse, apart from its own closing "
+        "colophon and uddāna (both left untranslated in the Pali "
+        "root and described above rather than quoted): the "
+        "announcement, then the definition of things that fuel "
+        "grasping and the grasping itself. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn35.123:1.1-1.3"),
+        ("p", "&sect;2", "sn35.123:1.4-1.10"),
+    ],
+    quiz=[
+        {"q": "What already-published discourse shares this discourse's own exact title and formula, anchored on the sense faculties rather than their objects?",
+         "opts": ["SN 35.110", "SN 35.109", "SN 35.113", "SN 35.104"],
+         "correct": 0,
+         "expl": "Both titled “Things That Fuel Grasping,” with the identical opening declaration."},
+        {"q": "What does this discourse's own closing colophon name Lokakāmaguṇavagga as?",
+         "opts": ["“Dutiyo” — second", "“Paṭhamo” — first", "“Pañcamo” — fifth", "The colophon names no ordinal at all"],
+         "correct": 0,
+         "expl": "Lokakāmaguṇavaggo dutiyo, left untranslated in the Pali root."},
+        {"q": "What does that “dutiyo,” following directly on Yogakkhemivagga's own “paṭhamo,” do for the paṇṇāsaka question raised at SN 35.113?",
+         "opts": ["Confirms, rather than merely suggests, that a third paṇṇāsaka opened with Yogakkhemivagga", "Contradicts the earlier inference entirely", "Introduces an explicit “tatiyapaṇṇāsaka” label", "Has no bearing on the paṇṇāsaka question"],
+         "correct": 0,
+         "expl": "Paṭhamo followed by dutiyo is exactly the vagga-within-paṇṇāsaka sequence this project has confirmed before, though still without an explicit paṇṇāsaka-level label."},
+        {"q": "Does this discourse's own colophon carry an explicit paṇṇāsaka-level landmark, the way SN 35.52 and SN 35.103 did?",
+         "opts": ["No — only the vagga-level ordinal “dutiyo”", "Yes — it names the paṇṇāsaka outright", "Yes, but only in the uddāna, not the colophon", "The discourse has no colophon at all"],
+         "correct": 0,
+         "expl": "The third-paṇṇāsaka reading rests on the numbering pattern alone, not an explicit label."},
+        {"q": "What does this vagga's own closing uddāna confirm, when compared against this reading guide's own count?",
+         "opts": ["Exactly ten discourses, matching every title given", "Only eight discourses, fewer than expected", "An eleventh discourse not otherwise covered", "Nothing; the uddāna is left untranslated and unusable"],
+         "correct": 0,
+         "expl": "Māra's snare (twice), the world and its sensual stimulation, Sakka, Pañcasikha, Sāriputta, Rāhula, the fetter, and the grasping — ten in sequence."},
+    ],
+    marginalia=[
+        ("SN 35.110's own twin", [
+            "objects now, not organs —",
+            "the same closing formula, once more",
+        ]),
+        ("A colophon that answers a question", [
+            "“dutiyo” follows “paṭhamo” —",
+            "the third fifty, now confirmed",
+        ]),
+        ("Confirmed, not labeled outright", [
+            "no “tatiyapaṇṇāsaka” named —",
+            "only the pattern, twice seen",
+        ]),
+        ("Ten names, in one verse", [
+            "the uddāna counts them all —",
+            "matching this guide, discourse for discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn35.123/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.110.html">SN 35.110 &middot; Things That '
+        "Fuel Grasping</a> &mdash; already published on this site, "
+        "this discourse's own counterpart, anchored on the six "
+        "sense faculties rather than their objects.",
+        '<a href="sn-35.122.html">SN 35.122 &middot; Things That '
+        "Tighten Fetters</a> &mdash; the previous discourse.",
+        '<a href="sn-36.6.html">SN 36.6 &middot; An Arrow</a> '
+        "&mdash; already published on this site, standing ahead of "
+        "this book's own next vagga, Gahapativagga (SN "
+        "35.124&ndash;133), not yet built.",
+    ],
+)
