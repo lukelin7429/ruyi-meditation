@@ -42,9 +42,28 @@ INDEX_HEADING = "IV. Saḷāyatanavagga — The Book of the Six Sense Fields"
 # is absorbed into this module's own PAGES sequence (hand-patched, not
 # auto-chained -- see the fragile-junction note above) and TAIL moves
 # to SN 36.6, the next already-published page beyond this module's own
-# current coverage.
+# current coverage. SN 41.1 itself is a second kind of pre-existing
+# page, different from SN 35.28/36.6's own mid-vagga fragility: it sits
+# at the very START of Cittavagga (SN 41's own only vagga), so once
+# this module begins generating SN 41.2 onward it behaves exactly like
+# a second HEAD, not a fragile junction -- SN 41.1's own "next" (a
+# static field baked into its already-built HTML) needed the identical
+# one-time hand-edit HEAD itself received, now pointing to SN 41.2; and
+# SN 41.2's own page() call below carries an explicit prev override
+# back to SN 41.1, since chain()'s ordinary auto-logic would otherwise
+# wrongly link it to whatever page precedes it in this module's own
+# PAGES list. The explicit prev override only fixes SN 41.2's own
+# incoming link, though -- chain()'s ordinary auto-logic still sets SN
+# 40.11's own outgoing "next" to SN 41.2 directly (since SN 41.1 isn't
+# a PAGES entry chain() ever sees), skipping over SN 41.1 entirely.
+# This means SN 40.11.html's own "next" link needs the identical
+# one-time-per-build hand-patch (back to SN 41.1, not SN 41.2) that
+# the SN 35.27/28/29 and SN 36.5/6/7 fragile junctions already require
+# -- confirmed the first time this module was rebuilt after SN 41.2-10
+# were added. TAIL now moves to SN 42.8, the next already-published
+# page beyond this module's own current coverage.
 HEAD = ("sn-34.55.html", "SN 34.55 &middot; Persistence and What&rsquo;s Conducive")
-TAIL = ("sn-41.1.html", "SN 41.1 &middot; The Fetter")
+TAIL = ("sn-42.8.html", "SN 42.8 &middot; A Horn Blower")
 INDEX_EXTRA = [
     ("sn-35.28", "Āditta", "Burning"),
     ("sn-36.6", "Sallatha", "An Arrow"),
@@ -45488,7 +45507,1381 @@ page(
         "&mdash; already published on this site, the discourse this "
         "page's own five visits are cross-referenced to.",
         '<a href="sn-41.1.html">SN 41.1 &middot; The Fetter</a> '
+        "&mdash; already published on this site, opening this "
+        "project's next saṃyutta, SN 41 (Cittasaṃyutta).",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 41 (Cittasaṃyutta, "Linked Discourses with Citta the Householder")
+# is this book's seventh saṃyutta, confirmed against both bilara-data's
+# own file count and SuttaCentral's own menu API: 10 discourses, all
+# individual files, in a single vagga (Cittavagga). SN 41.1 itself is
+# one of the site's original 20 curated pages (registered above in
+# INDEX_EXTRA); this module builds SN 41.2-10, hand-linked back to it
+# as described in the HEAD/TAIL comment above. Unlike every catechism
+# or templated saṃyutta this project has built through Book IV so far,
+# Cittasaṃyutta is genuinely narrative and character-driven: Citta the
+# householder, whom the Buddha elsewhere names the foremost lay
+# disciple in speaking on the Dhamma, repeatedly out-teaches or
+# out-argues monks and rival ascetics while still deferring properly to
+# the Saṅgha. SN 41.2-3 both open with an identical shared frame
+# (Citta inviting the senior mendicants to a meal, then asking a
+# question the senior thera cannot answer three times running, only
+# for the most junior mendicant present -- Isidatta in both discourses
+# -- to answer it correctly); confirmed by reading both directly rather
+# than assumed from title similarity. SN 41.4 repeats a related shape
+# with a different junior mendicant, Mahaka, demonstrating real
+# psychic power at Citta's request. Both Isidatta and Mahaka leave
+# Macchikāsaṇḍa for good immediately afterward -- confirmed in both
+# discourses' own closing lines -- rather than staying to receive
+# ongoing veneration. SN 41.5-7 reverse the direction entirely: Citta
+# himself gives sophisticated doctrinal expositions to monks (a verse
+# analyzed as an allegory for the arahant at SN 41.5; a
+# stream-of-questions dialogue on the cessation of perception and
+# feeling at SN 41.6; four terms for liberation of heart unified at SN
+# 41.7), each closing on a monk's own praise of Citta's wisdom. SN
+# 41.8-9 pit Citta against rival ascetic teachers (the Jain leader
+# Nātaputta, and Citta's own former lay friend Kassapa the naked
+# ascetic), in both cases through Citta's own direct claim to have
+# personally attained all four absorptions -- not through argument
+# alone. SN 41.10 closes the saṃyutta with Citta's own deathbed scene,
+# on this saṃyutta's own genuinely Sujato-translated colophon.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 41.2 — Paṭhamaisidattasutta
+# --------------------------------------------------------------------------- #
+page(
+    41, 2, "Paṭhamaisidatta", "With Isidatta (1st)",
+    vagga="Cittavagga",
+    prev=("sn-41.1.html", "SN 41.1 &middot; The Fetter"),
+    meta_title="SN 41.2 — With Isidatta (1st) | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamaisidattasutta &mdash; the most junior mendicant "
+        "present answers a question three senior monks could not, "
+        "opening Cittasaṃyutta's own narrative style. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Macchikāsaṇḍa, the Wild Mango Grove; then "
+                     "Citta the householder's own home"),
+        ("Speakers", "Citta the householder questioning a group of "
+                     "senior mendicants; Venerable Isidatta, the "
+                     "most junior mendicant present, answers"),
+        ("Form", "An invitation to a meal, a question asked three "
+                 "times to silence, then answered correctly by the "
+                 "least senior person present"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "opens this saṃyutta's own distinctive "
+                       "narrative style"),
+    ],
+    why=(
+        "This discourse opens Book IV's seventh saṃyutta with a "
+        "genuinely different register: not a catechism or a template, "
+        "but a narrative featuring Citta the householder, whom the "
+        "Buddha elsewhere names the foremost lay disciple in speaking "
+        "on the Dhamma. Citta invites a group of senior mendicants to "
+        "a meal, then asks them about &ldquo;the diversity of "
+        "elements&rdquo; &mdash; a question the senior monk present "
+        "cannot answer, three times running. It falls to Venerable "
+        "Isidatta, the most junior mendicant in the whole assembly, to "
+        "answer correctly, and the senior monk himself openly credits "
+        "Isidatta's answer rather than pretending to have known it "
+        "himself."
+    ),
+    guide=[
+        ("A question three times met with silence", [
+            "Citta's own question is asked and re-asked three times "
+            "to the assembled senior mendicants, and three times the "
+            "senior monk present says nothing at all &mdash; a stark, "
+            "repeated admission of not knowing, rather than a "
+            "face-saving guess.",
+        ]),
+        ("The most junior mendicant, the only one who answers", [
+            "Isidatta identifies himself explicitly as &ldquo;the "
+            "most junior mendicant in that Saṅgha&rdquo; before "
+            "asking permission to answer &mdash; seniority and "
+            "correct knowledge are shown as two entirely separate "
+            "things in this discourse.",
+        ]),
+        ("The eighteen elements, given as a worked example", [
+            "The answer itself names the eye element, the sights "
+            "element, and the eye consciousness element, elided in "
+            "the middle (\"…pe…\" in the root) before closing with "
+            "the mind element, the idea element, and the mind "
+            "consciousness element &mdash; the standard eighteen "
+            "elements (dhātu) taught by naming the first and last of "
+            "six parallel triads.",
+        ]),
+        ("Credit given openly, not claimed", [
+            "The senior monk's own closing words to Isidatta "
+            "&mdash; &ldquo;it's good that you felt inspired to "
+            "answer that question, because I didn't&rdquo; &mdash; "
+            "explicitly encourage him to keep answering future "
+            "questions the same way, matching this project's own "
+            "earlier observation (SN 38.1) of the difference between "
+            "seniority and genuine attainment.",
+        ]),
+    ],
+    terms=[
+        ("citto gahapati", "&ldquo;Citta the householder&rdquo; "
+             "&mdash; this saṃyutta's own central lay figure, named "
+             "elsewhere by the Buddha as the foremost lay disciple "
+             "in speaking on the Dhamma"),
+        ("dhātunānattaṁ", "&ldquo;the diversity of elements&rdquo; "
+             "&mdash; Citta's own question, left unanswered by the "
+             "senior monk present"),
+        ("sabbanavako", "&ldquo;the most junior&rdquo; &mdash; "
+             "Isidatta's own explicit self-description before "
+             "answering, naming the gap between seniority and "
+             "correct knowledge"),
+        ("cakkhudhātu, rūpadhātu, cakkhuviññāṇadhātu... manodhātu, "
+         "dhammadhātu, manoviññāṇadhātu", "&ldquo;the eye element, "
+             "the sights element, the eye consciousness element... "
+             "the mind element, the idea element, the mind "
+             "consciousness element&rdquo; &mdash; the standard "
+             "eighteen elements, named by their first and last triads"),
+        ("byākarohi tvaṁ", "&ldquo;answer it&rdquo; &mdash; the "
+             "senior monk's own permission granted to Isidatta, "
+             "acknowledging his own silence rather than pretending "
+             "otherwise"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn41.2:1.1-1.6"),
+        ("p", "&sect;2", "sn41.2:2.1-2.12"),
+        ("p", "&sect;3", "sn41.2:3.1-3.12"),
+        ("p", "&sect;4", "sn41.2:4.1-4.5"),
+    ],
+    quiz=[
+        {"q": "How many times does Citta ask his question before it's answered?",
+         "opts": ["Three times, met with silence each time from the senior monk present", "Once, and it's answered immediately", "Twice, with a partial answer the second time", "Four times"],
+         "correct": 0,
+         "expl": "A stark, repeated admission of not knowing, not a face-saving guess."},
+        {"q": "Who answers Citta's question, and what is notable about that person?",
+         "opts": ["Venerable Isidatta, explicitly identified as the most junior mendicant in the entire assembly", "The most senior monk present, after further reflection", "Citta answers his own question", "A monk who was not present for the earlier silence"],
+         "correct": 0,
+         "expl": "Seniority and correct knowledge are shown as two separate things in this discourse."},
+        {"q": "What does the senior monk say to Isidatta after the meal?",
+         "opts": ["That it's good Isidatta felt inspired to answer, since he himself didn't, and Isidatta should keep answering similar questions", "That Isidatta should have stayed silent out of respect for seniority", "That the answer given was actually incorrect", "Nothing; the senior monk says nothing further in this discourse"],
+         "correct": 0,
+         "expl": "Credit given openly rather than claimed by the more senior figure."},
+        {"q": "What are the eighteen elements named in Isidatta's own answer?",
+         "opts": ["The eye, sights, and eye consciousness elements, through to the mind, ideas, and mind consciousness elements, in six parallel triads", "The four material elements alone", "The five aggregates", "The six sense fields alone, without their objects or consciousnesses"],
+         "correct": 0,
+         "expl": "Named by their first and last triads, with the middle four elided in the root."},
+    ],
+    marginalia=[
+        ("Silence, three times over", [
+            "the senior monk, asked again and again —",
+            "an honest admission, not a guess",
+        ]),
+        ("The most junior, the only one who knows", [
+            "Isidatta names his own low standing —",
+            "before answering what no elder could",
+        ]),
+        ("Eighteen elements, two triads shown", [
+            "eye, sights, eye-consciousness... mind, ideas, mind-consciousness —",
+            "the standard list, named at both ends",
+        ]),
+        ("Credit given, not kept", [
+            "“it's good that you felt inspired” —",
+            "an elder's own open acknowledgment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn41.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-41.1.html">SN 41.1 &middot; The Fetter</a> '
+        "&mdash; already published on this site, the previous "
+        "discourse, opening this saṃyutta.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 41.3 — Dutiyaisidattasutta
+# --------------------------------------------------------------------------- #
+page(
+    41, 3, "Dutiyaisidatta", "With Isidatta (2nd)",
+    vagga="Cittavagga",
+    meta_title="SN 41.3 — With Isidatta (2nd) | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaisidattasutta &mdash; the sixty-two views traced "
+        "to substantialist view, and Isidatta's own quiet departure "
+        "once Citta discovers who he really is. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Macchikāsaṇḍa, the Wild Mango Grove; then "
+                     "Citta the householder's own home"),
+        ("Speakers", "Citta the householder questioning the senior "
+                     "mendicants; Venerable Isidatta, again the most "
+                     "junior mendicant present, answers"),
+        ("Form", "The identical opening frame as SN 41.2, a harder "
+                 "question met with the same threefold silence, then "
+                 "a personal recognition scene"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a doctrinally dense question, resolved by a "
+                       "quietly poignant human turn"),
+    ],
+    why=(
+        "This discourse repeats SN 41.2's own exact frame &mdash; "
+        "Citta invites the senior mendicants to a meal, asks a "
+        "question met with silence three times running, and the most "
+        "junior mendicant present (Isidatta again) answers &mdash; "
+        "confirmed by direct comparison, not assumed from the shared "
+        "title. This time the question is harder: what makes the "
+        "sixty-two wrong views named in the Brahmajāla Sutta arise at "
+        "all? Isidatta traces every one of them to a single root, "
+        "substantialist view (sakkāyadiṭṭhi), and defines it precisely "
+        "through the five aggregates formula. The discourse then turns "
+        "personal: Citta discovers that this Isidatta is an old "
+        "pen-friend from Avanti he has never actually met in person "
+        "&mdash; and once the exchange is over, Isidatta quietly "
+        "leaves Macchikāsaṇḍa for good, never to return."
+    ),
+    guide=[
+        ("The identical frame, confirmed by direct comparison", [
+            "The meal invitation, the threefold silence, and "
+            "Isidatta's own junior-mendicant self-identification all "
+            "repeat SN 41.2's own wording almost exactly &mdash; "
+            "confirmed by reading both discourses side by side, not "
+            "assumed from their shared numbering.",
+        ]),
+        ("Sixty-two views, one named root", [
+            "Rather than answering the sixty-two views individually, "
+            "Isidatta names the single condition on which all of them "
+            "depend: substantialist view, itself defined through the "
+            "standard five-aggregates formula (regarding form, "
+            "feeling, perception, choices, or consciousness as self, "
+            "self as having them, them in self, or self in them).",
+        ]),
+        ("A recognition scene, not a doctrinal point", [
+            "Citta's own follow-up questions &mdash; where does "
+            "Isidatta come from, has he met an old friend by that "
+            "name &mdash; slowly reveal that this stranger monk is "
+            "the very Isidatta Citta has corresponded with for years "
+            "but never met, a warmth this discourse allows to stand "
+            "on its own rather than folding into doctrine.",
+        ]),
+        ("A departure that says as much as any teaching", [
+            "Isidatta's own closing act &mdash; setting his lodgings "
+            "in order and leaving Macchikāsaṇḍa &ldquo;never to "
+            "return&rdquo; &mdash; is stated plainly, without further "
+            "comment, immediately after Citta's warm offer of ongoing "
+            "support; the same pattern SN 41.4's own Mahaka will "
+            "repeat.",
+        ]),
+    ],
+    terms=[
+        ("dvāsaṭṭhi diṭṭhigatāni", "&ldquo;the sixty-two "
+             "misconceptions&rdquo; &mdash; the views catalogued in "
+             "the Brahmajāla Sutta (DN 1), named here as a whole "
+             "rather than individually"),
+        ("sakkāyadiṭṭhi", "&ldquo;substantialist view&rdquo; &mdash; "
+             "the single root Isidatta names for all sixty-two views, "
+             "defined through the five-aggregates formula"),
+        ("rūpaṁ attato samanupassati", "&ldquo;they regard form as "
+             "self&rdquo; &mdash; the first of the standard fourfold "
+             "pattern (self as having it, it in self, self in it) "
+             "applied to each of the five aggregates in turn"),
+        ("ariyānaṁ adassāvī", "&ldquo;has not seen the noble "
+             "ones&rdquo; &mdash; part of the standard description of "
+             "the unlearned ordinary person in whom substantialist "
+             "view arises"),
+        ("na puna paccāgacchi", "&ldquo;never to return&rdquo; "
+             "&mdash; this discourse's own closing description of "
+             "Isidatta's departure, stated without further comment"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn41.3:1.1-8.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own opening frame compare to SN 41.2's own?",
+         "opts": ["Nearly identical, confirmed by direct comparison, not assumed from the shared numbering", "Entirely different, sharing no elements at all", "Shorter, omitting the threefold silence", "Longer, adding an additional meal invitation"],
+         "correct": 0,
+         "expl": "The meal invitation, threefold silence, and Isidatta's self-identification all repeat closely."},
+        {"q": "What single root does Isidatta name for all sixty-two views?",
+         "opts": ["Substantialist view (sakkāyadiṭṭhi), defined through the five-aggregates formula", "Ignorance of the four noble truths", "Craving for sensual pleasures alone", "No single root is named; each view is addressed separately"],
+         "correct": 0,
+         "expl": "Rather than answering the sixty-two views individually, Isidatta traces them to one shared condition."},
+        {"q": "What personal discovery does Citta make during this discourse?",
+         "opts": ["That the monk Isidatta is an old pen-friend from Avanti he has corresponded with but never actually met", "That Isidatta is his own long-lost brother", "That Isidatta had previously insulted him under a different name", "No personal discovery is made; the discourse is purely doctrinal"],
+         "correct": 0,
+         "expl": "A warmth this discourse allows to stand on its own, distinct from the doctrinal exchange."},
+        {"q": "What does Isidatta do immediately after this exchange?",
+         "opts": ["Sets his lodgings in order and leaves Macchikāsaṇḍa for good, stated plainly without further comment", "Accepts Citta's offer and settles permanently in Macchikāsaṇḍa", "Returns to Avanti and comes back the following year", "Ordains a group of new mendicants on the spot"],
+         "correct": 0,
+         "expl": "A pattern SN 41.4's own Mahaka will repeat: attainment or recognition shown, then a quiet departure."},
+    ],
+    marginalia=[
+        ("The same frame, a harder question", [
+            "meal, silence three times, then Isidatta again —",
+            "this time sixty-two views to account for",
+        ]),
+        ("One root, not sixty-two answers", [
+            "sakkāyadiṭṭhi named directly —",
+            "the five aggregates, mistaken for self",
+        ]),
+        ("A friend, never met until now", [
+            "years of correspondence, no face known —",
+            "recognized only by a question about home",
+        ]),
+        ("A departure, stated plainly", [
+            "“never to return” — no further comment —",
+            "the same quiet exit Mahaka will make next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn41.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-41.2.html">SN 41.2 &middot; With Isidatta '
+        "(1st)</a> &mdash; already published on this site, the "
+        "previous discourse and this discourse's own shared frame.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 41.4 — Mahakapāṭihāriyasutta
+# --------------------------------------------------------------------------- #
+page(
+    41, 4, "Mahakapāṭihāriya", "Mahaka's Demonstration",
+    vagga="Cittavagga",
+    meta_title="SN 41.4 — Mahaka's Demonstration | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mahakapāṭihāriyasutta &mdash; the most junior mendicant "
+        "present demonstrates real psychic power at Citta's request, "
+        "then departs for good. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Macchikāsaṇḍa: Citta's own milkshed, then the "
+                     "monastery, then his own dwelling"),
+        ("Speakers", "Citta the householder; Venerable Mahaka, the "
+                     "most junior mendicant present, demonstrates "
+                     "psychic power"),
+        ("Form", "A meal invitation, an unplanned display of power "
+                 "on the road home, then a requested demonstration"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "narrative rather than doctrinal, easy to "
+                       "follow"),
+    ],
+    why=(
+        "This discourse varies SN 41.2&ndash;3's own shape: instead "
+        "of a question met with silence, the most junior mendicant "
+        "present (Mahaka this time) volunteers something none of the "
+        "senior monks could offer &mdash; real demonstrated psychic "
+        "power. Walking back from Citta's milkshed on a scorching "
+        "day, Mahaka wills a cool wind and rain to relieve the "
+        "sweltering senior mendicants; Citta, struck by what &ldquo;"
+        "the most junior mendicant in this Saṅgha&rdquo; can do, later "
+        "asks Mahaka directly for a demonstration, and receives a "
+        "second, more startling one: fire that burns grass laid on "
+        "Citta's own robe without touching the robe itself. Exactly "
+        "as Isidatta did at SN 41.3, Mahaka then leaves Macchikāsaṇḍa "
+        "for good."
+    ),
+    guide=[
+        ("An unplanned display, noticed by Citta", [
+            "Mahaka's first act of power &mdash; cooling the "
+            "sweltering senior mendicants with a willed wind and rain "
+            "&mdash; is not requested by anyone; Citta's own private "
+            "thought (&ldquo;the most junior mendicant in this "
+            "Saṅgha has such psychic power!&rdquo;) is what prompts "
+            "everything that follows.",
+        ]),
+        ("A deliberately precise demonstration", [
+            "Fire shooting through a keyhole and door-chink to burn "
+            "grass laid on Citta's own upper robe, without touching "
+            "the robe itself, is not a generic display of power but a "
+            "specifically controlled one &mdash; precision, not mere "
+            "force, is what leaves Citta &ldquo;shocked and "
+            "awestruck.&rdquo;",
+        ]),
+        ("The identical departure as Isidatta's own", [
+            "Mahaka's own closing act mirrors SN 41.3's Isidatta "
+            "precisely: Citta's warm offer of ongoing support, "
+            "followed immediately by Mahaka setting his lodgings in "
+            "order and leaving Macchikāsaṇḍa &ldquo;never to "
+            "return&rdquo; &mdash; confirming this is a deliberate "
+            "narrative pattern across this saṃyutta, not a one-off.",
+        ]),
+    ],
+    terms=[
+        ("iddhābhisaṅkhāraṁ abhisaṅkhari", "&ldquo;used his psychic "
+             "power to will&rdquo; &mdash; the specific phrase for "
+             "Mahaka's own deliberate exercise of power, used for "
+             "both the wind-and-rain and the fire demonstrations"),
+        ("sabbanavako", "&ldquo;the most junior&rdquo; &mdash; "
+             "Mahaka's own position in the Saṅgha, echoing Isidatta's "
+             "identical standing at SN 41.2&ndash;3"),
+        ("uttari manussadhammaṁ iddhipāṭihāriyaṁ", "&ldquo;a "
+             "superhuman demonstration of psychic power&rdquo; "
+             "&mdash; Citta's own explicit request, granted precisely "
+             "rather than generically"),
+        ("saṁviggo lomahaṭṭhajāto", "&ldquo;shocked and "
+             "awestruck&rdquo; &mdash; Citta's own reaction, "
+             "described bodily (hair standing on end) rather than "
+             "merely stated"),
+        ("na puna paccāgacchi", "&ldquo;never to return&rdquo; "
+             "&mdash; this discourse's own closing description of "
+             "Mahaka's departure, identical wording to SN 41.3's own"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn41.4:1.1-6.9"),
+    ],
+    quiz=[
+        {"q": "What prompts Mahaka's first, unrequested display of psychic power?",
+         "opts": ["The senior mendicants suffering in the heat on the walk back from Citta's milkshed", "A direct challenge from Citta", "A rival ascetic's own demonstration", "Nothing; it is never explained in this discourse"],
+         "correct": 0,
+         "expl": "A spontaneous act of care, not a response to any request."},
+        {"q": "What makes Mahaka's second demonstration (the fire) notable?",
+         "opts": ["Its precision: fire that burns grass on Citta's own robe without touching the robe itself", "Its sheer scale, far larger than the first demonstration", "That it fails and has to be repeated", "That it is performed by the senior monk, not Mahaka"],
+         "correct": 0,
+         "expl": "Controlled precision, not generic force, is what leaves Citta awestruck."},
+        {"q": "How does this discourse's own ending compare to SN 41.3's own?",
+         "opts": ["Nearly identical: Citta's warm offer of support, followed immediately by a departure \"never to return\"", "Entirely different; Mahaka stays on permanently", "Mahaka is expelled from the Saṅgha", "The discourse ends without any departure at all"],
+         "correct": 0,
+         "expl": "Confirming a deliberate narrative pattern shared across these two discourses."},
+    ],
+    marginalia=[
+        ("Power, offered before it's asked for", [
+            "a cool wind, willed for suffering monks —",
+            "unrequested, unannounced",
+        ]),
+        ("Fire that spares what it burns beside", [
+            "grass consumed, the robe untouched —",
+            "precision, not mere display",
+        ]),
+        ("The same exit as Isidatta's own", [
+            "support offered, then a quiet leaving —",
+            "“never to return,” word for word",
+        ]),
+        ("A private thought, made visible", [
+            "Citta noticed before he ever asked —",
+            "the most junior, capable of this",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn41.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-41.3.html">SN 41.3 &middot; With Isidatta '
+        "(2nd)</a> &mdash; already published on this site, the "
+        "previous discourse and the source of this discourse's own "
+        "matching departure pattern.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 41.5 — Paṭhamakāmabhūsutta
+# --------------------------------------------------------------------------- #
+page(
+    41, 5, "Paṭhamakāmabhū", "With Kāmabhū (1st)",
+    vagga="Cittavagga",
+    meta_title="SN 41.5 — With Kāmabhū (1st) | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamakāmabhūsutta &mdash; a monk asks Citta to explain "
+        "a verse of the Buddha's, and the layman gives the detailed "
+        "answer. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Macchikāsaṇḍa, the Wild Mango Grove"),
+        ("Speakers", "Venerable Kāmabhū asking Citta the householder "
+                     "to explain a verse of the Buddha's"),
+        ("Form", "A brief verse quoted, then unpacked term by term "
+                 "by the person who was asked to explain it"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "an allegorical verse fully decoded, term by "
+                       "term"),
+    ],
+    why=(
+        "This discourse reverses the direction of every discourse "
+        "before it in this saṃyutta: instead of a monk answering "
+        "Citta's own question, Venerable Kāmabhū quotes a brief verse "
+        "of the Buddha's and asks Citta to explain it in detail. "
+        "Citta asks for a moment to consider, then delivers a "
+        "complete, term-by-term allegorical reading: the "
+        "&ldquo;chariot&rdquo; is the body, its &ldquo;faultless "
+        "parts&rdquo; are ethics, its &ldquo;white canopy&rdquo; is "
+        "freedom, its single spoke is mindfulness, and the "
+        "&ldquo;one who comes, untroubled, with stream cut, "
+        "unbound&rdquo; is the arahant, whose greed, hate, and "
+        "delusion have been uprooted entirely."
+    ),
+    guide=[
+        ("A layman asked to explain the Buddha's own words", [
+            "Kāmabhū's own question inverts every earlier pattern in "
+            "this saṃyutta &mdash; not Citta questioning a monk, but "
+            "a monk asking the layman to unpack a verse, and pausing "
+            "afterward to let Citta think before answering.",
+        ]),
+        ("Every image in the verse, given a precise referent", [
+            "Faultless parts (ethics), white canopy (freedom), one "
+            "spoke (mindfulness), rolling on (coming and going), "
+            "chariot (the body itself, described as impermanent and "
+            "destined to break apart) &mdash; each image in the "
+            "four-line verse receives its own named equivalent, none "
+            "left merely poetic.",
+        ]),
+        ("Three technical terms, each unpacked the same way", [
+            "&ldquo;Untroubled,&rdquo; &ldquo;stream cut,&rdquo; and "
+            "&ldquo;unbound&rdquo; each name greed, hate, and delusion "
+            "under a different label (troubles, a stream, bonds), "
+            "each said to be uprooted in the same fixed phrase (cut "
+            "off at the root, made like a palm stump, obliterated) "
+            "already familiar from earlier discourses in this "
+            "project's own coverage.",
+        ]),
+    ],
+    terms=[
+        ("saṅkhittena bhāsitassa... vitthārena attho", "&ldquo;the "
+             "detailed meaning of this brief statement&rdquo; "
+             "&mdash; Kāmabhū's own request, met by Citta's complete "
+             "term-by-term reading"),
+        ("ratho", "&ldquo;chariot&rdquo; &mdash; the verse's own "
+             "term for the body itself, &ldquo;produced by mother "
+             "and father... liable to impermanence&rdquo;"),
+        ("nīgho", "&ldquo;trouble&rdquo; &mdash; Citta's own gloss "
+             "for greed, hate, and delusion, defining &ldquo;"
+             "untroubled&rdquo; as their complete uprooting"),
+        ("soto", "&ldquo;stream&rdquo; &mdash; Citta's own gloss for "
+             "craving, defining &ldquo;stream cut&rdquo; as its "
+             "complete uprooting"),
+        ("bandhanaṁ", "&ldquo;bond&rdquo; &mdash; Citta's own third "
+             "gloss, again for greed, hate, and delusion, defining "
+             "&ldquo;unbound&rdquo;"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn41.5:1.1-7.3"),
+    ],
+    quiz=[
+        {"q": "Who asks whom to explain a verse in this discourse?",
+         "opts": ["Venerable Kāmabhū asks Citta the householder", "Citta asks Kāmabhū", "Kāmabhū asks a senior monk, who defers to Citta", "The Buddha explains it to both of them directly"],
+         "correct": 0,
+         "expl": "Reversing the direction of every earlier discourse in this saṃyutta."},
+        {"q": "What does the verse's own \"chariot\" represent in Citta's reading?",
+         "opts": ["The body itself, described as impermanent and destined to break apart", "The Buddha's own teaching", "The Saṅgha as a community", "A literal vehicle used in a specific historical event"],
+         "correct": 0,
+         "expl": "Produced by mother and father, built from rice and porridge, liable to wearing away."},
+        {"q": "What do \"untroubled,\" \"stream cut,\" and \"unbound\" all describe, according to Citta?",
+         "opts": ["The same underlying reality — greed, hate, and delusion uprooted — under three different labels", "Three entirely separate and unrelated attainments", "Three different stages of the eightfold path", "A description of three different kinds of monks"],
+         "correct": 0,
+         "expl": "Each term glosses the identical uprooting of the three roots, just from a different angle (troubles, a stream, bonds)."},
+    ],
+    marginalia=[
+        ("The question, reversed", [
+            "a monk asks, a layman answers —",
+            "the pattern of this saṃyutta turned around",
+        ]),
+        ("A chariot, entirely decoded", [
+            "faultless parts, white canopy, one spoke —",
+            "each image given its exact referent",
+        ]),
+        ("Three words, one uprooting", [
+            "untroubled, stream cut, unbound —",
+            "greed, hate, delusion, named three ways",
+        ]),
+        ("A layman asked to pause and think", [
+            "muhuttaṁ tuṇhī — a moment of silence granted —",
+            "before the detailed answer, not instead of it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn41.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-41.4.html\">SN 41.4 &middot; Mahaka's "
+        "Demonstration</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 41.6 — Dutiyakāmabhūsutta
+# --------------------------------------------------------------------------- #
+page(
+    41, 6, "Dutiyakāmabhū", "With Kāmabhū (2nd)",
+    vagga="Cittavagga",
+    meta_title="SN 41.6 — With Kāmabhū (2nd) | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyakāmabhūsutta &mdash; Citta's own chain of nine "
+        "questions on the cessation of perception and feeling, "
+        "answered fully each time. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Macchikāsaṇḍa, the Wild Mango Grove"),
+        ("Speakers", "Citta the householder questioning Venerable "
+                     "Kāmabhū directly, with no silence this time"),
+        ("Form", "A chain of nine increasingly probing questions, "
+                 "each answered in full before the next is asked"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a genuinely advanced meditative topic, "
+                       "built up systematically"),
+    ],
+    why=(
+        "This discourse returns to Citta questioning a monk, but with "
+        "none of SN 41.2&ndash;3's own silence: Kāmabhū answers every "
+        "one of Citta's nine questions immediately and fully, building "
+        "from the three basic processes (physical, verbal, mental) up "
+        "to the cessation of perception and feeling itself &mdash; "
+        "what ceases first entering it, what arises first leaving it, "
+        "how it differs from death, and finally what two things are "
+        "most helpful for attaining it at all. Kāmabhū's own aside "
+        "&mdash; &ldquo;you've finally asked what you should have "
+        "asked first&rdquo; &mdash; treats Citta's own questioning "
+        "as genuinely sharp, not merely patient."
+    ),
+    guide=[
+        ("Three processes, defined and then explained", [
+            "The physical process is breathing, the verbal process is "
+            "placing the mind and keeping it connected, and the "
+            "mental process is perception and feeling &mdash; each "
+            "first simply named, then explained by why it belongs to "
+            "body, speech, or mind respectively.",
+        ]),
+        ("Entering and leaving, in reverse order", [
+            "Entering the cessation of perception and feeling, the "
+            "verbal process stops first, then the physical, then the "
+            "mental; emerging from it, the order reverses exactly "
+            "&mdash; mental first, then physical, then verbal.",
+        ]),
+        ("Not death, despite the outward likeness", [
+            "Both a corpse and a mendicant in this cessation have all "
+            "three processes stopped, but the mendicant's vitality, "
+            "warmth, and clarity of the faculties remain intact "
+            "&mdash; the discourse names the exact three markers that "
+            "distinguish the two.",
+        ]),
+        ("The question that should have come first", [
+            "Kāmabhū's own aside after Citta finally asks what "
+            "conditions make this attainment possible at all "
+            "&mdash; serenity and discernment together &mdash; treats "
+            "the sequence of Citta's own questions as itself "
+            "significant, not merely as a list to work through.",
+        ]),
+    ],
+    terms=[
+        ("kāyasaṅkhāro, vacīsaṅkhāro, cittasaṅkhāro", "&ldquo;the "
+             "physical, verbal, and mental process&rdquo; &mdash; "
+             "breathing, placing-and-connecting the mind, and "
+             "perception-and-feeling respectively"),
+        ("saññāvedayitanirodha", "&ldquo;the cessation of perception "
+             "and feeling&rdquo; &mdash; this discourse's own central "
+             "attainment, approached through nine successive "
+             "questions"),
+        ("suññato phasso, animitto phasso, appaṇihito phasso",
+             "&ldquo;emptiness, signless, and undirected "
+             "contacts&rdquo; &mdash; the three kinds of contact "
+             "experienced immediately upon emerging from this "
+             "cessation"),
+        ("āyu aparikkhīṇo, usmā avūpasantā, indriyāni vippasannāni",
+             "&ldquo;vitality is not spent... warmth is not "
+             "dissipated... faculties are very clear&rdquo; &mdash; "
+             "the three markers distinguishing this attainment from "
+             "actual death"),
+        ("samatho ca vipassanā ca", "&ldquo;serenity and "
+             "discernment&rdquo; &mdash; the two things named most "
+             "helpful for attaining this cessation, closing the "
+             "discourse's own nine-question chain"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn41.6:1.1-10.6"),
+    ],
+    quiz=[
+        {"q": "What are the three processes Kāmabhū names at the start of this discourse?",
+         "opts": ["The physical process (breathing), the verbal process (placing and connecting the mind), and the mental process (perception and feeling)", "Body, speech, and mind as three separate selves", "Past, present, and future action", "The three feelings: pleasant, painful, and neutral"],
+         "correct": 0,
+         "expl": "Each first named, then explained by why it belongs to body, speech, or mind."},
+        {"q": "In what order do the three processes cease when entering the cessation of perception and feeling, and arise when emerging from it?",
+         "opts": ["Verbal, then physical, then mental when entering; mental, then physical, then verbal when emerging — the reverse order", "The same order both entering and emerging", "Physical first both times", "The order is never specified in this discourse"],
+         "correct": 0,
+         "expl": "A precise, reversed sequence in each direction."},
+        {"q": "What distinguishes a mendicant in this cessation from someone who has actually died?",
+         "opts": ["Vitality, warmth, and clarity of the faculties remain intact in the mendicant, though all three processes have stopped in both", "Nothing; the two states are described as identical", "The mendicant can still speak, while the dead cannot", "Only the presence of breathing distinguishes them"],
+         "correct": 0,
+         "expl": "Three named markers, despite the identical cessation of all three processes."},
+        {"q": "What does Kāmabhū say about Citta's own final question in this chain?",
+         "opts": ["That Citta finally asked what he should have asked first", "That the question was unanswerable", "That the question was inappropriate for a layperson to ask", "Nothing; Kāmabhū simply answers without comment"],
+         "correct": 0,
+         "expl": "Treating the sequence of Citta's own questions as itself significant."},
+    ],
+    marginalia=[
+        ("Three processes, named and explained", [
+            "breath, connected thought, perception-and-feeling —",
+            "each traced to body, speech, or mind",
+        ]),
+        ("Stilled in one order, restarted in reverse", [
+            "verbal first to stop, mental first to return —",
+            "an exact, mirrored sequence",
+        ]),
+        ("Not death, despite the stillness", [
+            "warmth undissipated, faculties clear —",
+            "three signs that tell the two apart",
+        ]),
+        ("The question saved for last", [
+            "“you've finally asked what comes first” —",
+            "serenity and discernment, named at the end",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn41.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-41.5.html">SN 41.5 &middot; With Kāmabhū '
+        "(1st)</a> &mdash; the previous discourse, the same two "
+        "speakers in a different exchange.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 41.7 — Godattasutta
+# --------------------------------------------------------------------------- #
+page(
+    41, 7, "Godatta", "With Godatta",
+    vagga="Cittavagga",
+    meta_title="SN 41.7 — With Godatta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Godattasutta &mdash; four kinds of liberation of heart, "
+        "distinct in one sense and identical in another, explained "
+        "by Citta the householder. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Macchikāsaṇḍa, the Wild Mango Grove"),
+        ("Speakers", "Venerable Godatta asking Citta the householder "
+                     "a doctrinal question"),
+        ("Form", "A single question with two valid answers, both "
+                 "given in full"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the most doctrinally intricate discourse in "
+                       "this saṃyutta so far"),
+    ],
+    why=(
+        "Godatta asks Citta whether four named kinds of "
+        "&ldquo;liberation of heart&rdquo; &mdash; limitless, through "
+        "nothingness, through emptiness, and signless &mdash; differ "
+        "in meaning as well as wording, or only in wording. Citta's "
+        "own answer is that both are true, depending on how the "
+        "question is asked, and he gives both answers in full: first, "
+        "a precise practice-by-practice definition of each of the "
+        "four (the four immeasurables, the third formless attainment, "
+        "insight into emptiness of self, and the signless immersion "
+        "already familiar from SN 40.9 and SN 41.5's own reading "
+        "guides); second, a demonstration that all four converge into "
+        "one and the same &ldquo;unshakable liberation of heart,&rdquo; "
+        "empty of greed, hate, and delusion however it is named."
+    ),
+    guide=[
+        ("Two true answers to one question", [
+            "Citta does not pick a side between &ldquo;these differ&rdquo; "
+            "and &ldquo;these are the same&rdquo;; he shows both are "
+            "correct answers to the same question, depending on which "
+            "angle it is asked from &mdash; a genuinely dialectical "
+            "move rather than a simple either/or.",
+        ]),
+        ("Four practices, four precise definitions", [
+            "The four immeasurables (spreading love, compassion, joy, "
+            "and equanimity in all directions) define the limitless "
+            "release; the third formless attainment defines the "
+            "release through nothingness; reflecting &ldquo;this is "
+            "empty of self&rdquo; defines the release through "
+            "emptiness; and not focusing on any signs at all defines "
+            "the signless release &mdash; four distinct practices, "
+            "each with its own named result.",
+        ]),
+        ("One convergence, reached three separate times", [
+            "For each of the three narrower liberations (limitless, "
+            "through nothingness, signless), Citta shows the same "
+            "&ldquo;unshakable&rdquo; liberation is its own best, most "
+            "complete form, and that this unshakable liberation is "
+            "always empty of the same three roots &mdash; the "
+            "convergence is demonstrated three times over, not "
+            "asserted once and left unproven.",
+        ]),
+    ],
+    terms=[
+        ("appamāṇā cetovimutti", "&ldquo;limitless release of the "
+             "heart&rdquo; &mdash; defined by the four immeasurables "
+             "(love, compassion, joy, equanimity) spread in all "
+             "directions"),
+        ("ākiñcaññā cetovimutti", "&ldquo;release of the heart "
+             "through nothingness&rdquo; &mdash; defined by the third "
+             "formless attainment, already familiar from this "
+             "project's own coverage of SN 40.7"),
+        ("suññatā cetovimutti", "&ldquo;release of the heart through "
+             "emptiness&rdquo; &mdash; defined by reflecting "
+             "&ldquo;this is empty of a self or what belongs to a "
+             "self&rdquo;"),
+        ("animittā cetovimutti", "&ldquo;signless release of the "
+             "heart&rdquo; &mdash; defined by not focusing on any "
+             "signs at all, already familiar from this project's own "
+             "coverage of SN 40.9"),
+        ("akuppā cetovimutti", "&ldquo;the unshakable release of the "
+             "heart&rdquo; &mdash; the single convergence point "
+             "Citta shows all three narrower liberations point "
+             "toward, empty of greed, hate, and delusion"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn41.7:1.1-6.16"),
+    ],
+    quiz=[
+        {"q": "How does Citta answer Godatta's question about whether the four liberations differ or mean the same?",
+         "opts": ["Both answers are true, depending on which angle the question is asked from, and he gives both in full", "Only one answer is correct: they are entirely different", "Only one answer is correct: they are entirely identical", "He declines to answer the question at all"],
+         "correct": 0,
+         "expl": "A genuinely dialectical move, not a simple either/or."},
+        {"q": "What practice defines the \"release of the heart through emptiness\"?",
+         "opts": ["Reflecting \"this is empty of a self or what belongs to a self\"", "The four immeasurables spread in all directions", "The third formless attainment", "Not focusing on any signs at all"],
+         "correct": 0,
+         "expl": "Distinct from the other three named liberations, each with its own defining practice."},
+        {"q": "What single convergence point does Citta show all three narrower liberations lead to?",
+         "opts": ["The \"unshakable release of the heart,\" empty of greed, hate, and delusion, demonstrated three separate times", "A fourth, entirely new kind of liberation not named earlier", "The four absorptions specifically", "No convergence is ever demonstrated"],
+         "correct": 0,
+         "expl": "Proven three times over, once for each narrower liberation, not asserted once and left unproven."},
+    ],
+    marginalia=[
+        ("Two answers, both true", [
+            "differ, and also the same —",
+            "depending only on how the question is asked",
+        ]),
+        ("Four practices, four results", [
+            "immeasurables, nothingness, emptiness, signless —",
+            "each with its own precise definition",
+        ]),
+        ("One convergence, proven three times", [
+            "unshakable, empty of greed, hate, delusion —",
+            "not asserted once, but shown for each",
+        ]),
+        ("A question that answers itself twice over", [
+            "different in wording, the same at the root —",
+            "Godatta's own either/or dissolved, not chosen",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn41.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-40.9.html\">SN 40.9 &middot; A Question About "
+        "the Signless</a> &mdash; already published on this site, "
+        "the earlier appearance of the signless immersion this "
+        "discourse's own signless release builds on.",
+        '<a href="sn-41.5.html">SN 41.5 &middot; With Kāmabhū '
+        "(1st)</a> &mdash; already published on this site, Citta's "
+        "own earlier doctrinal exposition to a monk.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 41.8 — Nigaṇṭhanāṭaputtasutta
+# --------------------------------------------------------------------------- #
+page(
+    41, 8, "Nigaṇṭhanāṭaputta", "The Jain Ascetic of the Ñātika Clan",
+    vagga="Cittavagga",
+    meta_title="SN 41.8 — The Jain Ascetic of the Ñātika Clan | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nigaṇṭhanāṭaputtasutta &mdash; the Jain leader "
+        "Nātaputta challenges Citta's faith in the higher "
+        "absorptions, and Citta answers with his own attainment "
+        "instead. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Macchikāsaṇḍa, where the Jain ascetic Nātaputta "
+                     "has arrived with a large assembly"),
+        ("Speakers", "Nigaṇṭha Nātaputta (the historical founder "
+                     "figure of Jainism) questioning Citta the "
+                     "householder"),
+        ("Form", "A challenge to faith, met by a claim to direct "
+                 "attainment, followed by a caught contradiction"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "an inter-religious debate scene, sharply "
+                       "argued"),
+    ],
+    why=(
+        "This discourse pits Citta against the leader of a rival "
+        "religious movement: Nigaṇṭha Nātaputta, traditionally "
+        "identified with the historical founder of Jainism, "
+        "challenges Citta's faith in the Buddha's claim that "
+        "absorption without placing and keeping the mind connected is "
+        "possible &mdash; comparing it to catching wind in a net or "
+        "damming the Ganges by hand. Citta's own answer refuses the "
+        "premise: he does not rely on faith in the Buddha's claim at "
+        "all, because he has personally attained all four "
+        "absorptions himself. Nātaputta's own praise instantly "
+        "reverses into an insult once Citta's answer stops being "
+        "convenient, and Citta catches the contradiction directly, "
+        "closing with a pointed challenge Nātaputta's own assembly "
+        "never actually answers."
+    ),
+    guide=[
+        ("A challenge built on a vivid image", [
+            "Nātaputta's own metaphors &mdash; catching wind in a "
+            "net, damming the Ganges with a bare hand &mdash; frame "
+            "the cessation of placing and keeping the mind connected "
+            "as flatly impossible, not merely difficult, before "
+            "Citta has said a single word in reply.",
+        ]),
+        ("Not faith, but attainment", [
+            "Citta's own answer bypasses the entire faith-versus-"
+            "argument framing Nātaputta has set up: rather than "
+            "defending the Buddha's claim on authority, Citta simply "
+            "states that he has personally entered all four "
+            "absorptions himself, whenever he wishes, making the "
+            "question of whose word to trust irrelevant.",
+        ]),
+        ("Praise reversed into insult, caught in real time", [
+            "Nātaputta calls Citta &ldquo;straightforward&rdquo; and "
+            "&ldquo;not deceitful&rdquo; before hearing his real "
+            "answer, then instantly calls him "
+            "&ldquo;crooked&rdquo; and &ldquo;devious&rdquo; once the "
+            "answer proves inconvenient &mdash; and Citta names the "
+            "direct contradiction between the two statements aloud, "
+            "rather than letting it pass.",
+        ]),
+        ("Ten legitimate questions, left unasked", [
+            "Citta's own closing move &mdash; naming a traditional "
+            "ten-part numerical catechism (one question with one "
+            "summary and one answer, two with two, and so on up to "
+            "ten) and inviting Nātaputta's assembly to answer it "
+            "&mdash; is a direct challenge Citta then simply walks "
+            "away from without waiting for a response, leaving the "
+            "confrontation unresolved rather than staged as a clean "
+            "victory.",
+        ]),
+    ],
+    terms=[
+        ("nigaṇṭho nāṭaputto", "&ldquo;the Jain ascetic of the "
+             "Ñātika clan&rdquo; &mdash; traditionally identified "
+             "with Mahāvīra, the historical founder figure of "
+             "Jainism"),
+        ("avitakko avicāro samādhi", "&ldquo;immersion without "
+             "placing the mind and keeping it connected&rdquo; "
+             "&mdash; the attainment Nātaputta challenges as "
+             "impossible, corresponding to the second absorption "
+             "onward"),
+        ("ñāṇaṁ vā saddhā vā", "&ldquo;knowledge or faith&rdquo; "
+             "&mdash; the question Citta poses back to Nātaputta, "
+             "setting up his own answer by personal attainment rather "
+             "than argument"),
+        ("yāva ujuko... yāva anujuko", "&ldquo;how straightforward... "
+             "how crooked&rdquo; &mdash; Nātaputta's own two "
+             "contradictory descriptions of Citta, spoken in direct "
+             "succession"),
+        ("dasa sahadhammikā pañhā", "&ldquo;these ten legitimate "
+             "questions&rdquo; &mdash; the numerical catechism Citta "
+             "poses as a closing challenge, then leaves unasked and "
+             "unanswered"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn41.8:1.1-5.19"),
+    ],
+    quiz=[
+        {"q": "What does Nātaputta compare the cessation of placing and keeping the mind connected to?",
+         "opts": ["Catching wind in a net, or damming the Ganges river by hand — flatly impossible images", "A difficult but achievable mountain climb", "A well-known meditation technique he himself practices", "Nothing; he simply asks a neutral question"],
+         "correct": 0,
+         "expl": "Framing the claim as impossible, not merely difficult, before Citta has replied."},
+        {"q": "How does Citta answer Nātaputta's challenge?",
+         "opts": ["By stating he has personally attained all four absorptions himself, bypassing the question of whose authority to trust", "By citing the Buddha's own authority and asking Nātaputta to have faith in it", "By admitting he cannot answer the challenge", "By reciting a scripture passage without further comment"],
+         "correct": 0,
+         "expl": "Not faith in another's claim, but Citta's own direct, repeatable attainment."},
+        {"q": "What contradiction does Citta point out in Nātaputta's own words?",
+         "opts": ["Nātaputta called him \"straightforward\" and then \"crooked\" in direct succession, based only on whether the answer was convenient", "Nātaputta contradicted the Buddha's own teaching", "Nātaputta's assembly disagreed with him openly", "No contradiction is pointed out in this discourse"],
+         "correct": 0,
+         "expl": "Praise reversed into insult in real time, caught and named aloud rather than let pass."},
+        {"q": "How does this discourse end?",
+         "opts": ["Citta names a traditional ten-part catechism as a challenge, then leaves without waiting for it to be answered", "Nātaputta successfully answers all ten questions", "Citta is defeated and admits his error", "The two reach a friendly agreement and part as allies"],
+         "correct": 0,
+         "expl": "An unresolved confrontation, not staged as a clean, tidy victory."},
+    ],
+    marginalia=[
+        ("An impossibility, declared in advance", [
+            "wind caught in a net, the Ganges dammed by hand —",
+            "framed before any answer is given",
+        ]),
+        ("Attainment, not borrowed authority", [
+            "four absorptions, entered at will —",
+            "no one else's word required",
+        ]),
+        ("Praise, reversed in a breath", [
+            "straightforward, then suddenly crooked —",
+            "the contradiction named aloud",
+        ]),
+        ("A challenge, left standing", [
+            "ten questions posed, then Citta simply leaves —",
+            "no clean victory staged, only an open challenge",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn41.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-41.6.html\">SN 41.6 &middot; With Kāmabhū "
+        "(2nd)</a> &mdash; already published on this site, Citta's "
+        "own earlier claim to personally attained absorption, put to "
+        "different use here.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 41.9 — Acelakassapasutta
+# --------------------------------------------------------------------------- #
+page(
+    41, 9, "Acelakassapa", "With Kassapa, the Naked Ascetic",
+    vagga="Cittavagga",
+    meta_title="SN 41.9 — With Kassapa, the Naked Ascetic | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Acelakassapasutta &mdash; thirty years of naked "
+        "asceticism against thirty years of lay practice, and the "
+        "ascetic who converts and attains arahantship. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Macchikāsaṇḍa, where the naked ascetic Kassapa, "
+                     "an old lay friend of Citta's, has arrived"),
+        ("Speakers", "Citta the householder and the naked ascetic "
+                     "Kassapa"),
+        ("Form", "A matched pair of questions about thirty years of "
+                 "practice, with starkly opposite results"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a vivid narrative contrast, easy to follow"),
+    ],
+    why=(
+        "This discourse sets two thirty-year careers side by side. "
+        "Kassapa, a naked ascetic and Citta's own friend from lay "
+        "life, admits after thirty years of practice to having "
+        "achieved nothing beyond &ldquo;nudity, baldness, and pokes "
+        "in the buttocks&rdquo; &mdash; no attainment at all. Citta, a "
+        "layman for the identical thirty years, can enter all four "
+        "absorptions at will and is confident enough in his own "
+        "progress to say that if he died before the Buddha, it would "
+        "be no surprise for the Buddha to declare him free of any "
+        "fetter that could bring him back to this world. Kassapa asks "
+        "to ordain on the spot, and shortly afterward attains "
+        "arahantship."
+    ),
+    guide=[
+        ("Thirty years, told twice, with opposite endings", [
+            "Kassapa's own account of thirty years names three "
+            "concrete physical practices and nothing else "
+            "&mdash; no meditative attainment of any kind; Citta's "
+            "account of the same span names all four absorptions, "
+            "entered at will, whenever he wishes.",
+        ]),
+        ("A startling, specific detail, not softened", [
+            "&ldquo;Nudity, baldness, and pokes in the buttocks&rdquo; "
+            "is Kassapa's own precise self-description of thirty "
+            "years of ascetic practice &mdash; blunt and almost "
+            "comic, and left exactly as stated rather than "
+            "generalized into vaguer language.",
+        ]),
+        ("A layman's own claim to near-final attainment", [
+            "Citta's own statement &mdash; that his own death before "
+            "the Buddha's would make it unsurprising for the Buddha "
+            "to declare him free of any fetter binding him to this "
+            "world &mdash; claims a degree of attainment (approaching "
+            "or matching non-return) unusually high for a layperson "
+            "in this project's own coverage so far.",
+        ]),
+        ("Conversion, ordination, and arahantship in rapid "
+         "succession", [
+            "Kassapa's own trajectory from naked ascetic to ordained "
+            "mendicant to arahant happens within this single "
+            "discourse's own closing lines, sponsored throughout by "
+            "Citta himself, who arranges both the ordination and its "
+            "material support.",
+        ]),
+    ],
+    terms=[
+        ("acelo kassapo", "&ldquo;the naked ascetic Kassapa&rdquo; "
+             "&mdash; Citta's own old friend from lay life, a "
+             "practitioner of a non-Buddhist ascetic tradition"),
+        ("naggeyyā ca muṇḍeyyā ca pāvaḷanipphoṭanāya", "&ldquo;"
+             "nudity, baldness, and pokes in the buttocks&rdquo; "
+             "&mdash; Kassapa's own blunt self-description of thirty "
+             "years of practice, with no attainment named"),
+        ("uttari manussadhammā alamariyañāṇadassanaviseso", "&ldquo;"
+             "a superhuman distinction in knowledge and vision worthy "
+             "of the noble ones&rdquo; &mdash; the standard phrase "
+             "for genuine meditative attainment, absent in Kassapa's "
+             "case and present in Citta's own"),
+        ("natthi taṁ saṁyojanaṁ yena saṁyojanena saṁyutto... puna "
+         "imaṁ lokaṁ āgaccheyya", "&ldquo;bound by no fetter that "
+             "might return him to this world&rdquo; &mdash; Citta's "
+             "own claimed level of attainment, spoken as a real "
+             "possibility rather than a boast"),
+        ("pabbajjaṁ... upasampadaṁ", "&ldquo;the going forth... the "
+             "ordination&rdquo; &mdash; granted to Kassapa at Citta's "
+             "own direct request and sponsorship"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn41.9:1.1-3.8"),
+    ],
+    quiz=[
+        {"q": "What does Kassapa admit after thirty years of ascetic practice?",
+         "opts": ["No meditative attainment at all, only \"nudity, baldness, and pokes in the buttocks\"", "Full arahantship", "The four absorptions, entered at will", "He declines to answer the question"],
+         "correct": 0,
+         "expl": "A blunt, specific admission, left exactly as stated rather than softened."},
+        {"q": "What does Citta claim after the identical thirty years as a layperson?",
+         "opts": ["That he can enter all four absorptions at will and would be unsurprised to be declared free of any fetter binding him to this world", "That he has achieved nothing of note", "That only ordained monks can attain such states", "That his attainment is uncertain and unconfirmed"],
+         "correct": 0,
+         "expl": "An unusually high claimed level of attainment for a layperson in this project's own coverage."},
+        {"q": "What happens to Kassapa immediately after hearing Citta's own account?",
+         "opts": ["He asks to ordain, is sponsored by Citta, and soon attains arahantship", "He rejects Citta's claim as impossible", "He challenges Citta to a formal debate", "Nothing changes; he continues as before"],
+         "correct": 0,
+         "expl": "Conversion, ordination, and arahantship in rapid succession, all within this single discourse."},
+    ],
+    marginalia=[
+        ("Thirty years, two accounts", [
+            "nudity and baldness alone —",
+            "against all four absorptions, entered at will",
+        ]),
+        ("A blunt admission, left unsoftened", [
+            "\"pokes in the buttocks\" — Kassapa's own words —",
+            "no attainment dressed up as one",
+        ]),
+        ("A layman's claim, near the very end", [
+            "no fetter left to bring him back —",
+            "spoken as fact, not as boast",
+        ]),
+        ("From ascetic to arahant, in one discourse", [
+            "conversion, ordination, awakening —",
+            "sponsored throughout by Citta himself",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn41.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-41.8.html\">SN 41.8 &middot; The Jain Ascetic "
+        "of the Ñātika Clan</a> &mdash; already published on this "
+        "site, the previous discourse, Citta's own earlier encounter "
+        "with a rival ascetic teacher.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 41.10 — Gilānadassanasutta
+# --------------------------------------------------------------------------- #
+page(
+    41, 10, "Gilānadassana", "Seeing the Sick",
+    vagga="Cittavagga",
+    meta_title="SN 41.10 — Seeing the Sick | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Gilānadassanasutta &mdash; Citta's own deathbed refusal "
+        "of a deva's offered blessing, closing Cittasaṃyutta with his "
+        "final teaching to his family. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Citta the householder's own home, as he lies "
+                     "gravely ill"),
+        ("Speakers", "Deities of the parks and forests; Citta's own "
+                     "family and friends; Citta himself"),
+        ("Form", "An offered blessing refused, a misunderstanding "
+                 "cleared up, and a final teaching before death"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes this saṃyutta on Citta's own death "
+                       "scene"),
+    ],
+    why=(
+        "This discourse closes Cittasaṃyutta with Citta's own final "
+        "hours. Gravely ill, he is urged by park and forest deities to "
+        "wish for future rebirth as a wheel-turning monarch, a reward "
+        "his own purity of ethics could make real; he refuses "
+        "outright &mdash; &ldquo;that too is impermanent, that too "
+        "will pass, that too will be left behind&rdquo; &mdash; words "
+        "his own family mistakes for the confusion of a dying mind "
+        "until he explains himself. Citta then spends his own last "
+        "moments not receiving comfort but giving it, teaching his "
+        "family confidence in the Buddha, the teaching, and the "
+        "Saṅgha, and unreserved generosity, before he dies. The "
+        "discourse closes on this saṃyutta's own genuinely translated "
+        "colophon."
+    ),
+    guide=[
+        ("A blessing offered, and refused outright", [
+            "The deities' own reasoning is not superstition but a "
+            "real doctrinal claim: Citta's ethical purity could make "
+            "such a wish actually succeed &mdash; and Citta refuses "
+            "not because the offer is false, but because even "
+            "universal kingship is impermanent and worth leaving "
+            "behind.",
+        ]),
+        ("A misunderstanding, cleared up without irritation", [
+            "His own family's alarm (&ldquo;be mindful, master, "
+            "don't babble&rdquo;) is a natural response to overhearing "
+            "only half a conversation with beings they cannot "
+            "perceive; Citta simply explains what was actually said, "
+            "rather than treating the misunderstanding as an "
+            "insult.",
+        ]),
+        ("A dying man's own final teaching, given rather than "
+         "received", [
+            "Asked for guidance by his own frightened family, Citta "
+            "spends what will be his last words teaching them "
+            "confidence in the Buddha, the teaching, and the Saṅgha, "
+            "and unreserved generosity to the ethical &mdash; a "
+            "layman's own death scene structured exactly like a "
+            "teacher's, not a patient's.",
+        ]),
+        ("This saṃyutta's own genuinely translated close", [
+            "&ldquo;The Linked Discourses on Citta the Householder "
+            "are complete&rdquo; is Sujato's own genuine translation "
+            "of this saṃyutta's closing colophon, following "
+            "untranslated placeholder segments (the vagga's own "
+            "ordinal and uddāna) this reading guide does not "
+            "fabricate content for.",
+        ]),
+    ],
+    terms=[
+        ("rājā... cakkavatti", "&ldquo;a wheel-turning monarch&rdquo; "
+             "&mdash; the universal-ruler rebirth the deities offer "
+             "Citta, refused as impermanent"),
+        ("tampi aniccaṁ, tampi addhuvaṁ, tampi pahāya gamanīyaṁ",
+             "&ldquo;that too is impermanent, that too will pass, "
+             "that too will be left behind&rdquo; &mdash; Citta's own "
+             "refrain, repeated to both the deities and, once "
+             "explained, to his own family"),
+        ("satiṁ upaṭṭhapehi, mā vippalapi", "&ldquo;be mindful, "
+             "don't babble&rdquo; &mdash; his family's own alarmed "
+             "response, based on hearing only half the exchange"),
+        ("buddhe aveccappasādena samannāgatā bhavissāma", "&ldquo;we "
+             "will have experiential confidence in the Buddha&rdquo; "
+             "&mdash; the opening line of Citta's own final teaching "
+             "to his family"),
+        ("Cittasaṁyuttaṁ samattaṁ", "&ldquo;the Linked Discourses "
+             "on Citta the Householder are complete&rdquo; &mdash; "
+             "this saṃyutta's own genuinely Sujato-translated closing "
+             "line"),
+    ],
+    text_intro=("The complete discourse, apart from the intervening "
+        "untranslated vagga-level ordinal and uddāna (described "
+        "rather than quoted above), together with this saṃyutta's "
+        "own genuinely translated final line. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn41.10:1.1-3.10"),
+        ("p", "&sect;2", "sn41.10:4.5"),
+    ],
+    quiz=[
+        {"q": "What do the park and forest deities urge Citta to wish for?",
+         "opts": ["Future rebirth as a wheel-turning monarch, made possible by his own ethical purity", "Immediate recovery from his illness", "Rebirth as a deity himself", "Nothing; they only offer comfort with no specific request"],
+         "correct": 0,
+         "expl": "A real doctrinal claim about the power of his ethics, not mere superstition."},
+        {"q": "Why does Citta refuse the deities' offer?",
+         "opts": ["Because even universal kingship is impermanent and worth leaving behind, not because the offer is false", "Because he doubts the deities' own sincerity", "Because he prefers a lesser rebirth out of humility", "He does not refuse; he accepts the offer"],
+         "correct": 0,
+         "expl": "The same refrain — impermanent, will pass, will be left behind — applied even to the highest offered reward."},
+        {"q": "What does Citta do with his own final words to his family?",
+         "opts": ["Teaches them confidence in the Buddha, the teaching, and the Saṅgha, and unreserved generosity", "Asks them to fulfill his unfinished worldly business", "Says nothing further and dies in silence", "Expresses fear about his own death"],
+         "correct": 0,
+         "expl": "A death scene structured like a teacher's, giving guidance rather than only receiving comfort."},
+        {"q": "What does this discourse's own closing colophon announce?",
+         "opts": ["\"The Linked Discourses on Citta the Householder are complete\" — genuinely translated by Sujato", "The opening of a new saṃyutta", "A repetition of an earlier discourse's own colophon", "Nothing; the discourse ends without any closing line"],
+         "correct": 0,
+         "expl": "Following untranslated placeholder segments this reading guide describes rather than fabricates content for."},
+    ],
+    marginalia=[
+        ("An offer, refused at its highest point", [
+            "a wheel-turning monarch's own future throne —",
+            "impermanent still, and left behind",
+        ]),
+        ("A misunderstanding, gently corrected", [
+            "\"don't babble,\" his family warns —",
+            "not knowing who he was actually answering",
+        ]),
+        ("Teaching given, not received, at the end", [
+            "confidence in Buddha, teaching, Saṅgha —",
+            "a dying man's own last instruction",
+        ]),
+        ("Ten discourses, one saṃyutta, complete", [
+            "\"The Linked Discourses on Citta the Householder\" —",
+            "genuinely translated, closing the collection itself",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn41.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-41.9.html\">SN 41.9 &middot; With Kassapa, the "
+        "Naked Ascetic</a> &mdash; already published on this site, "
+        "the previous discourse.",
+        '<a href="sn-42.8.html">SN 42.8 &middot; A Horn Blower</a> '
         "&mdash; already published on this site, standing ahead of "
-        "this project's next saṃyutta, SN 41, not yet built.",
+        "this project's next saṃyutta, SN 42, not yet built.",
     ],
 )
