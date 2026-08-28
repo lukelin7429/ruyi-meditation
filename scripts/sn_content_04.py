@@ -121,6 +121,37 @@ INDEX_EXTRA = [
 # Aṭṭhasatapariyāyavagga repeat this shape.
 # --------------------------------------------------------------------------- #
 
+# --------------------------------------------------------------------------- #
+# SN 37 (Mātugāmasaṃyutta, "Linked Discourses on Women") is this book's
+# third saṃyutta, confirmed against both bilara-data's own root-Pali
+# vagga labels and SuttaCentral's own menu API -- both agree exactly:
+# 34 discourses across 3 vaggas, all individual files, no peyyāla
+# merges anywhere:
+#
+#   1. Paṭhamapeyyālavagga        SN 37.1-14  (14) -- "dark side"
+#   2. Dutiyapeyyālavagga          SN 37.15-24 (10) -- "bright side"
+#   3. Balavagga                    SN 37.25-34 (10)
+#
+# Total: 14+10+10=34, confirmed against bilara-data's own maximum sutta
+# number (sn37.34). This saṃyutta requires careful, non-judgmental
+# handling: SN 37.5-13 is a nine-discourse series naming character
+# failings (irritable, acrimonious, jealous, stingy, unfaithful,
+# unethical, unlearned, lazy, unmindful) attributed to women leading to
+# unfavorable rebirth, built on a fixed four-quality template (assaddha/
+# ahirika/anottāpī/duppañña) plus one variable fifth term; SN 37.1-2 is
+# a genuinely reciprocal pair (the identical five-factor desirability
+# standard applied to both women and men); SN 37.3 names five forms of
+# suffering specific to women descriptively, not as a moral failing;
+# and SN 37.14's own closing colophon explicitly names the whole first
+# vagga "kaṇhapakkhe pakāsito" (declared on the dark side), confirming
+# the text itself frames this material as one moral valence with a
+# bright counterpart (Dutiyapeyyālavagga) still to come -- every
+# negative quality in the SN 37.5-13 series has its own confirmed
+# positive-counterpart discourse in SN 37.15-24, reversing the same
+# template. Do not read any discourse in Paṭhamapeyyālavagga in
+# isolation from this pairing; each reading guide should note it.
+# --------------------------------------------------------------------------- #
+
 PAGES = []
 
 
@@ -36867,5 +36898,2051 @@ page(
         "&mdash; already published on this site, standing ahead of "
         "this project's next saṃyutta, SN 37 (Mātugāmasaṃyutta), not "
         "yet built.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 37.1 — Mātugāmasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 1, "Mātugāma", "A Female",
+    vagga="Paṭhamapeyyālavagga",
+    meta_title="SN 37.1 &mdash; A Female | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mātugāmasutta &mdash; opening Mātugāmasaṃyutta with a "
+        "reciprocal five-factor account of desirability, immediately "
+        "mirrored for men in the very next discourse. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A paired fivefold list, undesirable and desirable "
+                 "factors given in direct contrast"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but worth reading alongside its own "
+                       "mirror discourse before drawing conclusions"),
+    ],
+    why=(
+        "This discourse opens Mātugāmasaṃyutta (&ldquo;Linked "
+        "Discourses on Women&rdquo;), Book IV's own third saṃyutta, "
+        "34 discourses across three vaggas. Read on its own, this "
+        "opening discourse could look like an assessment of women "
+        "purely by their usefulness to men &mdash; attractive, "
+        "wealthy, ethical, capable, and fertile as desirable; their "
+        "absence as undesirable. But this project reads it alongside "
+        "its own immediate mirror, SN 37.2, which applies the "
+        "identical five factors to men and their desirability to "
+        "women, word for word. This vagga's own closing uddāna (met "
+        "at SN 37.14) explicitly labels the whole vagga &ldquo;"
+        "kaṇhapakkhe pakāsito&rdquo; &mdash; &ldquo;declared on the "
+        "dark side&rdquo; &mdash; naming its own moral register up "
+        "front and implying a bright counterpart is still to come."
+    ),
+    guide=[
+        ("Five factors, stated once and directly contrasted", [
+            "Attractiveness, wealth, ethical conduct, industriousness "
+            "(the opposite of idleness), and fertility are named as a "
+            "single package in both directions: their absence makes a "
+            "woman &ldquo;extremely undesirable,&rdquo; their "
+            "presence makes her &ldquo;extremely desirable,&rdquo; "
+            "with no factor treated as more decisive than the others.",
+        ]),
+        ("A discourse that only makes full sense with its own twin",
+         [
+            "This discourse's own account is symmetrical with SN "
+            "37.2's own account of men &mdash; the same five factors, "
+            "the same structure, the same intensifiers &mdash; read "
+            "together they describe a shared social logic of "
+            "marriageability applied even-handedly to both parties, "
+            "not a standard applied to women alone.",
+        ]),
+        ("A vagga that names its own moral register", [
+            "This vagga's own closing uddāna calls the whole "
+            "collection &ldquo;kaṇhapakkha&rdquo; (the dark side, or "
+            "side of black) &mdash; the text itself frames this "
+            "material as one deliberate valence, implying (though not "
+            "yet delivering) a paired bright side, sukkapakkha, "
+            "still ahead in Dutiyapeyyālavagga.",
+        ]),
+        ("A description of social conditions, not a doctrinal "
+         "verdict", [
+            "Nothing in this discourse claims these five factors "
+            "determine anyone's spiritual worth or capacity for "
+            "awakening; it describes what made someone marriageable "
+            "in the social conditions the text assumes, a "
+            "sociological observation this project presents "
+            "descriptively rather than endorsing as the Buddha's own "
+            "assessment of a person's ultimate value.",
+        ]),
+    ],
+    terms=[
+        ("mātugāma", "&ldquo;womenfolk,&rdquo; literally "
+             "&ldquo;the village of mothers&rdquo; &mdash; giving "
+             "this saṃyutta its own name and this discourse its "
+             "title, translated here as &ldquo;a female&rdquo; or "
+             "&ldquo;a lady&rdquo;"),
+        ("appiyā... purisassa", "&ldquo;undesirable... to a "
+             "man&rdquo; &mdash; the discourse's own first fivefold "
+             "condition"),
+        ("piyā... purisassa", "&ldquo;desirable... to a man&rdquo; "
+             "&mdash; the mirrored second fivefold condition, "
+             "reversing every factor of the first"),
+        ("apajā", "&ldquo;doesn't beget children&rdquo; &mdash; the "
+             "fifth undesirable factor, reversed as fertility in the "
+             "desirable list"),
+        ("kaṇhapakkhe pakāsito", "&ldquo;declared on the dark "
+             "side&rdquo; &mdash; the vagga's own closing "
+             "self-description, met in full at SN 37.14, naming this "
+             "collection's own moral register directly"),
+    ],
+    text_intro=("The complete discourse: the undesirable and "
+        "desirable fivefold lists, given in direct contrast. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.1:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What five factors does this discourse name as making a woman either desirable or undesirable to a man?",
+         "opts": ["Attractiveness, wealth, ethical conduct, industriousness, and fertility", "Only physical appearance", "Age and family lineage alone", "Religious devotion and literacy"],
+         "correct": 0,
+         "expl": "Named as a single package in both directions, with no factor treated as more decisive than the others."},
+        {"q": "Why does this reading guide caution against reading this discourse in isolation?",
+         "opts": ["Because SN 37.2 applies the identical five factors to men and their desirability to women, word for word", "Because the discourse is considered spurious by all traditions", "Because the discourse contradicts itself internally", "Because no other discourse in this saṃyutta relates to it"],
+         "correct": 0,
+         "expl": "The two discourses read together describe a shared, even-handed social logic rather than a standard applied to women alone."},
+        {"q": "What does this vagga's own closing uddāna (met at SN 37.14) call the whole collection?",
+         "opts": ["\"Kaṇhapakkha\" — declared on the dark side", "\"The chapter of blessings\"", "The uddāna gives no description of the vagga's own moral register", "\"Sukkapakkha\" — the bright side"],
+         "correct": 0,
+         "expl": "The text itself names its own moral register and implies a bright counterpart still to come in the next vagga."},
+        {"q": "Does this discourse claim these five factors determine a person's spiritual worth?",
+         "opts": ["No — it describes social marriageability conditions, not spiritual capacity or ultimate value", "Yes — it explicitly links wealth to awakening potential", "Yes — it claims only ethical women can attain liberation", "The discourse makes no claims about marriageability at all"],
+         "correct": 0,
+         "expl": "A sociological observation about social conditions, presented descriptively rather than as a doctrinal verdict on worth."},
+        {"q": "What does \"mātugāma,\" this saṃyutta's own name, literally mean?",
+         "opts": ["\"Womenfolk,\" literally \"the village of mothers\"", "\"The dark path\"", "\"Household affairs\"", "\"Marriage and family\""],
+         "correct": 0,
+         "expl": "Giving both this discourse and the entire saṃyutta its own title."},
+    ],
+    marginalia=[
+        ("Five factors, stated once, reversed once", [
+            "attractive, wealthy, ethical, capable, fertile —",
+            "their absence and presence in direct contrast",
+        ]),
+        ("A discourse that needs its own twin", [
+            "SN 37.2 applies the same five to men —",
+            "read together, not a one-sided standard",
+        ]),
+        ("A vagga that names its own register", [
+            "\"declared on the dark side\" —",
+            "the text's own words, met at SN 37.14",
+        ]),
+        ("Social conditions, not spiritual verdict", [
+            "marriageability, not ultimate worth —",
+            "described, not endorsed as final judgment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.31.html">SN 36.31 &middot; Not of the '
+        "Flesh</a> &mdash; already published on this site, closing "
+        "the previous saṃyutta, Vedanāsaṃyutta.",
+        '<a href="sn-37.2.html">SN 37.2 &middot; A Man</a> '
+        "&mdash; the next discourse, mirroring this one exactly.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 37.2 — Purisasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 2, "Purisa", "A Man",
+    vagga="Paṭhamapeyyālavagga",
+    meta_title="SN 37.2 &mdash; A Man | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Purisasutta &mdash; SN 37.1's own five factors of "
+        "desirability applied word for word to men, confirming the "
+        "standard runs both directions. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "The identical paired fivefold list as SN 37.1, "
+                 "with the genders exchanged"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, and best read as SN 37.1's own "
+                       "confirming twin"),
+    ],
+    why=(
+        "This discourse gives SN 37.1's own five-factor account word "
+        "for word with the genders exchanged: a man who lacks "
+        "attractiveness, wealth, ethical conduct, industriousness, "
+        "and fertility is extremely undesirable to a woman; a man who "
+        "has all five is extremely desirable. Nothing in this "
+        "discourse's own content differs from the previous one beyond "
+        "the swapped subject &mdash; confirming, rather than "
+        "qualifying, that this vagga's opening pair describes one "
+        "shared social standard applied evenly to both parties in a "
+        "marriage."
+    ),
+    guide=[
+        ("An exact mirror, not a softened variant", [
+            "Every one of the five factors, both intensifiers "
+            "(&ldquo;extremely&rdquo;), and the overall structure "
+            "recur unchanged from SN 37.1 &mdash; this is not a "
+            "milder or qualified version of the same claim applied to "
+            "men, but the identical claim.",
+        ]),
+        ("Confirming a standard runs in both directions", [
+            "Placed immediately after SN 37.1 rather than scattered "
+            "elsewhere in the vagga, this discourse's own position "
+            "makes the mirroring impossible to miss &mdash; the text "
+            "itself invites the two discourses to be read as a "
+            "matched pair, not as isolated statements.",
+        ]),
+        ("The same descriptive, not doctrinal, register", [
+            "As with SN 37.1, nothing here claims these five factors "
+            "determine a man's spiritual worth; the discourse "
+            "describes social marriageability conditions from the "
+            "other side of the same relationship.",
+        ]),
+        ("Two discourses, one point made twice for emphasis", [
+            "Some pairs in this project's coverage vary a detail "
+            "between their two halves (a different questioner, a "
+            "different dependency); this pair varies nothing but the "
+            "subject, making its own point through exact repetition "
+            "rather than through contrast.",
+        ]),
+    ],
+    terms=[
+        ("purisa", "a man &mdash; this discourse's own subject, "
+             "replacing SN 37.1's mātugāma with no other change"),
+        ("appiyo... mātugāmassa", "&ldquo;undesirable... to a "
+             "woman&rdquo; &mdash; the mirrored first condition"),
+        ("piyo... mātugāmassa", "&ldquo;desirable... to a woman"
+             "&rdquo; &mdash; the mirrored second condition"),
+        ("na ca puttaṁ janetā hoti", "&ldquo;he doesn't beget "
+             "children&rdquo; &mdash; the fifth undesirable factor, "
+             "unchanged in form from SN 37.1's own equivalent"),
+        ("dutiyaṁ", "&ldquo;second&rdquo; &mdash; this discourse's "
+             "own untranslated closing marker, confirming its "
+             "position as SN 37.1's immediate twin"),
+    ],
+    text_intro=("The complete discourse: the undesirable and "
+        "desirable fivefold lists, applied to men. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.2:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to SN 37.1's own?",
+         "opts": ["Identical in every factor and structure, with only the subject's gender exchanged", "Softened, applying fewer factors to men", "Reversed, claiming the opposite conclusion", "Entirely unrelated in content"],
+         "correct": 0,
+         "expl": "Every factor, both intensifiers, and the overall structure recur unchanged."},
+        {"q": "Where is this discourse positioned relative to SN 37.1, and why does that matter?",
+         "opts": ["Immediately after it, making the mirroring impossible to miss and inviting the two to be read together", "Many discourses later, obscuring the connection", "Before SN 37.1, reversing the expected order", "In a completely different vagga"],
+         "correct": 0,
+         "expl": "The text itself invites the two discourses to be read as a matched pair, not isolated statements."},
+        {"q": "Does this discourse claim these five factors determine a man's spiritual worth?",
+         "opts": ["No — it describes social marriageability conditions, the same descriptive register as SN 37.1", "Yes — it explicitly ties wealth to spiritual attainment", "Yes — it claims only ethical men can be reborn well", "The discourse makes claims only about physical appearance"],
+         "correct": 0,
+         "expl": "The same descriptive rather than doctrinal register as its twin."},
+        {"q": "How does this pair (SN 37.1/37.2) make its point, compared to other twin discourses in this project's coverage?",
+         "opts": ["Through exact repetition with only the subject changed, rather than through a varied detail or contrast", "By having each discourse reach an opposite conclusion", "By having one discourse compress the other with a peyyāla marker", "By introducing an entirely new simile in the second discourse"],
+         "correct": 0,
+         "expl": "Unlike pairs that vary a questioner or dependency, this pair varies nothing but the subject."},
+        {"q": "What single word replaces \"mātugāma\" throughout this discourse?",
+         "opts": ["Purisa (\"man\")", "Bhikkhu (\"mendicant\")", "Brāhmaṇa (\"brahmin\")", "No word is replaced; the vocabulary is identical"],
+         "correct": 0,
+         "expl": "The only substantive change between the two discourses."},
+    ],
+    marginalia=[
+        ("An exact mirror", [
+            "every factor, every intensifier —",
+            "unchanged but for the subject",
+        ]),
+        ("Positioned to be read together", [
+            "immediately after its twin —",
+            "the pairing impossible to miss",
+        ]),
+        ("The same descriptive register", [
+            "social conditions, not spiritual worth —",
+            "described from the other side",
+        ]),
+        ("A point made through repetition", [
+            "not contrast, but exact recurrence —",
+            "one claim, said twice, evenly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.1.html">SN 37.1 &middot; A Female</a> '
+        "&mdash; the previous discourse, this one's own exact twin.",
+        '<a href="sn-37.3.html">SN 37.3 &middot; Particular '
+        "Suffering</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 37.3 — Āveṇikadukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 3, "Āveṇikadukkha", "Particular Suffering",
+    vagga="Paṭhamapeyyālavagga",
+    meta_title="SN 37.3 &mdash; Particular Suffering | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āveṇikadukkhasutta &mdash; five forms of suffering the "
+        "text names as belonging to women specifically and not to "
+        "men: separation, menstruation, pregnancy, childbirth, and "
+        "serving a husband. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A fivefold list, each item named and labeled in "
+                 "turn"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain in content, worth reading as "
+                       "acknowledgment rather than complaint"),
+    ],
+    why=(
+        "This discourse names five forms of suffering (dukkha) the "
+        "text describes as &ldquo;particularly&rdquo; belonging to "
+        "women, &ldquo;undergone by ladies and not by men&rdquo;: "
+        "leaving one's own family while still young to live with a "
+        "husband's family, the menstrual cycle, pregnancy, "
+        "childbirth, and providing service to a husband. Unlike SN "
+        "37.4&ndash;13's own catalogs of moral failings, this "
+        "discourse doesn't attribute any of these five to a woman's "
+        "own choices or character; each is presented as a condition "
+        "she undergoes, not a fault she bears."
+    ),
+    guide=[
+        ("A different register from the moral catalogs around it",
+         [
+            "Where the discourses on either side of this one (SN "
+            "37.1&ndash;2, SN 37.4 onward) concern desirability or "
+            "moral failing, this discourse names circumstances that "
+            "happen to a woman regardless of her own conduct &mdash; "
+            "a structurally distinct kind of claim, describing "
+            "hardship rather than assigning blame.",
+        ]),
+        ("Five specific, named conditions", [
+            "Separation from one's own family at a young age, the "
+            "menstrual cycle, pregnancy, childbirth, and serving a "
+            "husband (paccupaṭṭhānaṁ karoti, literally attending on "
+            "or waiting upon) are each given their own line and "
+            "their own explicit label as the discourse's own "
+            "&ldquo;first,&rdquo; &ldquo;second,&rdquo; and so on "
+            "kind of particular suffering.",
+        ]),
+        ("Named as unshared, not necessarily as worse", [
+            "&ldquo;Āveṇika&rdquo; means &ldquo;particular, "
+            "individual, not shared&rdquo; &mdash; the discourse's "
+            "own claim is that these five are undergone by women and "
+            "not by men, a claim about distribution rather than a "
+            "ranking of whose suffering is greater overall.",
+        ]),
+        ("An acknowledgment that stands on its own", [
+            "This discourse offers no further teaching, path, or "
+            "practice in response to these five &mdash; unlike many "
+            "discourses in this saṃyutta that pair a hardship with a "
+            "spiritual instruction, this one simply names and closes, "
+            "read most naturally as a plain acknowledgment rather "
+            "than the opening move of a larger argument.",
+        ]),
+    ],
+    terms=[
+        ("āveṇikāni dukkhāni", "&ldquo;particular&rdquo; or "
+             "&ldquo;unshared&rdquo; sufferings &mdash; the "
+             "discourse's own title, naming what is undergone by "
+             "women and not by men"),
+        ("daharāva samānā sāmikakulaṁ gacchati ñātakehi vinā hoti",
+             "&ldquo;while still young, [she] goes to live with her "
+             "husband's family and is separated from her "
+             "relatives&rdquo; &mdash; the first named suffering"),
+        ("utunī hoti", "&ldquo;undergoes the menstrual cycle&rdquo; "
+             "&mdash; the second named suffering"),
+        ("gabbhaṁ gaṇhāti", "&ldquo;undergoes pregnancy&rdquo; "
+             "&mdash; the third named suffering"),
+        ("purisassa paccupaṭṭhānaṁ karoti", "&ldquo;provides "
+             "services for a man&rdquo; &mdash; the fifth and final "
+             "named suffering, closing the list"),
+    ],
+    text_intro=("The complete discourse: the five particular "
+        "sufferings, each named in turn. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.3:1.1-1.13"),
+    ],
+    quiz=[
+        {"q": "What five conditions does this discourse name as \"particular sufferings\" of women?",
+         "opts": ["Separation from family upon marriage, menstruation, pregnancy, childbirth, and serving a husband", "Poverty, illness, old age, sickness, and death — the sufferings shared by everyone", "Five specific character flaws", "Five forms of physical labor"],
+         "correct": 0,
+         "expl": "Each given its own line and explicit ordinal label in the discourse's own structure."},
+        {"q": "How does this discourse's register differ from SN 37.4-13's own moral catalogs?",
+         "opts": ["It names circumstances a woman undergoes regardless of her own conduct, rather than attributing failings to her character", "It is identical in register, listing more moral failings", "It denies that women experience any suffering at all", "It focuses exclusively on men's suffering instead"],
+         "correct": 0,
+         "expl": "A structurally distinct kind of claim: describing hardship, not assigning blame."},
+        {"q": "What does \"āveṇika,\" this discourse's own key term, mean?",
+         "opts": ["\"Particular,\" \"individual,\" or \"not shared\"", "\"Painful\" or \"agonizing\"", "\"Temporary\" or \"passing\"", "\"Forbidden\" or \"taboo\""],
+         "correct": 0,
+         "expl": "A claim about distribution — undergone by women and not by men — rather than a ranking of severity."},
+        {"q": "Does this discourse offer a teaching or practice in response to these five sufferings?",
+         "opts": ["No — it names and closes, without pairing the hardship with further spiritual instruction", "Yes — it prescribes a specific meditation practice for each", "Yes — it recommends avoiding marriage entirely", "It recommends the eightfold path as a direct response"],
+         "correct": 0,
+         "expl": "Read most naturally as a plain acknowledgment rather than the opening move of a larger argument."},
+        {"q": "What is the fifth and final suffering named in this discourse?",
+         "opts": ["Providing services for a man (paccupaṭṭhānaṁ karoti)", "Menstruation", "Separation from family", "Old age"],
+         "correct": 0,
+         "expl": "Closing the list after separation, menstruation, pregnancy, and childbirth."},
+    ],
+    marginalia=[
+        ("Circumstance, not character", [
+            "conditions undergone, not faults borne —",
+            "a different register from what surrounds it",
+        ]),
+        ("Five named, each in turn", [
+            "separation, cycle, pregnancy, birth, service —",
+            "each given its own explicit label",
+        ]),
+        ("Unshared, not necessarily worse", [
+            "\"āveṇika,\" particular to women —",
+            "a claim about distribution, not ranking",
+        ]),
+        ("Named, then simply closed", [
+            "no teaching offered in response —",
+            "an acknowledgment standing on its own",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.2.html">SN 37.2 &middot; A Man</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-37.4.html">SN 37.4 &middot; Three '
+        "Qualities</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 37.4 — Tīhidhammehisutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 4, "Tīhidhammehi", "Three Qualities",
+    vagga="Paṭhamapeyyālavagga",
+    meta_title="SN 37.4 &mdash; Three Qualities | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tīhidhammehisutta &mdash; stinginess, jealousy, and "
+        "sexual desire mapped onto morning, afternoon, and evening "
+        "as a single daily pattern the text links to unfavorable "
+        "rebirth. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                      "mendicants"),
+        ("Form", "A threefold list, each item assigned to a specific "
+                 "time of day"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, structured around an unusual temporal "
+                       "framing"),
+    ],
+    why=(
+        "This discourse describes a woman living at home with her "
+        "heart occupied by three particular stains across a single "
+        "day: stinginess in the morning, jealousy in the afternoon, "
+        "and sexual desire in the evening. The text links this "
+        "pattern, when it holds, to unfavorable rebirth &mdash; a "
+        "place of loss, the underworld, hell. Unlike SN 37.5&ndash;13's "
+        "own fixed five-item template, this discourse's own three "
+        "qualities are notable for being mapped onto a temporal "
+        "sequence rather than simply listed."
+    ),
+    guide=[
+        ("A structure built on time of day, not a simple list", [
+            "Rather than naming three qualities as co-present traits, "
+            "the discourse assigns each to a specific part of the "
+            "day &mdash; morning, afternoon, evening &mdash; a "
+            "structural choice this project has not met applied to "
+            "moral qualities elsewhere in this saṃyutta.",
+        ]),
+        ("Three specific stains, one per period", [
+            "Stinginess (macchera), jealousy (issā), and sexual "
+            "desire (kāmarāga) are the three named &ldquo;stains" "&rdquo; (mala) &mdash; the discourse's own choice not to "
+            "spread these across a full day but to compress them "
+            "into three sequential windows.",
+        ]),
+        ("A domestic setting named explicitly", [
+            "&ldquo;Lives at home&rdquo; (gharaṁ ajjhāvasati) frames "
+            "this discourse's own subject specifically within "
+            "household life, distinct from the more general framing "
+            "of the fivefold discourses that follow.",
+        ]),
+        ("The shortest fully independent discourse in this vagga so "
+         "far", [
+            "At three qualities rather than five, and without the "
+            "fixed &ldquo;faithless, shameless, imprudent... "
+            "witless&rdquo; frame that will anchor SN 37.5 through SN "
+            "37.13, this discourse stands as its own distinct, "
+            "self-contained unit rather than the opening member of a "
+            "template series.",
+        ]),
+    ],
+    terms=[
+        ("macchera", "stinginess &mdash; the first of the three "
+             "named stains, assigned to the morning"),
+        ("issā", "jealousy &mdash; the second stain, assigned to the "
+             "afternoon"),
+        ("kāmarāga", "sexual desire &mdash; the third stain, "
+             "assigned to the evening"),
+        ("mala", "&ldquo;stain&rdquo; &mdash; the discourse's own "
+             "term for each of the three qualities, framing them as "
+             "a defilement rather than a neutral trait"),
+        ("gharaṁ ajjhāvasati", "&ldquo;lives at home&rdquo; &mdash; "
+             "the discourse's own explicit domestic setting for this "
+             "pattern"),
+    ],
+    text_intro=("The complete discourse: the three stains, each "
+        "assigned to its own time of day. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.4:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What three qualities does this discourse map onto specific times of day?",
+         "opts": ["Stinginess (morning), jealousy (afternoon), and sexual desire (evening)", "Anger, laziness, and pride, in no particular order", "Faith, wisdom, and generosity", "The discourse lists three qualities with no time association"],
+         "correct": 0,
+         "expl": "A sequential structure this project has not met applied to moral qualities elsewhere in this saṃyutta."},
+        {"q": "How does this discourse's own structure differ from SN 37.5-13's fivefold template?",
+         "opts": ["It uses three qualities mapped to a temporal sequence, without the fixed \"faithless, shameless, imprudent, witless\" frame", "It uses the identical five-item template", "It applies to men rather than women", "It contains no qualities at all, only a narrative"],
+         "correct": 0,
+         "expl": "A self-contained unit rather than the opening member of the template series that follows."},
+        {"q": "What term does the discourse use to describe each of the three qualities?",
+         "opts": ["\"Stain\" (mala), framing them as a defilement", "\"Virtue\" (guṇa)", "\"Habit\" (ācāra), a neutral descriptive term", "The discourse uses no collective term"],
+         "correct": 0,
+         "expl": "Explicitly framing the three qualities as defilements rather than neutral traits."},
+        {"q": "What setting does this discourse specify for the pattern it describes?",
+         "opts": ["A woman living at home (gharaṁ ajjhāvasati)", "A monastery", "A marketplace", "No setting is specified"],
+         "correct": 0,
+         "expl": "Distinct from the more general framing of the fivefold discourses that follow."},
+        {"q": "What outcome does this discourse link to the pattern it describes, when it holds?",
+         "opts": ["Unfavorable rebirth — a place of loss, the underworld, hell", "No outcome is specified", "A favorable rebirth in a heavenly realm", "Immediate liberation from suffering"],
+         "correct": 0,
+         "expl": "The same rebirth-consequence framing this vagga's own fivefold discourses will use as well."},
+    ],
+    marginalia=[
+        ("A day divided into three", [
+            "morning, afternoon, evening —",
+            "three stains, three sequential windows",
+        ]),
+        ("Named as stains, not neutral traits", [
+            "\"mala\" — a defilement —",
+            "not simply a description of character",
+        ]),
+        ("A domestic setting, stated outright", [
+            "\"lives at home\" —",
+            "distinct from the more general frame ahead",
+        ]),
+        ("A self-contained unit", [
+            "three items, no fixed template —",
+            "not yet part of the series to follow",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.3.html">SN 37.3 &middot; Particular '
+        "Suffering</a> &mdash; the previous discourse.",
+        '<a href="sn-37.5.html">SN 37.5 &middot; Irritable</a> '
+        "&mdash; the next discourse, opening a nine-discourse "
+        "fivefold template series.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 37.5 — Kodhanasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 5, "Kodhana", "Irritable",
+    vagga="Paṭhamapeyyālavagga",
+    meta_title="SN 37.5 &mdash; Irritable | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kodhanasutta &mdash; Venerable Anuruddha's own "
+        "clairvoyant question opening a nine-discourse series built "
+        "on a fixed four-quality template plus one variable fifth. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated beyond Anuruddha's approach to the "
+                     "Buddha"),
+        ("Speakers", "Venerable Anuruddha and the Buddha"),
+        ("Form", "A clairvoyant observation, a direct question, and "
+                 "a fivefold answer opening a nine-discourse "
+                 "template series"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "short on its own, but establishes a template "
+                       "this vagga repeats eight more times"),
+    ],
+    why=(
+        "Venerable Anuruddha, using his own purified clairvoyance, "
+        "reports having seen a woman reborn after death in a place "
+        "of loss, and asks how many qualities lead to this. The "
+        "Buddha answers with five: faithless, shameless, imprudent, "
+        "irritable, and witless. This fixed pattern &mdash; "
+        "faithless (assaddha), shameless (ahirika), imprudent "
+        "(anottāpī), and witless (duppañña) held constant, with one "
+        "variable fifth quality &mdash; opens a nine-discourse series "
+        "(SN 37.5&ndash;13) that will repeat the identical structure "
+        "eight more times, varying only that fifth term."
+    ),
+    guide=[
+        ("Four fixed qualities anchoring the whole series", [
+            "Assaddha (faithless), ahirika (shameless, lacking hiri, "
+            "the sense of conscience), anottāpī (imprudent, lacking "
+            "ottappa, prudent moral dread), and duppañña (witless) "
+            "recur unchanged across all nine discourses in this "
+            "series &mdash; hiri and ottappa in particular are named "
+            "elsewhere in this tradition as universal ethical "
+            "safeguards, not qualities specific to any one gender.",
+        ]),
+        ("A question prompted by direct clairvoyant observation", [
+            "Unlike the plain declarative discourses around it, this "
+            "one is framed as Anuruddha's own report of what he has "
+            "personally seen, followed by a direct question &mdash; "
+            "giving the fivefold answer that follows an evidentiary "
+            "frame rather than presenting it as an unprompted "
+            "teaching.",
+        ]),
+        ("One variable slot, opening a template", [
+            "&ldquo;Irritable&rdquo; (kodhana) occupies this "
+            "discourse's own fifth position; SN 37.6 through SN "
+            "37.13 will each swap in a different fifth quality "
+            "&mdash; acrimonious, jealous, stingy, adulterous, "
+            "unethical, unlearned, lazy, and unmindful in turn "
+            "&mdash; while leaving the other four positions "
+            "untouched.",
+        ]),
+        ("A series that will only grow more compressed from here",
+         [
+            "This discourse gives the full fivefold formula in "
+            "complete, unabbreviated form; SN 37.6 onward "
+            "progressively compress the shared material with peyyāla "
+            "markers, this discourse's own full version becoming the "
+            "template the later, shorter discourses lean on rather "
+            "than restate.",
+        ]),
+    ],
+    terms=[
+        ("assaddha", "faithless &mdash; the first of the four fixed "
+             "qualities anchoring this nine-discourse series"),
+        ("ahirika", "shameless &mdash; lacking hiri, the sense of "
+             "moral conscience, the second fixed quality"),
+        ("anottāpī", "imprudent &mdash; lacking ottappa, prudent "
+             "moral dread of wrongdoing, the third fixed quality"),
+        ("kodhana", "irritable, prone to anger &mdash; this "
+             "discourse's own variable fifth quality, giving it its "
+             "title"),
+        ("duppañña", "witless, lacking wisdom &mdash; the fourth "
+             "fixed quality, always closing the list"),
+    ],
+    text_intro=("The complete discourse: Anuruddha's own question "
+        "and the Buddha's full fivefold answer. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.5:1.1-1.3"),
+        ("p", "&sect;2", "sn37.5:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What prompts this discourse's own question about the qualities leading to unfavorable rebirth?",
+         "opts": ["Venerable Anuruddha's own clairvoyant observation of a woman's rebirth", "A direct declaration from the Buddha with no prompting question", "A dispute between two mendicants", "A question from a lay follower"],
+         "correct": 0,
+         "expl": "Anuruddha reports what he has personally seen before asking his question, giving the answer an evidentiary frame."},
+        {"q": "What four qualities remain fixed across all nine discourses in this series (SN 37.5-13)?",
+         "opts": ["Faithless, shameless, imprudent, and witless", "Angry, jealous, stingy, and lazy", "Wealthy, attractive, ethical, and fertile", "The series has no fixed qualities at all"],
+         "correct": 0,
+         "expl": "Assaddha, ahirika, anottāpī, and duppañña — unchanged across the entire nine-discourse series."},
+        {"q": "What does this discourse's own fifth quality name?",
+         "opts": ["Irritable, prone to anger (kodhana)", "Jealous (issukī)", "Stingy (maccharī)", "Unlearned (appassuta)"],
+         "correct": 0,
+         "expl": "The variable fifth position this discourse opens, giving it its title."},
+        {"q": "What do hiri and ottappa, the concepts behind two of the four fixed qualities, represent in this tradition?",
+         "opts": ["Universal ethical safeguards — moral conscience and prudent dread of wrongdoing — not qualities specific to any one gender", "Qualities exclusive to enlightened beings", "A specific meditation technique", "Terms found only in this particular discourse"],
+         "correct": 0,
+         "expl": "Named elsewhere in this tradition as guardians applicable broadly, not invented specifically to characterize women."},
+        {"q": "How does this discourse's own fullness compare to the discourses that follow it in the series?",
+         "opts": ["It gives the complete, unabbreviated formula; later discourses compress the shared material with peyyāla markers", "It is already compressed, unlike the fuller discourses that follow", "All nine discourses in the series are equally compressed", "This discourse is the most compressed of the entire series"],
+         "correct": 0,
+         "expl": "Becoming the template the later, shorter discourses lean on rather than restate."},
+    ],
+    marginalia=[
+        ("A question from direct observation", [
+            "Anuruddha's own clairvoyance —",
+            "an evidentiary frame, not unprompted teaching",
+        ]),
+        ("Four fixed, one variable", [
+            "faithless, shameless, imprudent, witless —",
+            "held constant across nine discourses",
+        ]),
+        ("Universal safeguards, not gendered qualities", [
+            "hiri and ottappa, named elsewhere broadly —",
+            "not invented to characterize one gender",
+        ]),
+        ("A template about to compress", [
+            "given here in full —",
+            "the later discourses will lean on this one",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.4.html">SN 37.4 &middot; Three '
+        "Qualities</a> &mdash; the previous discourse.",
+        '<a href="sn-37.6.html">SN 37.6 &middot; Acrimony</a> '
+        "&mdash; the next discourse, the first of eight compressed "
+        "variants of this discourse's own template.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 37.6 — Upanāhīsutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 6, "Upanāhī", "Acrimony",
+    vagga="Paṭhamapeyyālavagga",
+    meta_title="SN 37.6 &mdash; Acrimony | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Upanāhīsutta &mdash; SN 37.5's own fivefold template "
+        "with \"acrimonious\" in the variable fifth slot, dropping "
+        "Anuruddha's own framing narrative entirely. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing Anuruddha by name with "
+                      "no narrative frame restated"),
+        ("Form", "SN 37.5's own fivefold template with one term "
+                 "swapped"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, best read alongside SN 37.5"),
+    ],
+    why=(
+        "This discourse takes SN 37.5's own fivefold template "
+        "&mdash; faithless, shameless, imprudent, [variable], and "
+        "witless &mdash; and swaps in &ldquo;acrimonious&rdquo; "
+        "(upanāhī, holding a grudge) for the fifth position. Unlike "
+        "SN 37.5, this discourse drops Anuruddha's own clairvoyant "
+        "framing narrative entirely, addressing him directly by name "
+        "as though the conversation is already underway &mdash; the "
+        "first sign that this vagga's own remaining fivefold "
+        "discourses will be read as a set rather than as separately "
+        "occasioned teachings."
+    ),
+    guide=[
+        ("A frame dropped, not merely compressed", [
+            "Where SN 37.5 opened with Anuruddha's own approach, "
+            "report, and question, this discourse begins directly "
+            "with the Buddha's answer &mdash; not a peyyāla-"
+            "compressed version of the frame, but its complete "
+            "absence, since the answer itself still addresses "
+            "Anuruddha by name.",
+        ]),
+        ("The variable term this time: holding a grudge", [
+            "Upanāhī names someone who nurses resentment after anger "
+            "has already passed &mdash; distinct from kodhana's own "
+            "immediate irritability at SN 37.5, this quality "
+            "describes the aftermath of anger rather than its "
+            "initial arising.",
+        ]),
+        ("The formula's own core still given in full", [
+            "Despite dropping the narrative frame, this discourse "
+            "still spells out the complete fivefold list and the "
+            "full rebirth-consequence clause on both ends &mdash; "
+            "compression here targets the story around the teaching, "
+            "not the teaching's own content.",
+        ]),
+        ("The first of eight discourses varying one word", [
+            "SN 37.6 through SN 37.13 will each swap a different "
+            "quality into this same fifth slot, all built on SN "
+            "37.5's own template &mdash; this discourse opens that "
+            "sequence.",
+        ]),
+    ],
+    terms=[
+        ("upanāhī", "acrimonious, holding a grudge &mdash; this "
+             "discourse's own variable fifth quality, distinct from "
+             "kodhana's immediate anger at SN 37.5"),
+        ("assaddha... ahirika... anottāpī... duppañña", "the four "
+             "fixed qualities carried over unchanged from SN 37.5: "
+             "faithless, shameless, imprudent, and witless"),
+        ("chaṭṭhaṁ", "&ldquo;sixth&rdquo; &mdash; this discourse's "
+             "own untranslated closing marker, its position within "
+             "the nine-discourse series"),
+        ("kāyassa bhedā paraṁ maraṇā", "&ldquo;when their body "
+             "breaks up, after death&rdquo; &mdash; the rebirth-"
+             "consequence clause, given here in full"),
+        ("apāyaṁ duggatiṁ vinipātaṁ nirayaṁ", "&ldquo;a place of "
+             "loss, a bad place, the underworld, hell&rdquo; &mdash; "
+             "the fourfold destination named for this pattern"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it "
+        "&mdash; the narrative frame dropped, the fivefold formula "
+        "given in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.6:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse drop entirely, compared to SN 37.5?",
+         "opts": ["Anuruddha's own clairvoyant framing narrative and question", "The fivefold list itself", "The rebirth-consequence clause", "The Buddha's own reply"],
+         "correct": 0,
+         "expl": "Not compressed but fully absent — the answer begins directly, still addressing Anuruddha by name."},
+        {"q": "What does \"upanāhī,\" this discourse's own variable fifth quality, mean?",
+         "opts": ["Holding a grudge, nursing resentment after anger has passed", "Immediate, hot-tempered anger", "Excessive pride", "Physical violence"],
+         "correct": 0,
+         "expl": "Distinct from kodhana's immediate irritability — the aftermath of anger rather than its initial arising."},
+        {"q": "Does this discourse compress the fivefold formula itself?",
+         "opts": ["No — the complete list and rebirth-consequence clause are given in full on both ends", "Yes — only three of the five qualities are named", "Yes — the entire formula is reduced to one sentence", "The formula is replaced with an entirely different teaching"],
+         "correct": 0,
+         "expl": "Compression here targets the narrative frame, not the teaching's own content."},
+        {"q": "What sequence does this discourse open?",
+         "opts": ["A run of eight discourses (SN 37.6-13) each swapping a different quality into the same fifth slot", "A sequence of exactly two discourses", "No sequence; this discourse stands alone", "A sequence that reverses SN 37.5's own conclusion"],
+         "correct": 0,
+         "expl": "All built on SN 37.5's own template."},
+        {"q": "How does this discourse address Anuruddha, compared to SN 37.5's own opening?",
+         "opts": ["Directly by name, as though the conversation is already underway, with no restated frame", "It does not mention Anuruddha at all", "Through a third-party messenger", "By title only, never by name"],
+         "correct": 0,
+         "expl": "The first sign this vagga's remaining fivefold discourses are read as a set rather than separately occasioned teachings."},
+    ],
+    marginalia=[
+        ("A frame dropped, not compressed", [
+            "no narrative, straight to the answer —",
+            "yet Anuruddha still named directly",
+        ]),
+        ("Grudge, not immediate anger", [
+            "upanāhī — resentment after the fact —",
+            "distinct from kodhana's own heat",
+        ]),
+        ("The core content, untouched", [
+            "the fivefold list given in full —",
+            "compression targets the story, not the teaching",
+        ]),
+        ("The first of eight variations", [
+            "one word swapped, eight more to come —",
+            "all built on SN 37.5's own template",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.5.html">SN 37.5 &middot; Irritable</a> '
+        "&mdash; the previous discourse, with the full narrative "
+        "frame.",
+        '<a href="sn-37.7.html">SN 37.7 &middot; Jealous</a> '
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 37.7 — Issukīsutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 7, "Issukī", "Jealous",
+    vagga="Paṭhamapeyyālavagga",
+    meta_title="SN 37.7 &mdash; Jealous | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Issukīsutta &mdash; \"jealous\" in the fivefold "
+        "template's own variable slot, still given with the full "
+        "opening and closing clauses. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing Anuruddha"),
+        ("Form", "The same fivefold template, one term swapped"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, part of an ongoing series"),
+    ],
+    why=(
+        "This discourse continues the series opened at SN 37.6, "
+        "swapping &ldquo;jealous&rdquo; (issukī) into the template's "
+        "own fifth position. Bilara-data still gives both the "
+        "opening and closing halves of the rebirth-consequence clause "
+        "in full at this point in the series &mdash; the deeper "
+        "compression that will affect the surrounding formula itself "
+        "(not just the narrative frame) doesn't begin until SN 37.8's "
+        "own closing clause and, more fully, SN 37.9 onward."
+    ),
+    guide=[
+        ("Jealousy, distinguished from the qualities on either "
+         "side", [
+            "Issukī (jealous, envious of others' success or "
+            "possessions) is conceptually distinct from both "
+            "kodhana's immediate anger (SN 37.5) and upanāhī's "
+            "lingering grudge (SN 37.6) &mdash; envy directed "
+            "outward at what others have, rather than resentment "
+            "over a specific wrong.",
+        ]),
+        ("Still fully spelled out, at this point in the series", [
+            "This discourse's own opening and closing clauses "
+            "remain complete, matching SN 37.6's own level of detail "
+            "rather than the progressively deeper compression that "
+            "begins at SN 37.8's own closing line.",
+        ]),
+        ("A quality also named in Rahogatavagga's own compressed "
+         "list", [
+            "&ldquo;Anissukī&rdquo; (not jealous), the positive "
+            "counterpart to this discourse's own issukī, will appear "
+            "at SN 37.17 in Dutiyapeyyālavagga, this saṃyutta's own "
+            "bright-side mirror of the entire fivefold series met "
+            "here.",
+        ]),
+        ("Third of nine, past the series' own opening pair", [
+            "With SN 37.5's full narrative and SN 37.6's dropped "
+            "frame already established, this discourse confirms the "
+            "series' own settled rhythm: direct address to "
+            "Anuruddha, one swapped term, otherwise unchanged.",
+        ]),
+    ],
+    terms=[
+        ("issukī", "jealous, envious &mdash; this discourse's own "
+             "variable fifth quality, directed at others' success or "
+             "possessions"),
+        ("anissukī", "&ldquo;not jealous&rdquo; &mdash; this "
+             "quality's own positive counterpart, appearing ahead at "
+             "SN 37.17 in this saṃyutta's own mirrored vagga"),
+        ("assaddha... ahirika... anottāpī... duppañña", "the four "
+             "fixed qualities, unchanged from SN 37.5 onward"),
+        ("sattamaṁ", "&ldquo;seventh&rdquo; &mdash; this discourse's "
+             "own untranslated closing marker"),
+        ("apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati", "&ldquo;is "
+             "reborn in a place of loss, a bad place, the "
+             "underworld, hell&rdquo; &mdash; still given in full at "
+             "this point in the series"),
+    ],
+    text_intro=("The complete discourse: the fivefold formula with "
+        "\"jealous\" in the fifth position. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.7:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does \"issukī,\" this discourse's own variable fifth quality, mean?",
+         "opts": ["Jealous, envious of others' success or possessions", "Quick to anger", "Prone to holding grudges", "Careless with money"],
+         "correct": 0,
+         "expl": "Envy directed outward, distinct from kodhana's anger and upanāhī's lingering grudge."},
+        {"q": "How complete is this discourse's own rebirth-consequence clause, compared to later discourses in the series?",
+         "opts": ["Still given in full, before the deeper compression that begins at SN 37.8's closing clause", "Already fully compressed, matching SN 37.10 onward", "Entirely omitted", "Expanded with additional new content"],
+         "correct": 0,
+         "expl": "Matching SN 37.6's own level of detail rather than the progressively deeper compression ahead."},
+        {"q": "Where does this quality's positive counterpart appear in this saṃyutta?",
+         "opts": ["SN 37.17, in the bright-side mirror vagga, Dutiyapeyyālavagga", "It never appears again in this saṃyutta", "SN 37.3, among the particular sufferings", "SN 37.1, in the opening desirability list"],
+         "correct": 0,
+         "expl": "Anissukī, \"not jealous,\" as part of this saṃyutta's own mirrored fivefold series."},
+        {"q": "What rhythm does this discourse confirm for the series as a whole?",
+         "opts": ["Direct address to Anuruddha, one swapped term, otherwise unchanged from SN 37.5's own template", "A new narrative frame introduced in every discourse", "Progressively shorter titles with no other pattern", "Alternating between men and women as the subject"],
+         "correct": 0,
+         "expl": "Established across SN 37.5 and SN 37.6, now confirmed as the series' own settled pattern."},
+        {"q": "What position does this discourse hold in the nine-discourse series?",
+         "opts": ["Third, following SN 37.5 and SN 37.6", "First", "Last", "Fifth"],
+         "correct": 0,
+         "expl": "Past the series' own opening pair, confirming its settled rhythm."},
+    ],
+    marginalia=[
+        ("Envy, not anger or grudge", [
+            "issukī — directed outward at others —",
+            "distinct from the previous two qualities",
+        ]),
+        ("Still fully spelled out", [
+            "opening and closing clauses complete —",
+            "deeper compression still ahead",
+        ]),
+        ("A counterpart already scheduled", [
+            "anissukī waits at SN 37.17 —",
+            "this saṃyutta's own bright-side mirror",
+        ]),
+        ("A settled rhythm, three discourses in", [
+            "direct address, one term swapped —",
+            "the pattern now firmly established",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.6.html">SN 37.6 &middot; Acrimony</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-37.8.html">SN 37.8 &middot; Stingy</a> '
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 37.8 — Maccharīsutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 8, "Maccharī", "Stingy",
+    vagga="Paṭhamapeyyālavagga",
+    meta_title="SN 37.8 &mdash; Stingy | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Maccharīsutta &mdash; \"stingy\" in the template's own "
+        "fifth slot, the first discourse in the series to compress "
+        "its own closing clause with a peyyāla marker. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing Anuruddha"),
+        ("Form", "The same fivefold template, now with its own "
+                 "closing clause compressed"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, marking a real shift in compression"),
+    ],
+    why=(
+        "This discourse swaps &ldquo;stingy&rdquo; (maccharī) into "
+        "the template's own fifth position and marks a genuine "
+        "structural shift in the series: for the first time, "
+        "bilara-data compresses the closing clause itself with a "
+        "peyyāla marker (&ldquo;…pe…&rdquo;) rather than giving it in "
+        "full, as SN 37.5&ndash;7 all did. The opening clause still "
+        "remains complete at this point &mdash; the compression "
+        "advances one step at a time rather than all at once."
+    ),
+    guide=[
+        ("A real escalation, not a repeat of earlier compression",
+         [
+            "SN 37.6 dropped only the narrative frame surrounding "
+            "the teaching; this discourse is the first to compress "
+            "part of the teaching's own formula &mdash; the closing "
+            "clause &mdash; marking a genuinely new stage rather than "
+            "repeating what SN 37.6 and SN 37.7 already did.",
+        ]),
+        ("Stinginess, already met in a different form", [
+            "Maccharī (stinginess) recurs here as a variable "
+            "template quality, distinct from its earlier appearance "
+            "at SN 37.4 as one of three qualities mapped to the "
+            "morning &mdash; the same underlying trait, occupying two "
+            "different structural roles in this vagga.",
+        ]),
+        ("The opening clause, still given in full", [
+            "Despite the closing compression, this discourse's own "
+            "opening &mdash; naming the fivefold quality set and "
+            "posing &ldquo;what five?&rdquo; &mdash; remains complete, "
+            "confirming the compression proceeds gradually through "
+            "the discourse rather than collapsing everything at once.",
+        ]),
+        ("A pivot point in the series' own progression", [
+            "From this discourse onward, later members of the series "
+            "will compress increasingly more of the shared formula, "
+            "with SN 37.9 extending the compression to the opening "
+            "clause as well &mdash; this discourse marks where that "
+            "progression genuinely begins.",
+        ]),
+    ],
+    terms=[
+        ("maccharī", "stingy &mdash; this discourse's own variable "
+             "fifth quality, previously met in a different structural "
+             "role at SN 37.4"),
+        ("…pe…", "the peyyāla (repetition) marker compressing this "
+             "discourse's own closing clause for the first time in "
+             "the series"),
+        ("assaddha... ahirika... anottāpī... duppañña", "the four "
+             "fixed qualities, still given in full in this "
+             "discourse's own opening question"),
+        ("aṭṭhamaṁ", "&ldquo;eighth&rdquo; &mdash; this discourse's "
+             "own untranslated closing marker"),
+        ("apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjatī", "the "
+             "closing destination-clause, now standing alone after "
+             "the peyyāla marker rather than following a fully "
+             "spelled-out lead-in"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it "
+        "&mdash; the opening clause in full, the closing clause "
+        "compressed by peyyāla. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.8:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What structural shift does this discourse introduce, compared to SN 37.5-7?",
+         "opts": ["The first compression of the closing clause itself, not just the surrounding narrative frame", "The first discourse to name a completely new fixed quality", "The first discourse addressed to someone other than Anuruddha", "The removal of the fivefold list entirely"],
+         "correct": 0,
+         "expl": "A genuinely new stage, distinct from SN 37.6's earlier dropping of only the narrative frame."},
+        {"q": "Where has \"maccharī\" (stinginess) appeared earlier in this vagga, in a different role?",
+         "opts": ["SN 37.4, as one of three qualities mapped to the morning", "SN 37.1, among the factors of desirability", "SN 37.3, among the particular sufferings", "It has not appeared anywhere earlier"],
+         "correct": 0,
+         "expl": "The same underlying trait occupying two different structural roles in this vagga."},
+        {"q": "Is this discourse's own opening clause also compressed?",
+         "opts": ["No — it remains complete, with the compression proceeding gradually rather than all at once", "Yes — both opening and closing are compressed", "The opening clause is expanded with new content", "There is no opening clause in this discourse"],
+         "correct": 0,
+         "expl": "Confirming the compression advances one step at a time through the series."},
+        {"q": "What happens starting with the discourse immediately after this one?",
+         "opts": ["The compression extends to the opening clause as well, beginning at SN 37.9", "The series ends entirely", "The fivefold template is replaced with a threefold one", "The narrative frame from SN 37.5 is restored in full"],
+         "correct": 0,
+         "expl": "This discourse marks where the progressive compression genuinely begins."},
+        {"q": "What marker does bilara-data use to compress this discourse's own closing clause?",
+         "opts": ["The peyyāla marker \"…pe…\"", "A footnote referring to an external source", "No marker; the text is simply cut off", "A cross-reference to a different saṃyutta"],
+         "correct": 0,
+         "expl": "Used consistently throughout this project's coverage to mark repeated material assumed rather than restated."},
+    ],
+    marginalia=[
+        ("A genuine shift, not a repeat", [
+            "the closing clause compressed —",
+            "not just the narrative frame this time",
+        ]),
+        ("The same trait, a different role", [
+            "stinginess, met before at SN 37.4 —",
+            "now occupying the template's fifth slot",
+        ]),
+        ("Gradual, not all at once", [
+            "the opening still given in full —",
+            "compression proceeding one step at a time",
+        ]),
+        ("A pivot point in the series", [
+            "SN 37.9 will compress the opening too —",
+            "this discourse marks where it starts",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.7.html">SN 37.7 &middot; Jealous</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-37.9.html">SN 37.9 &middot; Adultery</a> '
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 37.9 — Aticārīsutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 9, "Aticārī", "Adultery",
+    vagga="Paṭhamapeyyālavagga",
+    meta_title="SN 37.9 &mdash; Adultery | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aticārīsutta &mdash; \"unfaithful\" in the template's "
+        "own fifth slot, now with both opening and closing clauses "
+        "compressed by peyyāla. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing Anuruddha"),
+        ("Form", "The same fivefold template, now with both opening "
+                 "and closing clauses compressed"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, extending SN 37.8's own compression "
+                       "one step further"),
+    ],
+    why=(
+        "This discourse swaps &ldquo;unfaithful&rdquo; (aticārī, "
+        "committing adultery) into the template's own fifth "
+        "position, and extends SN 37.8's own compression of the "
+        "closing clause to the opening clause as well. Only the "
+        "core &ldquo;what five?&rdquo; question and the fivefold list "
+        "itself remain fully spelled out; everything surrounding "
+        "them is now assumed from earlier discourses in the series "
+        "rather than restated."
+    ),
+    guide=[
+        ("Both ends now compressed", [
+            "Where SN 37.8 compressed only the closing clause, this "
+            "discourse compresses the opening clause too &mdash; the "
+            "surrounding formula on both sides of the fivefold list "
+            "is now assumed rather than restated, leaving the "
+            "quality-naming core as the only fully spelled-out "
+            "content.",
+        ]),
+        ("A quality distinct from the earlier five factors", [
+            "Aticārī (unfaithfulness, adultery) names a specific "
+            "ethical violation within marriage, distinct from the "
+            "general character traits (irritability, grudge-holding, "
+            "jealousy, stinginess) that occupied the same slot in the "
+            "discourses before it.",
+        ]),
+        ("A term that will recur in this vagga's own closing "
+         "discourse", [
+            "Marital infidelity resurfaces at SN 37.14's own fivefold "
+            "list of precept violations (killing, stealing, sexual "
+            "misconduct, lying, intoxicants) &mdash; a different "
+            "framing (precept violation rather than character trait) "
+            "applied to related ethical territory.",
+        ]),
+        ("The compression's own trajectory now fully visible", [
+            "SN 37.6 dropped the narrative; SN 37.8 compressed the "
+            "close; this discourse compresses the open as well "
+            "&mdash; three discourses tracing one steady, cumulative "
+            "process rather than three isolated editorial choices.",
+        ]),
+    ],
+    terms=[
+        ("aticārī", "unfaithful, committing adultery &mdash; this "
+             "discourse's own variable fifth quality"),
+        ("…pe…", "the peyyāla marker, now compressing both the "
+             "opening and closing clauses of this discourse"),
+        ("assaddha... ahirika... anottāpī... duppañña", "the four "
+             "fixed qualities, still named in full at the "
+             "discourse's own structural core"),
+        ("navamaṁ", "&ldquo;ninth&rdquo; &mdash; this discourse's "
+             "own untranslated closing marker"),
+        ("methunasmiṁ micchācāro", "sexual misconduct &mdash; the "
+             "related term SN 37.14 will use for the same ethical "
+             "territory, framed as a precept violation rather than a "
+             "character trait"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it "
+        "&mdash; the fivefold list at its core, with both surrounding "
+        "clauses compressed by peyyāla. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.9:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What new compression does this discourse introduce, beyond SN 37.8's own?",
+         "opts": ["The opening clause is now compressed as well as the closing clause", "The fivefold list itself is compressed for the first time", "The discourse is expanded with new content not seen before", "This discourse removes the peyyāla marker entirely"],
+         "correct": 0,
+         "expl": "Only the core \"what five?\" question and list remain fully spelled out."},
+        {"q": "What does \"aticārī,\" this discourse's own variable fifth quality, name?",
+         "opts": ["Unfaithfulness, committing adultery", "General dishonesty in speech", "Failure to keep promises", "Excessive spending"],
+         "correct": 0,
+         "expl": "A specific ethical violation within marriage, distinct from the general character traits before it."},
+        {"q": "Where does related ethical territory resurface later in this vagga?",
+         "opts": ["SN 37.14's own fivefold list of precept violations, including sexual misconduct", "It does not resurface anywhere else in this vagga", "SN 37.3, among the particular sufferings", "SN 37.1, among the factors of desirability"],
+         "correct": 0,
+         "expl": "A different framing — precept violation rather than character trait — applied to related territory."},
+        {"q": "How do SN 37.6, SN 37.8, and this discourse relate to each other as a compression sequence?",
+         "opts": ["They trace one steady, cumulative process — narrative dropped, then closing compressed, then opening compressed too", "They are three unrelated, isolated editorial choices", "They each restore full detail after the previous discourse's compression", "Only this discourse shows any compression at all"],
+         "correct": 0,
+         "expl": "A cumulative, traceable progression across three discourses."},
+        {"q": "What remains fully spelled out in this discourse, despite the compression on both ends?",
+         "opts": ["The \"what five?\" question and the fivefold list itself", "The narrative frame from SN 37.5", "The closing destination clause", "Nothing remains uncompressed"],
+         "correct": 0,
+         "expl": "The quality-naming core, the one part of the formula every discourse in the series must state fresh."},
+    ],
+    marginalia=[
+        ("Both ends compressed now", [
+            "opening and closing, assumed —",
+            "only the core still spelled out",
+        ]),
+        ("A specific violation, not a general trait", [
+            "unfaithfulness within marriage —",
+            "distinct from the traits before it",
+        ]),
+        ("A term that returns later", [
+            "sexual misconduct, at SN 37.14 —",
+            "reframed as a precept, not a character flaw",
+        ]),
+        ("A traceable, cumulative process", [
+            "narrative, then closing, then opening —",
+            "three discourses, one steady progression",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.8.html">SN 37.8 &middot; Stingy</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-37.10.html">SN 37.10 &middot; Unethical</a> '
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 37.10 — Dussīlasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 10, "Dussīla", "Unethical",
+    vagga="Paṭhamapeyyālavagga",
+    meta_title="SN 37.10 &mdash; Unethical | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dussīlasutta &mdash; \"unethical\" in the template's own "
+        "fifth slot, with the surrounding formula now compressed to "
+        "its shortest form in the series so far. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing Anuruddha"),
+        ("Form", "The same fivefold template, compressed to its "
+                 "shortest form yet"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "as brief as this series gets"),
+    ],
+    why=(
+        "This discourse swaps &ldquo;unethical&rdquo; (dussīla, lack "
+        "of moral discipline) into the template's own fifth position, "
+        "compressing the surrounding formula even further than SN "
+        "37.9: bilara-data's own opening clause now elides the "
+        "middle portion of the destination phrase itself (&ldquo;a "
+        "place of loss, a bad place, the underworld&rdquo;), leaving "
+        "only &ldquo;hell&rdquo; named directly before the peyyāla "
+        "marker takes over. This is the compression's own settling "
+        "point &mdash; SN 37.11 through SN 37.13 will match this same "
+        "shortened form rather than compressing further still."
+    ),
+    guide=[
+        ("The deepest compression the series reaches", [
+            "Rather than eliding only the surrounding narrative or "
+            "clause structure, this discourse's own opening now cuts "
+            "into the destination phrase itself, keeping only "
+            "&ldquo;hell&rdquo; (niraya) as the named endpoint before "
+            "the peyyāla marker &mdash; the compression's own floor, "
+            "not exceeded by any later discourse in this series.",
+        ]),
+        ("Unethical conduct, named as a trait rather than an act",
+         [
+            "Dussīla (unethical, of bad character) names a general "
+            "moral disposition rather than a specific behavior, "
+            "unlike aticārī's own specific act of infidelity at SN "
+            "37.9 &mdash; a return to the character-trait framing of "
+            "SN 37.5&ndash;8 after that one discourse's more specific "
+            "focus.",
+        ]),
+        ("A settling point, not a stopping point", [
+            "This discourse's own level of compression will hold "
+            "steady for the remainder of the series (SN 37.11&ndash;13), "
+            "rather than compressing further &mdash; confirming a "
+            "floor has been reached rather than an ongoing trend "
+            "toward ever-shorter discourses.",
+        ]),
+        ("A quality with its own positive mirror already scheduled",
+         [
+            "Susīla (&ldquo;ethical,&rdquo; the positive counterpart "
+            "to this discourse's own dussīla) will appear at SN 37.20 "
+            "in Dutiyapeyyālavagga, this saṃyutta's own bright-side "
+            "mirror of the fivefold series met across SN "
+            "37.5&ndash;13.",
+        ]),
+    ],
+    terms=[
+        ("dussīla", "unethical, of bad moral character &mdash; this "
+             "discourse's own variable fifth quality, naming a "
+             "general disposition rather than a specific act"),
+        ("susīla", "&ldquo;ethical&rdquo; &mdash; this quality's own "
+             "positive counterpart, scheduled to appear at SN 37.20"),
+        ("…pe… nirayaṁ upapajjati", "the compressed opening clause, "
+             "eliding the middle destination phrase and naming only "
+             "hell directly &mdash; this discourse's own deepest "
+             "point of compression in the series"),
+        ("dasamaṁ", "&ldquo;tenth&rdquo; &mdash; this discourse's "
+             "own untranslated closing marker"),
+        ("assaddha... ahirika... anottāpī... duppañña", "the four "
+             "fixed qualities, still named in full at the "
+             "discourse's own structural core"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it "
+        "&mdash; compressed to this series' own shortest form. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.10:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own opening clause compress the destination phrase, compared to SN 37.9?",
+         "opts": ["It elides the middle portion, naming only \"hell\" directly before the peyyāla marker", "It restores the full four-part destination phrase", "It removes the destination phrase entirely with no mention of hell", "It expands the destination phrase with new terms"],
+         "correct": 0,
+         "expl": "The compression's own floor, not exceeded by any later discourse in the series."},
+        {"q": "What does \"dussīla,\" this discourse's own variable fifth quality, name?",
+         "opts": ["A general unethical disposition, rather than a specific act", "A specific act of theft", "Excessive talkativeness", "Fear of public speaking"],
+         "correct": 0,
+         "expl": "A return to the character-trait framing after SN 37.9's more specific focus on adultery."},
+        {"q": "Does the compression continue to deepen after this discourse?",
+         "opts": ["No — this discourse's own level of compression holds steady for the remainder of the series", "Yes — SN 37.11-13 compress even further", "The series ends immediately after this discourse", "The compression reverses, restoring full detail"],
+         "correct": 0,
+         "expl": "A settling point rather than an ongoing trend toward ever-shorter discourses."},
+        {"q": "Where does this quality's positive counterpart appear in this saṃyutta?",
+         "opts": ["SN 37.20, in the bright-side mirror vagga, Dutiyapeyyālavagga", "It has no positive counterpart anywhere in this saṃyutta", "SN 37.14, among the precept violations", "SN 37.3, among the particular sufferings"],
+         "correct": 0,
+         "expl": "Susīla, \"ethical,\" as part of this saṃyutta's own mirrored fivefold series."},
+        {"q": "What four qualities remain named in full at this discourse's own structural core?",
+         "opts": ["Faithless, shameless, imprudent, and witless", "Attractive, wealthy, ethical, and fertile", "Killing, stealing, lying, and intoxicants", "Irritable, jealous, stingy, and adulterous"],
+         "correct": 0,
+         "expl": "The four fixed qualities carried unchanged throughout the entire nine-discourse series."},
+    ],
+    marginalia=[
+        ("The compression's own floor", [
+            "only \"hell\" named directly —",
+            "not exceeded by any later discourse",
+        ]),
+        ("A trait, not a specific act", [
+            "unethical in general —",
+            "a return to character-trait framing",
+        ]),
+        ("A settling point, not a trend", [
+            "this level holds steady from here —",
+            "SN 37.11-13 will match, not exceed it",
+        ]),
+        ("A mirror already scheduled", [
+            "susīla waits at SN 37.20 —",
+            "the bright side of this same quality",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.9.html">SN 37.9 &middot; Adultery</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-37.11.html">SN 37.11 &middot; Unlearned</a> '
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 37.11 — Appassutasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 11, "Appassuta", "Unlearned",
+    vagga="Paṭhamapeyyālavagga",
+    meta_title="SN 37.11 &mdash; Unlearned | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Appassutasutta &mdash; \"unlearned\" in the template's "
+        "own fifth slot, matching SN 37.10's own settled level of "
+        "compression. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing Anuruddha"),
+        ("Form", "The same fivefold template, matching SN 37.10's "
+                 "own compression level"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, holding steady with SN 37.10"),
+    ],
+    why=(
+        "This discourse swaps &ldquo;unlearned&rdquo; (appassuta, "
+        "lacking learning or instruction) into the template's own "
+        "fifth position, matching SN 37.10's own settled level of "
+        "compression exactly rather than compressing further "
+        "&mdash; confirming this vagga has reached a stable shortened "
+        "form for the remainder of the series."
+    ),
+    guide=[
+        ("A quality about knowledge, not conduct or emotion", [
+            "Appassuta (little-heard, unlearned) names a deficiency "
+            "in learning rather than a moral failing of conduct "
+            "(dussīla) or emotional character (kodhana, issukī) "
+            "&mdash; broadening what this series' own variable slot "
+            "can hold beyond ethics and temperament alone.",
+        ]),
+        ("Confirming the compression's own stability", [
+            "This discourse's own wording matches SN 37.10's exactly "
+            "in every respect but the swapped term, confirming the "
+            "series has genuinely settled into its shortest form "
+            "rather than merely pausing before compressing further.",
+        ]),
+        ("A quality with a direct positive counterpart ahead", [
+            "Bahussuta (&ldquo;learned,&rdquo; literally &ldquo;much-"
+            "heard&rdquo;) will appear at SN 37.21 in "
+            "Dutiyapeyyālavagga as this quality's own positive "
+            "mirror.",
+        ]),
+        ("The sixth of nine, past the series' own midpoint", [
+            "With six of the nine variable qualities now named "
+            "(irritable, acrimonious, jealous, stingy, unfaithful, "
+            "unethical), this discourse's own &ldquo;unlearned&rdquo; "
+            "moves the series past its midpoint toward its own "
+            "close at SN 37.13.",
+        ]),
+    ],
+    terms=[
+        ("appassuta", "unlearned, little-heard &mdash; this "
+             "discourse's own variable fifth quality, naming a "
+             "deficiency in learning rather than conduct or "
+             "temperament"),
+        ("bahussuta", "&ldquo;learned,&rdquo; literally &ldquo;much-"
+             "heard&rdquo; &mdash; this quality's own positive "
+             "counterpart, scheduled to appear at SN 37.21"),
+        ("…pe… nirayaṁ upapajjati", "the compressed opening clause, "
+             "matching SN 37.10's own settled level of compression"),
+        ("ekādasamaṁ", "&ldquo;eleventh&rdquo; &mdash; this "
+             "discourse's own untranslated closing marker"),
+        ("assaddha... ahirika... anottāpī... duppañña", "the four "
+             "fixed qualities, unchanged throughout this entire "
+             "series"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it "
+        "&mdash; matching SN 37.10's own compression level exactly. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.11:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does \"appassuta,\" this discourse's own variable fifth quality, name?",
+         "opts": ["A deficiency in learning or instruction, rather than conduct or temperament", "A specific unethical act", "An emotional failing like anger or jealousy", "Physical weakness"],
+         "correct": 0,
+         "expl": "Broadening the variable slot beyond ethics and temperament to knowledge."},
+        {"q": "How does this discourse's own compression compare to SN 37.10's?",
+         "opts": ["Matches it exactly in every respect but the swapped term", "Compresses further, becoming even shorter", "Restores full detail, reversing the compression", "Introduces an entirely new compression pattern"],
+         "correct": 0,
+         "expl": "Confirming the series has genuinely settled into its shortest form."},
+        {"q": "What is this quality's own positive counterpart, and where does it appear?",
+         "opts": ["Bahussuta (\"learned\"), at SN 37.21", "Susīla (\"ethical\"), at SN 37.20", "Anissukī (\"not jealous\"), at SN 37.17", "This quality has no positive counterpart"],
+         "correct": 0,
+         "expl": "Literally \"much-heard,\" this quality's own positive mirror in Dutiyapeyyālavagga."},
+        {"q": "How many of the nine variable qualities have now been named, including this discourse's own?",
+         "opts": ["Six — irritable, acrimonious, jealous, stingy, unfaithful, unethical, and now unlearned", "Only two", "All nine are named by this point", "Three"],
+         "correct": 0,
+         "expl": "Moving the series past its own midpoint toward its close at SN 37.13."},
+        {"q": "What broader point does this discourse's own quality choice illustrate about the series?",
+         "opts": ["The variable slot can hold deficiencies in knowledge, not just ethics or temperament", "The series only ever names emotional failings", "The series exclusively addresses conduct within marriage", "Every quality in the series must relate to anger"],
+         "correct": 0,
+         "expl": "Appassuta broadens the range of what the fifth position names across the series."},
+    ],
+    marginalia=[
+        ("A deficiency in knowledge", [
+            "not conduct, not temperament —",
+            "the variable slot broadened further",
+        ]),
+        ("Exactly matching, not compressing further", [
+            "identical to SN 37.10 but for one word —",
+            "the series' own settled form confirmed",
+        ]),
+        ("A counterpart already named ahead", [
+            "bahussuta waits at SN 37.21 —",
+            "\"much-heard,\" this quality's own mirror",
+        ]),
+        ("Past the series' own midpoint", [
+            "six of nine now named —",
+            "moving toward the close at SN 37.13",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.10.html">SN 37.10 &middot; Unethical</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-37.12.html">SN 37.12 &middot; Lazy</a> '
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 37.12 — Kusītasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 12, "Kusīta", "Lazy",
+    vagga="Paṭhamapeyyālavagga",
+    meta_title="SN 37.12 &mdash; Lazy | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kusītasutta &mdash; \"lazy\" in the template's own fifth "
+        "slot, restoring the full destination phrase at its own "
+        "close after several compressed discourses. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing Anuruddha"),
+        ("Form", "The same fivefold template, with the closing "
+                 "destination phrase unexpectedly restored in full"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, with one small but genuine textual "
+                       "surprise"),
+    ],
+    why=(
+        "This discourse swaps &ldquo;lazy&rdquo; (kusīta, indolent "
+        "in one's efforts) into the template's own fifth position. "
+        "Bilara-data's own closing line here restores the complete "
+        "fourfold destination phrase (&ldquo;a place of loss, a bad "
+        "place, the underworld, hell&rdquo;) rather than the "
+        "single-word &ldquo;hell&rdquo; that closed SN 37.10 and SN "
+        "37.11 &mdash; a small, genuine irregularity in an otherwise "
+        "settled compression pattern, not a typo this reading guide "
+        "smooths over."
+    ),
+    guide=[
+        ("An irregularity worth noting honestly", [
+            "Having established across SN 37.10&ndash;11 that the "
+            "series had settled into its shortest closing form, this "
+            "discourse's own restoration of the full destination "
+            "phrase is a genuine deviation &mdash; this project "
+            "records what bilara-data actually preserves rather than "
+            "smoothing it into an idealized, perfectly regular "
+            "pattern.",
+        ]),
+        ("Laziness in effort, distinct from lack of learning", [
+            "Kusīta (lazy, lacking energy or effort) names a "
+            "deficiency in exertion, distinct from appassuta's own "
+            "deficiency in learning at SN 37.11 &mdash; two different "
+            "kinds of falling short occupying consecutive positions "
+            "in the series.",
+        ]),
+        ("A positive counterpart already named for this quality", [
+            "Āraddhavīriya (&ldquo;energetic,&rdquo; literally "
+            "&ldquo;with effort roused&rdquo;) will appear at SN "
+            "37.22 in Dutiyapeyyālavagga as this quality's own "
+            "positive mirror.",
+        ]),
+        ("A reminder not to over-systematize a real text", [
+            "This project's own careful tracking of the compression "
+            "pattern across SN 37.6&ndash;13 shouldn't be mistaken for "
+            "a claim that every discourse follows a perfectly clean "
+            "progression &mdash; the text itself preserves small "
+            "irregularities like this one, and this reading guide "
+            "reports them rather than silently correcting them.",
+        ]),
+    ],
+    terms=[
+        ("kusīta", "lazy, lacking energy in effort &mdash; this "
+             "discourse's own variable fifth quality"),
+        ("āraddhavīriya", "&ldquo;energetic,&rdquo; literally "
+             "&ldquo;with effort roused&rdquo; &mdash; this quality's "
+             "own positive counterpart, scheduled to appear at SN "
+             "37.22"),
+        ("apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjatī", "the full "
+             "fourfold destination phrase, restored here rather than "
+             "compressed to \"hell\" alone as in SN 37.10 and SN "
+             "37.11"),
+        ("dvādasamaṁ", "&ldquo;twelfth&rdquo; &mdash; this "
+             "discourse's own untranslated closing marker"),
+        ("assaddha... ahirika... anottāpī... duppañña", "the four "
+             "fixed qualities, unchanged throughout this entire "
+             "series"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it "
+        "&mdash; including its own genuine restoration of the full "
+        "closing destination phrase. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.12:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What textual irregularity does this discourse show, compared to SN 37.10-11?",
+         "opts": ["It restores the full fourfold destination phrase, rather than compressing it to \"hell\" alone", "It compresses even further than SN 37.10-11 did", "It removes the fivefold list entirely", "It introduces an entirely new closing formula"],
+         "correct": 0,
+         "expl": "A genuine deviation this reading guide reports honestly rather than smoothing over."},
+        {"q": "What does \"kusīta,\" this discourse's own variable fifth quality, name?",
+         "opts": ["Laziness, lacking energy or effort", "Lack of learning", "Dishonesty in speech", "Excessive pride"],
+         "correct": 0,
+         "expl": "Distinct from appassuta's own deficiency in learning at SN 37.11."},
+        {"q": "What is this quality's own positive counterpart, and where does it appear?",
+         "opts": ["Āraddhavīriya (\"energetic\"), at SN 37.22", "Bahussuta (\"learned\"), at SN 37.21", "Susīla (\"ethical\"), at SN 37.20", "This quality has no positive counterpart"],
+         "correct": 0,
+         "expl": "Literally \"with effort roused,\" scheduled to appear in Dutiyapeyyālavagga."},
+        {"q": "How does this reading guide treat the textual irregularity it identifies?",
+         "opts": ["It reports what bilara-data actually preserves, rather than smoothing it into an idealized pattern", "It assumes the irregularity is a copying error and corrects it silently", "It ignores the irregularity entirely", "It claims the irregularity proves the whole series is unreliable"],
+         "correct": 0,
+         "expl": "A deliberate choice to record the text as it stands rather than over-systematize it."},
+        {"q": "What broader lesson does this discourse illustrate about tracking compression patterns across a series?",
+         "opts": ["Real texts can preserve small irregularities that don't fit a perfectly clean progression", "Every discourse in a series must follow an identical pattern with no exceptions", "Irregularities always indicate later scribal corruption", "Compression patterns never vary within a single vagga"],
+         "correct": 0,
+         "expl": "A reminder against over-systematizing what the source material actually shows."},
+    ],
+    marginalia=[
+        ("A deviation, reported honestly", [
+            "the full destination phrase, restored —",
+            "not smoothed into a false regularity",
+        ]),
+        ("A different kind of falling short", [
+            "laziness, not lack of learning —",
+            "distinct from SN 37.11's own quality",
+        ]),
+        ("A mirror already named", [
+            "āraddhavīriya waits at SN 37.22 —",
+            "\"energetic,\" this quality's own counterpart",
+        ]),
+        ("A text, not an idealized system", [
+            "small irregularities, preserved as they stand —",
+            "reported rather than silently corrected",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.11.html">SN 37.11 &middot; Unlearned</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-37.13.html">SN 37.13 &middot; Unmindful</a> '
+        "&mdash; the next discourse, closing this nine-discourse "
+        "series.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 37.13 — Muṭṭhassatisutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 13, "Muṭṭhassati", "Unmindful",
+    vagga="Paṭhamapeyyālavagga",
+    meta_title="SN 37.13 &mdash; Unmindful | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Muṭṭhassatisutta &mdash; \"unmindful\" closing the "
+        "nine-discourse fivefold template series opened at SN 37.5. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing Anuruddha"),
+        ("Form", "The same fivefold template, closing the series"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, closing a nine-discourse arc"),
+    ],
+    why=(
+        "This discourse swaps &ldquo;unmindful&rdquo; (muṭṭhassati, "
+        "forgetful, lacking mindfulness) into the template's own "
+        "fifth position, closing the nine-discourse series opened at "
+        "SN 37.5. Across these nine discourses, the variable fifth "
+        "slot has now held emotional failings (irritable, "
+        "acrimonious, jealous), an ethical failing tied to money "
+        "(stingy), a specific marital violation (unfaithful), a "
+        "general moral disposition (unethical), and deficiencies in "
+        "learning, effort, and now mindfulness &mdash; nine distinct "
+        "kinds of falling short, all held together by the same four "
+        "fixed qualities."
+    ),
+    guide=[
+        ("Mindfulness, the last of nine distinct failings", [
+            "Muṭṭhassati (literally &ldquo;confused "
+            "mindfulness,&rdquo; meaning forgetful or unmindful) "
+            "closes the series on a quality this project has already "
+            "met treated as a central spiritual faculty in its own "
+            "right elsewhere in this book, not merely a minor lapse.",
+        ]),
+        ("Nine qualities, four categories of falling short", [
+            "Looking back across the whole series: three emotional "
+            "qualities (kodhana, upanāhī, issukī), one financial "
+            "(maccharī), one specifically marital (aticārī), one "
+            "broadly ethical (dussīla), and three cognitive or "
+            "practical (appassuta, kusīta, muṭṭhassati) &mdash; the "
+            "variable slot ranges far more widely than a single "
+            "theme.",
+        ]),
+        ("A positive counterpart closing the mirror series too", [
+            "Upaṭṭhitassati (&ldquo;established mindfulness,&rdquo; "
+            "this quality's own positive counterpart) will close its "
+            "own equivalent position at SN 37.23 in "
+            "Dutiyapeyyālavagga, before that vagga's own final "
+            "discourse (SN 37.24) shifts to yet another framework "
+            "entirely.",
+        ]),
+        ("A series now complete, with one discourse left in this "
+         "vagga", [
+            "With this discourse, the nine-part fivefold template "
+            "series (SN 37.5&ndash;13) is finished; SN 37.14 will "
+            "close Paṭhamapeyyālavagga itself with a different, "
+            "precept-based fivefold list and this vagga's own "
+            "colophon.",
+        ]),
+    ],
+    terms=[
+        ("muṭṭhassati", "unmindful, forgetful &mdash; literally "
+             "&ldquo;confused mindfulness,&rdquo; this discourse's "
+             "own variable fifth quality and the series' own final "
+             "one"),
+        ("upaṭṭhitassati", "&ldquo;established mindfulness&rdquo; "
+             "&mdash; this quality's own positive counterpart, "
+             "closing the equivalent position in the mirror series "
+             "at SN 37.23"),
+        ("assaddha... ahirika... anottāpī... duppañña", "the four "
+             "fixed qualities, carried unchanged across all nine "
+             "discourses of this series"),
+        ("terasamaṁ", "&ldquo;thirteenth&rdquo; &mdash; this "
+             "discourse's own untranslated closing marker, its "
+             "position within Paṭhamapeyyālavagga as a whole"),
+        ("…pe… nirayaṁ upapajjati", "the compressed formula, "
+             "returning to the shortened destination phrase after SN "
+             "37.12's own irregular restoration"),
+    ],
+    text_intro=("The complete discourse as bilara-data preserves it "
+        "&mdash; closing this nine-discourse fivefold template "
+        "series. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.13:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What quality does this discourse's own variable fifth position name, closing the series?",
+         "opts": ["Unmindful, forgetful (muṭṭhassati)", "Unethical (dussīla)", "Lazy (kusīta)", "Stingy (maccharī)"],
+         "correct": 0,
+         "expl": "Literally \"confused mindfulness\" — the series' own final variable quality."},
+        {"q": "How many distinct kinds of falling short has the variable slot named across the whole nine-discourse series?",
+         "opts": ["Nine — spanning emotional, financial, marital, ethical, and cognitive/practical categories", "Only one repeated quality throughout", "Two, alternating back and forth", "Nine identical qualities with different names"],
+         "correct": 0,
+         "expl": "A range far wider than a single theme: irritability, grudges, jealousy, stinginess, infidelity, general ethics, and three deficiencies of learning, effort, and mindfulness."},
+        {"q": "Where does this quality's own positive counterpart close an equivalent series?",
+         "opts": ["SN 37.23, in the bright-side mirror vagga, Dutiyapeyyālavagga", "SN 37.14, closing this same vagga", "It has no positive counterpart anywhere in this saṃyutta", "SN 37.34, closing the entire saṃyutta"],
+         "correct": 0,
+         "expl": "Upaṭṭhitassati, \"established mindfulness,\" closing the equivalent position in the mirror series."},
+        {"q": "What happens immediately after this discourse in Paṭhamapeyyālavagga?",
+         "opts": ["SN 37.14 closes the vagga with a different, precept-based fivefold list and the vagga's own colophon", "The vagga ends immediately with no further discourses", "The nine-discourse series simply repeats from the beginning", "A new saṃyutta begins immediately"],
+         "correct": 0,
+         "expl": "A distinct framework (the five precepts) rather than a continuation of the same template."},
+        {"q": "What four qualities remain constant across all nine discourses of this series, including this one?",
+         "opts": ["Faithless, shameless, imprudent, and witless", "Attractive, wealthy, ethical, and fertile", "Killing, stealing, lying, and intoxicants", "Irritable, jealous, stingy, and unfaithful"],
+         "correct": 0,
+         "expl": "The four fixed qualities anchoring the entire series from SN 37.5 through this closing discourse."},
+    ],
+    marginalia=[
+        ("The ninth and final failing", [
+            "muṭṭhassati, unmindful —",
+            "closing a series of nine distinct qualities",
+        ]),
+        ("A wider range than one theme", [
+            "emotional, financial, marital, ethical, cognitive —",
+            "nine kinds of falling short, not one repeated",
+        ]),
+        ("A mirror closing its own series too", [
+            "upaṭṭhitassati at SN 37.23 —",
+            "established mindfulness, the counterpart",
+        ]),
+        ("One vagga discourse still to come", [
+            "the nine-part series now finished —",
+            "SN 37.14 closes with a different framework",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.13/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.12.html">SN 37.12 &middot; Lazy</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-37.14.html">SN 37.14 &middot; Five Threats</a> '
+        "&mdash; the next and final discourse of Paṭhamapeyyālavagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 37.14 — Pañcaverasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 14, "Pañcavera", "Five Threats",
+    vagga="Paṭhamapeyyālavagga",
+    meta_title="SN 37.14 &mdash; Five Threats | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pañcaverasutta &mdash; the five precepts recast as five "
+        "threats leading to unfavorable rebirth, closing "
+        "Paṭhamapeyyālavagga with its own colophon naming the whole "
+        "vagga \"declared on the dark side.\" From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha, addressing Anuruddha"),
+        ("Form", "A fivefold list built from the five precepts, "
+                 "closed by the vagga's own colophon and uddāna"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a shift to more universal ethical territory, "
+                       "closing the vagga in full"),
+    ],
+    why=(
+        "This discourse closes Paṭhamapeyyālavagga with a different "
+        "fivefold list from the nine-discourse template series just "
+        "finished: killing living creatures, stealing, sexual "
+        "misconduct, lying, and consuming alcohol &mdash; the five "
+        "precepts (pañcasīla) recast in their broken form as "
+        "&ldquo;five threats&rdquo; (pañcavera) leading to unfavorable "
+        "rebirth. Unlike SN 37.5&ndash;13's own fixed-plus-variable "
+        "template, this fivefold list is built entirely from "
+        "universal ethical training applicable to any Buddhist "
+        "practitioner, not qualities specific to this saṃyutta's own "
+        "subject. The vagga's own closing uddāna then names the whole "
+        "collection outright: &ldquo;declared on the dark side.&rdquo;"
+    ),
+    guide=[
+        ("A shift from character traits to universal precepts", [
+            "Where the previous nine discourses named traits like "
+            "irritability or stinginess specific to this template's "
+            "own variable slot, this discourse's own fivefold list "
+            "is simply the five precepts every lay Buddhist "
+            "practitioner, of any gender, is asked to keep &mdash; "
+            "the ethical content itself is not particular to women "
+            "at all.",
+        ]),
+        ("The same consequence-clause, applied to universal ethics",
+         [
+            "The identical rebirth-consequence formula that closed "
+            "SN 37.5&ndash;13's own gender-specific character catalogs "
+            "here closes a list built from ordinary Buddhist ethical "
+            "training &mdash; the underlying claim is that breaking "
+            "these five precepts leads to unfavorable rebirth "
+            "regardless of who breaks them, even though this "
+            "particular discourse frames the consequence for women.",
+        ]),
+        ("A vagga that names its own moral register outright", [
+            "The vagga's own closing colophon (&ldquo;"
+            "Paṭhamapeyyālavaggo&rdquo;) and uddāna list all "
+            "fourteen discourses in sequence before closing with "
+            "&ldquo;kaṇhapakkhe pakāsito&rdquo; &mdash; &ldquo;"
+            "declared on the dark side&rdquo; &mdash; the text's own "
+            "explicit acknowledgment that everything in this vagga "
+            "represents one moral valence, not the saṃyutta's own "
+            "complete or final word.",
+        ]),
+        ("A bright counterpart already promised by the text itself",
+         [
+            "Having named its own material &ldquo;dark,&rdquo; the "
+            "vagga's own colophon sets up an expectation this project "
+            "will test directly at Dutiyapeyyālavagga (SN "
+            "37.15&ndash;24), which reverses every quality named in "
+            "this vagga's own nine-discourse template series into its "
+            "own positive counterpart.",
+        ]),
+    ],
+    terms=[
+        ("pañcavera", "&ldquo;five threats&rdquo; or &ldquo;five "
+             "enmities&rdquo; &mdash; this discourse's own title, "
+             "naming the broken form of the five precepts"),
+        ("pāṇātipātī... adinnādāyī... kāmesumicchācārī... "
+             "musāvādī... surāmerayamajjapamādaṭṭhāyī", "killing, "
+             "stealing, sexual misconduct, lying, and consuming "
+             "intoxicants &mdash; the five precepts named here in "
+             "their broken, negative form"),
+        ("Paṭhamapeyyālavaggo", "the vagga's own name, "
+             "&ldquo;the first chapter of abbreviated texts,&rdquo; "
+             "confirmed in the colophon closing this discourse"),
+        ("kaṇhapakkhe pakāsito", "&ldquo;declared on the dark "
+             "side&rdquo; &mdash; the vagga's own uddāna closing on "
+             "this explicit self-description, naming its own moral "
+             "register directly"),
+        ("cuddasamaṁ", "&ldquo;fourteenth&rdquo; &mdash; this "
+             "discourse's own untranslated closing marker, its "
+             "position as the vagga's own final discourse"),
+    ],
+    text_intro=("The complete discourse: the five precepts recast as "
+        "threats leading to unfavorable rebirth. The vagga's own "
+        "closing colophon and uddāna, left untranslated in the Pali "
+        "root, are described rather than quoted above. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.14:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five items make up this discourse's own \"five threats\"?",
+         "opts": ["Killing, stealing, sexual misconduct, lying, and consuming intoxicants — the five precepts in broken form", "Irritability, jealousy, stinginess, infidelity, and laziness", "Faithlessness, shamelessness, imprudence, and witlessness plus one variable term", "Five specific named individuals"],
+         "correct": 0,
+         "expl": "Pañcasīla, the five precepts every lay Buddhist practitioner is asked to keep, recast as threats when broken."},
+        {"q": "How does this discourse's ethical content differ from SN 37.5-13's own template series?",
+         "opts": ["It is built from universal precepts applicable to any practitioner, not traits specific to this saṃyutta's own subject", "It is identical in content to the previous nine discourses", "It applies exclusively to monks, never to laypeople", "It removes any mention of rebirth consequences"],
+         "correct": 0,
+         "expl": "The ethical content itself is not particular to women at all, unlike the character-trait catalogs before it."},
+        {"q": "What does this vagga's own closing uddāna call the entire collection?",
+         "opts": ["\"Kaṇhapakkhe pakāsito\" — declared on the dark side", "\"The chapter of universal virtues\"", "The uddāna gives no description of the vagga's own register", "\"Sukkapakkha\" — the bright side"],
+         "correct": 0,
+         "expl": "The text's own explicit acknowledgment that this vagga represents one moral valence, not the saṃyutta's final word."},
+        {"q": "What does this closing colophon set up an expectation for?",
+         "opts": ["Dutiyapeyyālavagga (SN 37.15-24), which reverses every quality from the template series into its own positive counterpart", "A repeat of the same nine-discourse series with no changes", "The immediate end of the entire saṃyutta", "A shift to an entirely unrelated topic with no connection to this vagga"],
+         "correct": 0,
+         "expl": "Having named its own material \"dark,\" the text implies a bright counterpart is still to come."},
+        {"q": "How does the consequence-clause in this discourse compare to the one used in SN 37.5-13?",
+         "opts": ["The identical rebirth-consequence formula, now applied to universal ethics rather than gender-specific character traits", "An entirely different, harsher consequence is named", "No consequence is named in this discourse", "The consequence is reversed to describe a favorable rebirth"],
+         "correct": 0,
+         "expl": "The same underlying claim about unfavorable rebirth, now applied to broken precepts rather than character catalogs."},
+    ],
+    marginalia=[
+        ("From traits to universal precepts", [
+            "the five precepts, broken —",
+            "ethical content shared by any practitioner",
+        ]),
+        ("The same consequence, a different content", [
+            "unfavorable rebirth, now for broken precepts —",
+            "not gender-specific character traits",
+        ]),
+        ("A vagga naming its own register", [
+            "\"declared on the dark side\" —",
+            "the text's own explicit self-description",
+        ]),
+        ("A bright counterpart, already promised", [
+            "the next vagga reverses every quality —",
+            "the text sets up its own expectation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.14/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.13.html">SN 37.13 &middot; Unmindful</a> '
+        "&mdash; the previous discourse.",
+        '<a href="sn-41.1.html">SN 41.1 &middot; The Fetter</a> '
+        "&mdash; already published on this site, standing ahead of "
+        "this saṃyutta's own second vagga, Dutiyapeyyālavagga (SN "
+        "37.15&ndash;24), the bright-side mirror of this vagga's own "
+        "nine-discourse template series, not yet built.",
     ],
 )
