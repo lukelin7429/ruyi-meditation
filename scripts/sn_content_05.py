@@ -3987,3 +3987,1250 @@ page(
         "(SN 45.31&ndash;40), not yet built.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# Paṭipattivagga (SN 45.31-40, "The Chapter on Practice") is this
+# saṃyutta's own fourth vagga, confirmed by direct reading to be all
+# ten individual files, no peyyāla merges. Structurally this vagga
+# opens by genuinely repeating content: SN 45.31's own wrong/right
+# practice pairing is confirmed by direct comparison to be
+# word-for-word identical to SN 45.23's own content in the preceding
+# vagga, not a coincidence of shared vocabulary -- this reading guide
+# notes the repetition honestly. SN 45.32 shifts to a person-based
+# framing distinct from SN 45.25's own asappurisa/sappurisa pairing
+# (character), naming instead one "practicing wrongly" or "practicing
+# rightly" (the act itself, not an identity). SN 45.33 (missed out)
+# and SN 45.34 (going to the far shore, with a genuine closing verse)
+# are this vagga's own two pieces of new material before it settles
+# into a confirmed 3x2 matrix for its own final six discourses: three
+# names for the spiritual path (the ascetic life, the brahmin life,
+# the spiritual path itself) each crossed with two targets (its own
+# fruits -- the four stages of awakening -- or its own goal -- the
+# ending of greed, hate, and delusion), all six sharing the identical
+# eightfold-path definition, confirmed by reading all six discourses
+# directly rather than assumed from the first pair alone.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 45.31 — Paṭhamapaṭipattisutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 31, "Paṭipatti", "Practice (1st)",
+    vagga="Paṭipattivagga",
+    meta_title="SN 45.31 — Practice (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamapaṭipattisutta &mdash; opening a new vagga with "
+        "content confirmed word-for-word identical to SN 45.23's own "
+        "wrong/right practice pairing. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single teach-you announcement, defining the "
+                 "wrong and right eightfold paths side by side"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "very short, a direct pairing"),
+    ],
+    why=(
+        "This discourse opens Paṭipattivagga, this saṃyutta's own "
+        "fourth vagga, and is confirmed by direct comparison to be "
+        "word-for-word identical to SN 45.23's own content in the "
+        "preceding vagga &mdash; not a coincidence of shared "
+        "vocabulary but the same wrong/right practice pairing, given "
+        "again under this vagga's own governing theme. This reading "
+        "guide notes the repetition honestly rather than inventing a "
+        "distinction the text itself does not support."
+    ),
+    guide=[
+        ("A genuine repeat, confirmed rather than assumed", [
+            "Read side by side, this discourse's own text matches SN "
+            "45.23's own &ldquo;wrong practice... right "
+            "practice&rdquo; definition exactly, confirmed by direct "
+            "comparison of both discourses' own wording &mdash; the "
+            "two are not merely similar in theme but identical in "
+            "content.",
+        ]),
+        ("Why the repetition may still make sense", [
+            "This vagga's own name, Paṭipattivagga (&ldquo;the "
+            "chapter on practice&rdquo;), takes its own theme "
+            "directly from paṭipadā/paṭipatti (practice); opening "
+            "with the identical definition already given once in "
+            "Micchattavagga may function as this vagga's own "
+            "foundational restatement before its own genuinely new "
+            "material begins at SN 45.33, though this discourse "
+            "itself offers no explicit comment on why the repetition "
+            "occurs.",
+        ]),
+    ],
+    terms=[
+        ("micchāpaṭipadā... sammāpaṭipadā", "&ldquo;wrong "
+             "practice... right practice&rdquo; &mdash; the identical "
+             "terms and definitions already given at SN 45.23"),
+        ("paṭipatti", "&ldquo;practice&rdquo; &mdash; the term "
+             "giving this vagga its own name, Paṭipattivagga"),
+        ("micchādiṭṭhi... micchāsamādhi", "&ldquo;wrong view... "
+             "wrong immersion&rdquo; &mdash; the eight factors "
+             "defining wrong practice, unchanged from SN 45.23's own"),
+        ("sammādiṭṭhi... sammāsamādhi", "&ldquo;right view... right "
+             "immersion&rdquo; &mdash; the eight factors defining "
+             "right practice, unchanged from SN 45.23's own"),
+        ("paṭipattivaggo", "this vagga's own name, taken from this "
+             "discourse's own opening term, confirmed by the vagga's "
+             "own closing uddāna"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.31:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own content compare to SN 45.23's own?",
+         "opts": ["Confirmed word-for-word identical, not merely similar in theme", "Completely unrelated", "Similar in theme but with a different list of factors", "The opposite claim of SN 45.23's own"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison of both discourses' own wording — a genuine repetition, noted honestly."},
+        {"q": "What does this vagga's own name, Paṭipattivagga, come from?",
+         "opts": ["This discourse's own term \"practice\" (paṭipatti)", "A place name", "The name of a questioner", "An unrelated later addition"],
+         "correct": 0,
+         "expl": "Confirmed by the vagga's own closing uddāna."},
+        {"q": "Does this discourse explicitly explain why it repeats SN 45.23's own content?",
+         "opts": ["No — this reading guide offers a possible reason, but the discourse itself gives no explicit comment", "Yes, in detail", "Yes, but only in the vagga's own closing colophon", "The discourse denies any relationship to SN 45.23"],
+         "correct": 0,
+         "expl": "A possible explanation is offered honestly as a guess, not presented as something the text itself states."},
+    ],
+    marginalia=[
+        ("A genuine repeat, not a coincidence", [
+            "word-for-word identical to SN 45.23 —",
+            "confirmed by direct comparison",
+        ]),
+        ("A new vagga's own foundational restatement", [
+            "\"practice\" — this vagga's own name —",
+            "opening with what was already established",
+        ]),
+        ("No explicit comment given", [
+            "the discourse itself is silent on why —",
+            "this reading guide's own reason is a guess",
+        ]),
+        ("New material still ahead", [
+            "SN 45.33 begins genuinely new content —",
+            "this discourse and SN 45.32 are this vagga's own opening",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.31/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.30.html\">SN 45.30 &middot; With "
+        "Uttiya</a> &mdash; the previous discourse, closing "
+        "Micchattavagga.",
+        "<a href=\"sn-45.23.html\">SN 45.23 &middot; Practice "
+        "(1st)</a> &mdash; the earlier discourse this one repeats "
+        "word for word.",
+        "<a href=\"sn-45.32.html\">SN 45.32 &middot; Practice "
+        "(2nd)</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.32 — Dutiyapaṭipattisutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 32, "Paṭipanna", "Practice (2nd)",
+    vagga="Paṭipattivagga",
+    meta_title="SN 45.32 — Practice (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyapaṭipattisutta &mdash; the identical eightfold "
+        "content, framed as one practicing wrongly or rightly, "
+        "distinct from character-based framings elsewhere in this "
+        "saṃyutta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical eight-factor content, framed by act "
+                 "of practice rather than by a static way, practice, "
+                 "or character"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "very short, a direct pairing"),
+    ],
+    why=(
+        "This discourse frames the identical eight wrong and eight "
+        "right factors as describing &ldquo;one practicing "
+        "wrongly&rdquo; and &ldquo;one practicing rightly&rdquo; "
+        "(micchāpaṭipanno/sammāpaṭipanno) &mdash; a framing this "
+        "project confirms by direct comparison is distinct from SN "
+        "45.25's own asappurisa/sappurisa (an untrue/true person): "
+        "there, character or identity; here, the ongoing act of "
+        "practicing itself."
+    ),
+    guide=[
+        ("Practicing, not simply being", [
+            "Paṭipanna (practicing, one who has undertaken the "
+            "practice) names an activity someone is engaged in, "
+            "distinct from SN 45.25's own sappurisa (a kind of "
+            "person one is), confirmed by comparing the grammatical "
+            "form of both terms directly &mdash; a participle "
+            "describing action versus a noun describing character.",
+        ]),
+        ("A genuinely distinct framing, not another repeat", [
+            "Unlike SN 45.31's own word-for-word repeat of SN 45.23, "
+            "this discourse's own paṭipanna framing does not "
+            "duplicate any earlier discourse in this saṃyutta, "
+            "confirmed by checking this specific term against SN "
+            "45.21&ndash;30's own vocabulary &mdash; a genuinely new "
+            "angle even within this vagga's own repetitive opening.",
+        ]),
+    ],
+    terms=[
+        ("micchāpaṭipanno", "&ldquo;one practicing wrongly&rdquo; "
+             "&mdash; someone engaged in the wrong eightfold path, "
+             "framed as an ongoing activity rather than a fixed "
+             "identity"),
+        ("sammāpaṭipanno", "&ldquo;one practicing rightly&rdquo; "
+             "&mdash; the mirrored term for the right eightfold path"),
+        ("asappurisa/sappurisa", "&ldquo;an untrue/true person&rdquo; "
+             "&mdash; SN 45.25's own character-based framing, "
+             "distinct from this discourse's own action-based one"),
+        ("micchādiṭṭhi... micchāsamādhi", "&ldquo;wrong view... "
+             "wrong immersion&rdquo; &mdash; the eight factors, "
+             "unchanged from this vagga's own opening discourse"),
+        ("sammādiṭṭhi... sammāsamādhi", "&ldquo;right view... right "
+             "immersion&rdquo; &mdash; the eight factors, unchanged "
+             "from this vagga's own opening discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.32:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own framing differ from SN 45.25's own asappurisa/sappurisa pairing?",
+         "opts": ["It describes an ongoing activity (practicing) rather than a fixed character (a kind of person)", "It uses a completely different set of eight factors", "It applies only to laypeople, not mendicants", "There is no difference — the terms are synonyms"],
+         "correct": 0,
+         "expl": "Confirmed by comparing the grammatical form of both terms — a participle describing action versus a noun describing character."},
+        {"q": "Is this discourse another word-for-word repeat, like SN 45.31?",
+         "opts": ["No — its own paṭipanna framing is genuinely distinct from any earlier discourse in this saṃyutta", "Yes, it repeats SN 45.31 exactly", "Yes, it repeats SN 45.25 exactly", "It repeats SN 45.21's own content"],
+         "correct": 0,
+         "expl": "Confirmed by checking this specific term against SN 45.21-30's own vocabulary — a genuinely new angle."},
+        {"q": "What are the eight factors that define \"one practicing wrongly\"?",
+         "opts": ["Wrong view, purpose, speech, action, livelihood, effort, mindfulness, and immersion", "A different set unique to this discourse", "Only four factors, not eight", "The discourse does not specify"],
+         "correct": 0,
+         "expl": "Unchanged from this vagga's own opening discourse."},
+    ],
+    marginalia=[
+        ("Practicing, not being", [
+            "an activity, not a character —",
+            "distinct from SN 45.25's own \"true person\"",
+        ]),
+        ("A genuinely new angle", [
+            "not another word-for-word repeat —",
+            "checked against this saṃyutta's own vocabulary",
+        ]),
+        ("The same eight factors, once more", [
+            "wrong view through wrong immersion —",
+            "framed here as ongoing practice",
+        ]),
+        ("Second of this vagga's own opening pair", [
+            "SN 45.33 begins genuinely new content next —",
+            "this vagga's own repetitive opening closes here",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.32/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.31.html\">SN 45.31 &middot; Practice "
+        "(1st)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.33.html\">SN 45.33 &middot; Missed "
+        "Out</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.33 — Virādhitasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 33, "Virādhita", "Missed Out",
+    vagga="Paṭipattivagga",
+    meta_title="SN 45.33 — Missed Out | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Virādhitasutta &mdash; genuinely new material in this "
+        "vagga, a stark equation between missing the eightfold path "
+        "and missing the way out of suffering entirely. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single stark equation, stated and then repeated "
+                 "at the close"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but a stark and totalizing claim"),
+    ],
+    why=(
+        "After two discourses genuinely repeating earlier content, "
+        "this discourse states something new and stark: to miss out "
+        "on the noble eightfold path is to miss out on &ldquo;the "
+        "noble path to the complete ending of suffering&rdquo; itself "
+        "&mdash; no partial credit, no alternative route implied. "
+        "Undertaking the path and undertaking the complete ending of "
+        "suffering are treated as one and the same act, not two "
+        "separate achievements."
+    ),
+    guide=[
+        ("No gap between the path and its own destination", [
+            "&ldquo;Whoever has missed out on the noble eightfold "
+            "path has missed out on the noble path to the complete "
+            "ending of suffering&rdquo; equates the two directly, "
+            "with no intermediate step implied &mdash; confirmed by "
+            "reading the discourse's own single sentence directly, "
+            "missing the path is not described as merely making the "
+            "ending harder to reach, but as missing it outright.",
+        ]),
+        ("A claim stated twice, framing the whole discourse", [
+            "The identical equation opens the discourse and closes "
+            "it again after the path's own eight factors are listed, "
+            "confirmed by reading both instances directly &mdash; a "
+            "structural echo of SN 45.27's own pot-stand simile, "
+            "which similarly framed its own content with a repeated "
+            "opening and closing statement.",
+        ]),
+        ("Virādhita, a term with real weight", [
+            "&ldquo;Missed out on&rdquo; (virādhita) carries a "
+            "stronger sense than simply &ldquo;not yet begun&rdquo; "
+            "&mdash; closer to having failed at or been deprived of "
+            "something, giving this discourse's own short claim real "
+            "weight despite its brevity.",
+        ]),
+    ],
+    terms=[
+        ("virādhito", "&ldquo;missed out on&rdquo; &mdash; this "
+             "discourse's own central term, giving it its own name, "
+             "carrying a stronger sense than merely \"not yet begun\""),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, this "
+             "discourse's own subject"),
+        ("ariyo dukkhakkhayagāmimaggo", "&ldquo;the noble path to "
+             "the complete ending of suffering&rdquo; &mdash; the "
+             "path directly equated with the eightfold path, with no "
+             "gap between them"),
+        ("āraddho", "&ldquo;undertaken&rdquo; &mdash; the mirrored "
+             "positive term, whoever has undertaken the eightfold "
+             "path has undertaken the path to suffering's own ending"),
+        ("sammādiṭṭhi... sammāsamādhi", "&ldquo;right view... right "
+             "immersion&rdquo; &mdash; the eight factors defining "
+             "what exactly has been missed out on or undertaken"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.33:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What does this discourse equate with missing out on the noble eightfold path?",
+         "opts": ["Missing out on the noble path to the complete ending of suffering itself", "A minor setback, easily corrected later", "Nothing significant — the two are unrelated", "Only a temporary delay in progress"],
+         "correct": 0,
+         "expl": "A direct equation with no intermediate step or gap implied."},
+        {"q": "How does this discourse structure its own claim?",
+         "opts": ["States it once at the opening, then repeats it identically after listing the eight factors", "States it only once, at the very end", "Never explicitly states the claim, only implies it", "States two contradictory claims"],
+         "correct": 0,
+         "expl": "A structural echo of SN 45.27's own pot-stand simile, similarly framed with a repeated opening and closing statement."},
+        {"q": "What does \"missed out on\" (virādhita) suggest, according to this reading guide?",
+         "opts": ["A stronger sense than merely \"not yet begun\" — closer to having failed at or been deprived of something", "A neutral, weightless term with no particular emphasis", "Something reversible with no real consequence", "A term used only for lay practitioners, not mendicants"],
+         "correct": 0,
+         "expl": "Giving this discourse's own short claim real weight despite its brevity."},
+    ],
+    marginalia=[
+        ("No gap, no partial credit", [
+            "missing the path — missing the ending itself —",
+            "the two equated directly",
+        ]),
+        ("Stated twice, framing the whole", [
+            "opening and closing, identical —",
+            "echoing SN 45.27's own pot-stand structure",
+        ]),
+        ("A word with real weight", [
+            "\"missed out on\" — not merely \"not yet begun\" —",
+            "closer to genuine loss",
+        ]),
+        ("Genuinely new content, at last", [
+            "after two discourses restating earlier material —",
+            "this vagga's own first fresh claim",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.33/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.32.html\">SN 45.32 &middot; Practice "
+        "(2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.34.html\">SN 45.34 &middot; Going to the "
+        "Far Shore</a> &mdash; the next discourse, closing with a "
+        "genuine verse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.34 — Pāraṅgamasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 34, "Pāraṅgama", "Going to the Far Shore",
+    vagga="Paṭipattivagga",
+    meta_title="SN 45.34 — Going to the Far Shore | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pāraṅgamasutta &mdash; prose naming the eightfold path "
+        "as what carries one to the far shore, closed by a genuine "
+        "seven-stanza verse. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A short prose statement, then a substantial closing "
+                 "verse in the Buddha's own voice"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a genuine poem, richer imagery than this "
+                       "vagga's own prose discourses"),
+    ],
+    why=(
+        "After SN 45.33's own stark prose equation, this discourse "
+        "gives the identical &ldquo;near shore to far shore&rdquo; "
+        "image a full poetic treatment: a seven-stanza verse "
+        "describing how few people actually cross, what leaving "
+        "sensual pleasure and ownership behind requires, and a "
+        "closing image of those &ldquo;quenched in this world&rdquo; "
+        "&mdash; genuinely richer imagery than this vagga's own "
+        "prose discourses, and this project's own first mention "
+        "within this vagga of the awakening factors alongside the "
+        "eightfold path."
+    ),
+    guide=[
+        ("A brief prose frame, then a real poem", [
+            "The prose section is minimal &mdash; the eightfold path "
+            "leads &ldquo;from the near shore to the far shore&rdquo; "
+            "&mdash; before the Buddha, in the verse-introduction "
+            "formula this project has met before (&ldquo;the Holy "
+            "One, the Teacher, went on to say&rdquo;), delivers seven "
+            "full stanzas developing the image at real length.",
+        ]),
+        ("Few cross; most run in circles", [
+            "&ldquo;Few are those among humans who cross to the far "
+            "shore. The rest just run around on the near shore&rdquo; "
+            "opens the verse with a genuinely bleak observation, "
+            "confirmed by reading it directly &mdash; not softened "
+            "into universal optimism.",
+        ]),
+        ("What crossing actually requires, named concretely", [
+            "Leaving home, seclusion, renouncing sensual pleasures, "
+            "owning nothing, cleansing mental corruptions &mdash; "
+            "the verse names concrete renunciate practice rather "
+            "than abstract virtue, confirmed by reading its own "
+            "middle stanzas directly.",
+        ]),
+        ("The awakening factors, mentioned for the first time in "
+                "this vagga", [
+            "&ldquo;Those whose minds are rightly developed in the "
+            "awakening factors&rdquo; introduces a framework (the "
+            "seven awakening factors, bojjhaṅga) this project has "
+            "not yet seen named within this specific vagga, "
+            "confirmed by checking SN 45.31&ndash;33's own vocabulary "
+            "directly &mdash; the verse's own closing image widens "
+            "beyond the eightfold path alone.",
+        ]),
+    ],
+    terms=[
+        ("orimā tīrā pārimaṁ tīraṁ", "&ldquo;from the near shore to "
+             "the far shore&rdquo; &mdash; this discourse's own "
+             "central image, given brief prose treatment before its "
+             "own full verse expansion"),
+        ("appakā te manussesu ye janā pāragāmino", "&ldquo;few are "
+             "those among humans who cross to the far shore&rdquo; "
+             "&mdash; the verse's own genuinely bleak opening "
+             "observation"),
+        ("akiñcano", "&ldquo;owning nothing&rdquo; &mdash; one of "
+             "the concrete renunciate practices the verse names on "
+             "the way to crossing"),
+        ("bojjhaṅgesu susamāhitā", "&ldquo;rightly developed in the "
+             "awakening factors&rdquo; &mdash; a framework this "
+             "project has not yet seen named within this vagga, "
+             "widening the verse's own closing image beyond the "
+             "eightfold path alone"),
+        ("parinibbutā", "&ldquo;quenched&rdquo; &mdash; the verse's "
+             "own closing description of those who have crossed, "
+             "\"in this world\" rather than deferred to some future "
+             "state"),
+    ],
+    text_intro=("The complete discourse, prose and verse both given "
+        "in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The near shore and the far shore, in prose"),
+        ("p", "&sect;1", "sn45.34:1.1-1.5"),
+        ("h3", "The Buddha's own closing verse"),
+        ("p", "&sect;2", "sn45.34:2.1-7.6"),
+    ],
+    quiz=[
+        {"q": "What does the verse's own opening say about people crossing to the far shore?",
+         "opts": ["Few actually cross; most just run around on the near shore", "Everyone eventually crosses given enough time", "Crossing is impossible for anyone", "Only monks, never laypeople, can cross"],
+         "correct": 0,
+         "expl": "A genuinely bleak observation, not softened into universal optimism."},
+        {"q": "What framework does this verse mention that this project has not yet seen named within this specific vagga?",
+         "opts": ["The seven awakening factors (bojjhaṅga)", "The four noble truths", "The five aggregates", "The six sense fields"],
+         "correct": 0,
+         "expl": "Confirmed by checking SN 45.31-33's own vocabulary directly — a genuine widening of the verse's own closing image."},
+        {"q": "How does this discourse's own form compare to SN 45.33's own?",
+         "opts": ["A brief prose frame followed by a substantial seven-stanza verse, richer than SN 45.33's own single prose statement", "Identical prose-only form, no verse at all", "Verse only, with no prose introduction", "A much shorter treatment than SN 45.33's own"],
+         "correct": 0,
+         "expl": "Genuinely richer imagery, developing the same near-shore/far-shore image at real poetic length."},
+    ],
+    marginalia=[
+        ("Few cross; most circle", [
+            "a bleak opening, not softened —",
+            "the rest \"just run around\"",
+        ]),
+        ("Concrete practice, not abstraction", [
+            "leaving home, owning nothing —",
+            "renunciate practice, named directly",
+        ]),
+        ("A new framework enters this vagga", [
+            "the awakening factors, mentioned at last —",
+            "beyond the eightfold path alone",
+        ]),
+        ("Quenched in this world, not deferred", [
+            "\"parinibbutā\" — here, now —",
+            "not a promise for some future life",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.34/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.33.html\">SN 45.33 &middot; Missed "
+        "Out</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.35.html\">SN 45.35 &middot; The Ascetic "
+        "Life (1st)</a> &mdash; the next discourse, opening a "
+        "three-way matrix of six discourses closing this vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.35 — Paṭhamasāmaññasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 35, "Sāmañña", "The Ascetic Life (1st)",
+    vagga="Paṭipattivagga",
+    meta_title="SN 45.35 — The Ascetic Life (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasāmaññasutta &mdash; the ascetic life defined as "
+        "the eightfold path itself, its fruits named as the four "
+        "stages of awakening. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The first of six discourses closing this vagga in "
+                 "a confirmed 3&times;2 matrix"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "very short, a direct pairing"),
+    ],
+    why=(
+        "Opening this vagga's own closing run of six discourses, "
+        "this one defines &ldquo;the ascetic life&rdquo; (sāmañña) "
+        "not as a lifestyle or vow but as the eightfold path itself, "
+        "and names its own fruits as the four classical stages of "
+        "awakening &mdash; stream-entry, once-return, non-return, "
+        "and perfection &mdash; confirmed by direct reading to be a "
+        "genuinely new pairing (path/fruits) distinct from this "
+        "vagga's own earlier discourses."
+    ),
+    guide=[
+        ("Asceticism defined as a path, not a lifestyle", [
+            "&ldquo;What is the ascetic life? It is simply this "
+            "noble eightfold path&rdquo; identifies sāmañña with "
+            "practice itself rather than with external markers "
+            "(robes, begging, austerities) &mdash; confirmed by "
+            "reading the discourse's own single definition directly, "
+            "no reference to any external ascetic marker at all.",
+        ]),
+        ("The first appearance of the four fruits in this vagga", [
+            "&ldquo;The fruits of stream-entry, once-return, "
+            "non-return, and perfection&rdquo; names the four "
+            "classical stages of awakening as what the ascetic life "
+            "produces &mdash; a genuinely new target distinct from "
+            "SN 45.29's own &ldquo;complete understanding&rdquo; or "
+            "SN 45.30's own &ldquo;giving up,&rdquo; confirmed by "
+            "checking this vagga's own preceding discourses directly.",
+        ]),
+    ],
+    terms=[
+        ("sāmañña", "&ldquo;the ascetic life&rdquo; &mdash; this "
+             "discourse's own subject, defined as the eightfold "
+             "path itself rather than any external marker"),
+        ("sāmaññaphala", "&ldquo;the fruits of the ascetic "
+             "life&rdquo; &mdash; the four classical stages of "
+             "awakening, this discourse's own stated target"),
+        ("sotāpattiphalaṁ sakadāgāmiphalaṁ anāgāmiphalaṁ arahattaphalaṁ",
+             "&ldquo;stream-entry, once-return, non-return, and "
+             "perfection&rdquo; &mdash; the four fruits named in full"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, this "
+             "discourse's own definition of the ascetic life itself"),
+        ("sāmaññasutta", "this discourse's own title, taken directly "
+             "from its own central term"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.35:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "How does this discourse define \"the ascetic life\" (sāmañña)?",
+         "opts": ["As the noble eightfold path itself, not any external marker", "As wearing robes and begging for alms", "As a period of austerity lasting a fixed number of years", "As living in complete isolation from society"],
+         "correct": 0,
+         "expl": "Confirmed by reading the discourse's own single definition directly — no external ascetic marker mentioned."},
+        {"q": "What does this discourse name as the fruits of the ascetic life?",
+         "opts": ["The four stages of awakening — stream-entry, once-return, non-return, and perfection", "Material prosperity", "Social respect", "Freedom from illness"],
+         "correct": 0,
+         "expl": "A genuinely new target for this vagga, distinct from earlier discourses' own \"complete understanding\" or \"giving up.\""},
+        {"q": "What position does this discourse hold in this vagga's own final run?",
+         "opts": ["The first of six discourses in a confirmed 3×2 matrix", "The last discourse of the entire vagga", "It stands alone, unrelated to any surrounding discourses", "The third of a four-discourse run"],
+         "correct": 0,
+         "expl": "Opening a matrix of three path-names crossed with two targets (fruits or goal), confirmed across all six discourses."},
+    ],
+    marginalia=[
+        ("A path, not a lifestyle", [
+            "asceticism defined as the eightfold path —",
+            "no external marker named",
+        ]),
+        ("Four fruits, named in full", [
+            "stream-entry through perfection —",
+            "a genuinely new target for this vagga",
+        ]),
+        ("First of a 3×2 matrix", [
+            "three names for the path —",
+            "crossed with fruits or goal, six discourses total",
+        ]),
+        ("A closing run begins", [
+            "this vagga's own most systematic stretch —",
+            "five more discourses to complete it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.35/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.34.html\">SN 45.34 &middot; Going to the "
+        "Far Shore</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.36.html\">SN 45.36 &middot; The Ascetic "
+        "Life (2nd)</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.36 — Dutiyasāmaññasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 36, "Sāmañña", "The Ascetic Life (2nd)",
+    vagga="Paṭipattivagga",
+    meta_title="SN 45.36 — The Ascetic Life (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasāmaññasutta &mdash; the ascetic life's own goal, "
+        "rather than its fruits, named as the ending of greed, hate, "
+        "and delusion. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The second cell of this vagga's own 3&times;2 "
+                 "matrix, changing target from fruits to goal"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "very short, a direct pairing"),
+    ],
+    why=(
+        "The identical definition of the ascetic life as SN 45.35's "
+        "own, but paired with a different target: not its own four "
+        "fruits, but its own single &ldquo;goal&rdquo; "
+        "(sāmaññattha), named as the ending of greed, hate, and "
+        "delusion &mdash; the same three-root formula this project "
+        "has met defining the unconditioned throughout SN 43, here "
+        "applied to the ascetic life specifically."
+    ),
+    guide=[
+        ("Fruits versus goal, a genuine distinction", [
+            "Where SN 45.35 named four distinct fruits (the stages "
+            "of awakening), this discourse names one single goal "
+            "(the ending of the three roots) &mdash; confirmed by "
+            "direct comparison, plurality versus singularity, "
+            "gradual attainment versus one final target.",
+        ]),
+        ("A formula met many times before", [
+            "&ldquo;The ending of greed, hate, and delusion&rdquo; is "
+            "confirmed by direct comparison to be the identical "
+            "phrase this project has already met defining "
+            "&ldquo;the unconditioned&rdquo; (SN 43), &ldquo;the "
+            "culmination of the spiritual path&rdquo; (SN 45.6), "
+            "extinguishment, and freedom from death (SN 45.7) "
+            "&mdash; now applied as the ascetic life's own goal.",
+        ]),
+    ],
+    terms=[
+        ("sāmaññattha", "&ldquo;the goal of the ascetic life&rdquo; "
+             "&mdash; this discourse's own target, distinct from SN "
+             "45.35's own plural \"fruits\""),
+        ("rāgakkhayo dosakkhayo mohakkhayo", "&ldquo;the ending of "
+             "greed, hate, and delusion&rdquo; &mdash; the identical "
+             "formula met throughout SN 43 and elsewhere in this "
+             "saṃyutta"),
+        ("sāmañña", "&ldquo;the ascetic life&rdquo; &mdash; defined "
+             "identically to SN 45.35's own, as the eightfold path "
+             "itself"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, "
+             "unchanged as this discourse's own definition of the "
+             "ascetic life"),
+        ("sāmaññaphala/sāmaññattha", "&ldquo;fruits/goal of the "
+             "ascetic life&rdquo; &mdash; the two targets this "
+             "discourse and SN 45.35 together supply, plural "
+             "attainment versus singular ending"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.36:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as the goal of the ascetic life, distinct from SN 45.35's own fruits?",
+         "opts": ["The ending of greed, hate, and delusion — one single target, not four fruits", "An identical list of four fruits", "Material wealth", "A specific number of years of practice"],
+         "correct": 0,
+         "expl": "A genuine distinction — plurality versus singularity, gradual attainment versus one final target."},
+        {"q": "Where else has this project encountered the identical \"ending of greed, hate, and delusion\" formula?",
+         "opts": ["SN 43 (defining the unconditioned), SN 45.6, and SN 45.7", "Nowhere else — this is a unique formula", "Only in Book I", "Only in the Aṅguttara Nikāya"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the identical phrase applied across multiple different framings."},
+        {"q": "How is \"the ascetic life\" defined in this discourse?",
+         "opts": ["Identically to SN 45.35 — as the noble eightfold path itself", "As a completely different practice from SN 45.35's own", "As wearing distinctive robes", "The discourse leaves it undefined"],
+         "correct": 0,
+         "expl": "The definition itself is unchanged; only the target (fruits versus goal) differs between the two discourses."},
+    ],
+    marginalia=[
+        ("One goal, not four fruits", [
+            "the three roots ended —",
+            "singular, not plural attainment",
+        ]),
+        ("A formula met many times before", [
+            "greed, hate, delusion, ended —",
+            "SN 43, SN 45.6, SN 45.7, now here",
+        ]),
+        ("The same path, a different target", [
+            "the eightfold path, unchanged —",
+            "fruits there, goal here",
+        ]),
+        ("Second of a 3×2 matrix", [
+            "ascetic life's own two cells complete —",
+            "brahmin life's own two still to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.36/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.35.html\">SN 45.35 &middot; The Ascetic "
+        "Life (1st)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.37.html\">SN 45.37 &middot; The Brahmin "
+        "Life (1st)</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.37 — Paṭhamabrahmaññasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 37, "Brahmañña", "The Brahmin Life (1st)",
+    vagga="Paṭipattivagga",
+    meta_title="SN 45.37 — The Brahmin Life (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamabrahmaññasutta &mdash; a second identity term, "
+        "\"life as a brahmin,\" reappropriated as the eightfold path "
+        "itself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The third cell of this vagga's own 3&times;2 "
+                 "matrix, changing the path's own name rather than "
+                 "the target"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "very short, a direct pairing"),
+    ],
+    why=(
+        "The identical fruits-based structure as SN 45.35, but "
+        "applied to a different identity term: brahmañña "
+        "(&ldquo;life as a brahmin,&rdquo; or brahminhood), "
+        "reappropriated exactly as sāmañña was &mdash; not birth or "
+        "ritual status, but the eightfold path itself, with the "
+        "identical four fruits."
+    ),
+    guide=[
+        ("A birth-based term, reappropriated as practice", [
+            "Brahmañña ordinarily concerns a brahmin's own inherited "
+            "status and ritual role; here it is defined purely as "
+            "the eightfold path, exactly paralleling how SN 45.35 "
+            "redefined sāmañña away from any external ascetic marker "
+            "&mdash; confirmed by direct comparison, this project's "
+            "own second instance of the identical rhetorical move "
+            "within this vagga alone.",
+        ]),
+        ("Identical structure to SN 45.35, only the name changed", [
+            "Every element of this discourse &mdash; the teach-you "
+            "announcement, the eightfold-path definition, the four "
+            "named fruits &mdash; matches SN 45.35's own wording "
+            "exactly except for the substituted term, confirmed by "
+            "direct comparison of both discourses' own text.",
+        ]),
+    ],
+    terms=[
+        ("brahmañña", "&ldquo;life as a brahmin&rdquo; or "
+             "brahminhood &mdash; this discourse's own term, "
+             "reappropriated from birth-based status to mean the "
+             "eightfold path itself"),
+        ("brahmaññaphala", "&ldquo;the fruits of life as a "
+             "brahmin&rdquo; &mdash; identical in content to SN "
+             "45.35's own sāmaññaphala"),
+        ("sotāpattiphalaṁ sakadāgāmiphalaṁ anāgāmiphalaṁ arahattaphalaṁ",
+             "&ldquo;stream-entry, once-return, non-return, and "
+             "perfection&rdquo; &mdash; the four fruits, unchanged "
+             "from SN 45.35's own"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, this "
+             "discourse's own definition of \"life as a brahmin\" "
+             "itself"),
+        ("brāhmaṇa", "&ldquo;brahmin&rdquo; &mdash; ordinarily a "
+             "birth-based social category, the term this discourse "
+             "reappropriates entirely toward practice"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.37:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "How does this discourse define \"life as a brahmin\" (brahmañña)?",
+         "opts": ["As the noble eightfold path itself, not birth or ritual status", "As being born into a brahmin family", "As performing specific rituals", "As memorizing the Vedic scriptures"],
+         "correct": 0,
+         "expl": "Reappropriated exactly as SN 45.35 redefined sāmañña — practice, not inherited status."},
+        {"q": "What fruits does this discourse name, compared to SN 45.35's own?",
+         "opts": ["Identical — the four stages of awakening", "A completely different set of fruits", "Only two fruits, not four", "No fruits are named"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — every element matches SN 45.35's own except the substituted term."},
+        {"q": "What rhetorical move does this discourse repeat from SN 45.35?",
+         "opts": ["Reappropriating a birth- or status-based term to mean the eightfold path alone", "Denying that brahmins exist", "Introducing an entirely new set of eight factors", "Contradicting SN 45.35's own definition"],
+         "correct": 0,
+         "expl": "This project's own second instance of this identical move within this vagga alone."},
+    ],
+    marginalia=[
+        ("Status, reappropriated", [
+            "not birth, not ritual —",
+            "the eightfold path itself",
+        ]),
+        ("The identical structure as SN 45.35", [
+            "only the term substituted —",
+            "confirmed by direct comparison",
+        ]),
+        ("The same four fruits again", [
+            "stream-entry through perfection —",
+            "unchanged from the ascetic life's own pairing",
+        ]),
+        ("Third of a 3×2 matrix", [
+            "brahmin life's own first cell —",
+            "its own goal-pairing still to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.37/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.36.html\">SN 45.36 &middot; The Ascetic "
+        "Life (2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.38.html\">SN 45.38 &middot; The Brahmin "
+        "Life (2nd)</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.38 — Dutiyabrahmaññasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 38, "Brahmañña", "The Brahmin Life (2nd)",
+    vagga="Paṭipattivagga",
+    meta_title="SN 45.38 — The Brahmin Life (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyabrahmaññasutta &mdash; life as a brahmin's own "
+        "goal, rather than its fruits, closing the fourth cell of "
+        "this vagga's own matrix. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The fourth cell of this vagga's own 3&times;2 "
+                 "matrix"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "very short, a direct pairing"),
+    ],
+    why=(
+        "Completing the brahmin-life pair exactly as SN 45.36 "
+        "completed the ascetic-life pair: the identical definition "
+        "of brahmañña as the eightfold path, now paired with its own "
+        "single goal (the ending of greed, hate, and delusion) "
+        "rather than its own four fruits."
+    ),
+    guide=[
+        ("The fourth cell, completing half the matrix", [
+            "Confirmed by reading all four discourses so far "
+            "(SN 45.35&ndash;38) together: two path-names (sāmañña, "
+            "brahmañña), each crossed with two targets (fruits, "
+            "goal), with no combination repeated &mdash; two-thirds "
+            "of this vagga's own final matrix now complete.",
+        ]),
+        ("The goal formula, a fourth appearance", [
+            "&ldquo;The ending of greed, hate, and delusion&rdquo; "
+            "now names the goal of the unconditioned (SN 43), the "
+            "spiritual path (SN 45.6), extinguishment and freedom "
+            "from death (SN 45.7), the ascetic life (SN 45.36), and "
+            "here the brahmin life &mdash; confirmed by direct "
+            "comparison across all five, the identical three-root "
+            "ending naming five differently framed goals.",
+        ]),
+    ],
+    terms=[
+        ("brahmaññattha", "&ldquo;the goal of life as a "
+             "brahmin&rdquo; &mdash; this discourse's own target, "
+             "distinct from SN 45.37's own plural fruits"),
+        ("rāgakkhayo dosakkhayo mohakkhayo", "&ldquo;the ending of "
+             "greed, hate, and delusion&rdquo; &mdash; now met for "
+             "the fifth time across this saṃyutta under a different "
+             "name each time"),
+        ("brahmañña", "&ldquo;life as a brahmin&rdquo; &mdash; "
+             "defined identically to SN 45.37's own, as the "
+             "eightfold path itself"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, "
+             "unchanged as this discourse's own definition"),
+        ("brahmaññaphala/brahmaññattha", "&ldquo;fruits/goal of "
+             "life as a brahmin&rdquo; &mdash; the two targets this "
+             "discourse and SN 45.37 together supply"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.38:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as the goal of life as a brahmin?",
+         "opts": ["The ending of greed, hate, and delusion", "The four stages of awakening", "Social respect from other brahmins", "Mastery of ritual texts"],
+         "correct": 0,
+         "expl": "The identical single-goal formula SN 45.36 gave for the ascetic life, now applied to the brahmin life."},
+        {"q": "How many times has this project now encountered the identical three-root ending formula, by this discourse's own point?",
+         "opts": ["Five times, under five different names", "Only this once", "Twice", "This formula has never appeared before"],
+         "correct": 0,
+         "expl": "SN 43 (the unconditioned), SN 45.6 (the spiritual path), SN 45.7 (extinguishment, freedom from death), SN 45.36 (the ascetic life), and now the brahmin life."},
+        {"q": "How much of this vagga's own closing 3×2 matrix is complete after this discourse?",
+         "opts": ["Two-thirds — two of three path-names, each crossed with both targets", "The entire matrix", "Only one-third", "None of the matrix is complete yet"],
+         "correct": 0,
+         "expl": "Sāmañña and brahmañña both complete; the spiritual path's own pair still remains."},
+    ],
+    marginalia=[
+        ("Fourth cell, matrix two-thirds done", [
+            "two path-names, both targets each —",
+            "no combination repeated",
+        ]),
+        ("A formula's fifth appearance", [
+            "greed, hate, delusion, ended —",
+            "five different names, one formula",
+        ]),
+        ("The same path, unchanged", [
+            "the eightfold path, once more —",
+            "only the target varies",
+        ]),
+        ("One pair still to come", [
+            "the spiritual path's own fruits and goal —",
+            "closing this vagga's own matrix next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.38/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.37.html\">SN 45.37 &middot; The Brahmin "
+        "Life (1st)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.39.html\">SN 45.39 &middot; The Spiritual "
+        "Path (1st)</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.39 — Paṭhamabrahmacariyasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 39, "Brahmacariya", "The Spiritual Path (1st)",
+    vagga="Paṭipattivagga",
+    meta_title="SN 45.39 — The Spiritual Path (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamabrahmacariyasutta &mdash; a third identity term, "
+        "\"the spiritual path\" itself, completing this vagga's own "
+        "fruits-pairing for a third time. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The fifth cell of this vagga's own 3&times;2 "
+                 "matrix"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "very short, a direct pairing"),
+    ],
+    why=(
+        "The third and final path-name in this vagga's own closing "
+        "matrix: brahmacariya, &ldquo;the spiritual path&rdquo; "
+        "itself &mdash; this project's own most general term yet for "
+        "what sāmañña and brahmañña both already meant &mdash; paired "
+        "again with the four fruits, confirming this vagga's own "
+        "systematic design rather than accidental repetition."
+    ),
+    guide=[
+        ("Three names, one identical practice", [
+            "Sāmañña (the ascetic life), brahmañña (the brahmin "
+            "life), and brahmacariya (the spiritual path) are "
+            "confirmed by direct comparison to each receive the "
+            "identical eightfold-path definition across this vagga's "
+            "own six closing discourses &mdash; three culturally "
+            "loaded terms, each stripped of its own particular "
+            "external connotation and redefined as the same single "
+            "practice.",
+        ]),
+        ("A design, not a coincidence", [
+            "By this discourse, the pattern (three names, each "
+            "crossed with fruits and goal) is confirmed systematic "
+            "rather than accidental &mdash; this vagga's own closing "
+            "six discourses map a genuine 3&times;2 grid rather than "
+            "drifting through loosely related material.",
+        ]),
+    ],
+    terms=[
+        ("brahmacariya", "&ldquo;the spiritual path&rdquo; &mdash; "
+             "this project's own most general term for what sāmañña "
+             "and brahmañña both already meant, this vagga's own "
+             "third and final path-name"),
+        ("brahmacariyaphala", "&ldquo;the fruits of the spiritual "
+             "path&rdquo; &mdash; identical in content to SN "
+             "45.35 and SN 45.37's own fruits"),
+        ("sotāpattiphalaṁ sakadāgāmiphalaṁ anāgāmiphalaṁ arahattaphalaṁ",
+             "&ldquo;stream-entry, once-return, non-return, and "
+             "perfection&rdquo; &mdash; the four fruits, unchanged "
+             "for a third time"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, this "
+             "discourse's own definition of the spiritual path "
+             "itself"),
+        ("sāmañña/brahmañña/brahmacariya", "the three terms this "
+             "vagga's own closing matrix redefines identically, each "
+             "stripped of its own particular cultural connotation"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.39:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What is the third and final path-name this vagga's own closing matrix uses, alongside sāmañña and brahmañña?",
+         "opts": ["Brahmacariya, \"the spiritual path\" itself", "Sīla, \"ethics\"", "Paññā, \"wisdom\"", "Samādhi, \"immersion\""],
+         "correct": 0,
+         "expl": "This project's own most general term for what the previous two culturally loaded terms both already meant."},
+        {"q": "What does this discourse confirm about this vagga's own closing pattern?",
+         "opts": ["A genuine systematic design — three names, each crossed with fruits and goal — not accidental repetition", "That the pattern was accidental all along", "That only two of the three names actually share the same definition", "That the fruits differ between each path-name"],
+         "correct": 0,
+         "expl": "By the fifth of six discourses in this pattern, the systematic design is confirmed rather than merely suspected."},
+        {"q": "What fruits does this discourse name?",
+         "opts": ["Identical to SN 45.35 and SN 45.37's own — the four stages of awakening", "A new, different set of fruits", "No fruits — only a goal", "Fruits unrelated to awakening"],
+         "correct": 0,
+         "expl": "Unchanged for a third time across this vagga's own matrix."},
+    ],
+    marginalia=[
+        ("A third name, the same practice", [
+            "the spiritual path itself —",
+            "sāmañña and brahmañña, generalized",
+        ]),
+        ("A design confirmed, not a coincidence", [
+            "three names, two targets each —",
+            "systematic by this fifth discourse",
+        ]),
+        ("The same four fruits, a third time", [
+            "stream-entry through perfection —",
+            "unchanged across the whole matrix",
+        ]),
+        ("One cell remains", [
+            "the spiritual path's own goal, still to come —",
+            "closing this vagga at SN 45.40",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.39/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.38.html\">SN 45.38 &middot; The Brahmin "
+        "Life (2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.40.html\">SN 45.40 &middot; The Spiritual "
+        "Path (2nd)</a> &mdash; the next discourse, closing this "
+        "vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.40 — Dutiyabrahmacariyasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 40, "Brahmacariya", "The Spiritual Path (2nd)",
+    vagga="Paṭipattivagga",
+    meta_title="SN 45.40 — The Spiritual Path (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyabrahmacariyasutta &mdash; the sixth and final cell "
+        "of this vagga's own matrix, closing Paṭipattivagga. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The sixth and last cell of this vagga's own "
+                 "3&times;2 matrix, closing the vagga itself"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "very short, closes this vagga plainly"),
+    ],
+    why=(
+        "The sixth and final cell of this vagga's own closing "
+        "matrix: the spiritual path's own goal, the ending of greed, "
+        "hate, and delusion &mdash; completing a full 3&times;2 grid "
+        "(three path-names, each crossed with fruits and goal) and "
+        "closing Paṭipattivagga, this saṃyutta's own fourth vagga."
+    ),
+    guide=[
+        ("The matrix complete", [
+            "With this discourse, all six cells of this vagga's own "
+            "closing grid are filled: sāmañña, brahmañña, and "
+            "brahmacariya, each paired with fruits and with goal, "
+            "confirmed by reading all six discourses (SN "
+            "45.35&ndash;40) together &mdash; a genuinely systematic "
+            "design, not six loosely related restatements.",
+        ]),
+        ("This vagga's own quiet close", [
+            "Following this discourse's own genuinely translated "
+            "content, the root Pāli carries this vagga's own closing "
+            "colophon (&ldquo;Paṭipattivaggo catuttho,&rdquo; "
+            "&ldquo;Paṭipattivagga is the fourth [vagga]&rdquo;) and "
+            "an untranslated meta-uddāna naming all ten of its own "
+            "discourses in verse &mdash; described here rather than "
+            "quoted, since this content is left untranslated in "
+            "Sujato's own English.",
+        ]),
+    ],
+    terms=[
+        ("brahmacariyattha", "&ldquo;the goal of the spiritual "
+             "path&rdquo; &mdash; this discourse's own target, "
+             "closing this vagga's own matrix"),
+        ("rāgakkhayo dosakkhayo mohakkhayo", "&ldquo;the ending of "
+             "greed, hate, and delusion&rdquo; &mdash; met now for "
+             "the sixth time across this saṃyutta under a different "
+             "name each time"),
+        ("brahmacariya", "&ldquo;the spiritual path&rdquo; &mdash; "
+             "defined identically to SN 45.39's own, as the "
+             "eightfold path itself"),
+        ("paṭipattivaggo catuttho", "&ldquo;Paṭipattivagga is the "
+             "fourth [vagga]&rdquo; &mdash; this vagga's own closing "
+             "colophon, left untranslated in the root and described "
+             "rather than quoted as English here"),
+        ("tassuddānaṁ", "&ldquo;its own summary verse&rdquo; "
+             "&mdash; the heading introducing the untranslated "
+             "meta-uddāna naming all ten of this vagga's own "
+             "discourses"),
+    ],
+    text_intro=("The complete genuinely translated content of the "
+        "discourse. This vagga's own closing colophon and "
+        "meta-uddāna are left untranslated in the source and are "
+        "described, not quoted, above. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.40:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What does this discourse complete, being the sixth of this vagga's own final six discourses?",
+         "opts": ["A full 3×2 matrix — three path-names, each crossed with fruits and goal", "A 2×2 matrix only", "An entirely new, unrelated topic", "A single repeated discourse with no matrix at all"],
+         "correct": 0,
+         "expl": "Confirmed by reading all six discourses (SN 45.35-40) together — a genuinely systematic design."},
+        {"q": "How many times has the identical \"ending of greed, hate, and delusion\" formula now appeared across this saṃyutta, by this discourse's own point?",
+         "opts": ["Six times, under six different names", "Only once", "Three times", "This formula never repeats"],
+         "correct": 0,
+         "expl": "SN 43, SN 45.6, SN 45.7, SN 45.36, SN 45.38, and now the spiritual path's own goal."},
+        {"q": "What does this discourse's own closing content, left untranslated in the source, confirm?",
+         "opts": ["That this discourse closes Paṭipattivagga, this saṃyutta's own fourth vagga", "That a new saṃyutta begins immediately", "Nothing further; the discourse ends with no additional content", "That the vagga's own name is different from what was assumed"],
+         "correct": 0,
+         "expl": "Described rather than quoted, since Sujato's own English leaves this portion untranslated."},
+    ],
+    marginalia=[
+        ("The matrix complete", [
+            "three names, two targets each —",
+            "six cells, all filled",
+        ]),
+        ("A formula's sixth appearance", [
+            "greed, hate, delusion, ended —",
+            "six names, one identical ending",
+        ]),
+        ("A systematic design, confirmed", [
+            "not loosely related restatements —",
+            "a genuine grid, read across all six",
+        ]),
+        ("Paṭipattivagga closes", [
+            "ten discourses, repetition then genuine design —",
+            "nine more vaggas still ahead in this saṃyutta",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.40/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.39.html\">SN 45.39 &middot; The Spiritual "
+        "Path (1st)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-55.1.html\">SN 55.1 &middot; A Wheel-Turning "
+        "Monarch</a> &mdash; already published on this site, "
+        "standing ahead of this project's next vagga, "
+        "Aññatitthiyapeyyālavagga (SN 45.41&ndash;48), not yet "
+        "built.",
+    ],
+)
