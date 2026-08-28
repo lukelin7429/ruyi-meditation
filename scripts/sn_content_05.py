@@ -2675,3 +2675,1315 @@ page(
         "(SN 45.21&ndash;30), not yet built.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# Micchattavagga (SN 45.21-30, "The Chapter on the Wrong Way") is this
+# saṃyutta's own third vagga, confirmed by direct reading to be all
+# ten individual files, no peyyāla merges. Structurally this vagga is
+# the most uniform yet in this saṃyutta: SN 45.21-25 each teach the
+# identical wrong/right eightfold-path pairing under a different
+# framing term (the way itself, skillful/unskillful qualities,
+# practice, an untrue/true person), confirmed by direct comparison to
+# vary only in vocabulary, not in content -- this reading guide notes
+# the repetition honestly rather than inventing false distinctions
+# between them. SN 45.24 is a partial exception, applying the
+# teaching explicitly to both laypeople and renunciates rather than
+# leaving the audience unspecified. SN 45.26 genuinely extends the
+# pattern rather than repeating it, adding "right/wrong knowledge" and
+# "right/wrong freedom" as a ninth and tenth factor to create "an even
+# more untrue person" and "an even truer person" beyond SN 45.25's own
+# eight-factor pairing. SN 45.27-30 shift to genuinely new material: a
+# pot-stand simile, a technical definition of noble right immersion
+# (its own opening closely paralleling this project's own future
+# encounter with MN 117, though no formal SuttaCentral parallel record
+# links this specific short discourse to it, confirmed by checking the
+# parallels API directly rather than assumed from the shared
+# vocabulary alone), the three feelings, and Uttiya's own question
+# about the five kinds of sensual stimulation.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 45.21 — Micchattasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 21, "Micchatta", "The Wrong Way",
+    vagga="Micchattavagga",
+    meta_title="SN 45.21 — The Wrong Way | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Micchattasutta &mdash; opening this vagga with the "
+        "wrong and right eightfold paths named plainly, giving the "
+        "vagga its own name. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single teach-you announcement, defining two "
+                 "eightfold lists side by side"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "very short, a direct pairing"),
+    ],
+    why=(
+        "This discourse opens a new vagga by naming its own "
+        "governing term directly: micchatta, &ldquo;the wrong "
+        "way,&rdquo; is simply the wrong eightfold path (wrong view "
+        "through wrong immersion), and sammatta, &ldquo;the right "
+        "way,&rdquo; its mirror. The first of five consecutive "
+        "discourses (SN 45.21&ndash;25) this project confirms by "
+        "direct comparison teach the identical pairing under five "
+        "different framing terms."
+    ),
+    guide=[
+        ("The vagga's own name, defined in its own opening discourse", [
+            "Micchattavagga takes its name directly from this "
+            "discourse's own central term, confirmed by reading the "
+            "vagga's own uddāna, which opens by naming "
+            "&ldquo;micchattaṁ&rdquo; first among its ten "
+            "discourses' own topics.",
+        ]),
+        ("The first of a five-discourse run, honestly noted", [
+            "SN 45.21&ndash;25 each teach the identical wrong/right "
+            "eightfold-path pairing, varying only the framing term "
+            "(the way itself, skillful/unskillful qualities, "
+            "practice, an untrue/true person), confirmed by reading "
+            "all five directly &mdash; this reading guide notes this "
+            "repetition honestly rather than inventing distinctions "
+            "the source itself does not support.",
+        ]),
+    ],
+    terms=[
+        ("micchattaṁ", "&ldquo;the wrong way&rdquo; &mdash; this "
+             "discourse's own central term, giving this vagga its "
+             "own name"),
+        ("sammattaṁ", "&ldquo;the right way&rdquo; &mdash; the "
+             "mirrored term, the right eightfold path"),
+        ("micchādiṭṭhi... micchāsamādhi", "&ldquo;wrong view... "
+             "wrong immersion&rdquo; &mdash; the eight factors "
+             "defining the wrong way"),
+        ("sammādiṭṭhi... sammāsamādhi", "&ldquo;right view... right "
+             "immersion&rdquo; &mdash; the eight factors defining the "
+             "right way"),
+        ("micchattavaggo", "this vagga's own name, taken directly "
+             "from this discourse's own opening term, confirmed by "
+             "the vagga's own closing uddāna"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.21:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What does this discourse define as \"the wrong way\" (micchatta)?",
+         "opts": ["The wrong eightfold path — wrong view through wrong immersion", "A single wrong action, unspecified", "Failing to meditate daily", "Disagreeing with the Buddha's own teaching"],
+         "correct": 0,
+         "expl": "This discourse's own central term, giving this vagga its own name, confirmed by the vagga's closing uddāna."},
+        {"q": "How do SN 45.21-25 relate to each other, according to this reading guide?",
+         "opts": ["They teach the identical wrong/right pairing under five different framing terms", "They each teach a completely different, unrelated topic", "They contradict each other's own conclusions", "Only SN 45.21 concerns the eightfold path; the rest concern something else"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the repetition is noted honestly, not disguised with invented distinctions."},
+        {"q": "What does this vagga's own name, Micchattavagga, come from?",
+         "opts": ["This discourse's own opening term, \"the wrong way\"", "A place name where the Buddha taught", "The name of a questioner", "An unrelated later editorial addition"],
+         "correct": 0,
+         "expl": "Confirmed by the vagga's own closing uddāna, which names \"micchattaṁ\" first among its ten discourses' own topics."},
+    ],
+    marginalia=[
+        ("A vagga names itself", [
+            "\"the wrong way\" — this discourse's own term —",
+            "confirmed by the vagga's own closing uddāna",
+        ]),
+        ("Two eightfold lists, side by side", [
+            "wrong view through wrong immersion —",
+            "right view through right immersion, mirrored",
+        ]),
+        ("First of a five-discourse run", [
+            "the identical pairing, five framings —",
+            "noted honestly, not disguised as new content",
+        ]),
+        ("This vagga's own uniform opening", [
+            "the most repetitive stretch in this saṃyutta yet —",
+            "genuinely new material still to come at SN 45.27",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.21/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.20.html\">SN 45.20 &middot; At the "
+        "Chicken Monastery (3rd)</a> &mdash; the previous discourse, "
+        "closing Vihāravagga.",
+        "<a href=\"sn-45.22.html\">SN 45.22 &middot; Unskillful "
+        "Qualities</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.22 — Akusaladhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 22, "Akusaladhamma", "Unskillful Qualities",
+    vagga="Micchattavagga",
+    meta_title="SN 45.22 — Unskillful Qualities | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Akusaladhammasutta &mdash; the identical wrong/right "
+        "eightfold path, framed as unskillful and skillful qualities. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical pairing as SN 45.21, framed with a "
+                 "different pair of terms"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "very short, a direct pairing"),
+    ],
+    why=(
+        "The second of this vagga's own five-discourse run frames "
+        "the identical wrong/right eightfold path as "
+        "&ldquo;unskillful&rdquo; and &ldquo;skillful&rdquo; "
+        "qualities (akusala/kusala dhammā) &mdash; a vocabulary pair "
+        "this project has met throughout many earlier books, here "
+        "applied specifically and exclusively to the eightfold "
+        "path's own sixteen factors rather than to any broader "
+        "ethical category."
+    ),
+    guide=[
+        ("A familiar vocabulary pair, narrowly applied", [
+            "Kusala and akusala (skillful and unskillful) are among "
+            "this project's own most frequently met ethical terms, "
+            "but this discourse applies them narrowly: not to "
+            "actions or intentions in general, but specifically and "
+            "only to the eightfold path's own eight wrong and eight "
+            "right factors, confirmed by reading the discourse's own "
+            "single definition directly.",
+        ]),
+        ("Identical structure to SN 45.21, confirmed not merely assumed", [
+            "Every other element of this discourse &mdash; the "
+            "teach-you announcement, the eight-item lists, the "
+            "closing formula &mdash; matches SN 45.21's own wording "
+            "exactly except for the substituted framing term, "
+            "confirmed by direct comparison of both discourses' own "
+            "text.",
+        ]),
+    ],
+    terms=[
+        ("akusalā dhammā", "&ldquo;unskillful qualities&rdquo; "
+             "&mdash; this discourse's own term for the wrong "
+             "eightfold path's own eight factors"),
+        ("kusalā dhammā", "&ldquo;skillful qualities&rdquo; &mdash; "
+             "the term for the right eightfold path's own eight "
+             "factors"),
+        ("micchādiṭṭhi... micchāsamādhi", "&ldquo;wrong view... "
+             "wrong immersion&rdquo; &mdash; identical to SN 45.21's "
+             "own list, here called unskillful rather than wrong"),
+        ("sammādiṭṭhi... sammāsamādhi", "&ldquo;right view... right "
+             "immersion&rdquo; &mdash; identical to SN 45.21's own "
+             "list, here called skillful rather than right"),
+        ("kusalākusalasañño", "a term this project has not met in "
+             "this exact discourse but recognizes from elsewhere as "
+             "the broader category this discourse narrows to the "
+             "eightfold path alone"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.22:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What vocabulary pair does this discourse use to frame the eightfold wrong/right path?",
+         "opts": ["Unskillful and skillful qualities (akusala/kusala dhammā)", "Untrue and true persons", "The wrong way and the right way", "Wrong and right practice"],
+         "correct": 0,
+         "expl": "A vocabulary pair met throughout many earlier books, here applied narrowly and only to the eightfold path's own factors."},
+        {"q": "How does this discourse's own content compare to SN 45.21's own?",
+         "opts": ["Identical structure and lists, only the framing term substituted", "An entirely different set of eight factors", "A shorter list of only four factors", "No relationship at all to SN 45.21"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison of both discourses' own text — every element matches except the framing term."},
+        {"q": "Does this discourse apply \"skillful\" and \"unskillful\" broadly to all actions, or narrowly?",
+         "opts": ["Narrowly — specifically and only to the eightfold path's own factors", "Broadly, to every possible ethical category", "To lay conduct specifically, excluding mendicants", "The terms are left completely undefined"],
+         "correct": 0,
+         "expl": "Confirmed by reading the discourse's own single definition directly."},
+    ],
+    marginalia=[
+        ("A familiar pair, narrowly used", [
+            "skillful, unskillful — met before —",
+            "here, only the eightfold path's own factors",
+        ]),
+        ("The identical structure as SN 45.21", [
+            "only the framing term changed —",
+            "confirmed by direct comparison, not assumed",
+        ]),
+        ("Second of a five-discourse run", [
+            "the same pairing, a new name —",
+            "three more framings still to come",
+        ]),
+        ("No new content, honestly noted", [
+            "this reading guide does not invent distinctions —",
+            "the repetition itself is the point to notice",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.22/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.21.html\">SN 45.21 &middot; The Wrong "
+        "Way</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.23.html\">SN 45.23 &middot; Practice "
+        "(1st)</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.23 — Paṭhamapaṭipadāsutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 23, "Paṭipadā", "Practice (1st)",
+    vagga="Micchattavagga",
+    meta_title="SN 45.23 — Practice (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamapaṭipadāsutta &mdash; the identical wrong/right "
+        "eightfold path, framed as wrong and right practice. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical pairing as SN 45.21-22, framed with "
+                 "a third pair of terms"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "very short, a direct pairing"),
+    ],
+    why=(
+        "The third of this vagga's own five-discourse run frames the "
+        "identical wrong/right eightfold path as micchāpaṭipadā and "
+        "sammāpaṭipadā, &ldquo;wrong practice&rdquo; and &ldquo;right "
+        "practice&rdquo; &mdash; a term (paṭipadā) emphasizing the "
+        "path as something walked or practiced, setting up SN 45.24's "
+        "own immediately following discourse, which applies this "
+        "identical framing explicitly to both laypeople and "
+        "renunciates."
+    ),
+    guide=[
+        ("Practice as a term, not merely a synonym", [
+            "Paṭipadā (practice, the way one proceeds) carries a "
+            "slightly different emphasis than SN 45.21's own "
+            "&ldquo;way&rdquo; (magga-adjacent micchatta/sammatta) "
+            "or SN 45.22's own &ldquo;qualities&rdquo; &mdash; less "
+            "a static description and more an ongoing activity, "
+            "though the discourse itself draws no explicit contrast "
+            "between the terms.",
+        ]),
+        ("Setting up SN 45.24's own extension", [
+            "This discourse's own bare definition, without "
+            "elaboration, is immediately followed by SN 45.24, which "
+            "takes the identical paṭipadā framing and adds an "
+            "explicit claim about laypeople and renunciates &mdash; "
+            "confirmed by reading both discourses together, this "
+            "discourse functions as the foundation SN 45.24 builds "
+            "on rather than a fully independent teaching.",
+        ]),
+    ],
+    terms=[
+        ("micchāpaṭipadā", "&ldquo;wrong practice&rdquo; &mdash; "
+             "this discourse's own term for the wrong eightfold "
+             "path's own eight factors"),
+        ("sammāpaṭipadā", "&ldquo;right practice&rdquo; &mdash; the "
+             "term for the right eightfold path's own eight factors"),
+        ("paṭipadā", "&ldquo;practice&rdquo; or &ldquo;the way one "
+             "proceeds&rdquo; &mdash; an emphasis on the path as "
+             "activity, distinct from SN 45.21-22's own more static "
+             "framings"),
+        ("micchādiṭṭhi... micchāsamādhi", "&ldquo;wrong view... "
+             "wrong immersion&rdquo; &mdash; identical to SN "
+             "45.21-22's own lists"),
+        ("sammādiṭṭhi... sammāsamādhi", "&ldquo;right view... right "
+             "immersion&rdquo; &mdash; identical to SN 45.21-22's "
+             "own lists"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.23:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse use to frame the eightfold wrong/right path?",
+         "opts": ["Practice (paṭipadā) — wrong practice and right practice", "Skillful and unskillful qualities", "An untrue and a true person", "A pot with or without a stand"],
+         "correct": 0,
+         "expl": "A term emphasizing the path as an ongoing activity, distinct from the previous two discourses' own framings."},
+        {"q": "How does this discourse relate to SN 45.24, the discourse immediately following it?",
+         "opts": ["It provides the bare definition SN 45.24 extends with an explicit claim about laypeople and renunciates", "It contradicts SN 45.24's own teaching", "It is entirely unrelated to SN 45.24", "SN 45.24 uses a completely different set of eight factors"],
+         "correct": 0,
+         "expl": "This discourse functions as a foundation SN 45.24 builds on rather than a fully independent teaching."},
+        {"q": "How many of this vagga's own discourses use the identical wrong/right eightfold pairing by this discourse's own point?",
+         "opts": ["Three — SN 45.21, 45.22, and this discourse", "Only this one", "All ten discourses of the vagga", "None — this is the first to use this pairing"],
+         "correct": 0,
+         "expl": "The third of a five-discourse run using the identical content under different framing terms."},
+    ],
+    marginalia=[
+        ("Practice, not just a static way", [
+            "the path as something walked —",
+            "a slightly different emphasis than \"the way\" itself",
+        ]),
+        ("A foundation for what follows", [
+            "the bare definition, here —",
+            "SN 45.24 extends it explicitly next",
+        ]),
+        ("Third of a five-discourse run", [
+            "the same pairing, a third name —",
+            "two more framings still to come",
+        ]),
+        ("Identical lists, once more", [
+            "wrong view through wrong immersion —",
+            "right view through right immersion, mirrored",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.23/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.22.html\">SN 45.22 &middot; Unskillful "
+        "Qualities</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.24.html\">SN 45.24 &middot; Practice "
+        "(2nd)</a> &mdash; the next discourse, extending this "
+        "discourse's own framing to laypeople and renunciates alike.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.24 — Dutiyapaṭipadāsutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 24, "Paṭipadā", "Practice (2nd)",
+    vagga="Micchattavagga",
+    meta_title="SN 45.24 — Practice (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyapaṭipadāsutta &mdash; wrong and right practice "
+        "applied explicitly to both laypeople and renunciates, not "
+        "mendicants alone. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "SN 45.23's own paṭipadā framing, extended with an "
+                 "explicit claim about laypeople and renunciates"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, a genuine addition to the pattern"),
+    ],
+    why=(
+        "Unlike SN 45.21&ndash;23, this discourse adds a genuine new "
+        "claim rather than merely substituting a framing term: wrong "
+        "practice is praised for neither laypeople nor renunciates, "
+        "because neither &ldquo;succeed in the system of the "
+        "skillful teaching&rdquo; through it; right practice is "
+        "praised for both. Where this saṃyutta's own eightfold-path "
+        "discourses usually address mendicants without specifying "
+        "whether the teaching applies beyond them, this discourse "
+        "states explicitly that it does."
+    ),
+    guide=[
+        ("A genuine addition, not another substitution", [
+            "Unlike SN 45.21&ndash;23, which each simply renamed the "
+            "identical pairing, this discourse adds new content: an "
+            "explicit claim about who succeeds through right or "
+            "wrong practice, confirmed by reading the discourse's "
+            "own repeated &ldquo;I don't praise... I praise&rdquo; "
+            "structure directly, not present in any of the three "
+            "preceding discourses.",
+        ]),
+        ("Laypeople and renunciates, named together", [
+            "&ldquo;Neither laypeople nor renunciates succeed in the "
+            "system of the skillful teaching&rdquo; through wrong "
+            "practice, and both succeed through right practice "
+            "&mdash; a claim this project has not seen made quite "
+            "this explicitly for the eightfold path specifically, "
+            "extending its own relevance beyond the mendicant "
+            "audience these discourses usually address without "
+            "comment.",
+        ]),
+        ("A structure that repeats each half twice", [
+            "The discourse states &ldquo;I don't praise wrong "
+            "practice&rdquo; before defining it, then repeats the "
+            "identical praise-statement after the definition, and "
+            "does the same for right practice &mdash; confirmed by "
+            "reading the discourse's own structure directly, a "
+            "bracketing pattern distinct from SN 45.21&ndash;23's own "
+            "simple define-and-close format.",
+        ]),
+    ],
+    terms=[
+        ("na... vaṇṇemi gihissa vā pabbajitassa vā", "&ldquo;I don't "
+             "praise [wrong practice] for laypeople or "
+             "renunciates&rdquo; &mdash; this discourse's own genuine "
+             "addition to the paṭipadā framing"),
+        ("ñāyassa dhammassa kusalassa ārādhanā", "&ldquo;succeed in "
+             "the system of the skillful teaching&rdquo; &mdash; what "
+             "wrong practice prevents and right practice enables, "
+             "for laypeople and renunciates alike"),
+        ("gihī... pabbajito", "&ldquo;laypeople... renunciates&rdquo; "
+             "&mdash; the two audiences this discourse names "
+             "explicitly, unlike this saṃyutta's own usual "
+             "unspecified mendicant address"),
+        ("micchāpaṭipadā... sammāpaṭipadā", "&ldquo;wrong "
+             "practice... right practice&rdquo; &mdash; the identical "
+             "framing terms as SN 45.23's own"),
+        ("vaṇṇemi", "&ldquo;I praise&rdquo; &mdash; the verb this "
+             "discourse repeats, negated for wrong practice and "
+             "affirmed for right practice, each stated twice"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Wrong practice: praised for no-one"),
+        ("p", "&sect;1", "sn45.24:1.1-2.5"),
+        ("h3", "Right practice: praised for both laypeople and "
+                "renunciates"),
+        ("p", "&sect;2", "sn45.24:3.1-3.7"),
+    ],
+    quiz=[
+        {"q": "What genuine addition does this discourse make, unlike SN 45.21-23?",
+         "opts": ["An explicit claim that neither laypeople nor renunciates succeed through wrong practice, and both do through right practice", "A completely new set of eight factors", "A denial that the eightfold path exists", "A claim that only mendicants, not laypeople, can practice at all"],
+         "correct": 0,
+         "expl": "Unlike the three preceding discourses, which each simply renamed the identical pairing, this discourse adds new content."},
+        {"q": "What two audiences does this discourse name explicitly?",
+         "opts": ["Laypeople and renunciates", "Monks and nuns only", "Kings and commoners", "Children and adults"],
+         "correct": 0,
+         "expl": "A claim extending the eightfold path's own relevance beyond the mendicant audience these discourses usually address without comment."},
+        {"q": "What structural pattern does this discourse use, distinct from SN 45.21-23's own simple format?",
+         "opts": ["Each half's praise-statement is stated before and repeated after its own definition", "The discourse has no closing statement at all", "Only right practice is discussed, with wrong practice omitted", "The eight factors are listed in reverse order"],
+         "correct": 0,
+         "expl": "A bracketing pattern, confirmed by reading the discourse's own structure directly."},
+    ],
+    marginalia=[
+        ("Not another substitution", [
+            "a genuine new claim, this time —",
+            "who succeeds, not just what the path is called",
+        ]),
+        ("Laypeople and renunciates, together", [
+            "neither succeeds through wrong practice —",
+            "both succeed through right practice",
+        ]),
+        ("Praise, stated twice each way", [
+            "before the definition, and after —",
+            "a bracketing structure, not a simple close",
+        ]),
+        ("Beyond the mendicant audience", [
+            "this saṃyutta's own usual silence, broken —",
+            "the path's own relevance, made explicit",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.24/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.23.html\">SN 45.23 &middot; Practice "
+        "(1st)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.25.html\">SN 45.25 &middot; An Untrue "
+        "Person (1st)</a> &mdash; the next discourse, closing this "
+        "run of five with the eightfold path framed as character.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.25 — Paṭhamaasappurisasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 25, "Asappurisa", "An Untrue Person (1st)",
+    vagga="Micchattavagga",
+    meta_title="SN 45.25 — An Untrue Person (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamaasappurisasutta &mdash; the identical wrong/right "
+        "eightfold path, framed as character rather than as a way, "
+        "quality, or practice. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical pairing as SN 45.21-24, closing this "
+                 "run with a framing of character rather than "
+                 "abstraction"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "very short, a direct pairing"),
+    ],
+    why=(
+        "Closing this vagga's own run of five discourses on the "
+        "identical eightfold pairing, this discourse shifts the "
+        "framing from an abstraction (a way, a quality, a practice) "
+        "to a person: whoever has the wrong eight factors is "
+        "&ldquo;an untrue person&rdquo; (asappurisa), whoever has the "
+        "right eight is &ldquo;a true person&rdquo; (sappurisa) "
+        "&mdash; setting up SN 45.26's own immediately following "
+        "extension of this exact character framing to a four-level "
+        "scale."
+    ),
+    guide=[
+        ("Character, closing a run of abstractions", [
+            "Where SN 45.21&ndash;24 named a way, qualities, and "
+            "twice a practice, this discourse names a kind of "
+            "person &mdash; confirmed by reading all five discourses "
+            "together, the identical eight-factor content is now "
+            "applied to who someone is rather than what they do or "
+            "follow.",
+        ]),
+        ("Sappurisa, a term this project has met before", [
+            "&ldquo;A true person&rdquo; (sappurisa, sometimes "
+            "rendered &ldquo;a good person&rdquo; or &ldquo;a "
+            "superior person&rdquo;) is a term this project has "
+            "encountered in other contexts; here it is defined "
+            "narrowly and specifically as someone possessing the "
+            "eightfold path's own eight right factors, not left as a "
+            "vaguer moral category.",
+        ]),
+    ],
+    terms=[
+        ("asappuriso", "&ldquo;an untrue person&rdquo; &mdash; "
+             "someone who has the wrong eightfold path's own eight "
+             "factors, this discourse's own central term"),
+        ("sappuriso", "&ldquo;a true person&rdquo; &mdash; someone "
+             "who has the right eightfold path's own eight factors"),
+        ("micchādiṭṭhi... micchāsamādhi", "&ldquo;wrong view... "
+             "wrong immersion&rdquo; &mdash; identical to SN "
+             "45.21-24's own lists, here defining a person rather "
+             "than a way, quality, or practice"),
+        ("sammādiṭṭhi... sammāsamādhi", "&ldquo;right view... right "
+             "immersion&rdquo; &mdash; identical to SN 45.21-24's own "
+             "lists"),
+        ("asappurisena bhiyyo", "&ldquo;an even more untrue "
+             "person&rdquo; &mdash; the term SN 45.26 will introduce "
+             "immediately following this discourse, extending its "
+             "own character framing further"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.25:1.1-2.3"),
+    ],
+    quiz=[
+        {"q": "What framing does this discourse use, distinct from SN 45.21-24's own?",
+         "opts": ["Character — an untrue person versus a true person", "A pot with or without a stand", "The five kinds of sensual stimulation", "Noble right immersion with its prerequisites"],
+         "correct": 0,
+         "expl": "Closing this run of five discourses by applying the identical eightfold content to who someone is, not what they follow or practice."},
+        {"q": "How is \"a true person\" (sappurisa) defined in this discourse?",
+         "opts": ["Someone who has the right eightfold path's own eight factors", "Someone born into a particular family", "Someone who has memorized the scriptures", "A term left deliberately undefined"],
+         "correct": 0,
+         "expl": "A narrow, specific definition, not a vaguer general moral category."},
+        {"q": "What does this discourse set up for SN 45.26, the discourse immediately following it?",
+         "opts": ["An extension of the character framing to a four-level scale", "A contradiction of this discourse's own definition", "A shift back to abstract framing", "The introduction of an entirely unrelated topic"],
+         "correct": 0,
+         "expl": "SN 45.26 adds \"even more untrue\" and \"even truer\" levels to this discourse's own basic pairing."},
+    ],
+    marginalia=[
+        ("From abstraction to character", [
+            "not a way, quality, or practice —",
+            "now, a kind of person",
+        ]),
+        ("A familiar term, narrowly defined", [
+            "\"a true person\" — met before, elsewhere —",
+            "here, precisely the eightfold path's own factors",
+        ]),
+        ("Closing a run of five", [
+            "the identical pairing, five framings complete —",
+            "genuinely new material begins at SN 45.27",
+        ]),
+        ("A scale still to come", [
+            "\"even more untrue,\" \"even truer\" —",
+            "SN 45.26 extends this discourse's own pairing",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.25/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.24.html\">SN 45.24 &middot; Practice "
+        "(2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.26.html\">SN 45.26 &middot; An Untrue "
+        "Person (2nd)</a> &mdash; the next discourse, genuinely "
+        "extending this discourse's own pairing to a four-level "
+        "scale.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.26 — Dutiyaasappurisasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 26, "Asappurisa", "An Untrue Person (2nd)",
+    vagga="Micchattavagga",
+    meta_title="SN 45.26 — An Untrue Person (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaasappurisasutta &mdash; a genuine extension beyond "
+        "the eightfold path, adding right/wrong knowledge and "
+        "right/wrong freedom as a ninth and tenth factor. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A genuine four-level extension of SN 45.25's own "
+                 "basic pairing, not another substitution"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but genuinely extends the eightfold "
+                       "path beyond eight factors"),
+    ],
+    why=(
+        "Unlike this vagga's own preceding five discourses, this one "
+        "genuinely extends rather than merely reframes: beyond &ldquo;an "
+        "untrue person&rdquo; and &ldquo;a true person&rdquo; (SN "
+        "45.25's own eight-factor pairing), this discourse adds "
+        "&ldquo;an even more untrue person&rdquo; and &ldquo;an even "
+        "truer person,&rdquo; each defined by ten factors &mdash; the "
+        "familiar eight plus &ldquo;wrong/right knowledge&rdquo; and "
+        "&ldquo;wrong/right freedom&rdquo; &mdash; confirmed by "
+        "reading the discourse's own four definitions directly, a "
+        "genuine expansion beyond the eightfold path this saṃyutta "
+        "has named throughout."
+    ),
+    guide=[
+        ("Four levels, not two", [
+            "This discourse defines an untrue person, an even more "
+            "untrue person, a true person, and an even truer person "
+            "in turn, confirmed by reading all four definitions "
+            "directly &mdash; not simply SN 45.25's own two "
+            "categories restated with intensifying adjectives, but a "
+            "genuinely different content added for the "
+            "&ldquo;even more&rdquo; and &ldquo;even truer&rdquo; "
+            "levels.",
+        ]),
+        ("Two factors beyond the familiar eight", [
+            "&ldquo;Wrong knowledge&rdquo; and &ldquo;wrong "
+            "freedom&rdquo; (micchāñāṇa, micchāvimutti) join the "
+            "familiar eight wrong factors to define &ldquo;an even "
+            "more untrue person&rdquo;; their mirrored positive "
+            "counterparts do the same for &ldquo;an even truer "
+            "person&rdquo; &mdash; this project's own first "
+            "encounter within this vagga with a ten-factor version "
+            "of the path's own structure, confirmed not to appear in "
+            "any of SN 45.21&ndash;25.",
+        ]),
+        ("Knowledge and freedom as the path's own natural completion", [
+            "Right knowledge and right freedom are not arbitrary "
+            "additions but read naturally as what follows once the "
+            "eightfold path's own eight factors are fully "
+            "developed &mdash; knowing (the fruit of right view "
+            "matured) and being freed (the fruit of right immersion "
+            "matured) &mdash; though this discourse itself offers no "
+            "explicit gloss connecting the two additions to the "
+            "original eight this way.",
+        ]),
+    ],
+    terms=[
+        ("asappuriso", "&ldquo;an untrue person&rdquo; &mdash; the "
+             "eight-factor definition, identical to SN 45.25's own"),
+        ("asappurisena bhiyyo", "&ldquo;an even more untrue "
+             "person&rdquo; &mdash; defined by ten factors, the "
+             "familiar eight plus wrong knowledge and wrong freedom"),
+        ("micchāñāṇaṁ", "&ldquo;wrong knowledge&rdquo; &mdash; the "
+             "ninth factor added for the more intensified negative "
+             "category"),
+        ("micchāvimutti", "&ldquo;wrong freedom&rdquo; &mdash; the "
+             "tenth factor completing the more intensified negative "
+             "category"),
+        ("sammāñāṇaṁ... sammāvimutti", "&ldquo;right knowledge... "
+             "right freedom&rdquo; &mdash; the mirrored ninth and "
+             "tenth factors completing &ldquo;an even truer "
+             "person&rdquo;"),
+    ],
+    text_intro=("The complete discourse, all four definitions given "
+        "in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "An untrue person, and an even more untrue person"),
+        ("p", "&sect;1", "sn45.26:1.1-2.3"),
+        ("h3", "A true person, and an even truer person"),
+        ("p", "&sect;2", "sn45.26:3.1-4.3"),
+    ],
+    quiz=[
+        {"q": "How many levels does this discourse define, unlike SN 45.25's own two?",
+         "opts": ["Four — untrue, even more untrue, true, and even truer", "Three", "Still only two, with different names", "Eight, one for each path factor"],
+         "correct": 0,
+         "expl": "A genuine extension, confirmed by reading all four separate definitions in the discourse's own text."},
+        {"q": "What two factors does this discourse add beyond the familiar eight, to define the more intensified categories?",
+         "opts": ["Knowledge and freedom (right/wrong)", "Faith and wisdom", "Generosity and patience", "Concentration and insight, as separate items from immersion"],
+         "correct": 0,
+         "expl": "Micchāñāṇa/sammāñāṇa (wrong/right knowledge) and micchāvimutti/sammāvimutti (wrong/right freedom), joining the familiar eight as a ninth and tenth factor."},
+        {"q": "Does this discourse explicitly explain why knowledge and freedom complete the eightfold path this way?",
+         "opts": ["No — this reading guide offers a natural reading, but the discourse itself gives no explicit gloss", "Yes, in extensive detail", "The discourse explains it through an extended simile", "The discourse denies any connection between the two sets of factors"],
+         "correct": 0,
+         "expl": "The connection is a natural reading, not something the discourse's own text states outright."},
+    ],
+    marginalia=[
+        ("Four levels, not two", [
+            "untrue, even more untrue —",
+            "true, even truer — genuinely different content",
+        ]),
+        ("Two factors beyond the familiar eight", [
+            "knowledge and freedom, wrong or right —",
+            "a ten-factor path, this vagga's own first",
+        ]),
+        ("A natural completion, left unglossed", [
+            "knowing and being freed, as fruits matured —",
+            "no explicit connection stated by the text itself",
+        ]),
+        ("A genuine extension closes this vagga's own middle", [
+            "not another substitution —",
+            "genuinely new content, honestly distinguished",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.26/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.25.html\">SN 45.25 &middot; An Untrue "
+        "Person (1st)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.27.html\">SN 45.27 &middot; Pots</a> "
+        "&mdash; the next discourse, genuinely new material for the "
+        "rest of this vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.27 — Kumbhasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 27, "Kumbha", "Pots",
+    vagga="Micchattavagga",
+    meta_title="SN 45.27 — Pots | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kumbhasutta &mdash; a pot-stand simile for the mind, the "
+        "eightfold path named as what makes it hard to overturn. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single everyday simile, stated and then applied"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, a vivid everyday image"),
+    ],
+    why=(
+        "Ending this vagga's own run of abstract catechisms, this "
+        "discourse opens with an ordinary household observation: a "
+        "pot without a stand is easily knocked over, one with a "
+        "stand is not. The mind, the Buddha says, works the same "
+        "way &mdash; and its own stand is simply the noble eightfold "
+        "path, the first genuinely new image this vagga has offered "
+        "since SN 45.20's own closing question."
+    ),
+    guide=[
+        ("A household object, not a technical term", [
+            "Where SN 45.21&ndash;26 each opened with a formal "
+            "teach-you announcement, this discourse opens with a "
+            "plain observation about pots &mdash; a register shift "
+            "confirmed by direct comparison, this vagga's own first "
+            "discourse without any abstract framing term (way, "
+            "quality, practice, person) at all.",
+        ]),
+        ("A structural function, not a moral quality", [
+            "The eightfold path here is not described as making the "
+            "mind good, wise, or compassionate &mdash; only stable, "
+            "&ldquo;hard to overturn&rdquo; &mdash; a specifically "
+            "structural role, distinct from how this vagga's own "
+            "preceding discourses framed the path's own value.",
+        ]),
+        ("The simile stated twice, framing the discourse", [
+            "&ldquo;A pot without a stand is easy to overturn, but "
+            "if it has a stand it's hard to overturn&rdquo; opens the "
+            "discourse and closes it as well, confirmed by reading "
+            "the discourse's own final lines directly &mdash; the "
+            "eightfold-path application sits inside this repeated "
+            "frame rather than following it as a separate closing "
+            "statement.",
+        ]),
+    ],
+    terms=[
+        ("kumbho apatiṭṭho", "&ldquo;a pot without a stand&rdquo; "
+             "&mdash; the discourse's own opening image, easily "
+             "overturned"),
+        ("kumbho patiṭṭho", "&ldquo;a pot with a stand&rdquo; "
+             "&mdash; the mirrored image, hard to overturn"),
+        ("cittassa patiṭṭhā", "&ldquo;the stand for the mind&rdquo; "
+             "&mdash; what the simile is applied to, answered with "
+             "the noble eightfold path"),
+        ("duppadhaṁsiyaṁ", "&ldquo;hard to overturn&rdquo; &mdash; "
+             "the specifically structural quality this discourse "
+             "attributes to a mind with the eightfold path as its "
+             "own stand"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, named "
+             "here as the mind's own stand rather than as a way, "
+             "quality, practice, or character"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.27:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What everyday object does this discourse's own simile use?",
+         "opts": ["A pot, with or without a stand", "A chariot", "A rice spike", "A lamp"],
+         "correct": 0,
+         "expl": "The first genuinely new image this vagga has offered since SN 45.20's own closing question."},
+        {"q": "What quality does the eightfold path give the mind, according to this simile?",
+         "opts": ["Stability — being hard to overturn, a structural role rather than a moral one", "Compassion toward all beings", "Physical health", "Social status"],
+         "correct": 0,
+         "expl": "Distinct from how this vagga's own preceding discourses framed the path's own value in moral or definitional terms."},
+        {"q": "How does this discourse's own structure differ from SN 45.21-26's own formal teach-you announcements?",
+         "opts": ["It opens with a plain household observation instead", "It opens with an even more formal, longer announcement", "It has no opening statement at all", "It opens with a direct question from a mendicant"],
+         "correct": 0,
+         "expl": "This vagga's own first discourse without any abstract framing term at all — a genuine register shift."},
+    ],
+    marginalia=[
+        ("A pot, not an abstraction", [
+            "no stand, easily overturned —",
+            "a household image, not a formal term",
+        ]),
+        ("Stability, not virtue", [
+            "\"hard to overturn\" —",
+            "a structural role for the eightfold path",
+        ]),
+        ("The simile frames the whole discourse", [
+            "stated at the opening —",
+            "and again at the close",
+        ]),
+        ("A register shift, honestly noted", [
+            "this vagga's own first image —",
+            "after six discourses of formal catechism",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.27/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.26.html\">SN 45.26 &middot; An Untrue "
+        "Person (2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.28.html\">SN 45.28 &middot; Immersion</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.28 — Samādhisutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 28, "Samādhi", "Immersion",
+    vagga="Micchattavagga",
+    meta_title="SN 45.28 — Immersion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samādhisutta &mdash; noble right immersion technically "
+        "defined as unification of mind supported by the eightfold "
+        "path's own other seven factors. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A technical definition, not a simile or catechism"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No formal SuttaCentral parallel "
+                              "record found by this project's own "
+                              "check, though its own opening line "
+                              "closely resembles this project's own "
+                              "future encounter with MN 117"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but a precise technical definition"),
+    ],
+    why=(
+        "Where every preceding discourse in this vagga names "
+        "&ldquo;right immersion&rdquo; as simply the eighth factor "
+        "alongside the other seven, this discourse defines it "
+        "technically and specifically: &ldquo;unification of "
+        "mind&rdquo; supported by the other seven factors as its own "
+        "&ldquo;vital conditions&rdquo; and &ldquo;prerequisites.&rdquo; "
+        "Right immersion is not one factor among equals here, but the "
+        "culmination the other seven make possible."
+    ),
+    guide=[
+        ("Immersion, defined rather than merely named", [
+            "&ldquo;Unification of mind&rdquo; (cittassekaggatā) is "
+            "this discourse's own actual definition of samādhi "
+            "&mdash; a technical term this project has not seen used "
+            "to gloss right immersion directly within this saṃyutta "
+            "before, confirmed by reading the discourse's own single "
+            "sentence directly.",
+        ]),
+        ("Seven factors as prerequisites, not seven equals", [
+            "&ldquo;With its vital conditions and its "
+            "prerequisites&rdquo; (sa-upanisaṁ sa-parikkhāraṁ) frames "
+            "the other seven factors &mdash; right view through "
+            "right mindfulness &mdash; as what supports and enables "
+            "immersion specifically, a structural relationship "
+            "distinct from this vagga's own earlier discourses, "
+            "which listed all eight factors as a flat, unranked "
+            "series.",
+        ]),
+        ("A resemblance worth naming honestly", [
+            "This discourse's own definition closely resembles the "
+            "opening of MN 117 (the Mahācattārīsaka Sutta), which "
+            "this project has not yet built &mdash; noted here as an "
+            "observation from direct reading, not as a confirmed "
+            "SuttaCentral parallel record, since the parallels API "
+            "itself returns no formal match for this specific short "
+            "discourse.",
+        ]),
+    ],
+    terms=[
+        ("ariyo sammāsamādhi", "&ldquo;noble right immersion&rdquo; "
+             "&mdash; this discourse's own subject, defined "
+             "technically rather than simply named"),
+        ("sa-upaniso sa-parikkhāro", "&ldquo;with its vital "
+             "conditions and its prerequisites&rdquo; &mdash; the "
+             "phrase framing the other seven factors as immersion's "
+             "own support, not merely its equal companions"),
+        ("cittassekaggatā", "&ldquo;unification of mind&rdquo; "
+             "&mdash; this discourse's own actual definition of "
+             "samādhi itself"),
+        ("sammādiṭṭhi... sammāsati", "&ldquo;right view... right "
+             "mindfulness&rdquo; &mdash; the seven factors named here "
+             "as immersion's own prerequisites, not as seven "
+             "unranked equals"),
+        ("upanisā", "&ldquo;vital conditions&rdquo; &mdash; a term "
+             "this project has met elsewhere describing supportive "
+             "causal relationships, here applied structurally within "
+             "the eightfold path itself"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.28:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse define \"noble right immersion,\" unlike this vagga's own earlier discourses?",
+         "opts": ["As \"unification of mind,\" technically supported by the other seven path factors as prerequisites", "As simply the eighth item in an unranked list", "As a state reserved only for advanced mendicants", "As identical to right mindfulness"],
+         "correct": 0,
+         "expl": "A precise technical definition, distinct from the flat, unranked eight-factor lists this vagga's own earlier discourses gave."},
+        {"q": "What role do the other seven path factors play in this discourse's own definition?",
+         "opts": ["They function as immersion's own \"vital conditions and prerequisites,\" not as equal companions", "They are entirely unrelated to immersion", "They replace immersion as the discourse's own true subject", "They are each redefined with new names"],
+         "correct": 0,
+         "expl": "A structural relationship — supporting and enabling immersion specifically."},
+        {"q": "How does this reading guide characterize the discourse's own resemblance to MN 117?",
+         "opts": ["An observation from direct reading, not a formally confirmed SuttaCentral parallel", "A confirmed, database-verified parallel", "No resemblance at all", "A direct quotation from MN 117 itself"],
+         "correct": 0,
+         "expl": "Honestly distinguished, since the parallels API itself returns no formal match for this specific short discourse."},
+    ],
+    marginalia=[
+        ("Defined, not merely named", [
+            "\"unification of mind\" —",
+            "a technical gloss, not just the eighth item",
+        ]),
+        ("Seven prerequisites, not seven equals", [
+            "\"vital conditions and prerequisites\" —",
+            "a structural role, not a flat list",
+        ]),
+        ("A resemblance, honestly distinguished", [
+            "close to MN 117's own opening —",
+            "not a confirmed database parallel",
+        ]),
+        ("Immersion as culmination", [
+            "what the other seven factors make possible —",
+            "not simply one item alongside them",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.28/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.27.html\">SN 45.27 &middot; Pots</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-45.29.html\">SN 45.29 &middot; Feeling</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.29 — Vedanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 29, "Vedanā", "Feeling",
+    vagga="Micchattavagga",
+    meta_title="SN 45.29 — Feeling | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vedanāsutta &mdash; the three feelings named plainly, "
+        "the eightfold path prescribed to completely understand "
+        "them. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A short list, then the eightfold path prescribed "
+                 "for a specific purpose"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, a direct prescription"),
+    ],
+    why=(
+        "After SN 45.11&ndash;12's own cryptic, unresolved treatment "
+        "of feeling earlier in this saṃyutta, this discourse states "
+        "the three feelings plainly &mdash; pleasant, painful, and "
+        "neutral &mdash; and prescribes the eightfold path with a "
+        "specific stated purpose: not simply as the way in general, "
+        "but as what &ldquo;should be developed to completely "
+        "understand&rdquo; these three feelings specifically."
+    ),
+    guide=[
+        ("Three feelings, named without elaboration", [
+            "Pleasant, painful, and neutral feeling are simply "
+            "listed, without the kind of extended analysis this "
+            "project has met feeling receive in other saṃyuttas "
+            "&mdash; this discourse's own interest lies in "
+            "prescribing a response, not in analyzing the feelings "
+            "themselves.",
+        ]),
+        ("A purpose stated, not merely a path named", [
+            "&ldquo;The noble eightfold path should be developed to "
+            "completely understand these three feelings&rdquo; gives "
+            "the path a specific, named function &mdash; "
+            "&ldquo;complete understanding&rdquo; (pariññā) is a "
+            "term this project has met before as one stage among "
+            "several (understanding, then abandoning desire, then "
+            "realizing cessation), here named as the eightfold "
+            "path's own specific target regarding feeling.",
+        ]),
+        ("A tidy pattern SN 45.30 immediately extends", [
+            "This discourse's own short template &mdash; name a "
+            "topic, then prescribe the eightfold path with a "
+            "specific stated purpose &mdash; is repeated with a "
+            "different topic and a different purpose "
+            "(&ldquo;give up&rdquo; rather than &ldquo;completely "
+            "understand&rdquo;) in SN 45.30, the vagga's own closing "
+            "discourse, confirmed by direct comparison of both "
+            "discourses' own final sentences.",
+        ]),
+    ],
+    terms=[
+        ("tisso vedanā", "&ldquo;three feelings&rdquo; &mdash; "
+             "pleasant, painful, and neutral, this discourse's own "
+             "opening list"),
+        ("sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā",
+             "&ldquo;pleasant, painful, and neutral feeling&rdquo; "
+             "&mdash; the three named without further elaboration"),
+        ("pariññāya", "&ldquo;to completely understand&rdquo; "
+             "&mdash; the specific purpose this discourse assigns to "
+             "developing the eightfold path"),
+        ("ariyo aṭṭhaṅgiko maggo bhāvetabbo", "&ldquo;the noble "
+             "eightfold path should be developed&rdquo; &mdash; the "
+             "prescription this discourse and SN 45.30 both share, "
+             "with different stated purposes"),
+        ("pariññā", "&ldquo;complete understanding&rdquo; &mdash; a "
+             "term this project has met elsewhere as one stage among "
+             "several regarding a topic, here named as the "
+             "eightfold path's own specific target"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.29:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What three feelings does this discourse name?",
+         "opts": ["Pleasant, painful, and neutral", "Physical and mental only, two kinds", "Five kinds, matching the five aggregates", "The discourse names feeling without specifying how many kinds"],
+         "correct": 0,
+         "expl": "Listed plainly, without the extended analysis feeling receives in other saṃyuttas this project has built."},
+        {"q": "What specific purpose does this discourse assign to developing the eightfold path?",
+         "opts": ["To completely understand the three feelings", "To eliminate feeling entirely", "To increase pleasant feeling and reduce painful feeling", "No specific purpose is given"],
+         "correct": 0,
+         "expl": "A named function — \"complete understanding\" — rather than simply naming the path in general terms."},
+        {"q": "What pattern does SN 45.30 repeat from this discourse, with a different topic and purpose?",
+         "opts": ["Name a topic, then prescribe the eightfold path with a specific stated purpose", "An identical discussion of the three feelings", "A denial that the eightfold path applies to sensory experience", "A completely unrelated structure"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — SN 45.30 uses \"give up\" rather than \"completely understand\" as its own stated purpose."},
+    ],
+    marginalia=[
+        ("Three feelings, plainly listed", [
+            "pleasant, painful, neutral —",
+            "no extended analysis here",
+        ]),
+        ("A purpose, not just a path named", [
+            "\"to completely understand\" —",
+            "a specific, named function",
+        ]),
+        ("A template SN 45.30 will repeat", [
+            "topic, then path, then purpose —",
+            "the closing discourse follows the same shape",
+        ]),
+        ("Feeling, resolved this time", [
+            "unlike SN 45.11-12's own cryptic treatment —",
+            "here, a clear prescription is given",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.29/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.28.html\">SN 45.28 &middot; Immersion</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-45.30.html\">SN 45.30 &middot; With "
+        "Uttiya</a> &mdash; the next discourse, closing this vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.30 — Uttiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 30, "Uttiya", "With Uttiya",
+    vagga="Micchattavagga",
+    meta_title="SN 45.30 — With Uttiya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Uttiyasutta &mdash; the five kinds of sensual "
+        "stimulation named in full, the eightfold path prescribed to "
+        "give them up, closing Micchattavagga. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Uttiya and the Buddha"),
+        ("Form", "A question arising from private reflection, "
+                 "answered in full, closing this vagga"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, a direct list and prescription"),
+    ],
+    why=(
+        "Venerable Uttiya brings a question that arose &ldquo;in "
+        "private retreat&rdquo; &mdash; what are the five kinds of "
+        "sensual stimulation the Buddha has spoken of? &mdash; and "
+        "receives the full list (sights, sounds, smells, tastes, and "
+        "touches, each &ldquo;likable, desirable, agreeable, "
+        "pleasant, sensual, and arousing&rdquo;) before the eightfold "
+        "path is prescribed to give them up, closing Micchattavagga, "
+        "this saṃyutta's own third vagga."
+    ),
+    guide=[
+        ("A question born from solitary practice", [
+            "&ldquo;As I was in private retreat this thought came to "
+            "mind&rdquo; frames Uttiya's own question as arising from "
+            "his own meditation, not from doctrinal dispute or "
+            "outside challenge &mdash; a note this project has met "
+            "before as marking a genuinely personal, practice-based "
+            "curiosity.",
+        ]),
+        ("Five senses, one repeated description", [
+            "Sights, sounds, smells, tastes, and touches are each "
+            "described with the identical six-term formula "
+            "(&ldquo;likable, desirable, agreeable, pleasant, "
+            "sensual, and arousing&rdquo;), confirmed by reading all "
+            "five instances directly &mdash; the source itself elides "
+            "the middle three senses' own repetition of this formula "
+            "with an ellipsis, preserved here rather than spelled "
+            "out by hand.",
+        ]),
+        ("This vagga's own closing pattern, echoing SN 45.29", [
+            "As at SN 45.29, a topic is named in full before the "
+            "eightfold path is prescribed with a specific stated "
+            "purpose &mdash; here &ldquo;to give up&rdquo; rather "
+            "than &ldquo;to completely understand&rdquo; &mdash; "
+            "confirming this vagga's own final two discourses share "
+            "one template with two different purposes, closing "
+            "Micchattavagga on this saṃyutta's own recurring promise: "
+            "whatever the topic, the eightfold path is the "
+            "prescribed response.",
+        ]),
+    ],
+    terms=[
+        ("rahogatassa paṭisallīnassa", "&ldquo;in private retreat, "
+             "secluded&rdquo; &mdash; the setting for Uttiya's own "
+             "question, marking it as arising from solitary practice"),
+        ("pañca kāmaguṇā", "&ldquo;the five kinds of sensual "
+             "stimulation&rdquo; &mdash; sights, sounds, smells, "
+             "tastes, and touches, this discourse's own central "
+             "topic"),
+        ("iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā",
+             "&ldquo;likable, desirable, agreeable, pleasant, "
+             "sensual, and arousing&rdquo; &mdash; the identical "
+             "six-term description repeated for each of the five "
+             "senses"),
+        ("pahānāya", "&ldquo;to give up&rdquo; &mdash; this "
+             "discourse's own stated purpose for developing the "
+             "eightfold path, distinct from SN 45.29's own "
+             "&ldquo;to completely understand&rdquo;"),
+        ("micchattavaggo tatiyo", "&ldquo;Micchattavagga is the "
+             "third [vagga]&rdquo; &mdash; this vagga's own closing "
+             "colophon, left untranslated in the root and described "
+             "rather than quoted as English here"),
+    ],
+    text_intro=("The complete genuinely translated content of the "
+        "discourse, the source's own elision of the middle three "
+        "senses' repeated description preserved rather than spelled "
+        "out by hand. This vagga's own closing colophon is described, "
+        "not quoted, above. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.30:1.1-1.18"),
+    ],
+    quiz=[
+        {"q": "What prompts Uttiya's own question in this discourse?",
+         "opts": ["A thought that arose during his own private retreat", "A challenge from a wanderer of another religion", "A dispute with another mendicant", "A direct instruction from the Buddha to ask"],
+         "correct": 0,
+         "expl": "Marked as a genuinely personal, practice-based curiosity, not doctrinal dispute or outside challenge."},
+        {"q": "What description does the Buddha apply identically to each of the five kinds of sensual stimulation?",
+         "opts": ["\"Likable, desirable, agreeable, pleasant, sensual, and arousing\"", "\"Painful, disagreeable, and to be avoided\"", "A different unique description for each sense", "No description is given, only the list of five senses"],
+         "correct": 0,
+         "expl": "The identical six-term formula, confirmed by reading all five instances directly."},
+        {"q": "What purpose does this discourse give for developing the eightfold path, distinct from SN 45.29's own?",
+         "opts": ["\"To give up\" the five kinds of sensual stimulation, rather than \"to completely understand\"", "The identical purpose as SN 45.29", "No purpose is stated", "\"To increase\" enjoyment of sensual stimulation"],
+         "correct": 0,
+         "expl": "Confirming this vagga's own final two discourses share one template with two different stated purposes."},
+    ],
+    marginalia=[
+        ("A question from solitary practice", [
+            "arising in private retreat —",
+            "not from dispute or outside challenge",
+        ]),
+        ("Five senses, one repeated formula", [
+            "likable, desirable, agreeable, pleasant, sensual, arousing —",
+            "identical for sight, sound, smell, taste, touch",
+        ]),
+        ("Give up, not merely understand", [
+            "SN 45.29's own purpose, changed —",
+            "the same template, a different aim",
+        ]),
+        ("Micchattavagga closes", [
+            "ten discourses, five reframings then genuine new ground —",
+            "eleven more vaggas still ahead in this saṃyutta",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.30/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.29.html\">SN 45.29 &middot; Feeling</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-55.1.html\">SN 55.1 &middot; A Wheel-Turning "
+        "Monarch</a> &mdash; already published on this site, "
+        "standing ahead of this project's next vagga, Paṭipattivagga "
+        "(SN 45.31&ndash;40), not yet built.",
+    ],
+)
