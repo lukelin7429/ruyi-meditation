@@ -1357,3 +1357,1321 @@ page(
         "(SN 45.11&ndash;20), not yet built.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# Vihāravagga (SN 45.11-20, "The Chapter on Meditation" -- vihāra more
+# literally "dwelling" or "abiding," rendered "Meditation" by Sujato
+# in context of this vagga's own retreat narratives) is this
+# saṃyutta's own second vagga, confirmed by direct reading to be all
+# ten individual files, no peyyāla merges. Root Pāli itself notes at
+# SN 45.20's own colophon that its own final three discourses (SN
+# 45.18-20) share "one shared setting" (ekanidānāni), confirmed by
+# reading all three directly -- the Chicken Monastery at Pāṭaliputta,
+# Ānanda and Bhadda in dialogue throughout. Structurally this vagga
+# mixes a philosophically dense opening pair with several near-uniform
+# short catechisms: SN 45.11-12 are a matched pair on what the Buddha
+# reports investigating during two separate retreats (a fortnight,
+# then three months) shortly after his own awakening -- a notably
+# cryptic analysis of "feeling conditioned by" view, immersion,
+# desire, thought, and perception, confirmed by direct reading not to
+# resolve into any of this vagga's usual eightfold-path answers; SN
+# 45.13 defines "a trainee"; SN 45.14-17 are four near-identical short
+# statements in a two-by-two structure (arising vs. purification,
+# each crossed with "only when a Buddha appears" vs. "only within the
+# Holy One's training"), confirmed by direct comparison to be four
+# genuinely distinct combinations rather than repeated duplicates; and
+# SN 45.18-20 are the Chicken Monastery trio, Bhadda questioning
+# Ānanda on the wrong path, the path, and (in the third) who counts as
+# "one on the path," Ānanda's own consistent opening praise ("good,
+# good, Reverend Bhadda!") repeated for each question in turn.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 45.11 — Paṭhamavihārasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 11, "Vihāra", "Meditation (1st)",
+    vagga="Vihāravagga",
+    meta_title="SN 45.11 — Meditation (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamavihārasutta &mdash; the Buddha's own cryptic "
+        "report on a fortnight's retreat, investigating \"feeling "
+        "conditioned by\" view, immersion, desire, thought, and "
+        "perception. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, after a fortnight's solitary retreat"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A retreat announced, then a report on what was "
+                 "investigated during it"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "short but genuinely cryptic, no eightfold-"
+                       "path resolution given"),
+    ],
+    why=(
+        "The Buddha announces a fortnight's solitary retreat &mdash; "
+        "no one to approach him except whoever brings his almsfood "
+        "&mdash; and on emerging, reports that he has been "
+        "&ldquo;practicing part of the meditation&rdquo; he practiced "
+        "&ldquo;when I was first awakened.&rdquo; What follows is "
+        "genuinely unusual for this vagga: not the eightfold path "
+        "named as an answer, but a list of what feeling is "
+        "&ldquo;conditioned by&rdquo; &mdash; wrong or right view, "
+        "wrong or right immersion, desire, thought, perception "
+        "&mdash; left without further resolution or explanation."
+    ),
+    guide=[
+        ("A retreat announced in the Buddha's own words", [
+            "&ldquo;No-one should approach me, except for the one "
+            "who brings my almsfood&rdquo; is a specific, practical "
+            "instruction this project has not seen the Buddha give "
+            "quite this way before, confirmed by reading the "
+            "discourse's own opening directly &mdash; a fortnight of "
+            "genuinely uninterrupted solitude.",
+        ]),
+        ("A report on early post-awakening practice", [
+            "&ldquo;Part of the meditation I practiced when I was "
+            "first awakened&rdquo; frames what follows as "
+            "retrospective, not a new teaching devised for the "
+            "occasion &mdash; the Buddha investigating, on retreat, "
+            "something from his own early practice rather than "
+            "formulating fresh doctrine.",
+        ]),
+        ("Feeling conditioned by five things, left unresolved", [
+            "View, immersion, desire, thought, and perception (each "
+            "in a wrong/right or stilled/unstilled pairing) are each "
+            "named as conditions for feeling, and the discourse "
+            "closes on &ldquo;effort to attain the unattained&rdquo; "
+            "also conditioning feeling &mdash; confirmed by reading "
+            "the discourse's own ending directly, no further "
+            "resolution or application to the eightfold path is "
+            "given, unlike nearly every other discourse in this "
+            "vagga.",
+        ]),
+    ],
+    terms=[
+        ("aḍḍhamāsaṁ paṭisallīyitukāmo", "&ldquo;I wish to go on "
+             "retreat for a fortnight&rdquo; &mdash; the Buddha's own "
+             "specific announcement, with an equally specific "
+             "instruction about who may approach"),
+        ("yaṁ mayā paṭhamābhisambuddhena vihāraṁ", "&ldquo;part of "
+             "the meditation I practiced when I was first "
+             "awakened&rdquo; &mdash; the discourse's own framing of "
+             "what follows as retrospective investigation"),
+        ("micchādiṭṭhipaccayāpi vedanā, sammādiṭṭhipaccayāpi vedanā",
+             "&ldquo;there's feeling conditioned by wrong view, and "
+             "feeling conditioned by right view&rdquo; &mdash; the "
+             "first of several conditions for feeling this "
+             "discourse names without further resolution"),
+        ("chanda... vitakka... saññā", "&ldquo;desire... "
+             "thought... perception&rdquo; &mdash; three further "
+             "conditions for feeling, alongside view and immersion"),
+        ("appattassa pattiyā āyogo", "&ldquo;effort to attain the "
+             "unattained&rdquo; &mdash; the discourse's own closing "
+             "condition for feeling, itself also left unresolved"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated "
+        "&mdash; no further resolution or eightfold-path application "
+        "is given in the source itself, and none is supplied here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A fortnight's retreat, announced"),
+        ("p", "&sect;1", "sn45.11:1.1-1.4"),
+        ("h3", "A report: feeling, conditioned by five things"),
+        ("p", "&sect;2", "sn45.11:2.1-2.13"),
+    ],
+    quiz=[
+        {"q": "What specific instruction does the Buddha give before his fortnight's retreat?",
+         "opts": ["No-one should approach him, except for the one who brings his almsfood", "The mendicants should meditate alongside him", "He should not be disturbed under any circumstances, including for food", "Only Ānanda may approach him"],
+         "correct": 0,
+         "expl": "A specific, practical instruction for genuinely uninterrupted solitude."},
+        {"q": "How does the Buddha frame what he investigated during this retreat?",
+         "opts": ["As part of the meditation he practiced when first awakened, not a new teaching", "As an entirely new doctrine devised for the occasion", "As something Ānanda had requested he investigate", "As a response to a specific mendicant's question"],
+         "correct": 0,
+         "expl": "Retrospective investigation of early post-awakening practice, not fresh formulation."},
+        {"q": "Does this discourse resolve its own list of conditions for feeling into the eightfold path, as most of this vagga's discourses do?",
+         "opts": ["No — it ends without further resolution or application", "Yes, immediately after listing the conditions", "Yes, but only after a lengthy explanation", "The eightfold path is the only topic discussed"],
+         "correct": 0,
+         "expl": "Genuinely unusual for this vagga — the list of conditions for feeling stands without further resolution."},
+    ],
+    marginalia=[
+        ("A fortnight, uninterrupted", [
+            "no-one approaches, except with almsfood —",
+            "genuine solitude, specifically instructed",
+        ]),
+        ("Early practice, retrospectively reported", [
+            "\"when I was first awakened\" —",
+            "not a new teaching for the occasion",
+        ]),
+        ("Five conditions, left open", [
+            "view, immersion, desire, thought, perception —",
+            "no eightfold-path resolution given",
+        ]),
+        ("Unusual within this vagga", [
+            "no familiar closing formula —",
+            "genuinely unresolved, as found",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.10.html\">SN 45.10 &middot; With "
+        "Nandiya</a> &mdash; the previous discourse, closing "
+        "Avijjāvagga.",
+        "<a href=\"sn-45.12.html\">SN 45.12 &middot; Meditation "
+        "(2nd)</a> &mdash; the next discourse, this pair's own "
+        "three-month companion.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.12 — Dutiyavihārasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 12, "Vihāra", "Meditation (2nd)",
+    vagga="Vihāravagga",
+    meta_title="SN 45.12 — Meditation (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyavihārasutta &mdash; a three-month retreat, the "
+        "same cryptic report as SN 45.11 but with each condition for "
+        "feeling doubled by its own settling. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī, after a three-month solitary retreat"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical structure as SN 45.11, at far "
+                 "greater length of retreat and with each condition "
+                 "doubled"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "short but genuinely cryptic, as SN 45.11"),
+    ],
+    why=(
+        "The identical retreat-and-report structure as SN 45.11, but "
+        "for three months rather than a fortnight, and with a "
+        "genuine addition confirmed by direct comparison: each "
+        "condition for feeling &mdash; view, immersion, desire, "
+        "thought, perception &mdash; is now doubled by its own "
+        "&ldquo;settling&rdquo; (vūpasama) as a further condition, "
+        "not merely repeated from SN 45.11 with a longer retreat "
+        "attached."
+    ),
+    guide=[
+        ("Three months, not a fortnight", [
+            "The retreat itself is over six times longer than SN "
+            "45.11's own, confirmed by direct comparison &mdash; "
+            "this project does not assume the longer retreat simply "
+            "produces a longer report of the identical content "
+            "without checking, and it does not.",
+        ]),
+        ("Each condition, now doubled by its own settling", [
+            "Where SN 45.11 named &ldquo;feeling conditioned by "
+            "wrong view&rdquo; and &ldquo;by right view&rdquo; as two "
+            "conditions, this discourse adds &ldquo;by the settling "
+            "of wrong view&rdquo; and &ldquo;by the settling of right "
+            "view&rdquo; as two more, doubling the same structure "
+            "across all five listed conditions &mdash; confirmed by "
+            "reading both discourses directly rather than assumed "
+            "from their otherwise identical framing.",
+        ]),
+        ("Still no eightfold-path resolution", [
+            "As at SN 45.11, this discourse ends without applying "
+            "its own list to the eightfold path or any other of this "
+            "vagga's familiar closing formulas &mdash; confirmed by "
+            "reading the discourse's own final lines directly, the "
+            "cryptic, unresolved quality is not particular to the "
+            "shorter retreat of SN 45.11 alone.",
+        ]),
+    ],
+    terms=[
+        ("temāsaṁ paṭisallīyitukāmo", "&ldquo;I wish to go on retreat "
+             "for three months&rdquo; &mdash; this discourse's own "
+             "far longer retreat, more than six times SN 45.11's own "
+             "fortnight"),
+        ("micchādiṭṭhipaccayāpi... micchādiṭṭhivūpasamapaccayāpi",
+             "&ldquo;conditioned by wrong view... conditioned by the "
+             "settling of wrong view&rdquo; &mdash; the doubled "
+             "structure this discourse adds to SN 45.11's own list"),
+        ("vūpasama", "&ldquo;settling&rdquo; &mdash; the additional "
+             "condition doubling each of the five items in this "
+             "discourse's own list"),
+        ("chandapaccayāpi... chandavūpasamapaccayāpi", "&ldquo;by "
+             "desire... by the settling of desire&rdquo; &mdash; the "
+             "doubled pattern applied to desire, as to view, "
+             "immersion, thought, and perception"),
+        ("appattassa pattiyā āyogo", "&ldquo;effort to attain the "
+             "unattained&rdquo; &mdash; the discourse's own closing "
+             "condition, identical in wording to SN 45.11's own"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated "
+        "&mdash; the doubled &ldquo;settling&rdquo; structure is "
+        "preserved exactly as bilara-data gives it, not simplified "
+        "into SN 45.11's own shorter list. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A three-month retreat, announced"),
+        ("p", "&sect;1", "sn45.12:1.1-1.4"),
+        ("h3", "A report: feeling, conditioned by five things and "
+                "their own settling"),
+        ("p", "&sect;2", "sn45.12:2.1-2.19"),
+    ],
+    quiz=[
+        {"q": "How does the length of this discourse's own retreat compare to SN 45.11's own?",
+         "opts": ["Three months, more than six times longer than SN 45.11's own fortnight", "Exactly the same length", "Half as long", "Not specified in this discourse"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a genuinely different, much longer retreat, not a repeated detail."},
+        {"q": "What genuine addition does this discourse make to SN 45.11's own list of conditions for feeling?",
+         "opts": ["Each condition is doubled by its own \"settling\" (vūpasama) as a further condition", "An entirely new sixth condition is introduced", "The list is shortened rather than expanded", "The eightfold path is finally named as the resolution"],
+         "correct": 0,
+         "expl": "Confirmed by reading both discourses directly — not merely a longer retreat attached to identical content."},
+        {"q": "Does this discourse resolve into the eightfold path or another familiar closing formula, unlike SN 45.11?",
+         "opts": ["No — it remains just as unresolved as SN 45.11", "Yes, it closes with the eightfold path named explicitly", "Yes, it closes with the \"ending of greed, hate, and delusion\" formula", "It introduces an entirely different closing formula"],
+         "correct": 0,
+         "expl": "The cryptic, unresolved quality is shared by both discourses, not particular to the shorter retreat alone."},
+    ],
+    marginalia=[
+        ("A far longer retreat", [
+            "three months, not a fortnight —",
+            "six times the length of SN 45.11's own",
+        ]),
+        ("Each condition, now doubled", [
+            "settling added to every item —",
+            "a genuine expansion, not mere repetition",
+        ]),
+        ("Still no resolution given", [
+            "as cryptic as its own companion —",
+            "the longer retreat does not resolve it",
+        ]),
+        ("A matched pair, genuinely distinct", [
+            "same structure, different scale —",
+            "checked directly, not assumed identical",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.11.html\">SN 45.11 &middot; Meditation "
+        "(1st)</a> &mdash; the previous discourse, this pair's own "
+        "fortnight companion.",
+        "<a href=\"sn-45.13.html\">SN 45.13 &middot; A "
+        "Trainee</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.13 — Sekhasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 13, "Sekha", "A Trainee",
+    vagga="Vihāravagga",
+    meta_title="SN 45.13 — A Trainee | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sekhasutta &mdash; a mendicant's plain question about "
+        "who counts as \"a trainee,\" answered with the eightfold "
+        "path's own trainee-level factors. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "An unnamed mendicant and the Buddha"),
+        ("Form", "A single question, a single-sentence answer"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "very short, a direct definition"),
+    ],
+    why=(
+        "After SN 45.11&ndash;12's own cryptic reports, this "
+        "discourse returns to the plainest possible form: a "
+        "mendicant asks how &ldquo;a trainee&rdquo; (sekha, someone "
+        "still training toward full awakening rather than an "
+        "arahant who has completed the training) is defined, and the "
+        "Buddha answers with the eightfold path's own eight factors, "
+        "specified as &ldquo;a trainee's&rdquo; own version of each."
+    ),
+    guide=[
+        ("A term defined by degree, not by a different path", [
+            "&ldquo;A trainee's right view&rdquo; and so on through "
+            "all eight factors implies a distinction of degree "
+            "&mdash; the same eightfold path, held by someone still "
+            "in training, rather than a separate, lesser path "
+            "reserved for trainees &mdash; confirmed by reading the "
+            "discourse's own single sentence directly, which names "
+            "no different factors, only the identical eight "
+            "qualified as &ldquo;a trainee's.&rdquo;",
+        ]),
+        ("A short, plain answer after two dense ones", [
+            "Following SN 45.11&ndash;12's own unresolved reports on "
+            "retreat, this discourse's own directness &mdash; one "
+            "question, one sentence in reply &mdash; reads as a "
+            "deliberate contrast in register within the same vagga, "
+            "not a contradiction of the preceding discourses' own "
+            "different, more open-ended concerns.",
+        ]),
+    ],
+    terms=[
+        ("sekho", "&ldquo;a trainee&rdquo; &mdash; someone still "
+             "training toward full awakening, this discourse's own "
+             "central term"),
+        ("sekhāya sammādiṭṭhiyā", "&ldquo;a trainee's right "
+             "view&rdquo; &mdash; the first of the eight factors, "
+             "each specified as belonging to one still in training"),
+        ("sekhāya sammāsamādhiyā", "&ldquo;a trainee's right "
+             "immersion&rdquo; &mdash; the eighth and last factor "
+             "named in this discourse's own single sentence"),
+        ("evaṁ kho, bhikkhu, sekho hoti", "&ldquo;that's how a "
+             "trainee is defined&rdquo; &mdash; the discourse's own "
+             "closing formula"),
+        ("aññataro bhikkhu", "&ldquo;a mendicant&rdquo; &mdash; the "
+             "unnamed questioner, this project's own recurring "
+             "device for a plain catechism"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.13:1.1-2.2"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha define \"a trainee\" in this discourse?",
+         "opts": ["Someone who has a trainee's version of all eight factors of the eightfold path", "Someone who has attained full awakening", "Someone newly ordained, regardless of understanding", "Someone who has mastered only right view alone"],
+         "correct": 0,
+         "expl": "The identical eightfold path, held by someone still in training — a distinction of degree, not a different path."},
+        {"q": "Does this discourse name a different set of factors for trainees than the standard eightfold path?",
+         "opts": ["No — the same eight factors, qualified as \"a trainee's\"", "Yes, a shorter list of only four factors", "Yes, an entirely separate list", "The discourse does not specify any factors at all"],
+         "correct": 0,
+         "expl": "Confirmed by reading the discourse's own single sentence directly."},
+        {"q": "How does this discourse's own register compare to SN 45.11-12's own?",
+         "opts": ["A deliberate contrast — short and plain after two cryptic, unresolved reports", "Identical in length and structure", "Even more cryptic than SN 45.11-12", "It directly contradicts what SN 45.11-12 taught"],
+         "correct": 0,
+         "expl": "A shift in register within the same vagga, not a contradiction of the preceding discourses' own different concerns."},
+    ],
+    marginalia=[
+        ("A degree, not a different path", [
+            "\"a trainee's\" right view, purpose, speech —",
+            "the same eight factors, still in training",
+        ]),
+        ("Plain, after two cryptic reports", [
+            "one question, one sentence —",
+            "a deliberate shift in register",
+        ]),
+        ("The eightfold path, once more", [
+            "this vagga's own recurring answer —",
+            "here qualified rather than resolved",
+        ]),
+        ("An unnamed questioner", [
+            "\"a mendicant\" — no name given —",
+            "a familiar device for a plain catechism",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.13/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.12.html\">SN 45.12 &middot; Meditation "
+        "(2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.14.html\">SN 45.14 &middot; Arising "
+        "(1st)</a> &mdash; the next discourse, opening a run of four "
+        "near-identical short statements.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.14 — Paṭhamuppādāsutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 14, "Uppāda", "Arising (1st)",
+    vagga="Vihāravagga",
+    meta_title="SN 45.14 — Arising (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamuppādāsutta &mdash; the eightfold path's own eight "
+        "factors declared incapable of arising except when a Buddha "
+        "has appeared in the world. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The first of four near-identical short statements, "
+                 "this vagga's own tightest quartet"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "very short, one direct claim"),
+    ],
+    why=(
+        "A single, emphatic claim: the eightfold path's own eight "
+        "factors do not arise to be developed and cultivated "
+        "&ldquo;except when a Realized One, a perfected one, a fully "
+        "awakened Buddha has appeared&rdquo; in the world &mdash; the "
+        "first of four discourses (SN 45.14&ndash;17) this project "
+        "confirms by direct comparison to combine two variables "
+        "(arising vs. purification, a Buddha's own appearance vs. "
+        "the Holy One's training) into four genuinely distinct "
+        "statements rather than four copies of one."
+    ),
+    guide=[
+        ("A claim about historical rarity", [
+            "The eightfold path is not presented here as a truth "
+            "always somehow latent in the world, waiting to be "
+            "noticed &mdash; it &ldquo;does not arise&rdquo; at all "
+            "without a Buddha's own appearance, a strong claim about "
+            "how rare and dependent on a specific kind of teacher "
+            "this practice actually is.",
+        ]),
+        ("The first of a genuine four-part matrix", [
+            "Confirmed by reading all four discourses in this run "
+            "directly: SN 45.14 combines &ldquo;arising&rdquo; with "
+            "&ldquo;a Buddha's own appearance&rdquo;; SN 45.15 keeps "
+            "&ldquo;arising&rdquo; but changes the condition to "
+            "&ldquo;the Holy One's training&rdquo;; SN 45.16&ndash;17 "
+            "repeat the same two conditions but for "
+            "&ldquo;purification&rdquo; rather than "
+            "&ldquo;arising&rdquo; &mdash; four distinct combinations, "
+            "not four repetitions.",
+        ]),
+    ],
+    terms=[
+        ("na... uppajjanti aññatra tathāgatassa pātubhāvā", "&ldquo;these "
+             "eight things don't arise... except when a Realized "
+             "One... has appeared&rdquo; &mdash; this discourse's own "
+             "central claim"),
+        ("arahato sammāsambuddhassa", "&ldquo;a perfected one, a "
+             "fully awakened Buddha&rdquo; &mdash; the specific kind "
+             "of appearance this discourse says the eightfold path "
+             "depends on"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated&rdquo; "
+             "&mdash; what the eight factors cannot come to be, apart "
+             "from a Buddha's own appearance"),
+        ("ariyo aṭṭhaṅgiko maggo", "the eightfold path's own eight "
+             "factors, named in full as this discourse's own subject"),
+        ("uppāda", "&ldquo;arising&rdquo; &mdash; the specific "
+             "variable this discourse and its own immediate "
+             "companion, SN 45.15, both concern"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.14:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about the eightfold path's own eight factors?",
+         "opts": ["They do not arise to be developed except when a Buddha has appeared in the world", "They arise naturally in every generation regardless of teachers", "They arise only through solitary retreat", "They arise only for trainees, not for laypeople"],
+         "correct": 0,
+         "expl": "A strong claim about historical rarity, not a truth presented as always latently available."},
+        {"q": "What two variables does this run of four discourses (SN 45.14-17) combine, confirmed by direct comparison?",
+         "opts": ["Arising vs. purification, crossed with a Buddha's appearance vs. the Holy One's training", "Four completely unrelated topics", "The same single claim repeated four times with no variation", "Four different numbers of path factors"],
+         "correct": 0,
+         "expl": "Four genuinely distinct combinations, not four copies of one statement."},
+        {"q": "What specific kind of figure does this discourse say the eightfold path's own arising depends on?",
+         "opts": ["A Realized One, a perfected one, a fully awakened Buddha", "Any respected teacher", "A king who supports the teaching", "A community of at least five mendicants"],
+         "correct": 0,
+         "expl": "A specific and demanding condition, not any generally wise or respected figure."},
+    ],
+    marginalia=[
+        ("A claim about rarity", [
+            "not latent, waiting to be found —",
+            "dependent on a Buddha's own appearance",
+        ]),
+        ("First of a genuine four-part matrix", [
+            "arising, crossed with a Buddha's appearance —",
+            "three more combinations still to come",
+        ]),
+        ("The eightfold path, at stake", [
+            "all eight factors named together —",
+            "their very possibility, not their content",
+        ]),
+        ("A tight, emphatic statement", [
+            "one claim, no elaboration —",
+            "this vagga's own shortest register",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.14/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.13.html\">SN 45.13 &middot; A "
+        "Trainee</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.15.html\">SN 45.15 &middot; Arising "
+        "(2nd)</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.15 — Dutiyuppādāsutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 15, "Uppāda", "Arising (2nd)",
+    vagga="Vihāravagga",
+    meta_title="SN 45.15 — Arising (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyuppādāsutta &mdash; the eightfold path's own "
+        "arising tied to the Holy One's own training rather than to "
+        "a Buddha's own appearance. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The second of four near-identical short statements, "
+                 "changing one variable from SN 45.14's own"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "very short, one direct claim"),
+    ],
+    why=(
+        "The identical claim as SN 45.14 &mdash; the eightfold "
+        "path's own eight factors do not arise to be developed and "
+        "cultivated &mdash; but tied to a different condition: not a "
+        "Buddha's own appearance in the world, but &ldquo;the Holy "
+        "One's training&rdquo; (sugatavinaya) specifically, confirmed "
+        "by direct comparison to be a genuinely distinct claim, not "
+        "a restatement of SN 45.14's own."
+    ),
+    guide=[
+        ("One variable changed, not the whole claim restated", [
+            "&ldquo;Apart from the Holy One's training&rdquo; "
+            "replaces SN 45.14's own &ldquo;except when a Realized "
+            "One... has appeared&rdquo; as the sole condition changed "
+            "&mdash; confirmed by reading both discourses side by "
+            "side, everything else (the eight factors named, "
+            "&ldquo;arise to be developed and cultivated&rdquo;) "
+            "stays identical.",
+        ]),
+        ("A teacher's appearance versus a teaching's own structure", [
+            "SN 45.14 locates the condition in a historical event (a "
+            "Buddha appearing); this discourse locates it instead in "
+            "an institution or system (the training itself) &mdash; "
+            "a meaningful shift in where the eightfold path's own "
+            "dependency is said to lie, from a person to a "
+            "structured practice.",
+        ]),
+    ],
+    terms=[
+        ("na... uppajjanti aññatra sugatavinayā", "&ldquo;these eight "
+             "things don't arise... apart from the Holy One's "
+             "training&rdquo; &mdash; this discourse's own central "
+             "claim, changed from SN 45.14's own"),
+        ("sugatavinayā", "&ldquo;the Holy One's training&rdquo; "
+             "&mdash; the specific condition this discourse names, "
+             "distinct from SN 45.14's own \"a Buddha has appeared\""),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated&rdquo; "
+             "&mdash; identical wording to SN 45.14's own, confirming "
+             "only the condition itself has changed"),
+        ("ariyo aṭṭhaṅgiko maggo", "the eightfold path's own eight "
+             "factors, named in full exactly as in SN 45.14"),
+        ("sugata", "&ldquo;the Holy One&rdquo; &mdash; an epithet "
+             "for the Buddha used here in a specifically structural "
+             "sense, naming his own training system rather than his "
+             "own historical appearance"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.15:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What condition does this discourse name for the eightfold path's own arising, different from SN 45.14's own?",
+         "opts": ["The Holy One's training, rather than a Buddha's own appearance", "No condition at all is given", "Both conditions from SN 45.14 are repeated together", "A condition involving a specific number of mendicants"],
+         "correct": 0,
+         "expl": "Confirmed by reading both discourses side by side — only the condition has changed, everything else is identical wording."},
+        {"q": "What shift does this discourse represent, compared to SN 45.14's own?",
+         "opts": ["From a historical event (a Buddha appearing) to a structured practice (the training itself)", "No meaningful shift — the discourses are functionally identical", "A shift from the eightfold path to a different list of factors", "A shift in setting from Sāvatthī to another location"],
+         "correct": 0,
+         "expl": "A meaningful change in where the eightfold path's own dependency is located."},
+        {"q": "What stays identical between this discourse and SN 45.14?",
+         "opts": ["The eight factors named and the \"developed and cultivated\" language", "Nothing — the two discourses share no wording", "Only the setting", "Only the opening address to the mendicants"],
+         "correct": 0,
+         "expl": "Everything except the single condition variable is confirmed identical between the two discourses."},
+    ],
+    marginalia=[
+        ("One variable changed", [
+            "the Holy One's training, not a Buddha's appearance —",
+            "everything else, identical wording",
+        ]),
+        ("Person, then structure", [
+            "there, a historical event —",
+            "here, a training system itself",
+        ]),
+        ("Second of a genuine four-part matrix", [
+            "arising, crossed with the training —",
+            "two more combinations still to come",
+        ]),
+        ("A precise, minimal change", [
+            "not a careless restatement —",
+            "one condition swapped, checked directly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.15/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.14.html\">SN 45.14 &middot; Arising "
+        "(1st)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.16.html\">SN 45.16 &middot; Purified "
+        "(1st)</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.16 — Paṭhamaparisuddhasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 16, "Parisuddha", "Purified (1st)",
+    vagga="Vihāravagga",
+    meta_title="SN 45.16 — Purified (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamaparisuddhasutta &mdash; the eightfold path's own "
+        "factors declared incapable of becoming purified except when "
+        "a Buddha has appeared. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The third of four near-identical short statements, "
+                 "changing the verb from \"arise\" to \"purified\""),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "very short, one direct claim"),
+    ],
+    why=(
+        "Where SN 45.14 concerned the eightfold path's own arising, "
+        "this discourse shifts to a different claim entirely: the "
+        "eight factors do not become &ldquo;purified, bright, "
+        "flawless, and rid of corruptions&rdquo; except when a "
+        "Buddha has appeared &mdash; a four-part description of "
+        "quality this project has not met applied to the eightfold "
+        "path quite this way before, confirmed by direct reading "
+        "rather than assumed to simply restate SN 45.14's own claim "
+        "with different words for the same idea."
+    ),
+    guide=[
+        ("Arising and purification as two distinct claims", [
+            "This discourse does not claim the eight factors cannot "
+            "exist at all without a Buddha &mdash; SN 45.14 already "
+            "made that claim &mdash; but that they cannot become "
+            "&ldquo;purified, bright, flawless, and rid of "
+            "corruptions,&rdquo; confirmed by direct comparison to be "
+            "a genuinely different concern, quality rather than mere "
+            "existence.",
+        ]),
+        ("A four-part description of quality", [
+            "&ldquo;Purified, bright, flawless, and rid of "
+            "corruptions&rdquo; (parisuddhā pariyodātā anaṅgaṇā "
+            "vigatūpakkilesā) names four distinct qualities together, "
+            "not a single vague notion of "
+            "&ldquo;goodness&rdquo; &mdash; confirmed by reading the "
+            "compound phrase directly in both its own occurrences in "
+            "this discourse.",
+        ]),
+    ],
+    terms=[
+        ("parisuddhā pariyodātā anaṅgaṇā vigatūpakkilesā", "&ldquo;purified, "
+             "bright, flawless, and rid of corruptions&rdquo; "
+             "&mdash; the four-part description this discourse "
+             "applies to the eightfold path's own eight factors"),
+        ("na... honti aññatra tathāgatassa pātubhāvā", "&ldquo;these "
+             "eight things don't [become purified]... except when a "
+             "Realized One... has appeared&rdquo; &mdash; this "
+             "discourse's own central claim, about quality rather "
+             "than mere arising"),
+        ("arahato sammāsambuddhassa", "&ldquo;a perfected one, a "
+             "fully awakened Buddha&rdquo; &mdash; the identical "
+             "condition SN 45.14 also named, now applied to "
+             "purification rather than arising"),
+        ("ariyo aṭṭhaṅgiko maggo", "the eightfold path's own eight "
+             "factors, this discourse's own subject as in SN 45.14"),
+        ("parisuddha", "&ldquo;purified&rdquo; &mdash; the variable "
+             "this discourse and its own immediate companion, SN "
+             "45.17, both concern, distinct from SN 45.14-15's own "
+             "\"arising\""),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.16:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim, distinct from SN 45.14's own claim about arising?",
+         "opts": ["The eight factors cannot become \"purified, bright, flawless, and rid of corruptions\" except when a Buddha has appeared", "The eight factors cannot exist at all under any circumstances", "The eight factors are automatically purified once they arise", "This discourse repeats SN 45.14's own claim word for word"],
+         "correct": 0,
+         "expl": "A genuinely different concern — quality of the factors, not their mere existence."},
+        {"q": "How many distinct qualities does the phrase \"purified, bright, flawless, and rid of corruptions\" name?",
+         "opts": ["Four", "One vague general quality", "Two", "Eight, matching the eight path factors"],
+         "correct": 0,
+         "expl": "Confirmed by reading the compound phrase directly — four distinct terms, not one blended notion."},
+        {"q": "What condition does this discourse share with SN 45.14?",
+         "opts": ["A Buddha's own appearance in the world", "The Holy One's training", "No shared condition — they are entirely unrelated", "A specific number of years of practice"],
+         "correct": 0,
+         "expl": "The same condition as SN 45.14, now applied to purification rather than arising, completing one quarter of this run's own matrix."},
+    ],
+    marginalia=[
+        ("A different claim, not a repeat", [
+            "purity, not mere existence —",
+            "\"purified, bright, flawless, rid of corruptions\"",
+        ]),
+        ("Four qualities, named together", [
+            "not one vague notion of \"good\" —",
+            "four distinct terms, checked directly",
+        ]),
+        ("The same condition as SN 45.14", [
+            "a Buddha's own appearance —",
+            "now applied to purification instead",
+        ]),
+        ("Third of a genuine four-part matrix", [
+            "purification, crossed with a Buddha's appearance —",
+            "one more combination still to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.16/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.15.html\">SN 45.15 &middot; Arising "
+        "(2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.17.html\">SN 45.17 &middot; Purified "
+        "(2nd)</a> &mdash; the next discourse, closing this run of "
+        "four.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.17 — Dutiyaparisuddhasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 17, "Parisuddha", "Purified (2nd)",
+    vagga="Vihāravagga",
+    meta_title="SN 45.17 — Purified (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaparisuddhasutta &mdash; closing a run of four "
+        "discourses, purification tied to the Holy One's own "
+        "training rather than to a Buddha's own appearance. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The fourth and last of four near-identical short "
+                 "statements, completing this run's own matrix"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "very short, one direct claim"),
+    ],
+    why=(
+        "The fourth combination, closing the run begun at SN 45.14: "
+        "purification (as in SN 45.16) tied to the Holy One's "
+        "training (as in SN 45.15) rather than to a Buddha's own "
+        "appearance. All four discourses in this run, confirmed now "
+        "by direct comparison across all four, complete a genuine "
+        "two-by-two matrix &mdash; arising or purification, crossed "
+        "with a Buddha's appearance or the training itself &mdash; "
+        "not four copies of one idea."
+    ),
+    guide=[
+        ("The fourth cell of a genuine matrix", [
+            "Confirmed by reading all four discourses of this run "
+            "side by side: SN 45.14 (arising / Buddha's appearance), "
+            "SN 45.15 (arising / the training), SN 45.16 "
+            "(purification / Buddha's appearance), and this "
+            "discourse (purification / the training) exhaust all "
+            "four combinations of the two variables, with no "
+            "combination repeated and none skipped.",
+        ]),
+        ("Why the matrix matters, not just its own completeness", [
+            "Together, these four discourses assert that neither the "
+            "mere existence nor the quality of the eightfold path's "
+            "own factors is available through the training system "
+            "alone without a Buddha's own historical appearance, "
+            "and also that neither is available through a Buddha's "
+            "own presence alone without the structured training "
+            "&mdash; both conditions, tested independently across "
+            "both variables, are shown necessary rather than either "
+            "one being merely sufficient on its own.",
+        ]),
+    ],
+    terms=[
+        ("na... honti aññatra sugatavinayā", "&ldquo;these eight "
+             "things don't [become purified]... apart from the Holy "
+             "One's training&rdquo; &mdash; this discourse's own "
+             "central claim, completing the four-part matrix"),
+        ("parisuddhā pariyodātā anaṅgaṇā vigatūpakkilesā", "&ldquo;purified, "
+             "bright, flawless, and rid of corruptions&rdquo; "
+             "&mdash; identical wording to SN 45.16's own, confirming "
+             "only the condition has changed"),
+        ("sugatavinayā", "&ldquo;the Holy One's training&rdquo; "
+             "&mdash; identical wording to SN 45.15's own, now "
+             "applied to purification rather than arising"),
+        ("ariyo aṭṭhaṅgiko maggo", "the eightfold path's own eight "
+             "factors, named identically across all four discourses "
+             "of this run"),
+        ("cattāri suttāni ekanidānāni", "a note this project's own "
+             "reading of the wider vagga confirms applies to a "
+             "different trio (SN 45.18-20's own shared setting), not "
+             "assumed here to describe this quartet's own separate "
+             "structure"),
+    ],
+    text_intro=("The complete discourse, closing this run of four. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.17:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What combination does this discourse complete, as the fourth of this run?",
+         "opts": ["Purification, tied to the Holy One's training", "Arising, tied to a Buddha's own appearance", "A brand new variable not found in SN 45.14-16", "An exact repeat of SN 45.16"],
+         "correct": 0,
+         "expl": "Completing a genuine two-by-two matrix across all four discourses, with no combination repeated."},
+        {"q": "What do all four discourses in this run together assert, according to this reading guide?",
+         "opts": ["Both a Buddha's own appearance and the structured training are necessary, neither sufficient alone", "Only a Buddha's own appearance matters; the training is irrelevant", "Only the training matters; a Buddha's own appearance is irrelevant", "Neither condition matters — the eightfold path arises spontaneously"],
+         "correct": 0,
+         "expl": "Both conditions tested independently across both variables, each shown necessary rather than merely sufficient."},
+        {"q": "How many genuinely distinct combinations do SN 45.14-17 complete together?",
+         "opts": ["Four — all combinations of two variables, each with two values", "Only two", "Eight, matching the number of path factors", "One combination, repeated four times"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison across all four discourses — a complete matrix, not four copies of one claim."},
+    ],
+    marginalia=[
+        ("The fourth cell, completing the matrix", [
+            "purification, tied to the training —",
+            "no combination repeated, none skipped",
+        ]),
+        ("Both conditions, shown necessary", [
+            "a Buddha's own appearance alone, not enough —",
+            "the training alone, not enough either",
+        ]),
+        ("Four discourses, one design", [
+            "arising and purification —",
+            "crossed with appearance and training",
+        ]),
+        ("A quartet closes", [
+            "the tightest run in this vagga —",
+            "the Chicken Monastery trio still ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.17/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.16.html\">SN 45.16 &middot; Purified "
+        "(1st)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.18.html\">SN 45.18 &middot; At the "
+        "Chicken Monastery (1st)</a> &mdash; the next discourse, "
+        "opening this vagga's own final trio.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.18 — Paṭhamakukkuṭārāmasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 18, "Kukkuṭārāma", "At the Chicken Monastery (1st)",
+    vagga="Vihāravagga",
+    meta_title="SN 45.18 — At the Chicken Monastery (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamakukkuṭārāmasutta &mdash; Bhadda asking Ānanda "
+        "what is \"not the spiritual path,\" opening this vagga's own "
+        "final trio at one shared setting. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Pāṭaliputta, the Chicken Monastery"),
+        ("Speakers", "Venerable Bhadda questioning Venerable Ānanda"),
+        ("Form", "The first of three discourses this vagga's own "
+                 "colophon confirms share one setting"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, a direct inversion of the familiar "
+                       "formula"),
+    ],
+    why=(
+        "Venerable Bhadda asks Ānanda not what the spiritual path is, "
+        "but what &ldquo;is not the spiritual path&rdquo; &mdash; a "
+        "question this vagga has not yet been asked directly, "
+        "confirmed by reading its own preceding seventeen discourses. "
+        "Ānanda's answer inverts the familiar formula precisely: the "
+        "wrong eightfold path, wrong view through wrong immersion, "
+        "named factor by factor exactly as the right path has been "
+        "throughout this saṃyutta."
+    ),
+    guide=[
+        ("A question this vagga has not yet asked", [
+            "Every earlier discourse in this saṃyutta asks what the "
+            "path <em>is</em>; this discourse's own question inverts "
+            "it, asking what is <em>not</em> the path, confirmed by "
+            "reading Bhadda's own precise wording directly rather "
+            "than assumed to be a simple variant of the familiar "
+            "question.",
+        ]),
+        ("Praise repeated as a formal opening, not flattery", [
+            "&ldquo;Good, good, Reverend Bhadda! Your approach and "
+            "eloquence are excellent, and it's a good question&rdquo; "
+            "&mdash; confirmed by reading all three discourses of "
+            "this trio directly, Ānanda opens each with this "
+            "identical formula before repeating the question back "
+            "and answering it, a fixed structural device rather than "
+            "spontaneous praise varying by question.",
+        ]),
+        ("The wrong path, named with the same precision as the right", [
+            "&ldquo;Wrong view, wrong purpose, wrong speech, wrong "
+            "action, wrong livelihood, wrong effort, wrong "
+            "mindfulness, and wrong immersion&rdquo; mirrors the "
+            "right eightfold path's own eight factors exactly, "
+            "confirming this project's own earlier observation at SN "
+            "45.1 that the path can be described running in either "
+            "direction &mdash; here as a definition of its own "
+            "negation, not a causal chain.",
+        ]),
+    ],
+    terms=[
+        ("kukkuṭārāme", "&ldquo;at the Chicken Monastery&rdquo; "
+             "&mdash; the shared setting for this discourse and its "
+             "own two companions, confirmed by this vagga's own "
+             "colophon to be one narrative frame across all three"),
+        ("abrahmacariyaṁ", "&ldquo;not the spiritual path&rdquo; "
+             "&mdash; Bhadda's own question, inverting this "
+             "saṃyutta's own usual framing"),
+        ("bhaddako... ummaṅgo, bhaddakaṁ paṭibhānaṁ, kalyāṇī paripucchā",
+             "&ldquo;your approach and eloquence are excellent, and "
+             "it's a good question&rdquo; &mdash; Ānanda's own fixed "
+             "opening formula, repeated across all three discourses "
+             "of this trio"),
+        ("micchāaṭṭhaṅgiko maggo", "&ldquo;the wrong eightfold "
+             "path&rdquo; &mdash; Ānanda's own answer, mirroring the "
+             "right path's own eight factors exactly"),
+        ("bhaddo", "Venerable Bhadda, the questioner throughout this "
+             "trio, addressed by Ānanda with the same praise each "
+             "time"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.18:1.1-2.10"),
+    ],
+    quiz=[
+        {"q": "What does Bhadda ask Ānanda in this discourse?",
+         "opts": ["What is \"not the spiritual path\"", "What is the spiritual path itself", "Who is a trainee", "How many discourses are in this saṃyutta"],
+         "correct": 0,
+         "expl": "An inversion of the familiar question this vagga's own preceding seventeen discourses have not yet asked directly."},
+        {"q": "What does Ānanda's opening formula, repeated across all three discourses of this trio, function as?",
+         "opts": ["A fixed structural device, not spontaneous praise varying by question", "A unique compliment tailored to each specific question", "A warning that the question is inappropriate", "A request for Bhadda to ask a different question"],
+         "correct": 0,
+         "expl": "Confirmed by reading all three discourses directly — the identical formula opens each one."},
+        {"q": "How does Ānanda answer what \"is not the spiritual path\"?",
+         "opts": ["The wrong eightfold path, mirroring the right path's own eight factors exactly", "By refusing to answer the question", "By naming an entirely different list unrelated to the eightfold path", "By redirecting to a question about feeling"],
+         "correct": 0,
+         "expl": "A precise inversion, confirming the path can be described running in either direction, as this project's own SN 45.1 already showed."},
+    ],
+    marginalia=[
+        ("A question inverted", [
+            "not \"what is the path\" —",
+            "\"what is not the path\"",
+        ]),
+        ("Praise as a fixed formula", [
+            "\"good, good, Reverend Bhadda!\" —",
+            "repeated identically across this whole trio",
+        ]),
+        ("The wrong path, precisely mirrored", [
+            "wrong view through wrong immersion —",
+            "the same eight factors, negated",
+        ]),
+        ("A shared setting begins", [
+            "the Chicken Monastery, Pāṭaliputta —",
+            "one narrative frame across three discourses",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.18/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.17.html\">SN 45.17 &middot; Purified "
+        "(2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.19.html\">SN 45.19 &middot; At the "
+        "Chicken Monastery (2nd)</a> &mdash; the next discourse, "
+        "this trio's own middle piece.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.19 — Dutiyakukkuṭārāmasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 19, "Kukkuṭārāma", "At the Chicken Monastery (2nd)",
+    vagga="Vihāravagga",
+    meta_title="SN 45.19 — At the Chicken Monastery (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyakukkuṭārāmasutta &mdash; Bhadda's question "
+        "returns to the ordinary framing, what the spiritual path is "
+        "and its own culmination. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Pāṭaliputta, the Chicken Monastery (continuing "
+                     "directly from SN 45.18)"),
+        ("Speakers", "Venerable Bhadda questioning Venerable Ānanda"),
+        ("Form", "The middle discourse of this trio, returning to "
+                 "the ordinary two-part question"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, a familiar two-part question"),
+    ],
+    why=(
+        "Having asked what is not the path in SN 45.18, Bhadda now "
+        "asks the ordinary question this saṃyutta has posed many "
+        "times: what is the spiritual path, and what is its own "
+        "culmination? Ānanda's answer &mdash; the eightfold path "
+        "itself, and &ldquo;the ending of greed, hate, and "
+        "delusion&rdquo; as its culmination &mdash; matches this "
+        "project's own SN 45.6 nearly word for word, confirmed by "
+        "direct comparison."
+    ),
+    guide=[
+        ("The same question SN 45.6 already asked", [
+            "&ldquo;What is the spiritual path? And what is the "
+            "culmination of the spiritual path?&rdquo; is confirmed "
+            "by direct comparison to be nearly identical wording to "
+            "the unnamed mendicant's own question at SN 45.6, though "
+            "here voiced by a named figure (Bhadda) in dialogue with "
+            "Ānanda rather than the Buddha himself.",
+        ]),
+        ("A disciple answering exactly as the Buddha would", [
+            "Ānanda's own answer &mdash; the eightfold path, then "
+            "the ending of greed, hate, and delusion as its "
+            "culmination &mdash; matches the Buddha's own answer at "
+            "SN 45.6 precisely, confirming this saṃyutta's own "
+            "recurring pattern (already seen with Sāriputta at SN "
+            "45.3) of senior disciples independently teaching the "
+            "identical doctrine without correction.",
+        ]),
+    ],
+    terms=[
+        ("brahmacariyaṁ... brahmacariyapariyosānaṁ", "&ldquo;the "
+             "spiritual path... the culmination of the spiritual "
+             "path&rdquo; &mdash; Bhadda's own two-part question, "
+             "nearly identical to the unnamed mendicant's own at SN "
+             "45.6"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, "
+             "Ānanda's own answer to the first half of the question"),
+        ("rāgakkhayo dosakkhayo mohakkhayo", "&ldquo;the ending of "
+             "greed, hate, and delusion&rdquo; &mdash; the answer to "
+             "the second half, identical wording to SN 45.6's own"),
+        ("bhaddako... kalyāṇī paripucchā", "Ānanda's own fixed "
+             "opening formula, repeated here exactly as at SN 45.18"),
+        ("ānando", "Venerable Ānanda, answering here in the "
+             "identical role this saṃyutta's own Buddha plays "
+             "elsewhere"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.19:1.1-1.13"),
+    ],
+    quiz=[
+        {"q": "How does Bhadda's own question in this discourse compare to the question in SN 45.6?",
+         "opts": ["Nearly identical wording, though voiced here by a named figure in dialogue with Ānanda rather than the Buddha", "An entirely unrelated question", "The exact opposite question", "A question about a different topic altogether"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the same two-part question about the path and its culmination."},
+        {"q": "How does Ānanda's own answer compare to the Buddha's answer at SN 45.6?",
+         "opts": ["It matches precisely — the eightfold path, then the ending of greed, hate, and delusion", "It differs significantly in content", "Ānanda declines to answer the second half of the question", "Ānanda gives a shorter, incomplete answer"],
+         "correct": 0,
+         "expl": "Confirming this saṃyutta's own recurring pattern of senior disciples teaching identical doctrine without correction."},
+        {"q": "What pattern, already seen with Sāriputta, does this discourse repeat with Ānanda?",
+         "opts": ["A senior disciple independently teaching the identical doctrine as the Buddha, without correction", "A disciple being corrected by the Buddha for a mistaken claim", "A disciple refusing to answer a direct question", "A disciple asking the Buddha to answer instead"],
+         "correct": 0,
+         "expl": "The same pattern this project met at SN 45.3, now with Ānanda in the teaching role."},
+    ],
+    marginalia=[
+        ("The familiar question returns", [
+            "what is the path, what is its culmination —",
+            "nearly SN 45.6's own wording",
+        ]),
+        ("Ānanda, answering as the Buddha would", [
+            "the eightfold path, then the three roots ended —",
+            "matching SN 45.6 precisely",
+        ]),
+        ("A disciple trusted without correction", [
+            "the same pattern as Sāriputta at SN 45.3 —",
+            "now Ānanda in the teaching role",
+        ]),
+        ("The trio's own middle piece", [
+            "not-the-path, then the-path —",
+            "who-is-on-the-path still to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.19/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.18.html\">SN 45.18 &middot; At the "
+        "Chicken Monastery (1st)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.20.html\">SN 45.20 &middot; At the "
+        "Chicken Monastery (3rd)</a> &mdash; the next discourse, "
+        "closing this vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.20 — Tatiyakukkuṭārāmasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 20, "Kukkuṭārāma", "At the Chicken Monastery (3rd)",
+    vagga="Vihāravagga",
+    meta_title="SN 45.20 — At the Chicken Monastery (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyakukkuṭārāmasutta &mdash; Bhadda's third question "
+        "adds who counts as \"one on the path,\" closing Vihāravagga "
+        "and this trio's own shared setting. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Pāṭaliputta, the Chicken Monastery (continuing "
+                     "directly from SN 45.19)"),
+        ("Speakers", "Venerable Bhadda questioning Venerable Ānanda"),
+        ("Form", "The third and last discourse of this trio, adding "
+                 "a middle question to SN 45.19's own two-part "
+                 "framing"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, closes this vagga plainly"),
+    ],
+    why=(
+        "Bhadda's third question adds a middle term to SN 45.19's "
+        "own two-part framing: not only what the path is and its own "
+        "culmination, but &ldquo;who is someone on the spiritual "
+        "path&rdquo; &mdash; answered simply as whoever possesses "
+        "the noble eightfold path. This discourse closes both this "
+        "trio's own shared setting and Vihāravagga itself, this "
+        "saṃyutta's own second vagga of fourteen."
+    ),
+    guide=[
+        ("A three-part question, not merely a repeat of SN 45.19", [
+            "&ldquo;What is the spiritual path? Who is someone on "
+            "the spiritual path? And what is the culmination of the "
+            "spiritual path?&rdquo; adds a genuine middle term "
+            "(&ldquo;who is someone on the path&rdquo;) not present "
+            "in SN 45.19's own two-part question, confirmed by "
+            "direct comparison of both discourses' own opening lines "
+            "rather than assumed to be identical questions.",
+        ]),
+        ("A person defined by possession, not by attainment", [
+            "&ldquo;Someone who possesses this noble eightfold "
+            "path&rdquo; is called &ldquo;someone on the spiritual "
+            "path&rdquo; &mdash; a definition by possession of "
+            "practice rather than by any specific level of "
+            "attainment reached, echoing this project's own SN "
+            "45.13, where &ldquo;a trainee&rdquo; was likewise "
+            "defined by holding the path's own eight factors at a "
+            "particular degree.",
+        ]),
+        ("This vagga's own quiet close", [
+            "Following this discourse's own genuinely translated "
+            "content, the root Pāli notes this trio's own shared "
+            "setting explicitly (&ldquo;three discourses, one shared "
+            "setting&rdquo;) before Vihāravagga's own closing "
+            "colophon (&ldquo;Vihāravaggo dutiyo,&rdquo; "
+            "&ldquo;Vihāravagga is the second [vagga]&rdquo;) and an "
+            "untranslated meta-uddāna naming all ten of its own "
+            "discourses in verse &mdash; described here rather than "
+            "quoted, since this content is left untranslated in "
+            "Sujato's own English.",
+        ]),
+    ],
+    terms=[
+        ("katamo brahmacārī", "&ldquo;who is someone on the "
+             "spiritual path&rdquo; &mdash; the genuine middle term "
+             "this discourse adds to SN 45.19's own two-part "
+             "question"),
+        ("iminā ariyena aṭṭhaṅgikena maggena samannāgato",
+             "&ldquo;possesses this noble eightfold path&rdquo; "
+             "&mdash; Ānanda's own answer, defining &ldquo;someone on "
+             "the path&rdquo; by possession of practice"),
+        ("brahmacārī", "&ldquo;someone on the spiritual path&rdquo; "
+             "&mdash; the term this discourse's own middle question "
+             "defines"),
+        ("tīṇi suttantāni ekanidānāni", "&ldquo;three discourses, "
+             "one shared setting&rdquo; &mdash; the root's own "
+             "explicit note confirming SN 45.18-20 share one "
+             "narrative frame, left untranslated in Sujato's own "
+             "English and described rather than quoted here"),
+        ("vihāravaggo dutiyo", "&ldquo;Vihāravagga is the second "
+             "[vagga]&rdquo; &mdash; this vagga's own closing "
+             "colophon, left untranslated in the root"),
+    ],
+    text_intro=("The complete genuinely translated content of the "
+        "discourse. This vagga's own closing colophon, its own note "
+        "on the shared setting of SN 45.18-20, and its own "
+        "meta-uddāna are left untranslated in the source and are "
+        "described, not quoted, above. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.20:1.1-1.15"),
+    ],
+    quiz=[
+        {"q": "What middle question does this discourse add to SN 45.19's own two-part framing?",
+         "opts": ["Who is someone on the spiritual path?", "What is not the spiritual path?", "How long has the spiritual path existed?", "Who first discovered the spiritual path?"],
+         "correct": 0,
+         "expl": "A genuine third term, confirmed by direct comparison of both discourses' own opening questions."},
+        {"q": "How does Ānanda define \"someone on the spiritual path\"?",
+         "opts": ["Someone who possesses the noble eightfold path", "Someone who has attained full awakening", "Someone who has been ordained for at least ten years", "Someone recognized by a formal ceremony"],
+         "correct": 0,
+         "expl": "A definition by possession of practice, echoing SN 45.13's own definition of \"a trainee\" the same way."},
+        {"q": "What does this discourse's own closing content, left untranslated in the source, confirm?",
+         "opts": ["That SN 45.18-20 share one setting, and that this vagga's own colophon marks it as the second vagga", "Nothing further; the discourse ends with no additional content", "That a new saṃyutta begins immediately", "That this trio's setting differs from the previous two discourses"],
+         "correct": 0,
+         "expl": "Described rather than quoted, since Sujato's own English leaves this portion untranslated."},
+    ],
+    marginalia=[
+        ("A third term added", [
+            "not just what and its culmination —",
+            "now also who is \"on\" the path",
+        ]),
+        ("Defined by possession", [
+            "holding the eightfold path itself —",
+            "echoing SN 45.13's own trainee",
+        ]),
+        ("One setting, three discourses", [
+            "the Chicken Monastery, confirmed by the root itself —",
+            "left untranslated, described not invented",
+        ]),
+        ("Vihāravagga closes", [
+            "ten discourses, retreat to catechism —",
+            "twelve more vaggas still ahead in this saṃyutta",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.20/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.19.html\">SN 45.19 &middot; At the "
+        "Chicken Monastery (2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-55.1.html\">SN 55.1 &middot; A Wheel-Turning "
+        "Monarch</a> &mdash; already published on this site, "
+        "standing ahead of this project's next vagga, Micchattavagga "
+        "(SN 45.21&ndash;30), not yet built.",
+    ],
+)
