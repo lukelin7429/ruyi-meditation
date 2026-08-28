@@ -152,6 +152,50 @@ INDEX_EXTRA = [
 # isolation from this pairing; each reading guide should note it.
 # --------------------------------------------------------------------------- #
 
+# --------------------------------------------------------------------------- #
+# SN 38 (Jambukhādakasaṃyutta, "Linked Discourses with Jambukhādaka")
+# is this book's fourth saṃyutta, confirmed against both bilara-data's
+# own root-Pali file count and SuttaCentral's own menu API -- both
+# agree exactly: 16 discourses, all individual files, no peyyāla
+# merges, in a single vagga (Jambukhādakavagga). SuttaCentral's own
+# blurb for this saṃyutta states it directly: "This chapter is
+# practically identical to the next, differing only in the name of
+# the wanderer" -- worth remembering when SN 39 opens, but not to be
+# assumed as fact until SN 39 is itself scanned and read directly.
+#
+# Structurally, this saṃyutta is unlike anything built so far in this
+# project: the speaker is not the Buddha addressing mendicants but
+# Venerable Sāriputta answering a wanderer, Jambukhādaka, who
+# systematically interrogates him term by term. SN 38.1 alone carries
+# a narrative frame (Sāriputta staying near Nālakagāmaka in Magadha,
+# Jambukhādaka approaching and sitting down); SN 38.2-16 carry no
+# frame of their own at all, continuing directly as quoted dialogue --
+# confirmed by reading bilara-data directly, not assumed from the
+# file-per-discourse pattern alone. Discourses 1-15 all share one
+# fixed catechism template: "They speak of this thing called 'X'. What
+# is X?" / a definition / "Is there a path to realize (or abandon, or
+# completely understand) X?" / "There is" / "What is it?" / the noble
+# eightfold path recited in full / a closing "fine path... enough for
+# diligence" exchange. Confirmed directly against both root Pali and
+# Sujato's own English: the root begins eliding the eightfold-path
+# recitation itself from SN 38.2 onward ("...pe..."), but Sujato's own
+# English continues to spell the path out in full through SN 38.1-3,
+# only beginning its own elision (a bare "...") from SN 38.4 onward --
+# a genuine three-discourse gap between where the two texts start
+# abbreviating, confirmed by reading both files directly rather than
+# assumed from the merge-pattern of either alone. SN 38.16 breaks the
+# template entirely with a cumulative "what's hard to do" dialogue,
+# closing on this saṃyutta's own genuinely Sujato-translated colophon.
+# Do not assume any discourse's own defining term or its exact list
+# (three-fold, four-fold, or five-fold) without checking bilara-data
+# directly discourse by discourse -- several of the terms recur from
+# elsewhere in this project (the five grasping aggregates at SN 38.15
+# are Book III's own sakkāya/khandha material) and some Pali technical
+# lists here are narrower than lists carrying the same name elsewhere
+# (SN 38.8's three āsavas omit the fourth, diṭṭhāsava, found in some
+# other lists of the same name).
+# --------------------------------------------------------------------------- #
+
 PAGES = []
 
 
@@ -40470,6 +40514,7 @@ page(
         ("agāraṁ ajjhāvasati", "&ldquo;living at home&rdquo; &mdash; "
              "the domestic, householder setting this entire vagga "
              "addresses"),
+        ("bhikkhave", "&ldquo;mendicants&rdquo; &mdash; the Buddha's own address term, opening this discourse and every other discourse in this vagga"),
     ],
     text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
         "(CC0, SuttaCentral)."),
@@ -40584,6 +40629,9 @@ page(
              "visārado"),
         ("rūpabalaṁ, bhogabalaṁ, ñātibalaṁ, puttabalaṁ, sīlabalaṁ",
              "the identical fivefold list, unchanged from SN 37.25"),
+        ("bhikkhave", "&ldquo;mendicants&rdquo; &mdash; the Buddha's own address term, opening this discourse and every other discourse in this vagga"),
+        ("dutiyaṁ", "&ldquo;second&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
+        ("sāmikaṁ", "&ldquo;husband&rdquo; &mdash; the party this discourse's own outcome clause turns on"),
     ],
     text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
         "(CC0, SuttaCentral)."),
@@ -40620,6 +40668,10 @@ page(
         ("The triptych, confirmed", [
             "a second discourse, same list —",
             "the predicted pattern holding",
+        ]),
+        ("The Buddha's own audience", [
+            "“bhikkhave,” mendicants, addressed —",
+            "the fixed audience for this vagga's teaching",
         ]),
     ],
     further=[
@@ -40687,6 +40739,10 @@ page(
         ("sāmikaṁ abhibhuyya vattati", "&ldquo;lives having mastered "
              "her husband&rdquo; &mdash; the strongest of this "
              "triptych's three closing clauses"),
+        ("bhikkhave", "&ldquo;mendicants&rdquo; &mdash; the Buddha's own address term, opening this discourse and every other discourse in this vagga"),
+        ("mātugāmo", "&ldquo;a lady&rdquo; &mdash; this saṃyutta's own recurring subject term, already glossed at SN 37.25"),
+        ("tatiyaṁ", "&ldquo;third&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
+        ("sāmikaṁ", "&ldquo;husband&rdquo; &mdash; the party this discourse's own outcome clause turns on"),
     ],
     text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
         "(CC0, SuttaCentral)."),
@@ -40719,6 +40775,10 @@ page(
         ("What might undo all three", [
             "one power still unnamed —",
             "the next discourse turns to it",
+        ]),
+        ("A word for the man in this pairing", [
+            "sāmikaṃ, husband, named directly —",
+            "the party these three discourses describe overpowering",
         ]),
     ],
     further=[
@@ -40816,6 +40876,8 @@ page(
         ("neva... tāyati", "&ldquo;does not avail her&rdquo; "
              "&mdash; repeated five times, once for each of the "
              "powers this discourse names as overridden"),
+        ("bhikkhave", "&ldquo;mendicants&rdquo; &mdash; the Buddha's own address term, opening this discourse and every other discourse in this vagga"),
+        ("catutthaṁ", "&ldquo;fourth&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
     ],
     text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
         "(CC0, SuttaCentral)."),
@@ -40852,6 +40914,10 @@ page(
         ("Counterweight, not contradiction", [
             "the triptych's own condition, undone —",
             "by one structural override, not a personal lack",
+        ]),
+        ("Numbered fourth, its own place", [
+            "catutthaṃ marks this discourse's own position —",
+            "one entry in the vagga's own sequence",
         ]),
     ],
     further=[
@@ -40938,6 +41004,9 @@ page(
         ("paripūro... tenaṅgena", "&ldquo;complete in that "
              "respect&rdquo; &mdash; the matching positive qualifier, "
              "closing each of the four cumulative steps"),
+        ("bhikkhave", "&ldquo;mendicants&rdquo; &mdash; the Buddha's own address term, opening this discourse and every other discourse in this vagga"),
+        ("mātugāmo", "&ldquo;a lady&rdquo; &mdash; this saṃyutta's own recurring subject term, already glossed at SN 37.25"),
+        ("pañcamaṁ", "&ldquo;fifth&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
     ],
     text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
         "(CC0, SuttaCentral)."),
@@ -40970,6 +41039,10 @@ page(
         ("A narrower kind of claim", [
             "\"tenaṅgena,\" in that respect —",
             "qualified, not an outright verdict",
+        ]),
+        ("A lady, named again", [
+            "mātugāmo, the saṃyutta's own subject —",
+            "returning at the center of this discourse too",
         ]),
     ],
     further=[
@@ -41061,6 +41134,9 @@ page(
              "family accommodates her, they do not send her "
              "away&rdquo; &mdash; the matching positive refrain, "
              "repeated across four single-power omissions"),
+        ("bhikkhave", "&ldquo;mendicants&rdquo; &mdash; the Buddha's own address term, opening this discourse and every other discourse in this vagga"),
+        ("mātugāmo", "&ldquo;a lady&rdquo; &mdash; this saṃyutta's own recurring subject term, already glossed at SN 37.25"),
+        ("chaṭṭhaṁ", "&ldquo;sixth&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
     ],
     text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
         "(CC0, SuttaCentral)."),
@@ -41093,6 +41169,10 @@ page(
         ("A claim restated as a matrix", [
             "already closed two vaggas on this precept —",
             "now demonstrated eight ways at once",
+        ]),
+        ("Sixth in sequence", [
+            "chaṭṭhaṃ, unremarked in Sujato's own English —",
+            "this vagga's own quiet numbering, continuing",
         ]),
     ],
     further=[
@@ -41181,6 +41261,9 @@ page(
              "reborn in a good place, a heavenly realm&rdquo; "
              "&mdash; the matching affirmative clause naming the "
              "sole cause"),
+        ("bhikkhave", "&ldquo;mendicants&rdquo; &mdash; the Buddha's own address term, opening this discourse and every other discourse in this vagga"),
+        ("mātugāmo", "&ldquo;a lady&rdquo; &mdash; this saṃyutta's own recurring subject term, already glossed at SN 37.25"),
+        ("sattamaṁ", "&ldquo;seventh&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
     ],
     text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
         "(CC0, SuttaCentral)."),
@@ -41213,6 +41296,10 @@ page(
         ("A third register for the same claim", [
             "family acceptance, self-assurance, now rebirth —",
             "ethics decisive each time, independently stated",
+        ]),
+        ("Seventh, and still counting", [
+            "sattamaṃ closes this discourse in the Pali —",
+            "an ordinal this reading guide notes, not translates",
         ]),
     ],
     further=[
@@ -41302,6 +41389,7 @@ page(
         ("asapatti agāraṁ ajjhāvaseyya", "&ldquo;live at home without "
              "a co-wife&rdquo; &mdash; the sequence's own third "
              "stage"),
+        ("bhikkhave", "&ldquo;mendicants&rdquo; &mdash; the Buddha's own address term, opening this discourse and every other discourse in this vagga"),
     ],
     text_intro=("The complete discourse, in its two parallel halves. "
         "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
@@ -41337,6 +41425,10 @@ page(
         ("Mastery, in a new frame", [
             "abhibhuyya returns from SN 37.27 —",
             "now the last rung of a life sequence",
+        ]),
+        ("Mendicants, addressed once more", [
+            "“bhikkhave” opens this discourse too —",
+            "the Buddha's fixed audience, unchanged",
         ]),
     ],
     further=[
@@ -41423,6 +41515,9 @@ page(
              "self-assured&rdquo; &mdash; identical wording to SN "
              "37.25's own closing clause, reached here by an "
              "entirely different route"),
+        ("bhikkhave", "&ldquo;mendicants&rdquo; &mdash; the Buddha's own address term, opening this discourse and every other discourse in this vagga"),
+        ("mātugāmo", "&ldquo;a lady&rdquo; &mdash; this saṃyutta's own recurring subject term, already glossed at SN 37.25"),
+        ("navamaṁ", "&ldquo;ninth&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
     ],
     text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
         "(CC0, SuttaCentral)."),
@@ -41455,6 +41550,10 @@ page(
         ("The precepts, a third time", [
             "SN 37.14, SN 37.24, now here —",
             "the same five, a third vagga, a new outcome",
+        ]),
+        ("Ninth of ten", [
+            "navamaṃ, the vagga's own penultimate marker —",
+            "one discourse short of Balavagga's own close",
         ]),
     ],
     further=[
@@ -41576,6 +41675,7 @@ page(
              "own genuinely Sujato-translated closing line, following "
              "the untranslated vagga ordinal and uddāna this reading "
              "guide describes rather than quotes"),
+        ("dasamaṁ", "&ldquo;tenth&rdquo; &mdash; this discourse's own untranslated position marker within the vagga, distinct from its own vagga-level ordinal &ldquo;Balavaggo tatiyo&rdquo;"),
     ],
     text_intro=("The complete discourse, apart from the intervening "
         "untranslated vagga-level ordinal and uddāna (described "
@@ -41639,8 +41739,1789 @@ page(
         "&mdash; already published on this site, opening this "
         "saṃyutta's own running elevation of ethical conduct that "
         "this discourse's closing formula continues.",
+        '<a href="sn-38.1.html">SN 38.1 &middot; A Question About '
+        "Extinguishment</a> &mdash; the next discourse, opening this "
+        "project's next saṃyutta, SN 38 (Jambukhādakasaṃyutta).",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 38.1 — Nibbānapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    38, 1, "Nibbānapañhā", "A Question About Extinguishment",
+    vagga="Jambukhādakavagga",
+    meta_title="SN 38.1 — A Question About Extinguishment | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nibbānapañhāsutta &mdash; opening Jambukhādakasaṃyutta, "
+        "a wanderer's systematic interrogation of Venerable Sāriputta "
+        "on the meaning of extinguishment. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Near the little village of Nālakagāmaka, in the "
+                     "land of the Magadhans"),
+        ("Speakers", "The wanderer Jambukhādaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "A frame narrative, then a four-step catechism: "
+                 "define the term, confirm a path exists, name the "
+                 "path, close on a brief exchange"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a short, clear opening discourse establishing "
+                       "a template this saṃyutta will repeat "
+                       "throughout"),
+    ],
+    why=(
+        "This discourse opens Book IV's fourth saṃyutta, "
+        "Jambukhādakasaṃyutta, with a structure unlike anything built "
+        "so far in this project: the speaker is not the Buddha "
+        "addressing mendicants but Venerable Sāriputta, questioned by "
+        "a wanderer named Jambukhādaka, who asks what "
+        "&ldquo;extinguishment&rdquo; (nibbāna) is. Sāriputta answers "
+        "in the fewest possible words &mdash; the ending of greed, "
+        "hate, and delusion &mdash; then confirms a path exists to "
+        "realize it and names that path: the noble eightfold path. "
+        "SuttaCentral's own summary of this saṃyutta notes that it "
+        "&ldquo;is practically identical to the next, differing only "
+        "in the name of the wanderer&rdquo; &mdash; worth remembering "
+        "when this project eventually reaches that saṃyutta, though "
+        "not yet confirmed by direct reading. This discourse alone "
+        "carries this saṃyutta's own narrative frame; every "
+        "discourse after it continues as quoted dialogue with no "
+        "further scene-setting."
+    ),
+    guide=[
+        ("A frame that will not repeat", [
+            "Sāriputta staying near Nālakagāmaka in Magadha, "
+            "Jambukhādaka approaching and exchanging greetings before "
+            "sitting down and asking his question &mdash; the only "
+            "narrative setting this entire saṃyutta will use; SN "
+            "38.2&ndash;16 continue directly as dialogue with no "
+            "further frame of their own.",
+        ]),
+        ("The shortest possible definition", [
+            "&ldquo;The ending of greed, hate, and delusion&rdquo; "
+            "&mdash; Sāriputta's own definition of extinguishment, "
+            "given in a single breath and not elaborated further in "
+            "this discourse.",
+        ]),
+        ("A four-step template this saṃyutta will repeat", [
+            "Define the term, confirm a path exists, name that path "
+            "(the noble eightfold path, spelled out in full here), "
+            "and close on Jambukhādaka's own brief approving "
+            "exchange &mdash; a fixed catechism this reading guide "
+            "will track as later discourses in this saṃyutta apply "
+            "it to fourteen further terms.",
+        ]),
+    ],
+    terms=[
+        ("nibbānaṁ", "&ldquo;extinguishment&rdquo; &mdash; this "
+             "discourse's own subject term, defined here as the "
+             "ending of greed, hate, and delusion"),
+        ("rāgakkhayo dosakkhayo mohakkhayo", "&ldquo;the ending of "
+             "greed, hate, and delusion&rdquo; &mdash; Sāriputta's "
+             "own definition, reused verbatim at SN 38.2 for a "
+             "different term entirely"),
+        ("ariyo aṭṭhaṅgiko maggo", "&ldquo;the noble eightfold "
+             "path&rdquo; &mdash; spelled out in full here (right "
+             "view, purpose, speech, action, livelihood, effort, "
+             "mindfulness, and immersion), the answer this saṃyutta's "
+             "own catechism will repeat for every term through SN "
+             "38.15"),
+        ("alañca... appamādāya", "&ldquo;just this much is enough "
+             "for diligence&rdquo; &mdash; Jambukhādaka's own closing "
+             "approval, repeated with only minor variation throughout "
+             "this saṃyutta"),
+        ("āvuso", "&ldquo;reverend, friend&rdquo; &mdash; the reciprocal address term Jambukhādaka and Sāriputta use throughout this saṃyutta"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn38.1:1.1-1.3"),
+        ("p", "&sect;2", "sn38.1:2.1-2.12"),
+    ],
+    quiz=[
+        {"q": "How does Sāriputta define extinguishment (nibbāna)?",
+         "opts": ["The ending of greed, hate, and delusion", "The cessation of the five aggregates", "A specific meditative absorption", "Rebirth in a heavenly realm"],
+         "correct": 0,
+         "expl": "Given in a single breath, without further elaboration in this discourse."},
+        {"q": "What path does Sāriputta name for realizing extinguishment?",
+         "opts": ["The noble eightfold path", "The four noble truths", "The five precepts", "The four establishments of mindfulness alone"],
+         "correct": 0,
+         "expl": "Spelled out in full here, and repeated as the answer throughout this saṃyutta's own catechism."},
+        {"q": "How much of this saṃyutta's narrative setting does this discourse establish?",
+         "opts": ["All of it — SN 38.2-16 continue as quoted dialogue with no further frame of their own", "Only a fraction; each discourse restates its own setting", "None — the setting appears only at the saṃyutta's own close", "The setting changes with every discourse"],
+         "correct": 0,
+         "expl": "Confirmed by reading bilara-data directly: only SN 38.1 carries a narrative frame."},
+        {"q": "According to SuttaCentral's own summary, how does this saṃyutta relate to the next one?",
+         "opts": ["It is practically identical, differing only in the name of the wanderer", "It has no relationship to the next saṃyutta at all", "The next saṃyutta reverses every claim made here", "This saṃyutta and the next share no discourses in common"],
+         "correct": 0,
+         "expl": "Worth remembering for later, though not yet confirmed by this project's own direct reading of that saṃyutta."},
+        {"q": "Who is the speaker answering questions in this discourse?",
+         "opts": ["Venerable Sāriputta, questioned by the wanderer Jambukhādaka", "The Buddha, addressing the mendicants directly", "Ānanda, addressing a group of laypeople", "Jambukhādaka, addressing Sāriputta's own students"],
+         "correct": 0,
+         "expl": "A structure distinct from most of this project's saṃyuttas: a disciple answering an outside questioner, not the Buddha addressing mendicants."},
+    ],
+    marginalia=[
+        ("A frame used only once", [
+            "Nālakagāmaka, Magadha —",
+            "the only setting this saṃyutta gives",
+        ]),
+        ("Extinguishment, in one breath", [
+            "the ending of greed, hate, delusion —",
+            "no further elaboration offered",
+        ]),
+        ("A template about to repeat", [
+            "define, confirm a path, name it, close —",
+            "watch for this shape across the saṃyutta",
+        ]),
+        ("A promised likeness, unread", [
+            "\"practically identical to the next\" —",
+            "SuttaCentral's own note, not yet verified here",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn38.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.34.html">SN 37.34 &middot; Growth</a> '
+        "&mdash; already published on this site, closing "
+        "Mātugāmasaṃyutta just before this saṃyutta opens.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 38.2 — Arahattapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    38, 2, "Arahattapañhā", "A Question About Perfection",
+    vagga="Jambukhādakavagga",
+    meta_title="SN 38.2 — A Question About Perfection | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Arahattapañhāsutta &mdash; perfection defined by the "
+        "identical phrase SN 38.1 used for extinguishment. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as dialogue "
+                     "from SN 38.1's own setting"),
+        ("Speakers", "The wanderer Jambukhādaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "The identical four-step catechism, applied to a "
+                 "second term"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a one-word change from SN 38.1's own "
+                       "definition"),
+    ],
+    why=(
+        "Jambukhādaka now asks about &ldquo;perfection&rdquo; "
+        "(arahatta), and Sāriputta answers with the exact same phrase "
+        "he used for extinguishment at SN 38.1: the ending of greed, "
+        "hate, and delusion. The identical eightfold-path answer "
+        "follows, still spelled out in full here &mdash; though "
+        "root Pali itself has already begun eliding this recitation "
+        "from this discourse onward (&ldquo;...pe...&rdquo;), a full "
+        "discourse before Sujato's own English elision begins at SN "
+        "38.4."
+    ),
+    guide=[
+        ("Two terms, one identical definition", [
+            "Nibbāna and arahatta receive the exact same defining "
+            "phrase in this saṃyutta &mdash; not two different "
+            "descriptions of related states, but the identical "
+            "wording applied to both terms in direct succession.",
+        ]),
+        ("Root Pali begins abbreviating here, English does not yet", [
+            "This is the first discourse where bilara-data's own root "
+            "Pali elides the eightfold-path recitation "
+            "(&ldquo;...pe...&rdquo;); Sujato's own English "
+            "translation continues spelling it out in full through "
+            "this discourse and SN 38.3, only beginning its own "
+            "elision two discourses later, at SN 38.4.",
+        ]),
+    ],
+    terms=[
+        ("arahattaṁ", "&ldquo;perfection, arahantship&rdquo; &mdash; "
+             "this discourse's own subject term"),
+        ("rāgakkhayo dosakkhayo mohakkhayo", "the identical defining "
+             "phrase used at SN 38.1 for extinguishment, reused here "
+             "word for word for perfection"),
+        ("āvuso", "&ldquo;reverend, friend&rdquo; &mdash; the reciprocal address term Jambukhādaka and Sāriputta use throughout this saṃyutta"),
+        ("pañhā", "&ldquo;question&rdquo; &mdash; the recurring suffix naming every discourse's own Pali title throughout this saṃyutta"),
+        ("dutiyaṁ", "&ldquo;second&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn38.2:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "How does Sāriputta define \"perfection\" (arahatta) in this discourse?",
+         "opts": ["With the identical phrase used for extinguishment at SN 38.1 — the ending of greed, hate, and delusion", "As a different, more elaborate state than extinguishment", "As freedom from the five aggregates specifically", "The discourse gives no definition at all"],
+         "correct": 0,
+         "expl": "Word-for-word the same defining phrase, applied to a second term."},
+        {"q": "Where does root Pali begin eliding the eightfold-path recitation?",
+         "opts": ["Here, at SN 38.2 — a full discourse before Sujato's own English elision begins", "Not until SN 38.4, matching the English exactly", "At SN 38.1 itself", "Root Pali never elides this recitation anywhere in the saṃyutta"],
+         "correct": 0,
+         "expl": "Confirmed by reading bilara-data's own root file directly against Sujato's English."},
+    ],
+    marginalia=[
+        ("The same words, twice", [
+            "greed, hate, delusion, ended —",
+            "extinguishment and perfection, defined identically",
+        ]),
+        ("Root abbreviates first", [
+            "\"...pe...\" appears in the Pali here —",
+            "English still spells it out, for now",
+        ]),
+        ("Reverend, the address throughout", [
+            "āvuso opens each turn of dialogue —",
+            "Jambukhādaka and Sāriputta alike",
+        ]),
+        ("Second, and already familiar", [
+            "dutiyaṁ marks this discourse's place —",
+            "the second link in a growing catechism",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn38.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-38.1.html">SN 38.1 &middot; A Question About '
+        "Extinguishment</a> &mdash; the previous discourse, the "
+        "source of this discourse's own identical defining phrase.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 38.3 — Dhammavādīpañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    38, 3, "Dhammavādīpañhā", "Principled Speech",
+    vagga="Jambukhādakavagga",
+    meta_title="SN 38.3 — Principled Speech | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dhammavādīpañhāsutta &mdash; three titles (principled "
+        "speaker, one who practices well, a Holy One) defined by "
+        "three different relations to the same three roots. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as dialogue "
+                     "from SN 38.1's own setting"),
+        ("Speakers", "The wanderer Jambukhādaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "A triple question answered with three parallel "
+                 "definitions, then the same eightfold-path catechism"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "three related titles distinguished by a "
+                       "single underlying progression"),
+    ],
+    why=(
+        "This discourse asks three questions at once &mdash; who in "
+        "the world has principled speech, who practices well, who "
+        "are the Holy Ones &mdash; and answers all three from the "
+        "same three roots (greed, hate, delusion), distinguished only "
+        "by relation to them: teaching how to give them up makes one "
+        "a principled speaker; practicing to give them up makes one a "
+        "good practitioner; having already given them up "
+        "&mdash; cut off at the root, unable to arise again &mdash; "
+        "makes one a Holy One. Three titles, one progression, from "
+        "teaching to practicing to attaining. Sujato's own English "
+        "still spells out the eightfold path in full here, the last "
+        "discourse to do so before its own elision begins at SN 38.4."
+    ),
+    guide=[
+        ("Three titles, one progression", [
+            "Principled speaker (teaches the giving-up), good "
+            "practitioner (practices the giving-up), Holy One (has "
+            "already given up) &mdash; three distinct titles mapped "
+            "onto three stages of the identical process applied to "
+            "the same three roots.",
+        ]),
+        ("A vivid image for what's already gone", [
+            "The Holy One's greed, hate, and delusion are described "
+            "as &ldquo;cut off at the root, made like a palm stump, "
+            "obliterated, and unable to arise in the future&rdquo; "
+            "&mdash; a stronger image than the bare "
+            "&ldquo;ending&rdquo; used for nibbāna and arahatta at "
+            "SN 38.1&ndash;2.",
+        ]),
+        ("The last discourse to spell out the path in full", [
+            "Sujato's own English elision of the eightfold-path "
+            "recitation begins at the next discourse, SN 38.4; this "
+            "is the final discourse in this saṃyutta where the full "
+            "text appears in English even though root Pali has "
+            "already been eliding it since SN 38.2.",
+        ]),
+    ],
+    terms=[
+        ("dhammavādino", "&ldquo;principled speakers&rdquo; &mdash; "
+             "those who teach for the giving up of greed, hate, and "
+             "delusion"),
+        ("suppaṭipannā", "&ldquo;those who practice well&rdquo; "
+             "&mdash; those who practice for the giving up of the "
+             "same three roots"),
+        ("sugatā", "&ldquo;Holy Ones&rdquo; &mdash; those who have "
+             "already given up the three roots, described as "
+             "&ldquo;cut off at the root, made like a palm stump, "
+             "obliterated&rdquo;"),
+        ("āvuso", "&ldquo;reverend, friend&rdquo; &mdash; the reciprocal address term Jambukhādaka and Sāriputta use throughout this saṃyutta"),
+        ("tatiyaṁ", "&ldquo;third&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn38.3:1.1-1.4"),
+        ("p", "&sect;2", "sn38.3:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What three titles does this discourse define?",
+         "opts": ["Principled speaker, one who practices well, and a Holy One", "Stream-enterer, once-returner, and non-returner", "Mendicant, novice, and lay disciple", "Teacher, student, and attendant"],
+         "correct": 0,
+         "expl": "Three titles mapped onto three stages of relation to the same three roots — greed, hate, and delusion."},
+        {"q": "How is a \"Holy One\" (sugata) distinguished from a \"principled speaker\" or \"one who practices well\"?",
+         "opts": ["A Holy One has already given up greed, hate, and delusion, rather than merely teaching or practicing toward doing so", "There is no real distinction between the three titles", "A Holy One is defined by a completely unrelated criterion", "Only a Holy One is addressed by Jambukhādaka in this discourse"],
+         "correct": 0,
+         "expl": "Teaching, practicing, and having attained — three stages of one progression."},
+        {"q": "What image does this discourse use for the Holy One's already-abandoned defilements?",
+         "opts": ["Cut off at the root, made like a palm stump, obliterated, unable to arise again", "Simply \"ended,\" with no further image", "Washed away like dust in the rain", "Burned to ash in a great fire"],
+         "correct": 0,
+         "expl": "A stronger, more vivid image than the bare \"ending\" language used at SN 38.1-2."},
+    ],
+    marginalia=[
+        ("Three titles, one ladder", [
+            "teaching it, practicing it, having done it —",
+            "principled speaker, good practitioner, Holy One",
+        ]),
+        ("A stronger image this time", [
+            "cut off at the root, a palm stump —",
+            "sharper than SN 38.1-2's own bare \"ending\"",
+        ]),
+        ("The last full recitation", [
+            "the eightfold path, spelled out once more —",
+            "English elision begins at the very next discourse",
+        ]),
+        ("Third in the sequence", [
+            "tatiyaṁ closes this discourse in Pali —",
+            "the last before English elision begins",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn38.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-38.1.html">SN 38.1 &middot; A Question About '
+        "Extinguishment</a> &mdash; already published on this site, "
+        "opening this saṃyutta's own catechism template.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 38.4 — Kimatthiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    38, 4, "Kimatthiya", "What's the Goal?",
+    vagga="Jambukhādakavagga",
+    meta_title="SN 38.4 — What's the Goal? | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kimatthiyasutta &mdash; the goal of the spiritual life "
+        "named as completely understanding suffering, the first "
+        "discourse where Sujato's own English begins eliding the "
+        "repeated path recitation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as dialogue "
+                     "from SN 38.1's own setting"),
+        ("Speakers", "The wanderer Jambukhādaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "A direct question and answer, with the recurring "
+                 "path-recitation now elided in the English itself"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, and the first discourse to elide the "
+                       "recurring path recitation in English"),
+    ],
+    why=(
+        "Jambukhādaka asks directly what the goal of leading the "
+        "spiritual life under the ascetic Gotama is. Sāriputta's "
+        "answer is equally direct: completely understanding suffering "
+        "(dukkhassa pariññā). This is the first discourse where "
+        "Sujato's own English translation elides the remainder of "
+        "the catechism &mdash; the path question, the eightfold path "
+        "itself, and the closing exchange &mdash; with a bare "
+        "ellipsis, three discourses after root Pali began doing the "
+        "same. From here through SN 38.15, this reading guide "
+        "presents only the portion Sujato's own translation actually "
+        "renders."
+    ),
+    guide=[
+        ("The goal, named in five words", [
+            "&ldquo;To completely understand suffering&rdquo; "
+            "&mdash; Sāriputta's own answer to why anyone would lead "
+            "the spiritual life under the Buddha at all, stated "
+            "without further elaboration in this discourse.",
+        ]),
+        ("Where the English elision begins", [
+            "Confirmed directly against bilara-data: this is the "
+            "first discourse where Sujato's own English trails off "
+            "into a bare ellipsis rather than spelling out the "
+            "recurring path question and eightfold-path recitation "
+            "&mdash; the same elision this reading guide will note "
+            "recurring through SN 38.15.",
+        ]),
+    ],
+    terms=[
+        ("dukkhassa pariññatthaṁ", "&ldquo;for the complete "
+             "understanding of suffering&rdquo; &mdash; this "
+             "discourse's own answer to the purpose of the holy life"),
+        ("āvuso", "&ldquo;reverend, friend&rdquo; &mdash; the reciprocal address term Jambukhādaka and Sāriputta use throughout this saṃyutta"),
+        ("pañhā", "&ldquo;question&rdquo; &mdash; the recurring suffix naming every discourse's own Pali title throughout this saṃyutta"),
+        ("atthi... maggo atthi paṭipadā", "&ldquo;is there a path and a practice&rdquo; &mdash; this saṃyutta's own recurring path-confirmation question, asked with only its object changing from SN 38.1 through SN 38.15"),
+        ("catutthaṁ", "&ldquo;fourth&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
+    ],
+    text_intro=("The portion of this discourse Sujato's own English "
+        "translation actually renders; from this discourse through "
+        "SN 38.15, the remainder of each catechism (confirming a "
+        "path exists, naming the eightfold path, and the closing "
+        "exchange) is elided in the English itself with a bare "
+        "ellipsis, matching the identical wording already given in "
+        "full at SN 38.1. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn38.4:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does Sāriputta name as the goal of the spiritual life under the Buddha?",
+         "opts": ["Completely understanding suffering", "Attaining the four absorptions", "Ending rebirth in hell realms specifically", "Gaining supernormal powers"],
+         "correct": 0,
+         "expl": "Stated directly, without further elaboration in this discourse."},
+        {"q": "What happens to the recurring path-recitation from this discourse onward in Sujato's own English?",
+         "opts": ["It is elided with a bare ellipsis, matching the wording already given in full at SN 38.1", "It changes to name a different path each time", "It is translated in full for every remaining discourse", "It disappears from the root Pali as well as the English at exactly this point"],
+         "correct": 0,
+         "expl": "Confirmed directly against bilara-data — the English elision begins here, three discourses after the root Pali's own."},
+    ],
+    marginalia=[
+        ("The goal, in five words", [
+            "to completely understand suffering —",
+            "the whole of the holy life's purpose",
+        ]),
+        ("Where the ellipsis begins", [
+            "Sujato's own English trails off here —",
+            "the same recitation as SN 38.1, now unwritten",
+        ]),
+        ("Reverend, the address throughout", [
+            "āvuso opens each turn of dialogue —",
+            "Jambukhādaka and Sāriputta alike",
+        ]),
+        ("Fourth, and now abbreviated", [
+            "catutthaṁ, and the ellipsis begins —",
+            "root Pali already two discourses ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn38.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-38.1.html">SN 38.1 &middot; A Question About '
+        "Extinguishment</a> &mdash; already published on this site, "
+        "the source of the eightfold-path recitation elided from "
+        "here onward.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 38.5 — Assāsappattasutta
+# --------------------------------------------------------------------------- #
+page(
+    38, 5, "Assāsappatta", "Solace",
+    vagga="Jambukhādakavagga",
+    meta_title="SN 38.5 — Solace | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Assāsappattasutta &mdash; solace defined through fully "
+        "understanding the six sense fields' arising, passing, "
+        "gratification, drawback, and escape. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as dialogue "
+                     "from SN 38.1's own setting"),
+        ("Speakers", "The wanderer Jambukhādaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "A direct question and answer, closing on the "
+                 "elided path-confirmation"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a five-part analytical formula applied to "
+                       "the six sense fields"),
+    ],
+    why=(
+        "Jambukhādaka asks at what point one has &ldquo;gained "
+        "solace&rdquo; (assāsappatta). Sāriputta answers with a "
+        "five-part analytical formula &mdash; truly understanding the "
+        "six fields of contact's origin, disappearance, "
+        "gratification, drawback, and escape &mdash; already familiar "
+        "from Book IV's own Saḷāyatanasaṃyutta (SN 35), applied here "
+        "to define a specific attainment rather than as a standalone "
+        "teaching. This discourse also sets up SN 38.6, which will "
+        "apply the identical formula to a stronger, "
+        "&ldquo;ultimate&rdquo; version of the same attainment."
+    ),
+    guide=[
+        ("A familiar formula, in a new role", [
+            "Origin, disappearance, gratification, drawback, and "
+            "escape &mdash; the same five-part analytical formula "
+            "this project has already encountered applied to the six "
+            "sense fields throughout SN 35 &mdash; here defines a "
+            "named attainment (solace) rather than standing alone as "
+            "direct teaching.",
+        ]),
+        ("Setting up a comparison still to come", [
+            "This discourse names plain &ldquo;solace&rdquo; "
+            "(assāsappatta); the next discourse will name "
+            "&ldquo;ultimate solace&rdquo; (paramassāsappatta) using "
+            "the identical five-part formula plus one further "
+            "condition &mdash; worth reading these two together.",
+        ]),
+    ],
+    terms=[
+        ("assāsappatto", "&ldquo;one who has gained solace&rdquo; "
+             "&mdash; this discourse's own title term"),
+        ("samudayañca atthaṅgamañca assādañca ādīnavañca "
+         "nissaraṇañca", "&ldquo;origin, disappearance, "
+             "gratification, drawback, and escape&rdquo; &mdash; the "
+             "same five-part analytical formula already familiar "
+             "from SN 35, applied here to the six fields of contact"),
+        ("āvuso", "&ldquo;reverend, friend&rdquo; &mdash; the reciprocal address term Jambukhādaka and Sāriputta use throughout this saṃyutta"),
+        ("pañhā", "&ldquo;question&rdquo; &mdash; the recurring suffix naming every discourse's own Pali title throughout this saṃyutta"),
+        ("pañcamaṁ", "&ldquo;fifth&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
+    ],
+    text_intro=("The portion of this discourse Sujato's own English "
+        "translation renders; the remainder of the catechism is "
+        "elided, matching SN 38.1's own full wording. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn38.5:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "How does Sāriputta define \"gaining solace\"?",
+         "opts": ["Truly understanding the six fields of contact's origin, disappearance, gratification, drawback, and escape", "Attaining the fourth absorption specifically", "Simply ceasing to feel any sensation", "Becoming a stream-enterer"],
+         "correct": 0,
+         "expl": "A five-part analytical formula already familiar from Book IV's own SN 35."},
+        {"q": "What does this discourse set up for the next discourse in this saṃyutta?",
+         "opts": ["SN 38.6 will apply the identical formula to a stronger, \"ultimate\" version of the same attainment", "SN 38.6 will contradict this discourse's own definition entirely", "SN 38.6 has no relationship to this discourse", "SN 38.6 repeats this discourse word for word with no change at all"],
+         "correct": 0,
+         "expl": "Worth reading SN 38.5 and 38.6 together as a matched pair."},
+    ],
+    marginalia=[
+        ("A familiar formula returns", [
+            "origin, passing, gratification, drawback, escape —",
+            "the six fields, now defining an attainment",
+        ]),
+        ("Solace, and something beyond it", [
+            "assāsappatta named here —",
+            "\"ultimate\" solace waits at the very next discourse",
+        ]),
+        ("Reverend, the address throughout", [
+            "āvuso opens each turn of dialogue —",
+            "Jambukhādaka and Sāriputta alike",
+        ]),
+        ("Fifth in the sequence", [
+            "pañcamaṁ, unwritten in translation —",
+            "one more untranslated marker, noted here",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn38.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-35.1.html">SN 35.1 &middot; The Interior as '
+        "Impermanent</a> &mdash; already published on this site, "
+        "opening the saṃyutta where this five-part formula first "
+        "appears at length in this project's own coverage.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 38.6 — Paramassāsappattasutta
+# --------------------------------------------------------------------------- #
+page(
+    38, 6, "Paramassāsappatta", "Ultimate Solace",
+    vagga="Jambukhādakavagga",
+    meta_title="SN 38.6 — Ultimate Solace | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paramassāsappattasutta &mdash; SN 38.5's own formula, "
+        "with one further condition added: liberation without "
+        "grasping. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as dialogue "
+                     "from SN 38.1's own setting"),
+        ("Speakers", "The wanderer Jambukhādaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "SN 38.5's own formula, with one further condition "
+                 "added"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single added clause distinguishes this "
+                       "discourse from its immediate predecessor"),
+    ],
+    why=(
+        "This discourse names &ldquo;ultimate solace&rdquo; "
+        "(paramassāsappatta), confirming the pairing SN 38.5 set up: "
+        "the identical five-part understanding of the six fields of "
+        "contact, but now paired with being &ldquo;freed by not "
+        "grasping&rdquo; (anupādā vimutto) after that understanding "
+        "&mdash; a single added clause distinguishing ordinary "
+        "&ldquo;solace&rdquo; from its &ldquo;ultimate&rdquo; "
+        "counterpart."
+    ),
+    guide=[
+        ("One clause added, one attainment surpassed", [
+            "Everything SN 38.5 named for solace, plus &ldquo;freed "
+            "by not grasping&rdquo; &mdash; understanding the six "
+            "fields is necessary for both attainments, but "
+            "&ldquo;ultimate&rdquo; solace requires the liberation "
+            "that follows from it as well.",
+        ]),
+    ],
+    terms=[
+        ("paramassāsappatto", "&ldquo;one who has gained ultimate "
+             "solace&rdquo; &mdash; this discourse's own title term, "
+             "distinguished from SN 38.5's plain assāsappatto"),
+        ("anupādā vimutto", "&ldquo;freed by not grasping&rdquo; "
+             "&mdash; the single condition added beyond SN 38.5's own "
+             "formula"),
+        ("āvuso", "&ldquo;reverend, friend&rdquo; &mdash; the reciprocal address term Jambukhādaka and Sāriputta use throughout this saṃyutta"),
+        ("pañhā", "&ldquo;question&rdquo; &mdash; the recurring suffix naming every discourse's own Pali title throughout this saṃyutta"),
+        ("chaṭṭhaṁ", "&ldquo;sixth&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
+    ],
+    text_intro=("The portion of this discourse Sujato's own English "
+        "translation renders. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn38.6:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What single condition distinguishes \"ultimate solace\" from SN 38.5's own plain \"solace\"?",
+         "opts": ["Being \"freed by not grasping\" after understanding the six fields", "A completely different analytical formula", "Attaining a specific meditative absorption", "There is no real distinction between the two"],
+         "correct": 0,
+         "expl": "The identical five-part formula, plus one added clause: liberation without grasping."},
+        {"q": "What does understanding the six fields of contact accomplish on its own, according to this pair of discourses?",
+         "opts": ["It is necessary for both solace and ultimate solace, but sufficient for solace alone", "It has no bearing on either attainment", "It alone constitutes ultimate solace, with no further condition needed", "It only applies to ultimate solace, not to plain solace"],
+         "correct": 0,
+         "expl": "A shared foundation for both attainments, with ultimate solace requiring one further step."},
+    ],
+    marginalia=[
+        ("The same six fields, one step further", [
+            "understanding, then also liberation —",
+            "not grasping, beyond the understanding alone",
+        ]),
+        ("Ordinary and ultimate, paired", [
+            "SN 38.5's own attainment, surpassed —",
+            "one added clause distinguishes the two",
+        ]),
+        ("Reverend, the address throughout", [
+            "āvuso opens each turn of dialogue —",
+            "Jambukhādaka and Sāriputta alike",
+        ]),
+        ("Sixth, paired with the fifth", [
+            "chaṭṭhaṁ follows pañcamaṁ directly —",
+            "two discourses read best together",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn38.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-38.5.html">SN 38.5 &middot; Solace</a> '
+        "&mdash; the previous discourse, this discourse's own "
+        "immediate foundation.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 38.7 — Vedanāpañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    38, 7, "Vedanāpañhā", "A Question About Feeling",
+    vagga="Jambukhādakavagga",
+    meta_title="SN 38.7 — A Question About Feeling | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vedanāpañhāsutta &mdash; the standard three feelings, "
+        "defined for Jambukhādaka in this saṃyutta's own catechism "
+        "form. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as dialogue "
+                     "from SN 38.1's own setting"),
+        ("Speakers", "The wanderer Jambukhādaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "A direct question and answer, naming a standard "
+                 "threefold list"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the most familiar list in this saṃyutta so "
+                       "far"),
+    ],
+    why=(
+        "Jambukhādaka asks what &ldquo;feeling&rdquo; is, and "
+        "Sāriputta answers with the standard threefold list already "
+        "familiar from Vedanāsaṃyutta (SN 36): pleasant, painful, and "
+        "neutral feeling. Nothing here departs from that saṃyutta's "
+        "own definition; this discourse simply restates it inside "
+        "Jambukhādakasaṃyutta's own catechism form."
+    ),
+    guide=[
+        ("The same three feelings, in a new form", [
+            "Pleasant, painful, and neutral &mdash; identical to the "
+            "threefold definition already given at length across SN "
+            "36, now restated concisely as one answer inside this "
+            "saṃyutta's own question-and-answer structure.",
+        ]),
+    ],
+    terms=[
+        ("sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā",
+             "&ldquo;pleasant, painful, and neutral feeling&rdquo; "
+             "&mdash; identical to Vedanāsaṃyutta's (SN 36) own "
+             "standard threefold list"),
+        ("āvuso", "&ldquo;reverend, friend&rdquo; &mdash; the reciprocal address term Jambukhādaka and Sāriputta use throughout this saṃyutta"),
+        ("pañhā", "&ldquo;question&rdquo; &mdash; the recurring suffix naming every discourse's own Pali title throughout this saṃyutta"),
+        ("atthi... maggo atthi paṭipadā", "&ldquo;is there a path and a practice&rdquo; &mdash; this saṃyutta's own recurring path-confirmation question, asked with only its object changing from SN 38.1 through SN 38.15"),
+        ("sattamaṁ", "&ldquo;seventh&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
+    ],
+    text_intro=("The portion of this discourse Sujato's own English "
+        "translation renders. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn38.7:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What three feelings does Sāriputta name?",
+         "opts": ["Pleasant, painful, and neutral feeling", "Physical, mental, and spiritual feeling", "Past, present, and future feeling", "Wholesome, unwholesome, and neutral feeling"],
+         "correct": 0,
+         "expl": "Identical to the standard threefold list already given at length across SN 36 (Vedanāsaṃyutta)."},
+        {"q": "How does this discourse's own definition compare to SN 36's own treatment of the same subject?",
+         "opts": ["Identical in content, restated concisely inside this saṃyutta's own catechism form", "A completely different, expanded sixfold list", "It contradicts SN 36's own definition", "SN 36 never actually defines the three feelings"],
+         "correct": 0,
+         "expl": "The same threefold definition, given here in a much more compressed form."},
+    ],
+    marginalia=[
+        ("Nothing new, restated concisely", [
+            "pleasant, painful, neutral —",
+            "SN 36's own list, in catechism form",
+        ]),
+        ("Reverend, the address throughout", [
+            "āvuso opens each turn of dialogue —",
+            "Jambukhādaka and Sāriputta alike",
+        ]),
+        ("A question, by its own name", [
+            "pañhā, question, in the Pali title —",
+            "naming every discourse in this saṃyutta",
+        ]),
+        ("Seventh of sixteen", [
+            "sattamaṁ, this catechism's own midpoint approaching —",
+            "eight more discourses before the pattern breaks",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn38.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-36.1.html">SN 36.1 &middot; Immersion</a> '
+        "&mdash; already published on this site, opening "
+        "Vedanāsaṃyutta's own full treatment of the same threefold "
+        "list.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 38.8 — Āsavapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    38, 8, "Āsavapañhā", "A Question About Defilements",
+    vagga="Jambukhādakavagga",
+    meta_title="SN 38.8 — A Question About Defilements | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āsavapañhāsutta &mdash; a threefold list of defilements, "
+        "narrower than some four-part lists of the same name found "
+        "elsewhere. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as dialogue "
+                     "from SN 38.1's own setting"),
+        ("Speakers", "The wanderer Jambukhādaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "A direct question and answer, naming a threefold "
+                 "list"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "worth noting this list's own scope precisely"),
+    ],
+    why=(
+        "Jambukhādaka asks what &ldquo;defilement&rdquo; (āsava) is. "
+        "Sāriputta names three: the defilements of sensuality, of "
+        "desire to be reborn, and of ignorance. This is a narrower, "
+        "threefold list &mdash; some lists carrying the same name "
+        "elsewhere in the canon add a fourth, the defilement of "
+        "views (diṭṭhāsava); this discourse's own list, confirmed "
+        "directly against bilara-data, has only three."
+    ),
+    guide=[
+        ("A threefold list, not a fourfold one", [
+            "Sensuality, desire to be reborn, and ignorance "
+            "&mdash; this discourse's own complete list, confirmed by "
+            "reading bilara-data directly; the fourth defilement "
+            "(views) found in some other lists of the same name does "
+            "not appear here.",
+        ]),
+    ],
+    terms=[
+        ("kāmāsavo, bhavāsavo, avijjāsavo", "&ldquo;the defilements "
+             "of sensuality, desire to be reborn, and "
+             "ignorance&rdquo; &mdash; this discourse's own complete, "
+             "threefold list"),
+        ("āvuso", "&ldquo;reverend, friend&rdquo; &mdash; the reciprocal address term Jambukhādaka and Sāriputta use throughout this saṃyutta"),
+        ("pañhā", "&ldquo;question&rdquo; &mdash; the recurring suffix naming every discourse's own Pali title throughout this saṃyutta"),
+        ("atthi... maggo atthi paṭipadā", "&ldquo;is there a path and a practice&rdquo; &mdash; this saṃyutta's own recurring path-confirmation question, asked with only its object changing from SN 38.1 through SN 38.15"),
+        ("aṭṭhamaṁ", "&ldquo;eighth&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
+    ],
+    text_intro=("The portion of this discourse Sujato's own English "
+        "translation renders. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn38.8:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "How many defilements (āsava) does this discourse name?",
+         "opts": ["Three: sensuality, desire to be reborn, and ignorance", "Four, including the defilement of views", "Five, matching the five aggregates", "The discourse leaves the number unspecified"],
+         "correct": 0,
+         "expl": "A threefold list, confirmed directly against bilara-data — narrower than some four-part lists of the same name found elsewhere."},
+        {"q": "What does this reading guide caution about lists like this one?",
+         "opts": ["Not to assume a list's exact scope without checking bilara-data directly, since the same term can carry different lists elsewhere", "That every list of \"āsava\" in the canon is always fourfold", "That this list is definitely incomplete and missing content", "That this discourse contradicts every other āsava list in the canon"],
+         "correct": 0,
+         "expl": "A caution this saṃyutta's own header comment applies specifically to this discourse."},
+    ],
+    marginalia=[
+        ("Three, not four", [
+            "sensuality, rebirth-desire, ignorance —",
+            "this list's own precise, narrower scope",
+        ]),
+        ("Reverend, the address throughout", [
+            "āvuso opens each turn of dialogue —",
+            "Jambukhādaka and Sāriputta alike",
+        ]),
+        ("A question, by its own name", [
+            "pañhā, question, in the Pali title —",
+            "naming every discourse in this saṃyutta",
+        ]),
+        ("Eighth in the sequence", [
+            "aṭṭhamaṁ, exactly halfway —",
+            "eight discourses given, eight more to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn38.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 38.9 — Avijjāpañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    38, 9, "Avijjāpañhā", "A Question About Ignorance",
+    vagga="Jambukhādakavagga",
+    meta_title="SN 38.9 — A Question About Ignorance | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Avijjāpañhāsutta &mdash; ignorance defined as not "
+        "knowing the four noble truths. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as dialogue "
+                     "from SN 38.1's own setting"),
+        ("Speakers", "The wanderer Jambukhādaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "A direct question and answer, defining the term by "
+                 "reference to the four noble truths"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a standard definition stated in a single "
+                       "sentence"),
+    ],
+    why=(
+        "Jambukhādaka asks what &ldquo;ignorance&rdquo; (avijjā) is. "
+        "Sāriputta defines it as not knowing suffering, its origin, "
+        "its cessation, and the practice leading to its cessation "
+        "&mdash; ignorance defined precisely as not knowing the four "
+        "noble truths, stated here as a single, direct sentence."
+    ),
+    guide=[
+        ("Ignorance, defined by its object", [
+            "Not a general confusion but a specific fourfold "
+            "not-knowing &mdash; the four noble truths (suffering, "
+            "its origin, its cessation, and the path to its "
+            "cessation), named individually rather than as a single "
+            "bundled term.",
+        ]),
+    ],
+    terms=[
+        ("dukkhe aññāṇaṁ, dukkhasamudaye aññāṇaṁ, dukkhanirodhe "
+         "aññāṇaṁ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṁ",
+             "&ldquo;not knowing suffering, its origin, its "
+             "cessation, and the practice leading to its "
+             "cessation&rdquo; &mdash; ignorance defined precisely as "
+             "not knowing the four noble truths"),
+        ("āvuso", "&ldquo;reverend, friend&rdquo; &mdash; the reciprocal address term Jambukhādaka and Sāriputta use throughout this saṃyutta"),
+        ("pañhā", "&ldquo;question&rdquo; &mdash; the recurring suffix naming every discourse's own Pali title throughout this saṃyutta"),
+        ("atthi... maggo atthi paṭipadā", "&ldquo;is there a path and a practice&rdquo; &mdash; this saṃyutta's own recurring path-confirmation question, asked with only its object changing from SN 38.1 through SN 38.15"),
+        ("navamaṁ", "&ldquo;ninth&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
+    ],
+    text_intro=("The portion of this discourse Sujato's own English "
+        "translation renders. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn38.9:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "How does Sāriputta define \"ignorance\" (avijjā)?",
+         "opts": ["Not knowing the four noble truths: suffering, its origin, its cessation, and the path to its cessation", "Not knowing the noble eightfold path specifically", "A general lack of education", "Not knowing the five aggregates"],
+         "correct": 0,
+         "expl": "A specific fourfold not-knowing, stated as a single direct sentence."},
+    ],
+    marginalia=[
+        ("A specific, not general, not-knowing", [
+            "suffering, its cause, its end, the path —",
+            "ignorance defined by four missing truths",
+        ]),
+        ("Reverend, the address throughout", [
+            "āvuso opens each turn of dialogue —",
+            "Jambukhādaka and Sāriputta alike",
+        ]),
+        ("The same confirmation, asked again", [
+            "is there a path, a practice —",
+            "the recurring question this catechism repeats",
+        ]),
+        ("Ninth in the sequence", [
+            "navamaṁ, past this catechism's own midpoint —",
+            "the pattern holds, one more term examined",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn38.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 38.10 — Taṇhāpañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    38, 10, "Taṇhāpañhā", "A Question About Craving",
+    vagga="Jambukhādakavagga",
+    meta_title="SN 38.10 — A Question About Craving | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Taṇhāpañhāsutta &mdash; the standard three cravings, "
+        "defined in this saṃyutta's own catechism form. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as dialogue "
+                     "from SN 38.1's own setting"),
+        ("Speakers", "The wanderer Jambukhādaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "A direct question and answer, naming a standard "
+                 "threefold list"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a standard threefold list"),
+    ],
+    why=(
+        "Jambukhādaka asks what &ldquo;craving&rdquo; (taṇhā) is. "
+        "Sāriputta names the standard three: craving for sensual "
+        "pleasures, for existence, and for nonexistence &mdash; a "
+        "list this project has already encountered in earlier books, "
+        "restated here in this saṃyutta's own compact catechism form."
+    ),
+    guide=[
+        ("Three cravings, a familiar list", [
+            "Sensual pleasures, existence, and nonexistence &mdash; "
+            "the standard threefold craving list, given here without "
+            "elaboration beyond the bare enumeration.",
+        ]),
+    ],
+    terms=[
+        ("kāmataṇhā, bhavataṇhā, vibhavataṇhā", "&ldquo;craving for "
+             "sensual pleasures, for existence, and for "
+             "nonexistence&rdquo; &mdash; the standard threefold "
+             "list"),
+        ("āvuso", "&ldquo;reverend, friend&rdquo; &mdash; the reciprocal address term Jambukhādaka and Sāriputta use throughout this saṃyutta"),
+        ("pañhā", "&ldquo;question&rdquo; &mdash; the recurring suffix naming every discourse's own Pali title throughout this saṃyutta"),
+        ("atthi... maggo atthi paṭipadā", "&ldquo;is there a path and a practice&rdquo; &mdash; this saṃyutta's own recurring path-confirmation question, asked with only its object changing from SN 38.1 through SN 38.15"),
+        ("dasamaṁ", "&ldquo;tenth&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
+    ],
+    text_intro=("The portion of this discourse Sujato's own English "
+        "translation renders. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn38.10:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What three cravings does Sāriputta name?",
+         "opts": ["Craving for sensual pleasures, for existence, and for nonexistence", "Craving for wealth, fame, and pleasure", "Craving for the past, present, and future", "Craving for form, feeling, and consciousness"],
+         "correct": 0,
+         "expl": "The standard threefold craving list, familiar from earlier in this project's own coverage."},
+    ],
+    marginalia=[
+        ("A familiar three, restated", [
+            "sensual pleasure, existence, nonexistence —",
+            "craving's own standard threefold list",
+        ]),
+        ("Reverend, the address throughout", [
+            "āvuso opens each turn of dialogue —",
+            "Jambukhādaka and Sāriputta alike",
+        ]),
+        ("The same confirmation, asked again", [
+            "is there a path, a practice —",
+            "the recurring question this catechism repeats",
+        ]),
+        ("Tenth in the sequence", [
+            "dasamaṁ, two-thirds through the catechism —",
+            "the same four-step shape, once more",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn38.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 38.11 — Oghapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    38, 11, "Oghapañhā", "A Question About Floods",
+    vagga="Jambukhādakavagga",
+    meta_title="SN 38.11 — A Question About Floods | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Oghapañhāsutta &mdash; the four floods that sweep beings "
+        "into continued existence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as dialogue "
+                     "from SN 38.1's own setting"),
+        ("Speakers", "The wanderer Jambukhādaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "A direct question and answer, naming a fourfold "
+                 "list"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a standard fourfold list"),
+    ],
+    why=(
+        "Jambukhādaka asks what a &ldquo;flood&rdquo; (ogha) is. "
+        "Sāriputta names four: the floods of sensuality, desire to "
+        "be reborn, views, and ignorance &mdash; an image of forces "
+        "sweeping beings along into continued existence, distinct "
+        "from SN 38.8's own narrower, threefold āsava list even "
+        "though the two lists share two of their four terms."
+    ),
+    guide=[
+        ("Four floods, sharing terms with an earlier list", [
+            "Sensuality, desire to be reborn, views, and ignorance "
+            "&mdash; this fourfold list shares two terms (sensuality "
+            "and desire to be reborn) with SN 38.8's own threefold "
+            "āsava list, while adding views as a distinct fourth "
+            "category not present there.",
+        ]),
+    ],
+    terms=[
+        ("kāmogho, bhavogho, diṭṭhogho, avijjogho", "&ldquo;the "
+             "floods of sensuality, desire to be reborn, views, and "
+             "ignorance&rdquo; &mdash; this discourse's own complete, "
+             "fourfold list"),
+        ("āvuso", "&ldquo;reverend, friend&rdquo; &mdash; the reciprocal address term Jambukhādaka and Sāriputta use throughout this saṃyutta"),
+        ("pañhā", "&ldquo;question&rdquo; &mdash; the recurring suffix naming every discourse's own Pali title throughout this saṃyutta"),
+        ("atthi... maggo atthi paṭipadā", "&ldquo;is there a path and a practice&rdquo; &mdash; this saṃyutta's own recurring path-confirmation question, asked with only its object changing from SN 38.1 through SN 38.15"),
+        ("ekādasamaṁ", "&ldquo;eleventh&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
+    ],
+    text_intro=("The portion of this discourse Sujato's own English "
+        "translation renders. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn38.11:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What four floods does Sāriputta name?",
+         "opts": ["Sensuality, desire to be reborn, views, and ignorance", "Greed, hate, delusion, and pride", "The four noble truths, reframed as floods", "Birth, aging, sickness, and death"],
+         "correct": 0,
+         "expl": "A fourfold list, sharing two terms with SN 38.8's own narrower āsava list but adding views as a distinct category."},
+    ],
+    marginalia=[
+        ("Four forces, sweeping onward", [
+            "sensuality, rebirth-desire, views, ignorance —",
+            "sharing two terms with SN 38.8's own shorter list",
+        ]),
+        ("Reverend, the address throughout", [
+            "āvuso opens each turn of dialogue —",
+            "Jambukhādaka and Sāriputta alike",
+        ]),
+        ("A question, by its own name", [
+            "pañhā, question, in the Pali title —",
+            "naming every discourse in this saṃyutta",
+        ]),
+        ("Eleventh in the sequence", [
+            "ekādasamaṁ, this catechism's own longest ordinal word —",
+            "one more list, patiently numbered",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn38.11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-38.8.html">SN 38.8 &middot; A Question About '
+        "Defilements</a> &mdash; already published on this site, "
+        "the source of the narrower threefold list this discourse's "
+        "own fourfold list partly overlaps.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 38.12 — Upādānapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    38, 12, "Upādānapañhā", "A Question About Grasping",
+    vagga="Jambukhādakavagga",
+    meta_title="SN 38.12 — A Question About Grasping | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Upādānapañhāsutta &mdash; the four kinds of grasping, "
+        "including theories of a self. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as dialogue "
+                     "from SN 38.1's own setting"),
+        ("Speakers", "The wanderer Jambukhādaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "A direct question and answer, naming a fourfold "
+                 "list"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a standard fourfold list"),
+    ],
+    why=(
+        "Jambukhādaka asks what &ldquo;grasping&rdquo; (upādāna) is. "
+        "Sāriputta names four kinds: grasping at sensual pleasures, "
+        "at views, at precepts and observances, and at theories of a "
+        "self &mdash; the fourth of which names the very view this "
+        "project's own coverage of SN 24 (Diṭṭhisaṃyutta) traced at "
+        "length: the personal-existence view built from &ldquo;this "
+        "is mine, I am this, this is my self.&rdquo;"
+    ),
+    guide=[
+        ("Four kinds of grasping, one already familiar", [
+            "Sensual pleasures, views, precepts and observances, and "
+            "theories of a self &mdash; the fourth of which, "
+            "attavādupādāna, names the same personal-existence view "
+            "already traced across SN 24's own 96 discourses in this "
+            "project's earlier coverage.",
+        ]),
+    ],
+    terms=[
+        ("kāmupādānaṁ, diṭṭhupādānaṁ, sīlabbatupādānaṁ, "
+         "attavādupādānaṁ", "&ldquo;grasping at sensual pleasures, "
+             "views, precepts and observances, and theories of a "
+             "self&rdquo; &mdash; this discourse's own complete, "
+             "fourfold list"),
+        ("āvuso", "&ldquo;reverend, friend&rdquo; &mdash; the reciprocal address term Jambukhādaka and Sāriputta use throughout this saṃyutta"),
+        ("pañhā", "&ldquo;question&rdquo; &mdash; the recurring suffix naming every discourse's own Pali title throughout this saṃyutta"),
+        ("atthi... maggo atthi paṭipadā", "&ldquo;is there a path and a practice&rdquo; &mdash; this saṃyutta's own recurring path-confirmation question, asked with only its object changing from SN 38.1 through SN 38.15"),
+        ("dvādasamaṁ", "&ldquo;twelfth&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
+    ],
+    text_intro=("The portion of this discourse Sujato's own English "
+        "translation renders. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn38.12:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What four kinds of grasping does Sāriputta name?",
+         "opts": ["Sensual pleasures, views, precepts and observances, and theories of a self", "Wealth, family, status, and pleasure", "Form, feeling, perception, and volition", "The four floods, reframed as grasping"],
+         "correct": 0,
+         "expl": "A fourfold list, the fourth of which names the personal-existence view."},
+        {"q": "Which earlier saṃyutta in this project already traced the fourth kind of grasping at length?",
+         "opts": ["SN 24 (Diṭṭhisaṃyutta), across its own 96 discourses", "SN 36 (Vedanāsaṃyutta)", "SN 22 (Khandhasaṃyutta)", "No earlier saṃyutta addresses this view"],
+         "correct": 0,
+         "expl": "The personal-existence view — \"this is mine, I am this, this is my self\" — already traced in Book III's own coverage."},
+    ],
+    marginalia=[
+        ("Four graspings, one already known", [
+            "sensual pleasure, views, precepts, a self —",
+            "the fourth already traced across SN 24",
+        ]),
+        ("Reverend, the address throughout", [
+            "āvuso opens each turn of dialogue —",
+            "Jambukhādaka and Sāriputta alike",
+        ]),
+        ("The same confirmation, asked again", [
+            "is there a path, a practice —",
+            "the recurring question this catechism repeats",
+        ]),
+        ("Twelfth in the sequence", [
+            "dvādasamaṁ, four discourses from the close —",
+            "grasping now added to the list of terms defined",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn38.12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-24.1.html">SN 24.1 &middot; Aligned With '
+        "Theory</a> &mdash; already published on this site, opening "
+        "this project's earlier coverage of the personal-existence "
+        "view named as this discourse's own fourth kind of grasping.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 38.13 — Bhavapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    38, 13, "Bhavapañhā", "A Question About States of Existence",
+    vagga="Jambukhādakavagga",
+    meta_title="SN 38.13 — A Question About States of Existence | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhavapañhāsutta &mdash; the three realms of continued "
+        "existence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as dialogue "
+                     "from SN 38.1's own setting"),
+        ("Speakers", "The wanderer Jambukhādaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "A direct question and answer, naming a standard "
+                 "threefold list"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a standard threefold list"),
+    ],
+    why=(
+        "Jambukhādaka asks what &ldquo;continued existence&rdquo; "
+        "(bhava) is. Sāriputta names the standard three realms: the "
+        "sensual realm, the realm of luminous form, and the formless "
+        "realm &mdash; the same threefold cosmological division "
+        "underlying the second and third of the four graspings' own "
+        "targets and much of this project's earlier coverage of "
+        "rebirth destinations."
+    ),
+    guide=[
+        ("Three realms, a standard division", [
+            "The sensual realm, the realm of form, and the formless "
+            "realm &mdash; the standard threefold cosmology "
+            "underlying rebirth destinations throughout the earlier "
+            "books this project has already covered.",
+        ]),
+    ],
+    terms=[
+        ("kāmabhavo, rūpabhavo, arūpabhavo", "&ldquo;existence in "
+             "the sensual realm, the realm of luminous form, and the "
+             "formless realm&rdquo; &mdash; this discourse's own "
+             "complete, threefold list"),
+        ("āvuso", "&ldquo;reverend, friend&rdquo; &mdash; the reciprocal address term Jambukhādaka and Sāriputta use throughout this saṃyutta"),
+        ("pañhā", "&ldquo;question&rdquo; &mdash; the recurring suffix naming every discourse's own Pali title throughout this saṃyutta"),
+        ("atthi... maggo atthi paṭipadā", "&ldquo;is there a path and a practice&rdquo; &mdash; this saṃyutta's own recurring path-confirmation question, asked with only its object changing from SN 38.1 through SN 38.15"),
+        ("terasamaṁ", "&ldquo;thirteenth&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
+    ],
+    text_intro=("The portion of this discourse Sujato's own English "
+        "translation renders. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn38.13:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What three states of continued existence does Sāriputta name?",
+         "opts": ["The sensual realm, the realm of form, and the formless realm", "Human, animal, and heavenly rebirth", "Past, present, and future existence", "Waking, dreaming, and deep sleep"],
+         "correct": 0,
+         "expl": "The standard threefold cosmological division found throughout the earlier books this project has covered."},
+    ],
+    marginalia=[
+        ("A familiar cosmology, restated", [
+            "sensual, form, formless —",
+            "the standard threefold division of existence",
+        ]),
+        ("Reverend, the address throughout", [
+            "āvuso opens each turn of dialogue —",
+            "Jambukhādaka and Sāriputta alike",
+        ]),
+        ("A question, by its own name", [
+            "pañhā, question, in the Pali title —",
+            "naming every discourse in this saṃyutta",
+        ]),
+        ("Thirteenth in the sequence", [
+            "terasamaṁ, three discourses from the close —",
+            "existence itself now given the same treatment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn38.13/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 38.14 — Dukkhapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    38, 14, "Dukkhapañhā", "A Question About Suffering",
+    vagga="Jambukhādakavagga",
+    meta_title="SN 38.14 — A Question About Suffering | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dukkhapañhāsutta &mdash; the three forms of suffering: "
+        "painful feeling, conditions, and change. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as dialogue "
+                     "from SN 38.1's own setting"),
+        ("Speakers", "The wanderer Jambukhādaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "A direct question and answer, naming a standard "
+                 "threefold list"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a compact but conceptually dense threefold "
+                       "distinction"),
+    ],
+    why=(
+        "Jambukhādaka asks what &ldquo;suffering&rdquo; (dukkha) is. "
+        "Sāriputta names the classic threefold analysis: the "
+        "suffering inherent in painful feeling itself, the suffering "
+        "inherent in conditions (formations), and the suffering "
+        "inherent in change &mdash; a more precise, technical "
+        "threefold breakdown than the single word &ldquo;dukkha&rdquo; "
+        "alone conveys."
+    ),
+    guide=[
+        ("Three kinds of suffering, not one", [
+            "Ordinary painful feeling (dukkha-dukkhatā), the "
+            "suffering built into all conditioned things simply by "
+            "being conditioned (saṅkhāra-dukkhatā), and the suffering "
+            "that arises specifically from change "
+            "(vipariṇāma-dukkhatā) &mdash; three distinct technical "
+            "categories, not three synonyms for the same experience.",
+        ]),
+    ],
+    terms=[
+        ("dukkhadukkhatā, saṅkhāradukkhatā, vipariṇāmadukkhatā",
+             "&ldquo;the suffering inherent in painful feeling; the "
+             "suffering inherent in conditions; and the suffering "
+             "inherent in perishing&rdquo; &mdash; the classic "
+             "threefold technical analysis of suffering"),
+        ("āvuso", "&ldquo;reverend, friend&rdquo; &mdash; the reciprocal address term Jambukhādaka and Sāriputta use throughout this saṃyutta"),
+        ("pañhā", "&ldquo;question&rdquo; &mdash; the recurring suffix naming every discourse's own Pali title throughout this saṃyutta"),
+        ("atthi... maggo atthi paṭipadā", "&ldquo;is there a path and a practice&rdquo; &mdash; this saṃyutta's own recurring path-confirmation question, asked with only its object changing from SN 38.1 through SN 38.15"),
+        ("cuddasamaṁ", "&ldquo;fourteenth&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
+    ],
+    text_intro=("The portion of this discourse Sujato's own English "
+        "translation renders. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn38.14:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What three forms of suffering does Sāriputta name?",
+         "opts": ["The suffering of painful feeling, of conditions, and of change", "Physical, mental, and spiritual suffering", "Birth, aging, and death", "The suffering of the past, present, and future"],
+         "correct": 0,
+         "expl": "A precise, technical threefold breakdown — three distinct categories, not three synonyms."},
+        {"q": "What distinguishes \"saṅkhāra-dukkhatā\" from ordinary painful feeling?",
+         "opts": ["It names the suffering built into all conditioned things simply by being conditioned, not the experience of pain itself", "It is a stronger word for the exact same experience", "It refers only to physical pain, not mental pain", "It has no distinct meaning from the other two categories"],
+         "correct": 0,
+         "expl": "A structural, not merely experiential, category of suffering."},
+    ],
+    marginalia=[
+        ("Not one suffering, but three", [
+            "painful feeling, conditions, change —",
+            "three distinct technical categories",
+        ]),
+        ("Reverend, the address throughout", [
+            "āvuso opens each turn of dialogue —",
+            "Jambukhādaka and Sāriputta alike",
+        ]),
+        ("The same confirmation, asked again", [
+            "is there a path, a practice —",
+            "the recurring question this catechism repeats",
+        ]),
+        ("Fourteenth in the sequence", [
+            "cuddasamaṁ, two discourses from the close —",
+            "suffering itself parsed into three technical kinds",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn38.14/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 38.15 — Sakkāyapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    38, 15, "Sakkāyapañhā", "A Question About Substantial Reality",
+    vagga="Jambukhādakavagga",
+    meta_title="SN 38.15 — A Question About Substantial Reality | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sakkāyapañhāsutta &mdash; substantial reality defined as "
+        "the five grasping aggregates, this saṃyutta's own direct "
+        "bridge back to Book III's Khandhasaṃyutta. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as dialogue "
+                     "from SN 38.1's own setting"),
+        ("Speakers", "The wanderer Jambukhādaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "A direct question and answer, naming the five "
+                 "grasping aggregates"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a direct definition using already-familiar "
+                       "terms"),
+    ],
+    why=(
+        "Jambukhādaka asks what &ldquo;substantial reality&rdquo; "
+        "(sakkāya) is, and Sāriputta answers with the exact five "
+        "grasping aggregates &mdash; form, feeling, perception, "
+        "choices, and consciousness &mdash; that this project's own "
+        "Book III (Khandhasaṃyutta, SN 22) spent 159 discourses "
+        "tracing in detail. Where SN 24's own attavādupādāna (SN "
+        "38.12) named the personal-existence view built on these "
+        "aggregates, this discourse names the aggregates themselves "
+        "as the raw material that view is built from, attributed "
+        "here directly to a statement of the Buddha's own."
+    ),
+    guide=[
+        ("The last discourse in this catechism, its most direct "
+         "bridge back", [
+            "Form, feeling, perception, choices, and consciousness "
+            "&mdash; identical to the five grasping aggregates this "
+            "project's own Book III traced across all 159 discourses "
+            "of Khandhasaṃyutta (SN 22), here named in a single "
+            "sentence and explicitly attributed to the Buddha's own "
+            "statement rather than Sāriputta's independent teaching.",
+        ]),
+        ("This saṃyutta's own template, one discourse from its close",
+         [
+            "This is the fifteenth and final discourse in this "
+            "saṃyutta's fixed catechism; SN 38.16 will break the "
+            "pattern entirely with a different kind of dialogue, "
+            "closing the saṃyutta itself.",
+        ]),
+    ],
+    terms=[
+        ("sakkāyo", "&ldquo;substantial reality, personal "
+             "existence&rdquo; &mdash; this discourse's own subject "
+             "term"),
+        ("rūpupādānakkhandho, vedanupādānakkhandho, "
+         "saññupādānakkhandho, saṅkhārupādānakkhandho, "
+         "viññāṇupādānakkhandho", "&ldquo;the five grasping "
+             "aggregates: form, feeling, perception, choices, and "
+             "consciousness&rdquo; &mdash; identical to Book III's "
+             "own Khandhasaṃyutta subject matter"),
+        ("āvuso", "&ldquo;reverend, friend&rdquo; &mdash; the reciprocal address term Jambukhādaka and Sāriputta use throughout this saṃyutta"),
+        ("pañhā", "&ldquo;question&rdquo; &mdash; the recurring suffix naming every discourse's own Pali title throughout this saṃyutta"),
+        ("pannarasamaṁ", "&ldquo;fifteenth&rdquo; &mdash; this discourse's own untranslated closing ordinal"),
+    ],
+    text_intro=("The portion of this discourse Sujato's own English "
+        "translation renders. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn38.15:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "How does Sāriputta define \"substantial reality\" (sakkāya)?",
+         "opts": ["As the five grasping aggregates: form, feeling, perception, choices, and consciousness", "As the four elements alone", "As the six sense fields", "As a synonym for extinguishment"],
+         "correct": 0,
+         "expl": "Identical to Book III's own Khandhasaṃyutta (SN 22) subject matter, here attributed directly to the Buddha's own statement."},
+        {"q": "What is this discourse's own position within Jambukhādakasaṃyutta's catechism?",
+         "opts": ["The fifteenth and final discourse in the fixed catechism, with SN 38.16 about to break the pattern", "The opening discourse of the saṃyutta", "The exact midpoint of the sixteen discourses", "It stands entirely outside the catechism template"],
+         "correct": 0,
+         "expl": "One discourse before this saṃyutta's own close."},
+    ],
+    marginalia=[
+        ("A direct bridge to Book III", [
+            "form, feeling, perception, choices, consciousness —",
+            "the same five aggregates SN 22 traced at length",
+        ]),
+        ("One discourse from the close", [
+            "the fifteenth of this saṃyutta's own catechism —",
+            "the pattern breaks at the very next discourse",
+        ]),
+        ("Reverend, the address throughout", [
+            "āvuso opens each turn of dialogue —",
+            "Jambukhādaka and Sāriputta alike",
+        ]),
+        ("Fifteenth, the catechism's own last", [
+            "pannarasamaṁ closes this template for good —",
+            "one discourse remains, and it breaks the pattern",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn38.15/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-22.1.html">SN 22.1 &middot; Nakulapitā</a> '
+        "&mdash; already published on this site, opening this "
+        "project's own full coverage of Khandhasaṃyutta and the same "
+        "five grasping aggregates named here.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 38.16 — Dukkarapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    38, 16, "Dukkarapañhā", "A Question About What's Hard to Do",
+    vagga="Jambukhādakavagga",
+    meta_title="SN 38.16 — A Question About What's Hard to Do | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dukkarapañhāsutta &mdash; a four-step chain of "
+        "increasing difficulty ending in arahantship \"not long\" "
+        "away, closing Jambukhādakasaṃyutta with Sujato's own "
+        "translated colophon. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as dialogue "
+                     "from SN 38.1's own setting"),
+        ("Speakers", "The wanderer Jambukhādaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "A four-step chained dialogue, breaking this "
+                 "saṃyutta's own fifteen-discourse catechism "
+                 "template entirely, closing on this saṃyutta's own "
+                 "colophon"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes both the vagga and the entire "
+                       "saṃyutta at once"),
+    ],
+    why=(
+        "This discourse closes Jambukhādakasaṃyutta by abandoning "
+        "the fifteen-discourse catechism template entirely: instead "
+        "of defining a term, Jambukhādaka asks what's hard to do in "
+        "this teaching and training, and Sāriputta answers with a "
+        "chain of four increasingly demanding stages &mdash; going "
+        "forth is hard; for one gone forth, finding satisfaction is "
+        "hard; for one satisfied, practicing in line with the "
+        "teaching is hard &mdash; before Jambukhādaka asks the "
+        "natural final question: once a mendicant is practicing that "
+        "way, how long until they become an arahant? "
+        "&ldquo;Not long,&rdquo; Sāriputta answers. The discourse then "
+        "closes on this saṃyutta's own genuinely Sujato-translated "
+        "colophon: &ldquo;The Linked Discourses with Jambukhādaka are "
+        "complete&rdquo; &mdash; confirming, at last, this saṃyutta's "
+        "own scope of 16 discourses in a single vagga."
+    ),
+    guide=[
+        ("A chain, not a catechism", [
+            "Going forth &rarr; finding satisfaction &rarr; "
+            "practicing in line with the teaching &rarr; arahantship "
+            "&mdash; four linked stages of increasing difficulty, "
+            "each building on the one before it, replacing the "
+            "define-confirm-name-close template every earlier "
+            "discourse in this saṃyutta has used.",
+        ]),
+        ("The reassurance at the end of the chain", [
+            "Once the hardest stage &mdash; practicing in line with "
+            "the teaching &mdash; is actually reached, Sāriputta's "
+            "own answer is unambiguous: arahantship follows "
+            "&ldquo;not long&rdquo; after. The difficulty named "
+            "throughout this discourse is in reaching that stage, not "
+            "in what follows once it is reached.",
+        ]),
+        ("A genuinely translated close, confirming this saṃyutta's "
+         "own scope", [
+            "&ldquo;The Linked Discourses with Jambukhādaka are "
+            "complete&rdquo; &mdash; Sujato's own translated closing "
+            "line, following an untranslated ordinal "
+            "(&ldquo;sixteenth&rdquo;) this reading guide describes "
+            "rather than quotes, and preceding an entirely untranslated "
+            "uddāna listing all sixteen discourses by name, also "
+            "described rather than quoted.",
+        ]),
+    ],
+    terms=[
+        ("pabbajjā... dukkarā", "&ldquo;going forth is hard to "
+             "do&rdquo; &mdash; the first link in this discourse's "
+             "own four-stage chain"),
+        ("abhirati dukkarā", "&ldquo;finding satisfaction is hard "
+             "to do&rdquo; &mdash; the second link, specific to one "
+             "who has already gone forth"),
+        ("dhammānudhammappaṭipatti dukkarā", "&ldquo;practicing in "
+             "line with the teaching is hard to do&rdquo; &mdash; "
+             "the third and hardest link named in this discourse"),
+        ("naciraṁ", "&ldquo;not long&rdquo; &mdash; Sāriputta's own "
+             "answer to how long arahantship takes once that third "
+             "stage is genuinely reached"),
+        ("Jambukhādakasaṁyuttaṁ samattaṁ", "&ldquo;The Linked "
+             "Discourses with Jambukhādaka are complete&rdquo; "
+             "&mdash; this saṃyutta's own genuinely Sujato-translated "
+             "closing line, following the untranslated ordinal and "
+             "uddāna this reading guide describes rather than quotes"),
+    ],
+    text_intro=("The complete discourse, apart from the intervening "
+        "untranslated ordinal and uddāna (described rather than "
+        "quoted above), together with this saṃyutta's own genuinely "
+        "translated final line. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn38.16:1.1-1.8"),
+        ("p", "&sect;2", "sn38.16:1.10"),
+    ],
+    quiz=[
+        {"q": "What four-stage chain does Sāriputta name in this discourse?",
+         "opts": ["Going forth, then finding satisfaction, then practicing in line with the teaching, then arahantship", "The four noble truths, reframed as difficulties", "The four floods named at SN 38.11", "A repetition of the eightfold path"],
+         "correct": 0,
+         "expl": "A chain of increasing difficulty, replacing this saṃyutta's own fifteen-discourse catechism template."},
+        {"q": "How does this discourse structurally differ from SN 38.1-15?",
+         "opts": ["It abandons the define-confirm-name-close catechism template entirely for a chained dialogue", "It repeats the identical template one final time", "It introduces an entirely new speaker", "It has no relationship to the rest of the saṃyutta"],
+         "correct": 0,
+         "expl": "The only discourse in this saṃyutta that breaks its own fixed template."},
+        {"q": "How long does Sāriputta say arahantship takes once a mendicant genuinely practices in line with the teaching?",
+         "opts": ["Not long", "A very long time, measured in lifetimes", "The discourse leaves this question unanswered", "Exactly seven days"],
+         "correct": 0,
+         "expl": "The reassurance closing the chain: the difficulty lies in reaching that stage, not in what follows it."},
+        {"q": "What does this discourse's own closing colophon confirm?",
+         "opts": ["Jambukhādakasaṃyutta's own scope: 16 discourses, in Sujato's own genuinely translated closing line", "A colophon identical to SN 37.34's own closing line", "No colophon appears in this discourse at all", "A promise that a seventeenth discourse follows"],
+         "correct": 0,
+         "expl": "\"The Linked Discourses with Jambukhādaka are complete\" — following an untranslated ordinal and uddāna this reading guide describes rather than quotes."},
+    ],
+    marginalia=[
+        ("A chain, replacing the catechism", [
+            "going forth, then satisfaction, then practice —",
+            "each stage harder than the one before it",
+        ]),
+        ("Reassurance, once the hard part is done", [
+            "\"naciraṁ,\" not long —",
+            "the difficulty is in reaching the stage, not beyond it",
+        ]),
+        ("16 discourses, confirmed at last", [
+            "\"Jambukhādakasaṁyuttaṁ samattaṁ\" —",
+            "genuinely translated, closing the saṃyutta itself",
+        ]),
+        ("Sixteenth, breaking its own pattern", [
+            "soḷasamaṁ closes the count —",
+            "but this discourse never used the catechism at all",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn38.16/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-38.1.html">SN 38.1 &middot; A Question About '
+        "Extinguishment</a> &mdash; already published on this site, "
+        "opening the catechism template this discourse departs from.",
         '<a href="sn-41.1.html">SN 41.1 &middot; The Fetter</a> '
         "&mdash; already published on this site, standing ahead of "
-        "this project's next saṃyutta, SN 38, not yet built.",
+        "this project's next saṃyutta, SN 39, not yet built.",
     ],
 )
