@@ -50751,3 +50751,1678 @@ page(
         "this project's next saṃyutta, SN 44, not yet built.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 44 (Abyākatasaṃyutta, "Linked Discourses on the Undeclared") is
+# this book's tenth and last saṃyutta, confirmed against both
+# bilara-data's own file layout (11 individual files, no peyyāla
+# merges anywhere) and SuttaCentral's own menu API -- both agree
+# exactly: 11 discourses in a single vagga, Abyākatavagga. SN 44.11's
+# own closing colophon carries a second, higher-level closing line
+# beyond this saṃyutta's own -- "The Book of the Six Sense Fields is
+# finished" -- confirming this saṃyutta closes not only itself but
+# Book IV (Saḷāyatanavagga, SN 35-44) as a whole, this project's own
+# fourth book completed after Books I-III.
+#
+# Structurally this saṃyutta is unlike SN 43's own mechanical peyyāla:
+# every discourse is a genuine narrative or dialogue, confirmed by
+# reading all eleven directly rather than assumed from the blurb's
+# own description ("ten metaphysical questions the Buddha rejected").
+# SN 44.7 is the first discourse to give the full traditional list of
+# ten undeclared theses (the cosmos eternal or not, finite or
+# infinite; the soul the same as or different from the body; a
+# realized one existing, not existing, both, or neither, after death)
+# -- SN 44.1-6 and SN 44.10-11 confine themselves to the last four of
+# these ten (the realized-one-after-death tetralemma alone), confirmed
+# by reading each discourse's own actual questions rather than assumed
+# to match SN 44.7's fuller list. Four consecutive discourses (SN
+# 44.3-6), all between Sāriputta and Mahākoṭṭhita at the same setting
+# (Isipatana's deer park, Varanasi), each give a genuinely different
+# reason why the questions go undeclared -- confirmed by reading all
+# four directly rather than assumed to repeat one explanation: (1) the
+# questions are each entangled in one of the five grasping aggregates;
+# (2) not truly knowing the aggregates' origin, cessation, and the
+# practice leading to their cessation; (3) not being rid of desire for
+# the aggregates; (4) liking and enjoying the aggregates without truly
+# seeing their cessation, escalated across three further
+# reformulations (existence, grasping, craving) to a final, famous
+# closing line. SN 44.9 is this project's own first encounter with the
+# well-known "fire" simile (paralleled at MN 72 and, per SuttaCentral's
+# own parallels record, at SA 957 and SA 2.190) and SN 44.10 gives the
+# equally well-known account of why the Buddha met Vacchagotta's
+# question about the self with silence rather than either a yes or a
+# no (paralleled at SA 961 and SA 2.195, per the same record) --
+# confirmed to be genuinely distinct explanations, not variations on
+# one one already-met argument.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 44.1 — Khemāsutta
+# --------------------------------------------------------------------------- #
+page(
+    44, 1, "Khemā", "With Khemā",
+    vagga="Abyākatavagga",
+    meta_title="SN 44.1 — With Khemā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Khemāsutta &mdash; opening a new saṃyutta on the "
+        "undeclared questions with a king questioning a nun, and "
+        "hearing the Buddha's own answer echoed word for word. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Toraṇavatthu, between Sāvatthī and Sāketa, then "
+                     "Sāvatthī itself"),
+        ("Speakers", "The nun Khemā and King Pasenadi of Kosala, then "
+                     "King Pasenadi and the Buddha"),
+        ("Form", "A king's question, answered identically by a "
+                 "disciple and by the Buddha himself &mdash; this "
+                 "book's own first discourse with a genuine narrative "
+                 "frame since SN 41's own Cittasaṃyutta"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a rich narrative, straightforward argument"),
+    ],
+    why=(
+        "This discourse opens Book IV's tenth and last saṃyutta with "
+        "a king unable to find a worthy renunciant to honor, until he "
+        "is directed to the nun Khemā &mdash; herself praised as "
+        "&ldquo;astute, competent, clever, learned, a brilliant "
+        "speaker, and eloquent&rdquo; before he even meets her. His "
+        "question &mdash; does a realized one still exist after "
+        "death? &mdash; is the first of this saṃyutta's own central "
+        "concern, the four undeclared theses about a realized one "
+        "after death, and Khemā's own ocean simile for why the "
+        "question cannot be answered is confirmed, when the king "
+        "later puts the same question to the Buddha directly, to "
+        "match his own answer word for word."
+    ),
+    guide=[
+        ("A king's search ends with a nun", [
+            "Sent to find any worthy ascetic or brahmin in "
+            "Toraṇavatthu, the king's own man finds none &mdash; "
+            "only the nun Khemā, already staying there. Her own "
+            "reputation (astute, clever, learned, eloquent) is "
+            "established before she speaks a single word in the "
+            "discourse itself.",
+        ]),
+        ("Four questions, one answer repeated four times", [
+            "Does a realized one still exist after death, no longer "
+            "exist, both, or neither? Khemā's own answer to all four "
+            "is identical: &ldquo;this has not been declared by the "
+            "Buddha&rdquo; &mdash; not evasion but a direct citation "
+            "of the Buddha's own settled position, confirmed rather "
+            "than her own opinion.",
+        ]),
+        ("An ocean no reckoner can measure", [
+            "Asked why, Khemā first asks the king whether any "
+            "accountant could count the Ganges' own grains of sand, "
+            "or the ocean's own gallons of water &mdash; both "
+            "impossible, &ldquo;deep, immeasurable, and hard to "
+            "fathom&rdquo; &mdash; then applies the identical "
+            "description to a realized one: any of the five "
+            "aggregates by which one might be described &ldquo;has "
+            "been cut off at the root, made like a palm stump&rdquo; "
+            "&mdash; the four theses about existence after death "
+            "simply do not apply to something no longer describable "
+            "in those terms at all.",
+        ]),
+        ("The king hears his own answer, twice over", [
+            "Confirmed by reading the source directly: when King "
+            "Pasenadi later asks the Buddha the identical questions, "
+            "he receives the identical answer, word for word "
+            "&mdash; his own closing exclamation (&ldquo;how the "
+            "meaning and the phrasing of the teacher and the "
+            "disciple fit together&hellip;without contradiction&rdquo;) "
+            "is not flattery but an observed fact he reports twice "
+            "over in the same breath.",
+        ]),
+    ],
+    terms=[
+        ("na kho etaṁ, mahārāja, bhagavatā byākataṁ", "&ldquo;great "
+             "king, this has not been declared by the Buddha&rdquo; "
+             "&mdash; Khemā's own identical answer to all four "
+             "questions about a realized one after death"),
+        ("gambhīro appameyyo duppariyogāḷho", "&ldquo;deep, "
+             "immeasurable, and hard to fathom&rdquo; &mdash; the "
+             "ocean's own description, applied identically to a "
+             "realized one freed from reckoning by the five "
+             "aggregates"),
+        ("rūpasaṅkhāya vimutto", "&ldquo;freed from reckoning in "
+             "terms of form&rdquo; &mdash; the key phrase this "
+             "discourse repeats for each of the five aggregates in "
+             "turn, form through consciousness"),
+        ("acchariyaṁ, bhante, abbhutaṁ, bhante", "&ldquo;it's "
+             "incredible, sir, it's amazing!&rdquo; &mdash; the "
+             "king's own closing exclamation on finding the teacher "
+             "and the disciple's own words identical"),
+        ("khemā bhikkhunī", "the nun Khemā &mdash; introduced by "
+             "reputation before she speaks, this project's own first "
+             "named female teacher to answer a king's own direct "
+             "question"),
+    ],
+    text_intro=("The complete discourse, organized under section "
+        "headings. The Buddha's own repetition of Khemā's exact words "
+        "to the king is elided in the source itself and is not "
+        "restated here as separate text, only described in the "
+        "reading guide above. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "The setting: a king seeks someone to honor"),
+        ("p", "&sect;1", "sn44.1:1.1-3.5"),
+        ("h3", "Four questions on a realized one after death"),
+        ("p", "&sect;2", "sn44.1:4.1-4.13"),
+        ("h3", "Why: the cause, illustrated by grains of sand and "
+                "the ocean"),
+        ("p", "&sect;3", "sn44.1:5.1-6.14"),
+        ("h3", "The same freedom, for all five aggregates"),
+        ("p", "&sect;4", "sn44.1:7.1-9.5"),
+        ("h3", "The king asks the Buddha, and hears his own answer "
+                "echoed"),
+        ("p", "&sect;5", "sn44.1:10.1-13.10"),
+    ],
+    quiz=[
+        {"q": "Who does King Pasenadi first put his question to, before asking the Buddha directly?",
+         "opts": ["The nun Khemā", "Venerable Ānanda", "Venerable Sāriputta", "The wanderer Vacchagotta"],
+         "correct": 0,
+         "expl": "A renunciant whose own reputation (astute, clever, learned, eloquent) is established before she speaks a single word."},
+        {"q": "What simile does Khemā use to explain why the four theses about a realized one after death go undeclared?",
+         "opts": ["An accountant unable to count the Ganges' own sand or the ocean's own water", "A chariot with its parts removed one by one", "A fire that only burns with fuel", "A lamp blown out by the wind"],
+         "correct": 0,
+         "expl": "Both impossible tasks, both \"deep, immeasurable, and hard to fathom\" — the identical description then applied to a realized one."},
+        {"q": "What happens when King Pasenadi later asks the Buddha the same four questions?",
+         "opts": ["He receives the identical answer, word for word, to what Khemā already told him", "The Buddha refuses to answer at all", "The Buddha gives a completely different answer", "The Buddha asks the king to consult Khemā again instead"],
+         "correct": 0,
+         "expl": "Confirmed rather than merely claimed — the king reports the match twice over in the same breath of astonishment."},
+        {"q": "Why, according to Khemā, do the four theses about a realized one after death not apply?",
+         "opts": ["Because any aggregate by which a realized one might be described has been cut off at the root", "Because the questions are grammatically malformed", "Because only the Buddha himself is permitted to discuss them", "Because the aggregates are eternal and unchanging"],
+         "correct": 0,
+         "expl": "Freed from reckoning by form, feeling, perception, choices, or consciousness — none of the four theses has anything left to describe."},
+    ],
+    marginalia=[
+        ("A king finds a nun, not a monk", [
+            "no ascetic or brahmin to be found —",
+            "only Khemā, already staying nearby",
+        ]),
+        ("Four questions, one honest answer", [
+            "\"this has not been declared\" —",
+            "repeated for existence, non-existence, both, neither",
+        ]),
+        ("An ocean beyond any reckoner", [
+            "sand uncountable, water unmeasurable —",
+            "a realized one, freed from reckoning likewise",
+        ]),
+        ("Teacher and disciple, word for word", [
+            "the same question, twice asked —",
+            "the identical answer, both times given",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn44.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-43.44.html\">SN 43.44 &middot; The Final "
+        "Haven</a> &mdash; the previous discourse, closing SN 43.",
+        "<a href=\"sn-44.2.html\">SN 44.2 &middot; With "
+        "Anurādha</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 44.2 — Anurādhasutta
+# --------------------------------------------------------------------------- #
+page(
+    44, 2, "Anurādha", "With Anurādha",
+    vagga="Abyākatavagga",
+    meta_title="SN 44.2 — With Anurādha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anurādhasutta &mdash; a mendicant rebuked by wanderers "
+        "for his own honest answer, then shown by the Buddha why a "
+        "realized one cannot be found at all, in life or after "
+        "death. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, at the Great Wood, in the hall with the "
+                     "peaked roof"),
+        ("Speakers", "Venerable Anurādha, wanderers of other "
+                     "religions, and the Buddha"),
+        ("Form", "A mendicant rebuked, then guided step by step to "
+                 "ground his own answer in direct investigation "
+                 "rather than repetition alone"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a longer argument built in careful steps"),
+    ],
+    why=(
+        "Venerable Anurādha tells wanderers that a realized one is "
+        "described in some way <em>other</em> than the four standard "
+        "theses about existence after death &mdash; a genuinely "
+        "different formulation from what SN 44.1 or SN 44.3 will use "
+        "&mdash; and is mocked for it as junior and foolish. Rather "
+        "than simply correcting his wording, the Buddha walks him "
+        "through the identical five-aggregate analysis this project "
+        "has met many times before, arriving at a conclusion sharper "
+        "than &ldquo;undeclared&rdquo;: a realized one cannot be "
+        "found as a genuine fact even in this very life, so no claim "
+        "about their state after death is even the right kind of "
+        "claim to make."
+    ),
+    guide=[
+        ("A different formulation, and a swift rebuke", [
+            "Anurādha's own answer &mdash; that a realized one is "
+            "described in some way other than the four familiar "
+            "theses &mdash; is not obviously wrong, but the "
+            "wanderers reject it outright as the mark of an "
+            "incompetent mendicant, leaving before he can explain "
+            "further.",
+        ]),
+        ("Seeking the Buddha's own guidance, not just an answer", [
+            "Anurādha's own private concern &mdash; how to answer "
+            "&ldquo;so as to repeat what the Buddha has said, and "
+            "not misrepresent him with an untruth&rdquo; &mdash; "
+            "shows him checking his own understanding against the "
+            "teaching itself rather than defending his pride.",
+        ]),
+        ("Not found even in this very life", [
+            "The Buddha's own extended questioning &mdash; is the "
+            "label &ldquo;realized one&rdquo; found in relation to "
+            "each aggregate, apart from it, in one who has it, or in "
+            "one without it &mdash; systematically closes every "
+            "logical position, arriving at a conclusion this project "
+            "has not seen phrased quite this way before: a realized "
+            "one &ldquo;is not found by you as a genuine fact in "
+            "this very life,&rdquo; so a question about their state "
+            "after death is not even a coherent question to ask.",
+        ]),
+    ],
+    terms=[
+        ("aññatra imehi catūhi ṭhānehi paññāpayamāno paññāpeti",
+             "&ldquo;they describe them other than these four "
+             "ways&rdquo; &mdash; Anurādha's own genuinely different "
+             "formulation, rejected by the wanderers without "
+             "explanation"),
+        ("kudassu nāma... byākareyyaṁ", "&ldquo;how should I answer "
+             "them&rdquo; &mdash; Anurādha's own private concern, "
+             "checking his understanding against the teaching rather "
+             "than defending his pride"),
+        ("na h'idaṁ te, anurādha, saccato thetato upalabbhati",
+             "&ldquo;a realized one is not found by you as a genuine "
+             "fact&rdquo; &mdash; the Buddha's own conclusion, "
+             "sharper than simply calling the question undeclared"),
+        ("dukkhañceva paññāpemi dukkhassa ca nirodhaṁ", "&ldquo;what "
+             "I describe is suffering and the cessation of "
+             "suffering&rdquo; &mdash; the Buddha's own closing "
+             "redirection, in the past as in the present"),
+        ("etaṁ mama, esohamasmi, eso me attā", "&ldquo;this is mine, "
+             "I am this, this is my self&rdquo; &mdash; the familiar "
+             "three-part self-view formula, applied here to close "
+             "off every one of the five aggregates in turn"),
+    ],
+    text_intro=("The complete discourse, organized under section "
+        "headings. Where the source elides a repeated question or "
+        "answer with an ellipsis, this reading guide preserves the "
+        "elision rather than writing out the full repetition by "
+        "hand. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Wanderers challenge Anurādha's own answer"),
+        ("p", "&sect;1", "sn44.2:1.1-1.11"),
+        ("h3", "Anurādha seeks the Buddha's own guidance"),
+        ("p", "&sect;2", "sn44.2:2.1-2.4"),
+        ("h3", "The five aggregates: impermanent, suffering, not-self"),
+        ("p", "&sect;3", "sn44.2:3.1-15.8"),
+        ("h3", "Is a realized one findable, in any of these ways?"),
+        ("p", "&sect;4", "sn44.2:16.1-17.9"),
+        ("h3", "The Buddha's own verdict"),
+        ("p", "&sect;5", "sn44.2:17.10-17.13"),
+    ],
+    quiz=[
+        {"q": "What formulation does Anurādha give the wanderers, different from the standard four theses?",
+         "opts": ["That a realized one is described in some way other than the four familiar ways", "That a realized one definitely still exists after death", "That a realized one definitely no longer exists after death", "That he refuses to discuss the question at all"],
+         "correct": 0,
+         "expl": "Not obviously wrong, but rejected outright by the wanderers as the mark of an incompetent mendicant."},
+        {"q": "What is Anurādha's own private concern after the wanderers leave?",
+         "opts": ["How to answer so as to repeat the Buddha's own teaching accurately, without misrepresenting it", "How to get revenge on the wanderers for mocking him", "Whether to give up the question entirely", "How to avoid ever meeting wanderers again"],
+         "correct": 0,
+         "expl": "Checking his own understanding against the teaching itself, not defending his own pride."},
+        {"q": "What conclusion does the Buddha's own extended questioning arrive at?",
+         "opts": ["A realized one is not found as a genuine fact even in this very life", "A realized one definitely exists after death", "The five aggregates are themselves the self", "Anurādha's own original answer was correct all along"],
+         "correct": 0,
+         "expl": "Sharper than simply calling the question undeclared — if not found now, a claim about later is not even the right kind of claim."},
+        {"q": "What does the Buddha say he has always described, \"in the past as today\"?",
+         "opts": ["Suffering and the cessation of suffering", "The nature of the cosmos", "The soul's relationship to the body", "The exact moment of a realized one's death"],
+         "correct": 0,
+         "expl": "The Buddha's own closing redirection away from metaphysical speculation."},
+    ],
+    marginalia=[
+        ("An honest answer, swiftly mocked", [
+            "\"other than these four ways\" —",
+            "junior, foolish, the wanderers say and leave",
+        ]),
+        ("Checking understanding, not pride", [
+            "how to answer without misrepresenting —",
+            "Anurādha's own private, honest concern",
+        ]),
+        ("Every position closed off", [
+            "in, apart, having, without —",
+            "\"realized one\" fits none of these labels",
+        ]),
+        ("Not found now, so not askable later", [
+            "no genuine fact, even in this life —",
+            "suffering and its ending, the only real teaching",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn44.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-44.1.html\">SN 44.1 &middot; With Khemā</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-44.3.html\">SN 44.3 &middot; With Sāriputta "
+        "and Koṭṭhita (1st)</a> &mdash; the next discourse, opening "
+        "a run of four between the same two speakers.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 44.3 — Paṭhamasāriputtakoṭṭhikasutta
+# --------------------------------------------------------------------------- #
+page(
+    44, 3, "Sāriputtakoṭṭhika", "With Sāriputta and Koṭṭhita (1st)",
+    vagga="Abyākatavagga",
+    meta_title="SN 44.3 — With Sāriputta and Koṭṭhita (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the first of four dialogues between Sāriputta and "
+        "Mahākoṭṭhita on the undeclared questions, each giving a "
+        "genuinely different reason why. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Isipatana's deer park, near Varanasi"),
+        ("Speakers", "Venerable Mahākoṭṭhita questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "The first of four consecutive discourses at the "
+                 "same setting, each giving a genuinely different "
+                 "reason why the questions go undeclared"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, one clear argument"),
+    ],
+    why=(
+        "The first of four consecutive discourses between the same "
+        "two senior disciples, each confirmed by direct reading to "
+        "give a genuinely different reason for the same undeclared "
+        "questions rather than repeating one explanation four times. "
+        "Here Sāriputta's own answer is structural: each of the four "
+        "theses about a realized one after death is &ldquo;included "
+        "in&rdquo; one of the five grasping aggregates &mdash; the "
+        "question itself is built from the very material the "
+        "Buddha's own teaching dismantles, not a separate matter "
+        "requiring its own separate answer."
+    ),
+    guide=[
+        ("A question built from the aggregates themselves", [
+            "&ldquo;Does a realized one still exist after death?&rdquo; "
+            "is not, on Sāriputta's own analysis, a free-standing "
+            "question about some entity called &ldquo;a realized "
+            "one&rdquo; &mdash; it is &ldquo;included in form,&rdquo; "
+            "&ldquo;included in feeling,&rdquo; and so on through all "
+            "five aggregates, confirmed by reading the discourse's "
+            "own repeated structure directly: all four theses, "
+            "restated for each of the five aggregates in turn.",
+        ]),
+        ("The first of four distinct reasons", [
+            "This project's own reading of SN 44.4&ndash;6 confirms "
+            "each gives a genuinely different answer to the "
+            "identical question &mdash; not truly knowing the "
+            "aggregates (SN 44.4), not being rid of desire for them "
+            "(SN 44.5), and liking or enjoying them without seeing "
+            "their cessation (SN 44.6) &mdash; this discourse's own "
+            "structural answer is the first of the four, not a "
+            "summary the others merely restate.",
+        ]),
+    ],
+    terms=[
+        ("rūpasmiṁ... vedanāya... saññāya... saṅkhāresu... viññāṇasmiṁ",
+             "&ldquo;in form... in feeling... in perception... in "
+             "choices... in consciousness&rdquo; &mdash; the five "
+             "aggregates each of the four theses is said to be "
+             "&ldquo;included in&rdquo;"),
+        ("hoti tathāgato paraṁ maraṇā", "&ldquo;a realized one still "
+             "exists after death&rdquo; &mdash; the first of the "
+             "four undeclared theses, restated for all five "
+             "aggregates in turn"),
+        ("ayaṁ hetu ayaṁ paccayo", "&ldquo;this is the cause, this "
+             "is the reason&rdquo; &mdash; the closing formula this "
+             "discourse and its own three companions each supply "
+             "with a different content"),
+        ("mahākoṭṭhito", "Mahākoṭṭhita, questioning Sāriputta here "
+             "and answering the identical question himself as the "
+             "one questioned in SN 44.6"),
+        ("isipatane migadāye", "&ldquo;in the deer park at "
+             "Isipatana&rdquo; &mdash; the shared setting for all "
+             "four discourses in this run, near Varanasi"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated "
+        "&mdash; the source itself elides the repetition of each "
+        "thesis across the five aggregates with an ellipsis, "
+        "preserved here rather than written out by hand. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Setting"),
+        ("p", "&sect;1", "sn44.3:1.1-1.3"),
+        ("h3", "Four questions, unanswered"),
+        ("p", "&sect;2", "sn44.3:2.1-3.6"),
+        ("h3", "Why: each thesis is entangled in one of the five "
+                "aggregates"),
+        ("p", "&sect;3", "sn44.3:4.1-4.21"),
+    ],
+    quiz=[
+        {"q": "What reason does Sāriputta give for why the four theses about a realized one after death go undeclared?",
+         "opts": ["Each thesis is \"included in\" one of the five grasping aggregates", "The questions are grammatically impossible to answer", "Only the Buddha himself is permitted to answer them", "The questions have already been answered elsewhere"],
+         "correct": 0,
+         "expl": "The question is built from the very material — form, feeling, perception, choices, consciousness — the teaching dismantles, not a separate free-standing matter."},
+        {"q": "How many consecutive discourses does this project's own reading confirm are built on this same setting and pair of speakers?",
+         "opts": ["Four (SN 44.3-6)", "Two", "Eleven, the whole saṃyutta", "Just this one"],
+         "correct": 0,
+         "expl": "Each of the four gives a genuinely different reason, confirmed by direct reading rather than assumed to repeat one explanation."},
+        {"q": "Where are Sāriputta and Mahākoṭṭhita staying in this discourse?",
+         "opts": ["Isipatana's deer park, near Varanasi", "Jeta's Grove, near Sāvatthī", "The Great Wood, near Vesālī", "Rājagaha, on Vulture's Peak"],
+         "correct": 0,
+         "expl": "The shared setting for all four discourses in this run."},
+    ],
+    marginalia=[
+        ("A question, not free-standing", [
+            "\"included in form\" —",
+            "and feeling, perception, choices, consciousness too",
+        ]),
+        ("First of four distinct reasons", [
+            "structural entanglement, here —",
+            "three more explanations still to come",
+        ]),
+        ("The same two speakers, four times over", [
+            "Sāriputta and Mahākoṭṭhita —",
+            "Isipatana's deer park, each discourse's own setting",
+        ]),
+        ("A closing formula, filled differently each time", [
+            "\"this is the cause, this is the reason\" —",
+            "a genuinely new answer follows, not a repeat",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn44.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-44.2.html\">SN 44.2 &middot; With "
+        "Anurādha</a> &mdash; the previous discourse.",
+        "<a href=\"sn-44.4.html\">SN 44.4 &middot; With Sāriputta "
+        "and Koṭṭhita (2nd)</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 44.4 — Dutiyasāriputtakoṭṭhikasutta
+# --------------------------------------------------------------------------- #
+page(
+    44, 4, "Sāriputtakoṭṭhika", "With Sāriputta and Koṭṭhita (2nd)",
+    vagga="Abyākatavagga",
+    meta_title="SN 44.4 — With Sāriputta and Koṭṭhita (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the second of four dialogues between Sāriputta and "
+        "Mahākoṭṭhita &mdash; not truly knowing the aggregates as "
+        "the reason the undeclared questions arise at all. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Isipatana's deer park, near Varanasi "
+                     "(continuing directly from SN 44.3)"),
+        ("Speakers", "Venerable Mahākoṭṭhita questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "This run's own second reason, opening with a "
+                 "genuinely translated editorial cross-reference "
+                 "back to SN 44.3's own setting and closing question"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, one clear argument"),
+    ],
+    why=(
+        "The second of four reasons Sāriputta gives Mahākoṭṭhita for "
+        "the same undeclared questions: not truly knowing and seeing "
+        "each of the five aggregates &mdash; its origin, its "
+        "cessation, and the practice that leads to its cessation "
+        "&mdash; is what generates the very thought that a realized "
+        "one still exists, or doesn't, or both, or neither, after "
+        "death. Truly knowing removes the thought entirely, rather "
+        "than replacing it with a different, correct thought."
+    ),
+    guide=[
+        ("A cross-reference, genuinely translated", [
+            "&ldquo;(The same down as far as:)&rdquo; is confirmed "
+            "as real Sujato-translated editorial text, not a "
+            "placeholder this reading guide invents &mdash; the "
+            "source itself instructs the reciter to repeat SN 44.3's "
+            "own setting and Mahākoṭṭhita's own closing question "
+            "rather than restate them.",
+        ]),
+        ("Not knowing generates the thought; knowing removes it", [
+            "This discourse's own structure is symmetrical: not "
+            "truly knowing each aggregate's own origin, cessation, "
+            "and path to its cessation produces all four theses as "
+            "thoughts that occur; truly knowing the same three "
+            "things means none of the four thoughts occurs at all "
+            "&mdash; confirmed by reading both halves of the "
+            "discourse directly, a genuinely different mechanism "
+            "from SN 44.3's own structural &ldquo;included in&rdquo; "
+            "answer.",
+        ]),
+    ],
+    terms=[
+        ("ananubuddhaṁ appaṭividdhaṁ", "&ldquo;not truly knowing and "
+             "seeing&rdquo; &mdash; the condition this discourse "
+             "identifies as generating all four undeclared theses as "
+             "thoughts that actually occur"),
+        ("samudayaṁ atthaṅgamaṁ assādaṁ ādīnavaṁ nissaraṇaṁ",
+             "&ldquo;origin... cessation... gratification... "
+             "drawback... escape&rdquo; &mdash; elements of the full "
+             "analytical formula this discourse presupposes, "
+             "abbreviated here to origin and cessation alone"),
+        ("nirodhagāminiṁ paṭipadaṁ", "&ldquo;the practice that leads "
+             "to its cessation&rdquo; &mdash; the third element of "
+             "knowing, alongside origin and cessation, this "
+             "discourse names for each aggregate"),
+        ("yathābhūtaṁ ñatvā ca disvā ca", "&ldquo;truly knowing and "
+             "seeing&rdquo; &mdash; the discourse's own second half, "
+             "reversing the first to show the thought does not occur "
+             "at all"),
+        ("ayaṁ hetu ayaṁ paccayo", "&ldquo;this is the cause, this "
+             "is the reason&rdquo; &mdash; the closing formula, "
+             "filled here with a genuinely different content than SN "
+             "44.3's own"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Not truly knowing, and the thoughts that follow"),
+        ("p", "&sect;1", "sn44.4:1.1-1.14"),
+        ("h3", "Truly knowing, and the thoughts that do not"),
+        ("p", "&sect;2", "sn44.4:2.1-2.10"),
+    ],
+    quiz=[
+        {"q": "What reason does Sāriputta give in this discourse for why the four theses arise as thoughts at all?",
+         "opts": ["Not truly knowing each aggregate's own origin, cessation, and the path to its cessation", "Being included in the five aggregates structurally", "Not being rid of desire for the aggregates", "Liking and enjoying the aggregates without seeing their cessation"],
+         "correct": 0,
+         "expl": "A genuinely different mechanism from SN 44.3's own structural answer — this one is about ignorance producing the thought in the first place."},
+        {"q": "How does this discourse open, compared to SN 44.3?",
+         "opts": ["With a genuinely translated editorial cross-reference back to SN 44.3's own setting and question", "With an entirely new setting and set of speakers", "By restating the full setting from scratch", "By denying that Mahākoṭṭhita asked any question at all"],
+         "correct": 0,
+         "expl": "\"(The same down as far as:)\" — confirmed as real Sujato-translated text, not invented by this reading guide."},
+        {"q": "What happens when the aggregates ARE truly known, according to this discourse's own second half?",
+         "opts": ["None of the four theses occurs as a thought at all", "All four theses are confirmed as true", "A fifth, new thesis arises instead", "The question becomes even more urgent"],
+         "correct": 0,
+         "expl": "Truly knowing removes the thought entirely, rather than replacing it with a different, correct thought."},
+    ],
+    marginalia=[
+        ("A cross-reference, genuinely translated", [
+            "\"the same down as far as\" —",
+            "real Sujato text, not invented here",
+        ]),
+        ("Not knowing produces the thought", [
+            "origin, cessation, path — unseen —",
+            "and the four theses occur as thoughts",
+        ]),
+        ("Knowing removes it entirely", [
+            "the identical three things, truly seen —",
+            "and none of the four thoughts arises",
+        ]),
+        ("Second of four distinct reasons", [
+            "ignorance, this time —",
+            "two more explanations still to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn44.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-44.3.html\">SN 44.3 &middot; With Sāriputta "
+        "and Koṭṭhita (1st)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-44.5.html\">SN 44.5 &middot; With Sāriputta "
+        "and Koṭṭhita (3rd)</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 44.5 — Tatiyasāriputtakoṭṭhikasutta
+# --------------------------------------------------------------------------- #
+page(
+    44, 5, "Sāriputtakoṭṭhika", "With Sāriputta and Koṭṭhita (3rd)",
+    vagga="Abyākatavagga",
+    meta_title="SN 44.5 — With Sāriputta and Koṭṭhita (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the third of four dialogues between Sāriputta and "
+        "Mahākoṭṭhita &mdash; unabandoned desire for the aggregates "
+        "as the reason the undeclared questions arise. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Isipatana's deer park, near Varanasi "
+                     "(continuing directly from SN 44.4)"),
+        ("Speakers", "Venerable Mahākoṭṭhita questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "This run's own third reason, its own shortest "
+                 "discourse, opening with the same genuinely "
+                 "translated cross-reference as SN 44.4"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, one clear argument"),
+    ],
+    why=(
+        "The third of four reasons: not being rid of greed, desire, "
+        "fondness, thirst, passion, and craving for each of the five "
+        "aggregates is what generates the four undeclared theses as "
+        "thoughts; being rid of it means none of the four thoughts "
+        "occurs. A genuinely different mechanism again &mdash; "
+        "desire rather than SN 44.4's own ignorance, or SN 44.3's "
+        "own structural entanglement &mdash; confirmed by direct "
+        "comparison of all three discourses' own wording."
+    ),
+    guide=[
+        ("Six near-synonyms for desire, named in full", [
+            "&ldquo;Greed, desire, fondness, thirst, passion, and "
+            "craving&rdquo; (chando rāgo nandī taṇhā) for each "
+            "aggregate is this discourse's own fuller and more "
+            "emotionally textured list than SN 44.4's own drier "
+            "&ldquo;not truly knowing&rdquo; &mdash; confirmed by "
+            "direct comparison, not a stylistic variant of the same "
+            "underlying claim.",
+        ]),
+        ("The shortest of the four, not the least of them", [
+            "At only seventeen segments, this is the shortest "
+            "discourse in the run of four, confirmed by direct "
+            "comparison of file sizes &mdash; brevity here reflects "
+            "how tightly the desire-based explanation parallels SN "
+            "44.4's own knowledge-based one in structure, not that "
+            "it is a lesser or secondary explanation.",
+        ]),
+    ],
+    terms=[
+        ("chando rāgo nandī taṇhā", "&ldquo;greed, desire, fondness, "
+             "thirst&rdquo; &mdash; part of this discourse's own "
+             "fuller, more emotionally textured list of unabandoned "
+             "desire for each aggregate"),
+        ("avītarāgo", "&ldquo;not rid of greed&rdquo; &mdash; the "
+             "condition this discourse identifies as generating all "
+             "four theses as thoughts that occur"),
+        ("vītarāgo", "&ldquo;rid of greed&rdquo; &mdash; the "
+             "reversed condition under which none of the four "
+             "thoughts occurs at all"),
+        ("upādāyupādāya", "the compounding structure this project "
+             "has met before, here filling out desire's own "
+             "near-synonym list rather than a grasping-formula"),
+        ("ayaṁ hetu ayaṁ paccayo", "&ldquo;this is the cause, this "
+             "is the reason&rdquo; &mdash; the closing formula, "
+             "filled here with desire rather than SN 44.3's "
+             "structure or SN 44.4's ignorance"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated "
+        "&mdash; this run's own shortest. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn44.5:1.1-1.17"),
+    ],
+    quiz=[
+        {"q": "What reason does Sāriputta give in this discourse for why the four theses arise as thoughts?",
+         "opts": ["Not being rid of greed, desire, fondness, thirst, passion, and craving for each aggregate", "Not truly knowing each aggregate's own origin and cessation", "Each thesis being structurally included in the aggregates", "Liking and enjoying the aggregates without seeing their cessation"],
+         "correct": 0,
+         "expl": "A genuinely different mechanism from SN 44.3's structural answer and SN 44.4's ignorance-based one — this time it is unabandoned desire."},
+        {"q": "How does this discourse compare in length to the other three in this run?",
+         "opts": ["It is the shortest of the four", "It is the longest of the four", "All four are exactly the same length", "It is roughly twice the length of SN 44.6"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison of file sizes — brevity here does not mean the explanation is secondary."},
+        {"q": "What happens when one IS rid of desire for the aggregates, according to this discourse?",
+         "opts": ["None of the four theses occurs as a thought at all", "All four theses become simultaneously true", "A new, fifth thesis arises", "The question becomes unanswerable in a different way"],
+         "correct": 0,
+         "expl": "The reversed condition, mirroring SN 44.4's own \"truly knowing removes the thought\" structure."},
+    ],
+    marginalia=[
+        ("Desire, named in full", [
+            "greed, desire, fondness, thirst, passion, craving —",
+            "for each of the five aggregates in turn",
+        ]),
+        ("The shortest, not the least", [
+            "seventeen segments only —",
+            "tightly parallel to SN 44.4's own structure",
+        ]),
+        ("Rid of desire, the thought does not arise", [
+            "the reversed condition, once more —",
+            "none of the four theses occurs as a thought",
+        ]),
+        ("Third of four distinct reasons", [
+            "desire, this time —",
+            "one more explanation still to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn44.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-44.4.html\">SN 44.4 &middot; With Sāriputta "
+        "and Koṭṭhita (2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-44.6.html\">SN 44.6 &middot; With Sāriputta "
+        "and Koṭṭhita (4th)</a> &mdash; the next discourse, closing "
+        "this run of four with a famous final line.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 44.6 — Catutthasāriputtakoṭṭhikasutta
+# --------------------------------------------------------------------------- #
+page(
+    44, 6, "Sāriputtakoṭṭhika", "With Sāriputta and Koṭṭhita (4th)",
+    vagga="Abyākatavagga",
+    meta_title="SN 44.6 — With Sāriputta and Koṭṭhita (4th) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the fourth and last dialogue between Sāriputta and "
+        "Mahākoṭṭhita, escalating through three reformulations to a "
+        "famous closing line on freedom from the ending of craving. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Isipatana's deer park, near Varanasi "
+                     "(continuing directly from SN 44.5)"),
+        ("Speakers", "Venerable Sāriputta questioning Venerable "
+                     "Mahākoṭṭhita &mdash; the roles reversed from "
+                     "SN 44.3&ndash;5"),
+        ("Form", "The fourth reason, then pressed three more times "
+                 "for further reasons, escalating to a famous closing "
+                 "line"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "four reformulations, building to a sharp "
+                       "close"),
+    ],
+    why=(
+        "The roles reverse: Sāriputta now questions Mahākoṭṭhita, "
+        "confirmed by direct reading rather than assumed to repeat "
+        "SN 44.3&ndash;5's own direction. Where the previous three "
+        "discourses each stopped at one explanation, this one is "
+        "pressed four times over &mdash; &ldquo;could there be "
+        "another way of explaining&rdquo; &mdash; escalating from "
+        "liking the aggregates, to liking continued existence, to "
+        "liking grasping, to liking craving itself, before "
+        "Mahākoṭṭhita finally cuts the questioning off with this "
+        "run's own most quoted line."
+    ),
+    guide=[
+        ("The questioner and the questioned, reversed", [
+            "SN 44.3&ndash;5 each have Mahākoṭṭhita asking and "
+            "Sāriputta answering; here Sāriputta asks and "
+            "Mahākoṭṭhita answers, confirmed by reading this "
+            "discourse's own opening directly &mdash; the run's own "
+            "structure is not simply repeated with the same speaker "
+            "roles held constant throughout.",
+        ]),
+        ("Pressed four times, not stopping at one reason", [
+            "&ldquo;Liking, loving, and enjoying&rdquo; the "
+            "aggregates without seeing their cessation is "
+            "Mahākoṭṭhita's own first answer, matching SN 44.3&ndash;5's "
+            "own pattern of stopping at one explanation &mdash; but "
+            "Sāriputta keeps asking, &ldquo;could there be another "
+            "way of explaining,&rdquo; and receives three further "
+            "reformulations: liking continued existence, liking "
+            "grasping, and liking craving itself, each a "
+            "progressively more fundamental restatement of the same "
+            "underlying point.",
+        ]),
+        ("A fourth press, met with a different kind of answer", [
+            "Asked a fourth time for yet another explanation, "
+            "Mahākoṭṭhita does not supply one &mdash; &ldquo;Seriously, "
+            "reverend, what more could you want?&rdquo; &mdash; and "
+            "closes instead with this run's own most quoted line: "
+            "&ldquo;for one who is freed due to the ending of "
+            "craving, there is no cycle of rebirths to be "
+            "found.&rdquo; The questioning itself has run out of "
+            "further ground, not because the topic is exhausted but "
+            "because craving's ending has removed what the question "
+            "would even be about.",
+        ]),
+    ],
+    terms=[
+        ("abhinandati abhivadati ajjhosāya tiṭṭhati", "&ldquo;likes, "
+             "loves, and enjoys&rdquo; &mdash; the first of four "
+             "progressively deeper reformulations, applied first to "
+             "the five aggregates directly"),
+        ("bhavanirodhaṁ", "&ldquo;the cessation of continued "
+             "existence&rdquo; &mdash; the second reformulation's "
+             "own target, one step more abstract than the aggregates "
+             "themselves"),
+        ("upādānanirodhaṁ", "&ldquo;the cessation of grasping&rdquo; "
+             "&mdash; the third reformulation"),
+        ("taṇhānirodhaṁ", "&ldquo;the cessation of craving&rdquo; "
+             "&mdash; the fourth and final reformulation, the "
+             "deepest layer this run of escalating questions reaches"),
+        ("taṇhākkhayavimuttassa natthi vaṭṭaṁ paññāpanāya",
+             "&ldquo;for one who is freed due to the ending of "
+             "craving, there is no cycle of rebirths to be "
+             "found&rdquo; &mdash; this run of four discourses' own "
+             "closing and most quoted line"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated, "
+        "organized under section headings by each of the four "
+        "reformulations. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Setting and the four questions"),
+        ("p", "&sect;1", "sn44.6:1.1-1.8"),
+        ("h3", "First reason: liking the aggregates, not seeing "
+                "their cessation"),
+        ("p", "&sect;2", "sn44.6:2.1-3.8"),
+        ("h3", "Pressed three times more, for further reasons"),
+        ("p", "&sect;3", "sn44.6:4.1-6.7"),
+        ("h3", "A fourth press, and this run's own closing line"),
+        ("p", "&sect;4", "sn44.6:7.1-7.3"),
+    ],
+    quiz=[
+        {"q": "Whose roles are reversed in this discourse, compared to SN 44.3-5?",
+         "opts": ["Sāriputta now questions, Mahākoṭṭhita now answers", "The setting changes from Isipatana to Sāvatthī", "The topic shifts to the ten undeclared theses rather than four", "A third speaker is introduced for the first time"],
+         "correct": 0,
+         "expl": "Confirmed by reading the discourse's own opening directly, not assumed from the previous three discourses' pattern."},
+        {"q": "How many times is Mahākoṭṭhita pressed for \"another way of explaining\" in this discourse?",
+         "opts": ["Three more times, after his first answer, for four reasons total", "Not at all — he gives only one answer", "Ten times, matching the ten undeclared theses", "Once more only, for two reasons total"],
+         "correct": 0,
+         "expl": "Escalating from the aggregates, to continued existence, to grasping, to craving itself."},
+        {"q": "How does Mahākoṭṭhita respond to a fourth request for \"another way of explaining\"?",
+         "opts": ["He declines to supply a fifth reformulation and gives this run's own closing line instead", "He repeats his very first answer word for word", "He asks Sāriputta to answer his own question", "He admits he does not know the answer"],
+         "correct": 0,
+         "expl": "\"For one who is freed due to the ending of craving, there is no cycle of rebirths to be found\" — the questioning has run out of further ground."},
+    ],
+    marginalia=[
+        ("Roles reversed", [
+            "Sāriputta asks, Mahākoṭṭhita answers —",
+            "not the direction of SN 44.3-5",
+        ]),
+        ("Pressed again, and again", [
+            "\"another way of explaining?\" —",
+            "aggregates, existence, grasping, craving",
+        ]),
+        ("Four reasons, one deepening thread", [
+            "each reformulation, one layer further in —",
+            "not four separate arguments",
+        ]),
+        ("A closing line, four discourses in the making", [
+            "no cycle of rebirths to be found —",
+            "freedom, once craving itself has ended",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn44.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-44.5.html\">SN 44.5 &middot; With Sāriputta "
+        "and Koṭṭhita (3rd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-44.7.html\">SN 44.7 &middot; With "
+        "Moggallāna</a> &mdash; the next discourse, introducing the "
+        "full traditional list of ten undeclared theses.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 44.7 — Moggallānasutta
+# --------------------------------------------------------------------------- #
+page(
+    44, 7, "Moggallāna", "With Moggallāna",
+    vagga="Abyākatavagga",
+    meta_title="SN 44.7 — With Moggallāna | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Moggallānasutta &mdash; introducing the full traditional "
+        "list of ten undeclared theses, and why others declare "
+        "answers where the Buddha does not. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not specified in this discourse's own opening"),
+        ("Speakers", "The wanderer Vacchagotta questioning Venerable "
+                     "Mahāmoggallāna, then the Buddha himself"),
+        ("Form", "The first discourse in this saṃyutta to give the "
+                 "full traditional list of ten undeclared theses, "
+                 "not only the four about a realized one after death"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a longer list, one clear argument"),
+    ],
+    why=(
+        "This discourse is this project's own first encounter with "
+        "the complete list of ten questions the tradition treats as "
+        "undeclared &mdash; not only the four about a realized one "
+        "after death that SN 44.1&ndash;6 confined themselves to, "
+        "confirmed by direct reading, but also the cosmos's own "
+        "eternality and finitude, and whether the soul and the body "
+        "are one thing or two. The wanderer Vacchagotta puts the "
+        "same question to Moggallāna and then to the Buddha "
+        "directly, receiving the identical answer both times, "
+        "confirming this saṃyutta's own recurring pattern of teacher "
+        "and disciple speaking with one voice, already met at SN "
+        "44.1."
+    ),
+    guide=[
+        ("Ten theses, not four", [
+            "Eternal or not eternal, finite or infinite (the "
+            "cosmos); the soul the same as or different from the "
+            "body; and the familiar four about a realized one after "
+            "death &mdash; confirmed by reading this discourse's own "
+            "full list directly, the complete traditional set this "
+            "saṃyutta's own other discourses each draw a subset "
+            "from.",
+        ]),
+        ("Six sense fields held as self, or not", [
+            "The reason others declare an answer and the Buddha does "
+            "not is traced here to the six sense fields (eye through "
+            "mind) rather than the five aggregates this saṃyutta has "
+            "mostly used so far &mdash; a genuinely different "
+            "analytical frame, confirmed by direct reading, though "
+            "the underlying logic (regarding something as "
+            "&ldquo;mine,&rdquo; &ldquo;I,&rdquo; or &ldquo;my "
+            "self&rdquo; is what generates a declared answer) is "
+            "familiar from elsewhere in this project.",
+        ]),
+        ("A disciple's answer, confirmed by the teacher", [
+            "As at SN 44.1, Vacchagotta checks Moggallāna's own "
+            "answer against the Buddha's directly and finds them "
+            "identical &mdash; the discourse's own closing "
+            "exclamation, word for word the same as King Pasenadi's "
+            "at SN 44.1, is this project's own second occurrence of "
+            "this exact formula.",
+        ]),
+    ],
+    terms=[
+        ("sassato loko", "&ldquo;the cosmos is eternal&rdquo; "
+             "&mdash; the first of ten undeclared theses this "
+             "discourse lists in full, not appearing in SN "
+             "44.1&ndash;6's own narrower four"),
+        ("taṁ jīvaṁ taṁ sarīraṁ... aññaṁ jīvaṁ aññaṁ sarīraṁ",
+             "&ldquo;the soul and the body are one and the same... "
+             "the soul is one thing, the body another&rdquo; "
+             "&mdash; a further pair of theses new to this discourse"),
+        ("cakkhuṁ... manaṁ etaṁ mama, esohamasmi, eso me attā",
+             "&ldquo;the eye... the mind: this is mine, I am this, "
+             "this is my self&rdquo; &mdash; the six sense fields, "
+             "the analytical frame this discourse uses rather than "
+             "the five aggregates"),
+        ("na kho etaṁ, vaccha, bhagavatā byākataṁ", "&ldquo;Vaccha, "
+             "this has not been declared by the Buddha&rdquo; "
+             "&mdash; Moggallāna's own identical answer to all ten "
+             "theses in turn"),
+        ("acchariyaṁ, bho gotama, abbhutaṁ, bho gotama", "&ldquo;it's "
+             "incredible, worthy Gotama, it's amazing!&rdquo; "
+             "&mdash; Vacchagotta's own closing exclamation, "
+             "identical in formula to King Pasenadi's at SN 44.1"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Setting, and all ten undeclared theses"),
+        ("p", "&sect;1", "sn44.7:1.1-2.29"),
+        ("h3", "Why: others cling to the six sense fields as self, "
+                "the Buddha does not"),
+        ("p", "&sect;2", "sn44.7:3.1-4.10"),
+        ("h3", "Vacchagotta puts the same question to the Buddha "
+                "himself"),
+        ("p", "&sect;3", "sn44.7:5.1-8.6"),
+    ],
+    quiz=[
+        {"q": "How many undeclared theses does this discourse list in full?",
+         "opts": ["Ten, the complete traditional set", "Four, matching SN 44.1-6", "Two", "Twelve"],
+         "correct": 0,
+         "expl": "This project's own first encounter with the full traditional list — SN 44.1-6 confined themselves to the last four alone."},
+        {"q": "What does this discourse identify as the reason others declare an answer while the Buddha does not?",
+         "opts": ["Others regard the six sense fields as \"mine, I, my self\"; the Buddha does not", "Others have not heard the questions before", "Others lack the vocabulary to answer", "The Buddha simply refuses to speak on any topic"],
+         "correct": 0,
+         "expl": "A genuinely different analytical frame from the five aggregates this saṃyutta has mostly used — here it is the six sense fields."},
+        {"q": "What happens when Vacchagotta puts the same question to the Buddha after already asking Moggallāna?",
+         "opts": ["He receives the identical answer, and reacts with the same exclamation King Pasenadi used at SN 44.1", "The Buddha gives a completely different answer", "The Buddha refuses to answer a second time", "Vacchagotta is turned away without an audience"],
+         "correct": 0,
+         "expl": "This project's own second occurrence of the exact \"incredible... amazing\" formula, confirming teacher and disciple speak with one voice."},
+    ],
+    marginalia=[
+        ("The complete list, at last", [
+            "ten theses, not just four —",
+            "cosmos, soul and body, and the familiar tetralemma",
+        ]),
+        ("A different frame, the same logic", [
+            "the six sense fields, this time —",
+            "\"mine, I, my self\" generates a declared answer",
+        ]),
+        ("Checked twice, matched twice", [
+            "Moggallāna's answer, then the Buddha's own —",
+            "identical, word for word",
+        ]),
+        ("A formula heard once before", [
+            "\"incredible... amazing\" —",
+            "King Pasenadi's own words, at SN 44.1",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn44.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-44.6.html\">SN 44.6 &middot; With Sāriputta "
+        "and Koṭṭhita (4th)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-44.8.html\">SN 44.8 &middot; With "
+        "Vacchagotta</a> &mdash; the next discourse, the same "
+        "wanderer asking in the reverse order.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 44.8 — Vacchagottasutta
+# --------------------------------------------------------------------------- #
+page(
+    44, 8, "Vacchagotta", "With Vacchagotta",
+    vagga="Abyākatavagga",
+    meta_title="SN 44.8 — With Vacchagotta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vacchagottasutta &mdash; the same wanderer asking the "
+        "Buddha directly this time, and a genuinely different "
+        "explanation built on the four ways of regarding a thing as "
+        "self. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in this discourse's own opening"),
+        ("Speakers", "The wanderer Vacchagotta questioning the "
+                     "Buddha, then Venerable Mahāmoggallāna"),
+        ("Form", "The reverse order from SN 44.7 (Buddha first, "
+                 "Moggallāna second), and a genuinely different "
+                 "explanatory formula"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "short, one precise fourfold formula"),
+    ],
+    why=(
+        "Vacchagotta returns, this time approaching the Buddha "
+        "directly before Moggallāna &mdash; the reverse of SN 44.7's "
+        "own order, confirmed by direct reading rather than assumed "
+        "to repeat it. The explanation offered is also genuinely "
+        "different: not the six sense fields regarded as "
+        "&ldquo;mine, I, my self&rdquo; but the four classical ways "
+        "of regarding each of the five aggregates as self &mdash; as "
+        "self, as something the self has, as within the self, or as "
+        "containing the self &mdash; the sakkāyadiṭṭhi analysis this "
+        "project has met before applied here specifically to explain "
+        "why the ten theses go undeclared."
+    ),
+    guide=[
+        ("The order reversed", [
+            "SN 44.7 has Vacchagotta ask Moggallāna first, then the "
+            "Buddha; here he asks the Buddha first, then Moggallāna "
+            "&mdash; confirmed by reading both discourses' own "
+            "opening lines directly, not a copy-paste repetition of "
+            "one pattern.",
+        ]),
+        ("Four ways of holding a thing as self", [
+            "&ldquo;Self as having form, form in self, or self in "
+            "form&rdquo; is the classical fourfold "
+            "sakkāyadiṭṭhi analysis (with &ldquo;form as "
+            "self&rdquo; itself as the first member), applied here "
+            "to each of the five aggregates in turn as the specific "
+            "reason wanderers of other religions declare answers to "
+            "the ten theses while the Buddha does not &mdash; a "
+            "genuinely more precise formula than SN 44.7's own "
+            "simpler &ldquo;mine, I, my self&rdquo; for the six "
+            "sense fields.",
+        ]),
+    ],
+    terms=[
+        ("rūpaṁ attato samanupassanti", "&ldquo;they regard form as "
+             "self&rdquo; &mdash; the first of the four classical "
+             "ways of holding an aggregate as self, applied here to "
+             "explain the undeclared theses"),
+        ("attānaṁ vā rūpavantaṁ", "&ldquo;self as having "
+             "form&rdquo; &mdash; the second of the four ways"),
+        ("rūpasmiṁ vā attānaṁ", "&ldquo;self within form&rdquo; "
+             "&mdash; the third"),
+        ("rūpasmiṁ vā attānaṁ", "&ldquo;form within self&rdquo; "
+             "&mdash; the fourth, completing the classical "
+             "fourfold analysis"),
+        ("na h'evaṁ samanupassati", "&ldquo;he doesn't regard [the "
+             "aggregates] this way&rdquo; &mdash; the Buddha's own "
+             "negation of all four, the stated reason he does not "
+             "declare an answer"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated "
+        "&mdash; the source elides the repetition of the fourfold "
+        "formula across all five aggregates with an ellipsis, "
+        "preserved here rather than written out by hand. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Vacchagotta asks the Buddha directly this time"),
+        ("p", "&sect;1", "sn44.8:1.1-2.4"),
+        ("h3", "Why: the four ways of regarding each aggregate as "
+                "self"),
+        ("p", "&sect;2", "sn44.8:3.1-3.14"),
+        ("h3", "Vacchagotta checks with Moggallāna, and hears the "
+                "same words"),
+        ("p", "&sect;3", "sn44.8:4.1-7.6"),
+    ],
+    quiz=[
+        {"q": "In what order does Vacchagotta approach his questions in this discourse, compared to SN 44.7?",
+         "opts": ["The Buddha first, then Moggallāna — the reverse of SN 44.7's own order", "Moggallāna first, then the Buddha, exactly as in SN 44.7", "He asks only the Buddha, never Moggallāna", "He asks Sāriputta instead of Moggallāna"],
+         "correct": 0,
+         "expl": "Confirmed by reading both discourses' own opening lines directly, not a copy-paste repeat of one pattern."},
+        {"q": "What explanatory formula does this discourse use, different from SN 44.7's own?",
+         "opts": ["The four classical ways of regarding each aggregate as self, as having it, within it, or containing it", "The six sense fields regarded as \"mine, I, my self\"", "Not truly knowing each aggregate's own origin and cessation", "Being included structurally in each aggregate"],
+         "correct": 0,
+         "expl": "The sakkāyadiṭṭhi analysis, more precise than SN 44.7's simpler \"mine, I, my self\" formula for the six sense fields."},
+        {"q": "What is the Buddha's own stated reason for not declaring an answer to the ten theses in this discourse?",
+         "opts": ["He does not regard any aggregate in any of the four ways wanderers of other religions do", "He has not yet formed an opinion", "The questions are considered taboo to discuss", "He answers differently depending on the day"],
+         "correct": 0,
+         "expl": "A direct negation of the fourfold self-view formula just applied to explain why others do declare an answer."},
+    ],
+    marginalia=[
+        ("Order reversed again", [
+            "the Buddha first this time —",
+            "Moggallāna checked second, not first",
+        ]),
+        ("Four ways of holding a thing as self", [
+            "as self, having it, within it, containing it —",
+            "the classical fourfold analysis, applied here",
+        ]),
+        ("A more precise formula than SN 44.7's own", [
+            "not just \"mine, I, my self\" —",
+            "four distinct relations, each denied in turn",
+        ]),
+        ("Checked once more, matched once more", [
+            "Moggallāna's words, the Buddha's own —",
+            "identical, as at SN 44.1 and SN 44.7",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn44.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-44.7.html\">SN 44.7 &middot; With "
+        "Moggallāna</a> &mdash; the previous discourse.",
+        "<a href=\"sn-44.9.html\">SN 44.9 &middot; The Debating "
+        "Hall</a> &mdash; the next discourse, this project's own "
+        "first encounter with the famous \"fire\" simile.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 44.9 — Kutūhalasālāsutta
+# --------------------------------------------------------------------------- #
+page(
+    44, 9, "Kutūhalasālā", "The Debating Hall",
+    vagga="Abyākatavagga",
+    meta_title="SN 44.9 — The Debating Hall | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kutūhalasālāsutta &mdash; the famous \"fire\" simile, "
+        "paralleled at MN 72 and in the Chinese Saṃyukta-āgama, "
+        "explaining rebirth through fuel rather than a self. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified beyond the debating hall "
+                     "Vacchagotta describes secondhand"),
+        ("Speakers", "The wanderer Vacchagotta and the Buddha"),
+        ("Form", "A reported debate among six named teachers, then "
+                 "this project's own first encounter with the "
+                 "well-known simile of fire and fuel"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "SA 957 and SA 2.190, both classified "
+                              "as full parallels by SuttaCentral's "
+                              "own parallels record; a Pali parallel "
+                              "also exists at MN 72, not independently "
+                              "confirmed by this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a well-known simile, precisely worded"),
+    ],
+    why=(
+        "Vacchagotta reports a debate he overheard: five well-known "
+        "religious founders each declare where their own disciples "
+        "are reborn after death, including their most accomplished "
+        "disciples; the Buddha alone declines to declare a rebirth "
+        "for his own most accomplished disciples, describing instead "
+        "only that they have &ldquo;cut off craving&rdquo; and "
+        "&ldquo;made an end of suffering.&rdquo; His answer, one of "
+        "this project's own most quoted similes, explains why: "
+        "rebirth is described only for someone still &ldquo;grasping "
+        "fuel,&rdquo; the way fire only burns with fuel to burn."
+    ),
+    guide=[
+        ("Six teachers, one telling difference", [
+            "Pūraṇa Kassapa, Makkhali Gosāla, the Jain teacher, "
+            "Sañjaya Belaṭṭhiputta, Pakudha Kaccāyana, and Ajita of "
+            "the hair blanket &mdash; all six named founders "
+            "Vacchagotta lists are reported to declare a specific "
+            "rebirth destination for every one of their disciples, "
+            "ordinary and accomplished alike; the Buddha alone "
+            "breaks this pattern for his own most accomplished "
+            "disciples, confirmed by reading the discourse's own "
+            "repeated structure directly &mdash; the same claim "
+            "stated for five different named teachers before the "
+            "Buddha's own exception.",
+        ]),
+        ("Rebirth needs fuel to grasp", [
+            "&ldquo;I describe rebirth for someone who grasps fuel, "
+            "not for someone who does not&rdquo; &mdash; the fire "
+            "simile's own core claim, stated once directly before "
+            "Vacchagotta presses it further with two follow-up "
+            "questions.",
+        ]),
+        ("A flame in the wind, and craving as the last fuel", [
+            "Asked what fuels a flame once blown away by the wind, "
+            "the Buddha answers &ldquo;the wind&rdquo; itself; asked "
+            "what fuels someone who has died without being reborn in "
+            "any realm, he answers &ldquo;craving&rdquo; &mdash; "
+            "confirming the simile's own logic to its conclusion: a "
+            "being freed from craving is, like a flame with nothing "
+            "left to catch it, not describable in terms of where it "
+            "has gone, because there is no more fuel by which to "
+            "track it.",
+        ]),
+    ],
+    terms=[
+        ("titthakaro saṅghī gaṇī gaṇācariyo", "&ldquo;leads an "
+             "order and a community, and tutors a community&rdquo; "
+             "&mdash; the formula introducing each of the six named "
+             "teachers in turn"),
+        ("idha upapanno, amutra upapanno", "&ldquo;this one is "
+             "reborn here, while that one is reborn there&rdquo; "
+             "&mdash; the declared rebirth destination five of the "
+             "six teachers are reported to give for every disciple"),
+        ("upādānasmiṁ, vaccha, sati upapattiṁ paññapemi",
+             "&ldquo;I describe rebirth for someone who grasps "
+             "fuel&rdquo; &mdash; this discourse's own central "
+             "claim"),
+        ("vātūpādānaṁ", "&ldquo;fueled by the wind&rdquo; &mdash; "
+             "the Buddha's own answer for what fuels a flame after "
+             "it has been blown away, extending the simile's own "
+             "logic"),
+        ("taṇhūpādānaṁ", "&ldquo;fueled by craving&rdquo; &mdash; "
+             "the answer for what fuels a being who has died without "
+             "yet being reborn anywhere, the simile's own final "
+             "application"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A reported debate: six teachers, one telling "
+                "difference"),
+        ("p", "&sect;1", "sn44.9:1.1-4.9"),
+        ("h3", "The Buddha's own answer: rebirth needs fuel to "
+                "grasp"),
+        ("p", "&sect;2", "sn44.9:5.1-5.5"),
+        ("h3", "A flame in the wind, and a being freed"),
+        ("p", "&sect;3", "sn44.9:6.1-6.6"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha do differently from the five other named teachers, according to Vacchagotta's report?",
+         "opts": ["He declines to declare a rebirth destination for his own most accomplished disciples", "He refuses to name any of his own disciples at all", "He declares rebirth destinations for everyone, exactly as the others do", "He claims none of his disciples are ever reborn"],
+         "correct": 0,
+         "expl": "The other five are reported to declare a destination for every disciple, ordinary and accomplished alike; the Buddha breaks the pattern only for the most accomplished."},
+        {"q": "What is the core claim of the Buddha's own \"fire\" simile in this discourse?",
+         "opts": ["Rebirth is described only for someone who still grasps fuel, as fire only burns with fuel", "All beings are reborn regardless of their own actions", "Fire itself is a metaphor for the self", "Only enlightened beings can be described at all"],
+         "correct": 0,
+         "expl": "One of this project's own most quoted similes, paralleled at MN 72 and in the Chinese Saṃyukta-āgama."},
+        {"q": "What does the Buddha say fuels someone who has died \"without being reborn in one of the realms\"?",
+         "opts": ["Craving", "The wind", "Nothing at all — the question is meaningless", "Their own past karma alone"],
+         "correct": 0,
+         "expl": "The simile's own final application, following the logic through: a being freed from craving has nothing left to catch, like a flame with no more fuel."},
+    ],
+    marginalia=[
+        ("Five teachers, one exception", [
+            "\"this one is reborn here\" —",
+            "the Buddha alone declines, for his best disciples",
+        ]),
+        ("Fire needs fuel to burn", [
+            "rebirth, described only where fuel is grasped —",
+            "this project's own most quoted simile",
+        ]),
+        ("A flame blown by the wind", [
+            "fueled by the wind itself, then —",
+            "the simile's own logic, followed through",
+        ]),
+        ("Craving as the last fuel", [
+            "no more fuel, no more tracking —",
+            "a being freed, simply not describable that way",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn44.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-44.8.html\">SN 44.8 &middot; With "
+        "Vacchagotta</a> &mdash; the previous discourse.",
+        "<a href=\"sn-44.10.html\">SN 44.10 &middot; With "
+        "Ānanda</a> &mdash; the next discourse, on why the Buddha "
+        "met a question about the self with silence.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 44.10 — Ānandasutta
+# --------------------------------------------------------------------------- #
+page(
+    44, 10, "Ānanda", "With Ānanda",
+    vagga="Abyākatavagga",
+    meta_title="SN 44.10 — With Ānanda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ānandasutta &mdash; the well-known account of why the "
+        "Buddha met Vacchagotta's question about the self with "
+        "silence, explained afterward to Ānanda alone. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in this discourse's own opening"),
+        ("Speakers", "The wanderer Vacchagotta, the Buddha, and "
+                     "Venerable Ānanda"),
+        ("Form", "A question met twice with silence, then explained "
+                 "privately to Ānanda after the questioner has "
+                 "already left"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "SA 961 and SA 2.195, both classified "
+                              "as full parallels by SuttaCentral's "
+                              "own parallels record"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but a famous and easily misread "
+                       "episode"),
+    ],
+    why=(
+        "This project's own only discourse where the Buddha responds "
+        "to a direct question with total silence, twice over: does "
+        "the self survive, and does the self not survive? "
+        "Vacchagotta leaves without an answer, and only after he is "
+        "gone does the Buddha explain his own silence to Ānanda "
+        "&mdash; not evasion, but a considered refusal to hand "
+        "Vacchagotta either of two views the Buddha judges equally "
+        "unhelpful to him specifically, given where his own "
+        "understanding already stands."
+    ),
+    guide=[
+        ("Two questions, two silences", [
+            "&ldquo;Does the self survive?&rdquo; met with silence; "
+            "&ldquo;does the self not survive?&rdquo; met with "
+            "silence a second time &mdash; Vacchagotta gets up and "
+            "leaves without a word from the Buddha at all, confirmed "
+            "by reading the discourse's own spare narration directly.",
+        ]),
+        ("Neither eternalism nor annihilationism", [
+            "Explaining himself to Ānanda only once Vacchagotta has "
+            "gone, the Buddha says that answering &ldquo;the self "
+            "survives&rdquo; would side with eternalist ascetics and "
+            "brahmins, while answering &ldquo;the self does not "
+            "survive&rdquo; would side with annihilationists "
+            "&mdash; both wrong turns this project has met named "
+            "explicitly before, here refused simultaneously rather "
+            "than one chosen over the other.",
+        ]),
+        ("A specific worry about this specific listener", [
+            "The Buddha's own stated concern is not abstract: had he "
+            "said &ldquo;the self does not survive,&rdquo; "
+            "Vacchagotta &mdash; &ldquo;who is already "
+            "confused&rdquo; &mdash; would have concluded &ldquo;the "
+            "self that I once had no longer survives,&rdquo; a "
+            "specific misunderstanding tailored to where this "
+            "particular listener's own confusion already stood, not "
+            "a universal rule about never discussing the self at "
+            "all.",
+        ]),
+    ],
+    terms=[
+        ("atthattāti", "&ldquo;does the self survive?&rdquo; "
+             "&mdash; Vacchagotta's own first question, met with "
+             "silence"),
+        ("natthattāti", "&ldquo;does the self not survive?&rdquo; "
+             "&mdash; the second question, met with silence a "
+             "second time"),
+        ("sassatavādānaṁ... ucchedavādānaṁ", "&ldquo;eternalists... "
+             "annihilationists&rdquo; &mdash; the two positions the "
+             "Buddha says either answer would have sided with"),
+        ("sabbe dhammā anattā", "&ldquo;all things are not-self&rdquo; "
+             "&mdash; the knowledge the Buddha says answering "
+             "&ldquo;the self survives&rdquo; would not have "
+             "facilitated"),
+        ("ahu vata me pubbe attā, so etarahi natthīti", "&ldquo;it "
+             "seems that the self that I once had no longer "
+             "survives&rdquo; &mdash; the specific confused "
+             "conclusion the Buddha says answering &ldquo;the self "
+             "does not survive&rdquo; would have produced in "
+             "Vacchagotta specifically"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Two questions, met with silence"),
+        ("p", "&sect;1", "sn44.10:1.1-1.7"),
+        ("h3", "Ānanda asks why, and the Buddha explains"),
+        ("p", "&sect;2", "sn44.10:2.1-2.9"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha respond to Vacchagotta's two questions about the self in this discourse?",
+         "opts": ["With silence, both times", "By declaring the self survives", "By declaring the self does not survive", "By asking Vacchagotta to rephrase the question"],
+         "correct": 0,
+         "expl": "This project's own only discourse where a direct question is met with total silence rather than any verbal answer at all."},
+        {"q": "According to the Buddha's own explanation to Ānanda, what would answering \"the self survives\" have done?",
+         "opts": ["Sided with eternalist ascetics and brahmins", "Sided with annihilationists", "Immediately resolved Vacchagotta's confusion", "Contradicted nothing the Buddha had ever taught"],
+         "correct": 0,
+         "expl": "One of two wrong turns the Buddha refuses simultaneously, rather than choosing one answer over the other."},
+        {"q": "What specific worry does the Buddha give for not answering \"the self does not survive\"?",
+         "opts": ["Vacchagotta, already confused, would have concluded his former self no longer exists", "The answer would have been factually incorrect", "Ānanda himself would have been confused instead", "It would have contradicted the eternalist position"],
+         "correct": 0,
+         "expl": "A specific concern tailored to this particular listener's own confusion, not a universal rule against ever discussing the self."},
+    ],
+    marginalia=[
+        ("Silence, twice given", [
+            "\"does the self survive?\" — no answer —",
+            "asked again, met with silence once more",
+        ]),
+        ("Explained only after the questioner has gone", [
+            "not to Vacchagotta directly —",
+            "to Ānanda, once the wanderer had left",
+        ]),
+        ("Two wrong turns, both refused", [
+            "eternalism, annihilationism —",
+            "neither answer chosen over the other",
+        ]),
+        ("A worry about this listener specifically", [
+            "\"my former self no longer survives\" —",
+            "the confusion silence was meant to prevent",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn44.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-44.9.html\">SN 44.9 &middot; The Debating "
+        "Hall</a> &mdash; the previous discourse.",
+        "<a href=\"sn-44.11.html\">SN 44.11 &middot; With Sabhiya "
+        "Kaccāna</a> &mdash; the next discourse, closing this "
+        "saṃyutta and Book IV as a whole.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 44.11 — Sabhiyakaccānasutta
+# --------------------------------------------------------------------------- #
+page(
+    44, 11, "Sabhiyakaccāna", "With Sabhiya Kaccāna",
+    vagga="Abyākatavagga",
+    meta_title="SN 44.11 — With Sabhiya Kaccāna | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sabhiyakaccānasutta &mdash; closing Abyākatasaṃyutta "
+        "and Book IV (Saḷāyatanavagga) as a whole, with a third "
+        "teacher's own answer to the familiar four questions. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Ñātika, in the brick house"),
+        ("Speakers", "The wanderer Vacchagotta questioning Venerable "
+                     "Sabhiya Kaccāna"),
+        ("Form", "The familiar four questions, put to a third named "
+                 "teacher, closing with a genuine dual colophon"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but closes this saṃyutta and Book IV"),
+    ],
+    why=(
+        "Vacchagotta &mdash; already met asking Moggallāna, the "
+        "Buddha, and hearing the Buddha's own silence &mdash; puts "
+        "the familiar four questions to a third named teacher, "
+        "Sabhiya Kaccāna, confirmed by only three years in "
+        "robes and receiving Vacchagotta's own genuine respect for "
+        "it. Kaccāna's own answer gives this project's own most "
+        "abstract formulation yet: describing a realized one in any "
+        "term at all requires some cause or reason to describe them "
+        "by, and once that cause has &ldquo;totally and utterly "
+        "ceased without remainder,&rdquo; no description remains "
+        "possible, in any of the terms available. This discourse's "
+        "own closing colophon closes not only Abyākatasaṃyutta but "
+        "Book IV (Saḷāyatanavagga, SN 35&ndash;44) as a whole."
+    ),
+    guide=[
+        ("A third teacher, the same four questions", [
+            "Vacchagotta has already asked Moggallāna (SN 44.7), the "
+            "Buddha directly (SN 44.8&ndash;10), and now Sabhiya "
+            "Kaccāna &mdash; confirmed by reading this discourse's "
+            "own opening directly, not assumed to be his only visit "
+            "beyond the Buddha's own circle.",
+        ]),
+        ("No cause left, so no description possible", [
+            "Kaccāna's own answer is more abstract than any of this "
+            "run's previous explanations: describing someone as "
+            "&ldquo;formed,&rdquo; &ldquo;formless,&rdquo; "
+            "&ldquo;percipient,&rdquo; &ldquo;non-percipient,&rdquo; "
+            "or &ldquo;neither percipient nor non-percipient&rdquo; "
+            "each requires some cause or reason to ground the "
+            "description &mdash; once that cause and reason has "
+            "totally ceased, none of these five terms, or any other, "
+            "remains available to use.",
+        ]),
+        ("Three years in robes, and Vacchagotta's own genuine respect", [
+            "Told Kaccāna has been ordained only three years, "
+            "Vacchagotta responds with unmistakable respect "
+            "&mdash; &ldquo;one who has learned this much in this "
+            "time&hellip;has learned a lot&rdquo; &mdash; a small, "
+            "human closing note before the discourse's own much "
+            "larger structural close.",
+        ]),
+        ("A dual close: this saṃyutta, and Book IV entire", [
+            "&ldquo;The Linked Discourses on undeclared questions "
+            "are complete&rdquo; closes Abyākatasaṃyutta's own 11 "
+            "discourses; immediately after it, &ldquo;The Book of "
+            "the Six Sense Fields is finished&rdquo; closes Book IV "
+            "(Saḷāyatanavagga, SN 35&ndash;44) as a whole &mdash; "
+            "both genuinely Sujato-translated, confirmed by direct "
+            "reading rather than assumed from either line alone, "
+            "this project's own fourth book completed after Books "
+            "I&ndash;III.",
+        ]),
+    ],
+    terms=[
+        ("na h'idaṁ, vaccha, bhagavatā byākataṁ", "&ldquo;Vaccha, "
+             "this has not been declared by the Buddha&rdquo; "
+             "&mdash; Kaccāna's own identical answer to all four "
+             "questions, matching Khemā's at SN 44.1"),
+        ("rūpī... arūpī... saññī... asaññī... nevasaññīnāsaññī",
+             "&ldquo;formed... formless... percipient... "
+             "non-percipient... neither percipient nor "
+             "non-percipient&rdquo; &mdash; the five terms Kaccāna "
+             "says all require some cause or reason to describe by"),
+        ("so hetu so paccayo... asesaṁ nirujjheyya", "&ldquo;that "
+             "cause and reason... were to totally and utterly cease "
+             "without remainder&rdquo; &mdash; the condition under "
+             "which none of the five descriptive terms remains "
+             "available"),
+        ("bahukatametaṁ, bhante", "&ldquo;has learned a lot&rdquo; "
+             "&mdash; Vacchagotta's own genuine respect for "
+             "Kaccāna's understanding, reached in only three years "
+             "as a mendicant"),
+        ("saḷāyatanavaggo niṭṭhito", "&ldquo;the Book of the Six "
+             "Sense Fields is finished&rdquo; &mdash; this "
+             "discourse's own second and higher-level closing line, "
+             "genuinely translated, closing Book IV (SN "
+             "35&ndash;44) entire"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated, "
+        "including both of this discourse's own closing colophons "
+        "&mdash; one for this saṃyutta, one for Book IV as a whole. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The same four questions, put to a third teacher"),
+        ("p", "&sect;1", "sn44.11:1.1-3.13"),
+        ("h3", "Why: no cause remains by which to describe him"),
+        ("p", "&sect;2", "sn44.11:3.14-3.18"),
+        ("h3", "This saṃyutta's own genuine close"),
+        ("p", "&sect;3", "sn44.11:4.6"),
+        ("h3", "Book IV's own genuine close"),
+        ("p", "&sect;4", "sn44.11:5.7"),
+    ],
+    quiz=[
+        {"q": "How many named teachers has Vacchagotta now put the familiar four questions to, across SN 44.7-11?",
+         "opts": ["Three — Moggallāna, the Buddha, and now Sabhiya Kaccāna", "Only one, the Buddha alone", "Five, including Sāriputta and Anurādha", "Ten, matching the ten undeclared theses"],
+         "correct": 0,
+         "expl": "Confirmed by reading this discourse's own opening directly, not assumed to be his only visit beyond the Buddha's own circle."},
+        {"q": "What reason does Kaccāna give for why the four theses go undeclared?",
+         "opts": ["Every descriptive term requires some cause or reason to ground it, and that cause has totally ceased without remainder", "The questions are considered improper to ask a junior mendicant", "He personally does not know the answer", "The Buddha has forbidden anyone but himself from answering"],
+         "correct": 0,
+         "expl": "This project's own most abstract formulation yet — once the cause for any description has ceased, no term remains available to use."},
+        {"q": "What does this discourse's own closing colophon announce, beyond closing Abyākatasaṃyutta itself?",
+         "opts": ["\"The Book of the Six Sense Fields is finished\" — closing Book IV (SN 35-44) as a whole", "The opening of a new, twelfth book", "A cross-reference back to Book I", "Nothing further; only the saṃyutta itself closes"],
+         "correct": 0,
+         "expl": "Both closing lines genuinely translated by Sujato — this project's own fourth book completed, after Books I-III."},
+    ],
+    marginalia=[
+        ("A third teacher, asked", [
+            "Moggallāna, the Buddha, now Kaccāna —",
+            "the same four questions, once more",
+        ]),
+        ("No cause left, no description possible", [
+            "formed, formless, percipient, neither —",
+            "five terms, none usable once the cause has ceased",
+        ]),
+        ("Three years, genuine respect", [
+            "\"has learned a lot\" —",
+            "a small human note before the larger close",
+        ]),
+        ("A saṃyutta closes, and a whole book with it", [
+            "eleven discourses, then ten saṃyuttas —",
+            "Book IV finished, Book V still ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn44.11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-44.10.html\">SN 44.10 &middot; With "
+        "Ānanda</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.8.html\">SN 45.8 &middot; Analysis</a> "
+        "&mdash; already published on this site, standing at the "
+        "start of Book V (Mahāvagga, SN 45&ndash;56), not yet built "
+        "by this project.",
+    ],
+)
