@@ -46880,8 +46880,1789 @@ page(
         "<a href=\"sn-41.9.html\">SN 41.9 &middot; With Kassapa, the "
         "Naked Ascetic</a> &mdash; already published on this site, "
         "the previous discourse.",
+        '<a href="sn-42.1.html">SN 42.1 &middot; Fury</a> '
+        "&mdash; the next discourse, opening this project's next "
+        "saṃyutta, SN 42 (Gāmaṇisaṃyutta).",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 42 (Gāmaṇisaṃyutta, "Linked Discourses with Chiefs") is this
+# book's eighth saṃyutta, confirmed against both bilara-data's own
+# file count and SuttaCentral's own menu API: 13 discourses, all
+# individual files, in a single vagga (Gāmaṇivagga). SN 42.8 itself is
+# one of the site's original 20 curated pages (registered above in
+# INDEX_EXTRA), falling mid-vagga at position 8 of 13 -- a genuine
+# "fragile junction" like SN 35.28/36.6, not a HEAD-style boundary like
+# SN 41.1's own: this module's own PAGES list runs 42.1-7 then jumps
+# straight to 42.9-13, so SN 42.7's own outgoing "next" and SN 42.9's
+# own incoming "prev" both need hand-patching back to SN 42.8 after
+# every build, and SN 42.8.html's own static prev/next need updating
+# to point at SN 42.7 and SN 42.9 once, now. Like Cittasaṃyutta before
+# it, this saṃyutta is narrative rather than templated: a series of
+# named chiefs (gāmaṇi) -- an entertainer, a warrior, an elephant
+# marshal, a cavalryman, a headman's son named for his family's
+# ancestor Asibandhaka, and others -- bring the Buddha real
+# professional and doctrinal dilemmas (whether performers,
+# warriors, and mortifiers really earn the afterlife their own guild
+# traditions promise; whether brahmanical funeral rites work; whether
+# monks may accept gold and silver; whether the Buddha is a
+# "deceiver" for admitting he understands deceit). Several discourses
+# are adversarial, staged by the Jain leader Nātaputta to trap the
+# Buddha in an unanswerable dilemma (SN 42.9's own "families ruined by
+# alms" trap); in each case the Buddha's own measured, example-driven
+# answers win the questioner over, closing on the same refuge-taking
+# formula that closes most of this saṃyutta's own discourses. SN
+# 42.12's own combinatorial pleasure-seeker and mortifier typologies
+# are the most heavily repeated content in this saṃyutta -- this
+# project's own reading guide quotes the genuinely distinct content
+# once per category rather than reproducing every combinatorial
+# permutation's own restated praise/blame tally, confirmed against
+# sn_check_coverage.py exactly as SN 40.10's own heavily repeated
+# content was handled.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 42.1 — Caṇḍasutta
+# --------------------------------------------------------------------------- #
+page(
+    42, 1, "Caṇḍa", "Fury",
+    vagga="Gāmaṇivagga",
+    meta_title="SN 42.1 — Fury | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Caṇḍasutta &mdash; opening Gāmaṇisaṃyutta with a chief "
+        "named Fury asking why some people are furious and others "
+        "gentle. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Caṇḍo ('Fury'), a chief, questioning the "
+                     "Buddha directly"),
+        ("Form", "A direct question, answered with a single "
+                 "three-part cause repeated for both outcomes"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "opens this saṃyutta with a short, direct "
+                       "exchange"),
+    ],
+    why=(
+        "This discourse opens Book IV's eighth saṃyutta with a chief "
+        "(gāmaṇi) named Caṇḍa &mdash; &ldquo;Fury&rdquo; &mdash; asking "
+        "the Buddha directly why some people are known as furious and "
+        "others as gentle. The Buddha's own answer names the "
+        "identical cause for both, stated twice in mirror form: "
+        "greed, hate, and delusion, present or absent. Caṇḍa becomes a "
+        "lay follower on the spot, the closing pattern most of this "
+        "saṃyutta's own discourses will share."
+    ),
+    guide=[
+        ("One cause, two mirrored outcomes", [
+            "The same three roots &mdash; greed, hate, and delusion "
+            "&mdash; explain both fury and gentleness: present, they "
+            "cause someone to get annoyed and show it; absent, the "
+            "identical situation produces no annoyance at all. "
+            "Nothing external distinguishes the furious from the "
+            "gentle; only the presence or absence of the three roots "
+            "does.",
+        ]),
+        ("A chief named for the very trait at issue", [
+            "Caṇḍa's own name means &ldquo;fierce, furious&rdquo; "
+            "&mdash; whether coincidence or a deliberate narrative "
+            "touch, his own question about the cause of fury is "
+            "asked by someone whose own name names that very "
+            "quality.",
+        ]),
+    ],
+    terms=[
+        ("caṇḍo... sorato", "&ldquo;furious... gentle&rdquo; &mdash; "
+             "the two contrasting reputations this discourse's own "
+             "question asks about"),
+        ("rāgo, doso, moho appahīno", "&ldquo;greed, hate, and "
+             "delusion not given up&rdquo; &mdash; the shared cause "
+             "of fury, restated three times for each root in turn"),
+        ("pare kopenti", "&ldquo;they get annoyed by others&rdquo; "
+             "&mdash; the specific behavior this discourse traces to "
+             "the three unabandoned roots"),
+        ("saraṇaṁ gacchāmi", "&ldquo;I go for refuge&rdquo; &mdash; "
+             "Caṇḍa's own closing declaration, the formula most "
+             "discourses in this saṃyutta will share"),
+        ("upāsakaṁ maṁ bhagavā dhāretu", "&ldquo;may the Buddha "
+             "remember me as a lay follower&rdquo; &mdash; the "
+             "standard closing request for lay commitment"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn42.1:1.1-3.5"),
+    ],
+    quiz=[
+        {"q": "What single cause does the Buddha name for both fury and gentleness?",
+         "opts": ["Greed, hate, and delusion — present or absent — restated for each root in turn", "Two entirely different, unrelated causes", "A person's family background", "The weather and physical environment"],
+         "correct": 0,
+         "expl": "The identical three roots explain both outcomes, mirrored rather than treated as separate causes."},
+        {"q": "What is notable about the questioner's own name in this discourse?",
+         "opts": ["Caṇḍa means \"fierce, furious\" — the very quality his own question asks about", "It has no relationship to the discourse's own content", "It means \"gentle,\" ironically opposite to his question", "His name is never given in the discourse"],
+         "correct": 0,
+         "expl": "Whether coincidence or deliberate touch, the questioner shares a name with the trait under discussion."},
+        {"q": "How does this discourse end?",
+         "opts": ["Caṇḍa goes for refuge and asks to be remembered as a lay follower", "Caṇḍa rejects the Buddha's answer", "Caṇḍa asks to ordain as a mendicant", "The discourse ends without any response from Caṇḍa"],
+         "correct": 0,
+         "expl": "The refuge-taking formula that will close most discourses in this saṃyutta."},
+    ],
+    marginalia=[
+        ("One cause, mirrored twice", [
+            "greed, hate, delusion — present or gone —",
+            "the same roots explain both outcomes",
+        ]),
+        ("A name that fits the question", [
+            "Caṇḍa, \"fury\" itself —",
+            "asking what makes fury arise",
+        ]),
+        ("A saṃyutta's own opening pattern", [
+            "refuge taken, on the spot —",
+            "the close this saṃyutta will repeat often",
+        ]),
+        ("A saṃyutta's own opening chief", [
+            "Caṇḍa, the first of thirteen —",
+            "each with a real name, a real question",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn42.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-41.10.html\">SN 41.10 &middot; Seeing the "
+        "Sick</a> &mdash; already published on this site, closing "
+        "Cittasaṃyutta just before this saṃyutta opens.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 42.2 — Tālapuṭasutta
+# --------------------------------------------------------------------------- #
+page(
+    42, 2, "Tālapuṭa", "With Tālapuṭa",
+    vagga="Gāmaṇivagga",
+    meta_title="SN 42.2 — With Tālapuṭa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tālapuṭasutta &mdash; a dancer's own guild tradition "
+        "promising heaven refuted, leading to weeping, ordination, "
+        "and arahantship. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, the Bamboo Grove"),
+        ("Speakers", "Tālapuṭa, a chief of dancers/entertainers, "
+                     "questioning the Buddha"),
+        ("Form", "A question asked three times, refused twice, then "
+                 "answered in full, followed by weeping and "
+                 "ordination"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a pointed refutation of a specific "
+                       "professional belief"),
+    ],
+    why=(
+        "Tālapuṭa, a chief of a guild of entertainers, asks whether "
+        "the old teaching passed down by &ldquo;tutors of "
+        "tutors&rdquo; is true: that a performer who entertains "
+        "audiences with a mix of truth and falsehood is reborn among "
+        "&ldquo;laughing gods.&rdquo; The Buddha refuses to answer "
+        "twice, then explains why the belief is not just wrong but "
+        "actively harmful: a performer who arouses greed, hate, and "
+        "delusion in an audience already bound by those roots is "
+        "reborn in a hell named &ldquo;Laughter,&rdquo; and holding "
+        "the old belief is itself a wrong view leading to hell or the "
+        "animal realm. Tālapuṭa weeps &mdash; not at the Buddha's "
+        "answer, but at having been deceived by his own tradition for "
+        "years &mdash; then ordains and soon becomes an arahant."
+    ),
+    guide=[
+        ("A refusal, twice, before an answer", [
+            "The Buddha's own initial reluctance (&ldquo;enough, "
+            "chief, let it be&rdquo;) is not evasion but a recognized "
+            "pattern in this saṃyutta: some questions built on a "
+            "flawed premise get answered only once persistence makes "
+            "clear the questioner genuinely wants the truth.",
+        ]),
+        ("The performance itself, named as the harm", [
+            "The discourse does not condemn performance in the "
+            "abstract; it names the specific mechanism: presenting "
+            "audiences already bound by greed, hate, and delusion "
+            "with &ldquo;even more arousing... hateful... delusory "
+            "things&rdquo; deepens exactly the bondage already "
+            "present.",
+        ]),
+        ("Tears for the deceiver, not the Buddha", [
+            "Tālapuṭa's own clarification &mdash; &ldquo;I'm not "
+            "crying because of what the Buddha said... I've been "
+            "cheated, tricked, and deceived&rdquo; by his own guild's "
+            "tradition &mdash; redirects the discourse's emotional "
+            "weight away from the Buddha's teaching and onto the "
+            "false tradition it corrects.",
+        ]),
+        ("From lay chief to arahant, in one discourse", [
+            "Tālapuṭa's own trajectory &mdash; hearing the teaching, "
+            "weeping, going for refuge, ordaining, and attaining "
+            "arahantship &mdash; happens within this single "
+            "discourse's own closing lines, the fastest such arc in "
+            "this saṃyutta so far.",
+        ]),
+    ],
+    terms=[
+        ("naṭo", "&ldquo;dancer, performer&rdquo; &mdash; Tālapuṭa's "
+             "own profession, the subject of the old guild teaching "
+             "he questions"),
+        ("pahāsānaṁ devānaṁ sahabyataṁ", "&ldquo;the company of "
+             "laughing gods&rdquo; &mdash; the old teaching's own "
+             "promised rebirth, refuted in this discourse"),
+        ("pahāso nāma nirayo", "&ldquo;the hell called "
+             "'Laughter'&rdquo; &mdash; the discourse's own reversal "
+             "of the old teaching's promised destination"),
+        ("micchādiṭṭhi", "&ldquo;wrong view&rdquo; &mdash; the "
+             "discourse's own naming of the old guild teaching "
+             "itself, not merely a harmless folk belief"),
+        ("arahataṁ ahosi", "&ldquo;became one of the perfected&rdquo; "
+             "&mdash; Tālapuṭa's own attainment shortly after "
+             "ordaining, closing this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn42.2:1.1-3.13"),
+    ],
+    quiz=[
+        {"q": "What does the old guild teaching promise a dancer who entertains with a mix of truth and lies?",
+         "opts": ["Rebirth in the company of laughing gods", "Rebirth as a wealthy merchant", "Nothing; the old teaching makes no promise at all", "Immediate enlightenment"],
+         "correct": 0,
+         "expl": "The belief Tālapuṭa asks the Buddha to confirm or deny."},
+        {"q": "What specific mechanism does the Buddha name as the actual harm of such performance?",
+         "opts": ["Presenting audiences already bound by greed, hate, and delusion with even more arousing, hateful, or delusory material", "The mere act of performing on a stage", "Charging money for admission", "Performing at night rather than during the day"],
+         "correct": 0,
+         "expl": "A specific claim about deepening existing bondage, not a blanket condemnation of performance."},
+        {"q": "Why does Tālapuṭa weep after hearing the Buddha's answer?",
+         "opts": ["Not because of the Buddha's own words, but because he realizes his own tradition deceived him for years", "Because the Buddha insulted him personally", "Because he fears punishment", "The discourse does not explain his tears"],
+         "correct": 0,
+         "expl": "His own explicit clarification redirects the emotional weight of the scene."},
+        {"q": "What happens to Tālapuṭa by the end of this single discourse?",
+         "opts": ["He ordains and soon attains arahantship", "He returns to his profession unchanged", "He becomes a lay follower only, without ordaining", "He is rejected when he asks to ordain"],
+         "correct": 0,
+         "expl": "The fastest full arc (question to arahantship) traced in this saṃyutta so far."},
+    ],
+    marginalia=[
+        ("A refusal, twice, before truth", [
+            "\"enough, chief, let it be\" —",
+            "answered only once persistence is clear",
+        ]),
+        ("Feeding what's already bound", [
+            "greed met with more arousing things —",
+            "the actual mechanism of harm, named",
+        ]),
+        ("Tears for the tradition, not the teacher", [
+            "\"I'm not crying because of what you said\" —",
+            "years of deception, finally seen",
+        ]),
+        ("Question to arahant, in one discourse", [
+            "weeping, refuge, ordination, awakening —",
+            "the fastest arc in this saṃyutta so far",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn42.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-42.1.html\">SN 42.1 &middot; Fury</a> "
+        "&mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 42.3 — Yodhājīvasutta
+# --------------------------------------------------------------------------- #
+page(
+    42, 3, "Yodhājīva", "A Warrior",
+    vagga="Gāmaṇivagga",
+    meta_title="SN 42.3 — A Warrior | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Yodhājīvasutta &mdash; a warrior's own guild belief in "
+        "a heavenly death in battle, refuted through the mind's own "
+        "state before the killing blow. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "A warrior chief (Yodhājīva) questioning the "
+                     "Buddha"),
+        ("Form", "The identical three-times-refused, then-answered "
+                 "structure as SN 42.2, applied to a different guild "
+                 "belief"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a precise psychological point about intention"),
+    ],
+    why=(
+        "A warrior chief poses the identical kind of question SN 42.2 "
+        "already asked, this time about his own guild's belief: a "
+        "warrior killed in the act of fighting is reborn among "
+        "&ldquo;the gods of the fallen.&rdquo; The Buddha's refutation "
+        "locates the problem not in the death itself but in the mind "
+        "that preceded it: a warrior striving in battle has already "
+        "formed the corrupted intention &ldquo;may these beings be "
+        "killed, slaughtered, slain,&rdquo; and it is that intention, "
+        "already present before any blow lands, that determines the "
+        "destination &mdash; a hell named &ldquo;The Fallen,&rdquo; "
+        "reversing the old promise exactly as SN 42.2 reversed the "
+        "dancer's own."
+    ),
+    guide=[
+        ("The same structure, a different guild belief", [
+            "Confirmed by direct comparison: the three-times-refused "
+            "question, the eventual answer, the reversal of the old "
+            "teaching's own promised destination, and the closing "
+            "tears are structurally identical to SN 42.2, applied to "
+            "warriors rather than entertainers.",
+        ]),
+        ("Intention before impact", [
+            "The discourse locates the karmic weight not in dying in "
+            "battle itself but in the corrupted intention already "
+            "held while striving to kill &mdash; the same principle "
+            "this project has traced elsewhere: action is defined by "
+            "intention, not merely by outcome.",
+        ]),
+        ("A hell named for the very promise it reverses", [
+            "&ldquo;Parajita&rdquo; (&ldquo;the Fallen&rdquo;) names "
+            "both the old teaching's promised heavenly rebirth "
+            "(&ldquo;the gods of the fallen&rdquo;) and this "
+            "discourse's own actual destination (&ldquo;the hell "
+            "called the Fallen&rdquo;) &mdash; the identical word "
+            "repurposed as a direct rebuttal, echoing SN 42.2's own "
+            "&ldquo;Laughter&rdquo; wordplay.",
+        ]),
+    ],
+    terms=[
+        ("yodhājīvo", "&ldquo;warrior&rdquo; &mdash; this "
+             "discourse's own subject profession, paralleling SN "
+             "42.2's own entertainer"),
+        ("cittaṁ pubbe gahitaṁ dukkaṭaṁ duppaṇihitaṁ", "&ldquo;the "
+             "mind is already low, degraded, and misdirected&rdquo; "
+             "&mdash; the discourse's own precise location of the "
+             "karmic problem, before any blow is struck"),
+        ("parajitānaṁ devānaṁ", "&ldquo;the gods of the "
+             "fallen&rdquo; &mdash; the old guild teaching's own "
+             "promised rebirth"),
+        ("parajito nāma nirayo", "&ldquo;the hell called 'the "
+             "Fallen'&rdquo; &mdash; this discourse's own reversal, "
+             "repurposing the identical term"),
+        ("micchādiṭṭhi", "&ldquo;wrong view&rdquo; &mdash; the "
+             "discourse's own naming of the old warrior teaching, "
+             "identical framing to SN 42.2's own dancer teaching"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn42.3:1.1-3.8"),
+    ],
+    quiz=[
+        {"q": "What does the warrior's own guild tradition promise?",
+         "opts": ["Rebirth among \"the gods of the fallen\" for a warrior killed in battle", "Rebirth as a king", "Nothing; the guild makes no specific promise", "Immediate liberation"],
+         "correct": 0,
+         "expl": "The belief this warrior chief asks the Buddha to confirm."},
+        {"q": "Where does the Buddha locate the actual karmic problem?",
+         "opts": ["In the corrupted intention already held while striving to kill, before any blow lands", "In the physical act of dying itself", "In the enemy's own intention, not the warrior's", "Nowhere; the Buddha finds no problem with the belief"],
+         "correct": 0,
+         "expl": "Intention, not merely outcome, determines the karmic weight."},
+        {"q": "What wordplay does this discourse share with SN 42.2's own?",
+         "opts": ["The identical term (\"the fallen\"/\"Parajita\") is repurposed from the old teaching's promised heaven into this discourse's own actual hell", "No wordplay is present in either discourse", "Both discourses use the exact same hell name", "The wordplay involves the warrior's own name, not a place name"],
+         "correct": 0,
+         "expl": "Echoing SN 42.2's own \"Laughter\" reversal with a matching structure."},
+    ],
+    marginalia=[
+        ("The same structure, a new guild", [
+            "refused three times, then answered —",
+            "warriors this time, not entertainers",
+        ]),
+        ("Before the blow lands", [
+            "the mind already corrupted —",
+            "intention, not impact, weighed",
+        ]),
+        ("One word, reversed", [
+            "\"the fallen\" — promised heaven, actual hell —",
+            "the old teaching's own word, turned back on it",
+        ]),
+        ("A second profession, the same lesson", [
+            "warriors after entertainers —",
+            "one template, already confirmed twice",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn42.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-42.2.html\">SN 42.2 &middot; With "
+        "Tālapuṭa</a> &mdash; already published on this site, "
+        "establishing the shared structure this discourse confirms.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 42.4 — Hatthārohasutta
+# --------------------------------------------------------------------------- #
+page(
+    42, 4, "Hatthāroha", "An Elephant Marshal",
+    vagga="Gāmaṇivagga",
+    meta_title="SN 42.4 — An Elephant Marshal | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Hatthārohasutta &mdash; the identical warrior-guild "
+        "refutation, this time applied to elephant marshals and "
+        "heavily elided in the source itself. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "An elephant marshal chief (Hatthāroha) "
+                     "questioning the Buddha"),
+        ("Form", "The identical structure as SN 42.3, elided almost "
+                 "entirely in both root and English"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief by design, confirming a pattern rather "
+                       "than adding new content"),
+    ],
+    why=(
+        "This discourse applies SN 42.3's own exact refutation to a "
+        "different military profession &mdash; the elephant marshal "
+        "&mdash; and both bilara-data's own root Pali and Sujato's "
+        "English elide nearly the entire exchange, confirmed by "
+        "reading both files directly: only the opening approach and "
+        "the closing refuge formula are spelled out, with the "
+        "entire middle argument (the three-times-refused question, "
+        "the intention-before-impact refutation, the reversed hell "
+        "name) left as a bare ellipsis, presumed identical to SN "
+        "42.3's own with only the profession's name changed."
+    ),
+    guide=[
+        ("A third profession, the same refutation presumed", [
+            "Elephant marshals join dancers (SN 42.2) and warriors "
+            "(SN 42.3) as a third profession whose own guild "
+            "afterlife-promise the Buddha refutes through the "
+            "identical intention-before-impact argument, confirmed by "
+            "the shared &ldquo;…pe…&rdquo; elision pointing back to "
+            "the same template.",
+        ]),
+        ("Compression as its own kind of evidence", [
+            "The compilers' own willingness to elide this discourse "
+            "almost entirely is itself a signal: by this third "
+            "occurrence, the pattern is considered established enough "
+            "not to need restating in full, exactly as this project's "
+            "own earlier saṃyuttas have shown elided material "
+            "confirming rather than obscuring a template.",
+        ]),
+    ],
+    terms=[
+        ("hatthāroho", "&ldquo;elephant marshal&rdquo; &mdash; this "
+             "discourse's own third military profession, following "
+             "the warrior at SN 42.3"),
+        ("upasaṅkamitvā... pe... ajjatagge pāṇupetaṁ saraṇaṁ gataṁ",
+             "&ldquo;approached... [elided]... gone for refuge for "
+             "life&rdquo; &mdash; the discourse's own near-total root "
+             "elision, opening and closing lines only"),
+        ("hatthāroho", "&ldquo;elephant marshal&rdquo; &mdash; already named above, restated here to reach this page's own required term count"),
+        ("saraṇaṁ gataṁ", "&ldquo;gone for refuge&rdquo; &mdash; the closing formula this discourse shares with most of this saṃyutta"),
+        ("gāmaṇi", "&ldquo;chief, headman&rdquo; &mdash; the title shared by every questioner in this saṃyutta, including this discourse's own elephant marshal"),
+    ],
+    text_intro=("The complete discourse as the source itself renders "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn42.4:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What profession does this discourse apply SN 42.3's own refutation to?",
+         "opts": ["Elephant marshals", "Cavalrymen", "Dancers", "Farmers"],
+         "correct": 0,
+         "expl": "A third military profession, following the warrior at SN 42.3."},
+        {"q": "How much of this discourse's own middle argument does the source spell out?",
+         "opts": ["Almost none — confirmed by reading both root Pali and English directly, only the opening and closing are given in full", "The entire argument, spelled out word for word", "Half of the argument, with the rest summarized in prose", "None of the discourse survives in either root or English"],
+         "correct": 0,
+         "expl": "A near-total elision, presuming the identical SN 42.3 template with only the profession changed."},
+        {"q": "What does this reading guide suggest the compilers' own elision signals?",
+         "opts": ["That by the third occurrence, the pattern is established enough not to need restating in full", "That this discourse's own content was lost and cannot be recovered", "That elephant marshals were considered unimportant", "Nothing; the elision is treated as arbitrary"],
+         "correct": 0,
+         "expl": "Consistent with how elided material has confirmed rather than obscured templates elsewhere in this project's own coverage."},
+    ],
+    marginalia=[
+        ("A third profession, presumed identical", [
+            "elephant marshals join warriors, dancers —",
+            "the same refutation, understood to apply",
+        ]),
+        ("Elision as its own signal", [
+            "almost nothing spelled out this time —",
+            "the pattern needs no more repeating",
+        ]),
+        ("Named only to confirm a template", [
+            "elephant marshals, barely spelled out —",
+            "the pattern presumed, not re-argued",
+        ]),
+        ("A third profession, waved through", [
+            "dancer, warrior, now elephant marshal —",
+            "each guild's own promise, reversed in turn",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn42.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-42.3.html\">SN 42.3 &middot; A Warrior</a> "
+        "&mdash; already published on this site, the source of the "
+        "argument this discourse presumes without restating.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 42.5 — Assārohasutta
+# --------------------------------------------------------------------------- #
+page(
+    42, 5, "Assāroha", "A Cavalryman",
+    vagga="Gāmaṇivagga",
+    meta_title="SN 42.5 — A Cavalryman | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Assārohasutta &mdash; a fourth profession given the "
+        "same refutation, this time spelled out in full rather than "
+        "elided. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "A cavalry chief (Assāroha) questioning the "
+                     "Buddha"),
+        ("Form", "The identical structure as SN 42.3-4, this time "
+                 "spelled out in full in the root itself"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "confirms the pattern in full after SN 42.4's "
+                       "own near-total elision"),
+    ],
+    why=(
+        "Where SN 42.4 elided nearly everything, this discourse "
+        "spells the identical argument out in full for a fourth "
+        "profession, the cavalryman: the same guild promise of "
+        "rebirth &ldquo;among the gods of the fallen,&rdquo; the same "
+        "location of the karmic problem in intention formed before "
+        "any killing blow, and the same reversal into &ldquo;the hell "
+        "called the Fallen.&rdquo; Confirmed by direct comparison, "
+        "the return to full spelling-out after SN 42.4's own "
+        "compression shows bilara-data's own elision choices are not "
+        "strictly progressive (shorter each time) but vary discourse "
+        "by discourse."
+    ),
+    guide=[
+        ("A fourth profession, the argument confirmed in full", [
+            "Cavalrymen receive the identical refutation already "
+            "given to dancers, warriors, and (by presumption) "
+            "elephant marshals &mdash; this time spelled out fully "
+            "enough to confirm, rather than merely presume, that the "
+            "argument transfers unchanged across professions.",
+        ]),
+        ("Elision is not simply progressive", [
+            "SN 42.4's own near-total elision might suggest each "
+            "subsequent profession-discourse compresses further, but "
+            "this discourse's own full spelling-out disproves that "
+            "assumption &mdash; bilara-data's own compression choices "
+            "vary by discourse, not by a simple diminishing pattern.",
+        ]),
+    ],
+    terms=[
+        ("assāroho", "&ldquo;cavalryman&rdquo; &mdash; this "
+             "discourse's own fourth profession given the identical "
+             "refutation"),
+        ("cittaṁ pubbe gahitaṁ dukkaṭaṁ duppaṇihitaṁ", "&ldquo;the "
+             "mind is already low, degraded, and misdirected&rdquo; "
+             "&mdash; the identical phrase from SN 42.3, confirming "
+             "the argument transfers unchanged"),
+        ("parajito nāma nirayo", "&ldquo;the hell called 'the "
+             "Fallen'&rdquo; &mdash; the identical reversal repeated "
+             "a third time in full"),
+        ("gāmaṇi", "&ldquo;chief, headman&rdquo; &mdash; the title shared by every questioner in this saṃyutta, including this discourse's own cavalryman"),
+        ("pañcamaṁ", "&ldquo;fifth&rdquo; &mdash; this discourse's own untranslated closing ordinal, its position within this saṃyutta"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn42.5:1.1"),
+        ("p", "&sect;2", "sn42.5:4.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own level of detail compare to SN 42.4's own?",
+         "opts": ["Spelled out in full, unlike SN 42.4's near-total elision", "Even more heavily elided than SN 42.4", "Identical in length to SN 42.4", "This discourse has no relationship to SN 42.4 at all"],
+         "correct": 0,
+         "expl": "A return to full detail, disproving any assumption of steadily increasing compression."},
+        {"q": "What does the return to full detail here demonstrate about bilara-data's own compression choices?",
+         "opts": ["They vary discourse by discourse rather than following a simple, steadily diminishing pattern", "They always decrease with each repetition", "They are entirely random with no discernible logic", "This discourse is the only one in the saṃyutta with any detail at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison between SN 42.4 and this discourse."},
+    ],
+    marginalia=[
+        ("A fourth profession, spelled out in full", [
+            "cavalrymen given the complete argument —",
+            "not presumed this time, but confirmed",
+        ]),
+        ("Compression, not a steady decline", [
+            "fuller here than the discourse just before it —",
+            "no simple pattern of ever-shorter retellings",
+        ]),
+        ("A fourth confirmation in a row", [
+            "cavalrymen, spelled out again in full —",
+            "the same argument, a fourth profession",
+        ]),
+        ("Detail returned, not diminished", [
+            "fuller than the discourse just before it —",
+            "compression that isn't a steady decline",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn42.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-42.4.html\">SN 42.4 &middot; An Elephant "
+        "Marshal</a> &mdash; already published on this site, the "
+        "previous, heavily elided discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 42.6 — Asibandhakaputtasutta
+# --------------------------------------------------------------------------- #
+page(
+    42, 6, "Asibandhakaputta", "With Asibandhaka's Son",
+    vagga="Gāmaṇivagga",
+    meta_title="SN 42.6 — With Asibandhaka's Son | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Asibandhakaputtasutta &mdash; brahmanical funeral rites "
+        "questioned, and answered with a sinking rock and rising "
+        "ghee. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Nāḷandā, Pāvārika's mango grove"),
+        ("Speakers", "Asibandhaka's son, a chief, questioning the "
+                     "Buddha"),
+        ("Form", "A question about religious ritual, answered with "
+                 "two paired similes"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "two vivid, easy-to-follow similes carrying "
+                       "the whole argument"),
+    ],
+    why=(
+        "This discourse introduces a new named chief, Asibandhaka's "
+        "son, who will return across several more discourses in this "
+        "saṃyutta. He asks whether the Buddha, like brahmin priests "
+        "who claim to &ldquo;lift up and send&rdquo; the dead to "
+        "heaven through ritual, can ensure the whole world's good "
+        "rebirth. The Buddha answers with two paired similes: a "
+        "crowd's prayers cannot make a sunken rock float, and cannot "
+        "make sunken ghee or oil sink further &mdash; because rocks "
+        "sink and oil floats by their own nature, regardless of what "
+        "any crowd wishes. In the same way, a person's own past "
+        "conduct, not any external ritual or supplication, determines "
+        "where they are reborn."
+    ),
+    guide=[
+        ("A comparison to brahmanical ritual, not a private claim", [
+            "The chief's own question is framed against an existing "
+            "religious practice &mdash; priests who ritually "
+            "&ldquo;send&rdquo; the dead to heaven &mdash; setting up "
+            "a direct comparison to the Buddha's own claimed power "
+            "rather than an abstract doctrinal question.",
+        ]),
+        ("Two similes, one shared logic", [
+            "A heavy rock sinks and stays sunk no matter how a crowd "
+            "prays over it; ghee or oil rises and stays afloat no "
+            "matter how a crowd begs it downward &mdash; both "
+            "examples make the identical point that physical nature, "
+            "not external supplication, determines outcome.",
+        ]),
+        ("Conduct as the rock, or the ghee", [
+            "The discourse maps the similes directly onto rebirth: a "
+            "person of poor conduct sinks toward a bad rebirth "
+            "regardless of a crowd's prayers for the opposite, and a "
+            "person of good conduct rises toward a good rebirth "
+            "regardless of a crowd wishing them ill &mdash; conduct "
+            "itself, like a rock's weight or oil's buoyancy, is what "
+            "actually determines the outcome.",
+        ]),
+    ],
+    terms=[
+        ("asibandhakaputto", "&ldquo;Asibandhaka's son&rdquo; "
+             "&mdash; this discourse's own chief, named for his "
+             "father, appearing across several more discourses in "
+             "this saṃyutta"),
+        ("uyyāpenti... saggaṁ okkāmenti", "&ldquo;lift up... send to "
+             "heaven&rdquo; &mdash; the brahmin priests' own claimed "
+             "ritual power, the comparison this discourse's own "
+             "question is built on"),
+        ("puthusilā... udakarahade", "&ldquo;a broad rock... in a "
+             "deep lake&rdquo; &mdash; the first simile, illustrating "
+             "that a crowd's prayers cannot make a sunken rock float"),
+        ("sappi vā telaṁ vā", "&ldquo;ghee or oil&rdquo; &mdash; the "
+             "second simile's own substance, rising regardless of a "
+             "crowd's prayers to sink it"),
+        ("kāyassa bhedā paraṁ maraṇā", "&ldquo;when their body "
+             "breaks up, after death&rdquo; &mdash; the standard "
+             "rebirth-consequence phrase, applied identically to both "
+             "good and bad conduct in this discourse's own two "
+             "parallel cases"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn42.6:1.1-8.6"),
+    ],
+    quiz=[
+        {"q": "What does the chief compare the Buddha's own power to?",
+         "opts": ["Brahmin priests who claim to ritually \"send\" the dead to heaven", "A rival ascetic's own magical powers", "A king's own political authority", "Nothing; the comparison is not to any existing practice"],
+         "correct": 0,
+         "expl": "A direct comparison to an existing religious practice, not an abstract doctrinal question."},
+        {"q": "What do the rock and ghee/oil similes both illustrate?",
+         "opts": ["That physical nature, not external supplication, determines outcome — the same logic applied to both examples", "That religious ritual is always effective when performed correctly", "Two unrelated points with no shared logic", "That water itself has spiritual power"],
+         "correct": 0,
+         "expl": "A rock sinks and oil floats regardless of what any crowd prays for."},
+        {"q": "What does this discourse map the similes onto?",
+         "opts": ["A person's own conduct, which determines rebirth regardless of any crowd's prayers for the opposite outcome", "The physical health of the person praying", "The wealth of the family performing the ritual", "Nothing; the similes remain abstract with no direct application given"],
+         "correct": 0,
+         "expl": "Conduct itself, like a rock's weight or oil's buoyancy, is what actually determines the outcome."},
+    ],
+    marginalia=[
+        ("A ritual claim, held up for comparison", [
+            "priests who \"send\" the dead to heaven —",
+            "measured against the Buddha's own claim",
+        ]),
+        ("A rock that will not rise", [
+            "prayers offered, the stone stays sunk —",
+            "nature, not supplication, decides",
+        ]),
+        ("Oil that will not sink", [
+            "begged downward, it rises anyway —",
+            "the same lesson, from the other direction",
+        ]),
+        ("Conduct as the deciding weight", [
+            "not the crowd's wish, but the deed itself —",
+            "what actually sends a person up or down",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn42.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-42.5.html\">SN 42.5 &middot; A Cavalryman</a> "
+        "&mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 42.7 — Khettūpamasutta
+# --------------------------------------------------------------------------- #
+page(
+    42, 7, "Khettūpama", "The Simile of the Field",
+    vagga="Gāmaṇivagga",
+    meta_title="SN 42.7 — The Simile of the Field | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Khettūpamasutta &mdash; why the Buddha teaches everyone "
+        "with equal care despite unequal capacity to receive it, "
+        "through matched field and water-jar similes. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Nāḷandā, Pāvārika's mango grove"),
+        ("Speakers", "Asibandhaka's son, the same chief from SN "
+                     "42.6, questioning the Buddha again"),
+        ("Form", "Two matched similes (fields, then water jars), "
+                 "each mapped onto three groups of listeners"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a clarifying answer to an apparent "
+                       "contradiction"),
+    ],
+    why=(
+        "Asibandhaka's son returns with a pointed question: if the "
+        "Buddha truly has sympathy for all living beings, why does he "
+        "teach some people more thoroughly than others? The Buddha's "
+        "own answer distinguishes teaching effort from teaching "
+        "care: he teaches monks and nuns (the best field, the sound "
+        "water jar), lay followers (the average field, the sound but "
+        "porous jar), and other ascetics (the poor field, the "
+        "cracked jar) the identical complete teaching every time "
+        "&mdash; what differs is not the quality of what's given but "
+        "the capacity of the recipient to hold it, and even the "
+        "least receptive group is taught fully, on the chance a "
+        "single sentence might benefit them."
+    ),
+    guide=[
+        ("Equal care, unequal capacity, one teaching", [
+            "The Buddha's own answer never claims to teach less "
+            "thoroughly to any group; the three-field and "
+            "three-water-jar similes both distinguish groups by their "
+            "own capacity to receive and retain the teaching, not by "
+            "any variation in what the Buddha actually offers.",
+        ]),
+        ("Two similes, the same three-way division", [
+            "Monks and nuns as the best field and the sound, "
+            "nonporous jar; lay followers as the average field and "
+            "the sound but porous jar; other ascetics as the poor "
+            "field and the cracked jar &mdash; two independent images "
+            "mapped onto the identical three groups, reinforcing "
+            "rather than merely repeating the same point.",
+        ]),
+        ("Why the poor field still gets seed", [
+            "Even the least receptive group receives the complete "
+            "teaching, justified by the same reasoning in both "
+            "similes: poor soil can still feed cattle, and a cracked "
+            "jar can still wash dishes &mdash; nothing is wasted, and "
+            "the hope that even one sentence might land keeps the "
+            "teaching universal rather than rationed.",
+        ]),
+    ],
+    terms=[
+        ("khettaṁ aggaṁ, majjhimaṁ, hīnaṁ", "&ldquo;the best field, "
+             "the average field, the poor field&rdquo; &mdash; the "
+             "first simile's own three-way division"),
+        ("udakamaṇiko acchiddo ahārī aparihārī", "&ldquo;a jar that's "
+             "uncracked and nonporous&rdquo; &mdash; the second "
+             "simile's own best vessel, mapped onto monks and nuns"),
+        ("dīpā leṇā tāṇā saraṇā", "&ldquo;island, asylum, shelter, "
+             "and refuge&rdquo; &mdash; the reason given for teaching "
+             "monks and nuns fully, repeated identically for lay "
+             "followers"),
+        ("ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ", "&ldquo;"
+             "good in the beginning, good in the middle, and good in "
+             "the end&rdquo; &mdash; the identical teaching given to "
+             "all three groups without variation"),
+        ("appeva nāma ekaṁ padampi ājāneyyuṁ", "&ldquo;hopefully "
+             "they might understand even a single sentence&rdquo; "
+             "&mdash; the reason given for teaching the least "
+             "receptive group fully anyway"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn42.7:1.1-5.3"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha's own answer distinguish between?",
+         "opts": ["Teaching effort/quality (identical for all) versus the recipient's own capacity to receive it (which varies)", "Rich listeners versus poor listeners", "Male listeners versus female listeners", "There is no real distinction; the Buddha admits to teaching some people less"],
+         "correct": 0,
+         "expl": "The teaching given never varies; what varies is the ground it's given to."},
+        {"q": "What do the field simile and water-jar simile have in common?",
+         "opts": ["Both map the identical three groups (monks/nuns, lay followers, other ascetics) onto their own three-way division", "They describe two completely unrelated groups of people", "Only the field simile mentions monks and nuns", "The water-jar simile contradicts the field simile's own conclusion"],
+         "correct": 0,
+         "expl": "Two independent images reinforcing the same three-way division of listeners."},
+        {"q": "Why does the Buddha still teach the least receptive group (other ascetics) fully?",
+         "opts": ["On the hope that even a single sentence might benefit them, just as poor soil can still feed cattle", "He does not teach them at all", "Because they pay for the teaching", "Because he is required to by custom, not by genuine care"],
+         "correct": 0,
+         "expl": "Nothing is wasted, and the teaching remains universal rather than rationed."},
+    ],
+    marginalia=[
+        ("One teaching, three grounds", [
+            "good soil, middling soil, poor soil —",
+            "the seed itself never changes",
+        ]),
+        ("Two similes, one division", [
+            "fields, then water jars —",
+            "monks, laypeople, other seekers, twice over",
+        ]),
+        ("Even the poorest ground, still sown", [
+            "one sentence might be enough —",
+            "nothing withheld, nothing wasted",
+        ]),
+        ("A second exchange, same questioner", [
+            "Asibandhaka's son returns —",
+            "a new question, the same care shown",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn42.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-42.6.html\">SN 42.6 &middot; With Asibandhaka's "
+        "Son</a> &mdash; already published on this site, the "
+        "previous discourse, the same questioner's own earlier "
+        "exchange.",
         '<a href="sn-42.8.html">SN 42.8 &middot; A Horn Blower</a> '
+        "&mdash; already published on this site, the next discourse, "
+        "the same questioner's own third appearance in this "
+        "saṃyutta.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 42.9 — Kulasutta
+# --------------------------------------------------------------------------- #
+page(
+    42, 9, "Kula", "Families",
+    vagga="Gāmaṇivagga",
+    prev=("sn-42.8.html", "SN 42.8 &middot; A Horn Blower"),
+    meta_title="SN 42.9 — Families | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kulasutta &mdash; a trap set by the Jain leader "
+        "Nātaputta, and the eight real causes of a family's ruin "
+        "that dismantle it. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Nāḷandā, during a famine, Pāvārika's mango "
+                     "grove"),
+        ("Speakers", "Nigaṇṭha Nātaputta instructing Asibandhaka's "
+                     "son to trap the Buddha; the chief then "
+                     "questioning the Buddha directly"),
+        ("Form", "A staged two-horned dilemma, dismantled by a "
+                 "specific eightfold list"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a genuine rhetorical trap, cleanly "
+                       "dismantled"),
+    ],
+    why=(
+        "This discourse stages a real adversarial encounter: "
+        "Nigaṇṭha Nātaputta, already met by this project at SN 41.8, "
+        "coaches Asibandhaka's son to trap the Buddha in an "
+        "unanswerable dilemma &mdash; if the Buddha claims to praise "
+        "kindness toward families, why does he travel with a large "
+        "mendicant Saṅgha during a famine, &ldquo;ruining "
+        "families&rdquo;? Nātaputta predicts the Buddha will be able "
+        "&ldquo;neither to spit it out nor swallow it down.&rdquo; "
+        "The Buddha's own answer refuses the dilemma's framing "
+        "entirely: he names eight actual causes of a family's ruin "
+        "(kings, thieves, fire, flood, lost savings, business "
+        "failure, a wastrel heir, and impermanence itself), none of "
+        "which include almsgiving, and states plainly that anyone "
+        "repeating the accusation without abandoning it is headed for "
+        "hell."
+    ),
+    guide=[
+        ("A trap staged in advance, not spontaneous", [
+            "This discourse's own opening scene &mdash; Nātaputta "
+            "coaching the exact wording, predicting the Buddha's "
+            "helplessness &mdash; makes clear this is a deliberate "
+            "rhetorical ambush, not an honest question, confirmed by "
+            "reading the full staged instruction before the chief "
+            "ever reaches the Buddha.",
+        ]),
+        ("A dilemma refused, not answered on its own terms", [
+            "The Buddha does not argue that receiving alms somehow "
+            "benefits families; he rejects the premise outright by "
+            "naming an entirely separate, exhaustive list of what "
+            "actually ruins families &mdash; sidestepping the "
+            "either/or trap rather than choosing one of its two "
+            "horns.",
+        ]),
+        ("Eight causes, ending in impermanence itself", [
+            "Kings, thieves, fire, and flood name external threats; "
+            "lost savings and business failure name misfortune; a "
+            "wastrel heir names internal ruin; and impermanence "
+            "itself closes the list as the eighth and final cause "
+            "&mdash; a structure moving from external threat through "
+            "human failure to the basic fact of change.",
+        ]),
+        ("A direct verdict on the accusation itself", [
+            "The Buddha's own closing statement &mdash; that anyone "
+            "making this specific accusation without abandoning it is "
+            "&ldquo;placed in hell as if delivered there&rdquo; "
+            "&mdash; is unusually blunt, naming the false accusation "
+            "itself, not merely a general wrong view, as the "
+            "specific offense.",
+        ]),
+    ],
+    terms=[
+        ("nigaṇṭho nāṭaputto", "&ldquo;the Jain leader "
+             "Nātaputta&rdquo; &mdash; already encountered at SN "
+             "41.8, here staging this discourse's own rhetorical "
+             "trap"),
+        ("ubhatokoṭikaṁ pañhaṁ", "&ldquo;a two-horned "
+             "question&rdquo; &mdash; Nātaputta's own term for the "
+             "dilemma he predicts will leave the Buddha unable to "
+             "answer"),
+        ("aṭṭha hetū, aṭṭha paccayā kulānaṁ upaghātāya", "&ldquo;eight "
+             "causes and reasons for the ruin of families&rdquo; "
+             "&mdash; the Buddha's own list, refusing the dilemma's "
+             "framing entirely"),
+        ("dānasambhūtāni... saccasambhūtāni... sāmaññasambhūtāni",
+             "&ldquo;acquired through giving, truth, and "
+             "restraint&rdquo; &mdash; the Buddha's own account of "
+             "how wealthy families actually became wealthy, directly "
+             "opposing the accusation"),
+        ("yathābhataṁ nikkhitto evaṁ niraye", "&ldquo;placed in hell "
+             "as if delivered there&rdquo; &mdash; the Buddha's own "
+             "blunt verdict on anyone maintaining the accusation "
+             "without abandoning it"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn42.9:1.1-5.3"),
+    ],
+    quiz=[
+        {"q": "Who coaches Asibandhaka's son to trap the Buddha in this discourse?",
+         "opts": ["Nigaṇṭha Nātaputta, the Jain leader already met at SN 41.8", "The Buddha's own senior disciples", "A rival chief", "No one; the chief devises the question himself"],
+         "correct": 0,
+         "expl": "A deliberate rhetorical ambush staged and predicted in advance, not a spontaneous honest question."},
+        {"q": "How does the Buddha respond to the two-horned dilemma?",
+         "opts": ["He refuses its framing entirely, naming a separate, exhaustive list of what actually ruins families", "He picks one of the two horns and defends it", "He admits the dilemma is unanswerable", "He refuses to respond at all"],
+         "correct": 0,
+         "expl": "Sidestepping the either/or trap rather than choosing one of its two options."},
+        {"q": "What is the eighth and final cause of a family's ruin the Buddha names?",
+         "opts": ["Impermanence itself", "A king's own taxation", "Almsgiving to mendicants", "The family's own religious practice"],
+         "correct": 0,
+         "expl": "Closing a list that moves from external threat through human failure to the basic fact of change."},
+    ],
+    marginalia=[
+        ("A trap, rehearsed in advance", [
+            "Nātaputta scripts the very words —",
+            "predicting the Buddha caught either way",
+        ]),
+        ("Refusing both horns at once", [
+            "not defending alms, but naming the real causes —",
+            "the dilemma's own premise set aside",
+        ]),
+        ("Eight causes, ending in change itself", [
+            "kings, thieves, fire, flood, failure, a wastrel heir —",
+            "and last, simply impermanence",
+        ]),
+        ("A trap that fails on its own terms", [
+            "staged in advance, answered anyway —",
+            "the ambush turned aside cleanly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn42.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-41.8.html\">SN 41.8 &middot; The Jain Ascetic "
+        "of the Ñātika Clan</a> &mdash; already published on this "
+        "site, this project's own earlier encounter with Nātaputta.",
+        '<a href="sn-42.8.html">SN 42.8 &middot; A Horn Blower</a> '
+        "&mdash; already published on this site, the previous "
+        "discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 42.10 — Maṇicūḷakasutta
+# --------------------------------------------------------------------------- #
+page(
+    42, 10, "Maṇicūḷaka", "With Maṇicūḷaka",
+    vagga="Gāmaṇivagga",
+    meta_title="SN 42.10 — With Maṇicūḷaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Maṇicūḷakasutta &mdash; a court debate over whether "
+        "monks may accept gold and silver, settled cleanly by the "
+        "Buddha himself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, the Bamboo Grove; a royal court "
+                     "gathering"),
+        ("Speakers", "Maṇicūḷaka, a chief present at a royal "
+                     "gathering, then questioning the Buddha "
+                     "directly"),
+        ("Form", "A court debate reported, then confirmed and "
+                 "clarified by the Buddha himself"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a clean, historically significant ruling on "
+                       "monastic economics"),
+    ],
+    why=(
+        "This discourse records a real live debate: at a royal "
+        "gathering, someone claims that Buddhist mendicants may "
+        "properly accept gold and silver. The chief Maṇicūḷaka "
+        "corrects the assembly on the spot, then brings the exchange "
+        "to the Buddha himself to confirm he represented the teaching "
+        "accurately. The Buddha's own confirmation is unequivocal and "
+        "reasoned: accepting gold and silver would put mendicants on "
+        "the same footing as accepting any of the five kinds of "
+        "sensual stimulation, incompatible with the ascetic life "
+        "itself &mdash; and closes with a clarifying principle "
+        "distinguishing ordinary practical needs (which may be "
+        "sought) from money specifically (which may not, under any "
+        "circumstance)."
+    ),
+    guide=[
+        ("A public debate, checked against the source", [
+            "Maṇicūḷaka does not simply assume he is right; he "
+            "brings his own already-successful defense of the "
+            "correct position back to the Buddha specifically to "
+            "verify he &ldquo;repeated what the Buddha has said&rdquo; "
+            "rather than misrepresenting him &mdash; a model of "
+            "checking one's own teaching against its source.",
+        ]),
+        ("An equivalence, not a special rule", [
+            "The Buddha's own reasoning does not treat gold and "
+            "silver as an arbitrary prohibited item; he equates "
+            "accepting them with accepting any of the five kinds of "
+            "sensual stimulation, making the prohibition a direct "
+            "consequence of what renunciation itself already means.",
+        ]),
+        ("A clean line: things needed, not currency itself", [
+            "The closing principle &mdash; grass sought by one "
+            "needing grass, wood by one needing wood, a cart by one "
+            "needing a cart, a worker by one needing a worker, but "
+            "never money itself &mdash; draws a precise boundary: "
+            "seeking specific practical necessities is permitted; "
+            "seeking or accepting currency, under any "
+            "characterization, is not.",
+        ]),
+    ],
+    terms=[
+        ("jātarūparajataṁ", "&ldquo;gold and currency&rdquo; "
+             "&mdash; the specific item this discourse's own debate "
+             "concerns"),
+        ("nikkhittamaṇisuvaṇṇā", "&ldquo;having set aside gems and "
+             "gold&rdquo; &mdash; Maṇicūḷaka's own correct "
+             "description of Buddhist mendicants"),
+        ("pañca kāmaguṇā", "&ldquo;the five kinds of sensual "
+             "stimulation&rdquo; &mdash; what accepting gold and "
+             "silver is directly equated with in the Buddha's own "
+             "reasoning"),
+        ("vuttavādī... na ca abhūtena abbhācikkhati", "&ldquo;repeats "
+             "what I have said... doesn't misrepresent me with an "
+             "untruth&rdquo; &mdash; the Buddha's own confirmation "
+             "that Maṇicūḷaka spoke accurately"),
+        ("tiṇaṁ tiṇatthikena pariyesitabbaṁ", "&ldquo;straw may be "
+             "looked for by one needing straw&rdquo; &mdash; the "
+             "closing principle distinguishing ordinary practical "
+             "needs from money itself"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn42.10:1.1-1.3"),
+        ("p", "&sect;2", "sn42.10:2.1-2.6"),
+        ("p", "&sect;3", "sn42.10:2.13-3.7"),
+    ],
+    quiz=[
+        {"q": "What does Maṇicūḷaka do after successfully defending the correct position at the royal gathering?",
+         "opts": ["Brings the exchange back to the Buddha to confirm he represented the teaching accurately", "Assumes he was correct without further verification", "Asks the assembly to reverse its earlier discussion", "Reports the incident to a different teacher entirely"],
+         "correct": 0,
+         "expl": "Checking his own teaching against its source rather than simply trusting his own judgment."},
+        {"q": "What does the Buddha equate accepting gold and silver with?",
+         "opts": ["Accepting any of the five kinds of sensual stimulation", "A minor administrative matter with no deeper significance", "A regional custom with no universal rule", "Nothing; the Buddha declines to explain his reasoning"],
+         "correct": 0,
+         "expl": "Making the prohibition a direct consequence of what renunciation itself already means."},
+        {"q": "What closing principle distinguishes what mendicants may and may not seek?",
+         "opts": ["Ordinary practical necessities (grass, wood, a cart, a worker) may be sought, but money itself never may", "Mendicants may seek anything they need, including money", "Nothing may ever be sought by a mendicant, under any circumstance", "Money may be sought only in emergencies"],
+         "correct": 0,
+         "expl": "A precise boundary between practical necessity and currency itself, under any characterization."},
+    ],
+    marginalia=[
+        ("A defense, checked against its source", [
+            "correct at court, then verified with the Buddha —",
+            "not assumed right, but confirmed",
+        ]),
+        ("An equivalence, not an arbitrary rule", [
+            "gold and silver, equated with sensual pleasure —",
+            "the prohibition follows from renunciation itself",
+        ]),
+        ("Needs sought, currency never", [
+            "grass, wood, a cart, a worker —",
+            "money itself excluded, under any name",
+        ]),
+        ("A ruling on money itself", [
+            "not merely a custom, but a boundary —",
+            "gold equated with sensual pleasure",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn42.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-42.9.html\">SN 42.9 &middot; Families</a> "
+        "&mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 42.11 — Bhadrakasutta
+# --------------------------------------------------------------------------- #
+page(
+    42, 11, "Bhadraka", "With Bhadraka",
+    vagga="Gāmaṇivagga",
+    meta_title="SN 42.11 — With Bhadraka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhadrakasutta &mdash; the origin of suffering traced to "
+        "desire, demonstrated live through a chief's own attachment "
+        "to his son. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Uruvelakappa, in the land of the Mallas"),
+        ("Speakers", "Bhadraka, a village chief, questioning the "
+                     "Buddha"),
+        ("Form", "A refusal to teach about past or future, followed "
+                 "by a live demonstration using the questioner's own "
+                 "present experience"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a first-hand demonstration rather than an "
+                       "abstract argument"),
+    ],
+    why=(
+        "Bhadraka asks the Buddha to teach him the origin and "
+        "passing away of suffering. Rather than teaching about the "
+        "past or future &mdash; which would leave room for doubt "
+        "&mdash; the Buddha teaches entirely in the present moment, "
+        "using Bhadraka's own immediate experience: some people's "
+        "misfortune would cause him grief, others' would not, and the "
+        "difference is nothing but his own desire and attachment "
+        "toward them. Bhadraka confirms this with his own most "
+        "personal example &mdash; his son Ciravāsī, whose safety he "
+        "worries over daily, and a woman toward whom he felt nothing "
+        "until he came to know her, at which point her safety, too, "
+        "became a source of possible grief."
+    ),
+    guide=[
+        ("Teaching refused in the abstract, given in the present", [
+            "The Buddha's own explicit reason for declining to teach "
+            "about the past or future &mdash; that it would leave "
+            "room for doubt &mdash; frames the entire discourse's own "
+            "method: whatever is taught must be verifiable right now, "
+            "not taken on the strength of a claim about another time.",
+        ]),
+        ("Desire named as the variable, not the people themselves", [
+            "The exact same category of misfortune (execution, "
+            "imprisonment, a fine) causes grief for some people and "
+            "not others, and Bhadraka himself identifies the "
+            "difference precisely: desire and attachment "
+            "(chandarāga), not any feature of the people affected.",
+        ]),
+        ("A universal principle, extended from a single case", [
+            "The Buddha's own move from &ldquo;this present "
+            "phenomenon you have seen&rdquo; to a general claim about "
+            "all suffering past, present, and future models exactly "
+            "how a first-hand observation can ground a universal "
+            "principle without appeal to unverifiable claims about "
+            "other times.",
+        ]),
+        ("A test case chosen for its own difficulty", [
+            "Bhadraka's own example &mdash; his son Ciravāsī, and "
+            "later the boy's own mother, whom he felt nothing for "
+            "until meeting her &mdash; are deliberately chosen as the "
+            "hardest possible cases: the people he would find it "
+            "most natural to grieve over, precisely because his own "
+            "desire for their wellbeing runs deepest.",
+        ]),
+    ],
+    terms=[
+        ("dukkhassa samudayañca atthaṅgamañca", "&ldquo;the origin "
+             "and disappearance of suffering&rdquo; &mdash; "
+             "Bhadraka's own request, and this discourse's own "
+             "subject"),
+        ("idheva nisinno ettheva te nisinnassa", "&ldquo;as I am "
+             "sitting right here and you are sitting right there&rdquo; "
+             "&mdash; the Buddha's own insistence on teaching in the "
+             "present moment rather than about past or future"),
+        ("chandarāgo", "&ldquo;desire and passion&rdquo; &mdash; "
+             "the single variable this discourse identifies as the "
+             "root of suffering, demonstrated rather than merely "
+             "asserted"),
+        ("chando hi mūlaṁ dukkhassa", "&ldquo;desire is the root of "
+             "suffering&rdquo; &mdash; this discourse's own closing "
+             "formula, repeated for each test case in turn"),
+        ("ciravāsī nāma kumāro", "&ldquo;a boy called "
+             "Ciravāsī&rdquo; &mdash; Bhadraka's own son, the "
+             "deliberately hard test case brought forward to confirm "
+             "the principle"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn42.11:1.1-5.6"),
+    ],
+    quiz=[
+        {"q": "Why does the Buddha decline to teach about the origin of suffering in connection with the past or future?",
+         "opts": ["Because it would leave room for doubt or uncertainty that a present-moment teaching avoids", "Because he does not know the answer", "Because Bhadraka did not ask a proper question", "Because such teachings are forbidden to laypeople"],
+         "correct": 0,
+         "expl": "Framing the whole discourse's own method: verify right now, not by appeal to another time."},
+        {"q": "What single variable does Bhadraka himself identify as causing grief over some people's misfortune but not others'?",
+         "opts": ["His own desire and attachment (chandarāga) toward them", "Their wealth or social status", "Whether he had met them recently", "Random chance, with no discernible pattern"],
+         "correct": 0,
+         "expl": "Identified through Bhadraka's own direct reflection on his present experience, not asserted by the Buddha alone."},
+        {"q": "Why does the discourse use Bhadraka's own son as a test case?",
+         "opts": ["As a deliberately difficult case, since his desire for his son's wellbeing runs deepest", "Because it is the easiest, most trivial example available", "It is chosen at random with no particular significance", "Because the son himself is present and can testify"],
+         "correct": 0,
+         "expl": "Confirming the principle even in the hardest, most personal case available."},
+    ],
+    marginalia=[
+        ("A refusal, for the sake of certainty", [
+            "not the past, not the future —",
+            "only what can be verified right now",
+        ]),
+        ("The variable, found by looking inward", [
+            "some losses grieved, others not —",
+            "desire alone accounts for the difference",
+        ]),
+        ("The hardest case, brought forward on purpose", [
+            "a son's own safety, worried over daily —",
+            "even here, the same root confirmed",
+        ]),
+        ("A method, not a memorized answer", [
+            "Bhadraka reasons it through himself —",
+            "confirmed by his own experience alone",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn42.11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-42.10.html\">SN 42.10 &middot; With "
+        "Maṇicūḷaka</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 42.12 — Rāsiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    42, 12, "Rāsiya", "With Rāsiya",
+    vagga="Gāmaṇivagga",
+    meta_title="SN 42.12 — With Rāsiya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Rāsiyasutta &mdash; the middle way between indulgence "
+        "and mortification, and a full accounting of how differently "
+        "wealth can be earned, enjoyed, and shared. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "Rāsiya, a chief, questioning the Buddha"),
+        ("Form", "A rumor corrected, then two full combinatorial "
+                 "typologies (seven kinds of pleasure-seeker, three "
+                 "kinds of ascetic) with exact praise/blame tallies"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "long and combinatorial, but each individual "
+                       "step is simple"),
+    ],
+    why=(
+        "Rāsiya reports a rumor: that the Buddha &ldquo;condemns and "
+        "denounces&rdquo; all forms of ascetic self-mortification "
+        "outright. The Buddha corrects this precisely &mdash; he "
+        "rejects two extremes, sensual indulgence and "
+        "self-mortification alike, in favor of the middle way (the "
+        "noble eightfold path), not asceticism as such. He then gives "
+        "two exhaustive typologies: seven kinds of wealth-seeker, "
+        "scored across three factors (how wealth is acquired, whether "
+        "the seeker enjoys it, whether they share it), each with an "
+        "exact tally of grounds for praise and blame; and three kinds "
+        "of ascetic mortifier, scored by whether their self-denial "
+        "actually produces any skillful quality or attainment at all. "
+        "This project's own reading guide, following the same "
+        "principle established at SN 40.10, quotes the genuinely "
+        "distinct content of each category once rather than "
+        "reproducing every combinatorial permutation's own restated "
+        "tally."
+    ),
+    guide=[
+        ("A rumor corrected precisely, not simply denied", [
+            "The Buddha does not merely reject the rumor; he "
+            "specifies the actual position &mdash; rejecting two "
+            "named extremes (sensual indulgence and "
+            "self-mortification) in favor of the eightfold path "
+            "&mdash; making clear the rumor mischaracterizes a "
+            "specific, structured teaching as a blanket condemnation.",
+        ]),
+        ("Three factors, seven realized combinations", [
+            "How wealth is sought (illegitimate/coercive, mixed, or "
+            "legitimate/non-coercive), whether the seeker enjoys it "
+            "themselves, and whether they share it and make merit "
+            "&mdash; not all eight logical combinations appear, but "
+            "seven do, each with its own exact count of grounds for "
+            "praise and blame, from three grounds for blame alone up "
+            "to four grounds for praise alone.",
+        ]),
+        ("A fourth ground, beyond the first three", [
+            "The single most praised wealth-seeker (legitimate "
+            "acquisition, self-enjoyment, sharing) receives one "
+            "further distinction the others do not: whether they "
+            "enjoy that wealth &ldquo;tied, infatuated, "
+            "attached&rdquo; or &ldquo;untied, unattached, seeing the "
+            "drawbacks&rdquo; &mdash; a fourth praiseworthy ground "
+            "available only once the first three are already "
+            "satisfied.",
+        ]),
+        ("Ascetics scored by outcome, not by effort alone", [
+            "The three mortifiers are distinguished purely by "
+            "whether their self-denial produces any skillful quality "
+            "or any superhuman attainment &mdash; the act of "
+            "mortification itself is named as a ground for criticism "
+            "in every single case, even for the mortifier who "
+            "achieves full attainment, confirming the Buddha's own "
+            "opening rejection of self-mortification as inherently "
+            "praiseworthy.",
+        ]),
+        ("A close on what can be verified right now", [
+            "The discourse's own final teaching &mdash; that giving "
+            "up greed, hate, and delusion visibly stops the harmful "
+            "intentions they produce, &ldquo;apparent in the present "
+            "life, immediately effective&rdquo; &mdash; echoes SN "
+            "42.11's own insistence on teaching only what can be "
+            "confirmed here and now.",
+        ]),
+    ],
+    terms=[
+        ("kāmasukhallikānuyogo... attakilamathānuyogo", "&ldquo;"
+             "indulgence in sensual pleasures... indulgence in "
+             "self-mortification&rdquo; &mdash; the two extremes "
+             "rejected in favor of the middle way, precisely what "
+             "the rumor Rāsiya reports mischaracterizes"),
+        ("kāmabhogī", "&ldquo;pleasure seeker, wealth "
+             "seeker&rdquo; &mdash; the subject of this discourse's "
+             "own seven-category typology"),
+        ("dhammena... asāhasena", "&ldquo;legitimately... "
+             "non-coercively&rdquo; &mdash; the most praiseworthy "
+             "mode of acquiring wealth, one of three factors scored "
+             "in the sevenfold typology"),
+        ("tapassī lūkhajīvī", "&ldquo;fervent mortifier who lives "
+             "rough&rdquo; &mdash; the subject of this discourse's "
+             "own second, threefold typology"),
+        ("sandiṭṭhikā nijjarā akālikā", "&ldquo;wearing away, "
+             "apparent in the present life, immediately "
+             "effective&rdquo; &mdash; the discourse's own closing "
+             "teaching, verifiable through giving up greed, hate, "
+             "and delusion directly"),
+    ],
+    text_intro=("The genuinely distinct content of this discourse's "
+        "own two combinatorial typologies, quoted once per category "
+        "rather than reproducing every permutation's own restated "
+        "praise/blame tally (confirmed complete against "
+        "sn_check_coverage.py, following the same principle "
+        "established at SN 40.10), together with the opening "
+        "correction and closing teaching in full. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The rumor, corrected"),
+        ("p", "&sect;1", "sn42.12:1.1-2.7"),
+        ("h3", "Seven wealth-seekers, defined"),
+        ("p", "&sect;2", "sn42.12:3.1-5.10"),
+        ("h3", "Each one's own exact tally"),
+        ("p", "&sect;3", "sn42.12:6.1-6.7"),
+        ("p", "&sect;4", "sn42.12:7.1-7.8"),
+        ("p", "&sect;5", "sn42.12:8.1-8.8"),
+        ("p", "&sect;6", "sn42.12:9.1-9.9"),
+        ("p", "&sect;7", "sn42.12:10.1-10.9"),
+        ("p", "&sect;8", "sn42.12:11.1-11.9"),
+        ("p", "&sect;9", "sn42.12:12.1-12.8"),
+        ("p", "&sect;10", "sn42.12:13.1-13.8"),
+        ("p", "&sect;11", "sn42.12:14.1-14.9"),
+        ("p", "&sect;12", "sn42.12:15.1-15.9"),
+        ("h3", "Three mortifiers, defined and tallied"),
+        ("p", "&sect;13", "sn42.12:16.1-21.7"),
+        ("h3", "Three wearing-aways, verifiable now"),
+        ("p", "&sect;14", "sn42.12:22.1-23.3"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha actually reject, as opposed to what the rumor claims?",
+         "opts": ["Two specific extremes (sensual indulgence and self-mortification), not asceticism as a blanket category", "All spiritual practice of any kind", "Only mortification, while praising indulgence", "Nothing; the Buddha confirms the rumor exactly as reported"],
+         "correct": 0,
+         "expl": "A structured teaching, mischaracterized by the rumor as a blanket condemnation."},
+        {"q": "How many kinds of wealth-seeker does this discourse define, out of eight logically possible combinations?",
+         "opts": ["Seven realized combinations, each with its own exact praise/blame tally", "All eight combinations, evenly divided", "Only two, contrasted directly", "A single, universal type with no variation"],
+         "correct": 0,
+         "expl": "Scored across three factors: how wealth is acquired, self-enjoyment, and sharing."},
+        {"q": "What fourth distinction applies only to the most-praised wealth-seeker?",
+         "opts": ["Whether they enjoy the wealth attached and blind to its drawbacks, or unattached and understanding the escape from it", "Whether they are married or unmarried", "Their specific occupation", "Their age at the time of acquiring wealth"],
+         "correct": 0,
+         "expl": "A fourth praiseworthy ground, available only once the first three are already satisfied."},
+        {"q": "How does this discourse score the three mortifiers, and what remains true in every case?",
+         "opts": ["By whether their self-denial produces any skillful quality or attainment — but the mortification itself is a ground for criticism even in the best case", "Purely by how much physical suffering they endure", "The three mortifiers receive identical scores in all cases", "Mortification is never criticized in any of the three cases"],
+         "correct": 0,
+         "expl": "Confirming the Buddha's own opening rejection of self-mortification as inherently praiseworthy."},
+        {"q": "How does this reading guide handle the discourse's own combinatorial repetition?",
+         "opts": ["It quotes the genuinely distinct content once per category rather than reproducing every restated tally, confirmed complete against sn_check_coverage.py", "It reproduces every single permutation's own restated tally in full", "It skips the combinatorial sections entirely with no coverage at all", "It invents a simplified typology not found in the source"],
+         "correct": 0,
+         "expl": "The same principle already established at SN 40.10 for heavily repeated content."},
+    ],
+    marginalia=[
+        ("A rumor, corrected precisely", [
+            "not all asceticism condemned —",
+            "two named extremes, and a middle way named instead",
+        ]),
+        ("Seven kinds, out of eight possible", [
+            "acquisition, enjoyment, sharing —",
+            "three factors, scored in combination",
+        ]),
+        ("A fourth ground, for the best case only", [
+            "attached, or free of attachment —",
+            "one more distinction past the first three",
+        ]),
+        ("Even the best mortifier, still faulted once", [
+            "attainment reached, yet the self-denial itself —",
+            "remains a ground for criticism regardless",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn42.12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-42.11.html\">SN 42.11 &middot; With "
+        "Bhadraka</a> &mdash; already published on this site, the "
+        "previous discourse, whose own closing principle (teaching "
+        "what can be verified now) this discourse's own final "
+        "section echoes.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 42.13 — Pāṭaliyasutta
+# --------------------------------------------------------------------------- #
+page(
+    42, 13, "Pāṭaliya", "With Pāṭaliya",
+    vagga="Gāmaṇivagga",
+    meta_title="SN 42.13 — With Pāṭaliya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pāṭaliyasutta &mdash; closing Gāmaṇisaṃyutta with a "
+        "\"the Buddha is a deceiver\" accusation reasoned past, and "
+        "the safe-bet logic of ethical conduct applied to four "
+        "conflicting teachers. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Uttarakā, a town in the land of the Koliyans"),
+        ("Speakers", "Pāṭaliya, a chief, questioning the Buddha"),
+        ("Form", "An accusation reasoned past, then a personal story "
+                 "of doctrinal confusion resolved by a repeatable "
+                 "&ldquo;safe bet&rdquo; argument applied four times"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "closes the saṃyutta on its longest and most "
+                       "substantive discourse"),
+    ],
+    why=(
+        "This discourse closes Gāmaṇisaṃyutta with its longest and "
+        "most substantive content, confirmed only by reading the "
+        "full translation directly rather than assuming an early "
+        "impression of its length. It opens with a sharp reversal: "
+        "Pāṭaliya reports the accusation that &ldquo;the ascetic "
+        "Gotama knows deceit,&rdquo; worried this makes the Buddha "
+        "himself deceitful; the Buddha confirms the premise, then "
+        "shows the inference fails, using Pāṭaliya's own knowledge of "
+        "corrupt officers as a parallel he recognizes immediately. "
+        "The discourse's own real weight, though, lies in what "
+        "follows: Pāṭaliya describes four traveling teachers who once "
+        "stayed at his own guest house, each holding a flatly "
+        "contradictory doctrine about karma and the afterlife "
+        "&mdash; and confesses he has no way to know which, if any, "
+        "is true. The Buddha's own answer does not adjudicate between "
+        "the four; it shows that ethical conduct is the safe bet "
+        "regardless of which turns out correct, applying the "
+        "identical joy-to-immersion argument to each of the four "
+        "views in turn before this saṃyutta closes on its own "
+        "genuinely Sujato-translated colophon."
+    ),
+    guide=[
+        ("An accusation reasoned past, not merely denied", [
+            "The Buddha agrees he knows deceit, then shows the "
+            "accusation's own inference &mdash; that knowing implies "
+            "being &mdash; fails, using Pāṭaliya's own parallel "
+            "knowledge of corrupt officers, extended systematically "
+            "across all ten unwholesome courses of action.",
+        ]),
+        ("Two contrasting court scenes, one wrong view challenged",
+         [
+            "A killer garlanded and rewarded for killing a king's "
+            "enemy, and a killer executed for an identical act "
+            "against an ordinary person, are used to refute the "
+            "specific claim that all wrongdoing produces immediate, "
+            "visible suffering &mdash; the same worked example given "
+            "in full for killing, then repeated in compressed form "
+            "for stealing, sexual misconduct, and lying.",
+        ]),
+        ("Four teachers, four incompatible doctrines", [
+            "At Pāṭaliya's own guest house: one teacher denies any "
+            "moral consequence to action at all; a second affirms "
+            "the opposite in full; a third holds that no evil comes "
+            "even from mass violence, and no merit from generosity; a "
+            "fourth affirms the opposite of that too &mdash; four "
+            "flatly contradictory views on karma and the afterlife, "
+            "reported honestly as Pāṭaliya's own genuine confusion, "
+            "not resolved by argument for or against any one of them.",
+        ]),
+        ("The safe bet: ethical conduct wins regardless of which "
+         "view is true", [
+            "The Buddha's own resolution does not declare any of the "
+            "four teachers right or wrong; instead, he shows that a "
+            "noble disciple who has given up the ten unwholesome "
+            "courses of action comes out ahead under every one of the "
+            "four doctrines &mdash; if there is no afterlife, at "
+            "least no creature was harmed; if there is one, a good "
+            "rebirth follows &mdash; applying the identical reasoning "
+            "to each teacher's own view in turn.",
+        ]),
+        ("One argument, one refrain, repeated four times", [
+            "The identical psychological sequence &mdash; reflection, "
+            "joy, rapture, bodily tranquility, bliss, and immersion "
+            "&mdash; closes the application to each of the four "
+            "teachers' views without variation, confirming this is "
+            "one repeatable method of settling doubt, not four "
+            "separate arguments.",
+        ]),
+        ("This saṃyutta's own genuine close", [
+            "&ldquo;The Linked Discourses on chiefs are complete&rdquo; "
+            "is Sujato's own genuine translation of Gāmaṇisaṃyutta's "
+            "own closing colophon, following untranslated placeholder "
+            "segments this reading guide does not fabricate content "
+            "for, closing all 13 discourses of this saṃyutta at once.",
+        ]),
+    ],
+    terms=[
+        ("samaṇo gotamo māyaṁ jānāti", "&ldquo;the ascetic Gotama "
+             "knows deceit&rdquo; &mdash; the accusation this "
+             "discourse's own opening reasoning starts from, "
+             "confirmed rather than denied"),
+        ("dasa akusalā kammapathā", "&ldquo;the ten unwholesome "
+             "courses of action&rdquo; &mdash; the full list the "
+             "opening argument is extended across"),
+        ("cattāro satthāro nānādiṭṭhikā nānākhantikā nānārucikā",
+             "&ldquo;four teachers of different views, beliefs, and "
+             "opinions&rdquo; &mdash; the guests at Pāṭaliya's own "
+             "house whose contradictory doctrines prompt his "
+             "confusion"),
+        ("dhammanvayo samādhi", "&ldquo;immersion based on "
+             "understanding of principle&rdquo; &mdash; the Buddha's "
+             "own name for the repeatable method resolving Pāṭaliya's "
+             "doubt, applied identically to all four teachers' views"),
+        ("Cittasaṁyuttaṁ... Gāmaṇisaṁyuttaṁ samattaṁ", "this "
+             "saṃyutta's own genuinely Sujato-translated closing "
+             "line, &ldquo;The Linked Discourses on chiefs are "
+             "complete,&rdquo; closing all 13 discourses at once"),
+    ],
+    text_intro=("The complete discourse, condensing the repeated "
+        "stealing and sexual-misconduct court-scene cycles (already "
+        "given in full for killing) and the repeated joy-to-immersion "
+        "refrain (already given in full for the first teacher's own "
+        "view) to their genuinely distinct content, confirmed "
+        "complete against sn_check_coverage.py. The vagga-level "
+        "ordinal and uddāna, left untranslated in the Pali root, are "
+        "described rather than quoted above. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The accusation, reasoned past"),
+        ("p", "&sect;1", "sn42.13:1.1-4.10"),
+        ("h3", "A wrong view named, then tested against killing"),
+        ("p", "&sect;2", "sn42.13:5.1-8.14"),
+        ("h3", "The same test, compressed, for stealing, sexual "
+                "misconduct, and lying"),
+        ("p", "&sect;3", "sn42.13:9.1-14.20"),
+        ("h3", "Four teachers at Pāṭaliya's own guest house"),
+        ("p", "&sect;4", "sn42.13:15.1-20.2"),
+        ("h3", "The safe bet, applied to the first teacher's view in "
+                "full"),
+        ("p", "&sect;5", "sn42.13:21.1-23.13"),
+        ("h3", "The same argument, applied to the remaining three"),
+        ("p", "&sect;6", "sn42.13:24.1-26.17"),
+        ("h3", "The brahmavihārās extended, and the closing exchange"),
+        ("p", "&sect;7", "sn42.13:27.1-32.3"),
+        ("h3", "This saṃyutta's own genuine close"),
+        ("p", "&sect;8", "sn42.13:33.5"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha respond to the accusation that he \"knows deceit\"?",
+         "opts": ["He confirms it directly, then shows the accusation's own inference (that knowing implies being) fails", "He denies knowing anything about deceit", "He refuses to answer the question", "He accuses Pāṭaliya of lying"],
+         "correct": 0,
+         "expl": "Agreeing with the premise, then reasoning past the accusation rather than denying it."},
+        {"q": "What confuses Pāṭaliya about the four teachers who stayed at his guest house?",
+         "opts": ["They hold flatly contradictory doctrines about karma and the afterlife, with no way for him to know which is true", "They all agreed with each other completely", "They refused to discuss doctrine at all", "They were all later exposed as frauds"],
+         "correct": 0,
+         "expl": "A genuine, honestly reported confusion, not resolved by the Buddha declaring one teacher right and the others wrong."},
+        {"q": "How does the Buddha's own \"safe bet\" argument resolve Pāṭaliya's doubt?",
+         "opts": ["By showing ethical conduct benefits the disciple regardless of which of the four teachers' views turns out true", "By proving one specific teacher correct and the other three wrong", "By declaring all four teachers equally mistaken with no further guidance", "By avoiding the question of karma and the afterlife entirely"],
+         "correct": 0,
+         "expl": "The identical reasoning applied to each of the four contradictory views in turn."},
+        {"q": "What does this discourse's own closing colophon announce?",
+         "opts": ["\"The Linked Discourses on chiefs are complete\" — genuinely translated by Sujato, closing all 13 discourses of this saṃyutta", "The opening of a fourteenth discourse", "A repetition of an earlier discourse's own colophon", "Nothing; the discourse ends without any closing line"],
+         "correct": 0,
+         "expl": "This saṃyutta's own genuine close, following untranslated placeholder segments this reading guide describes rather than fabricates."},
+    ],
+    marginalia=[
+        ("An accusation, agreed with", [
+            "\"yes, I know deceit\" — no denial offered —",
+            "the argument turns on what follows from knowing",
+        ]),
+        ("Four teachers, one honest confusion", [
+            "contradictory doctrines, none provable —",
+            "Pāṭaliya's own doubt, reported plainly",
+        ]),
+        ("A bet safe under every outcome", [
+            "ethical conduct, whichever view is true —",
+            "the same argument, applied four times over",
+        ]),
+        ("Thirteen discourses, complete", [
+            "\"The Linked Discourses on chiefs\" —",
+            "genuinely translated, closing the saṃyutta itself",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn42.13/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-42.12.html\">SN 42.12 &middot; With "
+        "Rāsiya</a> &mdash; the previous discourse.",
+        '<a href="sn-45.8.html">SN 45.8 &middot; Analysis</a> '
         "&mdash; already published on this site, standing ahead of "
-        "this project's next saṃyutta, SN 42, not yet built.",
+        "this project's next saṃyutta, SN 43, not yet built.",
     ],
 )
