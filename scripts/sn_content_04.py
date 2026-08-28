@@ -196,6 +196,40 @@ INDEX_EXTRA = [
 # other lists of the same name).
 # --------------------------------------------------------------------------- #
 
+# --------------------------------------------------------------------------- #
+# SN 39 (Sāmaṇḍakasaṃyutta, "Linked Discourses with Sāmaṇḍaka") is
+# this book's fifth saṃyutta, and its own bilara-data encoding is
+# unlike anything else built on this site so far: only TWO files
+# exist for its own full 16 discourses, confirmed by listing
+# bilara-data's own directory directly rather than assuming a
+# one-file-per-discourse pattern from SN 38's own precedent.
+# sn39.1-15_root-pli-ms.json spells out discourse 1 (the
+# extinguishment question) in full -- word for word identical to SN
+# 38.1 apart from the setting (Ukkacelā on the Ganges, in the land of
+# the Vajjis, rather than Nālakagāmaka in Magadha) and the wanderer's
+# own name (Sāmaṇḍaka rather than Jambukhādaka) -- then closes with a
+# single editorial cross-reference covering discourses 2-15 with no
+# independent wording of their own at all: "(Yathā
+# jambukhādakasaṁyuttaṁ, tathā vitthāretabbaṁ.)", genuinely rendered
+# by Sujato's own English as "(Tell in full as the Linked Discourses
+# with Jambukhādaka.)" sn39.16_root-pli-ms.json stands alone,
+# word-for-word identical to SN 38.16's own "what's hard to do"
+# dialogue apart from this saṃyutta's own closing colophon, and its
+# own uddāna is itself cross-referenced back to SN 38's rather than
+# restated ("Purimakasadisaṁ uddānaṁ", "the uddāna is the same as the
+# previous one's"). SuttaCentral's own blurb for SN 38 predicted
+# exactly this -- "practically identical to the next, differing only
+# in the name of the wanderer" -- confirmed here by direct reading of
+# both bilara-data files, not merely repeated from that blurb. This
+# project builds exactly two pages for this saṃyutta's own 16
+# discourses (sn-39.1-15 via page_range(), sn-39.16 standalone),
+# matching bilara-data's own file count precisely; the reading guide
+# for sn-39.1-15 maps each of its own implied discourses 2-15 to its
+# already-published SN 38 counterpart rather than fabricating
+# fourteen independent English translations the source itself never
+# provides.
+# --------------------------------------------------------------------------- #
+
 PAGES = []
 
 
@@ -43520,8 +43554,382 @@ page(
         '<a href="sn-38.1.html">SN 38.1 &middot; A Question About '
         "Extinguishment</a> &mdash; already published on this site, "
         "opening the catechism template this discourse departs from.",
+        '<a href="sn-39.1-15.html">SN 39.1&ndash;15 &middot; With '
+        "Sāmaṇḍaka on Extinguishment</a> &mdash; the next page, "
+        "opening this project's next saṃyutta, SN 39 "
+        "(Sāmaṇḍakasaṃyutta), which SuttaCentral's own blurb calls "
+        "\"practically identical\" to this one.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 39.1-15 — Sāmaṇḍakasutta
+# --------------------------------------------------------------------------- #
+page_range(
+    39, 1, 15, "Sāmaṇḍaka", "With Sāmaṇḍaka on Extinguishment",
+    vagga="Sāmaṇḍakavagga",
+    meta_title="SN 39.1–15 — With Sāmaṇḍaka on Extinguishment | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 39.1–15 &mdash; bilara-data's own most compressed "
+        "page yet, spelling out only the extinguishment question in "
+        "full and cross-referencing fourteen more discourses directly "
+        "to their published SN 38 counterparts. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Ukkacelā, on the bank of the Ganges river, in "
+                     "the land of the Vajjis"),
+        ("Speakers", "The wanderer Sāmaṇḍaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "One discourse (extinguishment) spelled out in "
+                 "full, followed by the source's own single editorial "
+                 "cross-reference covering fourteen more"),
+        ("Length", "~1 minute to read for this page; the fourteen "
+                     "cross-referenced discourses are already "
+                     "published in full at their own SN 38 pages"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in its own wording, though its "
+                       "compression is worth understanding precisely"),
+    ],
+    why=(
+        "This single page covers all of SN 39.1 through SN 39.15 "
+        "&mdash; bilara-data's own file boundary, not an editorial "
+        "choice made by this project. Sāmaṇḍakasaṃyutta is "
+        "bilara-data's own most compressed encoding built on this "
+        "site so far: only the very first discourse (the same "
+        "extinguishment question already answered at SN 38.1) is "
+        "spelled out in full, here in a different setting "
+        "(Ukkacelā on the Ganges, in the land of the Vajjis, rather "
+        "than Nālakagāmaka in Magadha) and with a different "
+        "wanderer's name (Sāmaṇḍaka rather than Jambukhādaka). "
+        "Everything from SN 39.2 through SN 39.15 is covered by a "
+        "single closing editorial instruction in the source text "
+        "itself, genuinely translated by Sujato as: &ldquo;Tell in "
+        "full as the Linked Discourses with Jambukhādaka.&rdquo; This "
+        "confirms, by direct reading of both bilara-data files rather "
+        "than by repeating SuttaCentral's own blurb, that this "
+        "saṃyutta is deliberately built as a name-swapped repetition "
+        "of SN 38, not as independently composed content. This "
+        "project does not fabricate fourteen separate English "
+        "translations the source itself never provides; instead, the "
+        "reading guide below maps each of the fourteen implied "
+        "discourses to its own already-published SN 38 counterpart, "
+        "linked in the further-reading list."
+    ),
+    guide=[
+        ("One frame, two settings and two names", [
+            "Sāriputta staying near Ukkacelā on the Ganges, in the "
+            "land of the Vajjis, rather than near Nālakagāmaka in "
+            "Magadha; the wanderer Sāmaṇḍaka rather than "
+            "Jambukhādaka. Apart from these two changes, the dialogue "
+            "&mdash; the definition of extinguishment as the ending "
+            "of greed, hate, and delusion, the confirmation that a "
+            "path exists, and the noble eightfold path spelled out in "
+            "full &mdash; is word for word identical to SN 38.1, "
+            "confirmed by direct comparison rather than assumed from "
+            "the two saṃyuttas' shared reputation.",
+        ]),
+        ("An instruction, not a gap this project is filling", [
+            "&ldquo;Tell in full as the Linked Discourses with "
+            "Jambukhādaka&rdquo; is itself part of Sujato's own "
+            "genuine English translation, quoted directly in the "
+            "text below &mdash; not a placeholder this project has "
+            "invented to paper over missing content. The compilers "
+            "of the Pali canon themselves chose to abbreviate this "
+            "saṃyutta this way, and bilara-data preserves that choice "
+            "exactly as a single file covering fifteen discourse "
+            "numbers.",
+        ]),
+        ("Fourteen discourses, mapped rather than invented", [
+            "SN 39.2 corresponds to SN 38.2 (perfection), SN 39.3 to "
+            "SN 38.3 (principled speech), and so on in sequence "
+            "through SN 39.15 corresponding to SN 38.15 (substantial "
+            "reality) &mdash; each already published on this site in "
+            "full, with its own reading guide, terms, and quiz. The "
+            "further-reading list below links each of the fourteen "
+            "directly, rather than repeating fourteen already-written "
+            "reading guides on this single page.",
+        ]),
+    ],
+    terms=[
+        ("nibbānaṁ", "&ldquo;extinguishment&rdquo; &mdash; this "
+             "discourse's own subject term, identical to SN 38.1's "
+             "own"),
+        ("rāgakkhayo dosakkhayo mohakkhayo", "&ldquo;the ending of "
+             "greed, hate, and delusion&rdquo; &mdash; the identical "
+             "defining phrase already given at SN 38.1"),
+        ("ariyo aṭṭhaṅgiko maggo", "&ldquo;the noble eightfold "
+             "path&rdquo; &mdash; spelled out in full here, word for "
+             "word identical to SN 38.1's own recitation"),
+        ("sāmaṇḍako paribbājako", "&ldquo;the wanderer "
+             "Sāmaṇḍaka&rdquo; &mdash; this saṃyutta's own "
+             "interlocutor, distinct from SN 38's Jambukhādaka but "
+             "otherwise playing the identical role"),
+        ("Yathā jambukhādakasaṁyuttaṁ, tathā vitthāretabbaṁ",
+             "&ldquo;as with the Linked Discourses with Jambukhādaka, "
+             "so it should be expanded&rdquo; &mdash; the source's "
+             "own untranslated Pali editorial instruction, matched by "
+             "Sujato's own genuine English rendering quoted in the "
+             "text below"),
+    ],
+    text_intro=("The complete discourse actually spelled out in the "
+        "source (SN 39.1's own full extinguishment dialogue), "
+        "together with the source's own genuine editorial "
+        "cross-reference covering SN 39.2 through SN 39.15. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn39.1-15:1.1-1.3"),
+        ("p", "&sect;2", "sn39.1-15:2.1-2.6"),
+        ("p", "&sect;3", "sn39.1-15:3.1-3.6"),
+        ("h3", "The source's own cross-reference for SN 39.2–15"),
+        ("p", "&sect;4", "sn39.1-15:4.1"),
+    ],
+    quiz=[
+        {"q": "How many of SN 39's own 16 discourses does this single page cover, and why?",
+         "opts": ["SN 39.1 through 39.15, because bilara-data itself encodes them as a single file with only the first spelled out in full", "Only SN 39.1; the remaining fourteen are covered by a separate page each", "All 16, since bilara-data spells every discourse out individually", "Only SN 39.1 through 39.5"],
+         "correct": 0,
+         "expl": "Bilara-data's own file boundary, confirmed directly, not an editorial choice made by this project."},
+        {"q": "What differs between this discourse's own frame and SN 38.1's own?",
+         "opts": ["The setting (Ukkacelā/Vajjis instead of Nālakagāmaka/Magadha) and the wanderer's name (Sāmaṇḍaka instead of Jambukhādaka); everything else is word for word identical", "The entire dialogue is rewritten with different content", "The definition of extinguishment itself differs", "The eightfold path is replaced with a different path"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison between the two discourses' own bilara-data files."},
+        {"q": "What does the source's own closing instruction for SN 39.2-15 actually say?",
+         "opts": ["\"Tell in full as the Linked Discourses with Jambukhādaka\" — Sujato's own genuine translation of the source's own editorial note", "Nothing; the segments are simply left blank with no instruction", "\"These discourses do not exist in this saṃyutta\"", "A list of fourteen entirely new topics"],
+         "correct": 0,
+         "expl": "Part of Sujato's own genuine English translation, not a gap this project is filling in."},
+        {"q": "How does this reading guide handle SN 39.2-15's own implied content?",
+         "opts": ["It maps each of the fourteen to its own already-published SN 38 counterpart, linked in the further-reading list", "It invents fourteen new, independent English translations", "It ignores the fourteen discourses entirely with no mention of them", "It merges all fourteen into a single new discourse"],
+         "correct": 0,
+         "expl": "Rather than duplicating fourteen already-written reading guides on a single page."},
+        {"q": "What role does Sāmaṇḍaka play in this saṃyutta?",
+         "opts": ["The wanderer questioning Venerable Sāriputta, this saṃyutta's own interlocutor", "A senior mendicant instructing Sāriputta", "A king consulting the Buddha directly", "A character who never actually appears in the text"],
+         "correct": 0,
+         "expl": "Playing the identical structural role Jambukhādaka plays throughout SN 38."},
+    ],
+    marginalia=[
+        ("One file, fifteen discourses", [
+            "bilara-data's own most compressed page yet —",
+            "only the first spelled out in full",
+        ]),
+        ("A different river, the same question", [
+            "Ukkacelā on the Ganges, not Nālakagāmaka —",
+            "extinguishment defined identically all the same",
+        ]),
+        ("An instruction, not a gap", [
+            "“tell in full as with Jambukhādaka” —",
+            "the source's own genuine words, not this project's guess",
+        ]),
+        ("Fourteen discourses, already published", [
+            "mapped to their own SN 38 counterparts —",
+            "not invented twice for two saṃyuttas",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn39.1-15/en/sujato" target="_blank" '
+        'rel="noopener">Full Sujato translation on SuttaCentral</a> '
+        "&mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-38.2.html">SN 38.2 &middot; A Question About '
+        "Perfection</a> &mdash; this saṃyutta's own SN 39.2 "
+        "counterpart, word for word identical apart from the "
+        "wanderer's name.",
+        '<a href="sn-38.3.html">SN 38.3 &middot; Principled '
+        "Speech</a> &mdash; this saṃyutta's own SN 39.3 counterpart.",
+        "<a href=\"sn-38.4.html\">SN 38.4 &middot; What's the "
+        "Goal?</a> &mdash; this saṃyutta's own SN 39.4 counterpart.",
+        '<a href="sn-38.5.html">SN 38.5 &middot; Solace</a> '
+        "&mdash; this saṃyutta's own SN 39.5 counterpart.",
+        '<a href="sn-38.6.html">SN 38.6 &middot; Ultimate '
+        "Solace</a> &mdash; this saṃyutta's own SN 39.6 counterpart.",
+        '<a href="sn-38.7.html">SN 38.7 &middot; A Question About '
+        "Feeling</a> &mdash; this saṃyutta's own SN 39.7 counterpart.",
+        '<a href="sn-38.8.html">SN 38.8 &middot; A Question About '
+        "Defilements</a> &mdash; this saṃyutta's own SN 39.8 "
+        "counterpart.",
+        '<a href="sn-38.9.html">SN 38.9 &middot; A Question About '
+        "Ignorance</a> &mdash; this saṃyutta's own SN 39.9 "
+        "counterpart.",
+        '<a href="sn-38.10.html">SN 38.10 &middot; A Question '
+        "About Craving</a> &mdash; this saṃyutta's own SN 39.10 "
+        "counterpart.",
+        '<a href="sn-38.11.html">SN 38.11 &middot; A Question '
+        "About Floods</a> &mdash; this saṃyutta's own SN 39.11 "
+        "counterpart.",
+        '<a href="sn-38.12.html">SN 38.12 &middot; A Question '
+        "About Grasping</a> &mdash; this saṃyutta's own SN 39.12 "
+        "counterpart.",
+        '<a href="sn-38.13.html">SN 38.13 &middot; A Question '
+        "About States of Existence</a> &mdash; this saṃyutta's own "
+        "SN 39.13 counterpart.",
+        '<a href="sn-38.14.html">SN 38.14 &middot; A Question '
+        "About Suffering</a> &mdash; this saṃyutta's own SN 39.14 "
+        "counterpart.",
+        '<a href="sn-38.15.html">SN 38.15 &middot; A Question '
+        "About Substantial Reality</a> &mdash; this saṃyutta's own "
+        "SN 39.15 counterpart, immediately preceding this page's own "
+        "next discourse, SN 39.16.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 39.16 — Dukkarasutta
+# --------------------------------------------------------------------------- #
+page(
+    39, 16, "Dukkara", "Hard to Do",
+    vagga="Sāmaṇḍakavagga",
+    meta_title="SN 39.16 — Hard to Do | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dukkarasutta &mdash; word for word identical to SN "
+        "38.16, closing Sāmaṇḍakasaṃyutta with its own genuinely "
+        "translated colophon. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues as dialogue from this "
+                     "saṃyutta's own setting at SN 39.1&ndash;15 "
+                     "(Ukkacelā, on the Ganges, in the land of the "
+                     "Vajjis)"),
+        ("Speakers", "The wanderer Sāmaṇḍaka questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "The identical four-step chained dialogue already "
+                 "given in full at SN 38.16"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes both the vagga and the entire "
+                       "saṃyutta at once"),
+    ],
+    why=(
+        "This discourse closes Sāmaṇḍakasaṃyutta with the exact same "
+        "four-step chained dialogue already given in full at SN "
+        "38.16 &mdash; going forth, then finding satisfaction, then "
+        "practicing in line with the teaching, then arahantship "
+        "&ldquo;not long&rdquo; away &mdash; confirmed word for word "
+        "identical by direct comparison, apart from this saṃyutta's "
+        "own closing colophon: &ldquo;The Linked Discourses with "
+        "Sāmaṇḍaka are complete.&rdquo; This confirms, discourse by "
+        "discourse, that this saṃyutta's own compression pattern "
+        "(identical content, a different wanderer's name) extends "
+        "through to its very last page &mdash; and this saṃyutta "
+        "does not even bother restating its own summary verse, "
+        "cross-referencing that too directly back to SN 38's own."
+    ),
+    guide=[
+        ("Word for word, confirmed by direct comparison", [
+            "Every line of this discourse's own dialogue &mdash; the "
+            "chain from going forth through finding satisfaction, "
+            "practicing in line with the teaching, and finally "
+            "arahantship &ldquo;not long&rdquo; away &mdash; matches "
+            "SN 38.16's own wording exactly, confirmed by reading "
+            "both bilara-data files directly rather than assumed "
+            "from either saṃyutta's own reputation.",
+        ]),
+        ("A summary borrowed, not repeated", [
+            "Where SN 38.16 spelled out its own full uddāna (left "
+            "untranslated but genuinely present in the Pali root), "
+            "this discourse's own closing note instead says "
+            "&ldquo;Purimakasadisaṁ uddānaṁ&rdquo; &mdash; "
+            "&ldquo;the uddāna is the same as the previous "
+            "one's&rdquo; &mdash; deferring even its own summary "
+            "verse to SN 38's, a second-order compression this "
+            "saṃyutta's own opening page did not need.",
+        ]),
+        ("A different name, closing the same chain", [
+            "&ldquo;The Linked Discourses with Sāmaṇḍaka are "
+            "complete&rdquo; replaces SN 38.16's own &ldquo;The "
+            "Linked Discourses with Jambukhādaka are complete&rdquo; "
+            "&mdash; the one line in either discourse's own closing "
+            "material that could not simply be cross-referenced, "
+            "since each saṃyutta must name itself.",
+        ]),
+    ],
+    terms=[
+        ("pabbajjā... dukkarā", "&ldquo;going forth is hard to "
+             "do&rdquo; &mdash; the first link in this discourse's "
+             "own four-stage chain, identical to SN 38.16's own"),
+        ("dhammānudhammappaṭipatti dukkarā", "&ldquo;practicing in "
+             "line with the teaching is hard to do&rdquo; &mdash; "
+             "the third and hardest link, identical to SN 38.16's own"),
+        ("naciraṁ", "&ldquo;not long&rdquo; &mdash; Sāriputta's own "
+             "answer to how long arahantship takes once that third "
+             "stage is genuinely reached"),
+        ("Purimakasadisaṁ uddānaṁ", "&ldquo;the uddāna is the same "
+             "as the previous one's&rdquo; &mdash; this saṃyutta's "
+             "own second-order cross-reference, deferring even its "
+             "own summary verse back to SN 38's"),
+        ("Sāmaṇḍakasaṁyuttaṁ samattaṁ", "&ldquo;The Linked "
+             "Discourses with Sāmaṇḍaka are complete&rdquo; &mdash; "
+             "this saṃyutta's own genuinely Sujato-translated closing "
+             "line, the one element of this discourse's own close "
+             "that could not be cross-referenced"),
+    ],
+    text_intro=("The complete discourse, together with this "
+        "saṃyutta's own genuinely translated final line. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn39.16:1.1-1.8"),
+        ("p", "&sect;2", "sn39.16:1.11"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own dialogue compare to SN 38.16's own?",
+         "opts": ["Word for word identical, confirmed by direct comparison, apart from the closing colophon", "Entirely different content on the same general theme", "Shorter, omitting the middle two stages of the chain", "Longer, adding a fifth stage to the chain"],
+         "correct": 0,
+         "expl": "The same four-stage chain, confirmed by reading both bilara-data files directly."},
+        {"q": "What does \"Purimakasadisaṁ uddānaṁ\" mean, and what does it imply?",
+         "opts": ["\"The uddāna is the same as the previous one's\" — this saṃyutta doesn't even restate its own summary verse, deferring to SN 38's", "\"This is an entirely new summary verse\" — unique content not found in SN 38", "A title for this specific discourse", "An instruction to skip this discourse entirely"],
+         "correct": 0,
+         "expl": "A second-order compression: even the closing uddāna is cross-referenced rather than restated."},
+        {"q": "What is the one element of this discourse's own close that could not simply be cross-referenced to SN 38.16?",
+         "opts": ["The saṃyutta's own name in the closing colophon — \"The Linked Discourses with Sāmaṇḍaka are complete\"", "The eightfold path recitation", "The setting description", "The wanderer's opening question"],
+         "correct": 0,
+         "expl": "Each saṃyutta must name itself in its own closing line, even when everything else is shared."},
+        {"q": "How long does Sāriputta say arahantship takes once a mendicant genuinely practices in line with the teaching?",
+         "opts": ["Not long", "A very long time, measured in lifetimes", "The discourse leaves this question unanswered", "Exactly seven days"],
+         "correct": 0,
+         "expl": "The same reassurance as SN 38.16's own closing exchange."},
+        {"q": "What does this page confirm about Sāmaṇḍakasaṃyutta's own overall structure?",
+         "opts": ["Exactly two pages cover all 16 discourses, matching bilara-data's own file count precisely", "Sixteen separate pages, one per discourse, matching SN 38's own structure", "This saṃyutta has no defined ending at all", "A third page exists beyond this one and SN 39.1-15"],
+         "correct": 0,
+         "expl": "Confirmed directly by counting bilara-data's own files: sn39.1-15 and sn39.16, nothing more."},
+    ],
+    marginalia=[
+        ("The same chain, once more", [
+            "going forth, then satisfaction, then practice —",
+            "word for word as SN 38.16",
+        ]),
+        ("A summary borrowed, not repeated", [
+            "“the uddāna is the same as the previous” —",
+            "not even its own verse, deferred to SN 38",
+        ]),
+        ("A different name, the same close", [
+            "“Sāmaṇḍakasaṁyuttaṁ samattaṁ” —",
+            "genuinely translated, closing this saṃyutta too",
+        ]),
+        ("Two pages, sixteen discourses", [
+            "this saṃyutta's own full scope, confirmed —",
+            "matching bilara-data's file count exactly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn39.16/en/sujato" target="_blank" '
+        'rel="noopener">Full Sujato translation on SuttaCentral</a> '
+        "&mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-38.16.html">SN 38.16 &middot; A Question '
+        "About What's Hard to Do</a> &mdash; already published on "
+        "this site, this discourse's own word-for-word counterpart.",
+        '<a href="sn-39.1-15.html">SN 39.1&ndash;15 &middot; With '
+        "Sāmaṇḍaka on Extinguishment</a> &mdash; the previous page, "
+        "opening this saṃyutta.",
         '<a href="sn-41.1.html">SN 41.1 &middot; The Fetter</a> '
         "&mdash; already published on this site, standing ahead of "
-        "this project's next saṃyutta, SN 39, not yet built.",
+        "this project's next saṃyutta, SN 40, not yet built.",
     ],
 )
