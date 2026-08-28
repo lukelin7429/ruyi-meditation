@@ -8563,4 +8563,1401 @@ page_range(
         "Dutiyagaṅgāpeyyālavagga (SN 45.103&ndash;138), not yet "
         "built.",
     ],
+)# --------------------------------------------------------------------------- #
+# Dutiyagaṅgāpeyyālavagga (SN 45.103-138, "The Chapter of Abbreviated
+# Texts on the Ganges, Part Two") is this saṃyutta's own tenth and
+# largest vagga, confirmed by direct reading to reuse Gaṅgāpeyyālavagga's
+# own exact river-simile structure (five great rivers, each "sloping
+# east" or "sloping to the ocean") but run through three full times
+# rather than once, each of the three repetitions closing with a
+# genuinely distinct formula, confirmed by direct comparison rather
+# than assumed from the preceding vagga's own single-formula
+# structure: Set 1 (SN 45.103-114) closes "culminating in the removal
+# of greed, hate, and delusion" (the alternate formula this project
+# has already met closing the second round of Sūriya-, Eka-, and
+# Dutiyaekadhammapeyyālavagga, confirming this project's own earlier
+# prediction from Gaṅgāpeyyālavagga's own uddāna); Set 2 (SN
+# 45.115-126) closes with a genuinely new formula, "whose objective,
+# destination, and culmination is freedom from death" (amata); Set 3
+# (SN 45.127-138) closes with a third, self-referential formula --
+# "which slants, slopes, and inclines to extinguishment" itself,
+# applied recursively to each of the eightfold path's own eight
+# factors. 36 discourses total (3 sets x 12), twelve bilara-data
+# files (six individual openers, six merged five-discourse blocks).
+# Unlike Gaṅgāpeyyālavagga's own asymmetric treatment (where the first
+# round's own collective river-statement received a separate, full
+# discourse while the second round's own equivalent was compressed
+# into a merged file), every one of this vagga's own six merged files
+# folds its own collective statement in alongside the four individual
+# rivers, confirmed by reading all six merged files' own raw keys
+# directly -- a further, simpler structural evolution, not the
+# original vagga's own asymmetry repeated.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 45.103 — Pācīnaninnasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 103, "Pācīnaninna", "Slanting East",
+    vagga="Dutiyagaṅgāpeyyālavagga",
+    meta_title="SN 45.103 — Slanting East | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pācīnaninnasutta &mdash; reopening the Ganges simile "
+        "with a genuinely new closing formula, confirming this "
+        "saṃyutta's own earlier prediction. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical river simile as SN 45.91, with a "
+                 "genuinely different closing formula"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, confirms a prior prediction"),
+    ],
+    why=(
+        "This discourse opens this saṃyutta's own tenth and largest "
+        "vagga by reusing the Ganges simile exactly as SN 45.91 gave "
+        "it, but closing with &ldquo;culminating in the removal of "
+        "greed, hate, and delusion&rdquo; rather than SN 45.91's own "
+        "&ldquo;relying on seclusion... ripening as letting "
+        "go&rdquo; &mdash; confirming, by direct reading, the earlier "
+        "prediction this project made from Gaṅgāpeyyālavagga's own "
+        "closing uddāna."
+    ),
+    guide=[
+        ("A prediction confirmed, then exceeded", [
+            "Gaṅgāpeyyālavagga's own uddāna called itself &ldquo;the "
+            "first set of twelve on 'relying on seclusion,'&rdquo; "
+            "suggesting a second set with the alternate formula might "
+            "follow &mdash; confirmed exactly here, but this vagga in "
+            "fact contains not one but two further sets (36 "
+            "discourses, three sets of twelve total), a fuller "
+            "structure than the earlier prediction anticipated.",
+        ]),
+        ("The same simile, a genuinely new closing", [
+            "The river's own image and the eightfold path's own "
+            "definition are unchanged from SN 45.91; only the "
+            "closing clause differs, confirmed by direct comparison "
+            "&mdash; the same formula this project already met "
+            "closing the second half of Sūriya-, Eka-, and "
+            "Dutiyaekadhammapeyyālavagga.",
+        ]),
+    ],
+    terms=[
+        ("gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā", "&ldquo;the "
+             "Ganges river slants, slopes, and inclines to the "
+             "east&rdquo; &mdash; the identical opening image as SN "
+             "45.91's own"),
+        ("rāgavinayapariyosānaṁ dosavinayapariyosānaṁ mohavinayapariyosānaṁ",
+             "&ldquo;culminating in the removal of greed, hate, and "
+             "delusion&rdquo; &mdash; this discourse's own closing "
+             "formula, opening this vagga's own first set of twelve"),
+        ("nibbānaninno hoti nibbānapoṇo nibbānapabbhāro", "&ldquo;slants, "
+             "slopes, and inclines to extinguishment&rdquo; &mdash; "
+             "unchanged from SN 45.91's own application to a "
+             "mendicant's own development"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, "
+             "unchanged in definition across all three sets of this "
+             "vagga"),
+        ("dutiyagaṅgāpeyyālavaggo", "this vagga's own name, "
+             "confirming it as the second Ganges-simile chapter, "
+             "distinct from Gaṅgāpeyyālavagga itself"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.103:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse confirm about Gaṅgāpeyyālavagga's own uddāna prediction?",
+         "opts": ["The predicted alternate closing formula does appear here, though this vagga contains an even fuller structure than anticipated", "The prediction was entirely wrong", "No such prediction was ever made", "The prediction was about a completely unrelated topic"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — but this vagga in fact contains three sets of twelve, not merely the one additional set predicted."},
+        {"q": "What closing formula does this discourse use?",
+         "opts": ["\"Culminating in the removal of greed, hate, and delusion\"", "\"Relying on seclusion... ripening as letting go\"", "\"Whose objective is freedom from death\"", "A self-referential extinguishment formula"],
+         "correct": 0,
+         "expl": "Opening this vagga's own first set of twelve; two more distinct formulas will follow in this vagga's own remaining sets."},
+        {"q": "What stays unchanged from SN 45.91?",
+         "opts": ["The river's own image and the eightfold path's own definition", "Nothing — every element differs", "Only the setting", "The closing formula"],
+         "correct": 0,
+         "expl": "Only the closing clause differs, confirmed by direct comparison."},
+    ],
+    marginalia=[
+        ("A prediction, confirmed", [
+            "the alternate formula, as guessed —",
+            "but a fuller structure than expected",
+        ]),
+        ("The same river, a new closing", [
+            "east, as before —",
+            "greed, hate, delusion, now removed",
+        ]),
+        ("Three sets, not just two", [
+            "this vagga's own first of three —",
+            "two more distinct formulas still to come",
+        ]),
+        ("The largest vagga in this saṃyutta", [
+            "36 discourses, 12 pages —",
+            "three sets of twelve, confirmed structurally",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.103/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.98-102.html\">SN 45.98&ndash;102 &middot; "
+        "Five Discourses on Slanting to the Ocean</a> &mdash; the "
+        "previous page, closing Gaṅgāpeyyālavagga.",
+        "<a href=\"sn-45.104-108.html\">SN 45.104&ndash;108 "
+        "&middot; Four Discourses on Slanting East, Etc.</a> "
+        "&mdash; the next page.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.104-108 — Five Discourses on Sloping to the East
+# --------------------------------------------------------------------------- #
+page_range(
+    45, 104, 108, "Pācīnaninna", "Four Discourses on Slanting East, Etc.",
+    vagga="Dutiyagaṅgāpeyyālavagga",
+    meta_title="SN 45.104–108 — Four Discourses on Slanting East, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 45.104–108 — four more rivers plus this vagga's own first "
+        "collective statement, all folded into one merged file. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN 45.103)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Five discourses merged under per-discourse sub-"
+                 "prefixes, confirmed by reading the raw file "
+                 "directly -- the same encoding style as SN 43.14-43, "
+                 "not the single-prefix style Gaṅgāpeyyālavagga's own "
+                 "merged pages used"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "five short entries, no new structure"),
+    ],
+    why=(
+        "Four more rivers (Yamunā, Aciravatī, Sarabhū, Mahī) plus "
+        "this vagga's own first collective statement (all five "
+        "rivers named together) are folded into a single merged "
+        "file, confirmed by direct reading to use per-discourse "
+        "sub-prefixes &mdash; a different bilara-data encoding style "
+        "than Gaṅgāpeyyālavagga's own matching pages used, and a "
+        "genuine structural simplification: the collective statement "
+        "sits inside this merged file rather than receiving its own "
+        "separate discourse, for every one of this vagga's own six "
+        "rounds."
+    ),
+    guide=[
+        ("Five entries, individually prefixed", [
+            "Confirmed by reading this merged file's own raw keys "
+            "directly: each of the five discourses (SN "
+            "45.104&ndash;108) keeps its own uid prefix, matching "
+            "this project's own earlier encounter with this encoding "
+            "style at SN 43.14-43, not the single continuous "
+            "prefix Gaṅgāpeyyālavagga's own merged pages used.",
+        ]),
+        ("The collective statement, folded in this time", [
+            "SN 45.108 (&ldquo;all the great rivers&rdquo;) sits "
+            "inside this same merged file alongside the four "
+            "individual rivers, confirmed by direct reading &mdash; "
+            "unlike Gaṅgāpeyyālavagga's own first round, where the "
+            "matching collective statement (SN 45.96) received a "
+            "separate, full discourse of its own.",
+        ]),
+    ],
+    terms=[
+        ("yamunā nadī", "the Yamunā river, the first of four "
+             "individual rivers in this merged run"),
+        ("aciravatī nadī", "the Aciravatī river, the second"),
+        ("sarabhū nadī", "the Sarabhū river, the third"),
+        ("mahī nadī", "the Mahī river, the fourth"),
+        ("sabbā tā mahānadiyo", "&ldquo;all the great rivers&rdquo; "
+             "&mdash; this run's own fifth and last entry, the "
+             "collective statement folded in here rather than given "
+             "its own separate discourse"),
+    ],
+    text_intro=("Every genuinely translated fragment in this merged "
+        "file, quoted in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "45.104 &mdash; Yamunā", "sn45.104"),
+        ("p", "45.105 &mdash; Aciravatī", "sn45.105"),
+        ("p", "45.106 &mdash; Sarabhū", "sn45.106"),
+        ("p", "45.107 &mdash; Mahī", "sn45.107"),
+        ("p", "45.108 &mdash; all the great rivers", "sn45.108"),
+    ],
+    quiz=[
+        {"q": "What encoding style does this merged file use, confirmed by reading its own raw keys?",
+         "opts": ["Per-discourse sub-prefixes, matching SN 43.14-43's own style rather than Gaṅgāpeyyālavagga's own", "The identical single-prefix style as Gaṅgāpeyyālavagga's own", "No prefixes at all", "A completely undocumented, unique encoding"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — bilara-data's own merged files are not uniform in their own internal structure."},
+        {"q": "How does this file's own treatment of the collective river statement differ from Gaṅgāpeyyālavagga's own first round?",
+         "opts": ["It is folded into this same merged file, rather than receiving its own separate full discourse", "It receives even fuller treatment than before", "It is omitted entirely", "It is identical in every respect"],
+         "correct": 0,
+         "expl": "A genuine structural simplification confirmed across all six of this vagga's own merged rounds."},
+        {"q": "How many rivers does this merged page name individually, before the collective statement?",
+         "opts": ["Four", "Five", "Two", "None — only the collective statement appears"],
+         "correct": 0,
+         "expl": "Yamunā, Aciravatī, Sarabhū, and Mahī, followed by the collective fifth entry."},
+    ],
+    marginalia=[
+        ("A different encoding, confirmed", [
+            "per-discourse prefixes this time —",
+            "not Gaṅgāpeyyāla's own single-prefix style",
+        ]),
+        ("The collective statement, folded in", [
+            "no separate discourse this time —",
+            "a structural simplification, confirmed",
+        ]),
+        ("Four rivers, then all five together", [
+            "Yamunā through Mahī —",
+            "then the collective closing entry",
+        ]),
+        ("This vagga's own first round complete", [
+            "six discourses, one closing formula —",
+            "the ocean round follows next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.104-108/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.103.html\">SN 45.103 &middot; Slanting "
+        "East</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.109.html\">SN 45.109 &middot; Slanting to "
+        "the Ocean</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.109 — Samuddaninnasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 109, "Samuddaninna", "Slanting to the Ocean",
+    vagga="Dutiyagaṅgāpeyyālavagga",
+    meta_title="SN 45.109 — Slanting to the Ocean | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samuddaninnasutta &mdash; opening the ocean-bound half "
+        "of this vagga's own first set of twelve. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The full template restored, opening this set's own "
+                 "ocean-bound half"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, opens this set's own second half"),
+    ],
+    why=(
+        "The Ganges river returns, now sloping to the ocean rather "
+        "than the east, closing with the identical &ldquo;removal of "
+        "greed, hate, and delusion&rdquo; formula as SN 45.103's own "
+        "&mdash; confirmed by direct comparison, the closing formula "
+        "belongs to the set as a whole, not merely to the "
+        "&ldquo;east&rdquo; half of it."
+    ),
+    guide=[
+        ("The closing formula stays with the set, not the direction", [
+            "SN 45.91-96/97-102 (Gaṅgāpeyyālavagga's own set) shared "
+            "one formula across both directions; this discourse "
+            "confirms the same pattern holds within each of this "
+            "vagga's own three sets &mdash; the closing formula is "
+            "fixed per set of twelve, not per direction, confirmed by "
+            "direct reading of this discourse's own full text.",
+        ]),
+    ],
+    terms=[
+        ("gaṅgā nadī samuddaninnā samuddapoṇā samuddapabbhārā",
+             "&ldquo;the Ganges river slants, slopes, and inclines "
+             "to the ocean&rdquo; &mdash; this discourse's own "
+             "opening image"),
+        ("rāgavinayapariyosānaṁ dosavinayapariyosānaṁ mohavinayapariyosānaṁ",
+             "&ldquo;culminating in the removal of greed, hate, and "
+             "delusion&rdquo; &mdash; identical to SN 45.103's own "
+             "closing, confirming the formula belongs to the set"),
+        ("nibbānaninno hoti nibbānapoṇo nibbānapabbhāro", "&ldquo;slants, "
+             "slopes, and inclines to extinguishment&rdquo; &mdash; "
+             "unchanged across this discourse and its own companions"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, "
+             "defined identically throughout this set"),
+        ("samuddaninna", "&ldquo;sloping to the ocean&rdquo; "
+             "&mdash; this discourse's own direction, opening this "
+             "set's own second half"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.109:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What closing formula does this discourse use, compared to SN 45.103's own?",
+         "opts": ["The identical formula — \"culminating in the removal of greed, hate, and delusion\"", "A completely different, new formula", "The original \"seclusion... letting go\" formula", "No closing formula at all"],
+         "correct": 0,
+         "expl": "Confirming the closing formula belongs to the set of twelve as a whole, not to one direction alone."},
+        {"q": "What does this discourse confirm about how closing formulas are assigned in this vagga?",
+         "opts": ["Fixed per set of twelve, not per direction (east or ocean)", "A new formula for every single discourse", "Random assignment with no pattern", "Only the \"east\" discourses ever get a closing formula"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — both halves of Set 1 share the identical closing."},
+        {"q": "What position does this discourse hold within this vagga's own first set of twelve?",
+         "opts": ["Opening the ocean-bound half", "Closing the entire vagga", "The exact midpoint with no structural significance", "The final discourse of Set 3"],
+         "correct": 0,
+         "expl": "The seventh of this set's own twelve discourses, opening its own second half."},
+    ],
+    marginalia=[
+        ("The Ganges, sloping to the ocean now", [
+            "the same river, a new direction —",
+            "the identical closing formula",
+        ]),
+        ("A formula tied to the set", [
+            "not to \"east\" or \"ocean\" alone —",
+            "confirmed by direct comparison",
+        ]),
+        ("Set 1's own second half opens", [
+            "six more discourses to follow —",
+            "the identical closing throughout",
+        ]),
+        ("A pattern held from Gaṅgāpeyyālavagga's own", [
+            "one formula, both directions —",
+            "confirmed to repeat within each set here too",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.109/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.104-108.html\">SN 45.104&ndash;108 "
+        "&middot; Four Discourses on Slanting East, Etc.</a> "
+        "&mdash; the previous page.",
+        "<a href=\"sn-45.110-114.html\">SN 45.110&ndash;114 "
+        "&middot; Four Discourses on Slanting to the Ocean, "
+        "Etc.</a> &mdash; the next page, closing this vagga's own "
+        "first set.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.110-114 — Five Discourses on Sloping to the Ocean
+# --------------------------------------------------------------------------- #
+page_range(
+    45, 110, 114, "Samuddaninna",
+    "Four Discourses on Slanting to the Ocean, Etc.",
+    vagga="Dutiyagaṅgāpeyyālavagga",
+    meta_title="SN 45.110–114 — Four Discourses on Slanting to the Ocean, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 45.110–114 — closing this vagga's own first set of "
+        "twelve, four rivers plus the collective statement sloping "
+        "to the ocean. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.109"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Five discourses merged under per-discourse "
+                 "sub-prefixes, closing this vagga's own first set "
+                 "of twelve"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "five short entries, closing this set"),
+    ],
+    why=(
+        "The same four rivers as SN 45.104&ndash;108, now sloping to "
+        "the ocean, plus this set's own second collective statement "
+        "&mdash; closing Set 1 of this vagga's own three, all under "
+        "the identical &ldquo;removal of greed, hate, and "
+        "delusion&rdquo; formula confirmed throughout this set."
+    ),
+    guide=[
+        ("Set 1 complete, twelve discourses confirmed", [
+            "With this page, SN 45.103&ndash;114's own twelve "
+            "discourses (six sloping east, six sloping to the ocean, "
+            "all closing with the identical formula) are confirmed "
+            "complete &mdash; this vagga's own first of three "
+            "matching sets.",
+        ]),
+    ],
+    terms=[
+        ("yamunā... aciravatī... sarabhū... mahī", "the same four "
+             "rivers already met at SN 45.104-108, now sloping to "
+             "the ocean"),
+        ("sabbā tā mahānadiyo", "&ldquo;all the great rivers&rdquo; "
+             "&mdash; this set's own second collective statement, "
+             "closing Set 1"),
+        ("rāgavinayapariyosānaṁ dosavinayapariyosānaṁ mohavinayapariyosānaṁ",
+             "the closing formula shared throughout this entire set "
+             "of twelve, confirmed one final time here"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, "
+             "defined identically across all twelve discourses of "
+             "this set"),
+        ("paṭhamo dvādasako", "an unstated but structurally "
+             "confirmed description &mdash; this project's own way "
+             "of naming this vagga's own first set of twelve, "
+             "distinguishing it from the two still to come"),
+    ],
+    text_intro=("Every genuinely translated fragment in this merged "
+        "file, quoted in full, closing this vagga's own first set of "
+        "twelve. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "45.110 &mdash; Yamunā", "sn45.110"),
+        ("p", "45.111 &mdash; Aciravatī", "sn45.111"),
+        ("p", "45.112 &mdash; Sarabhū", "sn45.112"),
+        ("p", "45.113 &mdash; Mahī", "sn45.113"),
+        ("p", "45.114 &mdash; all the great rivers", "sn45.114"),
+    ],
+    quiz=[
+        {"q": "What does this page complete, being the sixth discourse-block of this vagga's own first set?",
+         "opts": ["Set 1's own twelve discourses (SN 45.103-114), all closing with the identical formula", "The entire vagga", "Only two of the twelve required discourses", "A completely unrelated topic"],
+         "correct": 0,
+         "expl": "The first of this vagga's own three matching sets of twelve, now confirmed complete."},
+        {"q": "What closing formula has this set used throughout?",
+         "opts": ["\"Culminating in the removal of greed, hate, and delusion\"", "\"Whose objective is freedom from death\"", "A self-referential extinguishment formula", "No consistent formula at all"],
+         "correct": 0,
+         "expl": "Confirmed one final time here, consistent across all twelve discourses of Set 1."},
+        {"q": "What comes next, based on this vagga's own confirmed three-set structure?",
+         "opts": ["Set 2 begins, using a genuinely new closing formula", "The vagga ends entirely", "Set 1 repeats a third time", "A completely unrelated topic begins"],
+         "correct": 0,
+         "expl": "SN 45.115 will open Set 2 with \"whose objective, destination, and culmination is freedom from death.\""},
+    ],
+    marginalia=[
+        ("Set 1, confirmed complete", [
+            "twelve discourses, one closing formula —",
+            "east and ocean both accounted for",
+        ]),
+        ("Four rivers, then the collective again", [
+            "Yamunā through Mahī —",
+            "closing this set's own second half",
+        ]),
+        ("One-third of this vagga done", [
+            "36 discourses total —",
+            "two more sets still ahead",
+        ]),
+        ("A new formula begins next", [
+            "\"freedom from death\" —",
+            "Set 2 opens at SN 45.115",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.110-114/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.109.html\">SN 45.109 &middot; Slanting to "
+        "the Ocean</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.115.html\">SN 45.115 &middot; Slanting "
+        "East</a> &mdash; the next discourse, opening this vagga's "
+        "own second set with a new closing formula.",
+    ],
+)# --------------------------------------------------------------------------- #
+# SN 45.115 — Pācīnaninnasutta (Set 2 opener)
+# --------------------------------------------------------------------------- #
+page(
+    45, 115, "Pācīnaninna", "Slanting East",
+    vagga="Dutiyagaṅgāpeyyālavagga",
+    meta_title="SN 45.115 — Slanting East | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pācīnaninnasutta &mdash; opening this vagga's own "
+        "second set of twelve with a genuinely new closing formula. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The full template restored, opening a new set with "
+                 "a new closing formula"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but structurally pivotal"),
+    ],
+    why=(
+        "The Ganges returns once more, but this discourse's own "
+        "closing is genuinely new &mdash; confirmed by direct "
+        "reading, the path factors here are described as "
+        "&ldquo;whose objective, destination, and culmination is "
+        "freedom from death,&rdquo; not the Set 1 &ldquo;removal of "
+        "greed, hate, and delusion&rdquo; formula. This vagga's own "
+        "second set of twelve begins."
+    ),
+    guide=[
+        ("A confirmed second formula, not a guess", [
+            "This project's own earlier prediction (from the "
+            "Gaṅgāpeyyāla uddāna's own hint) is now directly "
+            "confirmed by reading this discourse's own text: "
+            "&ldquo;freedom from death&rdquo; (amata) marks Set 2, "
+            "distinct from Set 1's own &ldquo;removal of greed, "
+            "hate, and delusion.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā",
+             "&ldquo;the Ganges river slants, slopes, and inclines "
+             "to the east&rdquo; &mdash; the same opening image as "
+             "Set 1's own"),
+        ("nibbānaninno hoti nibbānapoṇo nibbānapabbhāro", "&ldquo;slants, "
+             "slopes, and inclines to extinguishment&rdquo; &mdash; "
+             "unchanged, describing the path itself"),
+        ("amataogadhaṁ amataparāyanaṁ amatapariyosānaṁ", "&ldquo;whose "
+             "objective, destination, and culmination is freedom "
+             "from death&rdquo; &mdash; this discourse's own new "
+             "closing formula, marking Set 2"),
+        ("amata", "&ldquo;deathless&rdquo; or &ldquo;freedom from "
+             "death&rdquo; &mdash; a standard epithet for "
+             "extinguishment throughout the canon"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, "
+             "defined identically to Set 1's own, only the closing "
+             "epithet has changed"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.115:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What new closing formula does this discourse introduce, opening Set 2?",
+         "opts": ["\"Whose objective, destination, and culmination is freedom from death\"", "\"Culminating in the removal of greed, hate, and delusion\" (repeated from Set 1)", "A self-referential extinguishment-only formula", "No closing formula is given"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — distinct from Set 1's own formula."},
+        {"q": "What does \"amata\" mean in this context?",
+         "opts": ["Freedom from death / the deathless — an epithet for extinguishment", "A type of river", "A meditation technique", "A monastic robe"],
+         "correct": 0,
+         "expl": "A standard canonical epithet for nibbāna, used here to distinguish Set 2's own formula."},
+        {"q": "How was this discourse's own new formula anticipated by this project's earlier work?",
+         "opts": ["Predicted from the Gaṅgāpeyyāla uddāna's own hint, now confirmed by direct reading", "It was a complete surprise with no prior indication", "It exactly repeats Set 1's own formula", "It was guessed at random"],
+         "correct": 0,
+         "expl": "The uddāna's own suggestion of \"a second set\" is now confirmed structurally correct, if previously undercounted."},
+    ],
+    marginalia=[
+        ("A new formula, confirmed", [
+            "not guessed — read directly —",
+            "\"freedom from death\" marks Set 2",
+        ]),
+        ("The Ganges, sloping east again", [
+            "the same opening image —",
+            "a genuinely different closing",
+        ]),
+        ("This vagga's own middle third begins", [
+            "twelve more discourses ahead —",
+            "one shared new formula throughout",
+        ]),
+        ("An earlier prediction, now confirmed", [
+            "the uddāna's own hint was right —",
+            "though it undercounted by one set",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.115/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.110-114.html\">SN 45.110&ndash;114 "
+        "&middot; Four Discourses on Slanting to the Ocean, "
+        "Etc.</a> &mdash; the previous page, closing Set 1.",
+        "<a href=\"sn-45.116-120.html\">SN 45.116&ndash;120 "
+        "&middot; Four Discourses on Slanting East, Etc.</a> "
+        "&mdash; the next page.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.116-120 — Four Discourses on Slanting East, Etc. (Set 2)
+# --------------------------------------------------------------------------- #
+page_range(
+    45, 116, 120, "Pācīnaninna",
+    "Four Discourses on Slanting East, Etc.",
+    vagga="Dutiyagaṅgāpeyyālavagga",
+    meta_title="SN 45.116–120 — Four Discourses on Slanting East, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 45.116–120 — four rivers plus the collective statement, "
+        "continuing this vagga's own second set of twelve. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.115"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Five discourses merged under per-discourse "
+                 "sub-prefixes — confirmed by direct check, matching "
+                 "SN 45.104-108's own encoding, not SN 45.122-126's "
+                 "own (checked separately below)"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "five short entries"),
+    ],
+    why=(
+        "The same four rivers already met twice before, now sloping "
+        "east under Set 2's own &ldquo;freedom from death&rdquo; "
+        "formula &mdash; each entry abbreviated in the source to a "
+        "bare ellipsis, as this project's own established convention "
+        "for peyyāla content requires it be described honestly."
+    ),
+    guide=[
+        ("A different encoding from this set's own next block", [
+            "This merged file uses per-discourse sub-prefixes "
+            "(confirmed by direct check of the raw JSON before "
+            "writing) &mdash; but SN 45.122-126, covering the same "
+            "four rivers sloping to the ocean, was found to use the "
+            "OTHER style, a single unified prefix. Even within one "
+            "set of twelve, the two encodings are mixed — never "
+            "assume one carries to the next.",
+        ]),
+    ],
+    terms=[
+        ("yamunā... aciravatī... sarabhū... mahī", "the same four "
+             "rivers already met at SN 45.104-108 and 110-114, now "
+             "sloping east under Set 2's own formula"),
+        ("sabbā tā mahānadiyo", "&ldquo;all the great rivers&rdquo; "
+             "&mdash; the collective statement closing this block"),
+        ("amataogadhaṁ amataparāyanaṁ amatapariyosānaṁ", "the "
+             "&ldquo;freedom from death&rdquo; formula, confirmed to "
+             "continue unabridged in the source's own bare "
+             "ellipsis-marked entries"),
+        ("pe", "the standard bilara-data elision marker, rendered in "
+             "the English translation as an ellipsis &mdash; the "
+             "reader is meant to supply Set 2's own formula from "
+             "SN 45.115"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, "
+             "defined identically to every other discourse in this "
+             "vagga"),
+    ],
+    text_intro=("Every genuinely translated fragment in this merged "
+        "file, quoted in full including the source's own abbreviation "
+        "marks. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "45.116 &mdash; Yamunā", "sn45.116"),
+        ("p", "45.117 &mdash; Aciravatī", "sn45.117"),
+        ("p", "45.118 &mdash; Sarabhū", "sn45.118"),
+        ("p", "45.119 &mdash; Mahī", "sn45.119"),
+        ("p", "45.120 &mdash; all the great rivers", "sn45.120"),
+    ],
+    quiz=[
+        {"q": "What encoding does this merged file use, confirmed by direct check?",
+         "opts": ["Per-discourse sub-prefixes, like SN 45.104-108's own", "A single unified prefix, like SN 45.122-126's own", "No prefix structure at all", "A completely new third encoding style"],
+         "correct": 0,
+         "expl": "Confirmed by reading the raw JSON before writing — matching SN 45.104-108, not the ocean-bound block that follows."},
+        {"q": "What does this page confirm about assuming encoding styles within one vagga?",
+         "opts": ["The two encodings are mixed even within a single set of twelve — never assume", "Every merged file in this vagga uses the identical encoding", "Only the first set uses per-discourse prefixes", "Encoding style is announced in the vagga's own title"],
+         "correct": 0,
+         "expl": "SN 45.116-120 and SN 45.122-126 sit in the same set of twelve but use different encodings."},
+        {"q": "What formula do these five entries carry forward from SN 45.115?",
+         "opts": ["\"Whose objective, destination, and culmination is freedom from death\"", "\"Culminating in the removal of greed, hate, and delusion\"", "A self-referential extinguishment-only formula", "No formula — the entries are unrelated"],
+         "correct": 0,
+         "expl": "Set 2's own formula, abbreviated here to a bare ellipsis in the source."},
+    ],
+    marginalia=[
+        ("Two encodings, one set of twelve", [
+            "per-discourse prefixes here —",
+            "a single prefix waits just ahead",
+        ]),
+        ("Four rivers, then the collective", [
+            "Yamunā through Mahī —",
+            "\"freedom from death\" carried through",
+        ]),
+        ("Never assume, always check", [
+            "the lesson repeats once more —",
+            "confirmed fresh for every merged file",
+        ]),
+        ("Set 2's own east-bound half complete", [
+            "six discourses now behind —",
+            "the ocean round follows next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.116-120/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.115.html\">SN 45.115 &middot; Slanting "
+        "East</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.121.html\">SN 45.121 &middot; Slanting to "
+        "the Ocean</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 45.121 — Samuddaninnasutta (Set 2, ocean)
+# --------------------------------------------------------------------------- #
+page(
+    45, 121, "Samuddaninna", "Slanting to the Ocean",
+    vagga="Dutiyagaṅgāpeyyālavagga",
+    meta_title="SN 45.121 — Slanting to the Ocean | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samuddaninnasutta &mdash; opening this vagga's own "
+        "second set's ocean-bound half. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The full template restored, opening Set 2's own "
+                 "second half"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, opens this set's own second half"),
+    ],
+    why=(
+        "The Ganges slopes to the ocean once more, closing with the "
+        "identical &ldquo;freedom from death&rdquo; formula as "
+        "SN 45.115's own &mdash; confirming, as with Set 1, that the "
+        "closing formula is fixed per set of twelve rather than per "
+        "direction."
+    ),
+    guide=[
+        ("The pattern holds a second time", [
+            "Exactly as SN 45.109 confirmed for Set 1, this "
+            "discourse confirms the same holds for Set 2: one "
+            "closing formula spans both the east-bound and "
+            "ocean-bound halves of a set.",
+        ]),
+    ],
+    terms=[
+        ("gaṅgā nadī samuddaninnā samuddapoṇā samuddapabbhārā",
+             "&ldquo;the Ganges river slants, slopes, and inclines "
+             "to the ocean&rdquo; &mdash; this discourse's own "
+             "opening image"),
+        ("amataogadhaṁ amataparāyanaṁ amatapariyosānaṁ", "&ldquo;whose "
+             "objective, destination, and culmination is freedom "
+             "from death&rdquo; &mdash; unchanged from SN 45.115's "
+             "own, confirming Set 2's own formula holds across both "
+             "directions"),
+        ("nibbānaninno hoti nibbānapoṇo nibbānapabbhāro", "&ldquo;slants, "
+             "slopes, and inclines to extinguishment&rdquo; "
+             "&mdash; the path's own description, unchanged"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, "
+             "defined identically throughout this set"),
+        ("samuddaninna", "&ldquo;sloping to the ocean&rdquo; "
+             "&mdash; this discourse's own direction, opening this "
+             "set's own second half"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.121:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What closing formula does this discourse use, compared to SN 45.115's own?",
+         "opts": ["The identical formula — \"freedom from death\"", "A completely different, new formula", "Set 1's own \"removal of greed, hate, and delusion\" formula", "No closing formula at all"],
+         "correct": 0,
+         "expl": "Confirming, as with Set 1, that the formula is fixed per set rather than per direction."},
+        {"q": "What does this discourse confirm for the second time in this vagga?",
+         "opts": ["That closing formulas span both directions within a set of twelve", "That every discourse has a unique formula", "That the vagga has only one set of twelve, not three", "That the Ganges is the only river mentioned"],
+         "correct": 0,
+         "expl": "First confirmed at SN 45.109 for Set 1, now confirmed again for Set 2."},
+        {"q": "What comes next, following this vagga's own established four-river pattern?",
+         "opts": ["A merged page covering Yamunā through Mahī plus the collective, sloping to the ocean", "The vagga ends here", "Set 3 begins immediately", "A completely unrelated topic"],
+         "correct": 0,
+         "expl": "SN 45.122-126 will close Set 2 with the same four-river-plus-collective structure."},
+    ],
+    marginalia=[
+        ("The Ganges, sloping to the ocean now", [
+            "the same river, a new direction —",
+            "the identical closing formula",
+        ]),
+        ("A formula tied to the set, twice confirmed", [
+            "Set 1 and now Set 2 both —",
+            "the pattern holds firm",
+        ]),
+        ("Set 2's own second half opens", [
+            "six more discourses to follow —",
+            "\"freedom from death\" throughout",
+        ]),
+        ("Two-thirds of this vagga's own sets underway", [
+            "one closing formula remains —",
+            "the self-referential one, still ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.121/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.116-120.html\">SN 45.116&ndash;120 "
+        "&middot; Four Discourses on Slanting East, Etc.</a> "
+        "&mdash; the previous page.",
+        "<a href=\"sn-45.122-126.html\">SN 45.122&ndash;126 "
+        "&middot; Four Discourses on Slanting to the Ocean, "
+        "Etc.</a> &mdash; the next page, closing Set 2.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.122-126 — Four Discourses on Slanting to the Ocean, Etc. (Set 2 close)
+# --------------------------------------------------------------------------- #
+page_range(
+    45, 122, 126, "Samuddaninna",
+    "Four Discourses on Slanting to the Ocean, Etc.",
+    vagga="Dutiyagaṅgāpeyyālavagga",
+    meta_title="SN 45.122–126 — Four Discourses on Slanting to the Ocean, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 45.122–126 — closing this vagga's own second set of "
+        "twelve, four rivers plus the collective statement. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.121"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Five discourses merged under a SINGLE unified key "
+                 "prefix — confirmed by direct check, the OTHER "
+                 "encoding from SN 45.116-120's own, even though "
+                 "both sit inside Set 2"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "five short entries, closing this set"),
+    ],
+    why=(
+        "The same four rivers, now sloping to the ocean under Set "
+        "2's own &ldquo;freedom from death&rdquo; formula, closing "
+        "this vagga's own second set of twelve &mdash; confirmed to "
+        "use a single unified key prefix, the encoding style "
+        "confirmed distinct from this same set's own east-bound "
+        "block just before it."
+    ),
+    guide=[
+        ("Set 2 complete, twelve discourses confirmed", [
+            "With this page, SN 45.115&ndash;126's own twelve "
+            "discourses (six sloping east, six sloping to the ocean, "
+            "all closing with the &ldquo;freedom from death&rdquo; "
+            "formula) are confirmed complete &mdash; this vagga's "
+            "own second of three matching sets.",
+        ]),
+    ],
+    terms=[
+        ("yamunā... aciravatī... sarabhū... mahī", "the same four "
+             "rivers, now sloping to the ocean, closing Set 2"),
+        ("sabbā tā mahānadiyo", "&ldquo;all the great rivers&rdquo; "
+             "&mdash; the collective statement closing this block "
+             "and this set"),
+        ("amataogadhaṁ amataparāyanaṁ amatapariyosānaṁ", "Set 2's own "
+             "closing formula, confirmed one final time here"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, "
+             "defined identically across all twelve discourses of "
+             "this set"),
+        ("dutiyo dvādasako", "an unstated but structurally confirmed "
+             "description &mdash; this project's own way of naming "
+             "this vagga's own second set of twelve"),
+    ],
+    text_intro=("Every genuinely translated fragment in this merged "
+        "file, quoted in full, closing this vagga's own second set "
+        "of twelve. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "45.122-126", "sn45.122-126:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What encoding does this merged file use, confirmed by direct check?",
+         "opts": ["A single unified key prefix across all five discourses", "Per-discourse sub-prefixes, like SN 45.116-120's own", "No key structure at all", "A hybrid of both encodings"],
+         "correct": 0,
+         "expl": "Confirmed distinct from this same set's own east-bound block — even discourses within one set can differ."},
+        {"q": "What does this page complete, being the sixth discourse-block of this vagga's own second set?",
+         "opts": ["Set 2's own twelve discourses (SN 45.115-126), all closing with \"freedom from death\"", "The entire vagga", "Only the east-bound half", "An unrelated topic"],
+         "correct": 0,
+         "expl": "The second of this vagga's own three matching sets of twelve, now confirmed complete."},
+        {"q": "What comes next, based on this vagga's own confirmed three-set structure?",
+         "opts": ["Set 3 begins, using the self-referential extinguishment-only formula", "The vagga ends entirely", "Set 2 repeats a second time", "A completely unrelated topic begins"],
+         "correct": 0,
+         "expl": "SN 45.127 will open Set 3 with \"which slants, slopes, and inclines to extinguishment.\""},
+    ],
+    marginalia=[
+        ("Set 2, confirmed complete", [
+            "twelve discourses, one closing formula —",
+            "east and ocean both accounted for",
+        ]),
+        ("A single prefix this time", [
+            "not per-discourse, as just before —",
+            "confirmed fresh, never assumed",
+        ]),
+        ("Two-thirds of this vagga done", [
+            "24 of 36 discourses —",
+            "one more set still ahead",
+        ]),
+        ("A third formula begins next", [
+            "self-referential extinguishment —",
+            "Set 3 opens at SN 45.127",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.122-126/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.121.html\">SN 45.121 &middot; Slanting to "
+        "the Ocean</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.127.html\">SN 45.127 &middot; Slanting "
+        "East</a> &mdash; the next discourse, opening this vagga's "
+        "own third and final set.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 45.127 — Pācīnaninnasutta (Set 3 opener)
+# --------------------------------------------------------------------------- #
+page(
+    45, 127, "Pācīnaninna", "Slanting East",
+    vagga="Dutiyagaṅgāpeyyālavagga",
+    meta_title="SN 45.127 — Slanting East | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pācīnaninnasutta &mdash; opening this vagga's own "
+        "third and final set of twelve with a self-referential "
+        "closing formula. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The full template restored, opening this vagga's "
+                 "own third and final set"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but structurally pivotal"),
+    ],
+    why=(
+        "A third closing formula, confirmed by direct reading: "
+        "&ldquo;which slants, slopes, and inclines to "
+        "extinguishment&rdquo; &mdash; describing the path factors "
+        "themselves in exactly the same terms used for the path as "
+        "a whole, a self-referential formula distinct from both "
+        "Set 1's own and Set 2's own."
+    ),
+    guide=[
+        ("A third formula, genuinely self-referential", [
+            "Where Set 1 named an ethical outcome (removal of greed, "
+            "hate, delusion) and Set 2 named a destination (freedom "
+            "from death), Set 3 folds back onto the path's own "
+            "description &mdash; the eightfold path factors are "
+            "themselves said to slant, slope, and incline to "
+            "extinguishment, the identical language used for the "
+            "path as a whole. Confirmed by direct comparison of the "
+            "Pāli, not assumed from the pattern of the first two "
+            "sets.",
+        ]),
+    ],
+    terms=[
+        ("gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā",
+             "&ldquo;the Ganges river slants, slopes, and inclines "
+             "to the east&rdquo; &mdash; the same opening image as "
+             "both earlier sets' own"),
+        ("nibbānaninnaṁ nibbānapoṇaṁ nibbānapabbhāraṁ", "&ldquo;which "
+             "slants, slopes, and inclines to extinguishment&rdquo; "
+             "&mdash; this discourse's own new closing formula, now "
+             "applied directly to each path factor rather than as a "
+             "separate destination-clause"),
+        ("sammādiṭṭhi... sammāsamādhi", "right view through right "
+             "immersion, the eight path factors, each individually "
+             "described with this set's own self-referential "
+             "formula"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, "
+             "defined identically to both earlier sets' own"),
+        ("dutiyagaṅgāpeyyālavagga", "this vagga's own name &mdash; "
+             "&ldquo;the second [chapter of] abbreviated texts on "
+             "the Ganges&rdquo; &mdash; now confirmed to house three "
+             "full sets of twelve, not the &ldquo;second set&rdquo; "
+             "its own name might suggest in isolation"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.127:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What distinguishes Set 3's own closing formula from Set 1's own and Set 2's own?",
+         "opts": ["It is self-referential — the path factors are described as themselves sloping to extinguishment", "It repeats Set 1's own formula exactly", "It repeats Set 2's own formula exactly", "There is no closing formula in Set 3"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison of the Pāli — a third, genuinely distinct formula."},
+        {"q": "What does this discourse's own opening mark, structurally?",
+         "opts": ["This vagga's own third and final set of twelve", "The vagga's own halfway point", "A return to Set 1's own formula", "The vagga's own final discourse"],
+         "correct": 0,
+         "expl": "Twenty-four discourses now complete, twelve remain in this final set."},
+        {"q": "What does the vagga's own name, \"Dutiyagaṅgāpeyyālavagga,\" literally suggest, versus what the text actually contains?",
+         "opts": ["Its name suggests \"a second set,\" but the text actually contains three full sets", "Its name accurately predicts exactly two sets", "Its name has no connection to the content", "Its name predicts four sets"],
+         "correct": 0,
+         "expl": "The earlier uddāna-based prediction undercounted — confirmed only by reading the full text directly."},
+    ],
+    marginalia=[
+        ("A third formula, self-referential", [
+            "the path folds back on itself —",
+            "confirmed fresh from the Pāli",
+        ]),
+        ("The Ganges, east-bound one final time", [
+            "the same opening image —",
+            "a genuinely new closing",
+        ]),
+        ("This vagga's own final set begins", [
+            "twelve discourses remain —",
+            "the same formula throughout",
+        ]),
+        ("A name that undercounts its own content", [
+            "\"second\" set, but three sets found —",
+            "confirmed only by reading in full",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.127/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.122-126.html\">SN 45.122&ndash;126 "
+        "&middot; Four Discourses on Slanting to the Ocean, "
+        "Etc.</a> &mdash; the previous page, closing Set 2.",
+        "<a href=\"sn-45.128-132.html\">SN 45.128&ndash;132 "
+        "&middot; Four Discourses on Slanting East, Etc.</a> "
+        "&mdash; the next page.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.128-132 — Four Discourses on Slanting East, Etc. (Set 3)
+# --------------------------------------------------------------------------- #
+page_range(
+    45, 128, 132, "Pācīnaninna",
+    "Four Discourses on Slanting East, Etc.",
+    vagga="Dutiyagaṅgāpeyyālavagga",
+    meta_title="SN 45.128–132 — Four Discourses on Slanting East, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 45.128–132 — four rivers plus the collective statement, "
+        "continuing this vagga's own third and final set. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.127"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Five discourses merged under a SINGLE unified key "
+                 "prefix — confirmed by direct check"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "five short entries"),
+    ],
+    why=(
+        "The same four rivers already met twice before, now sloping "
+        "east under Set 3's own self-referential formula, each entry "
+        "abbreviated in the source to a bare ellipsis."
+    ),
+    guide=[
+        ("The single-prefix encoding, confirmed again", [
+            "As with SN 45.122-126, this merged file uses a single "
+            "unified key prefix rather than per-discourse "
+            "sub-prefixes — confirmed by direct check before "
+            "writing, not assumed from either encoding pattern "
+            "already seen elsewhere in this vagga.",
+        ]),
+    ],
+    terms=[
+        ("yamunā... aciravatī... sarabhū... mahī", "the same four "
+             "rivers, now sloping east under Set 3's own formula"),
+        ("sabbā tā mahānadiyo", "&ldquo;all the great rivers&rdquo; "
+             "&mdash; the collective statement closing this block"),
+        ("nibbānaninnaṁ nibbānapoṇaṁ nibbānapabbhāraṁ", "Set 3's own "
+             "self-referential formula, confirmed to continue "
+             "unabridged in the source's own bare ellipsis-marked "
+             "entries"),
+        ("pe", "the standard bilara-data elision marker, rendered as "
+             "an ellipsis in the English translation"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, "
+             "defined identically throughout this vagga"),
+    ],
+    text_intro=("Every genuinely translated fragment in this merged "
+        "file, quoted in full including the source's own abbreviation "
+        "marks. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "45.128-132", "sn45.128-132:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What encoding does this merged file use, confirmed by direct check?",
+         "opts": ["A single unified key prefix, matching SN 45.122-126's own", "Per-discourse sub-prefixes, matching SN 45.104-108's own", "No key structure at all", "A hybrid encoding never seen before"],
+         "correct": 0,
+         "expl": "Confirmed by reading the raw JSON before writing, consistent with this set's own ocean-bound companion block from Set 2."},
+        {"q": "What formula do these five entries carry forward from SN 45.127?",
+         "opts": ["The self-referential \"slants, slopes, inclines to extinguishment\" formula, applied to each path factor", "Set 1's own \"removal of greed, hate, and delusion\" formula", "Set 2's own \"freedom from death\" formula", "No formula — the entries are unrelated"],
+         "correct": 0,
+         "expl": "Set 3's own formula, abbreviated here to a bare ellipsis in the source."},
+        {"q": "What remains after this page, to complete this vagga?",
+         "opts": ["Two more discourses — SN 45.133 (ocean) and SN 45.134-138 (the closing merged block)", "This vagga is now complete", "An entirely new vagga begins immediately", "Ten more discourses remain"],
+         "correct": 0,
+         "expl": "The ocean-bound half of Set 3 still needs its own opener and closing merged block."},
+    ],
+    marginalia=[
+        ("A single prefix, confirmed once more", [
+            "matching this set's own ocean half —",
+            "checked fresh, not carried over",
+        ]),
+        ("Four rivers, then the collective", [
+            "Yamunā through Mahī —",
+            "self-referential extinguishment throughout",
+        ]),
+        ("Set 3's own east-bound half complete", [
+            "thirty discourses now behind —",
+            "six remain to close this vagga",
+        ]),
+        ("The finish line in sight", [
+            "one opener, one closing block —",
+            "then this vagga's own colophon"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.128-132/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.127.html\">SN 45.127 &middot; Slanting "
+        "East</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.133.html\">SN 45.133 &middot; Slanting to "
+        "the Ocean</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.133 — Samuddaninnasutta (Set 3, ocean)
+# --------------------------------------------------------------------------- #
+page(
+    45, 133, "Samuddaninna", "Slanting to the Ocean",
+    vagga="Dutiyagaṅgāpeyyālavagga",
+    meta_title="SN 45.133 — Slanting to the Ocean | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samuddaninnasutta &mdash; opening this vagga's own "
+        "final ocean-bound half, closing with the same "
+        "self-referential formula as SN 45.127's own. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The full template restored, opening Set 3's own "
+                 "final half"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, opens this vagga's own final stretch"),
+    ],
+    why=(
+        "The Ganges slopes to the ocean one final time, closing with "
+        "the same self-referential formula as SN 45.127's own "
+        "&mdash; confirming, for the third and final time in this "
+        "vagga, that closing formulas are fixed per set rather than "
+        "per direction."
+    ),
+    guide=[
+        ("The pattern holds a third and final time", [
+            "Confirmed now for all three sets in turn (SN 45.109, "
+            "45.121, and this discourse), the closing formula is "
+            "fixed per set of twelve, never varying between a set's "
+            "own east-bound and ocean-bound halves.",
+        ]),
+    ],
+    terms=[
+        ("gaṅgā nadī samuddaninnā samuddapoṇā samuddapabbhārā",
+             "&ldquo;the Ganges river slants, slopes, and inclines "
+             "to the ocean&rdquo; &mdash; this discourse's own "
+             "opening image, the last individual river-discourse in "
+             "this vagga"),
+        ("nibbānaninnaṁ nibbānapoṇaṁ nibbānapabbhāraṁ", "Set 3's own "
+             "self-referential formula, unchanged from SN 45.127's "
+             "own"),
+        ("sammādiṭṭhi... sammāsamādhi", "the eight path factors, "
+             "each individually described with this formula, "
+             "exactly as at SN 45.127"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, "
+             "defined identically throughout this vagga's own "
+             "thirty-six discourses"),
+        ("samuddaninna", "&ldquo;sloping to the ocean&rdquo; "
+             "&mdash; this discourse's own direction, opening this "
+             "vagga's own final half"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.133:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What closing formula does this discourse use, compared to SN 45.127's own?",
+         "opts": ["The identical self-referential formula", "A completely different, new formula", "Set 1's own formula", "Set 2's own formula"],
+         "correct": 0,
+         "expl": "Confirming, for the third and final time, that the formula is fixed per set rather than per direction."},
+        {"q": "What does this discourse mark, structurally, within this vagga?",
+         "opts": ["The opening of this vagga's own final six discourses", "The exact midpoint of the vagga", "The vagga's own very first discourse", "An unrelated new topic"],
+         "correct": 0,
+         "expl": "Thirty-two discourses now complete; the closing merged block (SN 45.134-138) remains, including this vagga's own colophon."},
+        {"q": "What remains after this discourse to complete the entire Dutiyagaṅgāpeyyālavagga?",
+         "opts": ["One merged page (SN 45.134-138), including the vagga's own colophon and uddāna", "Ten more individual discourses", "An entirely different vagga begins next", "Nothing — this discourse is the last"],
+         "correct": 0,
+         "expl": "The final merged block closes both this set and the vagga as a whole."},
+    ],
+    marginalia=[
+        ("The Ganges, sloping to the ocean, one final time", [
+            "the same river throughout this vagga —",
+            "now closing its own final individual discourse",
+        ]),
+        ("A pattern confirmed three times over", [
+            "Set 1, Set 2, and now Set 3 —",
+            "the formula tied to the set, not the direction",
+        ]),
+        ("Thirty-two of thirty-six complete", [
+            "one closing block remains —",
+            "the vagga's own colophon waits there",
+        ]),
+        ("The last individual river-discourse", [
+            "from here, only the merged close remains —",
+            "then this vagga's own uddāna"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.133/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.128-132.html\">SN 45.128&ndash;132 "
+        "&middot; Four Discourses on Slanting East, Etc.</a> "
+        "&mdash; the previous page.",
+        "<a href=\"sn-45.134-138.html\">SN 45.134&ndash;138 "
+        "&middot; Four Discourses on Slanting to the Ocean, "
+        "Etc.</a> &mdash; the next page, closing this vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.134-138 — Four Discourses on Slanting to the Ocean, Etc. (vagga close)
+# --------------------------------------------------------------------------- #
+page_range(
+    45, 134, 138, "Samuddaninna",
+    "Four Discourses on Slanting to the Ocean, Etc.",
+    vagga="Dutiyagaṅgāpeyyālavagga",
+    meta_title="SN 45.134–138 — Four Discourses on Slanting to the Ocean, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 45.134–138 — closing the Dutiyagaṅgāpeyyālavagga and "
+        "this vagga's own thirty-six discourses. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.133"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Five discourses merged under a single unified key "
+                 "prefix, closing this vagga's own third set and the "
+                 "vagga itself"),
+        ("Length", "&lt;1 minute to read, plus a described (not "
+                   "translated) colophon and uddāna"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "closes the vagga's own thirty-six "
+                       "discourses"),
+    ],
+    why=(
+        "The same four rivers, now sloping to the ocean under Set "
+        "3's own self-referential formula, close this vagga's own "
+        "third and final set of twelve &mdash; and with it, the "
+        "entire Dutiyagaṅgāpeyyālavagga, thirty-six discourses built "
+        "from three genuinely distinct closing formulas."
+    ),
+    guide=[
+        ("The vagga complete: three sets, three formulas", [
+            "Set 1 (SN 45.103-114): &ldquo;culminating in the "
+            "removal of greed, hate, and delusion.&rdquo; Set 2 "
+            "(SN 45.115-126): &ldquo;whose objective, destination, "
+            "and culmination is freedom from death.&rdquo; Set 3 "
+            "(SN 45.127-138): &ldquo;which slants, slopes, and "
+            "inclines to extinguishment&rdquo; &mdash; "
+            "self-referential. All three confirmed by direct "
+            "reading, not assumed from the vagga's own name (which, "
+            "read alone, would suggest only a second single set).",
+        ]),
+        ("An untranslated colophon and uddāna, described honestly", [
+            "The Pāli root closes with &ldquo;Chaṭṭhaṁ&rdquo; "
+            "(&ldquo;the sixth&rdquo;, numbering this discourse "
+            "within its own merged block) and &ldquo;"
+            "(Gaṅgāpeyyālī.)&rdquo; (naming this section of "
+            "peyyāla texts), followed by a six-line uddāna "
+            "(summary verse) whose final line &mdash; &ldquo;"
+            "Nibbānaninno dvādasakī, catutthakī chaṭṭhā navakī"
+            "&rdquo; &mdash; carries a numbering scheme this "
+            "project does not confidently interpret. No English "
+            "translation of the colophon or uddāna exists in the "
+            "consulted source; per this project's own established "
+            "practice, no translation is invented here.",
+        ]),
+    ],
+    terms=[
+        ("yamunā... aciravatī... sarabhū... mahī", "the same four "
+             "rivers, now sloping to the ocean, closing this vagga's "
+             "own final set"),
+        ("sabbā tā mahānadiyo", "&ldquo;all the great rivers&rdquo; "
+             "&mdash; the collective statement closing this block, "
+             "this set, and this vagga"),
+        ("chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; a numbering "
+             "marker in the Pāli root closing this merged block, "
+             "left untranslated in the consulted English source"),
+        ("gaṅgāpeyyālī", "&ldquo;the Ganges peyyāla [section]&rdquo; "
+             "&mdash; the colophon's own name for this entire "
+             "sequence of abbreviated Ganges-simile texts"),
+        ("tassuddānaṁ", "&ldquo;its summary verse&rdquo; &mdash; "
+             "introducing the closing uddāna, whose final numbering "
+             "line this project does not confidently interpret"),
+    ],
+    text_intro=("Every genuinely translated fragment in this merged "
+        "file, quoted in full, closing the Dutiyagaṅgāpeyyālavagga. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "45.134-138", "sn45.134-138:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "How many genuinely distinct closing formulas does this vagga's own three sets of twelve use in total?",
+         "opts": ["Three — greed/hate/delusion, freedom from death, and self-referential extinguishment", "One formula, repeated identically throughout", "Two formulas only", "A different formula for every single discourse"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading across all three sets, not assumed from the vagga's own name."},
+        {"q": "How does this reading guide handle the untranslated Pāli colophon and uddāna?",
+         "opts": ["Describes them honestly in prose, without inventing an English translation", "Provides a confident original English translation", "Omits any mention of them", "Guesses at the uddāna's own numbering scheme as fact"],
+         "correct": 0,
+         "expl": "Following this project's own established practice — no fabricated translation for untranslated source material."},
+        {"q": "What does this page complete?",
+         "opts": ["The entire Dutiyagaṅgāpeyyālavagga — this vagga's own thirty-six discourses", "Only Set 3's own twelve discourses, with more of the vagga still to come", "The entire Saḷāyatanasaṁyutta", "A single individual discourse"],
+         "correct": 0,
+         "expl": "This vagga's own largest, at thirty-six discourses across twelve pages, closes here."},
+    ],
+    marginalia=[
+        ("Three sets, three formulas, confirmed", [
+            "greed/hate/delusion, then freedom from death,",
+            "then extinguishment folded on itself",
+        ]),
+        ("A colophon left honestly untranslated", [
+            "\"Gaṅgāpeyyālī\" names the section —",
+            "the uddāna's own numbering, undeciphered here",
+        ]),
+        ("Thirty-six discourses, twelve pages, one vagga", [
+            "this vagga's own largest, now complete —",
+            "the next vagga waits beyond it",
+        ]),
+        ("A name that named only half its own content", [
+            "\"second\" set of twelve, by its own title —",
+            "three full sets, confirmed only by reading through",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.134-138/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.133.html\">SN 45.133 &middot; Slanting to "
+        "the Ocean</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṁyutta Nikāya index</a> &mdash; "
+        "the next vagga, Appamādapeyyālavagga, is still in "
+        "preparation.",
+    ],
 )
