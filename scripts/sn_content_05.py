@@ -5233,4 +5233,432 @@ page(
         "Aññatitthiyapeyyālavagga (SN 45.41&ndash;48), not yet "
         "built.",
     ],
+)# --------------------------------------------------------------------------- #
+# Aññatitthiyapeyyālavagga (SN 45.41-48, "The Chapter of Abbreviated
+# Texts on Followers of Other Paths") is this saṃyutta's own fifth
+# vagga and its own first vagga whose Pāli title itself contains
+# "peyyāla" (abbreviated formula-text), confirmed by direct reading
+# rather than assumed to share any earlier vagga's own shape. Its own
+# bilara-data layout is three files for eight discourses: SN 45.41
+# (individual, full text) and SN 45.48 (individual, full text) bookend
+# SN 45.42-47 (one merged file covering six discourses), confirmed by
+# listing the directory directly. Every one of the eight discourses "
+# shares the identical template already met once before at SN 45.5:
+# mendicants are equipped with a ready answer for wanderers of other
+# religions asking the goal of the spiritual life under the Buddha,
+# followed by the noble eightfold path named as the path and practice
+# for that goal -- what varies across all eight is only the goal's
+# own name, confirmed by reading SN 45.41 and SN 45.48 in full and the
+# merged file's own six elided goal-clauses directly rather than
+# assumed uniform from the vagga's own "peyyāla" label alone.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 45.41 — Virāgasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 41, "Virāga", "The Fading Away of Greed",
+    vagga="Aññatitthiyapeyyālavagga",
+    meta_title="SN 45.41 — The Fading Away of Greed | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Virāgasutta &mdash; opening a new vagga with a ready "
+        "answer for wanderers of other religions, the first of eight "
+        "goal-names for the eightfold path. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The full template, given here in full for the "
+                 "first of eight discourses in this vagga"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, a direct catechism"),
+    ],
+    why=(
+        "This discourse opens Aññatitthiyapeyyālavagga, this "
+        "saṃyutta's own first vagga whose Pāli title itself names it "
+        "a peyyāla (abbreviated-text) chapter, reusing SN 45.5's own "
+        "template &mdash; equipping mendicants to answer wanderers of "
+        "other religions &mdash; with a new goal-name: virāga, "
+        "&ldquo;the fading away of greed.&rdquo; Seven more "
+        "discourses in this vagga will repeat the identical structure "
+        "under seven different goal-names."
+    ),
+    guide=[
+        ("A template already met, reused with a new name", [
+            "This discourse's own structure &mdash; the anticipated "
+            "question, the goal named, the follow-up question about "
+            "a path, the eightfold path supplied as the answer "
+            "&mdash; matches SN 45.5's own template exactly, "
+            "confirmed by direct comparison, with virāga substituted "
+            "for SN 45.5's own &ldquo;completely understand "
+            "suffering.&rdquo;",
+        ]),
+        ("Eight goal-names, one template", [
+            "Confirmed by reading this vagga's own remaining seven "
+            "discourses directly: fading away of greed here, then "
+            "giving up the fetters, uprooting the underlying "
+            "tendencies, completely understanding the course of "
+            "time, ending the defilements, realizing the fruit of "
+            "knowledge and freedom, knowledge and vision, and finally "
+            "extinguishment with no fuel for grasping &mdash; eight "
+            "distinct names, the identical structure throughout.",
+        ]),
+    ],
+    terms=[
+        ("aññatitthiyā paribbājakā", "&ldquo;wanderers who follow "
+             "another religion&rdquo; &mdash; the anticipated "
+             "questioners this vagga's own eight discourses each "
+             "prepare mendicants to answer"),
+        ("virāgatthaṁ", "&ldquo;for the sake of the fading away of "
+             "greed&rdquo; &mdash; this discourse's own goal-name, "
+             "the first of eight in this vagga"),
+        ("atthi maggo atthi paṭipadā", "&ldquo;there is a path and a "
+             "practice&rdquo; &mdash; the anticipated follow-up "
+             "question and its confirmed answer, identical to SN "
+             "45.5's own"),
+        ("ayaṁ ariyo aṭṭhaṅgiko maggo", "&ldquo;this noble eightfold "
+             "path&rdquo; &mdash; the answer supplied for every one "
+             "of this vagga's own eight goal-names"),
+        ("aññatitthiyapeyyālavaggo", "this vagga's own name, the "
+             "first in this saṃyutta whose own Pāli title contains "
+             "\"peyyāla\" (abbreviated formula-text) directly"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.41:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "What earlier discourse in this saṃyutta does this discourse's own template match?",
+         "opts": ["SN 45.5, with a new goal-name substituted", "SN 45.34's own verse", "SN 44.9's fire simile", "SN 43.1"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the identical structure, only the goal's own name changed."},
+        {"q": "What goal-name does this discourse supply?",
+         "opts": ["The fading away of greed (virāga)", "Complete understanding of suffering", "Freedom from death", "The ending of the three roots"],
+         "correct": 0,
+         "expl": "The first of eight distinct goal-names this vagga's own eight discourses each supply."},
+        {"q": "What path does this discourse name as the practice for the fading away of greed?",
+         "opts": ["The noble eightfold path", "A path unique to this discourse alone", "No path is named", "The four foundations of mindfulness"],
+         "correct": 0,
+         "expl": "The identical answer this vagga's own remaining seven discourses will each give too."},
+    ],
+    marginalia=[
+        ("A template reused", [
+            "SN 45.5's own structure, again —",
+            "a new goal-name substituted",
+        ]),
+        ("Eight names, one to come first", [
+            "\"the fading away of greed\" —",
+            "seven more names still ahead",
+        ]),
+        ("A vagga names itself", [
+            "this saṃyutta's first \"peyyāla\" title —",
+            "abbreviated formula-text, confirmed by direct reading",
+        ]),
+        ("The same path, whatever the name", [
+            "the noble eightfold path, once more —",
+            "answering every one of this vagga's own eight questions",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.41/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.40.html\">SN 45.40 &middot; The Spiritual "
+        "Path (2nd)</a> &mdash; the previous discourse, closing "
+        "Paṭipattivagga.",
+        "<a href=\"sn-45.42-47.html\">SN 45.42&ndash;47 &middot; "
+        "Six Discourses on Giving Up Fetters, Etc.</a> &mdash; the "
+        "next page, six more goal-names merged into a single "
+        "bilara-data file.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.42-47 — Saṁyojanappahānādisuttachakka (merged peyyāla range)
+# --------------------------------------------------------------------------- #
+page_range(
+    45, 42, 47, "Saṁyojanappahānādi",
+    "Six Discourses on Giving Up Fetters, Etc.",
+    vagga="Aññatitthiyapeyyālavagga",
+    meta_title="SN 45.42–47 — Six Discourses on Giving Up Fetters, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 45.42–47 — six more goal-names for the eightfold path, "
+        "merged into a single bilara-data file, each genuinely "
+        "translated fragment quoted in full. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN 45.41)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Six discourses merged into a single bilara-data "
+                 "file, each keeping only its own goal-name"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "six short entries, no new structure"),
+    ],
+    why=(
+        "Six consecutive discourses (SN 45.42 through SN 45.47), "
+        "confirmed by directly listing bilara-data's own directory "
+        "to be stored in a single merged file rather than six "
+        "separate ones, each keep only their own goal-name's clause "
+        "&mdash; the surrounding template (the anticipated question, "
+        "the follow-up about a path, the eightfold path itself) is "
+        "elided with an ellipsis after the first discourse in the "
+        "run establishes the pattern, confirmed by reading the "
+        "merged file directly."
+    ),
+    guide=[
+        ("Six goal-names, one shared template", [
+            "Giving up the fetters, uprooting the underlying "
+            "tendencies, completely understanding the course of "
+            "time, ending the defilements, realizing the fruit of "
+            "knowledge and freedom, and knowledge and vision itself "
+            "&mdash; six distinct goals, each keeping only its own "
+            "clause naming the goal before the source elides the "
+            "rest of the template with an ellipsis.",
+        ]),
+        ("Compression deepens across the run", [
+            "SN 45.41 (the previous page) gave the template in full; "
+            "this merged file compresses even further than SN "
+            "45.42-47's own individual predecessor, keeping only a "
+            "single clause per discourse rather than restating the "
+            "anticipated question or the eightfold-path answer at "
+            "all, confirmed by reading the merged file's own actual "
+            "content rather than assumed from SN 45.41's own fuller "
+            "shape.",
+        ]),
+        ("Every genuinely distinct fragment, quoted rather than "
+                "summarized", [
+            "Consistent with this project's own standing rule on "
+            "peyyāla coverage, all six goal-name clauses are quoted "
+            "individually below rather than folded into one "
+            "paraphrased list, since each names a genuinely different "
+            "target even though the surrounding template is "
+            "identical.",
+        ]),
+    ],
+    terms=[
+        ("saṁyojanappahānatthaṁ", "&ldquo;for the sake of giving up "
+             "the fetters&rdquo; &mdash; the first goal-name in this "
+             "merged run, SN 45.42's own"),
+        ("anusayasamugghātanatthaṁ", "&ldquo;for the sake of "
+             "uprooting the underlying tendencies&rdquo; &mdash; SN "
+             "45.43's own goal-name"),
+        ("addhānapariññatthaṁ", "&ldquo;for the sake of completely "
+             "understanding the course of time&rdquo; &mdash; SN "
+             "45.44's own goal-name, a term this project has not met "
+             "phrased quite this way elsewhere"),
+        ("āsavānaṁ khayatthaṁ", "&ldquo;for the sake of ending the "
+             "defilements&rdquo; &mdash; SN 45.45's own goal-name"),
+        ("vijjāvimuttiphalasacchikiriyatthaṁ... ñāṇadassanatthaṁ",
+             "&ldquo;for the sake of realizing the fruit of knowledge "
+             "and freedom... for knowledge and vision&rdquo; &mdash; "
+             "SN 45.46 and SN 45.47's own closing pair of goal-names"),
+    ],
+    text_intro=("Every genuinely translated fragment in this merged "
+        "file, quoted in full. Each entry's own remaining content is "
+        "the identical template already given in full at SN 45.41, "
+        "elided here with an ellipsis and not repeated six times "
+        "over. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "45.42", "sn45.42-47:1.1-1.3"),
+        ("p", "45.43", "sn45.42-47:1.4"),
+        ("p", "45.44", "sn45.42-47:1.5"),
+        ("p", "45.45", "sn45.42-47:1.6"),
+        ("p", "45.46", "sn45.42-47:1.7"),
+        ("p", "45.47", "sn45.42-47:1.8"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged page cover?",
+         "opts": ["Six (SN 45.42 through SN 45.47)", "Eight", "Two", "Forty-eight"],
+         "correct": 0,
+         "expl": "Confirmed by directly listing bilara-data's own directory: one merged file for six discourses."},
+        {"q": "What does each of these six entries keep, compared to SN 45.41's own full template?",
+         "opts": ["Only its own goal-name clause, with the rest elided by an ellipsis", "The full template repeated six times over", "Nothing — these six entries are entirely blank", "A brand new template unrelated to SN 45.41's own"],
+         "correct": 0,
+         "expl": "Compression deepens across the run — even SN 45.41's own fuller shape is not repeated here."},
+        {"q": "Why does this reading guide quote all six goal-names individually?",
+         "opts": ["Each names a genuinely different target, consistent with this project's standing rule on peyyāla coverage", "Because the file cannot be summarized at all", "Because each entry is actually quite long", "Because SuttaCentral requires it"],
+         "correct": 0,
+         "expl": "The project's own standing rule: real content is never dropped merely for appearing repetitive."},
+    ],
+    marginalia=[
+        ("Six goals, one file", [
+            "confirmed by listing the directory —",
+            "not assumed from SN 45.41's own shape",
+        ]),
+        ("Compression deepens", [
+            "not even the question restated —",
+            "only the goal-name clause itself",
+        ]),
+        ("Six genuinely different targets", [
+            "fetters, tendencies, time, defilements, fruit, vision —",
+            "quoted in full, none skipped",
+        ]),
+        ("The template, elsewhere given whole", [
+            "SN 45.41's own full version stands —",
+            "not repeated six times over here",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.42-47/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.41.html\">SN 45.41 &middot; The Fading "
+        "Away of Greed</a> &mdash; the previous page, giving this "
+        "vagga's own shared template in full.",
+        "<a href=\"sn-45.48.html\">SN 45.48 &middot; Extinguishment "
+        "With No Fuel For Grasping</a> &mdash; the next page, "
+        "closing this vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.48 — Anupādāparinibbānasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 48, "Anupādāparinibbāna", "Extinguishment With No Fuel For Grasping",
+    vagga="Aññatitthiyapeyyālavagga",
+    meta_title="SN 45.48 — Extinguishment With No Fuel For Grasping | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anupādāparinibbānasutta &mdash; the eighth and last "
+        "goal-name, echoing this project's own earlier encounter with "
+        "the \"fuel\" simile, closing this vagga. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The full template restored, as at SN 45.41, "
+                 "closing this vagga's own eight-discourse run"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, closes this vagga plainly"),
+    ],
+    why=(
+        "The eighth and last goal-name in this vagga's own run: "
+        "&ldquo;complete extinguishment with no fuel for "
+        "grasping&rdquo; (anupādāparinibbāna) &mdash; a term whose "
+        "own vocabulary (upādāna, fuel or grasping) directly echoes "
+        "this project's own earlier encounter at SN 44.9's fire "
+        "simile, where rebirth was described only for &ldquo;someone "
+        "who grasps fuel.&rdquo; This discourse restores the full "
+        "template SN 45.41 opened with, closing this vagga's own "
+        "eight-discourse arc."
+    ),
+    guide=[
+        ("The full template, restored to close the arc", [
+            "As at SN 45.41, this discourse gives the anticipated "
+            "question, the goal named, the follow-up path question, "
+            "and the eightfold-path answer all in full &mdash; "
+            "confirmed by reading both discourses side by side, this "
+            "vagga's own compression (tightest in the merged middle "
+            "six) opens and closes with the fuller form.",
+        ]),
+        ("A vocabulary link to this project's own earlier fire simile", [
+            "&ldquo;No fuel for grasping&rdquo; (anupādā) shares its "
+            "own root vocabulary directly with SN 44.9's own "
+            "upādāna (fuel, grasping), confirmed by comparing both "
+            "terms &mdash; the identical logic that explained why "
+            "rebirth could not be tracked for one freed from craving "
+            "now names the goal of the spiritual life itself.",
+        ]),
+        ("This vagga's own unusual closing colophon", [
+            "Unlike most vaggas in this saṃyutta, whose own colophon "
+            "reads &ldquo;-vaggo [ordinal],&rdquo; this vagga's own "
+            "closing line is simply &ldquo;Aññatitthiyapeyyālaṁ&rdquo; "
+            "(&ldquo;the abbreviated text on followers of other "
+            "paths&rdquo;) with no ordinal at all, followed by an "
+            "untranslated meta-uddāna naming all eight goal-terms in "
+            "verse &mdash; described here rather than quoted, since "
+            "this content is left untranslated in Sujato's own "
+            "English.",
+        ]),
+    ],
+    terms=[
+        ("anupādāparinibbānaṁ", "&ldquo;complete extinguishment with "
+             "no fuel for grasping&rdquo; &mdash; this discourse's "
+             "own goal-name, the eighth and last in this vagga's own "
+             "run"),
+        ("upādāna", "&ldquo;fuel&rdquo; or &ldquo;grasping&rdquo; "
+             "&mdash; the shared root vocabulary linking this "
+             "discourse to this project's own earlier encounter at "
+             "SN 44.9's fire simile"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, the "
+             "answer this discourse restores in full, as at SN 45.41"),
+        ("aññatitthiyapeyyālaṁ", "&ldquo;the abbreviated text on "
+             "followers of other paths&rdquo; &mdash; this vagga's "
+             "own unusual closing colophon, without the ordinal "
+             "numbering most other vaggas in this saṃyutta carry"),
+        ("tassuddānaṁ", "&ldquo;its own summary verse&rdquo; "
+             "&mdash; the heading introducing the untranslated "
+             "meta-uddāna naming all eight goal-terms of this vagga"),
+    ],
+    text_intro=("The complete genuinely translated content of the "
+        "discourse. This vagga's own closing colophon and "
+        "meta-uddāna are left untranslated in the source and are "
+        "described, not quoted, above. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.48:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "What goal-name does this discourse supply, the eighth and last in this vagga's own run?",
+         "opts": ["Complete extinguishment with no fuel for grasping", "The fading away of greed", "Giving up the fetters", "Knowledge and vision"],
+         "correct": 0,
+         "expl": "A term whose own vocabulary directly echoes this project's earlier encounter with SN 44.9's fire simile."},
+        {"q": "How does this discourse's own form compare to SN 45.41's own?",
+         "opts": ["The full template restored, matching SN 45.41's own fuller shape rather than SN 45.42-47's own compression", "Even more compressed than SN 45.42-47's own entries", "An entirely different, unrelated structure", "Identical to SN 45.42-47's own single-clause form"],
+         "correct": 0,
+         "expl": "Confirmed by reading both discourses side by side — the arc opens and closes with the fuller form."},
+        {"q": "What is unusual about this vagga's own closing colophon, left untranslated in the root?",
+         "opts": ["It has no ordinal numbering, unlike most other vaggas in this saṃyutta", "It is written in English rather than Pāli", "It names a different vagga entirely", "There is no closing colophon at all"],
+         "correct": 0,
+         "expl": "Described rather than quoted, since Sujato's own English leaves this portion untranslated."},
+    ],
+    marginalia=[
+        ("The eighth and last goal-name", [
+            "no fuel for grasping —",
+            "closing this vagga's own run",
+        ]),
+        ("A vocabulary link to SN 44.9", [
+            "\"fuel\" — the same root word —",
+            "the fire simile's own logic, echoed",
+        ]),
+        ("The full template, restored", [
+            "as at SN 45.41 —",
+            "the tightest compression sat in the middle",
+        ]),
+        ("An unusual close, honestly described", [
+            "no ordinal numbering this time —",
+            "left untranslated, not invented",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.48/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.42-47.html\">SN 45.42&ndash;47 &middot; "
+        "Six Discourses on Giving Up Fetters, Etc.</a> &mdash; the "
+        "previous page.",
+        "<a href=\"sn-44.9.html\">SN 44.9 &middot; The Debating "
+        "Hall</a> &mdash; this project's own earlier encounter with "
+        "the \"fuel\" simile this discourse's own vocabulary echoes.",
+        "<a href=\"sn-55.1.html\">SN 55.1 &middot; A Wheel-Turning "
+        "Monarch</a> &mdash; already published on this site, "
+        "standing ahead of this project's next vagga, "
+        "Sūriyapeyyālavagga (SN 45.49&ndash;62), not yet built.",
+    ],
 )
