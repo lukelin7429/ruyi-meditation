@@ -230,6 +230,54 @@ INDEX_EXTRA = [
 # provides.
 # --------------------------------------------------------------------------- #
 
+# --------------------------------------------------------------------------- #
+# SN 40 (Moggallānasaṃyutta, "Linked Discourses with Moggallāna") is
+# this book's sixth saṃyutta, confirmed against both bilara-data's own
+# file count and SuttaCentral's own menu API: 11 discourses, all
+# individual files, in a single vagga (Moggallānavagga). Structurally
+# this saṃyutta is unlike either of the two immediately preceding it:
+# not a catechism (SN 38) and not compressed across saṃyutta
+# boundaries (SN 39), but Venerable Mahāmoggallāna's own first-person
+# account of meditative struggle, addressed to the mendicants rather
+# than answering a wanderer's questions -- confirming that even
+# structural patterns cannot be assumed to carry over from one
+# saṃyutta to the next, only discourse counts can be checked in
+# advance. SN 40.1-9 share one fixed template, confirmed by reading
+# all nine directly: Moggallāna privately wonders what a named
+# attainment (the four absorptions, the four formless dimensions, and
+# finally the signless immersion of the heart) actually is, defines
+# it, attains it -- but finds his meditation disturbed by a residual
+# perception tied specifically to the immediately preceding, coarser
+# attainment in the sequence (SN 40.2's second absorption is disturbed
+# by leftover perceptions of placing the mind, the very factor the
+# second absorption itself drops; SN 40.6's infinite consciousness is
+# disturbed by leftover perceptions of infinite space, and so on down
+# the line) -- until the Buddha personally appears by psychic power
+# and exhorts him not to neglect that attainment, after which
+# Moggallāna succeeds fully. SN 40.9 (the signless immersion) breaks
+# this residue pattern: it is not one rung in the numbered
+# eight-attainment ladder, and what disturbs it is described
+# differently (his own consciousness "follows after signs" generally,
+# not a residue of one specific prior state). SN 40.10 turns to an
+# entirely different setting -- Moggallāna visiting the Tāvatiṃsa
+# heaven and teaching Sakka and successively larger assemblies of
+# deities about the three refuges and the four factors of
+# stream-entry -- and root Pali elides its own internal repetition so
+# heavily across four rounds of exposition that Sujato's own English
+# trails into a bare ellipsis for every repeated visit beyond the
+# first of each teaching -- this project's own reading guide quotes
+# every one of those genuinely translated segments in full, including
+# the short ellipsis lines themselves, organized under headers by
+# teaching and by assembly, confirmed against sn_check_coverage.py
+# rather than silently condensed. SN 40.11 closes the saṃyutta with a
+# second,
+# saṃyutta-internal cross-reference (not a cross-saṃyutta one like SN
+# 39's own): five named godlings visit Moggallāna, and the source
+# itself says "Tell in full as in the Discourse With Sakka" rather
+# than repeating SN 40.10's own content a fifth time, closing on this
+# saṃyutta's own genuinely Sujato-translated colophon.
+# --------------------------------------------------------------------------- #
+
 PAGES = []
 
 
@@ -43928,8 +43976,1519 @@ page(
         '<a href="sn-39.1-15.html">SN 39.1&ndash;15 &middot; With '
         "Sāmaṇḍaka on Extinguishment</a> &mdash; the previous page, "
         "opening this saṃyutta.",
+        '<a href="sn-40.1.html">SN 40.1 &middot; A Question About '
+        "the First Absorption</a> &mdash; the next discourse, opening "
+        "this project's next saṃyutta, SN 40 (Moggallānasaṃyutta).",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 40.1 — Paṭhamajhānapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    40, 1, "Paṭhamajhānapañhā", "A Question About the First Absorption",
+    vagga="Moggallānavagga",
+    meta_title="SN 40.1 — A Question About the First Absorption | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamajhānapañhāsutta &mdash; opening Moggallānasaṃyutta "
+        "with Venerable Mahāmoggallāna's own account of struggling to "
+        "stabilize the first absorption, and the Buddha personally "
+        "intervening to help. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                     "monastery"),
+        ("Speakers", "Venerable Mahāmoggallāna addressing a group of "
+                     "mendicants"),
+        ("Form", "A first-person account: private reflection, a "
+                 "definition, a first attempt disturbed by a residual "
+                 "perception, the Buddha's personal intervention, "
+                 "and success"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "opens a nine-discourse pattern this reading "
+                       "guide will track discourse by discourse"),
+    ],
+    why=(
+        "This discourse opens Moggallānasaṃyutta with something new "
+        "for this project: not the Buddha addressing mendicants, and "
+        "not a wanderer questioning a disciple, but Venerable "
+        "Mahāmoggallāna &mdash; one of the Buddha's two chief "
+        "disciples &mdash; recounting his own struggle to a group of "
+        "mendicants. Wondering privately what the first absorption "
+        "actually is, he defines it, enters it himself &mdash; but "
+        "finds his meditation disturbed by leftover perceptions "
+        "tied to sensual pleasure, the very thing the first "
+        "absorption is meant to leave behind. The Buddha then appears "
+        "to him by psychic power and personally exhorts him not to "
+        "neglect this attainment; only then does Moggallāna succeed "
+        "fully. This is the first of nine discourses (SN 40.1&ndash;9) "
+        "sharing this exact template, confirmed by reading all nine "
+        "directly: each names a progressively subtler meditative "
+        "attainment, and each is haunted specifically by a residual "
+        "perception belonging to the coarser attainment immediately "
+        "below it in sequence &mdash; not a random disturbance, but "
+        "the specific habit the current attainment itself is meant "
+        "to have already left behind."
+    ),
+    guide=[
+        ("A chief disciple's own admitted struggle", [
+            "Moggallāna, already renowned for his own attainments, "
+            "openly tells the assembled mendicants about a genuine "
+            "difficulty he faced &mdash; not a hypothetical teaching "
+            "example, but his own first-person account of needing "
+            "the Buddha's personal intervention to stabilize a "
+            "meditative state.",
+        ]),
+        ("The residue that disturbs him, named precisely", [
+            "While in the first absorption, &ldquo;perception and "
+            "focus accompanied by sensual pleasures beset&rdquo; him "
+            "&mdash; not distraction in general, but a specific, "
+            "named residue: sensuality is exactly what the first "
+            "absorption's own definition already claims to be "
+            "&ldquo;secluded from.&rdquo; This precise naming of the "
+            "disturbance is what this reading guide will track across "
+            "the next eight discourses.",
+        ]),
+        ("The Buddha's intervention, addressed to a brahmin", [
+            "&ldquo;Moggallāna, Moggallāna! Don't neglect the first "
+            "absorption, brahmin!&rdquo; &mdash; the Buddha addresses "
+            "him as brāhmaṇa, referencing Moggallāna's own birth "
+            "family rather than making any claim about his current "
+            "religious identity, before giving him the exact same "
+            "three-part instruction (settle the mind, unify it, "
+            "immerse it) that will recur, word for word, in each of "
+            "the following eight discourses.",
+        ]),
+        ("A closing self-proclamation, also set to recur", [
+            "&ldquo;If anyone should be rightly called a disciple who "
+            "attained to great direct knowledge with help from the "
+            "Teacher, it's me&rdquo; &mdash; Moggallāna's own closing "
+            "words, crediting the Buddha's help explicitly rather "
+            "than claiming the achievement unaided, a formula this "
+            "reading guide expects to recur through SN 40.9.",
+        ]),
+    ],
+    terms=[
+        ("paṭhamaṁ jhānaṁ", "&ldquo;the first absorption&rdquo; "
+             "&mdash; this discourse's own subject, defined by "
+             "seclusion from sensual pleasures and unskillful "
+             "qualities, with placing and keeping the mind connected "
+             "still present"),
+        ("kāmasahagatā saññāmanasikārā", "&ldquo;perception and "
+             "focus accompanied by sensual pleasures&rdquo; &mdash; "
+             "the specific residue disturbing Moggallāna, precisely "
+             "matching what the first absorption's own definition "
+             "claims to have already left behind"),
+        ("brāhmaṇa", "&ldquo;brahmin&rdquo; &mdash; the Buddha's own "
+             "address to Moggallāna, referencing his birth family "
+             "rather than a current religious identity"),
+        ("mā... pamādo... cittaṁ saṇṭhapehi... ekodiṁ karohi... "
+         "samādahā", "&ldquo;don't neglect... settle your mind... "
+             "unify it... immerse it&rdquo; &mdash; the Buddha's own "
+             "fixed three-part instruction, expected to recur "
+             "unchanged in form across the next eight discourses"),
+        ("satthārānuggahito sāvako mahābhiññataṁ patto", "&ldquo;a "
+             "disciple who attained to great direct knowledge with "
+             "help from the Teacher&rdquo; &mdash; Moggallāna's own "
+             "closing self-description, crediting the Buddha's help "
+             "explicitly"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn40.1:1.1-1.5"),
+        ("p", "&sect;2", "sn40.1:2.1-2.8"),
+        ("p", "&sect;3", "sn40.1:3.1-3.6"),
+    ],
+    quiz=[
+        {"q": "What role does Moggallāna play in this discourse, unlike most earlier saṃyuttas on this site?",
+         "opts": ["He addresses the mendicants directly with his own first-person account, rather than the Buddha addressing mendicants or a disciple answering a wanderer", "He questions a wanderer named Jambukhādaka", "He remains entirely silent throughout", "He addresses only the Buddha, not the mendicants"],
+         "correct": 0,
+         "expl": "A genuinely new speaker role for this project: a chief disciple's own admitted account of struggle."},
+        {"q": "What specific residue disturbs Moggallāna while in the first absorption?",
+         "opts": ["Perception and focus accompanied by sensual pleasures — exactly what the first absorption's own definition claims to have left behind", "A loud noise from outside the monastery", "Doubt about the Buddha's own teaching", "Physical pain from sitting too long"],
+         "correct": 0,
+         "expl": "Not a random distraction, but the precise habit this attainment is meant to have already left behind."},
+        {"q": "How does the Buddha address Moggallāna in his intervention?",
+         "opts": ["As \"brāhmaṇa\" (brahmin), referencing his birth family rather than a claim about his current religious identity", "As \"bhikkhu\" only, with no other title", "By his given name alone with no honorific", "As \"āvuso\" (reverend), the address used in the previous two saṃyuttas"],
+         "correct": 0,
+         "expl": "A term of address tied to Moggallāna's own family background, not a statement about his ordained identity."},
+        {"q": "What does Moggallāna's own closing self-description credit?",
+         "opts": ["The Buddha's help explicitly — \"a disciple who attained... with help from the Teacher\"", "His own unaided effort alone, with no mention of the Buddha", "A group of fellow mendicants who assisted him", "No credit is given to anyone in the closing line"],
+         "correct": 0,
+         "expl": "Moggallāna names the Buddha's assistance directly rather than claiming the achievement unaided."},
+        {"q": "What pattern does this reading guide expect to track across the next eight discourses?",
+         "opts": ["Each attainment haunted by a residual perception tied specifically to the coarser attainment immediately below it in sequence", "A completely different residue with no connection to sequence at all", "No pattern; each discourse will be entirely unrelated", "The Buddha failing to intervene in later discourses"],
+         "correct": 0,
+         "expl": "Confirmed by reading all nine discourses directly before writing this reading guide."},
+    ],
+    marginalia=[
+        ("A chief disciple, admitting struggle", [
+            "Moggallāna's own account, told to mendicants —",
+            "not a hypothetical, but his own difficulty",
+        ]),
+        ("The exact residue, named", [
+            "sensual perception, in the first absorption —",
+            "precisely what this state claims to leave behind",
+        ]),
+        ("An address to family, not to faith", [
+            "brāhmaṇa, brahmin, from the Buddha's own mouth —",
+            "his birth, not his current religious identity",
+        ]),
+        ("Credit given, not claimed alone", [
+            "“with help from the Teacher” —",
+            "Moggallāna's own words, crediting the Buddha directly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn40.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-39.16.html">SN 39.16 &middot; Hard to Do</a> '
+        "&mdash; already published on this site, closing "
+        "Sāmaṇḍakasaṃyutta just before this saṃyutta opens.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 40.2 — Dutiyajhānapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    40, 2, "Dutiyajhānapañhā", "A Question About the Second Absorption",
+    vagga="Moggallānavagga",
+    meta_title="SN 40.2 — A Question About the Second Absorption | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyajhānapañhāsutta &mdash; the same template applied "
+        "to the second absorption, disturbed by leftover perceptions "
+        "of the very factor it drops. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as Moggallāna's "
+                     "own account from SN 40.1's own setting"),
+        ("Speakers", "Venerable Mahāmoggallāna addressing the "
+                     "mendicants"),
+        ("Form", "The identical template as SN 40.1, applied to the "
+                 "second absorption"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "confirms the predicted pattern for the first "
+                       "time"),
+    ],
+    why=(
+        "This discourse confirms the pattern predicted at SN 40.1: "
+        "the identical template, now applied to the second "
+        "absorption. Moggallāna defines it &mdash; internal clarity "
+        "and unified mind, without placing the mind or keeping it "
+        "connected &mdash; but while dwelling in it, &ldquo;perception "
+        "and focus accompanied by placing the mind beset&rdquo; him: "
+        "leftover perceptions of vitakka, the very factor the second "
+        "absorption itself has already dropped. The Buddha's "
+        "intervention and Moggallāna's eventual success follow, word "
+        "for word matching SN 40.1's own structure apart from the "
+        "specific attainment and its specific residue."
+    ),
+    guide=[
+        ("The predicted pattern, confirmed", [
+            "Exactly as SN 40.1's own reading guide anticipated: the "
+            "residue disturbing this discourse is precisely the "
+            "factor the second absorption itself is defined by "
+            "dropping &mdash; placing and keeping the mind connected "
+            "(vitakka-vicāra), present in the first absorption but "
+            "absent here by definition.",
+        ]),
+    ],
+    terms=[
+        ("dutiyaṁ jhānaṁ", "&ldquo;the second absorption&rdquo; "
+             "&mdash; this discourse's own subject, defined by "
+             "internal clarity and a unified mind, without placing "
+             "the mind or keeping it connected"),
+        ("vitakkasahagatā saññāmanasikārā", "&ldquo;perception and "
+             "focus accompanied by placing the mind&rdquo; &mdash; "
+             "the residue disturbing Moggallāna, precisely the factor "
+             "the second absorption's own definition has already "
+             "dropped"),
+        ("cittaṁ saṇṭhapehi, cittaṁ ekodiṁ karohi, cittaṁ samādahā",
+             "&ldquo;settle your mind... unify it... immerse "
+             "it&rdquo; &mdash; the Buddha's own fixed three-part "
+             "instruction, unchanged in form from SN 40.1"),
+        ("satthārānuggahito sāvako mahābhiññataṁ patto", "&ldquo;a "
+             "disciple who attained to great direct knowledge with "
+             "help from the Teacher&rdquo; &mdash; Moggallāna's own "
+             "closing self-description, identical to SN 40.1's own"),
+        ("dutiyaṁ", "&ldquo;second&rdquo; &mdash; this discourse's "
+             "own untranslated closing ordinal"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn40.2:1.1-1.7"),
+        ("p", "&sect;2", "sn40.2:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What residue disturbs Moggallāna in the second absorption?",
+         "opts": ["Perception and focus accompanied by placing the mind — the very factor the second absorption drops", "Sensual pleasure, identical to SN 40.1's own residue", "A residue unrelated to any specific meditative factor", "No residue disturbs him in this discourse"],
+         "correct": 0,
+         "expl": "Confirming the pattern SN 40.1's reading guide predicted: each residue matches the coarser attainment's own dropped factor."},
+        {"q": "How does this discourse's overall structure compare to SN 40.1's own?",
+         "opts": ["Identical in form, differing only in the specific attainment and its specific residue", "Entirely different, with no shared structure at all", "Shorter, omitting the Buddha's intervention", "Longer, adding an additional stage not present in SN 40.1"],
+         "correct": 0,
+         "expl": "Word for word matching apart from the attainment named and the residue disturbing it."},
+    ],
+    marginalia=[
+        ("The pattern, confirmed once", [
+            "vitakka's own residue disturbs this state —",
+            "exactly the factor the second absorption drops",
+        ]),
+        ("The same three-part instruction", [
+            "settle, unify, immerse —",
+            "unchanged in form from SN 40.1",
+        ]),
+        ("Placing the mind, once needed", [
+            "vitakka served the first absorption —",
+            "now itself the residue disturbing the second",
+        ]),
+        ("A closing line, already familiar", [
+            "the same self-proclamation as SN 40.1 —",
+            "credit given to the Teacher's help",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn40.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-40.1.html">SN 40.1 &middot; A Question About '
+        "the First Absorption</a> &mdash; the previous discourse, "
+        "establishing the template this discourse confirms.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 40.3 — Tatiyajhānapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    40, 3, "Tatiyajhānapañhā", "A Question About the Third Absorption",
+    vagga="Moggallānavagga",
+    meta_title="SN 40.3 — A Question About the Third Absorption | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyajhānapañhāsutta &mdash; the third absorption, "
+        "disturbed by leftover perceptions of rapture. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as Moggallāna's "
+                     "own account from SN 40.1's own setting"),
+        ("Speakers", "Venerable Mahāmoggallāna addressing the "
+                     "mendicants"),
+        ("Form", "The identical template, applied to the third "
+                 "absorption"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the pattern now well established"),
+    ],
+    why=(
+        "The third absorption &mdash; equanimous, mindful, aware, "
+        "personally experiencing the bliss the noble ones describe as "
+        "&ldquo;equanimous and mindful, one meditates in bliss&rdquo; "
+        "&mdash; is disturbed by leftover perceptions of rapture "
+        "(pīti), the very quality the third absorption's own "
+        "definition describes fading away. Root Pali itself begins "
+        "compressing this discourse's own closing exchange with "
+        "&ldquo;...pe... mahābhiññataṁ patto&rdquo; from this "
+        "discourse onward, though Sujato's own English continues to "
+        "spell every discourse out in full through SN 40.9."
+    ),
+    guide=[
+        ("A third confirmation of the same pattern", [
+            "Rapture (pīti) is exactly what the third absorption's "
+            "own definition describes fading away &mdash; the third "
+            "residue in a row precisely matching the coarser "
+            "attainment's own dropped factor, now confirmed three "
+            "times.",
+        ]),
+        ("Root Pali begins abbreviating, English does not", [
+            "From this discourse onward, bilara-data's own root text "
+            "compresses the closing exchange to &ldquo;...pe... "
+            "mahābhiññataṁ patto&rdquo; &mdash; but Sujato's own "
+            "English spells every one of SN 40.1&ndash;9's closing "
+            "exchanges out in full, confirmed by reading each "
+            "discourse's own translation file directly.",
+        ]),
+    ],
+    terms=[
+        ("tatiyaṁ jhānaṁ", "&ldquo;the third absorption&rdquo; "
+             "&mdash; defined by the fading of rapture, equanimity, "
+             "mindfulness, and awareness"),
+        ("pītisahagatā saññāmanasikārā", "&ldquo;perception and "
+             "focus accompanied by rapture&rdquo; &mdash; the "
+             "residue disturbing Moggallāna, matching the factor the "
+             "third absorption's own definition describes fading"),
+        ("upekkhako satimā sukhavihārī", "&ldquo;equanimous and "
+             "mindful, one meditates in bliss&rdquo; &mdash; the "
+             "noble ones' own description, quoted within the "
+             "definition itself"),
+        ("mā... pamādo", "&ldquo;don't neglect&rdquo; &mdash; the "
+             "opening of the Buddha's own fixed exhortation, "
+             "unchanged in form since SN 40.1"),
+        ("tatiyaṁ", "&ldquo;third&rdquo; &mdash; this discourse's "
+             "own untranslated closing ordinal"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn40.3:1.1-1.7"),
+        ("p", "&sect;2", "sn40.3:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What residue disturbs Moggallāna in the third absorption?",
+         "opts": ["Perception and focus accompanied by rapture — the very quality the third absorption's own definition describes fading", "Perception of placing the mind, identical to SN 40.2's own residue", "No residue is mentioned in this discourse", "A residue tied to sensual pleasure"],
+         "correct": 0,
+         "expl": "The third confirmation in a row of the pattern established at SN 40.1."},
+        {"q": "What happens to root Pali's own closing exchange from this discourse onward?",
+         "opts": ["It compresses to \"...pe... mahābhiññataṁ patto\", though Sujato's own English continues spelling it out in full", "It disappears entirely from both root and English", "It expands with new content not present in SN 40.1-2", "Nothing changes; the root remains fully spelled out"],
+         "correct": 0,
+         "expl": "Confirmed by reading bilara-data's own root file directly against Sujato's English translation."},
+    ],
+    marginalia=[
+        ("A third confirmation", [
+            "rapture's own residue, fading as defined —",
+            "the pattern holding a third time",
+        ]),
+        ("Root abbreviates, English does not", [
+            "“...pe... mahābhiññataṁ patto” in the Pali —",
+            "Sujato spells it out in full regardless",
+        ]),
+        ("Equanimous, mindful, in bliss", [
+            "the noble ones' own words, quoted —",
+            "describing what the third absorption feels like",
+        ]),
+        ("A pattern now three deep", [
+            "rapture's own fading, exactly as defined —",
+            "no exception yet in the sequence",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn40.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-40.1.html">SN 40.1 &middot; A Question About '
+        "the First Absorption</a> &mdash; already published on this "
+        "site, establishing this discourse's own shared template.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 40.4 — Catutthajhānapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    40, 4, "Catutthajhānapañhā", "A Question About the Fourth Absorption",
+    vagga="Moggallānavagga",
+    meta_title="SN 40.4 — A Question About the Fourth Absorption | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Catutthajhānapañhāsutta &mdash; the fourth and final "
+        "absorption, disturbed by leftover perceptions of pleasure. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as Moggallāna's "
+                     "own account from SN 40.1's own setting"),
+        ("Speakers", "Venerable Mahāmoggallāna addressing the "
+                     "mendicants"),
+        ("Form", "The identical template, applied to the fourth "
+                 "absorption, closing the four-absorption sequence"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes the four-absorption sequence before "
+                       "the formless attainments begin"),
+    ],
+    why=(
+        "The fourth absorption &mdash; giving up pleasure and pain, "
+        "the earlier disappearance of happiness and sadness, pure "
+        "equanimity and mindfulness &mdash; is disturbed by leftover "
+        "perceptions of pleasure (sukha), the very quality the fourth "
+        "absorption's own definition describes giving up. This "
+        "discourse closes the four-absorption sequence (SN "
+        "40.1&ndash;4); SN 40.5 will turn to the first of the four "
+        "formless dimensions, extending the identical residue pattern "
+        "beyond the jhānas themselves."
+    ),
+    guide=[
+        ("The fourth absorption closes this sequence's first "
+         "quarter", [
+            "Pleasure (sukha) is exactly what the fourth absorption's "
+            "own definition describes giving up &mdash; the fourth "
+            "confirmation of the residue pattern, and the last "
+            "within the four absorptions themselves before the "
+            "sequence turns to the formless dimensions.",
+        ]),
+    ],
+    terms=[
+        ("catutthaṁ jhānaṁ", "&ldquo;the fourth absorption&rdquo; "
+             "&mdash; defined by giving up pleasure and pain, with "
+             "pure equanimity and mindfulness"),
+        ("sukhasahagatā saññāmanasikārā", "&ldquo;perception and "
+             "focus accompanied by pleasure&rdquo; &mdash; the "
+             "residue disturbing Moggallāna, matching the factor the "
+             "fourth absorption's own definition describes giving up"),
+        ("adukkhamasukhaṁ upekkhāsatipārisuddhiṁ", "&ldquo;without "
+             "pleasure or pain, with pure equanimity and "
+             "mindfulness&rdquo; &mdash; the fourth absorption's own "
+             "defining phrase"),
+        ("cittaṁ saṇṭhapehi, cittaṁ ekodiṁ karohi, cittaṁ samādahā",
+             "&ldquo;settle your mind... unify it... immerse "
+             "it&rdquo; &mdash; the Buddha's own fixed instruction, "
+             "unchanged in form since SN 40.1"),
+        ("catutthaṁ", "&ldquo;fourth&rdquo; &mdash; this discourse's "
+             "own untranslated closing ordinal"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn40.4:1.1-1.7"),
+        ("p", "&sect;2", "sn40.4:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What residue disturbs Moggallāna in the fourth absorption?",
+         "opts": ["Perception and focus accompanied by pleasure — the very quality the fourth absorption's own definition describes giving up", "Perception of rapture, identical to SN 40.3's own residue", "No residue is described in this discourse", "A residue tied to sound and noise"],
+         "correct": 0,
+         "expl": "The fourth confirmation of the residue pattern, closing the four-absorption sequence."},
+        {"q": "What does this discourse's own position mark within the larger nine-discourse sequence?",
+         "opts": ["The close of the four-absorption sequence, before the formless dimensions begin at SN 40.5", "The exact midpoint of all nine discourses", "The opening discourse of the entire saṃyutta", "The final discourse before SN 40.10's own different setting"],
+         "correct": 0,
+         "expl": "SN 40.5 will extend the identical pattern to the first of the four formless dimensions."},
+    ],
+    marginalia=[
+        ("A fourth confirmation", [
+            "pleasure's own residue, given up as defined —",
+            "closing the four absorptions themselves",
+        ]),
+        ("What comes next", [
+            "four absorptions complete —",
+            "four formless dimensions about to begin",
+        ]),
+        ("Neither pleasure nor pain remains", [
+            "pure equanimity, pure mindfulness —",
+            "the calmest of the four absorptions",
+        ]),
+        ("Four down, four still to come", [
+            "the absorptions close here —",
+            "the formless dimensions begin next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn40.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-40.1.html">SN 40.1 &middot; A Question About '
+        "the First Absorption</a> &mdash; already published on this "
+        "site, establishing this discourse's own shared template.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 40.5 — Ākāsānañcāyatanapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    40, 5, "Ākāsānañcāyatanapañhā",
+    "A Question About the Dimension of Infinite Space",
+    vagga="Moggallānavagga",
+    meta_title="SN 40.5 — A Question About the Dimension of Infinite "
+                "Space | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ākāsānañcāyatanapañhāsutta &mdash; the first of four "
+        "formless dimensions, disturbed by leftover perceptions of "
+        "form. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as Moggallāna's "
+                     "own account from SN 40.1's own setting"),
+        ("Speakers", "Venerable Mahāmoggallāna addressing the "
+                     "mendicants"),
+        ("Form", "The identical template, now applied to the first "
+                 "of four formless dimensions"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the sequence's own turn from form-based "
+                       "absorption to formless dimension"),
+    ],
+    why=(
+        "This discourse extends the residue pattern beyond the four "
+        "absorptions themselves: the dimension of infinite space "
+        "&mdash; going entirely beyond perceptions of form, "
+        "impingement, and diversity, aware only that &ldquo;space is "
+        "infinite&rdquo; &mdash; is disturbed by leftover perceptions "
+        "of form (rūpa), exactly what this dimension's own definition "
+        "describes going beyond. The pattern established across the "
+        "four jhānas continues unbroken into the first of the four "
+        "formless dimensions."
+    ),
+    guide=[
+        ("The pattern crosses into the formless dimensions", [
+            "Form (rūpa) is precisely what the dimension of infinite "
+            "space's own definition describes going beyond &mdash; "
+            "the residue pattern holding not only within the four "
+            "absorptions but continuing unbroken as the sequence "
+            "turns to a different category of attainment entirely.",
+        ]),
+    ],
+    terms=[
+        ("ākāsānañcāyatanaṁ", "&ldquo;the dimension of infinite "
+             "space&rdquo; &mdash; defined by going entirely beyond "
+             "perceptions of form, impingement, and diversity"),
+        ("rūpasahagatā saññāmanasikārā", "&ldquo;perception and "
+             "focus accompanied by forms&rdquo; &mdash; the residue "
+             "disturbing Moggallāna, matching the factor this "
+             "dimension's own definition describes going beyond"),
+        ("ananto ākāso", "&ldquo;space is infinite&rdquo; &mdash; "
+             "the awareness this dimension is defined by"),
+        ("mā... pamādo", "&ldquo;don't neglect&rdquo; &mdash; the "
+             "opening of the Buddha's own fixed exhortation, "
+             "unchanged in form since SN 40.1"),
+        ("pañcamaṁ", "&ldquo;fifth&rdquo; &mdash; this discourse's "
+             "own untranslated closing ordinal"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn40.5:1.1-1.7"),
+        ("p", "&sect;2", "sn40.5:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What residue disturbs Moggallāna in the dimension of infinite space?",
+         "opts": ["Perception and focus accompanied by forms — exactly what this dimension's own definition describes going beyond", "Perception of pleasure, identical to SN 40.4's own residue", "No residue disturbs this attainment", "A residue tied to sound"],
+         "correct": 0,
+         "expl": "The residue pattern continuing unbroken as the sequence turns from the absorptions to the formless dimensions."},
+        {"q": "What category shift does this discourse mark within the nine-discourse sequence?",
+         "opts": ["The turn from the four absorptions to the first of four formless dimensions", "The return to the first absorption after a full cycle", "The introduction of an entirely new template", "The closing discourse of the sequence"],
+         "correct": 0,
+         "expl": "The identical residue pattern extending across a genuine category boundary."},
+    ],
+    marginalia=[
+        ("A pattern that crosses categories", [
+            "form's own residue, left behind as defined —",
+            "the absorptions give way to the formless",
+        ]),
+        ("Infinite space, aware of nothing else", [
+            "“ananto ākāso” — space, without limit —",
+            "the first of four formless dimensions",
+        ]),
+        ("Beyond impingement, beyond diversity", [
+            "three perceptions left behind at once —",
+            "not just form alone",
+        ]),
+        ("A boundary crossed, unbroken", [
+            "the same haunting logic —",
+            "now on the far side of form itself",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn40.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-40.4.html">SN 40.4 &middot; A Question About '
+        "the Fourth Absorption</a> &mdash; already published on this "
+        "site, the previous discourse, closing the four-absorption "
+        "sequence.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 40.6 — Viññāṇañcāyatanapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    40, 6, "Viññāṇañcāyatanapañhā",
+    "A Question About the Dimension of Infinite Consciousness",
+    vagga="Moggallānavagga",
+    meta_title="SN 40.6 — A Question About the Dimension of Infinite "
+                "Consciousness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Viññāṇañcāyatanapañhāsutta &mdash; the second formless "
+        "dimension, disturbed by leftover perceptions of infinite "
+        "space. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as Moggallāna's "
+                     "own account from SN 40.1's own setting"),
+        ("Speakers", "Venerable Mahāmoggallāna addressing the "
+                     "mendicants"),
+        ("Form", "The identical template, applied to the second "
+                 "formless dimension"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the pattern's residue now points to a "
+                       "formless dimension rather than a jhāna "
+                       "factor"),
+    ],
+    why=(
+        "The dimension of infinite consciousness &mdash; going "
+        "entirely beyond the dimension of infinite space, aware only "
+        "that &ldquo;consciousness is infinite&rdquo; &mdash; is "
+        "disturbed by leftover perceptions of the dimension of "
+        "infinite space itself, the immediately preceding attainment. "
+        "This is the first discourse in the sequence where the "
+        "residue is itself a named formless dimension rather than a "
+        "jhāna factor like rapture or pleasure &mdash; the same "
+        "underlying pattern, expressed in the formless dimensions' "
+        "own vocabulary."
+    ),
+    guide=[
+        ("The residue is now a dimension, not a factor", [
+            "Where SN 40.1&ndash;5's own residues were named jhāna "
+            "factors (sensuality, placing the mind, rapture, "
+            "pleasure, form), this discourse's own residue is the "
+            "entire preceding formless dimension itself &mdash; the "
+            "same underlying pattern (haunted by exactly what the "
+            "current attainment goes beyond), now expressed in the "
+            "formless dimensions' own terms.",
+        ]),
+    ],
+    terms=[
+        ("viññāṇañcāyatanaṁ", "&ldquo;the dimension of infinite "
+             "consciousness&rdquo; &mdash; defined by going entirely "
+             "beyond the dimension of infinite space"),
+        ("ākāsānañcāyatanasahagatā saññāmanasikārā", "&ldquo;"
+             "perception and focus accompanied by the dimension of "
+             "infinite space&rdquo; &mdash; the residue disturbing "
+             "Moggallāna, here itself a named formless dimension "
+             "rather than a jhāna factor"),
+        ("anantaṁ viññāṇaṁ", "&ldquo;consciousness is "
+             "infinite&rdquo; &mdash; the awareness this dimension is "
+             "defined by"),
+        ("cittaṁ saṇṭhapehi, cittaṁ ekodiṁ karohi, cittaṁ samādahā",
+             "&ldquo;settle your mind... unify it... immerse "
+             "it&rdquo; &mdash; the Buddha's own fixed instruction, "
+             "unchanged since SN 40.1"),
+        ("chaṭṭhaṁ", "&ldquo;sixth&rdquo; &mdash; this discourse's "
+             "own untranslated closing ordinal"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn40.6:1.1-1.7"),
+        ("p", "&sect;2", "sn40.6:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What residue disturbs Moggallāna in the dimension of infinite consciousness?",
+         "opts": ["Perception and focus accompanied by the dimension of infinite space, the immediately preceding attainment", "Perception of form, identical to SN 40.5's own residue", "No residue is mentioned", "Perception of pleasure"],
+         "correct": 0,
+         "expl": "The first discourse where the residue is itself a formless dimension rather than a jhāna factor."},
+        {"q": "How does this discourse's own residue differ in kind from SN 40.1-5's own residues?",
+         "opts": ["It names an entire preceding formless dimension rather than a specific jhāna factor, though the underlying pattern is identical", "It names a completely unrelated disturbance with no pattern at all", "It is identical in wording to SN 40.5's own residue", "This discourse describes no residue whatsoever"],
+         "correct": 0,
+         "expl": "The same haunted-by-what-it-transcends logic, now expressed in the formless dimensions' own vocabulary."},
+    ],
+    marginalia=[
+        ("A dimension, not a factor, this time", [
+            "infinite space's own residue lingers —",
+            "the pattern's logic, in new vocabulary",
+        ]),
+        ("Consciousness without limit", [
+            "“anantaṁ viññāṇaṁ” — infinite awareness —",
+            "the second of four formless dimensions",
+        ]),
+        ("Two formless states, one relation", [
+            "infinite space, now itself surpassed —",
+            "and now itself the thing left behind",
+        ]),
+        ("The exhortation, word for word", [
+            "settle, unify, immerse —",
+            "unchanged since the very first discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn40.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-40.5.html">SN 40.5 &middot; A Question About '
+        "the Dimension of Infinite Space</a> &mdash; already "
+        "published on this site, the previous discourse and this "
+        "discourse's own residue.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 40.7 — Ākiñcaññāyatanapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    40, 7, "Ākiñcaññāyatanapañhā",
+    "A Question About the Dimension of Nothingness",
+    vagga="Moggallānavagga",
+    meta_title="SN 40.7 — A Question About the Dimension of "
+                "Nothingness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ākiñcaññāyatanapañhāsutta &mdash; the third formless "
+        "dimension, disturbed by leftover perceptions of infinite "
+        "consciousness. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as Moggallāna's "
+                     "own account from SN 40.1's own setting"),
+        ("Speakers", "Venerable Mahāmoggallāna addressing the "
+                     "mendicants"),
+        ("Form", "The identical template, applied to the third "
+                 "formless dimension"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the pattern now well confirmed across two "
+                       "formless dimensions"),
+    ],
+    why=(
+        "The dimension of nothingness &mdash; going entirely beyond "
+        "the dimension of infinite consciousness, aware only that "
+        "&ldquo;there is nothing at all&rdquo; &mdash; is disturbed by "
+        "leftover perceptions of the dimension of infinite "
+        "consciousness itself, the immediately preceding attainment. "
+        "This is the second consecutive discourse where the residue "
+        "is itself a formless dimension, confirming the pattern SN "
+        "40.6 first demonstrated."
+    ),
+    guide=[
+        ("The same logic, one step further along", [
+            "Infinite consciousness is exactly the attainment this "
+            "dimension itself goes beyond, and exactly what disturbs "
+            "Moggallāna while dwelling in it &mdash; the residue "
+            "pattern now confirmed across two consecutive formless "
+            "dimensions, not a one-off feature of SN 40.6 alone.",
+        ]),
+    ],
+    terms=[
+        ("ākiñcaññāyatanaṁ", "&ldquo;the dimension of "
+             "nothingness&rdquo; &mdash; defined by going entirely "
+             "beyond the dimension of infinite consciousness"),
+        ("viññāṇañcāyatanasahagatā saññāmanasikārā", "&ldquo;"
+             "perception and focus accompanied by the dimension of "
+             "infinite consciousness&rdquo; &mdash; the residue "
+             "disturbing Moggallāna, the second consecutive formless "
+             "dimension to serve this role"),
+        ("natthi kiñci", "&ldquo;there is nothing at all&rdquo; "
+             "&mdash; the awareness this dimension is defined by"),
+        ("mā... pamādo", "&ldquo;don't neglect&rdquo; &mdash; the "
+             "opening of the Buddha's own fixed exhortation, "
+             "unchanged since SN 40.1"),
+        ("sattamaṁ", "&ldquo;seventh&rdquo; &mdash; this discourse's "
+             "own untranslated closing ordinal"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn40.7:1.1-1.7"),
+        ("p", "&sect;2", "sn40.7:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What residue disturbs Moggallāna in the dimension of nothingness?",
+         "opts": ["Perception and focus accompanied by the dimension of infinite consciousness, the immediately preceding attainment", "Perception of infinite space, identical to SN 40.5's own residue", "No residue is described", "Perception of form"],
+         "correct": 0,
+         "expl": "The second consecutive discourse confirming a formless dimension itself as the residue."},
+        {"q": "What does this discourse confirm about the pattern first seen at SN 40.6?",
+         "opts": ["It is a genuine, recurring feature of the formless-dimension discourses, not a one-off", "It was a unique feature only found at SN 40.6", "The pattern has already broken down by this point", "This discourse contradicts SN 40.6's own pattern"],
+         "correct": 0,
+         "expl": "Two consecutive discourses with a preceding formless dimension as the named residue."},
+    ],
+    marginalia=[
+        ("A second dimension, disturbing", [
+            "infinite consciousness lingers here too —",
+            "the pattern confirmed a second time",
+        ]),
+        ("Nothing at all, aware of it", [
+            "“natthi kiñci” — nothing whatsoever —",
+            "the third of four formless dimensions",
+        ]),
+        ("Awareness of nothing at all", [
+            "natthi kiñci — the object is absence itself —",
+            "harder to name than any state before it",
+        ]),
+        ("Two dimensions down, one confirmed pattern", [
+            "the residue rule holding steady —",
+            "with one subtler attainment still ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn40.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-40.6.html">SN 40.6 &middot; A Question About '
+        "the Dimension of Infinite Consciousness</a> &mdash; already "
+        "published on this site, the previous discourse and this "
+        "discourse's own residue.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 40.8 — Nevasaññānāsaññāyatanapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    40, 8, "Nevasaññānāsaññāyatanapañhā",
+    "A Question About the Dimension of Neither Perception Nor "
+    "Non-Perception",
+    vagga="Moggallānavagga",
+    meta_title="SN 40.8 — A Question About the Dimension of Neither "
+                "Perception Nor Non-Perception | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nevasaññānāsaññāyatanapañhāsutta &mdash; the fourth and "
+        "subtlest formless dimension, disturbed by leftover "
+        "perceptions of nothingness. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as Moggallāna's "
+                     "own account from SN 40.1's own setting"),
+        ("Speakers", "Venerable Mahāmoggallāna addressing the "
+                     "mendicants"),
+        ("Form", "The identical template, applied to the fourth and "
+                 "final formless dimension"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the subtlest attainment in the numbered "
+                       "sequence, with no positive description of "
+                       "its own"),
+    ],
+    why=(
+        "The dimension of neither perception nor non-perception "
+        "&mdash; the subtlest of the eight numbered attainments, "
+        "defined only by going entirely beyond the dimension of "
+        "nothingness with no further positive description given "
+        "&mdash; is disturbed by leftover perceptions of nothingness "
+        "itself. This closes the four-formless-dimension sequence "
+        "(SN 40.5&ndash;8) exactly as the four absorptions closed at "
+        "SN 40.4: each of the eight numbered attainments haunted by "
+        "precisely what it has just gone beyond."
+    ),
+    guide=[
+        ("The subtlest attainment, defined by absence alone", [
+            "Unlike every other attainment in this sequence, this "
+            "dimension's own definition offers no positive "
+            "description at all &mdash; only that it goes entirely "
+            "beyond the dimension of nothingness &mdash; matching its "
+            "own reputation as the most refined of the eight "
+            "numbered attainments.",
+        ]),
+        ("Eight attainments, one pattern, now complete", [
+            "With this discourse, the residue pattern has held "
+            "across all eight numbered attainments (four absorptions, "
+            "four formless dimensions) without exception &mdash; SN "
+            "40.9 will apply a related but distinct pattern to a "
+            "ninth attainment that stands outside this numbered "
+            "sequence entirely.",
+        ]),
+    ],
+    terms=[
+        ("nevasaññānāsaññāyatanaṁ", "&ldquo;the dimension of "
+             "neither perception nor non-perception&rdquo; &mdash; "
+             "the subtlest of the eight numbered attainments, defined "
+             "only by going beyond the dimension of nothingness"),
+        ("ākiñcaññāyatanasahagatā saññāmanasikārā", "&ldquo;"
+             "perception and focus accompanied by the dimension of "
+             "nothingness&rdquo; &mdash; the residue disturbing "
+             "Moggallāna, closing the four-formless-dimension "
+             "sequence"),
+        ("mā... pamādo", "&ldquo;don't neglect&rdquo; &mdash; the "
+             "opening of the Buddha's own fixed exhortation, "
+             "unchanged since SN 40.1"),
+        ("satthārānuggahito sāvako mahābhiññataṁ patto", "&ldquo;a "
+             "disciple who attained to great direct knowledge with "
+             "help from the Teacher&rdquo; &mdash; Moggallāna's own "
+             "closing self-description, unchanged since SN 40.1"),
+        ("aṭṭhamaṁ", "&ldquo;eighth&rdquo; &mdash; this discourse's "
+             "own untranslated closing ordinal, marking the close of "
+             "the eight numbered attainments"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn40.8:1.1-1.7"),
+        ("p", "&sect;2", "sn40.8:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "How does this dimension's own definition differ from every other attainment in this sequence?",
+         "opts": ["It offers no positive description at all, only that it goes beyond the dimension of nothingness", "It is described more elaborately than any other attainment", "It is defined identically to the dimension of nothingness", "It has no definition given anywhere in the discourse"],
+         "correct": 0,
+         "expl": "The subtlest of the eight numbered attainments, matching its reputation with an absence of positive description."},
+        {"q": "What does this discourse complete within the larger nine-discourse sequence?",
+         "opts": ["The residue pattern across all eight numbered attainments (four absorptions, four formless dimensions), with SN 40.9 applying a related but distinct pattern to a ninth", "The entire nine-discourse sequence outright", "Only the four formless dimensions, with more absorptions still to come", "Nothing; this discourse stands entirely apart from the others"],
+         "correct": 0,
+         "expl": "SN 40.9 addresses an attainment outside this numbered eight-attainment sequence."},
+    ],
+    marginalia=[
+        ("Defined by absence alone", [
+            "no positive description given —",
+            "the subtlest of all eight attainments",
+        ]),
+        ("Eight attainments, one pattern held", [
+            "haunted, each time, by what it has just left —",
+            "a ninth attainment awaits, outside the count",
+        ]),
+        ("Nothingness, once the goal, now left behind", [
+            "the third formless state becomes the residue —",
+            "the same logic, one rung higher",
+        ]),
+        ("The Buddha's help, still needed here", [
+            "even the subtlest attainment falters alone —",
+            "intervention required at every rung",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn40.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-40.7.html">SN 40.7 &middot; A Question About '
+        "the Dimension of Nothingness</a> &mdash; already published "
+        "on this site, the previous discourse and this discourse's "
+        "own residue.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 40.9 — Animittapañhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    40, 9, "Animittapañhā", "A Question About the Signless",
+    vagga="Moggallānavagga",
+    meta_title="SN 40.9 — A Question About the Signless | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Animittapañhāsutta &mdash; the signless immersion of the "
+        "heart, the ninth and final attainment in this sequence, "
+        "breaking the residue pattern the previous eight discourses "
+        "established. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; continues directly as Moggallāna's "
+                     "own account from SN 40.1's own setting"),
+        ("Speakers", "Venerable Mahāmoggallāna addressing the "
+                     "mendicants"),
+        ("Form", "The same overall template, applied to a ninth "
+                 "attainment standing outside the numbered eight-"
+                 "attainment sequence"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes the nine-discourse sequence with a "
+                       "genuine structural break"),
+    ],
+    why=(
+        "This discourse closes the nine-discourse sequence opened at "
+        "SN 40.1, and breaks its own pattern in the process. The "
+        "signless immersion of the heart &mdash; not focusing on any "
+        "signs at all &mdash; is not one rung on the eight-attainment "
+        "ladder SN 40.1&ndash;8 traced; it stands outside that "
+        "numbered sequence entirely. And what disturbs Moggallāna "
+        "here is described differently too: not a residue of any one "
+        "specific prior attainment, but his own consciousness "
+        "&ldquo;following after signs&rdquo; in general. The Buddha's "
+        "intervention and Moggallāna's eventual success still follow "
+        "the same overall shape as every discourse before it, but the "
+        "attainment and its own disturbance both stand apart from the "
+        "eight-attainment ladder's own internal logic."
+    ),
+    guide=[
+        ("An attainment outside the numbered ladder", [
+            "The signless immersion of the heart is not the "
+            "&ldquo;fifth jhāna&rdquo; or a further formless "
+            "dimension continuing the sequence; it is a distinct "
+            "kind of meditative attainment, defined by not focusing "
+            "on any signs at all rather than by transcending a "
+            "specific coarser predecessor.",
+        ]),
+        ("A different kind of disturbance", [
+            "Where SN 40.1&ndash;8 each named a specific residual "
+            "perception tied to one specific prior attainment, this "
+            "discourse instead says Moggallāna's own "
+            "&ldquo;consciousness followed after signs&rdquo; "
+            "&mdash; a general susceptibility rather than a residue "
+            "of any one named state.",
+        ]),
+        ("The shared shape, still intact", [
+            "Private reflection, a definition, a first attempt "
+            "disturbed, the Buddha's personal intervention by "
+            "psychic power, and eventual success closing on the "
+            "identical self-proclamation &mdash; this discourse "
+            "keeps every other element of the template unchanged, "
+            "confirming the break is specific to the "
+            "attainment-and-residue pairing, not the whole "
+            "narrative shape.",
+        ]),
+    ],
+    terms=[
+        ("animitto cetosamādhi", "&ldquo;the signless immersion of "
+             "the heart&rdquo; &mdash; this discourse's own subject, "
+             "defined by not focusing on any signs at all rather "
+             "than by transcending a specific predecessor"),
+        ("nimittānusāri viññāṇaṁ", "&ldquo;consciousness followed "
+             "after signs&rdquo; &mdash; this discourse's own "
+             "disturbance, a general susceptibility rather than a "
+             "residue of one specific prior attainment"),
+        ("sabbanimittānaṁ amanasikārā", "&ldquo;not focusing on any "
+             "signs&rdquo; &mdash; the defining practice of this "
+             "immersion"),
+        ("mā... pamādo... cittaṁ saṇṭhapehi... ekodiṁ karohi... "
+         "samādahā", "&ldquo;don't neglect... settle your mind... "
+             "unify it... immerse it&rdquo; &mdash; the Buddha's own "
+             "fixed instruction, unchanged in form across all nine "
+             "discourses"),
+        ("navamaṁ", "&ldquo;ninth&rdquo; &mdash; this discourse's "
+             "own untranslated closing ordinal, closing this "
+             "nine-discourse sequence"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn40.9:1.1-1.7"),
+        ("p", "&sect;2", "sn40.9:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "How does the signless immersion of the heart relate to the eight-attainment ladder traced at SN 40.1-8?",
+         "opts": ["It stands outside that numbered sequence entirely, rather than continuing it as a ninth rung", "It is the ninth and highest rung of the same numbered ladder", "It replaces the fourth absorption in the sequence", "It is identical to the dimension of nothingness"],
+         "correct": 0,
+         "expl": "A genuinely distinct kind of attainment, not a further step up the same ladder."},
+        {"q": "How does this discourse's own disturbance differ from SN 40.1-8's own residues?",
+         "opts": ["It is a general susceptibility (\"consciousness followed after signs\"), not a residue tied to one specific prior attainment", "It is identical in wording to SN 40.8's own residue", "No disturbance occurs in this discourse at all", "It names two prior attainments simultaneously"],
+         "correct": 0,
+         "expl": "A break from the precise attainment-to-residue mapping traced across the previous eight discourses."},
+        {"q": "What elements of the shared template does this discourse keep unchanged?",
+         "opts": ["The overall narrative shape: private reflection, a definition, disturbance, the Buddha's intervention, and the closing self-proclamation", "Nothing; every element of the template is different here", "Only the closing self-proclamation, with everything else changed", "The residue-to-attainment mapping specifically"],
+         "correct": 0,
+         "expl": "Confirming the break is specific to the numbered-ladder logic, not the discourse's whole narrative shape."},
+    ],
+    marginalia=[
+        ("Outside the numbered ladder", [
+            "not a ninth rung, but a different kind —",
+            "the signless immersion stands apart",
+        ]),
+        ("A general susceptibility, not a residue", [
+            "consciousness \"follows after signs\" —",
+            "no single prior state named this time",
+        ]),
+        ("The shape, still holding", [
+            "reflection, disturbance, intervention, success —",
+            "the template's own frame survives the break",
+        ]),
+        ("Nine discourses, one struggle honestly told", [
+            "from the first absorption to the signless —",
+            "a chief disciple's own admitted difficulty, throughout",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn40.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-40.1.html">SN 40.1 &middot; A Question About '
+        "the First Absorption</a> &mdash; already published on this "
+        "site, opening the nine-discourse sequence this discourse "
+        "closes.",
+        '<a href="sn-40.8.html">SN 40.8 &middot; A Question About '
+        "the Dimension of Neither Perception Nor Non-Perception</a> "
+        "&mdash; already published on this site, the previous "
+        "discourse, closing the eight-attainment numbered ladder.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 40.10 — Sakkasutta
+# --------------------------------------------------------------------------- #
+page(
+    40, 10, "Sakka", "With Sakka",
+    vagga="Moggallānavagga",
+    meta_title="SN 40.10 — With Sakka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sakkasutta &mdash; Venerable Mahāmoggallāna visiting the "
+        "Tāvatiṃsa heaven by psychic power to teach Sakka and "
+        "successively larger assemblies of gods. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Jeta's Grove, then the Tāvatiṃsa heaven, "
+                     "reached by Moggallāna's own psychic power"),
+        ("Speakers", "Venerable Mahāmoggallāna teaching Sakka, lord "
+                     "of the gods, and successively larger deva "
+                     "assemblies"),
+        ("Form", "Four distinct teachings, each repeated to five "
+                 "assemblies of growing size, heavily elided in the "
+                 "source itself"),
+        ("Length", "~2 minutes to read for the genuinely distinct "
+                     "content this page quotes"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the source's own architecture is more "
+                       "intricate than its actual doctrinal content"),
+    ],
+    why=(
+        "This discourse turns from Moggallāna's own private "
+        "meditative struggles to a public teaching journey: as easily "
+        "as a strong person extends an arm, he vanishes from Jeta's "
+        "Grove and reappears among the gods of the Thirty-Three "
+        "(Tāvatiṃsa), where Sakka, their king, approaches him "
+        "repeatedly with escalating retinues of deities (500, 600, "
+        "700, 800, and finally 80,000) to hear him teach. Root Pali "
+        "elides almost all of this discourse's own internal "
+        "repetition so heavily that Sujato's own English trails into "
+        "a bare ellipsis for every repeated visit beyond the first; "
+        "this reading guide quotes every one of those genuinely "
+        "translated segments in full, including the short ellipsis "
+        "lines themselves, organized under headers by teaching and "
+        "by assembly, rather than silently dropping any of the "
+        "source's own genuinely rendered text."
+    ),
+    guide=[
+        ("A journey by psychic power, not by argument", [
+            "The opening simile &mdash; vanishing and reappearing as "
+            "easily as extending an arm &mdash; frames this "
+            "discourse's own setting as a demonstration of "
+            "Moggallāna's own attainments, distinct from SN "
+            "40.1&ndash;9's own account of struggling toward those "
+            "same attainments.",
+        ]),
+        ("Four teachings, each scaled up five times", [
+            "The source itself structures this discourse as four "
+            "distinct teachings &mdash; the three refuges alone; the "
+            "three refuges plus a note that those who take them "
+            "surpass other gods in ten respects; the four factors of "
+            "stream-entry alone; and the four factors plus the same "
+            "ten-respects note &mdash; each one taught across five "
+            "separate visits from Sakka, whose own retinue grows from "
+            "500 to 600, 700, 800, and finally a striking 80,000 "
+            "deities. Only the first (500-deity) visit of each "
+            "teaching is spelled out; the remaining four are elided "
+            "with a bare &ldquo;...&rdquo; in Sujato's own English, "
+            "confirmed by reading the translation file directly.",
+        ]),
+        ("Confidence in the three refuges, and the four factors of "
+         "stream-entry", [
+            "The three refuges (Buddha, Dhamma, Saṅgha) are stated "
+            "plainly as good to go for; the four factors add "
+            "&ldquo;experiential confidence&rdquo; in each of the "
+            "three, spelled out with the standard recollection "
+            "formulas, plus a fourth factor &mdash; ethical conduct "
+            "loved by the noble ones &mdash; not present in the "
+            "bare-refuge teaching at all.",
+        ]),
+        ("Surpassing other gods, in ten respects", [
+            "Added only in the third and fourth teachings, this "
+            "clause states that those reborn as gods through this "
+            "confidence surpass other gods in ten respects: heavenly "
+            "lifespan, beauty, happiness, glory, sovereignty, and the "
+            "five kinds of heavenly sense objects (sights, sounds, "
+            "smells, tastes, and touches) &mdash; a claim about "
+            "hierarchy even within heavenly rebirth itself, tied "
+            "directly to the strength of the confidence or refuge "
+            "that produced it.",
+        ]),
+    ],
+    terms=[
+        ("devesu tāvatiṁsesu", "&ldquo;among the gods of the "
+             "Thirty-Three&rdquo; &mdash; the Tāvatiṃsa heaven, "
+             "this discourse's own destination"),
+        ("sakko devānamindo", "&ldquo;Sakka, lord of gods&rdquo; "
+             "&mdash; the ruler of the Tāvatiṃsa heaven, Moggallāna's "
+             "own primary interlocutor throughout this discourse"),
+        ("buddhe aveccappasādena samannāgamanaṁ", "&ldquo;having "
+             "experiential confidence in the Buddha&rdquo; &mdash; "
+             "the first of the four factors of stream-entry taught "
+             "in this discourse's second and fourth teachings"),
+        ("ariyakantehi sīlehi samannāgamanaṁ", "&ldquo;having the "
+             "ethical conduct that's loved by the noble ones&rdquo; "
+             "&mdash; the fourth factor, present only in the "
+             "confidence-based teachings, not the bare-refuge ones"),
+        ("dibbena āyunā... dibbehi phoṭṭhabbehi", "&ldquo;heavenly "
+             "lifespan... heavenly touches&rdquo; &mdash; the ten "
+             "respects in which those reborn through this confidence "
+             "surpass other gods, added only in the third and fourth "
+             "teachings"),
+    ],
+    text_intro=("The complete discourse, organized under headers by "
+        "its own four teachings and the escalating deva assemblies "
+        "each one is repeated to. Every genuinely translated segment "
+        "is quoted, including the source's own short, repeated "
+        "scaling-up lines (\"Then Sakka, lord of gods, with six "
+        "hundred deities …\") rather than skipping them as "
+        "purely mechanical filler. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "The frame: a journey to Tāvatiṃsa"),
+        ("p", "&sect;1", "sn40.10:1.1-1.2"),
+        ("h3", "First teaching: the three refuges"),
+        ("p", "&sect;2", "sn40.10:2.1-2.6"),
+        ("h3", "Sakka's own reply (elided by Sujato's own English)"),
+        ("p", "&sect;3", "sn40.10:3.1-3.6"),
+        ("h3", "The assembly grows: 600, 700, 800, 80,000"),
+        ("p", "&sect;4", "sn40.10:4.1-4.4"),
+        ("h3", "Second teaching: the four factors of stream-entry"),
+        ("p", "&sect;5", "sn40.10:7.1-11.2"),
+        ("h3", "Sakka's own reply"),
+        ("p", "&sect;6", "sn40.10:12.1-15.2"),
+        ("h3", "The assembly grows again"),
+        ("p", "&sect;7", "sn40.10:16.1-16.4"),
+        ("h3", "Third teaching: the three refuges, with the "
+                "ten-respects addition"),
+        ("p", "&sect;8", "sn40.10:25.1-28.4"),
+        ("h3", "Sakka's own reply"),
+        ("p", "&sect;9", "sn40.10:29.1"),
+        ("h3", "The assembly grows a third time"),
+        ("p", "&sect;10", "sn40.10:32.1-32.4"),
+        ("h3", "Fourth teaching: the four factors, with the "
+                "ten-respects addition"),
+        ("p", "&sect;11", "sn40.10:37.1-41.1"),
+        ("h3", "Sakka's own reply"),
+        ("p", "&sect;12", "sn40.10:42.1"),
+        ("h3", "The assembly grows a final time"),
+        ("p", "&sect;13", "sn40.10:46.1-46.4"),
+    ],
+    quiz=[
+        {"q": "How does Moggallāna reach the Tāvatiṃsa heaven?",
+         "opts": ["By his own psychic power, vanishing and reappearing as easily as a strong person extends an arm", "By a long physical journey on foot", "He is carried there by Sakka himself", "The discourse does not describe how he arrives"],
+         "correct": 0,
+         "expl": "A demonstration of attainment, distinct from SN 40.1-9's own account of struggling toward such attainments."},
+        {"q": "How many distinct teachings does this discourse structure itself around?",
+         "opts": ["Four — the three refuges alone, refuges plus ten-respects, the four factors of stream-entry alone, and four factors plus ten-respects", "Just one teaching, repeated without variation", "Two teachings only", "Eight teachings, one per deva assembly size"],
+         "correct": 0,
+         "expl": "Each of the four taught across five separate visits, with only the first (500-deity) visit of each spelled out."},
+        {"q": "What is added to the third and fourth teachings that is absent from the first and second?",
+         "opts": ["The claim that those reborn through this confidence surpass other gods in ten respects", "An entirely new set of refuges", "A denial of the earlier two teachings", "A fifth factor of stream-entry"],
+         "correct": 0,
+         "expl": "Heavenly lifespan, beauty, happiness, glory, sovereignty, and five kinds of heavenly sense objects."},
+        {"q": "What is the fourth factor of stream-entry, absent from the bare-refuge teaching?",
+         "opts": ["Ethical conduct that's loved by the noble ones", "A fourth refuge beyond Buddha, Dhamma, and Saṅgha", "Wealth dedicated to religious donation", "Physical austerity"],
+         "correct": 0,
+         "expl": "Present only in the confidence-based teachings (the second and fourth), not the bare three-refuge ones."},
+        {"q": "How does this reading guide handle the source's own escalating-assembly repetition (500 to 80,000 deities, repeated four times)?",
+         "opts": ["It quotes every genuinely translated segment in full, including Sujato's own short ellipsis lines, organized under headers by teaching and by assembly", "It silently skips the repeated-assembly lines entirely", "It reproduces the full unelided content Sujato's own English never actually wrote", "It invents new content not found in the source at all"],
+         "correct": 0,
+         "expl": "Matching bilara-data's own coverage exactly — every non-blank segment quoted, none silently dropped."},
+    ],
+    marginalia=[
+        ("A journey, not a struggle", [
+            "vanishing, reappearing, as easily as an arm extends —",
+            "a demonstration, not a difficulty admitted",
+        ]),
+        ("Four teachings, growing crowds", [
+            "500, then 600, 700, 800, 80,000 —",
+            "only the first of each ever spelled out",
+        ]),
+        ("A fourth factor, ethics loved by the noble ones", [
+            "beyond the three refuges alone —",
+            "confidence paired with conduct",
+        ]),
+        ("Hierarchy, even among gods", [
+            "ten respects, surpassing other devas —",
+            "tied directly to the strength of one's own confidence",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn40.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-40.9.html">SN 40.9 &middot; A Question About '
+        "the Signless</a> &mdash; already published on this site, "
+        "the previous discourse, closing the nine-discourse "
+        "meditation sequence this discourse departs from.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 40.11 — Candanasutta
+# --------------------------------------------------------------------------- #
+page(
+    40, 11, "Candana", "With Candana, Etc.",
+    vagga="Moggallānavagga",
+    meta_title="SN 40.11 — With Candana, Etc. | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Candanasutta &mdash; five named godlings visiting "
+        "Moggallāna, cross-referenced entirely back to SN 40.10, "
+        "closing Moggallānasaṃyutta itself. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated; presumably continuing from this "
+                     "saṃyutta's own settings in Jeta's Grove and the "
+                     "heavenly realms visited at SN 40.10"),
+        ("Speakers", "Five named godlings (devaputta) approaching "
+                     "Venerable Mahāmoggallāna in turn"),
+        ("Form", "Five names listed, each followed by the source's "
+                 "own editorial ellipsis, closed by a single "
+                 "cross-reference to SN 40.10 and this saṃyutta's own "
+                 "colophon"),
+        ("Length", "&lt;1 minute to read for what this page actually "
+                     "quotes"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in its own wording, closing the "
+                       "saṃyutta on a compression rather than new "
+                       "content"),
+    ],
+    why=(
+        "This discourse closes Moggallānasaṃyutta with a second kind "
+        "of compression &mdash; not a cross-saṃyutta cross-reference "
+        "like SN 39's own to SN 38, but a cross-reference within this "
+        "very saṃyutta, back to the discourse immediately before it. "
+        "Five named godlings &mdash; Candana, Suyāma, Santusita, "
+        "Sunimmita, and Vasavatti &mdash; each approach Moggallāna in "
+        "turn, and each time the source itself trails into an "
+        "ellipsis rather than repeating SN 40.10's own elaborate "
+        "four-teaching, five-assembly structure a fifth, sixth, "
+        "seventh, and eighth time. A single closing instruction "
+        "covers all five: &ldquo;Tell in full as in the Discourse "
+        "With Sakka.&rdquo; This reading guide does not invent five "
+        "new sets of content the source itself never provides; SN "
+        "40.10's own reading guide already presents the substantive "
+        "teaching this cross-reference implies. This discourse then "
+        "closes the entire saṃyutta on its own genuinely translated "
+        "colophon: &ldquo;The Linked Discourses on Moggallāna are "
+        "complete.&rdquo;"
+    ),
+    guide=[
+        ("Five godlings, one shared instruction", [
+            "Candana, Suyāma, Santusita, Sunimmita, and Vasavatti "
+            "each approach Moggallāna in turn; the source names each "
+            "one and then trails into an ellipsis, rather than "
+            "repeating SN 40.10's own content five more times over.",
+        ]),
+        ("A cross-reference within the saṃyutta itself", [
+            "&ldquo;Tell in full as in the Discourse With "
+            "Sakka&rdquo; is Sujato's own genuine translation of the "
+            "source's own editorial instruction &mdash; a "
+            "compression internal to this saṃyutta, distinct from SN "
+            "39's own cross-saṃyutta reference back to SN 38.",
+        ]),
+        ("The saṃyutta closes, genuinely translated", [
+            "Following an untranslated ordinal (&ldquo;"
+            "eleventh&rdquo;), an untranslated vagga-level ordinal "
+            "(&ldquo;Moggallānavaggo paṭhamo,&rdquo; confirming this "
+            "single vagga as this saṃyutta's own first and only one), "
+            "and an untranslated uddāna listing all eleven "
+            "discourses, this discourse closes on Sujato's own "
+            "genuinely translated final line: &ldquo;The Linked "
+            "Discourses on Moggallāna are complete.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("candano devaputto", "&ldquo;the godling Candana&rdquo; "
+             "&mdash; the first of five named godlings this "
+             "discourse's own Pali title is drawn from"),
+        ("suyāmo... santusito... sunimmito... vasavattī", "the "
+             "remaining four godlings, each named individually before "
+             "the source's own shared ellipsis"),
+        ("Yathā sakkasuttaṁ tathā ime pañca peyyālā vitthāretabbā",
+             "&ldquo;as with the Sakka Sutta, so these five peyyāla "
+             "passages should be expanded&rdquo; &mdash; the source's "
+             "own untranslated Pali editorial instruction, genuinely "
+             "rendered by Sujato as &ldquo;Tell in full as in the "
+             "Discourse With Sakka&rdquo;"),
+        ("Moggallānavaggo paṭhamo", "&ldquo;Moggallānavagga, the "
+             "first&rdquo; &mdash; confirming this vagga as this "
+             "saṃyutta's own single, first vagga"),
+        ("Moggallānasaṁyuttaṁ samattaṁ", "&ldquo;The Linked "
+             "Discourses on Moggallāna are complete&rdquo; &mdash; "
+             "this saṃyutta's own genuinely Sujato-translated closing "
+             "line"),
+    ],
+    text_intro=("The complete discourse as the source itself renders "
+        "it, together with this saṃyutta's own genuinely translated "
+        "final line. The vagga-level ordinal and uddāna, left "
+        "untranslated in the Pali root, are described rather than "
+        "quoted above. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn40.11:1.1-5.1"),
+        ("p", "&sect;2", "sn40.11:6.1"),
+        ("p", "&sect;3", "sn40.11:7.7"),
+    ],
+    quiz=[
+        {"q": "How many godlings approach Moggallāna in this discourse, and how is each one's own visit rendered?",
+         "opts": ["Five, each named individually and then trailing into the source's own shared ellipsis", "Five, each with a fully spelled-out independent teaching", "Only one godling, Candana, with the other four merely mentioned in passing", "None; the godlings are referred to only in the closing uddāna"],
+         "correct": 0,
+         "expl": "Named in turn, with no independent content spelled out for any of the five."},
+        {"q": "What does the source's own closing instruction for these five visits say?",
+         "opts": ["\"Tell in full as in the Discourse With Sakka\" — a cross-reference internal to this saṃyutta itself", "A cross-reference back to SN 38 or SN 39", "A brand new independent teaching not found anywhere else", "Nothing; the segments are simply left with no instruction at all"],
+         "correct": 0,
+         "expl": "Distinct from SN 39's own cross-saṃyutta reference to SN 38 — this compression stays within Moggallānasaṃyutta itself."},
+        {"q": "What does this discourse's own final line announce?",
+         "opts": ["\"The Linked Discourses on Moggallāna are complete\" — genuinely translated by Sujato, closing the entire saṃyutta", "The opening of a twelfth discourse", "A repetition of SN 40.10's own closing ordinal", "Nothing; the discourse ends without any closing line"],
+         "correct": 0,
+         "expl": "Following the untranslated vagga-level ordinal and uddāna this reading guide describes rather than quotes."},
+    ],
+    marginalia=[
+        ("Five names, one shared ellipsis", [
+            "Candana, Suyāma, Santusita, Sunimmita, Vasavatti —",
+            "each trailing into the same “…”",
+        ]),
+        ("A reference within the saṃyutta itself", [
+            "“tell in full as with Sakka” —",
+            "not a cross-saṃyutta reference this time",
+        ]),
+        ("One vagga, confirmed", [
+            "“Moggallānavaggo paṭhamo” —",
+            "this saṃyutta's own single, first vagga",
+        ]),
+        ("Eleven discourses, complete", [
+            "“The Linked Discourses on Moggallāna” —",
+            "genuinely translated, closing the saṃyutta itself",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn40.11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-40.10.html">SN 40.10 &middot; With Sakka</a> '
+        "&mdash; already published on this site, the discourse this "
+        "page's own five visits are cross-referenced to.",
         '<a href="sn-41.1.html">SN 41.1 &middot; The Fetter</a> '
         "&mdash; already published on this site, standing ahead of "
-        "this project's next saṃyutta, SN 40, not yet built.",
+        "this project's next saṃyutta, SN 41, not yet built.",
     ],
 )
