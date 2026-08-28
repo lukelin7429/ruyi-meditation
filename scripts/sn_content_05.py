@@ -5661,4 +5661,785 @@ page(
         "standing ahead of this project's next vagga, "
         "Sūriyapeyyālavagga (SN 45.49&ndash;62), not yet built.",
     ],
+)# --------------------------------------------------------------------------- #
+# Sūriyapeyyālavagga (SN 45.49-62, "The Chapter of Abbreviated Texts
+# on the Sun") is this saṃyutta's own sixth vagga, confirmed by direct
+# reading to be six bilara-data files for fourteen discourses: SN
+# 45.49, SN 45.55, SN 45.56, and SN 45.62 individual, bookending two
+# merged files (SN 45.50-54 and SN 45.57-61, five discourses each,
+# both using a single unified key-prefix rather than per-discourse
+# sub-prefixes, confirmed by reading both merged files' own raw keys
+# directly). The vagga's own real structure, confirmed by reading all
+# fourteen discourses rather than assumed from its own "peyyāla"
+# title alone, is a clean 7x2 grid: seven qualities (good friendship,
+# accomplishment in ethics, enthusiasm, self-development, view,
+# diligence, and rational application of mind), each given the "dawn
+# is the forerunner of sunrise" simile as what precedes the eightfold
+# path's own arising, run through twice with two different closing
+# formulas -- SN 45.49-55 close with "relying on seclusion, fading
+# away, and cessation, ripening as letting go" (the formula this
+# project has already met at SN 45.2-3), and SN 45.56-62 close with
+# "culminating in the removal of greed, hate, and delusion" instead,
+# confirmed by direct comparison of both rounds' own closing lines
+# rather than assumed identical.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 45.49 — Paṭhamakalyāṇamittasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 49, "Kalyāṇamitta", "Good Friends (1st)",
+    vagga="Sūriyapeyyālavagga",
+    meta_title="SN 45.49 — Good Friends (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamakalyāṇamittasutta &mdash; opening a new vagga "
+        "with the dawn as a simile for what precedes the eightfold "
+        "path's own arising. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A simile stated once, then applied to good "
+                 "friendship, the first of seven qualities in this "
+                 "vagga's own first round"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, a vivid natural image"),
+    ],
+    why=(
+        "This discourse opens Sūriyapeyyālavagga with a new simile: "
+        "&ldquo;the dawn is the forerunner and harbinger of the "
+        "sunrise&rdquo; &mdash; and, in the same way, good friendship "
+        "is what precedes and signals the eightfold path's own "
+        "arising for a mendicant. This project's own earlier "
+        "encounter with good friendship (SN 45.2&ndash;3, the "
+        "well-known &ldquo;half the spiritual life&rdquo; pairing) "
+        "argued for its own centrality directly; here the same "
+        "quality is given a natural image instead."
+    ),
+    guide=[
+        ("A natural image, not a direct argument", [
+            "Where SN 45.2&ndash;3 argued directly that good friends "
+            "are &ldquo;the whole of the spiritual life,&rdquo; this "
+            "discourse instead offers an image: dawn does not cause "
+            "the sun to rise, but reliably precedes and signals "
+            "it &mdash; a gentler, more indirect way of making a "
+            "related point about what comes first.",
+        ]),
+        ("The first of seven qualities, in the first of two rounds", [
+            "Confirmed by reading this vagga's own remaining thirteen "
+            "discourses directly: good friendship is the first of "
+            "seven qualities (with ethics, enthusiasm, "
+            "self-development, view, diligence, and rational "
+            "application of mind following) this vagga runs through "
+            "twice, each time with the identical dawn simile and a "
+            "different closing formula.",
+        ]),
+    ],
+    terms=[
+        ("sūriyassa udayato pubbaṅgamaṁ pubbanimittaṁ", "&ldquo;the "
+             "forerunner and harbinger of the sunrise&rdquo; &mdash; "
+             "the dawn's own role, applied by simile to good "
+             "friendship's own relationship to the eightfold path"),
+        ("aruṇuggaṁ", "&ldquo;the dawn&rdquo; &mdash; the natural "
+             "image this vagga's own fourteen discourses all share"),
+        ("kalyāṇamittatā", "&ldquo;good friendship&rdquo; &mdash; "
+             "this discourse's own quality, the first of seven this "
+             "vagga will run through"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "&ldquo;relying on seclusion, fading away, and "
+             "cessation, ripening as letting go&rdquo; &mdash; this "
+             "discourse's own closing formula, shared by the first "
+             "round of seven discourses (SN 45.49-55)"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, what "
+             "good friendship precedes and signals"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.49:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What simile does this discourse use for good friendship's own relationship to the eightfold path?",
+         "opts": ["The dawn as the forerunner and harbinger of the sunrise", "A pot with or without a stand", "A rice spike pointing the right or wrong way", "A chariot drawn by white mares"],
+         "correct": 0,
+         "expl": "A new simile this vagga's own fourteen discourses all share, distinct from this project's earlier images."},
+        {"q": "How does this discourse's own approach compare to SN 45.2-3's own treatment of good friendship?",
+         "opts": ["A gentler, indirect image rather than a direct argument", "An identical direct argument", "A denial that good friendship matters", "A completely unrelated topic"],
+         "correct": 0,
+         "expl": "Dawn does not cause the sunrise, but reliably precedes and signals it — a different rhetorical approach to a related point."},
+        {"q": "How many qualities does this vagga run through, and how many times?",
+         "opts": ["Seven qualities, run through twice with two different closing formulas", "Only this one quality, once", "Fourteen entirely different qualities", "Three qualities, run through five times"],
+         "correct": 0,
+         "expl": "Confirmed by reading all fourteen discourses in this vagga directly."},
+    ],
+    marginalia=[
+        ("A new image opens this vagga", [
+            "dawn, forerunner of the sunrise —",
+            "not causing, but reliably preceding",
+        ]),
+        ("An indirect echo of SN 45.2-3", [
+            "there, a direct argument —",
+            "here, a natural image instead",
+        ]),
+        ("First of seven, first of two rounds", [
+            "good friendship opens the cycle —",
+            "six more qualities, then the whole cycle repeats",
+        ]),
+        ("A closing formula this project has met before", [
+            "seclusion, fading away, cessation, letting go —",
+            "shared with SN 45.2-3's own closing",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.49/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.48.html\">SN 45.48 &middot; Extinguishment "
+        "With No Fuel For Grasping</a> &mdash; the previous "
+        "discourse, closing Aññatitthiyapeyyālavagga.",
+        "<a href=\"sn-45.50-54.html\">SN 45.50&ndash;54 &middot; "
+        "Five Discourses on Accomplishment in Ethics, Etc. "
+        "(1st)</a> &mdash; the next page, five more qualities merged "
+        "into a single bilara-data file.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.50-54 — Sīlasampadādisuttapañcaka (merged peyyāla range, "1st")
+# --------------------------------------------------------------------------- #
+page_range(
+    45, 50, 54, "Sīlasampadādi",
+    "Five Discourses on Accomplishment in Ethics, Etc. (1st)",
+    vagga="Sūriyapeyyālavagga",
+    meta_title="SN 45.50–54 — Five Discourses on Accomplishment in Ethics, Etc. (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 45.50–54 — five more qualities preceding the eightfold "
+        "path's own arising, merged into a single bilara-data file "
+        "under one unified key prefix. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN 45.49)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Five discourses merged under a single unified key "
+                 "prefix, confirmed by reading the raw file directly "
+                 "-- a different encoding than SN 43's own "
+                 "per-discourse-prefix merged pages"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "five short entries, no new structure"),
+    ],
+    why=(
+        "Five more qualities join good friendship as forerunners of "
+        "the eightfold path's own arising: accomplishment in ethics, "
+        "enthusiasm, self-development, view, and diligence &mdash; "
+        "confirmed by reading this merged file's own raw keys "
+        "directly to use a single unified prefix (sn45.50-54) rather "
+        "than the per-discourse sub-prefixes SN 43's own merged pages "
+        "used, meaning these five discourses cannot be quoted "
+        "separately by their own individual uid the way SN 43.14-43's "
+        "own thirty entries were."
+    ),
+    guide=[
+        ("A different merged-file encoding, confirmed directly", [
+            "Unlike SN 43.14-43's own merged file, where each "
+            "discourse kept its own uid prefix (sn43.14, sn43.15, "
+            "and so on) within the single file, this merged file "
+            "uses one continuous key sequence "
+            "(sn45.50-54:1.1 through 1.7) with no internal "
+            "discourse boundaries marked at all, confirmed by "
+            "reading the raw JSON directly rather than assumed from "
+            "SN 43's own precedent.",
+        ]),
+        ("Ethics given in full, the rest compressed to one clause each", [
+            "The first quality in this run, ethics, receives the "
+            "dawn simile and the full teach-you framing (matching SN "
+            "45.49's own shape); the remaining four (enthusiasm, "
+            "self-development, view, diligence) are each compressed "
+            "to a single clause naming only the quality itself, "
+            "confirmed by reading all five entries directly.",
+        ]),
+    ],
+    terms=[
+        ("sīlasampadā", "&ldquo;accomplishment in ethics&rdquo; "
+             "&mdash; the first quality in this merged run, given "
+             "the fuller treatment"),
+        ("chandasampadā", "&ldquo;accomplishment in "
+             "enthusiasm&rdquo; &mdash; the second quality, "
+             "compressed to a single clause"),
+        ("attasampadā", "&ldquo;accomplishment in "
+             "self-development&rdquo; &mdash; the third quality"),
+        ("diṭṭhisampadā", "&ldquo;accomplishment in view&rdquo; "
+             "&mdash; the fourth quality"),
+        ("appamādasampadā", "&ldquo;accomplishment in "
+             "diligence&rdquo; &mdash; the fifth and last quality in "
+             "this merged run"),
+    ],
+    text_intro=("Every genuinely translated fragment in this merged "
+        "file, quoted in full and grouped by quality. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ethics"),
+        ("p", "45.50", "sn45.50-54:1.1-1.3"),
+        ("h3", "Enthusiasm"),
+        ("p", "45.51", "sn45.50-54:1.4"),
+        ("h3", "Self-development"),
+        ("p", "45.52", "sn45.50-54:1.5"),
+        ("h3", "View"),
+        ("p", "45.53", "sn45.50-54:1.6"),
+        ("h3", "Diligence"),
+        ("p", "45.54", "sn45.50-54:1.7"),
+    ],
+    quiz=[
+        {"q": "How does this merged file's own key structure differ from SN 43.14-43's own?",
+         "opts": ["A single unified key prefix with no internal discourse boundaries, rather than per-discourse sub-prefixes", "Identical encoding to SN 43's own merged file", "No keys at all — the file is empty", "Each discourse gets its own separate file after all"],
+         "correct": 0,
+         "expl": "Confirmed by reading the raw JSON directly — a genuinely different merged-file pattern within this project's own toolkit."},
+        {"q": "Which quality in this run receives fuller treatment than the others?",
+         "opts": ["Ethics, matching SN 45.49's own shape", "Diligence", "View", "All five receive identical treatment"],
+         "correct": 0,
+         "expl": "The remaining four are each compressed to a single clause naming only the quality itself."},
+        {"q": "What five qualities does this page cover?",
+         "opts": ["Ethics, enthusiasm, self-development, view, and diligence", "Good friendship and four unrelated topics", "Only ethics, repeated five times", "Five different similes, not qualities"],
+         "correct": 0,
+         "expl": "Five distinct qualities, each preceding the eightfold path's own arising by the same dawn simile."},
+    ],
+    marginalia=[
+        ("A different merged-file pattern", [
+            "one unified key prefix —",
+            "no internal discourse boundaries at all",
+        ]),
+        ("Ethics given fuller treatment", [
+            "the dawn simile restated —",
+            "matching SN 45.49's own shape",
+        ]),
+        ("Four qualities, one clause each", [
+            "enthusiasm, self-development, view, diligence —",
+            "compressed, but each genuinely distinct",
+        ]),
+        ("Six of seven qualities now covered", [
+            "good friendship plus these five —",
+            "rational application of mind still to come",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.50-54/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.49.html\">SN 45.49 &middot; Good Friends "
+        "(1st)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.55.html\">SN 45.55 &middot; Accomplishment "
+        "in Rational Application of Mind (1st)</a> &mdash; the next "
+        "discourse, closing this vagga's own first round.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.55 — Paṭhamayonisomanasikārasampadāsutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 55, "Yonisomanasikārasampadā",
+    "Accomplishment in Rational Application of Mind (1st)",
+    vagga="Sūriyapeyyālavagga",
+    meta_title="SN 45.55 — Accomplishment in Rational Application of Mind (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamayonisomanasikārasampadāsutta &mdash; the seventh "
+        "and last quality in this vagga's own first round, closing "
+        "with the full template restored. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The full template restored, as at SN 45.49, "
+                 "closing this vagga's own first round of seven"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, closes this round plainly"),
+    ],
+    why=(
+        "The seventh and last quality in this vagga's own first "
+        "round: yonisomanasikāra-sampadā, &ldquo;accomplishment in "
+        "rational application of mind&rdquo; &mdash; a term this "
+        "project has met before as one factor among several "
+        "elsewhere, here given its own full treatment as the seventh "
+        "forerunner of the eightfold path. This discourse restores "
+        "the full template SN 45.49 opened with, closing the first "
+        "of this vagga's own two identical rounds."
+    ),
+    guide=[
+        ("A term met before, now given its own full treatment", [
+            "Yoniso manasikāra (&ldquo;rational application of "
+            "mind,&rdquo; or wise attention) has appeared in this "
+            "project's own earlier readings as one contributing "
+            "factor among several; here it receives the identical "
+            "full treatment (dawn simile, teach-you framing, full "
+            "eightfold-path definition) as good friendship did at SN "
+            "45.49, confirmed by direct comparison of both "
+            "discourses' own structure.",
+        ]),
+        ("The first round complete", [
+            "With this discourse, all seven qualities of this "
+            "vagga's own first round (good friendship, ethics, "
+            "enthusiasm, self-development, view, diligence, and "
+            "rational application of mind) are confirmed covered, "
+            "each closing with &ldquo;relying on seclusion, fading "
+            "away, and cessation, ripening as letting go&rdquo; "
+            "&mdash; SN 45.56 will begin the identical seven-quality "
+            "cycle again with a different closing formula.",
+        ]),
+    ],
+    terms=[
+        ("yonisomanasikārasampadā", "&ldquo;accomplishment in "
+             "rational application of mind&rdquo; &mdash; this "
+             "discourse's own quality, the seventh and last in this "
+             "vagga's own first round"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "&ldquo;relying on seclusion, fading away, and "
+             "cessation, ripening as letting go&rdquo; &mdash; this "
+             "round's own shared closing formula, given here for the "
+             "seventh and last time"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, what "
+             "rational application of mind precedes and signals"),
+        ("aruṇuggaṁ", "&ldquo;the dawn&rdquo; &mdash; the simile "
+             "restored in full, as at SN 45.49"),
+        ("dutiyayonisomanasikārasampadāsutta", "the title of SN "
+             "45.62, this discourse's own counterpart closing the "
+             "vagga's own second round with the alternate closing "
+             "formula"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.55:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What quality does this discourse cover, closing this vagga's own first round?",
+         "opts": ["Accomplishment in rational application of mind", "Good friendship", "Accomplishment in ethics", "Accomplishment in diligence"],
+         "correct": 0,
+         "expl": "The seventh and last quality in the first of this vagga's own two identical rounds."},
+        {"q": "How does this discourse's own form compare to SN 45.49's own?",
+         "opts": ["The full template restored, matching SN 45.49's own fuller shape rather than SN 45.50-54's own compression", "More compressed than SN 45.50-54's own entries", "An entirely different, unrelated structure", "Identical to SN 45.50-54's own single-clause form"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — this round opens and closes with the fuller form, as Aññatitthiyapeyyālavagga's own run also did."},
+        {"q": "What happens after this discourse, according to this vagga's own confirmed structure?",
+         "opts": ["SN 45.56 begins the identical seven-quality cycle again with a different closing formula", "The vagga ends entirely", "A completely unrelated topic begins", "The same quality is covered a second time immediately"],
+         "correct": 0,
+         "expl": "This vagga's own confirmed 7×2 grid: the same seven qualities, run through twice with two different closings."},
+    ],
+    marginalia=[
+        ("A familiar term, fuller treatment", [
+            "rational application of mind —",
+            "met before as one factor, now given its own discourse",
+        ]),
+        ("The full template, restored", [
+            "as at SN 45.49 —",
+            "closing this round with the fuller form",
+        ]),
+        ("Seven qualities, first round complete", [
+            "good friendship through rational application —",
+            "the full cycle confirmed",
+        ]),
+        ("A second round begins next", [
+            "the same seven qualities again —",
+            "a different closing formula this time",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.55/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.50-54.html\">SN 45.50&ndash;54 &middot; "
+        "Five Discourses on Accomplishment in Ethics, Etc. "
+        "(1st)</a> &mdash; the previous page.",
+        "<a href=\"sn-45.56.html\">SN 45.56 &middot; Good Friends "
+        "(2nd)</a> &mdash; the next discourse, opening this vagga's "
+        "own second round with a different closing formula.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.56 — Dutiyakalyāṇamittasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 56, "Kalyāṇamitta", "Good Friends (2nd)",
+    vagga="Sūriyapeyyālavagga",
+    meta_title="SN 45.56 — Good Friends (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyakalyāṇamittasutta &mdash; opening this vagga's own "
+        "second round with the identical seven qualities and a "
+        "genuinely different closing formula. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical structure as SN 45.49, with a "
+                 "genuinely different closing formula"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, opens this vagga's own second round"),
+    ],
+    why=(
+        "This discourse reopens the identical seven-quality cycle "
+        "with good friendship once more, but closes the eightfold "
+        "path's own definition with a genuinely different formula: "
+        "not &ldquo;relying on seclusion, fading away, and cessation, "
+        "ripening as letting go&rdquo; (SN 45.49&ndash;55's own "
+        "closing) but &ldquo;culminating in the removal of greed, "
+        "hate, and delusion&rdquo; instead, confirmed by direct "
+        "comparison of both discourses' own final clauses."
+    ),
+    guide=[
+        ("The same seven topics, a genuinely different closing", [
+            "Confirmed by reading both discourses side by side: "
+            "everything before the eightfold-path's own closing "
+            "clause matches SN 45.49 exactly, but where that "
+            "discourse closed with &ldquo;seclusion, fading away, "
+            "cessation, letting go,&rdquo; this one closes with "
+            "&ldquo;culminating in the removal of greed, hate, and "
+            "delusion&rdquo; &mdash; the identical three-root formula "
+            "this project has now met naming many different goals "
+            "across this saṃyutta.",
+        ]),
+        ("Two closing formulas, not two different teachings", [
+            "This project's earlier readings (SN 22, among others) "
+            "have met &ldquo;relying on seclusion... ripening as "
+            "letting go&rdquo; and &ldquo;culminating in the ending "
+            "of greed, hate, delusion&rdquo; as two established "
+            "closing formulas for describing developed factors of "
+            "the path, not as competing or contradictory "
+            "descriptions &mdash; this vagga's own second round "
+            "simply substitutes one recognized formula for another.",
+        ]),
+    ],
+    terms=[
+        ("kalyāṇamittatā", "&ldquo;good friendship&rdquo; &mdash; "
+             "this discourse's own quality, identical to SN 45.49's "
+             "own, reopening the seven-quality cycle"),
+        ("rāgavinayapariyosānaṁ dosavinayapariyosānaṁ mohavinayapariyosānaṁ",
+             "&ldquo;culminating in the removal of greed, hate, and "
+             "delusion&rdquo; &mdash; this discourse's own genuinely "
+             "different closing formula"),
+        ("vivekanissitaṁ... vossaggapariṇāmiṁ", "&ldquo;relying on "
+             "seclusion... ripening as letting go&rdquo; &mdash; SN "
+             "45.49's own closing formula, not repeated here"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, "
+             "defined identically in structure but closed "
+             "differently in this discourse"),
+        ("aruṇuggaṁ", "&ldquo;the dawn&rdquo; &mdash; the simile "
+             "unchanged, opening this vagga's own second round"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.56:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What genuinely differs between this discourse and SN 45.49's own?",
+         "opts": ["The eightfold path's own closing formula — \"culminating in the removal of greed, hate, and delusion\" rather than \"relying on seclusion... ripening as letting go\"", "The quality itself — a completely different topic", "The simile used", "The setting"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — everything else matches SN 45.49 exactly."},
+        {"q": "How does this reading guide characterize the two closing formulas?",
+         "opts": ["Two established formulas for describing developed path factors, not competing or contradictory descriptions", "Two contradictory teachings that cannot both be true", "A translation error in one of the two discourses", "Evidence that one discourse is spurious"],
+         "correct": 0,
+         "expl": "This project's own earlier readings have met both formulas as recognized ways of describing the same developed factors."},
+        {"q": "What does this discourse begin, within this vagga's own overall structure?",
+         "opts": ["The second of two identical seven-quality rounds", "An entirely new, unrelated topic", "The vagga's own closing discourse", "A third round with yet another closing formula"],
+         "correct": 0,
+         "expl": "Confirmed by this vagga's own overall 7×2 grid, now entering its second half."},
+    ],
+    marginalia=[
+        ("The cycle begins again", [
+            "good friendship, once more —",
+            "identical structure, one formula changed",
+        ]),
+        ("A genuinely different closing", [
+            "greed, hate, delusion, removed —",
+            "not seclusion and letting go this time",
+        ]),
+        ("Two formulas, not two teachings", [
+            "both met before, elsewhere —",
+            "recognized ways of describing the same thing",
+        ]),
+        ("Second round, first of seven", [
+            "good friendship reopens the cycle —",
+            "six more qualities to follow",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.56/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.55.html\">SN 45.55 &middot; Accomplishment "
+        "in Rational Application of Mind (1st)</a> &mdash; the "
+        "previous discourse, closing this vagga's own first round.",
+        "<a href=\"sn-45.57-61.html\">SN 45.57&ndash;61 &middot; "
+        "Five Discourses on Accomplishment in Ethics, Etc. "
+        "(2nd)</a> &mdash; the next page.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.57-61 — (merged peyyāla range, "2nd")
+# --------------------------------------------------------------------------- #
+page_range(
+    45, 57, 61, "Sīlasampadādi",
+    "Five Discourses on Accomplishment in Ethics, Etc. (2nd)",
+    vagga="Sūriyapeyyālavagga",
+    meta_title="SN 45.57–61 — Five Discourses on Accomplishment in Ethics, Etc. (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 45.57–61 — the same five qualities as SN 45.50–54, this "
+        "vagga's own second round, closing with the alternate "
+        "formula. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN 45.56)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical five qualities as SN 45.50-54, "
+                 "merged under the same single unified key prefix "
+                 "pattern"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "five short entries, no new structure"),
+    ],
+    why=(
+        "The identical five qualities as SN 45.50&ndash;54 (ethics, "
+        "enthusiasm, self-development, view, diligence), confirmed "
+        "by direct comparison to repeat exactly, within this vagga's "
+        "own second round &mdash; closing, like SN 45.56, with "
+        "&ldquo;culminating in the removal of greed, hate, and "
+        "delusion&rdquo; rather than the first round's own "
+        "&ldquo;seclusion... letting go&rdquo; formula."
+    ),
+    guide=[
+        ("The same five qualities, confirmed not merely assumed", [
+            "Ethics, enthusiasm, self-development, view, and "
+            "diligence appear here in the identical order as SN "
+            "45.50&ndash;54's own, confirmed by reading this merged "
+            "file's own raw keys directly rather than assumed "
+            "identical from the vagga's own overall pattern alone.",
+        ]),
+        ("The same unified-prefix encoding", [
+            "As with SN 45.50-54, this merged file uses one "
+            "continuous key sequence rather than per-discourse "
+            "sub-prefixes, confirmed by reading the raw JSON "
+            "directly &mdash; the two merged pages in this vagga "
+            "share the identical technical structure.",
+        ]),
+    ],
+    terms=[
+        ("sīlasampadā", "&ldquo;accomplishment in ethics&rdquo; "
+             "&mdash; the first quality in this second merged run, "
+             "given fuller treatment as at SN 45.50"),
+        ("chandasampadā", "&ldquo;accomplishment in "
+             "enthusiasm&rdquo; &mdash; the second quality"),
+        ("attasampadā", "&ldquo;accomplishment in "
+             "self-development&rdquo; &mdash; the third quality"),
+        ("diṭṭhisampadā", "&ldquo;accomplishment in view&rdquo; "
+             "&mdash; the fourth quality"),
+        ("appamādasampadā", "&ldquo;accomplishment in "
+             "diligence&rdquo; &mdash; the fifth and last quality, "
+             "closing this second merged run"),
+    ],
+    text_intro=("Every genuinely translated fragment in this merged "
+        "file, quoted in full and grouped by quality. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ethics"),
+        ("p", "45.57", "sn45.57-61:1.1-1.2"),
+        ("h3", "Enthusiasm"),
+        ("p", "45.58", "sn45.57-61:1.3"),
+        ("h3", "Self-development"),
+        ("p", "45.59", "sn45.57-61:1.4"),
+        ("h3", "View"),
+        ("p", "45.60", "sn45.57-61:1.5"),
+        ("h3", "Diligence"),
+        ("p", "45.61", "sn45.57-61:1.6"),
+    ],
+    quiz=[
+        {"q": "How do the five qualities in this merged page compare to SN 45.50-54's own?",
+         "opts": ["Identical — ethics, enthusiasm, self-development, view, and diligence, in the same order", "A completely different set of five qualities", "Only three of the five qualities repeat", "The order is reversed"],
+         "correct": 0,
+         "expl": "Confirmed by reading this merged file's own raw keys directly, not merely assumed from the vagga's own overall pattern."},
+        {"q": "What technical pattern does this merged file share with SN 45.50-54?",
+         "opts": ["A single unified key prefix, rather than per-discourse sub-prefixes", "Nothing — the two files use completely different encodings", "Both files are entirely blank", "Each discourse gets its own separate uid in both files"],
+         "correct": 0,
+         "expl": "Confirmed by reading the raw JSON of both merged files directly."},
+        {"q": "What closing formula does this run share with SN 45.56?",
+         "opts": ["\"Culminating in the removal of greed, hate, and delusion\"", "\"Relying on seclusion... ripening as letting go\"", "No closing formula at all", "A third, entirely new closing formula"],
+         "correct": 0,
+         "expl": "This vagga's own second round's shared closing, distinct from the first round's own formula."},
+    ],
+    marginalia=[
+        ("The identical five qualities, confirmed", [
+            "ethics through diligence, same order —",
+            "checked directly, not assumed",
+        ]),
+        ("The same merged-file pattern", [
+            "one unified key prefix again —",
+            "shared with SN 45.50-54's own encoding",
+        ]),
+        ("The second round's own closing", [
+            "greed, hate, delusion, removed —",
+            "shared with SN 45.56's own formula",
+        ]),
+        ("Twelve of fourteen discourses now covered", [
+            "one quality still to come —",
+            "rational application of mind closes this vagga next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.57-61/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.56.html\">SN 45.56 &middot; Good Friends "
+        "(2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.62.html\">SN 45.62 &middot; Accomplishment "
+        "in Rational Application of Mind (2nd)</a> &mdash; the next "
+        "discourse, closing this vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.62 — Dutiyayonisomanasikārasampadāsutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 62, "Yonisomanasikārasampadā",
+    "Accomplishment in Rational Application of Mind (2nd)",
+    vagga="Sūriyapeyyālavagga",
+    meta_title="SN 45.62 — Accomplishment in Rational Application of Mind (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyayonisomanasikārasampadāsutta &mdash; closing "
+        "Sūriyapeyyālavagga's own second round and the vagga itself. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The seventh and last quality of this vagga's own "
+                 "second round, closing the vagga itself"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, closes this vagga plainly"),
+    ],
+    why=(
+        "The seventh and last quality of this vagga's own second "
+        "round: rational application of mind once more, now closing "
+        "with &ldquo;culminating in the removal of greed, hate, and "
+        "delusion&rdquo; rather than SN 45.55's own &ldquo;seclusion... "
+        "letting go&rdquo; formula. With this discourse, the full "
+        "7&times;2 grid this vagga has run &mdash; seven qualities, "
+        "two closing formulas, fourteen discourses &mdash; is "
+        "complete, closing Sūriyapeyyālavagga itself."
+    ),
+    guide=[
+        ("The grid complete", [
+            "Confirmed by reading all fourteen discourses of this "
+            "vagga together: seven qualities (good friendship, "
+            "ethics, enthusiasm, self-development, view, diligence, "
+            "rational application of mind), each given twice with "
+            "two different closing formulas, with no combination "
+            "repeated &mdash; a genuinely systematic design.",
+        ]),
+        ("This vagga's own quiet close", [
+            "Following this discourse's own genuinely translated "
+            "content, the root Pāli carries this vagga's own closing "
+            "colophon (&ldquo;Sūriyapeyyālaṁ,&rdquo; without an "
+            "ordinal, matching Aññatitthiyapeyyālavagga's own "
+            "unusual closing style) and an untranslated meta-uddāna "
+            "naming the seven qualities of one round in verse "
+            "&mdash; described here rather than quoted, since this "
+            "content is left untranslated in Sujato's own English.",
+        ]),
+    ],
+    terms=[
+        ("yonisomanasikārasampadā", "&ldquo;accomplishment in "
+             "rational application of mind&rdquo; &mdash; this "
+             "discourse's own quality, closing this vagga's own "
+             "second round"),
+        ("rāgavinayapariyosānaṁ dosavinayapariyosānaṁ mohavinayapariyosānaṁ",
+             "&ldquo;culminating in the removal of greed, hate, and "
+             "delusion&rdquo; &mdash; this discourse's own closing "
+             "formula, matching the second round's own throughout"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, "
+             "defined identically across this vagga's own fourteen "
+             "discourses"),
+        ("sūriyapeyyālaṁ", "&ldquo;the abbreviated text on the "
+             "sun&rdquo; &mdash; this vagga's own closing colophon, "
+             "left untranslated in the root, without an ordinal"),
+        ("tassuddānaṁ", "&ldquo;its own summary verse&rdquo; "
+             "&mdash; the heading introducing the untranslated "
+             "meta-uddāna naming the seven qualities of one round"),
+    ],
+    text_intro=("The complete genuinely translated content of the "
+        "discourse. This vagga's own closing colophon and "
+        "meta-uddāna are left untranslated in the source and are "
+        "described, not quoted, above. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.62:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse complete, being the last of this vagga's own fourteen discourses?",
+         "opts": ["A full 7×2 grid — seven qualities, each given twice with two different closing formulas", "A 2×2 matrix only", "An entirely new, unrelated topic", "A single repeated discourse with no grid at all"],
+         "correct": 0,
+         "expl": "Confirmed by reading all fourteen discourses together — a genuinely systematic design."},
+        {"q": "What closing formula does this discourse use?",
+         "opts": ["\"Culminating in the removal of greed, hate, and delusion\" — matching the second round's own formula", "\"Relying on seclusion... ripening as letting go\" — the first round's own formula", "A brand new third formula", "No closing formula at all"],
+         "correct": 0,
+         "expl": "Consistent with SN 45.56-61's own shared closing, distinct from SN 45.49-55's own."},
+        {"q": "What is this vagga's own closing colophon, left untranslated in the root?",
+         "opts": ["\"Sūriyapeyyālaṁ,\" without an ordinal, matching Aññatitthiyapeyyālavagga's own unusual closing style", "\"Sūriyavaggo chaṭṭho,\" with a standard ordinal", "No closing colophon at all", "A colophon naming a different vagga entirely"],
+         "correct": 0,
+         "expl": "Described rather than quoted, since Sujato's own English leaves this portion untranslated."},
+    ],
+    marginalia=[
+        ("The grid complete", [
+            "seven qualities, two formulas each —",
+            "fourteen discourses, no combination repeated",
+        ]),
+        ("The second round's own close", [
+            "greed, hate, delusion, removed —",
+            "the formula shared throughout this half",
+        ]),
+        ("An unusual colophon, again", [
+            "no ordinal this time —",
+            "matching Aññatitthiyapeyyāla's own style",
+        ]),
+        ("Sūriyapeyyālavagga closes", [
+            "fourteen discourses, one systematic grid —",
+            "eight more vaggas still ahead in this saṃyutta",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.62/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.57-61.html\">SN 45.57&ndash;61 &middot; "
+        "Five Discourses on Accomplishment in Ethics, Etc. "
+        "(2nd)</a> &mdash; the previous page.",
+        "<a href=\"sn-55.1.html\">SN 55.1 &middot; A Wheel-Turning "
+        "Monarch</a> &mdash; already published on this site, "
+        "standing ahead of this project's next vagga, "
+        "Ekadhammapeyyālavagga (SN 45.63&ndash;76), not yet built.",
+    ],
 )
