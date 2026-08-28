@@ -60,10 +60,21 @@ INDEX_HEADING = "IV. Saḷāyatanavagga — The Book of the Six Sense Fields"
 # one-time-per-build hand-patch (back to SN 41.1, not SN 41.2) that
 # the SN 35.27/28/29 and SN 36.5/6/7 fragile junctions already require
 # -- confirmed the first time this module was rebuilt after SN 41.2-10
-# were added. TAIL now moves to SN 42.8, the next already-published
-# page beyond this module's own current coverage.
+# were added. TAIL then moved to SN 42.8 while SN 42 itself was being
+# built (SN 42.8 sits mid-vagga, this book's fourth fragile junction,
+# patched the same way as SN 35.28 and SN 36.6 once Gāmaṇisaṃyutta's
+# own Kulaghara-vagga absorbed it). Now that SN 42 is fully generated
+# (SN 42.1-13) and SN 43 begins, TAIL moves on to SN 45.8
+# (Vibhaṅgasutta, "Analysis"), the next already-published page beyond
+# this module's own current coverage -- confirmed by reading SN
+# 42.13.html's own baked "further reading" list, which already named
+# it as "standing ahead of this project's next saṃyutta, SN 43, not
+# yet built." SN 42.13.html's own static "next" link (still pointing
+# at SN 42.8, stale since before this TAIL move) is corrected
+# automatically the next time this module is rebuilt, once SN 43's own
+# first page is appended to PAGES immediately after it.
 HEAD = ("sn-34.55.html", "SN 34.55 &middot; Persistence and What&rsquo;s Conducive")
-TAIL = ("sn-42.8.html", "SN 42.8 &middot; A Horn Blower")
+TAIL = ("sn-45.8.html", "SN 45.8 &middot; Analysis")
 INDEX_EXTRA = [
     ("sn-35.28", "Āditta", "Burning"),
     ("sn-36.6", "Sallatha", "An Arrow"),
@@ -48664,5 +48675,2079 @@ page(
         '<a href="sn-45.8.html">SN 45.8 &middot; Analysis</a> '
         "&mdash; already published on this site, standing ahead of "
         "this project's next saṃyutta, SN 43, not yet built.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 43 (Asaṅkhatasaṃyutta, "Linked Discourses on the Unconditioned") is
+# this book's ninth saṃyutta, confirmed against both bilara-data's own
+# file layout and SuttaCentral's own menu API -- both agree exactly: 44
+# discourses across 2 vaggas (Paṭhamavagga SN 43.1-11, 11 discourses;
+# Dutiyavagga SN 43.12-44, 33 discourses), and bilara-data's own file
+# count (13 individual files for SN 43.1-13, one merged file for SN
+# 43.14-43 covering 30 discourses, one final individual file for SN
+# 43.44 -- 15 files total for 44 discourses) confirmed by directly
+# listing the directory rather than assumed from any earlier
+# saṃyutta's own pattern.
+#
+# Structurally this saṃyutta is unlike anything built so far: not a
+# narrative or a catechism between named speakers, but the Buddha
+# alone teaching mendicants a single repeatable formula --
+# "Mendicants, I will teach you X and the path that leads to X" --
+# where X is asaṅkhata ("the unconditioned") throughout Paṭhamavagga,
+# then a fresh synonym for nibbāna in each discourse of Dutiyavagga,
+# and the "path" half of the formula is filled by one of eleven
+# groupings confirmed by reading SN 43.1-11 directly: mindfulness of
+# the body, serenity and discernment, the three kinds of immersion by
+# applied and sustained thought, the three "liberating" immersions
+# (empty, signless, undirected), the four founations of mindfulness,
+# the four right efforts, the four bases of psychic power, the five
+# faculties, the five powers, the seven awakening factors, and the
+# noble eightfold path -- the same eleven-item list this project's own
+# already-published SN 45.8 (Vibhaṅgasutta, standing at this book's own
+# TAIL) analyzes for the eightfold path alone, confirmed by direct
+# comparison rather than assumed. SN 43.1 alone carries this saṃyutta's
+# own narrative frame (Sāvatthī) and the formula's full text, including
+# its closing exhortation ("these roots of trees... practice
+# absorption!"); SN 43.2 keeps the opening and the goal-definition but
+# elides the closing exhortation with a bare "..."; SN 43.3-43.10 open
+# directly on "And what is the path...?", eliding both the
+# teach-you announcement AND the closing exhortation, confirmed by
+# reading each file directly rather than assumed from SN 43.3's own
+# shape; SN 43.11 restores the full closing exhortation (as the
+# vagga's own last discourse) and adds Paṭhamavagga's own closing
+# colophon and an untranslated meta-uddāna listing all eleven items in
+# verse. Dutiyavagga opens differently: SN 43.12 (Asaṅkhatasutta, the
+# unconditioned again, not yet a fresh synonym) is the ONE place in
+# this entire saṃyutta where all eleven path-formulations are spelled
+# out together in a single discourse, confirmed by reading the full
+# file directly -- this becomes the master template every later
+# discourse of Dutiyavagga cross-references rather than restates. SN
+# 43.13 (the first fresh synonym, anataṁ, "the uninclined") already
+# collapses to a bare teach-you announcement plus a genuinely
+# Sujato-translated editorial cross-reference, "(Tell in full as in
+# the unconditioned in the previous chapter.)" -- confirmed this is
+# real translated text, not a placeholder this reading guide invents.
+# SN 43.14-43 (the merged file, 30 discourses) compresses further
+# still: each of its own thirty entries keeps only the fresh synonym's
+# own name (e.g. "the truth...", "the far shore..."), confirmed by
+# reading the merged file directly rather than assumed from SN 43.13's
+# own shape -- every one of these thirty fragments is still genuinely
+# distinct translated content (a different single English word or
+# short phrase apiece) and is quoted in full on this saṃyutta's own
+# merged page rather than silently summarized, per this project's
+# standing rule on peyyāla coverage. SN 43.44 (parāyanaṁ, "the final
+# haven", the thirty-third and last synonym) closes both Dutiyavagga
+# and the saṃyutta itself, and rather than cross-referencing like SN
+# 43.13-43, spells out one worked example in full -- mindfulness of
+# the body again, the same single path-formulation SN 43.1 opened
+# with, confirmed by direct comparison -- before adding its own "(Tell
+# in full as in the unconditioned.)" for the remaining ten
+# formulations, an untranslated meta-uddāna listing all thirty-three
+# synonyms in verse, and this saṃyutta's own genuinely
+# Sujato-translated closing colophon, "The Linked Discourses on the
+# unconditioned are complete." SuttaCentral's own parallels API
+# confirms one Chinese Saṃyukta-āgama counterpart, SA 890, matched to
+# the SN 43.11-43 range (this project's own suttaplex check on SN 43.1
+# individually returned zero parallels, confirming no Northern
+# counterpart is claimed for Paṭhamavagga's own individual
+# discourses) -- recorded here rather than in any single discourse's
+# own glance card alone, since the parallel covers the range rather
+# than one page.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 43.1 — Kāyagatāsatisutta
+# --------------------------------------------------------------------------- #
+page(
+    43, 1, "Kāyagatāsati", "Mindfulness of the Body",
+    vagga="Paṭhamavagga",
+    meta_title="SN 43.1 — Mindfulness of the Body | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kāyagatāsatisutta &mdash; opening a new saṃyutta on "
+        "&ldquo;the unconditioned&rdquo; with its full formula given "
+        "in full for the only time in this vagga. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly "
+                     "&mdash; no interlocutor appears anywhere in this "
+                     "saṃyutta"),
+        ("Form", "This saṃyutta's own fixed formula, given here in "
+                 "full for the only time in Paṭhamavagga &mdash; "
+                 "compressed in every discourse that follows until "
+                 "the vagga's own close"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed for "
+                              "this discourse (SuttaCentral's own "
+                              "suttaplex record lists zero); a Chinese "
+                              "Saṃyukta-āgama counterpart, SA 890, "
+                              "exists but is matched to the SN "
+                              "43.11&ndash;43 range, not this opening "
+                              "discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a short, formulaic opening"),
+    ],
+    why=(
+        "This discourse opens Book IV's ninth saṃyutta with the "
+        "formula every one of its own forty-four discourses will "
+        "share in some compressed form: &ldquo;I will teach you the "
+        "unconditioned and the path that leads to the "
+        "unconditioned.&rdquo; The unconditioned (asaṅkhata) is "
+        "defined once, identically, throughout &mdash; the ending of "
+        "greed, hate, and delusion &mdash; while the path half of the "
+        "formula is filled eleven different ways across this vagga. "
+        "Here it is filled with the first and, on this site, the "
+        "most basic: mindfulness of the body."
+    ),
+    guide=[
+        ("The unconditioned, defined once for the whole saṃyutta", [
+            "&ldquo;The ending of greed, hate, and delusion&rdquo; "
+            "&mdash; this exact three-part definition of asaṅkhata is "
+            "presupposed rather than restated in every one of this "
+            "vagga's own remaining nine discourses, confirmed by "
+            "reading SN 43.2&ndash;10 directly: only the "
+            "&ldquo;path&rdquo; half of the formula varies from here "
+            "on, not the goal itself.",
+        ]),
+        ("Eleven paths, one goal &mdash; the cycle this vagga sets up", [
+            "Mindfulness of the body opens a list of eleven "
+            "formulations of practice this vagga will cycle through "
+            "one at a time, ending at SN 43.11 with the noble "
+            "eightfold path itself &mdash; not a ranking from lesser "
+            "to greater practice, since each discourse names its own "
+            "single formulation &ldquo;the path that leads to the "
+            "unconditioned&rdquo; without qualification, the same "
+            "unqualified claim made eleven times over for eleven "
+            "different practices.",
+        ]),
+    ],
+    terms=[
+        ("asaṅkhataṁ", "&ldquo;the unconditioned&rdquo; &mdash; this "
+             "saṃyutta's own name for nibbāna, defined identically "
+             "throughout Paṭhamavagga and given a fresh synonym in "
+             "each discourse of Dutiyavagga to come"),
+        ("rāgakkhayo dosakkhayo mohakkhayo", "&ldquo;the ending of "
+             "greed, hate, and delusion&rdquo; &mdash; the fixed "
+             "definition of the unconditioned itself, restated in "
+             "full only here and at SN 43.12 and SN 43.44"),
+        ("asaṅkhatagāmimaggo", "&ldquo;the path that leads to the "
+             "unconditioned&rdquo; &mdash; the variable half of the "
+             "formula, filled eleven different ways across this "
+             "vagga"),
+        ("kāyagatāsati", "&ldquo;mindfulness of the body&rdquo; "
+             "&mdash; the first of the eleven path-formulations, "
+             "opening the whole saṃyutta and returning once more at "
+             "SN 43.44 to close it"),
+        ("etāni rukkhamūlāni... jhāyatha", "&ldquo;here are these "
+             "roots of trees... practice absorption!&rdquo; &mdash; "
+             "the standard closing exhortation, given here in full "
+             "and elided in every discourse that follows until "
+             "Paṭhamavagga's own close at SN 43.11"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn43.1:1.1-2.3"),
+    ],
+    quiz=[
+        {"q": "How is \"the unconditioned\" (asaṅkhata) defined in this discourse?",
+         "opts": ["The ending of greed, hate, and delusion", "A specific meditative absorption", "The Buddha's own enlightenment", "A place beyond the physical world"],
+         "correct": 0,
+         "expl": "This exact three-part definition is presupposed, not restated, in every discourse of Paṭhamavagga that follows."},
+        {"q": "Which practice does this discourse name as \"the path that leads to the unconditioned\"?",
+         "opts": ["Mindfulness of the body", "The noble eightfold path", "The seven awakening factors", "Serenity and discernment"],
+         "correct": 0,
+         "expl": "The first of eleven formulations this vagga will cycle through one at a time, ending at SN 43.11 with the eightfold path."},
+        {"q": "What happens to this discourse's own closing exhortation in the nine discourses that follow it?",
+         "opts": ["It is elided, then restored in full only at the vagga's own close, SN 43.11", "It is repeated in full every time", "It disappears permanently from the saṃyutta", "It is replaced with a different exhortation each time"],
+         "correct": 0,
+         "expl": "SN 43.2 elides it with a bare ellipsis; SN 43.3-43.10 elide the opening announcement as well, keeping only the path-formulation itself."},
+    ],
+    marginalia=[
+        ("One goal, defined once", [
+            "greed, hate, delusion, ended —",
+            "the fixed meaning of \"unconditioned\"",
+        ]),
+        ("Eleven paths begin here", [
+            "mindfulness of the body, first —",
+            "ten more formulations still to come",
+        ]),
+        ("A formula this vagga will compress", [
+            "given here in full —",
+            "elided from the very next discourse on",
+        ]),
+        ("A new saṃyutta opens", [
+            "Book IV's ninth of ten —",
+            "no interlocutor, only the Buddha teaching",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn43.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-42.13.html\">SN 42.13 &middot; With "
+        "Pāṭaliya</a> &mdash; the previous discourse, closing "
+        "Gāmaṇisaṃyutta.",
+        "<a href=\"sn-43.2.html\">SN 43.2 &middot; Serenity and "
+        "Discernment</a> &mdash; the next discourse in this vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 43.2 — Samathavipassanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    43, 2, "Samathavipassanā", "Serenity and Discernment",
+    vagga="Paṭhamavagga",
+    meta_title="SN 43.2 — Serenity and Discernment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samathavipassanāsutta &mdash; the second of eleven "
+        "path-formulations, pairing serenity with discernment. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN 43.1)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The opening announcement and goal-definition kept in "
+                 "full; the closing exhortation elided with a bare "
+                 "ellipsis &mdash; this vagga's own first step down in "
+                 "compression"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single substitution on SN 43.1's own formula"),
+    ],
+    why=(
+        "The second of eleven path-formulations pairs samatha "
+        "(&ldquo;serenity,&rdquo; calm concentration) with vipassanā "
+        "(&ldquo;discernment,&rdquo; insight into impermanence) as a "
+        "single joint practice leading to the unconditioned &mdash; "
+        "the two terms this project has already met separately many "
+        "times over now named together as one complete path, "
+        "confirmed by reading the discourse's own single line "
+        "directly rather than assumed from the pair's familiarity "
+        "elsewhere on this site."
+    ),
+    guide=[
+        ("A pair named together, not ranked", [
+            "&ldquo;Samatho ca vipassanā ca&rdquo; &mdash; serenity "
+            "and discernment, joined with a plain &ldquo;and,&rdquo; "
+            "neither named as preparation for the other; this "
+            "discourse itself gives no further elaboration of how "
+            "the two combine, only that together they constitute one "
+            "path-formulation among the vagga's own eleven.",
+        ]),
+        ("The first compression: a formula down to two lines", [
+            "This discourse keeps the opening announcement and the "
+            "goal-definition (both presupposed rather than restated "
+            "from here through SN 43.10) but elides its own closing "
+            "exhortation with a bare &ldquo;&hellip;&rdquo; &mdash; "
+            "confirmed as real elision by reading bilara-data "
+            "directly, not merely inferred from the file's own "
+            "shortness.",
+        ]),
+    ],
+    terms=[
+        ("samatho ca vipassanā ca", "&ldquo;serenity and "
+             "discernment&rdquo; &mdash; the second of eleven "
+             "path-formulations, named together as one joint "
+             "practice"),
+        ("asaṅkhataṁ", "&ldquo;the unconditioned&rdquo; &mdash; the "
+             "goal, restated in full here for the second and, in "
+             "this vagga, next-to-last time before the definition "
+             "itself is presupposed from SN 43.3 onward"),
+        ("rāgakkhayo dosakkhayo mohakkhayo", "&ldquo;the ending of "
+             "greed, hate, and delusion&rdquo; &mdash; the fixed "
+             "definition of the unconditioned, restated once more "
+             "here"),
+        ("asaṅkhatagāmimaggo", "&ldquo;the path that leads to the "
+             "unconditioned&rdquo; &mdash; the term this discourse's "
+             "own single substitution fills with serenity and "
+             "discernment together"),
+        ("&hellip;", "the elision mark itself &mdash; standing here "
+             "for this discourse's own closing exhortation, given in "
+             "full only at SN 43.1 and SN 43.11 within this vagga"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated "
+        "&mdash; the closing exhortation itself is elided in the "
+        "source, not by this reading guide. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn43.2:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What two practices does this discourse name together as \"the path that leads to the unconditioned\"?",
+         "opts": ["Serenity and discernment", "Mindfulness of the body and the eightfold path", "The four right efforts", "The five faculties"],
+         "correct": 0,
+         "expl": "Samatha and vipassanā, named together with a plain \"and,\" neither ranked above the other in this discourse's own single line."},
+        {"q": "What happens to this discourse's own closing exhortation?",
+         "opts": ["It is elided with a bare ellipsis in the source itself", "It is given in full, identical to SN 43.1", "It is replaced with a different exhortation", "This discourse has no closing section at all, elided or otherwise"],
+         "correct": 0,
+         "expl": "Confirmed by reading bilara-data directly: the elision is in the source, not a shortcut taken by this reading guide."},
+        {"q": "How is \"the unconditioned\" defined in this discourse?",
+         "opts": ["The ending of greed, hate, and delusion — restated in full here", "Left undefined, presupposed from SN 43.1", "Defined differently than in SN 43.1", "Not mentioned in this discourse"],
+         "correct": 0,
+         "expl": "SN 43.2 is the last discourse in this vagga to restate the definition in full; from SN 43.3 on it is presupposed."},
+    ],
+    marginalia=[
+        ("Two practices, one path", [
+            "serenity and discernment, joined —",
+            "neither named first in importance",
+        ]),
+        ("The last full restatement", [
+            "the goal defined once more here —",
+            "then presupposed from the next discourse on",
+        ]),
+        ("Compression begins", [
+            "the closing exhortation, elided —",
+            "a bare ellipsis stands for what SN 43.1 spelled out",
+        ]),
+        ("Second of eleven", [
+            "one substitution on a fixed formula —",
+            "nine more formulations still ahead in this vagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn43.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-43.1.html\">SN 43.1 &middot; Mindfulness of the "
+        "Body</a> &mdash; the previous discourse, opening this "
+        "saṃyutta.",
+        "<a href=\"sn-43.3.html\">SN 43.3 &middot; Placing the Mind "
+        "and Keeping it Connected</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 43.3 — Savitakkasavicārasutta
+# --------------------------------------------------------------------------- #
+page(
+    43, 3, "Savitakkasavicāra", "Placing the Mind and Keeping it Connected",
+    vagga="Paṭhamavagga",
+    meta_title="SN 43.3 — Placing the Mind and Keeping it Connected | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Savitakkasavicārasutta &mdash; three grades of "
+        "immersion by applied and sustained thought, named as the "
+        "path to the unconditioned. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN 43.2)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "This vagga's own compression floor from here through "
+                 "SN 43.10: only the &ldquo;what is the path&rdquo; "
+                 "question and its own answer, both the opening "
+                 "announcement and the closing exhortation elided "
+                 "entirely"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single line naming three grades of one "
+                       "practice"),
+    ],
+    why=(
+        "The third path-formulation names three grades of immersion "
+        "distinguished by the presence or absence of applied thought "
+        "(vitakka, coarsely directing the mind onto its object) and "
+        "sustained thought (vicāra, keeping it there) &mdash; the "
+        "same pair the four jhānas are conventionally analyzed "
+        "through, here given a middle grade (sustained thought "
+        "without applied) between the first jhāna's own full pairing "
+        "and the higher jhānas' freedom from both."
+    ),
+    guide=[
+        ("Three grades, not one binary switch", [
+            "&ldquo;With applied and sustained thought&rdquo; "
+            "(savitakka-savicāro, the first jhāna's own signature "
+            "pairing), &ldquo;without applied thought, merely "
+            "sustained&rdquo; (avitakka-vicāramatto, an intermediate "
+            "grade named explicitly rather than skipped), and "
+            "&ldquo;without either&rdquo; (avitakka-avicāro, the "
+            "higher jhānas) &mdash; three named degrees, not a simple "
+            "presence-or-absence distinction.",
+        ]),
+        ("This vagga's own compression floor", [
+            "From here through SN 43.10, every discourse opens "
+            "directly on &ldquo;And what is the path that leads to "
+            "the unconditioned?&rdquo; with neither the "
+            "teach-you announcement nor the closing exhortation "
+            "restated &mdash; confirmed by reading each file "
+            "directly, the tightest compression this saṃyutta's own "
+            "first vagga reaches before SN 43.11 restores the full "
+            "formula at its own close.",
+        ]),
+    ],
+    terms=[
+        ("savitakko savicāro samādhi", "&ldquo;immersion with applied "
+             "and sustained thought&rdquo; &mdash; the first jhāna's "
+             "own signature pairing, the first of three grades named "
+             "here"),
+        ("avitakko vicāramatto samādhi", "&ldquo;immersion without "
+             "applied thought, merely sustained&rdquo; &mdash; an "
+             "intermediate grade named explicitly, not passed over"),
+        ("avitakko avicāro samādhi", "&ldquo;immersion without "
+             "applied or sustained thought&rdquo; &mdash; the higher "
+             "jhānas' own freedom from both, the third grade"),
+        ("asaṅkhatagāmimaggo", "&ldquo;the path that leads to the "
+             "unconditioned&rdquo; &mdash; the question this "
+             "discourse opens directly on, its own goal-definition "
+             "presupposed rather than restated"),
+        ("tatiyaṁ", "&ldquo;third&rdquo; &mdash; this vagga's own "
+             "internal count-marker, left untranslated in the root "
+             "and not fabricated into English by this reading guide"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated "
+        "&mdash; this vagga's own compression floor, with neither the "
+        "opening announcement nor the closing exhortation restated in "
+        "the source. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn43.3:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What three grades of immersion does this discourse name?",
+         "opts": ["With applied and sustained thought; without applied, merely sustained; without either", "Empty, signless, and undirected immersion", "The four jhānas by name", "Serenity, discernment, and their combination"],
+         "correct": 0,
+         "expl": "Three named degrees of applied (vitakka) and sustained (vicāra) thought, not a simple binary."},
+        {"q": "What does this discourse's own compressed form omit compared to SN 43.1?",
+         "opts": ["Both the teach-you announcement and the closing exhortation", "Only the closing exhortation", "The definition of the unconditioned but nothing else", "Nothing — this discourse is given in full"],
+         "correct": 0,
+         "expl": "From SN 43.3 through SN 43.10, every discourse opens directly on the path-question alone."},
+        {"q": "Which jhāna's own signature pairing does \"with applied and sustained thought\" describe?",
+         "opts": ["The first jhāna", "The fourth jhāna", "None of the four jhānas", "All four jhānas equally"],
+         "correct": 0,
+         "expl": "The classic pairing the first jhāna is conventionally analyzed through, here forming the first of three named grades."},
+    ],
+    marginalia=[
+        ("Three grades of one practice", [
+            "applied and sustained thought —",
+            "graded down to neither, in three steps",
+        ]),
+        ("A middle grade, named explicitly", [
+            "sustained without applied —",
+            "not skipped between the outer two",
+        ]),
+        ("The compression floor reached", [
+            "no announcement, no closing exhortation —",
+            "the tightest form this vagga takes",
+        ]),
+        ("Third of eleven", [
+            "one line, three named grades —",
+            "eight more formulations still ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn43.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-43.2.html\">SN 43.2 &middot; Serenity and "
+        "Discernment</a> &mdash; the previous discourse.",
+        "<a href=\"sn-43.4.html\">SN 43.4 &middot; Emptiness "
+        "Immersion</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 43.4 — Suññatasamādhisutta
+# --------------------------------------------------------------------------- #
+page(
+    43, 4, "Suññatasamādhi", "Emptiness Immersion",
+    vagga="Paṭhamavagga",
+    meta_title="SN 43.4 — Emptiness Immersion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Suññatasamādhisutta &mdash; the three liberating "
+        "immersions named as the path to the unconditioned. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN 43.3)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "This vagga's own compression floor, as SN 43.3"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single line naming three named immersions"),
+    ],
+    why=(
+        "The fourth path-formulation names the three "
+        "&ldquo;liberating&rdquo; immersions found elsewhere on this "
+        "site as the vimokkhamukha, the three doorways to liberation: "
+        "emptiness (suññato, seeing through the absence of a self), "
+        "the signless (animitto, freedom from the signs the mind "
+        "ordinarily seizes on), and the undirected (appaṇihito, "
+        "freedom from wishing or aiming at anything at all)."
+    ),
+    guide=[
+        ("Three doorways, one entry each", [
+            "Emptiness, the signless, and the undirected are "
+            "conventionally described as three separate doorways "
+            "onto the identical liberation, distinguished only by "
+            "which feature of experience the meditator's own "
+            "attention foregrounds on the way in &mdash; this "
+            "discourse itself simply lists the three side by side, "
+            "offering no further gloss of its own.",
+        ]),
+        ("A different trio than SN 43.3's own three", [
+            "Where SN 43.3 graded a single practice (immersion by "
+            "applied and sustained thought) into three named "
+            "degrees, this discourse names three genuinely distinct "
+            "immersions instead &mdash; confirming this vagga's own "
+            "eleven path-formulations are not built to one uniform "
+            "shape, checked here rather than assumed from the "
+            "immediately preceding discourse.",
+        ]),
+    ],
+    terms=[
+        ("suññato samādhi", "&ldquo;emptiness immersion&rdquo; "
+             "&mdash; seeing through the absence of a self, the "
+             "first of three liberating immersions named here"),
+        ("animitto samādhi", "&ldquo;signless immersion&rdquo; "
+             "&mdash; freedom from the signs the mind ordinarily "
+             "seizes on, the second"),
+        ("appaṇihito samādhi", "&ldquo;undirected immersion&rdquo; "
+             "&mdash; freedom from wishing or aiming at anything at "
+             "all, the third"),
+        ("asaṅkhatagāmimaggo", "&ldquo;the path that leads to the "
+             "unconditioned&rdquo; &mdash; the question this "
+             "discourse opens directly on, as SN 43.3"),
+        ("catutthaṁ", "&ldquo;fourth&rdquo; &mdash; this vagga's own "
+             "internal count-marker, left untranslated in the root"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated "
+        "&mdash; this vagga's own compressed form. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn43.4:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What three immersions does this discourse name?",
+         "opts": ["Emptiness, the signless, and the undirected", "Applied thought, sustained thought, and neither", "Serenity, discernment, and their combination", "The four jhānas"],
+         "correct": 0,
+         "expl": "The three vimokkhamukha, or doorways to liberation, found elsewhere on this site — here simply listed side by side."},
+        {"q": "How does this discourse's own trio differ in kind from SN 43.3's own three grades?",
+         "opts": ["These are three genuinely distinct immersions, not three graded degrees of one practice", "They are identical in every respect", "This discourse names only one immersion, not three", "SN 43.3 named distinct immersions while this discourse grades one practice"],
+         "correct": 0,
+         "expl": "Confirming this vagga's eleven formulations are not built to one uniform shape."},
+        {"q": "What does \"emptiness immersion\" foreground, according to the conventional gloss this reading guide describes?",
+         "opts": ["Seeing through the absence of a self", "Freedom from all mental signs", "Freedom from wishing or aiming at anything", "The presence of applied and sustained thought"],
+         "correct": 0,
+         "expl": "The first of the three doorways, distinguished from the other two by which feature of experience is foregrounded."},
+    ],
+    marginalia=[
+        ("Three doorways to one liberation", [
+            "emptiness, signless, undirected —",
+            "distinguished by the way in, not the goal",
+        ]),
+        ("Not a grading, a genuine trio", [
+            "three separate immersions —",
+            "unlike SN 43.3's three degrees of one",
+        ]),
+        ("The compression floor, held", [
+            "no announcement, no closing exhortation —",
+            "the same tight form as the discourse before it",
+        ]),
+        ("Fourth of eleven", [
+            "one line, three named doorways —",
+            "seven more formulations still ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn43.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-43.3.html\">SN 43.3 &middot; Placing the Mind "
+        "and Keeping it Connected</a> &mdash; the previous discourse.",
+        "<a href=\"sn-43.5.html\">SN 43.5 &middot; Mindfulness "
+        "Meditation</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 43.5 — Satipaṭṭhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    43, 5, "Satipaṭṭhāna", "Mindfulness Meditation",
+    vagga="Paṭhamavagga",
+    meta_title="SN 43.5 — Mindfulness Meditation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Satipaṭṭhānasutta &mdash; the four foundations of "
+        "mindfulness named as the path to the unconditioned. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN 43.4)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "This vagga's own compression floor, as SN 43.3-4"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single line naming one fourfold list"),
+    ],
+    why=(
+        "The fifth path-formulation names the four foundations of "
+        "mindfulness &mdash; body, feelings, mind, and principles "
+        "&mdash; as a single group rather than the four separately "
+        "spelled out, the first of this vagga's own five discourses "
+        "(SN 43.5&ndash;9) that simply names a standard fourfold or "
+        "fivefold list by its own collective term without unpacking "
+        "any member."
+    ),
+    guide=[
+        ("A named group, not spelled out", [
+            "&ldquo;Cattāro satipaṭṭhānā&rdquo; &mdash; &ldquo;the "
+            "four kinds of mindfulness meditation&rdquo; &mdash; is "
+            "simply named as one item, its own four members (body, "
+            "feelings, mind, and principles) presupposed rather than "
+            "listed individually, confirmed by reading the source "
+            "directly rather than assumed from the vagga's own "
+            "brevity elsewhere.",
+        ]),
+        ("The pattern this vagga now settles into", [
+            "SN 43.5 through SN 43.9 will each name one standard "
+            "numbered list this way &mdash; the four foundations of "
+            "mindfulness, the four right efforts, the four bases of "
+            "psychic power, the five faculties, the five powers "
+            "&mdash; before SN 43.10's seven awakening factors and SN "
+            "43.11's own eightfold path close the vagga.",
+        ]),
+    ],
+    terms=[
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; named here as one "
+             "group, its own four members not individually listed"),
+        ("kāya", "&ldquo;the body&rdquo; &mdash; the first of the "
+             "four foundations, presupposed rather than named in "
+             "this discourse's own text"),
+        ("vedanā, citta, dhammā", "&ldquo;feelings, mind, "
+             "principles&rdquo; &mdash; the remaining three "
+             "foundations, likewise presupposed rather than listed "
+             "here"),
+        ("asaṅkhatagāmimaggo", "&ldquo;the path that leads to the "
+             "unconditioned&rdquo; &mdash; the question this "
+             "discourse opens directly on"),
+        ("pañcamaṁ", "&ldquo;fifth&rdquo; &mdash; this vagga's own "
+             "internal count-marker, left untranslated in the root"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated "
+        "&mdash; this vagga's own compressed form. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn43.5:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as \"the path that leads to the unconditioned\"?",
+         "opts": ["The four kinds of mindfulness meditation, named as one group", "Each of the four foundations spelled out individually", "The seven awakening factors", "Serenity and discernment"],
+         "correct": 0,
+         "expl": "Named collectively — body, feelings, mind, and principles are presupposed, not individually listed in this discourse's own text."},
+        {"q": "What pattern does SN 43.5 begin within this vagga?",
+         "opts": ["Naming one standard numbered list at a time, continuing through SN 43.9", "Returning to the full formula given in SN 43.1", "Introducing a new interlocutor", "Combining two practices, as SN 43.2 did"],
+         "correct": 0,
+         "expl": "SN 43.5-9 each name one standard list — the four foundations, four right efforts, four bases of psychic power, five faculties, five powers."},
+        {"q": "How many members does the fourfold list in this discourse have?",
+         "opts": ["Four: body, feelings, mind, and principles", "Three", "Five", "Seven"],
+         "correct": 0,
+         "expl": "The classic four foundations of mindfulness, though not individually spelled out in this particular discourse's own compressed text."},
+    ],
+    marginalia=[
+        ("One group, named whole", [
+            "the four foundations, as a set —",
+            "body, feelings, mind, principles presupposed",
+        ]),
+        ("A pattern settling in", [
+            "one numbered list per discourse —",
+            "continuing through four more before SN 43.10",
+        ]),
+        ("Compression, held steady", [
+            "no announcement, no closing exhortation —",
+            "the same tight form since SN 43.3",
+        ]),
+        ("Fifth of eleven", [
+            "one line, one named group —",
+            "six more formulations still ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn43.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-43.4.html\">SN 43.4 &middot; Emptiness "
+        "Immersion</a> &mdash; the previous discourse.",
+        "<a href=\"sn-43.6.html\">SN 43.6 &middot; Right "
+        "Efforts</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 43.6 — Sammappadhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    43, 6, "Sammappadhāna", "Right Efforts",
+    vagga="Paṭhamavagga",
+    meta_title="SN 43.6 — Right Efforts | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sammappadhānasutta &mdash; the four right efforts named "
+        "as the path to the unconditioned. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN 43.5)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "This vagga's own compression floor, as SN 43.3-5"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single line naming one fourfold list"),
+    ],
+    why=(
+        "The sixth path-formulation names the four right efforts "
+        "&mdash; preventing unskillful qualities from arising, "
+        "abandoning those already arisen, developing skillful "
+        "qualities, and maintaining those already developed &mdash; "
+        "as a single group, continuing this vagga's own settled "
+        "pattern of naming one standard list per discourse."
+    ),
+    guide=[
+        ("A fourfold effort, named whole", [
+            "&ldquo;Cattāro sammappadhānā&rdquo; &mdash; &ldquo;the "
+            "four right efforts&rdquo; &mdash; covers prevention, "
+            "abandoning, developing, and maintaining as one named "
+            "group, its own four members presupposed rather than "
+            "spelled out in this discourse's own text, exactly as SN "
+            "43.5 named the four foundations of mindfulness.",
+        ]),
+        ("Effort paired with an unconditioned goal", [
+            "Naming deliberate effort &mdash; not passive "
+            "observation alone &mdash; as a path to something "
+            "explicitly unconditioned may read as a tension; this "
+            "reading guide does not resolve it beyond noting the "
+            "discourse itself offers no further comment, holding "
+            "effort and the unconditioned side by side without "
+            "explanation.",
+        ]),
+    ],
+    terms=[
+        ("cattāro sammappadhānā", "&ldquo;the four right "
+             "efforts&rdquo; &mdash; named here as one group, its own "
+             "four members not individually listed"),
+        ("anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya",
+             "&ldquo;so that bad, unskillful qualities don't "
+             "arise&rdquo; &mdash; the first effort, presupposed "
+             "rather than spelled out in this compressed discourse"),
+        ("uppannānaṁ... pahānāya", "&ldquo;...are given up&rdquo; "
+             "&mdash; the second effort, likewise presupposed here"),
+        ("asaṅkhatagāmimaggo", "&ldquo;the path that leads to the "
+             "unconditioned&rdquo; &mdash; the question this "
+             "discourse opens directly on"),
+        ("chaṭṭhaṁ", "&ldquo;sixth&rdquo; &mdash; this vagga's own "
+             "internal count-marker, left untranslated in the root"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated "
+        "&mdash; this vagga's own compressed form. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn43.6:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as \"the path that leads to the unconditioned\"?",
+         "opts": ["The four right efforts, named as one group", "The four foundations of mindfulness", "The five faculties", "The noble eightfold path"],
+         "correct": 0,
+         "expl": "Prevention, abandoning, developing, and maintaining — the four right efforts, named collectively without individual elaboration here."},
+        {"q": "How does this reading guide characterize the discourse's own pairing of deliberate effort with an unconditioned goal?",
+         "opts": ["A tension the discourse itself does not resolve or comment on", "A contradiction the discourse explicitly resolves", "Not a tension at all, since effort is never mentioned", "An error in translation"],
+         "correct": 0,
+         "expl": "Effort and the unconditioned are simply held side by side, without further explanation from the source itself."},
+        {"q": "What pattern does this discourse continue from SN 43.5?",
+         "opts": ["Naming one standard numbered list per discourse, without spelling out its members", "Returning to the full formula of SN 43.1", "Combining two distinct practices, as SN 43.2 did", "Grading one practice into named degrees, as SN 43.3 did"],
+         "correct": 0,
+         "expl": "The settled pattern running from SN 43.5 through SN 43.9."},
+    ],
+    marginalia=[
+        ("Four efforts, named whole", [
+            "prevent, abandon, develop, maintain —",
+            "presupposed, not individually spelled out",
+        ]),
+        ("Effort beside the unconditioned", [
+            "a tension left unresolved —",
+            "the discourse itself offers no comment",
+        ]),
+        ("The settled pattern continues", [
+            "one list per discourse —",
+            "third in a row of five such discourses",
+        ]),
+        ("Sixth of eleven", [
+            "one line, one named group —",
+            "five more formulations still ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn43.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-43.5.html\">SN 43.5 &middot; Mindfulness "
+        "Meditation</a> &mdash; the previous discourse.",
+        "<a href=\"sn-43.7.html\">SN 43.7 &middot; Bases of Psychic "
+        "Power</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 43.7 — Iddhipādasutta
+# --------------------------------------------------------------------------- #
+page(
+    43, 7, "Iddhipāda", "Bases of Psychic Power",
+    vagga="Paṭhamavagga",
+    meta_title="SN 43.7 — Bases of Psychic Power | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Iddhipādasutta &mdash; the four bases of psychic power "
+        "named as the path to the unconditioned. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN 43.6)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "This vagga's own compression floor, as SN 43.3-6"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single line naming one fourfold list"),
+    ],
+    why=(
+        "The seventh path-formulation names the four bases of "
+        "psychic power &mdash; immersion born of enthusiasm, energy, "
+        "mental development, and inquiry, each paired with active "
+        "effort &mdash; as a single group, continuing this vagga's "
+        "own settled pattern. Naming an explicitly supernormal "
+        "faculty as a path to the unconditioned sits alongside the "
+        "more strictly ethical and meditative formulations elsewhere "
+        "in this vagga without comment."
+    ),
+    guide=[
+        ("Psychic power, named without elaboration", [
+            "&ldquo;Cattāro iddhipādā&rdquo; &mdash; &ldquo;the four "
+            "bases of psychic power&rdquo; &mdash; is named as one "
+            "group; the four bases themselves (enthusiasm, energy, "
+            "mental development, and inquiry, each conventionally "
+            "paired with active effort) are presupposed rather than "
+            "spelled out in this compressed discourse.",
+        ]),
+        ("An unusual inclusion, held without comment", [
+            "Iddhi (psychic power) is elsewhere on this site "
+            "associated with supernormal feats rather than ethical "
+            "cultivation; this discourse simply lists its own four "
+            "bases alongside the mindfulness and effort "
+            "formulations flanking it, offering no argument for why "
+            "a capacity for psychic feats belongs on a list of paths "
+            "to liberation.",
+        ]),
+    ],
+    terms=[
+        ("cattāro iddhipādā", "&ldquo;the four bases of psychic "
+             "power&rdquo; &mdash; named here as one group, its own "
+             "four members not individually listed"),
+        ("chandasamādhi", "&ldquo;immersion due to enthusiasm&rdquo; "
+             "&mdash; the first base, presupposed rather than "
+             "spelled out in this discourse's own text"),
+        ("vīmaṁsāsamādhi", "&ldquo;immersion due to inquiry&rdquo; "
+             "&mdash; the fourth base, likewise presupposed here"),
+        ("asaṅkhatagāmimaggo", "&ldquo;the path that leads to the "
+             "unconditioned&rdquo; &mdash; the question this "
+             "discourse opens directly on"),
+        ("sattamaṁ", "&ldquo;seventh&rdquo; &mdash; this vagga's own "
+             "internal count-marker, left untranslated in the root"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated "
+        "&mdash; this vagga's own compressed form. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn43.7:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as \"the path that leads to the unconditioned\"?",
+         "opts": ["The four bases of psychic power, named as one group", "The four right efforts", "The five powers", "Emptiness, signless, and undirected immersion"],
+         "correct": 0,
+         "expl": "Enthusiasm, energy, mental development, and inquiry — the four bases, presupposed rather than individually spelled out here."},
+        {"q": "How does this reading guide characterize the inclusion of psychic power on this list?",
+         "opts": ["An unusual inclusion the discourse itself does not argue for or explain", "A well-argued centerpiece of the whole saṃyutta", "An error introduced by the translator", "Explicitly ranked below the other ten formulations"],
+         "correct": 0,
+         "expl": "Simply listed alongside the ethical and meditative formulations flanking it, without further comment from the source."},
+        {"q": "What quality is each of the four bases of psychic power conventionally paired with?",
+         "opts": ["Active effort", "Sustained thought", "The seven awakening factors", "Right view"],
+         "correct": 0,
+         "expl": "Enthusiasm, energy, mental development, and inquiry are each conventionally paired with active effort, though not individually spelled out in this compressed discourse."},
+    ],
+    marginalia=[
+        ("Four bases, named whole", [
+            "enthusiasm, energy, mind, inquiry —",
+            "each paired with effort, presupposed here",
+        ]),
+        ("An unusual neighbor", [
+            "psychic power beside ethical practice —",
+            "no argument offered for the inclusion",
+        ]),
+        ("The settled pattern continues", [
+            "one list per discourse —",
+            "fourth in a row of five such discourses",
+        ]),
+        ("Seventh of eleven", [
+            "one line, one named group —",
+            "four more formulations still ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn43.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-43.6.html\">SN 43.6 &middot; Right "
+        "Efforts</a> &mdash; the previous discourse.",
+        "<a href=\"sn-43.8.html\">SN 43.8 &middot; Faculties</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 43.8 — Indriyasutta
+# --------------------------------------------------------------------------- #
+page(
+    43, 8, "Indriya", "Faculties",
+    vagga="Paṭhamavagga",
+    meta_title="SN 43.8 — Faculties | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Indriyasutta &mdash; the five faculties named as the "
+        "path to the unconditioned. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN 43.7)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "This vagga's own compression floor, as SN 43.3-7"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single line naming one fivefold list"),
+    ],
+    why=(
+        "The eighth path-formulation names the five spiritual "
+        "faculties &mdash; faith, energy, mindfulness, immersion, "
+        "and wisdom &mdash; as a single group, the first of two "
+        "consecutive discourses in this vagga (with SN 43.9) naming "
+        "the identical five qualities under two different collective "
+        "terms, faculties here and powers next."
+    ),
+    guide=[
+        ("Five faculties, named without elaboration", [
+            "&ldquo;Pañcindriyāni&rdquo; &mdash; &ldquo;the five "
+            "faculties&rdquo; &mdash; covers faith, energy, "
+            "mindfulness, immersion, and wisdom as one named group, "
+            "presupposed rather than spelled out in this compressed "
+            "discourse.",
+        ]),
+        ("The same five, twice over", [
+            "This discourse and the next (SN 43.9) name the "
+            "identical five qualities under two different collective "
+            "terms &mdash; indriya (faculty) and bala (power) "
+            "&mdash; confirmed by reading both discourses directly "
+            "rather than assumed; neither discourse itself explains "
+            "why the tradition counts the same five twice under "
+            "different names.",
+        ]),
+    ],
+    terms=[
+        ("pañcindriyāni", "&ldquo;the five faculties&rdquo; &mdash; "
+             "named here as one group, its own five members not "
+             "individually listed"),
+        ("saddhindriyaṁ", "&ldquo;the faculty of faith&rdquo; "
+             "&mdash; the first of the five, presupposed rather than "
+             "spelled out in this discourse's own text"),
+        ("paññindriyaṁ", "&ldquo;the faculty of wisdom&rdquo; "
+             "&mdash; the fifth and last, likewise presupposed here"),
+        ("asaṅkhatagāmimaggo", "&ldquo;the path that leads to the "
+             "unconditioned&rdquo; &mdash; the question this "
+             "discourse opens directly on"),
+        ("aṭṭhamaṁ", "&ldquo;eighth&rdquo; &mdash; this vagga's own "
+             "internal count-marker, left untranslated in the root"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated "
+        "&mdash; this vagga's own compressed form. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn43.8:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as \"the path that leads to the unconditioned\"?",
+         "opts": ["The five faculties, named as one group", "The five powers", "The four bases of psychic power", "The seven awakening factors"],
+         "correct": 0,
+         "expl": "Faith, energy, mindfulness, immersion, and wisdom — the five faculties, presupposed rather than individually spelled out here."},
+        {"q": "What is notable about this discourse's own list compared to SN 43.9's?",
+         "opts": ["Both name the identical five qualities, under two different collective terms", "They name entirely different qualities", "SN 43.9 has six qualities, not five", "This discourse's list is a subset of SN 43.9's"],
+         "correct": 0,
+         "expl": "Faculties here, powers next — the same five qualities counted twice under different collective names, unexplained by either discourse."},
+        {"q": "Which faculty is named last in the conventional list of five?",
+         "opts": ["Wisdom", "Faith", "Energy", "Mindfulness"],
+         "correct": 0,
+         "expl": "Faith, energy, mindfulness, immersion, and wisdom — the conventional order, though not individually spelled out in this compressed discourse."},
+    ],
+    marginalia=[
+        ("Five faculties, named whole", [
+            "faith, energy, mindfulness, immersion, wisdom —",
+            "presupposed, not individually spelled out",
+        ]),
+        ("The same five, twice counted", [
+            "faculties here, powers next —",
+            "no explanation offered for the doubling",
+        ]),
+        ("The settled pattern continues", [
+            "one list per discourse —",
+            "fifth in a row of five such discourses",
+        ]),
+        ("Eighth of eleven", [
+            "one line, one named group —",
+            "three more formulations still ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn43.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-43.7.html\">SN 43.7 &middot; Bases of Psychic "
+        "Power</a> &mdash; the previous discourse.",
+        "<a href=\"sn-43.9.html\">SN 43.9 &middot; Powers</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 43.9 — Balasutta
+# --------------------------------------------------------------------------- #
+page(
+    43, 9, "Bala", "Powers",
+    vagga="Paṭhamavagga",
+    meta_title="SN 43.9 — Powers | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Balasutta &mdash; the five powers, the identical five "
+        "qualities of SN 43.8 under a second collective name, named "
+        "as the path to the unconditioned. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN 43.8)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "This vagga's own compression floor, as SN 43.3-8"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single line naming one fivefold list"),
+    ],
+    why=(
+        "The ninth path-formulation names the five powers &mdash; "
+        "faith, energy, mindfulness, immersion, and wisdom, the "
+        "identical five qualities SN 43.9's own immediately preceding "
+        "discourse named as faculties &mdash; closing this vagga's "
+        "own pair of discourses built on one shared list of five "
+        "under two different collective terms."
+    ),
+    guide=[
+        ("The same five qualities, a second name", [
+            "&ldquo;Pañca balāni&rdquo; &mdash; &ldquo;the five "
+            "powers&rdquo; &mdash; names the identical five "
+            "qualities SN 43.8 called faculties: faith, energy, "
+            "mindfulness, immersion, and wisdom, confirmed by direct "
+            "comparison of both discourses' own root Pali rather "
+            "than assumed from the two terms' shared numbering.",
+        ]),
+        ("A conventional distinction this discourse does not draw", [
+            "Elsewhere in the tradition, &ldquo;faculty&rdquo; "
+            "(indriya) and &ldquo;power&rdquo; (bala) are sometimes "
+            "distinguished by degree &mdash; the same quality "
+            "present but still subject to its own opposite as a "
+            "faculty, unshakeable by its own opposite once matured "
+            "into a power &mdash; but this discourse itself offers "
+            "no such gloss, simply repeating the five under the "
+            "second name.",
+        ]),
+    ],
+    terms=[
+        ("pañca balāni", "&ldquo;the five powers&rdquo; &mdash; the "
+             "identical five qualities SN 43.8 named as faculties, "
+             "under a second collective term"),
+        ("saddhābalaṁ", "&ldquo;the power of faith&rdquo; &mdash; "
+             "the first of the five, presupposed rather than "
+             "spelled out in this discourse's own text"),
+        ("paññābalaṁ", "&ldquo;the power of wisdom&rdquo; &mdash; "
+             "the fifth and last, likewise presupposed here"),
+        ("asaṅkhatagāmimaggo", "&ldquo;the path that leads to the "
+             "unconditioned&rdquo; &mdash; the question this "
+             "discourse opens directly on"),
+        ("navamaṁ", "&ldquo;ninth&rdquo; &mdash; this vagga's own "
+             "internal count-marker, left untranslated in the root"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated "
+        "&mdash; this vagga's own compressed form. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn43.9:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as \"the path that leads to the unconditioned\"?",
+         "opts": ["The five powers, named as one group", "The five faculties by a different name entirely", "The seven awakening factors", "The four right efforts"],
+         "correct": 0,
+         "expl": "The five powers — the identical five qualities SN 43.8 called faculties, under a second collective term."},
+        {"q": "How does this reading guide describe the conventional distinction sometimes drawn between \"faculty\" and \"power\"?",
+         "opts": ["By degree — unshakeable by its own opposite once matured into a power — but this discourse itself does not draw that distinction", "A total difference in which five qualities are involved", "The distinction is explicitly explained in this discourse's own text", "There is no such distinction anywhere in the tradition"],
+         "correct": 0,
+         "expl": "A conventional gloss found elsewhere in the tradition, not something this particular discourse's own compressed text offers."},
+        {"q": "This vagga's discourses SN 43.8 and SN 43.9 both list the same how-many qualities?",
+         "opts": ["Five", "Four", "Seven", "Eight"],
+         "correct": 0,
+         "expl": "Faith, energy, mindfulness, immersion, and wisdom, named as faculties in SN 43.8 and as powers here."},
+    ],
+    marginalia=[
+        ("The same five, a second name", [
+            "faith, energy, mindfulness, immersion, wisdom —",
+            "faculties in SN 43.8, powers here",
+        ]),
+        ("A distinction left undrawn", [
+            "degree of maturity, elsewhere explained —",
+            "not glossed in this discourse's own text",
+        ]),
+        ("The settled pattern's last entry", [
+            "one list per discourse —",
+            "the fifth and final of this stretch",
+        ]),
+        ("Ninth of eleven", [
+            "one line, one named group —",
+            "two more formulations still ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn43.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-43.8.html\">SN 43.8 &middot; Faculties</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-43.10.html\">SN 43.10 &middot; Awakening "
+        "Factors</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 43.10 — Bojjhaṅgasutta
+# --------------------------------------------------------------------------- #
+page(
+    43, 10, "Bojjhaṅga", "Awakening Factors",
+    vagga="Paṭhamavagga",
+    meta_title="SN 43.10 — Awakening Factors | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bojjhaṅgasutta &mdash; the seven awakening factors "
+        "named as the path to the unconditioned. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN 43.9)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "This vagga's own compression floor, as SN 43.3-9 "
+                 "&mdash; the last discourse before SN 43.11 restores "
+                 "the full formula"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single line naming one sevenfold list"),
+    ],
+    why=(
+        "The tenth path-formulation names the seven awakening "
+        "factors &mdash; mindfulness, investigation of principles, "
+        "energy, rapture, tranquility, immersion, and equanimity "
+        "&mdash; as a single group, the last discourse in this vagga "
+        "held to the compressed &ldquo;what is the path&rdquo; form "
+        "before SN 43.11 restores the closing exhortation in full."
+    ),
+    guide=[
+        ("Seven factors, named without elaboration", [
+            "&ldquo;Satta bojjhaṅgā&rdquo; &mdash; &ldquo;the seven "
+            "awakening factors&rdquo; &mdash; is named as one group, "
+            "its own seven members presupposed rather than "
+            "individually spelled out, exactly as SN 43.5&ndash;9 "
+            "named their own numbered lists.",
+        ]),
+        ("The last step before the vagga's own close", [
+            "SN 43.11 will restore the full closing exhortation "
+            "elided here and in every discourse since SN 43.2, "
+            "confirmed by reading the file directly rather than "
+            "assumed &mdash; the seven awakening factors are the "
+            "last of this vagga's own eleven path-formulations "
+            "before the noble eightfold path itself closes the "
+            "list.",
+        ]),
+    ],
+    terms=[
+        ("satta bojjhaṅgā", "&ldquo;the seven awakening "
+             "factors&rdquo; &mdash; named here as one group, its own "
+             "seven members not individually listed"),
+        ("satisambojjhaṅgo", "&ldquo;the awakening factor of "
+             "mindfulness&rdquo; &mdash; the first of the seven, "
+             "presupposed rather than spelled out in this "
+             "discourse's own text"),
+        ("upekkhāsambojjhaṅgo", "&ldquo;the awakening factor of "
+             "equanimity&rdquo; &mdash; the seventh and last, "
+             "likewise presupposed here"),
+        ("asaṅkhatagāmimaggo", "&ldquo;the path that leads to the "
+             "unconditioned&rdquo; &mdash; the question this "
+             "discourse opens directly on, for the last time in this "
+             "vagga's own compressed form"),
+        ("dasamaṁ", "&ldquo;tenth&rdquo; &mdash; this vagga's own "
+             "internal count-marker, left untranslated in the root"),
+    ],
+    text_intro=("The complete discourse, as genuinely translated "
+        "&mdash; this vagga's own compressed form, the last discourse "
+        "held to it before SN 43.11 restores the full formula. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn43.10:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as \"the path that leads to the unconditioned\"?",
+         "opts": ["The seven awakening factors, named as one group", "The five powers", "The noble eightfold path", "The four foundations of mindfulness"],
+         "correct": 0,
+         "expl": "Mindfulness, investigation, energy, rapture, tranquility, immersion, and equanimity — presupposed rather than individually spelled out here."},
+        {"q": "What changes starting with the next discourse, SN 43.11?",
+         "opts": ["The full closing exhortation, elided since SN 43.2, is restored", "A new interlocutor appears for the first time", "The saṃyutta itself ends", "The goal-definition changes to a new synonym"],
+         "correct": 0,
+         "expl": "SN 43.11 closes Paṭhamavagga by restoring the formula's full closing exhortation, last given in full at SN 43.1."},
+        {"q": "How many awakening factors does the conventional list name?",
+         "opts": ["Seven", "Five", "Four", "Eight"],
+         "correct": 0,
+         "expl": "The seven awakening factors, though not individually spelled out in this compressed discourse's own text."},
+    ],
+    marginalia=[
+        ("Seven factors, named whole", [
+            "mindfulness through equanimity —",
+            "presupposed, not individually spelled out",
+        ]),
+        ("The last compressed discourse", [
+            "the tightest form, held once more —",
+            "before SN 43.11 restores what SN 43.1 gave in full",
+        ]),
+        ("Ten formulations complete", [
+            "body through awakening factors —",
+            "one path-formulation still to come",
+        ]),
+        ("Tenth of eleven", [
+            "one line, one named group —",
+            "the eightfold path alone remains",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn43.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-43.9.html\">SN 43.9 &middot; Powers</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-43.11.html\">SN 43.11 &middot; The Path</a> "
+        "&mdash; the next discourse, closing Paṭhamavagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 43.11 — Maggaṅgasutta
+# --------------------------------------------------------------------------- #
+page(
+    43, 11, "Maggaṅga", "The Path",
+    vagga="Paṭhamavagga",
+    meta_title="SN 43.11 — The Path | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Maggaṅgasutta &mdash; the noble eightfold path closing "
+        "Paṭhamavagga, restoring the full formula and adding this "
+        "vagga's own untranslated meta-uddāna. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN 43.10)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The full closing exhortation restored, as SN "
+                 "43.1&ndash;2, plus this vagga's own closing "
+                 "colophon and an untranslated meta-uddāna in verse"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed for "
+                              "this discourse; SA 890 is matched to "
+                              "the SN 43.11&ndash;43 range as a "
+                              "whole, not confirmed against this "
+                              "discourse alone"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but closes a structural unit"),
+    ],
+    why=(
+        "The eleventh and last path-formulation of Paṭhamavagga names "
+        "the noble eightfold path itself &mdash; the formulation "
+        "already treated at length in this project's own SN 45.8 "
+        "&mdash; and restores the full closing exhortation last given "
+        "at SN 43.1, before adding this vagga's own closing colophon "
+        "(&ldquo;Paṭhamavagga of Asaṅkhatasaṃyutta is complete&rdquo;) "
+        "and an untranslated meta-uddāna naming all eleven "
+        "path-formulations in verse."
+    ),
+    guide=[
+        ("Eleven formulations, one closing summary", [
+            "The untranslated meta-uddāna at this discourse's own "
+            "close names all eleven path-formulations of this vagga "
+            "in a compact Pāli verse (body, serenity, applied "
+            "thought, emptiness, foundations of mindfulness, right "
+            "efforts, bases of psychic power, faculties, powers, "
+            "awakening factors, and the path, closing at "
+            "&ldquo;eleventh&rdquo;) &mdash; described here rather "
+            "than translated, since the root itself leaves it "
+            "untranslated and this reading guide does not fabricate "
+            "English for content Sujato's own translation does not "
+            "supply.",
+        ]),
+        ("The same eightfold path, a different framing", [
+            "This project's own already-published SN 45.8 analyzes "
+            "the noble eightfold path's own eight factors one by "
+            "one; here the identical path is named as a single "
+            "unit and paired with a goal explicitly called "
+            "&ldquo;unconditioned&rdquo; rather than with the "
+            "cessation of suffering directly &mdash; the same "
+            "practice, framed through this saṃyutta's own "
+            "distinctive vocabulary.",
+        ]),
+    ],
+    terms=[
+        ("ariyo aṭṭhaṅgiko maggo", "&ldquo;the noble eightfold "
+             "path&rdquo; &mdash; the eleventh and last "
+             "path-formulation, already analyzed factor by factor in "
+             "this project's own SN 45.8"),
+        ("etāni rukkhamūlāni... jhāyatha", "&ldquo;here are these "
+             "roots of trees... practice absorption!&rdquo; &mdash; "
+             "the closing exhortation, restored here in full for the "
+             "first time since SN 43.1"),
+        ("ekādasamaṁ", "&ldquo;eleventh&rdquo; &mdash; this vagga's "
+             "own final count-marker, left untranslated in the root"),
+        ("asaṅkhatasaṁyuttassa paṭhamo vaggo", "&ldquo;Paṭhamavagga "
+             "of Asaṅkhatasaṃyutta is complete&rdquo; &mdash; this "
+             "vagga's own closing colophon, left untranslated in the "
+             "root and described rather than quoted as English here"),
+        ("tassuddānaṁ", "&ldquo;its own summary verse&rdquo; "
+             "&mdash; the heading introducing the untranslated "
+             "meta-uddāna naming all eleven path-formulations"),
+    ],
+    text_intro=("The complete genuinely translated portion of the "
+        "discourse. This vagga's own closing colophon and "
+        "meta-uddāna are left untranslated in the source and are "
+        "described, not quoted, above rather than fabricated into "
+        "English by this reading guide. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn43.11:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as the eleventh and last path-formulation?",
+         "opts": ["The noble eightfold path", "The seven awakening factors", "The five powers", "Mindfulness of the body"],
+         "correct": 0,
+         "expl": "The same eightfold path already analyzed factor by factor in this project's own SN 45.8, here named as a single unit."},
+        {"q": "What is restored in this discourse for the first time since SN 43.1?",
+         "opts": ["The full closing exhortation, \"here are these roots of trees... practice absorption!\"", "A named interlocutor", "The teach-you announcement alone, without the closing exhortation", "A Northern parallel"],
+         "correct": 0,
+         "expl": "Elided since SN 43.2, the full closing exhortation returns here as Paṭhamavagga's own last discourse."},
+        {"q": "How does this reading guide handle the vagga's own closing colophon and meta-uddāna?",
+         "opts": ["Described in the reading guide rather than quoted, since the root leaves them untranslated", "Quoted in full English translation", "Omitted entirely with no mention", "Translated freely by this reading guide's own authors"],
+         "correct": 0,
+         "expl": "Consistent with this project's standing rule: untranslated Pali content is described, never fabricated into invented English."},
+    ],
+    marginalia=[
+        ("The eleventh formulation", [
+            "the noble eightfold path itself —",
+            "already analyzed factor by factor at SN 45.8",
+        ]),
+        ("The full formula, restored", [
+            "roots of trees, empty huts —",
+            "elided since SN 43.2, given whole again",
+        ]),
+        ("A vagga closes", [
+            "eleven formulations, one summary verse —",
+            "left untranslated, described rather than invented",
+        ]),
+        ("Paṭhamavagga complete", [
+            "eleven of forty-four discourses done —",
+            "Dutiyavagga's own thirty-three still ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn43.11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-43.10.html\">SN 43.10 &middot; Awakening "
+        "Factors</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.8.html\">SN 45.8 &middot; Analysis</a> "
+        "&mdash; already published on this site, analyzing the "
+        "noble eightfold path's own eight factors one by one.",
+        "<a href=\"sn-43.12.html\">SN 43.12 &middot; The "
+        "Unconditioned</a> &mdash; the next discourse, opening "
+        "Dutiyavagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 43.12 — Asaṅkhatasutta
+# --------------------------------------------------------------------------- #
+page(
+    43, 12, "Asaṅkhata", "The Unconditioned",
+    vagga="Dutiyavagga",
+    meta_title="SN 43.12 — The Unconditioned | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Asaṅkhatasutta &mdash; this saṃyutta's own master "
+        "recitation, spelling out all eleven path-formulations "
+        "member by member in a single discourse. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN 43.11, "
+                     "though the narrative frame itself is not "
+                     "restated)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "This saṃyutta's own master recitation &mdash; all "
+                 "eleven path-formulations spelled out member by "
+                 "member in one discourse, the template every "
+                 "discourse from SN 43.13 through SN 43.43 will "
+                 "cross-reference rather than restate"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "SA 890, per SuttaCentral's own "
+                              "parallels record, matched to the SN "
+                              "43.11&ndash;43 range as a whole"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "long only by repetition, no new concepts "
+                       "beyond SN 43.1&ndash;11"),
+    ],
+    why=(
+        "Where Paṭhamavagga (SN 43.1&ndash;11) spread its own eleven "
+        "path-formulations across eleven separate discourses, mostly "
+        "naming each numbered list by its own collective term "
+        "without unpacking any member, this discourse gathers all "
+        "eleven into one place and spells out every single member "
+        "individually &mdash; all four foundations of mindfulness by "
+        "name, all five faculties by name, all eight path factors by "
+        "name. Opening Dutiyavagga still paired with asaṅkhata "
+        "itself (not yet a fresh synonym), it becomes the master "
+        "template every discourse of this vagga from SN 43.13 onward "
+        "will point back to rather than restate."
+    ),
+    guide=[
+        ("Eleven items, spelled out for the only time", [
+            "Confirmed by reading the full file directly: this is "
+            "the one discourse in the entire saṃyutta where every "
+            "member of every numbered list is individually named "
+            "&mdash; not just &ldquo;the four foundations of "
+            "mindfulness&rdquo; as SN 43.5 named it, but body, "
+            "feelings, mind, and principles named one at a time in "
+            "turn, and likewise for every other list through the "
+            "eightfold path's own eight factors.",
+        ]),
+        ("A textual quirk, reported rather than smoothed over", [
+            "The first item (serenity) closes with this saṃyutta's "
+            "own full exhortation &mdash; &ldquo;here are these "
+            "roots of trees&hellip;&rdquo; &mdash; even though ten "
+            "more items follow it; every item after that elides its "
+            "own closing until the eleventh and last (the eightfold "
+            "path) restores it once more at the discourse's own true "
+            "end. This reading guide reports the asymmetry as found "
+            "in bilara-data rather than silently normalizing it.",
+        ]),
+        ("The template the rest of Dutiyavagga leans on", [
+            "From SN 43.13 through SN 43.43, no discourse will "
+            "spell out these eleven formulations again &mdash; each "
+            "instead names a fresh synonym for the goal and "
+            "cross-references back to this discourse's own full "
+            "recitation with some variant of &ldquo;tell in full as "
+            "in the unconditioned,&rdquo; confirmed by reading SN "
+            "43.13 directly.",
+        ]),
+    ],
+    terms=[
+        ("asaṅkhataṁ", "&ldquo;the unconditioned&rdquo; &mdash; the "
+             "goal, still un-varied here; the first of thirty-three "
+             "synonyms this same goal will take on starting at SN "
+             "43.13"),
+        ("rāgakkhayo dosakkhayo mohakkhayo", "&ldquo;the ending of "
+             "greed, hate, and delusion&rdquo; &mdash; the fixed "
+             "definition of the unconditioned, restated here in full "
+             "for the second time in the saṃyutta"),
+        ("samatho... vipassanā", "&ldquo;serenity... "
+             "discernment&rdquo; &mdash; named here as two separate "
+             "single-item path-formulations, unlike SN 43.2's own "
+             "single paired formulation of the same two terms"),
+        ("cattāro satipaṭṭhānā... kāye kāyānupassī", "&ldquo;the "
+             "four kinds of mindfulness meditation... observing an "
+             "aspect of the body&rdquo; &mdash; the first list this "
+             "discourse spells out member by member rather than "
+             "naming collectively"),
+        ("ariyo aṭṭhaṅgiko maggo... sammādiṭṭhi", "&ldquo;the noble "
+             "eightfold path... right view&rdquo; &mdash; the "
+             "eleventh and last list, its own eight factors named "
+             "individually before the formula's own full close"),
+    ],
+    text_intro=("The complete discourse, organized under section "
+        "headings by path-formulation rather than left as one "
+        "unbroken block, given the length. A genuine textual quirk "
+        "&mdash; the first item's own full closing exhortation, "
+        "though ten more items follow it &mdash; is preserved exactly "
+        "as bilara-data gives it, not smoothed over. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The unconditioned defined, and serenity as the "
+                "first path"),
+        ("p", "&sect;1", "sn43.12:1.1-1.11"),
+        ("h3", "Discernment, as the second path"),
+        ("p", "&sect;2", "sn43.12:2.1-2.10"),
+        ("h3", "Three grades of immersion by applied and sustained "
+                "thought"),
+        ("p", "&sect;3", "sn43.12:3.1-3.8"),
+        ("h3", "The three liberating immersions"),
+        ("p", "&sect;4", "sn43.12:4.1-4.8"),
+        ("h3", "The four foundations of mindfulness, named one by "
+                "one"),
+        ("p", "&sect;5", "sn43.12:5.1-5.11"),
+        ("h3", "The four right efforts, named one by one"),
+        ("p", "&sect;6", "sn43.12:6.1-6.11"),
+        ("h3", "The four bases of psychic power, named one by one"),
+        ("p", "&sect;7", "sn43.12:7.1-7.11"),
+        ("h3", "The five faculties, named one by one"),
+        ("p", "&sect;8", "sn43.12:8.1-8.14"),
+        ("h3", "The five powers, named one by one"),
+        ("p", "&sect;9", "sn43.12:9.1-9.14"),
+        ("h3", "The seven awakening factors, named one by one"),
+        ("p", "&sect;10", "sn43.12:10.1-10.10"),
+        ("h3", "The noble eightfold path, named one by one, and the "
+                "formula's own true close"),
+        ("p", "&sect;11", "sn43.12:11.1-11.19"),
+    ],
+    quiz=[
+        {"q": "What makes this discourse structurally unique in the saṃyutta?",
+         "opts": ["It spells out every member of all eleven path-formulations individually, in one discourse", "It is the only discourse with a named interlocutor", "It is the shortest discourse in the saṃyutta", "It introduces a goal other than the unconditioned"],
+         "correct": 0,
+         "expl": "Where Paṭhamavagga mostly named collective terms without unpacking them, this discourse names every single member by name."},
+        {"q": "What textual quirk does this reading guide report rather than smooth over?",
+         "opts": ["The first item (serenity) closes with the full exhortation though ten more items follow it", "The discourse has no closing exhortation anywhere", "Every single item closes with the full exhortation", "The discourse is missing its own opening announcement"],
+         "correct": 0,
+         "expl": "Confirmed by reading bilara-data directly and reported as found, not normalized into a tidier pattern."},
+        {"q": "How do the discourses from SN 43.13 onward relate to this discourse?",
+         "opts": ["They cross-reference this discourse's own full recitation rather than restating it", "They ignore this discourse entirely", "They each restate all eleven formulations again in full", "They replace this discourse's own formulations with new ones"],
+         "correct": 0,
+         "expl": "\"Tell in full as in the unconditioned\" — this discourse becomes the master template for the rest of Dutiyavagga."},
+        {"q": "Is the goal named in this discourse a new synonym for nibbāna, or still asaṅkhata itself?",
+         "opts": ["Still asaṅkhata itself — the fresh synonyms begin only at SN 43.13", "A brand new synonym, introduced here for the first time", "Neither — no goal is named in this discourse", "A synonym borrowed from a different saṃyutta"],
+         "correct": 0,
+         "expl": "This discourse opens Dutiyavagga still paired with the unconditioned; the thirty-three fresh synonyms begin at the next discourse."},
+    ],
+    marginalia=[
+        ("Every member, named at last", [
+            "not just \"the four foundations\" —",
+            "body, feelings, mind, principles, one by one",
+        ]),
+        ("An asymmetry, left as found", [
+            "the first item closes in full —",
+            "ten more items still to come after it",
+        ]),
+        ("A template for thirty-two discourses", [
+            "\"tell in full as in the unconditioned\" —",
+            "this recitation, pointed back to, not repeated",
+        ]),
+        ("Still the same goal", [
+            "asaṅkhata, not yet varied —",
+            "thirty-three fresh synonyms begin next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn43.12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-43.11.html\">SN 43.11 &middot; The Path</a> "
+        "&mdash; the previous discourse, closing Paṭhamavagga.",
+        "<a href=\"sn-45.8.html\">SN 45.8 &middot; Analysis</a> "
+        "&mdash; already published on this site, analyzing the "
+        "noble eightfold path's own eight factors independently.",
+        "<a href=\"sn-43.13.html\">SN 43.13 &middot; Uninclined</a> "
+        "&mdash; the next discourse, opening the run of thirty-three "
+        "fresh synonyms for the goal.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 43.13 — Anatasutta
+# --------------------------------------------------------------------------- #
+page(
+    43, 13, "Anata", "Uninclined",
+    vagga="Dutiyavagga",
+    meta_title="SN 43.13 — Uninclined | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anatasutta &mdash; the first of thirty-three fresh "
+        "synonyms for the unconditioned, cross-referencing SN 43.12's "
+        "own master recitation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN 43.12)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A bare teach-you announcement plus a genuinely "
+                 "translated editorial cross-reference back to SN "
+                 "43.12 &mdash; this saṃyutta's own tightest "
+                 "compression so far"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "SA 890 covers the SN 43.11&ndash;43 "
+                              "range as a whole, per SuttaCentral's "
+                              "own parallels record"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a single new word and a cross-reference"),
+    ],
+    why=(
+        "The first of thirty-two fresh synonyms for nibbāna to "
+        "follow SN 43.12's own master recitation, anataṁ "
+        "(&ldquo;the uninclined,&rdquo; sometimes rendered "
+        "&ldquo;the trackless&rdquo;) replaces asaṅkhata as the goal "
+        "while the eleven path-formulations themselves are not "
+        "restated at all &mdash; only cross-referenced with a "
+        "genuinely Sujato-translated editorial note, &ldquo;tell in "
+        "full as in the unconditioned in the previous chapter.&rdquo;"
+    ),
+    guide=[
+        ("A new name for the identical goal", [
+            "Anataṁ (from a- + nata, &ldquo;not inclined, not "
+            "bent&rdquo;) names the same nibbāna asaṅkhata named in "
+            "every discourse so far &mdash; the definition itself "
+            "(the ending of the three roots) is not restated here "
+            "either, presupposed along with the eleven paths.",
+        ]),
+        ("A cross-reference, not a restatement", [
+            "&ldquo;(Tell in full as in the unconditioned in the "
+            "previous chapter.)&rdquo; is confirmed as genuine "
+            "Sujato-translated text, not an editorial placeholder "
+            "this reading guide invents &mdash; the source itself "
+            "instructs the reciter to substitute anataṁ for "
+            "asaṅkhataṁ throughout SN 43.12's own eleven-part "
+            "recitation rather than write it out again.",
+        ]),
+    ],
+    terms=[
+        ("anataṁ", "&ldquo;the uninclined&rdquo; &mdash; the first "
+             "of thirty-three fresh synonyms for nibbāna beginning "
+             "here, replacing asaṅkhataṁ as the named goal"),
+        ("anatagāmiṁ maggaṁ", "&ldquo;the path that leads to the "
+             "uninclined&rdquo; &mdash; the identical eleven "
+             "path-formulations of SN 43.12, cross-referenced rather "
+             "than restated"),
+        ("yathā asaṅkhataṁ tathā vitthāretabbaṁ", "&ldquo;tell in "
+             "full as in the unconditioned in the previous "
+             "chapter&rdquo; &mdash; the genuinely Sujato-translated "
+             "editorial cross-reference this discourse closes on"),
+        ("rāgakkhayo dosakkhayo mohakkhayo", "&ldquo;the ending of "
+             "greed, hate, and delusion&rdquo; &mdash; the fixed "
+             "definition presupposed here, restated in full only at "
+             "SN 43.1, SN 43.12, and SN 43.44"),
+        ("dutiyavaggo", "&ldquo;chapter two&rdquo; &mdash; this "
+             "discourse's own vagga heading, confirming it opens the "
+             "run of synonym discourses within Dutiyavagga rather "
+             "than a new vagga of its own"),
+    ],
+    text_intro=("The complete genuinely translated content of the "
+        "discourse &mdash; the editorial cross-reference itself is "
+        "real translated text, not a placeholder. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn43.13:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as the fresh synonym for the goal?",
+         "opts": ["Anataṁ, \"the uninclined\"", "Amataṁ, \"freedom from death\"", "Nibbānaṁ directly", "Parāyanaṁ, \"the final haven\""],
+         "correct": 0,
+         "expl": "The first of thirty-three fresh synonyms this saṃyutta's own Dutiyavagga will cycle through, starting here."},
+        {"q": "How does this discourse handle the eleven path-formulations SN 43.12 spelled out in full?",
+         "opts": ["Cross-references them with a genuinely translated editorial note, rather than restating them", "Restates all eleven again in full", "Omits any mention of a path at all", "Replaces them with a different, shorter list"],
+         "correct": 0,
+         "expl": "\"Tell in full as in the unconditioned in the previous chapter\" — confirmed as real Sujato-translated text, not invented by this reading guide."},
+        {"q": "What is presupposed in this discourse, without being restated?",
+         "opts": ["The fixed definition of the goal as the ending of greed, hate, and delusion", "The name of the interlocutor", "The setting at Sāvatthī", "The number of the vagga"],
+         "correct": 0,
+         "expl": "Restated in full only at SN 43.1, SN 43.12, and SN 43.44 across the whole saṃyutta."},
+    ],
+    marginalia=[
+        ("A new name, the same goal", [
+            "\"the uninclined\" —",
+            "nibbāna, named for the second time now",
+        ]),
+        ("A cross-reference, genuinely translated", [
+            "not a placeholder this guide invents —",
+            "Sujato's own words, pointing back to SN 43.12",
+        ]),
+        ("The tightest compression yet", [
+            "one new word, one instruction —",
+            "the eleven paths not restated at all",
+        ]),
+        ("First of thirty-two synonyms", [
+            "thirty-one more still to come —",
+            "before SN 43.44 closes the saṃyutta",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn43.13/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-43.12.html\">SN 43.12 &middot; The "
+        "Unconditioned</a> &mdash; the previous discourse, and this "
+        "discourse's own cross-reference target.",
+        "<a href=\"sn-43.14-43.html\">SN 43.14&ndash;43 &middot; "
+        "Undefiled, Etc.</a> &mdash; the next page, covering thirty "
+        "more fresh synonyms merged into a single bilara-data file.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 43.14-43 — Anāsavādisutta, etc. (merged peyyāla range)
+# --------------------------------------------------------------------------- #
+page_range(
+    43, 14, 43, "Anāsavādi", "Undefiled, Etc.",
+    vagga="Dutiyavagga",
+    meta_title="SN 43.14–43 — Undefiled, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 43.14–43 — thirty more fresh synonyms for the "
+        "unconditioned, merged into a single bilara-data file, each "
+        "genuinely translated fragment quoted in full. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN 43.13)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Thirty discourses merged into a single "
+                 "bilara-data file, each keeping only its own fresh "
+                 "synonym's name &mdash; confirmed by listing the "
+                 "directory directly rather than assumed"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "SA 890 covers the SN 43.11&ndash;43 "
+                              "range as a whole, per SuttaCentral's "
+                              "own parallels record"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "thirty short entries, no new structure "
+                       "beyond SN 43.13's own cross-reference"),
+    ],
+    why=(
+        "Thirty consecutive discourses (SN 43.14 through SN 43.43), "
+        "confirmed by directly listing bilara-data's own directory "
+        "to be stored in a single merged file rather than thirty "
+        "separate ones, each keep only their own fresh synonym's "
+        "name &mdash; no repeated cross-reference sentence at all, "
+        "unlike SN 43.13's own explicit editorial note. This project "
+        "quotes every one of these thirty genuinely distinct "
+        "translated fragments in full rather than summarizing the "
+        "run as uniform filler, per this project's standing rule on "
+        "peyyāla coverage: every genuinely different piece of "
+        "translated content is cited once, never skipped merely for "
+        "being part of a repetitive series."
+    ),
+    guide=[
+        ("Thirty names, no repeated instruction", [
+            "Unlike SN 43.13's own full sentence &mdash; &ldquo;I "
+            "will teach you the uninclined&hellip;(tell in full as "
+            "in the unconditioned)&mdash;&rdquo; each of these "
+            "thirty entries keeps only the bare teach-you fragment "
+            "with the new synonym's own name, confirmed by reading "
+            "the merged file directly: bilara-data itself compresses "
+            "even the cross-reference sentence away once the pattern "
+            "is established.",
+        ]),
+        ("Thirty distinct words, quoted rather than summarized", [
+            "From &ldquo;the undefiled&rdquo; through &ldquo;the "
+            "refuge,&rdquo; every one of these thirty fragments "
+            "names a genuinely different English word or short "
+            "phrase for nibbāna &mdash; some familiar from elsewhere "
+            "on this site (extinguishment, dispassion, purity, "
+            "release), several rare enough to appear nowhere else "
+            "in this project so far (the not liable to trouble, the "
+            "very hard to see) &mdash; each one quoted below rather "
+            "than folded into a single paraphrased list.",
+        ]),
+        ("Every entry still points to SN 43.12", [
+            "None of these thirty discourses restates the eleven "
+            "path-formulations; each presupposes the identical "
+            "cross-reference SN 43.13 spelled out explicitly, "
+            "confirmed by the total absence of any path-formulation "
+            "language anywhere in this merged file.",
+        ]),
+    ],
+    terms=[
+        ("anāsavaṁ", "&ldquo;the undefiled&rdquo; &mdash; opening "
+             "this merged run at SN 43.14, the second of "
+             "thirty-three fresh synonyms overall"),
+        ("nibbānaṁ", "&ldquo;extinguishment&rdquo; &mdash; at SN "
+             "43.34, the one entry among these thirty that gives "
+             "nibbāna's own most familiar name directly, roughly at "
+             "the run's own midpoint"),
+        ("virāgo... suddhi... mutti", "&ldquo;dispassion... "
+             "purity... release&rdquo; &mdash; three consecutive "
+             "entries (SN 43.36&ndash;38) naming qualities familiar "
+             "from this project's own earlier books, here applied "
+             "as names for the goal itself"),
+        ("dīpaṁ... leṇaṁ... tāṇaṁ... saraṇaṁ", "&ldquo;the island... "
+             "the asylum... the shelter... the refuge&rdquo; "
+             "&mdash; the closing run of four images of safety, SN "
+             "43.40&ndash;43, immediately preceding SN 43.44's own "
+             "final synonym"),
+        ("dutiyavaggo", "&ldquo;chapter two&rdquo; &mdash; confirmed "
+             "in this merged file's own heading for every one of "
+             "its thirty entries, none opening a new vagga of its "
+             "own"),
+    ],
+    text_intro=("Every genuinely translated fragment in this merged "
+        "file, quoted in full and grouped in three runs of ten for "
+        "readability. Each entry's own remaining content is a "
+        "cross-reference to SN 43.12, identical to SN 43.13's own "
+        "explicit note, and is not repeated thirty times over. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten names, SN 43.14–23"),
+        ("p", "43.14", "sn43.14:1.1-1.2"),
+        ("p", "43.15", "sn43.15:1.1-1.2"),
+        ("p", "43.16", "sn43.16:1.1-1.2"),
+        ("p", "43.17", "sn43.17:1.1-1.2"),
+        ("p", "43.18", "sn43.18:1.1-1.2"),
+        ("p", "43.19", "sn43.19:1.1-1.2"),
+        ("p", "43.20", "sn43.20:1.1-1.2"),
+        ("p", "43.21", "sn43.21:1.1-1.2"),
+        ("p", "43.22", "sn43.22:1.1-1.2"),
+        ("p", "43.23", "sn43.23:1.1-1.2"),
+        ("h3", "Ten more names, SN 43.24–33"),
+        ("p", "43.24", "sn43.24:1.1-1.2"),
+        ("p", "43.25", "sn43.25:1.1-1.2"),
+        ("p", "43.26", "sn43.26:1.1-1.2"),
+        ("p", "43.27", "sn43.27:1.1-1.2"),
+        ("p", "43.28", "sn43.28:1.1-1.2"),
+        ("p", "43.29", "sn43.29:1.1-1.2"),
+        ("p", "43.30", "sn43.30:1.1-1.2"),
+        ("p", "43.31", "sn43.31:1.1-1.2"),
+        ("p", "43.32", "sn43.32:1.1-1.2"),
+        ("p", "43.33", "sn43.33:1.1-1.2"),
+        ("h3", "The final ten names of this merged file, SN "
+                "43.34–43"),
+        ("p", "43.34", "sn43.34:1.1-1.2"),
+        ("p", "43.35", "sn43.35:1.1-1.2"),
+        ("p", "43.36", "sn43.36:1.1-1.2"),
+        ("p", "43.37", "sn43.37:1.1-1.2"),
+        ("p", "43.38", "sn43.38:1.1-1.2"),
+        ("p", "43.39", "sn43.39:1.1-1.2"),
+        ("p", "43.40", "sn43.40:1.1-1.2"),
+        ("p", "43.41", "sn43.41:1.1-1.2"),
+        ("p", "43.42", "sn43.42:1.1-1.2"),
+        ("p", "43.43", "sn43.43:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single merged page cover?",
+         "opts": ["Thirty (SN 43.14 through SN 43.43)", "Eleven", "Forty-four", "Three"],
+         "correct": 0,
+         "expl": "Confirmed by directly listing bilara-data's own directory: one merged file for thirty discourses."},
+        {"q": "What does each of these thirty entries keep, compared to SN 43.13's own explicit cross-reference sentence?",
+         "opts": ["Only the bare synonym's own name, with no repeated cross-reference sentence at all", "The full eleven-part path recitation, repeated thirty times", "Nothing — these thirty entries are entirely blank", "A brand new eleven-part recitation for each synonym"],
+         "correct": 0,
+         "expl": "Bilara-data compresses even the cross-reference sentence away once the pattern established at SN 43.13 is set."},
+        {"q": "Why does this reading guide quote all thirty fragments individually rather than summarizing them as a uniform list?",
+         "opts": ["Each is genuinely distinct translated content, and this project's standing rule requires quoting every distinct piece rather than skipping repetitive-seeming material", "Because the file cannot be summarized at all", "Because SuttaCentral requires it", "Because each entry is actually quite long"],
+         "correct": 0,
+         "expl": "The project's standing rule on peyyāla coverage: real content is never dropped merely for appearing repetitive."},
+        {"q": "Which entry in this run names nibbāna's own most familiar English rendering directly?",
+         "opts": ["SN 43.34, \"extinguishment\"", "SN 43.14, \"the undefiled\"", "SN 43.43, \"the refuge\"", "SN 43.20, \"the everlasting\""],
+         "correct": 0,
+         "expl": "Roughly at this run's own midpoint, among the thirty synonyms."},
+    ],
+    marginalia=[
+        ("Thirty names, one file", [
+            "confirmed by listing the directory —",
+            "not assumed from any earlier saṃyutta's own shape",
+        ]),
+        ("No repeated instruction", [
+            "not even SN 43.13's own cross-reference sentence —",
+            "compressed away once the pattern is set",
+        ]),
+        ("Every word, genuinely distinct", [
+            "the undefiled through the refuge —",
+            "quoted in full, none skipped as \"just repetition\"",
+        ]),
+        ("Four images of safety, closing this run", [
+            "island, asylum, shelter, refuge —",
+            "immediately before SN 43.44's own final synonym",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn43.14-43/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-43.13.html\">SN 43.13 &middot; Uninclined</a> "
+        "&mdash; the previous page, opening the run of fresh "
+        "synonyms with an explicit cross-reference sentence.",
+        "<a href=\"sn-43.12.html\">SN 43.12 &middot; The "
+        "Unconditioned</a> &mdash; the master recitation every "
+        "synonym in this run presupposes without restating.",
+        "<a href=\"sn-43.44.html\">SN 43.44 &middot; The Final "
+        "Haven</a> &mdash; the next page, closing this saṃyutta.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 43.44 — Parāyanasutta
+# --------------------------------------------------------------------------- #
+page(
+    43, 44, "Parāyana", "The Final Haven",
+    vagga="Dutiyavagga",
+    meta_title="SN 43.44 — The Final Haven | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Parāyanasutta &mdash; the thirty-third and last synonym "
+        "for the unconditioned, closing Asaṅkhatasaṃyutta with "
+        "mindfulness of the body once more and this saṃyutta's own "
+        "genuine colophon. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (continuing directly from SN "
+                     "43.14&ndash;43)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A full worked example (unlike SN 43.14&ndash;43's "
+                 "own bare synonym-naming), closing with an "
+                 "untranslated meta-uddāna naming all thirty-three "
+                 "synonyms and this saṃyutta's own genuinely "
+                 "translated colophon"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "SA 890 covers the SN 43.11&ndash;43 "
+                              "range as a whole, per SuttaCentral's "
+                              "own parallels record"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but closes the whole saṃyutta"),
+    ],
+    why=(
+        "Parāyanaṁ (&ldquo;the final haven,&rdquo; sometimes "
+        "&ldquo;the beyond&rdquo;) is the thirty-third and last of "
+        "this saṃyutta's own fresh synonyms for nibbāna, closing "
+        "Dutiyavagga's own run of thirty-two synonym discourses. "
+        "Rather than cross-referencing SN 43.12 the way SN "
+        "43.13&ndash;43 did, this discourse spells out one full "
+        "worked example &mdash; mindfulness of the body, the "
+        "identical path-formulation SN 43.1 opened the entire "
+        "saṃyutta with &mdash; before this saṃyutta's own genuinely "
+        "Sujato-translated colophon closes all forty-four "
+        "discourses at once."
+    ),
+    guide=[
+        ("The saṃyutta closes as it opened", [
+            "Confirmed by direct comparison: SN 43.1 paired "
+            "asaṅkhataṁ with kāyagatāsati (mindfulness of the "
+            "body) as this saṃyutta's own first worked example; SN "
+            "43.44 pairs parāyanaṁ with the identical kāyagatāsati "
+            "as its own last, a deliberate bookend this reading "
+            "guide notes rather than a coincidence &mdash; of "
+            "eleven available path-formulations, the discourse "
+            "closing the saṃyutta returns to the very one that "
+            "opened it.",
+        ]),
+        ("Thirty-three synonyms, one closing tally", [
+            "The untranslated meta-uddāna at this discourse's own "
+            "close lists all thirty-three synonyms used across "
+            "Dutiyavagga in verse (asaṅkhataṁ itself through "
+            "parāyanaṁ), described here rather than translated, "
+            "since Sujato's own English leaves it as blank lines "
+            "and this reading guide does not fabricate content the "
+            "translation does not supply.",
+        ]),
+        ("A genuine close, not a placeholder", [
+            "&ldquo;The Linked Discourses on the unconditioned are "
+            "complete&rdquo; is confirmed as Sujato's own genuine "
+            "translation of this saṃyutta's own closing colophon, "
+            "closing all forty-four discourses across both vaggas "
+            "at once &mdash; not a discourse-by-discourse tally but "
+            "a single closing line for the whole collection, "
+            "exactly as this project's own already-closed SN "
+            "37, SN 38, SN 39, SN 40, SN 41, and SN 42 were each "
+            "closed in turn.",
+        ]),
+    ],
+    terms=[
+        ("parāyanaṁ", "&ldquo;the final haven&rdquo; &mdash; the "
+             "thirty-third and last fresh synonym for nibbāna, "
+             "closing Dutiyavagga's own run of synonym discourses"),
+        ("kāyagatāsati", "&ldquo;mindfulness of the body&rdquo; "
+             "&mdash; the identical path-formulation SN 43.1 opened "
+             "the whole saṃyutta with, deliberately returned to here "
+             "as its own closing worked example"),
+        ("yathā asaṅkhataṁ tathā vitthāretabbaṁ", "&ldquo;tell in "
+             "full as in the unconditioned&rdquo; &mdash; this "
+             "discourse's own final cross-reference, covering the "
+             "ten path-formulations not spelled out in this worked "
+             "example"),
+        ("tettiṁsatimaṁ... dutiyo vaggo", "&ldquo;thirty-third... "
+             "chapter two&rdquo; &mdash; this discourse's own count "
+             "and vagga-closing markers, left untranslated in the "
+             "root and described rather than quoted as English here"),
+        ("asaṅkhatasaṁyuttaṁ samattaṁ", "&ldquo;The Linked "
+             "Discourses on the unconditioned are complete&rdquo; "
+             "&mdash; this saṃyutta's own genuinely Sujato-translated "
+             "closing colophon, closing all forty-four discourses at "
+             "once"),
+    ],
+    text_intro=("The complete genuinely translated content of the "
+        "discourse. This saṃyutta's own closing meta-uddāna, left "
+        "untranslated in the source, is described rather than quoted "
+        "above. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The final worked example, and a last cross-reference"),
+        ("p", "&sect;1", "sn43.44:1.1-1.12"),
+        ("h3", "This saṃyutta's own genuine close"),
+        ("p", "&sect;2", "sn43.44:4.5"),
+    ],
+    quiz=[
+        {"q": "What path-formulation does this discourse spell out as its own worked example?",
+         "opts": ["Mindfulness of the body — the identical formulation SN 43.1 opened the saṃyutta with", "The noble eightfold path", "The seven awakening factors", "Serenity and discernment together"],
+         "correct": 0,
+         "expl": "A deliberate bookend, confirmed by direct comparison with SN 43.1's own opening worked example."},
+        {"q": "How many fresh synonyms for nibbāna does Dutiyavagga cycle through in total, ending with this discourse?",
+         "opts": ["Thirty-three", "Eleven", "Forty-four", "Ten"],
+         "correct": 0,
+         "expl": "From SN 43.12's own asaṅkhataṁ through SN 43.44's own parāyanaṁ, thirty-three synonyms in total."},
+        {"q": "What does this saṃyutta's own genuine closing colophon say?",
+         "opts": ["\"The Linked Discourses on the unconditioned are complete\" — genuinely translated by Sujato, closing all 44 discourses at once", "A discourse-by-discourse tally of all forty-four titles", "Nothing; the saṃyutta ends without any closing line", "A cross-reference to a different saṃyutta"],
+         "correct": 0,
+         "expl": "One closing line for the whole two-vagga collection, matching how this project's own SN 37 through SN 42 were each closed in turn."},
+    ],
+    marginalia=[
+        ("The saṃyutta closes as it opened", [
+            "mindfulness of the body, once more —",
+            "the same formulation SN 43.1 began with",
+        ]),
+        ("Thirty-three synonyms, tallied", [
+            "asaṅkhataṁ through parāyanaṁ —",
+            "left untranslated, described rather than invented",
+        ]),
+        ("A genuine close", [
+            "\"the Linked Discourses on the unconditioned\" —",
+            "Sujato's own words, closing all forty-four at once",
+        ]),
+        ("Book IV's own ninth saṃyutta, complete", [
+            "44 discourses, 15 pages —",
+            "SN 44 (Abyākatasaṃyutta) still ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn43.44/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-43.14-43.html\">SN 43.14&ndash;43 &middot; "
+        "Undefiled, Etc.</a> &mdash; the previous page.",
+        "<a href=\"sn-43.1.html\">SN 43.1 &middot; Mindfulness of "
+        "the Body</a> &mdash; this saṃyutta's own opening discourse, "
+        "sharing its own worked example with this closing one.",
+        "<a href=\"sn-45.8.html\">SN 45.8 &middot; Analysis</a> "
+        "&mdash; already published on this site, standing ahead of "
+        "this project's next saṃyutta, SN 44, not yet built.",
     ],
 )
