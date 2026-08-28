@@ -40387,9 +40387,1260 @@ page(
         "Paṭhamapeyyālavagga.",
         '<a href="sn-37.23.html">SN 37.23 &middot; Mindful</a> '
         "&mdash; the previous discourse.",
+        '<a href="sn-37.25.html">SN 37.25 &middot; Assured</a> '
+        "&mdash; the next discourse, opening Balavagga, this "
+        "saṃyutta's own third and final vagga, with an entirely new "
+        "fivefold list of \"powers.\"",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 37.25 — Visāradasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 25, "Visārada", "Assured",
+    vagga="Balavagga",
+    meta_title="SN 37.25 — Assured | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Visāradasutta &mdash; opening Balavagga with an entirely "
+        "new fivefold list of a lady's own \"powers.\" From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A direct fivefold list, closing on a single stated "
+                 "outcome"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a short, self-contained fivefold list"),
+    ],
+    why=(
+        "This discourse opens Balavagga (&ldquo;the Chapter on "
+        "Powers&rdquo;), Mātugāmasaṃyutta's third and final vagga, "
+        "with an entirely new pentad not carried over from either "
+        "Paṭhamapeyyālavagga's nine-part character template or "
+        "Dutiyapeyyālavagga's mirrored reversal of it: attractiveness "
+        "(rūpabala), wealth (bhogabala), relatives (ñātibala), "
+        "children (puttabala), and ethical behavior (sīlabala) "
+        "&mdash; five &ldquo;powers&rdquo; (bala) said to belong to a "
+        "lady living at home. A lady equipped with all five, this "
+        "discourse states plainly, lives self-assured (visārada). "
+        "Nothing here reverses or extends the earlier two vaggas' own "
+        "black/white architecture; this is the vagga's own fresh "
+        "foundation, and the remaining nine discourses build directly "
+        "on this same fivefold list."
+    ),
+    guide=[
+        ("Five powers, one new foundation", [
+            "Attractiveness, wealth, relatives, children, and ethical "
+            "behavior &mdash; a self-contained pentad introduced here "
+            "for the first time in this saṃyutta, distinct from any "
+            "list in Paṭhamapeyyālavagga or Dutiyapeyyālavagga.",
+        ]),
+        ("What \"self-assured\" names", [
+            "Visārada describes a lady who, holding all five powers "
+            "at once, lives at home without anxiety about her own "
+            "standing &mdash; the discourse states the condition and "
+            "its outcome without further elaboration.",
+        ]),
+        ("One list, three discourses, three outcomes", [
+            "This is the first of three consecutive discourses "
+            "(SN 37.25&ndash;27) that apply the identical fivefold "
+            "list to three differently worded outcomes &mdash; a "
+            "small triptych this reading guide will trace as the "
+            "next two discourses confirm it.",
+        ]),
+    ],
+    terms=[
+        ("rūpabalaṁ, bhogabalaṁ, ñātibalaṁ, puttabalaṁ, sīlabalaṁ",
+             "attractiveness, wealth, relatives, children, and "
+             "ethical behavior &mdash; the vagga's own defining "
+             "pentad, unchanged across SN 37.25&ndash;31"),
+        ("mātugāmo", "&ldquo;a lady&rdquo; &mdash; this saṃyutta's "
+             "own recurring subject term throughout all 34 "
+             "discourses"),
+        ("visārado", "&ldquo;self-assured, confident&rdquo; &mdash; "
+             "this discourse's own title term, naming the outcome of "
+             "holding all five powers at once"),
+        ("agāraṁ ajjhāvasati", "&ldquo;living at home&rdquo; &mdash; "
+             "the domestic, householder setting this entire vagga "
+             "addresses"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.25:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What five \"powers\" does this discourse attribute to a lady?",
+         "opts": ["Attractiveness, wealth, relatives, children, and ethical behavior", "The nine character traits from Paṭhamapeyyālavagga", "The five precepts", "Faith, ethics, learning, generosity, and wisdom"],
+         "correct": 0,
+         "expl": "A new, self-contained pentad introduced for the first time in Balavagga."},
+        {"q": "What outcome does this discourse state for a lady who holds all five powers?",
+         "opts": ["She lives at home self-assured (visārada)", "She is reborn in a heavenly realm", "She masters her husband", "She is sent away by her family"],
+         "correct": 0,
+         "expl": "This particular outcome — later discourses apply the same fivefold list to different stated outcomes."},
+        {"q": "How does this discourse relate to Paṭhamapeyyālavagga and Dutiyapeyyālavagga's own black/white template?",
+         "opts": ["It introduces an entirely new list, not a reversal or extension of the earlier template", "It reverses the nine-part template a third time", "It repeats Paṭhamapeyyālavagga's own fivefold precept list", "It has no relationship to either earlier vagga"],
+         "correct": 0,
+         "expl": "Balavagga opens with fresh content rather than continuing the mirror structure."},
+        {"q": "What does this reading guide predict about the next two discourses?",
+         "opts": ["They will apply the identical fivefold list to two different stated outcomes", "They will introduce a sixth power", "They will repeat this discourse word for word", "They will shift to a male subject"],
+         "correct": 0,
+         "expl": "A small triptych (SN 37.25–27), confirmed as the following two discourses are read."},
+        {"q": "What does \"agāraṁ ajjhāvasati\" describe?",
+         "opts": ["Living at home as a householder", "Ordaining as a mendicant", "Traveling between households", "A specific rebirth destination"],
+         "correct": 0,
+         "expl": "The domestic setting this entire vagga addresses throughout."},
+    ],
+    marginalia=[
+        ("A new list, not a mirror", [
+            "attractiveness, wealth, relatives, children, ethics —",
+            "Balavagga's own fresh foundation",
+        ]),
+        ("What holding all five brings", [
+            "visārada, self-assured —",
+            "one outcome among several to come",
+        ]),
+        ("One list, watch for the pattern", [
+            "the same five powers, restated —",
+            "three discourses, three different outcomes",
+        ]),
+        ("A domestic frame throughout", [
+            "agāraṁ ajjhāvasati, living at home —",
+            "the setting this whole vagga addresses",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.25/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.24.html">SN 37.24 &middot; Living With '
+        "Confidence</a> &mdash; the previous discourse, closing "
+        "Dutiyapeyyālavagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 37.26 — Pasayhasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 26, "Pasayha", "Under Her Thumb",
+    vagga="Balavagga",
+    meta_title="SN 37.26 — Under Her Thumb | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pasayhasutta &mdash; the identical fivefold list of SN "
+        "37.25, applied to a second stated outcome. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The identical fivefold list of SN 37.25, closing on "
+                 "a second, different outcome"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a one-word change from SN 37.25's own "
+                       "closing line"),
+    ],
+    why=(
+        "This discourse repeats SN 37.25's own fivefold list word for "
+        "word &mdash; attractiveness, wealth, relatives, children, "
+        "and ethical behavior &mdash; and changes only the closing "
+        "outcome: a lady equipped with all five, this discourse "
+        "states, has her husband under her thumb (sāmikaṁ pasayha). "
+        "Confirms the triptych predicted at SN 37.25: the same "
+        "condition, restated, now paired with a second, more assertive "
+        "outcome."
+    ),
+    guide=[
+        ("The same five, a different close", [
+            "Every word of the fivefold list is unchanged from SN "
+            "37.25; only the final clause differs, replacing "
+            "self-assured domestic life with dominance over the "
+            "husband specifically.",
+        ]),
+        ("Pasayha: forceful control, named outright", [
+            "&ldquo;Pasayha&rdquo; carries a stronger sense than "
+            "&ldquo;visārada&rdquo; &mdash; not mere confidence but "
+            "active mastery, foreshadowing SN 37.27's own even more "
+            "explicit &ldquo;abhibhuyya.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("sāmikaṁ pasayha agāraṁ ajjhāvasati", "&ldquo;lives at home "
+             "having overpowered her husband&rdquo; &mdash; this "
+             "discourse's own closing clause, replacing SN 37.25's "
+             "visārado"),
+        ("rūpabalaṁ, bhogabalaṁ, ñātibalaṁ, puttabalaṁ, sīlabalaṁ",
+             "the identical fivefold list, unchanged from SN 37.25"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.26:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What changes between SN 37.25 and this discourse?",
+         "opts": ["Only the closing outcome; the fivefold list is identical", "The fivefold list itself changes", "The subject shifts from a lady to a man", "Nothing changes at all"],
+         "correct": 0,
+         "expl": "Word-for-word repetition of the list, with a new closing clause."},
+        {"q": "What outcome does this discourse state for a lady with all five powers?",
+         "opts": ["She has her husband under her thumb", "She lives self-assured at home", "She is reborn in a heavenly realm", "She is sent away by her family"],
+         "correct": 0,
+         "expl": "\"Sāmikaṁ pasayha\" — having overpowered her husband."},
+        {"q": "How does \"pasayha\" compare in force to SN 37.25's \"visārada\"?",
+         "opts": ["It is stronger, naming active mastery rather than mere confidence", "It is weaker, naming passive acceptance", "The two terms are exact synonyms", "It refers to a completely unrelated quality"],
+         "correct": 0,
+         "expl": "A step up in assertiveness, anticipating SN 37.27's own even stronger term."},
+        {"q": "What structural pattern is this discourse confirming?",
+         "opts": ["A predicted triptych: the same fivefold list applied to three different outcomes", "A reversal of Paṭhamapeyyālavagga's nine-part template", "A brand new fivefold list unrelated to SN 37.25", "The saṃyutta's own closing discourse"],
+         "correct": 0,
+         "expl": "The pattern SN 37.25's reading guide anticipated, now confirmed by a second matching discourse."},
+    ],
+    marginalia=[
+        ("One word changed", [
+            "the five powers, restated exactly —",
+            "only the closing outcome differs",
+        ]),
+        ("A stronger term this time", [
+            "pasayha, overpowered —",
+            "more assertive than visārada",
+        ]),
+        ("The triptych, confirmed", [
+            "a second discourse, same list —",
+            "the predicted pattern holding",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.26/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.25.html">SN 37.25 &middot; Assured</a> '
+        "&mdash; the previous discourse, and the source of this "
+        "discourse's own unchanged fivefold list.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 37.27 — Abhibhuyyasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 27, "Abhibhuyya", "Mastered",
+    vagga="Balavagga",
+    meta_title="SN 37.27 — Mastered | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Abhibhuyyasutta &mdash; the same fivefold list a third "
+        "time, closing the SN 37.25-27 triptych. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The identical fivefold list a third time, closing "
+                 "this small triptych"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "closes a now-familiar three-discourse "
+                       "pattern"),
+    ],
+    why=(
+        "This discourse closes the triptych opened at SN 37.25: the "
+        "identical fivefold list a third time, now closing on "
+        "&ldquo;abhibhuyya&rdquo; &mdash; living having "
+        "&ldquo;mastered&rdquo; her husband, the strongest of the "
+        "three closing terms (visārada &rarr; pasayha &rarr; "
+        "abhibhuyya). With this discourse, SN 37.25&ndash;27 stand "
+        "confirmed as a genuine set: one condition, three "
+        "increasingly assertive descriptions of what it yields."
+    ),
+    guide=[
+        ("Three discourses, one escalating pattern", [
+            "Self-assured (37.25), husband under her thumb (37.26), "
+            "husband mastered outright (37.27) &mdash; the identical "
+            "five powers read as escalating in effect across three "
+            "consecutive discourses, not as three unrelated claims.",
+        ]),
+        ("What comes next", [
+            "SN 37.28 will name the single power that, this "
+            "saṃyutta states, overrides everything this triptych has "
+            "just established &mdash; worth reading 37.25&ndash;27 as "
+            "one unit before turning to it.",
+        ]),
+    ],
+    terms=[
+        ("sāmikaṁ abhibhuyya vattati", "&ldquo;lives having mastered "
+             "her husband&rdquo; &mdash; the strongest of this "
+             "triptych's three closing clauses"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.27:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What is the closing outcome of this discourse?",
+         "opts": ["A lady with all five powers lives having mastered her husband", "A lady is sent away by her family", "A lady is reborn in a heavenly realm", "A lady loses all five powers"],
+         "correct": 0,
+         "expl": "\"Abhibhuyya\" — the strongest of the triptych's three closing terms."},
+        {"q": "How do the three closing terms across SN 37.25-27 relate to each other?",
+         "opts": ["They escalate in assertiveness: self-assured, then under her thumb, then mastered outright", "They are unrelated synonyms with no ordering", "They decrease in strength across the three discourses", "Only this discourse's term appears anywhere in the triptych"],
+         "correct": 0,
+         "expl": "Visārada → pasayha → abhibhuyya, a deliberate escalation across three consecutive discourses."},
+        {"q": "What does this reading guide anticipate for SN 37.28?",
+         "opts": ["A single power that overrides everything this triptych has established", "A fourth discourse repeating the same list again", "A shift back to Paṭhamapeyyālavagga's own template", "The saṃyutta's own final discourse"],
+         "correct": 0,
+         "expl": "Worth reading 37.25–27 as one unit in preparation."},
+    ],
+    marginalia=[
+        ("The strongest term yet", [
+            "abhibhuyya, mastered outright —",
+            "the triptych's own final escalation",
+        ]),
+        ("Three discourses, one design", [
+            "assured, under thumb, mastered —",
+            "an escalating set, not three loose claims",
+        ]),
+        ("What might undo all three", [
+            "one power still unnamed —",
+            "the next discourse turns to it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.27/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.25.html">SN 37.25 &middot; Assured</a> '
+        "&mdash; opening this triptych.",
+        '<a href="sn-37.26.html">SN 37.26 &middot; Under Her '
+        "Thumb</a> &mdash; the previous discourse, this triptych's "
+        "middle term.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 37.28 — Ekasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 28, "Eka", "One",
+    vagga="Balavagga",
+    meta_title="SN 37.28 — One | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ekasutta &mdash; a single male power said to override "
+        "all five of the powers just described in SN 37.25-27. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A single named power, stated to override a "
+                 "different party's own fivefold list"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the sharpest reversal in Balavagga so far, "
+                       "worth reading carefully against SN "
+                       "37.25&ndash;27"),
+    ],
+    why=(
+        "Where SN 37.25&ndash;27 described what a lady's own five "
+        "powers achieve, this discourse turns to the husband's side: "
+        "&ldquo;by means of one power,&rdquo; it states, a man lives "
+        "having mastered a lady &mdash; the power of authority "
+        "(issariyabala). When a lady is overpowered by this single "
+        "power, the discourse states plainly, none of her own five "
+        "&mdash; attractiveness, wealth, relatives, children, ethical "
+        "behavior &mdash; avails her. Read alongside the escalating "
+        "triptych just finished, this discourse names the one "
+        "structural condition the text presents as capable of "
+        "undoing everything that triptych described: not a personal "
+        "quality the wife might lack, but a formal position of "
+        "authority the husband holds. This reading guide presents "
+        "the claim as this saṃyutta itself frames it &mdash; a "
+        "diagnostic statement about a social hierarchy the text "
+        "assumes, not an endorsement offered without context."
+    ),
+    guide=[
+        ("A single power, named for the first time", [
+            "Issariyabala &mdash; &ldquo;the power of authority, "
+            "lordship&rdquo; &mdash; belongs to the husband, not the "
+            "wife, and appears nowhere in SN 37.25&ndash;27's own "
+            "fivefold list; this discourse introduces it specifically "
+            "to override that list.",
+        ]),
+        ("What the reversal does and doesn't claim", [
+            "The discourse states that authority overrides "
+            "attractiveness, wealth, relatives, children, and ethical "
+            "behavior when a lady is mastered by it &mdash; a "
+            "statement about the relative weight of formal social "
+            "position against personal qualities, framed here as a "
+            "fact about the society the text describes rather than "
+            "as instruction to any listener.",
+        ]),
+        ("A structural counterweight, not a contradiction", [
+            "SN 37.25&ndash;27 and this discourse are not "
+            "inconsistent with each other: the earlier triptych "
+            "describes what a lady's own five powers can achieve when "
+            "nothing overrides them, and this discourse names the one "
+            "condition &mdash; found on the husband's side, not the "
+            "wife's &mdash; capable of doing exactly that.",
+        ]),
+    ],
+    terms=[
+        ("issariyabalena", "&ldquo;by the power of authority, "
+             "lordship&rdquo; &mdash; this discourse's own single "
+             "named power, held by the husband rather than the wife"),
+        ("mātugāmaṁ abhibhuyya vattati", "&ldquo;lives having "
+             "mastered a lady&rdquo; &mdash; here applied to the "
+             "husband, mirroring SN 37.27's own identical verb "
+             "applied to the wife"),
+        ("neva... tāyati", "&ldquo;does not avail her&rdquo; "
+             "&mdash; repeated five times, once for each of the "
+             "powers this discourse names as overridden"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.28:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What single power does this discourse attribute to a man who masters a lady?",
+         "opts": ["The power of authority (issariyabala)", "Wealth", "Physical strength", "Ethical behavior"],
+         "correct": 0,
+         "expl": "A power named here for the first time, held by the husband rather than the wife."},
+        {"q": "What happens to a lady's own five powers when she is mastered by this authority?",
+         "opts": ["None of them avail her, according to the discourse", "They combine to overpower the husband's authority", "Only ethical behavior continues to protect her", "The discourse does not address this question"],
+         "correct": 0,
+         "expl": "\"Neva... tāyati\" repeated five times, once per power named in SN 37.25–27's own list."},
+        {"q": "How does this reading guide characterize the relationship between this discourse and SN 37.25-27?",
+         "opts": ["A structural counterweight naming the one condition capable of overriding the earlier triptych, not a contradiction of it", "A direct contradiction that invalidates everything in SN 37.25-27", "An unrelated discourse with no connection to the triptych", "A repetition of SN 37.27 with no new content"],
+         "correct": 0,
+         "expl": "The earlier triptych describes what a lady's own powers achieve absent this one override; this discourse names that override."},
+        {"q": "Whose side of the relationship does \"issariyabala\" belong to, according to this discourse?",
+         "opts": ["The husband's, not the wife's", "The wife's, alongside her other five powers", "Neither party specifically", "It is shared equally between both"],
+         "correct": 0,
+         "expl": "A formal position of authority the husband holds, distinct from any of the wife's own five listed powers."},
+    ],
+    marginalia=[
+        ("A new power, on the other side", [
+            "issariyabala, authority —",
+            "held by the husband, not the wife",
+        ]),
+        ("Five powers, named as overridden", [
+            "attractiveness, wealth, relatives, children, ethics —",
+            "\"neva... tāyati,\" none avail her",
+        ]),
+        ("Counterweight, not contradiction", [
+            "the triptych's own condition, undone —",
+            "by one structural override, not a personal lack",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.28/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.27.html">SN 37.27 &middot; Mastered</a> '
+        "&mdash; the previous discourse, closing the triptych this "
+        "discourse's own reversal responds to.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 37.29 — Aṅgasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 29, "Aṅga", "In That Respect",
+    vagga="Balavagga",
+    meta_title="SN 37.29 — In That Respect | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aṅgasutta &mdash; the same five powers built up one at "
+        "a time, from incomplete to complete. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A cumulative build-up through the same fivefold "
+                 "list, each step marked incomplete or complete"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a longer discourse built from a repeating "
+                       "add-one-more pattern"),
+    ],
+    why=(
+        "This discourse returns to the same fivefold list &mdash; "
+        "attractiveness, wealth, relatives, children, ethical "
+        "behavior &mdash; and treats it cumulatively rather than as a "
+        "single all-or-nothing set: a lady with attractiveness alone "
+        "is &ldquo;incomplete in that respect&rdquo;; with "
+        "attractiveness and wealth, &ldquo;complete in that "
+        "respect&rdquo;; add relatives, incomplete again until she "
+        "has all three, and so on through all five in fixed order. "
+        "The pattern repeats four times, building the full pentad one "
+        "term at a time rather than presenting it as a fixed unit the "
+        "way SN 37.25&ndash;28 did."
+    ),
+    guide=[
+        ("Building the pentad one term at a time", [
+            "Each step names a lady with N powers as incomplete "
+            "&ldquo;in that respect&rdquo; until the next power in "
+            "the fixed order (attractiveness, wealth, relatives, "
+            "children, ethical behavior) is added, at which point she "
+            "is complete in that respect &mdash; a structure this "
+            "saṃyutta has not used before this discourse.",
+        ]),
+        ("A fixed order, not a free combination", [
+            "The five powers are always added in the same sequence "
+            "here, never out of order and never skipping a term "
+            "&mdash; this discourse is not claiming any four of five "
+            "would do; it is walking through the specific sequence "
+            "attractiveness &rarr; wealth &rarr; relatives &rarr; "
+            "children &rarr; ethical behavior.",
+        ]),
+        ("What \"in that respect\" leaves open", [
+            "The discourse never states what a lady missing several "
+            "powers lacks overall, only that she is incomplete "
+            "&ldquo;in that respect&rdquo; (tenaṅgena) relative to "
+            "each specific addition &mdash; a narrower, more "
+            "qualified claim than SN 37.25&ndash;27's own outright "
+            "outcome statements.",
+        ]),
+    ],
+    terms=[
+        ("aparipūro... tenaṅgena", "&ldquo;incomplete in that "
+             "respect&rdquo; &mdash; the discourse's own repeated "
+             "qualifier, marking each intermediate stage before the "
+             "next power is added"),
+        ("paripūro... tenaṅgena", "&ldquo;complete in that "
+             "respect&rdquo; &mdash; the matching positive qualifier, "
+             "closing each of the four cumulative steps"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.29:1.1-1.20"),
+    ],
+    quiz=[
+        {"q": "How does this discourse treat the fivefold list, compared to SN 37.25-28?",
+         "opts": ["Cumulatively, adding one power at a time and marking each stage incomplete or complete", "As a single fixed unit, all five present or none", "By removing powers one at a time instead of adding them", "It introduces a completely different list of five"],
+         "correct": 0,
+         "expl": "A repeating add-one-more structure not used elsewhere in this vagga so far."},
+        {"q": "In what order are the five powers added?",
+         "opts": ["Attractiveness, wealth, relatives, children, ethical behavior — always the same fixed sequence", "A different random order at each step", "Ethical behavior first, then the remaining four in any order", "The order is never specified"],
+         "correct": 0,
+         "expl": "A fixed sequence repeated identically through all four cumulative steps."},
+        {"q": "What does \"in that respect\" (tenaṅgena) qualify?",
+         "opts": ["A specific, narrower claim about each intermediate stage, not an outright overall verdict", "The lady's final rebirth destination", "A comparison between two different ladies", "Nothing — it is a meaningless filler phrase"],
+         "correct": 0,
+         "expl": "A more qualified structure than SN 37.25–27's own outright outcome statements."},
+    ],
+    marginalia=[
+        ("Built one power at a time", [
+            "attractiveness, then wealth added —",
+            "incomplete, then complete, in that respect",
+        ]),
+        ("A fixed sequence, not a free mix", [
+            "always the same five, same order —",
+            "never skipped, never rearranged",
+        ]),
+        ("A narrower kind of claim", [
+            "\"tenaṅgena,\" in that respect —",
+            "qualified, not an outright verdict",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.29/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.25.html">SN 37.25 &middot; Assured</a> '
+        "&mdash; already published on this site, first introducing "
+        "the fivefold list this discourse builds cumulatively.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 37.30 — Nāsentisutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 30, "Nāsenti", "They Send Her Away",
+    vagga="Balavagga",
+    meta_title="SN 37.30 — They Send Her Away | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nāsentisutta &mdash; ethical behavior alone decides "
+        "whether a family keeps or sends away a lady, regardless of "
+        "her other four powers. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "Four negative cases (missing ethical behavior) "
+                 "paired with four positive cases (missing one other "
+                 "power but keeping ethical behavior)"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "an eight-case matrix built from a single "
+                       "decisive variable"),
+    ],
+    why=(
+        "This discourse singles out one of the five powers &mdash; "
+        "ethical behavior (sīlabala) &mdash; as decisive regardless "
+        "of the other four: a lady lacking ethical behavior is sent "
+        "away by her family even if she holds attractiveness, "
+        "wealth, relatives, and children, one at a time or all "
+        "together; a lady holding ethical behavior is kept by her "
+        "family even if she lacks any one of the other four. Eight "
+        "cases in total &mdash; four escalating combinations missing "
+        "ethical behavior, four single-power cases built on ethical "
+        "behavior alone &mdash; all resolving to the same rule: "
+        "ethical behavior decides the outcome; the other four powers "
+        "do not."
+    ),
+    guide=[
+        ("Four combinations, one missing term, one verdict", [
+            "Attractiveness alone, attractiveness with wealth, with "
+            "wealth and relatives, with wealth, relatives, and "
+            "children &mdash; each escalating combination still lacks "
+            "ethical behavior, and each is sent away regardless of "
+            "how many of the other four powers accumulate.",
+        ]),
+        ("Ethical behavior alone, four times over", [
+            "The second half of the discourse holds ethical behavior "
+            "fixed and removes one other power at a time "
+            "&mdash; attractiveness, then wealth, then relatives, "
+            "then children &mdash; and each time the family keeps "
+            "her regardless of which single power is missing.",
+        ]),
+        ("The same claim already made once, restated as a matrix", [
+            "This discourse's underlying claim &mdash; that ethical "
+            "behavior alone determines family acceptance &mdash; is "
+            "not new to this vagga; SN 37.14 and SN 37.24 already "
+            "closed Paṭhamapeyyālavagga and Dutiyapeyyālavagga on the "
+            "same five ethical precepts. What is new here is the "
+            "explicit eight-case demonstration ruling out every "
+            "combination of the other four powers as a substitute.",
+        ]),
+    ],
+    terms=[
+        ("sīlabalena... na ca... nāsenteva naṁ, kule na vāsenti",
+             "&ldquo;lacking the power of ethical behavior... the "
+             "family sends her away, they do not accommodate "
+             "her&rdquo; &mdash; the discourse's own negative refrain, "
+             "repeated across four escalating combinations"),
+        ("sīlabalena ca... na ca... vāsenteva naṁ, kule na nāsenti",
+             "&ldquo;holding the power of ethical behavior... the "
+             "family accommodates her, they do not send her "
+             "away&rdquo; &mdash; the matching positive refrain, "
+             "repeated across four single-power omissions"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.30:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "Which single power does this discourse treat as decisive for family acceptance?",
+         "opts": ["Ethical behavior (sīlabala)", "Wealth", "Attractiveness", "Relatives"],
+         "correct": 0,
+         "expl": "Present, the family keeps her regardless of what else is missing; absent, they send her away regardless of what else is present."},
+        {"q": "What happens to a lady with attractiveness, wealth, and relatives, but lacking ethical behavior?",
+         "opts": ["Her family sends her away, exactly as if she had none of the other three", "Her family keeps her because three of five powers is a majority", "The discourse does not address this combination", "She is reborn in a heavenly realm regardless"],
+         "correct": 0,
+         "expl": "One of the four escalating combinations the discourse explicitly rules out as a substitute for ethical behavior."},
+        {"q": "Is this discourse's underlying claim entirely new to Mātugāmasaṃyutta?",
+         "opts": ["No — SN 37.14 and SN 37.24 already closed on the same five ethical precepts; this discourse adds an explicit eight-case demonstration", "Yes — no earlier discourse in this saṃyutta mentions ethical behavior at all", "Yes — this is the first appearance of any of the five powers", "No — it directly repeats SN 37.29's own cumulative structure"],
+         "correct": 0,
+         "expl": "The claim recurs; the eight-case ruling-out of every alternative combination is what this discourse newly demonstrates."},
+    ],
+    marginalia=[
+        ("One power, decisive either way", [
+            "sīlabala, ethical behavior —",
+            "present or absent, it settles the outcome",
+        ]),
+        ("Four combinations ruled out", [
+            "attractiveness, wealth, relatives, children —",
+            "none of it substitutes, missing ethics",
+        ]),
+        ("A claim restated as a matrix", [
+            "already closed two vaggas on this precept —",
+            "now demonstrated eight ways at once",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.30/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.14.html">SN 37.14 &middot; Five Threats</a> '
+        "&mdash; already published on this site, closing "
+        "Paṭhamapeyyālavagga on the same five ethical precepts this "
+        "discourse treats as decisive.",
+        '<a href="sn-37.24.html">SN 37.24 &middot; Living With '
+        "Confidence</a> &mdash; already published on this site, "
+        "Dutiyapeyyālavagga's own matching close.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 37.31 — Hetusutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 31, "Hetu", "Cause",
+    vagga="Balavagga",
+    meta_title="SN 37.31 — Cause | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Hetusutta &mdash; ethical behavior alone, not the other "
+        "four powers, is named as the cause of a good rebirth. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A direct denial paired with a direct affirmation, "
+                 "naming a single cause of rebirth"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a short, direct statement extending SN "
+                       "37.30's own decisive-variable claim to "
+                       "rebirth specifically"),
+    ],
+    why=(
+        "Where SN 37.30 named ethical behavior as decisive for family "
+        "acceptance in this life, this discourse extends the same "
+        "logic to what follows death: it is not because of "
+        "attractiveness, wealth, relatives, or children, this "
+        "discourse states outright, that ladies are reborn in a good "
+        "place after death, but because of ethical behavior alone. "
+        "The shortest and most direct statement in Balavagga of a "
+        "claim this vagga has now made three times in three different "
+        "registers (family acceptance, self-assurance, and now "
+        "rebirth)."
+    ),
+    guide=[
+        ("A direct denial of four powers at once", [
+            "The discourse names attractiveness, wealth, relatives, "
+            "and children together in a single negated clause, "
+            "denying all four as causes of good rebirth in one "
+            "sentence rather than addressing each separately.",
+        ]),
+        ("One cause, stated affirmatively", [
+            "The matching positive clause names ethical behavior "
+            "alone as the actual cause &mdash; not one cause among "
+            "several, but the specific cause this discourse isolates "
+            "to the exclusion of the other four.",
+        ]),
+        ("The same claim, a third register", [
+            "Family acceptance (SN 37.30), self-assurance (implicit "
+            "throughout SN 37.25&ndash;27's own framing), and now "
+            "rebirth: this vagga returns to ethical behavior's "
+            "decisive role in three distinct contexts, each stated "
+            "independently rather than derived from the others.",
+        ]),
+    ],
+    terms=[
+        ("na... rūpabalahetu vā bhogabalahetu vā ñātibalahetu vā "
+         "puttabalahetu vā", "&ldquo;not because of the power of "
+             "attractiveness, wealth, relatives, or children&rdquo; "
+             "&mdash; the discourse's own fourfold denial, stated in "
+             "a single clause"),
+        ("sīlabalahetu... sugatiṁ saggaṁ lokaṁ upapajjati",
+             "&ldquo;because of the power of ethical behavior... "
+             "reborn in a good place, a heavenly realm&rdquo; "
+             "&mdash; the matching affirmative clause naming the "
+             "sole cause"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.31:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as the actual cause of a good rebirth for ladies?",
+         "opts": ["The power of ethical behavior alone", "All five powers together", "Wealth and relatives combined", "The discourse does not name any specific cause"],
+         "correct": 0,
+         "expl": "Named to the explicit exclusion of the other four powers."},
+        {"q": "How many of the five powers does this discourse deny as causes of good rebirth?",
+         "opts": ["Four — attractiveness, wealth, relatives, and children, denied together in one clause", "All five, including ethical behavior", "None — the discourse denies nothing", "Only one, attractiveness"],
+         "correct": 0,
+         "expl": "A single negated clause naming four powers at once, distinct from ethical behavior."},
+        {"q": "In how many different registers has Balavagga now applied ethical behavior's decisive role?",
+         "opts": ["Three — family acceptance (SN 37.30), self-assurance (SN 37.25-27's own framing), and now rebirth", "Only this one register, rebirth", "Two registers, not three", "This claim has not appeared elsewhere in the vagga"],
+         "correct": 0,
+         "expl": "Each context stated independently rather than derived from the others."},
+    ],
+    marginalia=[
+        ("Four powers, denied at once", [
+            "attractiveness, wealth, relatives, children —",
+            "not the cause of a good rebirth",
+        ]),
+        ("One power, named as the cause", [
+            "sīlabalahetu, ethical behavior —",
+            "the sole cause this discourse isolates",
+        ]),
+        ("A third register for the same claim", [
+            "family acceptance, self-assurance, now rebirth —",
+            "ethics decisive each time, independently stated",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.31/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.30.html">SN 37.30 &middot; They Send Her '
+        "Away</a> &mdash; the previous discourse, naming ethical "
+        "behavior decisive for family acceptance in this life.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 37.32 — Ṭhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 32, "Ṭhāna", "Things",
+    vagga="Balavagga",
+    meta_title="SN 37.32 — Things | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ṭhānasutta &mdash; five life aspirations, hard to get "
+        "without merit and easy to get with it. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "Two parallel fivefold lists &mdash; hard to get "
+                 "without merit, easy to get with it &mdash; sharing "
+                 "identical wording apart from that single variable"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a longer discourse built from one repeated "
+                       "cumulative sequence, stated twice"),
+    ],
+    why=(
+        "This discourse leaves the five powers pentad behind entirely "
+        "and turns to a different, cumulative sequence of five life "
+        "aspirations: being born into a suitable family, marrying "
+        "into a suitable family, living without a co-wife, having "
+        "children, and living having mastered one's husband. Without "
+        "merit (akatapuñña), the discourse states, all five are hard "
+        "to get; with merit (katapuñña), the identical five are easy "
+        "to get &mdash; the same aspirational sequence stated twice, "
+        "varying only whether merit has been made."
+    ),
+    guide=[
+        ("A new sequence, built on life stages rather than powers", [
+            "Family origin, marriage, freedom from a co-wife, "
+            "children, and mastery of one's husband &mdash; five "
+            "life stages in fixed order, replacing this vagga's own "
+            "rūpa/bhoga/ñāti/putta/sīla pentad entirely for this one "
+            "discourse.",
+        ]),
+        ("Hard to get, easy to get: one variable, not two lists", [
+            "Both halves of the discourse use identical wording for "
+            "all five aspirations; the only difference is whether the "
+            "lady has made merit &mdash; a structure emphasizing that "
+            "merit, not the aspirations themselves, is what the "
+            "discourse treats as variable.",
+        ]),
+        ("Mastery reappears, in a new context", [
+            "The fifth aspiration &mdash; living having mastered "
+            "one's husband (sāmikaṁ abhibhuyya vatteyya) &mdash; "
+            "echoes SN 37.27's own closing term almost word for word, "
+            "now framed as the final rung of a merit-dependent life "
+            "sequence rather than the outcome of holding five "
+            "specific powers.",
+        ]),
+    ],
+    terms=[
+        ("akatapuññena mātugāmena", "&ldquo;for a lady who has not "
+             "made merit&rdquo; &mdash; the condition under which all "
+             "five aspirations are named hard to get"),
+        ("katapuññena mātugāmena", "&ldquo;for a lady who has made "
+             "merit&rdquo; &mdash; the matching condition under which "
+             "the identical five are named easy to get"),
+        ("patirūpe kule jāyeyya... patirūpaṁ kulaṁ gaccheyya...",
+             "&ldquo;born into a suitable family... marry into a "
+             "suitable family...&rdquo; &mdash; the fixed five-stage "
+             "sequence repeated in both halves of the discourse"),
+        ("asapatti agāraṁ ajjhāvaseyya", "&ldquo;live at home without "
+             "a co-wife&rdquo; &mdash; the sequence's own third "
+             "stage"),
+    ],
+    text_intro=("The complete discourse, in its two parallel halves. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five things hard to get without merit"),
+        ("p", "&sect;1", "sn37.32:1.1-1.13"),
+        ("h3", "Five things easy to get with merit"),
+        ("p", "&sect;2", "sn37.32:2.1-2.13"),
+    ],
+    quiz=[
+        {"q": "What variable distinguishes the discourse's two parallel halves?",
+         "opts": ["Whether the lady has made merit, not any change in the five aspirations themselves", "The number of aspirations, five versus four", "A completely different set of aspirations in each half", "The gender of the subject"],
+         "correct": 0,
+         "expl": "Identical wording throughout; only \"akatapuñña\" versus \"katapuñña\" changes."},
+        {"q": "What is the fixed five-stage sequence this discourse names?",
+         "opts": ["Suitable family birth, suitable marriage, no co-wife, children, mastering one's husband", "The five powers: attractiveness, wealth, relatives, children, ethical behavior", "The five precepts", "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "A new cumulative life-stage sequence, distinct from Balavagga's own recurring five-powers pentad."},
+        {"q": "How does this discourse's fifth aspiration relate to SN 37.27?",
+         "opts": ["It echoes SN 37.27's own closing term (mastering one's husband) almost word for word, in a new context", "It contradicts SN 37.27 directly", "It has no relationship to any earlier discourse", "It repeats SN 37.31's own cause-of-rebirth claim"],
+         "correct": 0,
+         "expl": "The same verb (abhibhuyya) now framing the final rung of a merit-dependent sequence rather than the outcome of five powers."},
+    ],
+    marginalia=[
+        ("A new sequence altogether", [
+            "family, marriage, no co-wife, children, mastery —",
+            "not the vagga's recurring five powers",
+        ]),
+        ("One variable, stated twice", [
+            "hard to get, then easy to get —",
+            "merit made, or merit not made",
+        ]),
+        ("Mastery, in a new frame", [
+            "abhibhuyya returns from SN 37.27 —",
+            "now the last rung of a life sequence",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.32/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.27.html">SN 37.27 &middot; Mastered</a> '
+        "&mdash; already published on this site, the source of the "
+        "closing term this discourse's own fifth aspiration echoes.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 37.33 — Pañcasīlavisāradasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 33, "Pañcasīlavisārada", "Living With Self-Assurance",
+    vagga="Balavagga",
+    meta_title="SN 37.33 — Living With Self-Assurance | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pañcasīlavisāradasutta &mdash; SN 37.25's own "
+        "self-assurance outcome, recast entirely in terms of the "
+        "five precepts. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "The five precepts, closing on the identical outcome "
+                 "term used at SN 37.25"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a short discourse whose significance lies in "
+                       "comparison with SN 37.25"),
+    ],
+    why=(
+        "This discourse's title term &mdash; visārada, "
+        "&ldquo;self-assured&rdquo; &mdash; is identical to SN "
+        "37.25's own closing term, opening this vagga. But where SN "
+        "37.25 reached that outcome through the five worldly powers "
+        "(attractiveness, wealth, relatives, children, ethical "
+        "behavior), this discourse reaches the identical outcome "
+        "through the five precepts alone: abstaining from killing, "
+        "stealing, sexual misconduct, lying, and intoxicants. The "
+        "same word, the same outcome, two entirely different paths "
+        "&mdash; and this discourse's own path uses only ethical "
+        "training, the one power SN 37.30&ndash;31 already singled "
+        "out as decisive on its own."
+    ),
+    guide=[
+        ("The same outcome word, a different path entirely", [
+            "\"Visārado agāraṁ ajjhāvasati\" &mdash; word for word "
+            "the outcome closing SN 37.25 &mdash; but reached here "
+            "through the five precepts, not the five worldly powers "
+            "that opened this vagga.",
+        ]),
+        ("Consistent with the vagga's own running argument", [
+            "SN 37.30 and SN 37.31 already named ethical behavior "
+            "alone as decisive for family acceptance and rebirth "
+            "respectively; this discourse extends the same logic to "
+            "self-assurance itself, showing the worldly powers were "
+            "never strictly necessary for any of the three outcomes "
+            "Balavagga has now named.",
+        ]),
+        ("The five precepts, not the five ethical behaviors of the "
+         "earlier vagga", [
+            "This is the same fivefold precept list that closed "
+            "Paṭhamapeyyālavagga (SN 37.14) and Dutiyapeyyālavagga "
+            "(SN 37.24) &mdash; killing, stealing, sexual misconduct, "
+            "lying, intoxicants &mdash; now appearing a third time, "
+            "in a third vagga, applied to a third outcome.",
+        ]),
+    ],
+    terms=[
+        ("pāṇātipātā paṭivirato... surāmerayamajjappamādaṭṭhānā "
+         "paṭivirato", "the five precepts in full, identical in "
+             "wording to SN 37.14's and SN 37.24's own lists"),
+        ("visārado agāraṁ ajjhāvasati", "&ldquo;lives at home "
+             "self-assured&rdquo; &mdash; identical wording to SN "
+             "37.25's own closing clause, reached here by an "
+             "entirely different route"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.33:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What outcome term does this discourse share word for word with SN 37.25?",
+         "opts": ["Visārado — \"self-assured\"", "Pasayha — \"under her thumb\"", "Abhibhuyya — \"mastered\"", "Sīlabala — \"the power of ethical behavior\""],
+         "correct": 0,
+         "expl": "Identical closing clause, reached through a completely different fivefold list."},
+        {"q": "What fivefold list does this discourse use to reach that outcome?",
+         "opts": ["The five precepts — abstaining from killing, stealing, sexual misconduct, lying, and intoxicants", "The five worldly powers from SN 37.25", "A new list not seen anywhere else in the saṃyutta", "The five life stages from SN 37.32"],
+         "correct": 0,
+         "expl": "The same precept list that closed both Paṭhamapeyyālavagga and Dutiyapeyyālavagga, now appearing a third time."},
+        {"q": "How does this discourse relate to SN 37.30 and SN 37.31's own claims?",
+         "opts": ["It extends their logic — showing self-assurance, like family acceptance and rebirth, can be reached through ethical behavior alone", "It contradicts them directly", "It has no relationship to either discourse", "It repeats SN 37.29's own cumulative structure"],
+         "correct": 0,
+         "expl": "A third outcome shown reachable without the vagga's own worldly-powers pentad."},
+    ],
+    marginalia=[
+        ("Same word, different path", [
+            "visārado, self-assured —",
+            "reached here through precepts, not powers",
+        ]),
+        ("A third outcome, ethics alone", [
+            "family acceptance, rebirth, now this —",
+            "the worldly powers never strictly needed",
+        ]),
+        ("The precepts, a third time", [
+            "SN 37.14, SN 37.24, now here —",
+            "the same five, a third vagga, a new outcome",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.33/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.25.html">SN 37.25 &middot; Assured</a> '
+        "&mdash; already published on this site, sharing this "
+        "discourse's own exact closing term by a different path.",
+        '<a href="sn-37.30.html">SN 37.30 &middot; They Send Her '
+        "Away</a> &mdash; already published on this site, first "
+        "singling out ethical behavior as decisive on its own.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 37.34 — Vaḍḍhisutta
+# --------------------------------------------------------------------------- #
+page(
+    37, 34, "Vaḍḍhi", "Growth",
+    vagga="Balavagga",
+    meta_title="SN 37.34 — Growth | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vaḍḍhisutta &mdash; the standard fivefold growth of a "
+        "noble disciple, closing Balavagga and Mātugāmasaṃyutta "
+        "itself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated in this discourse"),
+        ("Speakers", "The Buddha addressing the mendicants"),
+        ("Form", "A fivefold growth formula in prose, restated in a "
+                 "closing verse, followed by the vagga's and "
+                 "saṃyutta's own closing colophons"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes both this vagga and the entire "
+                       "saṃyutta at once"),
+    ],
+    why=(
+        "This discourse closes Balavagga, and with it "
+        "Mātugāmasaṃyutta itself: a female noble disciple "
+        "(ariyasāvikā) who grows in faith, ethics, learning, "
+        "generosity, and wisdom grows nobly, &ldquo;taking on what "
+        "is essential and excellent in this life.&rdquo; Unlike "
+        "every other discourse in Balavagga, this fivefold list "
+        "&mdash; saddhā, sīla, suta, cāga, paññā &mdash; is not built "
+        "from the rūpa/bhoga/ñāti/putta/sīla pentad that opened the "
+        "vagga; it is the standard growth formula applied here "
+        "specifically to a female disciple, closing the saṃyutta on "
+        "a registered shift from worldly powers to spiritual "
+        "cultivation. The discourse's own closing colophon confirms "
+        "three nested endings at once: the vagga's own untranslated "
+        "ordinal (&ldquo;Balavaggo tatiyo,&rdquo; the third), an "
+        "untranslated uddāna listing all ten discourses, and "
+        "finally &mdash; genuinely translated by Sujato himself "
+        "&mdash; &ldquo;Mātugāmasaṁyuttaṁ samattaṁ,&rdquo; "
+        "&ldquo;The Linked Discourses on ladies are complete.&rdquo;"
+    ),
+    guide=[
+        ("A different pentad, for the vagga's own close", [
+            "Faith, ethics, learning, generosity, and wisdom replace "
+            "Balavagga's own recurring rūpa/bhoga/ñāti/putta/sīla "
+            "list entirely &mdash; the only discourse in this vagga "
+            "not built on that founding pentad.",
+        ]),
+        ("Ethics reappears, now inside a spiritual list", [
+            "Sīla (ethics) is the one term shared between this "
+            "closing formula and the vagga's opening pentad &mdash; "
+            "consistent with SN 37.30&ndash;31 and SN 37.33's own "
+            "running elevation of ethical conduct above the other "
+            "four worldly powers, now folded into a purely spiritual "
+            "growth sequence.",
+        ]),
+        ("A verse restates the prose, then three nested endings "
+         "close the saṃyutta", [
+            "The discourse's own closing verse repeats the fivefold "
+            "growth list in condensed form before the text moves to "
+            "the vagga's own untranslated ordinal (&ldquo;Balavaggo "
+            "tatiyo&rdquo;) and uddāna, and finally to the "
+            "saṃyutta's own genuinely Sujato-translated closing line "
+            "&mdash; the same three-layer close (vagga ordinal, "
+            "uddāna, saṃyutta colophon) this project has now traced "
+            "at the end of every saṃyutta in Book IV so far.",
+        ]),
+        ("Mātugāmasaṃyutta, complete", [
+            "34 discourses across three vaggas: a black-side and "
+            "bright-side mirror pair on personal character "
+            "(Paṭhamapeyyālavagga, Dutiyapeyyālavagga), and a third "
+            "vagga introducing an entirely new pentad of worldly "
+            "powers before consistently elevating ethical conduct "
+            "above the other four and closing on a purely spiritual "
+            "growth formula &mdash; a saṃyutta requiring careful, "
+            "non-judgmental handling throughout, read here on its "
+            "own terms.",
+        ]),
+    ],
+    terms=[
+        ("saddhāya vaḍḍhati, sīlena vaḍḍhati, sutena vaḍḍhati, "
+         "cāgena vaḍḍhati, paññāya vaḍḍhati", "&ldquo;grows in "
+             "faith, grows in ethics, grows in learning, grows in "
+             "generosity, grows in wisdom&rdquo; &mdash; the "
+             "discourse's own closing pentad, replacing Balavagga's "
+             "worldly-powers list entirely"),
+        ("ariyasāvikā", "&ldquo;a female noble disciple&rdquo; "
+             "&mdash; this discourse's own subject, distinct from "
+             "the recurring &ldquo;mātugāmo&rdquo; of the rest of "
+             "this saṃyutta"),
+        ("Balavaggo tatiyo", "&ldquo;Balavagga, the third&rdquo; "
+             "&mdash; the vagga's own untranslated closing ordinal, "
+             "confirming its position as Mātugāmasaṃyutta's third "
+             "and final vagga"),
+        ("Mātugāmasaṁyuttaṁ samattaṁ", "&ldquo;The Linked Discourses "
+             "on ladies are complete&rdquo; &mdash; this saṃyutta's "
+             "own genuinely Sujato-translated closing line, following "
+             "the untranslated vagga ordinal and uddāna this reading "
+             "guide describes rather than quotes"),
+    ],
+    text_intro=("The complete discourse, apart from the intervening "
+        "untranslated vagga-level ordinal and uddāna (described "
+        "rather than quoted above), together with this saṃyutta's "
+        "own genuinely translated final line. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn37.34:1.1-1.4"),
+        ("h3", "The accompanying verse"),
+        ("p", "&sect;2", "sn37.34:2.1-2.4"),
+        ("p", "&sect;3", "sn37.34:3.5"),
+    ],
+    quiz=[
+        {"q": "What fivefold list closes this discourse, replacing Balavagga's own recurring pentad?",
+         "opts": ["Faith, ethics, learning, generosity, and wisdom", "Attractiveness, wealth, relatives, children, ethical behavior", "The five precepts", "The five life stages from SN 37.32"],
+         "correct": 0,
+         "expl": "The standard growth-of-a-noble-disciple formula, distinct from the worldly-powers pentad opening this vagga."},
+        {"q": "Which single term is shared between this closing formula and Balavagga's own opening pentad?",
+         "opts": ["Sīla — ethics", "Rūpa — attractiveness", "Bhoga — wealth", "Ñāti — relatives"],
+         "correct": 0,
+         "expl": "Continuing this vagga's own running elevation of ethical conduct above the other worldly powers."},
+        {"q": "What does this discourse's own closing colophon confirm?",
+         "opts": ["Three nested endings: the vagga's own ordinal (\"the third\"), its uddāna, and the saṃyutta's own genuinely translated closing line", "Only a single untranslated ordinal, with no further colophon", "A colophon identical to SN 37.24's own closing line", "No colophon appears in this discourse at all"],
+         "correct": 0,
+         "expl": "\"Mātugāmasaṁyuttaṁ samattaṁ\" — genuinely Sujato-translated, following the untranslated vagga-level material."},
+        {"q": "How many discourses and vaggas make up Mātugāmasaṃyutta in total?",
+         "opts": ["34 discourses across three vaggas", "24 discourses across two vaggas", "50 discourses across five vaggas", "10 discourses across one vagga"],
+         "correct": 0,
+         "expl": "Confirmed by bilara-data and SuttaCentral's own menu API before this saṃyutta's opening discourse, and by this discourse's own uddāna."},
+        {"q": "What subject term does this discourse use, distinct from the \"mātugāmo\" recurring elsewhere in this saṃyutta?",
+         "opts": ["Ariyasāvikā — \"a female noble disciple\"", "Bhikkhunī — \"a nun\"", "Upāsikā — \"a laywoman\"", "The identical term \"mātugāmo\" is used throughout"],
+         "correct": 0,
+         "expl": "A shift in register from the saṃyutta's own recurring subject term to a specifically spiritual designation."},
+    ],
+    marginalia=[
+        ("A different pentad, for the close", [
+            "faith, ethics, learning, generosity, wisdom —",
+            "not the vagga's own worldly powers",
+        ]),
+        ("One term carried through", [
+            "sīla, ethics, in both pentads —",
+            "elevated again at this final close",
+        ]),
+        ("Three endings, nested", [
+            "vagga ordinal, uddāna, then —",
+            "the saṃyutta's own line, genuinely translated",
+        ]),
+        ("34 discourses, complete", [
+            "two mirrored vaggas, then a third —",
+            "worldly powers, then a turn to spiritual growth",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn37.34/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-37.33.html">SN 37.33 &middot; Living With '
+        "Self-Assurance</a> &mdash; the previous discourse.",
+        '<a href="sn-37.14.html">SN 37.14 &middot; Five Threats</a> '
+        "&mdash; already published on this site, opening this "
+        "saṃyutta's own running elevation of ethical conduct that "
+        "this discourse's closing formula continues.",
         '<a href="sn-41.1.html">SN 41.1 &middot; The Fetter</a> '
         "&mdash; already published on this site, standing ahead of "
-        "this saṃyutta's own third and final vagga, Balavagga (SN "
-        "37.25&ndash;34), not yet built.",
+        "this project's next saṃyutta, SN 38, not yet built.",
     ],
 )
