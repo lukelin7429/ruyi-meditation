@@ -9961,3 +9961,513 @@ page_range(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 11. Appamādapeyyālavagga — Abbreviated Texts on Diligence (SN 45.139-148)
+# Confirmed by direct bilara-data reading: this vagga's own controlling
+# discourse (SN 45.139, "The Realized One") is the only one in this vagga to
+# write out, in full, all FOUR closing-formula variants already met across
+# the two Gaṅgāpeyyāla vaggas (base "seclusion/fading/cessation/letting go";
+# "removal of greed, hate, delusion"; "freedom from death"; self-referential
+# extinguishment). Every one of the nine similes that follow (Footprints,
+# Roof Peak, Root, Heartwood, Jasmine, Wheel-Turning Monarch, Moon, Sun,
+# Kāsi Cloth) implicitly repeats the identical fourfold structure, per an
+# explicit source instruction attached to the vagga's own final discourse —
+# "(Yadapi tathāgataṁ, tadapi vitthāretabbaṁ)", "what was elaborated for the
+# Realized One should also be elaborated here" — but the source text itself
+# writes out only the base formula (or, for the heavily merged files, only
+# the bare opening line) before eliding. This reading guide describes that
+# implicit repetition honestly rather than inventing the elided text.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 45.139 — Tathāgatasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 139, "Tathāgata", "The Realized One",
+    vagga="Appamādapeyyālavagga",
+    meta_title="SN 45.139 — The Realized One | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tathāgatasutta &mdash; opening a new vagga on diligence "
+        "and, uniquely in this vagga, writing out all four closing "
+        "formulas already met in full. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One simile (the Realized One as best of all beings), "
+                 "stated four times with four different closing "
+                 "formulas"),
+        ("Length", "2-3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the controlling discourse for this entire "
+                       "vagga"),
+    ],
+    why=(
+        "A new vagga begins, with a new controlling image: not "
+        "rivers, but diligence itself, likened to the Buddha as "
+        "&ldquo;the best of all sentient beings.&rdquo; This "
+        "discourse is the only one in the vagga to spell out, in "
+        "full, all four closing formulas that the nine similes "
+        "following it will each implicitly carry &mdash; confirmed "
+        "by an explicit elaboration instruction attached to this "
+        "vagga's own final discourse."
+    ),
+    guide=[
+        ("Four formulas, one simile, confirmed complete", [
+            "The same simile (the Buddha as best of all beings) is "
+            "stated four separate times, each closing with one of "
+            "the four formulas already met across the two "
+            "Gaṅgāpeyyāla vaggas: the base &ldquo;seclusion, fading "
+            "away, cessation, letting go&rdquo; formula, then "
+            "&ldquo;removal of greed, hate, delusion,&rdquo; then "
+            "&ldquo;freedom from death,&rdquo; then the "
+            "self-referential extinguishment formula &mdash; in "
+            "that order, confirmed by direct reading.",
+        ]),
+        ("This vagga's own template discourse", [
+            "Every simile that follows in this vagga (nine more "
+            "discourses) implicitly repeats this identical fourfold "
+            "structure, but the source text abbreviates them "
+            "&mdash; sometimes to a single formula, sometimes to a "
+            "bare opening line &mdash; confirmed by an explicit "
+            "elaboration instruction found at this vagga's own "
+            "final discourse.",
+        ]),
+    ],
+    terms=[
+        ("tathāgato arahaṁ sammāsambuddho", "&ldquo;the Realized One, "
+             "the perfected one, the fully awakened Buddha&rdquo; "
+             "&mdash; the simile's own subject, said to be best of "
+             "all sentient beings"),
+        ("appamāda", "&ldquo;diligence&rdquo; &mdash; this vagga's "
+             "own controlling theme, replacing the river imagery of "
+             "the two preceding vaggas"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "&ldquo;relying on seclusion, fading away, and "
+             "cessation, ripening as letting go&rdquo; &mdash; the "
+             "base formula, stated first here (Part 1)"),
+        ("rāgavinayapariyosānaṁ... amataogadhaṁ... nibbānaninnaṁ",
+             "the three further formulas (removal of greed/hate/"
+             "delusion; freedom from death; self-referential "
+             "extinguishment), stated here as Parts 2, 3, and 4 "
+             "respectively"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, "
+             "defined identically in all four parts of this "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse, in its own four parts. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "Part 1 &mdash; the base formula", "sn45.139:1.1-1.8"),
+        ("p", "Part 2 &mdash; culminating in the removal of greed, "
+              "hate, and delusion", "sn45.139:2.1-2.6"),
+        ("p", "Part 3 &mdash; whose objective, destination, and "
+              "culmination is freedom from death", "sn45.139:3.1-3.6"),
+        ("p", "Part 4 &mdash; which slants, slopes, and inclines to "
+              "extinguishment", "sn45.139:4.1-4.7"),
+    ],
+    quiz=[
+        {"q": "What makes this discourse structurally unique within this vagga?",
+         "opts": ["It is the only one to write out all four closing formulas in full", "It is the only one without a closing formula", "It uses a river simile, unlike the rest of the vagga", "It is the vagga's own final discourse"],
+         "correct": 0,
+         "expl": "Every other discourse in this vagga abbreviates this fourfold structure, confirmed by an elaboration instruction."},
+        {"q": "What new controlling image replaces the river similes of the two preceding vaggas?",
+         "opts": ["Diligence (appamāda), illustrated first by the Buddha as \"best of all beings\"", "Mountains", "The four elements", "A completely unrelated topic"],
+         "correct": 0,
+         "expl": "This vagga's own name, Appamādapeyyālavagga, names diligence as its controlling theme."},
+        {"q": "In what order do the four closing formulas appear in this discourse?",
+         "opts": ["Base formula, then greed/hate/delusion, then freedom from death, then self-referential extinguishment", "Random order, with no consistent pattern", "Self-referential extinguishment first, then the other three", "Only two of the four formulas actually appear"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this exact order recurs, by implication, in every subsequent discourse of this vagga."},
+    ],
+    marginalia=[
+        ("A new vagga, a new image", [
+            "not rivers now, but diligence —",
+            "the Buddha as best of all beings",
+        ]),
+        ("Four formulas, spelled out in full", [
+            "the only discourse in this vagga to do so —",
+            "confirmed by direct reading",
+        ]),
+        ("A template for nine more discourses", [
+            "each will carry this same structure —",
+            "though heavily abbreviated in the source",
+        ]),
+        ("An elaboration instruction, found ahead", [
+            "\"what was said here, say there too\" —",
+            "confirming the implicit repetition"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.139/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.134-138.html\">SN 45.134&ndash;138 "
+        "&middot; Four Discourses on Slanting to the Ocean, "
+        "Etc.</a> &mdash; the previous page, closing the preceding "
+        "vagga.",
+        "<a href=\"sn-45.140.html\">SN 45.140 &middot; "
+        "Footprints</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.140 — Padasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 140, "Pada", "Footprints",
+    vagga="Appamādapeyyālavagga",
+    meta_title="SN 45.140 — Footprints | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Padasutta &mdash; the second of this vagga's own ten "
+        "similes, abbreviating the fourfold structure to its base "
+        "formula alone. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.139"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One simile, with only the base closing formula "
+                 "written out; the other three implied by elision"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but structurally abbreviated"),
+    ],
+    why=(
+        "An elephant's footprint, said to hold every other footprint "
+        "within it, illustrates diligence exactly as SN 45.139's own "
+        "simile did &mdash; but here only the base formula is "
+        "written out, trailing into an ellipsis the source itself "
+        "leaves for the reader to complete from the previous "
+        "discourse."
+    ),
+    guide=[
+        ("Only the first of four formulas is spelled out here", [
+            "Per SN 45.139's own precedent and the elaboration "
+            "instruction confirmed later in this vagga, this "
+            "discourse implicitly also carries the "
+            "&ldquo;greed/hate/delusion,&rdquo; &ldquo;freedom from "
+            "death,&rdquo; and self-referential formulas &mdash; but "
+            "the source text itself writes out only the base "
+            "formula before an ellipsis, and this reading guide "
+            "does not invent the elided text.",
+        ]),
+    ],
+    terms=[
+        ("hatthipadaṁ", "&ldquo;an elephant's footprint&rdquo; "
+             "&mdash; said in the simile to hold every other "
+             "walking creature's own footprint within it"),
+        ("appamādamūlakā appamādasamosaraṇā", "&ldquo;rooted in "
+             "diligence and meeting at diligence&rdquo; &mdash; the "
+             "shared description applied to all skillful qualities "
+             "throughout this vagga"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "the base formula, the only one of the four written "
+             "out in full here"),
+        ("pe", "the standard bilara-data elision marker, rendered "
+             "as an ellipsis, marking where the other three "
+             "formulas are implied but not written out"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, "
+             "defined identically to SN 45.139's own"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it, including its own trailing ellipsis. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.140:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "How many of the four closing formulas does this discourse write out in full?",
+         "opts": ["Only the base formula (seclusion/fading/cessation/letting go); the rest are implied", "All four, exactly as SN 45.139 did", "None — no formula appears at all", "Only the self-referential formula"],
+         "correct": 0,
+         "expl": "The source itself trails into an ellipsis after the base formula, per this vagga's own established abbreviation pattern."},
+        {"q": "What image does this discourse use to illustrate diligence?",
+         "opts": ["An elephant's footprint, said to hold every other creature's footprint within it", "A river sloping to the ocean", "A mountain peak", "A wheel-turning monarch"],
+         "correct": 0,
+         "expl": "The second of this vagga's own ten similes, following the Realized One simile of SN 45.139."},
+        {"q": "Why doesn't this reading guide supply the missing three formulas in translation?",
+         "opts": ["Because the source itself elides them, and this project does not invent text the source leaves unwritten", "Because they are unknown and lost to history", "Because they don't actually apply to this discourse", "Because they were mistakenly omitted by the translator"],
+         "correct": 0,
+         "expl": "Following this project's own established honest-hedging practice for elided peyyāla content."},
+    ],
+    marginalia=[
+        ("An elephant's footprint holds them all", [
+            "diligence too holds every skillful quality —",
+            "the same claim as the Realized One's own",
+        ]),
+        ("Only the first formula, written out", [
+            "the other three trail into an ellipsis —",
+            "implied, not invented here"
+        ]),
+        ("This vagga's own abbreviation begins", [
+            "SN 45.139 was the exception —",
+            "brevity is the rule from here on"
+        ]),
+        ("Eight more similes to come", [
+            "peak, root, heartwood, flower, monarch —",
+            "moon, sun, and cloth close the vagga"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.140/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.139.html\">SN 45.139 &middot; The Realized "
+        "One</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.141-145.html\">SN 45.141&ndash;145 "
+        "&middot; Five Discourses on Diligence, Etc.</a> &mdash; "
+        "the next page.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 45.141-145 — Five Discourses on Diligence, Etc.
+# --------------------------------------------------------------------------- #
+page_range(
+    45, 141, 145, "Kūṭa",
+    "Five Discourses on Diligence, Etc.",
+    vagga="Appamādapeyyālavagga",
+    meta_title="SN 45.141–145 — Five Discourses on Diligence, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 45.141–145 — five more similes for diligence (a roof "
+        "peak, three fragrances, and a wheel-turning monarch), each "
+        "abbreviated to a bare opening line. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.140"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Five discourses merged under per-discourse "
+                 "sub-prefixes — confirmed by direct check"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "five short entries, each a bare opening line"),
+    ],
+    why=(
+        "Five more similes for diligence &mdash; a roof's own peak, "
+        "the best root, heartwood, and flower among fragrant things, "
+        "and a wheel-turning monarch among lesser kings &mdash; each "
+        "abbreviated in the source to its own opening line alone, "
+        "with an explicit instruction attached to the first "
+        "(&ldquo;tell in full as in the previous discourse&rdquo;) "
+        "confirming the full fourfold structure applies throughout."
+    ),
+    guide=[
+        ("An explicit instruction, confirming the pattern", [
+            "SN 45.141's own text carries a bracketed instruction, "
+            "&ldquo;(Tell in full as in the previous discourse.)"
+            "&rdquo; &mdash; confirming, in the source itself, that "
+            "every discourse below implicitly repeats SN 45.140's "
+            "own base-formula structure, even though only the bare "
+            "opening simile is written out for each one here.",
+        ]),
+    ],
+    terms=[
+        ("kūṭāgārassa", "&ldquo;of a bungalow&rsquo;s [roof]&rdquo; "
+             "&mdash; the rafters all lean to the peak, illustrating "
+             "diligence as the topmost of all skillful qualities"),
+        ("tagaramūlaṁ... lohitacandanaṁ... vassikaṁ", "spikenard "
+             "(best root), red sandalwood (best heartwood), and "
+             "jasmine (best flower) &mdash; three fragrance similes "
+             "in immediate succession"),
+        ("rājā cakkavattī", "&ldquo;a wheel-turning monarch&rdquo; "
+             "&mdash; said to be foremost over all lesser kings, "
+             "closing this block's own five similes"),
+        ("vitthāretabbaṁ purimasuttasadisaṁ", "&ldquo;to be told in "
+             "full, similar to the previous discourse&rdquo; "
+             "&mdash; the source's own explicit elaboration "
+             "instruction, confirming the abbreviation pattern"),
+        ("appamāda", "&ldquo;diligence&rdquo; &mdash; the shared "
+             "theme uniting all five of this block's own similes"),
+    ],
+    text_intro=("Every genuinely translated fragment in this merged "
+        "file, quoted in full including the source's own elaboration "
+        "instruction. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "45.141 &mdash; A Roof Peak", "sn45.141"),
+        ("p", "45.142 &mdash; Fragrant Root", "sn45.142"),
+        ("p", "45.143 &mdash; Fragrant Heartwood", "sn45.143"),
+        ("p", "45.144 &mdash; A Fragrant Flower", "sn45.144"),
+        ("p", "45.145 &mdash; A Wheel-Turning Monarch", "sn45.145"),
+    ],
+    quiz=[
+        {"q": "What does SN 45.141's own bracketed instruction confirm?",
+         "opts": ["That every discourse in this block implicitly repeats the previous discourse's own full structure", "That this discourse has no relationship to the ones before it", "That the roof-peak simile is unrelated to diligence", "That the text is corrupted and unreadable"],
+         "correct": 0,
+         "expl": "Confirmed directly from the source's own elaboration instruction."},
+        {"q": "What five images does this block use to illustrate diligence?",
+         "opts": ["A roof's peak, spikenard root, sandalwood heartwood, jasmine flower, and a wheel-turning monarch", "Five different rivers", "Five different mountains", "Five unrelated ethical precepts"],
+         "correct": 0,
+         "expl": "Each said to be foremost within its own category, just as diligence is foremost among skillful qualities."},
+        {"q": "How many discourses remain to complete this vagga after this page?",
+         "opts": ["Three — the Moon, the Sun, and Cloth from Kāsi, closing the vagga", "None — this page is the last", "Ten more discourses", "This block itself is not part of the vagga"],
+         "correct": 0,
+         "expl": "SN 45.146-148 will close this vagga's own ten discourses."},
+    ],
+    marginalia=[
+        ("Five similes, one instruction", [
+            "\"tell in full as before\" —",
+            "confirming the pattern holds throughout",
+        ]),
+        ("A peak, three fragrances, a monarch", [
+            "each foremost in its own category —",
+            "diligence foremost among skillful qualities",
+        ]),
+        ("Seven of ten discourses now behind", [
+            "three similes remain —",
+            "moon, sun, and cloth close the vagga",
+        ]),
+        ("Brevity as the rule, confirmed by instruction", [
+            "not laziness in the source —",
+            "an explicit elaboration note instead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.141-145/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.140.html\">SN 45.140 &middot; "
+        "Footprints</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.146-148.html\">SN 45.146&ndash;148 "
+        "&middot; The Moon, Etc.</a> &mdash; the next page, closing "
+        "this vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.146-148 — The Moon, Etc. (vagga close)
+# --------------------------------------------------------------------------- #
+page_range(
+    45, 146, 148, "Candimādi", "The Moon, Etc.",
+    vagga="Appamādapeyyālavagga",
+    meta_title="SN 45.146–148 — The Moon, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 45.146–148 — closing the Appamādapeyyālavagga with the "
+        "moon, the sun, and cloth from Kāsi, plus this vagga's own "
+        "colophon and uddāna. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.145"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Three discourses merged under a single unified key "
+                 "prefix, closing this vagga's own ten discourses"),
+        ("Length", "&lt;1 minute to read, plus a described (not "
+                   "translated) colophon and uddāna"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "closes this vagga's own ten discourses"),
+    ],
+    why=(
+        "The moon (unmatched among the stars), the sun (dispelling "
+        "autumn darkness), and cloth from Kāsi (the finest weave) "
+        "close this vagga's own ten similes for diligence &mdash; "
+        "the final discourse also carries the source's own explicit "
+        "instruction confirming the fourfold formula structure "
+        "applies throughout, plus a closing colophon naming all ten "
+        "discourses by their own similes."
+    ),
+    guide=[
+        ("An explicit instruction, confirmed at the vagga's own close", [
+            "The Pāli root text attached to SN 45.148 (Cloth from "
+            "Kāsi) reads, in this project's own description rather "
+            "than invented translation: &ldquo;what was elaborated "
+            "for the Realized One should also be elaborated "
+            "here&rdquo; &mdash; the single clearest confirmation in "
+            "this vagga that all nine similes following SN 45.139 "
+            "implicitly carry its own full fourfold structure.",
+        ]),
+        ("A colophon this project can describe with confidence", [
+            "Unlike the ambiguous numbering line closing the "
+            "preceding Dutiyagaṅgāpeyyālavagga, this vagga's own "
+            "closing uddāna is a straightforward list of its own ten "
+            "discourse-topics in order &mdash; the Realized One, "
+            "Footprint, Peak, Root, Heartwood, Jasmine; the Monarch, "
+            "Moon and Sun; with Cloth as the tenth &mdash; and this "
+            "project describes it accordingly, without inventing a "
+            "poetic English rendering the source itself does not "
+            "supply.",
+        ]),
+    ],
+    terms=[
+        ("candimappabhā... ādicco... kāsikavatthaṁ", "the moon's "
+             "radiance, the autumn sun, and cloth from Kāsi &mdash; "
+             "this block's own three closing similes"),
+        ("aṭṭhamaṁ... navamaṁ... dasamaṁ", "&ldquo;the eighth... the "
+             "ninth... the tenth&rdquo; &mdash; the Pāli root's own "
+             "numbering of these three discourses within the "
+             "vagga's own full set of ten"),
+        ("appamādavaggo pañcamo", "&ldquo;the Diligence Chapter, the "
+             "fifth&rdquo; &mdash; an internal numbering note whose "
+             "exact scope this project does not confidently "
+             "interpret, left described rather than explained"),
+        ("tassuddānaṁ", "&ldquo;its summary verse&rdquo; &mdash; "
+             "introducing the closing uddāna, here a plain list of "
+             "this vagga's own ten discourse-topics"),
+        ("appamādamūlakā appamādasamosaraṇā", "&ldquo;rooted in "
+             "diligence and meeting at diligence&rdquo; &mdash; the "
+             "description shared by every discourse across this "
+             "entire vagga"),
+    ],
+    text_intro=("Every genuinely translated fragment in this merged "
+        "file, quoted in full, closing the Appamādapeyyālavagga. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "45.146 &mdash; The Moon", "sn45.146-148:1.1-1.3"),
+        ("p", "45.147 &mdash; The Sun", "sn45.146-148:2.1-2.3"),
+        ("p", "45.148 &mdash; Cloth from Kāsi", "sn45.146-148:3.1-3.10"),
+    ],
+    quiz=[
+        {"q": "What does the instruction attached to SN 45.148 confirm about this entire vagga?",
+         "opts": ["That every simile following SN 45.139 implicitly carries its own full fourfold formula structure", "That only SN 45.148 itself carries the fourfold structure", "That the fourfold structure was abandoned after SN 45.140", "Nothing — the instruction is unrelated to formula structure"],
+         "correct": 0,
+         "expl": "The clearest confirmation in the vagga, attached to its own final discourse."},
+        {"q": "How does this reading guide handle the closing uddāna, compared to the preceding vagga's own ambiguous numbering line?",
+         "opts": ["Describes it confidently, since it is a plain list of already-translated discourse-topics", "Invents a poetic English translation not found in the source", "Skips mentioning it entirely", "Treats it with the same uncertainty as the previous vagga's own line"],
+         "correct": 0,
+         "expl": "This uddāna is structurally simple — a topic list — unlike the numeric puzzle closing Dutiyagaṅgāpeyyālavagga."},
+        {"q": "What does this page complete?",
+         "opts": ["The entire Appamādapeyyālavagga — this vagga's own ten discourses", "Only three of the ten required discourses, with more still to come", "The entire Magga-saṃyutta", "A single individual discourse"],
+         "correct": 0,
+         "expl": "Confirmed by the closing colophon's own count and the following vagga's new heading, \"12. Hard Work.\""},
+    ],
+    marginalia=[
+        ("Moon, sun, and the finest cloth", [
+            "each foremost in its own domain —",
+            "diligence foremost among skillful qualities",
+        ]),
+        ("The clearest instruction in the vagga", [
+            "\"elaborate here as for the Realized One\" —",
+            "confirming this vagga's own fourfold pattern",
+        ]),
+        ("A colophon this project can name with confidence", [
+            "ten topics, plainly listed —",
+            "no numeric puzzle to leave undeciphered",
+        ]),
+        ("Ten discourses, one vagga, complete", [
+            "diligence as this vagga's own thread —",
+            "\"Hard Work\" opens the next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.146-148/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.141-145.html\">SN 45.141&ndash;145 "
+        "&middot; Five Discourses on Diligence, Etc.</a> &mdash; "
+        "the previous page.",
+        "<a href=\"index.html\">Saṁyutta Nikāya index</a> &mdash; "
+        "the next vagga, Balakaraṇīyavagga (\"Hard Work\"), is "
+        "still in preparation.",
+    ],
+)
