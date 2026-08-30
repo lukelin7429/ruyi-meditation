@@ -45997,3 +45997,162 @@ page_range(
         "eightfold path.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 49.45-54 — Oghādisutta
+# The final discourse of Vagga 5 (Oghavagga) AND of the entire
+# Sammappadhānasaṁyutta itself, confirmed by this file's own closing
+# colophon, "Sammappadhānasaṁyuttaṁ pañcamaṁ" ("the Right-Efforts-
+# Saṁyutta is the fifth"). Mirrors SN 48.115-124's and SN
+# 48.169-178's own higher-fetters discourse almost exactly, applied
+# here to the four right efforts. Unlike SN 48's own final
+# discourse, whose vagga-level colophon read "the seventeenth"
+# against this project's own tracked count of fifteen, this file's
+# own vagga colophon ("Oghavaggo pañcamo," "the fifth") matches this
+# project's own count of five vaggas exactly -- confirmed, not a
+# discrepancy this time.
+# --------------------------------------------------------------------------- #
+page_range(
+    49, 45, 54, "Oghādi", "Floods, Etc.",
+    vagga="Oghavagga",
+    meta_title="SN 49.45–54 — Floods, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 49.45–54 — the closing discourse of the entire "
+        "Sammappadhānasaṁyutta, the five higher fetters given in "
+        "full. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this book's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "One discourse given in full, closing both this "
+                 "vagga and the entire saṃyutta"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes the entire "
+                         "Sammappadhānasaṁyutta (SN 49) at 54 "
+                         "discourses, confirmed by this file's own "
+                         "closing colophon"),
+    ],
+    why=(
+        "This discourse closes not only Vagga 5 (Oghavagga) but the "
+        "entire Sammappadhānasaṁyutta itself, confirmed by this "
+        "file's own final closing line: &ldquo;Sammappadhānasaṁyuttaṁ "
+        "pañcamaṁ&rdquo; (&ldquo;the Right-Efforts-Saṁyutta is the "
+        "fifth&rdquo;). Unlike SN 48's own final discourse, whose own "
+        "vagga-level colophon carried a genuine, unresolved "
+        "discrepancy, this file's own vagga colophon (&ldquo;the "
+        "fifth&rdquo;) matches this project's own tracked count of "
+        "five vaggas exactly."
+    ),
+    guide=[
+        ("The final discourse, confirmed by its own closing words", [
+            "Confirmed by direct reading, this file's own closing "
+            "line states plainly that the Sammappadhānasaṁyutta is "
+            "&ldquo;the fifth&rdquo; &mdash; a book-level closing "
+            "marker, ending this saṃyutta's own 54-discourse span "
+            "(SN 49.1 through SN 49.54) begun at this project's own "
+            "earlier work on SN 49.1.",
+        ]),
+        ("The five higher fetters, once more", [
+            "Mirroring SN 48.115-124 and SN 48.169-178's own higher-"
+            "fetters discourse almost word for word, this discourse "
+            "gives the five higher fetters (desire for the form and "
+            "formless realms, conceit, restlessness, ignorance) in "
+            "full, now developed by the four right efforts rather "
+            "than the five faculties.",
+        ]),
+        ("A count that matches, unlike SN 48's own final discrepancy", [
+            "This project's own explicit observation: this file's "
+            "own vagga-level colophon, &ldquo;Oghavaggo "
+            "pañcamo&rdquo; (&ldquo;the Floods chapter, the "
+            "fifth&rdquo;), matches this project's own direct "
+            "tracking of five vaggas across SN 49.1-54 exactly "
+            "&mdash; unlike SN 48's own final discourse, whose own "
+            "colophon read &ldquo;the seventeenth&rdquo; against a "
+            "tracked count of fifteen, a genuine discrepancy reported "
+            "there without resolution.",
+        ]),
+    ],
+    terms=[
+        ("uddhambhāgiyāni saṁyojanāni", "&ldquo;the higher "
+             "fetters&rdquo; &mdash; identical to SN 48.115-124's and "
+             "SN 48.169-178's own content, repeated here to close "
+             "this saṃyutta"),
+        ("cattāro sammappadhānā bhāvetabbā", "&ldquo;the four right "
+             "efforts should be developed&rdquo; &mdash; this "
+             "saṃyutta's own governing subject, closing its own "
+             "final discourse"),
+        ("Vitthāretabbā", "&ldquo;to be elaborated&rdquo; &mdash; the "
+             "root Pāli's own generic cross-reference; only the "
+             "English source specifies &ldquo;as in SN "
+             "45.171&ndash;179, with the above as the final "
+             "discourse&rdquo;"),
+        ("Oghavaggo pañcamo", "&ldquo;the Floods chapter, the "
+             "fifth&rdquo; &mdash; this file's own vagga-level "
+             "colophon, matching this project's own count exactly"),
+        ("Sammappadhānasaṁyuttaṁ pañcamaṁ", "&ldquo;the "
+             "Right-Efforts-Saṁyutta is the fifth&rdquo; &mdash; this "
+             "file's own final closing line, ending the entire "
+             "saṃyutta at 54 discourses"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source: the full closing discourse on the "
+        "higher fetters, the closing uddāna, and the saṃyutta's own "
+        "final closing line. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn49.45-54:1.1-1.9"),
+        ("p", "Cross-reference", "sn49.45-54:1.10"),
+        ("p", "Uddāna", "sn49.45-54:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What does this file's own final closing line confirm?",
+         "opts": ["That the entire Sammappadhānasaṁyutta (SN 49) ends here, at 54 discourses, marked as \"the fifth\"", "That only this single vagga ends here, with the saṃyutta continuing", "That a new saṃyutta begins immediately after this discourse", "That this discourse is unrelated to any larger structural unit"],
+         "correct": 0,
+         "expl": "\"Sammappadhānasaṁyuttaṁ pañcamaṁ\" — a book-level closing marker, ending the saṃyutta."},
+        {"q": "How does this file's own vagga-level colophon compare to SN 48's own final discourse?",
+         "opts": ["It matches this project's own tracked count of five vaggas exactly, unlike SN 48's own genuine discrepancy (\"seventeenth\" vs. fifteen tracked)", "It carries the identical discrepancy SN 48's own final discourse had", "It gives no vagga number at all", "It contradicts this project's own count by an even larger margin than SN 48 did"],
+         "correct": 0,
+         "expl": "\"Oghavaggo pañcamo\" (the fifth) — confirmed, not a discrepancy this time."},
+        {"q": "What genuine Pāli/English difference does this discourse's own cross-reference carry?",
+         "opts": ["The Pāli root is generic (\"to be elaborated\"), while only the English source names SN 45.171-179 specifically", "The English source gives no cross-reference at all", "Both texts agree exactly, word for word", "The Pāli names a saṃyutta the English source does not mention"],
+         "correct": 0,
+         "expl": "Matching the pattern already noted at SN 49.35-44 — reported honestly, not harmonized."},
+    ],
+    marginalia=[
+        ("The saṃyutta's own final word", [
+            "Sammappadhānasaṁyuttaṁ pañcamaṁ, stated plainly —",
+            "54 discourses, now complete"
+        ]),
+        ("The same fetters, closing a second saṃyutta", [
+            "form-realm, formless-realm, conceit, restlessness, ignorance —",
+            "now developed by the four right efforts"
+        ]),
+        ("A count that matches, this time", [
+            "\"the fifth,\" and five vaggas tracked —",
+            "no discrepancy to report here"
+        ]),
+        ("A short saṃyutta, closed cleanly", [
+            "from SN 49.1 to this final page —",
+            "the Right-Efforts-Saṁyutta, done"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn49.45-54/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-49.35-44.html\">SN 49.35&ndash;44 &middot; "
+        "Ten Discourses on Searches, Etc.</a> &mdash; the previous "
+        "page, closing Vagga 4.",
+        "<a href=\"sn-48.169-178.html\">SN 48.169&ndash;178 "
+        "&middot; Another Series on Floods, Etc.</a> &mdash; this "
+        "project's own earlier, structurally identical discourse on "
+        "the higher fetters, closing the Indriyasaṁyutta.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Sammappadhānasaṁyutta is now complete; the next "
+        "saṃyutta in this book is still in preparation.",
+    ],
+)
