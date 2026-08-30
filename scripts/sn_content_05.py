@@ -46156,3 +46156,174 @@ page_range(
         "saṃyutta in this book is still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 50 (Balasaṁyutta, "Linked Discourses on the Powers") -- confirmed
+# by direct bilara-data listing to be structured much like SN 48
+# (Indriyasaṁyutta): ten merged files (50.1-12 through 50.99-108),
+# suggesting roughly double SN 49's own scale -- to be confirmed
+# vagga by vagga, not assumed from the file count alone. This
+# saṃyutta's own subject, the five powers (pañca balāni -- faith,
+# energy, mindfulness, immersion, wisdom), are the identical five
+# qualities already met throughout SN 48 as the five faculties
+# (indriya): the same qualities named differently depending on
+# whether they are still developing (indriya) or have become
+# unshakable (bala), a classic doctrinal pairing this project has
+# not yet treated as its own dedicated saṃyutta.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 50.1-12 — Balādisutta (merged peyyāla range)
+# Opens Vagga 1 (Gaṅgāpeyyālavagga), confirmed by direct reading to
+# reuse the identical river-simile formula already met at SN
+# 45.91-102, SN 48.71-82, and SN 49.1-12 -- now for the five powers.
+# Unlike SN 49.1-12's own fuller opening (full definition, full
+# simile, then cross-reference), this file gives the full worked
+# example directly through to its own closing colophon and uddāna,
+# with no separate cross-reference sentence -- confirmed by direct
+# reading, not assumed identical to SN 49's own structure.
+# --------------------------------------------------------------------------- #
+page_range(
+    50, 1, 12, "Balādi", "Sloping East, Etc.",
+    vagga="Gaṅgāpeyyālavagga",
+    meta_title="SN 50.1–12 — Sloping East, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 50.1–12 — the Ganges river simile, opening the Linked "
+        "Discourses on the Powers, twelve discourses merged into a "
+        "single bilara-data file. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this book's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "The five powers defined in full, then a river "
+                 "simile, twelve discourses merged into a single "
+                 "bilara-data file"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; opens a new saṃyutta whose own "
+                         "five qualities are identical to SN 48's "
+                         "own five faculties, named differently"),
+    ],
+    why=(
+        "This discourse opens the Balasaṁyutta (&ldquo;Linked "
+        "Discourses on the Powers&rdquo;), a saṃyutta this project "
+        "has not yet treated in its own right. Its own five powers "
+        "&mdash; faith, energy, mindfulness, immersion, and wisdom "
+        "&mdash; are the identical five qualities this project has "
+        "already worked through in full at SN 48 as the five "
+        "faculties (indriya): the same qualities, named "
+        "&ldquo;powers&rdquo; (bala) rather than &ldquo;"
+        "faculties&rdquo; in this classic doctrinal pairing."
+    ),
+    guide=[
+        ("Five faculties, five powers, one set of qualities", [
+            "As general canonical background, confirmed by direct "
+            "comparison with this project's own SN 48: the "
+            "traditional distinction between indriya "
+            "(&ldquo;faculty&rdquo;) and bala (&ldquo;power&rdquo;) "
+            "is not a difference in content but in function &mdash; "
+            "the same five qualities (faith, energy, mindfulness, "
+            "immersion, wisdom) are called faculties while still "
+            "developing and powers once they become unshakable by "
+            "their own opposites.",
+        ]),
+        ("A formula met four times, now for the powers", [
+            "Confirmed by direct comparison, this vagga's own river "
+            "simile is identical in structure to SN 45.91-102 (there "
+            "for the eightfold path), SN 48.71-82 (five faculties), "
+            "and SN 49.1-12 (four right efforts), now reused for the "
+            "five powers &mdash; the fourth quality set this project "
+            "has now met this exact formula applied to.",
+        ]),
+        ("A single continuous file, unlike SN 49.1-12's own structure", [
+            "This project's own observation: unlike SN 49.1-12, "
+            "which gave its own full worked example followed by a "
+            "separate cross-reference sentence for the remaining "
+            "discourses, this file runs its own worked example "
+            "straight through to its own closing colophon "
+            "(&ldquo;Gaṅgāpeyyālavaggo paṭhamo&rdquo;) and uddāna, "
+            "with no distinct cross-reference sentence of its own "
+            "&mdash; confirmed by direct reading, not assumed "
+            "uniform with SN 49's own opening structure.",
+        ]),
+    ],
+    terms=[
+        ("pañca balāni", "&ldquo;the five powers&rdquo; &mdash; this "
+             "saṃyutta's own governing subject, identical to the "
+             "five faculties already met throughout SN 48"),
+        ("saddhābalaṁ, vīriyabalaṁ, satibalaṁ, samādhibalaṁ, "
+         "paññābalaṁ", "the five powers named individually: faith, "
+             "energy, mindfulness, immersion, and wisdom"),
+        ("gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā", "&ldquo;the "
+             "Ganges river slants, slopes, and inclines to the "
+             "east&rdquo; &mdash; the identical simile already met "
+             "three times before, at SN 45.91-102, SN 48.71-82, and "
+             "SN 49.1-12"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ "
+         "vossaggapariṇāmiṁ", "&ldquo;relying on seclusion, fading "
+             "away, and cessation, ripening as letting go&rdquo; "
+             "&mdash; the closing formula for each power's own "
+             "development"),
+        ("Gaṅgāpeyyālavaggo paṭhamo", "&ldquo;the Ganges "
+             "Abbreviated-Texts chapter, the first&rdquo; &mdash; "
+             "this file's own closing colophon, confirming this as "
+             "SN 50's own first vagga"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn50.1-12:1.1-1.13"),
+        ("p", "Uddāna", "sn50.1-12:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How do the five powers relate to the five faculties this project already met at SN 48?",
+         "opts": ["They are the identical five qualities, named differently depending on whether they are still developing (faculties) or have become unshakable (powers)", "They are five entirely different qualities with no relationship to the faculties", "The powers are a subset of only two of the five faculties", "The powers apply only to lay practitioners, the faculties only to mendicants"],
+         "correct": 0,
+         "expl": "A classic doctrinal pairing: same content, different function-based names."},
+        {"q": "How many times has this project now met this exact river-simile formula, including this discourse?",
+         "opts": ["Four times: SN 45.91-102, SN 48.71-82, SN 49.1-12, and this discourse", "Only this once, with no prior instances", "Twice, with this being the second", "This formula has never appeared before in this project's own work"],
+         "correct": 0,
+         "expl": "Reused across four different quality sets: eightfold path, five faculties, four right efforts, five powers."},
+        {"q": "How does this file's own structure differ from SN 49.1-12's own opening?",
+         "opts": ["It runs the worked example straight through to its own colophon and uddāna, with no separate cross-reference sentence", "It is a bare cross-reference with no worked example at all", "It is identical in every structural respect to SN 49.1-12", "It gives twelve separate worked examples instead of one"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading, not assumed uniform with SN 49's own structure."},
+    ],
+    marginalia=[
+        ("Same five, a different name", [
+            "faculties while still growing —",
+            "powers once nothing can shake them"
+        ]),
+        ("A formula met a fourth time", [
+            "path, faculties, right efforts, now powers —",
+            "one river, four quality sets"
+        ]),
+        ("No separate pointer this time", [
+            "the worked example runs straight to its own close —",
+            "not split off into its own cross-reference line"
+        ]),
+        ("First vagga, confirmed by its own colophon", [
+            "Gaṅgāpeyyālavaggo paṭhamo, stated plainly —",
+            "this saṃyutta's own first twelve discourses"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn50.1-12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-49.45-54.html\">SN 49.45&ndash;54 &middot; "
+        "Floods, Etc.</a> &mdash; the previous page, closing the "
+        "Sammappadhānasaṁyutta.",
+        "<a href=\"sn-48.71-82.html\">SN 48.71&ndash;82 &middot; "
+        "Slanting East, Etc.</a> &mdash; this project's own earlier "
+        "encounter with the identical river simile, there for the "
+        "five faculties.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
