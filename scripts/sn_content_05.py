@@ -36518,3 +36518,155 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.21 — Punabbhavasutta
+# Opens 3. Chaḷindriyavagga ("The Six Faculties") — though this first
+# discourse's own content lists only the standard FIVE faculties, not
+# six. Confirmed by direct reading: this is a genuine discrepancy
+# between the vagga's own name and this opening discourse's own
+# content, not resolved here by guesswork; later discourses in this
+# vagga may account for it.
+# --------------------------------------------------------------------------- #
+page(
+    48, 21, "Punabbhava", "Future Lives",
+    vagga="Chaḷindriyavagga",
+    meta_title="SN 48.21 — Future Lives | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Punabbhavasutta, opening the Chaḷindriyavagga — the "
+        "Buddha's own testimony that he withheld announcing his "
+        "awakening until he truly understood the five faculties' own "
+        "origin, disappearance, gratification, drawback, and escape. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly, "
+                     "in the first person about his own awakening"),
+        ("Form", "A first-person testimony, closing with the classic "
+                 "post-awakening knowledge-and-vision utterance"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; opens a new vagga with the "
+                         "Buddha's own direct testimony, and shows a "
+                         "genuine, unresolved discrepancy between the "
+                         "vagga's own name and this discourse's own "
+                         "content"),
+    ],
+    why=(
+        "This discourse opens Chaḷindriyavagga (&ldquo;The Six "
+        "Faculties&rdquo;) with the Buddha's own first-person "
+        "testimony: he did not announce his supreme perfect "
+        "awakening until he truly understood the five faculties' own "
+        "origin, disappearance, gratification, drawback, and escape "
+        "&mdash; yet this opening discourse itself names only the "
+        "standard FIVE faculties, not six, a discrepancy this "
+        "project's own honest reading declines to resolve by "
+        "guesswork."
+    ),
+    guide=[
+        ("A vagga name that doesn't yet match its own content", [
+            "Confirmed by direct reading, this vagga's own Pāli name "
+            "&mdash; Chaḷindriyavagga, &ldquo;the vagga of the SIX "
+            "faculties&rdquo; &mdash; does not match this opening "
+            "discourse's own content, which lists the same standard "
+            "FIVE faculties (faith, energy, mindfulness, immersion, "
+            "wisdom) met throughout this saṃyutta so far. This "
+            "project's own honest practice is to report this "
+            "discrepancy plainly rather than guess at a resolution; "
+            "a sixth faculty may appear in a later discourse of this "
+            "vagga.",
+        ]),
+        ("The Buddha's own testimony: withholding the proclamation", [
+            "Confirmed by direct reading, this discourse has the "
+            "Buddha speak in the first person about his own path to "
+            "awakening: he states plainly that he did NOT announce "
+            "his &ldquo;supreme perfect awakening&rdquo; "
+            "(anuttaraṁ sammāsambodhiṁ) to the world until he had "
+            "truly understood the five faculties through a specific "
+            "fivefold analytical lens.",
+        ]),
+        ("The classic fivefold lens, and the classic closing utterance", [
+            "Confirmed by direct reading, the analytical lens applied "
+            "here &mdash; origin, disappearance, gratification, "
+            "drawback, and escape (samudaya, atthaṅgama, assāda, "
+            "ādīnava, nissaraṇa) &mdash; is a classic formula this "
+            "project has met applied to other subjects elsewhere in "
+            "the canon; and the discourse closes with the equally "
+            "classic post-awakening utterance &mdash; &ldquo;my "
+            "freedom is unshakable; this is my last rebirth; now "
+            "there'll be no more future lives&rdquo; &mdash; which "
+            "gives this discourse its own title, Punabbhava "
+            "(&ldquo;future lives&rdquo;).",
+        ]),
+    ],
+    terms=[
+        ("Chaḷindriyavagga", "&ldquo;the vagga of the six "
+             "faculties&rdquo; &mdash; the vagga's own Pāli name, "
+             "not yet matched by this opening discourse's own "
+             "content, which lists only five"),
+        ("samudayañca atthaṅgamañca assādañca ādīnavañca "
+             "nissaraṇañca", "&ldquo;origin, disappearance, "
+             "gratification, drawback, and escape&rdquo; &mdash; the "
+             "classic fivefold analytical lens applied here to the "
+             "five faculties"),
+        ("anuttaraṁ sammāsambodhiṁ abhisambuddho", "&ldquo;awakened "
+             "to the supreme perfect awakening&rdquo; &mdash; what "
+             "the Buddha withheld announcing until he understood"),
+        ("akuppā me vimutti", "&ldquo;my freedom is "
+             "unshakable&rdquo; &mdash; part of the classic "
+             "post-awakening knowledge-and-vision utterance"),
+        ("natthi dāni punabbhavo", "&ldquo;now there'll be no more "
+             "future lives&rdquo; &mdash; giving this discourse its "
+             "own title, Punabbhava"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.21:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What discrepancy does this discourse's own opening reveal?",
+         "opts": ["The vagga is named \"The Six Faculties\" but this discourse itself lists only the standard five", "The discourse claims there are only four faculties, not five", "The vagga name and content match perfectly, with six faculties both named", "The discourse denies that the five faculties exist at all"],
+         "correct": 0,
+         "expl": "A genuine, unresolved discrepancy this project reports honestly rather than guessing at."},
+        {"q": "What did the Buddha say he withheld until he truly understood the five faculties?",
+         "opts": ["The announcement of his supreme perfect awakening to the world", "The names of the five faculties themselves", "Permission for mendicants to practice meditation", "The location of his own awakening"],
+         "correct": 0,
+         "expl": "A first-person testimony about the condition for his own proclamation."},
+        {"q": "What classic utterance closes this discourse, and what title does it give?",
+         "opts": ["\"Now there'll be no more future lives\" — giving the discourse its own title, Punabbhava", "\"May all beings be happy\" — a standard closing blessing", "A question posed to the assembled mendicants", "The vagga's own colophon, Chaḷindriyavaggo"],
+         "correct": 0,
+         "expl": "The classic post-awakening knowledge-and-vision formula, naming this discourse \"Future Lives.\""},
+    ],
+    marginalia=[
+        ("Six promised, five given", [
+            "Chaḷindriyavagga — the six faculties —",
+            "yet this discourse names only five"
+        ]),
+        ("Before the proclamation", [
+            "not yet understood, not yet announced —",
+            "the Buddha's own condition for awakening"
+        ]),
+        ("Origin, disappearance, gratification, drawback, escape", [
+            "a classic fivefold lens, met before elsewhere —",
+            "now turned upon the five faculties themselves"
+        ]),
+        ("No more future lives", [
+            "unshakable freedom, the last rebirth —",
+            "the discourse's own title, spoken at its close"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.21/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.20.html\">SN 48.20 &middot; The Ending of "
+        "Defilements</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
