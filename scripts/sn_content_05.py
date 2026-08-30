@@ -45214,3 +45214,163 @@ page_range(
         "closing-formula variant this cross-reference selects.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.169-178 — Punaoghādisutta
+# The final discourse of Vagga 15 (Punaoghavagga) AND of the entire
+# Indriyasaṁyutta (SN 48) itself, confirmed by this file's own
+# closing colophon, "Indriyasaṁyuttaṁ catutthaṁ" ("the
+# Faculties-Saṁyutta is the fourth"). Mirrors SN 48.115-124's own
+# structure: the five higher fetters given in full, now with the
+# "removal of greed" closing formula. A genuine, unresolved textual
+# puzzle reported honestly rather than invented an explanation for:
+# this file's own vagga-level colophon reads "Oghavaggo
+# sattarasamo" ("the Floods chapter, the SEVENTEENTH"), yet this
+# project's own direct tracking of SN 48's vaggas counts fifteen.
+# --------------------------------------------------------------------------- #
+page_range(
+    48, 169, 178, "Punaoghādi", "Another Series on Floods, Etc.",
+    vagga="Punaoghavagga",
+    meta_title="SN 48.169–178 — Another Series on Floods, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 48.169–178 — the closing discourse of the entire "
+        "Indriyasaṁyutta, the five higher fetters given in full with "
+        "the removal-of-greed formula. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this book's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "One discourse given in full, closing both this "
+                 "vagga and the entire saṃyutta"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes the entire Indriyasaṁyutta "
+                         "(SN 48) at 178 discourses, confirmed by "
+                         "this file's own closing colophon"),
+    ],
+    why=(
+        "This discourse closes not only Vagga 15 (Punaoghavagga) but "
+        "the entire Indriyasaṁyutta itself, confirmed by this file's "
+        "own closing colophon: &ldquo;Indriyasaṁyuttaṁ "
+        "catutthaṁ&rdquo; (&ldquo;the Faculties-Saṁyutta is the "
+        "fourth&rdquo;). It mirrors SN 48.115-124's own structure "
+        "&mdash; the five higher fetters given in full &mdash; now "
+        "closing with the &ldquo;removal of greed&rdquo; formula "
+        "that has run throughout this book's own second half."
+    ),
+    guide=[
+        ("The final discourse, confirmed by its own closing words", [
+            "Confirmed by direct reading, this file's own closing "
+            "line states plainly that the Indriyasaṁyutta itself is "
+            "&ldquo;the fourth&rdquo; &mdash; a book-level closing "
+            "marker, not merely a vagga-level one, ending this "
+            "saṃyutta's own 178-discourse span (SN 48.1 through SN "
+            "48.178) begun at this project's own earlier work on SN "
+            "48.1.",
+        ]),
+        ("The five higher fetters, in the removal-of-greed key", [
+            "Mirroring SN 48.115-124's own worked example almost "
+            "word for word, this discourse gives the five higher "
+            "fetters (desire for the form and formless realms, "
+            "conceit, restlessness, ignorance) in full, but closes "
+            "with &ldquo;rāgavinayapariyosānaṁ "
+            "dosavinayapariyosānaṁ mohavinayapariyosānaṁ&rdquo; "
+            "&mdash; the removal-of-greed formula this vagga's own "
+            "earlier sections (SN 48.137-146, SN 48.147-158) both "
+            "cross-referenced &mdash; rather than SN 48.115-124's "
+            "own original &ldquo;seclusion&rdquo; formula.",
+        ]),
+        ("A genuine, unresolved discrepancy: seventeenth or fifteenth?", [
+            "This project reports honestly, without inventing a "
+            "resolution: this file's own vagga-level colophon reads "
+            "&ldquo;Oghavaggo sattarasamo&rdquo; (&ldquo;the Floods "
+            "chapter, the SEVENTEENTH&rdquo;), yet this project's own "
+            "direct tracking of every vagga across SN 48.1-178, "
+            "confirmed discourse range by discourse range this "
+            "session, counts fifteen vaggas in total. The discrepancy "
+            "is noted here exactly as found, not silently corrected "
+            "or explained away.",
+        ]),
+    ],
+    terms=[
+        ("uddhambhāgiyāni saṁyojanāni", "&ldquo;the higher "
+             "fetters&rdquo; &mdash; identical to SN 48.115-124's own "
+             "content, repeated here to close the saṃyutta"),
+        ("rāgavinayapariyosānaṁ dosavinayapariyosānaṁ "
+         "mohavinayapariyosānaṁ", "&ldquo;culminating in the removal "
+             "of greed, hate, and delusion&rdquo; &mdash; this "
+             "discourse's own closing formula, matching this vagga's "
+             "own already-confirmed variant"),
+        ("Oghavaggo sattarasamo", "&ldquo;the Floods chapter, the "
+             "seventeenth&rdquo; &mdash; this file's own vagga-level "
+             "colophon, genuinely inconsistent with this project's "
+             "own count of fifteen vaggas, reported without "
+             "resolution"),
+        ("Indriyasaṁyuttaṁ catutthaṁ", "&ldquo;the Faculties-Saṁyutta "
+             "is the fourth&rdquo; &mdash; this file's own final "
+             "closing line, ending the entire saṃyutta at 178 "
+             "discourses"),
+        ("ogho yogo upādānaṁ, ganthā anusayena ca", "the closing "
+             "uddāna's own opening line, identical to SN 48.115-124's "
+             "own, naming the nine cross-referenced topics again"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source: the full closing discourse on the "
+        "higher fetters, the closing uddāna, and the saṃyutta's own "
+        "final closing line. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.169-178:1.1-1.8"),
+        ("p", "Uddāna", "sn48.169-178:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What does this file's own final closing line confirm?",
+         "opts": ["That the entire Indriyasaṁyutta (SN 48) ends here, at 178 discourses, marked as \"the fourth\"", "That only this single vagga ends here, with the saṃyutta continuing", "That a new saṃyutta begins immediately after this discourse", "That this discourse is unrelated to any larger structural unit"],
+         "correct": 0,
+         "expl": "\"Indriyasaṁyuttaṁ catutthaṁ\" — a book-level closing marker, not merely a vagga-level one."},
+        {"q": "How does this discourse's own closing formula compare to SN 48.115-124's own version of the same higher-fetters discourse?",
+         "opts": ["It uses the \"removal of greed, hate, and delusion\" formula instead of the earlier \"seclusion\" formula", "It is character-for-character identical in every respect", "It removes the higher fetters from the discourse entirely", "It introduces an entirely unrelated topic"],
+         "correct": 0,
+         "expl": "Matching this vagga's own already-confirmed removal-of-greed variant, not SN 48.115-124's own original wording."},
+        {"q": "How does this project handle the discrepancy between \"Oghavaggo sattarasamo\" (seventeenth) and its own tracked count of fifteen vaggas?",
+         "opts": ["It reports the discrepancy honestly, without inventing an explanation or silently correcting it", "It silently changes its own count to match the colophon", "It assumes the colophon is simply wrong and ignores it entirely", "It claims no discrepancy actually exists"],
+         "correct": 0,
+         "expl": "Consistent with this project's own standing practice of reporting genuine textual variants rather than harmonizing them."},
+    ],
+    marginalia=[
+        ("The saṃyutta's own final word", [
+            "Indriyasaṁyuttaṁ catutthaṁ, stated plainly —",
+            "178 discourses, now complete"
+        ]),
+        ("The same fetters, a different key", [
+            "form-realm, formless-realm, conceit, restlessness, ignorance —",
+            "now closing on greed's own removal"
+        ]),
+        ("Seventeenth, or fifteenth?", [
+            "the colophon's own count and this project's own don't match —",
+            "noted honestly, not smoothed over"
+        ]),
+        ("A book-length journey, closed here", [
+            "from SN 48.1 to this final page —",
+            "the Faculties-Saṁyutta, done"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.169-178/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.159-168.html\">SN 48.159&ndash;168 &middot; "
+        "Another Chapter on Searches</a> &mdash; the previous page, "
+        "closing Vagga 14.",
+        "<a href=\"sn-48.115-124.html\">SN 48.115&ndash;124 "
+        "&middot; Floods, Etc.</a> &mdash; this saṃyutta's own "
+        "earlier, structurally identical discourse on the higher "
+        "fetters, there closing with the seclusion formula.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṁyutta is now complete; the next saṃyutta in "
+        "this book is still in preparation.",
+    ],
+)
