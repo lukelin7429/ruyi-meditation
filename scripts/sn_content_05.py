@@ -40484,3 +40484,147 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.48 — Catutthapubbārāmasutta
+# The fourth and final installment of the same teaching occasion,
+# confirmed again by "Taṁyeva nidānaṁ," completing the escalating
+# sequence: SN 48.45 named one faculty, SN 48.46 named two, SN 48.47
+# named four (omitting faith), and this discourse names all five,
+# faith restored — the natural culmination this project honestly
+# declined to assume in advance at SN 48.47.
+# --------------------------------------------------------------------------- #
+page(
+    48, 48, "Catutthapubbārāma", "At the Eastern Monastery (4th)",
+    vagga="Jarāvagga",
+    meta_title="SN 48.48 — At the Eastern Monastery (4th) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Catutthapubbārāmasutta — the same occasion as SN "
+        "48.45-47, completing the escalating sequence with all five "
+        "faculties named together. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The same occasion as SN 48.45-47, confirmed "
+                     "once more by this discourse's own opening"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical question-and-deferral structure as "
+                 "SN 48.45-47, completing the escalating answer"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; completes the four-discourse "
+                         "sequence (one, two, four, five faculties) "
+                         "within a single teaching occasion, "
+                         "confirming what this project honestly "
+                         "declined to assume at SN 48.47"),
+    ],
+    why=(
+        "This discourse completes the escalating sequence begun at "
+        "SN 48.45: within the same teaching occasion, the Buddha "
+        "answers the identical question with one faculty (48.45), "
+        "then two (48.46), then four with faith omitted (48.47), and "
+        "now all FIVE together, faith restored &mdash; the natural "
+        "culmination this project's own reading guide at SN 48.47 "
+        "explicitly declined to assume in advance."
+    ),
+    guide=[
+        ("The sequence completed: one, two, four, five", [
+            "Confirmed by direct reading, this discourse's own "
+            "opening &ldquo;Taṁyeva nidānaṁ&rdquo; confirms, for a "
+            "fourth time, that this is the same teaching occasion as "
+            "SN 48.45-47 &mdash; and its own answer, all five "
+            "faculties together, completes the numerical progression "
+            "this project tracked honestly across the whole "
+            "sequence without assuming its own ending in advance.",
+        ]),
+        ("Faith restored, closing the sequence", [
+            "Confirmed by direct reading, this discourse names "
+            "faith (saddhindriya) alongside energy, mindfulness, "
+            "immersion, and wisdom &mdash; the exact faculty SN "
+            "48.47 had notably omitted &mdash; completing the full "
+            "traditional set of five spiritual faculties this "
+            "saṃyutta has treated throughout its own earlier "
+            "discourses.",
+        ]),
+        ("A single occasion, four progressively fuller answers", [
+            "This project's own synthesis across all four "
+            "discourses: rather than contradicting one another, SN "
+            "48.45-48 read as four progressively fuller answers to "
+            "the identical question, posed at the same teaching "
+            "occasion &mdash; one faculty suffices at minimum "
+            "(wisdom), two capture a fuller picture (wisdom and "
+            "immersion, as freedom), four add the remaining active "
+            "qualities (omitting only faith), and five state the "
+            "complete traditional set together.",
+        ]),
+    ],
+    terms=[
+        ("Taṁyeva nidānaṁ", "&ldquo;the same setting&rdquo; &mdash; "
+             "confirming, for the fourth time, this occasion's own "
+             "continuity across SN 48.45-48"),
+        ("pañcannaṁ indriyānaṁ", "&ldquo;of five faculties&rdquo; "
+             "&mdash; the completing answer, restoring faith to the "
+             "list"),
+        ("saddhindriyassa, vīriyindriyassa, satindriyassa, "
+             "samādhindriyassa, paññindriyassa", "the complete "
+             "traditional set of five spiritual faculties: faith, "
+             "energy, mindfulness, immersion, wisdom"),
+        ("khīṇā jāti, vusitaṁ brahmacariyaṁ", "&ldquo;rebirth is "
+             "ended, the spiritual journey has been completed&rdquo; "
+             "&mdash; the classic arahant declaration formula, "
+             "closing each of the four discourses identically"),
+        ("Aṭṭhamaṁ", "&ldquo;the eighth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's eighth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the Buddha's own question", "sn48.48:1.1-1.3"),
+        ("p", "&sect;2 &mdash; the answer: all five faculties "
+              "together", "sn48.48:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse complete the sequence begun at SN 48.45?",
+         "opts": ["It names all five faculties together, confirming the escalating pattern of one, two, four, five within the same occasion", "It contradicts the earlier discourses by denying any faculty is necessary", "It reduces the count back to one faculty", "It introduces an entirely new sixth faculty"],
+         "correct": 0,
+         "expl": "The natural culmination this project honestly declined to assume at SN 48.47."},
+        {"q": "Which faculty, omitted at SN 48.47, is restored in this discourse?",
+         "opts": ["Faith (saddhindriya)", "Wisdom (paññindriya)", "Energy (vīriyindriya)", "Immersion (samādhindriya)"],
+         "correct": 0,
+         "expl": "Completing the full traditional set of five spiritual faculties."},
+        {"q": "How does this project's own synthesis characterize SN 48.45-48 taken together?",
+         "opts": ["Four progressively fuller answers to the same question at one teaching occasion, not contradictory claims", "Four entirely unrelated discourses accidentally grouped together", "A series of corrections, each discourse overturning the one before it", "Evidence that the five faculties are actually optional for enlightenment"],
+         "correct": 0,
+         "expl": "A synthesis built from directly comparing all four discourses' own text."},
+    ],
+    marginalia=[
+        ("The sequence, complete", [
+            "one, two, four, and now five —",
+            "the same occasion, fully answered"
+        ]),
+        ("Faith, restored", [
+            "the faculty missing at SN 48.47 —",
+            "back in its place, the set made whole"
+        ]),
+        ("Four answers, one teaching", [
+            "not contradiction, but fullness added —",
+            "each discourse building on what came before"
+        ]),
+        ("Eighth discourse, Aṭṭhamaṁ", [
+            "closing this occasion's own four-part answer —",
+            "more of Jarāvagga still ahead"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.48/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.47.html\">SN 48.47 &middot; At the Eastern "
+        "Monastery (3rd)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
