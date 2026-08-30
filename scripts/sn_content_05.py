@@ -34414,3 +34414,147 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.6 — Paṭhamasamaṇabrāhmaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 6, "Paṭhamasamaṇabrāhmaṇa", "Ascetics and Brahmins (1st)",
+    vagga="Suddhikavagga",
+    meta_title="SN 48.6 — Ascetics and Brahmins (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasamaṇabrāhmaṇasutta — denying the title \"true "
+        "ascetic or brahmin\" to those who fail to understand the "
+        "five faculties, in a discourse whose own negative and "
+        "positive halves use two different lenses. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Two contrasting cases &mdash; ascetics and brahmins "
+                 "who fail to understand the five faculties, and "
+                 "those who succeed &mdash; using two DIFFERENT "
+                 "analytical lenses within the same discourse"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; a genuine departure from the "
+                         "two-discourse pairing pattern this project "
+                         "confirmed at SN 48.2-5"),
+    ],
+    why=(
+        "This discourse breaks the pattern this project confirmed "
+        "twice already (SN 48.2-3, SN 48.4-5): rather than a "
+        "threefold lens and a fivefold lens split across TWO separate "
+        "discourses, THIS single discourse itself uses a threefold "
+        "lens (gratification, drawback, escape) for its own negative "
+        "case &mdash; ascetics and brahmins who fail to understand "
+        "&mdash; and a FIVEFOLD lens (adding origin and "
+        "disappearance) for its own positive case, those who succeed."
+    ),
+    guide=[
+        ("An asymmetry within one discourse, not across two", [
+            "Confirmed by direct reading, this discourse's own two "
+            "halves are NOT symmetrical: the negative case (&sect;1, "
+            "ascetics and brahmins who fail) uses only the threefold "
+            "lens (assāda, ādīnava, nissaraṇa), while the positive "
+            "case (&sect;2, those who succeed) uses the fuller "
+            "fivefold lens (samudaya, atthaṅgama, assāda, ādīnava, "
+            "nissaraṇa) &mdash; a genuine textual asymmetry this "
+            "project reports honestly rather than smoothing into "
+            "false uniformity.",
+        ]),
+        ("Denying, not merely criticizing, the title itself", [
+            "The discourse's own claim is stronger than simple "
+            "criticism: those who fail to understand the five "
+            "faculties this way are NOT DEEMED true ascetics or "
+            "brahmins at all by the Buddha, and are said not to "
+            "realize, with their own insight, the very GOAL of "
+            "ascetic or brahmin life &mdash; a denial of the title's "
+            "own legitimate application, not merely a judgment of "
+            "their practice's quality.",
+        ]),
+        ("\"(1st)\" once more -- a companion expected, not assumed", [
+            "Confirmed by direct reading, this discourse's own "
+            "title again carries the &ldquo;(1st)&rdquo; marker "
+            "this project has now met three times &mdash; but given "
+            "the genuine asymmetry just confirmed within THIS "
+            "discourse itself, this project will confirm the "
+            "companion discourse's own actual content directly "
+            "rather than assuming it repeats the earlier pairs' "
+            "own three-then-five pattern.",
+        ]),
+    ],
+    terms=[
+        ("samaṇā vā brāhmaṇā", "&ldquo;ascetics and brahmins&rdquo; "
+             "&mdash; the discourse's own subject, whose own claim to "
+             "the title is denied or affirmed based on understanding "
+             "the five faculties"),
+        ("na me te... samaṇasammatā... brāhmaṇasammatā", "&ldquo;"
+             "I don't deem them true ascetics and brahmins&rdquo; "
+             "&mdash; the discourse's own denial of the title, not "
+             "merely a criticism of quality"),
+        ("sāmaññatthaṁ vā brahmaññatthaṁ vā", "&ldquo;the goal of "
+             "life as an ascetic or brahmin&rdquo; &mdash; what "
+             "those who fail to understand the five faculties are "
+             "said not to realize"),
+        ("assādañca ādīnavañca nissaraṇañca", "&ldquo;gratification, "
+             "drawback, and escape&rdquo; &mdash; the threefold lens "
+             "used for this discourse's own negative case only"),
+        ("samudayañca atthaṅgamañca assādañca ādīnavañca "
+             "nissaraṇañca", "&ldquo;origin, disappearance, "
+             "gratification, drawback, and escape&rdquo; &mdash; the "
+             "fuller fivefold lens used for this discourse's own "
+             "positive case"),
+    ],
+    text_intro=("The complete discourse, in its own two contrasting "
+        "cases. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; those who fail to understand", "sn48.6:1.1-1.5"),
+        ("p", "&sect;2 &mdash; those who truly understand", "sn48.6:2.1-2.2"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own structure differ from the pairing pattern already confirmed at SN 48.2-5?",
+         "opts": ["The threefold and fivefold lenses appear within ONE discourse's own two cases, not split across two separate discourses", "It uses no analytical lens at all, unlike SN 48.2-5", "It repeats the exact same lens for both its own halves", "It has no relationship whatsoever to the earlier pattern"],
+         "correct": 0,
+         "expl": "A genuine textual asymmetry this project reports honestly, not smoothed into false uniformity."},
+        {"q": "What does the discourse claim about ascetics and brahmins who fail to understand the five faculties?",
+         "opts": ["That the Buddha does not deem them true ascetics or brahmins at all, denying the title itself", "That they are merely practicing at a lower standard than ideal", "That they will eventually succeed with more time", "Nothing specific; the discourse only praises those who succeed"],
+         "correct": 0,
+         "expl": "A denial of the title's own legitimate application, not merely a judgment of practice quality."},
+        {"q": "How does this project approach the \"(1st)\" title's own implied companion discourse?",
+         "opts": ["By confirming its actual content directly rather than assuming it repeats the earlier pairs' own pattern", "By assuming it must be identical in structure to SN 48.2-3", "By skipping it entirely since the pattern seems established", "By inventing plausible content before reading the source"],
+         "correct": 0,
+         "expl": "Given the genuine asymmetry just confirmed within this discourse, assumption is not warranted."},
+    ],
+    marginalia=[
+        ("Asymmetry within one discourse", [
+            "threefold for failure, fivefold for success —",
+            "not split across two separate discourses"
+        ]),
+        ("Denying the title, not just the quality", [
+            "\"not deemed true ascetics or brahmins\" —",
+            "a stronger claim than mere criticism"
+        ]),
+        ("\"(1st)\" again — but no assumptions this time", [
+            "a companion expected, content unconfirmed —",
+            "the asymmetry here warns against guessing"
+        ]),
+        ("Sixth discourse, Chaṭṭhaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "many more discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.5.html\">SN 48.5 &middot; A Perfected One "
+        "(2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
