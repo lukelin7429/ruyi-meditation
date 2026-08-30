@@ -26622,3 +26622,139 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.8 — Sūdasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 8, "Sūda", "Cooks",
+    vagga="Ambapālivagga",
+    meta_title="SN 47.8 — Cooks | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sūdasutta — a foolish cook who never learns his "
+        "master's preferences, contrasted with an astute cook who "
+        "reads every hint, illustrates a mendicant who does or "
+        "doesn't take the hint from their own mind during "
+        "mindfulness meditation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Two parallel similes (a foolish and a skillful "
+                 "cook), each mapped onto a corresponding mendicant"),
+        ("Length", "2-3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "an accessible, everyday simile with a precise "
+                       "application"),
+    ],
+    why=(
+        "A foolish cook, serving a lavish variety of curries to a "
+        "ruler, never notices which sauce the ruler actually prefers "
+        "&mdash; and so never gets promoted. A skillful cook, serving "
+        "the identical variety, reads every hint (which dish the "
+        "ruler reaches for, takes more of, or praises) and is amply "
+        "rewarded. The Buddha maps this directly onto meditation: a "
+        "mendicant who fails to notice what settles or unsettles "
+        "their own mind during the fourfold mindfulness practice "
+        "never gains immersion, while one who reads their own mind's "
+        "hint does."
+    ),
+    guide=[
+        ("The same lavish variety, presented identically by both cooks", [
+            "Confirmed by direct reading, the discourse's own two "
+            "cooks are given the IDENTICAL eightfold list of curries "
+            "&mdash; sour, bitter, pungent, sweet, hot, mild, salty, "
+            "and bland &mdash; to serve. The difference between them "
+            "is not what is offered but whether the offering is READ "
+            "for feedback afterward.",
+        ]),
+        ("\"Taking the hint\" -- nimittaṁ uggaṇhāti", [
+            "The Pāli phrase &ldquo;nimittaṁ uggaṇhāti&rdquo; "
+            "(&ldquo;takes up the sign/hint&rdquo;) is confirmed by "
+            "direct reading to apply identically to the cook reading "
+            "the ruler's own preference and the mendicant reading "
+            "their own mind's response during meditation &mdash; the "
+            "same word, the same act of attentive noticing, applied "
+            "to two very different situations.",
+        ]),
+        ("Consequences that mirror each other precisely", [
+            "The foolish cook gets no clothes, wages, or bonuses; the "
+            "foolish mendicant gets no immersion, no giving up of "
+            "corruptions, no blissful meditations, and no mindfulness "
+            "and situational awareness. The skillful cook and "
+            "skillful mendicant each receive the mirror-image "
+            "opposite &mdash; confirmed by direct comparison to be a "
+            "point-for-point mapping, not a loose analogy.",
+        ]),
+    ],
+    terms=[
+        ("bālo abyatto akusalo sūdo", "&ldquo;a foolish, incompetent, "
+             "unskillful cook&rdquo; &mdash; who never learns to read "
+             "his master's preferences"),
+        ("paṇḍito byatto kusalo sūdo", "&ldquo;an astute, competent, "
+             "skillful cook&rdquo; &mdash; who attentively notices "
+             "and reads every hint"),
+        ("nimittaṁ uggaṇhāti / na uggaṇhāti", "&ldquo;takes up (or "
+             "fails to take up) the hint/sign&rdquo; &mdash; the "
+             "single act of attentive noticing shared by cook and "
+             "mendicant alike"),
+        ("cittaṁ samādhiyati, upakkilesā pahīyanti", "&ldquo;the mind "
+             "enters immersion, and corruptions are given up&rdquo; "
+             "&mdash; the meditator's own reward for taking the "
+             "mind's hint, mirroring the cook's own bonuses"),
+        ("diṭṭheva dhamme sukhavihārānaṁ... satisampajaññassa",
+             "&ldquo;blissful meditations in this very life... "
+             "mindfulness and situational awareness&rdquo; &mdash; "
+             "the further rewards named for the skillful mendicant"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the foolish cook", "sn47.8:1.1-4.3"),
+        ("p", "&sect;2 &mdash; the skillful cook", "sn47.8:5.1-8.3"),
+    ],
+    quiz=[
+        {"q": "What is the actual difference between the foolish cook and the skillful cook in this discourse?",
+         "opts": ["Both serve the identical variety of curries, but only the skillful cook reads the ruler's own hints about which dish is preferred", "The skillful cook serves better-tasting food", "The foolish cook serves too little food", "The skillful cook uses more expensive ingredients"],
+         "correct": 0,
+         "expl": "The difference is not what is offered but whether the offering is read for feedback afterward."},
+        {"q": "What does \"taking the hint\" (nimittaṁ uggaṇhāti) mean when applied to the mendicant in this discourse?",
+         "opts": ["Noticing what settles or unsettles one's own mind during the fourfold mindfulness practice", "Guessing what other mendicants are thinking", "Predicting future events through supernatural insight", "Memorizing every word of a discourse exactly"],
+         "correct": 0,
+         "expl": "The same act of attentive noticing applied to the cook's master, now applied to one's own mind."},
+        {"q": "What does the skillful mendicant gain, according to this discourse, by taking the mind's hint?",
+         "opts": ["Immersion, the giving up of corruptions, blissful meditations, and mindfulness and situational awareness", "Material wealth and social status", "Immediate enlightenment without further practice", "The ability to read other people's minds"],
+         "correct": 0,
+         "expl": "A point-for-point mirror of the foolish mendicant's own missing rewards."},
+    ],
+    marginalia=[
+        ("The same curries, served two ways", [
+            "sour, bitter, pungent, sweet, hot, mild, salty, bland —",
+            "identical offerings, only one cook reads the response"
+        ]),
+        ("\"Taking the hint\" — one phrase, two settings", [
+            "a ruler's own preference, a mind's own settling —",
+            "the same attentive noticing, applied twice"
+        ]),
+        ("Rewards that mirror the cook's own", [
+            "no bonuses for the foolish, none for the careless meditator —",
+            "immersion and ease for those who pay attention"
+        ]),
+        ("An everyday image for a subtle practice", [
+            "meditation, made concrete through a kitchen —",
+            "feedback is the difference between the two"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.7.html\">SN 47.7 &middot; A Monkey</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
