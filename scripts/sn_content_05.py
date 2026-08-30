@@ -43518,3 +43518,142 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.69 — Tatiyarukkhasutta
+# The tree-simile series continues into a third realm: after
+# Jambudīpa (the human realm, SN 48.67) and Tāvatiṃsa (the gods of
+# the thirty-three, SN 48.68), this discourse turns to the asuras
+# (titans), whose finest tree is the Cittapāṭali. This is the
+# vagga's own ninth discourse (Navamaṁ) — this project notes, without
+# assuming, that the six vaggas completed earlier this session all
+# closed at exactly ten discourses, but confirms nothing about this
+# vagga's own length until its own closing colophon is directly read.
+# --------------------------------------------------------------------------- #
+page(
+    48, 69, "Tatiyarukkha", "A Tree (3rd)",
+    vagga="Bodhipakkhiyavagga",
+    meta_title="SN 48.69 — A Tree (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyarukkhasutta — the Cittapāṭali tree of the asuras, "
+        "the third realm in this vagga's own tree-simile series. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this vagga's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A simile: the Cittapāṭali tree of the asuras"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; the third realm in a widening "
+                         "tree-simile series, this vagga's own ninth "
+                         "discourse"),
+    ],
+    why=(
+        "This discourse extends the tree-simile pattern of SN 48.67 "
+        "(the human realm) and SN 48.68 (the Tāvatiṃsa gods) into a "
+        "third realm, the asuras, whose finest tree &mdash; the "
+        "Cittapāṭali &mdash; again illustrates wisdom's foremost "
+        "place among the bodhipakkhiyā dhammā. As this vagga's own "
+        "ninth discourse, this project notes but does not assume the "
+        "pattern of every prior vagga this session closing at exactly "
+        "ten."
+    ),
+    guide=[
+        ("A third realm, not merely a repeated pair", [
+            "Confirmed by direct reading, this discourse's own title "
+            "&mdash; &ldquo;Tatiya,&rdquo; &ldquo;third&rdquo; "
+            "&mdash; extends what SN 48.67-68 established as a pair "
+            "into an actual series, moving from the human realm to "
+            "the Tāvatiṃsa heaven and now to the realm of the "
+            "asuras, while keeping the discourse's own structure and "
+            "point identical throughout.",
+        ]),
+        ("The Cittapāṭali: finest tree of the asuras", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare text states: the "
+            "&ldquo;cittapāṭali&rdquo; (&ldquo;Vivid "
+            "Patala,&rdquo; a bright-flowered trumpet tree) is held "
+            "in the tradition to be the finest tree of the asura "
+            "realm, paralleling the jambu of the human world and the "
+            "Pāricchattaka of Tāvatiṃsa.",
+        ]),
+        ("This vagga's own ninth discourse, honestly unresolved", [
+            "This project's own explicit caution: every one of the "
+            "six vaggas completed earlier this session (Vaggas 2 "
+            "through 6 of this saṃyutta) closed at exactly ten "
+            "discourses, a pattern worth noting as this discourse "
+            "reaches the ninth position &mdash; but this project "
+            "does not assume the Bodhipakkhiyavagga will follow suit "
+            "until its own closing colophon and uddāna are directly "
+            "read.",
+        ]),
+    ],
+    terms=[
+        ("asurānaṁ rukkhā", "&ldquo;the trees belonging to the "
+             "titans (asuras)&rdquo; &mdash; this discourse's own "
+             "setting for the simile"),
+        ("cittapāṭali", "&ldquo;the Vivid Patala&rdquo; &mdash; a "
+             "bright-flowered tree held to be finest among the "
+             "asura realm's own trees"),
+        ("asura", "&ldquo;titan, demigod&rdquo; &mdash; a class of "
+             "beings traditionally in ongoing conflict with the "
+             "devas of Tāvatiṃsa"),
+        ("bodhipakkhiyā dhammā", "&ldquo;qualities on the side of "
+             "awakening&rdquo; &mdash; again defined here as the "
+             "five faculties, mirroring SN 48.67-68"),
+        ("Navamaṁ", "&ldquo;the ninth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's ninth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.69:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse extend the pattern of SN 48.67-68?",
+         "opts": ["It moves the same simile structure into a third realm, the asuras, rather than merely repeating a pair", "It abandons the tree simile entirely for a new topic", "It denies that wisdom holds any special place among the five faculties", "It claims the human realm has no trees at all"],
+         "correct": 0,
+         "expl": "\"Tatiya\" (third) extends what was a confirmed pair into an actual series."},
+        {"q": "What is the Cittapāṭali, as general canonical background?",
+         "opts": ["The finest tree of the asura realm, paralleling the jambu and the Pāricchattaka", "A tree found only in the human realm", "A synonym for the five faculties themselves", "A tree associated with a hell realm rather than the asuras"],
+         "correct": 0,
+         "expl": "A bright-flowered tree, held finest among the asuras' own trees."},
+        {"q": "What does this project note about this being the vagga's own ninth discourse?",
+         "opts": ["That every prior vagga this session closed at exactly ten, but this vagga's own length is not assumed until confirmed", "That this vagga is certain to end at exactly nine discourses", "That the ninth position has no bearing on how this vagga might close", "That this vagga must be shorter than every previous vagga"],
+         "correct": 0,
+         "expl": "A pattern worth noting, not a conclusion to assume in advance."},
+    ],
+    marginalia=[
+        ("A pair becomes a series", [
+            "Paṭhama, Dutiya, now Tatiya &mdash;",
+            "three realms, one identical point"
+        ]),
+        ("The titans' own finest bloom", [
+            "cittapāṭali, vivid among asura trees &mdash;",
+            "wisdom named foremost there as well"
+        ]),
+        ("Three realms, one ranking", [
+            "human, heavenly, and now titan &mdash;",
+            "the same faculty named best in each"
+        ]),
+        ("Ninth discourse, Navamaṁ", [
+            "close to a familiar number, not yet confirmed &mdash;",
+            "one more page will say for certain"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.69/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.68.html\">SN 48.68 &middot; A Tree (2nd)</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
