@@ -27421,3 +27421,183 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.13 — Cundasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 13, "Cunda", "With Cunda",
+    vagga="Nāḷandavagga",
+    meta_title="SN 47.13 — With Cunda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Cundasutta — the death of Venerable Sāriputta, Ānanda's "
+        "own grief on hearing the news, and the Buddha's own response: "
+        "a great branch has broken from a tree that still stands with "
+        "its heartwood, and once more, be your own island, with the "
+        "four kinds of mindfulness meditation as the way. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Jeta's Grove, Anāthapiṇḍika's monastery, near "
+                     "Sāvatthī; Sāriputta's own death occurred near "
+                     "the village of Nālaka in Magadha"),
+        ("Speakers", "The novice Cunda, Venerable Ānanda, and the "
+                     "Buddha"),
+        ("Form", "A narrative discourse recounting a specific death "
+                 "and its immediate aftermath"),
+        ("Length", "3-4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; the death of the Buddha's own chief "
+                         "disciple, and the second appearance in this "
+                         "saṃyutta of the &ldquo;be your own "
+                         "island&rdquo; teaching, first met at "
+                         "SN 47.9"),
+    ],
+    why=(
+        "Sāriputta, gravely ill and cared for by the novice Cunda, "
+        "dies; Cunda carries his bowl and robe to Ānanda, whose own "
+        "body &ldquo;feels like it's drugged&rdquo; on hearing the "
+        "news. The Buddha's own response does not deny the loss "
+        "&mdash; he compares it directly to a great branch breaking "
+        "from a tree that still stands with its own heartwood "
+        "&mdash; before repeating, word for word, the &ldquo;be your "
+        "own island&rdquo; instruction already given at SN 47.9, this "
+        "time prompted by grief rather than by his own illness."
+    ),
+    guide=[
+        ("Grief, named honestly rather than minimized", [
+            "Confirmed by direct reading, Ānanda's own description of "
+            "his grief &mdash; &ldquo;my body feels like it's drugged. "
+            "I'm disorientated, and the teachings don't spring to "
+            "mind&rdquo; &mdash; is the identical phrase he used at "
+            "SN 47.9 to describe his distress during the Buddha's own "
+            "illness, confirming this project's own observation that "
+            "the discourse does not ask Ānanda to suppress or deny "
+            "this reaction before addressing it.",
+        ]),
+        ("What was NOT taken away by Sāriputta's death", [
+            "The Buddha's own first question to Ānanda &mdash; did "
+            "Sāriputta's death take away Ānanda's own ethics, "
+            "immersion, wisdom, freedom, or knowledge and vision of "
+            "freedom? &mdash; is confirmed by direct reading to "
+            "isolate precisely what grief has and has not actually "
+            "cost, before Ānanda answers &ldquo;no&rdquo; and then "
+            "names what WAS lost: an adviser, counselor, and "
+            "inexhaustible teacher.",
+        ]),
+        ("A great branch, broken from a tree that still stands", [
+            "The Buddha's own simile &mdash; a large tree standing "
+            "with its own heartwood, from which the largest branch "
+            "has broken off &mdash; is confirmed by direct reading to "
+            "acknowledge the genuine scale of the loss (Sāriputta as "
+            "the largest branch) while also affirming that the "
+            "Saṅgha itself, like the tree, still stands with its own "
+            "heartwood intact.",
+        ]),
+        ("\"How could what is conditioned not wear out?\"", [
+            "Stated twice, almost identically, the Buddha's own "
+            "rhetorical question &mdash; how could anything born, "
+            "created, conditioned, and liable to wear out possibly "
+            "NOT wear out? &mdash; is confirmed by direct reading to "
+            "ground the teaching not in denial of loss but in its own "
+            "prior, explicit warning that all who are dear must "
+            "eventually be parted from us.",
+        ]),
+        ("The same instruction as SN 47.9, given again in grief", [
+            "The closing instruction &mdash; &ldquo;live as your own "
+            "island, your own refuge, with no other refuge... with "
+            "the teaching as your island and your refuge&rdquo; "
+            "&mdash; is confirmed by direct comparison to be worded "
+            "identically to SN 47.9's own version of the same "
+            "teaching, here occasioned by grief over a death rather "
+            "than by the Buddha's own illness, and once again "
+            "identified directly with the four kinds of mindfulness "
+            "meditation.",
+        ]),
+    ],
+    terms=[
+        ("parinibbāyi / parinibbuto", "&ldquo;fully extinguished / "
+             "fully quenched&rdquo; &mdash; the discourse's own term "
+             "for Sāriputta's own death"),
+        ("madhurakajāto viya kāyo, disāpi me na pakkhāyanti",
+             "&ldquo;my body feels like it's drugged, I'm "
+             "disorientated&rdquo; &mdash; Ānanda's own description "
+             "of his grief, identical in wording to his own reaction "
+             "at SN 47.9"),
+        ("ovādako... anuggāhako sabrahmacārīnaṁ", "&ldquo;adviser and "
+             "counselor... supported his spiritual companions&rdquo; "
+             "&mdash; Ānanda's own description of what Sāriputta "
+             "meant to him and to the Saṅgha"),
+        ("mahato rukkhassa... yo mahantataro khandho so palujjeyya",
+             "&ldquo;a large tree... the largest branch broke "
+             "off&rdquo; &mdash; the Buddha's own simile, acknowledging "
+             "the scale of the loss while affirming the Saṅgha's own "
+             "continued strength"),
+        ("attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā "
+             "dhammasaraṇā anaññasaraṇā", "&ldquo;live as your own "
+             "island, your own refuge, with no other refuge; the "
+             "teaching as your island and refuge&rdquo; &mdash; the "
+             "same instruction already given at SN 47.9, repeated "
+             "here in the context of grief"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; Sāriputta's own final illness",
+             "sn47.13:1.1-1.3"),
+        ("p", "&sect;2 &mdash; news of his death", "sn47.13:2.1-2.4"),
+        ("p", "&sect;3 &mdash; Ānanda and Cunda go to the Buddha",
+             "sn47.13:3.1-4.5"),
+        ("p", "&sect;4 &mdash; what was and wasn't taken away",
+             "sn47.13:5.1-5.7"),
+        ("p", "&sect;5 &mdash; a great branch, broken",
+             "sn47.13:6.1-6.9"),
+        ("p", "&sect;6 &mdash; \"be your own island,\" once more",
+             "sn47.13:7.1-7.7"),
+    ],
+    quiz=[
+        {"q": "How does Ānanda describe his own reaction to hearing of Sāriputta's death?",
+         "opts": ["\"My body feels like it's drugged. I'm disorientated, and the teachings don't spring to mind\" — the same words he used at SN 47.9", "He shows no reaction at all", "He immediately criticizes Cunda for bringing the news", "He denies that the death occurred"],
+         "correct": 0,
+         "expl": "Confirming the discourse does not ask Ānanda to suppress or minimize his grief."},
+        {"q": "What does the Buddha's first question to Ānanda establish?",
+         "opts": ["That Sāriputta's death did not take away Ānanda's own ethics, immersion, wisdom, freedom, or knowledge of freedom", "That Ānanda had failed in his own training", "That Sāriputta's teachings were now lost forever", "That Ānanda should have prevented the death"],
+         "correct": 0,
+         "expl": "Precisely isolating what grief has and has not actually cost, before naming what genuinely was lost."},
+        {"q": "How does the Buddha's own tree simile frame Sāriputta's death?",
+         "opts": ["As the largest branch breaking from a tree that still stands with its own heartwood intact", "As a tree being completely uprooted", "As a tree that never had any heartwood to begin with", "As an unrelated event with no connection to the Saṅgha"],
+         "correct": 0,
+         "expl": "Acknowledging the genuine scale of the loss while affirming the Saṅgha's own continued strength."},
+    ],
+    marginalia=[
+        ("Grief named, not minimized", [
+            "\"my body feels like it's drugged\" — the same words as before —",
+            "the identical reaction already met at SN 47.9"
+        ]),
+        ("What was and wasn't taken away", [
+            "ethics, immersion, wisdom, freedom — all intact —",
+            "an adviser and counselor, genuinely lost"
+        ]),
+        ("A branch broken, a tree still standing", [
+            "the largest branch, from a tree with heartwood —",
+            "the Saṅgha's own strength affirmed, not denied"
+        ]),
+        ("The same island, offered again in grief", [
+            "word for word as at SN 47.9 —",
+            "this time occasioned by loss, not illness"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.13/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.12.html\">SN 47.12 &middot; At Nāḷandā</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-47.9.html\">SN 47.9 &middot; Sick</a> &mdash; "
+        "this project's own earlier treatment of the identical "
+        "&ldquo;be your own island&rdquo; teaching, given there in "
+        "the context of the Buddha's own illness.",
+    ],
+)
