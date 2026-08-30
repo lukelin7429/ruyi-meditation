@@ -42963,3 +42963,140 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.65 — Paṭhamaphalasutta
+# A new topic, breaking from the cumulative four-outcome series of SN
+# 48.61-64: the classic "two fruits" formula, also found elsewhere in
+# the canon (e.g. at the close of the Ānāpānasati and Satipaṭṭhāna
+# sequences). This discourse's own name, "Paṭhama" ("first"),
+# honestly flagged as suggesting a companion discourse to follow,
+# not assumed in advance.
+# --------------------------------------------------------------------------- #
+page(
+    48, 65, "Paṭhamaphala", "Two Fruits",
+    vagga="Bodhipakkhiyavagga",
+    meta_title="SN 48.65 — Two Fruits | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamaphalasutta — the five faculties, developed and "
+        "cultivated, lead to one of two fruits: enlightenment in this "
+        "very life, or non-return. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this vagga's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single, bare doctrinal statement"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; the classic &ldquo;two fruits&rdquo; "
+                         "formula, also found closing other major "
+                         "sequences in the canon"),
+    ],
+    why=(
+        "This discourse turns from the cumulative outcome series of "
+        "SN 48.61-64 to a different, very well-known formula: the "
+        "developed five faculties yield one of exactly two possible "
+        "fruits &mdash; full awakening in this very life, or, short "
+        "of that, non-return. This project notes honestly, without "
+        "assuming ahead of the text, that this discourse's own name "
+        "&mdash; &ldquo;Paṭhama,&rdquo; &ldquo;first&rdquo; &mdash; "
+        "suggests a companion discourse may follow."
+    ),
+    guide=[
+        ("A new topic, not a continuation of SN 48.61-64", [
+            "Confirmed by direct reading, this discourse's own text "
+            "returns to a fresh, single-paragraph structure, "
+            "distinct from the fourfold cumulative recap that closed "
+            "SN 48.64 &mdash; introducing the &ldquo;two "
+            "fruits&rdquo; (dve phalāni) formula for the first time "
+            "in this saṃyutta's own SN48 sequence.",
+        ]),
+        ("The two fruits: full awakening, or non-return", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare text states: this "
+            "exact formula &mdash; &ldquo;aññā&rdquo; "
+            "(enlightenment/final knowledge) in this very life, or "
+            "&ldquo;anāgāmitā&rdquo; (non-return, the third of the "
+            "four traditional stages of awakening) if some residue "
+            "(upādisese) remains &mdash; recurs elsewhere in the "
+            "canon closing major practice sequences, such as the "
+            "Ānāpānasatisutta and the Satipaṭṭhānasutta.",
+        ]),
+        ("Paṭhama: honestly flagged, not assumed", [
+            "This project's own explicit caution: this discourse's "
+            "own Pali title bears the qualifier &ldquo;Paṭhama&rdquo; "
+            "(&ldquo;first&rdquo;), a naming pattern this project has "
+            "seen before signal a paired or expanded companion "
+            "discourse &mdash; noted here honestly as an open "
+            "possibility, to be confirmed only by directly reading "
+            "SN 48.66 when reached, not assumed in advance.",
+        ]),
+    ],
+    terms=[
+        ("dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ", "&ldquo;one "
+             "of two fruits can be expected&rdquo; &mdash; this "
+             "discourse's own central formula"),
+        ("diṭṭheva dhamme aññā", "&ldquo;enlightenment/final "
+             "knowledge in this very life&rdquo; &mdash; the higher "
+             "of the two fruits, full awakening"),
+        ("sati vā upādisese anāgāmitā", "&ldquo;or, if there is "
+             "residue left, non-return&rdquo; &mdash; the second, "
+             "third of the four traditional stages of awakening"),
+        ("upādisese", "&ldquo;residue, what remains (of "
+             "clinging/fuel)&rdquo; &mdash; the condition "
+             "distinguishing the two fruits"),
+        ("Pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's fifth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.65:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own structure relate to SN 48.61-64?",
+         "opts": ["A new topic, turning from the cumulative fourfold outcome series to the distinct \"two fruits\" formula", "A direct continuation, adding a fifth outcome to the same cumulative list", "An exact repetition of SN 48.64 with no changes", "A denial that the five faculties lead to any result at all"],
+         "correct": 0,
+         "expl": "A fresh single-paragraph structure introduces a different formula."},
+        {"q": "What are the two fruits this discourse names, as general canonical background?",
+         "opts": ["Full awakening in this very life, or non-return if some residue remains", "Rebirth as a deva, or rebirth as a human", "Wealth in this life, or wealth in the next", "A synonym for the same single outcome stated twice"],
+         "correct": 0,
+         "expl": "Aññā (enlightenment) or anāgāmitā (non-return) — the classic formula."},
+        {"q": "What does this project note about the title \"Paṭhamaphala\" (\"first fruit\")?",
+         "opts": ["It honestly flags, without assuming, that a companion discourse may follow", "It proves conclusively that no further discourse in this vagga exists", "It means this is the very first discourse of the entire Saṃyutta Nikāya", "It has no bearing on what discourses may come next"],
+         "correct": 0,
+         "expl": "Noted as an open possibility, to be confirmed only when SN 48.66 is directly read."},
+    ],
+    marginalia=[
+        ("A new formula, not more of the same", [
+            "the cumulative series set aside for now &mdash;",
+            "two fruits offered instead"
+        ]),
+        ("This life, or short of it", [
+            "full awakening now, if conditions ripen &mdash;",
+            "non-return, if some residue remains"
+        ]),
+        ("Paṭhama: first, perhaps of a pair", [
+            "a name that hints without confirming &mdash;",
+            "the next discourse alone will say"
+        ]),
+        ("Fifth discourse, Pañcamaṁ", [
+            "halfway, perhaps, through this vagga &mdash;",
+            "its own final count still unconfirmed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.65/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.64.html\">SN 48.64 &middot; Ending of "
+        "Defilements</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
