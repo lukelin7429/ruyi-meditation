@@ -43236,3 +43236,146 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.67 — Paṭhamarukkhasutta
+# A significant discourse: the first in this saṃyutta's own SN48
+# sequence to explicitly define "bodhipakkhiyā dhammā" (qualities on
+# the side of awakening) — the vagga's own name, used throughout SN
+# 48.61-66 without direct definition — as the five faculties
+# themselves, via the simile of the black plum tree as the best of
+# all trees in Jambudīpa. Its own "Paṭhama" title flagged honestly as
+# a possible sign of a companion discourse, following the pattern
+# confirmed at SN 48.65-66.
+# --------------------------------------------------------------------------- #
+page(
+    48, 67, "Paṭhamarukkha", "A Tree (1st)",
+    vagga="Bodhipakkhiyavagga",
+    meta_title="SN 48.67 — A Tree (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamarukkhasutta — the black plum tree simile, naming "
+        "wisdom as the foremost of the qualities on the side of "
+        "awakening. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this vagga's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A simile: the black plum tree of Jambudīpa"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; the first discourse in this "
+                         "sequence to explicitly define this vagga's "
+                         "own name, &ldquo;bodhipakkhiyā "
+                         "dhammā&rdquo;"),
+    ],
+    why=(
+        "This discourse finally defines, in the text's own words, "
+        "the term this vagga has carried as its own name since SN "
+        "48.61 without direct explanation: &ldquo;bodhipakkhiyā "
+        "dhammā,&rdquo; the &ldquo;qualities on the side of "
+        "awakening,&rdquo; are here identified as the five faculties "
+        "themselves &mdash; and wisdom is named, by simile, as the "
+        "foremost among them."
+    ),
+    guide=[
+        ("This vagga's own name, finally defined by the text itself", [
+            "Confirmed by direct reading, this discourse's own "
+            "question-and-answer &mdash; &ldquo;Katame ca, "
+            "bhikkhave, bodhipakkhiyā dhammā?&rdquo; (&ldquo;And "
+            "what are the qualities on the side of "
+            "awakening?&rdquo;) &mdash; answers, for the first time "
+            "in this sequence, the very term this project has used "
+            "throughout SN 48.61-66 as this vagga's own name without "
+            "the text yet having explained it directly.",
+        ]),
+        ("The black plum tree: wisdom as foremost", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare text states: "
+            "&ldquo;Jambudīpa&rdquo; (&ldquo;Black Plum Tree "
+            "Land,&rdquo; i.e. the Indian subcontinent) is said to "
+            "take its own name from the jambu (black plum, or "
+            "rose-apple) tree, held to be the finest of all its "
+            "trees &mdash; the simile places the faculty of wisdom "
+            "in that same foremost position among the five "
+            "bodhipakkhiyā dhammā.",
+        ]),
+        ("Paṭhama, again: a pattern now recognized", [
+            "This project's own observation, drawing directly on the "
+            "confirmed pairing of SN 48.65-66: this discourse's own "
+            "title again carries &ldquo;Paṭhama&rdquo; "
+            "(&ldquo;first&rdquo;), a pattern this project has "
+            "learned to flag rather than assume &mdash; the "
+            "existence and content of any companion discourse to be "
+            "confirmed only by directly reading SN 48.68 when "
+            "reached.",
+        ]),
+    ],
+    terms=[
+        ("bodhipakkhiyā dhammā", "&ldquo;qualities on the side of "
+             "awakening&rdquo; &mdash; this vagga's own name, here "
+             "explicitly defined as the five faculties themselves"),
+        ("jambudīpakā rukkhā, jambū tesaṁ aggamakkhāyati", "&ldquo;of "
+             "all the trees in the Black Plum Tree Land, the black "
+             "plum is said to be the best&rdquo; &mdash; the "
+             "discourse's own simile"),
+        ("paññindriyaṁ...aggamakkhāyati", "&ldquo;the faculty of "
+             "wisdom is said to be the best&rdquo; &mdash; the "
+             "simile's own point"),
+        ("bodhāya saṁvattati", "&ldquo;leads to becoming "
+             "awakened&rdquo; &mdash; the defining function shared "
+             "by all five bodhipakkhiyā dhammā"),
+        ("Sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's "
+             "seventh discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.67:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What does this discourse do that no prior discourse in this sequence has done?",
+         "opts": ["It explicitly defines \"bodhipakkhiyā dhammā,\" this vagga's own name, as the five faculties themselves", "It denies that the five faculties have any connection to awakening", "It removes wisdom from the list of five faculties entirely", "It renames the vagga to something other than Bodhipakkhiyavagga"],
+         "correct": 0,
+         "expl": "The text's own question-and-answer finally answers a term used without definition since SN 48.61."},
+        {"q": "What does the black plum tree simile illustrate, as general canonical background?",
+         "opts": ["That wisdom is the foremost of the five qualities on the side of awakening, as the jambu tree is foremost among the trees of Jambudīpa", "That trees themselves are a form of spiritual attainment", "That faith is more important than wisdom", "That the five faculties have no ranking among themselves at all"],
+         "correct": 0,
+         "expl": "The jambu tree gives Jambudīpa its own name, just as wisdom is named foremost here."},
+        {"q": "What does this project note about the title \"Paṭhamarukkha\" (\"first tree\")?",
+         "opts": ["Drawing on the confirmed pairing at SN 48.65-66, it is flagged as a possible sign of a companion discourse, to be confirmed by reading ahead", "It proves with certainty that exactly one more discourse remains in this vagga", "It has no connection to any naming pattern seen elsewhere in this project", "It means this discourse is the very first in the entire Saṃyutta Nikāya"],
+         "correct": 0,
+         "expl": "A now-recognized pattern, still to be confirmed rather than assumed."},
+    ],
+    marginalia=[
+        ("A name, finally explained", [
+            "bodhipakkhiyā dhammā, asked and answered &mdash;",
+            "the vagga's own title, defined at last"
+        ]),
+        ("The best tree, the best faculty", [
+            "jambu among trees, wisdom among five &mdash;",
+            "one simile, one clear ranking"
+        ]),
+        ("Jambudīpa's own namesake", [
+            "the land named for its finest tree &mdash;",
+            "the mind's path named for its finest faculty"
+        ]),
+        ("Seventh discourse, Sattamaṁ", [
+            "Paṭhama again, a pattern now familiar &mdash;",
+            "one more discourse may yet complete it"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.67/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.66.html\">SN 48.66 &middot; Seven "
+        "Benefits</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
