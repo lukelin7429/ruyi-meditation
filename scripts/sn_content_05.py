@@ -48100,3 +48100,136 @@ page(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 51.4 — Nibbidāsutta
+# --------------------------------------------------------------------------- #
+page(
+    51, 4, "Nibbidā", "Disillusionment",
+    vagga="Cāpālavagga",
+    meta_title="SN 51.4 — Disillusionment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nibbidāsutta — the four bases of psychic power lead "
+        "solely to a sevenfold progression ending in "
+        "extinguishment. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; this discourse's own bare "
+                     "opening statement"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single, bare doctrinal statement naming a "
+                 "sevenfold progression"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; a classic canonical sevenfold "
+                         "formula, distinct from the sevenfold "
+                         "formula already met at SN 48.66"),
+    ],
+    why=(
+        "This discourse names a classic canonical sevenfold "
+        "progression &mdash; disillusionment, dispassion, cessation, "
+        "peace, insight, awakening, extinguishment &mdash; as the "
+        "sole result of developing the four bases of psychic power, "
+        "the word &ldquo;ekanta&rdquo; (&ldquo;solely, "
+        "exclusively&rdquo;) ruling out any other outcome."
+    ),
+    guide=[
+        ("A sevenfold formula, distinct from SN 48.66's own", [
+            "This project's own explicit comparison: this "
+            "discourse's own sevenfold list (nibbidā, virāga, "
+            "nirodha, upasama, abhiññā, sambodha, nibbāna) is a "
+            "genuinely different formula from the sevenfold list "
+            "already met at SN 48.66 (the two fruits split into "
+            "finer gradations) &mdash; this one names a progressive "
+            "sequence of qualities, not a list of alternative "
+            "outcomes.",
+        ]),
+        ("Solely, and nothing else", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare text states: "
+            "&ldquo;ekanta&rdquo; (&ldquo;solely, one-sidedly, "
+            "exclusively&rdquo;) is a strong qualifier this project "
+            "has met describing the Buddha's own stated purpose in "
+            "teaching &mdash; here applied to rule out any outcome "
+            "of developing the four bases other than this sevenfold "
+            "progression.",
+        ]),
+        ("A progression toward extinguishment", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare list states: the seven "
+            "terms move from disillusionment with conditioned "
+            "existence, through dispassion and cessation, to peace, "
+            "direct insight, awakening, and finally extinguishment "
+            "itself &mdash; each term building on what precedes it "
+            "rather than standing as a separate, unrelated result.",
+        ]),
+    ],
+    terms=[
+        ("ekantanibbidāya virāgāya nirodhāya", "&ldquo;solely to "
+             "disillusionment, dispassion, cessation&rdquo; &mdash; "
+             "the opening three terms of this discourse's own "
+             "sevenfold progression"),
+        ("upasamāya abhiññāya sambodhāya nibbānāya", "&ldquo;to "
+             "peace, insight, awakening, and extinguishment&rdquo; "
+             "&mdash; the remaining four terms, completing the "
+             "sevenfold list"),
+        ("ekanta", "&ldquo;solely, exclusively&rdquo; &mdash; ruling "
+             "out any outcome of developing the four bases other "
+             "than this sevenfold progression"),
+        ("cattāro iddhipādā", "&ldquo;the four bases of psychic "
+             "power&rdquo; &mdash; restated identically to this "
+             "vagga's own prior discourses"),
+        ("Catutthaṁ", "&ldquo;the fourth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's "
+             "fourth discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.4:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What sevenfold progression does this discourse name as the sole result of developing the four bases of psychic power?",
+         "opts": ["Disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment", "The seven awakening factors", "The seven fruits already met at SN 48.66", "The five faculties and five powers combined"],
+         "correct": 0,
+         "expl": "A genuinely different sevenfold formula from the one already met at SN 48.66."},
+        {"q": "What does the word \"ekanta\" contribute to this discourse's own claim?",
+         "opts": ["It rules out any outcome other than this sevenfold progression, meaning \"solely\" or \"exclusively\"", "It suggests the result is only partial or occasional", "It means the four bases have no effect at all", "It applies only to advanced practitioners, not beginners"],
+         "correct": 0,
+         "expl": "A strong qualifier this project has met describing the Buddha's own stated purpose in teaching."},
+        {"q": "How does this discourse's own sevenfold list function, as general canonical background?",
+         "opts": ["As a progressive sequence, each term building toward extinguishment rather than standing as a separate result", "As seven unrelated, randomly ordered outcomes", "As seven different names for exactly the same single state", "As a warning against practicing the four bases at all"],
+         "correct": 0,
+         "expl": "Disillusionment through dispassion, cessation, peace, insight, and awakening, ending in extinguishment itself."},
+    ],
+    marginalia=[
+        ("A different seven from SN 48.66's own", [
+            "not fruits split finer, but a rising sequence —",
+            "distinct formulas, both genuinely sevenfold"
+        ]),
+        ("Solely, nothing held back", [
+            "ekanta rules out any other outcome —",
+            "the same word met describing the Dhamma's own purpose"
+        ]),
+        ("Seven steps toward the end", [
+            "disillusionment, dispassion, cessation, peace —",
+            "insight, awakening, extinguishment itself"
+        ]),
+        ("Fourth discourse, Catutthaṁ", [
+            "brief as the three before it —",
+            "the vagga's own opening sequence continues"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.3.html\">SN 51.3 &middot; A Noble One</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
