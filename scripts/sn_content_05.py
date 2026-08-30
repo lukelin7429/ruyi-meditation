@@ -44277,3 +44277,158 @@ page_range(
         "applied there to the eightfold path.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.105-114 — Esanāvaggo (merged peyyāla range, cross-reference only)
+# Vagga 11, confirmed by direct bilara-data reading to carry NO
+# worked example of its own, matching SN 48.83-92 and SN 48.93-104's
+# own identical pattern: only the bare source instruction, "(Tell in
+# full as in the chapter on searches at SN 45.161-170.)", plus its
+# own closing uddāna listing all ten topics by name. This project's
+# own already-completed Esanāvagga (SN 45.161-170, ten individual
+# pages) is directly confirmed as the same underlying content, here
+# applied to the five faculties.
+# --------------------------------------------------------------------------- #
+page_range(
+    48, 105, 114, "Esanā", "The Chapter on Searches",
+    vagga="Esanāvagga",
+    meta_title="SN 48.105–114 — The Chapter on Searches | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 48.105–114 — ten discourses on searches, discriminations, "
+        "and defilements, cross-referenced in full to this project's "
+        "own already-completed Esanāvagga, here applied to the five "
+        "faculties. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; a pure cross-reference "
+                     "instruction, carrying no worked example of its "
+                     "own"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single explicit cross-reference instruction, "
+                 "with no independent example, plus a closing uddāna"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&#9734;&#9734;&#9734; "
+                         "&mdash; a third consecutive bare "
+                         "cross-reference vagga, confirming rather "
+                         "than merely suggesting a pattern for this "
+                         "book's remaining peyyāla vaggas"),
+    ],
+    why=(
+        "This merged file carries no independent content of its own "
+        "at all &mdash; confirmed by direct reading, it consists "
+        "solely of the source's own explicit instruction, "
+        "&ldquo;tell in full as in the chapter on searches at SN "
+        "45.161&ndash;170,&rdquo; plus its own closing uddāna. This "
+        "is the third consecutive vagga in this book compressed this "
+        "same way, following Appamādavagga (SN 48.83-92) and "
+        "Balakaraṇīyavagga (SN 48.93-104), confirming rather than "
+        "merely suggesting a genuine pattern for this saṃyutta's "
+        "remaining peyyāla vaggas."
+    ),
+    guide=[
+        ("A third bare cross-reference, confirming the pattern", [
+            "Confirmed by direct reading, this file gives neither the "
+            "full topic-by-topic content (as this project's own SN "
+            "45.161-170 did, across ten individual pages) nor even a "
+            "single worked example &mdash; the same compression this "
+            "project has now met twice already this session, at SN "
+            "48.83-92 and SN 48.93-104.",
+        ]),
+        ("Ten topics, confirmed by this file's own uddāna alone", [
+            "As general canonical background, already confirmed at "
+            "this project's own earlier treatment of SN 45.161-170: "
+            "the ten topics are searches (esanā), discriminations "
+            "(vidhā), defilements (āsavo), states of existence "
+            "(bhavo), the threefold suffering (dukkhatā tisso), "
+            "barrenness (khilaṁ), stains (malaṁ), troubles (nīgho), "
+            "feelings (vedanā), and craving/thirst (taṇhā tasinā), "
+            "here applied to the developed five faculties rather "
+            "than the eightfold path.",
+        ]),
+        ("A confirmed pattern, still not assumed indefinitely", [
+            "This project's own explicit stance: with three "
+            "consecutive vaggas now compressed identically, this "
+            "project treats the pattern as confirmed for this "
+            "stretch of the book, while still confirming each further "
+            "vagga range by directly reading its own bilara-data "
+            "file rather than skipping ahead on the strength of this "
+            "pattern alone.",
+        ]),
+    ],
+    terms=[
+        ("Esanāvaggo vitthāretabbo", "&ldquo;the Searches chapter is "
+             "to be elaborated in full&rdquo; &mdash; this file's own "
+             "sole substantive instruction, pointing entirely to SN "
+             "45.161-170 rather than repeating that content"),
+        ("esanā", "&ldquo;search, quest&rdquo; &mdash; this vagga's "
+             "own opening topic, already met throughout this "
+             "project's own SN 45.161-170"),
+        ("esanā vidhā āsavo, bhavo ca dukkhatā tisso", "&ldquo;"
+             "searches, discriminations, defilements, states of "
+             "existence, three kinds of suffering&rdquo; &mdash; the "
+             "closing uddāna's own opening line, naming the first "
+             "five of this vagga's own ten topics"),
+        ("khilaṁ malañca nīgho ca; vedanā taṇhā tasinā", "&ldquo;"
+             "barrenness, stains, and troubles, feelings, craving, "
+             "and thirst&rdquo; &mdash; the uddāna's remaining five "
+             "topics, completing the count of ten"),
+        ("Esanāvaggo ekādasamo", "&ldquo;the Searches chapter, the "
+             "eleventh&rdquo; &mdash; confirming this vagga's own "
+             "position as the eleventh in this saṃyutta"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source: the bare cross-reference "
+        "instruction, and the closing uddāna. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.105-114:1.1"),
+        ("p", "Uddāna", "sn48.105-114:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How many consecutive vaggas has this project now met compressed this same way?",
+         "opts": ["Three: Appamādavagga, Balakaraṇīyavagga, and now Esanāvagga", "Only this one, with no prior instances", "Five, spanning the entire book", "Two, with this vagga breaking the pattern"],
+         "correct": 0,
+         "expl": "Confirmed rather than merely suggested — the third consecutive instance of this exact compression."},
+        {"q": "What does the closing uddāna confirm about this vagga's own topics?",
+         "opts": ["Ten topics: searches, discriminations, defilements, states of existence, threefold suffering, barrenness, stains, troubles, feelings, and craving/thirst", "Only a single topic, repeated ten times", "Five topics, matching the five faculties exactly", "No topics — a purely abstract count"],
+         "correct": 0,
+         "expl": "Already confirmed at this project's own earlier work on SN 45.161-170."},
+        {"q": "How does this project treat the now-confirmed compression pattern for further vaggas?",
+         "opts": ["As confirmed for this stretch, but each further vagga is still checked directly rather than assumed", "As proof that no further vaggas exist in this book", "As license to skip reading any remaining vagga's own bilara-data", "As evidence that the pattern will reverse for the next vagga"],
+         "correct": 0,
+         "expl": "Confirmed for this stretch, but verification continues range by range."},
+    ],
+    marginalia=[
+        ("A third vagga, the same shape", [
+            "Appamāda, Balakaraṇīya, now Esanā —",
+            "the pattern confirmed, not merely guessed"
+        ]),
+        ("Ten topics, named only in the uddāna", [
+            "searches, defilements, feelings, thirst —",
+            "the full content lives at SN 45.161"
+        ]),
+        ("Still verified, not skipped ahead", [
+            "the pattern holds three times running —",
+            "the next range still gets its own direct read"
+        ]),
+        ("Searches, this vagga's own opening word", [
+            "esanā, what beings seek after —",
+            "now recast for the five faculties"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.105-114/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.93-104.html\">SN 48.93&ndash;104 &middot; "
+        "The Chapter on Hard Work</a> &mdash; the previous page, "
+        "closing the preceding vagga.",
+        "<a href=\"sn-45.161.html\">SN 45.161 &middot; "
+        "Searches</a> &mdash; this project's own earlier, fully "
+        "individual treatment of the identical ten topics, applied "
+        "there to the eightfold path.",
+    ],
+)
