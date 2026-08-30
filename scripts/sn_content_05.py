@@ -33210,3 +33210,167 @@ page_range(
         "(SN 47.73&ndash;104) are still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 8. Balakaraṇīyavagga — Hard Work (Vagga 8 of Book VII,
+# Satipaṭṭhānasaṃyutta). Confirmed by direct bilara-data reading: this
+# merged file gives only the bare opening clause of the "hard work
+# depends on the earth" simile, then explicitly instructs "(Tell in
+# full as in SN 45.149–160)" — pointing to this project's own
+# already-published Balakaraṇīyavagga in the SN 45 module (see
+# sn45.149 above) as the genuine expansion model.
+# --------------------------------------------------------------------------- #
+# SN 47.73-84 — Balādisutta (merged peyyāla range)
+# --------------------------------------------------------------------------- #
+page_range(
+    47, 73, 84, "Balādi",
+    "Hard Work, Etc.",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 47.73–84 — Hard Work, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 47.73–84 — a bare opening clause and an explicit "
+        "cross-reference instructing expansion \"as in SN 45.149–160,\" "
+        "this project's own already-published Balakaraṇīyavagga, "
+        "rather than writing out any of the twelve similes itself. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single bare opening clause (hard work depends on "
+                 "the earth), followed by an explicit instruction to "
+                 "expand it as an already-published parallel set "
+                 "elsewhere in this project's own translation of SN "
+                 "45"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; the same compression pattern as SN "
+                         "47.63-72, applied to ethics as the ground "
+                         "of the path"),
+    ],
+    why=(
+        "This merged file gives only the OPENING CLAUSE of a single "
+        "simile &mdash; all hard work depends on and is grounded on "
+        "the earth &mdash; before its own instruction, &ldquo;(tell "
+        "in full as in SN 45.149&ndash;160),&rdquo; points directly "
+        "to this project's own already-published Balakaraṇīyavagga "
+        "in the Book V (Mahāvagga) module, where this project's own "
+        "earlier work confirmed those twelve discourses are stored "
+        "as INDIVIDUAL files in bilara-data, each a genuinely varied "
+        "simile for ethics as the ground of the path, not a "
+        "repeating formula-substitution pattern."
+    ),
+    guide=[
+        ("An explicit cross-reference, once again, not a self-contained formula", [
+            "Confirmed by direct reading, this discourse repeats the "
+            "identical compression pattern met at SN 47.63-72 "
+            "&mdash; a single opening clause, then a pointer by "
+            "number, &ldquo;SN 45.149&ndash;160,&rdquo; to the exact "
+            "model to expand from, rather than writing out even one "
+            "worked example beyond the opening line itself.",
+        ]),
+        ("Twelve individually-varied similes, not a repeated formula", [
+            "This project's own already-published SN 45.149 "
+            "(&ldquo;Hard Work&rdquo;), the controlling discourse of "
+            "the vagga this range points to, confirms by direct "
+            "reading that unlike the two Gaṅgāpeyyāla vaggas' own "
+            "river-substitution pattern, these twelve discourses "
+            "(hard work, seeds, a dragon, a tree, a pot, a spike, "
+            "the atmosphere, two on clouds, a ship, a guest house, "
+            "and a river) are each stored as INDIVIDUAL files in "
+            "bilara-data, genuinely varied similes rather than one "
+            "template repeated with a single word swapped.",
+        ]),
+        ("The closing uddāna names all twelve, genuinely translated", [
+            "Confirmed by direct reading, this merged file's own "
+            "closing verse is genuinely translated (unlike the Pāli "
+            "colophon that precedes it), naming all twelve similes "
+            "this range covers in sequence &mdash; matching, item "
+            "for item, this project's own already-published SN "
+            "45.149-160.",
+        ]),
+    ],
+    terms=[
+        ("balakaraṇīyā kammantā", "&ldquo;hard work that gets "
+             "done&rdquo; &mdash; the subject of the one clause "
+             "genuinely given in this merged file"),
+("depends on the earth and is grounded on the earth",
+             "the discourse's own English rendering of its opening "
+             "image, paralleling &ldquo;sīlaṁ nissāya sīle "
+             "patiṭṭhāya&rdquo; (&ldquo;depending on and grounded "
+             "on ethics&rdquo;), the confirmed Pāli phrase already "
+             "used at SN 45.149 itself"),
+        ("(Tell in full as in SN 45.149&ndash;160)", "the "
+             "discourse's own explicit pointer to this project's own "
+             "already-published Balakaraṇīyavagga as the genuine "
+             "expansion model"),
+        ("Balakaraṇīyavaggo aṭṭhamo", "&ldquo;the eighth vagga, "
+             "Balakaraṇīyavagga&rdquo; &mdash; the Pāli root's own "
+             "closing colophon, left untranslated in the English "
+             "source"),
+        ("balaṁ bījañca nāgo ca, rukkho kumbhena sūkiyā, ākāsena ca "
+             "dve meghā, nāvā āgantukā nadī", "&ldquo;hard work, "
+             "seeds, and dragons, a tree, a pot, and a spike, the "
+             "atmosphere, and two on clouds, a ship, a guest house, "
+             "and a river&rdquo; &mdash; the closing uddāna, "
+             "genuinely translated, naming all twelve similes by "
+             "item"),
+    ],
+    text_intro=("The genuinely translated content of this merged "
+        "file: the one opening clause, and the closing summary verse "
+        "naming all twelve similes. The Pāli root's own colophon "
+        "(&ldquo;Balakaraṇīyavaggo aṭṭhamo&rdquo;) is left "
+        "untranslated in the source and is described, not quoted, "
+        "above. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the opening clause and cross-reference", "sn47.73-84:1.1-1.2"),
+        ("p", "&sect;2 &mdash; the closing summary verse", "sn47.73-84:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this merged file's own instruction, \"tell in full as in SN 45.149–160,\" point to?",
+         "opts": ["This project's own already-published Balakaraṇīyavagga in the SN 45 module", "A discourse not yet translated anywhere", "The Gaṅgāpeyyāla vaggas met earlier in this same saṃyutta", "An instruction to skip this section entirely"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the exact expansion model this range points to."},
+        {"q": "How does the vagga referenced (SN 45.149-160) differ structurally from the two Gaṅgāpeyyāla vaggas?",
+         "opts": ["Its twelve discourses are stored as individual files, each a genuinely varied simile, not one river-substitution template", "It has no discourses at all", "It repeats the identical formula with no variation whatsoever", "It contains only two discourses instead of twelve"],
+         "correct": 0,
+         "expl": "Confirmed by this project's own already-published work on SN 45.149."},
+        {"q": "What does this merged file's own closing uddāna list?",
+         "opts": ["All twelve similes by name — hard work, seeds, a dragon, a tree, a pot, a spike, the atmosphere, two on clouds, a ship, a guest house, and a river", "Only the first and last of the twelve similes", "A list unrelated to the twelve similes covered by this range", "Nothing — the closing verse is entirely untranslated"],
+         "correct": 0,
+         "expl": "Matching, item for item, this project's own already-published SN 45.149-160."},
+    ],
+    marginalia=[
+        ("Not even one full example given here", [
+            "just the opening clause, then a pointer —",
+            "\"tell in full as in SN 45.149–160\""
+        ]),
+        ("Twelve individually varied similes", [
+            "not one river-template repeated —",
+            "each stored as its own separate file"
+        ]),
+        ("Hard work depends on the earth", [
+            "echoing \"grounded on ethics\" from SN 47.46 —",
+            "ethics as the ground beneath the path"
+        ]),
+        ("A new vagga, a new controlling image", [
+            "Balakaraṇīyavagga, replacing diligence —",
+            "SN 47.85 onward still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.73-84/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.149.html\">SN 45.149 &middot; Hard Work</a> "
+        "&mdash; this project's own full translation of the "
+        "controlling discourse this range points to.",
+        "<a href=\"sn-47.63-72.html\">SN 47.63&ndash;72 &middot; The "
+        "Realized One, Etc.</a> &mdash; the previous merged range.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own remaining peyyāla ranges "
+        "(SN 47.85&ndash;104) are still in preparation.",
+    ],
+)
