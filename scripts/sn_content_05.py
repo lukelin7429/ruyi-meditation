@@ -28948,3 +28948,146 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.23 — Parihānasutta
+# Confirmed by direct reading: this discourse asks about "decline"
+# (saddhammaparihāna) using different Pāli vocabulary than SN 47.22's
+# own "long lasting" (ciraṭṭhiti) framing, and does not repeat SN
+# 47.22's own explicit reference to "after the Realized One's own
+# final quenching" -- a more general question about the teaching's
+# own decline or non-decline, not specifically tied to the post-
+# parinibbāna period. Otherwise the shape of the exchange and its
+# answer are identical to SN 47.22's own version.
+# --------------------------------------------------------------------------- #
+page(
+    47, 23, "Parihāna", "Decline",
+    vagga="Sīlaṭṭhitivagga",
+    meta_title="SN 47.23 — Decline | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Parihānasutta — Bhadda asks Ānanda what causes the true "
+        "teaching to decline or not decline, receiving the identical "
+        "answer already met at SN 47.22: it depends on whether the "
+        "four kinds of mindfulness meditation are developed and "
+        "cultivated. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The Chicken Monastery, near Pāṭaliputta &mdash; "
+                     "the same setting as SN 47.21 and 47.22"),
+        ("Speakers", "Venerable Bhadda and Venerable Ānanda"),
+        ("Form", "A question and answer, closely paralleling "
+                 "SN 47.22"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, closely paired with SN 47.22"),
+    ],
+    why=(
+        "Bhadda asks a question closely related to, but not "
+        "identical with, SN 47.22's own question: not specifically "
+        "what happens &ldquo;after the Realized One's own final "
+        "quenching,&rdquo; but more generally what causes the true "
+        "teaching to &ldquo;decline&rdquo; (parihāna) or not. Ānanda "
+        "gives the identical answer: the deciding factor either way "
+        "is whether the four kinds of mindfulness meditation are "
+        "developed and cultivated."
+    ),
+    guide=[
+        ("A related but distinct question from SN 47.22", [
+            "Confirmed by direct reading, this discourse's own "
+            "question uses &ldquo;saddhammaparihāna&rdquo; "
+            "(&ldquo;decline of the true teaching&rdquo;), distinct "
+            "Pāli vocabulary from SN 47.22's own "
+            "&ldquo;ciraṭṭhiti&rdquo; (&ldquo;long lasting&rdquo;), "
+            "and does not repeat SN 47.22's own explicit framing "
+            "&ldquo;after the Realized One's own final "
+            "quenching&rdquo; &mdash; a more general question about "
+            "decline itself, not specifically tied to the "
+            "post-parinibbāna period.",
+        ]),
+        ("The identical answer, reported honestly as a repetition", [
+            "Despite the distinct question, Ānanda's own answer is "
+            "confirmed by direct comparison to be worded identically "
+            "to SN 47.22's own answer, substituting only "
+            "&ldquo;decline&rdquo; for &ldquo;doesn't last long&rdquo; "
+            "&mdash; confirming this project's own honest-reporting "
+            "convention: a genuine repetition is reported as such, "
+            "not artificially varied to appear more distinct than it "
+            "is.",
+        ]),
+    ],
+    terms=[
+        ("saddhammaparihānaṁ", "&ldquo;decline of the true "
+             "teaching&rdquo; &mdash; this discourse's own distinct "
+             "term, differing from SN 47.22's own "
+             "&ldquo;ciraṭṭhiti&rdquo; (&ldquo;long lasting&rdquo;)"),
+        ("catunnaṁ satipaṭṭhānānaṁ abhāvitattā abahulīkatattā",
+             "&ldquo;because of not developing and cultivating the "
+             "four kinds of mindfulness meditation&rdquo; &mdash; "
+             "worded identically to SN 47.22's own cause of decline"),
+        ("saddhammaparihānaṁ na hoti", "&ldquo;the true teaching "
+             "doesn't decline&rdquo; &mdash; the positive outcome, "
+             "attributed to the identical practice"),
+        ("bhaddako ummaṅgo, bhaddakaṁ paṭibhānaṁ, kalyāṇī paripucchā",
+             "&ldquo;your approach and eloquence are excellent, and "
+             "it's a good question&rdquo; &mdash; the identical "
+             "opening praise already met at SN 47.21 and SN 47.22"),
+        ("cattāro satipaṭṭhānā", "the four kinds of mindfulness "
+             "meditation &mdash; named once more as the single "
+             "deciding factor"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; Bhadda's own question",
+             "sn47.23:1.1-1.5"),
+        ("p", "&sect;2 &mdash; Ānanda's own answer",
+             "sn47.23:2.1-2.8"),
+        ("p", "&sect;3 &mdash; the fourfold formula, and the answer "
+              "restated", "sn47.23:3.1-3.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own question differ from SN 47.22's own question?",
+         "opts": ["It asks more generally about \"decline\" of the teaching, without SN 47.22's own specific framing \"after the Realized One's own final quenching\"", "It asks about something completely unrelated to the teaching's own survival", "It is worded identically in every respect", "It asks only about ethics, not mindfulness"],
+         "correct": 0,
+         "expl": "A genuine but subtle distinction, confirmed by direct comparison of the Pāli vocabulary used in each."},
+        {"q": "How does Ānanda's own answer in this discourse compare to SN 47.22's own answer?",
+         "opts": ["Worded identically, substituting only \"decline\" for \"doesn't last long\"", "A completely different answer naming a different cause", "Ānanda refuses to answer this time", "The answer contradicts SN 47.22's own version"],
+         "correct": 0,
+         "expl": "A genuine repetition, reported honestly rather than artificially varied to seem more distinct."},
+        {"q": "What single factor does Ānanda name as the deciding cause for the teaching's own decline or non-decline?",
+         "opts": ["Whether the four kinds of mindfulness meditation are developed and cultivated", "The number of lay supporters", "The length of monastic robes", "The season of the year"],
+         "correct": 0,
+         "expl": "The same single practice named in SN 47.22, confirmed here to apply to the more general question of decline as well."},
+    ],
+    marginalia=[
+        ("A related question, worded differently", [
+            "\"decline,\" not \"after the final quenching\" —",
+            "a genuine but subtle distinction from SN 47.22"
+        ]),
+        ("The identical answer, honestly reported", [
+            "the same cause, the same practice named —",
+            "a real repetition, not artificially varied"
+        ]),
+        ("The same courteous opening, a third time", [
+            "\"your approach and eloquence are excellent\" —",
+            "Bhadda and Ānanda's own ongoing exchange"
+        ]),
+        ("Mindfulness as the single deciding factor", [
+            "developed, the teaching endures —",
+            "neglected, the teaching declines"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.23/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.22.html\">SN 47.22 &middot; Long "
+        "Lasting</a> &mdash; the previous discourse, asking a "
+        "closely related question with an identical answer.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
