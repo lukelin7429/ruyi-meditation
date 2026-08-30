@@ -1,0 +1,575 @@
+---
+layout: default
+title: The Ullambana Sūtra — 佛說盂蘭盆經
+permalink: /sutras/ullambana-sutra.html
+excerpt: Ru-Yi's reading guide, full Chinese–English translation, and self-check quiz for the Ullambana Sūtra (佛說盂蘭盆經) — the scriptural source of the Ghost Festival, read with reading notes drawn from Guifeng Zongmi's 佛說盂蘭盆經疏.
+---
+
+<style>
+  .fascicle{--terra:#c1631f;--terra-deep:#7c3a10;--gold:#e0a23e;--jade:#2f6d5e;--cream:#fbf3e6;--ink:#2b1d12;--muted:#6f5c47;--line:#ecdcc0;}
+  .fascicle *{box-sizing:border-box;}
+  .fascicle-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .fascicle-hero{background:#f7ecdb;color:var(--ink);border-bottom:1px solid var(--line);}
+  .fascicle-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .fascicle-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .fascicle-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(124,58,16,.35);}
+  .fascicle-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .fascicle h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(38px,6vw,64px);line-height:1.05;margin:12px 0 10px;color:var(--ink);max-width:16ch;}
+  .fascicle-hero .subtitle{font-family:'Playfair Display',Georgia,serif;font-size:22px;font-style:italic;color:var(--terra-deep);margin:0 0 18px;}
+  .fascicle-hero .subtitle .zh{font-style:normal;font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:var(--muted);margin-left:8px;}
+  .fascicle-hero p.lede{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .fascicle-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .fascicle-pill{border:1px solid #e3cda2;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#6b4a1f;font-weight:700;}
+  .fascicle-body{background:#fff;padding:54px 0 76px;}
+  .fascicle-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .fascicle-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .fascicle h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.6vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .fascicle h3{font-family:'Playfair Display',Georgia,serif;font-size:23px;color:var(--ink);margin:28px 0 10px;}
+  .fascicle h3:first-child{margin-top:0;}
+  .fascicle p,.fascicle li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .fascicle ul,.fascicle ol{padding-left:22px;margin-bottom:14px;}
+  .fascicle .lede{font-size:19px;color:var(--ink);border-left:2px solid var(--terra);padding-left:18px;margin:0 0 20px;}
+  .fascicle table{width:100%;border-collapse:collapse;margin:16px 0 22px;font-size:16px;}
+  .fascicle th,.fascicle td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--muted);}
+  .fascicle th{background:#f7ecdb;color:var(--ink);font-weight:700;font-size:14px;letter-spacing:.02em;}
+  .zh{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;}
+
+  .glance{background:#f7ecdb;border-left:3px solid var(--ink);padding:22px 26px;margin:26px 0 6px;font-size:16px;}
+  .glance dl{display:grid;grid-template-columns:130px 1fr;gap:9px 16px;margin:0;}
+  .glance dt{color:var(--muted);font-weight:700;}
+  .glance dd{color:var(--ink);margin:0;}
+
+  .terms{background:#fdf8ef;border:1px solid var(--line);padding:22px 24px;border-radius:6px;font-size:16px;}
+  .terms .term{margin-bottom:14px;}
+  .terms .term:last-child{margin-bottom:0;}
+  .terms .pali-word{font-family:'Playfair Display',Georgia,serif;font-style:italic;font-weight:700;color:var(--ink);}
+
+  .translation-table{display:grid;grid-template-columns:1fr;gap:14px;margin-top:20px;}
+  .translation-row{display:grid;grid-template-columns:1fr;gap:16px;align-items:start;}
+  @media(min-width:820px){.translation-row{grid-template-columns:1fr 1.08fr;}}
+  .source,.translation{border:1px solid var(--line);border-radius:8px;padding:20px 22px;background:#fffdf8;}
+  .translation{background:#f8fbf8;border-color:#cfe0d8;}
+  .label{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:900;color:var(--terra);margin-bottom:10px;}
+  .translation .label{color:var(--jade);}
+  .source p{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:#3a2612;font-size:19px;line-height:1.9;margin:0;}
+  .translation p{font-family:'Playfair Display',Georgia,serif;font-style:italic;color:var(--ink);font-size:17px;line-height:1.75;margin:0;}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf8ef;padding:22px 24px;margin-top:20px;border-radius:0 6px 6px 0;}
+  .note-box .who{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#8a5a1f;margin-bottom:10px;}
+  .note-box p{margin:0;font-size:16px;color:#5c4526;line-height:1.75;}
+  .note-box p+p{margin-top:12px;}
+
+  .mantra-box{background:#f7ecdb;border-left:3px solid var(--terra);padding:22px 26px;border-radius:0 6px 6px 0;margin-top:16px;}
+  .mantra-box .zh{font-size:25px;color:var(--ink);margin-bottom:12px;}
+  .mantra-box .translit{font-family:'Playfair Display',Georgia,serif;font-style:italic;font-size:22px;color:var(--terra-deep);margin-bottom:10px;}
+  .mantra-box .en{font-size:16px;color:var(--muted);}
+  .ending-mark{text-align:center;color:var(--terra);letter-spacing:.8em;margin:28px 0 0;font-size:19px;}
+
+  .rn-divider{display:flex;align-items:center;gap:14px;margin:8px 0 30px;}
+  .rn-divider h2{margin:0;white-space:nowrap;}
+  .rn-divider::after{content:"";flex:1;height:1px;background:var(--line);}
+
+  .resources{font-size:16px;}
+  .resources a{color:var(--terra-deep);text-decoration:underline;text-underline-offset:3px;}
+  .resources li{margin-bottom:10px;}
+
+  /* Quiz */
+  .quiz{background:#fdf8ef;border:1px solid var(--line);border-radius:8px;padding:26px 26px;}
+  .quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .quiz .q:first-of-type{padding-top:2px;}
+  .quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .quiz .q-num{display:inline-block;font-family:'Playfair Display',Georgia,serif;font-size:13px;letter-spacing:.1em;color:var(--terra);text-transform:uppercase;margin-bottom:6px;}
+  .quiz .q-text{font-size:18px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:6px;padding:11px 16px;margin-bottom:8px;font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .quiz .opt:hover:not(:disabled){background:#f7ecdb;border-color:var(--terra);}
+  .quiz .opt:disabled{cursor:default;}
+  .quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--muted);line-height:1.65;border-radius:0 4px 4px 0;}
+  .quiz .expl.show{display:block;}
+  .quiz .expl strong{color:var(--ink);}
+  .score-bar{margin-top:20px;padding:14px 18px;background:#fff;border:1px solid var(--line);border-radius:6px;font-size:15px;color:var(--muted);text-align:center;}
+  .score-bar strong{color:var(--ink);font-size:17px;}
+</style>
+
+<article class="fascicle">
+  <section class="fascicle-hero">
+    <div class="fascicle-hero-in">
+      <nav class="fascicle-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Sūtras</a> › The Ullambana Sūtra</nav>
+      <div class="fascicle-kicker">Mahāyāna · Filial Devotion &amp; the Rescue of the Dead</div>
+      <h1>The Ullambana Sūtra</h1>
+      <p class="subtitle"><em>The Sūtra of the Rescue-Basin</em><span class="zh">《佛說盂蘭盆經》</span></p>
+      <p class="lede">A short, plainly told story — a son who finds his mother reborn as a hungry ghost, and cannot save her alone — that became the scriptural root of the Ghost Festival observed across East Asia every autumn. Full translation, with reading notes drawn from Guifeng Zongmi's Tang-dynasty commentary.</p>
+      <div class="fascicle-meta">
+        <span class="fascicle-pill">Translator: Ru-Yi Meditation Center</span>
+        <span class="fascicle-pill">Source: Taishō T685 · Dharmarakṣa's translation, Western Jin, late 3rd c. CE</span>
+        <span class="fascicle-pill">Commentary guide: Guifeng Zongmi's 佛說盂蘭盆經疏 (Taishō T1792, Tang)</span>
+        <span class="fascicle-pill">Status: complete</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="fascicle-body">
+    <div class="fascicle-wrap">
+
+      <div class="glance">
+        <dl>
+          <dt>Title</dt><dd><em>Ullambana Sūtra</em> — traditionally glossed "the sūtra of the basin that rescues one from hanging upside-down"</dd>
+          <dt>Chinese</dt><dd><span class="zh">《佛說盂蘭盆經》</span>, translated by Dharmarakṣa (<span class="zh">竺法護</span>), Western Jin dynasty, late 3rd century CE — the scriptural source of the Ghost Festival (<span class="zh">中元節</span>) observed on the fifteenth day of the seventh lunar month</dd>
+          <dt>Tradition</dt><dd>A devotional, filial-piety sūtra — Zongmi classifies it within the "vehicles of humans and gods," concerned with ethical merit and rebirth rather than final liberation</dd>
+          <dt>Speaker</dt><dd>The Buddha, in dialogue with Maudgalyāyana (<span class="zh">目連</span>), his disciple foremost in supernatural power</dd>
+          <dt>Length</dt><dd>~950 Chinese characters — one of the shortest sūtras on this site, close to the length of the Heart Sūtra</dd>
+          <dt>Difficulty</dt><dd>★★☆☆☆ — a simple narrative anyone can follow in minutes; its two-part title and its logic of "many and right, not one alone" reward a second, closer reading</dd>
+        </dl>
+      </div>
+
+      <section class="fascicle-section">
+        <h2>A Short Sūtra Behind a Living Festival</h2>
+        <p class="lede">
+          Of all the texts on this site, this may be the one whose effects are easiest to see with your own eyes. Walk through a Chinese, Taiwanese, or Vietnamese neighborhood on the fifteenth day of the seventh lunar month and you will find tables of food set out on the street, temples holding all-night services, and paper lanterns floated on water to guide wandering spirits home. All of it traces back to roughly nine hundred characters of scripture: a son who finds his mother reborn as a hungry ghost, and cannot save her by himself.
+        </p>
+        <p>
+          The sūtra is not philosophically difficult. It has none of the negations of the Heart Sūtra or the vast cosmology of the Flower Ornament literature. It is closer to a parable, told once, plainly, and then applied. But its plainness is exactly why it travelled so far — into ritual calendars, into family life, into a specific day still kept at Ru-Yi and at temples across the world.
+        </p>
+
+        <h3>The teaching in one sentence</h3>
+        <p>
+          A devotion strong enough to move heaven and earth still cannot, by itself, dissolve karma set deep by many lifetimes of habit — but the combined, rightly-directed merit of a genuine spiritual community can.
+        </p>
+
+        <h3>Two Names in One Title</h3>
+        <p>
+          The title of this sūtra is bilingual, and Zongmi's commentary opens its exegesis by taking the two halves apart. <em>Ullambana</em> he explains as a term from "the western regions" (India), traditionally rendered <span class="zh">倒懸</span> — "hanging upside-down," the image of the hungry ghost's suffering. <span class="zh">盆</span>, "basin," is the other half: a plain Chinese word naming the vessel used to make the rescuing offering. Put together, the title names both the affliction and its remedy in a single phrase: <em>the basin that rescues one from hanging upside-down</em>.
+        </p>
+        <p>
+          Zongmi also records that this sūtra reached China in more than one translation. Dharmarakṣa's version — the one translated on this page — is the one that survived into common use. A second translation by Dharmagupta, titled the <em>Sūtra of the Bathing-Basin Offering</em> (<span class="zh">灌臘經</span>), emphasized the washing-vessels and oil-lamps named in the offering list below. A third, anonymous version circulated under the title <em>Sūtra of Repaying Kindness</em> (<span class="zh">報恩經</span>), naming the practice by its purpose rather than its method. Three titles, Zongmi notes, for one teaching — each choosing a different word to carry the weight of the whole.
+        </p>
+
+        <h3>Why One Filial Son's Effort Wasn't Enough</h3>
+        <p>
+          The sūtra's central turn is easy to read past on a first pass: Maudgalyāyana is not an ordinary disciple. He has, by the story's own account, just attained the six supernormal powers — abilities that let him see across the six realms of rebirth at will. He personally carries food to his mother. And still, it is not enough; the rice turns to fire in her hands.
+        </p>
+        <p>
+          Zongmi reads the Buddha's response as a deliberate ranking. Simple devotion, however intense, is not sufficient alone — "not within the power of you alone to resolve," the Buddha tells him. Nor would sheer numbers of the wrong kind help — an army of hostile or unrighteous spirits is no better than one weak son. What is needed, in Zongmi's own formula, is what is <em>both many and right</em>: the assembled sangha, rightly practicing, offering their collective merit together. Neither solitary virtue nor mere crowd will do; only the combination succeeds. This is the doctrinal hinge the entire middle of the sūtra is built to explain.
+        </p>
+
+        <h3>A Modest Text with an Outsized Legacy</h3>
+        <p>
+          It is worth being honest about where Zongmi places this sūtra within the wider canon, because the placement is more modest than the sūtra's later fame would suggest. In his fourfold opening analysis, he classifies it as belonging to the "vehicles of humans and gods" (<span class="zh">人天乘</span>) — texts concerned with ethical merit, filial repayment, and favorable rebirth, rather than with the direct teaching of emptiness or final liberation that occupies texts like the Heart Sūtra or the Vimalakīrti Sūtra. By the old threefold classification of the canon, he even places it within what he calls the "lesser vehicle" basket, on grounds of genre and content, despite its narrative including bodhisattvas of the ten stages appearing in disguise among the assembly.
+        </p>
+        <p>
+          Nothing in that classification diminished its influence. A modestly ranked text, once it named a specific day, a specific offering, and a clear reason to act, became one of the most practically consequential scriptures in Chinese Buddhist life — read, and performed, far more widely than many doctrinally weightier works.
+        </p>
+
+        <h3>Filial Piety, Confucian and Buddhist</h3>
+        <p>
+          A large portion of Zongmi's commentary — more than in almost any other commentary on this site — is devoted to comparing Confucian and Buddhist ways of honoring parents, because he expected readers to ask why a foreign religion needed its own theory of filial devotion at all. His answer keeps both traditions but distinguishes their reach. The Confucian way, he says, cares chiefly for the body and its rites: preserving the body one was given, upholding the ancestral shrine, marking mourning and memorial with fixed ceremony. The Buddhist way, without rejecting any of that, aims further — at what happens to a parent's mind and karmic condition after death, in whatever realm of rebirth they may have gone to, which no ancestral rite by itself can reach or improve.
+        </p>
+        <p>
+          He is careful not to present this as contempt for Confucian practice; he calls filial devotion itself "what sage and worthy alike hold as root," in both traditions equally. The Ullambana offering, in his reading, is not a replacement for mourning rites but an extension of the same impulse into territory ordinary rites cannot follow the departed into.
+        </p>
+
+        <h3>Zongmi's Own Reason for Writing This</h3>
+        <p>
+          Zongmi opens his commentary with an unusually personal admission, rare among the classical commentators translated on this site. He explains that he lost his own parents while still young, and that for years afterward he kept the conventional rites of mourning — tending a grave, observing the seasonal offerings — yet felt that none of it actually reached his parents in whatever condition they were now in. Searching for "the teaching of sages and worthies" that might genuinely help them, he found this sūtra's method, adopted it as his own yearly practice on the sangha's day of self-examination, and only later — asked repeatedly by monastics and laypeople who had studied under him — agreed to set down a formal commentary. The scholarship in the pages that follow, in other words, grew out of a personal search for a way to help two people he could no longer reach by ordinary means.
+        </p>
+        <p style="font-size:15px;color:var(--muted);">(Readers of this site's earlier translation of the <a href="{{ '/sutras/yuanjue-jing/' | relative_url }}">Sūtra of Perfect Enlightenment</a> will recognize Zongmi as its commentator too — a separate episode in his life, and a separate text, from the personal grief he describes here.)</p>
+
+        <h3>The Festival at Ru-Yi</h3>
+        <p>
+          Ru-Yi Meditation Center keeps this sūtra's day on the calendar: an Ullambana Assembly (<span class="zh">盂蘭盆法會</span>) each year in the seventh lunar month, gathering to remember and give thanks to parents and ancestors. Details for this year's observance are on our <a href="{{ '/community/dharma-events/' | relative_url }}">community events page</a>. Reading the sūtra itself first — seeing exactly what is being offered, and why — is, we think, the best preparation for taking part.
+        </p>
+
+        <h3>How to Read This Text</h3>
+        <p>The Ullambana Sūtra rewards two different kinds of reading, and both are worth doing:</p>
+        <ol>
+          <li><strong>As a story, straight through.</strong> On a first pass, just follow Maudgalyāyana from his vision of his mother's suffering to her release. The narrative does most of the teaching on its own.</li>
+          <li><strong>As an argument, section by section.</strong> On a second pass, notice the shape of the Buddha's reasoning — why devotion alone fails, why numbers alone fail, and why the two together, "many and right," succeed. That structure, more than any single line, is what the commentary tradition treats as the sūtra's real teaching.</li>
+        </ol>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>Key Terms</h2>
+        <div class="terms">
+          <div class="term"><span class="pali-word">Ullambana</span> <span class="zh">盂蘭盆</span> — traditionally glossed "hanging upside-down" (the ghost's suffering) plus "basin" (the offering vessel): the rescue named in a single compound title.</div>
+          <div class="term"><span class="pali-word">Maudgalyāyana</span> <span class="zh">目犍連 · 目連</span> — one of the Buddha's two chief disciples, foremost among them in supernatural power; the sūtra's central figure, seeking to save his mother.</div>
+          <div class="term"><span class="pali-word">preta</span> <span class="zh">餓鬼</span> — "hungry ghost," one of the three lower realms of rebirth: a state of perpetual craving that can never be satisfied, the realm into which Maudgalyāyana's mother was reborn.</div>
+          <div class="term"><span class="pali-word">Pravāraṇā</span> <span class="zh">僧自恣日</span> — the sangha's "day of self-examination," at the close of the three-month rains retreat, when each monastic invites the community to point out any fault. The merit of the whole sangha is said to be at its yearly peak on this day — hence its choice as the day for this offering.</div>
+          <div class="term"><span class="pali-word">seven generations of parents</span> <span class="zh">七世父母</span> — in Zongmi's reading, not the Confucian sense of ancestors traced through the father's line, but one's own parents across seven successive rebirths — since in each life, someone gave birth to and raised the very body now practicing the path.</div>
+          <div class="term"><span class="pali-word">the three lower realms</span> <span class="zh">三途</span> — rebirth as a hell-being, a hungry ghost, or an animal; the states of suffering from which the Ullambana offering is said to deliver one's parents.</div>
+        </div>
+      </section>
+
+      <div class="rn-divider"><h2>The Translation</h2></div>
+
+      <section class="fascicle-section">
+        <p class="lede">
+          The Chinese below is Dharmarakṣa's translation (<span class="zh">竺法護</span>, Western Jin dynasty, late 3rd century CE; Taishō T685), the version that entered common liturgical use across East Asia and is in the public domain. The English is Ru-Yi's own translation, kept close to the Chinese and set out passage by passage — the complete sūtra, without abridgment. The reading note after each passage draws on Guifeng Zongmi's (<span class="zh">圭峰宗密</span>, 780–841) <em>佛說盂蘭盆經疏</em> — a Tang-dynasty commentary in two fascicles, preserved at Taishō T1792. It is quoted and paraphrased here as a reference, in Ru-Yi's own words — not reproduced in full.
+        </p>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>1. The Setting</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>聞如是：一時佛在舍衛國祇樹給孤獨園。</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>Thus have I heard: at one time the Buddha was dwelling at Śrāvastī, in the Jeta Grove, the garden of Anāthapiṇḍada.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Zongmi</div>
+          <p>Zongmi treats this formula as the sūtra's "proof of authenticity" (<span class="zh">證信序</span>) — the standard six elements (faith, hearing, time, teacher, place, assembly) that every properly transmitted sūtra opens with, so that a later reader has grounds to trust the text. He notes this sūtra's opening leaves the assembled congregation unlisted, unlike most sūtras, and suggests the detail is simply supplied later, at the close, where the text names "the fourfold assembly" as present throughout.</p>
+          <p>He glosses Śrāvastī as meaning, roughly, "renowned for wealth" — a city known both for material prosperity and for many residents who had heard and understood the teaching far beyond its own borders — and Anāthapiṇḍada as "the one who gives generously," a lay patron whose name became attached to the grove precisely because of his habit of caring for the destitute and the alone.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>2. Maudgalyāyana's Vow and Vision</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>大目乾連始得六通，欲度父母，報乳哺之恩。即以道眼觀視世間，見其亡母生餓鬼中，不見飲食，皮骨連立。</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>Mahāmaudgalyāyana had newly attained the six supernormal powers. Wishing to deliver his parents and repay the debt of their nursing and care, he used his eye of the Way to survey the world — and saw that his departed mother had been reborn among the hungry ghosts: unable to find food or drink, her skin drawn tight over her bones.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Zongmi</div>
+          <p>Zongmi traces the name Maudgalyāyana to a clan of "bean-gatherers" and notes that his very motive for seeking the path — repaying his parents — is stated in the text itself, before any of his other attainments are named. Of the six supernormal powers, it is specifically the "heavenly eye," gained only upon reaching the path, that lets him see his mother's fate at all; this was not an ordinary premonition but the direct fruit of his own realization.</p>
+          <p>Elsewhere in his commentary, Zongmi catalogues several distinct types of hungry ghost by the specific karma that produces each one, and identifies Maudgalyāyana's mother as what he calls a "torch-mouthed ghost" — one whose throat bursts into flame the instant food approaches it — a fate he traces to acts of extreme miserliness in life, including, in a story he relates from an earlier text, deceiving a promised guest of a meal, which he says set five hundred consecutive lifetimes of ingrained stinginess in motion.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>3. The Failed Offering</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>目連悲哀，即鉢盛飯，往餉其母。母得鉢飯，便以左手障鉢，右手摶飯。食未入口，化成火炭，遂不得食。</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>Grief-stricken, Maudgalyāyana filled a bowl with rice and brought it to his mother. When she received the bowl, she shielded it with her left hand and scooped the rice with her right — still guarding it, even now, against others taking it from her. But before the food reached her mouth, it turned to burning coals, and she could not eat.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Zongmi</div>
+          <p>The detail Zongmi lingers on is the shielding hand: even reduced to this state, the habit of stinginess reasserts itself instinctively, before any conscious choice. This, for him, is the whole point of the scene — the very fault that caused her rebirth here is still actively operating, undiminished by suffering. Environment follows mind, and the fruit follows the karma that grew it, in his phrase: the food catches fire near her mouth precisely because her mouth is "a torch-mouth" by karmic nature, the way ice stays solid near steam that has not yet reached it.</p>
+          <p>He draws the conclusion plainly: spiritual power cannot override karmic law. Maudgalyāyana's six supernormal abilities let him find his mother and reach her — but they cannot, by themselves, unmake the specific karma that keeps her from eating. Something other than personal power is required.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>4. Crying Out to the Buddha</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>目連大叫，悲號啼泣，馳還白佛，具陳如此。</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>Maudgalyāyana cried out in anguish, weeping and wailing, and rushed back to tell the Buddha everything, just as it had happened.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Zongmi</div>
+          <p>Zongmi compares the gesture to a child appealing to a parent, or a minister to a ruler, once his own strength has reached its limit. He points out the irony directly: this is a disciple who has, by other accounts, "reversed the flow of great rivers and turned back the sun and moon" through his mastery of psychic power — and even so, he could not relieve his own mother's hunger for a single moment. It is this exact gap between formidable personal power and its evident insufficiency that drives him, weeping, to lay the whole matter before the Buddha rather than attempt anything further alone.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>5. The Buddha's Diagnosis</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>佛言：「汝母罪根深結，非汝一人力所奈何！汝雖孝順，聲動天地，天神、地神、邪魔、外道、道士、四天王神亦不能奈何！</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>The Buddha said, "The root of your mother's offense runs deep and is tightly knotted; this is not something within the power of you alone to resolve. Though your filial devotion moves heaven and earth, not even the spirits of heaven and earth, demons, practitioners of other paths, or the Four Heavenly Kings and their retinues can do anything about it.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Zongmi</div>
+          <p>Zongmi reads this as two separate diagnoses stacked together. First, the offense itself: "deep and knotted" means karma reinforced across many lifetimes of habituated stinginess, not a single fault that a single act of merit could offset. Second, a ranking of who cannot help, regardless of how exalted: not just Maudgalyāyana alone, but the mightiest non-Buddhist spirits and deities besides. His image for the first point — one strand of silk cannot bind an elephant, no matter how devoted the hand holding it.</p>
+          <p>Both halves exist to clear the ground for what follows. Neither solitary virtue, however sincere, nor sheer supernatural rank, however impressive, is the missing ingredient. Something structurally different is required — which the Buddha names in the next passage.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>6. The Power of the Sangha</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><p>當須十方眾僧威神之力乃得解脫。吾今當為汝說救濟之法，令一切難皆離憂苦，罪障消除。」</p></div>
+            <div class="translation"><p>She can be freed only through the awesome spiritual power of the sangha of the ten directions. I shall now explain to you the method of deliverance, so that all who are in difficulty may leave behind their sorrow and suffering, and their karmic obstructions be dissolved."</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Zongmi</div>
+          <p>Here Zongmi supplies the fourfold logic that he treats as the doctrinal hinge of the entire sūtra: something can be "right" without being "many" (Maudgalyāyana alone — insufficient, as just shown); "many" without being "right" (the crowd of spirits and deities named above — also insufficient); both "many" and "right" together (the assembled, rightly-practicing sangha — this alone succeeds); or neither, which the text has no need even to mention. Rescue requires the specific combination, not either quality on its own.</p>
+          <p>He also notes what kind of power this is: not magic performed on the mother's behalf from outside, but the accumulated ethical and meditative merit of a genuine community, directed toward her by the offering the Buddha is about to describe.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>7. Setting the Day and the Offering</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><p>佛告目連：「十方眾僧於七月十五日僧自恣時，當為七世父母及現在父母厄難中者，具飯、百味五果、汲灌盆器、香油錠爥、床敷臥具，盡世甘美以著盆中，供養十方大德眾僧。</p></div>
+            <div class="translation"><p>The Buddha told Maudgalyāyana, "On the fifteenth day of the seventh month, when the sangha of the ten directions holds its day of self-examination, prepare rice, the hundred flavors and five fruits, basins and vessels for washing, incense, oil, lamps and candles, and bedding — the finest and sweetest things this world affords — and place them in a basin, offered to the great and virtuous sangha of the ten directions, on behalf of the parents of seven generations past and the parents now living who are in difficulty.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Zongmi</div>
+          <p>Zongmi frames this whole instruction through five deliberately chosen "excellences" — an excellent time, an excellent intention, an excellent offering, an excellent field of merit, and an excellent result — likening the entire practice to farming: filial devotion is the seed, one's own goods and effort the plow, and the assembled sangha the fertile field into which they are set.</p>
+          <p>He explains why this specific day: it falls at the close of the three-month rains retreat, on the day monastics formally invite the community to name any fault in them the community may have observed — a practice meant to keep the whole sangha's conduct accountable, at the exact moment its collective merit for the year is at its height. He also stresses that <span class="zh">七世父母</span> here does not mean the Confucian "seven generations of ancestors" traced through the father's line; it means one's own parents across seven successive rebirths, since in each of those lives, someone bore and raised the very body now walking the path.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>8. The Assembly and the Result</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><p>當此之日，一切聖眾或在山間禪定、或得四道果、或樹下經行；或六通自在、教化聲聞、緣覺；或十地菩薩大人權現比丘，在大眾中；皆同一心，受鉢和羅飯。具清淨戒聖眾之道，其德汪洋，</p></div>
+            <div class="translation"><p>On this day, the assembled sages present themselves in many guises — some absorbed in meditation among the mountains, some who have attained one of the four fruits of the path, some walking in mindful practice beneath the trees; some at ease in the six supernormal powers, teaching those bound for the paths of the śrāvaka and the pratyekabuddha; some great bodhisattvas of the ten stages, appearing among the assembly in the guise of ordinary monastics. All, with a single mind, receive the offered rice. Upholding the way of a pure-precepted sangha, their virtue is as vast as the ocean.</p></div>
+          </div>
+          <div class="translation-row">
+            <div class="source"><p>其有供養此等自恣僧者，現在父母、七世父母、六種親屬得出三途之苦，應時解脫，衣食自然。若復有人父母現在者，福樂百年；若已亡七世父母，生天，自在化生，入天華光，受無量快樂。」</p></div>
+            <div class="translation"><p>Whoever makes offerings to this sangha on its day of self-examination brings about, for that person's parents now living, for the parents of seven generations past, and for the six kinds of relatives, deliverance from the suffering of the three lower realms — freedom without delay, clothing and food arising of themselves. If one's parents are still living, they will enjoy blessings and happiness for a hundred years; if the parents of seven generations have already died, they will be born in the heavens, freely transformed, entering into radiant heavenly light and receiving boundless joy."</p></div>
+          </div>
+          <div class="translation-row">
+            <div class="source"><p>時佛勅十方眾僧，皆先為施主家呪願七世父母，行禪定意，然後受食。初受盆時，先安在佛塔前，眾僧呪願竟，便自受食。</p></div>
+            <div class="translation"><p>The Buddha then instructed the sangha of the ten directions: each should first recite vows of blessing on behalf of the donor's family and the seven generations of parents, and settle the mind in meditative absorption, before receiving the food. When the offering is first received, it should be set before the Buddha's stūpa; only once the assembly has completed its vows of blessing may the monastics themselves eat.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Zongmi</div>
+          <p>Zongmi calls this the fourth and fifth of his five "excellences" — the excellent field and the excellent result — and deliberately catalogues the assembly's full range: from ordinary forest-dwelling meditators, up through the four fruits of stream-enterer, once-returner, non-returner, and arhat, to advanced bodhisattvas concealed within the assembly in the plain form of monastics. A single offering, made to this one gathered field, therefore reaches every level of the path at once. He underlines "with a single mind" as the reason the field works at all: however different their individual attainment, every recipient shares one motive — gratitude, and the wish to relieve suffering — and it is this shared intention, not merely their combined numbers, that makes the field fertile.</p>
+          <p>On the closing ritual instruction, he reads the sequence as purifying all three types of action together: the recited dedication purifies speech, the settled meditative mind purifies thought, and the act of eating — only after the vows are complete — purifies the body. He also notes that Buddha, Dharma, and Sangha are each present in turn: the stūpa represents the Buddha, the dedication represents the Dharma, and the shared meal represents the Sangha itself.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>9. The Mother's Release</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>爾時目連比丘及此大會大菩薩眾皆大歡喜，而目連悲啼泣聲釋然除滅。是時目連其母即於是日，得脫一劫餓鬼之苦。</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>At that time the monk Maudgalyāyana and the great bodhisattvas of the assembly all rejoiced greatly, and the sound of Maudgalyāyana's grieving and weeping dissolved and ceased. On that very day, his mother was freed from a kalpa's suffering as a hungry ghost.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Zongmi</div>
+          <p>Zongmi notes a small compression in the narrative here: strictly, the mother's release should follow the actual performance of the offering on the appointed day some time later, not arrive immediately upon Maudgalyāyana simply hearing the teaching. He suggests the compilers of the sūtra simply telescoped the sequence for narrative economy, and that the intended sense runs: "having heard this teaching, he made the offering as instructed — and it was then that his mother was released."</p>
+          <p>He closes this section with evident admiration for the speed of the result: the filial son makes his offering in a single morning, and the compassionate mother is freed from calamity on that very same day — a measure, he says, of how swift and great the power of a rightly-directed sangha offering can be.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>10. Maudgalyāyana's Wider Request</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>爾時目連復白佛言：「弟子所生父母，得蒙三寶功德之力、眾僧威神之力。故，若未來世一切佛弟子行孝順者，亦應奉此盂蘭盆，救度現在父母乃至七世父母，為可爾不？」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>Maudgalyāyana then said to the Buddha, "This disciple's own parents have been saved through the power of the merit of the Three Jewels and the awesome spiritual power of the sangha. If, in ages to come, all disciples of the Buddha who practice filial devotion should likewise offer this Ullambana basin to deliver their parents now living, and their parents of seven generations past — would that also be permitted?"</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Zongmi</div>
+          <p>With this question, Zongmi marks the beginning of the sūtra's transmission section — the point where the teaching turns from "the rescue of one man's mother" toward "an offering every disciple may make." He compares Maudgalyāyana's gesture to a minister who, having received a ruler's grace himself, asks that the same grace be extended more widely — citing the classical example of a filial minister who persuaded his own lord to turn a private reconciliation with his mother into a public act others could follow.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>11. The Buddha's Answer, for All Future Disciples</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><p>佛言：「大善快問！我正欲說，汝今復問。善男子！若有比丘比丘尼、國王太子、王子大臣宰相、三公百官、萬民庶人行孝慈者，皆應為所生現在父母、過去七世父母，於七月十五日——佛歡喜日、僧自恣日——以百味飲食安盂蘭盆中，施十方自恣僧，乞願便使現在父母壽命百年、無病，無一切苦惱之患，乃至七世父母離餓鬼苦，得生天人中，福樂無極。」</p></div>
+            <div class="translation"><p>The Buddha said, "Excellent — a most timely question! I was about to speak of this myself, and now you have asked it. Good sons, if there are monks and nuns, kings and princes, ministers and officials of every rank, or common people who practice filial kindness, all of them should — on behalf of the parents now living who bore them, and the parents of seven generations past — on the fifteenth day of the seventh month, the day of the Buddha's rejoicing and the sangha's day of self-examination, place food of a hundred flavors in the Ullambana basin and offer it to the sangha of the ten directions on its day of self-examination, praying that their living parents be granted a hundred years of life, free from illness and every affliction, and that their parents of seven generations past be freed from the suffering of the hungry ghosts and reborn among gods and humans, their blessings and happiness without limit."</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Zongmi</div>
+          <p>Zongmi reads "excellent, a timely question" as marking a moment where teacher and student's intentions meet exactly — the Buddha's own wish to speak and Maudgalyāyana's question arriving together, as if silently in accord. He points out how deliberately universal the list of practitioners is: monastic and lay, ruler and common person, named side by side, so that no rank of person is excluded from the offering.</p>
+          <p>He also addresses a small doctrinal puzzle directly: a Buddha, having gone beyond ordinary joy and sorrow, should not properly be said to "rejoice" on any particular day. He resolves it by reading the "day of the Buddha's rejoicing" as a response fitted to the occasion — the sangha's ninety days of concentrated practice reaching their completion — expressed in terms an audience of ordinary listeners can feel and understand, not a literal claim about the Buddha's own state of mind.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>12. A Yearly Practice, and the Assembly's Joy</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><p>佛告諸善男子、善女人：「是佛弟子修孝順者，應念念中常憶父母，供養乃至七世父母。年年七月十五日，常以孝順慈憶所生父母，乃至七世父母，為作盂蘭盆施佛及僧，以報父母長養、慈愛之恩。若一切佛弟子應當奉持是法。」</p></div>
+            <div class="translation"><p>The Buddha told the good sons and good daughters, "Disciples of the Buddha who practice filial devotion should, thought after thought, constantly remember their parents, making offerings on behalf of parents even to the seventh generation. Year after year, on the fifteenth day of the seventh month, remember with filial love the parents who bore you, and the parents of seven generations past, and make this Ullambana offering to the Buddha and the sangha, in repayment of your parents' kindness in raising and cherishing you. All disciples of the Buddha should uphold this teaching."</p></div>
+          </div>
+          <div class="translation-row">
+            <div class="source"><p>爾時目連比丘、四輩弟子，聞佛所說，歡喜奉行。</p></div>
+            <div class="translation"><p>At that time the monk Maudgalyāyana and the fourfold assembly, hearing what the Buddha had taught, rejoiced and carried it into practice.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Zongmi</div>
+          <p>Zongmi reads "thought after thought, constantly" as ruling out a single, one-time gesture of gratitude: filial remembrance, in his reading, has no fixed beginning or end, and the yearly offering is simply its outward, visible expression. He pairs this with a line of his own: as a parent's love for a child never leaves the parent's mind for even a moment, so a filial child's repayment must never let a single year's offering lapse.</p>
+          <p>On the sūtra's closing line, he notes that it ends the way sūtras conventionally end — the assembly receiving the teaching with joy — but suggests the joy here carries particular weight. Before this teaching, a filial disciple whose parents had already died and been reborn elsewhere had, in Zongmi's words, "a sorrow with nowhere to turn": no ritual means of actually helping them. Now, having heard of a method they can test and trust, they know their devotion has somewhere real to go — which is, he says, why they receive it with such evident joy.</p>
+        </div>
+        <div class="ending-mark">· · ·</div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>Self-Check</h2>
+        <p style="font-size:15px;color:var(--muted);margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+        <div class="quiz" id="quiz">
+
+          <div class="q" data-correct="2">
+            <span class="q-num">Question 1 of 10</span>
+            <div class="q-text">What does the title <em>Ullambana</em> traditionally refer to, according to Zongmi's commentary?</div>
+            <button class="opt">A place name in India where the sūtra was first taught</button>
+            <button class="opt">The name of Maudgalyāyana's mother</button>
+            <button class="opt">"Hanging upside-down" — the ghost's suffering — paired with "basin," the vessel of the rescuing offering</button>
+            <button class="opt">A type of Buddhist monastery</button>
+            <div class="expl"><strong>Correct: C.</strong> Zongmi glosses <em>Ullambana</em> as "hanging upside-down," describing the hungry ghost's torment, and <span class="zh">盆</span> ("basin") as the plain Chinese word for the offering vessel. Together the title names both the affliction and its remedy.</div>
+          </div>
+
+          <div class="q" data-correct="1">
+            <span class="q-num">Question 2 of 10</span>
+            <div class="q-text">Why does Maudgalyāyana see his mother's suffering in the first place?</div>
+            <button class="opt">A fortune-teller warns him</button>
+            <button class="opt">He has just attained the six supernormal powers, including the "heavenly eye" that lets him survey the realms of rebirth</button>
+            <button class="opt">His mother appears to him in a dream</button>
+            <button class="opt">The Buddha tells him directly</button>
+            <div class="expl"><strong>Correct: B.</strong> The heavenly eye, gained only upon reaching the path, is what lets Maudgalyāyana see across the six realms at will — his vision of his mother is the direct fruit of his own spiritual attainment, not an ordinary premonition.</div>
+          </div>
+
+          <div class="q" data-correct="0">
+            <span class="q-num">Question 3 of 10</span>
+            <div class="q-text">When Maudgalyāyana brings his mother a bowl of rice, what happens?</div>
+            <button class="opt">She shields it protectively with one hand before the food turns to burning coals — her old habit of stinginess still operating even now</button>
+            <button class="opt">She eats it gratefully and is instantly freed</button>
+            <button class="opt">She refuses to touch it out of pride</button>
+            <button class="opt">She shares it with other hungry ghosts nearby</button>
+            <div class="expl"><strong>Correct: A.</strong> Zongmi reads the shielding gesture as the whole point of the scene: the very karmic habit that caused her rebirth as a hungry ghost — miserliness — is still active, undiminished by her suffering, which is why the food cannot reach her.</div>
+          </div>
+
+          <div class="q" data-correct="3">
+            <span class="q-num">Question 4 of 10</span>
+            <div class="q-text">Why can't Maudgalyāyana simply save his mother through his own supernatural power and devotion?</div>
+            <button class="opt">He doesn't try hard enough</button>
+            <button class="opt">The Buddha forbids him from acting alone</button>
+            <button class="opt">His mother refuses his help</button>
+            <button class="opt">Her karma is rooted too deeply across many lifetimes for any one person's individual effort — spiritual power cannot override karmic law</button>
+            <div class="expl"><strong>Correct: D.</strong> The Buddha tells him plainly that this is "not within the power of you alone to resolve." Zongmi reads this as showing that supernatural ability, however great, cannot by itself unmake karma set by lifetimes of habituated action.</div>
+          </div>
+
+          <div class="q" data-correct="1">
+            <span class="q-num">Question 5 of 10</span>
+            <div class="q-text">According to the sūtra, what actually can free Maudgalyāyana's mother?</div>
+            <button class="opt">A more powerful mantra</button>
+            <button class="opt">The combined, rightly-directed merit of the sangha of the ten directions — offered together on their day of self-examination</button>
+            <button class="opt">Reincarnating her directly into a heavenly realm</button>
+            <button class="opt">Nothing — her fate is fixed</button>
+            <div class="expl"><strong>Correct: B.</strong> Zongmi's fourfold logic is the doctrinal hinge of the sūtra: neither solitary devotion nor sheer numbers of the wrong kind suffice. What works is specifically "many and right" together — the assembled, rightly-practicing sangha's collective merit.</div>
+          </div>
+
+          <div class="q" data-correct="2">
+            <span class="q-num">Question 6 of 10</span>
+            <div class="q-text">Why is the fifteenth day of the seventh month chosen as the day for this offering?</div>
+            <button class="opt">It is the Buddha's birthday</button>
+            <button class="opt">It is chosen at random by Maudgalyāyana</button>
+            <button class="opt">It is the sangha's day of self-examination (Pravāraṇā), at the close of the rains retreat, when the whole community's collective merit is said to be at its yearly peak</button>
+            <button class="opt">It marks the anniversary of the Buddha's enlightenment</button>
+            <div class="expl"><strong>Correct: C.</strong> Pravāraṇā falls at the end of the three-month rains retreat, when monastics invite the community to name any fault observed in them — a practice meant to keep conduct accountable, at the exact moment the sangha's merit for the year is at its height.</div>
+          </div>
+
+          <div class="q" data-correct="0">
+            <span class="q-num">Question 7 of 10</span>
+            <div class="q-text">In Zongmi's reading, what does "seven generations of parents" (<span class="zh">七世父母</span>) mean in this sūtra?</div>
+            <button class="opt">One's own parents across seven successive rebirths — not the Confucian sense of ancestors traced through the father's line</button>
+            <button class="opt">Seven literal generations of ancestors, counted patrilineally, exactly as in Confucian ancestor worship</button>
+            <button class="opt">Seven different Buddhas of the past</button>
+            <button class="opt">A poetic way of saying "all ancestors, however many"</button>
+            <div class="expl"><strong>Correct: A.</strong> Zongmi is explicit that this differs from the Confucian sense: in the Buddhist reading, it means one's parents across seven successive lifetimes, since in each life someone bore and raised the very body now practicing the path.</div>
+          </div>
+
+          <div class="q" data-correct="3">
+            <span class="q-num">Question 8 of 10</span>
+            <div class="q-text">How does Zongmi distinguish Confucian and Buddhist approaches to honoring parents?</div>
+            <button class="opt">He says Confucian filial piety is worthless compared to Buddhist practice</button>
+            <button class="opt">He says the two traditions are identical in every respect</button>
+            <button class="opt">He rejects Confucian mourning rites entirely as superstition</button>
+            <button class="opt">Confucian practice focuses on the body and its rites (grave-tending, ancestral rites); Buddhist practice extends further, aiming to help a parent's mind and karmic condition after death — an extension, not a rejection, of the same filial impulse</button>
+            <div class="expl"><strong>Correct: D.</strong> Zongmi calls filial devotion "what sage and worthy alike hold as root" in both traditions, and frames the Ullambana offering as reaching into territory — a parent's actual postmortem condition — that ordinary ancestral rites cannot follow into.</div>
+          </div>
+
+          <div class="q" data-correct="1">
+            <span class="q-num">Question 9 of 10</span>
+            <div class="q-text">What personal detail does Zongmi share about why he wrote this commentary?</div>
+            <button class="opt">He was commissioned by the emperor to write it</button>
+            <button class="opt">He lost his own parents young, felt ordinary mourning rites couldn't actually reach them, and adopted this sūtra's offering as his own yearly practice before eventually writing the commentary</button>
+            <button class="opt">He translated it from a Sanskrit manuscript he found himself</button>
+            <button class="opt">A rival monk challenged him to interpret the text</button>
+            <div class="expl"><strong>Correct: B.</strong> Zongmi opens his commentary with an unusually personal admission: orphaned young, he searched for a way to genuinely help his departed parents, found it in this sūtra's practice, and only later — asked repeatedly by his students — set the commentary down in writing.</div>
+          </div>
+
+          <div class="q" data-correct="2">
+            <span class="q-num">Question 10 of 10</span>
+            <div class="q-text">Where does Zongmi classify this sūtra within the wider Buddhist canon?</div>
+            <button class="opt">Among the highest teachings on emptiness, alongside the Heart Sūtra</button>
+            <button class="opt">He refuses to classify it at all</button>
+            <button class="opt">Within the modest "vehicles of humans and gods" — concerned with ethical merit and favorable rebirth rather than final liberation — despite the sūtra's later outsized cultural influence</button>
+            <button class="opt">As an exclusively esoteric, mantra-based text</button>
+            <div class="expl"><strong>Correct: C.</strong> Zongmi's own fourfold analysis places this sūtra modestly, among texts concerned with merit and rebirth rather than direct liberation — a classification that had no bearing on how widely the text was later read and practiced.</div>
+          </div>
+
+          <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>Further Reading</h2>
+        <ul class="resources">
+          <li><a href="https://cbetaonline.dila.edu.tw/en/T0685" target="_blank" rel="noopener">Dharmarakṣa's Chinese text · Taishō T685</a> — the source text of this page, at CBETA (Chinese Buddhist Electronic Text Association).</li>
+          <li><a href="https://cbetaonline.dila.edu.tw/en/T1792" target="_blank" rel="noopener">佛說盂蘭盆經疏 · Guifeng Zongmi</a> — the full Tang-dynasty commentary this page's reading notes draw on, at CBETA.</li>
+          <li><a href="{{ '/sutras/dizang-jing/' | relative_url }}">Kṣitigarbha's Fundamental Vows</a> — this site's other filial-piety, hell-realm sūtra: a daughter, rather than a son, seeking her mother through the same three lower realms.</li>
+          <li><a href="{{ '/sutras/yuanjue-jing/' | relative_url }}">The Sūtra of Perfect Enlightenment</a> — this site's other translation with reading notes after Zongmi.</li>
+          <li><a href="{{ '/community/dharma-events/' | relative_url }}">Ru-Yi's Ullambana Assembly</a> — this sūtra's teaching, kept as a living practice on our community calendar.</li>
+        </ul>
+        <p style="margin-top:20px;">Chinese sūtra source: Dharmarakṣa's translation (Taishō T685), public domain. Chinese commentary source: Guifeng Zongmi's <em>佛說盂蘭盆經疏</em> (Taishō T1792), public domain. English translation and reading guide written for Ru-Yi Meditation Center. See also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+      </section>
+
+    </div>
+  </section>
+</article>
+
+<script>
+(function() {
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+
+  if (location.hash) {
+    var target = document.querySelector(location.hash);
+    if (target) {
+      var scrollToTarget = function() { target.scrollIntoView({ block: 'start' }); };
+      scrollToTarget();
+      if (document.fonts && document.fonts.ready) {
+        document.fonts.ready.then(scrollToTarget);
+      } else {
+        window.addEventListener('load', scrollToTarget);
+      }
+    }
+  }
+})();
+</script>
