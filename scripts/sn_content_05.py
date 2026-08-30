@@ -43379,3 +43379,142 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.68 — Dutiyarukkhasutta
+# Confirms the companion discourse this project flagged as an open
+# possibility at SN 48.67: "Dutiya" ("second"), mirroring the prior
+# discourse's own structure exactly, but pairing its earthly simile
+# (the jambu tree of Jambudīpa) with a heavenly one — the Pāricchattaka
+# (Coral/Orchid Tree) of the Tāvatiṃsa devas, finest tree of their
+# realm.
+# --------------------------------------------------------------------------- #
+page(
+    48, 68, "Dutiyarukkha", "A Tree (2nd)",
+    vagga="Bodhipakkhiyavagga",
+    meta_title="SN 48.68 — A Tree (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyarukkhasutta — the Pāricchattaka tree of the "
+        "Tāvatiṃsa devas, naming wisdom as the foremost of the "
+        "qualities on the side of awakening. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this vagga's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A simile: the Pāricchattaka tree of the Tāvatiṃsa "
+                 "devas"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; confirms SN 48.67's own companion, "
+                         "pairing an earthly simile with a heavenly "
+                         "one"),
+    ],
+    why=(
+        "This discourse confirms, in the text's own words, the "
+        "companion this project flagged as an open possibility at SN "
+        "48.67: its own title, &ldquo;Dutiya&rdquo; "
+        "(&ldquo;second&rdquo;), pairs with SN 48.67's "
+        "&ldquo;Paṭhama&rdquo; (&ldquo;first&rdquo;), and it repeats "
+        "the identical structure and point &mdash; wisdom as foremost "
+        "of the bodhipakkhiyā dhammā &mdash; now through a heavenly "
+        "rather than earthly simile."
+    ),
+    guide=[
+        ("A confirmed pair, earth answered by heaven", [
+            "Confirmed by direct reading, this discourse's own text "
+            "is structurally identical to SN 48.67, including the "
+            "same question-and-answer defining &ldquo;bodhipakkhiyā "
+            "dhammā&rdquo; as the five faculties &mdash; but its own "
+            "simile moves from the human realm's finest tree "
+            "(Jambudīpa's jambu) to the finest tree of the Tāvatiṃsa "
+            "heaven, forming a deliberate earth-to-heaven pair.",
+        ]),
+        ("The Pāricchattaka: finest tree of the Thirty-Three", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare text states: the "
+            "Pāricchattaka (also called Pārijāta, or the Coral/Orchid "
+            "Tree) is the legendary tree of Tāvatiṃsa, the heaven of "
+            "the thirty-three gods traditionally headed by Sakka "
+            "&mdash; held in the tradition to be that realm's own "
+            "finest tree, just as the jambu is finest among human "
+            "trees.",
+        ]),
+        ("Two realms, one identical point", [
+            "This project's own observation: by pairing an earthly "
+            "simile with a heavenly one while keeping every other "
+            "element of the discourse identical, this two-discourse "
+            "set underscores that wisdom's foremost place among the "
+            "bodhipakkhiyā dhammā holds true across both realms, not "
+            "merely as a fact of human experience.",
+        ]),
+    ],
+    terms=[
+        ("devānaṁ tāvatiṁsānaṁ rukkhā", "&ldquo;the trees belonging "
+             "to the gods of the thirty-three&rdquo; &mdash; this "
+             "discourse's own setting for the simile"),
+        ("pārichattako", "&ldquo;the Pāricchattaka (Coral/Orchid "
+             "Tree)&rdquo; &mdash; the legendary finest tree of "
+             "Tāvatiṃsa heaven"),
+        ("tāvatiṁsa", "&ldquo;the Thirty-Three&rdquo; &mdash; the "
+             "heaven of the thirty-three gods, traditionally headed "
+             "by Sakka"),
+        ("bodhipakkhiyā dhammā", "&ldquo;qualities on the side of "
+             "awakening&rdquo; &mdash; again defined here as the "
+             "five faculties, mirroring SN 48.67"),
+        ("Aṭṭhamaṁ", "&ldquo;the eighth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's eighth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.68:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 48.67's own simile?",
+         "opts": ["It confirms the companion this project flagged as possible, pairing an earthly simile with a heavenly one while keeping the same point", "It contradicts SN 48.67 by claiming wisdom is not foremost after all", "It removes the simile form entirely, replacing it with a narrative", "It denies any connection between the two discourses"],
+         "correct": 0,
+         "expl": "\"Dutiya\" (second) pairs with \"Paṭhama\" (first) — confirmed, not assumed."},
+        {"q": "What is the Pāricchattaka, as general canonical background?",
+         "opts": ["The legendary finest tree of Tāvatiṃsa heaven, the realm of the thirty-three gods", "A tree said to grow only in Jambudīpa, the human realm", "A synonym for the five faculties themselves", "A tree associated exclusively with hell realms"],
+         "correct": 0,
+         "expl": "Also called Pārijāta, traditionally held as the finest tree of that heavenly realm."},
+        {"q": "What does pairing an earthly simile with a heavenly one, while keeping every other element identical, underscore?",
+         "opts": ["That wisdom's foremost place among the bodhipakkhiyā dhammā holds true across both realms", "That the human realm is superior to the heavenly realm", "That trees are the primary subject of the entire Bodhipakkhiyavagga", "That this vagga has no further discourses remaining"],
+         "correct": 0,
+         "expl": "Not merely a fact of human experience, but true wherever the comparison is drawn."},
+    ],
+    marginalia=[
+        ("Earth answered by heaven", [
+            "jambu below, Pāricchattaka above &mdash;",
+            "one point, made twice over"
+        ]),
+        ("The Thirty-Three's own finest tree", [
+            "Sakka's own heaven, its legendary bloom &mdash;",
+            "wisdom named foremost there too"
+        ]),
+        ("A pair, now complete", [
+            "Paṭhama and Dutiya, confirmed again &mdash;",
+            "the pattern learned at SN 48.65-66 holds"
+        ]),
+        ("Eighth discourse, Aṭṭhamaṁ", [
+            "two more, perhaps, before this vagga closes &mdash;",
+            "its own count still to be confirmed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.68/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.67.html\">SN 48.67 &middot; A Tree (1st)</a> "
+        "&mdash; the previous discourse, and this discourse's own "
+        "confirmed pair.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
