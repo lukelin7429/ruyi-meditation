@@ -34984,3 +34984,159 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.10 — Dutiyavibhaṅgasutta
+# Closes 1. Suddhikavagga (SN 48.1-10), with its own colophon and
+# uddāna naming all ten discourses of the vagga. Confirmed by direct
+# reading: the uddāna's own topic sequence (Suddhika; two on
+# stream-enterers; two more on the perfected; ascetics and brahmins;
+# should be seen; two more on analysis) matches, item for item, this
+# project's own SN 48.1-10 exactly as already translated.
+# --------------------------------------------------------------------------- #
+page(
+    48, 10, "Dutiyavibhaṅga", "Analysis (2nd)",
+    vagga="Suddhikavagga",
+    meta_title="SN 48.10 — Analysis (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyavibhaṅgasutta — expanding SN 48.9's own brief "
+        "definitions into the full canonical formulas (the four "
+        "right efforts, the four kinds of mindfulness meditation, "
+        "the four absorptions, the four noble truths), closing "
+        "Suddhikavagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Five paired questions and answers, each expanding "
+                 "SN 48.9's own brief definition into a full "
+                 "canonical formula"),
+        ("Length", "3-4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes Suddhikavagga, and writes "
+                         "out in full what SN 48.8 only named by "
+                         "mapping"),
+    ],
+    why=(
+        "This discourse repeats SN 48.9's own five definitions "
+        "verbatim for their opening lines, but EXPANDS four of the "
+        "five into their full canonical formulas &mdash; the "
+        "complete four right efforts for energy, the complete four "
+        "kinds of mindfulness meditation for mindfulness, all four "
+        "absorptions in full for immersion, and the four noble "
+        "truths themselves for wisdom &mdash; effectively WRITING "
+        "OUT what SN 48.8 only named by mapping each faculty onto "
+        "its own fourfold home, and closing this vagga with its own "
+        "colophon and uddāna."
+    ),
+    guide=[
+        ("SN 48.9's own definitions, now written out in full", [
+            "Confirmed by direct reading, this discourse's own "
+            "opening for each faculty is WORD FOR WORD identical to "
+            "SN 48.9's own &mdash; but where SN 48.9 stopped at a "
+            "brief general statement, this discourse continues into "
+            "the FULL canonical formula for four of the five: the "
+            "complete four right efforts, the complete fourfold "
+            "mindfulness observation, all four absorptions described "
+            "in full, and the four noble truths spelled out by name.",
+        ]),
+        ("Confirming SN 48.8's own mapping, written out at last", [
+            "This project's own SN 48.8 mapped each faculty onto a "
+            "fourfold home without spelling any of them out &mdash; "
+            "this discourse is confirmed by direct reading to WRITE "
+            "OUT four of those five homes in full: the four right "
+            "efforts for energy, the four kinds of mindfulness "
+            "meditation for mindfulness, the four absorptions for "
+            "immersion, and the four noble truths for wisdom, "
+            "leaving only faith's own home (the four factors of "
+            "stream-entry) still unwritten in this vagga.",
+        ]),
+        ("The close of Suddhikavagga, confirmed by colophon and uddāna", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing colophon (&ldquo;Suddhikavaggo paṭhamo&rdquo;, "
+            "&ldquo;the first vagga, Suddhikavagga, is finished&rdquo;) "
+            "and its own uddāna &mdash; naming, in sequence, the "
+            "plain version, two on stream-enterers, two more on the "
+            "perfected, ascetics and brahmins, should be seen, and "
+            "two more on analysis &mdash; match this project's own "
+            "SN 48.1 through SN 48.10 exactly, item for item.",
+        ]),
+    ],
+    terms=[
+        ("anuppannānaṁ... pahānāya... uppādāya... bhāvanāya "
+             "pāripūriyā", "the four right efforts' own full "
+             "formula &mdash; preventing unarisen unskillful "
+             "qualities, giving up arisen ones, arising unskillful "
+             "qualities... arising skillful ones, and maintaining "
+             "them to completion"),
+        ("kāye kāyānupassī... dhammesu dhammānupassī", "the "
+             "complete four kinds of mindfulness meditation formula, "
+             "written out here in full for the faculty of "
+             "mindfulness"),
+        ("paṭhamaṁ... dutiyaṁ... tatiyaṁ... catutthaṁ jhānaṁ", "the "
+             "four absorptions, each described in full for the "
+             "faculty of immersion"),
+        ("idaṁ dukkhan... dukkhanirodhagāminī paṭipadā", "the four "
+             "noble truths, named individually for the faculty of "
+             "wisdom"),
+        ("Suddhikavaggo paṭhamo", "&ldquo;the first vagga, "
+             "Suddhikavagga, is finished&rdquo; &mdash; the Pāli "
+             "root's own closing colophon"),
+    ],
+    text_intro=("The complete discourse, in its own five parts. "
+        "This vagga's own closing colophon and uddāna are described, "
+        "not translated, above. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; faith", "sn48.10:1.1-1.7"),
+        ("p", "&sect;2 &mdash; energy, in full", "sn48.10:2.1-2.7"),
+        ("p", "&sect;3 &mdash; mindfulness, in full", "sn48.10:3.1-3.7"),
+        ("p", "&sect;4 &mdash; immersion, in full", "sn48.10:4.1-4.7"),
+        ("p", "&sect;5 &mdash; wisdom, in full", "sn48.10:5.1-5.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own content relate to SN 48.9's own definitions?",
+         "opts": ["Word-for-word identical openings, but expanded into the full canonical formula for four of the five faculties", "Completely unrelated, sharing no content with SN 48.9", "A shortened summary of SN 48.9's own longer content", "Identical in every respect, with no expansion at all"],
+         "correct": 0,
+         "expl": "SN 48.9 stopped at a brief statement; this discourse continues into the full formula for energy, mindfulness, immersion, and wisdom."},
+        {"q": "What does this discourse confirm about SN 48.8's own earlier mapping?",
+         "opts": ["It writes out four of the five mapped fourfold groupings in full — right efforts, mindfulness meditation, absorptions, and noble truths", "It contradicts SN 48.8's own mapping entirely", "It maps the faculties onto a completely different set of groupings", "It has no relationship to SN 48.8 at all"],
+         "correct": 0,
+         "expl": "Leaving only faith's own home (the four factors of stream-entry) still unwritten in this vagga."},
+        {"q": "What does this discourse's own closing colophon and uddāna confirm?",
+         "opts": ["That this is the tenth and final discourse of Suddhikavagga, matching this project's own SN 48.1-10 exactly", "That a new saṃyutta begins immediately afterward", "That this discourse belongs to a different vagga entirely", "Nothing further; the source ends without any closing marker"],
+         "correct": 0,
+         "expl": "Confirmed item for item against this project's own already-translated SN 48.1 through SN 48.10."},
+    ],
+    marginalia=[
+        ("Same openings, now written out in full", [
+            "SN 48.9's own brief lines, expanded —",
+            "the complete formula for four faculties"
+        ]),
+        ("SN 48.8's own mapping, now spelled out", [
+            "right efforts, mindfulness meditation, jhānas, truths —",
+            "only faith's own home left unwritten"
+        ]),
+        ("Suddhikavagga closes, confirmed exactly", [
+            "colophon and uddāna match this project's own ten —",
+            "SN 48.1 through 48.10, item for item"
+        ]),
+        ("Ten discourses, one vagga complete", [
+            "the plain version, two pairs, one map, one close —",
+            "SN 48.11 onward still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.9.html\">SN 48.9 &middot; Analysis "
+        "(1st)</a> &mdash; the previous discourse, whose own brief "
+        "definitions this discourse expands in full.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses (SN "
+        "48.11 onward) are still in preparation.",
+    ],
+)
