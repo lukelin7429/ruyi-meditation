@@ -31757,3 +31757,152 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.43 — Maggasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 43, "Magga", "The Path",
+    vagga="Amatavagga",
+    meta_title="SN 47.43 — The Path | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Maggasutta — the Buddha's own account, shortly after "
+        "his awakening at Uruvelā, of first formulating the famous "
+        "\"ekāyano maggo\" declaration that opens the Satipaṭṭhāna "
+        "Sutta itself, confirmed by the divinity Brahmā Sahampati. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, recounting an earlier event at "
+                     "Uruvelā, by the goatherd's banyan tree on the "
+                     "bank of the Nerañjarā River"),
+        ("Speakers", "The Buddha, recounting his own reflection, "
+                     "then the divinity Brahmā Sahampati, confirming "
+                     "it in prose and in verse"),
+        ("Form", "A first-person narrative recollection, a divine "
+                 "visitation and confirmation, and a closing verse"),
+        ("Length", "2-3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; the origin, in the Buddha's own "
+                         "recollection, of the identical &ldquo;"
+                         "ekāyano maggo&rdquo; declaration opening "
+                         "the Satipaṭṭhāna Sutta (MN 10 / DN 22)"),
+    ],
+    why=(
+        "This discourse recounts, in the Buddha's own words, the "
+        "MOMENT this saṃyutta's own central formula was first "
+        "conceived &mdash; shortly after his awakening, alone in "
+        "retreat at Uruvelā, the thought arose in him that the four "
+        "kinds of mindfulness meditation are &ldquo;the path to "
+        "convergence&rdquo; (ekāyano maggo), the same declaration "
+        "that opens the Satipaṭṭhāna Sutta itself (MN 10 / DN 22), "
+        "here confirmed by the divinity Brahmā Sahampati appearing "
+        "before him."
+    ),
+    guide=[
+        ("The origin of a formula found at the head of MN 10 / DN 22", [
+            "Confirmed by direct reading, the Buddha's own reflection "
+            "&mdash; &ldquo;ekāyano ayaṁ maggo sattānaṁ visuddhiyā... "
+            "cattāro satipaṭṭhānā&rdquo; (&ldquo;the four kinds of "
+            "mindfulness meditation are the path to convergence, for "
+            "the purification of sentient beings...&rdquo;) &mdash; "
+            "is WORD FOR WORD the same declaration opening the "
+            "Satipaṭṭhāna Sutta itself, here presented as the moment "
+            "of its own first arising in the Buddha's own mind, "
+            "shortly after his awakening.",
+        ]),
+        ("A narrative frame at Uruvelā, not an abstract teaching", [
+            "This discourse is confirmed by direct reading to be set "
+            "in a specific narrative moment &mdash; the Buddha alone "
+            "in private retreat at the goatherd's banyan tree on the "
+            "bank of the Nerañjarā River, shortly after his "
+            "awakening &mdash; giving this saṃyutta's own central "
+            "formula a biographical origin point rather than "
+            "presenting it as an abstract, timeless statement.",
+        ]),
+        ("Brahmā Sahampati's own confirmation and verse", [
+            "Confirmed by direct reading, the divinity Brahmā "
+            "Sahampati &mdash; the same figure this project's own "
+            "earlier work encountered requesting the Buddha to teach "
+            "after his awakening &mdash; appears here to CONFIRM the "
+            "Buddha's own reflection verbatim, then adds a closing "
+            "verse describing the path as one by which people "
+            "&ldquo;crossed over before, will cross over, and are "
+            "crossing over&rdquo; &mdash; framing the path as valid "
+            "across all three times.",
+        ]),
+    ],
+    terms=[
+        ("ekāyano maggo", "&ldquo;the path to convergence, the "
+             "one-way path&rdquo; &mdash; this discourse's own "
+             "central declaration, word for word identical to the "
+             "opening of the Satipaṭṭhāna Sutta (MN 10 / DN 22)"),
+        ("sattānaṁ visuddhiyā", "&ldquo;for the purification of "
+             "sentient beings&rdquo; &mdash; the first of the five "
+             "purposes named for this path"),
+        ("ñāyassa adhigamāya", "&ldquo;to discover the system, the "
+             "method&rdquo; &mdash; one of the path's own five "
+             "named purposes, referring to the discernment of "
+             "reality's own workings"),
+        ("brahmā sahampati", "&ldquo;the divinity Brahmā "
+             "Sahampati&rdquo; &mdash; the same figure who elsewhere "
+             "in the canon requests the newly awakened Buddha to "
+             "teach, here confirming this discourse's own central "
+             "declaration"),
+        ("oghaṁ tarati", "&ldquo;crossing the flood&rdquo; &mdash; "
+             "the image closing Brahmā Sahampati's own verse, "
+             "naming those who have crossed, will cross, and are "
+             "crossing by this same path"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the Buddha's own reflection at Uruvelā", "sn47.43:1.1-2.6"),
+        ("p", "&sect;2 &mdash; Brahmā Sahampati's own confirmation", "sn47.43:3.1-4.6"),
+        ("p", "&sect;3 &mdash; his closing verse", "sn47.43:5.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What well-known formula does this discourse trace to a specific moment in the Buddha's own recollection?",
+         "opts": ["The \"ekāyano maggo\" declaration opening the Satipaṭṭhāna Sutta (MN 10 / DN 22)", "The four noble truths, as taught in the first sermon", "The simile of the raft, from the Alagaddūpama Sutta", "The threefold refuge formula"],
+         "correct": 0,
+         "expl": "Word for word the same declaration opening the Satipaṭṭhāna Sutta itself."},
+        {"q": "Where and when is this discourse's own narrative set?",
+         "opts": ["At Uruvelā, shortly after the Buddha's awakening, alone in private retreat", "At Sāvatthī, many years into the Buddha's teaching career", "At Rājagaha, on Vulture Peak", "In the Buddha's final days, at Kusinārā"],
+         "correct": 0,
+         "expl": "Giving this saṃyutta's own central formula a biographical origin point."},
+        {"q": "What does Brahmā Sahampati's own closing verse say about the path?",
+         "opts": ["That people crossed over by it before, will cross over, and are crossing over now", "That the path is reserved only for the Buddha himself", "That the path has since been superseded by a better one", "That the path applies only to householders, not to mendicants"],
+         "correct": 0,
+         "expl": "Framing the path as valid across all three times — past, present, and future."},
+    ],
+    marginalia=[
+        ("The origin of MN 10's own opening line", [
+            "word for word, the identical declaration —",
+            "here traced to its own first arising"
+        ]),
+        ("Uruvelā, shortly after the awakening", [
+            "the goatherd's banyan tree, the Nerañjarā's bank —",
+            "a biographical origin, not an abstract teaching"
+        ]),
+        ("Brahmā Sahampati appears and confirms", [
+            "\"that's so true\" — verbatim agreement —",
+            "then a verse spanning all three times"
+        ]),
+        ("Third discourse, Tatiyaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "seven more individual discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.43/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.42.html\">SN 47.42 &middot; Origin</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
