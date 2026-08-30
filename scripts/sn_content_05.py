@@ -32730,3 +32730,157 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.50 — Āsavasutta
+# Closes 5. Amatavagga (SN 47.41-50), with its own colophon and
+# uddāna naming all ten discourses of the vagga. This is also the
+# FINAL individually-numbered discourse of the Satipaṭṭhānasaṃyutta
+# (SN 47.1-50 complete); SN 47.51-104 are the peyyāla merged-file
+# ranges, not yet begun.
+# --------------------------------------------------------------------------- #
+page(
+    47, 50, "Āsava", "Defilements",
+    vagga="Amatavagga",
+    meta_title="SN 47.50 — Defilements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āsavasutta — naming the four kinds of mindfulness "
+        "meditation as the practice to be developed for giving up "
+        "the three defilements of sensuality, desire to be reborn, "
+        "and ignorance. Closes the fifth vagga and all fifty "
+        "individually-numbered discourses of the Satipaṭṭhānasaṃyutta. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A statement of the three defilements, followed by "
+                 "a purpose clause naming mindfulness meditation as "
+                 "the means to giving them up"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes the fifth vagga AND all "
+                         "fifty individually-numbered discourses of "
+                         "this saṃyutta"),
+    ],
+    why=(
+        "This discourse closes the fifth vagga (Amatavagga, SN "
+        "47.41-50) &mdash; and with it, ALL FIFTY of this saṃyutta's "
+        "own individually-numbered discourses (SN 47.1-50) &mdash; "
+        "by naming the three defilements (āsava): sensuality, desire "
+        "to be reborn, and ignorance, and stating that the four "
+        "kinds of mindfulness meditation should be developed "
+        "specifically to GIVE UP these three, echoing SN 47.49's own "
+        "purpose-clause structure but naming abandonment rather than "
+        "understanding as the goal."
+    ),
+    guide=[
+        ("Three defilements, the very last named in this fifty-discourse run", [
+            "Confirmed by direct reading, the three āsava &mdash; "
+            "kāmāsavo (sensuality), bhavāsavo (desire to be reborn), "
+            "and avijjāsavo (ignorance) &mdash; are a well-known "
+            "canonical grouping (traditionally including a fourth, "
+            "diṭṭhāsavo, views, in some listings elsewhere) whose "
+            "complete elimination marks the arahant, giving this "
+            "closing discourse of the fifty a fittingly final theme.",
+        ]),
+        ("A purpose clause, echoing SN 47.49's own structure once more", [
+            "This project's own honest comparison confirms that this "
+            "discourse repeats SN 47.49's own structure &mdash; "
+            "naming a threefold classification, then stating that "
+            "the four kinds of mindfulness meditation "
+            "&ldquo;bhāvetabbā&rdquo; (should be developed) for a "
+            "specific purpose &mdash; but here the purpose is "
+            "&ldquo;pahānāya&rdquo; (for the GIVING UP of), not "
+            "&ldquo;pariññāya&rdquo; (for the complete UNDERSTANDING "
+            "of) as in SN 47.49.",
+        ]),
+        ("The close of fifty discourses, marked by its own colophon and uddāna", [
+            "Confirmed by direct reading, the Pāli root closes with "
+            "&ldquo;Amatavaggo pañcamo&rdquo; (&ldquo;the fifth "
+            "vagga, Amatavagga, is finished&rdquo;) and its own "
+            "uddāna naming all ten discourses of this vagga in "
+            "sequence &mdash; and this project's own tracking "
+            "confirms that with this discourse, all fifty "
+            "individually-numbered discourses of the "
+            "Satipaṭṭhānasaṃyutta (SN 47.1&ndash;50) are now "
+            "complete; the remaining SN 47.51&ndash;104 are peyyāla "
+            "(merged, formulaic) ranges rather than individually "
+            "numbered discourses.",
+        ]),
+    ],
+    terms=[
+        ("āsava", "&ldquo;defilement, taint, "
+             "intoxicant&rdquo; &mdash; this discourse's own title "
+             "term, whose complete elimination marks the arahant"),
+        ("kāmāsavo, bhavāsavo, avijjāsavo", "&ldquo;the defilements "
+             "of sensuality, desire to be reborn, and "
+             "ignorance&rdquo; &mdash; the threefold grouping named "
+             "in this discourse"),
+        ("pahānāya", "&ldquo;for the giving up of&rdquo; &mdash; "
+             "the purpose named for developing mindfulness "
+             "meditation in this discourse, distinct from SN 47.49's "
+             "own &ldquo;pariññāya&rdquo; (for complete "
+             "understanding)"),
+        ("Amatavaggo pañcamo", "&ldquo;the fifth vagga, Amatavagga, "
+             "is finished&rdquo; &mdash; the Pāli root's own closing "
+             "colophon for this vagga"),
+        ("tassuddānaṁ", "&ldquo;its own summary verse&rdquo; "
+             "&mdash; the uddāna naming all ten discourses of this "
+             "vagga (Amata, Samudaya, Magga, Sati, Kusalarāsi, "
+             "Pātimokkha, Duccarita, Mitta, Vedanā, and Āsava), left "
+             "untranslated in the source"),
+    ],
+    text_intro=("The complete discourse. This vagga's own closing "
+        "colophon and meta-uddāna are left untranslated in the "
+        "source and are described, not translated, above. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn47.50:1.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What three defilements (āsava) does this discourse name?",
+         "opts": ["Sensuality, desire to be reborn, and ignorance", "Greed, hatred, and delusion", "Pride, doubt, and wrong view", "Laziness, restlessness, and worry"],
+         "correct": 0,
+         "expl": "A well-known canonical grouping whose complete elimination marks the arahant."},
+        {"q": "How does this discourse's own purpose clause differ from SN 47.49's own purpose clause?",
+         "opts": ["This discourse names \"giving up\" (pahānāya) as the purpose, not \"complete understanding\" (pariññāya) as in SN 47.49", "The two discourses are identical in every respect", "This discourse names no purpose at all, unlike SN 47.49", "SN 47.49 concerns defilements while this discourse concerns feelings"],
+         "correct": 0,
+         "expl": "The same structural pattern, but a different specific purpose named for developing mindfulness meditation."},
+        {"q": "What does this discourse's own closing colophon and uddāna confirm?",
+         "opts": ["That this is the tenth and final discourse of Amatavagga, and the last of all fifty individually-numbered discourses of this saṃyutta", "That a sixth vagga begins immediately afterward with new content", "That this discourse belongs to a different saṃyutta entirely", "Nothing further; the text simply ends without any closing marker"],
+         "correct": 0,
+         "expl": "With SN 47.51 onward continuing as peyyāla (merged, formulaic) ranges rather than individually numbered discourses."},
+    ],
+    marginalia=[
+        ("Three defilements, a fitting final theme", [
+            "sensuality, desire to be reborn, ignorance —",
+            "their elimination marking the arahant"
+        ]),
+        ("\"Giving up,\" not \"understanding\"", [
+            "pahānāya, echoing SN 47.49's own structure —",
+            "but naming a different purpose this time"
+        ]),
+        ("Fifty discourses complete", [
+            "Amatavaggo pañcamo — the fifth vagga closes —",
+            "SN 47.1 through 47.50, individually numbered, done"
+        ]),
+        ("What comes next: peyyāla, not new discourses", [
+            "SN 47.51 through 104 still ahead —",
+            "merged, formulaic ranges, a different shape"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.50/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.49.html\">SN 47.49 &middot; Feelings</a> "
+        "&mdash; the previous discourse, sharing this discourse's "
+        "own purpose-clause structure.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own peyyāla discourses "
+        "(SN 47.51&ndash;104) are still in preparation.",
+    ],
+)
