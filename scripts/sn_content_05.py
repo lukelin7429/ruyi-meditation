@@ -45699,3 +45699,153 @@ page_range(
         "the eightfold path.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 49.23-34 — Balakaraṇīyādisutta (partial content + cross-reference)
+# Vagga 3, confirmed by direct reading to break from Vagga 2's own
+# bare cross-reference pattern: this file gives a full worked
+# example -- the "hard work depends on the earth, grounded on
+# ethics" simile, already familiar from this project's own earlier
+# encounter with the identical grounding image at SN 46.11 -- before
+# its own cross-reference instruction for the remaining discourses.
+# --------------------------------------------------------------------------- #
+page_range(
+    49, 23, 34, "Balakaraṇīyādi", "Hard Work, Etc.",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 49.23–34 — Hard Work, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 49.23–34 — hard work grounded on the earth, illustrating "
+        "the four right efforts grounded on ethics. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this book's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A worked simile given in full, then a "
+                 "cross-reference instruction for the remaining "
+                 "discourses"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; breaks Vagga 2's own bare "
+                         "cross-reference pattern, keeping a full "
+                         "worked example, and reuses an image this "
+                         "project has already met at SN 46.11"),
+    ],
+    why=(
+        "Unlike Vagga 2 (SN 49.13-22), a bare cross-reference with no "
+        "content of its own, this file gives a full worked example: "
+        "all hard work depends on and is grounded on the earth, just "
+        "as a mendicant's own development of the four right efforts "
+        "depends on and is grounded on ethics &mdash; the same "
+        "grounding image this project already met at SN 46.11, there "
+        "applied to the seven awakening factors."
+    ),
+    guide=[
+        ("A pattern broken, a familiar image reused", [
+            "Confirmed by direct reading, this file's own opening "
+            "gives the complete &ldquo;grounded on ethics&rdquo; "
+            "simile in full before its own cross-reference "
+            "instruction (&ldquo;tell in full as in SN "
+            "45.149&ndash;160&rdquo;) for the remaining eleven "
+            "discourses &mdash; a fuller treatment than Vagga 2's own "
+            "bare structure, matching this project's own observation "
+            "at SN 46.11 that this same grounding image recurs "
+            "across Book V's own related saṃyuttas.",
+        ]),
+        ("Hard work, grounded on the earth", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare text states: just as "
+            "every task requiring effort (balakaraṇīya) depends on "
+            "solid ground to be carried out at all, a mendicant's own "
+            "development of the four right efforts is said to depend "
+            "on and be grounded on ethics (sīla) as its own "
+            "necessary foundation.",
+        ]),
+        ("Twelve discourses, confirmed by this file's own colophon", [
+            "This file's own closing colophon, &ldquo;"
+            "Balakaraṇīyavaggo tatiyo&rdquo; (&ldquo;the Hard Work "
+            "chapter, the third&rdquo;), confirms this vagga's own "
+            "position without ambiguity, and its own uddāna &mdash; "
+            "identical to the formula already met at SN 45.149-160 "
+            "and SN 48.93-104 &mdash; names all twelve similes: hard "
+            "work, seeds, a dragon, a tree, a pot, a spike, the "
+            "atmosphere, two on clouds, a ship, a guest house, and a "
+            "river.",
+        ]),
+    ],
+    terms=[
+        ("balakaraṇīyā kammantā... pathaviṁ nissāya pathaviyaṁ "
+         "patiṭṭhāya", "&ldquo;hard work... depends on the earth and "
+             "is grounded on the earth&rdquo; &mdash; this "
+             "discourse's own opening image"),
+        ("sīlaṁ nissāya sīle patiṭṭhāya", "&ldquo;depending on and "
+             "grounded on ethics&rdquo; &mdash; the same grounding "
+             "phrase already met at this project's own SN 46.11, "
+             "there for the awakening factors"),
+        ("cattāro sammappadhāne bhāveti", "&ldquo;develops the four "
+             "right efforts&rdquo; &mdash; this saṃyutta's own "
+             "governing subject, now grounded on ethics"),
+        ("balaṁ bījañca nāgo ca; rukkho kumbhena sūkiyā", "&ldquo;"
+             "hard work, seeds, and dragons, a tree, a pot, and a "
+             "spike&rdquo; &mdash; the closing uddāna's own opening "
+             "line, naming the first six of this vagga's own twelve "
+             "similes"),
+        ("Balakaraṇīyavaggo tatiyo", "&ldquo;the Hard Work chapter, "
+             "the third&rdquo; &mdash; this file's own closing "
+             "colophon, confirming this vagga's own position"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn49.23-34:1.1-1.6"),
+        ("p", "Cross-reference", "sn49.23-34:1.7"),
+        ("p", "Uddāna", "sn49.23-34:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this file's own structure differ from Vagga 2 (SN 49.13-22)?",
+         "opts": ["It gives a full worked example before its own cross-reference, rather than a bare instruction alone", "It is even more compressed than Vagga 2, with no content at all", "It is identical in every respect to Vagga 2", "It applies to a different set of qualities entirely"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a fuller treatment than Vagga 2's own bare structure."},
+        {"q": "What image does this discourse reuse from this project's own earlier work?",
+         "opts": ["The \"grounded on ethics\" image already met at SN 46.11, there applied to the seven awakening factors", "An image never before encountered in this project", "A river simile, unrelated to grounding", "A tree simile from the Bodhipakkhiyavagga"],
+         "correct": 0,
+         "expl": "Just as hard work depends on the earth, the four right efforts depend on and are grounded on ethics."},
+        {"q": "What does this file's own closing colophon and uddāna confirm?",
+         "opts": ["This vagga's own position as the third, spanning twelve discourses with similes identical to SN 45.149-160 and SN 48.93-104", "That this vagga has no fixed length", "That this vagga is the very first in the saṃyutta", "That the twelve similes are entirely different from any this project has met before"],
+         "correct": 0,
+         "expl": "\"Balakaraṇīyavaggo tatiyo\" and the identical twelve-simile uddāna, confirmed by direct reading."},
+    ],
+    marginalia=[
+        ("A pattern broken, a fuller opening", [
+            "Vagga 2 gave nothing of its own —",
+            "this vagga keeps its own worked image"
+        ]),
+        ("Grounded on ethics, again", [
+            "hard work needs solid earth —",
+            "the same claim met before, at SN 46.11"
+        ]),
+        ("Twelve similes, a familiar list", [
+            "hard work, seeds, a dragon, a river —",
+            "identical to SN 45.149 and SN 48.93"
+        ]),
+        ("Third vagga, its own colophon", [
+            "Balakaraṇīyavaggo tatiyo, stated plainly —",
+            "this saṃyutta's own third chapter"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn49.23-34/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-49.13-22.html\">SN 49.13&ndash;22 &middot; "
+        "Diligence</a> &mdash; the previous page, closing Vagga 2.",
+        "<a href=\"sn-45.149.html\">SN 45.149 &middot; Hard "
+        "Work</a> &mdash; this project's own earlier, fully "
+        "expanded treatment of the identical twelve similes, applied "
+        "there to the eightfold path.",
+    ],
+)
