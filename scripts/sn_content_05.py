@@ -30247,3 +30247,136 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.32 — Virāgasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 32, "Virāga", "Fading Away",
+    vagga="Ananussutavagga",
+    meta_title="SN 47.32 — Fading Away | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Virāgasutta — a compact statement naming a sevenfold "
+        "chain of outcomes for the four kinds of mindfulness "
+        "meditation, from disillusionment through to extinguishment. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single short statement, bracketing the fourfold "
+                 "formula between an identical opening and closing "
+                 "line naming seven outcomes"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but naming an unusually long chain of "
+                       "outcomes"),
+    ],
+    why=(
+        "This discourse names, in a single unbroken chain, seven "
+        "distinct outcomes said to follow &ldquo;solely&rdquo; from "
+        "developing and cultivating the four kinds of mindfulness "
+        "meditation: disillusionment, dispassion, cessation, peace, "
+        "insight, awakening, and extinguishment &mdash; a longer and "
+        "more elaborate chain than SN 47.17's own threefold claim "
+        "(noble, emancipating, ending suffering)."
+    ),
+    guide=[
+        ("A sevenfold chain, not a single outcome", [
+            "Confirmed by direct reading, this discourse names seven "
+            "distinct terms in unbroken sequence &mdash; "
+            "disillusionment (nibbidā), dispassion (virāga), "
+            "cessation (nirodha), peace (upasama), insight "
+            "(abhiññā), awakening (sambodha), and extinguishment "
+            "(nibbāna) &mdash; confirming this discourse's own claim "
+            "is more elaborate than the threefold outcome named at "
+            "SN 47.17.",
+        ]),
+        ("\"Solely\" -- ekanta, an exclusive claim", [
+            "The word &ldquo;ekantanibbidāya&rdquo; (&ldquo;solely "
+            "to disillusionment&rdquo;) is confirmed by direct "
+            "reading to modify the entire sevenfold chain, framing "
+            "the practice's own outcome as EXCLUSIVE rather than "
+            "merely likely &mdash; the four kinds of mindfulness "
+            "meditation, this discourse claims, lead ONLY in this "
+            "direction, not partly toward other outcomes as well.",
+        ]),
+        ("A logical progression, not an arbitrary list", [
+            "Confirmed by direct reading, the sevenfold chain follows "
+            "a plausible logical progression: disillusionment with "
+            "what is normally clung to, leading to dispassion, "
+            "leading to cessation of that clinging, leading to peace, "
+            "then direct insight, then awakening itself, culminating "
+            "in extinguishment &mdash; each term building on what "
+            "precedes it rather than standing as an unconnected item "
+            "in a list.",
+        ]),
+    ],
+    terms=[
+        ("ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya "
+             "sambodhāya nibbānāya", "&ldquo;solely to "
+             "disillusionment, dispassion, cessation, peace, "
+             "insight, awakening, and extinguishment&rdquo; &mdash; "
+             "the discourse's own sevenfold chain of outcomes"),
+        ("nibbidā", "&ldquo;disillusionment&rdquo; &mdash; the first "
+             "term in the chain, a falling away of attraction to "
+             "what is normally clung to"),
+        ("virāga", "&ldquo;dispassion, fading away&rdquo; &mdash; "
+             "this discourse's own title term, the second stage of "
+             "the chain"),
+        ("ekanta", "&ldquo;solely, exclusively&rdquo; &mdash; the "
+             "word framing the entire chain as an exclusive outcome, "
+             "not merely a likely one"),
+        ("nibbāna", "&ldquo;extinguishment&rdquo; &mdash; the "
+             "chain's own final, culminating term"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn47.32:1.1-2.6"),
+    ],
+    quiz=[
+        {"q": "How many distinct outcomes does this discourse name in its own unbroken chain, and what is the first?",
+         "opts": ["Seven, beginning with disillusionment", "Three, beginning with peace", "Four, matching the four mindfulness objects exactly", "One single outcome only"],
+         "correct": 0,
+         "expl": "A longer, more elaborate chain than SN 47.17's own threefold claim."},
+        {"q": "What does the word \"solely\" (ekanta) do in this discourse's own claim?",
+         "opts": ["Frames the entire sevenfold chain as an exclusive outcome, not merely a likely one", "Limits the claim to only the first mindfulness object", "Excludes the fourth mindfulness object from the practice", "Has no specific function in the sentence"],
+         "correct": 0,
+         "expl": "The four kinds of mindfulness meditation, this discourse claims, lead only in this direction."},
+        {"q": "How does the sevenfold chain relate internally, according to this reading guide's own analysis?",
+         "opts": ["It follows a plausible logical progression, each term building on what precedes it", "The seven terms are entirely unrelated to one another", "The chain repeats the same term seven times", "The order of the terms is random and interchangeable"],
+         "correct": 0,
+         "expl": "From disillusionment through dispassion, cessation, peace, insight, awakening, to extinguishment."},
+    ],
+    marginalia=[
+        ("Seven outcomes, not three", [
+            "disillusionment, dispassion, cessation, peace —",
+            "insight, awakening, extinguishment follow"
+        ]),
+        ("\"Solely\" — an exclusive claim", [
+            "not merely likely, but the only direction —",
+            "ekanta modifying the entire chain"
+        ]),
+        ("A progression, not a random list", [
+            "each term building on what came before —",
+            "from disillusionment to extinguishment itself"
+        ]),
+        ("This discourse's own title term, mid-chain", [
+            "\"virāga,\" fading away — the second stage —",
+            "naming the discourse from within its own list"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.32/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.31.html\">SN 47.31 &middot; Not Learned "
+        "From Anyone Else</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
