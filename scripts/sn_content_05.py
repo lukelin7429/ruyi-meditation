@@ -31192,3 +31192,136 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.39 — Bhāvanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 39, "Bhāvanā", "Development",
+    vagga="Ananussutavagga",
+    meta_title="SN 47.39 — Development | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhāvanāsutta — a discourse defining \"development\" "
+        "(bhāvanā) itself as identical with simply carrying out the "
+        "four kinds of mindfulness meditation, with no separate "
+        "outcome named. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The formal \"I will teach you\" announcement "
+                 "formula, followed by a question-and-answer "
+                 "definition of \"development\" itself"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, and notably simpler in structure than "
+                       "several surrounding discourses"),
+    ],
+    why=(
+        "Unlike the several surrounding discourses in this vagga, "
+        "which trace the four kinds of mindfulness meditation to a "
+        "further outcome &mdash; freedom from death, enlightenment, "
+        "the far shore &mdash; this discourse asks and answers a "
+        "narrower question: what IS the development (bhāvanā) of the "
+        "four kinds of mindfulness meditation, in itself, with no "
+        "outcome named beyond the practice itself."
+    ),
+    guide=[
+        ("A formal teaching announcement, not found in the surrounding discourses", [
+            "Confirmed by direct reading, this discourse opens with "
+            "the formal &ldquo;catunnaṁ, bhikkhave, satipaṭṭhānānaṁ "
+            "bhāvanaṁ desessāmi... taṁ suṇātha&rdquo; (&ldquo;I will "
+            "teach you the development of the four kinds of "
+            "mindfulness meditation... listen&rdquo;) announcement "
+            "formula, a more formal opening than the plain "
+            "&ldquo;there are these four kinds of mindfulness "
+            "meditation&rdquo; used by several of the surrounding "
+            "discourses in this vagga.",
+        ]),
+        ("Development defined AS the practice, not as its result", [
+            "The discourse's own closing line &mdash; &ldquo;ayaṁ "
+            "kho, bhikkhave, catunnaṁ satipaṭṭhānānaṁ bhāvanā&rdquo; "
+            "(&ldquo;this is the development of the four kinds of "
+            "mindfulness meditation&rdquo;) &mdash; is confirmed by "
+            "direct reading to define &ldquo;development&rdquo; as "
+            "IDENTICAL with carrying out the fourfold observation "
+            "itself, not as a separate outcome the practice produces.",
+        ]),
+        ("No outcome named, unlike its immediate neighbors", [
+            "This project's own honest comparison confirms that, "
+            "unlike SN 47.36 through SN 47.38, which each name a "
+            "specific outcome (the two results, freedom from death), "
+            "this discourse names NO further outcome at all &mdash; "
+            "its own question and answer are confined entirely to "
+            "what the practice itself consists of.",
+        ]),
+    ],
+    terms=[
+        ("bhāvanā", "&ldquo;development, cultivation&rdquo; &mdash; "
+             "this discourse's own title term, defined here as "
+             "identical with the fourfold practice itself"),
+        ("desessāmi", "&ldquo;I will teach&rdquo; &mdash; part of the "
+             "formal announcement formula opening this discourse, "
+             "distinguishing it from the plainer openings used by "
+             "several surrounding discourses"),
+        ("taṁ suṇātha", "&ldquo;listen to that&rdquo; &mdash; the "
+             "instruction to attend that regularly follows the "
+             "Buddha's own formal teaching announcements"),
+        ("katamā... bhāvanā", "&ldquo;what is the development...&rdquo; "
+             "&mdash; the discourse's own guiding question, answered "
+             "by describing the fourfold practice itself"),
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; observing the "
+             "body, feelings, the mind, and principles, defined here "
+             "as constituting &ldquo;development&rdquo; in itself"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn47.39:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own opening differ from several surrounding discourses in this vagga?",
+         "opts": ["It uses the formal \"I will teach you... listen\" announcement formula", "It opens with a question from a mendicant rather than the Buddha", "It is set at a different location, Rājagaha rather than Sāvatthī", "It opens with a simile rather than direct address"],
+         "correct": 0,
+         "expl": "A more formal opening than the plain \"there are these four kinds of mindfulness meditation\" used elsewhere."},
+        {"q": "How does this discourse define \"development\" (bhāvanā)?",
+         "opts": ["As identical with carrying out the fourfold observation itself, not as a separate outcome", "As a state attained only after death", "As a technical term unrelated to actual practice", "As a synonym for complete understanding (pariññā)"],
+         "correct": 0,
+         "expl": "The practice IS the development — not something the practice produces."},
+        {"q": "How does this discourse compare to its immediate neighbors, SN 47.36 through SN 47.38?",
+         "opts": ["It names no further outcome, unlike those discourses which name freedom from death or the two results", "It names the same two results formula as SN 47.36", "It is set in a different vagga entirely", "It applies to only one of the four mindfulness objects"],
+         "correct": 0,
+         "expl": "Its question and answer are confined entirely to what the practice itself consists of."},
+    ],
+    marginalia=[
+        ("A formal announcement, not a plain opening", [
+            "\"I will teach you... listen\" —",
+            "distinct from the surrounding discourses' own openings"
+        ]),
+        ("Development IS the practice", [
+            "not a separate result the practice produces —",
+            "the fourfold observation, defined as itself"
+        ]),
+        ("No outcome named, unlike its neighbors", [
+            "SN 47.36 through 38 each name an outcome —",
+            "this discourse stops at the practice alone"
+        ]),
+        ("Ninth discourse, Navamaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "eleven more individual discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.39/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.38.html\">SN 47.38 &middot; Complete "
+        "Understanding</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
