@@ -32884,3 +32884,163 @@ page(
         "(SN 47.51&ndash;104) are still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 6. Gaṅgāpeyyālavagga — Abbreviated Texts on the Ganges (Vagga 6 of
+# Book VII, Satipaṭṭhānasaṃyutta). Opens the peyyāla (merged,
+# formulaic) section of this saṃyutta, SN 47.51-104. Confirmed by
+# directly listing bilara-data's own directory: five merged files
+# cover SN 47.51-62, 63-72, 73-84, 85-94, 95-104 (54 discourses total,
+# bringing this saṃyutta's own full count to 104).
+# --------------------------------------------------------------------------- #
+# SN 47.51-62 — Gaṅgānadīādisuttadvādasaka (merged peyyāla range)
+# --------------------------------------------------------------------------- #
+page_range(
+    47, 51, 62, "Gaṅgānadīādisuttadvādasaka",
+    "Twelve Discourses on the Ganges River, Etc.",
+    vagga="Gaṅgāpeyyālavagga",
+    meta_title="SN 47.51–62 — Twelve Discourses on the Ganges River, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 47.51–62 — a single worked example, the Ganges river "
+        "sloping toward the ocean as a simile for mindfulness "
+        "meditation sloping toward extinguishment, with the source "
+        "itself instructing that eleven more variants be expanded "
+        "from it rather than spelling each one out. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single worked example (the Ganges sloping "
+                 "eastward) followed by the source's own instruction "
+                 "that the remaining eleven variants be expanded from "
+                 "it (vitthāretabbaṁ), not spelled out individually"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; opens this saṃyutta's own peyyāla "
+                         "section, SN 47.51&ndash;104, with a "
+                         "genuinely different compression pattern "
+                         "than the merged ranges in Book V's own "
+                         "earlier saṃyuttas"),
+    ],
+    why=(
+        "This merged file opens the peyyāla (formulaic, "
+        "abbreviated-text) section of this saṃyutta with a single "
+        "worked example &mdash; the Ganges river sloping, sliding, "
+        "and inclining toward the east, used as a simile for a "
+        "mendicant who develops the four kinds of mindfulness "
+        "meditation sloping toward extinguishment &mdash; and its "
+        "own closing instruction, &ldquo;vitthāretabbaṁ&rdquo; "
+        "(&ldquo;should be expanded in full&rdquo;), confirms the "
+        "source itself leaves the remaining eleven discourses in this "
+        "range UNWRITTEN, to be reconstructed by the same pattern "
+        "rather than provided as separate text."
+    ),
+    guide=[
+        ("One worked formula, not twelve separate discourses", [
+            "Confirmed by directly reading the merged file, this "
+            "range contains ONLY the Ganges river simile spelled out "
+            "in full once &mdash; not twelve individually written "
+            "discourses &mdash; with the root text's own closing word "
+            "&ldquo;vitthāretabbaṁ&rdquo; instructing a reciter to "
+            "expand the remaining eleven from this single template.",
+        ]),
+        ("The count is given, but the six rivers are not named", [
+            "This project's own honest check of both the merged file "
+            "and its closing uddāna confirms that while the verse "
+            "states the total precisely &mdash; &ldquo;cha pācīnato "
+            "ninnā, cha ninnā ca samuddato&rdquo; (&ldquo;six sloping "
+            "to the east, and six sloping to the ocean&rdquo;), "
+            "twelve in total &mdash; the source text itself does NOT "
+            "name which six rivers are meant, so this reading guide "
+            "does not supply invented river names beyond what the "
+            "text actually states.",
+        ]),
+        ("A different compression than Book V's own earlier peyyāla ranges", [
+            "Confirmed by direct comparison, this merged range's own "
+            "compression is DEEPER than SN 45.42-47's own earlier "
+            "pattern (which kept a distinct goal-name clause for each "
+            "of its six discourses) &mdash; here, all twelve share "
+            "the identical formula with no distinguishing clause "
+            "preserved in the source for any of them beyond the one "
+            "worked example.",
+        ]),
+    ],
+    terms=[
+        ("pācīnaninnā pācīnapoṇā pācīnapabbhārā", "&ldquo;slanting, "
+             "sloping, and inclining to the east&rdquo; &mdash; the "
+             "threefold description of the Ganges river's own "
+             "direction, mirrored in the simile's own second half"),
+        ("nibbānaninno... nibbānapoṇo... nibbānapabbhāro", "&ldquo;"
+             "sloping, sliding, and inclining toward "
+             "extinguishment&rdquo; &mdash; the identical threefold "
+             "pattern applied to a mendicant who develops the four "
+             "kinds of mindfulness meditation"),
+        ("vitthāretabbaṁ", "&ldquo;should be expanded, elaborated in "
+             "full&rdquo; &mdash; the root text's own closing "
+             "instruction, confirming the remaining eleven discourses "
+             "in this range are left unwritten in the source"),
+        ("Gaṅgāpeyyālavaggo chaṭṭho", "&ldquo;the Gaṅgāpeyyāla "
+             "chapter, the sixth&rdquo; &mdash; the Pāli root's own "
+             "closing colophon naming this vagga"),
+        ("cha pācīnato ninnā, cha ninnā ca samuddato", "&ldquo;six "
+             "sloping to the east, and six sloping to the "
+             "ocean&rdquo; &mdash; the uddāna's own count of twelve, "
+             "given without naming the specific six rivers meant"),
+    ],
+    text_intro=("The single worked example given in full in the "
+        "source, covering all twelve discourses of this range by "
+        "template, followed by the vagga's own closing summary verse "
+        "(genuinely translated here, unlike the untranslated Pāli "
+        "colophon that precedes it). Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn47.51-62:1.1-2.6"),
+        ("p", "&sect;2 &mdash; the closing summary verse", "sn47.51-62:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How many individually-written discourses does this merged file actually contain?",
+         "opts": ["One worked example, with the remaining eleven left unwritten and to be expanded from it", "All twelve, spelled out separately", "None — the file is entirely blank", "Six, one for each named river"],
+         "correct": 0,
+         "expl": "The root text's own closing word \"vitthāretabbaṁ\" instructs a reciter to expand the rest from this single template."},
+        {"q": "Does the source text name the specific six rivers referred to in its own closing verse?",
+         "opts": ["No — it gives only the count (twelve, as two sets of six), not the river names", "Yes, all six are named individually", "Only the Ganges and one other river are named", "The rivers are named in a separate discourse not covered here"],
+         "correct": 0,
+         "expl": "This reading guide does not supply invented river names beyond what the text actually states."},
+        {"q": "How does this range's own compression compare to SN 45.42-47's own earlier merged range?",
+         "opts": ["Deeper — no distinguishing clause is preserved for any of the eleven unwritten discourses, unlike SN 45.42-47's own six distinct goal-names", "Identical in every respect", "Less compressed — this range gives more detail than SN 45.42-47", "This range has no relationship to SN 45.42-47's own pattern"],
+         "correct": 0,
+         "expl": "All twelve here share the identical formula, differing (per the source's own summary) only in river and direction, neither of which is spelled out."},
+    ],
+    marginalia=[
+        ("One river, given in full", [
+            "the Ganges sloping toward the east —",
+            "a single worked example, not twelve"
+        ]),
+        ("\"Should be expanded\" — vitthāretabbaṁ", [
+            "the remaining eleven left unwritten —",
+            "reconstructed from this one template"
+        ]),
+        ("Twelve counted, six rivers unnamed", [
+            "the uddāna gives the total, not the names —",
+            "nothing invented beyond what the text states"
+        ]),
+        ("This saṃyutta's own peyyāla section opens", [
+            "Gaṅgāpeyyālavagga, the sixth vagga —",
+            "SN 47.63 onward still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.51-62/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.50.html\">SN 47.50 &middot; Defilements</a> "
+        "&mdash; the previous discourse, closing the fifty "
+        "individually-numbered discourses of this saṃyutta.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own remaining peyyāla ranges "
+        "(SN 47.63&ndash;104) are still in preparation.",
+    ],
+)
