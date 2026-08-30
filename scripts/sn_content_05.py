@@ -14263,3 +14263,1369 @@ page(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 46 (Bojjhaṅgasaṃyutta, "Linked Discourses on the Awakening
+# Factors") is this book's second saṃyutta, confirmed by direct
+# bilara-data reading: 184 discourses across 18 vaggas (87 bilara-data
+# files), the first 8 vaggas holding genuinely varied content (as SN
+# 45's own opening four vaggas did) and vaggas 9-18 repeating the
+# familiar peyyāla pattern from SN 45 -- Gaṅgā, Diligence, Hard Work,
+# Searches, and Floods, each run through TWICE ("Another Chapter of
+# ..."), applied throughout to the seven awakening factors
+# (bojjhaṅga) rather than the eightfold path. SN 46.1 confirms, by
+# direct Pāli comparison, that it reuses SN 45.151's own exact dragon-
+# and-Himalaya simile verbatim -- confirming the peyyāla template
+# itself is shared ACROSS saṃyuttas in this book, not merely within
+# one, each saṃyutta substituting its own core teaching from the
+# thirty-seven qualities of awakening.
+#
+# 1. Pabbatavagga -- Mountains -- SN 46.1-10 (10, confirmed by the
+#    closing uddāna: Himavantaṁ/Himalaya, kāyaṁ/Body, sīlaṁ/Ethics,
+#    vatthaṁ/Clothes, bhikkhu/A Monk, kuṇḍali/Kuṇḍaliya, kūṭaṁ/A
+#    Bungalow, upavāṇaṁ/With Upavāṇa, uppannā apare dve/"the arisen
+#    ones, two more" -- SN 46.9-10 counted together as a closing pair)
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 46.1 — Himavantasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 1, "Himavanta", "The Himalaya",
+    vagga="Pabbatavagga",
+    meta_title="SN 46.1 — The Himalaya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Himavantasutta — opening the Bojjhaṅgasaṃyutta with the "
+        "same dragon-and-Himalaya simile already met in the "
+        "Maggasaṃyutta, now applied to the seven awakening factors. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One simile, reusing SN 45.151's own dragon "
+                 "narrative verbatim"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "opens a new saṃyutta with a familiar image"),
+    ],
+    why=(
+        "A new saṃyutta begins &mdash; the Bojjhaṅgasaṃyutta, on the "
+        "seven awakening factors &mdash; and its very first discourse "
+        "confirms, by direct Pāli comparison, that it reuses SN "
+        "45.151's own dragon-and-Himalaya simile word for word, only "
+        "substituting the seven awakening factors for the eightfold "
+        "path. This is the clearest evidence yet that Book V's own "
+        "peyyāla template is shared across saṃyuttas, not confined "
+        "to one."
+    ),
+    guide=[
+        ("The same simile, confirmed verbatim", [
+            "Dragons grow strong supported by the Himalayas, the king "
+            "of mountains, then dive through pools, lakes, streams, "
+            "and rivers before acquiring a great and abundant body in "
+            "the ocean &mdash; the identical narrative already met at "
+            "SN 45.151, confirmed by direct comparison of the two "
+            "discourses' own Pāli. Only the object of comparison "
+            "changes: there, the eightfold path; here, the seven "
+            "awakening factors, grounded on ethics exactly as before.",
+        ]),
+        ("A new saṃyutta's own core list, named in full", [
+            "The seven awakening factors (bojjhaṅga) &mdash; "
+            "mindfulness, investigation of principles, energy, "
+            "rapture, tranquility, immersion, and equanimity &mdash; "
+            "are named here for the first time in this saṃyutta, "
+            "each carrying the identical base formula (&ldquo;relies "
+            "on seclusion, fading away, and cessation, and ripens as "
+            "letting go&rdquo;) already familiar from the eightfold "
+            "path's own treatment throughout SN 45.",
+        ]),
+    ],
+    terms=[
+        ("bojjhaṅga", "&ldquo;awakening factor&rdquo; &mdash; one of "
+             "seven qualities said to lead directly to awakening, "
+             "this saṃyutta's own core teaching"),
+        ("nāgā himavantaṁ pabbatarājānaṁ nissāya kāyaṁ vaḍḍhenti "
+             "balaṁ gāhenti", "&ldquo;dragons grow and wax strong "
+             "supported by the Himalayas, the king of mountains"
+             "&rdquo; &mdash; the identical opening already met at "
+             "SN 45.151, confirmed by direct comparison"),
+        ("sati... dhammavicaya... vīriya... pīti... passaddhi... "
+             "samādhi... upekkhā", "mindfulness, investigation of "
+             "principles, energy, rapture, tranquility, immersion, "
+             "and equanimity &mdash; the seven awakening factors "
+             "named in full here"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "the base formula, applied here to each of the seven "
+             "awakening factors individually, exactly as it was "
+             "applied to each of the eight path factors throughout "
+             "SN 45"),
+        ("sīlaṁ nissāya sīle patiṭṭhāya", "&ldquo;depending on and "
+             "grounded on ethics&rdquo; &mdash; the same grounding "
+             "phrase already met at SN 45.151, carried into this new "
+             "saṃyutta unchanged"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.1:1.1-1.13"),
+    ],
+    quiz=[
+        {"q": "What does direct comparison of this discourse's own Pāli confirm about its own relationship to SN 45.151?",
+         "opts": ["It reuses SN 45.151's own dragon-and-Himalaya simile verbatim, substituting only the seven awakening factors for the eightfold path", "It has no relationship to SN 45.151 whatsoever", "It contradicts SN 45.151's own claims about dragons", "It is a shortened summary of SN 45.151's own longer text"],
+         "correct": 0,
+         "expl": "The clearest evidence that Book V's own peyyāla template is shared across saṃyuttas."},
+        {"q": "What are the seven awakening factors named in this discourse?",
+         "opts": ["Mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity", "Right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion", "Sensuality, desire to be reborn, views, ignorance, doubt, conceit, and dislike", "Form, feeling, perception, choices, consciousness, contact, and volition"],
+         "correct": 0,
+         "expl": "This saṃyutta's own core teaching, substituted into the shared peyyāla template in place of the eightfold path."},
+        {"q": "What grounding phrase, already met throughout SN 45, carries into this new saṃyutta unchanged?",
+         "opts": ["\"Depending on and grounded on ethics\"", "\"Whose objective is freedom from death\"", "\"Which slants, slopes, and inclines to extinguishment\"", "None — this saṃyutta uses an entirely new grounding phrase"],
+         "correct": 0,
+         "expl": "Confirming the shared template extends even to this specific grounding language, not just the dragon simile itself."},
+    ],
+    marginalia=[
+        ("A new saṃyutta, a familiar dragon", [
+            "the same journey to the ocean —",
+            "confirmed word for word against SN 45.151",
+        ]),
+        ("Seven factors, not eight path-limbs", [
+            "mindfulness through equanimity —",
+            "this saṃyutta's own core teaching, named in full",
+        ]),
+        ("A template shared across saṃyuttas", [
+            "not confined to one book's own path —",
+            "the same scaffolding, a new list inside it",
+        ]),
+        ("Nine discourses remain in this vagga", [
+            "the body, ethics, clothes, a monk —",
+            "Kuṇḍaliya, a bungalow, Upavāṇa, and the arisen pair"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.180.html\">SN 45.180 &middot; Higher "
+        "Fetters</a> &mdash; the previous page, closing the "
+        "Maggasaṃyutta.",
+        "<a href=\"sn-46.2.html\">SN 46.2 &middot; The Body</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.2 — Kāyasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 2, "Kāya", "The Body",
+    vagga="Pabbatavagga",
+    meta_title="SN 46.2 — The Body | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kāyasutta — the body's own need for food likened to what "
+        "fuels the five hindrances and, in reverse, what fuels each "
+        "of the seven awakening factors. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One extended simile applied twice — first to what "
+                 "fuels each hindrance, then to what fuels each "
+                 "awakening factor"),
+        ("Length", "3-4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "one of the canon's own most practically "
+                       "detailed teachings on mental cultivation"),
+    ],
+    why=(
+        "Just as the body depends on food to continue, the five "
+        "hindrances depend on their own specific &ldquo;fuel&rdquo; "
+        "to arise and grow &mdash; and, by the identical logic, so "
+        "does each of the seven awakening factors. This discourse "
+        "names the precise fuel for each of the twelve items in turn "
+        "(five hindrances, seven awakening factors), making it one of "
+        "the most practically detailed teachings in the entire canon "
+        "on how specific patterns of attention either feed affliction "
+        "or feed awakening."
+    ),
+    guide=[
+        ("Two parallel structures, one governing image", [
+            "The discourse falls into two halves built on the "
+            "identical &ldquo;body needs food&rdquo; frame: the first "
+            "names what fuels each of the five hindrances (sensual "
+            "desire, ill will, dullness and drowsiness, restlessness "
+            "and remorse, doubt) through &ldquo;irrational application "
+            "of mind&rdquo; (ayoniso manasikāra) to specific objects; "
+            "the second names what fuels each of the seven awakening "
+            "factors through &ldquo;rational application of mind"
+            "&rdquo; (yoniso manasikāra) to a parallel set of objects "
+            "&mdash; the same mental faculty of attention, directed "
+            "well or poorly, determines which set grows.",
+        ]),
+        ("Specific, not generic, fuel for each factor", [
+            "Unlike a simple listing, this discourse names a "
+            "distinct condition for each of the twelve items: the "
+            "feature of beauty fuels sensual desire; the feature of "
+            "aversion fuels ill will; discontent and sleepiness fuel "
+            "dullness; an unsettled mind fuels restlessness; grounds "
+            "for doubt fuel doubt. On the awakening-factor side, the "
+            "text is more general, simply naming &ldquo;things that "
+            "are grounds for&rdquo; each factor, except for "
+            "investigation of principles (skillful and unskillful "
+            "qualities), energy (initiative, persistence, and "
+            "exertion), and tranquility (bodily and mental calm), "
+            "which receive their own specific descriptions.",
+        ]),
+    ],
+    terms=[
+        ("āhāra", "&ldquo;food&rdquo; or, metaphorically, "
+             "&ldquo;fuel&rdquo; &mdash; what sustains the arising "
+             "and growth of a mental state, this discourse's own "
+             "governing image"),
+        ("ayoniso manasikāra", "&ldquo;irrational application of "
+             "mind&rdquo; &mdash; attention that feeds the five "
+             "hindrances by dwelling on their own specific triggers"),
+        ("yoniso manasikāra", "&ldquo;rational application of mind"
+             "&rdquo; &mdash; the identical faculty of attention, "
+             "directed instead toward what feeds each awakening "
+             "factor"),
+        ("subhanimitta... paṭighanimitta", "&ldquo;the feature of "
+             "beauty... the feature of aversion&rdquo; &mdash; the "
+             "specific triggers named for sensual desire and ill "
+             "will respectively"),
+        ("ārambhadhātu nikkamadhātu parakkamadhātu", "&ldquo;the "
+             "elements of initiative, persistence, and exertion"
+             "&rdquo; &mdash; the specific fuel named for the "
+             "awakening factor of energy"),
+    ],
+    text_intro=("The complete discourse, both halves in full. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the governing image",
+             "sn46.2:1.1-1.3"),
+        ("p", "&sect;2 &mdash; what fuels sensual desire",
+             "sn46.2:2.1-2.4"),
+        ("p", "&sect;3 &mdash; what fuels ill will",
+             "sn46.2:3.1-3.4"),
+        ("p", "&sect;4 &mdash; what fuels dullness and drowsiness",
+             "sn46.2:4.1-4.4"),
+        ("p", "&sect;5 &mdash; what fuels restlessness and remorse",
+             "sn46.2:5.1-5.4"),
+        ("p", "&sect;6 &mdash; what fuels doubt", "sn46.2:6.1-6.4"),
+        ("p", "&sect;7-8 &mdash; the image restated for the "
+              "awakening factors", "sn46.2:7.1-8.2"),
+        ("p", "&sect;9 &mdash; what fuels mindfulness",
+             "sn46.2:9.1-9.4"),
+        ("p", "&sect;10 &mdash; what fuels investigation of "
+              "principles", "sn46.2:10.1-10.4"),
+        ("p", "&sect;11 &mdash; what fuels energy", "sn46.2:11.1-11.4"),
+        ("p", "&sect;12 &mdash; what fuels rapture", "sn46.2:12.1-12.4"),
+        ("p", "&sect;13 &mdash; what fuels tranquility",
+             "sn46.2:13.1-13.4"),
+        ("p", "&sect;14 &mdash; what fuels immersion",
+             "sn46.2:14.1-14.4"),
+        ("p", "&sect;15 &mdash; what fuels equanimity",
+             "sn46.2:15.1-15.4"),
+        ("p", "&sect;16 &mdash; the closing restatement",
+             "sn46.2:16.1-16.2"),
+    ],
+    quiz=[
+        {"q": "What single mental faculty, directed two different ways, determines whether the hindrances or the awakening factors grow?",
+         "opts": ["The application of mind (manasikāra) — irrational for the hindrances, rational for the awakening factors", "Physical diet and food intake", "The amount of formal sitting meditation performed", "Whether one is a monastic or a lay follower"],
+         "correct": 0,
+         "expl": "The identical faculty of attention, its direction alone determining which set of mental states is fed."},
+        {"q": "What specifically fuels the arising of sensual desire, according to this discourse?",
+         "opts": ["Frequent irrational application of mind to the feature of beauty", "Physical hunger", "A lack of sleep", "Exposure to cold weather"],
+         "correct": 0,
+         "expl": "A precise, named trigger — not a vague generalization about sensuality."},
+        {"q": "What specific fuel does this discourse name for the awakening factor of energy?",
+         "opts": ["The elements of initiative, persistence, and exertion", "A feature of beauty", "Discontent and sleepiness", "An unsettled mind"],
+         "correct": 0,
+         "expl": "One of the more specifically described awakening-factor fuels, alongside investigation of principles and tranquility."},
+    ],
+    marginalia=[
+        ("The body needs food; so does every mental state", [
+            "one governing image, applied twice —",
+            "to what harms, and to what heals",
+        ]),
+        ("Irrational attention feeds the hindrances", [
+            "rational attention feeds awakening —",
+            "the same faculty, aimed two different ways",
+        ]),
+        ("A precise fuel named for each of twelve states", [
+            "not vague generalities —",
+            "beauty for desire, aversion for ill will"
+        ]),
+        ("One of the canon's own most practical teachings", [
+            "eight discourses remain in this vagga —",
+            "ethics, clothes, a monk, Kuṇḍaliya, and more"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.1.html\">SN 46.1 &middot; The Himalaya</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.3.html\">SN 46.3 &middot; Ethics</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.3 — Sīlasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 3, "Sīla", "Ethics",
+    vagga="Pabbatavagga",
+    meta_title="SN 46.3 — Ethics | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sīlasutta — tracing how encountering an accomplished "
+        "mendicant sets off the seven awakening factors in sequence, "
+        "ending in seven possible fruits of the path. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.2"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A causal chain running from encountering virtue "
+                 "through all seven awakening factors to seven "
+                 "possible fruits"),
+        ("Length", "3-4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "traces a complete causal sequence culminating "
+                       "in a technical list of awakening stages"),
+    ],
+    why=(
+        "Even the sight, or the mere hearing, of a mendicant "
+        "accomplished in ethics, immersion, knowledge, freedom, or "
+        "the knowledge and vision of freedom is called helpful "
+        "&mdash; because it can set in motion a precise causal "
+        "sequence, each awakening factor arising as the natural "
+        "consequence of the one before it, culminating in seven "
+        "possible fruits ranging from full awakening in this very "
+        "life to specific grades of non-return."
+    ),
+    guide=[
+        ("A precise causal chain, not a mere list", [
+            "Unlike SN 46.1's own simile or SN 46.2's own paired "
+            "fuel-lists, this discourse traces an unbroken causal "
+            "sequence: hearing the teaching of an accomplished "
+            "mendicant leads to living withdrawn in body and mind, "
+            "which initiates mindfulness; mindful investigation leads "
+            "to energy; energy leads to rapture; rapture leads to "
+            "bodily and mental tranquility; tranquility leads to "
+            "bliss and immersion; and immersion is watched over with "
+            "equanimity &mdash; each step named as the direct "
+            "condition for the next, confirmed by close reading of "
+            "the discourse's own connective language.",
+        ]),
+        ("Seven fruits, a technical map of the non-returner's own paths", [
+            "The discourse closes by naming seven possible outcomes "
+            "of developing the seven awakening factors in this way: "
+            "full enlightenment in this very life, or at the time of "
+            "death, or (with the five lower fetters ended) one of "
+            "five distinct grades of becoming a non-returner (extinguished "
+            "between one life and the next, upon landing, without "
+            "extra effort, with extra effort, or heading upstream to "
+            "the Akaniṭṭha realm) &mdash; a well-known technical "
+            "classification this reading guide names but does not "
+            "attempt to further explain beyond the discourse's own "
+            "own words.",
+        ]),
+    ],
+    terms=[
+        ("sīlasampanno... samādhisampanno... paññāsampanno "
+             "vimuttisampanno vimuttiñāṇadassanasampanno", "accomplished "
+             "in ethics, immersion, knowledge, freedom, or the "
+             "knowledge and vision of freedom &mdash; the fivefold "
+             "description of a mendicant worth even just seeing or "
+             "hearing"),
+        ("kāyena ceva cittena ca vūpakaṭṭho viharati", "&ldquo;will "
+             "live withdrawn in both body and mind&rdquo; &mdash; the "
+             "first link in this discourse's own causal chain, "
+             "arising from hearing an accomplished mendicant's own "
+             "teaching"),
+        ("satisambojjhaṅgaṁ ārabhati", "&ldquo;has initiated the "
+             "awakening factor of mindfulness&rdquo; &mdash; the "
+             "recurring phrase marking each step of this discourse's "
+             "own sequence"),
+        ("pīti amisā", "&ldquo;rapture not of the flesh&rdquo; "
+             "&mdash; a spiritual joy distinguished from ordinary "
+             "sensory pleasure, arising once energy is roused"),
+        ("orambhāgiyānaṁ saṁyojanānaṁ parikkhayā", "&ldquo;with the "
+             "ending of the five lower fetters&rdquo; &mdash; the "
+             "condition shared by five of the seven fruits named at "
+             "this discourse's own close, referring to the classic "
+             "grades of the non-returner"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the value of encountering an "
+              "accomplished mendicant", "sn46.3:1.1-1.9"),
+        ("p", "&sect;2 &mdash; mindfulness initiated",
+             "sn46.3:2.1-2.4"),
+        ("p", "&sect;3 &mdash; investigation of principles initiated",
+             "sn46.3:3.1-3.4"),
+        ("p", "&sect;4 &mdash; energy initiated", "sn46.3:4.1-4.2"),
+        ("p", "&sect;5 &mdash; rapture initiated", "sn46.3:5.1-5.2"),
+        ("p", "&sect;6 &mdash; tranquility initiated",
+             "sn46.3:6.1-6.2"),
+        ("p", "&sect;7 &mdash; immersion initiated", "sn46.3:7.1-7.2"),
+        ("p", "&sect;8 &mdash; equanimity initiated", "sn46.3:8.1"),
+        ("p", "&sect;9 &mdash; the seven fruits and benefits",
+             "sn46.3:9.1-9.10"),
+    ],
+    quiz=[
+        {"q": "What sets this discourse's own causal chain in motion?",
+         "opts": ["Hearing (or even seeing) a mendicant accomplished in ethics, immersion, knowledge, and freedom", "Years of solitary retreat with no teacher", "Reading scripture alone, without any teacher present", "A dramatic personal crisis"],
+         "correct": 0,
+         "expl": "The discourse explicitly says even the sight of such a mendicant is called \"very helpful.\""},
+        {"q": "In what order does this discourse trace the seven awakening factors arising, one from another?",
+         "opts": ["Mindfulness, investigation, energy, rapture, tranquility, immersion, equanimity — each the direct condition for the next", "Equanimity first, then working backward to mindfulness", "All seven arise simultaneously with no sequence", "The discourse names only three of the seven factors"],
+         "correct": 0,
+         "expl": "Confirmed by the discourse's own explicit connective language linking each step to the one before it."},
+        {"q": "What are the seven possible fruits named at this discourse's own close?",
+         "opts": ["Full enlightenment now, at death, or (with the lower fetters ended) one of five grades of non-return", "Seven different meditation techniques", "Seven types of monastic robes", "Seven stages of physical illness"],
+         "correct": 0,
+         "expl": "A well-known technical classification of awakening outcomes, named here without further elaboration beyond the discourse's own words."},
+    ],
+    marginalia=[
+        ("Even a glimpse can set the chain in motion", [
+            "seeing, hearing, approaching a teacher —",
+            "each said to be \"very helpful\"",
+        ]),
+        ("Seven factors, each the seed of the next", [
+            "mindfulness to investigation, to energy —",
+            "rapture, tranquility, immersion, equanimity",
+        ]),
+        ("Seven fruits, a technical map", [
+            "full awakening, or five grades of non-return —",
+            "named here, not further explained"
+        ]),
+        ("Seven discourses remain in this vagga", [
+            "clothes, a monk, Kuṇḍaliya's own conversion —",
+            "a bungalow, Upavāṇa, and the arisen pair"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.2.html\">SN 46.2 &middot; The Body</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.4.html\">SN 46.4 &middot; Clothes</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.4 — Vatthasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 4, "Vattha", "Clothes",
+    vagga="Pabbatavagga",
+    meta_title="SN 46.4 — Clothes | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vatthasutta — Sāriputta's own first-person testimony, "
+        "comparing his freedom to choose any awakening factor at "
+        "will to a ruler choosing garments from a full wardrobe. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                    "monastery"),
+        ("Speakers", "Venerable Sāriputta, addressing the mendicants "
+                     "directly"),
+        ("Form", "First-person testimony, illustrated with the "
+                 "simile of a ruler's own wardrobe of garments"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a personal testimony rather than a general "
+                       "teaching"),
+    ],
+    why=(
+        "Unlike every discourse so far in this vagga, this one is "
+        "spoken not by the Buddha but by Sāriputta himself, offering "
+        "a rare first-person account: he can meditate on whichever of "
+        "the seven awakening factors he wants, whenever he wants, "
+        "morning, midday, or evening &mdash; as freely as a ruler "
+        "choosing which garment to wear from a chest full of "
+        "different colors."
+    ),
+    guide=[
+        ("A first-person testimony, not a general instruction", [
+            "Sāriputta's own account is notable for its directness: "
+            "he does not merely describe the seven awakening factors "
+            "in the abstract but reports his own mastery over them "
+            "&mdash; free to summon whichever factor he wishes at any "
+            "time of day, and able to recognize both its presence and "
+            "the specific reason it subsides when it does.",
+        ]),
+        ("Mastery as freedom of choice, not mere attainment", [
+            "The wardrobe simile makes a precise point: mastery here "
+            "is not simply the capacity to develop the awakening "
+            "factors, but the freedom to choose among them at will, "
+            "as a ruler with many garments chooses whichever suits "
+            "the moment &mdash; a distinct and more advanced claim "
+            "than developing them in a fixed, necessary sequence.",
+        ]),
+    ],
+    terms=[
+        ("āyasmā sāriputto", "&ldquo;Venerable Sāriputta&rdquo; "
+             "&mdash; the Buddha's own chief disciple, renowned for "
+             "wisdom, and the speaker of this entire discourse"),
+        ("yaṁ yadeva bojjhaṅgaṁ ākaṅkhāmi", "&ldquo;whichever of "
+             "these awakening factors I want&rdquo; &mdash; "
+             "Sāriputta's own claim of free access to any of the "
+             "seven at will"),
+        ("appamāṇo suppayutto", "&ldquo;limitless and properly "
+             "implemented&rdquo; &mdash; how Sāriputta describes each "
+             "awakening factor once it is present in his own "
+             "experience"),
+        ("rājā vā rājamahāmatto vā nānārattānaṁ dussānaṁ dussakaraṇḍakaṁ",
+             "&ldquo;a ruler or their chief minister... a chest full "
+             "of garments of different colors&rdquo; &mdash; this "
+             "discourse's own simile for freely chosen mastery"),
+        ("yena yeneva nirujjhati tañca pajānāmi", "&ldquo;I understand "
+             "the specific reason it subsides&rdquo; &mdash; "
+             "Sāriputta's own claim of precise self-diagnostic "
+             "insight, matched closely by SN 46.8's own dialogue"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the setting", "sn46.4:1.1-1.5"),
+        ("p", "&sect;2 &mdash; Sāriputta's own testimony",
+             "sn46.4:2.1-2.11"),
+        ("p", "&sect;3 &mdash; the wardrobe simile",
+             "sn46.4:3.1-3.11"),
+    ],
+    quiz=[
+        {"q": "Who speaks this discourse, unlike every one before it in this vagga?",
+         "opts": ["Venerable Sāriputta, not the Buddha", "A group of unnamed mendicants together", "King Pasenadi of Kosala", "The wanderer Kuṇḍaliya"],
+         "correct": 0,
+         "expl": "A rare first-person testimony from the Buddha's own chief disciple."},
+        {"q": "What claim does Sāriputta's own wardrobe simile illustrate?",
+         "opts": ["Freedom to choose any of the seven awakening factors at will, not merely the capacity to develop them", "That physical clothing affects meditative attainment", "That only rulers can access the awakening factors", "That the awakening factors must be developed in a strict, unchangeable order"],
+         "correct": 0,
+         "expl": "A more advanced claim than mere developmental capacity — mastery as freedom of choice."},
+        {"q": "What precise skill does Sāriputta claim regarding each awakening factor's own presence or absence?",
+         "opts": ["He understands the specific reason it subsides when it does", "He can predict exactly how long each will last in advance", "He can transfer awakening factors to other mendicants", "He claims no particular skill regarding their presence or absence"],
+         "correct": 0,
+         "expl": "A claim of precise self-diagnostic insight, echoed closely in SN 46.8's own dialogue with Upavāṇa."},
+    ],
+    marginalia=[
+        ("Sāriputta speaks, not the Buddha", [
+            "a rare first-person testimony —",
+            "morning, midday, evening, at will",
+        ]),
+        ("A ruler's own wardrobe, freely chosen", [
+            "any garment, any awakening factor —",
+            "mastery as freedom, not mere capacity",
+        ]),
+        ("Presence understood, absence understood", [
+            "not just \"it's there\" or \"it's gone\" —",
+            "the specific reason for each, precisely known"
+        ]),
+        ("Six discourses remain in this vagga", [
+            "a monk, Kuṇḍaliya's own conversion —",
+            "a bungalow, Upavāṇa, and the arisen pair"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.3.html\">SN 46.3 &middot; Ethics</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.5.html\">SN 46.5 &middot; A Monk</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.5 — Bhikkhusutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 5, "Bhikkhu", "A Monk",
+    vagga="Pabbatavagga",
+    meta_title="SN 46.5 — A Monk | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhikkhusutta — an unnamed mendicant's own direct "
+        "question, \"how are the awakening factors defined?\", "
+        "answered with an etymology and the classic freedom "
+        "declaration. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "An unnamed mendicant, questioning the Buddha "
+                     "directly"),
+        ("Form", "A direct question and answer, defining the term "
+                 "&ldquo;awakening factor&rdquo; itself"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but definitional and doctrinally "
+                       "central"),
+    ],
+    why=(
+        "An unnamed mendicant asks the most basic possible question "
+        "about this saṃyutta's own core term: &ldquo;how are the "
+        "awakening factors defined?&rdquo; The Buddha's own answer is "
+        "a simple etymology &mdash; they are called awakening factors "
+        "&ldquo;because they lead to awakening&rdquo; &mdash; followed "
+        "immediately by the classic declaration of freedom that "
+        "recurs throughout the canon whenever full liberation is "
+        "described."
+    ),
+    guide=[
+        ("A definitional discourse, unique so far in this vagga", [
+            "Every discourse before this one assumed the meaning of "
+            "&ldquo;awakening factor&rdquo; and moved directly to "
+            "similes or causal chains; this is the first to ask, and "
+            "answer, what the term itself means &mdash; a "
+            "self-referential etymology (bojjhaṅga, &ldquo;awakening"
+            "&rdquo; + &ldquo;factor,&rdquo; because they lead to "
+            "bodhi, awakening) confirmed by direct reading rather "
+            "than assumed from the term's own surface meaning.",
+        ]),
+        ("The classic freedom declaration, appearing here in miniature", [
+            "The discourse's own closing lines &mdash; freedom from "
+            "the defilements of sensuality, desire to be reborn, and "
+            "ignorance; knowing that one is freed; and the fourfold "
+            "declaration (&ldquo;rebirth is ended... what had to be "
+            "done has been done&rdquo;) &mdash; are the same formula "
+            "used throughout the canon to mark full awakening, here "
+            "presented as the direct fruit of developing the seven "
+            "awakening factors.",
+        ]),
+    ],
+    terms=[
+        ("bojjhaṅgā ti vuccanti", "&ldquo;they speak of the "
+             "&lsquo;awakening factors&rsquo;&rdquo; &mdash; the "
+             "unnamed mendicant's own opening question, taking the "
+             "term as already familiar but unexplained"),
+        ("bodhāya saṁvattantīti kho, bhikkhu, tasmā bojjhaṅgā ti vuccanti",
+             "&ldquo;they're called awakening factors because they "
+             "lead to awakening&rdquo; &mdash; the Buddha's own "
+             "etymological answer, repeated to close the discourse"),
+        ("kāmāsavā... bhavāsavā... avijjāsavā... cittaṁ vimuccati",
+             "&ldquo;their mind is freed from the defilements of "
+             "sensuality, desire to be reborn, and ignorance&rdquo; "
+             "&mdash; the direct fruit of developing the seven "
+             "awakening factors, named here in miniature"),
+        ("vimuttasmiṁ vimuttamiti ñāṇaṁ hoti", "&ldquo;when they're "
+             "freed, they know they're freed&rdquo; &mdash; the "
+             "reflexive knowledge of one's own liberation, standard "
+             "throughout the canon's own accounts of full awakening"),
+        ("khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ nāparaṁ "
+             "itthattāyāti", "&ldquo;rebirth is ended, the spiritual "
+             "journey has been completed, what had to be done has "
+             "been done, there is nothing further for this place"
+             "&rdquo; &mdash; the canon's own classic fourfold "
+             "declaration of complete awakening"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.5:1.1-1.11"),
+    ],
+    quiz=[
+        {"q": "What question does the unnamed mendicant ask, unique so far in this vagga?",
+         "opts": ["How are the awakening factors defined?", "How many awakening factors are there?", "Where did the Buddha first teach the awakening factors?", "Can a lay follower develop the awakening factors?"],
+         "correct": 0,
+         "expl": "The first discourse in this vagga to define the term itself, rather than assuming it and moving to a simile."},
+        {"q": "What etymology does the Buddha give for the term \"bojjhaṅga\" (awakening factor)?",
+         "opts": ["They are called awakening factors because they lead to awakening (bodhi)", "The term has no explainable origin", "It is named after the monk who first discovered it", "It refers to a specific posture used in meditation"],
+         "correct": 0,
+         "expl": "A simple, direct etymological answer, repeated to close the discourse."},
+        {"q": "What classic formula appears at this discourse's own close?",
+         "opts": ["The fourfold declaration of complete awakening (\"rebirth is ended... what had to be done has been done\")", "The five precepts of lay ethics", "The three refuges (Buddha, Dhamma, Saṅgha)", "A list of monastic robes and requisites"],
+         "correct": 0,
+         "expl": "The canon's own standard formula for marking full liberation, presented here as the direct fruit of the seven awakening factors."},
+    ],
+    marginalia=[
+        ("A basic question, finally asked", [
+            "\"how are the awakening factors defined?\" —",
+            "the first discourse in this vagga to ask it directly",
+        ]),
+        ("An etymology, simple and self-referential", [
+            "they lead to awakening —",
+            "so \"awakening factors\" is exactly what they're called",
+        ]),
+        ("Freedom's own classic declaration", [
+            "\"rebirth is ended... nothing further for this place\" —",
+            "the fruit of these seven factors, named in miniature"
+        ]),
+        ("Five discourses remain in this vagga", [
+            "Kuṇḍaliya's own conversion ahead —",
+            "a bungalow, Upavāṇa, and the arisen pair"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.4.html\">SN 46.4 &middot; Clothes</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.6.html\">SN 46.6 &middot; Kuṇḍaliya</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.6 — Kuṇḍaliyasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 6, "Kuṇḍaliya", "Kuṇḍaliya",
+    vagga="Pabbatavagga",
+    meta_title="SN 46.6 — Kuṇḍaliya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kuṇḍaliyasutta — a wanderer's blunt question about "
+        "debate-loving ascetics leads to a five-stage causal chain "
+        "from sense restraint to full freedom, and his own conversion. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāketa, the deer park at Añjana Wood"),
+        ("Speakers", "The wanderer Kuṇḍaliya, questioning the Buddha "
+                     "directly"),
+        ("Form", "A narrative frame, a chain of five nested "
+                 "questions and answers, and a closing conversion"),
+        ("Length", "4-5 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "this vagga's own longest and most narratively "
+                       "developed discourse"),
+    ],
+    why=(
+        "A wanderer who enjoys watching ascetics argue and debate "
+        "asks the Buddha, bluntly, what he himself lives for &mdash; "
+        "and receives an answer that unfolds into a precise five-step "
+        "causal chain, traced backward from knowledge and freedom all "
+        "the way down to sense restraint, before Kuṇḍaliya declares "
+        "himself a lay follower for life."
+    ),
+    guide=[
+        ("A backward-traced chain of conditions", [
+            "Kuṇḍaliya's own repeated question &mdash; &ldquo;what "
+            "things must be developed to fulfill this?&rdquo; "
+            "&mdash; is asked four times in succession, each time "
+            "moving one level further back: knowledge and freedom "
+            "requires the seven awakening factors; the awakening "
+            "factors require the four kinds of mindfulness "
+            "meditation; mindfulness meditation requires the three "
+            "kinds of good conduct; and good conduct requires sense "
+            "restraint &mdash; confirmed by close reading to be a "
+            "single unbroken chain, each link a genuine precondition "
+            "for the one above it.",
+        ]),
+        ("Sense restraint defined with precision, then traced forward again", [
+            "Rather than leave &ldquo;sense restraint&rdquo; "
+            "abstract, the Buddha defines it concretely across all "
+            "six sense doors (eye, ear, nose, tongue, body, mind): "
+            "neither desiring an agreeable object nor being dismayed "
+            "by a disagreeable one, the mind and body remaining "
+            "&ldquo;steady internally, well settled and well freed"
+            "&rdquo; either way. Having defined the base of the chain "
+            "concretely, the discourse then retraces it forward, "
+            "stage by stage, up through good conduct, mindfulness, "
+            "and the awakening factors, to knowledge and freedom.",
+        ]),
+        ("A wanderer's own conversion, framed by his own honesty", [
+            "Kuṇḍaliya's opening confession &mdash; that he enjoys "
+            "watching ascetics debate for the sake of winning and "
+            "finding fault &mdash; makes his own closing response "
+            "(&ldquo;excellent... as if lighting a lamp in the "
+            "dark&rdquo;, taking refuge for life) a genuine change of "
+            "direction, not a formality: this discourse's own frame "
+            "narrative is as significant as its own doctrinal content.",
+        ]),
+    ],
+    terms=[
+        ("paribbājaka", "&ldquo;wanderer&rdquo; &mdash; a "
+             "non-Buddhist religious mendicant, here named Kuṇḍaliya, "
+             "who frequents monasteries to watch ascetics debate"),
+        ("vādatthaṁ ca vādaparakkamatthaṁ ca", "&ldquo;for the sake "
+             "of winning debates and finding fault&rdquo; &mdash; "
+             "Kuṇḍaliya's own honest description of what he usually "
+             "witnesses, framing his question to the Buddha"),
+        ("vijjāvimuttiphalānisaṁso", "&ldquo;the fruit of knowledge "
+             "and freedom&rdquo; &mdash; the Buddha's own answer to "
+             "what he himself lives for, the starting point of the "
+             "backward-traced chain that follows"),
+        ("indriyasaṁvaro", "&ldquo;sense restraint&rdquo; &mdash; the "
+             "base of this discourse's own five-stage chain, defined "
+             "concretely across all six sense doors"),
+        ("ajjhattaṁ susaṇṭhitacitto suvimuttacitto", "&ldquo;steady "
+             "internally, well settled and well freed&rdquo; &mdash; "
+             "the recurring description of the mind's own condition "
+             "when sense restraint is properly practiced, whether the "
+             "object is agreeable or not"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; Kuṇḍaliya's own opening question",
+             "sn46.6:1.1-1.9"),
+        ("p", "&sect;2 &mdash; the chain traced backward, four "
+              "questions in succession", "sn46.6:2.1-2.8"),
+        ("p", "&sect;3-4 &mdash; sense restraint defined across all "
+              "six senses", "sn46.6:3.1-4.8"),
+        ("p", "&sect;5 &mdash; sense restraint summarized",
+             "sn46.6:5.1-5.7"),
+        ("p", "&sect;6 &mdash; good conduct fulfilling mindfulness "
+              "meditation", "sn46.6:6.1-6.3"),
+        ("p", "&sect;7 &mdash; mindfulness meditation fulfilling the "
+              "awakening factors", "sn46.6:7.1-7.6"),
+        ("p", "&sect;8 &mdash; the awakening factors fulfilling "
+              "knowledge and freedom", "sn46.6:8.1-8.4"),
+        ("p", "&sect;9 &mdash; Kuṇḍaliya's own conversion",
+             "sn46.6:9.1-9.5"),
+    ],
+    quiz=[
+        {"q": "What does Kuṇḍaliya's own opening confession reveal about him?",
+         "opts": ["He enjoys watching ascetics debate for the sake of winning and finding fault, making his own closing conversion a genuine change of direction", "He is already a devoted follower of the Buddha before this conversation begins", "He has no interest in religious debate of any kind", "He is a monk seeking ordination"],
+         "correct": 0,
+         "expl": "His honest opening confession frames his closing response as a genuine transformation, not a formality."},
+        {"q": "In what order does the discourse trace the chain of conditions, moving backward from the Buddha's own stated goal?",
+         "opts": ["Knowledge and freedom ← awakening factors ← mindfulness meditation ← good conduct ← sense restraint", "Sense restraint ← good conduct ← mindfulness meditation ← awakening factors ← knowledge and freedom, traced forward only", "The discourse names only two conditions, not five", "The order is random with no logical connection between links"],
+         "correct": 0,
+         "expl": "Each question moves one level further back, confirmed by close reading to be an unbroken chain."},
+        {"q": "How is sense restraint defined in this discourse?",
+         "opts": ["Neither desiring an agreeable sense object nor being dismayed by a disagreeable one, remaining steady and well freed either way", "Avoiding all contact with any sense object whatsoever", "Only restraining the eye and ear, leaving the other senses unrestrained", "A purely physical posture with no relationship to the mind"],
+         "correct": 0,
+         "expl": "Defined concretely across all six sense doors, not left as an abstract term."},
+    ],
+    marginalia=[
+        ("A wanderer's blunt question", [
+            "\"what does the worthy Gotama live for?\" —",
+            "an honest opening, not mere formality",
+        ]),
+        ("A chain traced backward, link by link", [
+            "knowledge and freedom, awakening factors, mindfulness —",
+            "good conduct, and finally, sense restraint",
+        ]),
+        ("Steady, whether pleasant or not", [
+            "neither craving nor dismay —",
+            "the mind well settled either way",
+        ]),
+        ("A lamp lit in the dark", [
+            "Kuṇḍaliya's own words, at the close —",
+            "refuge taken for life, a genuine turn"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.5.html\">SN 46.5 &middot; A Monk</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.7.html\">SN 46.7 &middot; A Bungalow</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.7 — Kūṭasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 7, "Kūṭa", "A Bungalow",
+    vagga="Pabbatavagga",
+    meta_title="SN 46.7 — A Bungalow | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kūṭasutta — the same roof-peak simile already met in "
+        "the Maggasaṃyutta, now applied to the seven awakening "
+        "factors slanting to extinguishment. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.6"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One simile, reusing SN 45.141's own roof-peak image"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, a second confirmed cross-saṃyutta "
+                       "template reuse"),
+    ],
+    why=(
+        "The rafters of a bungalow all lean, slope, and incline to "
+        "the peak &mdash; the identical image already met at SN "
+        "45.141 (A Roof Peak) &mdash; here applied to a mendicant who "
+        "develops the seven awakening factors, confirming for a "
+        "second time in this vagga that Book V's own peyyāla similes "
+        "are shared across saṃyuttas."
+    ),
+    guide=[
+        ("A second confirmed template reuse", [
+            "Following SN 46.1's own confirmed reuse of SN 45.151's "
+            "own dragon simile, this discourse confirms the same "
+            "pattern a second time: the roof-peak image from SN "
+            "45.141 reappears here essentially unchanged, only "
+            "substituting the seven awakening factors for the "
+            "eightfold path &mdash; strengthening the case that this "
+            "book's own similes form a shared repertoire drawn upon "
+            "by multiple saṃyuttas, not independently invented for "
+            "each one.",
+        ]),
+    ],
+    terms=[
+        ("kūṭāgārassa gopānasiyo", "&ldquo;the rafters of a "
+             "bungalow&rdquo; &mdash; the same architectural image "
+             "already met at SN 45.141, all leaning toward a single "
+             "peak"),
+        ("nibbānaninno hoti nibbānapoṇo nibbānapabbhāro", "&ldquo;"
+             "slants, slopes, and inclines to extinguishment&rdquo; "
+             "&mdash; the self-referential formula, here applied to "
+             "the seven awakening factors rather than the eightfold "
+             "path"),
+        ("sati... upekkhā", "the seven awakening factors, named in "
+             "brief succession as the discourse's own object"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "the base formula, applied here to each awakening factor "
+             "in turn"),
+        ("dutiyaṁ", "&ldquo;the second&rdquo; &mdash; the Pāli root's "
+             "own closing numeral, confirming this discourse's own "
+             "position within this vagga"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.7:1.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What earlier discourse's own simile does this discourse reuse?",
+         "opts": ["SN 45.141 (A Roof Peak), from the Maggasaṃyutta", "SN 45.151 (Dragons)", "SN 46.6 (Kuṇḍaliya)", "No earlier discourse's own simile is reused here"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the identical rafters-leaning-to-the-peak image."},
+        {"q": "What does this discourse confirm, being the second such reuse in this vagga alone?",
+         "opts": ["That Book V's own peyyāla similes form a shared repertoire drawn upon by multiple saṃyuttas", "That this vagga has run out of original content", "That the seven awakening factors are identical to the eightfold path", "Nothing — this is an isolated coincidence"],
+         "correct": 0,
+         "expl": "Following SN 46.1's own confirmed reuse, strengthening the case for a genuinely shared repertoire."},
+        {"q": "What only changes between this discourse and its own SN 45.141 counterpart?",
+         "opts": ["The object of the simile — the seven awakening factors in place of the eightfold path", "The setting, from Sāvatthī to a different city", "The speaker, from the Buddha to a disciple", "Nothing changes at all — the two texts are identical in every respect"],
+         "correct": 0,
+         "expl": "The image, formula, and structure all carry over unchanged; only the core teaching substituted differs."},
+    ],
+    marginalia=[
+        ("A roof's own rafters, met once before", [
+            "at SN 45.141, for the eightfold path —",
+            "now for the seven awakening factors"
+        ]),
+        ("A second confirmed reuse", [
+            "not a coincidence, but a pattern —",
+            "this book's own shared repertoire of similes",
+        ]),
+        ("Self-referential extinguishment, once more", [
+            "the path slants toward its own goal —",
+            "so too do the seven awakening factors"
+        ]),
+        ("Three discourses remain in this vagga", [
+            "Upavāṇa's own dialogue with Sāriputta —",
+            "then the arisen pair closes it"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.6.html\">SN 46.6 &middot; Kuṇḍaliya</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.8.html\">SN 46.8 &middot; With "
+        "Upavāṇa</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.8 — Upavāṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 8, "Upavāṇa", "With Upavāṇa",
+    vagga="Pabbatavagga",
+    meta_title="SN 46.8 — With Upavāṇa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Upavāṇasutta — Sāriputta's own question to Upavāṇa on "
+        "self-diagnosing whether the awakening factors are properly "
+        "implemented, echoing SN 46.4's own testimony. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Kosambī, Ghosita's Monastery"),
+        ("Speakers", "Venerable Sāriputta, questioning Venerable "
+                     "Upavāṇa"),
+        ("Form", "A dialogue between two senior disciples, elided "
+                 "across the seven awakening factors"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a dialogue between two named senior monks"),
+    ],
+    why=(
+        "Sāriputta, coming out of retreat, asks a fellow senior "
+        "disciple, Upavāṇa, a precise question: can a mendicant know, "
+        "by investigating inside themselves, that the seven awakening "
+        "factors have been properly implemented so as to lead to "
+        "living at ease? Upavāṇa's own answer describes a specific "
+        "internal self-check &mdash; echoing, from a different "
+        "speaker, the self-diagnostic claim Sāriputta himself made at "
+        "SN 46.4."
+    ),
+    guide=[
+        ("A dialogue between two named senior disciples", [
+            "Unlike SN 46.4's own first-person testimony, this "
+            "discourse presents a genuine exchange: Sāriputta poses "
+            "the question, and Upavāṇa &mdash; not otherwise a major "
+            "figure in this saṃyutta &mdash; supplies the answer, "
+            "confirmed by direct reading to closely echo the "
+            "self-diagnostic language Sāriputta himself used when "
+            "speaking of his own mastery.",
+        ]),
+        ("A specific internal marker, not a vague feeling", [
+            "Upavāṇa's own answer names concrete signs: eradicating "
+            "dullness and drowsiness, eliminating restlessness and "
+            "remorse, energy roused up, the mind sharply focused and "
+            "not sluggish &mdash; a checklist a mendicant can use to "
+            "verify, from the inside, that an awakening factor is "
+            "genuinely present and properly functioning, rather than "
+            "merely assumed.",
+        ]),
+    ],
+    terms=[
+        ("āyasmā upavāṇo", "&ldquo;Venerable Upavāṇa&rdquo; &mdash; "
+             "a senior disciple who appears rarely elsewhere in the "
+             "canon, here supplying this discourse's own answer"),
+        ("ajjhattaṁ vicinanto pajāneyya", "&ldquo;can know that by "
+             "investigating inside themselves&rdquo; &mdash; "
+             "Sāriputta's own precise framing of the question, "
+             "emphasizing internal verification"),
+        ("phāsuvihārāya saṁvattantīti", "&ldquo;lead to living at "
+             "ease&rdquo; &mdash; the criterion Sāriputta's own "
+             "question asks about: not merely presence, but "
+             "beneficial function"),
+        ("suvimuttaṁ me cittanti pajānāti", "&ldquo;they understand: "
+             "&lsquo;my mind is well freed&rsquo;&rdquo; &mdash; the "
+             "specific self-report Upavāṇa names for each awakening "
+             "factor once properly roused"),
+        ("thinamiddhaṁ pahīnaṁ... uddhaccakukkuccaṁ paṭivinītaṁ",
+             "&ldquo;dullness and drowsiness eradicated... "
+             "restlessness and remorse eliminated&rdquo; &mdash; the "
+             "concrete internal markers named as evidence of a "
+             "properly implemented awakening factor"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the setting", "sn46.8:1.1-1.3"),
+        ("p", "&sect;2 &mdash; Sāriputta's own question",
+             "sn46.8:2.1-2.2"),
+        ("p", "&sect;3 &mdash; Upavāṇa's own answer",
+             "sn46.8:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own format differ from SN 46.4's own?",
+         "opts": ["It presents a genuine dialogue between two named senior disciples, rather than one mendicant's own solitary testimony", "It is spoken entirely by the Buddha, with no other speaker", "It contains no reference to the awakening factors at all", "It repeats SN 46.4 word for word with no changes"],
+         "correct": 0,
+         "expl": "Sāriputta poses the question here; Upavāṇa answers — a two-person exchange rather than solo testimony."},
+        {"q": "What criterion does Sāriputta's own question ask about, beyond mere presence of an awakening factor?",
+         "opts": ["Whether it has been properly implemented so as to lead to living at ease", "How long the awakening factor lasts in total", "Whether other mendicants can also perceive it", "Whether it was taught directly by the Buddha or by a disciple"],
+         "correct": 0,
+         "expl": "A functional criterion — beneficial effect — not merely detecting the factor's own presence."},
+        {"q": "What concrete markers does Upavāṇa name as evidence an awakening factor is properly roused?",
+         "opts": ["Eradicating dullness and drowsiness, eliminating restlessness and remorse, energy roused and mind sharply focused", "A specific physical sensation in the body", "The ability to recite scripture from memory", "A vision or dream experienced during meditation"],
+         "correct": 0,
+         "expl": "A concrete internal checklist, not a vague or purely subjective feeling."},
+    ],
+    marginalia=[
+        ("Two senior disciples, one precise question", [
+            "Sāriputta asks, Upavāṇa answers —",
+            "a genuine exchange, not solitary testimony",
+        ]),
+        ("Not just \"is it there\" but \"is it working\"", [
+            "properly implemented, leading to ease —",
+            "a functional test, not mere detection",
+        ]),
+        ("Concrete signs, not vague feelings", [
+            "dullness eradicated, restlessness eliminated —",
+            "energy roused, the mind sharply focused",
+        ]),
+        ("Two discourses remain in this vagga", [
+            "the arisen pair, closing the Mountains vagga —",
+            "then this saṃyutta's own peyyāla vaggas follow"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.7.html\">SN 46.7 &middot; A Bungalow</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.9.html\">SN 46.9 &middot; Arisen "
+        "(1st)</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.9 — Paṭhamauppannasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 9, "Paṭhamauppanna", "Arisen (1st)",
+    vagga="Pabbatavagga",
+    meta_title="SN 46.9 — Arisen (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the first Uppannasutta — the seven awakening factors arise "
+        "only when a Buddha has appeared in the world. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One brief, categorical statement"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but a strong doctrinal claim"),
+    ],
+    why=(
+        "The seven awakening factors, this discourse states flatly, "
+        "&ldquo;don't arise to be developed and cultivated except "
+        "when a Realized One, a perfected one, a fully awakened "
+        "Buddha has appeared&rdquo; &mdash; a strong claim about the "
+        "rarity and dependency of this saṃyutta's own core teaching, "
+        "paired with its own companion discourse just after it."
+    ),
+    guide=[
+        ("A claim about historical rarity, not personal capacity", [
+            "This discourse is not making a claim about any "
+            "individual's own ability to develop the awakening "
+            "factors, but about their own availability in the world "
+            "at all &mdash; without a Buddha's own prior discovery "
+            "and teaching, the text claims, this precise "
+            "sevenfold path to awakening simply does not arise for "
+            "anyone to develop, however diligent.",
+        ]),
+        ("The first of a deliberately paired discourse", [
+            "This discourse and its own companion (SN 46.10) make "
+            "parallel but distinct claims: here, dependency on a "
+            "Buddha's own appearance; there, dependency on "
+            "&ldquo;the Holy One's training&rdquo; &mdash; together "
+            "closing this vagga's own uddāna as &ldquo;the arisen "
+            "ones, two more,&rdquo; confirmed to be counted as one "
+            "deliberate closing pair.",
+        ]),
+    ],
+    terms=[
+        ("anuppannā uppajjanti", "&ldquo;don't arise... to arise"
+             "&rdquo; &mdash; the recurring phrase describing the "
+             "seven awakening factors' own dependency on specific "
+             "historical conditions"),
+        ("tathāgato arahaṁ sammāsambuddho loke uppajjati", "&ldquo;a "
+             "Realized One, a perfected one, a fully awakened Buddha "
+             "has appeared [in the world]&rdquo; &mdash; the sole "
+             "condition under which this discourse claims the seven "
+             "awakening factors can arise"),
+        ("satisambojjhaṅgo... upekkhāsambojjhaṅgo", "mindfulness "
+             "through equanimity &mdash; the seven awakening factors, "
+             "named in brief succession as this discourse's own "
+             "subject"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase describing sustained "
+             "meditative practice, here said to depend on a prior "
+             "historical condition"),
+        ("navamaṁ", "&ldquo;the ninth&rdquo; &mdash; the Pāli root's "
+             "own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.9:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse make about the seven awakening factors?",
+         "opts": ["They don't arise to be developed except when a Buddha has appeared in the world", "They can be developed by anyone, regardless of historical circumstance", "They arise automatically without any effort", "They were first discovered by a disciple, not the Buddha himself"],
+         "correct": 0,
+         "expl": "A claim about historical rarity and dependency, not about any individual's own personal capacity."},
+        {"q": "What kind of claim is this — about an individual's own ability, or about historical availability?",
+         "opts": ["Historical availability — whether this teaching exists in the world at all", "Personal ability — how quickly one mendicant can develop them compared to another", "A claim about geography — where in the world the teaching can be found", "A claim about age — only the young can develop them"],
+         "correct": 0,
+         "expl": "The discourse addresses whether the path exists to be walked at all, not who can walk it fastest."},
+        {"q": "What discourse does this one deliberately pair with, per this vagga's own closing uddāna?",
+         "opts": ["SN 46.10, making a parallel claim about the Holy One's training", "SN 46.1, returning to the dragon simile", "SN 46.6, the Kuṇḍaliya narrative", "No discourse pairs with this one"],
+         "correct": 0,
+         "expl": "Together, the uddāna counts them as \"the arisen ones, two more,\" closing this vagga as a deliberate pair."},
+    ],
+    marginalia=[
+        ("Not a claim about ability, but about existence", [
+            "the path must first appear in the world —",
+            "before anyone at all can walk it",
+        ]),
+        ("A Buddha's own appearance, the sole condition", [
+            "without it, these seven do not arise —",
+            "however diligent the seeker"
+        ]),
+        ("The first of a deliberate pair", [
+            "a companion claim waits just ahead —",
+            "\"the arisen ones, two more,\" the uddāna says",
+        ]),
+        ("One discourse remains in this vagga", [
+            "closing the Mountains vagga's own ten —",
+            "then this saṃyutta's own peyyāla vaggas begin"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.8.html\">SN 46.8 &middot; With "
+        "Upavāṇa</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.10.html\">SN 46.10 &middot; Arisen "
+        "(2nd)</a> &mdash; the next discourse, closing this vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.10 — Dutiyauppannasutta (vagga close)
+# --------------------------------------------------------------------------- #
+page(
+    46, 10, "Dutiyauppanna", "Arisen (2nd)",
+    vagga="Pabbatavagga",
+    meta_title="SN 46.10 — Arisen (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the second Uppannasutta — the seven awakening factors arise "
+        "only within the Holy One's training, closing the "
+        "Pabbatavagga with its own colophon and uddāna. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.9"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One brief, categorical statement, paired with its "
+                 "own companion just before it"),
+        ("Length", "&lt;1 minute to read, plus a described (not "
+                   "translated) colophon and uddāna"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "closes this vagga's own ten discourses"),
+    ],
+    why=(
+        "The seven awakening factors, this discourse states, "
+        "&ldquo;don't arise to be developed and cultivated apart "
+        "from the Holy One's training&rdquo; &mdash; a companion "
+        "claim to SN 46.9's own, together closing the Pabbatavagga "
+        "with this vagga's own colophon and a closing uddāna listing "
+        "all ten of its discourses by name."
+    ),
+    guide=[
+        ("A companion claim, not a repetition", [
+            "Where SN 46.9 located the awakening factors' own "
+            "dependency in a specific historical moment (a Buddha's "
+            "own appearance), this discourse locates it in an "
+            "institutional and practical context: &ldquo;the Holy "
+            "One's training&rdquo; (sugatavinaya) &mdash; the "
+            "teaching and discipline a Buddha establishes. Together, "
+            "the two discourses claim the awakening factors depend "
+            "both on a Buddha's own historical appearance and on the "
+            "living tradition of practice that appearance makes "
+            "possible.",
+        ]),
+        ("A vagga's own colophon, confirming ten discourses", [
+            "The Pāli root closes with &ldquo;Dasamaṁ&rdquo; "
+            "(&ldquo;the tenth&rdquo;) and &ldquo;Pabbatavaggo "
+            "paṭhamo&rdquo; (&ldquo;the Mountains chapter, the "
+            "first&rdquo;) &mdash; unambiguous this time, unlike the "
+            "internal numbering notes met repeatedly throughout the "
+            "Maggasaṃyutta, since this genuinely is the first vagga "
+            "of this new saṃyutta. The closing uddāna names all ten "
+            "discourses by their own topic in order: the Himalaya, "
+            "the Body, Ethics, Clothes, a Monk, and Kuṇḍaliya; a "
+            "Bungalow and Upavāṇa; and the arisen ones, two more "
+            "&mdash; confirming SN 46.9-10 are traditionally counted "
+            "together as this closing pair.",
+        ]),
+    ],
+    terms=[
+        ("sugatavinayā", "&ldquo;apart from the Holy One's training"
+             "&rdquo; &mdash; the teaching and discipline established "
+             "by a Buddha, this discourse's own named condition for "
+             "the awakening factors' own arising"),
+        ("sugata", "&ldquo;the Holy One&rdquo; or &ldquo;Well-Gone"
+             "&rdquo; &mdash; an epithet for the Buddha, used here to "
+             "name the institutional context of his own teaching"),
+        ("pabbatavaggo paṭhamo", "&ldquo;the Mountains chapter, the "
+             "first&rdquo; &mdash; unambiguous confirmation that this "
+             "is genuinely the first vagga of the Bojjhaṅgasaṃyutta"),
+        ("tassuddānaṁ", "&ldquo;its summary verse&rdquo; &mdash; "
+             "introducing the closing uddāna naming all ten "
+             "discourses of this vagga by topic"),
+        ("uppannā apare dve", "&ldquo;the arisen ones, two more"
+             "&rdquo; &mdash; the uddāna's own way of naming SN "
+             "46.9-10 together as this vagga's own closing pair"),
+    ],
+    text_intro=("The complete discourse, closing the Pabbatavagga. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.10:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What condition does this discourse name for the seven awakening factors' own arising, distinct from SN 46.9's own?",
+         "opts": ["The Holy One's training (sugatavinaya) — the living tradition of practice a Buddha establishes", "A specific geographic location", "A particular time of day for meditation", "Nothing — it repeats SN 46.9 without any distinction"],
+         "correct": 0,
+         "expl": "A companion claim locating dependency in an institutional/practical context, distinct from SN 46.9's own historical claim."},
+        {"q": "What does this vagga's own colophon confirm, unlike the ambiguous internal numbering notes met throughout SN 45?",
+         "opts": ["That this is unambiguously the first vagga of this new saṃyutta (\"Pabbatavaggo paṭhamo\")", "That this vagga's own position is just as ambiguous as those in SN 45", "That this vagga belongs to SN 45, not SN 46", "Nothing — no colophon appears in this discourse"],
+         "correct": 0,
+         "expl": "Since this genuinely is SN 46's own opening vagga, no discrepancy arises here."},
+        {"q": "How does the closing uddāna refer to SN 46.9 and this discourse together?",
+         "opts": ["\"The arisen ones, two more\" — confirming they are traditionally counted as one closing pair", "As two entirely separate and unrelated vaggas", "By omitting them from the uddāna entirely", "As the vagga's own opening pair, not its closing pair"],
+         "correct": 0,
+         "expl": "Confirming the deliberate pairing already suggested by their own parallel content and titles."},
+    ],
+    marginalia=[
+        ("Not a Buddha's appearance alone", [
+            "but the living training that follows —",
+            "the Holy One's own discipline and teaching",
+        ]),
+        ("A colophon without ambiguity, for once", [
+            "\"the Mountains chapter, the first\" —",
+            "no discrepancy to describe honestly this time",
+        ]),
+        ("Ten discourses, named in the closing verse", [
+            "Himalaya, Body, Ethics, Clothes, a Monk —",
+            "Kuṇḍaliya, a Bungalow, Upavāṇa, and the arisen pair",
+        ]),
+        ("This saṃyutta's own peyyāla vaggas begin next", [
+            "eight more full vaggas already behind —",
+            "familiar formulas, a new core teaching throughout"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.9.html\">SN 46.9 &middot; Arisen "
+        "(1st)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṁyutta Nikāya index</a> &mdash; "
+        "the next vagga, on the topic \"Sick,\" is still in "
+        "preparation.",
+    ],
+)
