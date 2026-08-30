@@ -44750,3 +44750,162 @@ page_range(
         "different formula.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.137-146 — Punaappamādavaggo (title-only cross-reference)
+# Confirmed by direct reading to be a sub-section within the still-
+# open Vagga 13 (Punagaṅgāpeyyālavagga, shared with SN 48.125-136),
+# not a standalone vagga of its own -- the root Pāli's own "0.2"
+# field names Vagga 13 for both ranges. This file is the most
+# minimal yet encountered: no worked example, no colophon, no
+# uddāna, only a title ("Punaappamādavagga") and a single
+# cross-reference note pointing to a SPECIFIC one of the four
+# closing-formula variants already embedded within this project's
+# own SN 45.139-148 -- the "removal of greed" version, confirmed by
+# directly reading SN 45.139's own second paragraph (2.5-2.6).
+# --------------------------------------------------------------------------- #
+page_range(
+    48, 137, 146, "Punaappamāda", "Another Chapter on Diligence",
+    vagga="Punagaṅgāpeyyālavagga",
+    meta_title="SN 48.137–146 — Another Chapter on Diligence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 48.137–146 — a title-only sub-section within Vagga 13, "
+        "cross-referencing a specific closing-formula variant "
+        "already met at SN 45.139. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; a title-only cross-reference, "
+                     "the most minimal content this project has met "
+                     "in this saṃyutta"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A section title and a single cross-reference note; "
+                 "no worked example, colophon, or uddāna of its own"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&#9734;&#9734;&#9734; "
+                         "&mdash; confirmed as a sub-section within "
+                         "the still-open Vagga 13, not a standalone "
+                         "vagga, and pointing to one SPECIFIC variant "
+                         "already met at SN 45.139"),
+    ],
+    why=(
+        "This file contains no worked example, no closing colophon, "
+        "and no uddāna of its own &mdash; only a section title, "
+        "&ldquo;Punaappamādavagga&rdquo; (&ldquo;Another Diligence "
+        "Chapter&rdquo;), and the note &ldquo;this text consists of "
+        "the title only; tell in full as in SN 45.139&ndash;148, "
+        "removal of greed version.&rdquo; Confirmed by direct "
+        "reading, this points not merely to the same vagga in "
+        "general but to one SPECIFIC paragraph within it: the "
+        "second of four closing-formula variants already embedded "
+        "in this project's own SN 45.139."
+    ),
+    guide=[
+        ("A sub-section, not a standalone vagga", [
+            "Confirmed by direct reading of the root Pāli's own "
+            "&ldquo;0.2&rdquo; field, this file and SN 48.125-136 "
+            "both belong to the same vagga, &ldquo;13. "
+            "Punagaṅgāpeyyālavagga&rdquo; &mdash; this vagga has not "
+            "yet closed with its own colophon or uddāna, and spans "
+            "at least these two merged files so far, mirroring this "
+            "project's own already-completed SN 45's own "
+            "Dutiyagaṅgāpeyyālavagga (36 discourses across several "
+            "merged sections).",
+        ]),
+        ("A specific variant, not a vague repetition", [
+            "Confirmed by directly re-reading this project's own SN "
+            "45.139: that discourse itself contains four distinct "
+            "closing-formula variants in sequence (&ldquo;relying on "
+            "seclusion...letting go,&rdquo; &ldquo;culminating in the "
+            "removal of greed, hate, and delusion,&rdquo; &ldquo;"
+            "deathless as ground, destination, and final "
+            "goal,&rdquo; and &ldquo;slanting, sloping, inclining "
+            "toward extinguishment&rdquo;) &mdash; this "
+            "cross-reference precisely names the second, matching "
+            "SN 48.125-136's own already-confirmed closing formula "
+            "for this vagga's own river simile.",
+        ]),
+        ("The most minimal content yet, in an already compressed book", [
+            "This project's own observation: unlike SN 48.83-92 and "
+            "SN 48.93-104 (each still keeping a bare instruction "
+            "sentence, a colophon, and an uddāna), this file's own "
+            "content is reduced to a bare title and a single "
+            "cross-reference note, with no colophon or uddāna at all "
+            "&mdash; confirming this book's own compression can "
+            "still deepen further even after three prior instances "
+            "of bare cross-reference.",
+        ]),
+    ],
+    terms=[
+        ("Punaappamādavaggo", "&ldquo;Another Diligence "
+             "Chapter&rdquo; &mdash; this section's own bare title, "
+             "the only Pāli root content given"),
+        ("this text consists of the title only", "the English "
+             "source's own explicit note, confirming no further "
+             "content exists in this file beyond the title and "
+             "cross-reference"),
+        ("removal of greed version", "the specific one of four "
+             "closing-formula variants this cross-reference selects, "
+             "matching SN 45.139's own second paragraph precisely"),
+        ("rāgavinayapariyosānaṁ dosavinayapariyosānaṁ "
+         "mohavinayapariyosānaṁ", "&ldquo;culminating in the removal "
+             "of greed, hate, and delusion&rdquo; &mdash; the exact "
+             "Pāli phrase this cross-reference points to, already "
+             "quoted in full at SN 45.139 and SN 48.125-136"),
+        ("Punagaṅgāpeyyālavaggo", "this section's own governing "
+             "vagga, shared with SN 48.125-136, not yet closed by "
+             "its own colophon at this point in the sequence"),
+    ],
+    text_intro=("The complete content of this file: its own bare "
+        "title and the single cross-reference note. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.137-146:1.1"),
+    ],
+    quiz=[
+        {"q": "What does the root Pāli's own \"0.2\" field confirm about this file's own place in the vagga structure?",
+         "opts": ["It belongs to the same still-open Vagga 13 (Punagaṅgāpeyyālavagga) as SN 48.125-136, not a standalone vagga", "It opens an entirely new, independent vagga", "It closes Vagga 13 with its own colophon", "It has no relationship to any other vagga in this saṃyutta"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a sub-section, not a separate top-level vagga."},
+        {"q": "What specific content does this cross-reference point to, confirmed by re-reading SN 45.139 directly?",
+         "opts": ["The second of four closing-formula variants embedded in that discourse, \"culminating in the removal of greed, hate, and delusion\"", "The entire discourse with no particular variant specified", "A variant this project has never encountered before", "A different saṃyutta entirely, unrelated to the eightfold path"],
+         "correct": 0,
+         "expl": "Confirmed precisely, not vaguely — matching SN 48.125-136's own already-confirmed formula for this vagga."},
+        {"q": "How does this file's own content compare to the three prior bare cross-reference vaggas this project has met?",
+         "opts": ["Even more minimal — no colophon or uddāna at all, only a title and a single cross-reference note", "Identical in every respect to the three prior instances", "Longer, containing the full simile-by-simile content", "It contains a worked example, unlike the three prior instances"],
+         "correct": 0,
+         "expl": "The compression deepens further still, confirming this book's own range of compression levels."},
+    ],
+    marginalia=[
+        ("A sub-section, not its own vagga", [
+            "still Vagga 13, the same river chapter —",
+            "not yet closed by its own colophon"
+        ]),
+        ("One specific variant, precisely named", [
+            "not \"the same as before\" vaguely stated —",
+            "the greed-removal paragraph, exactly"
+        ]),
+        ("Compression deepens once more", [
+            "no colophon, no uddāna this time —",
+            "a title and a single pointing note"
+        ]),
+        ("Diligence, again, elsewhere in full", [
+            "SN 45.139 already holds the content —",
+            "this file only says where to look"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.137-146/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.125-136.html\">SN 48.125&ndash;136 &middot; "
+        "Another on Sloping East, Etc.</a> &mdash; the previous "
+        "page, opening this same still-open vagga.",
+        "<a href=\"sn-45.139.html\">SN 45.139 &middot; The Realized "
+        "One</a> &mdash; this project's own earlier treatment "
+        "containing all four closing-formula variants, including "
+        "the one this cross-reference selects.",
+    ],
+)
