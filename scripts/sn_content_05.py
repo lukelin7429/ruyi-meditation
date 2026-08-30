@@ -38261,3 +38261,144 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.33 — Arahantasutta
+# Confirms the expectation this project's own SN 48.32 noted honestly
+# but declined to assume: a paired arahant discourse follows the
+# stream-enterer discourse, mirroring Vagga 3's own SN 48.26/27 pair,
+# now for the five feeling faculties.
+# --------------------------------------------------------------------------- #
+page(
+    48, 33, "Arahanta", "A Perfected One",
+    vagga="Sukhindriyavagga",
+    meta_title="SN 48.33 — A Perfected One | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Arahantasutta — a mendicant freed by not grasping, "
+        "after truly understanding the five feeling faculties' own "
+        "origin, disappearance, gratification, drawback, and escape, "
+        "is called a perfected one. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single defining statement, the arahant "
+                 "counterpart to the immediately preceding "
+                 "stream-enterer discourse"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; confirms the honest expectation "
+                         "noted at SN 48.32: this vagga repeats the "
+                         "stream-enterer/arahant pairing pattern "
+                         "already met in Vagga 3"),
+    ],
+    why=(
+        "This discourse confirms an expectation this project's own "
+        "SN 48.32 noted honestly but declined to assume in advance: "
+        "a paired arahant discourse follows, mirroring Vagga 3's own "
+        "SN 48.26/27 pair exactly, now defining full arahantship with "
+        "respect to the five feeling faculties &mdash; a mendicant "
+        "freed &ldquo;by not grasping&rdquo; (anupādāvimutto) after "
+        "truly understanding them."
+    ),
+    guide=[
+        ("A confirmed pairing, not merely a guessed one", [
+            "Confirmed by direct reading, this discourse validates "
+            "the honest expectation this project's own SN 48.32 "
+            "stated without assuming: SN 48.32 (stream-enterer) and "
+            "this discourse (arahant) form a direct pair for the "
+            "five feeling faculties, exactly mirroring Vagga 3's own "
+            "SN 48.26/27 pair for the six sense faculties &mdash; "
+            "read fresh from this discourse's own source rather than "
+            "taken for granted in advance.",
+        ]),
+        ("The identical distinguishing phrase and closing formula", [
+            "Confirmed by direct reading, this discourse shares its "
+            "own distinguishing phrase (&ldquo;anupādāvimutto,"
+            "&rdquo; &ldquo;freed by not grasping&rdquo;) and its own "
+            "closing full arahant formula (&ldquo;khīṇāsavo vusitavā "
+            "katakaraṇīyo &hellip; sammadaññāvimutto&rdquo;) with SN "
+            "48.27's own text, word for word &mdash; applied here to "
+            "the five feeling faculties instead of the six sense "
+            "faculties.",
+        ]),
+        ("A structural pattern now confirmed across two vaggas", [
+            "This project's own running observation: the "
+            "stream-enterer/arahant pairing, first met in this "
+            "saṃyutta's own Vagga 1 (SN 48.2-5), then Vagga 3 (SN "
+            "48.26-27), and now Vagga 4 (SN 48.32-33), appears to be "
+            "a structural device this saṃyutta reuses for each new "
+            "faculty category &mdash; though this project will keep "
+            "confirming rather than assuming this for any later "
+            "vagga.",
+        ]),
+    ],
+    terms=[
+        ("Sukhindriyavagga", "&ldquo;the vagga of the pleasure "
+             "faculty&rdquo; &mdash; this discourse continues the "
+             "five feeling faculties named at SN 48.31-32"),
+        ("Sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ, "
+             "domanassindriyaṁ, upekkhindriyaṁ", "the five feeling "
+             "faculties: pleasure, pain, happiness, sadness, and "
+             "equanimity"),
+        ("anupādāvimutto", "&ldquo;freed by not grasping&rdquo; "
+             "&mdash; the phrase distinguishing this discourse's own "
+             "arahant from SN 48.32's own stream-enterer, identical "
+             "to the phrase met at SN 48.27"),
+        ("arahaṁ khīṇāsavo", "&ldquo;a perfected one, with "
+             "defilements ended&rdquo; &mdash; opening the classic "
+             "full arahant formula, word for word the same as SN "
+             "48.27's own"),
+        ("Tatiyaṁ", "&ldquo;the third&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's third "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.33:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse confirm about the expectation noted at SN 48.32?",
+         "opts": ["The stream-enterer/arahant pairing pattern does repeat here, mirroring Vagga 3's own SN 48.26/27 pair", "The pairing pattern does not repeat, and this discourse is unrelated to SN 48.32", "SN 48.32 was mistaken about the five feeling faculties entirely", "This discourse belongs to a different vagga than SN 48.32"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading, not assumed in advance."},
+        {"q": "What phrase, shared word for word with SN 48.27, distinguishes this discourse's arahant from a mere stream-enterer?",
+         "opts": ["\"Anupādāvimutto\" — freed by not grasping", "\"Not liable to be reborn in the underworld\"", "\"Weaker than that\"", "\"Leading to peace, leading to awakening\""], "correct": 0,
+         "expl": "The identical distinguishing phrase this project already met at SN 48.27."},
+        {"q": "How many times has the stream-enterer/arahant pairing pattern now appeared across this saṃyutta, by this project's own count?",
+         "opts": ["Three times: Vagga 1 (SN 48.2-5), Vagga 3 (SN 48.26-27), and now Vagga 4 (SN 48.32-33)", "Only once, in this discourse alone", "It has never appeared before this discourse", "Exactly ten times, once per vagga"],
+         "correct": 0,
+         "expl": "A recurring structural device across multiple vaggas, confirmed rather than assumed each time."},
+    ],
+    marginalia=[
+        ("An expectation, confirmed", [
+            "SN 48.32 hoped, did not assume —",
+            "this discourse proves the pairing real"
+        ]),
+        ("Word for word with SN 48.27", [
+            "freed by not grasping, once again —",
+            "the same formula, a different faculty set"
+        ]),
+        ("A pattern across three vaggas now", [
+            "Vagga 1, Vagga 3, and this one too —",
+            "still confirmed fresh, never assumed"
+        ]),
+        ("Third discourse, Tatiyaṁ", [
+            "brief as its own pair before it —",
+            "this vagga's own survey continues"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.33/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.32.html\">SN 48.32 &middot; A "
+        "Stream-Enterer</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
