@@ -28367,3 +28367,152 @@ page(
         "of the identical opening formula echoed here.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.19 — Sedakasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 19, "Sedaka", "At Sedaka",
+    vagga="Nāḷandavagga",
+    meta_title="SN 47.19 — At Sedaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sedakasutta — a famous parable of a pole acrobat and his "
+        "apprentice Medakathālikā, who corrects her teacher's plan of "
+        "mutual watching with her own insistence on watching herself, "
+        "illustrating how looking after oneself through mindfulness "
+        "meditation and looking after others are inseparable. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The town of Sedaka, in the land of the Sumbhas"),
+        ("Speakers", "The Buddha, recounting a parable involving a "
+                     "pole acrobat and his apprentice Medakathālikā"),
+        ("Form", "A parable, followed by its own direct doctrinal "
+                 "application"),
+        ("Length", "2-3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; a celebrated parable resolving an "
+                         "apparent tension between self-care and "
+                         "care for others"),
+    ],
+    why=(
+        "A pole acrobat proposes to his apprentice Medakathālikā that "
+        "they watch each other while balancing atop a bamboo pole "
+        "&mdash; but she corrects him: each should watch only "
+        "themselves. The Buddha endorses her own answer as correct, "
+        "then resolves the apparent paradox: by developing "
+        "mindfulness meditation to look after oneself, one thereby "
+        "looks after others; and by cultivating patience, "
+        "harmlessness, love, and sympathy toward others, one thereby "
+        "looks after oneself."
+    ),
+    guide=[
+        ("The apprentice corrects the teacher, and the Buddha agrees", [
+            "Confirmed by direct reading, the acrobat's own proposal "
+            "&mdash; mutual watching, &ldquo;guarding and looking "
+            "after each other&rdquo; &mdash; is directly rejected by "
+            "his own apprentice, who insists instead that &ldquo;you "
+            "look after yourself, and I shall look after "
+            "myself.&rdquo; The Buddha's own explicit endorsement "
+            "&mdash; &ldquo;that's the way... it's just as "
+            "Medakathālikā said&rdquo; &mdash; confirms her answer, "
+            "not the teacher's, as correct.",
+        ]),
+        ("A reciprocal claim, stated in both directions", [
+            "The Buddha's own core teaching &mdash; &ldquo;looking "
+            "after yourself, you look after others; and looking "
+            "after others, you look after yourself&rdquo; &mdash; is "
+            "confirmed by direct reading to be stated as a genuine "
+            "two-way relationship, not merely that self-care happens "
+            "to also help others, but that each form of care actually "
+            "constitutes the other.",
+        ]),
+        ("Two distinct mechanisms for the two directions", [
+            "The discourse's own explanation gives two DIFFERENT "
+            "mechanisms for the two directions, confirmed by direct "
+            "reading: looking after others by looking after yourself "
+            "happens &ldquo;by development, cultivation, and practice "
+            "of meditation&rdquo;; looking after yourself by looking "
+            "after others happens &ldquo;by acceptance, harmlessness, "
+            "love, and sympathy&rdquo; &mdash; two distinct paths, not "
+            "one mechanism applied twice.",
+        ]),
+    ],
+    terms=[
+        ("caṇḍālavaṁsika", "&ldquo;pole acrobat of the "
+             "corpse-workers&rdquo; &mdash; the performer whose "
+             "proposal to his apprentice opens this discourse's own "
+             "parable"),
+        ("attānaṁ rakkha... ahaṁ attānaṁ rakkhissāmi", "&ldquo;you "
+             "look after yourself, and I shall look after "
+             "myself&rdquo; &mdash; Medakathālikā's own correction, "
+             "endorsed by the Buddha as correct"),
+        ("attānaṁ rakkhanto paraṁ rakkhati, paraṁ rakkhanto attānaṁ "
+             "rakkhati", "&ldquo;looking after yourself, you look "
+             "after others; and looking after others, you look after "
+             "yourself&rdquo; &mdash; the discourse's own reciprocal "
+             "core teaching"),
+        ("āsevanāya, bhāvanāya, bahulīkammena", "&ldquo;by "
+             "development, cultivation, and practice&rdquo; &mdash; "
+             "the mechanism by which looking after oneself looks "
+             "after others"),
+        ("khantiyā, avihiṁsāya, mettacittatāya, anudayatāya",
+             "&ldquo;by acceptance, harmlessness, love, and "
+             "sympathy&rdquo; &mdash; the mechanism by which looking "
+             "after others looks after oneself"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the pole acrobat and Medakathālikā",
+             "sn47.19:1.1-1.12"),
+        ("p", "&sect;2 &mdash; the Buddha's own endorsement",
+             "sn47.19:2.1-2.4"),
+        ("p", "&sect;3 &mdash; two mechanisms for a reciprocal "
+              "teaching", "sn47.19:3.1-3.9"),
+    ],
+    quiz=[
+        {"q": "Whose proposal does the Buddha endorse as correct: the acrobat's or his apprentice Medakathālikā's?",
+         "opts": ["Medakathālikā's own answer — that each should look after themselves, not watch each other", "The acrobat's own proposal of mutual watching", "Neither — the Buddha rejects both", "The Buddha does not take a side"],
+         "correct": 0,
+         "expl": "Confirmed by the Buddha's own explicit statement, \"that's the way... it's just as Medakathālikā said.\""},
+        {"q": "How does the discourse resolve the apparent tension between looking after oneself and looking after others?",
+         "opts": ["By stating both directions as a genuine two-way relationship: looking after yourself looks after others, and vice versa", "By declaring that only looking after oneself matters", "By declaring that only looking after others matters", "By avoiding the question entirely"],
+         "correct": 0,
+         "expl": "Each form of care is presented as actually constituting the other, not merely producing it as a side effect."},
+        {"q": "What TWO DIFFERENT mechanisms does the discourse give for the two directions of this reciprocal teaching?",
+         "opts": ["Development/cultivation/practice of meditation for looking after others via oneself; acceptance/harmlessness/love/sympathy for looking after oneself via others", "The identical mechanism applied twice in both directions", "No mechanism is given for either direction", "Only meditation is named, with no second mechanism"],
+         "correct": 0,
+         "expl": "Two distinct paths, confirmed by direct reading, not one mechanism repeated."},
+    ],
+    marginalia=[
+        ("The apprentice corrects the teacher", [
+            "\"you look after yourself, I'll look after myself\" —",
+            "endorsed by the Buddha as the right answer"
+        ]),
+        ("A paradox, stated and resolved", [
+            "self-care and care for others, both ways at once —",
+            "not a side effect but a genuine reciprocity"
+        ]),
+        ("Two paths, not one mechanism twice", [
+            "meditation looks after others through oneself —",
+            "kindness looks after oneself through others"
+        ]),
+        ("A famous parable of balance", [
+            "a bamboo pole, an acrobat, an apprentice —",
+            "illustrating a genuinely reciprocal teaching"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.19/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.18.html\">SN 47.18 &middot; Divinity</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
