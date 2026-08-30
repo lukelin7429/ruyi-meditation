@@ -33883,3 +33883,135 @@ page(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.2 — Paṭhamasotāpannasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 2, "Paṭhamasotāpanna", "A Stream-Enterer (1st)",
+    vagga="Suddhikavagga",
+    meta_title="SN 48.2 — A Stream-Enterer (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasotāpannasutta — defining a stream-enterer as one "
+        "who truly understands the five faculties' own gratification, "
+        "drawback, and escape. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The five faculties restated, then a single "
+                 "condition defining the stream-enterer"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; the title's own \"(1st)\" marker "
+                         "signals a second, parallel discourse still "
+                         "ahead in this vagga"),
+    ],
+    why=(
+        "This discourse restates the same five faculties named at SN "
+        "48.1, then adds a single further condition: a noble "
+        "disciple who truly understands these five faculties' own "
+        "gratification (assāda), drawback (ādīnava), and escape "
+        "(nissaraṇa) is called a stream-enterer &mdash; the first of "
+        "the four stages of awakening &mdash; not liable to be "
+        "reborn in the underworld, assured, destined for awakening."
+    ),
+    guide=[
+        ("The threefold analytical lens applied to the faculties", [
+            "Confirmed by direct reading, the discourse's own "
+            "condition for stream-entry is understanding the five "
+            "faculties through THREE angles at once: their own "
+            "gratification (what is enjoyable about them), their "
+            "own drawback (what is problematic about them), and "
+            "their own escape (how to be free of clinging to them) "
+            "&mdash; a threefold lens this project has met applied "
+            "to other objects elsewhere in the canon.",
+        ]),
+        ("A named stage of awakening, not a vague description", [
+            "The discourse's own closing formula &mdash; &ldquo;"
+            "sotāpanno avinipātadhammo niyato sambodhiparāyaṇo&rdquo; "
+            "(&ldquo;a stream-enterer, not liable to be reborn in "
+            "the underworld, assured, destined for awakening&rdquo;) "
+            "&mdash; is confirmed by direct reading to be the "
+            "canon's own standard closing formula for stream-entry, "
+            "the first of the four stages, applied here specifically "
+            "to understanding the five faculties.",
+        ]),
+        ("\"(1st)\" -- signaling a companion discourse still ahead", [
+            "This discourse's own title, &ldquo;Paṭhamasotāpanna-"
+            "sutta&rdquo; (&ldquo;A Stream-Enterer, First "
+            "Version&rdquo;), is confirmed by direct reading to "
+            "signal a second, parallel discourse elsewhere in this "
+            "vagga &mdash; this project will confirm its own exact "
+            "content when it is reached, rather than assuming its "
+            "shape in advance.",
+        ]),
+    ],
+    terms=[
+        ("assāda", "&ldquo;gratification&rdquo; &mdash; the first "
+             "of the threefold lens, what is enjoyable about the "
+             "five faculties"),
+        ("ādīnava", "&ldquo;drawback&rdquo; &mdash; the second angle "
+             "of the threefold lens, what is problematic about the "
+             "five faculties"),
+        ("nissaraṇa", "&ldquo;escape&rdquo; &mdash; the third angle, "
+             "how to be free of clinging to the five faculties"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyaṇo",
+             "&ldquo;a stream-enterer, not liable to be reborn in "
+             "the underworld, assured, destined for "
+             "awakening&rdquo; &mdash; the canon's own standard "
+             "closing formula for the first stage of awakening"),
+        ("ariyasāvako", "&ldquo;noble disciple&rdquo; &mdash; the "
+             "discourse's own subject, the one who comes to "
+             "understand the five faculties in this threefold way"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.2:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What threefold lens does this discourse apply to the five faculties?",
+         "opts": ["Gratification, drawback, and escape", "Past, present, and future", "Body, speech, and mind", "Beginning, middle, and end"],
+         "correct": 0,
+         "expl": "A threefold analytical lens this project has met applied to other objects elsewhere in the canon."},
+        {"q": "What stage of awakening does this discourse's own closing formula name?",
+         "opts": ["Stream-entry, the first of the four stages", "Full arahantship, the fourth and final stage", "Non-return, the third stage", "No specific stage is named"],
+         "correct": 0,
+         "expl": "The canon's own standard closing formula for stream-entry, applied here to understanding the five faculties."},
+        {"q": "What does the \"(1st)\" in this discourse's own title signal?",
+         "opts": ["A second, parallel discourse elsewhere in this vagga, its content to be confirmed when reached", "That this is the first discourse of the entire saṃyutta", "A numbering error with no real significance", "That the discourse has two separate parts within itself"],
+         "correct": 0,
+         "expl": "This project will confirm the companion discourse's own exact content when it is reached, not assume its shape in advance."},
+    ],
+    marginalia=[
+        ("A threefold lens on the five faculties", [
+            "gratification, drawback, escape —",
+            "understanding all three, truly"
+        ]),
+        ("A named stage, not a vague result", [
+            "sotāpanna — stream-entry itself —",
+            "assured, destined for awakening"
+        ]),
+        ("\"First version\" — a companion still ahead", [
+            "Paṭhama signals a second discourse —",
+            "content confirmed only when reached"
+        ]),
+        ("Second discourse, Dutiyaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "many more discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.1.html\">SN 48.1 &middot; Plain Version</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
