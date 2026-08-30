@@ -31325,3 +31325,153 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.40 — Vibhaṅgasutta
+# Closes 4. Ananussutavagga (SN 47.31-40), with its own colophon and
+# uddāna naming all ten discourses of the vagga.
+# --------------------------------------------------------------------------- #
+page(
+    47, 40, "Vibhaṅga", "Analysis",
+    vagga="Ananussutavagga",
+    meta_title="SN 47.40 — Analysis | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vibhaṅgasutta — a threefold analysis distinguishing "
+        "mindfulness meditation itself, its own development as "
+        "observing arising and passing away, and the noble eightfold "
+        "path as the practice leading to that development. Closes "
+        "the fourth vagga, Ananussutavagga. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A formal \"I will teach you\" announcement "
+                 "followed by a threefold analysis, each part posed "
+                 "as a question and answered in turn"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes the vagga, and refines what "
+                         "&ldquo;development&rdquo; itself means "
+                         "beyond SN 47.39's own simpler definition"),
+    ],
+    why=(
+        "This discourse closes the fourth vagga (Ananussutavagga, "
+        "SN 47.31-40) by distinguishing THREE separate things that "
+        "the surrounding discourses have sometimes treated as one: "
+        "mindfulness meditation itself, the DEVELOPMENT of "
+        "mindfulness meditation (here defined more specifically than "
+        "SN 47.39's own definition, as observing an object's own "
+        "arising and passing away), and the noble eightfold path as "
+        "the PRACTICE that leads to that development."
+    ),
+    guide=[
+        ("Three terms, carefully distinguished", [
+            "Confirmed by direct reading, this discourse separates "
+            "&ldquo;satipaṭṭhāna&rdquo; (mindfulness meditation "
+            "itself), &ldquo;satipaṭṭhānabhāvanā&rdquo; (the "
+            "development of mindfulness meditation), and "
+            "&ldquo;satipaṭṭhānabhāvanāgāminī paṭipadā&rdquo; (the "
+            "practice leading to that development) as THREE distinct "
+            "terms, each given its own separate definition rather "
+            "than being treated as synonyms.",
+        ]),
+        ("A sharper definition of \"development\" than SN 47.39's own", [
+            "This project's own honest comparison confirms a genuine "
+            "difference: SN 47.39 defined &ldquo;development&rdquo; "
+            "as simply carrying out the plain fourfold observation, "
+            "while THIS discourse defines it more specifically as "
+            "observing each object's own liability to &ldquo;"
+            "originate, vanish, and originate and vanish&rdquo; "
+            "&mdash; explicitly attending to IMPERMANENCE, a more "
+            "refined description than the plainer one just before "
+            "it in this same vagga.",
+        ]),
+        ("The eightfold path as the road TO development, not the development itself", [
+            "Confirmed by direct reading, this discourse names the "
+            "noble eightfold path as the &ldquo;practice that leads "
+            "to the development of mindfulness meditation&rdquo; "
+            "&mdash; a third, still further term, positioning the "
+            "eightfold path as the BROADER framework within which "
+            "mindfulness meditation's own development takes place, "
+            "rather than identifying the two directly.",
+        ]),
+    ],
+    terms=[
+        ("satipaṭṭhāna", "&ldquo;mindfulness meditation&rdquo; "
+             "itself &mdash; the plain fourfold observation of body, "
+             "feelings, mind, and principles"),
+        ("satipaṭṭhānabhāvanā", "&ldquo;the development of "
+             "mindfulness meditation&rdquo; &mdash; defined here as "
+             "observing each object's own arising, passing away, and "
+             "arising-and-passing-away together"),
+        ("samudayadhammānupassī... vayadhammānupassī... "
+             "samudayavayadhammānupassī", "&ldquo;observing the "
+             "liability to originate... to vanish... to originate "
+             "and vanish&rdquo; &mdash; the threefold impermanence-"
+             "observation defining &ldquo;development&rdquo; in this "
+             "discourse"),
+        ("satipaṭṭhānabhāvanāgāminī paṭipadā", "&ldquo;the practice "
+             "leading to the development of mindfulness "
+             "meditation&rdquo; &mdash; identified here with the "
+             "noble eightfold path itself"),
+        ("ariyo aṭṭhaṅgiko maggo", "&ldquo;the noble eightfold "
+             "path&rdquo; &mdash; right view, purpose, speech, "
+             "action, livelihood, effort, mindfulness, and "
+             "immersion, named as the road to the development of "
+             "mindfulness meditation"),
+    ],
+    text_intro=("The complete discourse, followed by the colophon "
+        "closing the vagga and its own summary verse. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; what is mindfulness meditation?", "sn47.40:1.1-1.8"),
+        ("p", "&sect;2 &mdash; what is its development?", "sn47.40:2.1-2.6"),
+        ("p", "&sect;3 &mdash; what is the practice leading to it?", "sn47.40:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What three things does this discourse distinguish, rather than treating as synonyms?",
+         "opts": ["Mindfulness meditation itself, its own development, and the practice leading to that development", "The four kinds of mindfulness meditation individually", "Three different named teachers of the practice", "Three separate locations where the Buddha taught"],
+         "correct": 0,
+         "expl": "Each given its own separate definition in this discourse's own threefold analysis."},
+        {"q": "How does this discourse's own definition of \"development\" compare to SN 47.39's own definition?",
+         "opts": ["Sharper and more specific — observing an object's own arising and passing away, not just carrying out the practice", "Identical in every respect", "This discourse gives no definition of development at all", "Simpler than SN 47.39's own definition"],
+         "correct": 0,
+         "expl": "A genuine difference this project's own honest comparison confirms — explicitly attending to impermanence."},
+        {"q": "What does this discourse identify as \"the practice that leads to the development of mindfulness meditation\"?",
+         "opts": ["The noble eightfold path", "A separate meditation technique not otherwise named in the canon", "Study of the Abhidhamma texts", "Ordination as a monk or nun"],
+         "correct": 0,
+         "expl": "Positioning the eightfold path as the broader framework within which the development takes place."},
+    ],
+    marginalia=[
+        ("Three terms, not one", [
+            "the practice, its development, the road to that development —",
+            "each given its own separate definition"
+        ]),
+        ("A sharper \"development\" than SN 47.39's own", [
+            "not just the plain practice, but watching impermanence —",
+            "arising, passing away, both together"
+        ]),
+        ("The eightfold path — the road TO development", [
+            "not identified with development itself —",
+            "the broader framework containing it"
+        ]),
+        ("The vagga's own close, and its uddāna", [
+            "ten discourses named in one summary verse —",
+            "Ananussutavagga complete, SN 47.31 through 47.40"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.40/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.39.html\">SN 47.39 &middot; Development</a> "
+        "&mdash; the previous discourse, whose own simpler "
+        "definition this discourse refines.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own remaining discourses (SN "
+        "47.41-50) are still in preparation.",
+    ],
+)
