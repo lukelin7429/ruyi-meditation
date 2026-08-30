@@ -36955,3 +36955,147 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.24 — Ekabījīsutta
+# Returns to the standard five spiritual faculties, and reuses
+# "mudutarehi" (weaker) from Mudutaravagga's own central term — but
+# extends the graduated scale far past SN 48.12-14's own six levels,
+# down through the full classic hierarchy of noble persons to
+# saddhānusārī, "follower by faith."
+# --------------------------------------------------------------------------- #
+page(
+    48, 24, "Ekabījī", "A One-Seeder",
+    vagga="Chaḷindriyavagga",
+    meta_title="SN 48.24 — A One-Seeder | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ekabījīsutta — the standard five spiritual faculties, "
+        "graduated by degree through the full classic hierarchy of "
+        "noble persons, from the arahant down to the follower by "
+        "faith. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single long graduated list, naming eleven "
+                 "successive types of person by degree of the five "
+                 "faculties"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; reuses &ldquo;mudutarehi&rdquo; "
+                         "(weaker), the very term central to "
+                         "Mudutaravagga (SN 48.11-20), but extends "
+                         "the graduated scale far past that vagga's "
+                         "own six levels"),
+    ],
+    why=(
+        "This discourse returns to the standard five spiritual "
+        "faculties and reuses the word &ldquo;mudutarehi&rdquo; "
+        "(weaker) &mdash; the very term this project's own "
+        "Mudutaravagga (SN 48.11-20) built its whole vagga around "
+        "&mdash; but extends the graduated scale far beyond that "
+        "vagga's own six levels, continuing down through the full "
+        "classic hierarchy of noble persons: once-returner, "
+        "one-seeder, family-to-family, seven-times-at-most, follower "
+        "of teachings, and follower by faith."
+    ),
+    guide=[
+        ("A direct echo of Mudutaravagga's own central term", [
+            "Confirmed by direct reading, this discourse's own "
+            "graduated scale uses the identical word "
+            "&ldquo;mudutarehi&rdquo; (&ldquo;weaker than "
+            "that&rdquo;) that this project's own SN 48.12-14 built "
+            "an entire vagga's name around &mdash; a genuine "
+            "cross-vagga echo, not a claim this project asserts "
+            "beyond what both discourses' own text plainly shares.",
+        ]),
+        ("A far longer scale than SN 48.12-14's own six levels", [
+            "Confirmed by direct comparison, SN 48.12-14 (this "
+            "project's own earlier work) graduated the five "
+            "faculties across six levels, ending at the five "
+            "non-returner sub-types. This discourse continues far "
+            "past that point, through the once-returner, "
+            "one-seeder, family-to-family, seven-times-at-most "
+            "(stream-enterer proper), follower of teachings, and "
+            "follower by faith &mdash; the full classic hierarchy of "
+            "noble persons in a single unbroken graduated list.",
+        ]),
+        ("A title drawn from the middle of the scale, not either extreme", [
+            "This project's own honest observation: this "
+            "discourse's own title, Ekabījī (&ldquo;one-seeder&rdquo;), "
+            "names neither the highest attainment (arahant) nor the "
+            "lowest (follower by faith) in its own list, but a "
+            "specific stream-enterer sub-type partway down &mdash; "
+            "this project declines to guess why that particular "
+            "term was chosen as the discourse's own name.",
+        ]),
+    ],
+    terms=[
+        ("Chaḷindriyavagga", "&ldquo;the vagga of the six "
+             "faculties&rdquo; &mdash; this discourse returns to the "
+             "standard five spiritual faculties, unlike SN 48.22-23's "
+             "own distinct categories"),
+        ("mudutarehi", "&ldquo;weaker than that&rdquo; &mdash; the "
+             "same graduating term central to Mudutaravagga "
+             "(SN 48.11-20), reused here to extend the scale much "
+             "further"),
+        ("arahaṁ", "&ldquo;a perfected one&rdquo; &mdash; the "
+             "highest attainment named, at the top of this "
+             "discourse's own scale"),
+        ("ekabījī", "&ldquo;one-seeder&rdquo; &mdash; a specific "
+             "stream-enterer sub-type partway down the scale, giving "
+             "this discourse its own title"),
+        ("saddhānusārī", "&ldquo;follower by faith&rdquo; &mdash; "
+             "the lowest type named, closing this discourse's own "
+             "scale"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.24:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse share with Mudutaravagga's own vagga name?",
+         "opts": ["\"Mudutarehi\" (weaker than that) — the same graduating term", "\"Sampanna\" (endowed)", "\"Paṭilābha\" (gain)", "\"Āsavakkhaya\" (ending of defilements)"],
+         "correct": 0,
+         "expl": "A direct cross-vagga echo, confirmed by direct comparison."},
+        {"q": "How does this discourse's own scale compare to SN 48.12-14's own six levels?",
+         "opts": ["It extends much further, through the full classic hierarchy down to \"follower by faith\"", "It is identical, ending at the same five non-returner sub-types", "It is shorter, ending at the arahant alone", "It replaces the five faculties with three faculties instead"],
+         "correct": 0,
+         "expl": "A far longer graduated list than this project's own earlier Mudutaravagga work."},
+        {"q": "Which type of person gives this discourse its own title?",
+         "opts": ["Ekabījī (\"one-seeder\"), a specific stream-enterer sub-type partway down the scale", "Arahaṁ, the highest attainment named", "Saddhānusārī, the lowest type named", "Sakadāgāmī, the once-returner"],
+         "correct": 0,
+         "expl": "Neither extreme of the scale — this project declines to guess why."},
+    ],
+    marginalia=[
+        ("Weaker, and weaker still", [
+            "mudutarehi — the same word as before —",
+            "now stretched far past six levels"
+        ]),
+        ("From arahant to follower by faith", [
+            "eleven types in a single unbroken scale —",
+            "the full hierarchy, named in one breath"
+        ]),
+        ("A title from the middle", [
+            "not the peak, not the base —",
+            "one-seeder gives this sutta its name"
+        ]),
+        ("Fourth discourse, Catutthaṁ", [
+            "brief closing marker, much said before it —",
+            "this vagga's own survey continues"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.24/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.23.html\">SN 48.23 &middot; The Faculty of "
+        "Enlightenment</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
