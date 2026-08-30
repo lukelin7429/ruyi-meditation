@@ -40948,3 +40948,147 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.51 — Sālasutta
+# Opens 6. Sūkarakhatavagga ("The Boar's Cave") — a name not yet
+# explained by this opening discourse's own content or setting
+# (Sālā); this project declines to guess and will confirm when a
+# later discourse's own text accounts for it. Uses the vivid simile
+# of the lion, king of beasts, to elevate wisdom as "the best" of the
+# qualities on the side of awakening (bodhipakkhiyā dhammā), directly
+# extending this project's own SN 48.45 (wisdom alone suffices).
+# --------------------------------------------------------------------------- #
+page(
+    48, 51, "Sāla", "At Sālā",
+    vagga="Sūkarakhatavagga",
+    meta_title="SN 48.51 — At Sālā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sālasutta, opening the Sūkarakhatavagga — the lion, "
+        "king of beasts, likened to the faculty of wisdom, the best "
+        "of the qualities on the side of awakening. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "The land of the Kosalans, near the brahmin "
+                     "village of Sālā"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A vivid simile, applied to the five faculties as "
+                 "the qualities on the side of awakening"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; opens a new vagga with the memorable "
+                         "lion simile, and directly extends this "
+                         "project's own SN 48.45 (wisdom alone "
+                         "suffices) with a vivid new image"),
+    ],
+    why=(
+        "This discourse opens Sūkarakhatavagga (&ldquo;The Boar's "
+        "Cave&rdquo;) &mdash; a name this opening discourse's own "
+        "content does not yet explain &mdash; with the vivid simile "
+        "of the lion, king of beasts, best among animals for "
+        "strength, speed, and courage: in the same way, the faculty "
+        "of wisdom is said to be the best of the &ldquo;qualities on "
+        "the side of awakening&rdquo; (bodhipakkhiyā dhammā), "
+        "directly extending this project's own SN 48.45."
+    ),
+    guide=[
+        ("A vagga name not yet explained", [
+            "This project's own honest observation: this opening "
+            "discourse's own setting (the brahmin village of Sālā) "
+            "gives no indication of why this vagga is named "
+            "&ldquo;Sūkarakhatavagga&rdquo; (&ldquo;the vagga of the "
+            "boar's cave&rdquo;). This project declines to guess at "
+            "a reason and will confirm it only when a later "
+            "discourse's own text accounts for the name directly.",
+        ]),
+        ("The lion simile: wisdom as the best of the awakening-factors", [
+            "Confirmed by direct reading, this discourse applies a "
+            "vivid new image not yet met in this saṃyutta: just as "
+            "the lion is best among animals for strength, speed, and "
+            "courage, the faculty of wisdom is best among the "
+            "&ldquo;qualities on the side of awakening&rdquo; "
+            "(bodhipakkhiyā dhammā) &mdash; here identified "
+            "specifically with the five spiritual faculties (faith, "
+            "energy, mindfulness, immersion, wisdom).",
+        ]),
+        ("Extending, not merely repeating, SN 48.45's own claim", [
+            "This project's own direct comparison: this discourse "
+            "elevates wisdom in a way that echoes but genuinely "
+            "extends SN 48.45's own claim that wisdom alone suffices "
+            "for enlightenment &mdash; here wisdom is not stated as "
+            "sufficient on its own, but as the BEST among all five "
+            "faculties taken together, framed through the broader "
+            "canonical category of bodhipakkhiyā dhammā rather than "
+            "the five faculties in isolation.",
+        ]),
+    ],
+    terms=[
+        ("Sūkarakhatavagga", "&ldquo;the vagga of the boar's "
+             "cave&rdquo; &mdash; this vagga's own new name, not yet "
+             "explained by this opening discourse"),
+        ("sīho migarājā", "&ldquo;the lion, king of beasts&rdquo; "
+             "&mdash; the simile's own central image, best among "
+             "animals for strength, speed, and courage"),
+        ("bodhipakkhiyā dhammā", "&ldquo;the qualities on the side "
+             "of awakening&rdquo; &mdash; the broader canonical "
+             "category the five faculties are framed within here"),
+        ("aggamakkhāyati", "&ldquo;is said to be the best&rdquo; "
+             "&mdash; the term applied both to the lion among "
+             "animals and to wisdom among the awakening-factors"),
+        ("Paṭhamaṁ", "&ldquo;the first&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's first "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the lion simile", "sn48.51:1.1-1.5"),
+        ("p", "&sect;2 &mdash; the five faculties named as "
+              "qualities on the side of awakening", "sn48.51:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own lion simile illustrate?",
+         "opts": ["The faculty of wisdom is the best of the qualities on the side of awakening, just as the lion is best among animals", "That mendicants should meditate near lions specifically", "That wisdom is inferior to the other four faculties", "That animals possess spiritual faculties just as humans do"],
+         "correct": 0,
+         "expl": "A vivid new image, not yet met elsewhere in this saṃyutta."},
+        {"q": "How does this discourse relate to this project's own SN 48.45?",
+         "opts": ["It extends SN 48.45's own claim, framing wisdom as \"the best\" among all five faculties rather than sufficient alone", "It directly contradicts SN 48.45's own claim about wisdom", "It has no relationship to SN 48.45 at all", "It denies that wisdom is a faculty at all"],
+         "correct": 0,
+         "expl": "A genuine extension using a broader canonical category and a new image."},
+        {"q": "What does this project's own reading guide say about this vagga's own name?",
+         "opts": ["It is not yet explained by this opening discourse, and this project declines to guess at its meaning in advance", "It refers directly to the setting of this first discourse, Sālā", "It has already been fully explained and confirmed", "It is a mistranslation this project has corrected"],
+         "correct": 0,
+         "expl": "Consistent with this project's own established practice of confirming rather than assuming."},
+    ],
+    marginalia=[
+        ("A new vagga, an unexplained name", [
+            "the boar's cave — not yet accounted for —",
+            "read fresh, not guessed at"
+        ]),
+        ("The lion, king of beasts", [
+            "strength, speed, and courage, unmatched —",
+            "a new image for wisdom's own place"
+        ]),
+        ("Best among the awakening-factors", [
+            "not sufficient alone this time, but foremost —",
+            "extending, not repeating, SN 48.45's own claim"
+        ]),
+        ("First discourse, Paṭhamaṁ", [
+            "brief as this saṃyutta's own earlier openings —",
+            "more of this new vagga still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.51/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.50.html\">SN 48.50 &middot; At Āpaṇa</a> "
+        "&mdash; the previous discourse, closing Jarāvagga.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
