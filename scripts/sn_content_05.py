@@ -42261,3 +42261,156 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.60 — Dutiyauppādasutta
+# Closes 6. Sūkarakhatavagga (SN 48.51-60), with its own colophon and
+# uddāna naming all ten discourses of the vagga. Confirmed by direct
+# reading: the uddāna's own "uppādā apare duve" ("and the two further
+# 'arising' [discourses]") explicitly bundles SN 48.59-60 as a pair,
+# matching this project's own tracked sequence exactly — the sixth
+# consecutive vagga in this saṃyutta confirmed at exactly ten
+# discourses. This discourse is a companion claim to SN 48.59: not
+# the Buddha's own appearance, but his training system itself
+# (sugatavinaya) as the necessary condition for the five faculties'
+# own arising.
+# --------------------------------------------------------------------------- #
+page(
+    48, 60, "Dutiyauppāda", "Arising (2nd)",
+    vagga="Sūkarakhatavagga",
+    meta_title="SN 48.60 — Arising (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyauppādasutta, closing Sūkarakhatavagga — the five "
+        "faculties cannot arise to be developed apart from the Holy "
+        "One's own training. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this vagga's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single exclusivity claim, closing this vagga "
+                 "with its own colophon and uddāna"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes Sūkarakhatavagga, confirmed "
+                         "exactly by its own uddāna, the sixth "
+                         "consecutive vagga in this saṃyutta found "
+                         "to hold exactly ten discourses"),
+    ],
+    why=(
+        "This discourse closes Sūkarakhatavagga with a companion "
+        "claim to SN 48.59: rather than the Buddha's own appearance "
+        "in the world, this discourse names the Buddha's own "
+        "TRAINING (sugatavinaya) as the necessary condition without "
+        "which the five faculties cannot arise to be developed and "
+        "cultivated &mdash; together naming two distinct, "
+        "complementary conditions for the five faculties' own "
+        "arising in the world."
+    ),
+    guide=[
+        ("The vagga's own closing colophon and uddāna, confirmed exactly", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing colophon &mdash; &ldquo;Sūkarakhatavaggo "
+            "chaṭṭho&rdquo; (&ldquo;Sūkarakhatavagga, the sixth "
+            "[vagga of this saṃyutta], is finished&rdquo;) &mdash; "
+            "and its own uddāna verse account for all ten discourses "
+            "this project has translated: &ldquo;uppādā apare "
+            "duve&rdquo; (&ldquo;and the two further 'arising' "
+            "[discourses]&rdquo;) explicitly bundles SN 48.59-60 as "
+            "a pair, exactly matching this project's own tracked "
+            "sequence.",
+        ]),
+        ("A companion condition to SN 48.59's own claim", [
+            "Confirmed by direct comparison, this discourse's own "
+            "structure mirrors SN 48.59 exactly, but names a "
+            "different necessary condition: not &ldquo;nāññatra "
+            "tathāgatassa pātubhāvā&rdquo; (&ldquo;except from a "
+            "Realized One's own appearance&rdquo;), but &ldquo;"
+            "nāññatra sugatavinayā&rdquo; (&ldquo;except from the "
+            "Holy One's own training&rdquo;) &mdash; the Buddha's "
+            "own appearance and his own teaching system named as "
+            "two distinct, complementary requirements.",
+        ]),
+        ("A sixth vagga, confirmed at exactly ten discourses", [
+            "This project's own running observation: with this "
+            "discourse's own colophon and uddāna confirmed, every "
+            "vagga this project has translated in this saṃyutta "
+            "&mdash; Chaḷindriyavagga, Sukhindriyavagga, Jarāvagga, "
+            "and now Sūkarakhatavagga, alongside the two earlier "
+            "vaggas already completed &mdash; has held to exactly "
+            "ten discourses, despite each vagga's own genuinely "
+            "different internal structure (bundled discourses, "
+            "expanded discourses, similes, narrative scenes).",
+        ]),
+    ],
+    terms=[
+        ("Sūkarakhatavaggo chaṭṭho", "&ldquo;the sixth vagga, "
+             "Sūkarakhatavagga, is finished&rdquo; &mdash; the Pāli "
+             "root's own closing colophon"),
+        ("sugatavinayā", "&ldquo;the Holy One's own training"
+             "&rdquo; &mdash; the necessary condition named here, "
+             "distinct from SN 48.59's own &ldquo;tathāgatassa "
+             "pātubhāvā&rdquo;"),
+        ("anuppannāni uppajjanti", "&ldquo;arise, having not "
+             "arisen before&rdquo; &mdash; the same phrase met at "
+             "SN 48.59, now conditioned on the training rather than "
+             "the appearance"),
+        ("Dasamaṁ", "&ldquo;the tenth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's tenth "
+             "discourse"),
+        ("Sālaṁ mallikaṁ sekho ca, padaṁ sāraṁ patiṭṭhitaṁ; "
+             "Brahmasūkarakhatāyo, uppādā apare duveti", "the closing "
+             "uddāna, confirmed to match this project's own SN "
+             "48.51-60 exactly, item for item"),
+    ],
+    text_intro=("The complete discourse. This vagga's own closing "
+        "colophon and uddāna are described, not translated, above. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.60:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own uddāna confirm?",
+         "opts": ["This project's own tracking of all ten discourses in this vagga, explicitly bundling SN 48.59-60 as \"the two further arising discourses\"", "That this vagga actually contains only five discourses", "That a new saṃyutta begins immediately afterward", "Nothing; the uddāna is left entirely untranslated"],
+         "correct": 0,
+         "expl": "Matching this project's own tracked sequence exactly, item for item."},
+        {"q": "What necessary condition does this discourse name, distinct from SN 48.59's own claim?",
+         "opts": ["The Holy One's own training (sugatavinaya), rather than the Buddha's own appearance in the world", "That the five faculties require no condition at all to arise", "A sixth faculty not named in any earlier discourse", "That only arahants can develop the five faculties"],
+         "correct": 0,
+         "expl": "Two distinct, complementary conditions — the Buddha's own appearance and his own teaching system."},
+        {"q": "What does this project's own tally confirm about every vagga translated in this saṃyutta so far?",
+         "opts": ["Each vagga has held to exactly ten discourses, despite genuinely different internal structures", "Every vagga has exactly five discourses", "Only this vagga has ten discourses; all others vary", "No consistent pattern has been found across any vagga"],
+         "correct": 0,
+         "expl": "A consistent structural pattern confirmed vagga by vagga, never assumed in advance."},
+    ],
+    marginalia=[
+        ("Two conditions, one vagga's own close", [
+            "not the Buddha's own appearance this time —",
+            "but his training, equally necessary"
+        ]),
+        ("Ten discourses, confirmed again", [
+            "the sixth vagga, the sixth time exactly ten —",
+            "a pattern held, never assumed"
+        ]),
+        ("The uddāna's own final bundling", [
+            "\"the two further arising\" — 59 and 60 —",
+            "this project's own sequence, matched"
+        ]),
+        ("Tenth discourse, vagga complete", [
+            "Sūkarakhatavaggo chaṭṭho — the sixth vagga finished —",
+            "SN 48.61 onward still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.60/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.59.html\">SN 48.59 &middot; Arising "
+        "(1st)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
