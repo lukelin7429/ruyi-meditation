@@ -25357,3 +25357,215 @@ page_range(
         "path.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 18. Punaoghavagga — Another Chapter on Floods (SN 46.175-184)
+# CONFIRMED BY DIRECT READING: this is the FINAL vagga of the entire
+# Bojjhaṅgasaṃyutta (SN 46). Unlike every preceding second-pass vagga
+# (14-17), this file carries THREE extra closing lines beyond the
+# usual elision marker, colophon, and uddāna:
+#   3.1 -- "(Tell in full as in the chapter on removal of greed,
+#           hate, and delusion.)" / Pāli: "(Rāgavinayapariyosāna-
+#           dosavinayapariyosāna-mohavinayapariyosānavaggo
+#           vitthāretabbo.)" -- a meta-instruction confirming that
+#           the "removal of greed" cross-references already used at
+#           Vaggas 14-17 IMPLICITLY also stand for "removal of hate"
+#           and "removal of delusion" variants, folded into a single
+#           written instance rather than requiring separate discourse
+#           files for each -- explaining why only two explicit
+#           cycles (base and "removal of greed") were found in SN 46,
+#           rather than the many more that might otherwise be
+#           expected from SN 45's own three-formula
+#           Dutiyagaṅgāpeyyālavagga.
+#   3.2 -- "(The Linked Discourses on Awakening Factors should be
+#           told in full just as the Linked Discourses on the
+#           Path.)" / Pāli: "(Yadapi maggasaṁyuttaṁ vitthāretabbaṁ,
+#           tadapi bojjhaṅgasaṁyuttaṁ vitthāretabbaṁ.)" -- a
+#           SAṂYUTTA-LEVEL master instruction confirming that this
+#           project's own reading of the Maggasaṃyutta (SN 45) as the
+#           structural template for the entire Bojjhaṅgasaṃyutta
+#           (SN 46) is not an inference but the source's own explicit
+#           closing statement.
+#   3.3 -- "The Linked Discourses on the Awakening Factors is the
+#           second section." / Pāli: "Bojjhaṅgasaṁyuttaṁ dutiyaṁ." --
+#           the saṃyutta's own CLOSING COLOPHON, confirming SN 46 is
+#           complete and is the second of the seven-saṃyutta group
+#           built on this shared structure (the Maggasaṃyutta, SN 45,
+#           being the first).
+# This confirms the working hypothesis recorded since Vagga 15: SN 46
+# ends here, at discourse 184, with no further vaggas beyond this one.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 46.175-184 — Punaoghādisutta, Etc.
+# (Closing vagga of the Bojjhaṅgasaṃyutta)
+# --------------------------------------------------------------------------- #
+page_range(
+    46, 175, 184, "Punaoghādi", "Another Series on Floods, Etc.",
+    vagga="Punaoghavagga",
+    meta_title="SN 46.175–184 — Another Series on Floods, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for SN 46.175–184 — the "
+        "FINAL vagga of the entire Bojjhaṅgasaṃyutta, confirmed by "
+        "the source's own closing colophon, which also confirms this "
+        "saṃyutta's own explicit dependence on the Maggasaṃyutta as "
+        "its structural template. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by inference from the vagga's own "
+                     "cross-reference)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly "
+                     "(by inference)"),
+        ("Form", "Ten discourses compressed into a single "
+                 "bilara-data file, closing with THREE meta-level "
+                 "instructions beyond the usual elision marker, "
+                 "colophon, and uddāna"),
+        ("Length", "Under a minute to read; entirely cross-reference "
+                   "and meta-instruction, no independent narrative "
+                   "content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; closes the entire Bojjhaṅgasaṃyutta, "
+                         "confirmed by the source's own explicit "
+                         "closing colophon"),
+    ],
+    why=(
+        "This vagga's own closing lines are confirmed to do far more "
+        "than close a single peyyāla cycle: they close the ENTIRE "
+        "Bojjhaṅgasaṃyutta (SN 46) itself, with an explicit statement "
+        "that whatever applies to the Maggasaṃyutta (SN 45) applies "
+        "equally here &mdash; confirming, in the source's own words, "
+        "the structural dependence this project has confirmed "
+        "empirically, vagga by vagga, since Vagga 9."
+    ),
+    guide=[
+        ("A hidden third and fourth formula, folded into one instruction", [
+            "Confirmed by direct reading, this vagga's own closing "
+            "lines instruct that the &ldquo;removal of greed&rdquo; "
+            "cross-references already used at Vaggas 14-17 should "
+            "ALSO be understood to cover &ldquo;removal of hate&rdquo; "
+            "and &ldquo;removal of delusion&rdquo; variants &mdash; "
+            "folded into a single written instance rather than "
+            "requiring separate discourse files for each. This "
+            "explains why this project found only two explicit "
+            "peyyāla cycles in SN 46 (base and removal-of-greed), "
+            "rather than the many more that SN 45's own three-formula "
+            "Dutiyagaṅgāpeyyālavagga might have suggested: the "
+            "remaining formulas are compressed into this single "
+            "closing instruction instead of written out as separate "
+            "vaggas.",
+        ]),
+        ("The saṃyutta's own explicit master instruction", [
+            "Confirmed by direct reading, this vagga's own closing "
+            "line states plainly: &ldquo;whatever is to be elaborated "
+            "for the Maggasaṃyutta, so too should the Bojjhaṅga-"
+            "saṃyutta be elaborated.&rdquo; This is not an inference "
+            "this project has drawn from its own comparative work "
+            "&mdash; it is the source's own explicit closing "
+            "statement, confirming every cross-reference this project "
+            "has traced back to SN 45 throughout Vaggas 9-18 rests on "
+            "the source's own stated intention.",
+        ]),
+        ("The saṃyutta's own closing colophon -- confirmed, not assumed", [
+            "The Pāli root closes with &ldquo;Bojjhaṅgasaṁyuttaṁ "
+            "dutiyaṁ&rdquo; (&ldquo;the Linked Discourses on the "
+            "Awakening Factors is the second&rdquo;), confirming this "
+            "saṃyutta's own completion and its own position as the "
+            "second of the seven-saṃyutta group sharing this "
+            "structural template (SN 45-51), with the Maggasaṃyutta "
+            "as the first. This matches the working hypothesis "
+            "recorded since Vagga 15 &mdash; that SN 46 would end at "
+            "discourse 184 &mdash; now confirmed directly rather than "
+            "merely predicted.",
+        ]),
+    ],
+    terms=[
+        ("cattāro oghā: kāmogho, bhavogho, diṭṭhogho, avijjogho",
+             "&ldquo;four floods: of sensuality, desire to be reborn, "
+             "views, and ignorance&rdquo; &mdash; the identical "
+             "fourfold flood already met at SN 46.121-129, this "
+             "vagga's own second and final Floods pass"),
+        ("rāgavinayapariyosāna-dosavinayapariyosāna-mohavinayapariyosānavaggo vitthāretabbo",
+             "&ldquo;the vagga on culminating in the removal of "
+             "greed, culminating in the removal of hate, culminating "
+             "in the removal of delusion is to be elaborated in "
+             "full&rdquo; &mdash; the meta-instruction folding three "
+             "formula variants into this single vagga rather than "
+             "three separate ones"),
+        ("yadapi maggasaṁyuttaṁ vitthāretabbaṁ, tadapi bojjhaṅgasaṁyuttaṁ vitthāretabbaṁ",
+             "&ldquo;whatever is to be elaborated for the Linked "
+             "Discourses on the Path, so too should the Linked "
+             "Discourses on the Awakening Factors be elaborated&rdquo; "
+             "&mdash; the saṃyutta's own explicit master instruction, "
+             "confirming SN 46's own dependence on SN 45 as its "
+             "structural template"),
+        ("bojjhaṅgasaṁyuttaṁ dutiyaṁ", "&ldquo;the Linked Discourses "
+             "on the Awakening Factors is the second&rdquo; &mdash; "
+             "this saṃyutta's own closing colophon, confirming its "
+             "own completion and its position as the second of the "
+             "seven-saṃyutta group beginning with the Maggasaṃyutta"),
+        ("punaoghavaggo aṭṭhārasamo", "&ldquo;the Again-Floods "
+             "chapter, the eighteenth&rdquo; &mdash; confirming this "
+             "vagga's own position as the final vagga of this "
+             "saṃyutta's own eighteen-vagga structure"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, including the saṃyutta's own "
+        "closing meta-instructions and colophon. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the discourse cross-reference",
+             "sn46.175-184:1.1"),
+        ("p", "&sect;2 &mdash; the hidden formula instruction",
+             "sn46.175-184:3.1"),
+        ("p", "&sect;3 &mdash; the saṃyutta-level master instruction",
+             "sn46.175-184:3.2"),
+        ("p", "&sect;4 &mdash; the saṃyutta's own closing colophon",
+             "sn46.175-184:3.3"),
+    ],
+    quiz=[
+        {"q": "What does this vagga's own closing meta-instruction reveal about the \"removal of greed\" cross-references used at Vaggas 14-17?",
+         "opts": ["They implicitly also cover \"removal of hate\" and \"removal of delusion\" variants, folded into one instruction rather than written out as separate vaggas", "They apply only to greed and have no relationship to hate or delusion at all", "They are unrelated to any formula and are purely narrative", "They were a scribal error that should be ignored"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading, explaining why SN 46 shows only two explicit peyyāla cycles rather than more."},
+        {"q": "What does this vagga's own saṃyutta-level instruction state?",
+         "opts": ["Whatever is to be elaborated for the Maggasaṃyutta (SN 45) should likewise be elaborated for the Bojjhaṅgasaṃyutta (SN 46)", "The Bojjhaṅgasaṃyutta has no relationship to the Maggasaṃyutta", "The Maggasaṃyutta should be elaborated based on the Bojjhaṅgasaṃyutta instead", "Both saṃyuttas should be deleted from the canon"],
+         "correct": 0,
+         "expl": "The source's own explicit master instruction, confirming this project's own comparative method throughout Vaggas 9-18 rests on the text's own stated intention."},
+        {"q": "What does this vagga's own closing colophon confirm?",
+         "opts": ["The Bojjhaṅgasaṃyutta (SN 46) is complete, and is the second of a seven-saṃyutta group beginning with the Maggasaṃyutta", "This is only the midpoint of the Bojjhaṅgasaṃyutta", "The Bojjhaṅgasaṃyutta and Maggasaṃyutta are unrelated collections", "No colophon appears in this discourse"],
+         "correct": 0,
+         "expl": "Confirmed directly, matching the working hypothesis recorded since Vagga 15 that SN 46 would end at discourse 184."},
+    ],
+    marginalia=[
+        ("Greed, hate, and delusion, folded into one", [
+            "one instruction stands for all three formulas —",
+            "explaining why only two cycles appear here"
+        ]),
+        ("The source names its own method", [
+            "\"as for the Path, so for the Factors\" —",
+            "confirming this project's own comparative approach"
+        ]),
+        ("\"Bojjhaṅgasaṁyuttaṁ dutiyaṁ\"", [
+            "the second of seven, now complete —",
+            "the Maggasaṃyutta itself was the first"
+        ]),
+        ("Eighteen vaggas, one hundred eight discourses", [
+            "SN 46.77 through SN 46.184, two full cycles —",
+            "the peyyāla stretch begun at Vagga 9 now ends"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.175-184/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.165-174.html\">SN 46.165&ndash;174 &middot; "
+        "Another Series on Searches, Etc.</a> &mdash; the previous "
+        "page.",
+        "<a href=\"sn-45.171.html\">SN 45.171 &middot; Floods</a> "
+        "&mdash; this project's own earlier treatment of the "
+        "identical floods cycle in the Maggasaṃyutta, the template "
+        "this entire saṃyutta's own closing colophon confirms it "
+        "follows.",
+    ],
+)
