@@ -37526,3 +37526,155 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.28 — Sambuddhasutta
+# Echoes SN 48.21's own Buddha-testimony pattern, now for the six
+# sense faculties instead of the five spiritual ones. A genuine
+# textual variant is reported honestly: the Pali root retains the
+# full fivefold lens (samudaya/atthaṅgama/assāda/ādīnava/nissaraṇa) at
+# 1.4-1.5, but the English translation renders only three terms
+# (gratification, drawback, escape) at the same two segments.
+# --------------------------------------------------------------------------- #
+page(
+    48, 28, "Sambuddha", "Awakened",
+    vagga="Chaḷindriyavagga",
+    meta_title="SN 48.28 — Awakened | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sambuddhasutta — the Buddha's own testimony that he "
+        "withheld announcing his awakening until he truly understood "
+        "the six sense faculties, echoing SN 48.21's own pattern for "
+        "the five spiritual faculties. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly, "
+                     "in the first person about his own awakening"),
+        ("Form", "A first-person testimony, closing with the classic "
+                 "post-awakening knowledge-and-vision utterance"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; echoes SN 48.21's own testimony "
+                         "pattern for the six sense faculties, and "
+                         "carries a genuine textual variant between "
+                         "the Pali root and its own English "
+                         "translation, reported honestly rather than "
+                         "silently resolved"),
+    ],
+    why=(
+        "This discourse echoes this project's own SN 48.21 almost "
+        "word for word, but for the six sense faculties instead of "
+        "the five spiritual ones: the Buddha withheld announcing his "
+        "supreme perfect awakening until he truly understood these "
+        "faculties, closing with the same classic post-awakening "
+        "utterance &mdash; and its own source carries a genuine, "
+        "honestly-reported textual variant between the Pali root and "
+        "its own English translation."
+    ),
+    guide=[
+        ("Echoing SN 48.21's own testimony, now for the six senses", [
+            "Confirmed by direct reading, this discourse's own "
+            "structure closely echoes this project's own SN 48.21 "
+            "(Punabbhavasutta): the identical first-person testimony "
+            "&mdash; withholding the proclamation of awakening until "
+            "true understanding, then the identical closing "
+            "utterance &mdash; but applied here to the six sense "
+            "faculties rather than the five spiritual faculties.",
+        ]),
+        ("A genuine textual variant, reported honestly", [
+            "Confirmed by direct comparison of this discourse's own "
+            "source: the Pali root text at segments 1.4-1.5 retains "
+            "the FULL fivefold analytical lens (&ldquo;samudayañca "
+            "atthaṅgamañca assādañca ādīnavañca "
+            "nissaraṇañca,&rdquo; origin, disappearance, "
+            "gratification, drawback, and escape), matching SN "
+            "48.21's own phrasing exactly &mdash; but the English "
+            "translation at those same two segments renders only "
+            "THREE terms, &ldquo;gratification, drawback, and "
+            "escape.&rdquo; This project reports this variant "
+            "plainly rather than silently harmonizing it or guessing "
+            "at the translator's own reason.",
+        ]),
+        ("The same closing utterance as SN 48.21 and SN 48.20", [
+            "Confirmed by direct reading, this discourse closes with "
+            "the identical post-awakening utterance already met at "
+            "this project's own SN 48.21 &mdash; &ldquo;my freedom "
+            "is unshakable; this is my last rebirth; now there'll be "
+            "no more future lives&rdquo; &mdash; the same classic "
+            "formula recurring a second time within this vagga.",
+        ]),
+    ],
+    terms=[
+        ("Chaḷindriyavagga", "&ldquo;the vagga of the six "
+             "faculties&rdquo; &mdash; this discourse continues the "
+             "six sense faculties named at SN 48.25-27"),
+        ("Sambuddha", "&ldquo;awakened&rdquo; &mdash; this "
+             "discourse's own title"),
+        ("samudayañca atthaṅgamañca assādañca ādīnavañca "
+             "nissaraṇañca", "the full Pali fivefold lens at "
+             "segments 1.4-1.5, rendered as only three terms "
+             "(&ldquo;gratification, drawback, and escape&rdquo;) in "
+             "the English translation &mdash; a genuine variant "
+             "reported honestly, not resolved by guesswork"),
+        ("anuttaraṁ sammāsambodhiṁ abhisambuddho", "&ldquo;awakened "
+             "to the supreme perfect awakening&rdquo; &mdash; the "
+             "same phrase met at SN 48.21, what the Buddha withheld "
+             "announcing until he understood"),
+        ("Aṭṭhamaṁ", "&ldquo;the eighth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's eighth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral). This project's own reading guide notes "
+        "a variant between the Pali root and this English "
+        "translation at &sect;1 &mdash; see the guide above."),
+    text=[
+        ("p", "&sect;1", "sn48.28:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to this project's own SN 48.21?",
+         "opts": ["It echoes SN 48.21's own testimony pattern almost word for word, but for the six sense faculties instead of the five spiritual ones", "It directly contradicts SN 48.21's own claim about the Buddha's awakening", "It has no relationship to SN 48.21 at all", "It replaces the Buddha's own testimony with a mendicant's question"],
+         "correct": 0,
+         "expl": "The same first-person testimony structure, now applied to a different set of faculties."},
+        {"q": "What textual variant does this project's own honest reading report at this discourse's own source?",
+         "opts": ["The Pali root retains the full fivefold lens, but the English translation renders only three of the five terms", "The Pali root and English translation are identical in every respect", "The English translation adds a sixth analytical term not in the Pali", "The Pali root omits the closing utterance entirely"], "correct": 0,
+         "expl": "Reported plainly, not silently resolved or guessed at."},
+        {"q": "What closing utterance does this discourse share with SN 48.21?",
+         "opts": ["\"My freedom is unshakable; this is my last rebirth; now there'll be no more future lives\"", "\"Not liable to be reborn in the underworld, assured, destined for awakening\"", "\"Freed by not grasping\"", "The vagga's own closing colophon and uddāna"],
+         "correct": 0,
+         "expl": "The identical classic post-awakening formula, recurring a second time in this vagga."},
+    ],
+    marginalia=[
+        ("An echo of SN 48.21", [
+            "the same testimony, spoken again —",
+            "now for the six senses, not five"
+        ]),
+        ("A variant, honestly reported", [
+            "Pali keeps all five terms of the lens —",
+            "English renders only three"
+        ]),
+        ("No more future lives, once more", [
+            "the same closing words as before —",
+            "a formula this vagga repeats"
+        ]),
+        ("Eighth discourse, Aṭṭhamaṁ", [
+            "brief closing marker, much said before it —",
+            "this vagga's own survey continues"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.28/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.27.html\">SN 48.27 &middot; A Perfected "
+        "One</a> &mdash; the previous discourse.",
+        "<a href=\"sn-48.21.html\">SN 48.21 &middot; Future "
+        "Lives</a> &mdash; the earlier discourse this one closely "
+        "echoes.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
