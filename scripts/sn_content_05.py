@@ -25194,3 +25194,166 @@ page_range(
         "cross-references, applied there to the eightfold path.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 17. Punaesanāvagga — Another Chapter on Searches (SN 46.165-174)
+# Confirmed by direct bilara-data reading: the second pass of the
+# Searches vagga, ten discourses, matching the position predicted for
+# it in the second peyyāla cycle. But this file's own structure
+# differs in a genuine, honestly-reported way from Vaggas 14-16: its
+# cross-reference instruction ("Tell in full as in SN 45.161-170")
+# appears directly at key 1.1 in BOTH languages, with NO separate
+# "removal of greed version" qualifier anywhere in the file, and NO
+# separate Pāli elaboration-instruction key (no "rāgavasena
+# vitthāretabbo" or equivalent) -- unlike every one of the three
+# preceding second-pass vaggas, each of which explicitly labeled
+# itself "removal of greed version" in English and carried its own
+# separate "rāgavasena vitthāretabbo" instruction in Pāli. This
+# vagga's own name ("Punaesanāvagga," "Again-Searches") and its
+# position (17th, immediately following the established sequence of
+# second-pass vaggas at positions 14-16) are the only confirmed
+# evidence this is the second Searches pass -- the specific formula
+# it elaborates is not itself labeled in the source, and this is
+# reported honestly rather than assumed to silently match its
+# neighbors.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 46.165-174 — Punaesanādisutta, Etc.
+# --------------------------------------------------------------------------- #
+page_range(
+    46, 165, 174, "Punaesanādi", "Another Series on Searches, Etc.",
+    vagga="Punaesanāvagga",
+    meta_title="SN 46.165–174 — Another Series on Searches, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for SN 46.165–174 — a "
+        "second ten-discourse Searches vagga, cross-referencing this "
+        "project's own already-completed Esanāvagga from the "
+        "Maggasaṃyutta, this time without an explicit formula label "
+        "in the source itself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by inference from the vagga's own "
+                     "cross-reference)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly "
+                     "(by inference)"),
+        ("Form", "Ten discourses compressed into a single "
+                 "bilara-data file carrying only a cross-reference "
+                 "instruction and a closing uddāna"),
+        ("Length", "A few seconds to read; no independently "
+                   "translatable content beyond the cross-reference "
+                   "itself"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the barest possible peyyāla stub, entirely "
+                       "dependent on cross-referenced content"),
+    ],
+    why=(
+        "This vagga's own name (&ldquo;Punaesanāvagga,&rdquo; &ldquo;"
+        "Again-Searches&rdquo;) and its position, immediately "
+        "following the established run of second-pass vaggas "
+        "(14, 15, 16), together confirm this is the second Searches "
+        "pass in this saṃyutta's own two-cycle peyyāla structure "
+        "&mdash; cross-referencing the identical ten topics already "
+        "met at SN 45.161 and again at SN 46.111-120."
+    ),
+    guide=[
+        ("No formula label this time -- reported honestly, not smoothed over", [
+            "Unlike Vaggas 14, 15, and 16 &mdash; each of which "
+            "explicitly labeled itself &ldquo;removal of greed "
+            "version&rdquo; in English and carried its own separate "
+            "&ldquo;rāgavasena vitthāretabbo&rdquo; instruction in "
+            "Pāli &mdash; this vagga's own file gives only &ldquo;"
+            "tell in full as in SN 45.161&ndash;170,&rdquo; with no "
+            "formula qualifier of any kind in either language. The "
+            "vagga's own name and its position in the established "
+            "sequence are the only confirmed evidence this is the "
+            "second Searches pass; the specific formula it elaborates "
+            "is not itself labeled in the source, and this reading "
+            "guide does not invent a label the source withholds.",
+        ]),
+        ("A cross-reference folded into the opening key, not a separate one", [
+            "This vagga's own cross-reference instruction is confirmed "
+            "to sit directly at key 1.1 in both languages, rather than "
+            "in a separate later key (as Vaggas 14-16's own "
+            "instructions each occupied their own key 3.1) &mdash; a "
+            "minor structural variation among files that otherwise "
+            "share the identical no-body-text peyyāla pattern.",
+        ]),
+    ],
+    terms=[
+        ("tisso esanā: kāmesanā, bhavesanā, brahmacariyesanā",
+             "&ldquo;three searches: for sensual pleasures, for "
+             "continued existence, and for a spiritual path&rdquo; "
+             "&mdash; the identical threefold search already met at "
+             "SN 45.161 and SN 46.111-120, this saṃyutta's own "
+             "recurring opening list"),
+        ("vitthāretabbaṁ", "&ldquo;to be elaborated in full&rdquo; "
+             "&mdash; the source's own cross-reference instruction, "
+             "confirmed here to sit at key 1.1 rather than in a "
+             "separate later key"),
+        ("punaesanāvaggo", "&ldquo;the Again-Searches chapter&rdquo; "
+             "&mdash; this vagga's own name, the clearest confirmed "
+             "marker of its own position as the second Searches pass"),
+        ("sattarasamo", "&ldquo;the seventeenth&rdquo; &mdash; "
+             "confirming this vagga's own position within this "
+             "saṃyutta's own count"),
+        ("esanā vidhā āsavo, bhavo ca dukkhatā tisso",
+             "&ldquo;search, kind, defilement, existence, and three "
+             "forms of suffering&rdquo; &mdash; the closing uddāna's "
+             "own opening line, worded identically to Vagga 12's own "
+             "closing uddāna"),
+    ],
+    text_intro=("This vagga's own file carries no independently "
+        "translatable body text beyond its own cross-reference "
+        "instruction, honestly presented as such rather than padded "
+        "with invented content. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.165-174:1.1"),
+    ],
+    quiz=[
+        {"q": "What is the ONLY confirmed evidence that this vagga is the second Searches pass, rather than simply a repeat of Vagga 12?",
+         "opts": ["Its own name (\"Punaesanāvagga,\" \"Again-Searches\") and its position immediately following the established run of second-pass vaggas", "An explicit \"removal of greed version\" label in the English source", "A separate Pāli elaboration instruction naming the formula", "The discourse numbers themselves state which formula applies"],
+         "correct": 0,
+         "expl": "Unlike Vaggas 14-16, this vagga's own file carries no explicit formula label — reported honestly rather than assumed."},
+        {"q": "How does this vagga's own cross-reference instruction differ structurally from Vaggas 14-16's own instructions?",
+         "opts": ["It sits directly at key 1.1 in both languages, rather than in a separate later key (3.1)", "It is written in Sanskrit rather than Pāli", "It gives no discourse range at all", "It is three times longer than the previous vaggas' own instructions"],
+         "correct": 0,
+         "expl": "A minor structural variation confirmed by direct comparison of the bilara-data files."},
+        {"q": "What are the three searches this vagga's own cross-reference ultimately points back to?",
+         "opts": ["The search for sensual pleasures, for continued existence, and for a spiritual path", "The search for wealth, fame, and power", "The search for food, shelter, and companionship", "The search for wisdom, compassion, and equanimity"],
+         "correct": 0,
+         "expl": "The identical threefold search already met at SN 45.161 and SN 46.111-120."},
+    ],
+    marginalia=[
+        ("No formula label, unlike the last three", [
+            "no \"removal of greed version\" appears here —",
+            "only the vagga's own name confirms its position"
+        ]),
+        ("The cross-reference moves to key 1.1", [
+            "not tucked into a separate later key —",
+            "a small structural shift among identical stubs"
+        ]),
+        ("The second cycle, fourth vagga in", [
+            "Ganges, Diligence, Hard Work, now Searches —",
+            "one vagga left to complete this cycle"
+        ]),
+        ("Floods still ahead, likely split in two", [
+            "nine cross-referenced, one written in full —",
+            "if Vagga 13's own pattern holds once more"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.165-174/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.153-164.html\">SN 46.153&ndash;164 &middot; "
+        "Hard Work, Etc.</a> &mdash; the previous page, closing the "
+        "preceding vagga.",
+        "<a href=\"sn-45.161.html\">SN 45.161 &middot; Searches</a> "
+        "&mdash; this project's own earlier treatment of the "
+        "identical threefold search, applied there to the eightfold "
+        "path.",
+    ],
+)
