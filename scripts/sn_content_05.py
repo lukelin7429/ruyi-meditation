@@ -44909,3 +44909,154 @@ page_range(
         "the one this cross-reference selects.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.147-158 — Punabalakaraṇīyavaggo (title-only cross-reference)
+# Confirmed by direct reading to be the third and final sub-section
+# of Vagga 13 (Punagaṅgāpeyyālavagga), matching SN 48.137-146's own
+# identical minimal structure: a bare title and a single
+# cross-reference note pointing to a SPECIFIC closing-formula variant
+# already embedded within this project's own SN 45.149-160 -- the
+# "removal of greed" version, not the vagga's own original "seclusion"
+# formula. Confirmed by directly checking SN 48.159-168's own root
+# Pāli "0.2" field (already read ahead), Vagga 13 closes here at
+# SN 48.158, totaling 34 discourses (12+10+12) across three merged
+# files -- a genuinely different total from SN 45's own parallel
+# Dutiyagaṅgāpeyyālavagga (36), confirmed rather than assumed equal.
+# --------------------------------------------------------------------------- #
+page_range(
+    48, 147, 158, "Punabalakaraṇīya", "Another Chapter on Hard Work",
+    vagga="Punagaṅgāpeyyālavagga",
+    meta_title="SN 48.147–158 — Another Chapter on Hard Work | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 48.147–158 — a title-only sub-section closing Vagga 13, "
+        "cross-referencing a specific closing-formula variant already "
+        "met at SN 45.149. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; a title-only cross-reference, "
+                     "matching SN 48.137-146's own minimal structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A section title and a single cross-reference note; "
+                 "no worked example, colophon, or uddāna of its own"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; confirmed as the sub-section that "
+                         "closes Vagga 13, totaling 34 discourses "
+                         "across three merged files, genuinely "
+                         "different from SN 45's own 36"),
+    ],
+    why=(
+        "This file contains no worked example, colophon, or uddāna "
+        "&mdash; only a section title, "
+        "&ldquo;Punabalakaraṇīyavagga&rdquo; (&ldquo;Another Hard "
+        "Work Chapter&rdquo;), and the note &ldquo;tell in full as "
+        "in SN 45.149&ndash;160, removal of greed version.&rdquo; "
+        "Confirmed by directly checking the following file's own "
+        "root Pāli, Vagga 13 closes here without its own colophon or "
+        "uddāna appearing anywhere in this vagga's own three merged "
+        "sections."
+    ),
+    guide=[
+        ("The third and final section of Vagga 13", [
+            "Confirmed by direct reading of SN 48.159-168's own root "
+            "Pāli &ldquo;0.2&rdquo; field (&ldquo;14. "
+            "Punaesanāvagga&rdquo;), Vagga 13 "
+            "(Punagaṅgāpeyyālavagga) closes at this file without "
+            "ever producing its own colophon or uddāna &mdash; its "
+            "own total of 34 discourses (12 at SN 48.125-136, 10 at "
+            "SN 48.137-146, 12 here) is confirmed by simple "
+            "arithmetic on the file ranges themselves, not by any "
+            "closing summary the source itself provides.",
+        ]),
+        ("A different total from SN 45's own parallel vagga", [
+            "This project's own observation, confirmed rather than "
+            "assumed: SN 45's own Dutiyagaṅgāpeyyālavagga (SN "
+            "45.103-138) totals 36 discourses, while this vagga's "
+            "own total is 34 &mdash; a genuine structural difference "
+            "between the two saṃyuttas' own versions of this "
+            "repeated vagga, not an error in either.",
+        ]),
+        ("The same precise cross-reference pattern as its predecessor", [
+            "Matching SN 48.137-146's own structure exactly, this "
+            "file's cross-reference selects one specific paragraph "
+            "&mdash; the &ldquo;removal of greed&rdquo; closing "
+            "formula &mdash; from within this project's own "
+            "already-completed SN 45.149, rather than pointing "
+            "vaguely at the whole discourse.",
+        ]),
+    ],
+    terms=[
+        ("Punabalakaraṇīyavaggo", "&ldquo;Another Hard Work "
+             "Chapter&rdquo; &mdash; this section's own bare title, "
+             "the only Pāli root content given"),
+        ("this text consists of the title only", "the English "
+             "source's own explicit note, confirming no further "
+             "content exists in this file beyond the title and "
+             "cross-reference"),
+        ("removal of greed version", "the specific closing-formula "
+             "variant this cross-reference selects, matching SN "
+             "48.137-146's own identical phrasing"),
+        ("rāgavinayapariyosānaṁ dosavinayapariyosānaṁ "
+         "mohavinayapariyosānaṁ", "&ldquo;culminating in the removal "
+             "of greed, hate, and delusion&rdquo; &mdash; the exact "
+             "phrase this cross-reference points to within SN "
+             "45.149"),
+        ("Punagaṅgāpeyyālavaggo", "this section's own governing "
+             "vagga, confirmed to close here at 34 discourses total, "
+             "spanning SN 48.125 through SN 48.158"),
+    ],
+    text_intro=("The complete content of this file: its own bare "
+        "title and the single cross-reference note. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.147-158:1.1"),
+    ],
+    quiz=[
+        {"q": "How was Vagga 13's own closing point confirmed?",
+         "opts": ["By directly reading SN 48.159-168's own root Pāli \"0.2\" field, showing a new vagga (\"14. Punaesanāvagga\") begins there", "By a colophon appearing within this file itself", "By an uddāna verse listing this vagga's own discourses", "By assuming the vagga matched SN 45's own 36-discourse length"],
+         "correct": 0,
+         "expl": "Confirmed by checking the following file directly, since this vagga never produces its own colophon or uddāna."},
+        {"q": "How does Vagga 13's own total compare to SN 45's own parallel Dutiyagaṅgāpeyyālavagga?",
+         "opts": ["34 discourses here, versus 36 at SN 45.103-138 — a genuine structural difference, confirmed rather than assumed equal", "Exactly the same total in both saṃyuttas", "This vagga is longer than SN 45's own version", "SN 45's own version has no fixed length at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct arithmetic on the file ranges, not assumed uniform across saṃyuttas."},
+        {"q": "What specific content does this file's cross-reference point to?",
+         "opts": ["The \"removal of greed\" closing-formula variant within this project's own SN 45.149, matching SN 48.137-146's own identical selection", "The entire SN 45.149-160 range with no particular variant specified", "A variant unrelated to any this project has previously confirmed", "The original \"seclusion\" formula, unchanged from SN 45's own version"],
+         "correct": 0,
+         "expl": "Precisely selected, matching the pattern already confirmed at SN 48.137-146."},
+    ],
+    marginalia=[
+        ("Vagga 13 closes, without saying so", [
+            "no colophon, no uddāna here —",
+            "only the next file's own field confirms it"
+        ]),
+        ("Thirty-four, not thirty-six", [
+            "SN 45's own version ran longer —",
+            "this vagga's own count genuinely differs"
+        ]),
+        ("The same precise pointer, once more", [
+            "removal of greed, named exactly —",
+            "not a vague gesture at the whole"
+        ]),
+        ("A third title, a chapter's own end", [
+            "diligence, then hard work, twice reused —",
+            "Vagga 14 begins next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.147-158/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.137-146.html\">SN 48.137&ndash;146 &middot; "
+        "Another Chapter on Diligence</a> &mdash; the previous "
+        "page, the second section of this same vagga.",
+        "<a href=\"sn-45.149.html\">SN 45.149 &middot; Hard "
+        "Work</a> &mdash; this project's own earlier treatment "
+        "containing the closing-formula variant this cross-reference "
+        "selects.",
+    ],
+)
