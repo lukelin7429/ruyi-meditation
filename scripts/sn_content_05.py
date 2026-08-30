@@ -36670,3 +36670,148 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.22 — Jīvitindriyasutta
+# The vagga's own name begins to be illuminated: this discourse
+# introduces an entirely DIFFERENT category of "indriya" — femininity,
+# masculinity, and life — not a sixth spiritual faculty added to the
+# standard five. Confirmed by direct reading only; the fuller
+# classical 22-faculty scheme is offered as general canonical
+# background, not claimed as confirmed from this discourse's own text.
+# --------------------------------------------------------------------------- #
+page(
+    48, 22, "Jīvitindriya", "The Life Faculty",
+    vagga="Chaḷindriyavagga",
+    meta_title="SN 48.22 — The Life Faculty | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Jīvitindriyasutta — a bare listing of three faculties "
+        "entirely different from the five spiritual faculties met "
+        "throughout this saṃyutta so far: femininity, masculinity, "
+        "and life. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A bare list of three faculties, named without "
+                 "further elaboration"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; begins to illuminate the "
+                         "discrepancy flagged at SN 48.21: this "
+                         "vagga surveys OTHER categories of "
+                         "&ldquo;indriya&rdquo; beyond the five "
+                         "spiritual faculties, not a sixth spiritual "
+                         "one"),
+    ],
+    why=(
+        "This discourse names three faculties entirely different "
+        "from the five spiritual faculties (faith, energy, "
+        "mindfulness, immersion, wisdom) this saṃyutta has treated "
+        "throughout: the faculties of femininity, masculinity, and "
+        "life &mdash; beginning to illuminate, though not fully "
+        "resolve, the discrepancy this project's own SN 48.21 "
+        "honestly flagged between the vagga's name and its first "
+        "discourse's content."
+    ),
+    guide=[
+        ("The vagga's own name, now partly illuminated", [
+            "Confirmed by direct reading, this discourse introduces "
+            "an entirely different set of &ldquo;indriya&rdquo; than "
+            "the five spiritual faculties met so far &mdash; "
+            "suggesting Chaḷindriyavagga does not simply add a sixth "
+            "SPIRITUAL faculty to the standard five, but instead "
+            "surveys several distinct CATEGORIES the word "
+            "&ldquo;indriya&rdquo; covers in the canon. This "
+            "project's own SN 48.21 declined to guess at a "
+            "resolution; this discourse is the first evidence toward "
+            "one, though the vagga's own remaining discourses have "
+            "not yet been read.",
+        ]),
+        ("Three faculties, bare-named without elaboration", [
+            "Confirmed by direct reading, this is among the "
+            "shortest discourses this project has translated in "
+            "this saṃyutta: a bare list of three faculties &mdash; "
+            "femininity, masculinity, and life (itthindriya, "
+            "purisindriya, jīvitindriya) &mdash; with no further "
+            "definition, simile, or discussion offered in this "
+            "discourse's own text.",
+        ]),
+        ("A broader canonical scheme, offered as background only", [
+            "As general canonical background &mdash; NOT a claim "
+            "about what this specific discourse's own text says "
+            "&mdash; the Abhidhamma tradition catalogues twenty-two "
+            "indriyas in total, grouping the six sense faculties, "
+            "these three (femininity, masculinity, life), five "
+            "feeling faculties, the five spiritual faculties named "
+            "throughout this saṃyutta, and three supramundane "
+            "faculties tied to the stages of awakening. This "
+            "discourse's own three faculties are one piece of that "
+            "larger scheme.",
+        ]),
+    ],
+    terms=[
+        ("Chaḷindriyavagga", "&ldquo;the vagga of the six "
+             "faculties&rdquo; &mdash; now beginning to read as a "
+             "survey of several DIFFERENT indriya categories, not a "
+             "sixth spiritual one"),
+        ("itthindriyaṁ", "&ldquo;the faculty of femininity&rdquo; "
+             "&mdash; the first of the three faculties named here"),
+        ("purisindriyaṁ", "&ldquo;the faculty of masculinity&rdquo; "
+             "&mdash; the second"),
+        ("jīvitindriyaṁ", "&ldquo;the faculty of life&rdquo; &mdash; "
+             "the third, giving this discourse its own title"),
+        ("Dutiyaṁ", "&ldquo;the second&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's second "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.22:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What three faculties does this discourse name?",
+         "opts": ["Femininity, masculinity, and life", "Faith, energy, and wisdom", "Eye, ear, and mind", "Pleasure, pain, and equanimity"],
+         "correct": 0,
+         "expl": "An entirely different category of \"indriya\" than the five spiritual faculties met so far."},
+        {"q": "How does this discourse relate to the discrepancy flagged at SN 48.21?",
+         "opts": ["It begins to illuminate it — the vagga surveys several DIFFERENT indriya categories, not a sixth spiritual faculty", "It fully resolves the discrepancy by naming exactly one sixth spiritual faculty", "It has no relation to that discrepancy at all", "It denies that any discrepancy exists"],
+         "correct": 0,
+         "expl": "Evidence toward a resolution, though not yet the vagga's own full picture."},
+        {"q": "How much elaboration does this discourse give for its three faculties?",
+         "opts": ["None — they are bare-named without further definition or discussion", "A full simile for each of the three", "A comparison to the five spiritual faculties", "A story illustrating each faculty in turn"],
+         "correct": 0,
+         "expl": "One of the shortest discourses in this saṃyutta so far."},
+    ],
+    marginalia=[
+        ("A different kind of indriya", [
+            "not faith, not wisdom, not energy —",
+            "femininity, masculinity, life"
+        ]),
+        ("The vagga's own name, illuminated", [
+            "not a sixth spiritual faculty after all —",
+            "but another category entirely"
+        ]),
+        ("Bare-named, unelaborated", [
+            "three faculties, and nothing more said —",
+            "among the shortest discourses met here"
+        ]),
+        ("A larger scheme, held lightly", [
+            "twenty-two faculties, tradition counts —",
+            "this discourse names three of them"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.22/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.21.html\">SN 48.21 &middot; Future "
+        "Lives</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
