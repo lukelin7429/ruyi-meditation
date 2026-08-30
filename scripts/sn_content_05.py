@@ -23852,3 +23852,180 @@ page_range(
         "eightfold path.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 10. Appamādavagga — Diligence (SN 46.89-98)
+# Confirmed by direct bilara-data reading: like the preceding
+# Gaṅgāpeyyālavagga, this entire ten-discourse vagga is stored as a
+# SINGLE merged file. It gives only the opening base-formula example
+# (the Realized One, "best of all sentient beings") before an
+# explicit source instruction -- English: "(Tell in full as in
+# SN 45.139-148)"; Pāli root: "(Appamādavaggo bojjhaṅgasaṁyuttassa
+# bojjhaṅgavasena vitthāretabbo)" ("the Diligence chapter is to be
+# elaborated in full for the Awakening-Factors Saṃyutta by way of the
+# awakening factors"). This directly cross-references this project's
+# own already-completed Appamādapeyyālavagga from the Maggasaṃyutta
+# (SN 45.139-148), confirmed by the closing uddāna's own ten items
+# (Realized One, footprint, roof-peak, root, heartwood, rainy season,
+# king, moon, sun, cloth) to match that vagga's own ten similes
+# exactly. NOTE: unlike SN 45's own version of this vagga (which the
+# source itself splits into four separate pages -- 45.139 written in
+# full, 45.140 elided to the base formula alone, then two further
+# merged files for 45.141-145 and the remainder), SN 46's own version
+# compresses the entire ten-discourse vagga into a single explicit
+# cross-reference with no independent content of its own -- confirmed
+# by direct reading, not assumed. Its own Pāli name is "Appamādavagga"
+# (without "peyyāla"), differing from SN 45's own "Appamādapeyyāla-
+# vagga" -- named exactly as the source gives it, not by analogy.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 46.89-98 — Tathāgatādisutta, Etc.
+# --------------------------------------------------------------------------- #
+page_range(
+    46, 89, 98, "Tathāgatādi", "The Realized One, Etc.",
+    vagga="Appamādavagga",
+    meta_title="SN 46.89–98 — The Realized One, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 46.89–98 — ten discourses on diligence, illustrated by "
+        "the Realized One, a footprint, a roof's peak, and other "
+        "similes, confirmed to mirror this project's own "
+        "already-completed Appamādapeyyālavagga from the "
+        "Maggasaṃyutta, here applied to the seven awakening factors. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Ten discourses compressed into a single "
+                 "bilara-data file, giving one explicit example "
+                 "before an explicit cross-reference instruction"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in its own written form, but "
+                       "structurally confirmed to represent ten "
+                       "discourses"),
+    ],
+    why=(
+        "The Realized One, said to be the best of all sentient "
+        "beings, illustrates diligence as the quality in which every "
+        "skillful teaching is rooted and meets &mdash; the identical "
+        "simile already met at SN 45.139 in this book's own "
+        "Maggasaṃyutta, here explicitly cross-referenced by the "
+        "source itself rather than rewritten, confirmed by the "
+        "closing uddāna to span ten similes across ten discourses."
+    ),
+    guide=[
+        ("A direct cross-reference, not independent content", [
+            "Confirmed by direct reading, the source itself instructs "
+            "readers to &ldquo;tell in full as in SN 45.139&ndash;"
+            "148&rdquo; &mdash; this project's own already-completed "
+            "Appamādapeyyālavagga from the Maggasaṃyutta &mdash; "
+            "rather than rewriting the full simile-by-simile content "
+            "again. The ten similes (the Realized One, a footprint, "
+            "a roof's peak, a root, heartwood, the rainy season, a "
+            "king, the moon, the sun, and cloth) are confirmed by the "
+            "closing uddāna's own explicit list to structure this "
+            "entire ten-discourse vagga identically to its own "
+            "earlier counterpart.",
+        ]),
+        ("A different name from its own SN 45 counterpart", [
+            "Confirmed by direct reading, this vagga's own Pāli name "
+            "is &ldquo;Appamādavagga&rdquo; (&ldquo;the Diligence "
+            "chapter&rdquo;) &mdash; without the &ldquo;peyyāla&rdquo; "
+            "(&ldquo;abbreviated text&rdquo;) element carried by SN "
+            "45's own &ldquo;Appamādapeyyālavagga,&rdquo; even though "
+            "both vaggas are built from the identical ten-simile "
+            "content and both are, in their own way, abbreviated.",
+        ]),
+        ("A single file, unlike SN 45's own four-page treatment", [
+            "SN 45's own version of this vagga is split by the "
+            "source itself into four separate pages &mdash; the "
+            "opening discourse written out in full, the second "
+            "elided to its base formula alone, then two further "
+            "merged files completing the remaining eight &mdash; "
+            "but SN 46's own version compresses the entire "
+            "ten-discourse vagga into this single explicit "
+            "cross-reference, confirmed to carry no independent "
+            "content of its own beyond the one worked example.",
+        ]),
+    ],
+    terms=[
+        ("tathāgato araham sammāsambuddho... aggamakkhāyati",
+             "&ldquo;the Realized One, the perfected one, the fully "
+             "awakened Buddha, is said to be the best&rdquo; &mdash; "
+             "the identical opening image already met at SN 45.139, "
+             "this book's own recurring diligence simile"),
+        ("appamādamūlakā appamādasamosaraṇā", "&ldquo;rooted in "
+             "diligence and meeting at diligence&rdquo; &mdash; the "
+             "shared description this project's own SN 45.139 "
+             "confirmed applies to all skillful qualities"),
+        ("vitthāretabbaṁ", "&ldquo;to be elaborated in full&rdquo; "
+             "&mdash; the source's own explicit cross-reference "
+             "instruction, pointing to SN 45.139-148 rather than "
+             "repeating that content"),
+        ("appamādavaggo dasamo", "&ldquo;the Diligence chapter, the "
+             "tenth&rdquo; &mdash; unambiguous confirmation of this "
+             "vagga's own position, matching this project's own "
+             "count without discrepancy"),
+        ("tathāgataṁ padaṁ kūṭaṁ, mūlaṁ sārena vassikaṁ",
+             "&ldquo;the Realized One, footprint, roof-peak, root, "
+             "with heartwood, rainy season&rdquo; &mdash; the "
+             "closing uddāna's own opening line, listing the first "
+             "six of this vagga's own ten similes"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.89-98:1.1"),
+        ("p", "&sect;2", "sn46.89-98:3.1"),
+    ],
+    quiz=[
+        {"q": "What does the source itself instruct, rather than rewriting the full simile-by-simile content?",
+         "opts": ["To tell the discourse in full as in SN 45.139–148, this project's own already-completed vagga", "To skip this vagga entirely", "To invent a completely new simile unrelated to diligence", "To translate the text into a different language"],
+         "correct": 0,
+         "expl": "A direct cross-reference to this project's own already-completed Appamādapeyyālavagga from the Maggasaṃyutta."},
+        {"q": "How does this vagga's own Pāli name differ from SN 45's own version of the same vagga?",
+         "opts": ["It is simply \"Appamādavagga,\" without the \"peyyāla\" element carried by SN 45's own \"Appamādapeyyālavagga\"", "It has an entirely unrelated name with no connection to diligence", "It is named after the Realized One rather than diligence", "The two names are character-for-character identical"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of this vagga's own colophon."},
+        {"q": "How does this vagga's own single-file structure differ from SN 45's own four-page treatment of the identical ten similes?",
+         "opts": ["SN 46 compresses all ten discourses into one file with a single cross-reference, while SN 45 spreads them across four separate pages with progressively more content written out", "Both versions use exactly the same number of pages", "SN 46 uses more pages than SN 45", "Neither version elides any content"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison of both vaggas' own bilara-data structure."},
+    ],
+    marginalia=[
+        ("A direct cross-reference, not rewritten content", [
+            "\"tell in full as in SN 45.139–148\" —",
+            "this project's own earlier work, confirmed reused"
+        ]),
+        ("One name shared, one name not", [
+            "content identical, title different —",
+            "\"Appamādavagga,\" not \"...peyyālavagga\""
+        ]),
+        ("Ten similes, one file this time", [
+            "SN 45 spread them over four pages —",
+            "SN 46 compresses them into one"
+        ]),
+        ("A new peyyāla cycle continues", [
+            "Hard Work, Searches, Floods still ahead —",
+            "each run through twice, mirroring SN 45's own structure"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.89-98/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.77-88.html\">SN 46.77&ndash;88 &middot; "
+        "The Ganges River, Etc.</a> &mdash; the previous page, "
+        "closing the preceding vagga.",
+        "<a href=\"sn-45.139.html\">SN 45.139 &middot; The Realized "
+        "One</a> &mdash; this project's own earlier treatment of "
+        "the identical diligence similes, applied there to the "
+        "eightfold path.",
+    ],
+)
