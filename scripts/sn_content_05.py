@@ -46918,3 +46918,158 @@ page_range(
         "Sammappadhānasaṁyutta with its own colophon and uddāna.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 50.55-66 — Pācīnādisutta (merged peyyāla range)
+# Vagga 6, "Punagaṅgāpeyyālavagga" ("Another Chapter of Abbreviated
+# Texts on the Ganges") -- confirmed by direct reading to restart the
+# entire five-vagga cycle (Gaṅgā, Appamāda, Balakaraṇīya, Esanā,
+# Ogha) with a "Puna-" ("Again") prefix, mirroring this project's own
+# already-confirmed structure at SN 48 (Vaggas 8-12 then 13-15's own
+# Puna- sequence). This confirms SN 50's own overall tenfold vagga
+# structure, matching its own ten merged bilara-data files exactly:
+# five vaggas, then the identical five again. This vagga's own
+# closing formula is the "removal of greed" version, matching this
+# project's own already-completed SN 48.125-136.
+# --------------------------------------------------------------------------- #
+page_range(
+    50, 55, 66, "Pācīnādi", "Sloping East, Etc.",
+    vagga="Punagaṅgāpeyyālavagga",
+    meta_title="SN 50.55–66 — Sloping East, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 50.55–66 — the Ganges river simile again, confirming SN "
+        "50's own tenfold structure of five vaggas repeated once "
+        "more. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching the river formula "
+                     "already met at SN 50.1-12"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A river simile, twelve discourses merged into a "
+                 "single bilara-data file"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; confirms SN 50's own tenfold vagga "
+                         "structure: five vaggas, then the identical "
+                         "five repeated with a &ldquo;Puna-&rdquo; "
+                         "prefix"),
+    ],
+    why=(
+        "This vagga's own name, &ldquo;Punagaṅgāpeyyālavagga&rdquo; "
+        "(&ldquo;Another Chapter of Abbreviated Texts on the "
+        "Ganges&rdquo;), confirms in the text's own words what this "
+        "project's own SN 50.45-54 already suggested: SN 50 restarts "
+        "its own five-vagga cycle (Gaṅgā, Appamāda, Balakaraṇīya, "
+        "Esanā, Ogha) a second time, mirroring the identical "
+        "structure already confirmed at SN 48's own Vaggas 8-15."
+    ),
+    guide=[
+        ("SN 50's own tenfold structure, now confirmed", [
+            "Confirmed by direct reading of this file's own "
+            "closing colophon (&ldquo;Gaṅgāpeyyālavaggo "
+            "chaṭṭho,&rdquo; &ldquo;the Ganges Abbreviated-Texts "
+            "chapter, the sixth&rdquo;), SN 50's own ten merged "
+            "bilara-data files correspond exactly to ten vaggas: "
+            "Gaṅgā, Appamāda, Balakaraṇīya, Esanā, and Ogha, each "
+            "repeated once more with a &ldquo;Puna-&rdquo; prefix "
+            "&mdash; matching SN 48's own Vaggas 8-15 structure "
+            "precisely.",
+        ]),
+        ("The removal-of-greed formula, matching SN 48.125-136", [
+            "Confirmed by direct reading, this vagga's own closing "
+            "formula is &ldquo;rāgavinayapariyosānaṁ "
+            "dosavinayapariyosānaṁ mohavinayapariyosānaṁ&rdquo; "
+            "(&ldquo;culminating in the removal of greed, hate, and "
+            "delusion&rdquo;), and its own cross-reference explicitly "
+            "confirms this: &ldquo;tell in full for each of the "
+            "different rivers as in SN 45.91&ndash;102, removal of "
+            "greed version&rdquo; &mdash; matching this project's own "
+            "already-completed SN 48.125-136 rather than the "
+            "original &ldquo;seclusion&rdquo; formula from SN 50.1-12.",
+        ]),
+        ("Twelve discourses, confirmed by the identical uddāna", [
+            "This vagga's own closing uddāna is character-for-"
+            "character identical to SN 50.1-12's own and to every "
+            "other instance of this formula this project has met "
+            "&mdash; six on slanting east, six on slanting to the "
+            "ocean, twelve total.",
+        ]),
+    ],
+    terms=[
+        ("gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā", "&ldquo;the "
+             "Ganges river slants, slopes, and inclines to the "
+             "east&rdquo; &mdash; identical to SN 50.1-12's own "
+             "opening simile"),
+        ("rāgavinayapariyosānaṁ dosavinayapariyosānaṁ "
+         "mohavinayapariyosānaṁ", "&ldquo;culminating in the removal "
+             "of greed, hate, and delusion&rdquo; &mdash; this "
+             "vagga's own genuinely different closing formula, "
+             "matching SN 48.125-136's own"),
+        ("tell in full for each of the different rivers as in SN "
+         "45.91-102, removal of greed version", "the English "
+             "source's own explicit cross-reference, confirming both "
+             "the source range and the specific closing-formula "
+             "variant"),
+        ("Gaṅgāpeyyālavaggo chaṭṭho", "&ldquo;the Ganges "
+             "Abbreviated-Texts chapter, the sixth&rdquo; &mdash; "
+             "this file's own closing colophon, confirming this "
+             "vagga's own position and SN 50's own restarted cycle"),
+        ("Punagaṅgāpeyyālavaggo", "this vagga's own name, identical "
+             "to the pattern already met at SN 48's own Vagga 13, "
+             "confirming SN 50's own tenfold vagga structure"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, including its own closing uddāna. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn50.55-66:1.1-1.5"),
+        ("p", "Cross-reference", "sn50.55-66:1.6"),
+        ("p", "Uddāna", "sn50.55-66:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this vagga's own name and closing colophon confirm about SN 50's own overall structure?",
+         "opts": ["SN 50 has ten vaggas total: five vaggas (Gaṅgā through Ogha), then the identical five repeated with a \"Puna-\" prefix", "SN 50 has only five vaggas total, with no repetition", "SN 50's own structure cannot be determined from this file", "This vagga is entirely unrelated to SN 50.1-12"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching the identical structure already confirmed at SN 48's own Vaggas 8-15."},
+        {"q": "What closing formula does this vagga's own discourse use, and what does it match?",
+         "opts": ["The removal-of-greed formula, matching this project's own already-completed SN 48.125-136", "The original seclusion formula, unchanged from SN 50.1-12", "An entirely new formula not met before", "No closing formula at all"],
+         "correct": 0,
+         "expl": "Confirmed explicitly by the English source's own cross-reference note."},
+        {"q": "How many discourses does this merged file represent, confirmed by its own uddāna?",
+         "opts": ["Twelve: six on slanting east, six on slanting to the ocean", "Only one discourse", "Five, matching the five powers", "An unspecified number"],
+         "correct": 0,
+         "expl": "Character-for-character identical to every other instance of this formula this project has met."},
+    ],
+    marginalia=[
+        ("The cycle restarts, confirmed", [
+            "Punagaṅgāpeyyālavagga, its own name says so —",
+            "five vaggas, now repeated once more"
+        ]),
+        ("A different closing this time", [
+            "greed's own removal, not seclusion —",
+            "matching SN 48.125-136's own variant"
+        ]),
+        ("Ten vaggas, ten merged files", [
+            "the structure now fully confirmed —",
+            "not just suspected from the file count"
+        ]),
+        ("Sixth vagga, its own colophon", [
+            "Gaṅgāpeyyālavaggo chaṭṭho, stated plainly —",
+            "this saṃyutta's own second cycle begins"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn50.55-66/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-50.45-54.html\">SN 50.45&ndash;54 &middot; "
+        "Floods, Etc.</a> &mdash; the previous page, closing Vagga "
+        "5.",
+        "<a href=\"sn-50.1-12.html\">SN 50.1&ndash;12 &middot; "
+        "Sloping East, Etc.</a> &mdash; this saṃyutta's own first "
+        "vagga, sharing the identical river simile with a different "
+        "closing formula.",
+    ],
+)
