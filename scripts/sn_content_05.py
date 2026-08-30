@@ -27772,3 +27772,160 @@ page(
         "instruction, given during the Buddha's own illness.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.15 — Bāhiyasutta
+# Confirmed by direct reading: this discourse shares its own opening
+# request (word for word) and its own "starting point of skillful
+# qualities" teaching with SN 47.3 (Bhikkhusutta) -- but differs in
+# two genuine, honestly-reported ways: it omits the Buddha's own
+# initial rebuff of "futile people" who ask only to keep following
+# him around, granting Bāhiya's request immediately; and it does not
+# include SN 47.3's own threefold internal/external/both dimension,
+# giving the plain fourfold formula alone.
+# --------------------------------------------------------------------------- #
+page(
+    47, 15, "Bāhiya", "With Bāhiya",
+    vagga="Nāḷandavagga",
+    meta_title="SN 47.15 — With Bāhiya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bāhiyasutta — Venerable Bāhiya requests a brief "
+        "teaching and receives it immediately, without the rebuff "
+        "given at SN 47.3, before swiftly attaining arahantship "
+        "through the four kinds of mindfulness meditation, grounded "
+        "in ethics. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and Venerable Bāhiya"),
+        ("Form", "A request, an immediate teaching, and a swift "
+                 "attainment"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and direct, closely paralleling SN 47.3"),
+    ],
+    why=(
+        "Venerable Bāhiya asks for a brief teaching, using the "
+        "identical wording already met at SN 47.3 &mdash; but this "
+        "time the Buddha grants the request immediately, without "
+        "first testing the mendicant's own sincerity. The teaching "
+        "itself is the same &ldquo;starting point of skillful "
+        "qualities&rdquo; (ethics and correct view) grounding the "
+        "four kinds of mindfulness meditation, and Bāhiya, like the "
+        "unnamed mendicant of SN 47.3, swiftly attains arahantship."
+    ),
+    guide=[
+        ("The identical opening request, a different response", [
+            "Confirmed by direct reading, Bāhiya's own request "
+            "&mdash; word for word identical to the unnamed "
+            "mendicant's own request at SN 47.3 &mdash; receives a "
+            "genuinely different response here: no rebuff about "
+            "&ldquo;futile people,&rdquo; no test of sincerity, only "
+            "the Buddha's immediate teaching. This reading guide "
+            "reports this difference honestly rather than assuming "
+            "the two discourses must share an identical shape.",
+        ]),
+        ("The same starting point: ethics and correct view", [
+            "The teaching itself &mdash; that &ldquo;the starting "
+            "point of skillful qualities&rdquo; is well-purified "
+            "ethics and correct view, upon which the four kinds of "
+            "mindfulness meditation must be grounded &mdash; is "
+            "confirmed by direct comparison to be worded identically "
+            "to SN 47.3's own teaching.",
+        ]),
+        ("A simpler fourfold formula, without the threefold dimension", [
+            "Unlike SN 47.3, which applied each of the four "
+            "mindfulness objects internally, externally, and both "
+            "together (twelve observations in total), this "
+            "discourse's own formula is confirmed by direct reading "
+            "to give only the plain fourfold practice, with no "
+            "internal/external distinction added.",
+        ]),
+        ("The identical closing attainment narrative", [
+            "Bāhiya's own path from the teaching to arahantship "
+            "&mdash; living &ldquo;alone, withdrawn, diligent, keen, "
+            "and resolute,&rdquo; then swiftly realizing &ldquo;the "
+            "supreme end of the spiritual path&rdquo; &mdash; is "
+            "confirmed by direct comparison to be worded identically "
+            "to SN 47.3's own closing narrative, differing only in "
+            "the name of the mendicant.",
+        ]),
+    ],
+    terms=[
+        ("eko vūpakaṭṭho appamatto ātāpī pahitatto", "&ldquo;alone, "
+             "withdrawn, diligent, keen, and resolute&rdquo; &mdash; "
+             "Bāhiya's own stated aim, identical in wording to "
+             "SN 47.3's own unnamed mendicant"),
+        ("ādimeva visodhehi kusalesu dhammesu", "&ldquo;you should "
+             "purify the starting point of skillful qualities&rdquo; "
+             "&mdash; the Buddha's own teaching, worded identically "
+             "to SN 47.3's own equivalent line"),
+        ("sīlañca suvisuddhaṁ, diṭṭhi ca ujukā", "&ldquo;well "
+             "purified ethics and correct view&rdquo; &mdash; the "
+             "named starting point itself, shared with SN 47.3"),
+        ("sīlaṁ nissāya sīle patiṭṭhāya", "&ldquo;depending on and "
+             "grounded on ethics&rdquo; &mdash; the qualification "
+             "attached to the fourfold practice, here without "
+             "SN 47.3's own added threefold dimension"),
+        ("aññataro ca pana āyasmā bāhiyo arahataṁ ahosi", "&ldquo;"
+             "Venerable Bāhiya became one of the perfected&rdquo; "
+             "&mdash; the discourse's own closing confirmation, "
+             "worded identically to SN 47.3's own closing line"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; Bāhiya's own request and its answer",
+             "sn47.15:1.1-1.7"),
+        ("p", "&sect;2 &mdash; the fourfold formula",
+             "sn47.15:2.1-2.6"),
+        ("p", "&sect;3 &mdash; departure and attainment",
+             "sn47.15:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha's response to Bāhiya's request differ from his response to the mendicant at SN 47.3?",
+         "opts": ["He grants it immediately, without the earlier rebuff about \"futile people\" who ask only to keep following him around", "He refuses to teach Bāhiya at all", "He gives a completely different teaching unrelated to mindfulness", "He asks Bāhiya to wait several years first"],
+         "correct": 0,
+         "expl": "A genuine difference between the two discourses, reported honestly rather than assumed identical."},
+        {"q": "How does this discourse's own fourfold formula differ from SN 47.3's own version?",
+         "opts": ["It gives only the plain fourfold practice, without SN 47.3's own added internal/external/both dimension", "It adds a fifth object of observation", "It removes ethics as a prerequisite entirely", "It requires twenty-four separate observations instead of four"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a simpler formula than SN 47.3's own twelve-observation version."},
+        {"q": "What happens to Bāhiya after he takes up this practice?",
+         "opts": ["He swiftly realizes the supreme end of the spiritual path and becomes one of the perfected (an arahant)", "He returns to lay life", "He becomes a teacher of a rival tradition", "The discourse does not say what happens to him"],
+         "correct": 0,
+         "expl": "Worded identically to SN 47.3's own closing attainment narrative, differing only in the mendicant's name."},
+    ],
+    marginalia=[
+        ("The same request, a different answer", [
+            "no rebuff this time, no test of sincerity —",
+            "the identical wording, granted immediately"
+        ]),
+        ("Ethics as the starting point, once more", [
+            "well purified conduct and correct view —",
+            "worded identically to SN 47.3's own teaching"
+        ]),
+        ("A simpler formula this time", [
+            "no internal, external, or both together —",
+            "the plain fourfold practice alone"
+        ]),
+        ("The same swift path to arahantship", [
+            "\"alone, withdrawn, diligent, keen, resolute\" —",
+            "identical wording, a different name"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.15/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.14.html\">SN 47.14 &middot; At Ukkacelā</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-47.3.html\">SN 47.3 &middot; A Monk</a> "
+        "&mdash; this project's own earlier treatment of the "
+        "identical request and teaching, given there with an initial "
+        "rebuff and a threefold internal/external dimension this "
+        "discourse omits.",
+    ],
+)
