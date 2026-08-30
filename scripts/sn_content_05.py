@@ -38689,3 +38689,145 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.36 — Paṭhamavibhaṅgasutta
+# A new discourse type in this vagga: precise definitions for each of
+# the five feeling faculties, confirming this project's own earlier
+# observation at SN 48.31 (a physical/mental/neither split) directly
+# from this discourse's own text. Marked "(1st)," signaling a paired
+# continuation.
+# --------------------------------------------------------------------------- #
+page(
+    48, 36, "Paṭhamavibhaṅga", "Analysis (1st)",
+    vagga="Sukhindriyavagga",
+    meta_title="SN 48.36 — Analysis (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamavibhaṅgasutta — precise definitions for each of "
+        "the five feeling faculties, confirming a physical/mental/"
+        "neither split directly from the source. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A question-and-answer definition for each of the "
+                 "five faculties in turn"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; a new discourse type in this vagga, "
+                         "directly confirming this project's own "
+                         "earlier observation about how the five "
+                         "feeling faculties divide"),
+    ],
+    why=(
+        "This discourse introduces a new form to this vagga: rather "
+        "than a bare list or a defining criterion for a disciple's "
+        "attainment, it precisely defines each of the five feeling "
+        "faculties in turn &mdash; confirming directly, from this "
+        "discourse's own text, the physical/mental/neither split "
+        "this project's own SN 48.31 had only observed from the bare "
+        "listing."
+    ),
+    guide=[
+        ("A new discourse type: precise, faculty-by-faculty definitions", [
+            "Confirmed by direct reading, this discourse departs "
+            "from every earlier discourse in this vagga by directly "
+            "defining each of the five feeling faculties in a "
+            "question-and-answer form (&ldquo;And what is the "
+            "faculty of pleasure? &hellip; This is called the "
+            "faculty of pleasure&rdquo;), rather than merely naming "
+            "them or judging a disciple's understanding of them.",
+        ]),
+        ("The physical/mental/neither split, now confirmed directly", [
+            "Confirmed by direct reading, this discourse's own "
+            "definitions validate exactly what this project's own SN "
+            "48.31 could only infer from the bare list: sukhindriya "
+            "and dukkhindriya are defined as pleasant and painful "
+            "feeling &ldquo;born from BODILY contact&rdquo; "
+            "(kāyasamphassajaṁ); somanassindriya and domanassindriya "
+            "as pleasant and painful feeling &ldquo;born from MIND "
+            "contact&rdquo; (manosamphassajaṁ); and upekkhindriya as "
+            "neither pleasant nor painful, whether physical or "
+            "mental.",
+        ]),
+        ("Marked \"(1st)\", signaling an unread continuation", [
+            "This project's own honest observation: this "
+            "discourse's own title, &ldquo;Analysis (1st),&rdquo; "
+            "matches the same &ldquo;paṭhama&rdquo; marking pattern "
+            "already met at SN 48.29 and SN 48.34, signaling a "
+            "paired &ldquo;(2nd)&rdquo; discourse to follow. This "
+            "project will read it fresh rather than assume its own "
+            "content in advance.",
+        ]),
+    ],
+    terms=[
+        ("Paṭhamavibhaṅgasutta", "&ldquo;the first analysis "
+             "discourse&rdquo; &mdash; this discourse's own Pāli "
+             "title, marking a new definitional form for this vagga"),
+        ("kāyasamphassajaṁ sukhaṁ sātaṁ vedayitaṁ", "&ldquo;the "
+             "enjoyable, pleasant feeling born from bodily "
+             "contact&rdquo; &mdash; the precise definition of "
+             "sukhindriya, the pleasure faculty"),
+        ("manosamphassajaṁ sukhaṁ sātaṁ vedayitaṁ", "&ldquo;the "
+             "enjoyable, pleasant feeling born from mind contact"
+             "&rdquo; &mdash; the precise definition of "
+             "somanassindriya, the happiness faculty"),
+        ("nevasātaṁ nāsātaṁ vedayitaṁ", "&ldquo;neither pleasant "
+             "nor unpleasant feeling&rdquo; &mdash; the precise "
+             "definition of upekkhindriya, the equanimity faculty, "
+             "whether physical or mental"),
+        ("Chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's sixth "
+             "discourse, still without a vagga-closing formula"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.36:1.1-6.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own form differ from the earlier discourses in this vagga?",
+         "opts": ["It precisely defines each of the five feeling faculties in a question-and-answer form, rather than merely naming or judging them", "It abandons the five feeling faculties for the six sense faculties", "It repeats SN 48.31's own bare list without any elaboration", "It denies that the five feeling faculties can be defined at all"],
+         "correct": 0,
+         "expl": "A new discourse type in this vagga, directly defining each faculty in turn."},
+        {"q": "What does this discourse's own definition confirm about sukhindriya and somanassindriya?",
+         "opts": ["Sukhindriya is bodily feeling; somanassindriya is mental feeling — a physical/mental split", "Both are identical mental faculties with no distinction", "Sukhindriya is mental; somanassindriya is bodily", "Neither faculty involves feeling at all"],
+         "correct": 0,
+         "expl": "Confirming directly what this project's own SN 48.31 could only infer from the bare list."},
+        {"q": "What does this discourse's own title signal, following the same pattern as SN 48.29 and SN 48.34?",
+         "opts": ["A paired \"(2nd)\" discourse to follow, which this project will read fresh rather than assume", "That this is the vagga's own final discourse", "That the five feeling faculties are now replaced entirely", "Nothing — the title carries no such signal"],
+         "correct": 0,
+         "expl": "Consistent with this project's own established practice of confirming rather than assuming."},
+    ],
+    marginalia=[
+        ("A new kind of discourse", [
+            "not a list, not a judgment now —",
+            "but a precise definition, faculty by faculty"
+        ]),
+        ("Body and mind, confirmed directly", [
+            "born from bodily contact, born from mind —",
+            "the split this project had only inferred before"
+        ]),
+        ("Neither pleasant nor painful", [
+            "whether physical or mental, it makes no difference —",
+            "equanimity defined by what it excludes"
+        ]),
+        ("Marked \"first\" once more", [
+            "paṭhama — a second still expected —",
+            "its own content not yet guessed at"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.36/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.35.html\">SN 48.35 &middot; Ascetics and "
+        "Brahmins (2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
