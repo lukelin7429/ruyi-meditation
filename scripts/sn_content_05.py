@@ -38975,3 +38975,149 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.38 — Tatiyavibhaṅgasutta
+# Completes a natural trilogy of "Analysis" discourses: SN 48.36 gave
+# the bare five definitions; SN 48.37 added the threefold
+# consolidation; this discourse adds one further closing sentence,
+# making explicit what SN 48.37 only implicitly demonstrated — the
+# five faculties, "depending on how they're explained," become three,
+# and the three become five.
+# --------------------------------------------------------------------------- #
+page(
+    48, 38, "Tatiyavibhaṅga", "Analysis (3rd)",
+    vagga="Sukhindriyavagga",
+    meta_title="SN 48.38 — Analysis (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyavibhaṅgasutta — completing a trilogy of analysis "
+        "discourses with an explicit statement that the five feeling "
+        "faculties become three, and the three become five, "
+        "depending on how they're explained. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical structure of SN 48.37, closing with "
+                 "one further explicit sentence"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; completes a natural trilogy with SN "
+                         "48.36-37, making explicit the reversible "
+                         "five-to-three, three-to-five relationship "
+                         "SN 48.37 only demonstrated"),
+    ],
+    why=(
+        "This discourse completes a natural trilogy with this "
+        "project's own SN 48.36 and SN 48.37: identical five faculty "
+        "definitions, identical threefold consolidation, but closing "
+        "with one further explicit sentence &mdash; &ldquo;these "
+        "five faculties, depending on how they're explained, having "
+        "been five become three, and having been three become "
+        "five&rdquo; &mdash; naming outright the reversible "
+        "relationship the previous two discourses only demonstrated."
+    ),
+    guide=[
+        ("Completing a trilogy: bare, consolidated, explained", [
+            "This project's own observation across all three "
+            "discourses: SN 48.36 gave the bare five definitions "
+            "alone; SN 48.37 added the threefold consolidation "
+            "without comment; this discourse adds the explicit "
+            "closing statement naming the relationship between them "
+            "&mdash; each discourse building one further step on the "
+            "one before it, confirmed by direct comparison of all "
+            "three texts.",
+        ]),
+        ("A relationship named explicitly: pariyāyena", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing sentence uses the word &ldquo;pariyāyena&rdquo; "
+            "(&ldquo;depending on how they're explained,&rdquo; "
+            "&ldquo;by way of a specific teaching method&rdquo;) to "
+            "frame the five-faculty and three-feeling schemes not as "
+            "two competing accounts but as the SAME five faculties, "
+            "presented through two different explanatory methods "
+            "&mdash; five when analyzed one way, three when "
+            "consolidated another way.",
+        ]),
+        ("A deliberate closing device for this vagga's own trilogy", [
+            "This project's own honest observation: with this "
+            "discourse's own explicit meta-statement, the "
+            "Analysis-trilogy (SN 48.36-38) reads as a deliberately "
+            "graduated teaching device &mdash; first stating the "
+            "parts, then showing how they group, then naming the "
+            "principle behind the grouping itself.",
+        ]),
+    ],
+    terms=[
+        ("Tatiyavibhaṅgasutta", "&ldquo;the third analysis "
+             "discourse&rdquo; &mdash; completing the trilogy begun "
+             "at SN 48.36"),
+        ("pariyāyena", "&ldquo;depending on how they're explained,"
+             "&rdquo; &ldquo;by way of a specific teaching method"
+             "&rdquo; &mdash; the key word framing the five-to-three "
+             "relationship as a matter of presentation, not two "
+             "separate realities"),
+        ("pañca hutvā tīṇi honti", "&ldquo;having been five, become "
+             "three&rdquo; &mdash; the first half of this "
+             "discourse's own closing statement"),
+        ("tīṇi hutvā pañca honti", "&ldquo;having been three, become "
+             "five&rdquo; &mdash; the reverse direction, completing "
+             "the reversible relationship"),
+        ("Aṭṭhamaṁ", "&ldquo;the eighth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's eighth "
+             "discourse, still without a vagga-closing formula"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1-6 &mdash; the five faculty definitions, "
+              "identical to SN 48.36-37", "sn48.38:1.1-6.3"),
+        ("p", "&sect;7 &mdash; the threefold consolidation and the "
+              "closing meta-statement", "sn48.38:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse complete the trilogy begun at SN 48.36?",
+         "opts": ["It adds an explicit closing statement naming the reversible five-to-three, three-to-five relationship", "It abandons the five faculties entirely for a new set", "It contradicts SN 48.37's own threefold consolidation", "It denies that the faculties can be grouped at all"],
+         "correct": 0,
+         "expl": "Naming outright what SN 48.37 only demonstrated without comment."},
+        {"q": "What does the word \"pariyāyena\" frame the five-faculty and three-feeling schemes as?",
+         "opts": ["The same territory presented through two different explanatory methods, not two competing realities", "Two entirely separate and unrelated teachings", "A contradiction the Buddha later resolved", "A mistake in an earlier discourse now corrected"],
+         "correct": 0,
+         "expl": "Five when analyzed one way, three when consolidated another way — the same faculties, different resolutions."},
+        {"q": "How does this project's own reading guide characterize the Analysis trilogy (SN 48.36-38) as a whole?",
+         "opts": ["A deliberately graduated teaching device — first the parts, then the grouping, then the principle behind the grouping", "Three unrelated discourses placed together by accident", "A single discourse mistakenly split into three by the compilers", "Evidence that the five faculties do not actually exist"],
+         "correct": 0,
+         "expl": "Each discourse builds one further step on the one before it."},
+    ],
+    marginalia=[
+        ("The trilogy's own final step", [
+            "parts, then grouping, then the principle named —",
+            "three discourses, one graduated teaching"
+        ]),
+        ("Five becomes three, three becomes five", [
+            "not two truths in tension —",
+            "one territory, explained two ways"
+        ]),
+        ("Pariyāyena — a matter of method", [
+            "how it's explained, not what it is —",
+            "the key word framing both readings as one"
+        ]),
+        ("Eighth discourse, Aṭṭhamaṁ", [
+            "closing a trilogy, not yet the vagga —",
+            "more of Sukhindriyavagga still ahead"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.38/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.37.html\">SN 48.37 &middot; Analysis "
+        "(2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
