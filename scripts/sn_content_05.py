@@ -29648,3 +29648,146 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.28 — Lokasutta
+# Confirmed by direct reading: this discourse continues directly from
+# SN 47.26-27's own scene ("the same setting"), with Sāriputta now
+# asking Anuruddha a personal, first-person question rather than a
+# question of definition.
+# --------------------------------------------------------------------------- #
+page(
+    47, 28, "Loka", "The World",
+    vagga="Sīlaṭṭhitivagga",
+    meta_title="SN 47.28 — The World | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Lokasutta — continuing directly from SN 47.26-27, "
+        "Sāriputta asks Anuruddha what he personally developed to "
+        "attain great direct knowledge, and Anuruddha testifies: the "
+        "four kinds of mindfulness meditation, through which he "
+        "directly knows the thousandfold galaxy. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "The Thorny Wood, near Sāketa &mdash; the "
+                     "identical scene as SN 47.26-27"),
+        ("Speakers", "Venerables Sāriputta and Anuruddha"),
+        ("Form", "A personal, first-person testimony, distinct from "
+                 "the definitional questions of SN 47.26-27"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; Anuruddha's own first-person "
+                         "testimony of a canonically celebrated "
+                         "attainment"),
+    ],
+    why=(
+        "Continuing the same conversation as SN 47.26-27, Sāriputta "
+        "shifts from asking Anuruddha to define abstract terms to "
+        "asking him a direct, personal question: what did YOU "
+        "develop to attain great direct knowledge? Anuruddha's own "
+        "answer is a first-person testimony, naming the four kinds "
+        "of mindfulness meditation as the basis for an attainment "
+        "traditionally associated with him throughout the canon: "
+        "directly knowing the thousandfold galaxy."
+    ),
+    guide=[
+        ("A shift from definition to personal testimony", [
+            "Confirmed by direct reading, this discourse's own "
+            "question breaks from the pattern of SN 47.26-27 (which "
+            "asked Anuruddha to define abstract terms like "
+            "&ldquo;trainee&rdquo; and &ldquo;adept&rdquo;) to ask "
+            "instead about his own personal development: &ldquo;what "
+            "things have YOU developed and cultivated to attain great "
+            "direct knowledge?&rdquo;",
+        ]),
+        ("A first-person answer, not a general definition", [
+            "Anuruddha's own answer is confirmed by direct reading to "
+            "be given entirely in the first person &mdash; &ldquo;I "
+            "attained... I meditate... I directly know&rdquo; "
+            "&mdash; a personal testimony rather than the general, "
+            "third-person definitions given in the two preceding "
+            "discourses.",
+        ]),
+        ("The thousandfold galaxy, a specific and remarkable claim", [
+            "The discourse's own closing line makes a specific claim "
+            "confirmed by direct reading: through developing and "
+            "cultivating the four kinds of mindfulness meditation, "
+            "Anuruddha &ldquo;directly knows the thousandfold "
+            "galaxy&rdquo; (sahassaṁ lokaṁ) &mdash; an attainment "
+            "consistent with his own traditional renown throughout "
+            "this project's own broader collection as foremost among "
+            "the Buddha's disciples in clairvoyant vision.",
+        ]),
+    ],
+    terms=[
+        ("mahābhiññataṁ patto", "&ldquo;attained great direct "
+             "knowledge&rdquo; &mdash; the specific attainment "
+             "Sāriputta asks Anuruddha to explain"),
+        ("katamesaṁ dhammānaṁ bhāvitattā bahulīkatattā", "&ldquo;"
+             "what things developed and cultivated&rdquo; &mdash; "
+             "Sāriputta's own personal, first-person question"),
+        ("catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā",
+             "&ldquo;by developing and cultivating the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; Anuruddha's own "
+             "answer, given in the first person"),
+        ("sahassaṁ lokaṁ abhijānāmi", "&ldquo;I directly know the "
+             "thousandfold galaxy&rdquo; &mdash; Anuruddha's own "
+             "specific, remarkable claim closing the discourse"),
+        ("mahābhiñña", "&ldquo;great direct knowledge&rdquo; "
+             "&mdash; the broader category of attainment Anuruddha "
+             "traces to his own mindfulness practice"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; Sāriputta's own personal question",
+             "sn47.28:1.1-1.4"),
+        ("p", "&sect;2 &mdash; Anuruddha's own testimony",
+             "sn47.28:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own question differ from SN 47.26-27's own questions?",
+         "opts": ["It asks Anuruddha a personal, first-person question about his own development, rather than asking him to define an abstract term", "It asks about a completely unrelated topic", "It is addressed to the Buddha rather than Anuruddha", "It repeats the exact same question as SN 47.26"],
+         "correct": 0,
+         "expl": "A shift from general definition to Anuruddha's own personal testimony."},
+        {"q": "What does Anuruddha say he attained by developing the four kinds of mindfulness meditation?",
+         "opts": ["Great direct knowledge, including direct knowledge of the thousandfold galaxy", "Physical strength and longevity", "Mastery of a foreign language", "Wealth and social status"],
+         "correct": 0,
+         "expl": "A specific, remarkable claim consistent with Anuruddha's own traditional renown for clairvoyant vision."},
+        {"q": "In what grammatical person is Anuruddha's own answer given?",
+         "opts": ["First person — \"I attained... I meditate... I directly know\"", "Third person, describing someone else entirely", "Second person, addressed to the reader", "The answer uses no personal pronouns at all"],
+         "correct": 0,
+         "expl": "A personal testimony, distinct from the general definitions given in the two preceding discourses."},
+    ],
+    marginalia=[
+        ("A question turns personal", [
+            "\"what things have YOU developed?\" —",
+            "no longer asking for a general definition"
+        ]),
+        ("\"I attained... I meditate... I directly know\"", [
+            "a first-person testimony, not an abstract answer —",
+            "Anuruddha speaking of his own own practice"
+        ]),
+        ("The thousandfold galaxy, directly known", [
+            "a remarkable, specific claim —",
+            "consistent with Anuruddha's own traditional renown"
+        ]),
+        ("The same mindfulness formula, a personal fruit", [
+            "the identical four objects, once more —",
+            "this time yielding a named, specific attainment"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.28/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.27.html\">SN 47.27 &middot; Completely</a> "
+        "&mdash; the previous discourse, the same conversation "
+        "continued here.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
