@@ -26325,3 +26325,150 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.6 — Sakuṇagghisutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 6, "Sakuṇagghi", "A Hawk",
+    vagga="Ambapālivagga",
+    meta_title="SN 47.6 — A Hawk | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sakuṇagghisutta — a quail, seized by a hawk, escapes by "
+        "luring the hawk into a fatal collision on her own home "
+        "ground, illustrating the five kinds of sensual stimulation "
+        "as \"the domain of others\" and the four kinds of "
+        "mindfulness meditation as a mendicant's own territory. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, telling a fable to the mendicants"),
+        ("Form", "A complete animal fable, followed by its own "
+                 "explicit doctrinal application"),
+        ("Length", "2-3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "an accessible fable with a direct application"),
+    ],
+    why=(
+        "A quail, seized by a hawk after wandering beyond her own "
+        "home ground, lures the overconfident hawk back to a "
+        "ploughed field &mdash; her own territory &mdash; where the "
+        "hawk, diving after her, crashes chest-first into a clod of "
+        "earth. The Buddha applies this directly: the five kinds of "
+        "sensual stimulation are &ldquo;the domain of others,&rdquo; "
+        "where Māra can find an opening, while the four kinds of "
+        "mindfulness meditation are a mendicant's own territory, "
+        "where Māra cannot."
+    ),
+    guide=[
+        ("A fable told in full, then explained", [
+            "Confirmed by direct reading, the Buddha tells the "
+            "complete story of the quail and hawk &mdash; including "
+            "the quail's own taunt (&ldquo;come get me, "
+            "hawk!&rdquo;) and the hawk's own fatal overconfidence "
+            "&mdash; before drawing out its lesson explicitly, rather "
+            "than leaving the application to the listener's own "
+            "inference.",
+        ]),
+        ("\"The domain of others\" -- the five kinds of sensual stimulation", [
+            "The discourse names, in full, the five kinds of sensual "
+            "stimulation (sights, sounds, smells, tastes, and touches "
+            "that are &ldquo;likable, desirable, agreeable, pleasant, "
+            "sensual, and arousing&rdquo;) as &ldquo;not a mendicant's "
+            "own territory but the domain of others&rdquo; &mdash; "
+            "the space where, like the quail beyond her own ground, "
+            "&ldquo;Māra will find a vulnerability and get an "
+            "opportunity.&rdquo;",
+        ]),
+        ("\"A mendicant's own territory\" -- the four kinds of mindfulness meditation", [
+            "By contrast, the four kinds of mindfulness meditation "
+            "are named &ldquo;a mendicant's own territory, the domain "
+            "of the fathers&rdquo; &mdash; ground on which, like the "
+            "quail's own ploughed field, Māra &ldquo;won't find a "
+            "vulnerability or get an opportunity,&rdquo; confirming "
+            "this discourse's own central image: safety lies not in "
+            "avoiding contact with the world but in staying on one's "
+            "own proper ground.",
+        ]),
+    ],
+    terms=[
+        ("agocare carati paravisaye", "&ldquo;roams out of his own "
+             "territory into the domain of others&rdquo; &mdash; the "
+             "quail's own fatal error, later applied to a mendicant "
+             "straying into sensual stimulation"),
+        ("lacchati māro otāraṁ, lacchati māro ārammaṇaṁ", "&ldquo;"
+             "Māra will find a vulnerability and get an "
+             "opportunity&rdquo; &mdash; the consequence of straying "
+             "from one's own proper ground"),
+        ("pañca kāmaguṇā", "&ldquo;the five kinds of sensual "
+             "stimulation&rdquo; &mdash; sights, sounds, smells, "
+             "tastes, and touches that are &ldquo;likable, desirable, "
+             "agreeable, pleasant, sensual, and arousing&rdquo;, named "
+             "as &ldquo;the domain of others&rdquo;"),
+        ("sako pettiko visayo", "&ldquo;one's own territory, the "
+             "domain of the fathers&rdquo; &mdash; the quail's own "
+             "ploughed field, and by application, the four kinds of "
+             "mindfulness meditation"),
+        ("gocare caratha", "&ldquo;you should roam inside your own "
+             "territory&rdquo; &mdash; the discourse's own direct "
+             "instruction, drawing the fable's lesson into an "
+             "imperative"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the quail is seized", "sn47.6:1.1-1.8"),
+        ("p", "&sect;2 &mdash; the quail's own escape",
+             "sn47.6:2.1-2.6"),
+        ("p", "&sect;3 &mdash; \"the domain of others\": the five "
+              "kinds of sensual stimulation", "sn47.6:3.1-3.11"),
+        ("p", "&sect;4 &mdash; \"a mendicant's own territory\": the "
+              "four kinds of mindfulness meditation",
+             "sn47.6:4.1-4.11"),
+    ],
+    quiz=[
+        {"q": "How does the quail escape the hawk in this discourse's own fable?",
+         "opts": ["By luring the overconfident hawk back to her own ploughed field, where the diving hawk crashes chest-first into a clod of earth", "By flying faster than the hawk", "By calling other birds to help her fight", "By hiding underground permanently"],
+         "correct": 0,
+         "expl": "The quail's own home ground, where the hawk's advantage disappears."},
+        {"q": "What does this discourse name as \"the domain of others,\" where Māra can find an opportunity?",
+         "opts": ["The five kinds of sensual stimulation: pleasing sights, sounds, smells, tastes, and touches", "The four kinds of mindfulness meditation", "Any location outside a monastery", "The company of other mendicants"],
+         "correct": 0,
+         "expl": "Applying the fable's lesson: territory beyond one's own proper ground, where vulnerability opens."},
+        {"q": "What does this discourse name as \"a mendicant's own territory,\" where Māra cannot find an opportunity?",
+         "opts": ["The four kinds of mindfulness meditation", "The five kinds of sensual stimulation", "Physical isolation in a forest", "Advanced philosophical study"],
+         "correct": 0,
+         "expl": "The mendicant's own proper ground, corresponding to the quail's own ploughed field in the fable."},
+    ],
+    marginalia=[
+        ("\"Come get me, hawk!\"", [
+            "the quail's own taunt, on her own ground —",
+            "confidence that costs the hawk everything"
+        ]),
+        ("A fatal collision with a clod of earth", [
+            "overconfidence meets unfamiliar territory —",
+            "the hawk's own strength turned against her"
+        ]),
+        ("Sensual stimulation as \"the domain of others\"", [
+            "sights, sounds, smells, tastes, and touches —",
+            "ground where Māra finds an opening"
+        ]),
+        ("Mindfulness as one's own proper ground", [
+            "\"the domain of the fathers,\" reclaimed —",
+            "safety not in avoidance but in staying home"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.5.html\">SN 47.5 &middot; A Heap of the "
+        "Unskillful</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
