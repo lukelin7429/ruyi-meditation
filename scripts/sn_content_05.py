@@ -44432,3 +44432,171 @@ page_range(
         "there to the eightfold path.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.115-124 — Oghādisutta (merged peyyāla range, partial content
+# + cross-reference)
+# Vagga 12, confirmed by direct bilara-data reading to differ from
+# the three immediately preceding vaggas: rather than a bare
+# cross-reference instruction alone, this file quotes its OWN tenth
+# and final discourse in full -- the five higher fetters
+# (uddhambhāgiyāni saṁyojanāni) -- matching this project's own
+# already-completed SN 45.180 ("Higher Fetters"), before instructing
+# readers to "tell in full as in the Linked Discourses on the Path,
+# SN 45.171-179, with the above as the final discourse" for the
+# remaining nine topics.
+# --------------------------------------------------------------------------- #
+page_range(
+    48, 115, 124, "Oghādi", "Floods, Etc.",
+    vagga="Oghavagga",
+    meta_title="SN 48.115–124 — Floods, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 48.115–124 — the five higher fetters given in full, with "
+        "nine further topics cross-referenced to this project's own "
+        "already-completed Oghavagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this book's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "One discourse given in full (the tenth, closing "
+                 "the vagga), plus a cross-reference instruction for "
+                 "the remaining nine"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; breaks the three-vagga bare "
+                         "cross-reference pattern, keeping this "
+                         "vagga's own final discourse in full"),
+    ],
+    why=(
+        "Unlike the three immediately preceding vaggas (Appamādavagga, "
+        "Balakaraṇīyavagga, Esanāvagga), each a bare cross-reference "
+        "with no content of its own, this file breaks that pattern "
+        "by quoting its own tenth and final discourse in full: the "
+        "five higher fetters, developed for the direct knowledge, "
+        "complete understanding, finishing, and giving up of desire "
+        "for the realms of form and formlessness, conceit, "
+        "restlessness, and ignorance. Only the remaining nine topics "
+        "are cross-referenced."
+    ),
+    guide=[
+        ("A pattern broken: one discourse kept in full", [
+            "Confirmed by direct reading, this file's own structure "
+            "differs from its own three immediate predecessors: "
+            "rather than compressing every discourse into a bare "
+            "instruction, it quotes its own final (tenth) discourse "
+            "&mdash; the five higher fetters &mdash; in full, "
+            "matching this project's own already-completed SN 45.180 "
+            "(&ldquo;Higher Fetters&rdquo;) almost word for word, "
+            "before instructing readers to &ldquo;tell in full as in "
+            "the Linked Discourses on the Path, SN 45.171&ndash;179, "
+            "with the above as the final discourse&rdquo; for the "
+            "remaining nine.",
+        ]),
+        ("The five higher fetters, kept in full", [
+            "As general canonical background, confirmed directly by "
+            "this discourse's own text: the five "
+            "&ldquo;uddhambhāgiyāni saṁyojanāni&rdquo; (higher "
+            "fetters) are desire for rebirth in the realm of "
+            "luminous form, desire for rebirth in the formless "
+            "realm, conceit, restlessness, and ignorance &mdash; the "
+            "subtler fetters an arahant alone has fully abandoned, "
+            "distinct from the five lower fetters already resolved "
+            "by a non-returner.",
+        ]),
+        ("Nine further topics, confirmed by this file's own uddāna", [
+            "As general canonical background, already confirmed at "
+            "this project's own earlier treatment of SN 45.171-179: "
+            "the remaining nine topics are floods (ogha), yokes "
+            "(yoga), grasping (upādāna), personal ties (gantha), "
+            "underlying tendencies (anusaya), kinds of sensual "
+            "stimulation (kāmaguṇa), hindrances (nīvaraṇa), the "
+            "aggregates (khandha), and the lower fetters "
+            "(orambhāgiya) &mdash; each developed for the same five "
+            "faculties' own sake, now applied here rather than to "
+            "the eightfold path.",
+        ]),
+    ],
+    terms=[
+        ("uddhambhāgiyāni saṁyojanāni", "&ldquo;the higher "
+             "fetters&rdquo; &mdash; rūparāgo, arūparāgo, māno, "
+             "uddhaccaṁ, avijjā (desire for form-realm rebirth, "
+             "desire for formless-realm rebirth, conceit, "
+             "restlessness, ignorance)"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "&ldquo;for "
+             "the direct knowledge, complete understanding, "
+             "finishing, and giving up&rdquo; &mdash; the fourfold "
+             "purpose for which the five faculties are here "
+             "developed"),
+        ("yathā maggasaṁyuttaṁ, tathā vitthāretabbaṁ", "&ldquo;tell "
+             "in full as in the Linked Discourses on the Path, with "
+             "the above as the final discourse&rdquo; &mdash; this "
+             "file's own cross-reference instruction, covering only "
+             "the remaining nine topics"),
+        ("ogho yogo upādānaṁ, ganthā anusayena ca", "&ldquo;floods, "
+             "yokes, grasping, ties, and underlying tendencies&rdquo; "
+             "&mdash; the closing uddāna's own opening line, naming "
+             "the first five of the nine cross-referenced topics"),
+        ("kāmaguṇā nīvaraṇā, khandhā oruddhambhāgiyā", "&ldquo;kinds "
+             "of sensual stimulation, hindrances, aggregates, and "
+             "fetters high and low&rdquo; &mdash; the uddāna's "
+             "remaining topics, completing the count of ten"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source: the full closing discourse on the "
+        "higher fetters, the cross-reference instruction, and the "
+        "closing uddāna. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.115-124:1.1-1.8"),
+        ("p", "Cross-reference", "sn48.115-124:1.10"),
+        ("p", "Uddāna", "sn48.115-124:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this file's own structure differ from the three immediately preceding vaggas?",
+         "opts": ["It quotes its own final (tenth) discourse in full, cross-referencing only the remaining nine topics", "It is a bare cross-reference with no content of its own, exactly like its three predecessors", "It contains entirely new content unrelated to any earlier vagga", "It applies to the eightfold path rather than the five faculties"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a pattern break, not a fourth identical bare cross-reference."},
+        {"q": "What are the five higher fetters, as directly confirmed by this discourse's own text?",
+         "opts": ["Desire for rebirth in the realm of form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance", "The same five as the five lower fetters", "Greed, hatred, delusion, pride, and doubt", "A synonym for the five faculties themselves"],
+         "correct": 0,
+         "expl": "The subtler fetters an arahant alone has fully abandoned."},
+        {"q": "What does the cross-reference instruction cover, and what does it explicitly exclude?",
+         "opts": ["It covers the remaining nine topics from SN 45.171-179, explicitly excluding the higher-fetters discourse already given in full above", "It covers all ten topics with no exclusions", "It covers only the five faculties themselves", "It points to a saṃyutta this project has not yet worked on"],
+         "correct": 0,
+         "expl": "\"With the above as the final discourse\" — the higher fetters are kept in full, not re-cross-referenced."},
+    ],
+    marginalia=[
+        ("A pattern broken, one discourse kept whole", [
+            "three vaggas compressed to nothing —",
+            "this one keeps its own final page"
+        ]),
+        ("The subtler fetters, named in full", [
+            "form-realm desire, formless-realm desire, conceit —",
+            "restlessness and ignorance close the list"
+        ]),
+        ("Nine more, still cross-referenced", [
+            "floods, yokes, grasping, ties, and more —",
+            "the full content lives at SN 45.171"
+        ]),
+        ("Twelfth vagga, a genuine variation", [
+            "not every peyyāla vagga compresses alike —",
+            "each still confirmed by its own direct reading"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.115-124/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.105-114.html\">SN 48.105&ndash;114 &middot; "
+        "The Chapter on Searches</a> &mdash; the previous page, "
+        "closing the preceding vagga.",
+        "<a href=\"sn-45.180.html\">SN 45.180 &middot; Higher "
+        "Fetters</a> &mdash; this project's own earlier, individual "
+        "treatment of the identical closing discourse, applied there "
+        "to the eightfold path.",
+    ],
+)
