@@ -24379,3 +24379,303 @@ page_range(
         "path.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 13. Oghavagga — Floods (SN 46.121-130)
+# Confirmed by direct bilara-data reading: this vagga's own STRUCTURE
+# DIFFERS from the three preceding peyyāla vaggas in a way that could
+# not have been assumed from their own pattern. SN 46.121-129 (nine
+# discourses) is stored as a single merged file giving only the
+# opening base-formula example (the four floods: sensuality, desire
+# to be reborn, views, and ignorance) before an explicit source
+# instruction -- English: "(Tell in full as in SN 45.171-179)"; Pāli
+# root: ends simply at "vitthāretabbaṁ" with NO colophon or uddāna of
+# its own. But SN 46.130 -- the vagga's own TENTH discourse, on the
+# five higher fetters (Uddhambhāgiyasutta) -- is stored as its own
+# SEPARATE file and is written out COMPLETELY IN FULL, not
+# cross-referenced, ending with the vagga's own actual colophon
+# ("Oghavaggo terasamo," confirming this is the thirteenth vagga) and
+# its own closing uddāna. This exactly mirrors SN 45's own structure,
+# where SN 45.171-179 are the nine floods-cycle discourses and
+# SN 45.180 (also on the five higher fetters) is likewise written out
+# in full and closes both the vagga and (there) the saṃyutta itself.
+# Two separate pages are required here, not one: a cross-reference
+# stub for 121-129, and a fully independent page for 130.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 46.121-129 — Oghādisutta, Etc.
+# --------------------------------------------------------------------------- #
+page_range(
+    46, 121, 129, "Oghādi", "Floods, Etc.",
+    vagga="Oghavagga",
+    meta_title="SN 46.121–129 — Floods, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 46.121–129 — nine discourses on floods, yokes, and other "
+        "underlying forces, confirmed to mirror this project's own "
+        "already-completed Oghavagga from the Maggasaṃyutta, here "
+        "applied to the seven awakening factors. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Nine discourses compressed into a single "
+                 "bilara-data file, giving one explicit example "
+                 "before an explicit cross-reference instruction"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in its own written form, but "
+                       "structurally confirmed to represent nine "
+                       "discourses"),
+    ],
+    why=(
+        "The four floods &mdash; of sensuality, desire to be reborn, "
+        "views, and ignorance &mdash; open a nine-discourse cycle "
+        "confirmed by direct reading to be the FIRST nine of this "
+        "vagga's own ten discourses, cross-referencing the identical "
+        "cycle already met at SN 45.171 in this book's own "
+        "Maggasaṃyutta &mdash; with the vagga's own TENTH discourse "
+        "(on the five higher fetters) reserved for its own separate, "
+        "fully written-out page."
+    ),
+    guide=[
+        ("A direct cross-reference, not independent content", [
+            "Confirmed by direct reading, the source itself instructs "
+            "readers to &ldquo;tell in full as in SN 45.171&ndash;"
+            "179&rdquo; &mdash; this project's own already-completed "
+            "opening cycle of the Oghavagga from the Maggasaṃyutta "
+            "&mdash; rather than rewriting the full topic-by-topic "
+            "content again. Confirmed to cover exactly nine "
+            "discourses (floods, yokes, attachments, ties, "
+            "tendencies, sensual pleasures, hindrances, and "
+            "aggregates), not the vagga's own full ten.",
+        ]),
+        ("No colophon or uddāna of its own -- unlike the preceding three vaggas", [
+            "Confirmed by direct reading, this merged file ends "
+            "simply at the elaboration instruction, with none of the "
+            "colophon or closing uddāna that closed the three "
+            "preceding peyyāla vaggas (Appamādavagga, "
+            "Balakaraṇīyavagga, Esanāvagga). This vagga's own "
+            "colophon and uddāna appear instead at the end of its "
+            "own TENTH discourse (SN 46.130), confirmed by direct "
+            "reading rather than assumed from the previous three "
+            "vaggas' own pattern.",
+        ]),
+    ],
+    terms=[
+        ("cattāro oghā: kāmogho, bhavogho, diṭṭhogho, avijjogho",
+             "&ldquo;four floods: of sensuality, desire to be reborn, "
+             "views, and ignorance&rdquo; &mdash; the identical "
+             "opening list already met at SN 45.171, this book's own "
+             "recurring fourfold flood"),
+        ("vitthāretabbaṁ", "&ldquo;to be elaborated in full&rdquo; "
+             "&mdash; the source's own explicit cross-reference "
+             "instruction, pointing to SN 45.171-179 rather than "
+             "repeating that content"),
+        ("oghavaggo", "&ldquo;the Floods chapter&rdquo; &mdash; this "
+             "vagga's own name, confirmed by its own tenth discourse "
+             "(SN 46.130) to be the thirteenth vagga of this "
+             "saṃyutta"),
+        ("nava suttā, dasamaṁ visuṁ", "&ldquo;nine discourses, the "
+             "tenth separate&rdquo; &mdash; this reading guide's own "
+             "description (not a quoted phrase) of the structural "
+             "split confirmed between this page and SN 46.130"),
+        ("uddhambhāgiyasaṁyojana", "&ldquo;the higher "
+             "fetters&rdquo; &mdash; the distinct topic of this "
+             "vagga's own tenth discourse, written out in full on "
+             "its own separate page rather than cross-referenced "
+             "here"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.121-129:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the source itself instruct, rather than rewriting the full topic-by-topic content?",
+         "opts": ["To tell the discourse in full as in SN 45.171–179, this project's own already-completed cycle", "To skip this vagga entirely", "To invent a completely new topic unrelated to floods", "To translate the text into a different language"],
+         "correct": 0,
+         "expl": "A direct cross-reference to this project's own already-completed opening cycle of the Oghavagga."},
+        {"q": "How does this page's own structure differ from the three preceding peyyāla vaggas?",
+         "opts": ["It has no colophon or uddāna of its own — those appear instead at the end of the vagga's own separate tenth discourse (SN 46.130)", "It has an identical colophon to the preceding three vaggas", "It has two separate colophons", "It has no cross-reference instruction at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading, not assumed from the previous three vaggas' own pattern."},
+        {"q": "How many discourses does this page's own cross-reference cover, out of the vagga's own total of ten?",
+         "opts": ["Nine — the tenth (on the higher fetters) is reserved for its own separate, fully written-out page", "All ten, with none held back", "Only one, with nine more still to come", "Five, split evenly with the next page"],
+         "correct": 0,
+         "expl": "SN 46.130 is written out completely in full rather than cross-referenced, exactly mirroring SN 45's own equivalent structure."},
+    ],
+    marginalia=[
+        ("A direct cross-reference, not rewritten content", [
+            "\"tell in full as in SN 45.171–179\" —",
+            "this project's own earlier work, confirmed reused"
+        ]),
+        ("Nine here, a tenth apart", [
+            "no colophon closes this merged file —",
+            "the vagga's own ending waits at SN 46.130"
+        ]),
+        ("The last peyyāla cycle in this stretch", [
+            "floods, yokes, ties, tendencies, hindrances —",
+            "cross-referenced once more to SN 45's own work"
+        ]),
+        ("A fully written discourse follows", [
+            "the five higher fetters, spelled out in full —",
+            "not elided, closing this vagga in its own right"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.121-129/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.111-120.html\">SN 46.111&ndash;120 &middot; "
+        "Searches, Etc.</a> &mdash; the previous page, closing the "
+        "preceding vagga.",
+        "<a href=\"sn-45.171.html\">SN 45.171 &middot; Floods</a> "
+        "&mdash; this project's own earlier treatment of the "
+        "identical floods cycle, applied there to the eightfold "
+        "path.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.130 — Uddhambhāgiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 130, "Uddhambhāgiya", "Higher Fetters",
+    vagga="Oghavagga",
+    meta_title="SN 46.130 — Higher Fetters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Uddhambhāgiyasutta — the five higher fetters, written "
+        "out completely in full to close the Oghavagga, with its own "
+        "colophon and uddāna, applied to the seven awakening "
+        "factors. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A complete discourse, written out in full rather "
+                 "than cross-referenced, closing the vagga with its "
+                 "own colophon and uddāna"),
+        ("Length", "1-2 minutes to read, plus a described (not "
+                   "translated) colophon and uddāna"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes this vagga's own ten discourses with a "
+                       "fully written-out final example"),
+    ],
+    why=(
+        "The five higher fetters &mdash; desire for rebirth in the "
+        "realm of luminous form, desire for rebirth in the formless "
+        "realm, conceit, restlessness, and ignorance &mdash; receive "
+        "a complete, independent treatment here rather than a "
+        "cross-reference, confirmed to close both this vagga and (in "
+        "SN 45's own parallel structure) an entire major cycle of "
+        "the Maggasaṃyutta as well."
+    ),
+    guide=[
+        ("Written out in full, not cross-referenced -- confirmed, not assumed", [
+            "Unlike the preceding nine discourses of this vagga "
+            "(SN 46.121-129), stored as a single cross-referencing "
+            "stub, this tenth discourse is confirmed by direct "
+            "reading to be written out completely in the source "
+            "itself, exactly mirroring SN 45's own equivalent "
+            "discourse (SN 45.180) on the identical five higher "
+            "fetters.",
+        ]),
+        ("A colophon and uddāna, closing this vagga's own ten discourses", [
+            "The Pāli root closes with &ldquo;Dasamaṁ&rdquo; "
+            "(&ldquo;the tenth&rdquo;) and &ldquo;Oghavaggo "
+            "terasamo&rdquo; (&ldquo;the Floods chapter, the "
+            "thirteenth&rdquo;), confirming this vagga's own position "
+            "within this saṃyutta's own count. The closing uddāna "
+            "names its own topics in order &mdash; floods, yoke, "
+            "grasping, ties, and tendency; sensual pleasures, "
+            "hindrances, aggregates, and higher fetters &mdash; "
+            "described here rather than forced into an exact "
+            "one-to-one English rendering the source itself does not "
+            "supply.",
+        ]),
+    ],
+    terms=[
+        ("pañca uddhambhāgiyāni saṁyojanāni", "&ldquo;five higher "
+             "fetters&rdquo; &mdash; desire for rebirth in the realm "
+             "of luminous form, desire for rebirth in the formless "
+             "realm, conceit, restlessness, and ignorance"),
+        ("rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā",
+             "&ldquo;desire for luminous form, desire for the "
+             "formless, conceit, restlessness, and ignorance&rdquo; "
+             "&mdash; the five fetters named in full"),
+        ("nibbānaninnaṁ nibbānapoṇaṁ nibbānapabbhāraṁ", "&ldquo;"
+             "slants, slopes, and inclines to extinguishment&rdquo; "
+             "&mdash; the familiar closing formula, applied here to "
+             "the removal of the five higher fetters"),
+        ("oghavaggo terasamo", "&ldquo;the Floods chapter, the "
+             "thirteenth&rdquo; &mdash; unambiguous confirmation of "
+             "this vagga's own position, matching this project's own "
+             "count without discrepancy"),
+        ("ogho yogo upādānaṁ, ganthā anusayena ca", "&ldquo;flood, "
+             "yoke, grasping, and tie, with tendency&rdquo; &mdash; "
+             "the closing uddāna's own opening line, listing several "
+             "of this vagga's own ten topics"),
+    ],
+    text_intro=("Every genuinely translated fragment of this "
+        "discourse, closing the Oghavagga. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the five higher fetters",
+             "sn46.130:1.1-1.5"),
+        ("p", "&sect;2 &mdash; developing the awakening factors "
+              "to give them up", "sn46.130:1.6-1.12"),
+    ],
+    quiz=[
+        {"q": "What makes this discourse different from the nine that precede it in this vagga?",
+         "opts": ["It is written out completely in full, rather than cross-referenced to another discourse", "It is shorter than all nine preceding discourses", "It introduces an entirely new set of awakening factors", "It has no connection to the rest of the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading to exactly mirror SN 45's own equivalent discourse, SN 45.180."},
+        {"q": "What are the five higher fetters named in this discourse?",
+         "opts": ["Desire for rebirth in the realm of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance", "Greed, hatred, delusion, pride, and doubt", "Sensuality, ill will, sloth, restlessness, and doubt", "Self-view, doubt, and clinging to precepts and observances"],
+         "correct": 0,
+         "expl": "The five fetters that bind to the higher, formless realms of existence, distinct from the five lower fetters."},
+        {"q": "What does this discourse's own closing colophon confirm?",
+         "opts": ["This is the thirteenth vagga of the Bojjhaṅgasaṃyutta, closing its own set of ten discourses", "This is the final vagga of the entire Saṃyutta Nikāya", "The colophon is missing entirely", "This vagga belongs to a different saṃyutta"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the Pāli root's own \"Oghavaggo terasamo.\""},
+    ],
+    marginalia=[
+        ("The tenth, written out in full", [
+            "not cross-referenced like the nine before it —",
+            "mirroring SN 45.180's own equivalent treatment"
+        ]),
+        ("Five fetters that bind to the formless", [
+            "luminous-form desire, formless desire, conceit —",
+            "restlessness, and ignorance close the list"
+        ]),
+        ("A colophon confirms the count", [
+            "\"Oghavaggo terasamo\" — the thirteenth —",
+            "closing this vagga's own ten discourses"
+        ]),
+        ("What comes after this peyyāla stretch", [
+            "SN 46.131 onward still to be checked —",
+            "structure confirmed individually, never assumed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.130/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.121-129.html\">SN 46.121&ndash;129 &middot; "
+        "Floods, Etc.</a> &mdash; the previous page, opening this "
+        "vagga's own nine-discourse cycle.",
+        "<a href=\"sn-45.180.html\">SN 45.180 &middot; Higher "
+        "Fetters</a> &mdash; this project's own earlier treatment of "
+        "the identical five higher fetters, applied there to the "
+        "eightfold path.",
+    ],
+)
