@@ -25876,3 +25876,156 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.3 — Bhikkhusutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 3, "Bhikkhu", "A Monk",
+    vagga="Ambapālivagga",
+    meta_title="SN 47.3 — A Monk | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhikkhusutta — a mendicant persists past the Buddha's "
+        "own rebuff to request a brief teaching, receives the "
+        "fourfold mindfulness formula grounded in ethics and applied "
+        "internally, externally, and both, and swiftly attains "
+        "arahantship. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Jeta's Grove, Anāthapiṇḍika's monastery, near "
+                     "Sāvatthī"),
+        ("Speakers", "The Buddha and an unnamed mendicant"),
+        ("Form", "A full narrative discourse: request, rebuff, "
+                 "persistence, teaching, and swift attainment"),
+        ("Length", "2-3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a complete narrative arc with a substantive "
+                       "teaching at its center"),
+    ],
+    why=(
+        "A mendicant's request for a brief teaching &mdash; met "
+        "first with the Buddha's own pointed rebuff of those who ask "
+        "only to keep following him around &mdash; leads, after "
+        "persistence, to a teaching that grounds the fourfold "
+        "mindfulness formula in well-purified ethics and correct "
+        "view, and introduces a genuinely new dimension: each of the "
+        "four objects should be observed not once but in three ways "
+        "&mdash; internally, externally, and both together."
+    ),
+    guide=[
+        ("A rebuff, then a real request", [
+            "The Buddha's own first response &mdash; that some "
+            "&ldquo;futile people&rdquo; ask for a brief teaching "
+            "only to keep following him around afterward &mdash; is "
+            "confirmed by direct reading to test the mendicant's own "
+            "sincerity before any teaching is given. Only after the "
+            "mendicant repeats the request, adding &ldquo;hopefully I "
+            "can be an heir of the Buddha's teaching,&rdquo; does the "
+            "Buddha actually teach.",
+        ]),
+        ("Ethics and view as the starting point", [
+            "The Buddha's own answer names &ldquo;the starting "
+            "point of skillful qualities&rdquo; as well-purified "
+            "ethics and correct view &mdash; confirming the fourfold "
+            "mindfulness formula is not presented here as a "
+            "standalone technique, but as a practice that must be "
+            "&ldquo;grounded on ethics&rdquo; to bear fruit.",
+        ]),
+        ("A new dimension: internal, external, and both", [
+            "This discourse's own fourfold formula is confirmed by "
+            "direct reading to add a threefold application not "
+            "present at SN 47.1 or 47.2: each of the four objects "
+            "(body, feelings, mind, principles) is to be observed "
+            "internally, externally, and internally-and-externally "
+            "together &mdash; twelve total observations rather than "
+            "four, though the Pāli root elides most of them after "
+            "the body's own three are spelled out in full.",
+        ]),
+        ("A swift and complete attainment", [
+            "The discourse's own closing narrative confirms the "
+            "mendicant, having taken up this practice, &ldquo;soon "
+            "realized the supreme end of the spiritual path in this "
+            "very life&rdquo; and became one of the perfected "
+            "(arahant) &mdash; among the more explicit attainment "
+            "narratives in this saṃyutta's own opening discourses.",
+        ]),
+    ],
+    terms=[
+        ("ādimeva visodhehi kusalesu dhammesu", "&ldquo;you should "
+             "purify the starting point of skillful qualities&rdquo; "
+             "&mdash; the Buddha's own framing of ethics and view as "
+             "prerequisite to the mindfulness practice that follows"),
+        ("sīlañca suvisuddhaṁ, diṭṭhi ca ujukā", "&ldquo;well "
+             "purified ethics and correct view&rdquo; &mdash; the "
+             "named starting point itself"),
+        ("ajjhattaṁ... bahiddhā... ajjhattabahiddhā", "&ldquo;"
+             "internally... externally... internally and "
+             "externally&rdquo; &mdash; the threefold application "
+             "newly introduced in this discourse, applied to each "
+             "of the four mindfulness objects"),
+        ("sīlaṁ nissāya sīle patiṭṭhāya", "&ldquo;depending on and "
+             "grounded on ethics&rdquo; &mdash; the shared "
+             "qualification attached to the entire fourfold-times-"
+             "threefold practice"),
+        ("aññataro... bhikkhu arahataṁ ahosi", "&ldquo;that mendicant "
+             "became one of the perfected&rdquo; &mdash; the "
+             "discourse's own closing confirmation of swift and "
+             "complete attainment"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the request and its rebuff",
+             "sn47.3:1.1-1.5"),
+        ("p", "&sect;2 &mdash; the starting point: ethics and view",
+             "sn47.3:1.6-1.9"),
+        ("p", "&sect;3 &mdash; the fourfold formula, applied "
+              "threefold", "sn47.3:2.1-2.14"),
+        ("p", "&sect;4 &mdash; departure and attainment",
+             "sn47.3:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "Why does the Buddha's own first response to the mendicant's request sound like a rebuff?",
+         "opts": ["It tests whether the request is sincere, since some people ask for a brief teaching only to keep following the Buddha around afterward", "The Buddha refuses to teach mendicants who ask questions", "The Buddha was too busy to answer at that moment", "The mendicant had broken a monastic rule"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the teaching is given only after the mendicant persists and clarifies his sincerity."},
+        {"q": "What does the Buddha name as \"the starting point of skillful qualities\"?",
+         "opts": ["Well-purified ethics and correct view", "Advanced concentration attainments", "Extensive study of the scriptures", "Physical isolation from all other people"],
+         "correct": 0,
+         "expl": "The prerequisite this discourse establishes before the fourfold mindfulness practice itself."},
+        {"q": "What new dimension does this discourse add to the fourfold mindfulness formula, beyond SN 47.1 and 47.2?",
+         "opts": ["Each of the four objects should be observed internally, externally, and internally-and-externally together", "A fifth object of observation not named at SN 47.1", "A requirement to practice only at night", "A prohibition against teaching others"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — twelve total observations rather than four, though most are elided in the Pāli root."},
+    ],
+    marginalia=[
+        ("A rebuff before the teaching", [
+            "\"futile people\" who ask only to follow along —",
+            "the mendicant's own persistence answers the test"
+        ]),
+        ("Ethics first, then mindfulness", [
+            "\"the starting point of skillful qualities\" —",
+            "well-purified conduct and correct view"
+        ]),
+        ("Twelve observations, not four", [
+            "internally, externally, and both together —",
+            "a new dimension this discourse's own formula adds"
+        ]),
+        ("From request to arahantship", [
+            "\"he soon realized the supreme end\" —",
+            "one of this saṃyutta's own swifter attainment stories"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.2.html\">SN 47.2 &middot; Mindful</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
