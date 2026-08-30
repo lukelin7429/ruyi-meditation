@@ -40055,3 +40055,148 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.45 — Paṭhamapubbārāmasutta
+# A striking new claim: only ONE faculty — wisdom — must be developed
+# for a mendicant to declare full enlightenment; the other four
+# faculties naturally stabilize once wisdom is present. The setting
+# echoes SN 48.41's own location (the Eastern Monastery), though this
+# project does not assume a narrative connection beyond what the text
+# itself confirms. Title marked "(1st)," signaling a paired
+# continuation.
+# --------------------------------------------------------------------------- #
+page(
+    48, 45, "Paṭhamapubbārāma", "At the Eastern Monastery (1st)",
+    vagga="Jarāvagga",
+    meta_title="SN 48.45 — At the Eastern Monastery (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamapubbārāmasutta — only one faculty, wisdom, must "
+        "be developed for a mendicant to declare full enlightenment; "
+        "the other four faculties stabilize naturally once wisdom is "
+        "present. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, the stilt longhouse of Migāra's "
+                     "mother in the Eastern Monastery &mdash; the "
+                     "same location as SN 48.41"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A question posed and deferred, then answered with "
+                 "a striking single-faculty claim"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; a genuinely striking claim: only "
+                         "ONE faculty need be developed for full "
+                         "enlightenment, the other four following "
+                         "naturally"),
+    ],
+    why=(
+        "This discourse makes a claim genuinely distinct from every "
+        "earlier teaching on the five faculties in this saṃyutta: "
+        "only ONE faculty &mdash; wisdom &mdash; must be developed "
+        "and cultivated for a mendicant to declare full "
+        "enlightenment, because once a noble disciple has wisdom, "
+        "the faith, energy, mindfulness, and immersion that "
+        "&ldquo;follow along with that&rdquo; become stabilized on "
+        "their own."
+    ),
+    guide=[
+        ("Only one faculty, not all five together", [
+            "Confirmed by direct reading, this discourse departs "
+            "from the pattern of treating the five spiritual "
+            "faculties as jointly necessary: it states outright that "
+            "developing and cultivating just ONE faculty &mdash; "
+            "wisdom (paññā) &mdash; suffices for a mendicant to "
+            "declare the classic arahant formula, &ldquo;rebirth is "
+            "ended, the spiritual journey has been completed &hellip; "
+            "there is nothing further for this place.&rdquo;",
+        ]),
+        ("The other four faculties, stabilized rather than required", [
+            "Confirmed by direct reading, this discourse's own "
+            "reasoning is that the remaining four faculties "
+            "(saddhā, vīriya, sati, samādhi) &ldquo;follow along "
+            "with&rdquo; (tadanvayā) wisdom and &ldquo;become "
+            "stabilized&rdquo; (saṇṭhāti) once wisdom is genuinely "
+            "present in a noble disciple &mdash; not eliminated or "
+            "unnecessary, but naturally secured as a consequence of "
+            "wisdom rather than requiring separate, parallel "
+            "cultivation.",
+        ]),
+        ("A setting echoing SN 48.41, title marked \"(1st)\"", [
+            "This project's own honest observation: this discourse "
+            "returns to the identical setting as SN 48.41 (the "
+            "stilt longhouse of Migāra's mother in the Eastern "
+            "Monastery), though its own text does not explicitly "
+            "connect the two occasions. Its own title, &ldquo;At "
+            "the Eastern Monastery (1st),&rdquo; signals a paired "
+            "second discourse to follow, which this project will "
+            "read fresh rather than assume in advance.",
+        ]),
+    ],
+    terms=[
+        ("katinaṁ &hellip; indriyānaṁ", "&ldquo;how many "
+             "faculties&rdquo; &mdash; the Buddha's own opening "
+             "question to the mendicants"),
+        ("ekassa indriyassa", "&ldquo;of one faculty&rdquo; &mdash; "
+             "the striking answer: only one, not all five together"),
+        ("paññindriyaṁ", "&ldquo;the faculty of wisdom&rdquo; "
+             "&mdash; the single faculty singled out as sufficient"),
+        ("tadanvayā saddhā saṇṭhāti", "&ldquo;the faith that "
+             "follows along with that becomes stabilized&rdquo; "
+             "&mdash; the pattern repeated for energy, mindfulness, "
+             "and immersion as well"),
+        ("Pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's fifth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the Buddha's own question", "sn48.45:1.1-1.5"),
+        ("p", "&sect;2 &mdash; the answer: wisdom alone suffices", "sn48.45:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "How many faculties does this discourse say must be developed for a mendicant to declare full enlightenment?",
+         "opts": ["Only one — wisdom", "All five, in equal measure", "Only three — faith, energy, and wisdom", "None; enlightenment requires no faculty development at all"],
+         "correct": 0,
+         "expl": "A genuinely striking claim, distinct from treating the five faculties as jointly necessary."},
+        {"q": "What happens to the other four faculties once wisdom is present, according to this discourse?",
+         "opts": ["They \"follow along with\" wisdom and become stabilized naturally, without requiring separate cultivation", "They become entirely unnecessary and can be discarded", "They must still be developed independently, in parallel with wisdom", "They are replaced by a sixth faculty not previously named"],
+         "correct": 0,
+         "expl": "Not eliminated, but naturally secured as a consequence of wisdom's own presence."},
+        {"q": "What does this discourse's own setting share with SN 48.41?",
+         "opts": ["The identical location — the stilt longhouse of Migāra's mother in the Eastern Monastery — though the text does not explicitly connect the two occasions", "Nothing; the settings are entirely unrelated", "Both discourses feature Ānanda massaging the Buddha's limbs", "Both discourses are set at Sāketa instead"],
+         "correct": 0,
+         "expl": "An honest observation, not an assumed narrative connection."},
+    ],
+    marginalia=[
+        ("One faculty, not five together", [
+            "wisdom alone, the discourse claims —",
+            "a genuinely striking departure"
+        ]),
+        ("The others, stabilized in wisdom's wake", [
+            "faith, energy, mindfulness, immersion —",
+            "following along, not separately required"
+        ]),
+        ("The same longhouse as before", [
+            "Migāra's mother's own stilt hall again —",
+            "though the text draws no explicit line"
+        ]),
+        ("Marked \"first\", a second expected", [
+            "paṭhama — read fresh when it comes —",
+            "not assumed in advance"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.45/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.44.html\">SN 48.44 &middot; At the Eastern "
+        "Gate</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
