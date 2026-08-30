@@ -35685,3 +35685,141 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.15 — Paṭhamavitthārasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 15, "Paṭhamavitthāra", "In Detail (1st)",
+    vagga="Mudutaravagga",
+    meta_title="SN 48.15 — In Detail (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamavitthārasutta — expanding the earlier six-level "
+        "scale into nine levels by breaking the single stage of "
+        "non-return into its own five traditional sub-types. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The same graduated scale already met at SN "
+                 "48.12-14, but with the single &ldquo;"
+                 "non-returner&rdquo; level expanded into five "
+                 "traditional sub-types"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; the canon's own classic five types "
+                         "of non-returner, distinguished by name for "
+                         "the first time in this vagga"),
+    ],
+    why=(
+        "This discourse's own title, &ldquo;In Detail&rdquo; "
+        "(vitthāra), contrasts directly with the three preceding "
+        "&ldquo;In Brief&rdquo; (saṅkhitta) discourses (SN 48.12-14): "
+        "rather than naming &ldquo;non-returner&rdquo; as a single "
+        "level, it breaks that stage into the canon's own classic "
+        "five sub-types, expanding the earlier six-level scale into "
+        "nine distinct levels of attainment."
+    ),
+    guide=[
+        ("Five kinds of non-returner, named individually", [
+            "Confirmed by direct reading, this discourse names five "
+            "distinct sub-types of non-returner in descending order: "
+            "one extinguished between one life and the next "
+            "(antarāparinibbāyī), one extinguished upon landing "
+            "(upahaccaparinibbāyī), one extinguished without extra "
+            "effort (asaṅkhāraparinibbāyī), one extinguished with "
+            "extra effort (sasaṅkhāraparinibbāyī), and one who heads "
+            "upstream to the Akaniṭṭha realm (uddhaṁsoto "
+            "akaniṭṭhagāmī) &mdash; the canon's own classic fivefold "
+            "division of this single stage.",
+        ]),
+        ("A nine-level scale, not the earlier six", [
+            "This project's own direct comparison confirms this "
+            "discourse's own scale has NINE levels total (arahant, "
+            "five sub-types of non-returner, once-returner, "
+            "stream-enterer, follower of teachings, follower by "
+            "faith), genuinely more detailed than the six-level "
+            "scale shared by SN 48.12, 48.13, and 48.14.",
+        ]),
+        ("\"In Brief\" and \"In Detail\" -- the same principle, two resolutions", [
+            "Confirmed by direct reading, both this discourse and "
+            "the three preceding &ldquo;In Brief&rdquo; discourses "
+            "rest on the SAME underlying principle &mdash; the five "
+            "faculties' own progressively weaker degree marking off "
+            "distinct levels of attainment &mdash; differing only in "
+            "how finely that single stage of non-return is resolved.",
+        ]),
+    ],
+    terms=[
+        ("antarāparinibbāyī", "&ldquo;one extinguished between one "
+             "life and the next&rdquo; &mdash; the highest of the "
+             "five non-returner sub-types, attaining final "
+             "extinguishment in the intermediate state"),
+        ("upahaccaparinibbāyī", "&ldquo;one extinguished upon "
+             "landing&rdquo; &mdash; the second sub-type, attaining "
+             "extinguishment soon after rebirth"),
+        ("asaṅkhāraparinibbāyī / sasaṅkhāraparinibbāyī", "&ldquo;one "
+             "extinguished without / with extra effort&rdquo; "
+             "&mdash; the third and fourth sub-types, distinguished "
+             "by the presence or absence of additional effort"),
+        ("uddhaṁsoto akaniṭṭhagāmī", "&ldquo;one who heads "
+             "upstream, going to the Akaniṭṭha realm&rdquo; &mdash; "
+             "the fifth and lowest sub-type, journeying through "
+             "successive pure abodes to the highest one"),
+        ("vitthāra", "&ldquo;in detail&rdquo; &mdash; this "
+             "discourse's own title term, contrasting with "
+             "&ldquo;saṅkhitta&rdquo; (&ldquo;in brief&rdquo;) at SN "
+             "48.12-14"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.15:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own scale differ from SN 48.12-14's own six-level scale?",
+         "opts": ["It expands the single \"non-returner\" level into five traditional sub-types, making nine levels total", "It removes the non-returner level entirely", "It is identical, with no expansion at all", "It reduces the scale to only three levels"],
+         "correct": 0,
+         "expl": "Genuinely more detailed, matching this discourse's own title, \"In Detail.\""},
+        {"q": "What are the five sub-types of non-returner named in this discourse?",
+         "opts": ["Extinguished between lives, upon landing, without extra effort, with extra effort, and one heading upstream to Akaniṭṭha", "Five sub-types distinguished by geographic origin", "Five sub-types distinguished by monastic seniority", "This discourse names only two sub-types, not five"],
+         "correct": 0,
+         "expl": "The canon's own classic fivefold division of the non-returner stage."},
+        {"q": "What underlying principle do this discourse and the earlier \"In Brief\" discourses share?",
+         "opts": ["The five faculties' own progressively weaker degree marking off distinct levels of attainment", "No shared principle; the two sets are unrelated", "Both deny that levels of attainment exist at all", "Both apply only to the faculty of wisdom"],
+         "correct": 0,
+         "expl": "Differing only in how finely the single stage of non-return is resolved."},
+    ],
+    marginalia=[
+        ("Nine levels, not six", [
+            "non-returner broken into five sub-types —",
+            "matching this discourse's own title, \"in detail\""
+        ]),
+        ("Five kinds of non-returner, named", [
+            "between lives, upon landing, with or without effort —",
+            "one heading upstream to the highest realm"
+        ]),
+        ("Same principle, finer resolution", [
+            "the five faculties, weaker by degree —",
+            "\"in brief\" and \"in detail,\" two views of one scale"
+        ]),
+        ("Fifth discourse, Pañcamaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "many more discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.15/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.14.html\">SN 48.14 &middot; In Brief "
+        "(3rd)</a> &mdash; the previous discourse, sharing this "
+        "discourse's own underlying principle in a briefer form.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
