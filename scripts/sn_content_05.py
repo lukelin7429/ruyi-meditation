@@ -13073,3 +13073,1193 @@ page(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 14. Oghavagga — Floods (SN 45.171-180)
+# Confirmed by direct bilara-data reading: this is the FINAL vagga of the
+# Maggasaṃyutta (SN 45) — its own closing discourse, SN 45.180, carries not
+# only this vagga's own colophon and uddāna but the ENTIRE saṃyutta's own
+# vagga-level uddāna (vagguddānaṁ), naming all fourteen vaggas in order,
+# plus the closing note "Maggasaṁyuttaṁ paṭhamaṁ" ("the Linked Discourses
+# on the Path is the first section") — confirming SN 45 as the first
+# saṃyutta of the Mahāvagga. This vagga follows the Esanāvagga's own
+# established four-verb, single-topic, compressed-formula pattern
+# throughout (confirmed at SN 45.171 by an explicit "tell in full as in
+# the section on searches" instruction), applying it to nine standard
+# doctrinal classifications (floods, yokes, grasping, ties, tendencies,
+# sensual stimulation, hindrances, aggregates, lower fetters) before
+# SN 45.180 closes with the fifth classification (higher fetters) restated
+# in full with all four closing formulas. Notably, the saṃyutta-level
+# uddāna's own count of vaggas (thirteen, per "Oghavaggo bhavati terasāti")
+# does not match this project's own count of fourteen distinct vagga
+# headers tracked throughout SN 45 — a genuine discrepancy described
+# honestly rather than resolved by assumption.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 45.171 — Oghasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 171, "Ogha", "Floods",
+    vagga="Oghavagga",
+    meta_title="SN 45.171 — Floods | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Oghasutta &mdash; opening the final vagga of the "
+        "Maggasaṃyutta with the four floods of sensuality, "
+        "continued existence, views, and ignorance. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One sentence, following the Esanāvagga's own "
+                 "established compressed four-verb presentation"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "opens the final vagga of this entire "
+                       "saṃyutta"),
+    ],
+    why=(
+        "The final vagga of the Maggasaṃyutta (SN 45) begins with the "
+        "four floods &mdash; sensuality, desire to be reborn, views, "
+        "and ignorance &mdash; a standard fourfold classification of "
+        "forces that sweep beings into continued existence, confirmed "
+        "by an explicit source instruction to reuse the presentation "
+        "pattern already established in the preceding vagga."
+    ),
+    guide=[
+        ("A pattern reused, not reinvented", [
+            "This discourse's own explicit instruction, &ldquo;tell "
+            "in full as in the section on searches,&rdquo; confirms "
+            "that the compressed four-verb, base-formula presentation "
+            "established across the Esanāvagga carries forward "
+            "unchanged into this final vagga &mdash; no new "
+            "structural device is introduced here.",
+        ]),
+        ("The last vagga of this saṃyutta", [
+            "Confirmed by direct reading of this vagga's own closing "
+            "discourse (SN 45.180): the Oghavagga is the final vagga "
+            "of the entire Maggasaṃyutta, closing not only this "
+            "vagga's own ten discourses but Book V's own first full "
+            "saṃyutta.",
+        ]),
+    ],
+    terms=[
+        ("cattāro oghā", "&ldquo;four floods&rdquo; &mdash; forces "
+             "that sweep beings along in saṁsāra, a standard "
+             "canonical classification"),
+        ("kāmogho bhavogho diṭṭhogho avijjogho", "the floods of "
+             "sensuality, desire to be reborn, views, and ignorance "
+             "&mdash; the four named here"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "the four verbs "
+             "(direct knowledge, complete understanding, finishing, "
+             "giving up) established at SN 45.161-162, carried "
+             "forward unchanged into this vagga"),
+        ("purimasuttasadisaṁ vitthāretabbaṁ", "&ldquo;to be told in "
+             "full, similar to the previous discourse&rdquo; "
+             "&mdash; the source's own instruction confirming this "
+             "vagga's own reuse of the Esanāvagga's own established "
+             "presentation"),
+        ("oghavagga", "&ldquo;the Floods chapter&rdquo; &mdash; this "
+             "vagga's own name, and (confirmed at SN 45.180) the "
+             "final vagga of the entire Maggasaṃyutta"),
+    ],
+    text_intro=("The complete discourse, including its own "
+        "elaboration instruction. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.171:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What four floods does this discourse name?",
+         "opts": ["Sensuality, desire to be reborn, views, and ignorance", "Greed, hate, delusion, and pride", "Grasping, ties, tendencies, and hindrances", "The sensual, form, formless, and cessation realms"],
+         "correct": 0,
+         "expl": "A standard fourfold classification of forces that sweep beings into continued existence."},
+        {"q": "What does this discourse's own elaboration instruction confirm about this new vagga?",
+         "opts": ["It reuses the Esanāvagga's own established compressed presentation, without introducing a new structural device", "It introduces an entirely new fivefold verb structure", "It abandons the fourfold closing formula entirely", "It has no relationship to the preceding vagga"],
+         "correct": 0,
+         "expl": "Confirmed directly by the source's own \"tell in full as in the section on searches\" instruction."},
+        {"q": "What is confirmed about this vagga's own position within the Maggasaṃyutta?",
+         "opts": ["It is the final vagga, confirmed by this vagga's own closing discourse, SN 45.180", "It is the very first vagga of the saṃyutta", "It is the exact midpoint of the saṃyutta", "It belongs to a different saṃyutta entirely"],
+         "correct": 0,
+         "expl": "SN 45.180 carries the entire saṃyutta's own vagga-level uddāna, confirming Oghavagga's own final position."},
+    ],
+    marginalia=[
+        ("A new vagga, a familiar pattern", [
+            "no new device this time —",
+            "reused, as the source itself instructs",
+        ]),
+        ("Four floods sweep beings along", [
+            "sensuality, rebirth, views, ignorance —",
+            "the path develops against their pull",
+        ]),
+        ("The final vagga of this saṃyutta", [
+            "confirmed by its own closing discourse —",
+            "ten discourses stand between here and the end",
+        ]),
+        ("A milestone approaching", [
+            "the entire Maggasaṃyutta nears completion —",
+            "SN 45.180 will close it in full"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.171/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.170.html\">SN 45.170 &middot; Craving</a> "
+        "&mdash; the previous page, closing the preceding vagga.",
+        "<a href=\"sn-45.172.html\">SN 45.172 &middot; Yokes</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.172 — Yogasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 172, "Yoga", "Yokes",
+    vagga="Oghavagga",
+    meta_title="SN 45.172 — Yokes | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Yogasutta &mdash; the four yokes of sensual pleasures, "
+        "future lives, views, and ignorance, continuing this vagga's "
+        "own compressed presentation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.171"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One sentence, matching this vagga's own established "
+                 "compressed presentation"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, in this vagga's own established rhythm"),
+    ],
+    why=(
+        "The four yokes &mdash; sensual pleasures, future lives, "
+        "views, and ignorance &mdash; name essentially the same four "
+        "underlying forces as SN 45.171's own floods, now under the "
+        "metaphor of a yoke binding beings to what drags them onward, "
+        "rather than a flood sweeping them along."
+    ),
+    guide=[
+        ("A near-identical fourfold, a new metaphor", [
+            "Comparing the two lists directly: the floods "
+            "(sensuality, desire to be reborn, views, ignorance) and "
+            "the yokes (sensual pleasures, future lives, views, "
+            "ignorance) name essentially the same four underlying "
+            "forces &mdash; confirming this vagga's own opening "
+            "sequence, like the &ldquo;barrenness/stains/troubles"
+            "&rdquo; sequence of the preceding vagga, applies "
+            "successive metaphors to closely related, sometimes "
+            "identical, content.",
+        ]),
+    ],
+    terms=[
+        ("cattāro yogā", "&ldquo;four yokes&rdquo; &mdash; a metaphor "
+             "for what binds and drags beings toward continued "
+             "existence"),
+        ("kāmayogo bhavayogo diṭṭhiyogo avijjāyogo", "the yokes of "
+             "sensual pleasures, future lives, views, and ignorance "
+             "&mdash; near-identical in substance to SN 45.171's own "
+             "four floods"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "the four verbs "
+             "established at SN 45.161-162, carried forward "
+             "unchanged"),
+        ("ariyo aṭṭhaṅgiko maggo bhāvetabbo", "&ldquo;the noble "
+             "eightfold path should be developed&rdquo; &mdash; this "
+             "discourse's own base-formula conclusion"),
+        ("dutiyaṁ", "&ldquo;the second&rdquo; &mdash; the Pāli root's "
+             "own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.172:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own fourfold list compare to SN 45.171's own four floods?",
+         "opts": ["Essentially the same four underlying forces, under a different metaphor (yoke rather than flood)", "A completely unrelated set of four qualities", "The exact opposite of the four floods", "A list with only one term in common"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison of the two discourses' own Pāli terms."},
+        {"q": "What image does the term \"yoga\" (yoke) evoke?",
+         "opts": ["Something that binds and drags beings toward continued existence", "A physical exercise practice", "A river's own current", "A type of meditation posture"],
+         "correct": 0,
+         "expl": "Distinct from the flood metaphor, though describing largely the same underlying forces."},
+        {"q": "What earlier sequence in this project's own coverage of SN 45 does this metaphor-shift most resemble?",
+         "opts": ["The barrenness/stains/troubles sequence of the preceding vagga, applying successive images to the same content", "The river similes of the two Gaṅgāpeyyāla vaggas", "The verb-matrix introduced at SN 45.161", "No earlier sequence resembles it"],
+         "correct": 0,
+         "expl": "Both sequences apply a new descriptive lens to substantially the same underlying material."},
+    ],
+    marginalia=[
+        ("The same forces, a new yoke", [
+            "sensuality, rebirth, views, ignorance —",
+            "flood and yoke, describing much the same pull",
+        ]),
+        ("A metaphor changes; the substance holds", [
+            "as with barrenness, stains, and troubles before it —",
+            "one reality, several images",
+        ]),
+        ("Eight discourses remain in this vagga", [
+            "grasping, ties, tendencies ahead —",
+            "then stimulation, hindrances, aggregates, fetters"
+        ]),
+        ("A yoke binds; a flood sweeps away", [
+            "two images, the same four forces beneath —",
+            "confirmed by direct comparison"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.172/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.171.html\">SN 45.171 &middot; Floods</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-45.173.html\">SN 45.173 &middot; "
+        "Grasping</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.173 — Upādānasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 173, "Upādāna", "Grasping",
+    vagga="Oghavagga",
+    meta_title="SN 45.173 — Grasping | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Upādānasutta &mdash; the four kinds of grasping at "
+        "sensual pleasures, views, precepts and observances, and "
+        "theories of a self. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.172"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One sentence, matching this vagga's own established "
+                 "compressed presentation"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, in this vagga's own established rhythm"),
+    ],
+    why=(
+        "The four kinds of grasping &mdash; at sensual pleasures, "
+        "views, precepts and observances, and theories of a self "
+        "&mdash; form one of the canon's own most frequently repeated "
+        "doctrinal lists, central to the standard account of how "
+        "craving gives rise to continued existence."
+    ),
+    guide=[
+        ("A well-known list, not a repetition of the floods or yokes", [
+            "Unlike SN 45.172's own near-duplicate of SN 45.171, this "
+            "discourse's own fourfold grasping is a genuinely "
+            "distinct classification &mdash; the four upādāna form "
+            "the standard link between craving (taṇhā) and "
+            "continued existence (bhava) in the doctrine of dependent "
+            "origination, confirmed by direct comparison to be a "
+            "different list from the two preceding discourses.",
+        ]),
+    ],
+    terms=[
+        ("cattāri upādānāni", "&ldquo;four kinds of grasping&rdquo; "
+             "&mdash; the standard link between craving and continued "
+             "existence in dependent origination"),
+        ("kāmupādānaṁ diṭṭhupādānaṁ sīlabbatupādānaṁ attavādupādānaṁ",
+             "grasping at sensual pleasures, views, precepts and "
+             "observances, and theories of a self &mdash; the four "
+             "named here"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "the four verbs "
+             "established at SN 45.161-162, carried forward "
+             "unchanged"),
+        ("ariyo aṭṭhaṅgiko maggo bhāvetabbo", "&ldquo;the noble "
+             "eightfold path should be developed&rdquo; &mdash; this "
+             "discourse's own base-formula conclusion"),
+        ("tatiyaṁ", "&ldquo;the third&rdquo; &mdash; the Pāli root's "
+             "own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.173:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What four kinds of grasping does this discourse name?",
+         "opts": ["Sensual pleasures, views, precepts and observances, and theories of a self", "Sensuality, desire to be reborn, views, and ignorance", "Form, feeling, perception, and choices", "Greed, hate, delusion, and pride"],
+         "correct": 0,
+         "expl": "The standard fourfold classification of grasping (upādāna) in dependent origination."},
+        {"q": "How does this discourse's own list relate to SN 45.171-172's own lists?",
+         "opts": ["A genuinely distinct classification, not a near-duplicate as with the floods and yokes", "An exact repetition of the four floods", "An exact repetition of the four yokes", "Entirely unrelated to any doctrinal framework"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — grasping (upādāna) plays a specific, distinct role in dependent origination."},
+        {"q": "Where else in the standard doctrinal formula does \"grasping\" (upādāna) appear?",
+         "opts": ["As the link between craving (taṇhā) and continued existence (bhava) in dependent origination", "As one of the five aggregates themselves", "As a synonym for the noble eightfold path", "It appears nowhere else in the canon"],
+         "correct": 0,
+         "expl": "A core term in the twelve-link chain of dependent origination (paṭicca-samuppāda)."},
+    ],
+    marginalia=[
+        ("Grasping, the link to continued existence", [
+            "not a repeat of floods or yokes —",
+            "a distinct link in dependent origination",
+        ]),
+        ("Four objects, one grasping mind", [
+            "pleasure, view, ritual, self —",
+            "each its own way of clinging",
+        ]),
+        ("Seven discourses remain", [
+            "ties, tendencies, stimulation ahead —",
+            "then hindrances, aggregates, fetters twice over"
+        ]),
+        ("A term with a precise doctrinal address", [
+            "upādāna, not a loose synonym —",
+            "its own place in the twelve links"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.173/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.172.html\">SN 45.172 &middot; Yokes</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-45.174.html\">SN 45.174 &middot; Personal "
+        "Ties</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 45.174 — Ganthasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 174, "Gantha", "Personal Ties",
+    vagga="Oghavagga",
+    meta_title="SN 45.174 — Personal Ties | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ganthasutta &mdash; the four personal ties of "
+        "covetousness, ill will, misapprehension of precepts, and "
+        "dogmatic insistence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.173"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One sentence, matching this vagga's own established "
+                 "compressed presentation"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, in this vagga's own established rhythm"),
+    ],
+    why=(
+        "The four personal ties &mdash; covetousness, ill will, "
+        "misapprehension of precepts and observances, and the "
+        "insistence that &ldquo;this is the only truth&rdquo; &mdash; "
+        "name what binds the mind to the body (kāya-gantha), a "
+        "distinct classification from the grasping named in the "
+        "discourse just before it."
+    ),
+    guide=[
+        ("A bodily tie, distinct from grasping's own broader scope", [
+            "Where SN 45.173's own four kinds of grasping describe "
+            "clinging to sensual pleasure, views, ritual, and "
+            "selfhood in general, this discourse's own four ties "
+            "(gantha) more specifically describe what binds the mind "
+            "to the body &mdash; a related but distinct doctrinal "
+            "term, confirmed by direct comparison of the two "
+            "discourses' own content.",
+        ]),
+    ],
+    terms=[
+        ("cattāro ganthā", "&ldquo;four ties&rdquo; &mdash; more "
+             "fully, kāyagantha, &ldquo;ties to the body&rdquo;"),
+        ("abhijjhākāyagantho byāpādakāyagantho sīlabbataparāmāsakāyagantho "
+             "idaṁsaccābhinivesakāyagantho", "the personal ties of "
+             "covetousness, ill will, misapprehension of precepts and "
+             "observances, and dogmatic insistence &mdash; the four "
+             "named here"),
+        ("idaṁsaccābhinivesa", "&ldquo;the insistence that this is "
+             "the only truth&rdquo; &mdash; a dogmatic clinging to "
+             "one's own view as uniquely correct"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "the four verbs "
+             "established at SN 45.161-162, carried forward "
+             "unchanged"),
+        ("catutthaṁ", "&ldquo;the fourth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.174:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What four personal ties does this discourse name?",
+         "opts": ["Covetousness, ill will, misapprehension of precepts and observances, and dogmatic insistence", "Sensual pleasures, views, precepts and observances, and theories of a self", "Sensuality, desire to be reborn, views, and ignorance", "Form, feeling, perception, and choices"],
+         "correct": 0,
+         "expl": "The four ties (gantha) that specifically bind the mind to the body."},
+        {"q": "How does this discourse's own \"ties\" (gantha) differ from SN 45.173's own \"grasping\" (upādāna)?",
+         "opts": ["Ties more specifically describe what binds the mind to the body, a related but distinct term", "They are exactly identical in meaning and scope", "Ties refer only to physical restraints, unrelated to the mind", "Grasping is a later invention absent from this discourse's own vocabulary"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison of the two discourses' own content."},
+        {"q": "What does \"idaṁsaccābhinivesa\" mean?",
+         "opts": ["The insistence that \"this is the only truth\" — a dogmatic clinging to one's own view", "A physical illness of the body", "A form of meditation practice", "A type of monastic robe"],
+         "correct": 0,
+         "expl": "The fourth of the four ties, describing dogmatic attachment to one's own doctrinal position."},
+    ],
+    marginalia=[
+        ("Ties that bind mind to body", [
+            "covetousness, ill will, ritual, dogma —",
+            "a distinct term from grasping's own broader reach",
+        ]),
+        ("\"This alone is true\" — a tie of its own", [
+            "dogmatic insistence, named directly —",
+            "clinging not just to things, but to being right",
+        ]),
+        ("A related term, precisely distinguished", [
+            "gantha, not upādāna —",
+            "the canon's own careful vocabulary"
+        ]),
+        ("Six discourses remain", [
+            "tendencies, stimulation, hindrances ahead —",
+            "then aggregates, and fetters twice over"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.174/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.173.html\">SN 45.173 &middot; Grasping</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-45.175.html\">SN 45.175 &middot; "
+        "Tendencies</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.175 — Anusayasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 175, "Anusaya", "Tendencies",
+    vagga="Oghavagga",
+    meta_title="SN 45.175 — Tendencies | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anusayasutta &mdash; the seven underlying tendencies, "
+        "this vagga's own only sevenfold classification. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.174"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One sentence, matching this vagga's own established "
+                 "compressed presentation"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but the vagga's own only sevenfold "
+                       "list"),
+    ],
+    why=(
+        "The seven underlying tendencies &mdash; sensual desire, "
+        "aversion, views, doubt, conceit, desire for continued "
+        "existence, and ignorance &mdash; are this vagga's own only "
+        "departure from its otherwise fourfold and fivefold "
+        "classifications, a standard and comprehensive doctrinal list "
+        "(anusaya) describing latent dispositions rather than active "
+        "afflictions."
+    ),
+    guide=[
+        ("The only sevenfold list in this vagga", [
+            "Every other discourse in this vagga names either four or "
+            "five items; this discourse alone names seven &mdash; "
+            "confirmed by direct reading to be the standard "
+            "&ldquo;seven underlying tendencies&rdquo; (satta "
+            "anusayā) found as a fixed doctrinal set throughout the "
+            "canon, describing dispositions that lie dormant until "
+            "conditions activate them, distinct from active "
+            "defilements already named earlier in this vagga.",
+        ]),
+    ],
+    terms=[
+        ("satta anusayā", "&ldquo;seven underlying tendencies&rdquo; "
+             "&mdash; latent dispositions, distinct from active "
+             "defilements, that surface under the right conditions"),
+        ("kāmarāgānusayo paṭighānusayo diṭṭhānusayo vicikicchānusayo "
+             "mānānusayo bhavarāgānusayo avijjānusayo", "the "
+             "underlying tendencies of sensual desire, aversion, "
+             "views, doubt, conceit, desire for continued existence, "
+             "and ignorance &mdash; the seven named here"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "the four verbs "
+             "established at SN 45.161-162, carried forward "
+             "unchanged, here applied to a sevenfold rather than "
+             "fourfold or fivefold object"),
+        ("ariyo aṭṭhaṅgiko maggo bhāvetabbo", "&ldquo;the noble "
+             "eightfold path should be developed&rdquo; &mdash; this "
+             "discourse's own base-formula conclusion"),
+        ("pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; the Pāli root's "
+             "own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.175:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "How many underlying tendencies does this discourse name, and how does that compare to the rest of this vagga?",
+         "opts": ["Seven — the only sevenfold list in a vagga otherwise built from fours and fives", "Four, matching most of the vagga's own lists", "Five, matching the vagga's own second most common count", "Three, matching the earlier Esanāvagga's own lists"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a genuine structural outlier within this vagga's own sequence."},
+        {"q": "What distinguishes \"underlying tendencies\" (anusaya) from the active defilements named earlier in this vagga?",
+         "opts": ["They are latent dispositions that surface only under the right conditions, rather than active afflictions", "They are physical rather than mental phenomena", "They apply only to monastics, not lay people", "There is no meaningful distinction at all"],
+         "correct": 0,
+         "expl": "A standard doctrinal distinction between dormant and active mental factors."},
+        {"q": "Which of the seven tendencies also appeared, by name, among the Gaṅgāpeyyāla vaggas' own closing formulas earlier in Book V?",
+         "opts": ["None by that exact term — though \"desire for continued existence\" and \"ignorance\" echo concepts named there differently", "All seven appear verbatim as closing formulas", "The seven tendencies are entirely absent from the rest of Book V", "Only \"conceit\" appeared earlier"],
+         "correct": 0,
+         "expl": "The anusaya form their own distinct doctrinal list, related to but not identical with the formulas met earlier."},
+    ],
+    marginalia=[
+        ("Seven, not four or five", [
+            "this vagga's own single outlier —",
+            "a standard doctrinal set, confirmed by reading",
+        ]),
+        ("Dormant, not active", [
+            "tendencies that wait beneath the surface —",
+            "surfacing only when conditions allow",
+        ]),
+        ("A comprehensive list, long established", [
+            "sensual desire through ignorance —",
+            "the seven anusaya, fixed throughout the canon"
+        ]),
+        ("Five discourses remain", [
+            "stimulation, hindrances, aggregates —",
+            "then lower and higher fetters close the vagga"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.175/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.174.html\">SN 45.174 &middot; Personal "
+        "Ties</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.176.html\">SN 45.176 &middot; Kinds of "
+        "Sensual Stimulation</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.176 — Kāmaguṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 176, "Kāmaguṇa", "Kinds of Sensual Stimulation",
+    vagga="Oghavagga",
+    meta_title="SN 45.176 — Kinds of Sensual Stimulation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kāmaguṇasutta &mdash; the five kinds of sensual "
+        "stimulation across all five sense doors, with the source's "
+        "own elided middle terms. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.175"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One sentence enumerating all five sense doors, "
+                 "three of which are elided in the source"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, with a distinctive fivefold sensory "
+                       "list"),
+    ],
+    why=(
+        "The five kinds of sensual stimulation &mdash; sights, "
+        "sounds, smells, tastes, and touches that are "
+        "&ldquo;likable, desirable, agreeable, pleasant, sensual, and "
+        "arousing&rdquo; &mdash; run through all five physical sense "
+        "doors, with the source itself spelling out only sights and "
+        "touches in full and eliding sounds, smells, and tastes as "
+        "following the identical pattern."
+    ),
+    guide=[
+        ("A fivefold list built on the senses, not on defilements", [
+            "Unlike the preceding discourses' own lists of mental "
+            "qualities (floods, yokes, grasping, ties, tendencies), "
+            "this discourse's own five kinds of stimulation are "
+            "organized by physical sense door &mdash; eye, ear, nose, "
+            "tongue, body &mdash; each carrying the identical "
+            "sixfold description (likable, desirable, agreeable, "
+            "pleasant, sensual, arousing), confirmed by direct "
+            "reading of the source's own elided middle three.",
+        ]),
+    ],
+    terms=[
+        ("pañca kāmaguṇā", "&ldquo;five kinds of sensual "
+             "stimulation&rdquo; &mdash; objects across all five "
+             "physical senses capable of arousing desire"),
+        ("cakkhuviññeyyā rūpā... kāyaviññeyyā phoṭṭhabbā", "sights "
+             "known by the eye... touches known by the body &mdash; "
+             "the first and last of the five sense doors, written "
+             "out in full while sounds, smells, and tastes are "
+             "elided as following the same pattern"),
+        ("iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā", "&ldquo;"
+             "likable, desirable, agreeable, pleasant, sensual, and "
+             "arousing&rdquo; &mdash; the sixfold description applied "
+             "identically to all five sense objects"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "the four verbs "
+             "established at SN 45.161-162, carried forward "
+             "unchanged, here applied to a fivefold sensory rather "
+             "than mental object"),
+        ("chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; the Pāli root's "
+             "own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse, including the source's own "
+        "elision of the middle three sense doors. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.176:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own fivefold list differ in kind from the discourses immediately before it?",
+         "opts": ["It is organized by physical sense door, rather than by mental quality or tendency", "It has no relationship to sensory experience at all", "It repeats SN 45.175's own seven tendencies exactly", "It introduces a completely new set of closing formulas"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the five kāmaguṇa run through the five physical senses (eye, ear, nose, tongue, body)."},
+        {"q": "Which two sense doors does the source write out in full, leaving the other three elided?",
+         "opts": ["Sights known by the eye, and touches known by the body", "Only sounds known by the ear", "All five are written out in full with no elision", "Smells and tastes only"],
+         "correct": 0,
+         "expl": "The first and last of the five, with sounds, smells, and tastes elided as following the identical pattern."},
+        {"q": "What sixfold description is applied identically to each of the five sense objects?",
+         "opts": ["Likable, desirable, agreeable, pleasant, sensual, and arousing", "Impermanent, suffering, not-self, empty, signless, and wishless", "Sensuality, existence, views, ignorance, doubt, and conceit", "Blue, yellow, red, white, black, and mixed"],
+         "correct": 0,
+         "expl": "A standard formulaic description of what makes a sense object capable of arousing desire."},
+    ],
+    marginalia=[
+        ("Five senses, one arousing quality", [
+            "eye and body written out in full —",
+            "ear, nose, tongue elided the same way",
+        ]),
+        ("A physical list, not a mental one", [
+            "unlike the tendencies just before it —",
+            "the senses themselves, named in turn",
+        ]),
+        ("Likable, desirable, arousing — sixfold, unchanging", [
+            "the same six words for every sense —",
+            "confirmed by the source's own repetition"
+        ]),
+        ("Four discourses remain", [
+            "hindrances, aggregates ahead —",
+            "then lower and higher fetters close the vagga"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.176/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.175.html\">SN 45.175 &middot; "
+        "Tendencies</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.177.html\">SN 45.177 &middot; "
+        "Hindrances</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 45.177 — Nīvaraṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 177, "Nīvaraṇa", "Hindrances",
+    vagga="Oghavagga",
+    meta_title="SN 45.177 — Hindrances | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nīvaraṇasutta &mdash; the five hindrances to meditation, "
+        "one of the canon's own most frequently discussed lists. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.176"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One sentence, matching this vagga's own established "
+                 "compressed presentation"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, naming one of the canon's own most "
+                       "familiar lists"),
+    ],
+    why=(
+        "The five hindrances &mdash; sensual desire, ill will, "
+        "dullness and drowsiness, restlessness and remorse, and doubt "
+        "&mdash; are among the most practically central lists in the "
+        "entire canon, obstacles to meditative concentration named "
+        "and discussed at far greater length elsewhere."
+    ),
+    guide=[
+        ("A practical list, briefly held here", [
+            "Unlike this vagga's own more abstract or doctrinally "
+            "specialized lists (grasping, ties, tendencies), the five "
+            "hindrances are a directly practical classification "
+            "familiar to any meditator &mdash; named here with this "
+            "vagga's own single compressed line, in sharp contrast to "
+            "the extended treatment they typically receive elsewhere "
+            "in the canon.",
+        ]),
+    ],
+    terms=[
+        ("pañca nīvaraṇā", "&ldquo;five hindrances&rdquo; &mdash; "
+             "obstacles to meditative concentration, among the most "
+             "frequently discussed lists in the entire canon"),
+        ("kāmacchandanīvaraṇaṁ byāpādanīvaraṇaṁ thinamiddhanīvaraṇaṁ "
+             "uddhaccakukkuccanīvaraṇaṁ vicikicchānīvaraṇaṁ", "the "
+             "hindrances of sensual desire, ill will, dullness and "
+             "drowsiness, restlessness and remorse, and doubt &mdash; "
+             "the five named here"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "the four verbs "
+             "established at SN 45.161-162, carried forward "
+             "unchanged"),
+        ("ariyo aṭṭhaṅgiko maggo bhāvetabbo", "&ldquo;the noble "
+             "eightfold path should be developed&rdquo; &mdash; this "
+             "discourse's own base-formula conclusion"),
+        ("sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.177:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What five hindrances does this discourse name?",
+         "opts": ["Sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt", "Sensuality, desire to be reborn, views, and ignorance", "Sights, sounds, smells, tastes, and touches", "Substantialist view, doubt, misapprehension of precepts, sensual desire, and ill will"],
+         "correct": 0,
+         "expl": "One of the most familiar and practically central lists in the entire canon."},
+        {"q": "How does this discourse's own treatment of the hindrances compare to their treatment elsewhere in the canon?",
+         "opts": ["Given only this vagga's own single compressed line, in contrast to far more extended treatment elsewhere", "Given more detailed treatment here than anywhere else", "The hindrances are not discussed anywhere else in the canon", "This discourse introduces a sixth, previously unknown hindrance"],
+         "correct": 0,
+         "expl": "A practically central topic treated briefly here, consistent with this vagga's own compressed format."},
+        {"q": "What role do the five hindrances typically play in meditation practice?",
+         "opts": ["They obstruct meditative concentration and must be overcome for deeper states to arise", "They are required prerequisites for meditation", "They have no relevance to meditation at all", "They are synonyms for the five aggregates"],
+         "correct": 0,
+         "expl": "A foundational teaching for meditators throughout the Buddhist tradition, though only briefly named here."},
+    ],
+    marginalia=[
+        ("Five hindrances, one compressed line", [
+            "sensual desire, ill will, dullness —",
+            "restlessness, doubt, briefly named",
+        ]),
+        ("A meditator's own familiar obstacles", [
+            "treated at length elsewhere in the canon —",
+            "here, just this vagga's own established formula",
+        ]),
+        ("Practical, not abstract", [
+            "unlike ties or tendencies just before it —",
+            "a list any meditator would recognize"
+        ]),
+        ("Three discourses remain", [
+            "aggregates ahead —",
+            "then lower and higher fetters close the vagga"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.177/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.176.html\">SN 45.176 &middot; Kinds of "
+        "Sensual Stimulation</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.178.html\">SN 45.178 &middot; Grasping "
+        "Aggregates</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.178 — Khandhasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 178, "Khandha", "Grasping Aggregates",
+    vagga="Oghavagga",
+    meta_title="SN 45.178 — Grasping Aggregates | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Khandhasutta &mdash; the five grasping aggregates, "
+        "returning from SN 45.159's own earlier appearance in this "
+        "saṃyutta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.177"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One sentence, matching this vagga's own established "
+                 "compressed presentation"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, naming a foundational list already "
+                       "met once before in this saṃyutta"),
+    ],
+    why=(
+        "The five grasping aggregates &mdash; form, feeling, "
+        "perception, choices, and consciousness &mdash; return here "
+        "after their own earlier appearance at SN 45.159 (A Guest "
+        "House), now treated with this vagga's own compressed "
+        "four-verb formula rather than the more elaborated "
+        "question-and-answer format used there."
+    ),
+    guide=[
+        ("The second appearance of this list in this saṃyutta", [
+            "SN 45.159 named the five grasping aggregates as one of "
+            "four explicit tasks (alongside ignorance and craving, "
+            "knowledge and freedom, serenity and discernment), each "
+            "given its own explanatory question and answer. This "
+            "discourse instead compresses the same aggregates into a "
+            "single line under the four-verb formula established "
+            "since SN 45.161 &mdash; the identical content, presented "
+            "through this vagga's own more economical convention.",
+        ]),
+    ],
+    terms=[
+        ("pañcupādānakkhandhā", "&ldquo;five grasping aggregates"
+             "&rdquo; &mdash; the same term already met at SN 45.159, "
+             "naming what a mendicant should completely understand"),
+        ("rūpupādānakkhandho vedanupādānakkhandho saññupādānakkhandho "
+             "saṅkhārupādānakkhandho viññāṇupādānakkhandho", "the "
+             "grasping aggregates of form, feeling, perception, "
+             "choices, and consciousness &mdash; the five named here"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "the four verbs "
+             "established at SN 45.161-162, carried forward "
+             "unchanged"),
+        ("ariyo aṭṭhaṅgiko maggo bhāvetabbo", "&ldquo;the noble "
+             "eightfold path should be developed&rdquo; &mdash; this "
+             "discourse's own base-formula conclusion"),
+        ("aṭṭhamaṁ", "&ldquo;the eighth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.178:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "Where did the five grasping aggregates already appear once before in this saṃyutta?",
+         "opts": ["SN 45.159 (A Guest House), as one of four explicit tasks with its own question and answer", "This is their only appearance anywhere in SN 45", "SN 45.171 (Floods)", "They have never appeared before in the canon"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the identical content, presented through two different conventions."},
+        {"q": "How does this discourse's own presentation differ from SN 45.159's own?",
+         "opts": ["It compresses the aggregates into a single line under the four-verb formula, rather than an explicit question and answer", "It adds a sixth aggregate not named at SN 45.159", "It removes the aggregates entirely and discusses something else", "There is no difference at all"],
+         "correct": 0,
+         "expl": "The identical five aggregates, presented through this vagga's own more economical convention."},
+        {"q": "What five aggregates does this discourse name?",
+         "opts": ["Form, feeling, perception, choices, and consciousness", "Sensual desire, ill will, dullness, restlessness, and doubt", "Sights, sounds, smells, tastes, and touches", "Substantialist view, doubt, precepts, sensual desire, and ill will"],
+         "correct": 0,
+         "expl": "The five khandha, foundational to the entire Buddhist analysis of experience."},
+    ],
+    marginalia=[
+        ("A familiar list, returning", [
+            "met once before, at SN 45.159 —",
+            "now compressed into this vagga's own single line",
+        ]),
+        ("Same content, a different convention", [
+            "explicit question there, compression here —",
+            "confirming the vagga's own economical rhythm"
+        ]),
+        ("Form, feeling, perception, choices, consciousness", [
+            "the five that make up all experience —",
+            "briefly named, not re-explained"
+        ]),
+        ("Two discourses remain", [
+            "lower fetters, then higher —",
+            "the second closing the entire saṃyutta"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.178/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.177.html\">SN 45.177 &middot; "
+        "Hindrances</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.179.html\">SN 45.179 &middot; Lower "
+        "Fetters</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.179 — Orambhāgiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 179, "Orambhāgiya", "Lower Fetters",
+    vagga="Oghavagga",
+    meta_title="SN 45.179 — Lower Fetters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Orambhāgiyasutta &mdash; the five lower fetters, this "
+        "vagga's own penultimate discourse before its higher-fetter "
+        "companion closes the entire saṃyutta. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.178"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One sentence, matching this vagga's own established "
+                 "compressed presentation"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, this vagga's own penultimate discourse"),
+    ],
+    why=(
+        "The five lower fetters &mdash; substantialist view, doubt, "
+        "misapprehension of precepts and observances, sensual "
+        "desire, and ill will &mdash; bind beings to the sensual "
+        "realm, forming a paired classification with the five higher "
+        "fetters that will close this vagga, and the entire "
+        "Maggasaṃyutta, at SN 45.180."
+    ),
+    guide=[
+        ("A deliberate pairing with the discourse that follows", [
+            "The five lower fetters (binding beings to the sensual "
+            "realm) and the five higher fetters (binding beings to "
+            "the form and formless realms, named at SN 45.180) form "
+            "a well-known paired classification &mdash; the "
+            "traditional ten fetters (saṁyojana) whose complete "
+            "removal marks full awakening, confirmed by direct "
+            "reading to be deliberately placed as this vagga's own "
+            "final two discourses.",
+        ]),
+    ],
+    terms=[
+        ("pañca orambhāgiyāni saṁyojanāni", "&ldquo;five lower "
+             "fetters&rdquo; &mdash; bindings to the sensual realm, "
+             "the first half of the traditional ten fetters"),
+        ("sakkāyadiṭṭhi vicikicchā sīlabbataparāmāso kāmacchando "
+             "byāpādo", "substantialist view, doubt, misapprehension "
+             "of precepts and observances, sensual desire, and ill "
+             "will &mdash; the five named here"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "the four verbs "
+             "established at SN 45.161-162, carried forward "
+             "unchanged"),
+        ("saṁyojana", "&ldquo;fetter&rdquo; &mdash; a binding that "
+             "keeps beings tied to continued existence, of which "
+             "tradition counts ten in total, five lower and five "
+             "higher"),
+        ("navamaṁ", "&ldquo;the ninth&rdquo; &mdash; the Pāli root's "
+             "own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.179:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What five lower fetters does this discourse name?",
+         "opts": ["Substantialist view, doubt, misapprehension of precepts and observances, sensual desire, and ill will", "Desire for rebirth in the form realm, desire for rebirth in the formless realm, conceit, restlessness, and ignorance", "Sensuality, desire to be reborn, views, and ignorance", "Form, feeling, perception, choices, and consciousness"],
+         "correct": 0,
+         "expl": "The first half of the traditional ten fetters, binding beings to the sensual realm specifically."},
+        {"q": "What discourse does this one deliberately pair with, to close this vagga and the entire saṃyutta?",
+         "opts": ["SN 45.180, naming the five higher fetters", "SN 45.171, returning to the four floods", "SN 45.159, on the guest house", "No discourse pairs with this one"],
+         "correct": 0,
+         "expl": "Together, the lower and higher fetters form the traditional ten fetters whose full removal marks complete awakening."},
+        {"q": "What do the ten fetters (five lower, five higher) collectively represent in Buddhist doctrine?",
+         "opts": ["The complete set of bindings whose full removal marks full awakening", "A list of monastic precepts", "A description of the five aggregates", "A cosmological map of the six realms"],
+         "correct": 0,
+         "expl": "One of the canon's own most important frameworks for describing the stages of awakening."},
+    ],
+    marginalia=[
+        ("Five fetters, binding to the sensual realm", [
+            "view, doubt, ritual, desire, ill will —",
+            "half of the traditional ten",
+        ]),
+        ("A deliberate pairing, one discourse away", [
+            "higher fetters wait just ahead —",
+            "together, the complete set of ten"
+        ]),
+        ("This vagga's own penultimate discourse", [
+            "one page remains —",
+            "closing this vagga and the entire saṃyutta"
+        ]),
+        ("A framework marking full awakening", [
+            "ten fetters, fully removed —",
+            "the traditional measure of the path's own completion"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.179/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.178.html\">SN 45.178 &middot; Grasping "
+        "Aggregates</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.180.html\">SN 45.180 &middot; Higher "
+        "Fetters</a> &mdash; the next page, closing this vagga and "
+        "the entire Maggasaṃyutta.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 45.180 — Uddhambhāgiyasutta (vagga close, saṃyutta close)
+# --------------------------------------------------------------------------- #
+page(
+    45, 180, "Uddhambhāgiya", "Higher Fetters",
+    vagga="Oghavagga",
+    meta_title="SN 45.180 — Higher Fetters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Uddhambhāgiyasutta — the five higher fetters, closing "
+        "the Oghavagga and the entire Maggasaṃyutta (SN 45) with the "
+        "complete fourfold formula and this saṃyutta's own full "
+        "vagga-level uddāna. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Two parts: the base formula in full, then all four "
+                 "closing formulas restated once more, plus the "
+                 "entire saṃyutta's own vagga-level uddāna"),
+        ("Length", "2-3 minutes to read, plus a described (not "
+                   "translated) triple colophon and uddāna"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "closes both this vagga and the entire "
+                       "Maggasaṃyutta"),
+    ],
+    why=(
+        "The five higher fetters &mdash; desire for rebirth in the "
+        "realm of luminous form, desire for rebirth in the formless "
+        "realm, conceit, restlessness, and ignorance &mdash; complete "
+        "the traditional ten fetters begun at SN 45.179, and with "
+        "them, this discourse closes not only the Oghavagga but the "
+        "entire Maggasaṃyutta &mdash; the first full saṃyutta of "
+        "Book V (the Mahāvagga), confirmed by the source's own "
+        "closing note: &ldquo;the Linked Discourses on the Path is "
+        "the first section.&rdquo;"
+    ),
+    guide=[
+        ("The complete ten fetters, and one final formula in full", [
+            "Where every discourse since SN 45.162 has compressed "
+            "the fourfold formula into a single base-formula line, "
+            "this closing discourse reprises SN 45.161's own fuller "
+            "presentation one final time &mdash; restating the five "
+            "higher fetters with all four closing formulas (base; "
+            "removal of greed, hate, delusion; freedom from death; "
+            "self-referential extinguishment) explicitly written out "
+            "in turn, confirming the full matrix established at this "
+            "saṃyutta's own Book V opening remains intact at its "
+            "close.",
+        ]),
+        ("A triple colophon: discourse, vagga, and entire saṃyutta", [
+            "This discourse's own closing carries three nested "
+            "levels of numbering and summary, confirmed by direct "
+            "reading of the Pāli root (left untranslated in the "
+            "consulted English source beyond one final sentence): "
+            "(1) &ldquo;Dasamaṁ&rdquo; (&ldquo;the tenth&rdquo;), "
+            "closing this vagga's own ten discourses; (2) "
+            "&ldquo;Oghavaggo aṭṭhamo&rdquo; (&ldquo;the Floods "
+            "chapter, the eighth&rdquo;), an internal numbering note "
+            "whose exact scope this project does not confidently "
+            "interpret, as with similar notes closing earlier vaggas; "
+            "and (3) a full vagga-level uddāna (vagguddānaṁ) naming "
+            "every vagga of the entire Maggasaṃyutta in sequence.",
+        ]),
+        ("A genuine discrepancy, described rather than resolved", [
+            "The saṃyutta's own closing vagga-uddāna states "
+            "&ldquo;Oghavaggo bhavati terasāti&rdquo; (&ldquo;the "
+            "Floods vagga is the thirteenth&rdquo;) &mdash; yet this "
+            "project's own tracking, built from the 0.2 vagga-heading "
+            "confirmed at the start of every discourse throughout "
+            "SN 45, counts Oghavagga as the FOURTEENTH vagga. The "
+            "most likely explanation, based on the uddāna's own "
+            "numbering pattern, is that the two Gaṅgāpeyyāla vaggas "
+            "(this project's own ninth and tenth) are counted as a "
+            "single traditional vagga in this older numbering scheme "
+            "&mdash; but this project does not claim certainty on "
+            "the point, and describes the discrepancy honestly rather "
+            "than silently resolving it in either direction.",
+        ]),
+        ("The Maggasaṃyutta, confirmed complete", [
+            "The discourse's own final line, rendered in English as "
+            "&ldquo;The Linked Discourses on the Path is the first "
+            "section,&rdquo; confirms SN 45 as the first saṃyutta of "
+            "the Mahāvagga (Book V) &mdash; with this page, all "
+            "fourteen vaggas and 180 discourses of the Maggasaṃyutta "
+            "are complete on this site.",
+        ]),
+    ],
+    terms=[
+        ("pañca uddhambhāgiyāni saṁyojanāni", "&ldquo;five higher "
+             "fetters&rdquo; &mdash; bindings to the form and "
+             "formless realms, completing the traditional ten "
+             "fetters begun at SN 45.179's own five lower fetters"),
+        ("rūparāgo arūparāgo māno uddhaccaṁ avijjā", "desire for "
+             "rebirth in the realm of luminous form, desire for "
+             "rebirth in the formless realm, conceit, restlessness, "
+             "and ignorance &mdash; the five named here"),
+        ("oghavaggo aṭṭhamo", "&ldquo;the Floods chapter, the "
+             "eighth&rdquo; &mdash; an internal numbering note whose "
+             "exact scope this project does not confidently interpret"),
+        ("vagguddānaṁ", "&ldquo;the summary verse of vaggas&rdquo; "
+             "&mdash; introducing the closing list naming every vagga "
+             "of the entire Maggasaṃyutta in sequence, left "
+             "untranslated in the consulted English source"),
+        ("maggasaṁyuttaṁ paṭhamaṁ", "&ldquo;the Path-Saṃyutta is the "
+             "first&rdquo; &mdash; confirming SN 45's own position as "
+             "the first saṃyutta of the Mahāvagga (Book V), rendered "
+             "in the consulted English source as &ldquo;the Linked "
+             "Discourses on the Path is the first section&rdquo;"),
+    ],
+    text_intro=("Every genuinely translated fragment across this "
+        "discourse's own two parts, closing both this vagga and the "
+        "entire Maggasaṃyutta. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "Part 1 &mdash; the base formula, in full",
+             "sn45.180:1.1-1.8"),
+        ("p", "Part 2 &mdash; all four closing formulas restated in "
+              "turn", "sn45.180:2.1-2.10"),
+        ("p", "The saṃyutta's own closing note",
+             "sn45.180:6.6"),
+    ],
+    quiz=[
+        {"q": "What makes this discourse's own second part structurally unusual, compared to every discourse since SN 45.162?",
+         "opts": ["It writes out all four closing formulas explicitly, reprising SN 45.161's own fuller presentation one final time", "It has no closing formula at all", "It introduces a fifth, entirely new closing formula", "It omits the eightfold path entirely"],
+         "correct": 0,
+         "expl": "Confirming the full formula matrix established at Book V's own opening remains intact at this saṃyutta's own close."},
+        {"q": "What discrepancy does this discourse's own closing vagga-uddāna reveal, which this project describes honestly rather than resolving?",
+         "opts": ["The uddāna counts Oghavagga as the thirteenth vagga, while this project's own tracking counts it as the fourteenth", "The uddāna claims there are only three vaggas in the entire saṃyutta", "The uddāna omits the Oghavagga entirely", "There is no discrepancy — the counts match exactly"],
+         "correct": 0,
+         "expl": "Most likely because the two Gaṅgāpeyyāla vaggas are counted as one in this older numbering scheme — but this project does not claim certainty."},
+        {"q": "What does this discourse's own final line confirm about the Maggasaṃyutta (SN 45)?",
+         "opts": ["It is the first saṃyutta of the Mahāvagga (Book V)", "It is the final saṃyutta of the entire Saṃyutta Nikāya", "It belongs to Book III, not Book V", "It has no defined position within the collection"],
+         "correct": 0,
+         "expl": "Rendered in English as \"the Linked Discourses on the Path is the first section\" — confirming SN 45's own place as Book V's opening saṃyutta."},
+    ],
+    marginalia=[
+        ("Five higher fetters, completing the ten", [
+            "form-realm and formless-realm desire, conceit —",
+            "restlessness, ignorance, the final five",
+        ]),
+        ("One last formula, written out in full", [
+            "not compressed, as the discourses between —",
+            "the whole fourfold structure, still intact"
+        ]),
+        ("A discrepancy honestly left open", [
+            "\"the thirteenth,\" the uddāna claims —",
+            "this project's own count says fourteen, and says so plainly",
+        ]),
+        ("The Maggasaṃyutta, complete", [
+            "180 discourses, fourteen vaggas —",
+            "the first saṃyutta of Book V, now finished on this site",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.180/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.179.html\">SN 45.179 &middot; Lower "
+        "Fetters</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṁyutta Nikāya index</a> &mdash; "
+        "the next saṃyutta, Bojjhaṅgasaṃyutta (Book V's own second "
+        "saṃyutta, on the awakening factors), is still in "
+        "preparation.",
+    ],
+)
