@@ -35415,3 +35415,141 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.13 — Dutiyasaṅkhittasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 13, "Dutiyasaṅkhitta", "In Brief (2nd)",
+    vagga="Mudutaravagga",
+    meta_title="SN 48.13 — In Brief (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasaṅkhittasutta — repeating SN 48.12's own six "
+        "levels of attainment, then adding a general principle: "
+        "disparity of faculties produces disparity of fruits, and "
+        "disparity of fruits produces disparity of individuals. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "SN 48.12's own six-level scale repeated, followed "
+                 "by a closing generalization not present in that "
+                 "earlier discourse"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, and worth reading directly after SN "
+                       "48.12 to see what is genuinely added"),
+    ],
+    why=(
+        "This discourse repeats SN 48.12's own six-level scale of "
+        "attainment &mdash; arahant down to follower by faith, each "
+        "marked by a progressively weaker degree of the five "
+        "faculties &mdash; then adds a closing generalization not "
+        "present in that earlier discourse: &ldquo;from a disparity "
+        "of faculties there's a disparity of fruits, and from a "
+        "disparity of fruits there's a disparity of individuals,"
+        "&rdquo; naming the causal logic behind the entire scale "
+        "explicitly."
+    ),
+    guide=[
+        ("The same scale, confirmed word for word", [
+            "Confirmed by direct reading, this discourse's own "
+            "six-level scale &mdash; arahant, non-returner, "
+            "once-returner, stream-enterer, follower of teachings, "
+            "follower by faith &mdash; is WORD FOR WORD identical to "
+            "SN 48.12's own, differing only in the source's own use "
+            "of an ellipsis for the middle four levels rather than "
+            "spelling each one out.",
+        ]),
+        ("A new closing generalization, genuinely added", [
+            "Confirmed by direct reading, this discourse's own "
+            "final sentence &mdash; &ldquo;indriyavemattatā "
+            "phalavemattatā hoti, phalavemattatā puggalavemattatā"
+            "&rdquo; (&ldquo;from a disparity of faculties there's a "
+            "disparity of fruits, and from a disparity of fruits "
+            "there's a disparity of individuals&rdquo;) &mdash; is "
+            "NOT present at SN 48.12, and states explicitly the "
+            "causal logic that discourse's own scale only "
+            "demonstrated by example.",
+        ]),
+        ("A three-step causal chain named directly", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing line traces a clear three-step chain: "
+            "differences in the FACULTIES themselves cause "
+            "differences in the FRUITS (phala, the attainments "
+            "reached), which in turn cause differences in the "
+            "INDIVIDUALS (puggala) &mdash; naming faculties as the "
+            "root cause of the very distinctions between types of "
+            "noble persons.",
+        ]),
+    ],
+    terms=[
+        ("indriyavemattatā", "&ldquo;disparity, diversity of "
+             "faculties&rdquo; &mdash; the first link in this "
+             "discourse's own closing causal chain"),
+        ("phalavemattatā", "&ldquo;disparity of fruits&rdquo; "
+             "&mdash; the second link, naming the differing "
+             "attainments that result from differing faculties"),
+        ("puggalavemattatā", "&ldquo;disparity of individuals&rdquo; "
+             "&mdash; the third and final link, naming the "
+             "distinction between types of noble persons as the "
+             "ultimate result"),
+        ("phala", "&ldquo;fruit&rdquo; &mdash; a term for the "
+             "attainment or result reached through practice, used "
+             "here as the middle link in the causal chain"),
+        ("mudutarehi", "&ldquo;weaker than that&rdquo; &mdash; the "
+             "same repeated term from SN 48.12, here elided with an "
+             "ellipsis for the middle four levels"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.13:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own six-level scale compare to SN 48.12's own?",
+         "opts": ["Word for word identical, though this source elides the middle four levels with an ellipsis", "Completely different, naming an entirely new set of levels", "Reduced to only two levels instead of six", "Expanded to include additional levels beyond SN 48.12's own six"],
+         "correct": 0,
+         "expl": "Differing only in how the source presents the middle four levels, not in their actual content."},
+        {"q": "What does this discourse add that SN 48.12 does not contain?",
+         "opts": ["A closing generalization naming the causal chain from faculties to fruits to individuals", "An entirely new set of faculties", "A narrative involving a specific mendicant", "A denial of the six-level scale's own validity"],
+         "correct": 0,
+         "expl": "\"From a disparity of faculties there's a disparity of fruits, and from a disparity of fruits there's a disparity of individuals.\""},
+        {"q": "What three-step causal chain does this discourse's own closing line trace?",
+         "opts": ["Differences in faculties cause differences in fruits, which cause differences in individuals", "Differences in individuals cause differences in faculties", "A two-step chain, not three", "No causal chain is named; the closing line is purely descriptive"],
+         "correct": 0,
+         "expl": "Naming faculties as the root cause of the very distinctions between types of noble persons."},
+    ],
+    marginalia=[
+        ("The same scale, word for word", [
+            "arahant down to follower by faith —",
+            "elided here, spelled out at SN 48.12"
+        ]),
+        ("A new closing line, genuinely added", [
+            "not present in the earlier discourse —",
+            "naming the logic behind the scale directly"
+        ]),
+        ("Faculties, fruits, individuals — one chain", [
+            "disparity causing disparity causing disparity —",
+            "three steps, traced explicitly"
+        ]),
+        ("Third discourse, Tatiyaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "many more discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.13/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.12.html\">SN 48.12 &middot; In Brief "
+        "(1st)</a> &mdash; the previous discourse, sharing this "
+        "discourse's own six-level scale.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
