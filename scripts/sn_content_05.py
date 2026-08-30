@@ -48503,3 +48503,140 @@ page(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 51.7 — Bhikkhusutta
+# --------------------------------------------------------------------------- #
+page(
+    51, 7, "Bhikkhu", "A Mendicant",
+    vagga="Cāpālavagga",
+    meta_title="SN 51.7 — A Mendicant | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhikkhusutta — every mendicant who has realized "
+        "undefiled freedom through the ending of defilements has "
+        "done so through the four bases of psychic power. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; this discourse's own bare "
+                     "opening statement"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A threefold temporal claim, narrowed to mendicants "
+                 "and the classic arahant formula"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; narrows from SN 51.5-6's own "
+                         "universal claim about psychic power to "
+                         "the classic arahant formula, specific to "
+                         "the Buddha's own mendicants"),
+    ],
+    why=(
+        "Where SN 51.5-6 claimed the four bases underlie any partial "
+        "or complete manifestation of psychic power by ascetics and "
+        "brahmins of any tradition, this discourse narrows sharply: "
+        "it claims the four bases underlie every mendicant's own "
+        "realization of the classic arahant attainment &mdash; "
+        "undefiled freedom of heart and freedom by wisdom, through "
+        "the ending of defilements."
+    ),
+    guide=[
+        ("A narrowing, confirmed by direct comparison", [
+            "This project's own explicit observation: unlike SN "
+            "51.5's own &ldquo;ascetics and brahmins&rdquo; (samaṇā "
+            "vā brāhmaṇā vā) of any tradition, this discourse's own "
+            "subject is specifically &ldquo;bhikkhū&rdquo; "
+            "(mendicants) &mdash; and unlike SN 51.5-6's own claim "
+            "about psychic power (iddhi), this discourse's own claim "
+            "is about the ending of defilements (āsavakkhaya) "
+            "itself, the highest attainment.",
+        ]),
+        ("The classic arahant formula, quoted directly", [
+            "As general canonical background, confirmed by this "
+            "discourse's own bare text: &ldquo;āsavānaṁ khayā "
+            "anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme "
+            "sayaṁ abhiññā sacchikatvā upasampajja "
+            "vihariṁsu&rdquo; is the standard formula this project "
+            "has met describing arahantship &mdash; freedom of heart "
+            "and freedom by wisdom, realized with one's own direct "
+            "insight, through the complete ending of defilements.",
+        ]),
+        ("A third variant in a developing series", [
+            "This project's own running observation: SN 51.5 (partial "
+            "psychic power, any tradition), SN 51.6 (complete "
+            "psychic power, any tradition), and now SN 51.7 "
+            "(arahantship itself, the Buddha's own mendicants) form "
+            "a developing series of claims about the four bases' own "
+            "reach &mdash; from psychic power broadly shared across "
+            "traditions to the specific liberation attained within "
+            "this teaching.",
+        ]),
+    ],
+    terms=[
+        ("āsavānaṁ khayā", "&ldquo;through the ending of "
+             "defilements&rdquo; &mdash; the condition for the "
+             "classic arahant attainment"),
+        ("anāsavaṁ cetovimuttiṁ paññāvimuttiṁ", "&ldquo;undefiled "
+             "freedom of heart and freedom by wisdom&rdquo; &mdash; "
+             "the standard formula for arahantship"),
+        ("diṭṭheva dhamme sayaṁ abhiññā sacchikatvā", "&ldquo;in this "
+             "very life... having realized it with their own "
+             "insight&rdquo; &mdash; a direct, personal "
+             "verification, not a belief taken on faith"),
+        ("bhikkhū", "&ldquo;mendicants&rdquo; &mdash; narrower than "
+             "SN 51.5-6's own &ldquo;ascetics and brahmins&rdquo; of "
+             "any tradition"),
+        ("Sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's "
+             "seventh discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.7:1.1-1.3"),
+        ("p", "&sect;2", "sn51.7:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own scope differ from SN 51.5-6's own claim?",
+         "opts": ["It narrows to mendicants specifically and to the ending of defilements (arahantship), rather than ascetics and brahmins of any tradition manifesting psychic power", "It is identical in scope to SN 51.5-6 in every respect", "It expands to include beings in heavenly realms", "It applies only to the Buddha himself, not any mendicant"],
+         "correct": 0,
+         "expl": "A narrowing this project confirms by direct comparison — mendicants and liberation, not any tradition and psychic power."},
+        {"q": "What does the phrase \"anāsavaṁ cetovimuttiṁ paññāvimuttiṁ\" describe, as general canonical background?",
+         "opts": ["The standard formula for arahantship — undefiled freedom of heart and freedom by wisdom", "A preliminary stage before stream-entry", "A synonym for psychic power itself", "A term unique to this single discourse"],
+         "correct": 0,
+         "expl": "The classic arahant attainment formula, met elsewhere throughout the canon."},
+        {"q": "What series does this project note across SN 51.5-7?",
+         "opts": ["A developing series moving from psychic power shared across traditions to the specific liberation attained within this teaching", "Three unrelated, disconnected discourses with no common thread", "A series that contradicts itself from one discourse to the next", "A series claiming only the Buddha himself ever attained liberation"],
+         "correct": 0,
+         "expl": "Partial power, then complete power, then arahantship itself — a widening claim about the four bases' own reach."},
+    ],
+    marginalia=[
+        ("From any tradition to this one", [
+            "ascetics and brahmins, broadly —",
+            "now mendicants, specifically"
+        ]),
+        ("From psychic power to liberation itself", [
+            "iddhi, then āsavakkhaya —",
+            "a claim reaching its own highest point"
+        ]),
+        ("Verified by one's own insight", [
+            "sayaṁ abhiññā, not taken on faith —",
+            "realized directly, in this very life"
+        ]),
+        ("Seventh discourse, Sattamaṁ", [
+            "a third variant, not a repeat —",
+            "the vagga's own sequence keeps widening"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.6.html\">SN 51.6 &middot; Completely</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
