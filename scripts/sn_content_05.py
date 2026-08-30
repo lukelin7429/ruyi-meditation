@@ -34704,3 +34704,144 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.8 — Daṭṭhabbasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 8, "Daṭṭhabba", "Should Be Seen",
+    vagga="Suddhikavagga",
+    meta_title="SN 48.8 — Should Be Seen | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Daṭṭhabbasutta — mapping each of the five faculties onto "
+        "a specific fourfold grouping where it should be recognized: "
+        "faith in the factors of stream-entry, energy in the right "
+        "efforts, mindfulness in the four kinds of mindfulness "
+        "meditation, immersion in the four absorptions, and wisdom "
+        "in the four noble truths. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Five paired questions and answers, each naming "
+                 "where one faculty should be seen"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; maps each faculty onto a "
+                         "DIFFERENT fourfold grouping, including this "
+                         "project's own just-completed "
+                         "Satipaṭṭhānasaṃyutta"),
+    ],
+    why=(
+        "This discourse takes yet another approach, structurally "
+        "distinct from every earlier discourse in this vagga: rather "
+        "than a shared analytical lens applied to all five faculties "
+        "together, it asks WHERE each individual faculty should be "
+        "recognized (daṭṭhabba, &ldquo;should be seen&rdquo;), "
+        "mapping each of the five onto a DIFFERENT fourfold grouping "
+        "&mdash; including, for the faculty of mindfulness, the four "
+        "kinds of mindfulness meditation this project has just "
+        "finished translating in full as the Satipaṭṭhānasaṃyutta "
+        "(SN 47)."
+    ),
+    guide=[
+        ("Five faculties, five different fourfold homes", [
+            "Confirmed by direct reading, this discourse maps each "
+            "faculty onto its own distinct grouping: faith onto the "
+            "four factors of stream-entry (sotāpattiyaṅga), energy "
+            "onto the four right efforts (sammappadhāna), "
+            "mindfulness onto the four kinds of mindfulness "
+            "meditation (satipaṭṭhāna), immersion onto the four "
+            "absorptions (jhāna), and wisdom onto the four noble "
+            "truths (ariyasacca) &mdash; five faculties, each with "
+            "its own separate fourfold home.",
+        ]),
+        ("A direct link to this project's own completed work", [
+            "This project's own recently completed Satipaṭṭhāna-"
+            "saṃyutta (SN 47, all 104 discourses) is confirmed by "
+            "direct reading to be the very grouping this discourse "
+            "names for the faculty of mindfulness &mdash; giving "
+            "this brief discourse an unusually direct connection to "
+            "a body of work this project has already finished in "
+            "full.",
+        ]),
+        ("A structural map, not a causal or analytical claim", [
+            "Confirmed by direct reading, this discourse makes no "
+            "claim about origin, cessation, gratification, or "
+            "escape &mdash; unlike every earlier discourse in this "
+            "vagga &mdash; it simply LOCATES each faculty within an "
+            "already-existing fourfold framework, a structural "
+            "cross-reference rather than an analytical or causal "
+            "statement.",
+        ]),
+    ],
+    terms=[
+        ("daṭṭhabba", "&ldquo;should be seen, should be "
+             "recognized&rdquo; &mdash; this discourse's own title "
+             "term and governing verb"),
+        ("cattāri sotāpattiyaṅgāni", "&ldquo;the four factors of "
+             "stream-entry&rdquo; &mdash; where the faculty of faith "
+             "is said to be seen"),
+        ("cattāro sammappadhānā", "&ldquo;the four right "
+             "efforts&rdquo; &mdash; where the faculty of energy is "
+             "said to be seen"),
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; where the "
+             "faculty of mindfulness is said to be seen, the same "
+             "grouping this project has already translated in full "
+             "as the Satipaṭṭhānasaṃyutta"),
+        ("cattāri jhānāni... cattāri ariyasaccāni", "&ldquo;the "
+             "four absorptions... the four noble truths&rdquo; "
+             "&mdash; where the faculties of immersion and wisdom "
+             "are said to be seen, respectively"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.8:1.1-1.19"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own structure differ from SN 48.6 and SN 48.7?",
+         "opts": ["It maps each faculty onto a different fourfold grouping, rather than applying one shared analytical lens", "It repeats the exact same threefold lens as SN 48.6", "It denies the title \"true ascetic or brahmin\" as SN 48.6 and 48.7 did", "It applies no structure at all, unlike the other discourses"],
+         "correct": 0,
+         "expl": "A structural map, locating each faculty within an already-existing framework rather than analyzing it causally."},
+        {"q": "Where does this discourse say the faculty of mindfulness should be seen?",
+         "opts": ["In the four kinds of mindfulness meditation — the same grouping this project has already completed as SN 47", "In the four noble truths", "In the four right efforts", "In the four absorptions"],
+         "correct": 0,
+         "expl": "Giving this discourse a direct connection to a body of work this project has already finished in full."},
+        {"q": "What kind of claim does this discourse make about the five faculties?",
+         "opts": ["A structural cross-reference, locating each faculty within a related fourfold grouping", "A causal claim about origin and cessation", "A denial of a religious title", "A claim about gratification and drawback"],
+         "correct": 0,
+         "expl": "Unlike every earlier discourse in this vagga, which made analytical or causal claims."},
+    ],
+    marginalia=[
+        ("Five faculties, five different homes", [
+            "faith, energy, mindfulness, immersion, wisdom —",
+            "each mapped to its own fourfold grouping"
+        ]),
+        ("Mindfulness, mapped to already-finished work", [
+            "the four satipaṭṭhāna — SN 47, complete —",
+            "a direct link to this project's own past"
+        ]),
+        ("A map, not an analysis", [
+            "no origin, no cessation claimed here —",
+            "simply where each faculty is to be found"
+        ]),
+        ("Eighth discourse, Aṭṭhamaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "many more discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.7.html\">SN 48.7 &middot; Ascetics and "
+        "Brahmins (2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
