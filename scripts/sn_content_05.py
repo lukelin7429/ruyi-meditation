@@ -41092,3 +41092,149 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.52 — Mallikasutta
+# Directly echoes SN 48.45's own reasoning and even its identical
+# closing phrasing ("tadanvayā saddhā saṇṭhāti..."), but adds a vivid
+# new architectural simile: noble knowledge (wisdom) as the roof-peak
+# that stabilizes the other four faculties as rafters, not fixed in
+# place until the peak itself is set.
+# --------------------------------------------------------------------------- #
+page(
+    48, 52, "Mallika", "In the Land of the Mallas",
+    vagga="Sūkarakhatavagga",
+    meta_title="SN 48.52 — In the Land of the Mallas | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mallikasutta — noble knowledge stabilizes the four "
+        "faculties of faith, energy, mindfulness, and immersion, "
+        "illustrated by the simile of a peaked roof stabilizing its "
+        "own rafters. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The land of the Mallas, near the town of "
+                     "Uruvelakappa"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A doctrinal statement illustrated by an "
+                 "architectural simile"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; echoes SN 48.45's own reasoning "
+                         "with near-identical phrasing, but adds a "
+                         "vivid new architectural image not yet met "
+                         "in this saṃyutta"),
+    ],
+    why=(
+        "This discourse echoes this project's own SN 48.45 closely "
+        "&mdash; noble knowledge (wisdom) stabilizes the other four "
+        "faculties, using the identical closing phrase, "
+        "&ldquo;tadanvayā saddhā saṇṭhāti&rdquo; (&ldquo;the faith "
+        "that follows along with that becomes stabilized&rdquo;) "
+        "&mdash; but illustrates the point with a genuinely new "
+        "image: a peaked roof, whose rafters are not fixed in place "
+        "until the roof's own peak is lifted and set."
+    ),
+    guide=[
+        ("A close echo of SN 48.45's own reasoning and phrasing", [
+            "Confirmed by direct comparison, this discourse's own "
+            "closing sentence &mdash; &ldquo;tadanvayā saddhā "
+            "saṇṭhāti, tadanvayaṁ vīriyaṁ saṇṭhāti&rdquo; &mdash; "
+            "matches this project's own SN 48.45 word for word: the "
+            "faith, energy, mindfulness, and immersion that "
+            "&ldquo;follow along with&rdquo; wisdom become "
+            "stabilized once a noble disciple has wisdom.",
+        ]),
+        ("A new architectural simile: the roof-peak and its rafters", [
+            "Confirmed by direct reading, this discourse illustrates "
+            "the same point with an image not yet met in this "
+            "saṃyutta: in a peaked-roof building, the rafters "
+            "(gopānasī) are not stable or fixed until the roof's own "
+            "peak (kūṭa) is lifted into place; once the peak is set, "
+            "the rafters become stable and fixed &mdash; exactly as "
+            "the four faculties become stable once noble knowledge "
+            "(the wisdom faculty) has arisen.",
+        ]),
+        ("Noble knowledge, framing wisdom in a new term", [
+            "Confirmed by direct reading, this discourse names the "
+            "stabilizing factor &ldquo;ariyañāṇaṁ&rdquo; "
+            "(&ldquo;noble knowledge&rdquo;) rather than simply "
+            "&ldquo;paññindriya&rdquo; (&ldquo;the faculty of "
+            "wisdom&rdquo;) as SN 48.45 did &mdash; though its own "
+            "closing sentence confirms the two refer to the same "
+            "underlying reality by returning to the standard "
+            "&ldquo;paññavato&rdquo; (&ldquo;one who has "
+            "wisdom&rdquo;) phrasing.",
+        ]),
+    ],
+    terms=[
+        ("ariyañāṇaṁ", "&ldquo;noble knowledge&rdquo; &mdash; this "
+             "discourse's own term for the stabilizing factor, "
+             "confirmed by its own closing sentence to be wisdom"),
+        ("catunnaṁ indriyānaṁ saṇṭhiti", "&ldquo;the stability of "
+             "the four faculties&rdquo; &mdash; faith, energy, "
+             "mindfulness, and immersion, dependent on wisdom's own "
+             "arising"),
+        ("kūṭāgārassa kūṭaṁ", "&ldquo;the peak of a peaked-roof "
+             "building&rdquo; &mdash; the simile's own central "
+             "image, likened to wisdom"),
+        ("gopānasīnaṁ saṇṭhiti", "&ldquo;the stability of the "
+             "rafters&rdquo; &mdash; not fixed until the roof's own "
+             "peak is lifted into place, likened to the other four "
+             "faculties"),
+        ("Dutiyaṁ", "&ldquo;the second&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's second "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; noble knowledge and the four "
+              "faculties' own stability", "sn48.52:1.1-1.5"),
+        ("p", "&sect;2 &mdash; the peaked-roof simile", "sn48.52:2.1-2.4"),
+        ("p", "&sect;3 &mdash; naming the four faculties", "sn48.52:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own closing sentence share with SN 48.45?",
+         "opts": ["Nearly identical phrasing — the other four faculties \"follow along with\" wisdom and become stabilized", "Nothing; the two discourses use entirely different language", "A denial that any faculty can be stabilized", "The same narrative setting and characters"],
+         "correct": 0,
+         "expl": "A close echo, confirmed by direct comparison of the two discourses' own text."},
+        {"q": "What does the peaked-roof simile illustrate?",
+         "opts": ["The rafters are not stable until the roof's own peak is set, just as the four faculties are not stable until wisdom arises", "That mendicants should build their own dwellings before meditating", "That roofs are inherently unstable structures", "That wisdom is less important than the other four faculties"],
+         "correct": 0,
+         "expl": "A vivid architectural image not yet met elsewhere in this saṃyutta."},
+        {"q": "How does this discourse's own term \"ariyañāṇaṁ\" relate to the faculty of wisdom?",
+         "opts": ["The discourse's own closing sentence confirms they refer to the same underlying reality, returning to the standard \"paññavato\" phrasing", "They are entirely unrelated concepts", "\"Ariyañāṇaṁ\" replaces wisdom as a sixth, separate faculty", "The discourse denies any connection between the two terms"],
+         "correct": 0,
+         "expl": "A different name for wisdom, confirmed by the discourse's own closing sentence."},
+    ],
+    marginalia=[
+        ("A close echo, word for word", [
+            "the same closing phrase as SN 48.45 —",
+            "faith, energy, mindfulness, immersion, stabilized"
+        ]),
+        ("A roof not yet set", [
+            "rafters loose until the peak is lifted —",
+            "a new image for an old point"
+        ]),
+        ("Noble knowledge, another name for wisdom", [
+            "ariyañāṇaṁ this time, not paññindriya —",
+            "confirmed the same by the discourse's own close"
+        ]),
+        ("Second discourse, Dutiyaṁ", [
+            "brief as the vagga's own opening before it —",
+            "more of Sūkarakhatavagga still ahead"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.52/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.51.html\">SN 48.51 &middot; At Sālā</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
