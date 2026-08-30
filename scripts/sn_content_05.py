@@ -39266,3 +39266,177 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.40 — Uppaṭipāṭikasutta
+# Closes 4. Sukhindriyavagga (SN 48.31-40), with its own colophon and
+# uddāna naming all ten discourses of the vagga. Confirmed by direct
+# reading: the uddāna's own compressed items — "duve samaṇabrāhmaṇā"
+# (two, for SN 48.34-35) and "Vibhaṅgena tayo" (three, for the
+# Analysis trilogy SN 48.36-38) — account for all ten discourses this
+# project has translated, vindicating the earlier honest caution at
+# SN 48.35 not to assume this vagga's length matched Vagga 3's. This
+# discourse's own title, "Irregular Order," names its own genuinely
+# unusual faculty sequence, and its content maps each feeling
+# faculty's complete cessation to a specific jhāna attainment.
+# --------------------------------------------------------------------------- #
+page(
+    48, 40, "Uppaṭipāṭika", "Irregular Order",
+    vagga="Sukhindriyavagga",
+    meta_title="SN 48.40 — Irregular Order | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Uppaṭipāṭikasutta, closing Sukhindriyavagga — each "
+        "feeling faculty's complete cessation mapped to a specific "
+        "jhāna attainment, from the first absorption to the "
+        "cessation of perception and feeling. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A structured teaching mapping each of five "
+                 "faculties, named in a deliberately unusual order, "
+                 "to a specific meditative attainment where it "
+                 "ceases completely"),
+        ("Length", "3&ndash;4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes Sukhindriyavagga at exactly "
+                         "ten discourses, confirmed by colophon and "
+                         "uddāna, and teaches one of this vagga's own "
+                         "most substantive doctrines: each feeling "
+                         "faculty's complete cessation mapped to a "
+                         "specific jhāna"),
+    ],
+    why=(
+        "This discourse closes Sukhindriyavagga at exactly ten "
+        "discourses &mdash; vindicating this project's own earlier "
+        "honest caution at SN 48.35 not to assume this vagga's "
+        "length matched Vagga 3's &mdash; and teaches a genuinely "
+        "substantive doctrine named in its own title, &ldquo;"
+        "Irregular Order&rdquo;: each of the five feeling faculties, "
+        "listed here in a deliberately unusual sequence, ceases "
+        "completely at a specific, named stage of meditative "
+        "absorption."
+    ),
+    guide=[
+        ("The vagga's own closing colophon and uddāna, confirmed exactly", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing colophon &mdash; &ldquo;Sukhindriyavaggo "
+            "catuttho&rdquo; (&ldquo;Sukhindriyavagga, the fourth "
+            "[vagga of this saṃyutta], is finished&rdquo;) &mdash; "
+            "and its own uddāna verse account for all ten discourses "
+            "this project has translated: the uddāna compresses SN "
+            "48.34-35 into &ldquo;duve samaṇabrāhmaṇā&rdquo; "
+            "(&ldquo;the two ascetics-and-brahmins [discourses]"
+            "&rdquo;) and SN 48.36-38 into &ldquo;Vibhaṅgena "
+            "tayo&rdquo; (&ldquo;three said by way of analysis"
+            "&rdquo;), together matching this project's own tracked "
+            "sequence exactly &mdash; vindicating the earlier "
+            "decision not to assume this vagga's own length in "
+            "advance.",
+        ]),
+        ("A title naming its own irregular sequence", [
+            "Confirmed by direct reading, this discourse's own "
+            "opening lists the five faculties in an order genuinely "
+            "different from every earlier discourse in this vagga: "
+            "&ldquo;pain, sadness, pleasure, happiness, "
+            "equanimity&rdquo; rather than the standard &ldquo;"
+            "pleasure, pain, happiness, sadness, equanimity&rdquo; "
+            "&mdash; and this discourse's own title, Uppaṭipāṭika "
+            "(&ldquo;irregular order&rdquo;), names exactly this "
+            "departure.",
+        ]),
+        ("Each faculty's complete cessation mapped to a specific jhāna", [
+            "Confirmed by direct reading, this discourse's own "
+            "central teaching maps each feeling faculty's own "
+            "complete cessation (&ldquo;aparisesaṁ nirujjhati,"
+            "&rdquo; &ldquo;ceases without remainder&rdquo;) to a "
+            "named meditative attainment: the pain faculty ceases in "
+            "the first absorption; the sadness faculty in the "
+            "second; the pleasure faculty in the third; the "
+            "happiness faculty in the fourth; and the equanimity "
+            "faculty only in the cessation of perception and "
+            "feeling (saññāvedayitanirodha) &mdash; the deepest "
+            "attainment named in this discourse's own text, beyond "
+            "even the formless absorptions.",
+        ]),
+    ],
+    terms=[
+        ("Sukhindriyavaggo catuttho", "&ldquo;the fourth vagga, "
+             "Sukhindriyavagga, is finished&rdquo; &mdash; the Pāli "
+             "root's own closing colophon"),
+        ("Uppaṭipāṭika", "&ldquo;irregular order&rdquo; &mdash; this "
+             "discourse's own title, naming its genuinely unusual "
+             "sequence of the five faculties"),
+        ("sanimittaṁ sanidānaṁ sasaṅkhāraṁ sappaccayaṁ", "&ldquo;has "
+             "a basis, a source, a condition, and a reason&rdquo; "
+             "&mdash; the conditioned nature confirmed for each "
+             "faculty as it arises"),
+        ("aparisesaṁ nirujjhati", "&ldquo;ceases without "
+             "remainder&rdquo; &mdash; the complete ending of each "
+             "faculty, located at its own specific jhāna"),
+        ("Suddhikañca soto arahā, duve samaṇabrāhmaṇā; Vibhaṅgena "
+             "tayo vuttā, kaṭṭho uppaṭipāṭikanti", "the closing "
+             "uddāna, confirmed to match this project's own SN "
+             "48.31-40 exactly, item for item"),
+    ],
+    text_intro=("The complete discourse. This vagga's own closing "
+        "colophon and uddāna are described, not translated, above. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the faculty of pain, ceasing in the "
+              "first absorption", "sn48.40:1.1-1.12"),
+        ("p", "&sect;2 &mdash; the faculty of sadness, ceasing in "
+              "the second absorption", "sn48.40:2.1-2.9"),
+        ("p", "&sect;3 &mdash; the faculty of pleasure, ceasing in "
+              "the third absorption", "sn48.40:3.1-3.9"),
+        ("p", "&sect;4 &mdash; the faculty of happiness, ceasing in "
+              "the fourth absorption", "sn48.40:4.1-4.9"),
+        ("p", "&sect;5 &mdash; the faculty of equanimity, ceasing in "
+              "the cessation of perception and feeling", "sn48.40:5.1-5.9"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own uddāna confirm?",
+         "opts": ["This project's own tracking of all ten discourses in this vagga, compressing the two ascetics-and-brahmins discourses and the three-part Analysis trilogy into single uddāna items", "That this vagga actually contains only five discourses", "That a new saṃyutta begins immediately afterward", "Nothing; the uddāna is left entirely untranslated"],
+         "correct": 0,
+         "expl": "Vindicating this project's own earlier decision not to assume this vagga's length matched Vagga 3's."},
+        {"q": "What does this discourse's own title, \"Irregular Order,\" name?",
+         "opts": ["Its own genuinely unusual sequence of the five faculties, differing from every earlier discourse in this vagga", "A mistake in the source text that this project has corrected", "The vagga's own irregular length compared to other vaggas", "A denial that the faculties have any order at all"],
+         "correct": 0,
+         "expl": "Pain, sadness, pleasure, happiness, equanimity — genuinely different from the standard order used throughout this vagga."},
+        {"q": "Where does this discourse say the equanimity faculty ceases completely?",
+         "opts": ["Only in the cessation of perception and feeling, the deepest attainment named in this discourse's own text", "In the first absorption, the same as the pain faculty", "It never ceases under any circumstances", "In ordinary waking consciousness, without any meditative attainment"],
+         "correct": 0,
+         "expl": "Beyond even the formless absorptions, matching the progressive depth of the other four faculties' own cessation points."},
+    ],
+    marginalia=[
+        ("Ten discourses, confirmed exactly", [
+            "two compressed, three compressed, five counted singly —",
+            "this project's own sequence, matched"
+        ]),
+        ("A title naming its own departure", [
+            "pain, sadness, pleasure, happiness, equanimity —",
+            "not the order this vagga used before"
+        ]),
+        ("Each faculty, its own depth of cessation", [
+            "first jhāna, second, third, fourth —",
+            "and beyond them all, perception's own ending"
+        ]),
+        ("Tenth discourse, vagga complete", [
+            "Sukhindriyavaggo catuttho — the fourth vagga finished —",
+            "SN 48.41 onward still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.40/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.39.html\">SN 48.39 &middot; The Simile of "
+        "the Fire Sticks</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
