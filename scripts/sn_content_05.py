@@ -44121,3 +44121,159 @@ page_range(
         "eightfold path.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.93-104 — Balakaraṇīyavaggo (merged peyyāla range, cross-reference only)
+# Vagga 10, confirmed by direct bilara-data reading to carry NO
+# worked example of its own, matching SN 48.83-92's own pattern for
+# Appamādavagga: only the bare source instruction, "(Tell in full as
+# in the chapter on hard work at SN 45.149-160.)", plus its own
+# closing uddāna listing all twelve similes by name. This project's
+# own already-completed Balakaraṇīyavagga (SN 45.149-160, twelve
+# individual pages) is directly confirmed as the same underlying
+# content, here applied to the five faculties.
+# --------------------------------------------------------------------------- #
+page_range(
+    48, 93, 104, "Balakaraṇīya", "The Chapter on Hard Work",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 48.93–104 — The Chapter on Hard Work | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 48.93–104 — twelve discourses on hard work, cross-"
+        "referenced in full to this project's own already-completed "
+        "Balakaraṇīyavagga, here applied to the five faculties. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; a pure cross-reference "
+                     "instruction, carrying no worked example of its "
+                     "own"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single explicit cross-reference instruction, "
+                 "with no independent example, plus a closing uddāna"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&#9734;&#9734;&#9734; "
+                         "&mdash; the same pure cross-reference "
+                         "pattern this project just confirmed at SN "
+                         "48.83-92, now for a different twelve-simile "
+                         "vagga"),
+    ],
+    why=(
+        "This merged file carries no independent content of its own "
+        "at all &mdash; confirmed by direct reading, it consists "
+        "solely of the source's own explicit instruction, "
+        "&ldquo;tell in full as in the chapter on hard work at SN "
+        "45.149&ndash;160,&rdquo; plus its own closing uddāna. This "
+        "project's own earlier work on SN 45.149-160 built out all "
+        "twelve similes individually; here they are compressed into "
+        "a single cross-reference, exactly as SN 48.83-92 was for "
+        "Appamādavagga."
+    ),
+    guide=[
+        ("A pure cross-reference, matching this vagga's own predecessor", [
+            "Confirmed by direct reading, this file gives neither the "
+            "full simile-by-simile content (as this project's own "
+            "SN 45.149-160 did, across twelve individual pages) nor "
+            "even a single worked example &mdash; SN 48's own copy of "
+            "Balakaraṇīyavagga is compressed exactly as its own "
+            "immediately preceding vagga, Appamādavagga (SN "
+            "48.83-92), already was.",
+        ]),
+        ("Twelve similes, confirmed by this file's own uddāna alone", [
+            "As general canonical background, already confirmed at "
+            "this project's own earlier treatment of SN 45.149-160: "
+            "the twelve similes are hard work, seeds, a dragon "
+            "(nāga), a tree, a pot, a spike, the atmosphere, two on "
+            "clouds, a ship, a guest house, and a river &mdash; each "
+            "illustrating some dimension of effort or preparation, "
+            "here applied to the developed five faculties rather "
+            "than the eightfold path.",
+        ]),
+        ("A second consecutive vagga, compressed the same way", [
+            "This project's own observation: with Appamādavagga (SN "
+            "48.83-92) and now Balakaraṇīyavagga (SN 48.93-104) both "
+            "reduced to bare cross-reference instructions in "
+            "immediate succession, this project notes a likely "
+            "pattern for this book's remaining peyyāla vaggas without "
+            "assuming it continues &mdash; to be confirmed discourse "
+            "range by discourse range as each is directly read.",
+        ]),
+    ],
+    terms=[
+        ("Balakaraṇīyavaggo vitthāretabbo", "&ldquo;the Hard Work "
+             "chapter is to be elaborated in full&rdquo; &mdash; this "
+             "file's own sole substantive instruction, pointing "
+             "entirely to SN 45.149-160 rather than repeating that "
+             "content"),
+        ("balakaraṇīya", "&ldquo;requiring strength/hard work, to be "
+             "done with effort&rdquo; &mdash; this vagga's own "
+             "governing theme, already met throughout this project's "
+             "own SN 45.149-160"),
+        ("balaṁ bījañca nāgo ca", "&ldquo;hard work, seeds, and "
+             "dragons&rdquo; &mdash; the closing uddāna's own opening "
+             "line, naming the first three of this vagga's own "
+             "twelve similes"),
+        ("rukkho kumbhena sūkiyā; ākāsena ca dve meghā, nāvā āgantukā "
+         "nadī", "&ldquo;a tree, a pot, and a spike, the atmosphere, "
+             "and two on clouds, a ship, a guest house, and a "
+             "river&rdquo; &mdash; the uddāna's remaining similes, "
+             "completing the count of twelve"),
+        ("Balakaraṇīyavaggo dasamo", "&ldquo;the Hard Work chapter, "
+             "the tenth&rdquo; &mdash; confirming this vagga's own "
+             "position as the tenth in this saṃyutta"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source: the bare cross-reference "
+        "instruction, and the closing uddāna. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.93-104:1.1"),
+        ("p", "Uddāna", "sn48.93-104:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this file's own content compare to this project's own SN 45.149-160?",
+         "opts": ["It is compressed into a single cross-reference instruction, where SN 45 built out all twelve similes individually across twelve pages", "It contains entirely new similes not found at SN 45.149-160", "It is longer than SN 45's own version", "It applies to the eightfold path rather than the five faculties"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the identical compression pattern already seen at SN 48.83-92."},
+        {"q": "What does the closing uddāna confirm about this vagga's own similes?",
+         "opts": ["Twelve similes: hard work, seeds, a dragon, a tree, a pot, a spike, the atmosphere, two on clouds, a ship, a guest house, and a river", "Only five similes, matching the five faculties", "A single simile repeated twelve times", "No similes — a purely abstract list of numbers"],
+         "correct": 0,
+         "expl": "Already confirmed at this project's own earlier work on SN 45.149-160."},
+        {"q": "What does this project note about meeting a second consecutive bare cross-reference vagga?",
+         "opts": ["A likely pattern for this book's remaining peyyāla vaggas, noted but not assumed to continue", "Certain proof that every remaining vagga in this book will be identical", "That no further vaggas remain after this one", "That this pattern is unique to SN 48 and appears nowhere else"],
+         "correct": 0,
+         "expl": "Noted as an observation, to be confirmed range by range rather than assumed in advance."},
+    ],
+    marginalia=[
+        ("A second bare cross-reference in a row", [
+            "Appamādavagga, now Balakaraṇīyavagga —",
+            "the same compression pattern, confirmed twice"
+        ]),
+        ("Twelve similes, named only in the uddāna", [
+            "hard work, seeds, a dragon, a river —",
+            "the full content lives at SN 45.149"
+        ]),
+        ("Effort's own vagga, echoed here", [
+            "the same twelve images, a different faculty set —",
+            "content this project has already fully translated"
+        ]),
+        ("A pattern noted, not yet assumed", [
+            "two vaggas compressed the same way —",
+            "the next will confirm or break the pattern"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.93-104/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.83-92.html\">SN 48.83&ndash;92 &middot; "
+        "The Chapter on Diligence</a> &mdash; the previous page, "
+        "closing the preceding vagga.",
+        "<a href=\"sn-45.149.html\">SN 45.149 &middot; Hard "
+        "Work</a> &mdash; this project's own earlier, fully "
+        "individual treatment of the identical twelve similes, "
+        "applied there to the eightfold path.",
+    ],
+)
