@@ -48233,3 +48233,139 @@ page(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 51.5 — Iddhipadesasutta
+# --------------------------------------------------------------------------- #
+page(
+    51, 5, "Iddhipadesa", "Partly",
+    vagga="Cāpālavagga",
+    meta_title="SN 51.5 — Partly | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Iddhipadesasutta — every ascetic and brahmin, past, "
+        "present, and future, who has partly manifested psychic "
+        "power has done so through the same four bases. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; this discourse's own bare "
+                     "opening statement"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A threefold temporal claim (past, future, "
+                 "present), then the four bases restated"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; a universal claim spanning every "
+                         "ascetic and brahmin of any tradition, not "
+                         "the Buddha's own followers alone"),
+    ],
+    why=(
+        "This discourse makes a genuinely universal claim: every "
+        "ascetic and brahmin of any tradition &mdash; past, present, "
+        "and future, not the Buddha's own followers alone &mdash; who "
+        "has manifested even a portion of psychic power has done so "
+        "through developing these same four bases, whether or not "
+        "they themselves recognized or named them this way."
+    ),
+    guide=[
+        ("A universal mechanism, not a sectarian claim", [
+            "Confirmed by direct reading, this discourse's own "
+            "threefold statement (&ldquo;all the ascetics and "
+            "brahmins in the past... future... present&rdquo;) "
+            "attributes any partial manifestation of psychic power, "
+            "by anyone of any tradition, to the same underlying "
+            "cause &mdash; the four bases of psychic power &mdash; "
+            "rather than claiming this attainment as exclusive to "
+            "the Buddha's own community.",
+        ]),
+        ("Iddhipadesa: a portion, not the fullest attainment", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare text states: "
+            "&ldquo;iddhipadesa&rdquo; (&ldquo;a portion, part, or "
+            "share of psychic power&rdquo;) is a qualified claim "
+            "&mdash; this discourse speaks of partial manifestations, "
+            "not necessarily the complete mastery a fully awakened "
+            "one might possess.",
+        ]),
+        ("Samaṇā vā brāhmaṇā vā: a recurring canonical pairing", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare text states: "
+            "&ldquo;ascetics and brahmins&rdquo; (samaṇā vā "
+            "brāhmaṇā vā) is a standard canonical pairing covering "
+            "renunciant wanderers and the brahmin priestly class "
+            "together, used elsewhere in the canon to mean religious "
+            "practitioners broadly rather than any one specific "
+            "group.",
+        ]),
+    ],
+    terms=[
+        ("atītamaddhānaṁ...anāgatamaddhānaṁ...etarahi", "&ldquo;in "
+             "the past... in the future... at present&rdquo; "
+             "&mdash; the threefold temporal span this discourse's "
+             "own claim covers"),
+        ("samaṇā vā brāhmaṇā vā", "&ldquo;ascetics and "
+             "brahmins&rdquo; &mdash; a standard canonical pairing "
+             "for religious practitioners broadly, not the Buddha's "
+             "own community alone"),
+        ("iddhipadesaṁ abhinipphādesuṁ", "&ldquo;have partly "
+             "manifested psychic powers&rdquo; &mdash; a qualified "
+             "claim about partial, not necessarily complete, "
+             "attainment"),
+        ("cattāro iddhipādā", "&ldquo;the four bases of psychic "
+             "power&rdquo; &mdash; restated identically to this "
+             "vagga's own prior discourses"),
+        ("Pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's fifth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.5:1.1-1.3"),
+        ("p", "&sect;2", "sn51.5:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "Who does this discourse claim has manifested psychic power through the four bases?",
+         "opts": ["Every ascetic and brahmin of any tradition, past, present, and future — not the Buddha's own followers alone", "Only the Buddha's own ordained monks and nuns", "Only fully awakened arahants", "Only beings reborn in heavenly realms"],
+         "correct": 0,
+         "expl": "A genuinely universal claim, confirmed by this discourse's own threefold temporal statement."},
+        {"q": "What does \"iddhipadesa\" specify, as general canonical background?",
+         "opts": ["A portion or part of psychic power, a qualified claim about partial rather than complete attainment", "Complete mastery of all psychic powers without exception", "A term meaning the total absence of psychic power", "A synonym for the four noble truths"],
+         "correct": 0,
+         "expl": "This discourse speaks of partial manifestations, not necessarily the fullest possible attainment."},
+        {"q": "What does \"samaṇā vā brāhmaṇā vā\" mean, as general canonical background?",
+         "opts": ["A standard canonical pairing for religious practitioners broadly, covering renunciants and the brahmin class together", "A term used only for the Buddha's own immediate disciples", "A phrase found nowhere else in the canon", "A specific reference to only two named individuals"],
+         "correct": 0,
+         "expl": "Used elsewhere in the canon to mean religious practitioners broadly, not any one specific group."},
+    ],
+    marginalia=[
+        ("Not a claim for one tradition alone", [
+            "any ascetic, any brahmin, any era —",
+            "the same four bases beneath it all"
+        ]),
+        ("Partly, not necessarily in full", [
+            "iddhipadesa, a portion claimed —",
+            "not the fullest possible mastery"
+        ]),
+        ("Past, present, and future, all three", [
+            "the same cause runs through every era —",
+            "confirmed for each in turn"
+        ]),
+        ("Fifth discourse, Pañcamaṁ", [
+            "brief as the four before it —",
+            "the vagga's own opening sequence continues"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.4.html\">SN 51.4 &middot; "
+        "Disillusionment</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
