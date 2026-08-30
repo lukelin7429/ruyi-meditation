@@ -32044,3 +32044,136 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.45 — Kusalarāsisutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 45, "Kusalarāsi", "A Heap of the Skillful",
+    vagga="Amatavagga",
+    meta_title="SN 47.45 — A Heap of the Skillful | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kusalarāsisutta — a sweeping declaration that the four "
+        "kinds of mindfulness meditation are, rightly speaking, "
+        "ENTIRELY a heap of skillful qualities. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single sweeping declaration, framed as a "
+                 "correction of how one ought to speak, repeated "
+                 "identically to open and close the discourse"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but notable for its own unqualified "
+                       "claim"),
+    ],
+    why=(
+        "This discourse makes an unusually SWEEPING claim: if one "
+        "speaks &ldquo;rightly&rdquo; (sammā) about what deserves the "
+        "name &ldquo;a heap of the skillful&rdquo; (kusalarāsi), it "
+        "is the four kinds of mindfulness meditation &mdash; and the "
+        "discourse adds the qualifier &ldquo;kevalo&rdquo; "
+        "(&ldquo;entirely, wholly&rdquo;), leaving no room for the "
+        "practice to be PARTLY skillful and partly something else."
+    ),
+    guide=[
+        ("\"Rightly speaking\" -- correcting how one should describe the practice", [
+            "Confirmed by direct reading, the discourse's own phrase "
+            "&ldquo;sammā vadamāno vadeyya&rdquo; (&ldquo;speaking "
+            "rightly, you would say&rdquo;) frames the identification "
+            "of the four kinds of mindfulness meditation with "
+            "&ldquo;a heap of the skillful&rdquo; not as one possible "
+            "description among others, but as the CORRECT way of "
+            "speaking about the practice.",
+        ]),
+        ("\"Entirely\" -- kevalo, admitting no partial qualification", [
+            "The discourse's own word &ldquo;kevalo&rdquo; "
+            "(&ldquo;entirely, wholly, exclusively&rdquo;) is "
+            "confirmed by direct reading to leave NO room for the "
+            "four kinds of mindfulness meditation to be viewed as "
+            "partly skillful and partly neutral or unskillful "
+            "&mdash; the discourse's own claim is unqualified.",
+        ]),
+        ("A heap, not a scattering -- kusalarāsi as a single image", [
+            "Confirmed by direct reading, the discourse's own image "
+            "&mdash; &ldquo;kusalarāsi&rdquo; (&ldquo;a heap of the "
+            "skillful&rdquo;) &mdash; presents the practice's own "
+            "many wholesome qualities not as scattered, separate "
+            "items but as gathered together into a single, unified "
+            "mass, echoed by this discourse's own repetition of the "
+            "identical declaration at its close.",
+        ]),
+    ],
+    terms=[
+        ("kusalarāsi", "&ldquo;a heap of the skillful&rdquo; &mdash; "
+             "this discourse's own title term and central image, "
+             "gathering the practice's own wholesome qualities into "
+             "a single mass"),
+        ("sammā vadamāno vadeyya", "&ldquo;speaking rightly, you "
+             "would say&rdquo; &mdash; framing the identification as "
+             "the correct way of describing the practice, not merely "
+             "one option among others"),
+        ("kevalo", "&ldquo;entirely, wholly, exclusively&rdquo; "
+             "&mdash; the discourse's own qualifier, admitting no "
+             "partial exception to the claim"),
+        ("kusala", "&ldquo;skillful, wholesome&rdquo; &mdash; a term "
+             "for qualities that lead toward liberation, contrasted "
+             "elsewhere in the canon with &ldquo;akusala&rdquo; "
+             "(unskillful)"),
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the practice "
+             "this discourse declares to be entirely a heap of "
+             "skillful qualities"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn47.45:1.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse frame the identification of the four kinds of mindfulness meditation with \"a heap of the skillful\"?",
+         "opts": ["As the correct, right way of speaking about the practice, not merely one option among others", "As a mistaken way of speaking that should be avoided", "As a metaphor with no real significance", "As applicable to only one of the four mindfulness objects"],
+         "correct": 0,
+         "expl": "The phrase \"speaking rightly, you would say\" frames this as the CORRECT description."},
+        {"q": "What does the qualifier \"kevalo\" (entirely) do to this discourse's own claim?",
+         "opts": ["Leaves no room for the practice to be viewed as partly skillful and partly something else", "Limits the claim to apply only occasionally", "Restricts the claim to advanced practitioners only", "Has no real effect on the meaning of the sentence"],
+         "correct": 0,
+         "expl": "The discourse's own claim is unqualified — wholly and entirely a heap of the skillful."},
+        {"q": "What does the image \"a heap\" (rāsi) suggest about the practice's own many wholesome qualities?",
+         "opts": ["That they are gathered together into a single, unified mass, not scattered separate items", "That they are randomly scattered with no relationship to each other", "That only a small portion of the practice is wholesome", "That the qualities change from heap to heap unpredictably"],
+         "correct": 0,
+         "expl": "A single, unified mass — echoed by the discourse's own identical repetition at its close."},
+    ],
+    marginalia=[
+        ("\"Rightly speaking\" — the correct description", [
+            "not one option among many —",
+            "the way one OUGHT to describe the practice"
+        ]),
+        ("\"Entirely\" — no partial qualification", [
+            "kevalo — wholly, admitting no exception —",
+            "not partly skillful, partly something else"
+        ]),
+        ("A heap, not a scattering", [
+            "many wholesome qualities, gathered as one —",
+            "the same declaration repeated at the close"
+        ]),
+        ("Fifth discourse, Pañcamaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "five more individual discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.45/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.44.html\">SN 47.44 &middot; Mindful</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
