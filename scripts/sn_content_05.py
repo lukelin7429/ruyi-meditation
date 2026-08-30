@@ -47682,3 +47682,158 @@ page_range(
         "this book is still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 51 (Iddhipādasaṁyutta, "Linked Discourses on the Bases of
+# Psychic Power") -- confirmed by direct bilara-data listing to open
+# with 32 individual discourse files (SN 51.1-32) before switching to
+# merged peyyāla ranges (51.33-44 onward, five further merged files
+# through 51.77-86, suggesting roughly 86 discourses total -- to be
+# confirmed as each range is directly read, not assumed from the
+# file count alone). This saṃyutta's own subject, the four bases of
+# psychic power (cattāro iddhipādā -- enthusiasm, energy, mind, and
+# inquiry, each endowed with immersion and active effort), is a
+# genuinely new quality set this project has not yet treated as its
+# own dedicated saṃyutta, distinct from the four right efforts, five
+# faculties, five powers, seven awakening factors, and eightfold
+# path already worked through elsewhere in this book.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 51.1 — Apārasutta
+# --------------------------------------------------------------------------- #
+page(
+    51, 1, "Apāra", "From the Near Shore",
+    vagga="Cāpālavagga",
+    meta_title="SN 51.1 — From the Near Shore | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Apārasutta — opening the Linked Discourses on the Bases "
+        "of Psychic Power, four qualities carrying a mendicant from "
+        "the near shore to the far. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; this discourse's own bare "
+                     "opening statement"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single, bare doctrinal statement, opening a new "
+                 "saṃyutta"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; opens a new saṃyutta and a "
+                         "genuinely new quality set this project has "
+                         "not yet treated in its own right"),
+    ],
+    why=(
+        "This discourse opens the Iddhipādasaṁyutta (&ldquo;Linked "
+        "Discourses on the Bases of Psychic Power&rdquo;), "
+        "introducing a genuinely new set of four qualities this "
+        "project has not yet worked through as its own dedicated "
+        "saṃyutta &mdash; distinct from the four right efforts, five "
+        "faculties, five powers, seven awakening factors, and "
+        "eightfold path already treated elsewhere in this book."
+    ),
+    guide=[
+        ("Four bases of psychic power, defined at this opening", [
+            "Confirmed by direct reading, this discourse names its "
+            "own four qualities directly: the basis of psychic power "
+            "endowed with immersion due to enthusiasm "
+            "(chandasamādhi), energy (vīriyasamādhi), mind "
+            "(cittasamādhi), and inquiry (vīmaṁsāsamādhi) &mdash; "
+            "each paired with &ldquo;active effort&rdquo; "
+            "(padhānasaṅkhāra), a structural element this project "
+            "has not yet met combined this way with any of the "
+            "eightfold path's, five faculties', or seven awakening "
+            "factors' own qualities.",
+        ]),
+        ("From the near shore to the far", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare text states: the image "
+            "of crossing &ldquo;from the near shore to the far "
+            "shore&rdquo; (apārā pāraṁ) is a classic canonical "
+            "metaphor for crossing from saṃsāra to nibbāna, applied "
+            "here directly to the fruit of developing these four "
+            "bases.",
+        ]),
+        ("Named for its own vagga's own setting, not this discourse's own", [
+            "This project's own explicit caution: this vagga's own "
+            "name, &ldquo;Cāpālavagga,&rdquo; refers to the Cāpāla "
+            "Shrine (a site elsewhere in the canon associated with "
+            "the Buddha's own decision to relinquish the life "
+            "force) &mdash; but this opening discourse itself gives "
+            "no setting at all, so this project does not assume the "
+            "shrine appears in this specific discourse's own text "
+            "until directly confirmed.",
+        ]),
+    ],
+    terms=[
+        ("cattāro iddhipādā", "&ldquo;the four bases of psychic "
+             "power&rdquo; &mdash; this saṃyutta's own governing "
+             "subject, a genuinely new quality set for this project"),
+        ("chandasamādhippadhānasaṅkhārasamannāgataṁ iddhipādaṁ",
+             "&ldquo;the basis of psychic power that has immersion "
+             "due to enthusiasm, and active effort&rdquo; &mdash; "
+             "the first of the four, a distinctive compound "
+             "structure"),
+        ("vīriya...citta...vīmaṁsā", "&ldquo;energy... mind... "
+             "inquiry&rdquo; &mdash; the remaining three bases, each "
+             "sharing the identical &ldquo;immersion and active "
+             "effort&rdquo; structure"),
+        ("apārā pāraṁ gamanāya saṁvattanti", "&ldquo;lead to going "
+             "from the near shore to the far shore&rdquo; &mdash; "
+             "the classic canonical metaphor for crossing from "
+             "saṃsāra to nibbāna"),
+        ("Paṭhamaṁ", "&ldquo;the first&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's first "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.1:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What are the four bases of psychic power, defined at this discourse's own opening?",
+         "opts": ["The basis of psychic power endowed with immersion due to enthusiasm, energy, mind, and inquiry, each with active effort", "The five faculties of faith, energy, mindfulness, immersion, and wisdom", "The four right efforts", "The seven awakening factors"],
+         "correct": 0,
+         "expl": "A genuinely new quality set this project has not yet treated as its own dedicated saṃyutta."},
+        {"q": "What does \"from the near shore to the far shore\" represent, as general canonical background?",
+         "opts": ["The classic metaphor for crossing from saṃsāra to nibbāna", "A literal river-crossing narrative within this discourse", "A synonym for the five faculties themselves", "A warning against developing the four bases of psychic power"],
+         "correct": 0,
+         "expl": "Applied directly here to the fruit of developing the four bases of psychic power."},
+        {"q": "What does this project note about the vagga's own name, \"Cāpālavagga\"?",
+         "opts": ["It refers to the Cāpāla Shrine, but this opening discourse itself gives no setting, so its appearance in this specific text is not assumed", "It confirms the Cāpāla Shrine is directly named in this discourse's own text", "It has no connection to any location mentioned elsewhere in the canon", "It means this vagga is set entirely in a different country"],
+         "correct": 0,
+         "expl": "Honest caution: the vagga's own name doesn't confirm what this specific discourse's own text does or doesn't include."},
+    ],
+    marginalia=[
+        ("A new saṃyutta, a new set of four", [
+            "not faculties, not efforts, not factors —",
+            "bases of psychic power, met here for the first time"
+        ]),
+        ("Enthusiasm, energy, mind, inquiry", [
+            "four doors, each paired with active effort —",
+            "a structure this project hasn't seen quite this way"
+        ]),
+        ("Near shore to far", [
+            "saṃsāra's own edge, and beyond it —",
+            "the classic image, applied directly"
+        ]),
+        ("A shrine's name, not yet confirmed in the text", [
+            "Cāpālavagga, its own vagga's title —",
+            "this opening page itself gives no such setting"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-50.99-108.html\">SN 50.99&ndash;108 &middot; "
+        "Another Series on Floods, Etc.</a> &mdash; the previous "
+        "page, closing the Balasaṁyutta.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
