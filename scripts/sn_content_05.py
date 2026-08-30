@@ -30914,3 +30914,140 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.37 — Chandasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 37, "Chanda", "Desire",
+    vagga="Ananussutavagga",
+    meta_title="SN 47.37 — Desire | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Chandasutta — a discourse tracing, separately for each "
+        "of the four kinds of mindfulness meditation, how observing "
+        "gives up desire for that object and how giving up desire "
+        "realizes freedom from death. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The same three-step chain (observe, give up desire, "
+                 "realize freedom from death) repeated once for each "
+                 "of the four mindfulness objects individually, "
+                 "rather than stated once for all four together"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; a repeated structure worth tracing "
+                       "object by object"),
+    ],
+    why=(
+        "Unlike several of the surrounding discourses in this vagga, "
+        "which state their own claim once for all four kinds of "
+        "mindfulness meditation together, this discourse repeats a "
+        "three-step chain &mdash; observing, giving up desire, "
+        "realizing freedom from death &mdash; SEPARATELY for each of "
+        "the four objects in turn, tracing the same causal sequence "
+        "four times over."
+    ),
+    guide=[
+        ("A three-step chain, repeated for each object separately", [
+            "Confirmed by direct reading, this discourse does NOT "
+            "state its own claim once for all four kinds of "
+            "mindfulness meditation together, as several surrounding "
+            "discourses in this vagga do &mdash; it repeats the "
+            "identical three-step chain (observe, give up desire, "
+            "realize freedom from death) FOUR separate times, once "
+            "for the body, once for feelings, once for the mind, and "
+            "once for principles.",
+        ]),
+        ("Desire FOR the object itself, not desire in general", [
+            "The discourse's own phrase &ldquo;yo kāyasmiṁ "
+            "chando&rdquo; (&ldquo;whatever desire there is for the "
+            "body&rdquo;) is confirmed by direct reading to name "
+            "desire for EACH SPECIFIC OBJECT observed &mdash; desire "
+            "for the body, for feelings, for the mind, for "
+            "principles &mdash; rather than a single generic desire "
+            "given up all at once.",
+        ]),
+        ("Freedom from death, realized object by object", [
+            "Confirmed by direct reading, the discourse's own closing "
+            "phrase for each of the four sections &mdash; "
+            "&ldquo;chandassa pahānā amataṁ sacchikataṁ hoti&rdquo; "
+            "(&ldquo;when desire is given up, freedom from death is "
+            "realized&rdquo;) &mdash; repeats IDENTICALLY after each "
+            "of the four objects, giving the discourse a fourfold, "
+            "parallel structure rather than a single combined "
+            "conclusion.",
+        ]),
+    ],
+    terms=[
+        ("chanda", "&ldquo;desire&rdquo; &mdash; this discourse's own "
+             "title term, named separately for each of the four "
+             "mindfulness objects"),
+        ("yo kāyasmiṁ chando so pahīyati", "&ldquo;whatever desire "
+             "there is for the body is given up&rdquo; &mdash; the "
+             "pattern repeated with the appropriate object substituted "
+             "in each of the four sections"),
+        ("chandassa pahānā", "&ldquo;from the giving up of "
+             "desire&rdquo; &mdash; the causal link between "
+             "observation and the freedom from death that follows"),
+        ("amataṁ sacchikataṁ hoti", "&ldquo;freedom from death is "
+             "realized&rdquo; &mdash; the outcome repeated identically "
+             "after each of the four objects"),
+        ("amata", "&ldquo;the deathless, freedom from death&rdquo; "
+             "&mdash; a term for nibbāna emphasizing its escape from "
+             "the cycle of repeated death"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the body", "sn47.37:1.1-1.5"),
+        ("p", "&sect;2 &mdash; feelings", "sn47.37:2.1-2.3"),
+        ("p", "&sect;3 &mdash; the mind", "sn47.37:3.1-3.3"),
+        ("p", "&sect;4 &mdash; principles", "sn47.37:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "How does this discourse structure its own three-step chain, compared to several surrounding discourses?",
+         "opts": ["Repeated separately, once for each of the four mindfulness objects", "Stated once for all four objects together, as a single combined claim", "Applied only to the body, leaving the other three objects unaddressed", "Stated as a question left unanswered"],
+         "correct": 0,
+         "expl": "Tracing the same causal sequence four times over, once per object."},
+        {"q": "What kind of desire does the phrase \"yo kāyasmiṁ chando\" name?",
+         "opts": ["Desire for that specific object being observed, not a single generic desire", "Desire for food and material possessions specifically", "Desire to escape the monastic life", "Desire shared equally by all four objects at once"],
+         "correct": 0,
+         "expl": "Desire for the body, for feelings, for the mind, for principles — each named separately."},
+        {"q": "What outcome follows the giving up of desire, according to this discourse's own repeated phrase?",
+         "opts": ["Freedom from death (amata) is realized", "Rebirth in a higher realm is guaranteed", "The mendicant becomes a teacher of others", "Physical illness is cured"],
+         "correct": 0,
+         "expl": "Repeated identically after each of the four objects, giving the discourse a fourfold, parallel structure."},
+    ],
+    marginalia=[
+        ("Four times, not once combined", [
+            "observe, give up desire, realize deathlessness —",
+            "repeated separately for each object"
+        ]),
+        ("Desire for THAT object specifically", [
+            "desire for the body, for feelings, mind, principles —",
+            "not one generic desire given up at once"
+        ]),
+        ("The identical closing phrase, four times", [
+            "\"freedom from death is realized\" —",
+            "after body, feelings, mind, and principles alike"
+        ]),
+        ("Seventh discourse, Sattamaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "thirteen more individual discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.37/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.36.html\">SN 47.36 &middot; Enlightenment</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
