@@ -29363,3 +29363,141 @@ page(
         "Ānanda and Bhadda.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.26 — Padesasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 26, "Padesa", "Partly",
+    vagga="Sīlaṭṭhitivagga",
+    meta_title="SN 47.26 — Partly | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Padesasutta — Sāriputta asks Anuruddha how \"a "
+        "trainee\" is defined, and Anuruddha answers: a trainee is "
+        "someone who has developed the four kinds of mindfulness "
+        "meditation only partly, not completely. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "The Thorny Wood, near Sāketa"),
+        ("Speakers", "Venerables Sāriputta, Mahāmoggallāna, and "
+                     "Anuruddha"),
+        ("Form", "A gathering of three eminent disciples, one "
+                 "question and answer"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; a rare gathering of three of the "
+                         "Buddha's own most eminent disciples in a "
+                         "single scene"),
+    ],
+    why=(
+        "Two of the Buddha's own chief disciples, Sāriputta and "
+        "Mahāmoggallāna, come out of retreat to visit Anuruddha, "
+        "renowned for his own mastery of mindfulness. Sāriputta asks "
+        "him how the term &ldquo;a trainee&rdquo; (sekha) &mdash; "
+        "someone still practicing toward, but not yet arrived at, the "
+        "goal &mdash; is defined. Anuruddha's own answer is precise: "
+        "a trainee has developed the four kinds of mindfulness "
+        "meditation only PARTLY (padesa), not completely."
+    ),
+    guide=[
+        ("A rare gathering of three eminent disciples", [
+            "Confirmed by direct reading, this discourse's own "
+            "setting brings together Sāriputta (foremost in wisdom), "
+            "Mahāmoggallāna (foremost in psychic power), and "
+            "Anuruddha (foremost in clairvoyance and closely "
+            "associated with mindfulness practice throughout the "
+            "canon) &mdash; a notable convergence of three of the "
+            "Buddha's own most celebrated disciples in a single "
+            "scene.",
+        ]),
+        ("A trainee defined by degree, not by absence", [
+            "Confirmed by direct reading, Anuruddha's own answer "
+            "defines &ldquo;a trainee&rdquo; not as someone who lacks "
+            "mindfulness meditation altogether, but as someone who "
+            "has developed it &ldquo;padesaṁ&rdquo; (&ldquo;"
+            "partly, to a degree&rdquo;) &mdash; confirming this "
+            "discourse's own view that the trainee's own practice is "
+            "genuine but incomplete, a matter of degree rather than "
+            "presence or absence.",
+        ]),
+        ("This discourse's own implicit contrast", [
+            "By defining a trainee through PARTIAL development, this "
+            "discourse implicitly points toward its own unstated "
+            "contrast &mdash; the arahant, whose development of the "
+            "same four kinds of mindfulness meditation would be "
+            "complete rather than partial &mdash; though this "
+            "discourse itself, confirmed by direct reading, does not "
+            "state this contrast explicitly.",
+        ]),
+    ],
+    terms=[
+        ("sekho", "&ldquo;a trainee&rdquo; &mdash; the term "
+             "Sāriputta asks Anuruddha to define"),
+        ("catunnaṁ satipaṭṭhānānaṁ padesaṁ bhāvitattā", "&ldquo;"
+             "having partly developed the four kinds of mindfulness "
+             "meditation&rdquo; &mdash; Anuruddha's own precise "
+             "definition"),
+        ("padesa", "&ldquo;partly, to a degree, a portion&rdquo; "
+             "&mdash; the key term distinguishing a trainee's own "
+             "practice from complete development"),
+        ("mahāmoggallāna", "Venerable Mahāmoggallāna &mdash; one of "
+             "the two visiting disciples in this discourse's own "
+             "setting, renowned for psychic power"),
+        ("anuruddha", "Venerable Anuruddha &mdash; the disciple "
+             "answering Sāriputta's own question, closely associated "
+             "with mindfulness practice throughout the canon"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; Sāriputta's own question",
+             "sn47.26:1.1-1.6"),
+        ("p", "&sect;2 &mdash; the fourfold formula",
+             "sn47.26:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "Which three disciples gather together in this discourse's own setting?",
+         "opts": ["Sāriputta, Mahāmoggallāna, and Anuruddha", "Ānanda, Bhadda, and Sāriputta", "The Buddha, Sāriputta, and Ānanda", "Anuruddha, Bāhiya, and Uttiya"],
+         "correct": 0,
+         "expl": "A notable convergence of three of the Buddha's own most eminent disciples in a single scene."},
+        {"q": "How does Anuruddha define \"a trainee\" (sekha)?",
+         "opts": ["Someone who has developed the four kinds of mindfulness meditation only partly, not completely", "Someone who has not begun practicing mindfulness meditation at all", "Someone who has fully completed the entire path", "Someone who studies only the monastic rules"],
+         "correct": 0,
+         "expl": "A trainee's own practice is genuine but incomplete — a matter of degree rather than presence or absence."},
+        {"q": "What contrast does this discourse's own definition implicitly point toward, without stating it explicitly?",
+         "opts": ["The arahant, whose development of the same practice would be complete rather than partial", "A complete rejection of mindfulness meditation", "A comparison between monks and nuns", "A comparison between different meditation postures"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this discourse itself does not state the contrast explicitly, only implies it."},
+    ],
+    marginalia=[
+        ("Three eminent disciples, one scene", [
+            "Sāriputta, Mahāmoggallāna, and Anuruddha —",
+            "a rare convergence in a single discourse"
+        ]),
+        ("A trainee, defined by degree", [
+            "\"partly developed,\" not absent entirely —",
+            "genuine practice, not yet complete"
+        ]),
+        ("An unstated contrast, implied", [
+            "partial development names the trainee —",
+            "complete development, left unspoken, names the arahant"
+        ]),
+        ("A precise answer from a mindfulness master", [
+            "Anuruddha's own closely associated expertise —",
+            "one word, \"padesa,\" carries the whole definition"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.26/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.25.html\">SN 47.25 &middot; A Certain "
+        "Brahmin</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
