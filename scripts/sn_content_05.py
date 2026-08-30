@@ -25569,3 +25569,166 @@ page_range(
         "follows.",
     ],
 )
+# =========================================================================== #
+# SN 47 — Satipaṭṭhānasaṃyutta — Linked Discourses on Mindfulness Meditation
+# Confirmed by direct bilara-data reading: this saṃyutta's own file
+# listing shows 50 individually-numbered discourses (SN 47.1-50),
+# each carrying genuine, substantive, non-formulaic content (settings,
+# named speakers, distinct topics), followed by five merged peyyāla
+# ranges (51-62, 63-72, 73-84, 85-94, 95-104) totaling 104 discourses
+# in all -- structurally similar to SN 45's own individual-then-
+# peyyāla shape, but NOT assumed to follow SN 46's own two-cycle
+# peyyāla pattern without direct confirmation once that section is
+# reached. This saṃyutta's own opening discourse (SN 47.1,
+# Ambapālisutta) gives the canonical four-establishments formula
+# (body, feelings, mind, principles) that every subsequent discourse
+# in this saṃyutta develops.
+# =========================================================================== #
+
+# --------------------------------------------------------------------------- #
+# 1. Ambapālivagga — In Ambapālī's Mango Grove (Vagga 1 of Book VII,
+# Satipaṭṭhānasaṃyutta)
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 47.1 — Ambapālisutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 1, "Ambapāli", "In Ambapālī's Mango Grove",
+    vagga="Ambapālivagga",
+    meta_title="SN 47.1 — In Ambapālī's Mango Grove | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ambapālisutta — the opening discourse of the "
+        "Satipaṭṭhānasaṃyutta, giving the canonical fourfold "
+        "formula for mindfulness meditation: body, feelings, mind, "
+        "and principles. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Ambapālī's mango grove, near Vesālī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single short discourse, giving the saṃyutta's "
+                 "own foundational formula in full"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "short and direct, but foundational to this "
+                       "entire saṃyutta"),
+    ],
+    why=(
+        "This discourse opens the Satipaṭṭhānasaṃyutta by giving, in "
+        "full, the fourfold formula every later discourse in this "
+        "saṃyutta will develop: mindfulness meditation observing the "
+        "body, feelings, the mind, and principles &mdash; described "
+        "here as &ldquo;the path to convergence,&rdquo; purifying "
+        "beings and leading, in the end, to the realization of "
+        "extinguishment."
+    ),
+    guide=[
+        ("\"The path to convergence\" -- ekāyano maggo", [
+            "The discourse opens by naming the four kinds of "
+            "mindfulness meditation &ldquo;ekāyano maggo,&rdquo; "
+            "rendered here as &ldquo;the path to "
+            "convergence&rdquo; &mdash; a famously debated phrase "
+            "(also translatable as &ldquo;the one way&rdquo; or "
+            "&ldquo;the direct path&rdquo;) that this project "
+            "presents as the source translation gives it, without "
+            "adjudicating between competing renderings.",
+        ]),
+        ("Four objects, one method", [
+            "The same method &mdash; observing an aspect "
+            "(anupassī), keen, aware, and mindful, rid of "
+            "covetousness and displeasure for the world &mdash; is "
+            "applied identically to four different objects: the body, "
+            "feelings, the mind, and principles (dhammas). This "
+            "fourfold structure, stated here in full for the first "
+            "and only time in this discourse, is what every "
+            "subsequent discourse in this saṃyutta will assume, "
+            "elaborate, or apply to a further teaching.",
+        ]),
+        ("Five stated purposes, one path", [
+            "The formula names five distinct purposes for this "
+            "practice: purifying sentient beings, getting past sorrow "
+            "and crying, ending pain and sadness, discovering the "
+            "system (or method &mdash; ñāya), and realizing "
+            "extinguishment &mdash; confirming this practice is "
+            "framed from its own first discourse as leading all the "
+            "way to the saṃyutta's own final goal, not merely as a "
+            "preliminary technique.",
+        ]),
+    ],
+    terms=[
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; body, feelings, "
+             "mind, and principles, the foundational fourfold "
+             "structure of this entire saṃyutta"),
+        ("ekāyano maggo", "&ldquo;the path to convergence&rdquo; "
+             "&mdash; a famously debated phrase, also rendered "
+             "elsewhere as &ldquo;the one way&rdquo; or &ldquo;the "
+             "direct path,&rdquo; presented here as the source "
+             "translation gives it"),
+        ("kāye kāyānupassī... vedanāsu vedanānupassī... citte "
+             "cittānupassī... dhammesu dhammānupassī", "&ldquo;"
+             "observing an aspect of the body... of feelings... of "
+             "the mind... of principles&rdquo; &mdash; the fourfold "
+             "object of this practice, named in full"),
+        ("ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ",
+             "&ldquo;keen, aware, and mindful, rid of covetousness "
+             "and displeasure for the world&rdquo; &mdash; the "
+             "shared method applied identically to all four objects"),
+        ("sattānaṁ visuddhiyā... nibbānassa sacchikiriyāya",
+             "&ldquo;for the purification of sentient beings... to "
+             "the realization of extinguishment&rdquo; &mdash; the "
+             "five stated purposes bracketing the entire practice, "
+             "from purification through to the final goal"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; setting", "sn47.1:1.1-1.6"),
+        ("p", "&sect;2 &mdash; the fourfold formula",
+             "sn47.1:2.1-2.7"),
+        ("p", "&sect;3 &mdash; closing", "sn47.1:3.1-3.2"),
+    ],
+    quiz=[
+        {"q": "What four objects does the discourse's own formula name for mindfulness meditation?",
+         "opts": ["The body, feelings, the mind, and principles", "The breath, posture, feeling, and thought", "Ethics, concentration, wisdom, and liberation", "The four noble truths"],
+         "correct": 0,
+         "expl": "The foundational fourfold structure this entire saṃyutta develops."},
+        {"q": "How does the discourse describe the shared method applied to all four objects?",
+         "opts": ["Keen, aware, and mindful, rid of covetousness and displeasure for the world", "Silent, motionless, and detached from all sensation", "Analytical, questioning, and doubting", "Joyful, energetic, and outwardly focused"],
+         "correct": 0,
+         "expl": "The identical formula applied to body, feelings, mind, and principles alike."},
+        {"q": "What five purposes does the discourse's own opening and closing lines name for this practice?",
+         "opts": ["Purifying beings, getting past sorrow and crying, ending pain and sadness, discovering the system, and realizing extinguishment", "Only physical health and longevity", "Fame, respect, and material support", "Memorization of scripture"],
+         "correct": 0,
+         "expl": "Confirming this practice is framed from its own first discourse as leading all the way to extinguishment."},
+    ],
+    marginalia=[
+        ("\"Ekāyano maggo\" opens the saṃyutta", [
+            "a famously debated phrase, left as translated —",
+            "\"the path to convergence,\" not adjudicated here"
+        ]),
+        ("One method, four objects", [
+            "body, feelings, mind, and principles —",
+            "keen, aware, mindful, throughout"
+        ]),
+        ("Five purposes, one path", [
+            "purification through to extinguishment —",
+            "framed as complete from this first discourse"
+        ]),
+        ("Forty-nine more discourses to come", [
+            "before this saṃyutta's own peyyāla section —",
+            "each to be read on its own terms"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
