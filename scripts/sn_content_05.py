@@ -32461,3 +32461,135 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.48 — Mittasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 48, "Mitta", "Friends",
+    vagga="Amatavagga",
+    meta_title="SN 47.48 — Friends | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mittasutta — a discourse turning outward from the "
+        "mendicant's own practice, instructing them to encourage "
+        "friends, colleagues, relatives, and family to take up the "
+        "four kinds of mindfulness meditation. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single instruction naming four categories of "
+                 "people to be encouraged, then the fourfold "
+                 "observation formula, then the same instruction "
+                 "repeated"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; turns outward, toward encouraging "
+                         "OTHERS in the practice, unlike most "
+                         "discourses in this saṃyutta"),
+    ],
+    why=(
+        "Unlike nearly every other discourse in this saṃyutta, which "
+        "addresses the mendicant's OWN practice of the four kinds of "
+        "mindfulness meditation, this discourse turns OUTWARD "
+        "&mdash; instructing mendicants to encourage, support, and "
+        "establish four categories of people close to them "
+        "&mdash; friends, colleagues, relatives, and family &mdash; "
+        "in developing this same practice."
+    ),
+    guide=[
+        ("A rare outward-facing instruction in this saṃyutta", [
+            "Confirmed by direct reading, this discourse's own "
+            "instruction is NOT about the mendicant's own meditation "
+            "&mdash; it is about encouraging OTHERS, marking a "
+            "genuine shift in address compared to the great majority "
+            "of discourses in this saṃyutta, which describe or "
+            "instruct the mendicant's own practice directly.",
+        ]),
+        ("Four named categories of people", [
+            "The discourse's own list &mdash; &ldquo;mittā vā "
+            "amaccā vā ñātī vā sālohitā vā&rdquo; (friends, "
+            "colleagues, relatives, and family) &mdash; is confirmed "
+            "by direct reading to name four DISTINCT categories of "
+            "relationship, spanning from chosen friendship to blood "
+            "kinship, rather than a single undifferentiated group.",
+        ]),
+        ("Sympathy and willingness to listen -- two named conditions", [
+            "Confirmed by direct reading, the discourse's own opening "
+            "names TWO conditions for who should be encouraged: "
+            "&ldquo;those for whom you have sympathy&rdquo; "
+            "(anukampeyyātha) and &ldquo;those worth listening "
+            "to&rdquo; (sotabbaṁ maññeyyuṁ) &mdash; both compassion "
+            "toward the person and their own own receptivity to "
+            "being taught.",
+        ]),
+    ],
+    terms=[
+        ("mittā", "&ldquo;friends&rdquo; &mdash; this discourse's "
+             "own title term, the first of the four named categories "
+             "of people to be encouraged"),
+        ("amaccā", "&ldquo;colleagues, associates&rdquo; &mdash; "
+             "the second named category, spanning professional or "
+             "social connection beyond close friendship"),
+        ("ñātī vā sālohitā", "&ldquo;relatives and family&rdquo; "
+             "&mdash; the third and fourth categories, spanning "
+             "blood kinship"),
+        ("anukampeyyātha", "&ldquo;you have sympathy for&rdquo; "
+             "&mdash; the first named condition, compassion toward "
+             "those to be encouraged"),
+        ("samādapetabbā nivesetabbā patiṭṭhāpetabbā", "&ldquo;should "
+             "be encouraged, supported, and established&rdquo; "
+             "&mdash; the threefold verb naming what a mendicant "
+             "should do for those close to them"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn47.48:1.1-2.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own address differ from most discourses in this saṃyutta?",
+         "opts": ["It turns outward, instructing mendicants to encourage others rather than describing their own practice", "It is identical in address to every other discourse in this saṃyutta", "It addresses only laypeople, never mendicants", "It is addressed to a single named individual rather than mendicants generally"],
+         "correct": 0,
+         "expl": "A genuine shift compared to the great majority of discourses, which describe or instruct the mendicant's own practice directly."},
+        {"q": "What four categories of people does this discourse name?",
+         "opts": ["Friends, colleagues, relatives, and family", "Monks, nuns, laymen, and laywomen", "Kings, ministers, merchants, and farmers", "Teachers, students, parents, and children"],
+         "correct": 0,
+         "expl": "Four distinct categories, spanning from chosen friendship to blood kinship."},
+        {"q": "What two conditions does the discourse name for who should be encouraged?",
+         "opts": ["Those for whom you have sympathy, and those worth listening to", "Only those who have already taken monastic vows", "Only those from the same village or region", "Those who have never heard the Dhamma before"],
+         "correct": 0,
+         "expl": "Both compassion toward the person and their own receptivity to being taught."},
+    ],
+    marginalia=[
+        ("Outward, not inward — a rare shift", [
+            "not the mendicant's own practice this time —",
+            "encouraging others close to them instead"
+        ]),
+        ("Four named relationships", [
+            "friends, colleagues, relatives, family —",
+            "chosen friendship through to blood kinship"
+        ]),
+        ("Sympathy, and willingness to listen", [
+            "two conditions named for who to encourage —",
+            "compassion, and the other person's own receptivity"
+        ]),
+        ("Eighth discourse, Aṭṭhamaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "two more individual discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.48/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.47.html\">SN 47.47 &middot; Bad Conduct</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
