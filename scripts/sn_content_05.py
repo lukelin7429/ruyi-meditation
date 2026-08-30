@@ -28667,3 +28667,142 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 3. Sīlaṭṭhitivagga — Ethics and Duration (Vagga 3 of Book VII,
+# Satipaṭṭhānasaṃyutta)
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 47.21 — Sīlasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 21, "Sīla", "Ethics",
+    vagga="Sīlaṭṭhitivagga",
+    meta_title="SN 47.21 — Ethics | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sīlasutta — Venerable Bhadda asks Ānanda the purpose of "
+        "skillful ethics, and Ānanda answers: ethics exists precisely "
+        "to the extent necessary for developing the four kinds of "
+        "mindfulness meditation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The Chicken Monastery, near Pāṭaliputta"),
+        ("Speakers", "Venerable Bhadda and Venerable Ānanda"),
+        ("Form", "A question and answer between two senior "
+                 "mendicants, opening this saṃyutta's own third "
+                 "vagga"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "short and direct, giving ethics a precise "
+                       "functional definition"),
+    ],
+    why=(
+        "Bhadda's own question &mdash; why did the Buddha speak of "
+        "skillful ethics at all, and toward what purpose? &mdash; "
+        "receives from Ānanda a precise, bounded answer: ethics is "
+        "spoken of &ldquo;to the extent necessary for developing the "
+        "four kinds of mindfulness meditation,&rdquo; confirming "
+        "ethics is not an end in itself within this discourse's own "
+        "framing, but exists specifically to support mindfulness "
+        "practice."
+    ),
+    guide=[
+        ("A question praised before it is answered", [
+            "Confirmed by direct reading, Ānanda's own response opens "
+            "not with the answer itself but with explicit praise for "
+            "the question &mdash; &ldquo;your approach and eloquence "
+            "are excellent, and it's a good question&rdquo; &mdash; "
+            "before restating it back to Bhadda and confirming he has "
+            "understood it correctly.",
+        ]),
+        ("A bounded, functional answer: \"to the extent necessary\"", [
+            "Ānanda's own answer is confirmed by direct reading to be "
+            "precisely bounded, not open-ended: skillful ethics is "
+            "spoken of &ldquo;yāvadeva&rdquo; (&ldquo;to the extent "
+            "necessary, only so far as&rdquo;) for developing the "
+            "four kinds of mindfulness meditation &mdash; framing "
+            "ethics as instrumental to this specific purpose rather "
+            "than valuable without limit or for its own sake alone.",
+        ]),
+        ("The answer repeated, framing this vagga's own opening theme", [
+            "The discourse's own closing line restates Ānanda's "
+            "answer word for word, confirmed by direct reading, "
+            "bookending the exchange and establishing &ldquo;ethics "
+            "and duration&rdquo; (this vagga's own name) as its "
+            "controlling theme from the very first discourse.",
+        ]),
+    ],
+    terms=[
+        ("kusalāni sīlāni", "&ldquo;skillful ethics&rdquo; &mdash; "
+             "the subject of Bhadda's own opening question"),
+        ("kimatthiyāni", "&ldquo;what's their purpose?&rdquo; "
+             "&mdash; Bhadda's own precise question, restated and "
+             "confirmed by Ānanda before he answers"),
+        ("yāvadeva catunnaṁ satipaṭṭhānānaṁ bhāvanāya", "&ldquo;to "
+             "the extent necessary for developing the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; Ānanda's own "
+             "precisely bounded answer"),
+        ("bhaddako ummaṅgo, bhaddakaṁ paṭibhānaṁ, kalyāṇī paripucchā",
+             "&ldquo;your approach and eloquence are excellent, and "
+             "it's a good question&rdquo; &mdash; Ānanda's own praise "
+             "for Bhadda's question before answering it"),
+        ("cattāro satipaṭṭhānā", "the four kinds of mindfulness "
+             "meditation &mdash; named as the specific purpose ethics "
+             "is said to serve"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; Bhadda's own question", "sn47.21:1.1-1.5"),
+        ("p", "&sect;2 &mdash; Ānanda's own answer",
+             "sn47.21:2.1-2.6"),
+        ("p", "&sect;3 &mdash; the fourfold formula, and the answer "
+              "restated", "sn47.21:3.1-3.6"),
+    ],
+    quiz=[
+        {"q": "What question does Venerable Bhadda ask Ānanda in this discourse?",
+         "opts": ["What is the purpose of the skillful ethics the Buddha has spoken of?", "How many precepts should a mendicant follow?", "What punishment applies to breaking ethical conduct?", "Whether ethics is more important than meditation"],
+         "correct": 0,
+         "expl": "The discourse's own opening question, which Ānanda restates and confirms before answering."},
+        {"q": "How does Ānanda answer the question, specifically?",
+         "opts": ["Ethics is spoken of \"to the extent necessary\" for developing the four kinds of mindfulness meditation — a bounded, functional purpose", "Ethics is an end in itself with no further purpose", "Ethics exists to gain social respect", "The question cannot be answered"],
+         "correct": 0,
+         "expl": "A precisely bounded answer, framing ethics as instrumental to a specific goal rather than open-ended."},
+        {"q": "What does Ānanda do before actually answering Bhadda's question?",
+         "opts": ["He praises the question itself as excellent and restates it to confirm he understood it correctly", "He refuses to answer", "He asks Bhadda to consult someone else", "He immediately criticizes the question"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a courteous confirmation before the substantive answer."},
+    ],
+    marginalia=[
+        ("A question praised before it is answered", [
+            "\"your approach and eloquence are excellent\" —",
+            "restated and confirmed before the reply comes"
+        ]),
+        ("A bounded purpose, not an open-ended value", [
+            "\"to the extent necessary,\" nothing more —",
+            "ethics in service of a specific goal"
+        ]),
+        ("This vagga's own opening theme, stated at once", [
+            "\"Ethics and Duration\" begins with ethics —",
+            "framed here as instrumental to mindfulness"
+        ]),
+        ("Two senior mendicants, a courteous exchange", [
+            "Bhadda asks, Ānanda answers precisely —",
+            "the same fourfold formula, its purpose named"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.21/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.20.html\">SN 47.20 &middot; The Finest Lady "
+        "in the Land</a> &mdash; the previous discourse, closing the "
+        "preceding vagga.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
