@@ -42414,3 +42414,140 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.61 — Saṁyojanasutta
+# Opens 7. Bodhipakkhiyavagga ("On the Side of Awakening") — directly
+# formalizing the "bodhipakkhiyā dhammā" term this project's own SN
+# 48.51 and SN 48.55 already met, now as this new vagga's own name.
+# Names a specific new outcome for the five faculties: giving up the
+# fetters (saṁyojana), the classic bonds that keep beings bound to
+# rebirth.
+# --------------------------------------------------------------------------- #
+page(
+    48, 61, "Saṁyojana", "Fetters",
+    vagga="Bodhipakkhiyavagga",
+    meta_title="SN 48.61 — Fetters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saṁyojanasutta, opening the Bodhipakkhiyavagga — the "
+        "five faculties, developed and cultivated, lead to giving up "
+        "the fetters. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single, bare doctrinal statement"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; opens a new vagga whose own name "
+                         "formalizes a term already met twice in "
+                         "Vagga 6, and names a specific new outcome "
+                         "for the five faculties"),
+    ],
+    why=(
+        "This discourse opens Bodhipakkhiyavagga (&ldquo;on the side "
+        "of awakening&rdquo;) &mdash; directly formalizing the "
+        "&ldquo;bodhipakkhiyā dhammā&rdquo; term this project's own "
+        "SN 48.51 and SN 48.55 already used as this new vagga's own "
+        "name &mdash; and names a specific outcome for the five "
+        "faculties not yet framed this way in this saṃyutta: giving "
+        "up the fetters (saṁyojanappahāna)."
+    ),
+    guide=[
+        ("A vagga name formalizing an earlier recurring term", [
+            "Confirmed by direct comparison, this vagga's own name, "
+            "&ldquo;Bodhipakkhiyavagga,&rdquo; directly matches the "
+            "term &ldquo;bodhipakkhiyā dhammā&rdquo; (&ldquo;"
+            "qualities on the side of awakening&rdquo;) this "
+            "project's own SN 48.51 and SN 48.55 already used to "
+            "frame the five faculties &mdash; a term now promoted "
+            "from a recurring phrase within Vagga 6 to this new "
+            "vagga's own formal name.",
+        ]),
+        ("A new outcome: giving up the fetters", [
+            "Confirmed by direct reading, this discourse names a "
+            "specific outcome for the five faculties not yet framed "
+            "this way in this saṃyutta's own earlier discourses: "
+            "they lead to &ldquo;saṁyojanappahāna&rdquo; (&ldquo;"
+            "giving up the fetters&rdquo;) &mdash; the classic bonds "
+            "(saṁyojana) that keep beings bound to the cycle of "
+            "rebirth, distinct from the &ldquo;ending of "
+            "defilements&rdquo; (āsavakkhaya) formula met repeatedly "
+            "in earlier vaggas.",
+        ]),
+        ("A bare structural form, matching recent discourses", [
+            "This project's own observation: like several discourses "
+            "in the immediately preceding Sūkarakhatavagga, this "
+            "discourse's own text is brief and unadorned &mdash; a "
+            "single doctrinal claim with a minimal setting "
+            "(&ldquo;at Sāvatthī&rdquo;), no further narrative "
+            "elaboration.",
+        ]),
+    ],
+    terms=[
+        ("Bodhipakkhiyavagga", "&ldquo;the vagga on the side of "
+             "awakening&rdquo; &mdash; this new vagga's own name, "
+             "formalizing a term already met at SN 48.51 and 48.55"),
+        ("saṁyojanappahānāya saṁvattanti", "&ldquo;lead to giving "
+             "up the fetters&rdquo; &mdash; this discourse's own "
+             "specific outcome for the developed five faculties"),
+        ("saṁyojana", "&ldquo;fetter&rdquo; &mdash; the classic "
+             "bonds that keep beings bound to the cycle of rebirth"),
+        ("bhāvitāni bahulīkatāni", "&ldquo;developed and "
+             "cultivated&rdquo; &mdash; the recurring qualifier for "
+             "the five faculties throughout this saṃyutta"),
+        ("Paṭhamaṁ", "&ldquo;the first&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's first "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.61:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What does this vagga's own new name, Bodhipakkhiyavagga, formalize?",
+         "opts": ["The term \"bodhipakkhiyā dhammā\", already met at SN 48.51 and 48.55, now promoted to this vagga's own formal name", "An entirely new term never before met in this saṃyutta", "A denial that the five faculties relate to awakening at all", "The name of a specific location, as with earlier vaggas"],
+         "correct": 0,
+         "expl": "A recurring phrase within Vagga 6, now this new vagga's own title."},
+        {"q": "What specific outcome does this discourse name for the developed five faculties?",
+         "opts": ["Giving up the fetters (saṁyojana), the classic bonds keeping beings bound to rebirth", "The ending of defilements, exactly as in earlier vaggas", "A denial that the five faculties lead to any outcome", "Rebirth in a higher heavenly realm specifically"],
+         "correct": 0,
+         "expl": "A specific new framing, distinct from the āsavakkhaya formula met repeatedly before."},
+        {"q": "What structural form does this discourse's own text take?",
+         "opts": ["Brief and unadorned, with a minimal setting and no further narrative elaboration", "An elaborate narrative scene with multiple named characters", "A dialogue between the Buddha and a brahmin", "A verse composition closing with a simile"],
+         "correct": 0,
+         "expl": "Matching the bare structural pattern of several recent discourses in this saṃyutta."},
+    ],
+    marginalia=[
+        ("A name, formalized", [
+            "bodhipakkhiyā dhammā, met twice before —",
+            "now this vagga's own title outright"
+        ]),
+        ("A new outcome named", [
+            "not ending defilements this time —",
+            "but giving up the fetters that bind"
+        ]),
+        ("Sāvatthī, briefly stated", [
+            "no elaboration, no further scene —",
+            "a bare claim, plainly given"
+        ]),
+        ("First discourse, Paṭhamaṁ", [
+            "brief as this saṃyutta's own many openings —",
+            "more of this new vagga still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.61/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.60.html\">SN 48.60 &middot; Arising "
+        "(2nd)</a> &mdash; the previous discourse, closing "
+        "Sūkarakhatavagga.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
