@@ -27601,3 +27601,174 @@ page(
         "the context of the Buddha's own illness.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.14 — Ukkacelasutta
+# Confirmed by direct reading: a companion piece to SN 47.13, set
+# after BOTH Sāriputta and Moggallāna have died, addressed by the
+# Buddha directly to the assembled Saṅgha rather than relayed through
+# Ānanda.
+# --------------------------------------------------------------------------- #
+page(
+    47, 14, "Ukkacelā", "At Ukkacelā",
+    vagga="Nāḷandavagga",
+    meta_title="SN 47.14 — At Ukkacelā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ukkacelasutta — the Buddha addresses the assembled "
+        "Saṅgha directly after the deaths of both chief disciples, "
+        "Sāriputta and Moggallāna, naming his own freedom from sorrow "
+        "as itself an incredible and amazing quality, before "
+        "repeating the 'be your own island' teaching a third time in "
+        "this saṃyutta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The bank of the Ganges river, near Ukkacelā, in "
+                     "the land of the Vajjis, shortly after both "
+                     "Sāriputta and Moggallāna had died"),
+        ("Speakers", "The Buddha, addressing the assembled Saṅgha "
+                     "directly"),
+        ("Form", "A direct address to a silent assembly, without an "
+                 "intermediary"),
+        ("Length", "2-3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; a direct companion to SN 47.13, "
+                         "extending the same teaching to the loss of "
+                         "BOTH chief disciples"),
+    ],
+    why=(
+        "Sitting before a visibly silent assembly, the Buddha names "
+        "the loss outright: &ldquo;this assembly seems empty to me "
+        "now that Sāriputta and Moggallāna have become fully "
+        "quenched.&rdquo; He praises both disciples in the highest "
+        "terms available, then names something else as equally "
+        "remarkable: that the Realized One himself does not sorrow "
+        "or lament at their passing &mdash; before repeating, for a "
+        "third time in this saṃyutta, the instruction to be one's own "
+        "island."
+    ),
+    guide=[
+        ("An emptiness named outright, not concealed", [
+            "Confirmed by direct reading, the Buddha does not wait to "
+            "be asked; he addresses the visibly silent assembly first, "
+            "naming the emptiness of the gathering himself: "
+            "&ldquo;my assembly never used to be empty; I had no "
+            "concern for any region where Sāriputta and Moggallāna "
+            "stayed.&rdquo;",
+        ]),
+        ("The highest possible praise for both disciples", [
+            "The Buddha's own praise is confirmed by direct reading "
+            "to reach the furthest possible extent: &ldquo;the "
+            "Buddhas of the past or the future have pairs of chief "
+            "disciples who at best were like Sāriputta and Moggallāna "
+            "were to me&rdquo; &mdash; naming them, in effect, as the "
+            "finest such pair any Buddha, in any era, could have.",
+        ]),
+        ("The Realized One's own freedom from sorrow, named as remarkable in its own right", [
+            "Confirmed by direct reading, the Buddha explicitly frames "
+            "his OWN reaction &mdash; that he does not sorrow or "
+            "lament even at the loss of such a pair of disciples "
+            "&mdash; as itself &ldquo;an incredible and amazing "
+            "quality of the Realized One,&rdquo; placed alongside, "
+            "not above, the praise given to Sāriputta and Moggallāna "
+            "themselves.",
+        ]),
+        ("The identical tree simile, now for two branches at once", [
+            "This discourse's own tree simile is confirmed by direct "
+            "comparison to be worded almost identically to SN 47.13's "
+            "own version, adjusted only for number: where SN 47.13 "
+            "spoke of &ldquo;the largest branch&rdquo; breaking from "
+            "one death, this discourse speaks of &ldquo;the largest "
+            "branches&rdquo; (plural) breaking, since both chief "
+            "disciples had died by this point.",
+        ]),
+        ("A third telling of the same closing instruction", [
+            "The closing instruction to &ldquo;live as your own "
+            "island, your own refuge, with no other refuge&rdquo; is "
+            "confirmed by direct comparison to be worded identically "
+            "to its own appearances at SN 47.9 and SN 47.13 &mdash; "
+            "here addressed to the entire assembled Saṅgha directly, "
+            "rather than to Ānanda alone.",
+        ]),
+    ],
+    terms=[
+        ("parisā suññā viya khāyati", "&ldquo;this assembly seems "
+             "empty to me&rdquo; &mdash; the Buddha's own direct "
+             "naming of the loss, addressed to the silent assembly "
+             "itself"),
+        ("sāsanakarā... catunnañca parisānaṁ piyā... "
+             "garubhāvanīyā", "&ldquo;fulfill the Teacher's "
+             "instructions... liked... respected and admired by the "
+             "four assemblies&rdquo; &mdash; the Buddha's own highest "
+             "praise for Sāriputta and Moggallāna"),
+        ("natthi tathāgatassa soko vā paridevo vā", "&ldquo;the "
+             "Realized One does not sorrow or lament&rdquo; &mdash; "
+             "named explicitly as itself an incredible and amazing "
+             "quality"),
+        ("mahantatarā khandhā", "&ldquo;the largest branches&rdquo; "
+             "(plural) &mdash; this discourse's own version of the "
+             "tree simile, adjusted for the loss of two chief "
+             "disciples at once"),
+        ("attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā "
+             "dhammasaraṇā anaññasaraṇā", "&ldquo;live as your own "
+             "island, your own refuge, with no other refuge; the "
+             "teaching as your island and refuge&rdquo; &mdash; the "
+             "third appearance of this instruction in this saṃyutta, "
+             "here addressed to the whole Saṅgha directly"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; setting: shortly after two deaths",
+             "sn47.14:1.1-1.2"),
+        ("p", "&sect;2 &mdash; an emptiness named, and a twofold "
+              "amazement", "sn47.14:2.1-2.17"),
+        ("p", "&sect;3 &mdash; \"be your own island,\" a third time",
+             "sn47.14:3.1-3.7"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha open this discourse, before anyone asks him a question?",
+         "opts": ["By naming the emptiness of the assembly himself, unprompted, after Sāriputta and Moggallāna's deaths", "By asking the assembly why they are so quiet", "By immediately teaching a new doctrine unrelated to the deaths", "By leaving the assembly without speaking"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the Buddha addresses the loss directly and first."},
+        {"q": "What does the Buddha name as itself \"an incredible and amazing quality of the Realized One\"?",
+         "opts": ["That he does not sorrow or lament even at the loss of his two chief disciples", "That he never sleeps", "That he can read minds", "That he never eats solid food"],
+         "correct": 0,
+         "expl": "Placed alongside, not above, the praise given to Sāriputta and Moggallāna themselves."},
+        {"q": "How does this discourse's own tree simile differ from SN 47.13's own version?",
+         "opts": ["It speaks of \"the largest branches\" (plural) breaking, since both chief disciples had died by this point", "It uses an entirely different image, unrelated to trees", "It claims the tree itself has died completely", "It omits the simile entirely"],
+         "correct": 0,
+         "expl": "Adjusted only for number, since this discourse addresses the loss of two disciples rather than one."},
+    ],
+    marginalia=[
+        ("An emptiness named before anyone asks", [
+            "\"this assembly seems empty to me\" —",
+            "the Buddha speaks first, unprompted"
+        ]),
+        ("The finest pair any Buddha could have", [
+            "praise reaching its own furthest extent —",
+            "\"at best were like Sāriputta and Moggallāna\""
+        ]),
+        ("Freedom from sorrow, named as its own wonder", [
+            "not silence about grief, but its own explicit reframing —",
+            "placed beside the disciples' own praise, not above it"
+        ]),
+        ("A third island, offered to the whole Saṅgha", [
+            "the same words as SN 47.9 and 47.13 —",
+            "no longer to Ānanda alone, but to everyone present"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.14/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.13.html\">SN 47.13 &middot; With Cunda</a> "
+        "&mdash; the previous discourse, recounting Sāriputta's own "
+        "death and this identical teaching, given there through "
+        "Ānanda alone.",
+        "<a href=\"sn-47.9.html\">SN 47.9 &middot; Sick</a> &mdash; "
+        "this project's own earliest treatment of the identical "
+        "instruction, given during the Buddha's own illness.",
+    ],
+)
