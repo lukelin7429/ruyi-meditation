@@ -40778,3 +40778,173 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.50 — Āpaṇasutta
+# Closes 5. Jarāvagga (SN 48.41-50), with its own colophon and uddāna
+# naming all ten discourses of the vagga. Confirmed by direct reading:
+# the uddāna's own "Pubbārāme ca cattāri" ("and four at the Eastern
+# Monastery") explicitly counts SN 48.45-48 as a group of four,
+# matching this project's own tracked sequence exactly. The discourse
+# itself is an elaborate circular chain: faith leads to energy,
+# mindfulness, immersion, and wisdom's profound insight into
+# saṃsāra's beginninglessness and nibbāna's peace — which in turn
+# deepens faith itself.
+# --------------------------------------------------------------------------- #
+page(
+    48, 50, "Āpaṇa", "At Āpaṇa",
+    vagga="Jarāvagga",
+    meta_title="SN 48.50 — At Āpaṇa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āpaṇasutta, closing Jarāvagga — Sāriputta traces a "
+        "circular chain of all five faculties, from faith through "
+        "wisdom's insight into saṃsāra and nibbāna, back to a "
+        "deepened faith. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Āpaṇa, a town in the land of the Aṅgas"),
+        ("Speakers", "The Buddha, questioning Venerable Sāriputta; "
+                     "Sāriputta, answering at length; the Buddha, "
+                     "repeating the answer word for word in approval"),
+        ("Form", "A pointed question and an elaborate, circular "
+                 "chain of reasoning through all five faculties, "
+                 "closing this vagga with its own colophon and "
+                 "uddāna"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes Jarāvagga, confirmed exactly "
+                         "by its own uddāna against this project's "
+                         "own already-translated ten discourses, and "
+                         "traces one of this saṃyutta's own most "
+                         "elaborate accounts of how the five "
+                         "faculties reinforce each other"),
+    ],
+    why=(
+        "This discourse closes Jarāvagga with one of this saṃyutta's "
+        "own most elaborate accounts of the five faculties: "
+        "Sāriputta traces a circular chain &mdash; a faithful "
+        "disciple can be expected to become energetic, then "
+        "mindful, then immersed, then to understand with wisdom the "
+        "beginninglessness of saṃsāra and the peace of nibbāna "
+        "&mdash; and this very direct realization, tested again and "
+        "again, in turn DEEPENS the disciple's own faith, closing "
+        "the circle rather than leaving it behind."
+    ),
+    guide=[
+        ("The vagga's own closing colophon and uddāna, confirmed exactly", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing colophon &mdash; &ldquo;Jarāvaggo "
+            "pañcamo&rdquo; (&ldquo;Jarāvagga, the fifth [vagga of "
+            "this saṃyutta], is finished&rdquo;) &mdash; and its own "
+            "uddāna verse account for all ten discourses this "
+            "project has translated: &ldquo;Pubbārāme ca "
+            "cattāri&rdquo; (&ldquo;and four at the Eastern "
+            "Monastery&rdquo;) explicitly confirms SN 48.45-48 as a "
+            "group of four, exactly matching this project's own "
+            "tracked sequence of the whole vagga.",
+        ]),
+        ("A circular chain: faith leading to faith, deepened", [
+            "Confirmed by direct reading, Sāriputta's own answer "
+            "traces each faculty entailing the next: a faithful "
+            "disciple can be expected to become energetic (the "
+            "energy faculty), then mindful (the mindfulness "
+            "faculty), then immersed (the immersion faculty), then "
+            "to directly understand with wisdom (the wisdom "
+            "faculty) &mdash; and this same disciple, having tried, "
+            "recollected, immersed, and understood &ldquo;again and "
+            "again,&rdquo; becomes CONFIDENT that what was once only "
+            "heard is now directly experienced, and THIS confidence "
+            "is itself named the faculty of faith &mdash; not "
+            "abandoning faith for wisdom, but showing wisdom as "
+            "faith's own natural fruition.",
+        ]),
+        ("Wisdom's own content: saṃsāra's beginninglessness, nibbāna's peace", [
+            "Confirmed by direct reading, the wisdom this discourse "
+            "describes is specific and profound: understanding that "
+            "&ldquo;transmigration has no known beginning,&rdquo; "
+            "with no first point found for beings roaming shrouded "
+            "by ignorance and fettered by craving &mdash; and that "
+            "the fading and ceasing of that ignorance, with no "
+            "residue, is peaceful and sublime: &ldquo;the stilling "
+            "of all activities, the letting go of all attachments, "
+            "the ending of craving, fading away, cessation, "
+            "extinguishment.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("Jarāvaggo pañcamo", "&ldquo;the fifth vagga, Jarāvagga, is "
+             "finished&rdquo; &mdash; the Pāli root's own closing "
+             "colophon"),
+        ("anamataggo kho saṁsāro", "&ldquo;transmigration has no "
+             "known beginning&rdquo; &mdash; the content of the "
+             "wisdom faculty's own insight, described here"),
+        ("sabbasaṅkhārasamatho &hellip; nirodho nibbānaṁ", "&ldquo;"
+             "the stilling of all activities &hellip; cessation, "
+             "extinguishment&rdquo; &mdash; the peace this wisdom "
+             "sees directly"),
+        ("evaṁ abhisaddahati", "&ldquo;becomes confident of "
+             "this&rdquo; &mdash; the moment direct experience "
+             "deepens and confirms faith, closing the circle"),
+        ("Jarā uṇṇābho brāhmaṇo, sāketo pubbakoṭṭhako; Pubbārāme ca "
+             "cattāri, piṇḍolo āpaṇena cāti", "the closing uddāna, "
+             "confirmed to match this project's own SN 48.41-50 "
+             "exactly, item for item"),
+    ],
+    text_intro=("The complete discourse. This vagga's own closing "
+        "colophon and uddāna are described, not translated, above. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1-2 &mdash; the Buddha's own question and "
+              "Sāriputta's own opening on energy", "sn48.50:1.1-2.3"),
+        ("p", "&sect;3-4 &mdash; mindfulness and immersion", "sn48.50:3.1-4.2"),
+        ("p", "&sect;5-6 &mdash; wisdom's own insight, and faith "
+              "deepened", "sn48.50:5.1-6.4"),
+        ("p", "&sect;7 &mdash; the Buddha's own approval, repeating "
+              "the answer word for word", "sn48.50:7.1-7.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own uddāna confirm?",
+         "opts": ["This project's own tracking of all ten discourses in this vagga, explicitly counting SN 48.45-48 as \"four at the Eastern Monastery\"", "That this vagga actually contains only five discourses", "That a new saṃyutta begins immediately afterward", "Nothing; the uddāna is left entirely untranslated"],
+         "correct": 0,
+         "expl": "Matching this project's own tracked sequence exactly, item for item."},
+        {"q": "How does Sāriputta's own answer relate faith to wisdom?",
+         "opts": ["Direct wisdom-realization, tried again and again, deepens and confirms faith rather than replacing it", "Faith and wisdom are entirely unrelated and never interact", "Wisdom eliminates the need for faith entirely", "Faith is shown to be a mistake once wisdom arises"],
+         "correct": 0,
+         "expl": "A circular chain, not a replacement — wisdom as faith's own natural fruition."},
+        {"q": "What does the wisdom faculty's own insight, as described in this discourse, understand?",
+         "opts": ["That transmigration has no known beginning, and that its ending — nibbāna — is peaceful and sublime", "That transmigration has a definite, knowable starting point", "That the five faculties do not actually lead anywhere", "That mindfulness alone, without the other faculties, suffices"],
+         "correct": 0,
+         "expl": "A profound insight into saṃsāra's beginninglessness and the peace of its ending."},
+    ],
+    marginalia=[
+        ("A chain, each link expected", [
+            "faith to energy, energy to mindfulness —",
+            "mindfulness to immersion, immersion to wisdom"
+        ]),
+        ("No known beginning", [
+            "no first point of beings roaming, fettered —",
+            "only the ending: stilled, let go, extinguished"
+        ]),
+        ("The circle closes", [
+            "what was once only heard, now directly seen —",
+            "faith deepened, not left behind"
+        ]),
+        ("Tenth discourse, vagga complete", [
+            "Jarāvaggo pañcamo — the fifth vagga finished —",
+            "SN 48.51 onward still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.50/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.49.html\">SN 48.49 &middot; About "
+        "Bhāradvāja the Alms-Gatherer</a> &mdash; the previous "
+        "discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
