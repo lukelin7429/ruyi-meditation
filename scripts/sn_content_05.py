@@ -33546,3 +33546,194 @@ page_range(
         "(SN 47.95&ndash;104) is still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 10. Oghavagga — Floods (Vagga 10 of Book VII, Satipaṭṭhānasaṃyutta).
+# Confirmed by direct bilara-data reading: unlike the three preceding
+# merged ranges, THIS file writes out its own final discourse (the
+# "higher fetters") IN FULL, not truncated — then adds a broader
+# cross-reference confirming SN 47.95-103 mirror SN 45.171-179, with
+# this file's own written-out discourse (SN 47.104) as the analog of
+# SN 45.180 ("Higher Fetters," already published in this project's own
+# SN 45 module). This merged file closes not only Vagga 10 but ALL 104
+# discourses of the Satipaṭṭhānasaṃyutta itself, confirmed by its own
+# closing line, "Satipaṭṭhānasaṁyuttaṁ tatiyaṁ" ("the Linked
+# Discourses on Mindfulness Meditation, the third [saṃyutta of this
+# book]").
+# --------------------------------------------------------------------------- #
+# SN 47.95-104 — Uddhambhāgiyādisutta (merged peyyāla range)
+# Closes the Satipaṭṭhānasaṃyutta (SN 47) in its entirety: 104
+# discourses across ten vaggas (SN 47.1-40 individually written across
+# four vaggas; SN 47.41-50 individually written closing a fifth; SN
+# 47.51-104 across five further peyyāla vaggas covered by five merged
+# pages).
+# --------------------------------------------------------------------------- #
+page_range(
+    47, 95, 104, "Uddhambhāgiyādi",
+    "Higher Fetters, Etc.",
+    vagga="Oghavagga",
+    meta_title="SN 47.95–104 — Higher Fetters, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 47.95–104 — the complete final discourse of the entire "
+        "Satipaṭṭhānasaṃyutta, naming the five higher fetters and the "
+        "fourfold purpose of mindfulness meditation, closing all 104 "
+        "discourses of this saṃyutta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The complete final discourse written out in full "
+                 "(unlike the three preceding merged ranges), followed "
+                 "by a broader cross-reference, this vagga's own "
+                 "closing colophon, and the closing colophon for the "
+                 "entire Satipaṭṭhānasaṃyutta itself"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes not only this vagga but ALL "
+                         "104 discourses of the Satipaṭṭhānasaṃyutta "
+                         "itself"),
+    ],
+    why=(
+        "Unlike the three preceding merged ranges (SN 47.63-72, "
+        "73-84, 85-94), which each gave only a bare opening clause "
+        "before pointing elsewhere, THIS merged file writes out its "
+        "own final discourse IN FULL &mdash; the five higher "
+        "fetters, and the four kinds of mindfulness meditation "
+        "developed for their direct knowledge, complete "
+        "understanding, finishing, and giving up &mdash; before a "
+        "broader cross-reference confirming that SN 47.95-103 mirror "
+        "SN 45.171-179, with this discourse (SN 47.104) as the "
+        "analog of SN 45.180, &ldquo;Higher Fetters,&rdquo; already "
+        "published in this project's own Book V module, and this "
+        "merged file's own closing lines confirm it closes the "
+        "ENTIRE Satipaṭṭhānasaṃyutta, all 104 discourses."
+    ),
+    guide=[
+        ("The one merged range that writes its own ending in full", [
+            "Confirmed by direct reading, this file does NOT "
+            "truncate its own content the way the three preceding "
+            "merged ranges did &mdash; it gives the complete five "
+            "higher fetters (desire for rebirth in the realm of "
+            "luminous form, desire for rebirth in the formless "
+            "realm, conceit, restlessness, and ignorance) and the "
+            "complete fourfold purpose clause (direct knowledge, "
+            "complete understanding, finishing, and giving up) "
+            "written out in full, marked &ldquo;Dasamaṁ&rdquo; "
+            "(&ldquo;the tenth&rdquo;) as this vagga's own final "
+            "discourse.",
+        ]),
+        ("A broader cross-reference, naming this saṃyutta's own overall structure", [
+            "Confirmed by direct reading, this merged file adds an "
+            "explicit note beyond the usual "
+            "&ldquo;vitthāretabbaṁ&rdquo;: &ldquo;as with the Linked "
+            "Discourses on the Path, so should the Linked Discourses "
+            "on Mindfulness Meditation be elaborated... these ten "
+            "discourses correspond to SN 45.171&ndash;179, with the "
+            "above as the final discourse&rdquo; &mdash; confirming "
+            "SN 47.95-103 mirror this project's own already-"
+            "published SN 45.171-179, and that THIS discourse "
+            "(SN 47.104) corresponds instead to SN 45.180, &ldquo;"
+            "Higher Fetters,&rdquo; the identical closing theme "
+            "already confirmed in this project's own Book V module.",
+        ]),
+        ("The close of the entire Satipaṭṭhānasaṃyutta", [
+            "Confirmed by direct reading, this merged file's own "
+            "closing lines carry TWO colophons: &ldquo;Oghavaggo "
+            "dasamo&rdquo; (&ldquo;the tenth vagga, Floods, is "
+            "finished&rdquo;), and &ldquo;Satipaṭṭhānasaṁyuttaṁ "
+            "tatiyaṁ&rdquo; (&ldquo;the Linked Discourses on "
+            "Mindfulness Meditation, the third [saṃyutta of this "
+            "book]&rdquo;) &mdash; confirming this merged file "
+            "closes not only Vagga 10 but ALL 104 discourses of the "
+            "Satipaṭṭhānasaṃyutta itself, and that this saṃyutta is "
+            "the third within its containing book (Mahāvagga, Book "
+            "V).",
+        ]),
+    ],
+    terms=[
+        ("rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā", "&ldquo;"
+             "desire for rebirth in the realm of luminous form, "
+             "desire for rebirth in the formless realm, conceit, "
+             "restlessness, and ignorance&rdquo; &mdash; the five "
+             "higher fetters, this discourse's own topic, written "
+             "out in full"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "&ldquo;for "
+             "the direct knowledge, complete understanding, "
+             "finishing, and giving up&rdquo; &mdash; the fourfold "
+             "purpose clause, written out in full here rather than "
+             "truncated"),
+        ("(Yathā maggasaṁyuttaṁ tathā satipaṭṭhānasaṁyuttaṁ "
+             "vitthāretabbaṁ)", "&ldquo;as with the Linked Discourses "
+             "on the Path, so should the Linked Discourses on "
+             "Mindfulness Meditation be elaborated&rdquo; &mdash; "
+             "this file's own broader cross-reference, naming this "
+             "saṃyutta's overall structural parallel to SN 45"),
+        ("Oghavaggo dasamo", "&ldquo;the tenth vagga, Floods, is "
+             "finished&rdquo; &mdash; the first of this merged "
+             "file's own two closing colophons"),
+        ("Satipaṭṭhānasaṁyuttaṁ tatiyaṁ", "&ldquo;the Linked "
+             "Discourses on Mindfulness Meditation, the third "
+             "[saṃyutta of this book]&rdquo; &mdash; this merged "
+             "file's own second and final colophon, closing all 104 "
+             "discourses of this saṃyutta"),
+    ],
+    text_intro=("The complete final discourse of the "
+        "Satipaṭṭhānasaṃyutta, written out in full, followed by the "
+        "genuinely translated broader cross-reference and the "
+        "vagga's own closing summary verse. The two closing "
+        "colophons themselves are left untranslated in the source "
+        "and are described, not quoted, above. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn47.95-104:1.1-2.6"),
+        ("p", "&sect;2 &mdash; the broader cross-reference", "sn47.95-104:3.1"),
+        ("p", "&sect;3 &mdash; the closing summary verse", "sn47.95-104:4.1-4.5"),
+    ],
+    quiz=[
+        {"q": "How does this merged file differ from the three preceding merged ranges (SN 47.63-72, 73-84, 85-94)?",
+         "opts": ["It writes out its own final discourse in full, rather than truncating it to a bare opening clause", "It gives no content at all, unlike the three preceding ranges", "It is shorter than all three preceding ranges combined", "It covers only a single discourse instead of ten"],
+         "correct": 0,
+         "expl": "The complete five higher fetters and fourfold purpose clause, written out in full and marked \"the tenth.\""},
+        {"q": "What does this file's own cross-reference confirm about SN 47.104's own relationship to SN 45?",
+         "opts": ["SN 47.104 corresponds to SN 45.180, \"Higher Fetters,\" the identical closing theme already published in this project's own Book V module", "SN 47.104 has no relationship to SN 45 at all", "SN 47.104 corresponds to SN 45.1, the very first discourse of that saṃyutta", "The cross-reference concerns an entirely unrelated saṃyutta"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — SN 47.95-103 mirror SN 45.171-179, and this discourse mirrors SN 45.180."},
+        {"q": "What do this merged file's own two closing colophons confirm?",
+         "opts": ["That it closes both Vagga 10 (Oghavagga) and all 104 discourses of the Satipaṭṭhānasaṃyutta itself", "That a new saṃyutta begins immediately within this same file", "That this discourse belongs to a completely different book", "Nothing further; the colophons are purely decorative"],
+         "correct": 0,
+         "expl": "\"Oghavaggo dasamo\" and \"Satipaṭṭhānasaṁyuttaṁ tatiyaṁ\" — this saṃyutta confirmed as the third of its containing book."},
+    ],
+    marginalia=[
+        ("Written in full, not truncated this time", [
+            "the five higher fetters, the fourfold purpose —",
+            "the complete final discourse, marked \"the tenth\""
+        ]),
+        ("SN 47.104 mirrors SN 45.180 exactly", [
+            "both named \"Higher Fetters\" —",
+            "both the closing discourse of their own set"
+        ]),
+        ("Two colophons, one merged file", [
+            "\"Oghavaggo dasamo\" closes the tenth vagga —",
+            "\"Satipaṭṭhānasaṁyuttaṁ tatiyaṁ\" closes them all"
+        ]),
+        ("104 discourses, complete", [
+            "SN 47.1 through SN 47.104 —",
+            "the entire Satipaṭṭhānasaṃyutta now finished"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.95-104/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.180.html\">SN 45.180 &middot; Higher "
+        "Fetters</a> &mdash; this project's own full translation of "
+        "the discourse this final page mirrors.",
+        "<a href=\"sn-47.85-94.html\">SN 47.85&ndash;94 &middot; "
+        "Searches, Etc.</a> &mdash; the previous merged range.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta is now complete; the index "
+        "reflects the saṃyutta's own full 104-discourse span.",
+    ],
+)
