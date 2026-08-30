@@ -33737,3 +33737,149 @@ page_range(
         "reflects the saṃyutta's own full 104-discourse span.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48 — Indriyasaṃyutta (Linked Discourses on the Faculties)
+# Book V (Mahāvagga)'s own second saṃyutta covered by this module,
+# following directly after the Satipaṭṭhānasaṃyutta (SN 47, now
+# complete). Confirmed by direct bilara-data directory listing: this
+# saṃyutta spans 178 discourses across many merged peyyāla ranges (80
+# files total in the translation directory), a substantially larger
+# saṃyutta than SN 47. Structure to be confirmed vagga by vagga as
+# this project proceeds, per this project's own standing rule never to
+# assume a later saṃyutta's own vagga structure from an earlier one.
+# --------------------------------------------------------------------------- #
+# 1. Suddhikavagga — Plain Version (Vagga 1 of Book VIII, Indriyasaṃyutta)
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 48.1 — Suddhikasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 1, "Suddhika", "Plain Version",
+    vagga="Suddhikavagga",
+    meta_title="SN 48.1 — Plain Version | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Suddhikasutta — opening the Indriyasaṃyutta with a bare "
+        "statement of the five spiritual faculties: faith, energy, "
+        "mindfulness, immersion, and wisdom. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A bare declarative list, opening a new saṃyutta "
+                 "with no narrative frame"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; opens an entirely new saṃyutta, "
+                         "naming the five spiritual faculties central "
+                         "to the thirty-seven aids to awakening"),
+    ],
+    why=(
+        "This discourse opens the Indriyasaṃyutta, Book V's own "
+        "saṃyutta on the five spiritual faculties (indriya) &mdash; "
+        "faith, energy, mindfulness, immersion, and wisdom &mdash; a "
+        "classic fivefold set found throughout the canon among the "
+        "thirty-seven aids to awakening (bodhipakkhiyā dhammā), here "
+        "introduced with the barest possible statement: their names "
+        "alone, no narrative frame, no further elaboration."
+    ),
+    guide=[
+        ("Five faculties, named without elaboration", [
+            "Confirmed by direct reading, this discourse does "
+            "nothing more than name the five faculties &mdash; "
+            "faith (saddhā), energy (vīriya), mindfulness (sati), "
+            "immersion (samādhi), and wisdom (paññā) &mdash; without "
+            "defining any of them individually or explaining their "
+            "own relationship to one another, matching this "
+            "discourse's own title, &ldquo;Suddhika&rdquo; "
+            "(&ldquo;plain, unmixed&rdquo;).",
+        ]),
+        ("This saṃyutta's own opening vagga, named for its own bare style", [
+            "This discourse's own vagga, Suddhikavagga, is confirmed "
+            "by direct reading to take its name from this exact "
+            "quality &mdash; a plain, unelaborated statement of the "
+            "five faculties, setting the pattern this project "
+            "expects the vagga's own remaining discourses to vary "
+            "from, confirmed individually rather than assumed.",
+        ]),
+        ("A saṃyutta among the thirty-seven aids to awakening", [
+            "The five faculties named here are confirmed by this "
+            "project's own prior work elsewhere in the canon to be "
+            "one of the seven traditional groupings within the "
+            "thirty-seven aids to awakening (bodhipakkhiyā dhammā), "
+            "sharing three of their own five terms &mdash; energy, "
+            "mindfulness, immersion &mdash; with other groupings "
+            "already met, here gathered specifically under the "
+            "&ldquo;faculty&rdquo; (indriya) framing.",
+        ]),
+    ],
+    terms=[
+        ("indriya", "&ldquo;faculty&rdquo; &mdash; a capacity or "
+             "governing power, the term giving this saṃyutta its own "
+             "name"),
+        ("saddhā", "&ldquo;faith, confidence&rdquo; &mdash; the "
+             "first of the five faculties named in this discourse"),
+        ("vīriya", "&ldquo;energy, vigor&rdquo; &mdash; the second "
+             "faculty, shared with several other groupings among the "
+             "thirty-seven aids to awakening"),
+        ("sati... samādhi... paññā", "&ldquo;mindfulness... "
+             "immersion... wisdom&rdquo; &mdash; the third, fourth, "
+             "and fifth faculties, closing this discourse's own bare "
+             "list"),
+        ("suddhika", "&ldquo;plain, unmixed&rdquo; &mdash; this "
+             "discourse's own title term, giving the vagga it opens "
+             "its own name"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.1:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What five faculties does this discourse name?",
+         "opts": ["Faith, energy, mindfulness, immersion, and wisdom", "Sight, hearing, smell, taste, and touch", "Generosity, ethics, patience, effort, and concentration", "The four noble truths plus the eightfold path"],
+         "correct": 0,
+         "expl": "The classic fivefold set found among the thirty-seven aids to awakening."},
+        {"q": "How does this discourse present these five faculties?",
+         "opts": ["As a bare list, with no definition or elaboration of any individual term", "With a detailed definition of each faculty in turn", "Through a narrative involving a specific mendicant", "As a question posed by a wanderer, unanswered"],
+         "correct": 0,
+         "expl": "Matching this discourse's own title, \"Suddhika\" — \"plain, unmixed.\""},
+        {"q": "What does the vagga this discourse opens take its own name from?",
+         "opts": ["This discourse's own plain, unelaborated style", "A river simile, as in an earlier saṃyutta", "The name of a specific mendicant", "A geographic location"],
+         "correct": 0,
+         "expl": "Suddhikavagga — named for this exact quality, the pattern this project expects the vagga's own remaining discourses to vary from."},
+    ],
+    marginalia=[
+        ("A new saṃyutta opens", [
+            "Indriyasaṃyutta, the five faculties —",
+            "faith, energy, mindfulness, immersion, wisdom"
+        ]),
+        ("Plain, unelaborated — true to its own name", [
+            "Suddhika, \"plain, unmixed\" —",
+            "no definition, no narrative frame"
+        ]),
+        ("Shared terms, a different framing", [
+            "energy, mindfulness, immersion —",
+            "met before, here gathered as \"faculties\""
+        ]),
+        ("First discourse, Paṭhamaṁ", [
+            "opening this saṃyutta's own first vagga —",
+            "many more discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.95-104.html\">SN 47.95&ndash;104 &middot; "
+        "Higher Fetters, Etc.</a> &mdash; closing the preceding "
+        "saṃyutta, the Satipaṭṭhānasaṃyutta.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
