@@ -26029,3 +26029,160 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.4 — Sālasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 4, "Sāla", "At Sālā",
+    vagga="Ambapālivagga",
+    meta_title="SN 47.4 — At Sālā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sālasutta — the same fourfold mindfulness practice "
+        "applied at three stages of the path, with the purpose of "
+        "the practice itself shifting from \"truly knowing\" to "
+        "\"fully understanding\" to \"detachment,\" for junior "
+        "mendicants, trainees, and the perfected in turn. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "The brahmin village of Sālā, in the land of the "
+                     "Kosalans"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One formula, restated three times with a single "
+                 "changing purpose-clause, bracketed by a matching "
+                 "instruction to encourage junior mendicants"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "structurally simple but doctrinally rich in "
+                       "its threefold repetition"),
+    ],
+    why=(
+        "The identical fourfold mindfulness practice &mdash; keen, "
+        "aware, unified, with a clear and immersed mind &mdash; is "
+        "confirmed by direct reading to be prescribed identically for "
+        "junior mendicants, trainees, and the fully perfected alike, "
+        "differing only in a single purpose-clause: junior mendicants "
+        "practice &ldquo;to truly know,&rdquo; trainees practice "
+        "&ldquo;to fully understand,&rdquo; and the perfected practice "
+        "&ldquo;detached&rdquo; &mdash; a single method mapped onto "
+        "three entirely different relationships to its object."
+    ),
+    guide=[
+        ("One formula, unchanged across all three stages", [
+            "The method itself &mdash; observing an aspect of the "
+            "body, feelings, mind, and principles, &ldquo;keen, "
+            "aware, at one, with minds that are clear, immersed in "
+            "samādhi, and unified&rdquo; &mdash; is confirmed by "
+            "direct comparison to be worded IDENTICALLY for junior "
+            "mendicants (&sect;2), trainees (&sect;3), and the "
+            "perfected (&sect;4). Nothing about the practice itself "
+            "changes; the discourse's own structure isolates a single "
+            "variable instead.",
+        ]),
+        ("Three purposes, one for each stage", [
+            "Only the purpose-clause changes across the three "
+            "repetitions: junior mendicants practice &ldquo;so as to "
+            "truly know&rdquo; (yathābhūtaṁ ñāṇāya) the body, "
+            "feelings, mind, and principles; trainees practice "
+            "&ldquo;so as to fully understand&rdquo; (pariññāya) "
+            "them; and the perfected practice &ldquo;detached&rdquo; "
+            "(visaṁyuttā) from them &mdash; confirming this "
+            "discourse's own view that the SAME meditative act serves "
+            "a different function at each stage of the path, from "
+            "initial knowledge through comprehension to final "
+            "detachment.",
+        ]),
+        ("Framed as instruction for junior mendicants", [
+            "The discourse opens and closes with the identical "
+            "instruction that senior mendicants should "
+            "&ldquo;encourage, support, and establish&rdquo; junior "
+            "mendicants in this practice &mdash; confirming the "
+            "threefold comparison at the discourse's own center "
+            "(sections 2-4) exists to show a newcomer that the very "
+            "practice they are beginning is the SAME practice "
+            "trainees and arahants continue, not a preliminary "
+            "technique to be later abandoned.",
+        ]),
+    ],
+    terms=[
+        ("navā acirapabbajitā", "&ldquo;junior&mdash;recently gone "
+             "forth&rdquo; &mdash; the first of three stages this "
+             "discourse compares"),
+        ("sekhā appattamānasā", "&ldquo;trainees&mdash;who haven't "
+             "achieved their heart's desire&rdquo; &mdash; those who "
+             "have entered the path but not yet reached its "
+             "culmination, the second stage"),
+        ("arahanto khīṇāsavā", "&ldquo;the perfected&mdash;who have "
+             "ended the defilements&rdquo; &mdash; arahants, the "
+             "third and final stage compared"),
+        ("yathābhūtaṁ ñāṇāya... pariññāya... visaṁyuttā",
+             "&ldquo;to truly know... to fully understand... "
+             "detached&rdquo; &mdash; the single changing variable "
+             "across the three otherwise-identical repetitions of "
+             "the formula"),
+        ("ekodibhūtā vippasannacittā samāhitā ekaggacittā",
+             "&ldquo;at one, with minds that are clear, immersed in "
+             "samādhi, and unified&rdquo; &mdash; qualities added to "
+             "the formula here beyond SN 47.1-3's own wording, shared "
+             "identically across all three stages"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; setting and instruction",
+             "sn47.4:1.1-2.2"),
+        ("p", "&sect;2 &mdash; for junior mendicants: \"to truly "
+              "know\"", "sn47.4:2.3-2.6"),
+        ("p", "&sect;3 &mdash; for trainees: \"to fully understand\"",
+             "sn47.4:3.1-3.4"),
+        ("p", "&sect;4 &mdash; for the perfected: \"detached\"",
+             "sn47.4:4.1-4.4"),
+        ("p", "&sect;5 &mdash; closing instruction", "sn47.4:5.1"),
+    ],
+    quiz=[
+        {"q": "What stays the same across all three repetitions of the formula in this discourse?",
+         "opts": ["The method itself — observing the body, feelings, mind, and principles, keen, aware, unified, with a clear and immersed mind", "The specific mendicant being addressed", "The location where the teaching is given", "The number of mindfulness objects, which increases from stage to stage"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — nothing about the practice itself changes across the three stages."},
+        {"q": "What is the ONE thing that changes across the three stages (junior mendicants, trainees, the perfected)?",
+         "opts": ["The purpose-clause: \"to truly know,\" then \"to fully understand,\" then \"detached\"", "The four objects of observation, which are entirely different at each stage", "The physical posture used for meditation", "The length of each meditation session"],
+         "correct": 0,
+         "expl": "The single variable this discourse isolates, showing the same act serving a different function at each stage of the path."},
+        {"q": "Why does the discourse frame this threefold comparison as instruction for junior mendicants specifically?",
+         "opts": ["To show a newcomer that the very practice they are beginning is the same one trainees and arahants continue, not a technique to later abandon", "To discourage junior mendicants from practicing mindfulness at all", "To establish a competition between different stages of practitioners", "To argue that only arahants should practice mindfulness meditation"],
+         "correct": 0,
+         "expl": "Confirmed by the discourse's own opening and closing instruction to encourage and establish junior mendicants in this practice."},
+    ],
+    marginalia=[
+        ("One formula, worded identically three times", [
+            "junior, trainee, and arahant alike —",
+            "nothing about the method itself changes"
+        ]),
+        ("Only the purpose shifts", [
+            "\"to truly know,\" then \"to fully understand,\" "
+            "then \"detached\" —",
+            "one act, three different relationships to its object"
+        ]),
+        ("The same path from beginning to end", [
+            "a newcomer's practice is an arahant's practice too —",
+            "not a technique to be later discarded"
+        ]),
+        ("A model for later comparisons in this saṃyutta", [
+            "stages of the path, mapped onto one formula —",
+            "a pattern worth watching for in later discourses"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.3.html\">SN 47.3 &middot; A Monk</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
