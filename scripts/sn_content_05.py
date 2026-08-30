@@ -28204,3 +28204,166 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.18 — Brahmasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 18, "Brahma", "Divinity",
+    vagga="Nāḷandavagga",
+    meta_title="SN 47.18 — Divinity | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Brahmasutta — set in the earliest days after the "
+        "Buddha's own awakening, the divinity Sahampati reads his "
+        "private reflection on the four kinds of mindfulness "
+        "meditation and appears before him to confirm it, closing "
+        "with a verse on the path by which people have crossed, will "
+        "cross, and are crossing the flood. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Uruvelā, at the goatherd's banyan tree on the "
+                     "bank of the Nerañjarā River, in the earliest "
+                     "days after the Buddha's own awakening"),
+        ("Speakers", "The Buddha (in private reflection) and the "
+                     "divinity Sahampati"),
+        ("Form", "A private thought, read and confirmed by a "
+                 "visiting divinity, closing with a four-line verse"),
+        ("Length", "2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; set at the very beginning of the "
+                         "Buddha's own teaching career, echoing "
+                         "SN 47.1's own opening formula"),
+    ],
+    why=(
+        "In the earliest days after his own awakening, the Buddha "
+        "privately reflects on the four kinds of mindfulness "
+        "meditation as &ldquo;the path to convergence&rdquo; &mdash; "
+        "the identical formula that opens this entire saṃyutta at "
+        "SN 47.1. The divinity Sahampati, reading this thought as "
+        "easily as a strong person extends an arm, appears before the "
+        "Buddha to confirm it word for word, then adds a closing "
+        "verse naming this the path by which people have crossed, "
+        "will cross, and are crossing the flood."
+    ),
+    guide=[
+        ("A private reflection, set at the very beginning", [
+            "Confirmed by direct reading, this discourse's own "
+            "setting &mdash; &ldquo;when he was first awakened&rdquo; "
+            "&mdash; places it among the earliest episodes in the "
+            "entire canon's own chronology of the Buddha's teaching "
+            "career, making the four kinds of mindfulness meditation "
+            "one of the very first things he is shown reflecting on "
+            "after his own awakening.",
+        ]),
+        ("The identical formula that opens this whole saṃyutta", [
+            "The Buddha's own private thought, confirmed by direct "
+            "comparison, is worded identically to SN 47.1's own "
+            "opening formula (&ldquo;the path to convergence... to "
+            "purify sentient beings, to get past sorrow and "
+            "crying...&rdquo;) &mdash; suggesting this discourse "
+            "recounts, or closely echoes, the moment this saṃyutta's "
+            "own foundational teaching first took shape in the "
+            "Buddha's own mind.",
+        ]),
+        ("A divinity who reads a thought as easily as extending an arm", [
+            "Sahampati's own manner of arrival &mdash; vanishing from "
+            "the &ldquo;realm of divinity&rdquo; and appearing before "
+            "the Buddha &ldquo;as easily as a strong person would "
+            "extend or contract their arm&rdquo; &mdash; is confirmed "
+            "by direct reading to frame his own confirmation of the "
+            "Buddha's private thought as itself a kind of "
+            "endorsement, arriving unprompted rather than sought.",
+        ]),
+        ("A verse naming the path across the flood", [
+            "The closing verse's own final line &mdash; &ldquo;by "
+            "this path people crossed over before, will cross, and "
+            "are crossing&rdquo; &mdash; is confirmed by direct "
+            "reading to use &ldquo;oghaṁ&rdquo; (&ldquo;the "
+            "flood&rdquo;), the identical image this project's own "
+            "SN 46 traced at length through its own Oghavagga vaggas "
+            "&mdash; here applied directly to the fourfold "
+            "mindfulness path itself.",
+        ]),
+    ],
+    terms=[
+        ("paṭhamābhisambuddho", "&ldquo;when he was first "
+             "awakened&rdquo; &mdash; the discourse's own explicit "
+             "temporal marker, placing this episode among the "
+             "earliest in the Buddha's own teaching career"),
+        ("ekāyano maggo", "&ldquo;the path to convergence&rdquo; "
+             "&mdash; the identical phrase opening this entire "
+             "saṃyutta at SN 47.1, here recounted as the Buddha's own "
+             "private reflection"),
+        ("balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya", "&ldquo;as "
+             "easily as a strong person would extend or contract "
+             "their arm&rdquo; &mdash; the simile for Sahampati's own "
+             "instantaneous appearance"),
+        ("brahmā sahampati", "the divinity Sahampati &mdash; who "
+             "reads and confirms the Buddha's own private thought "
+             "word for word"),
+        ("etena maggena tariṁsu pubbe, tarissanti ye ca taranti "
+             "oghaṁ", "&ldquo;by this path people crossed over "
+             "before, will cross, and are crossing the flood&rdquo; "
+             "&mdash; the closing verse's own final line, using the "
+             "identical flood image traced through this project's own "
+             "earlier work on SN 46's Oghavagga"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; setting: the earliest days after "
+              "awakening", "sn47.18:1.1-1.3"),
+        ("p", "&sect;2 &mdash; the Buddha's own private reflection",
+             "sn47.18:2.1-2.6"),
+        ("p", "&sect;3 &mdash; Sahampati appears and confirms it",
+             "sn47.18:3.1-3.4"),
+        ("p", "&sect;4 &mdash; the confirmation, in full",
+             "sn47.18:4.1-4.6"),
+        ("p", "&sect;5 &mdash; a closing verse", "sn47.18:5.1-6.4"),
+    ],
+    quiz=[
+        {"q": "When is this discourse set, according to its own opening line?",
+         "opts": ["In the earliest days after the Buddha's own awakening", "Late in the Buddha's own life, near his death", "During his final rains retreat", "At an unspecified later period"],
+         "correct": 0,
+         "expl": "Confirmed by the discourse's own explicit temporal marker, \"when he was first awakened.\""},
+        {"q": "How does the Buddha's own private reflection in this discourse compare to SN 47.1's own opening formula?",
+         "opts": ["Worded identically — the same \"path to convergence\" formula that opens this entire saṃyutta", "Completely unrelated to the fourfold formula", "It describes a different set of four objects entirely", "It contradicts SN 47.1's own teaching"],
+         "correct": 0,
+         "expl": "Suggesting this discourse recounts, or closely echoes, the moment the teaching first took shape."},
+        {"q": "What image does the closing verse use for the fourfold mindfulness path?",
+         "opts": ["A path by which people have crossed, will cross, and are crossing \"the flood\" (ogha)", "A ladder reaching to the heavens", "A bridge built by human hands", "A river that cannot be crossed"],
+         "correct": 0,
+         "expl": "The identical flood image this project's own earlier work traced through SN 46's own Oghavagga."},
+    ],
+    marginalia=[
+        ("The earliest days, a private reflection", [
+            "\"when he was first awakened\" —",
+            "the same formula that opens this whole saṃyutta"
+        ]),
+        ("A thought read as easily as an arm's motion", [
+            "Sahampati appears unprompted, unasked —",
+            "confirmation arriving on its own"
+        ]),
+        ("Word for word, the identical formula", [
+            "purify beings, past sorrow, to extinguishment —",
+            "echoed exactly by a visiting divinity"
+        ]),
+        ("The flood, crossed by this same path", [
+            "\"crossed before, will cross, and are crossing\" —",
+            "the identical image traced through SN 46's Oghavagga"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.18/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.17.html\">SN 47.17 &middot; Noble</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-47.1.html\">SN 47.1 &middot; In Ambapālī's "
+        "Mango Grove</a> &mdash; this project's own earlier treatment "
+        "of the identical opening formula echoed here.",
+    ],
+)
