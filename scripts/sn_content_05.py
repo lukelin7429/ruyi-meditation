@@ -47837,3 +47837,134 @@ page(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 51.2 — Viraddhasutta
+# --------------------------------------------------------------------------- #
+page(
+    51, 2, "Viraddha", "Missed Out",
+    vagga="Cāpālavagga",
+    meta_title="SN 51.2 — Missed Out | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Viraddhasutta — missing out on the four bases of "
+        "psychic power means missing out on the noble path itself. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; this discourse's own bare "
+                     "opening statement"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A double conditional statement, then the four "
+                 "bases of psychic power restated"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; equates the four bases of psychic "
+                         "power directly with the noble path itself"),
+    ],
+    why=(
+        "This discourse states, in the strongest possible terms, "
+        "what is at stake in developing the four bases of psychic "
+        "power: to miss out on them is to miss out on the noble "
+        "path to the complete ending of suffering itself, and to "
+        "undertake them is to undertake that same path &mdash; a "
+        "direct equation this project has not yet seen stated quite "
+        "this starkly for any of this book's own other quality sets."
+    ),
+    guide=[
+        ("A direct equation with the noble path itself", [
+            "Confirmed by direct reading, this discourse's own "
+            "double conditional &mdash; &ldquo;whoever has missed "
+            "out on the four bases of psychic power has missed out "
+            "on the noble path... whoever has undertaken [them] has "
+            "undertaken [it]&rdquo; &mdash; states plainly that "
+            "developing the four iddhipāda is not merely helpful "
+            "toward the path but identical in its own soteriological "
+            "weight to walking the path itself.",
+        ]),
+        ("Viraddha and āraddha: a deliberate wordplay", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare text states: "
+            "&ldquo;viraddha&rdquo; (missed, failed, gone astray "
+            "from) and &ldquo;āraddha&rdquo; (undertaken, begun, "
+            "roused) share the same root (&ldquo;rabh,&rdquo; to "
+            "seize or begin), suggesting a deliberate pair of "
+            "opposites built from a single root rather than two "
+            "unrelated words.",
+        ]),
+        ("The same four qualities, restated", [
+            "This discourse's own four bases of psychic power are "
+            "identical to SN 51.1's own &mdash; enthusiasm, energy, "
+            "mind, and inquiry, each with immersion and active "
+            "effort &mdash; confirmed by direct comparison rather "
+            "than assumed unchanged.",
+        ]),
+    ],
+    terms=[
+        ("viraddhā...ariyo maggo sammā dukkhakkhayagāmī", "&ldquo;"
+             "missed out...the noble path to the complete ending of "
+             "suffering&rdquo; &mdash; this discourse's own direct "
+             "equation between the four bases and the path itself"),
+        ("āraddhā", "&ldquo;undertaken, begun&rdquo; &mdash; sharing "
+             "its own root with &ldquo;viraddhā,&rdquo; forming a "
+             "deliberate pair of opposites"),
+        ("cattāro iddhipādā", "&ldquo;the four bases of psychic "
+             "power&rdquo; &mdash; restated identically to SN 51.1's "
+             "own definition"),
+        ("chandasamādhippadhānasaṅkhārasamannāgataṁ", "&ldquo;endowed "
+             "with immersion due to enthusiasm, and active "
+             "effort&rdquo; &mdash; the first basis, unchanged from "
+             "SN 51.1"),
+        ("Dutiyaṁ", "&ldquo;the second&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's second "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.2:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What does this discourse state about missing out on the four bases of psychic power?",
+         "opts": ["It means missing out on the noble path to the complete ending of suffering itself", "It has no consequence at all", "It only affects lay practitioners, not mendicants", "It can be compensated for by developing the five faculties instead"],
+         "correct": 0,
+         "expl": "A direct equation between the four iddhipāda and the noble path itself."},
+        {"q": "What do \"viraddha\" and \"āraddha\" share, as general canonical background?",
+         "opts": ["The same root, suggesting a deliberate pair of opposites built from a single word-root", "No linguistic relationship at all", "They are borrowed from an unrelated language", "They both mean exactly the same thing"],
+         "correct": 0,
+         "expl": "Missed/failed versus undertaken/begun — opposites sharing the root \"rabh.\""},
+        {"q": "How do this discourse's own four bases of psychic power compare to SN 51.1's own?",
+         "opts": ["Identical: enthusiasm, energy, mind, and inquiry, each with immersion and active effort", "An entirely different set of four qualities", "Only two of the four are repeated", "This discourse adds a fifth basis not found at SN 51.1"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison, not assumed unchanged."},
+    ],
+    marginalia=[
+        ("Missed, or undertaken", [
+            "one root, two opposite fates —",
+            "viraddha and āraddha"
+        ]),
+        ("Equated with the path itself", [
+            "not merely helpful toward it —",
+            "identical in its own weight"
+        ]),
+        ("The same four, restated", [
+            "enthusiasm, energy, mind, inquiry —",
+            "unchanged from this vagga's own opening"
+        ]),
+        ("Second discourse, Dutiyaṁ", [
+            "brief as the first before it —",
+            "the stakes made explicit early"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.1.html\">SN 51.1 &middot; From the Near "
+        "Shore</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
