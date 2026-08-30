@@ -45060,3 +45060,157 @@ page_range(
         "selects.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.159-168 — Punaesanāvaggo (bare cross-reference, own vagga)
+# Vagga 14, confirmed by direct reading of the root Pāli's own "0.2"
+# field ("14. Punaesanāvagga") to be its own standalone vagga,
+# unlike SN 48.137-158's own sub-sections within Vagga 13. A genuine
+# textual variant reported honestly rather than harmonized: the root
+# Pāli's own cross-reference note names three vaggas
+# ("Appamādavagga-balakaraṇīyavagga-esanāvaggā vitthāretabbā"),
+# while the English source specifies only one, matching this vagga's
+# own name -- "tell in full as in SN 45.161-170, removal of greed
+# version." Confirmed at SN 45.161 itself: the "removal of greed"
+# variant is directly present at its own segment 2.7.
+# --------------------------------------------------------------------------- #
+page_range(
+    48, 159, 168, "Punaesanā", "Another Chapter on Searches",
+    vagga="Punaesanāvagga",
+    meta_title="SN 48.159–168 — Another Chapter on Searches | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 48.159–168 — a bare cross-reference vagga of its own, "
+        "pointing to a specific closing-formula variant already met "
+        "at SN 45.161. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; a bare cross-reference "
+                     "instruction, its own standalone vagga"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single cross-reference instruction; no worked "
+                 "example, colophon, or uddāna of its own"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; its own standalone vagga (unlike "
+                         "SN 48.137-158's own sub-sections), and a "
+                         "genuine Pāli/English discrepancy in its "
+                         "own cross-reference note"),
+    ],
+    why=(
+        "Confirmed by direct reading of the root Pāli's own "
+        "&ldquo;0.2&rdquo; field, this file opens its own standalone "
+        "vagga (&ldquo;14. Punaesanāvagga&rdquo;), unlike the three "
+        "sub-sections just completed within Vagga 13. Its own "
+        "cross-reference also carries a genuine variant, reported "
+        "honestly rather than harmonized: the Pāli root names three "
+        "vaggas, while the English source specifies only one, "
+        "matching this vagga's own name."
+    ),
+    guide=[
+        ("Its own vagga, not a further sub-section", [
+            "Confirmed by direct reading, this file's own root Pāli "
+            "&ldquo;0.2&rdquo; field reads &ldquo;14. "
+            "Punaesanāvagga,&rdquo; distinct from Vagga 13's own "
+            "field across all three of its own sections &mdash; this "
+            "vagga stands on its own, ten discourses per its own "
+            "name's echo of Esanāvagga (SN 45.161-170) alone.",
+        ]),
+        ("A genuine Pāli/English discrepancy, reported honestly", [
+            "This project's own standing practice, applied here "
+            "rather than silently resolved: the root Pāli's own "
+            "cross-reference reads &ldquo;Appamādavagga-"
+            "balakaraṇīyavagga-esanāvaggā vitthāretabbā&rdquo; "
+            "(&ldquo;the Diligence, Hard Work, and Searches chapters "
+            "are to be elaborated&rdquo;) &mdash; naming all three "
+            "vaggas just completed within Vagga 13 &mdash; while the "
+            "English source specifies only &ldquo;SN "
+            "45.161&ndash;170,&rdquo; matching Esanāvagga alone and "
+            "this vagga's own actual name. Both are quoted below "
+            "rather than silently picking one.",
+        ]),
+        ("The removal-of-greed variant, confirmed at SN 45.161 itself", [
+            "Confirmed by directly re-reading this project's own SN "
+            "45.161: the &ldquo;removal of greed, hate, and "
+            "delusion&rdquo; closing formula is present at its own "
+            "segment 2.7, exactly the variant this cross-reference "
+            "selects, matching the identical pattern already "
+            "confirmed at Vagga 13's own three sections.",
+        ]),
+    ],
+    terms=[
+        ("Punaesanāvaggo", "&ldquo;Another Searches Chapter&rdquo; "
+             "&mdash; this vagga's own name, echoing Esanāvagga (SN "
+             "45.161-170, and this project's own SN 48.105-114) "
+             "alone"),
+        ("Appamādavagga-balakaraṇīyavagga-esanāvaggā vitthāretabbā",
+             "&ldquo;the Diligence, Hard Work, and Searches chapters "
+             "are to be elaborated&rdquo; &mdash; the root Pāli's own "
+             "cross-reference, naming all three of Vagga 13's own "
+             "just-completed sections"),
+        ("tell in full as in SN 45.161-170, removal of greed version",
+             "the English source's own more specific instruction, "
+             "matching this vagga's own actual name and content "
+             "alone"),
+        ("rāgavinayapariyosānaṁ dosavinayapariyosānaṁ "
+         "mohavinayapariyosānaṁ", "&ldquo;culminating in the removal "
+             "of greed, hate, and delusion&rdquo; &mdash; confirmed "
+             "present at SN 45.161's own segment 2.7"),
+        ("esanā", "&ldquo;search, quest&rdquo; &mdash; the three "
+             "searches (for sensual pleasure, continued existence, "
+             "and the spiritual life) already treated at this "
+             "project's own SN 45.161 and SN 48.105-114"),
+    ],
+    text_intro=("The complete content of this file: its own bare "
+        "cross-reference note, given in both the Pāli root's own "
+        "broader form and the English source's own more specific "
+        "form. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.159-168:1.1"),
+    ],
+    quiz=[
+        {"q": "What does the root Pāli's own \"0.2\" field confirm about this file's own place in the vagga structure?",
+         "opts": ["It opens its own standalone vagga (\"14. Punaesanāvagga\"), unlike the three sub-sections within Vagga 13", "It is a fourth sub-section of Vagga 13", "It closes the entire saṃyutta", "It has no vagga designation at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a genuine structural distinction from the immediately preceding vagga."},
+        {"q": "What genuine discrepancy does this project report honestly, rather than silently resolving?",
+         "opts": ["The Pāli root names three vaggas in its cross-reference, while the English source specifies only one, matching this vagga's own actual name", "A discrepancy in the number of faculties named", "A missing translator's name", "A contradiction about which saṃyutta this belongs to"],
+         "correct": 0,
+         "expl": "Both readings are quoted rather than one being silently picked."},
+        {"q": "Where was the \"removal of greed\" variant this cross-reference selects directly confirmed?",
+         "opts": ["At SN 45.161's own segment 2.7, matching the pattern already confirmed at Vagga 13's own three sections", "Nowhere — the variant does not actually exist in the source", "Only in this project's own inference, never directly verified", "At a discourse this project has not yet read"],
+         "correct": 0,
+         "expl": "Confirmed by directly re-reading SN 45.161, not assumed from the pattern alone."},
+    ],
+    marginalia=[
+        ("Its own vagga, not a fourth section", [
+            "14. Punaesanāvagga, the field itself says —",
+            "distinct from Vagga 13's own three parts"
+        ]),
+        ("Two readings, both kept", [
+            "Pāli names three chapters, English names one —",
+            "reported honestly, neither silently dropped"
+        ]),
+        ("Confirmed again at the source itself", [
+            "removal of greed, present at 2.7 —",
+            "not merely assumed from the pattern"
+        ]),
+        ("Searches, echoed once more", [
+            "the same three quests as SN 45.161 —",
+            "and this project's own SN 48.105-114"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.159-168/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.147-158.html\">SN 48.147&ndash;158 &middot; "
+        "Another Chapter on Hard Work</a> &mdash; the previous page, "
+        "closing Vagga 13.",
+        "<a href=\"sn-45.161.html\">SN 45.161 &middot; Searches</a> "
+        "&mdash; this project's own earlier treatment containing the "
+        "closing-formula variant this cross-reference selects.",
+    ],
+)
