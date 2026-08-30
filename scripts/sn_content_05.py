@@ -35279,3 +35279,139 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.12 — Paṭhamasaṅkhittasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 12, "Paṭhamasaṅkhitta", "In Brief (1st)",
+    vagga="Mudutaravagga",
+    meta_title="SN 48.12 — In Brief (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasaṅkhittasutta — confirming this vagga's own "
+        "name at last: the five faculties, weaker by degree, mark "
+        "off six levels of attainment from the arahant down to the "
+        "follower by faith. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A brief statement of the five faculties, followed "
+                 "by a graduated scale of six levels of attainment "
+                 "defined by their own weakening degree"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; confirms, at last, what this "
+                         "vagga's own name, Mudutaravagga "
+                         "(&ldquo;Weaker&rdquo;), actually refers to"),
+    ],
+    why=(
+        "This discourse confirms exactly what SN 48.11 declined to "
+        "guess: the vagga's own name, Mudutaravagga "
+        "(&ldquo;Weaker&rdquo;), refers to the FIVE FACULTIES' OWN "
+        "DEGREE OF COMPLETION &mdash; someone who has completed and "
+        "fulfilled them is an arahant; weaker than that, a "
+        "non-returner; weaker still, a once-returner; weaker still, "
+        "a stream-enterer; weaker still, a follower of teachings; "
+        "weaker still, a follower by faith."
+    ),
+    guide=[
+        ("The vagga's own name, confirmed rather than guessed", [
+            "Confirmed by direct reading, this discourse's own "
+            "repeated word &ldquo;mudutarehi&rdquo; (&ldquo;weaker "
+            "than that&rdquo;) is exactly the term giving this "
+            "vagga its own name &mdash; this project's own caution "
+            "at SN 48.11, declining to guess the name's own "
+            "reference, is now vindicated by direct textual "
+            "confirmation.",
+        ]),
+        ("Six levels, marked by the same faculties' own weakening degree", [
+            "Confirmed by direct reading, this discourse names six "
+            "distinct levels &mdash; arahant, non-returner, "
+            "once-returner, stream-enterer, follower of teachings "
+            "(dhammānusārī), and follower by faith (saddhānusārī) "
+            "&mdash; each marked off from the one above it not by a "
+            "DIFFERENT quality, but by the SAME five faculties held "
+            "to a progressively weaker degree.",
+        ]),
+        ("A single spectrum, not five separate scales", [
+            "This discourse's own phrase &ldquo;samattā "
+            "paripūrattā&rdquo; (&ldquo;completed and fulfilled&rdquo;) "
+            "is confirmed by direct reading to describe the five "
+            "faculties TOGETHER as one combined measure, with each "
+            "of the six levels representing one point along a single "
+            "shared spectrum of completion rather than five "
+            "independent gradations.",
+        ]),
+    ],
+    terms=[
+        ("mudutara", "&ldquo;weaker&rdquo; &mdash; this discourse's "
+             "own repeated term, giving this vagga its own name, "
+             "here confirmed to mean the faculties' own degree of "
+             "completion"),
+        ("samattā paripūrattā", "&ldquo;completed and "
+             "fulfilled&rdquo; &mdash; the condition marking the "
+             "highest level, the arahant"),
+        ("anāgāmī... sakadāgāmī... sotāpanno", "&ldquo;non-returner... "
+             "once-returner... stream-enterer&rdquo; &mdash; three "
+             "of the four traditional stages of awakening, each "
+             "marked by a progressively weaker degree of the "
+             "faculties"),
+        ("dhammānusārī", "&ldquo;follower of teachings&rdquo; "
+             "&mdash; the second-lowest level named, distinguished "
+             "by wisdom as the leading faculty"),
+        ("saddhānusārī", "&ldquo;follower by faith&rdquo; &mdash; "
+             "the lowest level named, distinguished by faith as the "
+             "leading faculty"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.12:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse confirm about the vagga's own name, Mudutaravagga (\"Weaker\")?",
+         "opts": ["It refers to the five faculties' own degree of completion, marking off six levels of attainment", "It refers to a weaker form of ethics distinct from the five faculties", "It has no connection to the five faculties at all", "It names a specific weaker mendicant by name"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading, vindicating this project's own caution at SN 48.11 not to guess in advance."},
+        {"q": "How many levels of attainment does this discourse name, and what distinguishes them from each other?",
+         "opts": ["Six levels, each marked by a progressively weaker degree of the same five faculties", "Six levels, each defined by an entirely different quality", "Only two levels — arahant and everyone else", "Six levels distinguished by geography, not attainment"],
+         "correct": 0,
+         "expl": "Arahant, non-returner, once-returner, stream-enterer, follower of teachings, and follower by faith."},
+        {"q": "How does this discourse treat the five faculties across the six levels?",
+         "opts": ["As one combined measure — a single shared spectrum of completion, not five independent scales", "As five completely separate and unrelated measures", "As only relevant to the arahant level", "As irrelevant to distinguishing levels of attainment"],
+         "correct": 0,
+         "expl": "\"Completed and fulfilled\" describes the five faculties together as one measure."},
+    ],
+    marginalia=[
+        ("The vagga's own name, confirmed at last", [
+            "mudutarehi — \"weaker than that\" —",
+            "this project's own caution now vindicated"
+        ]),
+        ("Six levels, one spectrum", [
+            "arahant down to follower by faith —",
+            "the same faculties, progressively weaker"
+        ]),
+        ("Completed and fulfilled — one combined measure", [
+            "not five separate scales —",
+            "a single shared degree of completion"
+        ]),
+        ("Second discourse, Dutiyaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "many more discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.11.html\">SN 48.11 &middot; Gain</a> "
+        "&mdash; the previous discourse, opening this vagga without "
+        "yet explaining its own name.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
