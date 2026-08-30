@@ -38126,3 +38126,138 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.32 — Sotāpannasutta
+# Mirrors SN 48.26 (Vagga 3's own stream-enterer discourse for the six
+# sense faculties), now applied to the five feeling faculties of
+# Sukhindriyavagga, using the same fivefold analytical lens.
+# --------------------------------------------------------------------------- #
+page(
+    48, 32, "Sotāpanna", "A Stream-Enterer",
+    vagga="Sukhindriyavagga",
+    meta_title="SN 48.32 — A Stream-Enterer | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sotāpannasutta — a noble disciple who truly understands "
+        "the five feeling faculties' own origin, disappearance, "
+        "gratification, drawback, and escape is called a "
+        "stream-enterer. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single defining statement, mirroring SN 48.26's "
+                 "own structure for a different set of faculties"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; mirrors SN 48.26's own "
+                         "stream-enterer criterion, now for the five "
+                         "feeling faculties, following the same "
+                         "pairing pattern this project's own Vagga 3 "
+                         "already established"),
+    ],
+    why=(
+        "This discourse mirrors this project's own SN 48.26 almost "
+        "exactly &mdash; the same fivefold analytical lens, the same "
+        "closing stream-enterer formula &mdash; but applied to the "
+        "five feeling faculties (pleasure, pain, happiness, sadness, "
+        "equanimity) newly introduced in this vagga, rather than the "
+        "six sense faculties SN 48.26 treated."
+    ),
+    guide=[
+        ("A direct structural echo of SN 48.26", [
+            "Confirmed by direct reading, this discourse's own "
+            "structure is nearly identical to this project's own SN "
+            "48.26: the same fivefold lens (origin, disappearance, "
+            "gratification, drawback, escape) and the same closing "
+            "stream-enterer formula, now defining the five feeling "
+            "faculties introduced at SN 48.31 rather than the six "
+            "sense faculties.",
+        ]),
+        ("A recurring structural device across this saṃyutta", [
+            "This project's own running observation: the fivefold "
+            "analytical lens has now recurred across both Vagga 3 "
+            "and Vagga 4 of this saṃyutta, applied each time to "
+            "define a disciple's own attainment with respect to "
+            "whichever faculty category a given vagga treats as its "
+            "own subject.",
+        ]),
+        ("Following Vagga 3's own established pairing, to be confirmed", [
+            "This project's own honest expectation, not yet "
+            "confirmed: Vagga 3's own SN 48.26 was directly paired "
+            "with an arahant discourse (SN 48.27) immediately "
+            "following. This project will read the next discourse "
+            "fresh from its own source rather than assuming this "
+            "pairing repeats automatically.",
+        ]),
+    ],
+    terms=[
+        ("Sukhindriyavagga", "&ldquo;the vagga of the pleasure "
+             "faculty&rdquo; &mdash; this discourse continues the "
+             "five feeling faculties named at SN 48.31"),
+        ("Sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ, "
+             "domanassindriyaṁ, upekkhindriyaṁ", "the five feeling "
+             "faculties: pleasure, pain, happiness, sadness, and "
+             "equanimity"),
+        ("samudayañca atthaṅgamañca assādañca ādīnavañca "
+             "nissaraṇañca", "&ldquo;origin, disappearance, "
+             "gratification, drawback, and escape&rdquo; &mdash; the "
+             "same fivefold lens recurring across this saṃyutta"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyaṇo", "the "
+             "classic stream-enterer formula: &ldquo;not liable to "
+             "be reborn in the underworld, assured, destined for "
+             "awakening&rdquo;"),
+        ("Dutiyaṁ", "&ldquo;the second&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's second "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.32:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "Which earlier discourse in this project's own work does this one closely mirror?",
+         "opts": ["SN 48.26, the stream-enterer discourse for the six sense faculties", "SN 48.20, closing Mudutaravagga", "SN 48.1, opening the entire saṃyutta", "SN 48.29, the first ascetics-and-brahmins discourse"],
+         "correct": 0,
+         "expl": "The same fivefold lens and closing formula, now for the five feeling faculties instead of the six sense faculties."},
+        {"q": "What five faculties does this discourse's own criterion apply to?",
+         "opts": ["Pleasure, pain, happiness, sadness, and equanimity", "Eye, ear, nose, tongue, and body", "Faith, energy, mindfulness, immersion, and wisdom", "Femininity, masculinity, life, and two others"],
+         "correct": 0,
+         "expl": "The five feeling faculties newly introduced at SN 48.31."},
+        {"q": "What does this project's own reading guide say about a possible paired arahant discourse next?",
+         "opts": ["It expects such a pairing based on Vagga 3's own precedent, but will confirm the next discourse fresh rather than assume", "It rules out any such pairing entirely", "It asserts with certainty that SN 48.33 is an arahant discourse", "It states no such pattern has ever occurred in this saṃyutta"],
+         "correct": 0,
+         "expl": "An honest expectation, not a guessed conclusion — consistent with this project's own established practice."},
+    ],
+    marginalia=[
+        ("An echo of SN 48.26", [
+            "the same lens, the same closing words —",
+            "now for pleasure, pain, and three more"
+        ]),
+        ("A device recurring across vaggas", [
+            "origin, drawback, escape — met again —",
+            "applied to whichever faculties are at hand"
+        ]),
+        ("A pairing expected, not assumed", [
+            "Vagga 3 paired stream-enterer with arahant —",
+            "this vagga's own next discourse read fresh"
+        ]),
+        ("Second discourse, Dutiyaṁ", [
+            "brief as the vagga's own opening before it —",
+            "more of this new vagga still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.32/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.31.html\">SN 48.31 &middot; Plain "
+        "Version</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
