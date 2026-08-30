@@ -36373,3 +36373,148 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.20 — Āsavakkhayasutta
+# Closes 2. Mudutaravagga (SN 48.11-20), with its own colophon and
+# uddāna naming all ten discourses of the vagga. Confirmed by direct
+# reading: the uddāna's own sequence (Gain; three brief ones; three
+# more detailed ones; Practicing and Endowed; the tenth is the ending
+# of defilements) matches, item for item, this project's own SN
+# 48.11-20 exactly as already translated.
+# --------------------------------------------------------------------------- #
+page(
+    48, 20, "Āsavakkhaya", "The Ending of Defilements",
+    vagga="Mudutaravagga",
+    meta_title="SN 48.20 — The Ending of Defilements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āsavakkhayasutta — closing Mudutaravagga with the "
+        "classic arahant-attainment formula, undefiled freedom of "
+        "heart and freedom by wisdom through the ending of "
+        "defilements. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single statement naming the five faculties' own "
+                 "final result, closing this vagga with its own "
+                 "colophon and uddāna"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; closes Mudutaravagga, confirmed "
+                         "exactly by its own uddāna against this "
+                         "project's own already-translated ten "
+                         "discourses"),
+    ],
+    why=(
+        "This discourse closes Mudutaravagga with the classic "
+        "arahant-attainment formula already met elsewhere in this "
+        "project's own work: developing and cultivating the five "
+        "faculties, a mendicant realizes the UNDEFILED freedom of "
+        "heart and freedom by wisdom (anāsavaṁ cetovimuttiṁ "
+        "paññāvimuttiṁ), in this very life, through the ending of "
+        "defilements &mdash; and its own closing colophon and "
+        "uddāna confirm, item for item, this project's own tracking "
+        "of all ten discourses in this vagga."
+    ),
+    guide=[
+        ("The classic freedom-of-heart and freedom-by-wisdom formula", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing formula &mdash; &ldquo;anāsavaṁ cetovimuttiṁ "
+            "paññāvimuttiṁ&rdquo; (&ldquo;the undefiled freedom of "
+            "heart and freedom by wisdom&rdquo;), realized "
+            "&ldquo;due to the ending of defilements&rdquo; "
+            "(āsavānaṁ khayā) &mdash; is the canon's own classic "
+            "description of full arahantship, here presented as the "
+            "direct result of developing the five faculties.",
+        ]),
+        ("The vagga's own uddāna, confirmed item for item", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing verse &mdash; &ldquo;Gain, three brief ones, "
+            "three more detailed ones; Practicing and Endowed, the "
+            "tenth is the ending of defilements&rdquo; &mdash; "
+            "matches this project's own already-translated sequence "
+            "exactly: SN 48.11 (Gain), SN 48.12-14 (three "
+            "&ldquo;in brief&rdquo;), SN 48.15-17 (three &ldquo;in "
+            "detail&rdquo;), SN 48.18 (Practicing), SN 48.19 "
+            "(Endowed), and this discourse itself as the tenth.",
+        ]),
+        ("A fitting close, echoing the vagga's own opening theme", [
+            "This project's own comparison confirms this discourse "
+            "closes the vagga on the same theme SN 48.19 introduced "
+            "&mdash; the faculties' own proper CULMINATION, not "
+            "merely their degree &mdash; here stated as their "
+            "highest possible result, full arahantship through the "
+            "ending of defilements.",
+        ]),
+    ],
+    terms=[
+        ("bhāvitattā bahulīkatattā", "&ldquo;because of developing "
+             "and cultivating&rdquo; &mdash; the condition for this "
+             "discourse's own final result"),
+        ("āsavānaṁ khayā", "&ldquo;due to the ending of "
+             "defilements&rdquo; &mdash; naming the result directly "
+             "as the classic mark of arahantship"),
+        ("anāsavaṁ cetovimuttiṁ paññāvimuttiṁ", "&ldquo;the "
+             "undefiled freedom of heart and freedom by "
+             "wisdom&rdquo; &mdash; the canon's own classic "
+             "description of full liberation"),
+        ("Mudutaravaggo dutiyo", "&ldquo;the second vagga, "
+             "Mudutaravagga, is finished&rdquo; &mdash; the Pāli "
+             "root's own closing colophon"),
+        ("paṭilābho tayo saṅkhittā, vitthārā apare tayo, paṭipanno "
+             "ca sampanno, dasamaṁ āsavakkhayaṁ", "the closing "
+             "uddāna, confirmed to match this project's own SN "
+             "48.11-20 exactly, item for item"),
+    ],
+    text_intro=("The complete discourse. This vagga's own closing "
+        "colophon and uddāna are described, not translated, above. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.20:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as the result of developing and cultivating the five faculties?",
+         "opts": ["The undefiled freedom of heart and freedom by wisdom, through the ending of defilements", "Stream-entry alone, with no further attainment named", "A temporary state that fades after some time", "Rebirth in a higher heavenly realm"],
+         "correct": 0,
+         "expl": "The canon's own classic description of full arahantship."},
+        {"q": "What does this discourse's own uddāna confirm?",
+         "opts": ["This project's own tracking of all ten discourses in this vagga, matching item for item", "That a new saṃyutta begins immediately afterward", "That this vagga actually contains only five discourses, not ten", "Nothing; the uddāna is left entirely untranslated"],
+         "correct": 0,
+         "expl": "Gain, three brief, three detailed, Practicing, Endowed, and this discourse as the tenth — confirmed exactly."},
+        {"q": "How does this discourse relate to SN 48.19's own theme?",
+         "opts": ["It closes the vagga on the same theme of the faculties' own proper culmination, here as full arahantship", "It contradicts SN 48.19's own claim entirely", "It has no thematic relationship to SN 48.19", "It returns to the six-level scale from SN 48.12-14 instead"],
+         "correct": 0,
+         "expl": "The highest possible result, echoing the vagga's own direction-focused theme introduced at SN 48.19."},
+    ],
+    marginalia=[
+        ("The classic arahant formula", [
+            "undefiled freedom of heart and by wisdom —",
+            "through the ending of defilements"
+        ]),
+        ("The uddāna, confirmed exactly", [
+            "Gain, three brief, three detailed, practicing, endowed —",
+            "this project's own ten discourses, matched"
+        ]),
+        ("A fitting close, echoing SN 48.19", [
+            "not degree this time, but culmination —",
+            "the faculties' own highest possible result"
+        ]),
+        ("Tenth discourse, vagga complete", [
+            "Mudutaravaggo dutiyo — the second vagga finished —",
+            "SN 48.21 onward still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.20/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.19.html\">SN 48.19 &middot; Endowed</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
